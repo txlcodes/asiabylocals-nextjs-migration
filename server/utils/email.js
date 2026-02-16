@@ -740,9 +740,9 @@ export const sendBookingNotificationEmail = async (supplierEmail, supplierName, 
       if (bookingDetails.invoicePDFBase64) {
         resendPayload.attachments = [{
           filename: `AsiaByLocals_Invoice_${bookingDetails.bookingReference || 'booking'}.pdf`,
-          content: bookingDetails.invoicePDFBase64
+          content: Buffer.from(bookingDetails.invoicePDFBase64, 'base64')
         }];
-        console.log('📎 Invoice PDF attached to supplier notification email');
+        console.log('📎 Invoice PDF attached to supplier notification email (Resend)');
       }
 
       const result = await resendClient.emails.send(resendPayload);
@@ -1067,9 +1067,9 @@ export const sendBookingConfirmationEmail = async (customerEmail, customerName, 
       if (bookingDetails.invoicePDFBase64) {
         resendPayload.attachments = [{
           filename: `AsiaByLocals_Invoice_${bookingReference}.pdf`,
-          content: bookingDetails.invoicePDFBase64
+          content: Buffer.from(bookingDetails.invoicePDFBase64, 'base64')
         }];
-        console.log('📎 Invoice PDF attached to customer confirmation email');
+        console.log('📎 Invoice PDF attached to customer confirmation email (Resend)');
       }
 
       const result = await resendClient.emails.send(resendPayload);
