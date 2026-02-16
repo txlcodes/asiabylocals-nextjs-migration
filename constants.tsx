@@ -6,6 +6,7 @@ export const CITIES: Country[] = [
   { id: 'delhi', name: 'Delhi', image: '/cities-images/delhi.jpg', localAngle: 'Historic Capital', guidesCount: 245 },
   { id: 'jaipur', name: 'Jaipur', image: '/jaipur-hero.jpg', localAngle: 'Pink City', guidesCount: 189 },
   { id: 'jodhpur', name: 'Jodhpur', image: '/cities-images/jodhpur.jpg', localAngle: 'Blue City', guidesCount: 145 },
+  { id: 'jaisalmer', name: 'Jaisalmer', image: '/cities-images/jaisalmer.jpg', localAngle: 'Golden City', guidesCount: 124 },
   { id: 'bikaner', name: 'Bikaner', image: '/cities-images/bikaner.jpg', localAngle: 'Desert Heritage', guidesCount: 98 },
   { id: 'mathura', name: 'Mathura', image: '/cities-images/mathura.jpg', localAngle: 'Spiritual Capital', guidesCount: 134 },
   { id: 'varanasi', name: 'Varanasi', image: '/cities-images/varanasi.jpg', localAngle: 'Sacred Ganges', guidesCount: 178 },
@@ -356,24 +357,24 @@ export const ENTRY_TICKET_OPTIONS: Array<{
   label: string;
   description: string;
 }> = [
-  {
-    value: 'paid_included',
-    label: 'Paid entry: ticket included',
-    description: 'The activity enters the location, and the ticket is included in the activity price.'
-  },
-  {
-    value: 'paid_not_included',
-    label: 'Paid entry: ticket not included',
-    description: 'The activity enters the location, but the ticket is not included in the activity price. Customers must pay the entrance fee during the activity.'
-  },
-  {
-    value: 'free_entry',
-    label: 'Free entry: no ticket required',
-    description: 'The location is free to enter. No ticket is required.'
-  },
-  {
-    value: 'exterior_only',
-    label: 'No entry: exterior visit only',
-    description: 'The activity does not enter the location, but it is part of the experience (e.g. the attraction\'s exterior is visited or detailed during a guided tour, etc).'
-  }
-];
+    {
+      value: 'paid_included',
+      label: 'Paid entry: ticket included',
+      description: 'The activity enters the location, and the ticket is included in the activity price.'
+    },
+    {
+      value: 'paid_not_included',
+      label: 'Paid entry: ticket not included',
+      description: 'The activity enters the location, but the ticket is not included in the activity price. Customers must pay the entrance fee during the activity.'
+    },
+    {
+      value: 'free_entry',
+      label: 'Free entry: no ticket required',
+      description: 'The location is free to enter. No ticket is required.'
+    },
+    {
+      value: 'exterior_only',
+      label: 'No entry: exterior visit only',
+      description: 'The activity does not enter the location, but it is part of the experience (e.g. the attraction\'s exterior is visited or detailed during a guided tour, etc).'
+    }
+  ];

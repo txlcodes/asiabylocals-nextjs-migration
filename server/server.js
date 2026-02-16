@@ -3143,11 +3143,11 @@ app.post('/api/tours', async (req, res) => {
           message: 'Group price is required and must be a positive number for per-group pricing'
         });
       }
-      if (!maxGroupSize || isNaN(parseInt(maxGroupSize)) || parseInt(maxGroupSize) < 1 || parseInt(maxGroupSize) > 20) {
+      if (!maxGroupSize || isNaN(parseInt(maxGroupSize)) || parseInt(maxGroupSize) < 1) {
         return res.status(400).json({
           success: false,
           error: 'Invalid group size',
-          message: 'Max group size is required and must be between 1 and 20 for per-group pricing'
+          message: 'Max group size is required and must be at least 1 for per-group pricing'
         });
       }
     } else {
@@ -7719,9 +7719,10 @@ app.post('/api/bookings', async (req, res) => {
           currency: currency || 'INR',
           specialRequests: specialRequests || null,
           supplierName: supplier?.fullName || supplier?.companyName || 'Your Guide',
-          supplierEmail: supplier?.email,
-          supplierPhone: supplier?.phone,
-          supplierWhatsApp: supplier?.whatsapp
+          supplierEmail: supplier.email,
+          supplierPhone: supplier.phone || null,
+          supplierWhatsApp: supplier.whatsapp || null,
+          paymentStatus: 'Pending'
         }
       );
       console.log(`✅ Booking confirmation email sent to customer: ${customerEmail}`);
@@ -8245,6 +8246,7 @@ app.post('/api/verify-payment', async (req, res) => {
           supplierWhatsApp: booking.supplier.whatsapp,
           razorpayPaymentId: razorpay_payment_id,
           razorpayOrderId: razorpay_order_id,
+          paymentStatus: 'Paid',
           invoiceUrl: invoiceUrl,
           invoicePDFBase64: invoicePDFBase64 // Pass base64 PDF for attachment
         }

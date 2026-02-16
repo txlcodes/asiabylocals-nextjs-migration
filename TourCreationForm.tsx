@@ -42,10 +42,12 @@ const COUNTRY_CITIES: Record<string, string[]> = {
     'Mumbai',
     'Agra',
     'Jaipur',
+    'Jodhpur',
+    'Jaisalmer',
+    'Udaipur',
+    'Varanasi',
     'Goa',
     'Kerala',
-    'Varanasi',
-    'Udaipur',
     'Rishikesh',
     'Darjeeling'
   ],
@@ -216,13 +218,13 @@ const TOUR_TYPES = [
   'Custom / Tailor-Made Tour'
 ];
 
-const TourCreationForm: React.FC<TourCreationFormProps> = ({ 
-  supplierId, 
+const TourCreationForm: React.FC<TourCreationFormProps> = ({
+  supplierId,
   supplierEmail,
   supplierPhone,
   supplierWhatsApp,
   tour,
-  onClose, 
+  onClose,
   onSuccess,
   onProfileRequired
 }) => {
@@ -239,6 +241,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
   const isEditing = !!tour;
   const [step, setStep] = useState(1);
+  const [showDurationError, setShowDurationError] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submissionStatus, setSubmissionStatus] = useState<string>('');
   const [transportationSearch, setTransportationSearch] = useState('');
@@ -249,7 +252,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
     }
     return true;
   });
-  
+
   // Parse tour data for editing
   const parseTourData = (tour: any) => {
     if (!tour) return null;
@@ -265,7 +268,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         pricingType: 'per_group' as const, // Always per group now
         maxGroupSize: tour.maxGroupSize || undefined,
         groupPrice: tour.groupPrice?.toString() || '',
-        groupPricingTiers: tour.groupPricingTiers ? (typeof tour.groupPricingTiers === 'string' ? JSON.parse(tour.groupPricingTiers) : tour.groupPricingTiers) : [], // Legacy
+        groupPricingTiers: tour.groupPricingTiers ? (typeof tour.groupPricingTiers === 'string' ? JSON.parse(tour.groupPricingTiers) : tour.groupPricingTiers) : [],
         unavailableDates: tour.unavailableDates ? (typeof tour.unavailableDates === 'string' ? JSON.parse(tour.unavailableDates) : tour.unavailableDates) : [], // Legacy
         unavailableDaysOfWeek: tour.unavailableDaysOfWeek ? (typeof tour.unavailableDaysOfWeek === 'string' ? JSON.parse(tour.unavailableDaysOfWeek) : tour.unavailableDaysOfWeek) : (tour.unavailableDaysOfWeek ? [] : []),
         currency: tour.currency || 'INR',
@@ -289,7 +292,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       return null;
     }
   };
-  
+
   // Form data
   const [formData, setFormData] = useState(() => {
     if (tour) {
@@ -317,7 +320,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       pricingType: 'per_group' as 'per_person' | 'per_group', // Always per group now
       maxGroupSize: undefined as number | undefined,
       groupPrice: '',
-      groupPricingTiers: [] as Array<{ minPeople: number; maxPeople: number; price: string }>, // Legacy - will be removed
+      groupPricingTiers: [] as Array<{ minPeople: number; maxPeople: number; price: string }>,
       unavailableDates: [] as string[], // Legacy - dates guide is not available
       unavailableDaysOfWeek: [] as number[], // Days of week guide is not available (0=Sunday, 1=Monday, ..., 6=Saturday)
       currency: 'INR',
@@ -360,6 +363,9 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
   // Check if supplier has required contact information
   const hasRequiredContactInfo = !!(supplierEmail && (supplierPhone || supplierWhatsApp));
+  const missingContactInfo = [];
+  if (!supplierEmail) missingContactInfo.push('Email address');
+  if (!supplierPhone && !supplierWhatsApp) missingContactInfo.push('Phone or WhatsApp number');
 
   // Auto-fix missing locationEntryTickets when on step 3 (fixes editing issues)
   useEffect(() => {
@@ -387,7 +393,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       const newLocations = isRemoving
         ? prev.locations.filter(l => l !== location)
         : [...prev.locations, location];
-      
+
       // Remove entry ticket option if location is being removed
       const newEntryTickets = { ...prev.locationEntryTickets };
       if (isRemoving) {
@@ -396,7 +402,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         // Set default entry ticket option when adding a location
         newEntryTickets[location] = 'paid_included';
       }
-      
+
       return {
         ...prev,
         locations: newLocations,
@@ -427,7 +433,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
     const files = e.target.files;
     if (!files) return;
 
-    Array.from(files).forEach(file => {
+    Array.from(files).forEach((file: any) => {
       // Validate file
       if (file.size > 7 * 1024 * 1024) {
         alert(`File ${file.name} is too large. Maximum size is 7MB.`);
@@ -444,7 +450,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         'image/avif',
         'image/svg+xml'
       ];
-      
+
       if (!allowedTypes.includes(file.type)) {
         alert(`File ${file.name} is not a valid image format. Please use JPG, PNG, GIF, WebP, AVIF, or SVG.`);
         return;
@@ -458,7 +464,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           images: [...prev.images, result]
         }));
       };
-      reader.readAsDataURL(file);
+      reader.readAsDataURL(file as unknown as Blob);
     });
   };
 
@@ -488,13 +494,13 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       case 3:
         // Check that title exists
         if (!formData.title || formData.title.trim() === '') return false;
-        
+
         // For multi-day tours, check multiCityLocations
         if (formData.isMultiDayTour) {
           const multiCityKeys = Object.keys(formData.multiCityLocations);
           if (multiCityKeys.length === 0) return false;
           // Check that at least one city has at least one location selected
-          const hasLocations = multiCityKeys.some(city => 
+          const hasLocations = multiCityKeys.some(city =>
             formData.multiCityLocations[city] && formData.multiCityLocations[city].length > 0
           );
           return hasLocations;
@@ -508,11 +514,11 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       case 4:
         if (!formData.duration) return false;
         // Check that maxGroupSize is set and at least price for 1 person is entered
-        if (!formData.maxGroupSize || formData.maxGroupSize < 1 || formData.maxGroupSize > 20) return false;
+        if (!formData.maxGroupSize || formData.maxGroupSize < 1) return false;
         if (!formData.groupPricingTiers || formData.groupPricingTiers.length === 0) return false;
         // Must have at least price for 1 person
-        const hasPriceForOne = formData.groupPricingTiers.some(tier => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
-        if (!hasPriceForOne) return false;
+        const hasPriceForMin = formData.groupPricingTiers.some(tier => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
+        if (!hasPriceForMin) return false;
         return true;
       case 5:
         // Step 5: Description & Details
@@ -525,11 +531,11 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         return formData.tourOptions.length > 0 && formData.tourOptions.every(opt => {
           const hasBasicFields = opt.optionTitle.trim() && opt.optionDescription.trim() && opt.durationHours;
           if (!hasBasicFields) return false;
-          if (!opt.maxGroupSize || opt.maxGroupSize < 1 || opt.maxGroupSize > 20) return false;
+          if (!opt.maxGroupSize || opt.maxGroupSize < 1) return false;
           // Must have at least price for 1 person
           if (!opt.groupPricingTiers || opt.groupPricingTiers.length === 0) return false;
-          const hasPriceForOne = opt.groupPricingTiers.some((tier: any) => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
-          if (!hasPriceForOne) return false;
+          const hasPriceForMinOption = opt.groupPricingTiers.some((tier: any) => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
+          if (!hasPriceForMinOption) return false;
           return true;
         });
       case 8:
@@ -541,15 +547,15 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
   const handleSubmit = async (submitForReview: boolean = false) => {
     console.log('🚀 handleSubmit CALLED', { submitForReview, isEditing, step, tourId: tour?.id });
-    
+
     // Check if supplier has required contact information
     if (!supplierEmail || (!supplierPhone && !supplierWhatsApp)) {
       const missing = [];
       if (!supplierEmail) missing.push('Email address');
       if (!supplierPhone && !supplierWhatsApp) missing.push('Phone number or WhatsApp number');
-      
+
       alert(`❌ Cannot create tour!\n\nYou must have the following in your profile:\n${missing.join('\n')}\n\nThis information will be shared with customers when they book your tours.\n\nPlease go to your Profile tab and add this information first.`);
-      
+
       if (onProfileRequired) {
         onProfileRequired();
       }
@@ -575,14 +581,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
     if (!formData.locations || formData.locations.length === 0) missingFields.push('locations');
     if (!formData.duration || formData.duration.trim() === '') missingFields.push('duration');
     // Pricing - must have maxGroupSize and at least price for 1 person
-    if (!formData.maxGroupSize || formData.maxGroupSize < 1 || formData.maxGroupSize > 20) {
-      missingFields.push('maxGroupSize (1-20)');
+    if (!formData.maxGroupSize || formData.maxGroupSize < 1) {
+      missingFields.push('maxGroupSize (minimum 1)');
     }
     if (!formData.groupPricingTiers || formData.groupPricingTiers.length === 0) {
       missingFields.push('pricing for group sizes');
     } else {
-      const hasPriceForOne = formData.groupPricingTiers.some(tier => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
-      if (!hasPriceForOne) {
+      const hasPriceForMin = formData.groupPricingTiers.some(tier => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
+      if (!hasPriceForMin) {
         missingFields.push('price for 1 person (required - this shows as "Starting from")');
       }
     }
@@ -599,17 +605,17 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
     try {
       const API_URL = import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001');
-      
+
       // STEP 1: Upload images to Cloudinary FIRST (if they're base64)
       // This makes tour creation MUCH faster (small payload instead of 10-20MB)
       let imageUrls = formData.images;
       const hasBase64Images = formData.images.some(img => img.startsWith('data:image'));
-      
+
       if (hasBase64Images && formData.images.length > 0) {
         setSubmissionStatus(`Uploading ${formData.images.length} images to Cloudinary...`);
         console.log(`📤 Step 1: Uploading ${formData.images.length} images to Cloudinary...`);
         const uploadStartTime = Date.now();
-        
+
         try {
           const uploadResponse = await fetch(`${API_URL}/api/tours/upload-images`, {
             method: 'POST',
@@ -654,8 +660,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       let locationsToSave: string[] = [];
       if (formData.isMultiDayTour) {
         // For multi-day tours, flatten all cities' locations into one array
-        Object.values(formData.multiCityLocations).forEach(cityLocations => {
-          locationsToSave.push(...cityLocations);
+        Object.values(formData.multiCityLocations).forEach((cityLocations: any) => {
+          if (Array.isArray(cityLocations)) {
+            locationsToSave.push(...cityLocations);
+          }
         });
       } else {
         // For regular tours, use the single city locations
@@ -678,8 +686,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           : null,
         currency: formData.currency,
         // Store group pricing tiers and maxGroupSize
-        maxGroupSize: formData.maxGroupSize && formData.maxGroupSize >= 1 && formData.maxGroupSize <= 20 ? formData.maxGroupSize : null,
-        groupPrice: formData.groupPricingTiers && formData.groupPricingTiers.length > 0 
+        maxGroupSize: formData.maxGroupSize && formData.maxGroupSize >= 1 ? formData.maxGroupSize : null,
+        groupPrice: formData.groupPricingTiers && formData.groupPricingTiers.length > 0
           ? parseFloat(formData.groupPricingTiers[formData.groupPricingTiers.length - 1].price || '0')
           : null,
         groupPricingTiers: formData.groupPricingTiers && formData.groupPricingTiers.length > 0
@@ -706,29 +714,29 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           if (id || tourId || pricingType || pricing_type) {
             console.warn(`⚠️  Removing ID fields and pricingType from tour option ${idx + 1} to prevent conflicts`);
           }
-          
+
           // CRITICAL: Explicitly remove pricingType from cleanOpt as well (double safety)
           delete cleanOpt.pricingType;
           delete cleanOpt.pricing_type;
-          
+
           // Use first tier price (price for 1 person) as base price for display
           const hasGroupPricingTiers = cleanOpt.groupPricingTiers && Array.isArray(cleanOpt.groupPricingTiers) && cleanOpt.groupPricingTiers.length > 0;
-          
+
           // CRITICAL: If option doesn't have its own groupPricingTiers, inherit from main tour
           let optionGroupPricingTiers = cleanOpt.groupPricingTiers;
           if (!hasGroupPricingTiers && formData.groupPricingTiers && Array.isArray(formData.groupPricingTiers) && formData.groupPricingTiers.length > 0) {
             console.log(`Option ${idx + 1} inheriting main tour groupPricingTiers`);
             optionGroupPricingTiers = formData.groupPricingTiers;
           }
-          
+
           const finalHasGroupPricingTiers = optionGroupPricingTiers && Array.isArray(optionGroupPricingTiers) && optionGroupPricingTiers.length > 0;
-          
+
           const optionPrice = finalHasGroupPricingTiers && optionGroupPricingTiers.length > 0
             ? parseFloat(optionGroupPricingTiers[0].price || '0')
             : (formData.groupPricingTiers && formData.groupPricingTiers.length > 0
               ? parseFloat(formData.groupPricingTiers[0].price || '0')
               : 0);
-          
+
           // Build return object WITHOUT pricingType (backend will infer from groupPrice/maxGroupSize)
           const returnOpt: any = {
             optionTitle: cleanOpt.optionTitle.trim(),
@@ -741,7 +749,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
             carIncluded: cleanOpt.carIncluded || false,
             entryTicketIncluded: cleanOpt.entryTicketIncluded || false,
             guideIncluded: cleanOpt.guideIncluded !== undefined ? cleanOpt.guideIncluded : true,
-            maxGroupSize: cleanOpt.maxGroupSize && cleanOpt.maxGroupSize >= 1 && cleanOpt.maxGroupSize <= 20 ? cleanOpt.maxGroupSize : null,
+            maxGroupSize: cleanOpt.maxGroupSize && cleanOpt.maxGroupSize >= 1 ? cleanOpt.maxGroupSize : null,
             groupPrice: finalHasGroupPricingTiers && optionGroupPricingTiers.length > 0
               ? parseFloat(optionGroupPricingTiers[optionGroupPricingTiers.length - 1].price || '0')
               : null,
@@ -749,11 +757,11 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
             groupPricingTiers: finalHasGroupPricingTiers ? JSON.stringify(optionGroupPricingTiers) : (formData.groupPricingTiers && formData.groupPricingTiers.length > 0 ? JSON.stringify(formData.groupPricingTiers) : null),
             sortOrder: idx
           };
-          
+
           // CRITICAL: Final check - ensure pricingType is NOT in return object
           delete returnOpt.pricingType;
           delete returnOpt.pricing_type;
-          
+
           return returnOpt;
         })
       };
@@ -788,7 +796,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
       const url = isEditing ? `${API_URL}/api/tours/${tour.id}` : `${API_URL}/api/tours`;
       const method = isEditing ? 'PUT' : 'POST';
-      
+
       // Serialize JSON (should be fast now with URLs instead of base64)
       console.log('⏳ Serializing tour data...');
       const serializeStartTime = Date.now();
@@ -802,16 +810,16 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         setSubmissionStatus('');
         throw new Error('Failed to prepare tour data. Please try again.');
       }
-      
+
       // Send request (should be much faster now)
       setSubmissionStatus('Sending tour data to server...');
       console.log('⏳ Sending tour data to server...');
       const sendStartTime = Date.now();
-      
+
       // Create AbortController for timeout
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), 60000); // 60 second timeout
-      
+
       let response;
       try {
         response = await fetch(url, {
@@ -838,12 +846,12 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         } catch (jsonError) {
           // If JSON parsing fails, try to get text response
           const textResponse = await response.text().catch(() => 'Unknown error');
-          errorData = { 
+          errorData = {
             message: `Server error: ${response.status} ${response.statusText}. ${textResponse}`,
             error: 'Network error occurred'
           };
         }
-        
+
         // Debug: Log the error response
         console.error('❌ Server error response:', {
           status: response.status,
@@ -851,16 +859,16 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           error: errorData,
           fullResponse: errorData
         });
-        
+
         // Use server's error message directly - prioritize message field
         const errorMessage = errorData.message || errorData.error || `Server error: ${response.status}`;
         const commonIssues = errorData.commonIssues || [];
-        
+
         // Create error object with message and commonIssues
         const error = new Error(errorMessage) as any;
         error.commonIssues = commonIssues;
         error.errorData = errorData;
-        
+
         console.error('❌ Throwing error:', errorMessage);
         throw error;
       }
@@ -876,7 +884,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       const data = await response.json();
       const parseTime = Date.now() - parseStartTime;
       console.log(`✅ Response parsed in ${parseTime}ms`);
-      
+
       console.log('✅ Tour create/update data:', {
         success: data.success,
         tourId: data.tour?.id,
@@ -887,7 +895,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       if (data.success) {
         // Extract tour ID - handle both data.tour.id and data.tourId formats
         const tourId = data.tour?.id || data.tourId;
-        
+
         if (!tourId) {
           console.error('❌ No tour ID in response:', data);
           throw new Error('Tour was created but no tour ID was returned. Please check your dashboard.');
@@ -898,10 +906,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         if (isEditing && submitForReview) {
           // Tour edited and needs to be submitted for review
           console.log('📤 Tour updated, now submitting for review...', { tourId });
-          
+
           const submitController = new AbortController();
           const submitTimeoutId = setTimeout(() => submitController.abort(), 30000); // 30 second timeout
-          
+
           let submitResponse;
           try {
             console.log(`📤 Calling submit endpoint: ${API_URL}/api/tours/${tourId}/submit`);
@@ -952,10 +960,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           // Submit for review
           setSubmissionStatus('Submitting tour for review...');
           console.log('📤 Submitting new tour for review...', { tourId });
-          
+
           const submitController = new AbortController();
           const submitTimeoutId = setTimeout(() => submitController.abort(), 30000); // 30 second timeout
-          
+
           let submitResponse;
           try {
             console.log(`📤 Calling submit endpoint: ${API_URL}/api/tours/${tourId}/submit`);
@@ -1016,10 +1024,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         name: error.name,
         error: error
       });
-      
+
       // Use the error message directly from the server or provide a clear default
       let errorMessage: string;
-      
+
       // Prioritize showing the actual server error message
       if (error.message) {
         // Check if it's a ReferenceError (frontend issue)
@@ -1038,14 +1046,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       } else {
         errorMessage = 'Failed to create tour. Please check your connection and try again.';
       }
-      
+
       // Show error in alert with helpful information
       const commonIssues = (error as any).commonIssues || [
         'Your supplier account needs admin approval',
         'Check all required fields are filled',
         'Ensure you have at least 4 images uploaded'
       ];
-      
+
       const issuesText = commonIssues.map(issue => `• ${issue}`).join('\n');
       alert(`❌ ${errorMessage}\n\nCommon issues:\n${issuesText}`);
     } finally {
@@ -1181,7 +1189,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 1 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Select Country</h2>
-            
+
             <div className="space-y-6">
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -1212,7 +1220,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 2 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Choose Category & City</h2>
-            
+
             <div className="space-y-6">
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -1222,11 +1230,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                   <button
                     type="button"
                     onClick={() => handleInputChange('category', 'Entry Ticket')}
-                    className={`p-6 rounded-2xl border-2 transition-all text-left ${
-                      formData.category === 'Entry Ticket'
-                        ? 'border-[#10B981] bg-[#10B981]/5'
-                        : 'border-gray-200 hover:border-[#10B981]/50'
-                    }`}
+                    className={`p-6 rounded-2xl border-2 transition-all text-left ${formData.category === 'Entry Ticket'
+                      ? 'border-[#10B981] bg-[#10B981]/5'
+                      : 'border-gray-200 hover:border-[#10B981]/50'
+                      }`}
                   >
                     <div className="font-black text-[#001A33] text-[16px] mb-2">Entry Ticket</div>
                     <div className="text-[13px] text-gray-600 font-semibold">
@@ -1236,11 +1243,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                   <button
                     type="button"
                     onClick={() => handleInputChange('category', 'Guided Tour')}
-                    className={`p-6 rounded-2xl border-2 transition-all text-left ${
-                      formData.category === 'Guided Tour'
-                        ? 'border-[#10B981] bg-[#10B981]/5'
-                        : 'border-gray-200 hover:border-[#10B981]/50'
-                    }`}
+                    className={`p-6 rounded-2xl border-2 transition-all text-left ${formData.category === 'Guided Tour'
+                      ? 'border-[#10B981] bg-[#10B981]/5'
+                      : 'border-gray-200 hover:border-[#10B981]/50'
+                      }`}
                   >
                     <div className="font-black text-[#001A33] text-[16px] mb-2">Guided Tour</div>
                     <div className="text-[13px] text-gray-600 font-semibold">
@@ -1257,7 +1263,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
-                  Select City * 
+                  Select City *
                 </label>
                 <select
                   value={formData.city}
@@ -1284,7 +1290,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 3 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Tour Title & Locations</h2>
-            
+
             <div className="space-y-6">
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -1407,11 +1413,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                                           };
                                         });
                                       }}
-                                      className={`p-2 rounded-lg border-2 text-[12px] font-semibold transition-all ${
-                                        isSelected
-                                          ? 'border-[#10B981] bg-[#10B981]/10 text-[#10B981]'
-                                          : 'border-gray-200 hover:border-[#10B981]/50 text-[#001A33]'
-                                      }`}
+                                      className={`p-2 rounded-lg border-2 text-[12px] font-semibold transition-all ${isSelected
+                                        ? 'border-[#10B981] bg-[#10B981]/10 text-[#10B981]'
+                                        : 'border-gray-200 hover:border-[#10B981]/50 text-[#001A33]'
+                                        }`}
                                     >
                                       {location}
                                     </button>
@@ -1447,11 +1452,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                             <div
                               key={location}
                               onClick={() => handleLocationToggle(location)}
-                              className={`relative p-4 bg-white rounded-xl border-2 cursor-pointer transition-all hover:shadow-md ${
-                                isSelected
-                                  ? 'border-[#10B981] bg-[#10B981]/5'
-                                  : 'border-gray-200 hover:border-[#10B981]/50'
-                              }`}
+                              className={`relative p-4 bg-white rounded-xl border-2 cursor-pointer transition-all hover:shadow-md ${isSelected
+                                ? 'border-[#10B981] bg-[#10B981]/5'
+                                : 'border-gray-200 hover:border-[#10B981]/50'
+                                }`}
                             >
                               {isSelected && (
                                 <div className="absolute top-2 right-2 w-6 h-6 bg-[#10B981] rounded-full flex items-center justify-center">
@@ -1459,9 +1463,9 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                                 </div>
                               )}
                               <div className="flex flex-col items-center text-center">
-                                <MapPin 
-                                  size={24} 
-                                  className={`mb-2 ${isSelected ? 'text-[#10B981]' : 'text-gray-400'}`} 
+                                <MapPin
+                                  size={24}
+                                  className={`mb-2 ${isSelected ? 'text-[#10B981]' : 'text-gray-400'}`}
                                 />
                                 <span className={`text-[13px] font-bold ${isSelected ? 'text-[#10B981]' : 'text-[#001A33]'}`}>
                                   {location}
@@ -1508,128 +1512,85 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
               )}
 
               {/* Entry Ticket Options for Selected Locations */}
-              {formData.locations.length > 0 && (
-                <div className="mt-6">
-                  <label className="block text-[14px] font-bold text-[#001A33] mb-3">
-                    Entry Ticket Options for Each Location *
-                  </label>
-                  <p className="text-[12px] text-gray-500 font-semibold mb-4">
-                    Specify how entry to each location is handled
-                  </p>
-                  <div className="space-y-4">
-                    {formData.locations.map((location) => (
-                      <div key={location} className="bg-gray-50 rounded-xl p-4 border border-gray-200 relative">
-                        <button
-                          type="button"
-                          onClick={() => {
-                            setFormData(prev => {
-                              const newLocations = prev.locations.filter(l => l !== location);
-                              const newEntryTickets = { ...prev.locationEntryTickets };
-                              delete newEntryTickets[location];
-                              return {
-                                ...prev,
-                                locations: newLocations,
-                                locationEntryTickets: newEntryTickets
-                              };
-                            });
-                          }}
-                          className="absolute top-3 right-3 p-1 hover:bg-red-100 rounded-full transition-colors text-gray-400 hover:text-red-600"
-                          aria-label={`Remove ${location}`}
-                        >
-                          <X size={16} />
-                        </button>
-                        <label className="block text-[13px] font-bold text-[#001A33] mb-2 pr-8">
-                          {location}
-                        </label>
-                        <select
-                          value={formData.locationEntryTickets[location] || 'paid_included'}
-                          onChange={(e) => {
-                            setFormData(prev => ({
-                              ...prev,
-                              locationEntryTickets: {
-                                ...prev.locationEntryTickets,
-                                [location]: e.target.value as EntryTicketOption
-                              }
-                            }));
-                          }}
-                          className="w-full bg-white border border-gray-300 rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[13px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                        >
-                          {ENTRY_TICKET_OPTIONS.map(option => (
-                            <option key={option.value} value={option.value}>
-                              {option.label}
-                            </option>
-                          ))}
-                        </select>
-                        <p className="text-[11px] text-gray-500 mt-1">
-                          {ENTRY_TICKET_OPTIONS.find(opt => opt.value === (formData.locationEntryTickets[location] || 'paid_included'))?.description}
-                        </p>
-                      </div>
-                    )                    )}
-                  </div>
-                </div>
-              )}
+              {(() => {
+                const allLocations = formData.isMultiDayTour
+                  ? Object.values(formData.multiCityLocations).flat()
+                  : formData.locations;
 
-              {/* Entry Ticket Options for Selected Locations - Only for single city tours */}
-              {!formData.isMultiDayTour && formData.locations.length > 0 && (
-                <div className="mt-6">
-                  <label className="block text-[14px] font-bold text-[#001A33] mb-3">
-                    Entry Ticket Options for Each Location *
-                  </label>
-                  <p className="text-[12px] text-gray-500 font-semibold mb-4">
-                    Specify how entry to each location is handled
-                  </p>
-                  <div className="space-y-4">
-                    {formData.locations.map((location) => (
-                      <div key={location} className="bg-gray-50 rounded-xl p-4 border border-gray-200 relative">
-                        <button
-                          type="button"
-                          onClick={() => {
-                            setFormData(prev => {
-                              const newLocations = prev.locations.filter(l => l !== location);
-                              const newEntryTickets = { ...prev.locationEntryTickets };
-                              delete newEntryTickets[location];
-                              return {
+                if (allLocations.length === 0) return null;
+
+                return (
+                  <div className="mt-6">
+                    <label className="block text-[14px] font-bold text-[#001A33] mb-3">
+                      Entry Ticket Options for Each Location *
+                    </label>
+                    <p className="text-[12px] text-gray-500 font-semibold mb-4">
+                      Specify how entry to each location is handled
+                    </p>
+                    <div className="space-y-4">
+                      {allLocations.map((location) => (
+                        <div key={location} className="bg-gray-50 rounded-xl p-4 border border-gray-200 relative">
+                          <button
+                            type="button"
+                            onClick={() => {
+                              setFormData(prev => {
+                                const newLocations = prev.locations.filter(l => l !== location);
+                                const newEntryTickets = { ...prev.locationEntryTickets };
+                                delete newEntryTickets[location];
+
+                                // Also remove from multiCityLocations if it's a multi-day tour
+                                const newMultiCityLocations = { ...prev.multiCityLocations };
+                                if (prev.isMultiDayTour) {
+                                  Object.keys(newMultiCityLocations).forEach(city => {
+                                    newMultiCityLocations[city] = newMultiCityLocations[city].filter(loc => loc !== location);
+                                  });
+                                }
+
+                                return {
+                                  ...prev,
+                                  locations: newLocations,
+                                  locationEntryTickets: newEntryTickets,
+                                  multiCityLocations: newMultiCityLocations
+                                };
+                              });
+                            }}
+                            className="absolute top-3 right-3 p-1 hover:bg-red-100 rounded-full transition-colors text-gray-400 hover:text-red-600"
+                            aria-label={`Remove ${location}`}
+                          >
+                            <X size={16} />
+                          </button>
+                          <label className="block text-[13px] font-bold text-[#001A33] mb-2 pr-8">
+                            {location}
+                          </label>
+                          <select
+                            value={formData.locationEntryTickets[location] || 'paid_included'}
+                            onChange={(e) => {
+                              setFormData(prev => ({
                                 ...prev,
-                                locations: newLocations,
-                                locationEntryTickets: newEntryTickets
-                              };
-                            });
-                          }}
-                          className="absolute top-3 right-3 p-1 hover:bg-red-100 rounded-full transition-colors text-gray-400 hover:text-red-600"
-                          aria-label={`Remove ${location}`}
-                        >
-                          <X size={16} />
-                        </button>
-                        <label className="block text-[13px] font-bold text-[#001A33] mb-2 pr-8">
-                          {location}
-                        </label>
-                        <select
-                          value={formData.locationEntryTickets[location] || 'paid_included'}
-                          onChange={(e) => {
-                            setFormData(prev => ({
-                              ...prev,
-                              locationEntryTickets: {
-                                ...prev.locationEntryTickets,
-                                [location]: e.target.value as EntryTicketOption
-                              }
-                            }));
-                          }}
-                          className="w-full bg-white border border-gray-300 rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[13px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                        >
-                          {ENTRY_TICKET_OPTIONS.map(option => (
-                            <option key={option.value} value={option.value}>
-                              {option.label}
-                            </option>
-                          ))}
-                        </select>
-                        <p className="text-[11px] text-gray-500 mt-1">
-                          {ENTRY_TICKET_OPTIONS.find(opt => opt.value === (formData.locationEntryTickets[location] || 'paid_included'))?.description}
-                        </p>
-                      </div>
-                    ))}
+                                locationEntryTickets: {
+                                  ...prev.locationEntryTickets,
+                                  [location]: e.target.value as EntryTicketOption
+                                }
+                              }));
+                            }}
+                            className="w-full bg-white border border-gray-300 rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[13px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                          >
+                            {ENTRY_TICKET_OPTIONS.map(option => (
+                              <option key={option.value} value={option.value}>
+                                {option.label}
+                              </option>
+                            ))}
+                          </select>
+                          <p className="text-[11px] text-gray-500 mt-1">
+                            {ENTRY_TICKET_OPTIONS.find(opt => opt.value === (formData.locationEntryTickets[location] || 'paid_included'))?.description}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
                   </div>
-                </div>
-              )}
+                );
+              })()}
+
 
             </div>
           </div>
@@ -1639,7 +1600,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 4 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Duration & Pricing</h2>
-            
+
             <div className="space-y-6">
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -1647,14 +1608,22 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 </label>
                 <select
                   value={formData.duration}
-                  onChange={(e) => handleInputChange('duration', e.target.value)}
-                  className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                  onChange={(e) => {
+                    handleInputChange('duration', e.target.value);
+                    if (e.target.value) setShowDurationError(false);
+                  }}
+                  className={`w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none ${showDurationError && !formData.duration ? 'ring-2 ring-red-500' : ''}`}
                 >
                   <option value="">Select Duration</option>
                   {DURATION_OPTIONS.map(opt => (
                     <option key={opt} value={opt}>{opt}</option>
                   ))}
                 </select>
+                {showDurationError && !formData.duration && (
+                  <p className="text-red-500 text-[12px] font-bold mt-2 ml-1 animate-pulse">
+                    Please select duration first
+                  </p>
+                )}
               </div>
 
               {/* Pricing Type - Always Per Group */}
@@ -1689,7 +1658,6 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       }}
                       placeholder="e.g., 10"
                       min="1"
-                      max="20"
                       className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
                     />
                     <p className="text-[11px] text-gray-400 mt-1">
@@ -1710,9 +1678,9 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     </select>
                   </div>
                 </div>
-                
+
                 {/* Pricing for Each Group Size */}
-                {formData.maxGroupSize && formData.maxGroupSize >= 1 && formData.maxGroupSize <= 20 && (
+                {formData.maxGroupSize && formData.maxGroupSize >= 1 && (
                   <div>
                     <div className="flex items-center justify-between mb-3">
                       <div>
@@ -1723,131 +1691,86 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                           Enter price for 1 person, then we'll suggest prices for others. You can adjust manually.
                         </p>
                       </div>
-                      {formData.groupPricingTiers && formData.groupPricingTiers.length > 0 && formData.groupPricingTiers[0]?.price && (
-                        <button
-                          type="button"
-                          onClick={() => {
-                            const priceForOne = parseFloat(formData.groupPricingTiers[0].price);
-                            if (!isNaN(priceForOne) && priceForOne > 0) {
-                              // Auto-fill: Use a simple multiplier (each additional person adds 80% of base price)
-                              // This gives discounts for larger groups
-                              const newTiers = Array.from({ length: formData.maxGroupSize }, (_, i) => {
-                                const numPeople = i + 1;
-                                // Calculate: base price + (additional people * 0.8 * base price)
-                                // Example: ₹500 for 1, ₹900 for 2, ₹1300 for 3, etc.
-                                const calculatedPrice = numPeople === 1 
-                                  ? priceForOne 
-                                  : Math.round(priceForOne + (numPeople - 1) * priceForOne * 0.8);
-                                
-                                return {
-                                  minPeople: numPeople,
-                                  maxPeople: numPeople,
-                                  price: calculatedPrice.toString()
-                                };
-                              });
-                              
-                              setFormData(prev => ({
-                                ...prev,
-                                groupPricingTiers: newTiers
-                              }));
-                            }
-                          }}
-                          className="px-3 py-1.5 bg-[#10B981] text-white rounded-lg text-[12px] font-bold hover:bg-[#059669] transition-colors"
-                        >
-                          Auto-Fill All
-                        </button>
-                      )}
+                      <button
+                        type="button"
+                        onClick={() => {
+                          const minTier = formData.groupPricingTiers?.find(t => t.minPeople === 1);
+                          const priceForMin = minTier ? parseFloat(minTier.price) : 0;
+                          if (priceForMin > 0) {
+                            const newTiers = Array.from({ length: formData.maxGroupSize || 0 }, (_, i) => {
+                              const numPeople = i + 1;
+                              const calculatedPrice = numPeople === 1
+                                ? priceForMin
+                                : Math.round(priceForMin + (numPeople - 1) * priceForMin * 0.8);
+                              return {
+                                minPeople: numPeople,
+                                maxPeople: numPeople,
+                                price: calculatedPrice.toString()
+                              };
+                            });
+                            setFormData(prev => ({ ...prev, groupPricingTiers: newTiers }));
+                          }
+                        }}
+                        className="px-4 py-2 bg-[#10B981] text-white rounded-xl text-[14px] font-bold hover:bg-[#059669] transition-colors"
+                      >
+                        Auto-Fill All
+                      </button>
                     </div>
-                    <div className="space-y-2 max-h-96 overflow-y-auto">
-                      {Array.from({ length: formData.maxGroupSize }, (_, i) => i + 1).map((numPeople) => {
-                        // Find existing tier for this number of people, or create a new one
-                        const existingTier = formData.groupPricingTiers?.find(
-                          tier => tier.minPeople === numPeople && tier.maxPeople === numPeople
-                        );
+
+                    <div className="space-y-3 max-h-[500px] overflow-y-auto pr-2 custom-scrollbar">
+                      {Array.from({ length: formData.maxGroupSize || 0 }, (_, i) => i + 1).map((numPeople) => {
+                        const existingTier = formData.groupPricingTiers?.find(t => t.minPeople === numPeople && t.maxPeople === numPeople);
                         const price = existingTier?.price || '';
-                        
-                        // Calculate suggested price based on price for 1 person
-                        const priceForOne = formData.groupPricingTiers?.find(t => t.minPeople === 1)?.price;
-                        const suggestedPrice = priceForOne && numPeople > 1 && !price
-                          ? Math.round(parseFloat(priceForOne) + (numPeople - 1) * parseFloat(priceForOne) * 0.8)
-                          : null;
-                        
+
+                        // Calculate suggested price based on 1 person price
+                        const baseTier = formData.groupPricingTiers?.find(t => t.minPeople === 1);
+                        const basePrice = baseTier ? parseFloat(baseTier.price) : 0;
+                        const suggestedPrice = basePrice > 0 && numPeople > 1 ? Math.round(basePrice + (numPeople - 1) * basePrice * 0.8) : null;
+
                         return (
-                          <div key={numPeople} className="flex items-center gap-3 bg-gray-50 rounded-xl p-3 border border-gray-200">
-                            <div className="w-24 flex-shrink-0">
-                              <span className="text-[14px] font-bold text-[#001A33]">
-                                {numPeople} {numPeople === 1 ? 'person' : 'people'}
-                              </span>
+                          <div key={numPeople} className="bg-gray-50 rounded-xl p-4 border border-gray-200 flex items-center gap-4">
+                            <div className="w-24">
+                              <span className="text-[14px] font-bold text-[#001A33]">{numPeople} {numPeople === 1 ? 'person' : 'people'}</span>
                             </div>
-                            <div className="flex items-center gap-2 flex-1">
-                              <span className="text-[14px] font-semibold text-gray-600">
-                                {formData.currency === 'INR' ? '₹' : '$'}
-                              </span>
-                              <input
-                                type="number"
-                                value={price}
-                                onChange={(e) => {
-                                  const newPrice = e.target.value;
-                                  setFormData(prev => {
-                                    const newTiers = [...(prev.groupPricingTiers || [])];
-                                    const tierIndex = newTiers.findIndex(
-                                      t => t.minPeople === numPeople && t.maxPeople === numPeople
-                                    );
-                                    
-                                    if (newPrice) {
-                                      const tier = { minPeople: numPeople, maxPeople: numPeople, price: newPrice };
+                            <div className="flex-1 flex items-center gap-3">
+                              <span className="text-[16px] font-bold text-[#001A33]">{formData.currency === 'INR' ? '₹' : '$'}</span>
+                              <div className="flex-1 relative">
+                                <input
+                                  type="number"
+                                  value={price}
+                                  onChange={(e) => {
+                                    const newPrice = e.target.value;
+                                    setFormData(prev => {
+                                      const newTiers = [...(prev.groupPricingTiers || [])];
+                                      const tierIndex = newTiers.findIndex(t => t.minPeople === numPeople && t.maxPeople === numPeople);
                                       if (tierIndex >= 0) {
-                                        newTiers[tierIndex] = tier;
+                                        newTiers[tierIndex] = { ...newTiers[tierIndex], price: newPrice };
                                       } else {
-                                        newTiers.push(tier);
+                                        newTiers.push({ minPeople: numPeople, maxPeople: numPeople, price: newPrice });
                                       }
-                                    } else {
-                                      // Remove tier if price is cleared
-                                      if (tierIndex >= 0) {
-                                        newTiers.splice(tierIndex, 1);
-                                      }
-                                    }
-                                    
-                                    // Sort by minPeople
-                                    newTiers.sort((a, b) => a.minPeople - b.minPeople);
-                                    
-                                    return {
-                                      ...prev,
-                                      groupPricingTiers: newTiers
-                                    };
-                                  });
-                                }}
-                                placeholder={suggestedPrice ? `Suggested: ${suggestedPrice}` : "Enter price"}
-                                min="0"
-                                step="0.01"
-                                className="flex-1 bg-white border border-gray-300 rounded-xl py-2 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                              />
+                                      return { ...prev, groupPricingTiers: newTiers.sort((a, b) => a.minPeople - b.minPeople) };
+                                    });
+                                  }}
+                                  placeholder={suggestedPrice ? `Suggested: ${suggestedPrice}` : "Enter price"}
+                                  className="w-full bg-white border border-gray-300 rounded-xl py-3 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                                />
+                              </div>
                               {suggestedPrice && !price && (
                                 <button
                                   type="button"
                                   onClick={() => {
                                     setFormData(prev => {
                                       const newTiers = [...(prev.groupPricingTiers || [])];
-                                      const tierIndex = newTiers.findIndex(
-                                        t => t.minPeople === numPeople && t.maxPeople === numPeople
-                                      );
-                                      
-                                      const tier = { minPeople: numPeople, maxPeople: numPeople, price: suggestedPrice.toString() };
+                                      const tierIndex = newTiers.findIndex(t => t.minPeople === numPeople && t.maxPeople === numPeople);
                                       if (tierIndex >= 0) {
-                                        newTiers[tierIndex] = tier;
+                                        newTiers[tierIndex] = { ...newTiers[tierIndex], price: suggestedPrice.toString() };
                                       } else {
-                                        newTiers.push(tier);
+                                        newTiers.push({ minPeople: numPeople, maxPeople: numPeople, price: suggestedPrice.toString() });
                                       }
-                                      
-                                      newTiers.sort((a, b) => a.minPeople - b.minPeople);
-                                      
-                                      return {
-                                        ...prev,
-                                        groupPricingTiers: newTiers
-                                      };
+                                      return { ...prev, groupPricingTiers: newTiers.sort((a, b) => a.minPeople - b.minPeople) };
                                     });
                                   }}
-                                  className="px-2 py-1 bg-blue-100 text-blue-700 rounded-lg text-[11px] font-semibold hover:bg-blue-200 transition-colors"
+                                  className="px-3 py-1.5 bg-blue-50 text-blue-600 rounded-lg text-[12px] font-bold hover:bg-blue-100 transition-colors whitespace-nowrap"
                                 >
                                   Use {suggestedPrice}
                                 </button>
@@ -1857,15 +1780,16 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                         );
                       })}
                     </div>
+
                     {formData.groupPricingTiers && formData.groupPricingTiers.length > 0 && formData.groupPricingTiers[0]?.price && (
-                      <p className="text-[11px] text-green-600 font-semibold mt-2">
-                        ✓ Main card will show: "Starting from {formData.currency === 'INR' ? '₹' : '$'}{formData.groupPricingTiers[0].price}"
+                      <p className="text-[12px] text-[#10B981] font-semibold mt-4">
+                        ✓ Main card will show: "Starting from {formData.currency === 'INR' ? '₹' : '$'}{parseFloat(formData.groupPricingTiers[0].price).toLocaleString()}"
                       </p>
                     )}
                   </div>
                 )}
               </div>
-              
+
               {/* Availability - Days of Week Guide is NOT Available */}
               <div className="mt-6 pt-6 border-t border-gray-200">
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -1905,11 +1829,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                             }
                           });
                         }}
-                        className={`p-3 rounded-xl border-2 transition-all text-[13px] font-semibold ${
-                          isSelected
-                            ? 'border-red-500 bg-red-50 text-red-700'
-                            : 'border-gray-200 hover:border-red-300 text-gray-700 bg-white'
-                        }`}
+                        className={`p-3 rounded-xl border-2 transition-all text-[13px] font-semibold ${isSelected
+                          ? 'border-red-500 bg-red-50 text-red-700'
+                          : 'border-gray-200 hover:border-red-300 text-gray-700 bg-white'
+                          }`}
                       >
                         {day.label}
                       </button>
@@ -1939,11 +1862,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                         key={tourType}
                         type="button"
                         onClick={() => handleTourTypeToggle(tourType)}
-                        className={`p-3 rounded-xl border-2 transition-all text-left text-[13px] font-semibold ${
-                          isSelected
-                            ? 'border-[#10B981] bg-[#10B981]/10 text-[#10B981]'
-                            : 'border-gray-200 hover:border-[#10B981]/50 text-gray-700'
-                        }`}
+                        className={`p-3 rounded-xl border-2 transition-all text-left text-[13px] font-semibold ${isSelected
+                          ? 'border-[#10B981] bg-[#10B981]/10 text-[#10B981]'
+                          : 'border-gray-200 hover:border-[#10B981]/50 text-gray-700'
+                          }`}
                       >
                         {tourType}
                       </button>
@@ -1964,7 +1886,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 5 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Description & Details</h2>
-            
+
             <div className="space-y-6">
               {/* Highlights Section */}
               <div>
@@ -1977,7 +1899,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 <p className="text-[12px] text-gray-600 font-semibold mb-3">
                   Write 3-5 sentences explaining what makes your activity special and stand out from the competition. Customers will use these to compare between different activities.
                 </p>
-                
+
                 {/* Requirement Banner */}
                 {formData.highlights.filter(h => h.trim()).length < 3 && (
                   <div className="bg-blue-50 border border-blue-200 rounded-xl p-3 mb-4 flex items-center justify-between">
@@ -2118,14 +2040,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-2">Add Pricing Options</h2>
             <p className="text-[14px] text-gray-600 font-semibold mb-4">
-              Create multiple pricing options for <span className="font-black text-[#001A33]">"{formData.title || 'this tour'}"</span>. All options belong to the same tour - customers will see one tour page and choose which option they prefer (like GetYourGuide).
+              Create multiple pricing options for <span className="font-black text-[#001A33]">"{formData.title || 'this tour'}"</span>. All options belong to the same tour - customers will see one tour page and choose which option they prefer.
             </p>
             <div className="bg-green-50 border border-green-200 rounded-xl p-4 mb-6">
               <p className="text-[13px] font-bold text-green-800">
                 💡 Example: For "Taj Mahal Tour", you can add options like "Basic Tour", "Tour with Pickup", and "Premium Tour" - all within the same tour!
               </p>
             </div>
-            
+
             {formData.tourOptions.length === 0 ? (
               <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 text-center">
                 <p className="text-[14px] text-blue-800 font-semibold mb-4">
@@ -2138,8 +2060,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       optionTitle: '',
                       optionDescription: '',
                       durationHours: formData.duration.replace(/[^\d.]/g, '') || '3',
-                      price: formData.groupPricingTiers && formData.groupPricingTiers.length > 0 
-                        ? formData.groupPricingTiers[0].price 
+                      price: formData.groupPricingTiers && formData.groupPricingTiers.length > 0
+                        ? formData.groupPricingTiers[0].price
                         : '',
                       currency: formData.currency,
                       language: formData.languages[0] || 'English',
@@ -2302,7 +2224,6 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                                 const newOptions = [...formData.tourOptions];
                                 const maxSize = e.target.value ? parseInt(e.target.value) : undefined;
                                 newOptions[index].maxGroupSize = maxSize;
-                                // Clear pricing tiers if max size changes
                                 if (!maxSize) {
                                   newOptions[index].groupPricingTiers = [];
                                 }
@@ -2310,11 +2231,10 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                               }}
                               placeholder="e.g., 10"
                               min="1"
-                              max="20"
                               className="w-full bg-white border-none rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
                             />
                             <p className="text-[11px] text-gray-400 mt-1">
-                              Maximum number of people for this option
+                              Maximum number of people you can guide in a day
                             </p>
                           </div>
                           <div>
@@ -2335,9 +2255,9 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                             </select>
                           </div>
                         </div>
-                        
+
                         {/* Pricing for Each Group Size */}
-                        {option.maxGroupSize && option.maxGroupSize >= 1 && option.maxGroupSize <= 20 && (
+                        {option.maxGroupSize && option.maxGroupSize >= 1 && (
                           <div>
                             <div className="flex items-center justify-between mb-2">
                               <div>
@@ -2348,124 +2268,87 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                                   Enter price for 1 person, then we'll suggest prices for others. You can adjust manually.
                                 </p>
                               </div>
-                              {(() => {
-                                // Check if there's a price for 1 person in the tiers
-                                const priceForOneTier = option.groupPricingTiers?.find((t: any) => t.minPeople === 1);
-                                const priceForOne = priceForOneTier?.price;
-                                const hasPriceForOne = priceForOne && parseFloat(priceForOne) > 0;
-                                
-                                return hasPriceForOne ? (
-                                  <button
-                                    type="button"
-                                    onClick={() => {
-                                      const priceForOneValue = parseFloat(priceForOne);
-                                      if (!isNaN(priceForOneValue) && priceForOneValue > 0) {
-                                        const newOptions = [...formData.tourOptions];
-                                        const newTiers = Array.from({ length: option.maxGroupSize }, (_, i) => {
-                                          const numPeople = i + 1;
-                                          // Calculate: base price + (additional people * 0.8 * base price)
-                                          // Example: ₹500 for 1, ₹900 for 2, ₹1300 for 3, etc.
-                                          const calculatedPrice = numPeople === 1 
-                                            ? priceForOneValue 
-                                            : Math.round(priceForOneValue + (numPeople - 1) * priceForOneValue * 0.8);
-                                          
-                                          return {
-                                            minPeople: numPeople,
-                                            maxPeople: numPeople,
-                                            price: calculatedPrice.toString()
-                                          };
-                                        });
-                                        
-                                        newOptions[index].groupPricingTiers = newTiers;
-                                        setFormData(prev => ({ ...prev, tourOptions: newOptions }));
-                                      }
-                                    }}
-                                    className="px-3 py-1.5 bg-[#10B981] text-white rounded-lg text-[12px] font-bold hover:bg-[#059669] transition-colors"
-                                  >
-                                    Auto-Fill All
-                                  </button>
-                                ) : null;
-                              })()}
+                              <button
+                                type="button"
+                                onClick={() => {
+                                  const newOptions = [...formData.tourOptions];
+                                  const minTier = newOptions[index].groupPricingTiers?.find((t: any) => t.minPeople === 1);
+                                  const priceForMin = minTier ? parseFloat(minTier.price) : 0;
+                                  if (priceForMin > 0) {
+                                    const newTiers = Array.from({ length: option.maxGroupSize || 0 }, (_, i) => {
+                                      const numPeople = i + 1;
+                                      const calculatedPrice = numPeople === 1
+                                        ? priceForMin
+                                        : Math.round(priceForMin + (numPeople - 1) * priceForMin * 0.8);
+                                      return {
+                                        minPeople: numPeople,
+                                        maxPeople: numPeople,
+                                        price: calculatedPrice.toString()
+                                      };
+                                    });
+                                    newOptions[index].groupPricingTiers = newTiers;
+                                    setFormData(prev => ({ ...prev, tourOptions: newOptions }));
+                                  }
+                                }}
+                                className="px-3 py-1.5 bg-[#10B981] text-white rounded-lg text-[12px] font-bold hover:bg-[#059669] transition-colors"
+                              >
+                                Auto-Fill All
+                              </button>
                             </div>
-                            <div className="space-y-2 max-h-64 overflow-y-auto">
-                              {Array.from({ length: option.maxGroupSize }, (_, i) => i + 1).map((numPeople) => {
-                                const existingTier = option.groupPricingTiers?.find(
-                                  (tier: any) => tier.minPeople === numPeople && tier.maxPeople === numPeople
-                                );
+
+                            <div className="space-y-2 max-h-64 overflow-y-auto pr-2 custom-scrollbar">
+                              {Array.from({ length: option.maxGroupSize || 0 }, (_, i) => i + 1).map((numPeople) => {
+                                const existingTier = option.groupPricingTiers?.find((t: any) => t.minPeople === numPeople && t.maxPeople === numPeople);
                                 const price = existingTier?.price || '';
-                                
-                                // Calculate suggested price based on price for 1 person
-                                const priceForOne = option.groupPricingTiers?.find((t: any) => t.minPeople === 1)?.price;
-                                const suggestedPrice = priceForOne && numPeople > 1 && !price
-                                  ? Math.round(parseFloat(priceForOne) + (numPeople - 1) * parseFloat(priceForOne) * 0.8)
-                                  : null;
-                                
+
+                                const baseTier = option.groupPricingTiers?.find((t: any) => t.minPeople === 1);
+                                const basePrice = baseTier ? parseFloat(baseTier.price) : 0;
+                                const suggestedPrice = basePrice > 0 && numPeople > 1 ? Math.round(basePrice + (numPeople - 1) * basePrice * 0.8) : null;
+
                                 return (
-                                  <div key={numPeople} className="flex items-center gap-3 bg-white rounded-xl p-2 border border-gray-200">
-                                    <div className="w-20 flex-shrink-0">
-                                      <span className="text-[13px] font-bold text-[#001A33]">
-                                        {numPeople} {numPeople === 1 ? 'person' : 'people'}
-                                      </span>
+                                  <div key={numPeople} className="bg-white rounded-xl p-2.5 border border-gray-200 flex items-center gap-3">
+                                    <div className="w-20">
+                                      <span className="text-[13px] font-bold text-[#001A33]">{numPeople} {numPeople === 1 ? 'person' : 'people'}</span>
                                     </div>
-                                    <div className="flex items-center gap-2 flex-1">
-                                      <span className="text-[13px] font-semibold text-gray-600">
-                                        {option.currency === 'INR' ? '₹' : '$'}
-                                      </span>
-                                      <input
-                                        type="number"
-                                        value={price}
-                                        onChange={(e) => {
-                                          const newPrice = e.target.value;
-                                          const newOptions = [...formData.tourOptions];
-                                          const tiers = [...(option.groupPricingTiers || [])];
-                                          const tierIndex = tiers.findIndex(
-                                            (t: any) => t.minPeople === numPeople && t.maxPeople === numPeople
-                                          );
-                                          
-                                          if (newPrice) {
-                                            const tier = { minPeople: numPeople, maxPeople: numPeople, price: newPrice };
+                                    <div className="flex-1 flex items-center gap-2">
+                                      <span className="text-[14px] font-bold text-[#001A33]">{option.currency === 'INR' ? '₹' : '$'}</span>
+                                      <div className="flex-1 relative">
+                                        <input
+                                          type="number"
+                                          value={price}
+                                          onChange={(e) => {
+                                            const newPrice = e.target.value;
+                                            const newOptions = [...formData.tourOptions];
+                                            const tiers = [...(newOptions[index].groupPricingTiers || [])];
+                                            const tierIndex = tiers.findIndex((t: any) => t.minPeople === numPeople && t.maxPeople === numPeople);
                                             if (tierIndex >= 0) {
-                                              tiers[tierIndex] = tier;
+                                              tiers[tierIndex] = { ...tiers[tierIndex], price: newPrice };
                                             } else {
-                                              tiers.push(tier);
+                                              tiers.push({ minPeople: numPeople, maxPeople: numPeople, price: newPrice });
                                             }
-                                          } else {
-                                            if (tierIndex >= 0) {
-                                              tiers.splice(tierIndex, 1);
-                                            }
-                                          }
-                                          
-                                          tiers.sort((a: any, b: any) => a.minPeople - b.minPeople);
-                                          newOptions[index].groupPricingTiers = tiers;
-                                          setFormData(prev => ({ ...prev, tourOptions: newOptions }));
-                                        }}
-                                        placeholder={suggestedPrice ? `Suggested: ${suggestedPrice}` : "Enter price"}
-                                        min="0"
-                                        step="0.01"
-                                        className="flex-1 bg-gray-50 border border-gray-300 rounded-xl py-2 px-3 font-bold text-[#001A33] text-[13px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                                      />
+                                            newOptions[index].groupPricingTiers = tiers.sort((a: any, b: any) => a.minPeople - b.minPeople);
+                                            setFormData(prev => ({ ...prev, tourOptions: newOptions }));
+                                          }}
+                                          placeholder={suggestedPrice ? `Suggested: ${suggestedPrice}` : "Enter price"}
+                                          className="w-full bg-gray-50 border border-gray-300 rounded-xl py-2 px-3 font-bold text-[#001A33] text-[13px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                                        />
+                                      </div>
                                       {suggestedPrice && !price && (
                                         <button
                                           type="button"
                                           onClick={() => {
                                             const newOptions = [...formData.tourOptions];
-                                            const tiers = [...(option.groupPricingTiers || [])];
-                                            const tierIndex = tiers.findIndex(
-                                              (t: any) => t.minPeople === numPeople && t.maxPeople === numPeople
-                                            );
-                                            
-                                            const tier = { minPeople: numPeople, maxPeople: numPeople, price: suggestedPrice.toString() };
+                                            const tiers = [...(newOptions[index].groupPricingTiers || [])];
+                                            const tierIndex = tiers.findIndex((t: any) => t.minPeople === numPeople && t.maxPeople === numPeople);
                                             if (tierIndex >= 0) {
-                                              tiers[tierIndex] = tier;
+                                              tiers[tierIndex] = { ...tiers[tierIndex], price: suggestedPrice.toString() };
                                             } else {
-                                              tiers.push(tier);
+                                              tiers.push({ minPeople: numPeople, maxPeople: numPeople, price: suggestedPrice.toString() });
                                             }
-                                            
-                                            tiers.sort((a: any, b: any) => a.minPeople - b.minPeople);
-                                            newOptions[index].groupPricingTiers = tiers;
+                                            newOptions[index].groupPricingTiers = tiers.sort((a: any, b: any) => a.minPeople - b.minPeople);
                                             setFormData(prev => ({ ...prev, tourOptions: newOptions }));
                                           }}
-                                          className="px-2 py-1 bg-blue-100 text-blue-700 rounded-lg text-[10px] font-semibold hover:bg-blue-200 transition-colors"
+                                          className="px-2 py-1 bg-blue-50 text-blue-600 rounded-lg text-[10px] font-bold hover:bg-blue-100 transition-colors whitespace-nowrap"
                                         >
                                           Use {suggestedPrice}
                                         </button>
@@ -2475,6 +2358,11 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                                 );
                               })}
                             </div>
+                            {option.groupPricingTiers && option.groupPricingTiers.length > 0 && option.groupPricingTiers[0]?.price && (
+                              <p className="text-[12px] text-[#10B981] font-semibold mt-3">
+                                ✓ This option will show: "Starting from {option.currency === 'INR' ? '₹' : '$'}{parseFloat(option.groupPricingTiers[0].price).toLocaleString()}"
+                              </p>
+                            )}
                           </div>
                         )}
                       </div>
@@ -2588,8 +2476,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       optionTitle: '',
                       optionDescription: '',
                       durationHours: formData.duration.replace(/[^\d.]/g, '') || '3',
-                      price: formData.groupPricingTiers && formData.groupPricingTiers.length > 0 
-                        ? formData.groupPricingTiers[0].price 
+                      price: formData.groupPricingTiers && formData.groupPricingTiers.length > 0
+                        ? formData.groupPricingTiers[0].price
                         : '',
                       currency: formData.currency,
                       language: formData.languages[0] || 'English',
@@ -2629,7 +2517,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 6 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Photos & Languages</h2>
-            
+
             <div className="space-y-6">
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
@@ -2752,7 +2640,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         {step === 8 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-2xl font-black text-[#001A33] mb-8">Review & Submit</h2>
-            
+
             <div className="space-y-6">
               {/* Tour Preview Card */}
               <div className="bg-white border-2 border-gray-200 rounded-2xl p-8 space-y-6">
@@ -2760,7 +2648,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">TITLE</div>
                   <div className="text-[20px] font-black text-[#001A33]">{formData.title}</div>
                 </div>
-                
+
                 <div className="grid grid-cols-2 gap-6">
                   <div>
                     <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">COUNTRY</div>
@@ -2771,24 +2659,24 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     <div className="text-[16px] font-black text-[#001A33]">{formData.city}</div>
                   </div>
                 </div>
-                
+
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">CATEGORY</div>
                   <div className="text-[16px] font-black text-[#001A33]">{formData.category}</div>
                 </div>
-                
+
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">LOCATIONS</div>
                   <div className="text-[16px] font-black text-[#001A33]">
                     {formData.locations.length > 0 ? formData.locations.join(', ') : 'No locations selected'}
                   </div>
                 </div>
-                
+
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">DURATION</div>
                   <div className="text-[16px] font-black text-[#001A33]">{formData.duration}</div>
                 </div>
-                
+
                 {/* Highlights */}
                 {formData.highlights.filter(h => h.trim()).length > 0 && (
                   <div>
@@ -2811,7 +2699,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     <div className="text-[16px] font-black text-[#001A33] leading-relaxed">{formData.shortDescription}</div>
                   </div>
                 )}
-                
+
                 {/* Full Description */}
                 {formData.fullDescription && (
                   <div>
@@ -2819,7 +2707,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     <div className="text-[16px] font-black text-[#001A33] leading-relaxed whitespace-pre-line">{formData.fullDescription}</div>
                   </div>
                 )}
-                
+
                 {/* Images Preview */}
                 {formData.images.length > 0 && (
                   <div>
@@ -2848,14 +2736,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     )}
                   </div>
                 )}
-                
+
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">LANGUAGES</div>
                   <div className="text-[16px] font-black text-[#001A33]">
                     {formData.languages.length > 0 ? formData.languages.join(', ') : 'No languages selected'}
                   </div>
                 </div>
-                
+
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">PRICING</div>
                   {(() => {
@@ -2867,7 +2755,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     const hasLegacyGroupPricing = formData.groupPrice && formData.maxGroupSize;
                     // Check if per person pricing exists
                     const hasPerPersonPricing = formData.pricePerPerson && formData.pricePerPerson.trim() !== '';
-                    
+
                     // Show group pricing only when Per Group is selected
                     if (isPerGroup && (hasGroupPricingTiers || hasLegacyGroupPricing)) {
                       return (
@@ -2891,7 +2779,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                           ) : hasLegacyGroupPricing ? (
                             <div className="bg-gray-50 rounded-xl p-3 border border-gray-200">
                               <span className="text-[14px] font-bold text-[#001A33]">
-                                Up to {formData.maxGroupSize} people: 
+                                Up to {formData.maxGroupSize} people:
                               </span>
                               <span className="text-[16px] font-black text-[#10B981] ml-2">
                                 {formData.currency === 'INR' ? '₹' : '$'}{parseFloat(formData.groupPrice || '0').toLocaleString()}
@@ -2901,7 +2789,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                         </div>
                       );
                     }
-                    
+
                     // Show per person pricing only when Per Person is selected
                     if (isPerPerson && hasPerPersonPricing) {
                       return (
@@ -2910,7 +2798,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                         </div>
                       );
                     }
-                    
+
                     // Fallback if no pricing configured
                     return (
                       <div className="text-[14px] text-gray-500 font-semibold">No pricing configured</div>
@@ -2954,8 +2842,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
               {/* Debug info - remove after fixing */}
               {process.env.NODE_ENV === 'development' && (
                 <div className="absolute bottom-20 left-4 bg-black text-white text-xs p-2 rounded z-50">
-                  Debug: canProceed={canProceed() ? 'true' : 'false'}, 
-                  hasContact={hasRequiredContactInfo ? 'true' : 'false'}, 
+                  Debug: canProceed={canProceed() ? 'true' : 'false'},
+                  hasContact={hasRequiredContactInfo ? 'true' : 'false'},
                   isSubmitting={isSubmitting ? 'true' : 'false'}
                 </div>
               )}
@@ -2996,7 +2884,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       supplierWhatsApp,
                       buttonDisabled: isSubmitting || !canProceed() || !hasRequiredContactInfo
                     });
-                    
+
                     // Force alert to confirm click is registered
                     if (!isSubmitting && canProceed() && hasRequiredContactInfo) {
                       console.log('✅ All checks passed, calling handleSubmit(true)...');
@@ -3018,21 +2906,20 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                     }
                   }}
                   disabled={isSubmitting || !canProceed() || !hasRequiredContactInfo}
-                  className={`px-6 py-3 font-black rounded-full text-[14px] transition-all flex items-center gap-2 ${
-                    isSubmitting || !canProceed() || !hasRequiredContactInfo
-                      ? 'bg-gray-400 cursor-not-allowed opacity-50'
-                      : 'bg-[#10B981] hover:bg-[#059669] text-white cursor-pointer'
-                  }`}
+                  className={`px-6 py-3 font-black rounded-full text-[14px] transition-all flex items-center gap-2 ${isSubmitting || !canProceed() || !hasRequiredContactInfo
+                    ? 'bg-gray-400 cursor-not-allowed opacity-50'
+                    : 'bg-[#10B981] hover:bg-[#059669] text-white cursor-pointer'
+                    }`}
                   title={
-                    !hasRequiredContactInfo 
-                      ? 'Add contact info (phone or WhatsApp) in profile first' 
-                      : !canProceed() 
-                        ? 'Complete all required fields' 
+                    !hasRequiredContactInfo
+                      ? 'Add contact info (phone or WhatsApp) in profile first'
+                      : !canProceed()
+                        ? 'Complete all required fields'
                         : isSubmitting
                           ? 'Submitting...'
                           : 'Submit tour for admin review'
                   }
-                  style={{ 
+                  style={{
                     pointerEvents: (isSubmitting || !canProceed() || !hasRequiredContactInfo) ? 'none' : 'auto',
                     position: 'relative',
                     zIndex: 10
@@ -3066,9 +2953,15 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
               </button>
               <button
                 onClick={() => {
-                  setStep(Math.min(totalSteps, step + 1));
+                  if (step === 4 && !formData.duration) {
+                    setShowDurationError(true);
+                    return;
+                  }
+                  if (canProceed()) {
+                    setStep(Math.min(totalSteps, step + 1));
+                  }
                 }}
-                disabled={!canProceed()}
+                disabled={step === 4 ? false : !canProceed()}
                 className="flex items-center gap-2 px-6 py-3 bg-[#10B981] hover:bg-[#059669] text-white font-black rounded-full text-[14px] disabled:opacity-50 disabled:cursor-not-allowed transition-all"
               >
                 Next
@@ -3078,7 +2971,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           )}
         </div>
       </div>
-    </div>
+    </div >
   );
 };
 

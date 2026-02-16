@@ -4,8 +4,8 @@
 
 ### Backend Configuration
 - [x] Razorpay keys configured in `server/.env`
-  - `RAZORPAY_KEY_ID=rzp_test_SFavspxBUfezAE` ✅
-  - `RAZORPAY_KEY_SECRET=ARSyXO2N4RWuvlAT9OogO96v` ✅
+  - `RAZORPAY_KEY_ID=rzp_live_sYTX9YQOg8FJd1` ✅
+  - `RAZORPAY_KEY_SECRET=KOIAhZ8ILkly32394tEbX2Zt` ✅
 - [x] Backend server running on `http://localhost:3001` ✅
 - [x] Database connected ✅
 - [x] Payment endpoints accessible ✅
@@ -132,7 +132,7 @@
 
 **Backend:**
 - Port: `3001`
-- Razorpay Keys: Test keys configured
+- Razorpay Keys: Live keys configured (`rzp_live_...`)
 - Database: Connected
 
 **Frontend:**

@@ -43,8 +43,8 @@ CLOUDINARY_API_KEY=661233678661536
 CLOUDINARY_API_SECRET=PEePosrZMLygFivk04VKF7BcaeA
 
 # Razorpay (Payment Gateway - Optional)
-RAZORPAY_KEY_ID=your_razorpay_key
-RAZORPAY_KEY_SECRET=your_razorpay_secret
+RAZORPAY_KEY_ID=rzp_live_sYTX9YQOg8FJd1
+RAZORPAY_KEY_SECRET=KOIAhZ8ILkly32394tEbX2Zt
 ```
 
 ## Important Notes

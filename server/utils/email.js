@@ -806,7 +806,9 @@ export const sendBookingConfirmationEmail = async (customerEmail, customerName, 
     supplierName,
     supplierEmail,
     supplierPhone,
-    supplierWhatsApp
+    supplierWhatsApp,
+    paymentStatus,
+    invoiceUrl
   } = bookingDetails;
 
   const formattedDate = new Date(bookingDate).toLocaleDateString('en-US', {
@@ -912,7 +914,7 @@ export const sendBookingConfirmationEmail = async (customerEmail, customerName, 
                           </tr>
                           <tr>
                             <td style="padding: 8px 0; color: #ffffff; opacity: 0.7; font-size: 14px;">Payment Status:</td>
-                            <td style="padding: 8px 0; text-align: right; color: #ffffff; opacity: 0.9; font-size: 14px;">Pending</td>
+                            <td style="padding: 8px 0; text-align: right; color: #ffffff; opacity: 0.9; font-size: 14px;">${paymentStatus || 'Pending'}</td>
                           </tr>
                         </table>
                       </div>
@@ -972,9 +974,14 @@ export const sendBookingConfirmationEmail = async (customerEmail, customerName, 
                             <a href="${bookingConfirmationUrl}" style="display: inline-block; background-color: #10B981; color: #ffffff; text-decoration: none; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: 600; text-align: center; margin: 0 10px 10px 10px;">
                               View Booking Details
                             </a>
+                            ${invoiceUrl ? `
+                            <a href="${invoiceUrl}" style="display: inline-block; background-color: #0071EB; color: #ffffff; text-decoration: none; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: 600; text-align: center; margin: 0 10px 10px 10px;">
+                              📄 Download PDF Invoice
+                            </a>
+                            ` : ''}
                             ${whatsappContactLink ? `
                             <a href="${whatsappContactLink}" style="display: inline-block; background-color: #25D366; color: #ffffff; text-decoration: none; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: 600; text-align: center; margin: 0 10px 10px 10px;">
-                              Contact Guide via WhatsApp
+                              💬 Contact Guide via WhatsApp
                             </a>
                             ` : ''}
                           </td>
@@ -1027,7 +1034,7 @@ export const sendBookingConfirmationEmail = async (customerEmail, customerName, 
       
       Invoice:
       - Total Amount: ${currency === 'INR' ? '₹' : '$'}${totalAmount.toLocaleString()}
-      - Payment Status: Pending
+      - Payment Status: ${paymentStatus || 'Pending'}
       
       Your Guide Contact:
       - Name: ${supplierName}

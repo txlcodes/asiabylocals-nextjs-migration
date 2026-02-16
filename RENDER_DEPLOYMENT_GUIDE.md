@@ -75,8 +75,8 @@ When you deploy to Render, you'll get:
    CLOUDINARY_API_SECRET=your_cloudinary_api_secret
    
    # Razorpay (if using real payments)
-   RAZORPAY_KEY_ID=your_razorpay_key
-   RAZORPAY_KEY_SECRET=your_razorpay_secret
+   RAZORPAY_KEY_ID=rzp_live_sYTX9YQOg8FJd1
+   RAZORPAY_KEY_SECRET=KOIAhZ8ILkly32394tEbX2Zt
    ```
    
    **📸 Cloudinary Setup:**
