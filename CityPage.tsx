@@ -60,6 +60,26 @@ const CITY_DESCRIPTIONS: Record<string, {
       {
         question: 'Are sunrise tours worth it?',
         answer: 'Absolutely. Sunrise tours offer the best lighting for photography, cooler temperatures, fewer crowds, and a magical experience as the Taj Mahal glows in the morning light.'
+      },
+      {
+        question: 'Is the Taj Mahal closed on Friday?',
+        answer: 'Yes, the Taj Mahal is closed every Friday for prayers. It is open on all other days of the week, including all other public holidays.'
+      },
+      {
+        question: 'Is a passport required for entry to the Taj Mahal?',
+        answer: 'Yes, original passports or a clear digital copy/photo are required for all foreign tourists at the entry gates for security and identification purposes.'
+      },
+      {
+        question: 'Why choose a female guide in Agra?',
+        answer: 'Choosing a female guide provides a unique perspective on Mughal history, especially regarding the lives of royal women. It also offers an extra layer of comfort and safety for solo female travelers and families.'
+      },
+      {
+        question: 'Are the female-guided tours in Agra private or group?',
+        answer: 'Our female-guided experiences are typically private tours. This ensures a personalized experience, a flexible pace, and the freedom to customize the itinerary to your interests.'
+      },
+      {
+        question: 'Can I customize the itinerary for my Agra tour?',
+        answer: 'Yes, all our private tours are fully customizable. You can discuss with your guide to include additional sites like the Baby Taj, Mehtab Bagh, or local craft workshops.'
       }
     ]
   },
@@ -499,6 +519,13 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
         shortDescription: 'Enjoy a private transfer from Delhi, Agra, or Jaipur with driver in a private air-conditioned car. Be picked up from your preferred location and taken to your destination hassle-free.',
         fullDescription: 'Enjoy a private transfer from Delhi, Agra, or Jaipur with driver in a private air-conditioned car. Be picked up from your preferred location, whether it\'s the airport or your hotel, and be taken to your hotel or the airport in Delhi, Jaipur, or Agra. Don\'t waste your time trying to find a taxi and haggling over prices, pre-book your convenient transfer and have a more relaxing vacation. Sit back and relax knowing you\'re in safe hands and will end up exactly where you want to be. Sip on free water during the drive. The vehicle used depends on the number of people being transported: 1 to 3 people - AC Sedan, Toyota Etios, or Maruti Swift Dzire; 4 to 6 people - A/C Kia Carens or Innova; 12 to 26 people - Tempo Traveller or Mini Bus. Professional drivers ensure safe and comfortable journeys between these major tourist destinations.',
         seoKeywords: ['private transfer', 'Delhi Jaipur Agra', 'airport transfer', 'private car', 'Golden Triangle transfer']
+      },
+      {
+        title: 'Agra: Taj Mahal & Agra Fort Private Tour with Female Guide',
+        image: '/things-to-do/agra-taj-mahal-garden.jpg',
+        shortDescription: 'Experience the Taj Mahal and Agra Fort with a licensed local female guide. Perfect for families and solo female travelers seeking a unique perspective on India\'s history and culture.',
+        fullDescription: 'Discover the iconic Taj Mahal and the majestic Agra Fort through the eyes of a professional female guide. This private tour is specially designed to provide a safe, comfortable, and deeply insightful experience. Your guide will share fascinating stories about the Mughal Empire, focusing on the influential roles of women in that era, while ensuring you see the best of Agra\'s heritage sites. The tour includes skip-the-line entry, personalized storytelling, and a flexible itinerary that can be tailored to your interests, including visits to local handicraft workshops or the beautiful Mehtab Bagh garden.',
+        seoKeywords: ['female guide Agra', 'solo female travel India', 'Taj Mahal private tour', 'Agra local expert', 'licensed female guide']
       }
     ],
     'Delhi': [

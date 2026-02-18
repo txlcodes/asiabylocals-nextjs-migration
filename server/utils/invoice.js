@@ -1,194 +1,166 @@
+import PDFDocument from 'pdfkit';
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 /**
  * Invoice PDF Generation Utility
  * Generates invoice PDFs for confirmed bookings
  */
 
 /**
- * Generate invoice PDF as base64 string
+ * Generate invoice PDF as base64 string using PDFKit
  * @param {Object} booking - Booking object with all related data
  * @returns {Promise<string>} Base64 encoded PDF string
  */
 export async function generateInvoicePDF(booking) {
-  try {
-    // For now, we'll generate an HTML invoice that can be converted to PDF
-    // In production, you can use libraries like pdfkit, puppeteer, or html-pdf-node
-    
-    const bookingReference = booking.bookingReference || `ABL-${booking.id.toString().padStart(6, '0')}-${new Date(booking.createdAt).getFullYear()}`;
-    const invoiceDate = new Date(booking.createdAt).toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
-    });
-    const bookingDate = new Date(booking.bookingDate).toLocaleDateString('en-US', { 
-      weekday: 'long', 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
-    });
+  return new Promise((resolve, reject) => {
+    try {
+      const doc = new PDFDocument({ margin: 50 });
+      let buffers = [];
+      doc.on('data', buffers.push.bind(buffers));
+      doc.on('end', () => {
+        const pdfData = Buffer.concat(buffers);
+        resolve(pdfData.toString('base64'));
+      });
 
-    const invoiceHTML = `
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Invoice - ${bookingReference}</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      color: #333;
-    }
-    .header {
-      border-bottom: 3px solid #10B981;
-      padding-bottom: 20px;
-      margin-bottom: 30px;
-    }
-    .company-info {
-      margin-bottom: 20px;
-    }
-    .invoice-details {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 30px;
-    }
-    .bill-to {
-      margin-bottom: 30px;
-    }
-    .booking-details {
-      background: #f9fafb;
-      padding: 20px;
-      border-radius: 8px;
-      margin-bottom: 30px;
-    }
-    .amount-summary {
-      text-align: right;
-      margin-top: 30px;
-      padding-top: 20px;
-      border-top: 2px solid #001A33;
-    }
-    .total {
-      font-size: 24px;
-      font-weight: bold;
-      color: #10B981;
-      margin-top: 10px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 20px;
-    }
-    th, td {
-      padding: 12px;
-      text-align: left;
-      border-bottom: 1px solid #e5e7eb;
-    }
-    th {
-      background-color: #f9fafb;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <div class="header">
-    <h1>AsiaByLocals</h1>
-    <div class="company-info">
-      <p>118 Rani Bagh Indirapuram</p>
-      <p>Ghaziabad, Uttar Pradesh, India</p>
-      <p>GSTIN: 09BPLPK5079QIZU</p>
-    </div>
-  </div>
+      // --- Header ---
+      // Add logo
+      const logoPath = path.join(__dirname, '../../public/logo.png');
+      if (fs.existsSync(logoPath)) {
+        doc.image(logoPath, 50, 40, { width: 60 });
+      }
 
-  <div class="invoice-details">
-    <div>
-      <h2>Invoice</h2>
-      <p><strong>Booking Reference:</strong> ${bookingReference}</p>
-    </div>
-    <div>
-      <p><strong>Invoice Date:</strong> ${invoiceDate}</p>
-    </div>
-  </div>
+      doc
+        .fillColor('#001A33')
+        .fontSize(24)
+        .font('Helvetica-Bold')
+        .text('AsiaByLocals', 120, 50);
 
-  <div class="bill-to">
-    <h3>Bill To</h3>
-    <p>${booking.customerName}</p>
-    <p>${booking.customerEmail}</p>
-    ${booking.customerPhone ? `<p>${booking.customerPhone}</p>` : ''}
-  </div>
+      doc
+        .fontSize(10)
+        .font('Helvetica')
+        .text('118 Rani Bagh Indirapuram', 120, 80)
+        .text('Ghaziabad, Uttar Pradesh, India', 120, 95)
+        .text('GSTIN: 09BPLPK5079QIZU', 120, 110)
+        .text('Email: info@asiabylocals.com', 120, 125);
 
-  <div class="booking-details">
-    <h3>Booking Details</h3>
-    <table>
-      <tr>
-        <th>Tour</th>
-        <td>${booking.tour?.title || 'Tour'}</td>
-      </tr>
-      <tr>
-        <th>Location</th>
-        <td>${booking.tour?.city || ''}, ${booking.tour?.country || ''}</td>
-      </tr>
-      <tr>
-        <th>Booking Date</th>
-        <td>${bookingDate}</td>
-      </tr>
-      <tr>
-        <th>Number of Guests</th>
-        <td>${booking.numberOfGuests} ${booking.numberOfGuests === 1 ? 'person' : 'people'}</td>
-      </tr>
-      ${booking.specialRequests ? `
-      <tr>
-        <th>Special Requests</th>
-        <td>${booking.specialRequests}</td>
-      </tr>
-      ` : ''}
-    </table>
-  </div>
+      doc
+        .strokeColor('#10B981')
+        .lineWidth(3)
+        .moveTo(50, 155)
+        .lineTo(550, 155)
+        .stroke();
 
-  <div>
-    <h3>Payment Information</h3>
-    <table>
-      ${booking.razorpayPaymentId ? `
-      <tr>
-        <th>Payment ID</th>
-        <td>${booking.razorpayPaymentId}</td>
-      </tr>
-      ` : ''}
-      ${booking.razorpayOrderId ? `
-      <tr>
-        <th>Order ID</th>
-        <td>${booking.razorpayOrderId}</td>
-      </tr>
-      ` : ''}
-      <tr>
-        <th>Payment Status</th>
-        <td>Paid</td>
-      </tr>
-      <tr>
-        <th>Payment Method</th>
-        <td>Online Payment (Razorpay)</td>
-      </tr>
-    </table>
-  </div>
+      // --- Invoice Details ---
+      const bookingReference = booking.bookingReference || `ABL-${booking.id.toString().padStart(6, '0')}`;
+      const invoiceDate = new Date(booking.createdAt).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+      const bookingDate = new Date(booking.bookingDate).toLocaleDateString('en-US', {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
 
-  <div class="amount-summary">
-    <p><strong>Subtotal:</strong> ${booking.currency === 'INR' ? '₹' : '$'}${booking.totalAmount.toLocaleString()}</p>
-    <p class="total">Total Amount: ${booking.currency === 'INR' ? '₹' : '$'}${booking.totalAmount.toLocaleString()}</p>
-  </div>
+      doc.fontSize(20).text('INVOICE', 50, 170);
+      doc.fontSize(10).font('Helvetica-Bold').text('Booking Reference:', 50, 200);
+      doc.font('Helvetica').text(bookingReference, 150, 200);
 
-  <div style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e7eb; text-align: center; color: #6b7280; font-size: 12px;">
-    <p>Thank you for booking with AsiaByLocals!</p>
-    <p>For any queries, please contact us at info@asiabylocals.com</p>
-  </div>
-</body>
-</html>
-    `;
+      doc.font('Helvetica-Bold').text('Invoice Date:', 400, 200);
+      doc.font('Helvetica').text(invoiceDate, 480, 200);
 
-    // Return HTML for now - can be converted to PDF using a service or library
-    // In production, use pdfkit, puppeteer, or html-pdf-node to generate actual PDF
-    return Buffer.from(invoiceHTML).toString('base64');
-  } catch (error) {
-    console.error('Error generating invoice PDF:', error);
-    throw new Error('Failed to generate invoice PDF');
-  }
+      // --- Bill To ---
+      doc.fontSize(12).font('Helvetica-Bold').text('Bill To', 50, 230);
+      doc.fontSize(10).font('Helvetica').text(booking.customerName, 50, 250);
+      doc.text(booking.customerEmail, 50, 265);
+      if (booking.customerPhone) {
+        doc.text(booking.customerPhone, 50, 280);
+      }
+
+      // --- Booking Details ---
+      doc.rect(50, 310, 500, 20).fill('#f9fafb');
+      doc.fillColor('#000000').font('Helvetica-Bold').text('Description', 60, 315);
+      doc.text('Details', 300, 315);
+
+      let yPos = 340;
+
+      const addRow = (label, value) => {
+        doc.font('Helvetica-Bold').text(label, 60, yPos);
+        doc.font('Helvetica').text(value, 300, yPos);
+        yPos += 20;
+        doc.moveTo(50, yPos - 5).lineTo(550, yPos - 5).strokeColor('#e5e7eb').lineWidth(1).stroke();
+      };
+
+      addRow('Tour', booking.tour?.title || 'Tour');
+      if (booking.tour?.location || (booking.tour?.city && booking.tour?.country)) {
+        addRow('Location', booking.tour?.location || `${booking.tour?.city}, ${booking.tour?.country}`);
+      }
+      addRow('Booking Date', bookingDate);
+      addRow('Number of Guests', `${booking.numberOfGuests} ${booking.numberOfGuests === 1 ? 'person' : 'people'}`);
+      if (booking.specialRequests) {
+        addRow('Special Requests', booking.specialRequests);
+      }
+
+      // --- Payment Information ---
+      yPos += 20;
+      doc.fontSize(12).font('Helvetica-Bold').text('Payment Information', 50, yPos);
+      yPos += 25;
+
+      if (booking.razorpayPaymentId) {
+        doc.fontSize(10).font('Helvetica-Bold').text('Payment ID:', 50, yPos);
+        doc.font('Helvetica').text(booking.razorpayPaymentId, 150, yPos);
+        yPos += 15;
+      }
+
+      if (booking.razorpayOrderId) {
+        doc.font('Helvetica-Bold').text('Order ID:', 50, yPos);
+        doc.font('Helvetica').text(booking.razorpayOrderId, 150, yPos);
+        yPos += 15;
+      }
+
+      doc.font('Helvetica-Bold').text('Payment Status:', 50, yPos);
+      doc.fillColor('#10B981').text('PAID', 150, yPos);
+      doc.fillColor('#000000');
+      yPos += 15;
+
+      doc.font('Helvetica-Bold').text('Payment Method:', 50, yPos);
+      doc.font('Helvetica').text('Online Payment (Razorpay)', 150, yPos);
+
+      // --- Total ---
+      yPos += 40;
+      const currencySymbol = booking.currency === 'INR' ? '₹' : '$';
+      const formattedAmount = `${currencySymbol}${booking.totalAmount.toLocaleString()}`;
+
+      doc.moveTo(50, yPos).lineTo(550, yPos).strokeColor('#001A33').lineWidth(2).stroke();
+      yPos += 15;
+
+      doc.fontSize(12).font('Helvetica-Bold').text('Subtotal:', 350, yPos, { align: 'right', width: 100 });
+      doc.font('Helvetica').text(formattedAmount, 460, yPos, { align: 'right' });
+
+      yPos += 25;
+      doc.fontSize(16).fillColor('#10B981').font('Helvetica-Bold').text('Total Amount:', 300, yPos, { align: 'right', width: 150 });
+      doc.text(formattedAmount, 460, yPos, { align: 'right' });
+
+      // --- Footer ---
+      const footerY = 700;
+      doc.moveTo(50, footerY).lineTo(550, footerY).strokeColor('#e5e7eb').lineWidth(1).stroke();
+      doc.fontSize(10).fillColor('#6b7280').text('Thank you for booking with AsiaByLocals!', 50, footerY + 15, { align: 'center' });
+      doc.text('For any queries, please contact us at info@asiabylocals.com', 50, footerY + 30, { align: 'center' });
+
+      doc.end();
+
+    } catch (error) {
+      console.error('Error generating invoice PDF:', error);
+      reject(new Error('Failed to generate invoice PDF'));
+    }
+  });
 }
 
 /**

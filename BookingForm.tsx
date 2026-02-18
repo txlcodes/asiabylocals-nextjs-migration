@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { X, User, Mail, Phone, MapPin, MessageSquare, Loader2 } from 'lucide-react';
+import { COUNTRIES_LIST } from './countries_list';
 
 interface BookingFormProps {
     tourTitle: string;
@@ -29,9 +30,18 @@ const BookingForm: React.FC<BookingFormProps> = ({
         country: '',
         specialRequests: ''
     });
+    const [emailError, setEmailError] = useState('');
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
+
+        // Final email validation before submission
+        const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+        if (!emailRegex.test(formData.email)) {
+            setEmailError('Please enter a valid email address');
+            return;
+        }
+
         await onSubmit({
             ...formData,
             // map phone to phoneNumber and countryCode
@@ -101,15 +111,54 @@ const BookingForm: React.FC<BookingFormProps> = ({
                                 type="email"
                                 required
                                 value={formData.email}
-                                onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                                className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-xl font-semibold text-[#001A33] focus:ring-2 focus:ring-[#10B981] focus:border-transparent outline-none transition-all"
+                                onChange={(e) => {
+                                    setFormData({ ...formData, email: e.target.value });
+                                    if (emailError) setEmailError('');
+                                }}
+                                onBlur={(e) => {
+                                    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+                                    if (!emailRegex.test(e.target.value)) {
+                                        setEmailError('Please enter a valid email address (e.g., name@example.com)');
+                                    }
+                                }}
+                                className={`w-full pl-10 pr-4 py-3 bg-gray-50 border rounded-xl font-semibold text-[#001A33] outline-none transition-all ${emailError
+                                    ? 'border-red-500 focus:ring-2 focus:ring-red-200'
+                                    : 'border-gray-200 focus:ring-2 focus:ring-[#10B981] focus:border-transparent'
+                                    }`}
                                 placeholder="john@example.com"
                             />
-                            <Mail className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+                            <Mail className={`absolute left-3 top-1/2 -translate-y-1/2 ${emailError ? 'text-red-500' : 'text-gray-400'}`} size={18} />
                         </div>
+                        {emailError && (
+                            <p className="text-red-500 text-xs font-bold mt-1.5 animate-in fade-in slide-in-from-top-1">
+                                {emailError}
+                            </p>
+                        )}
                     </div>
 
                     <div className="grid grid-cols-2 gap-4">
+                        <div>
+                            <label className="block text-sm font-bold text-[#001A33] mb-1.5">Country</label>
+                            <div className="relative">
+                                <select
+                                    required
+                                    value={formData.country}
+                                    onChange={(e) => setFormData({ ...formData, country: e.target.value })}
+                                    className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-xl font-semibold text-[#001A33] focus:ring-2 focus:ring-[#10B981] focus:border-transparent outline-none transition-all appearance-none"
+                                >
+                                    <option value="" disabled>Select Country</option>
+                                    {COUNTRIES_LIST.map((country) => (
+                                        <option key={country} value={country}>{country}</option>
+                                    ))}
+                                </select>
+                                <MapPin className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+                                <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none">
+                                    <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
                         <div>
                             <label className="block text-sm font-bold text-[#001A33] mb-1.5">Phone *</label>
                             <div className="relative">
@@ -122,19 +171,6 @@ const BookingForm: React.FC<BookingFormProps> = ({
                                     placeholder="+1 234 567 890"
                                 />
                                 <Phone className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
-                            </div>
-                        </div>
-                        <div>
-                            <label className="block text-sm font-bold text-[#001A33] mb-1.5">Country</label>
-                            <div className="relative">
-                                <input
-                                    type="text"
-                                    value={formData.country}
-                                    onChange={(e) => setFormData({ ...formData, country: e.target.value })}
-                                    className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-xl font-semibold text-[#001A33] focus:ring-2 focus:ring-[#10B981] focus:border-transparent outline-none transition-all"
-                                    placeholder="Your Country"
-                                />
-                                <MapPin className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
                             </div>
                         </div>
                     </div>

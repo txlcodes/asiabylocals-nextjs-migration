@@ -19,8 +19,8 @@ cloudinary.config({
 export async function uploadImage(base64Image, folder = 'asiabylocals', publicId = null) {
   try {
     // Remove data URL prefix if present (data:image/jpeg;base64,)
-    const base64Data = base64Image.includes(',') 
-      ? base64Image.split(',')[1] 
+    const base64Data = base64Image.includes(',')
+      ? base64Image.split(',')[1]
       : base64Image;
 
     // Upload options
@@ -50,6 +50,31 @@ export async function uploadImage(base64Image, folder = 'asiabylocals', publicId
 }
 
 /**
+ * Upload a raw document (like PDF) to Cloudinary
+ * @param {string} base64Data - Base64 encoded data
+ * @param {string} folder - Folder path
+ * @param {string} publicId - Custom public ID
+ * @returns {Promise<string>} - Secure URL
+ */
+export async function uploadDocument(base64Data, folder = 'invoices', publicId) {
+  try {
+    const result = await cloudinary.uploader.upload(
+      `data:application/pdf;base64,${base64Data}`,
+      {
+        folder,
+        resource_type: 'raw',
+        public_id: publicId,
+        format: 'pdf'
+      }
+    );
+    return result.secure_url;
+  } catch (error) {
+    console.error('Cloudinary document upload error:', error);
+    throw new Error(`Failed to upload document: ${error.message}`);
+  }
+}
+
+/**
  * Upload multiple images to Cloudinary
  * @param {string[]} base64Images - Array of base64 encoded images
  * @param {string} folder - Folder path in Cloudinary
@@ -57,10 +82,10 @@ export async function uploadImage(base64Image, folder = 'asiabylocals', publicId
  */
 export async function uploadMultipleImages(base64Images, folder = 'asiabylocals') {
   try {
-    const uploadPromises = base64Images.map((image, index) => 
+    const uploadPromises = base64Images.map((image, index) =>
       uploadImage(image, folder, `${folder}_${Date.now()}_${index}`)
     );
-    
+
     const urls = await Promise.all(uploadPromises);
     return urls;
   } catch (error) {

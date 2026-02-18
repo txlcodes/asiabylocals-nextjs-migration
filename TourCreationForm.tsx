@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { X, ChevronRight, ChevronLeft, Upload, ArrowUp, ArrowDown, Trash2, CheckCircle2, AlertCircle, Phone, Mail, Plus, MapPin } from 'lucide-react';
+import { X, ChevronRight, ChevronLeft, ChevronDown, Upload, ArrowUp, ArrowDown, Trash2, CheckCircle2, AlertCircle, Phone, Mail, Plus, MapPin, Clock, Shield, Info } from 'lucide-react';
 import { CITY_LOCATIONS, TRANSPORTATION_TYPES, ENTRY_TICKET_OPTIONS, EntryTicketOption } from './constants';
+import { COUNTRIES, COUNTRY_CITIES } from './src/locations';
 
 interface TourCreationFormProps {
   supplierId: string;
@@ -14,172 +15,7 @@ interface TourCreationFormProps {
 }
 
 // Countries and their major tourist cities
-const COUNTRIES = [
-  { name: 'India', code: 'IN' },
-  { name: 'Thailand', code: 'TH' },
-  { name: 'Japan', code: 'JP' },
-  { name: 'Singapore', code: 'SG' },
-  { name: 'Indonesia', code: 'ID' },
-  { name: 'Malaysia', code: 'MY' },
-  { name: 'Vietnam', code: 'VN' },
-  { name: 'South Korea', code: 'KR' },
-  { name: 'Philippines', code: 'PH' },
-  { name: 'China', code: 'CN' },
-  { name: 'Taiwan', code: 'TW' },
-  { name: 'Hong Kong', code: 'HK' },
-  { name: 'Sri Lanka', code: 'LK' },
-  { name: 'Nepal', code: 'NP' },
-  { name: 'Cambodia', code: 'KH' },
-  { name: 'Myanmar', code: 'MM' },
-  { name: 'Laos', code: 'LA' },
-  { name: 'Bangladesh', code: 'BD' }
-];
-
-// Major tourist cities per country (Top 10 for India, top cities for others)
-const COUNTRY_CITIES: Record<string, string[]> = {
-  'India': [
-    'Delhi',
-    'Mumbai',
-    'Agra',
-    'Jaipur',
-    'Jodhpur',
-    'Jaisalmer',
-    'Udaipur',
-    'Varanasi',
-    'Goa',
-    'Kerala',
-    'Rishikesh',
-    'Darjeeling'
-  ],
-  'Thailand': [
-    'Bangkok',
-    'Chiang Mai',
-    'Phuket',
-    'Pattaya',
-    'Krabi',
-    'Ayutthaya',
-    'Sukhothai',
-    'Hua Hin'
-  ],
-  'Japan': [
-    'Tokyo',
-    'Kyoto',
-    'Osaka',
-    'Hiroshima',
-    'Nara',
-    'Sapporo',
-    'Yokohama',
-    'Fukuoka',
-    'Nagoya',
-    'Okinawa'
-  ],
-  'Singapore': [
-    'Singapore'
-  ],
-  'Indonesia': [
-    'Bali',
-    'Jakarta',
-    'Yogyakarta',
-    'Bandung',
-    'Lombok',
-    'Surabaya'
-  ],
-  'Malaysia': [
-    'Kuala Lumpur',
-    'Penang',
-    'Malacca',
-    'Langkawi',
-    'Cameron Highlands',
-    'Kota Kinabalu'
-  ],
-  'Vietnam': [
-    'Hanoi',
-    'Ho Chi Minh City',
-    'Hoi An',
-    'Hue',
-    'Da Nang',
-    'Nha Trang',
-    'Sapa'
-  ],
-  'South Korea': [
-    'Seoul',
-    'Busan',
-    'Jeju',
-    'Gyeongju',
-    'Incheon',
-    'Daegu'
-  ],
-  'Philippines': [
-    'Manila',
-    'Cebu',
-    'Boracay',
-    'Palawan',
-    'Davao',
-    'Baguio'
-  ],
-  'China': [
-    'Beijing',
-    'Shanghai',
-    'Guilin',
-    'Xi\'an',
-    'Chengdu',
-    'Hangzhou',
-    'Suzhou'
-  ],
-  'Taiwan': [
-    'Taipei',
-    'Kaohsiung',
-    'Taichung',
-    'Tainan',
-    'Hualien'
-  ],
-  'Hong Kong': [
-    'Hong Kong'
-  ],
-  'Sri Lanka': [
-    'Colombo',
-    'Kandy',
-    'Galle',
-    'Sigiriya',
-    'Anuradhapura',
-    'Ella'
-  ],
-  'Nepal': [
-    'Kathmandu',
-    'Pokhara',
-    'Chitwan',
-    'Lumbini',
-    'Nagarkot'
-  ],
-  'Cambodia': [
-    'Siem Reap',
-    'Phnom Penh',
-    'Battambang',
-    'Kampot',
-    'Kep'
-  ],
-  'Myanmar': [
-    'Yangon',
-    'Bagan',
-    'Mandalay',
-    'Inle Lake',
-    'Mawlamyine'
-  ],
-  'Laos': [
-    'Vientiane',
-    'Luang Prabang',
-    'Vang Vieng',
-    'Pakse',
-    'Phonsavan'
-  ],
-  'Bangladesh': [
-    'Dhaka',
-    'Chittagong',
-    'Cox\'s Bazar',
-    'Sylhet',
-    'Rajshahi'
-  ]
-};
+// Countries and cities data imported from src/locations.ts
 
 // CITY_LOCATIONS is now imported from constants.tsx to keep it in sync with CityPage
 
@@ -285,7 +121,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         usesTransportation: tour.usesTransportation || false,
         transportationTypes: Array.isArray(tour.transportationTypes) ? tour.transportationTypes : (typeof tour.transportationTypes === 'string' ? JSON.parse(tour.transportationTypes || '[]') : []),
         multiCityTravel: tour.multiCityTravel || false,
-        tourOptions: tour.options || []
+        tourOptions: tour.options || [],
+        itineraryItems: tour.itineraryItems ? (typeof tour.itineraryItems === 'string' ? JSON.parse(tour.itineraryItems) : tour.itineraryItems) : []
       };
     } catch (e) {
       console.error('Error parsing tour data:', e);
@@ -336,8 +173,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       usesTransportation: false,
       transportationTypes: [] as string[],
       multiCityTravel: false,
-      isMultiDayTour: false,
       multiCityLocations: {} as Record<string, string[]>, // City -> locations mapping for multi-day tours
+      isMultiDayTour: false,
       tourOptions: [] as Array<{
         optionTitle: string;
         optionDescription: string;
@@ -353,13 +190,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         maxGroupSize?: number;
         groupPrice?: string;
         groupPricingTiers?: Array<{ minPeople: number; maxPeople: number; price: string }>;
-      }>
+      }>,
+      itineraryItems: [] as Array<{ title: string; time: string; description: string }>
     };
   });
 
   const [editingOptionIndex, setEditingOptionIndex] = useState<number | null>(null);
 
-  const totalSteps = 8; // Tour options step, removed mini tours step
+  const totalSteps = 9;
 
   // Check if supplier has required contact information
   const hasRequiredContactInfo = !!(supplierEmail && (supplierPhone || supplierWhatsApp));
@@ -522,12 +360,14 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         return true;
       case 5:
         // Step 5: Description & Details
-        return formData.fullDescription && formData.included && formData.highlights.filter(h => h.trim()).length >= 3;
+        const shortLength = formData.shortDescription ? formData.shortDescription.trim().length : 0;
+        const fullLength = formData.fullDescription ? formData.fullDescription.trim().length : 0;
+        return shortLength >= 200 && fullLength >= 500 && formData.included && formData.highlights.filter(h => h.trim()).length >= 3;
       case 6:
-        // Step 6: Photos & Languages
-        return formData.images.length >= 4 && formData.languages.length > 0;
+        // Step 6: Itinerary
+        return formData.itineraryItems.length > 0 && formData.itineraryItems.every(item => item.title.trim() && item.time.trim() && item.description.trim());
       case 7:
-        // Step 7: Tour Options (last before preview)
+        // Step 7: Tour Options
         return formData.tourOptions.length > 0 && formData.tourOptions.every(opt => {
           const hasBasicFields = opt.optionTitle.trim() && opt.optionDescription.trim() && opt.durationHours;
           if (!hasBasicFields) return false;
@@ -539,7 +379,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           return true;
         });
       case 8:
-        return true; // Mini tours selection is optional
+        // Step 8: Photos & Languages
+        return formData.images.length >= 4 && formData.languages.length > 0;
       default:
         return true;
     }
@@ -708,6 +549,9 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         usesTransportation: formData.usesTransportation || false,
         transportationTypes: JSON.stringify(formData.transportationTypes),
         multiCityTravel: formData.multiCityTravel || false,
+        itineraryItems: JSON.stringify(formData.itineraryItems),
+        // visitorInfo: formData.visitorInfo, // Removed
+        // checklistItems: JSON.stringify(formData.checklistItems), // Removed
         tourOptions: formData.tourOptions.map((opt, idx) => {
           // CRITICAL: Remove any ID fields AND pricingType to prevent database conflicts
           const { id, tourId, pricingType, pricing_type, ...cleanOpt } = opt;
@@ -1195,19 +1039,22 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
                   Which country will you provide services in? *
                 </label>
-                <select
-                  value={formData.country}
-                  onChange={(e) => {
-                    handleInputChange('country', e.target.value);
-                    handleInputChange('city', ''); // Reset city when country changes
-                  }}
-                  className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                >
-                  <option value="">Select Country</option>
-                  {COUNTRIES.map(country => (
-                    <option key={country.code} value={country.name}>{country.name}</option>
-                  ))}
-                </select>
+                <div className="relative">
+                  <select
+                    value={formData.country}
+                    onChange={(e) => {
+                      handleInputChange('country', e.target.value);
+                      handleInputChange('city', ''); // Reset city when country changes
+                    }}
+                    className="w-full bg-white border-2 border-gray-100 rounded-xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none shadow-sm transition-all hover:border-gray-200"
+                  >
+                    <option value="">Select Country</option>
+                    {COUNTRIES.map(country => (
+                      <option key={country.code} value={country.name}>{country.name}</option>
+                    ))}
+                  </select>
+                  <ChevronDown className="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                </div>
                 <p className="text-[12px] text-gray-500 font-semibold mt-2">
                   Select the country where you'll offer your tours and activities
                 </p>
@@ -1265,17 +1112,20 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
                   Select City *
                 </label>
-                <select
-                  value={formData.city}
-                  onChange={(e) => handleInputChange('city', e.target.value)}
-                  disabled={!formData.country}
-                  className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  <option value="">{formData.country ? 'Select City' : 'Select country first'}</option>
-                  {formData.country && COUNTRY_CITIES[formData.country]?.map(city => (
-                    <option key={city} value={city}>{city}</option>
-                  ))}
-                </select>
+                <div className="relative">
+                  <select
+                    value={formData.city}
+                    onChange={(e) => handleInputChange('city', e.target.value)}
+                    disabled={!formData.country}
+                    className="w-full bg-white border-2 border-gray-100 rounded-xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none disabled:opacity-50 disabled:cursor-not-allowed appearance-none shadow-sm transition-all hover:border-gray-200"
+                  >
+                    <option value="">{formData.country ? 'Select City' : 'Select country first'}</option>
+                    {formData.country && COUNTRY_CITIES[formData.country]?.map(city => (
+                      <option key={city} value={city}>{city}</option>
+                    ))}
+                  </select>
+                  <ChevronDown className="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                </div>
                 {formData.country && (
                   <p className="text-[12px] text-gray-500 font-semibold mt-2">
                     {COUNTRY_CITIES[formData.country]?.length || 0} cities available in {formData.country}
@@ -1345,28 +1195,31 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       <label className="block text-[13px] font-semibold text-[#001A33] mb-2">
                         Add City
                       </label>
-                      <select
-                        value=""
-                        onChange={(e) => {
-                          const selectedCity = e.target.value;
-                          if (selectedCity && !formData.multiCityLocations[selectedCity]) {
-                            setFormData(prev => ({
-                              ...prev,
-                              multiCityLocations: {
-                                ...prev.multiCityLocations,
-                                [selectedCity]: []
-                              }
-                            }));
-                            e.target.value = '';
-                          }
-                        }}
-                        className="w-full bg-gray-50 border-none rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
-                      >
-                        <option value="">Select a city to add...</option>
-                        {formData.country && COUNTRY_CITIES[formData.country]?.filter(city => !formData.multiCityLocations[city]).map(city => (
-                          <option key={city} value={city}>{city}</option>
-                        ))}
-                      </select>
+                      <div className="relative">
+                        <select
+                          value=""
+                          onChange={(e) => {
+                            const selectedCity = e.target.value;
+                            if (selectedCity && !formData.multiCityLocations[selectedCity]) {
+                              setFormData(prev => ({
+                                ...prev,
+                                multiCityLocations: {
+                                  ...prev.multiCityLocations,
+                                  [selectedCity]: []
+                                }
+                              }));
+                              e.target.value = '';
+                            }
+                          }}
+                          className="w-full bg-white border-2 border-gray-100 rounded-xl py-3 px-4 pr-10 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none shadow-sm transition-all hover:border-gray-200"
+                        >
+                          <option value="">Select a city to add...</option>
+                          {formData.country && COUNTRY_CITIES[formData.country]?.filter(city => !formData.multiCityLocations[city]).map(city => (
+                            <option key={city} value={city}>{city}</option>
+                          ))}
+                        </select>
+                        <ChevronDown className="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 pointer-events-none" size={18} />
+                      </div>
                     </div>
 
                     {/* Selected Cities and Their Locations */}
@@ -1942,7 +1795,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                   <button
                     type="button"
                     onClick={() => {
-                      const newHighlights = [...formData.highlights, ''];
+                      const newHighlights = [...formData.highlights];
+                      newHighlights.push('');
                       handleInputChange('highlights', newHighlights);
                     }}
                     className="flex items-center gap-2 text-[#10B981] text-[14px] font-bold hover:text-[#059669] transition-colors mt-2"
@@ -1954,43 +1808,52 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
-                  Short Description (Optional)
+                  Short Description * (200 characters minimum)
                 </label>
                 <textarea
                   value={formData.shortDescription}
                   onChange={(e) => handleInputChange('shortDescription', e.target.value)}
-                  placeholder="Give customers a taste of what they'll do in 2-3 sentences..."
-                  maxLength={200}
-                  rows={3}
+                  placeholder="Provide a compelling short summary of your tour (at least 200 characters)..."
+                  rows={4}
                   spellCheck={true}
                   autoComplete="off"
                   autoCorrect="on"
                   autoCapitalize="sentences"
                   className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none resize-none"
                 />
-                <p className="text-[12px] text-gray-500 font-semibold mt-2">
-                  {formData.shortDescription.length} / 200 characters
-                </p>
+                <div className="flex justify-between items-center mt-2">
+                  <p className={`text-[12px] font-semibold ${formData.shortDescription.trim().length < 200 ? 'text-red-500' : 'text-[#10B981]'}`}>
+                    {formData.shortDescription.trim().length} / 200 characters
+                  </p>
+                  {formData.shortDescription.trim().length < 200 && (
+                    <p className="text-[11px] text-red-400 font-medium italic">Requirement: 200 characters minimum</p>
+                  )}
+                </div>
               </div>
 
               <div>
                 <label className="block text-[14px] font-bold text-[#001A33] mb-3">
-                  Full Description * (500-1000 words recommended)
+                  Full Description * (500 characters minimum)
                 </label>
                 <textarea
                   value={formData.fullDescription}
                   onChange={(e) => handleInputChange('fullDescription', e.target.value)}
-                  placeholder="Provide all the details about what customers will see and experience..."
-                  rows={10}
+                  placeholder="Provide all the details about what customers will see and experience (at least 500 characters)..."
+                  rows={8}
                   spellCheck={true}
                   autoComplete="off"
                   autoCorrect="on"
                   autoCapitalize="sentences"
                   className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none resize-none"
                 />
-                <p className="text-[12px] text-gray-500 font-semibold mt-2">
-                  {formData.fullDescription.split(/\s+/).filter(Boolean).length} words
-                </p>
+                <div className="flex justify-between items-center mt-2">
+                  <p className={`text-[12px] font-semibold ${formData.fullDescription.trim().length < 500 ? 'text-red-500' : 'text-[#10B981]'}`}>
+                    {formData.fullDescription.trim().length} / 500 characters
+                  </p>
+                  {formData.fullDescription.trim().length < 500 && (
+                    <p className="text-[11px] text-red-400 font-medium italic">Requirement: 500 characters minimum</p>
+                  )}
+                </div>
               </div>
 
               <div>
@@ -2031,6 +1894,132 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                   className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
                 />
               </div>
+            </div>
+          </div>
+        )}
+
+        {/* Step 6: Detailed Itinerary */}
+        {step === 6 && (
+          <div className="bg-white rounded-2xl p-8 border border-gray-200">
+            <div className="flex items-center justify-between mb-8">
+              <div>
+                <h2 className="text-2xl font-black text-[#001A33]">Build Your Experience Timeline</h2>
+                <p className="text-[14px] text-gray-500 font-semibold mt-1">
+                  Add chronological time slots to guide your customers through the journey.
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={() => {
+                  const newItems = [...formData.itineraryItems, { title: '', time: '', description: '' }];
+                  handleInputChange('itineraryItems', newItems);
+                }}
+                className="bg-[#10B981] hover:bg-[#059669] text-white font-black py-2.5 px-6 rounded-xl text-[14px] transition-all flex items-center gap-2 shadow-sm"
+              >
+                <Plus size={18} /> Add Time Slot
+              </button>
+            </div>
+
+            <div className="space-y-6">
+              {formData.itineraryItems.length === 0 ? (
+                <div className="bg-gray-50 border-2 border-dashed border-gray-200 rounded-[2rem] p-12 text-center">
+                  <div className="bg-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 shadow-sm">
+                    <Clock className="text-[#10B981]" size={32} />
+                  </div>
+                  <h3 className="text-[18px] font-black text-[#001A33] mb-2">No timeline items yet</h3>
+                  <p className="text-[14px] text-gray-500 font-semibold max-w-sm mx-auto mb-6">
+                    A detailed timeline helps travelers visualize the day and increases booking confidence.
+                  </p>
+                  <button
+                    type="button"
+                    onClick={() => handleInputChange('itineraryItems', [
+                      { title: 'Morning Pickup', time: '09:00 AM', description: 'Meet your private guide at your hotel lobby to begin your personalized journey.' },
+                      { title: 'Monument Exploration', time: '10:30 AM', description: 'Discover the rich history and architecture with in-depth local stories.' }
+                    ])}
+                    className="text-[#10B981] font-bold hover:underline py-2 px-4"
+                  >
+                    + Start with an example
+                  </button>
+                </div>
+              ) : (
+                <div className="relative space-y-8 before:absolute before:left-8 before:top-4 before:bottom-4 before:w-[2px] before:bg-gray-100 before:-z-0">
+                  {formData.itineraryItems.map((item, index) => (
+                    <div key={index} className="relative pl-16 group">
+                      {/* Numbered Circle */}
+                      <div className="absolute left-1 top-2 w-14 h-14 rounded-full bg-white border-4 border-[#10B981] text-[#10B981] flex items-center justify-center font-black text-[18px] shadow-sm z-10 transition-transform group-hover:scale-110">
+                        {index + 1}
+                      </div>
+
+                      <div className="bg-white border-2 border-gray-100 rounded-[2rem] p-6 shadow-sm hover:shadow-md hover:border-gray-200 transition-all relative">
+                        <button
+                          type="button"
+                          onClick={() => {
+                            const newItems = formData.itineraryItems.filter((_, i) => i !== index);
+                            handleInputChange('itineraryItems', newItems);
+                          }}
+                          className="absolute -top-3 -right-3 bg-red-50 text-red-500 hover:bg-red-500 hover:text-white rounded-full p-2 shadow-md transition-all opacity-0 group-hover:opacity-100"
+                        >
+                          <Trash2 size={16} />
+                        </button>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-4">
+                          <div>
+                            <label className="block text-[11px] font-bold text-gray-400 uppercase tracking-wider mb-2">Estimated Time</label>
+                            <div className="relative">
+                              <Clock className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={16} />
+                              <input
+                                type="time"
+                                value={item.time && (item.time.includes('AM') || item.time.includes('PM')) ? (() => {
+                                  const [time, modifier] = item.time.split(' ');
+                                  let [hours, minutes] = time.split(':');
+                                  if (hours === '12') hours = '00';
+                                  if (modifier === 'PM') hours = String(parseInt(hours, 10) + 12);
+                                  return `${hours.padStart(2, '0')}:${minutes}`;
+                                })() : item.time}
+                                onChange={(e) => {
+                                  const newItems = [...formData.itineraryItems];
+                                  newItems[index].time = e.target.value;
+                                  handleInputChange('itineraryItems', newItems);
+                                }}
+                                className="w-full bg-gray-50 border-none rounded-xl py-3 px-11 font-black text-[#001A33] text-[15px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                              />
+                            </div>
+                          </div>
+                          <div>
+                            <label className="block text-[11px] font-bold text-gray-400 uppercase tracking-wider mb-2">Activity Title</label>
+                            <input
+                              type="text"
+                              value={item.title}
+                              onChange={(e) => {
+                                const newItems = [...formData.itineraryItems];
+                                newItems[index].title = e.target.value;
+                                handleInputChange('itineraryItems', newItems);
+                              }}
+                              placeholder="e.g. Arrival at Taj Mahal"
+                              className="w-full bg-gray-50 border-none rounded-xl py-3 px-5 font-black text-[#001A33] text-[15px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                            />
+                          </div>
+                        </div>
+
+                        <div>
+                          <label className="block text-[11px] font-bold text-gray-400 uppercase tracking-wider mb-2">What will you guide/do in this slot?</label>
+                          <textarea
+                            value={item.description}
+                            onChange={(e) => {
+                              const newItems = [...formData.itineraryItems];
+                              newItems[index].description = e.target.value;
+                              handleInputChange('itineraryItems', newItems);
+                            }}
+                            placeholder="Describe the experience, the history you'll share, or the activities involved..."
+                            rows={3}
+                            className="w-full bg-gray-50 border-none rounded-2xl py-4 px-5 font-semibold text-gray-600 text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none resize-none leading-relaxed"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
           </div>
         )}
@@ -2513,8 +2502,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           </div>
         )}
 
-        {/* Step 6: Photos & Languages */}
-        {step === 6 && (
+        {/* Step 8: Photos & Languages */}
+        {step === 8 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-xl font-black text-[#001A33] mb-6">Photos & Languages</h2>
 
@@ -2635,8 +2624,8 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
           </div>
         )}
 
-        {/* Step 8: Review */}
-        {step === 8 && (
+        {/* Step 9: Review */}
+        {step === 9 && (
           <div className="bg-white rounded-2xl p-8 border border-gray-200">
             <h2 className="text-2xl font-black text-[#001A33] mb-8">Review & Submit</h2>
 
@@ -2666,7 +2655,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">LOCATIONS</div>
-                  <div className="text-[16px] font-black text-[#001A33]">
+                  <div className="text-[16px] font-black text-[#001A33] break-words">
                     {formData.locations.length > 0 ? formData.locations.join(', ') : 'No locations selected'}
                   </div>
                 </div>
@@ -2684,7 +2673,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                       {formData.highlights.filter(h => h.trim()).map((highlight, index) => (
                         <li key={index} className="flex items-start gap-2">
                           <span className="text-[#10B981] font-black mt-1">•</span>
-                          <span className="text-[16px] font-semibold text-[#001A33]">{highlight}</span>
+                          <span className="text-[16px] font-semibold text-[#001A33] break-words">{highlight}</span>
                         </li>
                       ))}
                     </ul>
@@ -2695,7 +2684,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 {formData.shortDescription && (
                   <div>
                     <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">SHORT DESCRIPTION</div>
-                    <div className="text-[16px] font-black text-[#001A33] leading-relaxed">{formData.shortDescription}</div>
+                    <div className="text-[16px] font-black text-[#001A33] leading-relaxed break-words">{formData.shortDescription}</div>
                   </div>
                 )}
 
@@ -2703,7 +2692,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
                 {formData.fullDescription && (
                   <div>
                     <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">FULL DESCRIPTION</div>
-                    <div className="text-[16px] font-black text-[#001A33] leading-relaxed whitespace-pre-line">{formData.fullDescription}</div>
+                    <div className="text-[16px] font-black text-[#001A33] leading-relaxed whitespace-pre-line break-words">{formData.fullDescription}</div>
                   </div>
                 )}
 
@@ -2738,7 +2727,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
 
                 <div>
                   <div className="text-[11px] font-bold text-gray-500 uppercase tracking-wider mb-2">LANGUAGES</div>
-                  <div className="text-[16px] font-black text-[#001A33]">
+                  <div className="text-[16px] font-black text-[#001A33] break-words">
                     {formData.languages.length > 0 ? formData.languages.join(', ') : 'No languages selected'}
                   </div>
                 </div>

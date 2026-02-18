@@ -664,16 +664,7 @@ export const sendBookingNotificationEmail = async (supplierEmail, supplierName, 
                         <li style="margin-bottom: 10px;">Provide meeting point details and any additional information</li>
                       </ul>
                       
-                      <!-- CTA Button -->
-                      <table role="presentation" style="width: 100%; border-collapse: collapse; margin: 30px 0;">
-                        <tr>
-                          <td align="center" style="padding: 0;">
-                            <a href="${process.env.FRONTEND_URL || 'http://localhost:3000'}/supplier/dashboard" style="display: inline-block; background-color: #10B981; color: #ffffff; text-decoration: none; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: 600; text-align: center;">
-                              View Booking in Dashboard
-                            </a>
-                          </td>
-                        </tr>
-                      </table>
+
                       
                       <p style="margin: 30px 0 0 0; font-size: 16px; line-height: 1.6; color: #001A33;">
                         Best regards,<br>

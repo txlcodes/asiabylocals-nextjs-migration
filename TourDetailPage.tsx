@@ -18,7 +18,14 @@ import {
   Mail,
   Phone,
   MessageCircle,
-  CheckCircle
+  CheckCircle,
+  ShieldCheck,
+  HelpCircle,
+  FileText,
+  List,
+  AlertCircle,
+  ChevronDown,
+  ChevronUp
 } from 'lucide-react';
 import BookingForm from './BookingForm';
 
@@ -62,6 +69,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
   });
   const [bookingError, setBookingError] = useState<string | null>(null);
   const [expandedOptions, setExpandedOptions] = useState<Set<number>>(new Set());
+
 
   const toggleOptionExpand = (optionId: number) => {
     setExpandedOptions(prev => {
@@ -468,6 +476,16 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     return false; // No group pricing = per_person
   };
 
+  const parseJsonField = (field: any, defaultValue: any = []) => {
+    if (!field) return defaultValue;
+    try {
+      return typeof field === 'string' ? JSON.parse(field) : field;
+    } catch (e) {
+      console.error('Error parsing JSON field:', e);
+      return defaultValue;
+    }
+  };
+
   useEffect(() => {
     console.log('TourDetailPage - useEffect triggered', { tourId, tourSlug, country, city });
     fetchTour();
@@ -735,6 +753,61 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
       breadcrumbScript.setAttribute('data-breadcrumb-schema', 'true');
       breadcrumbScript.textContent = JSON.stringify(breadcrumbData);
       document.head.appendChild(breadcrumbScript);
+
+      // FAQ Schema (JSON-LD)
+      const tourTitle = tour.title || 'this tour';
+      const tourFAQs = [
+        {
+          question: `What is specifically included in the ${tourTitle}?`,
+          answer: tour.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per selection, and a fully customizable itinerary to suit your pace.`
+        },
+        {
+          question: `How long does the ${tourTitle} usually take?`,
+          answer: `The ${tourTitle} typically lasts about ${tour.duration || 'a few hours'}. We recommend starting early to make the most of your time and avoid peak crowds.`
+        },
+        {
+          question: `What should I bring for my ${tourTitle}?`,
+          answer: "For a comfortable experience, we recommend carrying an original ID (passport for international visitors), comfortable walking shoes, and sun protection. Please note that large bags are often restricted at heritage sites."
+        }
+      ];
+
+      if (city?.toLowerCase() === 'agra' || tourTitle.toLowerCase().includes('taj mahal')) {
+        tourFAQs.push({
+          question: "Is the Taj Mahal closed on Fridays?",
+          answer: "Yes, the Taj Mahal remains closed every Friday for prayers. Please ensure your tour date does not fall on a Friday if visiting the Taj Mahal is your priority."
+        });
+        tourFAQs.push({
+          question: "Is an original passport required for Taj Mahal entry?",
+          answer: "Yes, all foreign tourists must present their original passport (or a high-quality digital copy) at the entrance for identity verification and security clearance."
+        });
+      }
+
+      tourFAQs.push({
+        question: `Can I cancel my ${tourTitle} booking?`,
+        answer: "Yes, we offer a flexible cancellation policy. You can cancel your booking up to 24 hours before the scheduled start time for a full refund."
+      });
+
+      const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": tourFAQs.map(faq => ({
+          "@type": "Question",
+          "name": faq.question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer
+          }
+        }))
+      };
+
+      const existingFaqSchema = document.querySelector('script[type="application/ld+json"][data-faq-schema]');
+      if (existingFaqSchema) existingFaqSchema.remove();
+
+      const faqScript = document.createElement('script');
+      faqScript.type = 'application/ld+json';
+      faqScript.setAttribute('data-faq-schema', 'true');
+      faqScript.textContent = JSON.stringify(faqSchema);
+      document.head.appendChild(faqScript);
     }
   }, [tour, city, country]);
 
@@ -2345,6 +2418,66 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                 Secure payment via Razorpay
               </p>
             </div>
+          </div>
+        </div>
+
+        {/* Structured SEO Sections - Premium Content below main grid */}
+        <div className="mt-20 pt-16 border-t border-gray-100">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
+
+
+
+            {/* Section 5: FAQ Section (Simple List Style like City Page) */}
+            <section className="lg:col-span-2">
+              <div className="flex items-center gap-4 mb-12">
+                <div className="p-3 bg-[#10B981]/10 rounded-2xl">
+                  <HelpCircle className="text-[#10B981]" size={32} />
+                </div>
+                <h2 className="text-2xl font-black text-[#001A33]">Frequently Asked Questions</h2>
+              </div>
+              <div className="space-y-8 max-w-4xl">
+                {(() => {
+                  const tourTitle = tour.title || 'this tour';
+                  const tourFAQs = [
+                    {
+                      question: `What is specifically included in the ${tourTitle}?`,
+                      answer: tour.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary.`
+                    },
+                    {
+                      question: `How long is the actual ${tourTitle} experience?`,
+                      answer: `The duration of the ${tourTitle} is typically ${tour.duration || 'a few hours'}. We recommend arriving 15 minutes before the scheduled start time for a smooth experience.`
+                    },
+                    {
+                      question: `What is the best time to start the ${tourTitle}?`,
+                      answer: "For most monument visits, we highly recommend a sunrise start. This allows you to avoid the midday heat, bypass the largest crowds, and capture the best lighting for photography."
+                    }
+                  ];
+
+                  if (tour.city?.toLowerCase() === 'agra' || tourTitle.toLowerCase().includes('taj mahal')) {
+                    tourFAQs.push({
+                      question: "Is the Taj Mahal closed on Friday?",
+                      answer: "Yes, the Taj Mahal is closed every Friday for religious reasons. Please ensure your tour date for the Taj Mahal does not fall on a Friday."
+                    });
+                    tourFAQs.push({
+                      question: "Is original passport mandatory for entry?",
+                      answer: "Yes, foreign tourists must show their original passport or a high-quality digital photo at the entrance gates for security identification and monument entry."
+                    });
+                  }
+
+                  tourFAQs.push({
+                    question: `Will I receive confirmation after booking the ${tourTitle}?`,
+                    answer: "Yes, once your booking is completed via our secure gateway, you will receive an instant confirmation email with your tour details and guide contact information."
+                  });
+
+                  return tourFAQs.map((faq, idx) => (
+                    <div key={idx} className="border-b border-gray-100 pb-8 last:border-0">
+                      <h3 className="text-[18px] font-black text-[#001A33] mb-3">{faq.question}</h3>
+                      <p className="text-[16px] text-gray-600 font-semibold leading-relaxed">{faq.answer}</p>
+                    </div>
+                  ));
+                })()}
+              </div>
+            </section>
           </div>
         </div>
       </div>

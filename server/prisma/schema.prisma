@@ -90,6 +90,9 @@ model Tour {
   createdAt        DateTime     @default(now()) @map("created_at")
   updatedAt        DateTime     @updatedAt @map("updated_at")
   approvedAt       DateTime?    @map("approved_at")
+  itineraryItems     String?      @map("itinerary_items") // JSON array of {title, time, description}
+  visitorInfo        String?      @map("visitor_info")
+  checklistItems     String?      @map("checklist_items") // JSON array of {label, value, iconType}
   supplier         Supplier     @relation(fields: [supplierId], references: [id], onDelete: Cascade)
   parentTour       Tour?        @relation("TourMiniTours", fields: [parentTourId], references: [id], onDelete: SetNull)
   miniTours        Tour[]       @relation("TourMiniTours")

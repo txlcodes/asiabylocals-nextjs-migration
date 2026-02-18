@@ -141,6 +141,21 @@ Whether you're interested in a sunrise tour of the Taj Mahal, a comprehensive he
 ### Q5: What is the best time to visit the Taj Mahal?
 **A:** The best time to visit the Taj Mahal is at sunrise (around 6:00 AM) when the lighting is perfect and crowds are minimal. Early morning tours offer cooler temperatures and the iconic golden glow on the marble. Sunset is also beautiful but typically more crowded. Avoid midday visits during summer months due to intense heat. Most guided tours schedule visits during optimal times.
 
+### Q6: Is the Taj Mahal closed on Friday?
+**A:** Yes, the Taj Mahal is closed every Friday for prayers. It is open on all other days, including public holidays.
+
+### Q7: Is a passport required for entry?
+**A:** Yes, foreign tourists must show their original passport (or a clear digital copy) at the entrance gates for identification.
+
+### Q8: Why choose a female guide in Agra?
+**A:** Choosing a female guide offers a unique perspective on Mughal history, especially regarding the lives of the royal women. It also provides an extra layer of comfort and safety for solo female travelers and families.
+
+### Q9: Is this tour private or group?
+**A:** Our female-guided tours in Agra are typically private, ensuring a personalized experience and flexible pace tailored to your interests.
+
+### Q10: Can I customize the itinerary?
+**A:** Absolutely. Since these are private tours, you can easily customize the itinerary to include sites like the Baby Taj, Mehtab Bagh, or local handicraft workshops.
+
 ---
 
 ## SEO Keywords Included (Natural Integration)

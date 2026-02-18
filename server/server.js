@@ -3011,8 +3011,8 @@ app.post('/api/tours', async (req, res) => {
           if (keyLower === 'pricingtype' || keyLower === 'pricing_type') {
             continue; // Skip pricingType fields
           }
-          // CRITICAL: Preserve groupPricingTiers - it's a valid field!
-          if (keyLower === 'grouppricingtiers') {
+          // CRITICAL: Preserve groupPricingTiers and itineraryItems - they are valid fields!
+          if (keyLower === 'grouppricingtiers' || keyLower === 'itineraryitems') {
             cleaned[key] = value; // Keep as-is, don't recurse
             continue;
           }
@@ -3051,17 +3051,11 @@ app.post('/api/tours', async (req, res) => {
       groupPricingTiers, // Extract groupPricingTiers for main tour - CRITICAL FIELD!
       unavailableDates, // Legacy - Extract unavailableDates
       unavailableDaysOfWeek, // Extract unavailableDaysOfWeek
-      currency,
-      shortDescription,
-      fullDescription,
-      included,
-      notIncluded,
-      meetingPoint,
-      guideType,
-      tourTypes,
-      images,
       languages,
-      highlights
+      highlights,
+      itineraryItems,
+      visitorInfo,
+      checklistItems
     } = finalCleanedBody; // Use final cleaned body (IDs and pricingType removed)
 
     // #region agent log
@@ -4499,7 +4493,8 @@ app.post('/api/tours', async (req, res) => {
           'supplierId', 'title', 'slug', 'country', 'city', 'category', 'locations',
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
           'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
-          'images', 'languages', 'reviews', 'status', 'options'
+          'images', 'languages', 'reviews', 'status', 'options',
+          'itineraryItems', 'visitorInfo', 'checklistItems'
         ];
         Object.keys(finalTourData).forEach(key => {
           if (!tourModelFields.includes(key)) {
@@ -4592,8 +4587,10 @@ app.post('/api/tours', async (req, res) => {
         const SAFE_TOUR_FIELDS = [
           'supplierId', 'title', 'slug', 'country', 'city', 'category', 'locations',
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
-          'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType',
-          'images', 'languages', 'reviews', 'status', 'options'
+          'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
+          'images', 'languages', 'reviews', 'status', 'options',
+          'itineraryItems', 'visitorInfo', 'checklistItems',
+          'groupPricingTiers', 'groupPrice', 'maxGroupSize'
         ];
 
         // Create a completely clean object with ONLY valid Tour model fields
@@ -4620,7 +4617,13 @@ app.post('/api/tours', async (req, res) => {
           images: finalTourData.images,
           languages: finalTourData.languages,
           reviews: finalTourData.reviews,
-          status: finalTourData.status || 'draft'
+          status: finalTourData.status || 'draft',
+          itineraryItems: finalTourData.itineraryItems ? (typeof finalTourData.itineraryItems === 'string' ? finalTourData.itineraryItems : JSON.stringify(finalTourData.itineraryItems)) : null,
+          visitorInfo: finalTourData.visitorInfo || null,
+          checklistItems: finalTourData.checklistItems || null,
+          groupPricingTiers: finalTourData.groupPricingTiers ? (typeof finalTourData.groupPricingTiers === 'string' ? finalTourData.groupPricingTiers : JSON.stringify(finalTourData.groupPricingTiers)) : null,
+          groupPrice: finalTourData.groupPrice || null,
+          maxGroupSize: finalTourData.maxGroupSize || null
         };
 
         // Only add options if they exist and are properly formatted
@@ -4658,10 +4661,6 @@ app.post('/api/tours', async (req, res) => {
         // Explicitly ensure NO pricingType or other invalid fields exist (pricingType removed from schema)
         delete cleanFinalTourData.pricingType;
         delete cleanFinalTourData.pricing_type;
-        delete cleanFinalTourData.groupPrice;
-        delete cleanFinalTourData.group_price;
-        delete cleanFinalTourData.maxGroupSize;
-        delete cleanFinalTourData.max_group_size;
         delete cleanFinalTourData.tourOptions;
 
         // Log what we're about to send
@@ -4685,8 +4684,8 @@ app.post('/api/tours', async (req, res) => {
         const topLevelKeys = Object.keys(cleanFinalTourData);
         const pricingFields = topLevelKeys.filter(key => {
           const keyLower = key.toLowerCase();
-          // Skip valid Tour fields that contain "pricing" or "group"
-          if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice') {
+          // Skip valid Tour fields that contain "pricing" or "group" or "itinerary"
+          if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems') {
             return false; // Keep these fields
           }
           // Remove pricingType and other invalid fields
@@ -4725,8 +4724,8 @@ app.post('/api/tours', async (req, res) => {
               if (keyLower === 'pricingtype' || keyLower === 'pricing_type') {
                 continue; // Skip pricingType fields
               }
-              // CRITICAL: Preserve groupPricingTiers, maxGroupSize, groupPrice - valid Tour fields!
-              if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice') {
+              // CRITICAL: Preserve groupPricingTiers, maxGroupSize, groupPrice, itineraryItems - valid Tour fields!
+              if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems') {
                 cleaned[key] = value; // Keep as-is, don't recurse
                 continue;
               }
@@ -6060,6 +6059,26 @@ app.put('/api/tours/:id', async (req, res) => {
         hasValue: !!dataToUpdate.groupPricingTiers,
         preview: dataToUpdate.groupPricingTiers ? dataToUpdate.groupPricingTiers.substring(0, 200) : 'null'
       });
+    }
+
+    // Save new SEO and itinerary fields
+    if (updateData.itineraryItems !== undefined) {
+      dataToUpdate.itineraryItems = updateData.itineraryItems
+        ? (typeof updateData.itineraryItems === 'string' ? updateData.itineraryItems : JSON.stringify(updateData.itineraryItems))
+        : null;
+    }
+    if (updateData.visitorInfo !== undefined) {
+      dataToUpdate.visitorInfo = updateData.visitorInfo || null;
+    }
+    if (updateData.checklistItems !== undefined) {
+      dataToUpdate.checklistItems = updateData.checklistItems
+        ? (typeof updateData.checklistItems === 'string' ? updateData.checklistItems : JSON.stringify(updateData.checklistItems))
+        : null;
+    }
+    if (updateData.highlights !== undefined) {
+      dataToUpdate.highlights = updateData.highlights
+        ? (typeof updateData.highlights === 'string' ? updateData.highlights : JSON.stringify(updateData.highlights))
+        : null;
     }
 
     // Update tour first
@@ -8158,25 +8177,14 @@ app.post('/api/verify-payment', async (req, res) => {
         razorpayOrderId: razorpay_order_id
       });
 
-      // Upload to Cloudinary
-      const { v2: cloudinary } = await import('cloudinary');
-      cloudinary.config({
-        cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
-        api_key: process.env.CLOUDINARY_API_KEY,
-        api_secret: process.env.CLOUDINARY_API_SECRET
-      });
-
-      const uploadResponse = await cloudinary.uploader.upload(
-        `data:application/pdf;base64,${invoicePDFBase64}`,
-        {
-          folder: 'invoices',
-          resource_type: 'raw',
-          public_id: `invoice_${bookingId}_${Date.now()}`,
-          format: 'pdf'
-        }
+      // Upload to Cloudinary using utility
+      const { uploadDocument } = await import('./utils/cloudinary.js');
+      invoiceUrl = await uploadDocument(
+        invoicePDFBase64,
+        'invoices',
+        `invoice_${bookingId}_${Date.now()}`
       );
 
-      invoiceUrl = uploadResponse.secure_url;
       console.log('✅ Invoice PDF uploaded to Cloudinary:', invoiceUrl);
     } catch (invoiceError) {
       console.error('❌ Failed to generate/upload invoice PDF:', invoiceError);
@@ -8252,6 +8260,8 @@ app.post('/api/verify-payment', async (req, res) => {
         }
       );
       console.log(`✅ Booking confirmation email sent to customer`);
+      // Add delay to avoid Resend rate limit (2 req/sec)
+      await new Promise(resolve => setTimeout(resolve, 1000));
     } catch (emailError) {
       console.error(`❌ Failed to send booking confirmation email:`, emailError);
       // Don't fail payment verification if email fails
@@ -8279,6 +8289,8 @@ app.post('/api/verify-payment', async (req, res) => {
         }
       );
       console.log(`✅ Booking notification email sent to supplier/guide`);
+      // Add delay to avoid Resend rate limit (2 req/sec)
+      await new Promise(resolve => setTimeout(resolve, 1000));
     } catch (emailError) {
       console.error(`❌ Failed to send booking notification email to supplier:`, emailError);
       // Don't fail payment verification if email fails
@@ -9360,7 +9372,8 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
   console.log(`📊 API endpoints available at http://localhost:${PORT}/api`);
   console.log(`🗄️  Database: PostgreSQL via Prisma ORM`);
-  console.log(`📧 Email: ${process.env.EMAIL_USER ? 'Configured' : 'Not configured - check .env'}`);
+  const emailConfigured = process.env.RESEND_API_KEY || process.env.SENDGRID_API_KEY || process.env.EMAIL_USER;
+  console.log(`📧 Email: ${emailConfigured ? 'Configured' : 'Not configured - check .env'}`);
   if (process.env.NODE_ENV === 'production') {
     console.log(`🌐 Frontend served from: ${path.join(__dirname, '../dist')}`);
   }
