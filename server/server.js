@@ -2405,27 +2405,7 @@ function formatTourResponse(tour, parsedData = {}) {
   // Parse groupPricingTiers from Tour model (PRIMARY SOURCE)
   let tourGroupPricingTiers = null;
 
-  // #region agent log
-  const logPath = '/Users/talhanawaz/Desktop/asiabylocals-latest/.cursor/debug.log';
-  try {
-    const logEntry = JSON.stringify({
-      location: 'server.js:1808',
-      message: 'formatTourResponse - checking tour.groupPricingTiers from database',
-      data: {
-        tourId: tour?.id,
-        hasGroupPricingTiers: !!tour?.groupPricingTiers,
-        groupPricingTiersType: typeof tour?.groupPricingTiers,
-        groupPricingTiersValue: tour?.groupPricingTiers ? (typeof tour.groupPricingTiers === 'string' ? tour.groupPricingTiers.substring(0, 100) : JSON.stringify(tour.groupPricingTiers).substring(0, 100)) : null,
-        tourKeys: tour ? Object.keys(tour).filter(k => k.toLowerCase().includes('pricing') || k.toLowerCase().includes('group')) : null
-      },
-      timestamp: Date.now(),
-      sessionId: 'debug-session',
-      runId: 'run1',
-      hypothesisId: 'C'
-    }) + '\n';
-    fs.appendFileSync(logPath, logEntry);
-  } catch (e) { }
-  // #endregion
+
 
   if (tour.groupPricingTiers) {
     try {
@@ -2436,63 +2416,14 @@ function formatTourResponse(tour, parsedData = {}) {
         type: Array.isArray(tourGroupPricingTiers) ? 'array' : typeof tourGroupPricingTiers,
         length: Array.isArray(tourGroupPricingTiers) ? tourGroupPricingTiers.length : 'N/A'
       });
-      // #region agent log
-      try {
-        const logEntry = JSON.stringify({
-          location: 'server.js:1820',
-          message: 'formatTourResponse - successfully parsed tour.groupPricingTiers',
-          data: {
-            tourId: tour.id,
-            tiersCount: tourGroupPricingTiers?.length,
-            firstTier: tourGroupPricingTiers?.[0]
-          },
-          timestamp: Date.now(),
-          sessionId: 'debug-session',
-          runId: 'run1',
-          hypothesisId: 'C'
-        }) + '\n';
-        fs.appendFileSync(logPath, logEntry);
-      } catch (e) { }
-      // #endregion
+
     } catch (e) {
       console.error(`❌ Failed to parse tour.groupPricingTiers for tour ${tour.id}:`, e.message);
-      // #region agent log
-      try {
-        const logEntry = JSON.stringify({
-          location: 'server.js:1825',
-          message: 'formatTourResponse - failed to parse tour.groupPricingTiers',
-          data: {
-            tourId: tour.id,
-            error: e.message
-          },
-          timestamp: Date.now(),
-          sessionId: 'debug-session',
-          runId: 'run1',
-          hypothesisId: 'C'
-        }) + '\n';
-        fs.appendFileSync(logPath, logEntry);
-      } catch (e) { }
-      // #endregion
+
     }
   } else {
     console.warn(`⚠️ Tour ${tour.id} has NO groupPricingTiers on Tour model`);
-    // #region agent log
-    try {
-      const logEntry = JSON.stringify({
-        location: 'server.js:1830',
-        message: 'formatTourResponse - tour.groupPricingTiers NOT found in database',
-        data: {
-          tourId: tour.id,
-          reason: 'groupPricingTiers field is null/undefined in database'
-        },
-        timestamp: Date.now(),
-        sessionId: 'debug-session',
-        runId: 'run1',
-        hypothesisId: 'C'
-      }) + '\n';
-      fs.appendFileSync(logPath, logEntry);
-    } catch (e) { }
-    // #endregion
+
   }
 
   return {
