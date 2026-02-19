@@ -1162,7 +1162,9 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     // Create booking via API
     try {
       setIsInitializingPayment(true); // Show loading state
-      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+      // Use relative path in development to leverage Vite proxy for mobile testing
+      // In production, use VITE_API_URL or origin
+      const API_URL = import.meta.env.DEV ? '' : (import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001'));
       console.log('📝 Creating booking...', {
         tourId: pendingBookingData.tourId,
         bookingDate: pendingBookingData.bookingDate,
@@ -1247,7 +1249,9 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
       console.log('💳 Initializing Razorpay payment...', { bookingId, amount, currency });
 
       // Step 1: Create payment order via backend
-      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+      // Use relative path in development to leverage Vite proxy for mobile testing
+      // In production, use VITE_API_URL or origin
+      const API_URL = import.meta.env.DEV ? '' : (import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001'));
       const paymentResponse = await fetch(`${API_URL}/api/payments/create-order`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

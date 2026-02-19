@@ -19,7 +19,7 @@ const BookingConfirmation: React.FC = () => {
       }
 
       try {
-        const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+        const API_URL = import.meta.env.DEV ? '' : (import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001'));
         const response = await fetch(`${API_URL}/api/bookings/${bookingId}/confirmation`);
         const data = await response.json();
 

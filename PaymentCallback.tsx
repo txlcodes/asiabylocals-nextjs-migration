@@ -52,7 +52,7 @@ const PaymentCallback: React.FC = () => {
 
         // If we have payment details, verify payment
         if (razorpayPaymentId && razorpayOrderId && razorpaySignature) {
-          const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+          const API_URL = import.meta.env.DEV ? '' : (import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001'));
 
           const verifyResponse = await fetch(`${API_URL}/api/verify-payment`, {
             method: 'POST',
@@ -80,7 +80,7 @@ const PaymentCallback: React.FC = () => {
           }
         } else {
           // If no payment details in URL, check booking status
-          const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+          const API_URL = import.meta.env.DEV ? '' : (import.meta.env.VITE_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001'));
           const bookingResponse = await fetch(`${API_URL}/api/bookings/${bookingIdParam}/confirmation`);
           const bookingData = await bookingResponse.json();
 
