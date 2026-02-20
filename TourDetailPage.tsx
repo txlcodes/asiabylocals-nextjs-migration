@@ -1915,7 +1915,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                             {config.icon}
                           </div>
 
-                          <div className={`${isTransport ? 'bg-gray-50 border border-dashed border-gray-200' : 'bg-white border border-gray-100 shadow-sm hover:shadow-md'} rounded-xl p-4 transition-all`}>
+                          <div className="bg-white border border-gray-100 shadow-sm hover:shadow-md rounded-xl p-4 transition-all">
                             <div className="flex items-start justify-between gap-4">
                               <div className="flex-1 min-w-0">
                                 <div className="flex items-center gap-3 mb-1.5">
