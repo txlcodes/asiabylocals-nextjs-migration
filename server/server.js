@@ -69,6 +69,113 @@ app.get('/api/health', async (req, res) => {
   }
 });
 
+// ============================================
+// AI ITINERARY GENERATION (GPT-4.1 mini)
+// ============================================
+import OpenAI from 'openai';
+
+const openai = process.env.OPENAI_API_KEY ? new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+}) : null;
+
+app.post('/api/generate-itinerary', async (req, res) => {
+  try {
+    if (!openai) {
+      return res.status(500).json({
+        success: false,
+        error: 'OpenAI API key not configured'
+      });
+    }
+
+    const { answers } = req.body;
+
+    if (!answers || typeof answers !== 'object') {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing or invalid answers object'
+      });
+    }
+
+    console.log('🤖 Generating AI itinerary...');
+
+    const prompt = `You are a professional travel content writer for AsiaByLocals, a platform connecting travellers with local guides in Asia.
+
+Write a detailed, SEO-optimized tour itinerary description based on the following supplier answers. The output MUST:
+- Be 500–600 words
+- Use ## headings (markdown H2) to separate sections. Use at least 5 ## headings.
+- Include rich, descriptive language with cultural and historical context
+- Be written in second person ("you will", "you'll experience")
+- Include practical details (timings, distances, what to wear, etc.)
+- Feel authentic and personal — written by a local guide, not a corporation
+- NOT include any meta instructions, notes, or explanations — ONLY the itinerary text itself
+- Do NOT use em dashes (—). Use standard hyphens (-) or colons (:) instead.
+
+Here are the supplier's answers:
+
+1. Tour Title/Heading: ${answers[0] || 'N/A'}
+2. Pickup Details (time, location, vehicle): ${answers[1] || 'N/A'}
+3. Route & Drive Duration: ${answers[2] || 'N/A'}
+4. First Major Stop: ${answers[3] || 'N/A'}
+5. Second Major Stop: ${answers[4] || 'N/A'}
+6. Meal/Lunch Arrangements: ${answers[5] || 'N/A'}
+7. Optional Stops or Add-ons: ${answers[6] || 'N/A'}
+8. Return Journey: ${answers[7] || 'N/A'}
+9. What Makes This Tour Special: ${answers[8] || 'N/A'}
+10. Insider Tips for Travellers: ${answers[9] || 'N/A'}
+
+Write the full itinerary now. Start directly with the first ## heading. Do NOT include a title like "# Tour Name" — just start with ## sections.`;
+
+    // Set headers for streaming
+    res.setHeader('Content-Type', 'text/event-stream');
+    res.setHeader('Cache-Control', 'no-cache');
+    res.setHeader('Connection', 'keep-alive');
+
+    const stream = await openai.chat.completions.create({
+      model: 'gpt-4.1-mini',
+      max_tokens: 750,
+      temperature: 0.7,
+      stream: true,
+      messages: [
+        {
+          role: 'system',
+          content: 'You are a professional travel content writer who creates detailed, engaging tour itineraries. Always write in markdown with ## headings. Never include meta commentary or instructions in your output.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
+      ]
+    });
+
+    for await (const chunk of stream) {
+      const content = chunk.choices[0]?.delta?.content;
+      if (content) {
+        res.write(`data: ${JSON.stringify({ content })}\n\n`);
+      }
+    }
+
+    res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
+    res.end();
+
+    console.log('✅ AI itinerary generated successfully');
+  } catch (error) {
+    console.error('❌ AI itinerary generation failed:', error);
+
+    // If headers haven't been sent yet, send JSON error
+    if (!res.headersSent) {
+      res.status(500).json({
+        success: false,
+        error: 'Failed to generate itinerary',
+        message: error.message
+      });
+    } else {
+      // If streaming already started, send error in stream format
+      res.write(`data: ${JSON.stringify({ error: error.message })}\n\n`);
+      res.end();
+    }
+  }
+});
+
 // Quick email test endpoint (for testing only - DISABLED in production)
 app.post('/api/test-email', async (req, res) => {
   // SECURITY: Disable in production
@@ -2426,6 +2533,18 @@ function formatTourResponse(tour, parsedData = {}) {
 
   }
 
+  // Parse itineraryItems from database JSON string
+  let parsedItineraryItems = null;
+  if (tour.itineraryItems) {
+    try {
+      parsedItineraryItems = typeof tour.itineraryItems === 'string'
+        ? JSON.parse(tour.itineraryItems)
+        : tour.itineraryItems;
+    } catch (e) {
+      console.error(`❌ Failed to parse itineraryItems for tour ${tour.id}:`, e.message);
+    }
+  }
+
   return {
     ...tour,
     id: String(tour.id),
@@ -2434,6 +2553,7 @@ function formatTourResponse(tour, parsedData = {}) {
     languages: parsedData.languages || JSON.parse(tour.languages || '[]'),
     highlights: parsedData.highlights || (tour.highlights ? JSON.parse(tour.highlights || '[]') : []),
     reviews: null, // Always null - reviews are not generated
+    itineraryItems: parsedItineraryItems,
     groupPricingTiers: tourGroupPricingTiers, // PRIMARY SOURCE - from Tour model
     options: tour.options && Array.isArray(tour.options) ? tour.options.map(opt => {
       // Explicitly exclude pricingType if it somehow exists
@@ -2943,7 +3063,7 @@ app.post('/api/tours', async (req, res) => {
             continue; // Skip pricingType fields
           }
           // CRITICAL: Preserve groupPricingTiers and itineraryItems - they are valid fields!
-          if (keyLower === 'grouppricingtiers' || keyLower === 'itineraryitems') {
+          if (keyLower === 'grouppricingtiers' || keyLower === 'itineraryitems' || keyLower === 'detaileditinerary') {
             cleaned[key] = value; // Keep as-is, don't recurse
             continue;
           }
@@ -2985,8 +3105,26 @@ app.post('/api/tours', async (req, res) => {
       languages,
       highlights,
       itineraryItems,
+      detailedItinerary,
       visitorInfo,
-      checklistItems
+      checklistItems,
+      // Added missing fields to prevent crash
+      shortDescription,
+      fullDescription,
+      included,
+      notIncluded,
+      meetingPoint,
+      images,
+      tourTypes,
+      usesTransportation,
+      transportationTypes,
+      multiCityTravel,
+      multiCityLocations,
+      isMultiDayTour,
+      // tourOptions handled later manually to avoid conflict
+      locationEntryTickets,
+      guideType,
+      currency
     } = finalCleanedBody; // Use final cleaned body (IDs and pricingType removed)
 
     // #region agent log
@@ -4108,6 +4246,16 @@ app.post('/api/tours', async (req, res) => {
         : (unavailableDaysOfWeek && Array.isArray(unavailableDaysOfWeek) && unavailableDaysOfWeek.length > 0
           ? JSON.stringify(unavailableDaysOfWeek)
           : null),
+      // Added missing fields for itinerary and transportation
+      itineraryItems: itineraryItems ? (typeof itineraryItems === 'string' ? itineraryItems : JSON.stringify(itineraryItems)) : '[]',
+      detailedItinerary: detailedItinerary || '',
+      visitorInfo: visitorInfo || '',
+      checklistItems: checklistItems || '',
+      usesTransportation: !!usesTransportation,
+      transportationTypes: transportationTypes ? (typeof transportationTypes === 'string' ? transportationTypes : JSON.stringify(transportationTypes)) : '[]',
+      multiCityTravel: !!multiCityTravel,
+      multiCityLocations: multiCityLocations ? (typeof multiCityLocations === 'string' ? multiCityLocations : JSON.stringify(multiCityLocations)) : '[]',
+      locationEntryTickets: locationEntryTickets ? (typeof locationEntryTickets === 'string' ? locationEntryTickets : JSON.stringify(locationEntryTickets)) : '{}',
       // CRITICAL: Save groupPricingTiers directly on Tour model (simple, reliable)
       groupPricingTiers: (() => {
         // #region agent log
@@ -4425,7 +4573,9 @@ app.post('/api/tours', async (req, res) => {
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
           'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
           'images', 'languages', 'reviews', 'status', 'options',
-          'itineraryItems', 'visitorInfo', 'checklistItems'
+          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems',
+          'maxGroupSize', 'groupPrice', 'groupPricingTiers', 'unavailableDates', 'unavailableDaysOfWeek',
+          'parentTourId', 'parentTour'
         ];
         Object.keys(finalTourData).forEach(key => {
           if (!tourModelFields.includes(key)) {
@@ -4520,7 +4670,7 @@ app.post('/api/tours', async (req, res) => {
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
           'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
           'images', 'languages', 'reviews', 'status', 'options',
-          'itineraryItems', 'visitorInfo', 'checklistItems',
+          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems',
           'groupPricingTiers', 'groupPrice', 'maxGroupSize'
         ];
 
@@ -4550,6 +4700,7 @@ app.post('/api/tours', async (req, res) => {
           reviews: finalTourData.reviews,
           status: finalTourData.status || 'draft',
           itineraryItems: finalTourData.itineraryItems ? (typeof finalTourData.itineraryItems === 'string' ? finalTourData.itineraryItems : JSON.stringify(finalTourData.itineraryItems)) : null,
+          detailedItinerary: finalTourData.detailedItinerary || null,
           visitorInfo: finalTourData.visitorInfo || null,
           checklistItems: finalTourData.checklistItems || null,
           groupPricingTiers: finalTourData.groupPricingTiers ? (typeof finalTourData.groupPricingTiers === 'string' ? finalTourData.groupPricingTiers : JSON.stringify(finalTourData.groupPricingTiers)) : null,
@@ -4616,7 +4767,7 @@ app.post('/api/tours', async (req, res) => {
         const pricingFields = topLevelKeys.filter(key => {
           const keyLower = key.toLowerCase();
           // Skip valid Tour fields that contain "pricing" or "group" or "itinerary"
-          if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems') {
+          if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems' || keyLower === 'detaileditinerary') {
             return false; // Keep these fields
           }
           // Remove pricingType and other invalid fields
@@ -4656,7 +4807,7 @@ app.post('/api/tours', async (req, res) => {
                 continue; // Skip pricingType fields
               }
               // CRITICAL: Preserve groupPricingTiers, maxGroupSize, groupPrice, itineraryItems - valid Tour fields!
-              if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems') {
+              if (keyLower === 'grouppricingtiers' || keyLower === 'maxgroupsize' || keyLower === 'groupprice' || keyLower === 'itineraryitems' || keyLower === 'detaileditinerary') {
                 cleaned[key] = value; // Keep as-is, don't recurse
                 continue;
               }
@@ -5381,23 +5532,21 @@ app.post('/api/tours', async (req, res) => {
       ];
     }
 
-    // Return detailed error message in development
-    const finalMessage = process.env.NODE_ENV === 'development'
-      ? error.message
-      : errorMessage;
+    // Return detailed error message (FORCE ENABLED FOR DEBUGGING)
+    const finalMessage = error.message || errorMessage;
 
-    // ENHANCED ERROR RESPONSE - Show detailed errors in development
+    // ENHANCED ERROR RESPONSE - Show detailed errors
     const errorResponse = {
       success: false,
       error: 'Internal server error',
       message: finalMessage,
       commonIssues: commonIssues.length > 0 ? commonIssues : undefined,
-      details: process.env.NODE_ENV === 'development' ? {
+      details: {
         code: error.code,
         message: error.message,
         meta: error.meta,
         stack: error.stack
-      } : undefined
+      }
     };
 
     // Log error to console with clear formatting
@@ -5997,6 +6146,9 @@ app.put('/api/tours/:id', async (req, res) => {
       dataToUpdate.itineraryItems = updateData.itineraryItems
         ? (typeof updateData.itineraryItems === 'string' ? updateData.itineraryItems : JSON.stringify(updateData.itineraryItems))
         : null;
+    }
+    if (updateData.detailedItinerary !== undefined) {
+      dataToUpdate.detailedItinerary = updateData.detailedItinerary || null;
     }
     if (updateData.visitorInfo !== undefined) {
       dataToUpdate.visitorInfo = updateData.visitorInfo || null;
@@ -7668,7 +7820,7 @@ app.post('/api/bookings', async (req, res) => {
           totalAmount: parseFloat(totalAmount),
           currency: currency || 'INR',
           specialRequests: specialRequests || null,
-          supplierName: supplier?.fullName || supplier?.companyName || 'Your Guide',
+          supplierName: supplier?.fullName || supplier?.companyName || 'Your Supplier',
           supplierEmail: supplier.email,
           supplierPhone: supplier.phone || null,
           supplierWhatsApp: supplier.whatsapp || null,
@@ -8179,7 +8331,7 @@ app.post('/api/verify-payment', async (req, res) => {
           numberOfGuests: booking.numberOfGuests,
           totalAmount: booking.totalAmount,
           currency: booking.currency,
-          supplierName: booking.supplier.fullName || booking.supplier.companyName || 'Your Guide',
+          supplierName: booking.supplier.fullName || booking.supplier.companyName || 'Your Supplier',
           supplierEmail: booking.supplier.email,
           supplierPhone: booking.supplier.phone,
           supplierWhatsApp: booking.supplier.whatsapp,

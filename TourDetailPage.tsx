@@ -25,7 +25,12 @@ import {
   List,
   AlertCircle,
   ChevronDown,
-  ChevronUp
+  ChevronUp,
+  Map,
+  Landmark,
+  Utensils,
+  Activity,
+  Home
 } from 'lucide-react';
 import BookingForm from './BookingForm';
 
@@ -1636,7 +1641,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
 
             {/* Short Description */}
             <div className="mb-8">
-              <p className="text-[16px] text-gray-700 font-semibold leading-relaxed">
+              <p className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap">
                 {tour.shortDescription || tour.fullDescription}
               </p>
             </div>
@@ -1647,9 +1652,9 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                 <h2 className="text-2xl font-black text-[#001A33] mb-4">Highlights</h2>
                 <ul className="space-y-2">
                   {tour.highlights.map((highlight: string, index: number) => (
-                    <li key={index} className="flex items-start gap-3">
-                      <div className="w-2 h-2 bg-[#10B981] rounded-full mt-2 shrink-0"></div>
-                      <span className="text-[16px] text-gray-700 font-semibold leading-relaxed">{highlight}</span>
+                    <li key={index} className="flex items-start gap-3 border-b border-gray-100 pb-3 last:border-0 last:pb-0">
+                      <div className="w-2 h-2 bg-[#10B981] rounded-full mt-2.5 shrink-0"></div>
+                      <span className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap w-full">{highlight}</span>
                     </li>
                   ))}
                 </ul>
@@ -1727,9 +1732,9 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           >
                             <div className="flex flex-col md:flex-row items-start justify-between gap-4 md:gap-6">
                               {/* Left: Option Details */}
-                              <div className="flex-1 w-full md:w-auto">
-                                <h3 className="font-black text-[#001A33] text-[18px] mb-2">{option.optionTitle}</h3>
-                                <div className="text-[14px] text-gray-600 font-semibold mb-4 leading-relaxed">
+                              <div className="flex-1 w-full md:w-auto min-w-0">
+                                <h3 className="font-black text-[#001A33] text-[18px] mb-2 break-all whitespace-pre-wrap">{option.optionTitle}</h3>
+                                <div className="text-[14px] text-gray-600 font-semibold mb-4 leading-relaxed break-all whitespace-pre-wrap">
                                   {option.optionDescription && (
                                     <>
                                       {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 150 ? (
@@ -1841,10 +1846,130 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
             {/* Full Description */}
             <div className="mb-8">
               <h2 className="text-2xl font-black text-[#001A33] mb-4">Full description</h2>
-              <p className="text-[16px] text-gray-700 font-semibold leading-relaxed whitespace-pre-line">
-                {tour.fullDescription}
-              </p>
+              <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+                <p className="text-[16px] text-gray-700 font-semibold leading-[1.8] whitespace-pre-wrap break-words">
+                  {tour.fullDescription}
+                </p>
+              </div>
             </div>
+
+            {/* Visual Itinerary Timeline */}
+            {tour.itineraryItems && Array.isArray(tour.itineraryItems) && tour.itineraryItems.length > 0 && (
+              <div className="mb-8">
+                <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour Itinerary</h2>
+                <div className="bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl p-4 mb-6">
+                  <div className="flex items-center gap-2 mb-1">
+                    <CheckCircle2 size={16} className="text-[#10B981]" />
+                    <span className="text-[14px] font-bold text-[#10B981]">Itineraries are customisable as per your request</span>
+                  </div>
+                  <p className="text-[13px] text-gray-500 font-semibold ml-6">The schedule below is a suggested plan and can be adjusted to suit your preferences.</p>
+                </div>
+                <div className="relative">
+                  <div className="space-y-0">
+                    {tour.itineraryItems.map((item: any, index: number) => {
+                      const isLast = index === tour.itineraryItems.length - 1;
+
+                      // Format time for display
+                      const formatTime = (time: string) => {
+                        if (!time) return '';
+                        if (time.includes('AM') || time.includes('PM')) return time;
+                        const [h, m] = time.split(':');
+                        const hour = parseInt(h, 10);
+                        const ampm = hour >= 12 ? 'PM' : 'AM';
+                        const displayHour = hour % 12 || 12;
+                        return `${displayHour}:${m} ${ampm}`;
+                      };
+
+                      // Type-specific styling and icons
+                      const getTypeConfig = (type: string) => {
+                        const isOptional = type === 'optional';
+                        const iconColor = isOptional ? '#6B7280' : 'white';
+                        const bgClass = isOptional ? 'bg-white' : 'bg-[#10B981]';
+                        const borderClass = isOptional ? 'border-gray-300' : 'border-[#10B981]';
+
+                        const configs: Record<string, { bg: string; border: string; icon: React.ReactNode }> = {
+                          pickup: { bg: bgClass, border: borderClass, icon: <MapPin size={14} color={iconColor} strokeWidth={2.5} /> },
+                          transport: { bg: bgClass, border: borderClass, icon: <Bus size={14} color={iconColor} strokeWidth={2.5} /> },
+                          visit: { bg: bgClass, border: borderClass, icon: <Landmark size={14} color={iconColor} strokeWidth={2.5} /> },
+                          meal: { bg: bgClass, border: borderClass, icon: <Utensils size={14} color={iconColor} strokeWidth={2.5} /> },
+                          activity: { bg: bgClass, border: borderClass, icon: <Activity size={14} color={iconColor} strokeWidth={2.5} /> },
+                          optional: { bg: bgClass, border: borderClass, icon: <Map size={14} color={iconColor} strokeWidth={2.5} /> },
+                          return: { bg: bgClass, border: borderClass, icon: <Home size={14} color={iconColor} strokeWidth={2.5} /> }
+                        };
+                        return configs[type] || configs.visit;
+                      };
+
+                      const config = getTypeConfig(item.type);
+                      const isTransport = item.type === 'transport';
+                      const isOptional = item.optional || item.type === 'optional';
+
+                      return (
+                        <div key={index} className={`relative pl-12 py-3 ${isOptional ? 'opacity-80' : ''}`}>
+                          {/* Segmented connecting line to next item (stops at last item) */}
+                          {!isLast && (
+                            <div className="absolute left-[19px] top-6 bottom-[-1.5rem] w-[4px] bg-[#10B981]/50 rounded-full z-0" />
+                          )}
+
+                          {/* Icon on timeline */}
+                          <div className={`absolute left-[6px] top-5 w-[30px] h-[30px] rounded-full ${config.bg} ${config.border} border-[3px] flex items-center justify-center z-10 shadow-md`}>
+                            {config.icon}
+                          </div>
+
+                          <div className={`${isTransport ? 'bg-gray-50 border border-dashed border-gray-200' : 'bg-white border border-gray-100 shadow-sm hover:shadow-md'} rounded-xl p-4 transition-all`}>
+                            <div className="flex items-start justify-between gap-4">
+                              <div className="flex-1 min-w-0">
+                                <div className="flex items-center gap-3 mb-1.5">
+                                  <span className="text-[13px] font-black text-[#10B981] tracking-wide">
+                                    {formatTime(item.time)}
+                                  </span>
+                                  {item.duration && (
+                                    <span className="text-[11px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
+                                      {item.duration}
+                                    </span>
+                                  )}
+                                  {isOptional && (
+                                    <span className="text-[10px] font-bold text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full uppercase tracking-wider border border-amber-200">
+                                      Optional
+                                    </span>
+                                  )}
+                                </div>
+                                <h3 className={`text-[16px] font-black ${isTransport ? 'text-gray-500' : 'text-[#001A33]'} mb-1`}>
+                                  {item.title}
+                                </h3>
+                                {item.description && (
+                                  <p className={`text-[14px] font-semibold ${isTransport ? 'text-gray-400' : 'text-gray-600'} leading-relaxed`}>
+                                    {item.description}
+                                  </p>
+                                )}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* Detailed Itinerary Description */}
+            {tour.detailedItinerary && (
+              <div className="mb-8">
+                <h2 className="text-2xl font-black text-[#001A33] mb-4">Detailed Itinerary</h2>
+                <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+                  {tour.detailedItinerary.split('\n').map((line: string, index: number) => {
+                    const trimmed = line.trim();
+                    if (trimmed.startsWith('## ')) {
+                      return <h2 key={index} className="text-xl font-black text-[#001A33] mt-6 mb-3 first:mt-0">{trimmed.replace(/^##\s*/, '')}</h2>;
+                    }
+                    if (trimmed === '') {
+                      return <div key={index} className="h-2" />;
+                    }
+                    return <p key={index} className="text-[15px] text-gray-700 font-semibold leading-[1.8] break-words whitespace-pre-wrap">{trimmed}</p>;
+                  })}
+                </div>
+              </div>
+            )}
 
             {/* Includes Section */}
             {tour.included && (
@@ -3111,18 +3236,18 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                 </div>
               </div>
 
-              {/* Guide Contact Information */}
+              {/* Supplier Contact Information */}
               <div className="bg-[#10B981]/5 rounded-2xl p-6 mb-6 border-2 border-[#10B981]/20">
                 <h4 className="font-black text-[#001A33] text-[18px] mb-4 flex items-center gap-2">
                   <User className="text-[#10B981]" size={20} />
-                  Contact Your Guide
+                  Contact Your Supplier
                 </h4>
                 <p className="text-[12px] text-gray-500 font-semibold mb-4">
-                  Contact information from guide's profile
+                  Contact information from supplier's profile
                 </p>
                 <div className="space-y-4">
                   <div>
-                    <div className="text-[12px] text-gray-500 font-bold uppercase mb-2">Guide Name</div>
+                    <div className="text-[12px] text-gray-500 font-bold uppercase mb-2">Supplier Name</div>
                     <div className="text-[16px] font-black text-[#001A33]">{guideContactInfo.guideName}</div>
                   </div>
 
@@ -3167,7 +3292,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                         <div>
                           <p className="text-[14px] font-black text-[#001A33] mb-1">Contact Information Not Available</p>
                           <p className="text-[12px] text-gray-600 font-semibold">
-                            The guide hasn't added their phone or WhatsApp number to their profile yet. Please contact them via email.
+                            The supplier hasn't added their phone or WhatsApp number to their profile yet. Please contact them via email.
                           </p>
                         </div>
                       </div>
@@ -3198,7 +3323,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                   <div>
                     <div className="font-black text-[#001A33] text-[14px] mb-1">Booking Confirmed!</div>
                     <div className="text-[12px] text-gray-700 font-semibold">
-                      Your payment has been received. Contact your guide via WhatsApp or phone to arrange meeting details and finalize your tour arrangements.
+                      Your payment has been received. Contact your supplier via WhatsApp or phone to arrange meeting details and finalize your tour arrangements.
                     </div>
                   </div>
                 </div>
