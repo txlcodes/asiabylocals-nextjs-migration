@@ -629,7 +629,7 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
       },
       {
         title: 'Agra: Taj Mahal & Agra Fort Private Tour with Female Guide',
-        image: '/things-to-do/agra-taj-mahal-garden.jpg',
+        image: '/things-to-do/agra-female-guide-tour.jpg',
         shortDescription: 'Experience the Taj Mahal and Agra Fort with a licensed local female guide. Perfect for families and solo female travelers seeking a unique perspective on India\'s history and culture.',
         fullDescription: 'Discover the iconic Taj Mahal and the majestic Agra Fort through the eyes of a professional female guide. This private tour is specially designed to provide a safe, comfortable, and deeply insightful experience. Your guide will share fascinating stories about the Mughal Empire, focusing on the influential roles of women in that era, while ensuring you see the best of Agra\'s heritage sites. The tour includes skip-the-line entry, personalized storytelling, and a flexible itinerary that can be tailored to your interests, including visits to local handicraft workshops or the beautiful Mehtab Bagh garden.',
         seoKeywords: ['female guide Agra', 'solo female travel India', 'Taj Mahal private tour', 'Agra local expert', 'licensed female guide']
