@@ -560,6 +560,30 @@ const CITY_DESCRIPTIONS: Record<string, {
       {
         question: 'Is Phuket Old Town worth visiting?',
         answer: 'Absolutely. It offers a fascinating look at the island\'s tin-mining history through beautiful Sino-Portuguese architecture, street art, and legendary local cafes.'
+      },
+      {
+        question: 'How do I get around Phuket for tours?',
+        answer: 'Most of our tours include door-to-door hotel transfers in air-conditioned vans. For independent travel, you can use Grab, local buses (Songthaews), or rent a scooter if you are an experienced rider with a valid international permit.'
+      },
+      {
+        question: 'What is the best way to see the Big Buddha?',
+        answer: 'The Big Buddha is best visited in the early morning to avoid the heat and crowds. A private half-day tour that combines it with Wat Chalong is the most efficient way to see both landmarks comfortably.'
+      },
+      {
+        question: 'Are the elephant tours ethical?',
+        answer: 'Yes, at AsiaByLocals, we only partner with reputable sanctuaries that follow strict ethical guidelines: no riding, no performances, and a focus on animal welfare and education.'
+      },
+      {
+        question: 'What should I pack for a boat tour?',
+        answer: 'Pack sunscreen, a hat, sunglasses, swimwear, a change of clothes, and a waterproof bag for your phone and camera. Most boat tours provide snorkeling gear, life jackets, and towels.'
+      },
+      {
+        question: 'Is Phuket safe for solo female travelers?',
+        answer: 'Absolutely. Phuket is a very safe destination for solo female travelers. Our private tours with vetted local guides provide an extra layer of comfort and security.'
+      },
+      {
+        question: 'Can I customize my Phuket tour?',
+        answer: 'Yes! All our private tours are fully customizable. Whether you want to spend more time at a specific beach or add a stop at a local cafe, our guides are happy to tailor the itinerary.'
       }
     ]
   }
@@ -880,6 +904,43 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
         shortDescription: 'Start your beach holiday without stress. Pre-book a private transfer from Dabolim (GOI) or Mopa (GOX) Airport to your hotel in North or South Goa.',
         fullDescription: 'Start your beach holiday without stress. Pre-book a private transfer from Dabolim (GOI) or Mopa (GOX) Airport to your hotel in North or South Goa. Whether you\'re staying in Calangute, Baga, Panjim, or Palolem, we provide reliable transport. Your driver will meet you with a name sign, assist with bags, and drive you safely in a well-maintained AC car. No need to haggle with taxi drivers or wait in long queues. We offer 24/7 service to suit any flight time, ensuring you reach your resort comfortably and quickly.',
         seoKeywords: ['Goa airport transfer', 'private taxi Goa', 'Dabolim airport', 'Mopa airport', 'hotel transfer']
+      }
+    ],
+    'Phuket': [
+      {
+        title: 'Phuket: Phi Phi Islands, Maya Bay & Khai Islands Speedboat Tour',
+        image: '/things-to-do/phuket-phi-phi.jpg',
+        shortDescription: 'Explore the world-famous Phi Phi Islands, swim in the turquoise waters of Maya Bay, and relax on the white sands of Khai Island on a full-day speedboat adventure.',
+        fullDescription: 'Discover the stunning beauty of the Phi Phi Islands on a full-day speedboat tour from Phuket. Visit Maya Bay, made famous by the movie "The Beach," and swim in the emerald waters of Loh Samah Bay. Explore Viking Cave and see the playful monkeys at Monkey Beach. Enjoy a delicious buffet lunch on Phi Phi Don and spend the afternoon snorkeling among colorful coral reefs and tropical fish at Khai Island. This tour offers the perfect blend of relaxation, adventure, and breathtaking scenery.',
+        seoKeywords: ['Phi Phi Islands', 'Maya Bay', 'speedboat tour', 'snorkeling Phuket', 'Khai Island']
+      },
+      {
+        title: 'Phuket: Phang Nga Bay & James Bond Island Canoe Tour',
+        image: '/things-to-do/phuket-james-bond.jpg',
+        shortDescription: 'Journey through the spectacular limestone karts of Phang Nga Bay, visit the iconic James Bond Island, and explore hidden sea caves by canoe.',
+        fullDescription: 'Experience the magical landscape of Phang Nga Bay on a full-day tour from Phuket. Visit Khao Phing Kan, popularly known as James Bond Island for its role in "The Man with the Golden Gun." Navigate through the emerald waters in a sturdy canoe, exploring hidden sea caves and mangroves at Hong Island. Visit the unique floating village of Koh Panyee, built entirely on stilts. Enjoy a traditional Thai lunch and relax on a secluded beach. This tour showcases the unique geology and culture of one of Thailand\'s most beautiful national parks.',
+        seoKeywords: ['James Bond Island', 'Phang Nga Bay', 'canoe tour', 'Koh Panyee', 'limestone karsts']
+      },
+      {
+        title: 'Phuket: Old Town Heritage Walk & Street Food Discovery',
+        image: '/things-to-do/phuket-old-town.jpg',
+        shortDescription: 'Step back in time with a walk through Phuket Old Town\'s colorful Sino-Portuguese streets. Discover hidden temples, local markets, and sample authentic Phuket street food.',
+        fullDescription: 'Immerse yourself in the rich history and vibrant culture of Phuket Old Town. Stroll past beautifully preserved Sino-Portuguese mansions, colorful shophouses, and intricate murals while learning about the island\'s tin-mining heritage. Visit hidden Chinese temples and the bustling local market. Your expert guide will lead you to the best street food stalls to sample authentic Phuket dishes like Hokkien mee, Moo Hong, and traditional Thai desserts. This tour is a feast for the senses and a deep dive into the island\'s unique cultural tapestry.',
+        seoKeywords: ['Phuket Old Town', 'heritage walk', 'street food', 'Sino-Portuguese architecture', 'cultural tour']
+      },
+      {
+        title: 'Phuket: Big Buddha & Wat Chalong Private Half-Day Tour',
+        image: '/things-to-do/phuket-big-buddha.jpg',
+        shortDescription: 'Visit Phuket\'s most iconic spiritual landmarks: the majestic 45-meter tall Big Buddha and the stunning Wat Chalong, the island\'s largest and most important temple.',
+        fullDescription: 'Discover the spiritual heart of Phuket on a private half-day tour. Ascend the Nakkerd Hills to visit the Big Buddha, a massive white marble statue that offers breathtaking 360-degree views of the island and the Andaman Sea. Then, visit Wat Chalong, the island\'s most revered temple, known for its beautiful architecture and many golden statues of Buddhist monks. Explore the Grand Pagoda, which is said to house a fragment of Lord Buddha\'s bone. This tour provides a peaceful and insightful look at Thai Buddhism and the island\'s religious traditions.',
+        seoKeywords: ['Big Buddha Phuket', 'Wat Chalong', 'spiritual landmarks', 'panoramic views', 'religious heritage']
+      },
+      {
+        title: 'Phuket: Elephant Jungle Sanctuary Ethical Experience',
+        image: '/things-to-do/phuket-elephant.jpg',
+        shortDescription: 'Spend a meaningful day with rescued elephants in a natural jungle environment. Learn about elephant conservation, feed them, and enjoy a mud spa with these gentle giants.',
+        fullDescription: 'Visit the Elephant Jungle Sanctuary Phuket for an ethical and educational experience with rescued elephants. Learn about the history and behavior of these majestic creatures and the importance of conservation efforts in Thailand. Spend time interacting with the elephants in a respectful way—feed them their favorite snacks, walk with them through the jungle, and join them for a traditional mud spa and a refreshing bath in a natural pond. This "no-riding" sanctuary ensures the welfare and happiness of the elephants while providing visitors with an unforgettable connection to nature.',
+        seoKeywords: ['ethical elephant sanctuary', 'elephant conservation', 'Phuket wildlife', 'nature experience', 'no-riding sanctuary']
       }
     ]
   };
