@@ -7777,63 +7777,7 @@ app.post('/api/bookings', async (req, res) => {
     // Generate booking reference number
     const bookingReference = `ABL-${booking.id.toString().padStart(6, '0')}-${new Date().getFullYear()}`;
 
-    // Send email notification to supplier
-    if (supplier && supplier.email) {
-      try {
-        await sendBookingNotificationEmail(
-          supplier.email,
-          supplier.fullName || supplier.companyName || 'Guide',
-          {
-            bookingReference,
-            tourTitle: tourDetails?.title || 'Tour',
-            customerName: customerName,
-            customerEmail: customerEmail,
-            customerPhone: customerPhone || null,
-            bookingDate: bookingDate,
-            numberOfGuests: parseInt(numberOfGuests),
-            totalAmount: parseFloat(totalAmount),
-            currency: currency || 'INR',
-            specialRequests: specialRequests || null
-          }
-        );
-        console.log(`✅ Booking notification email sent to supplier: ${supplier.email}`);
-      } catch (emailError) {
-        console.error(`❌ Failed to send booking notification email:`, emailError);
-        // Don't fail booking creation if email fails
-      }
-    }
-
-    // Send booking confirmation email to customer with invoice
-    try {
-      await sendBookingConfirmationEmail(
-        customerEmail,
-        customerName,
-        {
-          bookingReference,
-          bookingId: booking.id,
-          tourTitle: tourDetails?.title || 'Tour',
-          tourSlug: tourDetails?.slug,
-          city: tourDetails?.city,
-          country: tourDetails?.country,
-          bookingDate: bookingDate,
-          numberOfGuests: parseInt(numberOfGuests),
-          totalAmount: parseFloat(totalAmount),
-          currency: currency || 'INR',
-          specialRequests: specialRequests || null,
-          supplierName: supplier?.fullName || supplier?.companyName || 'Your Supplier',
-          supplierEmail: supplier.email,
-          supplierPhone: supplier.phone || null,
-          supplierWhatsApp: supplier.whatsapp || null,
-          paymentStatus: 'Pending'
-        }
-      );
-      console.log(`✅ Booking confirmation email sent to customer: ${customerEmail}`);
-    } catch (emailError) {
-      console.error(`❌ Failed to send booking confirmation email:`, emailError);
-      // Don't fail booking creation if email fails
-    }
-
-    // Generate WhatsApp link for guide (if WhatsApp number exists)
+    // WhatsApp link generation remains for the response
     let whatsappLink = null;
     if (supplier?.whatsapp) {
       const whatsappMessage = encodeURIComponent(
