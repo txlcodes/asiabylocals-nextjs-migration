@@ -1830,6 +1830,11 @@ ${a(9)}`;
               <div className="space-y-4">
                 <div className="grid grid-cols-2 gap-4">
                   <div>
+                    <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mb-3">
+                      <p className="text-[11px] font-black text-amber-800 leading-tight">
+                        💡 PRO TIP: Set this to at least 10. Large group bookings (10+) are very common and will significantly increase your earnings!
+                      </p>
+                    </div>
                     <label className="block text-[14px] font-bold text-[#001A33] mb-3">
                       Maximum Group Size *
                     </label>
@@ -1844,13 +1849,8 @@ ${a(9)}`;
                       min="1"
                       className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
                     />
-                    <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mt-2">
-                      <p className="text-[11px] font-bold text-amber-800 leading-tight">
-                        💡 Recommended: Set at least 10. This significantly increases your chances of getting larger group bookings.
-                      </p>
-                    </div>
-                    <p className="text-[11px] text-gray-400 mt-2">
-                      Maximum number of people you can guide in a day
+                    <p className="text-[11px] text-gray-400 mt-2 font-semibold">
+                      Maximum number of people you can guide in one group
                     </p>
                   </div>
                   <div>
@@ -2831,6 +2831,11 @@ ${a(9)}`;
                       <div className="bg-green-50 p-4 rounded-xl border border-green-200 space-y-4">
                         <div className="grid grid-cols-2 gap-4">
                           <div>
+                            <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mb-2">
+                              <p className="text-[11px] font-black text-amber-800 leading-tight">
+                                💡 PRO TIP: Set this to at least 10 to increase your chances of large bookings!
+                              </p>
+                            </div>
                             <label className="block text-[14px] font-bold text-[#001A33] mb-2">
                               Maximum Group Size *
                             </label>
@@ -2850,13 +2855,8 @@ ${a(9)}`;
                               min="1"
                               className="w-full bg-white border-none rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
                             />
-                            <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mt-2">
-                              <p className="text-[11px] font-bold text-amber-800 leading-tight">
-                                💡 Recommended: Set at least 10. This significantly increases your chances of getting larger group bookings.
-                              </p>
-                            </div>
-                            <p className="text-[11px] text-gray-400 mt-2">
-                              Maximum number of people you can guide in a day
+                            <p className="text-[11px] text-gray-400 mt-2 font-semibold">
+                              Maximum number of people you can guide in one group
                             </p>
                           </div>
                           <div>
