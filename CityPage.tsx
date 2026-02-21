@@ -1036,7 +1036,6 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   // Pool of high-quality itinerary hero images for the waitlist box
   const itineraryImages = [
@@ -1047,15 +1046,9 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
     '/jaipur-itinerary-hero.jpg'
   ];
 
-  // Rotate images every 5 seconds for a dynamic feel
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentImageIndex((prev) => (prev + 1) % itineraryImages.length);
-    }, 5000);
-    return () => clearInterval(interval);
-  }, [itineraryImages.length]);
-
-  const imageSrc = itineraryImages[currentImageIndex];
+  // Select an image based on the city name to ensures it's different per page but stable for each city
+  const imageIndex = city.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) % itineraryImages.length;
+  const imageSrc = itineraryImages[imageIndex];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -1114,18 +1107,14 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
           {/* Image Section */}
           <div className="md:col-span-2 relative h-52 md:h-56 overflow-hidden bg-gray-100">
-            {itineraryImages.map((src, index) => (
-              <img
-                key={src}
-                src={src}
-                alt={`${city} travel experience`}
-                className={`absolute inset-0 w-full h-full object-cover object-center transition-opacity duration-1000 ease-in-out ${index === currentImageIndex ? 'opacity-100 z-10' : 'opacity-0 z-0'
-                  }`}
-                onError={(e) => {
-                  (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=800';
-                }}
-              />
-            ))}
+            <img
+              src={imageSrc}
+              alt={`${city} travel experience`}
+              className="w-full h-full object-cover object-center"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=800';
+              }}
+            />
           </div>
 
           {/* Form Section */}
