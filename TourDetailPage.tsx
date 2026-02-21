@@ -54,7 +54,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
   const [selectedDate, setSelectedDate] = useState<string>('');
   const [participants, setParticipants] = useState(1);
   const [isCustomParticipants, setIsCustomParticipants] = useState(false);
-  const [customParticipants, setCustomParticipants] = useState(9);
+  const [customParticipants, setCustomParticipants] = useState(11);
   const [selectedLanguage, setSelectedLanguage] = useState('English');
   const [selectedOption, setSelectedOption] = useState<any>(null);
   const [showImageModal, setShowImageModal] = useState(false);
@@ -1088,7 +1088,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
               setSelectedDate(draft.selectedDate);
             }
             if (draft.participants) {
-              if (draft.participants > 8) {
+              if (draft.participants > 10) {
                 setIsCustomParticipants(true);
                 setCustomParticipants(draft.participants);
                 setParticipants(draft.participants);
@@ -2451,7 +2451,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                     }}
                     className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
                   >
-                    {[1, 2, 3, 4, 5, 6, 7, 8].map(num => (
+                    {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => (
                       <option key={num} value={num}>Adult x {num}</option>
                     ))}
                     <option value="custom">Custom</option>
@@ -2464,11 +2464,11 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                   <div className="relative">
                     <input
                       type="number"
-                      min="9"
+                      min="11"
                       max="100"
                       value={customParticipants}
                       onChange={(e) => {
-                        const value = parseInt(e.target.value) || 9;
+                        const value = parseInt(e.target.value) || 11;
                         setCustomParticipants(value);
                         setParticipants(value);
                       }}

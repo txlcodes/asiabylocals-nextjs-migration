@@ -1844,7 +1844,12 @@ ${a(9)}`;
                       min="1"
                       className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
                     />
-                    <p className="text-[11px] text-gray-400 mt-1">
+                    <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mt-2">
+                      <p className="text-[11px] font-bold text-amber-800 leading-tight">
+                        💡 Recommended: Set at least 10. This significantly increases your chances of getting larger group bookings.
+                      </p>
+                    </div>
+                    <p className="text-[11px] text-gray-400 mt-2">
                       Maximum number of people you can guide in a day
                     </p>
                   </div>
@@ -2845,7 +2850,12 @@ ${a(9)}`;
                               min="1"
                               className="w-full bg-white border-none rounded-xl py-3 px-4 font-semibold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
                             />
-                            <p className="text-[11px] text-gray-400 mt-1">
+                            <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mt-2">
+                              <p className="text-[11px] font-bold text-amber-800 leading-tight">
+                                💡 Recommended: Set at least 10. This significantly increases your chances of getting larger group bookings.
+                              </p>
+                            </div>
+                            <p className="text-[11px] text-gray-400 mt-2">
                               Maximum number of people you can guide in a day
                             </p>
                           </div>
