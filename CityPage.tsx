@@ -1036,18 +1036,26 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
-  // Pool of itinerary hero images from Agra, Delhi, and Jaipur to be used across all cities
+  // Pool of high-quality itinerary hero images for the waitlist box
   const itineraryImages = [
+    '/itinerary-heroes/hero-1.jpg',
+    '/itinerary-heroes/hero-2.jpg',
+    '/itinerary-heroes/hero-3.jpg',
     '/agra-itinerary-hero.jpg',
-    '/delhi-itinerary-hero.jpg',
     '/jaipur-itinerary-hero.jpg'
   ];
 
-  // Select an image based on the city name to ensure it stays consistent for the same city
-  // but varies across different cities (pseudo-random distribution)
-  const imageIndex = city.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) % itineraryImages.length;
-  const imageSrc = itineraryImages[imageIndex];
+  // Rotate images every 5 seconds for a dynamic feel
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentImageIndex((prev) => (prev + 1) % itineraryImages.length);
+    }, 5000);
+    return () => clearInterval(interval);
+  }, [itineraryImages.length]);
+
+  const imageSrc = itineraryImages[currentImageIndex];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -1105,20 +1113,23 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
       <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
           {/* Image Section */}
-          <div className="md:col-span-2 relative h-52 md:h-56 overflow-hidden">
-            <img
-              src={imageSrc}
-              alt={`${city} travel experience`}
-              className="w-full h-full object-cover object-center"
-              onError={(e) => {
-                // Fallback to a placeholder if image doesn't exist
-                (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=800';
-              }}
-            />
+          <div className="md:col-span-2 relative h-52 md:h-56 overflow-hidden bg-gray-100">
+            {itineraryImages.map((src, index) => (
+              <img
+                key={src}
+                src={src}
+                alt={`${city} travel experience`}
+                className={`absolute inset-0 w-full h-full object-cover object-center transition-opacity duration-1000 ease-in-out ${index === currentImageIndex ? 'opacity-100 z-10' : 'opacity-0 z-0'
+                  }`}
+                onError={(e) => {
+                  (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=800';
+                }}
+              />
+            ))}
           </div>
 
           {/* Form Section */}
-          <div className="md:col-span-1 bg-[#10B981]/10 p-4 md:p-5 flex flex-col justify-center">
+          <div className="md:col-span-1 bg-[#10B981]/10 p-4 md:p-5 flex flex-col justify-center relative z-20">
             <h2 className="text-xl md:text-2xl font-black text-[#001A33] mb-2">
               Your {city} itinerary is waiting
             </h2>
