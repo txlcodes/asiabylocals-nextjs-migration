@@ -2684,7 +2684,7 @@ ${a(9)}`;
                       pricingType: 'per_group' as const, // Always per group
                       maxGroupSize: formData.maxGroupSize || undefined,
                       groupPrice: '',
-                      groupPricingTiers: formData.groupPricingTiers ? [...formData.groupPricingTiers] : [] // Copy main tour pricing by default
+                      groupPricingTiers: [] // Will be filled when supplier enters prices
                     };
                     setFormData(prev => ({
                       ...prev,
@@ -2981,7 +2981,26 @@ ${a(9)}`;
                         )}
                       </div>
 
-                      <div className="grid grid-cols-1 gap-4">
+                      <div className="grid grid-cols-2 gap-4">
+                        <div>
+                          <label className="block text-[14px] font-bold text-[#001A33] mb-2">
+                            Currency *
+                          </label>
+                          <select
+                            value={option.currency}
+                            onChange={(e) => {
+                              const newOptions = [...formData.tourOptions];
+                              newOptions[index].currency = e.target.value;
+                              setFormData(prev => ({ ...prev, tourOptions: newOptions }));
+                            }}
+                            className="w-full bg-gray-50 border-none rounded-xl py-3 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                          >
+                            <option value="USD">USD ($)</option>
+                            <option value="THB">THB (฿)</option>
+                            <option value="INR">INR (₹)</option>
+                            <option value="EUR">EUR (€)</option>
+                          </select>
+                        </div>
                         <div>
                           <label className="block text-[14px] font-bold text-[#001A33] mb-2">
                             Language *
@@ -3084,7 +3103,7 @@ ${a(9)}`;
                       pricingType: 'per_group' as const, // Always per group
                       maxGroupSize: formData.maxGroupSize || undefined,
                       groupPrice: '',
-                      groupPricingTiers: formData.groupPricingTiers ? [...formData.groupPricingTiers] : [] // Copy main tour pricing by default
+                      groupPricingTiers: [] // Will be filled when supplier enters prices
                     };
                     setFormData(prev => ({
                       ...prev,
