@@ -494,13 +494,14 @@ const AdminDashboard: React.FC = () => {
 
   const handleApproveSupplier = async (supplierId: string) => {
     if (!supplierId) {
-      alert('Error: Supplier ID is missing. Please select a supplier again.');
+      showNotification('Error: Supplier ID is missing. Please select a supplier again.', 'error');
       return;
     }
 
-    if (!confirm('Are you sure you want to approve this supplier? They will be able to create tours.')) {
-      return;
-    }
+    // Confirm dialog removed
+    // if (!confirm('Are you sure you want to approve this supplier? They will be able to create tours.')) {
+    //   return;
+    // }
 
     setIsProcessing(true);
     try {
@@ -516,7 +517,7 @@ const AdminDashboard: React.FC = () => {
       console.log('Approve supplier response:', data);
 
       if (data.success) {
-        alert('Supplier approved successfully! They can now create tours.');
+        showNotification('Supplier approved successfully! They can now create tours.', 'success');
         // Refresh both lists
         if (supplierFilter === 'pending') {
           fetchPendingSuppliers();
@@ -527,11 +528,11 @@ const AdminDashboard: React.FC = () => {
         }
         setSelectedSupplier(null);
       } else {
-        alert(data.message || data.error || 'Failed to approve supplier');
+        showNotification(data.message || data.error || 'Failed to approve supplier', 'error');
       }
     } catch (error: any) {
       console.error('Error approving supplier:', error);
-      alert(`Failed to approve supplier: ${error.message || 'Please try again.'}`);
+      showNotification(`Failed to approve supplier: ${error.message || 'Please try again.'}`, 'error');
     } finally {
       setIsProcessing(false);
     }
@@ -539,18 +540,19 @@ const AdminDashboard: React.FC = () => {
 
   const handleRejectSupplier = async (supplierId: string) => {
     if (!supplierId) {
-      alert('Error: Supplier ID is missing. Please select a supplier again.');
+      showNotification('Error: Supplier ID is missing. Please select a supplier again.', 'error');
       return;
     }
 
     if (!rejectionReason.trim()) {
-      alert('Please provide a reason for rejection');
+      showNotification('Please provide a reason for rejection', 'error');
       return;
     }
 
-    if (!confirm('Are you sure you want to reject this supplier?')) {
-      return;
-    }
+    // Confirm dialog removed
+    // if (!confirm('Are you sure you want to reject this supplier?')) {
+    //   return;
+    // }
 
     setIsProcessing(true);
     try {
@@ -567,7 +569,7 @@ const AdminDashboard: React.FC = () => {
       console.log('Reject supplier response:', data);
 
       if (data.success) {
-        alert('Supplier rejected successfully.');
+        showNotification('Supplier rejected successfully.', 'success');
         // Refresh the appropriate list based on current filter
         if (supplierFilter === 'pending') {
           fetchPendingSuppliers();
@@ -579,11 +581,11 @@ const AdminDashboard: React.FC = () => {
         setSelectedSupplier(null);
         setRejectionReason('');
       } else {
-        alert(data.message || data.error || 'Failed to reject supplier');
+        showNotification(data.message || data.error || 'Failed to reject supplier', 'error');
       }
     } catch (error: any) {
       console.error('Error rejecting supplier:', error);
-      alert(`Failed to reject supplier: ${error.message || 'Please try again.'}`);
+      showNotification(`Failed to reject supplier: ${error.message || 'Please try again.'}`, 'error');
     } finally {
       setIsProcessing(false);
     }
@@ -591,18 +593,19 @@ const AdminDashboard: React.FC = () => {
 
   const handleReject = async (tourId: string) => {
     if (!tourId) {
-      alert('Error: Tour ID is missing. Please select a tour again.');
+      showNotification('Error: Tour ID is missing. Please select a tour again.', 'error');
       return;
     }
 
     if (!rejectionReason.trim()) {
-      alert('Please provide a reason for rejection');
+      showNotification('Please provide a reason for rejection', 'error');
       return;
     }
 
-    if (!confirm('Are you sure you want to reject this tour?')) {
-      return;
-    }
+    // Confirm dialog removed due to instant-close issue
+    // if (!confirm('Are you sure you want to reject this tour?')) {
+    //   return;
+    // }
 
     setIsProcessing(true);
     try {
@@ -619,16 +622,16 @@ const AdminDashboard: React.FC = () => {
       console.log('Reject tour response:', data);
 
       if (data.success) {
-        alert('Tour rejected successfully. The guide will be notified.');
+        showNotification('Tour rejected successfully. The guide will be notified.', 'success');
         fetchPendingTours(); // Refresh list
         setSelectedTour(null);
         setRejectionReason('');
       } else {
-        alert(data.message || data.error || 'Failed to reject tour');
+        showNotification(data.message || data.error || 'Failed to reject tour', 'error');
       }
     } catch (error: any) {
       console.error('Error rejecting tour:', error);
-      alert(`Failed to reject tour: ${error.message || 'Please try again.'}`);
+      showNotification(`Failed to reject tour: ${error.message || 'Please try again.'}`, 'error');
     } finally {
       setIsProcessing(false);
     }
@@ -636,13 +639,14 @@ const AdminDashboard: React.FC = () => {
 
   const handleDeleteTour = async (tourId: string) => {
     if (!tourId) {
-      alert('Error: Tour ID is missing. Please select a tour again.');
+      showNotification('Error: Tour ID is missing. Please select a tour again.', 'error');
       return;
     }
 
-    if (!confirm('⚠️ WARNING: This will permanently delete this tour. This action cannot be undone!\n\nAre you sure you want to delete this tour?')) {
-      return;
-    }
+    // Confirm dialog removed due to instant-close issue
+    // if (!confirm('⚠️ WARNING: This will permanently delete this tour. This action cannot be undone!\n\nAre you sure you want to delete this tour?')) {
+    //   return;
+    // }
 
     setIsProcessing(true);
     try {
@@ -658,15 +662,15 @@ const AdminDashboard: React.FC = () => {
       console.log('Delete tour response:', data);
 
       if (data.success) {
-        alert('Tour deleted successfully.');
+        showNotification('Tour deleted successfully.', 'success');
         fetchPendingTours(); // Refresh list
         setSelectedTour(null);
       } else {
-        alert(data.message || data.error || 'Failed to delete tour');
+        showNotification(data.message || data.error || 'Failed to delete tour', 'error');
       }
     } catch (error: any) {
       console.error('Error deleting tour:', error);
-      alert(`Failed to delete tour: ${error.message || 'Please try again.'}`);
+      showNotification(`Failed to delete tour: ${error.message || 'Please try again.'}`, 'error');
     } finally {
       setIsProcessing(false);
     }
