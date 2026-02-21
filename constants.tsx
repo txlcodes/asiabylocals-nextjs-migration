@@ -5,6 +5,7 @@ export const CITIES: Country[] = [
   { id: 'agra', name: 'Agra', image: '/agra-hero.jpg', localAngle: 'Mughal Heritage', guidesCount: 112 },
   { id: 'delhi', name: 'Delhi', image: '/cities-images/delhi.jpg', localAngle: 'Historic Capital', guidesCount: 245 },
   { id: 'jaipur', name: 'Jaipur', image: '/jaipur-hero.jpg', localAngle: 'Pink City', guidesCount: 189 },
+  { id: 'phuket', name: 'Phuket', image: '/things-to-do/phuket-phi-phi.jpg', localAngle: 'Beaches & Island Hopping', guidesCount: 312 },
   { id: 'jodhpur', name: 'Jodhpur', image: '/cities-images/jodhpur.jpg', localAngle: 'Blue City', guidesCount: 145 },
   { id: 'jaisalmer', name: 'Jaisalmer', image: '/cities-images/jaisalmer.jpg', localAngle: 'Golden City', guidesCount: 124 },
   { id: 'bikaner', name: 'Bikaner', image: '/cities-images/bikaner.jpg', localAngle: 'Desert Heritage', guidesCount: 98 },
@@ -33,7 +34,6 @@ export const CITIES: Country[] = [
   { id: 'taipei', name: 'Taipei', image: '/taipei-hero.jpg', localAngle: 'Night Markets', guidesCount: 189 },
   { id: 'osaka', name: 'Osaka', image: '/osaka-hero.jpg', localAngle: 'Food Paradise', guidesCount: 198 },
   // Additional Asian cities
-  { id: 'phuket', name: 'Phuket', image: '/phuket-hero.jpg', localAngle: 'Beaches & Nightlife', guidesCount: 312 },
   { id: 'chiang-mai', name: 'Chiang Mai', image: '/chiang-mai-hero.jpg', localAngle: 'Temples & Mountains', guidesCount: 198 },
   { id: 'hanoi', name: 'Hanoi', image: '/hanoi-hero.jpg', localAngle: 'Old Quarter & Street Food', guidesCount: 245 },
   { id: 'ho-chi-minh-city', name: 'Ho Chi Minh City', image: '/ho-chi-minh-city-hero.jpg', localAngle: 'History & Markets', guidesCount: 267 },
