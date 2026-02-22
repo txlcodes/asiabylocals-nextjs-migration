@@ -1801,15 +1801,20 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
                 <a
                   key={idx}
                   href={`/india/agra/${guide.slug}`}
-                  className="flex items-center justify-between p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#10B981] hover:shadow-md transition-all group"
+                  className="flex items-center justify-between p-5 md:p-6 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
                 >
-                  <div className="flex items-center gap-4">
-                    <div className="w-10 h-10 bg-[#10B981]/10 rounded-xl flex items-center justify-center group-hover:bg-[#10B981] group-hover:text-white transition-colors">
-                      {guide.icon}
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-12 h-12 bg-[#10B981]/10 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 group-hover:rotate-3 shadow-sm group-hover:shadow-[#10B981]/10">
+                      {React.cloneElement(guide.icon as React.ReactElement, { className: "group-hover:text-[#10B981] transition-colors" })}
                     </div>
-                    <span className="font-bold text-[#001A33] group-hover:text-[#10B981]">{guide.title}</span>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
-                  <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-transform group-hover:translate-x-1" />
+
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
                 </a>
               ))}
             </div>
