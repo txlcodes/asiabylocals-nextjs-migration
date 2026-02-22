@@ -20,6 +20,7 @@ import {
   MessageCircle,
   CheckCircle,
   ShieldCheck,
+  Zap,
   HelpCircle,
   FileText,
   List,
@@ -1608,6 +1609,39 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                   Activity provider: {tour.supplier?.fullName || tour.supplier?.companyName || 'Local Guide'}
                 </div>
               </div>
+
+              {/* High-Conversion Feature Bar for Entry Tickets */}
+              {(tour.category === 'Entry Ticket' || tour.title.toLowerCase().includes('ticket')) && (
+                <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3">
+                  <div className="flex items-center gap-3 p-3 bg-blue-50 border border-blue-100 rounded-xl">
+                    <div className="w-8 h-8 rounded-full bg-blue-500 flex items-center justify-center text-white shrink-0">
+                      <Zap size={16} fill="white" />
+                    </div>
+                    <div>
+                      <div className="text-[13px] font-black text-blue-900">Skip the ticket line</div>
+                      <div className="text-[11px] text-blue-700 font-semibold">Avoid long queues</div>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3 p-3 bg-green-50 border border-green-100 rounded-xl">
+                    <div className="w-8 h-8 rounded-full bg-[#25D366] flex items-center justify-center text-white shrink-0">
+                      <MessageCircle size={16} fill="white" />
+                    </div>
+                    <div>
+                      <div className="text-[13px] font-black text-green-900">Instant WhatsApp PDF</div>
+                      <div className="text-[11px] text-green-700 font-semibold">Safe on your phone</div>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3 p-3 bg-purple-50 border border-purple-100 rounded-xl">
+                    <div className="w-8 h-8 rounded-full bg-purple-500 flex items-center justify-center text-white shrink-0">
+                      <ShieldCheck size={16} fill="white" />
+                    </div>
+                    <div>
+                      <div className="text-[13px] font-black text-purple-900">Official Admission</div>
+                      <div className="text-[11px] text-purple-700 font-semibold">100% Guaranteed Entry</div>
+                    </div>
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </div>
