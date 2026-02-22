@@ -63,7 +63,7 @@ const allCities = [
   { name: 'Nikko', country: 'Japan' },
   { name: 'Takayama', country: 'Japan' },
   { name: 'Kanazawa', country: 'Japan' },
-  
+
   // Thailand
   { name: 'Bangkok', country: 'Thailand' },
   { name: 'Chiang Mai', country: 'Thailand' },
@@ -78,7 +78,7 @@ const allCities = [
   { name: 'Sukhothai', country: 'Thailand' },
   { name: 'Hua Hin', country: 'Thailand' },
   { name: 'Pai', country: 'Thailand' },
-  
+
   // China
   { name: 'Beijing', country: 'China' },
   { name: 'Shanghai', country: 'China' },
@@ -91,7 +91,7 @@ const allCities = [
   { name: 'Suzhou', country: 'China' },
   { name: 'Nanjing', country: 'China' },
   { name: 'Macau', country: 'Macau' },
-  
+
   // South Korea
   { name: 'Seoul', country: 'South Korea' },
   { name: 'Busan', country: 'South Korea' },
@@ -99,7 +99,7 @@ const allCities = [
   { name: 'Incheon', country: 'South Korea' },
   { name: 'Gyeongju', country: 'South Korea' },
   { name: 'Jeonju', country: 'South Korea' },
-  
+
   // India
   { name: 'Mumbai', country: 'India' },
   { name: 'Delhi', country: 'India' },
@@ -119,7 +119,7 @@ const allCities = [
   { name: 'Amritsar', country: 'India' },
   { name: 'Rishikesh', country: 'India' },
   { name: 'Darjeeling', country: 'India' },
-  
+
   // Indonesia
   { name: 'Bali', country: 'Indonesia' },
   { name: 'Ubud', country: 'Indonesia' },
@@ -131,7 +131,7 @@ const allCities = [
   { name: 'Medan', country: 'Indonesia' },
   { name: 'Semarang', country: 'Indonesia' },
   { name: 'Makassar', country: 'Indonesia' },
-  
+
   // Vietnam
   { name: 'Ho Chi Minh City', country: 'Vietnam' },
   { name: 'Hanoi', country: 'Vietnam' },
@@ -143,7 +143,7 @@ const allCities = [
   { name: 'Ha Long Bay', country: 'Vietnam' },
   { name: 'Phu Quoc', country: 'Vietnam' },
   { name: 'Mui Ne', country: 'Vietnam' },
-  
+
   // Malaysia
   { name: 'Kuala Lumpur', country: 'Malaysia' },
   { name: 'Penang', country: 'Malaysia' },
@@ -153,7 +153,7 @@ const allCities = [
   { name: 'Kuching', country: 'Malaysia' },
   { name: 'Ipoh', country: 'Malaysia' },
   { name: 'Johor Bahru', country: 'Malaysia' },
-  
+
   // Philippines
   { name: 'Manila', country: 'Philippines' },
   { name: 'Cebu', country: 'Philippines' },
@@ -163,51 +163,51 @@ const allCities = [
   { name: 'Baguio', country: 'Philippines' },
   { name: 'Iloilo', country: 'Philippines' },
   { name: 'Bacolod', country: 'Philippines' },
-  
+
   // Singapore
   { name: 'Singapore', country: 'Singapore' },
-  
+
   // Taiwan
   { name: 'Taipei', country: 'Taiwan' },
   { name: 'Kaohsiung', country: 'Taiwan' },
   { name: 'Taichung', country: 'Taiwan' },
   { name: 'Tainan', country: 'Taiwan' },
-  
+
   // UAE & Middle East
   { name: 'Dubai', country: 'United Arab Emirates' },
   { name: 'Abu Dhabi', country: 'United Arab Emirates' },
   { name: 'Doha', country: 'Qatar' },
   { name: 'Muscat', country: 'Oman' },
-  
+
   // Sri Lanka
   { name: 'Colombo', country: 'Sri Lanka' },
   { name: 'Kandy', country: 'Sri Lanka' },
   { name: 'Galle', country: 'Sri Lanka' },
   { name: 'Sigiriya', country: 'Sri Lanka' },
-  
+
   // Nepal
   { name: 'Kathmandu', country: 'Nepal' },
   { name: 'Pokhara', country: 'Nepal' },
-  
+
   // Bangladesh
   { name: 'Dhaka', country: 'Bangladesh' },
-  
+
   // Myanmar
   { name: 'Yangon', country: 'Myanmar' },
   { name: 'Bagan', country: 'Myanmar' },
   { name: 'Mandalay', country: 'Myanmar' },
-  
+
   // Cambodia
   { name: 'Siem Reap', country: 'Cambodia' },
   { name: 'Phnom Penh', country: 'Cambodia' },
-  
+
   // Laos
   { name: 'Luang Prabang', country: 'Laos' },
   { name: 'Vientiane', country: 'Laos' },
-  
+
   // Mongolia
   { name: 'Ulaanbaatar', country: 'Mongolia' },
-  
+
   // Pakistan
   { name: 'Lahore', country: 'Pakistan' },
   { name: 'Karachi', country: 'Pakistan' }
@@ -252,7 +252,7 @@ function generateSitemap() {
 
   // Get unique countries
   const countries = [...new Set(allCities.map(c => c.country))];
-  
+
   // Layer 2: Countries (optional but fine)
   countries.forEach(country => {
     const countrySlug = getCountrySlug(country);
@@ -283,23 +283,37 @@ function generateSitemap() {
 
   // Sort countries alphabetically
   const sortedCountries = Object.keys(citiesByCountry).sort();
-  
+
+  // Special information pages for specific cities (Agra Authority Pages)
+  const cityInfoPages = {
+    'agra': [
+      'things-to-do-in-agra',
+      'places-to-visit-in-agra',
+      '1-day-agra-itinerary',
+      'taj-mahal-ticket-price-2026',
+      'taj-mahal-opening-time',
+      'is-taj-mahal-closed-on-friday',
+      'agra-travel-guide-2026'
+    ]
+  };
+
   sortedCountries.forEach(country => {
     const countrySlug = getCountrySlug(country);
     const cities = citiesByCountry[country];
-    
+
     cities.forEach(city => {
       const citySlug = toSlug(city.name);
       const cityId = citySlug;
-      
+
       // Check if this is a featured city (higher priority)
-      const isFeatured = featuredCities.some(fc => 
+      const isFeatured = featuredCities.some(fc =>
         fc.name === city.name && fc.country === city.country
       );
-      
+
       const priority = isFeatured ? '0.9' : '0.8';
       const changefreq = isFeatured ? 'weekly' : 'monthly';
-      
+
+      // Main city URL
       xml += `  <!-- Layer 3: ${city.name}, ${country} -->
   <url>
     <loc>https://www.asiabylocals.com/${countrySlug}/${citySlug}</loc>
@@ -309,6 +323,21 @@ function generateSitemap() {
   </url>
 
 `;
+
+      // Add sub-pages for this city if any exist
+      if (cityId === 'agra' && cityInfoPages[cityId]) {
+        cityInfoPages[cityId].forEach(infoSlug => {
+          xml += `  <!-- Sub-page: ${infoSlug} -->
+  <url>
+    <loc>https://www.asiabylocals.com/${countrySlug}/${citySlug}/${infoSlug}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+`;
+        });
+      }
     });
   });
 
