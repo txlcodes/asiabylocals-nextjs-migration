@@ -721,7 +721,7 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
       },
       {
         title: 'Book Official Tour Guide for Taj Mahal (ASI Licensed)',
-        image: 'https://images.unsplash.com/photo-1592635196078-9fdc793937da?auto=format&fit=crop&q=80&w=800',
+        image: '/things-to-do/agra-official-guide.jpg',
         shortDescription: 'Secure a professional, Ministry of Tourism licensed guide for your Taj Mahal visit. Deep dive into Mughal history, architecture, and the hidden stories of the Taj.',
         fullDescription: 'Don\'t leave your Taj Mahal experience to chance. Book a verified, **ASI-licensed historian** who can navigate the crowds, explain the optical illusions in the calligraphy, and provide the deep cultural context of the Mughal Empire. Our official guides are government-vetted professionals who ensure you skip the unsolicited \'lapka\' touts and receive 100% accurate historical data. The tour includes personalized storytelling, photography assistance, and a flexible pace tailored to your interests. Check our [guide verification tips](/india/agra/agra-travel-guide-2026) for more.',
         seoKeywords: ['official guide Taj Mahal', 'ASI licensed guide', 'hiring guide Agra', 'historian tour Taj', 'verified guide'],
@@ -771,7 +771,7 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
       },
       {
         title: 'Taj Mahal Entry Ticket 2026 – Skip the Line',
-        image: 'https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&q=80&w=800',
+        image: '/things-to-do/agra-taj-ticket.jpg',
         shortDescription: 'Official digital entry tickets for the Taj Mahal and Agra Fort. Skip the long ticket-window queues and enter directly through the security gates.',
         fullDescription: 'The Archaeological Survey of India (ASI) has transitioned to a 100% digital ticketing system. Avoid the frustration of the physical ticket counters, which can have wait times of over an hour during peak [October to March season](/india/agra/taj-mahal-opening-time). Our pre-booked QR-code tickets allow you to proceed straight to the security screening. All tickets include the mandatory main mausoleum supplement for access to the interior tomb area. Ensure you have your passport or ID ready for verification at the gate alongside your digital ticket. Check our [price breakdown](/india/agra/taj-mahal-ticket-price-2026) for details.',
         seoKeywords: ['Taj Mahal ticket', 'skip the line ticket', 'official ASI ticket', 'Taj Mahal entry fee', 'digital ticket Agra'],
