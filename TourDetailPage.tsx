@@ -956,8 +956,8 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
           mainTourHasGroupPricing = true;
         }
 
-        // If main tour has group pricing AND has options, create main tour as first option
-        if (mainTourHasGroupPricing && data.tour.options && Array.isArray(data.tour.options) && data.tour.options.length > 0) {
+        // Create main tour as an option if it has group pricing
+        if (mainTourHasGroupPricing) {
           // Main tour has group pricing AND has options - create a "main tour" option
           const mainTourOption = {
             id: 'main-tour',
@@ -979,6 +979,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
           };
 
           // Prepend main tour option to options array
+          if (!data.tour.options) data.tour.options = [];
           data.tour.options = [mainTourOption, ...data.tour.options];
           console.log('TourDetailPage - Added main tour as option (has group pricing):', mainTourOption);
         }
@@ -1613,31 +1614,31 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
               {/* High-Conversion Feature Bar for Entry Tickets */}
               {(tour.category === 'Entry Ticket' || tour.title.toLowerCase().includes('ticket')) && (
                 <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3">
-                  <div className="flex items-center gap-3 p-3 bg-blue-50 border border-blue-100 rounded-xl">
-                    <div className="w-8 h-8 rounded-full bg-blue-500 flex items-center justify-center text-white shrink-0">
+                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
+                    <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
                       <Zap size={16} fill="white" />
                     </div>
                     <div>
-                      <div className="text-[13px] font-black text-blue-900">Skip the ticket line</div>
-                      <div className="text-[11px] text-blue-700 font-semibold">Avoid long queues</div>
+                      <div className="text-[13px] font-black text-[#001A33]">Skip the ticket line</div>
+                      <div className="text-[11px] text-gray-500 font-semibold">Avoid long queues</div>
                     </div>
                   </div>
-                  <div className="flex items-center gap-3 p-3 bg-green-50 border border-green-100 rounded-xl">
+                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
                     <div className="w-8 h-8 rounded-full bg-[#25D366] flex items-center justify-center text-white shrink-0">
                       <MessageCircle size={16} fill="white" />
                     </div>
                     <div>
-                      <div className="text-[13px] font-black text-green-900">Instant WhatsApp PDF</div>
-                      <div className="text-[11px] text-green-700 font-semibold">Safe on your phone</div>
+                      <div className="text-[13px] font-black text-[#001A33]">Instant WhatsApp PDF</div>
+                      <div className="text-[11px] text-gray-500 font-semibold">Safe on your phone</div>
                     </div>
                   </div>
-                  <div className="flex items-center gap-3 p-3 bg-purple-50 border border-purple-100 rounded-xl">
-                    <div className="w-8 h-8 rounded-full bg-purple-500 flex items-center justify-center text-white shrink-0">
+                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
+                    <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
                       <ShieldCheck size={16} fill="white" />
                     </div>
                     <div>
-                      <div className="text-[13px] font-black text-purple-900">Official Admission</div>
-                      <div className="text-[11px] text-purple-700 font-semibold">100% Guaranteed Entry</div>
+                      <div className="text-[13px] font-black text-[#001A33]">Official Admission</div>
+                      <div className="text-[11px] text-gray-500 font-semibold">100% Guaranteed Entry</div>
                     </div>
                   </div>
                 </div>
@@ -1743,7 +1744,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                 mainTourHasGroupPricing = true;
               }
 
-              const shouldShowMainTourAsOption = mainTourHasGroupPricing && tour.options && tour.options.length > 0;
+              const shouldShowMainTourAsOption = mainTourHasGroupPricing;
 
               // Create main tour option if needed
               let allOptions = tour.options || [];
