@@ -98,6 +98,193 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
+  if (slug === 'taj-mahal-royal-private-tour') {
+    return [
+      {
+        question: "What makes this a Royal Private Tour?",
+        answer: "Our [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour) is defined by its uncompromising commitment to exclusivity, elegance, and high-authority historical depth. Unlike standard private tours, the \"Royal\" tier includes our most senior, historian-level guides and the highest category of luxury transportation. Every logistical detail, from the chilled refreshments in your vehicle to the priority skip-the-line assistance at the monument, is engineered to provide a palatial experience. We focus on the \"Platinum Version\" of Agra, avoiding all tourist traps and commercial distractions. This is a curated journey designed for discerning world travelers who seek to experience the Taj Mahal's romantic legacy without any logistical friction or compromise on quality."
+      },
+      {
+        question: "Is this a fully private experience with no other guests?",
+        answer: "Yes, this is a 100% exclusive experience. When you book the [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour), your vehicle and your expert guide are reserved solely for your party. We do not consolidate bookings or mix groups. This total privacy allows for a deeply personal connection with the architecture and history. You have the total freedom to set your own pace, linger at specific viewpoints for as long as you desire, and ask infinite questions. This \"sanctuary of privacy\" is a core tenet of our high-authority service, ensuring that your [1-day Agra itinerary](/india/agra/1-day-agra-itinerary) remains a private chapter of your personal travel history, away from the bustle of group crowds."
+      },
+      {
+        question: "Do we get priority entry at Taj Mahal?",
+        answer: "While the federal security screening (CISF) is mandatory for all, our [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour) includes pre-booked \"High-Value\" digital tickets that significantly streamline the entry process. We utilize the specialized \"High Value\" entry lanes at the West or East gate, which are less congested than the standard public turnstiles. Your senior guide handles all the technicalities of the [Taj Mahal entry ticket](/india/agra/taj-mahal-entry-ticket), allowing you to bypass the massive manual ticket window queues that can often exceed an hour. This tactical skip-the-line assistance ensures you are inside the complex during the \"Platinum Window\" of soft morning light, maximizing your visual and physical comfort."
+      },
+      {
+        question: "Is luxury transport included?",
+        answer: "Luxury transportation is a non-negotiable hallmark of our [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour). We utilize only the latest models of premium sedans and SUVs, such as the Toyota Fortuner, Mercedes-Benz, or similar high-spec vehicles. Each vehicle is equipped with professional-grade climate control, plush leather interiors, and a suite of premium amenities including chilled mineral water, fresh wet wipes, and an assortment of high-quality snacks. Our chauffeurs are uniformed professionals trained in VIP protocol and defensive driving. This \"sanctuary on wheels\" provides a stress-free transition from your hotel to the monuments, ensuring your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) experience begins and ends in absolute comfort and safety."
+      },
+      {
+        question: "Can we choose the vehicle category?",
+        answer: "Absolutely. We offer a tiered selection of luxury vehicles to match your specific preferences and group size. You can choose from a premium executive sedan for couples, a high-ground-clearance luxury SUV for ultimate road comfort, or a high-roof luxury van (such as a Force Urbania) for larger family groups. If you have a specific request for a Mercedes or BMW, we can coordinate this as a \"Platinum Upgrade.\" This flexibility ensures that your [Taj Mahal Full Day Tour](/india/agra/taj-mahal-full-day-tour) logistics are perfectly aligned with your lifestyle. Simply specify your choice during the booking process, and we will ensure the designated vehicle is pristinely prepared for your [Delhi to Agra day trip](/india/agra/taj-mahal-delhi-guided-tour)."
+      },
+      {
+        question: "Is a senior licensed guide included?",
+        answer: "Yes, the [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour) is led exclusively by our most elite, \"Category A\" historian-guides licensed by the Ministry of Tourism. These professionals possess at least 15+ years of on-ground experience and often hold postgraduate degrees in Indian History or Archaeology. They are not merely storytellers; they are high-authority experts capable of deep-dive analyses of Mughal engineering, Persian gardens, and Islamic calligraphy. Their ability to distill complex history into an engaging, high-level narrative is what transforms your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) into a profound intellectual journey. They serve as your personal cultural liaisons, protecting your energy and providing a rich, nuanced educational payload."
+      },
+      {
+        question: "How long do we spend inside Taj Mahal?",
+        answer: "A standard royal visit typically lasts between **2.5 to 3.5 hours**, but because this is a strictly private experience, the clock is entirely yours. We prioritize an \"unhurried pace\" that respects your curiosity. If you are captivated by the intricate Pietra Dura marble inlay or wish to spend extra time in the Charbagh gardens observing the symmetry, your guide will adjust the schedule seamlessly. We avoid the \"rushed shuttle\" feel of budget tours. This flexibility allows you to master the geometry of the [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) experience without stress, ensuring you have ample time for both deep learning and personal contemplation at the world's most romantic monument."
+      },
+      {
+        question: "Can this tour be customized completely?",
+        answer: "Customization is the very soul of our [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour). While we provide a logically structured \"Platinum Itinerary,\" every element can be swapped or modified in real-time. If you prefer to skip the Agra Fort to spend more time at the Baby Taj, or if you'd like to include a specific stop at a high-end local bazaar, we will accommodate your request. You can also specify your preferred lunch timing and venue. This bespoke approach ensures your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) plan is unique to you. We are not a rigid tour agency; we are your personal logistical architects in India, dedicated to fulfilling your specific travel vision."
+      },
+      {
+        question: "Is a luxury lunch included?",
+        answer: "Yes, we include a multi-course \"Royal Mughal Lunch\" at one of Agra's most prestigious 5-star establishments, such as the ITC Mughal or the Oberoi Amarvilas (subject to availability). This culinary experience is designed to meet the highest international hygiene and quality standards. You will sample authentic recipes that have been passed down through generations of royal chefs, served in a palatial setting. This midday break provides a necessary \"reset\" in climate-controlled luxury before you continue your exploration of the Agra Fort. We select only restaurants that have high-authority reputations for excellence, ensuring your [Taj Mahal Full Day Tour](/india/agra/taj-mahal-full-day-tour) is both a historical and gastronomic masterclass."
+      },
+      {
+        question: "Can we add champagne breakfast or fine dining?",
+        answer: "For those seeking the ultimate celebratory experience, we can arrange a **Champagne Breakfast** with views of the Taj Mahal or an exclusive multi-course \"Chef's Table\" dinner. These ultra-luxury additions are popular for honeymoons and milestone anniversaries. We coordinate with the city's top luxury hotels to secure the most private and visually stunning locations, often on rooftops overlooking the marble dome. This \"Platinum\" customization extends the legacy of Shah Jahan's own romantic gestures into your personal journey. If you wish to upgrade your [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour) with these fine-dining elements, please notify us during booking, and our concierge team will handle the complex reservations."
+      },
+      {
+        question: "Is this suitable for honeymoon couples?",
+        answer: "The [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour) is specifically engineered as our #1 recommendation for honeymooners. We understand the need for privacy, romance, and beautiful imagery. We adjust our narrative to focus on the deep emotional and romantic history of the Taj Mahal, while giving you the space to enjoy each other's company. Our guides act as discreet directors, helping you capture elegant, professional-quality photos without the crowds. We can also coordinate special surprises such as flower bouquets or a private blessing. By choosing the \"Royal\" tier, you ensure that your once-in-a-lifetime honeymoon [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) is a flawless, high-authority experience that honors your new life together."
+      },
+      {
+        question: "Can you arrange flower decorations or romantic surprises?",
+        answer: "Yes, we specialize in \"Mughal Romance\" surprises. We can coordinate traditional rose petal decorations in your luxury vehicle, arrange for a private professional musician (like a Sitar player) at your lunch venue, or facilitate a \"secret\" marriage proposal at the Mehtab Bagh sunset point. Our team handles all the behind-the-scenes logistics discretely to ensure the surprise remains a secret until the perfect moment. This level of personalized concierge service is what defines the [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour) as a world-class travel product. If you have a creative vision for your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) surprise, we are here as your high-authority local partners to make it a reality."
+      },
+      {
+        question: "Is professional photography included?",
+        answer: "To ensure your \"Royal\" memories are captured perfectly, we can include a **Professional Photographer** as an optional add-on to your [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour). Our photographers use high-end full-frame Mirrorless equipment and understand the \"Symmetry Points\" of the Taj Mahal better than anyone else. They handle all the \"creative direction,\" while your guide handles the history. This creates a powerful \"division of labor\" that yields a high-resolution digital gallery of your journey. If you are serious about visual content, this is a high-value investment that avoids the \"generic tourist photo\" trap. Your [Agra guided tour](/india/agra/things-to-do-in-agra) results in a professional-grade portfolio that reflects the premium nature of your visit."
+      },
+      {
+        question: "Are monument tickets included in the price?",
+        answer: "Yes, the [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour) is strictly all-inclusive. We provide the highest-tier \"Foreigner Category\" tickets for the Taj Mahal (including the Main Mausoleum access) and the Agra Fort. We also cover all parking fees, expressway tolls, and state border taxes. There are no hidden \"on-the-spot\" payments required. We handle the digital purchase of these tickets in advance through the official ASI portal to ensure your [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) is handled correctly and efficiently. This all-inclusive structure provides total peace of mind, allowing you to focus entirely on the architectural marvels rather than carrying large amounts of local currency for small logistical fees."
+      },
+      {
+        question: "Is the experience suitable for elderly VIP travelers?",
+        answer: "We pride ourselves on being the preferred choice for senior VIP travelers who require a gentle, highly attentive pace. For the [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour), we minimize walking distances by utilizing authorized electric golf carts from the parking perimeter. Inside the complex, your guide will proactively identify shaded resting spots and seating areas with the best views. Our vehicles have easy ingress/egress and ample legroom. We also time our visits to avoid the absolute peak of the heat. This \"senior-friendly\" engineering settles any physical-strain objections, ensuring that every family member can appreciate the [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) in total safety and palatial comfort."
+      },
+      {
+        question: "Is wheelchair assistance available?",
+        answer: "Yes, we can arrange for private **wheelchair assistance** for the entire duration of your [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour). The Taj Mahal is largely accessible via a system of ramps on the main platforms, and we provide an assistant to manage the wheelchair so you and your guide can focus on the historical narrative. We also utilize specific \"accessibility paths\" within the Agra Fort. If you or a family member has mobility challenges, please inform us in advance so we can ensure the appropriate equipment and personnel are ready at the gates. This commitment to inclusion is a vital part of our high-authority [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) standard for international delegations."
+      },
+      {
+        question: "Can we avoid shopping stops?",
+        answer: "A core tenet of our [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour) is a **strict zero-commission policy**. We do not engage in forced shopping stops or visits to \"factories\" that are commonly associated with budget tourism. Your time is valuable, and we prioritize history and aesthetics over commerce. We only visit local craft centers (such as the traditional marble inlay artisans) if you explicitly request it to understand the technical side of the Taj's construction. This commitment to an \"uncluttered\" itinerary is why we are trusted by premium travelers who want an authentic, high-authority [Agra guided tour](/india/agra/things-to-do-in-agra) that respects their time and focuses purely on architectural education."
+      },
+      {
+        question: "Is hotel pickup available from any location in Agra or Delhi?",
+        answer: "Yes, our royal service includes **complimentary door-to-door pickup and drop-off** from any hotel, residence, or airport location within New Delhi, Gurgaon, Noida, or Agra. We time our arrivals meticulously, often using the Yamuna Expressway for a smooth 3-hour transition. Whether you are staying at a luxury palace hotel in Agra or a corporate suite in Gurgaon, our chauffeur and senior guide will be waiting in the lobby at the designated time. This seamless logistical path is what makes a [Delhi to Agra day trip](/india/agra/1-day-agra-itinerary) effortless and secure. We handle all city navigation for you, ensuring you arrive at the monuments refreshed and ready for your royal experience."
+      },
+      {
+        question: "What is the cancellation policy for this premium tour?",
+        answer: "For the [Private Royal Luxury Taj Mahal Tour](/india/agra/taj-mahal-royal-private-tour), we offer a \"Discerning Cancellation Policy\" that understands the dynamic nature of international VIP travel. You can cancel your tour with a full refund up to 24-48 hours before the scheduled pickup. However, please note that government-issued monument entry tickets, once generated, are non-refundable by the ASI. Our transparent approach to this common logistical objection ensures your investment is protected while maintaining our professional commitments to our senior guides and luxury chauffeurs. We aim to provide a high-authority, stress-free booking environment that reflects the trust and reliability of our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) services."
+      },
+      {
+        question: "Can we include Agra Fort and Mehtab?",
+        answer: "Yes, the [Royal Private Tour](/india/agra/taj-mahal-royal-private-tour) is fully comprehensive and typically includes both the **Agra Fort (the royal citadel)** and the **Mehtab Bagh (Moonlight Garden)**. We highly recommend visiting the Agra Fort to see the \"Musamman Burj\" where Shah Jahan was imprisoned, as it provides the essential political context to the Taj Mahal's romantic story. We also suggest ending your day at the Mehtab Bagh for a symmetrical sunset view across the river Yamuna, which is far more peaceful than the main complex. This \"Three-Monuments Itinerary\" provides the most complete and high-authority understanding of the Mughal legacy, and is fully integrated into our [1-day Agra itinerary](/india/agra/1-day-agra-itinerary) for premium guests."
+      }
+    ];
+  }
+
+  if (slug === 'taj-mahal-photography-tour') {
+    return [
+      {
+        question: "Is this a professional photography tour or just a regular guide who takes photos?",
+        answer: "This is a specialized [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) designed for serious enthusiasts and content creators. Unlike a standard guided tour, our experts are trained in spatial awareness, lighting conditions, and the specific \"golden points\" of the monument. You aren't just getting someone with a camera; you are being led by a professional who understands ISO settings, aperture, and the physics of the white marble's reflection. Whether you are a hobbyist or a professional, we provide high-authority guidance on how to capture the 17th-century architecture in its most flattering light. We bridge the gap between a history lesson and a professional photoshoot, ensuring your portfolio stands out from generic travel snapshots with stunning, high-definition compositions that tell a story."
+      },
+      {
+        question: "Do you provide a professional photographer or does the guide assist with photos?",
+        answer: "We offer the flexibility to choose either a [specialized photography guide](/india/agra/taj-mahal-photography-tour) or a separate professional photographer. For the ultimate \"platinum\" experience, we recommend booking our dedicated photographer who uses high-end DSLR/Mirrorless equipment to capture your journey. If you prefer to be behind the lens yourself, our guides act as logistical scouts, cleared for navigating you through the crowds to the best technical angles. This \"division of labor\" ensures you aren't distracted by security protocols or ticketing while trying to capture the blue hour. By having a professional who understands \"Symmetry and Reflection,\" we guarantee your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) memories look like they belong in a luxury travel magazine, perfectly documented for your personal heritage."
+      },
+      {
+        question: "Are DSLR and mirrorless cameras allowed inside Taj Mahal?",
+        answer: "Yes, the Archaeological Survey of India (ASI) permits standard DSLR and mirrorless cameras inside the complex. However, there is a clear distinction between \"amateur\" and \"professional\" usage in their eyes. While you can bring your high-resolution body and 24-70mm or 70-200mm lenses, there are strict rules against carrying large \"commercial\" equipment without prior federal permission. Our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) experts will guide you through the mandatory CISF security check, ensuring your gear is handled respectfully. Note that photography is strictly prohibited inside the main cenotaph chamber to maintain the sanctity of the tomb. We leverage our high-authority status to help you optimize your settings for the harsh white marble before you enter restricted zones."
+      },
+      {
+        question: "Can I bring a tripod for sunrise photography?",
+        answer: "No, tripods (and monopods) are strictly prohibited inside the Taj Mahal complex by the ASI for both safety and commercial reasons. This is a common objection for landscape photographers, but it is a rigid national security protocol. To overcome this, our specialized guides for the [Taj Mahal Sunrise Tour](/india/agra/taj-mahal-sunrise-guided-tour) identify flat surfaces and \"natural supports\" like the red sandstone railings and pillars to help you stabilize your long-exposure shots. We help you calibrate your ISO and shutter speed to manage the low light of the pre-dawn \"blue hour\" without the need for a tripod. This tactical advice ensures you still get sharp, tack-point images of the reflecting pools without violating any federal monument security rules during your tour."
+      },
+      {
+        question: "Is drone photography allowed at Taj Mahal?",
+        answer: "Drone photography is strictly prohibited and constitutes a major security violation in India. The entire area surrounding the Taj Mahal is a \"No-Fly Zone\" enforced by the Indian Air Force and the CISF. Attempting to fly a drone can lead to immediate confiscation and federal charges. If you see \"aerial shots\" on our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026), these are usually taken with special government permits for scientific or international documentary purposes. For your private [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour), we focus on capturing the monument's grandeur from the ground using wide-angle lenses and the famous \"symmetry points\" in the Charbagh gardens, which provide an equally powerful and legal visual payload for your social media and professional portfolio."
+      },
+      {
+        question: "What are the best photo spots inside Taj Mahal?",
+        answer: "Our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) covers the \"Seven Sacred Angles,\" beginning with the central reflecting pool for the iconic symmetrical reflection. We then move to the East and West mosques (Mehmaan Khana) to use the red sandstone arches as \"natural frames\" for the white marble mausoleum. Another high-authority spot is the \"bench of Diana,\" but we also take you to lesser-known corners of the Charbagh where you can capture the dome through the foliage. For a creative finale, we utilize the Yamuna River bank when conditions allow. Our guides are experts at timing these spots to ensure you are in the right quadrant when the sun hits the marble at a 45-degree angle for the best depth and detail."
+      },
+      {
+        question: "Do we get early access for better lighting?",
+        answer: "While everyone enters at the same time—30 minutes before sunrise—booking a [Taj Mahal Sunrise Guided Tour](/india/agra/taj-mahal-sunrise-guided-tour) gives you a tactical advantage. We ensure you are at the very front of the security queue by arriving at the East or West gate 45 minutes before they open. Being among the first 20 people inside is the only way to get a \"clean shot\" of the reflecting pools without thousands of tourists in the background. This \"platinum window\" lasts only about 10-15 minutes before the crowds saturate the main platform. Our high-authority scouts navigate you through the first thermal check and security turnstiles with precision, ensuring you are focused on your focal point while others are still waiting in line."
+      },
+      {
+        question: "What is the best time of day for photography at Taj Mahal?",
+        answer: "From a technical perspective, the **Sunrise period (5:30 AM to 8:30 AM)** is the absolute \"platinum window\" for photography. The light transitions from a cool lavender to a warm gold, highlighting the translucency of the Makrana marble. The morning mist often adds a mystical, ethereal layer that disappears by 9:00 AM. If you are following an [Agra travel guide 2026](/india/agra/agra-travel-guide-2026), you'll know that the midday sun (11:00 AM to 3:00 PM) is extremely harsh, causing \"blown-out\" highlights on the white surface. A secondary option is the \"Golden Hour\" before sunset, which can be captured beautifully from the Mehtab Bagh (Moonlight Garden) across the river, providing a silhouette effect that is different but equally powerful for your collection."
+      },
+      {
+        question: "Is sunrise better than sunset for photos?",
+        answer: "Sunrise is definitively superior for three main reasons: light quality, crowd density, and atmospheric clarity. During a [Taj Mahal Sunrise Tour](/india/agra/taj-mahal-sunrise-tour), the light is soft and multidirectional, reducing harsh shadows. More importantly, the crowds are at their thinnest, allowing for unobstructed views of the symmetry. Sunset, while beautiful, often coincides with the peak daily visitor count (up to 40,000 people), making clean landscape shots almost impossible inside the complex. However, sunset is spectacular for \"rear-view\" shots from across the River Yamuna. For serious creators on a [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour), we always recommend the sunrise slot for the highest-authority visual results and a much cooler, more pleasant environment for your creative process."
+      },
+      {
+        question: "Can you help with Instagram reel-style shots?",
+        answer: "Absolutely. Our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) experts are well-versed in modern social media trends, including transition shots and cinematic pans for Instagram Reels and TikTok. We help you coordinate your walking pace for \"follow-me\" style videos and identify the best archways for \"reveal\" transitions. We understand the \"9:16\" vertical frame requirements and guide you on where to stand for the most viral-worthy aesthetic. This service transforms your visit into a lifestyle content session, moving beyond static frames. By pairing historical depth with modern videography, we ensure your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) content is not just informative, but also aesthetically \"on-trend\" for your digital audience and followers who demand high-quality, engaging travel content."
+      },
+      {
+        question: "Will you guide us on poses and angles?",
+        answer: "Yes, our [specialized photography guides](/india/agra/taj-mahal-photography-tour) act as your creative directors. We know the exact poses that work best with the monument's massive scale—such as the \"looking into the distance\" pose on the marble platform or the \"framed through an arch\" shot at the mosque. We help you manage your body language to ensure you don't look overwhelmed by the architecture. We also provide high-authority tips on \"creative symmetry,\" such as using the water channels to create a perfect vertical split in your frame. This hands-on posing guidance settles any \"how do I look\" objections, ensuring your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) results in a professional-grade personal gallery that looks effortless, elegant, and perfectly balanced."
+      },
+      {
+        question: "Is this tour suitable for pre-wedding shoots?",
+        answer: "While we cannot do \"full-scale\" commercial pre-wedding shoots with lighting rigs and assistants (due to ASI restrictions), we are the #1 choice for \"lifestyle pre-wedding\" photography. We help couples capture intimate, high-quality romantic shots without drawing the attention of monument security. We recommend an early [Taj Mahal Sunrise Guided Tour](/india/agra/taj-mahal-sunrise-guided-tour) to ensure privacy. Our photographers are experts at capturing the \"candid romance\" between the white marble domes, providing a visual narrative of your love story. If you need a full professional crew, we can coordinate the specific \"Agra City\" permissions needed. For most couples, our private photography session provides exactly the \"platinum\" look they desire for their wedding announcements and saves them from the high costs of commercial permits."
+      },
+      {
+        question: "Do we need special permission for professional shoots?",
+        answer: "For standard \"enthusiast\" photography with a single camera and lens, no special permission is needed beyond your [Taj Mahal entry ticket](/india/agra/taj-mahal-entry-ticket). However, if you are conducting a commercial shoot for a brand, magazine, or fashion line involving multiple bodies, lighting, or a crew, the ASI requires a formal permit and a significant daily fee (often upwards of $1,000 USD). Our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) team can assist with these applications if booked well in advance. For 99% of our guests, we optimize our shoots to stay within \"personal use\" guidelines while delivering professional-grade results, ensuring you get the high-authority visuals you need without the bureaucratic red tape or the high financial burden of commercial permits during your visit."
+      },
+      {
+        question: "Are costume changes allowed inside the monument?",
+        answer: "Technically, there are no dedicated \"changing rooms\" inside the Taj Mahal complex, and using the public restrooms for costume changes is often discouraged by security. However, we have tactical solutions for our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) guests. We recommend \"smart layering\"—such as wearing a beautiful saree or traditional kurta over simple innerwear that allows for a quick change in a quiet corner of the gardens. We can also coordinate your outfit transitions between the Taj Mahal and the Agra Fort. Our guides act as \"lookouts\" to ensure your privacy during these quick transitions. This ensures you have 2-3 distinct \"looks\" for your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) portfolio without violating any local sensitivity protocols or monument rules."
+      },
+      {
+        question: "How crowded is Taj Mahal during peak season?",
+        answer: "During the peak [Agra travel season (October-March)](/india/agra/agra-travel-guide-2026), daily visitor counts can regularly exceed 40,000 to 50,000 people. This is the biggest hurdle for any photographer. Without a specialized [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour), you will likely have dozens of people in every frame. We use \"crowded-evasion tactics,\" such as starting at the very edge of the monument and working our way in, or using long-exposure techniques to \"ghost out\" moving tourists (though you must hand-hold your camera). We also know the \"off-beat\" garden quadrants that large group tours skip. Our high-authority knowledge of the complex's spatial flow ensures you still find pockets of serenity for those essential clean shots and wide-angle landscapes, even on the busiest days."
+      },
+      {
+        question: "What months offer the clearest sky for photography?",
+        answer: "October and November are the \"Platinum Months\" for clear photography, offering deep blue skies and sharp, crisp light after the monsoon rains have washed the dust away. February and March are also excellent, though temperatures begin to rise. December and January are famous for \"Taj Fog,\" which can be a disaster for wide-angle shots but a \"spiritual dream\" for close-up creative photography. If you are planning an [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) visit, we recommend avoiding late April to June, as the extreme heat (45°C) creates heat haze (shimmer) that can soften your long-distance telephoto shots. We calibrate your [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) settings based on the specific atmospheric conditions of your visit month."
+      },
+      {
+        question: "What happens if it is foggy or rainy?",
+        answer: "Fog and rain shouldn't be seen as failures, but as \"creative gifts.\" While you might lose the classic sunrise reflection, fog provides a mystical, high-authority atmosphere that makes for unique, ethereal imagery—very popular for moody Instagram content. Rainy days result in vibrant, saturated colors on the red sandstone and darker, dramatic tones on the white marble. Our [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) experts are trained in \"foul-weather photography,\" showing you how to capture reflections in the rain puddles which are often cleaner than the reflecting pools. We also carry protective gear for your cameras. This tactical pivoting ensures you still leave with a [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) gallery that is world-class and distinctive."
+      },
+      {
+        question: "Can I get raw photo files after the tour?",
+        answer: "Yes, if you book our [Professional Photography add-on](/india/agra/taj-mahal-photography-tour), we pride ourselves on transparency. We provide the full gallery of high-resolution JPEGs and, upon request, the original RAW (.ARW, .CR3, or .NEF) files. This is vital for serious creators who prefer to do their own color grading and retouching. We deliver the files via a secure digital download link (Google Drive or WeTransfer) within 24-48 hours. This ensure you have the maximum dynamic range to work with for your [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) project. We don't hold your photos hostage for \"extra fees\"; the intellectual property of your personal journey belongs entirely to you as part of our premium service and commitment to your artistic freedom."
+      },
+      {
+        question: "How long do we spend inside the Taj Mahal?",
+        answer: "A standard [Photography Tour](/india/agra/taj-mahal-photography-tour) typically involves **3 to 4 hours** inside the complex. This is longer than a regular tour because we account for \"light waiting\"—waiting for the sun to clear a cloud or for a specific quadrant to empty for a clean shot. We move at a \"contemplative pace,\" allowing you time to check your histogram and adjust your filters. If you wish to stay longer for mid-morning shots, your private guide will remain with you. This flexibility is what defines our high-authority service; we prioritize your creative goals over a rigid schedule, ensuring you have ample time to master the geometry of the [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) experience without feeling rushed or stressed."
+      },
+      {
+        question: "Is this tour private or shared with others?",
+        answer: "This experience is **strictly 100% private**. We do not mix photographers from different bookings. This is essential for a [Taj Mahal Photography Tour](/india/agra/taj-mahal-photography-tour) because every artist has a different \"eye\" and different equipment needs. You have the total, undivided attention of your photography expert. This private format allows us to customize the walking route in real-time based on your specific focal lengths. Whether you are a solo traveler or a small group of friends, the tour is tailored for your unique creative vision. This settles the common objection of being \"staked\" to a group that moves too fast. By choosing us, you're investing in a bespoke creative session that respects your time and artistic integrity without compromise."
+      },
+      {
+        question: "Can you arrange traditional Indian outfits for photos?",
+        answer: "Yes, we offer a \"Cultural Aesthetic\" package where we can arrange high-quality Sarees or Lehengas for women and Kurta-Pyjamas for men. We even provide assistance with saree draping at your hotel before the [Taj Mahal Sunrise Tour](/india/agra/taj-mahal-sunrise-guided-tour). Traditional attire provides a stunning color contrast against the white marble, significantly increasing the \"social media authority\" of your photos. We have a list of local partners who provide clean, dry-cleaned outfits for rent or purchase. This all-inclusive approach removes the logistical stress of sourcing clothes in a foreign city. Our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) experts ensure you look your absolute best, perfectly complementing the royal architecture for a truly \"world-class\" result!"
+      },
+      {
+        question: "Are shoe covers provided for photography near the main mausoleum?",
+        answer: "Yes, we provide **high-quality, heavy-duty shoe covers** as part of your booking. To walk on the main white marble platform (the higher plinth), the ASI requires all visitors to either remove their shoes or use authorized covers. For photographers, we recommend the covers because they provide better grip and keep your feet clean while you are kneeling for low-angle shots. We also ensure your [Taj Mahal entry ticket](/india/agra/taj-mahal-entry-ticket) includes the specific \"Mausoleum\" access, which is an additional fee on top of the base ticket. Our guides carry extra sets of covers in case one breaks, ensuring your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) remains physically comfortable and technically uninterrupted as you capture the intricate floral marble inlay and symmetry."
+      },
+      {
+        question: "Can elderly travelers join this photography tour comfortably?",
+        answer: "Absolutely. We prioritize the **comfort and mobility** of senior travelers on our [Photography Tour](/india/agra/taj-mahal-photography-tour). While the complex involves significant walking (3-4 km), we utilize authorized electric golf carts to bridge the 1 km gap from the parking lot to the gates. Inside, your guide will pace the tour slowly, identifying \"shaded photography spots\" with seating where you can rest while waiting for the perfect light. We also use \"efficiency routing\" to minimize the need to climb unnecessary sandstone stairs. This personalized approach makes the [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) experience accessible, proving that world-class photography isn't just for the young, but for anyone with an appreciation for Mughal beauty and a desire to capture its eternal elegance."
+      },
+      {
+        question: "Is editing included in the package?",
+        answer: "If you choose our [Professional Photographer add-on](/india/agra/taj-mahal-photography-tour), we include **professional color grading and basic retouching** for your top 25-50 shots. We use industry-standard software like Adobe Lightroom and Photoshop to ensure the white marble looks clean and the sky looks vibrant, corrected for the specific color-temperature of the Agra sunrise. If you prefer to edit yourself, we provide the RAW files. For most travelers, having our expert edit their photos is the \"platinum touch\" that completes the experience. This settled objection ensures you don't have to spend hours on your laptop after your trip. We deliver your polished, high-authority gallery within 48 hours, ready for you to share your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) with the world."
+      }
+    ];
+  }
+
+
   if (slug === 'taj-mahal-agra-fort-guided-tour') {
     return [
       {
@@ -3019,7 +3206,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           </div>
                         </div>
                       )}
-                      {tour.meetingPoint && (
+                      {tour.pickupIncluded && (
                         <div className="flex items-start gap-4">
                           <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
                             <Bus className="text-[#10B981]" size={16} />

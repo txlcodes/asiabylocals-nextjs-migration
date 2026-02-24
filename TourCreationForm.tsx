@@ -138,6 +138,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
         usesTransportation: tour.usesTransportation || false,
         transportationTypes: Array.isArray(tour.transportationTypes) ? tour.transportationTypes : (typeof tour.transportationTypes === 'string' ? JSON.parse(tour.transportationTypes || '[]') : []),
         multiCityTravel: tour.multiCityTravel || false,
+        pickupIncluded: tour.pickupIncluded || false,
         tourOptions: tour.options || [],
         itineraryItems: tour.itineraryItems ? (typeof tour.itineraryItems === 'string' ? JSON.parse(tour.itineraryItems) : tour.itineraryItems) : [],
         detailedItinerary: tour.detailedItinerary || ''
@@ -193,6 +194,7 @@ const TourCreationForm: React.FC<TourCreationFormProps> = ({
       multiCityTravel: false,
       multiCityLocations: {} as Record<string, string[]>, // City -> locations mapping for multi-day tours
       isMultiDayTour: false,
+      pickupIncluded: false,
       tourOptions: [] as Array<{
         optionTitle: string;
         optionDescription: string;
@@ -809,6 +811,7 @@ ${a(9)}`;
         images: JSON.stringify(imageUrls), // Use uploaded URLs or original base64
         languages: JSON.stringify(formData.languages),
         tourTypes: formData.tourTypes.length > 0 ? JSON.stringify(formData.tourTypes) : null,
+        pickupIncluded: formData.pickupIncluded || false,
         locationEntryTickets: JSON.stringify(formData.locationEntryTickets),
         usesTransportation: formData.usesTransportation || false,
         transportationTypes: JSON.stringify(formData.transportationTypes),
@@ -2238,6 +2241,19 @@ ${a(9)}`;
                   placeholder="e.g., Main entrance of Taj Mahal"
                   className="w-full bg-gray-50 border-none rounded-2xl py-4 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
                 />
+              </div>
+
+              <div className="flex items-center gap-2 pt-2">
+                <input
+                  type="checkbox"
+                  id="pickupIncluded"
+                  checked={formData.pickupIncluded}
+                  onChange={(e) => handleInputChange('pickupIncluded', e.target.checked)}
+                  className="w-5 h-5 rounded border-gray-300 text-[#10B981] focus:ring-[#10B981]"
+                />
+                <label htmlFor="pickupIncluded" className="text-[14px] font-bold text-[#001A33] cursor-pointer">
+                  Pickup Included from Hotel/Airport
+                </label>
               </div>
             </div>
           </div>

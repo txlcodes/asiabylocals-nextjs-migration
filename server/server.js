@@ -3124,7 +3124,8 @@ app.post('/api/tours', async (req, res) => {
       // tourOptions handled later manually to avoid conflict
       locationEntryTickets,
       guideType,
-      currency
+      currency,
+      pickupIncluded
     } = finalCleanedBody; // Use final cleaned body (IDs and pricingType removed)
 
     // #region agent log
@@ -4251,6 +4252,7 @@ app.post('/api/tours', async (req, res) => {
       detailedItinerary: detailedItinerary || '',
       visitorInfo: visitorInfo || '',
       checklistItems: checklistItems || '',
+      pickupIncluded: !!pickupIncluded,
       usesTransportation: !!usesTransportation,
       transportationTypes: transportationTypes ? (typeof transportationTypes === 'string' ? transportationTypes : JSON.stringify(transportationTypes)) : '[]',
       multiCityTravel: !!multiCityTravel,
@@ -4573,7 +4575,7 @@ app.post('/api/tours', async (req, res) => {
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
           'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
           'images', 'languages', 'reviews', 'status', 'options',
-          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems',
+          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems', 'pickupIncluded',
           'maxGroupSize', 'groupPrice', 'groupPricingTiers', 'unavailableDates', 'unavailableDaysOfWeek',
           'parentTourId', 'parentTour'
         ];
@@ -4670,7 +4672,7 @@ app.post('/api/tours', async (req, res) => {
           'duration', 'pricePerPerson', 'currency', 'shortDescription', 'fullDescription',
           'highlights', 'included', 'notIncluded', 'meetingPoint', 'guideType', 'tourTypes',
           'images', 'languages', 'reviews', 'status', 'options',
-          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems',
+          'itineraryItems', 'detailedItinerary', 'visitorInfo', 'checklistItems', 'pickupIncluded',
           'groupPricingTiers', 'groupPrice', 'maxGroupSize'
         ];
 
@@ -6149,6 +6151,9 @@ app.put('/api/tours/:id', async (req, res) => {
     }
     if (updateData.detailedItinerary !== undefined) {
       dataToUpdate.detailedItinerary = updateData.detailedItinerary || null;
+    }
+    if (updateData.pickupIncluded !== undefined) {
+      dataToUpdate.pickupIncluded = !!updateData.pickupIncluded;
     }
     if (updateData.visitorInfo !== undefined) {
       dataToUpdate.visitorInfo = updateData.visitorInfo || null;
