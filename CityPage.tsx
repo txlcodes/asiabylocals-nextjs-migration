@@ -51,23 +51,23 @@ const CITY_DESCRIPTIONS: Record<string, {
     faqs: [
       {
         question: "How long does a Taj Mahal visit take?",
-        answer: "A visit to the [Taj Mahal](/india/agra/agra-travel-guide-2026) typically takes 2–3 hours. This includes security entry, guided storytelling, marble inlay viewing, photography time, and exploring the main mausoleum platform. If you combine it with [Agra Fort](/india/agra/agra-travel-guide-2026), plan for 5–6 hours total. During peak season (October–March), entry queues may add extra time, while sunrise visits are usually faster and less crowded."
+        answer: "A comprehensive visit to the [Taj Mahal](/india/agra/agra-travel-guide-2026) typically requires between 2.5 to 3 hours of on-site exploration. This timeframe accounts for the mandatory security screening at the gates (which can vary depending on your arrival time), a guided walk through the Charbagh gardens, and a detailed tour of the main mausoleum platform. If your itinerary includes a 'Skip-The-Line' entry, you effectively bypass the manual ticket queues, but the internal distance of the complex still necessitates significant walking. For enthusiasts interested in photography or the intricate marble inlay work (Pietra Dura), we recommend allowing for the full 3 hours to capture the monument as the light transitions, particularly during the ethereal sunrise or sunset windows."
       },
       {
         question: "Is Taj Mahal closed on Friday?",
-        answer: "Yes. The [Taj Mahal is strictly closed](/india/agra/is-taj-mahal-closed-on-friday) every Friday for prayers. It is open from sunrise to sunset on all other days, including public holidays. If you are in Agra on a Friday, consider visiting Agra Fort, Mehtab Bagh, or exploring the old city markets instead."
+        answer: "Yes, the [Taj Mahal is strictly closed](/india/agra/is-taj-mahal-closed-on-friday) to the general public every Friday. This weekly closure is mandatory as the monument remains an active place of worship, with the mosque on the western side hosting afternoon prayers for local residents. It is a common traveler error to arrive in Agra on a Friday expecting a tour; instead, we recommend utilizing this day to visit the [Agra Fort](/india/agra/things-to-do-in-agra), the Itmad-ud-Daulah (Baby Taj), or the Mehtab Bagh across the river, which offers a stunning sunset view of the Taj's rear facade. The monument resumes its dawn-to-dusk operations every Saturday morning, often seeing a surge in visitors immediately following the Friday hiatus."
       },
       {
         question: "Can I visit the Taj Mahal at night?",
-        answer: "Yes, limited night viewing is allowed on select dates around the full moon (except Fridays and during Ramadan). Tickets are capped and must be booked in advance. See our [guide on night viewing](/india/agra/taj-mahal-opening-time) for the best strategy. Night visits offer a serene, less crowded atmosphere, but access is restricted to specific time slots and viewing areas."
+        answer: "Taj Mahal night viewing is a rare and highly regulated experience, permitted only for 5 nights each month—specifically on the full moon night and the two nights preceding and following it. However, if any of these dates fall on a Friday or during the month of Ramadan, night entry is prohibited. Tickets are extremely limited (capped at 400 people per night) and must be purchased exactly 24 hours in advance from the ASI office. The visit is divided into eight batches of 50 people, each lasting 30 minutes. While you cannot walk up to the main platform at night, viewing the moonlit white marble from the red sandstone platforms is a bucket-list experience. Check our [night viewing guide](/india/agra/taj-mahal-opening-time) for tactical booking advice."
       },
       {
         question: "Is tripod allowed inside the Taj Mahal?",
-        answer: "No, tripods are generally not allowed inside the Taj Mahal complex without special permission. Professional photography equipment is restricted for security reasons. For structured photography sessions, [sunrise tours](/india/agra/things-to-do-in-agra) or private photography permits are recommended."
+        answer: "For security and preservation reasons, the Archaeological Survey of India (ASI) strictly prohibits the use of tripods, monopods, or any specialized professional videography equipment inside the Taj Mahal complex without a pre-approved commercial permit from the New Delhi headquarters. Handheld photography with standard DSLR cameras and smartphones is perfectly acceptable and encouraged. If you are a professional photographer looking to capture symmetrical long-exposures, we recommend visiting the Mehtab Bagh (Moonlight Garden) located directly across the Yamuna River. There, security is slightly less restrictive regarding gear, and you can achieve perfectly centered shots of the monument reflecting in the water during the 'blue hour' without the logistical hurdles of the main complex security checks."
       },
       {
         question: "Is a passport required for entry?",
-        answer: "Foreign visitors must carry their original passport or a clear digital copy for verification at entry gates. Indian citizens can present a government-issued ID. Security checks are strict, and certain items like drones, large bags, and tripods are prohibited. Be sure to check our [ticket booking guide](/india/agra/taj-mahal-ticket-price-2026) for the latest ID update."
+        answer: "Yes, carrying your **original physical passport** is a foundational requirement for all international visitors entering the Taj Mahal. While the digital ticket on your smartphone is sufficient for the turnstiles, the Central Industrial Security Force (CISF) personnel conduct random identification audits to ensure the ticket holder's identity matches the document used during the booking process. Indian nationals should carry an original Aadhaar card or Voter ID. In addition to identification, be prepared for an airport-style security check where items like drones, tobacco products, lighters, and large backpacks are prohibited. Carrying only a small daypack with your camera, phone, and original ID is the most tactical way to ensure a seamless and rapid entry through the gates."
       },
       {
         question: "Are sunrise tours worth it?",
@@ -1612,31 +1612,47 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
   // SEO Structured Data (JSON-LD)
   const structuredData = {
     "@context": "https://schema.org",
-    "@type": "TravelAgency",
-    "name": `AsiaByLocals - ${city} Tours`,
-    "description": cityInfo.description,
-    "url": `https://asiabylocals.com/${countrySlug}/${citySlug}`,
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": city,
-      "addressCountry": country
-    },
-    "areaServed": {
-      "@type": "City",
-      "name": city,
-      "containedIn": {
-        "@type": "Country",
-        "name": country
-      }
-    },
-    "offers": tours.map(tour => ({
-      "@type": "Offer",
-      "name": tour.title,
-      "description": tour.shortDescription || tour.fullDescription,
-      "price": tour.pricePerPerson,
-      "priceCurrency": tour.currency,
-      "availability": tour.status === 'approved' ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
-    }))
+    "@graph": [
+      {
+        "@type": "TravelAgency",
+        "name": `AsiaByLocals - ${city} Tours`,
+        "description": cityInfo.description,
+        "url": `https://asiabylocals.com/${countrySlug}/${citySlug}`,
+        "image": tours[0]?.image || "",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": city,
+          "addressCountry": country
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": city,
+          "containedIn": {
+            "@type": "Country",
+            "name": country
+          }
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": cityInfo.faqs.map(faq => ({
+          "@type": "Question",
+          "name": faq.question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer
+          }
+        }))
+      },
+      ...tours.map(tour => ({
+        "@type": "Offer",
+        "name": tour.title,
+        "description": tour.shortDescription || tour.fullDescription,
+        "price": tour.pricePerPerson,
+        "priceCurrency": tour.currency,
+        "availability": tour.status === 'approved' ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
+      }))
+    ]
   };
 
   // Removed manual SEO meta tag DOM updates in favor of Helmet

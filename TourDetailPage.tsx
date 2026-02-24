@@ -1495,17 +1495,54 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     isOptionsArray: Array.isArray(tour?.options)
   });
 
+  // Calculate tour FAQs for schema
+  const tourFAQs = (() => {
+    const t = tour?.title?.toLowerCase() || '';
+    const slug = tour?.slug;
+
+    // Use the same logic as the render section to get the high-authority FAQs
+    if (slug === 'taj-mahal-sunrise-tour') {
+      return [
+        { question: "What time is hotel pickup for sunrise tour in Agra?", answer: "Typically, hotel pickup in Agra for our sunrise tour occurs between 5:15 AM and 5:45 AM, calculated specifically to ensure you reach the monument gates approximately 15 minutes before the first light touches the white marble. During the peak summer months of April to June, the sun rises significantly earlier, necessitating the 5:15 AM start. Conversely, in the winter months of December and January, we might adjust this slightly later based on visibility protocols. We prioritize being among the first in the security queue because the atmosphere of the 'Blue Hour'—the period just before technical sunrise—offers a unique, ethereal stillness that mid-day visitors never experience." },
+        { question: "Which Taj Mahal gate do we enter for sunrise?", answer: "We almost exclusively utilize the East Gate for our sunrise expeditions. Logistically, the East Gate is positioned closest to the majority of high-end hotel clusters and offers a more streamlined queueing experience compared to the busier West Gate, which serves the dense local market areas. The East Gate features dedicated security lanes for high-value pre-booked digital tickets, which our guides use to expedite your entrance. Additionally, the parking area for the East Gate is well-connected by electric battery buses, which provide a pleasant 5-minute ride to the main entrance, saving you from a long walk in the early morning humidity." },
+        { question: "Does skip-the-line mean skipping security too?", answer: "It is critical to understand that 'Skip-The-Line' applies specifically to the official ASI ticket window, which can often have queues exceeding 60 minutes during peak season. It does NOT allow any visitor to bypass the mandatory security screening conducted by the Central Industrial Security Force (CISF). Every visitor, regardless of ticket status, must pass through metal detectors and physical baggage checks as per national safety guidelines. To ensure the fastest possible throughput, we recommend bringing only your phone, camera, and a bottle of water." }
+      ];
+    }
+    if (slug === 'taj-mahal-entry-ticket') {
+      return [
+        { question: "Is this an official Taj Mahal entry ticket?", answer: "Yes, these are 100% official digital entry tickets issued by the Archaeological Survey of India (ASI). As an authorized booking partner, we process your admission under strict government regulations, ensuring your QR code is valid at all entry turnstiles. Unlike unauthorized \"skip-the-line\" vouchers sold on the street, our tickets grant you legitimate access to the main Taj Mahal complex, including the peripheral gardens and flanking monuments. By pre-booking with us, you avoid the risk of counterfeit tickets and ensure your visit is recorded in the official ASI attendance system." },
+        { question: "Does “skip-the-line” mean skipping security checks?", answer: "It is a common misconception that skip-the-line tickets allow you to bypass the security gates. In reality, \"Skip-The-Line\" refers specifically to bypassing the official ASI ticket window queues, which can often exceed 60 to 90 minutes during the peak tourist season. However, every single visitor to the Taj Mahal, regardless of their status or ticket type, must undergo a mandatory physical security screening conducted by the Central Industrial Security Force (CISF)." }
+      ];
+    }
+    return [];
+  })();
+
   const structuredData = {
     "@context": "https://schema.org",
-    "@type": "Product",
-    "name": tour?.title || "Tour",
-    "description": tour?.shortDescription || "",
-    "image": tour?.images?.[0] || "",
-    "offers": {
-      "@type": "Offer",
-      "price": tour?.pricePerPerson || 0,
-      "priceCurrency": tour?.currency || "USD"
-    }
+    "@graph": [
+      {
+        "@type": "Product",
+        "name": tour?.title || "Tour",
+        "description": tour?.shortDescription || "",
+        "image": tour?.images?.[0] || "",
+        "offers": {
+          "@type": "Offer",
+          "price": tour?.pricePerPerson || 0,
+          "priceCurrency": tour?.currency || "USD"
+        }
+      },
+      ...(tourFAQs.length > 0 ? [{
+        "@type": "FAQPage",
+        "mainEntity": tourFAQs.map(faq => ({
+          "@type": "Question",
+          "name": faq.question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer
+          }
+        }))
+      }] : [])
+    ]
   };
 
   return (
@@ -2731,7 +2768,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                     const t = title.toLowerCase();
 
                     // Specific handling for the high-intent Sunrise Tour slug
-                    if (slug === 'taj-mahal-sunrise-sunrise-tour') {
+                    if (slug === 'taj-mahal-sunrise-tour') {
                       return [
                         {
                           question: "What time is hotel pickup for sunrise tour in Agra?",
