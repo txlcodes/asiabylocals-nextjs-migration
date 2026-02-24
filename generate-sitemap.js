@@ -111,6 +111,10 @@ function generateSitemap() {
 
   // Layer 3: Cities (Only those with tours)
   citiesWithTours.forEach(cityName => {
+    // Only include cities that are explicitly indexed
+    const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(cityName);
+    if (!isIndexed) return;
+
     // Find the country for this city
     const tourForCity = liveTours.find(t => t.city === cityName);
     if (!tourForCity) return;
@@ -118,10 +122,9 @@ function generateSitemap() {
     const countrySlug = getCountrySlug(tourForCity.country);
     const citySlug = toSlug(cityName);
 
-    // Check if it's one of our high-priority hubs
-    const isFeatured = ['Agra', 'Delhi', 'Jaipur', 'Udaipur', 'Varanasi'].includes(cityName);
-    const priority = isFeatured ? '0.9' : '0.8';
-    const changefreq = isFeatured ? 'daily' : 'weekly';
+    // Core cities get high priority
+    const priority = '0.9';
+    const changefreq = 'daily';
 
     xml += `  <!-- Layer 3: ${cityName}, ${tourForCity.country} -->
   <url>
@@ -148,6 +151,10 @@ function generateSitemap() {
   // Layer 4: Individual Tours
   xml += `  <!-- Layer 4: Specific Tours -->\n`;
   liveTours.forEach(tour => {
+    // Only include tours from indexed cities
+    const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(tour.city);
+    if (!isIndexed) return;
+
     const countrySlug = getCountrySlug(tour.country);
     const citySlug = toSlug(tour.city);
 

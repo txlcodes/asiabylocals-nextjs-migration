@@ -1636,6 +1636,29 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
         }
       },
       {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.asiabylocals.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": country,
+            "item": `https://www.asiabylocals.com/${countrySlug}`
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": city,
+            "item": `https://www.asiabylocals.com/${countrySlug}/${citySlug}`
+          }
+        ]
+      },
+      {
         "@type": "FAQPage",
         "mainEntity": cityInfo.faqs.map(faq => ({
           "@type": "Question",
@@ -1664,6 +1687,9 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
       <Helmet>
         <title>{cityInfo.title}</title>
         <meta name="description" content={cityInfo.description} />
+        {!['Agra', 'Delhi', 'Jaipur'].includes(city) && (
+          <meta name="robots" content="noindex, follow" />
+        )}
         <meta name="language" content="en" />
         <meta name="keywords" content={`${city} tours, ${city} experiences, ${country} tours, local guides ${city}, ${city} travel guide, things to do in ${city}, ${city} activities`} />
         <link rel="canonical" href={`https://www.asiabylocals.com/${countrySlug}/${citySlug}`} />

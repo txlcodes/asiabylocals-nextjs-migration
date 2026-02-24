@@ -215,12 +215,15 @@ async function generateSitemap() {
 
     // 5. Layer 3: Live Cities
     liveCities.forEach(({ name: city, country }) => {
+      // Only include cities that are explicitly indexed
+      const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(city);
+      if (!isIndexed) return;
+
       const countrySlug = getCountrySlug(country);
       const citySlug = toSlug(city);
 
-      // Featured cities get higher priority
-      const isFeatured = ['Agra', 'Delhi', 'Jaipur', 'Udaipur', 'Varanasi'].includes(city);
-      const priority = isFeatured ? '0.9' : '0.8';
+      // Core cities get high priority
+      const priority = '0.9';
 
       xml += `  <!-- Layer 3: ${city}, ${country} -->
   <url>
@@ -234,6 +237,10 @@ async function generateSitemap() {
     // 6. Layer 4: Live Tours
     tours.forEach(tour => {
       if (!tour.slug) return;
+
+      // Only include tours from indexed cities
+      const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(tour.city);
+      if (!isIndexed) return;
 
       const countrySlug = getCountrySlug(tour.country);
       const citySlug = toSlug(tour.city);

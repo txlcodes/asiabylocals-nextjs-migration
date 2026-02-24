@@ -2440,12 +2440,15 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
       <Helmet>
         <title>{tour?.title ? `${tour.title} | ${city || 'Tour'} | AsiaByLocals` : 'AsiaByLocals'}</title>
         <meta name="description" content={tour?.shortDescription || `Book your next adventure in ${city || 'Asia'} with AsiaByLocals.`} />
+        {!['Agra', 'Delhi', 'Jaipur'].includes(city || '') && (
+          <meta name="robots" content="noindex, follow" />
+        )}
         {/* Dynamic Canonical Link for SEO */}
-        <link rel="canonical" href={window.location.origin + window.location.pathname} />
+        <link rel="canonical" href={`https://www.asiabylocals.com/${country?.toLowerCase().replace(/\s+/g, '-')}/${city?.toLowerCase().replace(/\s+/g, '-')}/${tour?.slug}`} />
         <meta name="language" content="en" />
         <meta property="og:title" content={tour?.title} />
         <meta property="og:description" content={tour?.shortDescription} />
-        <meta property="og:url" content={window.location.origin + window.location.pathname} />
+        <meta property="og:url" content={`https://www.asiabylocals.com/${country?.toLowerCase().replace(/\s+/g, '-')}/${city?.toLowerCase().replace(/\s+/g, '-')}/${tour?.slug}`} />
         {tour?.images?.[0] && <meta property="og:image" content={tour.images[0]} />}
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}

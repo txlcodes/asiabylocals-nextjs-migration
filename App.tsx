@@ -63,12 +63,13 @@ class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { has
   }
 
   render() {
-    if (this.state.hasError) {
+    const { hasError, error } = this.state;
+    if (hasError) {
       return (
         <div className="min-h-screen bg-white flex items-center justify-center">
           <div className="text-center">
             <h2 className="text-2xl font-black text-[#001A33] mb-4">Error loading tour</h2>
-            <p className="text-gray-500 font-semibold mb-6">{this.state.error?.message || 'Please try again later.'}</p>
+            <p className="text-gray-500 font-semibold mb-6">{error?.message || 'Please try again later.'}</p>
             <button
               onClick={() => {
                 this.setState({ hasError: false, error: null });
@@ -99,71 +100,31 @@ interface ExplorationData {
 const EXPLORATION_DATA: ExplorationData = {
   attractions: [
     { name: "Taj Mahal, India", count: "112 tours & activities" },
-    { name: "Fushimi Inari Shrine, Japan", count: "84 tours & activities" },
-    { name: "Grand Palace, Thailand", count: "156 tours & activities" },
-    { name: "Borobudur Temple, Indonesia", count: "92 tours & activities" },
-    { name: "Ha Long Bay, Vietnam", count: "198 tours & activities" },
-    { name: "Mount Fuji, Japan", count: "65 tours & activities" },
     { name: "Amber Fort, India", count: "42 tours & activities" },
-    { name: "Wat Arun, Thailand", count: "78 tours & activities" },
-    { name: "Ubud Monkey Forest, Indonesia", count: "95 tours & activities" },
-    { name: "Hoi An Ancient Town, Vietnam", count: "124 tours & activities" },
-    { name: "Arashiyama Bamboo Grove, Japan", count: "92 tours & activities" },
-    { name: "Varanasi Ghats, India", count: "54 tours & activities" },
-    { name: "Phi Phi Islands, Thailand", count: "110 tours & activities" },
-    { name: "Tanah Lot, Indonesia", count: "135 tours & activities" },
-    { name: "Cu Chi Tunnels, Vietnam", count: "48 tours & activities" },
-    { name: "Senso-ji Temple, Japan", count: "82 tours & activities" },
-    { name: "Meenakshi Temple, India", count: "105 tours & activities" },
-    { name: "Ayutthaya Historical Park, Thailand", count: "68 tours & activities" }
+    { name: "Hawa Mahal, India", count: "28 tours & activities" },
+    { name: "Red Fort, India", count: "35 tours & activities" },
+    { name: "Qutub Minar, India", count: "22 tours & activities" },
+    { name: "City Palace, Jaipur", count: "18 tours & activities" },
+    { name: "Agra Fort, India", count: "65 tours & activities" },
+    { name: "Humayun's Tomb, India", count: "15 tours & activities" },
+    { name: "Jama Masjid, Delhi", count: "12 tours & activities" },
+    { name: "Fatehpur Sikri, Agra", count: "24 tours & activities" }
   ],
   destinations: [
-    { name: "Tokyo, Japan", count: "342 tours & activities" },
-    { name: "Bangkok, Thailand", count: "421 tours & activities" },
-    { name: "Kyoto, Japan", count: "184 tours & activities" },
-    { name: "Bali, Indonesia", count: "256 tours & activities" },
-    { name: "Hanoi, Vietnam", count: "198 tours & activities" },
     { name: "Agra, India", count: "145 tours & activities" },
-    { name: "Osaka, Japan", count: "210 tours & activities" },
-    { name: "Phuket, Thailand", count: "165 tours & activities" },
-    { name: "Ho Chi Minh City, Vietnam", count: "112 tours & activities" },
-    { name: "Ubud, Indonesia", count: "189 tours & activities" },
     { name: "Delhi, India", count: "156 tours & activities" },
-    { name: "Nara, Japan", count: "234 tours & activities" },
-    { name: "Chiang Mai, Thailand", count: "128 tours & activities" },
-    { name: "Da Nang, Vietnam", count: "167 tours & activities" },
-    { name: "Yogyakarta, Indonesia", count: "143 tours & activities" },
-    { name: "Jaipur, India", count: "89 tours & activities" },
-    { name: "Sapporo, Japan", count: "178 tours & activities" },
-    { name: "Goa, India", count: "115 tours & activities" }
+    { name: "Jaipur, India", count: "89 tours & activities" }
   ],
   countries: [
-    { name: "Japan", count: "721 tours & activities" },
-    { name: "Thailand", count: "845 tours & activities" },
-    { name: "Vietnam", count: "498 tours & activities" },
-    { name: "Indonesia", count: "624 tours & activities" },
-    { name: "India", count: "512 tours & activities" },
-    { name: "Cambodia", count: "215 tours & activities" },
-    { name: "South Korea", count: "189 tours & activities" },
-    { name: "Philippines", count: "245 tours & activities" },
-    { name: "Singapore", count: "176 tours & activities" },
-    { name: "Malaysia", count: "95 tours & activities" },
-    { name: "Nepal", count: "156 tours & activities" },
-    { name: "Laos", count: "78 tours & activities" }
+    { name: "India", count: "512 tours & activities" }
   ],
   categories: [
     { name: "Heritage Walks", count: "1,245 experiences" },
     { name: "Street Food Safaris", count: "2,150 experiences" },
-    { name: "Zen Meditation Workshops", count: "420 experiences" },
-    { name: "Local Cooking Classes", count: "890 experiences" },
     { name: "Sacred Temple Rituals", count: "560 experiences" },
-    { name: "Jungle & Rice Terrace Treks", count: "730 experiences" },
-    { name: "Traditional Craft Workshops", count: "340 experiences" },
-    { name: "Floating Market Private Tours", count: "1,100 experiences" },
-    { name: "Midnight City Tuk-Tuk Rides", count: "820 experiences" },
-    { name: "Spiritual Water Blessings", count: "410 experiences" },
     { name: "Historical Scholar Walks", count: "670 experiences" },
-    { name: "Night Market Food Tours", count: "2,300 experiences" }
+    { name: "Taj Mahal Sunrise Tours", count: "430 experiences" },
+    { name: "Old Delhi Rickshaw Tours", count: "210 experiences" }
   ]
 };
 
@@ -775,6 +736,47 @@ const App: React.FC = () => {
         <meta property="og:description" content="Discover authentic local tours and cultural experiences across Asia. Book tours with verified local guides in India, Japan, Thailand, Vietnam, Indonesia, and more." />
         <meta property="og:url" content="https://www.asiabylocals.com/" />
         <meta property="og:type" content="website" />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "AsiaByLocals",
+            "url": "https://www.asiabylocals.com/",
+            "description": "Discover authentic local tours and cultural experiences across Asia.",
+            "publisher": {
+              "@type": "Organization",
+              "name": "AsiaByLocals",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.asiabylocals.com/logo.png"
+              }
+            },
+            "mainEntity": {
+              "@type": "ItemList",
+              "name": "Top Destinations",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Agra Tours",
+                  "url": "https://www.asiabylocals.com/india/agra"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Delhi Tours",
+                  "url": "https://www.asiabylocals.com/india/delhi"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Jaipur Tours",
+                  "url": "https://www.asiabylocals.com/india/jaipur"
+                }
+              ]
+            }
+          })}
+        </script>
       </Helmet>
       {/* Header Navigation */}
       <header className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">

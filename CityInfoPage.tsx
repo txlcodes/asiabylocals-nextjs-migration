@@ -210,28 +210,56 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
 
             case 'taj-mahal-ticket-price-2026':
                 return {
-                    title: 'Taj Mahal Ticket Price 2026: Official Fees, Categories & Digital Rules',
+                    title: 'Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)',
                     description: 'Planning a visit in 2026 requires understanding the new digital-only ticketing policy and updated fee structures for international and domestic travelers. This guide provides the complete price breakdown and how to avoid overpaying for your entry.',
                     heroImage: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&q=80&w=1500',
                     sections: [
                         {
+                            title: "Taj Mahal Ticket Price 2026 (Quick Answer)",
+                            icon: "Wallet",
+                            content: `**Last Updated: February 2026 (Verified with ASI)**
+
+*   **Foreign Tourists:** ₹1,300 (₹1,100 Entry + ₹200 Mausoleum)
+*   **Indian Citizens:** ₹250 (₹50 Entry + ₹200 Mausoleum)
+*   **SAARC/BIMSTEC:** ₹740 (₹540 + ₹200)
+*   **Children under 15:** Free (Registration required)
+*   **Payment:** Online Only (No Cash)`
+                        },
+                        {
+                            isCTA: true,
+                            title: "Want Us To Secure Your Taj Mahal Tickets?",
+                            content: "Avoid payment issues, foreign card declines, and slot sell-outs. Our local team can reserve your tickets in advance.",
+                            buttonText: "Reserve My Ticket Slot",
+                            buttonLink: "https://www.asiabylocals.com/india/agra/taj-mahal-entry-ticket"
+                        },
+                        {
+                            title: "What Is the Taj Mahal Entry Ticket Price in 2026?",
+                            icon: "Ticket",
+                            content: "The Taj Mahal entry ticket price in 2026 depends on your nationality and the areas you wish to visit. The official fee for foreign tourists is ₹1,300, while Indian citizens pay ₹250 for the complete experience including the main tomb. Before visiting, we recommend you [check our Taj Mahal Opening Time guide](/india/agra/taj-mahal-opening-time) and [see if Taj Mahal is closed on Friday](/india/agra/is-taj-mahal-closed-on-friday) to avoid any logistical issues. For a seamless experience, you can also [browse private Taj Mahal guided tours](/india/agra) hosted by local experts."
+                        },
+                        {
                             title: "Official 2026 Entry Fee Structure",
+                            icon: "Building",
                             content: "**As of 2026, the official Taj Mahal ticket price is ₹1,300 for foreign tourists and ₹250 for Indian citizens, including the mandatory main mausoleum supplement.** \n\nThe Archaeological Survey of India (ASI) has streamlined pricing for the 2026 season to manage the massive influx of tourists while funding the ongoing conservation of the white marble. Tickets are strictly divided into entry categories based on nationality and age. If you are planning a [1-day itinerary](/india/agra/1-day-agra-itinerary), ensure you book your slots at least 48 hours in advance. \n\n**Foreign Tourists (Non-SAARC):** \n- ₹1,100 (Monument Entry) + ₹200 (Main Mausoleum Supplement) = **₹1,300 Total** \n- High-Value Ticket benefits include a separate, prioritized queue for entry and security screening, which is essential during peak hours. \n\n**SAARC & BIMSTEC Citizens:** \n- ₹540 (Entry) + ₹200 (Mausoleum) = **₹740 Total** \n- This applies to citizens of Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Pakistan, Sri Lanka, Thailand, and Myanmar. A valid national passport is required for verification. \n\n**Indian Citizens:** \n- ₹50 (Entry) + ₹200 (Mausoleum) = **₹250 Total** \n\n**Children (All Nationalities):** \n- Children under 15 years of age are permitted **FREE** entry. However, parents must still register them in the online booking portal to receive a zero-value QR code for security tracking at the gate."
                         },
                         {
                             title: "The Main Mausoleum Supplement (₹200 Explained)",
+                            icon: "Star",
                             content: "One of the most persistent points of confusion for travelers is the 'Double Ticket' system. The basic entry ticket allows you to explore the gardens, the mosque, and the peripheral red sandstone buildings. However, to actually step onto the raised marble platform and enter the inner sanctum containing the cenotaphs of Shah Jahan and Mumtaz Mahal, you must pay an additional ₹200 supplement. \n\n**Is it worth it?** \nWhile the exterior view is the most famous, the interior offers incredible acoustics, the famous marble screens (jalis), and the emotional center of the monument. We recommend 95% of first-time visitors pay for the full experience. If you are on a very tight budget or have visited before, the gardens still offer the best photographic opportunities. \n\n**Note:** This supplement price is uniform for all adults regardless of nationality."
                         },
                         {
                             title: "Digital-Only Policy & Payment Tactics",
-                            content: "As of 2026, **no cash transactions are permitted** at the physical monument ticket windows. The Archaeological Survey of India has moved 100% to a paperless, digital ticketing infrastructure to improve data tracking and reduce fiscal leakage. \n\n**How to purchase your ticket:** \n- **Official Portal:** Use the ASI online ticketing website via your smartphone browser. \n- **QR Code at Gate:** Large QR code boards are located at the entrance. Scan these to be taken directly to the checkout page. \n- **Payment Methods:** UPI is the fastest method for anyone with an Indian bank account. International visitors can use Visa or Mastercard, but ensure you have 'International Usage' enabled with your bank before arriving at the gate. \n\n**Pro-Tip:** Don't wait until you reach the gate to book. Cellular data speeds can drop significantly near the monument due to the density of active users. Book while you are at your hotel during breakfast for a stress-free entry."
+                            icon: "CreditCard",
+                            content: "As of 2026, **no cash transactions are permitted** at the physical monument ticket windows. The Archaeological Survey of India has moved 100% to a paperless, digital ticketing infrastructure to improve data tracking and reduce fiscal leakage. \n\n**How to purchase your ticket:** \n- **Official Portal:** You can book directly via the ASI official portal, or use our concierge booking service for assistance. \n- **QR Code at Gate:** Large QR code boards are located at the entrance. Scan these to be taken directly to the checkout page. \n- **Payment Methods:** UPI is the fastest method for anyone with an Indian bank account. International visitors can use Visa or Mastercard, but ensure you have 'International Usage' enabled with your bank before arriving at the gate. \n\n**Pro-Tip:** Don't wait until you reach the gate to book. Cellular data speeds can drop significantly near the monument due to the density of active users. Book while you are at your hotel during breakfast for a stress-free entry."
                         },
                         {
                             title: "Included Amenities & Supplementary Costs",
+                            icon: "Info",
                             content: "Your 'High-Value' (Foreigner) ticket is more than just an entry pass. It is a bundled service package designed to provide a more comfortable experience. Upon arrival, proceed to the foreigner-specific amenities counter to collect: \n- **Water Bottle (500ml):** A necessary item for the 2-hour walk. \n- **Disposable Shoe Covers:** These are mandatory for walking on the white marble platform to prevent abrasion and staining. \n- **Agra Tourist Map:** A basic directional guide to the monument's layout. \n\n**Optional Extras to Budget For:** \n- **Electric Golf Carts:** These operate from the parking lots to the main gates (Approx ₹20-50). They are highly recommended if you are visiting during the peak heat of midday. \n- **Authorized Guides:** Only employ guides who carry a valid ASI-issued identification card. Standard rates for a 2-hour private tour generally range from ₹1,000 to ₹2,000 depending on the group size and the guide's experience."
                         },
                         {
                             title: "Operational Rules & Gate Validity",
+                            icon: "AlertTriangle",
                             content: "1. **Gate Specificity:** Your ticket is tied to the specific gate you selected during booking (East or West). You cannot enter through the West Gate if you purchased an East Gate ticket. \n2. **Time-Slotted Entry:** Tickets are now valid for specific 3-hour windows. If you arrive after your slot has expired, you may be denied entry. \n3. **Single Entry Only:** The Taj Mahal maintains a strict single-entry policy. Once you scan your QR code and exit the turnstiles, your ticket becomes void. Re-entry for lunch or rest is not allowed. \n4. **Restricted Items:** Avoid bringing large backpacks, tripods, cigarette lighters, or any food items. There are no safe locker facilities for these items at the gate; you will be asked to return to your vehicle or hotel to deposit them."
                         }
                     ],
@@ -243,10 +271,46 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "PriceSpecification",
-                        "price": "1300",
-                        "priceCurrency": "INR",
-                        "description": "Official Taj Mahal entry fee for foreign tourists 2026"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)",
+                                "description": "Official 2026 Taj Mahal ticket price guide. Includes fees for foreign tourists (₹1,300), Indians (₹250), SAARC citizens, and important digital booking rules.",
+                                "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&q=80&w=1500",
+                                "datePublished": "2026-01-01T08:00:00+05:30",
+                                "dateModified": "2026-02-25T02:22:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    {
+                                        "@type": "Question",
+                                        "name": "Can I buy Taj Mahal tickets with cash at the gate?",
+                                        "acceptedAnswer": { "@type": "Answer", "text": "No. Since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online." }
+                                    },
+                                    {
+                                        "@type": "Question",
+                                        "name": "Is the main tomb entry included in the standard foreigner ticket?",
+                                        "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. You must specifically select the 'Mausoleum' add-on (₹200) during the checkout process." }
+                                    },
+                                    {
+                                        "@type": "Question",
+                                        "name": "What is the Taj Mahal entry ticket price in 2026?",
+                                        "acceptedAnswer": { "@type": "Answer", "text": "For 2026, foreign tourists pay ₹1,300 and Indian citizens pay ₹250 for full entry including the mausoleum." }
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "BreadcrumbList",
+                                "itemListElement": [
+                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.asiabylocals.com" },
+                                    { "@type": "ListItem", "position": 2, "name": "India", "item": "https://www.asiabylocals.com/india" },
+                                    { "@type": "ListItem", "position": 3, "name": "Agra", "item": "https://www.asiabylocals.com/india/agra" },
+                                    { "@type": "ListItem", "position": 4, "name": "Taj Mahal Ticket Price 2026", "item": "https://www.asiabylocals.com/india/agra/taj-mahal-ticket-price-2026" }
+                                ]
+                            }
+                        ]
                     },
                     fastFacts: [
                         { icon: 'Wallet', label: 'Total Fee', value: '₹1,300 (Foreigners)' },
@@ -478,6 +542,9 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
             <Helmet>
                 <title>{data.title} | AsiaByLocals Official Guide</title>
                 <meta name="description" content={data.description} />
+                {!['Agra', 'Delhi', 'Jaipur'].includes(city) && (
+                    <meta name="robots" content="noindex, follow" />
+                )}
                 {data.jsonLd && (
                     <script type="application/ld+json">
                         {JSON.stringify(data.jsonLd)}
@@ -575,79 +642,113 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
 
                         {/* Content Body */}
                         <div className="space-y-16">
-                            {data.sections.map((section: any, index: number) => (
-                                <article key={index} className="group">
-                                    <header className="mb-6">
-                                        <span className="text-[#10B981] text-[12px] font-black uppercase tracking-[0.2em] mb-2 block">Part 0{index + 1}</span>
-                                        <h2 className="text-2xl md:text-4xl font-black text-[#001A33] group-hover:text-[#10B981] transition-colors leading-tight">
-                                            {section.title}
-                                        </h2>
-                                    </header>
-
-                                    {/* Section Image - Shrinked and Styled */}
-                                    {section.image && (
-                                        <div className="mb-8 rounded-2xl overflow-hidden shadow-lg border border-gray-100">
-                                            <img
-                                                src={section.image}
-                                                alt={section.title}
-                                                className="w-full h-auto object-cover max-h-[400px]"
-                                            />
+                            {data.sections.map((section: any, index: number) => {
+                                if (section.isCTA) {
+                                    return (
+                                        <div key={index} className="bg-gradient-to-br from-[#001A33] to-[#003366] rounded-[2.5rem] p-10 text-white shadow-2xl relative overflow-hidden group">
+                                            <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-8">
+                                                <div className="flex-1 text-center md:text-left">
+                                                    <h3 className="text-2xl md:text-3xl font-black mb-4 leading-tight">
+                                                        {section.title}
+                                                    </h3>
+                                                    <p className="text-white/80 font-bold text-lg leading-relaxed max-w-xl">
+                                                        {section.content}
+                                                    </p>
+                                                </div>
+                                                <button
+                                                    onClick={() => window.location.href = section.buttonLink}
+                                                    className="px-8 py-5 bg-[#10B981] hover:bg-[#059669] text-white font-black rounded-2xl transition-all shadow-xl hover:scale-105 active:scale-95 text-[16px] whitespace-nowrap"
+                                                >
+                                                    {section.buttonText}
+                                                </button>
+                                            </div>
+                                            {/* Decorative element */}
+                                            <div className="absolute top-0 right-0 w-64 h-64 bg-[#10B981]/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 group-hover:scale-150 transition-transform duration-1000"></div>
                                         </div>
-                                    )}
+                                    );
+                                }
 
-                                    <div className="text-[17px] md:text-[18px] text-gray-700 leading-[1.6] font-medium space-y-6">
-                                        {section.content.split('\n').map((para: string, pIdx: number) => {
-                                            if (!para.trim()) return null;
+                                return (
+                                    <article key={index} className="group">
+                                        <header className="mb-6">
+                                            <span className="text-[#10B981] text-[12px] font-black uppercase tracking-[0.2em] mb-2 block">Part 0{index + 1}</span>
+                                            <div className="flex items-center gap-4">
+                                                {section.icon && (
+                                                    <div className="w-10 h-10 md:w-12 md:h-12 bg-[#F0FDF4] text-[#10B981] rounded-xl flex items-center justify-center shrink-0 shadow-sm border border-[#DCFCE7]">
+                                                        {renderIcon(section.icon)}
+                                                    </div>
+                                                )}
+                                                <h2 className="text-2xl md:text-4xl font-black text-[#001A33] group-hover:text-[#10B981] transition-colors leading-tight">
+                                                    {section.title}
+                                                </h2>
+                                            </div>
+                                        </header>
 
-                                            // Handle bolding: **text** and links: [text](url)
-                                            const parts = para.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g);
-                                            return (
-                                                <p key={pIdx}>
-                                                    {parts.map((part, i) => {
-                                                        if (part.startsWith('**') && part.endsWith('**')) {
-                                                            return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
-                                                        }
-                                                        if (part.startsWith('[') && part.includes('](')) {
-                                                            const match = part.match(/\[(.*?)\]\((.*?)\)/);
-                                                            if (match) {
-                                                                return (
-                                                                    <a key={i} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
-                                                                        {match[1]}
-                                                                    </a>
-                                                                );
+                                        {/* Section Image - Shrinked and Styled */}
+                                        {section.image && (
+                                            <div className="mb-8 rounded-2xl overflow-hidden shadow-lg border border-gray-100">
+                                                <img
+                                                    src={section.image}
+                                                    alt={section.title}
+                                                    className="w-full h-auto object-cover max-h-[400px]"
+                                                />
+                                            </div>
+                                        )}
+
+                                        <div className="text-[17px] md:text-[18px] text-gray-700 leading-[1.6] font-medium space-y-6">
+                                            {section.content.split('\n').map((para: string, pIdx: number) => {
+                                                if (!para.trim()) return null;
+
+                                                // Handle bolding: **text** and links: [text](url)
+                                                const parts = para.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g);
+                                                return (
+                                                    <p key={pIdx}>
+                                                        {parts.map((part, i) => {
+                                                            if (part.startsWith('**') && part.endsWith('**')) {
+                                                                return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
                                                             }
-                                                        }
-                                                        return part;
-                                                    })}
-                                                </p>
-                                            );
-                                        })}
-                                    </div>
+                                                            if (part.startsWith('[') && part.includes('](')) {
+                                                                const match = part.match(/\[(.*?)\]\((.*?)\)/);
+                                                                if (match) {
+                                                                    return (
+                                                                        <a key={i} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
+                                                                            {match[1]}
+                                                                        </a>
+                                                                    );
+                                                                }
+                                                            }
+                                                            return part;
+                                                        })}
+                                                    </p>
+                                                );
+                                            })}
+                                        </div>
 
-                                    {section.table && (
-                                        <div className="mt-8 overflow-x-auto rounded-2xl border border-gray-100 shadow-sm">
-                                            <table className="w-full text-left border-collapse">
-                                                <thead>
-                                                    <tr className="bg-gray-50">
-                                                        {section.table.headers.map((header: string, hIdx: number) => (
-                                                            <th key={hIdx} className="p-4 text-[13px] font-black text-[#001A33] uppercase tracking-wider border-b border-gray-100">{header}</th>
-                                                        ))}
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    {section.table.rows.map((row: string[], rIdx: number) => (
-                                                        <tr key={rIdx} className="hover:bg-gray-50/50 transition-colors">
-                                                            {row.map((cell: string, cIdx: number) => (
-                                                                <td key={cIdx} className="p-4 text-[15px] font-medium text-gray-600 border-b border-gray-50">{cell}</td>
+                                        {section.table && (
+                                            <div className="mt-8 overflow-x-auto rounded-2xl border border-gray-100 shadow-sm">
+                                                <table className="w-full text-left border-collapse">
+                                                    <thead>
+                                                        <tr className="bg-gray-50">
+                                                            {section.table.headers.map((header: string, hIdx: number) => (
+                                                                <th key={hIdx} className="p-4 text-[13px] font-black text-[#001A33] uppercase tracking-wider border-b border-gray-100">{header}</th>
                                                             ))}
                                                         </tr>
-                                                    ))}
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    )}
-                                </article>
-                            ))}
+                                                    </thead>
+                                                    <tbody>
+                                                        {section.table.rows.map((row: string[], rIdx: number) => (
+                                                            <tr key={rIdx} className="hover:bg-gray-50/50 transition-colors">
+                                                                {row.map((cell: string, cIdx: number) => (
+                                                                    <td key={cIdx} className="p-4 text-[15px] font-medium text-gray-600 border-b border-gray-50">{cell}</td>
+                                                                ))}
+                                                            </tr>
+                                                        ))}
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        )}
+                                    </article>
+                                );
+                            })}
                         </div>
 
                         {/* FAQ Section */}
