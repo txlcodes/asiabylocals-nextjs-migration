@@ -3266,6 +3266,71 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                             ];
                           }
 
+                          if (slug === 'female-guide-for-taj-mahal') {
+                            return [
+                              {
+                                question: "Are female guides licensed by government?",
+                                answer: "Yes, all our female guides for the Taj Mahal are **government-approved (ASI-licensed)**. They undergo rigorous training and background checks by the Ministry of Tourism, Government of India, ensuring you receive authentic historical information from a verified professional."
+                              },
+                              {
+                                question: "Can I request specific language?",
+                                answer: "Absolutely. While English is the default, you can request a [female guide for Taj Mahal](/india/agra/female-guide-for-taj-mahal) who speaks **Spanish, French, German, Italian, or Japanese**. Please specify your preferred language during booking so we can assign the most suitable expert for your group."
+                              },
+                              {
+                                question: "Is this suitable for solo female travelers?",
+                                answer: "This tour is specifically engineered for **solo female travelers** seeking an extra layer of comfort and safety in India. A female guide provides a secure environment while navigating the monument's crowds and security queues, allowing you to focus entirely on the architectural beauty of the Taj Mahal."
+                              },
+                              {
+                                question: "Can guide assist with saree draping photos?",
+                                answer: "Yes, your guide can assist with **basic saree draping** and photo coordination. Many of our female guests choose to wear traditional Indian attire for their visit, and having a female guide ensures you have someone who understands the nuances of the drape and knows exactly which [photography spots](/india/agra/taj-mahal-photography-tour) offer the best background for your shots."
+                              },
+                              {
+                                question: "Is cultural sensitivity maintained?",
+                                answer: "Cultural sensitivity is a core pillar of our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) services. Female guides offer a deep, empathetic understanding of local customs, traditions, and the spiritual significance of the site, ensuring that your interactions with the local environment are respectful and meaningful."
+                              },
+                              {
+                                question: "Are guides trained in history formally?",
+                                answer: "Yes, our guides are **formally trained historians** with university degrees in History or Archeology. They specialize in Mughal history and can provide a deep-dive analysis of the pietra dura marble inlay, the Persian garden layout, and the political motivations behind the Taj Mahal's construction."
+                              },
+                              {
+                                question: "Can female guide handle family groups?",
+                                answer: "Definitely. Female guides are exceptionally skilled at handling **multi-generational family groups**. They are patient with children and can adapt their storytelling style to engage all age groups, making the history of the Taj Mahal accessible and interesting for both kids and adults."
+                              },
+                              {
+                                question: "Is there extra charge compared to male guide?",
+                                answer: "No, we maintain **pricing parity**. There is no surcharge for requesting a female guide. Every [AsiaByLocals tour](/india/agra/things-to-do-in-agra) is priced based on the expertise and licensing of the individual, regardless of gender."
+                              },
+                              {
+                                question: "Can I request modest storytelling approach?",
+                                answer: "Yes, you can request a **modest storytelling approach** that focuses on the architectural and historical facts while respecting cultural boundaries. Our guides are flexible and will calibrate their narrative style to match your party's comfort level and interests."
+                              },
+                              {
+                                question: "Are guides safe and verified?",
+                                answer: "Your safety is our top priority. Every guide is **personally verified** by AsiaByLocals and holds a valid government ID. We only work with professionals who have established a multi-year track record of excellence and safety with international travelers."
+                              },
+                              {
+                                question: "Can guide help avoid local scams?",
+                                answer: "Yes, your guide acts as your **logistical shield**, protecting you from unauthorized photographers, aggressive street vendors, and common local scams at the monument entrance. They ensure you pay the correct [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) and navigate the security check without unnecessary delays."
+                              },
+                              {
+                                question: "Can we customize duration?",
+                                answer: "Yes, as this is a **private tour**, the duration is fully customizable. While a standard visit takes 2-3 hours, we can extend it for serious photographers or shorten it for travelers on a tight [1-day Agra itinerary](/india/agra/1-day-agra-itinerary)."
+                              },
+                              {
+                                question: "Can she recommend safe cafes?",
+                                answer: "Certainly. Your guide can recommend **safe, hygienic cafes and restaurants** that meet international standards. Whether you want a rooftop cafe with a Taj view or a clean, traditional Mughal dining room, she will ensure you have a safe and authentic culinary experience."
+                              },
+                              {
+                                question: "Is photography assistance included?",
+                                answer: "While they are not professional photographers, our guides are experts at finding the **best symmetry points and lighting**. They are happy to help you capture those iconic photos on your smartphone or camera, ensuring you don't miss those essential \"reflection pool\" shots."
+                              },
+                              {
+                                question: "Can guide assist elderly women travelers?",
+                                answer: "Yes, our female guides are trained to provide a **gentle and patient pace** for elderly women travelers. They can arrange for electric carts, identify resting spots with shade, and ensure the walking route inside the monument avoids strenuous steps where possible."
+                              }
+                            ];
+                          }
+
                           if (slug === 'taj-mahal-entry-ticket') {
                             return [
                               {
