@@ -35,6 +35,8 @@ import {
 } from 'lucide-react';
 import BookingForm from './BookingForm';
 import RelatedTours from './RelatedTours';
+import Breadcrumbs from './Breadcrumbs';
+import Footer from './Footer';
 import { Helmet } from 'react-helmet-async';
 
 interface TourDetailPageProps {
@@ -1415,49 +1417,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     }
   };
 
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#10B981] mx-auto mb-4"></div>
-          <p className="text-gray-600 font-semibold">Loading tour...</p>
-          <p className="text-gray-400 text-sm mt-2">Slug: {tourSlug || 'none'}</p>
-        </div>
-      </div>
-    );
-  }
-
-  if (error || !tour) {
-    return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center max-w-md px-6">
-          <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour not found</h2>
-          <p className="text-gray-500 font-semibold mb-2">{error || 'The tour you\'re looking for doesn\'t exist.'}</p>
-          <p className="text-gray-400 text-sm mb-6">Slug: {tourSlug || 'none'}</p>
-          {country && city && (
-            <a
-              href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`}
-              className="text-[#10B981] font-bold hover:underline"
-            >
-              ← Back to {city} tours
-            </a>
-          )}
-        </div>
-      </div>
-    );
-  }
-
-  // Safety check - ensure tour exists before accessing properties
-  if (!tour) {
-    return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center">
-          <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour not found</h2>
-          <p className="text-gray-500 font-semibold mb-6">The tour data could not be loaded.</p>
-        </div>
-      </div>
-    );
-  }
+  // Initial state checks are now handled within the main render to ensure header/footer are visible for SEO
 
   // Parse images safely - handle both array and JSON string formats
   let mainImage = null;
@@ -1501,11 +1461,132 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     const slug = tour?.slug;
 
     // Use the same logic as the render section to get the high-authority FAQs
-    if (slug === 'taj-mahal-sunrise-tour') {
+    if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour') {
+      const isSkipLine = slug === 'taj-mahal-sunrise-tour';
+      const tourLabel = isSkipLine ? "Taj Mahal Sunrise Tour (Skip-the-line version)" : "Taj Mahal Sunrise Tour";
+      const tourPath = isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour";
+
       return [
-        { question: "What time is hotel pickup for sunrise tour in Agra?", answer: "Typically, hotel pickup in Agra for our sunrise tour occurs between 5:15 AM and 5:45 AM, calculated specifically to ensure you reach the monument gates approximately 15 minutes before the first light touches the white marble. During the peak summer months of April to June, the sun rises significantly earlier, necessitating the 5:15 AM start. Conversely, in the winter months of December and January, we might adjust this slightly later based on visibility protocols. We prioritize being among the first in the security queue because the atmosphere of the 'Blue Hour'—the period just before technical sunrise—offers a unique, ethereal stillness that mid-day visitors never experience." },
-        { question: "Which Taj Mahal gate do we enter for sunrise?", answer: "We almost exclusively utilize the East Gate for our sunrise expeditions. Logistically, the East Gate is positioned closest to the majority of high-end hotel clusters and offers a more streamlined queueing experience compared to the busier West Gate, which serves the dense local market areas. The East Gate features dedicated security lanes for high-value pre-booked digital tickets, which our guides use to expedite your entrance. Additionally, the parking area for the East Gate is well-connected by electric battery buses, which provide a pleasant 5-minute ride to the main entrance, saving you from a long walk in the early morning humidity." },
-        { question: "Does skip-the-line mean skipping security too?", answer: "It is critical to understand that 'Skip-The-Line' applies specifically to the official ASI ticket window, which can often have queues exceeding 60 minutes during peak season. It does NOT allow any visitor to bypass the mandatory security screening conducted by the Central Industrial Security Force (CISF). Every visitor, regardless of ticket status, must pass through metal detectors and physical baggage checks as per national safety guidelines. To ensure the fastest possible throughput, we recommend bringing only your phone, camera, and a bottle of water." }
+        {
+          question: "What is the first entry time allowed by ASI?",
+          answer: `The Archaeological Survey of India (ASI) officially opens the Taj Mahal gates exactly **30 minutes before sunrise**. This entry time is strictly enforced to ensure the security personnel from the CISF are in position. For most of the year, this equates to approximately 5:30 AM or 6:00 AM. Many visitors ask if they can enter earlier to beat the crowds, but the ASI protocols are rigid. By booking a [${tourLabel}](${tourPath}), you ensure that our guides have you in the very first segment of the security queue. This strategic positioning is vital because even a 10-minute delay can result in hundreds of people entering before you, potentially obstructing those pristine, reflection-pool views that make the early wake-up call so rewarding for international travelers.`
+        },
+        {
+          question: "Is sunrise timing different in summer vs winter?",
+          answer: "Yes, sunrise timing in Agra fluctuates dramatically between the seasons, impacting your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) schedule. During the intense summer months of May and June, the sun breaks the horizon as early as 5:15 AM, necessitating a 4:30 AM hotel departure. Conversely, in the peak of winter (December and January), sunrise can be as late as 7:15 AM. We constantly monitor the official [sunrise timing](/india/agra/taj-mahal-opening-time) to calibrate our pickup times perfectly. While summer offers clear skies and sharp shadows, winter often brings a mystical morning fog that creates a dream-like atmosphere. Regardless of the month, our local experts ensure you are through the security gates the moment the ASI allows, allowing you to witness the white marble transition from cool lavender to a warm, golden glow as the light intensity changes."
+        },
+        {
+          question: "How early should we reach for best photography?",
+          answer: "To capture professional-grade photography without the interference of massive crowds, you should aim to reach the security gates at least **30 to 45 minutes before the gates open**. In the world of high-authority travel photography, the \"Blue Hour\"—the period just before technical sunrise—is considered the platinum window for long-exposure shots of the reflecting pools. Many travelers believe arriving at 6:00 AM is sufficient, but by then, the queue at the East Gate can already be quite long. As your specialized local partner, we prioritize early arrival tactics. Our guides know the exact \"symmetry points\" where the light hits the dome first. By being among the first 50 people inside, you can secure that iconic, unobstructed shot of the mausoleum perfectly mirrored in the water."
+        },
+        {
+          question: "Is Taj Mahal closed on Fridays?",
+          answer: "The Taj Mahal is closed to the public every Friday. This closure is a long-standing tradition to allow local residents to use the 17th-century mosque located within the complex for afternoon prayers. If you are planning an [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) exploration, ensure you do not schedule your visit for a Friday, as the gates will remain firmly locked to all tourists. However, Friday can still be a productive day; you can visit the Agra Fort or the Baby Taj. For those desperate for a view, the Mehtab Bagh (Moonlight Garden) remains open on Fridays and provides a stunning perspective of the Taj Mahal from across the Yamuna River during sunset. Our [1-day itinerary](/india/agra/1-day-agra-itinerary) planners always double-check these dates to prevent any disappointment."
+        },
+        {
+          question: "What should I wear for sunrise visit?",
+          answer: "Choosing the right attire is essential for both comfort and respect. Since the sunrise visit starts in the dark, temperatures can be 5-10°C cooler than the afternoon. We recommend a \"smart layering\" strategy: a light jacket or pashmina that you can easily remove once the sun rises. We advise dressing modestly (shoulders and knees covered) to maintain the sanctity of the site. Comfortable walking shoes are a must, as you will be covering roughly 3-4 kilometers of marble and sandstone paths. Don't worry about removing your shoes on the main platform; our tours include high-quality [shoe covers](/india/agra/taj-mahal-ticket-price-2026) that allow you to keep your footwear on while exploring the interior cenotaph chamber of Shah Jahan and Mumtaz Mahal."
+        },
+        {
+          question: "Is there morning prayer during sunrise?",
+          answer: `While the Taj Mahal complex houses a red sandstone mosque on its western side, there is no loud, public morning prayer (Adhan) broadcast within the gardens during the standard tourist sunrise hours. The mosque is primarily used for private prayers by authorized personnel and locals on Fridays. However, you will often notice a profound, spiritual stillness during the early hours. The only sounds you'll hear are the waking birds in the Charbagh gardens and the soft footsteps of other sunrise enthusiasts. This provides a contemplative environment where our guides can share the architectural and romantic history of the monument without being drowned out by the mid-day bustle, making the [${tourLabel}](${tourPath}) experience feel truly exclusive and personal.`
+        },
+        {
+          question: "Is the Taj Mahal Sunrise Tour worth the 4:30 AM wake-up call?",
+          answer: "Waking up at 4:30 AM is truly necessary and is the only way to experience the Taj Mahal's soul. By arriving at sunrise, you bypass the 40°C afternoon heat and the 40,000+ daily visitors who saturate the complex by noon. The value of seeing the marble change color in near-silence far outweighs an extra two hours of sleep. This is a once-in-a-lifetime moment where the \"platinum light\" of the Golden Hour allows for photos that look like postcards. When you weigh the minor inconvenience of an early start against the intellectual and visual reward of an unobstructed view, the answer is a resounding yes. It is the tactical choice for any serious globetrotter following a premium [agra travel guide 2026](/india/agra/agra-travel-guide-2026)."
+        },
+        {
+          question: "Is it worth booking a private guide for the sunrise tour instead of going solo?",
+          answer: "A private, ASI-licensed guide is absolutely worth it because they act as your logistical shield and navigate the complex CISF security protocols for you. Beyond logistics, having a historian explain the pietra dura marble inlay and the optical illusions of the calligraphy transforms a \"pretty building\" into a masterpiece of 17th-century engineering. Without a guide, you are essentially just looking at marble; with us, you are experiencing the political and romantic legacy of the Mughal Empire. For the price of a dinner, you gain a deep, high-authority educational experience that makes your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) truly meaningful. It settles all objections regarding the complexity of the site."
+        },
+        {
+          question: "Is it worth visiting Agra just for the sunrise tour?",
+          answer: "Many of our guests specifically book a [Delhi to Agra day trip](/india/agra/1-day-agra-itinerary) just to witness this one specific sunrise moment—and they never regret it. The Taj Mahal at dawn is an emotional experience that justifies the entire trip to India for many. The sheer scale and symmetry, revealed slowly through the morning mist or the first clear light, is a visual payload that mid-day tours simply cannot deliver. By focusing your energy on the sunrise, you capture the \"prime time\" of the city and can even be back in Delhi or at your next destination by mid-afternoon. If you only have 24 hours in Northern India, the sunrise tour is the highest-value investment of your time and travel budget compared to any other [things to do in Agra](/india/agra/things-to-do-in-agra)."
+        }
+      ];
+    }
+    if (slug === 'taj-mahal-agra-fort-guided-tour') {
+      return [
+        {
+          question: "How long does the Taj Mahal & Agra Fort tour take?",
+          answer: "A comprehensive [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) typically requires **4 to 6 hours** of active exploration. This duration is strategically designed to allow for a deep-dive into the architectural nuances and historical narratives of two UNESCO World Heritage sites. We usually dedicate approximately 3 hours to the Taj Mahal to appreciate the light transitions on the marble and the symmetry of the gardens, followed by another 2 hours at the Agra Fort to explore the royal pavilions and military ramparts. By booking this combined experience, you ensure a high-authority educational journey that captures the essence of the Mughal Empire's zenith without the stress of independent navigation."
+        },
+        {
+          question: "Which monument do we visit first during the combined tour?",
+          answer: "To maximize your visual and physical comfort, we always recommend visiting the **Taj Mahal first**. Starting your day at sunrise or shortly after the gates open is the most tactical decision you can make, as it allows you to beat the 40,000+ daily visitors and the intense afternoon heat that can reach 45°C in summer. Once we have captured those iconic reflecting-pool photos in the \"Golden Hour\" light, we proceed to the Agra Fort. Since the Fort is built largely of thick red sandstone, it provides much better natural shade and remains relatively cooler than the open-air marble platforms of the Taj, making the late-morning transition comfortable and productive."
+        },
+        {
+          question: "How far is the Agra Fort from the Taj Mahal?",
+          answer: "The physical distance between these two legendary monuments is surprisingly short, approximately **2.5 kilometers (1.5 miles)**. Under standard traffic conditions in the historical zone, the transition takes about 10 to 15 minutes in our private vehicle. This proximity is exactly why the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is the most popular choice for travelers on a restricted [1-day Agra itinerary](/india/agra/1-day-agra-itinerary). Despite being so close, the two sites offer vastly different architectural atmospheres—one being a romantic mausoleum and the other a fortified royal city. Our seamless transport between these points ensures you don't waste precious time or energy on the busy city streets."
+        },
+        {
+          question: "Is transport included between the monuments?",
+          answer: "Yes, our premium service level includes **dedicated private transportation** between the Taj Mahal and the Agra Fort. We use modern, air-conditioned vehicles to provide a sanctuary from the bustle and dust of Agra's streets during the short transition. Many budget travelers attempt to use cycle-rickshaws or walk, but our high-authority advice is to utilize private transport to maintain your energy levels for the extensive walking required inside the monuments themselves. Having a driver wait for you at the exit gates of the Taj Mahal and drop you exactly at the entrance of the Fort is a major logistical advantage that defines the premium quality of our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) services."
+        },
+        {
+          question: "Are entry tickets included for both sites?",
+          answer: "We offer **fully customizable options** regarding admission. You can choose a \"Guided Only\" package if you prefer to buy your own tickets using your phone, or a \"Full Package\" where we pre-purchase the digital ASI tickets for you. If you choose the inclusion option, we handle all the technicalities of the [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) system for both the Taj Mahal and the Agra Fort. This ensures you have the correct high-value tickets for the main mausoleum entry and avoids any confusion at the turnstiles. Please note that the \"Mausoleum\" entry is an additional fee on top of the base Taj Mahal ticket, and we ensure this is always included in our full-service bookings."
+        },
+        {
+          question: "What is the difference between Taj Mahal and Agra Fort architecture?",
+          answer: "The architectural contrast is profound: the Taj Mahal is the pinnacle of **Indo-Islamic funerary architecture**, characterized by its ethereal white Makrana marble, delicate pietra dura stone inlay, and perfect bilateral symmetry. In contrast, the Agra Fort is a massive **military and residential citadel** built primarily of rugged red sandstone. While the Taj Mahal represents the romantic and spiritual side of the Mughal Empire, the Agra Fort showcases its political and military power through 70-foot high ramparts and defensive moats. Inside the Fort, however, you will find delicate white marble palaces like the Khas Mahal, which served as the precursor to the Taj's style. This architectural evolution is a core focus of our [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour)."
+        },
+        {
+          question: "Can we see the Taj Mahal from the Agra Fort?",
+          answer: "Absolutely, and it is one of the most poignant moments of the entire experience. From the **Musamman Burj** (an octagonal tower) within the Agra Fort, you can enjoy a stunning, framed view of the Taj Mahal sitting across the Yamuna River. This is the exact spot where Emperor Shah Jahan was reportedly imprisoned by his son, Aurangzeb, spendng the final eight years of his life gazing at the monument he built for his wife. This high-authority historical site provides a unique perspective that you cannot get from the Taj's own gardens. Our guides will help you find the best vantage points for photography, ensuring you capture that iconic \"view from the balcony\" that is essential for any [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) collection."
+        },
+        {
+          question: "Is the Agra Fort wheelchair accessible?",
+          answer: "The Agra Fort is partially accessible, though it presents more challenges than the Taj Mahal. The main entrance at Amar Singh Gate has a **steep ramp** that requires a strong assistant or motorized help. Many of the interior courtyards are paved with flat stone and are accessible, but certain high-value areas like the interior of the Jahangiri Mahal have small steps. However, as local experts, we have designed specific \"accessibility paths\" that bypass the most difficult stairs. If you or a family member uses a wheelchair, please notify us during booking so we can arrange additional assistance and ensure your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is comfortable. Most of the primary palaces can be viewed from the courtyards without needing to climb steps."
+        },
+        {
+          question: "Is this tour too long or strenuous for elderly visitors?",
+          answer: "We pride ourselves on creating a **flexible and senior-friendly pace**. While the combined tour involves significant walking (approx. 4-5 km total), we utilize electric carts for the 1km approach to the Taj Mahal to save your energy. Within the monuments, our guides are trained to identify seating areas and shade where you can rest while they share historical anecdotes. If you feel tired after the Taj Mahal, we can customize the Agra Fort segment to focus only on the main palaces near the entrance, skipping the more military-style hiking. This ability to dial the intensity up or down is why our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) approach is highly rated by multi-generational families who want to experience history without exhaustion."
+        },
+        {
+          question: "Are both monuments official UNESCO World Heritage sites?",
+          answer: "Yes, both the Taj Mahal and the Agra Fort are prestigious **UNESCO World Heritage Sites**, designated in 1983. They are considered the \"twin pillars\" of Mughal history in India. The Taj Mahal is recognized for being the \"jewel of Muslim art in India,\" while the Agra Fort is honored for its status as a major 16th-century Mughal monument of red sandstone. Visiting both on a single [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is logically consistent because their histories are inextricably linked. The Fort was the seat of power where the decisions to build the Taj were made. Experiencing both UNESCO sites together provides the high-authority educational context needed to understand why the Mughal Empire remains such a fascinating chapter of global history."
+        },
+        {
+          question: "Can we add Mehtab Bagh (Moonlight Garden) to this tour?",
+          answer: "We can certainly add a visit to **Mehtab Bagh** as a \"sunset finale\" to your combined tour. Located directly across the Yamuna River from the Taj Mahal, this 25-acre garden complex offers the perfect symmetrical view of the mausoleum without the crowds. It is particularly valuable on Fridays when the Taj is closed, or for photographers who want the \"rear view\" of the monument reflected in the river. Adding this site extends the tour by about 1 hour and requires a short drive across the river bridge. For many travelers, this is the ultimate objection-killer because it allows for a peaceful, long-distance appreciation of the monument after the close-up intensity of the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour)."
+        },
+        {
+          question: "Are guides allowed to enter inside the Agra Fort with us?",
+          answer: "Yes, our **ASI-licensed guides** are fully authorized to accompany you inside every accessible area of the Agra Fort, including the Diwan-i-Aam (Hall of Public Audience) and the royal pavilions. Unlike some countries where site-specific guides are required, our guides stay with you throughout the entire 5-hour journey. This continuity is vital for a high-authority experience, as the guide can draw direct comparisons between the architecture of the Taj Mahal and the Fort. They will navigate the complex security gates and interior paths for you, ensuring you don't miss the hidden gems like the Anguri Bagh (Grape Garden) or the Gem Mosque. Their presence ensures your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) remains educational and logistically smooth from start to finish."
+        },
+        {
+          question: "Is there a lunch stop included in the combined tour?",
+          answer: "While lunch is not strictly part of the \"monument time,\" we always build in a **flexible lunch break** between the Taj Mahal and the Agra Fort. We have a curated list of high-authority restaurant partners ranging from traditional Mughal thali spots to modern international cafes with views of the Taj. We avoid the \"tourist trap\" buffets that many large bus tours frequent, instead focusing on clean, authentic establishments that meet international hygiene standards. This break is essential for hydration and rest, allowing you to process the morning's history before tackling the Fort. If you are on a tight [1-day Agra itinerary](/india/agra/1-day-agra-itinerary), we can arrange a quick but high-quality meal to keep the day moving efficiently without sacrificing quality."
+        },
+        {
+          question: "What is the best season for a combined Taj and Fort tour?",
+          answer: "The \"Platinum Window\" for visiting Agra is from **October to March**. During these months, the weather is pleasantly cool with clear blue skies, making the extensive walking required for the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) very easy. December and January can bring morning fog, which adds a mystical atmosphere to the Taj but may delay sunrise views. Conversely, the summer months (April to June) are extremely hot, with temperatures often exceeding 40°C, necessitating a very early 5:30 AM start. Monsoon season (July to September) brings humidity and occasional heavy rain, but also results in lush, green gardens and fewer tourists. We calibrate our pickup times and tour intensity based on the specific month of your visit to ensure maximum comfort."
+        },
+        {
+          question: "Can we shorten the Agra Fort visit if we feel tired?",
+          answer: "Absolutely. One of the primary benefits of a **private guided tour** is that it is 100% adaptable to your energy levels. If you feel that you've reached your \"historical limit\" after the Taj Mahal, we can pivot to a \"Highlights Only\" version of the Agra Fort. This focuses on the most spectacular palaces located close to the entrance, reducing the walking distance by half while still allowing you to see the famous Musamman Burj view of the Taj. We never force our guests to follow a rigid schedule; if you'd rather trade an hour of fort-walking for a relaxed coffee or some souvenir shopping in the local bazaars, our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) planners will make it happen seamlessly. Your comfort is our highest priority."
+        },
+        {
+          question: "Is photography allowed inside the Agra Fort?",
+          answer: "Yes, **photography is permitted** throughout most of the Agra Fort complex for personal use. You are encouraged to capture the intricate carvings and the stunning river views. However, please note that there are two specific restrictions: first, professional equipment like tripods and large lighting rigs requires a separate, expensive permit from the ASI. Second, like the Taj Mahal, photography is generally prohibited inside the very small, specific religious prayer areas (mosques) if they are in active use. For the most part, you can freely document your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) with your camera or smartphone. Our guides know the exact \"symmetry spots\" where you can get professional-looking photos without other tourists in the frame, making your social media posts truly high-authority."
+        },
+        {
+          question: "Are large bags allowed inside the monuments?",
+          answer: "No, both the Taj Mahal and the Agra Fort have **strict security protocols** that prohibit large backpacks, suitcases, or heavy bags. Only small ladies' handbags or small day-packs containing essentials like water, cameras, and wallets are permitted. Prohibited items include tobacco, lighters, knives, chargers, and food. To simplify your visit, we recommend leaving all non-essential items in our private vehicle, which remains parked in a secure zone with our driver. This \"clean-entry\" strategy allows you to breeze through the CISF security checks and start your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) without the hassle of using the monument locker rooms, which can have long queues. This is a vital tactical tip for maintaining a smooth pace during your visit."
+        },
+        {
+          question: "Is this a private tour or a shared group tour?",
+          answer: "This experience is **strictly a private tour**, meaning you will have your own dedicated ASI-licensed guide and private vehicle. We do not consolidate individual bookings into large groups. This private format is the only way to deliver a high-authority, personalized experience where you can ask as many questions as you like and move at your own pace. Whether you are a solo traveler, a couple on a honeymoon, or a large family, the tour is tailored exclusively to your group. This settles the common objection of being \"stuck\" with a slow group or missing out on details because the guide is too far away. By choosing our [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour), you are investing in a premium, 1-on-1 educational session that respects your time and interests."
+        },
+        {
+          question: "Is the combined Taj Mahal and Agra Fort tour worth the price?",
+          answer: "When you consider the logistical complexity of navigating Agra's traffic and the dense history of these sites, the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is **the highest-value investment** you can make for your India trip. Attempting to see both sites independently often results in \"temple fatigue\" and wasted hours in ticket queues or negotiating with local transport. By booking this expert-led combined tour, you gain a seamless narrative that connects the dots between a lover's tomb and a royal fortress. The \"intellectual payload\" you receive from a historian-guide transforms these monuments from mere stone structures into living stories. When you factor in the private transport, the skip-the-line ticket assistance, and the climate-controlled comfort, the value-to-cost ratio is overwhelmingly positive for any serious globetrotter."
+        },
+        {
+          question: "Is it worth seeing the Agra Fort if I've already seen the Red Fort in Delhi?",
+          answer: "While both are Mughal masterpieces, many historians consider the **Agra Fort to be far superior** in terms of architectural preservation and intricate detail. While the Delhi Red Fort is impressive for its massive walls, the interior palaces of the Agra Fort (like the Khas Mahal and Shish Mahal) are much more intact and offer better examples of the transition from sandstone to marble. Furthermore, the unique \"Taj-view\" perspectives available only from the Agra Fort make it an essential companion piece to the mausoleum itself. If you only visit the Taj Mahal without the Fort, you are only getting half of the Mughal story. For anyone following a premium [agra travel guide 2026](/india/agra/agra-travel-guide-2026), the Agra Fort is a non-negotiable inclusion that provides deep historical context and unparalleled photography opportunities."
+        }
       ];
     }
     if (slug === 'taj-mahal-entry-ticket') {
@@ -1602,1512 +1683,1441 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
         </div>
       </header>
 
-      <div className="max-w-7xl mx-auto px-6 py-8">
-        {/* Breadcrumb */}
-        {country && city && (
-          <nav className="mb-6 text-[14px] font-semibold text-gray-600">
-            <a href="/" className="hover:text-[#10B981] transition-colors">Home</a>
-            <span className="mx-2">/</span>
-            <a href={`/${country.toLowerCase().replace(/\s+/g, '-')}`} className="hover:text-[#10B981] transition-colors capitalize">{country}</a>
-            <span className="mx-2">/</span>
-            <a href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`} className="hover:text-[#10B981] transition-colors capitalize">{city}</a>
-            <span className="mx-2">/</span>
-            <span className="text-[#001A33]">{tour.title}</span>
-          </nav>
-        )}
+      <main className="flex-grow">
+        <div className="max-w-7xl mx-auto px-6 py-8">
+          {/* Breadcrumb - Always rendered if country and city are available, even while loading */}
+          <Breadcrumbs
+            country={country}
+            city={city}
+            tourTitle={tour?.title}
+          />
 
-        {/* Internal Link: Explore More Tours in City (SEO Cluster) */}
-        {country && city && (
-          <div className="mb-8 p-6 bg-gray-50 rounded-xl border border-gray-200">
-            <p className="text-[16px] text-gray-700 font-semibold mb-3">
-              Explore more guided tours in <a href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`} className="text-[#10B981] font-black hover:underline">{city}</a>
-            </p>
-            <a
-              href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`}
-              className="inline-flex items-center gap-2 text-[#10B981] font-black hover:text-[#059669] transition-colors"
-            >
-              View all {city} tours
-              <ChevronRight size={18} />
-            </a>
-          </div>
-        )}
-
-        {/* Title & Rating Section */}
-        <div className="mb-6">
-          <div className="flex items-start justify-between mb-4">
-            <div className="flex-1">
-              <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
-                {tour.title}
-              </h1>
-              <div className="flex items-center gap-4 flex-wrap">
-                <div className="flex items-center gap-2">
-                  <span className="px-2 py-1 bg-[#10B981] text-white text-[12px] font-black rounded">
-                    Top rated
-                  </span>
-                  <div className="flex items-center gap-1">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} size={16} className="text-yellow-400 fill-yellow-400" />
-                    ))}
-                  </div>
-                  <span className="text-[16px] font-black text-[#001A33]">
-                    {(() => {
-                      // Generate consistent rating between 4.0-5.0 based on tour ID
-                      const seed = parseInt(tour.id) || 0;
-                      const random = (seed * 9301 + 49297) % 233280;
-                      const normalized = random / 233280;
-                      const rating = 4.0 + (normalized * 1.0);
-                      return rating.toFixed(1);
-                    })()}
-                  </span>
-                </div>
-                <div className="text-[14px] text-gray-600 font-semibold">
-                  Activity provider: {tour.supplier?.fullName || tour.supplier?.companyName || 'Local Guide'}
-                </div>
+          {loading ? (
+            <div className="py-24 flex flex-col items-center justify-center">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#10B981] mb-6"></div>
+              <p className="text-gray-600 font-black text-xl">Loading amazing experiences...</p>
+              <p className="text-gray-400 font-semibold mt-2">Preparing your tour to {city || 'your destination'}</p>
+            </div>
+          ) : error || !tour ? (
+            <div className="py-24 text-center max-w-2xl mx-auto px-6">
+              <div className="w-20 h-20 bg-red-50 text-red-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <AlertCircle size={40} />
               </div>
-
-              {/* High-Conversion Feature Bar for Entry Tickets */}
-              {(tour.category === 'Entry Ticket' || tour.title.toLowerCase().includes('ticket')) && (
-                <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3">
-                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
-                    <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
-                      <Zap size={16} fill="white" />
-                    </div>
-                    <div>
-                      <div className="text-[13px] font-black text-[#001A33]">Skip the ticket line</div>
-                      <div className="text-[11px] text-gray-500 font-semibold">Avoid long queues</div>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
-                    <div className="w-8 h-8 rounded-full bg-[#25D366] flex items-center justify-center text-white shrink-0">
-                      <MessageCircle size={16} fill="white" />
-                    </div>
-                    <div>
-                      <div className="text-[13px] font-black text-[#001A33]">Instant WhatsApp PDF</div>
-                      <div className="text-[11px] text-gray-500 font-semibold">Safe on your phone</div>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
-                    <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
-                      <ShieldCheck size={16} fill="white" />
-                    </div>
-                    <div>
-                      <div className="text-[13px] font-black text-[#001A33]">Official Admission</div>
-                      <div className="text-[11px] text-gray-500 font-semibold">100% Guaranteed Entry</div>
-                    </div>
-                  </div>
-                </div>
+              <h2 className="text-3xl font-black text-[#001A33] mb-4">Tour details unavailable</h2>
+              <p className="text-gray-600 text-[18px] font-semibold mb-8">
+                {error || 'We couldn\'t load the specific tour details at this moment. This might be due to a temporary connection issue or the tour no longer being active.'}
+              </p>
+              {country && city && (
+                <a
+                  href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`}
+                  className="inline-flex items-center gap-2 px-8 py-4 bg-[#10B981] text-white font-black rounded-2xl hover:bg-[#059669] transition-all shadow-lg"
+                >
+                  <ChevronLeft size={20} />
+                  Explore other tours in {city}
+                </a>
               )}
             </div>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          {/* Left Column - Images & Details */}
-          <div className="lg:col-span-2">
-            {/* Image Gallery - GetYourGuide Style: Main image left, 2 thumbnails right */}
-            <div className="grid grid-cols-3 gap-2 h-[500px] overflow-hidden relative mb-12">
-              {mainImage && (
-                <div
-                  className="col-span-2 relative cursor-pointer group overflow-hidden rounded-2xl h-[500px]"
-                  onClick={() => {
-                    setSelectedImageIndex(0);
-                    setShowImageModal(true);
-                  }}
-                >
-                  <img
-                    src={mainImage}
-                    alt={tour.title}
-                    className="w-full h-[500px] object-cover rounded-2xl"
-                  />
-                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
+          ) : (
+            <>
+              {/* Internal Link: Explore More Tours in City (SEO Cluster) */}
+              {country && city && (
+                <div className="mb-8 p-6 bg-[#10B981]/5 rounded-2xl border border-[#10B981]/10">
+                  <p className="text-[16px] text-gray-700 font-semibold mb-3">
+                    Explore more curated experiences in <a href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`} className="text-[#10B981] font-black hover:underline">{city}</a>
+                  </p>
+                  <a
+                    href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`}
+                    className="inline-flex items-center gap-2 text-[#10B981] font-black hover:text-[#059669] transition-colors"
+                  >
+                    View all {city} tours
+                    <ChevronRight size={18} />
+                  </a>
                 </div>
               )}
-              <div className="col-span-1 flex flex-col gap-2 h-[500px]">
-                {otherImages.slice(0, 2).map((image: string, index: number) => (
-                  <div
-                    key={index}
-                    className={`relative cursor-pointer group overflow-hidden rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
-                      }`}
-                    onClick={() => {
-                      setSelectedImageIndex(index + 1);
-                      setShowImageModal(true);
-                    }}
-                  >
-                    <img
-                      src={image}
-                      alt={`${tour.title} ${index + 2}`}
-                      className={`w-full object-cover rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
-                        }`}
-                    />
-                    {index === 1 && remainingImages > 0 && (
-                      <div className="absolute inset-0 bg-black/60 rounded-2xl flex items-center justify-center pointer-events-none z-10">
-                        <div className="text-center">
-                          <div className="text-white font-black text-[24px] mb-1">+{remainingImages}</div>
-                          <div className="text-white text-[12px] font-bold">more</div>
+
+              {/* Title & Rating Section */}
+              <div className="mb-6">
+                <div className="flex items-start justify-between mb-4">
+                  <div className="flex-1">
+                    <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
+                      {tour.title}
+                    </h1>
+                    <div className="flex items-center gap-4 flex-wrap">
+                      <div className="flex items-center gap-2">
+                        <span className="px-2 py-1 bg-[#10B981] text-white text-[12px] font-black rounded">
+                          Top rated
+                        </span>
+                        <div className="flex items-center gap-1">
+                          {[...Array(5)].map((_, i) => (
+                            <Star key={i} size={16} className="text-yellow-400 fill-yellow-400" />
+                          ))}
+                        </div>
+                        <span className="text-[16px] font-black text-[#001A33]">
+                          {(() => {
+                            // Generate consistent rating between 4.0-5.0 based on tour ID
+                            const seed = parseInt(tour.id) || 0;
+                            const random = (seed * 9301 + 49297) % 233280;
+                            const normalized = random / 233280;
+                            const rating = 4.0 + (normalized * 1.0);
+                            return rating.toFixed(1);
+                          })()}
+                        </span>
+                      </div>
+                      <div className="text-[14px] text-gray-600 font-semibold">
+                        Activity provider: {tour.supplier?.fullName || tour.supplier?.companyName || 'Local Guide'}
+                      </div>
+                    </div>
+
+                    {/* High-Conversion Feature Bar for Entry Tickets */}
+                    {(tour.category === 'Entry Ticket' || tour.title.toLowerCase().includes('ticket')) && (
+                      <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3">
+                        <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
+                          <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
+                            <Zap size={16} fill="white" />
+                          </div>
+                          <div>
+                            <div className="text-[13px] font-black text-[#001A33]">Skip the ticket line</div>
+                            <div className="text-[11px] text-gray-500 font-semibold">Avoid long queues</div>
+                          </div>
+                        </div>
+                        <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
+                          <div className="w-8 h-8 rounded-full bg-[#25D366] flex items-center justify-center text-white shrink-0">
+                            <MessageCircle size={16} fill="white" />
+                          </div>
+                          <div>
+                            <div className="text-[13px] font-black text-[#001A33]">Instant WhatsApp PDF</div>
+                            <div className="text-[11px] text-gray-500 font-semibold">Safe on your phone</div>
+                          </div>
+                        </div>
+                        <div className="flex items-center gap-3 p-3 bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl">
+                          <div className="w-8 h-8 rounded-full bg-[#10B981] flex items-center justify-center text-white shrink-0">
+                            <ShieldCheck size={16} fill="white" />
+                          </div>
+                          <div>
+                            <div className="text-[13px] font-black text-[#001A33]">Official Admission</div>
+                            <div className="text-[11px] text-gray-500 font-semibold">100% Guaranteed Entry</div>
+                          </div>
                         </div>
                       </div>
                     )}
-                    <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
                   </div>
-                ))}
+                </div>
               </div>
-            </div>
 
-            {/* Short Description */}
-            <div className="mb-8">
-              <p className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap">
-                {tour.shortDescription || tour.fullDescription}
-              </p>
-            </div>
-
-            {/* Highlights Section */}
-            {tour.highlights && Array.isArray(tour.highlights) && tour.highlights.length > 0 && (
-              <div className="mb-8 pt-12">
-                <h2 className="text-2xl font-black text-[#001A33] mb-4">Highlights</h2>
-                <ul className="space-y-2">
-                  {tour.highlights.map((highlight: string, index: number) => (
-                    <li key={index} className="flex items-start gap-3 border-b border-gray-100 pb-3 last:border-0 last:pb-0">
-                      <div className="w-2 h-2 bg-[#10B981] rounded-full mt-2.5 shrink-0"></div>
-                      <span className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap w-full">{highlight}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {/* Tour Options Section - GetYourGuide Style */}
-            {/* Show options - include main tour if it has group pricing */}
-            {(() => {
-              // Parse groupPricingTiers properly in render logic
-              let mainTourHasGroupPricing = false;
-              let mainTourGroupPricingTiers = null;
-
-              if (tour.groupPricingTiers) {
-                try {
-                  mainTourGroupPricingTiers = typeof tour.groupPricingTiers === 'string'
-                    ? JSON.parse(tour.groupPricingTiers)
-                    : tour.groupPricingTiers;
-                  mainTourHasGroupPricing = Array.isArray(mainTourGroupPricingTiers) && mainTourGroupPricingTiers.length > 0;
-                } catch (e) {
-                  console.error('Error parsing main tour groupPricingTiers:', e);
-                }
-              }
-
-              // Also check for legacy groupPrice + maxGroupSize
-              if (!mainTourHasGroupPricing && tour.groupPrice && tour.maxGroupSize) {
-                mainTourHasGroupPricing = true;
-              }
-
-              const shouldShowMainTourAsOption = mainTourHasGroupPricing;
-
-              // Create main tour option if needed
-              let allOptions = tour.options || [];
-              if (shouldShowMainTourAsOption && !allOptions.find((opt: any) => opt.id === 'main-tour')) {
-                const mainTourOption = {
-                  id: 'main-tour',
-                  tourId: tour.id,
-                  optionTitle: tour.title,
-                  optionDescription: tour.shortDescription || tour.fullDescription?.substring(0, 200) || '',
-                  durationHours: parseFloat(tour.duration?.replace(/[^0-9.]/g, '')) || 3,
-                  price: tour.pricePerPerson || 0,
-                  currency: tour.currency || 'INR',
-                  language: tour.languages?.[0] || 'English',
-                  pickupIncluded: false,
-                  entryTicketIncluded: false,
-                  guideIncluded: true,
-                  carIncluded: false,
-                  groupPrice: tour.groupPrice,
-                  maxGroupSize: tour.maxGroupSize,
-                  groupPricingTiers: mainTourGroupPricingTiers || tour.groupPricingTiers,
-                  sortOrder: -1
-                };
-                allOptions = [mainTourOption, ...allOptions];
-              }
-
-              // Sort options by sortOrder
-              allOptions = allOptions.sort((a: any, b: any) => (a.sortOrder || 0) - (b.sortOrder || 0));
-
-              if (allOptions.length > 0) {
-                return (
-                  <div className="mb-8" ref={optionsRef}>
-                    <h2 className="text-2xl font-black text-[#001A33] mb-6">Choose from {allOptions.length} available option{allOptions.length > 1 ? 's' : ''}</h2>
-                    <div className="space-y-4">
-                      {allOptions.map((option: any) => {
-                        const isSelected = selectedOption?.id === option.id;
-                        const currencySymbol = option.currency === 'USD' ? '$' : option.currency === 'EUR' ? '€' : '₹';
-
-                        return (
-                          <div
-                            key={option.id}
-                            className={`bg-white border-2 rounded-2xl p-6 transition-all ${isSelected
-                              ? 'border-[#10B981] shadow-lg'
-                              : 'border-gray-200 hover:border-[#10B981]/50 hover:shadow-md'
+              <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                {/* Left Column - Images & Details */}
+                <div className="lg:col-span-2">
+                  {/* Image Gallery - GetYourGuide Style: Main image left, 2 thumbnails right */}
+                  <div className="grid grid-cols-3 gap-2 h-[500px] overflow-hidden relative mb-12">
+                    {mainImage && (
+                      <div
+                        className="col-span-2 relative cursor-pointer group overflow-hidden rounded-2xl h-[500px]"
+                        onClick={() => {
+                          setSelectedImageIndex(0);
+                          setShowImageModal(true);
+                        }}
+                      >
+                        <img
+                          src={mainImage}
+                          alt={tour.title}
+                          className="w-full h-[500px] object-cover rounded-2xl"
+                        />
+                        <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
+                      </div>
+                    )}
+                    <div className="col-span-1 flex flex-col gap-2 h-[500px]">
+                      {otherImages.slice(0, 2).map((image: string, index: number) => (
+                        <div
+                          key={index}
+                          className={`relative cursor-pointer group overflow-hidden rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
+                            }`}
+                          onClick={() => {
+                            setSelectedImageIndex(index + 1);
+                            setShowImageModal(true);
+                          }}
+                        >
+                          <img
+                            src={image}
+                            alt={`${tour.title} ${index + 2}`}
+                            className={`w-full object-cover rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
                               }`}
-                          >
-                            <div className="flex flex-col md:flex-row items-start justify-between gap-4 md:gap-6">
-                              {/* Left: Option Details */}
-                              <div className="flex-1 w-full md:w-auto min-w-0">
-                                <h3 className="font-black text-[#001A33] text-[18px] mb-2 break-all whitespace-pre-wrap">{option.optionTitle}</h3>
-                                <div className="text-[14px] text-gray-600 font-semibold mb-4 leading-relaxed break-all whitespace-pre-wrap">
-                                  {option.optionDescription && (
-                                    <>
-                                      {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 150 ? (
-                                        <span>{option.optionDescription}</span>
-                                      ) : (
-                                        <span>{option.optionDescription.substring(0, 150)}...</span>
-                                      )}
-
-                                      {option.optionDescription && option.optionDescription.length > 150 && (
-                                        <button
-                                          onClick={(e) => {
-                                            e.stopPropagation();
-                                            toggleOptionExpand(option.id);
-                                          }}
-                                          className="text-[#0071EB] font-bold ml-1 hover:underline focus:outline-none inline-block cursor-pointer"
-                                        >
-                                          {expandedOptions.has(option.id) ? 'Show less' : 'Read more'}
-                                        </button>
-                                      )}
-                                    </>
-                                  )}
-                                </div>
-
-                                {/* Key Details Row */}
-                                <div className="flex flex-wrap items-center gap-4 md:gap-6 text-[13px] text-gray-600 font-semibold">
-                                  <div className="flex items-center gap-2">
-                                    <Clock size={16} className="text-gray-500" />
-                                    <span>{option.durationHours} {option.durationHours === 1 ? 'hour' : 'hours'}</span>
-                                  </div>
-                                  <div className="flex items-center gap-2">
-                                    <User size={16} className="text-gray-500" />
-                                    <span>Guide: {option.language}</span>
-                                  </div>
-                                  {option.pickupIncluded && (
-                                    <div className="flex items-center gap-2">
-                                      <Bus size={16} className="text-gray-500" />
-                                      <span>Pickup included</span>
-                                    </div>
-                                  )}
-                                </div>
+                          />
+                          {index === 1 && remainingImages > 0 && (
+                            <div className="absolute inset-0 bg-black/60 rounded-2xl flex items-center justify-center pointer-events-none z-10">
+                              <div className="text-center">
+                                <div className="text-white font-black text-[24px] mb-1">+{remainingImages}</div>
+                                <div className="text-white text-[12px] font-bold">more</div>
                               </div>
+                            </div>
+                          )}
+                          <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
 
-                              {/* Right: Pricing & Select Button */}
-                              <div className="text-left md:text-right flex flex-col items-start md:items-end w-full md:w-auto md:min-w-[200px]">
-                                <div className="mb-3">
-                                  <div className="font-black text-[#001A33] text-[20px] mb-1">
-                                    {(() => {
-                                      const currentParticipants = isCustomParticipants ? customParticipants : participants;
-                                      // Always use group pricing logic - calculate from tiers
-                                      const groupPrice = calculateGroupPrice(option, currentParticipants);
+                  {/* Short Description */}
+                  <div className="mb-8">
+                    <p className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap">
+                      {tour.shortDescription || tour.fullDescription}
+                    </p>
+                  </div>
 
-                                      if (groupPrice !== null) {
-                                        return `${currencySymbol}${groupPrice.toLocaleString()}`;
-                                      }
+                  {/* Highlights Section */}
+                  {tour.highlights && Array.isArray(tour.highlights) && tour.highlights.length > 0 && (
+                    <div className="mb-8 pt-12">
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Highlights</h2>
+                      <ul className="space-y-2">
+                        {tour.highlights.map((highlight: string, index: number) => (
+                          <li key={index} className="flex items-start gap-3 border-b border-gray-100 pb-3 last:border-0 last:pb-0">
+                            <div className="w-2 h-2 bg-[#10B981] rounded-full mt-2.5 shrink-0"></div>
+                            <span className="text-[16px] text-gray-700 font-semibold leading-relaxed break-words whitespace-pre-wrap w-full">{highlight}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
 
-                                      if (option.groupPrice) {
-                                        return `${currencySymbol}${option.groupPrice.toLocaleString()}`;
-                                      }
+                  {/* Tour Options Section - GetYourGuide Style */}
+                  {/* Show options - include main tour if it has group pricing */}
+                  {(() => {
+                    // Parse groupPricingTiers properly in render logic
+                    let mainTourHasGroupPricing = false;
+                    let mainTourGroupPricingTiers = null;
 
-                                      // Fallback: use option.price as fixed price
-                                      return `${currencySymbol}${(option.price || 0).toLocaleString()}`;
-                                    })()}
-                                  </div>
-                                </div>
+                    if (tour.groupPricingTiers) {
+                      try {
+                        mainTourGroupPricingTiers = typeof tour.groupPricingTiers === 'string'
+                          ? JSON.parse(tour.groupPricingTiers)
+                          : tour.groupPricingTiers;
+                        mainTourHasGroupPricing = Array.isArray(mainTourGroupPricingTiers) && mainTourGroupPricingTiers.length > 0;
+                      } catch (e) {
+                        console.error('Error parsing main tour groupPricingTiers:', e);
+                      }
+                    }
 
-                                <button
-                                  onClick={() => {
-                                    // Toggle: if clicking the same option, deselect it
-                                    if (isSelected) {
-                                      setSelectedOption(null);
-                                    } else {
-                                      setSelectedOption(option);
-                                      // Scroll to booking box on mobile when option is selected
-                                      if (window.innerWidth < 1024 && bookingBoxRef.current) {
-                                        setTimeout(() => {
-                                          bookingBoxRef.current?.scrollIntoView({
-                                            behavior: 'smooth',
-                                            block: 'start'
-                                          });
-                                        }, 100);
-                                      }
-                                    }
-                                  }}
-                                  className={`w-full md:w-auto px-6 py-3 rounded-xl font-black text-[14px] transition-all mb-2 ${isSelected
-                                    ? 'bg-[#10B981] text-white'
-                                    : 'bg-[#0071EB] text-white hover:bg-[#0056b3]'
+                    // Also check for legacy groupPrice + maxGroupSize
+                    if (!mainTourHasGroupPricing && tour.groupPrice && tour.maxGroupSize) {
+                      mainTourHasGroupPricing = true;
+                    }
+
+                    const shouldShowMainTourAsOption = mainTourHasGroupPricing;
+
+                    // Create main tour option if needed
+                    let allOptions = tour.options || [];
+                    if (shouldShowMainTourAsOption && !allOptions.find((opt: any) => opt.id === 'main-tour')) {
+                      const mainTourOption = {
+                        id: 'main-tour',
+                        tourId: tour.id,
+                        optionTitle: tour.title,
+                        optionDescription: tour.shortDescription || tour.fullDescription?.substring(0, 200) || '',
+                        durationHours: parseFloat(tour.duration?.replace(/[^0-9.]/g, '')) || 3,
+                        price: tour.pricePerPerson || 0,
+                        currency: tour.currency || 'INR',
+                        language: tour.languages?.[0] || 'English',
+                        pickupIncluded: false,
+                        entryTicketIncluded: false,
+                        guideIncluded: true,
+                        carIncluded: false,
+                        groupPrice: tour.groupPrice,
+                        maxGroupSize: tour.maxGroupSize,
+                        groupPricingTiers: mainTourGroupPricingTiers || tour.groupPricingTiers,
+                        sortOrder: -1
+                      };
+                      allOptions = [mainTourOption, ...allOptions];
+                    }
+
+                    // Sort options by sortOrder
+                    allOptions = allOptions.sort((a: any, b: any) => (a.sortOrder || 0) - (b.sortOrder || 0));
+
+                    if (allOptions.length > 0) {
+                      return (
+                        <div className="mb-8" ref={optionsRef}>
+                          <h2 className="text-2xl font-black text-[#001A33] mb-6">Choose from {allOptions.length} available option{allOptions.length > 1 ? 's' : ''}</h2>
+                          <div className="space-y-4">
+                            {allOptions.map((option: any) => {
+                              const isSelected = selectedOption?.id === option.id;
+                              const currencySymbol = option.currency === 'USD' ? '$' : option.currency === 'EUR' ? '€' : '₹';
+
+                              return (
+                                <div
+                                  key={option.id}
+                                  className={`bg-white border-2 rounded-2xl p-6 transition-all ${isSelected
+                                    ? 'border-[#10B981] shadow-lg'
+                                    : 'border-gray-200 hover:border-[#10B981]/50 hover:shadow-md'
                                     }`}
                                 >
-                                  {isSelected ? 'Selected (Click to deselect)' : 'Select'}
-                                </button>
+                                  <div className="flex flex-col md:flex-row items-start justify-between gap-4 md:gap-6">
+                                    {/* Left: Option Details */}
+                                    <div className="flex-1 w-full md:w-auto min-w-0">
+                                      <h3 className="font-black text-[#001A33] text-[18px] mb-2 break-all whitespace-pre-wrap">{option.optionTitle}</h3>
+                                      <div className="text-[14px] text-gray-600 font-semibold mb-4 leading-relaxed break-all whitespace-pre-wrap">
+                                        {option.optionDescription && (
+                                          <>
+                                            {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 150 ? (
+                                              <span>{option.optionDescription}</span>
+                                            ) : (
+                                              <span>{option.optionDescription.substring(0, 150)}...</span>
+                                            )}
 
-                                {/* Free Cancellation Badge */}
-                                <div className="flex items-center gap-1 text-[12px] text-gray-600 w-full md:w-auto">
-                                  <CheckCircle2 size={14} className="text-[#10B981]" />
-                                  <span className="font-semibold">Free cancellation</span>
+                                            {option.optionDescription && option.optionDescription.length > 150 && (
+                                              <button
+                                                onClick={(e) => {
+                                                  e.stopPropagation();
+                                                  toggleOptionExpand(option.id);
+                                                }}
+                                                className="text-[#0071EB] font-bold ml-1 hover:underline focus:outline-none inline-block cursor-pointer"
+                                              >
+                                                {expandedOptions.has(option.id) ? 'Show less' : 'Read more'}
+                                              </button>
+                                            )}
+                                          </>
+                                        )}
+                                      </div>
+
+                                      {/* Key Details Row */}
+                                      <div className="flex flex-wrap items-center gap-4 md:gap-6 text-[13px] text-gray-600 font-semibold">
+                                        <div className="flex items-center gap-2">
+                                          <Clock size={16} className="text-gray-500" />
+                                          <span>{option.durationHours} {option.durationHours === 1 ? 'hour' : 'hours'}</span>
+                                        </div>
+                                        <div className="flex items-center gap-2">
+                                          <User size={16} className="text-gray-500" />
+                                          <span>Guide: {option.language}</span>
+                                        </div>
+                                        {option.pickupIncluded && (
+                                          <div className="flex items-center gap-2">
+                                            <Bus size={16} className="text-gray-500" />
+                                            <span>Pickup included</span>
+                                          </div>
+                                        )}
+                                      </div>
+                                    </div>
+
+                                    {/* Right: Pricing & Select Button */}
+                                    <div className="text-left md:text-right flex flex-col items-start md:items-end w-full md:w-auto md:min-w-[200px]">
+                                      <div className="mb-3">
+                                        <div className="font-black text-[#001A33] text-[20px] mb-1">
+                                          {(() => {
+                                            const currentParticipants = isCustomParticipants ? customParticipants : participants;
+                                            // Always use group pricing logic - calculate from tiers
+                                            const groupPrice = calculateGroupPrice(option, currentParticipants);
+
+                                            if (groupPrice !== null) {
+                                              return `${currencySymbol}${groupPrice.toLocaleString()}`;
+                                            }
+
+                                            if (option.groupPrice) {
+                                              return `${currencySymbol}${option.groupPrice.toLocaleString()}`;
+                                            }
+
+                                            // Fallback: use option.price as fixed price
+                                            return `${currencySymbol}${(option.price || 0).toLocaleString()}`;
+                                          })()}
+                                        </div>
+                                      </div>
+
+                                      <button
+                                        onClick={() => {
+                                          // Toggle: if clicking the same option, deselect it
+                                          if (isSelected) {
+                                            setSelectedOption(null);
+                                          } else {
+                                            setSelectedOption(option);
+                                            // Scroll to booking box on mobile when option is selected
+                                            if (window.innerWidth < 1024 && bookingBoxRef.current) {
+                                              setTimeout(() => {
+                                                bookingBoxRef.current?.scrollIntoView({
+                                                  behavior: 'smooth',
+                                                  block: 'start'
+                                                });
+                                              }, 100);
+                                            }
+                                          }
+                                        }}
+                                        className={`w-full md:w-auto px-6 py-3 rounded-xl font-black text-[14px] transition-all mb-2 ${isSelected
+                                          ? 'bg-[#10B981] text-white'
+                                          : 'bg-[#0071EB] text-white hover:bg-[#0056b3]'
+                                          }`}
+                                      >
+                                        {isSelected ? 'Selected (Click to deselect)' : 'Select'}
+                                      </button>
+
+                                      {/* Free Cancellation Badge */}
+                                      <div className="flex items-center gap-1 text-[12px] text-gray-600 w-full md:w-auto">
+                                        <CheckCircle2 size={14} className="text-[#10B981]" />
+                                        <span className="font-semibold">Free cancellation</span>
+                                      </div>
+                                    </div>
+                                  </div>
                                 </div>
-                              </div>
-                            </div>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  </div>
-                );
-              }
-              return null;
-            })()}
-
-            {/* Full Description */}
-            <div className="mb-8">
-              <h2 className="text-2xl font-black text-[#001A33] mb-4">Full description</h2>
-              <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-                <div className="text-[16px] text-gray-700 font-semibold leading-[1.8] whitespace-pre-wrap break-words">
-                  {(() => {
-                    if (!tour.fullDescription) return null;
-
-                    // Helper to render inline markdown (bold, italics, and links)
-                    const renderMarkdownText = (text: string) => {
-                      // First handle links [label](url) and bold (**text**)
-                      const regex = /(\*\*.*?\*\*|\[.*?\]\(.*?\))/g;
-                      const parts = text.split(regex);
-
-                      return parts.map((part, i) => {
-                        if (part.startsWith('**') && part.endsWith('**')) {
-                          return <span key={`b-${i}`} className="font-black text-[#001A33]">{part.slice(2, -2)}</span>;
-                        }
-                        if (part.startsWith('[') && part.includes('](')) {
-                          const match = part.match(/\[(.*?)\]\((.*?)\)/);
-                          if (match) {
-                            return (
-                              <a key={`l-${i}`} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
-                                {match[1]}
-                              </a>
-                            );
-                          }
-                        }
-
-                        // Then handle italics (*text*) within remaining parts
-                        const italicParts = part.split(/(\*.*?\*)/g);
-                        return italicParts.map((iPart, j) => {
-                          if (iPart.startsWith('*') && iPart.endsWith('*')) {
-                            return <i key={`i-${i}-${j}`} className="font-semibold text-gray-800 italic">{iPart.slice(1, -1)}</i>;
-                          }
-                          return iPart;
-                        });
-                      });
-                    };
-
-                    return tour.fullDescription.split('\n').map((line: string, i: number) => {
-                      const trimmed = line.trim();
-
-                      // Handle Headings
-                      if (trimmed.startsWith('# ')) {
-                        return <h1 key={i} className="text-3xl font-black text-[#001A33] mb-6 mt-8 border-b pb-2">{trimmed.replace('# ', '')}</h1>;
-                      }
-                      if (trimmed.startsWith('## ')) {
-                        return <h2 key={i} className="text-2xl font-black text-[#001A33] mb-4 mt-8">{trimmed.replace('## ', '')}</h2>;
-                      }
-                      if (trimmed.startsWith('### ')) {
-                        return <h3 key={i} className="text-xl font-black text-[#001A33] mb-3 mt-6">{trimmed.replace('### ', '')}</h3>;
-                      }
-
-                      // Handle Separators
-                      if (trimmed === '---') {
-                        return <hr key={i} className="my-8 border-gray-200" />;
-                      }
-
-                      // Handle Bullets
-                      if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
-                        const content = trimmed.startsWith('* ') ? trimmed.replace('* ', '') : trimmed.replace('- ', '');
-                        return (
-                          <div key={i} className="flex gap-2 mb-2 ml-4">
-                            <span className="text-[#10B981] font-black">•</span>
-                            <span className="text-gray-700">{renderMarkdownText(content)}</span>
-                          </div>
-                        );
-                      }
-
-                      // Handle Numbered Lists (like 1. 2. 3. inside paragraphs)
-                      if (/^\d+\.\s/.test(trimmed)) {
-                        const index = trimmed.split('. ')[0];
-                        const content = trimmed.split('. ').slice(1).join('. ');
-                        return (
-                          <div key={i} className="flex gap-2 mb-2 ml-4">
-                            <span className="text-[#10B981] font-black">{index}.</span>
-                            <span className="text-gray-700">{renderMarkdownText(content)}</span>
-                          </div>
-                        );
-                      }
-
-                      // Handle Paragraphs
-                      return (
-                        <p key={i} className="mb-4 last:mb-0 text-gray-700">
-                          {renderMarkdownText(line)}
-                        </p>
-                      );
-                    });
-                  })()}
-                </div>
-              </div>
-            </div>
-
-            {/* Visual Itinerary Timeline */}
-            {tour.itineraryItems && Array.isArray(tour.itineraryItems) && tour.itineraryItems.length > 0 && (
-              <div className="mb-8">
-                <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour Itinerary</h2>
-                <div className="bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl p-4 mb-6">
-                  <div className="flex items-center gap-2 mb-1">
-                    <CheckCircle2 size={16} className="text-[#10B981]" />
-                    <span className="text-[14px] font-bold text-[#10B981]">Itineraries are customisable as per your request</span>
-                  </div>
-                  <p className="text-[13px] text-gray-500 font-semibold ml-6">The schedule below is a suggested plan and can be adjusted to suit your preferences.</p>
-                </div>
-                <div className="relative">
-                  <div className="space-y-0">
-                    {tour.itineraryItems.map((item: any, index: number) => {
-                      const isLast = index === tour.itineraryItems.length - 1;
-
-                      // Format time for display
-                      const formatTime = (time: string) => {
-                        if (!time) return '';
-                        if (time.includes('AM') || time.includes('PM')) return time;
-                        const [h, m] = time.split(':');
-                        const hour = parseInt(h, 10);
-                        const ampm = hour >= 12 ? 'PM' : 'AM';
-                        const displayHour = hour % 12 || 12;
-                        return `${displayHour}:${m} ${ampm}`;
-                      };
-
-                      // Type-specific styling and icons
-                      const getTypeConfig = (type: string) => {
-                        const isOptional = type === 'optional';
-                        const iconColor = isOptional ? '#6B7280' : 'white';
-                        const bgClass = isOptional ? 'bg-white' : 'bg-[#10B981]';
-                        const borderClass = isOptional ? 'border-gray-300' : 'border-[#10B981]';
-
-                        const configs: Record<string, { bg: string; border: string; icon: React.ReactNode }> = {
-                          pickup: { bg: bgClass, border: borderClass, icon: <MapPin size={14} color={iconColor} strokeWidth={2.5} /> },
-                          transport: { bg: bgClass, border: borderClass, icon: <Bus size={14} color={iconColor} strokeWidth={2.5} /> },
-                          visit: { bg: bgClass, border: borderClass, icon: <Landmark size={14} color={iconColor} strokeWidth={2.5} /> },
-                          meal: { bg: bgClass, border: borderClass, icon: <Utensils size={14} color={iconColor} strokeWidth={2.5} /> },
-                          activity: { bg: bgClass, border: borderClass, icon: <Activity size={14} color={iconColor} strokeWidth={2.5} /> },
-                          optional: { bg: bgClass, border: borderClass, icon: <Map size={14} color={iconColor} strokeWidth={2.5} /> },
-                          return: { bg: bgClass, border: borderClass, icon: <Home size={14} color={iconColor} strokeWidth={2.5} /> }
-                        };
-                        return configs[type] || configs.visit;
-                      };
-
-                      const config = getTypeConfig(item.type);
-                      const isTransport = item.type === 'transport';
-                      const isOptional = item.optional || item.type === 'optional';
-
-                      return (
-                        <div key={index} className={`relative pl-12 py-3 ${isOptional ? 'opacity-80' : ''}`}>
-                          {/* Segmented connecting line to next item (stops at last item) */}
-                          {!isLast && (
-                            <div className="absolute left-[19px] top-6 bottom-[-1.5rem] w-[4px] bg-[#10B981]/50 rounded-full z-0" />
-                          )}
-
-                          {/* Icon on timeline */}
-                          <div className={`absolute left-[6px] top-5 w-[30px] h-[30px] rounded-full ${config.bg} ${config.border} border-[3px] flex items-center justify-center z-10 shadow-md`}>
-                            {config.icon}
-                          </div>
-
-                          <div className="bg-white border border-gray-100 shadow-sm hover:shadow-md rounded-xl p-4 transition-all">
-                            <div className="flex items-start justify-between gap-4">
-                              <div className="flex-1 min-w-0">
-                                <div className="flex items-center gap-3 mb-1.5">
-                                  <span className="text-[13px] font-black text-[#10B981] tracking-wide">
-                                    {formatTime(item.time)}
-                                  </span>
-                                  {item.duration && (
-                                    <span className="text-[11px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
-                                      {item.duration}
-                                    </span>
-                                  )}
-                                  {isOptional && (
-                                    <span className="text-[10px] font-bold text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full uppercase tracking-wider border border-amber-200">
-                                      Optional
-                                    </span>
-                                  )}
-                                </div>
-                                <h3 className={`text-[16px] font-black ${isTransport ? 'text-gray-500' : 'text-[#001A33]'} mb-1`}>
-                                  {item.title}
-                                </h3>
-                                {item.description && (
-                                  <p className={`text-[14px] font-semibold ${isTransport ? 'text-gray-400' : 'text-gray-600'} leading-relaxed`}>
-                                    {item.description}
-                                  </p>
-                                )}
-                              </div>
-                            </div>
+                              );
+                            })}
                           </div>
                         </div>
                       );
-                    })}
-                  </div>
-                </div>
-              </div>
-            )}
-
-            {/* Detailed Itinerary Description */}
-            {tour.detailedItinerary && (
-              <div className="mb-8">
-                <h2 className="text-2xl font-black text-[#001A33] mb-4">Detailed Itinerary</h2>
-                <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-                  {tour.detailedItinerary.split('\n').map((line: string, index: number) => {
-                    const trimmed = line.trim();
-                    if (trimmed.startsWith('## ')) {
-                      return <h2 key={index} className="text-xl font-black text-[#001A33] mt-6 mb-3 first:mt-0">{trimmed.replace(/^##\s*/, '')}</h2>;
-                    }
-                    if (trimmed === '') {
-                      return <div key={index} className="h-2" />;
-                    }
-                    return <p key={index} className="text-[15px] text-gray-700 font-semibold leading-[1.8] break-words whitespace-pre-wrap">{trimmed}</p>;
-                  })}
-                </div>
-              </div>
-            )}
-
-            {/* Includes Section */}
-            {tour.included && (
-              <div className="mb-8">
-                <h2 className="text-2xl font-black text-[#001A33] mb-4">Includes</h2>
-                <ul className="space-y-3">
-                  {tour.included.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
-                    <li key={index} className="flex items-start gap-3">
-                      <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={20} />
-                      <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {/* Not Included Section */}
-            {tour.notIncluded && (
-              <div className="mb-8">
-                <h2 className="text-2xl font-black text-[#001A33] mb-4">Excludes</h2>
-                <ul className="space-y-3">
-                  {tour.notIncluded.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
-                    <li key={index} className="flex items-start gap-3">
-                      <X className="text-red-500 shrink-0 mt-1" size={20} />
-                      <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-
-            {/* Important Information */}
-            <div className="mb-8">
-              <h2 className="text-2xl font-black text-[#001A33] mb-4">Important information</h2>
-              {tour.meetingPoint && (
-                <div className="mb-4">
-                  <h3 className="text-[18px] font-black text-[#001A33] mb-2">Meeting point</h3>
-                  <p className="text-[16px] text-gray-700 font-semibold">{tour.meetingPoint}</p>
-                </div>
-              )}
-              <div>
-                <h3 className="text-[18px] font-black text-[#001A33] mb-2">Know before you go</h3>
-                <ul className="space-y-2">
-                  <li className="flex items-start gap-3">
-                    <div className="w-2 h-2 bg-[#001A33] rounded-full mt-2 shrink-0"></div>
-                    <span className="text-[16px] text-gray-700 font-semibold">
-                      Free cancellation available up to 24 hours before the activity starts
-                    </span>
-                  </li>
-                  {tour.category === 'Entry Ticket' && (
-                    <li className="flex items-start gap-3">
-                      <div className="w-2 h-2 bg-[#001A33] rounded-full mt-2 shrink-0"></div>
-                      <span className="text-[16px] text-gray-700 font-semibold">
-                        Please bring a valid ID or passport for entry
-                      </span>
-                    </li>
-                  )}
-                </ul>
-              </div>
-            </div>
-
-            {/* About this activity */}
-            <div className="mb-8">
-              <h2 className="text-2xl font-black text-[#001A33] mb-6">About this activity</h2>
-              <div className="space-y-4">
-                <div className="flex items-start gap-4">
-                  <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                    <CheckCircle2 className="text-[#10B981]" size={16} />
-                  </div>
-                  <div>
-                    <div className="font-black text-[#001A33] text-[16px] mb-1">Free cancellation</div>
-                    <div className="text-[14px] text-gray-600 font-semibold">
-                      Cancel up to 24 hours in advance for a full refund
-                    </div>
-                  </div>
-                </div>
-                <div className="flex items-start gap-4">
-                  <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                    <CheckCircle2 className="text-[#10B981]" size={16} />
-                  </div>
-                  <div>
-                    <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
-                    <div className="text-[12px] text-gray-600 font-semibold break-words">
-                      Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
-                      <a href="#" className="text-[#10B981] underline">Read more</a>
-                    </div>
-                  </div>
-                </div>
-                <div className="flex items-start gap-4">
-                  <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                    <Clock className="text-[#10B981]" size={16} />
-                  </div>
-                  <div>
-                    <div className="font-black text-[#001A33] text-[16px] mb-1">
-                      Duration {tour.duration}
-                    </div>
-                    <div className="text-[14px] text-gray-600 font-semibold">
-                      Check availability to see starting times
-                    </div>
-                  </div>
-                </div>
-                {tour.included && tour.included.toLowerCase().includes('skip') && (
-                  <div className="flex items-start gap-4">
-                    <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                      <CheckCircle2 className="text-[#10B981]" size={16} />
-                    </div>
-                    <div>
-                      <div className="font-black text-[#001A33] text-[16px] mb-1">Skip the ticket line</div>
-                    </div>
-                  </div>
-                )}
-                {tour.languages && tour.languages.length > 0 && (
-                  <div className="flex items-start gap-4">
-                    <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                      <User className="text-[#10B981]" size={16} />
-                    </div>
-                    <div>
-                      <div className="font-black text-[#001A33] text-[16px] mb-1">Live tour guide</div>
-                      <div className="text-[14px] text-gray-600 font-semibold">
-                        {tour.languages.join(', ')}
-                      </div>
-                    </div>
-                  </div>
-                )}
-                {tour.meetingPoint && (
-                  <div className="flex items-start gap-4">
-                    <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                      <Bus className="text-[#10B981]" size={16} />
-                    </div>
-                    <div>
-                      <div className="font-black text-[#001A33] text-[16px] mb-1">Pickup included</div>
-                      <div className="text-[14px] text-gray-600 font-semibold">
-                        Driver will pick you up from hotel/airport or any desired location in {city || 'the city'}
-                      </div>
-                    </div>
-                  </div>
-                )}
-                {/* Wheelchair accessible - can be added as a tour field later */}
-                <div className="flex items-start gap-4">
-                  <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                    <CheckCircle2 className="text-[#10B981]" size={16} />
-                  </div>
-                  <div>
-                    <div className="font-black text-[#001A33] text-[16px] mb-1">Wheelchair accessible</div>
-                  </div>
-                </div>
-                {tour.guideType === 'Tour Guide' && (
-                  <div className="flex items-start gap-4">
-                    <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
-                      <Users className="text-[#10B981]" size={16} />
-                    </div>
-                    <div>
-                      <div className="font-black text-[#001A33] text-[16px] mb-1">Private group</div>
-                    </div>
-                  </div>
-                )}
-              </div>
-            </div>
-
-            <RelatedTours currentTourId={tour?.id} country={country || tour?.country} city={city || tour?.city} />
-
-          </div>
-
-          {/* Right Column - Booking Panel */}
-          <div className="lg:col-span-1" ref={bookingBoxRef}>
-            <div className="sticky top-24 bg-white rounded-2xl p-6 border-2 border-gray-200 shadow-sm min-w-0">
-              {/* Share */}
-              <div className="flex items-center justify-end gap-4 mb-6">
-                <a href="#" className="text-[14px] text-gray-600 font-semibold hover:text-[#10B981] transition-colors">
-                  Share
-                </a>
-              </div>
-
-              <div className="mb-6">
-                {/* Show main tour pricing ONLY when NO option is selected */}
-                {!selectedOption && (
-                  <div className="mb-4">
-                    <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Main Tour Price</div>
-                    <div className="flex items-baseline gap-3 mb-1">
-                      <span className="text-[14px] text-gray-500 font-semibold">
-                        Starting from {tour.currency === 'INR' ? '₹' : '$'}
-                        {(() => {
-                          console.log('═══════════════════════════════════════════════════════════');
-                          console.log('🏷 "STARTING FROM" PRICE CALCULATION');
-                          console.log('═══════════════════════════════════════════════════════════');
-
-                          // Get the price for 1 person (first tier: 1-1 person)
-                          let priceForOne = tour.pricePerPerson || 0;
-                          console.log('📥 Initial priceForOne (from pricePerPerson):', priceForOne);
-
-                          // Check main tour option (sortOrder: -1) for groupPricingTiers first
-                          if (tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
-                            console.log('🔍 Checking main tour option for 1-1 person price...');
-                            const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1);
-                            console.log('   Main tour option:', {
-                              found: !!mainTourOption,
-                              title: mainTourOption?.optionTitle,
-                              hasGroupPricingTiers: !!mainTourOption?.groupPricingTiers
-                            });
-
-                            if (mainTourOption && mainTourOption.groupPricingTiers) {
-                              try {
-                                const tiers = typeof mainTourOption.groupPricingTiers === 'string'
-                                  ? JSON.parse(mainTourOption.groupPricingTiers)
-                                  : mainTourOption.groupPricingTiers;
-                                console.log('   Parsed pricing slabs from main tour option:', tiers);
-                                if (Array.isArray(tiers) && tiers.length > 0 && tiers[0].price) {
-                                  // First tier is always for 1 person (1-1 person)
-                                  const firstTier = tiers[0];
-                                  priceForOne = parseFloat(firstTier.price || 0);
-                                  console.log('✅ Default price (1-1 person) from main tour option:', {
-                                    slab: `${firstTier.minPeople}-${firstTier.maxPeople}`,
-                                    price: priceForOne,
-                                    rawPrice: firstTier.price
-                                  });
-                                } else {
-                                  console.warn('⚠️ Main tour option tiers invalid or empty');
-                                }
-                              } catch (e) {
-                                console.error('❌ Error parsing main tour option groupPricingTiers:', e);
-                              }
-                            } else {
-                              console.log('ℹ️ Main tour option has no groupPricingTiers');
-                            }
-                          }
-
-                          // Check tour.groupPricingTiers directly
-                          if (priceForOne === (tour.pricePerPerson || 0) && tour.groupPricingTiers) {
-                            console.log('🔍 Checking tour.groupPricingTiers directly...');
-                            try {
-                              const tiers = typeof tour.groupPricingTiers === 'string'
-                                ? JSON.parse(tour.groupPricingTiers)
-                                : tour.groupPricingTiers;
-                              console.log('   Parsed pricing slabs from tour:', tiers);
-                              if (Array.isArray(tiers) && tiers.length > 0 && tiers[0].price) {
-                                // First tier is always for 1 person (1-1 person)
-                                const firstTier = tiers[0];
-                                priceForOne = parseFloat(firstTier.price || 0);
-                                console.log('✅ Default price (1-1 person) from tour:', {
-                                  slab: `${firstTier.minPeople}-${firstTier.maxPeople}`,
-                                  price: priceForOne,
-                                  rawPrice: firstTier.price
-                                });
-                              }
-                            } catch (e) {
-                              console.error('❌ Error parsing tour groupPricingTiers:', e);
-                            }
-                          }
-
-                          console.log('💰 FINAL "STARTING FROM" PRICE:', priceForOne);
-                          console.log('═══════════════════════════════════════════════════════════');
-                          return priceForOne.toLocaleString();
-                        })()}
-                      </span>
-                      <div className="text-3xl font-black text-red-600">
-                        {tour.currency === 'INR' ? '₹' : '$'}
-                        {(() => {
-                          const currentParticipants = isCustomParticipants ? customParticipants : participants;
-                          console.log('═══════════════════════════════════════════════════════════');
-                          console.log('💰 DYNAMIC PRICE CALCULATION (person count changed)');
-                          console.log('═══════════════════════════════════════════════════════════');
-                          console.log('📥 Selected persons:', currentParticipants);
-                          console.log('   isCustomParticipants:', isCustomParticipants);
-
-                          // Always use group pricing logic - calculate from tiers
-                          const groupPrice = calculateGroupPrice(tour, currentParticipants);
-
-                          if (groupPrice !== null && groupPrice > 0) {
-                            console.log('✅ Using calculated group price:', groupPrice);
-                            console.log('═══════════════════════════════════════════════════════════');
-                            return groupPrice.toLocaleString();
-                          }
-
-                          // Check main tour option for group pricing
-                          if (tour && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
-                            console.log('🔍 Falling back to main tour option...');
-                            const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1) || tour.options[0];
-                            if (mainTourOption && mainTourOption.groupPricingTiers) {
-                              const optionGroupPrice = calculateGroupPrice(mainTourOption, currentParticipants);
-                              if (optionGroupPrice !== null && optionGroupPrice > 0) {
-                                console.log('✅ Using main tour option price:', optionGroupPrice);
-                                console.log('═══════════════════════════════════════════════════════════════');
-                                return optionGroupPrice.toLocaleString();
-                              }
-                            }
-                            // DO NOT use groupPrice - it's the LAST tier price (wrong)
-                          }
-
-                          // Fallback: use pricePerPerson (should be first tier price)
-                          console.warn('⚠️ Using fallback pricePerPerson:', tour.pricePerPerson);
-                          console.log('═══════════════════════════════════════════════════════════');
-                          return (tour.pricePerPerson || 0).toLocaleString();
-                        })()}
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {/* Show option pricing when selected - replaces main tour price */}
-                {selectedOption && (
-                  <div className="mb-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider">Selected Option Price</div>
-                      <button
-                        onClick={() => setSelectedOption(null)}
-                        className="text-[11px] text-[#0071EB] font-semibold hover:underline"
-                      >
-                        Back to Main Tour
-                      </button>
-                    </div>
-                    <div className="flex items-baseline gap-3 mb-1">
-                      <div className="text-3xl font-black text-[#10B981]">
-                        {(selectedOption.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$'}
-                        {(() => {
-                          const currentParticipants = isCustomParticipants ? customParticipants : participants;
-                          console.log('═══════════════════════════════════════════════════════════');
-                          console.log('💰 SELECTED OPTION PRICE CALCULATION');
-                          console.log('═══════════════════════════════════════════════════════════');
-                          console.log('Selected option:', {
-                            id: selectedOption.id,
-                            title: selectedOption.optionTitle,
-                            price: selectedOption.price,
-                            hasGroupPricingTiers: !!selectedOption.groupPricingTiers,
-                            groupPricingTiersType: typeof selectedOption.groupPricingTiers
-                          });
-                          console.log('Current participants:', currentParticipants);
-
-                          // ALWAYS use group pricing logic - calculate from tiers
-                          // This will use option's tiers if available, otherwise fall back to main tour's tiers
-                          const groupPrice = calculateGroupPrice(selectedOption, currentParticipants);
-                          if (groupPrice !== null && groupPrice > 0) {
-                            return groupPrice.toLocaleString();
-                          }
-
-                          // DO NOT use groupPrice fallback - it's the LAST tier price (₹8,200 for 10 people)
-                          // Final fallback: use main tour's pricing tiers
-                          console.log('🔍 Selected option has no groupPricingTiers, falling back to main tour...');
-                          const mainTourPrice = calculateGroupPrice(tour, currentParticipants);
-                          if (mainTourPrice !== null && mainTourPrice > 0) {
-                            console.log('✅ Using main tour groupPricingTiers:', mainTourPrice);
-                            console.log('═══════════════════════════════════════════════════════════');
-                            return mainTourPrice.toLocaleString();
-                          }
-
-                          // Last resort: use option.price (should be first tier price)
-                          console.warn('⚠️ Using option.price fallback:', selectedOption.price);
-                          console.log('═══════════════════════════════════════════════════════════');
-                          return (selectedOption.price || 0).toLocaleString();
-                        })()}
-                      </div>
-                    </div>
-                    <div className="text-[12px] text-gray-500 mt-1">
-                      Option: {selectedOption.optionTitle}
-                    </div>
-                  </div>
-                )}
-
-                {/* Group Pricing Tiers Display */}
-                {(() => {
-                  const tourData = selectedOption || tour;
-                  let groupPricingTiers = null;
-
-                  if (tourData.groupPricingTiers) {
-                    try {
-                      groupPricingTiers = typeof tourData.groupPricingTiers === 'string'
-                        ? JSON.parse(tourData.groupPricingTiers)
-                        : tourData.groupPricingTiers;
-                    } catch (e) {
-                      console.error('Error parsing groupPricingTiers:', e);
-                    }
-                  }
-
-                  // If no groupPricingTiers on tourData and this is main tour, check main tour option
-                  if (!groupPricingTiers && !selectedOption && tour && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
-                    const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1) || tour.options[0];
-                    if (mainTourOption && mainTourOption.groupPricingTiers) {
-                      try {
-                        groupPricingTiers = typeof mainTourOption.groupPricingTiers === 'string'
-                          ? JSON.parse(mainTourOption.groupPricingTiers)
-                          : mainTourOption.groupPricingTiers;
-                      } catch (e) {
-                        console.error('Error parsing groupPricingTiers from main tour option:', e);
-                      }
-                    }
-                  }
-
-                  if (groupPricingTiers && Array.isArray(groupPricingTiers) && groupPricingTiers.length > 0) {
-                    const currencySymbol = (tourData.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$';
-                    const currentParticipants = isCustomParticipants ? customParticipants : participants;
-                    const currentPrice = calculateGroupPrice(tourData, currentParticipants);
-
-                    // Don't show the pricing tiers table, but keep price calculation working
-                    // Price will update dynamically when participants change
-                    return null; // Hide the pricing tiers display
-                  }
-                  return null;
-                })()}
-
-                {/* Tour Types - More Prominent Display */}
-                {tour.tourTypes && (() => {
-                  try {
-                    const tourTypesArray = typeof tour.tourTypes === 'string' ? JSON.parse(tour.tourTypes) : tour.tourTypes;
-                    if (Array.isArray(tourTypesArray) && tourTypesArray.length > 0) {
-                      return (
-                        <div className="mt-4">
-                          <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Tour Type</div>
-                          <div className="flex flex-wrap gap-2">
-                            {tourTypesArray.map((type: string, idx: number) => (
-                              <span
-                                key={idx}
-                                className="px-3 py-1.5 bg-[#10B981]/10 text-[#10B981] text-[12px] font-black rounded-full border border-[#10B981]/20"
-                              >
-                                {type}
-                              </span>
-                            ))}
-                          </div>
-                        </div>
-                      );
-                    }
-                  } catch (e) {
-                    console.error('Error parsing tourTypes:', e);
-                  }
-                  return null;
-                })()}
-              </div>
-
-              {/* Date Selector - Premium Calendar */}
-              <div className="mb-6">
-                <div className="relative">
-                  <button
-                    onClick={() => setShowCalendarModal(true)}
-                    className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none text-left flex items-center justify-between hover:border-[#10B981] transition-colors"
-                  >
-                    <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }) : 'Select date'}</span>
-                    <Calendar className="text-gray-400 shrink-0" size={20} />
-                  </button>
-                </div>
-              </div>
-
-              {/* Booking Options - Dropdown Style */}
-              <div className="space-y-4 mb-6">
-                <div className="relative">
-                  <select
-                    value={isCustomParticipants ? 'custom' : participants}
-                    onChange={(e) => {
-                      if (e.target.value === 'custom') {
-                        setIsCustomParticipants(true);
-                        setParticipants(customParticipants);
-                      } else {
-                        setIsCustomParticipants(false);
-                        setParticipants(parseInt(e.target.value));
-                      }
-                    }}
-                    className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
-                  >
-                    {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => (
-                      <option key={num} value={num}>Adult x {num}</option>
-                    ))}
-                    <option value="custom">Custom</option>
-                  </select>
-                  <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
-                </div>
-
-                {/* Custom Participants Input */}
-                {isCustomParticipants && (
-                  <div className="relative">
-                    <input
-                      type="number"
-                      min="11"
-                      max="100"
-                      value={customParticipants}
-                      onChange={(e) => {
-                        const value = parseInt(e.target.value) || 11;
-                        setCustomParticipants(value);
-                        setParticipants(value);
-                      }}
-                      className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none"
-                      placeholder="Enter number of adults"
-                    />
-                    <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
-                  </div>
-                )}
-
-                {tour.languages && tour.languages.length > 0 && (
-                  <div className="relative">
-                    <select
-                      value={selectedLanguage}
-                      onChange={(e) => setSelectedLanguage(e.target.value)}
-                      className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
-                    >
-                      {tour.languages.map((lang: string) => (
-                        <option key={lang} value={lang}>{lang}</option>
-                      ))}
-                    </select>
-                    <Globe className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
-                  </div>
-                )}
-              </div>
-
-              {/* Policies */}
-              <div className="space-y-4 mb-6 pb-6 border-b border-gray-200">
-                <div className="flex items-start gap-3">
-                  <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
-                  <div className="min-w-0 flex-1">
-                    <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Free cancellation</div>
-                    <div className="text-[12px] text-gray-600 font-semibold break-words">
-                      Cancel up to 24 hours in advance for a full refund
-                    </div>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
-                  <div className="min-w-0 flex-1">
-                    <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
-                    <div className="text-[12px] text-gray-600 font-semibold break-words">
-                      Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
-                      <a href="#" className="text-[#10B981] underline">Read more</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              {/* Availability Status */}
-              {availabilityStatus === 'available' && (
-                <div className="mb-4 p-4 bg-green-50 border border-green-200 rounded-2xl">
-                  <div className="flex items-center gap-2 mb-2">
-                    <CheckCircle2 className="text-[#10B981]" size={20} />
-                    <span className="font-black text-[#10B981] text-[14px]">Available!</span>
-                  </div>
-                  <p className="text-[12px] text-gray-600 font-semibold">
-                    This tour is available for {selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric' }) : 'selected dates'}
-                  </p>
-                </div>
-              )}
-
-              {availabilityStatus === 'unavailable' && (
-                <div className="mb-4 p-4 bg-red-50 border border-red-200 rounded-2xl">
-                  <div className="flex items-center gap-2 mb-2">
-                    <X className="text-red-600" size={20} />
-                    <span className="font-black text-red-600 text-[14px]">Not Available</span>
-                  </div>
-                  <p className="text-[12px] text-gray-600 font-semibold">
-                    This tour is not available for the selected date. Please choose another date.
-                  </p>
-                </div>
-              )}
-
-              {/* Book Button - GetYourGuide Blue */}
-              <button
-                onClick={availabilityStatus === 'available' ? handleProceedToBooking : handleCheckAvailability}
-                disabled={availabilityStatus === 'checking'}
-                className="w-full bg-[#0071EB] hover:bg-[#0056b3] text-white font-black py-5 rounded-2xl text-[16px] transition-all shadow-lg disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
-              >
-                {availabilityStatus === 'checking' ? (
-                  <>
-                    <Loader2 className="animate-spin" size={20} />
-                    Checking...
-                  </>
-                ) : availabilityStatus === 'available' ? (
-                  'Proceed to Booking'
-                ) : (
-                  'Check availability'
-                )}
-              </button>
-              {bookingError && (
-                <p className="text-[14px] text-red-500 font-bold text-center mt-3 p-3 bg-red-50 rounded-xl border border-red-100 flex items-center justify-center gap-2">
-                  <Info size={16} />
-                  {bookingError}
-                </p>
-              )}
-
-              <p className="text-[12px] text-gray-500 font-semibold text-center mt-4">
-                Secure payment via Razorpay
-              </p>
-            </div>
-          </div>
-        </div>
-
-        {/* Structured SEO Sections - Premium Content below main grid */}
-        <div className="mt-20 pt-16 border-t border-gray-100">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
-
-
-
-            {/* Section 5: FAQ Section (Simple List Style like City Page) */}
-            <section className="lg:col-span-2">
-              <div className="flex items-center gap-4 mb-12">
-                <div className="p-3 bg-[#10B981]/10 rounded-2xl">
-                  <HelpCircle className="text-[#10B981]" size={32} />
-                </div>
-                <h2 className="text-2xl font-black text-[#001A33]">Frequently Asked Questions</h2>
-              </div>
-              <div className="space-y-8 max-w-4xl">
-                {(() => {
-                  // Check for tour-specific intelligence from our high-authority Agra data
-                  const getTourSpecificFAQs = (title: string, slug?: string) => {
-                    const t = title.toLowerCase();
-
-                    // Specific handling for the high-intent Sunrise Tour slug
-                    if (slug === 'taj-mahal-sunrise-tour') {
-                      return [
-                        {
-                          question: "What time is hotel pickup for sunrise tour in Agra?",
-                          answer: "Typically, hotel pickup in Agra for our sunrise tour occurs between **5:15 AM and 5:45 AM**, calculated specifically to ensure you reach the monument gates approximately 15 minutes before the first light touches the white marble. During the peak summer months of April to June, the sun rises significantly earlier, necessitating the 5:15 AM start. Conversely, in the winter months of December and January, we might adjust this slightly later based on visibility protocols. We prioritize being among the first in the security queue because the atmosphere of the 'Blue Hour'—the period just before technical sunrise—offers a unique, ethereal stillness that mid-day visitors never experience. Your guide will coordinate the exact timing with you the evening before based on real-time weather forecasts."
-                        },
-                        {
-                          question: "Which Taj Mahal gate do we enter for sunrise?",
-                          answer: "We almost exclusively utilize the **East Gate** for our sunrise expeditions. Logistically, the East Gate is positioned closest to the majority of high-end hotel clusters and offers a more streamlined queueing experience compared to the busier West Gate, which serves the dense local market areas. For travelers on a focused [1-day itinerary](/india/agra/1-day-agra-itinerary), efficiency is essential. The East Gate features dedicated security lanes for high-value pre-booked digital tickets, which our guides use to expedite your entrance. Additionally, the parking area for the East Gate is well-connected by electric battery buses, which provide a pleasant 5-minute ride to the main entrance, saving you from a long walk in the early morning humidity."
-                        },
-                        {
-                          question: "How much time do we spend inside Taj Mahal?",
-                          answer: "A high-quality guided experience typically lasts between **2 to 2.5 hours**, which allows for deep historical storytelling and plenty of time for professional-grade photography without rushing. This duration covers the entrance through the Great Gate (Darwaza-i-rauza), a detailed walkthrough of the Charbagh gardens, and a thorough exploration of the main mausoleum platform. Your guide will explain the intricate pietra dura marble inlay, the optical illusions of the calligraphy, and the symmetrical architecture of the flanking mosque and guesthouse. If you find yourself captivated by the morning light, our guides are happy to adjust the pace, ensuring you have enough time to soak in the atmosphere before the mid-morning crowds start to saturate the complex."
-                        },
-                        {
-                          question: "Does skip-the-line mean skipping security too?",
-                          answer: "It is critical to understand that 'Skip-The-Line' applies specifically to the **official ASI ticket window**, which can often have queues exceeding 60 minutes during peak season. It does **NOT** allow any visitor to bypass the mandatory security screening conducted by the Central Industrial Security Force (CISF). Every visitor, regardless of ticket status, must pass through metal detectors and physical baggage checks as per national [safety guidelines](/safety-guidelines). To ensure the fastest possible throughput, we recommend bringing only your phone, camera, and a bottle of water; avoid bringing large bags, electronics other than your camera, or prohibited items like tobacco or sharp objects, as these will cause significant delays at the security scanners."
-                        },
-                        {
-                          question: "Is this an official licensed guide?",
-                          answer: "Yes, all our experts are strictly **ASI-licensed historians** who have passed rigorous examinations conducted by the Ministry of Tourism, Government of India. Unlike unauthorized street guides or 'lapkas' who often provide inaccurate myths, our guides are verified professionals legally authorized to guide in all national monuments. This licensing ensures you receive historically accurate data regarding the Mughal Empire, the political significance of the tomb, and the technical marvels of 17th-century engineering. Using a licensed professional also protects you from aggressive commission-based shopping tactics, as our guides are committed to a service-first experience that prioritizes your education and comfort over commercial diversions."
-                        },
-                        {
-                          question: "Are monument tickets included in the price?",
-                          answer: "Depending on the specific package you select during checkout, monument entry tickets are either bundled into the all-inclusive price or left as an 'add-on' for travelers who prefer flexibility. For a completely hassle-free morning, we strongly recommend the **All-Inclusive option**, which covers the guide, the private vehicle, and the high-value 'mausoleum supplement' tickets. Having us pre-purchase these digital QR codes is the only way to avoid the physical ticket counters. If you choose a 'Guide Only' service, please ensure you have your tickets ready on your phone before the pickup time, as the [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) reflects a complex tiered system for domestic and international visitors that is difficult to navigate at 5:30 AM."
-                        },
-                        {
-                          question: "Can I pay entrance fees in cash?",
-                          answer: "No, as of the 2026 season, the Archaeological Survey of India (ASI) has transitioned to a 100% digital ticketing ecosystem. Cash is no longer accepted at any of the physical monument gates in Agra. All entry tickets must be purchased online through the official government portal or authorized travel partners. This move was implemented to reduce black-marketing and to streamline the entry process for international tourists. Our tours typically include pre-booked tickets to ensure you don't have to struggle with international credit card processing issues on the slow government website. If you are traveling independently, you must scan a QR code at the gate to book via your mobile device, which can be unreliable due to network congestion near the monument."
-                        },
-                        {
-                          question: "Is sunrise actually better than sunset?",
-                          answer: "Sunrise is widely considered the **platinum standard** for visiting the Taj Mahal for several tactical reasons. Firstly, the crowd density at 6:00 AM is roughly 70% lower than at sunset, allowing for those iconic unobstructed views of the reflecting pools. Secondly, the ambient temperature in Agra can exceed 40°C by mid-afternoon, making a sunset visit physically exhausting, whereas the sunrise air is crisp and comfortable. From an aesthetic perspective, the marble transitions through a unique palette of soft greys, lavenders, and golden pinks that only occurs during the 'Golden Hour' of the morning. Most photographers prefer this light as it minimizes the harsh shadows found later in the day during a standard [agra travel guide 2026](/india/agra/agra-travel-guide-2026) exploration."
-                        },
-                        {
-                          question: "What if it’s foggy during sunrise?",
-                          answer: "During the peak winter months of December and January, morning fog is a common occurrence in the Yamuna River basin. While heavy fog can obscure the monument's first light, it creates a unique, hauntingly beautiful atmosphere that many professional landscape photographers actually prefer. If visibility is exceptionally low at the 6:00 AM opening, our guides will adjust the narrative pace of the tour. They will focus first on the historical gateways, the red sandstone mosque, and the architectural narratives of the outer complex buildings. As the sun burns off the mist around 8:30 AM, the Taj Mahal slowly reveals itself through the white shroud—a dramatic and unforgettable reveal that provides a more emotional experience than a clear-day visit."
-                        },
-                        {
-                          question: "Is this tour suitable for elderly travelers?",
-                          answer: "Absolutely. The early morning tour is significantly better for senior travelers because it avoids the physical strain of the intense Indian afternoon heat. The pathways at the Taj Mahal are relatively flat, though the walk from the battery bus drop-off point to the main gate is approximately 200 meters. For the main mausoleum, there are several wide steps to navigate, but our guides are trained to move at a comfortable, leisurely pace that respects your stamina. We also prioritize the East Gate entrance, which has the most reliable golf-cart shuttle system. If mobility is a major concern, please let us know in advance, and we can pre-arrange for the closest possible vehicle drop-off to minimize walking distance during your [visit to the Taj](/india/agra/taj-mahal-opening-time)."
-                        },
-                        {
-                          question: "What happens if sunrise is cloudy or foggy?",
-                          answer: "If the sky is overcast or fog is present, the 'Golden Hour' glow might be muted, but the historical and academic depth of the tour remains fully intact. Clouds actually provide soft, even lighting that is excellent for capturing the intricate details of the marble inlay and calligraphy without the high-contrast glare of direct sunlight. Our licensed guides are experts at pivoting the experience; instead of focusing solely on the 'sunrise moment,' they will dive deeper into the architectural symbolism of the Charbagh garden or the tales of the Mughal court. We ensure that even without a clear sun, your intellectual and visual appreciation of the world's most famous monument is not compromised by the erratic weather of the North Indian plains."
-                        },
-                        {
-                          question: "Is there refund if visibility is zero?",
-                          answer: "In accordance with our [terms and conditions](/terms-and-conditions), we do not offer refunds due to weather-related visibility issues. The monument remains open, and the significant costs associated with private transportation, ASI-licensed guide services, and entry tickets are non-recoverable once the tour has commenced. However, zero visibility is extremely rare; even in heavy fog, the Taj Mahal is visible from the main platform. The value of our tour lies in the expert historical narrative and the seamless logistics that get you inside the gates efficiently. A foggy day often results in a more intimate and less crowded visit, which many of our previous guests have rated as one of their most atmospheric and memorable travel experiences."
-                        },
-                        {
-                          question: "What months have heavy fog in Agra?",
-                          answer: "Heavy fog is primarily a winter phenomenon in Northern India, occurring most frequently between **mid-December and late January**. During these six weeks, the cold air from the Himalayas meets the moisture of the Yamuna River, creating thick morning mists. If you are highly sensitive to visibility for photography, we recommend planning your visit for late February through November. However, the fog usually begins to dissipate by 9:00 AM or 10:00 AM. Our guides monitor the local visibility alerts daily and will keep you informed if a slight delay in the start time would yield a better visual result while still avoiding the peak midday crowds that appear after the morning mist clears."
-                        },
-                        {
-                          question: "Can I bring tripod or drone?",
-                          answer: "Drones are strictly prohibited in the entire Agra region, especially near the Taj Mahal, which is a protected 'No-Fly Zone' for security reasons. Attempting to fly a drone will lead to immediate confiscation and potential legal action by the CISF. Similarly, professional tripods are not permitted inside the Taj Mahal complex without heavily restricted (and expensive) government permits. Even 'Vlogging' tripods or large monopods are often rejected at the security scanners. To ensure a smooth entry, we recommend relying on handheld photography. Our guides are experts at finding 'symmetry points' and steady ledges where you can rest your camera for long-exposure shots, or they can assist you in capturing high-quality photos using your smartphone’s stabilized lenses."
-                        },
-                        {
-                          question: "Are professional photos included?",
-                          answer: "While this is a sophisticated historical and cultural tour rather than a dedicated commercial photoshoot, our guides have assisted thousands of travelers and know exactly where the 'Golden Points' are located. They will help you capture the classic shots—like the Diana Bench view and the marble reflections—using your own equipment. If you require a professional photographer with a DSLR and post-processing services, we can arrange this as a specialized 'add-on' to your booking. However, most guests find that the combination of our guide's local knowledge of angles and modern smartphone capabilities results in an exceptional gallery of memories. This allows you to stay focused on the history while still coming away with professional-looking social media content from your [places to visit in Agra](/india/agra/places-to-visit-in-agra)."
-                        },
-                        {
-                          question: "Can the guide take Instagram-style photos?",
-                          answer: "Yes, our guides are well-versed in modern social media aesthetics and are happy to assist in capturing high-impact shots at the Taj Mahal's most iconic locations. They understand the nuances of 'symmetry points'—specific spots along the reflecting pools and the flanking guest houses where the architecture perfectly frames the subject. While their primary role is as a licensed historian, they recognize that travel memories are visual. They can help with posing, finding the right lighting during the Golden Hour, and avoiding the background crowds. This personalized assistance ensures that your personal gallery reflects the true majesty of the Taj Mahal while allowing you to remain fully immersed in the stories of Emperor Shah Jahan and Mumtaz Mahal."
-                        },
-                        {
-                          question: "How crowded is Taj Mahal at sunrise?",
-                          answer: "At the 6:00 AM opening, the crowd density is at its daily minimum. You will primarily be sharing the complex with other dedicated sunrise enthusiasts and professional photographers. This is the only time of day when you can experience the monument in relative silence, before the noise of thousands of day-trippers from Delhi begins to fill the space. However, it is important to note that 'not crowded' is relative; as one of the Seven Wonders, there will always be other visitors. By 8:30 AM, the first wave of mass-market tour buses arrives, and the energy changes significantly. This is why our strategic 5:15 AM start is non-negotiable for those seeking the premium, peaceful experience that defines our high-authority [things to do in Agra](/india/agra/things-to-do-in-agra) ranking."
-                        },
-                        {
-                          question: "Is winter sunrise too cold for kids?",
-                          answer: "Winter mornings in Agra (December to February) can be surprisingly chilly, with temperatures often dropping to 5°C or 8°C (40°F-45°F) before sunrise. For families traveling with children, we recommend a robust layering strategy: a warm jacket, a scarf, and comfortable walking shoes are essential. However, the biting cold is short-lived. Once the sun breaks the horizon around 7:00 AM, the temperature rises rapidly, often reaching a perfect 20°C (68°F) by the end of the tour. Children usually find the early morning golf-cart ride and the vast gardens of the Taj Mahal quite exciting. The absence of the oppressive midday heat makes them much less irritable than they would be during a standard afternoon visit, provided they have a light snack before the early start."
-                        },
-                        {
-                          question: "Can I re-enter Taj Mahal later in the day?",
-                          answer: "No, the Taj Mahal entry ticket is strictly **single-entry only**. The digital QR code on your ticket is scanned upon entry and then 'marked' as used in the ASI system. Once you pass through the exit turnstiles at the East or West gates, you cannot re-enter the complex using the same ticket. If you wish to witness the monument again at sunset from within the gardens, you would be required to purchase a completely new ticket at the standard [taj mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026). This is why we focus on maximizing your 2-hour morning window; it provides the best lighting and crowd conditions, ensuring you don't feel the need to return during the hot, crowded afternoon hours."
-                        },
-                        {
-                          question: "What is the difference between East and West gate entry?",
-                          answer: "The East Gate is generally preferred by international travelers and those staying in the 'Taj Ganj' luxury hotel district. It tends to have a more orderly security process and is further away from the city's chaotic central markets, making for a calmer start to the day. The West Gate is the primary entrance for the local population and budget travelers staying near the Agra Fort railway station. While both gates lead to the same entrance courtyard, the West Gate often suffers from longer queues as it handles a higher volume of last-minute ticketed visitors. For our sunrise tours, the East Gate is our strategic default choice because it ensures our guests spend less time in line and more time witnessing the light transition on the Taj Mahal's domes."
-                        },
-                        {
-                          question: "Is shoe cover included?",
-                          answer: "Yes, when you book a tour with us that includes the 'Main Mausoleum' access, high-quality shoe covers are provided as part of the monument supplement fee. These covers allow you to walk directly onto the elevated white marble platform and enter the interior cenotaph chamber without having to remove your footwear. This is a significant convenience, as the marble can be quite cold in winter or incredibly hot in summer. Without covers, you would be required to leave your shoes at an unsupervised rack or a paid counter. By using the provided covers, you maintain your comfort and hygiene while fully respecting the religious and historical sanctity of the tomb area, as outlined in our comprehensive [agra travel guide 2026](/india/agra/agra-travel-guide-2026)."
-                        },
-                        {
-                          question: "Are washrooms available inside the complex?",
-                          answer: "Clean, government-managed washroom facilities are located within the Taj Mahal complex, typically situated near the ticket checking areas and the entry paths to the main gardens. There are also pay-per-use 'Western-style' restrooms just outside the East and West gate security checkpoints. While these facilities are maintained regularly by the ASI, they can become quite busy as the morning progresses. We recommend using the facilities at your hotel before the 5:30 AM pickup to ensure your focus remains entirely on the monument's beauty. If you do need a break during the tour, simply inform your guide, and they will coordinate the best time to visit the internal facilities, ideally during a transition between the garden exploration and the mausoleum walkthrough."
-                        },
-                        {
-                          question: "Is breakfast included after the tour?",
-                          answer: "Standard guide-only morning tours do not include breakfast, but the timing is designed to get you back to your hotel or a local restaurant just as the morning meal service begins. If you have booked an 'All-Inclusive' package with us, we can often include a refined breakfast at one of Agra's most respected multi-cuisine restaurants or even a 5-star hotel buffet near the East Gate. Many guests prefer to return to their own hotel for breakfast around 9:00 AM to freshen up before continuing with the rest of their [1-day itinerary](/india/agra/1-day-agra-itinerary). If you would like us to pre-reserve a table at a local 'Agra Special' breakfast spot for Jalebi and Bedai, please request this at the time of booking."
-                        },
-                        {
-                          question: "Can I customize timing if I’m staying outside city center?",
-                          answer: "Absolutely. Since all our tours are 100% private, we offer full flexibility for customization. If your accommodation is located on the outskirts of Agra or if you are arriving early morning via the Yamuna Expressway from Delhi, we will calibrate the pickup time accordingly. The goal is always to synchronize your arrival at the gates with the official [taj mahal opening time](/india/agra/taj-mahal-opening-time). Please provide your exact location during the booking process so our logistics team can calculate the optimal transit time. We can also adjust the tour's end-point; for example, we can drop you off at a specific cafe, the Agra Fort, or even the railway station if you are departing shortly after your morning visit."
-                        },
-                        {
-                          question: "Is wheelchair assistance available at sunrise?",
-                          answer: "Yes, wheelchair assistance is available at the Taj Mahal, and it is a service we frequently coordinate for our guests. The Archaeological Survey of India provides basic manual wheelchairs at the main entry gates on a first-come, first-served basis. However, to ensure a seamless experience, we recommend informing us at least 48 hours in advance so our guide can prioritize securing a chair the moment the gates open. Most of the main paths in the Taj Mahal gardens are wheelchair accessible via ramps. While wheelchairs cannot go onto the very top marble platform of the mausoleum due to historical preservation of the steps, our guides will ensure you get the best possible views from the lowered platform and the surrounding reflecting pool areas."
-                        }
-                      ];
-                    }
-                    if (slug === 'taj-mahal-entry-ticket') {
-                      return [
-                        {
-                          question: "Is this an official Taj Mahal entry ticket?",
-                          answer: "Yes, these are 100% official digital entry tickets issued by the Archaeological Survey of India (ASI). As an authorized booking partner, we process your admission under strict government regulations, ensuring your QR code is valid at all entry turnstiles. Unlike unauthorized \"skip-the-line\" vouchers sold on the street, our tickets grant you legitimate access to the main Taj Mahal complex, including the peripheral gardens and flanking monuments. By pre-booking with us, you avoid the risk of counterfeit tickets and ensure your visit is recorded in the official ASI attendance system. This process is essential for maintaining the [safety guidelines](/safety-guidelines) and preservation standards of this UNESCO World Heritage site, providing you with a stress-free and guaranteed entry experience."
-                        },
-                        {
-                          question: "Does “skip-the-line” mean skipping security checks?",
-                          answer: "It is a common misconception that skip-the-line tickets allow you to bypass the security gates. In reality, \"Skip-The-Line\" refers specifically to bypassing the **official ASI ticket window queues**, which can often exceed 60 to 90 minutes during the peak tourist season. However, every single visitor to the Taj Mahal, regardless of their status or ticket type, must undergo a mandatory physical security screening conducted by the Central Industrial Security Force (CISF). This includes passing through metal detectors and having all bags scanned. To ensure the fastest possible entry, we recommend arriving with minimal belongings; carrying only your camera, phone, and a small water bottle will significantly reduce your time at the scanners and help you beat the crowds once you're inside."
-                        },
-                        {
-                          question: "Is mausoleum access included?",
-                          answer: "Yes, our premium foreign visitor tickets automatically include the **main mausoleum supplement**. The high-authority pricing for international tourists is designed to be all-encompassing, granting you access not just to the gardens and the guest house, but also to the elevated marble platform where the central cenotaphs of Shah Jahan and Mumtaz Mahal are located. It is important to note that access to the actual underground graves is restricted to a few days a year during the annual Urs; however, the main chamber with the stunning marble lattice screens is fully accessible with this ticket. Occasionally, the ASI may temporarily restrict mausoleum access for crowd control during peak festivals, but under standard operating procedures, your ticket ensures you see the very heart of the Taj."
-                        },
-                        {
-                          question: "Is this ticket valid for sunrise entry?",
-                          answer: "Absolutely. Your digital ticket is valid for entry starting from the moment the monument opens, which is officially 30 minutes before the [Taj Mahal opening time](/india/agra/taj-mahal-opening-time) at sunrise. In fact, we highly recommend the sunrise window as it is the most magical time to witness the marble transition through shades of lavender and pink. The ticket remains valid for a one-time entry throughout the day until 30 minutes before sunset. However, keep in mind that the earlier you arrive, the shorter the security queues will be. If you enter at sunrise, you can enjoy the vast complex in relative peace for several hours. This ticket provides you with the ultimate flexibility to witness the monument at its most ethereal hour without waiting in the early morning dark for a physical ticket counter to open."
-                        },
-                        {
-                          question: "Is the Taj Mahal closed on Fridays?",
-                          answer: "This is one of the most critical logistical facts to remember: **The Taj Mahal is closed every Friday** for general public viewing. The monument remains accessible only to local residents who attend the mosque for afternoon prayers. If you attempt to use your ticket on a Friday, the gates will be locked, and no refunds are processed by the ASI for date errors. Always ensure your travel itinerary is built around this weekly closure. On all other days, including Saturdays, Sundays, and major public holidays, the Taj Mahal is open from dawn to dusk. If you happen to be in Agra on a Friday, we recommend visiting the Mehtab Bagh (Moonlight Garden) across the river, which offers a stunning view of the Taj at sunset, or exploring the Agra Fort."
-                        },
-                        {
-                          question: "How will I receive my ticket?",
-                          answer: "We have designed a seamless digital delivery system to ensure your tickets are in your hands as soon as the government processes them. Once your booking is confirmed, we will send your official digital QR code ticket directly to your **WhatsApp number** and your registered email address. In the 2026 digital-first era, a physical printed copy is no longer mandatory; the gate turnstiles are equipped with high-speed scanners that can read the QR code directly from your smartphone screen. We recommend taking a quick screenshot of the ticket as soon as you receive it, as mobile data reception can sometimes be spotty in the dense stone gateways of the monument. This high-tactical delivery ensures you have zero paper waste and maximum convenience."
-                        },
-                        {
-                          question: "Is passport required for entry?",
-                          answer: "Yes, carrying your **original physical passport** is a non-negotiable requirement for all international visitors entering the Taj Mahal. The CISF security team and ASI gate attendants conduct random identity checks to ensure that the ticket holder matches the identification provided during the booking process. While a high-quality photo of your passport on your phone might occasionally suffice at some smaller monuments, the Taj Mahal's security protocols are among the strictest in India. Failure to produce your original passport can result in entry being denied, even with a valid ticket. We also recommend checking our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) for other essential documents and travel tips to ensure your day proceeds without any bureaucratic hurdles."
-                        },
-                        {
-                          question: "Can I pay in cash at the monument?",
-                          answer: "As of the 2026 season, the Taj Mahal has fully transitioned to a **cashless ticketing ecosystem**. The physical ticket windows that used to handle cash transactions have been largely replaced by QR-code kiosks and online-only booking portals. Attempting to buy a ticket with physical currency at the gate is no longer possible for foreign tourists. This shift was implemented by the Archaeological Survey of India to reduce corruption, eliminate black-marketing, and speed up the entry process. By pre-purchasing your ticket digitally through our secure platform, you bypass the confusion of local digital payment failures (which often reject international credit cards) and ensure you aren't stuck at the gate trying to find a working internet connection to book on the fly."
-                        },
-                        {
-                          question: "Can I book same-day tickets?",
-                          answer: "While same-day bookings are technically possible through our platform, they are subject to real-time availability on the government server. During the high-intensity peak season from October to March, the ASI often implements daily caps on the number of visitors to preserve the white marble's integrity. On popular days like Valentine's Day or public holidays, tickets can sell out 24 to 48 hours in advance. To avoid the heartbreak of traveling all the way to Agra only to find the \"Sold Out\" sign, we strongly recommend booking your tickets at least **3 to 7 days in advance**. This guarantees your entry and allows us to send your QR codes well before you even leave your hotel, giving you complete peace of mind for your visit."
-                        },
-                        {
-                          question: "Can I change the visit date after booking?",
-                          answer: "It is important to realize that government-issued monument tickets are generally **limited to the specific date** for which they were generated. Once a QR code is issued by the ASI server for a specific Tuesday, it cannot be \"moved\" to a Wednesday. The systems are rigid to prevent ticket scalping. If your travel plans change, we recommend contacting our support team immediately; however, in most cases, a new ticket would need to be purchased if the original has already been generated. This is why we double-check the date with you during the booking process. To ensure maximum flexibility, try to lock in your Taj Mahal date first, as other [places to visit in Agra](/india/agra/places-to-visit-in-agra) tend to be much more flexible with entry protocols."
-                        },
-                        {
-                          question: "Is this ticket refundable?",
-                          answer: "Transparency is at the core of our service: **Government monument tickets are strictly non-refundable** once they have been issued. The Archaeological Survey of India does not offer a refund mechanism for unused QR codes, even if you are unable to visit due to personal reasons, health issues, or travel delays. Because we pay the government fees immediately upon your booking to secure your slot, we are unable to refund the ticket portion of your payment. We highly recommend verifying your itinerary and double-checking your Taj Mahal date before completing the checkout process. This policy is a standard industry practice across all official booking partners for Indian national monuments, designed to maintain a stable and predictable flow of visitor revenue for site preservation."
-                        },
-                        {
-                          question: "What happens if the Taj Mahal closes unexpectedly?",
-                          answer: "While extremely rare, the Taj Mahal can occasionally close unexpectedly due to high-profile VIP visits (such as heads of state), sudden security alerts, or rapid government administrative orders. In such highly unusual scenarios where the monument is officially closed to the public by the ASI, we will work tirelessly on your behalf to either reschedule your ticket for the next available slot or process a full refund as per the specific government directive issued at that time. Our local team in Agra monitors these developments in real-time. If an \"unplanned closure\" occurs, we will notify you via WhatsApp immediately, saving you a trip to the gates and helping you pivot your day to other local sights like the Itmad-ud-Daulah (Baby Taj)."
-                        },
-                        {
-                          question: "What if visibility is poor due to fog?",
-                          answer: "Winter in Agra (December and January) often brings thick, ethereal fog from the Yamuna River. It is important to understand that **tickets remain valid and non-refundable** regardless of weather conditions. Even if the visibility is low at sunrise, the Taj Mahal typically reveals itself as the sun rises higher and the mist burns off, usually by 9:30 AM. Many professional photographers actually wait for fog because it provides a dream-like, hauntingly beautiful atmosphere that is unique to the winter season. If you are visiting during these months, don't be discouraged by a white-out start; use the early hours to explore the mosque and the symmetry of the gardens, and you'll likely be rewarded with a spectacular \"revealing\" of the dome once the sun emerges."
-                        },
-                        {
-                          question: "Which gate should foreign visitors use?",
-                          answer: "Foreign tourists are generally encouraged to use the **East Gate** or the **West Gate**. The East Gate is tactically the best choice for those staying in the luxury hotel clusters near the Taj Nature Walk; it typically offers a more streamlined security process and is less chaotic than the West Gate. The West Gate is the primary entrance for the local bustling market area and often sees higher traffic volumes. Both gates feature dedicated lanes for foreign ticket holders to expedite the security process. We recommend avoiding the South Gate, which is often used for exit only or has more restricted entry hours. No matter which gate you choose, your digital ticket is valid at all authorized entry points, giving you the flexibility to choose based on your hotel location."
-                        },
-                        {
-                          question: "Can I re-enter the Taj Mahal after exit?",
-                          answer: "No, your Taj Mahal entry ticket is primitive in its logic: it is strictly for **single entry only**. Once you pass through the entry turnstiles and then later through the exit turnstiles, the QR code in the ASI database is marked as \"Used\" and will not scan again. You cannot leave for lunch and come back for a sunset view on the same ticket. If you wish to experience both the sunrise glow and the evening light from inside the complex, you must stay within the gardens for the entire duration of your visit. Most visitors find that 2.5 to 3 hours is perfect for a deep exploration, but if you're a photography enthusiast, plan to bring a light snack (to eat *outside* the gates) and stay inside for the transition of light."
-                        },
-                        {
-                          question: "Is wheelchair access available?",
-                          answer: "Yes, the Taj Mahal is one of India's most accessible historical sites. The Archaeological Survey of India has implemented a comprehensive **wheelchair-friendly infrastructure**, featuring ramps that allow you to reach the main platform and circulate through the Charbagh gardens. Manual wheelchairs are available at the main entry gates on a first-come, first-served basis; however, these are often in high demand. If you require a wheelchair, we recommend arriving at the East Gate precisely at opening time and speaking with the ASI attendants. Our tickets also grant you access to the battery-operated buses that ferry visitors from the parking lots to the main gates, which are also equipped to handle passengers with mobility challenges, ensuring a comfortable visit for every traveler."
-                        },
-                        {
-                          question: "Are children required to purchase tickets?",
-                          answer: "Under current ASI regulations, children **under the age of 15** (both domestic and international) are granted free entry to the Taj Mahal. However, you must still register them during the booking process to ensure they have a valid \"Zero-Value\" ticket for the turnstiles. It is mandatory to carry a proof of age (such as a passport copy) for the child, as gate security may verify this if the child appears to be near the age limit. Please note that while the entrance is free, children must still undergo the same security screening as adults. For teenagers aged 15 and above, a full-priced ticket is required. This policy makes the Taj Mahal an excellent value destination for families, allowing younger children to experience world history at no cost."
-                        },
-                        {
-                          question: "What items are prohibited inside?",
-                          answer: "Security at the Taj Mahal is comparable to an international airport. **Prohibited items** include drones, tripods, large backpacks, food of any kind, tobacco products, lighters, and sharp objects. Electronic chargers, power banks, and even certain types of heavy-duty professional camera gear may be rejected at the scanners. To avoid being sent back to the cloakroom (which can waste 30 minutes of your morning), we recommend carrying only a small daypack containing your camera, phone, passport, and a single plastic water bottle. Most other items will have to be stored in the lockers at the ticket office area. Being \"light\" is the single best tactic for a fast and stress-free entry past the CISF security guards."
-                        },
-                        {
-                          question: "Are shoe covers included?",
-                          answer: "Yes, when you purchase a foreign visitor ticket that includes the mausoleum access, a pair of **high-quality shoe covers** and a bottle of branded water are typically provided by the ASI. You can collect these at the dedicated \"Foreign Visitor\" counters near the entry gates by showing your digital ticket. These shoe covers are mandatory for walking on the white marble platform of the main mausoleum; they protect the 400-year-old stone from erosion while allowing you to keep your shoes on. This is a much more hygienic and comfortable alternative to the domestic lanes where visitors are often required to walk barefoot or in socks. These small touches are part of the \"Premium Experience\" designed for international guests visiting the Taj."
-                        },
-                        {
-                          question: "Is photography allowed inside the Taj Mahal?",
-                          answer: "Photography is fully permitted and encouraged throughout the **vast outer complex**, the mosque, the guest house, and the sprawling gardens. You can take as many selfies and landscape shots as you like with the iconic dome in the background. However, photography and videography are **strictly prohibited inside the main mausoleum chamber** (the room containing the cenotaphs). This rule is enforced to maintain the sanctity and silence of the tomb area. Security guards are stationed inside and will politely but firmly ask you to put your phone away. Additionally, using professional drones or tripods anywhere in the complex requires a separate, difficult-to-obtain government permit, so stick to handheld devices for the best experience."
-                        },
-                        {
-                          question: "Why should I pre-book instead of buying at the gate?",
-                          answer: "Pre-booking is the single most important decision for a successful Agra trip. Buying at the gate exposes you to **three major risks**: long queues at the digital kiosks (which can reach 100+ people), the potential for the daily visitor quota to be exhausted, and the high failure rate of international credit cards on the local government website. By pre-booking through our high-authority portal, you arrive with your QR codes already on your phone, allowing you to walk straight to the security line. This often saves you up to an hour of standing in the sun, which is especially critical if you are trying to catch the sunrise. Pre-booking ensures your visit is \"locked in,\" removing the stress of logistics from your morning."
-                        },
-                        {
-                          question: "Is this ticket more expensive than the official government price?",
-                          answer: "Our pricing structure is designed to reflect the official ASI monument fees plus a **modest service and convenience charge**. This additional fee covers our 24/7 customer support, digital delivery via WhatsApp, protection against local payment gateway errors, and our commitment to helping you navigate any unexpected government closures. While you can technically attempt to book on the government site directly, travelers often find it frustrating due to slow server speeds and \"OTP\" requirements that don't work with international phone numbers. By paying a small professional fee, you are buying peace of mind, expert logistics, and the guarantee that your entrance to the world's most beautiful monument will be handled by specialists who understand the local landscape."
-                        },
-                        {
-                          question: "Is this suitable for elderly visitors?",
-                          answer: "Yes, the Taj Mahal is incredibly accommodating for seniors. The terrain is flat, featuring paved white marble paths and well-maintained sandstone walkways. To protect elderly guests from the physical strain of the intense mid-day heat, we **strongly recommend a sunrise entry**. This allows for a leisurely walk through the gardens in the cool morning air. We also coordinate with the battery-bus operators to ensure you are dropped off as close to the gate as possible. If a guest has severe mobility issues, our tickets allow for the use of the ramps throughout the site. Our advice is to take frequent breaks on the sandstone benches and enjoy the view; there is no need to rush, as the Taj is best appreciated at a slow, contemplative pace."
-                        },
-                        {
-                          question: "Can I see the \"Black Taj Mahal\" from here?",
-                          answer: "A legendary myth suggests that Emperor Shah Jahan planned to build a mirror-image \"Black Taj Mahal\" in obsidian across the Yamuna River for his own tomb. While historical excavations at the Mehtab Bagh (Moonlight Garden) have revealed foundations, most scholars now believe these were actually part of a massive charbagh garden designed to view the main Taj, rather than a separate tomb. However, you can still visit the **Mehtab Bagh** today with a separate ticket to see the perfect alignment. Standing there at sunset, you can imagine the grand scale of the Mughal architecture and decide for yourself if the \"Black Taj\" was a dream cut short by history or simply a beautiful legend passed down through the centuries."
-                        }
-                      ];
-                    }
-
-
-                    if (t.includes('delhi') && t.includes('agra') && t.includes('day trip')) {
-                      return [
-                        { question: "What time do we leave Delhi for a Taj Mahal day tour?", answer: "To maximize your day and experience the Taj Mahal at its most tranquil, we typically recommend a **3:00 AM or 4:00 AM departure** from Delhi. This early start allows you to reach Agra just as the gates open for sunrise, avoiding the heavy morning traffic on the Yamuna Expressway." },
-                        { question: "How long is the Delhi to Agra drive and is the expressway safe?", answer: "The drive from Delhi to Agra via the **Yamuna Expressway** typically takes between **3 to 3.5 hours**. This modern, 6-lane toll road is one of India's best highways, offering a smooth and safe journey. We include all toll taxes, parking, and fuel in your tour package." },
-                        { question: "Is a same-day Taj Mahal tour from Delhi actually worth it?", answer: "Absolutely—thanks to the ultra-fast Yamuna Expressway, a **same-day trip is the most popular way** to visit Agra. A well-structured itinerary easily covers the Taj Mahal, Agra Fort, and a relaxed 5-star lunch." }
-                      ];
-                    }
-                    if (t.includes('official') && t.includes('guide') && t.includes('licensed')) {
-                      return [
-                        { question: "What makes a guide 'official' at the Taj Mahal?", answer: "An **'official' guide** is a professional who has been rigorously vetted and licensed by the **Ministry of Tourism, Government of India (ASI)**. These experts are the only individuals legally authorized to conduct tours inside the Taj Mahal complex." },
-                        { question: "How long does the guided portion of the visit last?", answer: "A standard high-authority tour of the Taj Mahal typically lasts between **2 to 2.5 hours**. This allows your guide enough time to explain the gate architecture, the symmetrical gardens, and the intricate marble inlay work." },
-                        { question: "Is the guide fee separate from the entry ticket?", answer: "Yes, in the 'Guide Only' booking category, the fee covers the professional services of the historian. You must either have your [pre-booked digital tickets](/india/agra/taj-mahal-ticket-price-2026) ready or we can assist you in purchasing them online." }
-                      ];
-                    }
-                    if (t.includes('sunrise') && t.includes('skip') && t.includes('line')) {
-                      return [
-                        { question: "What time is hotel pickup for the sunrise tour in Agra?", answer: "For a true Taj Mahal sunrise experience, hotel pickup in Agra occurs between **5:15 AM and 5:45 AM**, depending on the season and official [sunrise timing](/india/agra/taj-mahal-opening-time). Entering early is the only way to witness the marble transition from soft grey to golden pink." },
-                        { question: "Does skip-the-line mean skipping security too?", answer: "It is important to understand that 'Skip-The-Line' applies specifically to the **official ASI ticket window**. It does **NOT** allow you to bypass the mandatory security screening conducted by the CISF. Every visitor must pass through the metal detectors." },
-                        { question: "What if it is foggy during sunrise in winter?", answer: "During December and January, morning fog is common. While it can obscure the first light, it creates a unique, ethereal atmosphere favored by photographers. Our guides adjust the pace, focusing on gate architecture until the sun burns off the mist." }
-                      ];
-                    }
-                    if (t.includes('female') && t.includes('guide')) {
-                      return [
-                        { question: "Are the female guides licensed by the government?", answer: "Every female guide we partner with is officially **licensed by the Ministry of Tourism, Government of India (ASI)**. They are verified professionals legally authorized to guide in all national monuments, providing both safety and historical accuracy." },
-                        { question: "Is this tour suitable for solo female travelers?", answer: "This tour is specifically engineered for **solo female travelers** seeking the highest level of comfort and security. A professional female guide acts as a 'cultural bridge' and a protective presence, allowing you to focus entirely on the beauty of the monuments." },
-                        { question: "Can the guide assist with saree draping and photography?", answer: "Yes, our female guides are experts in **saree draping** and can assist you with your outfit. They are also familiar with the Taj Mahal's 'symmetry points' for capturing iconic shots without the crowds." }
-                      ];
-                    }
-                    if (t.includes('fatehpur') && t.includes('sikri')) {
-                      return [
-                        { question: "How far is Fatehpur Sikri from Agra and how do we get there?", answer: "Fatehpur Sikri is located approximately **37 kilometers (23 miles)** west of Agra. The drive typically takes 1 to 1.5 hours. Most travelers visit it as a half-day trip or a stop while traveling between [Agra and Jaipur](/india/agra/1-day-agra-itinerary)." },
-                        { question: "Is it worth the extra time compared to more time at the Taj?", answer: "For anyone staying in Agra for more than 24 hours, Fatehpur Sikri is **essential**. It offers a completely different architectural language—a massive, red-sandstone testament to political power and urban living, far less crowded than the Taj." },
-                        { question: "Are guides required for Fatehpur Sikri?", answer: "A [licensed guide](/india/agra/things-to-do-in-agra) is highly recommended because the site is enormous and lacks signage. Without a guide, it is easy to miss the architectural significance of buildings like the 'Iron-Free' pillars." }
-                      ];
-                    }
-                    if (t.includes('ticket') && t.includes('skip')) {
-                      return [
-                        { question: "Is the mausoleum access included in this ticket?", answer: "Yes. Our 'Premium' entry tickets automatically include the **mandatory main mausoleum supplement**. The official price structure requires this extra fee (₹200) to enter the cenotaph chamber where the main marble screens are located." },
-                        { question: "Do I skip the security line with this ticket?", answer: "While this ticket allows you to **bypass the 60-minute ticket-window queue**, all visitors must still undergo the mandatory security screening. No ticket type allows you to skip security, but having your QR code ready significantly speeds up the process." },
-                        { question: "Is a printed copy of the ticket required?", answer: "No, a **digital copy on your smartphone** is perfectly acceptable for the 2026 season. Simply show the QR code to the gate attendants for scanning. We recommend taking a screenshot in case of poor mobile reception near the gates." }
-                      ];
                     }
                     return null;
-                  };
+                  })()}
 
-                  const tourTitle = tour.title || 'this tour';
-                  const specificFAQs = getTourSpecificFAQs(tourTitle, tourSlug);
+                  {/* Full Description */}
+                  <div className="mb-8">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">Full description</h2>
+                    <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+                      <div className="text-[16px] text-gray-700 font-semibold leading-[1.8] whitespace-pre-wrap break-words">
+                        {(() => {
+                          if (!tour.fullDescription) return null;
 
-                  const tourFAQs = specificFAQs || [
-                    {
-                      question: `What is specifically included in the ${tourTitle}?`,
-                      answer: tour.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary.`
-                    },
-                    {
-                      question: `How long is the actual ${tourTitle} experience?`,
-                      answer: `The duration of the ${tourTitle} is typically ${tour.duration || 'a few hours'}. We recommend arriving 15 minutes before the scheduled start time for a smooth experience.`
-                    },
-                    {
-                      question: `What is the best time to start the ${tourTitle}?`,
-                      answer: "For most monument visits, we highly recommend a sunrise start. This allows you to avoid the midday heat, bypass the largest crowds, and capture the best lighting for photography."
-                    }
-                  ];
+                          // Helper to render inline markdown (bold, italics, and links)
+                          const renderMarkdownText = (text: string) => {
+                            // First handle links [label](url) and bold (**text**)
+                            const regex = /(\*\*.*?\*\*|\[.*?\]\(.*?\))/g;
+                            const parts = text.split(regex);
 
-                  if ((tour.city?.toLowerCase() === 'agra' || tourTitle.toLowerCase().includes('taj mahal')) && !specificFAQs) {
-                    tourFAQs.push({
-                      question: "Is the Taj Mahal closed on Friday?",
-                      answer: "Yes, the Taj Mahal is closed every Friday for religious reasons. Please ensure your tour date for the Taj Mahal does not fall on a Friday."
-                    });
-                    tourFAQs.push({
-                      question: "Is original passport mandatory for entry?",
-                      answer: "Yes, foreign tourists must show their original passport or a high-quality digital photo at the entrance gates for security identification and monument entry."
-                    });
-                  }
+                            return parts.map((part, i) => {
+                              if (part.startsWith('**') && part.endsWith('**')) {
+                                return <span key={`b-${i}`} className="font-black text-[#001A33]">{part.slice(2, -2)}</span>;
+                              }
+                              if (part.startsWith('[') && part.includes('](')) {
+                                const match = part.match(/\[(.*?)\]\((.*?)\)/);
+                                if (match) {
+                                  return (
+                                    <a key={`l-${i}`} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
+                                      {match[1]}
+                                    </a>
+                                  );
+                                }
+                              }
 
-                  if (!specificFAQs) {
-                    tourFAQs.push({
-                      question: `Will I receive confirmation after booking the ${tourTitle}?`,
-                      answer: "Yes, once your booking is completed via our secure gateway, you will receive an instant confirmation email with your tour details and guide contact information."
-                    });
-                  }
+                              // Then handle italics (*text*) within remaining parts
+                              const italicParts = part.split(/(\*.*?\*)/g);
+                              return italicParts.map((iPart, j) => {
+                                if (iPart.startsWith('*') && iPart.endsWith('*')) {
+                                  return <i key={`i-${i}-${j}`} className="font-semibold text-gray-800 italic">{iPart.slice(1, -1)}</i>;
+                                }
+                                return iPart;
+                              });
+                            });
+                          };
 
-                  // Helper to render text with markdown-style links and bolding
-                  const renderWithLinks = (text: string) => {
-                    return text.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g).map((part, i) => {
-                      if (part.startsWith('**') && part.endsWith('**')) {
-                        return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
-                      }
-                      if (part.startsWith('[') && part.includes('](')) {
-                        const match = part.match(/\[(.*?)\]\((.*?)\)/);
-                        if (match) {
-                          return (
-                            <a key={i} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
-                              {match[1]}
-                            </a>
-                          );
-                        }
-                      }
-                      return part;
-                    });
-                  };
+                          return tour.fullDescription.split('\n').map((line: string, i: number) => {
+                            const trimmed = line.trim();
 
-                  return tourFAQs.map((faq, idx) => {
-                    const isExpanded = expandedFAQs.has(idx);
-                    return (
-                      <div key={idx} className="border-b border-gray-100 last:border-0 overflow-hidden">
-                        <button
-                          onClick={() => toggleFAQExpand(idx)}
-                          className="w-full py-6 flex items-center justify-between text-left group"
-                        >
-                          <h3 className="text-[18px] font-black text-[#001A33] group-hover:text-[#10B981] transition-colors pr-8">
-                            {faq.question}
-                          </h3>
-                          <div className={`shrink-0 transition-transform duration-300 ${isExpanded ? 'rotate-180' : ''}`}>
-                            <ChevronDown size={24} className="text-gray-400 group-hover:text-[#10B981]" />
-                          </div>
-                        </button>
-                        <div
-                          className={`grid transition-all duration-300 ease-in-out ${isExpanded ? 'grid-rows-[1fr] opacity-100 mb-8' : 'grid-rows-[0fr] opacity-0'}`}
-                        >
-                          <div className="overflow-hidden">
-                            <div className="text-[16px] text-gray-600 font-semibold leading-relaxed">
-                              {renderWithLinks(faq.answer)}
-                            </div>
+                            // Handle Headings
+                            if (trimmed.startsWith('# ')) {
+                              return <h1 key={i} className="text-3xl font-black text-[#001A33] mb-6 mt-8 border-b pb-2">{trimmed.replace('# ', '')}</h1>;
+                            }
+                            if (trimmed.startsWith('## ')) {
+                              return <h2 key={i} className="text-2xl font-black text-[#001A33] mb-4 mt-8">{trimmed.replace('## ', '')}</h2>;
+                            }
+                            if (trimmed.startsWith('### ')) {
+                              return <h3 key={i} className="text-xl font-black text-[#001A33] mb-3 mt-6">{trimmed.replace('### ', '')}</h3>;
+                            }
+
+                            // Handle Separators
+                            if (trimmed === '---') {
+                              return <hr key={i} className="my-8 border-gray-200" />;
+                            }
+
+                            // Handle Bullets
+                            if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
+                              const content = trimmed.startsWith('* ') ? trimmed.replace('* ', '') : trimmed.replace('- ', '');
+                              return (
+                                <div key={i} className="flex gap-2 mb-2 ml-4">
+                                  <span className="text-[#10B981] font-black">•</span>
+                                  <span className="text-gray-700">{renderMarkdownText(content)}</span>
+                                </div>
+                              );
+                            }
+
+                            // Handle Numbered Lists (like 1. 2. 3. inside paragraphs)
+                            if (/^\d+\.\s/.test(trimmed)) {
+                              const index = trimmed.split('. ')[0];
+                              const content = trimmed.split('. ').slice(1).join('. ');
+                              return (
+                                <div key={i} className="flex gap-2 mb-2 ml-4">
+                                  <span className="text-[#10B981] font-black">{index}.</span>
+                                  <span className="text-gray-700">{renderMarkdownText(content)}</span>
+                                </div>
+                              );
+                            }
+
+                            // Handle Paragraphs
+                            return (
+                              <p key={i} className="mb-4 last:mb-0 text-gray-700">
+                                {renderMarkdownText(line)}
+                              </p>
+                            );
+                          });
+                        })()}
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Visual Itinerary Timeline */}
+                  {tour.itineraryItems && Array.isArray(tour.itineraryItems) && tour.itineraryItems.length > 0 && (
+                    <div className="mb-8">
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour Itinerary</h2>
+                      <div className="bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl p-4 mb-6">
+                        <div className="flex items-center gap-2 mb-1">
+                          <CheckCircle2 size={16} className="text-[#10B981]" />
+                          <span className="text-[14px] font-bold text-[#10B981]">Itineraries are customisable as per your request</span>
+                        </div>
+                        <p className="text-[13px] text-gray-500 font-semibold ml-6">The schedule below is a suggested plan and can be adjusted to suit your preferences.</p>
+                      </div>
+                      <div className="relative">
+                        <div className="space-y-0">
+                          {tour.itineraryItems.map((item: any, index: number) => {
+                            const isLast = index === tour.itineraryItems.length - 1;
+
+                            // Format time for display
+                            const formatTime = (time: string) => {
+                              if (!time) return '';
+                              if (time.includes('AM') || time.includes('PM')) return time;
+                              const [h, m] = time.split(':');
+                              const hour = parseInt(h, 10);
+                              const ampm = hour >= 12 ? 'PM' : 'AM';
+                              const displayHour = hour % 12 || 12;
+                              return `${displayHour}:${m} ${ampm}`;
+                            };
+
+                            // Type-specific styling and icons
+                            const getTypeConfig = (type: string) => {
+                              const isOptional = type === 'optional';
+                              const iconColor = isOptional ? '#6B7280' : 'white';
+                              const bgClass = isOptional ? 'bg-white' : 'bg-[#10B981]';
+                              const borderClass = isOptional ? 'border-gray-300' : 'border-[#10B981]';
+
+                              const configs: Record<string, { bg: string; border: string; icon: React.ReactNode }> = {
+                                pickup: { bg: bgClass, border: borderClass, icon: <MapPin size={14} color={iconColor} strokeWidth={2.5} /> },
+                                transport: { bg: bgClass, border: borderClass, icon: <Bus size={14} color={iconColor} strokeWidth={2.5} /> },
+                                visit: { bg: bgClass, border: borderClass, icon: <Landmark size={14} color={iconColor} strokeWidth={2.5} /> },
+                                meal: { bg: bgClass, border: borderClass, icon: <Utensils size={14} color={iconColor} strokeWidth={2.5} /> },
+                                activity: { bg: bgClass, border: borderClass, icon: <Activity size={14} color={iconColor} strokeWidth={2.5} /> },
+                                optional: { bg: bgClass, border: borderClass, icon: <Map size={14} color={iconColor} strokeWidth={2.5} /> },
+                                return: { bg: bgClass, border: borderClass, icon: <Home size={14} color={iconColor} strokeWidth={2.5} /> }
+                              };
+                              return configs[type] || configs.visit;
+                            };
+
+                            const config = getTypeConfig(item.type);
+                            const isTransport = item.type === 'transport';
+                            const isOptional = item.optional || item.type === 'optional';
+
+                            return (
+                              <div key={index} className={`relative pl-12 py-3 ${isOptional ? 'opacity-80' : ''}`}>
+                                {/* Segmented connecting line to next item (stops at last item) */}
+                                {!isLast && (
+                                  <div className="absolute left-[19px] top-6 bottom-[-1.5rem] w-[4px] bg-[#10B981]/50 rounded-full z-0" />
+                                )}
+
+                                {/* Icon on timeline */}
+                                <div className={`absolute left-[6px] top-5 w-[30px] h-[30px] rounded-full ${config.bg} ${config.border} border-[3px] flex items-center justify-center z-10 shadow-md`}>
+                                  {config.icon}
+                                </div>
+
+                                <div className="bg-white border border-gray-100 shadow-sm hover:shadow-md rounded-xl p-4 transition-all">
+                                  <div className="flex items-start justify-between gap-4">
+                                    <div className="flex-1 min-w-0">
+                                      <div className="flex items-center gap-3 mb-1.5">
+                                        <span className="text-[13px] font-black text-[#10B981] tracking-wide">
+                                          {formatTime(item.time)}
+                                        </span>
+                                        {item.duration && (
+                                          <span className="text-[11px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
+                                            {item.duration}
+                                          </span>
+                                        )}
+                                        {isOptional && (
+                                          <span className="text-[10px] font-bold text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full uppercase tracking-wider border border-amber-200">
+                                            Optional
+                                          </span>
+                                        )}
+                                      </div>
+                                      <h3 className={`text-[16px] font-black ${isTransport ? 'text-gray-500' : 'text-[#001A33]'} mb-1`}>
+                                        {item.title}
+                                      </h3>
+                                      {item.description && (
+                                        <p className={`text-[14px] font-semibold ${isTransport ? 'text-gray-400' : 'text-gray-600'} leading-relaxed`}>
+                                          {item.description}
+                                        </p>
+                                      )}
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Detailed Itinerary Description */}
+                  {tour.detailedItinerary && (
+                    <div className="mb-8">
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Detailed Itinerary</h2>
+                      <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+                        {tour.detailedItinerary.split('\n').map((line: string, index: number) => {
+                          const trimmed = line.trim();
+                          if (trimmed.startsWith('## ')) {
+                            return <h2 key={index} className="text-xl font-black text-[#001A33] mt-6 mb-3 first:mt-0">{trimmed.replace(/^##\s*/, '')}</h2>;
+                          }
+                          if (trimmed === '') {
+                            return <div key={index} className="h-2" />;
+                          }
+                          return <p key={index} className="text-[15px] text-gray-700 font-semibold leading-[1.8] break-words whitespace-pre-wrap">{trimmed}</p>;
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Includes Section */}
+                  {tour.included && (
+                    <div className="mb-8">
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Includes</h2>
+                      <ul className="space-y-3">
+                        {tour.included.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
+                          <li key={index} className="flex items-start gap-3">
+                            <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={20} />
+                            <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {/* Not Included Section */}
+                  {tour.notIncluded && (
+                    <div className="mb-8">
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Excludes</h2>
+                      <ul className="space-y-3">
+                        {tour.notIncluded.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
+                          <li key={index} className="flex items-start gap-3">
+                            <X className="text-red-500 shrink-0 mt-1" size={20} />
+                            <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+
+                  {/* Important Information */}
+                  <div className="mb-8">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">Important information</h2>
+                    {tour.meetingPoint && (
+                      <div className="mb-4">
+                        <h3 className="text-[18px] font-black text-[#001A33] mb-2">Meeting point</h3>
+                        <p className="text-[16px] text-gray-700 font-semibold">{tour.meetingPoint}</p>
+                      </div>
+                    )}
+                    <div>
+                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">Know before you go</h3>
+                      <ul className="space-y-2">
+                        <li className="flex items-start gap-3">
+                          <div className="w-2 h-2 bg-[#001A33] rounded-full mt-2 shrink-0"></div>
+                          <span className="text-[16px] text-gray-700 font-semibold">
+                            Free cancellation available up to 24 hours before the activity starts
+                          </span>
+                        </li>
+                        {tour.category === 'Entry Ticket' && (
+                          <li className="flex items-start gap-3">
+                            <div className="w-2 h-2 bg-[#001A33] rounded-full mt-2 shrink-0"></div>
+                            <span className="text-[16px] text-gray-700 font-semibold">
+                              Please bring a valid ID or passport for entry
+                            </span>
+                          </li>
+                        )}
+                      </ul>
+                    </div>
+                  </div>
+
+                  {/* About this activity */}
+                  <div className="mb-8">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-6">About this activity</h2>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-4">
+                        <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                          <CheckCircle2 className="text-[#10B981]" size={16} />
+                        </div>
+                        <div>
+                          <div className="font-black text-[#001A33] text-[16px] mb-1">Free cancellation</div>
+                          <div className="text-[14px] text-gray-600 font-semibold">
+                            Cancel up to 24 hours in advance for a full refund
                           </div>
                         </div>
                       </div>
-                    );
-                  });
-                })()}
+                      <div className="flex items-start gap-4">
+                        <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                          <CheckCircle2 className="text-[#10B981]" size={16} />
+                        </div>
+                        <div>
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
+                          <div className="text-[12px] text-gray-600 font-semibold break-words">
+                            Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
+                            <a href="#" className="text-[#10B981] underline">Read more</a>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex items-start gap-4">
+                        <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                          <Clock className="text-[#10B981]" size={16} />
+                        </div>
+                        <div>
+                          <div className="font-black text-[#001A33] text-[16px] mb-1">
+                            Duration {tour.duration}
+                          </div>
+                          <div className="text-[14px] text-gray-600 font-semibold">
+                            Check availability to see starting times
+                          </div>
+                        </div>
+                      </div>
+                      {tour.included && tour.included.toLowerCase().includes('skip') && (
+                        <div className="flex items-start gap-4">
+                          <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                            <CheckCircle2 className="text-[#10B981]" size={16} />
+                          </div>
+                          <div>
+                            <div className="font-black text-[#001A33] text-[16px] mb-1">Skip the ticket line</div>
+                          </div>
+                        </div>
+                      )}
+                      {tour.languages && tour.languages.length > 0 && (
+                        <div className="flex items-start gap-4">
+                          <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                            <User className="text-[#10B981]" size={16} />
+                          </div>
+                          <div>
+                            <div className="font-black text-[#001A33] text-[16px] mb-1">Live tour guide</div>
+                            <div className="text-[14px] text-gray-600 font-semibold">
+                              {tour.languages.join(', ')}
+                            </div>
+                          </div>
+                        </div>
+                      )}
+                      {tour.meetingPoint && (
+                        <div className="flex items-start gap-4">
+                          <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                            <Bus className="text-[#10B981]" size={16} />
+                          </div>
+                          <div>
+                            <div className="font-black text-[#001A33] text-[16px] mb-1">Pickup included</div>
+                            <div className="text-[14px] text-gray-600 font-semibold">
+                              Driver will pick you up from hotel/airport or any desired location in {city || 'the city'}
+                            </div>
+                          </div>
+                        </div>
+                      )}
+                      {/* Wheelchair accessible - can be added as a tour field later */}
+                      <div className="flex items-start gap-4">
+                        <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                          <CheckCircle2 className="text-[#10B981]" size={16} />
+                        </div>
+                        <div>
+                          <div className="font-black text-[#001A33] text-[16px] mb-1">Wheelchair accessible</div>
+                        </div>
+                      </div>
+                      {tour.guideType === 'Tour Guide' && (
+                        <div className="flex items-start gap-4">
+                          <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
+                            <Users className="text-[#10B981]" size={16} />
+                          </div>
+                          <div>
+                            <div className="font-black text-[#001A33] text-[16px] mb-1">Private group</div>
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+
+                  <RelatedTours currentTourId={tour?.id} country={country || tour?.country} city={city || tour?.city} />
+
+                </div>
+
+                {/* Right Column - Booking Panel */}
+                <div className="lg:col-span-1" ref={bookingBoxRef}>
+                  <div className="sticky top-24 bg-white rounded-2xl p-6 border-2 border-gray-200 shadow-sm min-w-0">
+                    {/* Share */}
+                    <div className="flex items-center justify-end gap-4 mb-6">
+                      <a href="#" className="text-[14px] text-gray-600 font-semibold hover:text-[#10B981] transition-colors">
+                        Share
+                      </a>
+                    </div>
+
+                    <div className="mb-6">
+                      {/* Show main tour pricing ONLY when NO option is selected */}
+                      {!selectedOption && (
+                        <div className="mb-4">
+                          <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Main Tour Price</div>
+                          <div className="flex items-baseline gap-3 mb-1">
+                            <span className="text-[14px] text-gray-500 font-semibold">
+                              Starting from {tour.currency === 'INR' ? '₹' : '$'}
+                              {(() => {
+                                console.log('═══════════════════════════════════════════════════════════');
+                                console.log('🏷 "STARTING FROM" PRICE CALCULATION');
+                                console.log('═══════════════════════════════════════════════════════════');
+
+                                // Get the price for 1 person (first tier: 1-1 person)
+                                let priceForOne = tour.pricePerPerson || 0;
+                                console.log('📥 Initial priceForOne (from pricePerPerson):', priceForOne);
+
+                                // Check main tour option (sortOrder: -1) for groupPricingTiers first
+                                if (tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
+                                  console.log('🔍 Checking main tour option for 1-1 person price...');
+                                  const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1);
+                                  console.log('   Main tour option:', {
+                                    found: !!mainTourOption,
+                                    title: mainTourOption?.optionTitle,
+                                    hasGroupPricingTiers: !!mainTourOption?.groupPricingTiers
+                                  });
+
+                                  if (mainTourOption && mainTourOption.groupPricingTiers) {
+                                    try {
+                                      const tiers = typeof mainTourOption.groupPricingTiers === 'string'
+                                        ? JSON.parse(mainTourOption.groupPricingTiers)
+                                        : mainTourOption.groupPricingTiers;
+                                      console.log('   Parsed pricing slabs from main tour option:', tiers);
+                                      if (Array.isArray(tiers) && tiers.length > 0 && tiers[0].price) {
+                                        // First tier is always for 1 person (1-1 person)
+                                        const firstTier = tiers[0];
+                                        priceForOne = parseFloat(firstTier.price || 0);
+                                        console.log('✅ Default price (1-1 person) from main tour option:', {
+                                          slab: `${firstTier.minPeople}-${firstTier.maxPeople}`,
+                                          price: priceForOne,
+                                          rawPrice: firstTier.price
+                                        });
+                                      } else {
+                                        console.warn('⚠️ Main tour option tiers invalid or empty');
+                                      }
+                                    } catch (e) {
+                                      console.error('❌ Error parsing main tour option groupPricingTiers:', e);
+                                    }
+                                  } else {
+                                    console.log('ℹ️ Main tour option has no groupPricingTiers');
+                                  }
+                                }
+
+                                // Check tour.groupPricingTiers directly
+                                if (priceForOne === (tour.pricePerPerson || 0) && tour.groupPricingTiers) {
+                                  console.log('🔍 Checking tour.groupPricingTiers directly...');
+                                  try {
+                                    const tiers = typeof tour.groupPricingTiers === 'string'
+                                      ? JSON.parse(tour.groupPricingTiers)
+                                      : tour.groupPricingTiers;
+                                    console.log('   Parsed pricing slabs from tour:', tiers);
+                                    if (Array.isArray(tiers) && tiers.length > 0 && tiers[0].price) {
+                                      // First tier is always for 1 person (1-1 person)
+                                      const firstTier = tiers[0];
+                                      priceForOne = parseFloat(firstTier.price || 0);
+                                      console.log('✅ Default price (1-1 person) from tour:', {
+                                        slab: `${firstTier.minPeople}-${firstTier.maxPeople}`,
+                                        price: priceForOne,
+                                        rawPrice: firstTier.price
+                                      });
+                                    }
+                                  } catch (e) {
+                                    console.error('❌ Error parsing tour groupPricingTiers:', e);
+                                  }
+                                }
+
+                                console.log('💰 FINAL "STARTING FROM" PRICE:', priceForOne);
+                                console.log('═══════════════════════════════════════════════════════════');
+                                return priceForOne.toLocaleString();
+                              })()}
+                            </span>
+                            <div className="text-3xl font-black text-red-600">
+                              {tour.currency === 'INR' ? '₹' : '$'}
+                              {(() => {
+                                const currentParticipants = isCustomParticipants ? customParticipants : participants;
+                                console.log('═══════════════════════════════════════════════════════════');
+                                console.log('💰 DYNAMIC PRICE CALCULATION (person count changed)');
+                                console.log('═══════════════════════════════════════════════════════════');
+                                console.log('📥 Selected persons:', currentParticipants);
+                                console.log('   isCustomParticipants:', isCustomParticipants);
+
+                                // Always use group pricing logic - calculate from tiers
+                                const groupPrice = calculateGroupPrice(tour, currentParticipants);
+
+                                if (groupPrice !== null && groupPrice > 0) {
+                                  console.log('✅ Using calculated group price:', groupPrice);
+                                  console.log('═══════════════════════════════════════════════════════════');
+                                  return groupPrice.toLocaleString();
+                                }
+
+                                // Check main tour option for group pricing
+                                if (tour && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
+                                  console.log('🔍 Falling back to main tour option...');
+                                  const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1) || tour.options[0];
+                                  if (mainTourOption && mainTourOption.groupPricingTiers) {
+                                    const optionGroupPrice = calculateGroupPrice(mainTourOption, currentParticipants);
+                                    if (optionGroupPrice !== null && optionGroupPrice > 0) {
+                                      console.log('✅ Using main tour option price:', optionGroupPrice);
+                                      console.log('═══════════════════════════════════════════════════════════════');
+                                      return optionGroupPrice.toLocaleString();
+                                    }
+                                  }
+                                  // DO NOT use groupPrice - it's the LAST tier price (wrong)
+                                }
+
+                                // Fallback: use pricePerPerson (should be first tier price)
+                                console.warn('⚠️ Using fallback pricePerPerson:', tour.pricePerPerson);
+                                console.log('═══════════════════════════════════════════════════════════');
+                                return (tour.pricePerPerson || 0).toLocaleString();
+                              })()}
+                            </div>
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Show option pricing when selected - replaces main tour price */}
+                      {selectedOption && (
+                        <div className="mb-4">
+                          <div className="flex items-center justify-between mb-2">
+                            <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider">Selected Option Price</div>
+                            <button
+                              onClick={() => setSelectedOption(null)}
+                              className="text-[11px] text-[#0071EB] font-semibold hover:underline"
+                            >
+                              Back to Main Tour
+                            </button>
+                          </div>
+                          <div className="flex items-baseline gap-3 mb-1">
+                            <div className="text-3xl font-black text-[#10B981]">
+                              {(selectedOption.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$'}
+                              {(() => {
+                                const currentParticipants = isCustomParticipants ? customParticipants : participants;
+                                console.log('═══════════════════════════════════════════════════════════');
+                                console.log('💰 SELECTED OPTION PRICE CALCULATION');
+                                console.log('═══════════════════════════════════════════════════════════');
+                                console.log('Selected option:', {
+                                  id: selectedOption.id,
+                                  title: selectedOption.optionTitle,
+                                  price: selectedOption.price,
+                                  hasGroupPricingTiers: !!selectedOption.groupPricingTiers,
+                                  groupPricingTiersType: typeof selectedOption.groupPricingTiers
+                                });
+                                console.log('Current participants:', currentParticipants);
+
+                                // ALWAYS use group pricing logic - calculate from tiers
+                                // This will use option's tiers if available, otherwise fall back to main tour's tiers
+                                const groupPrice = calculateGroupPrice(selectedOption, currentParticipants);
+                                if (groupPrice !== null && groupPrice > 0) {
+                                  return groupPrice.toLocaleString();
+                                }
+
+                                // DO NOT use groupPrice fallback - it's the LAST tier price (₹8,200 for 10 people)
+                                // Final fallback: use main tour's pricing tiers
+                                console.log('🔍 Selected option has no groupPricingTiers, falling back to main tour...');
+                                const mainTourPrice = calculateGroupPrice(tour, currentParticipants);
+                                if (mainTourPrice !== null && mainTourPrice > 0) {
+                                  console.log('✅ Using main tour groupPricingTiers:', mainTourPrice);
+                                  console.log('═══════════════════════════════════════════════════════════');
+                                  return mainTourPrice.toLocaleString();
+                                }
+
+                                // Last resort: use option.price (should be first tier price)
+                                console.warn('⚠️ Using option.price fallback:', selectedOption.price);
+                                console.log('═══════════════════════════════════════════════════════════');
+                                return (selectedOption.price || 0).toLocaleString();
+                              })()}
+                            </div>
+                          </div>
+                          <div className="text-[12px] text-gray-500 mt-1">
+                            Option: {selectedOption.optionTitle}
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Group Pricing Tiers Display */}
+                      {(() => {
+                        const tourData = selectedOption || tour;
+                        let groupPricingTiers = null;
+
+                        if (tourData.groupPricingTiers) {
+                          try {
+                            groupPricingTiers = typeof tourData.groupPricingTiers === 'string'
+                              ? JSON.parse(tourData.groupPricingTiers)
+                              : tourData.groupPricingTiers;
+                          } catch (e) {
+                            console.error('Error parsing groupPricingTiers:', e);
+                          }
+                        }
+
+                        // If no groupPricingTiers on tourData and this is main tour, check main tour option
+                        if (!groupPricingTiers && !selectedOption && tour && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
+                          const mainTourOption = tour.options.find((opt: any) => opt.sortOrder === -1) || tour.options[0];
+                          if (mainTourOption && mainTourOption.groupPricingTiers) {
+                            try {
+                              groupPricingTiers = typeof mainTourOption.groupPricingTiers === 'string'
+                                ? JSON.parse(mainTourOption.groupPricingTiers)
+                                : mainTourOption.groupPricingTiers;
+                            } catch (e) {
+                              console.error('Error parsing groupPricingTiers from main tour option:', e);
+                            }
+                          }
+                        }
+
+                        if (groupPricingTiers && Array.isArray(groupPricingTiers) && groupPricingTiers.length > 0) {
+                          const currencySymbol = (tourData.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$';
+                          const currentParticipants = isCustomParticipants ? customParticipants : participants;
+                          const currentPrice = calculateGroupPrice(tourData, currentParticipants);
+
+                          // Don't show the pricing tiers table, but keep price calculation working
+                          // Price will update dynamically when participants change
+                          return null; // Hide the pricing tiers display
+                        }
+                        return null;
+                      })()}
+
+                      {/* Tour Types - More Prominent Display */}
+                      {tour.tourTypes && (() => {
+                        try {
+                          const tourTypesArray = typeof tour.tourTypes === 'string' ? JSON.parse(tour.tourTypes) : tour.tourTypes;
+                          if (Array.isArray(tourTypesArray) && tourTypesArray.length > 0) {
+                            return (
+                              <div className="mt-4">
+                                <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Tour Type</div>
+                                <div className="flex flex-wrap gap-2">
+                                  {tourTypesArray.map((type: string, idx: number) => (
+                                    <span
+                                      key={idx}
+                                      className="px-3 py-1.5 bg-[#10B981]/10 text-[#10B981] text-[12px] font-black rounded-full border border-[#10B981]/20"
+                                    >
+                                      {type}
+                                    </span>
+                                  ))}
+                                </div>
+                              </div>
+                            );
+                          }
+                        } catch (e) {
+                          console.error('Error parsing tourTypes:', e);
+                        }
+                        return null;
+                      })()}
+                    </div>
+
+                    {/* Date Selector - Premium Calendar */}
+                    <div className="mb-6">
+                      <div className="relative">
+                        <button
+                          onClick={() => setShowCalendarModal(true)}
+                          className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none text-left flex items-center justify-between hover:border-[#10B981] transition-colors"
+                        >
+                          <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }) : 'Select date'}</span>
+                          <Calendar className="text-gray-400 shrink-0" size={20} />
+                        </button>
+                      </div>
+                    </div>
+
+                    {/* Booking Options - Dropdown Style */}
+                    <div className="space-y-4 mb-6">
+                      <div className="relative">
+                        <select
+                          value={isCustomParticipants ? 'custom' : participants}
+                          onChange={(e) => {
+                            if (e.target.value === 'custom') {
+                              setIsCustomParticipants(true);
+                              setParticipants(customParticipants);
+                            } else {
+                              setIsCustomParticipants(false);
+                              setParticipants(parseInt(e.target.value));
+                            }
+                          }}
+                          className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
+                        >
+                          {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => (
+                            <option key={num} value={num}>Adult x {num}</option>
+                          ))}
+                          <option value="custom">Custom</option>
+                        </select>
+                        <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                      </div>
+
+                      {/* Custom Participants Input */}
+                      {isCustomParticipants && (
+                        <div className="relative">
+                          <input
+                            type="number"
+                            min="11"
+                            max="100"
+                            value={customParticipants}
+                            onChange={(e) => {
+                              const value = parseInt(e.target.value) || 11;
+                              setCustomParticipants(value);
+                              setParticipants(value);
+                            }}
+                            className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none"
+                            placeholder="Enter number of adults"
+                          />
+                          <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                        </div>
+                      )}
+
+                      {tour.languages && tour.languages.length > 0 && (
+                        <div className="relative">
+                          <select
+                            value={selectedLanguage}
+                            onChange={(e) => setSelectedLanguage(e.target.value)}
+                            className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
+                          >
+                            {tour.languages.map((lang: string) => (
+                              <option key={lang} value={lang}>{lang}</option>
+                            ))}
+                          </select>
+                          <Globe className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Policies */}
+                    <div className="space-y-4 mb-6 pb-6 border-b border-gray-200">
+                      <div className="flex items-start gap-3">
+                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
+                        <div className="min-w-0 flex-1">
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Free cancellation</div>
+                          <div className="text-[12px] text-gray-600 font-semibold break-words">
+                            Cancel up to 24 hours in advance for a full refund
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex items-start gap-3">
+                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
+                        <div className="min-w-0 flex-1">
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
+                          <div className="text-[12px] text-gray-600 font-semibold break-words">
+                            Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
+                            <a href="#" className="text-[#10B981] underline">Read more</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Availability Status */}
+                    {availabilityStatus === 'available' && (
+                      <div className="mb-4 p-4 bg-green-50 border border-green-200 rounded-2xl">
+                        <div className="flex items-center gap-2 mb-2">
+                          <CheckCircle2 className="text-[#10B981]" size={20} />
+                          <span className="font-black text-[#10B981] text-[14px]">Available!</span>
+                        </div>
+                        <p className="text-[12px] text-gray-600 font-semibold">
+                          This tour is available for {selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric' }) : 'selected dates'}
+                        </p>
+                      </div>
+                    )}
+
+                    {availabilityStatus === 'unavailable' && (
+                      <div className="mb-4 p-4 bg-red-50 border border-red-200 rounded-2xl">
+                        <div className="flex items-center gap-2 mb-2">
+                          <X className="text-red-600" size={20} />
+                          <span className="font-black text-red-600 text-[14px]">Not Available</span>
+                        </div>
+                        <p className="text-[12px] text-gray-600 font-semibold">
+                          This tour is not available for the selected date. Please choose another date.
+                        </p>
+                      </div>
+                    )}
+
+                    {/* Book Button - GetYourGuide Blue */}
+                    <button
+                      onClick={availabilityStatus === 'available' ? handleProceedToBooking : handleCheckAvailability}
+                      disabled={availabilityStatus === 'checking'}
+                      className="w-full bg-[#0071EB] hover:bg-[#0056b3] text-white font-black py-5 rounded-2xl text-[16px] transition-all shadow-lg disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+                    >
+                      {availabilityStatus === 'checking' ? (
+                        <>
+                          <Loader2 className="animate-spin" size={20} />
+                          Checking...
+                        </>
+                      ) : availabilityStatus === 'available' ? (
+                        'Proceed to Booking'
+                      ) : (
+                        'Check availability'
+                      )}
+                    </button>
+                    {bookingError && (
+                      <p className="text-[14px] text-red-500 font-bold text-center mt-3 p-3 bg-red-50 rounded-xl border border-red-100 flex items-center justify-center gap-2">
+                        <Info size={16} />
+                        {bookingError}
+                      </p>
+                    )}
+
+                    <p className="text-[12px] text-gray-500 font-semibold text-center mt-4">
+                      Secure payment via Razorpay
+                    </p>
+                  </div>
+                </div>
               </div>
-            </section>
-          </div>
+
+              {/* Structured SEO Sections - Premium Content below main grid */}
+              <div className="mt-20 pt-16 border-t border-gray-100">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
+
+
+
+                  {/* Section 5: FAQ Section (Simple List Style like City Page) */}
+                  <section className="lg:col-span-2">
+                    <div className="flex items-center gap-4 mb-12">
+                      <div className="p-3 bg-[#10B981]/10 rounded-2xl">
+                        <HelpCircle className="text-[#10B981]" size={32} />
+                      </div>
+                      <h2 className="text-2xl font-black text-[#001A33]">Frequently Asked Questions</h2>
+                    </div>
+                    <div className="space-y-8 max-w-4xl">
+                      {(() => {
+                        // High-authority FAQ data tailored for specific major tours
+                        const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
+                          const t = title.toLowerCase();
+
+                          if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour') {
+                            const isSkipLine = slug === 'taj-mahal-sunrise-tour';
+                            const tourLabel = isSkipLine ? "Taj Mahal Sunrise Tour (Skip-the-line version)" : "Taj Mahal Sunrise Tour";
+                            const tourPath = isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour";
+
+                            return [
+                              {
+                                question: "What is the first entry time allowed by ASI?",
+                                answer: `The Archaeological Survey of India (ASI) officially opens the Taj Mahal gates exactly **30 minutes before sunrise**. This entry time is strictly enforced to ensure the security personnel from the CISF are in position. For most of the year, this equates to approximately 5:30 AM or 6:00 AM. Many visitors ask if they can enter earlier to beat the crowds, but the ASI protocols are rigid. By booking a [${tourLabel}](${tourPath}), you ensure that our guides have you in the very first segment of the security queue. This strategic positioning is vital because even a 10-minute delay can result in hundreds of people entering before you, potentially obstructing those pristine, reflection-pool views that make the early wake-up call so rewarding for international travelers.`
+                              },
+                              {
+                                question: "Is sunrise timing different in summer vs winter?",
+                                answer: "Yes, sunrise timing in Agra fluctuates dramatically between the seasons, impacting your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) schedule. During the intense summer months of May and June, the sun breaks the horizon as early as 5:15 AM, necessitating a 4:30 AM hotel departure. Conversely, in the peak of winter (December and January), sunrise can be as late as 7:15 AM. We constantly monitor the official [sunrise timing](/india/agra/taj-mahal-opening-time) to calibrate our pickup times perfectly. While summer offers clear skies and sharp shadows, winter often brings a mystical morning fog that creates a dream-like atmosphere. Regardless of the month, our local experts ensure you are through the security gates the moment the ASI allows, allowing you to witness the white marble transition from cool lavender to a warm, golden glow as the light intensity changes."
+                              },
+                              {
+                                question: "How early should we reach for best photography?",
+                                answer: "To capture professional-grade photography without the interference of massive crowds, you should aim to reach the security gates at least **30 to 45 minutes before the gates open**. In the world of high-authority travel photography, the \"Blue Hour\"—the period just before technical sunrise—is considered the platinum window for long-exposure shots of the reflecting pools. Many travelers believe arriving at 6:00 AM is sufficient, but by then, the queue at the East Gate can already be quite long. As your specialized local partner, we prioritize early arrival tactics. Our guides know the exact \"symmetry points\" where the light hits the dome first. By being among the first 50 people inside, you can secure that iconic, unobstructed shot of the mausoleum perfectly mirrored in the water."
+                              },
+                              {
+                                question: "Is Taj Mahal closed on Fridays?",
+                                answer: "The Taj Mahal is closed to the public every Friday. This closure is a long-standing tradition to allow local residents to use the 17th-century mosque located within the complex for afternoon prayers. If you are planning an [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) exploration, ensure you do not schedule your visit for a Friday, as the gates will remain firmly locked to all tourists. However, Friday can still be a productive day; you can visit the Agra Fort or the Baby Taj. For those desperate for a view, the Mehtab Bagh (Moonlight Garden) remains open on Fridays and provides a stunning perspective of the Taj Mahal from across the Yamuna River during sunset. Our [1-day itinerary](/india/agra/1-day-agra-itinerary) planners always double-check these dates to prevent any disappointment."
+                              },
+                              {
+                                question: "What should I wear for sunrise visit?",
+                                answer: "Choosing the right attire is essential for both comfort and respect. Since the sunrise visit starts in the dark, temperatures can be 5-10°C cooler than the afternoon. We recommend a \"smart layering\" strategy: a light jacket or pashmina that you can easily remove once the sun rises. We advise dressing modestly (shoulders and knees covered) to maintain the sanctity of the site. Comfortable walking shoes are a must, as you will be covering roughly 3-4 kilometers of marble and sandstone paths. Don't worry about removing your shoes on the main platform; our tours include high-quality [shoe covers](/india/agra/taj-mahal-ticket-price-2026) that allow you to keep your footwear on while exploring the interior cenotaph chamber of Shah Jahan and Mumtaz Mahal."
+                              },
+                              {
+                                question: "Is there morning prayer during sunrise?",
+                                answer: `While the Taj Mahal complex houses a red sandstone mosque on its western side, there is no loud, public morning prayer (Adhan) broadcast within the gardens during the standard tourist sunrise hours. The mosque is primarily used for private prayers by authorized personnel and locals on Fridays. However, you will often notice a profound, spiritual stillness during the early hours. The only sounds you'll hear are the waking birds in the Charbagh gardens and the soft footsteps of other sunrise enthusiasts. This provides a contemplative environment where our guides can share the architectural and romantic history of the monument without being drowned out by the mid-day bustle, making the [${tourLabel}](${tourPath}) experience feel truly exclusive and personal.`
+                              },
+                              {
+                                question: "Is the Taj Mahal Sunrise Tour worth the 4:30 AM wake-up call?",
+                                answer: "Waking up at 4:30 AM is truly necessary and is the only way to experience the Taj Mahal's soul. By arriving at sunrise, you bypass the 40°C afternoon heat and the 40,000+ daily visitors who saturate the complex by noon. The value of seeing the marble change color in near-silence far outweighs an extra two hours of sleep. This is a once-in-a-lifetime moment where the \"platinum light\" of the Golden Hour allows for photos that look like postcards. When you weigh the minor inconvenience of an early start against the intellectual and visual reward of an unobstructed view, the answer is a resounding yes. It is the tactical choice for any serious globetrotter following a premium [agra travel guide 2026](/india/agra/agra-travel-guide-2026)."
+                              },
+                              {
+                                question: "Is it worth booking a private guide for the sunrise tour instead of going solo?",
+                                answer: "A private, ASI-licensed guide is absolutely worth it because they act as your logistical shield and navigate the complex CISF security protocols for you. Beyond logistics, having a historian explain the pietra dura marble inlay and the optical illusions of the calligraphy transforms a \"pretty building\" into a masterpiece of 17th-century engineering. Without a guide, you are essentially just looking at marble; with us, you are experiencing the political and romantic legacy of the Mughal Empire. For the price of a dinner, you gain a deep, high-authority educational experience that makes your [visit to the Taj Mahal](/india/agra/taj-mahal-opening-time) truly meaningful. It settles all objections regarding the complexity of the site."
+                              },
+                              {
+                                question: "Is it worth visiting Agra just for the sunrise tour?",
+                                answer: "Many of our guests specifically book a [Delhi to Agra day trip](/india/agra/1-day-agra-itinerary) just to witness this one specific sunrise moment—and they never regret it. The Taj Mahal at dawn is an emotional experience that justifies the entire trip to India for many. The sheer scale and symmetry, revealed slowly through the morning mist or the first clear light, is a visual payload that mid-day tours simply cannot deliver. By focusing your energy on the sunrise, you capture the \"prime time\" of the city and can even be back in Delhi or at your next destination by mid-afternoon. If you only have 24 hours in Northern India, the sunrise tour is the highest-value investment of your time and travel budget compared to any other [things to do in Agra](/india/agra/things-to-do-in-agra)."
+                              }
+                            ];
+                          }
+
+                          if (slug === 'taj-mahal-agra-fort-guided-tour') {
+                            return [
+                              {
+                                question: "How long does the Taj Mahal & Agra Fort tour take?",
+                                answer: "A comprehensive [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) typically requires **4 to 6 hours** of active exploration. This duration is strategically designed to allow for a deep-dive into the architectural nuances and historical narratives of two UNESCO World Heritage sites. We usually dedicate approximately 3 hours to the Taj Mahal to appreciate the light transitions on the marble and the symmetry of the gardens, followed by another 2 hours at the Agra Fort to explore the royal pavilions and military ramparts. By booking this combined experience, you ensure a high-authority educational journey that captures the essence of the Mughal Empire's zenith without the stress of independent navigation."
+                              },
+                              {
+                                question: "Which monument do we visit first during the combined tour?",
+                                answer: "To maximize your visual and physical comfort, we always recommend visiting the **Taj Mahal first**. Starting your day at sunrise or shortly after the gates open is the most tactical decision you can make, as it allows you to beat the 40,000+ daily visitors and the intense afternoon heat that can reach 45°C in summer. Once we have captured those iconic reflecting-pool photos in the \"Golden Hour\" light, we proceed to the Agra Fort. Since the Fort is built largely of thick red sandstone, it provides much better natural shade and remains relatively cooler than the open-air marble platforms of the Taj, making the late-morning transition comfortable and productive."
+                              },
+                              {
+                                question: "How far is the Agra Fort from the Taj Mahal?",
+                                answer: "The physical distance between these two legendary monuments is surprisingly short, approximately **2.5 kilometers (1.5 miles)**. Under standard traffic conditions in the historical zone, the transition takes about 10 to 15 minutes in our private vehicle. This proximity is exactly why the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is the most popular choice for travelers on a restricted [1-day Agra itinerary](/india/agra/1-day-agra-itinerary). Despite being so close, the two sites offer vastly different architectural atmospheres—one being a romantic mausoleum and the other a fortified royal city. Our seamless transport between these points ensures you don't waste precious time or energy on the busy city streets."
+                              },
+                              {
+                                question: "Is transport included between the monuments?",
+                                answer: "Yes, our premium service level includes **dedicated private transportation** between the Taj Mahal and the Agra Fort. We use modern, air-conditioned vehicles to provide a sanctuary from the bustle and dust of Agra's streets during the short transition. Many budget travelers attempt to use cycle-rickshaws or walk, but our high-authority advice is to utilize private transport to maintain your energy levels for the extensive walking required inside the monuments themselves. Having a driver wait for you at the exit gates of the Taj Mahal and drop you exactly at the entrance of the Fort is a major logistical advantage that defines the premium quality of our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) services."
+                              },
+                              {
+                                question: "Are entry tickets included for both sites?",
+                                answer: "We offer **fully customizable options** regarding admission. You can choose a \"Guided Only\" package if you prefer to buy your own tickets using your phone, or a \"Full Package\" where we pre-purchase the digital ASI tickets for you. If you choose the inclusion option, we handle all the technicalities of the [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) system for both the Taj Mahal and the Agra Fort. This ensures you have the correct high-value tickets for the main mausoleum entry and avoids any confusion at the turnstiles. Please note that the \"Mausoleum\" entry is an additional fee on top of the base Taj Mahal ticket, and we ensure this is always included in our full-service bookings."
+                              },
+                              {
+                                question: "What is the difference between Taj Mahal and Agra Fort architecture?",
+                                answer: "The architectural contrast is profound: the Taj Mahal is the pinnacle of **Indo-Islamic funerary architecture**, characterized by its ethereal white Makrana marble, delicate pietra dura stone inlay, and perfect bilateral symmetry. In contrast, the Agra Fort is a massive **military and residential citadel** built primarily of rugged red sandstone. While the Taj Mahal represents the romantic and spiritual side of the Mughal Empire, the Agra Fort showcases its political and military power through 70-foot high ramparts and defensive moats. Inside the Fort, however, you will find delicate white marble palaces like the Khas Mahal, which served as the precursor to the Taj's style. This architectural evolution is a core focus of our [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour)."
+                              },
+                              {
+                                question: "Can we see the Taj Mahal from the Agra Fort?",
+                                answer: "Absolutely, and it is one of the most poignant moments of the entire experience. From the **Musamman Burj** (an octagonal tower) within the Agra Fort, you can enjoy a stunning, framed view of the Taj Mahal sitting across the Yamuna River. This is the exact spot where Emperor Shah Jahan was reportedly imprisoned by his son, Aurangzeb, spendng the final eight years of his life gazing at the monument he built for his wife. This high-authority historical site provides a unique perspective that you cannot get from the Taj's own gardens. Our guides will help you find the best vantage points for photography, ensuring you capture that iconic \"view from the balcony\" that is essential for any [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) collection."
+                              },
+                              {
+                                question: "Is the Agra Fort wheelchair accessible?",
+                                answer: "The Agra Fort is partially accessible, though it presents more challenges than the Taj Mahal. The main entrance at Amar Singh Gate has a **steep ramp** that requires a strong assistant or motorized help. Many of the interior courtyards are paved with flat stone and are accessible, but certain high-value areas like the interior of the Jahangiri Mahal have small steps. However, as local experts, we have designed specific \"accessibility paths\" that bypass the most difficult stairs. If you or a family member uses a wheelchair, please notify us during booking so we can arrange additional assistance and ensure your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is comfortable. Most of the primary palaces can be viewed from the courtyards without needing to climb steps."
+                              },
+                              {
+                                question: "Is this tour too long or strenuous for elderly visitors?",
+                                answer: "We pride ourselves on creating a **flexible and senior-friendly pace**. While the combined tour involves significant walking (approx. 4-5 km total), we utilize electric carts for the 1km approach to the Taj Mahal to save your energy. Within the monuments, our guides are trained to identify seating areas and shade where you can rest while they share historical anecdotes. If you feel tired after the Taj Mahal, we can customize the Agra Fort segment to focus only on the main palaces near the entrance, skipping the more military-style hiking. This ability to dial the intensity up or down is why our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) approach is highly rated by multi-generational families who want to experience history without exhaustion."
+                              },
+                              {
+                                question: "Are both monuments official UNESCO World Heritage sites?",
+                                answer: "Yes, both the Taj Mahal and the Agra Fort are prestigious **UNESCO World Heritage Sites**, designated in 1983. They are considered the \"twin pillars\" of Mughal history in India. The Taj Mahal is recognized for being the \"jewel of Muslim art in India,\" while the Agra Fort is honored for its status as a major 16th-century Mughal monument of red sandstone. Visiting both on a single [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is logically consistent because their histories are inextricably linked. The Fort was the seat of power where the decisions to build the Taj were made. Experiencing both UNESCO sites together provides the high-authority educational context needed to understand why the Mughal Empire remains such a fascinating chapter of global history."
+                              },
+                              {
+                                question: "Can we add Mehtab Bagh (Moonlight Garden) to this tour?",
+                                answer: "We can certainly add a visit to **Mehtab Bagh** as a \"sunset finale\" to your combined tour. Located directly across the Yamuna River from the Taj Mahal, this 25-acre garden complex offers the perfect symmetrical view of the mausoleum without the crowds. It is particularly valuable on Fridays when the Taj is closed, or for photographers who want the \"rear view\" of the monument reflected in the river. Adding this site extends the tour by about 1 hour and requires a short drive across the river bridge. For many travelers, this is the ultimate objection-killer because it allows for a peaceful, long-distance appreciation of the monument after the close-up intensity of the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour)."
+                              },
+                              {
+                                question: "Are guides allowed to enter inside the Agra Fort with us?",
+                                answer: "Yes, our **ASI-licensed guides** are fully authorized to accompany you inside every accessible area of the Agra Fort, including the Diwan-i-Aam (Hall of Public Audience) and the royal pavilions. Unlike some countries where site-specific guides are required, our guides stay with you throughout the entire 5-hour journey. This continuity is vital for a high-authority experience, as the guide can draw direct comparisons between the architecture of the Taj Mahal and the Fort. They will navigate the complex security gates and interior paths for you, ensuring you don't miss the hidden gems like the Anguri Bagh (Grape Garden) or the Gem Mosque. Their presence ensures your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) remains educational and logistically smooth from start to finish."
+                              },
+                              {
+                                question: "Is there a lunch stop included in the combined tour?",
+                                answer: "While lunch is not strictly part of the \"monument time,\" we always build in a **flexible lunch break** between the Taj Mahal and the Agra Fort. We have a curated list of high-authority restaurant partners ranging from traditional Mughal thali spots to modern international cafes with views of the Taj. We avoid the \"tourist trap\" buffets that many large bus tours frequent, instead focusing on clean, authentic establishments that meet international hygiene standards. This break is essential for hydration and rest, allowing you to process the morning's history before tackling the Fort. If you are on a tight [1-day Agra itinerary](/india/agra/1-day-agra-itinerary), we can arrange a quick but high-quality meal to keep the day moving efficiently without sacrificing quality."
+                              },
+                              {
+                                question: "What is the best season for a combined Taj and Fort tour?",
+                                answer: "The \"Platinum Window\" for visiting Agra is from **October to March**. During these months, the weather is pleasantly cool with clear blue skies, making the extensive walking required for the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) very easy. December and January can bring morning fog, which adds a mystical atmosphere to the Taj but may delay sunrise views. Conversely, the summer months (April to June) are extremely hot, with temperatures often exceeding 40°C, necessitating a very early 5:30 AM start. Monsoon season (July to September) brings humidity and occasional heavy rain, but also results in lush, green gardens and fewer tourists. We calibrate our pickup times and tour intensity based on the specific month of your visit to ensure maximum comfort."
+                              },
+                              {
+                                question: "Can we shorten the Agra Fort visit if we feel tired?",
+                                answer: "Absolutely. One of the primary benefits of a **private guided tour** is that it is 100% adaptable to your energy levels. If you feel that you've reached your \"historical limit\" after the Taj Mahal, we can pivot to a \"Highlights Only\" version of the Agra Fort. This focuses on the most spectacular palaces located close to the entrance, reducing the walking distance by half while still allowing you to see the famous Musamman Burj view of the Taj. We never force our guests to follow a rigid schedule; if you'd rather trade an hour of fort-walking for a relaxed coffee or some souvenir shopping in the local bazaars, our [Agra travel guide 2026](/india/agra/agra-travel-guide-2026) planners will make it happen seamlessly. Your comfort is our highest priority."
+                              },
+                              {
+                                question: "Is photography allowed inside the Agra Fort?",
+                                answer: "Yes, **photography is permitted** throughout most of the Agra Fort complex for personal use. You are encouraged to capture the intricate carvings and the stunning river views. However, please note that there are two specific restrictions: first, professional equipment like tripods and large lighting rigs requires a separate, expensive permit from the ASI. Second, like the Taj Mahal, photography is generally prohibited inside the very small, specific religious prayer areas (mosques) if they are in active use. For the most part, you can freely document your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) with your camera or smartphone. Our guides know the exact \"symmetry spots\" where you can get professional-looking photos without other tourists in the frame, making your social media posts truly high-authority."
+                              },
+                              {
+                                question: "Are large bags allowed inside the monuments?",
+                                answer: "No, both the Taj Mahal and the Agra Fort have **strict security protocols** that prohibit large backpacks, suitcases, or heavy bags. Only small ladies' handbags or small day-packs containing essentials like water, cameras, and wallets are permitted. Prohibited items include tobacco, lighters, knives, chargers, and food. To simplify your visit, we recommend leaving all non-essential items in our private vehicle, which remains parked in a secure zone with our driver. This \"clean-entry\" strategy allows you to breeze through the CISF security checks and start your [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) without the hassle of using the monument locker rooms, which can have long queues. This is a vital tactical tip for maintaining a smooth pace during your visit."
+                              },
+                              {
+                                question: "Is this a private tour or a shared group tour?",
+                                answer: "This experience is **strictly a private tour**, meaning you will have your own dedicated ASI-licensed guide and private vehicle. We do not consolidate individual bookings into large groups. This private format is the only way to deliver a high-authority, personalized experience where you can ask as many questions as you like and move at your own pace. Whether you are a solo traveler, a couple on a honeymoon, or a large family, the tour is tailored exclusively to your group. This settles the common objection of being \"stuck\" with a slow group or missing out on details because the guide is too far away. By choosing our [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour), you are investing in a premium, 1-on-1 educational session that respects your time and interests."
+                              },
+                              {
+                                question: "Is the combined Taj Mahal and Agra Fort tour worth the price?",
+                                answer: "When you consider the logistical complexity of navigating Agra's traffic and the dense history of these sites, the [Taj Mahal & Agra Fort Guided Tour](/india/agra/taj-mahal-agra-fort-guided-tour) is **the highest-value investment** you can make for your India trip. Attempting to see both sites independently often results in \"temple fatigue\" and wasted hours in ticket queues or negotiating with local transport. By booking this expert-led combined tour, you gain a seamless narrative that connects the dots between a lover's tomb and a royal fortress. The \"intellectual payload\" you receive from a historian-guide transforms these monuments from mere stone structures into living stories. When you factor in the private transport, the skip-the-line ticket assistance, and the climate-controlled comfort, the value-to-cost ratio is overwhelmingly positive for any serious globetrotter."
+                              },
+                              {
+                                question: "Is it worth seeing the Agra Fort if I've already seen the Red Fort in Delhi?",
+                                answer: "While both are Mughal masterpieces, many historians consider the **Agra Fort to be far superior** in terms of architectural preservation and intricate detail. While the Delhi Red Fort is impressive for its massive walls, the interior palaces of the Agra Fort (like the Khas Mahal and Shish Mahal) are much more intact and offer better examples of the transition from sandstone to marble. Furthermore, the unique \"Taj-view\" perspectives available only from the Agra Fort make it an essential companion piece to the mausoleum itself. If you only visit the Taj Mahal without the Fort, you are only getting half of the Mughal story. For anyone following a premium [agra travel guide 2026](/india/agra/agra-travel-guide-2026), the Agra Fort is a non-negotiable inclusion that provides deep historical context and unparalleled photography opportunities."
+                              }
+                            ];
+                          }
+
+                          if (slug === 'taj-mahal-entry-ticket') {
+                            return [
+                              {
+                                question: "Is this an official Taj Mahal entry ticket?",
+                                answer: "Yes, these are 100% official digital entry tickets issued by the Archaeological Survey of India (ASI). As an authorized booking partner, we process your admission under strict government regulations, ensuring your QR code is valid at all entry turnstiles. Unlike unauthorized \"skip-the-line\" vouchers sold on the street, our tickets grant you legitimate access to the main Taj Mahal complex, including the peripheral gardens and flanking monuments. By pre-booking with us, you avoid the risk of counterfeit tickets and ensure your visit is recorded in the official ASI attendance system."
+                              },
+                              {
+                                question: "Does “skip-the-line” mean skipping security checks?",
+                                answer: "It is a common misconception that skip-the-line tickets allow you to bypass the security gates. In reality, \"Skip-The-Line\" refers specifically to bypassing the **official ASI ticket window queues**, which can often exceed 60 to 90 minutes during the peak tourist season. However, every single visitor to the Taj Mahal, regardless of their status or ticket type, must undergo a mandatory physical security screening conducted by the Central Industrial Security Force (CISF)."
+                              }
+                            ];
+                          }
+
+                          if (t.includes('delhi') && t.includes('agra') && t.includes('day trip')) {
+                            return [
+                              { question: "What time do we leave Delhi for a Taj Mahal day tour?", answer: "To maximize your day and experience the Taj Mahal at its most tranquil, we typically recommend a **3:00 AM or 4:00 AM departure** from Delhi. This early start allows you to reach Agra just as the gates open for sunrise, avoiding the heavy morning traffic on the Yamuna Expressway." },
+                              { question: "How long is the Delhi to Agra drive and is the expressway safe?", answer: "The drive from Delhi to Agra via the **Yamuna Expressway** typically takes between **3 to 3.5 hours**. This modern, 6-lane toll road is one of India's best highways, offering a smooth and safe journey. We include all toll taxes, parking, and fuel in your tour package." },
+                              { question: "Is a same-day Taj Mahal tour from Delhi actually worth it?", answer: "Absolutely—thanks to the ultra-fast Yamuna Expressway, a **same-day trip is the most popular way** to visit Agra. A well-structured itinerary easily covers the Taj Mahal, Agra Fort, and a relaxed 5-star lunch." }
+                            ];
+                          }
+                          return null;
+                        };
+
+                        const tourTitle = tour.title || 'this tour';
+                        const specificFAQs = getTourSpecificFAQs(tourTitle, tourSlug || tour?.slug);
+
+                        const tourFAQs = specificFAQs || [
+                          {
+                            question: `What is specifically included in the ${tourTitle}?`,
+                            answer: tour.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary.`
+                          },
+                          {
+                            question: `How long is the actual ${tourTitle} experience?`,
+                            answer: `The duration of the ${tourTitle} is typically ${tour.duration || 'a few hours'}. We recommend arriving 15 minutes before the scheduled start time for a smooth experience.`
+                          },
+                          {
+                            question: `What is the best time to start the ${tourTitle}?`,
+                            answer: "For most monument visits, we highly recommend a sunrise start. This allows you to avoid the midday heat, bypass the largest crowds, and capture the best lighting for photography."
+                          }
+                        ];
+
+                        if ((tour.city?.toLowerCase() === 'agra' || tourTitle.toLowerCase().includes('taj-mahal')) && !specificFAQs) {
+                          tourFAQs.push({
+                            question: "Is the Taj Mahal closed on Friday?",
+                            answer: "Yes, the Taj Mahal is closed every Friday for religious reasons. Please ensure your tour date for the Taj Mahal does not fall on a Friday."
+                          });
+                          tourFAQs.push({
+                            question: "Is original passport mandatory for entry?",
+                            answer: "Yes, foreign tourists must show their original passport or a high-quality digital photo at the entrance gates for security identification and monument entry."
+                          });
+                        }
+
+                        if (!specificFAQs) {
+                          tourFAQs.push({
+                            question: `Will I receive confirmation after booking the ${tourTitle}?`,
+                            answer: "Yes, once your booking is completed via our secure gateway, you will receive an instant confirmation email with your tour details and guide contact information."
+                          });
+                        }
+
+                        // Helper to render text with markdown-style links and bolding
+                        const renderWithLinks = (text: string) => {
+                          return text.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g).map((part, i) => {
+                            if (part.startsWith('**') && part.endsWith('**')) {
+                              return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
+                            }
+                            if (part.startsWith('[') && part.includes('](')) {
+                              const match = part.match(/\[(.*?)\]\((.*?)\)/);
+                              if (match) {
+                                return (
+                                  <a key={i} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
+                                    {match[1]}
+                                  </a>
+                                );
+                              }
+                            }
+                            return part;
+                          });
+                        };
+
+                        return tourFAQs.map((faq, idx) => {
+                          const isExpanded = expandedFAQs.has(idx);
+                          return (
+                            <div key={idx} className="border-b border-gray-100 last:border-0 overflow-hidden">
+                              <button
+                                onClick={() => toggleFAQExpand(idx)}
+                                className="w-full py-6 flex items-center justify-between text-left group"
+                              >
+                                <h3 className="text-[18px] font-black text-[#001A33] group-hover:text-[#10B981] transition-colors pr-8">
+                                  {faq.question}
+                                </h3>
+                                <div className={`shrink-0 transition-transform duration-300 ${isExpanded ? 'rotate-180' : ''}`}>
+                                  <ChevronDown size={24} className="text-gray-400 group-hover:text-[#10B981]" />
+                                </div>
+                              </button>
+                              <div
+                                className={`grid transition-all duration-300 ease-in-out ${isExpanded ? 'grid-rows-[1fr] opacity-100 mb-8' : 'grid-rows-[0fr] opacity-0'}`}
+                              >
+                                <div className="overflow-hidden">
+                                  <div className="text-[16px] text-gray-600 font-semibold leading-relaxed">
+                                    {renderWithLinks(faq.answer)}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          );
+                        });
+                      })()}
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </>
+          )}
         </div>
-      </div>
+      </main>
+
+      {/* Global Footer - Always rendered for SEO */}
+      <Footer />
 
       {/* Image Modal */}
       {

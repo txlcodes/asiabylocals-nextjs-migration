@@ -28,6 +28,7 @@ import CityPage from './CityPage';
 import AdminDashboard from './AdminDashboard';
 import CityInfoPage from './CityInfoPage';
 import BookingPage from './BookingPage';
+import Footer from './Footer';
 
 // List of Agra Authority Page Slugs for Interception
 const AGRA_INFO_SLUGS = [
@@ -50,16 +51,8 @@ import TouristLogin from './TouristLogin';
 import TouristSignup from './TouristSignup';
 
 // Error Boundary Component
-class ErrorBoundary extends React.Component<
-  { children: React.ReactNode },
-  { hasError: boolean; error: Error | null }
-> {
+class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { hasError: boolean; error: Error | null }> {
   state: { hasError: boolean; error: Error | null } = { hasError: false, error: null };
-
-  constructor(props: { children: React.ReactNode }) {
-    super(props);
-    this.state = { hasError: false, error: null };
-  }
 
   static getDerivedStateFromError(error: Error) {
     return { hasError: true, error };
@@ -204,16 +197,32 @@ const ExplorationFooter: React.FC = () => {
 
       {/* Grid Content */}
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-x-6 gap-y-6">
-        {EXPLORATION_DATA[activeTab]?.map((item, idx) => (
-          <div key={`${activeTab}-${idx}`} className="flex flex-col gap-0.5 group cursor-pointer">
-            <span className="text-[13px] font-bold text-[#001A33] group-hover:text-[#0071EB] transition-colors line-clamp-1">
-              {item.name}
-            </span>
-            <span className="text-[11px] text-gray-400 font-medium">
-              {item.count}
-            </span>
-          </div>
-        ))}
+        {EXPLORATION_DATA[activeTab]?.map((item, idx) => {
+          let href = "#";
+          if (activeTab === 'countries') {
+            href = `/${item.name.toLowerCase().replace(/\s+/g, '-')}`;
+          } else if (activeTab === 'destinations') {
+            const [city, country] = item.name.split(', ');
+            if (city && country) {
+              href = `/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`;
+            }
+          }
+
+          return (
+            <a
+              key={`${activeTab}-${idx}`}
+              href={href}
+              className="flex flex-col gap-0.5 group"
+            >
+              <span className="text-[13px] font-bold text-[#001A33] group-hover:text-[#0071EB] transition-colors line-clamp-1">
+                {item.name}
+              </span>
+              <span className="text-[11px] text-gray-400 font-medium">
+                {item.count}
+              </span>
+            </a>
+          );
+        })}
       </div>
     </section>
   );
@@ -460,7 +469,7 @@ const App: React.FC = () => {
   const tourPageMatch = window.location.pathname.match(/^\/([^\/]+)\/([^\/]+)\/(.+)$/);
   const tourCountrySlug = tourPageMatch ? tourPageMatch[1] : null;
   const tourCitySlug = tourPageMatch ? tourPageMatch[2] : null;
-  const tourSlug = tourPageMatch ? tourPageMatch[3] : null;
+  const tourSlug = tourPageMatch ? tourPageMatch[3].replace(/\/+$/, '') : null;
 
   // Legacy tour ID route: /tour/:id
   const tourDetailMatch = window.location.pathname.match(/^\/tour\/(.+)$/);
@@ -1358,292 +1367,181 @@ const App: React.FC = () => {
       </main>
 
       {/* Footer (GYG inspired structure) */}
-      <footer className="bg-[#001A33] text-white pt-20 pb-10 px-6">
-        <div className="max-w-[1200px] mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-20">
-            <div className="col-span-1 lg:col-span-1">
-              <p className="text-gray-400 text-[14px] leading-relaxed">
-                Empowering local experts across Asia to share their heritage directly with curious travelers.
-              </p>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <h5 className="font-black text-xs uppercase tracking-widest text-gray-500">Language</h5>
-              <div className="bg-white/5 border border-white/10 p-3 rounded-lg flex justify-between items-center text-sm font-bold text-gray-300 cursor-pointer">
-                English (International) <ChevronRight size={14} className="rotate-90" />
-              </div>
-              <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mt-4">Currency</h5>
-              <div className="bg-white/5 border border-white/10 p-3 rounded-lg flex justify-between items-center text-sm font-bold text-gray-300 cursor-pointer">
-                US Dollar ($) <ChevronRight size={14} className="rotate-90" />
-              </div>
-            </div>
-
-            <div>
-              <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mb-8">Support</h5>
-              <ul className="space-y-4 text-sm font-bold text-gray-400">
-                <li onClick={() => window.location.href = '/support'} className="hover:text-white cursor-pointer">Support</li>
-                <li onClick={() => window.location.href = '/safety-guidelines'} className="hover:text-white cursor-pointer">Safety Guidelines</li>
-                <li onClick={() => window.location.href = '/privacy-policy'} className="hover:text-white cursor-pointer">Privacy Policy</li>
-                <li onClick={() => window.location.href = '/terms-and-conditions'} className="hover:text-white cursor-pointer">Terms & Conditions</li>
-              </ul>
-            </div>
-
-            <div>
-              <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mb-8">Company</h5>
-              <ul className="space-y-4 text-sm font-bold text-gray-400">
-                <li
-                  onClick={() => window.location.href = '/about-us'}
-                  className="hover:text-white cursor-pointer"
-                >
-                  About Us
-                </li>
-                <li
-                  onClick={() => setShowSupplierPage(true)}
-                  className="hover:text-white cursor-pointer"
-                >
-                  Become a Supplier
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div className="pt-10 border-t border-white/5">
-            <div className="flex flex-col md:flex-row justify-between items-center gap-8 text-[11px] font-black uppercase tracking-widest text-gray-500 mb-4">
-              <span>&copy; 2025 AsiaByLocals HQ • Authentic Experiences Only</span>
-              <div className="flex flex-col items-center gap-3">
-                <p className="text-white text-sm font-semibold">We accept</p>
-                <div className="flex flex-wrap gap-3 items-center justify-center">
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/visa-logo.svg"
-                      alt="Visa"
-                      className="h-5 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/mastercard-logo.svg"
-                      alt="Mastercard"
-                      className="h-5 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/paypal-logo.svg"
-                      alt="PayPal"
-                      className="h-5 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/amex-logo.png"
-                      alt="American Express"
-                      className="h-5 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/razorpay-logo.svg"
-                      alt="Razorpay"
-                      className="h-5 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/googlepay-logo.png"
-                      alt="Google Pay"
-                      className="h-6 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                  <div className="bg-white px-3 py-2 rounded flex items-center justify-center h-8 min-w-[60px]">
-                    <img
-                      src="/applepay-logo.png"
-                      alt="Apple Pay"
-                      className="h-6 w-auto object-contain"
-                      style={{ maxWidth: '50px' }}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="text-center text-gray-400 text-[12px] font-semibold">
-              Branch Office: JBC 3 Building, Cluster Y, JLT Dubai
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer />
 
       {/* Wishlist Modal */}
-      {showWishlistModal && (
-        <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
-          <div className="bg-white rounded-2xl max-w-2xl w-full max-h-[80vh] overflow-hidden flex flex-col">
-            <div className="flex items-center justify-between p-6 border-b border-gray-200">
-              <h2 className="text-2xl font-black text-[#001A33]">My Wishlist</h2>
-              <button
-                onClick={() => setShowWishlistModal(false)}
-                className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-              >
-                <X size={24} />
-              </button>
-            </div>
-            <div className="flex-1 overflow-y-auto p-6">
-              {wishlist.length === 0 ? (
-                <div className="text-center py-12">
-                  <Heart size={48} className="mx-auto text-gray-300 mb-4" />
-                  <p className="text-gray-500 font-semibold text-lg mb-2">Your wishlist is empty</p>
-                  <p className="text-gray-400 text-sm">Start adding tours to your wishlist!</p>
-                </div>
-              ) : (
-                <div className="space-y-4">
-                  {wishlist.map((tour) => (
-                    <div
-                      key={tour.id}
-                      className="flex gap-4 p-4 border border-gray-200 rounded-xl hover:border-[#10B981] transition-colors"
-                    >
-                      {tour.images && JSON.parse(tour.images)[0] && (
-                        <img
-                          src={JSON.parse(tour.images)[0]}
-                          alt={tour.title}
-                          className="w-24 h-24 object-cover rounded-lg"
-                        />
-                      )}
-                      <div className="flex-1">
-                        <h3 className="font-black text-[#001A33] mb-1">{tour.title}</h3>
-                        <p className="text-sm text-gray-600 mb-2">{tour.city}, {tour.country}</p>
-                        <div className="flex items-center justify-between">
-                          <span className="font-black text-[#10B981]">
-                            {(() => {
-                              const displayPrice = getTourPrice(tour);
-                              return `Starting from ${tour.currency === 'INR' ? '₹' : '$'}${displayPrice.toLocaleString()}`;
-                            })()}
-                          </span>
-                          <div className="flex gap-2">
-                            <button
-                              onClick={() => window.location.href = `/india/${tour.city?.toLowerCase()}/${tour.slug}`}
-                              className="px-4 py-2 bg-[#10B981] text-white font-bold rounded-lg hover:bg-[#059669] transition-colors text-sm"
-                            >
-                              View Tour
-                            </button>
-                            <button
-                              onClick={() => removeFromWishlist(tour.id)}
-                              className="p-2 text-gray-400 hover:text-red-500 transition-colors"
-                            >
-                              <Trash2 size={18} />
-                            </button>
+      {
+        showWishlistModal && (
+          <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
+            <div className="bg-white rounded-2xl max-w-2xl w-full max-h-[80vh] overflow-hidden flex flex-col">
+              <div className="flex items-center justify-between p-6 border-b border-gray-200">
+                <h2 className="text-2xl font-black text-[#001A33]">My Wishlist</h2>
+                <button
+                  onClick={() => setShowWishlistModal(false)}
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  <X size={24} />
+                </button>
+              </div>
+              <div className="flex-1 overflow-y-auto p-6">
+                {wishlist.length === 0 ? (
+                  <div className="text-center py-12">
+                    <Heart size={48} className="mx-auto text-gray-300 mb-4" />
+                    <p className="text-gray-500 font-semibold text-lg mb-2">Your wishlist is empty</p>
+                    <p className="text-gray-400 text-sm">Start adding tours to your wishlist!</p>
+                  </div>
+                ) : (
+                  <div className="space-y-4">
+                    {wishlist.map((tour) => (
+                      <div
+                        key={tour.id}
+                        className="flex gap-4 p-4 border border-gray-200 rounded-xl hover:border-[#10B981] transition-colors"
+                      >
+                        {tour.images && JSON.parse(tour.images)[0] && (
+                          <img
+                            src={JSON.parse(tour.images)[0]}
+                            alt={tour.title}
+                            className="w-24 h-24 object-cover rounded-lg"
+                          />
+                        )}
+                        <div className="flex-1">
+                          <h3 className="font-black text-[#001A33] mb-1">{tour.title}</h3>
+                          <p className="text-sm text-gray-600 mb-2">{tour.city}, {tour.country}</p>
+                          <div className="flex items-center justify-between">
+                            <span className="font-black text-[#10B981]">
+                              {(() => {
+                                const displayPrice = getTourPrice(tour);
+                                return `Starting from ${tour.currency === 'INR' ? '₹' : '$'}${displayPrice.toLocaleString()}`;
+                              })()}
+                            </span>
+                            <div className="flex gap-2">
+                              <button
+                                onClick={() => window.location.href = `/india/${tour.city?.toLowerCase()}/${tour.slug}`}
+                                className="px-4 py-2 bg-[#10B981] text-white font-bold rounded-lg hover:bg-[#059669] transition-colors text-sm"
+                              >
+                                View Tour
+                              </button>
+                              <button
+                                onClick={() => removeFromWishlist(tour.id)}
+                                className="p-2 text-gray-400 hover:text-red-500 transition-colors"
+                              >
+                                <Trash2 size={18} />
+                              </button>
+                            </div>
                           </div>
                         </div>
                       </div>
-                    </div>
-                  ))}
-                </div>
-              )}
+                    ))}
+                  </div>
+                )}
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )
+      }
 
 
 
       {/* Profile Modal */}
-      {showProfileModal && (
-        <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
-          <div className="bg-white rounded-2xl max-w-md w-full overflow-hidden">
-            <div className="flex items-center justify-between p-6 border-b border-gray-200">
-              <h2 className="text-2xl font-black text-[#001A33]">Profile</h2>
-              <button
-                onClick={() => setShowProfileModal(false)}
-                className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-              >
-                <X size={24} />
-              </button>
-            </div>
-            <div className="p-6">
-              {user ? (
-                <div className="space-y-6">
-                  <div className="flex items-center gap-4">
-                    <div className="w-16 h-16 bg-[#10B981] rounded-full flex items-center justify-center">
-                      <User size={32} className="text-white" />
+      {
+        showProfileModal && (
+          <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
+            <div className="bg-white rounded-2xl max-w-md w-full overflow-hidden">
+              <div className="flex items-center justify-between p-6 border-b border-gray-200">
+                <h2 className="text-2xl font-black text-[#001A33]">Profile</h2>
+                <button
+                  onClick={() => setShowProfileModal(false)}
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  <X size={24} />
+                </button>
+              </div>
+              <div className="p-6">
+                {user ? (
+                  <div className="space-y-6">
+                    <div className="flex items-center gap-4">
+                      <div className="w-16 h-16 bg-[#10B981] rounded-full flex items-center justify-center">
+                        <User size={32} className="text-white" />
+                      </div>
+                      <div>
+                        <h3 className="font-black text-[#001A33] text-lg">{user.name || user.email}</h3>
+                        <p className="text-sm text-gray-500">{user.email}</p>
+                      </div>
                     </div>
-                    <div>
-                      <h3 className="font-black text-[#001A33] text-lg">{user.name || user.email}</h3>
-                      <p className="text-sm text-gray-500">{user.email}</p>
+                    <div className="space-y-3">
+                      <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
+                        My Bookings
+                      </button>
+                      <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
+                        Account Settings
+                      </button>
+                      <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
+                        Payment Methods
+                      </button>
                     </div>
-                  </div>
-                  <div className="space-y-3">
-                    <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
-                      My Bookings
-                    </button>
-                    <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
-                      Account Settings
-                    </button>
-                    <button className="w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg font-semibold text-[#001A33] transition-colors">
-                      Payment Methods
+                    <button
+                      onClick={handleLogout}
+                      className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-red-50 hover:bg-red-100 text-red-600 font-bold rounded-lg transition-colors"
+                    >
+                      <LogOut size={18} />
+                      Logout
                     </button>
                   </div>
-                  <button
-                    onClick={handleLogout}
-                    className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-red-50 hover:bg-red-100 text-red-600 font-bold rounded-lg transition-colors"
-                  >
-                    <LogOut size={18} />
-                    Logout
-                  </button>
-                </div>
-              ) : (
-                <div className="text-center py-8">
-                  <User size={64} className="mx-auto text-gray-300 mb-4" />
-                  <p className="text-gray-500 font-semibold text-lg mb-2">Guest User</p>
-                  <p className="text-gray-400 text-sm mb-6">You can book tours directly without signing in. Your booking confirmation will be sent to your email.</p>
-                  <button
-                    onClick={() => {
-                      setShowProfileModal(false);
-                    }}
-                    className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-[#10B981] hover:bg-[#059669] text-white font-black rounded-lg transition-colors"
-                  >
-                    Continue Browsing
-                  </button>
-                </div>
-              )}
+                ) : (
+                  <div className="text-center py-8">
+                    <User size={64} className="mx-auto text-gray-300 mb-4" />
+                    <p className="text-gray-500 font-semibold text-lg mb-2">Guest User</p>
+                    <p className="text-gray-400 text-sm mb-6">You can book tours directly without signing in. Your booking confirmation will be sent to your email.</p>
+                    <button
+                      onClick={() => {
+                        setShowProfileModal(false);
+                      }}
+                      className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-[#10B981] hover:bg-[#059669] text-white font-black rounded-lg transition-colors"
+                    >
+                      Continue Browsing
+                    </button>
+                  </div>
+                )}
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )
+      }
 
       {/* Tourist Login Modal */}
-      {showTouristLogin && (
-        <TouristLogin
-          onClose={() => {
-            setShowTouristLogin(false);
-            setPendingWishlistTour(null);
-          }}
-          onLoginSuccess={handleTouristAuthSuccess}
-          onSwitchToSignup={() => {
-            setShowTouristLogin(false);
-            setShowTouristSignup(true);
-          }}
-        />
-      )}
+      {
+        showTouristLogin && (
+          <TouristLogin
+            onClose={() => {
+              setShowTouristLogin(false);
+              setPendingWishlistTour(null);
+            }}
+            onLoginSuccess={handleTouristAuthSuccess}
+            onSwitchToSignup={() => {
+              setShowTouristLogin(false);
+              setShowTouristSignup(true);
+            }}
+          />
+        )
+      }
 
       {/* Tourist Signup Modal */}
-      {showTouristSignup && (
-        <TouristSignup
-          onClose={() => {
-            setShowTouristSignup(false);
-            setPendingWishlistTour(null);
-          }}
-          onSignupSuccess={handleTouristAuthSuccess}
-          onSwitchToLogin={() => {
-            setShowTouristSignup(false);
-            setShowTouristLogin(true);
-          }}
-        />
-      )}
-    </div>
+      {
+        showTouristSignup && (
+          <TouristSignup
+            onClose={() => {
+              setShowTouristSignup(false);
+              setPendingWishlistTour(null);
+            }}
+            onSignupSuccess={handleTouristAuthSuccess}
+            onSwitchToLogin={() => {
+              setShowTouristSignup(false);
+              setShowTouristLogin(true);
+            }}
+          />
+        )
+      }
+    </div >
   );
 };
 
