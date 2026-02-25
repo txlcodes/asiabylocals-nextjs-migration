@@ -53,10 +53,12 @@ interface TourDetailPageProps {
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
 
-  if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour') {
-    const isSkipLine = slug === 'taj-mahal-sunrise-tour';
+  if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour' || slug === 'sunrise-taj-mahal-and-agra-tour-by-car') {
+    const isSkipLine = slug === 'taj-mahal-sunrise-tour' || slug === 'sunrise-taj-mahal-and-agra-tour-by-car';
     const tourLabel = isSkipLine ? "Taj Mahal Sunrise Tour (Skip-the-line version)" : "Taj Mahal Sunrise Tour";
-    const tourPath = isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour";
+    const tourPath = slug === 'sunrise-taj-mahal-and-agra-tour-by-car'
+      ? "/india/agra/sunrise-taj-mahal-and-agra-tour-by-car"
+      : (isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour");
 
     return [
       {
@@ -2147,10 +2149,12 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
     const slug = tour?.slug;
 
     // Use the same logic as the render section to get the high-authority FAQs
-    if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour') {
-      const isSkipLine = slug === 'taj-mahal-sunrise-tour';
+    if (slug === 'taj-mahal-sunrise-guided-tour' || slug === 'taj-mahal-sunrise-tour' || slug === 'sunrise-taj-mahal-and-agra-tour-by-car') {
+      const isSkipLine = slug === 'taj-mahal-sunrise-tour' || slug === 'sunrise-taj-mahal-and-agra-tour-by-car';
       const tourLabel = isSkipLine ? "Taj Mahal Sunrise Tour (Skip-the-line version)" : "Taj Mahal Sunrise Tour";
-      const tourPath = isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour";
+      const tourPath = slug === 'sunrise-taj-mahal-and-agra-tour-by-car'
+        ? "/india/agra/sunrise-taj-mahal-and-agra-tour-by-car"
+        : (isSkipLine ? "/india/agra/taj-mahal-sunrise-tour" : "/india/agra/taj-mahal-sunrise-guided-tour");
 
       return [
         {
