@@ -3,7 +3,7 @@ import { Country, AttractionCard, SignatureExperience } from './types';
 export const CITIES: Country[] = [
   // Live cities - shown first
   { id: 'agra', name: 'Agra', image: '/agra-hero.jpg', localAngle: 'Mughal Heritage', guidesCount: 112 },
-  { id: 'delhi', name: 'Delhi', image: '/cities-images/delhi.jpg', localAngle: 'Historic Capital', guidesCount: 245 },
+  { id: 'delhi', name: 'Delhi', image: '/delhi-home.jpg', localAngle: 'Historic Capital', guidesCount: 245 },
   { id: 'jaipur', name: 'Jaipur', image: '/jaipur-hero.jpg', localAngle: 'Pink City', guidesCount: 189 },
   { id: 'phuket', name: 'Phuket', image: '/things-to-do/phuket-phi-phi.jpg', localAngle: 'Beaches & Island Hopping', guidesCount: 312 },
   { id: 'jodhpur', name: 'Jodhpur', image: '/cities-images/jodhpur.jpg', localAngle: 'Blue City', guidesCount: 145 },
