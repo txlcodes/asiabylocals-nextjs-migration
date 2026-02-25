@@ -50,11 +50,11 @@ const Footer: React.FC = () => {
                     <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mb-6 text-center">We Accept</h5>
                     <div className="flex flex-wrap justify-center items-center gap-6">
                         {/* Visa */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="Visa">
+                        <div className="px-3 py-2 flex items-center justify-center" title="Visa">
                             <img src="/visa-logo.png" alt="Visa" className="h-7 w-auto object-contain" />
                         </div>
                         {/* Mastercard */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="Mastercard">
+                        <div className="px-3 py-2 flex items-center justify-center" title="Mastercard">
                             <svg viewBox="0 0 131.39 86.9" className="h-7 w-auto" xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="43.45" cy="43.45" r="43.45" fill="#EB001B" />
                                 <circle cx="87.94" cy="43.45" r="43.45" fill="#F79E1B" />
@@ -62,23 +62,23 @@ const Footer: React.FC = () => {
                             </svg>
                         </div>
                         {/* Amex */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="American Express">
+                        <div className="px-3 py-2 flex items-center justify-center" title="American Express">
                             <span className="text-[#2E77BB] font-black text-sm tracking-tight">AMEX</span>
                         </div>
                         {/* PayPal */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="PayPal">
+                        <div className="px-3 py-2 flex items-center justify-center" title="PayPal">
                             <span className="font-black text-sm"><span style={{ color: '#69b3e7' }}>Pay</span><span style={{ color: '#003087' }}>Pal</span></span>
                         </div>
                         {/* Razorpay */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="Razorpay">
+                        <div className="px-3 py-2 flex items-center justify-center" title="Razorpay">
                             <span className="font-black text-sm" style={{ color: '#528FF0' }}>Razorpay</span>
                         </div>
                         {/* UPI */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="UPI">
+                        <div className="px-3 py-2 flex items-center justify-center" title="UPI">
                             <img src="/upi-logo.png" alt="UPI" className="h-7 w-auto object-contain" />
                         </div>
                         {/* Net Banking */}
-                        <div className="bg-white/10 border border-white/10 rounded-lg px-4 py-2.5 flex items-center justify-center hover:bg-white/15 transition-colors" title="Net Banking">
+                        <div className="px-3 py-2 flex items-center justify-center" title="Net Banking">
                             <span className="font-black text-xs text-gray-300 uppercase tracking-wider">Net Banking</span>
                         </div>
                     </div>
