@@ -16,7 +16,8 @@ import {
   X,
   Trash2,
   LogIn,
-  LogOut
+  LogOut,
+  Quote
 } from 'lucide-react';
 import { CITIES, EXPERIENCES, ATTRACTIONS } from './constants';
 import { ASIAN_CITIES_DATABASE } from './citiesDatabase';
@@ -51,8 +52,11 @@ import TouristLogin from './TouristLogin';
 import TouristSignup from './TouristSignup';
 
 // Error Boundary Component
-class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { hasError: boolean; error: Error | null }> {
-  state: { hasError: boolean; error: Error | null } = { hasError: false, error: null };
+class ErrorBoundary extends Component<{ children: React.ReactNode }, { hasError: boolean; error: Error | null }> {
+  constructor(props: { children: React.ReactNode }) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
 
   static getDerivedStateFromError(error: Error) {
     return { hasError: true, error };
@@ -99,16 +103,19 @@ interface ExplorationData {
 
 const EXPLORATION_DATA: ExplorationData = {
   attractions: [
-    { name: "Taj Mahal, India", count: "112 tours", image: "/agra-hero.jpg" },
-    { name: "Amber Fort, India", count: "42 tours", image: "https://images.unsplash.com/photo-1596409581890-484bd67634f3?auto=format&fit=crop&q=80&w=400" },
-    { name: "Hawa Mahal, India", count: "28 tours", image: "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&q=80&w=400" },
-    { name: "Red Fort, India", count: "35 tours", image: "https://images.unsplash.com/photo-1587474260584-1f35a4908f9f?auto=format&fit=crop&q=80&w=400" },
-    { name: "Qutub Minar, India", count: "22 tours", image: "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&q=80&w=400" },
-    { name: "City Palace, Jaipur", count: "18 tours", image: "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&q=80&w=400" },
-    { name: "Agra Fort, India", count: "65 tours", image: "/agra-itinerary-hero.jpg" },
-    { name: "Humayun's Tomb, India", count: "15 tours", image: "https://images.unsplash.com/photo-1585135497273-1a85b09fe707?auto=format&fit=crop&q=80&w=400" },
-    { name: "Jama Masjid, Delhi", count: "12 tours", image: "https://images.unsplash.com/photo-1555131336-c671042e76f0?auto=format&fit=crop&q=80&w=400" },
-    { name: "Fatehpur Sikri, Agra", count: "24 tours", image: "https://images.unsplash.com/photo-1588091109312-21917bc04.jpeg?auto=format&fit=crop&q=80&w=400" }
+    { name: "Taj Mahal, India", count: "112 tours", image: "/taj-mahal-new.jpg" },
+    { name: "Wat Arun, Bangkok", count: "45 tours", image: "/wat-arun-new.jpg" },
+    { name: "Phuket Marine Park", count: "62 tours", image: "/phuket-marine-park-new.jpg" },
+    { name: "Chiang Mai Temples", count: "38 tours", image: "/chiang-mai-hero.jpg" },
+    { name: "Amber Fort, India", count: "42 tours", image: "/amber-fort-new.jpg" },
+    { name: "Hawa Mahal, India", count: "28 tours", image: "/hawa-mahal-new.jpg" },
+    { name: "Red Fort, India", count: "35 tours", image: "/red-fort-new.jpg" },
+    { name: "Qutub Minar, India", count: "22 tours", image: "/qutub-minar-new.jpg" },
+    { name: "City Palace, Jaipur", count: "18 tours", image: "/city-palace-new.jpg" },
+    { name: "Agra Fort, India", count: "65 tours", image: "/agra-fort-new.jpg" },
+    { name: "Humayun's Tomb, India", count: "15 tours", image: "/humayun-tomb-new.jpg" },
+    { name: "Jama Masjid, Delhi", count: "12 tours", image: "/jama-masjid-new.jpg" },
+    { name: "Fatehpur Sikri, Agra", count: "24 tours", image: "/fatehpur-sikri-new.jpg" }
   ],
   destinations: [
     { name: "Agra, India", count: "145 tours", image: "/agra-hero.jpg" },
@@ -160,8 +167,8 @@ const ExplorationFooter: React.FC = () => {
         ))}
       </div>
 
-      {/* Grid Content */}
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+      {/* Horizontal Scroll Content */}
+      <div className="flex gap-6 overflow-x-auto pb-8 no-scrollbar -mx-6 px-6">
         {EXPLORATION_DATA[activeTab]?.map((item, idx) => {
           let href = "#";
           if (activeTab === 'countries') {
@@ -177,47 +184,28 @@ const ExplorationFooter: React.FC = () => {
             <a
               key={`${activeTab}-${idx}`}
               href={href}
-              className="relative group h-48 rounded-2xl overflow-hidden shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 bg-[#001A33]"
+              className="relative flex-shrink-0 w-72 h-64 rounded-3xl overflow-hidden transition-all duration-700 bg-black group"
             >
               {/* Background Image */}
               <div className="absolute inset-0">
                 <img
                   src={item.image}
                   alt={item.name}
-                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 brightness-[0.85] group-hover:brightness-[0.7]"
+                  className="w-full h-full object-cover grayscale-0 group-hover:scale-105 transition-all duration-1000 opacity-80 group-hover:opacity-100"
                 />
               </div>
 
-              {/* Gradient Overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-95 transition-opacity duration-500" />
+              {/* Minimal Gradient Overlay */}
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700" />
 
-              {/* Unique Accents */}
-              <div className="absolute top-4 right-4 h-8 w-8 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-500 transform group-hover:rotate-12 translate-y-2 group-hover:translate-y-0">
-                <ChevronRight size={14} className="text-white" />
-              </div>
-
-              <div className="absolute top-4 left-4 flex flex-col gap-1">
-                <div className="h-[2px] w-4 bg-[#10B981] group-hover:w-8 transition-all duration-500" />
-                <div className="h-[2px] w-2 bg-white/30 group-hover:w-4 transition-all duration-500 delay-75" />
-              </div>
-
-              {/* Content */}
-              <div className="absolute inset-0 p-5 flex flex-col justify-end">
-                <span className="text-white/60 text-[9px] uppercase tracking-[0.2em] font-black mb-1 group-hover:text-[#10B981] transition-colors">
-                  Explore
-                </span>
-                <h6 className="text-white text-[15px] font-black leading-tight mb-2 group-hover:translate-x-1 transition-transform duration-300">
-                  {item.name}
+              {/* Minimal Content */}
+              <div className="absolute inset-x-0 bottom-0 p-6">
+                <h6 className="text-white text-[18px] font-thin tracking-tight leading-tight group-hover:font-normal transition-all duration-500">
+                  {item.name.split(',')[0]}
                 </h6>
-                <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md w-fit px-2 py-1 rounded-full border border-white/10">
-                  <span className="relative flex h-1.5 w-1.5">
-                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#10B981] opacity-75"></span>
-                    <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-[#10B981]"></span>
-                  </span>
-                  <span className="text-white text-[9px] uppercase tracking-wider font-extrabold">
-                    {item.count}
-                  </span>
-                </div>
+                <span className="text-white/60 text-[10px] font-medium tracking-[0.1em] uppercase mt-1 block group-hover:text-white transition-colors">
+                  {item.count}
+                </span>
               </div>
             </a>
           );
@@ -1371,6 +1359,70 @@ const App: React.FC = () => {
 
         {/* Exploration Footer */}
         <ExplorationFooter />
+
+        {/* Testimonials Section */}
+        <section className="bg-white py-24 border-t border-gray-100">
+          <div className="max-w-[1200px] mx-auto px-6">
+            <h2 className="text-3xl font-black text-[#001A33] mb-16 text-center">What travellers say</h2>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+              {[
+                {
+                  name: "Liz B.",
+                  text: "If you want to truly understand the history of the Taj Mahal in the context of how India developed, this tour with Shahnawaz will leave you loving Agra even more than you thought possible. We had a meaningful and memorable time. Shahnawaz added some special photo opportunities along the way knowing what our interests were and we couldn't have been happier.",
+                  tour: "Private Taj Mahal Sunrise Tour",
+                  link: "/india/agra/taj-mahal-sunrise-secrets-with-a-professional-historian"
+                },
+                {
+                  name: "Anthony L W.",
+                  text: "Best tour that we have EVER had! We covered so many things from city highlights to the cultural beginnings of the Mughal Empire. Talha told story after story of how Agra came to be and tied it all in with what we were experiencing present day. By the end it became more like seeing the city with a great friend than a tour guide.",
+                  tour: "Agra Fort & Old City Heritage Walk",
+                  link: "/india/agra/agra-fort-guided-walk"
+                },
+                {
+                  name: "Joe M.",
+                  text: "Great tour with fantastic guide... We were able to customize the tour to our interests, got an early start to beat the crowds. Overall a great day, full of unexpected discoveries. Danish is a wonderful guide, interesting and knowledgeable, with a great sense of humor. We will hire him again in a heartbeat next time we are visiting Agra.",
+                  tour: "Baby Taj & Mehtab Bagh Sunset Tour",
+                  link: "/india/agra/baby-taj-mehtab-bagh-sunset"
+                },
+                {
+                  name: "Raghu N.",
+                  text: "The highlight of our trip to India for sure! Asif was so knowledgeable and personable - it felt like we were walking around with a longtime friend. In addition to his encyclopedic knowledge of Mughal history and mythology, he also had lots of useful tips and recommendations for the rest of our stay in Agra. I can't recommend taking a tour with Asif highly enough!",
+                  tour: "Taj Mahal & Agra Fort Skip-the-Line Tour",
+                  link: "/india/agra/taj-mahal-agra-fort-skip-the-line"
+                }
+              ].map((t, idx) => (
+                <div key={idx} className="bg-white rounded-2xl p-8 shadow-[0_10px_40px_-15px_rgba(0,0,0,0.08)] border border-gray-50 flex flex-col items-center text-center group hover:border-[#67C1B0]/30 transition-all duration-500 hover:-translate-y-1 hover:shadow-xl">
+                  <div className="text-[#67C1B0] mb-6 transform group-hover:scale-110 transition-transform duration-500">
+                    <Quote size={48} fill="currentColor" fillOpacity="0.1" />
+                  </div>
+
+                  <p className="text-gray-500 text-[14px] leading-relaxed italic mb-8 font-medium">
+                    "{t.text}"
+                  </p>
+
+                  <div className="flex gap-1 mb-4">
+                    {[...Array(5)].map((_, i) => (
+                      <Star key={i} size={14} className="fill-[#FFB800] text-[#FFB800]" />
+                    ))}
+                  </div>
+
+                  <div className="mb-8">
+                    <span className="block font-black text-[#001A33] text-[15px]">{t.name}</span>
+                    <span className="text-[12px] text-gray-400 font-bold uppercase tracking-widest">Traveller</span>
+                  </div>
+
+                  <a
+                    href={t.link}
+                    className="mt-auto text-[13px] font-black text-[#001A33] border-b-2 border-gray-200 hover:border-[#67C1B0] transition-colors pb-0.5"
+                  >
+                    {t.tour}
+                  </a>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
 
         {/* Global Local Trust Bar */}
         <section className="bg-gray-50 py-20 border-y border-gray-100">
