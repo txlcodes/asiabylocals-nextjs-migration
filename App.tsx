@@ -177,7 +177,7 @@ const ExplorationFooter: React.FC = () => {
             <a
               key={`${activeTab}-${idx}`}
               href={href}
-              className="relative group h-48 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500"
+              className="relative group h-48 rounded-2xl overflow-hidden shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 bg-[#001A33]"
             >
               {/* Background Image */}
               <div className="absolute inset-0">
