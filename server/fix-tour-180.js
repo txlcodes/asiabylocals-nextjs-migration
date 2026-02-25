@@ -93,7 +93,7 @@ The entire complex is built on a "charbagh" (four-garden) plan, symbolizing the 
 A: No. A clear digital copy on your smartphone (the PDF we send via WhatsApp) is sufficient for entry.
 
 **Q: Is the guided tour included in the ticket?**
-A: This specific product is an **Entry Ticket Only**. If you would like a licensed historian to accompany you, please book our [Taj Mahal Guided Tour](/india/agra/taj-mahal-guided-tour).
+A: This specific product is an **Entry Ticket Only**. If you would like a licensed historian to accompany you, please book our [Taj Mahal Guided Tour](/india/agra/agra-city-highlights-tour).
 
 **Q: Can I re-enter with the same ticket?**
 A: No. The ticket is valid for a **single entry only**. Once you exit the complex, you cannot go back in with the same barcode.

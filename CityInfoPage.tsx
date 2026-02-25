@@ -512,6 +512,85 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                     ]
                 };
 
+            case "taj-mahal":
+                return {
+                    title: "Taj Mahal – Complete 2026 Visitor Guide",
+                    description: "The Taj Mahal is not merely a monument; it is a profound testament to love, an architectural masterpiece of the Mughal Empire, and a UNESCO World Heritage site that draws millions annually. This high-authority guide provides everything you need to know for your 2026 visit, from historical deep-dives to tactical navigation of ticket systems and opening times.",
+                    heroImage: "/taj-mahal-new.jpg",
+                    fastFacts: [
+                        { icon: 'History', label: 'Year Built', value: '1631 - 1653' },
+                        { icon: 'Star', label: 'UNESCO Status', value: 'Listed since 1983' },
+                        { icon: 'Map', label: 'Primary Use', value: 'Imperial Mausoleum' }
+                    ],
+                    sections: [
+                        {
+                            title: "Introduction: The Frozen Teardrop of Eternity",
+                            content: "Standing on the southern bank of the Yamuna River in Agra, India, the Taj Mahal is often described as a 'dream in marble.' It is the most famous example of Mughal architecture—a style that combines Islamic, Persian, and Indian influences. Commissioned in 1632 by the Mughal Emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal, it also contains the tomb of the Emperor himself. \n\nWalking through the main gateway (Darwaza-i-rauza) for the first time is an emotional experience that transcends typical sightseeing. The sheer scale and blinding whiteness of the monument against the blue Indian sky create a visual harmony that has captivated poets and travelers for centuries. For many, it represents the absolute peak of human artistic achievement, where stone and symmetry meet the divine. In 2026, as travel trends lean toward authentic and culturally profound experiences, the Taj Mahal remains the ultimate pilgrimage for those seeking to understand the history of the Indian subcontinent."
+                        },
+                        {
+                            title: "Monument Overview: History and Architecture",
+                            content: "The history of the Taj Mahal is a story of unprecedented ambition and tragic loss. After the death of Mumtaz Mahal during childbirth in 1631, Shah Jahan was reportedly so heartbroken that his hair turned white overnight. He resolved to build a memorial that would mirror the beauty of paradise on Earth. \n\n**Historical Significance:** \nIt took approximately 22 years and a workforce of 20,000 artisans to complete the complex. Materials were brought from all over India and Asia, with over 1,000 elephants used for transportation. The white Makrana marble was sourced from Rajasthan, crystal from China, Lapis Lazuli from Afghanistan, and Turquoise from Tibet. \n\n**Architectural Masterclass:** \n- **The Dome:** The central bulbous dome reaches a height of 73 meters (240 feet) and is topped by a gilded finial. Its 'double-dome' construction allows the outside to be massive while maintaining human-scale proportions inside. \n- **The Minarets:** The four minarets at the corners of the plinth are built with a slight outward tilt. This was a deliberate engineering choice: in the event of a massive earthquake, the towers would fall away from the main tomb rather than crashing into it. \n- **The Symmetry:** Every element, from the gardens to the secondary buildings of the mosque and the guesthouse, is perfectly symmetrical along a central axis. Only the tomb of Shah Jahan, added years later beside Mumtaz Mahal, breaks this perfect symmetry—a final, humble human touch to an otherwise perfect design. \n- **Calligraphy:** The walls are decorated with Quranic verses in black marble inlay. If you look closely at the inscriptions on the gateway, the letters increase in size as they go higher, so they appear uniformly sized to a person standing below—a testament to the optical sophistication of the Mughal architects."
+                        },
+                        {
+                            title: "Cultural & UNESCO Significance",
+                            content: "In 1983, the Taj Mahal was designated as a UNESCO World Heritage Site for being 'the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.' Beyond its physical beauty, the monument is a cultural bridge. It represents the height of the 'Golden Age' of the Mughal Empire, a time when India was the world's preeminent economic power and a hub for artistic synthesis. \n\nThe layout follows the 'Charbagh' concept—the four-part garden representing the four rivers of Paradise mentioned in the Quran. For the local people of Agra, the Taj Mahal is not just a landmark but a source of identity and livelihood, with the descendants of the original artisans still practicing the 'Pietra Dura' stone-inlay art today in workshops surrounding the monument."
+                        },
+                        {
+                            title: "Visiting the Taj Mahal (2026 Tactical Overview)",
+                            content: "Navigating the Taj Mahal in 2026 requires more than just a ticket; it requires a strategy. The Archaeological Survey of India (ASI) has implemented strict digital protocols to preserve the monument and manage the millions of visitors. \n\n**Ticket Price Strategy:** \nOne of the first things to understand is the dual-pricing system. For 2026, international tourists pay a higher fee which includes skip-the-line security and access to amenities like shoe covers and water. For a full breakdown of costs for foreigners versus SAARC residents, please refer to our dedicated [Taj Mahal Ticket Price 2026 page](/india/agra/taj-mahal-ticket-price-2026). Remember, as of this year, no cash is accepted at the gates—all bookings must be done digitally. \n\n**Timing Your Arrival:** \nTiming is everything. The monument is famous for its color-changing properties, and arriving at the wrong hour can result in a flat, washed-out visual experience. The gates typically open 30 minutes before sunrise. For the most up-to-date schedule and variations between summer and winter hours, consult our [Taj Mahal Opening Time guide](/india/agra/taj-mahal-opening-time). \n\n**The Friday Rule:** \nA common pitfall for travelers is planning a visit on a Friday. The Taj Mahal is strictly reserved for the local Muslim community for congregational prayers on this day. If you find yourself in Agra on a Friday, do not despair—there are incredible alternative viewing spots. Check our guide on [what to do when the Taj Mahal is closed on Friday](/india/agra/is-taj-mahal-closed-on-friday) to save your trip."
+                        },
+                        {
+                            title: "Best Time to Visit: Sunrise vs. Sunset",
+                            content: "Should you wake up at 4:30 AM for sunrise or wait for the golden hour of sunset? Both offer distinct advantages, but for most professionals, sunrise is the winner. \n\n- **The Sunrise Experience:** At dawn, the white marble absorbs a soft, ethereal pinkish hue. The atmosphere is quiet, the air is cooler, and the crowds are at their thinnest. The 'Secrets of the Taj' are best revealed during the first hour of light. \n- **The Sunset Perspective:** During the late afternoon, the monument glows with an intense golden-orange warmth. While the interior is often more crowded at this time, the reflection pools offer stunning photographic opportunities. \n- **The Seasonal Window:** The absolute best months for clear skies and comfortable walking are October through March. In December and January, morning fog can be quite thick—check the [Agra Travel Guide](/india/agra/agra-travel-guide-2026) for visibility tips. \n\n**Crowd Behavior Insight:** The largest crowds generally arrive after 10:30 AM via tour buses from Delhi. To have the best experience, aim to finish your tour by the time these crowds are just entering."
+                        },
+                        {
+                            title: "Common Mistakes Travelers Make",
+                            content: "Even seasoned travelers fall into predictable traps when visiting the Taj Mahal. Awareness of these can significantly enhance your experience. \n\n1.  **Arriving on a Friday:** As mentioned, the monument is [closed for general tourism every Friday](/india/agra/is-taj-mahal-closed-on-friday). Do not rely on old blogs that suggest otherwise. \n2.  **Using the Wrong Gate:** The West Gate is usually faster for sunrise seekers, while the East Gate handles the majority of the luxury hotel traffic. Both are efficient if you have pre-booked tickets. \n3.  **Hiring Unlicensed Guides:** Every monument gate is teeming with 'touts' claiming to be guides. Only hire individuals who carry a valid ID card from the Ministry of Tourism. They have undergone rigorous history exams and know the best camera angles. \n4.  **Carrying Prohibited Items:** Security is airport-style. Do not bring power banks, tobacco, lighters, tripods, or even books. You will be asked to leave the line and store them in a locker, losing 30-45 minutes of prime light. Carry only your camera, phone, water, and passport. \n5.  **No Advance Booking:** Trying to scan the QR code at the gate on a busy Saturday is a gamble. The cellular network is often saturated. Book your tickets at least 24 hours in advance while at your hotel."
+                        },
+                        {
+                            title: "Should You Hire a Guide?",
+                            content: "While you can certainly walk through the gardens alone, the Taj Mahal is a monument of 'layers.' A professional licensed historian can explain the optical illusions in the calligraphy, point out the specific semi-precious stones used in the 'Pietra Dura' work, and share the political intrigues of the Mughal court that aren't on the plaques. \n\nIf you are a history enthusiast, a **Taj Mahal Sunrise Tour** is highly recommended to get those early-morning insights before the heat builds. For those looking to capture the perfect Instagram or professional shot, a specialized **Taj Mahal Photography Tour** can guide you to 'secret' spots that avoid the throngs of people. For a truly elevated experience, a **Taj Mahal Royal Private Tour** offers the depth of a historian with the comfort of pre-arranged logistics and luxury transport from your hotel. \n\nA guide doesn't just talk; they act as a buffer between you and the chaos, allowing you to focus entirely on the architectural beauty."
+                        },
+                        {
+                            title: "Internal Authority Hub",
+                            content: "To truly master your Agra visit, coordinate this guide with our other supporting resources. If you are on a tight schedule, our [1-day Agra itinerary](/india/agra/1-day-agra-itinerary) shows you exactly how to combine the Taj with the [Agra Fort](/india/agra/places-to-visit-in-agra). For a more expanded list of activities, see our curated [things to do in Agra](/india/agra/things-to-do-in-agra) which includes street food trails and hidden Mughal tombs that most travelers overlook."
+                        }
+                    ],
+                    faqs: [
+                        {
+                            q: "How long should I spend at the Taj Mahal?",
+                            a: "A standard visit takes 2 to 3 hours. This allows time for security entry, walking the main platform, visiting the mosque, and relaxing in the gardens. Note that your ticket is valid for a maximum of 3 hours from the time of entry."
+                        },
+                        {
+                            q: "What should I wear to the Taj Mahal?",
+                            a: "There is no strict religious dress code (unlike some mosques), but modest clothing is recommended out of respect for the local culture. Loose, breathable cotton is best for the heat. You must remove your shoes or use the provided shoe covers to step onto the main white marble platform."
+                        },
+                        {
+                            q: "Is the Taj Mahal wheelchair accessible?",
+                            a: "Yes, the main complex is relatively accessible. Wheelchairs are available at the gates, and there are ramps to access the raised platform. However, the internal mausoleum chambers have small steps and can be difficult to navigate."
+                        },
+                        {
+                            q: "Can I bring my camera inside?",
+                            a: "Still photography is permitted for personal use. Video cameras are technically allowed but often require a separate fee or permit if they look professional. Drones and tripods are strictly prohibited."
+                        },
+                        {
+                            q: "Is there a safe place to store bags?",
+                            a: "Yes, there are government-run locker facilities at the East and West gates. However, we recommend leaving large bags at your hotel to save time at the security check."
+                        },
+                        {
+                            q: "Does the Taj Mahal really change colors?",
+                            a: "Yes! Due to the translucency of the Makrana marble, the monument reacts to the changing light. It appears pinkish at sunrise, brilliant white at noon, and golden or even sapphire at sunset and under moonlight."
+                        }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Taj Mahal – Complete 2026 Visitor Guide",
+                        "description": "The definitive monument guide for the Taj Mahal in 2026. History, architecture, tickets, and travel tips for a premium experience.",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
             default:
                 return null;
         }

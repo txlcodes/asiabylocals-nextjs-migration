@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, Component } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import {
   Globe,
@@ -39,7 +39,8 @@ const AGRA_INFO_SLUGS = [
   'taj-mahal-ticket-price-2026',
   'taj-mahal-opening-time',
   'is-taj-mahal-closed-on-friday',
-  'agra-travel-guide-2026'
+  'agra-travel-guide-2026',
+  'taj-mahal'
 ];
 import BookingConfirmation from './BookingConfirmation';
 import PaymentCallback from './PaymentCallback';
@@ -51,12 +52,19 @@ import AboutUs from './AboutUs';
 import TouristLogin from './TouristLogin';
 import TouristSignup from './TouristSignup';
 
+interface ErrorBoundaryProps {
+  children: React.ReactNode;
+}
+
+interface ErrorBoundaryState {
+  hasError: boolean;
+  error: Error | null;
+}
+
 // Error Boundary Component
-class ErrorBoundary extends Component<{ children: React.ReactNode }, { hasError: boolean; error: Error | null }> {
-  constructor(props: { children: React.ReactNode }) {
-    super(props);
-    this.state = { hasError: false, error: null };
-  }
+class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundaryState> {
+  public state: ErrorBoundaryState = { hasError: false, error: null };
+  public props: ErrorBoundaryProps;
 
   static getDerivedStateFromError(error: Error) {
     return { hasError: true, error };
@@ -106,7 +114,6 @@ const EXPLORATION_DATA: ExplorationData = {
     { name: "Taj Mahal, India", count: "112 tours", image: "/taj-mahal-new.jpg" },
     { name: "Wat Arun, Bangkok", count: "45 tours", image: "/wat-arun-new.jpg" },
     { name: "Phuket Marine Park", count: "62 tours", image: "/phuket-marine-park-new.jpg" },
-    { name: "Chiang Mai Temples", count: "38 tours", image: "/chiang-mai-hero.jpg" },
     { name: "Amber Fort, India", count: "42 tours", image: "/amber-fort-new.jpg" },
     { name: "Hawa Mahal, India", count: "28 tours", image: "/hawa-mahal-new.jpg" },
     { name: "Red Fort, India", count: "35 tours", image: "/red-fort-new.jpg" },
@@ -141,6 +148,37 @@ const EXPLORATION_DATA: ExplorationData = {
 
 const ExplorationFooter: React.FC = () => {
   const [activeTab, setActiveTab] = useState<string>('attractions');
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(true);
+
+  const checkScroll = () => {
+    if (scrollRef.current) {
+      const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
+      setCanScrollLeft(scrollLeft > 10);
+      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 10);
+    }
+  };
+
+  useEffect(() => {
+    checkScroll();
+    const timer = setTimeout(checkScroll, 100);
+    window.addEventListener('resize', checkScroll);
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('resize', checkScroll);
+    };
+  }, [activeTab]);
+
+  const scroll = (direction: 'left' | 'right') => {
+    if (scrollRef.current) {
+      const scrollAmount = scrollRef.current.clientWidth * 0.8;
+      scrollRef.current.scrollBy({
+        left: direction === 'left' ? -scrollAmount : scrollAmount,
+        behavior: 'smooth'
+      });
+    }
+  };
 
   const tabs = [
     { id: 'attractions', label: 'Top attractions in Asia' },
@@ -167,49 +205,82 @@ const ExplorationFooter: React.FC = () => {
         ))}
       </div>
 
-      {/* Horizontal Scroll Content */}
-      <div className="flex gap-6 overflow-x-auto pb-8 no-scrollbar -mx-6 px-6">
-        {EXPLORATION_DATA[activeTab]?.map((item, idx) => {
-          let href = "#";
-          if (activeTab === 'countries') {
-            href = `/${item.name.toLowerCase().replace(/\s+/g, '-')}`;
-          } else if (activeTab === 'destinations') {
-            const [city, country] = item.name.split(', ');
-            if (city && country) {
-              href = `/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`;
+      {/* Horizontal Scroll Content Container */}
+      <div className="relative group/scroll">
+        {/* Left Arrow */}
+        {canScrollLeft && (
+          <button
+            onClick={() => scroll('left')}
+            className="hidden lg:flex absolute left-0 top-1/2 -translate-y-1/2 z-20 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full shadow-sm hover:shadow-md hover:bg-white transition-all border border-gray-100 items-center justify-center -ml-5"
+            aria-label="Scroll left"
+          >
+            <ChevronLeft size={20} className="text-gray-400 group-hover/scroll:text-[#10B981] transition-colors" />
+          </button>
+        )}
+
+        {/* Right Arrow */}
+        {canScrollRight && (
+          <button
+            onClick={() => scroll('right')}
+            className="hidden lg:flex absolute right-0 top-1/2 -translate-y-1/2 z-20 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full shadow-sm hover:shadow-md hover:bg-white transition-all border border-gray-100 items-center justify-center -mr-5"
+            aria-label="Scroll right"
+          >
+            <ChevronRight size={20} className="text-gray-400 group-hover/scroll:text-[#10B981] transition-colors" />
+          </button>
+        )}
+
+        {/* Scroll Content */}
+        <div
+          ref={scrollRef}
+          onScroll={checkScroll}
+          className="flex gap-6 overflow-x-auto pb-8 no-scrollbar -mx-6 px-6 scroll-smooth snap-x snap-proximity"
+        >
+          {EXPLORATION_DATA[activeTab]?.map((item, idx) => {
+            let href = "#";
+            if (activeTab === 'countries') {
+              href = `/${item.name.toLowerCase().replace(/\s+/g, '-')}`;
+            } else if (activeTab === 'destinations') {
+              const [city, country] = item.name.split(', ');
+              if (city && country) {
+                href = `/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`;
+              }
+            } else if (activeTab === 'attractions') {
+              if (item.name.includes('Taj Mahal')) {
+                href = "/india/agra/taj-mahal";
+              }
             }
-          }
 
-          return (
-            <a
-              key={`${activeTab}-${idx}`}
-              href={href}
-              className="relative flex-shrink-0 w-72 h-64 rounded-3xl overflow-hidden transition-all duration-700 bg-black group"
-            >
-              {/* Background Image */}
-              <div className="absolute inset-0">
-                <img
-                  src={item.image}
-                  alt={item.name}
-                  className="w-full h-full object-cover grayscale-0 group-hover:scale-105 transition-all duration-1000 opacity-80 group-hover:opacity-100"
-                />
-              </div>
+            return (
+              <a
+                key={`${activeTab}-${idx}`}
+                href={href}
+                className="relative flex-shrink-0 w-72 h-64 rounded-3xl overflow-hidden transition-all duration-700 bg-black group"
+              >
+                {/* Background Image */}
+                <div className="absolute inset-0">
+                  <img
+                    src={item.image}
+                    alt={item.name}
+                    className="w-full h-full object-cover grayscale-0 group-hover:scale-105 transition-all duration-1000 opacity-80 group-hover:opacity-100"
+                  />
+                </div>
 
-              {/* Minimal Gradient Overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700" />
+                {/* Minimal Gradient Overlay */}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700" />
 
-              {/* Minimal Content */}
-              <div className="absolute inset-x-0 bottom-0 p-6">
-                <h6 className="text-white text-[18px] font-thin tracking-tight leading-tight group-hover:font-normal transition-all duration-500">
-                  {item.name.split(',')[0]}
-                </h6>
-                <span className="text-white/60 text-[10px] font-medium tracking-[0.1em] uppercase mt-1 block group-hover:text-white transition-colors">
-                  {item.count}
-                </span>
-              </div>
-            </a>
-          );
-        })}
+                {/* Minimal Content */}
+                <div className="absolute inset-x-0 bottom-0 p-6">
+                  <h6 className="text-white text-[18px] font-thin tracking-tight leading-tight group-hover:font-normal transition-all duration-500">
+                    {item.name.split(',')[0]}
+                  </h6>
+                  <span className="text-white/60 text-[10px] font-medium tracking-[0.1em] uppercase mt-1 block group-hover:text-white transition-colors">
+                    {item.count}
+                  </span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
       </div>
     </section>
   );
@@ -264,6 +335,12 @@ const App: React.FC = () => {
   const handleSearch = (cityName?: string) => {
     const query = cityName || searchQuery.trim();
     if (!query) return;
+
+    // Special case for Taj Mahal authority page
+    if (query.toLowerCase().includes('taj mahal')) {
+      window.location.href = "/india/agra/taj-mahal";
+      return;
+    }
 
     // Find matching city (case-insensitive)
     const matchedCity = focusCities.find(city =>
@@ -1263,9 +1340,9 @@ const App: React.FC = () => {
                     scrollContainer.scrollTo({ left: newPosition, behavior: 'smooth' });
                   }
                 }}
-                className="hidden sm:flex absolute left-2 sm:left-4 top-[40%] -translate-y-1/2 z-10 bg-white rounded-full p-3 shadow-lg hover:bg-gray-50 transition-all border border-gray-200 items-center justify-center"
+                className="hidden lg:flex absolute left-0 top-[40%] -translate-y-1/2 z-10 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full shadow-sm hover:shadow-md hover:bg-white transition-all border border-gray-100 items-center justify-center -ml-5"
               >
-                <ChevronLeft className="text-[#0071EB]" size={24} />
+                <ChevronLeft className="text-gray-400 group-hover:text-[#10B981] transition-colors" size={20} />
               </button>
             )}
 
@@ -1326,9 +1403,9 @@ const App: React.FC = () => {
                     scrollContainer.scrollTo({ left: newPosition, behavior: 'smooth' });
                   }
                 }}
-                className="hidden sm:flex absolute right-2 sm:right-4 top-[40%] -translate-y-1/2 z-10 bg-white rounded-full p-3 shadow-lg hover:bg-gray-50 transition-all border border-gray-200 items-center justify-center"
+                className="hidden lg:flex absolute right-0 top-[40%] -translate-y-1/2 z-10 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full shadow-sm hover:shadow-md hover:bg-white transition-all border border-gray-100 items-center justify-center -mr-5"
               >
-                <ChevronRight className="text-[#0071EB]" size={24} />
+                <ChevronRight className="text-gray-400 group-hover:text-[#10B981] transition-colors" size={20} />
               </button>
             )}
           </div>
@@ -1365,7 +1442,7 @@ const App: React.FC = () => {
           <div className="max-w-[1200px] mx-auto px-6">
             <h2 className="text-3xl font-black text-[#001A33] mb-16 text-center">What travellers say</h2>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               {[
                 {
                   name: "Liz B.",

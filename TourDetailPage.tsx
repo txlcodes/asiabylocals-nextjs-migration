@@ -3861,8 +3861,8 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                   {/* Full Description */}
                   <div className="mb-8">
                     <h2 className="text-2xl font-black text-[#001A33] mb-4">Full description</h2>
-                    <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-                      <div className="text-[16px] text-gray-700 font-semibold leading-[1.8] whitespace-pre-wrap break-words">
+                    <div className="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 border border-gray-100 shadow-sm transition-all hover:shadow-md">
+                      <div className="text-[16px] sm:text-[17px] text-gray-700 font-normal sm:font-medium leading-[1.8] whitespace-pre-wrap break-words">
                         {(() => {
                           if (!tour.fullDescription) return null;
 
@@ -3880,7 +3880,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                                 const match = part.match(/\[(.*?)\]\((.*?)\)/);
                                 if (match) {
                                   return (
-                                    <a key={`l-${i}`} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
+                                    <a key={`l-${i}`} href={match[2]} className="text-[#10B981] font-black border-b-2 border-[#10B981]/20 hover:border-[#10B981] transition-all">
                                       {match[1]}
                                     </a>
                                   );
@@ -3900,49 +3900,102 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
 
                           return tour.fullDescription.split('\n').map((line: string, i: number) => {
                             const trimmed = line.trim();
+                            if (!trimmed) return <div key={i} className="h-4"></div>;
+
+                            // Handle Special Bold Headers (Entire line is **Text**)
+                            if (trimmed.startsWith('**') && trimmed.endsWith('**') && !trimmed.slice(2, -2).includes('**')) {
+                              const content = trimmed.slice(2, -2);
+
+                              // Check if it's a Time Heading (e.g., "06:00 AM – Title")
+                              const timeMatch = content.match(/^(\d{2}:\d{2}\s?(?:AM|PM))\s?[-–—]\s?(.*)$/i);
+                              if (timeMatch) {
+                                return (
+                                  <div key={i} className="mt-10 mb-6 group first:mt-2">
+                                    <div className="flex flex-wrap items-center gap-3">
+                                      <span className="bg-[#10B981] text-white px-3 py-1 rounded-full text-[12px] sm:text-[13px] font-black uppercase tracking-wider shadow-sm shadow-[#10B981]/20">
+                                        {timeMatch[1]}
+                                      </span>
+                                      <span className="text-lg sm:text-xl font-black text-[#001A33] group-hover:text-[#10B981] transition-colors leading-tight">
+                                        {timeMatch[2]}
+                                      </span>
+                                    </div>
+                                    <div className="mt-4 h-[1px] w-full bg-gradient-to-r from-gray-100 via-gray-50 to-transparent"></div>
+                                  </div>
+                                );
+                              }
+
+                              // Main Title / Summary Header
+                              if (content.toLowerCase().includes('tour') || content.toLowerCase().includes('itinerary')) {
+                                return (
+                                  <div key={i} className="mb-8 p-6 bg-gray-50 rounded-2xl border border-gray-100 first:mt-0 mt-6">
+                                    <h3 className="text-lg sm:text-xl font-black text-[#001A33] uppercase tracking-tight flex items-center gap-3">
+                                      <div className="w-1.5 h-6 bg-[#10B981] rounded-full"></div>
+                                      {content}
+                                    </h3>
+                                  </div>
+                                );
+                              }
+
+                              // Standard Section Header
+                              return (
+                                <h4 key={i} className="text-[17px] sm:text-[18px] font-black text-[#001A33] mt-10 mb-4 flex items-center gap-3">
+                                  <div className="w-2.5 h-2.5 rounded-full border-2 border-[#10B981] bg-white"></div>
+                                  {content}
+                                </h4>
+                              );
+                            }
 
                             // Handle Headings
                             if (trimmed.startsWith('# ')) {
-                              return <h1 key={i} className="text-3xl font-black text-[#001A33] mb-6 mt-8 border-b pb-2">{trimmed.replace('# ', '')}</h1>;
+                              return <h1 key={i} className="text-2xl sm:text-3xl font-black text-[#001A33] mb-8 mt-12 border-b-2 border-gray-50 pb-4">{trimmed.replace('# ', '')}</h1>;
                             }
                             if (trimmed.startsWith('## ')) {
-                              return <h2 key={i} className="text-2xl font-black text-[#001A33] mb-4 mt-8">{trimmed.replace('## ', '')}</h2>;
+                              return <h2 key={i} className="text-xl sm:text-2xl font-black text-[#001A33] mb-6 mt-10">{trimmed.replace('## ', '')}</h2>;
                             }
                             if (trimmed.startsWith('### ')) {
-                              return <h3 key={i} className="text-xl font-black text-[#001A33] mb-3 mt-6">{trimmed.replace('### ', '')}</h3>;
+                              return <h3 key={i} className="text-[18px] sm:text-xl font-black text-[#001A33] mb-4 mt-8">{trimmed.replace('### ', '')}</h3>;
                             }
 
                             // Handle Separators
                             if (trimmed === '---') {
-                              return <hr key={i} className="my-8 border-gray-200" />;
+                              return (
+                                <div key={i} className="my-12 flex items-center justify-center gap-4">
+                                  <div className="h-px flex-1 bg-gray-100"></div>
+                                  <div className="w-1 h-1 rounded-full bg-gray-300"></div>
+                                  <div className="w-1.5 h-1.5 rounded-full bg-gray-400"></div>
+                                  <div className="w-1 h-1 rounded-full bg-gray-300"></div>
+                                  <div className="h-px flex-1 bg-gray-100"></div>
+                                </div>
+                              );
                             }
 
                             // Handle Bullets
                             if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
                               const content = trimmed.startsWith('* ') ? trimmed.replace('* ', '') : trimmed.replace('- ', '');
                               return (
-                                <div key={i} className="flex gap-2 mb-2 ml-4">
-                                  <span className="text-[#10B981] font-black">•</span>
-                                  <span className="text-gray-700">{renderMarkdownText(content)}</span>
+                                <div key={i} className="flex gap-4 mb-4 ml-2 group">
+                                  <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-[#10B981] shrink-0"></div>
+                                  <span className="text-gray-700 leading-relaxed font-semibold text-[15px] sm:text-[16px]">{renderMarkdownText(content)}</span>
                                 </div>
                               );
                             }
 
-                            // Handle Numbered Lists (like 1. 2. 3. inside paragraphs)
+                            // Handle Numbered Lists
                             if (/^\d+\.\s/.test(trimmed)) {
-                              const index = trimmed.split('. ')[0];
-                              const content = trimmed.split('. ').slice(1).join('. ');
+                              const splitIndex = trimmed.indexOf('. ');
+                              const index = trimmed.substring(0, splitIndex);
+                              const content = trimmed.substring(splitIndex + 2);
                               return (
-                                <div key={i} className="flex gap-2 mb-2 ml-4">
-                                  <span className="text-[#10B981] font-black">{index}.</span>
-                                  <span className="text-gray-700">{renderMarkdownText(content)}</span>
+                                <div key={i} className="flex gap-3 mb-4 ml-2 items-start">
+                                  <span className="text-[#10B981] font-black min-w-[20px] text-[15px] sm:text-[16px] mt-0.5">{index}.</span>
+                                  <span className="text-gray-700 leading-relaxed font-semibold text-[15px] sm:text-[16px]">{renderMarkdownText(content)}</span>
                                 </div>
                               );
                             }
 
                             // Handle Paragraphs
                             return (
-                              <p key={i} className="mb-4 last:mb-0 text-gray-700">
+                              <p key={i} className="mb-6 last:mb-0 text-gray-700 leading-relaxed text-[15px] sm:text-[16px]">
                                 {renderMarkdownText(line)}
                               </p>
                             );
