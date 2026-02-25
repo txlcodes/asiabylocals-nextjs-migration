@@ -896,7 +896,7 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                                         onClick={() => window.location.href = `/${country.toLowerCase()}/${city.toLowerCase()}`}
                                         className="w-full sm:w-auto px-10 py-5 bg-[#10B981] text-white font-black rounded-full hover:bg-white hover:text-[#10B981] transition-all duration-300 flex items-center justify-center text-xl shadow-xl hover:shadow-[#10B981]/40 hover:-translate-y-1 hover:scale-[1.05] active:scale-[0.95] group/cta"
                                     >
-                                        Browse Agra Tours
+                                        Browse {slug === 'taj-mahal' ? 'Taj Mahal' : city} Tours
                                     </button>
                                 </div>
                             </div>
@@ -947,7 +947,7 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                                         onClick={() => window.location.href = `/${country.toLowerCase()}/${city.toLowerCase()}`}
                                         className="w-full py-4 bg-white text-[#10B981] font-black rounded-xl hover:bg-gray-50 transition-all text-[15px] shadow-lg hover:scale-[1.02] active:scale-[0.98] flex items-center justify-center"
                                     >
-                                        Browse Agra Tours
+                                        Browse {slug === 'taj-mahal' ? 'Taj Mahal' : city} Tours
                                     </button>
                                 </div>
                                 {/* Decorative glow */}
