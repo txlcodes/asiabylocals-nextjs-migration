@@ -4025,6 +4025,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                             const formatTime = (time: string) => {
                               if (!time) return '';
                               if (time.includes('AM') || time.includes('PM')) return time;
+                              if (!time.includes(':')) return time;
                               const [h, m] = time.split(':');
                               const hour = parseInt(h, 10);
                               const ampm = hour >= 12 ? 'PM' : 'AM';

@@ -657,6 +657,99 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                         "author": { "@type": "Organization", "name": "AsiaByLocals" }
                     }
                 };
+            case 'fatehpur-sikri':
+                return {
+                    title: "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
+                    description: "Explore the most authoritative guide to Fatehpur Sikri. Built by Emperor Akbar in 1571, this UNESCO World Heritage site is a masterpiece of Mughal architecture. Learn about its history, key structures like Buland Darwaza, and tactical travel advice for 2026.",
+                    heroImage: "/fatehpur-sikri-hero.jpg",
+                    fastFacts: [
+                        { icon: 'History', label: 'Era', value: '1571 - 1585 (Mughal)' },
+                        { icon: 'Award', label: 'UNESCO', value: 'Designated 1986' },
+                        { icon: 'Clock', label: 'Time Needed', value: '3 - 4 Hours' }
+                    ],
+                    sections: [
+                        {
+                            title: "Introduction: The Ghost City of an Emperor",
+                            content: "Fatehpur Sikri, often referred to as the 'Ghost City,' is one of the most remarkable archaeological and historical sites in India. Built in 1571 by the Great Mughal Emperor Akbar, it served as the capital of the Mughal Empire for a brief but brilliant period of fourteen years before being effectively abandoned. Located approximately 40 kilometers west of Agra, this UNESCO World Heritage Site (designated in 1986) stands as a perfectly preserved 16th-century Mughal city, crafted primarily from the signature red sandstone of the region.\n\nWhy does Fatehpur Sikri matter in the context of world history? Unlike many other historical cities that evolved organically over centuries, Fatehpur Sikri was a planned, purpose-built imperial capital. It represents the first planned city of the Mughals, embodying Akbar's personal vision of a unified India. The architecture here is not merely Islamic or Persian; it is a profound fusion of Hindu, Jain, and Islamic styles, mirroring the religious and cultural pluralism—Din-i-Ilahi—that Akbar championed. For the modern traveler, Fatehpur Sikri offers an intimate look into the administrative, residential, and spiritual life of the highest apex of the Mughal dynasty."
+                        },
+                        {
+                            title: "The Deep History: Why Akbar Built and Abandoned Sikri",
+                            image: "/fatehpur-sikri-panch-mahal.jpg",
+                            content: "The origin of Fatehpur Sikri is steeped in both political strategy and spiritual devotion. In the mid-16th century, Emperor Akbar was at the height of his power but faced a personal crisis: he had no male heir. Seeking a solution, he traveled to the village of Sikri to consult a famous Sufi saint, Sheikh Salim Chishti. The saint prophesied that Akbar would have three sons. When the first son (the future Emperor Jahangir) was born in 1569, Akbar was so moved by the miracle that he decided to build a grand new capital city at the site of the saint's residence.\n\n**The Construction Phase (1571–1573):**\nAkbar chose a ridge of red sandstone for his new city. The construction was remarkably rapid, using massive labor forces to carve a sophisticated array of palaces, mosques, and administrative buildings. The city was named 'Fatehpur' (City of Victory) to celebrate Akbar's successful military campaign in Gujarat. For over a decade, it was the intellectual and political heart of the empire, where scholars of different religions debated in the Ibadat Khana (House of Worship).\n\n**The Abandonment (1585):**\nBy 1585, the brilliant capital was largely deserted. The primary reason cited by historians is a severe water scarcity. The ridge lacked sustainable water sources for a growing imperial population, and the man-made lake created for the city proved insufficient. Additionally, military threats in the northwest necessitated Akbar’s presence in Lahore. While some servants remained, the imperial court never returned in its full capacity, leaving behind a 'ghost city' that would remain largely untouched by subsequent wars or urban sprawl, preserving its 16th-century soul for posterity."
+                        },
+                        {
+                            title: "Architecture & The Fusion of Styles",
+                            content: "Fatehpur Sikri is widely regarded by architects as one of the finest examples of Mughal architectural fusion. Before the delicate white marble of the Taj Mahal era, the Mughals favored the robust, earthy tones of red sandstone. \n\nAkbar, an emperor known for his policy of 'Sulh-i-Kul' (peace with all), reflected this in his buildings. You will notice that while the overall plans may be Islamic, the decorative elements—the ornate pillars, the stone brackets, the tiered pavilions—are heavily influenced by Hindu and Jain temple architecture from Gujarat and Rajasthan. This was not a mistake; it was a deliberate choice by Akbar to integrate the different cultural identities of his vast empire into a single, cohesive imperial style."
+                        },
+                        {
+                            title: "Key Structures: The Heart of the Complex",
+                            image: "/fatehpur-sikri-buland-darwaza.jpg",
+                            content: "The Fatehpur Sikri complex is divided into two main areas: the religious enclave (including the Jama Masjid) and the imperial palace complex.\n\n### 1. Buland Darwaza (The Great Gateway)\nStanding at a staggering 54 meters high, the Buland Darwaza is one of the tallest and most imposing gateways in the world. Built in 1601 to commemorate Akbar’s victory over Gujarat, it serves as the southern entrance to the Jama Masjid. The gateway is a masterpiece of proportions, featuring intricate carvings, Quranic inscriptions, and symbolic 'chhatris' (small domes) that break the skyline. It is said to have inspired the architecture of gateways throughout India for centuries.\n\n### 2. Panch Mahal (Five-Story Palace)\nAn extraordinary tiered structure that resembles a Buddhist temple or a tiered pagoda. It consists of five stories of decreasing size, supported by 176 intricately carved pillars. The ground floor alone has 84 pillars. This structure was designed for the royal ladies and the emperor to enjoy the evening breeze and the views of the surrounding lake—a perfect example of Mughal 'passive cooling' architecture.\n\n### 3. Diwan-i-Khas (Hall of Private Audience)\nWhile it appears as a simple two-story building from the outside, the interior of the Diwan-i-Khas is mind-blowing. In the center stands a massive, ornate pillar that branches out at the top into 36 stone brackets supporting a circular platform. Akbar would sit on this central platform, while his ministers sat on the peripheral walkways, discussing matters of state. It is an architectural metaphor for the emperor’s position as the 'cosmic axis' of his empire.\n\n### 4. Tomb of Salim Chishti\nIn stark contrast to the red sandstone of the rest of the city, this tomb is a delicate white marble masterpiece. It is one of the earliest examples of white marble architecture in India. The tomb is famous for its 'jali' (lattice) screens, which are so finely carved they look like lace. Even today, it remains an active site of pilgrimage where people of all faiths tie red threads to the screens, making a vow and seeking a blessing from the saint."
+                        },
+                        {
+                            title: "UNESCO Significance & Preservation",
+                            icon: "ShieldCheck",
+                            content: "Fatehpur Sikri was designated a UNESCO World Heritage Site in 1986. UNESCO recognizes it for its 'architectural influence' on the development of Indian town planning and its unique blend of regional architectural styles. \n\nToday, the Archaeological Survey of India (ASI) maintains the site with extreme care. Because it was abandoned and never re-occupied by a large population, the structures haven't suffered from the typical 'urban encroachment' seen at other monuments like the Red Fort in Delhi. When you walk through the Jodha Bai Palace or the Birbal's House, you are seeing the exact stone surfaces that Akbar and his court touched over 450 years ago."
+                        },
+                        {
+                            title: "2026 Visitor Strategy: Planning Your Trip",
+                            icon: "Navigation",
+                            content: "### How to Get There from Agra\nFatehpur Sikri is about 40 km from Agra city center. \n- **Private Taxi:** The best way to visit. A round-trip from Agra takes about 1 hour each way. \n- **Bus:** State-run buses leave from Idgah Bus Stand, but they can be slow and crowded. \n- **Tour:** Many choose a [Taj Mahal & Fatehpur Sikri Full Day Tour](/india/agra/taj-mahal-fatehpur-full-day-tour) which handles all logistics and provides a historian guide.\n\n### Ticket Price 2026\n- **Foreigners:** ₹610 (approx. $7.50 USD)\n- **Indians:** ₹50\n- **SAARC/BIMSTEC:** ₹50\n*Note: Tickets are digital. Scan the QR code at the gate or pre-book online. Cash is not accepted at the windows.*\n\n### Opening Times\nSun-up to Sun-down. We recommend arriving at 8:00 AM. Unlike the Taj Mahal, Fatehpur Sikri is **OPEN ON FRIDAYS**. This makes it the perfect alternative when planning your [Agra Travel Guide](/india/agra/agra-travel-guide-2026) schedule.\n\n### Recommended Time\nYou need at least 3 to 4 hours to see both the Palace Complex and the Mosque (Buland Darwaza) area properly. Do not rush this site. If you are on a tight [1-Day Agra Itinerary](/india/agra/1-day-agra-itinerary), ensure you leave Agra by 1:00 PM at the latest."
+                        },
+                        {
+                            title: "Is Fatehpur Sikri Worth Visiting?",
+                            content: "This is a common question for travelers deciding between various [things to do in Agra](/india/agra/things-to-do-in-agra). \n\n**Visit if:** \n- You love history and want to see a perfectly preserved 16th-century city. \n- You have more than one day in Agra. \n- You are interested in the 'real' Akbar beyond the legends. \n- You want to escape the claustrophobic city streets for a grander, open-air experience.\n\n**Skip if:** \n- You only have 4 hours in total in Agra (stick to our [Taj Mahal Guide](/india/agra/taj-mahal) instead). \n- You are physically exhausted (there is a LOT of walking involved here).\n\n**Conclusion:** For any serious global traveler, Fatehpur Sikri is an absolute 'Yes.' It provides the political and historical backbone to the 'Emotional' architecture of the Taj Mahal. To see the Taj without Fatehpur Sikri is to see the Taj in a vacuum."
+                        },
+                        {
+                            title: "The Comparison: Agra's Big Three",
+                            table: {
+                                headers: ["Feature", "Taj Mahal", "Agra Fort", "Fatehpur Sikri"],
+                                rows: [
+                                    ["Primary Theme", "Eternal Love / Grief", "Military / Imperial Power", "Administrative / Spiritual"],
+                                    ["Main Material", "White Makrana Marble", "Red Sandstone", "Red Sandstone"],
+                                    ["Crowd Level", "Very High", "High", "Medium"],
+                                    ["Friday Status", "CLOSED", "Open", "Open"],
+                                    ["Best Time", "Sunrise", "Mid-Morning", "Early Morning / Late Afternoon"],
+                                    ["Photography", "Masterpiece Portraits", "Architectural Layers", "Grand Vistas / Details"]
+                                ]
+                            },
+                            content: "Choosing between these three UNESCO sites depends on your historical interest. While the Taj Mahal is an emotional experience, Fatehpur Sikri offers the most complete look at how a Mughal city actually functioned at its zenith."
+                        },
+                        {
+                            title: "The Guide Imperative: Navigating the 'Ghost City'",
+                            isCTA: true,
+                            icon: "User",
+                            content: "Because Fatehpur Sikri's buildings are spread across a wide plateau and their functions are so specific (from the treasury to the royal harems), visiting without a guide can lead to 'monument fatigue' and confusion. A licensed historian explains the acoustic miracles of the halls and the political symbolism behind every structure.\n\nFor a seamless experience with historical continuity, our [Taj Mahal & Fatehpur Sikri Full Day Tour](/india/agra/taj-mahal-fatehpur-full-day-tour) is the gold standard for travelers wanting to cover both masterpieces in a single, high-authority day.",
+                            buttonText: "See The Full Day Itinerary",
+                            buttonLink: "/india/agra/taj-mahal-fatehpur-full-day-tour"
+                        }
+                    ],
+                    faqs: [
+                        { q: "Is Fatehpur Sikri open on Friday?", a: "Yes, unlike the Taj Mahal which is closed every Friday, Fatehpur Sikri remains open to the public daily from sunrise to sunset." },
+                        { q: "Can I do Taj Mahal and Fatehpur Sikri in one day?", a: "Yes, it is a common 1-day circuit. We recommend visiting the Taj Mahal at sunrise, then Agra Fort, and finishing with Fatehpur Sikri in the afternoon." },
+                        { q: "How far is Fatehpur Sikri from Agra?", a: "It is approximately 37 to 40 kilometers from the Agra city center, typically taking 60-90 minutes by road." },
+                        { q: "Why was Fatehpur Sikri abandoned?", a: "The city was abandoned primarily due to terminal water shortages and political shifts that required Emperor Akbar to move his capital to Lahore." },
+                        { q: "How much is the entry fee for Fatehpur Sikri in 2026?", a: "The entry fee for foreign tourists is ₹610, while Indian citizens and SAARC/BIMSTEC visitors pay ₹50." },
+                        { q: "Are guides available at Fatehpur Sikri?", a: "Yes, licensed ASI guides are available at the entrance. We strongly recommend hiring one to understand the complex history of the city." },
+                        { q: "Is there a lot of walking at Fatehpur Sikri?", a: "Yes, the complex is sprawling. Wear comfortable walking shoes and be prepared for several hours of exploration on foot." },
+                        { q: "Can I take my car up to the monument?", a: "No, private vehicles must be parked at a designated parking lot about 1km away. From there, you must take a government shuttle bus or an electric rickshaw." },
+                        { q: "Is Fatehpur Sikri safe for solo travelers?", a: "Yes, it is generally very safe. However, like all major tourist sites in India, be prepared for persistent touts and souvenir sellers near the entrance." },
+                        { q: "What is the best time to visit Fatehpur Sikri?", a: "The best months are October to March. During the day, early morning or late afternoon provides the best light and cooler temperatures." },
+                        { q: "Is Fatehpur Sikri a UNESCO World Heritage Site?", a: "Yes, it was designated a UNESCO World Heritage Site in 1986 for its unique Mughal architectural fusion." },
+                        { q: "Can I visit the Dargah of Salim Chishti?", a: "Yes, the Tomb of Salim Chishti is located within the Jama Masjid complex and is open to all visitors. Please remember to remove your shoes." },
+                        { q: "Is there a dress code for Fatehpur Sikri?", a: "While there is no strict code for the palace complex, modest dress is required when entering the Jama Masjid and the Tomb of Salim Chishti (shoulders and knees covered)." },
+                        { q: "Are there restrooms and lockers at Fatehpur Sikri?", a: "Basic restrooms are available near the ticketing area. There are no major locker facilities, so avoid carrying heavy luggage." },
+                        { q: "Can I fly a drone at Fatehpur Sikri?", a: "No, drones are strictly prohibited at all ASI monuments in India without prior written permission from the authorities." },
+                        { q: "Is Fatehpur Sikri better than Agra Fort?", a: "They offer different experiences. Agra Fort is a military stronghold, while Fatehpur Sikri is a completely preserved, planned imperial city. Both are essential." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
+                        "description": "Comprehensive guide to Fatehpur Sikri, including history, architecture, and 2026 travel tips.",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
 
             default:
                 return null;
@@ -857,6 +950,15 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                                         <div className="text-[17px] md:text-[18px] text-gray-700 leading-[1.6] font-medium space-y-6">
                                             {section.content.split('\n').map((para: string, pIdx: number) => {
                                                 if (!para.trim()) return null;
+
+                                                // Handle H3 Headings
+                                                if (para.startsWith('### ')) {
+                                                    return (
+                                                        <h3 key={pIdx} className="text-[22px] md:text-[24px] font-black text-[#001A33] mt-10 mb-4 first:mt-0">
+                                                            {para.replace('### ', '')}
+                                                        </h3>
+                                                    );
+                                                }
 
                                                 // Handle bolding: **text** and links: [text](url)
                                                 const parts = para.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g);

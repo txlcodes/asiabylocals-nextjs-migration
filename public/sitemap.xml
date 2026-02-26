@@ -117,6 +117,18 @@
     </image:image>
   </url>
 
+  <!-- Agra Authority: fatehpur-sikri -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/agra/fatehpur-sikri</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.asiabylocals.com/fatehpur-sikri-hero.jpg</image:loc>
+      <image:title>Buland Darwaza entrance at Fatehpur Sikri UNESCO World Heritage Site</image:title>
+    </image:image>
+  </url>
+
   <!-- Layer 3: Jaipur, India -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur</loc>

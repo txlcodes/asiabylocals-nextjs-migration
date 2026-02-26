@@ -41,7 +41,8 @@ const AGRA_INFO_SLUGS = [
   'is-taj-mahal-closed-on-friday',
   'agra-travel-guide-2026',
   'taj-mahal',
-  'agra-fort'
+  'agra-fort',
+  'fatehpur-sikri'
 ];
 import BookingConfirmation from './BookingConfirmation';
 import PaymentCallback from './PaymentCallback';
@@ -64,8 +65,7 @@ interface ErrorBoundaryState {
 
 // Error Boundary Component
 class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundaryState> {
-  public state: ErrorBoundaryState = { hasError: false, error: null };
-  public props: ErrorBoundaryProps;
+  state: ErrorBoundaryState = { hasError: false, error: null };
 
   static getDerivedStateFromError(error: Error) {
     return { hasError: true, error };
@@ -252,6 +252,8 @@ const ExplorationFooter: React.FC = () => {
                 href = "/india/agra/taj-mahal";
               } else if (item.name.includes('Agra Fort')) {
                 href = "/india/agra/agra-fort";
+              } else if (item.name.includes('Fatehpur Sikri')) {
+                href = "/india/agra/fatehpur-sikri";
               }
             }
 
