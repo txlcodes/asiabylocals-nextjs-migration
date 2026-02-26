@@ -1831,6 +1831,23 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
     return 0;
   });
 
+  // Strip markdown syntax from text for clean JSON-LD output
+  const stripMd = (text: string): string =>
+    text
+      .replace(/\*\*(.+?)\*\*/g, '$1')
+      .replace(/\*(.+?)\*/g, '$1')
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .replace(/`(.+?)`/g, '$1')
+      .replace(/#{1,6}\s+/g, '')
+      .trim();
+
+  // Dynamic dateModified — today's date so Google knows content is fresh
+  const todayISO = new Date().toISOString().split('T')[0];
+
+  // First approved tour image for og:image / twitter:image fallback
+  const cityOgImage = tours.find(t => t.images?.[0])?.images?.[0] || 'https://www.asiabylocals.com/logo.png';
+  const cityPageUrl = `https://www.asiabylocals.com/${countrySlug}/${citySlug}`;
+
   // SEO Structured Data (JSON-LD)
   const structuredData = {
     "@context": "https://schema.org",
@@ -1839,10 +1856,10 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
         "@type": "WebPage",
         "name": cityInfo.title,
         "description": cityInfo.description,
-        "url": `https://www.asiabylocals.com/${countrySlug}/${citySlug}`,
+        "url": cityPageUrl,
         "inLanguage": "en",
         "datePublished": "2025-01-01",
-        "dateModified": "2026-02-25",
+        "dateModified": todayISO,
         "isPartOf": {
           "@type": "WebSite",
           "name": "AsiaByLocals",
@@ -1874,8 +1891,8 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
         "@type": "TravelAgency",
         "name": `AsiaByLocals - ${city} Tours`,
         "description": cityInfo.description,
-        "url": `https://www.asiabylocals.com/${countrySlug}/${citySlug}`,
-        "image": tours[0]?.image || "",
+        "url": cityPageUrl,
+        "image": cityOgImage,
         "address": {
           "@type": "PostalAddress",
           "addressLocality": city,
@@ -1891,49 +1908,70 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
         }
       },
       {
+        "@type": "TourOperator",
+        "name": "AsiaByLocals",
+        "url": "https://www.asiabylocals.com",
+        "description": `Discover expert-led tours in ${city} with licensed local guides. Book authentic, small-group experiences with AsiaByLocals.`,
+        "logo": "https://www.asiabylocals.com/logo.png",
+        "areaServed": {
+          "@type": "City",
+          "name": city,
+          "containedIn": { "@type": "Country", "name": country }
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": `${city} Tours & Experiences`,
+          "itemListElement": tours.slice(0, 10).map((tour, idx) => ({
+            "@type": "Offer",
+            "position": idx + 1,
+            "itemOffered": {
+              "@type": "TouristTrip",
+              "name": tour.title,
+              "url": `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${tour.slug || `tour-${tour.id}`}`
+            }
+          }))
+        }
+      },
+      {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.asiabylocals.com"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": country,
-            "item": `https://www.asiabylocals.com/${countrySlug}`
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": city,
-            "item": `https://www.asiabylocals.com/${countrySlug}/${citySlug}`
-          }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.asiabylocals.com" },
+          { "@type": "ListItem", "position": 2, "name": country, "item": `https://www.asiabylocals.com/${countrySlug}` },
+          { "@type": "ListItem", "position": 3, "name": city, "item": cityPageUrl }
         ]
       },
       {
         "@type": "FAQPage",
         "mainEntity": cityInfo.faqs.map(faq => ({
           "@type": "Question",
-          "name": faq.question,
+          "name": stripMd(faq.question),
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": faq.answer
+            "text": stripMd(faq.answer)
           }
         }))
       },
+      // ItemList — enables tour list rich results in Google SERPs
+      ...(tours.length > 0 ? [{
+        "@type": "ItemList",
+        "name": `Best Tours in ${city}`,
+        "description": `Top-rated guided tours in ${city} by licensed local experts`,
+        "url": cityPageUrl,
+        "numberOfItems": tours.length,
+        "itemListElement": tours.map((tour, idx) => ({
+          "@type": "ListItem",
+          "position": idx + 1,
+          "url": `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${tour.slug || `tour-${tour.id}`}`,
+          "name": tour.title
+        }))
+      }] : []),
       ...tours.map(tour => ({
         "@type": "Product",
         "name": tour.title,
         "description": tour.shortDescription || tour.fullDescription,
         "image": tour.images?.[0] || "",
         "url": `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${tour.slug || `tour-${tour.id}`}`,
-        "brand": {
-          "@type": "Brand",
-          "name": "AsiaByLocals"
-        },
+        "brand": { "@type": "Brand", "name": "AsiaByLocals" },
         "offers": {
           "@type": "Offer",
           "price": tour.pricePerPerson,
@@ -1957,11 +1995,22 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
         )}
         <meta name="language" content="en" />
         <meta name="keywords" content={`${city} tours, ${city} experiences, ${country} tours, local guides ${city}, ${city} travel guide, things to do in ${city}, ${city} activities`} />
-        <link rel="canonical" href={`https://www.asiabylocals.com/${countrySlug}/${citySlug}`} />
+        <link rel="canonical" href={cityPageUrl} />
+        {/* Open Graph */}
         <meta property="og:title" content={cityInfo.title} />
         <meta property="og:description" content={cityInfo.description} />
-        <meta property="og:url" content={`https://www.asiabylocals.com/${countrySlug}/${citySlug}`} />
+        <meta property="og:url" content={cityPageUrl} />
         <meta property="og:type" content="website" />
+        <meta property="og:image" content={cityOgImage} />
+        <meta property="og:image:alt" content={`${city} Tours — AsiaByLocals`} />
+        <meta property="og:site_name" content="AsiaByLocals" />
+        <meta property="og:locale" content="en_US" />
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={cityInfo.title} />
+        <meta name="twitter:description" content={cityInfo.description} />
+        <meta name="twitter:image" content={cityOgImage} />
+        <meta name="twitter:site" content="@asiabylocals" />
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}
         </script>

@@ -792,6 +792,23 @@ const CityInfoPage: React.FC<CityInfoPageProps> = ({ country, city, slug }) => {
                 {!['Agra', 'Delhi', 'Jaipur'].includes(city) && (
                     <meta name="robots" content="noindex, follow" />
                 )}
+                {/* Canonical */}
+                <link rel="canonical" href={`https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`} />
+                {/* Open Graph */}
+                <meta property="og:title" content={`${data.title} | AsiaByLocals Official Guide`} />
+                <meta property="og:description" content={data.description} />
+                <meta property="og:url" content={`https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`} />
+                <meta property="og:type" content="article" />
+                <meta property="og:image" content={data.heroImage || 'https://www.asiabylocals.com/logo.png'} />
+                <meta property="og:image:alt" content={data.title} />
+                <meta property="og:site_name" content="AsiaByLocals" />
+                <meta property="og:locale" content="en_US" />
+                {/* Twitter Card */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:title" content={`${data.title} | AsiaByLocals`} />
+                <meta name="twitter:description" content={data.description} />
+                <meta name="twitter:image" content={data.heroImage || 'https://www.asiabylocals.com/logo.png'} />
+                <meta name="twitter:site" content="@asiabylocals" />
                 {data.jsonLd && (
                     <script type="application/ld+json">
                         {JSON.stringify(data.jsonLd)}

@@ -3434,10 +3434,21 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
         {/* Dynamic Canonical Link for SEO */}
         <link rel="canonical" href={`https://www.asiabylocals.com/${country?.toLowerCase().replace(/\s+/g, '-')}/${city?.toLowerCase().replace(/\s+/g, '-')}/${tour?.slug}`} />
         <meta name="language" content="en" />
+        {/* Open Graph */}
         <meta property="og:title" content={tour?.title} />
         <meta property="og:description" content={tour?.shortDescription} />
         <meta property="og:url" content={`https://www.asiabylocals.com/${country?.toLowerCase().replace(/\s+/g, '-')}/${city?.toLowerCase().replace(/\s+/g, '-')}/${tour?.slug}`} />
+        <meta property="og:type" content="product" />
+        <meta property="og:site_name" content="AsiaByLocals" />
+        <meta property="og:locale" content="en_US" />
         {tour?.images?.[0] && <meta property="og:image" content={tour.images[0]} />}
+        {tour?.images?.[0] && <meta property="og:image:alt" content={tour?.title} />}
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={tour?.title} />
+        <meta name="twitter:description" content={tour?.shortDescription} />
+        {tour?.images?.[0] && <meta name="twitter:image" content={tour.images[0]} />}
+        <meta name="twitter:site" content="@asiabylocals" />
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}
         </script>
