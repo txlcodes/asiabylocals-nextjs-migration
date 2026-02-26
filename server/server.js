@@ -11,6 +11,59 @@ import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, 
 import { uploadMultipleImages } from './utils/cloudinary.js';
 import { generateInvoicePDF } from './utils/invoice.js';
 import { generateSitemap } from './generate-sitemap.js';
+import { GoogleAuth } from 'google-auth-library';
+
+// ==================== GOOGLE INDEXING API ====================
+// Automatically notifies Google to crawl/index a URL immediately after tour approval
+const notifyGoogleIndexing = async (url) => {
+  try {
+    const email = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
+    const rawKey = process.env.GOOGLE_PRIVATE_KEY;
+
+    if (!email || !rawKey) {
+      console.log('⚠️  Google Indexing API: credentials not set, skipping');
+      return;
+    }
+
+    // Fix escaped newlines from .env file
+    const privateKey = rawKey.replace(/\\n/g, '\n');
+
+    const auth = new GoogleAuth({
+      credentials: {
+        client_email: email,
+        private_key: privateKey,
+      },
+      scopes: ['https://www.googleapis.com/auth/indexing'],
+    });
+
+    const client = await auth.getClient();
+    const accessToken = await client.getAccessToken();
+
+    const response = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${accessToken.token}`,
+      },
+      body: JSON.stringify({
+        url: url,
+        type: 'URL_UPDATED',
+      }),
+    });
+
+    const result = await response.json();
+
+    if (response.ok) {
+      console.log(`✅ Google Indexing API: URL submitted successfully`);
+      console.log(`   URL: ${url}`);
+      console.log(`   Response:`, result);
+    } else {
+      console.error(`❌ Google Indexing API error:`, result);
+    }
+  } catch (err) {
+    console.error('❌ Google Indexing API failed (non-critical):', err.message);
+  }
+};
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -6626,11 +6679,18 @@ app.post('/api/admin/tours/:id/approve', verifyAdmin, async (req, res) => {
 
     // Regenerate sitemap after tour approval (non-blocking)
     // This ensures new tours are automatically added to sitemap for Google indexing
+    const tourUrl = `https://www.asiabylocals.com/${updatedTour.country.toLowerCase()}/${updatedTour.city.toLowerCase()}/${updatedTour.slug}`;
     generateSitemap().then(() => {
       console.log('✅ Sitemap successfully regenerated - new tour will be indexed by Google');
-      console.log(`   Tour URL: https://www.asiabylocals.com/${updatedTour.country.toLowerCase()}/${updatedTour.city.toLowerCase()}/${updatedTour.slug}`);
+      console.log(`   Tour URL: ${tourUrl}`);
       console.log(`   Sitemap URL: https://www.asiabylocals.com/sitemap.xml`);
-      console.log(`   💡 Next step: Submit sitemap to Google Search Console or request indexing for this URL`);
+
+      // Ping Google Indexing API immediately after sitemap is updated (non-blocking)
+      notifyGoogleIndexing(tourUrl).then(() => {
+        console.log('✅ Google Indexing API notification sent - tour will be crawled within minutes');
+      }).catch(indexErr => {
+        console.error('⚠️ Google Indexing API notification failed (non-critical):', indexErr.message);
+      });
     }).catch(sitemapError => {
       console.error('⚠️ Sitemap regeneration failed (non-critical):', sitemapError.message);
       console.error('   This tour will still be approved, but sitemap needs manual update');
