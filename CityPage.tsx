@@ -157,8 +157,7 @@ const CITY_DESCRIPTIONS: Record<string, {
     title: 'Delhi Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover the best tours in Delhi with licensed local guides. Red Fort tours, Old Delhi heritage walks, street food tours & cultural experiences.',
     intro: [
-      'Delhi, India\'s capital, is a vibrant blend of ancient history and modern energy. From the historic **Red Fort** and **Jama Masjid** to the bustling markets of [Old Delhi](/india/delhi) and the modern architecture of New Delhi, the city offers endless exploration opportunities.',
-      'At AsiaByLocals, explore the capital through expert-led [tours in Delhi](/india/delhi) with licensed local guides. Discover authentic street food, hidden neighborhoods, and the real stories that make Delhi special. Experience the contrast between the narrow lanes and wide boulevards with knowledgeable local experts.'
+      '**Book official tour guide for Delhi tours** with AsiaByLocals to unlock the secrets of North India\'s heritage-rich capital in 2026. Whether you are seeking a comprehensive **Delhi guided tour** through the Mughal architecture of **Old Delhi** or a specialized **New Delhi tours** experience, our licensed **local guide for Delhi** ensures 100% authentic exploration. Our [sightseeing tours Delhi](/india/delhi) offer priority access to the majestic **Red Fort**, the sprawling **Jama Masjid**, and the architectural masterpiece of **Humayun\'s Tomb**, providing a deep historical payload you won\'t find in any guidebook.'
     ],
     whyBook: [
       'Licensed & experienced local experts',

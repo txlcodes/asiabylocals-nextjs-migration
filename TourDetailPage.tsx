@@ -2114,6 +2114,19 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
   const [expandedOptions, setExpandedOptions] = useState<Set<number>>(new Set());
   const [expandedFAQs, setExpandedFAQs] = useState<Set<number>>(new Set([0, 1, 2])); // First 3 open by default
 
+  const effectiveMaxGroupSize = Number(selectedOption?.maxGroupSize || tour?.maxGroupSize || 10);
+
+  // Re-validate participants if maxGroupSize changes (e.g. when changing options)
+  useEffect(() => {
+    if (tour && participants > effectiveMaxGroupSize) {
+      setParticipants(effectiveMaxGroupSize);
+      if (isCustomParticipants && effectiveMaxGroupSize <= 10) {
+        setIsCustomParticipants(false);
+      }
+    }
+  }, [effectiveMaxGroupSize, tour]);
+
+
 
   const toggleOptionExpand = (optionId: number) => {
     setExpandedOptions(prev => {
@@ -4972,10 +4985,12 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           }}
                           className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
                         >
-                          {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => (
+                          {Array.from({ length: Math.min(effectiveMaxGroupSize, 10) }, (_, i) => i + 1).map(num => (
                             <option key={num} value={num}>Adult x {num}</option>
                           ))}
-                          <option value="custom">Custom</option>
+                          {effectiveMaxGroupSize > 10 && (
+                            <option value="custom">Custom</option>
+                          )}
                         </select>
                         <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
                       </div>
@@ -4986,19 +5001,34 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           <input
                             type="number"
                             min="11"
-                            max="100"
+                            max={effectiveMaxGroupSize}
                             value={customParticipants}
                             onChange={(e) => {
-                              const value = parseInt(e.target.value) || 11;
+                              const val = parseInt(e.target.value);
+                              const value = isNaN(val) ? 11 : Math.min(val, effectiveMaxGroupSize);
                               setCustomParticipants(value);
                               setParticipants(value);
                             }}
                             className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none"
-                            placeholder="Enter number of adults"
+                            placeholder={`Enter adults (max ${effectiveMaxGroupSize})`}
                           />
                           <Users className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
                         </div>
                       )}
+
+                      {/* Contact Support for custom/larger groups */}
+                      <div className="mt-2 text-[12px] font-semibold text-gray-500 bg-gray-50 p-3 rounded-xl border border-gray-100 italic">
+                        Need a custom booking or have a larger group?
+                        <a
+                          href="https://wa.me/918449538716"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-[#10B981] ml-1 hover:underline flex items-center gap-1 mt-1 font-black"
+                        >
+                          Contact Support via WhatsApp
+                        </a>
+                      </div>
+
 
                       {tour.languages && tour.languages.length > 0 && (
                         <div className="relative">
