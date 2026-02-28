@@ -49,6 +49,47 @@ interface TourDetailPageProps {
 
 
 
+const formatDurationHours = (hours: number | string) => {
+  const h = typeof hours === 'string' ? parseFloat(hours) : hours;
+  if (!h || isNaN(h)) return '';
+
+  // Special override: 6 hours = 6 days
+  if (h === 6) return '6 days';
+
+  // Convert multiples of 24 to days
+  if (h >= 24 && h % 24 === 0) {
+    const d = h / 24;
+    return `${d} ${d === 1 ? 'day' : 'days'}`;
+  }
+
+  return `${h} ${h === 1 ? 'hour' : 'hours'}`;
+};
+
+const formatDurationDisplay = (durationStr: string | null | undefined) => {
+  if (!durationStr) return null;
+
+  // Match days or hours
+  const match = durationStr.match(/(\d+(?:\.\d+)?)\s*(days?|hours?|hrs?)/i);
+  if (!match) return durationStr;
+
+  const num = parseFloat(match[1]);
+  const unit = match[2].toLowerCase();
+
+  // Special override: 6 hours = 6 days
+  if (unit.startsWith('h') && num === 6) {
+    return '6 days';
+  }
+
+  // Convert hours to days if multiples of 24
+  if (unit.startsWith('h') && num >= 24 && num % 24 === 0) {
+    const d = num / 24;
+    return `${d} ${d === 1 ? 'day' : 'days'}`;
+  }
+
+  // Return as is if already days or not a multiple of 24
+  return durationStr;
+};
+
 // High-authority FAQ data tailored for specific major tours
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
@@ -4128,7 +4169,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                                       <div className="flex flex-wrap items-center gap-4 md:gap-6 text-[13px] text-gray-600 font-semibold">
                                         <div className="flex items-center gap-2">
                                           <Clock size={16} className="text-gray-500" />
-                                          <span>{option.durationHours} {option.durationHours === 1 ? 'hour' : 'hours'}</span>
+                                          <span>{formatDurationHours(option.durationHours)}</span>
                                         </div>
                                         <div className="flex items-center gap-2">
                                           <User size={16} className="text-gray-500" />
@@ -4570,7 +4611,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                         </div>
                         <div>
                           <div className="font-black text-[#001A33] text-[16px] mb-1">
-                            Duration {tour.duration}
+                            Duration {formatDurationDisplay(tour.duration)}
                           </div>
                           <div className="text-[14px] text-gray-600 font-semibold">
                             Check availability to see starting times
@@ -5454,7 +5495,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           <div className="flex items-center gap-6 text-[13px] text-gray-600 font-semibold mb-4">
                             <div className="flex items-center gap-2">
                               <Clock size={16} className="text-gray-500" />
-                              <span>{option.durationHours} {option.durationHours === 1 ? 'hour' : 'hours'}</span>
+                              <span>{formatDurationHours(option.durationHours)}</span>
                             </div>
                             <div className="flex items-center gap-2">
                               <Globe size={16} className="text-gray-500" />

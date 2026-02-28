@@ -84,6 +84,31 @@ const TAX_ID_TYPES: Record<string, string[]> = {
 };
 
 
+const formatDurationDisplay = (durationStr: string | null | undefined) => {
+  if (!durationStr) return null;
+
+  // Match days or hours
+  const match = durationStr.match(/(\d+(?:\.\d+)?)\s*(days?|hours?|hrs?)/i);
+  if (!match) return durationStr;
+
+  const num = parseFloat(match[1]);
+  const unit = match[2].toLowerCase();
+
+  // Special override: 6 hours = 6 days
+  if (unit.startsWith('h') && num === 6) {
+    return '6 days';
+  }
+
+  // Convert hours to days if multiples of 24
+  if (unit.startsWith('h') && num >= 24 && num % 24 === 0) {
+    const d = num / 24;
+    return `${d} ${d === 1 ? 'day' : 'days'}`;
+  }
+
+  // Return as is if already days or not a multiple of 24
+  return durationStr;
+};
+
 // Payment Details Display Component
 const PaymentDetailsDisplay: React.FC<{ paymentDetails: any }> = ({ paymentDetails }) => {
   const getPaymentMethodIcon = (method: string) => {
@@ -2094,7 +2119,7 @@ const SupplierDashboard: React.FC<SupplierDashboardProps> = ({ supplier, onLogou
                               return `Starting from ${tour.currency === 'INR' ? '₹' : '$'}${startingPrice.toLocaleString()}`;
                             })()}
                           </span>
-                          <span className="text-gray-500 font-semibold">{tour.duration}</span>
+                          <span className="text-gray-500 font-semibold">{formatDurationDisplay(tour.duration)}</span>
                         </div>
                         <div className="flex items-center gap-2">
                           {(tour.status === 'draft' || tour.status === 'pending' || tour.status === 'approved') && (

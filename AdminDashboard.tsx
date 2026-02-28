@@ -463,6 +463,31 @@ const AdminDashboard: React.FC = () => {
     return <AdminLogin onLoginSuccess={() => setIsAuthenticated(true)} />;
   }
 
+  const formatDurationDisplay = (durationStr: string | null | undefined) => {
+    if (!durationStr) return null;
+
+    // Match days or hours
+    const match = durationStr.match(/(\d+(?:\.\d+)?)\s*(days?|hours?|hrs?)/i);
+    if (!match) return durationStr;
+
+    const num = parseFloat(match[1]);
+    const unit = match[2].toLowerCase();
+
+    // Special override: 6 hours = 6 days
+    if (unit.startsWith('h') && num === 6) {
+      return '6 days';
+    }
+
+    // Convert hours to days if multiples of 24
+    if (unit.startsWith('h') && num >= 24 && num % 24 === 0) {
+      const d = num / 24;
+      return `${d} ${d === 1 ? 'day' : 'days'}`;
+    }
+
+    // Return as is if already days or not a multiple of 24
+    return durationStr;
+  };
+
   // Custom notification helper to replace native alerts
   const showNotification = (message: string, type: 'success' | 'error' = 'success') => {
     const notification = document.createElement('div');
@@ -1495,7 +1520,7 @@ const AdminDashboard: React.FC = () => {
                         </div>
                         <div>
                           <div className="text-[11px] font-bold text-gray-500 uppercase mb-1">Duration</div>
-                          <div className="text-[14px] font-bold text-[#001A33]">{selectedTour.duration}</div>
+                          <div className="text-[14px] font-bold text-[#001A33]">{formatDurationDisplay(selectedTour.duration)}</div>
                         </div>
                         {selectedTour.locations && selectedTour.locations.length > 0 && (
                           <div>

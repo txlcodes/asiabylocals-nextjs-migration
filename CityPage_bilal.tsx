@@ -974,6 +974,31 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
   );
 };
 
+const formatDurationDisplay = (durationStr: string | null | undefined) => {
+  if (!durationStr) return null;
+
+  // Match days or hours
+  const match = durationStr.match(/(\d+(?:\.\d+)?)\s*(days?|hours?|hrs?)/i);
+  if (!match) return durationStr;
+
+  const num = parseFloat(match[1]);
+  const unit = match[2].toLowerCase();
+
+  // Special override: 6 hours = 6 days
+  if (unit.startsWith('h') && num === 6) {
+    return '6 days';
+  }
+
+  // Convert hours to days if multiples of 24
+  if (unit.startsWith('h') && num >= 24 && num % 24 === 0) {
+    const d = num / 24;
+    return `${d} ${d === 1 ? 'day' : 'days'}`;
+  }
+
+  // Return as is if already days or not a multiple of 24
+  return durationStr;
+};
+
 const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
   const [tours, setTours] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -1464,9 +1489,9 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
                       </h3>
 
                       {/* Duration */}
-                      {durationHours && (
+                      {tour.duration && (
                         <div className="text-[12px] text-gray-500 font-semibold mb-3">
-                          {durationHours} {durationHours === '1' ? 'hour' : 'hours'}
+                          {formatDurationDisplay(tour.duration)}
                         </div>
                       )}
 
