@@ -830,7 +830,7 @@ ${a(9)}`;
             maxGroupSize: cleanOpt.maxGroupSize && cleanOpt.maxGroupSize >= 1 ? cleanOpt.maxGroupSize : null,
             groupPrice: null,
             groupPricingTiers: null,
-            sortOrder: idx
+            sortOrder: idx + 1
           };
         })
       };
@@ -1110,7 +1110,7 @@ ${a(9)}`;
               : null,
             // CRITICAL: Always include groupPricingTiers - either option's own or inherited from main tour
             groupPricingTiers: finalHasGroupPricingTiers ? JSON.stringify(optionGroupPricingTiers) : (formData.groupPricingTiers && formData.groupPricingTiers.length > 0 ? JSON.stringify(formData.groupPricingTiers) : null),
-            sortOrder: idx
+            sortOrder: idx + 1  // Start at 1; sortOrder -1 = system, 0 = legacy ghost zone
           };
 
           // CRITICAL: Final check - ensure pricingType is NOT in return object
@@ -3062,7 +3062,7 @@ ${a(9)}`;
             ) : (
               <div className="space-y-4">
                 {formData.tourOptions.map((option, index) => (
-                  <div key={index} className="border-2 border-gray-200 rounded-2xl p-6">
+                  <div key={index} id={`option-card-${index}`} className="border-2 border-gray-200 rounded-2xl p-6">
                     <div className="flex items-center justify-between mb-4">
                       <h3 className="font-black text-[#001A33] text-[16px]">
                         Option {index + 1}
@@ -4105,6 +4105,21 @@ ${a(9)}`;
                     if (wordCount < 500) {
                       setShowDetailedItineraryError(true);
                       document.getElementById('detailed-itinerary-section')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                      return;
+                    }
+                  }
+                  if (step === 7) {
+                    const incompleteIdx = formData.tourOptions.findIndex((opt: any) => {
+                      if (!opt.optionTitle?.trim() || !opt.optionDescription?.trim() || !opt.durationHours) return true;
+                      if (!opt.maxGroupSize || opt.maxGroupSize < 1) return true;
+                      if (!opt.groupPricingTiers || opt.groupPricingTiers.length === 0) return true;
+                      const hasPriceForMin = opt.groupPricingTiers.some((tier: any) => tier.minPeople === 1 && tier.price && tier.price.trim() !== '');
+                      if (!hasPriceForMin) return true;
+                      return false;
+                    });
+                    if (incompleteIdx !== -1) {
+                      setEditingOptionIndex(incompleteIdx);
+                      document.getElementById(`option-card-${incompleteIdx}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
                       return;
                     }
                   }
