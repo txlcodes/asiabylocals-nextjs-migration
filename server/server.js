@@ -7871,7 +7871,7 @@ app.post('/api/bookings', async (req, res) => {
       const whatsappMessage = encodeURIComponent(
         `Hello! I have a new booking for ${tourDetails?.title || 'your tour'}.\n\n` +
         `Customer: ${customerName}\n` +
-        `Date: ${new Date(bookingDate).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}\n` +
+        `Date: ${(() => { const [y,m,d] = bookingDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }); })()}\n` +
         `Guests: ${numberOfGuests}\n` +
         `Total: ${currency || 'INR'} ${totalAmount}\n` +
         `${customerPhone ? `Customer Phone: ${customerPhone}\n` : ''}` +

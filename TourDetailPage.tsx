@@ -4985,7 +4985,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           onClick={() => setShowCalendarModal(true)}
                           className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none text-left flex items-center justify-between hover:border-[#10B981] transition-colors"
                         >
-                          <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }) : 'Select date'}</span>
+                          <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? (() => { const [y,m,d] = selectedDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }); })() : 'Select date'}</span>
                           <Calendar className="text-gray-400 shrink-0" size={20} />
                         </button>
                       </div>
@@ -5099,7 +5099,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                           <span className="font-black text-[#10B981] text-[14px]">Available!</span>
                         </div>
                         <p className="text-[12px] text-gray-600 font-semibold">
-                          This tour is available for {selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric' }) : 'selected dates'}
+                          This tour is available for {selectedDate ? (() => { const [y,m,d] = selectedDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { month: 'long', day: 'numeric' }); })() : 'selected dates'}
                         </p>
                       </div>
                     )}
@@ -5415,7 +5415,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                     // Days of the month
                     for (let day = 1; day <= daysInMonth; day++) {
                       const date = new Date(year, month, day);
-                      const dateString = date.toISOString().split('T')[0];
+                      const dateString = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
                       const isToday = date.getTime() === today.getTime();
                       const isPast = date < today;
                       const isSelected = selectedDate === dateString;
@@ -5460,7 +5460,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                 <div className="text-[14px] font-bold text-gray-600 mb-3">Quick select</div>
                 <div className="flex flex-wrap gap-2">
                   {getAvailableDates().slice(0, 7).map((date, index) => {
-                    const dateString = date.toISOString().split('T')[0];
+                    const dateString = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
                     const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
                     const dayName = dayNames[date.getDay()];
                     const dayNum = date.getDate();
@@ -5715,7 +5715,7 @@ const TourDetailPage: React.FC<TourDetailPageProps> = ({ tourId, tourSlug, count
                   <div className="flex justify-between">
                     <span className="text-gray-600 font-semibold">Date:</span>
                     <span className="font-black text-[#001A33]">
-                      {selectedDate ? new Date(selectedDate).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }) : 'Not selected'}
+                      {selectedDate ? (() => { const [y,m,d] = selectedDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); })() : 'Not selected'}
                     </span>
                   </div>
                   <div className="flex justify-between">
