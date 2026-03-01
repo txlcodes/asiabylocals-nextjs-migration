@@ -2419,24 +2419,24 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                { title: 'Things to Do in Agra', slug: 'things-to-do-in-agra', icon: <Star className="text-[#10B981]" size={20} /> },
-                { title: 'Places to Visit in Agra', slug: 'places-to-visit-in-agra', icon: <MapPin className="text-[#10B981]" size={20} /> },
-                { title: '1-Day Agra Itinerary', slug: '1-day-agra-itinerary', icon: <Calendar className="text-[#10B981]" size={20} /> },
-                { title: 'Taj Mahal Ticket Price 2026', slug: 'taj-mahal-ticket-price-2026', icon: <Ticket className="text-[#10B981]" size={20} /> },
-                { title: 'Taj Mahal Opening Time', slug: 'taj-mahal-opening-time', icon: <Clock className="text-[#10B981]" size={20} /> },
-                { title: 'Is Taj Mahal Closed on Friday?', slug: 'is-taj-mahal-closed-on-friday', icon: <Info className="text-[#10B981]" size={20} /> },
-                { title: 'Agra Travel Guide 2026', slug: 'agra-travel-guide-2026', icon: <Globe className="text-[#10B981]" size={20} /> },
+                { title: 'Things to Do in Agra', slug: 'things-to-do-in-agra', image: '/things-to-do/agra-taj-mahal-garden.jpg' },
+                { title: 'Places to Visit in Agra', slug: 'places-to-visit-in-agra', image: '/things-to-do/agra-fort-gate.jpg' },
+                { title: '1-Day Agra Itinerary', slug: '1-day-agra-itinerary', image: '/agra-itinerary-hero.jpg' },
+                { title: 'Taj Mahal Ticket Price 2026', slug: 'taj-mahal-ticket-price-2026', image: '/things-to-do/agra-taj-ticket.jpg' },
+                { title: 'Taj Mahal Opening Time', slug: 'taj-mahal-opening-time', image: '/things-to-do/agra-taj-mahal-sunrise.jpg' },
+                { title: 'Is Taj Mahal Closed on Friday?', slug: 'is-taj-mahal-closed-on-friday', image: '/taj-mahal-new.jpg' },
+                { title: 'Agra Travel Guide 2026', slug: 'agra-travel-guide-2026', image: '/agra-hero.jpg' },
               ].map((guide, idx) => (
                 <a
                   key={idx}
                   href={`/india/agra/${guide.slug}`}
-                  className="flex items-center justify-between p-5 md:p-6 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
                 >
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
                   <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-12 h-12 bg-[#10B981]/10 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 group-hover:rotate-3 shadow-sm group-hover:shadow-[#10B981]/10">
-                      {React.cloneElement(guide.icon as React.ReactElement, { className: "group-hover:text-[#10B981] transition-colors" })}
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -2458,24 +2458,24 @@ const CityPage: React.FC<CityPageProps> = ({ country, city }) => {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                { title: 'Things to Do in Delhi', slug: 'things-to-do-in-delhi', icon: <Star className="text-[#10B981]" size={20} /> },
-                { title: 'Delhi 1-Day Itinerary', slug: 'delhi-1-day-itinerary', icon: <Calendar className="text-[#10B981]" size={20} /> },
-                { title: 'Red Fort', slug: 'red-fort', icon: <MapPin className="text-[#10B981]" size={20} /> },
-                { title: 'Qutub Minar', slug: 'qutub-minar', icon: <MapPin className="text-[#10B981]" size={20} /> },
-                { title: 'Humayun\'s Tomb', slug: 'humayuns-tomb', icon: <MapPin className="text-[#10B981]" size={20} /> },
-                { title: 'India Gate', slug: 'india-gate', icon: <MapPin className="text-[#10B981]" size={20} /> },
-                { title: 'Delhi Travel Guide 2026', slug: 'delhi-travel-guide-2026', icon: <Globe className="text-[#10B981]" size={20} /> },
+                { title: 'Things to Do in Delhi', slug: 'things-to-do-in-delhi', image: '/things-to-do/delhi-city-tour.jpg' },
+                { title: 'Delhi 1-Day Itinerary', slug: 'delhi-1-day-itinerary', image: '/delhi-itinerary-hero.jpg' },
+                { title: 'Red Fort', slug: 'red-fort', image: '/things-to-do/delhi-red-fort.avif' },
+                { title: 'Qutub Minar', slug: 'qutub-minar', image: '/things-to-do/delhi-qutub-minar.jpg' },
+                { title: 'Humayun\'s Tomb', slug: 'humayuns-tomb', image: '/things-to-do/delhi-old-delhi-heritage.jpg' },
+                { title: 'India Gate', slug: 'india-gate', image: '/cities-images/delhi.jpg' },
+                { title: 'Delhi Travel Guide 2026', slug: 'delhi-travel-guide-2026', image: '/delhi-home.jpg' },
               ].map((guide, idx) => (
                 <a
                   key={idx}
                   href={`/india/delhi/${guide.slug}`}
-                  className="flex items-center justify-between p-5 md:p-6 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
                 >
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
                   <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-12 h-12 bg-[#10B981]/10 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 group-hover:rotate-3 shadow-sm group-hover:shadow-[#10B981]/10">
-                      {React.cloneElement(guide.icon as React.ReactElement, { className: "group-hover:text-[#10B981] transition-colors" })}
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
