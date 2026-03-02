@@ -86,8 +86,13 @@ export default async function SlugPage({ params }: Props) {
       if (data.success && data.tour) {
         tour = data.tour;
       } else if (data.title) {
-        // API returns tour object directly
         tour = data;
+      }
+      // Strip base64 images to keep response cacheable
+      if (tour && Array.isArray(tour.images)) {
+        tour.images = tour.images
+          .map((img: any) => (typeof img === 'string' && img.startsWith('data:') ? '' : img))
+          .filter(Boolean);
       }
     }
   } catch (e) {

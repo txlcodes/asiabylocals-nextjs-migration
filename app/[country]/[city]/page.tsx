@@ -94,7 +94,15 @@ export default async function CityPage({ params }: Props) {
         }
         tours = toursArray.map((tour: any) => ({
           ...tour,
-          slug: tour.slug || `tour-${tour.id}`
+          slug: tour.slug || `tour-${tour.id}`,
+          // Strip base64 images to keep response under 2MB for ISR cache
+          images: Array.isArray(tour.images)
+            ? tour.images.map((img: any) =>
+                typeof img === 'string' && img.startsWith('data:')
+                  ? '' // drop base64 blobs — Cloudinary URLs pass through
+                  : img
+              ).filter(Boolean)
+            : tour.images,
         }));
       }
     }
