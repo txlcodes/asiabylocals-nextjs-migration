@@ -40,7 +40,7 @@ export const metadata: Metadata = {
       'Discover authentic local tours and cultural experiences across Asia. Book tours with verified local guides in India, Japan, Thailand, Vietnam, Indonesia, and more.',
     images: [
       {
-        url: 'https://www.asiabylocals.com/favicon-96x96-v7.png',
+        url: 'https://www.asiabylocals.com/og-social.jpg',
         width: 1200,
         height: 630,
         alt: 'AsiaByLocals - Authentic Travel Experiences in Asia',
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
       'Discover authentic local tours and cultural experiences across Asia. Book tours with verified local guides in India, Japan, Thailand, Vietnam, Indonesia, and more.',
     images: [
       {
-        url: 'https://www.asiabylocals.com/favicon-96x96-v7.png',
+        url: 'https://www.asiabylocals.com/og-social.jpg',
         alt: 'AsiaByLocals - Authentic Travel Experiences',
       },
     ],

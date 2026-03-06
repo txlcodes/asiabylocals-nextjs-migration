@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
                     <div className="col-span-1 lg:col-span-1">
                         <Link href="/" className="inline-block mb-4">
-                            <img src="/logo.png" alt="AsiaByLocals Logo" className="h-32 w-auto invert brightness-0" />
+                            <img src="/logo.png" alt="AsiaByLocals Logo" className="h-32 w-auto invert brightness-0" width={240} height={128} loading="lazy" />
                         </Link>
                         <p className="text-gray-400 text-[13px] leading-relaxed">
                             Empowering local experts across Asia to share their heritage directly with curious travelers.
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
                     <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mb-4 text-center">We Accept</h5>
                     <div className="flex flex-wrap justify-center items-center gap-4">
                         <div className="bg-white rounded-md px-2.5 py-1.5 flex items-center justify-center shadow-sm hover:shadow-md transition-shadow" title="Visa">
-                            <img src="/visa-logo.png" alt="Visa" className="h-6 w-auto object-contain" />
+                            <img src="/visa-logo.png" alt="Visa" className="h-6 w-auto object-contain" loading="lazy" />
                         </div>
                         <div className="bg-white rounded-md px-2.5 py-1.5 flex items-center justify-center shadow-sm hover:shadow-md transition-shadow" title="Mastercard">
                             <svg viewBox="0 0 131.39 86.9" className="h-6 w-auto" xmlns="http://www.w3.org/2000/svg">

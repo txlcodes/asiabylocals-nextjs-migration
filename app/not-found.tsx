@@ -1,5 +1,10 @@
 import Link from 'next/link';
 
+export const metadata = {
+  robots: 'noindex, nofollow',
+  title: 'Page Not Found | AsiaByLocals',
+};
+
 export default function NotFound() {
   return (
     <div className="min-h-screen bg-white flex items-center justify-center">

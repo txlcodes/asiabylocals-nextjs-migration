@@ -137,6 +137,13 @@ export const DELHI_INFO_SLUGS = [
   'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary'
 ];
 
+export const PHUKET_INFO_SLUGS = [
+  'things-to-do-in-phuket', 'phuket-travel-guide-2026',
+  'big-buddha-phuket', 'wat-chalong', 'phuket-old-town',
+  'phuket-1-day-itinerary', 'phi-phi-islands', 'phang-nga-bay',
+  'james-bond-island-phuket', 'phuket-island-hopping'
+];
+
 // Shared city locations/places - used in both tour creation and city pages
 export const CITY_LOCATIONS: Record<string, string[]> = {
   'Delhi': [

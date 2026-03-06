@@ -16,6 +16,7 @@ import {
     Wallet
 } from 'lucide-react';
 import { getCityInfoContent, CityInfoData } from '@/lib/cityInfoContent';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 interface Props {
     country: string;
@@ -41,6 +42,19 @@ const DELHI_SIDEBAR = [
     { name: 'India Gate', slug: 'india-gate' },
     { name: 'Things to Do', slug: 'things-to-do-in-delhi' },
     { name: '1-Day Itinerary', slug: 'delhi-1-day-itinerary' },
+];
+
+const PHUKET_SIDEBAR = [
+    { name: 'Phuket Travel Guide', slug: 'phuket-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-phuket' },
+    { name: 'Phi Phi Islands', slug: 'phi-phi-islands' },
+    { name: 'Phang Nga Bay', slug: 'phang-nga-bay' },
+    { name: 'Big Buddha', slug: 'big-buddha-phuket' },
+    { name: 'Wat Chalong', slug: 'wat-chalong' },
+    { name: 'Old Town', slug: 'phuket-old-town' },
+    { name: '1-Day Itinerary', slug: 'phuket-1-day-itinerary' },
+    { name: 'James Bond Island', slug: 'james-bond-island-phuket' },
+    { name: 'Island Hopping', slug: 'phuket-island-hopping' },
 ];
 
 function renderIcon(name: string) {
@@ -93,7 +107,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         );
     }
 
-    const sidebarItems = city.toLowerCase() === 'delhi' ? DELHI_SIDEBAR : AGRA_SIDEBAR;
+    const sidebarItems = city.toLowerCase() === 'delhi' ? DELHI_SIDEBAR : city.toLowerCase() === 'phuket' ? PHUKET_SIDEBAR : AGRA_SIDEBAR;
 
     return (
         <div className="min-h-screen bg-white">
@@ -143,6 +157,9 @@ export default function CityInfoClient({ country, city, slug }: Props) {
             </div>
 
             <div className="max-w-6xl mx-auto px-6 py-12">
+                {/* Breadcrumbs with JSON-LD */}
+                <Breadcrumbs country={country} city={city} tourTitle={data.title} slug={slug} />
+
                 {/* Authority Header / AEO Box */}
                 {data.fastFacts && (
                     <div className="mb-16 bg-[#F0FDF4] border border-[#DCFCE7] rounded-[2.5rem] p-8 md:p-12 shadow-sm border-b-4 border-b-[#10B981]">
