@@ -16,7 +16,6 @@ Sitemap: https://www.asiabylocals.com/sitemap.xml
 
 # LLM Knowledge Base (llms.txt standard)
 # See: https://llmstxt.org/
-# Summary: /llms.txt | Full Context: /llms-full.txt
 
 # Crawl-delay
 Crawl-delay: 1
@@ -75,5 +74,3 @@ Disallow: /
 
 User-agent: MJ12bot
 Disallow: /
-
-

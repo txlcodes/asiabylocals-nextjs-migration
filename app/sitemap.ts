@@ -53,29 +53,32 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
-  // Dynamic tour pages from API
+  // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];
+  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'udaipur', 'jodhpur', 'mumbai', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi'];
   try {
-    const res = await fetch(`${API_URL}/api/tours`, { next: { revalidate: 3600 } });
-    if (res.ok) {
-      const data = await res.json();
-      const tours = data.tours || data || [];
-      tourPages = tours
-        .filter((t: any) => t.slug && t.city)
-        .map((t: any) => {
-          // Look up country from CITY_URL_MAP, fallback to india
-          const cityKey = t.city.toLowerCase().replace(/\s+/g, '-');
-          const mapping = CITY_URL_MAP[cityKey];
-          const country = mapping ? mapping.country : 'india';
-          const city = mapping ? mapping.city : cityKey;
-          return {
-            url: `${BASE_URL}/${country}/${city}/${t.slug}`,
-            lastModified: new Date(t.updatedAt || t.createdAt || Date.now()),
-            changeFrequency: 'weekly' as const,
-            priority: 0.6,
-          };
-        });
-    }
+    const results = await Promise.all(
+      cities.map(city =>
+        fetch(`${API_URL}/api/public/tours?city=${city}`, { next: { revalidate: 3600 } })
+          .then(r => r.ok ? r.json() : { tours: [] })
+          .catch(() => ({ tours: [] }))
+      )
+    );
+    const allTours = results.flatMap((data: any) => data.tours || data || []);
+    tourPages = allTours
+      .filter((t: any) => t.slug && t.city)
+      .map((t: any) => {
+        const cityKey = t.city.toLowerCase().replace(/\s+/g, '-');
+        const mapping = CITY_URL_MAP[cityKey];
+        const country = mapping ? mapping.country : 'india';
+        const city = mapping ? mapping.city : cityKey;
+        return {
+          url: `${BASE_URL}/${country}/${city}/${t.slug}`,
+          lastModified: new Date(t.updatedAt || t.createdAt || Date.now()),
+          changeFrequency: 'weekly' as const,
+          priority: 0.6,
+        };
+      });
   } catch (e) {
     console.error('Sitemap: failed to fetch tours', e);
   }

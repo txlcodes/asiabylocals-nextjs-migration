@@ -120,9 +120,9 @@ input[type="number"] {
         padding-right: 1rem !important;
     }
 
-    /* Logo - Smaller */
+    /* Logo - Match main site size */
     header img[alt*="Asia"] {
-        height: 3rem !important;
+        height: 3.75rem !important; /* 60px - matches main site mobile */
     }
 
     /* Hero Section - Mobile */
@@ -141,20 +141,28 @@ input[type="number"] {
         padding: 0 1rem;
     }
 
-    /* Search Bar - Stacked on Mobile */
+    /* Search Bar - Horizontal on all screens (matches main site) */
     div[class*="bg-white"][class*="rounded-full"][class*="shadow-2xl"] {
-        flex-direction: column !important;
-        gap: 0.75rem !important;
-        padding: 0.75rem !important;
-        margin: 0 1rem;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        padding: 0.5rem !important;
+        gap: 0.5rem !important;
+        margin: 0 0.5rem;
     }
 
     div[class*="bg-white"][class*="rounded-full"]>div {
-        width: 100% !important;
+        width: auto !important;
+        flex: 1 1 0% !important;
+        min-width: 0 !important;
     }
 
     div[class*="bg-white"][class*="rounded-full"]>button {
-        width: 100% !important;
+        width: auto !important;
+        flex-shrink: 0 !important;
+        min-width: 85px !important;
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
+        font-size: 1rem !important;
     }
 
     /* Section Headings - Mobile */
@@ -256,6 +264,11 @@ input[type="number"] {
 
 /* Tablet: 768px - 1023px */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    /* Logo - Match main site tablet size */
+    header img[alt*="Asia"] {
+        height: 4.375rem !important; /* 70px */
+    }
 
     /* Scroll Arrows - Tablet Alignment */
     button[class*="absolute"][class*="left-0"][class*="top-\[40\%\]"],
