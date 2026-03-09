@@ -3197,7 +3197,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   };
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white pb-20 lg:pb-0">
       {/* JSON-LD Structured Data — Product + AggregateRating */}
       <script
         type="application/ld+json"
@@ -5362,6 +5362,24 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
           </div>
         )
       }
+
+      {/* Floating Mobile Book Button — visible only on mobile/tablet when booking box is off-screen */}
+      <div className="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-white border-t border-gray-200 shadow-[0_-4px_20px_rgba(0,0,0,0.1)] px-4 py-3 flex items-center justify-between gap-3">
+        <div className="flex flex-col">
+          <span className="text-[12px] text-gray-500 font-semibold">Starting from</span>
+          <span className="text-[20px] font-black text-[#10B981]">
+            {tour?.currency === 'INR' ? '₹' : '$'}{selectedOption?.price || tour?.pricePerPerson || 0}
+          </span>
+        </div>
+        <button
+          onClick={() => {
+            bookingBoxRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }}
+          className="bg-[#0071EB] hover:bg-[#0056b3] text-white font-black py-3 px-8 rounded-xl text-[15px] transition-all shadow-lg"
+        >
+          Book Now
+        </button>
+      </div>
 
     </div >
   );
