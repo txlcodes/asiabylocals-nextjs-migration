@@ -3469,6 +3469,16 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                     : 'border-gray-200 hover:border-[#10B981]/50 hover:shadow-md'
                                     }`}
                                 >
+                                  {/* Option Image */}
+                                  {(() => {
+                                    const optImgs = Array.isArray(option.images) ? option.images : (typeof option.images === 'string' ? (() => { try { return JSON.parse(option.images); } catch { return []; } })() : []);
+                                    const optImg = optImgs.find((img: string) => img && !img.startsWith('data:'));
+                                    return optImg ? (
+                                      <div className="w-full h-48 md:h-56 rounded-xl overflow-hidden mb-4">
+                                        <img src={optImg} alt={option.optionTitle} className="w-full h-full object-cover" loading="lazy" />
+                                      </div>
+                                    ) : null;
+                                  })()}
                                   <div className="flex flex-col md:flex-row items-start justify-between gap-4 md:gap-6">
                                     {/* Left: Option Details */}
                                     <div className="flex-1 w-full md:w-auto min-w-0">
