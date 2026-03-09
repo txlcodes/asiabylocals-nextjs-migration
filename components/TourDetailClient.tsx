@@ -4367,28 +4367,6 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     </div>
 
                     {/* Policies */}
-                    <div className="space-y-4 mb-6 pb-6 border-b border-gray-200">
-                      <div className="flex items-start gap-3">
-                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
-                        <div className="min-w-0 flex-1">
-                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Free cancellation</div>
-                          <div className="text-[12px] text-gray-600 font-semibold break-words">
-                            Cancel up to 24 hours in advance for a full refund
-                          </div>
-                        </div>
-                      </div>
-                      <div className="flex items-start gap-3">
-                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
-                        <div className="min-w-0 flex-1">
-                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
-                          <div className="text-[12px] text-gray-600 font-semibold break-words">
-                            Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
-                            <a href="#" className="text-[#10B981] underline">Read more</a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
                     {/* Availability Status */}
                     {availabilityStatus === 'available' && (
                       <div className="mb-4 p-4 bg-green-50 border border-green-200 rounded-2xl">
@@ -4438,9 +4416,27 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       </p>
                     )}
 
-                    <p className="text-[12px] text-gray-500 font-semibold text-center mt-4">
-                      Secure payment via Razorpay
-                    </p>
+                    <div className="space-y-4 mt-5 pt-5 border-t border-gray-200">
+                      <div className="flex items-start gap-3">
+                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
+                        <div className="min-w-0 flex-1">
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Free cancellation</div>
+                          <div className="text-[12px] text-gray-600 font-semibold break-words">
+                            Cancel up to 24 hours in advance for a full refund
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex items-start gap-3">
+                        <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
+                        <div className="min-w-0 flex-1">
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Secure payment</div>
+                          <div className="text-[12px] text-gray-600 font-semibold break-words">
+                            Complete your booking safely with Razorpay. Full refund if you cancel 24h prior.{' '}
+                            <a href="#" className="text-[#10B981] underline">Read more</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
