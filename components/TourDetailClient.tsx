@@ -3447,94 +3447,83 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       return (
                         <div className="mb-8" ref={optionsRef}>
                           <h2 className="text-2xl font-black text-[#001A33] mb-6">Choose from {allOptions.length} available option{allOptions.length > 1 ? 's' : ''}</h2>
-                          <div className="space-y-4">
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                             {allOptions.map((option: any) => {
                               const isSelected = selectedOption?.id === option.id;
-                              // Convert INR prices to USD at 85 INR = 1 USD
                               const currencySymbol = '$';
-                              // If option has no own groupPricingTiers it falls back to main tour's tiers (which may be INR)
                               const optTiers = option.groupPricingTiers
                                 ? (typeof option.groupPricingTiers === 'string' ? (() => { try { return JSON.parse(option.groupPricingTiers); } catch { return []; } })() : option.groupPricingTiers)
                                 : [];
                               const optionHasOwnTiers = Array.isArray(optTiers) && optTiers.length > 0;
-                              // Use option's own currency if it has own tiers; otherwise use main tour's currency (inherited tiers)
                               const priceCurrency = optionHasOwnTiers ? (option.currency || 'INR') : (tour.currency || 'INR');
                               const toDisplayPrice = (price: number) => priceCurrency === 'INR' ? Math.round(price / 85) : price;
+
+                              const optImgs = Array.isArray(option.images) ? option.images : (typeof option.images === 'string' ? (() => { try { return JSON.parse(option.images); } catch { return []; } })() : []);
+                              const optImg = optImgs.find((img: string) => img && !img.startsWith('data:'));
 
                               return (
                                 <div
                                   key={option.id}
-                                  className={`bg-white border-2 rounded-2xl p-6 transition-all ${isSelected
-                                    ? 'border-[#10B981] shadow-lg'
+                                  className={`bg-white border-2 rounded-2xl overflow-hidden transition-all flex flex-col ${isSelected
+                                    ? 'border-[#10B981] shadow-lg ring-2 ring-[#10B981]/20'
                                     : 'border-gray-200 hover:border-[#10B981]/50 hover:shadow-md'
                                     }`}
                                 >
                                   {/* Option Image */}
-                                  {(() => {
-                                    const optImgs = Array.isArray(option.images) ? option.images : (typeof option.images === 'string' ? (() => { try { return JSON.parse(option.images); } catch { return []; } })() : []);
-                                    const optImg = optImgs.find((img: string) => img && !img.startsWith('data:'));
-                                    return optImg ? (
-                                      <div className="w-full h-48 md:h-56 rounded-xl overflow-hidden mb-4">
-                                        <img src={optImg} alt={option.optionTitle} className="w-full h-full object-cover" loading="lazy" />
-                                      </div>
-                                    ) : null;
-                                  })()}
-                                  <div className="flex flex-col md:flex-row items-start justify-between gap-4 md:gap-6">
-                                    {/* Left: Option Details */}
-                                    <div className="flex-1 w-full md:w-auto min-w-0">
-                                      <h3 className="font-black text-[#001A33] text-[18px] mb-2 break-all whitespace-pre-wrap">{option.optionTitle}</h3>
-                                      <div className="text-[14px] text-gray-600 font-semibold mb-4 leading-relaxed break-all whitespace-pre-wrap">
-                                        {option.optionDescription && (
-                                          <>
-                                            {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 150 ? (
-                                              <span>{option.optionDescription}</span>
-                                            ) : (
-                                              <span>{option.optionDescription.substring(0, 150)}...</span>
-                                            )}
+                                  {optImg && (
+                                    <div className="w-full h-44 overflow-hidden">
+                                      <img src={optImg} alt={option.optionTitle} className="w-full h-full object-cover" loading="lazy" />
+                                    </div>
+                                  )}
 
-                                            {option.optionDescription && option.optionDescription.length > 150 && (
-                                              <button
-                                                onClick={(e) => {
-                                                  e.stopPropagation();
-                                                  toggleOptionExpand(option.id);
-                                                }}
-                                                className="text-[#0071EB] font-bold ml-1 hover:underline focus:outline-none inline-block cursor-pointer"
-                                              >
-                                                {expandedOptions.has(option.id) ? 'Show less' : 'Read more'}
-                                              </button>
-                                            )}
-                                          </>
-                                        )}
-                                      </div>
+                                  {/* Card Content */}
+                                  <div className="p-5 flex flex-col flex-1">
+                                    <h3 className="font-black text-[#001A33] text-[16px] mb-2 leading-tight">{option.optionTitle}</h3>
 
-                                      {/* Key Details Row */}
-                                      <div className="flex flex-wrap items-center gap-4 md:gap-6 text-[13px] text-gray-600 font-semibold">
-                                        <div className="flex items-center gap-2">
-                                          <Clock size={16} className="text-gray-500" />
-                                          <span>{formatDurationHours(option.durationHours)}</span>
-                                        </div>
-                                        <div className="flex items-center gap-2">
-                                          <User size={16} className="text-gray-500" />
-                                          <span>Guide: {option.language}</span>
-                                        </div>
-                                        {option.pickupIncluded && (
-                                          <div className="flex items-center gap-2">
-                                            <Bus size={16} className="text-gray-500" />
-                                            <span>Pickup included</span>
-                                          </div>
-                                        )}
-                                      </div>
+                                    <div className="text-[13px] text-gray-600 font-medium mb-3 leading-relaxed">
+                                      {option.optionDescription && (
+                                        <>
+                                          {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 120 ? (
+                                            <span>{option.optionDescription}</span>
+                                          ) : (
+                                            <span>{option.optionDescription.substring(0, 120)}...</span>
+                                          )}
+                                          {option.optionDescription && option.optionDescription.length > 120 && (
+                                            <button
+                                              onClick={(e) => { e.stopPropagation(); toggleOptionExpand(option.id); }}
+                                              className="text-[#0071EB] font-bold ml-1 hover:underline focus:outline-none inline cursor-pointer text-[13px]"
+                                            >
+                                              {expandedOptions.has(option.id) ? 'Less' : 'More'}
+                                            </button>
+                                          )}
+                                        </>
+                                      )}
                                     </div>
 
-                                    {/* Right: Pricing & Select Button */}
-                                    <div className="text-left md:text-right flex flex-col items-start md:items-end w-full md:w-auto md:min-w-[200px]">
-                                      <div className="mb-3">
-                                        <div className="font-black text-[#001A33] text-[20px] mb-1">
+                                    {/* Details */}
+                                    <div className="flex flex-wrap items-center gap-3 text-[12px] text-gray-500 font-semibold mb-4">
+                                      <div className="flex items-center gap-1">
+                                        <Clock size={14} />
+                                        <span>{formatDurationHours(option.durationHours)}</span>
+                                      </div>
+                                      <div className="flex items-center gap-1">
+                                        <User size={14} />
+                                        <span>{option.language}</span>
+                                      </div>
+                                      {option.pickupIncluded && (
+                                        <div className="flex items-center gap-1">
+                                          <Bus size={14} />
+                                          <span>Pickup</span>
+                                        </div>
+                                      )}
+                                    </div>
+
+                                    {/* Price + Select — pushed to bottom */}
+                                    <div className="mt-auto pt-3 border-t border-gray-100">
+                                      <div className="flex items-center justify-between">
+                                        <div className="font-black text-[#001A33] text-[20px]">
                                           {(() => {
                                             const currentParticipants = isCustomParticipants ? customParticipants : participants;
-
-                                            // If option has its own tiers, use them directly (avoid calculateGroupPrice
-                                            // which always prefers tour.groupPricingTiers over option tiers)
                                             if (optionHasOwnTiers) {
                                               const matchingTier = optTiers.find((t: any) =>
                                                 currentParticipants >= (t.minPeople || 1) && currentParticipants <= (t.maxPeople || 999)
@@ -3542,48 +3531,36 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                               const tierPrice = parseFloat(matchingTier?.price || optTiers[0]?.price || option.price || 0);
                                               return `${currencySymbol}${toDisplayPrice(tierPrice).toLocaleString()}`;
                                             }
-
-                                            // No own tiers — fall back to main tour tiers (which are in tour.currency)
                                             const groupPrice = calculateGroupPrice(option, currentParticipants);
                                             if (groupPrice !== null) {
                                               return `${currencySymbol}${toDisplayPrice(groupPrice).toLocaleString()}`;
                                             }
-
-                                            // Last fallback: option.price
                                             return `${currencySymbol}${toDisplayPrice(option.price || 0).toLocaleString()}`;
                                           })()}
                                         </div>
-                                      </div>
-
-                                      <button
-                                        onClick={() => {
-                                          // Toggle: if clicking the same option, deselect it
-                                          if (isSelected) {
-                                            setSelectedOption(null);
-                                          } else {
-                                            setSelectedOption(option);
-                                            // Scroll to booking box on mobile when option is selected
-                                            if (window.innerWidth < 1024 && bookingBoxRef.current) {
-                                              setTimeout(() => {
-                                                bookingBoxRef.current?.scrollIntoView({
-                                                  behavior: 'smooth',
-                                                  block: 'start'
-                                                });
-                                              }, 100);
+                                        <button
+                                          onClick={() => {
+                                            if (isSelected) {
+                                              setSelectedOption(null);
+                                            } else {
+                                              setSelectedOption(option);
+                                              if (window.innerWidth < 1024 && bookingBoxRef.current) {
+                                                setTimeout(() => {
+                                                  bookingBoxRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                                                }, 100);
+                                              }
                                             }
-                                          }
-                                        }}
-                                        className={`w-full md:w-auto px-6 py-3 rounded-xl font-black text-[14px] transition-all mb-2 ${isSelected
-                                          ? 'bg-[#10B981] text-white'
-                                          : 'bg-[#0071EB] text-white hover:bg-[#0056b3]'
-                                          }`}
-                                      >
-                                        {isSelected ? 'Selected (Click to deselect)' : 'Select'}
-                                      </button>
-
-                                      {/* Free Cancellation Badge */}
-                                      <div className="flex items-center gap-1 text-[12px] text-gray-600 w-full md:w-auto">
-                                        <CheckCircle2 size={14} className="text-[#10B981]" />
+                                          }}
+                                          className={`px-5 py-2.5 rounded-xl font-black text-[13px] transition-all ${isSelected
+                                            ? 'bg-[#10B981] text-white'
+                                            : 'bg-[#0071EB] text-white hover:bg-[#0056b3]'
+                                            }`}
+                                        >
+                                          {isSelected ? 'Selected ✓' : 'Select'}
+                                        </button>
+                                      </div>
+                                      <div className="flex items-center gap-1 text-[11px] text-gray-500 mt-2">
+                                        <CheckCircle2 size={12} className="text-[#10B981]" />
                                         <span className="font-semibold">Free cancellation</span>
                                       </div>
                                     </div>
