@@ -120,9 +120,17 @@ input[type="number"] {
         padding-right: 1rem !important;
     }
 
-    /* Logo - Match main site size */
+    /* Logo - Bigger on mobile for brand visibility */
     header img[alt*="Asia"] {
-        height: 3.75rem !important; /* 60px - matches main site mobile */
+        height: 6.5rem !important; /* 104px */
+        max-width: none !important;
+    }
+
+    /* Let logo container grow beyond max-width constraint */
+    header a:has(img[alt*="Asia"]),
+    header div:has(> a > img[alt*="Asia"]) {
+        max-width: none !important;
+        flex-shrink: 0 !important;
     }
 
     /* Hero Section - Mobile */
@@ -319,14 +327,21 @@ input[type="number"] {
         max-width: 100vw;
     }
 
-    * {
+    *:not(header img):not(footer img) {
         max-width: 100%;
         box-sizing: border-box;
     }
 
-    img {
+    img:not(header img):not(footer img) {
         max-width: 100%;
         height: auto;
+    }
+
+    /* Footer logo - bigger on mobile */
+    footer img[alt*="AsiaByLocals"] {
+        height: 6rem !important; /* 96px */
+        max-width: none !important;
+        width: auto !important;
     }
 }
 

@@ -21,7 +21,7 @@ export default function StaticPageHeader() {
                     <img
                         src="/logo.png"
                         alt="Asia By Locals"
-                        className="h-[120px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
+                        className="h-[160px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
                         style={{ transform: 'translateY(3px)' }}
                     />
                 </Link>

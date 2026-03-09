@@ -89,6 +89,17 @@ const formatDurationDisplay = (durationStr: string | null | undefined) => {
   return durationStr;
 };
 
+// Sanitize garbled itinerary duration strings — only show if cleanly formatted
+const sanitizeItineraryDuration = (dur: string | null | undefined): string | null => {
+  if (!dur) return null;
+  const trimmed = dur.trim();
+  // Only show if the entire string is a clean "number unit" format (e.g. "45 minutes", "3.5 hours")
+  const clean = trimmed.match(/^(\d+(?:\.\d+)?)\s*(minutes?|mins?|hours?|hrs?|days?)$/i);
+  if (clean) return trimmed;
+  // Everything else (garbled text like "sruoh 6630 minutes") is hidden
+  return null;
+};
+
 // High-authority FAQ data tailored for specific major tours
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
@@ -3794,9 +3805,9 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                         <span className="text-[13px] font-black text-[#10B981] tracking-wide">
                                           {formatTime(item.time)}
                                         </span>
-                                        {item.duration && (
+                                        {sanitizeItineraryDuration(item.duration) && (
                                           <span className="text-[11px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
-                                            {item.duration}
+                                            {sanitizeItineraryDuration(item.duration)}
                                           </span>
                                         )}
                                         {isOptional && (

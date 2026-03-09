@@ -411,8 +411,7 @@ export default function HomepageClient() {
               <img
                 src="/logo.png"
                 alt="Asia By Locals"
-                className="w-auto object-contain"
-                style={{ height: '120px', maxHeight: '120px' }}
+                className="h-[120px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
               />
             </Link>
 

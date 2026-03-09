@@ -1370,11 +1370,11 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
             >
               <div className="flex flex-col md:flex-row gap-0">
                 {/* Image Section - Smaller, less distracting */}
-                <div className="md:w-1/4 lg:w-1/5 shrink-0 self-start">
+                <div className="w-full md:w-1/4 lg:w-1/5 shrink-0 self-start">
                   <img
                     src={item.image}
                     alt={`${item.title} in ${city} `}
-                    className="w-full h-40 md:h-40 object-cover"
+                    className="w-full h-48 md:h-40 object-cover"
                     style={{ objectFit: 'cover', objectPosition: 'center' }}
                     loading="lazy"
                     width={400}

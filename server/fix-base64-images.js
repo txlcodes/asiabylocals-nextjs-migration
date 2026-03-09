@@ -32,6 +32,8 @@ const AFFECTED_SLUGS = [
   'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
   'city-palace-guided-tour',
   'lake-pichola-full-day-tour',
+  'elephant-village-tour-jaipur',
+  'amber-fort-official-guided-tour',
 ];
 
 function isBase64(str) {

@@ -16,6 +16,18 @@ function capitalize(str: string) {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
+// Detect supplier-written personal text that shouldn't be used as meta description
+function isValidSeoDescription(text: string | null | undefined): boolean {
+  if (!text || text.length < 30) return false;
+  const lower = text.toLowerCase();
+  // Reject personal/promotional supplier messages
+  const badPatterns = [
+    /\b(i will|with me|book your tour with|my tour|contact me|whatsapp|call me)\b/i,
+    /\b(i ensure|i guarantee|i promise|book with me)\b/i,
+  ];
+  return !badPatterns.some(p => p.test(lower));
+}
+
 function isInfoSlug(city: string, slug: string): boolean {
   const c = city.toLowerCase();
   if (c === 'agra') return AGRA_INFO_SLUGS.includes(slug);
@@ -47,18 +59,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     if (res.ok) {
       const data = await res.json();
       const tour = (data.success && data.tour) ? data.tour : (data.title ? data : null);
-      if (tour) return {
-        title: `${tour.title} in ${cityName} | AsiaByLocals`,
-        description: tour.shortDescription || `Book ${tour.title} in ${cityName} with a licensed local guide. Authentic experience with AsiaByLocals.`,
-        alternates: {
-          canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
-        },
-        openGraph: {
+      if (tour) {
+        const fallbackDesc = `Book ${tour.title} in ${cityName} with a licensed local guide. Authentic experience with AsiaByLocals.`;
+        const description = isValidSeoDescription(tour.shortDescription) ? tour.shortDescription : fallbackDesc;
+        return {
           title: `${tour.title} in ${cityName} | AsiaByLocals`,
-          description: tour.shortDescription || `Book ${tour.title} in ${cityName}`,
-          images: tour.images?.[0] ? [{ url: tour.images[0] }] : [],
-        },
-      };
+          description,
+          alternates: {
+            canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
+          },
+          openGraph: {
+            title: `${tour.title} in ${cityName} | AsiaByLocals`,
+            description,
+            images: tour.images?.[0] ? [{ url: tour.images[0] }] : [],
+          },
+        };
+      }
     }
   } catch (e) {}
 
