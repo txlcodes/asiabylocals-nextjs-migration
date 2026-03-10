@@ -38,11 +38,18 @@ const nextConfig: NextConfig = {
       'agra-overnight-tour': 'delhi-to-agra-overnight-tour',
       // Jaipur
       'elepahnt-village-walking-tour': 'elephant-village-tour-jaipur',
-      'hawa-mahal-food-tour': 'jaipur-heritage-walk-street-food-tour',
-      'hawa-mahal-full-day-tour': 'jaipur-private-full-day-sightseeing-tour',
+      'hawa-mahal-food-tour': 'jaipur-same-day-tour-with-cooking-class',
+      'hawa-mahal-full-day-tour': 'jaipur-private-full-day-sightseeing-by-car',
       'hawa-mahal-private-tour': 'jaipur-full-day-sightseeing-tour-by-car',
       'amber-fort-guided-tour': 'jaipur-city-tour-with-official-guide',
       'jaipur-enjoy-private-tour': 'jaipur-to-agra-taj-mahal-day-trip',
+      'city-palace-experience-guided-tour': 'jaipur-block-printing-workshop',
+      // Fixed duplicate "mahal" slugs
+      'taj-mahal-mahal-guided-tour': 'taj-mahal-guided-tour-from-agra',
+      'taj-mahal-mahal-full-day-tour': 'same-day-taj-mahal-tour-by-car-from-delhi',
+      // Fixed Delhi bad slugs
+      'delhi-old-new-delhi-private-half-day-tour': 'old-new-delhi-private-tour',
+      'jaipur-royal-private-tour': 'delhi-to-jaipur-royal-private-day-tour',
     };
 
     return Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
