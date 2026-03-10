@@ -6109,6 +6109,18 @@ app.put('/api/tours/:id', async (req, res) => {
     dataToUpdate.status = existingTour.status;
 
     if (updateData.title) dataToUpdate.title = updateData.title;
+    // Allow slug updates (admin-only, with uniqueness check)
+    if (updateData.slug) {
+      const slugValue = updateData.slug.toLowerCase().replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+      if (slugValue && slugValue !== existingTour.slug) {
+        const slugExists = await prisma.tour.findFirst({ where: { slug: slugValue, id: { not: tourId } } });
+        if (slugExists) {
+          return res.status(400).json({ success: false, error: 'Slug already in use', message: `The slug "${slugValue}" is already used by another tour.` });
+        }
+        dataToUpdate.slug = slugValue;
+        console.log(`🔗 Slug updated: "${existingTour.slug}" → "${slugValue}"`);
+      }
+    }
     if (updateData.city) dataToUpdate.city = updateData.city;
     if (updateData.category) dataToUpdate.category = updateData.category;
     if (updateData.locations) dataToUpdate.locations = JSON.stringify(

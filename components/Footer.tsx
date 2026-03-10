@@ -90,7 +90,14 @@ const Footer: React.FC = () => {
                             <Instagram size={15} className="group-hover:scale-110 transition-transform" />
                             <span>Instagram</span>
                         </a>
-                        <span className="hover:text-white cursor-pointer transition-colors">Facebook</span>
+                        <a
+                            href="https://www.facebook.com/people/AsiaBy-Locals/pfbid028wqDK8RvWMsgMnuEtUsHpgYxnQVym36emVTWL4WyPwgVAJKTMUyVT5t48rhU1ao3l/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-white transition-colors"
+                        >
+                            Facebook
+                        </a>
                         <span className="hover:text-white cursor-pointer transition-colors">LinkedIn</span>
                     </div>
                 </div>

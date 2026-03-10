@@ -823,8 +823,8 @@ const CITY_DESCRIPTIONS: Record<string, {
     title: 'Phuket Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover the best tours in Phuket with licensed local guides. Phi Phi Islands, Phang Nga Bay cruises, Big Buddha visits & Old Town tours.',
     intro: [
-      'Phuket, Thailand\'s largest island, is a tropical paradise of turquoise waters, white sand beaches, and historic Sino-Portuguese charm. It serves as the gateway to the stunning Phi Phi Islands and Phang Nga Bay.',
-      'At AsiaByLocals, discover Phuket through expert-led tours that go beyond the beaches. Explore the colorful Old Town, visit the iconic Big Buddha, and cruise the Andaman Sea in private speedboats or sunset catamarans with knowledgeable local experts.'
+      'Phuket, Thailand\'s largest island, is a tropical paradise of turquoise waters, white sand beaches, and historic Sino-Portuguese charm. It serves as the gateway to the stunning [Phi Phi Islands](/thailand/phuket/phi-phi-islands) and [Phang Nga Bay](/thailand/phuket/phang-nga-bay), home to the iconic [James Bond Island](/thailand/phuket/james-bond-island-phuket). Discover expert-led [tours in Phuket](/thailand/phuket/things-to-do-in-phuket) hosted by licensed local guides and marine specialists.',
+      'At AsiaByLocals, discover Phuket through experiences that go beyond the beaches. Explore the colorful [Phuket Old Town](/thailand/phuket/phuket-old-town), visit the iconic [Big Buddha](/thailand/phuket/big-buddha-phuket) and [Wat Chalong](/thailand/phuket/wat-chalong), and cruise the Andaman Sea on private [island-hopping adventures](/thailand/phuket/phuket-island-hopping) with knowledgeable local experts. Combine with a trip to [Bangkok](/thailand/bangkok) for the ultimate Thailand itinerary — check our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) and [1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) for planning tips.'
     ],
     whyBook: [
       'Licensed & experienced local experts',
@@ -840,39 +840,67 @@ const CITY_DESCRIPTIONS: Record<string, {
       'Phuket Old Town',
       'Promthep Cape'
     ],
-    bestTime: 'The best time to visit Phuket is from December to March (dry season). May to October is the monsoon season, which can bring heavy rain and rougher seas.',
+    bestTime: 'The best time to visit Phuket is from **December to March** (dry season), offering perfect conditions for [island-hopping tours](/thailand/phuket/phuket-island-hopping) and [Phi Phi boat trips](/thailand/phuket/phi-phi-islands). May to October is the monsoon season with heavier rain and rougher seas, though [Phang Nga Bay](/thailand/phuket/phang-nga-bay) tours run year-round. See our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for month-by-month weather details.',
     faqs: [
       {
         question: 'Which is better: Phi Phi Islands or Phang Nga Bay?',
-        answer: 'Both are unique! Phi Phi offers iconic beaches like Maya Bay and snorkeling, while Phang Nga Bay is famous for its towering limestone cliffs and sea caves.'
+        answer: 'Both are bucket-list destinations but offer very different experiences. The [Phi Phi Islands](/thailand/phuket/phi-phi-islands) are famous for turquoise lagoons, Maya Bay (from "The Beach"), and world-class snorkeling among coral reefs and tropical fish. Our [Phi Phi speedboat tour](/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling) covers all the highlights in a single day. [Phang Nga Bay](/thailand/phuket/phang-nga-bay), on the other hand, is a dramatic seascape of towering limestone karsts, hidden sea caves, and the iconic [James Bond Island](/thailand/phuket/james-bond-island-phuket). If you have time, we strongly recommend doing both — see our [Phuket 1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) for how to plan your visit efficiently.'
       },
       {
         question: 'Is Phuket Old Town worth visiting?',
-        answer: 'Absolutely. It offers a fascinating look at the island\'s tin-mining history through beautiful Sino-Portuguese architecture, street art, and legendary local cafes.'
+        answer: 'Absolutely — [Phuket Old Town](/thailand/phuket/phuket-old-town) is one of the island\'s most underrated attractions. It offers a fascinating look at Phuket\'s tin-mining history through beautifully preserved Sino-Portuguese architecture, vibrant street art murals, hidden Chinese shrines, and legendary local cafes serving authentic Hokkien mee and Moo Hong. The Sunday Walking Street Market is a must-visit for local crafts and street food. Pair it with a visit to [Wat Chalong](/thailand/phuket/wat-chalong) or the [Big Buddha](/thailand/phuket/big-buddha-phuket) for a complete cultural day. Check our [things to do in Phuket](/thailand/phuket/things-to-do-in-phuket) guide for more inspiration.'
       },
       {
         question: 'How do I get around Phuket for tours?',
-        answer: 'Most of our tours include door-to-door hotel transfers in air-conditioned vans. For independent travel, you can use Grab, local buses (Songthaews), or rent a scooter if you are an experienced rider with a valid international permit.'
+        answer: 'Most of our [guided tours in Phuket](/thailand/phuket/things-to-do-in-phuket) include complimentary door-to-door hotel transfers in air-conditioned vans or minibuses. For independent travel, you can use the Grab ride-hailing app (Phuket\'s equivalent of Uber), local buses called Songthaews (blue trucks running fixed routes for 30–50 Baht), or rent a scooter if you are an experienced rider with a valid International Driving Permit. Tuk-tuks are available but always agree on the fare before departure. For island-hopping days, our [speedboat tours](/thailand/phuket/phuket-island-hopping) depart from marinas with included transport from your hotel.'
       },
       {
         question: 'What is the best way to see the Big Buddha?',
-        answer: 'The Big Buddha is best visited in the early morning to avoid the heat and crowds. A private half-day tour that combines it with Wat Chalong is the most efficient way to see both landmarks comfortably.'
+        answer: 'The [Big Buddha](/thailand/phuket/big-buddha-phuket) is best visited in the early morning (before 9 AM) to avoid the heat and crowds. The 45-meter white marble statue sits atop Nakkerd Hills and offers breathtaking 360-degree panoramic views of the island and the Andaman Sea. A private half-day tour that combines it with [Wat Chalong](/thailand/phuket/wat-chalong) — the island\'s largest and most important temple — is the most efficient way to see both spiritual landmarks comfortably. Dress modestly (cover shoulders and knees) as both are active places of worship. See our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for more practical tips.'
       },
       {
         question: 'Are the elephant tours ethical?',
-        answer: 'Yes, at AsiaByLocals, we only partner with reputable sanctuaries that follow strict ethical guidelines: no riding, no performances, and a focus on animal welfare and education.'
+        answer: 'Yes, at AsiaByLocals, we only partner with reputable elephant sanctuaries in Phuket that follow strict ethical guidelines: **no riding**, **no performances**, and a complete focus on animal welfare, rehabilitation, and education. Visitors can feed, walk with, and bathe elephants in their natural jungle habitat. Thailand has made significant progress in transitioning from exploitative elephant camps to ethical sanctuaries. Our vetted [experiences in Phuket](/thailand/phuket/things-to-do-in-phuket) ensure your visit directly supports conservation efforts and the well-being of rescued elephants.'
       },
       {
-        question: 'What should I pack for a boat tour?',
-        answer: 'Pack sunscreen, a hat, sunglasses, swimwear, a change of clothes, and a waterproof bag for your phone and camera. Most boat tours provide snorkeling gear, life jackets, and towels.'
+        question: 'What should I pack for a Phuket boat tour?',
+        answer: 'For any [island-hopping tour](/thailand/phuket/phuket-island-hopping) or [Phi Phi speedboat day trip](/thailand/phuket/phi-phi-khai-islands-speedboat-tour-with-lunch), pack reef-safe sunscreen (SPF 50+), a wide-brim hat, polarized sunglasses, swimwear, a quick-dry change of clothes, and a waterproof bag or pouch for your phone and camera. Most boat tours provide snorkeling gear, life jackets, towels, and a buffet lunch. Bring motion sickness medication if you\'re prone to seasickness — speedboats can be bumpy during monsoon season (May–October). Cash (200–500 Baht) is useful for national park entry fees at [Phi Phi](/thailand/phuket/phi-phi-islands) and drinks on board.'
       },
       {
         question: 'Is Phuket safe for solo female travelers?',
-        answer: 'Absolutely. Phuket is a very safe destination for solo female travelers. Our private tours with vetted local guides provide an extra layer of comfort and security.'
+        answer: 'Absolutely. Phuket is one of Southeast Asia\'s safest destinations for solo female travelers, with a well-developed tourism infrastructure, friendly locals, and a strong police presence in tourist areas. Our private [guided tours](/thailand/phuket/things-to-do-in-phuket) with vetted local guides provide an extra layer of comfort and security. Patong, Kata, and Karon beaches are the most popular and well-lit areas. [Phuket Old Town](/thailand/phuket/phuket-old-town) is particularly charming and safe for solo exploration during the day. Standard travel precautions apply: use registered transport, avoid isolated beaches at night, and keep valuables secure. Check our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for more safety tips.'
       },
       {
         question: 'Can I customize my Phuket tour?',
-        answer: 'Yes! All our private tours are fully customizable. Whether you want to spend more time at a specific beach or add a stop at a local cafe, our guides are happy to tailor the itinerary.'
+        answer: 'Yes! All our private [tours in Phuket](/thailand/phuket/things-to-do-in-phuket) are fully customizable to your interests and schedule. Whether you want to spend extra time snorkeling at [Phi Phi](/thailand/phuket/phi-phi-islands), add a stop at a hidden viewpoint, combine [Big Buddha](/thailand/phuket/big-buddha-phuket) with a cooking class, or create a multi-day [island-hopping](/thailand/phuket/phuket-island-hopping) adventure — our local guides are happy to tailor the itinerary. For luxury experiences, consider our [private yacht cruises](/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay) with bespoke routes. Simply message us your preferences and we\'ll craft a personalized plan.'
+      },
+      {
+        question: 'When is the best time to visit Phuket?',
+        answer: 'The best time to visit Phuket is during the **dry season from November to April**, with December to March being the peak period offering clear skies, calm seas, and perfect conditions for [island-hopping](/thailand/phuket/phuket-island-hopping) and [Phi Phi boat tours](/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling). The monsoon season (May–October) brings heavier rain and rougher seas, though prices are significantly lower and the island is less crowded. Many [Phang Nga Bay tours](/thailand/phuket/phang-nga-bay) still operate year-round as the bay is more sheltered. See our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for month-by-month weather details.'
+      },
+      {
+        question: 'How many days do I need in Phuket?',
+        answer: 'We recommend **4 to 5 days** for a well-rounded Phuket trip. Day 1: Explore [Phuket Old Town](/thailand/phuket/phuket-old-town) and visit [Wat Chalong](/thailand/phuket/wat-chalong). Day 2: Full-day [Phi Phi Islands speedboat tour](/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling). Day 3: [Phang Nga Bay & James Bond Island](/thailand/phuket/james-bond-island-speedboat-tour-phuket) adventure. Day 4: [Big Buddha](/thailand/phuket/big-buddha-phuket) and beach relaxation. Day 5: [Island hopping](/thailand/phuket/phuket-island-hopping) or ethical elephant sanctuary visit. If short on time, our [1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) maximizes the highlights into a single action-packed day.'
+      },
+      {
+        question: 'What is the James Bond Island tour like?',
+        answer: '[James Bond Island](/thailand/phuket/james-bond-island-phuket) (Khao Phing Kan) is one of Phuket\'s most iconic excursions. Made world-famous by the 1974 film "The Man with the Golden Gun," the island features a dramatic needle-shaped limestone rock rising from the emerald waters of [Phang Nga Bay](/thailand/phuket/phang-nga-bay). Our [James Bond Island speedboat tour](/thailand/phuket/james-bond-island-speedboat-tour-phuket) includes canoeing through hidden sea caves, visiting the floating Muslim village of Koh Panyee, swimming in secluded lagoons, and a Thai lunch. We recommend booking the early departure to beat the crowds and capture the best photos in soft morning light.'
+      },
+      {
+        question: 'What is there to do in Phuket besides beaches?',
+        answer: 'Phuket offers a rich cultural tapestry beyond its famous beaches. Visit the [Big Buddha](/thailand/phuket/big-buddha-phuket) for panoramic views, explore the colonial charm of [Phuket Old Town](/thailand/phuket/phuket-old-town), discover the sacred [Wat Chalong](/thailand/phuket/wat-chalong) temple complex, and sample authentic Phuket street food at local markets. Nature lovers can trek through Khao Phra Thaeo National Park to see the Bang Pae Waterfall. Adventure seekers can go zip-lining through the jungle canopy, visit ethical elephant sanctuaries, or try ATV riding. Browse our complete [things to do in Phuket](/thailand/phuket/things-to-do-in-phuket) guide for the full list of experiences.'
+      },
+      {
+        question: 'Can I combine Phuket with a Bangkok trip?',
+        answer: 'Absolutely! A **Phuket + Bangkok combo** is one of the most popular Thailand itineraries. Direct flights between Phuket and [Bangkok](/thailand/bangkok) take just 1 hour 20 minutes, with multiple daily departures from carriers like Thai AirAsia, Bangkok Airways, and Thai Lion Air. We recommend spending 3–4 days in Phuket for [island tours](/thailand/phuket/phuket-island-hopping) and beach activities, then 2–3 days in [Bangkok](/thailand/bangkok) for temples, street food, and cultural experiences. Our local guides operate in both cities, making it easy to plan a seamless itinerary across both destinations.'
+      },
+      {
+        question: 'Do I need travel insurance for Phuket water activities?',
+        answer: 'We **strongly recommend** comprehensive travel insurance that specifically covers water sports and activities before booking any [boat tour](/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling), [island-hopping excursion](/thailand/phuket/phuket-island-hopping), or snorkeling trip in Phuket. While all our tours carry safety equipment and are led by experienced crews, incidents can happen — and Thai hospital bills can be substantial without coverage. Ensure your policy covers: emergency medical evacuation, scuba/snorkeling accidents, personal belongings, and trip cancellation (especially during monsoon season May–October). See our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for recommended insurance providers.'
+      },
+      {
+        question: 'Are private yacht tours worth it in Phuket?',
+        answer: 'Private yacht tours offer the most premium and exclusive way to explore Phuket\'s islands. Unlike shared speedboat tours, a [private yacht cruise](/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay) lets you set your own pace, visit beaches before or after the crowds, enjoy onboard dining, and swim in secluded spots inaccessible to larger vessels. Our [catamaran charters](/thailand/phuket/phuket-private-yacht-catamaran-charter-island-hopping) include professional crew, snorkeling equipment, gourmet lunch, and unlimited soft drinks. They\'re ideal for couples, families, and small groups who want privacy and flexibility. Most yacht tours visit [Phi Phi Islands](/thailand/phuket/phi-phi-islands), Coral Island, or the Racha Islands depending on your preference.'
       }
     ]
   }
@@ -1318,37 +1346,107 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
       {
         title: 'Phuket: Phi Phi Islands, Maya Bay & Khai Islands Speedboat Tour',
         image: '/things-to-do/phuket-phi-phi.jpg',
-        shortDescription: 'Explore the world-famous Phi Phi Islands, swim in the turquoise waters of Maya Bay, and relax on the white sands of Khai Island on a full-day speedboat adventure.',
-        fullDescription: 'Discover the stunning beauty of the Phi Phi Islands on a full-day speedboat tour from Phuket. Visit Maya Bay, made famous by the movie "The Beach," and swim in the emerald waters of Loh Samah Bay. Explore Viking Cave and see the playful monkeys at Monkey Beach. Enjoy a delicious buffet lunch on Phi Phi Don and spend the afternoon snorkeling among colorful coral reefs and tropical fish at Khai Island. This tour offers the perfect blend of relaxation, adventure, and breathtaking scenery.',
-        seoKeywords: ['Phi Phi Islands', 'Maya Bay', 'speedboat tour', 'snorkeling Phuket', 'Khai Island']
+        shortDescription: 'Explore the world-famous [Phi Phi Islands](/thailand/phuket/phi-phi-islands), swim in the turquoise waters of Maya Bay, and relax on the white sands of Khai Island on a full-day speedboat adventure from Phuket.',
+        fullDescription: 'Discover the stunning beauty of the [Phi Phi Islands](/thailand/phuket/phi-phi-islands) on a full-day speedboat tour from Phuket. Visit Maya Bay, made famous by the movie "The Beach," and swim in the emerald waters of Loh Samah Bay. Explore Viking Cave and see the playful monkeys at Monkey Beach. Enjoy a delicious buffet lunch on Phi Phi Don and spend the afternoon snorkeling among colorful coral reefs and tropical fish at Khai Island. This tour offers the perfect blend of relaxation, adventure, and breathtaking scenery. For an upgrade, consider a [private yacht cruise to Phi Phi](/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay). Check our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for more planning tips.',
+        seoKeywords: ['Phi Phi Islands', 'Maya Bay', 'speedboat tour', 'snorkeling Phuket', 'Khai Island'],
+        faqs: [
+          {
+            q: 'How long is the Phi Phi Islands speedboat tour from Phuket?',
+            a: 'The full-day [Phi Phi Islands speedboat tour](/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling) typically lasts **8–9 hours** including hotel transfers. Speedboats depart around 8:00 AM from Royal Phuket Marina and return by 4:30–5:00 PM. The ride to Phi Phi takes approximately 45 minutes, which is significantly faster than traditional longtail boats. This gives you maximum time on the islands for snorkeling, beach exploration, and a buffet lunch on Phi Phi Don.'
+          },
+          {
+            q: 'Is Maya Bay currently open to tourists?',
+            a: 'Yes, Maya Bay reopened in 2022 after a multi-year closure for ecological recovery. However, there are **strict visitor limits** (no more than 300 people at a time) and swimming inside the bay is no longer permitted to protect the coral. You can walk on the beach and take photos, but snorkeling happens at nearby Loh Samah Bay instead. Our [Phi Phi tour](/thailand/phuket/phi-phi-khai-islands-speedboat-tour-with-lunch) is timed to arrive before the large tour boats, giving you the best experience with fewer crowds.'
+          },
+          {
+            q: 'Can I do a private Phi Phi tour instead of a group speedboat?',
+            a: 'Absolutely! For a premium, crowd-free experience, our [private yacht cruise to Phi Phi & Maya Bay](/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay) offers a fully customizable itinerary with onboard dining, professional crew, and snorkeling gear. You set the pace, visit beaches before or after the group boats arrive, and enjoy sunset cocktails on deck. It is ideal for couples, families, or small groups wanting total privacy and flexibility.'
+          }
+        ]
       },
       {
         title: 'Phuket: Phang Nga Bay & James Bond Island Canoe Tour',
         image: '/things-to-do/phuket-james-bond.jpg',
-        shortDescription: 'Journey through the spectacular limestone karts of Phang Nga Bay, visit the iconic James Bond Island, and explore hidden sea caves by canoe.',
-        fullDescription: 'Experience the magical landscape of Phang Nga Bay on a full-day tour from Phuket. Visit Khao Phing Kan, popularly known as James Bond Island for its role in "The Man with the Golden Gun." Navigate through the emerald waters in a sturdy canoe, exploring hidden sea caves and mangroves at Hong Island. Visit the unique floating village of Koh Panyee, built entirely on stilts. Enjoy a traditional Thai lunch and relax on a secluded beach. This tour showcases the unique geology and culture of one of Thailand\'s most beautiful national parks.',
-        seoKeywords: ['James Bond Island', 'Phang Nga Bay', 'canoe tour', 'Koh Panyee', 'limestone karsts']
+        shortDescription: 'Journey through the spectacular limestone karsts of [Phang Nga Bay](/thailand/phuket/phang-nga-bay), visit the iconic [James Bond Island](/thailand/phuket/james-bond-island-phuket), and explore hidden sea caves by canoe.',
+        fullDescription: 'Experience the magical landscape of [Phang Nga Bay](/thailand/phuket/phang-nga-bay) on a full-day tour from Phuket. Visit Khao Phing Kan, popularly known as [James Bond Island](/thailand/phuket/james-bond-island-phuket) for its role in "The Man with the Golden Gun." Navigate through the emerald waters in a sturdy canoe, exploring hidden sea caves and mangroves at Hong Island. Visit the unique floating village of Koh Panyee, built entirely on stilts. Enjoy a traditional Thai lunch and relax on a secluded beach. This tour showcases the unique geology and culture of one of Thailand\'s most beautiful national parks. Combine this with a [Phi Phi Islands day trip](/thailand/phuket/phi-phi-islands) for the ultimate Phuket island experience.',
+        seoKeywords: ['James Bond Island', 'Phang Nga Bay', 'canoe tour', 'Koh Panyee', 'limestone karsts'],
+        faqs: [
+          {
+            q: 'What makes James Bond Island so famous?',
+            a: '[James Bond Island](/thailand/phuket/james-bond-island-phuket) (Khao Phing Kan) became world-famous after appearing in the 1974 James Bond film "The Man with the Golden Gun." The island\'s signature feature is the 20-meter tall needle-shaped limestone rock called **Ko Tapu** rising dramatically from the emerald waters of [Phang Nga Bay](/thailand/phuket/phang-nga-bay). Today it is a protected part of Ao Phang Nga National Park and one of the most photographed landmarks in all of Thailand.'
+          },
+          {
+            q: 'Is the canoe portion of the tour safe for non-swimmers?',
+            a: 'Yes, the canoeing is completely safe for non-swimmers. You sit comfortably while an **experienced paddler navigates** the canoe through the calm, sheltered waters of the sea caves and mangroves. Life jackets are provided and mandatory. The water in the caves and lagoons is shallow and calm, making this a relaxing rather than adventurous activity. Our [James Bond Island speedboat tour](/thailand/phuket/james-bond-island-speedboat-tour-phuket) includes all safety equipment.'
+          },
+          {
+            q: 'Can I combine James Bond Island with Phi Phi in one day?',
+            a: 'While both are bucket-list destinations, we recommend dedicating a **separate day to each** for the best experience. [Phang Nga Bay](/thailand/phuket/phang-nga-bay) and [Phi Phi Islands](/thailand/phuket/phi-phi-islands) are in opposite directions from Phuket, and combining them would mean rushing through both. If you have limited time, our [Phuket 1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) can help you choose based on your interests.'
+          }
+        ]
       },
       {
         title: 'Phuket: Old Town Heritage Walk & Street Food Discovery',
         image: '/things-to-do/phuket-old-town.jpg',
-        shortDescription: 'Step back in time with a walk through Phuket Old Town\'s colorful Sino-Portuguese streets. Discover hidden temples, local markets, and sample authentic Phuket street food.',
-        fullDescription: 'Immerse yourself in the rich history and vibrant culture of Phuket Old Town. Stroll past beautifully preserved Sino-Portuguese mansions, colorful shophouses, and intricate murals while learning about the island\'s tin-mining heritage. Visit hidden Chinese temples and the bustling local market. Your expert guide will lead you to the best street food stalls to sample authentic Phuket dishes like Hokkien mee, Moo Hong, and traditional Thai desserts. This tour is a feast for the senses and a deep dive into the island\'s unique cultural tapestry.',
-        seoKeywords: ['Phuket Old Town', 'heritage walk', 'street food', 'Sino-Portuguese architecture', 'cultural tour']
+        shortDescription: 'Step back in time with a walk through [Phuket Old Town\'s](/thailand/phuket/phuket-old-town) colorful Sino-Portuguese streets. Discover hidden temples, local markets, and sample authentic Phuket street food.',
+        fullDescription: 'Immerse yourself in the rich history and vibrant culture of [Phuket Old Town](/thailand/phuket/phuket-old-town). Stroll past beautifully preserved Sino-Portuguese mansions, colorful shophouses, and intricate murals while learning about the island\'s tin-mining heritage. Visit hidden Chinese temples and the bustling local market. Your expert guide will lead you to the best street food stalls to sample authentic Phuket dishes like Hokkien mee, Moo Hong, and traditional Thai desserts. This tour is a feast for the senses and a deep dive into the island\'s unique cultural tapestry. Combine with a visit to [Wat Chalong](/thailand/phuket/wat-chalong) and the [Big Buddha](/thailand/phuket/big-buddha-phuket) for a complete cultural day.',
+        seoKeywords: ['Phuket Old Town', 'heritage walk', 'street food', 'Sino-Portuguese architecture', 'cultural tour'],
+        faqs: [
+          {
+            q: 'When is the best time to visit Phuket Old Town?',
+            a: '[Phuket Old Town](/thailand/phuket/phuket-old-town) is best explored in the **morning (9 AM–12 PM)** before the midday heat, or in the late afternoon when the light is perfect for photographing the colorful Sino-Portuguese facades. If you visit on a **Sunday evening**, don\'t miss the famous Thalang Road Walking Street Market with hundreds of food stalls and local craft vendors. Weekdays are quieter and better for photography.'
+          },
+          {
+            q: 'What foods should I try in Phuket Old Town?',
+            a: 'Phuket has a unique culinary identity distinct from mainland Thai cuisine. Must-try dishes include **Hokkien mee** (stir-fried noodles with shrimp and pork), **Moo Hong** (slow-braised pork belly in Chinese five-spice), **Oh Tao** (oyster omelette), and **Khanom Jeen** (rice noodles with curry). For dessert, try the iconic **Ang Ku Kuih** (red tortoise cake). These are all available from street vendors and hole-in-the-wall cafes during our heritage walk.'
+          },
+          {
+            q: 'Can I combine Old Town with other Phuket sightseeing?',
+            a: 'Absolutely! [Phuket Old Town](/thailand/phuket/phuket-old-town) pairs perfectly with a morning visit to [Wat Chalong](/thailand/phuket/wat-chalong) followed by lunch in Old Town, then an afternoon trip to the [Big Buddha](/thailand/phuket/big-buddha-phuket) for sunset views. See our [things to do in Phuket](/thailand/phuket/things-to-do-in-phuket) guide for suggested combination routes.'
+          }
+        ]
       },
       {
         title: 'Phuket: Big Buddha & Wat Chalong Private Half-Day Tour',
         image: '/things-to-do/phuket-big-buddha.jpg',
-        shortDescription: 'Visit Phuket\'s most iconic spiritual landmarks: the majestic 45-meter tall Big Buddha and the stunning Wat Chalong, the island\'s largest and most important temple.',
-        fullDescription: 'Discover the spiritual heart of Phuket on a private half-day tour. Ascend the Nakkerd Hills to visit the Big Buddha, a massive white marble statue that offers breathtaking 360-degree views of the island and the Andaman Sea. Then, visit Wat Chalong, the island\'s most revered temple, known for its beautiful architecture and many golden statues of Buddhist monks. Explore the Grand Pagoda, which is said to house a fragment of Lord Buddha\'s bone. This tour provides a peaceful and insightful look at Thai Buddhism and the island\'s religious traditions.',
-        seoKeywords: ['Big Buddha Phuket', 'Wat Chalong', 'spiritual landmarks', 'panoramic views', 'religious heritage']
+        shortDescription: 'Visit Phuket\'s most iconic spiritual landmarks: the majestic 45-meter tall [Big Buddha](/thailand/phuket/big-buddha-phuket) and the stunning [Wat Chalong](/thailand/phuket/wat-chalong), the island\'s largest and most important temple.',
+        fullDescription: 'Discover the spiritual heart of Phuket on a private half-day tour. Ascend the Nakkerd Hills to visit the [Big Buddha](/thailand/phuket/big-buddha-phuket), a massive white marble statue that offers breathtaking 360-degree views of the island and the Andaman Sea. Then, visit [Wat Chalong](/thailand/phuket/wat-chalong), the island\'s most revered temple, known for its beautiful architecture and many golden statues of Buddhist monks. Explore the Grand Pagoda, which is said to house a fragment of Lord Buddha\'s bone. This tour provides a peaceful and insightful look at Thai Buddhism and the island\'s religious traditions. Pair with an afternoon in [Phuket Old Town](/thailand/phuket/phuket-old-town) for a full cultural day.',
+        seoKeywords: ['Big Buddha Phuket', 'Wat Chalong', 'spiritual landmarks', 'panoramic views', 'religious heritage'],
+        faqs: [
+          {
+            q: 'What should I wear to visit the Big Buddha and Wat Chalong?',
+            a: 'Both the [Big Buddha](/thailand/phuket/big-buddha-phuket) and [Wat Chalong](/thailand/phuket/wat-chalong) are **active places of worship**, so modest dress is required. Cover your shoulders and knees — no tank tops, short shorts, or revealing clothing. Sarongs are available to borrow at both sites if needed. Shoes must be removed before entering temple buildings. Our guides always remind you of dress code requirements before each stop.'
+          },
+          {
+            q: 'Is the Big Buddha free to visit?',
+            a: 'Yes, entry to the [Big Buddha](/thailand/phuket/big-buddha-phuket) is **completely free** as it is a working religious site. However, donations are welcomed and go toward the ongoing construction and maintenance of the complex (it has been under construction since 2004). There is a small souvenir shop at the base. The scenic hilltop drive up to the site is part of the experience, with stunning views along the way.'
+          },
+          {
+            q: 'How long does this half-day tour take?',
+            a: 'The private half-day tour typically lasts **3.5 to 4 hours** including hotel pickup and drop-off. You\'ll spend roughly 45 minutes at [Wat Chalong](/thailand/phuket/wat-chalong) and 1 hour at the [Big Buddha](/thailand/phuket/big-buddha-phuket), with travel time between stops. This leaves the rest of your day free for an afternoon [island-hopping](/thailand/phuket/phuket-island-hopping) excursion, beach time, or exploring [Phuket Old Town](/thailand/phuket/phuket-old-town).'
+          }
+        ]
       },
       {
         title: 'Phuket: Elephant Jungle Sanctuary Ethical Experience',
         image: '/things-to-do/phuket-elephant.jpg',
         shortDescription: 'Spend a meaningful day with rescued elephants in a natural jungle environment. Learn about elephant conservation, feed them, and enjoy a mud spa with these gentle giants.',
-        fullDescription: 'Visit the Elephant Jungle Sanctuary Phuket for an ethical and educational experience with rescued elephants. Learn about the history and behavior of these majestic creatures and the importance of conservation efforts in Thailand. Spend time interacting with the elephants in a respectful way—feed them their favorite snacks, walk with them through the jungle, and join them for a traditional mud spa and a refreshing bath in a natural pond. This "no-riding" sanctuary ensures the welfare and happiness of the elephants while providing visitors with an unforgettable connection to nature.',
-        seoKeywords: ['ethical elephant sanctuary', 'elephant conservation', 'Phuket wildlife', 'nature experience', 'no-riding sanctuary']
+        fullDescription: 'Visit the Elephant Jungle Sanctuary Phuket for an ethical and educational experience with rescued elephants. Learn about the history and behavior of these majestic creatures and the importance of conservation efforts in Thailand. Spend time interacting with the elephants in a respectful way—feed them their favorite snacks, walk with them through the jungle, and join them for a traditional mud spa and a refreshing bath in a natural pond. This **"no-riding" sanctuary** ensures the welfare and happiness of the elephants while providing visitors with an unforgettable connection to nature. See all our [experiences in Phuket](/thailand/phuket/things-to-do-in-phuket) for more unique activities.',
+        seoKeywords: ['ethical elephant sanctuary', 'elephant conservation', 'Phuket wildlife', 'nature experience', 'no-riding sanctuary'],
+        faqs: [
+          {
+            q: 'Why can\'t you ride the elephants at this sanctuary?',
+            a: 'Elephant riding causes **serious long-term spinal damage** to elephants because their backs are not designed to carry human weight. Ethical sanctuaries worldwide have moved away from riding in favor of observation, feeding, and bathing interactions that allow elephants to behave naturally. Our partner sanctuaries follow strict **"no-riding, no-performance" policies** and focus entirely on rescue, rehabilitation, and education. This ensures your visit directly supports elephant welfare.'
+          },
+          {
+            q: 'Is this experience suitable for children?',
+            a: 'Yes! The Elephant Jungle Sanctuary is a wonderful family-friendly experience suitable for children of all ages. Kids love feeding the elephants bananas and sugarcane, and the mud spa is always a highlight. The sanctuary staff are experienced with families and ensure a safe, supervised environment. Children under 3 may need to be carried during the jungle walk. Combine this with a visit to the [Big Buddha](/thailand/phuket/big-buddha-phuket) for an educational and memorable family day.'
+          },
+          {
+            q: 'What should I bring to the elephant sanctuary?',
+            a: 'Wear clothes you don\'t mind getting muddy (the mud spa is the best part!). Bring a **change of clothes**, towel, insect repellent, and sunscreen. The sanctuary provides elephant food, drinking water, and a traditional Thai lunch. Leave valuables at your hotel as lockers may be limited. Most importantly, bring your camera — but remember to follow staff instructions about flash photography and maintaining a respectful distance from the elephants.'
+          }
+        ]
       }
     ]
   };
