@@ -335,7 +335,7 @@ function SupplierClientContent() {
                   <div className="bg-white border border-gray-100 rounded-2xl overflow-hidden shadow-sm">
                     <div className="relative">
                       <img
-                        src="https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=400"
+                        src="/supplier-tokyo-cityscape.webp"
                         className="w-full h-32 object-cover"
                         alt="Tokyo Tour"
                       />
@@ -416,7 +416,7 @@ function SupplierClientContent() {
                 </div>
                 <div className="rounded-[32px] overflow-hidden shadow-2xl">
                   <img
-                    src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&q=80&w=800"
+                    src="/supplier-group-travelers.webp"
                     alt="Travellers meeting"
                     className="w-full h-[500px] object-cover"
                   />
@@ -429,7 +429,7 @@ function SupplierClientContent() {
               <div className="grid lg:grid-cols-2 gap-8 items-center">
                 <div className="order-2 lg:order-1 rounded-[32px] overflow-hidden shadow-2xl">
                   <img
-                    src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&q=80&w=800"
+                    src="/supplier-team-meeting.webp"
                     alt="Support team"
                     className="w-full h-[500px] object-cover"
                   />
@@ -522,7 +522,7 @@ function SupplierClientContent() {
             <div className="relative reveal flex items-center justify-center" style={{ transitionDelay: '300ms' }}>
               <div className="rounded-[60px] overflow-hidden shadow-2xl relative w-full">
                 <img
-                  src="/japan-pagoda.jpg"
+                  src="/japan-pagoda.webp"
                   className="w-full h-[680px] object-cover"
                   alt="Japanese Pagoda with Cherry Blossoms"
                 />

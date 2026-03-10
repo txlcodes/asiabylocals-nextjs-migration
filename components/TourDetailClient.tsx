@@ -3103,6 +3103,17 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         }
       };
 
+      // Dynamically load Razorpay script only when needed (not on every page)
+      if (!(window as any).Razorpay) {
+        await new Promise<void>((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = 'https://checkout.razorpay.com/v1/checkout.js';
+          script.onload = () => resolve();
+          script.onerror = () => reject(new Error('Failed to load Razorpay SDK'));
+          document.head.appendChild(script);
+        });
+      }
+
       const rzp = new (window as any).Razorpay(options);
 
       // CRITICAL: Store Razorpay instance globally so handler can close it

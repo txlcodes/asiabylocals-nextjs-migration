@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans } from 'next/font/google'
-import Script from 'next/script'
 import Footer from '@/components/Footer'
 import './globals.css'
 
@@ -127,10 +126,6 @@ export default function RootLayout({
         />
       </head>
       <body className={`${plusJakartaSans.variable} font-sans antialiased`}>
-        <Script
-          src="https://checkout.razorpay.com/v1/checkout.js"
-          strategy="lazyOnload"
-        />
         <div id="app-root">
           {children}
           <Footer />

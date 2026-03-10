@@ -29,38 +29,38 @@ interface ExploreItem {
 
 const EXPLORATION_DATA: Record<string, ExploreItem[]> = {
   attractions: [
-    { name: "Taj Mahal, India", count: "112 tours", image: "/taj-mahal-new.jpg" },
-    { name: "Wat Arun, Bangkok", count: "45 tours", image: "/wat-arun-new.jpg" },
-    { name: "Phuket Marine Park", count: "62 tours", image: "/phuket-marine-park-new.jpg" },
-    { name: "Amber Fort, India", count: "42 tours", image: "/amber-fort-new.jpg" },
-    { name: "Hawa Mahal, India", count: "28 tours", image: "/hawa-mahal-new.jpg" },
-    { name: "Red Fort, India", count: "35 tours", image: "/red-fort-new.jpg" },
-    { name: "Qutub Minar, India", count: "22 tours", image: "/qutub-minar-new.jpg" },
-    { name: "City Palace, Jaipur", count: "18 tours", image: "/city-palace-new.jpg" },
-    { name: "Agra Fort, India", count: "65 tours", image: "/agra-fort-new.jpg" },
-    { name: "Humayun's Tomb, India", count: "15 tours", image: "/humayun-tomb-new.jpg" },
-    { name: "Jama Masjid, Delhi", count: "12 tours", image: "/jama-masjid-new.jpg" },
-    { name: "Fatehpur Sikri, Agra", count: "24 tours", image: "/fatehpur-sikri-new.jpg" }
+    { name: "Taj Mahal, India", count: "112 tours", image: "/taj-mahal-new.webp" },
+    { name: "Wat Arun, Bangkok", count: "45 tours", image: "/wat-arun-new.webp" },
+    { name: "Phuket Marine Park", count: "62 tours", image: "/phuket-marine-park-new.webp" },
+    { name: "Amber Fort, India", count: "42 tours", image: "/amber-fort-new.webp" },
+    { name: "Hawa Mahal, India", count: "28 tours", image: "/hawa-mahal-new.webp" },
+    { name: "Red Fort, India", count: "35 tours", image: "/red-fort-new.webp" },
+    { name: "Qutub Minar, India", count: "22 tours", image: "/qutub-minar-new.webp" },
+    { name: "City Palace, Jaipur", count: "18 tours", image: "/city-palace-new.webp" },
+    { name: "Agra Fort, India", count: "65 tours", image: "/agra-fort-new.webp" },
+    { name: "Humayun's Tomb, India", count: "15 tours", image: "/humayun-tomb-new.webp" },
+    { name: "Jama Masjid, Delhi", count: "12 tours", image: "/jama-masjid-new.webp" },
+    { name: "Fatehpur Sikri, Agra", count: "24 tours", image: "/fatehpur-sikri-new.webp" }
   ],
   destinations: [
-    { name: "Agra, India", count: "145 tours", image: "/agra-hero.jpg" },
-    { name: "Delhi, India", count: "156 tours", image: "/delhi-home.jpg" },
-    { name: "Jaipur, India", count: "89 tours", image: "/jaipur-hero.jpg" },
-    { name: "Phuket, Thailand", count: "124 tours", image: "/phuket-hero.jpg" },
-    { name: "Kyoto, Japan", count: "98 tours", image: "/kyoto-hero.jpg" },
-    { name: "Bangkok, Thailand", count: "210 tours", image: "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&q=80&w=400" }
+    { name: "Agra, India", count: "145 tours", image: "/agra-hero.webp" },
+    { name: "Delhi, India", count: "156 tours", image: "/delhi-home.webp" },
+    { name: "Jaipur, India", count: "89 tours", image: "/jaipur-hero.webp" },
+    { name: "Phuket, Thailand", count: "124 tours", image: "/phuket-hero.webp" },
+    { name: "Kyoto, Japan", count: "98 tours", image: "/kyoto-hero.webp" },
+    { name: "Bangkok, Thailand", count: "210 tours", image: "/bangkok-hero.webp" }
   ],
   countries: [
-    { name: "India", count: "512 tours", image: "/delhi-home.jpg" },
-    { name: "Japan", count: "342 tours", image: "/japan-pagoda.jpg" },
-    { name: "Thailand", count: "421 tours", image: "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=400" },
-    { name: "Vietnam", count: "289 tours", image: "/hanoi-hero.jpg" }
+    { name: "India", count: "512 tours", image: "/delhi-home.webp" },
+    { name: "Japan", count: "342 tours", image: "/japan-pagoda.webp" },
+    { name: "Thailand", count: "421 tours", image: "/bangkok-hero.webp" },
+    { name: "Vietnam", count: "289 tours", image: "/hanoi-hero.webp" }
   ],
   categories: [
-    { name: "Heritage Walks", count: "1,245 tours", image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&q=80&w=400" },
-    { name: "Street Food Safaris", count: "2,150 tours", image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=400" },
-    { name: "Sacred Temples", count: "560 tours", image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&q=80&w=400" },
-    { name: "Historical Walks", count: "670 tours", image: "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=400" }
+    { name: "Heritage Walks", count: "1,245 tours", image: "/agra-hero.webp" },
+    { name: "Street Food Safaris", count: "2,150 tours", image: "/delhi-home.webp" },
+    { name: "Sacred Temples", count: "560 tours", image: "/wat-arun-new.webp" },
+    { name: "Historical Walks", count: "670 tours", image: "/taj-mahal-new.webp" }
   ]
 };
 
@@ -201,46 +201,46 @@ const ExplorationFooter: React.FC = () => {
 // ── Hero Images ──────────────────────────────────────────────────────
 
 const HERO_IMAGES = [
-  { url: '/kyoto-hero.jpg', city: 'Kyoto' },
-  { url: '/tokyo-hero.jpg', city: 'Tokyo' },
-  { url: '/agra-hero.jpg', city: 'Agra' },
-  { url: 'https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=2000', city: 'Bangkok' },
-  { url: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=2000', city: 'Bali' },
-  { url: '/dubai-hero.jpg', city: 'Dubai' },
-  { url: '/yu-kato-hero.jpg', city: 'Asia' },
-  { url: '/tianshu-liu-hero.jpg', city: 'Asia' },
-  { url: '/rafa-prada-hero.jpg', city: 'Asia' },
-  { url: '/soroush-zargarbashi-hero.jpg', city: 'Asia' }
+  { url: '/kyoto-hero.webp', city: 'Kyoto' },
+  { url: '/tokyo-hero.webp', city: 'Tokyo' },
+  { url: '/agra-hero.webp', city: 'Agra' },
+  { url: '/bangkok-hero.webp', city: 'Bangkok' },
+  { url: '/bali-hero.webp', city: 'Bali' },
+  { url: '/dubai-hero.webp', city: 'Dubai' },
+  { url: '/yu-kato-hero.webp', city: 'Asia' },
+  { url: '/tianshu-liu-hero.webp', city: 'Asia' },
+  { url: '/rafa-prada-hero.webp', city: 'Asia' },
+  { url: '/soroush-zargarbashi-hero.webp', city: 'Asia' }
 ];
 
 // ── City guides data for "Trip inspiration" dropdown ─────────────────
 
 const CITY_GUIDES = [
-  { name: 'Tokyo', image: '/tokyo-hero.jpg' },
-  { name: 'Kyoto', image: '/kyoto-hero.jpg' },
-  { name: 'Osaka', image: '/osaka-hero.jpg' },
-  { name: 'Bangkok', image: 'https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Dubai', image: '/dubai-hero.jpg' },
-  { name: 'Singapore', image: 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Seoul', image: 'https://images.unsplash.com/photo-1517154421773-0529f29ea451?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Hong Kong', image: 'https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Kuala Lumpur', image: '/kuala-lumpur-hero.jpg' },
-  { name: 'Taipei', image: '/taipei-hero.jpg' },
-  { name: 'Bali', image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Agra', image: '/agra-hero.jpg' },
-  { name: 'Mumbai', image: 'https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Delhi', image: 'https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Hanoi', image: '/hanoi-hero.jpg' },
-  { name: 'Ho Chi Minh City', image: 'https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Chiang Mai', image: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Phuket', image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Krabi', image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Manila', image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Jakarta', image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Shanghai', image: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Beijing', image: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Colombo', image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=200' },
-  { name: 'Kathmandu', image: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&q=80&w=200' }
+  { name: 'Tokyo', image: '/tokyo-hero.webp' },
+  { name: 'Kyoto', image: '/kyoto-hero.webp' },
+  { name: 'Osaka', image: '/osaka-hero.webp' },
+  { name: 'Bangkok', image: '/cities-images/bangkok.webp' },
+  { name: 'Dubai', image: '/dubai-hero.webp' },
+  { name: 'Singapore', image: '/cities-images/singapore.webp' },
+  { name: 'Seoul', image: '/cities-images/seoul.webp' },
+  { name: 'Hong Kong', image: '/cities-images/hongkong.webp' },
+  { name: 'Kuala Lumpur', image: '/kuala-lumpur-hero.webp' },
+  { name: 'Taipei', image: '/taipei-hero.webp' },
+  { name: 'Bali', image: '/cities-images/bali.webp' },
+  { name: 'Agra', image: '/agra-hero.webp' },
+  { name: 'Mumbai', image: '/cities-images/mumbai.webp' },
+  { name: 'Delhi', image: '/cities-images/delhi.webp' },
+  { name: 'Hanoi', image: '/hanoi-hero.webp' },
+  { name: 'Ho Chi Minh City', image: '/cities-images/ho-chi-minh-city.webp' },
+  { name: 'Chiang Mai', image: '/cities-images/chiang-mai.webp' },
+  { name: 'Phuket', image: '/cities-images/phuket.webp' },
+  { name: 'Krabi', image: '/cities-images/phuket.webp' },
+  { name: 'Manila', image: '/manila-hero.webp' },
+  { name: 'Jakarta', image: '/cities-images/bali.webp' },
+  { name: 'Shanghai', image: '/cities-images/shanghai.webp' },
+  { name: 'Beijing', image: '/beijing-hero.webp' },
+  { name: 'Colombo', image: '/colombo-hero.webp' },
+  { name: 'Kathmandu', image: '/kathmandu-hero.webp' }
 ];
 
 const CITY_GUIDE_ID_MAP: Record<string, string> = {
@@ -467,7 +467,7 @@ export default function HomepageClient() {
                           const url = getCityUrl(city.name, cityId);
                           return (
                             <Link key={idx} href={url} className="flex flex-col items-center gap-1.5 cursor-pointer p-1.5 rounded-lg hover:bg-[#10B981]/10 group/guide">
-                              <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" />
+                              <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
                               <div className="font-semibold text-[#001A33] text-[10px] text-center leading-tight group-hover/guide:text-[#10B981]">{city.name} Travel Guide</div>
                             </Link>
                           );
@@ -627,7 +627,7 @@ export default function HomepageClient() {
                         onClick={() => setShowMobileInspirationDropdown(false)}
                         className="flex flex-col items-center gap-1.5 p-2 rounded-lg hover:bg-gray-50 transition-colors min-h-[44px]"
                       >
-                        <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" />
+                        <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
                         <div className="font-semibold text-[#001A33] text-[10px] text-center leading-tight">{city.name} Travel Guide</div>
                       </Link>
                     );
@@ -641,16 +641,23 @@ export default function HomepageClient() {
 
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
-        {HERO_IMAGES.map((hero, index) => (
-          <img
-            key={index}
-            src={hero.url}
-            alt={`${hero.city} - Authentic local tours and cultural experiences in ${hero.city}, Asia`}
-            className={`absolute inset-0 w-full h-full object-cover object-center brightness-[0.7] transition-opacity duration-1000 ${index === currentImageIndex ? 'opacity-100 z-0' : 'opacity-0 z-0'}`}
-            style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
-            loading={index === 0 ? 'eager' : 'lazy'}
-          />
-        ))}
+        {HERO_IMAGES.map((hero, index) => {
+          // Only render current slide and next slide (for smooth transition)
+          const nextIndex = (currentImageIndex + 1) % HERO_IMAGES.length;
+          const shouldRender = index === currentImageIndex || index === nextIndex;
+          if (!shouldRender) return null;
+          return (
+            <img
+              key={index}
+              src={hero.url}
+              alt={`${hero.city} - Authentic local tours and cultural experiences in ${hero.city}, Asia`}
+              className={`absolute inset-0 w-full h-full object-cover object-center brightness-[0.7] transition-opacity duration-1000 ${index === currentImageIndex ? 'opacity-100 z-0' : 'opacity-0 z-0'}`}
+              style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
+              loading={index === currentImageIndex ? 'eager' : 'lazy'}
+              fetchPriority={index === currentImageIndex ? 'high' : 'low'}
+            />
+          );
+        })}
         <div className="absolute inset-0 hero-overlay z-10"></div>
 
         <div className="relative z-10 w-full max-w-[800px] px-1 md:px-6 text-center">
@@ -791,7 +798,7 @@ export default function HomepageClient() {
           <div className="flex gap-4 overflow-x-auto no-scrollbar pb-4">
             {ATTRACTIONS.map((attr) => (
               <div key={attr.id} className="group flex-shrink-0 w-72 md:w-[380px] h-48 rounded-2xl overflow-hidden relative cursor-pointer shadow-sm hover:shadow-lg transition-all">
-                <img src={attr.image} alt={`${attr.title} - Top attraction in ${attr.location}`} className="absolute inset-0 w-full h-full object-cover brightness-75 group-hover:scale-105 transition-transform duration-700" />
+                <img src={attr.image} alt={`${attr.title} - Top attraction in ${attr.location}`} className="absolute inset-0 w-full h-full object-cover brightness-75 group-hover:scale-105 transition-transform duration-700" loading="lazy" width={380} height={192} />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
                   <h4 className="text-white font-black text-xl leading-tight mb-1">{attr.title}</h4>
