@@ -292,7 +292,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: 'Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)',
                     description: 'Planning a visit in 2026 requires understanding the new digital-only ticketing policy and updated fee structures for international and domestic travelers. This guide provides the complete price breakdown and how to avoid overpaying for your entry.',
-                    heroImage: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&q=80&w=1500',
+                    heroImage: '/things-to-do/agra-taj-mahal-sunrise.webp',
                     sections: [
                         {
                             title: "Taj Mahal Ticket Price 2026 (Quick Answer)",
@@ -356,7 +356,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "Article",
                                 "headline": "Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)",
                                 "description": "Official 2026 Taj Mahal ticket price guide. Includes fees for foreign tourists (₹1,300), Indians (₹250), SAARC citizens, and important digital booking rules.",
-                                "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&q=80&w=1500",
+                                "image": "/things-to-do/agra-taj-mahal-sunrise.webp",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-02-25T02:22:00+05:30",
                                 "author": { "@type": "Organization", "name": "AsiaByLocals" }
@@ -403,7 +403,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: 'Taj Mahal Opening & Closing Time (2026): The Definitive Timing Guide',
                     description: 'Knowing the exact opening and closing times for the Taj Mahal can make the difference between a once-in-a-lifetime sunrise experience and standing in a three-hour queue in the heat. This 2026 guide covers seasonal variations, Friday closures, and tactical advice for every visiting window.',
-                    heroImage: 'https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=1500',
+                    heroImage: '/things-to-do/agra-taj-mahal-sunset.webp',
                     sections: [
                         {
                             title: "The Standard Operational Window (2026)",
