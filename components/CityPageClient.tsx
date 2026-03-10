@@ -2058,7 +2058,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         {/* Intro Content - 2-3 Paragraphs (Mandatory for SEO) */}
         <div className="mb-10 space-y-4 text-[16px] text-gray-700 font-semibold leading-relaxed max-w-4xl">
           {cityInfo.intro.map((paragraph, index) => (
-            <p key={index}>
+            <p key={index} className={index > 0 ? 'hidden md:block' : ''}>
               {paragraph.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g).map((part, i) => {
                 if (part.startsWith('**') && part.endsWith('**')) {
                   return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
@@ -2085,7 +2085,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             <h2 className="text-3xl font-black text-[#001A33] mb-6">
               Popular Tours & Experiences in {city}
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
               {sortedTours.map((tour) => {
                 const tourSlug = tour.slug || `tour-${tour.id}`;
                 const hasSkipLine = tour.included && tour.included.toLowerCase().includes('skip');
@@ -2147,11 +2147,11 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <Link
                     key={tour.id}
                     href={`/${countrySlug}/${citySlug}/${tourSlug}`}
-                    className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group"
+                    className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group flex flex-row md:flex-col"
                   >
                     {/* Image Section */}
                     {tour.images && tour.images.length > 0 && (
-                      <div className="relative h-56 overflow-hidden">
+                      <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
                         <img
                           src={tour.images[0]}
                           alt={`${tour.title} in ${city} - ${cityInfo.description}`}
@@ -2164,8 +2164,8 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
                         {/* Top Rated Badge */}
                         {isTopRated && (
-                          <div className="absolute top-3 left-3">
-                            <span className="px-2.5 py-1 bg-[#10B981] text-white text-[10px] font-black rounded-md">
+                          <div className="absolute top-2 left-2 md:top-3 md:left-3">
+                            <span className="px-1.5 py-0.5 md:px-2.5 md:py-1 bg-[#10B981] text-white text-[8px] md:text-[10px] font-black rounded-md">
                               Top rated
                             </span>
                           </div>
@@ -2176,7 +2176,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                             e.preventDefault();
                             e.stopPropagation();
                           }}
-                          className="absolute top-3 right-3 p-2 bg-white/90 hover:bg-white rounded-full transition-colors"
+                          className="absolute top-2 right-2 p-1 md:top-3 md:right-3 md:p-2 bg-white/90 hover:bg-white rounded-full transition-colors"
                         >
                           <Heart size={18} className="text-gray-600" />
                         </button>
@@ -2184,15 +2184,15 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     )}
 
                     {/* Content Section */}
-                    <div className="p-4">
+                    <div className="p-3 md:p-4 flex-1 flex flex-col justify-between">
                       {/* H3 - Tour Title (SEO Gold) */}
-                      <h3 className="text-[16px] font-black text-[#001A33] mb-3 line-clamp-2 group-hover:text-[#10B981] transition-colors leading-tight">
+                      <h3 className="text-[13px] md:text-[16px] font-bold md:font-black text-[#001A33] mb-1 md:mb-3 line-clamp-2 group-hover:text-[#10B981] transition-colors leading-tight">
                         {tour.title}
                       </h3>
 
                       {/* Duration */}
                       {tour.duration && (
-                        <div className="text-[12px] text-gray-500 font-semibold mb-3">
+                        <div className="text-[11px] md:text-[12px] text-gray-500 font-semibold mb-1 md:mb-3">
                           {formatDurationDisplay(tour.duration)}
                         </div>
                       )}
@@ -2205,7 +2205,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                             // Display up to 2-3 tour types to avoid clutter
                             const displayCount = Math.min(tourTypesArray.length, 3);
                             return (
-                              <div className="flex flex-wrap gap-2 mb-3">
+                              <div className="hidden md:flex flex-wrap gap-2 mb-3">
                                 {tourTypesArray.slice(0, displayCount).map((type: string, idx: number) => (
                                   <span
                                     key={idx}
@@ -2229,7 +2229,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                       })()}
 
                       {/* Rating & Activity Provider Row */}
-                      <div className="flex items-center justify-between mb-3">
+                      <div className="flex items-center justify-between mb-1 md:mb-3">
                         {/* Rating */}
                         <div className="flex items-center gap-1.5">
                           <div className="flex items-center gap-0.5">
@@ -2254,14 +2254,14 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                               );
                             })}
                           </div>
-                          <span className="text-[14px] font-black text-[#001A33]">{displayRating}</span>
+                          <span className="text-[12px] md:text-[14px] font-black text-[#001A33]">{displayRating}</span>
                         </div>
                       </div>
 
                       {/* Price Row */}
-                      <div className="flex items-center justify-between pt-2 border-t border-gray-100">
+                      <div className="flex items-center justify-between pt-0 md:pt-2 border-t-0 md:border-t border-gray-100">
                         <div className="text-right w-full">
-                          <div className="text-[18px] font-black text-[#001A33]">
+                          <div className="text-[14px] md:text-[18px] font-black text-[#001A33]">
                             Starting from {tour.currency === 'INR' ? '₹' : '$'}{lowestPrice.toLocaleString()}
                           </div>
                         </div>

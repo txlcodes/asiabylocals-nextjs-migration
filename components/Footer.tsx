@@ -91,7 +91,7 @@ const Footer: React.FC = () => {
                             <span>Instagram</span>
                         </a>
                         <a
-                            href="https://www.facebook.com/people/AsiaBy-Locals/pfbid028wqDK8RvWMsgMnuEtUsHpgYxnQVym36emVTWL4WyPwgVAJKTMUyVT5t48rhU1ao3l/"
+                            href="https://www.facebook.com/people/Asia-By-Locals/61582193274706/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-white transition-colors"
