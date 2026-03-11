@@ -1688,13 +1688,13 @@ ${a(9)}`;
                   </button>
                   <button
                     type="button"
-                    onClick={() => { handleInputChange('category', 'Activity'); setShowCategoryError(false); }}
-                    className={`p-6 rounded-2xl border-2 transition-all text-left ${formData.category === 'Activity'
+                    onClick={() => { handleInputChange('category', 'Activity Tour'); setShowCategoryError(false); }}
+                    className={`p-6 rounded-2xl border-2 transition-all text-left ${formData.category === 'Activity Tour'
                       ? 'border-[#10B981] bg-[#10B981]/5'
                       : 'border-gray-200 hover:border-[#10B981]/50'
                       }`}
                   >
-                    <div className="font-black text-[#001A33] text-[16px] mb-2">Activity</div>
+                    <div className="font-black text-[#001A33] text-[16px] mb-2">Activity Tour</div>
                     <div className="text-[13px] text-gray-600 font-semibold">
                       Snorkeling, scuba diving, boat rides, water sports
                     </div>
