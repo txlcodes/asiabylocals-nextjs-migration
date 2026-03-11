@@ -62,10 +62,23 @@ const TOUR_TYPES = [
   'Safari / Wildlife Tour',
   'Beach / Island Tour',
   'Cruise / Boat Tour',
+  'Snorkeling Tour',
+  'Scuba Diving',
+  'Island Hopping',
+  'Kayaking / Canoeing',
+  'Surfing Lesson',
+  'Speedboat Tour',
+  'Longtail Boat Tour',
+  'Yacht / Sailing Charter',
   'Train / Rail Tour',
   'Spiritual / Pilgrimage Tour',
   'Photography Tour',
+  'Cooking Class',
+  'Wellness / Spa',
+  'Elephant Sanctuary',
+  'Zip-lining / Jungle',
   'Luxury Tour',
+  'Airport Transfer',
   'Custom / Tailor-Made Tour'
 ];
 
@@ -1646,7 +1659,7 @@ ${a(9)}`;
                 {showCategoryError && !formData.category && (
                   <p className="text-red-500 text-[12px] font-bold mb-3 animate-pulse">Please select a tour type to continue</p>
                 )}
-                <div className="grid grid-cols-2 gap-4">
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                   <button
                     type="button"
                     onClick={() => { handleInputChange('category', 'Entry Ticket'); setShowCategoryError(false); }}
@@ -1671,6 +1684,19 @@ ${a(9)}`;
                     <div className="font-black text-[#001A33] text-[16px] mb-2">Guided Tour</div>
                     <div className="text-[13px] text-gray-600 font-semibold">
                       Guided walking tours, day trips with a guide
+                    </div>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => { handleInputChange('category', 'Activity'); setShowCategoryError(false); }}
+                    className={`p-6 rounded-2xl border-2 transition-all text-left ${formData.category === 'Activity'
+                      ? 'border-[#10B981] bg-[#10B981]/5'
+                      : 'border-gray-200 hover:border-[#10B981]/50'
+                      }`}
+                  >
+                    <div className="font-black text-[#001A33] text-[16px] mb-2">Activity</div>
+                    <div className="text-[13px] text-gray-600 font-semibold">
+                      Snorkeling, scuba diving, boat rides, water sports
                     </div>
                   </button>
                 </div>
