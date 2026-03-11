@@ -1996,7 +1996,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "4. Bangkok Canal Tour — The City That Lived on Water",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "Before roads, Bangkok was a city of **khlongs (canals)**. At its peak in the 19th century, the city had over 1,000 kilometres of waterways, earning it the name 'Venice of the East.' The Chao Phraya River and its branching canal network were the primary arteries of daily life — commerce, transport, communication, and food all flowed through them.\n\nToday, exploring Bangkok by **longtail boat** (a narrow wooden craft powered by a repurposed car engine mounted on a long swivelling shaft) is one of the city's most authentic experiences. Private canal tours depart from Central Pier (Sathorn) or Tha Tien Pier, threading through **Khlong Bangkok Noi** and **Khlong Bangkok Yai** — historic canals that pre-date the current city — past wooden canal houses elevated on stilts, Buddhist temples accessible only by water, schoolchildren arriving by boat, and vendors selling food from floating kitchens.\n\nThe **Khlong Mon** route passes through the **Thonburi** district on the west bank of the Chao Phraya — an area that feels remarkably rural despite being minutes from Bangkok's skyscrapers. Here you'll find the **Royal Barges National Museum**, home to the magnificent ceremonial barges used in the Royal Barge Procession, a ritual held only during exceptional royal occasions.\n\nA [private longtail boat tour](/thailand/bangkok/bangkok-canal-tour) with a local guide gives you the flexibility to stop at temples and local shops that group tours bypass. The best tours operate in the early morning (before 9 AM), when canal traffic is light, vendors are active, and the light is golden — before the heat intensifies."
                         },
                         {
@@ -2060,7 +2060,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "Where to Stay: Bangkok's Best Neighbourhoods",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "Bangkok sprawls across 1,569 square kilometres, so neighbourhood choice dictates your entire experience.\n\n**Rattanakosin (Old City)**: The historic heart. Walking distance to the Grand Palace, Wat Pho, Wat Arun, and the riverfront. The best base for first-time visitors who want maximum temple access. Accommodations range from boutique heritage hotels to guesthouses. No BTS/MRT access — river boats and taxis required.\n\n**Silom / Sathorn**: Bangkok's financial and nightlife district. Excellent BTS connectivity (Sala Daeng, Surasak, Chong Nonsi). Best for business travelers and those who want a sophisticated base with easy access to the whole city. Lumphini Park is walkable.\n\n**Sukhumvit (Asok to Ekkamai)**: The expat and traveler epicentre. Hundreds of hotels at every price point, the best international restaurant scene, proximity to Terminal 21, EmQuartier, and Emporium malls. The BTS runs directly through — Asok, Nana, Phrom Phong, Thong Lo, and Ekkamai stations each have distinct characters.\n\n**Ari / Phahon Yothin**: The neighbourhood Bangkok residents actually live in. Leafy streets, independent coffee shops, boutique fashion, and restaurants that don't cater to tourists. A 10-minute BTS ride from the city centre. Recommended for longer stays and travelers who want to experience how Bangkok's middle class actually lives."
                         },
                         {
@@ -2186,7 +2186,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "Best Time to Visit: Dawn vs. Dusk vs. Night",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "Despite being called the Temple of Dawn, **the best time to visit Wat Arun is late afternoon into dusk**. The west-facing porcelain surface catches the golden late afternoon sun with extraordinary warmth, the crowds thin after 4 PM, and staying into twilight allows you to witness the illumination turn on — Wat Arun lit at night, reflected in the river, is one of Bangkok's most spectacular sights.\n\nFor the classic postcard photograph of Wat Arun, position yourself on the **opposite (east) bank** at **Tha Tien or the terrace of Amorosa restaurant** for the golden-hour shot with the spire glowing against a sky that transitions from blue to orange to magenta.\n\n**Dawn visits** (arriving by ferry before 8 AM when the temple opens) are magical for their own reasons: near-empty grounds, mist rising off the river, monks performing their morning rituals, and the temple at its quietest. However, the east-facing light means the porcelain is in shadow at dawn — the temple faces west, so afternoon light is architecturally superior.\n\n**Night visits** are available until 8:30 PM (the temple illumination stays on, though the ticket office closes at 6 PM — enter before then). The illuminated temple reflected in the river, accessible from the night market around Tha Tien Pier, is a Bangkok experience not to miss on a clear evening."
                         }
                     ],
@@ -2224,7 +2224,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "Afternoon (2:00 PM – 6:00 PM): Canals & Culture",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "**2:00 PM**: Board a **longtail boat canal tour** from Tha Chang Pier or Central Pier. A 1-hour private canal tour (฿1,500–฿2,000 for the whole boat) takes you through Khlong Bangkok Noi and Khlong Mon, past wooden stilted houses, active Buddhist temples accessible only by water, and the remarkable contrast of the rural west bank against the skyscrapers visible in the distance. The midday heat is manageable on the water with the breeze.\n\n**3:30 PM**: Return to the east bank. Take the BTS from **Saphan Taksin (Sathorn) Pier** — a 5-minute Grab ride or 20-minute riverside walk from the canal tour return point — to **Asok or Phrom Phong** for a coffee break at one of Sukhumvit's excellent cafes. 30 minutes to recharge.\n\n**5:00 PM**: Head to **Wat Arun** for golden-hour photographs from across the river (if you didn't climb earlier) — the late afternoon light on the west-facing porcelain is extraordinary. Alternatively, explore the **Rattanakosin neighbourhood on foot** as the late-afternoon light softens the limestone temple walls."
                         },
                         {
@@ -2253,7 +2253,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: "Floating Markets Near Bangkok: Which One to Visit in 2026",
                     description: "The honest guide to Bangkok's floating markets in 2026. Compare Damnoen Saduak, Amphawa, and Taling Chan — which is most authentic, how to get there, what to expect, and whether it's worth your time.",
-                    heroImage: "/things-to-do/bangkok-floating-market.webp",
+                    heroImage: "/things-to-do/bangkok-ayutthaya.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Best Market', value: 'Amphawa (Fri–Sun evenings)' },
                         { icon: 'Map', label: 'Distance', value: '15–110 km from Bangkok' },
@@ -2262,17 +2262,17 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     sections: [
                         {
                             title: "Damnoen Saduak — Famous but Heavily Commercialised",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "**Damnoen Saduak**, 110 km southwest of Bangkok in Ratchaburi Province, is the floating market that appears on every Bangkok postcard: narrow canals crowded with wooden boats piled high with tropical fruits and vegetables, vendors in straw hats paddling between tourists. It is photogenic, colourful, and vigorously alive — but it has been operating primarily as a tourist spectacle since the 1990s.\n\nThe canal vendors are there every morning (6 AM to noon), and the produce is genuine Thai food. But the surrounding market stalls are almost entirely tourist merchandise, prices are negotiated in USD as readily as baht, and the experience of being guided between souvenir shops during a boat ride diminishes the authenticity. If your primary goal is photography of the traditional floating market aesthetic, Damnoen Saduak delivers it reliably.\n\n**How to get there**: 2-hour drive from Bangkok (hire car recommended, no direct public transport). Most visitors book a guided day tour that manages the logistics. **Best for**: Photographers who want the classic image, first-time Thailand visitors who want the 'postcard experience,' and large groups where logistics matter more than authenticity."
                         },
                         {
                             title: "Amphawa — The Most Authentic Experience",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "**Amphawa Floating Market**, 90 km southwest of Bangkok in Samut Songkhram Province, is what floating markets actually look like when they operate primarily for Thai people rather than tourists. The market runs on **Friday, Saturday, and Sunday evenings from 4 PM to 10 PM** — not mornings like most tourist-oriented markets.\n\nThe canal-side wooden shophouses sell fresh seafood grilled to order directly over the water (sit on the wooden decks hanging over the canal and eat while boats pass beneath you), Thai desserts wrapped in banana leaves, and fresh fruit — but primarily for Bangkok weekend-trippers, not foreign tourists. The food is genuinely excellent and extremely cheap (grilled whole sea bass for ฿200, steamed oysters for ฿100).\n\nThe main event at Amphawa in the late evening is the **firefly boat tour** — departing after dark, wooden boats take visitors slowly through the mangrove-lined khlongs where thousands of fireflies synchronously light mangrove trees, creating a natural bioluminescent display of startling beauty. This alone is worth the journey.\n\n**Best for**: Food lovers, couples, authenticity seekers, Thai culture enthusiasts. Must visit on a Friday/Saturday/Sunday evening. Staying overnight in one of Amphawa's excellent canal-side guesthouses is highly recommended."
                         },
                         {
                             title: "Taling Chan — The Best Quick Option Near Bangkok",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "**Taling Chan Floating Market**, just 15 km west of Bangkok in the Thonburi district, is the most accessible floating market option for visitors with limited time. Open on **weekends only (Saturday and Sunday, 9 AM to 4 PM)**, it functions as a genuine local market serving Bangkok residents rather than tourists.\n\nUnlike Damnoen Saduak, the vendors here are cooking for Thai customers — boat vendors serve bowls of noodle soup, grilled fish, and curries over the canal to customers sitting on wooden platforms above the water. The market is small enough to explore in 90 minutes but authentic enough to feel genuinely connected to Bangkok's canal heritage.\n\nCombine Taling Chan with a visit to the **Khlong Bangkok Noi** canal network adjacent to it — this is one of the best areas for a longtail boat tour, passing through the historic Thonburi district and its waterway communities.\n\n**How to get there**: BTS to Bang Wa terminus, then taxi (20 minutes) or Grab. Much simpler than Damnoen Saduak. **Best for**: Day-trippers who want a floating market experience without spending half a day in transit."
                         }
                     ],
@@ -2296,7 +2296,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
                     description: "Everything about Bangkok canal tours in 2026. Private longtail boat routes, prices, best departure points, what to see on the khlongs, and how to book a canal tour that shows you the real Bangkok.",
-                    heroImage: "/things-to-do/bangkok-floating-market.webp",
+                    heroImage: "/things-to-do/bangkok-ayutthaya.webp",
                     fastFacts: [
                         { icon: 'Ticket', label: 'Private Boat', value: '฿1,500–฿2,500 per hour' },
                         { icon: 'Clock', label: 'Best Duration', value: '1.5–2 hours' },
@@ -2305,7 +2305,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     sections: [
                         {
                             title: "Bangkok's Canal History — Why the Khlongs Matter",
-                            image: "/things-to-do/bangkok-floating-market.webp",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
                             content: "When Bangkok was founded in 1782, it was designed as an island city — a defensive ring of canals was dug around the Rattanakosin district to mirror the capital's predecessor, Ayutthaya. Over the following century, the canal network expanded to over **2,000 kilometres**, making Bangkok one of the most water-dependent cities in history.\n\nThe canals served every function: commerce (floating markets, trading boats), transport (faster and safer than roads in the rainy season), food production (canal-side gardens and fish traps), and social life (houses, shops, and temples all faced the water, not the road). European visitors in the 1850s described Bangkok as more Venetian than Amsterdam.\n\nIn the 1960s, many canals were filled in to create roads as modernisation accelerated. Today, roughly **1,800 kilometres of canal** remain — mostly in the historic Thonburi district on the west bank of the Chao Phraya — and the communities that still live on them preserve a way of life largely unchanged from the pre-modern city. A canal tour is the only way to access this living history."
                         },
                         {
