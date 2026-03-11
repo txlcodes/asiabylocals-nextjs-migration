@@ -934,7 +934,83 @@ const CITY_DESCRIPTIONS: Record<string, {
       },
       {
         question: 'What temples should I visit in Bangkok besides the Grand Palace?',
-        answer: 'Beyond the famous trio of [Grand Palace](/thailand/bangkok/grand-palace-bangkok), [Wat Pho](/thailand/bangkok/wat-pho), and [Wat Arun](/thailand/bangkok/wat-arun), Bangkok has dozens of magnificent temples. **Wat Saket** (Golden Mount) offers panoramic city views from an ancient hilltop. **Wat Suthat** has Thailand\'s largest bronze Buddha and an enormous red-painted "Giant Swing" out front. **Wat Benchamabophit** (Marble Temple) is architecturally stunning and especially beautiful at dawn with monks collecting alms. **Wat Phra Chetuphon** (another name for Wat Pho) houses 394 Buddha images in its gallery. Our [places to visit in Bangkok](/thailand/bangkok/places-to-visit-in-bangkok) guide covers all of them with transport tips.'
+        answer: 'Beyond the famous trio of [Grand Palace](/thailand/bangkok/grand-palace-bangkok), [Wat Pho](/thailand/bangkok/wat-pho), and [Wat Arun](/thailand/bangkok/wat-arun), Bangkok has dozens of magnificent temples. **Wat Saket** (Golden Mount) offers panoramic city views from an ancient hilltop. **Wat Suthat** has Thailand\'s largest bronze Buddha and an enormous red-painted "Giant Swing" out front. **Wat Benchamabophit** (Marble Temple) is architecturally stunning and especially beautiful at dawn with monks collecting alms. Our [places to visit in Bangkok](/thailand/bangkok/places-to-visit-in-bangkok) guide covers all of them with transport tips.'
+      },
+      {
+        question: 'What is the Grand Palace entry fee in Bangkok?',
+        answer: 'The [Grand Palace](/thailand/bangkok/grand-palace-bangkok) entry ticket costs **฿500 per person** (approximately USD 14) and includes access to the Grand Palace complex, Wat Phra Kaew (Temple of the Emerald Buddha), the Royal Thai Decorations & Coins Pavilion, and Vimanmek Teak Mansion on some days. The ticket is non-refundable. Opening hours are 8:30 AM to 3:30 PM daily (last entry at 3:15 PM). Children under 120 cm height and monks enter free. Cash only at the main gate. See our [Grand Palace guide](/thailand/bangkok/grand-palace-bangkok) for full pricing and latest information.'
+      },
+      {
+        question: 'How do I get from Bangkok airport to the city centre?',
+        answer: 'Bangkok has two major airports. From **Suvarnabhumi (BKK)**, the fastest option is the **Airport Rail Link** (45 min, ฿45) to Phaya Thai BTS station, covering most tourist areas. Taxis are metered and cost ฿200–350 plus ฿50 expressway toll to central Bangkok (45–90 min depending on traffic). **Don Mueang (DMK)** airport connects to the city via Bus A1/A2 or metered taxi (฿200–300). We strongly recommend using **Grab** (Thailand\'s Uber) from both airports for fixed-price, no-haggle rides. Our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) has detailed step-by-step instructions for both airports.'
+      },
+      {
+        question: 'What is the Chao Phraya River boat service like?',
+        answer: 'The **Chao Phraya Express Boat** is Bangkok\'s most scenic and practical way to reach riverside attractions. Orange-flag boats (฿15) run express services from Nonthaburi in the north to Wat Rajsingkorn in the south, stopping at piers near the [Grand Palace](/thailand/bangkok/grand-palace-bangkok) (Tha Chang Pier), [Wat Pho](/thailand/bangkok/wat-pho) (Tha Tien Pier), and [Wat Arun](/thailand/bangkok/wat-arun) (Tha Wang Lang Pier). Tourist boats (฿60, unlimited-day pass available at ฿200) run from Sathorn/Taksin Pier to Phra Arthit. The [Bangkok canal tour](/thailand/bangkok/bangkok-canal-tour) by longtail boat offers a deeper dive into the historic khlongs away from the main river.'
+      },
+      {
+        question: 'What is Bangkok\'s Chinatown (Yaowarat) like?',
+        answer: 'Bangkok\'s **Yaowarat Chinatown** is one of Asia\'s most vibrant and atmospheric Chinese communities, established in the 1780s when King Rama I relocated Chinese traders to make way for the Grand Palace construction. The main Yaowarat Road is a sensory explosion of gold shops, seafood restaurants, traditional medicine halls, and neon signs. It comes alive especially after dark — the best [street food](/thailand/bangkok/things-to-do-in-bangkok) in Bangkok is found here, from fresh oyster omelettes and roasted duck to mango sticky rice and hand-pulled noodles. Key side streets include Soi Texas (seafood), Soi Plaeng Nam, and Sampeng Lane (wholesale textiles). Best visited Friday/Saturday nights. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for the complete Chinatown guide.'
+      },
+      {
+        question: 'What is the best way to see Wat Arun in Bangkok?',
+        answer: '[Wat Arun](/thailand/bangkok/wat-arun) (Temple of Dawn) is most spectacular at **sunrise and at night when illuminated** — ironically, its name refers to the god of dawn, but the golden evening light also creates a magical reflection across the Chao Phraya River. The temple is best photographed from the opposite (Tha Tien) side of the river before crossing. Once inside, you can climb the steep central prang (tower) for panoramic views. The intricate porcelain tile mosaics covering the 79-meter tower are most impressive at close range. Combine with [Wat Pho](/thailand/bangkok/wat-pho) in the morning (5-minute ferry crossing at Tha Tien Pier, ฿5). See our [Wat Arun guide](/thailand/bangkok/wat-arun) for opening hours and tips.'
+      },
+      {
+        question: 'What are the best day trips from Bangkok?',
+        answer: 'Bangkok is an excellent base for day trips. **Ayutthaya** (80 km north, 1.5 hrs by train) — the ancient capital with magnificent temple ruins and giant Buddha heads, our most popular day trip. **Damnoen Saduak Floating Market** (90 km, 1.5 hrs) — the iconic canal market with boat vendors. **Kanchanaburi** (130 km west) — the famous Bridge on the River Kwai and WWII history. **Khao Yai National Park** (200 km northeast) — UNESCO-listed jungle with elephants and waterfalls. **Pattaya** (150 km east) — beach resort city. See our [floating market guide](/thailand/bangkok/floating-market-bangkok) for the most popular day trip options from Bangkok with transport details.'
+      },
+      {
+        question: 'How do I get from Bangkok to Ayutthaya?',
+        answer: 'Ayutthaya is **80 km north of Bangkok** and easily reached by train from Hua Lamphong or Bang Sue Grand Station (1.5 hours, ฿15–36 third class — best value in travel). Minivans depart from Mo Chit Northern Bus Terminal (1.5 hrs, ฿70). Private car or taxi takes 1–1.5 hours via Highway 32. Inside Ayutthaya, rent a bicycle (฿50/day) or tuk-tuk to reach the temple ruins spread across the island. Our guided [Bangkok to Ayutthaya day trips](/thailand/bangkok/1-day-bangkok-itinerary) handle all transport, include a licensed guide, and cover the most important UNESCO World Heritage temples including Wat Mahathat (the famous Buddha head in tree roots), Wat Phra Si Sanphet, and Wat Chaiwatthanaram.'
+      },
+      {
+        question: 'Is Bangkok good for vegetarians and vegans?',
+        answer: 'Bangkok is surprisingly excellent for vegetarians and vegans. Thai cuisine is heavily plant-based, and Buddhist traditions mean **"Jay" (เจ) vegetarian food** is widely available — look for yellow-flag restaurants, especially in Chinatown. Say "gin jay" (I eat vegetarian) or "mai sai nuea sat" (no meat). Pad pak, papaya salad (hold the fish sauce), spring rolls, mango sticky rice, and virtually all noodle soups can be made vegetarian. **Or Tor Kor Market** near Chatuchak and the **Chatuchak Weekend Market** food section have excellent vegan stalls. Our guides on [Bangkok tours](/thailand/bangkok/things-to-do-in-bangkok) are always happy to navigate dietary requirements. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for recommended vegetarian restaurants.'
+      },
+      {
+        question: 'What is Khao San Road like in Bangkok?',
+        answer: '**Khao San Road** is Bangkok\'s most famous backpacker street — a 400-metre strip of budget guesthouses, street food stalls, live music bars, tattoo parlours, and souvenir shops in the Banglamphu neighbourhood, a short walk from the [Grand Palace](/thailand/bangkok/grand-palace-bangkok). It\'s lively, cheap, and a classic Bangkok experience, though more tourist-oriented than local. The surrounding streets — Rambuttri Road, Phra Athit Road, and Samsen Road — are quieter, more charming, and preferred by experienced travellers. The nearby **Phra Arthit Pier** connects to the Chao Phraya boat service for easy access to riverside temples. See our [things to do in Bangkok](/thailand/bangkok/things-to-do-in-bangkok) guide for a balanced Bangkok itinerary beyond Khao San Road.'
+      },
+      {
+        question: 'What is the Asiatique Night Market in Bangkok?',
+        answer: '**Asiatique The Riverfront** is Bangkok\'s most popular open-air night market, located on the Chao Phraya riverfront in Charoen Krung, about 3 km from Silom. Open daily from 5 PM to midnight, it combines a night market with a mall, spanning 10 warehouses and 40 restaurants in converted 1900s-era dockyards. Key attractions include the **largest Ferris wheel in Thailand**, Joe Louis Puppet Theatre performances, riverside dining, and over 1,500 shops selling fashion, handicrafts, and souvenirs. Accessible via free shuttle boat from Sathorn/Taksin Pier (running every 30 minutes from 4 PM). Combine with a sunset [Bangkok canal tour](/thailand/bangkok/bangkok-canal-tour) nearby for a full evening in the area.'
+      },
+      {
+        question: 'Is Bangkok good for families with children?',
+        answer: 'Yes, Bangkok is a very family-friendly city with plenty of activities for children of all ages. The **Bangkok Butterfly Garden** and **Queen Saovabha Memorial Institute** (Snake Farm) are educational highlights. **Lumphini Park** has paddle boats and space to run. **Safari World & Marine Park** (30 mins from city) has animals and shows. The **Children\'s Discovery Museum** near Chatuchak is excellent for young kids. For older children, the [Grand Palace](/thailand/bangkok/grand-palace-bangkok) and [Wat Pho](/thailand/bangkok/wat-pho) are genuinely impressive. [Chatuchak Market](/thailand/bangkok/chatuchak-weekend-market) and the night markets are exciting sensory experiences for kids. Our [local guides](/thailand/bangkok/things-to-do-in-bangkok) are experienced with family tours and adapt the pace and storytelling for children.'
+      },
+      {
+        question: 'What currency do I need in Bangkok? Can I pay by card?',
+        answer: 'Thailand\'s currency is the **Thai Baht (฿)**. ATMs are everywhere in Bangkok and accept all major international cards (Visa, Mastercard) — expect a ฿220 foreign transaction fee per withdrawal. Currency exchange counters at Suvarnabhumi Airport give reasonable rates (avoid the first-floor booths, better rates are at arrivals level). The best rates are at **SuperRich** exchange counters (orange or green) in central Bangkok. Major hotels, malls, and tourist restaurants accept credit cards, but street food, canal ferries, tuk-tuks, and many local markets are **cash-only**. Carry ฿200–500 in small notes for daily expenses. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for full money tips.'
+      },
+      {
+        question: 'How do I avoid tuk-tuk scams in Bangkok?',
+        answer: 'The most common Bangkok scam involves tuk-tuk drivers offering a tour for just ฿20–50, claiming a nearby attraction "is closed today" and steering you to gem shops or tailor shops where they earn commission. To avoid scams: **never accept unsolicited "cheap tour" offers** from tuk-tuks near major temples. Always use **Grab** (the app) for metered, pre-priced rides. If you want a genuine tuk-tuk experience, negotiate a fixed price upfront for a specific destination (not a tour). Licensed [guided tours](/thailand/bangkok/things-to-do-in-bangkok) handle all transport so you never need to negotiate with random drivers. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for the complete scam-avoidance guide.'
+      },
+      {
+        question: 'What is Jim Thompson House in Bangkok?',
+        answer: '**Jim Thompson House** is one of Bangkok\'s most fascinating cultural attractions — a complex of six traditional Thai teakwood houses assembled by American entrepreneur Jim Thompson, who single-handedly revived the Thai silk industry after World War II before mysteriously disappearing in Malaysia in 1967. The houses are now a museum displaying his exceptional collection of Asian art, antiques, and Thai silk, set in a beautiful garden near Siam BTS station. Open daily (closed during royal mourning periods). Guided tours included in entry fee (฿200 foreigners). The adjacent Jim Thompson Art Center hosts contemporary exhibitions. See our [places to visit in Bangkok](/thailand/bangkok/places-to-visit-in-bangkok) guide for how to include it in your itinerary.'
+      },
+      {
+        question: 'What is a good Bangkok street food tour route?',
+        answer: 'Bangkok\'s best [street food](/thailand/bangkok/things-to-do-in-bangkok) is spread across distinct neighbourhoods, each with a specialty. **Chinatown (Yaowarat)** — Friday/Saturday evenings for oyster omelette, roast duck, mango sticky rice, and fresh seafood. **Victory Monument** — weekday lunches for boat noodles and som tam. **On Nut (Sukhumvit Soi 77)** — morning market with authentic local breakfast. **Wang Lang Market** (across the river from the Grand Palace) — excellent daytime market loved by locals. **Or Tor Kor** near Chatuchak — premium fresh Thai produce and prepared foods. **Phra Khanong area** — night street food scene without tourists. Our guided street food [Bangkok tours](/thailand/bangkok/things-to-do-in-bangkok) take you to all of these with a local who knows every vendor.'
+      },
+      {
+        question: 'What is the best Bangkok itinerary for 3 days?',
+        answer: 'The ideal **3-day Bangkok itinerary**: **Day 1** — Old City temples: [Grand Palace](/thailand/bangkok/grand-palace-bangkok) and [Wat Phra Kaew](/thailand/bangkok/grand-palace-bangkok) in the morning, [Wat Pho](/thailand/bangkok/wat-pho) Reclining Buddha and traditional massage, cross by ferry to [Wat Arun](/thailand/bangkok/wat-arun) at sunset, Chinatown for dinner. **Day 2** — [Floating market](/thailand/bangkok/floating-market-bangkok) day trip in the morning (depart 6:30 AM), return for Chatuchak Weekend Market (Sat/Sun only), rooftop bar evening. **Day 3** — [Bangkok canal tour](/thailand/bangkok/bangkok-canal-tour) by longtail boat in the morning, Lumphini Park walk, Jim Thompson House, Asiatique Night Market for dinner. See our [1-day Bangkok itinerary](/thailand/bangkok/1-day-bangkok-itinerary) for a condensed version when you have limited time.'
+      },
+      {
+        question: 'What is the Bangkok BTS Skytrain and MRT?',
+        answer: 'Bangkok has two overlapping elevated rail systems that cover most tourist areas efficiently. The **BTS Skytrain** (฿17–59) has two lines: Sukhumvit Line (east-west, Bearing to Mo Chit/Chatuchak) and Silom Line (south, National Stadium to Bang Wa). The **MRT Metro** (฿17–42) runs from Hua Lamphong to Lak Song with connections to the BTS. A **Rabbit Card** (BTS) or **MRT card** lets you tap in/out without buying tickets. Key tourist stations: Siam (shopping, both lines interchange), Asok/Sukhumvit (nightlife), Mo Chit (Chatuchak), National Stadium (Jim Thompson House). For the [Grand Palace](/thailand/bangkok/grand-palace-bangkok), Wat Pho, and Wat Arun, take the Chao Phraya River boat from Sathorn/Taksin BTS station. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for the complete transport map.'
+      },
+      {
+        question: 'Are there good viewpoints and rooftop bars in Bangkok?',
+        answer: 'Bangkok has some of Southeast Asia\'s most dramatic rooftop bars and viewpoints. **Mahanakhon SkyWalk** (314 meters, the highest in Thailand) at BTS Chong Nonsi has a glass-floor observation deck (฿880 entry, includes drinks). **Vertigo & Moon Bar** at Banyan Tree Hotel (61st floor, Silom) — breathtaking 360-degree views, smart-casual dress. **Sirocco & Sky Bar** at Lebua State Tower (64th floor) — made famous in "The Hangover 2." **Red Sky Bar** at Centara Grand (55th floor) — more accessible pricing. **CRU Champagne Bar** at Centara Grand CentralWorld — great Ratchaprasong intersection views. Rooftop bars generally open at sunset (5–6 PM); reservations strongly recommended. All are highlighted in our [places to visit in Bangkok](/thailand/bangkok/places-to-visit-in-bangkok) guide.'
+      },
+      {
+        question: 'What is the Erawan Shrine in Bangkok and why is it so popular?',
+        answer: 'The **Erawan Shrine** (Thao Maha Phrom) is one of Bangkok\'s most visited and spiritually significant landmarks, located at the intersection of Ratchadamri and Ploenchit Roads next to the Grand Hyatt Erawan hotel. It houses a golden four-faced Brahma statue — each face representing wealth, career, family, and health — and is visited daily by thousands of Thais and tourists who believe it grants wishes. Traditional offerings include jasmine garlands, wooden elephants, and commissioning classical dance performances from the resident troupe. The shrine was rebuilt in 1956 after construction accidents at the hotel, and its popularity skyrocketed after a series of fortunate coincidences. Entry is free. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for nearby attractions.'
       }
     ]
   }
@@ -2548,6 +2624,86 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
 
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Phuket Essential Guides Section */}
+        {city.toLowerCase() === 'phuket' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Phuket
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Things to Do in Phuket', slug: 'things-to-do-in-phuket', image: '/things-to-do/phuket-phi-phi.webp' },
+                { title: 'Phuket Travel Guide 2026', slug: 'phuket-travel-guide-2026', image: '/things-to-do/phuket-resort-coastline.jpg' },
+                { title: 'Phi Phi Islands', slug: 'phi-phi-islands', image: '/things-to-do/phuket-phi-phi-aerial.jpg' },
+                { title: 'Phang Nga Bay', slug: 'phang-nga-bay', image: '/things-to-do/phuket-james-bond-island.jpg' },
+                { title: 'James Bond Island', slug: 'james-bond-island-phuket', image: '/things-to-do/phuket-james-bond.webp' },
+                { title: 'Big Buddha Phuket', slug: 'big-buddha-phuket', image: '/things-to-do/phuket-big-buddha.webp' },
+                { title: 'Wat Chalong', slug: 'wat-chalong', image: '/things-to-do/phuket-big-buddha.jpg' },
+                { title: 'Phuket Old Town', slug: 'phuket-old-town', image: '/things-to-do/phuket-old-town.webp' },
+                { title: 'Phuket Island Hopping', slug: 'phuket-island-hopping', image: '/things-to-do/phuket-beach-palms.jpg' },
+                { title: '1-Day Phuket Itinerary', slug: 'phuket-1-day-itinerary', image: '/things-to-do/phuket-sino-portuguese.jpg' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/thailand/phuket/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Bangkok Essential Guides Section */}
+        {city.toLowerCase() === 'bangkok' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Bangkok
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Things to Do in Bangkok', slug: 'things-to-do-in-bangkok', image: '/things-to-do/bangkok-grand-palace.webp' },
+                { title: 'Bangkok Travel Guide 2026', slug: 'bangkok-travel-guide-2026', image: '/blog/bangkok-hero.webp' },
+                { title: 'Grand Palace Bangkok', slug: 'grand-palace-bangkok', image: '/things-to-do/bangkok-grand-palace.webp' },
+                { title: 'Wat Pho: Reclining Buddha', slug: 'wat-pho', image: '/things-to-do/bangkok-wat-pho.webp' },
+                { title: 'Wat Arun: Temple of Dawn', slug: 'wat-arun', image: '/things-to-do/bangkok-wat-arun.webp' },
+                { title: '1-Day Bangkok Itinerary', slug: '1-day-bangkok-itinerary', image: '/things-to-do/bangkok-wat-pho-chedis.webp' },
+                { title: 'Floating Markets Bangkok', slug: 'floating-market-bangkok', image: '/things-to-do/bangkok-ayutthaya.webp' },
+                { title: 'Bangkok Canal Tour', slug: 'bangkok-canal-tour', image: '/things-to-do/bangkok-canal-tour.webp' },
+                { title: 'Chatuchak Weekend Market', slug: 'chatuchak-weekend-market', image: '/things-to-do/bangkok-chatuchak.webp' },
+                { title: 'Places to Visit in Bangkok', slug: 'places-to-visit-in-bangkok', image: '/things-to-do/bangkok-chinatown.webp' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/thailand/bangkok/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
                   <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
                     <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
                   </div>
