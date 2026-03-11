@@ -2642,15 +2642,15 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
                 { title: 'Things to Do in Phuket', slug: 'things-to-do-in-phuket', image: '/things-to-do/phuket-phi-phi.webp' },
-                { title: 'Phuket Travel Guide 2026', slug: 'phuket-travel-guide-2026', image: '/things-to-do/phuket-resort-coastline.jpg' },
-                { title: 'Phi Phi Islands', slug: 'phi-phi-islands', image: '/things-to-do/phuket-phi-phi-aerial.jpg' },
-                { title: 'Phang Nga Bay', slug: 'phang-nga-bay', image: '/things-to-do/phuket-james-bond-island.jpg' },
+                { title: 'Phuket Travel Guide 2026', slug: 'phuket-travel-guide-2026', image: '/things-to-do/phuket-old-town.webp' },
+                { title: 'Phi Phi Islands', slug: 'phi-phi-islands', image: '/things-to-do/phuket-phi-phi.webp' },
+                { title: 'Phang Nga Bay', slug: 'phang-nga-bay', image: '/things-to-do/phuket-james-bond.webp' },
                 { title: 'James Bond Island', slug: 'james-bond-island-phuket', image: '/things-to-do/phuket-james-bond.webp' },
                 { title: 'Big Buddha Phuket', slug: 'big-buddha-phuket', image: '/things-to-do/phuket-big-buddha.webp' },
                 { title: 'Wat Chalong', slug: 'wat-chalong', image: '/things-to-do/phuket-big-buddha.jpg' },
                 { title: 'Phuket Old Town', slug: 'phuket-old-town', image: '/things-to-do/phuket-old-town.webp' },
-                { title: 'Phuket Island Hopping', slug: 'phuket-island-hopping', image: '/things-to-do/phuket-beach-palms.jpg' },
-                { title: '1-Day Phuket Itinerary', slug: 'phuket-1-day-itinerary', image: '/things-to-do/phuket-sino-portuguese.jpg' },
+                { title: 'Phuket Island Hopping', slug: 'phuket-island-hopping', image: '/things-to-do/phuket-elephant.webp' },
+                { title: '1-Day Phuket Itinerary', slug: 'phuket-1-day-itinerary', image: '/things-to-do/phuket-old-town.jpg' },
               ].map((guide, idx) => (
                 <Link
                   key={idx}
