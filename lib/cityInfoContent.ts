@@ -1996,7 +1996,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "4. Bangkok Canal Tour — The City That Lived on Water",
-                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            image: "/things-to-do/bangkok-canal-tour.webp",
                             content: "Before roads, Bangkok was a city of **khlongs (canals)**. At its peak in the 19th century, the city had over 1,000 kilometres of waterways, earning it the name 'Venice of the East.' The Chao Phraya River and its branching canal network were the primary arteries of daily life — commerce, transport, communication, and food all flowed through them.\n\nToday, exploring Bangkok by **longtail boat** (a narrow wooden craft powered by a repurposed car engine mounted on a long swivelling shaft) is one of the city's most authentic experiences. Private canal tours depart from Central Pier (Sathorn) or Tha Tien Pier, threading through **Khlong Bangkok Noi** and **Khlong Bangkok Yai** — historic canals that pre-date the current city — past wooden canal houses elevated on stilts, Buddhist temples accessible only by water, schoolchildren arriving by boat, and vendors selling food from floating kitchens.\n\nThe **Khlong Mon** route passes through the **Thonburi** district on the west bank of the Chao Phraya — an area that feels remarkably rural despite being minutes from Bangkok's skyscrapers. Here you'll find the **Royal Barges National Museum**, home to the magnificent ceremonial barges used in the Royal Barge Procession, a ritual held only during exceptional royal occasions.\n\nA [private longtail boat tour](/thailand/bangkok/bangkok-canal-tour) with a local guide gives you the flexibility to stop at temples and local shops that group tours bypass. The best tours operate in the early morning (before 9 AM), when canal traffic is light, vendors are active, and the light is golden — before the heat intensifies."
                         },
                         {
@@ -2065,7 +2065,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "Transport: Navigating Bangkok in 2026",
-                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            image: "/things-to-do/bangkok-canal-tour.webp",
                             content: "Bangkok's traffic is genuinely among the world's worst during peak hours (7–9 AM and 5–8 PM). The single most important travel decision you will make is **never relying on road transport during rush hour**.\n\n**BTS Skytrain**: Covers the main tourist and business corridors (Silom Line and Sukhumvit Line). Runs 6 AM to midnight. Buy a Rabbit Card for convenience — it works across BTS, some buses, and select stores. Fares: ฿17–฿59 per journey.\n\n**MRT Subway**: Complements the BTS with routes through areas the Skytrain doesn't cover, including Chatuchak (Kamphaeng Phet Station), Chinatown (Sam Yan to Hua Lamphong), and the new Pink/Yellow/Orange lines. Same hours and price range as BTS.\n\n**Chao Phraya Express Boat**: The most scenic and practical option for the riverside corridor. The Orange Flag service runs from Nonthaburi in the north to Wat Rajsingkorn in the south, stopping at all major riverside temples and markets. Fares: ฿9–฿32 per journey depending on flag colour.\n\n**Grab (ride-hailing)**: Essential for anywhere not on the rail network. Prices are transparent and drivers are traceable. Always use Grab rather than street taxis in tourist areas — metered taxis are fine but require negotiation vigilance.\n\n**Tuk-tuks**: For distances under 2 km within tourist areas, they're a legitimate and fun option. Agree on the fare before boarding. Never accept 'tours' offered by tuk-tuk drivers — these inevitably involve commission-driven stops at gem shops or suit tailors."
                         }
                     ],
@@ -2296,7 +2296,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
                     description: "Everything about Bangkok canal tours in 2026. Private longtail boat routes, prices, best departure points, what to see on the khlongs, and how to book a canal tour that shows you the real Bangkok.",
-                    heroImage: "/things-to-do/bangkok-ayutthaya.webp",
+                    heroImage: "/things-to-do/bangkok-canal-tour.webp",
                     fastFacts: [
                         { icon: 'Ticket', label: 'Private Boat', value: '฿1,500–฿2,500 per hour' },
                         { icon: 'Clock', label: 'Best Duration', value: '1.5–2 hours' },
@@ -2305,12 +2305,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     sections: [
                         {
                             title: "Bangkok's Canal History — Why the Khlongs Matter",
-                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            image: "/things-to-do/bangkok-canal-tour.webp",
                             content: "When Bangkok was founded in 1782, it was designed as an island city — a defensive ring of canals was dug around the Rattanakosin district to mirror the capital's predecessor, Ayutthaya. Over the following century, the canal network expanded to over **2,000 kilometres**, making Bangkok one of the most water-dependent cities in history.\n\nThe canals served every function: commerce (floating markets, trading boats), transport (faster and safer than roads in the rainy season), food production (canal-side gardens and fish traps), and social life (houses, shops, and temples all faced the water, not the road). European visitors in the 1850s described Bangkok as more Venetian than Amsterdam.\n\nIn the 1960s, many canals were filled in to create roads as modernisation accelerated. Today, roughly **1,800 kilometres of canal** remain — mostly in the historic Thonburi district on the west bank of the Chao Phraya — and the communities that still live on them preserve a way of life largely unchanged from the pre-modern city. A canal tour is the only way to access this living history."
                         },
                         {
                             title: "Best Canal Tour Routes in Bangkok",
-                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            image: "/things-to-do/bangkok-canal-tour.webp",
                             content: "**Khlong Bangkok Noi & Bangkok Yai Route (1.5–2 hours)**: The most historically rich route. Departing from Tha Chang Pier near the Grand Palace, longtail boats enter the Khlong Bangkok Noi (which was the main Chao Phraya channel before a 18th-century shortcut was cut). The route passes the **Royal Barges National Museum** (8 ceremonial barges including the stunning 46-metre Suphannahong), several active canal-side temples, traditional wooden houses on stilts, school children arriving by boat, and vendors on motorcycles delivering to stilted canal houses.\n\n**Khlong Mon Route (1 hour, Thonburi)**: A shorter route through the quieter Khlong Mon, which branches off the Chao Phraya further south. This passes through a more purely residential canal community — less tourist infrastructure, more authentic daily life. The orchid farms and banana plantations along the banks are a surprising green oasis minutes from central Bangkok.\n\n**Bang Krachao Green Lung Route (2–3 hours, by bicycle)**: The 'lung of Bangkok' — a 30 sq km river peninsula opposite the industrial Phra Pradaeng district — is accessible by ferry and explored by rented bicycle through car-free paths. Not a canal tour in the longtail boat sense, but the most extraordinary green escape from urban Bangkok — a community of traditional wooden houses, Buddhist temples, and canal-side fruit orchards that feels utterly remote despite being 15 minutes by boat from BTS Khlongsan."
                         }
                     ],
