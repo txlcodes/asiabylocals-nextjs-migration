@@ -144,6 +144,14 @@ export const PHUKET_INFO_SLUGS = [
   'james-bond-island-phuket', 'phuket-island-hopping'
 ];
 
+export const BANGKOK_INFO_SLUGS = [
+  'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
+  'grand-palace-bangkok', 'wat-pho', 'wat-arun',
+  '1-day-bangkok-itinerary', 'floating-market-bangkok',
+  'bangkok-canal-tour', 'chatuchak-weekend-market',
+  'places-to-visit-in-bangkok'
+];
+
 // Shared city locations/places - used in both tour creation and city pages
 export const CITY_LOCATIONS: Record<string, string[]> = {
   'Delhi': [
@@ -167,6 +175,16 @@ export const CITY_LOCATIONS: Record<string, string[]> = {
     'Man Sagar Lake', 'Panna Meena ka Kund', 'Albert Hall Museum', 'Gaitor Ki Chhatriyan',
     'Jaipur International Airport', 'Nahargarh Fort', 'Bapu Bazaar', 'Chandra Mahal',
     'Monkey Temple', 'Maota Lake', 'Jaigarh Fort', 'Patrika Gate', 'Chokhi Dhani', 'Birla Mandir'
+  ],
+  'Bangkok': [
+    'Grand Palace', 'Wat Phra Kaew', 'Wat Pho', 'Wat Arun', 'Chatuchak Weekend Market',
+    'Yaowarat Chinatown', 'Jim Thompson House', 'Lumphini Park', 'Asiatique The Riverfront',
+    'ICONSIAM', 'Suvarnabhumi Airport', 'Don Mueang Airport', 'MahaNakhon Tower',
+    'Damnoen Saduak Floating Market', 'Amphawa Floating Market', 'Taling Chan Floating Market',
+    'Khao San Road', 'Silom', 'Sukhumvit', 'Ari', 'Thong Lo', 'Ekkamai',
+    'Tha Chang Pier', 'Tha Tien Pier', 'Sathorn Pier', 'Bang Krachao',
+    'Vimanmek Teak Mansion', 'Dusit Palace', 'National Museum Bangkok',
+    'Erawan Shrine', 'Terminal 21', 'Siam Paragon', 'Central Embassy'
   ],
   'Kerala': [
     'Backwaters', 'Munnar', 'Alleppey', 'Kochi', 'Wayanad',
@@ -307,10 +325,6 @@ export const CITY_LOCATIONS: Record<string, string[]> = {
     'Shuri Castle', 'Okinawa Churaumi Aquarium', 'Kokusai Street', 'Okinawa World',
     'Manza Beach', 'Nakagusuku Castle Ruins', 'Sefa Utaki', 'Okinawa Peace Memorial Park',
     'Cape Manzamo', 'Ryukyu Mura'
-  ],
-  'Bangkok': [
-    'Grand Palace', 'Wat Pho', 'Wat Arun', 'Chinatown (Yaowarat)', 'Chatuchak Weekend Market',
-    'ICONSIAM', 'Jim Thompson House', 'Bangkok Canal Tour', 'Asiatique Riverfront', 'Floating Market (Day Trip Option)'
   ],
   'Chiang Mai': [
     'Doi Suthep', 'Old City Temples', 'Elephant Sanctuary (ethical only)', 'Doi Inthanon',

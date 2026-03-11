@@ -1964,6 +1964,452 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
 
 
+            // ─────────────────────────────────────────
+            // BANGKOK PAGES
+            // ─────────────────────────────────────────
+
+            case "things-to-do-in-bangkok":
+                return {
+                    title: "Things to Do in Bangkok: The Ultimate 2026 Local Guide",
+                    description: "Go beyond the temples with this comprehensive Bangkok guide. From the Grand Palace and rooftop bars to canal tours, hidden street food alleys, Chatuchak Market, and ethical elephant day trips — discover what makes Bangkok one of Asia's most electrifying cities.",
+                    heroImage: "/things-to-do/bangkok-grand-palace.webp",
+                    fastFacts: [
+                        { icon: 'Globe', label: 'Best Season', value: 'Nov – Feb (cool & dry)' },
+                        { icon: 'Clock', label: 'Days Needed', value: '3–5 days minimum' },
+                        { icon: 'Ticket', label: 'Grand Palace', value: '฿500 (includes Wat Phra Kaew)' }
+                    ],
+                    sections: [
+                        {
+                            title: "1. The Grand Palace & Wat Phra Kaew — Thailand's Sacred Heart",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "No visit to Bangkok is complete without standing before the **Grand Palace**, a 218,400-square-metre complex of gleaming white walls, golden spires, and intricately painted pavilions that served as the official residence of Thai kings from 1782 until the early 20th century. Even as a ceremonial site today, it remains the spiritual and symbolic centre of the Thai nation.\n\nWithin the palace walls, the **Wat Phra Kaew (Temple of the Emerald Buddha)** is the single most sacred site in Thailand. The Emerald Buddha itself — carved from a single block of green jade or jasper (historians debate which), seated on an ornate golden throne — is surprisingly small at just 66 centimetres tall, but its spiritual weight is immense. Thai kings personally change its golden seasonal robes three times per year during the equinoxes and solstices.\n\nThe temple complex surrounding it is a masterwork of Thai craftsmanship: the **Gallery of the Ramakien** along the inner wall depicts the entire Hindu epic Ramayana in 178 illustrated panels painted in vivid colours. The **Phra Si Ratana Chedi** — a gleaming gold stupa said to contain a piece of the Buddha's breastbone — and the **Phra Mondop** library of sacred scriptures add to the complex's spiritual density.\n\n**Practical tips**: Arrive at the West Gate on Na Phra Lan Road by 8:00 AM when it opens. Dress strictly modestly — shoulders, arms, and legs must be covered (free sarong rental at the gate). The complex closes at 3:30 PM. Book a [licensed local guide](/thailand/bangkok) to decode the royal symbolism — without context, the intricate carvings and gilded structures are visually overwhelming rather than meaningful."
+                        },
+                        {
+                            title: "2. Wat Pho — The Reclining Buddha & the Birthplace of Thai Massage",
+                            image: "/things-to-do/bangkok-wat-pho.webp",
+                            content: "Just 300 metres south of the Grand Palace, **Wat Pho (Wat Phra Chetuphon)** is Bangkok's oldest and largest temple, and arguably its most rewarding. Founded in the 16th century, it predates Bangkok itself and has been a centre of traditional Thai medicine and massage for over 200 years — UNESCO recognised its inscribed stone inscriptions as the 'Memory of the World.'\n\nThe centrepiece is the **Reclining Buddha**, a gold-plated figure stretching 46 metres long and 15 metres high, filling an entire building from wall to wall. The statue depicts the Buddha entering Nirvana, its serene half-lidded expression perfectly composed despite its extraordinary scale. The soles of the feet are inlaid with 108 auspicious lakshana (characteristics of the Buddha) in exquisite mother-of-pearl.\n\nBeyond the Reclining Buddha, Wat Pho contains **over 1,000 Buddha images** collected from temples across Thailand by Rama I, and **91 chedis (stupas)** of varying sizes spread across the temple grounds — more than any other temple in Thailand. The four large chedis commemorating the first four Chakri dynasty kings are particularly striking: white, green, yellow, and blue tiles shimmering in the tropical light.\n\nAt the rear of the complex, the **Wat Pho Thai Traditional Massage School** — one of Thailand's most respected — offers 30-minute to 2-hour traditional Thai massage sessions for ฿260–฿560. This is not a tourist trap; it is a genuinely skilled therapeutic massage by certified students of Thailand's most authoritative school. Book [a combined Grand Palace and Wat Pho walking tour](/thailand/bangkok) with a local guide to connect the history between both sites, just a 5-minute walk apart."
+                        },
+                        {
+                            title: "3. Wat Arun — The Temple of Dawn on the Chao Phraya",
+                            image: "/things-to-do/bangkok-wat-arun.webp",
+                            content: "**Wat Arun (Temple of Dawn)** sits on the western bank of the Chao Phraya River, and its distinctive prang (Khmer-style tower) — encrusted with millions of fragments of Chinese porcelain and coloured glass — is Bangkok's most visually striking skyline feature, especially from the opposite bank at dusk when the setting sun sets the porcelain ablaze.\n\nThe central prang rises 70 metres, making it one of the tallest religious structures in Bangkok. Up close, the mosaic work reveals extraordinary detail: fragments of blue-and-white Chinese ceramic plates, teacups, and bowls cover every surface, creating a texture that is rough and jewel-like simultaneously. These were largely donated by Thai citizens and visiting Chinese merchants — the story goes that a Chinese junk carrying porcelain ballast wrecked near the temple, and the monks incorporated the fragments into the restoration.\n\nDespite its name (Dawn Temple), the ideal time to visit Wat Arun is actually **late afternoon**, when the golden light catches the spires from across the river, and then at **dusk**, when the prang is illuminated and reflects on the water. Reach it via a 3-baht public cross-river ferry from Tha Tien Pier — a 2-minute ride that is itself a quintessential Bangkok experience. Climb the steep central staircase (70°angle, with rope handrails) for a panoramic view of the river and the Grand Palace complex across the water.\n\nCombine Wat Arun with a [Bangkok canal tour](/thailand/bangkok/bangkok-canal-tour) departing from the nearby Wang Lang area for a half-day that captures both royal Bangkok and the atmospheric khlongs in one arc."
+                        },
+                        {
+                            title: "4. Bangkok Canal Tour — The City That Lived on Water",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "Before roads, Bangkok was a city of **khlongs (canals)**. At its peak in the 19th century, the city had over 1,000 kilometres of waterways, earning it the name 'Venice of the East.' The Chao Phraya River and its branching canal network were the primary arteries of daily life — commerce, transport, communication, and food all flowed through them.\n\nToday, exploring Bangkok by **longtail boat** (a narrow wooden craft powered by a repurposed car engine mounted on a long swivelling shaft) is one of the city's most authentic experiences. Private canal tours depart from Central Pier (Sathorn) or Tha Tien Pier, threading through **Khlong Bangkok Noi** and **Khlong Bangkok Yai** — historic canals that pre-date the current city — past wooden canal houses elevated on stilts, Buddhist temples accessible only by water, schoolchildren arriving by boat, and vendors selling food from floating kitchens.\n\nThe **Khlong Mon** route passes through the **Thonburi** district on the west bank of the Chao Phraya — an area that feels remarkably rural despite being minutes from Bangkok's skyscrapers. Here you'll find the **Royal Barges National Museum**, home to the magnificent ceremonial barges used in the Royal Barge Procession, a ritual held only during exceptional royal occasions.\n\nA [private longtail boat tour](/thailand/bangkok/bangkok-canal-tour) with a local guide gives you the flexibility to stop at temples and local shops that group tours bypass. The best tours operate in the early morning (before 9 AM), when canal traffic is light, vendors are active, and the light is golden — before the heat intensifies."
+                        },
+                        {
+                            title: "5. Yaowarat Road — Bangkok's Chinatown After Dark",
+                            image: "/things-to-do/bangkok-chinatown.webp",
+                            content: "**Yaowarat Road**, Bangkok's Chinatown, transforms at night into one of the world's most intense street food experiences. From 6 PM onwards, the narrow pavement fills with smoke from charcoal grills, the sizzle of woks, and the competing aromas of roasting pork, steaming dim sum, and freshly pressed sugarcane juice.\n\nThe golden Chinese gate at the entrance of Yaowarat Road marks the beginning of a neighbourhood that has existed since Bangkok's founding in 1782, when Rama I invited Chinese merchants to settle here. The result is a community that has kept its culinary traditions remarkably intact for nearly 250 years.\n\nThe food you must eat: **Pad See Ew** (flat rice noodles stir-fried with egg and Chinese broccoli) at the oldest noodle shops on Yaowarat Road, **Bird's Nest Soup** at the famous TIang Sim Shops that have been trading since the 1950s, fresh **River Prawn Noodles**, and **Mango Sticky Rice** at the vendor clusters around the Talat Noi end. **Hoy Tod** (crispy oyster omelette), **Grilled Giant River Prawns**, and **Steamed Dim Sum** round out the essential Yaowarat experience.\n\nFor the best orientation, book an [evening street food tour with a local guide](/thailand/bangkok) who knows which stalls to choose (freshness and hygiene vary enormously), the history behind family-run restaurants serving unchanged recipes for three generations, and how to navigate the labyrinthine lanes beyond Yaowarat Road into Talat Noi, where a fascinating community of old Chinese shophouses and antique dealers awaits."
+                        },
+                        {
+                            title: "6. Chatuchak Weekend Market — The World's Largest Open-Air Market",
+                            image: "/things-to-do/bangkok-chatuchak.webp",
+                            content: "With over **15,000 stalls across 35 acres** and approximately 200,000 visitors every weekend, **Chatuchak Weekend Market (JJ Market)** is the largest open-air market in the world. It is not merely a shopping destination — it is a complete urban ecosystem where every conceivable category of goods, food, art, and subculture coexists in organised chaos.\n\nThe market is organised into 27 sections, each specialised: vintage clothing and military surplus in Section 2 and 3, antiques and ceramics in Section 1 and 26, hand-crafted furniture in Section 7, live plants in Section 3A, and some of Bangkok's best cheap food scattered throughout every section. The food stalls inside Chatuchak offer some of the most authentic and affordable Thai cooking in the city — the **Hainanese chicken rice** vendors, the **Tom Kha Gai** soup stalls, and the hand-pulled **Thai iced coffee** carts are legendary among regulars.\n\nNavigating Chatuchak without a plan means getting lost — delightfully so. But to extract the best from it, arrive by **MRT Mo Chit or BTS Mo Chit** at 9 AM when it opens (and before the midday heat peaks). Wear light clothing — the market has minimal shade in many sections — and bring cash, as many stalls do not accept cards.\n\nChatuchak is open **Saturday and Sunday only**, from 9 AM to 6 PM. The adjacent **Or Tor Kor Market** (open daily) is Bangkok's finest fresh produce market, where top Thai chefs and food stylists shop for the city's best tropical fruits, fresh herbs, and prepared Thai dishes."
+                        }
+                    ],
+                    faqs: [
+                        { q: "How many days do I need in Bangkok?", a: "We recommend **3–5 days** for a satisfying Bangkok experience. Day 1: Grand Palace, Wat Pho, and Wat Arun. Day 2: Canal tour, Chatuchak (weekends), Chatuchak adjacent Dusit Zoo area. Day 3: Ayutthaya day trip. Day 4: Jim Thompson House, Lumphini Park, evening at Asiatique Riverfront. Day 5: Floating market day trip. If you only have 2 days, see our [1-day Bangkok itinerary](/thailand/bangkok/1-day-bangkok-itinerary) for the essential priorities." },
+                        { q: "What is the best time of year to visit Bangkok?", a: "**November to February** is Bangkok's cool season — the best time to visit. Temperatures hover around 25–32°C with low humidity and minimal rain. **March to May** is brutally hot (35–40°C). **June to October** is monsoon season with daily heavy rain, though the city functions normally and prices are lower. For temple visits and outdoor activities, cool season is dramatically more comfortable." },
+                        { q: "Is Bangkok safe for solo female travelers?", a: "Yes — Bangkok is one of Southeast Asia's safest cities for solo female travelers. Thai culture is non-confrontational and respectful. The BTS Skytrain and MRT subway are safe at all hours. Our private tours provide an extra layer of security and local knowledge. Standard precautions: use Grab (Thai Uber) rather than negotiating with tuk-tuk drivers, stay in well-reviewed areas (Silom, Sukhumvit, Rattanakosin), and be cautious at night in Patong-equivalent nightlife areas." },
+                        { q: "What is the dress code for Bangkok temples?", a: "Strict modesty is required at the Grand Palace and all major temples. Shoulders must be fully covered, and legs must be covered below the knee. Free sarongs are available for borrowing at the Grand Palace entrance. Lightweight long trousers and a loose long-sleeved shirt work best in the tropical heat. Slip-on shoes are practical as you will remove them frequently when entering temple halls." },
+                        { q: "How do I get around Bangkok?", a: "The **BTS Skytrain** and **MRT subway** cover most major tourist areas efficiently and are the fastest way to avoid Bangkok's notorious traffic. For the riverside and canal areas, the **Chao Phraya Express Boat** is scenic and practical. **Grab (ride-hailing app)** is safe and transparent for any destination not on the rail network. Avoid tuk-tuks for anything other than short distances in tourist zones — they are notoriously overpriced and unreliable on longer routes." },
+                        { q: "Can I do a day trip from Bangkok to Ayutthaya?", a: "Yes — **Ayutthaya** (80 km north) is Bangkok's most rewarding day trip. The former Thai capital contains a stunning UNESCO World Heritage archaeological park of ruined temples, headless Buddha statues, and ancient chedis that convey the scope of the Siamese kingdom at its height. The **SRT train from Hua Lamphong** takes 1.5 hours and costs just ฿15–฿345 depending on class. Our [Ayutthaya guided day trip](/thailand/bangkok) includes private transport, a licensed guide, and a loop itinerary covering the key temples in a logical sequence." },
+                        { q: "What is the best floating market near Bangkok?", a: "**Damnoen Saduak** (110 km southwest) is the most famous but the most touristy — it feels staged for cameras. For a more authentic experience, **Amphawa Floating Market** (100 km southwest) operates on weekend evenings and is frequented primarily by Thai locals. **Taling Chan Floating Market** (15 km from the city centre) is the most accessible and most local-feeling option for a morning visit without a long drive. Our [floating market tour](/thailand/bangkok/floating-market-bangkok) covers the best option based on the day of your visit." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Things to Do in Bangkok: The Ultimate 2026 Local Guide",
+                                "description": "Go beyond the temples with this comprehensive Bangkok guide. From the Grand Palace and rooftop bars to canal tours, hidden street food alleys, Chatuchak Market, and ethical elephant day trips — discover what makes Bangkok one of Asia's most electrifying cities.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-01T10:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How many days do I need in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "We recommend 3–5 days for a satisfying Bangkok experience. Day 1: Grand Palace, Wat Pho, and Wat Arun. Day 2: Canal tour, Chatuchak. Day 3: Ayutthaya day trip. Day 4: Jim Thompson House, evening at Asiatique Riverfront. Day 5: Floating market day trip." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "November to February is Bangkok's cool season — the best time to visit. Temperatures hover around 25–32°C with low humidity and minimal rain. March to May is hot (35–40°C). June to October is monsoon season with daily rain." } },
+                                    { "@type": "Question", "name": "Is Bangkok safe for solo female travelers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Bangkok is one of Southeast Asia's safest cities for solo female travelers. Thai culture is non-confrontational and respectful. The BTS Skytrain and MRT subway are safe at all hours." } }
+                                ]
+                            }
+                        ]
+                    }
+                };
+
+            case "bangkok-travel-guide-2026":
+                return {
+                    title: "Bangkok Travel Guide 2026: Everything You Need to Know",
+                    description: "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods to stay, how to get around, what to eat, temple etiquette, budget tips, and a day-by-day itinerary framework for first-time and returning visitors.",
+                    heroImage: "/bangkok-hero.webp",
+                    fastFacts: [
+                        { icon: 'Globe', label: 'Country', value: 'Thailand' },
+                        { icon: 'Clock', label: 'Time Zone', value: 'ICT (UTC+7)' },
+                        { icon: 'Ticket', label: 'Visa', value: '60-day visa-on-arrival (most nations)' }
+                    ],
+                    sections: [
+                        {
+                            title: "Why Bangkok in 2026 Is Different From Any Previous Year",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "Bangkok in 2026 is experiencing a remarkable cultural and infrastructural renaissance. The **MRT Pink Line and Yellow Line** extensions opened in late 2023 connect previously difficult-to-reach areas like Nonthaburi, Lat Phrao, and Samrong — drastically improving mobility around the city and opening new neighbourhoods to exploration.\n\nThe food scene has never been sharper. Bangkok now has **more Michelin-starred restaurants than any other Southeast Asian city**, but the Michelin Guide's most significant impact was on street food recognition — multiple **Michelin Bib Gourmand** awards have gone to street stalls and shophouse restaurants, validating what locals have always known: Bangkok's best food costs less than ฿100 per dish.\n\nMeanwhile, the **Chao Phraya riverside** has undergone extensive renovation. ICONSIAM — the vast riverside mall and cultural complex — has become a genuine destination in its own right, housing Thailand's most prestigious brands, a floating indoor market, and rotating art exhibitions. The riverside walking paths and night markets now connect a stretch of galleries, restaurants, and temples in a way that is genuinely pedestrian-friendly for the first time."
+                        },
+                        {
+                            title: "Where to Stay: Bangkok's Best Neighbourhoods",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "Bangkok sprawls across 1,569 square kilometres, so neighbourhood choice dictates your entire experience.\n\n**Rattanakosin (Old City)**: The historic heart. Walking distance to the Grand Palace, Wat Pho, Wat Arun, and the riverfront. The best base for first-time visitors who want maximum temple access. Accommodations range from boutique heritage hotels to guesthouses. No BTS/MRT access — river boats and taxis required.\n\n**Silom / Sathorn**: Bangkok's financial and nightlife district. Excellent BTS connectivity (Sala Daeng, Surasak, Chong Nonsi). Best for business travelers and those who want a sophisticated base with easy access to the whole city. Lumphini Park is walkable.\n\n**Sukhumvit (Asok to Ekkamai)**: The expat and traveler epicentre. Hundreds of hotels at every price point, the best international restaurant scene, proximity to Terminal 21, EmQuartier, and Emporium malls. The BTS runs directly through — Asok, Nana, Phrom Phong, Thong Lo, and Ekkamai stations each have distinct characters.\n\n**Ari / Phahon Yothin**: The neighbourhood Bangkok residents actually live in. Leafy streets, independent coffee shops, boutique fashion, and restaurants that don't cater to tourists. A 10-minute BTS ride from the city centre. Recommended for longer stays and travelers who want to experience how Bangkok's middle class actually lives."
+                        },
+                        {
+                            title: "Transport: Navigating Bangkok in 2026",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            content: "Bangkok's traffic is genuinely among the world's worst during peak hours (7–9 AM and 5–8 PM). The single most important travel decision you will make is **never relying on road transport during rush hour**.\n\n**BTS Skytrain**: Covers the main tourist and business corridors (Silom Line and Sukhumvit Line). Runs 6 AM to midnight. Buy a Rabbit Card for convenience — it works across BTS, some buses, and select stores. Fares: ฿17–฿59 per journey.\n\n**MRT Subway**: Complements the BTS with routes through areas the Skytrain doesn't cover, including Chatuchak (Kamphaeng Phet Station), Chinatown (Sam Yan to Hua Lamphong), and the new Pink/Yellow/Orange lines. Same hours and price range as BTS.\n\n**Chao Phraya Express Boat**: The most scenic and practical option for the riverside corridor. The Orange Flag service runs from Nonthaburi in the north to Wat Rajsingkorn in the south, stopping at all major riverside temples and markets. Fares: ฿9–฿32 per journey depending on flag colour.\n\n**Grab (ride-hailing)**: Essential for anywhere not on the rail network. Prices are transparent and drivers are traceable. Always use Grab rather than street taxis in tourist areas — metered taxis are fine but require negotiation vigilance.\n\n**Tuk-tuks**: For distances under 2 km within tourist areas, they're a legitimate and fun option. Agree on the fare before boarding. Never accept 'tours' offered by tuk-tuk drivers — these inevitably involve commission-driven stops at gem shops or suit tailors."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Do I need a visa to visit Bangkok in 2026?", a: "Thailand offers **visa-on-arrival for 65+ nationalities** for 30 days (extendable once at an immigration office for ฿1,900). Citizens of 93 countries receive a **visa exemption** for up to 60 days as of 2025, including UK, EU, USA, Australia, Canada, Japan, and Korea. Always check the Thai Embassy website for your specific nationality before travel, as policies update frequently." },
+                        { q: "What is the currency in Bangkok?", a: "The Thai Baht (฿ / THB). In March 2026, approximately ฿35 = $1 USD / ฿44 = £1 GBP / ฿38 = €1 EUR. ATMs are everywhere but charge ฿220–฿250 per withdrawal — use a Wise or Revolut card to minimise fees. Currency exchange booths at Superrich Thailand (multiple Bangkok locations) offer consistently better rates than hotel exchanges or airport booths." },
+                        { q: "Is Bangkok expensive for tourists?", a: "Bangkok offers extraordinary value at every budget level. Street food meals: ฿40–฿80 (₹95–₹190 / $1–$2.50). Sit-down restaurant meals: ฿150–฿400. Luxury tasting menus at Michelin-starred restaurants: ฿3,000–฿8,000. Mid-range hotel per night: ฿1,500–฿3,000 ($45–$90). BTS/MRT day pass: ฿120. For the quality and depth of experience, Bangkok is arguably the world's best-value capital city for international visitors." },
+                        { q: "What should I not do in Bangkok?", a: "Avoid: Accepting gem store or suit shop recommendations from tuk-tuk drivers (scam). Disrespecting images of the Thai Royal Family — lèse-majesté is a serious criminal offence with prison sentences. Touching monks (women especially must not touch monks directly). Wearing shoes inside temples. Pointing feet at Buddha images. Arguing or raising voices in public — Thai culture values composure and face-saving. Drinking tap water." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Bangkok Travel Guide 2026: Everything You Need to Know",
+                        "description": "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods, how to get around, what to eat, temple etiquette, and a day-by-day itinerary framework.",
+                        "datePublished": "2026-01-15T08:00:00+07:00",
+                        "dateModified": "2026-03-01T10:00:00+07:00",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
+            case "grand-palace-bangkok":
+                return {
+                    title: "Grand Palace Bangkok: Tickets, Hours & What to Expect (2026)",
+                    description: "The complete guide to visiting the Grand Palace Bangkok. Ticket prices, opening hours, dress code, best time to visit, what to see inside, and how to skip the queues with a private licensed guide in 2026.",
+                    heroImage: "/things-to-do/bangkok-grand-palace.webp",
+                    fastFacts: [
+                        { icon: 'Ticket', label: 'Entry Fee', value: '฿500 (includes Wat Phra Kaew)' },
+                        { icon: 'Clock', label: 'Opening Hours', value: '8:30 AM – 3:30 PM daily' },
+                        { icon: 'Map', label: 'Location', value: 'Na Phra Lan Rd, Rattanakosin' }
+                    ],
+                    sections: [
+                        {
+                            title: "Tickets, Prices & What's Included",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "The Grand Palace admission fee is **฿500 per person** and includes entry to all open buildings within the palace complex, including **Wat Phra Kaew (Temple of the Emerald Buddha)**, the **Dusit Maha Prasat Throne Hall**, the **Chakri Maha Prasat Hall**, and the **Phra Thinang Amarin Winichai Throne Hall**. Children under 12 are free.\n\nThe ฿500 ticket also grants same-day entry to the **Wat Pho** complex (within 7 days), **Vimanmek Teak Mansion**, and the **Royal Thai Decorations & Coins Pavilion** — retaining your ticket and checking the current inclusions is advisable, as bundled sites rotate periodically.\n\nTickets are purchased at the palace entrance on the day — there is no online advance booking system for individual visitors. **Arrive early** (8:00–8:30 AM when gates open) to avoid the queue that builds by 9:30 AM, particularly during peak season (November–February) and on weekends."
+                        },
+                        {
+                            title: "What to See: A Room-by-Room Guide",
+                            image: "/things-to-do/bangkok-wat-pho.webp",
+                            content: "**Wat Phra Kaew (Temple of the Emerald Buddha)**: The complex's most sacred site. The Emerald Buddha sits on a high golden throne in the ubosot (ordination hall). Photography inside the ubosot is not permitted. The surrounding cloister walls are painted with the complete Ramakien epic in 178 illustrated panels — allow 30 minutes just for these.\n\n**Dusit Maha Prasat Throne Hall**: A masterpiece of traditional Thai architecture, this cruciform building with a multi-tiered roof topped by a mondop was built by Rama I in 1789. Used for royal lying-in-state ceremonies to this day. The gilded exterior and interior craftsmanship is among the finest in Thailand.\n\n**Chakri Maha Prasat Hall**: The most photographed building in the complex — a Victorian Italianate palace topped with three Thai spired roofs, built by Rama V after his visits to Europe. The unexpected fusion of Western neoclassicism and Thai rooflines makes it visually unique in the world. The second floor is used for state receptions.\n\n**Phra Thinang Amarin Winichai Throne Hall**: The original audience hall of the Bangkok period, where Rama I received his subjects and foreign ambassadors. The Royal Barge-shaped Busabok Mala Throne, canopied by a nine-tiered white umbrella, is one of Thailand's most opulent royal artefacts."
+                        },
+                        {
+                            title: "Dress Code, Prohibited Items & Practical Tips",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "The Grand Palace enforces a **strict dress code** at all entry points. Requirements: shoulders must be fully covered, legs must be covered below the knee, closed-toe shoes (sandals are acceptable if they cover the toes). Free sarongs and shawls are available at the gate for those who arrive underdressed.\n\n**Prohibited**: Large bags, backpacks (small bags under A4 size are permitted), food and drink inside the temple area, selfie sticks, drones, professional camera equipment without a permit.\n\n**Best time to visit**: Arrive at 8:00 AM on the dot when gates open. By 9:30 AM, tour buses begin arriving in volume and the queue for Wat Phra Kaew becomes long. Plan 2.5–3 hours for a thorough visit. Avoid visiting during Buddhist holidays (check the Thai calendar) when the complex is extremely crowded with Thai pilgrims.\n\n**Scam warning**: Tuk-tuk drivers parked near the Grand Palace often tell tourists the palace is 'closed today for a Buddhist holiday' and offer to take them to a gem shop instead. The Grand Palace is open every day of the year except during certain royal ceremonies — always walk to the gate to check yourself."
+                        }
+                    ],
+                    faqs: [
+                        { q: "How long should I spend at the Grand Palace?", a: "Allow a minimum of 2 hours; 3 hours is ideal for a thorough visit including Wat Phra Kaew, the Dusit Maha Prasat, the Chakri Hall, and a walk through the cloister paintings. With a private licensed guide who decodes the royal symbolism and mythological iconography, 2.5–3 hours flies by." },
+                        { q: "Can I buy Grand Palace tickets online?", a: "No — as of 2026, the Grand Palace does not have an official online ticketing system for individual visitors. Tickets are only available at the West Gate entrance on Na Phra Lan Road. Beware of third-party websites selling 'pre-booked' tickets — these are unofficial and often overpriced. Simply arrive early to avoid the queue." },
+                        { q: "Is the Grand Palace worth it in 2026?", a: "Absolutely. Despite the crowds and the ฿500 entry fee (among the highest in Thailand), the Grand Palace remains the single most extraordinary concentration of Thai royal craftsmanship and Buddhist art anywhere in the world. No photograph does justice to the scale, gilding, and detail visible in person. A licensed guide transforms a visually overwhelming experience into a genuinely moving historical journey." },
+                        { q: "What is the nearest BTS/MRT station to the Grand Palace?", a: "The Grand Palace is in the Rattanakosin Old City, which is not directly served by BTS or MRT. The nearest options: **MRT Sam Yot** (15-minute walk / ฿60 tuk-tuk), **BTS Saphan Taksin + Chao Phraya boat** to Tha Chang Pier (10-minute walk). Most visitors take Grab or a metered taxi directly to the West Gate entrance on Na Phra Lan Road." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "TouristAttraction",
+                        "name": "Grand Palace Bangkok",
+                        "description": "The Grand Palace is Bangkok's most iconic landmark — a 218,400 sq metre complex of royal halls, sacred temples, and gilded shrines on the banks of the Chao Phraya River.",
+                        "address": { "@type": "PostalAddress", "streetAddress": "Na Phra Lan Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                        "openingHours": "Mo-Su 08:30-15:30",
+                        "priceRange": "฿500"
+                    }
+                };
+
+            case "wat-pho":
+                return {
+                    title: "Wat Pho Bangkok: Reclining Buddha, Tickets & Complete Guide (2026)",
+                    description: "Everything you need to know about visiting Wat Pho in Bangkok — the temple of the Reclining Buddha, birthplace of Thai massage. Ticket prices, opening hours, what to see, and insider tips for 2026.",
+                    heroImage: "/things-to-do/bangkok-wat-pho.webp",
+                    fastFacts: [
+                        { icon: 'Ticket', label: 'Entry Fee', value: '฿200 per person' },
+                        { icon: 'Clock', label: 'Opening Hours', value: '8:00 AM – 5:00 PM daily' },
+                        { icon: 'Map', label: 'Location', value: '2 Sanam Chai Rd, Rattanakosin' }
+                    ],
+                    sections: [
+                        {
+                            title: "The Reclining Buddha — Scale, Symbolism & What to Look For",
+                            image: "/things-to-do/bangkok-wat-pho.webp",
+                            content: "The **Reclining Buddha** of Wat Pho is the largest reclining Buddha image in Thailand and one of the most impressive religious sculptures in Southeast Asia. At **46 metres long and 15 metres high**, the gold-plated figure fills an entire building — the Viharn Phra Non — from wall to wall, so large that a single photograph cannot capture it; you must walk alongside it, section by section.\n\nThe statue depicts the **Mahaparinirvana** — the moment the Buddha passed from earthly existence into final Nirvana. The expression is one of perfect composure and serenity. The pillowing cushion beneath the head, the gentle curve of the form, and the half-lidded eyes convey a profound peace that even sceptical visitors find affecting.\n\nThe most detailed elements are the **soles of the feet**: each is inlaid with 108 auspicious lakshana (characteristics of the Buddha) in polished mother-of-pearl, divided into sections covering the 108 marks that identify the Buddha in Buddhist iconography. Walk around the feet slowly — a guide can identify key symbols including the Dharma Wheel (centre), the conch shell, flowers, and geometric patterns that encode Buddhist cosmology.\n\nAlong the wall behind the statue, **108 bronze bowls** are set into the floor. Visitors purchase a small bag of 108 coins (included in some ticket packages) and drop one coin into each bowl as they walk the length of the statue — a meditative ritual that generates merit and covers the cost of the bowls' maintenance."
+                        },
+                        {
+                            title: "Beyond the Reclining Buddha: Wat Pho's Hidden Depth",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "Most visitors see the Reclining Buddha and leave, missing **Wat Pho's extraordinary breadth**. The wider temple complex is the largest in Bangkok, containing:\n\n**The Four Great Chedis (Phra Maha Chedi Si Rajakarn)**: Four massive bell-shaped stupas, each roughly 42 metres tall, covered in coloured ceramic tiles — white, yellow, green, and blue — commemorating the first four Chakri dynasty kings. The tile patterns are extraordinarily intricate up close.\n\n**The Ordination Hall (Ubosot)**: Housing a large gilded seated Buddha image, surrounded by 394 gilded Buddha images in wall niches and 152 gilded seated Buddhas on the gallery. The mother-of-pearl inlaid doors are considered masterpieces of Thai craftsmanship.\n\n**The Wat Pho Massage School**: At the rear of the complex, the most respected traditional Thai massage school in the country offers 30-minute sessions (฿260) and 60-minute sessions (฿420) performed by advanced students under supervision. The quality is remarkably high — this is therapeutic massage, not a tourist experience.\n\n**The Rock Garden**: Unusual carved stone figures — Chinese stone soldiers and animals — dot the temple garden. These were used as ballast on Chinese cargo ships and donated to the temple, creating a surreal international flavour in the grounds of a quintessentially Thai temple."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Can I get a Thai massage at Wat Pho?", a: "Yes — the Wat Pho Traditional Thai Massage School at the rear of the temple complex offers authentic therapeutic Thai massage from ฿260 for 30 minutes. The school is Thailand's most authoritative massage institution, and the students are in their final certification stages. Book on arrival — slots fill quickly in the afternoon." },
+                        { q: "How long does Wat Pho take to visit?", a: "Allow 1.5–2 hours for a thorough visit: 30 minutes for the Reclining Buddha hall, 30 minutes for the four great chedis and ordination hall, 15 minutes for the rock garden, and 30–60 minutes for a massage if you choose. Combined with the Grand Palace next door (10-minute walk), a full morning covers both sites easily." },
+                        { q: "Is Wat Pho free?", a: "No — entry is ฿200 per person as of 2026. The fee is separate from the Grand Palace ticket (฿500), though the Grand Palace ticket has historically offered bundled entry to Wat Pho on the same day — check at the Grand Palace gate when purchasing your ticket." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "TouristAttraction",
+                        "name": "Wat Pho Bangkok",
+                        "description": "Wat Pho is Bangkok's oldest and largest temple, home to the 46-metre Reclining Buddha and the birthplace of traditional Thai massage.",
+                        "address": { "@type": "PostalAddress", "streetAddress": "2 Sanam Chai Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                        "openingHours": "Mo-Su 08:00-17:00",
+                        "priceRange": "฿200"
+                    }
+                };
+
+            case "wat-arun":
+                return {
+                    title: "Wat Arun Bangkok: Temple of Dawn Complete Guide 2026",
+                    description: "The complete guide to Wat Arun — Bangkok's iconic Temple of Dawn. Opening hours, ticket price, best time to visit, how to get there, and what to see at the porcelain-encrusted prang on the Chao Phraya River.",
+                    heroImage: "/wat-arun-new.webp",
+                    fastFacts: [
+                        { icon: 'Ticket', label: 'Entry Fee', value: '฿100 per person' },
+                        { icon: 'Clock', label: 'Opening Hours', value: '8:00 AM – 6:00 PM daily' },
+                        { icon: 'Map', label: 'How to Get There', value: '3-baht ferry from Tha Tien Pier' }
+                    ],
+                    sections: [
+                        {
+                            title: "The Porcelain Prang — Architecture, History & How to Climb It",
+                            image: "/things-to-do/bangkok-wat-arun.webp",
+                            content: "**Wat Arun Ratchawararam** (Temple of Dawn) is named for Aruna, the Hindu god of dawn, because King Taksin arrived here by boat at sunrise after retaking Bangkok from the Burmese in 1767. The original temple was a small riverside shrine; it was expanded over the following century, culminating in the current **70-metre central prang (tower)** built during the reign of Rama II and Rama III in the early 19th century.\n\nThe prang's surface is the defining artistic achievement: **millions of fragments of Chinese porcelain** — plates, bowls, cups, and tiles in every pattern and shade — are embedded into the plaster in intricate mosaic patterns covering every centimetre of the tower. Up close, the texture is extraordinary: rough, glittering, and detailed in a way that photographs cannot capture. The specific blue-and-white Chinese export porcelain pieces (mostly broken cargo from trading ships) give the tower a specific palette — cool blues, soft greens, white, and occasional bursts of red and gold — that changes quality in different lights.\n\nThe central prang is **climbable** — steep stone stairs with rope handrails ascend to the middle terrace (approximately 40 metres). The view from the terrace over the Chao Phraya to the Grand Palace complex across the river, and upstream to the Rama VIII Bridge, is one of Bangkok's finest urban panoramas. The climb is genuinely steep (the steps are very narrow and nearly vertical) — take it slowly.\n\nFour smaller prangs surround the central tower, each decorated with stucco figures of the Hindu deity Indra riding Erawan, the three-headed elephant. The base of the complex features Chinese stone soldiers and guardian giants (yakshas) characteristic of the Rama III era's fascination with Chinese artistic influence."
+                        },
+                        {
+                            title: "Best Time to Visit: Dawn vs. Dusk vs. Night",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "Despite being called the Temple of Dawn, **the best time to visit Wat Arun is late afternoon into dusk**. The west-facing porcelain surface catches the golden late afternoon sun with extraordinary warmth, the crowds thin after 4 PM, and staying into twilight allows you to witness the illumination turn on — Wat Arun lit at night, reflected in the river, is one of Bangkok's most spectacular sights.\n\nFor the classic postcard photograph of Wat Arun, position yourself on the **opposite (east) bank** at **Tha Tien or the terrace of Amorosa restaurant** for the golden-hour shot with the spire glowing against a sky that transitions from blue to orange to magenta.\n\n**Dawn visits** (arriving by ferry before 8 AM when the temple opens) are magical for their own reasons: near-empty grounds, mist rising off the river, monks performing their morning rituals, and the temple at its quietest. However, the east-facing light means the porcelain is in shadow at dawn — the temple faces west, so afternoon light is architecturally superior.\n\n**Night visits** are available until 8:30 PM (the temple illumination stays on, though the ticket office closes at 6 PM — enter before then). The illuminated temple reflected in the river, accessible from the night market around Tha Tien Pier, is a Bangkok experience not to miss on a clear evening."
+                        }
+                    ],
+                    faqs: [
+                        { q: "How do I get to Wat Arun?", a: "Take the **Chao Phraya Express Boat** to **Tha Tien Pier**, then board the 3-baht cross-river ferry that runs every few minutes. The entire crossing takes 2 minutes. Alternatively, the **Chao Phraya Tourist Boat** (blue flag, ฿60/day unlimited) stops at Tha Tien. From BTS: take the Silom Line to BTS Saphan Taksin, then the express boat north to Tha Tien (4 stops)." },
+                        { q: "Can I visit Wat Arun and Wat Pho on the same day?", a: "Yes — they are connected by the 3-baht cross-river ferry. A classic Bangkok morning: start at the Grand Palace (8:30 AM), walk to Wat Pho (30 minutes), then ferry to Wat Arun (10 minutes). This entire circuit covers all three major Rattanakosin sites before lunch. Book a [private guided walking tour](/thailand/bangkok) to cover all three with historical context." },
+                        { q: "Is Wat Arun worth visiting?", a: "Absolutely — Wat Arun is one of the few Bangkok sites that genuinely exceeds photographs in real life. The scale, the porcelain texture, and the river setting combine to create an experience unique in Southeast Asia. The ฿100 entry fee is excellent value. Evening is better than morning, and dusk is better than afternoon." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "TouristAttraction",
+                        "name": "Wat Arun Bangkok",
+                        "description": "Wat Arun (Temple of Dawn) is Bangkok's iconic riverside temple, its 70-metre prang encrusted with millions of fragments of Chinese porcelain on the west bank of the Chao Phraya River.",
+                        "address": { "@type": "PostalAddress", "streetAddress": "158 Thanon Wang Doem, Khwaeng Wat Arun", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                        "openingHours": "Mo-Su 08:00-18:00",
+                        "priceRange": "฿100"
+                    }
+                };
+
+            case "1-day-bangkok-itinerary":
+                return {
+                    title: "1-Day Bangkok Itinerary: The Perfect 24 Hours (2026)",
+                    description: "The definitive 1-day Bangkok itinerary for 2026. Cover the Grand Palace, Wat Pho, Wat Arun, canal tour, and Yaowarat Chinatown street food in a single perfectly timed day — with exact timings, transport, and insider tips.",
+                    heroImage: "/bangkok-hero.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Start Time', value: '7:30 AM (temple gates)' },
+                        { icon: 'Map', label: 'Area', value: 'Rattanakosin → Chinatown' },
+                        { icon: 'Star', label: 'Key Tip', value: 'Arrive Grand Palace at 8:00 AM sharp' }
+                    ],
+                    sections: [
+                        {
+                            title: "Morning (8:00 AM – 1:00 PM): Royal Bangkok",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "**7:30 AM**: Breakfast at any of the street food carts on Maharaj Pier Road — rice congee (joke), egg toast, or fresh-pressed juice. Light breakfast only — you need your energy for the temples.\n\n**8:00 AM**: Arrive at the **Grand Palace** West Gate (Na Phra Lan Road). Being first in the queue when the gate opens at 8:30 AM means you'll experience Wat Phra Kaew with a fraction of the later crowd. Spend 90 minutes: 30 minutes in the Wat Phra Kaew hall (read the Ramakien murals), 30 minutes on the Dusit Maha Prasat and Chakri Hall exteriors, 30 minutes exploring the smaller pavilions.\n\n**10:00 AM**: Walk 7 minutes south to **Wat Pho**. Spend 45 minutes: 20 minutes with the Reclining Buddha (walk the full length, look at the mother-of-pearl feet), 15 minutes around the four great chedis, 10 minutes in the rock garden. If you want a Thai massage, book a 30-minute session now (฿260) — it sets you up perfectly for the afternoon.\n\n**11:30 AM**: Walk to **Tha Tien Pier** (5 minutes) and board the 3-baht cross-river ferry to **Wat Arun**. Spend 45 minutes exploring the prang up close, climb to the middle terrace for the river view, examine the porcelain mosaic detail. Return by ferry.\n\n**12:30 PM**: Lunch at **Tha Tien Market** or the riverside restaurants near Tha Tien Pier. Try the famous crab curry (poo pad pong karee) at the cluster of shophouses on the pier — affordable, excellent quality, river view."
+                        },
+                        {
+                            title: "Afternoon (2:00 PM – 6:00 PM): Canals & Culture",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "**2:00 PM**: Board a **longtail boat canal tour** from Tha Chang Pier or Central Pier. A 1-hour private canal tour (฿1,500–฿2,000 for the whole boat) takes you through Khlong Bangkok Noi and Khlong Mon, past wooden stilted houses, active Buddhist temples accessible only by water, and the remarkable contrast of the rural west bank against the skyscrapers visible in the distance. The midday heat is manageable on the water with the breeze.\n\n**3:30 PM**: Return to the east bank. Take the BTS from **Saphan Taksin (Sathorn) Pier** — a 5-minute Grab ride or 20-minute riverside walk from the canal tour return point — to **Asok or Phrom Phong** for a coffee break at one of Sukhumvit's excellent cafes. 30 minutes to recharge.\n\n**5:00 PM**: Head to **Wat Arun** for golden-hour photographs from across the river (if you didn't climb earlier) — the late afternoon light on the west-facing porcelain is extraordinary. Alternatively, explore the **Rattanakosin neighbourhood on foot** as the late-afternoon light softens the limestone temple walls."
+                        },
+                        {
+                            title: "Evening (6:30 PM – 10:00 PM): Yaowarat Chinatown",
+                            image: "/things-to-do/bangkok-chinatown.webp",
+                            content: "**6:30 PM**: Take the MRT to **Hua Lamphong** or **Sam Yan** and walk 10 minutes to **Yaowarat Road**. As the neon signs flicker on and the street food vendors fire up their woks, Chinatown transforms into Bangkok's most intense culinary experience.\n\nEssential stops in order: Start at the **Talat Noi end** (the western part of Yaowarat Road) and work east. First: **Nay Mong Hoy Tod** on Plaeng Nam Road (Michelin Bib Gourmand) for crispy oyster omelette. Then: **Giant grilled river prawns** at the open-air stalls on Yaowarat Road itself. **Bird's Nest Soup** at one of the heritage shophouses along Yaowarat Soi 9 — this tonic soup is expensive (฿200–฿600) but eating it in this neighbourhood feels genuinely historic. Finish with **Mango Sticky Rice** and **Thai iced coffee** (oliang) at the vendor cluster near the Odeon Circle.\n\n**9:00 PM**: End the evening with a rooftop drink. **Sirocco at Lebua** (Silom area, 25-minute Grab ride) is Bangkok's most famous rooftop bar — the 63rd-floor sky bar where *The Hangover Part II* was filmed. Dress code applies. Drinks are expensive (฿600–฿1,200 per cocktail) but the 360-degree city view at night is worth one drink.\n\n**10:00 PM**: Grab back to your hotel. Day complete."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Is one day enough for Bangkok?", a: "One day is enough to see Bangkok's headline sites and feel the city's energy — but not enough to understand it. If you have even 2 days, the experience depth roughly triples. For a one-day visit, the itinerary above covers the Grand Palace, Wat Pho, Wat Arun, canal tour, and Chinatown street food — the essential Bangkok experience compressed efficiently." },
+                        { q: "What should I prioritise if I only have half a day?", a: "Half-day priority order: Grand Palace + Wat Pho (morning, 3.5 hours, combined walking distance). If afternoon only: Wat Arun + canal tour + Tha Tien Pier lunch. For one site only: Grand Palace with Wat Phra Kaew (the Emerald Buddha) is irreplaceable." },
+                        { q: "How much does a 1-day Bangkok trip cost?", a: "Budget traveler: Grand Palace ฿500 + Wat Pho ฿200 + Wat Arun ฿100 + ferry ฿6 + canal boat ฿200 + street food meals ฿300 + transport ฿200 = approximately **฿1,500–฿2,000 (~$45–$60 USD)** for the full day including food and entry fees. Without the rooftop bar, Bangkok is extraordinarily affordable." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "1-Day Bangkok Itinerary: The Perfect 24 Hours (2026)",
+                        "description": "The definitive 1-day Bangkok itinerary covering Grand Palace, Wat Pho, Wat Arun, canal tour, and Yaowarat Chinatown with exact timings.",
+                        "datePublished": "2026-01-15T08:00:00+07:00",
+                        "dateModified": "2026-03-01T10:00:00+07:00",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
+            case "floating-market-bangkok":
+                return {
+                    title: "Floating Markets Near Bangkok: Which One to Visit in 2026",
+                    description: "The honest guide to Bangkok's floating markets in 2026. Compare Damnoen Saduak, Amphawa, and Taling Chan — which is most authentic, how to get there, what to expect, and whether it's worth your time.",
+                    heroImage: "/things-to-do/bangkok-floating-market.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Best Market', value: 'Amphawa (Fri–Sun evenings)' },
+                        { icon: 'Map', label: 'Distance', value: '15–110 km from Bangkok' },
+                        { icon: 'Star', label: 'Local Tip', value: 'Taling Chan for a quick morning visit' }
+                    ],
+                    sections: [
+                        {
+                            title: "Damnoen Saduak — Famous but Heavily Commercialised",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "**Damnoen Saduak**, 110 km southwest of Bangkok in Ratchaburi Province, is the floating market that appears on every Bangkok postcard: narrow canals crowded with wooden boats piled high with tropical fruits and vegetables, vendors in straw hats paddling between tourists. It is photogenic, colourful, and vigorously alive — but it has been operating primarily as a tourist spectacle since the 1990s.\n\nThe canal vendors are there every morning (6 AM to noon), and the produce is genuine Thai food. But the surrounding market stalls are almost entirely tourist merchandise, prices are negotiated in USD as readily as baht, and the experience of being guided between souvenir shops during a boat ride diminishes the authenticity. If your primary goal is photography of the traditional floating market aesthetic, Damnoen Saduak delivers it reliably.\n\n**How to get there**: 2-hour drive from Bangkok (hire car recommended, no direct public transport). Most visitors book a guided day tour that manages the logistics. **Best for**: Photographers who want the classic image, first-time Thailand visitors who want the 'postcard experience,' and large groups where logistics matter more than authenticity."
+                        },
+                        {
+                            title: "Amphawa — The Most Authentic Experience",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "**Amphawa Floating Market**, 90 km southwest of Bangkok in Samut Songkhram Province, is what floating markets actually look like when they operate primarily for Thai people rather than tourists. The market runs on **Friday, Saturday, and Sunday evenings from 4 PM to 10 PM** — not mornings like most tourist-oriented markets.\n\nThe canal-side wooden shophouses sell fresh seafood grilled to order directly over the water (sit on the wooden decks hanging over the canal and eat while boats pass beneath you), Thai desserts wrapped in banana leaves, and fresh fruit — but primarily for Bangkok weekend-trippers, not foreign tourists. The food is genuinely excellent and extremely cheap (grilled whole sea bass for ฿200, steamed oysters for ฿100).\n\nThe main event at Amphawa in the late evening is the **firefly boat tour** — departing after dark, wooden boats take visitors slowly through the mangrove-lined khlongs where thousands of fireflies synchronously light mangrove trees, creating a natural bioluminescent display of startling beauty. This alone is worth the journey.\n\n**Best for**: Food lovers, couples, authenticity seekers, Thai culture enthusiasts. Must visit on a Friday/Saturday/Sunday evening. Staying overnight in one of Amphawa's excellent canal-side guesthouses is highly recommended."
+                        },
+                        {
+                            title: "Taling Chan — The Best Quick Option Near Bangkok",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "**Taling Chan Floating Market**, just 15 km west of Bangkok in the Thonburi district, is the most accessible floating market option for visitors with limited time. Open on **weekends only (Saturday and Sunday, 9 AM to 4 PM)**, it functions as a genuine local market serving Bangkok residents rather than tourists.\n\nUnlike Damnoen Saduak, the vendors here are cooking for Thai customers — boat vendors serve bowls of noodle soup, grilled fish, and curries over the canal to customers sitting on wooden platforms above the water. The market is small enough to explore in 90 minutes but authentic enough to feel genuinely connected to Bangkok's canal heritage.\n\nCombine Taling Chan with a visit to the **Khlong Bangkok Noi** canal network adjacent to it — this is one of the best areas for a longtail boat tour, passing through the historic Thonburi district and its waterway communities.\n\n**How to get there**: BTS to Bang Wa terminus, then taxi (20 minutes) or Grab. Much simpler than Damnoen Saduak. **Best for**: Day-trippers who want a floating market experience without spending half a day in transit."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Which Bangkok floating market is the best?", a: "For authenticity and overall experience: **Amphawa** (Friday–Sunday evenings) wins clearly — real Thai food, local crowds, firefly boat tours, and canal-side guesthouses. For photography and easy accessibility: **Damnoen Saduak** (mornings daily) is the most photogenic. For a quick visit without the drive: **Taling Chan** (Saturday–Sunday) is 15 km from Bangkok and far more local-feeling than Damnoen Saduak." },
+                        { q: "Are floating markets open every day?", a: "No — each market has different schedules. Damnoen Saduak: daily 6 AM–12 PM. Amphawa: Friday–Sunday 4 PM–10 PM only. Taling Chan: Saturday–Sunday 9 AM–4 PM only. Planning your Bangkok visit around a weekend allows you to visit multiple markets." },
+                        { q: "Is the floating market experience worth it?", a: "If you go to Amphawa or Taling Chan — yes, strongly. If you go to Damnoen Saduak with realistic expectations (tourist-oriented but photogenic) — it depends on your priorities. The floating market experience is a genuine window into how Bangkok's canal communities lived and still partly live. With a knowledgeable local guide who explains the canal history and helps you navigate the food, the experience is genuinely enriching." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Floating Markets Near Bangkok: Which One to Visit in 2026",
+                        "description": "Compare Damnoen Saduak, Amphawa, and Taling Chan floating markets — which is most authentic, how to get there, and what to expect in 2026.",
+                        "datePublished": "2026-01-15T08:00:00+07:00",
+                        "dateModified": "2026-03-01T10:00:00+07:00",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
+            case "bangkok-canal-tour":
+                return {
+                    title: "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
+                    description: "Everything about Bangkok canal tours in 2026. Private longtail boat routes, prices, best departure points, what to see on the khlongs, and how to book a canal tour that shows you the real Bangkok.",
+                    heroImage: "/things-to-do/bangkok-floating-market.webp",
+                    fastFacts: [
+                        { icon: 'Ticket', label: 'Private Boat', value: '฿1,500–฿2,500 per hour' },
+                        { icon: 'Clock', label: 'Best Duration', value: '1.5–2 hours' },
+                        { icon: 'Map', label: 'Best Pier', value: 'Tha Chang (near Grand Palace)' }
+                    ],
+                    sections: [
+                        {
+                            title: "Bangkok's Canal History — Why the Khlongs Matter",
+                            image: "/things-to-do/bangkok-floating-market.webp",
+                            content: "When Bangkok was founded in 1782, it was designed as an island city — a defensive ring of canals was dug around the Rattanakosin district to mirror the capital's predecessor, Ayutthaya. Over the following century, the canal network expanded to over **2,000 kilometres**, making Bangkok one of the most water-dependent cities in history.\n\nThe canals served every function: commerce (floating markets, trading boats), transport (faster and safer than roads in the rainy season), food production (canal-side gardens and fish traps), and social life (houses, shops, and temples all faced the water, not the road). European visitors in the 1850s described Bangkok as more Venetian than Amsterdam.\n\nIn the 1960s, many canals were filled in to create roads as modernisation accelerated. Today, roughly **1,800 kilometres of canal** remain — mostly in the historic Thonburi district on the west bank of the Chao Phraya — and the communities that still live on them preserve a way of life largely unchanged from the pre-modern city. A canal tour is the only way to access this living history."
+                        },
+                        {
+                            title: "Best Canal Tour Routes in Bangkok",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            content: "**Khlong Bangkok Noi & Bangkok Yai Route (1.5–2 hours)**: The most historically rich route. Departing from Tha Chang Pier near the Grand Palace, longtail boats enter the Khlong Bangkok Noi (which was the main Chao Phraya channel before a 18th-century shortcut was cut). The route passes the **Royal Barges National Museum** (8 ceremonial barges including the stunning 46-metre Suphannahong), several active canal-side temples, traditional wooden houses on stilts, school children arriving by boat, and vendors on motorcycles delivering to stilted canal houses.\n\n**Khlong Mon Route (1 hour, Thonburi)**: A shorter route through the quieter Khlong Mon, which branches off the Chao Phraya further south. This passes through a more purely residential canal community — less tourist infrastructure, more authentic daily life. The orchid farms and banana plantations along the banks are a surprising green oasis minutes from central Bangkok.\n\n**Bang Krachao Green Lung Route (2–3 hours, by bicycle)**: The 'lung of Bangkok' — a 30 sq km river peninsula opposite the industrial Phra Pradaeng district — is accessible by ferry and explored by rented bicycle through car-free paths. Not a canal tour in the longtail boat sense, but the most extraordinary green escape from urban Bangkok — a community of traditional wooden houses, Buddhist temples, and canal-side fruit orchards that feels utterly remote despite being 15 minutes by boat from BTS Khlongsan."
+                        }
+                    ],
+                    faqs: [
+                        { q: "How much does a Bangkok canal tour cost?", a: "Private longtail boats cost approximately ฿1,500–฿2,500 per hour for the entire boat (not per person), accommodating 4–8 passengers. A 1.5-hour tour typically covers the major canal highlights. Official rates are posted at Tha Chang Pier and Tha Tien Pier near the Grand Palace. Always agree on the total price, duration, and route before boarding." },
+                        { q: "What is the best time for a Bangkok canal tour?", a: "Early morning (7:30–9:30 AM) is best: canal vendors are active, the light is beautiful, and the heat is manageable. Late afternoon (4–6 PM) is the second-best option for the light quality. Avoid midday (11 AM–2 PM) in the hot season (March–May) — the combination of heat and direct sun on the water is uncomfortable." },
+                        { q: "Is a canal tour different from the Chao Phraya River?", a: "Completely different experiences. The Chao Phraya is a wide, commercial river with express boats, tourist ferries, and heavy cargo traffic. The khlongs are narrow, quiet canals through residential communities — wooden houses on stilts, gardens, temples — with almost no commercial boats. The canal tour shows you the Bangkok that existed before roads; the river shows you Bangkok as a commercial port city." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
+                        "description": "Everything about Bangkok canal tours — private longtail boat routes, prices, best departure points, and how to book.",
+                        "datePublished": "2026-01-15T08:00:00+07:00",
+                        "dateModified": "2026-03-01T10:00:00+07:00",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
+            case "chatuchak-weekend-market":
+                return {
+                    title: "Chatuchak Weekend Market: The Complete Guide (2026)",
+                    description: "Everything you need to know about Bangkok's Chatuchak Weekend Market — opening hours, how to get there, what to buy, best food stalls, section map, and insider tips for navigating the world's largest outdoor market in 2026.",
+                    heroImage: "/things-to-do/bangkok-chatuchak.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Open', value: 'Sat–Sun, 9:00 AM – 6:00 PM' },
+                        { icon: 'Map', label: 'Getting There', value: 'BTS Mo Chit / MRT Chatuchak Park' },
+                        { icon: 'Star', label: 'Best Tip', value: 'Arrive at 9 AM — beats heat & crowds' }
+                    ],
+                    sections: [
+                        {
+                            title: "What to Buy: The Best Sections",
+                            image: "/things-to-do/bangkok-chatuchak.webp",
+                            content: "Chatuchak's 15,000 stalls are organised into 27 numbered sections, each specialised. Navigating with purpose saves hours.\n\n**Section 1 & 26 — Antiques & Ceramics**: The most rewarding sections for serious shoppers. Thai, Burmese, Khmer, and Chinese antiques sit alongside reproduction ceramics — the real challenge is distinguishing genuine antiques from quality reproductions. Vendors are knowledgeable and prices are negotiable. Allow 1 hour minimum.\n\n**Section 2 & 3 — Vintage Clothing & Military Surplus**: Thailand's best collection of vintage Levi's, military jackets, graphic tees, and 90s streetwear. Quality varies, but dedicated vintage hunters consistently find extraordinary items. Prices are reasonable by international standards (฿200–฿2,000 for quality vintage pieces).\n\n**Section 7 — Furniture & Home**: Hand-crafted wooden furniture, rattan, textiles, and home accessories. Most items can be flat-packed and shipped internationally — vendors have experience with export. The quality of craftsmanship at these prices is exceptional.\n\n**Section 3A — Plants**: One of Bangkok's most beloved sections — an extraordinary range of tropical plants, orchids, bonsai, and cacti at prices that make Western plant shops look absurd. Phalaenopsis orchids in bloom for ฿50–฿200.\n\n**Section 22 — Books & Records**: Used books (large English section), vintage vinyl, Thai music, and printed collectibles. A quiet section that rewards browsers."
+                        },
+                        {
+                            title: "Best Food Inside Chatuchak",
+                            image: "/things-to-do/bangkok-street-food.webp",
+                            content: "Chatuchak has dozens of food stalls scattered throughout the sections — the quality is uneven but the best are genuinely outstanding.\n\n**Must-eat**: **Hainanese Chicken Rice** (khao man gai) at the stalls in Section 26 — slow-poached chicken over rice with ginger broth, one of Bangkok's purest flavours at ฿50–฿80. **Grilled Corn** vendors throughout the market (the Thai version uses a savoury-sweet butter rub, not Western corn). **Coconut Ice Cream** in a coconut shell at the stalls near the central clock tower. **Thai Iced Coffee** (oliang) — thick, strong, and served over ice for ฿30–฿50.\n\nFor a sit-down lunch, **Section 27** has the highest concentration of proper restaurant stalls with seating. **Or Tor Kor Market** (adjacent to Chatuchak, open daily) is Bangkok's finest fresh market — the prepared food section has exceptional quality curries, salads (yam), and grilled items.\n\n**Hydration strategy**: The heat inside Chatuchak, especially from 11 AM–2 PM, can be debilitating. Buy a coconut water (฿25–฿40) every 45 minutes. Eat something light early — the best food is in the first hours before the heat suppresses appetite."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What time does Chatuchak open and close?", a: "Chatuchak Weekend Market opens at **9:00 AM and closes at 6:00 PM, Saturday and Sunday only**. The best time to arrive is 9:00 AM when it opens — beat both the heat and the crowds. The plant and antique sections are most active in the morning. By 2 PM the market is at full capacity and the midday heat peaks." },
+                        { q: "Is there a Chatuchak market on weekdays?", a: "The main weekend market (JJ Market) is Saturday and Sunday only. However, the adjacent **Chatuchak Plant Market** (Section 3A) is open daily (reduced selection on weekdays). The **Or Tor Kor fresh produce market** next door is open daily 7 days a week and is excellent in its own right." },
+                        { q: "How do I get to Chatuchak from central Bangkok?", a: "**BTS Skytrain to Mo Chit** (end of Sukhumvit Line) or **MRT to Chatuchak Park** — both stations exit directly into the market area. From Silom or Sukhumvit, BTS Mo Chit is approximately 15–25 minutes. The MRT Kamphaeng Phet exit is closer to the plant section (Section 3A). No need for taxis or Grab — the rail connections are direct." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "LandmarksOrHistoricalBuildings",
+                        "name": "Chatuchak Weekend Market",
+                        "description": "Chatuchak Weekend Market (JJ Market) is the world's largest outdoor market, with over 15,000 stalls across 35 acres in Bangkok, open every Saturday and Sunday.",
+                        "address": { "@type": "PostalAddress", "streetAddress": "Kamphaeng Phet 2 Road", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                        "openingHours": "Sa-Su 09:00-18:00"
+                    }
+                };
+
+            case "places-to-visit-in-bangkok":
+                return {
+                    title: "Places to Visit in Bangkok: The Definitive 2026 Directory",
+                    description: "The complete directory of Bangkok's best places to visit in 2026. Temples, palaces, markets, neighbourhoods, rooftops, day trips, and hidden gems — with context, practical info, and honest assessments of what is and isn't worth your time.",
+                    heroImage: "/things-to-do/bangkok-grand-palace.webp",
+                    fastFacts: [
+                        { icon: 'Star', label: 'Top Site', value: 'Grand Palace + Wat Phra Kaew' },
+                        { icon: 'Clock', label: 'Days Needed', value: '4–5 days minimum' },
+                        { icon: 'Globe', label: 'Best Season', value: 'November – February' }
+                    ],
+                    sections: [
+                        {
+                            title: "The Essential Bangkok: Non-Negotiable Sites",
+                            image: "/things-to-do/bangkok-grand-palace.webp",
+                            content: "**Grand Palace & Wat Phra Kaew**: The most important site in Bangkok — the sacred heart of the Thai kingdom. The Emerald Buddha, the Gallery of the Ramakien murals, and the gilded throne halls represent Thai royal architecture at its absolute peak. Allow 2.5–3 hours. [Full guide →](/thailand/bangkok/grand-palace-bangkok)\n\n**Wat Pho**: Bangkok's oldest and largest temple, housing the 46-metre Reclining Buddha and the birthplace of traditional Thai massage. The four great chedis, 1,000 Buddha images, and the Wat Pho massage school make this a half-day destination. [Full guide →](/thailand/bangkok/wat-pho)\n\n**Wat Arun**: The Temple of Dawn on the west bank of the Chao Phraya — 70 metres of porcelain-encrusted prang best seen at dusk. The 3-baht cross-river ferry is itself a quintessential Bangkok experience. [Full guide →](/thailand/bangkok/wat-arun)\n\n**Yaowarat (Chinatown)**: After dark, the most intense street food experience in Southeast Asia. 250-year-old family recipes, Michelin-recognised noodle stalls, fresh giant river prawns, bird's nest soup, and mango sticky rice vendors in a neon-lit canal district."
+                        },
+                        {
+                            title: "Bangkok Beyond the Temples",
+                            image: "/things-to-do/bangkok-street-food.webp",
+                            content: "**Jim Thompson House**: The former home of the American silk entrepreneur who revived Thai silk weaving after WWII and then mysteriously disappeared in the Cameron Highlands in 1967. Six traditional Thai teakwood houses joined together contain his extraordinary collection of Asian antiques, Cambodian stone carvings, and Thai silk. One of Bangkok's most civilised and intimate museum experiences. Near BTS National Stadium.\n\n**Lumphini Park**: Bangkok's green lung — 142 acres of lake, walking paths, and trees in the heart of the city. Morning hours (6–9 AM) bring out Bangkokians in extraordinary numbers: elderly residents practising tai chi, aerobics classes, joggers, and vendors selling fresh-pressed orchid juice. The Komodo dragons (large monitor lizards) basking near the lake are a signature Bangkok encounter.\n\n**Asiatique The Riverfront**: An open-air waterfront mall built in warehouses on the Chao Phraya River, combining a night market, restaurants, cabaret shows, and the Calypso Cabaret. Accessible by free ferry from BTS Saphan Taksin. Best from 5 PM onwards.\n\n**MahaNakhon and KING POWER Mahanakhon**: The pixelated skyscraper that has replaced Wat Arun as Bangkok's most distinctive skyline feature houses a glass-floor observation deck at 314 metres — the highest point in Bangkok. The sensation of walking on glass above the city at night is extraordinary. ฿1,050 entry."
+                        },
+                        {
+                            title: "The Best Day Trips from Bangkok",
+                            image: "/things-to-do/bangkok-ayutthaya.webp",
+                            content: "**Ayutthaya (80 km north)**: The former Thai capital's UNESCO archaeological park contains some of Southeast Asia's most moving ruins — headless Buddha images, crumbling chedis, and vast palace foundations that convey the scale of the Siamese kingdom at its 17th-century peak. The 'Buddha head in tree roots' at Wat Mahathat is one of Asia's most photographed images. [Ayutthaya day trip →](/thailand/bangkok)\n\n**Kanchanaburi (130 km west)**: The Bridge on the River Kwai, the JEATH War Museum, and the Allied War Cemetery commemorate the 120,000 prisoners of war who built the Death Railway under brutal Japanese occupation in WWII. The town itself is pleasant — river rafts, waterfalls (Erawan National Park, 1 hour further), and limestone caves. A history day trip unlike any other in Thailand.\n\n**Damnoen Saduak / Amphawa (100–110 km southwest)**: The floating markets that represent Bangkok's canal heritage most photographically. Damnoen Saduak is the classic image; Amphawa is more authentic and runs on weekend evenings. [Floating market guide →](/thailand/bangkok/floating-market-bangkok)\n\n**Ko Samet (200 km southeast)**: The nearest Gulf of Thailand beach island from Bangkok — 3-hour bus or 2-hour car journey to Ban Phe, then 45-minute ferry. White sand, clear water, and a compact enough island to explore by foot. Excellent for a 2-day extension after Bangkok."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is Bangkok most famous for?", a: "Bangkok is most famous for its **grand temples** (Grand Palace, Wat Pho, Wat Arun), **street food** (especially Yaowarat Chinatown and Or Tor Kor Market), **nightlife** (from rooftop bars to the Silom entertainment district), **luxury shopping** (Siam Paragon, Central Embassy, ICONSIAM), and its extraordinary **contrast between tradition and modernity** — a 250-year-old Buddhist temple next to a glass-and-steel skyscraper is typical Bangkok." },
+                        { q: "How many days do you need in Bangkok?", a: "3 days covers the essential highlights (temples, canals, Chinatown). 5 days allows you to add a day trip to Ayutthaya, explore neighbourhoods like Ari and Thong Lo, and experience the food scene at depth. 7+ days reveals the layered, complex city beneath the tourist surface — the neighbourhood markets, the canal communities, the art galleries, and the Thai-expat restaurant culture that makes Bangkok one of Asia's most rewarding long-stay cities." },
+                        { q: "Is Bangkok or Phuket better for first-time Thailand visitors?", a: "Depends entirely on what you want. Bangkok is city, culture, history, food, and contrast. Phuket is beaches, islands, and nature. Most first-time visitors benefit from **3 days Bangkok + 4 days Phuket** — a combination that captures both the cultural and natural dimensions of Thailand. Bangkok without Phuket leaves the beaches undiscovered; Phuket without Bangkok misses Thailand's extraordinary urban culture entirely." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Places to Visit in Bangkok: The Definitive 2026 Directory",
+                        "description": "The complete directory of Bangkok's best places to visit in 2026 — temples, palaces, markets, neighbourhoods, and day trips.",
+                        "datePublished": "2026-01-15T08:00:00+07:00",
+                        "dateModified": "2026-03-01T10:00:00+07:00",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                    }
+                };
+
             default:
                 return null;
     }
