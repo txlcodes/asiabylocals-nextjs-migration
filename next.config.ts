@@ -5,6 +5,8 @@ const nextConfig: NextConfig = {
   trailingSlash: false,
 
   images: {
+    // Serve AVIF first (50% smaller), fall back to WebP — applies to all Next.js <Image> components
+    formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },
