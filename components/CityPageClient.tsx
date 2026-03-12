@@ -2317,10 +2317,19 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 const durationMatch = tour.duration?.match(/(\d+)\s*hours?/i) || tour.duration?.match(/(\d+)\s*hrs?/i);
                 const durationHours = durationMatch ? durationMatch[1] : null;
 
-                // Get lowest price from first tier of groupPricingTiers (price for 1 person)
+                // Get lowest price across ALL sources (tour-level tiers + all option tiers)
+                const INR_TO_USD_CARD = 85;
                 let lowestPrice = 0;
 
-                // PRIORITY 1: Check tour.groupPricingTiers directly (most reliable)
+                // Helper: convert option price to tour's display currency
+                const toDisplayCurrency = (price: number, optCurrency: string) => {
+                  const tourCur = tour.currency || 'USD';
+                  if (optCurrency === 'INR' && tourCur === 'USD') return Math.round(price / INR_TO_USD_CARD);
+                  if (optCurrency === 'USD' && tourCur === 'INR') return Math.round(price * INR_TO_USD_CARD);
+                  return price;
+                };
+
+                // Check tour.groupPricingTiers (tour-level tiers are in tour.currency)
                 if (tour.groupPricingTiers) {
                   try {
                     const tiers = typeof tour.groupPricingTiers === 'string'
@@ -2329,13 +2338,11 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     if (Array.isArray(tiers) && tiers.length > 0 && tiers[0]?.price) {
                       lowestPrice = parseFloat(tiers[0].price) || 0;
                     }
-                  } catch (e) {
-                    console.error('Error parsing tour groupPricingTiers:', e);
-                  }
+                  } catch (e) {}
                 }
 
-                // PRIORITY 2: Check tour options for groupPricingTiers
-                if (lowestPrice === 0 && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
+                // ALWAYS check all option tiers too (not just as fallback)
+                if (tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
                   for (const opt of tour.options) {
                     if (opt.groupPricingTiers) {
                       try {
@@ -2343,14 +2350,14 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                           ? JSON.parse(opt.groupPricingTiers)
                           : opt.groupPricingTiers;
                         if (Array.isArray(tiers) && tiers.length > 0 && tiers[0]?.price) {
-                          const firstTierPrice = parseFloat(tiers[0].price) || 0;
-                          if (firstTierPrice > 0) {
-                            lowestPrice = lowestPrice === 0 ? firstTierPrice : Math.min(lowestPrice, firstTierPrice);
+                          const rawPrice = parseFloat(tiers[0].price) || 0;
+                          const optCurrency = opt.currency || tour.currency || 'USD';
+                          const converted = toDisplayCurrency(rawPrice, optCurrency);
+                          if (converted > 0) {
+                            lowestPrice = lowestPrice === 0 ? converted : Math.min(lowestPrice, converted);
                           }
                         }
-                      } catch (e) {
-                        console.error('Error parsing option groupPricingTiers:', e);
-                      }
+                      } catch (e) {}
                     }
                   }
                 }

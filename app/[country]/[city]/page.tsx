@@ -123,6 +123,7 @@ export default async function CityPage({ params }: Props) {
                 title: opt.title,
                 pricePerPerson: opt.pricePerPerson,
                 groupPricingTiers: opt.groupPricingTiers,
+                currency: opt.currency,
               }))
             : tour.options,
         }));
