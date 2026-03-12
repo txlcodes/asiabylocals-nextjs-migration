@@ -9,7 +9,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticPages = [
     '', '/about-us', '/privacy-policy', '/terms-and-conditions',
     '/safety-guidelines', '/support', '/supplier',
-    '/india/agra', '/india/delhi', '/india/jaipur', '/thailand/phuket',
+    '/india', '/india/agra', '/india/delhi', '/india/jaipur',
+    '/thailand', '/thailand/phuket', '/thailand/bangkok',
   ].map(path => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
@@ -65,9 +66,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Bangkok info pages
+  const bangkokInfoPages = [
+    'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
+    'grand-palace-bangkok', 'wat-pho', 'wat-arun',
+    '1-day-bangkok-itinerary', 'floating-market-bangkok',
+    'bangkok-canal-tour', 'chatuchak-weekend-market', 'places-to-visit-in-bangkok',
+  ].map(slug => ({
+    url: `${BASE_URL}/thailand/bangkok/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];
-  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'udaipur', 'jodhpur', 'mumbai', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi'];
+  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi'];
   try {
     const results = await Promise.all(
       cities.map(city =>
@@ -95,5 +109,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...tourPages];
 }
