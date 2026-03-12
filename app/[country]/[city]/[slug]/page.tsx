@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
 
@@ -32,6 +32,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   const c = city.toLowerCase();
   if (c === 'agra') return AGRA_INFO_SLUGS.includes(slug);
   if (c === 'delhi') return DELHI_INFO_SLUGS.includes(slug);
+  if (c === 'jaipur') return JAIPUR_INFO_SLUGS.includes(slug);
   if (c === 'phuket') return PHUKET_INFO_SLUGS.includes(slug);
   if (c === 'bangkok') return BANGKOK_INFO_SLUGS.includes(slug);
   return false;

@@ -137,6 +137,12 @@ export const DELHI_INFO_SLUGS = [
   'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary'
 ];
 
+export const JAIPUR_INFO_SLUGS = [
+  'things-to-do-in-jaipur', 'jaipur-travel-guide-2026',
+  '1-day-jaipur-itinerary', 'amber-fort', 'hawa-mahal',
+  'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur'
+];
+
 export const PHUKET_INFO_SLUGS = [
   'things-to-do-in-phuket', 'phuket-travel-guide-2026',
   'big-buddha-phuket', 'wat-chalong', 'phuket-old-town',

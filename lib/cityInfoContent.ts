@@ -1299,6 +1299,482 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 };
 
 
+
+            // JAIPUR AUTHORITY PAGES
+            // ============================================================
+
+            case "things-to-do-in-jaipur":
+                return {
+                    title: "Things to Do in Jaipur: The Ultimate 2026 Guide to India's Pink City",
+                    description: "From the majestic Amber Fort and the iconic Hawa Mahal to vibrant bazaars overflowing with gemstones and block-printed textiles — discover why Jaipur is one of the most visually spectacular cities on Earth. This is the definitive guide to the Pink City's palaces, forts, food, and culture.",
+                    heroImage: "/things-to-do/jaipur-hawa-mahal.webp",
+                    fastFacts: [
+                        { icon: 'Map', label: 'Founded', value: '1727 by Maharaja Jai Singh II' },
+                        { icon: 'Sun', label: 'Best Season', value: 'October–March (cool & dry)' },
+                        { icon: 'Star', label: 'Top Experience', value: 'Amber Fort at sunrise' },
+                        { icon: 'Ticket', label: 'Composite Ticket', value: '₹1,000 foreign (7 monuments)' }
+                    ],
+                    sections: [
+                        {
+                            title: "1. Amber Fort — Jaipur's Most Magnificent Monument",
+                            image: "/things-to-do/jaipur-amber-fort.webp",
+                            content: "Perched on a rocky hilltop 11 kilometres north of the city centre, **[Amber Fort](/india/jaipur/amber-fort)** (also spelled Amer Fort) is the single most impressive monument in all of Rajasthan. Built primarily by Raja Man Singh I in 1592 and expanded over the next 150 years by successive rulers, the fort is a masterwork of Rajput-Mughal architectural fusion — red sandstone and white marble combined in ways that shift from fortress brutality to palace delicacy within the same corridor.\n\nThe interior highlights are extraordinary:\n- **Sheesh Mahal (Hall of Mirrors)**: Thousands of tiny convex mirrors set into the walls and ceiling create a constellation effect when lit by candlelight. This is the single most photographed room in Rajasthan.\n- **Diwan-i-Khas**: The private audience hall with painted ceilings and marble lattice screens overlooking Maota Lake.\n- **Sukh Niwas (Hall of Pleasure)**: An ingeniously designed room with water channels running through the floor — an ancient air conditioning system.\n\nArrive by 8:00 AM to beat the tour bus crowds. The morning light on the honey-coloured sandstone, reflected in the lake below, is one of India's great photographic moments.\n\nOur [Jaipur guided tours](/india/jaipur) include expert commentary that brings the fort's 400-year history alive — from the Rajput warrior kings to the Mughal alliances that shaped the fort's architecture."
+                        },
+                        {
+                            title: "2. Hawa Mahal — The Palace of Winds",
+                            image: "/things-to-do/jaipur-hawa-mahal.webp",
+                            content: "The **[Hawa Mahal](/india/jaipur/hawa-mahal)** is Jaipur's most iconic landmark and one of the most instantly recognizable buildings in all of India. Built in 1799 by Maharaja Sawai Pratap Singh, this five-storey pink sandstone facade features **953 small jharokha windows** arranged in a honeycomb pattern — designed to allow royal women in purdah (seclusion) to observe street life and festivals below without being seen.\n\nThe building is essentially a decorative wall rather than a palace — it is only one room deep at its thickest point. But what it lacks in depth it compensates for in sheer visual drama. The curved facade, viewed from the Badi Chaupar intersection, is one of India's most photographed structures.\n\n**Best photography tip**: The best photographs of Hawa Mahal are taken from the **Wind View Cafe** directly across the road on the upper floor — the elevated angle captures the entire facade with the bustling bazaar in the foreground.\n\n**Entry**: ₹200 foreign / ₹50 Indian. The view from the top floor windows, looking down over the old city's pink-washed streets, is well worth the climb.\n\n**Duration**: 30–45 minutes inside, plus time for exterior photography."
+                        },
+                        {
+                            title: "3. City Palace — Where Royalty Still Lives",
+                            image: "/things-to-do/jaipur-city-palace.webp",
+                            content: "The **[City Palace](/india/jaipur/city-palace-jaipur)** complex occupies a vast area in the heart of the old walled city and is unique among India's royal residences: **part of it is still the private residence of the Jaipur royal family**, the descendants of Maharaja Jai Singh II.\n\nThe public areas function as a world-class museum:\n- **Mubarak Mahal**: A stunning Rajput-Mughal fusion building housing the textile and costume gallery, including the famously enormous robes of Maharaja Madho Singh I.\n- **Diwan-i-Khas**: Home to the **Gangajali** — two massive sterling silver urns recorded in the Guinness World Records as the largest silver objects in the world. Each holds 4,091 litres and was used to carry sacred Ganges water to London.\n- **Pritam Niwas Chowk**: The inner courtyard with four ornate gateways, each representing a season and decorated with exquisite peacock motifs.\n\nThe palace is best visited with a guide — the historical layers spanning 300 years of Rajput rule are complex and fascinating when properly explained. Budget 90–120 minutes.\n\n**Entry**: ₹500 foreign / ₹100 Indian (includes access to the museum galleries)."
+                        },
+                        {
+                            title: "4. Jantar Mantar — Ancient Astronomy Made Monumental",
+                            content: "Adjacent to the City Palace, **Jantar Mantar** is a UNESCO World Heritage Site and one of the most intellectually fascinating attractions in India. Built by Maharaja Jai Singh II between 1724 and 1734, this is the world's **largest collection of stone astronomical instruments** — 19 massive masonry devices designed to track celestial bodies with extraordinary precision.\n\nThe centrepiece is the **Samrat Yantra**, the world's largest stone sundial at 27 metres tall. It can tell the time accurately to within **2 seconds**. Other instruments measure the positions of stars, predict eclipses, and track the movement of constellations.\n\n**Why you need a guide**: Without expert explanation, Jantar Mantar looks like abstract sculpture. With a knowledgeable [Jaipur guide](/india/jaipur), each instrument becomes a window into the mathematical genius of 18th-century Indian astronomy. This is the site that benefits most from guided interpretation in all of Jaipur.\n\n**Entry**: ₹200 foreign / ₹40 Indian. Duration: 45–60 minutes."
+                        },
+                        {
+                            title: "5. Nahargarh Fort — The Best Sunset View in Rajasthan",
+                            image: "/things-to-do/jaipur-nahargarh-fort.webp",
+                            content: "While Amber Fort gets the crowds, **[Nahargarh Fort](/india/jaipur/nahargarh-fort)** rewards visitors with something even more precious: **the finest panoramic view of Jaipur** from its ramparts high above the city on the Aravalli Hills.\n\nBuilt in 1734 by Maharaja Jai Singh II as a retreat and defensive position, Nahargarh's walls and bastions snake dramatically across the ridge overlooking the entire Pink City. On a clear day, you can see from Amber Fort in the north to the distant plains in the south.\n\nThe most fascinating interior feature is the **Madhavendra Bhawan** — a complex of twelve identical suites, one for each of the king's twelve queens, arranged symmetrically around a central courtyard. The design ensured that no queen could know when the king was visiting another.\n\n**Sunset at Nahargarh** is legendary. Arrive by 4:30 PM, find a spot on the western ramparts, and watch the Pink City glow amber, then gold, then deep orange as the sun sets over the Aravalli range. This is consistently rated one of the finest sunset experiences in all of India.\n\n**Entry**: ₹200 foreign / ₹50 Indian. The drive up the winding hill road takes 20 minutes from the city centre."
+                        },
+                        {
+                            title: "6. Explore Jaipur's Legendary Bazaars",
+                            content: "Jaipur's bazaars are among the most vibrant and visually stunning in Asia. The old walled city is organized into specialized market streets, each dealing in specific goods — a system that has operated continuously since the city's founding in 1727.\n\n### Johari Bazaar (Jewellery)\nJaipur is a **global centre for gemstone cutting**, particularly emeralds, rubies, and sapphires. Johari Bazaar is where generations of jewellers and gemstone dealers have traded for nearly 300 years. The Kundan and Meenakari jewellery techniques practised here are world-famous.\n\n### Bapu Bazaar (Textiles)\nFamous for Rajasthani **block-printed fabrics**, bandhani (tie-dye), and mojari (embroidered leather shoes). The vibrant colours and intricate hand-printed patterns make this a photographer's paradise.\n\n### Tripolia Bazaar (Metalwork & Bangles)\nSpecializes in lac bangles, brassware, and traditional Rajasthani handicrafts. The artisans here create intricate metalwork using techniques unchanged for centuries.\n\n**Shopping tip**: A [Jaipur heritage walk](/india/jaipur) with a local guide helps you navigate the maze of lanes, find authentic workshops, and negotiate fair prices. Without guidance, visitors often overpay or miss the best artisan stalls hidden in back lanes."
+                        },
+                        {
+                            title: "7. Jal Mahal — The Water Palace",
+                            content: "**Jal Mahal** (Water Palace) sits in the centre of Man Sagar Lake, appearing to float on the water's surface. This mid-18th century palace is one of Jaipur's most photographed landmarks, particularly at sunset when the Mughal-style sandstone facade glows warm amber against the Nahargarh Hills behind.\n\nThe palace cannot be entered — it is closed to visitors as a protected monument. However, the lakeside promenade offers excellent views and photography opportunities. The causeway approach and the surrounding bird sanctuary make it a peaceful contrast to the busy city monuments.\n\n**Best time to visit**: Late afternoon (4:00–5:30 PM) when the light is warm and the Nahargarh hills behind the palace create a dramatic backdrop.\n\n**Duration**: 20–30 minutes. Jal Mahal works perfectly as a stop between the city centre and Amber Fort, as it lies on the main road connecting both."
+                        },
+                        {
+                            title: "8. Taste Jaipur's Royal Cuisine",
+                            content: "Jaipur's food is a direct reflection of its royal heritage — rich, spiced, and deeply satisfying. Rajasthani cuisine is built for the desert climate: preserved ingredients, slow-cooked meats, and robust flavours.\n\n**Essential dishes to try in Jaipur:**\n- **Dal Baati Churma**: Rajasthan's signature dish — baked wheat balls served with lentil soup and sweet crumbled bread. The definitive Rajasthani comfort food.\n- **Laal Maas**: A fiery red mutton curry cooked with mathania chillies — not for the faint-hearted, but unforgettable.\n- **Pyaaz Kachori**: Onion-stuffed deep-fried bread, best at **Rawat Misthan Bhandar** or the legendary **Laxmi Misthan Bhandar (LMB)** on Johari Bazaar.\n- **Ghewar**: A latticed disc-shaped sweet soaked in saffron syrup — Jaipur's signature dessert, especially during the Teej festival.\n- **Mirchi Vada**: Deep-fried stuffed chilli peppers — Jaipur's most popular street snack.\n\nFor the full experience, a [Jaipur food tour](/india/jaipur) takes you through the old city's best stalls, family-run restaurants, and hidden sweet shops that no guidebook mentions."
+                        },
+                        {
+                            title: "Book Your Jaipur Tour With a Local Expert",
+                            isCTA: true,
+                            icon: "User",
+                            content: "A licensed local guide transforms Jaipur from a monument checklist into a living narrative. Our historian guides decode the Rajput architecture, navigate the bazaar labyrinth, take you to food stalls locals actually eat at, and share stories that make every palace and fort unforgettable.",
+                            buttonText: "Browse Jaipur Tours",
+                            buttonLink: "/india/jaipur"
+                        }
+                    ],
+                    faqs: [
+                        { q: "What are the top things to do in Jaipur?", a: "The essential Jaipur experiences: [Amber Fort](/india/jaipur/amber-fort) at sunrise (Rajasthan's finest fort), [Hawa Mahal](/india/jaipur/hawa-mahal) (Palace of Winds), [City Palace](/india/jaipur/city-palace-jaipur) museum, Jantar Mantar astronomical observatory, [Nahargarh Fort](/india/jaipur/nahargarh-fort) sunset, Johari Bazaar gemstone shopping, Jal Mahal lake view, and a Rajasthani food trail through the old city. Budget 2–3 full days for the complete experience." },
+                        { q: "How many days do I need in Jaipur?", a: "**Minimum 2 full days** for the key highlights. Day 1: Amber Fort + Jal Mahal + City Palace + Jantar Mantar + Hawa Mahal. Day 2: Nahargarh Fort sunrise + bazaar shopping + food tour + evening cultural show. With 3 days, add a Ranthambore tiger safari or a visit to Pushkar and Abhaneri." },
+                        { q: "What is Jaipur famous for?", a: "Jaipur is famous for its stunning **pink-washed architecture** (earning it the name 'Pink City'), magnificent royal palaces like City Palace and Hawa Mahal, formidable hilltop forts like Amber Fort, its status as a **global gemstone cutting centre**, vibrant textile bazaars, and rich Rajasthani cuisine. As part of India's Golden Triangle (Delhi–Agra–Jaipur), it is one of the three most-visited cities in India." },
+                        { q: "Is Jaipur safe for tourists?", a: "Jaipur is generally considered one of the safer cities for tourists in North India. Standard precautions apply: use pre-booked transport, avoid poorly lit areas at night, and dress modestly at religious sites. A [local guide](/india/jaipur) adds an extra layer of safety and ensures you navigate the city confidently." },
+                        { q: "What is the best time to visit Jaipur?", a: "**October to March** — temperatures range from 12°C to 25°C with clear skies. Peak season is November–February. Avoid May–June when temperatures exceed 45°C. The monsoon (July–September) brings lush greenery but humid heat. The Jaipur Literature Festival (January) and Kite Festival (January 14th) are spectacular events." },
+                        { q: "What should I buy in Jaipur?", a: "Jaipur is a premier shopping destination. **Johari Bazaar** for gemstones and Kundan jewellery. **Bapu Bazaar** for block-printed fabrics and bandhani textiles. **Tripolia Bazaar** for lac bangles and brassware. **Mojari** (embroidered leather shoes) and **blue pottery** are classic Jaipur souvenirs. A [heritage walk guide](/india/jaipur) helps find authentic artisan workshops." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Things to Do in Jaipur: The Ultimate 2026 Guide to India's Pink City",
+                        "description": "Comprehensive guide to Jaipur's palaces, forts, bazaars, food, and culture — the definitive Pink City travel resource.",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/things-to-do-in-jaipur"
+                    }
+                };
+
+            case "jaipur-travel-guide-2026":
+                return {
+                    title: "Jaipur Travel Guide 2026 — Everything You Need to Know Before Visiting the Pink City",
+                    description: "The definitive Jaipur travel guide for 2026. Covers when to visit, how to get there, where to stay, what to eat, monument tickets, transport options, cultural etiquette, and insider tips from local experts who know every lane of the Pink City.",
+                    heroImage: "/things-to-do/jaipur-city-palace.webp",
+                    fastFacts: [
+                        { icon: 'Map', label: 'Location', value: 'Rajasthan, North India' },
+                        { icon: 'Clock', label: 'Time Zone', value: 'IST (UTC+5:30)' },
+                        { icon: 'Wallet', label: 'Daily Budget', value: '₹3,000–₹10,000 per person' },
+                        { icon: 'Sun', label: 'Best Months', value: 'October–March' },
+                        { icon: 'AlertTriangle', label: 'Avoid', value: 'May–June (extreme heat 45°C+)' }
+                    ],
+                    sections: [
+                        {
+                            title: "Getting to Jaipur",
+                            content: "Jaipur is well-connected and easy to reach from Delhi, Agra, and other major Indian cities.\n\n**By Air**: Jaipur International Airport (JAI) receives direct flights from Delhi (1 hour), Mumbai (2 hours), Bangalore, Hyderabad, and Kolkata. International connections via Delhi or Mumbai.\n\n**By Train**: The **Vande Bharat Express** and **Shatabdi Express** from Delhi take approximately 4–4.5 hours. The **Ajmer Shatabdi** is the most popular service. From Agra, trains take 4–5 hours via the Delhi-Mumbai line.\n\n**By Road**: The **Delhi-Jaipur Expressway (NH-48)** makes the 280 km drive possible in 4.5–5 hours. This is the most popular option for [Golden Triangle tours](/india/agra). From Agra, the drive takes approximately 4 hours via the Agra-Jaipur Highway (NH-21).\n\n**From the airport/station**: Pre-book an Uber or Ola to your hotel. Avoid negotiating with taxi drivers outside the station — use the prepaid taxi counter or ride-hailing apps for fair, metered rates."
+                        },
+                        {
+                            title: "Where to Stay in Jaipur",
+                            content: "Jaipur offers accommodation across every budget, from palatial heritage hotels to clean budget guesthouses.\n\n**Heritage/Luxury**: Jaipur is famous for its **heritage hotels** — restored havelis and palaces converted into boutique properties. The Rambagh Palace (Taj), Samode Haveli, and Narain Niwas Palace offer unforgettable royal experiences.\n\n**Mid-range**: The old city area (C-Scheme, MI Road corridor) has excellent mid-range options close to all major monuments. Look for properties on Bani Park and Civil Lines — clean, safe, and central.\n\n**Budget**: Hostels and guesthouses in the old walled city offer dorm beds from ₹500 and private rooms from ₹1,200. Hathroi area near the train station is convenient and budget-friendly.\n\n**Pro tip**: Stay in or near the walled city if this is your first visit — walking distance to Hawa Mahal, City Palace, and Jantar Mantar saves significant transport time and allows spontaneous exploration of the bazaars."
+                        },
+                        {
+                            title: "Getting Around Jaipur",
+                            content: "Jaipur's attractions are spread across the city. Here is how to navigate efficiently:\n\n**Best option — Private driver for the day**: ₹1,500–₹2,500 for a full day with air conditioning. This is the most efficient and comfortable way to cover Jaipur's widely spread monuments, especially Amber Fort (11 km from the city centre) and Nahargarh Fort (hilltop). Our [Jaipur tours](/india/jaipur) include private transport.\n\n**Uber/Ola**: Reliable, metered, and affordable within the city. Expect ₹100–₹250 per ride between major sites.\n\n**Auto-rickshaws**: Ubiquitous but always negotiate the fare before boarding. ₹50–₹150 for most city rides. Use the Ola Auto option for metered auto rides.\n\n**Walking**: The old walled city (Hawa Mahal → City Palace → Jantar Mantar → bazaars) is entirely walkable. This is the best way to experience the Pink City's atmosphere.\n\n**Avoid**: Public buses (overcrowded, unreliable), cycle rickshaws for long distances, and self-driving unless you are experienced with Indian traffic."
+                        },
+                        {
+                            title: "Monument Tickets & Composite Pass",
+                            content: "Jaipur offers a **Composite Ticket** that covers seven major monuments for one discounted price. This is essential knowledge:\n\n**Composite Ticket**: ₹1,000 foreign / ₹300 Indian — valid for 2 days and covers:\n1. Amber Fort\n2. Nahargarh Fort\n3. Hawa Mahal\n4. Jantar Mantar\n5. Albert Hall Museum\n6. Sisodia Rani Ka Bagh\n7. Vidyadhar Ka Bagh\n\n**City Palace**: Separate ticket — ₹500 foreign / ₹100 Indian. Not included in the composite pass.\n\n**Jal Mahal**: Free (exterior viewing only, palace is closed to visitors).\n\n**Important**: Buy the composite ticket at the first monument you visit. It is valid for 2 consecutive days. This alone saves approximately ₹600 compared to buying individual tickets.\n\n**Photography**: Most monuments allow free photography with phones and cameras. Tripods and professional equipment may require additional fees at some sites."
+                        },
+                        {
+                            title: "Food & Drink in Jaipur",
+                            content: "Rajasthani cuisine is bold, rich, and deeply satisfying — built for the desert climate with preserved ingredients, slow-cooked meats, and robust spicing.\n\n### Must-Try Dishes\n- **Dal Baati Churma**: Rajasthan's signature — baked wheat balls with lentil soup and sweet crumbled bread\n- **Laal Maas**: Fiery red mutton curry with mathania chillies\n- **Pyaaz Kachori**: Onion-stuffed fried bread — best at Rawat Misthan Bhandar\n- **Ghewar**: Latticed saffron sweet — Jaipur's signature dessert\n- **Mirchi Vada**: Deep-fried stuffed chillies — the city's favourite street snack\n\n### Where to Eat\n- **LMB (Laxmi Misthan Bhandar)**: Johari Bazaar institution since 1954 — pure vegetarian Rajasthani thali\n- **Rawat Misthan Bhandar**: Famous for the best pyaaz kachori in the city\n- **Niros**: MI Road classic since 1949 — reliable Indian and Continental\n- **1135 AD**: Inside Amber Fort — royal dining experience with fort views\n- **Street food stalls around Badi Chaupar**: The best mirchi vada and lassi in the old city\n\n**Water**: Only drink sealed bottled water. Avoid ice in street stalls. Carry 2 litres minimum when visiting forts in warm weather."
+                        },
+                        {
+                            title: "Cultural Etiquette & Practical Tips",
+                            content: "**Dress code**: Cover shoulders and knees at all religious sites (temples, mosques). Carry a light scarf for versatile coverage.\n\n**Shoes**: Remove shoes before entering temples and some palace inner chambers. Wear slip-on footwear for convenience.\n\n**Photography**: Always ask permission before photographing people, especially women. Some temple interiors prohibit photography.\n\n**Bargaining**: Expected in bazaars — start at 40–50% of the quoted price and negotiate from there. Fixed-price shops exist on MI Road and in malls.\n\n**Tipping**: ₹50–₹100 for restaurant waitstaff. ₹200–₹500 for a full-day driver. Tipping guides is customary and appreciated.\n\n**Heat management**: October–March is pleasant, but even in winter the midday sun can be strong. Carry sunscreen, a hat, and water. In summer (April–June), limit outdoor time to before 10:00 AM and after 4:00 PM.\n\n**Scam awareness**: Avoid unsolicited 'guides' at monument entrances. Book through reputable operators like [AsiaByLocals](/india/jaipur) for licensed, verified guides."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the best time to visit Jaipur?", a: "**October to March** is the best time — pleasant temperatures (12–25°C), clear skies, and festival season. November–February is peak tourist season. Avoid May–June (45°C+ extreme heat). The monsoon (July–September) brings greenery but humid conditions." },
+                        { q: "How many days should I spend in Jaipur?", a: "**Minimum 2 full days**. Day 1: Amber Fort, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal. Day 2: Nahargarh Fort, bazaar shopping, food exploration. 3 days allows a Ranthambore tiger safari or slower-paced exploration." },
+                        { q: "Is Jaipur expensive?", a: "Jaipur is very affordable by international standards. **Budget**: ₹1,500–₹3,000/day (hostel, street food, public transport). **Mid-range**: ₹5,000–₹8,000/day (heritage hotel, restaurant meals, private transport). **Luxury**: ₹15,000+/day (palace hotel, fine dining, private guide)." },
+                        { q: "Do I need a guide in Jaipur?", a: "Highly recommended, especially for Amber Fort, Jantar Mantar, and City Palace. These monuments are architecturally and historically complex — a licensed guide transforms the experience from sightseeing to genuine understanding. Our [Jaipur guides](/india/jaipur) are government-licensed historians." },
+                        { q: "How do I get from Delhi to Jaipur?", a: "**Train** (Vande Bharat/Shatabdi): 4–4.5 hours, most comfortable. **Car** (NH-48 Expressway): 4.5–5 hours, best for Golden Triangle tours. **Flight**: 1 hour, several daily services. **Bus** (RSRTC Volvo): 5–6 hours, budget option." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Jaipur Travel Guide 2026 — Everything You Need to Know Before Visiting the Pink City",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/jaipur-travel-guide-2026"
+                    }
+                };
+
+            case "1-day-jaipur-itinerary":
+                return {
+                    title: "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
+                    description: "One day in Jaipur demands ruthless prioritisation. This hour-by-hour itinerary covers Amber Fort at sunrise, the City Palace complex, Hawa Mahal, a bazaar walk, and a sunset at Nahargarh Fort — maximising your experience of India's most colourful city in a single extraordinary day.",
+                    heroImage: "/things-to-do/jaipur-amber-fort.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Start Time', value: '7:30 AM (early is essential)' },
+                        { icon: 'Map', label: 'Monuments Covered', value: '5–6 major sites' },
+                        { icon: 'Ticket', label: 'Total Entry Cost', value: '~₹1,500 foreign (composite + City Palace)' },
+                        { icon: 'Star', label: 'Non-Negotiable', value: 'Amber Fort + Hawa Mahal + Sunset' },
+                        { icon: 'Wallet', label: 'Daily Budget', value: '₹3,000–₹8,000 per person' }
+                    ],
+                    sections: [
+                        {
+                            title: "What You Can Realistically See in One Day in Jaipur",
+                            content: "One day in Jaipur is tight but achievable if you start early and follow a geographically efficient route. The key challenge is that **Amber Fort is 11 km north** of the old city — you must visit it first before looping back.\n\nThe optimal route:\n- **Morning**: Amber Fort (north) → Jal Mahal photo stop (on the way back)\n- **Midday**: City Palace → Jantar Mantar → Hawa Mahal (all within walking distance in the old city)\n- **Afternoon**: Bazaar walk + lunch in the old city\n- **Evening**: Nahargarh Fort sunset\n\nWhat you will **not** cover in one day: Albert Hall Museum, Birla Temple, Galtaji Monkey Temple, and a full bazaar shopping experience. These require a second day.\n\n**The single most important rule**: Book a private driver for the day (₹1,500–₹2,500). The distances between sites — especially Amber Fort and Nahargarh Fort — make public transport impractical for a one-day itinerary."
+                        },
+                        {
+                            title: "7:30 AM — Amber Fort at Sunrise",
+                            image: "/things-to-do/jaipur-amber-fort.webp",
+                            content: "Start your day at **[Amber Fort](/india/jaipur/amber-fort)**, arriving by 7:30 AM. The fort officially opens at 8:00 AM — being first in line means you experience the Sheesh Mahal, Diwan-i-Khas, and courtyards in near-silence before the tour bus crowds arrive from 9:30 AM.\n\nThe morning light on Amber Fort is extraordinary — the honey-coloured sandstone glows warm gold, and the reflection in Maota Lake below creates one of India's most iconic views.\n\n**Must-see inside** (in order of priority):\n1. **Sheesh Mahal** (Hall of Mirrors) — the most spectacular room in Rajasthan\n2. **Diwan-i-Khas** — painted ceilings and marble lattice screens\n3. **Sukh Niwas** — the ingenious water-cooled pleasure hall\n4. **Ganesh Pol** — the ornately painted gateway between public and private palace areas\n5. Walk the ramparts for panoramic views over the valley\n\n**Total time**: 90–120 minutes. Do not extend — you need time for the rest of the day.\n\n**Entry**: ₹500 foreign / ₹100 Indian (buy the composite ticket here — it covers 6 more monuments over 2 days)."
+                        },
+                        {
+                            title: "10:00 AM — Jal Mahal Photo Stop",
+                            content: "On the drive back from Amber Fort toward the city, stop at **Jal Mahal** (Water Palace) for photographs. This mid-18th century palace sits in the centre of Man Sagar Lake and is one of Jaipur's most photogenic landmarks.\n\nThe palace is closed to visitors, but the lakeside promenade offers excellent views — the palace framed against the Nahargarh Hills is a classic Jaipur shot.\n\n**Duration**: 15–20 minutes. Your driver will know the exact pullover spot."
+                        },
+                        {
+                            title: "10:30 AM — City Palace & Jantar Mantar",
+                            content: "From Jal Mahal, drive 15 minutes to the **[City Palace](/india/jaipur/city-palace-jaipur)** in the heart of the old walled city.\n\nExplore the museum galleries, the Mubarak Mahal, the Diwan-i-Khas with its record-breaking silver urns, and the beautiful Pritam Niwas Chowk courtyard with its four seasonal gateways.\n\n**Time at City Palace**: 60–75 minutes.\n\nThen walk 2 minutes to **Jantar Mantar** (adjacent to City Palace). The UNESCO-listed astronomical observatory needs a guide to understand — the instruments look abstract without expert explanation, but with context they become fascinating. The Samrat Yantra sundial alone is worth the visit.\n\n**Time at Jantar Mantar**: 30–45 minutes.\n\n**Combined entry**: City Palace ₹500 foreign + Jantar Mantar covered by composite ticket."
+                        },
+                        {
+                            title: "12:30 PM — Hawa Mahal & Lunch",
+                            content: "Walk 5 minutes from Jantar Mantar to **[Hawa Mahal](/india/jaipur/hawa-mahal)** — Jaipur's most iconic structure. The exterior view from across the road at Badi Chaupar intersection is the classic photograph.\n\nEnter the palace (covered by composite ticket) and climb to the upper floors for views through the 953 jharokha windows over the old city streets below.\n\n**Duration**: 30–40 minutes.\n\n### Lunch in the Old City\n\nYou are now in the heart of Jaipur's bazaar district — the best lunch options are steps away:\n- **LMB (Laxmi Misthan Bhandar)** on Johari Bazaar: Legendary vegetarian Rajasthani thali (₹300–₹500)\n- **Rawat Misthan Bhandar** on Station Road: Famous pyaaz kachori and sweets (₹100–₹200)\n- **Street food around Badi Chaupar**: Mirchi vada, kachori, and lassi (₹50–₹150)\n\n**Lunch duration**: 45–60 minutes."
+                        },
+                        {
+                            title: "2:00 PM — Bazaar Walk",
+                            content: "Spend 1.5–2 hours exploring the **bazaars of the old walled city** — one of Jaipur's most authentic and visually stunning experiences.\n\nFrom Hawa Mahal, walk south along **Johari Bazaar** (gemstones, gold jewellery, Kundan work). Turn into **Bapu Bazaar** (block-printed textiles, bandhani, mojari shoes). Browse **Tripolia Bazaar** (lac bangles, brassware) if time allows.\n\nEven if you are not shopping, the bazaars are essential for photography and atmosphere — the pink-washed buildings, the colours of the textiles, and the energy of centuries-old commerce make this the most immersive experience of the day.\n\n**Duration**: 90 minutes of walking and browsing."
+                        },
+                        {
+                            title: "4:30 PM — Nahargarh Fort Sunset",
+                            image: "/things-to-do/jaipur-nahargarh-fort.webp",
+                            content: "Leave the bazaars by 4:00 PM and drive to **[Nahargarh Fort](/india/jaipur/nahargarh-fort)** — the hilltop fortress overlooking Jaipur from the Aravalli ridge. The drive takes 20–25 minutes up the winding hill road.\n\nExplore the **Madhavendra Bhawan** (the twelve-queen palace complex) and then find a spot on the western ramparts for **sunset**. The view of the entire Pink City spread below, glowing amber in the setting sun, is consistently rated one of the finest sunsets in all of Rajasthan.\n\n**Arrive by 4:30 PM** to explore the fort before positioning for sunset (approximately 5:30–6:00 PM in winter).\n\n**Entry**: Covered by composite ticket.\n\n### Dinner\n\nAfter sunset, **Padao Restaurant** at Nahargarh Fort offers Rajasthani food with panoramic night views of illuminated Jaipur below — a perfect ending to a one-day Pink City experience. Alternatively, drive back to MI Road for restaurants like Niros or Tapri Central."
+                        },
+                        {
+                            title: "Book Your 1-Day Jaipur Tour With a Private Guide",
+                            isCTA: true,
+                            icon: "User",
+                            content: "A private guide with transport is the single most impactful investment for a one-day Jaipur itinerary. Our licensed historian guides handle all logistics, skip the queues, decode the Rajput architecture, and take you to the food spots that transform a good day into an extraordinary one.",
+                            buttonText: "Browse Jaipur Private Tours",
+                            buttonLink: "/india/jaipur"
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the best 1-day Jaipur itinerary?", a: "The optimal 1-day Jaipur itinerary: **7:30 AM** — [Amber Fort](/india/jaipur/amber-fort) at sunrise (2 hours). **10:00 AM** — Jal Mahal photo stop. **10:30 AM** — [City Palace](/india/jaipur/city-palace-jaipur) + Jantar Mantar (2 hours). **12:30 PM** — [Hawa Mahal](/india/jaipur/hawa-mahal) + lunch in old city. **2:00 PM** — Bazaar walk. **4:30 PM** — [Nahargarh Fort](/india/jaipur/nahargarh-fort) sunset. **7:00 PM** — Dinner at Padao or MI Road." },
+                        { q: "Is one day enough to see Jaipur?", a: "One day is enough to experience Jaipur's top highlights — Amber Fort, City Palace, Hawa Mahal, a bazaar walk, and Nahargarh sunset. You will **not** cover the Albert Hall Museum, Birla Temple, Galtaji, or a deep shopping experience. Jaipur ideally deserves 2–3 full days." },
+                        { q: "How much does a 1-day Jaipur itinerary cost?", a: "**Budget**: ₹2,000–₹3,500 (composite ticket ₹1,000, City Palace ₹500, street food, auto-rickshaws). **Mid-range**: ₹5,000–₹8,000 (adding private driver ₹2,000, restaurant lunch, shopping). **Premium**: ₹10,000–₹20,000 (private guide + driver, premium dining, curated shopping)." },
+                        { q: "Should I hire a guide for a 1-day Jaipur visit?", a: "Yes — strongly recommended. Amber Fort, City Palace, and Jantar Mantar are architecturally and historically complex. A licensed guide brings them alive with stories and context you cannot get from signage alone. The time saved on logistics (transport, tickets, navigation) means seeing 1–2 more sites. Our [Jaipur tours](/india/jaipur) include guide + private transport." },
+                        { q: "Can I do Jaipur as a day trip from Delhi?", a: "Possible but exhausting. The Vande Bharat Express departs Delhi at 6:00 AM, arriving Jaipur at 10:30 AM. Return trains depart at 5:30 PM. This gives you approximately 5 hours of sightseeing — enough for Amber Fort + Hawa Mahal + City Palace only. A **private car** is better for a day trip as it allows an earlier start and a later return. Ideally, stay at least one night." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "HowTo",
+                                "name": "Jaipur 1-Day Itinerary",
+                                "description": "Hour-by-hour 1-day Jaipur itinerary covering Amber Fort, City Palace, Hawa Mahal, bazaar walk, and Nahargarh Fort sunset.",
+                                "datePublished": "2026-02-15T08:00:00+05:30",
+                                "dateModified": "2026-03-10T10:00:00+05:30",
+                                "step": [
+                                    { "@type": "HowToStep", "text": "7:30 AM — Amber Fort at Sunrise" },
+                                    { "@type": "HowToStep", "text": "10:00 AM — Jal Mahal Photo Stop" },
+                                    { "@type": "HowToStep", "text": "10:30 AM — City Palace & Jantar Mantar" },
+                                    { "@type": "HowToStep", "text": "12:30 PM — Hawa Mahal & Lunch" },
+                                    { "@type": "HowToStep", "text": "2:00 PM — Bazaar Walk" },
+                                    { "@type": "HowToStep", "text": "4:30 PM — Nahargarh Fort Sunset" }
+                                ]
+                            },
+                            {
+                                "@type": "Article",
+                                "headline": "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                                "dateModified": "2026-03-10",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/1-day-jaipur-itinerary"
+                            }
+                        ]
+                    }
+                };
+
+            case "amber-fort":
+                return {
+                    title: "Amber Fort Jaipur — Complete Visitor Guide 2026 (Amer Fort)",
+                    description: "Everything you need to know about visiting Amber Fort in 2026. Covers entry fees, best time to visit, the Sheesh Mahal, how to get there, and why this is Rajasthan's most magnificent fort.",
+                    heroImage: "/things-to-do/jaipur-amber-fort.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Opening Hours', value: '8:00 AM – 5:30 PM daily' },
+                        { icon: 'Ticket', label: 'Entry Fee', value: '₹500 foreign / ₹100 Indian' },
+                        { icon: 'Map', label: 'Distance from City', value: '11 km north of Jaipur' },
+                        { icon: 'Star', label: 'Highlight', value: 'Sheesh Mahal (Hall of Mirrors)' },
+                        { icon: 'History', label: 'Built', value: '1592 by Raja Man Singh I' }
+                    ],
+                    sections: [
+                        {
+                            title: "Why Amber Fort Is Rajasthan's Greatest Monument",
+                            content: "**Amber Fort** (also spelled Amer Fort) is widely considered the single most impressive monument in all of Rajasthan — and a strong contender for the finest fort in India. Built primarily by Raja Man Singh I in 1592 and expanded over 150 years by successive rulers, it represents the zenith of **Rajput-Mughal architectural fusion**: military fortification and palatial luxury combined in one breathtaking complex.\n\nThe fort sits dramatically atop a rocky hilltop overlooking Maota Lake, with the older Jaigarh Fort connected to it via a tunnel passage on the ridge above. The approach — whether by car up the winding road or on foot through the Suraj Pol gate — reveals the fort gradually, each turn of the path exposing more of its massive honey-coloured sandstone walls.\n\nAmber Fort is not just a military structure. Inside its intimidating exterior walls lie some of the most delicate and exquisite palace chambers in India — courtyards inlaid with semi-precious stones, halls of mirrors that create a galaxy of reflected light, and ingeniously engineered cooling systems that demonstrate a remarkable understanding of physics."
+                        },
+                        {
+                            title: "What to See Inside Amber Fort",
+                            content: "The fort is divided into four main courtyards, each progressively more private and more architecturally refined:\n\n### First Courtyard — Jaleb Chowk\nThe vast main entrance courtyard where the army would assemble. The Suraj Pol (Sun Gate) entrance and the Sila Devi Temple (dedicated to a Hindu war goddess) are here.\n\n### Second Courtyard — Diwan-i-Aam\nThe Hall of Public Audience — a pillared hall with a raised platform where the maharaja would hear public petitions. The red sandstone and marble combination shows clear Mughal influence.\n\n### Third Courtyard — The Private Palace\nThis is where Amber Fort becomes extraordinary:\n- **Ganesh Pol**: The ornately painted gateway between public and private areas — every inch covered in frescoes and lattice windows.\n- **Sheesh Mahal (Hall of Mirrors)**: The single most spectacular room in Rajasthan. Thousands of tiny convex mirrors embedded in the walls and ceiling create a dazzling constellation effect when lit by even a single candle. Built by Raja Jai Singh I.\n- **Sukh Niwas (Hall of Pleasure)**: Channels carved into the marble floor carried scented water through the room — an ancient air conditioning system.\n- **Jas Mandir**: A hall decorated with glass inlay, carved marble panels, and double-mirrored ceilings.\n\n### Fourth Courtyard — Zenana (Women's Quarters)\nSelf-contained apartments arranged so the maharaja could visit each queen without the others knowing. The latticed screens (jalis) allowed ventilation and observation without being seen."
+                        },
+                        {
+                            title: "Best Time to Visit & Practical Tips",
+                            content: "**Best time**: Arrive at **8:00 AM when the gates open**. By 9:30 AM, the first tour buses arrive and the experience degrades significantly. Morning light on the sandstone is also vastly superior for photography.\n\n**How to get there**: The fort is 11 km from Jaipur's old city. Private car or taxi (₹300–₹500 one way). Your driver can wait in the car park. Uber/Ola also work well.\n\n**Elephant rides**: Previously a major attraction, elephant rides up to the fort are controversial due to animal welfare concerns. We do not recommend them. The car/walking approach is faster and allows more time inside the fort.\n\n**Sound & Light Show**: An evening show (6:30 PM English, ₹200) dramatizes the fort's history through lighting and narration. Worth considering if you have time.\n\n**Duration**: Allow 90–120 minutes for a thorough visit. Rushing through in under an hour misses most of the architectural detail.\n\n**Combine with**: Jaigarh Fort (connected via tunnel, 10-minute walk) for military history and cannon collections. The composite ticket covers both."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the entry fee for Amber Fort?", a: "₹500 for foreign tourists, ₹100 for Indian nationals. The **composite ticket** (₹1,000 foreign / ₹300 Indian) covers Amber Fort plus six more Jaipur monuments and is valid for 2 days — excellent value if visiting multiple sites." },
+                        { q: "How long does a visit to Amber Fort take?", a: "**90–120 minutes** for a thorough visit with a guide. The fort has four courtyards, multiple palace chambers, and extensive ramparts. Rushing through in 45 minutes misses most of the architectural detail, particularly the Sheesh Mahal and the zenana quarters." },
+                        { q: "Is the Sheesh Mahal at Amber Fort worth seeing?", a: "The Sheesh Mahal (Hall of Mirrors) is the single most spectacular room in Rajasthan. Thousands of tiny convex mirrors set into the walls and ceiling create a dazzling constellation effect. It was designed so that a single candle flame would illuminate the entire chamber with reflected light. Absolutely unmissable." },
+                        { q: "What is the best time to visit Amber Fort?", a: "**8:00 AM** when the fort opens. The morning light on the honey-coloured sandstone is extraordinary, and you'll have the courtyards nearly to yourself before the tour bus crowds arrive from 9:30 AM. Avoid midday (11 AM–2 PM) when the heat and crowds peak." },
+                        { q: "How do I get to Amber Fort from Jaipur?", a: "Amber Fort is 11 km north of Jaipur's old city. **Private car/taxi**: 25–30 minutes, ₹300–₹500. **Uber/Ola**: ₹200–₹300. **Auto-rickshaw**: ₹150–₹250. The fort is on the main road to Jal Mahal — combine both in one morning trip." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Amber Fort Jaipur — Complete Visitor Guide 2026",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/amber-fort"
+                    }
+                };
+
+            case "hawa-mahal":
+                return {
+                    title: "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
+                    description: "Everything about visiting Hawa Mahal in 2026: history, architecture, entry fees, best photography spots, and why this 953-window facade is one of India's most iconic buildings.",
+                    heroImage: "/things-to-do/jaipur-hawa-mahal.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Opening Hours', value: '9:00 AM – 5:00 PM daily' },
+                        { icon: 'Ticket', label: 'Entry Fee', value: '₹200 foreign / ₹50 Indian' },
+                        { icon: 'History', label: 'Built', value: '1799 by Maharaja Sawai Pratap Singh' },
+                        { icon: 'Star', label: 'Windows', value: '953 jharokha windows' },
+                        { icon: 'Map', label: 'Location', value: 'Badi Chaupar, Old City' }
+                    ],
+                    sections: [
+                        {
+                            title: "What Makes Hawa Mahal Unique",
+                            content: "The **Hawa Mahal** (Palace of Winds) is unlike any other building in India — or the world. Its five-storey pink sandstone facade, shaped like the crown of Lord Krishna, features **953 small jharokha windows** arranged in a honeycomb pattern. Each window is fitted with intricate latticework that allowed air to circulate through the building, creating a natural cooling breeze — hence the name 'Palace of Winds.'\n\nBut the building's true purpose was social, not architectural. Built in 1799 by Maharaja Sawai Pratap Singh, the Hawa Mahal was designed specifically to allow **royal women living in purdah** (seclusion behind veils) to observe the bustling street life, processions, and festivals of Jaipur below — without being seen by the public.\n\nArchitecturally, the building is deceptive. From the front, it appears to be a grand five-storey palace. In reality, it is **only one room deep** at its thickest point — essentially an ornate screen wall. The 'rooms' are really just narrow corridors and small alcoves behind the windows. This makes Hawa Mahal more of a monumental viewing gallery than a true palace."
+                        },
+                        {
+                            title: "Visiting Hawa Mahal — What to Expect",
+                            content: "**Exterior**: The best view of Hawa Mahal is from the street. Stand at the **Badi Chaupar intersection** (the large crossroads at the base of the facade) for the classic full-frontal photograph. Early morning (before 9:00 AM) offers the best light with the sun illuminating the pink sandstone directly.\n\n**Best photography spot**: The **Wind View Cafe** on the upper floor of a building directly across from Hawa Mahal offers an elevated perspective capturing the entire facade with the street below. Order a chai and photograph at leisure.\n\n**Interior**: Enter from the side street (the entrance is around the back, not at the main facade). Climb the narrow ramps (there are no stairs — the building was designed so royal women in long skirts could ascend easily) to the upper floors. The views through the jharokha windows over the old city streets are the highlight — you're looking through the same lattice screens the queens used over 200 years ago.\n\n**Duration**: 30–40 minutes inside. Allow additional time for exterior photography and the cafe.\n\n**Entry**: ₹200 foreign / ₹50 Indian — or included in the composite ticket (₹1,000 foreign / ₹300 Indian). Covered by the composite ticket if you've purchased one."
+                        },
+                        {
+                            title: "Architecture & History Deep Dive",
+                            content: "Hawa Mahal was designed by **Lal Chand Ustad** in the form of the **mukut (crown) of Lord Krishna** — the deity most revered by the Kachhwaha Rajput dynasty that ruled Jaipur. The five storeys represent the five elements of Hindu philosophy: earth, water, fire, air, and sky.\n\nThe building materials and techniques are characteristically Jaipur:\n- **Pink sandstone**: The distinctive salmon-pink colour that earned Jaipur its 'Pink City' nickname. The entire old city was painted pink in 1876 to welcome the Prince of Wales; Hawa Mahal was already this colour naturally.\n- **Lime mortar**: The traditional binding material used instead of cement.\n- **Red and white detailing**: The window frames and decorative elements alternate between red sandstone and white lime wash, creating the distinctive pattern visible from the street.\n\nThe palace was connected to the City Palace via a covered corridor, allowing the royal women to travel between the two without being seen in public — a physical manifestation of the purdah system that governed their lives."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Why is Hawa Mahal called the Palace of Winds?", a: "The name 'Hawa Mahal' means 'Palace of Winds' in Hindi. The 953 small jharokha windows create a **natural ventilation system** — the Venturi effect draws air through the lattice screens, cooling the interior even in Jaipur's extreme summer heat. The building was designed for royal women to observe street life while staying cool and concealed behind the perforated screens." },
+                        { q: "How many windows does Hawa Mahal have?", a: "Hawa Mahal has **953 small jharokha windows** arranged across its five-storey facade. Each window is fitted with intricate sandstone lattice screens (jalis) that allow air circulation and provide views of the street below while preventing anyone from seeing inside." },
+                        { q: "Can you go inside Hawa Mahal?", a: "Yes — the interior is open to visitors. Enter from the side street (around the back, not the main facade). Climb the narrow ramps to the upper floors for views through the jharokha windows over the old city. The interior is relatively simple — narrow corridors and small alcoves — but the views from the top floor are excellent." },
+                        { q: "What is the entry fee for Hawa Mahal?", a: "₹200 for foreign tourists, ₹50 for Indian nationals. Hawa Mahal is also covered by the **composite ticket** (₹1,000 foreign / ₹300 Indian), which includes six other Jaipur monuments. Buy the composite ticket at your first monument if visiting multiple sites." },
+                        { q: "What is the best time to photograph Hawa Mahal?", a: "**Early morning (7:00–9:00 AM)** when the rising sun illuminates the facade directly. The pink sandstone glows warmest in morning light. For elevated shots, visit the **Wind View Cafe** across the street. Late afternoon (4:00–5:30 PM) also produces warm light, but the facade is partially in shadow." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/hawa-mahal"
+                    }
+                };
+
+            case "city-palace-jaipur":
+                return {
+                    title: "City Palace Jaipur — Complete Visitor Guide 2026",
+                    description: "The definitive guide to Jaipur's City Palace: a sprawling royal complex where part of the building is still a private royal residence. Covers what to see, entry fees, museum highlights, and the famous Guinness-record silver urns.",
+                    heroImage: "/things-to-do/jaipur-city-palace.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Opening Hours', value: '9:30 AM – 5:00 PM daily' },
+                        { icon: 'Ticket', label: 'Entry Fee', value: '₹500 foreign / ₹100 Indian' },
+                        { icon: 'History', label: 'Built', value: '1727 by Maharaja Jai Singh II' },
+                        { icon: 'Star', label: 'Highlight', value: 'Guinness-record silver urns' },
+                        { icon: 'AlertTriangle', label: 'Note', value: 'Not included in composite ticket' }
+                    ],
+                    sections: [
+                        {
+                            title: "A Living Palace — Royalty Still Resides Here",
+                            content: "Jaipur's **City Palace** is remarkable for a reason that sets it apart from virtually every other royal palace in India: **the current royal family still lives here**. The descendants of Maharaja Jai Singh II — who founded Jaipur in 1727 and built this palace — occupy the inner Chandra Mahal section, which is visible but not accessible to visitors.\n\nThe public areas, approximately two-thirds of the complex, function as a world-class museum spanning Rajput history, art, textiles, and weaponry. The palace sits at the exact centre of the old walled city — Jai Singh II's precise urban planning placed the royal residence at the geographic heart of his new capital."
+                        },
+                        {
+                            title: "What to See Inside City Palace",
+                            content: "### Mubarak Mahal (Welcome Palace)\nA stunning fusion of Islamic, Rajput, and European architectural styles. Now houses the **textile and costume gallery** — the most fascinating exhibit being the enormous silk robes of Maharaja Madho Singh I, who was reportedly 2 metres tall and weighed over 225 kg.\n\n### Diwan-i-Khas (Hall of Private Audience)\nThe highlight of the entire complex. Two **massive sterling silver urns (Gangajali)** dominate the hall — each stands 1.6 metres tall, holds 4,091 litres, and is certified by the **Guinness World Records as the largest silver objects in the world**. Maharaja Madho Singh II had them made in 1894 to transport sacred Ganges water during his voyage to London for Edward VII's coronation.\n\n### Pritam Niwas Chowk (Courtyard of the Beloved)\nThe most photogenic spot in the palace. Four ornate gateways represent the four seasons:\n- **Peacock Gate** (autumn) — the most photographed, with stunning blue-green peacock mosaics\n- **Lotus Gate** (summer) — delicate pink lotus motifs\n- **Green Gate** (spring) — green floral patterns\n- **Rose Gate** (winter) — warm rose-pink tones\n\n### Armoury Museum\nOne of India's finest collections of Rajput weaponry: jewelled swords, ornate daggers, shields, and the famous curved *talwar* swords that defined Rajput warrior culture."
+                        },
+                        {
+                            title: "Practical Information",
+                            content: "**Entry**: ₹500 foreign / ₹100 Indian. **Important**: City Palace has its own ticket — it is NOT included in the Jaipur composite ticket that covers Amber Fort, Hawa Mahal, etc.\n\n**Duration**: 60–90 minutes for a thorough visit. The museum galleries are extensive and reward slow exploration.\n\n**Guide**: Highly recommended. The historical layers — from Jai Singh II's astronomical obsessions to the Gangajali silver urns story — are complex and fascinating with expert narration.\n\n**Photography**: Allowed in most areas with a phone or camera. Professional equipment and tripods require a separate fee.\n\n**Combine with**: **Jantar Mantar** (2-minute walk, adjacent) and **Hawa Mahal** (5-minute walk). These three form a natural cluster in the old city that can be covered in 2.5–3 hours.\n\n**Royal tour upgrade**: A premium 'Royal Grandeur' ticket (₹2,500 foreign) includes access to some restricted areas of Chandra Mahal — the private royal section. Worth considering for palace architecture enthusiasts."
+                        }
+                    ],
+                    faqs: [
+                        { q: "Is City Palace Jaipur still lived in by royalty?", a: "Yes — the inner **Chandra Mahal** section remains the private residence of the current Jaipur royal family, descendants of founder Maharaja Jai Singh II. The outer sections function as a public museum. This makes City Palace one of the few active royal residences in the world that is partially open to visitors." },
+                        { q: "What are the silver urns at City Palace?", a: "The **Gangajali** are two massive sterling silver urns in the Diwan-i-Khas. Each stands 1.6 metres tall, holds 4,091 litres, and is certified by Guinness World Records as the **largest silver objects in the world**. Maharaja Madho Singh II commissioned them in 1894 to carry sacred Ganges water to London for King Edward VII's coronation — he refused to drink any other water during the voyage." },
+                        { q: "Is City Palace included in the composite ticket?", a: "**No** — City Palace has its own separate ticket (₹500 foreign / ₹100 Indian). The composite ticket covers Amber Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, and three other monuments, but City Palace is not included." },
+                        { q: "How long does a City Palace visit take?", a: "**60–90 minutes** for a thorough visit including all museum galleries. The textile collection, armoury, Pritam Niwas Chowk courtyards, and the Diwan-i-Khas with the silver urns are the highlights. A guided visit adds significant depth to the experience." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "City Palace Jaipur — Complete Visitor Guide 2026",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/city-palace-jaipur"
+                    }
+                };
+
+            case "nahargarh-fort":
+                return {
+                    title: "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
+                    description: "Nahargarh Fort offers the best panoramic views of Jaipur from the Aravalli Hills. Complete guide covering sunset timing, the twelve-queen palace, entry fees, and why this is the most atmospheric fort in Rajasthan.",
+                    heroImage: "/things-to-do/jaipur-nahargarh-fort.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Opening Hours', value: '10:00 AM – 5:30 PM daily' },
+                        { icon: 'Ticket', label: 'Entry Fee', value: '₹200 foreign / ₹50 Indian' },
+                        { icon: 'History', label: 'Built', value: '1734 by Maharaja Jai Singh II' },
+                        { icon: 'Star', label: 'Highlight', value: 'Sunset over the Pink City' },
+                        { icon: 'Map', label: 'Elevation', value: 'Aravalli ridge above Jaipur' }
+                    ],
+                    sections: [
+                        {
+                            title: "Why Nahargarh Is Jaipur's Best-Kept Secret",
+                            content: "While [Amber Fort](/india/jaipur/amber-fort) attracts the crowds, **Nahargarh Fort** rewards visitors with something arguably more precious: **the finest panoramic view of Jaipur from above**. Perched on the Aravalli Hills ridge directly north of the city, Nahargarh's ramparts offer a 180-degree vista that encompasses the entire Pink City, from the distant Amber Fort in the east to the sprawling modern city in the south.\n\nBuilt in 1734 by Maharaja Jai Singh II as a retreat and defensive position, Nahargarh (meaning 'Abode of Tigers') was never conquered in battle — its hilltop position and massive walls made it virtually impregnable. Today it serves a different purpose: it is the most atmospheric fort in Rajasthan and the undisputed best sunset viewpoint in Jaipur.\n\nThe fort is less visited than Amber Fort, which works in its favour — you'll find quieter courtyards, more intimate architecture, and space to breathe and photograph without battling crowds."
+                        },
+                        {
+                            title: "Madhavendra Bhawan — The Twelve-Queen Palace",
+                            content: "The most architecturally fascinating feature of Nahargarh is the **Madhavendra Bhawan** — a palace complex built in 1902 by Maharaja Sawai Madho Singh II. It contains **twelve identical suites**, one for each of the king's twelve queens, arranged symmetrically around a central courtyard.\n\nThe genius of the design lies in its privacy system. Each suite has its own entrance, its own corridor, and its own courtyard view — arranged so that **no queen could see when the king was visiting another**. The identical layouts meant no queen could claim preferential treatment based on the size or quality of her quarters.\n\nThe suites feature beautiful frescoed walls, arched doorways, and ventilated facades. The symmetry is remarkable — walk through all twelve suites and you'll find each one a mirror image of its neighbour, yet with subtle variations in the decorative frescoes that personalised each queen's space."
+                        },
+                        {
+                            title: "Sunset at Nahargarh — The Essential Experience",
+                            content: "The **sunset from Nahargarh's western ramparts** is consistently rated one of the finest experiences in all of Rajasthan. As the sun descends behind the Aravalli range, the entire Pink City below transforms:\n\n1. **Golden hour** (45 minutes before sunset): The pink-washed buildings glow warm amber. The view from the ramparts encompasses the entire old walled city — Hawa Mahal, City Palace, and Jantar Mantar all visible below.\n2. **Sunset moment**: The sky shifts from gold to deep orange to crimson. The city begins to illuminate with streetlights and temple lamps.\n3. **Blue hour** (20 minutes after sunset): The city becomes a carpet of lights against the deep blue twilight sky.\n\n**Arrive by 4:30 PM** in winter (October–February) or 5:00 PM in summer to explore the fort before positioning on the ramparts.\n\n**Padao Restaurant**: Located at the fort, this restaurant serves Rajasthani cuisine with panoramic night views of illuminated Jaipur below. It is the perfect place for dinner after sunset.\n\n**Getting there**: 20–25 minutes by car from the city centre via a steep, winding hill road. Your driver must be experienced with the narrow road. The drive itself offers spectacular views."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the best time to visit Nahargarh Fort?", a: "**Late afternoon for sunset** — arrive by 4:30 PM (winter) or 5:00 PM (summer). The sunset over the Pink City from the western ramparts is the single best visual experience in Jaipur. Morning visits (10:00 AM) are also good for photography with clear light and cooler temperatures." },
+                        { q: "Is Nahargarh Fort worth visiting?", a: "Absolutely — particularly for the **panoramic views and sunset**. While it lacks the interior grandeur of [Amber Fort](/india/jaipur/amber-fort), Nahargarh's atmospheric hilltop setting, the fascinating twelve-queen Madhavendra Bhawan, and the sunset experience make it essential. It is also significantly less crowded than Amber Fort." },
+                        { q: "How do I get to Nahargarh Fort?", a: "By car: 20–25 minutes from the city centre via a steep, winding hill road. Uber/Ola work but ensure the driver is willing to make the hill climb. An auto-rickshaw can struggle on the steep road. The most practical option is a **private driver for the day** who can wait at the fort while you explore and watch the sunset." },
+                        { q: "Can I combine Nahargarh Fort with other sites?", a: "Yes — Nahargarh Fort works perfectly as an **end-of-day sunset experience** after visiting the old city monuments (City Palace, Hawa Mahal, Jantar Mantar, bazaars). The fort is also connected to Jaigarh Fort via a walking trail along the ridge (45-minute walk) for adventurous visitors." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/nahargarh-fort"
+                    }
+                };
+
+            case "places-to-visit-in-jaipur":
+                return {
+                    title: "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
+                    description: "The definitive ranked list of places to visit in Jaipur, from Amber Fort and Hawa Mahal to hidden gems most tourists miss. Includes entry fees, best times, and how to combine them into an efficient itinerary.",
+                    heroImage: "/things-to-do/jaipur-city-palace.webp",
+                    fastFacts: [
+                        { icon: 'Map', label: 'Major Attractions', value: '12 must-see sites' },
+                        { icon: 'Ticket', label: 'Composite Ticket', value: '₹1,000 foreign (covers 7 sites)' },
+                        { icon: 'Clock', label: 'Minimum Time', value: '2 full days recommended' },
+                        { icon: 'Star', label: '#1 Attraction', value: 'Amber Fort' }
+                    ],
+                    sections: [
+                        {
+                            title: "1. Amber Fort (Amer Fort)",
+                            content: "Rajasthan's most magnificent fort and Jaipur's #1 attraction. The Sheesh Mahal (Hall of Mirrors), Diwan-i-Khas, and hilltop setting above Maota Lake make this a world-class monument. Arrive at 8:00 AM to beat crowds.\n\n**Entry**: ₹500 foreign / ₹100 Indian (composite ticket). **Duration**: 90–120 minutes.\n\n[Read the full Amber Fort guide →](/india/jaipur/amber-fort)"
+                        },
+                        {
+                            title: "2. Hawa Mahal (Palace of Winds)",
+                            content: "Jaipur's most iconic landmark — the extraordinary five-storey facade with 953 jharokha windows. Best photographed from the street or the Wind View Cafe opposite. The interior climb reveals views the queens enjoyed 200 years ago.\n\n**Entry**: ₹200 foreign / ₹50 Indian (composite ticket). **Duration**: 30–45 minutes.\n\n[Read the full Hawa Mahal guide →](/india/jaipur/hawa-mahal)"
+                        },
+                        {
+                            title: "3. City Palace",
+                            content: "A sprawling royal complex where the Jaipur royal family still lives. Museum highlights include the Guinness-record silver urns, the Peacock Gate courtyard, and the textile collection. Separate ticket — not in composite pass.\n\n**Entry**: ₹500 foreign / ₹100 Indian. **Duration**: 60–90 minutes.\n\n[Read the full City Palace guide →](/india/jaipur/city-palace-jaipur)"
+                        },
+                        {
+                            title: "4. Nahargarh Fort",
+                            content: "The best sunset viewpoint in Rajasthan. The hilltop fort overlooks the entire Pink City, and the twelve-queen Madhavendra Bhawan is architecturally fascinating. Less crowded than Amber Fort.\n\n**Entry**: ₹200 foreign / ₹50 Indian (composite ticket). **Duration**: 60–90 minutes.\n\n[Read the full Nahargarh Fort guide →](/india/jaipur/nahargarh-fort)"
+                        },
+                        {
+                            title: "5. Jantar Mantar",
+                            content: "UNESCO World Heritage Site — the world's largest collection of stone astronomical instruments, including the Samrat Yantra sundial that tells time to within 2 seconds. Fascinating with a guide, confusing without one.\n\n**Entry**: ₹200 foreign / ₹40 Indian (composite ticket). **Duration**: 45–60 minutes."
+                        },
+                        {
+                            title: "6. Jal Mahal (Water Palace)",
+                            content: "The photogenic mid-18th century palace sitting in Man Sagar Lake. Closed to visitors but the lakeside promenade offers excellent views, especially at sunset with Nahargarh hills behind.\n\n**Entry**: Free (exterior viewing). **Duration**: 20–30 minutes."
+                        },
+                        {
+                            title: "7. Johari Bazaar & Old City Markets",
+                            content: "Jaipur's legendary bazaar district — Johari Bazaar for gemstones and jewellery, Bapu Bazaar for textiles and block prints, Tripolia Bazaar for bangles and metalwork. A sensory overload of colour, sound, and craftsmanship spanning 300 years.\n\n**Entry**: Free. **Duration**: 1.5–3 hours."
+                        },
+                        {
+                            title: "8. Albert Hall Museum",
+                            content: "Rajasthan's oldest museum, housed in a stunning Indo-Saracenic building. Collections include Egyptian mummies, natural history specimens, Rajasthani miniature paintings, and traditional costumes. Beautifully illuminated at night.\n\n**Entry**: ₹300 foreign / ₹40 Indian (composite ticket). **Duration**: 60–90 minutes."
+                        },
+                        {
+                            title: "9. Jaigarh Fort",
+                            content: "Connected to Amber Fort via a hilltop tunnel, Jaigarh is the military companion to Amber's palatial elegance. Home to **Jaivana**, the world's largest cannon on wheels, and panoramic views of the Amber Fort complex below.\n\n**Entry**: ₹200 foreign / ₹35 Indian. **Duration**: 45–60 minutes."
+                        },
+                        {
+                            title: "10. Birla Mandir (Lakshmi Narayan Temple)",
+                            content: "A gleaming white marble temple completed in 1988, dramatically lit against the night sky. Modern Hindu architecture with intricate carvings depicting scenes from Hindu mythology. Free entry, open until 8:00 PM — an excellent evening visit.\n\n**Entry**: Free. **Duration**: 30 minutes."
+                        },
+                        {
+                            title: "11. Galtaji (Monkey Temple)",
+                            content: "A dramatic complex of Hindu temples set in a narrow valley east of Jaipur, with natural spring-fed pools and hundreds of resident macaque monkeys. The architecture is stunning but the experience is raw and authentically Indian — not a polished tourist site.\n\n**Entry**: ₹100 foreign / ₹30 Indian. **Duration**: 45–60 minutes."
+                        },
+                        {
+                            title: "12. Chokhi Dhani (Rajasthani Village Experience)",
+                            content: "A recreated Rajasthani village 20 km south of Jaipur offering traditional dinner, folk dances, puppet shows, camel rides, and cultural performances. Touristy but genuinely entertaining and excellent for families. Evening only (5:00–11:00 PM).\n\n**Entry**: ₹600–₹1,200 per person (includes dinner). **Duration**: 2–3 hours."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What are the top 5 places to visit in Jaipur?", a: "1. [Amber Fort](/india/jaipur/amber-fort) — Rajasthan's finest fort. 2. [Hawa Mahal](/india/jaipur/hawa-mahal) — the iconic 953-window Palace of Winds. 3. [City Palace](/india/jaipur/city-palace-jaipur) — living royal palace with Guinness-record silver urns. 4. [Nahargarh Fort](/india/jaipur/nahargarh-fort) — the best sunset viewpoint. 5. Jantar Mantar — UNESCO astronomical observatory." },
+                        { q: "How many days do I need to see all of Jaipur?", a: "**2 days minimum** for the top 8 attractions. **3 days** for a comprehensive visit including Galtaji, Jaigarh Fort, Albert Hall Museum, and shopping. **4–5 days** if adding day trips to Ranthambore (tiger safari) or Pushkar." },
+                        { q: "What is the best order to visit Jaipur's attractions?", a: "**Day 1**: Amber Fort (early morning) → Jal Mahal → City Palace → Jantar Mantar → Hawa Mahal → bazaar walk. **Day 2**: Nahargarh Fort (morning or sunset) → Albert Hall Museum → Birla Mandir (evening). This minimises backtracking and covers sites in geographic clusters." },
+                        { q: "Is the Jaipur composite ticket worth it?", a: "Yes — the composite ticket (₹1,000 foreign) covers 7 monuments including Amber Fort, Hawa Mahal, Jantar Mantar, and Nahargarh Fort. Buying individual tickets for just these 4 would cost approximately ₹1,100. The composite ticket saves money AND time (no queuing at each ticket counter)." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
+                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "dateModified": "2026-03-10",
+                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/places-to-visit-in-jaipur"
+                    }
+                };
+
+
+            // PHUKET AUTHORITY PAGES
+            // ============================================================
+
+
+
             // PHUKET AUTHORITY PAGES
             // ============================================================
 
