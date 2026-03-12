@@ -40,6 +40,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Jaipur info pages
+  const jaipurInfoPages = [
+    'things-to-do-in-jaipur', 'jaipur-travel-guide-2026',
+    '1-day-jaipur-itinerary', 'amber-fort', 'hawa-mahal',
+    'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur',
+  ].map(slug => ({
+    url: `${BASE_URL}/india/jaipur/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Phuket info pages
   const phuketInfoPages = [
     'things-to-do-in-phuket', 'phuket-travel-guide-2026',
@@ -83,5 +95,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...phuketInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...tourPages];
 }
