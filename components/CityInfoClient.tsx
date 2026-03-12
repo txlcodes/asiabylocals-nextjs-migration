@@ -44,6 +44,30 @@ const DELHI_SIDEBAR = [
     { name: '1-Day Itinerary', slug: 'delhi-1-day-itinerary' },
 ];
 
+const JAIPUR_SIDEBAR = [
+    { name: 'Things to Do', slug: 'things-to-do-in-jaipur' },
+    { name: 'Travel Guide 2026', slug: 'jaipur-travel-guide-2026' },
+    { name: '1-Day Itinerary', slug: '1-day-jaipur-itinerary' },
+    { name: 'Amber Fort', slug: 'amber-fort' },
+    { name: 'Hawa Mahal', slug: 'hawa-mahal' },
+    { name: 'City Palace', slug: 'city-palace-jaipur' },
+    { name: 'Nahargarh Fort', slug: 'nahargarh-fort' },
+    { name: 'Places to Visit', slug: 'places-to-visit-in-jaipur' },
+];
+
+const BANGKOK_SIDEBAR = [
+    { name: 'Things to Do', slug: 'things-to-do-in-bangkok' },
+    { name: 'Travel Guide 2026', slug: 'bangkok-travel-guide-2026' },
+    { name: 'Grand Palace', slug: 'grand-palace-bangkok' },
+    { name: 'Wat Pho', slug: 'wat-pho' },
+    { name: 'Wat Arun', slug: 'wat-arun' },
+    { name: '1-Day Itinerary', slug: '1-day-bangkok-itinerary' },
+    { name: 'Floating Market', slug: 'floating-market-bangkok' },
+    { name: 'Canal Tour', slug: 'bangkok-canal-tour' },
+    { name: 'Chatuchak Market', slug: 'chatuchak-weekend-market' },
+    { name: 'Places to Visit', slug: 'places-to-visit-in-bangkok' },
+];
+
 const PHUKET_SIDEBAR = [
     { name: 'Phuket Travel Guide', slug: 'phuket-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-phuket' },
@@ -107,7 +131,14 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         );
     }
 
-    const sidebarItems = city.toLowerCase() === 'delhi' ? DELHI_SIDEBAR : city.toLowerCase() === 'phuket' ? PHUKET_SIDEBAR : AGRA_SIDEBAR;
+    const SIDEBAR_MAP: Record<string, typeof AGRA_SIDEBAR> = {
+        agra: AGRA_SIDEBAR,
+        delhi: DELHI_SIDEBAR,
+        jaipur: JAIPUR_SIDEBAR,
+        phuket: PHUKET_SIDEBAR,
+        bangkok: BANGKOK_SIDEBAR,
+    };
+    const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || AGRA_SIDEBAR;
 
     return (
         <div className="min-h-screen bg-white">
@@ -372,7 +403,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                     {sidebarItems.map((item, idx) => (
                                         <Link
                                             key={idx}
-                                            href={`/india/${city.toLowerCase()}/${item.slug}`}
+                                            href={`/${country.toLowerCase()}/${city.toLowerCase()}/${item.slug}`}
                                             className={`flex items-center justify-between p-4 rounded-xl transition-all duration-300 group ${slug === item.slug
                                                 ? 'bg-[#10B981] text-white shadow-lg shadow-[#10B981]/30 scale-[1.02] -translate-y-0.5'
                                                 : 'bg-gray-50 hover:bg-white hover:shadow-md hover:border-[#10B981]/20 border border-transparent text-[#001A33] hover:-translate-y-1'

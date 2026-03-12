@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
+import { getCityInfoContent } from '@/lib/cityInfoContent';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
 
@@ -43,12 +44,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cityName = capitalize(city);
 
   if (isInfoSlug(city, slug)) {
-    const title = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    const infoContent = getCityInfoContent(slug);
+    const fallbackTitle = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    const title = infoContent?.title || fallbackTitle;
+    const description = infoContent?.description || `Essential guide: ${fallbackTitle}. Everything you need to know before visiting ${cityName}.`;
     return {
       title: `${title} | ${cityName} Guide | AsiaByLocals`,
-      description: `Essential guide: ${title}. Everything you need to know before visiting ${cityName}.`,
+      description,
       alternates: {
         canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
+      },
+      openGraph: {
+        title: `${title} | ${cityName} Guide | AsiaByLocals`,
+        description,
+        url: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
+        siteName: 'AsiaByLocals',
+        type: 'article',
+        ...(infoContent?.heroImage ? { images: [{ url: infoContent.heroImage }] } : {}),
       },
     };
   }
