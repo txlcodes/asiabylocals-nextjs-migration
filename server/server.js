@@ -5744,6 +5744,7 @@ app.get('/api/tours', async (req, res) => {
             included: true,
             notIncluded: true,
             meetingPoint: true,
+            activityProvider: true,
             guideType: true,
             tourTypes: true,
             // Don't fetch images for list view - they're huge base64 strings and slow down queries significantly
@@ -8896,6 +8897,7 @@ app.get('/api/public/tours', async (req, res) => {
             included: true,
             notIncluded: true,
             meetingPoint: true,
+            activityProvider: true,
             tourTypes: true,
             status: true,
             createdAt: true,
@@ -9151,6 +9153,7 @@ app.get('/api/public/tours', async (req, res) => {
           included: tour.included || '',
           notIncluded: tour.notIncluded || null,
           meetingPoint: tour.meetingPoint || null,
+          activityProvider: tour.activityProvider || null,
           guideType: tour.guideType || null,
           tourTypes: tour.tourTypes ? (() => {
             try {
