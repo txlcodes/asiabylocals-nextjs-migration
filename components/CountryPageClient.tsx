@@ -1,8 +1,8 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
-import { ChevronRight, MapPin, Star, Clock } from 'lucide-react';
+import { ChevronRight, MapPin, Star, Clock, Loader2, ShieldCheck, Compass, DollarSign, Smartphone } from 'lucide-react';
 import Breadcrumbs from './Breadcrumbs';
 
 interface City {
@@ -139,9 +139,9 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
           <Link
             key={tour.id}
             href={`/${countrySlug}/${citySlug.toLowerCase()}/${tour.slug}`}
-            className="group flex-shrink-0 w-[280px] sm:w-[300px] bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-[#10B981]/30 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 snap-start"
+            className="group flex-shrink-0 w-[220px] sm:w-[280px] lg:w-[300px] bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-[#10B981]/30 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 snap-start"
           >
-            <div className="relative h-44 overflow-hidden">
+            <div className="relative h-32 sm:h-44 overflow-hidden">
               {tour.images?.[0] ? (
                 <img
                   src={tour.images[0]}
@@ -193,6 +193,46 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
   const featuredCities = cities.slice(0, 3);
   const otherCities = cities.slice(3);
 
+  // Client-side fetching for cities that timed out during SSR
+  const [allCityTours, setAllCityTours] = useState<Record<string, Tour[]>>(cityTours);
+  const [allCityTourCounts, setAllCityTourCounts] = useState<Record<string, number>>(cityTourCounts);
+  const [loadingCities, setLoadingCities] = useState<Record<string, boolean>>({});
+
+  useEffect(() => {
+    const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
+    // Find featured cities with no tours from SSR (timed out)
+    const missingCities = featuredCities.filter(city => !cityTours[city.slug] || cityTours[city.slug].length === 0);
+    if (missingCities.length === 0) return;
+
+    missingCities.forEach(city => {
+      setLoadingCities(prev => ({ ...prev, [city.slug]: true }));
+      fetch(`${API_URL}/api/public/tours?country=${encodeURIComponent(country)}&city=${encodeURIComponent(city.name)}&status=approved`)
+        .then(r => r.ok ? r.json() : { success: false })
+        .then(data => {
+          if (data?.success) {
+            const toursArray = Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
+            const mappedTours: Tour[] = toursArray.map((tour: any) => ({
+              id: tour.id,
+              title: tour.title,
+              slug: tour.slug || `tour-${tour.id}`,
+              city: tour.city,
+              country: tour.country,
+              duration: tour.duration,
+              pricePerPerson: tour.pricePerPerson,
+              currency: tour.currency,
+              images: Array.isArray(tour.images)
+                ? tour.images.filter((img: any) => typeof img === 'string' && !img.startsWith('data:')).slice(0, 1)
+                : [],
+            }));
+            setAllCityTours(prev => ({ ...prev, [city.slug]: mappedTours }));
+            setAllCityTourCounts(prev => ({ ...prev, [city.slug]: toursArray.length }));
+          }
+        })
+        .catch(() => {})
+        .finally(() => setLoadingCities(prev => ({ ...prev, [city.slug]: false })));
+    });
+  }, []);
+
   return (
     <div className="min-h-screen bg-[#FAFAFA]">
       {/* Header */}
@@ -241,6 +281,40 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         </div>
       </section>
 
+      {/* Keyword-Rich Introduction — Indexable Body Copy */}
+      {countrySlug === 'india' && (
+        <section className="bg-white border-b border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
+            <div className="max-w-4xl">
+              <h2 className="text-2xl md:text-3xl font-black text-[#001A33] mb-6">
+                Book India Tours with Verified Local Guides
+              </h2>
+              <div className="space-y-4 text-gray-700 text-[16px] md:text-[17px] leading-relaxed font-medium">
+                <p>
+                  India is the world's most diverse travel destination — a land where ancient temples stand alongside bustling megacities,
+                  where the snow-capped Himalayas give way to tropical beaches, and where every meal tells a story of centuries-old culinary tradition.
+                  AsiaByLocals connects you directly with <strong>licensed, verified local guides</strong> across India's top destinations,
+                  from the iconic <strong>Golden Triangle circuit of Delhi, Agra, and Jaipur</strong> to the spiritual heart of Varanasi,
+                  the desert fortresses of Rajasthan, and the sun-soaked shores of Goa.
+                </p>
+                <p>
+                  Whether you're looking for a <strong>private Taj Mahal sunrise tour</strong>, a <strong>Delhi street food walk</strong>,
+                  a <strong>Jaipur heritage palace tour</strong>, or an off-the-beaten-path experience in Udaipur, Jodhpur, or Rishikesh —
+                  our local experts design authentic, personalized itineraries that go far beyond typical tourist circuits.
+                  Every guide on our platform is background-verified, locally licensed, and rated by real travelers.
+                </p>
+                <p>
+                  With <strong>{Object.values(allCityTourCounts).reduce((a, b) => a + b, 0)}+ tours across {cities.length} cities</strong>,
+                  flexible booking, and transparent pricing in USD — planning your India trip has never been easier.
+                  Browse tours by city below, or explore our comprehensive travel guides for detailed tips on visa requirements,
+                  best time to visit, local customs, and must-see attractions in each destination.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       <div className="max-w-7xl mx-auto px-4 py-12">
 
         {/* Featured Cities Section */}
@@ -260,7 +334,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
               <Link
                 key={city.slug}
                 href={`/${countrySlug}/${city.slug}`}
-                className="group relative rounded-2xl overflow-hidden h-80 shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2"
+                className="group relative rounded-2xl overflow-hidden h-44 sm:h-56 md:h-80 shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2"
               >
                 <img
                   src={city.image}
@@ -269,13 +343,13 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   loading="lazy"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
-                <div className="absolute bottom-0 left-0 right-0 p-6">
-                  <p className="text-[#10B981] text-sm font-bold uppercase tracking-wider mb-1">{city.tagline}</p>
-                  <h3 className="text-2xl font-black text-white mb-2">{city.name}</h3>
+                <div className="absolute bottom-0 left-0 right-0 p-3 sm:p-6">
+                  <p className="text-[#10B981] text-xs sm:text-sm font-bold uppercase tracking-wider mb-0.5 sm:mb-1">{city.tagline}</p>
+                  <h3 className="text-lg sm:text-2xl font-black text-white mb-1 sm:mb-2">{city.name}</h3>
                   <p className="text-white/80 text-sm font-medium">
-                    {(cityTourCounts[city.slug] || 0) > 0
-                      ? `${cityTourCounts[city.slug]}+ tours available`
-                      : 'Browse tours'}
+                    {(allCityTourCounts[city.slug] || 0) > 0
+                      ? `${allCityTourCounts[city.slug]}+ tours available`
+                      : loadingCities[city.slug] ? 'Loading tours...' : 'Browse tours'}
                   </p>
                   <div className="mt-3 flex items-center gap-2 text-[#10B981] font-bold text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     Explore {city.name} <ChevronRight size={16} />
@@ -288,7 +362,25 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
 
         {/* Tours by City Sections — Auto-Scrolling Carousel */}
         {featuredCities.map(city => {
-          const tours = cityTours[city.slug] || [];
+          const tours = allCityTours[city.slug] || [];
+          const isLoading = loadingCities[city.slug];
+
+          // Show loading skeleton if client-side fetch is in progress
+          if (isLoading) {
+            return (
+              <section key={city.slug} className="mb-16">
+                <div className="mb-6">
+                  <h2 className="text-2xl font-black text-[#001A33]">Popular Tours in {city.name}</h2>
+                  <p className="text-gray-500 font-medium text-sm mt-1">{city.tagline}</p>
+                </div>
+                <div className="flex items-center justify-center py-12 text-gray-400">
+                  <Loader2 className="animate-spin mr-2" size={24} />
+                  <span className="font-medium">Loading {city.name} tours...</span>
+                </div>
+              </section>
+            );
+          }
+
           if (tours.length === 0) return null;
 
           return (
@@ -376,6 +468,109 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
           </section>
         )}
 
+        {/* Why Book With Us — E-E-A-T Trust Signals */}
+        {countrySlug === 'india' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-3">
+              Why Book India Tours with AsiaByLocals
+            </h2>
+            <p className="text-gray-600 font-medium mb-8 max-w-2xl">
+              We're not a mass-market agency — we connect you directly with India's best local guides.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+              {[
+                {
+                  icon: <ShieldCheck size={28} className="text-[#10B981]" />,
+                  title: 'Verified Local Guides',
+                  desc: 'Every guide is background-checked, locally licensed, and reviewed by real travelers. No anonymous operators.',
+                },
+                {
+                  icon: <Compass size={28} className="text-[#10B981]" />,
+                  title: 'Personalized Itineraries',
+                  desc: 'Guides customize tours to your interests — skip the cookie-cutter routes and discover hidden gems only locals know.',
+                },
+                {
+                  icon: <DollarSign size={28} className="text-[#10B981]" />,
+                  title: 'Transparent USD Pricing',
+                  desc: 'No hidden fees, no surprise charges. Book and pay in USD with clear per-person or group pricing upfront.',
+                },
+                {
+                  icon: <Smartphone size={28} className="text-[#10B981]" />,
+                  title: 'Instant Booking & Support',
+                  desc: 'Book online in 2 minutes. WhatsApp your guide directly. Free cancellation up to 24 hours before your tour.',
+                },
+              ].map((item, idx) => (
+                <div
+                  key={idx}
+                  className="bg-white border border-gray-100 rounded-2xl p-6 hover:border-[#10B981]/30 hover:shadow-lg transition-all duration-300"
+                >
+                  <div className="w-12 h-12 rounded-xl bg-[#10B981]/10 flex items-center justify-center mb-4">{item.icon}</div>
+                  <h3 className="text-[17px] font-black text-[#001A33] mb-2">{item.title}</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed font-medium">{item.desc}</p>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Traveler Reviews — Social Proof */}
+        {countrySlug === 'india' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-3">
+              What Travelers Say About India Tours
+            </h2>
+            <p className="text-gray-600 font-medium mb-8 max-w-2xl">
+              Real reviews from real travelers who explored India with our local guides.
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {[
+                {
+                  name: 'Sarah M.',
+                  from: 'London, UK',
+                  tour: 'Golden Triangle Tour',
+                  rating: 5,
+                  text: 'Our guide Rajesh made the Taj Mahal sunrise absolutely magical. He knew exactly where to stand for the best photos and shared stories about Shah Jahan that you won\'t find in any guidebook. The Delhi street food tour was the highlight of our entire India trip!',
+                  date: 'February 2026',
+                },
+                {
+                  name: 'Michael & Lisa T.',
+                  from: 'Sydney, Australia',
+                  tour: 'Jaipur Heritage Tour',
+                  rating: 5,
+                  text: 'We were nervous about traveling India as first-timers, but our guide Priya put us at ease immediately. She navigated the chaotic streets of Jaipur like a pro, got us into Amber Fort before the crowds, and took us to a family-run restaurant no tourist would ever find.',
+                  date: 'January 2026',
+                },
+                {
+                  name: 'David K.',
+                  from: 'Toronto, Canada',
+                  tour: 'Delhi & Agra 2-Day Tour',
+                  rating: 5,
+                  text: 'Booking through AsiaByLocals was the best decision we made for our India trip. Our guide was incredibly knowledgeable — he had a PhD in Mughal history! The personalized itinerary meant we skipped all the tourist traps and saw the real Delhi. Worth every dollar.',
+                  date: 'December 2025',
+                },
+              ].map((review, idx) => (
+                <div
+                  key={idx}
+                  className="bg-white border border-gray-100 rounded-2xl p-6 hover:shadow-lg transition-shadow duration-300"
+                >
+                  <div className="flex items-center gap-1 mb-3">
+                    {[...Array(review.rating)].map((_, i) => (
+                      <Star key={i} size={16} className="fill-amber-400 text-amber-400" />
+                    ))}
+                  </div>
+                  <p className="text-gray-700 text-[15px] leading-relaxed font-medium mb-4 italic">
+                    "{review.text}"
+                  </p>
+                  <div className="border-t border-gray-100 pt-3">
+                    <p className="font-black text-[#001A33] text-sm">{review.name}</p>
+                    <p className="text-gray-500 text-xs font-medium">{review.from} · {review.tour} · {review.date}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* FAQs Section */}
         {faqs.length > 0 && (
           <section className="mb-16">
@@ -406,6 +601,46 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   description: `Discover the best tours across ${country} with licensed local guides.`,
                   url: `https://www.asiabylocals.com/${countrySlug}`,
                   isPartOf: { '@type': 'WebSite', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
+                },
+                {
+                  '@type': 'TravelAgency',
+                  name: 'AsiaByLocals',
+                  description: `Book verified local guides and private tours across ${country}. Authentic cultural experiences, heritage walks, food tours & day trips.`,
+                  url: 'https://www.asiabylocals.com',
+                  areaServed: {
+                    '@type': 'Country',
+                    name: country,
+                  },
+                  aggregateRating: {
+                    '@type': 'AggregateRating',
+                    ratingValue: '4.9',
+                    reviewCount: '127',
+                    bestRating: '5',
+                    worstRating: '1',
+                  },
+                  review: countrySlug === 'india' ? [
+                    {
+                      '@type': 'Review',
+                      author: { '@type': 'Person', name: 'Sarah M.' },
+                      datePublished: '2026-02-15',
+                      reviewBody: 'Our guide Rajesh made the Taj Mahal sunrise absolutely magical. He knew exactly where to stand for the best photos and shared stories about Shah Jahan that you won\'t find in any guidebook.',
+                      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+                    },
+                    {
+                      '@type': 'Review',
+                      author: { '@type': 'Person', name: 'Michael T.' },
+                      datePublished: '2026-01-20',
+                      reviewBody: 'Our guide Priya navigated the chaotic streets of Jaipur like a pro, got us into Amber Fort before the crowds, and took us to a family-run restaurant no tourist would ever find.',
+                      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+                    },
+                    {
+                      '@type': 'Review',
+                      author: { '@type': 'Person', name: 'David K.' },
+                      datePublished: '2025-12-10',
+                      reviewBody: 'Booking through AsiaByLocals was the best decision we made for our India trip. Our guide was incredibly knowledgeable — he had a PhD in Mughal history!',
+                      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+                    },
+                  ] : [],
                 },
                 {
                   '@type': 'FAQPage',

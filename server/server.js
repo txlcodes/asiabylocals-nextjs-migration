@@ -8672,6 +8672,28 @@ app.get('/api/debug/tours', async (req, res) => {
   }
 });
 
+// In-memory cache for public tours (avoids hammering the 256MB DB)
+const toursCache = new Map();
+const TOURS_CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+
+function getCachedTours(key) {
+  const entry = toursCache.get(key);
+  if (entry && Date.now() - entry.timestamp < TOURS_CACHE_TTL) {
+    return entry.data;
+  }
+  toursCache.delete(key);
+  return null;
+}
+
+function setCachedTours(key, data) {
+  // Limit cache size to prevent memory issues on the server
+  if (toursCache.size > 50) {
+    const oldest = toursCache.keys().next().value;
+    toursCache.delete(oldest);
+  }
+  toursCache.set(key, { data, timestamp: Date.now() });
+}
+
 // Get public tours by city (for public site)
 app.get('/api/public/tours', async (req, res) => {
   const startTime = Date.now();
@@ -8682,6 +8704,15 @@ app.get('/api/public/tours', async (req, res) => {
 
   try {
     const { city, country, category, status = 'approved' } = req.query;
+
+    // Check cache first
+    const cacheKey = `tours:${(country || '').toLowerCase()}:${(city || '').toLowerCase()}:${(category || '').toLowerCase()}`;
+    const cached = getCachedTours(cacheKey);
+    if (cached) {
+      console.log(`📋 Cache HIT for ${cacheKey} (${Date.now() - startTime}ms)`);
+      return res.json(cached);
+    }
+    console.log(`📋 Cache MISS for ${cacheKey}`);
 
     console.log('📋 Fetching public tours:', { city, country, category, status });
     console.log('   Request received at:', new Date().toISOString());
@@ -9090,6 +9121,12 @@ app.get('/api/public/tours', async (req, res) => {
       tours: formattedTours || [],
       count: formattedTours?.length || 0
     };
+
+    // Cache successful responses with tours
+    if (response.tours.length > 0) {
+      setCachedTours(cacheKey, response);
+      console.log(`   💾 Cached ${response.tours.length} tours for key: ${cacheKey}`);
+    }
 
     const responseTime = Date.now() - startTime;
     console.log(`   📤 Sending response with ${response.tours.length} tours (took ${responseTime}ms)`);

@@ -70,6 +70,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `https://www.asiabylocals.com/${c}`,
       siteName: 'AsiaByLocals',
       type: 'website',
+      images: [{ url: `https://www.asiabylocals.com/${meta.cities[0]?.image || '/og-default.webp'}`, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: meta.title,
+      description: meta.description,
+      images: [`https://www.asiabylocals.com/${meta.cities[0]?.image || '/og-default.webp'}`],
     },
   };
 }
@@ -91,7 +98,7 @@ export default async function CountryPage({ params }: Props) {
     const results = await Promise.all(
       featuredCities.map(city => {
         const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 15000);
+        const timeout = setTimeout(() => controller.abort(), 5000);
         return fetch(
           `${API_URL}/api/public/tours?country=${encodeURIComponent(capitalize(c))}&city=${encodeURIComponent(city.name)}&status=approved`,
           { cache: 'no-store', signal: controller.signal }
@@ -106,7 +113,7 @@ export default async function CountryPage({ params }: Props) {
       if (data?.success) {
         const toursArray = Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
         cityTourCounts[city.slug] = toursArray.length;
-        cityTours[city.slug] = toursArray.slice(0, 4).map((tour: any) => ({
+        cityTours[city.slug] = toursArray.map((tour: any) => ({
           id: tour.id,
           title: tour.title,
           slug: tour.slug || `tour-${tour.id}`,
