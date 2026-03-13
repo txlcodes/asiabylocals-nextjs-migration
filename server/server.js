@@ -6492,6 +6492,17 @@ app.put('/api/tours/:id', async (req, res) => {
       message: 'Tour updated successfully',
       tour: formattedTour
     });
+
+    // Auto-submit to IndexNow when an APPROVED tour is edited (slug fix, content update)
+    if (tourWithOptions.status === 'approved' && tourWithOptions.slug && tourWithOptions.city && tourWithOptions.country) {
+      const countrySlug = tourWithOptions.country.toLowerCase().replace(/\s+/g, '-');
+      const citySlug = tourWithOptions.city.toLowerCase().replace(/\s+/g, '-');
+      const tourUrl = `${SITE_URL}/${countrySlug}/${citySlug}/${tourWithOptions.slug}`;
+      const cityPageUrl = `${SITE_URL}/${countrySlug}/${citySlug}`;
+      submitToIndexNow([tourUrl, cityPageUrl]).then(() => {
+        console.log(`✅ IndexNow: auto-submitted after tour edit → ${tourUrl}`);
+      }).catch(() => {});
+    }
   } catch (error) {
     console.error('Tour update error:', error);
     res.status(500).json({
@@ -6759,11 +6770,8 @@ app.post('/api/admin/tours/:id/approve', verifyAdmin, async (req, res) => {
         console.error('⚠️ Google Indexing API notification failed (non-critical):', indexErr.message);
       });
 
-      // Submit to IndexNow (Bing, Yandex, Google) - no credentials needed
-      const cityPageUrl = `${SITE_URL}/${updatedTour.country.toLowerCase()}/${updatedTour.city.toLowerCase()}`;
-      submitToIndexNow([tourUrl, cityPageUrl, `${SITE_URL}/sitemap.xml`]).then(r => {
-        console.log('✅ IndexNow: tour + city page submitted to Bing/Yandex/Google');
-      }).catch(() => {});
+      // NOTE: IndexNow NOT auto-submitted here — slug is usually bad at approval time.
+      // IndexNow fires when the tour is EDITED (slug fix) or via bulk submit.
     }).catch(sitemapError => {
       console.error('⚠️ Sitemap regeneration failed (non-critical):', sitemapError.message);
       console.error('   This tour will still be approved, but sitemap needs manual update');
