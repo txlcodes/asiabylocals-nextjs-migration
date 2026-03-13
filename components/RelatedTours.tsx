@@ -42,11 +42,15 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
 
     // Preferred titles specified by the user to prioritize
     const preferredTitles = [
-        'Female Guide for Taj Mahal',
-        'Skip-the-Line Taj Mahal Sunrise Tour',
         'Book Official Tour Guide for Taj Mahal',
-        'Book Entry Tickets of Taj Mahal'
+        'Delhi Agra Round Trip By Gatimaan Train',
+        'Agra City Highlights Tour',
+        'Agra & Fatehpur Sikri Day Trip',
+        'Book Tour Guide for Fatehpur Sikri Visit',
     ];
+
+    // Fixed ratings for preferred tours (matched by index above)
+    const preferredRatings = [5.0, 4.5, 4.7, 4.8, 4.1];
 
     useEffect(() => {
         if (country && city) {
@@ -112,19 +116,17 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
     };
 
     const calculateRating = (tour: any) => {
-        // Force high rating for preferred tours
         const title = tour.title?.toLowerCase() || '';
-        const isPreferred = preferredTitles.some(pt => title.includes(pt.toLowerCase()));
+        const prefIndex = preferredTitles.findIndex(pt => title.includes(pt.toLowerCase()));
 
-        if (isPreferred) {
-            // Return 4.9 or 5.0 for preferred tours to make them stand out
-            return 4.9 + (Math.random() * 0.1);
+        if (prefIndex !== -1) {
+            return preferredRatings[prefIndex];
         }
 
         const seed = parseInt(tour.id) || 0;
         const random = (seed * 9301 + 49297) % 233280;
         const normalized = random / 233280;
-        return 4.0 + (normalized * 0.5); // Slightly lower non-preferred tours (4.0 to 4.5)
+        return 4.0 + (normalized * 0.5);
     };
 
     const scrollLeft = () => {
@@ -227,28 +229,32 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                             href={`/${countrySlug}/${citySlug}/${tour.slug}`}
                             className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group shrink-0 w-[240px] sm:w-[280px] md:w-[calc(33.333%-14px)] snap-start flex flex-col"
                         >
-                            {tour.images && tour.images.length > 0 && (
-                                <div className="relative h-48 overflow-hidden shrink-0">
+                            <div className="relative h-48 overflow-hidden shrink-0">
+                                {tour.images && tour.images.length > 0 ? (
                                     <img
                                         src={tour.images[0]}
                                         alt={tour.title}
                                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                                     />
-                                    {rating >= 4.5 && (
-                                        <div className="absolute top-3 left-3">
-                                            <span className="px-2.5 py-1 bg-[#10B981] text-white text-[10px] font-black rounded-md">
-                                                Top rated
-                                            </span>
-                                        </div>
-                                    )}
-                                    <button
-                                        onClick={(e) => { e.preventDefault(); e.stopPropagation(); }}
-                                        className="absolute top-3 right-3 p-2 bg-white/90 hover:bg-white rounded-full transition-colors"
-                                    >
-                                        <Heart size={16} className="text-gray-600" />
-                                    </button>
-                                </div>
-                            )}
+                                ) : (
+                                    <div className="w-full h-full bg-gradient-to-br from-[#10B981]/20 to-[#1E3A5F]/20 flex items-center justify-center">
+                                        <span className="text-gray-400 text-sm font-medium">No image</span>
+                                    </div>
+                                )}
+                                {rating >= 4.5 && (
+                                    <div className="absolute top-3 left-3">
+                                        <span className="px-2.5 py-1 bg-[#10B981] text-white text-[10px] font-black rounded-md">
+                                            Top rated
+                                        </span>
+                                    </div>
+                                )}
+                                <button
+                                    onClick={(e) => { e.preventDefault(); e.stopPropagation(); }}
+                                    className="absolute top-3 right-3 p-2 bg-white/90 hover:bg-white rounded-full transition-colors"
+                                >
+                                    <Heart size={16} className="text-gray-600" />
+                                </button>
+                            </div>
 
                             <div className="p-4 flex flex-col flex-grow">
                                 <h3 className="text-[15px] font-black text-[#001A33] mb-2 line-clamp-2 group-hover:text-[#10B981] transition-colors leading-tight min-h-[44px]">

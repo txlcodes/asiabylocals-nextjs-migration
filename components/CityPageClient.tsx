@@ -1999,20 +1999,25 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
   const citySlug = city.toLowerCase().replace(/\s+/g, '-');
 
-  // Preferred top-rated tours to prioritize in the list
+  // Preferred top-rated tours to prioritize in the list (order = display order)
   const preferredTitles = [
-    'Book Official Tour Guide for Taj mahal',
-    'Skip-The-Line Tajmahal Sunrise Tour With Guide'
+    'Book Official Tour Guide for Taj Mahal',
+    'Delhi Agra Round Trip By Gatimaan Train',
+    'Agra City Highlights Tour',
+    'Agra & Fatehpur Sikri Day Trip',
+    'Book Tour Guide for Fatehpur Sikri Visit',
   ];
+
+  // Fixed ratings for preferred tours (matched by index above)
+  const preferredRatings = [5.0, 4.5, 4.7, 4.8, 4.1];
 
   // Helper function to generate unique random rating between 4.0 and 5.0 for each tour
   const calculateRating = (tour: any) => {
     const title = tour.title?.toLowerCase() || '';
-    const isPreferred = preferredTitles.some(pt => title.includes(pt.toLowerCase()));
+    const prefIndex = preferredTitles.findIndex(pt => title.includes(pt.toLowerCase()));
 
-    if (isPreferred) {
-      // Force 4.9+ rating for preferred tours
-      return 4.9 + (Math.random() * 0.1);
+    if (prefIndex !== -1) {
+      return preferredRatings[prefIndex];
     }
 
     // Generate a consistent random rating based on tour ID
@@ -2206,8 +2211,8 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group flex flex-row md:flex-col"
                   >
                     {/* Image Section */}
-                    {tour.images && tour.images.length > 0 && (
-                      <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
+                    <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
+                      {tour.images && tour.images.length > 0 ? (
                         <img
                           src={tour.images[0]}
                           alt={`${tour.title} in ${city} - ${cityInfo.description}`}
@@ -2216,6 +2221,11 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                           width={400}
                           height={208}
                         />
+                      ) : (
+                        <div className="w-full h-full bg-gradient-to-br from-[#10B981]/20 to-[#1E3A5F]/20 flex items-center justify-center">
+                          <span className="text-gray-400 text-sm font-medium">No image</span>
+                        </div>
+                      )}
                         {/* Brand Logo Overlay */}
 
                         {/* Top Rated Badge */}
@@ -2237,7 +2247,6 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                           <Heart size={18} className="text-gray-600" />
                         </button>
                       </div>
-                    )}
 
                     {/* Content Section */}
                     <div className="p-3 md:p-4 flex-1 flex flex-col justify-between">
