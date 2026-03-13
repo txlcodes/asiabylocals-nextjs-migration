@@ -3310,12 +3310,12 @@ app.post('/api/tours', async (req, res) => {
     }
 
     // Validate category
-    const validCategories = ['Entry Ticket', 'Guided Tour', 'Mini Tour'];
+    const validCategories = ['Entry Ticket', 'Guided Tour', 'Mini Tour', 'Experience'];
     if (!validCategories.includes(category)) {
       return res.status(400).json({
         success: false,
         error: 'Invalid category',
-        message: 'Category must be "Entry Ticket", "Guided Tour", or "Mini Tour"'
+        message: 'Category must be "Entry Ticket", "Guided Tour", "Mini Tour", or "Experience"'
       });
     }
 
@@ -3549,6 +3549,7 @@ app.post('/api/tours', async (req, res) => {
       if (category === 'Guided Tour') return 'guided-tour';
       if (category === 'Entry Ticket') return 'entry-ticket';
       if (category === 'Mini Tour') return 'mini-tour';
+      if (category === 'Experience') return 'experience';
 
       // Final fallback
       return 'tour';
