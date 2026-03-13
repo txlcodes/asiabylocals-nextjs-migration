@@ -56,7 +56,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "description": "Agra is much more than just the Taj Mahal. Discover the most comprehensive, 3000+ word guide to exploring Agra’s hidden Mughal monuments, authentic street food alleys, bustling bazaars, and unforgettable sunrise viewpoints that most tourists miss.",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Person", "name": "Rajesh Verma", "jobTitle": "Licensed Agra Heritage Guide", "knowsAbout": ["Mughal Architecture", "Taj Mahal History", "Agra Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
                             },
                             {
                                 "@type": "FAQPage",
@@ -120,7 +121,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "headline": "Strategic Places to Visit in Agra: A Deep-Dive Directory (2026)",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
@@ -206,7 +207,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "description": "Comprehensive authority guide for visiting Agra Fort in 2026. Includes history, architectural details, and travel strategies.",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
@@ -359,7 +360,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "image": "/things-to-do/agra-taj-mahal-sunrise.webp",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-02-25T02:22:00+05:30",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
@@ -442,7 +443,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Taj Mahal Opening & Closing Time (2026)",
                         "description": "Comprehensive guide to Taj Mahal timings, including sunrise entry, Friday closure, and night viewing rules for 2026.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     },
                     fastFacts: [
                         { icon: 'Clock', label: 'Standard Hours', value: '06:00 AM - Sunset' },
@@ -587,7 +588,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "headline": "Agra Travel Guide 2026",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
                                 "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Person", "name": "Rajesh Verma", "jobTitle": "Licensed Agra Heritage Guide", "knowsAbout": ["Mughal Architecture", "Taj Mahal History", "Agra Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
                             },
                             {
                                 "@type": "FAQPage",
@@ -680,7 +682,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Taj Mahal – Complete 2026 Visitor Guide",
                         "description": "The definitive monument guide for the Taj Mahal in 2026. History, architecture, tickets, and travel tips for a premium experience.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
             case 'fatehpur-sikri':
@@ -773,7 +775,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
                         "description": "Comprehensive guide to Fatehpur Sikri, including history, architecture, and 2026 travel tips.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 
@@ -856,7 +858,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Delhi Travel Guide 2026 — Complete Tourist Command Centre",
                         "description": "The complete Delhi travel guide for 2026. Covers Old Delhi vs New Delhi, all major monuments (Red Fort, Qutub Minar, Humayun's Tomb, India Gate), metro guide, 3-day itinerary, safety tips, and 18 FAQs.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "publisher": { "@type": "Organization", "name": "AsiaByLocals", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.svg" } },
                         "dateModified": "2026-02-27",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-travel-guide-2026"
@@ -936,7 +938,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "url": "https://www.asiabylocals.com/india/delhi/red-fort",
                         "touristType": "History, Architecture, UNESCO",
                         "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27"
                     }
                 };
@@ -1002,7 +1004,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "The world's tallest brick minaret at 72.5 metres, built in 1193 AD by Qutb-ud-din Aibak — a UNESCO World Heritage Site in Delhi.",
                         "url": "https://www.asiabylocals.com/india/delhi/qutub-minar",
                         "address": { "@type": "PostalAddress", "addressLocality": "Mehrauli, Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27"
                     }
                 };
@@ -1072,7 +1074,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "UNESCO World Heritage Site and the first garden-tomb in India, built in 1570 — the direct architectural blueprint for the Taj Mahal.",
                         "url": "https://www.asiabylocals.com/india/delhi/humayuns-tomb",
                         "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27"
                     }
                 };
@@ -1141,7 +1143,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "A 42-metre war memorial arch built in 1931 to commemorate 84,000 soldiers of the British Indian Army who died in World War I, located at the eastern end of Kartavya Path in New Delhi.",
                         "url": "https://www.asiabylocals.com/india/delhi/india-gate",
                         "address": { "@type": "PostalAddress", "addressLocality": "New Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27"
                     }
                 };
@@ -1216,7 +1218,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Things to Do in Delhi 2026 — The Ultimate Guide",
                         "description": "The definitive guide to the best things to do in Delhi: UNESCO monuments, Old Delhi street experiences, cultural sites, food tours, and day trips to the Taj Mahal.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/things-to-do-in-delhi"
                     }
@@ -1292,7 +1294,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Delhi 1-Day Itinerary 2026 — The Perfect One Day in Delhi",
                         "description": "The definitive minute-by-minute 1-day Delhi itinerary: Red Fort, Chandni Chowk, Jama Masjid, India Gate, Humayun's Tomb, and Connaught Place dinner.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-02-27",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-1-day-itinerary"
                     }
@@ -1370,12 +1372,29 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Things to Do in Jaipur: The Ultimate 2026 Guide to India's Pink City",
-                        "description": "Comprehensive guide to Jaipur's palaces, forts, bazaars, food, and culture — the definitive Pink City travel resource.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/things-to-do-in-jaipur"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Things to Do in Jaipur: The Ultimate 2026 Guide to India's Pink City",
+                                "description": "Comprehensive guide to Jaipur's palaces, forts, bazaars, food, and culture — the definitive Pink City travel resource.",
+                                "author": { "@type": "Person", "name": "Priya Sharma", "jobTitle": "Licensed Jaipur Heritage Guide", "knowsAbout": ["Rajput History", "Jaipur Architecture", "Pink City Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "dateModified": "2026-03-10",
+                                "datePublished": "2025-06-01",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/things-to-do-in-jaipur",
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What are the top things to do in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "The essential Jaipur experiences: Amber Fort at sunrise (Rajasthan's finest fort), Hawa Mahal (Palace of Winds), City Palace museum, Jantar Mantar astronomical observatory, Nahargarh Fort sunset, Johari Bazaar gemstone shopping, Jal Mahal lake view, and a Rajasthani food trail through the old city. Budget 2–3 full days for the complete experience." } },
+                                    { "@type": "Question", "name": "How many days do I need in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Minimum 2 full days for the key highlights. Day 1: Amber Fort + Jal Mahal + City Palace + Jantar Mantar + Hawa Mahal. Day 2: Nahargarh Fort sunrise + bazaar shopping + food tour + evening cultural show. With 3 days, add a Ranthambore tiger safari or a visit to Pushkar and Abhaneri." } },
+                                    { "@type": "Question", "name": "What is Jaipur famous for?", "acceptedAnswer": { "@type": "Answer", "text": "Jaipur is famous for its stunning pink-washed architecture (earning it the name 'Pink City'), magnificent royal palaces like City Palace and Hawa Mahal, formidable hilltop forts like Amber Fort, its status as a global gemstone cutting centre, vibrant textile bazaars, and rich Rajasthani cuisine. As part of India's Golden Triangle (Delhi–Agra–Jaipur), it is one of the three most-visited cities in India." } },
+                                    { "@type": "Question", "name": "Is Jaipur safe for tourists?", "acceptedAnswer": { "@type": "Answer", "text": "Jaipur is generally considered one of the safer cities for tourists in North India. Standard precautions apply: use pre-booked transport, avoid poorly lit areas at night, and dress modestly at religious sites. A local guide adds an extra layer of safety and ensures you navigate the city confidently." } },
+                                    { "@type": "Question", "name": "What is the best time to visit Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "October to March — temperatures range from 12°C to 25°C with clear skies. Peak season is November–February. Avoid May–June when temperatures exceed 45°C. The monsoon (July–September) brings lush greenery but humid heat. The Jaipur Literature Festival (January) and Kite Festival (January 14th) are spectacular events." } },
+                                    { "@type": "Question", "name": "What should I buy in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Jaipur is a premier shopping destination. Johari Bazaar for gemstones and Kundan jewellery. Bapu Bazaar for block-printed fabrics and bandhani textiles. Tripolia Bazaar for lac bangles and brassware. Mojari (embroidered leather shoes) and blue pottery are classic Jaipur souvenirs." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1426,11 +1445,27 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Jaipur Travel Guide 2026 — Everything You Need to Know Before Visiting the Pink City",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/jaipur-travel-guide-2026"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Jaipur Travel Guide 2026 — Everything You Need to Know Before Visiting the Pink City",
+                                "author": { "@type": "Person", "name": "Priya Sharma", "jobTitle": "Licensed Jaipur Heritage Guide", "knowsAbout": ["Rajput History", "Jaipur Architecture", "Pink City Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "dateModified": "2026-03-10",
+                                "datePublished": "2025-06-15",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/jaipur-travel-guide-2026",
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best time to visit Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is the best time — pleasant temperatures (12–25°C), clear skies, and festival season. November–February is peak tourist season. Avoid May–June (45°C+ extreme heat). The monsoon (July–September) brings greenery but humid conditions." } },
+                                    { "@type": "Question", "name": "How many days should I spend in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Minimum 2 full days. Day 1: Amber Fort, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal. Day 2: Nahargarh Fort, bazaar shopping, food exploration. 3 days allows a Ranthambore tiger safari or slower-paced exploration." } },
+                                    { "@type": "Question", "name": "Is Jaipur expensive?", "acceptedAnswer": { "@type": "Answer", "text": "Jaipur is very affordable by international standards. Budget: ₹1,500–₹3,000/day. Mid-range: ₹5,000–₹8,000/day. Luxury: ₹15,000+/day." } },
+                                    { "@type": "Question", "name": "Do I need a guide in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Highly recommended, especially for Amber Fort, Jantar Mantar, and City Palace. These monuments are architecturally and historically complex — a licensed guide transforms the experience from sightseeing to genuine understanding." } },
+                                    { "@type": "Question", "name": "How do I get from Delhi to Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Train (Vande Bharat/Shatabdi): 4–4.5 hours, most comfortable. Car (NH-48 Expressway): 4.5–5 hours, best for Golden Triangle tours. Flight: 1 hour, several daily services. Bus (RSRTC Volvo): 5–6 hours, budget option." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1514,7 +1549,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             {
                                 "@type": "Article",
                                 "headline": "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                                 "dateModified": "2026-03-10",
                                 "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/1-day-jaipur-itinerary"
                             }
@@ -1559,7 +1594,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Amber Fort Jaipur — Complete Visitor Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-10",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/amber-fort"
                     }
@@ -1602,7 +1637,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-10",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/hawa-mahal"
                     }
@@ -1644,7 +1679,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "City Palace Jaipur — Complete Visitor Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-10",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/city-palace-jaipur"
                     }
@@ -1686,7 +1721,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-10",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/nahargarh-fort"
                     }
@@ -1763,7 +1798,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-10",
                         "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/places-to-visit-in-jaipur"
                     }
@@ -1841,11 +1876,28 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Things to Do in Phuket: The Ultimate 2026 Guide to Thailand's Largest Island",
-                        "description": "Comprehensive guide to the best things to do in Phuket, from Phi Phi Islands to Old Town heritage walks.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Things to Do in Phuket: The Ultimate 2026 Guide to Thailand's Largest Island",
+                                "description": "Comprehensive guide to the best things to do in Phuket, from Phi Phi Islands to Old Town heritage walks.",
+                                "author": { "@type": "Person", "name": "Somchai Rattanaporn", "jobTitle": "Licensed Phuket Tour Guide", "knowsAbout": ["Phuket Islands", "Andaman Sea", "Thai Culture", "Island Hopping"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "dateModified": "2026-03-01",
+                                "datePublished": "2025-08-01",
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best time to visit Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "November to April (dry season) offers the best weather — clear skies, calm seas, perfect for island-hopping and diving. December–February is peak season. May–October (monsoon) brings afternoon thunderstorms but lower prices and fewer crowds." } },
+                                    { "@type": "Question", "name": "Can I customize my Phuket tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — all private tours are fully customizable. Whether you want more snorkelling time, a cooking class, or adjusted departure times, local guides tailor the itinerary. Private speedboat charters allow visiting islands at your own pace." } },
+                                    { "@type": "Question", "name": "What is the best island-hopping tour from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "The Phi Phi Islands speedboat tour is the top choice — covering Maya Bay, Pileh Lagoon, snorkelling reefs, and Bamboo Island in one day. For a combined experience, the James Bond Island speedboat tour covers Phang Nga Bay's karsts and sea cave canoeing." } },
+                                    { "@type": "Question", "name": "Is it worth hiring a private guide in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — significantly. A licensed local guide transforms sightseeing into a culturally rich experience. At Wat Chalong and Big Buddha, guides explain Buddhist symbolism and historical significance. On island tours, guides identify marine wildlife and know the best snorkelling spots." } },
+                                    { "@type": "Question", "name": "What are the best viewpoints in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Big Buddha on Nakkerd Hills offers the best 360-degree panorama. Promthep Cape is the classic sunset spot. Karon Viewpoint shows three beaches simultaneously. Rang Hill overlooks Phuket Town. Phi Phi Viewpoint is arguably Thailand's most iconic island panorama." } },
+                                    { "@type": "Question", "name": "Is the Phuket Old Town worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — strongly recommended even with limited time. Phuket Old Town can be explored in 2–3 hours and reveals a completely different side of the island from the beaches. The Sino-Portuguese architecture, hidden Chinese shrines, and legendary street food are uniquely Phuket." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1909,11 +1961,28 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Phuket Travel Guide 2026 — Everything You Need to Know Before You Go",
-                        "description": "The definitive 2026 Phuket travel guide covering transport, accommodation, weather, budgeting, safety, and insider tips.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Phuket Travel Guide 2026 — Everything You Need to Know Before You Go",
+                                "description": "The definitive 2026 Phuket travel guide covering transport, accommodation, weather, budgeting, safety, and insider tips.",
+                                "author": { "@type": "Person", "name": "Somchai Rattanaporn", "jobTitle": "Licensed Phuket Tour Guide", "knowsAbout": ["Phuket Travel", "Thailand Tourism", "Andaman Coast"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
+                                "dateModified": "2026-03-01",
+                                "datePublished": "2025-09-01",
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Do I need a visa to visit Phuket in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Most nationalities — including the UK, USA, EU, Australia, Canada, and most Asian countries — receive a 60-day visa exemption on arrival in Thailand. No advance application or fee is required. Simply arrive with a passport valid for at least 6 months and proof of onward travel." } },
+                                    { "@type": "Question", "name": "How much does a Phuket holiday cost per day?", "acceptedAnswer": { "@type": "Answer", "text": "Budget (฿1,500–฿2,500/day): Guesthouse, street food, songthaew transport. Mid-range (฿3,000–฿6,000/day): 3–4 star hotel, restaurant meals, private tours. Luxury (฿8,000–฿20,000+/day): 5-star resort, fine dining, private speedboat charters." } },
+                                    { "@type": "Question", "name": "Is Phuket good for families with children?", "acceptedAnswer": { "@type": "Answer", "text": "Excellent. Calm, shallow waters at Nai Harn, Kata Noi, and Bang Tao beaches are ideal for children during dry season. Family-friendly activities include ethical elephant sanctuaries, Phuket Aquarium, Big Buddha viewpoint, and Old Town heritage walks." } },
+                                    { "@type": "Question", "name": "What is the best area to stay in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Patong for nightlife and first-time visitors. Kata/Karon for families. Old Town for culture and food. Rawai/Nai Harn for experienced travelers. Bang Tao for luxury resorts. Mai Khao for tranquility." } },
+                                    { "@type": "Question", "name": "How do I get from Phuket Airport to my hotel?", "acceptedAnswer": { "@type": "Answer", "text": "Private transfer (recommended): Pre-book for ฿800–฿1,500. Grab app: ฿500–฿900 to Patong. Airport bus: ฿100 to Phuket Town. Metered taxi: ฿600–฿1,000 to Patong." } },
+                                    { "@type": "Question", "name": "Is travel insurance necessary for Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Strongly recommended. Thailand's private hospital costs without insurance can be extremely high. Ensure your policy covers medical evacuation, emergency hospitalisation, adventure activities, and trip cancellation." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1974,7 +2043,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Phi Phi Islands Guide 2026 — Maya Bay, Snorkelling & How to Visit from Phuket",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2035,7 +2104,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Phang Nga Bay Guide 2026 — James Bond Island, Sea Caves & Canoeing",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2092,7 +2161,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Big Buddha Phuket Guide 2026 — Viewpoint, Dress Code & How to Visit",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2148,7 +2217,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Wat Chalong Guide 2026 — Phuket's Most Important Temple",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2209,7 +2278,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@context": "https://schema.org",
                         "@type": "Article",
                         "headline": "Phuket Old Town Guide 2026 — Sino-Portuguese Heritage, Street Food & Walking Tour",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2283,7 +2352,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "@type": "Article",
                         "headline": "Phuket 1-Day Itinerary 2026 — The Perfect One Day in Phuket",
                         "description": "Hour-by-hour 1-day Phuket itinerary covering Big Buddha, Wat Chalong, Old Town, beach time, and Promthep Cape sunset.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                         "dateModified": "2026-03-01"
                     }
                 };
@@ -2348,7 +2417,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "Article",
                                 "headline": "James Bond Island Phuket — Complete Tour Guide 2026",
                                 "description": "Complete guide to visiting James Bond Island from Phuket. Covers tours, sea cave canoeing, Koh Panyee, and the iconic Ko Tapu needle rock.",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                                 "dateModified": "2026-03-01"
                             },
                             {
@@ -2423,7 +2492,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "Article",
                                 "headline": "Phuket Island Hopping 2026 — Best Tours, Islands & Complete Guide",
                                 "description": "Complete guide to island hopping from Phuket. Covers Phi Phi Islands, Phang Nga Bay, Racha Islands, Similan Islands, and how to choose the right tour.",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
                                 "dateModified": "2026-03-01"
                             },
                             {
@@ -2504,7 +2573,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "description": "Go beyond the temples with this comprehensive Bangkok guide. From the Grand Palace and rooftop bars to canal tours, hidden street food alleys, Chatuchak Market, and ethical elephant day trips — discover what makes Bangkok one of Asia's most electrifying cities.",
                                 "datePublished": "2026-01-15T08:00:00+07:00",
                                 "dateModified": "2026-03-01T10:00:00+07:00",
-                                "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
@@ -2558,7 +2627,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods, how to get around, what to eat, temple etiquette, and a day-by-day itinerary framework.",
                         "datePublished": "2026-01-15T08:00:00+07:00",
                         "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 
@@ -2721,7 +2790,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "The definitive 1-day Bangkok itinerary covering Grand Palace, Wat Pho, Wat Arun, canal tour, and Yaowarat Chinatown with exact timings.",
                         "datePublished": "2026-01-15T08:00:00+07:00",
                         "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 
@@ -2764,7 +2833,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "Compare Damnoen Saduak, Amphawa, and Taling Chan floating markets — which is most authentic, how to get there, and what to expect in 2026.",
                         "datePublished": "2026-01-15T08:00:00+07:00",
                         "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 
@@ -2802,7 +2871,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "Everything about Bangkok canal tours — private longtail boat routes, prices, best departure points, and how to book.",
                         "datePublished": "2026-01-15T08:00:00+07:00",
                         "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 
@@ -2882,7 +2951,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         "description": "The complete directory of Bangkok's best places to visit in 2026 — temples, palaces, markets, neighbourhoods, and day trips.",
                         "datePublished": "2026-01-15T08:00:00+07:00",
                         "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals" }
+                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                     }
                 };
 

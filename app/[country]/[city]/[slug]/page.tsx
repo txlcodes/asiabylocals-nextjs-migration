@@ -173,27 +173,65 @@ export default async function SlugPage({ params }: Props) {
   const ratingNorm = ratingRandom / 233280;
   const ratingValue = (4.0 + (ratingNorm * 1.0)).toFixed(1);
   const reviewCount = Math.floor(ratingNorm * 100) + 20;
+  const tourUrl = `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`;
 
   const tourJsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
+      // Product schema — enables rich results with price + star ratings in Google SERPs
       {
         '@type': 'Product',
         name: tour?.title || 'Tour',
         description: tour?.shortDescription || '',
         image: tour?.images?.[0] || '',
-        url: `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`,
+        url: tourUrl,
         brand: { '@type': 'Brand', name: 'AsiaByLocals' },
-        offers: { '@type': 'Offer', price: tour?.pricePerPerson || 0, priceCurrency: tour?.currency || 'USD', availability: 'https://schema.org/InStock', url: `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}` },
+        offers: { '@type': 'Offer', price: tour?.pricePerPerson || 0, priceCurrency: tour?.currency || 'USD', availability: 'https://schema.org/InStock', url: tourUrl },
         aggregateRating: { '@type': 'AggregateRating', ratingValue, reviewCount, bestRating: '5' },
       },
+      // TouristTrip schema — tells AI engines this is a bookable tour with duration, location, and operator
+      {
+        '@type': 'TouristTrip',
+        name: tour?.title || 'Tour',
+        description: tour?.shortDescription || '',
+        image: tour?.images?.[0] || '',
+        url: tourUrl,
+        touristType: 'Cultural Tourism',
+        ...(tour?.duration ? { duration: tour.duration } : {}),
+        itinerary: {
+          '@type': 'ItemList',
+          description: `Guided tour in ${cityName}, ${countryName}`,
+          numberOfItems: 1,
+          itemListElement: [{ '@type': 'ListItem', position: 1, name: tour?.title || 'Tour Experience' }],
+        },
+        offers: {
+          '@type': 'Offer',
+          price: tour?.pricePerPerson || 0,
+          priceCurrency: tour?.currency || 'USD',
+          availability: 'https://schema.org/InStock',
+          url: tourUrl,
+          seller: { '@type': 'TravelAgency', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
+        },
+        provider: {
+          '@type': 'TravelAgency',
+          name: 'AsiaByLocals',
+          url: 'https://www.asiabylocals.com',
+          '@id': 'https://www.asiabylocals.com/#organization',
+        },
+        contentLocation: {
+          '@type': 'City',
+          name: cityName,
+          containedInPlace: { '@type': 'Country', name: countryName },
+        },
+      },
+      // BreadcrumbList
       {
         '@type': 'BreadcrumbList',
         itemListElement: [
           { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.asiabylocals.com' },
           { '@type': 'ListItem', position: 2, name: countryName, item: `https://www.asiabylocals.com/${countrySlug}` },
           { '@type': 'ListItem', position: 3, name: cityName, item: `https://www.asiabylocals.com/${countrySlug}/${citySlug}` },
-          { '@type': 'ListItem', position: 4, name: tour?.title || 'Tour', item: `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}` },
+          { '@type': 'ListItem', position: 4, name: tour?.title || 'Tour', item: tourUrl },
         ],
       },
     ],

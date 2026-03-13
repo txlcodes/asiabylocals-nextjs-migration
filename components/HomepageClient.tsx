@@ -384,24 +384,7 @@ export default function HomepageClient() {
 
   return (
     <div className="min-h-screen bg-white flex flex-col">
-      {/* JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "WebSite",
-            "name": "AsiaByLocals",
-            "url": "https://www.asiabylocals.com",
-            "description": "Discover authentic local tours and cultural experiences across Asia with verified local guides.",
-            "potentialAction": {
-              "@type": "SearchAction",
-              "target": "https://www.asiabylocals.com/search?q={search_term_string}",
-              "query-input": "required name=search_term_string"
-            }
-          })
-        }}
-      />
+      {/* JSON-LD moved to server component (app/page.tsx) — Organization + WebSite schema */}
 
       {/* Header Navigation */}
       <header className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">
