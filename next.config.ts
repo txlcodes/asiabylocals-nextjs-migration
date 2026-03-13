@@ -52,8 +52,9 @@ const nextConfig: NextConfig = {
       // Fixed Delhi bad slugs
       'delhi-old-new-delhi-private-half-day-tour': 'old-new-delhi-private-tour',
       'jaipur-royal-private-tour': 'delhi-to-jaipur-royal-private-day-tour',
-      // Phuket — cooking class slug fix (was mislabelled as food tour)
+      // Phuket — cooking class slug fixes
       'phuket-kata-karon-food-tour': 'thai-cooking-class-phuket-kata',
+      'cooking-class-food-tour': 'seasoning-thai-cooking-class-phuket-cherngtalay',
     };
 
     return Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
