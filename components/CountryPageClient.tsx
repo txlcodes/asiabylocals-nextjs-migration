@@ -1,5 +1,6 @@
 'use client';
 
+import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { ChevronRight, MapPin, Star, Clock } from 'lucide-react';
 import Breadcrumbs from './Breadcrumbs';
@@ -28,6 +29,7 @@ interface CountryPageClientProps {
   countrySlug: string;
   cities: City[];
   cityTours: Record<string, Tour[]>;
+  cityTourCounts: Record<string, number>;
 }
 
 const INDIA_FAQS = [
@@ -68,7 +70,123 @@ const THAILAND_FAQS = [
   },
 ];
 
-export default function CountryPageClient({ country, countrySlug, cities, cityTours }: CountryPageClientProps) {
+function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
+  cityName: string; citySlug: string; tagline: string; countrySlug: string; tours: Tour[];
+}) {
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const intervalRef = useRef<NodeJS.Timeout | null>(null);
+
+  useEffect(() => {
+    const container = scrollRef.current;
+    if (!container || tours.length <= 1) return;
+
+    const startAutoScroll = () => {
+      intervalRef.current = setInterval(() => {
+        if (!container) return;
+        const cardWidth = container.firstElementChild?.getBoundingClientRect().width || 300;
+        const gap = 20;
+        const maxScroll = container.scrollWidth - container.clientWidth;
+
+        if (container.scrollLeft >= maxScroll - 10) {
+          container.scrollTo({ left: 0, behavior: 'smooth' });
+        } else {
+          container.scrollBy({ left: cardWidth + gap, behavior: 'smooth' });
+        }
+      }, 5000);
+    };
+
+    startAutoScroll();
+
+    const pause = () => { if (intervalRef.current) clearInterval(intervalRef.current); };
+    const resume = () => { pause(); startAutoScroll(); };
+
+    container.addEventListener('mouseenter', pause);
+    container.addEventListener('mouseleave', resume);
+    container.addEventListener('touchstart', pause);
+    container.addEventListener('touchend', resume);
+
+    return () => {
+      pause();
+      container.removeEventListener('mouseenter', pause);
+      container.removeEventListener('mouseleave', resume);
+      container.removeEventListener('touchstart', pause);
+      container.removeEventListener('touchend', resume);
+    };
+  }, [tours.length]);
+
+  return (
+    <section className="mb-16">
+      <div className="flex items-center justify-between mb-6">
+        <div>
+          <h2 className="text-2xl font-black text-[#001A33]">Popular Tours in {cityName}</h2>
+          <p className="text-gray-500 font-medium text-sm mt-1">{tagline}</p>
+        </div>
+        <Link
+          href={`/${countrySlug}/${citySlug}`}
+          className="hidden md:flex items-center gap-1 text-[#10B981] font-bold text-sm hover:underline"
+        >
+          View all {cityName} tours <ChevronRight size={16} />
+        </Link>
+      </div>
+
+      <div
+        ref={scrollRef}
+        className="flex gap-5 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-4 -mx-1 px-1"
+        style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+      >
+        <style>{`div::-webkit-scrollbar { display: none; }`}</style>
+        {tours.map(tour => (
+          <Link
+            key={tour.id}
+            href={`/${countrySlug}/${citySlug.toLowerCase()}/${tour.slug}`}
+            className="group flex-shrink-0 w-[280px] sm:w-[300px] bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-[#10B981]/30 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 snap-start"
+          >
+            <div className="relative h-44 overflow-hidden">
+              {tour.images?.[0] ? (
+                <img
+                  src={tour.images[0]}
+                  alt={tour.title}
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  loading="lazy"
+                />
+              ) : (
+                <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
+                  <MapPin className="text-gray-400" size={32} />
+                </div>
+              )}
+            </div>
+            <div className="p-4">
+              <h3 className="font-bold text-[#001A33] text-[15px] leading-snug line-clamp-2 group-hover:text-[#10B981] transition-colors">
+                {tour.title}
+              </h3>
+              <div className="flex items-center gap-3 mt-2 text-sm text-gray-500">
+                {tour.duration && (
+                  <span className="flex items-center gap-1">
+                    <Clock size={13} /> {tour.duration}
+                  </span>
+                )}
+              </div>
+              {tour.pricePerPerson > 0 && (
+                <p className="mt-3 text-right font-black text-[#001A33]">
+                  Starting from <span className="text-lg">${tour.pricePerPerson}</span>
+                </p>
+              )}
+            </div>
+          </Link>
+        ))}
+      </div>
+
+      <Link
+        href={`/${countrySlug}/${citySlug}`}
+        className="mt-4 flex items-center justify-center gap-1 text-[#10B981] font-bold text-sm py-3 border border-[#10B981]/20 rounded-xl hover:bg-[#10B981]/5 transition-colors"
+      >
+        View all {cityName} tours <ChevronRight size={16} />
+      </Link>
+    </section>
+  );
+}
+
+export default function CountryPageClient({ country, countrySlug, cities, cityTours, cityTourCounts }: CountryPageClientProps) {
   const faqs = countrySlug === 'india' ? INDIA_FAQS : countrySlug === 'thailand' ? THAILAND_FAQS : [];
 
   // Featured cities (first 3) vs other cities
@@ -79,10 +197,9 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
     <div className="min-h-screen bg-[#FAFAFA]">
       {/* Header */}
       <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <img src="/logo.svg" alt="Asia By Locals" className="h-10" />
-            <span className="text-xl font-black text-[#001A33] hidden sm:inline">AsiaByLocals</span>
+        <div className="max-w-7xl mx-auto px-4 h-24 sm:h-28 flex items-center justify-between">
+          <Link href="/" className="flex items-center h-full">
+            <img src="/logo.png" alt="AsiaByLocals" className="h-[120px] sm:h-[140px] w-auto object-contain" />
           </Link>
           <div className="flex items-center gap-3">
             <Link href="/" className="text-gray-500 hover:text-[#10B981] transition-colors">
@@ -156,7 +273,9 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   <p className="text-[#10B981] text-sm font-bold uppercase tracking-wider mb-1">{city.tagline}</p>
                   <h3 className="text-2xl font-black text-white mb-2">{city.name}</h3>
                   <p className="text-white/80 text-sm font-medium">
-                    {cityTours[city.slug]?.length || 0}+ tours available
+                    {(cityTourCounts[city.slug] || 0) > 0
+                      ? `${cityTourCounts[city.slug]}+ tours available`
+                      : 'Browse tours'}
                   </p>
                   <div className="mt-3 flex items-center gap-2 text-[#10B981] font-bold text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     Explore {city.name} <ChevronRight size={16} />
@@ -167,77 +286,20 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
           </div>
         </section>
 
-        {/* Tours by City Sections */}
+        {/* Tours by City Sections — Auto-Scrolling Carousel */}
         {featuredCities.map(city => {
           const tours = cityTours[city.slug] || [];
           if (tours.length === 0) return null;
 
           return (
-            <section key={city.slug} className="mb-16">
-              <div className="flex items-center justify-between mb-6">
-                <div>
-                  <h2 className="text-2xl font-black text-[#001A33]">
-                    Popular Tours in {city.name}
-                  </h2>
-                  <p className="text-gray-500 font-medium text-sm mt-1">{city.tagline}</p>
-                </div>
-                <Link
-                  href={`/${countrySlug}/${city.slug}`}
-                  className="hidden md:flex items-center gap-1 text-[#10B981] font-bold text-sm hover:underline"
-                >
-                  View all {city.name} tours <ChevronRight size={16} />
-                </Link>
-              </div>
-
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-                {tours.map(tour => (
-                  <Link
-                    key={tour.id}
-                    href={`/${countrySlug}/${city.slug.toLowerCase()}/${tour.slug}`}
-                    className="group bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-[#10B981]/30 hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
-                  >
-                    <div className="relative h-44 overflow-hidden">
-                      {tour.images?.[0] ? (
-                        <img
-                          src={tour.images[0]}
-                          alt={tour.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                          loading="lazy"
-                        />
-                      ) : (
-                        <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
-                          <MapPin className="text-gray-400" size={32} />
-                        </div>
-                      )}
-                    </div>
-                    <div className="p-4">
-                      <h3 className="font-bold text-[#001A33] text-[15px] leading-snug line-clamp-2 group-hover:text-[#10B981] transition-colors">
-                        {tour.title}
-                      </h3>
-                      <div className="flex items-center gap-3 mt-2 text-sm text-gray-500">
-                        {tour.duration && (
-                          <span className="flex items-center gap-1">
-                            <Clock size={13} /> {tour.duration}
-                          </span>
-                        )}
-                      </div>
-                      {tour.pricePerPerson > 0 && (
-                        <p className="mt-3 text-right font-black text-[#001A33]">
-                          Starting from <span className="text-lg">${tour.pricePerPerson}</span>
-                        </p>
-                      )}
-                    </div>
-                  </Link>
-                ))}
-              </div>
-
-              <Link
-                href={`/${countrySlug}/${city.slug}`}
-                className="md:hidden mt-4 flex items-center justify-center gap-1 text-[#10B981] font-bold text-sm py-3 border border-[#10B981]/20 rounded-xl hover:bg-[#10B981]/5 transition-colors"
-              >
-                View all {city.name} tours <ChevronRight size={16} />
-              </Link>
-            </section>
+            <TourCarousel
+              key={city.slug}
+              cityName={city.name}
+              citySlug={city.slug}
+              tagline={city.tagline}
+              countrySlug={countrySlug}
+              tours={tours}
+            />
           );
         })}
 

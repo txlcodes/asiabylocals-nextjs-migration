@@ -86,11 +86,12 @@ export default async function CountryPage({ params }: Props) {
   // Only fetch tours for featured cities (first 3) to keep SSR fast
   const featuredCities = meta.cities.slice(0, 3);
   const cityTours: Record<string, any[]> = {};
+  const cityTourCounts: Record<string, number> = {};
   try {
     const results = await Promise.all(
       featuredCities.map(city => {
         const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 5000);
+        const timeout = setTimeout(() => controller.abort(), 15000);
         return fetch(
           `${API_URL}/api/public/tours?country=${encodeURIComponent(capitalize(c))}&city=${encodeURIComponent(city.name)}&status=approved`,
           { cache: 'no-store', signal: controller.signal }
@@ -104,6 +105,7 @@ export default async function CountryPage({ params }: Props) {
       const data = results[i];
       if (data?.success) {
         const toursArray = Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
+        cityTourCounts[city.slug] = toursArray.length;
         cityTours[city.slug] = toursArray.slice(0, 4).map((tour: any) => ({
           id: tour.id,
           title: tour.title,
@@ -119,6 +121,7 @@ export default async function CountryPage({ params }: Props) {
         }));
       } else {
         cityTours[city.slug] = [];
+        cityTourCounts[city.slug] = 0;
       }
     });
   } catch (e) {
@@ -131,6 +134,7 @@ export default async function CountryPage({ params }: Props) {
       countrySlug={c}
       cities={meta.cities}
       cityTours={cityTours}
+      cityTourCounts={cityTourCounts}
     />
   );
 }
