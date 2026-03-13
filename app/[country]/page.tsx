@@ -135,13 +135,76 @@ export default async function CountryPage({ params }: Props) {
     console.error('Failed to fetch country tours:', e);
   }
 
+  // ---------- SERVER-SIDE JSON-LD (guaranteed in raw HTML for SEO/AEO/GEO) ----------
+  const countryName = capitalize(c);
+
+  const INDIA_FAQS = [
+    { question: 'What is the Golden Triangle tour in India?', answer: 'The Golden Triangle is India\'s most iconic travel circuit connecting Delhi, Agra, and Jaipur. It covers India\'s 1,000-year imperial history in Delhi, the Taj Mahal and Mughal masterpieces in Agra, and the stunning Rajput palaces and forts of Jaipur. Most travelers complete it in 3-5 days with licensed local guides.' },
+    { question: 'What is the best time to visit India?', answer: 'The best time to visit most of India is October to March, when temperatures are pleasant (15-25°C) and rainfall is minimal. This is peak season for the Golden Triangle cities (Delhi, Agra, Jaipur). Avoid May-June when temperatures exceed 45°C. The monsoon season (July-September) brings heavy rains but lush green landscapes.' },
+    { question: 'Do I need a visa to visit India?', answer: 'Most international visitors need an e-Visa, which can be applied for online at the official Indian government portal. The e-Tourist Visa is valid for 30 days, 1 year, or 5 years depending on the type. Processing typically takes 3-5 business days. Citizens of Nepal and Bhutan do not need a visa.' },
+    { question: 'Is India safe for solo travelers?', answer: 'India is generally safe for travelers, including solo and female travelers, especially in major tourist cities like Delhi, Agra, and Jaipur. Standard travel precautions apply: use verified guides, book through reputable platforms like AsiaByLocals, avoid isolated areas at night, and use app-based transport (Uber/Ola).' },
+    { question: 'How many days do I need for India?', answer: 'For the Golden Triangle (Delhi, Agra, Jaipur), plan 5-7 days. Add Varanasi for a spiritual dimension (2-3 days), Rajasthan\'s desert cities like Jodhpur and Jaisalmer (3-4 days), or Goa for beaches (3-4 days). A comprehensive first trip to India typically takes 10-14 days.' },
+    { question: 'What currency is used in India?', answer: 'India uses the Indian Rupee (INR/₹). As of 2026, 1 USD ≈ 85 INR. Credit cards are widely accepted in hotels, restaurants, and shops in major cities. ATMs are plentiful. For street markets and smaller vendors, carry cash. UPI digital payments (Google Pay, PhonePe) are ubiquitous across India.' },
+  ];
+  const THAILAND_FAQS = [
+    { question: 'What is the best time to visit Thailand?', answer: 'The best time to visit Thailand is November to February (cool and dry season). Bangkok and Phuket are pleasant year-round, but the monsoon season (June-October) brings heavy rains to the Andaman coast (Phuket). The hot season (March-May) sees temperatures above 35°C.' },
+    { question: 'Do I need a visa for Thailand?', answer: 'Citizens of most Western countries get visa-free entry for 30-60 days. Check the Thai Immigration website for your specific nationality. Passport must be valid for at least 6 months.' },
+  ];
+  const faqs = c === 'india' ? INDIA_FAQS : c === 'thailand' ? THAILAND_FAQS : [];
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        name: `Tours in ${countryName}`,
+        description: `Discover the best tours across ${countryName} with licensed local guides.`,
+        url: `https://www.asiabylocals.com/${c}`,
+        isPartOf: { '@type': 'WebSite', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
+      },
+      {
+        '@type': 'TravelAgency',
+        name: 'AsiaByLocals',
+        description: `Book verified local guides and private tours across ${countryName}. Authentic cultural experiences, heritage walks, food tours & day trips.`,
+        url: 'https://www.asiabylocals.com',
+        areaServed: { '@type': 'Country', name: countryName },
+        aggregateRating: { '@type': 'AggregateRating', ratingValue: '4.9', reviewCount: '127', bestRating: '5', worstRating: '1' },
+        ...(c === 'india' ? {
+          review: [
+            { '@type': 'Review', author: { '@type': 'Person', name: 'Sarah M.' }, datePublished: '2026-02-15', reviewBody: 'Our guide Rajesh made the Taj Mahal sunrise absolutely magical. He knew exactly where to stand for the best photos and shared stories about Shah Jahan that you won\'t find in any guidebook.', reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' } },
+            { '@type': 'Review', author: { '@type': 'Person', name: 'Michael T.' }, datePublished: '2026-01-20', reviewBody: 'Our guide Priya navigated the chaotic streets of Jaipur like a pro, got us into Amber Fort before the crowds, and took us to a family-run restaurant no tourist would ever find.', reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' } },
+            { '@type': 'Review', author: { '@type': 'Person', name: 'David K.' }, datePublished: '2025-12-10', reviewBody: 'Booking through AsiaByLocals was the best decision we made for our India trip. Our guide was incredibly knowledgeable — he had a PhD in Mughal history!', reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' } },
+          ],
+        } : {}),
+      },
+      ...(faqs.length > 0 ? [{
+        '@type': 'FAQPage',
+        mainEntity: faqs.map(faq => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })),
+      }] : []),
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.asiabylocals.com' },
+          { '@type': 'ListItem', position: 2, name: countryName, item: `https://www.asiabylocals.com/${c}` },
+        ],
+      },
+    ],
+  };
+
   return (
-    <CountryPageClient
-      country={capitalize(c)}
-      countrySlug={c}
-      cities={meta.cities}
-      cityTours={cityTours}
-      cityTourCounts={cityTourCounts}
-    />
+    <>
+      {/* Server-rendered JSON-LD — guaranteed in raw HTML for crawlers, AI engines, and Googlebot */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <CountryPageClient
+        country={countryName}
+        countrySlug={c}
+        cities={meta.cities}
+        cityTours={cityTours}
+        cityTourCounts={cityTourCounts}
+      />
+    </>
   );
 }

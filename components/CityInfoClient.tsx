@@ -142,13 +142,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
 
     return (
         <div className="min-h-screen bg-white">
-            {/* JSON-LD */}
-            {data.jsonLd && (
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(data.jsonLd) }}
-                />
-            )}
+            {/* JSON-LD moved to server component (app/[country]/[city]/[slug]/page.tsx) for guaranteed raw HTML rendering */}
 
             {/* Hero Section */}
             <div className="relative h-[40vh] md:h-[60vh] overflow-hidden">

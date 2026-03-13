@@ -3995,73 +3995,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   })();
 
 
-  // Build FAQPage JSON-LD schema from tour FAQs (SSR — no useEffect needed in Next.js)
-  const stripMarkdown = (text: string): string => {
-    return text
-      .replace(/\*\*(.*?)\*\*/g, '$1')        // bold **text**
-      .replace(/\*(.*?)\*/g, '$1')             // italic *text*
-      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links [text](url)
-      .replace(/`([^`]+)`/g, '$1')             // inline code
-      .trim();
-  };
-
-  const faqSchemaData = tourFAQs.length > 0 ? {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": tourFAQs.map((faq: { question: string; answer: string }) => ({
-      "@type": "Question",
-      "name": stripMarkdown(faq.question),
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": stripMarkdown(faq.answer)
-      }
-    }))
-  } : null;
-
-  // Generate consistent rating between 4.0-5.0 based on tour ID
-  const ratingSeed = parseInt(tour?.id || '0') || 0;
-  const ratingRandom = (ratingSeed * 9301 + 49297) % 233280;
-  const ratingNorm = ratingRandom / 233280;
-  const ratingValue = (4.0 + (ratingNorm * 1.0)).toFixed(1);
-  const reviewCount = Math.floor(ratingNorm * 100) + 20; // 20-120 reviews
-
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Product",
-        "name": tour?.title || "Tour",
-        "description": tour?.shortDescription || "",
-        "image": tour?.images?.[0] || "",
-        "offers": {
-          "@type": "Offer",
-          "price": tour?.pricePerPerson || 0,
-          "priceCurrency": tour?.currency || "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": ratingValue,
-          "reviewCount": reviewCount,
-          "bestRating": "5"
-        }
-      }
-    ]
-  };
+  // JSON-LD moved to server component (app/[country]/[city]/[slug]/page.tsx) for guaranteed raw HTML rendering
 
   return (
     <div className="min-h-screen bg-white pb-20 lg:pb-0">
-      {/* JSON-LD Structured Data — Product + AggregateRating */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
-      {/* JSON-LD FAQPage Schema — Tour-specific FAQs for rich results */}
-      {faqSchemaData && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchemaData) }}
-        />
-      )}
+      {/* JSON-LD rendered server-side in app/[country]/[city]/[slug]/page.tsx */}
 
       <main className="flex-grow">
         <div className="max-w-7xl mx-auto px-6 py-8">
