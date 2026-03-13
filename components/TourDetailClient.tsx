@@ -33,7 +33,6 @@ import {
   Map,
   Landmark,
   Utensils,
-  Activity,
   Home
 } from 'lucide-react';
 import BookingForm from '@/components/BookingForm';
@@ -52,8 +51,7 @@ const formatDurationHours = (hours: number | string) => {
   const h = typeof hours === 'string' ? parseFloat(hours) : hours;
   if (!h || isNaN(h)) return '';
 
-  // Special override: 6 hours = 6 days
-  if (h === 6) return '6 days';
+  // Display hours normally (no special overrides)
 
   // Convert multiples of 24 to days
   if (h >= 24 && h % 24 === 0) {
@@ -4541,7 +4539,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                 transport: { bg: bgClass, border: borderClass, icon: <Bus size={14} color={iconColor} strokeWidth={2.5} /> },
                                 visit: { bg: bgClass, border: borderClass, icon: <Landmark size={14} color={iconColor} strokeWidth={2.5} /> },
                                 meal: { bg: bgClass, border: borderClass, icon: <Utensils size={14} color={iconColor} strokeWidth={2.5} /> },
-                                activity: { bg: bgClass, border: borderClass, icon: <Activity size={14} color={iconColor} strokeWidth={2.5} /> },
+                                activity: { bg: bgClass, border: borderClass, icon: <Star size={14} color={iconColor} strokeWidth={2.5} /> },
                                 optional: { bg: bgClass, border: borderClass, icon: <Map size={14} color={iconColor} strokeWidth={2.5} /> },
                                 return: { bg: bgClass, border: borderClass, icon: <Home size={14} color={iconColor} strokeWidth={2.5} /> }
                               };
