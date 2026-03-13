@@ -2002,7 +2002,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   // Preferred top-rated tours to prioritize in the list (order = display order)
   const preferredTitles = [
     'Book Official Tour Guide for Taj Mahal',
-    'Delhi Agra Round Trip By Gatimaan Train',
+    'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
     'Agra City Highlights Tour',
     'Agra & Fatehpur Sikri Day Trip',
     'Book Tour Guide for Fatehpur Sikri Visit',
@@ -2011,10 +2011,15 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   // Fixed ratings for preferred tours (matched by index above)
   const preferredRatings = [5.0, 4.5, 4.7, 4.8, 4.1];
 
+  // Helper: exact title match (case-insensitive, trimmed)
+  const matchPreferred = (tourTitle: string) => {
+    const t = tourTitle?.toLowerCase().trim() || '';
+    return preferredTitles.findIndex(pt => t === pt.toLowerCase().trim());
+  };
+
   // Helper function to generate unique random rating between 4.0 and 5.0 for each tour
   const calculateRating = (tour: any) => {
-    const title = tour.title?.toLowerCase() || '';
-    const prefIndex = preferredTitles.findIndex(pt => title.includes(pt.toLowerCase()));
+    const prefIndex = matchPreferred(tour.title);
 
     if (prefIndex !== -1) {
       return preferredRatings[prefIndex];
@@ -2032,11 +2037,8 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   // Sort tours
   const sortedTours = [...filteredTours].sort((a, b) => {
     if (sortBy === 'recommended') {
-      const aTitle = a.title?.toLowerCase() || '';
-      const bTitle = b.title?.toLowerCase() || '';
-
-      const aIndex = preferredTitles.findIndex(pt => aTitle.includes(pt.toLowerCase()));
-      const bIndex = preferredTitles.findIndex(pt => bTitle.includes(pt.toLowerCase()));
+      const aIndex = matchPreferred(a.title);
+      const bIndex = matchPreferred(b.title);
 
       // Prioritize preferred tours first
       if (aIndex !== -1 && bIndex === -1) return -1;

@@ -43,7 +43,7 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
     // Preferred titles specified by the user to prioritize
     const preferredTitles = [
         'Book Official Tour Guide for Taj Mahal',
-        'Delhi Agra Round Trip By Gatimaan Train',
+        'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
         'Agra City Highlights Tour',
         'Agra & Fatehpur Sikri Day Trip',
         'Book Tour Guide for Fatehpur Sikri Visit',
@@ -81,10 +81,16 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                 // Filter out the current tour
                 let filtered = toursArray.filter((t: any) => String(t.id) !== String(currentTourId));
 
+                // Exact match helper (case-insensitive, trimmed)
+                const matchPref = (t: string) => {
+                    const tl = t?.toLowerCase().trim() || '';
+                    return preferredTitles.findIndex(pt => tl === pt.toLowerCase().trim());
+                };
+
                 // Prioritize the user requested "preferred" tours to appear first if they exist
                 filtered.sort((a, b) => {
-                    const aIndex = preferredTitles.findIndex(title => a.title?.toLowerCase().includes(title.toLowerCase()));
-                    const bIndex = preferredTitles.findIndex(title => b.title?.toLowerCase().includes(title.toLowerCase()));
+                    const aIndex = matchPref(a.title);
+                    const bIndex = matchPref(b.title);
 
                     if (aIndex !== -1 && bIndex === -1) return -1;
                     if (bIndex !== -1 && aIndex === -1) return 1;
@@ -116,8 +122,8 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
     };
 
     const calculateRating = (tour: any) => {
-        const title = tour.title?.toLowerCase() || '';
-        const prefIndex = preferredTitles.findIndex(pt => title.includes(pt.toLowerCase()));
+        const tl = tour.title?.toLowerCase().trim() || '';
+        const prefIndex = preferredTitles.findIndex(pt => tl === pt.toLowerCase().trim());
 
         if (prefIndex !== -1) {
             return preferredRatings[prefIndex];
