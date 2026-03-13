@@ -65,6 +65,37 @@ const notifyGoogleIndexing = async (url) => {
   }
 };
 
+// ==================== INDEXNOW (Instant Bing/Yandex/Google indexing) ====================
+const INDEXNOW_KEY = 'd07eb4ee2f0203aa34b2d409ee303f44';
+const SITE_URL = 'https://www.asiabylocals.com';
+
+const submitToIndexNow = async (urls) => {
+  const urlList = Array.isArray(urls) ? urls : [urls];
+  try {
+    const response = await fetch('https://api.indexnow.org/indexnow', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json; charset=utf-8' },
+      body: JSON.stringify({
+        host: 'www.asiabylocals.com',
+        key: INDEXNOW_KEY,
+        keyLocation: `${SITE_URL}/${INDEXNOW_KEY}.txt`,
+        urlList: urlList.map(u => u.startsWith('http') ? u : `${SITE_URL}${u}`),
+      }),
+    });
+    if (response.ok || response.status === 202) {
+      console.log(`✅ IndexNow: ${urlList.length} URL(s) submitted`);
+      return { success: true, count: urlList.length };
+    } else {
+      const text = await response.text();
+      console.error(`❌ IndexNow error ${response.status}:`, text);
+      return { success: false, error: text };
+    }
+  } catch (err) {
+    console.error('❌ IndexNow failed:', err.message);
+    return { success: false, error: err.message };
+  }
+};
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -6727,6 +6758,12 @@ app.post('/api/admin/tours/:id/approve', verifyAdmin, async (req, res) => {
       }).catch(indexErr => {
         console.error('⚠️ Google Indexing API notification failed (non-critical):', indexErr.message);
       });
+
+      // Submit to IndexNow (Bing, Yandex, Google) - no credentials needed
+      const cityPageUrl = `${SITE_URL}/${updatedTour.country.toLowerCase()}/${updatedTour.city.toLowerCase()}`;
+      submitToIndexNow([tourUrl, cityPageUrl, `${SITE_URL}/sitemap.xml`]).then(r => {
+        console.log('✅ IndexNow: tour + city page submitted to Bing/Yandex/Google');
+      }).catch(() => {});
     }).catch(sitemapError => {
       console.error('⚠️ Sitemap regeneration failed (non-critical):', sitemapError.message);
       console.error('   This tour will still be approved, but sitemap needs manual update');
@@ -7083,6 +7120,75 @@ app.post('/api/admin/sitemap/regenerate', verifyAdmin, async (req, res) => {
       error: 'Failed to regenerate sitemap',
       message: error.message
     });
+  }
+});
+
+// ==================== INDEXNOW BULK SUBMIT ====================
+// Submit all approved tour URLs + city/country pages to IndexNow
+app.post('/api/admin/indexnow/submit-all', verifyAdmin, async (req, res) => {
+  try {
+    console.log('🔄 Admin: Bulk IndexNow submission started');
+
+    // Fetch all approved tours
+    const tours = await prisma.tour.findMany({
+      where: { status: 'approved' },
+      select: { slug: true, city: true, country: true },
+    });
+
+    // Build URL list
+    const urls = new Set();
+    // Homepage + sitemap
+    urls.add(`${SITE_URL}`);
+    urls.add(`${SITE_URL}/sitemap.xml`);
+
+    // Static pages
+    ['/about-us', '/india', '/thailand', '/india/agra', '/india/delhi', '/india/jaipur',
+     '/thailand/phuket', '/thailand/bangkok'].forEach(p => urls.add(`${SITE_URL}${p}`));
+
+    // Tour pages
+    for (const t of tours) {
+      const countrySlug = t.country?.toLowerCase().replace(/\s+/g, '-') || 'india';
+      const citySlug = t.city?.toLowerCase().replace(/\s+/g, '-') || '';
+      if (t.slug && citySlug) {
+        urls.add(`${SITE_URL}/${countrySlug}/${citySlug}/${t.slug}`);
+        urls.add(`${SITE_URL}/${countrySlug}/${citySlug}`);
+      }
+    }
+
+    const urlList = [...urls];
+    console.log(`📋 Submitting ${urlList.length} URLs to IndexNow...`);
+
+    // IndexNow allows max 10,000 URLs per batch
+    const batchSize = 10000;
+    const results = [];
+    for (let i = 0; i < urlList.length; i += batchSize) {
+      const batch = urlList.slice(i, i + batchSize);
+      const r = await submitToIndexNow(batch);
+      results.push(r);
+    }
+
+    res.json({
+      success: true,
+      message: `Submitted ${urlList.length} URLs to IndexNow (Bing, Yandex, Google)`,
+      totalUrls: urlList.length,
+      tourUrls: tours.length,
+      results,
+    });
+  } catch (error) {
+    console.error('❌ Bulk IndexNow failed:', error);
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+// Submit a single URL to IndexNow
+app.post('/api/admin/indexnow/submit', verifyAdmin, async (req, res) => {
+  try {
+    const { url } = req.body;
+    if (!url) return res.status(400).json({ success: false, error: 'URL required' });
+    const result = await submitToIndexNow([url]);
+    res.json({ success: true, ...result });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
   }
 });
 
