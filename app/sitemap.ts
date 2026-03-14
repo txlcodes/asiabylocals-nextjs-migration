@@ -23,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'things-to-do-in-agra', 'places-to-visit-in-agra', '1-day-agra-itinerary',
     'taj-mahal-ticket-price-2026', 'taj-mahal-opening-time', 'is-taj-mahal-closed-on-friday',
     'agra-travel-guide-2026', 'taj-mahal', 'agra-fort', 'fatehpur-sikri',
+    'agra-gatimaan-entry-ticket',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
@@ -102,7 +103,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
           url: `${BASE_URL}/${country}/${city}/${t.slug}`,
           lastModified: new Date(t.updatedAt || t.createdAt || Date.now()),
           changeFrequency: 'weekly' as const,
-          priority: 0.6,
+          priority: 0.7,
         };
       });
   } catch (e) {

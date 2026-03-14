@@ -359,27 +359,20 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "description": "Official 2026 Taj Mahal ticket price guide. Includes fees for foreign tourists (₹1,300), Indians (₹250), SAARC citizens, and important digital booking rules.",
                                 "image": "/things-to-do/agra-taj-mahal-sunrise.webp",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
-                                "dateModified": "2026-02-25T02:22:00+05:30",
+                                "dateModified": "2026-03-14T08:00:00+05:30",
                                 "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
                                 "mainEntity": [
-                                    {
-                                        "@type": "Question",
-                                        "name": "Can I buy Taj Mahal tickets with cash at the gate?",
-                                        "acceptedAnswer": { "@type": "Answer", "text": "No. Since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online." }
-                                    },
-                                    {
-                                        "@type": "Question",
-                                        "name": "Is the main tomb entry included in the standard foreigner ticket?",
-                                        "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. You must specifically select the 'Mausoleum' add-on (₹200) during the checkout process." }
-                                    },
-                                    {
-                                        "@type": "Question",
-                                        "name": "What is the Taj Mahal entry ticket price in 2026?",
-                                        "acceptedAnswer": { "@type": "Answer", "text": "For 2026, foreign tourists pay ₹1,300 and Indian citizens pay ₹250 for full entry including the mausoleum." }
-                                    }
+                                    { "@type": "Question", "name": "What is the Taj Mahal entry ticket price in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "For 2026, foreign tourists pay ₹1,300 total (₹1,100 entry + ₹200 mausoleum supplement), Indian citizens pay ₹250 (₹50 entry + ₹200 mausoleum), and SAARC/BIMSTEC citizens pay ₹740. Children under 15 enter free but require a zero-value ticket booked online." } },
+                                    { "@type": "Question", "name": "How much is the Taj Mahal ticket for foreigners in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Foreign tourists pay ₹1,300 for the complete Taj Mahal experience in 2026. This breaks down as ₹1,100 for entry to the gardens and outer complex, plus ₹200 for the mandatory main mausoleum supplement that allows you onto the raised marble platform and into the inner sanctum." } },
+                                    { "@type": "Question", "name": "Can I buy Taj Mahal tickets with cash at the gate?", "acceptedAnswer": { "@type": "Answer", "text": "No. Since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online through the official ASI portal or scan the QR codes at the monument entrance." } },
+                                    { "@type": "Question", "name": "Is the main tomb entry included in the standard foreigner ticket?", "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. You must specifically select the 'Mausoleum' add-on (₹200) during checkout if you wish to climb the marble platform and see the royal cenotaphs of Shah Jahan and Mumtaz Mahal. Without it, you only access the gardens and outer buildings." } },
+                                    { "@type": "Question", "name": "Are children under 15 free at the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, children under 15 of all nationalities enter free. However, parents must still book a zero-value ticket through the online portal for each child, and you may be asked to show a passport copy if the child appears to be near the age limit." } },
+                                    { "@type": "Question", "name": "Do SAARC citizens need to show their passport at the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. To avail of the discounted SAARC rate (₹540 entry + ₹200 mausoleum = ₹740 total), you must present an original passport from a member nation at the security check. This applies to citizens of Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Pakistan, Sri Lanka, Thailand, and Myanmar." } },
+                                    { "@type": "Question", "name": "What payment methods are accepted for Taj Mahal tickets?", "acceptedAnswer": { "@type": "Answer", "text": "UPI is the fastest payment method for anyone with an Indian bank account. International visitors can use Visa or Mastercard — ensure 'International Usage' is enabled with your bank before arriving. No cash is accepted at any ticket window." } },
+                                    { "@type": "Question", "name": "What is included with the Taj Mahal foreigner ticket?", "acceptedAnswer": { "@type": "Answer", "text": "The foreigner (High-Value) ticket is a bundled package that includes: entry to the gardens and monument complex, a 500ml water bottle, disposable shoe covers (mandatory for the marble platform), and a basic Agra tourist map. These are collected at the foreigner-specific amenities counter on arrival." } }
                                 ]
                             },
                             {
@@ -440,10 +433,38 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Taj Mahal Opening & Closing Time (2026)",
-                        "description": "Comprehensive guide to Taj Mahal timings, including sunrise entry, Friday closure, and night viewing rules for 2026.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Taj Mahal Opening & Closing Time (2026)",
+                                "description": "Comprehensive guide to Taj Mahal timings, including sunrise entry, Friday closure, and night viewing rules for 2026.",
+                                "datePublished": "2026-01-01T08:00:00+05:30",
+                                "dateModified": "2026-03-14T08:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What time does the Taj Mahal open in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The Taj Mahal gates officially open at 06:00 AM daily, except on Fridays when the monument is closed to the public. Last entry is 30 minutes before the official sunset closing time." } },
+                                    { "@type": "Question", "name": "What is the exact opening time of the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "The gates officially open at 06:00 AM daily, except on Fridays when the monument is closed. To be among the first visitors, join the queue by 05:30 AM — security screening begins before the official opening time." } },
+                                    { "@type": "Question", "name": "What time does the Taj Mahal close?", "acceptedAnswer": { "@type": "Answer", "text": "The Taj Mahal closes at sunset, approximately 06:30 PM. Ticket counters and entry gates stop admitting new visitors 30 minutes before the official closing time. Entry tickets are valid for a 3-hour window from the time of entry." } },
+                                    { "@type": "Question", "name": "Can I enter the Taj Mahal after 5:30 PM?", "acceptedAnswer": { "@type": "Answer", "text": "No. The ticket counters and final entry gates usually stop admitting visitors 30 minutes before the official sunset closing time, which means no entry after approximately 6:00 PM." } },
+                                    { "@type": "Question", "name": "Is the Taj Mahal open on public holidays?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Taj Mahal remains open on all national and public holidays, unless that holiday falls on a Friday. The only day it is completely closed is Friday, due to congregational prayers at the mosque within the complex." } },
+                                    { "@type": "Question", "name": "How long can I stay inside the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "A standard entry ticket is valid for 3 hours from the time of entry. This is monitored via the QR code exit scan. If you exceed this time, you may be asked to pay an additional fee at the exit gate." } },
+                                    { "@type": "Question", "name": "Is there night viewing at the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Limited night viewing is available on the full moon night and two nights before and after — five nights total per lunar cycle. Hours are 08:30 PM to 12:30 AM, in batches of 50 visitors for 30 minutes each. Tickets must be booked 24 hours in advance. Night viewing is not available on Fridays or during Ramadan." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "The shoulder seasons of October–November and February–March offer the best balance of clear skies, comfortable temperatures, and good visibility. December–January is peak season with the most crowds. Summer (April–June) sees extreme heat but fewer tourists at sunrise." } }
+                                ]
+                            },
+                            {
+                                "@type": "BreadcrumbList",
+                                "itemListElement": [
+                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.asiabylocals.com" },
+                                    { "@type": "ListItem", "position": 2, "name": "India", "item": "https://www.asiabylocals.com/india" },
+                                    { "@type": "ListItem", "position": 3, "name": "Agra", "item": "https://www.asiabylocals.com/india/agra" },
+                                    { "@type": "ListItem", "position": 4, "name": "Taj Mahal Opening Time", "item": "https://www.asiabylocals.com/india/agra/taj-mahal-opening-time" }
+                                ]
+                            }
+                        ]
                     },
                     fastFacts: [
                         { icon: 'Clock', label: 'Standard Hours', value: '06:00 AM - Sunset' },
@@ -484,20 +505,28 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        { q: "Is the Taj Mahal really closed every Friday?", a: "Yes, the monument is closed every Friday for general visitors. Only worshippers are allowed for mid-day prayers." },
-                        { q: "Can I still see the Taj Mahal on a Friday?", a: "Yes, from Mehtab Bagh across the river or from a rooftop restaurant in Taj Ganj." }
+                        { q: "Is the Taj Mahal really closed every Friday?", a: "Yes, the monument is closed every Friday for general visitors throughout 2026. The closure is due to congregational Friday prayers at the mosque inside the complex. Only local worshippers with valid ID are permitted entry between 12:00 PM and 2:00 PM." },
+                        { q: "Can I still see the Taj Mahal on a Friday?", a: "Yes — from **Mehtab Bagh** (the Moonlit Garden) directly across the Yamuna River, you get a perfectly symmetrical rear view of the Taj Mahal with no crowds in your frame. Rooftop restaurants in Taj Ganj also offer elevated views. Neither requires entry to the monument itself." },
+                        { q: "Is Agra Fort also closed on Fridays?", a: "No. Agra Fort remains **open every day including Fridays**. It is a UNESCO World Heritage Site in its own right and the ideal alternative for a Friday visit in Agra. Budget 2–3 hours for a thorough exploration of this magnificent red sandstone fortress." },
+                        { q: "What is the best thing to do in Agra on a Friday?", a: "The optimal Friday itinerary: **Agra Fort** (morning, 3 hours) → **Lunch at Sadar Bazaar** → **Itimad-ud-Daula / Baby Taj** (afternoon, 1.5 hours) → **Mehtab Bagh sunset view** of the Taj Mahal (arrive 4:30 PM). This is arguably a better day than a standard Taj visit because you avoid the monument's crowds entirely." },
+                        { q: "What time does the Taj Mahal open on other days?", a: "On all days except Friday, the Taj Mahal opens **30 minutes before sunrise** and closes 30 minutes before sunset. In 2026, summer opening is approximately 5:30 AM and winter opening approximately 6:00 AM. The first hour after opening is the best time — fewest crowds and the marble glows in golden light." },
+                        { q: "How far is Mehtab Bagh from the Taj Mahal?", a: "Mehtab Bagh is approximately **3 kilometres** from the Taj Mahal's main gates, on the opposite (north) bank of the Yamuna River. By auto-rickshaw from Taj Ganj it takes 10–15 minutes (negotiate ₹80–100). By Uber it is under 10 minutes. The garden is open daily from sunrise to sunset — entry ₹300 for foreign tourists." },
+                        { q: "Are online tickets available for Fridays?", a: "No. The ASI's official ticket booking system (asi.nic.in) **automatically blocks all Friday slots** for general tourism. There is no workaround — exceptions are never made by the Central Industrial Security Force (CISF) guards who manage entry, regardless of what touts near the gates may claim." },
+                        { q: "Can I visit the Taj Mahal at night?", a: "Limited **night viewing** is available on the full moon night and the two nights before and after it (except Fridays and during Ramadan). Only 400 tickets are issued per night, and they must be booked 24 hours in advance at the ASI office near the East Gate. Viewing is for 30 minutes from the marble viewing platform — you cannot approach the tomb itself." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
                         "@type": "FAQPage",
-                        "mainEntity": [{
-                            "@type": "Question",
-                            "name": "Is the Taj Mahal closed on Friday?",
-                            "acceptedAnswer": {
-                                "@type": "Answer",
-                                "text": "Yes, the Taj Mahal is closed every Friday for congregational prayers. Mehtab Bagh remains open for views."
-                            }
-                        }]
+                        "mainEntity": [
+                            { "@type": "Question", "name": "Is the Taj Mahal closed on Friday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Taj Mahal is closed every Friday for congregational prayers. Only local worshippers with valid ID are permitted between 12:00 PM and 2:00 PM. No exceptions are made for tourists regardless of prior bookings." } },
+                            { "@type": "Question", "name": "Can I still see the Taj Mahal on a Friday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — from Mehtab Bagh (the Moonlit Garden) directly across the Yamuna River, you get a perfectly symmetrical rear view of the Taj Mahal with no crowds. Rooftop restaurants in Taj Ganj also offer elevated views. Arrive at Mehtab Bagh by 4:30 PM for the best sunset reflection shot." } },
+                            { "@type": "Question", "name": "Is Agra Fort also closed on Fridays?", "acceptedAnswer": { "@type": "Answer", "text": "No. Agra Fort remains open every day including Fridays. It is a UNESCO World Heritage Site and the ideal Friday alternative in Agra — budget 2–3 hours for a thorough visit to this magnificent red sandstone fortress." } },
+                            { "@type": "Question", "name": "What is the best thing to do in Agra on a Friday?", "acceptedAnswer": { "@type": "Answer", "text": "The optimal Friday itinerary: Agra Fort (morning, 3 hours) → lunch at Sadar Bazaar → Itimad-ud-Daula / Baby Taj (afternoon, 1.5 hours) → Mehtab Bagh sunset view of the Taj Mahal (arrive 4:30 PM). This itinerary avoids the Taj's crowds entirely while still including a stunning view of the monument." } },
+                            { "@type": "Question", "name": "What time does the Taj Mahal open on other days?", "acceptedAnswer": { "@type": "Answer", "text": "On all days except Friday, the Taj Mahal opens 30 minutes before sunrise and closes 30 minutes before sunset. In 2026, summer opening is approximately 5:30 AM and winter opening approximately 6:00 AM. The first hour after opening is the best time — fewest crowds and the marble glows in golden light." } },
+                            { "@type": "Question", "name": "How far is Mehtab Bagh from the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Mehtab Bagh is approximately 3 kilometres from the Taj Mahal's main gates, on the opposite north bank of the Yamuna River. By auto-rickshaw from Taj Ganj it takes 10–15 minutes. Entry is ₹300 for foreign tourists. The garden is open daily from sunrise to sunset." } },
+                            { "@type": "Question", "name": "Are online tickets available for the Taj Mahal on Fridays?", "acceptedAnswer": { "@type": "Answer", "text": "No. The ASI's official ticket booking system automatically blocks all Friday slots for general tourism. There is no workaround — the Central Industrial Security Force guards manage entry and exceptions are never made, regardless of what touts near the gates may claim." } },
+                            { "@type": "Question", "name": "Can I visit the Taj Mahal at night?", "acceptedAnswer": { "@type": "Answer", "text": "Limited night viewing is available on the full moon night and the two nights before and after it (except Fridays and during Ramadan). Only 400 tickets are issued per night and must be booked 24 hours in advance at the ASI office near the East Gate. Viewing lasts 30 minutes from the marble platform." } }
+                        ]
                     },
                     fastFacts: [
                         { icon: 'AlertTriangle', label: 'Closure', value: 'Every single Friday' },
@@ -772,17 +801,135 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
-                        "description": "Comprehensive guide to Fatehpur Sikri, including history, architecture, and 2026 travel tips.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
+                                "description": "Comprehensive guide to Fatehpur Sikri, including history, architecture, and 2026 travel tips.",
+                                "datePublished": "2025-06-01T08:00:00+05:30",
+                                "dateModified": "2026-03-14T08:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is Fatehpur Sikri open on Friday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, unlike the Taj Mahal which is closed every Friday, Fatehpur Sikri remains open to the public daily from sunrise to sunset — making it the ideal alternative when the Taj Mahal is closed." } },
+                                    { "@type": "Question", "name": "How much is the entry fee for Fatehpur Sikri in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The entry fee for foreign tourists is ₹610. Indian citizens and SAARC/BIMSTEC visitors pay ₹50. Tickets are digital — scan the QR code at the gate or pre-book online. Cash is not accepted at ticket windows." } },
+                                    { "@type": "Question", "name": "How far is Fatehpur Sikri from Agra?", "acceptedAnswer": { "@type": "Answer", "text": "Fatehpur Sikri is approximately 37–40 kilometres from Agra city centre, typically taking 60–90 minutes by road. A private taxi round-trip from Agra is the most convenient option, taking about 1 hour each way." } },
+                                    { "@type": "Question", "name": "Can I do Taj Mahal and Fatehpur Sikri in one day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is a common 1-day circuit. Visit the Taj Mahal at sunrise (06:00–09:00 AM), then Agra Fort (10:00 AM–12:30 PM), then depart for Fatehpur Sikri in the afternoon. Allow 3–4 hours at Fatehpur Sikri." } },
+                                    { "@type": "Question", "name": "Why was Fatehpur Sikri abandoned?", "acceptedAnswer": { "@type": "Answer", "text": "Fatehpur Sikri was abandoned primarily due to severe water scarcity — the ridge lacked sustainable water sources for a growing imperial population. Additionally, military threats in the northwest required Emperor Akbar to move his capital to Lahore in 1585. The imperial court never returned in full capacity." } },
+                                    { "@type": "Question", "name": "Is Fatehpur Sikri a UNESCO World Heritage Site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Fatehpur Sikri was designated a UNESCO World Heritage Site in 1986, recognised for its architectural influence on Indian town planning and its unique blend of Hindu, Jain, and Islamic architectural styles — reflecting Emperor Akbar's policy of religious pluralism." } },
+                                    { "@type": "Question", "name": "How long does a visit to Fatehpur Sikri take?", "acceptedAnswer": { "@type": "Answer", "text": "You need at least 3 to 4 hours to see both the Palace Complex and the Mosque (Buland Darwaza) area properly. With a licensed guide, 3 hours is sufficient for a thorough visit. Without a guide, many structures' significance is lost." } },
+                                    { "@type": "Question", "name": "Are guides available at Fatehpur Sikri?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, licensed ASI guides are available at the entrance. A guide is strongly recommended — Fatehpur Sikri's structures are architecturally complex (treasury, harems, private audience hall), and visiting without explanation leads to confusion and monument fatigue." } },
+                                    { "@type": "Question", "name": "Can I visit the Dargah of Salim Chishti at Fatehpur Sikri?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Tomb of Salim Chishti is located within the Jama Masjid complex and is open to all visitors regardless of religion. It is an active pilgrimage site where people tie red threads to the marble lattice screens to make a vow. Remove your shoes before entering." } },
+                                    { "@type": "Question", "name": "What is the best time to visit Fatehpur Sikri?", "acceptedAnswer": { "@type": "Answer", "text": "October to March offers the best weather — pleasant temperatures with clear skies. Arrive early (08:00 AM) or in the late afternoon for the best light on the red sandstone. Avoid midday in summer (April–June) when temperatures can reach 45°C." } },
+                                    { "@type": "Question", "name": "Is there a dress code for Fatehpur Sikri?", "acceptedAnswer": { "@type": "Answer", "text": "Modest dress is required when entering the Jama Masjid and the Tomb of Salim Chishti (shoulders and knees must be covered). There is no strict code for the palace complex, but respectful attire is appropriate throughout the site." } },
+                                    { "@type": "Question", "name": "Can I take my car up to the Fatehpur Sikri monument?", "acceptedAnswer": { "@type": "Answer", "text": "No, private vehicles must be parked at a designated parking lot approximately 1 km away. From the car park, you can take a government shuttle bus or an electric rickshaw to the monument entrance." } }
+                                ]
+                            },
+                            {
+                                "@type": "BreadcrumbList",
+                                "itemListElement": [
+                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.asiabylocals.com" },
+                                    { "@type": "ListItem", "position": 2, "name": "India", "item": "https://www.asiabylocals.com/india" },
+                                    { "@type": "ListItem", "position": 3, "name": "Agra", "item": "https://www.asiabylocals.com/india/agra" },
+                                    { "@type": "ListItem", "position": 4, "name": "Fatehpur Sikri", "item": "https://www.asiabylocals.com/india/agra/fatehpur-sikri" }
+                                ]
+                            }
+                        ]
+                    }
+                };
+
+            case "agra-gatimaan-entry-ticket":
+                return {
+                    title: "Gatimaan Express Delhi to Agra — Ticket Price, Timings & Booking Guide 2026",
+                    description: "The Gatimaan Express is the fastest train between Delhi and Agra — covering 188 km in just 100 minutes at speeds up to 160 km/h. This is your complete 2026 guide to ticket prices, booking, timings, and how to plan a perfect Delhi–Agra day trip using India's fastest semi-high-speed train.",
+                    heroImage: "/agra-hero.jpg",
+                    fastFacts: [
+                        { icon: "Clock", label: "Journey Time", value: "100 minutes (Delhi → Agra)" },
+                        { icon: "Ticket", label: "Ticket Price (CC Class)", value: "₹755 (adult) / ₹395 (child)" },
+                        { icon: "Star", label: "Train Number", value: "12049 (Delhi→Agra) / 12050 (Agra→Delhi)" },
+                        { icon: "Map", label: "Departure Station", value: "Hazrat Nizamuddin (NZM), Delhi" },
+                        { icon: "History", label: "Top Speed", value: "160 km/h — India's fastest service" },
+                        { icon: "AlertTriangle", label: "Operates", value: "Tuesday to Sunday (closed Monday)" }
+                    ],
+                    sections: [
+                        {
+                            title: "Why the Gatimaan Express Is the Best Way to Reach Agra",
+                            image: "/agra-hero.jpg",
+                            content: "The **Gatimaan Express** (Train No. 12049/12050) is not just another Delhi–Agra train. It is India's first semi-high-speed train service, operating at speeds of up to **160 km/h** — making the 188-kilometre journey from Delhi's Hazrat Nizamuddin Station to Agra Cantt in just **100 minutes**.\n\nThis compares favourably to every other option:\n- **By road (Yamuna Expressway)**: 3–4 hours depending on traffic\n- **By Shatabdi Express**: 2 hours from New Delhi Station\n- **By regular trains**: 2.5–3.5 hours\n- **By Gatimaan Express**: 100 minutes — the clear winner\n\nBeyond speed, the Gatimaan offers **Chair Car (CC) class** seating with wide, reclining airline-style seats, onboard meal service (included in the ticket price), and a premium travel experience befitting the journey to the world's most famous monument.\n\nFor travellers combining Delhi with a day trip to see the [Taj Mahal](/india/agra/taj-mahal), the Gatimaan Express is the definitive transport choice. The early morning departure (6:00 AM from Hazrat Nizamuddin) arrives in Agra at **7:40 AM** — ideal for a sunrise entry to the Taj — with a return service departing Agra at **5:50 PM** and arriving back in Delhi by **7:30 PM**."
+                        },
+                        {
+                            title: "Gatimaan Express Ticket Price 2026",
+                            content: "The Gatimaan Express operates a single class — **Executive Chair Car (CC)** — with one fare tier for adults and a reduced rate for children.\n\n### 2026 Ticket Prices\n\n| Passenger | Delhi → Agra | Agra → Delhi |\n|---|---|---|\n| **Adult (12+)** | ₹755 | ₹755 |\n| **Child (5–11 years)** | ₹395 | ₹395 |\n| **Child under 5** | Free (no seat) | Free (no seat) |\n\n### What Is Included in the Ticket\nThe Gatimaan Express ticket price **includes a complimentary meal service** on board — a hot breakfast on the morning Delhi → Agra service and a snack/tea on the return. This is unique among Indian train services and adds genuine value to the premium price.\n\n### Dynamic Pricing & Quota\nGatimaan Express tickets are subject to **dynamic pricing** — the closer to the travel date you book, the higher the price. The base fare of ₹755 applies when booking well in advance; this can rise to ₹1,200+ during peak season (October–February) on sold-out dates. **Book at least 2 weeks in advance** through IRCTC during the tourist season.\n\n### Tourist Quota\nA dedicated **Tourist Quota** (TQ) is allocated on the Gatimaan Express specifically for foreign tourists and NRIs. This quota can be accessed at the **International Tourist Bureau (ITB)** at New Delhi Railway Station, which allows foreign passport holders to book tickets that may be sold out in the regular quota. The ITB accepts USD, EUR, and major credit cards."
+                        },
+                        {
+                            title: "Gatimaan Express Timetable 2026",
+                            content: "The Gatimaan Express operates **6 days a week** (Tuesday to Sunday). It does not run on Mondays — which happens to align with the Red Fort's Monday closure, making Monday a logical rest day in Delhi before a Tuesday Gatimaan departure.\n\n### Train 12049: Delhi → Agra\n| Station | Departure | Arrival |\n|---|---|---|\n| **Hazrat Nizamuddin (NZM), Delhi** | **06:00 AM** | — |\n| **Agra Cantt (AGC)** | — | **07:40 AM** |\n\n### Train 12050: Agra → Delhi\n| Station | Departure | Arrival |\n|---|---|---|\n| **Agra Cantt (AGC)** | **17:50 (5:50 PM)** | — |\n| **Hazrat Nizamuddin (NZM), Delhi** | — | **19:30 (7:30 PM)** |\n\n### Planning Your Agra Day Trip\nDeparting Delhi at **6:00 AM**, you arrive in Agra at **7:40 AM** — ideal for arriving at the [Taj Mahal's East or West Gate by 8:00 AM](/india/agra/taj-mahal-opening-time). After a full day at the Taj Mahal, [Agra Fort](/india/agra/agra-fort), and lunch in Agra, you return at **5:50 PM** from Agra Cantt, reaching Delhi by 7:30 PM in time for dinner.\n\n**Critical note**: The Gatimaan does **not run on Fridays** — and the [Taj Mahal is closed on Fridays](/india/agra/is-taj-mahal-closed-on-friday) — making this a non-issue for day-trip planning. If you want to visit Agra on a Friday, take the Shatabdi Express and plan your day around [Agra Fort and Mehtab Bagh](/india/agra/is-taj-mahal-closed-on-friday) instead."
+                        },
+                        {
+                            title: "How to Book Gatimaan Express Tickets",
+                            content: "### Option 1: IRCTC Website (irctc.co.in) — Recommended\nThe **Indian Railway Catering and Tourism Corporation (IRCTC)** website is the official booking platform. Create an account, search for train 12049 (Hazrat Nizamuddin → Agra Cantt), select your travel date, and book in Chair Car (CC) class. Payment accepts Visa, Mastercard, UPI, and net banking.\n\n**Important**: IRCTC registrations now allow foreign phone numbers. If you have a local Indian SIM, registration is instant. Without one, use the Tourist Quota option below.\n\n### Option 2: International Tourist Bureau (ITB)\nForeign tourists who cannot register on IRCTC can book at the **International Tourist Bureau**, located on the first floor of **New Delhi Railway Station** (near Platform 1). Opening hours: Monday–Friday 8:00 AM to 8:00 PM, Saturday 8:00 AM to 2:00 PM, Sunday and holidays 8:00 AM to 2:00 PM. Accepts foreign currency and major credit cards. Lines can be long during peak season — arrive early.\n\n### Option 3: Licensed Travel Agent\nFor travellers who prefer assistance, any licensed travel agent in Delhi can book Gatimaan Express tickets through IRCTC for a small service fee (₹50–200). This is recommended if you are booking multiple legs of a Golden Triangle journey (Delhi → Agra → Jaipur) and want everything coordinated.\n\n### Booking Window\nThe Gatimaan Express booking window opens **120 days before the travel date**. During peak season (October–February), the train sells out quickly. Book at the 120-day mark if your travel dates are fixed."
+                        },
+                        {
+                            title: "Hazrat Nizamuddin Station — Your Delhi Departure Point",
+                            content: "The Gatimaan Express departs from **Hazrat Nizamuddin Railway Station (NZM)** in southeast Delhi — not New Delhi Station (NDLS) which handles most tourist traffic. This distinction matters for planning.\n\n### Getting to Hazrat Nizamuddin Station\n\n**By Metro**: Take the **Violet Line** to **Hazrat Nizamuddin station**. The station is a 5-minute walk from the Metro exit. From Connaught Place (central Delhi), journey time is approximately 25 minutes.\n\n**By Uber/Ola**: Search 'Hazrat Nizamuddin Railway Station'. The app distinguishes between the railway station and the Dargah (shrine) nearby — confirm you are going to the **railway station**. From central Delhi at 5:00 AM (to catch the 6:00 AM train), journey time is typically 20–30 minutes.\n\n**Allow extra time**: The 6:00 AM departure is early. Aim to arrive at Hazrat Nizamuddin by **5:30 AM**. The platform for the Gatimaan Express is always announced on the departure boards — look for Train 12049.\n\n### Agra Cantt Station — Your Agra Arrival Point\nThe Gatimaan arrives at **Agra Cantt (Cantonment) Station** — which is well-connected to all major monuments. Pre-paid autos and Uber are available outside the station. To the Taj Mahal West Gate, auto-rickshaw costs approximately ₹80–100 (10 minutes). To Agra Fort, approximately ₹60–80 (8 minutes)."
+                        },
+                        {
+                            title: "Delhi Agra Day Trip: The Perfect Itinerary",
+                            content: "Armed with a Gatimaan Express ticket, here is the optimal **Delhi–Agra single-day itinerary**:\n\n**5:30 AM** — Arrive at Hazrat Nizamuddin Station (allow 30 minutes before departure)\n\n**6:00 AM** — Gatimaan Express departs. Enjoy the onboard breakfast served en route.\n\n**7:40 AM** — Arrive Agra Cantt. Take auto-rickshaw to Taj Mahal West Gate (₹80, 10 minutes).\n\n**8:00–10:30 AM** — [Taj Mahal visit](/india/agra/taj-mahal). Morning light is extraordinary. Beat the crowds with an early entry. Budget 2.5 hours.\n\n**11:00 AM–1:00 PM** — [Agra Fort](/india/agra/agra-fort) — 10 minutes from the Taj. The second UNESCO site in Agra. 2 hours minimum.\n\n**1:00–2:30 PM** — Lunch in Agra. Recommended: Peshawri at ITC Mughal or local restaurants near Sadar Bazaar.\n\n**2:30–4:00 PM** — Optional: [Itimad-ud-Daula (Baby Taj)](/india/agra) or [Mehtab Bagh](/india/agra/is-taj-mahal-closed-on-friday) for sunset views of the Taj from the river.\n\n**5:30 PM** — Head to Agra Cantt Station.\n\n**5:50 PM** — Return Gatimaan Express departs.\n\n**7:30 PM** — Back at Hazrat Nizamuddin, Delhi. Evening free for dinner.\n\n**Pro tip**: Book a [private Agra day tour](/india/agra) that includes a dedicated car from Agra Cantt and licensed guide throughout. This eliminates all logistics and maximises your monument time.",
+                            isCTA: false
+                        },
+                        {
+                            title: "Book a Delhi–Agra Day Tour With a Private Guide",
+                            isCTA: true,
+                            icon: "User",
+                            content: "The Gatimaan Express gets you to Agra in 100 minutes — but a private guide transforms those hours in Agra from a monument checklist into a complete Mughal narrative. Our licensed Agra guides meet you at Agra Cantt Station, manage all transport, skip ticketing queues, and decode the Taj Mahal's 400 years of history with the precision of someone who has explained it a thousand times. Full-day Delhi–Agra packages available.",
+                            buttonText: "Browse Agra Day Tours",
+                            buttonLink: "/india/agra"
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the Gatimaan Express ticket price in 2026?", a: "The Gatimaan Express ticket costs **₹755 for adults** and **₹395 for children (ages 5–11)** in Chair Car (CC) class — the only class available. The ticket price includes a complimentary onboard meal service (hot breakfast on the morning Delhi → Agra service). During peak season, dynamic pricing can push fares to ₹1,000–₹1,200 if booking late." },
+                        { q: "How long does the Gatimaan Express take from Delhi to Agra?", a: "The Gatimaan Express takes exactly **100 minutes** from Hazrat Nizamuddin Station in Delhi to Agra Cantt Station. The train runs at speeds up to 160 km/h, making it the fastest train service between Delhi and Agra — significantly faster than road travel (3–4 hours) and most other train options." },
+                        { q: "What days does the Gatimaan Express run?", a: "The Gatimaan Express operates **Tuesday to Sunday**. It does not run on Mondays. The morning service (Train 12049) departs Delhi at 6:00 AM and arrives Agra at 7:40 AM. The return service (Train 12050) departs Agra at 5:50 PM and arrives Delhi at 7:30 PM." },
+                        { q: "From which station does Gatimaan Express depart in Delhi?", a: "The Gatimaan Express departs from **Hazrat Nizamuddin Railway Station (NZM)** in southeast Delhi — not New Delhi Station (NDLS). Take the Violet Line Metro to Hazrat Nizamuddin station, which is a 5-minute walk from the railway station. Plan to arrive at the station by 5:30 AM for the 6:00 AM departure." },
+                        { q: "How to book Gatimaan Express tickets?", a: "Tickets can be booked online through the **IRCTC website (irctc.co.in)** — search for Train 12049. Foreign tourists without IRCTC access can book at the **International Tourist Bureau (ITB)** on the first floor of New Delhi Railway Station, which accepts foreign currency and credit cards. Book at least 2 weeks in advance during peak season (October–February)." },
+                        { q: "Is the Gatimaan Express better than driving from Delhi to Agra?", a: "Yes — significantly. By car, the Yamuna Expressway journey takes **3–4 hours** depending on traffic, with no guarantee of timing. The Gatimaan Express takes exactly **100 minutes**, departs on schedule, and includes a meal. For a day trip to Agra, the Gatimaan is the only option that gives you a full day at the monuments and a comfortable return." },
+                        { q: "Does Gatimaan Express run on Fridays?", a: "No — the Gatimaan Express does not operate on Fridays. Conveniently, the [Taj Mahal is also closed on Fridays](/india/agra/is-taj-mahal-closed-on-friday), making Friday a logical rest day. For Friday Agra visits, the Shatabdi Express from New Delhi Station is available and still reaches Agra in under 2 hours." },
+                        { q: "Which station does Gatimaan Express arrive at in Agra?", a: "The Gatimaan Express arrives at **Agra Cantt (Cantonment) Station** — the main railway station in Agra. From Agra Cantt, the Taj Mahal West Gate is approximately 10 minutes by auto-rickshaw (₹80–100) and Agra Fort is 8 minutes (₹60–80). Uber and Ola are also available from the station." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Gatimaan Express Delhi to Agra — Ticket Price, Timings & Booking Guide 2026",
+                                "description": "Complete guide to the Gatimaan Express: ticket price ₹755, 100-minute Delhi to Agra journey, booking guide, and day trip itinerary for 2026.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.svg" } },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/agra/agra-gatimaan-entry-ticket"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the Gatimaan Express ticket price in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The Gatimaan Express ticket costs ₹755 for adults and ₹395 for children (ages 5–11) in Chair Car (CC) class. The ticket includes a complimentary onboard meal service. During peak season (October–February), dynamic pricing can push fares higher if booking late." } },
+                                    { "@type": "Question", "name": "How long does Gatimaan Express take from Delhi to Agra?", "acceptedAnswer": { "@type": "Answer", "text": "The Gatimaan Express takes exactly 100 minutes from Hazrat Nizamuddin Station in Delhi to Agra Cantt Station, running at speeds up to 160 km/h. This is significantly faster than road travel (3–4 hours)." } },
+                                    { "@type": "Question", "name": "What days does the Gatimaan Express run?", "acceptedAnswer": { "@type": "Answer", "text": "The Gatimaan Express operates Tuesday to Sunday — it does not run on Mondays. The morning service (12049) departs Delhi at 6:00 AM and arrives Agra at 7:40 AM. The return service (12050) departs Agra at 5:50 PM and arrives Delhi at 7:30 PM." } },
+                                    { "@type": "Question", "name": "From which station does Gatimaan Express depart in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "The Gatimaan Express departs from Hazrat Nizamuddin Railway Station (NZM) in southeast Delhi — not New Delhi Station. Take the Violet Line Metro to Hazrat Nizamuddin station, which is a 5-minute walk from the railway station. Aim to arrive by 5:30 AM for the 6:00 AM departure." } },
+                                    { "@type": "Question", "name": "How to book Gatimaan Express tickets?", "acceptedAnswer": { "@type": "Answer", "text": "Tickets can be booked online through the IRCTC website (irctc.co.in) — search for Train 12049. Foreign tourists can also book at the International Tourist Bureau (ITB) on the first floor of New Delhi Railway Station, which accepts foreign currency and major credit cards." } },
+                                    { "@type": "Question", "name": "Does Gatimaan Express run on Friday?", "acceptedAnswer": { "@type": "Answer", "text": "No — the Gatimaan Express does not operate on Fridays. The Taj Mahal is also closed on Fridays. For Friday Agra visits, the Shatabdi Express from New Delhi Station is available and reaches Agra in under 2 hours." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "delhi-travel-guide-2026":
                 return {
                     title: "Delhi Travel Guide 2026",
-                    description: "Delhi is not a city you visit — it is a civilisation you enter. This is your complete 2026 command centre for navigating India's capital: from the Mughal grandeur of Old Delhi to the imperial boulevards of New Delhi, with every monument, transport tip, itinerary, and local secret you need.",
+                    description: "Delhi travel guide 2026: Mughal monuments, Old Delhi street food, transport tips, where to stay & day trips to the Taj Mahal.",
                     heroImage: "/delhi-home.jpg",
                     fastFacts: [
                         { icon: "Star", label: "Best Time to Visit", value: "October – March" },
@@ -855,20 +1002,39 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Delhi Travel Guide 2026 — Complete Tourist Command Centre",
-                        "description": "The complete Delhi travel guide for 2026. Covers Old Delhi vs New Delhi, all major monuments (Red Fort, Qutub Minar, Humayun's Tomb, India Gate), metro guide, 3-day itinerary, safety tips, and 18 FAQs.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "publisher": { "@type": "Organization", "name": "AsiaByLocals", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.svg" } },
-                        "dateModified": "2026-02-27",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-travel-guide-2026"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Delhi Travel Guide 2026 — Complete Tourist Command Centre",
+                                "description": "The complete Delhi travel guide for 2026. Covers Old Delhi vs New Delhi, all major monuments (Red Fort, Qutub Minar, Humayun's Tomb, India Gate), metro guide, 3-day itinerary, safety tips, and 18 FAQs.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.svg" } },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-travel-guide-2026"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How many days do I need in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "For a comprehensive experience covering Delhi's major monuments, Old Delhi's bazaars, and a day trip to Agra, 3 to 5 days is ideal. A minimum of 2 full days is needed to cover the absolute essentials (Old Delhi + New Delhi). One day is possible but will feel rushed and unsatisfying." } },
+                                    { "@type": "Question", "name": "What is the best time to visit Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is the best time to visit Delhi. Post-monsoon clarity makes October particularly special — skies are blue and temperatures hover between 10°C and 28°C. November through February is peak tourist season. Avoid May–June (temperatures exceed 45°C). Delhi's smog season peaks October–December — carry N95 masks if you are respiratory-sensitive." } },
+                                    { "@type": "Question", "name": "How do I get from Delhi to Agra?", "acceptedAnswer": { "@type": "Answer", "text": "The best option is the Gatimaan Express from Hazrat Nizamuddin Station — it takes just 80 minutes and costs approximately ₹750–1,500 depending on class. The Shatabdi Express from New Delhi Station (110 minutes) is equally excellent. By road, the Yamuna Expressway takes 3–4 hours depending on traffic." } },
+                                    { "@type": "Question", "name": "What are the entry fees for Delhi monuments in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Red Fort: ₹600 foreign / ₹35 Indian. Humayun's Tomb: ₹600 foreign / ₹40 Indian. Qutub Minar: ₹600 foreign / ₹40 Indian. India Gate: Free. Jama Masjid: Free. Lotus Temple: Free. Akshardham: Free entry to the main complex (small fee for special shows)." } },
+                                    { "@type": "Question", "name": "Is Delhi safe for solo travellers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Delhi is generally safe for solo travellers, including solo women, provided standard city precautions are taken. Use Uber or Ola over unmarked taxis, avoid poorly lit areas late at night, keep valuables secured in crowded areas, and be aware of common tourist scams. The Metro is safe at all hours." } },
+                                    { "@type": "Question", "name": "What is the best area to stay in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "For first-time tourists, Connaught Place (central New Delhi) is the most practical base: excellent Metro access, wide range of hotels at all price points, and proximity to both Old and New Delhi. Karol Bagh offers strong budget options. Aerocity (adjacent to IGI Airport) is ideal if you have an early departure or late arrival." } },
+                                    { "@type": "Question", "name": "Can I visit all three UNESCO sites in Delhi in one day?", "acceptedAnswer": { "@type": "Answer", "text": "Physically yes, but it is not recommended. Delhi's three UNESCO sites — Red Fort, Qutub Minar, and Humayun's Tomb — are spread across the city and each deserves 90+ minutes. Ideally, split them: Red Fort on Day 1 (Old Delhi focus), Humayun's Tomb on Day 2 (New Delhi focus), Qutub Minar on Day 3 (South Delhi focus)." } },
+                                    { "@type": "Question", "name": "What food should I eat in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "Do not leave Delhi without trying: butter chicken (invented in Delhi at Moti Mahal Restaurant), chole bhature (spiced chickpeas with fried puffed bread), paranthe from Paranthe Wali Gali in Old Delhi, nihari at Karim's near Jama Masjid, and fresh jalebi at Old Lahori Sweet Shop in Chandni Chowk." } },
+                                    { "@type": "Question", "name": "Is Delhi a good starting point for the Golden Triangle?", "acceptedAnswer": { "@type": "Answer", "text": "Delhi is the perfect launch point for the Golden Triangle — the Delhi to Agra to Jaipur circuit, the most visited tourist route in India. From Delhi, the Taj Mahal in Agra is 80 minutes by Gatimaan Express train. Jaipur is 4 hours by train. Most Golden Triangle tours run 6–7 days total." } },
+                                    { "@type": "Question", "name": "What are the common tourist scams in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "The three most common scams: (1) Fake travel agents near Connaught Place claiming your train is cancelled — ignore them completely. (2) Auto-rickshaw drivers redirecting you to commission-paying shops — always confirm the destination before boarding. (3) Gem and carpet dealers claiming their products are investment-grade — never buy based on a guide's recommendation." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "red-fort":
                 return {
                     title: "Red Fort Delhi — Complete Visitor Guide 2026",
-                    description: "The Red Fort is the supreme monument of Mughal imperial power in Delhi. Built by Emperor Shah Jahan in 1648, this UNESCO World Heritage Site is where India declares its independence every year. This is your complete 2026 guide to history, architecture, tickets, timings, and the legendary Sound & Light Show.",
+                    description: "Red Fort Delhi 2026: UNESCO World Heritage Site, entry fees, timings, Sound & Light Show, history & what to see inside.",
                     heroImage: "/red-fort-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -932,21 +1098,40 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Red Fort (Lal Qila)",
-                        "description": "UNESCO World Heritage Site and supreme monument of Mughal imperial power in Delhi, built by Emperor Shah Jahan between 1638 and 1648.",
-                        "url": "https://www.asiabylocals.com/india/delhi/red-fort",
-                        "touristType": "History, Architecture, UNESCO",
-                        "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Red Fort (Lal Qila)",
+                                "description": "UNESCO World Heritage Site and supreme monument of Mughal imperial power in Delhi, built by Emperor Shah Jahan between 1638 and 1648.",
+                                "url": "https://www.asiabylocals.com/india/delhi/red-fort",
+                                "touristType": "History, Architecture, UNESCO",
+                                "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What are the Red Fort opening hours in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The Red Fort is open Tuesday to Sunday, 9:30 AM to 4:30 PM. It is closed every Monday. The Sound & Light Show runs in the evenings — English show at 8:30 PM, Hindi show at 9:30 PM (timings shift 1 hour earlier in winter: November–January)." } },
+                                    { "@type": "Question", "name": "What is the Red Fort ticket price in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Entry for foreign tourists is ₹600 per person. Indian nationals pay ₹35. Children under 15 enter free. A composite ticket including the Archaeological Museum inside costs ₹650 (foreign) / ₹40 (Indian). Sound & Light Show tickets are approximately ₹250 (foreign) / ₹80 (Indian)." } },
+                                    { "@type": "Question", "name": "Is the Red Fort closed on Monday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Red Fort is closed every Monday. It is open Tuesday to Sunday, 9:30 AM to 4:30 PM. On Mondays, consider visiting Humayun's Tomb or Qutub Minar instead, as both are open seven days a week including Mondays." } },
+                                    { "@type": "Question", "name": "Is the Red Fort open on Friday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Red Fort is open on Fridays. Unlike the Taj Mahal in Agra which is closed every Friday, the Red Fort closes only on Mondays. It is open every other day of the week including all Indian public holidays." } },
+                                    { "@type": "Question", "name": "Is the Red Fort a UNESCO World Heritage Site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The Red Fort was inscribed on the UNESCO World Heritage List in 2007, recognised for its outstanding Mughal architecture and its exceptional historical significance as the seat of the Mughal Empire and the symbolic birthplace of modern independent India." } },
+                                    { "@type": "Question", "name": "Which metro station is closest to the Red Fort?", "acceptedAnswer": { "@type": "Answer", "text": "The closest Metro station is Lal Quila on the Violet Line (Line 7). It is a 2-minute walk from the station exit to the fort's Delhi Gate entrance. Alternatively, Chandni Chowk station on the Yellow Line is a 10-minute walk eastward." } },
+                                    { "@type": "Question", "name": "What is inside the Red Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Inside you will find: the Diwan-i-Aam (Hall of Public Audience), the Diwan-i-Khas (Hall of Private Audience — formerly housing the Peacock Throne), the Rang Mahal (Palace of Colours), the Moti Masjid (Pearl Mosque), the Hammam (Royal Baths), the Nahr-i-Bihisht canal, and an Archaeological Museum." } },
+                                    { "@type": "Question", "name": "What is the Red Fort Sound and Light Show?", "acceptedAnswer": { "@type": "Answer", "text": "The Sound & Light Show is a 60-minute evening experience held in the Diwan-i-Aam courtyard, narrating the complete history of the Mughal empire through dramatic lighting and commentary in Hindi and English. English show: 8:30 PM. Hindi show: 9:30 PM. Tickets approximately ₹250 foreign / ₹80 Indian." } },
+                                    { "@type": "Question", "name": "How long does it take to visit the Red Fort?", "acceptedAnswer": { "@type": "Answer", "text": "A thorough visit takes 2 to 3 hours. If rushing, 90 minutes covers the key structures. With a licensed guide explaining the history of each palace and the Mughal court, budget 3 hours comfortably." } },
+                                    { "@type": "Question", "name": "Is the Red Fort connected to the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Both the Red Fort in Delhi and the Taj Mahal in Agra were built by the same emperor — Shah Jahan — during the same period (1630s–1650s). They represent the twin architectural achievements of his reign: the Taj Mahal as a monument to love and grief, and the Red Fort as a monument to imperial power." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "qutub-minar":
                 return {
                     title: "Qutub Minar Delhi — Complete History & Visitor Guide 2026",
-                    description: "At 72.5 metres, Qutub Minar is the world's tallest brick minaret and one of the finest towers ever built. Commissioned in 1193 AD by the founder of the Delhi Sultanate, this UNESCO World Heritage Site stands as the defining monument of Islamic civilisation in India. Here is everything you need to know before you visit.",
+                    description: "Qutub Minar 2026: world's tallest brick minaret (72.5m), UNESCO site, entry fees, Iron Pillar, history & visiting tips.",
                     heroImage: "/qutub-minar-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -999,20 +1184,38 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Qutub Minar",
-                        "description": "The world's tallest brick minaret at 72.5 metres, built in 1193 AD by Qutb-ud-din Aibak — a UNESCO World Heritage Site in Delhi.",
-                        "url": "https://www.asiabylocals.com/india/delhi/qutub-minar",
-                        "address": { "@type": "PostalAddress", "addressLocality": "Mehrauli, Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Qutub Minar",
+                                "description": "The world's tallest brick minaret at 72.5 metres, built in 1193 AD by Qutb-ud-din Aibak — a UNESCO World Heritage Site in Delhi.",
+                                "url": "https://www.asiabylocals.com/india/delhi/qutub-minar",
+                                "address": { "@type": "PostalAddress", "addressLocality": "Mehrauli, Delhi", "addressCountry": "IN" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the entry fee for Qutub Minar in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The entry fee is ₹600 for foreign tourists and ₹40 for Indian nationals. Children under 15 enter free. An ASI audio guide is available at the entrance for ₹100 (Hindi) or ₹150 (English)." } },
+                                    { "@type": "Question", "name": "What are the Qutub Minar opening hours?", "acceptedAnswer": { "@type": "Answer", "text": "The Qutub Minar complex is open daily from sunrise to sunset — typically 7:00 AM to 5:00 PM (extended to 6:00 PM in summer). Unlike the Red Fort, it is open every day of the week including Monday." } },
+                                    { "@type": "Question", "name": "Can I go inside Qutub Minar?", "acceptedAnswer": { "@type": "Answer", "text": "No. The interior staircase of Qutub Minar has been closed to the public since 1981, following a tragic stampede that killed 47 visitors. The minaret can be viewed from the outside and the entire surrounding complex including the mosque, Iron Pillar, and tombs remains fully accessible." } },
+                                    { "@type": "Question", "name": "Is Qutub Minar open on Monday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — unlike the Red Fort which closes on Mondays, Qutub Minar is open every day of the week including Mondays and all public holidays, from sunrise to sunset." } },
+                                    { "@type": "Question", "name": "What metro station is closest to Qutub Minar?", "acceptedAnswer": { "@type": "Answer", "text": "The closest Metro station is Qutub Minar station on the Yellow Line. It is approximately a 10-minute walk from the station exit to the main complex entrance, or a 5-minute auto-rickshaw ride for ₹20–30." } },
+                                    { "@type": "Question", "name": "Who built Qutub Minar and when?", "acceptedAnswer": { "@type": "Answer", "text": "Construction was begun by Qutb-ud-din Aibak in 1193 AD, the founder of the Delhi Sultanate. He completed only the first storey before his death in 1210. The second and third storeys were added by Iltutmish (1211–1236), and the fourth and fifth storeys were rebuilt by Firuz Shah Tughluq after lightning damage in 1368." } },
+                                    { "@type": "Question", "name": "What is the Iron Pillar at Qutub Minar?", "acceptedAnswer": { "@type": "Answer", "text": "The Iron Pillar of Delhi is a 7.21-metre iron column dating to approximately 375–415 AD (Gupta dynasty) that has stood in the open air for over 1,600 years without rusting. It is one of the great metallurgical mysteries of the ancient world, attributed to its unusually pure iron composition and a natural phosphoric coating." } },
+                                    { "@type": "Question", "name": "How long does it take to visit Qutub Minar?", "acceptedAnswer": { "@type": "Answer", "text": "A thorough visit to the entire Qutub complex takes 90 minutes to 2 hours. With a licensed guide or audio guide, budget 2.5 hours for a complete experience of the minaret, mosque ruins, Iron Pillar, and surrounding tombs." } },
+                                    { "@type": "Question", "name": "Is Qutub Minar a UNESCO World Heritage Site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The Qutub Minar complex was inscribed on the UNESCO World Heritage List in 1993, one of Delhi's three UNESCO sites alongside the Red Fort (2007) and Humayun's Tomb (1993)." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "humayuns-tomb":
                 return {
                     title: "Humayun's Tomb Delhi — Complete Guide 2026",
-                    description: "Humayun's Tomb is the most architecturally significant monument in Delhi — the first garden-tomb in India and the direct blueprint for the Taj Mahal. Built in 1570 and inscribed as a UNESCO World Heritage Site, it is the monument that every serious traveller must visit before seeing the Taj Mahal in Agra.",
+                    description: "Humayun's Tomb 2026: the Taj Mahal's blueprint, UNESCO World Heritage garden-tomb, entry fees, best time to visit & guided tours.",
                     heroImage: "/humayun-tomb-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -1069,20 +1272,38 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Humayun's Tomb",
-                        "description": "UNESCO World Heritage Site and the first garden-tomb in India, built in 1570 — the direct architectural blueprint for the Taj Mahal.",
-                        "url": "https://www.asiabylocals.com/india/delhi/humayuns-tomb",
-                        "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Humayun's Tomb",
+                                "description": "UNESCO World Heritage Site and the first garden-tomb in India, built in 1570 — the direct architectural blueprint for the Taj Mahal.",
+                                "url": "https://www.asiabylocals.com/india/delhi/humayuns-tomb",
+                                "address": { "@type": "PostalAddress", "addressLocality": "Delhi", "addressCountry": "IN" },
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Why is Humayun's Tomb important?", "acceptedAnswer": { "@type": "Answer", "text": "Humayun's Tomb is the first garden-tomb built on the Indian subcontinent and the direct architectural predecessor to the Taj Mahal. Every major design principle of the Taj Mahal — the double dome, the charbagh garden, the red sandstone and white marble palette, the central iwan — was first used at Humayun's Tomb, 72 years earlier. It is UNESCO-inscribed and widely considered the most architecturally significant building in Delhi." } },
+                                    { "@type": "Question", "name": "What is the entry fee for Humayun's Tomb in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The entry fee is ₹600 for foreign tourists and ₹40 for Indian nationals. Children under 15 enter free. An ASI audio guide is available separately at the entrance for ₹100 (Hindi) or ₹150 (English)." } },
+                                    { "@type": "Question", "name": "Is Humayun's Tomb open on Monday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Humayun's Tomb is open every day of the week including Monday, from sunrise to sunset (approximately 6:00 AM to 6:00 PM). This is unlike the Red Fort, which closes every Monday." } },
+                                    { "@type": "Question", "name": "What metro station is nearest to Humayun's Tomb?", "acceptedAnswer": { "@type": "Answer", "text": "The nearest Metro station is JLN Stadium on the Violet Line. From the station, it is approximately a 10-minute walk or a short auto-rickshaw ride (₹30–40) to the main West Gate entrance on Mathura Road." } },
+                                    { "@type": "Question", "name": "How did Humayun's Tomb influence the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Humayun's Tomb introduced five key design elements that the Taj Mahal directly adopted 72 years later: (1) the double dome, (2) the charbagh paradise garden divided by water channels, (3) the red sandstone and white marble colour palette, (4) the central iwan arch on each face, and (5) octagonal corner chambers. Visiting Humayun's Tomb before the Taj Mahal transforms your understanding of what Shah Jahan achieved." } },
+                                    { "@type": "Question", "name": "Who built Humayun's Tomb?", "acceptedAnswer": { "@type": "Answer", "text": "Humayun's Tomb was commissioned by Hamida Banu Begum (Haji Begum), the chief widow of Emperor Humayun. She began construction in 1565, nine years after Humayun's death in 1556. The architect was Mirak Mirza Ghiyas, a Persian architect from Herat, who brought the full vocabulary of Persian Timurid garden-tomb design to Delhi." } },
+                                    { "@type": "Question", "name": "How long does it take to visit Humayun's Tomb?", "acceptedAnswer": { "@type": "Answer", "text": "A proper visit to the main tomb and surrounding complex takes 1.5 to 2 hours. If you hire a guide or audio guide and explore the full grounds including Isa Khan's Tomb, Arab Serai, and Sunder Nursery, budget 2.5 to 3 hours." } },
+                                    { "@type": "Question", "name": "Should I visit Humayun's Tomb before or after the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Before the Taj Mahal — without question. Seeing Humayun's Tomb first gives you the architectural context to understand exactly what Shah Jahan built upon when designing the Taj Mahal. The experience of the Taj Mahal is dramatically deepened when you can identify each element pioneered in Delhi 72 years earlier." } },
+                                    { "@type": "Question", "name": "Is Humayun's Tomb a UNESCO World Heritage Site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Humayun's Tomb was inscribed on the UNESCO World Heritage List in 1993 — one of the first Mughal monuments to receive this designation. UNESCO cited its outstanding universal value as the first mature example of Mughal architecture and its direct influence on later monuments including the Taj Mahal." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "india-gate":
                 return {
                     title: "India Gate Delhi — History, Visiting Guide & Facts 2026",
-                    description: "India Gate is the beating heart of modern Delhi — a 42-metre war memorial arch that commemorates 84,000 soldiers and marks the centre of India's ceremonial capital. Free to visit at any hour, it is most magnificent at night when lit in golden floodlights. Here is everything you need to know.",
+                    description: "India Gate Delhi: 42-metre war memorial, free 24/7 entry, best at sunset & night. History, Kartavya Path, metro access & visiting tips.",
                     heroImage: "/india-gate.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Entry Fee", value: "Free — open 24 hours" },
@@ -1138,20 +1359,36 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "India Gate",
-                        "description": "A 42-metre war memorial arch built in 1931 to commemorate 84,000 soldiers of the British Indian Army who died in World War I, located at the eastern end of Kartavya Path in New Delhi.",
-                        "url": "https://www.asiabylocals.com/india/delhi/india-gate",
-                        "address": { "@type": "PostalAddress", "addressLocality": "New Delhi", "addressCountry": "IN" },
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "India Gate",
+                                "description": "A 42-metre war memorial arch built in 1931 to commemorate 84,000 soldiers of the British Indian Army who died in World War I, located at the eastern end of Kartavya Path in New Delhi.",
+                                "url": "https://www.asiabylocals.com/india/delhi/india-gate",
+                                "address": { "@type": "PostalAddress", "addressLocality": "New Delhi", "addressCountry": "IN" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is India Gate free to visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — India Gate is completely free and open 24 hours a day, 7 days a week, 365 days a year. There are no tickets, no booking required, and no closing time. It is the most accessible major monument in Delhi." } },
+                                    { "@type": "Question", "name": "Who built India Gate and when?", "acceptedAnswer": { "@type": "Answer", "text": "India Gate was designed by British architect Sir Edwin Lutyens and was inaugurated on 12 February 1931 by Viceroy Lord Irwin. The foundation stone was laid by the Duke of Connaught in 1921, and construction took approximately 10 years." } },
+                                    { "@type": "Question", "name": "Why was India Gate built?", "acceptedAnswer": { "@type": "Answer", "text": "India Gate was built to commemorate the 84,000 soldiers of the British Indian Army who died fighting in World War I (1914–1918) and the Third Anglo-Afghan War (1919). The names of 13,300 soldiers whose individual graves could not be marked are inscribed on the arch's stone surface." } },
+                                    { "@type": "Question", "name": "What is the best time to visit India Gate?", "acceptedAnswer": { "@type": "Answer", "text": "Sunset and evening is the best time — India Gate is lit in golden floodlights from dusk until midnight, creating one of Delhi's most spectacular visual experiences. Early morning (6:00–8:00 AM) is ideal for photography with clean light and minimal crowds." } },
+                                    { "@type": "Question", "name": "Which metro station is closest to India Gate?", "acceptedAnswer": { "@type": "Answer", "text": "The nearest Metro station is Central Secretariat on the Yellow Line and Violet Line. India Gate is a 20-minute walk east along Kartavya Path from the station, or a 5-minute auto-rickshaw ride." } },
+                                    { "@type": "Question", "name": "What is the Amar Jawan Jyoti at India Gate?", "acceptedAnswer": { "@type": "Answer", "text": "The Amar Jawan Jyoti ('Flame of the Immortal Soldier') was an eternal flame established beneath India Gate in 1971 by Prime Minister Indira Gandhi in memory of India's Unknown Soldier. In January 2022, the flame was merged with the flame at the National War Memorial built behind India Gate in 2019." } },
+                                    { "@type": "Question", "name": "Can I visit India Gate at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — India Gate is open 24 hours and is arguably most spectacular at night, when it is lit in golden floodlights from dusk until approximately midnight. Evening visits are extremely popular with Delhi families and tourists alike." } },
+                                    { "@type": "Question", "name": "What is Kartavya Path?", "acceptedAnswer": { "@type": "Answer", "text": "Kartavya Path (renamed from Rajpath in 2022) is the 3-kilometre ceremonial boulevard running from India Gate in the east to Rashtrapati Bhavan (the President's Palace) in the west. It is the grandest urban axis in India and the venue for the annual Republic Day parade on 26 January." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "things-to-do-in-delhi":
                 return {
                     title: "Things to Do in Delhi 2026 — The Ultimate Guide",
-                    description: "Delhi has three UNESCO World Heritage Sites, a 5,000-year history, the world's most vibrant street food scene, and experiences that range from medieval Mughal palaces to modern art galleries. This is your definitive guide to the best things to do in Delhi in 2026 — monuments, food, culture, day trips, and everything in between.",
+                    description: "Things to do in Delhi 2026: 3 UNESCO sites, Chandni Chowk food, Mughal palaces, India Gate & day trips to the Taj Mahal.",
                     heroImage: "/delhi-home.jpg",
                     fastFacts: [
                         { icon: "Star", label: "UNESCO Sites", value: "3 (Red Fort, Qutub Minar, Humayun's Tomb)" },
@@ -1215,19 +1452,36 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Things to Do in Delhi 2026 — The Ultimate Guide",
-                        "description": "The definitive guide to the best things to do in Delhi: UNESCO monuments, Old Delhi street experiences, cultural sites, food tours, and day trips to the Taj Mahal.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/things-to-do-in-delhi"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Things to Do in Delhi 2026 — The Ultimate Guide",
+                                "description": "The definitive guide to the best things to do in Delhi: UNESCO monuments, Old Delhi street experiences, cultural sites, food tours, and day trips to the Taj Mahal.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/things-to-do-in-delhi"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What are the top things to do in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "The absolute must-dos in Delhi: (1) Red Fort — the supreme Mughal palace. (2) Humayun's Tomb — the blueprint for the Taj Mahal. (3) Qutub Minar — world's tallest brick minaret. (4) India Gate — especially at night. (5) Chandni Chowk walk and street food. (6) Jama Masjid. (7) Day trip to the Taj Mahal in Agra (80 minutes by train)." } },
+                                    { "@type": "Question", "name": "How many days do I need to see Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "3 days minimum to cover Delhi's three UNESCO sites, Old Delhi, India Gate, and the best food. 5 days allows you to add Lodhi Garden, Akshardham, the National Museum, and a day trip to Agra for the Taj Mahal. 7 days gives you the full Golden Triangle: Delhi + Agra + Jaipur." } },
+                                    { "@type": "Question", "name": "What is the best free thing to do in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "India Gate — free, open 24 hours, and most spectacular at night. Also free: Jama Masjid, Raj Ghat, Lodhi Garden, Gurudwara Bangla Sahib (with free food for all), Lotus Temple, and the walk along Kartavya Path from India Gate to Rashtrapati Bhavan." } },
+                                    { "@type": "Question", "name": "What should I eat in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "Essential Delhi food: butter chicken (invented at Moti Mahal), chole bhature (spiced chickpeas with fried bread), paranthe at Paranthe Wali Gali in Chandni Chowk, nihari at Karim's near Jama Masjid, jalebi at Old Famous Jalebi Wala, and daulat ki chaat (winter only) in Old Delhi." } },
+                                    { "@type": "Question", "name": "Is a day trip to the Taj Mahal from Delhi worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. The Taj Mahal is 80 minutes from Delhi by the Gatimaan Express high-speed train. A day trip to Agra — covering the Taj Mahal and Agra Fort — is one of the best single-day experiences in Asia. Pre-book the train on IRCTC as seats sell out, particularly on weekends." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is the best season — cool temperatures (10–25°C), clear skies, and excellent conditions for walking and sightseeing. Peak tourist season is November–February. October–December can see severe air pollution (AQI 400+) due to crop burning — carry N95 masks if visiting then." } },
+                                    { "@type": "Question", "name": "Are Delhi's monuments open on Monday?", "acceptedAnswer": { "@type": "Answer", "text": "Red Fort is closed on Mondays. However, Qutub Minar, Humayun's Tomb, India Gate (always open), Jama Masjid, Lotus Temple, and Akshardham are all open on Mondays. Plan your Red Fort visit for Tuesday through Sunday." } },
+                                    { "@type": "Question", "name": "Is Delhi safe for tourists?", "acceptedAnswer": { "@type": "Answer", "text": "Delhi is safe for tourists with basic city awareness. Use Uber or Ola over unmarked taxis. Be aware of the 'fake travel agent' scam near Connaught Place. Keep valuables secure in crowded markets. The Metro is safe at all hours." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "delhi-1-day-itinerary":
                 return {
                     title: "Delhi 1-Day Itinerary 2026 — The Perfect One Day in Delhi",
-                    description: "One day in Delhi is enough to see the city's most powerful monuments, eat its most iconic street food, and understand what makes India's capital unlike anywhere else on Earth. This is the definitive, minute-by-minute Delhi 1-day itinerary — optimised for maximum experience with minimum wasted time.",
+                    description: "Delhi 1-day itinerary: Red Fort, Chandni Chowk, Humayun's Tomb, India Gate — hour-by-hour route optimised for first-time visitors.",
                     heroImage: "/delhi-itinerary-hero.jpg",
                     fastFacts: [
                         { icon: "Clock", label: "Start Time", value: "6:00 AM (early is everything)" },
@@ -1291,12 +1545,29 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Delhi 1-Day Itinerary 2026 — The Perfect One Day in Delhi",
-                        "description": "The definitive minute-by-minute 1-day Delhi itinerary: Red Fort, Chandni Chowk, Jama Masjid, India Gate, Humayun's Tomb, and Connaught Place dinner.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-02-27",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-1-day-itinerary"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Delhi 1-Day Itinerary 2026 — The Perfect One Day in Delhi",
+                                "description": "The definitive minute-by-minute 1-day Delhi itinerary: Red Fort, Chandni Chowk, Jama Masjid, India Gate, Humayun's Tomb, and Connaught Place dinner.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/delhi/delhi-1-day-itinerary"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best 1-day Delhi itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "The optimal 1-day Delhi itinerary: 6:00 AM arrive in Old Delhi. 9:30 AM Red Fort (90 min). 11:00 AM Chandni Chowk walk + breakfast + Jama Masjid (90 min). 1:00 PM Raj Ghat + lunch. 2:30 PM India Gate + Kartavya Path walk (75 min). 4:00 PM Humayun's Tomb at golden hour (75 min). 6:30 PM Connaught Place dinner. Optional: 8:30 PM Red Fort Sound & Light Show." } },
+                                    { "@type": "Question", "name": "What time should I start a 1-day Delhi itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "6:00 AM — non-negotiable. The difference between arriving in Old Delhi at 6:00 AM versus 9:00 AM is enormous: fewer crowds, better photography light, and the magical experience of watching the city wake up around the Red Fort walls. Starting late compresses everything and reduces the quality of each experience." } },
+                                    { "@type": "Question", "name": "Is one day enough to see Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "One day is enough to see Delhi's highlights and get a genuine feel for the city. It is not enough to see everything — Delhi deserves 3–5 days for a proper experience. But a well-planned single day, starting early, can cover the Red Fort, Old Delhi, India Gate, and Humayun's Tomb — four of Delhi's six essential experiences." } },
+                                    { "@type": "Question", "name": "Can I see Qutub Minar in a 1-day Delhi itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "It is possible but requires sacrificing depth elsewhere. Qutub Minar is in South Delhi — approximately 45 minutes by Metro from Old Delhi. If you want all three UNESCO sites in one day: Red Fort (morning) → Humayun's Tomb (midday) → Qutub Minar (afternoon). Skip Chandni Chowk, India Gate walk, and Raj Ghat. This is a speed run — doable but rushed." } },
+                                    { "@type": "Question", "name": "How much does a 1-day Delhi itinerary cost?", "acceptedAnswer": { "@type": "Answer", "text": "Budget: ₹1,500–2,500 per person (metro + entry fees + street food + auto-rickshaws). Mid-range: ₹3,000–5,000 per person (adding Uber between sites + a restaurant meal). Premium: ₹8,000–15,000 per person (private guide + premium restaurant dinner). Entry fees alone: approximately ₹1,240 for foreign tourists (Red Fort ₹600 + Humayun's Tomb ₹600 + Jama Masjid minaret ₹100)." } },
+                                    { "@type": "Question", "name": "Is Red Fort closed on Monday?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Red Fort is closed every Monday. If your one day in Delhi falls on a Monday, replace the Red Fort with Humayun's Tomb and Qutub Minar (both open Mondays) as your morning monuments, and visit Chandni Chowk and Jama Masjid as planned." } },
+                                    { "@type": "Question", "name": "Should I hire a guide for a 1-day Delhi itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, strongly recommended for a one-day visit. A licensed guide eliminates time wasted navigating, explains what you are seeing at every monument, handles transport logistics, and takes you to the best food stalls. The time saved by a guide can mean the difference between seeing 3 or 5 things in a day." } },
+                                    { "@type": "Question", "name": "Can I do a Delhi day trip to the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — but it replaces this itinerary, not supplements it. A Delhi to Agra day trip takes the Gatimaan Express from Hazrat Nizamuddin Station at 6:00 AM (arrives Agra 7:40 AM), giving you a full day at the Taj Mahal and Agra Fort before returning to Delhi by evening. If you only have one day in India, the Taj Mahal day trip may be the higher priority." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1308,7 +1579,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "things-to-do-in-jaipur":
                 return {
                     title: "Things to Do in Jaipur: The Ultimate 2026 Guide to India's Pink City",
-                    description: "From the majestic Amber Fort and the iconic Hawa Mahal to vibrant bazaars overflowing with gemstones and block-printed textiles — discover why Jaipur is one of the most visually spectacular cities on Earth. This is the definitive guide to the Pink City's palaces, forts, food, and culture.",
+                    description: "Amber Fort, Hawa Mahal, City Palace, bazaars & royal cuisine — the complete 2026 guide to Jaipur's palaces, forts, and Pink City culture.",
                     heroImage: "/things-to-do/jaipur-hawa-mahal.webp",
                     fastFacts: [
                         { icon: 'Map', label: 'Founded', value: '1727 by Maharaja Jai Singh II' },
@@ -1401,7 +1672,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "jaipur-travel-guide-2026":
                 return {
                     title: "Jaipur Travel Guide 2026 — Everything You Need to Know Before Visiting the Pink City",
-                    description: "The definitive Jaipur travel guide for 2026. Covers when to visit, how to get there, where to stay, what to eat, monument tickets, transport options, cultural etiquette, and insider tips from local experts who know every lane of the Pink City.",
+                    description: "Jaipur 2026 travel guide: when to visit, where to stay, transport, monument tickets, food & cultural tips from local Pink City experts.",
                     heroImage: "/things-to-do/jaipur-city-palace.webp",
                     fastFacts: [
                         { icon: 'Map', label: 'Location', value: 'Rajasthan, North India' },
@@ -1472,7 +1743,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "1-day-jaipur-itinerary":
                 return {
                     title: "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
-                    description: "One day in Jaipur demands ruthless prioritisation. This hour-by-hour itinerary covers Amber Fort at sunrise, the City Palace complex, Hawa Mahal, a bazaar walk, and a sunset at Nahargarh Fort — maximising your experience of India's most colourful city in a single extraordinary day.",
+                    description: "Hour-by-hour Jaipur 1-day itinerary: Amber Fort sunrise, City Palace, Hawa Mahal, bazaar walk & Nahargarh sunset.",
                     heroImage: "/things-to-do/jaipur-amber-fort.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Start Time', value: '7:30 AM (early is essential)' },
@@ -1550,8 +1821,18 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "Article",
                                 "headline": "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
                                 "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                                "dateModified": "2026-03-10",
+                                "dateModified": "2026-03-14",
                                 "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/1-day-jaipur-itinerary"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best 1-day Jaipur itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "The optimal 1-day Jaipur itinerary: 7:30 AM — Amber Fort at sunrise (2 hours). 10:00 AM — Jal Mahal photo stop. 10:30 AM — City Palace + Jantar Mantar (2 hours). 12:30 PM — Hawa Mahal + lunch in old city. 2:00 PM — Bazaar walk. 4:30 PM — Nahargarh Fort sunset. 7:00 PM — Dinner at Padao or MI Road." } },
+                                    { "@type": "Question", "name": "Is one day enough to see Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "One day is enough to experience Jaipur's top highlights — Amber Fort, City Palace, Hawa Mahal, a bazaar walk, and Nahargarh sunset. You will not cover the Albert Hall Museum, Birla Temple, Galtaji, or a deep shopping experience. Jaipur ideally deserves 2–3 full days." } },
+                                    { "@type": "Question", "name": "How much does a 1-day Jaipur itinerary cost?", "acceptedAnswer": { "@type": "Answer", "text": "Budget: ₹2,000–₹3,500 (composite ticket ₹1,000, City Palace ₹500, street food, auto-rickshaws). Mid-range: ₹5,000–₹8,000 (adding private driver ₹2,000, restaurant lunch, shopping). Premium: ₹10,000–₹20,000 (private guide + driver, premium dining, curated shopping)." } },
+                                    { "@type": "Question", "name": "Can I do Jaipur as a day trip from Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "Possible but exhausting. The Vande Bharat Express departs Delhi at 6:00 AM, arriving Jaipur at 10:30 AM. Return trains depart at 5:30 PM — giving approximately 5 hours of sightseeing (enough for Amber Fort + Hawa Mahal + City Palace only). A private car is better for a day trip as it allows an earlier start and later return. Ideally, stay at least one night." } },
+                                    { "@type": "Question", "name": "Should I hire a guide for a 1-day Jaipur visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — strongly recommended. Amber Fort, City Palace, and Jantar Mantar are architecturally and historically complex. A licensed guide brings them alive with stories and context you cannot get from signage alone. The time saved on logistics (transport, tickets, navigation) means seeing 1–2 more sites." } }
+                                ]
                             }
                         ]
                     }
@@ -1560,7 +1841,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "amber-fort":
                 return {
                     title: "Amber Fort Jaipur — Complete Visitor Guide 2026 (Amer Fort)",
-                    description: "Everything you need to know about visiting Amber Fort in 2026. Covers entry fees, best time to visit, the Sheesh Mahal, how to get there, and why this is Rajasthan's most magnificent fort.",
+                    description: "Amber Fort 2026 visitor guide: entry fees, Sheesh Mahal, best time to visit, how to get there & why it's Rajasthan's finest fort.",
                     heroImage: "/things-to-do/jaipur-amber-fort.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Opening Hours', value: '8:00 AM – 5:30 PM daily' },
@@ -1579,8 +1860,24 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             content: "The fort is divided into four main courtyards, each progressively more private and more architecturally refined:\n\n### First Courtyard — Jaleb Chowk\nThe vast main entrance courtyard where the army would assemble. The Suraj Pol (Sun Gate) entrance and the Sila Devi Temple (dedicated to a Hindu war goddess) are here.\n\n### Second Courtyard — Diwan-i-Aam\nThe Hall of Public Audience — a pillared hall with a raised platform where the maharaja would hear public petitions. The red sandstone and marble combination shows clear Mughal influence.\n\n### Third Courtyard — The Private Palace\nThis is where Amber Fort becomes extraordinary:\n- **Ganesh Pol**: The ornately painted gateway between public and private areas — every inch covered in frescoes and lattice windows.\n- **Sheesh Mahal (Hall of Mirrors)**: The single most spectacular room in Rajasthan. Thousands of tiny convex mirrors embedded in the walls and ceiling create a dazzling constellation effect when lit by even a single candle. Built by Raja Jai Singh I.\n- **Sukh Niwas (Hall of Pleasure)**: Channels carved into the marble floor carried scented water through the room — an ancient air conditioning system.\n- **Jas Mandir**: A hall decorated with glass inlay, carved marble panels, and double-mirrored ceilings.\n\n### Fourth Courtyard — Zenana (Women's Quarters)\nSelf-contained apartments arranged so the maharaja could visit each queen without the others knowing. The latticed screens (jalis) allowed ventilation and observation without being seen."
                         },
                         {
+                            title: "The History of Amber Fort — 400 Years of Rajput Power",
+                            content: "Amber Fort's history spans the rise and fall of one of Rajasthan's most powerful dynasties — the **Kachhwaha Rajputs**.\n\n**1592 — Foundation**: Raja Man Singh I, one of the most trusted generals of Mughal Emperor Akbar, began construction. Man Singh's alliance with the Mughals brought unprecedented wealth and cultural exchange — explaining why Amber Fort blends Rajput military architecture with Mughal decorative arts so seamlessly.\n\n**1611–1667 — Expansion under Mirza Raja Jai Singh I**: The fort's most celebrated interiors, including the Sheesh Mahal and Jas Mandir, were added during this period. Jai Singh I continued the Mughal alliance, serving as a key military commander and bringing Persian artistic influences back to Amber.\n\n**1727 — Decline**: When Maharaja Jai Singh II founded **Jaipur** on the plains below, the royal court moved to the new city. Amber Fort was gradually abandoned as a residence, though it remained a ceremonial and defensive site. The move to Jaipur was driven by Amber's inability to support the growing population and water shortages.\n\n**1868 — British era**: The fort was designated a protected monument. Restoration work began in the early 20th century and has continued since, with UNESCO World Heritage Site inscription in 2013 as part of the Hill Forts of Rajasthan."
+                        },
+                        {
+                            title: "Photography Guide — Capturing Amber Fort",
+                            content: "Amber Fort is one of India's most photogenic monuments. Here are the best spots and timings:\n\n### Golden Hour Shots (7:30–9:00 AM)\n- **From Maota Lake**: The reflection of the fort in the still morning water is the classic Amber Fort image. Walk down to the lake's eastern shore for the best angle.\n- **Suraj Pol entrance**: Morning light hits the massive gate directly, warming the sandstone to deep gold.\n\n### Interior Must-Photograph Spots\n- **Ganesh Pol gateway**: The ornately painted facade is best captured from the second courtyard, framing the full gateway with its latticed upper windows.\n- **Sheesh Mahal**: Photography is allowed. Use your phone's flash or a small torch — the mirrors come alive with reflected light.\n- **Pritam Niwas Chowk**: The courtyard viewed through the arched galleries creates natural framing.\n\n### Panoramic Views\n- **Rampart walk**: The western ramparts offer sweeping views over Maota Lake and the approach road. The Aravalli Hills form the backdrop.\n- **From Jaigarh Fort**: Walk the connecting tunnel to Jaigarh for an elevated view looking *down* on Amber Fort — revealing the full scale of the complex.\n\n**Equipment**: Phones and cameras are free. Tripods and professional video equipment require a separate permit (₹500). Drones are prohibited."
+                        },
+                        {
                             title: "Best Time to Visit & Practical Tips",
                             content: "**Best time**: Arrive at **8:00 AM when the gates open**. By 9:30 AM, the first tour buses arrive and the experience degrades significantly. Morning light on the sandstone is also vastly superior for photography.\n\n**How to get there**: The fort is 11 km from Jaipur's old city. Private car or taxi (₹300–₹500 one way). Your driver can wait in the car park. Uber/Ola also work well.\n\n**Elephant rides**: Previously a major attraction, elephant rides up to the fort are controversial due to animal welfare concerns. We do not recommend them. The car/walking approach is faster and allows more time inside the fort.\n\n**Sound & Light Show**: An evening show (6:30 PM English, ₹200) dramatizes the fort's history through lighting and narration. Worth considering if you have time.\n\n**Duration**: Allow 90–120 minutes for a thorough visit. Rushing through in under an hour misses most of the architectural detail.\n\n**Combine with**: Jaigarh Fort (connected via tunnel, 10-minute walk) for military history and cannon collections. The composite ticket covers both."
+                        },
+                        {
+                            title: "Explore Amber Fort With a Local Historian",
+                            isCTA: true,
+                            icon: "User",
+                            content: "Amber Fort's 400-year history, architectural symbolism, and hidden details are impossible to fully appreciate without expert narration. Our licensed Jaipur guides specialise in Rajput history and will decode the Sheesh Mahal's mirror astronomy, the zenana's privacy system, and the fort's strategic military design.",
+                            buttonText: "Browse Amber Fort Tours",
+                            buttonLink: "/india/jaipur"
                         }
                     ],
                     faqs: [
@@ -1592,18 +1889,32 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Amber Fort Jaipur — Complete Visitor Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/amber-fort"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Amber Fort Jaipur — Complete Visitor Guide 2026",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/amber-fort"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the entry fee for Amber Fort?", "acceptedAnswer": { "@type": "Answer", "text": "₹500 for foreign tourists, ₹100 for Indian nationals. The composite ticket (₹1,000 foreign / ₹300 Indian) covers Amber Fort plus six more Jaipur monuments and is valid for 2 days — excellent value if visiting multiple sites." } },
+                                    { "@type": "Question", "name": "What is the best time to visit Amber Fort?", "acceptedAnswer": { "@type": "Answer", "text": "8:00 AM when the fort opens. The morning light on the honey-coloured sandstone is extraordinary, and you'll have the courtyards nearly to yourself before the tour bus crowds arrive from 9:30 AM. Avoid midday (11 AM–2 PM) when the heat and crowds peak." } },
+                                    { "@type": "Question", "name": "Is the Sheesh Mahal at Amber Fort worth seeing?", "acceptedAnswer": { "@type": "Answer", "text": "The Sheesh Mahal (Hall of Mirrors) is the single most spectacular room in Rajasthan. Thousands of tiny convex mirrors set into the walls and ceiling create a dazzling constellation effect. It was designed so that a single candle flame would illuminate the entire chamber with reflected light. Absolutely unmissable." } },
+                                    { "@type": "Question", "name": "How long does a visit to Amber Fort take?", "acceptedAnswer": { "@type": "Answer", "text": "90–120 minutes for a thorough visit with a guide. The fort has four courtyards, multiple palace chambers, and extensive ramparts. Rushing through in 45 minutes misses most of the architectural detail, particularly the Sheesh Mahal and the zenana quarters." } },
+                                    { "@type": "Question", "name": "How do I get to Amber Fort from Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Amber Fort is 11 km north of Jaipur's old city. Private car/taxi: 25–30 minutes, ₹300–₹500. Uber/Ola: ₹200–₹300. Auto-rickshaw: ₹150–₹250. The fort is on the main road to Jal Mahal — combine both in one morning trip." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "hawa-mahal":
                 return {
                     title: "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
-                    description: "Everything about visiting Hawa Mahal in 2026: history, architecture, entry fees, best photography spots, and why this 953-window facade is one of India's most iconic buildings.",
+                    description: "Hawa Mahal 2026 guide: 953-window Palace of Winds history, entry fees, best photography spots & visiting tips for Jaipur's icon.",
                     heroImage: "/things-to-do/jaipur-hawa-mahal.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Opening Hours', value: '9:00 AM – 5:00 PM daily' },
@@ -1624,6 +1935,18 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         {
                             title: "Architecture & History Deep Dive",
                             content: "Hawa Mahal was designed by **Lal Chand Ustad** in the form of the **mukut (crown) of Lord Krishna** — the deity most revered by the Kachhwaha Rajput dynasty that ruled Jaipur. The five storeys represent the five elements of Hindu philosophy: earth, water, fire, air, and sky.\n\nThe building materials and techniques are characteristically Jaipur:\n- **Pink sandstone**: The distinctive salmon-pink colour that earned Jaipur its 'Pink City' nickname. The entire old city was painted pink in 1876 to welcome the Prince of Wales; Hawa Mahal was already this colour naturally.\n- **Lime mortar**: The traditional binding material used instead of cement.\n- **Red and white detailing**: The window frames and decorative elements alternate between red sandstone and white lime wash, creating the distinctive pattern visible from the street.\n\nThe palace was connected to the City Palace via a covered corridor, allowing the royal women to travel between the two without being seen in public — a physical manifestation of the purdah system that governed their lives."
+                        },
+                        {
+                            title: "The Royal Women of Hawa Mahal — Purdah & the Window Palace",
+                            content: "To understand Hawa Mahal, you must understand **purdah** — the system of female seclusion practised by Rajput royalty for centuries. The queens and princesses of Jaipur's Kachhwaha dynasty lived behind walls, unable to appear in public or be seen by men outside their immediate family.\n\nHawa Mahal was Maharaja Sawai Pratap Singh's ingenious solution to a problem of confinement. The 953 jharokha windows acted as **one-way screens** — the lattice openings were large enough to see through from inside, but too small and too intricately carved for anyone on the street to see the women watching from within. The queens could observe the colourful **Gangaur processions** (celebrating the goddess Parvati), the **Teej festival** parades, and the daily bazaar life of Jaipur — their only connection to the world beyond the palace walls.\n\nEach floor of the palace had a different function in the royal hierarchy. The uppermost floor — **Hawa Mandir** (Temple of Winds) — was reserved for the most senior queens. The middle floors housed younger wives and concubines, while the lowest levels served as viewing galleries for female attendants and servants. Even within purdah, the rigid hierarchy of the zenana (women's quarters) was maintained.\n\nThe covered corridor connecting Hawa Mahal to [City Palace](/india/jaipur/city-palace-jaipur) meant the women could travel between the two buildings without ever being exposed to public view — effectively creating a hidden women's network within the heart of the city. This corridor still exists, though it is not accessible to modern visitors.\n\nPurdah was formally abolished in India after independence in 1947, but Hawa Mahal remains the most powerful architectural expression of the system anywhere in the world — a building designed entirely around the act of seeing without being seen."
+                        },
+                        {
+                            title: "Photography Guide — Capturing Hawa Mahal",
+                            content: "Hawa Mahal is one of the most photographed buildings in India, but getting a truly striking image requires timing, positioning, and knowledge of the best angles.\n\n**Best exterior angles**:\n- **Badi Chaupar intersection** (street level) — The classic full-frontal shot. Stand at the northeast corner of the intersection for the widest perspective without vehicles blocking the view. Arrive before 8:00 AM for empty streets and golden morning light hitting the facade directly.\n- **Wind View Cafe** (elevated) — Located on the upper floor of a building directly opposite Hawa Mahal. Order a chai (₹50) and photograph from above. The elevated angle captures the facade's five-storey scale with the busy street below, creating depth and context. Morning light (before 10:00 AM) is best.\n- **Rooftop restaurants on Johari Bazaar** — Several rooftops on the side streets offer oblique angles that reveal the building's extraordinary thinness — from the side, you can see that the entire structure is only one room deep.\n\n**Best interior shots**:\n- **Jharokha window close-ups** — Frame your shot from inside looking out through the lattice screens. The interplay of light and shadow through the carved sandstone creates dramatic patterns, especially in mid-morning when the sun angle is oblique.\n- **The ramp perspective** — The narrow ascending ramps create a vanishing-point composition that emphasises the building's unusual internal geometry.\n- **Top floor panorama** — The view over the old city streets from the uppermost jharokha windows is the same perspective the queens had 200+ years ago. Include the lattice frame in your composition for historical resonance.\n\n**Lighting conditions**:\n- **Sunrise to 9:00 AM**: Direct warm light on the facade — the pink sandstone glows its deepest amber. The single best time for exterior photography.\n- **Overcast days**: Surprisingly good — the diffused light brings out the carved details in the sandstone without harsh shadows.\n- **Night**: Hawa Mahal is illuminated after dark, creating a dramatically different image. The golden lights against the dark sky produce excellent contrast.\n\n**Equipment notes**: Tripods are permitted at street level but not inside. Drones are prohibited in the old city. A wide-angle lens (16–24mm equivalent) is essential for capturing the full facade from the narrow street."
+                        },
+                        {
+                            title: "Explore Hawa Mahal & the Pink City With a Local Guide",
+                            content: "Hawa Mahal sits at the heart of Jaipur's old walled city — a neighbourhood that demands expert navigation. Our government-licensed [Jaipur guides](/india/jaipur) combine Hawa Mahal with the adjacent **[City Palace](/india/jaipur/city-palace-jaipur)** (5-minute walk), **Jantar Mantar** (2-minute walk), and a bazaar walk through **Johari Bazaar** and **Bapu Bazaar**, creating a 3–4 hour immersion in the Pink City's architecture, history, and living craft traditions.\n\nA guided walk through the old city transforms the experience — your guide explains the symbolism of every jharokha pattern, navigates the narrow bazaar lanes to hidden workshops where artisans still practise block printing and lac bangle making, and shares stories of the royal women who watched the world from behind these 953 windows.\n\n[Browse all Jaipur private tours →](/india/jaipur)"
                         }
                     ],
                     faqs: [
@@ -1635,18 +1958,32 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/hawa-mahal"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Hawa Mahal Jaipur — Palace of Winds Complete Guide 2026",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/hawa-mahal"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Why is Hawa Mahal called the Palace of Winds?", "acceptedAnswer": { "@type": "Answer", "text": "The name 'Hawa Mahal' means 'Palace of Winds' in Hindi. The 953 small jharokha windows create a natural ventilation system — the Venturi effect draws air through the lattice screens, cooling the interior even in Jaipur's extreme summer heat. The building was designed for royal women to observe street life while staying cool and concealed." } },
+                                    { "@type": "Question", "name": "How many windows does Hawa Mahal have?", "acceptedAnswer": { "@type": "Answer", "text": "Hawa Mahal has 953 small jharokha windows arranged across its five-storey facade. Each window is fitted with intricate sandstone lattice screens (jalis) that allow air circulation and provide views of the street below while preventing anyone from seeing inside." } },
+                                    { "@type": "Question", "name": "Can you go inside Hawa Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the interior is open to visitors. Enter from the side street (around the back, not the main facade). Climb the narrow ramps to the upper floors for views through the jharokha windows over the old city. The interior has narrow corridors and small alcoves, but the views from the top floor are excellent." } },
+                                    { "@type": "Question", "name": "What is the entry fee for Hawa Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "₹200 for foreign tourists, ₹50 for Indian nationals. Hawa Mahal is also covered by the composite ticket (₹1,000 foreign / ₹300 Indian), which includes six other Jaipur monuments. Buy the composite ticket at your first monument if visiting multiple sites." } },
+                                    { "@type": "Question", "name": "What is the best time to photograph Hawa Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning (7:00–9:00 AM) when the rising sun illuminates the facade directly. The pink sandstone glows warmest in morning light. For elevated shots, visit the Wind View Cafe across the street. Late afternoon (4:00–5:30 PM) also produces warm light but the facade may be partially in shadow." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "city-palace-jaipur":
                 return {
                     title: "City Palace Jaipur — Complete Visitor Guide 2026",
-                    description: "The definitive guide to Jaipur's City Palace: a sprawling royal complex where part of the building is still a private royal residence. Covers what to see, entry fees, museum highlights, and the famous Guinness-record silver urns.",
+                    description: "City Palace Jaipur 2026 guide: still a royal residence, Guinness-record silver urns, museum highlights, entry fees & what to see.",
                     heroImage: "/things-to-do/jaipur-city-palace.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Opening Hours', value: '9:30 AM – 5:00 PM daily' },
@@ -1667,28 +2004,63 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         {
                             title: "Practical Information",
                             content: "**Entry**: ₹500 foreign / ₹100 Indian. **Important**: City Palace has its own ticket — it is NOT included in the Jaipur composite ticket that covers Amber Fort, Hawa Mahal, etc.\n\n**Duration**: 60–90 minutes for a thorough visit. The museum galleries are extensive and reward slow exploration.\n\n**Guide**: Highly recommended. The historical layers — from Jai Singh II's astronomical obsessions to the Gangajali silver urns story — are complex and fascinating with expert narration.\n\n**Photography**: Allowed in most areas with a phone or camera. Professional equipment and tripods require a separate fee.\n\n**Combine with**: **Jantar Mantar** (2-minute walk, adjacent) and **Hawa Mahal** (5-minute walk). These three form a natural cluster in the old city that can be covered in 2.5–3 hours.\n\n**Royal tour upgrade**: A premium 'Royal Grandeur' ticket (₹2,500 foreign) includes access to some restricted areas of Chandra Mahal — the private royal section. Worth considering for palace architecture enthusiasts."
+                        },
+                        {
+                            title: "Jai Singh II — The Astronomer King Who Built a City",
+                            content: "City Palace cannot be understood without understanding its extraordinary creator. **Maharaja Sawai Jai Singh II** (1688–1743) was not merely a warrior king — he was one of the most remarkable intellectuals of 18th-century Asia.\n\nJai Singh II ascended the throne of Amber (the Kachhwaha capital before Jaipur) at just 11 years old. By his twenties, he had distinguished himself as both a military commander under Mughal Emperor Aurangzeb and a prodigiously talented mathematician and astronomer. He corresponded with European scholars, collected astronomical texts from Portugal, France, and the Ottoman Empire, and built **five stone astronomical observatories** across India — the largest of which, **Jantar Mantar**, sits directly adjacent to City Palace.\n\nIn 1727, Jai Singh II made the audacious decision to abandon the hilltop fortress of Amber and build an entirely new capital on the plains below. Working with the Bengali architect **Vidyadhar Bhattacharya**, he designed Jaipur on a **precise grid system** inspired by the ancient Hindu architectural treatise *Shilpa Shastra* — making it India's first planned city. The grid divided the city into nine blocks (representing the nine divisions of the universe in Hindu cosmology), with City Palace occupying the central two blocks — literally placing the king at the heart of his cosmic design.\n\nThe city's streets were laid out at exact right angles, with widths proportional to their importance. Main avenues were 108 feet wide (108 being a sacred number in Hinduism). Even the marketplace locations were planned by craft type — a system that persists today in the old city's bazaar structure, where Johari Bazaar still sells jewellery and Bapu Bazaar still sells textiles, exactly as Jai Singh II intended nearly 300 years ago."
+                        },
+                        {
+                            title: "The Royal Family of Jaipur — A Living Dynasty",
+                            content: "What makes City Palace extraordinary among Indian royal residences is that the **Kachhwaha dynasty still lives here**. The current head of the family, **Maharaja Padmanabh Singh** (born 1998), inherited the title at age 13 from his grandfather and divides his time between the palace and international engagements — he has played professional polo, walked fashion runways, and studied abroad, becoming one of India's most recognisable young royals.\n\nThe family's continuity across nearly **600 years** — from their original seat at [Amber Fort](/india/jaipur/amber-fort) through the founding of Jaipur to the modern era — is remarkable. Unlike many Indian royal families who lost their properties after the abolition of privy purses in 1971, the Jaipur royals retained City Palace by converting the outer sections into a museum while continuing to reside in the inner **Chandra Mahal**.\n\nThe seven-storey Chandra Mahal is visible from the courtyards but mostly closed to visitors (except with the premium Royal Grandeur ticket). Each floor has a distinctive name and colour scheme: **Sukh Niwas** (Hall of Pleasure) is decorated in green, **Rang Mandir** (Temple of Colour) in red, **Chabi Niwas** (Shadow Room) in blue, and the topmost **Mukut Mandir** (Crown Temple) in white marble, offering panoramic views over the city from a rooftop pavilion.\n\nThe royal family still hosts private ceremonies in the palace during festivals like **Gangaur** and **Diwali**, when sections of the Chandra Mahal are decorated with thousands of oil lamps. While these events are private, the festive atmosphere spills into the public courtyards and the surrounding old city streets — timing your visit to coincide with a major Rajput festival adds a magical dimension."
+                        },
+                        {
+                            title: "Explore City Palace With a Royal Heritage Guide",
+                            content: "City Palace rewards expert narration more than almost any monument in Rajasthan. The stories behind the Gangajali silver urns, the astronomical obsessions of Jai Singh II, the Peacock Gate symbolism, and the living royal family's continuity across centuries are complex, layered, and endlessly fascinating when told by someone who truly knows them.\n\nOur government-licensed [Jaipur heritage guides](/india/jaipur) combine City Palace with the adjacent **Jantar Mantar** (Jai Singh II's astronomical observatory) and nearby **[Hawa Mahal](/india/jaipur/hawa-mahal)** in a seamless 2.5–3 hour old-city walking tour. The three sites together tell the complete story of Jaipur's founding, from the astronomer king's cosmic city plan to the palace at its heart to the window gallery where his queens watched the world pass below.\n\n[Browse all Jaipur private tours →](/india/jaipur)"
                         }
                     ],
                     faqs: [
                         { q: "Is City Palace Jaipur still lived in by royalty?", a: "Yes — the inner **Chandra Mahal** section remains the private residence of the current Jaipur royal family, descendants of founder Maharaja Jai Singh II. The outer sections function as a public museum. This makes City Palace one of the few active royal residences in the world that is partially open to visitors." },
                         { q: "What are the silver urns at City Palace?", a: "The **Gangajali** are two massive sterling silver urns in the Diwan-i-Khas. Each stands 1.6 metres tall, holds 4,091 litres, and is certified by Guinness World Records as the **largest silver objects in the world**. Maharaja Madho Singh II commissioned them in 1894 to carry sacred Ganges water to London for King Edward VII's coronation — he refused to drink any other water during the voyage." },
                         { q: "Is City Palace included in the composite ticket?", a: "**No** — City Palace has its own separate ticket (₹500 foreign / ₹100 Indian). The composite ticket covers Amber Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, and three other monuments, but City Palace is not included." },
-                        { q: "How long does a City Palace visit take?", a: "**60–90 minutes** for a thorough visit including all museum galleries. The textile collection, armoury, Pritam Niwas Chowk courtyards, and the Diwan-i-Khas with the silver urns are the highlights. A guided visit adds significant depth to the experience." }
+                        { q: "How long does a City Palace visit take?", a: "**60–90 minutes** for a thorough visit including all museum galleries. The textile collection, armoury, Pritam Niwas Chowk courtyards, and the Diwan-i-Khas with the silver urns are the highlights. A guided visit adds significant depth to the experience." },
+                        { q: "What is the best time of day to visit City Palace Jaipur?", a: "**Morning (9:30–11:00 AM)** is ideal — fewer tour groups, cooler temperatures, and the best light for photographing the Pritam Niwas Chowk courtyard gates. The palace opens at 9:30 AM. Avoid midday (12:00–2:00 PM) when it gets extremely warm in the open courtyards, especially October–March." },
+                        { q: "Can I see the private royal quarters at City Palace?", a: "The **Chandra Mahal** (private royal residence) is partially accessible via the premium **Royal Grandeur ticket** (₹2,500 foreign). This includes a guided walk through select rooms on the upper floors with original furnishings, paintings, and views over the old city. The standard ticket only covers the public museum galleries and courtyards." },
+                        { q: "What is the Peacock Gate at City Palace?", a: "The **Peacock Gate** is one of four ornate seasonal gateways in the Pritam Niwas Chowk courtyard. It represents autumn and features stunning blue-green peacock mosaics — the most photographed spot in the entire palace. The other gates represent summer (Lotus Gate), spring (Green Gate), and winter (Rose Gate)." },
+                        { q: "Is City Palace Jaipur wheelchair accessible?", a: "City Palace has **limited wheelchair accessibility**. The ground-floor courtyards and main museum halls are accessible via ramps, but some upper galleries and the Chandra Mahal premium tour involve stairs. Staff will assist where possible. Contact the ticket office in advance to arrange assistance." },
+                        { q: "Do I need a guide for City Palace Jaipur?", a: "**Highly recommended.** The palace spans 300 years of Rajput history — the Gangajali silver urn story, the textile collection context, and the architectural significance of each courtyard are dramatically more meaningful with expert narration. Our [Jaipur guides](/india/jaipur) are government-licensed historians who specialise in palace architecture." },
+                        { q: "Can I combine City Palace with nearby attractions?", a: "Yes — City Palace is adjacent to **Jantar Mantar** (2-minute walk) and a 5-minute walk from **[Hawa Mahal](/india/jaipur/hawa-mahal)**. These three form a natural old-city cluster that can be covered in 2.5–3 hours. Add a bazaar walk through nearby Johari Bazaar for gemstones and Bapu Bazaar for textiles." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "City Palace Jaipur — Complete Visitor Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/city-palace-jaipur"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "City Palace Jaipur — Complete Visitor Guide 2026",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/city-palace-jaipur"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is City Palace Jaipur still lived in by royalty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the inner Chandra Mahal section remains the private residence of the current Jaipur royal family, descendants of founder Maharaja Jai Singh II. The outer sections function as a public museum, making City Palace one of the few active royal residences in the world that is partially open to visitors." } },
+                                    { "@type": "Question", "name": "What are the silver urns at City Palace Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "The Gangajali are two massive sterling silver urns in the Diwan-i-Khas. Each stands 1.6 metres tall, holds 4,091 litres, and is certified by Guinness World Records as the largest silver objects in the world. Maharaja Madho Singh II commissioned them in 1894 to carry sacred Ganges water to London for King Edward VII's coronation." } },
+                                    { "@type": "Question", "name": "Is City Palace included in the Jaipur composite ticket?", "acceptedAnswer": { "@type": "Answer", "text": "No — City Palace has its own separate ticket (₹500 foreign / ₹100 Indian). The composite ticket covers Amber Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, and three other monuments, but City Palace is not included." } },
+                                    { "@type": "Question", "name": "How long does a City Palace Jaipur visit take?", "acceptedAnswer": { "@type": "Answer", "text": "60–90 minutes for a thorough visit including all museum galleries. The textile collection, armoury, Pritam Niwas Chowk courtyards, and the Diwan-i-Khas with the silver urns are the highlights. A guided visit adds significant depth to the experience." } },
+                                    { "@type": "Question", "name": "What is the best time of day to visit City Palace Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Morning (9:30–11:00 AM) is ideal — fewer tour groups, cooler temperatures, and the best light for photographing the Pritam Niwas Chowk courtyard gates. The palace opens at 9:30 AM. Avoid midday when it gets extremely warm in the open courtyards." } },
+                                    { "@type": "Question", "name": "Can I see the private royal quarters at City Palace?", "acceptedAnswer": { "@type": "Answer", "text": "The Chandra Mahal (private royal residence) is partially accessible via the premium Royal Grandeur ticket (₹2,500 foreign). This includes a guided walk through select rooms on the upper floors with original furnishings, paintings, and views over the old city." } },
+                                    { "@type": "Question", "name": "What is the Peacock Gate at City Palace?", "acceptedAnswer": { "@type": "Answer", "text": "The Peacock Gate is one of four ornate seasonal gateways in the Pritam Niwas Chowk courtyard. It represents autumn and features stunning blue-green peacock mosaics — the most photographed spot in the entire palace. The other gates represent summer (Lotus Gate), spring (Green Gate), and winter (Rose Gate)." } },
+                                    { "@type": "Question", "name": "Do I need a guide for City Palace Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Highly recommended. The palace spans 300 years of Rajput history — the Gangajali silver urn story, the textile collection context, and the architectural significance of each courtyard are dramatically more meaningful with expert narration." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "nahargarh-fort":
                 return {
                     title: "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
-                    description: "Nahargarh Fort offers the best panoramic views of Jaipur from the Aravalli Hills. Complete guide covering sunset timing, the twelve-queen palace, entry fees, and why this is the most atmospheric fort in Rajasthan.",
+                    description: "Nahargarh Fort 2026: best sunset views in Jaipur, twelve-queen palace, entry fees & how to visit this Aravalli hilltop gem.",
                     heroImage: "/things-to-do/jaipur-nahargarh-fort.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Opening Hours', value: '10:00 AM – 5:30 PM daily' },
@@ -1709,28 +2081,63 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         {
                             title: "Sunset at Nahargarh — The Essential Experience",
                             content: "The **sunset from Nahargarh's western ramparts** is consistently rated one of the finest experiences in all of Rajasthan. As the sun descends behind the Aravalli range, the entire Pink City below transforms:\n\n1. **Golden hour** (45 minutes before sunset): The pink-washed buildings glow warm amber. The view from the ramparts encompasses the entire old walled city — Hawa Mahal, City Palace, and Jantar Mantar all visible below.\n2. **Sunset moment**: The sky shifts from gold to deep orange to crimson. The city begins to illuminate with streetlights and temple lamps.\n3. **Blue hour** (20 minutes after sunset): The city becomes a carpet of lights against the deep blue twilight sky.\n\n**Arrive by 4:30 PM** in winter (October–February) or 5:00 PM in summer to explore the fort before positioning on the ramparts.\n\n**Padao Restaurant**: Located at the fort, this restaurant serves Rajasthani cuisine with panoramic night views of illuminated Jaipur below. It is the perfect place for dinner after sunset.\n\n**Getting there**: 20–25 minutes by car from the city centre via a steep, winding hill road. Your driver must be experienced with the narrow road. The drive itself offers spectacular views."
+                        },
+                        {
+                            title: "The History of Nahargarh — Tigers, Ghosts & the Aravalli Stronghold",
+                            content: "Nahargarh's history is intertwined with myth, military strategy, and the founding of Jaipur itself.\n\n**1734 — Foundation**: Maharaja Jai Singh II — the astronomer king who founded Jaipur and built [City Palace](/india/jaipur/city-palace-jaipur) — constructed Nahargarh as the northern defensive anchor of his new capital. The fort, along with [Amber Fort](/india/jaipur/amber-fort) to the east and Jaigarh Fort on the ridge above, formed a **triangle of fortifications** that made Jaipur one of the best-defended cities in India. The Aravalli ridge position gave Nahargarh a commanding view of every approach to the city.\n\n**The Ghost of Nahar Singh**: The fort was originally named **Sudarshangarh**, but construction was repeatedly disrupted by mysterious collapses and accidents. Local legend attributed these to the angry spirit of **Nahar Singh Bhomia**, a Rathore prince who had died on the hillside. Jai Singh II built a small temple within the fort walls to appease the prince's ghost, and the disruptions ceased. The fort was renamed **Nahargarh** ('Abode of Tigers') in the prince's honour — though no tigers were ever resident. The temple still stands and locals leave offerings to Nahar Singh's spirit.\n\n**1868 — The Expansion**: Maharaja Sawai Ram Singh II expanded the fort significantly, adding walls, bastions, and defensive structures. He also used Nahargarh as a **state treasury** — the fort's impregnable hilltop position made it the safest vault in the kingdom.\n\n**1876 — The Sepoy Refuge**: During the Indian Rebellion aftermath and local unrest, British residents of Jaipur were evacuated to Nahargarh for their safety. The fort's isolation and defensive strength made it a natural refuge during times of crisis.\n\n**1902 — Madhavendra Bhawan**: Maharaja Sawai Madho Singh II built the twelve-queen palace within the fort, transforming it from a purely military installation into a royal retreat — the most significant architectural addition in the fort's history.\n\n**1944 — World War II**: The fort briefly served as a lookout and communications post during the latter stages of World War II, though Jaipur itself was never directly threatened.\n\n**Today**: The Rajasthan government maintains Nahargarh as a heritage site and viewpoint. The Nahargarh Biological Park on the lower slopes houses rescued wildlife, while the fort itself hosts occasional cultural events and film screenings."
+                        },
+                        {
+                            title: "Nahargarh to Jaigarh — The Aravalli Ridge Walk",
+                            content: "One of Rajasthan's finest short treks connects Nahargarh Fort to **Jaigarh Fort** along the Aravalli ridge — a moderately challenging 2-kilometre trail with panoramic views that rival the sunset itself.\n\n**The route**: The trail follows the ancient defensive ridge that connects the two forts, passing through scrubby hillside vegetation with expansive views on both sides — Jaipur city to the south and the green Aravalli valleys to the north. The terrain is uneven with rocky sections, but the path is well-defined and has been walked for nearly 300 years.\n\n**Duration**: 45–60 minutes one way at a comfortable pace. The trail is relatively flat along the ridgeline, with one moderate climb midway.\n\n**What you'll see at Jaigarh**: The military companion to [Amber Fort](/india/jaipur/amber-fort), Jaigarh is famous for **Jaivana** — the world's largest cannon on wheels. The 50-tonne cannon was cast in 1720 and tested only once, reportedly launching a cannonball 35 kilometres. Jaigarh also offers views directly down onto the Amber Fort complex and Maota Lake, a dramatically different perspective from the fort's interior.\n\n**Best conditions**: October to February, starting from Nahargarh in the cool morning hours (8:00–9:00 AM). Carry at least one litre of water per person. Wear sturdy footwear — sandals are not suitable for the rocky sections.\n\n**Practical tips**:\n- Start at Nahargarh and walk to Jaigarh (slightly downhill overall)\n- Arrange for your driver to meet you at Jaigarh Fort's entrance\n- The trail is safe during daylight hours but should not be attempted after dark\n- Wildlife sightings are common — langur monkeys, peacocks, and occasional spotted deer inhabit the ridge\n- A government-licensed guide who knows the trail's history and wildlife makes the walk significantly richer"
+                        },
+                        {
+                            title: "Experience Nahargarh Fort With a Local Historian",
+                            content: "Nahargarh is at its most magical in the late afternoon, when the fort's quiet corridors fill with golden light and the anticipation of sunset builds. Our [Jaipur guides](/india/jaipur) time the visit perfectly — arriving with enough time to explore the Madhavendra Bhawan's twelve identical queen suites, hear the ghost story of Nahar Singh at the original temple, and then position you on the western ramparts for the sunset over the Pink City.\n\nFor active travellers, we can combine the sunset experience with the morning **ridge walk to Jaigarh Fort**, creating a full day of Aravalli exploration that includes the world's largest cannon, panoramic views, and wildlife spotting — an experience far beyond the standard Jaipur fort circuit.\n\n[Browse all Jaipur private tours →](/india/jaipur)"
                         }
                     ],
                     faqs: [
                         { q: "What is the best time to visit Nahargarh Fort?", a: "**Late afternoon for sunset** — arrive by 4:30 PM (winter) or 5:00 PM (summer). The sunset over the Pink City from the western ramparts is the single best visual experience in Jaipur. Morning visits (10:00 AM) are also good for photography with clear light and cooler temperatures." },
                         { q: "Is Nahargarh Fort worth visiting?", a: "Absolutely — particularly for the **panoramic views and sunset**. While it lacks the interior grandeur of [Amber Fort](/india/jaipur/amber-fort), Nahargarh's atmospheric hilltop setting, the fascinating twelve-queen Madhavendra Bhawan, and the sunset experience make it essential. It is also significantly less crowded than Amber Fort." },
                         { q: "How do I get to Nahargarh Fort?", a: "By car: 20–25 minutes from the city centre via a steep, winding hill road. Uber/Ola work but ensure the driver is willing to make the hill climb. An auto-rickshaw can struggle on the steep road. The most practical option is a **private driver for the day** who can wait at the fort while you explore and watch the sunset." },
-                        { q: "Can I combine Nahargarh Fort with other sites?", a: "Yes — Nahargarh Fort works perfectly as an **end-of-day sunset experience** after visiting the old city monuments (City Palace, Hawa Mahal, Jantar Mantar, bazaars). The fort is also connected to Jaigarh Fort via a walking trail along the ridge (45-minute walk) for adventurous visitors." }
+                        { q: "Can I combine Nahargarh Fort with other sites?", a: "Yes — Nahargarh Fort works perfectly as an **end-of-day sunset experience** after visiting the old city monuments (City Palace, Hawa Mahal, Jantar Mantar, bazaars). The fort is also connected to Jaigarh Fort via a walking trail along the ridge (45-minute walk) for adventurous visitors." },
+                        { q: "What is the Madhavendra Bhawan at Nahargarh Fort?", a: "The **Madhavendra Bhawan** is a palace complex built in 1902 containing **twelve identical suites**, one for each of the king's twelve queens. The design ensured no queen could see when the king was visiting another — each suite has its own entrance, corridor, and courtyard view. The frescoed walls and symmetrical layout make it architecturally unique in Rajasthan." },
+                        { q: "What is the entry fee for Nahargarh Fort?", a: "**₹200 for foreign nationals / ₹50 for Indian citizens.** Nahargarh is covered by the Jaipur composite ticket (₹1,000 foreign), which also includes Amber Fort, Hawa Mahal, Jantar Mantar, and three other monuments. The composite ticket is valid for 2 days." },
+                        { q: "Is there food available at Nahargarh Fort?", a: "Yes — **Padao Restaurant** is located at the fort and serves Rajasthani cuisine with panoramic views of illuminated Jaipur below. It is the perfect place for dinner after watching the sunset from the ramparts. Expect to spend ₹500–₹1,500 per person for a meal with views." },
+                        { q: "Can I walk from Nahargarh Fort to Jaigarh Fort?", a: "Yes — a **ridge-top walking trail** connects Nahargarh Fort to Jaigarh Fort (approximately 45 minutes, 2 km). The trail follows the Aravalli ridge with panoramic views on both sides. It is moderately challenging with uneven terrain. Carry water and wear sturdy shoes. The trail is best done in the cooler morning hours." },
+                        { q: "Is Nahargarh Fort safe to visit in the evening?", a: "The fort is officially open until **5:30 PM**, but visitors watching sunset are generally permitted to stay until dusk. The hill road has lighting but is narrow and winding — ensure your driver is experienced. The Padao Restaurant area is well-lit and safe for evening dining. Avoid wandering into unlit fort sections after dark." },
+                        { q: "What does Nahargarh mean?", a: "Nahargarh means **'Abode of Tigers'** in Hindi. Despite the name, the fort was never known for tigers — the name comes from the spirit of a Rathore prince named Nahar Singh whose ghost allegedly haunted the construction site. The fort was originally named Sudarshangarh but was renamed after the king pacified the spirit by building a temple within the fort walls." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/nahargarh-fort"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Nahargarh Fort Jaipur — Sunset Viewpoint & Complete Guide 2026",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/nahargarh-fort"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best time to visit Nahargarh Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Late afternoon for sunset — arrive by 4:30 PM (winter) or 5:00 PM (summer). The sunset over the Pink City from the western ramparts is the single best visual experience in Jaipur. Morning visits (10:00 AM) are also good for photography with clear light and cooler temperatures." } },
+                                    { "@type": "Question", "name": "Is Nahargarh Fort worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — particularly for the panoramic views and sunset. While it lacks the interior grandeur of Amber Fort, Nahargarh's atmospheric hilltop setting, the fascinating twelve-queen Madhavendra Bhawan, and the sunset experience make it essential. It is also significantly less crowded than Amber Fort." } },
+                                    { "@type": "Question", "name": "How do I get to Nahargarh Fort from Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "By car: 20–25 minutes from the city centre via a steep, winding hill road. Uber/Ola work but ensure the driver is willing to make the hill climb. The most practical option is a private driver for the day who can wait at the fort while you explore and watch the sunset." } },
+                                    { "@type": "Question", "name": "Can I combine Nahargarh Fort with other Jaipur sites?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Nahargarh Fort works perfectly as an end-of-day sunset experience after visiting the old city monuments (City Palace, Hawa Mahal, Jantar Mantar, bazaars). The fort is also connected to Jaigarh Fort via a walking trail along the ridge (45-minute walk) for adventurous visitors." } },
+                                    { "@type": "Question", "name": "What is the Madhavendra Bhawan at Nahargarh Fort?", "acceptedAnswer": { "@type": "Answer", "text": "The Madhavendra Bhawan is a palace complex built in 1902 containing twelve identical suites, one for each of the king's twelve queens. The design ensured no queen could see when the king was visiting another — each suite has its own entrance, corridor, and courtyard view. The frescoed walls and symmetrical layout make it architecturally unique in Rajasthan." } },
+                                    { "@type": "Question", "name": "What is the entry fee for Nahargarh Fort?", "acceptedAnswer": { "@type": "Answer", "text": "₹200 for foreign nationals / ₹50 for Indian citizens. Nahargarh is covered by the Jaipur composite ticket (₹1,000 foreign), which also includes Amber Fort, Hawa Mahal, Jantar Mantar, and three other monuments. The composite ticket is valid for 2 days." } },
+                                    { "@type": "Question", "name": "Is there food available at Nahargarh Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Padao Restaurant is located at the fort and serves Rajasthani cuisine with panoramic views of illuminated Jaipur below. It is the perfect place for dinner after watching the sunset from the ramparts. Expect to spend ₹500–₹1,500 per person for a meal with views." } },
+                                    { "@type": "Question", "name": "What does Nahargarh mean?", "acceptedAnswer": { "@type": "Answer", "text": "Nahargarh means 'Abode of Tigers' in Hindi. The name comes from the spirit of a Rathore prince named Nahar Singh whose ghost allegedly haunted the construction site. The fort was originally named Sudarshangarh but was renamed after the king pacified the spirit by building a temple within the fort walls." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "places-to-visit-in-jaipur":
                 return {
                     title: "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
-                    description: "The definitive ranked list of places to visit in Jaipur, from Amber Fort and Hawa Mahal to hidden gems most tourists miss. Includes entry fees, best times, and how to combine them into an efficient itinerary.",
+                    description: "Top 12 places to visit in Jaipur ranked: Amber Fort, Hawa Mahal, hidden gems, entry fees, best times & efficient itinerary tips.",
                     heroImage: "/things-to-do/jaipur-city-palace.webp",
                     fastFacts: [
                         { icon: 'Map', label: 'Major Attractions', value: '12 must-see sites' },
@@ -1792,15 +2199,37 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         { q: "What are the top 5 places to visit in Jaipur?", a: "1. [Amber Fort](/india/jaipur/amber-fort) — Rajasthan's finest fort. 2. [Hawa Mahal](/india/jaipur/hawa-mahal) — the iconic 953-window Palace of Winds. 3. [City Palace](/india/jaipur/city-palace-jaipur) — living royal palace with Guinness-record silver urns. 4. [Nahargarh Fort](/india/jaipur/nahargarh-fort) — the best sunset viewpoint. 5. Jantar Mantar — UNESCO astronomical observatory." },
                         { q: "How many days do I need to see all of Jaipur?", a: "**2 days minimum** for the top 8 attractions. **3 days** for a comprehensive visit including Galtaji, Jaigarh Fort, Albert Hall Museum, and shopping. **4–5 days** if adding day trips to Ranthambore (tiger safari) or Pushkar." },
                         { q: "What is the best order to visit Jaipur's attractions?", a: "**Day 1**: Amber Fort (early morning) → Jal Mahal → City Palace → Jantar Mantar → Hawa Mahal → bazaar walk. **Day 2**: Nahargarh Fort (morning or sunset) → Albert Hall Museum → Birla Mandir (evening). This minimises backtracking and covers sites in geographic clusters." },
-                        { q: "Is the Jaipur composite ticket worth it?", a: "Yes — the composite ticket (₹1,000 foreign) covers 7 monuments including Amber Fort, Hawa Mahal, Jantar Mantar, and Nahargarh Fort. Buying individual tickets for just these 4 would cost approximately ₹1,100. The composite ticket saves money AND time (no queuing at each ticket counter)." }
+                        { q: "Is the Jaipur composite ticket worth it?", a: "Yes — the composite ticket (₹1,000 foreign) covers 7 monuments including Amber Fort, Hawa Mahal, Jantar Mantar, and Nahargarh Fort. Buying individual tickets for just these 4 would cost approximately ₹1,100. The composite ticket saves money AND time (no queuing at each ticket counter)." },
+                        { q: "Which Jaipur attractions are free to visit?", a: "Several excellent Jaipur attractions are **completely free**: Jal Mahal (Water Palace) — exterior viewing from the lakeside promenade. Birla Mandir — stunning white marble temple illuminated at night. Johari Bazaar, Bapu Bazaar, and all old city markets. Galtaji (Monkey Temple) exterior areas. The bazaar walks through the Pink City streets are free and arguably the most memorable Jaipur experience." },
+                        { q: "What are the hidden gems in Jaipur most tourists miss?", a: "Beyond the famous monuments: **Panna Meena ka Kund** — a stunning geometric stepwell near Amber Fort with Instagram-famous symmetrical stairs. **Anokhi Museum of Hand Printing** — a restored haveli showcasing Rajasthan's block-printing heritage. **Elefantastic** elephant sanctuary near Amber Fort. **Abhaneri stepwell** (Chand Baori) — the world's deepest stepwell, 95 km from Jaipur, often combined with an Amber Fort day." },
+                        { q: "Is Jaipur safe for solo female travellers?", a: "Jaipur is generally **safe for solo female travellers** with standard precautions. The main tourist areas (old city, Amber Fort, MI Road) are well-patrolled. Use Uber/Ola rather than negotiating with auto-rickshaw drivers. Dress modestly at religious sites. Avoid isolated areas after dark. A [licensed guide](/india/jaipur) adds safety and helps navigate the bazaar lanes confidently." },
+                        { q: "What is the best time of year to visit Jaipur's attractions?", a: "**October to March** is ideal — temperatures range from 12–25°C with clear skies. The forts and open-air monuments are pleasant to explore. Avoid May–June when temperatures exceed 45°C, making outdoor sightseeing exhausting. The monsoon (July–September) makes forts slippery but creates lush green landscapes around Nahargarh and Amber Fort." },
+                        { q: "Can I visit Jaipur's top attractions without a guide?", a: "You can, but you'll miss significant context. **Jantar Mantar** is almost impossible to understand without a guide — the instruments look like abstract sculpture without expert explanation. **Amber Fort** and **[City Palace](/india/jaipur/city-palace-jaipur)** have 300+ years of layered history that a guide brings alive. The bazaars are dramatically better with a local who knows hidden workshops and fair prices." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-10",
-                        "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/places-to-visit-in-jaipur"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Places to Visit in Jaipur — Top 12 Must-See Attractions 2026",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14",
+                                "mainEntityOfPage": "https://www.asiabylocals.com/india/jaipur/places-to-visit-in-jaipur"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What are the top 5 places to visit in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "The top 5 places to visit in Jaipur: 1. Amber Fort — Rajasthan's finest fort with the spectacular Sheesh Mahal. 2. Hawa Mahal — the iconic 953-window Palace of Winds. 3. City Palace — a living royal palace with Guinness-record silver urns. 4. Nahargarh Fort — the best sunset viewpoint in Rajasthan. 5. Jantar Mantar — UNESCO World Heritage astronomical observatory." } },
+                                    { "@type": "Question", "name": "How many days do I need to see all of Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "2 days minimum for the top 8 attractions. 3 days for a comprehensive visit including Galtaji, Jaigarh Fort, Albert Hall Museum, and shopping. 4–5 days if adding day trips to Ranthambore (tiger safari) or Pushkar." } },
+                                    { "@type": "Question", "name": "Is the Jaipur composite ticket worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the composite ticket (₹1,000 foreign / ₹300 Indian) covers 7 monuments including Amber Fort, Hawa Mahal, Jantar Mantar, and Nahargarh Fort, valid for 2 days. Buying individual tickets for just these 4 would cost approximately ₹1,100. The composite ticket saves money and time." } },
+                                    { "@type": "Question", "name": "What is the best order to visit Jaipur's attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Day 1: Amber Fort (early morning) → Jal Mahal photo stop → City Palace → Jantar Mantar → Hawa Mahal → bazaar walk. Day 2: Nahargarh Fort (morning or sunset) → Albert Hall Museum → Birla Mandir (evening). This minimises backtracking and covers sites in geographic clusters." } },
+                                    { "@type": "Question", "name": "Which Jaipur attractions are free to visit?", "acceptedAnswer": { "@type": "Answer", "text": "Several excellent Jaipur attractions are completely free: Jal Mahal (Water Palace) exterior viewing, Birla Mandir white marble temple, Johari Bazaar, Bapu Bazaar, and all old city market walks. The bazaar walks through the Pink City streets are free and arguably the most memorable Jaipur experience." } },
+                                    { "@type": "Question", "name": "What are the hidden gems in Jaipur most tourists miss?", "acceptedAnswer": { "@type": "Answer", "text": "Beyond the famous monuments: Panna Meena ka Kund — a stunning geometric stepwell near Amber Fort. Anokhi Museum of Hand Printing — a restored haveli showcasing Rajasthan's block-printing heritage. Abhaneri stepwell (Chand Baori) — the world's deepest stepwell, 95 km from Jaipur." } },
+                                    { "@type": "Question", "name": "Is Jaipur safe for solo female travellers?", "acceptedAnswer": { "@type": "Answer", "text": "Jaipur is generally safe for solo female travellers with standard precautions. The main tourist areas (old city, Amber Fort, MI Road) are well-patrolled. Use Uber/Ola rather than negotiating with auto-rickshaw drivers. Dress modestly at religious sites. Avoid isolated areas after dark." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit Jaipur's attractions?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is ideal — temperatures range from 12–25°C with clear skies. The forts and open-air monuments are pleasant to explore. Avoid May–June when temperatures exceed 45°C. The monsoon (July–September) makes forts slippery but creates lush green landscapes around Nahargarh and Amber Fort." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -1816,7 +2245,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "things-to-do-in-phuket":
                 return {
                     title: "Things to Do in Phuket: The Ultimate 2026 Guide to Thailand's Largest Island",
-                    description: "Go beyond the beaches with this comprehensive guide to Phuket. From the iconic Phi Phi Islands and Phang Nga Bay to Old Town heritage walks, ethical elephant sanctuaries, and hidden viewpoints — discover what makes Phuket one of Asia's most rewarding destinations.",
+                    description: "Phi Phi Islands, Phang Nga Bay, Old Town walks, viewpoints & more — the complete 2026 guide to things to do in Phuket.",
                     heroImage: "/things-to-do/phuket-phi-phi-aerial.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Island Size', value: '543 sq km (largest Thai island)' },
@@ -1904,7 +2333,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "phuket-travel-guide-2026":
                 return {
                     title: "Phuket Travel Guide 2026 — Everything You Need to Know Before You Go",
-                    description: "The definitive 2026 Phuket travel guide covering transport, accommodation zones, seasonal weather, budgeting, safety, local customs, and insider tips from licensed local guides. Plan your trip with confidence using this comprehensive resource.",
+                    description: "Phuket 2026 travel guide: transport, where to stay, weather, budget, safety, customs & insider tips from licensed local guides.",
                     heroImage: "/things-to-do/phuket-resort-coastline.jpg",
                     fastFacts: [
                         { icon: 'Plane', label: 'Airport', value: 'Phuket Intl (HKT) — 32km north' },
@@ -1989,7 +2418,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "phi-phi-islands":
                 return {
                     title: "Phi Phi Islands Guide 2026 — Maya Bay, Snorkelling & How to Visit from Phuket",
-                    description: "The ultimate guide to visiting the Phi Phi Islands from Phuket. Covers Maya Bay rules, best snorkelling spots, speedboat vs longtail options, Phi Phi Don vs Phi Phi Leh, and everything you need to plan the perfect island day trip in 2026.",
+                    description: "Phi Phi Islands 2026: Maya Bay rules, best snorkelling spots, speedboat vs longtail, Phi Phi Don vs Leh & day trip planning.",
                     heroImage: "/things-to-do/phuket-phi-phi-aerial.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Distance', value: '~45 km from Phuket' },
@@ -2041,17 +2470,33 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Phi Phi Islands Guide 2026 — Maya Bay, Snorkelling & How to Visit from Phuket",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Phi Phi Islands Guide 2026 — Maya Bay, Snorkelling & How to Visit from Phuket",
+                                "description": "The ultimate guide to visiting the Phi Phi Islands from Phuket in 2026. Maya Bay, snorkelling, speedboat vs ferry, and everything you need to plan the perfect day trip.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Can you swim at Maya Bay in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "No — swimming inside Maya Bay is not permitted as of 2026. This rule was implemented to protect the regenerating coral reef. Visitors walk to the beach via a trail and pontoon dock, spending up to one hour on the sand. Swimming and snorkelling are available at nearby Loh Samah Bay and Pileh Lagoon." } },
+                                    { "@type": "Question", "name": "What is the national park fee for Phi Phi Islands?", "acceptedAnswer": { "@type": "Answer", "text": "As of 2026, the Hat Noppharat Thara – Mu Ko Phi Phi National Park entrance fee is ฿400 for foreign adults and ฿200 for foreign children (aged 3–14). This fee is usually included in organised tour packages." } },
+                                    { "@type": "Question", "name": "When is the best time to visit Phi Phi Islands?", "acceptedAnswer": { "@type": "Answer", "text": "November to April (dry season) offers the best conditions: calm seas, clear visibility (20–30m), and reliable weather. December to February is peak season. During monsoon season (May–October), boat trips may be cancelled due to rough seas." } },
+                                    { "@type": "Question", "name": "How much does a Phi Phi Islands day trip cost in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Group speedboat tour: ฿2,000–฿3,500 per person, including guide, gear, national park fee, and lunch. Small group private tour (4–8 people): ฿10,000–฿18,000 total. Private yacht charter: ฿25,000–฿45,000 for a full day." } },
+                                    { "@type": "Question", "name": "Is there a difference between Phi Phi Don and Phi Phi Leh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — they are completely different islands. Phi Phi Don is the larger inhabited island with accommodation, restaurants, and dive shops. Phi Phi Leh is the uninhabited island containing Maya Bay, Pileh Lagoon, Viking Cave, and Loh Samah Bay. No overnight stays are permitted on Phi Phi Leh." } },
+                                    { "@type": "Question", "name": "Is the Phi Phi Islands day trip suitable for children?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day speedboat tour is suitable for children aged 4 and above. The boat ride is exciting, snorkelling is safe in calm bays, and beach stops provide rest. For very young children (under 4), a private charter allows you to shorten the trip and control the pace. Child-sized life jackets and snorkelling gear are available." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "phang-nga-bay":
                 return {
                     title: "Phang Nga Bay Guide 2026 — James Bond Island, Sea Caves & Canoeing",
-                    description: "The complete guide to Phang Nga Bay from Phuket. Covers James Bond Island, sea cave canoeing through hongs, Koh Panyee floating village, and the best ways to experience one of the world's most dramatic marine landscapes in 2026.",
+                    description: "Phang Nga Bay 2026: James Bond Island, sea cave canoeing, Koh Panyee floating village & tour options from Phuket.",
                     heroImage: "/things-to-do/phuket-james-bond-island.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Location', value: 'Ao Phang Nga National Park' },
@@ -2102,17 +2547,32 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Phang Nga Bay Guide 2026 — James Bond Island, Sea Caves & Canoeing",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Phang Nga Bay Guide 2026 — James Bond Island, Sea Caves & Canoeing",
+                                "description": "The complete guide to Phang Nga Bay from Phuket. James Bond Island, sea cave canoeing through hongs, Koh Panyee floating village, and the best ways to experience one of the world's most dramatic marine landscapes.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is Phang Nga Bay or Phi Phi Islands better?", "acceptedAnswer": { "@type": "Answer", "text": "They are completely different experiences. Phang Nga Bay is about dramatic geology — limestone karsts, sea caves, canoeing through hidden lagoons, and a floating village. The water is calm, green, and sheltered. Phi Phi Islands is about tropical beaches — turquoise water, white sand, and snorkelling. If you have time, do both. If choosing one: Phi Phi for beach lovers, Phang Nga for photographers and kayakers." } },
+                                    { "@type": "Question", "name": "Is Phang Nga Bay suitable for children?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Phang Nga Bay is one of the most child-friendly excursions in Phuket. The water is calm and sheltered (no open sea), the canoe rides are gentle and exciting, James Bond Island is a short easy walk, and the floating village is fascinating for all ages. Children aged 3+ can comfortably join. Life jackets are provided for canoeing." } },
+                                    { "@type": "Question", "name": "What is the national park fee for Phang Nga Bay?", "acceptedAnswer": { "@type": "Answer", "text": "The Ao Phang Nga National Park entrance fee is ฿300 for foreign adults and ฿150 for foreign children (aged 3–14) as of 2026. Thai nationals pay ฿40/฿20. This fee is usually included in organised tour packages from Phuket." } },
+                                    { "@type": "Question", "name": "How long does a Phang Nga Bay tour take?", "acceptedAnswer": { "@type": "Answer", "text": "A standard full-day tour from Phuket runs approximately 8–9 hours (typically 7:30 AM departure, 5:30 PM return). This covers the 60–75 minute boat transfer each way, plus 4–5 hours visiting James Bond Island, sea cave canoeing (60–90 min), Koh Panyee lunch, and swimming stops." } },
+                                    { "@type": "Question", "name": "Can you canoe through the sea caves yourself?", "acceptedAnswer": { "@type": "Answer", "text": "The sea caves (hongs) at Phang Nga Bay are navigated by professional paddlers — you sit in the front of the canoe while your guide paddles from behind. The caves are narrow, ceilings are low, and tidal conditions change constantly. This makes it accessible even for non-athletic visitors and non-swimmers." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "big-buddha-phuket":
                 return {
                     title: "Big Buddha Phuket Guide 2026 — Viewpoint, Dress Code & How to Visit",
-                    description: "Everything you need to know about visiting the Big Buddha in Phuket. This 2026 guide covers the 45-metre marble statue, 360-degree panoramic views, dress code requirements, best time to visit, and how to combine it with Wat Chalong for the perfect half-day spiritual tour.",
+                    description: "Big Buddha Phuket 2026: 45-metre marble statue, 360° panoramic views, dress code, best time to visit & Wat Chalong combo.",
                     heroImage: "/things-to-do/phuket-big-buddha.jpg",
                     fastFacts: [
                         { icon: 'Building', label: 'Height', value: '45 metres (148 feet)' },
@@ -2138,6 +2598,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         {
                             title: "How to Get to the Big Buddha",
                             content: "The Big Buddha is located on the **Nakkerd Hills** between Chalong and Kata, accessible via a winding 6-km uphill road from the main highway (Route 4021).\n\n**By private tour (recommended)**: Our half-day tours combine the Big Buddha with [Wat Chalong](/thailand/phuket/wat-chalong) and a scenic viewpoint, with air-conditioned transport and a knowledgeable guide who explains the Buddhist symbolism and Phuket's spiritual traditions.\n\n**By Grab/taxi**: Approximately ฿300–฿500 from Kata or Chalong. The driver waits while you visit (negotiate a round-trip fare including waiting time, typically ฿700–฿1,000 total). This is the most practical independent option.\n\n**By scooter**: The road is steep with sharp curves. Only suitable for experienced riders. Park at the base of the final staircase.\n\n**Opening hours**: 6:00 AM – 7:00 PM daily. No advance booking or tickets required.\n\n**Combine with**: [Wat Chalong](/thailand/phuket/wat-chalong) (10 minutes downhill by car), Karon Viewpoint (15 minutes by car), or a Kata Beach visit (20 minutes). The Big Buddha + Wat Chalong combination is the classic Phuket half-day cultural tour."
+                        },
+                        {
+                            title: "The Making of the Big Buddha — Two Decades of Construction",
+                            content: "The Big Buddha's creation story is itself extraordinary — a 20-year community project that transformed an empty hilltop into one of Thailand's most important modern Buddhist landmarks.\n\n**2002 — The Vision**: The project was initiated by **Phra Thep Suthee**, the abbot of Wat Kittisangkaram temple in Kathu district. His vision was to create a monumental Buddha image that would serve as both a spiritual beacon and a symbol of Phuket's Buddhist identity — an island increasingly known for its beach tourism rather than its deep religious traditions. The Nakkerd Hills summit, at 400 metres elevation, was chosen specifically because it would be visible from across the southern half of the island.\n\n**2004 — Construction Begins**: The project broke ground with the construction of the reinforced concrete core structure. The timing coincided with the devastating **Boxing Day tsunami** of 26 December 2004, which struck Phuket's western beaches and killed over 5,000 people in Thailand. The tsunami gave the project new meaning — locals saw the Big Buddha as a symbol of spiritual renewal and resilience. Donations surged, with Thai and international contributors funding the construction as an act of merit-making.\n\n**2008–2014 — The Marble Cladding**: The most painstaking phase involved covering the concrete structure with **white Burmese jade marble** tiles, each cut and fitted by hand. Over 135 tonnes of marble were transported from Myanmar, and specialist craftsmen spent years ensuring a seamless surface. The marble was chosen for its luminous quality — it appears to glow in morning and evening light, changing colour from white to warm gold to rose depending on the sun angle.\n\n**2015–Present — Ongoing Refinement**: The statue itself is complete, but the surrounding temple complex continues to grow. New pavilions, meditation halls, and landscaped gardens have been added progressively. The project has been funded entirely by donations — no government money was used. Small marble tiles inscribed with donors' names can be seen on the statue's base and rear sections, each representing an individual's contribution and personal wish.\n\nThe Big Buddha's construction also required a significant infrastructure investment — the winding 6-kilometre access road from Route 4021 was upgraded from a dirt track to a paved hillside road, transforming the accessibility of the entire Nakkerd Hills area."
+                        },
+                        {
+                            title: "Explore Phuket's Spiritual Heart With a Local Guide",
+                            content: "The Big Buddha is far more than a viewpoint — it is an active Buddhist site where understanding the Bhumisparsha Mudra symbolism, the merit-making traditions, and the tsunami-driven construction story transforms a quick photo stop into a profound cultural experience.\n\nOur [Phuket cultural guides](/thailand/phuket) combine the Big Buddha with [Wat Chalong](/thailand/phuket/wat-chalong) (10 minutes downhill) in a half-day tour that covers the island's two most important spiritual sites. Your guide explains the Buddhist rituals you observe — the chanting, the gold leaf offerings, the firecracker prayers — and helps you participate respectfully if you wish. The morning concludes with the panoramic Andaman Sea views from the summit.\n\nFor a deeper cultural immersion, extend the tour to include [Phuket Old Town](/thailand/phuket/phuket-old-town), where the island's Sino-Portuguese heritage, Chinese shrines, and Peranakan cuisine add an entirely different dimension to the Phuket story.\n\n[Browse all Phuket private tours →](/thailand/phuket)"
                         }
                     ],
                     faqs: [
@@ -2159,17 +2627,33 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Big Buddha Phuket Guide 2026 — Viewpoint, Dress Code & How to Visit",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Big Buddha Phuket Guide 2026 — Viewpoint, Dress Code & How to Visit",
+                                "description": "Everything you need to know about visiting the Big Buddha in Phuket — the 45-metre marble statue, 360-degree panoramic views, dress code, and how to combine with Wat Chalong.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is the Big Buddha in Phuket worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — the Big Buddha offers Phuket's best combination of cultural significance and natural beauty. The 360-degree panoramic view alone justifies the visit, but the serene spiritual atmosphere and the chance to observe active Buddhist worship make it one of the island's essential experiences. It is especially rewarding when combined with Wat Chalong on a half-day cultural tour." } },
+                                    { "@type": "Question", "name": "How long does a visit to the Big Buddha take?", "acceptedAnswer": { "@type": "Answer", "text": "Most visitors spend 45–60 minutes at the Big Buddha. This allows time to climb the final staircase, walk around the base of the statue, enjoy the panoramic views, explore the smaller golden Buddha images and temple pavilions. Photography enthusiasts may want 90 minutes. Add 15–20 minutes for the drive up and down the hill road." } },
+                                    { "@type": "Question", "name": "Is the Big Buddha in Phuket free to visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — there is no entrance fee. The site is maintained through voluntary donations. Visitors can purchase a marble tile (฿100–฿300) to have their name inscribed and placed on the statue. The free admission makes the Big Buddha one of Phuket's best-value attractions." } },
+                                    { "@type": "Question", "name": "Can I visit Big Buddha and Wat Chalong together?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — this is the classic combination and most popular cultural half-day tour in Phuket. Wat Chalong is just 10 minutes downhill from the Big Buddha access road. Most visitors start at Wat Chalong (45–60 minutes), then drive up to the Big Buddha (45–60 minutes), completing both in a comfortable 2.5–3 hour morning." } },
+                                    { "@type": "Question", "name": "What is the best time of day to visit the Big Buddha for photos?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning (7:00–9:00 AM) is ideal: soft golden light on the white marble, clear air before haze builds, and very few visitors. The marble glows beautifully in the first hour after sunrise. Sunset (4:30–6:00 PM) is the second-best option for dramatic silhouette shots. Avoid 10:00 AM–2:00 PM when harsh overhead light and the busiest crowds coincide." } },
+                                    { "@type": "Question", "name": "What dress code is required at the Big Buddha Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Shoulders and knees must be covered for all visitors. No sleeveless tops, short skirts, or shorts above the knee. Free sarongs and cover-ups are provided at the bottom of the steps for visitors who arrive in beachwear. Shoes must be removed before entering any covered temple building." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "wat-chalong":
                 return {
                     title: "Wat Chalong Guide 2026 — Phuket's Most Important Temple",
-                    description: "The complete visitor guide to Wat Chalong (Wat Chaiyathararam), Phuket's largest and most revered Buddhist temple. Covers history, architecture, the Grand Pagoda, dress code, visiting hours, and how to combine with the Big Buddha for a perfect cultural half-day.",
+                    description: "Wat Chalong 2026: Phuket's most sacred temple — Grand Pagoda, history, dress code, visiting hours & Big Buddha combo guide.",
                     heroImage: "/things-to-do/phuket-big-buddha.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Founded', value: 'Early 19th century' },
@@ -2194,6 +2678,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         {
                             title: "Visiting Tips & Practical Information",
                             content: "**Opening hours**: 7:00 AM – 5:00 PM daily. The temple is busiest on weekends and Thai public holidays. Early morning (before 9:00 AM) offers the quietest experience.\n\n**Dress code**: Shoulders and knees must be covered. Sarongs are available at the entrance for those in beachwear. Shoes must be removed before entering any building.\n\n**Duration**: Most visitors spend 45–60 minutes. Allow extra time if you want to climb the Grand Pagoda and explore the gardens.\n\n**Combine with**: The [Big Buddha](/thailand/phuket/big-buddha-phuket) is just 10 minutes uphill by car — the two sites together make the perfect half-day Phuket cultural tour. Continue to Promthep Cape for sunset to complete an unforgettable afternoon.\n\n**Getting there**: Located on Route 4021, 8 km south of Phuket Town. Grab ride from Patong approximately ฿350. From Kata/Karon approximately ฿200. Free parking available at the temple.\n\n**Etiquette reminder**: This is Phuket's most sacred site. Show respect by speaking softly, not pointing feet at Buddha images, and avoiding selfies at the prayer halls. Observing the local worshippers with quiet respect is far more rewarding than rushing through for photographs."
+                        },
+                        {
+                            title: "The 1876 Tin Miners' Rebellion — How Two Monks Shaped Phuket History",
+                            content: "The story of Wat Chalong's two revered monks is not merely temple legend — it is the defining historical episode in modern Phuket's identity, and understanding it transforms the temple from a beautiful building into a monument to moral courage.\n\nBy the mid-19th century, Phuket's tin mines had attracted tens of thousands of **Hokkien Chinese labourers** from southern China, organised into powerful secret societies called **ang yi** (literally 'red brothers'). These societies controlled the mines, collected taxes, and maintained order among the Chinese community — effectively running a parallel government alongside the Thai administration.\n\nIn **1876**, tensions between the ang yi factions and the Thai provincial authorities erupted into open rebellion. Thousands of Chinese miners, armed with mining tools and improvised weapons, attacked Thai government positions across the island. The fighting was brutal — buildings were burned, roads were blocked, and the Thai garrison was overwhelmed. The provincial governor fled to the coast.\n\nInto this chaos stepped **Luang Pho Chaem** and **Luang Pho Chuang**, the two senior monks of Wat Chalong. While the secular authorities had fled, the monks remained. They turned the temple into a **sanctuary and field hospital**, treating wounded from both sides of the conflict without discrimination. Their moral authority — in a culture where Buddhist monks hold the highest social respect — gave them credibility that no government official could match.\n\nCritically, the monks served as **mediators**, using their neutrality and spiritual standing to negotiate between the Chinese faction leaders and the Thai authorities. Their intervention helped prevent the rebellion from escalating into a full-scale massacre and contributed to its eventual resolution.\n\nKing **Rama V** (Chulalongkorn) later awarded both monks royal titles and recognition — an extraordinary honour for Buddhist monks, who are expected to remain outside politics. Their wax effigies, created after their deaths and now housed in the temple's main prayer halls, became the most venerated objects in Phuket. Today, Thai visitors touch the glass cases, press gold leaf onto the effigies' surfaces, and pray for the monks' spiritual intercession — a tradition that has continued unbroken for nearly 150 years.\n\nThe rebellion itself left a lasting mark on Phuket's culture. The Chinese communities eventually integrated into Thai society, creating the distinctive **Peranakan** (Baba-Nyonya) culture visible today in [Phuket Old Town](/thailand/phuket/phuket-old-town) — a fusion of Hokkien Chinese, Thai, and Malay traditions expressed through architecture, cuisine, and festivals like the Phuket Vegetarian Festival."
+                        },
+                        {
+                            title: "Discover Phuket's Buddhist Heritage With a Local Guide",
+                            content: "Wat Chalong is Phuket's spiritual heartbeat — a living temple where the island's tumultuous history, its Chinese-Thai cultural fusion, and its daily Buddhist practice all converge. Visiting with a knowledgeable guide who can explain the wax effigy rituals, decode the Grand Pagoda murals, and tell the extraordinary story of the 1876 rebellion transforms the experience from pleasant sightseeing into genuine cultural understanding.\n\nOur [Phuket cultural guides](/thailand/phuket) combine Wat Chalong with the [Big Buddha](/thailand/phuket/big-buddha-phuket) (10 minutes uphill) in a half-day tour that covers both of Phuket's essential spiritual landmarks. The pairing is natural and complementary: Wat Chalong shows active, living Thai-Chinese Buddhist practice — incense, firecrackers, gold leaf, and monks chanting — while the Big Buddha offers a serene, panoramic summit experience with Andaman Sea views stretching to the [Phi Phi Islands](/thailand/phuket/phi-phi-islands).\n\nFor the complete cultural picture, extend the tour to include [Phuket Old Town](/thailand/phuket/phuket-old-town), where the Sino-Portuguese architecture, Peranakan cuisine, and Chinese shrines connect directly to the 1876 rebellion story you've just heard at Wat Chalong.\n\n[Browse all Phuket private tours →](/thailand/phuket)"
                         }
                     ],
                     faqs: [
@@ -2215,17 +2707,33 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Wat Chalong Guide 2026 — Phuket's Most Important Temple",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Wat Chalong Guide 2026 — Phuket's Most Important Temple",
+                                "description": "The complete visitor guide to Wat Chalong, Phuket's largest and most revered Buddhist temple. Covers history, the Grand Pagoda, dress code, and visiting hours.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is special about Wat Chalong?", "acceptedAnswer": { "@type": "Answer", "text": "Wat Chalong is Phuket's most historically significant and spiritually important temple. It houses the revered wax effigies of monks Luang Pho Chaem and Luang Pho Chuang, who helped resolve the 1876 tin miners' rebellion. The temple also contains the Grand Pagoda (Phra Mahathat Chedi), Phuket's tallest building, which reportedly holds a fragment of Lord Buddha's bone." } },
+                                    { "@type": "Question", "name": "Is Wat Chalong free to visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — there is no entrance fee to visit Wat Chalong. The temple is maintained through donations from worshippers and visitors. You can purchase incense, flowers, and gold leaf (฿20–฿50) from vendors to make offerings. Firecrackers (฿100–฿200) are also available as a popular offering. The Grand Pagoda climb is also free." } },
+                                    { "@type": "Question", "name": "How do I dress for Wat Chalong?", "acceptedAnswer": { "@type": "Answer", "text": "Shoulders and knees must be covered for both men and women. Acceptable clothing includes long pants or skirts below the knee, and shirts with sleeves. Sarongs and cover-ups are available at the entrance for visitors who arrive in beachwear. Shoes must be removed before entering any building." } },
+                                    { "@type": "Question", "name": "Can I visit Wat Chalong and the Big Buddha together?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — this is the most popular cultural combination in Phuket. Wat Chalong and the Big Buddha are separated by just a 10-minute drive. Most visitors start at Wat Chalong (45–60 minutes), then drive uphill to the Big Buddha (45–60 minutes), completing both in a comfortable 2.5–3 hour morning." } },
+                                    { "@type": "Question", "name": "How old is Wat Chalong?", "acceptedAnswer": { "@type": "Answer", "text": "Wat Chalong dates to the early 19th century, making it one of Phuket's oldest temples. Its greatest historical significance comes from the Angyee Rebellion of 1876, when the temple's two chief monks played a pivotal role in treating the wounded, providing sanctuary, and mediating the conflict. King Rama V later awarded both monks royal recognition." } },
+                                    { "@type": "Question", "name": "What is inside the Grand Pagoda at Wat Chalong?", "acceptedAnswer": { "@type": "Answer", "text": "The Phra Mahathat Chedi (Grand Pagoda) houses three floors. Ground floor: entrance hall with temple history. Second floor: Buddhist artworks and murals. Third floor: the sacred chamber containing a fragment of Lord Buddha's bone in a golden case. The third floor also has a small terrace with views toward the Big Buddha. Shoes must be removed at each level." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "phuket-old-town":
                 return {
                     title: "Phuket Old Town Guide 2026 — Sino-Portuguese Heritage, Street Food & Walking Tour",
-                    description: "Discover the cultural heart of Phuket: the beautifully preserved Old Town with its colourful Sino-Portuguese architecture, Chinese shrines, legendary street food, Sunday walking market, and vibrant street art. This 2026 guide covers everything from history to the best local restaurants.",
+                    description: "Phuket Old Town 2026: Sino-Portuguese architecture, street food, Sunday market, Chinese shrines & the best local restaurants.",
                     heroImage: "/things-to-do/phuket-sino-portuguese.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Heritage', value: 'Sino-Portuguese (19th century)' },
@@ -2276,17 +2784,32 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Phuket Old Town Guide 2026 — Sino-Portuguese Heritage, Street Food & Walking Tour",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Phuket Old Town Guide 2026 — Sino-Portuguese Heritage, Street Food & Walking Tour",
+                                "description": "Discover the cultural heart of Phuket: Sino-Portuguese architecture, Chinese shrines, legendary street food, Sunday walking market, and vibrant street art.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is Phuket Old Town worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — Phuket Old Town is the cultural heart of the island and offers an experience completely different from the beaches. The beautifully preserved Sino-Portuguese architecture, legendary street food, colourful Chinese shrines, and vibrant Sunday market create one of Southeast Asia's most rewarding urban walks. Most visitors say it was the unexpected highlight of their trip." } },
+                                    { "@type": "Question", "name": "When is the Phuket Walking Street Market?", "acceptedAnswer": { "@type": "Answer", "text": "The Lard Yai Walking Street Market operates every Sunday from approximately 4:00 PM to 10:00 PM on Thalang Road. It runs year-round, featuring street food, handmade crafts, live music, and cultural performances against the backdrop of illuminated Sino-Portuguese shophouses. Arrive by 4:30 PM for the freshest food and smallest crowds." } },
+                                    { "@type": "Question", "name": "What food should I try in Phuket Old Town?", "acceptedAnswer": { "@type": "Answer", "text": "The essential dishes are Moo Hong (five-spice braised pork — Phuket's signature dish), Hokkien Mee (stir-fried egg noodles in rich stock), Oh Tao (crispy oyster omelette), Gaeng Lueng (southern Thai yellow curry with fish), and Roti with curry (Indian-influenced flatbread). Family-run shophouse restaurants on Thalang and Dibuk Roads serve the most authentic versions." } },
+                                    { "@type": "Question", "name": "How long should I spend in Phuket Old Town?", "acceptedAnswer": { "@type": "Answer", "text": "A minimum of 2 hours covers the main streets (Thalang, Soi Romanee, Phang Nga) and a quick lunch. A full 3–4 hour visit allows the Thai Hua Museum, Chinese shrine exploration, street art hunt, and a leisurely Peranakan meal. On a Sunday evening, budget 4–5 hours to include the Walking Street Market." } },
+                                    { "@type": "Question", "name": "How do I get to Phuket Old Town from Patong?", "acceptedAnswer": { "@type": "Answer", "text": "Phuket Old Town is approximately 15 km east of Patong Beach (30–40 minutes by car). By Grab: ฿250–฿350 one-way. By songthaew (local bus): ฿30–฿40, departing from the beach road approximately every 30 minutes until 5:00 PM. Private tours include hotel pickup and drop-off with a local guide." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "phuket-1-day-itinerary":
                 return {
                     title: "Phuket 1-Day Itinerary 2026 — The Perfect One Day in Phuket",
-                    description: "Only one day in Phuket? This hour-by-hour itinerary covers the Big Buddha, Wat Chalong, Old Town food, a beach stop, and a sunset at Promthep Cape — maximising your experience of Thailand's largest island in a single unforgettable day.",
+                    description: "Phuket 1-day itinerary: Big Buddha, Wat Chalong, Old Town food, beach stop & Promthep Cape sunset — hour by hour.",
                     heroImage: "/things-to-do/phuket-beach-palms.jpg",
                     fastFacts: [
                         { icon: 'Clock', label: 'Start Time', value: '7:30 AM' },
@@ -2349,18 +2872,33 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Phuket 1-Day Itinerary 2026 — The Perfect One Day in Phuket",
-                        "description": "Hour-by-hour 1-day Phuket itinerary covering Big Buddha, Wat Chalong, Old Town, beach time, and Promthep Cape sunset.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
-                        "dateModified": "2026-03-01"
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Phuket 1-Day Itinerary 2026 — The Perfect One Day in Phuket",
+                                "description": "Hour-by-hour 1-day Phuket itinerary covering Big Buddha, Wat Chalong, Old Town, beach time, and Promthep Cape sunset.",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" },
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the best 1-day Phuket itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "The optimal 1-day Phuket itinerary: 7:30 AM — Big Buddha panoramic views. 8:30 AM — Wat Chalong temple. 10:00 AM — Phuket Old Town heritage walk. 11:30 AM — Peranakan lunch in Old Town. 1:00 PM — Kata or Nai Harn Beach. 4:30 PM — Promthep Cape sunset. 6:30 PM — Seafood dinner at Rawai. This covers culture, food, beaches, and sunset in one efficiently routed day." } },
+                                    { "@type": "Question", "name": "Can I do Phi Phi Islands in 1 day from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a full-day speedboat tour covers Maya Bay, snorkelling, Bamboo Island, and lunch on Phi Phi Don. However, this consumes your entire day (7:00 AM – 4:30 PM) and means missing the Big Buddha, Wat Chalong, Old Town, and sunset viewpoints. If you only have one day, choose either the island trip or the land itinerary — not both." } },
+                                    { "@type": "Question", "name": "Is one day enough to see Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "One day is enough to experience Phuket's highlights. You can cover the Big Buddha, Wat Chalong, Old Town food, a beach, and a sunset — a satisfying and varied day. However, Phuket ideally needs 4–5 days: one for Phi Phi Islands, one for Phang Nga Bay, one for culture and food, and one for beaches and relaxation." } },
+                                    { "@type": "Question", "name": "How much does a 1-day Phuket itinerary cost?", "acceptedAnswer": { "@type": "Answer", "text": "Budget (฿1,500–฿2,500/day): Grab transport, street food lunch, free beach, no museum entry. Mid-range (฿3,000–฿5,000/day): private half-day tour, Old Town lunch, beach rental, seafood dinner. Premium (฿5,000–฿10,000/day): full-day private guided tour with air-conditioned vehicle and restaurant meals. All temple entry fees are free. Thai Hua Museum: ฿200." } },
+                                    { "@type": "Question", "name": "What is the biggest mistake tourists make when planning one day in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "The single biggest mistake is trying to combine island hopping with land sightseeing. A Phi Phi Islands or James Bond Island tour takes a full 8–9 hours. Adding the Big Buddha, Wat Chalong, and Old Town on the same day results in seeing everything poorly and exhausting yourself. Choose one or the other." } },
+                                    { "@type": "Question", "name": "Should I hire a guide for 1 day in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "A private guide with air-conditioned transport is the most efficient way to see Phuket in one day. The guide handles all navigation, provides cultural context at the Big Buddha and Wat Chalong, knows the best Old Town food spots, and optimises your schedule to avoid crowds. The time saved allows you to see 1–2 more sites than you would independently." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
             case "james-bond-island-phuket":
                 return {
                     title: "James Bond Island Phuket — Complete Tour Guide 2026 (Phang Nga Bay)",
-                    description: "Everything you need to know about visiting James Bond Island from Phuket in 2026. Covers how to get there, best tours, sea cave canoeing, Koh Panyee floating village, and the famous Ko Tapu needle rock.",
+                    description: "James Bond Island 2026: Ko Tapu needle rock, best tours from Phuket, sea cave canoeing & Koh Panyee floating village.",
                     heroImage: "/things-to-do/phuket-james-bond-island.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Location', value: 'Phang Nga Bay, 100km from Phuket' },
@@ -2425,7 +2963,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "mainEntity": [
                                     { "@type": "Question", "name": "How far is James Bond Island from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "James Bond Island is approximately 100 km from Phuket. By speedboat from Ao Po Grand Marina it takes 1.5–2 hours." } },
                                     { "@type": "Question", "name": "Is James Bond Island worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially as part of a full Phang Nga Bay tour that includes sea cave canoeing through hongs. Most visitors rate the hong canoeing as the best experience of their Phuket trip." } },
-                                    { "@type": "Question", "name": "Can I visit James Bond Island without a tour?", "acceptedAnswer": { "@type": "Answer", "text": "Practically no — there is no scheduled public service. A private long-tail from Surakul Pier is possible but complex. A structured tour is far more efficient and includes the sea caves." } }
+                                    { "@type": "Question", "name": "Can I visit James Bond Island without a tour?", "acceptedAnswer": { "@type": "Answer", "text": "Practically no — there is no scheduled public service. A private long-tail from Surakul Pier is possible but complex. A structured tour is far more efficient and includes the sea caves." } },
+                                    { "@type": "Question", "name": "What is the best James Bond Island tour from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Look for a tour that includes: sea cave canoeing through at least one hong, timed to low tide; James Bond Island and Ko Tapu; Koh Panyee floating village with seafood lunch; and a swimming stop. Private tours are significantly better than group tours for the canoeing experience — you linger inside the hong rather than being rushed through." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit James Bond Island?", "acceptedAnswer": { "@type": "Answer", "text": "November to April (dry season) offers the best conditions: clear skies, calm bay, excellent photography light, and reliable tour availability. December to February is peak season — book tours 2–3 days in advance. May to October (monsoon) brings afternoon thunderstorms but the bay remains relatively protected." } },
+                                    { "@type": "Question", "name": "What exactly is Ko Tapu and why is it famous?", "acceptedAnswer": { "@type": "Answer", "text": "Ko Tapu (Thai for 'nail') is the limestone needle rising 20 metres from the water beside Khao Phing Kan. Its fame comes from its extraordinary geology (a tiny base supporting a wide mushroom-shaped top that appears structurally impossible) and its appearance in the 1974 Bond film The Man with the Golden Gun. It is one of the most photographed single formations in Asia." } },
+                                    { "@type": "Question", "name": "Is James Bond Island crowded and how can I avoid the worst crowds?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — at peak season (December–February) the Ko Tapu photo spot sees constant queues between 10:00 AM and 2:00 PM. To avoid crowds: choose a tour that arrives before 11:00 AM, book a private speedboat tour for flexible timing, or visit in the shoulder season (May, October, November) when visitor numbers drop significantly." } },
+                                    { "@type": "Question", "name": "Is James Bond Island suitable for children?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — it is one of the most child-friendly island excursions from Phuket. Phang Nga Bay has calm sheltered water, the speedboat ride is smooth, and there is no strenuous hiking. The sea cave canoeing is especially exciting for children — passing through a dark tunnel and emerging into a hidden lagoon is magical. Most tours set minimum age around 3–4 years old." } }
                                 ]
                             }
                         ]
@@ -2435,7 +2978,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "phuket-island-hopping":
                 return {
                     title: "Phuket Island Hopping 2026 — Best Tours, Islands & Complete Guide",
-                    description: "The complete guide to island hopping from Phuket in 2026. Covers Phi Phi Islands, Phang Nga Bay, Racha Islands, Similan Islands, and how to choose the right tour for your budget and interests.",
+                    description: "Phuket island hopping 2026: Phi Phi, Phang Nga Bay, Racha, Similan — compare tours, costs & choose the best route.",
                     heroImage: "/things-to-do/phuket-phi-phi-aerial.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Islands accessible', value: '50+ from Phuket' },
@@ -2500,7 +3043,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "mainEntity": [
                                     { "@type": "Question", "name": "What is the best island hopping tour from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "The Phi Phi Islands full-day speedboat tour is the best single island hopping experience, covering Maya Bay, Pileh Lagoon, snorkelling, and Bamboo Island. Add a Phang Nga Bay tour for James Bond Island and sea cave canoeing." } },
                                     { "@type": "Question", "name": "How much does island hopping cost in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Group speedboat tours: ฿2,500–฿4,000/person for Phi Phi Islands. Private charters: ฿25,000–฿45,000 total. Half-day Racha Islands: ฿1,800–฿2,500. Similan Islands liveaboard: ฿6,000–฿15,000 for 2 days." } },
-                                    { "@type": "Question", "name": "What is the best time of day to start island hopping?", "acceptedAnswer": { "@type": "Answer", "text": "Depart as early as possible — ideally 7:00–8:00 AM. This gets you to destinations shortly after they open, with the fewest other visitors and calmer sea conditions." } }
+                                    { "@type": "Question", "name": "What is the best time of day to start island hopping?", "acceptedAnswer": { "@type": "Answer", "text": "Depart as early as possible — ideally 7:00–8:00 AM. This gets you to destinations shortly after they open, with the fewest other visitors and calmer sea conditions." } },
+                                    { "@type": "Question", "name": "Can I do island hopping from Phuket on a budget?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The most affordable option is the 4-Island Tour south of Phuket (฿1,500–฿2,000/person, half-day). For Phi Phi, public ferries run at ฿400–฿700 one-way from Rassada Pier to Phi Phi Don (though ferries don't stop at Maya Bay). Phang Nga Bay long-tail tours from Surakul Pier cost ฿600–฿800/person but are very slow and miss the sea caves." } },
+                                    { "@type": "Question", "name": "What is the best month for island hopping from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "December–February offers the best weather: consistent sunshine, flat sea conditions, excellent snorkelling visibility (20–30m), and reliable tour availability. March–April is excellent weather but increasingly hot. November is reliable and less crowded than peak season. May–October (southwest monsoon): seas can be rough on the outer Andaman Sea." } },
+                                    { "@type": "Question", "name": "Is island hopping from Phuket suitable for non-swimmers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — non-swimmers can fully enjoy island hopping. Life jackets are provided on all reputable tours. You can enjoy the boat ride, beach stops, karst scenery, and lunch without entering deep water. On most tours, snorkelling stops are in shallow areas (1–3 metres) where non-swimmers can stand while wearing a life jacket." } },
+                                    { "@type": "Question", "name": "Is Maya Bay open in 2026 and what are the visiting rules?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Maya Bay reopened in 2022 after a 4-year closure for ecological recovery. 2026 rules: no swimming inside the bay, maximum occupancy enforced (approximately 300 visitors at any time), no anchoring (boats use mooring buoys only), access only between 10:00 AM and 4:00 PM. The reef has recovered significantly since closure." } },
+                                    { "@type": "Question", "name": "What should I pack for a full day of island hopping from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Essential: reef-safe mineral sunscreen (chemical sunscreens banned at national parks), swimwear, quick-dry clothes, waterproof phone case or GoPro, cash (฿500–฿1,000 for extras). Recommended: motion sickness medication if prone, light windbreaker for the air-conditioned speedboat. Leave behind: large rolling luggage, chemical sunscreen, drones (banned in national parks — ฿100,000 fine)." } }
                                 ]
                             }
                         ]
@@ -2579,8 +3127,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "FAQPage",
                                 "mainEntity": [
                                     { "@type": "Question", "name": "How many days do I need in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "We recommend 3–5 days for a satisfying Bangkok experience. Day 1: Grand Palace, Wat Pho, and Wat Arun. Day 2: Canal tour, Chatuchak. Day 3: Ayutthaya day trip. Day 4: Jim Thompson House, evening at Asiatique Riverfront. Day 5: Floating market day trip." } },
-                                    { "@type": "Question", "name": "What is the best time of year to visit Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "November to February is Bangkok's cool season — the best time to visit. Temperatures hover around 25–32°C with low humidity and minimal rain. March to May is hot (35–40°C). June to October is monsoon season with daily rain." } },
-                                    { "@type": "Question", "name": "Is Bangkok safe for solo female travelers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Bangkok is one of Southeast Asia's safest cities for solo female travelers. Thai culture is non-confrontational and respectful. The BTS Skytrain and MRT subway are safe at all hours." } }
+                                    { "@type": "Question", "name": "What is the best time of year to visit Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "November to February is Bangkok's cool season — the best time to visit. Temperatures hover around 25–32°C with low humidity and minimal rain. March to May is hot (35–40°C). June to October is monsoon season with daily rain, though prices are lower." } },
+                                    { "@type": "Question", "name": "Is Bangkok safe for solo female travelers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Bangkok is one of Southeast Asia's safest cities for solo female travelers. Thai culture is non-confrontational and respectful. The BTS Skytrain and MRT subway are safe at all hours. Use Grab (Thai Uber) rather than negotiating with tuk-tuk drivers, stay in well-reviewed areas, and be cautious at night in nightlife areas." } },
+                                    { "@type": "Question", "name": "What is the dress code for Bangkok temples?", "acceptedAnswer": { "@type": "Answer", "text": "Strict modesty is required at the Grand Palace and all major temples. Shoulders must be fully covered, and legs must be covered below the knee. Free sarongs are available at the Grand Palace entrance. Lightweight long trousers and a loose long-sleeved shirt work best in the tropical heat. Remove shoes when entering temple halls." } },
+                                    { "@type": "Question", "name": "How do I get around Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "The BTS Skytrain and MRT subway cover most tourist areas efficiently. For the riverside and canal areas, the Chao Phraya Express Boat is scenic and practical. Grab (ride-hailing app) is safe and transparent for anywhere not on the rail network. Avoid tuk-tuks for anything other than short distances in tourist zones — they are notoriously overpriced." } },
+                                    { "@type": "Question", "name": "Can I do a day trip from Bangkok to Ayutthaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Ayutthaya (80 km north) is Bangkok's most rewarding day trip. The former Thai capital has a stunning UNESCO World Heritage archaeological park of ruined temples and ancient chedis. The SRT train from Hua Lamphong takes 1.5 hours and costs just ฿15–฿345 depending on class." } },
+                                    { "@type": "Question", "name": "What is the best floating market near Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Damnoen Saduak (110 km southwest) is the most famous but the most touristy. For a more authentic experience, Amphawa Floating Market (100 km southwest) operates on weekend evenings and is frequented primarily by Thai locals. Taling Chan Floating Market (15 km from the city centre) is the most accessible option for a morning visit without a long drive." } }
                                 ]
                             }
                         ]
@@ -2622,12 +3174,25 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Bangkok Travel Guide 2026: Everything You Need to Know",
-                        "description": "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods, how to get around, what to eat, temple etiquette, and a day-by-day itinerary framework.",
-                        "datePublished": "2026-01-15T08:00:00+07:00",
-                        "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Bangkok Travel Guide 2026: Everything You Need to Know",
+                                "description": "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods, how to get around, what to eat, temple etiquette, and a day-by-day itinerary framework.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-14T08:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Do I need a visa to visit Bangkok in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Thailand offers visa exemption for up to 60 days for citizens of 93+ countries including UK, EU, USA, Australia, Canada, Japan, and Korea. Always check the Thai Embassy website for your specific nationality before travel as policies update frequently." } },
+                                    { "@type": "Question", "name": "What is the currency in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "The Thai Baht (฿ / THB). In 2026, approximately ฿35 = $1 USD. ATMs are everywhere but charge ฿220–฿250 per withdrawal — use a Wise or Revolut card to minimise fees. Currency exchange booths at Superrich Thailand offer consistently better rates than hotel exchanges or airport booths." } },
+                                    { "@type": "Question", "name": "Is Bangkok expensive for tourists?", "acceptedAnswer": { "@type": "Answer", "text": "Bangkok offers extraordinary value at every budget. Street food meals: ฿40–฿80 ($1–$2.50). Sit-down restaurant meals: ฿150–฿400. Mid-range hotel per night: ฿1,500–฿3,000 ($45–$90). BTS/MRT day pass: ฿120. Bangkok is arguably the world's best-value capital city for international visitors." } },
+                                    { "@type": "Question", "name": "What should I not do in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Avoid: accepting gem store or suit shop recommendations from tuk-tuk drivers (scam). Never disrespect images of the Thai Royal Family — lèse-majesté is a serious criminal offence with prison sentences. Women must not touch monks directly. Always remove shoes inside temples and never point feet at Buddha images." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2666,12 +3231,28 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Grand Palace Bangkok",
-                        "description": "The Grand Palace is Bangkok's most iconic landmark — a 218,400 sq metre complex of royal halls, sacred temples, and gilded shrines on the banks of the Chao Phraya River.",
-                        "address": { "@type": "PostalAddress", "streetAddress": "Na Phra Lan Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
-                        "openingHours": "Mo-Su 08:30-15:30",
-                        "priceRange": "฿500"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Grand Palace Bangkok",
+                                "description": "The Grand Palace is Bangkok's most iconic landmark — a 218,400 sq metre complex of royal halls, sacred temples, and gilded shrines on the banks of the Chao Phraya River.",
+                                "address": { "@type": "PostalAddress", "streetAddress": "Na Phra Lan Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                                "openingHours": "Mo-Su 08:30-15:30",
+                                "priceRange": "฿500",
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How much is the Grand Palace entry fee in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The Grand Palace entry fee is ฿500 per person in 2026, which includes entry to both the Grand Palace complex and Wat Phra Kaew (Temple of the Emerald Buddha). This is a combined ticket — there is no way to visit one without the other. Children under 120 cm tall enter free." } },
+                                    { "@type": "Question", "name": "What time does the Grand Palace open and close?", "acceptedAnswer": { "@type": "Answer", "text": "The Grand Palace opens at 8:30 AM and closes at 3:30 PM daily. Last entry is strictly at 3:30 PM. Arrive as early as possible — by 8:30 AM when gates open — to have the complex relatively to yourself before tour groups arrive from 9:30 AM." } },
+                                    { "@type": "Question", "name": "How long should I spend at the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "Allow a minimum of 2 hours; 3 hours is ideal for a thorough visit including Wat Phra Kaew, the Dusit Maha Prasat, the Chakri Hall, and a walk through the cloister paintings. With a private licensed guide who decodes the royal symbolism, 2.5–3 hours flies by." } },
+                                    { "@type": "Question", "name": "Can I buy Grand Palace tickets online?", "acceptedAnswer": { "@type": "Answer", "text": "No — as of 2026, the Grand Palace does not have an official online ticketing system for individual visitors. Tickets are only available at the West Gate entrance on Na Phra Lan Road. Beware of third-party websites selling 'pre-booked' tickets — these are unofficial and often overpriced." } },
+                                    { "@type": "Question", "name": "What is the dress code for the Grand Palace Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Strict modesty is enforced — shoulders and legs must be fully covered (below the knee). Free sarong wraps are available at the entrance for visitors who are underdressed. Wear lightweight long trousers and a loose long-sleeved shirt. Flip-flops are allowed but you will remove shoes frequently inside temples." } },
+                                    { "@type": "Question", "name": "What is the nearest BTS/MRT station to the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "The Grand Palace is in the Rattanakosin Old City, which is not directly served by BTS or MRT. The nearest options: MRT Sam Yot (15-minute walk / ฿60 tuk-tuk), or BTS Saphan Taksin + Chao Phraya Express Boat to Tha Chang Pier (10-minute walk). Most visitors take Grab directly to the West Gate entrance on Na Phra Lan Road." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2704,12 +3285,27 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Wat Pho Bangkok",
-                        "description": "Wat Pho is Bangkok's oldest and largest temple, home to the 46-metre Reclining Buddha and the birthplace of traditional Thai massage.",
-                        "address": { "@type": "PostalAddress", "streetAddress": "2 Sanam Chai Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
-                        "openingHours": "Mo-Su 08:00-17:00",
-                        "priceRange": "฿200"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Wat Pho Bangkok",
+                                "description": "Wat Pho is Bangkok's oldest and largest temple, home to the 46-metre Reclining Buddha and the birthplace of traditional Thai massage.",
+                                "address": { "@type": "PostalAddress", "streetAddress": "2 Sanam Chai Rd", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                                "openingHours": "Mo-Su 08:00-17:00",
+                                "priceRange": "฿200",
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the entry fee for Wat Pho in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The entry fee for Wat Pho is ฿200 per person in 2026. This covers the entire temple complex including the Reclining Buddha hall. Opening hours are 8:00 AM to 5:00 PM daily. There is no additional charge for the traditional Thai massage school — massages are booked and paid separately." } },
+                                    { "@type": "Question", "name": "Can I get a Thai massage at Wat Pho?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Wat Pho Thai Traditional Massage School operates at the rear of the temple complex and offers 30-minute to 2-hour traditional Thai massage sessions for ฿260–฿560. This is a genuinely skilled therapeutic massage by certified students of Thailand's most authoritative school — not a tourist trap." } },
+                                    { "@type": "Question", "name": "How long does a Wat Pho visit take?", "acceptedAnswer": { "@type": "Answer", "text": "Allow 60–90 minutes for a complete visit: 20 minutes for the Reclining Buddha hall, 30–40 minutes exploring the temple grounds and chedis, and 30 minutes if getting a massage. Wat Pho is adjacent to the Grand Palace (5-minute walk) — combine both for a half-day experience." } },
+                                    { "@type": "Question", "name": "How big is the Reclining Buddha at Wat Pho?", "acceptedAnswer": { "@type": "Answer", "text": "The Reclining Buddha at Wat Pho stretches 46 metres long and 15 metres high, filling an entire building from wall to wall. The soles of its feet are inlaid with 108 auspicious characteristics of the Buddha in mother-of-pearl. It depicts the Buddha entering Nirvana." } },
+                                    { "@type": "Question", "name": "Is Wat Pho near the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Wat Pho is just 300 metres (5-minute walk) south of the Grand Palace on Sanam Chai Road. Most visitors combine both on the same morning: Grand Palace first (opens 8:30 AM), then Wat Pho. Budget 2–2.5 hours for the Grand Palace and 60–90 minutes for Wat Pho." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2742,12 +3338,27 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "TouristAttraction",
-                        "name": "Wat Arun Bangkok",
-                        "description": "Wat Arun (Temple of Dawn) is Bangkok's iconic riverside temple, its 70-metre prang encrusted with millions of fragments of Chinese porcelain on the west bank of the Chao Phraya River.",
-                        "address": { "@type": "PostalAddress", "streetAddress": "158 Thanon Wang Doem, Khwaeng Wat Arun", "addressLocality": "Bangkok", "addressCountry": "TH" },
-                        "openingHours": "Mo-Su 08:00-18:00",
-                        "priceRange": "฿100"
+                        "@graph": [
+                            {
+                                "@type": "TouristAttraction",
+                                "name": "Wat Arun Bangkok",
+                                "description": "Wat Arun (Temple of Dawn) is Bangkok's iconic riverside temple, its 70-metre prang encrusted with millions of fragments of Chinese porcelain on the west bank of the Chao Phraya River.",
+                                "address": { "@type": "PostalAddress", "streetAddress": "158 Thanon Wang Doem, Khwaeng Wat Arun", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                                "openingHours": "Mo-Su 08:00-18:00",
+                                "priceRange": "฿100",
+                                "dateModified": "2026-03-14"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is the entry fee for Wat Arun in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The entry fee for Wat Arun is ฿100 per person in 2026. Opening hours are 8:00 AM to 6:00 PM daily. The cross-river ferry from Tha Tien Pier to Wat Arun costs ฿5 (about 15 cents) and takes 2 minutes — one of the best-value experiences in Bangkok." } },
+                                    { "@type": "Question", "name": "How do I get to Wat Arun from the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "From the Grand Palace, walk 10 minutes south to Tha Tien Pier (near Wat Pho). Take the cross-river public ferry for ฿5 — a 2-minute crossing directly to Wat Arun's entrance pier. This is the most scenic and efficient way to reach Wat Arun." } },
+                                    { "@type": "Question", "name": "Can I visit Wat Arun and Wat Pho on the same day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Grand Palace, Wat Pho, and Wat Arun form a natural morning cluster. Visit the Grand Palace first (8:30 AM), then Wat Pho (10:30 AM), then take the ferry to Wat Arun (noon). This covers all three in one efficient morning. Return for the best views of Wat Arun from across the river at dusk." } },
+                                    { "@type": "Question", "name": "Is Wat Arun worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Wat Arun's 70-metre central prang encrusted with millions of fragments of Chinese porcelain is one of Bangkok's most visually extraordinary structures. The ideal experience is actually to view Wat Arun from the opposite bank at dusk — the illuminated spires reflecting on the Chao Phraya River is one of Bangkok's finest sights." } },
+                                    { "@type": "Question", "name": "What is the best time to see Wat Arun?", "acceptedAnswer": { "@type": "Answer", "text": "Despite its name (Temple of Dawn), the ideal time to visit Wat Arun is late afternoon and dusk. The golden light from the west catches the porcelain mosaics on the prang, and after sunset the illuminated temple reflects on the river in one of Bangkok's most spectacular night scenes. Climb the steep central staircase before 5:30 PM for the panoramic view." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2785,12 +3396,26 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "1-Day Bangkok Itinerary: The Perfect 24 Hours (2026)",
-                        "description": "The definitive 1-day Bangkok itinerary covering Grand Palace, Wat Pho, Wat Arun, canal tour, and Yaowarat Chinatown with exact timings.",
-                        "datePublished": "2026-01-15T08:00:00+07:00",
-                        "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "1-Day Bangkok Itinerary: The Perfect 24 Hours (2026)",
+                                "description": "The definitive 1-day Bangkok itinerary covering Grand Palace, Wat Pho, Wat Arun, canal tour, and Yaowarat Chinatown with exact timings.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-14T08:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Is one day enough for Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "One day is enough to experience Bangkok's top highlights — Grand Palace, Wat Pho, Wat Arun, and Yaowarat Chinatown. It is not enough to see everything — Bangkok deserves 3–5 days. But a well-planned single day, starting at 8:30 AM when the Grand Palace opens, can cover all the essentials." } },
+                                    { "@type": "Question", "name": "What should I prioritise if I only have half a day in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "With only a half day, prioritise the Grand Palace + Wat Pho cluster (8:30 AM–12:30 PM). These two adjacent sites represent the best of Bangkok's royal and Buddhist heritage. If you have time, take the ferry across to Wat Arun for 45 minutes before your afternoon commitments." } },
+                                    { "@type": "Question", "name": "How much does a 1-day Bangkok trip cost?", "acceptedAnswer": { "@type": "Answer", "text": "Budget per person for a 1-day Bangkok itinerary: Grand Palace ฿500 + Wat Pho ฿200 + Wat Arun ฿100 + ferry ฿5 + street food and meals ฿300–฿500 + transport (Grab/BTS) ฿200–฿400. Total: approximately ฿1,300–฿1,700 ($38–$50) per person excluding accommodation." } },
+                                    { "@type": "Question", "name": "What is the best time to start a 1-day Bangkok itinerary?", "acceptedAnswer": { "@type": "Answer", "text": "Start at 8:30 AM when the Grand Palace opens — this is the single most important timing decision. By 9:30 AM, tour groups arrive and the complex becomes crowded. An 8:30 AM start gives you 60 minutes of relative calm inside the palace." } },
+                                    { "@type": "Question", "name": "Should I hire a guide for a 1-day Bangkok visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — strongly recommended for the Grand Palace and Wat Pho. The iconography, royal symbolism, and Buddhist cosmology at both sites are extraordinarily complex. A licensed guide transforms 90 minutes of visually overwhelming experience into a genuinely moving historical journey. AsiaByLocals guides are available for private half-day and full-day Bangkok tours." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2828,12 +3453,25 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Floating Markets Near Bangkok: Which One to Visit in 2026",
-                        "description": "Compare Damnoen Saduak, Amphawa, and Taling Chan floating markets — which is most authentic, how to get there, and what to expect in 2026.",
-                        "datePublished": "2026-01-15T08:00:00+07:00",
-                        "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Floating Markets Near Bangkok: Which One to Visit in 2026",
+                                "description": "Compare Damnoen Saduak, Amphawa, and Taling Chan floating markets — which is most authentic, how to get there, and what to expect in 2026.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-14T08:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Which Bangkok floating market is the best?", "acceptedAnswer": { "@type": "Answer", "text": "For authenticity: Amphawa Floating Market (weekends only, evening, 100 km from Bangkok) is the most local-feeling. For convenience: Taling Chan (15 km from centre, weekends) is the easiest to reach. Damnoen Saduak (110 km) is the most famous but the most touristy — it feels staged. Our tours focus on Amphawa and Taling Chan depending on your schedule." } },
+                                    { "@type": "Question", "name": "Are Bangkok floating markets open every day?", "acceptedAnswer": { "@type": "Answer", "text": "No — most floating markets operate only on weekends. Amphawa: Friday–Sunday evenings (4:00 PM–9:00 PM). Taling Chan: Saturday–Sunday mornings (8:00 AM–4:00 PM). Damnoen Saduak: daily, but most active in the morning. Plan your Bangkok trip to include a Saturday or Sunday if floating markets are a priority." } },
+                                    { "@type": "Question", "name": "Is the floating market experience worth it in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — with the right market. Taling Chan and Amphawa offer genuine glimpses of canal-side Thai life with local vendors, fresh seafood, and minimal tourist staging. Damnoen Saduak, while photogenic, has become heavily commercialised. Go with a guide who knows which stalls to visit and the history behind the market communities." } },
+                                    { "@type": "Question", "name": "How far is Amphawa Floating Market from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Amphawa Floating Market is approximately 80–100 km southwest of Bangkok, typically taking 90 minutes to 2 hours by private car or minivan. It is open on Friday, Saturday, and Sunday evenings from 4:00 PM to 9:00 PM. The firefly boat tours that depart after dark are a highlight of the Amphawa experience." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2866,12 +3504,26 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
-                        "description": "Everything about Bangkok canal tours — private longtail boat routes, prices, best departure points, and how to book.",
-                        "datePublished": "2026-01-15T08:00:00+07:00",
-                        "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
+                                "description": "Everything about Bangkok canal tours — private longtail boat routes, prices, best departure points, and how to book.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-14T08:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How much does a Bangkok canal tour cost?", "acceptedAnswer": { "@type": "Answer", "text": "Private longtail boats cost approximately ฿1,500–฿2,500 per hour for the entire boat (not per person), accommodating 4–8 passengers. A 1.5-hour tour covers the major canal highlights. Official rates are posted at Tha Chang Pier near the Grand Palace. Always agree on the total price, duration, and route before boarding." } },
+                                    { "@type": "Question", "name": "What is the best time for a Bangkok canal tour?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning (7:30–9:30 AM) is best: canal vendors are active, the light is beautiful, and the heat is manageable. Late afternoon (4–6 PM) is the second-best option for the light quality. Avoid midday (11 AM–2 PM) in the hot season (March–May)." } },
+                                    { "@type": "Question", "name": "Is a canal tour different from the Chao Phraya River?", "acceptedAnswer": { "@type": "Answer", "text": "Completely different experiences. The Chao Phraya is a wide, commercial river with express boats and heavy cargo traffic. The khlongs are narrow, quiet canals through residential communities — wooden houses on stilts, gardens, temples — with almost no commercial boats. The canal tour shows you the Bangkok that existed before roads." } },
+                                    { "@type": "Question", "name": "Which pier is the best starting point for a Bangkok canal tour?", "acceptedAnswer": { "@type": "Answer", "text": "Tha Chang Pier (near the Grand Palace) is the best starting point for Bangkok canal tours. It provides access to the historically rich Khlong Bangkok Noi and Bangkok Yai routes, passing the Royal Barges National Museum and traditional canal-side communities. Official boat operators display rates at the pier." } },
+                                    { "@type": "Question", "name": "What is the best Bangkok canal route?", "acceptedAnswer": { "@type": "Answer", "text": "The Khlong Bangkok Noi & Bangkok Yai Route (1.5–2 hours) is the most historically rich, departing from Tha Chang Pier. It passes the Royal Barges National Museum, active canal-side temples, traditional wooden houses on stilts, and the original Chao Phraya channel before the 18th-century shortcut was cut." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2904,11 +3556,25 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "LandmarksOrHistoricalBuildings",
-                        "name": "Chatuchak Weekend Market",
-                        "description": "Chatuchak Weekend Market (JJ Market) is the world's largest outdoor market, with over 15,000 stalls across 35 acres in Bangkok, open every Saturday and Sunday.",
-                        "address": { "@type": "PostalAddress", "streetAddress": "Kamphaeng Phet 2 Road", "addressLocality": "Bangkok", "addressCountry": "TH" },
-                        "openingHours": "Sa-Su 09:00-18:00"
+                        "@graph": [
+                            {
+                                "@type": "LandmarksOrHistoricalBuildings",
+                                "name": "Chatuchak Weekend Market",
+                                "description": "Chatuchak Weekend Market (JJ Market) is the world's largest outdoor market, with over 15,000 stalls across 35 acres in Bangkok, open every Saturday and Sunday.",
+                                "address": { "@type": "PostalAddress", "streetAddress": "Kamphaeng Phet 2 Road", "addressLocality": "Bangkok", "addressCountry": "TH" },
+                                "openingHours": "Sa-Su 09:00-18:00"
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What time does Chatuchak open and close?", "acceptedAnswer": { "@type": "Answer", "text": "Chatuchak Weekend Market opens at 9:00 AM and closes at 6:00 PM, Saturday and Sunday only. The best time to arrive is 9:00 AM when it opens — beat both the heat and the crowds. The plant and antique sections are most active in the morning. By 2 PM the market is at full capacity and the midday heat peaks." } },
+                                    { "@type": "Question", "name": "Is there a Chatuchak market on weekdays?", "acceptedAnswer": { "@type": "Answer", "text": "The main weekend market (JJ Market) is Saturday and Sunday only. However, the adjacent Chatuchak Plant Market (Section 3A) is open daily (reduced selection on weekdays). The Or Tor Kor fresh produce market next door is open daily 7 days a week and is excellent in its own right." } },
+                                    { "@type": "Question", "name": "How do I get to Chatuchak from central Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Take BTS Skytrain to Mo Chit (end of Sukhumvit Line) or MRT to Chatuchak Park — both stations exit directly into the market area. From Silom or Sukhumvit, BTS Mo Chit is approximately 15–25 minutes. The MRT Kamphaeng Phet exit is closer to the plant section (Section 3A). No need for taxis — the rail connections are direct." } },
+                                    { "@type": "Question", "name": "What are the best sections to visit at Chatuchak Market?", "acceptedAnswer": { "@type": "Answer", "text": "Section 1 & 26 are best for antiques and ceramics. Section 2 & 3 for vintage clothing and military surplus. Section 7 for furniture and home goods. Section 3A for tropical plants and orchids at extraordinary prices. Section 22 for books and vinyl records. The market has 15,000 stalls across 27 numbered sections." } },
+                                    { "@type": "Question", "name": "What is the best food to eat at Chatuchak?", "acceptedAnswer": { "@type": "Answer", "text": "Must-eat items include Hainanese Chicken Rice (khao man gai) in Section 26, grilled corn vendors throughout, coconut ice cream in a coconut shell near the central clock tower, and Thai iced coffee (oliang) for ฿30–฿50. For a sit-down meal, Section 27 has the highest concentration of proper restaurant stalls. Or Tor Kor Market adjacent to Chatuchak has exceptional quality curries and salads." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 
@@ -2946,12 +3612,26 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Places to Visit in Bangkok: The Definitive 2026 Directory",
-                        "description": "The complete directory of Bangkok's best places to visit in 2026 — temples, palaces, markets, neighbourhoods, and day trips.",
-                        "datePublished": "2026-01-15T08:00:00+07:00",
-                        "dateModified": "2026-03-01T10:00:00+07:00",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Places to Visit in Bangkok: The Definitive 2026 Directory",
+                                "description": "The complete directory of Bangkok's best places to visit in 2026 — temples, palaces, markets, neighbourhoods, and day trips.",
+                                "datePublished": "2026-01-15T08:00:00+07:00",
+                                "dateModified": "2026-03-14T08:00:00+07:00",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "What is Bangkok most famous for?", "acceptedAnswer": { "@type": "Answer", "text": "Bangkok is most famous for its grand temples (Grand Palace, Wat Pho, Wat Arun), street food (especially Yaowarat Chinatown and Or Tor Kor Market), nightlife (from rooftop bars to Silom), luxury shopping (Siam Paragon, Central Embassy, ICONSIAM), and its extraordinary contrast between ancient tradition and modern skyscrapers." } },
+                                    { "@type": "Question", "name": "How many days do you need in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "3 days covers the essential highlights (temples, canals, Chinatown). 5 days allows a day trip to Ayutthaya, neighbourhood exploration, and depth in the food scene. 7+ days reveals the city beneath the tourist surface — neighbourhood markets, canal communities, art galleries, and the Thai-expat restaurant culture." } },
+                                    { "@type": "Question", "name": "Is Bangkok or Phuket better for first-time Thailand visitors?", "acceptedAnswer": { "@type": "Answer", "text": "It depends on what you want. Bangkok is city, culture, history, food, and contrast. Phuket is beaches, islands, and nature. Most first-time visitors benefit from 3 days Bangkok + 4 days Phuket — a combination that captures both the cultural and natural dimensions of Thailand." } },
+                                    { "@type": "Question", "name": "What are the must-see temples in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "The three essential Bangkok temples are: Grand Palace & Wat Phra Kaew (the sacred heart of the kingdom, with the Emerald Buddha), Wat Pho (the oldest and largest temple with the 46-metre Reclining Buddha and birthplace of Thai massage), and Wat Arun (the Temple of Dawn on the Chao Phraya west bank, best seen at dusk)." } },
+                                    { "@type": "Question", "name": "What are the best day trips from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "The best day trips from Bangkok are: Ayutthaya (80 km north, UNESCO archaeological park with 17th-century ruins), Kanchanaburi (130 km west, the Bridge on the River Kwai and Death Railway history), and Damnoen Saduak/Amphawa floating markets (100–110 km southwest, Bangkok's famous canal market heritage)." } }
+                                ]
+                            }
+                        ]
                     }
                 };
 

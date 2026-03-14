@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
+import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
 
@@ -27,6 +28,22 @@ function isValidSeoDescription(text: string | null | undefined): boolean {
     /\b(i ensure|i guarantee|i promise|book with me)\b/i,
   ];
   return !badPatterns.some(p => p.test(lower));
+}
+
+// Build a data-driven meta description from tour properties
+function buildMetaDescription(tour: any, cityName: string): string {
+  const duration = tour.duration || '';
+  const category = tour.category || 'tour';
+  const highlights = (tour.highlights || []).slice(0, 2).join(', ');
+  const base = `${tour.title}: ${duration ? duration + ' ' : ''}${category} in ${cityName}`;
+  const detail = highlights ? ` — ${highlights}` : '';
+  const desc = `${base}${detail}. Book with a licensed local guide on AsiaByLocals.`;
+  return desc.length > 155 ? desc.slice(0, 152) + '...' : desc;
+}
+
+// Strip markdown (links, bold) from text for clean JSON-LD output
+function stripMarkdown(text: string): string {
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '');
 }
 
 function isInfoSlug(city: string, slug: string): boolean {
@@ -74,7 +91,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       const data = await res.json();
       const tour = (data.success && data.tour) ? data.tour : (data.title ? data : null);
       if (tour) {
-        const fallbackDesc = `Book ${tour.title} in ${cityName} with a licensed local guide. Authentic experience with AsiaByLocals.`;
+        const fallbackDesc = buildMetaDescription(tour, cityName);
         const description = isValidSeoDescription(tour.shortDescription) ? tour.shortDescription : fallbackDesc;
         return {
           title: `${tour.title} in ${cityName} | AsiaByLocals`,
@@ -175,6 +192,51 @@ export default async function SlugPage({ params }: Props) {
   const reviewCount = Math.floor(ratingNorm * 100) + 20;
   const tourUrl = `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`;
 
+  // Build real itinerary from tour data
+  const itineraryItems = Array.isArray(tour?.itineraryItems) && tour.itineraryItems.length > 0
+    ? tour.itineraryItems
+    : null;
+  const itinerarySchema = itineraryItems
+    ? {
+        '@type': 'ItemList',
+        description: `Guided tour itinerary in ${cityName}, ${countryName}`,
+        numberOfItems: itineraryItems.length,
+        itemListElement: itineraryItems.map((item: any, idx: number) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title || `Stop ${idx + 1}`,
+          ...(item.description ? { description: item.description } : {}),
+        })),
+      }
+    : {
+        '@type': 'ItemList',
+        description: `Guided tour in ${cityName}, ${countryName}`,
+        numberOfItems: 1,
+        itemListElement: [{ '@type': 'ListItem', position: 1, name: tour?.title || 'Tour Experience' }],
+      };
+
+  // Get FAQs for this tour (from extracted lib/tourFaqs.ts)
+  const tourFaqs = getTourSpecificFAQs(tour?.title || '', slug);
+  const faqSchema = tourFaqs && tourFaqs.length > 0
+    ? {
+        '@type': 'FAQPage',
+        mainEntity: tourFaqs.slice(0, 8).map((faq: { question: string; answer: string }) => ({
+          '@type': 'Question',
+          name: faq.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: stripMarkdown(faq.answer),
+          },
+        })),
+      }
+    : null;
+
+  // Build highlights as amenityFeature
+  const highlights = Array.isArray(tour?.highlights) && tour.highlights.length > 0 ? tour.highlights : null;
+  const amenityFeatures = highlights
+    ? highlights.map((h: string) => ({ '@type': 'LocationFeatureSpecification', name: h, value: true }))
+    : undefined;
+
   const tourJsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -189,21 +251,19 @@ export default async function SlugPage({ params }: Props) {
         offers: { '@type': 'Offer', price: tour?.pricePerPerson || 0, priceCurrency: tour?.currency || 'USD', availability: 'https://schema.org/InStock', url: tourUrl },
         aggregateRating: { '@type': 'AggregateRating', ratingValue, reviewCount, bestRating: '5' },
       },
-      // TouristTrip schema — tells AI engines this is a bookable tour with duration, location, and operator
+      // TouristTrip schema — enriched with real tour data for AI engines and Google
       {
         '@type': 'TouristTrip',
         name: tour?.title || 'Tour',
-        description: tour?.shortDescription || '',
+        description: tour?.fullDescription || tour?.shortDescription || '',
         image: tour?.images?.[0] || '',
         url: tourUrl,
-        touristType: 'Cultural Tourism',
+        touristType: tour?.category || 'Cultural Tourism',
         ...(tour?.duration ? { duration: tour.duration } : {}),
-        itinerary: {
-          '@type': 'ItemList',
-          description: `Guided tour in ${cityName}, ${countryName}`,
-          numberOfItems: 1,
-          itemListElement: [{ '@type': 'ListItem', position: 1, name: tour?.title || 'Tour Experience' }],
-        },
+        ...(tour?.maxGroupSize ? { maximumAttendeeCapacity: tour.maxGroupSize } : {}),
+        ...(Array.isArray(tour?.languages) && tour.languages.length > 0 ? { availableLanguage: tour.languages } : {}),
+        ...(amenityFeatures ? { amenityFeature: amenityFeatures } : {}),
+        itinerary: itinerarySchema,
         offers: {
           '@type': 'Offer',
           price: tour?.pricePerPerson || 0,
@@ -234,6 +294,8 @@ export default async function SlugPage({ params }: Props) {
           { '@type': 'ListItem', position: 4, name: tour?.title || 'Tour', item: tourUrl },
         ],
       },
+      // FAQPage schema — triggers FAQ accordion rich results in Google SERPs
+      ...(faqSchema ? [faqSchema] : []),
     ],
   };
 
@@ -244,6 +306,34 @@ export default async function SlugPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(tourJsonLd) }}
       />
+      {/* Server-rendered SEO content — visible to crawlers in initial HTML */}
+      <article className="sr-only" aria-hidden="true">
+        <h1>{tour?.title} in {cityName}</h1>
+        <p>{tour?.fullDescription || tour?.shortDescription || ''}</p>
+        {highlights && (
+          <section>
+            <h2>Tour Highlights</h2>
+            <ul>
+              {highlights.map((h: string, i: number) => (
+                <li key={i}>{h}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+        {itineraryItems && (
+          <section>
+            <h2>Itinerary</h2>
+            <ol>
+              {itineraryItems.map((item: any, i: number) => (
+                <li key={i}>
+                  <strong>{item.title}</strong>
+                  {item.description && <span>: {item.description}</span>}
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+      </article>
       <TourDetailClient tour={tour} city={cityName} country={countryName} />
     </>
   );
