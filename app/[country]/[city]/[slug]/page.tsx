@@ -66,13 +66,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const title = infoContent?.title || fallbackTitle;
     const description = infoContent?.description || `Essential guide: ${fallbackTitle}. Everything you need to know before visiting ${cityName}.`;
     return {
-      title: `${title} | ${cityName} Guide | AsiaByLocals`,
+      title: `${title} | AsiaByLocals`,
       description,
       alternates: {
         canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
       },
       openGraph: {
-        title: `${title} | ${cityName} Guide | AsiaByLocals`,
+        title: `${title} | AsiaByLocals`,
         description,
         url: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
         siteName: 'AsiaByLocals',

@@ -353,6 +353,11 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             title: "Operational Rules & Gate Validity",
                             icon: "AlertTriangle",
                             content: "1. **Gate Specificity:** Your ticket is tied to the specific gate you selected during booking (East or West). You cannot enter through the West Gate if you purchased an East Gate ticket. \n2. **Time-Slotted Entry:** Tickets are now valid for specific 3-hour windows. If you arrive after your slot has expired, you may be denied entry. \n3. **Single Entry Only:** The Taj Mahal maintains a strict single-entry policy. Once you scan your QR code and exit the turnstiles, your ticket becomes void. Re-entry for lunch or rest is not allowed. \n4. **Restricted Items:** Avoid bringing large backpacks, tripods, cigarette lighters, or any food items. There are no safe locker facilities for these items at the gate; you will be asked to return to your vehicle or hotel to deposit them."
+                        },
+                        {
+                            title: "Skip the Queue — Book Taj Mahal Entry Ticket Assistance",
+                            icon: "Ticket",
+                            content: "Navigating the digital ticketing system can be stressful — especially for international visitors dealing with Indian payment gateways, UPI requirements, and time-slotted entries for the first time. Instead of wrestling with the ASI portal yourself, you can **[book Taj Mahal entry ticket assistance through a licensed local guide](/india/agra/taj-mahal-entry-ticket)** who handles the entire process for you.\n\n**What the service includes:**\n- Pre-booked entry tickets with your preferred time slot secured in advance\n- Mausoleum add-on ticket included (₹200 value)\n- A licensed ASI-certified guide who meets you at the gate\n- Skip the security queue with guided fast-track entry\n- Full 2-hour guided tour of the Taj Mahal complex with historical commentary\n\nThis is particularly useful during peak season (October–March) when time slots sell out days in advance and the morning sunrise slots are gone by 7 AM."
                         }
                     ],
                     faqs: [
@@ -493,7 +498,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case 'is-taj-mahal-closed-on-friday':
                 return {
-                    title: 'Is the Taj Mahal Closed on Friday? (2026 Strategy Guide)',
+                    title: 'Is Taj Mahal Closed on Friday? Yes — What to Do Instead (2026)',
                     description: 'Yes, the Taj Mahal is closed every Friday in 2026 for prayers. Mehtab Bagh views, Agra Fort & the best Friday itinerary instead.',
                     heroImage: '/blog/friday-closure-hero.jpg',
                     sections: [
@@ -879,7 +884,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "agra-gatimaan-entry-ticket":
                 return {
-                    title: "Gatimaan Express Delhi to Agra — Ticket Price, Timings & Booking Guide 2026",
+                    title: "Gatimaan Express — Delhi to Agra in 100 Mins, Price ₹750+ (2026)",
                     description: "Gatimaan Express 2026: Delhi–Agra in 100 mins, ticket prices from ₹750, timings, booking tips & day trip planning guide.",
                     heroImage: "/agra-hero.jpg",
                     fastFacts: [
@@ -965,7 +970,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "delhi-travel-guide-2026":
                 return {
-                    title: "Delhi Travel Guide 2026",
+                    title: "Delhi Travel Guide 2026 — First-Timer's Complete Handbook",
                     description: "Delhi travel guide 2026: Mughal monuments, Old Delhi street food, transport tips, where to stay & day trips to the Taj Mahal.",
                     heroImage: "/delhi-home.jpg",
                     fastFacts: [
@@ -1070,8 +1075,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "red-fort":
                 return {
-                    title: "Red Fort Delhi — Complete Visitor Guide 2026",
-                    description: "Red Fort Delhi 2026: UNESCO World Heritage Site, entry fees, timings, Sound & Light Show, history & what to see inside.",
+                    title: "Red Fort Delhi — Entry Fee ₹35/₹550, Timings & Guide (2026)",
+                    description: "Red Fort entry fee ₹35 Indians, ₹550 foreigners. Open 9:30 AM to 4:30 PM, closed Mondays. Sound & Light Show, Mughal history & tips.",
                     heroImage: "/red-fort-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -1167,8 +1172,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "qutub-minar":
                 return {
-                    title: "Qutub Minar Delhi — Complete History & Visitor Guide 2026",
-                    description: "Qutub Minar 2026: world's tallest brick minaret (72.5m), UNESCO site, entry fees, Iron Pillar, history & visiting tips.",
+                    title: "Qutub Minar — Entry Fee ₹35/₹550, Timings & History (2026)",
+                    description: "Qutub Minar entry fee ₹35 Indians, ₹550 foreigners. Open sunrise to sunset daily. 72.5m UNESCO minaret, Iron Pillar & visiting tips.",
                     heroImage: "/qutub-minar-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -1251,8 +1256,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "humayuns-tomb":
                 return {
-                    title: "Humayun's Tomb Delhi — Complete Guide 2026",
-                    description: "Humayun's Tomb 2026: the Taj Mahal's blueprint, UNESCO World Heritage garden-tomb, entry fees, best time to visit & guided tours.",
+                    title: "Humayun's Tomb — Entry Fee ₹35/₹550, Timings & Guide (2026)",
+                    description: "Humayun's Tomb entry fee ₹35 Indians, ₹550 foreigners. Open sunrise to sunset, closed Mondays. UNESCO garden-tomb & Taj Mahal blueprint.",
                     heroImage: "/humayun-tomb-new.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Foreign Entry Fee", value: "₹600 per person" },
@@ -1339,7 +1344,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "india-gate":
                 return {
-                    title: "India Gate Delhi — History, Visiting Guide & Facts 2026",
+                    title: "India Gate Delhi — Free Entry, Timings & History (2026)",
                     description: "India Gate Delhi: 42-metre war memorial, free 24/7 entry, best at sunset & night. History, Kartavya Path, metro access & visiting tips.",
                     heroImage: "/india-gate.jpg",
                     fastFacts: [
@@ -1424,7 +1429,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "things-to-do-in-delhi":
                 return {
-                    title: "Things to Do in Delhi 2026 — The Ultimate Guide",
+                    title: "25 Best Things to Do in Delhi — Local Tips & Hidden Gems (2026)",
                     description: "Things to do in Delhi 2026: 3 UNESCO sites, Chandni Chowk food, Mughal palaces, India Gate & day trips to the Taj Mahal.",
                     heroImage: "/delhi-home.jpg",
                     fastFacts: [
@@ -1517,7 +1522,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
             case "delhi-1-day-itinerary":
                 return {
-                    title: "Delhi 1-Day Itinerary 2026 — The Perfect One Day in Delhi",
+                    title: "Delhi 1-Day Itinerary — Hour-by-Hour Route Map (2026)",
                     description: "Delhi 1-day itinerary: Red Fort, Chandni Chowk, Humayun's Tomb, India Gate — hour-by-hour route optimised for first-time visitors.",
                     heroImage: "/delhi-itinerary-hero.jpg",
                     fastFacts: [
