@@ -1211,7 +1211,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         </span>
                       </div>
                       <div className="text-[14px] text-gray-600 font-semibold">
-                        Activity provider: {tour.activityProvider || tour.supplier?.companyName || tour.supplier?.fullName || 'Local Guide'}
+                        Activity provider: {tour.activityProvider || (tour.supplier?.companyName && tour.supplier.companyName.length > 2 && /^[a-zA-Z]/.test(tour.supplier.companyName) ? tour.supplier.companyName : null) || tour.supplier?.fullName || 'Local Guide'}
                       </div>
                     </div>
 
