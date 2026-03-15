@@ -79,7 +79,7 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                 }
 
                 // Filter out the current tour
-                let filtered = toursArray.filter((t: any) => String(t.id) !== String(currentTourId));
+                let filtered = toursArray.filter((t: any) => t.slug && String(t.id) !== String(currentTourId));
 
                 // Exact match helper (case-insensitive, trimmed)
                 const matchPref = (t: string) => {

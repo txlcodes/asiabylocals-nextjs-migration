@@ -135,7 +135,7 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
         style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
       >
         <style>{`div::-webkit-scrollbar { display: none; }`}</style>
-        {tours.map(tour => (
+        {tours.filter(tour => tour.slug).map(tour => (
           <Link
             key={tour.id}
             href={`/${countrySlug}/${citySlug.toLowerCase()}/${tour.slug}`}

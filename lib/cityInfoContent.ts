@@ -13,7 +13,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "things-to-do-in-agra":
                 return {
                     title: "The Ultimate Guide: In-Depth Exploration of Agra (2026 Edition)",
-                    description: "Agra is much more than just the Taj Mahal. Discover the most comprehensive, 3000+ word guide to exploring Agra’s hidden Mughal monuments, authentic street food alleys, bustling bazaars, and unforgettable sunrise viewpoints that most tourists miss.",
+                    description: "Taj Mahal sunrise, Agra Fort, Mughal bazaars, hidden gems & street food — the complete 2026 guide to things to do in Agra.",
                     heroImage: "/blog/things-to-do-agra-hero.jpg",
                     sections: [
                         {
@@ -38,14 +38,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        {
-                            "q": "How many days should I realistically spend in Agra?",
-                            "a": "To truly experience the items on this list, you need 3 days and 2 nights. Most tourists only do a [1-day trip](/india/agra/1-day-agra-itinerary), which means they only see the Taj Mahal and Agra Fort. A 3-day itinerary allows you to explore the local food, the ghost city of Fatehpur Sikri, and the peaceful gardens without severe fatigue."
-                        },
-                        {
-                            "q": "Are female guides available for Taj Mahal tours?",
-                            "a": "Yes, licensed female historian guides are available and highly recommended, especially for groups interested in the history of the Mughal women and the Zenana politics."
-                        }
+                        { q: "How many days should I realistically spend in Agra?", a: "To truly experience Agra, you need **2–3 days**. Most tourists only do a [1-day trip](/india/agra/1-day-agra-itinerary), which means they only see the Taj Mahal and Agra Fort. A 3-day itinerary allows you to explore the local food, the ghost city of Fatehpur Sikri, and the peaceful gardens without severe fatigue." },
+                        { q: "What are the top 5 things to do in Agra?", a: "1. **Taj Mahal at sunrise** — arrive by 5:30 AM for the most magical light. 2. **Agra Fort** — the 94-acre Mughal fortress with Taj views from the Musamman Burj. 3. **Fatehpur Sikri** — Akbar’s abandoned ghost capital, 40 km from Agra. 4. **Mehtab Bagh sunset** — the best sunset view of the Taj from across the Yamuna River. 5. **Kinari Bazaar & Sadar Bazaar** — Mughal-era spice markets and street food." },
+                        { q: "Is the Taj Mahal open every day?", a: "The Taj Mahal is open **every day except Friday**. On Fridays, the monument closes for congregational prayers at the mosque inside the complex. See our [Is Taj Mahal Closed on Friday guide](/india/agra/is-taj-mahal-closed-on-friday) for the best alternative Friday itinerary." },
+                        { q: "What is the best time of year to visit Agra?", a: "**October to March** is ideal — temperatures range from 10–25°C with clear skies. Avoid April–June when temperatures exceed 45°C. The monsoon (July–September) brings dramatic clouds but extreme humidity. The **shoulder months** of October–November and February–March offer the best balance of weather and crowd levels." },
+                        { q: "How much does it cost to visit the Taj Mahal?", a: "Foreign tourists pay **₹1,300** (₹1,100 entry + ₹200 mausoleum supplement), Indian citizens pay **₹250** (₹50 + ₹200). SAARC citizens pay ₹740. Children under 15 enter free. All tickets are **digital-only** — no cash accepted. See our [Taj Mahal ticket price guide](/india/agra/taj-mahal-ticket-price-2026) for the full breakdown." },
+                        { q: "Are female guides available for Taj Mahal tours?", a: "Yes — licensed **female historian guides** are available and highly recommended, especially for groups interested in the history of the Mughal women and the zenana (women’s quarters) politics. Our [Agra tours](/india/agra) include female guide options on request." },
+                        { q: "Can I visit Agra as a day trip from Delhi?", a: "Yes — Agra is **188 km from Delhi** (3–4 hours by car, 100 minutes by [Gatimaan Express](/india/agra/agra-gatimaan-entry-ticket)). A day trip covers the Taj Mahal and Agra Fort comfortably, but you’ll miss the sunset at Mehtab Bagh and the street food experience. For the full Agra experience, an overnight stay is strongly recommended." },
+                        { q: "What street food should I try in Agra?", a: "Agra’s street food is legendary: **Petha** (translucent ash gourd sweet — try saffron and coconut varieties), **Bedai & Jalebi** (spicy lentil pastry with syrupy jalebi — the classic Agra breakfast), **Mughlai paratha** (stuffed flatbread), and **lassi** from the shops near Sadar Bazaar. The **Kinari Bazaar** spice market is a sensory overload of roasted cumin, turmeric, and dry chillies." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
@@ -53,17 +53,20 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             {
                                 "@type": "Article",
                                 "headline": "The Ultimate Guide: In-Depth Exploration of Agra (2026 Edition)",
-                                "description": "Agra is much more than just the Taj Mahal. Discover the most comprehensive, 3000+ word guide to exploring Agra’s hidden Mughal monuments, authentic street food alleys, bustling bazaars, and unforgettable sunrise viewpoints that most tourists miss.",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
-                                "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Person", "name": "Rajesh Verma", "jobTitle": "Licensed Agra Heritage Guide", "knowsAbout": ["Mughal Architecture", "Taj Mahal History", "Agra Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
-                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                                "dateModified": "2026-03-15T10:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
                                 "mainEntity": [
-                                    { "@type": "Question", "name": "How many days should I realistically spend in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "To truly experience the items on this list, you need 3 days and 2 nights. Most tourists only do a 1-day trip, which means they only see the Taj Mahal and Agra Fort. A 3-day itinerary allows you to explore the local food, the ghost city of Fatehpur Sikri, and the peaceful gardens without severe fatigue." } },
-                                    { "@type": "Question", "name": "Are female guides available for Taj Mahal tours?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, licensed female historian guides are available and highly recommended, especially for groups interested in the history of the Mughal women and the Zenana politics." } }
+                                    { "@type": "Question", "name": "How many days should I spend in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "To truly experience Agra, you need 2–3 days. Most tourists only do a 1-day trip, which means they only see the Taj Mahal and Agra Fort. A 3-day itinerary allows you to explore the local food, the ghost city of Fatehpur Sikri, and the peaceful gardens." } },
+                                    { "@type": "Question", "name": "What are the top 5 things to do in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "1. Taj Mahal at sunrise. 2. Agra Fort — the 94-acre Mughal fortress with Taj views. 3. Fatehpur Sikri — Akbar’s abandoned ghost capital. 4. Mehtab Bagh sunset view of the Taj. 5. Kinari Bazaar & Sadar Bazaar — Mughal-era spice markets and street food." } },
+                                    { "@type": "Question", "name": "Is the Taj Mahal open every day?", "acceptedAnswer": { "@type": "Answer", "text": "The Taj Mahal is open every day except Friday. On Fridays, the monument closes for congregational prayers at the mosque inside the complex." } },
+                                    { "@type": "Question", "name": "What is the best time of year to visit Agra?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is ideal — temperatures range from 10–25°C with clear skies. Avoid April–June when temperatures exceed 45°C. The shoulder months of October–November and February–March offer the best balance of weather and crowd levels." } },
+                                    { "@type": "Question", "name": "How much does it cost to visit the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Foreign tourists pay ₹1,300 (₹1,100 entry + ₹200 mausoleum), Indian citizens pay ₹250, SAARC citizens pay ₹740. Children under 15 enter free. All tickets are digital-only — no cash accepted." } },
+                                    { "@type": "Question", "name": "Can I visit Agra as a day trip from Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Agra is 188 km from Delhi (3–4 hours by car, 100 minutes by Gatimaan Express). A day trip covers the Taj Mahal and Agra Fort comfortably, but you’ll miss the sunset at Mehtab Bagh and the street food experience." } },
+                                    { "@type": "Question", "name": "What street food should I try in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "Agra’s essential street food: Petha (translucent ash gourd sweet), Bedai & Jalebi (spicy lentil pastry with syrupy jalebi — the classic Agra breakfast), Mughlai paratha (stuffed flatbread), and lassi from Sadar Bazaar." } }
                                 ]
                             }
                         ]
@@ -78,7 +81,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'places-to-visit-in-agra':
                 return {
                     title: 'Strategic Places to Visit in Agra: A Deep-Dive Directory (2026)',
-                    description: 'Explore the definitive list of historical sites in Agra. This guide goes beyond the surface, offering architectural nuance, historical context, and tactical advice for visiting the city’s crown jewels during the 2026 season.',
+                    description: 'Taj Mahal, Agra Fort, Baby Taj, Fatehpur Sikri & Mehtab Bagh — top places to visit in Agra ranked with entry fees & tips.',
                     heroImage: '/blog/places-hero.jpg',
                     sections: [
                         {
@@ -144,7 +147,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'agra-fort':
                 return {
                     title: "Agra Fort: The Imperial Red Fortress - Ultimate 2026 Guide",
-                    description: "Agra Fort is not just a monument; it is a 94-acre walled city that served as the nerve center of the Mughal Empire for generations. Often overshadowed by the neighboring Taj Mahal, this UNESCO World Heritage site offers a far deeper look into the daily lives, military strategies, and royal intrigues of the emperors. This 2000+ word authority guide covers everything from the fort's architectural evolution to seasonal tactical advice for the 2026 traveler.",
+                    description: "Agra Fort 2026 guide: 94-acre UNESCO fortress, Mughal palaces, Taj Mahal views from Musamman Burj, entry fees & visiting tips.",
                     heroImage: "/agra-fort-authority-hero.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Dynasties', value: 'Lodi, Mughal, Maratha, British' },
@@ -194,9 +197,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        { q: "Is Agra Fort worth visiting if I've seen the Taj Mahal?", a: "Absolutely. Most travelers find the interior of the Fort more architecturally diverse and fascinating than the Taj. It provides the 'human' side of the Mughal story." },
-                        { q: "Is it open on Fridays?", a: "Yes, Agra Fort is open every day of the week, including Fridays." },
-                        { q: "What is the entry fee?", a: "For 2026, the fee is ₹600 for foreigners and ₹50 for locals. A small additional fee applies for online booking." }
+                        { q: "Is Agra Fort worth visiting if I've seen the Taj Mahal?", a: "Absolutely — most travellers find the interior of Agra Fort **more architecturally diverse** than the Taj. While the Taj is a single tomb, the Fort is a 94-acre city containing palaces, mosques, audience halls, and treasury rooms spanning four Mughal emperors. It provides the 'human' side of the Mughal story — where they lived, ruled, and in Shah Jahan's case, spent their final years gazing at the Taj from captivity." },
+                        { q: "Is Agra Fort open on Fridays?", a: "Yes — Agra Fort is **open every day of the week, including Fridays**. Since the [Taj Mahal is closed on Fridays](/india/agra/is-taj-mahal-closed-on-friday), the Fort becomes the anchor of any Friday itinerary. Arrive early (8:00 AM) as crowds can be larger on Fridays when all tourists shift here." },
+                        { q: "What is the Agra Fort entry fee in 2026?", a: "**₹600 for foreign tourists** and ₹50 for Indian citizens (digital-only payment). Tickets must be purchased online — no cash is accepted at the gate. The ticket is valid for the day of purchase only." },
+                        { q: "How long does it take to visit Agra Fort?", a: "Allow **2.5–3 hours** for a thorough visit. The fort spans 94 acres with significant walking distances between the Jahangiri Mahal, Khas Mahal, Musamman Burj, Diwan-i-Aam, and Diwan-i-Khas. A rushed visit (1.5 hours) covers the highlights but misses the details that make the fort exceptional." },
+                        { q: "Can I see the Taj Mahal from Agra Fort?", a: "Yes — the **Musamman Burj** (octagonal marble tower) offers a perfectly framed view of the Taj Mahal across the Yamuna River. This is the same view Shah Jahan had during his 8-year imprisonment by his son Aurangzeb. The Khas Mahal terraces also offer Taj views. Bring a zoom lens (70–200mm) for the best photographs." },
+                        { q: "What is the best time of day to visit Agra Fort?", a: "**Mid-morning (9:00–11:00 AM)** when the red sandstone glows warmest in the light. Avoid midday (12:00–2:00 PM) when the sun heats the stone and temperatures inside can be extreme, especially April–June. The fort closes at sunset." },
+                        { q: "Do I need a guide for Agra Fort?", a: "**Highly recommended.** The fort's history spans four emperors across 200 years — the acoustic secrets of the Diwan-i-Khas, the hidden plumbing systems, and the exact spot where the Koh-i-Noor diamond was kept are details only an expert guide can reveal. Our [Agra Fort tours](/india/agra) pair the fort with the Taj Mahal for complete historical context." },
+                        { q: "Is Agra Fort wheelchair accessible?", a: "**Partially.** The main entrance (Amar Singh Gate) has ramps, but many internal palaces have uneven stone flooring and steps. The upper terrace areas with the best Taj views require stair climbing. Wheelchair users can access the main courtyard and Diwan-i-Aam ground level." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
@@ -204,17 +212,20 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             {
                                 "@type": "Article",
                                 "headline": "Agra Fort: The Imperial Red Fortress - Ultimate 2026 Guide",
-                                "description": "Comprehensive authority guide for visiting Agra Fort in 2026. Includes history, architectural details, and travel strategies.",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
-                                "dateModified": "2026-03-01T10:00:00+05:30",
+                                "dateModified": "2026-03-15T08:00:00+05:30",
                                 "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
                                 "mainEntity": [
-                                    { "@type": "Question", "name": "Is Agra Fort worth visiting if I've seen the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Most travelers find the interior of the Fort more architecturally diverse and fascinating than the Taj. It provides the 'human' side of the Mughal story." } },
-                                    { "@type": "Question", "name": "Is Agra Fort open on Fridays?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Agra Fort is open every day of the week, including Fridays." } },
-                                    { "@type": "Question", "name": "What is the Agra Fort entry fee?", "acceptedAnswer": { "@type": "Answer", "text": "For 2026, the fee is ₹600 for foreigners and ₹50 for locals. A small additional fee applies for online booking." } }
+                                    { "@type": "Question", "name": "Is Agra Fort worth visiting if I've seen the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — most travellers find the interior of Agra Fort more architecturally diverse than the Taj. While the Taj is a single tomb, the Fort is a 94-acre city containing palaces, mosques, audience halls, and treasury rooms spanning four Mughal emperors. It provides the human side of the Mughal story." } },
+                                    { "@type": "Question", "name": "Is Agra Fort open on Fridays?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Agra Fort is open every day of the week, including Fridays. Since the Taj Mahal is closed on Fridays, the Fort becomes the anchor of any Friday itinerary." } },
+                                    { "@type": "Question", "name": "What is the Agra Fort entry fee in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "₹600 for foreign tourists and ₹50 for Indian citizens (digital-only payment). No cash is accepted at the gate." } },
+                                    { "@type": "Question", "name": "How long does it take to visit Agra Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Allow 2.5–3 hours for a thorough visit. The fort spans 94 acres with significant walking distances between the Jahangiri Mahal, Khas Mahal, Musamman Burj, and Diwan-i-Aam." } },
+                                    { "@type": "Question", "name": "Can I see the Taj Mahal from Agra Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Musamman Burj (octagonal marble tower) offers a perfectly framed view of the Taj Mahal across the Yamuna River. This is the same view Shah Jahan had during his 8-year imprisonment." } },
+                                    { "@type": "Question", "name": "What is the best time of day to visit Agra Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Mid-morning (9:00–11:00 AM) when the red sandstone glows warmest. Avoid midday when temperatures inside can be extreme, especially April–June." } },
+                                    { "@type": "Question", "name": "Do I need a guide for Agra Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Highly recommended. The fort's history spans four emperors across 200 years — the acoustic secrets of the Diwan-i-Khas, the hidden plumbing systems, and the exact spot where the Koh-i-Noor diamond was kept are details only an expert guide can reveal." } }
                                 ]
                             }
                         ]
@@ -225,7 +236,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case '1-day-agra-itinerary':
                 return {
                     title: '1-Day Agra Itinerary (2026): A Precision Tactical Plan',
-                    description: 'Traveling to Agra for just 24 hours requires a carefully calibrated strategy. This 1-day guide is designed for high-efficiency explorers who want to see the Taj Mahal, Agra Fort, and local secrets without feeling rushed or overwhelmed by crowds. By optimizing your transport and timing, you can witness the emotional heart of the Mughal Empire in a single, powerful day.',
+                    description: 'Taj Mahal sunrise to Mehtab Bagh sunset — the hour-by-hour 1-day Agra itinerary covering all major Mughal sites in 2026.',
                     heroImage: '/blog/itinerary-hero.jpg',
                     sections: [
                         {
@@ -292,7 +303,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'taj-mahal-ticket-price-2026':
                 return {
                     title: 'Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)',
-                    description: 'Planning a visit in 2026 requires understanding the new digital-only ticketing policy and updated fee structures for international and domestic travelers. This guide provides the complete price breakdown and how to avoid overpaying for your entry.',
+                    description: 'Taj Mahal ticket price 2026: ₹1,300 foreigners, ₹250 Indians, ₹740 SAARC — digital-only booking, mausoleum fee & payment tips.',
                     heroImage: '/things-to-do/agra-taj-mahal-sunrise.webp',
                     sections: [
                         {
@@ -345,10 +356,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        { q: "Can I buy Taj Mahal tickets with cash at the gate?", a: "No. Since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online through the official ASI portal or scan the QR codes provided at the monuments." },
-                        { q: "Is the main tomb entry included in the standard foreigner ticket?", a: "Not automatically. You must specifically select the 'Mausoleum' add-on (₹200) during the checkout process if you wish to climb the marble platform and see the royal cenotaphs." },
-                        { q: "Are children under 15 years old really free?", a: "Yes, for all nationalities. However, they must still have a valid zero-value ticket booked through the online portal, and you may be asked to show a passport copy if the child appears to be near the age limit." },
-                        { q: "Do SAARC citizens need to show their passport?", a: "Yes. To avail of the discounted SAARC rate (₹540 + supplement), you must present an original passport from a member nation at the security check. National IDs or drivers' licenses are often rejected." }
+                        { q: "Can I buy Taj Mahal tickets with cash at the gate?", a: "**No** — since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online through the official ASI portal or scan the QR codes at the entrance. UPI is the fastest payment method; international visitors can use Visa or Mastercard with 'International Usage' enabled." },
+                        { q: "Is the main tomb entry included in the standard foreigner ticket?", a: "Not automatically. You must specifically select the **'Mausoleum' add-on (₹200)** during checkout to climb the marble platform and see the royal cenotaphs of Shah Jahan and Mumtaz Mahal. Without it, you only access the gardens and outer buildings." },
+                        { q: "Are children under 15 years old really free?", a: "Yes — for all nationalities. However, parents must still book a **zero-value ticket** through the online portal for each child. You may be asked to show a passport copy if the child appears to be near the age limit." },
+                        { q: "Do SAARC citizens need to show their passport?", a: "Yes — to avail of the discounted SAARC rate (₹540 + ₹200 = **₹740 total**), you must present an **original passport** from a member nation at the security check. This applies to citizens of Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Pakistan, Sri Lanka, Thailand, and Myanmar. National IDs or driver's licences are rejected." },
+                        { q: "What payment methods are accepted for Taj Mahal tickets?", a: "**UPI** is the fastest and most reliable method for anyone with an Indian bank account. International visitors can use Visa or Mastercard — ensure 'International Usage' is enabled before arriving. No cash is accepted at any ticket window. Pro tip: book from your hotel during breakfast, as cellular networks near the monument can be jammed." },
+                        { q: "What is included with the foreigner (High-Value) ticket?", a: "The foreigner ticket is a bundled package that includes: entry to the gardens and monument complex, a **500ml water bottle**, **disposable shoe covers** (mandatory for the marble platform), and a basic Agra tourist map. These are collected at the foreigner-specific amenities counter on arrival." },
+                        { q: "Can I re-enter the Taj Mahal on the same ticket?", a: "**No** — the Taj Mahal maintains a strict single-entry policy. Once you scan your QR code and exit the turnstiles, your ticket becomes void. Re-entry is not permitted. Plan to spend your full 3-hour window inside the complex." },
+                        { q: "Is the Taj Mahal open every day?", a: "The Taj Mahal is open every day **except Friday**, when it is closed for congregational prayers at the mosque inside the complex. No exceptions are made. See our [Is Taj Mahal Closed on Friday guide](/india/agra/is-taj-mahal-closed-on-friday) for the best alternative Friday itinerary." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
@@ -396,7 +411,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'taj-mahal-opening-time':
                 return {
                     title: 'Taj Mahal Opening & Closing Time (2026): The Definitive Timing Guide',
-                    description: 'Knowing the exact opening and closing times for the Taj Mahal can make the difference between a once-in-a-lifetime sunrise experience and standing in a three-hour queue in the heat. This 2026 guide covers seasonal variations, Friday closures, and tactical advice for every visiting window.',
+                    description: 'Taj Mahal opening time 2026: gates open 6 AM daily, closed Fridays, night viewing on full moons — seasonal hours & entry tips.',
                     heroImage: '/things-to-do/agra-taj-mahal-sunset.webp',
                     sections: [
                         {
@@ -425,11 +440,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        { q: "What is the exact opening time of the Taj Mahal?", a: "The gates officially open at 06:00 AM daily, except on Fridays when the monument is closed to the public." },
-                        { q: "Can I enter the Taj Mahal after 5:30 PM?", a: "No. The ticket counters and final entry gates usually stop admitting visitors 30 minutes before the official sunset closing time." },
-                        { q: "Is the Taj Mahal open on public holidays?", a: "Yes, the monument remains open on all national and public holidays, unless the holiday falls on a Friday." },
-                        { q: "How long can I stay inside the Taj Mahal?", a: "A standard entry ticket is valid for 3 hours from the time of entry. This is monitored via the QR code exit scan." },
-                        { q: "What is the best time of year to visit?", a: "The 'Shoulder Season' of October-November and February-March offers the best balance of clear skies, comfortable temperatures, and good visibility." }
+                        { q: "What is the exact opening time of the Taj Mahal?", a: "The gates officially open at **06:00 AM daily**, except on Fridays when the monument is closed to the public. To be among the first visitors for the sunrise experience, join the queue by 5:30 AM — security screening begins before the official opening time." },
+                        { q: "Can I enter the Taj Mahal after 5:30 PM?", a: "**No** — ticket counters and final entry gates stop admitting visitors 30 minutes before the official sunset closing time. The closing time varies seasonally but is typically around 6:30 PM." },
+                        { q: "Is the Taj Mahal open on public holidays?", a: "Yes — the monument remains **open on all national and public holidays**, unless the holiday falls on a Friday. The Friday closure for congregational prayers is absolute, regardless of what holiday coincides." },
+                        { q: "How long can I stay inside the Taj Mahal?", a: "A standard entry ticket is valid for **3 hours** from the time of entry. This is monitored via the QR code exit scan. If you exceed this time, you may be asked to pay an additional fee. Plan your visit to maximise this window." },
+                        { q: "What is the best time of year to visit the Taj Mahal?", a: "The **shoulder seasons** of October–November and February–March offer the best balance of clear skies, comfortable temperatures, and good visibility. December–January is peak season with the most crowds and morning fog. Summer (April–June) sees extreme heat but fewer tourists at sunrise." },
+                        { q: "Is there night viewing at the Taj Mahal?", a: "Yes — limited night viewing is available on the **full moon night** and two nights before and after it (five nights per lunar cycle). Hours are 8:30 PM to 12:30 AM, in batches of 50 visitors for 30 minutes each. Tickets must be booked 24 hours in advance at the ASI office. Not available on Fridays or during Ramadan." },
+                        { q: "Which gate should I use to enter the Taj Mahal?", a: "The **East Gate** (Shilpgram) is typically less crowded than the West Gate, which handles large tour buses from the city centre. Your ticket is gate-specific — you must enter through the gate selected during booking. The South Gate is occasionally open but less consistent." },
+                        { q: "What happens if I arrive during winter fog?", a: "January fog is common in Agra and can completely **obscure the Taj Mahal until 10:00 AM**. If visiting in winter, check the local weather forecast for visibility before choosing a sunrise slot. Alternatively, plan a late-morning visit (10:00–11:30 AM) when the fog lifts and the marble glows in clear winter sunlight." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
@@ -476,7 +494,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'is-taj-mahal-closed-on-friday':
                 return {
                     title: 'Is the Taj Mahal Closed on Friday? (2026 Strategy Guide)',
-                    description: 'The most common mistake travelers make in Agra is arriving at the Taj Mahal gates on a Friday. As of 2026, the policy remains absolute: the monument is closed for general tourism every single Friday. This guide explains why and how to salvage your Friday in Agra with a high-value alternative itinerary.',
+                    description: 'Yes, the Taj Mahal is closed every Friday in 2026 for prayers. Mehtab Bagh views, Agra Fort & the best Friday itinerary instead.',
                     heroImage: '/blog/friday-closure-hero.jpg',
                     sections: [
                         {
@@ -538,7 +556,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "agra-travel-guide-2026":
                 return {
                     title: "Agra Travel Guide 2026: The Ultimate 3000-Word Masterclass for Travelers",
-                    description: "Agra is one of India’s most historically rich cities, standing as the former capital of the Mughal Empire. Known globally for the Taj Mahal, the city is a living museum of Persian-Indian fusion, intricate stonework, and royal heritage. This definitive 2026 guide provides the tactical intelligence required to navigate the city’s crowds, climate, and culture with ease.",
+                    description: "Agra travel guide 2026: Mughal history, Taj Mahal strategy, Agra Fort, street food, bazaars, photography tips & seasonal planning.",
                     heroImage: "/blog/agra-guide-hero.jpg",
                     sections: [
                         {
@@ -600,14 +618,14 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
-                        {
-                            "q": "Is Agra safe for solo travelers?",
-                            "a": "Yes, Agra is generally safe. Use common sense, use app-based taxis for night travel, and stay in well-reviewed areas like Taj East Gate Road."
-                        },
-                        {
-                            "q": "What is the best way to avoid the Taj Mahal crowds?",
-                            "a": "Arrive at the West or East gate by 5:30 AM. The first 30 minutes after opening provide the only window for crowd-free photography."
-                        }
+                        { q: "Is Agra safe for solo travellers?", a: "Yes — Agra is generally safe for solo travellers, including **solo women**. Stick to well-reviewed areas like Taj East Gate Road for accommodation. Use Uber/Ola for transport (avoid auto-rickshaw negotiations at night). The monument areas are well-patrolled by CISF guards. A [licensed local guide](/india/agra) adds both safety and depth to the experience." },
+                        { q: "What is the best way to avoid the Taj Mahal crowds?", a: "Arrive at the East Gate by **5:30 AM** — the first 30 minutes after opening provide the only window for crowd-free photography. Alternatively, visit during the **shoulder season** (October–November or February–March) when tourist density is lower than the peak December–January period." },
+                        { q: "How do I get from Delhi to Agra?", a: "The **[Gatimaan Express](/india/agra/agra-gatimaan-entry-ticket)** is the fastest train (100 minutes, ₹750–₹1,500). Private cars via the Yamuna Expressway take 3–4 hours (₹3,000–₹5,000 one-way). Uber is available but can be unreliable for long-distance. For a hassle-free day trip, our [Delhi to Agra tours](/india/delhi) include air-conditioned transport, guide, and all tickets." },
+                        { q: "What should I eat in Agra?", a: "Agra's Mughlai cuisine is legendary: **Petha** (translucent ash gourd sweet — try saffron variety), **Bedai & Jalebi** (the classic Agra breakfast), **Mughlai paratha**, butter chicken at rooftop restaurants with Taj views, and **lassi** from Sadar Bazaar. The **Kinari Bazaar** spice market is a sensory overload worth exploring." },
+                        { q: "What is the best month to visit Agra?", a: "**October to March** is the most comfortable period. October–November offers warm days and clear skies. December–January is peak season with morning fog possible. February–March has the best visibility and pleasant temperatures. Avoid April–June when temperatures exceed 45°C." },
+                        { q: "Can I visit Agra in one day?", a: "Yes — a well-planned [1-day Agra itinerary](/india/agra/1-day-agra-itinerary) covers the Taj Mahal (sunrise), Agra Fort (morning), lunch with Taj views, Baby Taj (afternoon), and Mehtab Bagh (sunset). However, an overnight stay allows for a more relaxed experience including the bazaars and street food." },
+                        { q: "What should I not bring to the Taj Mahal?", a: "**Restricted items**: large backpacks, tripods, cigarette lighters, tobacco, food, power banks, and books. There are **no safe locker facilities** at the gate — leave restricted items at your hotel. Carry only your phone, camera, water bottle, and pre-booked digital ticket (download offline)." },
+                        { q: "Is Agra worth visiting beyond the Taj Mahal?", a: "Absolutely — Agra was the **capital of the Mughal Empire** and has far more to offer: Agra Fort (94-acre UNESCO fortress), Itimad-ud-Daula (Baby Taj — the architectural precursor to the Taj), Fatehpur Sikri (Akbar's ghost capital, 40 km away), the Kinari Bazaar spice market, and the marble inlay workshops of Pietra Dura artisans. Two days allows you to experience all of this." }
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
@@ -616,15 +634,19 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                                 "@type": "Article",
                                 "headline": "Agra Travel Guide 2026",
                                 "datePublished": "2026-01-01T08:00:00+05:30",
-                                "dateModified": "2026-03-01T10:00:00+05:30",
-                                "author": { "@type": "Person", "name": "Rajesh Verma", "jobTitle": "Licensed Agra Heritage Guide", "knowsAbout": ["Mughal Architecture", "Taj Mahal History", "Agra Culture"], "worksFor": { "@type": "Organization", "name": "AsiaByLocals" } },
-                                "publisher": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "logo": { "@type": "ImageObject", "url": "https://www.asiabylocals.com/logo.png" } }
+                                "dateModified": "2026-03-15T10:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
                             },
                             {
                                 "@type": "FAQPage",
                                 "mainEntity": [
-                                    { "@type": "Question", "name": "Is Agra safe for tourists?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Agra is generally safe. Use common sense, use app-based taxis for night travel, and stay in well-reviewed areas like Taj East Gate Road." } },
-                                    { "@type": "Question", "name": "What is the best way to avoid Taj Mahal crowds?", "acceptedAnswer": { "@type": "Answer", "text": "Arrive at the West or East gate by 5:30 AM. The first 30 minutes after opening provide the only window for crowd-free photography." } }
+                                    { "@type": "Question", "name": "Is Agra safe for solo travellers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Agra is generally safe for solo travellers, including solo women. Stick to well-reviewed areas like Taj East Gate Road. Use Uber/Ola for transport. Monument areas are well-patrolled by CISF guards." } },
+                                    { "@type": "Question", "name": "What is the best way to avoid Taj Mahal crowds?", "acceptedAnswer": { "@type": "Answer", "text": "Arrive at the East Gate by 5:30 AM — the first 30 minutes after opening provide the only window for crowd-free photography." } },
+                                    { "@type": "Question", "name": "How do I get from Delhi to Agra?", "acceptedAnswer": { "@type": "Answer", "text": "The Gatimaan Express is the fastest train (100 minutes, ₹750–₹1,500). Private cars via the Yamuna Expressway take 3–4 hours." } },
+                                    { "@type": "Question", "name": "What is the best month to visit Agra?", "acceptedAnswer": { "@type": "Answer", "text": "October to March is the most comfortable period. October–November offers warm days and clear skies. February–March has the best visibility and pleasant temperatures. Avoid April–June when temperatures exceed 45°C." } },
+                                    { "@type": "Question", "name": "Can I visit Agra in one day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a well-planned 1-day itinerary covers the Taj Mahal (sunrise), Agra Fort (morning), Baby Taj (afternoon), and Mehtab Bagh (sunset). However, an overnight stay allows for the bazaars and street food experience." } },
+                                    { "@type": "Question", "name": "What should I eat in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "Agra's Mughlai cuisine essentials: Petha (translucent ash gourd sweet), Bedai & Jalebi (the classic Agra breakfast), Mughlai paratha, butter chicken at rooftop restaurants with Taj views, and lassi from Sadar Bazaar." } },
+                                    { "@type": "Question", "name": "Is Agra worth visiting beyond the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — Agra was the capital of the Mughal Empire with far more to offer: Agra Fort (94-acre UNESCO fortress), Baby Taj, Fatehpur Sikri (Akbar's ghost capital), the Kinari Bazaar spice market, and marble inlay workshops." } }
                                 ]
                             }
                         ]
@@ -639,7 +661,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "taj-mahal":
                 return {
                     title: "Taj Mahal – Complete 2026 Visitor Guide",
-                    description: "The Taj Mahal is not merely a monument; it is a profound testament to love, an architectural masterpiece of the Mughal Empire, and a UNESCO World Heritage site that draws millions annually. This high-authority guide provides everything you need to know for your 2026 visit, from historical deep-dives to tactical navigation of ticket systems and opening times.",
+                    description: "Taj Mahal 2026 guide: history, architecture, sunrise strategy, ticket booking, best photography spots & what to see inside.",
                     heroImage: "/taj-mahal-new.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Year Built', value: '1631 - 1653' },
@@ -708,10 +730,25 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     ],
                     jsonLd: {
                         "@context": "https://schema.org",
-                        "@type": "Article",
-                        "headline": "Taj Mahal – Complete 2026 Visitor Guide",
-                        "description": "The definitive monument guide for the Taj Mahal in 2026. History, architecture, tickets, and travel tips for a premium experience.",
-                        "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "Taj Mahal – Complete 2026 Visitor Guide",
+                                "dateModified": "2026-03-15",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How long should I spend at the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "A standard visit takes 2 to 3 hours. This allows time for security entry, walking the main platform, visiting the mosque, and relaxing in the gardens. Your ticket is valid for a maximum of 3 hours from the time of entry." } },
+                                    { "@type": "Question", "name": "What should I wear to the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "There is no strict religious dress code, but modest clothing is recommended. Loose, breathable cotton is best for the heat. You must remove your shoes or use the provided shoe covers on the white marble platform." } },
+                                    { "@type": "Question", "name": "Is the Taj Mahal wheelchair accessible?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the main complex is relatively accessible. Wheelchairs are available at the gates and there are ramps to access the raised platform. However, the internal mausoleum chambers have small steps and can be difficult to navigate." } },
+                                    { "@type": "Question", "name": "Does the Taj Mahal really change colours?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — due to the translucency of the Makrana marble, the monument reacts to changing light. It appears pinkish at sunrise, brilliant white at noon, and golden or sapphire at sunset and under moonlight." } },
+                                    { "@type": "Question", "name": "Can I bring my camera inside the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Still photography is permitted for personal use. Video cameras are technically allowed but may require a separate fee. Drones and tripods are strictly prohibited at all ASI monuments." } },
+                                    { "@type": "Question", "name": "Is the Taj Mahal closed on Fridays?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the Taj Mahal is closed every Friday for congregational prayers at the mosque inside the complex. No exceptions are made for tourists. See the Friday alternative itinerary guide for the best things to do in Agra on a Friday." } }
+                                ]
+                            }
+                        ]
                     }
                 };
             case 'fatehpur-sikri':
@@ -843,7 +880,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "agra-gatimaan-entry-ticket":
                 return {
                     title: "Gatimaan Express Delhi to Agra — Ticket Price, Timings & Booking Guide 2026",
-                    description: "The Gatimaan Express is the fastest train between Delhi and Agra — covering 188 km in just 100 minutes at speeds up to 160 km/h. This is your complete 2026 guide to ticket prices, booking, timings, and how to plan a perfect Delhi–Agra day trip using India's fastest semi-high-speed train.",
+                    description: "Gatimaan Express 2026: Delhi–Agra in 100 mins, ticket prices from ₹750, timings, booking tips & day trip planning guide.",
                     heroImage: "/agra-hero.jpg",
                     fastFacts: [
                         { icon: "Clock", label: "Journey Time", value: "100 minutes (Delhi → Agra)" },
