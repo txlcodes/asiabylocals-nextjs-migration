@@ -39,6 +39,8 @@ import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
+import { getTourReviews } from '@/lib/tourReviews';
+import type { TourReview } from '@/lib/tourReviews';
 
 interface TourDetailClientProps {
   tour: any;
@@ -2494,6 +2496,108 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       })()}
                     </div>
                   </section>
+
+                  {/* Section 6: Traveler Reviews */}
+                  {(() => {
+                    const reviewData = getTourReviews(tourSlug);
+                    if (!reviewData) return null;
+
+                    const formatReviewDate = (dateStr: string) => {
+                      const d = new Date(dateStr + 'T00:00:00');
+                      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+                    };
+
+                    const avatarColors = ['#1a2e44', '#2d5016', '#6b2c91', '#b45309', '#0e7490', '#be123c'];
+
+                    return (
+                      <section className="lg:col-span-2 mt-8">
+                        <h2 className="text-2xl font-black text-[#001A33] mb-6">Traveler Reviews</h2>
+
+                        {/* Rating Summary */}
+                        <div className="flex flex-col sm:flex-row gap-8 mb-6">
+                          {/* Left: Big rating */}
+                          <div className="flex flex-col items-center sm:items-start">
+                            <div className="flex items-baseline gap-1">
+                              <span className="text-5xl font-black text-[#001A33]">{reviewData.averageRating}</span>
+                              <span className="text-xl text-gray-400 font-semibold">/5</span>
+                            </div>
+                            <div className="flex items-center gap-0.5 mt-1">
+                              {[...Array(5)].map((_, i) => (
+                                <Star
+                                  key={i}
+                                  size={22}
+                                  className={i < Math.round(reviewData.averageRating) ? 'text-[#001A33] fill-[#001A33]' : 'text-gray-200 fill-gray-200'}
+                                />
+                              ))}
+                            </div>
+                            <span className="text-sm text-gray-500 font-semibold mt-1">based on {reviewData.totalReviews} reviews</span>
+                          </div>
+
+                          {/* Right: Category bars */}
+                          <div className="flex-1 flex flex-col gap-3 justify-center max-w-sm">
+                            <div className="flex items-center gap-3">
+                              <span className="text-sm font-semibold text-gray-700 w-32">Guide</span>
+                              <div className="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
+                                <div className="h-full bg-[#001A33] rounded-full" style={{ width: `${(reviewData.guideRating / 5) * 100}%` }} />
+                              </div>
+                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{reviewData.guideRating}/5</span>
+                            </div>
+                            <div className="flex items-center gap-3">
+                              <span className="text-sm font-semibold text-gray-700 w-32">Value for money</span>
+                              <div className="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
+                                <div className="h-full bg-[#001A33] rounded-full" style={{ width: `${(reviewData.valueRating / 5) * 100}%` }} />
+                              </div>
+                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{reviewData.valueRating}/5</span>
+                            </div>
+                          </div>
+                        </div>
+
+                        {/* Verified badge */}
+                        <div className="flex items-center gap-2 text-sm text-gray-500 font-semibold mb-6 pb-6 border-b border-gray-200">
+                          <Info size={16} className="text-gray-400" />
+                          All reviews are from verified AsiaByLocals travelers
+                        </div>
+
+                        {/* Individual Reviews */}
+                        <div className="space-y-0">
+                          {reviewData.reviews.map((review: TourReview, idx: number) => (
+                            <div key={idx} className={`py-6 ${idx < reviewData.reviews.length - 1 ? 'border-b border-gray-100' : ''}`}>
+                              {/* Stars */}
+                              <div className="flex items-center gap-1.5 mb-3">
+                                {[...Array(5)].map((_, i) => (
+                                  <Star
+                                    key={i}
+                                    size={16}
+                                    className={i < review.rating ? 'text-[#001A33] fill-[#001A33]' : 'text-gray-200 fill-gray-200'}
+                                  />
+                                ))}
+                                <span className="text-sm font-bold text-[#001A33] ml-1">{review.rating}</span>
+                              </div>
+
+                              {/* Author info */}
+                              <div className="flex items-center gap-3 mb-3">
+                                <div
+                                  className="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold shrink-0"
+                                  style={{ backgroundColor: avatarColors[idx % avatarColors.length] }}
+                                >
+                                  {review.author.charAt(0)}
+                                </div>
+                                <div>
+                                  <div className="text-sm font-bold text-[#001A33]">
+                                    {review.author} <span className="font-normal text-gray-500">&ndash; {review.country}</span>
+                                  </div>
+                                  <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.date)}</div>
+                                </div>
+                              </div>
+
+                              {/* Review text */}
+                              <p className="text-[15px] text-gray-700 font-medium leading-relaxed">{review.text}</p>
+                            </div>
+                          ))}
+                        </div>
+                      </section>
+                    );
+                  })()}
                 </div>
               </div>
         </div>
