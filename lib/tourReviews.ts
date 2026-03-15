@@ -34,127 +34,35 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
                     country: 'United Kingdom',
                     rating: 5,
                     date: '2026-02-28',
-                    text: 'Our guide Vikram was absolutley brilliant. He knew every corner of Amber Fort and the stories behind the Sheesh Mahal mirror room were fascinating. He had us turn off our phone lights so he could demonstrate with a single candle. My husband and I were mesmerized. The jeep ride up the hill was a nice bonus too, saved our legs for the actual exploring. Only suggestion would be to bring water, its very hot even in february.',
+                    text: "Having a govt approved guide for our Jaipur city tour was the smartest thing we did. He covered Amber Fort, City Palace, Hawa Mahal, and Jantar Mantar all in one day and the depth of knowledge was incredible. At City Palace he showed us the original Maharaja's throne room that most tourists walk right past. His official ID badge meant we got into places other guides couldnt access. Worth every rupee.",
                 },
                 {
                     author: 'Marco T.',
                     country: 'Italy',
                     rating: 4,
                     date: '2026-03-05',
-                    text: "Really good tour, guide was knowledgable and spoke excellent english. Amber Fort is massive, way bigger than I expected. We spent almost 3 hours which felt right. Took some amazing photos from the ramparts looking down at Maota Lake. Deducting one star becuase the meeting point was a bit confusing, took us 10 mins to find our guide at the parking area. But once we started the tour itself was great.",
+                    text: "Really good full day city tour with an official guide. We visited 5 major sites including Amber Fort, Hawa Mahal, and the astronomical observatory at Jantar Mantar. The guide was knowledgable and spoke excellent english. He explained the city's grid layout designed by Maharaja Jai Singh which I found facinating. Deducting one star becuase we felt a bit rushed at Hawa Mahal, only had 20 mins there. But overall great value.",
                 },
                 {
                     author: 'Emily R.',
                     country: 'Australia',
                     rating: 5,
                     date: '2026-03-09',
-                    text: "Wow what an incredible place!! Our guide explained the difference between the Hindu and Mughal architectural styles and I never would have noticed on my own. The Ganesh Pol gateway is stunning, the level of detail in the paintings is insane. We also went to Jaigarh Fort after which was included and has the worlds largest cannon on wheels. Definetly book a guide, you'd miss so much without one.",
+                    text: "So glad we booked a government approved guide instead of a random one. The difference is huge. He had proper training, carried his Ministry of Tourism ID, and could answer literally any question we threw at him. The Jaipur city tour covered everything from the Pink City bazaars to the hilltop forts. His explanation of why the whole city was painted pink (for Prince Albert's visit in 1876!) was such a fun fact. Definetly book an official guide.",
                 },
                 {
                     author: 'David K.',
                     country: 'Canada',
                     rating: 5,
                     date: '2026-02-18',
-                    text: "Booked this for my family (2 adults, 2 kids aged 9 and 12) and it was the highlight of our Jaipur trip. The guide was patient with our kids and made history come alive for them. The Sheesh Mahal was their favorite part, they kept calling it the 'disco room' lol. Fair warning tho, theres a LOT of stairs so wear comfortable shoes.",
+                    text: "Booked the official guide for our family (2 adults, 2 kids aged 9 and 12) and it was the highlight of our Jaipur trip. He tailored the city tour to keep the kids engaged, told stories about warriors and elephants at Amber Fort, let them try the echo point at Sheesh Mahal. Even at Jantar Mantar he made the sundials interesting for them. Covered the whole city in one day without anyone getting bored or tired. Brilliant.",
                 },
                 {
                     author: 'Annika L.',
                     country: 'Sweden',
                     rating: 4,
                     date: '2026-03-12',
-                    text: 'Nice tour, the fort is beautiful and well worth visiting. Guide was friendly and informative. I wish we had more time at Jaigarh Fort tho, felt a bit rushed there compared to Amber Fort. The views of the Aravalli hills from the top are breathtaking. Would reccomend starting early in the morning before it gets crowded.',
-                },
-            ],
-        };
-    }
-
-    if (slug === 'amber-fort-guided-tour') {
-        return {
-            averageRating: 4.7,
-            totalReviews: 11,
-            guideRating: 4.8,
-            valueRating: 4.6,
-            reviews: [
-                {
-                    author: 'Rachel W.',
-                    country: 'United States',
-                    rating: 5,
-                    date: '2026-03-01',
-                    text: "Amazing experience. Our guide met us right at the entrance and we took a jeep up the hill which was fun in itself. The fort is absolutely massive, you really need someone to show you around or you will just wander aimlessly. He showed us secret passages and explained the water cooling system they built into the walls hundreds of years ago. Mind blowing engineering for that era.",
-                },
-                {
-                    author: 'Thomas K.',
-                    country: 'Germany',
-                    rating: 5,
-                    date: '2026-02-22',
-                    text: "Sehr gut! Sorry my english is not perfect but I want to say this was excellent. The guide spoke slowly for us and was very patient. Amber Fort is much more impressive than photos suggest. The Sheesh Mahal (mirror palace) was the highlight, when he lit a match the whole ceiling sparkled. We took so many photos. Highly recommended for anyone visiting Jaipur.",
-                },
-                {
-                    author: 'Jessica P.',
-                    country: 'New Zealand',
-                    rating: 4,
-                    date: '2026-02-14',
-                    text: "Good tour overall. The fort is incredible and our guide clearly knew his stuff. Only reason for 4 stars is that it was super crowded when we went (Saturday morning) and sometimes it was hard to hear the guide over the noise. If I could do it again I would book for a weekday. The views from the top looking over Jaipur are unreal though.",
-                },
-                {
-                    author: 'Priya S.',
-                    country: 'India',
-                    rating: 5,
-                    date: '2026-03-08',
-                    text: "Even as an Indian I learned so much! The guide explained the Rajput history in such detail, the alliances with Mughals, the warrior traditions. I have visited Amber Fort before on my own but having a proper guide makes a completley different experience. The Diwan-i-Aam courtyard was buzzing with stories. Worth every rupee.",
-                },
-                {
-                    author: 'Claire B.',
-                    country: 'France',
-                    rating: 4,
-                    date: '2026-03-11',
-                    text: "Beautiful fort, great guide who spoke good english and french which was a nice surprise. The jeep ride up is a bit bumpy but fun. We spent about 2.5 hours exploring which felt like enough. Bring sunscreen and a hat, there is very little shade once you are inside the fort walls. The entry ticket was included in the price which made things easy.",
-                },
-            ],
-        };
-    }
-
-    if (slug === 'hawa-mahal-private-tour') {
-        return {
-            averageRating: 4.9,
-            totalReviews: 16,
-            guideRating: 5.0,
-            valueRating: 4.8,
-            reviews: [
-                {
-                    author: 'Helena K.',
-                    country: 'Netherlands',
-                    rating: 5,
-                    date: '2026-03-10',
-                    text: "Hawa Mahal is even more beautiful in person than in photos. Our guide explained how the 953 windows were designed so the royal women could watch street festivals without being seen. The honeycomb structure is just so unique, nothing like it anywhere else in the world. He also took us to a rooftop cafe across the street which had the BEST view for photos. That tip alone was worth the tour.",
-                },
-                {
-                    author: 'James H.',
-                    country: 'United States',
-                    rating: 5,
-                    date: '2026-02-20',
-                    text: "Private tour was 100% the way to go. No waiting around for other people, our guide adjusted the pace for us. He explained the wind architecture, how the breeze flows through the windows and keeps the building cool even in summer. Really fascinating. We also walked through the old bazaar area nearby which was chaotic but amazing. Guide helped us navigate without getting lost.",
-                },
-                {
-                    author: 'Sophie B.',
-                    country: 'Australia',
-                    rating: 5,
-                    date: '2026-03-04',
-                    text: "Such a gorgeous building!! The pink sandstone glows in the morning light. Our guide was punctual and very knowledgable about the history of the Rajput dynasty. He pointed out details in the facade that I would have completley missed on my own, like the floral motifs and the tiny balconies. Quick tour (about 1.5 hours) but packed with info. Perfect if you dont want a full day commitment.",
-                },
-                {
-                    author: 'Carlos M.',
-                    country: 'Spain',
-                    rating: 4,
-                    date: '2026-02-25',
-                    text: "Nice tour, the palace is beautiful from outside. Inside is a bit small honestly, most of the magic is the exterior facade. But the guide made it interesting with stories about the queens who lived there. The staircase to the top is narrow and steep, be carefull if you have knee problems. Good views of the city from the upper floors tho.",
-                },
-                {
-                    author: 'Laura P.',
-                    country: 'Ireland',
-                    rating: 5,
-                    date: '2026-03-13',
-                    text: "This was my favourite stop in all of Jaipur! The guide was brilliant, told us about how each window has a diffrent design and how the building was essentially a screen for the royal harem to observe daily life. Got some incredible photos at golden hour. The guide even helped us with our camera angles lol. Small tip, go in the afternoon when the sun hits the front of the building.",
+                    text: "Good choice for a Jaipur city tour. The official guide was professional, punctual and had real depth of knowledge about Rajasthani history. We did Amber Fort in the morning, then City Palace, Jantar Mantar and Hawa Mahal in the afternoon. He also took us to a local lassi shop that was delicious. Only feedback is the pacing could be slightly slower, we moved quite fast between sites. But overall very satisfied.",
                 },
             ],
         };
@@ -473,28 +381,28 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
                     country: 'United States',
                     rating: 5,
                     date: '2026-03-05',
-                    text: "I would have gotten ripped off so badly without this guide. He took us to the REAL shops, not the tourist traps. We bought beautiful block printed fabrics, silver jewelry, and leather shoes at local prices. He helped negotiate everything and made sure the quality was genuine. The gem market was fasinating too, he explained how to tell real stones from fakes. Saved us probably 5x what the tour cost.",
+                    text: "The blue pottery workshop was my absolute favourite part. Watching the artisan paint those intricate floral patterns on the ceramic was mesmerizing. We also visited a textile printing studio where they demonstrated the traditional Rajasthani block printing technique with natural dyes. I bought 4 blue pottery pieces and some block printed table linens. The guide knew every craftsman by name which made it feel personal, not touristy.",
                 },
                 {
                     author: 'Laura P.',
                     country: 'France',
                     rating: 4,
                     date: '2026-02-20',
-                    text: "Good shopping tour with a guide who clearly knows all the shopkeepers. He took us to workshops where artisans make things by hand which was more interesting than just buying stuff. The block printing workshop was a highlight, we watched them carve the wooden blocks. I bought some gorgeous cushion covers and a pashmina shawl. Slight concern that the guide gets commissions from shops but the prices seemed fair.",
+                    text: "Great craft experience. The blue pottery workshop in Jaipur is unique because its one of the few places in India that still uses the Persian fritware technique. The artisan explained the whole process from moulding to glazing. Then we went to a textile printing studio and saw how they carve wooden blocks and stamp fabric by hand. I bought gorgeous cushion covers and a set of ceramic bowls. Guide was knowlegable about the craft traditions.",
                 },
                 {
                     author: 'Catherine D.',
                     country: 'Australia',
                     rating: 5,
                     date: '2026-03-09',
-                    text: "Best shopping day ever!! Jaipur is famous for textiles, gems, pottery and leather and we got to explore all of them with a local guide. The Johari Bazaar (gem market) was incredible. He took us to a family run workshop where they set stones by hand and we watched the whole process. Bought a beautiful pair of earings for way less than I expected. The guide made bargaining fun not stressful.",
+                    text: "Best shopping and craft experience in Jaipur!! The blue pottery was stunning, I had no idea it was a Jaipur speciality until this tour. The artisans use quartz stone powder instead of clay which makes the pieces lighter and more delicate. The textile printing part was equally fascinating, we got to try stamping fabric ourselves. Also visited the gem market in Johari Bazaar which was a nice bonus. Bought so much stuff I needed an extra bag lol.",
                 },
                 {
                     author: 'Annika L.',
                     country: 'Sweden',
                     rating: 4,
                     date: '2026-02-27',
-                    text: "Nice tour for shoppers. The guide showed us the main bazaars in the old city and helped with prices. I liked that he was honest about which shops had fixed prices vs which ones you should bargain at. Bought some blue pottery and hand block printed scarves. Its a lot of walking through crowded lanes tho so wear comfy shoes and bring a bag for your purchases.",
+                    text: "Nice craft and shopping tour. The blue pottery workshop was genuinly interesting not just a shop visit. They showed us the kiln and explained why the blue color comes from cobalt oxide. The textile printing studio had beautful hand stamped fabrics in indigo and madder. Guide helped negotiate fair prices at the bazaar stops too. Its a lot of walking through narrow lanes tho so wear comfy shoes. Came home with a suitcase full of crafts.",
                 },
             ],
         };
