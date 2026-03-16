@@ -3773,10 +3773,10 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
 
     if (slug === 'explore-old-new-delhi-city-luxury-car-tour') {
         return {
-            averageRating: 4.8,
-            totalReviews: 11,
+            averageRating: 4.7,
+            totalReviews: 48,
             guideRating: 4.9,
-            valueRating: 4.7,
+            valueRating: 4.6,
             reviews: [
                 {
                     author: 'George P.',
