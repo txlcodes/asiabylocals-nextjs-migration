@@ -354,10 +354,10 @@ export default async function SlugPage({ params }: Props) {
     agra: [
       { slug: 'taj-mahal-entry-ticket', title: 'Taj Mahal Entry Ticket & Guided Tour' },
       { slug: 'taj-mahal-sunrise-guided-tour', title: 'Taj Mahal Sunrise Guided Tour' },
-      { slug: 'book-official-tour-guide-for-taj-mahal', title: 'Book Official Tour Guide for Taj Mahal' },
+      { slug: 'taj-mahal-official-guided-tour', title: 'Book Official Tour Guide for Taj Mahal' },
       { slug: 'agra-city-highlights-tour', title: 'Agra City Highlights Tour' },
-      { slug: 'agra-fatehpur-sikri-day-trip', title: 'Agra & Fatehpur Sikri Day Trip' },
-      { slug: 'book-tour-guide-for-fatehpur-sikri-visit', title: 'Book Tour Guide for Fatehpur Sikri' },
+      { slug: 'fatehpur-sikri-guided-tour', title: 'Fatehpur Sikri Guided Tour' },
+      { slug: 'taj-mahal-fatehpur-full-day-tour', title: 'Taj Mahal & Fatehpur Sikri Full Day Tour' },
       { slug: 'agra-friday-tour-taj-closed-alternative', title: 'Agra Friday Tour - Taj Closed Alternative' },
     ],
     delhi: [
