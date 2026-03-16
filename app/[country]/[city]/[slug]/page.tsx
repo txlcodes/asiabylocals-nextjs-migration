@@ -72,13 +72,54 @@ function stripMarkdown(text: string): string {
 // SEO title overrides — when the database title doesn't match the target keyword
 // These override ONLY the meta title tag, not the on-page H1 (H1 comes from tour.title)
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
+  // Jaipur
   'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour – Jaipur',
   'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
   'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
-  'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private City Sightseeing',
-  'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
   'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
-  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Local Guide in Agra',
+  'jaipur-block-printing-workshop': 'Jaipur Block Printing Workshop – Hands-on',
+  'jaipur-heritage-walk-street-food-tour': 'Jaipur Heritage Walk & Street Food Tour',
+  'jaipur-same-day-tour-with-cooking-class': 'Jaipur Day Tour with Cooking Class',
+  // Agra
+  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Guide in Agra',
+  'taj-mahal-guided-tour': 'Taj Mahal Guided Tour – Certified Guide in Agra',
+  'taj-mahal-photography-tour': 'Taj Mahal Photography Tour in Agra',
+  'mysteries-of-agra-local-tour': 'Mysteries of Agra – Local Heritage Tour',
+  'agra-friday-tour-taj-closed-alternative': 'Agra Friday Tour – Best Sites When Taj Is Closed',
+  'hidden-gems-of-agra-heritage-tour': 'Hidden Gems of Agra – Beyond the Taj Mahal',
+  'taj-mahal-pickup-private-tour': 'Agra Fort & Baby Taj Private Tour',
+  'taj-mahal-sunrise-tour': 'Taj Mahal Sunrise Tour in Agra',
+  'taj-mahal-sunrise-guided-tour': 'Taj Mahal Sunrise Guided Tour in Agra',
+  'agra-city-highlights-tour': 'Agra City Highlights Tour with Guide',
+  'taj-mahal-half-day-tour': 'Taj Mahal Half-Day Tour – Private Guide in Agra',
+  'agra-photography-tour-with-guide': 'Agra Photography Tour with Guide',
+  'taj-mahal-royal-private-tour': 'Taj Mahal Royal Private Tour in Agra',
+  'taj-mahal-agra-private-day-tour-with-lunch': 'Taj Mahal & Agra Day Tour with Lunch',
+  'taj-mahal-sunrise-tour-from-agra': 'Taj Mahal Sunrise Tour from Agra',
+  'agra-royal-sunrise-tour': 'Agra Royal Sunrise Tour – Taj Mahal & Fort',
+  'taj-mahal-vrindavan-full-day-tour': 'Taj Mahal & Vrindavan Day Tour from Agra',
+  'taj-mahal-agra-fort-guided-tour': 'Taj Mahal & Agra Fort Guided Tour',
+  'private-sunrise-taj-mahal-agra-fort-tour': 'Private Sunrise Taj Mahal & Agra Fort Tour',
+  'same-day-taj-mahal-tour-by-car-from-delhi': 'Same Day Taj Mahal Tour by Car from Delhi',
+  // Delhi
+  'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private Sightseeing',
+  'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
+  'taj-mahal-sunrise-elephant-conservation-tour': 'Taj Mahal Sunrise & Elephant Tour from Delhi',
+  'sunrise-taj-mahal-and-agra-tour-by-car': 'Sunrise Taj Mahal Tour from Delhi by Car',
+  'taj-mahal-superfast-guided-tour': 'Taj Mahal Superfast Train Tour from Delhi',
+  'india-gate-guided-tour': 'India Gate Guided Tour in Delhi',
+  'taj-mahal-same-day-express-train-tour': 'Taj Mahal Express Train Tour from Delhi',
+  'from-delhi-same-day-taj-mahal-fastest-train': 'Same Day Taj Mahal – Fastest Train from Delhi',
+  'delhi-private-4-day-golden-triangle-luxury-tour': '4-Day Golden Triangle Luxury Tour from Delhi',
+  '5-days-golden-triangle-ranthambore-tiger-safari': '5-Day Golden Triangle & Ranthambore Tiger Safari',
+  '5-days-golden-triangle-tour-from-delhi': '5-Day Golden Triangle Tour from Delhi',
+  'golden-triangle-tour-delhi-agra-jaipur': '3-Day Golden Triangle Tour – Delhi, Agra & Jaipur',
+  // Udaipur
+  'city-palace-full-day-tour': 'Udaipur City Palace Full-Day Tour',
+  // Phuket
+  'phi-phi-islands-speedboat-tour-maya-bay-snorkeling': 'Phi Phi Islands Speedboat Tour – Maya Bay',
+  'phuket-private-yacht-catamaran-charter-island-hopping': 'Phuket Private Yacht Charter – Island Hopping',
+  'muay-thai-training-class-phuket-beginners': 'Muay Thai Training Class Phuket – Beginners',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {

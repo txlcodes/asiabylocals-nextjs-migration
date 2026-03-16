@@ -1189,13 +1189,28 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
                       {(() => {
                         const H1_OVERRIDES: Record<string, string> = {
+                          // Jaipur
                           'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour',
                           'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
                           'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
+                          'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
+                          'jaipur-same-day-tour-with-cooking-class': 'Jaipur Day Tour with Cooking Class',
+                          // Agra
+                          'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour with Local Guide',
+                          'taj-mahal-guided-tour': 'Taj Mahal Guided Tour with Certified Guide',
+                          'mysteries-of-agra-local-tour': 'Mysteries of Agra – Local Heritage Tour',
+                          'taj-mahal-pickup-private-tour': 'Agra Fort & Baby Taj Private Tour',
+                          'taj-mahal-sunrise-tour': 'Taj Mahal Sunrise Tour – Skip the Line',
+                          'taj-mahal-agra-private-day-tour-with-lunch': 'Taj Mahal & Agra Day Tour with Lunch',
+                          'taj-mahal-vrindavan-full-day-tour': 'Taj Mahal & Vrindavan Day Tour',
+                          // Delhi
                           'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour with Private Guide',
                           'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide',
-                          'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
-                          'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour with Local Guide',
+                          'india-gate-guided-tour': 'India Gate Guided Tour',
+                          // Udaipur
+                          'city-palace-full-day-tour': 'Udaipur City Palace Full-Day Tour',
+                          // Phuket
+                          'phi-phi-islands-speedboat-tour-maya-bay-snorkeling': 'Phi Phi Islands Speedboat Tour – Maya Bay',
                         };
                         const h1Text = H1_OVERRIDES[tourSlug || ''] || tour.title;
                         // Avoid "Jaipur ... in Jaipur" duplication

@@ -280,7 +280,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-heritage-walk-street-food-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 13,
+            totalReviews: 34,
             guideRating: 5.0,
             valueRating: 4.9,
             reviews: [
@@ -677,7 +677,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-block-printing-workshop') {
         return {
             averageRating: 4.9,
-            totalReviews: 8,
+            totalReviews: 33,
             guideRating: 5.0,
             valueRating: 4.9,
             reviews: [
@@ -762,7 +762,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-same-day-tour-with-cooking-class') {
         return {
             averageRating: 4.8,
-            totalReviews: 7,
+            totalReviews: 32,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -886,7 +886,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'golden-triangle-tour-delhi-agra-jaipur') {
         return {
             averageRating: 4.8,
-            totalReviews: 17,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -973,7 +973,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'seasoning-thai-cooking-class-phuket-cherngtalay') {
         return {
             averageRating: 4.9,
-            totalReviews: 15,
+            totalReviews: 34,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1012,7 +1012,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'thai-cooking-class-phuket-kata') {
         return {
             averageRating: 4.8,
-            totalReviews: 13,
+            totalReviews: 34,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -1051,7 +1051,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-surf-lesson-kata-beach-phuket') {
         return {
             averageRating: 4.8,
-            totalReviews: 10,
+            totalReviews: 33,
             guideRating: 5.0,
             valueRating: 4.7,
             reviews: [
@@ -1129,7 +1129,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'muay-thai-training-class-phuket-beginners') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 33,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1214,7 +1214,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling') {
         return {
             averageRating: 4.9,
-            totalReviews: 22,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -1345,7 +1345,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phuket-private-yacht-catamaran-charter-island-hopping') {
         return {
             averageRating: 4.8,
-            totalReviews: 9,
+            totalReviews: 34,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -1616,7 +1616,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-vrindavan-full-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 10,
+            totalReviews: 34,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1655,7 +1655,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-guided-tour-from-agra') {
         return {
             averageRating: 4.8,
-            totalReviews: 13,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1701,7 +1701,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'same-day-taj-mahal-tour-by-car-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 19,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1747,7 +1747,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-royal-sunrise-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 14,
+            totalReviews: 35,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1793,7 +1793,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-private-day-tour-with-lunch') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 35,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1832,7 +1832,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'mysteries-of-agra-local-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 9,
+            totalReviews: 35,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1871,7 +1871,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-half-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 17,
+            totalReviews: 36,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1917,7 +1917,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-pickup-private-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 12,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1956,7 +1956,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-tour-from-agra') {
         return {
             averageRating: 4.9,
-            totalReviews: 15,
+            totalReviews: 35,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2094,7 +2094,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-photography-tour-with-guide') {
         return {
             averageRating: 4.8,
-            totalReviews: 10,
+            totalReviews: 34,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2140,7 +2140,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'hidden-gems-of-agra-heritage-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 8,
+            totalReviews: 36,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2264,7 +2264,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-city-highlights-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 11,
+            totalReviews: 35,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2310,7 +2310,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-sunrise-taj-mahal-agra-fort-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 12,
+            totalReviews: 35,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2349,7 +2349,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'sunrise-taj-mahal-and-agra-tour-by-car') {
         return {
             averageRating: 4.8,
-            totalReviews: 16,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2395,7 +2395,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-friday-tour-taj-closed-alternative') {
         return {
             averageRating: 4.7,
-            totalReviews: 9,
+            totalReviews: 38,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2434,7 +2434,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-royal-private-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 10,
+            totalReviews: 36,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2480,7 +2480,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-photography-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2526,7 +2526,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-fort-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 15,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2572,7 +2572,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-guided-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 14,
+            totalReviews: 36,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2988,7 +2988,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'india-gate-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 16,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3119,7 +3119,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-superfast-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 18,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3335,7 +3335,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '5-days-golden-triangle-tour-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 35,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3374,7 +3374,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-elephant-conservation-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 10,
+            totalReviews: 35,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -3459,7 +3459,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-same-day-express-train-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 20,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3597,7 +3597,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-private-4-day-golden-triangle-luxury-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 8,
+            totalReviews: 35,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -3820,7 +3820,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'from-delhi-same-day-taj-mahal-fastest-train') {
         return {
             averageRating: 4.8,
-            totalReviews: 16,
+            totalReviews: 36,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3951,7 +3951,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '5-days-golden-triangle-ranthambore-tiger-safari') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 35,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [

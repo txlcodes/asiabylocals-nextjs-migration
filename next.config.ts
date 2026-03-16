@@ -53,6 +53,13 @@ const nextConfig: NextConfig = {
       'golden-triangle-3-day-tour': 'golden-triangle-3-day-tour-from-delhi',
       'delhi-old-new-delhi-private-half-day-tour': 'old-new-delhi-private-tour',
       'jaipur-royal-private-tour': 'delhi-to-jaipur-royal-private-day-tour',
+      // Agra — deleted tour redirects
+      'agra-mahal-sunrise-tour': 'taj-mahal-sunrise-tour',
+      // Delhi — deleted tour redirects
+      'delhi-mahal-private-tour': 'old-new-delhi-private-tour',
+      // Phuket — deleted tour redirects
+      'phi-phi-islands-premium-boat-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
+      'phi-phi-islands-half-day-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
       // Phuket — cooking class slug fixes
       'phuket-kata-karon-food-tour': 'thai-cooking-class-phuket-kata',
       'cooking-class-food-tour': 'seasoning-thai-cooking-class-phuket-cherngtalay',
