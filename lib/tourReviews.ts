@@ -2710,7 +2710,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-same-day-tour-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 18,
+            totalReviews: 35,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
