@@ -71,6 +71,7 @@ function stripMarkdown(text: string): string {
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour – Jaipur',
   'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
+  'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {
