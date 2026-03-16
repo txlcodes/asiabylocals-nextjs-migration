@@ -2618,7 +2618,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'fatehpur-sikri-guided-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 10,
+            totalReviews: 38,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
