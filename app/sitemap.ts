@@ -60,6 +60,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'big-buddha-phuket', 'wat-chalong', 'phuket-old-town',
     'phuket-1-day-itinerary', 'phi-phi-islands', 'phang-nga-bay',
     'james-bond-island-phuket', 'phuket-island-hopping',
+    'muay-thai-training-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

@@ -148,7 +148,8 @@ export const PHUKET_INFO_SLUGS = [
   'things-to-do-in-phuket', 'phuket-travel-guide-2026',
   'big-buddha-phuket', 'wat-chalong', 'phuket-old-town',
   'phuket-1-day-itinerary', 'phi-phi-islands', 'phang-nga-bay',
-  'james-bond-island-phuket', 'phuket-island-hopping'
+  'james-bond-island-phuket', 'phuket-island-hopping',
+  'muay-thai-training-phuket'
 ];
 
 export const BANGKOK_INFO_SLUGS = [

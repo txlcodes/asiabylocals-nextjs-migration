@@ -785,7 +785,7 @@ const CITY_DESCRIPTIONS: Record<string, {
     description: 'Discover the best tours in Phuket with licensed local guides. Phi Phi Islands, Phang Nga Bay cruises, Big Buddha visits & Old Town tours.',
     intro: [
       'Phuket, Thailand\'s largest island, is a tropical paradise of turquoise waters, white sand beaches, and historic Sino-Portuguese charm. It serves as the gateway to the stunning [Phi Phi Islands](/thailand/phuket/phi-phi-islands) and [Phang Nga Bay](/thailand/phuket/phang-nga-bay), home to the iconic [James Bond Island](/thailand/phuket/james-bond-island-phuket). Discover expert-led [tours in Phuket](/thailand/phuket/things-to-do-in-phuket) hosted by licensed local guides and marine specialists.',
-      'At AsiaByLocals, discover Phuket through experiences that go beyond the beaches. Explore the colorful [Phuket Old Town](/thailand/phuket/phuket-old-town), visit the iconic [Big Buddha](/thailand/phuket/big-buddha-phuket) and [Wat Chalong](/thailand/phuket/wat-chalong), and cruise the Andaman Sea on private [island-hopping adventures](/thailand/phuket/phuket-island-hopping) with knowledgeable local experts. Combine with a trip to [Bangkok](/thailand/bangkok) for the ultimate Thailand itinerary — check our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) and [1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) for planning tips.'
+      'At AsiaByLocals, discover Phuket through experiences that go beyond the beaches. Explore the colorful [Phuket Old Town](/thailand/phuket/phuket-old-town), visit the iconic [Big Buddha](/thailand/phuket/big-buddha-phuket) and [Wat Chalong](/thailand/phuket/wat-chalong), train [Muay Thai with local champions](/thailand/phuket/muay-thai-training-phuket), and cruise the Andaman Sea on private [island-hopping adventures](/thailand/phuket/phuket-island-hopping) with knowledgeable local experts. Combine with a trip to [Bangkok](/thailand/bangkok) for the ultimate Thailand itinerary — check our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) and [1-day itinerary](/thailand/phuket/phuket-1-day-itinerary) for planning tips.'
     ],
     whyBook: [
       'Licensed & experienced local experts',
@@ -799,6 +799,7 @@ const CITY_DESCRIPTIONS: Record<string, {
       'Big Buddha',
       'Wat Chalong',
       'Phuket Old Town',
+      'Muay Thai Training Camps',
       'Promthep Cape'
     ],
     bestTime: 'The best time to visit Phuket is from **December to March** (dry season), offering perfect conditions for [island-hopping tours](/thailand/phuket/phuket-island-hopping) and [Phi Phi boat trips](/thailand/phuket/phi-phi-islands). May to October is the monsoon season with heavier rain and rougher seas, though [Phang Nga Bay](/thailand/phuket/phang-nga-bay) tours run year-round. See our [Phuket travel guide](/thailand/phuket/phuket-travel-guide-2026) for month-by-month weather details.',
@@ -862,6 +863,10 @@ const CITY_DESCRIPTIONS: Record<string, {
       {
         question: 'Are private yacht tours worth it in Phuket?',
         answer: 'Private yacht tours offer the most premium and exclusive way to explore Phuket\'s islands. Unlike shared speedboat tours, a [private yacht cruise](/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay) lets you set your own pace, visit beaches before or after the crowds, enjoy onboard dining, and swim in secluded spots inaccessible to larger vessels. Our [catamaran charters](/thailand/phuket/phuket-private-yacht-catamaran-charter-island-hopping) include professional crew, snorkeling equipment, gourmet lunch, and unlimited soft drinks. They\'re ideal for couples, families, and small groups who want privacy and flexibility. Most yacht tours visit [Phi Phi Islands](/thailand/phuket/phi-phi-islands), Coral Island, or the Racha Islands depending on your preference.'
+      },
+      {
+        question: 'Can I try Muay Thai training in Phuket as a beginner?',
+        answer: 'Absolutely! Phuket is the world capital of [Muay Thai training](/thailand/phuket/muay-thai-training-phuket), with over 50 camps welcoming complete beginners. Major gyms like Tiger Muay Thai, Bangtao Muay Thai (Google 4.9/5, 1,200+ reviews), and Sinbi Muay Thai all offer drop-in beginner classes from just 500 THB ($14 USD). No prior experience needed. Book a [beginner Muay Thai training class](/thailand/phuket/muay-thai-training-class-phuket-beginners) starting at $18 with a certified local trainer. Training sessions fit perfectly around your holiday: train in the morning, hit the beach in the afternoon. See our complete [Muay Thai training guide](/thailand/phuket/muay-thai-training-phuket) for camp comparisons, prices, and tips.'
       }
     ]
   },
@@ -2539,6 +2544,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 { title: 'Phuket Old Town', slug: 'phuket-old-town', image: '/things-to-do/phuket-old-town.webp' },
                 { title: 'Phuket Island Hopping', slug: 'phuket-island-hopping', image: '/things-to-do/phuket-elephant.webp' },
                 { title: '1-Day Phuket Itinerary', slug: 'phuket-1-day-itinerary', image: '/things-to-do/phuket-old-town.jpg' },
+                { title: 'Muay Thai Training in Phuket', slug: 'muay-thai-training-phuket', image: '/things-to-do/phuket-muay-thai-training.jpg' },
               ].map((guide, idx) => (
                 <Link
                   key={idx}

@@ -79,6 +79,7 @@ const PHUKET_SIDEBAR = [
     { name: '1-Day Itinerary', slug: 'phuket-1-day-itinerary' },
     { name: 'James Bond Island', slug: 'james-bond-island-phuket' },
     { name: 'Island Hopping', slug: 'phuket-island-hopping' },
+    { name: 'Muay Thai Training', slug: 'muay-thai-training-phuket' },
 ];
 
 function renderIcon(name: string) {
