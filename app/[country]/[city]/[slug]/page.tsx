@@ -76,6 +76,7 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
   'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
   'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private City Sightseeing',
+  'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {

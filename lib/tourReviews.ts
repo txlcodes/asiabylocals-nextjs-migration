@@ -3551,7 +3551,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-guided-shopping-tour-female-expert') {
         return {
             averageRating: 4.8,
-            totalReviews: 9,
+            totalReviews: 42,
             guideRating: 5.0,
             valueRating: 4.6,
             reviews: [
