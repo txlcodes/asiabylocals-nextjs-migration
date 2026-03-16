@@ -55,6 +55,30 @@ const JAIPUR_SIDEBAR = [
     { name: 'Places to Visit', slug: 'places-to-visit-in-jaipur' },
 ];
 
+// Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
+const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string }[]> = {
+    'agra': [
+        { title: 'Book Official Tour Guide for Taj Mahal', slug: 'taj-mahal-official-guided-tour', description: 'Licensed ASI-certified guide with skip-the-line entry' },
+        { title: 'Taj Mahal Entry Ticket Assistance', slug: 'taj-mahal-entry-ticket', description: 'Pre-booked tickets with preferred time slot secured' },
+        { title: 'Taj Mahal Sunrise Tour', slug: 'taj-mahal-sunrise-tour', description: 'Early morning visit with golden light photography' },
+        { title: 'Agra Friday Tour (Taj Closed Alternative)', slug: 'agra-friday-tour-taj-closed-alternative', description: 'Agra Fort, Baby Taj & Mehtab Bagh sunset itinerary' },
+        { title: 'Book Tour Guide for Fatehpur Sikri', slug: 'fatehpur-sikri-guided-tour', description: 'Explore Akbar\'s abandoned ghost capital with a historian' },
+        { title: 'Agra City Highlights Tour', slug: 'agra-city-highlights-tour', description: 'Full-day heritage tour covering all major monuments' },
+    ],
+    'delhi': [
+        { title: 'Explore Old & New Delhi by Luxury Car', slug: 'explore-old-new-delhi-city-luxury-car-tour', description: 'Premium guided tour covering Red Fort, India Gate & more' },
+        { title: 'Delhi Guided Shopping Tour with Female Expert', slug: 'delhi-guided-shopping-tour-female-expert', description: 'Local markets, textiles & spices with a female guide' },
+        { title: 'Golden Triangle 3-Day Tour', slug: 'golden-triangle-3-day-tour', description: 'Delhi, Agra & Jaipur in 3 days with expert guides' },
+        { title: 'India Gate Guided Tour', slug: 'india-gate-guided-tour', description: 'Historical walking tour of India Gate & Rajpath' },
+    ],
+    'jaipur': [
+        { title: 'Amber Fort Official Guided Tour', slug: 'amber-fort-official-guided-tour', description: 'Licensed guide for the magnificent hilltop fortress' },
+        { title: 'Hawa Mahal Private Tour', slug: 'hawa-mahal-private-tour', description: 'Palace of Winds with historical commentary' },
+        { title: 'Jaipur Shopping Tour', slug: 'jaipur-shopping-tour', description: 'Gems, textiles & handicrafts with a local expert' },
+        { title: 'Jaipur City Highlights with Amber Fort & Hawa Mahal', slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal', description: 'Full-day tour of the Pink City\'s top attractions' },
+    ],
+};
+
 const BANGKOK_SIDEBAR = [
     { name: 'Things to Do', slug: 'things-to-do-in-bangkok' },
     { name: 'Travel Guide 2026', slug: 'bangkok-travel-guide-2026' },
@@ -364,6 +388,37 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                                 ))}
                                             </div>
                                         </div>
+                                    ))}
+                                </div>
+                            </section>
+                        )}
+
+                        {/* Recommended Tours — Internal linking from authority pages to tour pages */}
+                        {CITY_RECOMMENDED_TOURS[city.toLowerCase()] && (
+                            <section className="mt-24">
+                                <h2 className="text-3xl md:text-4xl font-black text-[#001A33] mb-4">
+                                    Top-Rated {city} Tours to Book
+                                </h2>
+                                <p className="text-gray-500 font-medium text-lg mb-10">
+                                    Handpicked experiences with licensed local guides. Instant confirmation.
+                                </p>
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    {CITY_RECOMMENDED_TOURS[city.toLowerCase()]!.map((tour, idx) => (
+                                        <Link
+                                            key={idx}
+                                            href={`/${country.toLowerCase()}/${city.toLowerCase()}/${tour.slug}`}
+                                            className="flex items-start gap-4 p-6 bg-white rounded-2xl border border-gray-100 hover:border-[#10B981]/40 hover:shadow-lg transition-all duration-300 group"
+                                        >
+                                            <div className="w-10 h-10 bg-[#F0FDF4] text-[#10B981] rounded-xl flex items-center justify-center shrink-0 group-hover:bg-[#10B981] group-hover:text-white transition-colors">
+                                                <Ticket size={18} />
+                                            </div>
+                                            <div>
+                                                <h3 className="font-black text-[#001A33] text-[15px] group-hover:text-[#10B981] transition-colors mb-1">
+                                                    {tour.title}
+                                                </h3>
+                                                <p className="text-gray-500 text-sm font-medium">{tour.description}</p>
+                                            </div>
+                                        </Link>
                                     ))}
                                 </div>
                             </section>

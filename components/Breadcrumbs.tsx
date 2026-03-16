@@ -45,10 +45,7 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ country, city, tourTitle, slu
 
     return (
         <>
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-            />
+            {/* BreadcrumbList JSON-LD rendered server-side in page.tsx @graph — no duplicate here */}
             <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-[14px] font-semibold text-gray-500 mb-6 overflow-x-auto whitespace-nowrap hide-scrollbar py-2">
                 <a href="/" className="flex items-center gap-1 hover:text-[#10B981] transition-colors shrink-0">
                     <Home size={16} />

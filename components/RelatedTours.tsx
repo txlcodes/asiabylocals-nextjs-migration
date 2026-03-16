@@ -103,10 +103,7 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                 });
 
                 // Add slugs
-                const processedTours = filtered.map((tour: any) => ({
-                    ...tour,
-                    slug: tour.slug || `tour-${tour.id}`
-                }));
+                const processedTours = filtered.filter((tour: any) => tour.slug);
 
                 // Take up to 10
                 setTours(processedTours.slice(0, 10));

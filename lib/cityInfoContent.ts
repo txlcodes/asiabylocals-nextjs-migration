@@ -1018,8 +1018,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "Delhi's 5,000 years of history demand more than a self-guided walk. Our certified, government-licensed local guides reveal the stories behind every monument — from the political intrigues of the Mughal court to the street-food culture that has fed this city for centuries. Private and group tours available for all budgets.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Delhi Guided Shopping Tour",
+                            buttonLink: "/india/delhi/delhi-guided-shopping-tour-female-expert"
                         }
                     ],
                     faqs: [
@@ -1117,8 +1117,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "The Red Fort holds 200 years of Mughal history within its walls — but without context, most visitors see only beautiful architecture. Our licensed historian guides decode the political intrigue, the fallen emperors, the lost Peacock Throne, and the moment India reclaimed its independence at these very gates. Private and group tours available.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Old & New Delhi Tour",
+                            buttonLink: "/india/delhi/explore-old-new-delhi-city-luxury-car-tour"
                         }
                     ],
                     faqs: [
@@ -1206,8 +1206,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "The Qutub complex contains 800 years of layered history — from the destruction of Hindu temples to the birth of Islamic architecture in India. Our certified historian guides decode every inscription, explain the Iron Pillar mystery, and bring the Delhi Sultanate to life. Private and group Delhi tours available.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Old & New Delhi Luxury Car Tour",
+                            buttonLink: "/india/delhi/explore-old-new-delhi-city-luxury-car-tour"
                         }
                     ],
                     faqs: [
@@ -1294,8 +1294,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "The architectural story connecting Humayun's Tomb to the Taj Mahal is one of the most fascinating in world history — but it is invisible without the right guide. Our licensed historian guides trace every design element from Delhi to Agra, making your eventual visit to the Taj Mahal profoundly more meaningful. Private tours available daily.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Old & New Delhi Private Tour",
+                            buttonLink: "/india/delhi/explore-old-new-delhi-city-luxury-car-tour"
                         }
                     ],
                     faqs: [
@@ -1382,8 +1382,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "India Gate and Kartavya Path are at their most meaningful when you understand the colonial history, the independence movement, and the extraordinary transformation of New Delhi from British imperial capital to the heart of the world's largest democracy. Our licensed guides bring this story to life on private and group tours of New Delhi.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book India Gate Guided Tour",
+                            buttonLink: "/india/delhi/india-gate-guided-tour"
                         }
                     ],
                     faqs: [
@@ -1476,8 +1476,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "Delhi's greatest experiences — from the medieval lanes of Chandni Chowk to the marble halls of the Red Fort — are dramatically more rewarding with a licensed local guide who knows the history, the hidden corners, and the best food stalls. Our certified Delhi guides offer private and group tours for all interests and budgets.",
-                            buttonText: "Browse Delhi Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Delhi Shopping Tour with Female Expert",
+                            buttonLink: "/india/delhi/delhi-guided-shopping-tour-female-expert"
                         }
                     ],
                     faqs: [
@@ -1568,8 +1568,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "A private guide transforms a one-day Delhi itinerary from a monument checklist into a living narrative. Our licensed historian guides manage your transport, skip the queues, decode the architecture, and take you to the food spots that no guidebook mentions. Private full-day Delhi tours cover all the above — and the stories that make every monument unforgettable.",
-                            buttonText: "Browse Delhi Private Tours",
-                            buttonLink: "/india/delhi"
+                            buttonText: "Book Golden Triangle 3-Day Tour",
+                            buttonLink: "/india/delhi/golden-triangle-3-day-tour"
                         }
                     ],
                     faqs: [
@@ -1671,8 +1671,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "A licensed local guide transforms Jaipur from a monument checklist into a living narrative. Our historian guides decode the Rajput architecture, navigate the bazaar labyrinth, take you to food stalls locals actually eat at, and share stories that make every palace and fort unforgettable.",
-                            buttonText: "Browse Jaipur Tours",
-                            buttonLink: "/india/jaipur"
+                            buttonText: "Book Jaipur City Highlights Tour",
+                            buttonLink: "/india/jaipur/jaipur-city-highlights-tour-with-amber-fort-hawa-mahal"
                         }
                     ],
                     faqs: [
@@ -1830,8 +1830,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "A private guide with transport is the single most impactful investment for a one-day Jaipur itinerary. Our licensed historian guides handle all logistics, skip the queues, decode the Rajput architecture, and take you to the food spots that transform a good day into an extraordinary one.",
-                            buttonText: "Browse Jaipur Private Tours",
-                            buttonLink: "/india/jaipur"
+                            buttonText: "Book Jaipur Shopping Tour",
+                            buttonLink: "/india/jaipur/jaipur-shopping-tour"
                         }
                     ],
                     faqs: [
@@ -1918,8 +1918,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                             isCTA: true,
                             icon: "User",
                             content: "Amber Fort's 400-year history, architectural symbolism, and hidden details are impossible to fully appreciate without expert narration. Our licensed Jaipur guides specialise in Rajput history and will decode the Sheesh Mahal's mirror astronomy, the zenana's privacy system, and the fort's strategic military design.",
-                            buttonText: "Browse Amber Fort Tours",
-                            buttonLink: "/india/jaipur"
+                            buttonText: "Book Amber Fort Official Guided Tour",
+                            buttonLink: "/india/jaipur/amber-fort-official-guided-tour"
                         }
                     ],
                     faqs: [

@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
+import { getTourReviews } from '@/lib/tourReviews';
+import Link from 'next/link';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
 
@@ -30,14 +32,32 @@ function isValidSeoDescription(text: string | null | undefined): boolean {
   return !badPatterns.some(p => p.test(lower));
 }
 
-// Build a data-driven meta description from tour properties
+// Shorten a long tour title for meta tag (keep under 45 chars before " in City | Brand")
+function shortenTitleForMeta(title: string): string {
+  if (title.length <= 45) return title;
+  // Remove common filler patterns that inflate tour titles
+  let short = title
+    .replace(/\s*–\s*.*/g, '') // Remove everything after em-dash
+    .replace(/\s*—\s*.*/g, '') // Remove everything after em-dash
+    .replace(/\s*\|\s*.*/g, '') // Remove everything after pipe
+    .replace(/\s*\(.*?\)\s*/g, ' ') // Remove parenthetical text
+    .replace(/\s+/g, ' ').trim();
+  if (short.length <= 45) return short;
+  // If still too long, truncate at last word boundary before 45 chars
+  return short.substring(0, 45).replace(/\s+\S*$/, '').trim();
+}
+
+// Build a CTR-optimized meta description — leads with trust signals like Viator/GYG
 function buildMetaDescription(tour: any, cityName: string): string {
+  const price = tour.pricePerPerson ? `From $${tour.pricePerPerson}` : '';
   const duration = tour.duration || '';
-  const category = tour.category || 'tour';
-  const highlights = (tour.highlights || []).slice(0, 2).join(', ');
-  const base = `${tour.title}: ${duration ? duration + ' ' : ''}${category} in ${cityName}`;
-  const detail = highlights ? ` — ${highlights}` : '';
-  const desc = `${base}${detail}. Book with a licensed local guide on AsiaByLocals.`;
+  const parts: string[] = [];
+  if (price) parts.push(price);
+  parts.push('Free cancellation');
+  if (duration) parts.push(duration);
+  parts.push('Licensed local guide');
+  const trustLine = parts.join(' · ');
+  const desc = `${trustLine}. ${tour.title} in ${cityName}. Book instantly with verified guides on AsiaByLocals.`;
   return desc.length > 155 ? desc.slice(0, 152) + '...' : desc;
 }
 
@@ -91,16 +111,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       const data = await res.json();
       const tour = (data.success && data.tour) ? data.tour : (data.title ? data : null);
       if (tour) {
-        const fallbackDesc = buildMetaDescription(tour, cityName);
-        const description = isValidSeoDescription(tour.shortDescription) ? tour.shortDescription : fallbackDesc;
+        // Always use CTR-optimized description with trust signals
+        const description = buildMetaDescription(tour, cityName);
+        // Shorten long titles to fit ~60 char limit: "Title in City | AsiaByLocals"
+        const shortTitle = shortenTitleForMeta(tour.title);
+        const titleTag = `${shortTitle} in ${cityName} | AsiaByLocals`;
         return {
-          title: `${tour.title} in ${cityName} | AsiaByLocals`,
+          title: titleTag,
           description,
           alternates: {
             canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
           },
           openGraph: {
-            title: `${tour.title} in ${cityName} | AsiaByLocals`,
+            title: `${shortTitle} in ${cityName} | AsiaByLocals`,
             description,
             images: tour.images?.[0] ? [{ url: tour.images[0] }] : [],
           },
@@ -231,6 +254,18 @@ export default async function SlugPage({ params }: Props) {
       }
     : null;
 
+  // Get real reviews for this tour (for rich snippet review schema)
+  const tourReviewData = getTourReviews(slug);
+  const reviewSchemas = tourReviewData && tourReviewData.reviews.length > 0
+    ? tourReviewData.reviews.slice(0, 3).map((review) => ({
+        '@type': 'Review',
+        author: { '@type': 'Person', name: review.author },
+        datePublished: review.date,
+        reviewRating: { '@type': 'Rating', ratingValue: review.rating, bestRating: '5' },
+        reviewBody: review.text,
+      }))
+    : undefined;
+
   // Build highlights as amenityFeature
   const highlights = Array.isArray(tour?.highlights) && tour.highlights.length > 0 ? tour.highlights : null;
   const amenityFeatures = highlights
@@ -248,8 +283,22 @@ export default async function SlugPage({ params }: Props) {
         image: tour?.images?.[0] || '',
         url: tourUrl,
         brand: { '@type': 'Brand', name: 'AsiaByLocals' },
-        offers: { '@type': 'Offer', price: tour?.pricePerPerson || 0, priceCurrency: tour?.currency || 'USD', availability: 'https://schema.org/InStock', url: tourUrl },
-        aggregateRating: { '@type': 'AggregateRating', ratingValue, reviewCount, bestRating: '5' },
+        offers: {
+          '@type': 'Offer',
+          price: tour?.pricePerPerson || 0,
+          priceCurrency: tour?.currency || 'USD',
+          availability: 'https://schema.org/InStock',
+          url: tourUrl,
+          priceValidUntil: '2026-12-31',
+          seller: { '@type': 'TravelAgency', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
+        },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: tourReviewData ? tourReviewData.averageRating.toFixed(1) : ratingValue,
+          reviewCount: tourReviewData ? tourReviewData.totalReviews : reviewCount,
+          bestRating: '5',
+        },
+        ...(reviewSchemas ? { review: reviewSchemas } : {}),
       },
       // TouristTrip schema — enriched with real tour data for AI engines and Google
       {
@@ -299,6 +348,35 @@ export default async function SlugPage({ params }: Props) {
     ],
   };
 
+  // Server-rendered internal links — guaranteed in raw HTML for Google crawler
+  // (RelatedTours component is client-side API-fetched, which crawlers may skip)
+  const CITY_TOUR_LINKS: Record<string, { slug: string; title: string }[]> = {
+    agra: [
+      { slug: 'taj-mahal-entry-ticket', title: 'Taj Mahal Entry Ticket & Guided Tour' },
+      { slug: 'taj-mahal-sunrise-guided-tour', title: 'Taj Mahal Sunrise Guided Tour' },
+      { slug: 'book-official-tour-guide-for-taj-mahal', title: 'Book Official Tour Guide for Taj Mahal' },
+      { slug: 'agra-city-highlights-tour', title: 'Agra City Highlights Tour' },
+      { slug: 'agra-fatehpur-sikri-day-trip', title: 'Agra & Fatehpur Sikri Day Trip' },
+      { slug: 'book-tour-guide-for-fatehpur-sikri-visit', title: 'Book Tour Guide for Fatehpur Sikri' },
+      { slug: 'agra-friday-tour-taj-closed-alternative', title: 'Agra Friday Tour - Taj Closed Alternative' },
+    ],
+    delhi: [
+      { slug: 'explore-old-new-delhi-city-luxury-car-tour', title: 'Old & New Delhi City Tour' },
+      { slug: 'delhi-guided-shopping-tour-female-expert', title: 'Delhi Guided Shopping Tour' },
+      { slug: 'india-gate-guided-tour', title: 'India Gate Guided Tour' },
+      { slug: 'golden-triangle-3-day-tour', title: 'Golden Triangle 3-Day Tour' },
+    ],
+    jaipur: [
+      { slug: 'amber-fort-official-guided-tour', title: 'Amber Fort Official Guided Tour' },
+      { slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal', title: 'Jaipur City Highlights Tour' },
+      { slug: 'jaipur-shopping-tour', title: 'Jaipur Shopping Tour' },
+    ],
+  };
+
+  const cityTourLinks = CITY_TOUR_LINKS[citySlug] || [];
+  // Filter out the current tour from internal links
+  const otherTourLinks = cityTourLinks.filter(t => t.slug !== slug);
+
   return (
     <>
       {/* Server-rendered JSON-LD — guaranteed in raw HTML for crawlers & AI engines */}
@@ -306,35 +384,28 @@ export default async function SlugPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(tourJsonLd) }}
       />
-      {/* Server-rendered SEO content — visible to crawlers in initial HTML */}
-      <article className="sr-only" aria-hidden="true">
-        <h1>{tour?.title} in {cityName}</h1>
-        <p>{tour?.fullDescription || tour?.shortDescription || ''}</p>
-        {highlights && (
-          <section>
-            <h2>Tour Highlights</h2>
-            <ul>
-              {highlights.map((h: string, i: number) => (
-                <li key={i}>{h}</li>
-              ))}
-            </ul>
-          </section>
-        )}
-        {itineraryItems && (
-          <section>
-            <h2>Itinerary</h2>
-            <ol>
-              {itineraryItems.map((item: any, i: number) => (
-                <li key={i}>
-                  <strong>{item.title}</strong>
-                  {item.description && <span>: {item.description}</span>}
-                </li>
-              ))}
-            </ol>
-          </section>
-        )}
-      </article>
+      {/* SEO: visible H1 with city name is rendered by TourDetailClient. No duplicate hidden H1. */}
       <TourDetailClient tour={tour} city={cityName} country={countryName} />
+
+      {/* Server-rendered internal links — visible to Google crawler in raw HTML */}
+      {otherTourLinks.length > 0 && (
+        <nav aria-label={`More ${cityName} tours`} className="max-w-7xl mx-auto px-6 pb-12">
+          <h2 className="text-2xl font-black text-[#001A33] mb-6">More {cityName} Tours</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {otherTourLinks.map((t) => (
+              <Link
+                key={t.slug}
+                href={`/${countrySlug}/${citySlug}/${t.slug}`}
+                className="p-4 rounded-xl border border-gray-200 hover:border-[#10B981] hover:shadow-md transition-all group"
+              >
+                <span className="text-[15px] font-black text-[#001A33] group-hover:text-[#10B981] transition-colors">
+                  {t.title}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </nav>
+      )}
     </>
   );
 }

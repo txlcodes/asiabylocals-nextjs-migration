@@ -1187,7 +1187,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex-1">
                     <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
-                      {tour.title}
+                      {tour.title} in {city}
                     </h1>
                     <div className="flex items-center gap-4 flex-wrap">
                       <div className="flex items-center gap-2">
@@ -2521,7 +2521,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             }
                           ];
 
-                          const isAgraTour = tour.city?.toLowerCase() === 'agra' || tourTitle.toLowerCase().includes('taj-mahal');
+                          const cityLower = tour.city?.toLowerCase() || '';
+                          const titleLower = tourTitle.toLowerCase();
+                          const isAgraTour = cityLower === 'agra' || titleLower.includes('taj-mahal') || titleLower.includes('taj mahal');
+                          const isDelhiTour = cityLower === 'delhi' || titleLower.includes('delhi');
+                          const isJaipurTour = cityLower === 'jaipur' || titleLower.includes('jaipur') || titleLower.includes('amber-fort') || titleLower.includes('amber fort');
 
                           if (isAgraTour) {
                             const standardAgraFAQs = [
@@ -2532,11 +2536,60 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                               {
                                 question: "Is original passport mandatory for entry?",
                                 answer: "Yes, foreign tourists must show their original passport or a high-quality digital photo at the entrance gates for security identification and monument entry."
+                              },
+                              {
+                                question: "What is the best time to visit the Taj Mahal?",
+                                answer: "Sunrise is the best time to visit the Taj Mahal. The gates open at 6:00 AM and the soft morning light creates the most stunning views. Arrive by 5:30 AM to beat the crowds and get the best photography conditions."
                               }
                             ];
 
-                            // Add if not already present in specific FAQs
                             standardAgraFAQs.forEach(af => {
+                              if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
+                                faqs.push(af);
+                              }
+                            });
+                          }
+
+                          if (isDelhiTour) {
+                            const standardDelhiFAQs = [
+                              {
+                                question: "Is Delhi safe for tourists?",
+                                answer: "Yes, Delhi is generally safe for tourists, especially in popular tourist areas like Connaught Place, Chandni Chowk, and around major monuments. Booking a licensed local guide through AsiaByLocals adds an extra layer of safety and local knowledge."
+                              },
+                              {
+                                question: "What is the best way to get around Delhi?",
+                                answer: "The Delhi Metro is the fastest and most affordable way to travel between attractions. For tour experiences, our guides arrange private air-conditioned vehicles so you can cover Old Delhi and New Delhi comfortably in one day."
+                              },
+                              {
+                                question: "Do I need to book tickets in advance for Delhi monuments?",
+                                answer: "For popular sites like Qutub Minar, Humayun's Tomb, and Red Fort, advance tickets are recommended to skip long queues. When you book a guided tour through AsiaByLocals, entry tickets and skip-the-line access are typically included."
+                              }
+                            ];
+
+                            standardDelhiFAQs.forEach(af => {
+                              if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
+                                faqs.push(af);
+                              }
+                            });
+                          }
+
+                          if (isJaipurTour) {
+                            const standardJaipurFAQs = [
+                              {
+                                question: "How do I get to Amber Fort from Jaipur city?",
+                                answer: "Amber Fort is located 11 km from Jaipur city center, about a 20-minute drive. When you book a guided tour through AsiaByLocals, round-trip transportation from your hotel is included. You can also take an elephant or jeep ride up to the fort entrance."
+                              },
+                              {
+                                question: "What should I wear when visiting Jaipur temples and forts?",
+                                answer: "Modest clothing that covers shoulders and knees is recommended for temple visits. Comfortable walking shoes are essential as forts like Amber Fort and Nahargarh Fort involve significant walking on stone pathways. Carry sunscreen and water, especially during summer months."
+                              },
+                              {
+                                question: "Can I visit Hawa Mahal, City Palace, and Amber Fort in one day?",
+                                answer: "Yes, all three can be covered in a full-day guided tour. Our Jaipur city tours are designed to cover these major attractions efficiently with an experienced local guide who knows the best routes and timing to avoid crowds."
+                              }
+                            ];
+
+                            standardJaipurFAQs.forEach(af => {
                               if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
                                 faqs.push(af);
                               }

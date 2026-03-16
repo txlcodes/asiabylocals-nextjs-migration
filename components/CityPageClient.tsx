@@ -2155,7 +2155,8 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
               {sortedTours.map((tour) => {
-                const tourSlug = tour.slug || `tour-${tour.id}`;
+                const tourSlug = tour.slug;
+                if (!tourSlug) return null; // Skip tours without valid slugs
                 const hasSkipLine = tour.included && tour.included.toLowerCase().includes('skip');
                 const hasPickup = tour.meetingPoint || (tour.included && tour.included.toLowerCase().includes('pickup'));
 

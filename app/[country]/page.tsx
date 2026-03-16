@@ -113,19 +113,21 @@ export default async function CountryPage({ params }: Props) {
       if (data?.success) {
         const toursArray = Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
         cityTourCounts[city.slug] = toursArray.length;
-        cityTours[city.slug] = toursArray.map((tour: any) => ({
-          id: tour.id,
-          title: tour.title,
-          slug: tour.slug || `tour-${tour.id}`,
-          city: tour.city,
-          country: tour.country,
-          duration: tour.duration,
-          pricePerPerson: tour.pricePerPerson,
-          currency: tour.currency,
-          images: Array.isArray(tour.images)
-            ? tour.images.filter((img: any) => typeof img === 'string' && !img.startsWith('data:')).slice(0, 1)
-            : [],
-        }));
+        cityTours[city.slug] = toursArray
+          .filter((tour: any) => tour.slug)
+          .map((tour: any) => ({
+            id: tour.id,
+            title: tour.title,
+            slug: tour.slug,
+            city: tour.city,
+            country: tour.country,
+            duration: tour.duration,
+            pricePerPerson: tour.pricePerPerson,
+            currency: tour.currency,
+            images: Array.isArray(tour.images)
+              ? tour.images.filter((img: any) => typeof img === 'string' && !img.startsWith('data:')).slice(0, 1)
+              : [],
+          }));
       } else {
         cityTours[city.slug] = [];
         cityTourCounts[city.slug] = 0;
