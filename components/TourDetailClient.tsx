@@ -1194,6 +1194,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
                           'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour with Private Guide',
                           'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide',
+                          'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
                         };
                         const h1Text = H1_OVERRIDES[tourSlug || ''] || tour.title;
                         // Avoid "Jaipur ... in Jaipur" duplication
