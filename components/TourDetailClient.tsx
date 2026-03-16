@@ -1189,6 +1189,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
                       {tourSlug === 'amber-fort-official-guided-tour'
                         ? `Amber Fort Official Guided Tour in ${city}`
+                        : tourSlug === 'hawa-mahal-private-tour'
+                        ? `Hawa Mahal Private Tour with Guide in ${city}`
                         : `${tour.title} in ${city}`}
                     </h1>
                     <div className="flex items-center gap-4 flex-wrap">

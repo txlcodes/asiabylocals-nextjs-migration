@@ -70,6 +70,7 @@ function stripMarkdown(text: string): string {
 // These override ONLY the meta title tag, not the on-page H1 (H1 comes from tour.title)
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour – Jaipur',
+  'hawa-mahal-private-tour': 'Hawa Mahal Private Tour with Guide – Jaipur',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {
