@@ -832,36 +832,39 @@ export default function HomepageClient() {
           </div>
         </section>
 
-        {/* Global Local Trust Bar */}
-        <section className="bg-gray-50 py-20 border-y border-gray-100">
-          <div className="max-w-[1000px] mx-auto px-6 text-center">
-            <h2 className="text-3xl font-black text-[#001A33] mb-4">Curated, not crowded.</h2>
-            <p className="text-gray-500 font-medium mb-12 max-w-xl mx-auto">
-              We vet every local host to ensure your experience is safe, ethical, and culturally profound.
+        {/* Immersive CTA Section */}
+        <section className="relative w-full" style={{ height: '85vh', minHeight: '600px' }}>
+          {/* Background Image */}
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://framerusercontent.com/images/NPVGQTBuWTgKghTzjcUHJMKAX6Y.jpg?scale-down-to=2048&width=3456&height=2304')`,
+            }}
+          />
+          {/* Top gradient: white fading into image */}
+          <div
+            className="absolute top-0 left-0 right-0"
+            style={{
+              height: '40%',
+              background: 'linear-gradient(to bottom, #ffffff 0%, rgba(255,255,255,0.8) 30%, rgba(255,255,255,0) 100%)',
+            }}
+          />
+          {/* Bottom gradient for text readability */}
+          <div
+            className="absolute bottom-0 left-0 right-0"
+            style={{
+              height: '60%',
+              background: 'linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 60%, rgba(0,0,0,0.7) 100%)',
+            }}
+          />
+          {/* Content */}
+          <div className="relative z-10 h-full flex flex-col items-center justify-center px-6 text-center">
+            <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-5 leading-tight max-w-3xl" style={{ textShadow: '0 2px 12px rgba(0,0,0,0.4)' }}>
+              Experience Asia Through<br />Local Eyes
+            </h2>
+            <p className="text-white/90 text-lg md:text-xl max-w-xl" style={{ textShadow: '0 1px 8px rgba(0,0,0,0.3)' }}>
+              Authentic cultural journeys crafted by the people who know their homeland best.
             </p>
-            <div className="grid md:grid-cols-3 gap-10">
-              <div className="flex flex-col items-center">
-                <div className="w-16 h-16 bg-[#10B981]/10 text-[#10B981] rounded-full flex items-center justify-center mb-4">
-                  <ShieldCheck size={32} />
-                </div>
-                <h4 className="font-black text-lg mb-2">100% Verified</h4>
-                <p className="text-sm text-gray-500">Every guide is personally interviewed and verified on-ground.</p>
-              </div>
-              <div className="flex flex-col items-center">
-                <div className="w-16 h-16 bg-[#10B981]/10 text-[#10B981] rounded-full flex items-center justify-center mb-4">
-                  <Award size={32} />
-                </div>
-                <h4 className="font-black text-lg mb-2">Quality First</h4>
-                <p className="text-sm text-gray-500">We prioritize storytelling and depth over mass-market tourism.</p>
-              </div>
-              <div className="flex flex-col items-center">
-                <div className="w-16 h-16 bg-[#10B981]/10 text-[#10B981] rounded-full flex items-center justify-center mb-4">
-                  <MapPin size={32} />
-                </div>
-                <h4 className="font-black text-lg mb-2">Direct Impact</h4>
-                <p className="text-sm text-gray-500">Payments go directly to local communities, ensuring fair wages.</p>
-              </div>
-            </div>
           </div>
         </section>
       </main>
