@@ -43,8 +43,11 @@ function shortenTitleForMeta(title: string): string {
     .replace(/\s*\(.*?\)\s*/g, ' ') // Remove parenthetical text
     .replace(/\s+/g, ' ').trim();
   if (short.length <= 45) return short;
-  // If still too long, truncate at last word boundary before 45 chars
-  return short.substring(0, 45).replace(/\s+\S*$/, '').trim();
+  // Truncate at last word boundary before 45 chars
+  let truncated = short.substring(0, 45).replace(/\s+\S*$/, '').trim();
+  // Remove dangling prepositions/conjunctions that make no sense at the end
+  truncated = truncated.replace(/\s+(with|from|by|for|and|in|of|the|a|an|to|at|on|&)$/i, '').trim();
+  return truncated;
 }
 
 // Build a CTR-optimized meta description — leads with trust signals like Viator/GYG
@@ -124,9 +127,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         // Use SEO override title if available, otherwise shorten the database title
         const seoTitle = SEO_TITLE_OVERRIDES[slug];
         const shortTitle = seoTitle || shortenTitleForMeta(tour.title);
+        // Avoid "Jaipur Tour in Jaipur" duplication
         const titleTag = seoTitle
           ? `${seoTitle} | AsiaByLocals`
-          : `${shortTitle} in ${cityName} | AsiaByLocals`;
+          : shortTitle.toLowerCase().includes(cityName.toLowerCase())
+            ? `${shortTitle} | AsiaByLocals`
+            : `${shortTitle} in ${cityName} | AsiaByLocals`;
         return {
           title: titleTag,
           description,

@@ -1187,11 +1187,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex-1">
                     <h1 className="text-4xl font-black text-[#001A33] mb-3 leading-tight">
-                      {tourSlug === 'amber-fort-official-guided-tour'
-                        ? `Amber Fort Official Guided Tour in ${city}`
-                        : tourSlug === 'hawa-mahal-private-tour'
-                        ? `Hawa Mahal & Jaipur Highlights Private Tour in ${city}`
-                        : `${tour.title} in ${city}`}
+                      {(() => {
+                        const H1_OVERRIDES: Record<string, string> = {
+                          'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour',
+                          'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
+                          'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
+                        };
+                        const h1Text = H1_OVERRIDES[tourSlug || ''] || tour.title;
+                        // Avoid "Jaipur ... in Jaipur" duplication
+                        return h1Text.toLowerCase().includes(city.toLowerCase())
+                          ? h1Text
+                          : `${h1Text} in ${city}`;
+                      })()}
                     </h1>
                     <div className="flex items-center gap-4 flex-wrap">
                       <div className="flex items-center gap-2">
