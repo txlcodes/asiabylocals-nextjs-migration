@@ -77,6 +77,7 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
   'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private City Sightseeing',
   'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
+  'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {

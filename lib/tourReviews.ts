@@ -70,10 +70,10 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
 
     if (slug === 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal') {
         return {
-            averageRating: 4.8,
-            totalReviews: 18,
+            averageRating: 4.7,
+            totalReviews: 38,
             guideRating: 4.9,
-            valueRating: 4.7,
+            valueRating: 4.6,
             reviews: [
                 {
                     author: 'Michael C.',
