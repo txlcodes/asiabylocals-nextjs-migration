@@ -66,6 +66,12 @@ function stripMarkdown(text: string): string {
   return text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '');
 }
 
+// SEO title overrides — when the database title doesn't match the target keyword
+// These override ONLY the meta title tag, not the on-page H1 (H1 comes from tour.title)
+const SEO_TITLE_OVERRIDES: Record<string, string> = {
+  'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour – Jaipur',
+};
+
 function isInfoSlug(city: string, slug: string): boolean {
   const c = city.toLowerCase();
   if (c === 'agra') return AGRA_INFO_SLUGS.includes(slug);
@@ -113,9 +119,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       if (tour) {
         // Always use CTR-optimized description with trust signals
         const description = buildMetaDescription(tour, cityName);
-        // Shorten long titles to fit ~60 char limit: "Title in City | AsiaByLocals"
-        const shortTitle = shortenTitleForMeta(tour.title);
-        const titleTag = `${shortTitle} in ${cityName} | AsiaByLocals`;
+        // Use SEO override title if available, otherwise shorten the database title
+        const seoTitle = SEO_TITLE_OVERRIDES[slug];
+        const shortTitle = seoTitle || shortenTitleForMeta(tour.title);
+        const titleTag = seoTitle
+          ? `${seoTitle} | AsiaByLocals`
+          : `${shortTitle} in ${cityName} | AsiaByLocals`;
         return {
           title: titleTag,
           description,
@@ -123,7 +132,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
             canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
           },
           openGraph: {
-            title: `${shortTitle} in ${cityName} | AsiaByLocals`,
+            title: titleTag,
             description,
             images: tour.images?.[0] ? [{ url: tour.images[0] }] : [],
           },
@@ -368,8 +377,12 @@ export default async function SlugPage({ params }: Props) {
     ],
     jaipur: [
       { slug: 'amber-fort-official-guided-tour', title: 'Amber Fort Official Guided Tour' },
-      { slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal', title: 'Jaipur City Highlights Tour' },
+      { slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal', title: 'Jaipur City Highlights with Amber Fort & Hawa Mahal' },
       { slug: 'jaipur-shopping-tour', title: 'Jaipur Shopping Tour' },
+      { slug: 'jaipur-heritage-walk-street-food-tour', title: 'Jaipur Heritage Walk & Street Food Tour' },
+      { slug: 'jaipur-full-day-sightseeing-tour-by-car', title: 'Jaipur Full Day Sightseeing Tour' },
+      { slug: 'jaipur-block-printing-workshop', title: 'Jaipur Block Printing Workshop' },
+      { slug: 'jaipur-same-day-tour-from-delhi', title: 'Jaipur Same Day Tour from Delhi' },
     ],
   };
 
