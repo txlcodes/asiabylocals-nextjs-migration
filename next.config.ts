@@ -50,6 +50,7 @@ const nextConfig: NextConfig = {
       'taj-mahal-mahal-guided-tour': 'taj-mahal-guided-tour-from-agra',
       'taj-mahal-mahal-full-day-tour': 'same-day-taj-mahal-tour-by-car-from-delhi',
       // Fixed Delhi bad slugs
+      'golden-triangle-3-day-tour': 'golden-triangle-tour-delhi-agra-jaipur',
       'delhi-old-new-delhi-private-half-day-tour': 'old-new-delhi-private-tour',
       'jaipur-royal-private-tour': 'delhi-to-jaipur-royal-private-day-tour',
       // Phuket — cooking class slug fixes
