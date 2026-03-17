@@ -2,7 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { Globe, Heart, Users, Code, Award } from 'lucide-react';
+import Image from 'next/image';
+import { Globe, Heart, Users, Code, Award, ShieldCheck, XCircle, CheckCircle } from 'lucide-react';
 import StaticPageHeader from './StaticPageHeader';
 
 export default function AboutUsClient() {
@@ -40,6 +41,63 @@ export default function AboutUsClient() {
                             <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">PGDHTM</span>
                             <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">Tourism Management</span>
                             <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">18+ Years Experience</span>
+                            <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">Diamond Category IITG</span>
+                            <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">PAN India Validity</span>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                            <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                                <Image
+                                    src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779507/about/founder-certificate.jpg"
+                                    alt="Government of India - Ministry of Tourism - Incredible India Tourist Guide ID Card - Mohd Shahnawaz - Diamond Category"
+                                    width={600}
+                                    height={400}
+                                    className="w-full h-auto"
+                                />
+                                <div className="p-3 text-center">
+                                    <p className="text-sm font-semibold text-gray-600">Official Tourist Guide ID - Ministry of Tourism, Govt. of India</p>
+                                </div>
+                            </div>
+                            <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                                <Image
+                                    src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779510/about/founder-id-card.jpg"
+                                    alt="Refresher Course Online Module Completion Certificate - Indian Institute of Tourism and Travel Management - Mohd Shahnawaz"
+                                    width={600}
+                                    height={400}
+                                    className="w-full h-auto"
+                                />
+                                <div className="p-3 text-center">
+                                    <p className="text-sm font-semibold text-gray-600">Refresher Course Certificate - IITTM</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section className="mb-16">
+                    <div className="bg-gradient-to-br from-[#10B981]/5 to-[#059669]/10 rounded-xl p-8 border border-[#10B981]/20">
+                        <h2 className="text-2xl font-black text-[#001A33] mb-6 text-center">Book With Confidence</h2>
+                        <div className="grid md:grid-cols-3 gap-6">
+                            <div className="text-center">
+                                <div className="w-14 h-14 bg-[#10B981]/10 rounded-full flex items-center justify-center mx-auto mb-3">
+                                    <XCircle className="text-[#10B981]" size={28} />
+                                </div>
+                                <h3 className="font-black text-[#001A33] mb-2">Free Cancellation</h3>
+                                <p className="text-gray-600 font-semibold text-sm">Cancel up to 24 hours before your tour for a full refund. No questions asked.</p>
+                            </div>
+                            <div className="text-center">
+                                <div className="w-14 h-14 bg-[#10B981]/10 rounded-full flex items-center justify-center mx-auto mb-3">
+                                    <ShieldCheck className="text-[#10B981]" size={28} />
+                                </div>
+                                <h3 className="font-black text-[#001A33] mb-2">Trusted & Verified</h3>
+                                <p className="text-gray-600 font-semibold text-sm">All our guides are government-licensed and personally vetted. Your safety is our priority.</p>
+                            </div>
+                            <div className="text-center">
+                                <div className="w-14 h-14 bg-[#10B981]/10 rounded-full flex items-center justify-center mx-auto mb-3">
+                                    <CheckCircle className="text-[#10B981]" size={28} />
+                                </div>
+                                <h3 className="font-black text-[#001A33] mb-2">Secure Payments</h3>
+                                <p className="text-gray-600 font-semibold text-sm">100% secure checkout with encrypted transactions. Pay with confidence.</p>
+                            </div>
                         </div>
                     </div>
                 </section>
