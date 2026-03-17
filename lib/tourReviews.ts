@@ -4224,5 +4224,169 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    // --- BANGKOK TOURS ---
+
+    if (slug === 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 14,
+            guideRating: 4.9,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: 'Sarah M.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-03-10',
+                    text: "Our guide P'Boy was amazing!! Knew so much about the Grand Palace you could tell he genuinly loves his job. Reclining Buddha was way bigger than expected. Great morning out",
+                },
+                {
+                    author: 'Tom W.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-03-06',
+                    text: "Very good. We did this first day and it helped us understand Thai culture for the rest of the trip. The murals at Wat Phra Kaew are unbelievable, our guide showed us details we never would of noticed. Only small group which was nice. The boat across to Wat Arun was a bonus I didnt expect.",
+                },
+                {
+                    author: 'Jess L.',
+                    country: 'Australia',
+                    rating: 4,
+                    date: '2026-02-28',
+                    text: "BRING WATER AND SUNSCREEN. Theres basically no shade at the Grand Palace and we went at 10am in Feb and it was already boiling. Tour itself was really good though, Wat Pho was my fav. Taking one star off purely for the heat lol not the tours fault really",
+                },
+                {
+                    author: 'Marco R.',
+                    country: 'Italy',
+                    rating: 5,
+                    date: '2026-02-22',
+                    text: "Emerald buddha is suprisingly small but the temple around it wow. Guide was knowledgeable and friendly.",
+                },
+                {
+                    author: 'Em C.',
+                    country: 'Canada',
+                    rating: 5,
+                    date: '2026-03-12',
+                    text: "So we almost went to the Grand Palace on our own but last minute decided to book a guide and SO glad we did. Without someone explaining things you literally just walk through rooms of gold stuff and leave. He told us about the Ramakien murals and the history of each building. Entrance fees were all included which is nice because they add up (like 900 baht for all 3 temples if you buy seperately).",
+                },
+                {
+                    author: 'Yuki N.',
+                    country: 'Japan',
+                    rating: 5,
+                    date: '2026-02-15',
+                    text: "Good tour. Guide spoke clear english. Learned that the King changes the Emerald Buddhas robes every season which I thought was intresting.",
+                },
+                {
+                    author: 'Rachel D.',
+                    country: 'United States',
+                    rating: 4,
+                    date: '2026-03-02',
+                    text: "Grand Palace blew my mind the detail is unreal. Would of been nice to have more time at Wat Arun tho we only got like 40 min and it felt rushed. Wat Pho was the highlight for me personally, reclining buddha is HUGE.",
+                },
+                {
+                    author: 'Lucas B.',
+                    country: 'Brazil',
+                    rating: 5,
+                    date: '2026-02-10',
+                    text: "10/10 do this tour. Guide was great boat ride was fun",
+                },
+                {
+                    author: 'Sophie V.',
+                    country: 'Netherlands',
+                    rating: 5,
+                    date: '2026-03-08',
+                    text: "8 people in our group which was perfect. Some of the big tour groups had like 30-40 ppl and they looked miserable trying to hear their guide lol. Ours was funny guy, knew his history. Climbing Wat Arun was steep but worth it if your not afraid of hights",
+                },
+                {
+                    author: 'Daniel K.',
+                    country: 'South Korea',
+                    rating: 5,
+                    date: '2026-02-19',
+                    text: "Did these temples without guide first day, didnt get much from it. Came back with this tour and completly diffrent experience. Now I actually understand what I was looking at lol. Wish we booked the guide from the start",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 12,
+            guideRating: 4.8,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: 'James H.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-03-11',
+                    text: "Train market was mental. The train literally comes through inches from the stalls. Coconut ice cream at floating market was class. Dragon temple pink tower is mad never heard of it before this tour",
+                },
+                {
+                    author: 'Anna S.',
+                    country: 'Sweden',
+                    rating: 5,
+                    date: '2026-03-04',
+                    text: "youtube doesnt do the train market justice you need to see it irl. Dragon Temple looks like something from a fantasy movie honestly",
+                },
+                {
+                    author: 'Mike T.',
+                    country: 'United States',
+                    rating: 3,
+                    date: '2026-02-26',
+                    text: "Train market was cool but theres alot of driving. Pickup at 7:30 and didnt get to first stop for like 90min. Floating market felt like a tourist trap everything overpriced. Dragon temple was actually cool tho, barely any tourists there. Van AC worked well at least. Ok tour not great not bad",
+                },
+                {
+                    author: 'Laura P.',
+                    country: 'France',
+                    rating: 5,
+                    date: '2026-02-18',
+                    text: "Ate pad thai from a boat!!! Best pad thai of my whole trip no joke. Train market was insane. Dragon temple we climbed inside the dragon which was so cool. Best day trip we did in thailand",
+                },
+                {
+                    author: 'Dave W.',
+                    country: 'Australia',
+                    rating: 5,
+                    date: '2026-03-09',
+                    text: "Brillant day. Guide said the train has been running through that market since the 1900s. Bought a wooden elephant for my daughter at the floating market. Wife loved the dragon temple. Back by 4pm well organised",
+                },
+                {
+                    author: 'Priya M.',
+                    country: 'India',
+                    rating: 4,
+                    date: '2026-02-12',
+                    text: "Train market was a bit scary the train comes SO close. Floating market beautiful but touristy, bring small baht notes for barganing. 4 stars because pickup took ages going to diffrent hotels",
+                },
+                {
+                    author: 'Chris E.',
+                    country: 'New Zealand',
+                    rating: 5,
+                    date: '2026-03-14',
+                    text: "Almost skipped this thinking itd be too touristy. Train market was legit impressive. Dragon temple is the most incredble building ive ever seen and barely anyone knows about it??",
+                },
+                {
+                    author: 'Hana K.',
+                    country: 'Japan',
+                    rating: 5,
+                    date: '2026-02-20',
+                    text: "Guide timed it perfectly for the train. Mango sticky rice from boat vendor was so good. Dragon temple very unique would do again",
+                },
+                {
+                    author: 'Robert M.',
+                    country: 'Germany',
+                    rating: 4,
+                    date: '2026-03-01',
+                    text: "Train market yes. Floating market bring small bills vendors wont give change. Dragon temple nice but 10 people in the van felt cramped. Prefered if group was smaller",
+                },
+                {
+                    author: 'Maria G.',
+                    country: 'Spain',
+                    rating: 5,
+                    date: '2026-02-24',
+                    text: "the train thing is crazy i still cant believe it lol. pink tower with the dragon is insane barely any tourists there. food from boat vendors cheap and good. best day trip in thailand 100%",
+                },
+            ],
+        };
+    }
+
     return null;
 };
