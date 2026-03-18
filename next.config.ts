@@ -64,6 +64,11 @@ const nextConfig: NextConfig = {
       'phuket-kata-karon-food-tour': 'thai-cooking-class-phuket-kata',
       'cooking-class-food-tour': 'seasoning-thai-cooking-class-phuket-cherngtalay',
       'patong-beach-optional-photography-tour': 'elephant-beach-experience-patong-phuket',
+      // Bangkok — slug fixes
+      'learn-hands-on-photography-skills': 'bangkok-photography-class-workshop',
+      'bangkok-phography-photo-walk-with': 'bangkok-private-photography-tour',
+      'pak-khlong-talat-flower-market-evening-tour': 'bangkok-street-food-tuk-tuk-night-tour',
+      'bangkok-ancient-city-erawan-museum-tickets': 'bangkok-ancient-city-erawan-museum-tour',
     };
 
     return Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({

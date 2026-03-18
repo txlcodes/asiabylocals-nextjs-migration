@@ -56,7 +56,7 @@ const JAIPUR_SIDEBAR = [
 ];
 
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
-const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string }[]> = {
+const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string; image?: string; price?: string; rating?: string }[]> = {
     'agra': [
         { title: 'Book Official Tour Guide for Taj Mahal', slug: 'taj-mahal-official-guided-tour', description: 'Licensed ASI-certified guide with skip-the-line entry' },
         { title: 'Taj Mahal Entry Ticket Assistance', slug: 'taj-mahal-entry-ticket', description: 'Pre-booked tickets with preferred time slot secured' },
@@ -76,6 +76,18 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Hawa Mahal Private Tour', slug: 'hawa-mahal-private-tour', description: 'Palace of Winds with historical commentary' },
         { title: 'Jaipur Shopping Tour', slug: 'jaipur-shopping-tour', description: 'Gems, textiles & handicrafts with a local expert' },
         { title: 'Jaipur City Highlights with Amber Fort & Hawa Mahal', slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal', description: 'Full-day tour of the Pink City\'s top attractions' },
+    ],
+    'bangkok': [
+        { title: 'Grand Palace, Wat Pho & Wat Arun Guided Tour', slug: 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour', description: 'Private licensed guide for the Royal Complex — 5 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg', price: 'From $49', rating: '4.9' },
+        { title: 'Bangkok Chinatown Food Tour: 15+ Michelin Tastings', slug: 'bangkok-chinatown-food-tour-15-tastings-michelin-stops', description: 'Navigate Yaowarat with a local food expert — 15+ tastings', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg', price: 'From $70', rating: '4.9' },
+        { title: 'Bangkok After Dark: Street Food & Tuk-Tuk Night Tour', slug: 'bangkok-street-food-tuk-tuk-night-tour', description: 'Evening street food & tuk-tuk adventure through Bangkok\'s backstreets', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773771518/tours/bangkok/midnight_food_1773771515522_0.jpg', price: 'From $77', rating: '4.8' },
+        { title: 'Floating Market & Railway Market Day Trip', slug: 'bangkok-floating-market-railway-market-day-trip-boat-ride', description: 'Damnoen Saduak + Maeklong Railway Market with boat ride', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773768723/tours/bangkok/floating_market_1773768720503_0.jpg', price: 'From $21', rating: '4.7' },
+        { title: 'Ayutthaya Ancient Temples Day Trip', slug: 'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch', description: 'UNESCO World Heritage ruins — full-day guided trip from Bangkok', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773778104/tours/bangkok/ayutthaya_cover_1773778102218.jpg', price: 'From $42', rating: '4.8' },
+        { title: 'Maeklong Railway, Damnoen Saduak & Dragon Temple', slug: 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour', description: 'Three unmissable Bangkok day-trip sights in one guided tour', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773712062/asiabylocals/tours/bangkok-train-floating-market-dragon-temple/hq_tour_img_1.jpg', price: 'From $30', rating: '4.8' },
+        { title: 'Learn Muay Thai: Private Training', slug: 'learn-muay-thai-bangkok-private-training-certified-fighter', description: '1-on-1 Muay Thai training at a certified Bangkok gym', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773766998/tours/bangkok/muaythai_fitfac_hires_1773766994877_0.jpg', price: 'From $60', rating: '4.9' },
+        { title: 'Ancient City & Erawan Museum Day Trip', slug: 'bangkok-ancient-city-erawan-museum-tour', description: 'Thailand\'s largest open-air museum + the three-headed elephant', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773642670/tours/bangkok/tours/bangkok_1773642669956_0.jpg', price: 'From $25', rating: '4.7' },
+        { title: 'Bangkok Photo Walk: Hidden Gems Tour', slug: 'bangkok-photo-walk-hidden-gems-tour', description: 'Discover Bangkok\'s hidden streets and temples with a guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773736540/tours/bangkok/tours/bangkok_1773736539768_0.jpg', price: 'From $45', rating: '4.8' },
+        { title: 'Khlong Toei Market Scavenger Hunt', slug: 'bangkok-scavenger-hunt-tour', description: 'Interactive market tour + tuk-tuk ride through Bangkok', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg', price: 'From $35', rating: '4.7' },
     ],
 };
 
@@ -362,6 +374,55 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                                 </table>
                                             </div>
                                         )}
+
+                                        {/* GYG-style inline tour card */}
+                                        {section.tourCard && (
+                                            <Link
+                                                href={`/${country.toLowerCase()}/${city.toLowerCase()}/${section.tourCard.slug}`}
+                                                className="mt-10 flex flex-col sm:flex-row rounded-2xl border border-[#DCFCE7] overflow-hidden shadow-sm hover:shadow-xl hover:border-[#10B981]/50 transition-all duration-300 group/card"
+                                            >
+                                                <div className="sm:w-[220px] h-[160px] sm:h-auto shrink-0 overflow-hidden bg-gray-100">
+                                                    <img
+                                                        src={section.tourCard.image || section.image || '/bangkok-hero.webp'}
+                                                        alt={section.tourCard.title}
+                                                        className="w-full h-full object-cover group-hover/card:scale-105 transition-transform duration-500"
+                                                    />
+                                                </div>
+                                                <div className="flex-1 p-6 bg-[#F0FDF4] group-hover/card:bg-white transition-colors duration-300">
+                                                    <div className="flex items-start justify-between gap-3 mb-2">
+                                                        <span className="text-[11px] font-black text-[#10B981] uppercase tracking-[0.25em]">Featured Tour</span>
+                                                        {section.tourCard.rating && (
+                                                            <div className="flex items-center gap-1 shrink-0">
+                                                                <Star size={13} fill="#F59E0B" className="text-[#F59E0B]" />
+                                                                <span className="text-[13px] font-black text-gray-700">{section.tourCard.rating}</span>
+                                                                {section.tourCard.reviews && (
+                                                                    <span className="text-[12px] text-gray-400 font-medium">({section.tourCard.reviews})</span>
+                                                                )}
+                                                            </div>
+                                                        )}
+                                                    </div>
+                                                    <h4 className="font-black text-[#001A33] text-[17px] mb-2 group-hover/card:text-[#10B981] transition-colors leading-snug">
+                                                        {section.tourCard.title}
+                                                    </h4>
+                                                    <p className="text-gray-500 text-[14px] font-medium mb-5 leading-relaxed line-clamp-2">
+                                                        {section.tourCard.description}
+                                                    </p>
+                                                    <div className="flex items-end justify-between gap-4">
+                                                        <div>
+                                                            {section.tourCard.price && (
+                                                                <p className="text-[#001A33] font-black text-[18px]">{section.tourCard.price}</p>
+                                                            )}
+                                                            {section.tourCard.duration && (
+                                                                <p className="text-gray-400 text-[13px] font-medium">{section.tourCard.duration}</p>
+                                                            )}
+                                                        </div>
+                                                        <div className="px-6 py-3 bg-[#10B981] text-white font-black text-[14px] rounded-xl group-hover/card:bg-[#059669] transition-colors shadow-sm whitespace-nowrap">
+                                                            Book Now →
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </Link>
+                                        )}
                                     </article>
                                 );
                             })}
@@ -402,21 +463,43 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                 <p className="text-gray-500 font-medium text-lg mb-10">
                                     Handpicked experiences with licensed local guides. Instant confirmation.
                                 </p>
-                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                                     {CITY_RECOMMENDED_TOURS[city.toLowerCase()]!.map((tour, idx) => (
                                         <Link
                                             key={idx}
                                             href={`/${country.toLowerCase()}/${city.toLowerCase()}/${tour.slug}`}
-                                            className="flex items-start gap-4 p-6 bg-white rounded-2xl border border-gray-100 hover:border-[#10B981]/40 hover:shadow-lg transition-all duration-300 group"
+                                            className="group rounded-2xl border border-gray-100 overflow-hidden hover:border-[#10B981]/40 hover:shadow-xl transition-all duration-300 bg-white"
                                         >
-                                            <div className="w-10 h-10 bg-[#F0FDF4] text-[#10B981] rounded-xl flex items-center justify-center shrink-0 group-hover:bg-[#10B981] group-hover:text-white transition-colors">
-                                                <Ticket size={18} />
-                                            </div>
-                                            <div>
-                                                <h3 className="font-black text-[#001A33] text-[15px] group-hover:text-[#10B981] transition-colors mb-1">
+                                            {tour.image ? (
+                                                <div className="relative h-[180px] overflow-hidden">
+                                                    <img
+                                                        src={tour.image}
+                                                        alt={tour.title}
+                                                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                                        loading="lazy"
+                                                    />
+                                                    {tour.rating && (
+                                                        <div className="absolute top-3 left-3 flex items-center gap-1 bg-white/95 backdrop-blur-sm px-2.5 py-1 rounded-lg shadow-sm">
+                                                            <Star size={12} fill="#F59E0B" className="text-[#F59E0B]" />
+                                                            <span className="text-[13px] font-black text-gray-800">{tour.rating}</span>
+                                                        </div>
+                                                    )}
+                                                    {tour.price && (
+                                                        <div className="absolute bottom-3 right-3 bg-[#001A33]/80 backdrop-blur-sm text-white px-3 py-1 rounded-lg text-[13px] font-black">
+                                                            {tour.price}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            ) : (
+                                                <div className="h-[60px] bg-gradient-to-r from-[#F0FDF4] to-[#DCFCE7] flex items-center px-5">
+                                                    <Ticket size={18} className="text-[#10B981]" />
+                                                </div>
+                                            )}
+                                            <div className="p-5">
+                                                <h3 className="font-black text-[#001A33] text-[15px] group-hover:text-[#10B981] transition-colors mb-1.5 leading-snug line-clamp-2">
                                                     {tour.title}
                                                 </h3>
-                                                <p className="text-gray-500 text-sm font-medium">{tour.description}</p>
+                                                <p className="text-gray-500 text-[13px] font-medium line-clamp-2">{tour.description}</p>
                                             </div>
                                         </Link>
                                     ))}

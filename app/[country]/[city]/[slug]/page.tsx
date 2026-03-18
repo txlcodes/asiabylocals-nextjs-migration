@@ -437,6 +437,18 @@ export default async function SlugPage({ params }: Props) {
       { slug: 'jaipur-block-printing-workshop', title: 'Jaipur Block Printing Workshop' },
       { slug: 'jaipur-same-day-tour-from-delhi', title: 'Jaipur Same Day Tour from Delhi' },
     ],
+    bangkok: [
+      { slug: 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour', title: 'Grand Palace, Wat Pho & Wat Arun Guided Tour' },
+      { slug: 'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch', title: 'Ayutthaya Ancient Temples Day Trip with Thai Lunch' },
+      { slug: 'bangkok-chinatown-food-tour-15-tastings-michelin-stops', title: 'Bangkok Chinatown Food Tour: 15+ Michelin Tastings' },
+      { slug: 'bangkok-street-food-tuk-tuk-night-tour', title: 'Bangkok After Dark: Street Food & Tuk-Tuk Night Tour' },
+      { slug: 'learn-muay-thai-bangkok-private-training-certified-fighter', title: 'Learn Muay Thai: Private Training with a Certified Fighter' },
+      { slug: 'bangkok-floating-market-railway-market-day-trip-boat-ride', title: 'Floating Market & Railway Market Day Trip with Boat Ride' },
+      { slug: 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour', title: 'Maeklong Railway, Damnoen Saduak & Dragon Temple Tour' },
+      { slug: 'bangkok-photo-walk-hidden-gems-tour', title: 'Bangkok Photo Walk: Hidden Gems Tour' },
+      { slug: 'bangkok-scavenger-hunt-tour', title: 'Khlong Toei Market Scavenger Hunt with Tuk-Tuk Ride' },
+      { slug: 'bangkok-ancient-city-erawan-museum-tour', title: 'Ancient City & Erawan Museum Day Trip' },
+    ],
   };
 
   const cityTourLinks = CITY_TOUR_LINKS[citySlug] || [];
