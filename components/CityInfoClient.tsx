@@ -88,6 +88,7 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Ancient City & Erawan Museum Day Trip', slug: 'bangkok-ancient-city-erawan-museum-tour', description: 'Thailand\'s largest open-air museum + the three-headed elephant', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773642670/tours/bangkok/tours/bangkok_1773642669956_0.jpg', price: 'From $25', rating: '4.7' },
         { title: 'Bangkok Photo Walk: Hidden Gems Tour', slug: 'bangkok-photo-walk-hidden-gems-tour', description: 'Discover Bangkok\'s hidden streets and temples with a guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773736540/tours/bangkok/tours/bangkok_1773736539768_0.jpg', price: 'From $45', rating: '4.8' },
         { title: 'Khlong Toei Market Scavenger Hunt', slug: 'bangkok-scavenger-hunt-tour', description: 'Interactive market tour + tuk-tuk ride through Bangkok', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg', price: 'From $35', rating: '4.7' },
+        { title: 'Bangkok Temples, Canals & Local Life Bike Tour', slug: 'bangkok-temples-canals-local-life-bike-tour', description: 'Ride through Thonburi\'s backstreets, canals & temples — max 8 riders', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773875959/tours/bangkok/biketour/cover.jpg', price: 'From $23', rating: '4.9' },
     ],
 };
 
