@@ -78,6 +78,26 @@ const Footer: React.FC = () => {
                     </div>
                 </div>
 
+                {/* Trustpilot Review Widget */}
+                <div className="pt-8 border-t border-white/5 mb-8 flex justify-center">
+                    <div
+                        className="trustpilot-widget"
+                        data-locale="en-US"
+                        data-template-id="56278e9abfbbba0bdcd568bc"
+                        data-businessunit-id="NI2Deaqy6L0XQN22"
+                        data-style-height="52px"
+                        data-style-width="100%"
+                    >
+                        <a href="https://www.trustpilot.com/review/asiabylocals.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white text-base font-bold transition-colors flex items-center gap-2.5">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" className="h-6 w-6 flex-shrink-0">
+                                <path fill="#00B67A" d="M128 0l39.5 80.1L256 93.5l-64 62.4L207.1 256L128 213.3L48.9 256L64 155.9L0 93.5l88.5-13.4z" />
+                                <path fill="#005128" d="M128 213.3l48.9 25.5L164.5 175z" />
+                            </svg>
+                            <span>Review us on Trustpilot</span>
+                        </a>
+                    </div>
+                </div>
+
                 <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-[11px] font-black uppercase tracking-widest text-gray-500">
                     <span>&copy; {new Date().getFullYear()} AsiaByLocals HQ &bull; Authentic Experiences Only</span>
                     <div className="flex gap-6">
