@@ -1680,7 +1680,7 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
       <h2 className="text-3xl font-black text-[#001A33] mb-8">
         Our Most Recommended Things to Do in {city}
       </h2>
-      <div className="space-y-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-5">
         {thingsToDo.map((item, index) => {
           const isExpanded = expandedCards.has(index);
           return (
@@ -1688,13 +1688,13 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
               key={index}
               className="bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow"
             >
-              <div className="flex flex-col md:flex-row gap-0">
-                {/* Image Section - Smaller, less distracting */}
-                <div className="w-full md:w-1/4 lg:w-1/5 shrink-0 self-start">
+              <div className="flex flex-col gap-0">
+                {/* Image Section */}
+                <div className="w-full shrink-0">
                   <img
                     src={item.image}
                     alt={`${item.title} in ${city} `}
-                    className="w-full h-48 md:h-40 object-cover"
+                    className="w-full h-36 md:h-44 object-cover"
                     style={{ objectFit: 'cover', objectPosition: 'center' }}
                     loading="lazy"
                     width={400}
@@ -1712,13 +1712,13 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
                   />
                 </div>
 
-                {/* Content Section - Expands/contracts independently */}
-                <div className="md:w-3/4 lg:w-4/5 p-6 flex flex-col">
-                  <h3 className="text-2xl font-black text-[#001A33] mb-3">
+                {/* Content Section */}
+                <div className="p-4 md:p-5 flex flex-col">
+                  <h3 className="text-lg md:text-xl font-black text-[#001A33] mb-2">
                     {item.title}
                   </h3>
 
-                  <div className="text-[16px] text-gray-700 font-semibold leading-relaxed mb-4">
+                  <div className="text-[14px] md:text-[15px] text-gray-700 font-semibold leading-relaxed mb-3">
                     {/* Helper to render text with markdown-style links and bolding */}
                     {(() => {
                       const renderWithLinks = (text: string) => {
@@ -2417,6 +2417,9 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 { title: 'Things to Do in Agra', slug: 'things-to-do-in-agra', image: '/things-to-do/agra-taj-mahal-garden.webp' },
                 { title: 'Places to Visit in Agra', slug: 'places-to-visit-in-agra', image: '/things-to-do/agra-fort-gate.webp' },
                 { title: '1-Day Agra Itinerary', slug: '1-day-agra-itinerary', image: '/agra-itinerary-hero.webp' },
+                { title: 'Delhi to Agra: Transport Guide', slug: 'delhi-to-agra', image: '/things-to-do/agra-transfer-car.webp' },
+                { title: 'Same Day Agra Tour from Delhi', slug: 'same-day-agra-tour-from-delhi', image: '/things-to-do/agra-taj-mahal-garden.webp' },
+                { title: 'Best Time to Visit Agra', slug: 'best-time-to-visit-agra', image: '/things-to-do/agra-taj-mahal-sunset.webp' },
                 { title: 'Taj Mahal Ticket Price 2026', slug: 'taj-mahal-ticket-price-2026', image: '/things-to-do/agra-taj-ticket.webp' },
                 { title: 'Taj Mahal Opening Time', slug: 'taj-mahal-opening-time', image: '/things-to-do/agra-taj-mahal-sunrise.webp' },
                 { title: 'Is Taj Mahal Closed on Friday?', slug: 'is-taj-mahal-closed-on-friday', image: '/taj-mahal-new.webp' },

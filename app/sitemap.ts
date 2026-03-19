@@ -23,7 +23,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'things-to-do-in-agra', 'places-to-visit-in-agra', '1-day-agra-itinerary',
     'taj-mahal-ticket-price-2026', 'taj-mahal-opening-time', 'is-taj-mahal-closed-on-friday',
     'agra-travel-guide-2026', 'taj-mahal', 'agra-fort', 'fatehpur-sikri',
-    'agra-gatimaan-entry-ticket',
+    'agra-gatimaan-entry-ticket', 'delhi-to-agra', 'same-day-agra-tour-from-delhi',
+    'best-time-to-visit-agra',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
