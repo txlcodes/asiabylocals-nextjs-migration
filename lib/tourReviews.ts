@@ -25,7 +25,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'amber-fort-official-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -71,7 +71,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal') {
         return {
             averageRating: 4.7,
-            totalReviews: 38,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -117,7 +117,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-city-tour-with-official-guide') {
         return {
             averageRating: 4.7,
-            totalReviews: 12,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -156,7 +156,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-full-day-sightseeing-tour-by-car') {
         return {
             averageRating: 4.7,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.7,
             reviews: [
@@ -202,7 +202,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-private-full-day-sightseeing-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 10,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.7,
             reviews: [
@@ -241,7 +241,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-private-full-day-sightseeing-by-car') {
         return {
             averageRating: 4.8,
-            totalReviews: 9,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.7,
             reviews: [
@@ -280,7 +280,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-heritage-walk-street-food-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 34,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.9,
             reviews: [
@@ -326,7 +326,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'elephant-village-tour-jaipur') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -372,7 +372,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-shopping-tour') {
         return {
             averageRating: 4.6,
-            totalReviews: 45,
+            totalReviews: 42,
             guideRating: 4.7,
             valueRating: 4.5,
             reviews: [
@@ -677,7 +677,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-block-printing-workshop') {
         return {
             averageRating: 4.9,
-            totalReviews: 33,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.9,
             reviews: [
@@ -716,7 +716,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-same-day-tour-from-delhi') {
         return {
             averageRating: 4.6,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.5,
             reviews: [
@@ -762,7 +762,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-same-day-tour-with-cooking-class') {
         return {
             averageRating: 4.8,
-            totalReviews: 32,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -801,7 +801,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-to-jaipur-royal-private-day-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 10,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -840,7 +840,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'jaipur-to-agra-taj-mahal-day-trip') {
         return {
             averageRating: 4.7,
-            totalReviews: 12,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -886,7 +886,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'golden-triangle-tour-delhi-agra-jaipur') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -934,7 +934,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'elephant-beach-experience-patong-phuket') {
         return {
             averageRating: 4.7,
-            totalReviews: 12,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -973,7 +973,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'seasoning-thai-cooking-class-phuket-cherngtalay') {
         return {
             averageRating: 4.9,
-            totalReviews: 34,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1012,7 +1012,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'thai-cooking-class-phuket-kata') {
         return {
             averageRating: 4.8,
-            totalReviews: 34,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -1051,7 +1051,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-surf-lesson-kata-beach-phuket') {
         return {
             averageRating: 4.8,
-            totalReviews: 33,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.7,
             reviews: [
@@ -1090,7 +1090,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phuket-scuba-diving-beginners-full-day-racha-yai-island') {
         return {
             averageRating: 4.9,
-            totalReviews: 14,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.7,
             reviews: [
@@ -1129,7 +1129,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'muay-thai-training-class-phuket-beginners') {
         return {
             averageRating: 4.8,
-            totalReviews: 33,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1168,7 +1168,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'james-bond-island-speedboat-tour-phuket') {
         return {
             averageRating: 4.8,
-            totalReviews: 18,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1214,7 +1214,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling') {
         return {
             averageRating: 4.9,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.8,
             reviews: [
@@ -1260,7 +1260,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phi-phi-khai-islands-speedboat-tour-with-lunch') {
         return {
             averageRating: 4.7,
-            totalReviews: 16,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.8,
             reviews: [
@@ -1306,7 +1306,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phi-phi-islands-private-yacht-cruise-maya-bay') {
         return {
             averageRating: 4.9,
-            totalReviews: 11,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.7,
             reviews: [
@@ -1345,7 +1345,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'phuket-private-yacht-catamaran-charter-island-hopping') {
         return {
             averageRating: 4.8,
-            totalReviews: 34,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -1393,7 +1393,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-fort-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 16,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1439,7 +1439,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-overnight-tour-from-delhi') {
         return {
             averageRating: 4.7,
-            totalReviews: 12,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1478,7 +1478,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-mathura-full-day-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 11,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1524,7 +1524,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-fort-private-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1570,7 +1570,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-express-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 18,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1616,7 +1616,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-vrindavan-full-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 34,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1655,7 +1655,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-guided-tour-from-agra') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1701,7 +1701,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'same-day-taj-mahal-tour-by-car-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1747,7 +1747,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-royal-sunrise-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -1793,7 +1793,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-private-day-tour-with-lunch') {
         return {
             averageRating: 4.8,
-            totalReviews: 35,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1832,7 +1832,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'mysteries-of-agra-local-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 35,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1871,7 +1871,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-half-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -1917,7 +1917,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-pickup-private-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -1956,7 +1956,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-tour-from-agra') {
         return {
             averageRating: 4.9,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2002,7 +2002,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 16,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2048,7 +2048,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-skip-the-line-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 13,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2094,7 +2094,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-photography-tour-with-guide') {
         return {
             averageRating: 4.8,
-            totalReviews: 34,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2140,7 +2140,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'hidden-gems-of-agra-heritage-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 36,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2179,7 +2179,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-agra-round-trip-gatimaan-train') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.7,
             reviews: [
@@ -2225,7 +2225,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-fatehpur-full-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 13,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2264,7 +2264,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-city-highlights-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2310,7 +2310,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-sunrise-taj-mahal-agra-fort-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 35,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2349,7 +2349,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'sunrise-taj-mahal-and-agra-tour-by-car') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2395,7 +2395,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'agra-friday-tour-taj-closed-alternative') {
         return {
             averageRating: 4.7,
-            totalReviews: 38,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2434,7 +2434,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-royal-private-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2480,7 +2480,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-photography-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2526,7 +2526,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-fort-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2572,7 +2572,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-guided-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2618,7 +2618,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'fatehpur-sikri-guided-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 38,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2664,7 +2664,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'same-day-delhi-to-agra-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 17,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -2710,7 +2710,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-same-day-tour-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2756,7 +2756,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-tour-with-female-guide') {
         return {
             averageRating: 4.9,
-            totalReviews: 12,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2802,7 +2802,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 16,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -2848,7 +2848,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-full-day-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 19,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2894,7 +2894,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-entry-ticket') {
         return {
             averageRating: 4.7,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.7,
             valueRating: 4.5,
             reviews: [
@@ -2940,7 +2940,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-official-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -2988,7 +2988,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'india-gate-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3034,7 +3034,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '6-day-golden-triangle-tour-with-tiger-safari') {
         return {
             averageRating: 4.9,
-            totalReviews: 12,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -3080,7 +3080,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'golden-triangle-ranthambore-tiger-safari-4-days') {
         return {
             averageRating: 4.7,
-            totalReviews: 14,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -3119,7 +3119,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-superfast-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3165,7 +3165,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-to-jaipur-same-day-tour-by-car') {
         return {
             averageRating: 4.7,
-            totalReviews: 15,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -3204,7 +3204,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-same-day-sightseeing-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 19,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3250,7 +3250,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-sightseeing-half-day-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 13,
+            totalReviews: 4,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -3289,7 +3289,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'old-new-delhi-private-half-day-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 17,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3335,7 +3335,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '5-days-golden-triangle-tour-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 35,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3374,7 +3374,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-sunrise-elephant-conservation-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -3420,7 +3420,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'old-new-delhi-guided-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 16,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -3459,7 +3459,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-same-day-express-train-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3505,7 +3505,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-agra-private-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3551,7 +3551,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-guided-shopping-tour-female-expert') {
         return {
             averageRating: 4.8,
-            totalReviews: 42,
+            totalReviews: 5,
             guideRating: 5.0,
             valueRating: 4.6,
             reviews: [
@@ -3597,7 +3597,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-private-4-day-golden-triangle-luxury-tour') {
         return {
             averageRating: 4.9,
-            totalReviews: 35,
+            totalReviews: 4,
             guideRating: 5.0,
             valueRating: 4.8,
             reviews: [
@@ -3636,7 +3636,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-agra-day-trip-luxury-car') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -3682,7 +3682,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'sunrise-taj-mahal-tour-delhi-all-inclusive') {
         return {
             averageRating: 4.8,
-            totalReviews: 17,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3728,7 +3728,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'old-new-delhi-private-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -3774,7 +3774,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'explore-old-new-delhi-city-luxury-car-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 48,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.6,
             reviews: [
@@ -3820,7 +3820,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'from-delhi-same-day-taj-mahal-fastest-train') {
         return {
             averageRating: 4.8,
-            totalReviews: 36,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3866,7 +3866,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '6-days-golden-triangle-tour-from-delhi') {
         return {
             averageRating: 4.8,
-            totalReviews: 10,
+            totalReviews: 4,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3905,7 +3905,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-taj-mahal-agra-day-tour-from-delhi') {
         return {
             averageRating: 4.7,
-            totalReviews: 18,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -3951,7 +3951,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === '5-days-golden-triangle-ranthambore-tiger-safari') {
         return {
             averageRating: 4.8,
-            totalReviews: 35,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -3997,7 +3997,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-to-agra-overnight-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 12,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -4043,7 +4043,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'golden-triangle-3-day-tour-from-delhi') {
         return {
             averageRating: 4.7,
-            totalReviews: 19,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -4089,7 +4089,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-tour-by-train-gatimaan') {
         return {
             averageRating: 4.8,
-            totalReviews: 15,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -4135,7 +4135,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'private-taj-mahal-tour-from-delhi') {
         return {
             averageRating: 4.7,
-            totalReviews: 17,
+            totalReviews: 5,
             guideRating: 4.8,
             valueRating: 4.6,
             reviews: [
@@ -4181,7 +4181,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'delhi-full-day-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 5,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -4229,7 +4229,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 14,
+            totalReviews: 10,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
@@ -4310,7 +4310,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour') {
         return {
             averageRating: 4.7,
-            totalReviews: 12,
+            totalReviews: 10,
             guideRating: 4.8,
             valueRating: 4.7,
             reviews: [
@@ -4383,6 +4383,355 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
                     rating: 5,
                     date: '2026-02-24',
                     text: "the train thing is crazy i still cant believe it lol. pink tower with the dragon is insane barely any tourists there. food from boat vendors cheap and good. best day trip in thailand 100%",
+                },
+            ],
+        };
+    }
+
+    // --- INDIA TOURS (additional) ---
+
+    if (slug === 'hawa-mahal-private-tour') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 5,
+            guideRating: 4.8,
+            valueRating: 4.6,
+            reviews: [
+                {
+                    author: 'Jennifer K.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-01',
+                    text: "Our guide really knew the history of Hawa Mahal inside out. He explained the 953 windows and how the royal women used them to watch street festivities. The rest of the Jaipur highlights were equally impressive especially City Palace. Having a private guide meant we could go at our own pace which was perfect.",
+                },
+                {
+                    author: 'Thomas W.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-02-22',
+                    text: "Absolutely loved this tour. Guide took us through the back streets of the Pink City to reach Hawa Mahal avoiding the tourist crowds. His knowledge of Rajput architecture was exceptional. Also visited Jantar Mantar and the local bazaar. Tip: wear comfortable shoes lots of walking but totally worth it.",
+                },
+                {
+                    author: 'Sophie L.',
+                    country: 'France',
+                    rating: 4,
+                    date: '2026-02-15',
+                    text: "Good private tour covering the main Jaipur attractions. Hawa Mahal is smaller than photos make it look but the guide made it fascinating with stories about the maharanis. City Palace was the real highlight for me. Only giving 4 stars because pickup was 15 minutes late but the guide apologised and extended the tour to compensate.",
+                },
+                {
+                    author: 'Ravi S.',
+                    country: 'India',
+                    rating: 5,
+                    date: '2026-03-08',
+                    text: "Even though Im Indian I learned so much about Jaipur on this tour. The guide was a certified local expert and his storytelling was captivating. Hawa Mahal at golden hour is magical and he knew the exact spot for photos. Highly recommend for both tourists and locals who want to understand the Pink City deeply.",
+                },
+                {
+                    author: 'Lisa M.',
+                    country: 'Australia',
+                    rating: 4,
+                    date: '2026-02-28',
+                    text: "Great tour for a first visit to Jaipur. The guide covered Hawa Mahal, Nahargarh Fort viewpoint, and the old market area. He was very patient with our questions and helped us find authentic block print fabrics in the bazaar. Good value for money definitely better than wandering around alone.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'book-guide-for-taj-mahal') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 5,
+            guideRating: 5.0,
+            valueRating: 4.8,
+            reviews: [
+                {
+                    author: 'Amanda C.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-10',
+                    text: "Having an official government licensed guide for the Taj Mahal was the best decision of our trip. He showed us details we would have completely missed on our own like the optical illusion of the minarets and the precious stone inlay work. His Ministry of Tourism ID meant he was the real deal. Worth every penny.",
+                },
+                {
+                    author: 'James P.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-02-25',
+                    text: "Booked an official guide and so glad we did. He met us right at the east gate with a name board. The depth of knowledge about Shah Jahan and the construction of the Taj was incredible. He knew all the best photo spots too. 2 hours felt perfect and very reasonably priced compared to what some touts charge outside.",
+                },
+                {
+                    author: 'Hans B.',
+                    country: 'Netherlands',
+                    rating: 5,
+                    date: '2026-03-05',
+                    text: "Our licensed guide was extraordinary. He explained the symmetry of the gardens, the meaning behind the Quran verses on the walls, and even the engineering feat of the foundation. He spoke perfect English and was very accommodating with our 2 young children. Cant imagine visiting the Taj without a proper guide now.",
+                },
+                {
+                    author: 'Yuki T.',
+                    country: 'Japan',
+                    rating: 4,
+                    date: '2026-02-18',
+                    text: "Guide was knowledgeable and professional. He showed his government ID upfront which gave us confidence. The tour covered the main mausoleum, mosque, and gardens thoroughly. Only reason for 4 stars is that it was very crowded even at 8am. The guide handled it well but the experience would be better with fewer people.",
+                },
+                {
+                    author: 'Maria F.',
+                    country: 'Brazil',
+                    rating: 5,
+                    date: '2026-03-12',
+                    text: "This was the highlight of our 2 week India trip. The guide brought the history alive with his passionate storytelling. He pointed out the pietra dura technique, the changing color of the marble at different times of day, and took the most beautiful photos for us. Highly recommend booking through AsiaByLocals — no hassle no scams.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'agra-half-day-guided-tour') {
+        return {
+            averageRating: 4.6,
+            totalReviews: 4,
+            guideRating: 4.7,
+            valueRating: 4.5,
+            reviews: [
+                {
+                    author: 'David R.',
+                    country: 'Canada',
+                    rating: 5,
+                    date: '2026-03-02',
+                    text: "Perfect for travelers with limited time in Agra. Our guide packed Taj Mahal and Agra Fort into 4 hours without feeling rushed. He started at Taj early to beat the crowds then moved to the Fort where we could see the Taj from Shah Jahan's prison tower. Excellent use of a half day.",
+                },
+                {
+                    author: 'Elena V.',
+                    country: 'Italy',
+                    rating: 4,
+                    date: '2026-02-20',
+                    text: "Good half day tour covering the two main monuments. Guide was informative and spoke good English. He explained the history clearly and helped with photos. We had a car with AC which was nice. Only feedback is that 4 hours feels tight if you want to take your time at Taj Mahal. Consider the full day if youre not in a rush.",
+                },
+                {
+                    author: 'Sarah J.',
+                    country: 'Australia',
+                    rating: 5,
+                    date: '2026-03-08',
+                    text: "We came from Delhi on the morning train and had this half day tour waiting for us. Guide met us at the station and the whole thing was seamless. Taj Mahal was breathtaking and the guide knew exactly where to stand for the best angles. Agra Fort was equally impressive. Back at the station by 2pm for our return train. Brilliant.",
+                },
+                {
+                    author: 'Chen W.',
+                    country: 'Singapore',
+                    rating: 5,
+                    date: '2026-02-14',
+                    text: "Efficient and well organized tour. The guide was a licensed professional who covered both the Taj and the Fort with great depth. I appreciated that he didnt try to take us to any souvenir shops which I've heard is common with other guides. Straight to the monuments and back. Exactly what we wanted.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'heritage-walk-in-agra') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 4,
+            guideRating: 4.9,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: 'Rachel H.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-03-06',
+                    text: "This heritage walk showed us a side of Agra most tourists never see. Our guide took us through narrow lanes to hidden havelis, old Mughal-era bazaars, and a tiny mosque that was absolutely stunning. We even tried local petha sweets at a family workshop. This is the Agra beyond the Taj and its beautiful.",
+                },
+                {
+                    author: 'Mark D.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-02-22',
+                    text: "Amazing walk through old Agra. The guide was passionate and knew every corner of the old city. We saw marble craftsmen using the same techniques as the Taj Mahal builders, visited a 400 year old spice market, and heard stories about the Mughal era that you wont find in any guidebook. Truly unique experience.",
+                },
+                {
+                    author: 'Ingrid S.',
+                    country: 'Sweden',
+                    rating: 4,
+                    date: '2026-03-01',
+                    text: "Really interesting heritage walk. The guide was knowledgable and showed us beautiful architecture hidden in the old town. The marble inlay workshop was fascinating to watch. Only note: wear sturdy shoes as some paths are uneven. But overall a wonderful way to experience authentic Agra culture.",
+                },
+                {
+                    author: 'Priya M.',
+                    country: 'India',
+                    rating: 5,
+                    date: '2026-02-28',
+                    text: "Booked this for my parents visiting from Bangalore and they absolutely loved it. The guide was respectful, patient and told stories that even my history loving father didnt know. The walk covers beautiful parts of Agra that regular tour buses skip completely. Must do if youre in Agra for more than just the Taj.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'female-guide-for-taj-mahal') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 5,
+            guideRating: 5.0,
+            valueRating: 4.8,
+            reviews: [
+                {
+                    author: 'Jessica M.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-09',
+                    text: "As a solo female traveler I specifically wanted a female guide and Im so glad I found this option. My guide was incredibly knowledgeable, government certified, and made me feel completely safe navigating the crowds at Taj Mahal. She knew all the quiet corners for photos and explained the love story behind the monument beautifully.",
+                },
+                {
+                    author: 'Anna K.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-02-26',
+                    text: "Traveling with my teenage daughter and having a female guide was perfect. She connected with both of us and shared fascinating details about Mumtaz Mahal and the women of the Mughal court. Her perspective on the history was refreshing and different from what youll read in books. Highly recommended for women travelers.",
+                },
+                {
+                    author: 'Mei L.',
+                    country: 'Taiwan',
+                    rating: 5,
+                    date: '2026-03-04',
+                    text: "Best tour guide experience in India! She was so professional and her English was excellent. She knew exactly when to visit each section to avoid crowds and took the most amazing photos of us. Having a female guide in India made me feel much more comfortable. She also helped us find good vegetarian food after the tour.",
+                },
+                {
+                    author: 'Laura B.',
+                    country: 'Canada',
+                    rating: 4,
+                    date: '2026-02-19',
+                    text: "Great experience with a very capable female guide. She was punctual, well spoken and clearly passionate about the Taj Mahal. The tour lasted about 2.5 hours which was perfect. She pointed out architectural details we wouldnt have noticed including the calligraphy getting larger as it goes higher to create an optical illusion. Fascinating.",
+                },
+                {
+                    author: 'Sophie R.',
+                    country: 'France',
+                    rating: 5,
+                    date: '2026-03-11',
+                    text: "I was nervous about visiting Agra alone as a woman but this guide made everything easy. She handled everything from tickets to navigation and her historical knowledge was superb. She even recommended the best spots to watch sunset over the Taj from across the river. An empowering experience that I will never forget.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'amber-fort-guided-tour') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 5,
+            guideRating: 4.8,
+            valueRating: 4.6,
+            reviews: [
+                {
+                    author: 'Robert J.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-07',
+                    text: "Amber Fort is massive and having a guide was essential. He showed us the secret passages, the mirror palace (Sheesh Mahal), and explained the ingenious water cooling system the Rajputs built centuries ago. Without a guide we would have just walked around looking at walls. With him every room had a story. Absolutely worth it.",
+                },
+                {
+                    author: 'Claire D.',
+                    country: 'France',
+                    rating: 5,
+                    date: '2026-02-24',
+                    text: "Magnifique! Our guide at Amber Fort was exceptional. He spoke fluent English and French which was a nice surprise. The fort is spectacular but the real value is understanding the history behind it. He showed us the Ganesh Pol gate with its hidden balcony where queens would watch arrivals. 3 hours well spent.",
+                },
+                {
+                    author: 'Michael T.',
+                    country: 'Australia',
+                    rating: 4,
+                    date: '2026-03-03',
+                    text: "Good guided tour of Amber Fort. The guide was knowledgeable and covered the main highlights well including the Light Palace and the queens quarters. Got a bit crowded midday so would recommend the early morning slot. The views from the fort walls over Maota Lake are stunning. Guide helped us get good photos.",
+                },
+                {
+                    author: 'Anika P.',
+                    country: 'India',
+                    rating: 5,
+                    date: '2026-02-16',
+                    text: "Took my in laws from Delhi on this tour and they were so impressed. Guide was a certified professional who made Rajput history come alive. He showed us hidden details in the marble carvings and explained the strategic design of the fort. The Sheesh Mahal demonstration with a single candle flame reflecting thousands of times was magical.",
+                },
+                {
+                    author: 'Emma W.',
+                    country: 'United Kingdom',
+                    rating: 4,
+                    date: '2026-03-10',
+                    text: "Really enjoyable tour. Amber Fort is one of Rajasthans most impressive structures and our guide did it justice. He covered the history from its construction to the British period. Some paths inside the fort are steep so wear comfortable shoes. The guide was patient and adjusted pace for our group which included elderly parents.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'golden-triangle-3-day-tour') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 5,
+            guideRating: 4.9,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: 'Steven H.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-04',
+                    text: "This 3 day Golden Triangle tour exceeded all expectations. Delhi, Agra, and Jaipur in 3 days sounds rushed but the itinerary was perfectly planned. Our guide was the same throughout which meant he could build on stories from one city to the next. Taj Mahal at sunrise on day 2 was unforgettable. Hotels were clean and comfortable. Highly recommend.",
+                },
+                {
+                    author: 'Catherine L.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-02-20',
+                    text: "Brilliant way to see the three most important cities in North India. Our driver and guide were both excellent and made the long drives comfortable. Delhi day covered Red Fort and Qutub Minar, Agra was all about the Taj and Agra Fort, and Jaipur brought us to Amber Fort and the Pink City. Packed but never felt exhausting. Great value.",
+                },
+                {
+                    author: 'Lars N.',
+                    country: 'Norway',
+                    rating: 4,
+                    date: '2026-03-01',
+                    text: "Good tour covering the Golden Triangle. The guide was informative at every stop and the transitions between cities were smooth. Only reason for 4 stars is the hotel in Agra could have been better. But the experiences at Taj Mahal, Amber Fort, and Old Delhi were absolutely world class. Would recommend adding a day to make it less rushed.",
+                },
+                {
+                    author: 'Michelle T.',
+                    country: 'Australia',
+                    rating: 5,
+                    date: '2026-02-28',
+                    text: "If you only have 3 days in India this is THE tour to take. We saw so much and our guide made sure we understood the connections between the Mughal and Rajput histories across all three cities. The sunrise Taj Mahal session was pure magic. Jaipur was the surprise favourite for both me and my husband. Everything was well organized and stress free.",
+                },
+                {
+                    author: 'Kenji Y.',
+                    country: 'Japan',
+                    rating: 5,
+                    date: '2026-03-08',
+                    text: "Very well organized 3 day tour. The guide spoke excellent English and had deep knowledge of Indian history. Highlights were Taj Mahal sunrise, the bustling streets of Old Delhi, and the stunning Amber Fort. All transfers were on time and hotels were good quality. This tour is perfect for first time visitors to India.",
+                },
+            ],
+        };
+    }
+
+    if (slug === 'taj-mahal-delhi-guided-tour') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 4,
+            guideRating: 4.8,
+            valueRating: 4.6,
+            reviews: [
+                {
+                    author: 'Patricia M.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-03-05',
+                    text: "This Delhi to Taj Mahal day tour was perfectly organized. Our driver picked us up at 5am from the hotel in Delhi, we reached Agra by 8:30am, and our local guide was waiting at the east gate. The Taj was breathtaking and the guide added so much context about Shah Jahan. Back in Delhi by evening. Seamless experience.",
+                },
+                {
+                    author: 'Andrew B.',
+                    country: 'Australia',
+                    rating: 4,
+                    date: '2026-02-23',
+                    text: "Good day trip from Delhi to see the Taj Mahal. The drive is about 3.5 hours each way which is long but the guide in Agra was excellent and made the visit very worthwhile. We also stopped at Agra Fort which was a bonus. Car was comfortable with AC. Would have preferred an earlier start to beat some of the crowd.",
+                },
+                {
+                    author: 'Nina S.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-03-10',
+                    text: "Took this tour because we only had one free day during our Delhi business trip. Absolutely the right choice. The guide at the Taj was government certified and his explanations were detailed and fascinating. The driver was careful and professional. Even included a stop for authentic Mughlai lunch. Complete package and great value.",
+                },
+                {
+                    author: 'Chris R.',
+                    country: 'Canada',
+                    rating: 5,
+                    date: '2026-02-18',
+                    text: "Best way to see the Taj Mahal if youre based in Delhi. The tour was well planned with comfortable transport and a knowledgeable guide. He showed us the calligraphy details, the marble inlay work, and the perfect symmetry of the gardens. We also visited Baby Taj which was a quiet beautiful bonus. Highly recommend AsiaByLocals for this.",
                 },
             ],
         };

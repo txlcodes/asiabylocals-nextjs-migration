@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
@@ -1691,14 +1692,13 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
               <div className="flex flex-col gap-0">
                 {/* Image Section */}
                 <div className="w-full shrink-0">
-                  <img
+                  <Image
                     src={item.image}
                     alt={`${item.title} in ${city} `}
-                    className="w-full h-36 md:h-44 object-cover"
-                    style={{ objectFit: 'cover', objectPosition: 'center' }}
-                    loading="lazy"
                     width={400}
                     height={208}
+                    className="w-full h-36 md:h-44 object-cover"
+                    style={{ objectFit: 'cover', objectPosition: 'center' }}
                     onError={(e) => {
                       // Fallback to placeholder if image not found
                       const target = e.target as HTMLImageElement;
@@ -2216,13 +2216,12 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     {/* Image Section */}
                     <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
                       {tour.images && tour.images.length > 0 ? (
-                        <img
+                        <Image
                           src={tour.images[0]}
                           alt={`${tour.title} in ${city} - ${cityInfo.description}`}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                          loading="lazy"
                           width={400}
                           height={208}
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                         />
                       ) : (
                         <div className="w-full h-full bg-gradient-to-br from-[#10B981]/20 to-[#1E3A5F]/20 flex items-center justify-center">

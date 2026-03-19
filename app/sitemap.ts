@@ -48,6 +48,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'things-to-do-in-jaipur', 'jaipur-travel-guide-2026',
     '1-day-jaipur-itinerary', 'amber-fort', 'hawa-mahal',
     'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur',
+    'jantar-mantar-jaipur', 'jal-mahal', 'jaipur-shopping-guide',
+    'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

@@ -18,34 +18,47 @@ function capitalize(str: string) {
 // City-specific SEO titles and descriptions (must match client component)
 const CITY_META: Record<string, { title: string; description: string }> = {
   'Agra': {
-    title: 'Agra Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Agra with licensed local guides. Taj Mahal sunrise tours, heritage walks, food tours & day trips.',
+    title: 'Agra Tours & Things to Do 2026 | Taj Mahal Guided Experiences',
+    description: '30+ Agra tours from $15. Taj Mahal sunrise tours, skip-the-line entry tickets, Agra Fort heritage walks & same-day tours from Delhi. Licensed guides, free cancellation.',
   },
   'Delhi': {
-    title: 'Delhi Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Delhi with licensed local guides. Red Fort tours, Old Delhi heritage walks, street food tours & cultural experiences.',
+    title: 'Delhi Tours & Things to Do 2026 | Local Guided Experiences',
+    description: '25+ Delhi tours from $20. Old & New Delhi sightseeing, India Gate guided tours, Golden Triangle packages & shopping tours. Licensed guides, free cancellation.',
   },
   'Jaipur': {
-    title: 'Jaipur Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Jaipur with licensed local guides. City Palace tours, Hawa Mahal visits, heritage walks & authentic Rajasthan experiences.',
+    title: 'Jaipur Tours & Things to Do 2026 | Rajasthan Guided Experiences',
+    description: '20+ Jaipur tours from $18. Amber Fort guided tours, Hawa Mahal visits, heritage walks, block printing workshops & cooking classes. Licensed guides, free cancellation.',
   },
   'Mumbai': {
-    title: 'Mumbai Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Mumbai with licensed local guides. Gateway of India tours, street food walks, heritage tours & cultural experiences.',
+    title: 'Mumbai Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Mumbai tours from $20. Gateway of India guided tours, Dharavi walks, street food tours, Bollywood experiences & heritage walks. Licensed guides, free cancellation.',
   },
   'Goa': {
-    title: 'Goa Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Goa with licensed local guides. Beach tours, Portuguese heritage walks, spice plantation visits & cultural experiences.',
+    title: 'Goa Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Goa tours from $25. Beach tours, Old Goa heritage walks, spice plantation visits, Dudhsagar Falls trips & Portuguese quarter tours. Licensed guides, free cancellation.',
   },
   'Bangkok': {
-    title: 'Bangkok Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Bangkok with licensed local guides. Grand Palace visits, canal tours, street food walks & floating markets.',
+    title: 'Bangkok Tours & Things to Do 2026 | Local Guided Experiences',
+    description: '20+ Bangkok tours from $30. Grand Palace & Wat Pho visits, floating market day trips, Chinatown food tours & tuk-tuk night tours. Licensed guides, free cancellation.',
   },
   'Phuket': {
-    title: 'Phuket Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Phuket with licensed local guides. Phi Phi Islands, Phang Nga Bay cruises, Big Buddha visits & Old Town tours.',
+    title: 'Phuket Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Phuket tours from $40. Phi Phi Islands speedboat tours, Phang Nga Bay cruises, Big Buddha visits, Muay Thai classes & Old Town walks. Licensed guides, free cancellation.',
   },
 };
+
+// Pre-render priority city pages at build time for fastest TTFB
+export async function generateStaticParams() {
+  return [
+    { country: 'india', city: 'agra' },
+    { country: 'india', city: 'delhi' },
+    { country: 'india', city: 'jaipur' },
+    { country: 'india', city: 'mumbai' },
+    { country: 'india', city: 'goa' },
+    { country: 'thailand', city: 'bangkok' },
+    { country: 'thailand', city: 'phuket' },
+  ];
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country, city } = await params;
@@ -82,7 +95,7 @@ export default async function CityPage({ params }: Props) {
   try {
     const res = await fetch(
       `${API_URL}/api/public/tours?country=${encodeURIComponent(countryName)}&city=${encodeURIComponent(cityName)}&status=approved`,
-      { cache: 'no-store' }  // Don't cache raw API (can exceed 2MB); page-level ISR handles caching
+      { cache: 'no-store' }  // Response can exceed 2MB fetch cache limit; page-level ISR handles output caching
     );
     if (res.ok) {
       const data = await res.json();

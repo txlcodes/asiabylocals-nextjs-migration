@@ -50,18 +50,38 @@ function shortenTitleForMeta(title: string): string {
   return truncated;
 }
 
-// Build a CTR-optimized meta description — leads with trust signals like Viator/GYG
+// Build a content-rich meta description with trust signals
 function buildMetaDescription(tour: any, cityName: string): string {
   const price = tour.pricePerPerson ? `From $${tour.pricePerPerson}` : '';
   const duration = tour.duration || '';
-  const parts: string[] = [];
-  if (price) parts.push(price);
-  parts.push('Free cancellation');
-  if (duration) parts.push(duration);
-  parts.push('Licensed local guide');
-  const trustLine = parts.join(' · ');
-  const desc = `${trustLine}. ${tour.title} in ${cityName}. Book instantly with verified guides on AsiaByLocals.`;
-  return desc.length > 155 ? desc.slice(0, 152) + '...' : desc;
+
+  // Prefer the tour's real description — it has keywords Google already associates with this page
+  const hasGoodDesc = isValidSeoDescription(tour.shortDescription) && tour.shortDescription.length > 40;
+
+  if (hasGoodDesc) {
+    // Content-first: real description + trust signals at end
+    let content = tour.shortDescription.replace(/\s+/g, ' ').trim();
+    // Trim to leave room for trust suffix
+    if (content.length > 110) content = content.substring(0, 107).replace(/\s+\S*$/, '').trim() + '...';
+    const trustParts: string[] = [];
+    if (price) trustParts.push(price);
+    if (duration) trustParts.push(duration);
+    trustParts.push('Free cancellation');
+    const desc = `${content} ${trustParts.join(' · ')}.`;
+    return desc.length > 160 ? desc.slice(0, 157) + '...' : desc;
+  }
+
+  // Fallback: highlight-based description for tours without good shortDescription
+  const highlights = (tour.highlights || []).slice(0, 3).join(', ');
+  const trustParts: string[] = [];
+  if (price) trustParts.push(price);
+  if (duration) trustParts.push(duration);
+  trustParts.push('Free cancellation');
+  const trustLine = trustParts.join(' · ');
+  const base = highlights
+    ? `${tour.title} in ${cityName}: ${highlights}. ${trustLine}.`
+    : `${tour.title} in ${cityName}. ${trustLine}. Book with a licensed local guide.`;
+  return base.length > 160 ? base.slice(0, 157) + '...' : base;
 }
 
 // Strip markdown (links, bold) from text for clean JSON-LD output
@@ -80,6 +100,15 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'jaipur-block-printing-workshop': 'Jaipur Block Printing Workshop – Hands-on',
   'jaipur-heritage-walk-street-food-tour': 'Jaipur Heritage Walk & Street Food Tour',
   'jaipur-same-day-tour-with-cooking-class': 'Jaipur Day Tour with Cooking Class',
+  'jaipur-full-day-sightseeing-tour-by-car': 'Jaipur Full Day Sightseeing Tour by Car – Private',
+  'jaipur-city-tour-with-official-guide': 'Jaipur City Tour with Official Licensed Guide',
+  'jaipur-private-full-day-sightseeing-tour': 'Jaipur Private Full Day Tour – Forts & Palaces',
+  'jaipur-private-full-day-sightseeing-by-car': 'Private Jaipur Day Tour by Car – All Highlights',
+  'jaipur-same-day-tour-from-delhi': 'Jaipur Same Day Tour from Delhi – Private Car',
+  'jaipur-to-agra-taj-mahal-day-trip': 'Jaipur to Agra Taj Mahal Day Trip – Private',
+  'elephant-village-tour-jaipur': 'Elephant Village Tour Jaipur – Ethical Experience',
+  'delhi-to-jaipur-royal-private-day-tour': 'Delhi to Jaipur Royal Day Tour – Private Car',
+  'delhi-to-jaipur-same-day-tour-by-car': 'Delhi to Jaipur Same Day Tour by Car',
   // Agra
   'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Guide in Agra',
   'taj-mahal-guided-tour': 'Taj Mahal Guided Tour – Certified Guide in Agra',
@@ -132,6 +161,46 @@ function isInfoSlug(city: string, slug: string): boolean {
   return false;
 }
 
+// Pre-render high-traffic tour pages at build time for fastest TTFB
+export async function generateStaticParams() {
+  return [
+    // Agra — highest search volume
+    { country: 'india', city: 'agra', slug: 'taj-mahal-entry-ticket' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-sunrise-tour' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-official-guided-tour' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-agra-fort-guided-tour' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-sunrise-guided-tour' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-full-day-tour' },
+    { country: 'india', city: 'agra', slug: 'taj-mahal-photography-tour' },
+    { country: 'india', city: 'agra', slug: 'fatehpur-sikri-guided-tour' },
+    { country: 'india', city: 'agra', slug: 'agra-city-highlights-tour' },
+    { country: 'india', city: 'agra', slug: 'same-day-taj-mahal-tour-by-car-from-delhi' },
+    // Delhi
+    { country: 'india', city: 'delhi', slug: 'explore-old-new-delhi-city-luxury-car-tour' },
+    { country: 'india', city: 'delhi', slug: 'india-gate-guided-tour' },
+    { country: 'india', city: 'delhi', slug: 'delhi-guided-shopping-tour-female-expert' },
+    { country: 'india', city: 'delhi', slug: 'golden-triangle-tour-delhi-agra-jaipur' },
+    { country: 'india', city: 'delhi', slug: 'taj-mahal-same-day-express-train-tour' },
+    // Jaipur
+    { country: 'india', city: 'jaipur', slug: 'amber-fort-official-guided-tour' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-shopping-tour' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-heritage-walk-street-food-tour' },
+    { country: 'india', city: 'jaipur', slug: 'hawa-mahal-private-tour' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-full-day-sightseeing-tour-by-car' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-block-printing-workshop' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-same-day-tour-from-delhi' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-same-day-tour-with-cooking-class' },
+    { country: 'india', city: 'jaipur', slug: 'elephant-village-tour-jaipur' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-to-agra-taj-mahal-day-trip' },
+    { country: 'india', city: 'jaipur', slug: 'jaipur-city-tour-with-official-guide' },
+    // Bangkok
+    { country: 'thailand', city: 'bangkok', slug: 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour' },
+    // Phuket
+    { country: 'thailand', city: 'phuket', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling' },
+  ];
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country, city, slug } = await params;
   const cityName = capitalize(city);
@@ -161,7 +230,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Tour detail page — fetch tour for metadata
   try {
     const res = await fetch(`${API_URL}/api/public/tours/by-slug/${encodeURIComponent(slug)}`, {
-      cache: 'no-store',
+      cache: 'no-store',  // Response exceeds 2MB fetch cache limit; page-level ISR handles caching
     });
     if (res.ok) {
       const data = await res.json();
@@ -245,7 +314,7 @@ export default async function SlugPage({ params }: Props) {
   let tour = null;
   try {
     const res = await fetch(`${API_URL}/api/public/tours/by-slug/${encodeURIComponent(slug)}`, {
-      cache: 'no-store',
+      cache: 'no-store',  // Response exceeds 2MB fetch cache limit; page-level ISR handles caching
     });
     if (res.ok) {
       const data = await res.json();
@@ -276,6 +345,7 @@ export default async function SlugPage({ params }: Props) {
   const ratingValue = (4.0 + (ratingNorm * 1.0)).toFixed(1);
   const reviewCount = Math.floor(ratingNorm * 100) + 20;
   const tourUrl = `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`;
+  const todayISO = new Date().toISOString().split('T')[0];
 
   // Build real itinerary from tour data
   const itineraryItems = Array.isArray(tour?.itineraryItems) && tour.itineraryItems.length > 0
@@ -344,6 +414,8 @@ export default async function SlugPage({ params }: Props) {
         description: tour?.shortDescription || '',
         image: tour?.images?.[0] || '',
         url: tourUrl,
+        datePublished: '2025-01-01',
+        dateModified: todayISO,
         brand: { '@type': 'Brand', name: 'AsiaByLocals' },
         offers: {
           '@type': 'Offer',
@@ -369,6 +441,8 @@ export default async function SlugPage({ params }: Props) {
         description: tour?.fullDescription || tour?.shortDescription || '',
         image: tour?.images?.[0] || '',
         url: tourUrl,
+        datePublished: '2025-01-01',
+        dateModified: todayISO,
         touristType: tour?.category || 'Cultural Tourism',
         ...(tour?.duration ? { duration: tour.duration } : {}),
         ...(tour?.maxGroupSize ? { maximumAttendeeCapacity: tour.maxGroupSize } : {}),
@@ -421,12 +495,24 @@ export default async function SlugPage({ params }: Props) {
       { slug: 'fatehpur-sikri-guided-tour', title: 'Fatehpur Sikri Guided Tour' },
       { slug: 'taj-mahal-fatehpur-full-day-tour', title: 'Taj Mahal & Fatehpur Sikri Full Day Tour' },
       { slug: 'agra-friday-tour-taj-closed-alternative', title: 'Agra Friday Tour - Taj Closed Alternative' },
+      { slug: 'taj-mahal-agra-fort-guided-tour', title: 'Taj Mahal & Agra Fort Guided Tour' },
+      { slug: 'taj-mahal-photography-tour', title: 'Taj Mahal Photography Tour' },
+      { slug: 'taj-mahal-royal-private-tour', title: 'Taj Mahal Royal Private Tour' },
+      { slug: 'female-guide-for-taj-mahal', title: 'Female Guide for Taj Mahal' },
+      { slug: 'heritage-walk-in-agra', title: 'Heritage Walk in Agra' },
     ],
     delhi: [
       { slug: 'explore-old-new-delhi-city-luxury-car-tour', title: 'Old & New Delhi City Tour' },
       { slug: 'delhi-guided-shopping-tour-female-expert', title: 'Delhi Guided Shopping Tour' },
       { slug: 'india-gate-guided-tour', title: 'India Gate Guided Tour' },
-      { slug: 'golden-triangle-3-day-tour', title: 'Golden Triangle 3-Day Tour' },
+      { slug: 'golden-triangle-tour-delhi-agra-jaipur', title: '3-Day Golden Triangle Tour' },
+      { slug: 'taj-mahal-same-day-express-train-tour', title: 'Taj Mahal Express Train Tour from Delhi' },
+      { slug: 'same-day-taj-mahal-tour-by-car-from-delhi', title: 'Same Day Taj Mahal Tour by Car' },
+      { slug: 'from-delhi-same-day-taj-mahal-fastest-train', title: 'Fastest Train to Taj Mahal from Delhi' },
+      { slug: 'delhi-full-day-guided-tour', title: 'Delhi Full Day Guided Tour' },
+      { slug: 'old-new-delhi-guided-tour', title: 'Old & New Delhi Heritage Tour' },
+      { slug: 'delhi-private-4-day-golden-triangle-luxury-tour', title: '4-Day Golden Triangle Luxury Tour' },
+      { slug: 'sunrise-taj-mahal-and-agra-tour-by-car', title: 'Sunrise Taj Mahal Tour from Delhi' },
     ],
     jaipur: [
       { slug: 'amber-fort-official-guided-tour', title: 'Amber Fort Official Guided Tour' },
@@ -436,6 +522,13 @@ export default async function SlugPage({ params }: Props) {
       { slug: 'jaipur-full-day-sightseeing-tour-by-car', title: 'Jaipur Full Day Sightseeing Tour' },
       { slug: 'jaipur-block-printing-workshop', title: 'Jaipur Block Printing Workshop' },
       { slug: 'jaipur-same-day-tour-from-delhi', title: 'Jaipur Same Day Tour from Delhi' },
+      { slug: 'hawa-mahal-private-tour', title: 'Hawa Mahal & Jaipur Highlights Tour' },
+      { slug: 'jaipur-same-day-tour-with-cooking-class', title: 'Jaipur Day Tour with Cooking Class' },
+      { slug: 'elephant-village-tour-jaipur', title: 'Elephant Village Tour in Jaipur' },
+      { slug: 'jaipur-city-tour-with-official-guide', title: 'Jaipur City Tour with Official Guide' },
+      { slug: 'jaipur-private-full-day-sightseeing-tour', title: 'Jaipur Private Full Day Tour' },
+      { slug: 'jaipur-to-agra-taj-mahal-day-trip', title: 'Jaipur to Agra Taj Mahal Day Trip' },
+      { slug: 'delhi-to-jaipur-royal-private-day-tour', title: 'Delhi to Jaipur Royal Day Tour' },
     ],
     bangkok: [
       { slug: 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour', title: 'Grand Palace, Wat Pho & Wat Arun Guided Tour' },
@@ -455,6 +548,39 @@ export default async function SlugPage({ params }: Props) {
   // Filter out the current tour from internal links
   const otherTourLinks = cityTourLinks.filter(t => t.slug !== slug);
 
+  // Info page cross-links — two-way linking between tour pages and info pages
+  const CITY_INFO_LINKS: Record<string, { slug: string; title: string }[]> = {
+    jaipur: [
+      { slug: 'things-to-do-in-jaipur', title: 'Things to Do in Jaipur' },
+      { slug: 'jaipur-travel-guide-2026', title: 'Jaipur Travel Guide 2026' },
+      { slug: 'amber-fort', title: 'Amber Fort Guide' },
+      { slug: 'hawa-mahal', title: 'Hawa Mahal Guide' },
+      { slug: 'jantar-mantar-jaipur', title: 'Jantar Mantar Jaipur' },
+      { slug: 'jal-mahal', title: 'Jal Mahal Guide' },
+      { slug: 'best-time-to-visit-jaipur', title: 'Best Time to Visit Jaipur' },
+      { slug: 'jaipur-shopping-guide', title: 'Jaipur Shopping Guide' },
+      { slug: 'places-to-visit-in-jaipur', title: 'Places to Visit in Jaipur' },
+    ],
+    agra: [
+      { slug: 'things-to-do-in-agra', title: 'Things to Do in Agra' },
+      { slug: 'agra-travel-guide-2026', title: 'Agra Travel Guide 2026' },
+      { slug: 'taj-mahal', title: 'Taj Mahal Guide' },
+      { slug: 'agra-fort', title: 'Agra Fort Guide' },
+      { slug: 'taj-mahal-ticket-price-2026', title: 'Taj Mahal Ticket Price 2026' },
+      { slug: 'best-time-to-visit-agra', title: 'Best Time to Visit Agra' },
+    ],
+    delhi: [
+      { slug: 'things-to-do-in-delhi', title: 'Things to Do in Delhi' },
+      { slug: 'delhi-travel-guide-2026', title: 'Delhi Travel Guide 2026' },
+      { slug: 'red-fort', title: 'Red Fort Guide' },
+      { slug: 'india-gate', title: 'India Gate Guide' },
+    ],
+  };
+
+  const cityInfoLinks = CITY_INFO_LINKS[citySlug] || [];
+  // Filter out current slug if it's an info page being viewed from tour context
+  const otherInfoLinks = cityInfoLinks.filter(t => t.slug !== slug);
+
   return (
     <>
       {/* Server-rendered JSON-LD — guaranteed in raw HTML for crawlers & AI engines */}
@@ -471,6 +597,26 @@ export default async function SlugPage({ params }: Props) {
           <h2 className="text-2xl font-black text-[#001A33] mb-6">More {cityName} Tours</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {otherTourLinks.map((t) => (
+              <Link
+                key={t.slug}
+                href={`/${countrySlug}/${citySlug}/${t.slug}`}
+                className="p-4 rounded-xl border border-gray-200 hover:border-[#10B981] hover:shadow-md transition-all group"
+              >
+                <span className="text-[15px] font-black text-[#001A33] group-hover:text-[#10B981] transition-colors">
+                  {t.title}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </nav>
+      )}
+
+      {/* Server-rendered info page cross-links — two-way linking for SEO */}
+      {otherInfoLinks.length > 0 && (
+        <nav aria-label={`${cityName} travel guides`} className="max-w-7xl mx-auto px-6 pb-12">
+          <h2 className="text-2xl font-black text-[#001A33] mb-6">{cityName} Travel Guides</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {otherInfoLinks.map((t) => (
               <Link
                 key={t.slug}
                 href={`/${countrySlug}/${citySlug}/${t.slug}`}

@@ -35,6 +35,7 @@ import {
   Utensils,
   Home
 } from 'lucide-react';
+import Image from 'next/image';
 import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
@@ -1294,13 +1295,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           setShowImageModal(true);
                         }}
                       >
-                        <img
+                        <Image
                           src={mainImage}
                           alt={tour.title}
-                          className="w-full h-[500px] object-cover rounded-2xl"
-                          fetchPriority="high"
                           width={1200}
                           height={500}
+                          priority
+                          className="w-full h-[500px] object-cover rounded-2xl"
                         />
                         <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
                       </div>
@@ -1316,12 +1317,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             setShowImageModal(true);
                           }}
                         >
-                          <img
+                          <Image
                             src={image}
                             alt={`${tour.title} ${index + 2}`}
+                            width={400}
+                            height={246}
                             className={`w-full object-cover rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
                               }`}
-                            loading="lazy"
                           />
                           {index === 1 && remainingImages > 0 && (
                             <div className="absolute inset-0 bg-black/60 rounded-2xl flex items-center justify-center pointer-events-none z-10">
@@ -1441,7 +1443,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   {/* Option Image */}
                                   {optImg && (
                                     <div className="w-full h-44 overflow-hidden">
-                                      <img src={optImg} alt={option.optionTitle} className="w-full h-full object-cover" loading="lazy" />
+                                      <Image src={optImg} alt={option.optionTitle} width={400} height={176} className="w-full h-full object-cover" />
                                     </div>
                                   )}
 

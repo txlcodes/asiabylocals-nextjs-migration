@@ -142,7 +142,9 @@ export const DELHI_INFO_SLUGS = [
 export const JAIPUR_INFO_SLUGS = [
   'things-to-do-in-jaipur', 'jaipur-travel-guide-2026',
   '1-day-jaipur-itinerary', 'amber-fort', 'hawa-mahal',
-  'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur'
+  'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur',
+  'jantar-mantar-jaipur', 'jal-mahal', 'jaipur-shopping-guide',
+  'best-time-to-visit-jaipur', '2-day-jaipur-itinerary'
 ];
 
 export const PHUKET_INFO_SLUGS = [

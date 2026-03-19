@@ -94,6 +94,86 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- Jaipur Info Pages -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/things-to-do-in-jaipur</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/jaipur-travel-guide-2026</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/1-day-jaipur-itinerary</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/amber-fort</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/hawa-mahal</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/city-palace-jaipur</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/nahargarh-fort</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/places-to-visit-in-jaipur</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/jantar-mantar-jaipur</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/jal-mahal</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/jaipur-shopping-guide</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/best-time-to-visit-jaipur</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.asiabylocals.com/india/jaipur/2-day-jaipur-itinerary</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- Layer 4: Tour 209 - taj-mahal-royal-private-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-royal-private-tour</loc>
