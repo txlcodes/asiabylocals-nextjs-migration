@@ -384,7 +384,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
       // FALLBACK 3: If we STILL don't have groupPricingTiers, try TEMPORARY multiplication fallback
       if (!groupPricingTiers || !Array.isArray(groupPricingTiers) || groupPricingTiers.length === 0) {
-        const fallbackPricePerPerson = tourData.pricePerPerson || tour?.pricePerPerson;
+        const fallbackPricePerPerson = tourData.pricePerPerson || tourData.price || tour?.pricePerPerson;
         const fallbackMaxGroupSize = tourData.maxGroupSize || tour?.maxGroupSize || 10;
 
         if (fallbackPricePerPerson && fallbackPricePerPerson > 0) {
@@ -3488,7 +3488,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       }
 
       {/* Floating Mobile Book Button — visible only on mobile/tablet when booking box is off-screen */}
-      <div className="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-white border-t border-gray-200 shadow-[0_-4px_20px_rgba(0,0,0,0.1)] px-4 py-3 flex items-center justify-between gap-3">
+      <div className="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-white border-t border-gray-200 shadow-[0_-4px_20px_rgba(0,0,0,0.1)] px-4 pt-3 flex items-center justify-between gap-3" style={{ paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom, 0px))' }}>
         <div className="flex flex-col">
           <span className="text-[12px] text-gray-500 font-semibold">Starting from</span>
           <span className="text-[20px] font-black text-[#10B981]">

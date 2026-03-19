@@ -2,17 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "frontend",
+      "name": "nextjs-dev",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "port": 3000
-    },
-    {
-      "name": "backend",
-      "runtimeExecutable": "node",
-      "runtimeArgs": ["--watch", "server.js"],
-      "port": 3001,
-      "cwd": "server"
     }
   ]
 }

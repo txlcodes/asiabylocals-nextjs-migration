@@ -3209,7 +3209,8 @@ app.post('/api/tours', async (req, res) => {
       locationEntryTickets,
       guideType,
       currency,
-      pickupIncluded
+      pickupIncluded,
+      activityProvider
     } = finalCleanedBody; // Use final cleaned body (IDs and pricingType removed)
 
     // #region agent log
@@ -4314,6 +4315,7 @@ app.post('/api/tours', async (req, res) => {
       notIncluded: notIncluded || null,
       meetingPoint: meetingPoint || null,
       guideType: guideType || null,
+      activityProvider: activityProvider || null,
       tourTypes: tourTypesArray && tourTypesArray.length > 0 ? JSON.stringify(tourTypesArray) : null,
       images: JSON.stringify(imageUrls), // Store Cloudinary URLs instead of base64
       languages: JSON.stringify(languagesArray || ['English']),
@@ -6193,6 +6195,7 @@ app.put('/api/tours/:id', async (req, res) => {
     if (updateData.notIncluded !== undefined) dataToUpdate.notIncluded = updateData.notIncluded;
     if (updateData.meetingPoint !== undefined) dataToUpdate.meetingPoint = updateData.meetingPoint;
     if (updateData.guideType !== undefined) dataToUpdate.guideType = updateData.guideType;
+    if (updateData.activityProvider !== undefined) dataToUpdate.activityProvider = updateData.activityProvider || null;
     if (updateData.tourTypes !== undefined) {
       dataToUpdate.tourTypes = updateData.tourTypes
         ? JSON.stringify(typeof updateData.tourTypes === 'string' ? JSON.parse(updateData.tourTypes) : updateData.tourTypes)

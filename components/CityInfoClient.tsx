@@ -58,12 +58,16 @@ const JAIPUR_SIDEBAR = [
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
 const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string; image?: string; price?: string; rating?: string }[]> = {
     'agra': [
-        { title: 'Book Official Tour Guide for Taj Mahal', slug: 'taj-mahal-official-guided-tour', description: 'Licensed ASI-certified guide with skip-the-line entry' },
-        { title: 'Taj Mahal Entry Ticket Assistance', slug: 'taj-mahal-entry-ticket', description: 'Pre-booked tickets with preferred time slot secured' },
-        { title: 'Taj Mahal Sunrise Tour', slug: 'taj-mahal-sunrise-tour', description: 'Early morning visit with golden light photography' },
-        { title: 'Agra Friday Tour (Taj Closed Alternative)', slug: 'agra-friday-tour-taj-closed-alternative', description: 'Agra Fort, Baby Taj & Mehtab Bagh sunset itinerary' },
-        { title: 'Book Tour Guide for Fatehpur Sikri', slug: 'fatehpur-sikri-guided-tour', description: 'Explore Akbar\'s abandoned ghost capital with a historian' },
-        { title: 'Agra City Highlights Tour', slug: 'agra-city-highlights-tour', description: 'Full-day heritage tour covering all major monuments' },
+        { title: 'Book Official Tour Guide for Taj Mahal', slug: 'taj-mahal-official-guided-tour', description: 'Licensed ASI-certified guide with skip-the-line entry — 3 hours', image: '/things-to-do/agra-official-guide.webp', price: 'From $15', rating: '4.9' },
+        { title: 'Taj Mahal Entry Ticket Assistance', slug: 'taj-mahal-entry-ticket', description: 'Pre-booked digital tickets with preferred time slot secured', image: '/things-to-do/agra-taj-ticket.webp', price: 'From $18', rating: '4.8' },
+        { title: 'Taj Mahal Sunrise Tour', slug: 'taj-mahal-sunrise-tour', description: 'Early morning visit with golden hour photography & licensed guide', image: '/things-to-do/agra-taj-mahal-sunrise.webp', price: 'From $20', rating: '4.9' },
+        { title: 'Taj Mahal & Agra Fort Guided Tour', slug: 'taj-mahal-agra-fort-guided-tour', description: 'Both UNESCO monuments in one day with a historian guide', image: '/things-to-do/agra-fort-gate.webp', price: 'From $25', rating: '4.9' },
+        { title: 'Agra Friday Tour (Taj Closed Alternative)', slug: 'agra-friday-tour-taj-closed-alternative', description: 'Agra Fort, Baby Taj & Mehtab Bagh sunset — perfect Friday itinerary', image: '/things-to-do/agra-baby-taj.jpg', price: 'From $22', rating: '4.8' },
+        { title: 'Book Tour Guide for Fatehpur Sikri', slug: 'fatehpur-sikri-guided-tour', description: 'Explore Akbar\'s abandoned ghost capital with a historian — 3 hours', image: '/things-to-do/agra-fatehpur-sikri.webp', price: 'From $18', rating: '4.8' },
+        { title: 'Female Guide for Taj Mahal', slug: 'female-guide-for-taj-mahal', description: 'Licensed female historian guide — ideal for solo women & families', image: '/things-to-do/agra-female-guide-tour.webp', price: 'From $18', rating: '4.9' },
+        { title: 'Taj Mahal Photography Tour', slug: 'taj-mahal-photography-tour', description: 'Professional photography spots & timing with an expert guide', image: '/things-to-do/agra-taj-mahal-garden.webp', price: 'From $25', rating: '4.8' },
+        { title: 'Same Day Taj Mahal Tour from Delhi', slug: 'taj-mahal-delhi-guided-tour', description: 'Full-day Delhi to Agra round trip with private car & guide', image: '/things-to-do/agra-transfer-car.webp', price: 'From $65', rating: '4.9' },
+        { title: 'Taj Mahal Royal Private Tour', slug: 'taj-mahal-royal-private-tour', description: 'Premium private experience — Taj, Agra Fort & Baby Taj with luxury transport', image: '/things-to-do/agra-taj-mahal-mosque.webp', price: 'From $85', rating: '4.9' },
     ],
     'delhi': [
         { title: 'Explore Old & New Delhi by Luxury Car', slug: 'explore-old-new-delhi-city-luxury-car-tour', description: 'Premium guided tour covering Red Fort, India Gate & more' },
