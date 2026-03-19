@@ -50,38 +50,16 @@ function shortenTitleForMeta(title: string): string {
   return truncated;
 }
 
-// Build a content-rich meta description with trust signals
+// Use the tour's real description — Google already associates these keywords with the page
 function buildMetaDescription(tour: any, cityName: string): string {
-  const price = tour.pricePerPerson ? `From $${tour.pricePerPerson}` : '';
-  const duration = tour.duration || '';
-
-  // Prefer the tour's real description — it has keywords Google already associates with this page
-  const hasGoodDesc = isValidSeoDescription(tour.shortDescription) && tour.shortDescription.length > 40;
-
-  if (hasGoodDesc) {
-    // Content-first: real description + trust signals at end
-    let content = tour.shortDescription.replace(/\s+/g, ' ').trim();
-    // Trim to leave room for trust suffix
-    if (content.length > 110) content = content.substring(0, 107).replace(/\s+\S*$/, '').trim() + '...';
-    const trustParts: string[] = [];
-    if (price) trustParts.push(price);
-    if (duration) trustParts.push(duration);
-    trustParts.push('Free cancellation');
-    const desc = `${content} ${trustParts.join(' · ')}.`;
-    return desc.length > 160 ? desc.slice(0, 157) + '...' : desc;
+  // Use shortDescription directly — content-rich descriptions rank better than templated ones
+  if (tour.shortDescription && tour.shortDescription.length > 30) {
+    let desc = tour.shortDescription.replace(/\s+/g, ' ').trim();
+    if (desc.length > 155) desc = desc.substring(0, 152).replace(/\s+\S*$/, '').trim() + '...';
+    return desc;
   }
-
-  // Fallback: highlight-based description for tours without good shortDescription
-  const highlights = (tour.highlights || []).slice(0, 3).join(', ');
-  const trustParts: string[] = [];
-  if (price) trustParts.push(price);
-  if (duration) trustParts.push(duration);
-  trustParts.push('Free cancellation');
-  const trustLine = trustParts.join(' · ');
-  const base = highlights
-    ? `${tour.title} in ${cityName}: ${highlights}. ${trustLine}.`
-    : `${tour.title} in ${cityName}. ${trustLine}. Book with a licensed local guide.`;
-  return base.length > 160 ? base.slice(0, 157) + '...' : base;
+  // Fallback only for tours with no/bad description
+  return `${tour.title} in ${cityName}. Book with a licensed local guide on AsiaByLocals.`;
 }
 
 // Strip markdown (links, bold) from text for clean JSON-LD output
@@ -92,63 +70,15 @@ function stripMarkdown(text: string): string {
 // SEO title overrides — when the database title doesn't match the target keyword
 // These override ONLY the meta title tag, not the on-page H1 (H1 comes from tour.title)
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
-  // Jaipur
+  // Only override titles where database title is genuinely broken or truncated
+  // DO NOT add overrides for pages that are already ranking — title changes reset Google rankings
   'amber-fort-official-guided-tour': 'Amber Fort Official Guided Tour – Jaipur',
   'hawa-mahal-private-tour': 'Hawa Mahal & Jaipur Highlights Private Tour',
   'jaipur-shopping-tour': 'Jaipur Shopping Tour – Crafts, Gems & Textiles',
-  'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
-  'jaipur-block-printing-workshop': 'Jaipur Block Printing Workshop – Hands-on',
-  'jaipur-heritage-walk-street-food-tour': 'Jaipur Heritage Walk & Street Food Tour',
-  'jaipur-same-day-tour-with-cooking-class': 'Jaipur Day Tour with Cooking Class',
-  'jaipur-full-day-sightseeing-tour-by-car': 'Jaipur Full Day Sightseeing Tour by Car – Private',
-  'jaipur-city-tour-with-official-guide': 'Jaipur City Tour with Official Licensed Guide',
-  'jaipur-private-full-day-sightseeing-tour': 'Jaipur Private Full Day Tour – Forts & Palaces',
-  'jaipur-private-full-day-sightseeing-by-car': 'Private Jaipur Day Tour by Car – All Highlights',
-  'jaipur-same-day-tour-from-delhi': 'Jaipur Same Day Tour from Delhi – Private Car',
-  'jaipur-to-agra-taj-mahal-day-trip': 'Jaipur to Agra Taj Mahal Day Trip – Private',
-  'elephant-village-tour-jaipur': 'Elephant Village Tour Jaipur – Ethical Experience',
-  'delhi-to-jaipur-royal-private-day-tour': 'Delhi to Jaipur Royal Day Tour – Private Car',
-  'delhi-to-jaipur-same-day-tour-by-car': 'Delhi to Jaipur Same Day Tour by Car',
-  // Agra
-  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Guide in Agra',
-  'taj-mahal-guided-tour': 'Taj Mahal Guided Tour – Certified Guide in Agra',
-  'taj-mahal-photography-tour': 'Taj Mahal Photography Tour in Agra',
-  'mysteries-of-agra-local-tour': 'Mysteries of Agra – Local Heritage Tour',
-  'agra-friday-tour-taj-closed-alternative': 'Agra Friday Tour – Best Sites When Taj Is Closed',
-  'hidden-gems-of-agra-heritage-tour': 'Hidden Gems of Agra – Beyond the Taj Mahal',
-  'taj-mahal-pickup-private-tour': 'Agra Fort & Baby Taj Private Tour',
-  'taj-mahal-sunrise-tour': 'Taj Mahal Sunrise Tour in Agra',
-  'taj-mahal-sunrise-guided-tour': 'Taj Mahal Sunrise Guided Tour in Agra',
-  'agra-city-highlights-tour': 'Agra City Highlights Tour with Guide',
-  'taj-mahal-half-day-tour': 'Taj Mahal Half-Day Tour – Private Guide in Agra',
-  'agra-photography-tour-with-guide': 'Agra Photography Tour with Guide',
-  'taj-mahal-royal-private-tour': 'Taj Mahal Royal Private Tour in Agra',
-  'taj-mahal-agra-private-day-tour-with-lunch': 'Taj Mahal & Agra Day Tour with Lunch',
-  'taj-mahal-sunrise-tour-from-agra': 'Taj Mahal Sunrise Tour from Agra',
-  'agra-royal-sunrise-tour': 'Agra Royal Sunrise Tour – Taj Mahal & Fort',
-  'taj-mahal-vrindavan-full-day-tour': 'Taj Mahal & Vrindavan Day Tour from Agra',
-  'taj-mahal-agra-fort-guided-tour': 'Taj Mahal & Agra Fort Guided Tour',
-  'private-sunrise-taj-mahal-agra-fort-tour': 'Private Sunrise Taj Mahal & Agra Fort Tour',
-  'same-day-taj-mahal-tour-by-car-from-delhi': 'Same Day Taj Mahal Tour by Car from Delhi',
-  // Delhi
-  'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private Sightseeing',
+  'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private City Sightseeing',
   'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
-  'taj-mahal-sunrise-elephant-conservation-tour': 'Taj Mahal Sunrise & Elephant Tour from Delhi',
-  'sunrise-taj-mahal-and-agra-tour-by-car': 'Sunrise Taj Mahal Tour from Delhi by Car',
-  'taj-mahal-superfast-guided-tour': 'Taj Mahal Superfast Train Tour from Delhi',
-  'india-gate-guided-tour': 'India Gate Guided Tour in Delhi',
-  'taj-mahal-same-day-express-train-tour': 'Taj Mahal Express Train Tour from Delhi',
-  'from-delhi-same-day-taj-mahal-fastest-train': 'Same Day Taj Mahal – Fastest Train from Delhi',
-  'delhi-private-4-day-golden-triangle-luxury-tour': '4-Day Golden Triangle Luxury Tour from Delhi',
-  '5-days-golden-triangle-ranthambore-tiger-safari': '5-Day Golden Triangle & Ranthambore Tiger Safari',
-  '5-days-golden-triangle-tour-from-delhi': '5-Day Golden Triangle Tour from Delhi',
-  'golden-triangle-tour-delhi-agra-jaipur': '3-Day Golden Triangle Tour – Delhi, Agra & Jaipur',
-  // Udaipur
-  'city-palace-full-day-tour': 'Udaipur City Palace Full-Day Tour',
-  // Phuket
-  'phi-phi-islands-speedboat-tour-maya-bay-snorkeling': 'Phi Phi Islands Speedboat Tour – Maya Bay',
-  'phuket-private-yacht-catamaran-charter-island-hopping': 'Phuket Private Yacht Charter – Island Hopping',
-  'muay-thai-training-class-phuket-beginners': 'Muay Thai Training Class Phuket – Beginners',
+  'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
+  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Local Guide in Agra',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {
@@ -256,7 +186,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           openGraph: {
             title: titleTag,
             description,
-            images: tour.images?.[0] ? [{ url: tour.images[0] }] : [],
+            images: tour.images?.[0] ? [{ url: tour.images[0], width: 1200, height: 630, alt: tour.title }] : [],
           },
         };
       }
