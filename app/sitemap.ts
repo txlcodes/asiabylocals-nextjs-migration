@@ -9,13 +9,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticPages = [
     '', '/about-us', '/privacy-policy', '/terms-and-conditions',
     '/safety-guidelines', '/support', '/supplier',
+    '/getyourguide-viator-alternative',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
     '/thailand', '/thailand/phuket', '/thailand/bangkok',
   ].map(path => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: path === '' ? 1.0 : 0.8,
+    priority: path === '' ? 1.0 : path === '/getyourguide-viator-alternative' ? 0.9 : 0.8,
   }));
 
   // Agra info pages (including taj-mahal, agra-fort, fatehpur-sikri)

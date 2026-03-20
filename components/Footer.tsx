@@ -41,6 +41,7 @@ const Footer: React.FC = () => {
                         <h5 className="font-black text-xs uppercase tracking-widest text-gray-500 mb-5">Company</h5>
                         <ul className="space-y-3 text-sm font-bold text-gray-400">
                             <li><Link href="/about-us" className="hover:text-white transition-colors">About Us</Link></li>
+                            <li><Link href="/getyourguide-viator-alternative" className="hover:text-white transition-colors">Why AsiaByLocals?</Link></li>
                             <li><Link href="/supplier" className="hover:text-white transition-colors">Become a Supplier</Link></li>
                         </ul>
                     </div>
