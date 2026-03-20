@@ -231,7 +231,7 @@ export const FEATURED_TOURS: FeaturedTour[] = [
     description:
       'Skip-the-line entry with a government-licensed guide. Explore the Taj Mahal\'s history, architecture, and hidden details most tourists miss.',
     image:
-      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1741789611/tours/taj-mahal/hq_1.jpg',
+      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1769953944/tours/agra/tours/agra_1769953943959_0.jpg',
     price: 'From $25',
     rating: '4.9',
     duration: '2 hours',
@@ -257,7 +257,7 @@ export const FEATURED_TOURS: FeaturedTour[] = [
     description:
       'Taste 15+ dishes including Michelin-recommended street food. Led by a local food expert through Yaowarat\'s best hidden stalls.',
     image:
-      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-chinatown-food/hq_1.jpg',
+      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg',
     price: 'From $39',
     rating: '4.9',
     duration: '3 hours',
@@ -270,20 +270,20 @@ export const FEATURED_TOURS: FeaturedTour[] = [
     description:
       'Full-day private tour covering Jaipur\'s top landmarks with a certified local guide. Includes Amber Fort elephant ramp area.',
     image:
-      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1741789611/tours/jaipur-city/hq_1.jpg',
+      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1771770878/tours/jaipur/tours/jaipur_1771770877736_0.jpg',
     price: 'From $35',
     rating: '4.9',
     duration: '8 hours',
   },
   {
     title: 'Phuket Island Hopping — Phi Phi & Maya Bay',
-    slug: 'phuket-phi-phi-island-tour-maya-bay-speedboat',
+    slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
     city: 'phuket',
     country: 'thailand',
     description:
       'Speedboat tour to Phi Phi Islands and Maya Bay with snorkeling stops. Small group with local Thai boat captain.',
     image:
-      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/phuket-phi-phi/hq_1.jpg',
+      'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835263/tours/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling-0.jpg',
     price: 'From $55',
     rating: '4.8',
     duration: '8 hours',

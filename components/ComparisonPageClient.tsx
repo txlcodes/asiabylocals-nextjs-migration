@@ -48,9 +48,9 @@ export default function ComparisonPageClient() {
             <img
               src="/logo.png"
               alt="AsiaByLocals"
-              className="h-10 w-auto"
-              width={80}
-              height={40}
+              className="h-16 w-auto"
+              width={128}
+              height={64}
             />
           </Link>
           <Link
