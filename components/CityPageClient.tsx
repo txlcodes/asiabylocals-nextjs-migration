@@ -1999,17 +1999,33 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
   const citySlug = city.toLowerCase().replace(/\s+/g, '-');
 
-  // Preferred top-rated tours to prioritize in the list (order = display order)
-  const preferredTitles = [
-    'Book Official Tour Guide for Taj Mahal',
-    'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
-    'Agra City Highlights Tour',
-    'Agra & Fatehpur Sikri Day Trip',
-    'Book Tour Guide for Fatehpur Sikri Visit',
-  ];
+  // Preferred top-rated tours to prioritize in the list (order = display order), per city
+  const cityPreferred: Record<string, { titles: string[]; ratings: number[] }> = {
+    agra: {
+      titles: [
+        'Book Official Tour Guide for Taj Mahal',
+        'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
+        'Agra City Highlights Tour',
+        'Agra & Fatehpur Sikri Day Trip',
+        'Book Tour Guide for Fatehpur Sikri Visit',
+      ],
+      ratings: [5.0, 4.5, 4.7, 4.8, 4.1],
+    },
+    delhi: {
+      titles: [
+        'Explore Old / New Delhi City, By Luxury Car & Official Tour Guide',
+        'From Delhi: Private Delhi - Agra, Same Day Trip By Car',
+        'From Delhi:  Agra Same Day Taj Mahal Tour By Express Train (Gatimaan Train)',
+      ],
+      ratings: [4.9, 4.8, 4.7],
+    },
+  };
+
+  const currentCityPreferred = cityPreferred[citySlug] || { titles: [], ratings: [] };
+  const preferredTitles = currentCityPreferred.titles;
 
   // Fixed ratings for preferred tours (matched by index above)
-  const preferredRatings = [5.0, 4.5, 4.7, 4.8, 4.1];
+  const preferredRatings = currentCityPreferred.ratings;
 
   // Helper: exact title match (case-insensitive, trimmed)
   const matchPreferred = (tourTitle: string) => {
