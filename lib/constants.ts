@@ -37,6 +37,7 @@ export const CITIES: CityData[] = [
   { id: 'amritsar', name: 'Amritsar', image: '/cities-images/amritsar.webp', localAngle: 'Golden Temple', guidesCount: 142 },
   { id: 'rishikesh', name: 'Rishikesh', image: '/cities-images/rishikesh.webp', localAngle: 'Yoga Capital', guidesCount: 134 },
   { id: 'leh-ladakh', name: 'Leh Ladakh', image: '/cities-images/leh-ladakh.webp', localAngle: 'Himalayan Desert', guidesCount: 98 },
+  { id: 'kashmir', name: 'Kashmir', image: '/cities-images/kashmir.webp', localAngle: 'Alpine Paradise', guidesCount: 87 },
   // Other cities
   { id: 'tokyo', name: 'Tokyo', image: '/cities-images/tokyo.webp', localAngle: 'Neon & Tradition', guidesCount: 342 },
   { id: 'kyoto', name: 'Kyoto', image: '/kyoto-hero.webp', localAngle: 'Zen & Temples', guidesCount: 184 },
@@ -111,6 +112,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'kuala-lumpur': { country: 'malaysia', city: 'kuala-lumpur' },
   'busan': { country: 'south-korea', city: 'busan' },
   'seoul': { country: 'south-korea', city: 'seoul' },
+  'kashmir': { country: 'india', city: 'kashmir' },
   'dubai': { country: 'uae', city: 'dubai' },
   'singapore': { country: 'singapore', city: 'singapore' },
   'hongkong': { country: 'hong-kong', city: 'hong-kong' },
@@ -161,6 +163,17 @@ export const BANGKOK_INFO_SLUGS = [
   '1-day-bangkok-itinerary', 'floating-market-bangkok',
   'bangkok-canal-tour', 'chatuchak-weekend-market',
   'places-to-visit-in-bangkok'
+];
+
+export const KASHMIR_INFO_SLUGS = [
+  'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
+  'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',
+  'dal-lake-srinagar', 'gulmarg-travel-guide',
+  'pahalgam-travel-guide', 'sonamarg-travel-guide',
+  'mughal-gardens-srinagar', 'kashmir-houseboat-guide',
+  'srinagar-travel-guide', 'kashmir-food-guide',
+  'kashmir-in-winter', 'kashmir-in-summer',
+  'kashmir-budget-guide'
 ];
 
 // Shared city locations/places - used in both tour creation and city pages
@@ -270,6 +283,13 @@ export const CITY_LOCATIONS: Record<string, string[]> = {
     'Bangalore Railway Station', 'Bangalore Airport', 'Ulsoor Lake', 'Wonderla Amusement Park',
     'Innovation Film City', 'Bull Temple', 'Vidhana Soudha', 'UB City Mall',
     'Commercial Street', 'MG Road', 'Cubbon Park Metro Station', 'Bangalore Fort'
+  ],
+  'Kashmir': [
+    'Dal Lake', 'Mughal Gardens', 'Shalimar Bagh', 'Nishat Bagh', 'Chashme Shahi',
+    'Gulmarg Gondola', 'Pahalgam', 'Sonamarg', 'Betaab Valley', 'Aru Valley',
+    'Shankaracharya Temple', 'Hazratbal Shrine', 'Pari Mahal', 'Yusmarg',
+    'Dachigam National Park', 'Thajiwas Glacier', 'Wular Lake', 'Manasbal Lake',
+    'Srinagar Old City', 'Lal Chowk'
   ],
   'Udaipur': [
     'City Palace', 'Lake Pichola', 'Jag Mandir', 'Jagdish Temple',

@@ -73,6 +73,7 @@ export const ASIAN_CITIES_DATABASE: CityInfo[] = [
   { name: 'Jodhpur', country: 'India', region: 'South Asia', type: 'City' },
   { name: 'Amritsar', country: 'India', region: 'South Asia', type: 'City' },
   { name: 'Leh Ladakh', country: 'India', region: 'South Asia', type: 'Region' },
+  { name: 'Kashmir', country: 'India', region: 'South Asia', type: 'Region' },
   { name: 'Bikaner', country: 'India', region: 'South Asia', type: 'City' },
   { name: 'Mathura', country: 'India', region: 'South Asia', type: 'City' },
   { name: 'Khajuraho', country: 'India', region: 'South Asia', type: 'City' },

@@ -45,6 +45,10 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Phuket Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Phuket tours from $40. Phi Phi Islands speedboat tours, Phang Nga Bay cruises, Big Buddha visits, Muay Thai classes & Old Town walks. Licensed guides, free cancellation.',
   },
+  'Kashmir': {
+    title: 'Kashmir Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Kashmir tours with verified local guides. Dal Lake shikara rides, Gulmarg gondola trips, Mughal Gardens walks, Pahalgam treks & houseboat stays. Free cancellation.',
+  },
 };
 
 // Pre-render priority city pages at build time for fastest TTFB
@@ -57,6 +61,7 @@ export async function generateStaticParams() {
     { country: 'india', city: 'goa' },
     { country: 'thailand', city: 'bangkok' },
     { country: 'thailand', city: 'phuket' },
+    { country: 'india', city: 'kashmir' },
   ];
 }
 
@@ -67,7 +72,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const meta = CITY_META[cityName];
   const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
   const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
-  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Mumbai', 'Goa'].includes(cityName);
+  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Mumbai', 'Goa', 'Kashmir'].includes(cityName);
 
   return {
     title,

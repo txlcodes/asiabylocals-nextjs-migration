@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -88,6 +88,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'jaipur') return JAIPUR_INFO_SLUGS.includes(slug);
   if (c === 'phuket') return PHUKET_INFO_SLUGS.includes(slug);
   if (c === 'bangkok') return BANGKOK_INFO_SLUGS.includes(slug);
+  if (c === 'kashmir') return KASHMIR_INFO_SLUGS.includes(slug);
   return false;
 }
 
@@ -128,6 +129,8 @@ export async function generateStaticParams() {
     { country: 'thailand', city: 'bangkok', slug: 'bangkok-grand-palace-wat-pho-wat-arun-guided-tour' },
     // Phuket
     { country: 'thailand', city: 'phuket', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling' },
+    // Kashmir
+    { country: 'india', city: 'kashmir', slug: 'kashmir-travel-guide-2026' },
   ];
 }
 
@@ -504,6 +507,13 @@ export default async function SlugPage({ params }: Props) {
       { slug: 'delhi-travel-guide-2026', title: 'Delhi Travel Guide 2026' },
       { slug: 'red-fort', title: 'Red Fort Guide' },
       { slug: 'india-gate', title: 'India Gate Guide' },
+    ],
+    kashmir: [
+      { slug: 'kashmir-travel-guide-2026', title: 'Kashmir Travel Guide 2026' },
+      { slug: 'things-to-do-in-kashmir', title: 'Things to Do in Kashmir' },
+      { slug: 'dal-lake-srinagar', title: 'Dal Lake Guide' },
+      { slug: 'gulmarg-travel-guide', title: 'Gulmarg Travel Guide' },
+      { slug: 'best-time-to-visit-kashmir', title: 'Best Time to Visit Kashmir' },
     ],
   };
 
