@@ -96,6 +96,8 @@ function isInfoSlug(city: string, slug: string): boolean {
 export async function generateStaticParams() {
   return [
     // Agra — highest search volume
+    { country: 'india', city: 'agra', slug: 'places-to-visit-in-agra' },
+    { country: 'india', city: 'agra', slug: '1-day-agra-itinerary' },
     { country: 'india', city: 'agra', slug: 'taj-mahal-entry-ticket' },
     { country: 'india', city: 'agra', slug: 'taj-mahal-sunrise-tour' },
     { country: 'india', city: 'agra', slug: 'taj-mahal-official-guided-tour' },

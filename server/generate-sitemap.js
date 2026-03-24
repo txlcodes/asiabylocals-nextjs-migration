@@ -216,7 +216,7 @@ async function generateSitemap() {
     // 5. Layer 3: Live Cities
     liveCities.forEach(({ name: city, country }) => {
       // Only include cities that are explicitly indexed
-      const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(city);
+      const isIndexed = ['Agra', 'Delhi', 'Jaipur', 'Bangkok', 'Phuket'].includes(city);
       if (!isIndexed) return;
 
       const countrySlug = getCountrySlug(country);
@@ -239,7 +239,7 @@ async function generateSitemap() {
       if (!tour.slug) return;
 
       // Only include tours from indexed cities
-      const isIndexed = ['Agra', 'Delhi', 'Jaipur'].includes(tour.city);
+      const isIndexed = ['Agra', 'Delhi', 'Jaipur', 'Bangkok', 'Phuket'].includes(tour.city);
       if (!isIndexed) return;
 
       const countrySlug = getCountrySlug(tour.country);

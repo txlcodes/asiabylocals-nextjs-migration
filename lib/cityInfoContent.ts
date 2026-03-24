@@ -1312,6 +1312,196 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     }
                 };
 
+            case "places-to-visit-in-agra":
+                return {
+                    title: "15 Best Places to Visit in Agra Beyond the Taj Mahal (2026)",
+                    description: "The 15 best places to visit in Agra in 2026. Taj Mahal, Agra Fort, Fatehpur Sikri, Mehtab Bagh, hidden gems, street food markets and local secrets most tourists miss.",
+                    heroImage: "/things-to-do/agra-taj-mahal-sunset.webp",
+                    fastFacts: [
+                        { icon: 'Map', label: 'Total Places', value: '15 Must-Visit Sites' },
+                        { icon: 'Clock', label: 'Full Coverage', value: '2-3 Days Recommended' },
+                        { icon: 'Star', label: 'UNESCO Sites', value: '3 World Heritage' }
+                    ],
+                    sections: [
+                        {
+                            title: "Agra Has Far More Than the Taj Mahal",
+                            content: "Most tourists fly into Agra, photograph the Taj Mahal, and leave within three hours. They miss a city that was the capital of the most powerful empire in Asian history for over a century. The Mughals didn't just build one monument here. They built an entire civilization in marble, sandstone, and gardens.\n\nAgra has three UNESCO World Heritage Sites (more than most countries), Mughal-era bazaars that have operated continuously for 400 years, and a street food tradition that rivals Delhi. This guide covers every place worth visiting, from the iconic monuments to the hidden gems that even most guidebooks skip.\n\nIf you have only one day, focus on the first five. If you have two or three days, work through the entire list. A [local guide](/india/agra) who knows the city intimately will help you navigate the distances and timing efficiently."
+                        },
+                        {
+                            title: "1. Taj Mahal - The Obvious Masterpiece",
+                            image: "/things-to-do/agra-taj-mahal-sunrise.webp",
+                            content: "There is nothing that can prepare you for seeing the Taj Mahal in person. Photographs capture perhaps 10% of its impact. The white Makrana marble shifts colour throughout the day: soft pink at dawn, blazing white at noon, amber gold at sunset, and silvery under moonlight.\n\nWhat most visitors miss is the extraordinary detail. The pietra dura inlay work features semi-precious stones from five countries. Jasper from Punjab, jade from China, turquoise from Tibet, lapis lazuli from Afghanistan, and sapphire from Sri Lanka. Each flower motif contains up to 60 individual stone pieces. The calligraphy on the facade gets proportionally larger as it goes higher, an optical illusion designed so everything appears uniform from ground level.\n\n**Timing:** Arrive at sunrise. The East Gate opens 30 minutes before sunrise. Security is rigorous so carry only your phone, camera, and water bottle. No tripods, food, or power banks allowed.\n\n**Tickets:** Foreign nationals pay 1,100 INR entry plus 200 INR mausoleum fee (total 1,300 INR). Indian citizens pay 250 INR. All tickets are digital only. See our [Taj Mahal ticket price guide](/india/agra/taj-mahal-ticket-price-2026) for the full breakdown.\n\n**Closed on Friday** for congregational prayers at the mosque inside the complex.\n\n**Duration:** 2-3 hours minimum. Do not rush this.",
+                            tourCard: { slug: "taj-mahal-official-guided-tour", title: "Official Taj Mahal Guided Tour", description: "Skip the confusion. A licensed ASI guide handles your entry, timing, and photography spots so you experience every hidden detail.", price: "From $25", duration: "3 hours", rating: "4.3", reviews: "42", image: "/things-to-do/agra-taj-mahal-sunrise.webp" }
+                        },
+                        {
+                            title: "2. Agra Fort - The Imperial Fortress",
+                            image: "/blog/agra-fort.jpg",
+                            content: "Agra Fort is not just a fort. It is a 94-acre walled city that served as the primary residence of Mughal emperors from 1526 until 1638. Inside its massive red sandstone walls, you will find palaces, mosques, audience halls, and gardens.\n\nThe most emotionally powerful spot is the Musamman Burj, the octagonal marble tower where Emperor Shah Jahan spent his final eight years imprisoned by his own son Aurangzeb. From this tower, he could see the Taj Mahal he had built for his beloved wife, visible across the Yamuna but forever unreachable.\n\n**Timing:** Visit in the morning (9-11 AM) after your Taj Mahal sunrise visit.\n\n**Tickets:** 650 INR for foreign nationals, 50 INR for Indian citizens.\n\n**Duration:** 2-3 hours for a thorough visit.",
+                            tourCard: { slug: "taj-mahal-agra-fort-guided-tour", title: "Taj Mahal & Agra Fort Guided Tour", description: "Cover both UNESCO World Heritage Sites in one day with a licensed historian who brings the Mughal dynasty to life.", price: "From $25", duration: "5 hours", rating: "4.9", reviews: "36", image: "/things-to-do/agra-fort-gate.webp" }
+                        },
+                        {
+                            title: "3. Fatehpur Sikri - The Ghost Capital",
+                            content: "Thirty-seven kilometres from Agra stands one of India's most atmospheric historical sites. Emperor Akbar built Fatehpur Sikri as his new capital in 1571. The red sandstone complex includes the stunning Buland Darwaza, the tallest gateway in the world at 54 metres. After just 14 years, the entire city was mysteriously abandoned in 1585.\n\nThe Panch Mahal, a five-storey structure with 176 columns (no two alike), is architecturally unlike anything else in Mughal India.\n\n**Getting there:** 45 minutes by car. Most [Agra tours](/india/agra) include it.\n\n**Tickets:** 610 INR for foreigners, 50 INR for Indians.\n\n**Duration:** 2-3 hours."
+                        },
+                        {
+                            title: "4. Mehtab Bagh - The Best Sunset View",
+                            content: "If you ask any local guide where to watch the sunset in Agra, the answer is always Mehtab Bagh. This garden sits directly across the Yamuna River from the Taj Mahal, offering what many consider the finest view of the monument.\n\nOriginally built by Emperor Babur as a moonlit pleasure garden, Mehtab Bagh was designed as a mirror-image complement to the Taj gardens. At sunset, when the marble glows amber-gold against a darkening sky, this is the most romantic viewpoint in all of India.\n\n**Timing:** Arrive by 4:30 PM in winter or 5:30 PM in summer.\n\n**Tickets:** 300 INR for foreigners, 25 INR for Indians.\n\n**Duration:** 1-1.5 hours."
+                        },
+                        {
+                            title: "5. Itimad-ud-Daulah - The Baby Taj",
+                            content: "Often called the Baby Taj, the Tomb of Itimad-ud-Daulah was built 16 years before the Taj Mahal and is considered its prototype. The marble lattice work here is arguably even more delicate than the Taj's. The jali screens are carved so thinly that light passes through them, casting intricate shadow patterns that shift throughout the day.\n\nThis monument sees far fewer visitors than the Taj. You can photograph it without a single other tourist in your frame.\n\n**Timing:** Late morning (10-12 PM) when sunlight filters through the jali screens.\n\n**Tickets:** 310 INR for foreigners, 10 INR for Indians.\n\n**Duration:** 45 minutes to 1 hour."
+                        },
+                        {
+                            title: "6. Jama Masjid & Kinari Bazaar",
+                            content: "Agra's Jama Masjid, built by Shah Jahan's daughter Jahanara Begum in 1648, is one of India's largest mosques. Step outside its eastern gate and you are immediately in Kinari Bazaar, the heart of Old Agra's commercial district.\n\nThe spice section is a sensory overload. The air is thick with roasted cumin, turmeric, and dry chillies. Merchants sit behind mountains of spices, weighing purchases on traditional balance scales.\n\n**Street food:** Petha (Agra's signature sweet), bedai and jalebi (the classic Agra breakfast), dalmoth (spicy lentil snack), and chaat at Sadar Bazaar. A [food tour with a local guide](/india/agra) is the best way to navigate without getting lost or overcharged.\n\n**Timing:** Any time. Free entry to the mosque (modest dress required).\n\n**Duration:** 1-2 hours."
+                        },
+                        {
+                            title: "7. Chini-ka-Rauza - The Hidden Persian Gem",
+                            content: "Missed by 99% of tourists, Chini-ka-Rauza is a hidden masterpiece on the eastern bank of the Yamuna. The tomb of Shah Jahan's Prime Minister features glazed tile work in vibrant blues, greens, and yellows. This is the only monument in Agra with Persian Kashi tile decoration.\n\nThe tomb sits in a quiet garden with no ticket booth, no crowds, and often no other visitors. A 10-minute rickshaw ride from the Taj Mahal.\n\n**Tickets:** Free entry.\n\n**Duration:** 20-30 minutes."
+                        },
+                        {
+                            title: "8. Tomb of Akbar the Great - Sikandra",
+                            content: "Located 13 km north of Agra, the Tomb of Akbar blends Hindu, Christian, Islamic, and Buddhist architectural elements, reflecting the emperor's famous religious tolerance. The five-storey structure rises like a stepped pyramid, with Akbar's cenotaph sitting on an open-air marble platform under the sky rather than beneath a dome.\n\nThe sprawling grounds are home to friendly deer and langur monkeys.\n\n**Getting there:** Auto-rickshaw costs about 200-300 INR each way.\n\n**Tickets:** 310 INR for foreigners, 30 INR for Indians.\n\n**Duration:** 1-1.5 hours including travel."
+                        },
+                        {
+                            title: "9. Guru Ka Tal - The Forgotten Sikh Shrine",
+                            content: "Very few tourists know about Guru Ka Tal, a significant Sikh gurudwara built in memory of the ninth Sikh Guru. The community kitchen (langar) serves free meals to anyone regardless of religion. Sitting on the floor eating dal and roti with devotees is one of Agra's most authentic cultural experiences.\n\n**Tickets:** Free entry. Cover your head.\n\n**Duration:** 30-45 minutes."
+                        },
+                        {
+                            title: "10. Old Agra Heritage Walk",
+                            content: "The lanes behind the Jama Masjid form one of India's oldest continuously inhabited urban areas. A walking tour reveals papier-mache workshops using 700-year-old techniques, marble inlay craftsmen using the same methods that decorated the Taj Mahal, and the copper bazaar where hammered samovars are still made by hand.\n\nThe crumbling havelis of Old Agra tell stories of merchant families who grew wealthy under Mughal patronage. This is not a walk you should attempt alone. A [heritage walk with a local guide](/india/agra) who grew up in these lanes is the only way to experience this properly.\n\n**Duration:** 1.5-2 hours."
+                        },
+                        {
+                            title: "11-15: More Places Worth Your Time",
+                            content: "**11. Ram Bagh** - India's oldest Mughal garden, built by Emperor Babur in 1528. The classic Charbagh pattern that would later be perfected at the Taj. Quiet, melancholic beauty. 200 INR for foreigners. 30-45 minutes.\n\n**12. Mariam's Tomb** - The tomb of Akbar's wife, Mariam-uz-Zamani (Jodha Bai), set in a peaceful garden near Sikandra. Often completely empty of tourists. 25 INR. 30 minutes.\n\n**13. Chambal River Safari** - 65 km from Agra. Critically endangered Gangetic dolphins, gharials, and 300+ bird species in dramatic sandstone ravines. 2,000-3,500 INR per person for a 2-3 hour boat safari. Best October to March.\n\n**14. Keetham Lake & Bird Sanctuary** - 20 km from Agra. Migratory birds in winter, a bear rescue centre, and peaceful lakeside walks. 30 INR. 2-3 hours including travel.\n\n**15. Dolphin Water Park** - For families with kids who have reached their monument limit. Wave pools, water slides, and a lazy river. 700-900 INR. 3-4 hours."
+                        },
+                        {
+                            isCTA: true,
+                            title: "Explore All of Agra With a Local Guide",
+                            content: "Covering these 15 places on your own means navigating chaotic traffic, negotiating rickshaw fares, and figuring out seasonally changing opening times. A local guide transforms a stressful itinerary into a seamless experience.",
+                            image: "/things-to-do/agra-taj-mahal-garden.webp",
+                            buttonText: "Browse Agra Tours",
+                            buttonLink: "/india/agra"
+                        }
+                    ],
+                    faqs: [
+                        { q: "How many days do I need to see all the places in Agra?", a: "**2-3 days** is ideal. Day 1: Taj Mahal sunrise + Agra Fort + Mehtab Bagh sunset. Day 2: Fatehpur Sikri + Itimad-ud-Daulah + Old Agra bazaars. Day 3: Sikandra + Chambal Safari. A [1-day itinerary](/india/agra/1-day-agra-itinerary) covers the top 4-5 sites if short on time." },
+                        { q: "What is the best place to visit in Agra after the Taj Mahal?", a: "**Agra Fort** is the must-see second stop. It is a UNESCO World Heritage Site just 2.5 km from the Taj Mahal with the famous Musamman Burj tower where Shah Jahan was imprisoned gazing at the Taj." },
+                        { q: "Are there any free places to visit in Agra?", a: "Yes. **Jama Masjid**, **Chini-ka-Rauza**, **Guru Ka Tal** gurudwara, and the **Kinari Bazaar** spice markets are all free." },
+                        { q: "Is Fatehpur Sikri worth visiting?", a: "Absolutely. 37 km from Agra (45 min drive), Fatehpur Sikri is one of India's most atmospheric sites. The abandoned Mughal capital with the world's tallest gateway is worth 2-3 hours." },
+                        { q: "Can I visit the Taj Mahal at night?", a: "Yes, on **full moon nights and two flanking nights** (5 per month), the Taj opens 8:30 PM to 12:30 AM. Only 400 visitors per night. Book 24 hours in advance from the ASI office." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "15 Best Places to Visit in Agra Beyond the Taj Mahal (2026)",
+                                "datePublished": "2026-03-24T08:00:00+05:30",
+                                "dateModified": "2026-03-24T10:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "How many days do I need for Agra?", "acceptedAnswer": { "@type": "Answer", "text": "2-3 days is ideal. Day 1: Taj Mahal + Agra Fort + Mehtab Bagh. Day 2: Fatehpur Sikri + Baby Taj + bazaars. Day 3: Sikandra + Chambal Safari." } },
+                                    { "@type": "Question", "name": "Are there free places to visit in Agra?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Jama Masjid, Chini-ka-Rauza, Guru Ka Tal gurudwara, and Kinari Bazaar are all free to visit." } },
+                                    { "@type": "Question", "name": "Can I visit the Taj Mahal at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, on full moon nights and two flanking nights, the Taj opens 8:30 PM to 12:30 AM. Only 400 visitors allowed. Book 24 hours in advance." } }
+                                ]
+                            }
+                        ]
+                    }
+                };
+
+            case "1-day-agra-itinerary":
+                return {
+                    title: "The Perfect 1-Day Agra Itinerary: Hour-by-Hour Guide (2026)",
+                    description: "The perfect 1-day Agra itinerary for 2026. Hour-by-hour plan covering Taj Mahal sunrise, Agra Fort, Mehtab Bagh sunset, street food and hidden gems.",
+                    heroImage: "/things-to-do/agra-taj-mahal-sunrise.webp",
+                    fastFacts: [
+                        { icon: 'Clock', label: 'Duration', value: '12-14 Hours' },
+                        { icon: 'Map', label: 'Sites Covered', value: '5 Major Landmarks' },
+                        { icon: 'Star', label: 'Starts At', value: 'Sunrise (5:30-7:00 AM)' }
+                    ],
+                    sections: [
+                        {
+                            title: "Can You Really See Agra in One Day?",
+                            content: "Yes, but only if you plan ruthlessly. Agra's key monuments are spread across a compact area. The Taj Mahal, Agra Fort, and Mehtab Bagh are all within 5 km of each other. With the right timing, you can cover the essential sites, eat incredible street food, and witness both sunrise and sunset at the Taj from different vantage points.\n\nThe biggest mistake one-day visitors make is sleeping in. If you arrive at the Taj Mahal at 10 AM with the tour bus crowds, you have already lost the battle. This itinerary is built around the golden principle: **early start, strategic sequencing, zero wasted time.**\n\nThis works whether you are based in Agra or doing a [same-day trip from Delhi](/india/agra/same-day-agra-tour-from-delhi). If coming from Delhi by car (3-4 hours) or [Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train) (100 minutes), adjust morning timings accordingly.\n\nA [local guide](/india/agra) who knows the timing, shortcuts, and crowd patterns is the single biggest advantage on a one-day visit."
+                        },
+                        {
+                            title: "5:30 AM - 8:30 AM: Taj Mahal at Sunrise",
+                            image: "/things-to-do/agra-taj-mahal-sunrise.webp",
+                            content: "This is the most important three hours of your day.\n\n**5:00 AM:** Head to the East Gate (Shilpgram entrance). Shortest queue. Avoid the South Gate.\n\n**5:15-5:30 AM:** Join the queue. Do not carry large bags, tripods, power banks, tobacco, or food. Only phone, camera, water bottle, and pre-booked digital ticket.\n\n**5:30-6:00 AM:** Gate opens 30 minutes before sunrise (see our [opening time guide](/india/agra/taj-mahal-opening-time)). Walk through the Darwaza-i-Rauza gateway. Move purposefully to the central reflection pool.\n\n**6:00-6:30 AM:** Sunrise. Position yourself at the Diana Bench for the iconic symmetrical reflection shot. The marble shifts from grey to pink to gold.\n\n**6:30-8:00 AM:** Explore at your pace. Walk around the plinth. Examine the pietra dura inlay. Enter the mausoleum (200 INR supplement). The calligraphy on the facade gets larger as it goes higher, an optical illusion so everything appears uniform from ground level. Visit the mosque on either side.\n\n**8:00-8:30 AM:** Exit before the tour bus crowds arrive at 9:30-10:00 AM.",
+                            tourCard: { slug: "taj-mahal-sunrise-tour", title: "Taj Mahal Sunrise Tour", description: "A licensed guide positions you at the perfect spot for the golden-hour shot and reveals details invisible to the untrained eye.", price: "From $20", duration: "3 hours", rating: "4.9", reviews: "16", image: "/things-to-do/agra-taj-mahal-sunrise.webp" }
+                        },
+                        {
+                            title: "8:30 AM - 9:15 AM: Breakfast in Taj Ganj",
+                            content: "Exit through the East Gate into Taj Ganj.\n\n**Option 1: Local breakfast.** Bedai and jalebi stall. Crispy deep-fried lentil bread with spicy potato curry and syrupy jalebi. 50-80 INR. Messy, delicious, unforgettable.\n\n**Option 2: Rooftop cafe.** Several cafes have terraces with Taj Mahal views. Average food, incredible backdrop. Try Saniya Palace or Shankar Vegiz.\n\n**Duration:** 30-45 minutes. Do not linger."
+                        },
+                        {
+                            title: "9:30 AM - 12:00 PM: Agra Fort",
+                            content: "A 10-minute auto-rickshaw (60-80 INR) to Agra Fort's Amar Singh Gate.\n\n**Must-see stops in order:**\n1. **Jahangir Palace** - the fort's oldest palace with Hindu-Islamic fusion\n2. **Khas Mahal** - Shah Jahan's private palace in white marble\n3. **Musamman Burj** - where imprisoned Shah Jahan gazed at the Taj for 8 years until his death. Stand where he stood. This is Agra's most emotionally powerful moment.\n4. **Sheesh Mahal** - Mirror Palace with thousands of tiny mirrors\n5. **Diwan-i-Khas** - Hall of Private Audience\n6. **Diwan-i-Am** - Hall of Public Audience\n7. **Nagina Masjid** - tiny marble mosque for royal women\n\n**Exit by noon** before the afternoon heat builds.",
+                            tourCard: { slug: "taj-mahal-agra-fort-guided-tour", title: "Taj Mahal & Agra Fort Combo Tour", description: "Both UNESCO sites with a licensed guide. Skip-the-line entry included.", price: "From $25", duration: "5 hours", rating: "4.9", reviews: "36", image: "/things-to-do/agra-fort-gate.webp" }
+                        },
+                        {
+                            title: "12:00 PM - 1:30 PM: Lunch & Old Agra Bazaars",
+                            content: "5-minute rickshaw to Kinari Bazaar and Jama Masjid area.\n\n**Lunch:**\n- **Laxmi Vilas** for thali meals (150-250 INR)\n- **Pinch of Spice** for AC Mughlai dining (500-800 INR)\n- **Street food crawl** through Sadar Bazaar: aloo tikki, kachori, lassi (200-300 INR total)\n\n**After lunch:** 30 minutes in the spice market. Buy petha from Panchhi Petha. Browse marble inlay workshops.\n\n**Quick stop:** Jama Masjid (free entry, 15 minutes)."
+                        },
+                        {
+                            title: "1:30 PM - 3:00 PM: Itimad-ud-Daulah (Baby Taj)",
+                            content: "Auto-rickshaw to Itimad-ud-Daulah (100-150 INR, 15 minutes).\n\nThe marble lattice work here is arguably more delicate than the Taj's. The jali screens are carved so thin that early afternoon light (1-3 PM) passes through them creating shifting shadow patterns on the floor. The perfect midday stop when other monuments are hottest and most crowded.\n\n**Tickets:** 310 INR for foreigners.\n\n**Duration:** 45 minutes to 1 hour."
+                        },
+                        {
+                            title: "3:00 PM - 4:30 PM: Rest & Optional Stop",
+                            content: "You have been going since 5 AM. Take a break. Return to your hotel or find an AC cafe. Recharge your phone for sunset photos.\n\nIf you have energy, add one more:\n- **Chini-ka-Rauza** (10 min from Baby Taj, free, 20 min) - Persian-tiled tomb that 99% of tourists miss\n- **Tomb of Akbar at Sikandra** (20 min drive, 1 hour) - only if you have a car\n\nOtherwise rest. The sunset finale is worth being fresh for."
+                        },
+                        {
+                            title: "4:30 PM - 6:30 PM: Mehtab Bagh Sunset",
+                            content: "Auto-rickshaw to Mehtab Bagh (150-200 INR, 20 minutes).\n\nArrive by 4:30 PM in winter or 5:30 PM in summer. Walk to the raised platform at the back for an elevated, unobstructed view. As the sun drops, the Taj transforms: white to cream to amber to deep gold to a final blush of pink.\n\nYou started your day watching sunrise illuminate the Taj from the front. You are ending it watching sunset paint the Taj from behind. Two completely different experiences, twelve hours apart. That is a perfect day in Agra.\n\n**Stay until the last light fades.** The blue-hour twilight (15-20 minutes after sunset) is hauntingly beautiful.\n\n**Tickets:** 300 INR for foreigners."
+                        },
+                        {
+                            title: "7:00 PM - 8:30 PM: Dinner",
+                            content: "**Top picks:**\n- **Peshawri at ITC Mughal** - Luxury North-West Frontier cuisine. 2,000-3,000 INR. Reservation required.\n- **Pinch of Spice** - Reliable mid-range. Mutton rogan josh and biryani. 500-800 INR.\n- **Mama Chicken Mama Franky** - Local favourite for rolls and kebabs. 200-300 INR.\n- **Rooftop in Taj Ganj** - Passable food, unbeatable Taj Mahal backdrop.\n\nIf returning to Delhi, the drive takes 3-4 hours. The last Gatimaan Express departs at 5:50 PM so you would miss sunset (consider staying overnight instead)."
+                        },
+                        {
+                            isCTA: true,
+                            title: "Make Your One Day Count",
+                            content: "Twelve hours of walking, rickshaws, and navigating a new city. A licensed local guide handles all the logistics so you focus entirely on the experience. Skip-the-line entry, perfect timing at every stop, and stories that bring every marble wall to life.",
+                            image: "/things-to-do/agra-taj-mahal-garden.webp",
+                            buttonText: "Browse Agra Tours",
+                            buttonLink: "/india/agra"
+                        }
+                    ],
+                    faqs: [
+                        { q: "Can I see the Taj Mahal and Agra Fort in one day?", a: "Yes. Visit **Taj Mahal at sunrise (5:30-8:30 AM)** then **Agra Fort (9:30 AM-12:00 PM)**. They are just 2.5 km apart. This is the core of any 1-day Agra itinerary." },
+                        { q: "Is one day enough for Agra?", a: "One day covers the **top 5 sites** (Taj Mahal, Agra Fort, Baby Taj, markets, Mehtab Bagh). You will miss Fatehpur Sikri and Sikandra. If possible, stay 2 days. See our [places to visit guide](/india/agra/places-to-visit-in-agra) for everything Agra offers." },
+                        { q: "What time should I start?", a: "**5:00-5:30 AM.** Arriving at the Taj gate before sunrise is non-negotiable. From Delhi, either stay overnight or depart by 2:00-3:00 AM." },
+                        { q: "How much does a 1-day Agra trip cost?", a: "**Budget:** 2,500-4,000 INR (tickets + transport + food). **With guide:** 5,000-8,000 INR. **From Delhi:** Add 3,000-6,000 INR for transport." },
+                        { q: "Should I hire a guide?", a: "**Strongly recommended.** On a one-day visit every minute counts. A licensed guide eliminates wasted time and reveals thousands of details invisible without expert commentary." },
+                        { q: "What if I only have half a day?", a: "Focus on **Taj Mahal (2-3 hours)** and **Agra Fort (1.5-2 hours)** only. Skip everything else." }
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "Article",
+                                "headline": "The Perfect 1-Day Agra Itinerary: Hour-by-Hour Guide (2026)",
+                                "datePublished": "2026-03-24T08:00:00+05:30",
+                                "dateModified": "2026-03-24T10:00:00+05:30",
+                                "author": { "@type": "Organization", "name": "AsiaByLocals", "url": "https://www.asiabylocals.com", "@id": "https://www.asiabylocals.com/#organization" }
+                            },
+                            {
+                                "@type": "FAQPage",
+                                "mainEntity": [
+                                    { "@type": "Question", "name": "Can I see the Taj Mahal and Agra Fort in one day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Taj Mahal at sunrise then Agra Fort by 9:30 AM. They are just 2.5 km apart." } },
+                                    { "@type": "Question", "name": "Is one day enough for Agra?", "acceptedAnswer": { "@type": "Answer", "text": "One day covers the top 5 sites. You will miss Fatehpur Sikri and Sikandra. Two days is ideal." } },
+                                    { "@type": "Question", "name": "How much does a 1-day Agra trip cost?", "acceptedAnswer": { "@type": "Answer", "text": "Budget: 2,500-4,000 INR. With guide: 5,000-8,000 INR. From Delhi add 3,000-6,000 INR for transport." } }
+                                ]
+                            }
+                        ]
+                    }
+                };
+
             case "delhi-travel-guide-2026":
                 return {
                     title: "Delhi Travel Guide 2026",
@@ -4796,7 +4986,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             "title": "How to Get to Kashmir",
-                            "content": "**By Air:** Srinagar's Sheikh ul-Alam International Airport receives direct flights from Delhi (1.5 hours), Mumbai (2.5 hours), Bangalore, Kolkata, and several other Indian cities. Airlines including IndiGo, Air India, SpiceJet, and GoFirst operate multiple daily flights. Book at least 2-3 weeks in advance during peak season (June-August and December-January) as prices spike significantly.\n\n**By Road:** The most dramatic entry is via the Jammu-Srinagar National Highway (NH44), a 300 km mountain road that takes 8-10 hours. You pass through the Jawahar Tunnel at 2,194 metres, and the first glimpse of the valley on the other side is unforgettable. However, this road is prone to landslides during monsoon season (July-September) and heavy snowfall in winter.\n\n**By Train:** There is no direct train to Srinagar. The nearest major railway station is Jammu Tawi, connected to all major Indian cities. From Jammu, you can take a bus or shared taxi to Srinagar (8-10 hours) or fly from Jammu airport (30 minutes).\n\n**Pro tip:** If you are combining Kashmir with other North India destinations like [Agra](/india/agra) or [Jaipur](/india/jaipur), the most practical route is to fly from your last city to Delhi, then catch a connecting flight to Srinagar. Delhi to Srinagar flights are frequent and affordable if booked early."
+                            "content": "**By Air:** Srinagar's Sheikh ul-Alam International Airport receives direct flights from Delhi (1.5 hours), Mumbai (2.5 hours), Bangalore, Kolkata, and several other Indian cities. Airlines including IndiGo, Air India, SpiceJet, and GoFirst operate multiple daily flights. Book at least 2-3 weeks in advance during peak season (June-August and December-January) as prices spike significantly.\n\n**By Road:** The most dramatic entry is via the Jammu-Srinagar National Highway (NH44), a 300 km mountain road that takes 8-10 hours. You pass through the Jawahar Tunnel at 2,194 metres, and the first glimpse of the valley on the other side is unforgettable. However, this road is prone to landslides during monsoon season (July-September) and heavy snowfall in winter.\n\n**By Train:** There is no direct train to Srinagar. The nearest major railway station is Jammu Tawi, connected to all major Indian cities. From Jammu, you can take a bus or shared taxi to Srinagar (8-10 hours) or fly from Jammu airport (30 minutes).\n\n**Pro tip:** If you are combining Kashmir with other North India destinations like [Agra](/india/agra) or [Jaipur](/india/jaipur), the most practical route is to fly from your last city to Delhi, then catch a connecting flight to Srinagar. Delhi to Srinagar flights are frequent and affordable if booked early. For the best deals on flights and transport packages, check [Kashmir Tickets](https://kashmirtickets.com) which aggregates local rates that are often cheaper than booking through national platforms."
                         },
                         {
                             "title": "Srinagar - The Heart of Kashmir",
@@ -4820,7 +5010,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             "title": "Budget Breakdown - What Kashmir Actually Costs",
-                            "content": "Kashmir is more affordable than most international travellers expect. Here is a realistic daily budget breakdown for 2026:\n\n**Budget Traveller (2,500-4,000 INR / $30-50 per day):**\n- Guesthouse or budget houseboat: 1,500-2,500 INR/night\n- Meals at local restaurants: 500-800 INR/day\n- Shared transport: 300-500 INR/day\n- Activities: 200-500 INR/day\n\n**Mid-Range (5,000-10,000 INR / $60-120 per day):**\n- Deluxe houseboat or heritage hotel: 3,000-6,000 INR/night\n- Restaurant meals with Wazwan: 1,000-2,000 INR/day\n- Private car with driver: 2,500-3,500 INR/day\n- Gondola, garden entry, activities: 500-1,500 INR/day\n\n**Luxury (15,000+ INR / $180+ per day):**\n- Premium houseboat or luxury resort: 8,000-25,000 INR/night\n- Fine dining: 2,000-5,000 INR/day\n- Private SUV with driver-guide: 4,000-6,000 INR/day\n\n**Key Costs:**\n- Srinagar to Gulmarg taxi: 2,500-3,000 INR (one way)\n- Gulmarg Gondola (both phases): 1,800 INR\n- Srinagar to Pahalgam taxi: 3,000-3,500 INR (one way)\n- Shikara ride (1 hour): 500-1,000 INR\n- Mughal Garden entry: 50-100 INR per garden"
+                            "content": "Kashmir is more affordable than most international travellers expect. Here is a realistic daily budget breakdown for 2026:\n\n**Budget Traveller (2,500-4,000 INR / $30-50 per day):**\n- Guesthouse or budget houseboat: 1,500-2,500 INR/night\n- Meals at local restaurants: 500-800 INR/day\n- Shared transport: 300-500 INR/day\n- Activities: 200-500 INR/day\n\n**Mid-Range (5,000-10,000 INR / $60-120 per day):**\n- Deluxe houseboat or heritage hotel: 3,000-6,000 INR/night\n- Restaurant meals with Wazwan: 1,000-2,000 INR/day\n- Private car with driver: 2,500-3,500 INR/day\n- Gondola, garden entry, activities: 500-1,500 INR/day\n\n**Luxury (15,000+ INR / $180+ per day):**\n- Premium houseboat or luxury resort: 8,000-25,000 INR/night\n- Fine dining: 2,000-5,000 INR/day\n- Private SUV with driver-guide: 4,000-6,000 INR/day\n\n**Key Costs:**\n- Srinagar to Gulmarg taxi: 2,500-3,000 INR (one way)\n- Gulmarg Gondola (both phases): 1,800 INR\n- Srinagar to Pahalgam taxi: 3,000-3,500 INR (one way)\n- Shikara ride (1 hour): 500-1,000 INR\n- Mughal Garden entry: 50-100 INR per garden\n\nTo get the most competitive rates on Kashmir hotels, cabs, and tour packages, [Kashmir Tickets](https://kashmirtickets.com) offers locally sourced pricing that can save you 20-30% compared to booking through aggregator platforms."
                         },
                         {
                             "title": "Booking Your Kashmir Trip",

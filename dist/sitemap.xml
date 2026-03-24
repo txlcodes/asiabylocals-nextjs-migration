@@ -7,49 +7,49 @@
   <!-- Layer 1: Homepage & Main Static Pages -->
   <url>
     <loc>https://www.asiabylocals.com/</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>https://www.asiabylocals.com/supplier</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.asiabylocals.com/about-us</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
     <loc>https://www.asiabylocals.com/support</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
     <loc>https://www.asiabylocals.com/safety-guidelines</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
     <loc>https://www.asiabylocals.com/privacy-policy</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
     <loc>https://www.asiabylocals.com/terms-and-conditions</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -57,7 +57,7 @@
   <!-- Layer 2: India -->
   <url>
     <loc>https://www.asiabylocals.com/india</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -65,7 +65,7 @@
   <!-- Layer 2: Thailand -->
   <url>
     <loc>https://www.asiabylocals.com/thailand</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -73,7 +73,7 @@
   <!-- Layer 3: Agra, India -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -81,7 +81,15 @@
   <!-- Layer 3: Delhi, India -->
   <url>
     <loc>https://www.asiabylocals.com/india/delhi</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Layer 3: Phuket, Thailand -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -89,7 +97,15 @@
   <!-- Layer 3: Jaipur, India -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Layer 3: Bangkok, Thailand -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -134,6 +150,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 244 - james-bond-island-speedboat-tour-phuket -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/james-bond-island-speedboat-tour-phuket</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 280 - ranthambore-full-day-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/ranthambore-full-day-tour</loc>
@@ -150,6 +174,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 337 - bangkok-photo-walk-hidden-gems-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-photo-walk-hidden-gems-tour</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 186 - taj-mahal-same-day-tour-from-delhi -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-same-day-tour-from-delhi</loc>
@@ -162,6 +194,14 @@
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-agra-overnight-tour-from-delhi</loc>
     <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 182 - private-taj-mahal-tour-from-delhi -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/private-taj-mahal-tour-from-delhi</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -198,14 +238,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Layer 4: Tour 182 - private-taj-mahal-tour-from-delhi -->
-  <url>
-    <loc>https://www.asiabylocals.com/india/delhi/private-taj-mahal-tour-from-delhi</loc>
-    <lastmod>2026-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
   <!-- Layer 4: Tour 188 - jaipur-city-tour-with-official-guide -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/jaipur-city-tour-with-official-guide</loc>
@@ -218,6 +250,22 @@
   <url>
     <loc>https://www.asiabylocals.com/india/delhi/old-new-delhi-private-tour</loc>
     <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 351 - bangkok-photography-class-workshop -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-photography-class-workshop</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 204 - taj-mahal-tour-by-train-gatimaan -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/taj-mahal-tour-by-train-gatimaan</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -270,10 +318,26 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 242 - phi-phi-khai-islands-speedboat-tour-with-lunch -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phi-phi-khai-islands-speedboat-tour-with-lunch</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 198 - fatehpur-sikri-guided-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/fatehpur-sikri-guided-tour</loc>
     <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 367 - india-gate-half-day-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/india-gate-half-day-tour</loc>
+    <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -306,6 +370,22 @@
   <url>
     <loc>https://www.asiabylocals.com/india/agra/delhi-agra-round-trip-gatimaan-train</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 331 - bangkok-ancient-city-erawan-museum-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-ancient-city-erawan-museum-tour</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 238 - phi-phi-islands-private-yacht-cruise-maya-bay -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phi-phi-islands-private-yacht-cruise-maya-bay</loc>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -346,6 +426,14 @@
   <url>
     <loc>https://www.asiabylocals.com/india/delhi/private-taj-mahal-agra-day-tour-from-delhi</loc>
     <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 372 - india-gate-full-day-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/india-gate-full-day-tour</loc>
+    <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -446,18 +534,18 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Layer 4: Tour 262 - jaipur-shopping-tour -->
+  <!-- Layer 4: Tour 345 - bangkok-floating-market-railway-market-day-trip-boat-ride -->
   <url>
-    <loc>https://www.asiabylocals.com/india/jaipur/jaipur-shopping-tour</loc>
-    <lastmod>2026-03-07</lastmod>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-floating-market-railway-market-day-trip-boat-ride</loc>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Layer 4: Tour 224 - explore-old-new-delhi-city-luxury-car-tour -->
+  <!-- Layer 4: Tour 262 - jaipur-shopping-tour -->
   <url>
-    <loc>https://www.asiabylocals.com/india/delhi/explore-old-new-delhi-city-luxury-car-tour</loc>
-    <lastmod>2026-03-08</lastmod>
+    <loc>https://www.asiabylocals.com/india/jaipur/jaipur-shopping-tour</loc>
+    <lastmod>2026-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -518,6 +606,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 371 - jama-masjid-food-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/jama-masjid-food-tour</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 240 - jaipur-private-full-day-sightseeing-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/jaipur-private-full-day-sightseeing-tour</loc>
@@ -530,6 +626,14 @@
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/jaipur-to-agra-taj-mahal-day-trip</loc>
     <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 353 - bangkok-temples-canals-local-life-bike-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-temples-canals-local-life-bike-tour</loc>
+    <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -582,10 +686,26 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 333 - bangkok-grand-palace-wat-pho-wat-arun-guided-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-grand-palace-wat-pho-wat-arun-guided-tour</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 301 - jaipur-same-day-sightseeing-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/jaipur-same-day-sightseeing-tour</loc>
     <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 334 - bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour</loc>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -602,6 +722,14 @@
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-express-tour</loc>
     <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 361 - phuket-jet-ski-tour-island-hopping-patong-beach -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phuket-jet-ski-tour-island-hopping-patong-beach</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -630,10 +758,10 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Layer 4: Tour 359 - taj-mahal-mehtab-guided-tour -->
+  <!-- Layer 4: Tour 287 - muay-thai-training-class-phuket-beginners -->
   <url>
-    <loc>https://www.asiabylocals.com/india/agra/taj-mahal-mehtab-guided-tour</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://www.asiabylocals.com/thailand/phuket/muay-thai-training-class-phuket-beginners</loc>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -665,6 +793,14 @@
   <!-- Layer 4: Tour 336 - hazrat-nizamuddin-railway-station-delhi-express-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/delhi/hazrat-nizamuddin-railway-station-delhi-express-tour</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 348 - ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch</loc>
     <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -702,10 +838,58 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 359 - taj-mahal-mehtab-guided-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/agra/taj-mahal-mehtab-guided-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 338 - bangkok-scavenger-hunt-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-scavenger-hunt-tour</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 311 - phuket-scuba-diving-beginners-full-day-racha-yai-island -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phuket-scuba-diving-beginners-full-day-racha-yai-island</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 346 - bangkok-street-food-tuk-tuk-night-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-street-food-tuk-tuk-night-tour</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 349 - taj-mahal-sunrise-tour-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-sunrise-tour-tour</loc>
     <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 312 - private-surf-lesson-kata-beach-phuket -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/private-surf-lesson-kata-beach-phuket</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 327 - thai-cooking-class-phuket-kata -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/thai-cooking-class-phuket-kata</loc>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -750,6 +934,22 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 347 - bangkok-chinatown-food-tour-15-tastings-michelin-stops -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-chinatown-food-tour-15-tastings-michelin-stops</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 350 - bangkok-private-photography-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/bangkok-private-photography-tour</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 303 - delhi-to-jaipur-same-day-tour-by-car -->
   <url>
     <loc>https://www.asiabylocals.com/india/delhi/delhi-to-jaipur-same-day-tour-by-car</loc>
@@ -766,6 +966,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Layer 4: Tour 328 - seasoning-thai-cooking-class-phuket-cherngtalay -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/seasoning-thai-cooking-class-phuket-cherngtalay</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Layer 4: Tour 293 - jaipur-sightseeing-tour -->
   <url>
     <loc>https://www.asiabylocals.com/india/jaipur/jaipur-sightseeing-tour</loc>
@@ -774,10 +982,98 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Layer 4: Tour 204 - taj-mahal-tour-by-train-gatimaan -->
+  <!-- Layer 4: Tour 344 - learn-muay-thai-bangkok-private-training-certified-fighter -->
   <url>
-    <loc>https://www.asiabylocals.com/india/delhi/taj-mahal-tour-by-train-gatimaan</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://www.asiabylocals.com/thailand/bangkok/learn-muay-thai-bangkok-private-training-certified-fighter</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 241 - phi-phi-islands-speedboat-tour-maya-bay-snorkeling -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phi-phi-islands-speedboat-tour-maya-bay-snorkeling</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 245 - phuket-private-yacht-catamaran-charter-island-hopping -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phuket-private-yacht-catamaran-charter-island-hopping</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 329 - elephant-beach-experience-patong-phuket -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/elephant-beach-experience-patong-phuket</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 224 - explore-old-new-delhi-city-luxury-car-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/explore-old-new-delhi-city-luxury-car-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 362 - agra-gatimaan-express-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/agra/agra-gatimaan-express-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 363 - india-gate-approved-guided-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/india-gate-approved-guided-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 368 - chandni-chowk-shopping-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/india/delhi/chandni-chowk-shopping-tour</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 370 - hanuman-world-phuket-adventure-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/hanuman-world-phuket-adventure-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 369 - james-bond-island-evening-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/james-bond-island-evening-tour</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 374 - james-bond-island-private-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/james-bond-island-private-tour</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Layer 4: Tour 373 - phuket-old-town-full-day-tour -->
+  <url>
+    <loc>https://www.asiabylocals.com/thailand/phuket/phuket-old-town-full-day-tour</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -785,7 +1081,7 @@
   <!-- Agra Authority: things-to-do-in-agra -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/things-to-do-in-agra</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -793,7 +1089,7 @@
   <!-- Agra Authority: places-to-visit-in-agra -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/places-to-visit-in-agra</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -801,7 +1097,7 @@
   <!-- Agra Authority: 1-day-agra-itinerary -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/1-day-agra-itinerary</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -809,7 +1105,7 @@
   <!-- Agra Authority: taj-mahal-ticket-price-2026 -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-ticket-price-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -817,7 +1113,7 @@
   <!-- Agra Authority: taj-mahal-opening-time -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/taj-mahal-opening-time</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -825,7 +1121,7 @@
   <!-- Agra Authority: is-taj-mahal-closed-on-friday -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/is-taj-mahal-closed-on-friday</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -833,7 +1129,7 @@
   <!-- Agra Authority: agra-travel-guide-2026 -->
   <url>
     <loc>https://www.asiabylocals.com/india/agra/agra-travel-guide-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
