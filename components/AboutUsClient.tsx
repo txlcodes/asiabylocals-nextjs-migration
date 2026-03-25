@@ -49,7 +49,7 @@ export default function AboutUsClient() {
 
                 <section className="mb-16">
                     <h2 className="text-2xl font-black text-[#001A33] mb-6">Certifications & Memberships</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
                             <Image
                                 src="/gttaa-certificate.jpg"
@@ -74,7 +74,9 @@ export default function AboutUsClient() {
                                 <p className="text-sm font-semibold text-gray-600">Ministry of Tourism - Govt. of India Licensed</p>
                             </div>
                         </div>
-                        <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                    </div>
+                    <div className="flex justify-center mt-6">
+                        <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200 max-w-md w-full">
                             <Image
                                 src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779510/about/founder-id-card.jpg"
                                 alt="IITTM Refresher Course Certificate"
