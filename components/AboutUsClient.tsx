@@ -44,32 +44,53 @@ export default function AboutUsClient() {
                             <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">Diamond Category IITG</span>
                             <span className="px-4 py-2 bg-gray-100 rounded-lg text-sm font-semibold text-gray-700">PAN India Validity</span>
                         </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-                            <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
-                                <Image
-                                    src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779507/about/founder-certificate.jpg"
-                                    alt="Government of India - Ministry of Tourism - Incredible India Tourist Guide ID Card - Mohd Shahnawaz - Diamond Category"
-                                    width={600}
-                                    height={400}
-                                    className="w-full h-auto"
-                                />
-                                <div className="p-3 text-center">
-                                    <p className="text-sm font-semibold text-gray-600">Official Tourist Guide ID - Ministry of Tourism, Govt. of India</p>
-                                </div>
-                            </div>
-                            <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
-                                <Image
-                                    src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779510/about/founder-id-card.jpg"
-                                    alt="Refresher Course Online Module Completion Certificate - Indian Institute of Tourism and Travel Management - Mohd Shahnawaz"
-                                    width={600}
-                                    height={400}
-                                    className="w-full h-auto"
-                                />
-                                <div className="p-3 text-center">
-                                    <p className="text-sm font-semibold text-gray-600">Refresher Course Certificate - IITTM</p>
-                                </div>
+                    </div>
+                </section>
+
+                <section className="mb-16">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-6">Certifications & Memberships</h2>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                            <Image
+                                src="/gttaa-certificate.jpg"
+                                alt="GTTAA Certificate of Membership - AsiaByLocals - Global Tourism Travel Agents Association of India - Active Member - Valid until 2027"
+                                width={600}
+                                height={400}
+                                className="w-full h-auto"
+                            />
+                            <div className="p-3 text-center">
+                                <p className="text-sm font-semibold text-gray-600">GTTAA Active Member - Global Tourism Travel Agents Association of India</p>
                             </div>
                         </div>
+                        <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                            <Image
+                                src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779507/about/founder-certificate.jpg"
+                                alt="Government of India - Ministry of Tourism - Official Tourist Guide Certificate"
+                                width={600}
+                                height={400}
+                                className="w-full h-auto"
+                            />
+                            <div className="p-3 text-center">
+                                <p className="text-sm font-semibold text-gray-600">Ministry of Tourism - Govt. of India Licensed</p>
+                            </div>
+                        </div>
+                        <div className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200">
+                            <Image
+                                src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1773779510/about/founder-id-card.jpg"
+                                alt="IITTM Refresher Course Certificate"
+                                width={600}
+                                height={400}
+                                className="w-full h-auto"
+                            />
+                            <div className="p-3 text-center">
+                                <p className="text-sm font-semibold text-gray-600">IITTM Refresher Course Certificate</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex flex-wrap gap-3 mt-6 justify-center">
+                        <span className="px-4 py-2 bg-[#10B981]/10 rounded-lg text-sm font-black text-[#10B981] border border-[#10B981]/20">GTTAA Certified</span>
+                        <span className="px-4 py-2 bg-[#10B981]/10 rounded-lg text-sm font-black text-[#10B981] border border-[#10B981]/20">ETAA Member</span>
+                        <span className="px-4 py-2 bg-[#10B981]/10 rounded-lg text-sm font-black text-[#10B981] border border-[#10B981]/20">Govt. of India Approved</span>
                     </div>
                 </section>
 

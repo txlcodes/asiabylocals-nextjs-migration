@@ -1316,7 +1316,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: "15 Best Places to Visit in Agra Beyond the Taj Mahal (2026)",
                     description: "The 15 best places to visit in Agra in 2026. Taj Mahal, Agra Fort, Fatehpur Sikri, Mehtab Bagh, hidden gems, street food markets and local secrets most tourists miss.",
-                    heroImage: "/things-to-do/agra-taj-mahal-sunset.webp",
+                    heroImage: "/blog/places-hero.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Total Places', value: '15 Must-Visit Sites' },
                         { icon: 'Clock', label: 'Full Coverage', value: '2-3 Days Recommended' },
@@ -1341,18 +1341,22 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "3. Fatehpur Sikri - The Ghost Capital",
+                            image: "/things-to-do/agra-fatehpur-sikri.webp",
                             content: "Thirty-seven kilometres from Agra stands one of India's most atmospheric historical sites. Emperor Akbar built Fatehpur Sikri as his new capital in 1571. The red sandstone complex includes the stunning Buland Darwaza, the tallest gateway in the world at 54 metres. After just 14 years, the entire city was mysteriously abandoned in 1585.\n\nThe Panch Mahal, a five-storey structure with 176 columns (no two alike), is architecturally unlike anything else in Mughal India.\n\n**Getting there:** 45 minutes by car. Most [Agra tours](/india/agra) include it.\n\n**Tickets:** 610 INR for foreigners, 50 INR for Indians.\n\n**Duration:** 2-3 hours."
                         },
                         {
                             title: "4. Mehtab Bagh - The Best Sunset View",
+                            image: "/blog/mehtab-bagh.jpg",
                             content: "If you ask any local guide where to watch the sunset in Agra, the answer is always Mehtab Bagh. This garden sits directly across the Yamuna River from the Taj Mahal, offering what many consider the finest view of the monument.\n\nOriginally built by Emperor Babur as a moonlit pleasure garden, Mehtab Bagh was designed as a mirror-image complement to the Taj gardens. At sunset, when the marble glows amber-gold against a darkening sky, this is the most romantic viewpoint in all of India.\n\n**Timing:** Arrive by 4:30 PM in winter or 5:30 PM in summer.\n\n**Tickets:** 300 INR for foreigners, 25 INR for Indians.\n\n**Duration:** 1-1.5 hours."
                         },
                         {
                             title: "5. Itimad-ud-Daulah - The Baby Taj",
+                            image: "/blog/itmad-places.jpg",
                             content: "Often called the Baby Taj, the Tomb of Itimad-ud-Daulah was built 16 years before the Taj Mahal and is considered its prototype. The marble lattice work here is arguably even more delicate than the Taj's. The jali screens are carved so thinly that light passes through them, casting intricate shadow patterns that shift throughout the day.\n\nThis monument sees far fewer visitors than the Taj. You can photograph it without a single other tourist in your frame.\n\n**Timing:** Late morning (10-12 PM) when sunlight filters through the jali screens.\n\n**Tickets:** 310 INR for foreigners, 10 INR for Indians.\n\n**Duration:** 45 minutes to 1 hour."
                         },
                         {
                             title: "6. Jama Masjid & Kinari Bazaar",
+                            image: "/blog/agra-guide-2.jpg",
                             content: "Agra's Jama Masjid, built by Shah Jahan's daughter Jahanara Begum in 1648, is one of India's largest mosques. Step outside its eastern gate and you are immediately in Kinari Bazaar, the heart of Old Agra's commercial district.\n\nThe spice section is a sensory overload. The air is thick with roasted cumin, turmeric, and dry chillies. Merchants sit behind mountains of spices, weighing purchases on traditional balance scales.\n\n**Street food:** Petha (Agra's signature sweet), bedai and jalebi (the classic Agra breakfast), dalmoth (spicy lentil snack), and chaat at Sadar Bazaar. A [food tour with a local guide](/india/agra) is the best way to navigate without getting lost or overcharged.\n\n**Timing:** Any time. Free entry to the mosque (modest dress required).\n\n**Duration:** 1-2 hours."
                         },
                         {
@@ -1361,6 +1365,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "8. Tomb of Akbar the Great - Sikandra",
+                            image: "/blog/sikandra-places.jpg",
                             content: "Located 13 km north of Agra, the Tomb of Akbar blends Hindu, Christian, Islamic, and Buddhist architectural elements, reflecting the emperor's famous religious tolerance. The five-storey structure rises like a stepped pyramid, with Akbar's cenotaph sitting on an open-air marble platform under the sky rather than beneath a dome.\n\nThe sprawling grounds are home to friendly deer and langur monkeys.\n\n**Getting there:** Auto-rickshaw costs about 200-300 INR each way.\n\n**Tickets:** 310 INR for foreigners, 30 INR for Indians.\n\n**Duration:** 1-1.5 hours including travel."
                         },
                         {
@@ -1369,10 +1374,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "10. Old Agra Heritage Walk",
+                            image: "/things-to-do/agra-female-guide-tour.webp",
                             content: "The lanes behind the Jama Masjid form one of India's oldest continuously inhabited urban areas. A walking tour reveals papier-mache workshops using 700-year-old techniques, marble inlay craftsmen using the same methods that decorated the Taj Mahal, and the copper bazaar where hammered samovars are still made by hand.\n\nThe crumbling havelis of Old Agra tell stories of merchant families who grew wealthy under Mughal patronage. This is not a walk you should attempt alone. A [heritage walk with a local guide](/india/agra) who grew up in these lanes is the only way to experience this properly.\n\n**Duration:** 1.5-2 hours."
                         },
                         {
                             title: "11-15: More Places Worth Your Time",
+                            image: "/blog/fort-places.jpg",
                             content: "**11. Ram Bagh** - India's oldest Mughal garden, built by Emperor Babur in 1528. The classic Charbagh pattern that would later be perfected at the Taj. Quiet, melancholic beauty. 200 INR for foreigners. 30-45 minutes.\n\n**12. Mariam's Tomb** - The tomb of Akbar's wife, Mariam-uz-Zamani (Jodha Bai), set in a peaceful garden near Sikandra. Often completely empty of tourists. 25 INR. 30 minutes.\n\n**13. Chambal River Safari** - 65 km from Agra. Critically endangered Gangetic dolphins, gharials, and 300+ bird species in dramatic sandstone ravines. 2,000-3,500 INR per person for a 2-3 hour boat safari. Best October to March.\n\n**14. Keetham Lake & Bird Sanctuary** - 20 km from Agra. Migratory birds in winter, a bear rescue centre, and peaceful lakeside walks. 30 INR. 2-3 hours including travel.\n\n**15. Dolphin Water Park** - For families with kids who have reached their monument limit. Wave pools, water slides, and a lazy river. 700-900 INR. 3-4 hours."
                         },
                         {
@@ -1417,7 +1424,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                 return {
                     title: "The Perfect 1-Day Agra Itinerary: Hour-by-Hour Guide (2026)",
                     description: "The perfect 1-day Agra itinerary for 2026. Hour-by-hour plan covering Taj Mahal sunrise, Agra Fort, Mehtab Bagh sunset, street food and hidden gems.",
-                    heroImage: "/things-to-do/agra-taj-mahal-sunrise.webp",
+                    heroImage: "/blog/itinerary-hero.jpg",
                     fastFacts: [
                         { icon: 'Clock', label: 'Duration', value: '12-14 Hours' },
                         { icon: 'Map', label: 'Sites Covered', value: '5 Major Landmarks' },
@@ -1426,6 +1433,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                     sections: [
                         {
                             title: "Can You Really See Agra in One Day?",
+                            image: "/things-to-do/agra-official-guide.webp",
                             content: "Yes, but only if you plan ruthlessly. Agra's key monuments are spread across a compact area. The Taj Mahal, Agra Fort, and Mehtab Bagh are all within 5 km of each other. With the right timing, you can cover the essential sites, eat incredible street food, and witness both sunrise and sunset at the Taj from different vantage points.\n\nThe biggest mistake one-day visitors make is sleeping in. If you arrive at the Taj Mahal at 10 AM with the tour bus crowds, you have already lost the battle. This itinerary is built around the golden principle: **early start, strategic sequencing, zero wasted time.**\n\nThis works whether you are based in Agra or doing a [same-day trip from Delhi](/india/agra/same-day-agra-tour-from-delhi). If coming from Delhi by car (3-4 hours) or [Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train) (100 minutes), adjust morning timings accordingly.\n\nA [local guide](/india/agra) who knows the timing, shortcuts, and crowd patterns is the single biggest advantage on a one-day visit."
                         },
                         {
@@ -1436,31 +1444,38 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         },
                         {
                             title: "8:30 AM - 9:15 AM: Breakfast in Taj Ganj",
+                            image: "/things-to-do/agra-taj-mahal-mosque.webp",
                             content: "Exit through the East Gate into Taj Ganj.\n\n**Option 1: Local breakfast.** Bedai and jalebi stall. Crispy deep-fried lentil bread with spicy potato curry and syrupy jalebi. 50-80 INR. Messy, delicious, unforgettable.\n\n**Option 2: Rooftop cafe.** Several cafes have terraces with Taj Mahal views. Average food, incredible backdrop. Try Saniya Palace or Shankar Vegiz.\n\n**Duration:** 30-45 minutes. Do not linger."
                         },
                         {
                             title: "9:30 AM - 12:00 PM: Agra Fort",
+                            image: "/things-to-do/agra-fort-gate.webp",
                             content: "A 10-minute auto-rickshaw (60-80 INR) to Agra Fort's Amar Singh Gate.\n\n**Must-see stops in order:**\n1. **Jahangir Palace** - the fort's oldest palace with Hindu-Islamic fusion\n2. **Khas Mahal** - Shah Jahan's private palace in white marble\n3. **Musamman Burj** - where imprisoned Shah Jahan gazed at the Taj for 8 years until his death. Stand where he stood. This is Agra's most emotionally powerful moment.\n4. **Sheesh Mahal** - Mirror Palace with thousands of tiny mirrors\n5. **Diwan-i-Khas** - Hall of Private Audience\n6. **Diwan-i-Am** - Hall of Public Audience\n7. **Nagina Masjid** - tiny marble mosque for royal women\n\n**Exit by noon** before the afternoon heat builds.",
                             tourCard: { slug: "taj-mahal-agra-fort-guided-tour", title: "Taj Mahal & Agra Fort Combo Tour", description: "Both UNESCO sites with a licensed guide. Skip-the-line entry included.", price: "From $25", duration: "5 hours", rating: "4.9", reviews: "36", image: "/things-to-do/agra-fort-gate.webp" }
                         },
                         {
                             title: "12:00 PM - 1:30 PM: Lunch & Old Agra Bazaars",
+                            image: "/things-to-do/agra-female-guide-tour.webp",
                             content: "5-minute rickshaw to Kinari Bazaar and Jama Masjid area.\n\n**Lunch:**\n- **Laxmi Vilas** for thali meals (150-250 INR)\n- **Pinch of Spice** for AC Mughlai dining (500-800 INR)\n- **Street food crawl** through Sadar Bazaar: aloo tikki, kachori, lassi (200-300 INR total)\n\n**After lunch:** 30 minutes in the spice market. Buy petha from Panchhi Petha. Browse marble inlay workshops.\n\n**Quick stop:** Jama Masjid (free entry, 15 minutes)."
                         },
                         {
                             title: "1:30 PM - 3:00 PM: Itimad-ud-Daulah (Baby Taj)",
+                            image: "/things-to-do/agra-baby-taj.jpg",
                             content: "Auto-rickshaw to Itimad-ud-Daulah (100-150 INR, 15 minutes).\n\nThe marble lattice work here is arguably more delicate than the Taj's. The jali screens are carved so thin that early afternoon light (1-3 PM) passes through them creating shifting shadow patterns on the floor. The perfect midday stop when other monuments are hottest and most crowded.\n\n**Tickets:** 310 INR for foreigners.\n\n**Duration:** 45 minutes to 1 hour."
                         },
                         {
                             title: "3:00 PM - 4:30 PM: Rest & Optional Stop",
+                            image: "/things-to-do/agra-transfer-car.webp",
                             content: "You have been going since 5 AM. Take a break. Return to your hotel or find an AC cafe. Recharge your phone for sunset photos.\n\nIf you have energy, add one more:\n- **Chini-ka-Rauza** (10 min from Baby Taj, free, 20 min) - Persian-tiled tomb that 99% of tourists miss\n- **Tomb of Akbar at Sikandra** (20 min drive, 1 hour) - only if you have a car\n\nOtherwise rest. The sunset finale is worth being fresh for."
                         },
                         {
                             title: "4:30 PM - 6:30 PM: Mehtab Bagh Sunset",
+                            image: "/things-to-do/agra-taj-mahal-sunset.webp",
                             content: "Auto-rickshaw to Mehtab Bagh (150-200 INR, 20 minutes).\n\nArrive by 4:30 PM in winter or 5:30 PM in summer. Walk to the raised platform at the back for an elevated, unobstructed view. As the sun drops, the Taj transforms: white to cream to amber to deep gold to a final blush of pink.\n\nYou started your day watching sunrise illuminate the Taj from the front. You are ending it watching sunset paint the Taj from behind. Two completely different experiences, twelve hours apart. That is a perfect day in Agra.\n\n**Stay until the last light fades.** The blue-hour twilight (15-20 minutes after sunset) is hauntingly beautiful.\n\n**Tickets:** 300 INR for foreigners."
                         },
                         {
                             title: "7:00 PM - 8:30 PM: Dinner",
+                            image: "/things-to-do/agra-taj-mahal-garden.webp",
                             content: "**Top picks:**\n- **Peshawri at ITC Mughal** - Luxury North-West Frontier cuisine. 2,000-3,000 INR. Reservation required.\n- **Pinch of Spice** - Reliable mid-range. Mutton rogan josh and biryani. 500-800 INR.\n- **Mama Chicken Mama Franky** - Local favourite for rolls and kebabs. 200-300 INR.\n- **Rooftop in Taj Ganj** - Passable food, unbeatable Taj Mahal backdrop.\n\nIf returning to Delhi, the drive takes 3-4 hours. The last Gatimaan Express departs at 5:50 PM so you would miss sunset (consider staying overnight instead)."
                         },
                         {
