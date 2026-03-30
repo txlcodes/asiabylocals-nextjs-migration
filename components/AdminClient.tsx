@@ -2283,6 +2283,59 @@ export default function AdminClient() {
                                 <p className="text-[14px] text-[#001A33]">{booking.specialRequests}</p>
                               </div>
                             )}
+                            {/* Review Link Actions */}
+                            {booking.paymentStatus === 'paid' && (
+                              <div className="mt-3 flex flex-wrap gap-2">
+                                <button
+                                  onClick={async () => {
+                                    try {
+                                      // Generate review link if not already available
+                                      const res = await fetch(`${API_URL}/api/bookings/${booking.id}/send-review-link`, {
+                                        method: 'POST',
+                                        headers: { 'Content-Type': 'application/json' }
+                                      });
+                                      const data = await res.json();
+                                      if (data.reviewUrl) {
+                                        await navigator.clipboard.writeText(data.reviewUrl);
+                                        showNotification('Review link copied to clipboard!');
+                                      } else {
+                                        showNotification(data.error || 'Failed to generate link', 'error');
+                                      }
+                                    } catch {
+                                      showNotification('Failed to generate review link', 'error');
+                                    }
+                                  }}
+                                  className="px-3 py-2 bg-[#10B981]/10 text-[#059669] text-[12px] font-bold rounded-lg hover:bg-[#10B981]/20 transition-colors"
+                                >
+                                  📋 Copy Review Link
+                                </button>
+                                <button
+                                  onClick={async () => {
+                                    try {
+                                      const res = await fetch(`${API_URL}/api/bookings/${booking.id}/send-review-link`, {
+                                        method: 'POST',
+                                        headers: { 'Content-Type': 'application/json' }
+                                      });
+                                      const data = await res.json();
+                                      if (data.reviewUrl) {
+                                        const message = `Hi ${booking.customerName}! 😊 Thank you for booking ${booking.tour?.title || 'your tour'} with AsiaByLocals. We'd love to hear about your experience! Please share your review here: ${data.reviewUrl}`;
+                                        const whatsappUrl = booking.customerPhone
+                                          ? `https://wa.me/${booking.customerPhone.replace(/[^\d+]/g, '')}?text=${encodeURIComponent(message)}`
+                                          : `https://wa.me/?text=${encodeURIComponent(message)}`;
+                                        window.open(whatsappUrl, '_blank');
+                                      } else {
+                                        showNotification(data.error || 'Failed to generate link', 'error');
+                                      }
+                                    } catch {
+                                      showNotification('Failed to generate review link', 'error');
+                                    }
+                                  }}
+                                  className="px-3 py-2 bg-green-500/10 text-green-700 text-[12px] font-bold rounded-lg hover:bg-green-500/20 transition-colors"
+                                >
+                                  💬 Share on WhatsApp
+                                </button>
+                              </div>
+                            )}
                           </div>
                         </div>
                       </div>

@@ -7,7 +7,7 @@ import prisma from './db.js';
 import bcrypt from 'bcrypt';
 import { randomBytes, createHmac } from 'crypto';
 import Razorpay from 'razorpay';
-import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, sendBookingConfirmationEmail, sendAdminPaymentNotificationEmail, sendTourApprovalEmail, sendTourRejectionEmail } from './utils/email.js';
+import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, sendBookingConfirmationEmail, sendAdminPaymentNotificationEmail, sendTourApprovalEmail, sendTourRejectionEmail, sendReviewRequestEmail } from './utils/email.js';
 import { uploadMultipleImages } from './utils/cloudinary.js';
 import { generateInvoicePDF } from './utils/invoice.js';
 import { generateSitemap } from './generate-sitemap.js';
@@ -8388,6 +8388,10 @@ app.post('/api/verify-payment', async (req, res) => {
     // Generate booking reference
     const bookingReference = `ABL-${existingBooking.id.toString().padStart(6, '0')}-${new Date().getFullYear()}`;
 
+    // Generate review token for post-tour review
+    const reviewToken = randomBytes(32).toString('hex');
+    const reviewTokenExpiresAt = new Date(Date.now() + 90 * 24 * 60 * 60 * 1000); // 90 days
+
     // Get full booking data for invoice generation and email
     const bookingForInvoice = await prisma.booking.findUnique({
       where: { id: parseInt(bookingId) },
@@ -8446,6 +8450,8 @@ app.post('/api/verify-payment', async (req, res) => {
         status: 'confirmed',
         confirmedAt: new Date(),
         invoiceUrl: invoiceUrl,
+        reviewToken: reviewToken,
+        reviewTokenExpiresAt: reviewTokenExpiresAt,
         updatedAt: new Date() // Explicitly update timestamp
       },
       include: {
@@ -8501,7 +8507,8 @@ app.post('/api/verify-payment', async (req, res) => {
           razorpayOrderId: razorpay_order_id,
           paymentStatus: 'Paid',
           invoiceUrl: invoiceUrl,
-          invoicePDFBase64: invoicePDFBase64 // Pass base64 PDF for attachment
+          invoicePDFBase64: invoicePDFBase64, // Pass base64 PDF for attachment
+          reviewUrl: `${process.env.FRONTEND_URL || 'https://www.asiabylocals.com'}/review/${reviewToken}`
         }
       );
       console.log(`✅ Booking confirmation email sent to customer`);
@@ -8654,6 +8661,312 @@ app.post('/api/bookings/:bookingId/mark-payment-failed', async (req, res) => {
       error: 'Internal server error',
       message: 'Failed to update booking status'
     });
+  }
+});
+
+// ==================== REVIEW ENDPOINTS ====================
+
+// Get reviews for a tour (real reviews from DB)
+app.get('/api/tours/:tourId/reviews', async (req, res) => {
+  try {
+    const { tourId } = req.params;
+    const reviews = await prisma.review.findMany({
+      where: { tourId: parseInt(tourId) },
+      orderBy: { createdAt: 'desc' },
+      select: {
+        id: true,
+        customerName: true,
+        country: true,
+        rating: true,
+        guideRating: true,
+        valueRating: true,
+        text: true,
+        photos: true,
+        verified: true,
+        createdAt: true
+      }
+    });
+
+    // Calculate aggregate ratings
+    let averageRating = 0;
+    let avgGuideRating = 0;
+    let avgValueRating = 0;
+    let guideCount = 0;
+    let valueCount = 0;
+
+    if (reviews.length > 0) {
+      averageRating = reviews.reduce((sum, r) => sum + r.rating, 0) / reviews.length;
+      reviews.forEach(r => {
+        if (r.guideRating) { avgGuideRating += r.guideRating; guideCount++; }
+        if (r.valueRating) { avgValueRating += r.valueRating; valueCount++; }
+      });
+      if (guideCount > 0) avgGuideRating /= guideCount;
+      if (valueCount > 0) avgValueRating /= valueCount;
+    }
+
+    res.json({
+      success: true,
+      reviews: reviews.map(r => ({
+        ...r,
+        photos: r.photos ? JSON.parse(r.photos) : []
+      })),
+      totalReviews: reviews.length,
+      averageRating: Math.round(averageRating * 10) / 10,
+      guideRating: Math.round(avgGuideRating * 10) / 10,
+      valueRating: Math.round(avgValueRating * 10) / 10
+    });
+  } catch (error) {
+    console.error('Error fetching reviews:', error);
+    res.status(500).json({ success: false, error: 'Failed to fetch reviews' });
+  }
+});
+
+// Verify review token and get booking info
+app.get('/api/reviews/verify/:token', async (req, res) => {
+  try {
+    const { token } = req.params;
+
+    // Check if review already exists with this token
+    const existingReview = await prisma.review.findUnique({
+      where: { reviewToken: token }
+    });
+
+    if (existingReview) {
+      return res.status(400).json({
+        success: false,
+        error: 'Review already submitted',
+        message: 'You have already submitted a review for this booking.'
+      });
+    }
+
+    // Find booking with this review token
+    const booking = await prisma.booking.findFirst({
+      where: {
+        reviewToken: token,
+        status: 'confirmed'
+      },
+      include: {
+        tour: {
+          select: { id: true, title: true, slug: true, city: true, country: true, images: true }
+        }
+      }
+    });
+
+    if (!booking) {
+      return res.status(404).json({
+        success: false,
+        error: 'Invalid or expired review link',
+        message: 'This review link is invalid or has expired.'
+      });
+    }
+
+    // Check token expiry
+    if (booking.reviewTokenExpiresAt && new Date() > new Date(booking.reviewTokenExpiresAt)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Review link expired',
+        message: 'This review link has expired. Please contact support.'
+      });
+    }
+
+    // Parse tour images
+    let tourImage = null;
+    try {
+      const images = JSON.parse(booking.tour.images);
+      tourImage = Array.isArray(images) ? images[0] : null;
+    } catch (e) {}
+
+    res.json({
+      success: true,
+      booking: {
+        id: booking.id,
+        customerName: booking.customerName,
+        customerEmail: booking.customerEmail,
+        bookingDate: booking.bookingDate,
+        tourTitle: booking.tour.title,
+        tourSlug: booking.tour.slug,
+        tourCity: booking.tour.city,
+        tourCountry: booking.tour.country,
+        tourId: booking.tour.id,
+        tourImage
+      }
+    });
+  } catch (error) {
+    console.error('Error verifying review token:', error);
+    res.status(500).json({ success: false, error: 'Failed to verify review token' });
+  }
+});
+
+// Submit a review
+app.post('/api/reviews', async (req, res) => {
+  try {
+    const { token, rating, guideRating, valueRating, text, country, photos } = req.body;
+
+    if (!token || !rating || !text) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields',
+        message: 'Please provide a rating and review text.'
+      });
+    }
+
+    if (rating < 1 || rating > 5) {
+      return res.status(400).json({ success: false, error: 'Rating must be between 1 and 5' });
+    }
+
+    // Check if review already exists with this token
+    const existingReview = await prisma.review.findUnique({
+      where: { reviewToken: token }
+    });
+
+    if (existingReview) {
+      return res.status(400).json({
+        success: false,
+        error: 'Review already submitted',
+        message: 'You have already submitted a review for this booking.'
+      });
+    }
+
+    // Find booking with this token
+    const booking = await prisma.booking.findFirst({
+      where: {
+        reviewToken: token,
+        status: 'confirmed'
+      },
+      include: {
+        tour: { select: { id: true, title: true } }
+      }
+    });
+
+    if (!booking) {
+      return res.status(404).json({
+        success: false,
+        error: 'Invalid review link',
+        message: 'This review link is invalid or has expired.'
+      });
+    }
+
+    // Check token expiry
+    if (booking.reviewTokenExpiresAt && new Date() > new Date(booking.reviewTokenExpiresAt)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Review link expired',
+        message: 'This review link has expired.'
+      });
+    }
+
+    // Upload photos to Cloudinary if provided
+    let photoUrls = [];
+    if (photos && Array.isArray(photos) && photos.length > 0) {
+      try {
+        const { uploadMultipleImages } = await import('./utils/cloudinary.js');
+        photoUrls = await uploadMultipleImages(photos, `reviews/${booking.tourId}`);
+        console.log(`✅ Uploaded ${photoUrls.length} review photos`);
+      } catch (uploadError) {
+        console.error('❌ Failed to upload review photos:', uploadError);
+        // Don't fail the review submission if photo upload fails
+      }
+    }
+
+    // Create review
+    const review = await prisma.review.create({
+      data: {
+        tourId: booking.tour.id,
+        bookingId: booking.id,
+        customerName: booking.customerName,
+        customerEmail: booking.customerEmail,
+        country: country || null,
+        rating: parseInt(rating),
+        guideRating: guideRating ? parseInt(guideRating) : null,
+        valueRating: valueRating ? parseInt(valueRating) : null,
+        text: text.trim(),
+        photos: photoUrls.length > 0 ? JSON.stringify(photoUrls) : null,
+        reviewToken: token,
+        tokenExpiresAt: booking.reviewTokenExpiresAt || new Date(Date.now() + 90 * 24 * 60 * 60 * 1000),
+        verified: true
+      }
+    });
+
+    console.log(`✅ Review submitted for tour "${booking.tour.title}" by ${booking.customerName}`);
+
+    res.json({
+      success: true,
+      message: 'Thank you for your review!',
+      review: {
+        id: review.id,
+        rating: review.rating,
+        tourTitle: booking.tour.title
+      }
+    });
+  } catch (error) {
+    console.error('Error submitting review:', error);
+    res.status(500).json({ success: false, error: 'Failed to submit review' });
+  }
+});
+
+// Send review request email (admin or automatic trigger)
+app.post('/api/bookings/:bookingId/send-review-link', async (req, res) => {
+  try {
+    const { bookingId } = req.params;
+
+    const booking = await prisma.booking.findUnique({
+      where: { id: parseInt(bookingId) },
+      include: {
+        tour: { select: { id: true, title: true, slug: true, city: true, country: true } },
+        review: true
+      }
+    });
+
+    if (!booking) {
+      return res.status(404).json({ success: false, error: 'Booking not found' });
+    }
+
+    if (booking.status !== 'confirmed') {
+      return res.status(400).json({ success: false, error: 'Booking must be confirmed to request a review' });
+    }
+
+    if (booking.review) {
+      return res.status(400).json({ success: false, error: 'Review already submitted for this booking' });
+    }
+
+    // Generate review token if not exists
+    let reviewToken = booking.reviewToken;
+    if (!reviewToken) {
+      reviewToken = randomBytes(32).toString('hex');
+      await prisma.booking.update({
+        where: { id: booking.id },
+        data: {
+          reviewToken,
+          reviewTokenExpiresAt: new Date(Date.now() + 90 * 24 * 60 * 60 * 1000) // 90 days
+        }
+      });
+    }
+
+    const reviewUrl = `${process.env.FRONTEND_URL || 'https://www.asiabylocals.com'}/review/${reviewToken}`;
+
+    // Send review request email
+    await sendReviewRequestEmail(
+      booking.customerEmail,
+      booking.customerName,
+      {
+        tourTitle: booking.tour.title,
+        tourCity: booking.tour.city,
+        tourCountry: booking.tour.country,
+        bookingDate: booking.bookingDate,
+        reviewUrl
+      }
+    );
+
+    console.log(`✅ Review request email sent to ${booking.customerEmail} for booking ${bookingId}`);
+
+    res.json({
+      success: true,
+      message: 'Review request email sent successfully',
+      reviewUrl
+    });
+  } catch (error) {
+    console.error('Error sending review link:', error);
+    res.status(500).json({ success: false, error: 'Failed to send review request' });
   }
 });
 

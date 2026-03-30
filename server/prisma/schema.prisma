@@ -101,6 +101,7 @@ model Tour {
   miniTours        Tour[]       @relation("TourMiniTours")
   bookings         Booking[]
   options          TourOption[]
+  realReviews      Review[]
 
   @@index([supplierId])
   @@index([status])
@@ -158,18 +159,47 @@ model Booking {
   razorpayOrderId   String?     @map("razorpay_order_id")
   razorpayPaymentId String?     @map("razorpay_payment_id")
   razorpaySignature String?     @map("razorpay_signature")
-  confirmedAt       DateTime?   @map("confirmed_at")
-  invoiceUrl        String?     @map("invoice_url")
-  createdAt         DateTime    @default(now()) @map("created_at")
-  updatedAt         DateTime    @updatedAt @map("updated_at")
+  confirmedAt            DateTime?   @map("confirmed_at")
+  invoiceUrl             String?     @map("invoice_url")
+  reviewToken            String?     @unique @map("review_token")
+  reviewTokenExpiresAt   DateTime?   @map("review_token_expires_at")
+  createdAt              DateTime    @default(now()) @map("created_at")
+  updatedAt              DateTime    @updatedAt @map("updated_at")
 
   messages Message[]
+  review   Review?
 
   @@index([tourId])
   @@index([tourOptionId])
   @@index([supplierId])
   @@index([customerEmail])
   @@map("bookings")
+}
+
+model Review {
+  id             Int      @id @default(autoincrement())
+  tourId         Int      @map("tour_id")
+  tour           Tour     @relation(fields: [tourId], references: [id], onDelete: Cascade)
+  bookingId      Int      @unique @map("booking_id")
+  booking        Booking  @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  customerName   String   @map("customer_name")
+  customerEmail  String   @map("customer_email")
+  country        String?
+  rating         Int      // 1-5
+  guideRating    Int?     @map("guide_rating") // 1-5
+  valueRating    Int?     @map("value_rating") // 1-5
+  text           String
+  photos         String?  // JSON array of Cloudinary URLs
+  reviewToken    String   @unique @map("review_token")
+  tokenExpiresAt DateTime @map("token_expires_at")
+  verified       Boolean  @default(true) // Always true since link is sent to booking email
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  @@index([tourId])
+  @@index([bookingId])
+  @@index([reviewToken])
+  @@map("reviews_table")
 }
 
 model Message {

@@ -132,6 +132,30 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const [expandedOptions, setExpandedOptions] = useState<Set<number>>(new Set());
   const [expandedFAQs, setExpandedFAQs] = useState<Set<number>>(new Set([0, 1, 2])); // First 3 open by default
 
+  // Real reviews from DB
+  const [realReviews, setRealReviews] = useState<any[]>([]);
+  const [realReviewStats, setRealReviewStats] = useState<{totalReviews: number; averageRating: number; guideRating: number; valueRating: number} | null>(null);
+
+  useEffect(() => {
+    const tourId = initialTour?.id;
+    if (!tourId) return;
+    const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+    fetch(`${API_URL}/api/tours/${tourId}/reviews`)
+      .then(res => res.json())
+      .then(data => {
+        if (data.success && data.reviews?.length > 0) {
+          setRealReviews(data.reviews);
+          setRealReviewStats({
+            totalReviews: data.totalReviews,
+            averageRating: data.averageRating,
+            guideRating: data.guideRating,
+            valueRating: data.valueRating
+          });
+        }
+      })
+      .catch(() => {}); // Silently fail - hardcoded reviews are the fallback
+  }, [initialTour?.id]);
+
   const effectiveMaxGroupSize = Number(selectedOption?.maxGroupSize || tour?.maxGroupSize || 10);
 
   // Re-validate participants if maxGroupSize changes (e.g. when changing options)
@@ -2405,14 +2429,33 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Section: Traveler Reviews */}
                   {(() => {
                     const reviewData = getTourReviews(tourSlug);
-                    if (!reviewData) return null;
+                    if (!reviewData && realReviews.length === 0) return null;
 
                     const formatReviewDate = (dateStr: string) => {
-                      const d = new Date(dateStr + 'T00:00:00');
+                      const d = new Date(dateStr.includes('T') ? dateStr : dateStr + 'T00:00:00');
                       return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
                     };
 
                     const avatarColors = ['#065f46', '#047857', '#0d9488', '#0e7490', '#059669', '#10b981'];
+
+                    // Compute combined stats: prefer real review stats when available, blend with hardcoded
+                    const hardcodedCount = reviewData?.totalReviews || 0;
+                    const realCount = realReviewStats?.totalReviews || 0;
+                    const totalReviews = realCount + hardcodedCount;
+
+                    const combinedAvgRating = totalReviews > 0
+                      ? ((realReviewStats?.averageRating || 0) * realCount + (reviewData?.averageRating || 0) * hardcodedCount) / totalReviews
+                      : 0;
+                    const combinedGuideRating = totalReviews > 0
+                      ? ((realReviewStats?.guideRating || 0) * realCount + (reviewData?.guideRating || 0) * hardcodedCount) / totalReviews
+                      : 0;
+                    const combinedValueRating = totalReviews > 0
+                      ? ((realReviewStats?.valueRating || 0) * realCount + (reviewData?.valueRating || 0) * hardcodedCount) / totalReviews
+                      : 0;
+
+                    const displayAvgRating = Math.round(combinedAvgRating * 10) / 10;
+                    const displayGuideRating = Math.round(combinedGuideRating * 10) / 10;
+                    const displayValueRating = Math.round(combinedValueRating * 10) / 10;
 
                     return (
                       <section className="lg:col-span-2">
@@ -2428,7 +2471,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           {/* Left: Big rating */}
                           <div className="flex flex-col items-center sm:items-start">
                             <div className="flex items-baseline gap-1">
-                              <span className="text-5xl font-black text-[#001A33]">{reviewData.averageRating}</span>
+                              <span className="text-5xl font-black text-[#001A33]">{displayAvgRating}</span>
                               <span className="text-xl text-gray-400 font-semibold">/5</span>
                             </div>
                             <div className="flex items-center gap-0.5 mt-1">
@@ -2436,11 +2479,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                 <Star
                                   key={i}
                                   size={22}
-                                  className={i < Math.round(reviewData.averageRating) ? 'text-[#10B981] fill-[#10B981]' : 'text-gray-200 fill-gray-200'}
+                                  className={i < Math.round(displayAvgRating) ? 'text-[#10B981] fill-[#10B981]' : 'text-gray-200 fill-gray-200'}
                                 />
                               ))}
                             </div>
-                            <span className="text-sm text-gray-500 font-semibold mt-1">based on {reviewData.totalReviews} reviews</span>
+                            <span className="text-sm text-gray-500 font-semibold mt-1">based on {totalReviews} reviews</span>
                           </div>
 
                           {/* Right: Category bars */}
@@ -2448,16 +2491,16 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             <div className="flex items-center gap-3">
                               <span className="text-sm font-semibold text-gray-700 w-32">Guide</span>
                               <div className="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
-                                <div className="h-full bg-[#10B981] rounded-full" style={{ width: `${(reviewData.guideRating / 5) * 100}%` }} />
+                                <div className="h-full bg-[#10B981] rounded-full" style={{ width: `${(displayGuideRating / 5) * 100}%` }} />
                               </div>
-                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{reviewData.guideRating}/5</span>
+                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{displayGuideRating}/5</span>
                             </div>
                             <div className="flex items-center gap-3">
                               <span className="text-sm font-semibold text-gray-700 w-32">Value for money</span>
                               <div className="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
-                                <div className="h-full bg-[#10B981] rounded-full" style={{ width: `${(reviewData.valueRating / 5) * 100}%` }} />
+                                <div className="h-full bg-[#10B981] rounded-full" style={{ width: `${(displayValueRating / 5) * 100}%` }} />
                               </div>
-                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{reviewData.valueRating}/5</span>
+                              <span className="text-sm font-bold text-[#001A33] w-10 text-right">{displayValueRating}/5</span>
                             </div>
                           </div>
                         </div>
@@ -2468,43 +2511,102 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           All reviews are from verified AsiaByLocals travelers
                         </div>
 
-                        {/* Individual Reviews */}
-                        <div className="space-y-0">
-                          {reviewData.reviews.map((review: TourReview, idx: number) => (
-                            <div key={idx} className={`py-6 ${idx < reviewData.reviews.length - 1 ? 'border-b border-gray-100' : ''}`}>
-                              {/* Stars */}
-                              <div className="flex items-center gap-1.5 mb-3">
-                                {[...Array(5)].map((_, i) => (
-                                  <Star
-                                    key={i}
-                                    size={16}
-                                    className={i < review.rating ? 'text-[#10B981] fill-[#10B981]' : 'text-gray-200 fill-gray-200'}
-                                  />
-                                ))}
-                                <span className="text-sm font-bold text-[#001A33] ml-1">{review.rating}</span>
-                              </div>
-
-                              {/* Author info */}
-                              <div className="flex items-center gap-3 mb-3">
-                                <div
-                                  className="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold shrink-0"
-                                  style={{ backgroundColor: avatarColors[idx % avatarColors.length] }}
-                                >
-                                  {review.author.charAt(0)}
+                        {/* Real Reviews (from DB) - shown on top */}
+                        {realReviews.length > 0 && (
+                          <div className="space-y-0">
+                            {realReviews.map((review: any, idx: number) => (
+                              <div key={`real-${review.id}`} className="py-6 border-b border-gray-100">
+                                {/* Verified booking badge */}
+                                <div className="flex items-center gap-1.5 mb-2">
+                                  <ShieldCheck size={14} className="text-[#10B981]" />
+                                  <span className="text-xs font-semibold text-[#059669]">Verified Booking</span>
                                 </div>
-                                <div>
-                                  <div className="text-sm font-bold text-[#001A33]">
-                                    {review.author} <span className="font-normal text-gray-500">&ndash; {review.country}</span>
+
+                                {/* Stars */}
+                                <div className="flex items-center gap-1.5 mb-3">
+                                  {[...Array(5)].map((_, i) => (
+                                    <Star
+                                      key={i}
+                                      size={16}
+                                      className={i < review.rating ? 'text-[#10B981] fill-[#10B981]' : 'text-gray-200 fill-gray-200'}
+                                    />
+                                  ))}
+                                  <span className="text-sm font-bold text-[#001A33] ml-1">{review.rating}</span>
+                                </div>
+
+                                {/* Author info */}
+                                <div className="flex items-center gap-3 mb-3">
+                                  <div
+                                    className="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold shrink-0"
+                                    style={{ backgroundColor: avatarColors[idx % avatarColors.length] }}
+                                  >
+                                    {review.customerName.charAt(0)}
                                   </div>
-                                  <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.date)}</div>
+                                  <div>
+                                    <div className="text-sm font-bold text-[#001A33]">
+                                      {review.customerName} {review.country && <span className="font-normal text-gray-500">&ndash; {review.country}</span>}
+                                    </div>
+                                    <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.createdAt)}</div>
+                                  </div>
                                 </div>
-                              </div>
 
-                              {/* Review text */}
-                              <p className="text-[15px] text-gray-700 font-medium leading-relaxed">{review.text}</p>
-                            </div>
+                                {/* Review text */}
+                                <p className="text-[15px] text-gray-700 font-medium leading-relaxed">{review.text}</p>
+
+                                {/* Review photos */}
+                                {review.photos && review.photos.length > 0 && (
+                                  <div className="flex flex-wrap gap-2 mt-3">
+                                    {review.photos.map((photo: string, photoIdx: number) => (
+                                      <a key={photoIdx} href={photo} target="_blank" rel="noopener noreferrer" className="block w-20 h-20 rounded-lg overflow-hidden border border-gray-200 hover:opacity-80 transition-opacity">
+                                        <img src={photo} alt={`Review photo ${photoIdx + 1}`} className="w-full h-full object-cover" />
+                                      </a>
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                            ))}
+                          </div>
+                        )}
+
+                        {/* Hardcoded Reviews */}
+                        {reviewData && (
+                          <div className="space-y-0">
+                            {reviewData.reviews.map((review: TourReview, idx: number) => (
+                              <div key={`hc-${idx}`} className={`py-6 ${idx < reviewData.reviews.length - 1 ? 'border-b border-gray-100' : ''}`}>
+                                {/* Stars */}
+                                <div className="flex items-center gap-1.5 mb-3">
+                                  {[...Array(5)].map((_, i) => (
+                                    <Star
+                                      key={i}
+                                      size={16}
+                                      className={i < review.rating ? 'text-[#10B981] fill-[#10B981]' : 'text-gray-200 fill-gray-200'}
+                                    />
+                                  ))}
+                                  <span className="text-sm font-bold text-[#001A33] ml-1">{review.rating}</span>
+                                </div>
+
+                                {/* Author info */}
+                                <div className="flex items-center gap-3 mb-3">
+                                  <div
+                                    className="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold shrink-0"
+                                    style={{ backgroundColor: avatarColors[(realReviews.length + idx) % avatarColors.length] }}
+                                  >
+                                    {review.author.charAt(0)}
+                                  </div>
+                                  <div>
+                                    <div className="text-sm font-bold text-[#001A33]">
+                                      {review.author} <span className="font-normal text-gray-500">&ndash; {review.country}</span>
+                                    </div>
+                                    <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.date)}</div>
+                                  </div>
+                                </div>
+
+                                {/* Review text */}
+                                <p className="text-[15px] text-gray-700 font-medium leading-relaxed">{review.text}</p>
+                              </div>
                           ))}
                         </div>
+                        )}
                       </section>
                     );
                   })()}
