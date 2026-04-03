@@ -215,30 +215,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       return null;
     }
 
-    // CRITICAL: Check Tour.groupPricingTiers FIRST (PRIMARY SOURCE - most reliable)
-    // This is now stored directly on Tour model, simple and reliable
+    // CRITICAL: Check tourData.groupPricingTiers FIRST (the passed-in option/tour data)
+    // This ensures that when a specific option is selected, its own pricing is used
     let groupPricingTiers = null;
 
-
-    if (tour && tour.groupPricingTiers) {
-      console.log('🔍 PRIMARY: Checking tour.groupPricingTiers (Tour model - PRIMARY SOURCE)...');
-      try {
-        if (typeof tour.groupPricingTiers === 'string') {
-          groupPricingTiers = JSON.parse(tour.groupPricingTiers);
-        } else if (Array.isArray(tour.groupPricingTiers)) {
-          groupPricingTiers = tour.groupPricingTiers;
-        }
-        if (groupPricingTiers && Array.isArray(groupPricingTiers) && groupPricingTiers.length > 0) {
-          console.log('✅ PRIMARY: Found groupPricingTiers on Tour model:', groupPricingTiers);
-        }
-      } catch (e) {
-        console.error('❌ Failed to parse tour.groupPricingTiers:', e);
-      }
-    }
-
-    // FALLBACK: Check tourData.groupPricingTiers (for options with custom pricing)
-    if (!groupPricingTiers && tourData.groupPricingTiers) {
-      console.log('🔍 FALLBACK: Checking tourData.groupPricingTiers (option custom pricing)...');
+    // PRIMARY: Check tourData.groupPricingTiers (the selected option's pricing)
+    if (tourData.groupPricingTiers) {
+      console.log('🔍 PRIMARY: Checking tourData.groupPricingTiers (selected option pricing)...');
       let rawPricingData = tourData.groupPricingTiers;
 
       console.log('📦 Supplier pricing response (raw):', {
@@ -268,8 +251,24 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       }
     }
 
-    // CRITICAL FALLBACK 2: Check main tour's options for groupPricingTiers
-    // This handles both main tour and options (options fall back to main tour pricing)
+    // FALLBACK 1: Check tour.groupPricingTiers (Tour model level)
+    if (!groupPricingTiers && tour && tour.groupPricingTiers) {
+      console.log('🔍 FALLBACK 1: Checking tour.groupPricingTiers (Tour model)...');
+      try {
+        if (typeof tour.groupPricingTiers === 'string') {
+          groupPricingTiers = JSON.parse(tour.groupPricingTiers);
+        } else if (Array.isArray(tour.groupPricingTiers)) {
+          groupPricingTiers = tour.groupPricingTiers;
+        }
+        if (groupPricingTiers && Array.isArray(groupPricingTiers) && groupPricingTiers.length > 0) {
+          console.log('✅ FALLBACK 1: Found groupPricingTiers on Tour model:', groupPricingTiers);
+        }
+      } catch (e) {
+        console.error('❌ Failed to parse tour.groupPricingTiers:', e);
+      }
+    }
+
+    // FALLBACK 2: Check main tour's options for groupPricingTiers
     if (!groupPricingTiers && tour && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
       console.log('🔍 Checking main tour options for groupPricingTiers fallback...');
       console.log('   Total options available:', tour.options.length);
@@ -777,7 +776,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
     // Calculate total amount using pricing type detection
     let totalAmount = 0;
-    let currency = selectedOption?.currency || tour.currency || 'INR';
+    let currency = tour.currency || selectedOption?.currency || 'USD';
     const currentParticipants = isCustomParticipants ? customParticipants : participants;
     const tourData = selectedOption || tour;
 
@@ -920,7 +919,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         body: JSON.stringify({
           bookingId,
           amount: amount * 100, // Convert to paise
-          currency: currency || 'INR'
+          currency: currency || 'USD'
         }),
       });
 
@@ -937,7 +936,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       const options = {
         key: paymentData.razorpayKeyId,
         amount: paymentData.order.amount,
-        currency: paymentData.order.currency || 'INR',
+        currency: paymentData.order.currency || 'USD',
         name: 'AsiaByLocals',
         description: `Booking for ${tour?.title || 'Tour'}`,
         order_id: paymentData.order.id,
@@ -1407,7 +1406,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         optionDescription: tour.shortDescription || tour.fullDescription?.substring(0, 200) || '',
                         durationHours: parseFloat(tour.duration?.replace(/[^0-9.]/g, '')) || 3,
                         price: tour.pricePerPerson || 0,
-                        currency: tour.currency || 'INR',
+                        currency: tour.currency || 'USD',
                         language: tour.languages?.[0] || 'English',
                         pickupIncluded: false,
                         entryTicketIncluded: false,
@@ -1436,8 +1435,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                 ? (typeof option.groupPricingTiers === 'string' ? (() => { try { return JSON.parse(option.groupPricingTiers); } catch { return []; } })() : option.groupPricingTiers)
                                 : [];
                               const optionHasOwnTiers = Array.isArray(optTiers) && optTiers.length > 0;
-                              const priceCurrency = optionHasOwnTiers ? (option.currency || 'INR') : (tour.currency || 'INR');
-                              const toDisplayPrice = (price: number) => priceCurrency === 'INR' ? Math.round(price / 85) : price;
+                              const toDisplayPrice = (price: number) => price;
 
                               const optImgs = Array.isArray(option.images) ? option.images : (typeof option.images === 'string' ? (() => { try { return JSON.parse(option.images); } catch { return []; } })() : []);
                               const optImg = optImgs.find((img: string) => img && !img.startsWith('data:'));
@@ -2005,8 +2003,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             <span className="text-[14px] text-gray-500 font-semibold">
                               Starting from $
                               {(() => {
-                                const INR_TO_USD_SIDEBAR = 85;
-                                const sidebarConvert = (p: number) => tour.currency === 'INR' ? Math.round(p / INR_TO_USD_SIDEBAR) : p;
+                                const sidebarConvert = (p: number) => p;
                                 console.log('═══════════════════════════════════════════════════════════');
                                 console.log('🏷 "STARTING FROM" PRICE CALCULATION');
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -2091,7 +2088,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                                 // Always use group pricing logic - calculate from tiers
                                 const groupPrice = calculateGroupPrice(tour, currentParticipants);
-                                const sidebarConvertDynamic = (p: number) => tour.currency === 'INR' ? Math.round(p / 85) : p;
+                                const sidebarConvertDynamic = (p: number) => p;
 
                                 if (groupPrice !== null && groupPrice > 0) {
                                   console.log('✅ Using calculated group price:', groupPrice);
@@ -2146,8 +2143,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   ? (typeof selectedOption.groupPricingTiers === 'string' ? (() => { try { return JSON.parse(selectedOption.groupPricingTiers); } catch { return []; } })() : selectedOption.groupPricingTiers)
                                   : [];
                                 const selOptHasOwnTiers = Array.isArray(selOptTiers) && selOptTiers.length > 0;
-                                const selOptPriceCurrency = selOptHasOwnTiers ? (selectedOption.currency || 'INR') : (tour.currency || 'INR');
-                                const convertOpt = (p: number) => selOptPriceCurrency === 'INR' ? Math.round(p / 85) : p;
+                                const convertOpt = (p: number) => p;
                                 console.log('═══════════════════════════════════════════════════════════');
                                 console.log('💰 SELECTED OPTION PRICE CALCULATION');
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -2216,7 +2212,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         }
 
                         if (groupPricingTiers && Array.isArray(groupPricingTiers) && groupPricingTiers.length > 0) {
-                          const currencySymbol = (tourData.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$';
+                          const currencySymbol = (tour.currency || tourData.currency || 'USD') === 'INR' ? '₹' : '$';
                           const currentParticipants = isCustomParticipants ? customParticipants : participants;
                           const currentPrice = calculateGroupPrice(tourData, currentParticipants);
 
@@ -3032,7 +3028,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               <div className="space-y-4 max-h-[70vh] overflow-y-auto pr-2">
                 {(tour.options || []).filter((opt: any) => opt.sortOrder !== -1).map((option: any) => {
                   const isSelected = selectedOption?.id === option.id;
-                  const currencySymbol = option.currency === 'USD' ? '$' : option.currency === 'EUR' ? '€' : '₹';
+                  const effectiveCurrency = tour.currency || option.currency || 'USD';
+                  const currencySymbol = effectiveCurrency === 'USD' ? '$' : effectiveCurrency === 'EUR' ? '€' : '₹';
 
                   return (
                     <div
@@ -3240,7 +3237,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         {(() => {
                           const currentParticipants = isCustomParticipants ? customParticipants : participants;
                           const tourData = selectedOption || tour;
-                          const currencySymbol = (selectedOption?.currency || tour.currency || 'INR') === 'INR' ? '₹' : '$';
+                          const currencySymbol = (tour.currency || selectedOption?.currency || 'USD') === 'INR' ? '₹' : '$';
 
                           // Always use group pricing logic - calculate from tiers
                           const groupPrice = calculateGroupPrice(tourData, currentParticipants);

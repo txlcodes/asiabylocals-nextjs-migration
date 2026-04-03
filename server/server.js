@@ -4307,7 +4307,7 @@ app.post('/api/tours', async (req, res) => {
           ? parseFloat(groupPrice || pricePerPerson || '0')
           : parseFloat(pricePerPerson || '0');
       })(),
-      currency: currency || 'INR',
+      currency: currency || 'USD',
       shortDescription: shortDescription || null,
       fullDescription,
       highlights: highlightsArray && highlightsArray.length > 0 ? JSON.stringify(highlightsArray) : null,
@@ -4452,7 +4452,7 @@ app.post('/api/tours', async (req, res) => {
           return durStr.includes('day') ? num * 24 : num;
         })(),
         price: firstTierPrice,
-        currency: currency || 'INR',
+        currency: currency || 'USD',
         language: languagesArray?.[0] || 'English',
         pickupIncluded: false,
         entryTicketIncluded: false,
@@ -4589,7 +4589,7 @@ app.post('/api/tours', async (req, res) => {
               optionDescription: finalOptionDesc,
               durationHours: parseFloat(cleanOption.durationHours || cleanOption.duration || duration?.replace(/[^\d.]/g, '') || 3) || 3,
               price: optionPrice,
-              currency: (cleanOption.currency || currency || 'INR').trim(),
+              currency: (cleanOption.currency || currency || 'USD').trim(),
               language: (cleanOption.language || languagesArray?.[0] || 'English').trim(),
               pickupIncluded: cleanOption.pickupIncluded || cleanOption.pickup_included || false,
               entryTicketIncluded: cleanOption.entryTicketIncluded || cleanOption.entry_ticket_included || false,
@@ -6301,7 +6301,7 @@ app.put('/api/tours/:id', async (req, res) => {
                 return durStr.includes('day') ? num * 24 : num;
               })(),
               price: firstTierPrice, // ALWAYS use first tier (1 person) price
-              currency: updateData.currency || existingTour.currency || 'INR',
+              currency: updateData.currency || existingTour.currency || 'USD',
               language: (updateData.languages ? (typeof updateData.languages === 'string' ? JSON.parse(updateData.languages) : updateData.languages) : JSON.parse(existingTour.languages || '["English"]'))?.[0] || 'English',
               pickupIncluded: false,
               entryTicketIncluded: false,
@@ -7969,7 +7969,7 @@ app.post('/api/bookings', async (req, res) => {
         bookingDate,
         numberOfGuests: parseInt(numberOfGuests),
         totalAmount: parseFloat(totalAmount),
-        currency: currency || 'INR',
+        currency: currency || 'USD',
         specialRequests: specialRequests || null,
         status: 'pending_payment',
         paymentStatus: 'pending'
@@ -8003,7 +8003,7 @@ app.post('/api/bookings', async (req, res) => {
         `Customer: ${customerName}\n` +
         `Date: ${(() => { const [y,m,d] = bookingDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }); })()}\n` +
         `Guests: ${numberOfGuests}\n` +
-        `Total: ${currency || 'INR'} ${totalAmount}\n` +
+        `Total: ${currency || 'USD'} ${totalAmount}\n` +
         `${customerPhone ? `Customer Phone: ${customerPhone}\n` : ''}` +
         `${customerEmail ? `Customer Email: ${customerEmail}` : ''}`
       );
@@ -8207,7 +8207,7 @@ app.post('/api/payments/create-order', async (req, res) => {
     // Create Razorpay order
     console.log('Creating Razorpay order with:', {
       amount,
-      currency: currency || 'INR',
+      currency: currency || 'USD',
       bookingId
     });
 
@@ -8215,7 +8215,7 @@ app.post('/api/payments/create-order', async (req, res) => {
     try {
       order = await razorpay.orders.create({
         amount: amount, // Amount in paise (smallest currency unit)
-        currency: currency || 'INR',
+        currency: currency || 'USD',
         receipt: `booking_${bookingId}`,
         notes: {
           bookingId: bookingId.toString()
@@ -9461,7 +9461,7 @@ app.get('/api/public/tours', async (req, res) => {
           highlights,
           duration: tour.duration || '',
           pricePerPerson: tour.pricePerPerson || 0,
-          currency: tour.currency || 'INR',
+          currency: tour.currency || 'USD',
           shortDescription: tour.shortDescription || null,
           // fullDescription: REMOVED - not needed for list view, saves huge payload
           included: tour.included || '',
@@ -9505,7 +9505,7 @@ app.get('/api/public/tours', async (req, res) => {
           highlights: [],
           duration: tour.duration || '',
           pricePerPerson: tour.pricePerPerson || 0,
-          currency: tour.currency || 'INR',
+          currency: tour.currency || 'USD',
           fullDescription: tour.fullDescription || '',
           included: tour.included || '',
           status: tour.status || 'draft',
