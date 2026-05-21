@@ -5782,5 +5782,86 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    if (slug === 'bangkok-chao-phraya-dinner-cruise-luxury-river') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 10,
+            guideRating: 4.8,
+            valueRating: 4.6,
+            reviews: [
+                {
+                    author: 'Shankar P.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-04-20',
+                    text: "Great cruise with music, food and drinks. Best activity and a must do while in Bangkok. The buffet was way better than expected — fresh seafood, proper Thai curries, and the dessert table was insane. Watching Wat Arun lit up from the river was the highlight of our whole trip.",
+                },
+                {
+                    author: 'Arlynh G.',
+                    country: 'United States',
+                    rating: 5,
+                    date: '2026-04-15',
+                    text: "I loved the atmosphere, the crew, the scene was an amazing cruise. They sang happy birthday for my friend which was a lovely surprise. The Thai dancers were stunning and the food kept coming all night. Would absolutely do this again.",
+                },
+                {
+                    author: 'Charley D.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-04-10',
+                    text: "Just amazing! Very well organised. Nothing went amiss. Best night of Bangkok and a great way to end our trip to Thailand. The views passing the Grand Palace at night are unreal. Highly recommend getting a table on the upper deck if weather is good.",
+                },
+                {
+                    author: 'Jenna K.',
+                    country: 'Canada',
+                    rating: 5,
+                    date: '2026-03-28',
+                    text: "Great service great food great entertainment, wonderful way to spend two hours in Thailand. The cruise ship itself is beautiful — very clean, well decorated. Staff were attentive without being overbearing. The seafood at the buffet was fresh and plentiful.",
+                },
+                {
+                    author: 'Liam T.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-03-22',
+                    text: "Loved the entertainment and food. Staff could not have been more helpful. Very well organised. The traditional Thai dancing was a real highlight — the costumes are incredible up close. Passing Wat Arun at night from the river is something else entirely. Highly recommended.",
+                },
+                {
+                    author: 'Marie-Claire B.',
+                    country: 'France',
+                    rating: 4,
+                    date: '2026-03-15',
+                    text: "Beautiful cruise, the river at night is magical. Food was good — lots of variety in the buffet. One star off because the indoor area was quite cold with AC, bring a jacket! The views from the open deck make up for it though. Wat Arun glowing against the dark sky was breathtaking.",
+                },
+                {
+                    author: 'David H.',
+                    country: 'Australia',
+                    rating: 5,
+                    date: '2026-03-08',
+                    text: "We booked this for our anniversary and it was perfect. The crew arranged a nice table by the window without us even asking. Buffet had something for everyone — my wife is vegetarian and she had plenty of options. The live music set the mood perfectly. Bangkok from the river at night is special.",
+                },
+                {
+                    author: 'Yuki S.',
+                    country: 'Japan',
+                    rating: 4,
+                    date: '2026-02-25',
+                    text: "Very nice experience overall. The ship is large and well maintained. Food quality is above average for a cruise buffet. The entertainment program runs smoothly. Only suggestion: arrive early to get upper deck seating, it fills up fast and the views are much better than inside.",
+                },
+                {
+                    author: 'Marcus W.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-02-18',
+                    text: "This was the surprise hit of our Bangkok trip. We almost didnt book it thinking it might be too touristy but its actually a really lovely evening out. Good food, beautiful views, the Thai dance performance was genuinely impressive. Easy to get to from BTS. Very good value.",
+                },
+                {
+                    author: 'Rachel N.',
+                    country: 'United States',
+                    rating: 4,
+                    date: '2026-02-10',
+                    text: "Solid dinner cruise experience. Highlights were definitely passing the Grand Palace and Wat Arun lit up — bring a good camera! Buffet was tasty with lots of fresh options. The welcome drink was a nice touch. Only downside: drinks are pricey onboard, so grab a cocktail before if you want to save.",
+                },
+            ],
+        };
+    }
+
     return null;
 };
