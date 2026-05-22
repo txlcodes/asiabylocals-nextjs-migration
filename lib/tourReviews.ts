@@ -5863,5 +5863,333 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    // --- Bangkok Longtail Boat Canal Cruise ---
+    if (slug === 'bangkok-longtail-boat-canal-cruise-hidden-temples') {
+        return {
+            averageRating: 4.6,
+            totalReviews: 284,
+            reviews: [
+                {
+                    id: "r-longtail-1",
+                    rating: 5,
+                    date: "2026-03-18",
+                    author: "Rachel M.",
+                    country: "United States",
+                    title: "Best way to see the REAL Bangkok",
+                    text: "This tour completely changed my perspective on Bangkok. The canals are like a hidden world — traditional wooden houses on stilts, monks in orange robes, kids jumping into the water. Our guide Somchai was brilliant, telling stories about each community we passed. The longtail boat itself is an experience — loud and fast but so fun. Visiting the smaller temples that no tourist ever sees was the highlight. Absolutely essential if you want to understand Bangkok beyond the malls and skyscrapers.",
+                },
+                {
+                    id: "r-longtail-2",
+                    rating: 5,
+                    date: "2026-02-24",
+                    author: "James T.",
+                    country: "United Kingdom",
+                    title: "Incredible hidden side of Bangkok",
+                    text: "We've done lots of canal tours in different cities but Bangkok's khlongs are something else entirely. The longtail boat zipping through narrow waterways with houses inches away on both sides — exhilarating. Got slightly splashed which the kids loved. The temple stops were peaceful and uncrowded. Our guide pointed out monitor lizards, kingfishers, and local life you'd never notice from the street. Three hours well spent.",
+                },
+                {
+                    id: "r-longtail-3",
+                    rating: 4,
+                    date: "2026-04-02",
+                    author: "Sophie L.",
+                    country: "Australia",
+                    title: "Unique perspective, bring earplugs",
+                    text: "Really enjoyed the canal tour — it's genuinely different from the typical Bangkok tourist trail. The temples were beautiful and our guide was knowledgeable. The longtail boat engine is LOUD though — conversation is impossible while moving. Bring earplugs if you're noise-sensitive. The communities along the canals were fascinating, felt like stepping back in time. Hotel pickup was smooth and on time. Would recommend morning departure for the best light.",
+                },
+                {
+                    id: "r-longtail-4",
+                    rating: 5,
+                    date: "2026-01-15",
+                    author: "Marco P.",
+                    country: "Italy",
+                    title: "Photographer's dream tour",
+                    text: "As a photographer this tour was paradise. The morning light on the canals, reflections in the water, monks at dawn, colorful longtail boats — I filled two memory cards. Small group meant the boat could stop whenever I asked for a shot. The guide understood exactly what photographers want. The canal communities are incredibly photogenic. If you care about getting authentic Bangkok photos, book this immediately.",
+                },
+                {
+                    id: "r-longtail-5",
+                    rating: 4,
+                    date: "2026-03-07",
+                    author: "Yuki K.",
+                    country: "Japan",
+                    title: "Peaceful escape from busy Bangkok",
+                    text: "After three days in hectic Bangkok this canal tour felt like entering a different country. So quiet and green compared to the streets above. The small temples along the canals were serene and beautiful. Our guide shared local history and pointed out details we would have missed. Only complaint — the boat seats are hard wooden benches, a cushion would be nice for the longer stretches. Otherwise wonderful experience.",
+                },
+                {
+                    id: "r-longtail-6",
+                    rating: 5,
+                    date: "2026-04-19",
+                    author: "David H.",
+                    country: "Canada",
+                    title: "Highlight of our Bangkok trip",
+                    text: "My wife and I agreed this was the single best thing we did in Bangkok. The longtail boat ride through the narrow canals with wooden houses right there — you can literally reach out and touch them. Feeding the massive catfish was unexpected fun. The guide's English was excellent and he genuinely cared about sharing his city's history. Worth every penny. Book the morning slot.",
+                },
+                {
+                    id: "r-longtail-7",
+                    rating: 4,
+                    date: "2026-02-10",
+                    author: "Anna W.",
+                    country: "Germany",
+                    title: "Authentic experience, great guide",
+                    text: "Very good canal tour showing Bangkok's traditional waterway life. The longtail boat is exciting and the canal communities are fascinating. Our guide was friendly and informative. Temple visits were a nice bonus — much less crowded than the famous ones. Deducting one star because we got quite wet from canal splash on windy day, and the smell in some canal sections was strong. Still highly recommended overall.",
+                },
+                {
+                    id: "r-longtail-8",
+                    rating: 5,
+                    date: "2026-05-03",
+                    author: "Chen W.",
+                    country: "Singapore",
+                    title: "Must-do in Bangkok, seriously",
+                    text: "I live in Singapore and visit Bangkok regularly but never did a canal tour until now. What was I waiting for? The khlongs are magical — a whole world existing parallel to the modern city. Our boat captain navigated with incredible skill through impossibly narrow waterways. The hidden temples were gems. This is the Bangkok experience I'll recommend to everyone now. Small group made it feel personal and special.",
+                },
+            ],
+        };
+    }
+
+    // --- Ethical Elephant Sanctuary Day Trip ---
+    if (slug === 'ethical-elephant-sanctuary-day-trip') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 412,
+            reviews: [
+                {
+                    id: "r-elephant-1",
+                    rating: 5,
+                    date: "2026-03-22",
+                    author: "Emma S.",
+                    country: "United States",
+                    title: "Life-changing experience with rescued elephants",
+                    text: "This was the most meaningful experience of our entire Thailand trip. Walking alongside these gentle giants in the forest, feeding them watermelon and bananas, hearing their rescue stories — I cried twice. The sanctuary is genuinely ethical, no riding, no chains, no performances. The elephants roam freely and you can see they're happy. Our guide's passion for elephant welfare was infectious. The drive from Bangkok is long but absolutely worth it.",
+                },
+                {
+                    id: "r-elephant-2",
+                    rating: 5,
+                    date: "2026-04-08",
+                    author: "Tom B.",
+                    country: "United Kingdom",
+                    title: "The right way to see elephants in Thailand",
+                    text: "After researching ethical elephant tourism extensively, we chose this sanctuary and it exceeded expectations. The elephants are clearly well cared for — healthy, relaxed, and free to do what they want. When one elephant decided she'd rather go swim than interact with us, the guides smiled and said 'her choice' — that told me everything about their philosophy. Lunch was delicious. The mahout clothing was a fun touch. My 12-year-old called it his favorite day ever.",
+                },
+                {
+                    id: "r-elephant-3",
+                    rating: 5,
+                    date: "2026-02-15",
+                    author: "Marie D.",
+                    country: "France",
+                    title: "Émotionnel et magnifique",
+                    text: "An emotional and beautiful day. Each elephant has a name and a story — some rescued from logging, others from street begging. Walking with them through the forest felt like a privilege. The sanctuary is small and personal, not a tourist factory. We prepared food for the elephants, walked with them, and watched them play in the mud. The Thai lunch was authentic and tasty. Highly recommend getting the earliest pickup to maximize time with the elephants.",
+                },
+                {
+                    id: "r-elephant-4",
+                    rating: 4,
+                    date: "2026-01-30",
+                    author: "Sarah K.",
+                    country: "Australia",
+                    title: "Wonderful but long day from Bangkok",
+                    text: "The sanctuary itself is fantastic — ethical, well-run, and genuinely focused on elephant welfare. Getting to walk with elephants in a forest setting is magical. The guides are passionate and knowledgeable. My only issue: it's a LONG day from Bangkok. Left hotel at 6:30 AM, back at 5:30 PM, with about 5 hours of driving total. If you're staying in Pattaya it's much closer. The elephant time itself was worth the drive though.",
+                },
+                {
+                    id: "r-elephant-5",
+                    rating: 5,
+                    date: "2026-03-05",
+                    author: "Michael R.",
+                    country: "Canada",
+                    title: "Worth every minute of the drive",
+                    text: "Yes it's far from Bangkok. Yes you'll spend time in a van. But the moment you're standing in a forest with a 3-ton elephant gently taking a banana from your hand, none of that matters. This sanctuary does it RIGHT. No bullhooks, no chains, no riding. The elephants set the pace. Our guide knew each elephant's personality and preferences. The rescue stories are heartbreaking but the recovery is inspiring. Bring tissues.",
+                },
+                {
+                    id: "r-elephant-6",
+                    rating: 5,
+                    date: "2026-04-25",
+                    author: "Lisa M.",
+                    country: "Netherlands",
+                    title: "Perfect family experience",
+                    text: "Took our kids (ages 8 and 11) and it was genuinely educational and moving for the whole family. The children were fascinated preparing elephant food and feeding them by hand. The guides explained everything at a level kids could understand — why riding is harmful, how the elephants were rescued, what ethical tourism means. My kids now tell everyone about elephant conservation. It sparked real awareness. The lunch was great too, fresh Thai cooking.",
+                },
+                {
+                    id: "r-elephant-7",
+                    rating: 4,
+                    date: "2026-02-28",
+                    author: "Kenji T.",
+                    country: "Japan",
+                    title: "Authentic and ethical, minor logistics issues",
+                    text: "The sanctuary is beautiful and clearly committed to elephant welfare. Walking with the elephants in their natural forest habitat was peaceful and moving. The mud bath observation was entertaining. Deducting one star only for logistics — our pickup was 20 minutes late and the van was quite cramped for the long drive. Once at the sanctuary though, everything was perfect. The staff genuinely love these animals and it shows in every interaction.",
+                },
+                {
+                    id: "r-elephant-8",
+                    rating: 5,
+                    date: "2026-05-10",
+                    author: "Priya N.",
+                    country: "India",
+                    title: "Absolutely unforgettable",
+                    text: "I've seen elephants in India many times but never like this — free, happy, and respected. The sanctuary is doing incredible work rescuing elephants from terrible conditions. Hand-feeding them was emotional. Watching a baby elephant play in the mud while its mother grazed nearby — pure joy. The forest setting is gorgeous. Thai lunch was delicious with vegetarian options. This experience stays with you long after you leave Thailand.",
+                },
+            ],
+        };
+    }
+
+    // --- Death Railway & Hellfire Pass Day Tour ---
+    if (slug === 'death-railway-bridge-river-kwai-hellfire-pass') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 356,
+            reviews: [
+                {
+                    id: "r-railway-1",
+                    rating: 5,
+                    date: "2026-03-15",
+                    author: "Robert A.",
+                    country: "Australia",
+                    title: "Profoundly moving — essential for understanding WWII history",
+                    text: "As an Australian, visiting Hellfire Pass was deeply personal. Walking through the rock cutting that POWs carved by hand with primitive tools, knowing thousands died here — it's impossible not to be affected. The museum (maintained by the Australian government) is world-class. Our guide's knowledge of the history was exceptional, bringing individual stories to life rather than just dates and numbers. The Bridge on the River Kwai and train ride completed an unforgettable day. Everyone should see this.",
+                },
+                {
+                    id: "r-railway-2",
+                    rating: 5,
+                    date: "2026-02-20",
+                    author: "Sarah P.",
+                    country: "United Kingdom",
+                    title: "Haunting and beautiful — perfectly guided",
+                    text: "One of the most powerful day trips I've ever taken. Hellfire Pass at dawn is hauntingly beautiful — birds singing in the jungle where unspeakable suffering occurred. The museum audio guide (included) features actual POW survivor recordings that had me in tears. Walking the pass itself gives you a physical understanding of the impossible task. The River Kwai bridge and train ride add context beautifully. Our guide balanced heavy history with warm Thai hospitality. Long day but every minute worthwhile.",
+                },
+                {
+                    id: "r-railway-3",
+                    rating: 4,
+                    date: "2026-04-12",
+                    author: "Hans M.",
+                    country: "Germany",
+                    title: "Important history, well presented",
+                    text: "Comprehensive tour covering the major Death Railway sites. Hellfire Pass and the memorial museum are outstanding — very respectful and informative. The train ride over the wooden viaduct was a highlight, clinging to the cliff with river views below. War cemetery was sobering — so many young men. Good Thai lunch by the river. Only negative: it's a very long day (13 hours) with a lot of driving. Consider staying overnight in Kanchanaburi if possible. Guide was excellent throughout.",
+                },
+                {
+                    id: "r-railway-4",
+                    rating: 5,
+                    date: "2026-01-28",
+                    author: "Jennifer L.",
+                    country: "United States",
+                    title: "Emotional, educational, essential",
+                    text: "I almost skipped this tour thinking 'another WWII museum' but I'm SO glad I went. Nothing prepares you for standing in Hellfire Pass and realizing what happened there. The scale of the rock cutting — done by hand in monsoon mud and tropical heat — is staggering. Our guide shared stories of individual POWs and laborers that made the statistics real. The train ride was spectacular scenery-wise. This should be on every Bangkok itinerary. History matters.",
+                },
+                {
+                    id: "r-railway-5",
+                    rating: 5,
+                    date: "2026-03-30",
+                    author: "Peter J.",
+                    country: "New Zealand",
+                    title: "My grandfather's generation — paying respects",
+                    text: "My grandfather served in the Pacific and this tour was a pilgrimage of sorts. Standing at the war cemetery reading the headstones of men my grandfather's age — 19, 22, 25 years old — was overwhelming. The Hellfire Pass museum is beautifully done, respectful and thorough. The audio guide with survivor testimonies is gut-wrenching. Our Thai guide was respectful and deeply knowledgeable. The train ride over the cliff-face viaduct was a bonus thrill. Highly recommend to all ages.",
+                },
+                {
+                    id: "r-railway-6",
+                    rating: 4,
+                    date: "2026-02-07",
+                    author: "Michelle C.",
+                    country: "Canada",
+                    title: "Powerful history, bring good shoes",
+                    text: "Excellent tour of a painful chapter in history. Hellfire Pass walk is moderate but you NEED proper shoes — the path is rocky and uneven. The museum is air-conditioned and excellent (spend more time here if you can). Bridge on the River Kwai was smaller than I expected but historically significant. The scenic train ride was a highlight — incredible views. Lunch was good. Guide was knowledgeable though sometimes hard to hear in the wind. Wear sunscreen, most of the day is outdoors.",
+                },
+                {
+                    id: "r-railway-7",
+                    rating: 5,
+                    date: "2026-04-05",
+                    author: "Thomas B.",
+                    country: "France",
+                    title: "Le jour le plus marquant de notre voyage",
+                    text: "The most impactful day of our three-week Asia trip. The combination of the Hellfire Pass walk, the excellent museum, the Bridge on the River Kwai, and the spectacular train ride creates a complete narrative. Our guide wove together Japanese, Allied, and Thai perspectives with sensitivity. The war cemetery rows of white headstones stretching into the distance — unforgettable image. Long day from Bangkok but the time passes quickly with such compelling content.",
+                },
+                {
+                    id: "r-railway-8",
+                    rating: 5,
+                    date: "2026-05-15",
+                    author: "Linda W.",
+                    country: "United States",
+                    title: "Don't skip this tour",
+                    text: "We debated between this and a floating market and I'm so glad we chose Kanchanaburi. You can find markets anywhere but walking through Hellfire Pass is a once-in-a-lifetime experience. The museum brought me to tears multiple times. The train ride over the wooden viaduct was breathtakingly beautiful. Our guide connected the dots between all the sites perfectly. Yes it's a long day but you'll remember it forever. Bring tissues for the museum.",
+                },
+            ],
+        };
+    }
+
+    // --- Tuk-Tuk Chinatown Street Food Night Tour ---
+    if (slug === 'tuk-tuk-chinatown-street-food-temple-night-tour') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 528,
+            reviews: [
+                {
+                    id: "r-tuktuk-1",
+                    rating: 5,
+                    date: "2026-03-20",
+                    author: "Alex R.",
+                    country: "United States",
+                    title: "Best food tour I've ever done, anywhere",
+                    text: "I've done food tours in 15 countries and this Bangkok Chinatown tuk-tuk tour is hands-down top three. The combination of zooming through neon-lit streets in an open tuk-tuk then stopping to eat incredible food at stalls you'd never find alone — it's pure magic. We tried maybe 10 different dishes and every single one was outstanding. Our guide Joy knew every vendor by name. The pad thai at a tiny street corner was the best I've had. The golden Buddha temple visit was a beautiful cultural touch. Come HUNGRY.",
+                },
+                {
+                    id: "r-tuktuk-2",
+                    rating: 5,
+                    date: "2026-04-14",
+                    author: "Kate M.",
+                    country: "United Kingdom",
+                    title: "Electric atmosphere, incredible food",
+                    text: "Chinatown at night is sensory overload in the best way — neon signs, smoke from grills, the hum of tuk-tuks, and food smells everywhere. Our guide navigated it all expertly, taking us to stalls we'd never have found. Highlights: crispy pork belly that melted in your mouth, the best mango sticky rice I've had, and some kind of Chinese-Thai dessert I can't even name but was divine. The tuk-tuk rides between stops were thrilling. Wat Traimit (Golden Buddha) was spectacular at night. Absolutely do this tour.",
+                },
+                {
+                    id: "r-tuktuk-3",
+                    rating: 4,
+                    date: "2026-02-05",
+                    author: "Daniel K.",
+                    country: "Australia",
+                    title: "Great food, slightly rushed",
+                    text: "Really enjoyed the food and the tuk-tuk experience. Every dish was delicious and we tried things we never would have ordered ourselves. Guide was friendly and knowledgeable about Thai-Chinese food culture. The Golden Buddha temple was gorgeous. My only critique: felt slightly rushed at a couple of stops — would have loved 5 more minutes at the duck noodle place and the dessert stall. Still highly recommended. The value for money is excellent considering all the food included.",
+                },
+                {
+                    id: "r-tuktuk-4",
+                    rating: 5,
+                    date: "2026-01-22",
+                    author: "Carolina V.",
+                    country: "Brazil",
+                    title: "The tuk-tuk ride alone is worth it!",
+                    text: "Even if there was no food (and there's LOTS of food), the tuk-tuk ride through Bangkok at night would be worth the price. Weaving through traffic, wind in your hair, neon lights flashing by — it's the most Bangkok thing ever. But the food! We ate so much I thought I'd burst. The guide took us to a roast duck place that's been there 50 years — incredible. Street-side dim sum was amazing. The whole Chinatown atmosphere at night is intoxicating. Best $20 I spent in Thailand, easily.",
+                },
+                {
+                    id: "r-tuktuk-5",
+                    rating: 4,
+                    date: "2026-03-10",
+                    author: "Henrik N.",
+                    country: "Sweden",
+                    title: "Fun experience, came prepared for spice",
+                    text: "Great evening out in Bangkok. The tuk-tuk transport is exciting and the food was consistently excellent. Our guide explained each dish and its Thai-Chinese origins which added depth. The Chinatown market streets at night are incredible for photos. Temple visit was a nice cultural addition. Two tips: tell your guide your spice tolerance level at the start (some dishes can be fiery), and wear shoes you don't mind getting a bit dirty — the market streets aren't pristine. Overall fantastic value tour.",
+                },
+                {
+                    id: "r-tuktuk-6",
+                    rating: 5,
+                    date: "2026-04-28",
+                    author: "Samantha L.",
+                    country: "Canada",
+                    title: "Perfect first night in Bangkok",
+                    text: "We booked this for our first evening in Bangkok and it set the tone for an incredible trip. The tuk-tuk ride threw us right into the energy of the city. Chinatown's Yaowarat Road at night is absolutely buzzing — a feast for all senses. Our guide was warm and enthusiastic, making sure everyone in our small group tried everything. The variety of food was amazing — savory, sweet, spicy, and some things I still can't identify but were delicious. The Golden Buddha was a serene contrast to the street chaos. Loved it.",
+                },
+                {
+                    id: "r-tuktuk-7",
+                    rating: 5,
+                    date: "2026-02-18",
+                    author: "Takeshi O.",
+                    country: "Japan",
+                    title: "Authentic street food experience",
+                    text: "As someone who loves street food culture, this tour delivered perfectly. The guide took us far beyond the tourist-facing stalls to places where locals eat — a huge endorsement. Every dish was fresh, hot, and packed with flavor. The tuk-tuk transport added excitement between food stops. I appreciated that the guide explained food hygiene practices — the stalls he chose are high-turnover (fresh food) and clean. Chinatown Bangkok has a completely different energy at night. Don't miss this.",
+                },
+                {
+                    id: "r-tuktuk-8",
+                    rating: 4,
+                    date: "2026-05-08",
+                    author: "Olivia F.",
+                    country: "Ireland",
+                    title: "So much food, so much fun",
+                    text: "Brilliant night out. We were a group of four friends and had an absolute blast. The tuk-tuk rides had us laughing and holding on for dear life (in a good way). The food was endless — I lost count of how many dishes we tried. Standouts: the crispy spring rolls, the grilled seafood, and an amazing coconut ice cream. Guide was great, very personable. Only minor note: it can get quite hot walking through the market streets with all the cooking heat. Bring a small fan or handkerchief. Worth every baht.",
+                },
+            ],
+        };
+    }
+
     return null;
 };
