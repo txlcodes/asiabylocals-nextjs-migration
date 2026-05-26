@@ -6135,5 +6135,794 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+
+    // --- Bangkok: Muay Thai Boxing Tickets at Rajadamnern Stadium ---
+    if (slug === 'muay-thai-boxing-tickets-at-rajadamnern-stadium') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 12988,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Julian",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-05-23T10:13:13+02:00",
+                    text: "seemless booking great event will use again boxing was brutal but engaging",
+                },
+                {
+                    author: "Lesli",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-23T05:01:44+02:00",
+                    text: "Such a great experience and vibe! Definitely recommend doing it at least once if you’ve never done so before",
+                },
+                {
+                    author: "Irvin",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-22T15:38:21+02:00",
+                    text: "Its pretty sick definitely should try if u in town",
+                },
+                {
+                    author: "alberto",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-19T02:48:42+02:00",
+                    text: "In This experience there is no guide, so it doesnt apply, the stage is awsome even if you are not into boxing is a life experience u should t miss",
+                },
+                {
+                    author: "Lia",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-19T00:58:15+02:00",
+                    text: "Suc a great experience, the stadium is amazing and the fighters were so entertaining. Free beer all night too and food at the venue (not free) if you need:)",
+                },
+                {
+                    author: "Christian",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-19T00:31:09+02:00",
+                    text: "Amazing experience for live fighting! Almost nonstop action.",
+                },
+                {
+                    author: "Toby",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-05-18T09:39:58+02:00",
+                    text: "Great experience, good range of fights and a well organised event. Stadium was excellent and facilities were very clean.",
+                },
+                {
+                    author: "Sundeep",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-17T07:29:00+02:00",
+                    text: "It was a great experience, there’s around 10 fights which can go on til really late. The show starts at 6 and will be pre limbs. The main fights are at 8pm",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Floating Market and Train Market Experience ---
+    if (slug === 'floating-market-and-train-market-experience') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 7454,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Łukasz",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-26T07:32:20+02:00",
+                    text: "Viktor, Nok and Bong took a very good care of us during the trip. They well distributed the duties in between themselves so we avoid any chaotic situations. Nok helped me to localise the ATM which I found very helpful. Viktor stressed many interesting things about Thailand and outlined to schedule for the whole day. Great trip, great company. Well done!",
+                },
+                {
+                    author: "Victhalia",
+                    country: "Canada",
+                    rating: 5,
+                    date: "2026-05-25T12:32:13+02:00",
+                    text: "I loved the boat tour around the coconut plantations. Though the markets are tourist focused",
+                },
+                {
+                    author: "Verified Traveler",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-25T09:23:30+02:00",
+                    text: "Victor and Nj are amazing guides and the trip is very good value for money :)",
+                },
+                {
+                    author: "Helen",
+                    country: "New Zealand",
+                    rating: 5,
+                    date: "2026-05-25T09:17:37+02:00",
+                    text: "Tuk and Katie were great tour guides! I hope to see them again on the next tour. Much love to all of Thailand! 🇹🇭✨🫶🏾",
+                },
+                {
+                    author: "Chelsea",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-25T07:42:20+02:00",
+                    text: "Woody and Mariah were excellent guides! Mariah hotspotted me data so that I could add her on WhatsApp and download the pictures of the meeting points. For the train market, they told us which side to sit on for the shade, how to barter and how expensive some items should be. For the floating market, they pointed out Monitor Lizards, gave more info on how expensive certain things should be, and recommended different foods and places to eat. Woody was telling jokes and answering all questions we h",
+                },
+                {
+                    author: "Egemert",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-25T07:41:43+02:00",
+                    text: "Thanks for Wanna , Jimmy and Pong . Everything was easy, amazing and understandable so I would suggest this tour with that team.",
+                },
+                {
+                    author: "Linda",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-25T07:39:55+02:00",
+                    text: "More than I expected! Well worth the money. Woody and Maria were great! Always checking on us and helping us. Supplied us with different goodies to try. An absolutely wonderful day!",
+                },
+                {
+                    author: "Angelina",
+                    country: "Sweden",
+                    rating: 5,
+                    date: "2026-05-25T07:39:15+02:00",
+                    text: "Maria and Woody we’re amazing. Other than the hot weather, everything was delightful.",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: White Lotus Thai Cooking Class with Market Tour ---
+    if (slug === 'white-lotus-thai-cooking-class-with-market-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 635,
+            guideRating: 5.0,
+            valueRating: 4.8,
+            reviews: [
+                {
+                    author: "Tiffany",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-25T09:53:09+02:00",
+                    text: "Afternoon well spent learning how to make a few traditional Thai dishes! Looking forward to showing off my new cooking skills. Very informative and interactive and excellent food! Come hungry!",
+                },
+                {
+                    author: "Anya",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-22T10:00:04+02:00",
+                    text: "The market tour was great and got to see so many things. The food was great and Jaeb was great. I will come back again to try with my friends next time",
+                },
+                {
+                    author: "Brandy",
+                    country: "Netherlands",
+                    rating: 5,
+                    date: "2026-05-22T05:27:39+02:00",
+                    text: "This was such a fun class! Our guide, Jeab, was very knowledgeable and shared a lot of information about the ingredients and methods used in Thai cooking. We got to prepare four dishes that all tasted delicious and now have the skills and recipes to make them at home. Would absolutely recommend White Lotus cooking classes to anyone",
+                },
+                {
+                    author: "Lucy",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-19T10:10:43+02:00",
+                    text: "So fun, nice sized group, funny instructor and the food was so tasty. They also gave us recipes so we can make it at home. I’d definitely recommend",
+                },
+                {
+                    author: "Dave",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-19T10:07:07+02:00",
+                    text: "What an amazing experience. Lots of laughs, very insightful and the food was so so good. Our teacher Piao was so patient, and the course was a slow pace and easy to follow along. For anyone interested in learning how to make some beautiful authentic Thai dishes, you will love this class!",
+                },
+                {
+                    author: "dale",
+                    country: "France",
+                    rating: 5,
+                    date: "2026-05-16T05:27:41+02:00",
+                    text: "starts with a wonderful walk through the market, learning about the different spices and foods Thailand has to offer. then you are taught how to make four wonderful dishes. the class is extremely interactive and makes learning how to cook Thai dishes easy and fun. wonderful environment, clean and so beautiful.",
+                },
+                {
+                    author: "Patrycja",
+                    country: "Canada",
+                    rating: 5,
+                    date: "2026-05-16T03:08:19+02:00",
+                    text: "I think cooking classes are must do when you travel! I really recommend it! Everything was so well organized and the recipes were great.",
+                },
+                {
+                    author: "Sayok",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-15T05:47:23+02:00",
+                    text: "Jeab is a really great, nice guest. She goes above and beyond, and was very accommodating of us being late because of traffic. Highly recommend this service and the food is very delicious!",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Damnoen Saduak Market and Maeklong Railway Market ---
+    if (slug === 'damnoen-saduak-market-and-maeklong-railway-market') {
+        return {
+            averageRating: 4.6,
+            totalReviews: 28205,
+            guideRating: 4.7,
+            valueRating: 4.4,
+            reviews: [
+                {
+                    author: "Michelle",
+                    country: "India",
+                    rating: 5,
+                    date: "2026-05-26T10:08:03+02:00",
+                    text: "Guide Rut and our driver was excellent, courteous and organized. We were picked up at our hotel, made a few brief stops to pick up other tour goers, in a comfy, air conditioned car, and then taken to the train station where we took a local train to our first stop, the Railway Market. What an experience pulling directly into the market! Rut’s recommendations for market shopping and lunch recommendation at the floating market were also spot on! Thank you for a great day!",
+                },
+                {
+                    author: "Fidel Mateos",
+                    country: "France",
+                    rating: 5,
+                    date: "2026-05-26T01:55:17+02:00",
+                    text: "I had an amazing guide: Phu! And he made the day so valuable and remarkable",
+                },
+                {
+                    author: "Erwann",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-25T08:25:20+02:00",
+                    text: "Amazing day in Bangkok with Tim as our guide! Between the floating market and the incredible market with the train passing right through the middle, it was such a unique and memorable experience.",
+                },
+                {
+                    author: "Enes",
+                    country: "Sweden",
+                    rating: 5,
+                    date: "2026-05-25T07:57:52+02:00",
+                    text: "Tim was a great guide and helped us to visit these beautiful places with a lot of important information. It was enjoying and definitely worth to buy it!",
+                },
+                {
+                    author: "Debashish",
+                    country: "India",
+                    rating: 5,
+                    date: "2026-05-25T06:50:21+02:00",
+                    text: "POOH was absolutely outstanding - professional, friendly, knowledgeable, and full of positive energy. She made the entire experience fun, smooth, and memorable from start to finish. You can really see how much she cares about her guests and takes pride in her work. Special thanks as well to P’Tou for the safe and comfortable driving throughout the trip. Highly recommend, truly excellent service ❤️🥰",
+                },
+                {
+                    author: "Josephine Ebora",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-25T06:42:40+02:00",
+                    text: "The trip is amazing,beside being so hot. Owen is good guide and look after us. thank you for the hospitality.",
+                },
+                {
+                    author: "Shani-lisa",
+                    country: "New Zealand",
+                    rating: 5,
+                    date: "2026-05-25T04:47:40+02:00",
+                    text: "Rut Was our Guide she was amazing, recommend the best places to eat and what to try. Kept us on track. The tour was also worth it to do 2 markets. Do the 6am tour as you still have time the rest of the day. Felt safe as a solo traveller also.",
+                },
+                {
+                    author: "Kendra",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-24T06:43:12+02:00",
+                    text: "Tim was a great guide. Good knowledge. Easy to understand. Would definitely recommend.",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Soi Cowboy, Nana, Soi 11, Rooftops, Clubs & Go Go's ---
+    if (slug === 'soi-cowboy-nana-soi-11-rooftops-clubs-go-gos') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 1632,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Judith",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-25T03:03:07+02:00",
+                    text: "Such an amazing experience. My husband and I had so much fun and would absolutely do this again. We felt safe, cared for and everything was so organized. Expect to walk a lot lol so wear sneakers. Would definetely do this again.",
+                },
+                {
+                    author: "Abdul",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-24T01:16:39+02:00",
+                    text: "⭐️⭐️⭐️⭐️⭐️ I joined the Bangkok Nightlife Tour and ended up having a much better experience than I expected. As someone traveling solo, I wasn’t sure what to expect at first, but the group made it easy to relax and enjoy the night. It was a great mix of seeing different sides of Bangkok nightlife, meeting new people, and experiencing places I probably wouldn’t have gone to alone. What I liked most wasn’t even the venues — it was the people, conversations, and the energy throughout the night. If ",
+                },
+                {
+                    author: "Cornelia",
+                    country: "Netherlands",
+                    rating: 5,
+                    date: "2026-05-23T03:51:12+02:00",
+                    text: "Eve was an amazing guide and the rooftops we went to were amazing!",
+                },
+                {
+                    author: "domonique",
+                    country: "New Zealand",
+                    rating: 5,
+                    date: "2026-05-22T21:10:09+02:00",
+                    text: "I loved it I had fun at first I kind of felt awkward being a Solo Traveler but the guys made me feel very comfortable and after a couple of spots everybody kind of warmed up to everybody and we were just one big group having fun I really enjoyed myself it exceeded my expectation",
+                },
+                {
+                    author: "jarred",
+                    country: "New Zealand",
+                    rating: 5,
+                    date: "2026-05-16T12:23:10+02:00",
+                    text: "as a person who loves social vibes with people , this event exceeded my expectations , from the bars to the amazing people , it is something I would definitely do again, The host nang is the absolute best , she made everyone feel comfortable , informed and always kept the energy high. she is incredible at her job which is why I think this event was such a success .",
+                },
+                {
+                    author: "Elaine",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-15T17:45:39+02:00",
+                    text: "Tina, our guide was friendly, energetic and she really worked hard to ensure everyone was having a great time. It was a great trip to let your hair down, meet new people and see some fantastic clubs. My only regret was not booking this trip sooner!",
+                },
+                {
+                    author: "Jeremy James",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-13T18:26:37+02:00",
+                    text: "Perfect night. incredible rooftop views, and interesting clubs. Highly recommend if traveling alone. Tina was an exceptional hostess and guide.",
+                },
+                {
+                    author: "Ivy",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-13T02:51:59+02:00",
+                    text: "It was great. I had an amazing time. I’ve got a chance to meet really great people on my solo trip to Bangkok. If you are in the area for this event for something to do, I must do you have a great time.",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Tingly Thai Cooking School Half-Day Cooking Class ---
+    if (slug === 'tingly-thai-cooking-school-half-day-cooking-class') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 1310,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Olivia",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-23T05:19:50+02:00",
+                    text: "The cooking class was so much fun! We learned to make four different Thai dishes and went on a market tour. Everything was absolutely delicious and they easily made everything vegetarian for me. Highly recommend!!",
+                },
+                {
+                    author: "Chris",
+                    country: "Canada",
+                    rating: 5,
+                    date: "2026-05-22T01:28:57+02:00",
+                    text: "This was a wonderful experience and was a great way to learn more about, create, and eat delicious Thai food. Our instructor, Cho, was the best. She was knowledgeable, funny and very nice. She guided us through the local market where we learned about all the key ingredients for our dishes. Overall it was a very unique and unforgettable experience and we are so happy we spent some of our time in Bangkok on this activity.",
+                },
+                {
+                    author: "Janeen",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-08T07:31:30+02:00",
+                    text: "Cho was the most amazing host and instructor. She made me feel like an actual chef. All was in great humor and excitement of clean cooking. No salt and pepper for main flavors but wonderfully rich spices and unbelievable mixtures of vegetables made the for perfect Michelin meals that I cooked… my mind is still blown that I cooked the best Thai meals all by myself… I would recommend this class for all foodies.",
+                },
+                {
+                    author: "Symone",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-07T07:10:39+02:00",
+                    text: "What an amazing activity! Such an amazing group of staff and very clean place to cook. The dishes and instructions were so easy to follow along and they were delicious. I learnt a lot too! I would highly recommend!",
+                },
+                {
+                    author: "Sydney",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-06T23:45:07+02:00",
+                    text: "This was the best class I've ever taken part in. The food was PHENOMENAL. Our guide was so energetic and a joy to be around. At the end, we got a cook book and chopsticks to take home.",
+                },
+                {
+                    author: "Ceri",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-04-22T09:21:29+02:00",
+                    text: "Cho was a great instructor. Personable and a big character and she brought the whole thing alive. Was well organised with the market and clean up around while you eat your dishes, and then the little doggy bag at the end. Wasn't expecting something so well put together and probably the best activity I've done with this app overall.",
+                },
+                {
+                    author: "Alison",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-04-21T06:55:38+02:00",
+                    text: "I loved that we made one course at a time and ate it, before moving on to the next course, which meant the afternoon was well paced. We were also given a book with all the recipes and a QR code to access even more recipes. Free water was provided throughout. The guide was fantastic - personable, knowledgeable and with a good sense of humour. I am amazed at the quality of the food we produced, it was a very high standard. I took the Pad Thai back to the hotel with me so I had room for the mango s",
+                },
+                {
+                    author: "Edlyn",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-04-20T00:33:04+02:00",
+                    text: "The class with instructor Cho was an absolute delight. She made cooking Thai food feel both effortless and taste incredibly flavorful. Cho took the time to introduce each ingredient, provided clear recipe cards, and expertly guided us through techniques like using a wok and cooking with high heat. Her energy brought smiles to everyone in the group. I would highly recommend this experience to anyone interested in learning the authentic flavors of Thai cuisine, including curry, Pad Thai, mango sti",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Mahanakhon SkyWalk Entry Ticket with Options ---
+    if (slug === 'mahanakhon-skywalk-entry-ticket-with-options') {
+        return {
+            averageRating: 4.6,
+            totalReviews: 4522,
+            guideRating: 4.7,
+            valueRating: 4.4,
+            reviews: [
+                {
+                    author: "Chelsea",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-22T08:11:33+02:00",
+                    text: "Really great The staff at the building are so professional too",
+                },
+                {
+                    author: "Julien",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-16T08:50:22+02:00",
+                    text: "Nice sky view but a little expensive for what it is… Best part there is bar and food so you can stay as long as you want.",
+                },
+                {
+                    author: "Stu",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-10T14:18:48+02:00",
+                    text: "Very cool seeing Bangkok from the top of the skyline. Scary experience walking on the glass but well worth it.",
+                },
+                {
+                    author: "Armando",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-09T00:53:53+02:00",
+                    text: "great views of Bangkok from that high up. I'm scared of heights. some stranger had to grab my hand and leave me out onto the walkway. lol.. I would recommend trying it once even if you are afraid of heights",
+                },
+                {
+                    author: "carly",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-08T19:53:59+02:00",
+                    text: "It’s definitely an experience you should try. Amazing views from the building itself and from the glass viewing deck is pretty unique if you’re brave enough to try.",
+                },
+                {
+                    author: "Keith",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-07T06:07:38+02:00",
+                    text: "Just the best I brought my wife here for her 50th birthday she loved it she did the tilt she even went on the glass floor we had lunch looking at the sunset. It was just the best night",
+                },
+                {
+                    author: "Omar",
+                    country: "India",
+                    rating: 5,
+                    date: "2026-05-05T04:26:29+02:00",
+                    text: "Amazing place to visit! Amazing view over whole BKK",
+                },
+                {
+                    author: "Ian",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-04T12:59:16+02:00",
+                    text: "Very enjoyable experience. views were amazing. went before sunset to get views in daylight and after dark.",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok: Backstreets Food Tour with 15+ Tastings ---
+    if (slug === 'backstreets-food-tour-with-15-tastings') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 3157,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Ashley",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-05-26T15:04:47+02:00",
+                    text: "Our tour with Johnny and Butter was amazing! Not only did we get to try so many delicious dishes we would’ve never thought to order, but we learned so much about the flavor profiles, cultural backgrounds, etc. about each dish and restaurant along the way (highly entertaining). Additionally, they accommodated our dietary restrictions perfectly (always offered an alternative and made sure to check in with us at every stop) and were so thoughtful about providing water, napkins, wet wipes, ponchos w",
+                },
+                {
+                    author: "Verified Traveler",
+                    country: "Sweden",
+                    rating: 5,
+                    date: "2026-05-24T17:20:16+02:00",
+                    text: "Super fun - great guides, terrific food and a great group! Got to know some new dishes, 8ngredients etc…. Recommended",
+                },
+                {
+                    author: "Rachel",
+                    country: "New Zealand",
+                    rating: 5,
+                    date: "2026-05-18T00:52:13+02:00",
+                    text: "This is the second tour I have done with this company and absolutely loved it again. tried so many different foods. our tour guide was excellent as well",
+                },
+                {
+                    author: "Keerthi",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-15T02:35:03+02:00",
+                    text: "Noah and Am were so sweet and welcoming! We hit so many spots and the food was sooo delicious! ^_^ totally recommend this tour, especially with Noah!",
+                },
+                {
+                    author: "Ash",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-05-06T02:54:50+02:00",
+                    text: "Arm and Ploy were fantastic! Ploy was really engaging and kept the tour fun and interesting. Arm was the workhorse making sure we had seats and kept us well fed! such a fantastic tour and one of my favourite things from the Bangkok trip. 5* must do",
+                },
+                {
+                    author: "Joseph",
+                    country: "Sweden",
+                    rating: 5,
+                    date: "2026-05-03T17:25:52+02:00",
+                    text: "Johnny and Muay were great. Very enthusiastic and informative about the dishes we tried. Even gave us tips on how to make on our own. Very fun and just the right amount of food to feel full but not stuffed.",
+                },
+                {
+                    author: "Fiona",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-05-03T12:06:55+02:00",
+                    text: "This tour goes down as one of the best food tours I've ever been on. Anja was outstanding as was her assistant Ms Om. Anja gave so much information along the way and was so engaging and always checking everyone was OK along the way. Small group made all the difference and when they say \"come hungry\"...they mean it for good reason and there was always more than enough at each tasting. Highly, highly recommended! Thank you Anja & Ms Om for an unforgettable experience!!!🫶🏻🫶🏻🫶🏻",
+                },
+                {
+                    author: "Laurence",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-02T11:07:27+02:00",
+                    text: "The tour was amazing. we got to try 15 different dishes and most of the restaurants we ate at had air conditioning. We were offered bottled water all throughout the tour. Our tour guide Ploy was amazing and so knowledgeable! Highly recommend!!",
+                },
+            ],
+        };
+    }
+
+    // --- Best Thai Cooking Class in Sukhumvit / Market Tour - Mango ---
+    if (slug === 'thai-cooking-class-in-sukhumvit-market-tour-mango') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 268,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Linda",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-05-13T09:17:28+02:00",
+                    text: "It was a very nice morning. We learned a lot new interesting things about the thai cuisine and had a lot of fun while cooking. Definitely would do it again!",
+                },
+                {
+                    author: "Tia",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-09T05:18:12+02:00",
+                    text: "This cooking experience was absolutely amazing! I booked the morning session, from when I first arrived Serene was so warm and friendly. She showed me to a seat, explained today's class, gave me a glass of cold water and let me smell some of the things we were using. Once she had gone through what we would be doing we went to the local Thai market to get some of the ingredients for the dishes. She demonstrated how to prepare everything and was very patient. The whole experience was so personalis",
+                },
+                {
+                    author: "Xiao",
+                    country: "France",
+                    rating: 5,
+                    date: "2026-05-08T23:01:27+02:00",
+                    text: "It was very fun, we made 4 courses of Thai cuisine in one class, also went to the market and learned the Thai herbs and ingredients. Good experience",
+                },
+                {
+                    author: "Amy",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-04-25T13:50:54+02:00",
+                    text: "Pak (our guide) was incredible. She was so interactive with the group. We were there with our 10 and 13 yr olds and they loved the class. Highly recommend!",
+                },
+                {
+                    author: "Carmel",
+                    country: "Netherlands",
+                    rating: 5,
+                    date: "2026-04-24T10:50:04+02:00",
+                    text: "Such a fun cooking class with Paik, highly recommend!",
+                },
+                {
+                    author: "Sean",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-04-24T07:25:55+02:00",
+                    text: "Excellent cooking class, great value for money and food/recipes were very good.",
+                },
+                {
+                    author: "Andrea",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-04-05T01:07:22+02:00",
+                    text: "Incredible experience! Making food from scratch to eat it makes everything taste better! The place and the atmosphere were great, also our guide",
+                },
+                {
+                    author: "Antoinette",
+                    country: "India",
+                    rating: 5,
+                    date: "2026-04-03T13:16:09+02:00",
+                    text: "This was perfect for us! We were the end of our trip and wanted something to avoid the heat! The place was very clean, food was very good perfect for families and activity indoor She was very nice and friendly",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok Authentic Tasting Thai-Chinatown Walking Food Tour ---
+    if (slug === 'bangkok-authentic-tasting-thai-chinatown-walking-food-tour') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 1048,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Cloey",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-25T07:31:35+02:00",
+                    text: "The guide, Kwan, was absolutely amazing. She was very knowledgeable about the food, and its origins in the city. Such an amazing experience, and the food was incredible!",
+                },
+                {
+                    author: "Nitin",
+                    country: "Netherlands",
+                    rating: 5,
+                    date: "2026-05-23T14:07:17+02:00",
+                    text: "amazing tour, good food at all places, in the end I was super full",
+                },
+                {
+                    author: "Josh",
+                    country: "Japan",
+                    rating: 5,
+                    date: "2026-05-20T06:47:36+02:00",
+                    text: "Excellent tour with excellent food in spots we’d otherwise never know to go to. TK, our guide, was the best. He was super nice, funny, and knowledgeable. Would highly recommend",
+                },
+                {
+                    author: "John",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-19T13:17:34+02:00",
+                    text: "Kwon is a very good guide. Tried many different food and they were all fantastic.",
+                },
+                {
+                    author: "Rebecca",
+                    country: "United States",
+                    rating: 5,
+                    date: "2026-05-16T12:51:39+02:00",
+                    text: "Aey was a great guide helpful and informative. Wide range of food, some was a bit too spicy for me, but there were plenty of other things I could eat.",
+                },
+                {
+                    author: "Todd",
+                    country: "France",
+                    rating: 5,
+                    date: "2026-05-14T02:09:44+02:00",
+                    text: "Aey was fantastic, knowledgeable, and extremely concerned that no one left hungry. Would recommend a tour to anyone",
+                },
+                {
+                    author: "Brianna",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-05-12T23:24:40+02:00",
+                    text: "It was amazing. Had the best time meeting new people and trying popular dishes. Our guide made the experience worthwhile.",
+                },
+                {
+                    author: "Rachelle",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-05-07T03:29:12+02:00",
+                    text: "We both really enjoyed being shown some local street food, all the different options tasted so good. Our guide Kwan was very friendly and knowledgeable. Highly recommended 🙏🥰",
+                },
+            ],
+        };
+    }
+
+    // --- From Bangkok: Khao Yai National Park Small-Group Day Trip ---
+    if (slug === 'khao-yai-national-park-small-group-day-trip') {
+        return {
+            averageRating: 4.5,
+            totalReviews: 791,
+            guideRating: 4.6,
+            valueRating: 4.3,
+            reviews: [
+                {
+                    author: "Victoria",
+                    country: "Australia",
+                    rating: 5,
+                    date: "2026-05-22T11:21:45+02:00",
+                    text: "Mark was beyond excellent! He was very knowledgeable, friendly and attentive. The hike was well worth the drive, we enjoyed seeing the waterfalls, monkeys and vegetation. Mark made sure we were safe always and enjoying ourselves, which we really appreciated. & The lunch spot was even better than i anticipated! My mom (64) and I (25) highly recommend this tour for a fun filled, slightly challenging, very rememberable experience. Thank you so much to Mark !",
+                },
+                {
+                    author: "Derick",
+                    country: "Netherlands",
+                    rating: 5,
+                    date: "2026-05-21T03:42:39+02:00",
+                    text: "Our experience with our tour guide with Cherry was exceptional. We were truly blessed to witness a Hornbill, an elephant and other beautiful animals. All the tour the locations were organized and flexible to serve us a great experience. Thank you Cherry!",
+                },
+                {
+                    author: "Lachlan",
+                    country: "Brazil",
+                    rating: 5,
+                    date: "2026-05-18T12:02:55+02:00",
+                    text: "Had the greatest time. The other group that was meant to be there on the day didn't show up (be on time, they only wait 10 extra minutes from the initial start time if people are late), so I essentially had a private tour. Walks were beautiful, the food was delicious. We were even running a little ahead of schedule at one point so we ducked into the visitor centre and I got to go over the history of Khao Yai. Brilliant way of mixing up a city-centric holiday and stretching your legs for a bit in",
+                },
+                {
+                    author: "Artur",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-04-18T05:29:03+02:00",
+                    text: "Even though it's dry season and there was no water in the waterfalls, I really enjoyed the trip, the walk through the jungle was really fun, and we got to see some animals at the campsite",
+                },
+                {
+                    author: "Benjamin",
+                    country: "South Korea",
+                    rating: 5,
+                    date: "2026-04-08T18:00:16+02:00",
+                    text: "Guide spoke good english and a Bit of German , the car had a good temperature inside , we had enough stops for food/toilette. We saw some animals Like Monkeys, birds, Fish a lizard and on the Camp station were some tame deer. We could take a Lot of panaroma pictures with the waterfalls and the landscape. Thank you for the nice Tour. Best regards Benjamin from Germany",
+                },
+                {
+                    author: "Luka",
+                    country: "Italy",
+                    rating: 5,
+                    date: "2026-04-02T06:56:50+02:00",
+                    text: "Our guide, Nok, was incredibly friendly and enthusiastic, and made this experience memorable. Khao Yai was beautiful and we were lucky to see some gibbons and some smaller critters. It was the perfect amount of hiking. Transport was comfortable, including aircon and water. Highly recommend if you’re looking for a break from the city.",
+                },
+                {
+                    author: "Daniel",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-03-27T00:29:21+01:00",
+                    text: "Really really good tour! A bit tiring especially as I had only arrived into Bangkok from the UK the day before so I was quite jet lagged but otherwise definitely worth doing",
+                },
+                {
+                    author: "Omar",
+                    country: "Singapore",
+                    rating: 5,
+                    date: "2026-03-23T07:39:38+01:00",
+                    text: "Napat was excellent, really helpful and even gave me a few ideas on locations to make the trip extra special! the whole day was phenomenal",
+                },
+            ],
+        };
+    }
+
+    // --- Bangkok Night River Experience with Dinner & Cultural Show ---
+    if (slug === 'bangkok-night-river-experience-with-dinner-cultural-show') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 24,
+            guideRating: 5.0,
+            valueRating: 4.7,
+            reviews: [
+                {
+                    author: "Verified Traveler",
+                    country: "Germany",
+                    rating: 5,
+                    date: "2026-05-26T07:59:51+02:00",
+                    text: "The entire cruise was excellent. So nice I'll be doing it again one day. All of the singers and performance where top notch.",
+                },
+                {
+                    author: "Dominic",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-26T06:51:12+02:00",
+                    text: "beautiful scenery and food, with nice entertainment",
+                },
+                {
+                    author: "Verified Traveler",
+                    country: "United Kingdom",
+                    rating: 5,
+                    date: "2026-05-24T02:42:43+02:00",
+                    text: "bellissima esperienza.Qualità prezzo ottimo. vasta scelta , servizio attento, intrattenimento molto tradizionale. consiglio di vivere questa esperienza.",
+                },
+                {
+                    author: "Verified Traveler",
+                    country: "New Zealand",
+                    rating: 4,
+                    date: "2026-05-21T22:25:50+02:00",
+                    text: "My only complaint was that the music was so loud the entire evening that you couldn’t sit and talk. My wife and I had to scream just to be heard. There was also no place to get away from the loud music. I suggest you turn the speakers off in the lowest deck so passengers have a quiet place to go if they choose.",
+                },
+            ],
+        };
+    }
+
     return null;
 };
