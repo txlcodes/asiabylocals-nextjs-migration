@@ -2234,7 +2234,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                       {tour.images && tour.images.length > 0 ? (
                         <Image
                           src={tour.images[0]}
-                          alt={`${tour.title} in ${city} - ${cityInfo.description}`}
+                          alt={`${tour.title} — guided tour in ${city}`}
                           width={400}
                           height={208}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

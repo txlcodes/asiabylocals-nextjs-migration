@@ -5,12 +5,16 @@ const nextConfig: NextConfig = {
   trailingSlash: false,
 
   images: {
+    // Skip on-demand optimization in dev only — optimizing many remote images live
+    // hangs `next dev`. Production keeps optimization (pre-cached at the edge).
+    unoptimized: process.env.NODE_ENV === 'development',
     // Serve AVIF first (50% smaller), fall back to WebP — applies to all Next.js <Image> components
     formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'www.asiabylocals.com' },
+      { protocol: 'https', hostname: 'cdn.getyourguide.com' },
     ],
   },
 
