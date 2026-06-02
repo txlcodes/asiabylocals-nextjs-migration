@@ -163,6 +163,7 @@ model Booking {
   invoiceUrl             String?     @map("invoice_url")
   reviewToken            String?     @unique @map("review_token")
   reviewTokenExpiresAt   DateTime?   @map("review_token_expires_at")
+  reviewRequestSentAt    DateTime?   @map("review_request_sent_at") // when the post-tour review email was auto-sent
   createdAt              DateTime    @default(now()) @map("created_at")
   updatedAt              DateTime    @updatedAt @map("updated_at")
 

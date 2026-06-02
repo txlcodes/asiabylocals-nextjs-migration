@@ -8,6 +8,7 @@ import bcrypt from 'bcrypt';
 import { randomBytes, createHmac } from 'crypto';
 import Razorpay from 'razorpay';
 import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, sendBookingConfirmationEmail, sendAdminPaymentNotificationEmail, sendTourApprovalEmail, sendTourRejectionEmail, sendReviewRequestEmail } from './utils/email.js';
+import { startReviewScheduler, sendDueReviewRequests } from './reviewScheduler.js';
 import { uploadMultipleImages } from './utils/cloudinary.js';
 import { generateInvoicePDF } from './utils/invoice.js';
 import { generateSitemap } from './generate-sitemap.js';
@@ -9964,8 +9965,23 @@ if (process.env.NODE_ENV === 'production') {
   }
 }
 
+// Manual trigger for the post-tour review sweep (for testing or an external cron).
+// Protected by CRON_SECRET header when that env var is set.
+app.post('/api/cron/send-review-requests', async (req, res) => {
+  try {
+    if (process.env.CRON_SECRET && req.headers['x-cron-secret'] !== process.env.CRON_SECRET) {
+      return res.status(401).json({ success: false, error: 'Unauthorized' });
+    }
+    const summary = await sendDueReviewRequests();
+    res.json({ success: true, ...summary });
+  } catch (e) {
+    res.status(500).json({ success: false, error: e.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
+  startReviewScheduler();
   console.log(`📊 API endpoints available at http://localhost:${PORT}/api`);
   console.log(`🗄️  Database: PostgreSQL via Prisma ORM`);
   const emailConfigured = process.env.RESEND_API_KEY || process.env.SENDGRID_API_KEY || process.env.EMAIL_USER;
