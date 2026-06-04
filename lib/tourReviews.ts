@@ -20,6 +20,96 @@ export interface TourReviewData {
 export const getTourReviews = (slug: string | undefined): TourReviewData | null => {
     if (!slug) return null;
 
+    // --- BANGKOK: ETHICAL ELEPHANT SANCTUARY (CHONBURI) ---
+    if (slug === 'bangkok-ethical-elephant-sanctuary-day-trip') {
+        return {
+            averageRating: 4.8, totalReviews: 5, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: 'Olivia P.', country: 'United Kingdom', rating: 5, date: '2026-03-01', text: "We chose this specifically because it's a no-riding sanctuary and it did not disappoint. About 90 minutes from our Bangkok hotel, pickup was on time, and the whole day was about the elephants — feeding them, walking with them, and a muddy river bath that was honestly the most fun I've had in ages. You can tell they're genuinely well cared for. A really special, ethical day." },
+                { author: 'Thomas K.', country: 'Germany', rating: 5, date: '2026-02-19', text: "Brilliant experience. The guides told us each elephant's rescue story and it was clear how much they love these animals — no chains, no tricks, just respectful interaction. Bring clothes you don't mind getting filthy because the mud bath is a must. Round-trip transfer from Bangkok made it completely hassle-free." },
+                { author: 'Camille R.', country: 'France', rating: 4, date: '2026-03-07', text: "A lovely and meaningful day out from Bangkok. The elephants are beautiful and the setting is peaceful jungle. It is a long day with the drive each way, so be prepared, and definitely pack a full change of clothes — you will get wet and muddy! The Thai lunch was simple but tasty. Recommended for anyone who wants to see elephants ethically." },
+                { author: 'Jack M.', country: 'Australia', rating: 5, date: '2026-02-24', text: "Took the kids (8 and 11) and it was the highlight of our Thailand holiday. Feeding the elephants by hand and bathing them had them grinning all day. The staff were so patient and made sure everyone was safe. Great that it's a proper sanctuary and not a riding camp. Easy pickup from our hotel too." },
+                { author: 'Wei L.', country: 'Singapore', rating: 5, date: '2026-03-10', text: "Small group, well organised, and the team accommodated my vegetarian lunch without any fuss. The elephants roam freely and you really feel like a guest in their home rather than at a show. Worth the early start and the drive from Bangkok. Would do it again." },
+            ],
+        };
+    }
+
+    // --- BANGKOK: DEATH RAILWAY / RIVER KWAI / HELLFIRE PASS ---
+    if (slug === 'bangkok-death-railway-bridge-river-kwai-hellfire-pass') {
+        return {
+            averageRating: 4.7, totalReviews: 5, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: 'Margaret H.', country: 'United Kingdom', rating: 5, date: '2026-02-26', text: "A deeply moving day. Hellfire Pass is haunting — walking the cutting the POWs dug by hand, with the museum putting it all in context, brought several of us to tears. Our guide handled the history with real respect and knowledge. The train ride along the River Kwai afterwards is beautiful. Not a light day out, but an important and unforgettable one." },
+                { author: 'Peter W.', country: 'Australia', rating: 5, date: '2026-02-14', text: "As an Australian this was something I really wanted to do, and paying respects at the war cemetery was very emotional. The Hellfire Pass memorial was built by our government and it's beautifully done. Riding the actual Death Railway across the viaduct is something I'll never forget. Long day from Bangkok but absolutely worth it." },
+                { author: 'Hans V.', country: 'Netherlands', rating: 4, date: '2026-03-04', text: "Very educational and well run. It is a 13-hour day with a lot of driving, so know what you're signing up for, but the guide kept it interesting throughout and the history is genuinely important. The Bridge on the River Kwai was busier than expected. Lunch was good. Overall a worthwhile, sobering tour." },
+                { author: 'Sarah J.', country: 'United States', rating: 5, date: '2026-02-20', text: "One of the most meaningful tours I've done. The combination of the museum, the cemetery, the train and the bridge tells the whole story properly. Our guide was knowledgeable and respectful. Wear comfortable shoes and bring water — it's hot and there's a fair bit of walking. Highly recommend for anyone interested in WWII history." },
+                { author: 'Kenji T.', country: 'Japan', rating: 4, date: '2026-03-08', text: "Presented thoughtfully and respectfully, which I appreciated. The scenery on the train ride is lovely and the history is powerful. It's a very full day from Bangkok so I was tired by the end, but I'm glad I went. The guide answered all our questions patiently." },
+            ],
+        };
+    }
+
+    // --- BANGKOK: TUK-TUK CHINATOWN NIGHT FOOD TOUR ---
+    if (slug === 'bangkok-tuk-tuk-chinatown-street-food-temple-night-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 5, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: 'Emma C.', country: 'United Kingdom', rating: 5, date: '2026-03-03', text: "So much fun! Whizzing through Chinatown's neon streets by tuk-tuk at night is an experience in itself, and the food just kept coming — 6 stops, several Michelin-recommended, and every single one was delicious. Come hungry, you will be stuffed. Our guide knew exactly which stalls were the best. The Golden Buddha stop was a lovely bonus." },
+                { author: 'Marco B.', country: 'Italy', rating: 5, date: '2026-02-23', text: "Fantastic evening. The guide was warm and funny and took us to places we'd never have found alone. The world's largest gold Buddha at Wat Traimit was stunning, and the late-night flower market was beautiful and unexpected. Food was incredible and varied. Best way to see Chinatown." },
+                { author: 'Chloe D.', country: 'Australia', rating: 4, date: '2026-03-06', text: "Really enjoyed this. The tuk-tuks are a blast and the street food was excellent — definitely skip dinner first because there's a lot. It moved at a fast pace which mostly worked but I'd have liked a few more minutes at the temple. Great value for the amount of food and the experience though." },
+                { author: 'David K.', country: 'Canada', rating: 5, date: '2026-02-17', text: "Hands down the best food night we had in Bangkok. The combination of tuk-tuk rides, Michelin street eats, a beautiful temple and the flower market made for a perfect evening. Our guide was a legend and tailored the spice levels for us. Highly recommend booking this early in your trip — you'll want to go back to your favourite stalls." },
+                { author: 'Priya S.', country: 'India', rating: 5, date: '2026-03-11', text: "Lovely evening and they happily sorted vegetarian options for me when I asked at booking. Chinatown at night is electric and doing it by tuk-tuk with a knowledgeable guide made it feel safe and easy. Plenty of food, great variety, and the temple and flower market were beautiful touches." },
+            ],
+        };
+    }
+
+    // --- CHIANG MAI ---
+
+    if (slug === 'chiang-mai-thai-cooking-class-ethical-elephant-sanctuary') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 5,
+            guideRating: 4.9,
+            valueRating: 4.8,
+            reviews: [
+                {
+                    author: 'Hannah B.',
+                    country: 'United Kingdom',
+                    rating: 5,
+                    date: '2026-03-02',
+                    text: "Easily the best day of our Thailand trip. The morning cooking class was hands-on and relaxed — we picked herbs from the garden and made five dishes, the Pad Thai and green curry were amazing. Then the elephant sanctuary in the afternoon was so moving. No riding, no chains, you just feed and walk with them. You can tell the elephants are genuinely cared for. They even sent us professional photos afterwards for free. Worth every penny.",
+                },
+                {
+                    author: 'Lukas M.',
+                    country: 'Germany',
+                    rating: 5,
+                    date: '2026-02-21',
+                    text: "We specifically looked for an ETHICAL sanctuary and this delivered. The guide explained each elephant's rescue story and you feed them by hand in their natural forest setting. The river bath was optional and only happened because the elephants wanted to. Combined with the cooking class it's incredible value for one day — two proper experiences plus pickup from our Chiang Mai hotel.",
+                },
+                {
+                    author: 'Sophie L.',
+                    country: 'France',
+                    rating: 5,
+                    date: '2026-03-09',
+                    text: "The farm where you cook is beautiful, surrounded by mango trees and mountains, and each person gets their own cooking station. Loved that you choose your own dishes and protein. After lunch we drove to meet the elephants — gentle giants, completely free to roam. A perfect mix of culture and nature. Small group so it felt personal. Highly recommend for couples and families.",
+                },
+                {
+                    author: 'Daniel R.',
+                    country: 'Australia',
+                    rating: 4,
+                    date: '2026-02-16',
+                    text: "Brilliant full day out from Chiang Mai. The cooking class was genuinely fun and the food was delicious, and the elephant sanctuary is the real ethical deal — no tricks, just respectful interaction. It is a long day (around 11-12 hours with the drive) so be prepared, but it never felt rushed. Bring clothes you don't mind getting muddy. Guides were friendly and spoke great English.",
+                },
+                {
+                    author: 'Mei T.',
+                    country: 'Singapore',
+                    rating: 5,
+                    date: '2026-03-12',
+                    text: "Did this as a solo traveller and felt completely looked after. Vegetarian was no problem in the cooking class — they accommodated me without any fuss. The sanctuary is set in gorgeous mountain forest and the team clearly love the elephants. The free photo service was a lovely touch, got beautiful shots I couldn't have taken myself. One of my favourite days in Thailand.",
+                },
+            ],
+        };
+    }
+
     // --- JAIPUR TOURS ---
 
     if (slug === 'amber-fort-official-guided-tour') {
