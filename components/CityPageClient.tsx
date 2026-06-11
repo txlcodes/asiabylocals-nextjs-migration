@@ -26,6 +26,182 @@ const CITY_DESCRIPTIONS: Record<string, {
   bestTime: string;
   faqs: { question: string; answer: string }[];
 }> = {
+  'Colombo': {
+    title: 'Colombo Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Colombo with licensed local guides — city sightseeing, Pettah market walks, street food tours, colonial heritage & tuk-tuk experiences.',
+    intro: [
+      "Colombo is Sri Lanka's vibrant commercial capital — a coastal city where colonial architecture, buzzing markets, gleaming temples and a fast-changing skyline sit side by side. With a knowledgeable local guide you'll get past the traffic and into the real character of the city.",
+      "From the chaotic charm of the Pettah bazaar and the calm of Gangaramaya Temple to sunset on Galle Face Green and the best Sri Lankan street food, Colombo rewards travelers who explore it with someone who knows it. It's also the natural gateway for trips to the south coast and the hill country."
+    ],
+    whyBook: ['Licensed, knowledgeable local guides', 'Skip the tourist traps — eat and shop where locals do', 'Small-group and private options', 'Direct support to local guides & families'],
+    topAttractions: ['Gangaramaya Temple', 'Pettah Market', 'Galle Face Green', 'Old Dutch Hospital', 'Independence Square', 'Red Mosque (Jami Ul-Alfar)', 'National Museum', 'Viharamahadevi Park'],
+    bestTime: 'The best time to visit Colombo is from December to March, during the southwest dry season, when days are sunny and humidity is more manageable. Early morning and late afternoon are ideal for walking tours to avoid the midday heat.',
+    faqs: [
+      { question: 'Is Colombo worth visiting, or just a transit city?', answer: "Colombo is well worth a day or two. While many travelers treat it as a gateway, the city has genuinely rewarding sights — the serene Gangaramaya Temple, the sensory overload of Pettah market, colonial-era architecture in the Fort district, and some of the best Sri Lankan food in the country. A guided tour packs the highlights into a half or full day and gives you the context that makes it come alive." },
+      { question: 'How do I get around Colombo?', answer: "Tuk-tuks are the easiest way to get around for short hops (agree the fare or use a metered app), while many guided tours include private air-conditioned transport, which is more comfortable in the heat and traffic. Walking tours work well in compact areas like the Fort and Pettah." },
+      { question: 'What food should I try in Colombo?', answer: "Don't miss kottu roti (chopped flatbread stir-fried with vegetables, egg or meat), Sri Lankan rice and curry, hoppers (bowl-shaped pancakes), short eats from local bakeries, and fresh seafood. A street food tour with a local guide is the best way to taste widely without guessing which stalls to trust." }
+    ]
+  },
+  'Kandy': {
+    title: 'Kandy Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Kandy with local guides — the Temple of the Sacred Tooth Relic, cultural dance shows, Royal Botanical Gardens & tea country trips.',
+    intro: [
+      "Kandy is Sri Lanka's cultural heart — a UNESCO World Heritage city set around a tranquil lake and ringed by misty hills. It's home to the Temple of the Sacred Tooth Relic, one of Buddhism's most revered sites, and a living tradition of dance, craft and ceremony.",
+      "With a local guide you'll understand the significance behind the Temple of the Tooth, explore the Royal Botanical Gardens at Peradeniya, catch a Kandyan cultural dance show, and use the city as the gateway to Sri Lanka's famous tea country and scenic hill-country train rides."
+    ],
+    whyBook: ['Licensed guides who explain the living Buddhist traditions', 'Cultural and historical context beyond the guidebooks', 'Small-group and private experiences', 'Direct support to local communities'],
+    topAttractions: ['Temple of the Sacred Tooth Relic', 'Kandy Lake', 'Royal Botanical Gardens, Peradeniya', 'Kandyan Cultural Dance Show', 'Bahirawakanda Buddha Statue', 'Udawattakele Forest Reserve', 'Kandy Market', 'Ceylon Tea Museum'],
+    bestTime: 'The best time to visit Kandy is from December to April, when the hill-country weather is driest. If you can, time your visit with the Esala Perahera festival (usually July/August) — a spectacular procession of dancers, drummers and decorated elephants.',
+    faqs: [
+      { question: 'What is the dress code for the Temple of the Sacred Tooth Relic?', answer: "The Temple of the Tooth is an active and deeply sacred site, so modest dress is required: shoulders and knees must be covered, and you'll need to remove your shoes and hats before entering. Wearing white is customary for worshippers but not required of visitors. A local guide will advise on timing your visit around the daily 'puja' (offering) ceremonies, when the inner chamber is opened." },
+      { question: 'How far is Kandy from Colombo and how do I get there?', answer: "Kandy is about 115 km from Colombo — roughly 3–3.5 hours by car, or one of the world's most scenic train journeys (around 2.5–3 hours). Many travelers visit Kandy as part of a multi-day cultural-triangle and hill-country itinerary; guided tours can include private transport and the train experience." },
+      { question: 'Is the Kandyan cultural dance show worth seeing?', answer: "Yes — the nightly Kandyan dance shows feature traditional drumming, acrobatic dancing and a fire-walking finale, offering a vivid introduction to Sri Lankan performing arts. They're family-friendly and a great complement to a day of temple and garden visits." }
+    ]
+  },
+  'Galle': {
+    title: 'Galle Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Galle with local guides — the UNESCO Dutch Fort ramparts, lighthouse, boutique old town, beaches & whale watching on the south coast.',
+    intro: [
+      "Galle is the jewel of Sri Lanka's south coast — a 400-year-old Dutch fort city where cobbled lanes, colonial mansions, art galleries and cafés sit inside massive sea-facing ramparts. It's one of the best-preserved colonial fortifications in Asia and a UNESCO World Heritage Site.",
+      "With a local guide you'll walk the ramparts at golden hour, hear the layered Portuguese, Dutch and British history, and discover the boutiques and hidden corners of the old town — before heading to nearby beaches, stilt fishermen and seasonal whale watching at Mirissa."
+    ],
+    whyBook: ['Guides who bring the fort\'s colonial history to life', 'Discover the old town\'s hidden lanes & boutiques', 'Easy combos with beaches & whale watching', 'Small-group and private options'],
+    topAttractions: ['Galle Dutch Fort & Ramparts', 'Galle Lighthouse', 'Dutch Reformed Church', 'Maritime Museum', 'Flag Rock', 'Old Town boutiques & galleries', 'Unawatuna Beach', 'Stilt Fishermen (Koggala)'],
+    bestTime: 'The best time to visit Galle is from December to April, the south coast\'s dry season, with calm seas ideal for beaches and whale watching (best December to April out of Mirissa). Sunset is the perfect time to walk the fort ramparts.',
+    faqs: [
+      { question: 'How long do you need in Galle Fort?', answer: "Half a day is enough to walk the ramparts and main sights, but Galle rewards a slower pace — many travelers spend a full day or stay overnight to enjoy the old town's cafés, boutiques and the magic of the fort at sunset and after the day-trippers leave. A guided walking tour of 2–3 hours covers the history and highlights efficiently." },
+      { question: 'Can I combine Galle with whale watching?', answer: "Yes. Mirissa, one of the world's best spots for blue whale and dolphin watching, is about an hour from Galle, with early-morning boat trips running roughly December to April. It pairs perfectly with a Galle Fort visit over one or two days, and guided itineraries can arrange both." },
+      { question: 'How do I get to Galle from Colombo?', answer: "Galle is about 2 hours from Colombo via the southern expressway by car, or a scenic coastal train ride of around 2.5–3 hours. It's an easy and popular day trip or the first stop on a south-coast beach itinerary." }
+    ]
+  },
+  'Sigiriya': {
+    title: 'Sigiriya Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Sigiriya with local guides — climb the Lion Rock fortress, see ancient frescoes, explore Dambulla cave temples & Minneriya elephant safaris.',
+    intro: [
+      "Sigiriya — the Lion Rock — is Sri Lanka's most iconic ancient site: a 200-metre granite monolith crowned by the ruins of a 5th-century royal palace, surrounded by water gardens, frescoes and the famous Mirror Wall. It's the centerpiece of the country's Cultural Triangle.",
+      "With a local guide the climb becomes a story — of King Kasyapa, the rock-top citadel, and the techniques behind the still-vivid frescoes. Nearby you can explore the Dambulla cave temples and, in season, join an elephant safari at Minneriya or Kaudulla national parks."
+    ],
+    whyBook: ['Guides who decode the history and frescoes as you climb', 'Beat the heat and crowds with the right timing', 'Easy combos with Dambulla & wildlife safaris', 'Small-group and private options'],
+    topAttractions: ['Sigiriya Lion Rock Fortress', 'Sigiriya Frescoes & Mirror Wall', 'Water Gardens', 'Dambulla Cave Temple', 'Pidurangala Rock', 'Minneriya National Park (elephants)', 'Kaudulla National Park', 'Village tours & lake'],
+    bestTime: 'The best time to visit Sigiriya is from May to September, which is also peak season for the Minneriya elephant gathering. Climb early in the morning (gates open at 7 AM) or late afternoon to avoid the midday heat on the exposed rock.',
+    faqs: [
+      { question: 'How hard is the climb up Sigiriya Rock?', answer: "The climb is about 1,200 steps and takes most people 1.5–2 hours round trip. It's moderately strenuous — a mix of stairs and metal staircases bolted to the rock — but manageable for anyone with reasonable fitness who takes it steadily. Go early morning or late afternoon to avoid the heat, bring water, and a guide will set a comfortable pace while explaining the site." },
+      { question: 'Should I climb Sigiriya or Pidurangala?', answer: "Many travelers do both. You climb Sigiriya for the archaeology — the palace ruins, frescoes and gardens on top. You climb the neighbouring Pidurangala Rock (cheaper and rougher) for the best photo of Sigiriya itself, especially at sunrise. With a guide you can plan timing to do one or both comfortably." },
+      { question: 'Can I see elephants near Sigiriya?', answer: "Yes. Minneriya and Kaudulla national parks are a short drive away and host one of the world's great wildlife spectacles — 'The Gathering' of hundreds of wild elephants, best from about July to September. A half-day jeep safari pairs perfectly with a Sigiriya and Dambulla visit." }
+    ]
+  },
+  'Ella': {
+    title: 'Ella Tours & Things to Do | Sri Lanka Hill Country by Locals',
+    description: 'Discover Ella with local guides — the Nine Arches Bridge, Little Adam\'s Peak, scenic train rides, tea plantations & waterfalls in the hill country.',
+    intro: [
+      "Ella is Sri Lanka's laid-back hill-country gem — a small town wrapped in emerald tea plantations, misty peaks and waterfalls, famous for the postcard Nine Arches Bridge and one of the world's most beautiful train journeys.",
+      "With a local guide you'll hike Little Adam's Peak and Ella Rock for sweeping valley views, time the train for the perfect Nine Arches shot, visit a working tea estate and factory, and cool off at Ravana Falls — all at the relaxed pace Ella is loved for."
+    ],
+    whyBook: ['Local guides who know the best viewpoints & train timings', 'Tea estate visits with real planter insight', 'Easy hikes tailored to your fitness', 'Small-group and private options'],
+    topAttractions: ['Nine Arches Bridge', 'Little Adam\'s Peak', 'Ella Rock', 'Ravana Falls', 'Tea plantations & factory tours', 'Nine Arches train ride', 'Ravana Cave', 'Demodara Loop'],
+    bestTime: 'The best time to visit Ella is from December to March, when the hill country is driest and clearest for hikes and views. Mornings are best for hiking and catching the train before the afternoon mist rolls in.',
+    faqs: [
+      { question: 'Is the Kandy to Ella train really worth it?', answer: "Yes — it's regularly called one of the most scenic train rides in the world, winding through tea plantations, valleys and tunnels for around 6–7 hours (Nanu Oya/Nuwara Eliya to Ella is a shorter, equally beautiful leg). Sit by an open door or window for the views. Reserved seats sell out, so a guide can help arrange tickets, or you can do a shorter scenic stretch." },
+      { question: 'How do I get the famous Nine Arches Bridge train photo?', answer: "The Nine Arches Bridge is a 20–30 minute walk from Ella town through tea fields. Several trains cross daily — your guide will know the current schedule so you're in position when one passes. Early morning offers the best light and fewer crowds." },
+      { question: 'How difficult are the Ella hikes?', answer: "Little Adam's Peak is an easy 1–1.5 hour round-trip walk suitable for most people. Ella Rock is tougher — around 3–4 hours round trip with some steep, unmarked sections, where a local guide is genuinely helpful for navigation. Both reward you with spectacular hill-country panoramas." }
+    ]
+  },
+  'Nuwara Eliya': {
+    title: 'Nuwara Eliya Tours & Things to Do | Sri Lanka Tea Country',
+    description: 'Discover Nuwara Eliya with local guides — tea estate & factory tours, Horton Plains World\'s End treks, Gregory Lake & colonial hill-country charm.',
+    intro: [
+      "Nuwara Eliya — 'Little England' — is the cool, green heart of Sri Lanka's tea country, sitting at 1,900 metres among rolling estates, colonial bungalows and manicured gardens. The climate is crisp, the scenery is lush, and the tea is world-famous.",
+      "With a local guide you'll tour a working tea estate and factory to see how Ceylon tea is made (and taste it fresh), trek to World's End in Horton Plains National Park, stroll the colonial town and Gregory Lake, and soak up the misty highland atmosphere."
+    ],
+    whyBook: ['Tea estate & factory tours with expert local insight', 'Guided Horton Plains / World\'s End treks', 'Colonial heritage and highland scenery', 'Small-group and private options'],
+    topAttractions: ['Tea estates & factory tours', 'Horton Plains National Park (World\'s End)', 'Gregory Lake', 'Pedro Tea Estate', 'Hakgala Botanical Gardens', 'Lover\'s Leap Waterfall', 'Victoria Park', 'Ambewela Farm'],
+    bestTime: 'The best time to visit Nuwara Eliya is from February to April, the clear, dry season — and April brings the lively "season" with horse racing and flower shows. For Horton Plains, start at dawn before mist obscures the World\'s End viewpoint.',
+    faqs: [
+      { question: 'What should I wear in Nuwara Eliya?', answer: "Unlike the rest of tropical Sri Lanka, Nuwara Eliya is cool — temperatures can drop to single digits at night and early morning. Bring a warm layer or jacket, especially for early starts to Horton Plains. Daytime is mild and pleasant, ideal for walking tea estates and the town." },
+      { question: 'Is the Horton Plains / World\'s End trek difficult?', answer: "The Horton Plains loop to World's End and Baker's Falls is about 9 km and takes 3–4 hours over mostly gentle terrain — moderate and achievable for most. The key is starting early (gates open around 6 AM) because clouds usually roll in by mid-morning and hide the dramatic World's End cliff drop. A guide helps with the early logistics and park entry." },
+      { question: 'Can I tour a tea factory and buy tea?', answer: "Absolutely — Nuwara Eliya is the place to do it. Estates like Pedro offer factory tours showing the full process from leaf to cup, ending with a tasting, and you can buy fresh, high-grown Ceylon tea directly. It's one of the highlights of any hill-country visit." }
+    ]
+  },
+  'Kathmandu': {
+    title: 'Kathmandu Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Kathmandu with local guides — Durbar Square, Swayambhunath & Boudhanath stupas, Pashupatinath temple and Himalayan day trips.',
+    intro: [
+      "Kathmandu is Nepal's atmospheric capital — a living museum of medieval squares, golden-roofed temples, prayer-flag-draped stupas and tangled bazaars, all framed by the foothills of the Himalayas. Few cities pack so much history and spirituality into such a compact, vibrant place.",
+      "With a local guide you'll make sense of the layered Hindu and Buddhist heritage — from the ancient Durbar Square and the hilltop 'Monkey Temple' of Swayambhunath to the vast Boudhanath stupa and the sacred riverside cremation ghats of Pashupatinath. It's also the launchpad for trekking and Himalayan mountain flights."
+    ],
+    whyBook: ['Guides who explain the Hindu & Buddhist heritage', 'Navigate the old city and bazaars with ease', 'Easy combos with day trips & mountain views', 'Small-group and private options'],
+    topAttractions: ['Kathmandu Durbar Square', 'Swayambhunath (Monkey Temple)', 'Boudhanath Stupa', 'Pashupatinath Temple', 'Thamel', 'Garden of Dreams', 'Asan Bazaar', 'Kopan Monastery'],
+    bestTime: 'The best time to visit Kathmandu is from October to November and March to April, when skies are clear, the weather is mild, and Himalayan views are at their best. October also brings the major festivals of Dashain and Tihar.',
+    faqs: [
+      { question: 'How many days do you need in Kathmandu?', answer: "Two to three days lets you see the main UNESCO sites — Durbar Square, Swayambhunath, Boudhanath and Pashupatinath — at a comfortable pace, plus time for the Thamel district and a day trip to Bhaktapur or Patan. A guided tour can cover the four core heritage sites in a single well-paced day if you're short on time." },
+      { question: 'Can you see the Himalayas from Kathmandu?', answer: "On clear mornings (best October–April) you can glimpse snow peaks from viewpoints around the valley like Nagarkot, a popular sunrise day trip. For a guaranteed close-up, many travelers take a scenic 'Everest mountain flight' from Kathmandu airport. A local guide can arrange either around your itinerary." },
+      { question: 'Is Kathmandu safe and easy to get around?', answer: "Kathmandu is generally safe for travelers; the main challenges are traffic, crowds and air quality rather than crime. The old city is best explored on foot with a guide who knows the maze of lanes, while tuk-tuks, taxis and private transport cover longer distances. A mask for dusty days is handy." }
+    ]
+  },
+  'Pokhara': {
+    title: 'Pokhara Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Pokhara with local guides — Phewa Lake boating, paragliding, Sarangkot sunrise, Annapurna views and the gateway to Himalayan treks.',
+    intro: [
+      "Pokhara is Nepal's adventure and relaxation capital — a laid-back lakeside city beneath the dramatic Annapurna range and the fishtail peak of Machhapuchhre. It's where trekkers unwind and adventurers take to the skies.",
+      "With a local guide you'll row or sail on tranquil Phewa Lake, catch a fiery Himalayan sunrise from Sarangkot, soar over the valley on a tandem paraglide, and visit the World Peace Pagoda and serene caves — or use Pokhara as the gateway to the Annapurna and Poon Hill treks."
+    ],
+    whyBook: ['Local guides for the best viewpoints & timings', 'Adventure activities arranged safely', 'Gateway to Annapurna treks', 'Small-group and private options'],
+    topAttractions: ['Phewa Lake', 'Sarangkot (sunrise viewpoint)', 'World Peace Pagoda', 'Paragliding', 'Davis Falls', 'Gupteshwor Cave', 'Begnas Lake', 'International Mountain Museum'],
+    bestTime: 'The best time to visit Pokhara is from September to November and March to April, when skies are clear for Annapurna views, paragliding and trekking. Early mornings offer the sharpest mountain panoramas before clouds build.',
+    faqs: [
+      { question: 'Is Pokhara good for non-trekkers?', answer: "Very much so. Even if you never set foot on a trail, Pokhara is one of Nepal's most relaxing destinations — boating on Phewa Lake, lakeside cafés, the World Peace Pagoda, Sarangkot sunrises and paragliding all need little or no hiking. It's a perfect counterpoint to busy Kathmandu." },
+      { question: 'How good is paragliding in Pokhara?', answer: "Pokhara is one of the world's top tandem paragliding spots, thanks to reliable thermals, the lake below and the Annapurna backdrop. Flights launch from Sarangkot with certified pilots and need no experience. Mornings generally offer the calmest, clearest conditions; a local operator handles all the gear and safety." },
+      { question: 'Is Pokhara the start of the Annapurna treks?', answer: "Yes — Pokhara is the main gateway for treks like Annapurna Base Camp, Poon Hill (Ghorepani) and Mardi Himal. Many travelers spend a day or two enjoying the lake before or after a trek. Guided trekking arrangements, permits and transport to trailheads can all be organised here." }
+    ]
+  },
+  'Chitwan': {
+    title: 'Chitwan Tours & Things to Do | Nepal Jungle Safari by Locals',
+    description: 'Discover Chitwan with local guides — jungle safaris in Chitwan National Park, rhino & elephant spotting, canoe trips and Tharu cultural experiences.',
+    intro: [
+      "Chitwan is Nepal's premier wildlife destination — a UNESCO-listed national park of dense sal forest, grasslands and rivers in the subtropical lowlands, and one of the best places in Asia to see greater one-horned rhinos in the wild.",
+      "With a local naturalist guide you'll head out on jeep safaris and dugout-canoe trips in search of rhinos, deer, crocodiles, birds and — if you're lucky — a Bengal tiger, then experience the culture of the indigenous Tharu people through village walks and traditional stick dances."
+    ],
+    whyBook: ['Licensed naturalist guides who find the wildlife', 'Ethical, park-regulated safari experiences', 'Tharu cultural immersion', 'Small-group and private options'],
+    topAttractions: ['Chitwan National Park', 'Jeep safari (rhinos & deer)', 'Dugout canoe trips', 'Tharu village & cultural show', 'Elephant Breeding Centre', 'Rapti River sunset', 'Birdwatching', 'Jungle walks'],
+    bestTime: 'The best time to visit Chitwan is from October to March, when the weather is dry and pleasant and wildlife gathers near water sources. The cooler months also bring excellent birdwatching, while spring offers higher chances of tiger sightings.',
+    faqs: [
+      { question: 'Will I actually see rhinos and tigers in Chitwan?', answer: "Greater one-horned rhino sightings are very common — Chitwan has one of the largest populations in the world, and most multi-activity safaris encounter them. Tigers are present but elusive; sightings are a lucky bonus rather than a guarantee. You'll also reliably see deer, monkeys, crocodiles, and a huge variety of birds with a good naturalist guide." },
+      { question: 'Is elephant riding part of the safari?', answer: "Responsible operators have moved away from elephant-back safaris toward ethical alternatives — jeep safaris, canoe trips, guided jungle walks and visits to the elephant breeding centre. We focus on wildlife-watching that respects animal welfare; ask for the jeep and canoe-based itineraries." },
+      { question: 'How do I get to Chitwan?', answer: "Chitwan (Sauraha) is about 5–6 hours by road from Kathmandu or Pokhara, or a short domestic flight to Bharatpur followed by a 30-minute drive. Most visitors stay 2 nights to fit in a full range of safari activities. Guided packages can include transport and park permits." }
+    ]
+  },
+  'Bhaktapur': {
+    title: 'Bhaktapur Tours & Things to Do | Nepal Heritage by Locals',
+    description: 'Discover Bhaktapur with local guides — the medieval Durbar Square, Nyatapola Temple, Pottery Square and living Newari heritage near Kathmandu.',
+    intro: [
+      "Bhaktapur is the best-preserved of the Kathmandu Valley's three royal cities — a remarkably intact medieval town of brick temples, carved wooden windows, open courtyards and artisans still working as they have for centuries. Walking in is like stepping back several hundred years.",
+      "With a local guide you'll explore the UNESCO Durbar Square, marvel at the five-storey Nyatapola Temple, watch potters at work in Pottery Square, and taste the town's famous 'juju dhau' (king curd) — all while learning the living Newari traditions that make Bhaktapur unique."
+    ],
+    whyBook: ['Guides who reveal the living Newari culture & crafts', 'The valley\'s best-preserved medieval city', 'Easy half-day trip from Kathmandu', 'Small-group and private options'],
+    topAttractions: ['Bhaktapur Durbar Square', 'Nyatapola Temple', 'Pottery Square', 'Dattatreya Square', '55-Window Palace', 'Taumadhi Square', 'Peacock Window', 'Juju Dhau (king curd)'],
+    bestTime: 'The best time to visit Bhaktapur is from October to April, with clear, mild weather ideal for wandering the squares and lanes. Mornings are wonderful for watching artisans and potters begin their day before the tour buses arrive.',
+    faqs: [
+      { question: 'Is Bhaktapur worth visiting from Kathmandu?', answer: "Absolutely — many travelers find Bhaktapur the most atmospheric of the valley's cities precisely because it's so well preserved and largely traffic-free. Its Durbar Square, Nyatapola Temple and Pottery Square are highlights of any Kathmandu Valley itinerary. A half-day guided visit is easy and richly rewarding." },
+      { question: 'How far is Bhaktapur from Kathmandu?', answer: "Bhaktapur is about 13 km east of Kathmandu — roughly 45 minutes to an hour by car depending on traffic. It makes an easy half-day or full-day trip, and pairs well with the nearby viewpoint town of Nagarkot for a Himalayan sunset or sunrise." },
+      { question: 'Is there an entry fee for Bhaktapur?', answer: "Yes — Bhaktapur charges a heritage entry fee for foreign visitors, which funds the ongoing preservation of the old city (including restoration after the 2015 earthquake). Keep your ticket with you as it's checked at the city gates. Guided tours can advise on current fees and what's included." }
+    ]
+  },
+  'Lumbini': {
+    title: 'Lumbini Tours & Things to Do | Birthplace of Buddha',
+    description: 'Discover Lumbini with local guides — the sacred Maya Devi Temple birthplace of Buddha, the monastic zone, Ashoka Pillar and peaceful pilgrimage sites.',
+    intro: [
+      "Lumbini is one of the world's most significant pilgrimage sites — the birthplace of Siddhartha Gautama, the Buddha, and a UNESCO World Heritage Site set in the peaceful plains of southern Nepal. It draws pilgrims and travelers seeking history and serenity alike.",
+      "With a local guide you'll visit the sacred Maya Devi Temple marking the exact birth spot, see the ancient Ashoka Pillar, and explore the tranquil Monastic Zone where countries from around the Buddhist world have built distinctive temples and monasteries amid gardens and reflecting pools."
+    ],
+    whyBook: ['Guides who explain the Buddhist history & significance', 'Navigate the large sacred complex efficiently', 'A calm, meaningful pilgrimage experience', 'Small-group and private options'],
+    topAttractions: ['Maya Devi Temple', 'Sacred Garden & Puskarini Pond', 'Ashoka Pillar', 'Monastic Zone (international temples)', 'World Peace Pagoda', 'Lumbini Museum', 'Eternal Peace Flame', 'Bodhi Tree'],
+    bestTime: 'The best time to visit Lumbini is from October to March, when the lowland weather is cool and comfortable for exploring the large complex. Avoid the intense heat of April–June. Early morning visits are peaceful and ideal for quiet reflection.',
+    faqs: [
+      { question: 'How much time do you need in Lumbini?', answer: "A full day lets you visit the Maya Devi Temple and Sacred Garden, the Ashoka Pillar, and explore the expansive Monastic Zone with its international temples — the complex is large, so cycling or an electric rickshaw helps. Some pilgrims stay overnight to experience the calm of early morning and evening prayers." },
+      { question: 'How do I get to Lumbini?', answer: "Lumbini is in southern Nepal near the Indian border. It's a short flight to Bhairahawa (Gautam Buddha Airport) from Kathmandu followed by a 30–45 minute drive, or a longer road journey. It's often combined with Chitwan or a trip across to India's Buddhist circuit. Guided arrangements can include transport." },
+      { question: 'What should I know before visiting the Maya Devi Temple?', answer: "The Maya Devi Temple is deeply sacred, marking the precise spot of the Buddha's birth. Modest dress is expected, shoes are removed before entering, and photography is restricted inside the temple. The surrounding Sacred Garden, ancient pond and Ashoka Pillar are serene spots for reflection — a guide helps you understand what you're seeing." }
+    ]
+  },
   'Agra': {
     title: 'Agra Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover the best tours in Agra with licensed local guides. Taj Mahal sunrise tours, heritage walks, food tours & day trips.',

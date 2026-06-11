@@ -49,6 +49,52 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Kashmir Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Kashmir tours with verified local guides. Dal Lake shikara rides, Gulmarg gondola trips, Mughal Gardens walks, Pahalgam treks & houseboat stays. Free cancellation.',
   },
+  // --- SRI LANKA ---
+  'Colombo': {
+    title: 'Colombo Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
+    description: 'Colombo tours with local guides. City sightseeing, Pettah market & Gangaramaya temple walks, street food tours, tuk-tuk experiences & day trips. Free cancellation.',
+  },
+  'Kandy': {
+    title: 'Kandy Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
+    description: 'Kandy tours with local guides. Temple of the Sacred Tooth Relic, cultural dance shows, Royal Botanical Gardens, tea plantation trips & city tours. Free cancellation.',
+  },
+  'Galle': {
+    title: 'Galle Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
+    description: 'Galle tours with local guides. Dutch Fort UNESCO ramparts walks, lighthouse, beaches, whale watching & day trips from Colombo. Free cancellation.',
+  },
+  'Sigiriya': {
+    title: 'Sigiriya Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
+    description: 'Sigiriya tours with local guides. Lion Rock Fortress climbs, ancient frescoes, Dambulla cave temples & Minneriya elephant safaris. Free cancellation.',
+  },
+  'Ella': {
+    title: 'Ella Tours & Things to Do 2026 | Sri Lanka Hill Country Experiences',
+    description: 'Ella tours with local guides. Nine Arches Bridge, Little Adam’s Peak hikes, scenic train rides, tea plantation visits & waterfalls. Free cancellation.',
+  },
+  'Nuwara Eliya': {
+    title: 'Nuwara Eliya Tours & Things to Do 2026 | Sri Lanka Tea Country',
+    description: 'Nuwara Eliya tours with local guides. Tea estate & factory visits, Horton Plains World’s End treks, Gregory Lake & colonial hill-country tours. Free cancellation.',
+  },
+  // --- NEPAL ---
+  'Kathmandu': {
+    title: 'Kathmandu Tours & Things to Do 2026 | Nepal Guided Experiences',
+    description: 'Kathmandu tours with local guides. Durbar Square, Swayambhunath & Boudhanath stupas, Pashupatinath temple walks, Himalayan day trips. Free cancellation.',
+  },
+  'Pokhara': {
+    title: 'Pokhara Tours & Things to Do 2026 | Nepal Guided Experiences',
+    description: 'Pokhara tours with local guides. Phewa Lake boating, paragliding, Sarangkot sunrise & Annapurna views, World Peace Pagoda & trekking gateway. Free cancellation.',
+  },
+  'Chitwan': {
+    title: 'Chitwan Tours & Things to Do 2026 | Nepal Safari Experiences',
+    description: 'Chitwan tours with local guides. Chitwan National Park jungle safaris, rhino & elephant spotting, canoe trips & Tharu cultural shows. Free cancellation.',
+  },
+  'Bhaktapur': {
+    title: 'Bhaktapur Tours & Things to Do 2026 | Nepal Heritage Experiences',
+    description: 'Bhaktapur tours with local guides. Medieval Durbar Square, Nyatapola Temple, Pottery Square & Newari heritage walks near Kathmandu. Free cancellation.',
+  },
+  'Lumbini': {
+    title: 'Lumbini Tours & Things to Do 2026 | Birthplace of Buddha',
+    description: 'Lumbini tours with local guides. Maya Devi Temple, the sacred birthplace of Buddha, monastic zone & pilgrimage experiences. Free cancellation.',
+  },
 };
 
 // Pre-render priority city pages at build time for fastest TTFB
@@ -72,7 +118,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const meta = CITY_META[cityName];
   const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
   const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
-  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Chiang Mai', 'Mumbai', 'Goa', 'Kashmir'].includes(cityName);
+  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Chiang Mai', 'Mumbai', 'Goa', 'Kashmir', 'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Ella', 'Nuwara Eliya', 'Kathmandu', 'Pokhara', 'Chitwan', 'Bhaktapur', 'Lumbini'].includes(cityName);
 
   return {
     title,
