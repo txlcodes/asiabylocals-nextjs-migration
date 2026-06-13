@@ -196,12 +196,6 @@ export const KASHMIR_INFO_SLUGS = [
 
 // Shared city locations/places - used in both tour creation and city pages
 export const CITY_LOCATIONS: Record<string, string[]> = {
-  // --- THAILAND ---
-  'Chiang Mai': [
-    'Old City', 'Wat Phra That Doi Suthep', 'Wat Chedi Luang', 'Wat Phra Singh',
-    'Nimmanhaemin Road', 'Sunday Walking Street', 'Doi Inthanon National Park',
-    'Elephant Sanctuary', 'Mae Sa Valley', "Bua Thong Sticky Waterfalls", 'Warorot Market'
-  ],
   // --- SRI LANKA ---
   'Colombo': [
     'Gangaramaya Temple', 'Pettah Market', 'Galle Face Green', 'Old Dutch Hospital',
