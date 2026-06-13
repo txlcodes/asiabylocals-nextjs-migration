@@ -58,10 +58,10 @@ export const COUNTRY_CITIES: Record<string, string[]> = {
     ],
     'Hong Kong': ['Hong Kong'],
     'Sri Lanka': [
-        'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Anuradhapura', 'Ella'
+        'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Anuradhapura', 'Ella', 'Nuwara Eliya'
     ],
     'Nepal': [
-        'Kathmandu', 'Pokhara', 'Chitwan', 'Lumbini', 'Nagarkot'
+        'Kathmandu', 'Pokhara', 'Chitwan', 'Lumbini', 'Nagarkot', 'Bhaktapur'
     ],
     'Cambodia': [
         'Siem Reap', 'Phnom Penh', 'Battambang', 'Kampot', 'Kep'

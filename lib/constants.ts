@@ -196,6 +196,68 @@ export const KASHMIR_INFO_SLUGS = [
 
 // Shared city locations/places - used in both tour creation and city pages
 export const CITY_LOCATIONS: Record<string, string[]> = {
+  // --- THAILAND ---
+  'Chiang Mai': [
+    'Old City', 'Wat Phra That Doi Suthep', 'Wat Chedi Luang', 'Wat Phra Singh',
+    'Nimmanhaemin Road', 'Sunday Walking Street', 'Doi Inthanon National Park',
+    'Elephant Sanctuary', 'Mae Sa Valley', "Bua Thong Sticky Waterfalls", 'Warorot Market'
+  ],
+  // --- SRI LANKA ---
+  'Colombo': [
+    'Gangaramaya Temple', 'Pettah Market', 'Galle Face Green', 'Old Dutch Hospital',
+    'Independence Square', 'Red Mosque (Jami Ul-Alfar)', 'National Museum',
+    'Viharamahadevi Park', 'Beira Lake', 'Mount Lavinia Beach'
+  ],
+  'Kandy': [
+    'Temple of the Sacred Tooth Relic', 'Kandy Lake', 'Royal Botanical Gardens, Peradeniya',
+    'Bahirawakanda Buddha Statue', 'Udawattakele Forest Reserve', 'Kandy View Point',
+    'Ceylon Tea Museum', 'Kandy Market'
+  ],
+  'Galle': [
+    'Galle Dutch Fort', 'Galle Lighthouse', 'Dutch Reformed Church', 'Maritime Museum',
+    'Flag Rock', 'Unawatuna Beach', 'Jungle Beach', 'Japanese Peace Pagoda'
+  ],
+  'Sigiriya': [
+    'Sigiriya Lion Rock', 'Sigiriya Frescoes', 'Pidurangala Rock', 'Dambulla Cave Temple',
+    'Minneriya National Park', 'Kaudulla National Park', 'Sigiriya Museum', 'Water Gardens'
+  ],
+  'Ella': [
+    'Nine Arches Bridge', "Little Adam's Peak", 'Ella Rock', 'Ravana Falls', 'Ravana Cave',
+    'Demodara Loop', 'Tea Plantations', "Lipton's Seat"
+  ],
+  'Nuwara Eliya': [
+    'Horton Plains National Park', "World's End", 'Gregory Lake', 'Pedro Tea Estate',
+    'Hakgala Botanical Gardens', "Lover's Leap Waterfall", 'Victoria Park', 'Ambewela Farm'
+  ],
+  'Anuradhapura': [
+    'Ruwanwelisaya', 'Sri Maha Bodhi', 'Jetavanaramaya', 'Abhayagiri Dagoba',
+    'Isurumuniya Temple', 'Thuparamaya', 'Mihintale', 'Twin Ponds (Kuttam Pokuna)'
+  ],
+  // --- NEPAL ---
+  'Kathmandu': [
+    'Kathmandu Durbar Square', 'Swayambhunath (Monkey Temple)', 'Boudhanath Stupa',
+    'Pashupatinath Temple', 'Thamel', 'Garden of Dreams', 'Asan Bazaar', 'Kopan Monastery'
+  ],
+  'Pokhara': [
+    'Phewa Lake', 'Sarangkot', 'World Peace Pagoda', 'Davis Falls', 'Gupteshwor Cave',
+    'Begnas Lake', 'International Mountain Museum', 'Bindhyabasini Temple'
+  ],
+  'Chitwan': [
+    'Chitwan National Park', 'Rapti River', 'Elephant Breeding Centre', 'Tharu Village',
+    'Bishazari Tal', 'Sauraha', 'Twenty Thousand Lakes'
+  ],
+  'Bhaktapur': [
+    'Bhaktapur Durbar Square', 'Nyatapola Temple', 'Pottery Square', 'Dattatreya Square',
+    '55-Window Palace', 'Taumadhi Square', 'Peacock Window'
+  ],
+  'Lumbini': [
+    'Maya Devi Temple', 'Sacred Garden', 'Ashoka Pillar', 'Monastic Zone',
+    'World Peace Pagoda', 'Lumbini Museum', 'Eternal Peace Flame', 'Bodhi Tree'
+  ],
+  'Nagarkot': [
+    'Nagarkot View Tower', 'Sunrise Viewpoint', 'Nagarkot Nature Trail',
+    'Mahakali Temple', 'Changu Narayan'
+  ],
   'Delhi': [
     'India Gate', 'Jama Masjid', 'Qutb Minar', 'Chandni Chowk', "Humayun's Tomb",
     'Mehrauli New Delhi', 'Lotus Temple', 'Nizamuddin East New Delhi', 'Old Delhi',
