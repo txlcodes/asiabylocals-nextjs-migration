@@ -624,7 +624,7 @@ export default function HomepageClient() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative h-screen flex items-center justify-center overflow-hidden">
+      <section className="relative h-screen flex items-center justify-center overflow-x-clip">
         {HERO_IMAGES.map((hero, index) => {
           // Only render current slide and next slide (for smooth transition)
           const nextIndex = (currentImageIndex + 1) % HERO_IMAGES.length;
@@ -668,7 +668,7 @@ export default function HomepageClient() {
               />
 
               {showSuggestions && filteredSuggestions.length > 0 && (
-                <div className="absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-2xl border border-gray-200 overflow-hidden z-50">
+                <div className="absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-2xl border border-gray-200 max-h-[min(60vh,380px)] overflow-y-auto z-[60]">
                   {filteredSuggestions.slice(0, 8).map((city) => (
                     <button
                       key={city.slug}
