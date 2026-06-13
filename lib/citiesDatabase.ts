@@ -137,12 +137,14 @@ export const ASIAN_CITIES_DATABASE: CityInfo[] = [
   { name: 'Sigiriya', country: 'Sri Lanka', region: 'South Asia', type: 'City' },
   { name: 'Anuradhapura', country: 'Sri Lanka', region: 'South Asia', type: 'City' },
   { name: 'Ella', country: 'Sri Lanka', region: 'South Asia', type: 'City' },
+  { name: 'Nuwara Eliya', country: 'Sri Lanka', region: 'South Asia', type: 'City' },
   // Nepal
   { name: 'Kathmandu', country: 'Nepal', region: 'South Asia', type: 'City' },
   { name: 'Pokhara', country: 'Nepal', region: 'South Asia', type: 'City' },
   { name: 'Chitwan', country: 'Nepal', region: 'South Asia', type: 'City' },
   { name: 'Lumbini', country: 'Nepal', region: 'South Asia', type: 'City' },
   { name: 'Nagarkot', country: 'Nepal', region: 'South Asia', type: 'City' },
+  { name: 'Bhaktapur', country: 'Nepal', region: 'South Asia', type: 'City' },
   // Bangladesh
   { name: 'Dhaka', country: 'Bangladesh', region: 'South Asia', type: 'City' },
   { name: 'Chittagong', country: 'Bangladesh', region: 'South Asia', type: 'City' },

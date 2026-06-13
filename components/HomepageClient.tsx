@@ -345,10 +345,10 @@ export default function HomepageClient() {
     if (!searchQuery) return [];
     const query = searchQuery.toLowerCase();
     return focusCities
-      .filter(city => city.name.toLowerCase().includes(query))
+      .filter(city => city.name.toLowerCase().includes(query) || city.country.toLowerCase().includes(query))
       .sort((a, b) => {
-        const aStarts = a.name.toLowerCase().startsWith(query);
-        const bStarts = b.name.toLowerCase().startsWith(query);
+        const aStarts = a.name.toLowerCase().startsWith(query) || a.country.toLowerCase().startsWith(query);
+        const bStarts = b.name.toLowerCase().startsWith(query) || b.country.toLowerCase().startsWith(query);
         if (aStarts && !bStarts) return -1;
         if (!aStarts && bStarts) return 1;
         return a.name.toLowerCase().localeCompare(b.name.toLowerCase());
@@ -372,7 +372,8 @@ export default function HomepageClient() {
       router.push(`/${countrySlug}/${matchedCity.slug}`);
     } else {
       const fuzzyMatch = focusCities.find(city =>
-        city.name.toLowerCase().includes(query.toLowerCase())
+        city.name.toLowerCase().includes(query.toLowerCase()) ||
+        city.country.toLowerCase().includes(query.toLowerCase())
       );
       if (fuzzyMatch) {
         const countrySlug = fuzzyMatch.country.toLowerCase().replace(/\s+/g, '-');
