@@ -9,6 +9,7 @@ import { randomBytes, createHmac } from 'crypto';
 import Razorpay from 'razorpay';
 import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, sendBookingConfirmationEmail, sendAdminPaymentNotificationEmail, sendTourApprovalEmail, sendTourRejectionEmail, sendReviewRequestEmail } from './utils/email.js';
 import { startReviewScheduler, sendDueReviewRequests } from './reviewScheduler.js';
+import { sendBookingAlert } from './bookingPush.js';
 import { uploadMultipleImages } from './utils/cloudinary.js';
 import { generateInvoicePDF } from './utils/invoice.js';
 import { generateSitemap } from './generate-sitemap.js';
@@ -8013,6 +8014,19 @@ app.post('/api/bookings', async (req, res) => {
       whatsappLink = `https://wa.me/${cleanWhatsApp}?text=${whatsappMessage}`;
       console.log(`📱 WhatsApp link generated for guide: ${whatsappLink}`);
     }
+
+    // Instant iPhone push alert (non-blocking) — someone just tried to book
+    sendBookingAlert({
+      reference: bookingReference,
+      tourTitle: tourDetails?.title,
+      customerName,
+      customerPhone,
+      customerEmail,
+      guests: numberOfGuests,
+      amount: totalAmount,
+      currency: currency || 'USD',
+      specialRequests,
+    });
 
     res.json({
       success: true,
