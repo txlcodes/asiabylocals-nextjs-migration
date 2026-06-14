@@ -2283,6 +2283,32 @@ export default function AdminClient() {
                                 <p className="text-[14px] text-[#001A33]">{booking.specialRequests}</p>
                               </div>
                             )}
+                            {/* Contact customer (follow up leads — esp. pending/unpaid) */}
+                            {booking.customerPhone && (
+                              <div className="mt-3 flex flex-wrap items-center gap-2">
+                                <span className="text-[12px] text-gray-500 font-semibold">Reach customer:</span>
+                                <a
+                                  href={`https://wa.me/${booking.customerPhone.replace(/[^\d+]/g, '')}?text=${encodeURIComponent(`Hi ${booking.customerName}! Thanks for your interest in ${booking.tour?.title || 'our tour'} with AsiaByLocals. I'd love to personally help you finalise your booking${booking.specialRequests ? ` — regarding your note: "${booking.specialRequests}"` : ''}. How can I help?`)}`}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="px-3 py-2 bg-green-500/10 text-green-700 text-[12px] font-bold rounded-lg hover:bg-green-500/20 transition-colors"
+                                >
+                                  💬 WhatsApp customer
+                                </a>
+                                <a
+                                  href={`tel:${booking.customerPhone.replace(/[^\d+]/g, '')}`}
+                                  className="px-3 py-2 bg-gray-100 text-gray-700 text-[12px] font-bold rounded-lg hover:bg-gray-200 transition-colors"
+                                >
+                                  📞 {booking.customerPhone}
+                                </a>
+                                <a
+                                  href={`mailto:${booking.customerEmail}`}
+                                  className="px-3 py-2 bg-gray-100 text-gray-700 text-[12px] font-bold rounded-lg hover:bg-gray-200 transition-colors"
+                                >
+                                  ✉️ Email
+                                </a>
+                              </div>
+                            )}
                             {/* Review Link Actions */}
                             {booking.paymentStatus === 'paid' && (
                               <div className="mt-3 flex flex-wrap gap-2">
