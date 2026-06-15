@@ -8180,6 +8180,47 @@ app.get('/api/bookings/:bookingId/confirmation', async (req, res) => {
 
 // ==================== PAYMENT ENDPOINTS ====================
 
+/**
+ * Create a Razorpay order.
+ *
+ * Razorpay's edge returns HTTP 406 to requests from our Render (US) server IP.
+ * When RAZORPAY_PROXY_URL is set, we route the order-creation request through a
+ * Cloudflare Worker (a non-blocked origin) instead of calling Razorpay directly.
+ * When it is NOT set, we fall back to the normal SDK call — so this change is a
+ * no-op until the proxy env vars are configured.
+ */
+async function createRazorpayOrder({ amount, currency, receipt, notes, keyId, keySecret }) {
+  const proxyUrl = process.env.RAZORPAY_PROXY_URL;
+
+  if (proxyUrl) {
+    const auth = Buffer.from(`${keyId}:${keySecret}`).toString('base64');
+    const resp = await fetch(`${proxyUrl.replace(/\/$/, '')}/v1/orders`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Basic ${auth}`,
+        'Content-Type': 'application/json',
+        'x-proxy-secret': process.env.RAZORPAY_PROXY_SECRET || ''
+      },
+      body: JSON.stringify({ amount, currency, receipt, notes })
+    });
+
+    const data = await resp.json().catch(() => ({}));
+    if (!resp.ok) {
+      // Re-shape so the caller's catch block logs/surfaces it like an SDK error.
+      const err = new Error(data?.error?.description || `Razorpay proxy returned HTTP ${resp.status}`);
+      err.statusCode = resp.status;
+      err.error = data?.error;
+      throw err;
+    }
+    console.log('✅ Razorpay order created via proxy:', data.id);
+    return data;
+  }
+
+  // Fallback: direct SDK call (original behaviour)
+  const razorpay = new Razorpay({ key_id: keyId, key_secret: keySecret });
+  return razorpay.orders.create({ amount, currency, receipt, notes });
+}
+
 // Create Razorpay order
 app.post('/api/payments/create-order', async (req, res) => {
   try {
@@ -8214,40 +8255,54 @@ app.post('/api/payments/create-order', async (req, res) => {
       });
     }
 
-    const razorpay = new Razorpay({
-      key_id: razorpayKeyId,
-      key_secret: razorpayKeySecret
-    });
-
-    // Create Razorpay order
+    // Create Razorpay order (routes through proxy if RAZORPAY_PROXY_URL is set)
     console.log('Creating Razorpay order with:', {
       amount,
       currency: currency || 'USD',
-      bookingId
+      bookingId,
+      viaProxy: !!process.env.RAZORPAY_PROXY_URL
     });
 
     let order;
     try {
-      order = await razorpay.orders.create({
+      order = await createRazorpayOrder({
         amount: amount, // Amount in paise (smallest currency unit)
         currency: currency || 'USD',
         receipt: `booking_${bookingId}`,
         notes: {
           bookingId: bookingId.toString()
-        }
+        },
+        keyId: razorpayKeyId,
+        keySecret: razorpayKeySecret
       });
       console.log('✅ Razorpay order created:', order.id);
     } catch (orderError) {
+      // Surface the real Razorpay error instead of hiding it behind a generic string.
+      // Razorpay SDK errors nest the useful info under .error; dump the whole thing so
+      // production logs always show the true cause (auth failure, amount too low, etc.).
+      const rzpStatus = orderError.statusCode;
+      const rzpCode = orderError.error?.code;
+      const rzpDescription = orderError.error?.description || orderError.error?.reason;
       console.error('❌ Razorpay order creation failed:', {
-        error: orderError.message,
-        statusCode: orderError.statusCode,
-        errorDescription: orderError.error?.description,
-        errorCode: orderError.error?.code
+        statusCode: rzpStatus,
+        errorCode: rzpCode,
+        errorDescription: rzpDescription,
+        message: orderError.message,
+        raw: JSON.stringify(orderError.error || orderError)
       });
-      return res.status(500).json({
+
+      // A 401 from Razorpay means the key/secret on THIS server are wrong/missing
+      // (most commonly the Render env vars are out of sync with the working keys).
+      const isAuthError = rzpStatus === 401 || rzpCode === 'BAD_REQUEST_ERROR' && /auth/i.test(rzpDescription || '');
+      const clientMessage = isAuthError
+        ? 'Payment gateway authentication failed. The Razorpay API keys on the server are invalid or missing.'
+        : rzpDescription || orderError.message || 'Failed to create payment order. Please check Razorpay configuration.';
+
+      return res.status(rzpStatus && rzpStatus >= 400 && rzpStatus < 500 ? rzpStatus : 500).json({
         success: false,
         error: 'Order creation failed',
-        message: orderError.error?.description || orderError.message || 'Failed to create payment order. Please check Razorpay configuration.'
+        code: rzpCode,
+        message: clientMessage
       });
     }
 
