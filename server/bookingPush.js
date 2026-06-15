@@ -42,3 +42,38 @@ export async function sendBookingAlert(b) {
     console.error('Booking push failed (non-fatal):', e.message);
   }
 }
+
+// ✅ Payment received — money actually landed for a booking.
+export async function sendPaymentAlert(b) {
+  if (!NTFY_TOPIC) return;
+  try {
+    const wa = (b.customerPhone || '').replace(/[^\d+]/g, '');
+    const lines = [
+      `${b.customerName} · ${b.guests} guest(s) · ${b.currency || 'USD'} ${b.amount}`,
+      `📞 ${b.customerPhone || 'no phone'}${b.customerEmail ? ` · ${b.customerEmail}` : ''}`,
+      `Ref ${b.reference}`,
+    ];
+
+    const payload = {
+      topic: NTFY_TOPIC,
+      title: `✅ PAYMENT RECEIVED — ${b.tourTitle || 'Tour'}`,
+      message: lines.join('\n'),
+      priority: 5, // max — makes it pop on the phone
+      tags: ['white_check_mark', 'moneybag'],
+    };
+    if (wa) {
+      payload.click = `https://wa.me/${wa}`;
+      payload.actions = [
+        { action: 'view', label: `💬 Message ${b.customerName?.split(' ')[0] || 'customer'}`, url: `https://wa.me/${wa}` },
+      ];
+    }
+    await fetch(NTFY_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+    console.log(`🔔 Payment push sent (topic: ${NTFY_TOPIC})`);
+  } catch (e) {
+    console.error('Payment push failed (non-fatal):', e.message);
+  }
+}

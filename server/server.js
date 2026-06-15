@@ -9,7 +9,7 @@ import { randomBytes, createHmac } from 'crypto';
 import Razorpay from 'razorpay';
 import { sendVerificationEmail, sendWelcomeEmail, sendBookingNotificationEmail, sendBookingConfirmationEmail, sendAdminPaymentNotificationEmail, sendTourApprovalEmail, sendTourRejectionEmail, sendReviewRequestEmail } from './utils/email.js';
 import { startReviewScheduler, sendDueReviewRequests } from './reviewScheduler.js';
-import { sendBookingAlert } from './bookingPush.js';
+import { sendBookingAlert, sendPaymentAlert } from './bookingPush.js';
 import { uploadMultipleImages } from './utils/cloudinary.js';
 import { generateInvoicePDF } from './utils/invoice.js';
 import { generateSitemap } from './generate-sitemap.js';
@@ -8552,6 +8552,17 @@ app.post('/api/verify-payment', async (req, res) => {
       currency: existingBooking.currency,
       timestamp: new Date().toISOString(),
       invoiceUrl: invoiceUrl
+    });
+
+    // Instant push alert to owner (non-blocking) — payment received
+    sendPaymentAlert({
+      reference: bookingReference,
+      tourTitle: booking.tour?.title,
+      customerName: booking.customerName,
+      customerPhone: booking.customerPhone,
+      guests: booking.numberOfGuests,
+      amount: booking.totalAmount,
+      currency: booking.currency,
     });
 
     // Send confirmation email to customer

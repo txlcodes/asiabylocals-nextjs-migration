@@ -2191,6 +2191,33 @@ export default function AdminClient() {
                       day: 'numeric',
                     });
 
+                    // When the customer actually placed this booking — for fast lead follow-up.
+                    const createdAt = booking.createdAt ? new Date(booking.createdAt) : null;
+                    const createdAtLabel = createdAt
+                      ? createdAt.toLocaleString('en-US', {
+                          month: 'short',
+                          day: 'numeric',
+                          year: 'numeric',
+                          hour: 'numeric',
+                          minute: '2-digit',
+                        })
+                      : null;
+                    const minsAgo = createdAt
+                      ? Math.max(0, Math.floor((Date.now() - createdAt.getTime()) / 60000))
+                      : null;
+                    const createdAgo =
+                      minsAgo === null
+                        ? null
+                        : minsAgo < 1
+                          ? 'just now'
+                          : minsAgo < 60
+                            ? `${minsAgo} min ago`
+                            : minsAgo < 1440
+                              ? `${Math.floor(minsAgo / 60)} hour${Math.floor(minsAgo / 60) === 1 ? '' : 's'} ago`
+                              : `${Math.floor(minsAgo / 1440)} day${Math.floor(minsAgo / 1440) === 1 ? '' : 's'} ago`;
+                    // Recent (≤2h) and not yet paid → a warm lead worth contacting now.
+                    const isHotLead = minsAgo !== null && minsAgo <= 120 && booking.paymentStatus !== 'paid';
+
                     return (
                       <div
                         key={booking.id}
@@ -2224,8 +2251,21 @@ export default function AdminClient() {
                               </span>
                             </div>
                             {booking.bookingReference && (
-                              <p className="text-[12px] text-gray-500 font-semibold mb-3">
+                              <p className="text-[12px] text-gray-500 font-semibold mb-1">
                                 Booking Reference: <span className="font-black text-[#001A33]">{booking.bookingReference}</span>
+                              </p>
+                            )}
+                            {createdAtLabel && (
+                              <p className="text-[12px] font-semibold mb-3 flex flex-wrap items-center gap-x-2 gap-y-1">
+                                <span className="text-gray-700">
+                                  🕒 Booked <span className="font-black text-[#001A33]">{createdAgo}</span>
+                                </span>
+                                <span className="text-gray-400">· {createdAtLabel}</span>
+                                {isHotLead && (
+                                  <span className="px-2 py-0.5 rounded-full bg-red-500 text-white text-[10px] font-black animate-pulse">
+                                    NEW LEAD — FOLLOW UP
+                                  </span>
+                                )}
                               </p>
                             )}
                             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-[14px] mb-4">
