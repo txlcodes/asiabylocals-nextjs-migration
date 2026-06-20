@@ -156,7 +156,27 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       .catch(() => {}); // Silently fail - hardcoded reviews are the fallback
   }, [initialTour?.id]);
 
-  const effectiveMaxGroupSize = Number(selectedOption?.maxGroupSize || tour?.maxGroupSize || 10);
+  // Largest group size the pricing actually covers. Tour OPTIONS don't persist a
+  // maxGroupSize column, so when it's absent we fall back to the highest maxPeople
+  // in the group pricing tiers (what the supplier actually priced) instead of a
+  // hardcoded 10 — otherwise a 1-person tour still offers up to 10 people.
+  const getTierMaxPeople = (data: any): number => {
+    let tiers = data?.groupPricingTiers;
+    if (typeof tiers === 'string') {
+      try { tiers = JSON.parse(tiers); } catch { tiers = null; }
+    }
+    if (Array.isArray(tiers) && tiers.length > 0) {
+      return tiers.reduce((m: number, t: any) => Math.max(m, Number(t.maxPeople) || 0), 0);
+    }
+    return 0;
+  };
+  const effectiveMaxGroupSize = Number(
+    selectedOption?.maxGroupSize ||
+    tour?.maxGroupSize ||
+    getTierMaxPeople(selectedOption) ||
+    getTierMaxPeople(tour) ||
+    10
+  );
 
   // Re-validate participants if maxGroupSize changes (e.g. when changing options)
   useEffect(() => {
@@ -848,7 +868,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
           customerPhone: `${guestData.countryCode}${guestData.phoneNumber}`,
           specialRequests: guestData.specialRequests || '',
           totalAmount: pendingBookingData.totalAmount,
-          currency: pendingBookingData.currency
+          currency: pendingBookingData.currency,
+          language: selectedLanguage || null
         }),
       });
 

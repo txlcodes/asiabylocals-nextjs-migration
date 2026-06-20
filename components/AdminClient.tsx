@@ -2296,19 +2296,26 @@ export default function AdminClient() {
                                 </p>
                               </div>
                             </div>
-                            <div className="grid grid-cols-2 gap-4 text-[14px]">
+                            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-[14px]">
                               <div>
                                 <p className="text-gray-500 font-semibold mb-1">Supplier/Guide</p>
                                 <p className="font-black text-[#001A33]">
                                   {booking.supplier?.fullName || booking.supplier?.companyName || 'Unknown'}
                                 </p>
                                 <p className="text-[12px] text-gray-500">{booking.supplier?.email}</p>
+                                {(booking.supplier?.whatsapp || booking.supplier?.phone) && (
+                                  <p className="text-[12px] text-gray-500">{booking.supplier?.whatsapp || booking.supplier?.phone}</p>
+                                )}
                               </div>
                               <div>
                                 <p className="text-gray-500 font-semibold mb-1">Location</p>
                                 <p className="font-black text-[#001A33]">
                                   {booking.tour?.city}, {booking.tour?.country}
                                 </p>
+                              </div>
+                              <div>
+                                <p className="text-gray-500 font-semibold mb-1">Language</p>
+                                <p className="font-black text-[#001A33]">{booking.language || '—'}</p>
                               </div>
                             </div>
                             {booking.razorpayPaymentId && (
@@ -2347,6 +2354,38 @@ export default function AdminClient() {
                                 >
                                   ✉️ Email
                                 </a>
+                              </div>
+                            )}
+                            {/* Contact supplier/guide */}
+                            {(booking.supplier?.whatsapp || booking.supplier?.phone || booking.supplier?.email) && (
+                              <div className="mt-2 flex flex-wrap items-center gap-2">
+                                <span className="text-[12px] text-gray-500 font-semibold">Reach supplier:</span>
+                                {(booking.supplier?.whatsapp || booking.supplier?.phone) && (
+                                  <a
+                                    href={`https://wa.me/${(booking.supplier?.whatsapp || booking.supplier?.phone || '').replace(/[^\d+]/g, '')}`}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-3 py-2 bg-green-500/10 text-green-700 text-[12px] font-bold rounded-lg hover:bg-green-500/20 transition-colors"
+                                  >
+                                    💬 WhatsApp guide
+                                  </a>
+                                )}
+                                {booking.supplier?.phone && (
+                                  <a
+                                    href={`tel:${booking.supplier.phone.replace(/[^\d+]/g, '')}`}
+                                    className="px-3 py-2 bg-gray-100 text-gray-700 text-[12px] font-bold rounded-lg hover:bg-gray-200 transition-colors"
+                                  >
+                                    📞 {booking.supplier.phone}
+                                  </a>
+                                )}
+                                {booking.supplier?.email && (
+                                  <a
+                                    href={`mailto:${booking.supplier.email}`}
+                                    className="px-3 py-2 bg-gray-100 text-gray-700 text-[12px] font-bold rounded-lg hover:bg-gray-200 transition-colors"
+                                  >
+                                    ✉️ Email guide
+                                  </a>
+                                )}
                               </div>
                             )}
                             {/* Review Link Actions */}
