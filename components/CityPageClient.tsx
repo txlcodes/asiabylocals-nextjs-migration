@@ -1195,6 +1195,103 @@ const CITY_DESCRIPTIONS: Record<string, {
         answer: 'The **Erawan Shrine** (Thao Maha Phrom) is one of Bangkok\'s most visited and spiritually significant landmarks, located at the intersection of Ratchadamri and Ploenchit Roads next to the Grand Hyatt Erawan hotel. It houses a golden four-faced Brahma statue — each face representing wealth, career, family, and health — and is visited daily by thousands of Thais and tourists who believe it grants wishes. Traditional offerings include jasmine garlands, wooden elephants, and commissioning classical dance performances from the resident troupe. The shrine was rebuilt in 1956 after construction accidents at the hotel, and its popularity skyrocketed after a series of fortunate coincidences. Entry is free. See our [Bangkok travel guide](/thailand/bangkok/bangkok-travel-guide-2026) for nearby attractions.'
       }
     ]
+  },
+  'Tokyo': {
+    title: 'Tokyo Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Tokyo with licensed local guides — Senso-ji & Asakusa, Shibuya & Shinjuku nightlife, Tsukiji food tours, Meiji Shrine, anime culture & day trips to Mt Fuji.',
+    intro: [
+      "Tokyo is a city of dazzling contrasts — centuries-old temples beside neon-lit skyscrapers, hushed shrine gardens minutes from the world's busiest crossing. With a knowledgeable local guide you'll move past the crowds and into the real rhythm of the city, from backstreet izakaya to dawn at a fish market.",
+      "From the incense and lanterns of Senso-ji in Asakusa to the energy of Shibuya and Shinjuku, the calm of Meiji Shrine and the food stalls of Tsukiji, Tokyo rewards travelers who explore it with someone who knows it. It's also the natural base for day trips to Mount Fuji, Hakone and Nikko."
+    ],
+    whyBook: ['Licensed, English-speaking local guides', 'Skip the confusion — navigate trains and neighborhoods like a local', 'Small-group and private options', 'Direct support to local guides'],
+    topAttractions: ['Senso-ji Temple (Asakusa)', 'Shibuya Crossing', 'Meiji Shrine', 'Tokyo Skytree', 'Tsukiji Outer Market', 'Shinjuku & Golden Gai', 'Tokyo Tower', 'Ginza', 'Akihabara', 'Ueno Park'],
+    bestTime: "The best times to visit Tokyo are spring (late March to April) for cherry blossoms and autumn (October to November) for crimson foliage and mild, clear weather. Summers are hot and humid, while winters are cold but dry with bright skies — ideal for crowd-free sightseeing.",
+    faqs: [
+      { question: 'How many days do I need in Tokyo?', answer: "Three to four days lets you cover the essentials comfortably — a day for Asakusa and the historic east, a day for Shibuya/Shinjuku and modern Tokyo, a day for Harajuku, Meiji Shrine and Tsukiji, plus a day trip to Mount Fuji or Hakone. A week lets you add Nikko, Kamakura and deeper neighborhood exploration." },
+      { question: 'Is it easy to get around Tokyo without speaking Japanese?', answer: "Yes. Tokyo's train and subway network is extensive, punctual and signposted in English, and an IC card (Suica/Pasmo) makes travel seamless. A local guide is still invaluable for the first day to help you decode the system, find hidden spots, and order confidently at local restaurants." },
+      { question: 'What food should I try in Tokyo?', answer: "Don't miss fresh sushi near Tsukiji, ramen and tsukemen, tempura, monjayaki, wagyu, and izakaya small plates. Street snacks like taiyaki and melon pan are everywhere. A guided food tour is the best way to eat widely without guessing which of thousands of options to trust." },
+      { question: 'Can I do a day trip to Mount Fuji from Tokyo?', answer: "Absolutely — Mount Fuji and the Hakone/Fuji Five Lakes area are popular full-day trips, roughly 2–2.5 hours each way by train or coach. Private and small-group guided day tours include the iconic viewpoints, a lake cruise and hot-spring stops, and take the stress out of the multi-leg transport." }
+    ]
+  },
+  'Kyoto': {
+    title: 'Kyoto Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Kyoto with local guides — Fushimi Inari, Kinkaku-ji Golden Pavilion, Arashiyama bamboo grove, Gion geisha district, tea ceremonies & temple walks.',
+    intro: [
+      "Kyoto is Japan's cultural heart — a thousand years of imperial history preserved in over 1,600 temples, classical gardens, and lantern-lit geisha streets. With a local guide you'll understand the etiquette and stories behind the sights, and slip away from the tour buses into Kyoto's quiet corners.",
+      "From the vermilion torii tunnels of Fushimi Inari and the gold-leaf shimmer of Kinkaku-ji to the bamboo groves of Arashiyama and the wooden teahouses of Gion, Kyoto rewards slow, knowledgeable exploration. It's an easy base for Nara and Osaka too."
+    ],
+    whyBook: ['Licensed local guides who know the etiquette and history', 'Beat the crowds at Fushimi Inari and Arashiyama', 'Authentic tea-ceremony and Gion experiences', 'Small-group and private options'],
+    topAttractions: ['Fushimi Inari Taisha', 'Kinkaku-ji (Golden Pavilion)', 'Arashiyama Bamboo Grove', 'Kiyomizu-dera', 'Gion District', 'Nijo Castle', 'Ginkaku-ji (Silver Pavilion)', 'Philosopher’s Path', 'Nishiki Market', 'Tenryu-ji Temple'],
+    bestTime: "The best times to visit Kyoto are spring (late March to mid-April) for cherry blossoms and autumn (mid-November to early December) for spectacular maple foliage. These are also the busiest seasons, so early mornings are best. Summer is hot and humid; winter is cold but peaceful with fewer crowds.",
+    faqs: [
+      { question: 'How many days do I need in Kyoto?', answer: "Two to three days covers the highlights — a day for eastern Kyoto (Fushimi Inari, Kiyomizu-dera, Gion), a day for the northwest (Kinkaku-ji, Arashiyama bamboo grove), and a third for gardens, tea ceremony and Nishiki Market. Add a half-day trip to nearby Nara for the deer park and Todai-ji." },
+      { question: 'How do I avoid the crowds at Fushimi Inari and Arashiyama?', answer: "Arrive early — ideally before 8:30 AM — or visit in the late afternoon/evening. Fushimi Inari is open 24 hours and is magical (and quiet) at dawn or after dark. A local guide can time your route to hit each site at its calmest and take you to the lesser-known upper trails most visitors miss." },
+      { question: 'Can I experience a real tea ceremony or wear a kimono in Kyoto?', answer: "Yes — Kyoto is the best place in Japan for both. Authentic tea ceremonies are offered by tea houses and machiya townhouses, and kimono rental shops near Gion and Kiyomizu let you stroll the historic streets in traditional dress. Guided experiences ensure you get the genuine, respectful version rather than a tourist gimmick." }
+    ]
+  },
+  'Osaka': {
+    title: 'Osaka Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Osaka with local guides — Dotonbori street food, Osaka Castle, Universal Studios Japan, Shinsekai, Kuromon Market & day trips to Nara and Kyoto.',
+    intro: [
+      "Osaka is Japan's friendliest, most food-obsessed city — famous for its bold flavors, neon canals and easy-going locals. Known as 'the nation's kitchen,' it's a place best explored with a guide who can lead you to the takoyaki stalls, kushikatsu counters and hidden bars that make it special.",
+      "From the glowing billboards of Dotonbori and the moated grandeur of Osaka Castle to the retro charm of Shinsekai and the market stalls of Kuromon, Osaka delivers nonstop energy. It's also perfectly placed for day trips to Nara, Kyoto and Kobe."
+    ],
+    whyBook: ['Licensed, English-speaking local guides', 'The best street food, chosen by locals not algorithms', 'Small-group and private options', 'Easy day trips to Nara, Kyoto and Kobe'],
+    topAttractions: ['Dotonbori', 'Osaka Castle', 'Kuromon Ichiba Market', 'Shinsekai & Tsutenkaku', 'Universal Studios Japan', 'Umeda Sky Building', 'Shitenno-ji Temple', 'Shinsaibashi', 'Osaka Aquarium Kaiyukan', 'Namba'],
+    bestTime: "The best times to visit Osaka are spring (late March to April) for cherry blossoms and autumn (October to November) for mild, clear weather. Summers are hot and humid, while winters are cold but comfortable for city sightseeing and food tours.",
+    faqs: [
+      { question: 'How many days do I need in Osaka?', answer: "Two days is enough to enjoy Osaka itself — a day for Osaka Castle, Shinsekai and Kuromon Market, and an evening devoted to Dotonbori street food. Because Nara, Kyoto and Kobe are all under an hour away, many travelers base themselves in Osaka for 3–4 days and day-trip out." },
+      { question: 'What food is Osaka famous for?', answer: "Osaka is Japan's street-food capital. Must-tries include takoyaki (octopus balls), okonomiyaki (savory pancakes), kushikatsu (deep-fried skewers), and negiyaki. A guided food crawl through Dotonbori or Kuromon Market is the best way to taste them all and learn the local 'kuidaore' (eat till you drop) spirit." },
+      { question: 'Is Osaka a good base for visiting Nara and Kyoto?', answer: "Excellent. Nara is about 45 minutes by train and Kyoto around 30–60 minutes, so Osaka makes a convenient, lively and more affordable base than Kyoto. Guided day tours from Osaka cover Nara's deer park and Todai-ji, or Kyoto's temples and Fushimi Inari, with the transport handled for you." }
+    ]
+  },
+  'Hiroshima': {
+    title: 'Hiroshima Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Hiroshima with local guides — the Peace Memorial Park & Museum, Atomic Bomb Dome, the floating torii of Miyajima, Hiroshima Castle & Shukkeien Garden.',
+    intro: [
+      "Hiroshima is a moving, hopeful city that has rebuilt itself into a symbol of peace. A thoughtful local guide brings essential context to the Peace Memorial Park and Museum, turning a visit into a deeply meaningful experience rather than a checklist stop.",
+      "Beyond the memorials, Hiroshima offers the serene island of Miyajima with its famous 'floating' torii gate, the rebuilt Hiroshima Castle, the elegant Shukkeien Garden, and a local specialty — Hiroshima-style okonomiyaki layered with noodles. It pairs naturally with a Miyajima day trip."
+    ],
+    whyBook: ['Knowledgeable guides who provide vital historical context', 'Seamless Peace Park and Miyajima island combinations', 'Small-group and private options', 'Local food experiences including Hiroshima okonomiyaki'],
+    topAttractions: ['Peace Memorial Park', 'Atomic Bomb Dome', 'Peace Memorial Museum', 'Itsukushima Shrine (Miyajima)', 'Hiroshima Castle', 'Shukkeien Garden', 'Miyajima Island', 'Hondori Shopping Street'],
+    bestTime: "The best times to visit Hiroshima are spring (March to May) for cherry blossoms over the Peace Park and rivers, and autumn (October to November) for colorful foliage on Miyajima. The climate is mild year-round, though summers are warm and humid.",
+    faqs: [
+      { question: 'How many days do I need in Hiroshima?', answer: "One to two days is ideal. Dedicate a half to full day to the Peace Memorial Park, museum and Atomic Bomb Dome, and a second day to Miyajima island for the floating torii gate, Itsukushima Shrine and Mount Misen. A guide helps you cover both meaningfully without rushing." },
+      { question: 'Is it worth visiting Miyajima from Hiroshima?', answer: "Absolutely — Miyajima is one of Japan's most beautiful spots and just a short train-and-ferry trip from the city. Its 'floating' torii gate, free-roaming deer, mountain hikes and seafood make it a perfect day trip. Guided tours combine it smoothly with the Peace Park and handle the ferry logistics." },
+      { question: 'Is a guide important for the Peace Memorial Park?', answer: "Very much so. The history is profound and the exhibits are powerful — a knowledgeable local or survivor-story guide provides the context, etiquette and human perspective that make the visit far more meaningful than reading plaques alone." }
+    ]
+  },
+  'Nara': {
+    title: 'Nara Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Nara with local guides — Todai-ji and its Great Buddha, the free-roaming deer of Nara Park, Kasuga Taisha’s lanterns, Kofuku-ji & Isuien Garden.',
+    intro: [
+      "Nara was Japan's first permanent capital, and its compact historic core holds some of the country's oldest and grandest temples — all within an easy walk of each other through a deer-filled park. A local guide unlocks the 1,300-year-old stories behind the monuments.",
+      "From the colossal bronze Great Buddha of Todai-ji and the thousands of stone and bronze lanterns at Kasuga Taisha to the bowing wild deer of Nara Park, Nara makes an unforgettable day trip from Kyoto or Osaka — or a peaceful overnight stay."
+    ],
+    whyBook: ['Licensed local guides who know the temple history and etiquette', 'Make the most of a compact, walkable day trip', 'Small-group and private options', 'Easy combinations with Kyoto and Osaka'],
+    topAttractions: ['Todai-ji Temple & Great Buddha', 'Nara Park (deer)', 'Kasuga Taisha Shrine', 'Kofuku-ji Temple', 'Isuien Garden', 'Naramachi District', 'Mount Wakakusa', 'Nara National Museum'],
+    bestTime: "The best times to visit Nara are spring (late March to April) for cherry blossoms across Nara Park and autumn (October to November) for vivid foliage. The deer are present year-round; early morning visits are the most peaceful and photogenic.",
+    faqs: [
+      { question: 'Is Nara a day trip or worth staying overnight?', answer: "Most travelers visit Nara as a half- or full-day trip from Kyoto (about 45 minutes) or Osaka (about 45 minutes), since the main sights cluster around Nara Park. Staying overnight, however, lets you enjoy the temples at dawn and dusk without the day-tripper crowds — a quieter, magical experience." },
+      { question: 'Is it safe to feed the deer in Nara Park?', answer: "Yes — the deer are wild but accustomed to people, and you can buy 'shika senbei' (deer crackers) from vendors to feed them. Many deer famously bow for food. Hold crackers high and feed quickly, keep bags closed, and supervise small children, as the deer can be pushy when hungry. Your guide will show you the etiquette." },
+      { question: 'What should I prioritize if I only have a few hours in Nara?', answer: "Head straight to Todai-ji to see the Great Buddha, walk through Nara Park to meet the deer, and continue to Kasuga Taisha for its iconic lantern-lined paths. A guide can plan the most efficient walking loop so you see the essentials comfortably in 3–4 hours." }
+    ]
+  },
+  'Sapporo': {
+    title: 'Sapporo Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Sapporo with local guides — Odori Park & the Snow Festival, Sapporo Beer Museum, Mount Moiwa night views, Hokkaido Shrine & fresh seafood markets.',
+    intro: [
+      "Sapporo, the capital of Japan's northern island of Hokkaido, is a spacious, modern city famous for its beer, ramen, winter festivals and easy access to mountains and hot springs. A local guide helps you taste the best of Hokkaido's celebrated food scene and time your visit around the seasons.",
+      "From the winter wonderland of the Sapporo Snow Festival and the glittering night view from Mount Moiwa to the historic Hokkaido Shrine and the city's legendary miso ramen and seafood, Sapporo offers a different, refreshing side of Japan — and a gateway to Otaru, Niseko and Noboribetsu."
+    ],
+    whyBook: ['Local guides who know Hokkaido’s food and seasons', 'Winter-festival, ski and hot-spring know-how', 'Small-group and private options', 'Gateway trips to Otaru and Niseko'],
+    topAttractions: ['Odori Park', 'Sapporo Snow Festival site', 'Sapporo Beer Museum', 'Mount Moiwa Ropeway', 'Hokkaido Shrine', 'Sapporo TV Tower', 'Nijo Market', 'Former Hokkaido Government Office'],
+    bestTime: "Sapporo is a year-round destination with two standout seasons: winter (December to February) for the Snow Festival, powder skiing and hot springs, and summer (June to August) for cool, comfortable weather and lavender fields across Hokkaido. Autumn brings beautiful foliage with fewer crowds.",
+    faqs: [
+      { question: 'When is the Sapporo Snow Festival?', answer: "The Sapporo Snow Festival is usually held over about a week in early February, centered on Odori Park, where enormous, intricately carved snow and ice sculptures are displayed and lit at night. It's one of Japan's most spectacular winter events — book accommodation and guides well in advance, as the city fills up." },
+      { question: 'What food is Sapporo famous for?', answer: "Sapporo is a food-lover's city. Don't miss rich miso ramen (a local invention), fresh Hokkaido seafood like crab, uni and salmon roe at Nijo Market, Genghis Khan (grilled lamb), soup curry, and of course Sapporo beer at its source. A guided food tour is the tastiest way to explore." },
+      { question: 'Can I visit hot springs or ski areas from Sapporo?', answer: "Yes — Sapporo is an ideal base for Hokkaido adventures. Jozankei onsen is under an hour away for hot springs, while world-class powder skiing in Niseko and the historic canal town of Otaru are easy day or overnight trips. Guided tours handle the transport and seasonal timing for you." }
+    ]
   }
 };
 
@@ -2181,11 +2278,12 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
       titles: [
         'Book Official Tour Guide for Taj Mahal',
         'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
+        'From Delhi: Taj Mahal, Agra Same Day Return Tour By Car.',
         'Agra City Highlights Tour',
         'Agra & Fatehpur Sikri Day Trip',
         'Book Tour Guide for Fatehpur Sikri Visit',
       ],
-      ratings: [5.0, 4.5, 4.7, 4.8, 4.1],
+      ratings: [5.0, 4.5, 4.9, 4.7, 4.8, 4.1],
     },
     delhi: {
       titles: [

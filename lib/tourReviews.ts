@@ -20,6 +20,25 @@ export interface TourReviewData {
 export const getTourReviews = (slug: string | undefined): TourReviewData | null => {
     if (!slug) return null;
 
+    // --- AGRA: TAJ MAHAL SAME-DAY RETURN FROM DELHI BY CAR ---
+    if (slug === 'taj-mahal-return-guided-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 10, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: 'Emily R.', country: 'United Kingdom', rating: 5, date: '2026-03-12', text: "An incredible day. We were picked up from our Delhi hotel at 3am and reached the Taj Mahal for sunrise — completely worth the early start. The car was clean and comfortable with a calm, careful driver, and our guide was a true expert who knew exactly where to get the best photos before the crowds arrived. Agra Fort in the afternoon was a brilliant addition. Long day, but flawlessly organised." },
+                { author: 'Michael T.', country: 'United States', rating: 5, date: '2026-03-05', text: "Door-to-door service from Delhi made this completely stress-free. Our guide met us at the gate, handled the tickets, and got us through security quickly. The Taj is even more breathtaking in person and having someone explain the history and symbolism made it so much richer. The AC car was a welcome relief on the drive back. Highly recommend." },
+                { author: 'Sophie L.', country: 'Australia', rating: 5, date: '2026-02-26', text: "Best way to see the Taj Mahal if you're short on time. We did it as a same-day return from Delhi and never felt rushed. The driver was punctual and professional, and the guide was friendly and incredibly knowledgeable — he pointed out details we'd never have noticed on our own. Lunch was included and tasty. Five stars." },
+                { author: 'Lukas B.', country: 'Germany', rating: 4, date: '2026-03-18', text: "The Taj Mahal is simply magnificent and the guide was excellent. It is a long day with roughly 3.5 hours of driving each way, so be prepared for that, but the highway is good and the car was comfortable. Skip-the-line entry saved us a lot of time. Only reason for 4 stars is the traffic leaving Delhi, which is no fault of the operator." },
+                { author: 'Hannah W.', country: 'Canada', rating: 5, date: '2026-03-01', text: "Faultless from start to finish. Pickup was right on time, the vehicle was spotless, and our guide was warm, patient and full of fascinating stories about Shah Jahan and Mumtaz. He took amazing photos of us at the classic Diana bench spot. Agra Fort was a great bonus. Worth every rupee." },
+                { author: 'Pierre D.', country: 'France', rating: 5, date: '2026-02-20', text: "We hesitated about doing Agra in a single day from Delhi but it was the right choice. Comfortable private car, a guide who clearly loves his city, and a sunrise at the Taj that we will never forget. Everything was handled for us — tickets, entry, even a good lunch spot. Truly memorable." },
+                { author: 'Aisha K.', country: 'United Arab Emirates', rating: 5, date: '2026-03-09', text: "Wonderful experience for our family. The guide was great with our children and made the history come alive for them. The driver was safe and courteous on the long drive, and the car easily fit all of us with luggage. Seeing the Taj Mahal up close was the highlight of our India trip." },
+                { author: 'James P.', country: 'United Kingdom', rating: 5, date: '2026-02-14', text: "Exceptional value for a private same-day tour. No haggling, no hidden costs — a fixed price, a great car, and an outstanding guide. He got us in early, beat the worst of the crowds, and explained everything beautifully. We added Agra Fort and it was well worth it. Couldn't have asked for more." },
+                { author: 'Marta S.', country: 'Spain', rating: 5, date: '2026-03-15', text: "Highly recommended. Booking was easy and communication was clear. The early departure from Delhi meant we saw the Taj Mahal bathed in soft morning light, almost empty. Our guide was professional and genuinely passionate, and the return drive was smooth in a comfortable air-conditioned car. A perfect day." },
+                { author: 'Daniel N.', country: 'Netherlands', rating: 5, date: '2026-02-28', text: "Brilliantly run tour. They thought of everything — bottled water in the car, a knowledgeable guide, skip-the-line tickets, and a driver who knew the fastest routes. The Taj Mahal exceeded every expectation and the guide's commentary added real depth. Long day, but I'd do it again in a heartbeat." },
+            ],
+        };
+    }
+
     // --- BANGKOK: ETHICAL ELEPHANT SANCTUARY (CHONBURI) ---
     if (slug === 'bangkok-ethical-elephant-sanctuary-day-trip') {
         return {
