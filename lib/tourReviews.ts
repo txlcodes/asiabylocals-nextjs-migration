@@ -3049,7 +3049,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (slug === 'taj-mahal-official-guided-tour') {
         return {
             averageRating: 4.8,
-            totalReviews: 5,
+            totalReviews: 58,
             guideRating: 4.9,
             valueRating: 4.7,
             reviews: [
