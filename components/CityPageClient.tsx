@@ -2279,11 +2279,12 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         'Book Official Tour Guide for Taj Mahal',
         'Delhi Agra Round Trip By Gatimaan Train With CNF Tickets',
         'From Delhi: Taj Mahal, Agra Same Day Return Tour By Car.',
+        'Taj Mahal Sunrise Tour',
         'Agra City Highlights Tour',
         'Agra & Fatehpur Sikri Day Trip',
         'Book Tour Guide for Fatehpur Sikri Visit',
       ],
-      ratings: [5.0, 4.5, 4.9, 4.7, 4.8, 4.1],
+      ratings: [5.0, 4.5, 4.9, 4.9, 4.7, 4.8, 4.1],
     },
     delhi: {
       titles: [
