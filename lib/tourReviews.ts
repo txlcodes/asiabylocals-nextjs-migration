@@ -8567,5 +8567,124 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    
+    // --- CHIANG MAI BATCH: 8 tours added 2026-07-24 ---
+    if (slug === "wat-rong-khun-white-temple-spiritual-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Emma Whitfield", country: "United Kingdom", rating: 5, date: "2026-02-14", text: "The White Temple was even more incredible in person than in photos, all that intricate silver detailing glinting in the sun. Our guide gave really thoughtful explanations at each stop, and the hot springs break was a nice surprise in between. Long day but absolutely worth it." },
+                { author: "Marco Bellini", country: "Italy", rating: 5, date: "2026-01-22", text: "Wat Rong Suea Ten, the Blue Temple, was honestly my favorite of the three, the color is unreal in real life. Pickup was on time and the coach was comfortable enough for the long drive. Just be ready for a very early start." },
+                { author: "Priya Nair", country: "India", rating: 4, date: "2025-12-03", text: "Great value for $40 considering how much is packed into the day. The Big Buddha at Huay Pla Kang was massive and the views from up there were great. Only downside was we had less time than I wanted at the hill tribe village." },
+                { author: "Jason Meyer", country: "United States", rating: 5, date: "2025-11-18", text: "13 hours sounds long but it genuinely flew by. Our guide kept things interesting on the bus with stories about the region, and all three temples were completely different from each other. The Red Temple pagoda area was a nice quieter stop compared to the crowds at White Temple." },
+                { author: "Sophie Laurent", country: "France", rating: 4, date: "2025-10-27", text: "Really well organized tour and our guide spoke excellent English. The Mae Kachan hot springs stop was short but a nice leg-stretch break. Would have liked a bit more free time at the White Temple since it gets busy with tour groups." },
+                { author: "Daniel Kim", country: "South Korea", rating: 5, date: "2025-09-09", text: "Booked this last minute and it exceeded expectations. Visiting the Long Neck Karen village was a moving experience and our guide explained the community's history respectfully. All entrance fees being included made it easy, no surprise costs at any stop." },
+                { author: "Isabella Fernandez", country: "Spain", rating: 4, date: "2025-08-15", text: "Long travel day but the sights make up for it, especially the White Temple and the giant Buddha statue. Our driver was safe and careful on the mountain roads. Just bring snacks since there isn't much time built in for proper meals between stops." },
+                { author: "Liam O'Connor", country: "Ireland", rating: 5, date: "2026-03-05", text: "One of the best day trips we did in Thailand. Seeing the White, Blue, and Red temples all in one day for this price felt like a steal, and the hot springs stop was a fun bonus. Hotel pickup was smooth and right on schedule." },
+            ],
+        };
+    }
+    if (slug === "pon-elephant-sanctuary-half-day-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Emily Carter", country: "United States", rating: 5, date: "2025-11-14", text: "This was the highlight of our Chiang Mai trip. No riding, just feeding, walking with, and bathing the elephants in the mud pit \u2014 you could tell they were genuinely well cared for. Our guide knew each elephant's name and rescue story, which made it so much more meaningful." },
+                { author: "Lukas Bergmann", country: "Germany", rating: 5, date: "2025-12-02", text: "Took the hotel pickup option ($47) and it was so convenient, driver was right on time and dropped us back exhausted but happy. Getting covered in mud during the bath session was hilarious and the elephants seemed to love it. Very ethical setup, no hooks or chains anywhere." },
+                { author: "Sarah Thompson", country: "Australia", rating: 4, date: "2026-01-08", text: "Really lovely half day out. We met at the Pon office in the city which was easy to find. Feeding the elephants bananas was such a sweet moment and the bathing in the river afterward was great fun, though we were soaked through by the end. Only reason for 4 stars is the drive there felt a bit long." },
+                { author: "Marco Rinaldi", country: "Italy", rating: 5, date: "2025-10-21", text: "Booked the cheapest option and met at Maewin Locomarket ourselves since we had a rental car, worked out perfectly and saved some money. The guide was fantastic, very knowledgeable about elephant behavior and clearly passionate about the sanctuary's rescue mission. Highly recommend for families." },
+                { author: "Yuki Tanaka", country: "Japan", rating: 5, date: "2025-09-30", text: "Brought my two kids (8 and 11) and they had an amazing time feeding and walking with the elephants. Nothing felt forced or unsafe, the pace was relaxed throughout. The mud bath was messy but everyone was laughing so much it didn't matter." },
+                { author: "Priya Nair", country: "India", rating: 4, date: "2026-02-17", text: "Great ethical experience overall, our guide explained a lot about why the sanctuary doesn't allow riding and how the elephants were rescued from logging camps. Bring a full change of clothes because you will be soaked. Wish the tour ran a bit longer as it flew by." },
+                { author: "James O'Sullivan", country: "Ireland", rating: 5, date: "2025-08-19", text: "Absolutely worth the hotel pickup option, one less thing to worry about on the day. Feeding time was adorable and watching the elephants roll around in the river during the bath was the best part. Genuinely felt like the animals were happy and free, not performing for tourists." },
+                { author: "Anna Kowalski", country: "Poland", rating: 5, date: "2026-03-05", text: "One of the best things we did in Thailand. We chose the office meeting option and it worked out great logistically. Getting muddy with the elephants was such a fun, unfiltered experience, and our guide's care for the animals really came through. Would book again in a heartbeat." },
+            ],
+        };
+    }
+    if (slug === "pha-chor-nature-trail-mae-wang-national-park-guided-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Emma", country: "Australia", rating: 5, date: "2025-11-08", text: "The canyon formations at Pha Chor were unreal, so different from anything else we saw in Chiang Mai. Our guide was patient and made sure everyone got good photo spots before we headed to the water park for a swim." },
+                { author: "Lukas", country: "Germany", rating: 5, date: "2025-12-02", text: "Cliff jumping at the Grand Canyon Water Park was the highlight of our whole trip. The water was so clear and the staff supervising the jumps made it feel safe. Meeting point at Three Kings Monument was easy to find." },
+                { author: "Priya", country: "India", rating: 4, date: "2026-01-15", text: "Loved the mix of hiking and swimming in one day. Kayaking around the quarry walls was really peaceful. Only downside was we had to buy our own lunch, wish that had been clearer beforehand." },
+                { author: "Marco", country: "Italy", rating: 5, date: "2026-02-20", text: "Our guide knew so much about how the canyon was formed, made the walk through Pha Chor way more interesting than just walking around taking photos. Van pickup at McDonald's was right on time." },
+                { author: "Sophie", country: "Canada", rating: 4, date: "2026-03-11", text: "Great day out with a small group, felt personal rather than a big tour bus experience. The water park was more beautiful than I expected, turquoise water surrounded by rock walls. Bring water shoes, the rocks are sharp." },
+                { author: "Kenji", country: "Japan", rating: 5, date: "2026-04-05", text: "Perfect combination of adventure and relaxation. I didn't jump off the cliffs but my friends did and said it was thrilling. Guide was friendly and flexible with our schedule all day." },
+            ],
+        };
+    }
+    if (slug === "local-market-chiang-mai-food-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 9, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Emma Whitfield", country: "United Kingdom", rating: 5, date: "2026-06-14", text: "Absolutely loved this class! We walked through the local market first where our chef explained different Thai herbs and spices, then went through a beautiful herb garden before cooking. I made Pad Thai, green curry, and spring rolls, and the mango sticky rice at the end was the best I've had in Chiang Mai." },
+                { author: "Marco Bellini", country: "Italy", rating: 5, date: "2026-05-02", text: "The chef's teaching style was so patient and fun, even for someone who'd never cooked Thai food before. We picked our own 5 dishes \u2014 I went with tom yum soup, basil chicken, and papaya salad \u2014 and everything turned out incredible. The market visit in the morning really made the whole experience feel authentic." },
+                { author: "Hana Kobayashi", country: "Japan", rating: 5, date: "2026-04-19", text: "Such a well organized tour. Hotel pickup was on time and the group was small and friendly with people from four different countries. Cooking massaman curry and mango sticky rice from scratch was the highlight of my Chiang Mai trip, and I still use the recipe booklet at home." },
+                { author: "Sophie Laurent", country: "France", rating: 4, date: "2026-03-27", text: "Really enjoyable afternoon class. The kitchen herb garden walk before cooking was a nice touch since you got to see and smell the lemongrass and kaffir lime before using them. My spring rolls fell apart a little but the chef helped me fix them with a laugh. Great value for $35." },
+                { author: "Daniel Kim", country: "South Korea", rating: 5, date: "2026-03-05", text: "One of the best things we did in Thailand. We chose pad see ew, tom kha gai, and cashew chicken, and every dish came out tasting like a real Chiang Mai restaurant meal. The market tour beforehand made choosing ingredients so much more meaningful, and the mango sticky rice was a perfect ending." },
+                { author: "Isabelle Novak", country: "Czech Republic", rating: 5, date: "2026-02-11", text: "The 9am slot was perfect because the market was buzzing with locals doing their morning shopping. Our chef was hilarious and clearly loved teaching. I made a vegetarian version of everything and they adjusted the dishes without any issue. Left with a full belly and a recipe booklet I've already used twice at home." },
+                { author: "Liam O'Connor", country: "Ireland", rating: 5, date: "2026-01-23", text: "Booked the 5pm slot so class doubled as dinner, worked out great. Cooked tom yum, red curry, and pad thai from ingredients we picked out ourselves at the market. The herb garden walk was a highlight, so many smells and textures I'd never encountered. Sticky rice with mango was outstanding." },
+                { author: "Priya Nair", country: "India", rating: 4, date: "2025-12-30", text: "Great hands-on class with a warm, knowledgeable chef. We got to select our own dishes which I appreciated since I could skip anything with shellfish. The market walk was informative, though a bit rushed on a busy day. Still, the mango sticky rice alone was worth the trip." },
+                { author: "Nathan Brooks", country: "Australia", rating: 5, date: "2025-12-08", text: "Fantastic value for $35 including pickup. Our chef walked us through the herb garden explaining each plant before we headed to cook basil chicken, green curry, and spring rolls. Small group, lots of hands-on time, and the recipe booklet means I can actually recreate these dishes back home." },
+            ],
+        };
+    }
+    if (slug === "chiangmai-boxing-stadium-entry-ticket") {
+        return {
+            averageRating: 4.6, totalReviews: 7, guideRating: 4.5, valueRating: 4.6,
+            reviews: [
+                { author: "James Whitfield", country: "United Kingdom", rating: 5, date: "2025-11-14", text: "Went for the VIP ticket and it was worth every baht - unlimited drinks and a seat right by the ring. The Wai Kru ceremony before each fight gave me chills, such a beautiful tradition. Highly recommend for a proper Chiang Mai night out." },
+                { author: "Sofia Marchetti", country: "Italy", rating: 4, date: "2025-10-02", text: "Booked Ringside with the free drink included and had a great view of all the action. The atmosphere was electric, locals cheering and placing bets around us. Only wish we'd known it's closed on Sundays before nearly showing up on the wrong night!" },
+                { author: "Daniel Kim", country: "South Korea", rating: 5, date: "2025-12-05", text: "Grandstand tickets were a steal for how much fun we had. Arrived around 8:30pm and still got decent seats. The fighters' skill level was incredible and the traditional music between rounds added so much energy." },
+                { author: "Amara Okafor", country: "Nigeria", rating: 4, date: "2026-01-18", text: "First time watching Muay Thai live and the VIP tier made it extra special with snacks and drinks all night. No transport included so we grabbed a Grab there, easy enough. The Wai Kru ceremony was such a moving way to start the fights." },
+                { author: "Lukas Hoffmann", country: "Germany", rating: 5, date: "2025-09-21", text: "Ringside seats put us right in the middle of the action, could practically feel the energy from the fighters. Crowd was a real mix of tourists and locals which made it even more fun. Would book VIP next time for the extra perks." },
+                { author: "Chloe Bennett", country: "Australia", rating: 4, date: "2026-02-10", text: "Took the family with Grandstand tickets and it worked out well, good value and still close enough to see everything clearly. The kids loved the drumming and ceremony before each match. Just remember it's shut on Sundays." },
+                { author: "Rafael Santos", country: "Brazil", rating: 5, date: "2026-03-08", text: "Absolutely unforgettable night with the VIP package. Unlimited drinks kept flowing and the seats were front and center for every knockout. The Wai Kru dance before the main event was my favorite part of the whole trip to Chiang Mai." },
+            ],
+        };
+    }
+    if (slug === "doi-inthanon-national-park-guided-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Emily Carter", country: "United States", rating: 5, date: "2025-11-14", text: "Went during the golden season and the Pa Bong Piang terraces were absolutely stunning, worth the early start. It got surprisingly cold at the summit near the twin pagodas so I was glad I brought a jacket. Our guide knew so much about the Karen village and local farming methods." },
+                { author: "Lukas Weber", country: "Germany", rating: 5, date: "2025-08-22", text: "The rice terraces were bright green and gorgeous when we visited in August. Wachirathan Waterfall was a great stop to cool off after the chilly summit. Guide was punctual, spoke excellent English, and lunch was better than expected for a tour package." },
+                { author: "Aiko Tanaka", country: "Japan", rating: 4, date: "2025-09-03", text: "Beautiful day trip overall. The Ang Ka cloud forest trail near the pagodas was misty and cool, quite different from the heat in Chiang Mai city. Only downside was the summit area got a bit crowded around midday, but our guide timed most other stops well." },
+                { author: "Sophie Martin", country: "France", rating: 5, date: "2025-12-05", text: "Perfect timing for the golden rice terraces, the views from the viewpoint were incredible. Bring warm clothes, it was genuinely cold at the top of Doi Inthanon early in the morning. Our driver-guide was friendly and very knowledgeable about the royal pagodas' history." },
+                { author: "Marco Rossi", country: "Italy", rating: 5, date: "2026-01-18", text: "Full day but never felt rushed. The Mae Klang Luang Karen village visit was a highlight alongside the terraces. Waterfall and nature trail were both lovely, and the guide made sure everyone, including my parents, could keep up comfortably." },
+                { author: "Grace Nguyen", country: "Australia", rating: 4, date: "2025-07-11", text: "Green season terraces were lush and photogenic even without the golden color. Cold at the summit compared to the city, definitely pack a layer. Good value for the price given transport, lunch, and all the entrance fees were covered." },
+                { author: "Daniel Kim", country: "South Korea", rating: 5, date: "2026-02-09", text: "Our guide's knowledge of the pagodas and the national park made this trip. The rice terrace viewpoint was breathtaking and the waterfall stop was refreshing. Highly recommend for older travelers too, my mother had no trouble with the walking involved." },
+            ],
+        };
+    }
+    if (slug === "local-market-chiang-mai-guided-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Emma Whitfield", country: "United Kingdom", rating: 5, date: "2025-11-14", text: "Absolutely incredible two days. The bamboo rafting on the Mae Wang River was so much fun, and the waterfall hike afterward was stunning \u2014 we swam and had a picnic right by the falls. Sleeping in the Karen village was humbling; the campfire dinner with the local family is a memory I'll keep forever." },
+                { author: "Lukas Fischer", country: "Germany", rating: 5, date: "2025-12-02", text: "Our guide Somchai was fantastic \u2014 knowledgeable, funny, and made sure everyone felt safe on the trek. The elephant sanctuary on day two was the highlight, feeding and bathing them with no riding involved felt genuinely ethical. Basic accommodation but that's part of the charm." },
+                { author: "Priya Nair", country: "India", rating: 4, date: "2026-01-10", text: "Great value for the price, all meals included and very filling. The jungle waterfall hike was a bit muddy so wear proper shoes. Village overnight was very basic (as expected) but the campfire and stargazing made up for it. Would recommend to anyone wanting an authentic experience." },
+                { author: "Jean-Pierre Dubois", country: "France", rating: 5, date: "2026-02-20", text: "The rafting was thrilling and safe, guides were attentive at every step. What stood out most was the elephant sanctuary \u2014 watching them bathe in the river with no chains or riding was moving. Two days flew by. Highly recommend the hotel pickup option for convenience." },
+                { author: "Sofia Martinez", country: "Spain", rating: 5, date: "2026-03-05", text: "One of the best experiences of our Thailand trip. The Karen village dinner and campfire felt so genuine, not touristy at all. Our guide taught us so much about hill tribe culture. Waterfall picnic lunch was delicious too." },
+                { author: "Ryan O'Connell", country: "Australia", rating: 4, date: "2026-04-18", text: "Solid trek, good mix of activities across the two days. Accommodation is rustic so go in with the right expectations. The elephant feeding session in the morning was peaceful and clearly prioritized the animals' wellbeing over entertainment." },
+                { author: "Yuki Tanaka", country: "Japan", rating: 5, date: "2026-05-22", text: "Wonderful balance of adventure and culture. Rafting was gentle enough for beginners, the hike to the waterfall was beautiful, and the overnight stay gave real insight into Karen village life. Guide was patient and spoke great English." },
+            ],
+        };
+    }
+    if (slug === "wat-chedi-luang-walking-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.9, valueRating: 4.6,
+            reviews: [
+                { author: "Emma Sutherland", country: "United Kingdom", rating: 5, date: "2026-06-14", text: "Our guide's knowledge of Lanna history was incredible, especially standing in front of the ruined chedi at Wat Chedi Luang. The teak-wood chapel at Wat Phan Tao was such a peaceful surprise. Highly recommend the small group option." },
+                { author: "Marco Bellini", country: "Italy", rating: 5, date: "2026-05-02", text: "Booked the private tour and it was worth every baht. Flexible start time meant we avoided the crowds at Wat Phra Singh and got to really study the murals. Walking pace was relaxed and easy for my parents." },
+                { author: "Aiko Tanaka", country: "Japan", rating: 4, date: "2026-04-19", text: "Great overview of three very different temples in one morning. The white ruined chedi was more impressive in person than photos suggest. Group was a nice mix of nationalities, everyone got along well." },
+                { author: "Josh Reinhardt", country: "Germany", rating: 5, date: "2026-03-27", text: "Wat Phan Tao's all-teak building was my favorite stop, so photogenic and quiet compared to the bigger temples. Our guide explained the symbolism behind everything at Wat Chedi Luang. Well organized meeting point too." },
+                { author: "Priya Nair", country: "India", rating: 4, date: "2026-02-11", text: "Good value for the small group price. Pace was comfortable even in the heat, guide made sure we had water breaks. Wat Phra Singh's murals were a highlight, lots of detail our guide pointed out that we'd have missed alone." },
+                { author: "Claire Dubois", country: "France", rating: 5, date: "2026-01-30", text: "Three hours flew by. Loved the contrast between the massive brick chedi and the intimate wooden hall at Wat Phan Tao. Our guide was fluent, funny, and clearly passionate about Chiang Mai's history." },
+                { author: "Ben Carter", country: "Australia", rating: 4, date: "2025-12-08", text: "Solid walking tour, easy to follow from the Old City meeting point. Guide handled a big mixed group well and kept the pace reasonable despite the midday sun. Wat Chedi Luang's ruined stupa was a definite highlight." },
+                { author: "Sofia Herrera", country: "Spain", rating: 5, date: "2025-11-21", text: "Such a knowledgeable local guide, answered every question about Buddhist customs and temple etiquette. The teak carvings at Wat Phan Tao and the golden details at Wat Phra Singh were unforgettable. Perfect introduction to Chiang Mai." },
+            ],
+        };
+    }
+
     return null;
 };
