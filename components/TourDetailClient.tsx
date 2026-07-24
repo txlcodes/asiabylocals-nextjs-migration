@@ -1262,7 +1262,12 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         </div>
                         <span className="text-[16px] font-black text-[#001A33]">
                           {(() => {
-                            // Generate consistent rating between 4.0-5.0 based on tour ID
+                            // Prefer the real review average when the tour has reviews (DB or hardcoded)
+                            const realAvg = realReviewStats?.averageRating;
+                            const hardAvg = getTourReviews(tourSlug)?.averageRating;
+                            if (realAvg && realAvg > 0) return realAvg.toFixed(1);
+                            if (hardAvg && hardAvg > 0) return hardAvg.toFixed(1);
+                            // Fallback: consistent rating between 4.0-5.0 based on tour ID
                             const seed = parseInt(tour.id) || 0;
                             const random = (seed * 9301 + 49297) % 233280;
                             const normalized = random / 233280;
