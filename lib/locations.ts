@@ -24,7 +24,7 @@ export const COUNTRY_CITIES: Record<string, string[]> = {
     'India': [
         'Delhi', 'Mumbai', 'Agra', 'Jaipur', 'Jodhpur', 'Jaisalmer', 'Udaipur',
         'Varanasi', 'Goa', 'Kerala', 'Rishikesh', 'Darjeeling', 'Amritsar',
-        'Bikaner', 'Mathura', 'Khajuraho', 'Gwalior', 'Aurangabad', 'Mysore', 'Bengaluru'
+        'Bikaner', 'Mathura', 'Khajuraho', 'Gwalior', 'Aurangabad', 'Mysore', 'Bengaluru', 'Kolkata'
     ],
     'Thailand': [
         'Bangkok', 'Chiang Mai', 'Phuket', 'Pattaya', 'Krabi', 'Ayutthaya',
