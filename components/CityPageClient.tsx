@@ -841,6 +841,49 @@ const CITY_DESCRIPTIONS: Record<string, {
       }
     ]
   },
+  'Kolkata': {
+    title: 'Kolkata Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover Kolkata with licensed local guides — Victoria Memorial, Howrah Bridge, Kalighat Temple, colonial heritage walks & street food tours.',
+    intro: [
+      'Kolkata, the "City of Joy," was the capital of British India and remains West Bengal\'s cultural and intellectual heart. Grand colonial architecture, the iconic cantilever Howrah Bridge, tram lines, and a deep literary and artistic tradition give the city a character unlike anywhere else in India.',
+      'At AsiaByLocals, explore Kolkata through expert-led tours with licensed local guides. Walk the marble halls of the Victoria Memorial, cross the Hooghly River at Howrah Bridge, join the crowds at Kalighat Temple, and taste the city\'s legendary street food, from puchka to kathi rolls. Our guides bring the history of the Bengal Renaissance and everyday Kolkata life to life.'
+    ],
+    whyBook: [
+      'Licensed & experienced local experts',
+      'Deep insight into Bengal\'s colonial and cultural history',
+      'Ethical, small-group experiences',
+      'Direct support to local communities'
+    ],
+    topAttractions: [
+      'Victoria Memorial',
+      'Howrah Bridge',
+      'Kalighat Temple',
+      'Dakshineswar Kali Temple',
+      'Indian Museum',
+      'College Street',
+      'Park Street',
+      'Belur Math'
+    ],
+    bestTime: 'The best time to visit Kolkata is from October to March when the weather is cool and dry, ideal for sightseeing and walking tours. Durga Puja (September/October) is a spectacular time to visit for the city\'s biggest festival, though it gets crowded.',
+    faqs: [
+      {
+        question: 'What is Kolkata famous for?',
+        answer: 'Kolkata is famous for its colonial-era architecture like the Victoria Memorial, the iconic Howrah Bridge, its role as the birthplace of the Bengal Renaissance, and its food culture — from street snacks like puchka and kathi rolls to Bengali sweets like rosogolla and sandesh.'
+      },
+      {
+        question: 'Is Kolkata safe for tourists?',
+        answer: 'Yes, Kolkata is generally considered one of India\'s safer major cities for tourists, including solo and female travelers. As with any big city, stick to well-lit areas at night and use licensed transport or trusted guides.'
+      },
+      {
+        question: 'How do I get around Kolkata?',
+        answer: 'Kolkata has India\'s oldest metro system, a network of trams (a rarity in India), yellow taxis, and app-based cabs. For sightseeing, a guided tour with private transport is the easiest way to cover spread-out sights like Belur Math and Dakshineswar Temple.'
+      },
+      {
+        question: 'What food should I try in Kolkata?',
+        answer: 'Don\'t miss Kolkata biryani, kathi rolls, puchka (the local take on pani puri), macher jhol (fish curry), and Bengali sweets like rosogolla, sandesh, and mishti doi. A street food walking tour with a local guide is the best way to try widely without guessing which stalls to trust.'
+      }
+    ]
+  },
   'Jodhpur': {
     title: 'Jodhpur Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover the best tours in Jodhpur with licensed local guides. Mehrangarh Fort tours, Blue City walks, Bishnoi safaris & cultural experiences.',

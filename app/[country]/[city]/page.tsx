@@ -49,6 +49,10 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Kashmir Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Kashmir tours with verified local guides. Dal Lake shikara rides, Gulmarg gondola trips, Mughal Gardens walks, Pahalgam treks & houseboat stays. Free cancellation.',
   },
+  'Kolkata': {
+    title: 'Kolkata Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Kolkata tours with verified local guides. Victoria Memorial visits, Howrah Bridge & Old Kolkata heritage walks, Kalighat Temple tours & street food experiences. Free cancellation.',
+  },
   // --- SRI LANKA ---
   'Colombo': {
     title: 'Colombo Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
