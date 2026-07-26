@@ -5664,5 +5664,19 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
+  
+  // --- CHIANG MAI: Paramotor added 2026-07-26 ---
+  if (slug === "chiang-mai-countryside-mini-tour") {
+    return [
+      { question: "Is paramotoring safe, and who actually flies the aircraft?", answer: "Yes \u2014 you fly **tandem with a licensed flight instructor** who controls the throttle, launch, steering, and landing the entire time. You simply sit back in the harness and enjoy the view; no piloting skills or input are required from you." },
+      { question: "Do I need any prior flying or paragliding experience?", answer: "No experience is necessary at all. Since the **instructor handles all the flying**, first-timers make up the vast majority of guests, and a short safety briefing before takeoff covers everything you need to know." },
+      { question: "Are there any weight, age, or fitness restrictions?", answer: "Most operators set a **maximum passenger weight (commonly around 90-100 kg)** and a minimum age, so it's best to confirm your details when booking. A reasonable level of mobility is helpful for the running takeoff and landing, but no special fitness or paragliding fitness is required." },
+      { question: "What happens if the weather is bad on my scheduled morning?", answer: "Paramotoring is **strictly weather-dependent**, so flights only go ahead in calm morning conditions with good visibility. If wind, rain, or clouds roll in, your instructor will reschedule you to another available morning slot at no extra cost rather than fly in unsafe conditions." },
+      { question: "Will I get photos or video of my flight?", answer: "Most flights include **GoPro or action-cam photos/footage** captured during the tandem flight, either by the instructor's mounted camera or a chase photographer on the ground. Ask at booking or during your briefing to confirm exactly what's included and how you'll receive the files afterward." },
+      { question: "What should I wear for the flight?", answer: "Wear **closed-toe shoes** (sneakers or trainers) and comfortable, snug-fitting clothing you can move in \u2014 avoid loose skirts, sandals, or flip-flops. Mornings can be cool at altitude, so a light jacket is a good idea, and sunglasses plus sunscreen help for the photo review afterward." },
+      { question: "What's the best time of day to book, and how long does the whole experience take?", answer: "**Morning slots are best and most commonly offered**, since winds are calmest right after sunrise, giving the smoothest and safest flying conditions. Plan for about **2 hours total** \u2014 roughly 15-20 minutes of that in the air, with the rest spent on briefing, transport to the launch site, gearing up, and reviewing your photos." },
+    ];
+  }
+
   return null;
 };
