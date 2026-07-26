@@ -8686,5 +8686,23 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    
+    // --- CHIANG MAI: Paramotor added 2026-07-26 ---
+    if (slug === "chiang-mai-countryside-mini-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Rachel Simmons", country: "United Kingdom", rating: 5, date: "2026-05-14", text: "Absolutely incredible morning. The instructor was so calm and skilled, I felt safe the entire time even banking over the rice paddies. Floating above the countryside in total silence (except the engine hum on takeoff) was surreal. They handed me a folder of GoPro photos afterward that I'll treasure forever." },
+                { author: "Marco Bellandi", country: "Italy", rating: 5, date: "2026-04-02", text: "My instructor flew this thing like it was second nature \u2014 smooth takeoff, gentle turns, and he even let the engine idle so we could just glide quietly over the fields. The view of Chiang Mai's countryside from up there is something photos don't do justice, but luckily I got a full set of action-cam shots included." },
+                { author: "Yuki Tanaka", country: "Japan", rating: 5, date: "2026-03-20", text: "Never done anything like this before and was nervous, but the instructor talked me through everything calmly before we even left the ground. The 15 minutes in the air flew by (pun intended) \u2014 rice paddies, mountains, the whole countryside laid out below us. Worth every dollar." },
+                { author: "Sophie Laurent", country: "France", rating: 4, date: "2026-02-11", text: "Beautiful flight, very professional instructor who clearly knew what he was doing. We got a little delayed waiting for the wind to settle down that morning, but once we were up it was completely worth it. Loved seeing the patchwork of rice fields from above." },
+                { author: "Daniel Kruger", country: "South Africa", rating: 5, date: "2026-06-01", text: "Booked this on a whim and it was the highlight of our Chiang Mai trip. The pilot was clearly experienced, made me feel completely in control despite doing zero work myself. Got some great GoPro stills of us mid-flight over the valley that I've already sent to everyone back home." },
+                { author: "Priya Nair", country: "India", rating: 5, date: "2026-01-25", text: "The sensation of running a few steps then suddenly being airborne is something else. Our instructor was excellent, very reassuring throughout, and pointed out landmarks over the intercom as we flew over the rice paddies. Highly recommend the morning slot for the light and calmer winds." },
+                { author: "Tom Andersen", country: "Norway", rating: 4, date: "2026-05-29", text: "Great experience overall, the flight itself was smooth and the countryside views were stunning from that height. Photos took a little while to be sent over after, but the quality was good once they arrived. Would definitely do it again." },
+                { author: "Isabella Costa", country: "Brazil", rating: 5, date: "2026-06-18", text: "From the briefing to landing, everything felt well organized and safe. The instructor did all the actual flying so I could just relax and take in the rice paddies and hills stretching out below. The whole two hours flew by and the photos they gave us captured it perfectly." },
+            ],
+        };
+    }
+
     return null;
 };
