@@ -2299,7 +2299,7 @@ export const sendReviewRequestEmail = async (customerEmail, customerName, detail
 
   console.log(`📧 Sending review request email to: ${customerEmail}`);
 
-  const { tourTitle, tourCity, tourCountry, bookingDate, reviewUrl } = details;
+  const { tourTitle, tourCity, tourCountry, bookingDate, reviewUrl, isReminder } = details;
 
   const formattedDate = new Date(bookingDate).toLocaleDateString('en-US', {
     weekday: 'long',
@@ -2312,7 +2312,9 @@ export const sendReviewRequestEmail = async (customerEmail, customerName, detail
   const mailOptions = {
     from: `"AsiaByLocals" <${fromEmail}>`,
     to: customerEmail,
-    subject: `How was your ${tourTitle} experience?`,
+    subject: isReminder
+      ? `A quick reminder — share your ${tourTitle} experience`
+      : `How was your ${tourTitle} experience?`,
     html: `
       <!DOCTYPE html>
       <html>
@@ -2345,11 +2347,15 @@ export const sendReviewRequestEmail = async (customerEmail, customerName, detail
                       </p>
 
                       <p style="margin: 0 0 20px 0; font-size: 16px; line-height: 1.6; color: #001A33;">
-                        Thank you for booking <strong>${tourTitle}</strong> in ${tourCity}, ${tourCountry} on ${formattedDate}.
+                        ${isReminder
+                          ? `Just a gentle reminder about your recent tour <strong>${tourTitle}</strong> in ${tourCity}, ${tourCountry} on ${formattedDate} — we'd still love to hear how it went!`
+                          : `Thank you for booking <strong>${tourTitle}</strong> in ${tourCity}, ${tourCountry} on ${formattedDate}.`}
                       </p>
 
                       <p style="margin: 0 0 30px 0; font-size: 16px; line-height: 1.6; color: #001A33;">
-                        Your feedback helps other travelers and our local guides. Please take a moment to share your experience — you can also upload photos from your tour!
+                        ${isReminder
+                          ? `It only takes a minute, and your feedback makes a real difference to other travelers and our local guides. You can also upload photos from your tour!`
+                          : `Your feedback helps other travelers and our local guides. Please take a moment to share your experience — you can also upload photos from your tour!`}
                       </p>
 
                       <!-- CTA Button -->

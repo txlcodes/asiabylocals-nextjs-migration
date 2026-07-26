@@ -154,6 +154,7 @@ model Booking {
   totalAmount       Float       @map("total_amount")
   currency          String      @default("INR")
   specialRequests   String?     @map("special_requests")
+  language          String?     @map("language") // Language the customer selected at booking time
   status            String      @default("pending_payment") // pending_payment, payment_failed, confirmed, cancelled, completed
   paymentStatus     String      @default("pending") @map("payment_status") // pending, paid, failed, refunded
   razorpayOrderId   String?     @map("razorpay_order_id")
@@ -163,7 +164,8 @@ model Booking {
   invoiceUrl             String?     @map("invoice_url")
   reviewToken            String?     @unique @map("review_token")
   reviewTokenExpiresAt   DateTime?   @map("review_token_expires_at")
-  reviewRequestSentAt    DateTime?   @map("review_request_sent_at") // when the post-tour review email was auto-sent
+  reviewRequestSentAt    DateTime?   @map("review_request_sent_at") // when the day-of-tour review email was auto-sent
+  reviewReminderSentAt   DateTime?   @map("review_reminder_sent_at") // when the next-day reminder was auto-sent
   createdAt              DateTime    @default(now()) @map("created_at")
   updatedAt              DateTime    @updatedAt @map("updated_at")
 
