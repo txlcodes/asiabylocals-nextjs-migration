@@ -6492,6 +6492,10 @@ app.put('/api/tours/:id', async (req, res) => {
     const totalUpdateTime = Date.now() - updateStartTime;
     console.log(`✅ Tour updated successfully: ${tourId} (took ${totalUpdateTime}ms)`);
 
+    // Invalidate public tours cache so edits (images, pricing, etc.) show up immediately
+    // instead of waiting out the 5-minute TTL
+    toursCache.clear();
+
     res.json({
       success: true,
       message: 'Tour updated successfully',
@@ -6831,6 +6835,9 @@ app.post('/api/admin/tours/:id/approve', verifyAdmin, async (req, res) => {
     };
 
     console.log(`✅ Tour ${tourId} approved by admin`);
+
+    // Invalidate public tours cache so the newly-approved tour appears immediately
+    toursCache.clear();
 
     res.json({
       success: true,
@@ -7924,7 +7931,7 @@ app.post('/api/tours/:id/submit', async (req, res) => {
 // Create a new booking
 app.post('/api/bookings', async (req, res) => {
   try {
-    const { tourId, bookingDate, numberOfGuests, customerName, customerEmail, customerPhone, specialRequests, totalAmount, currency } = req.body;
+    const { tourId, bookingDate, numberOfGuests, customerName, customerEmail, customerPhone, specialRequests, totalAmount, currency, language } = req.body;
 
     if (!tourId || !bookingDate || !numberOfGuests || !customerName || !customerEmail || !totalAmount) {
       return res.status(400).json({
@@ -7973,6 +7980,7 @@ app.post('/api/bookings', async (req, res) => {
         totalAmount: parseFloat(totalAmount),
         currency: currency || 'USD',
         specialRequests: specialRequests || null,
+        language: language || null,
         status: 'pending_payment',
         paymentStatus: 'pending'
       },
@@ -8178,6 +8186,12 @@ app.get('/api/bookings/:bookingId/confirmation', async (req, res) => {
   }
 });
 
+// Review links in already-sent emails point at this backend's onrender.com URL
+// (bad FRONTEND_URL) — forward them to the real review page on the Next.js site.
+app.get('/review/:token', (req, res) => {
+  res.redirect(302, `https://www.asiabylocals.com/review/${req.params.token}`);
+});
+
 // ==================== PAYMENT ENDPOINTS ====================
 
 /**
@@ -8221,10 +8235,43 @@ async function createRazorpayOrder({ amount, currency, receipt, notes, keyId, ke
   return razorpay.orders.create({ amount, currency, receipt, notes });
 }
 
+// Currencies guests can pay in (all 2-decimal minor units — JPY etc. excluded on purpose)
+const SUPPORTED_PAY_CURRENCIES = ['USD', 'EUR', 'GBP', 'CAD', 'AUD', 'SGD', 'AED', 'CHF', 'NZD', 'INR'];
+
+// USD-based FX rates, cached 6h; serves stale rates if the feed is down
+let fxCache = { rates: null, fetchedAt: 0 };
+async function getFxRates() {
+  if (fxCache.rates && Date.now() - fxCache.fetchedAt < 6 * 3600 * 1000) return fxCache.rates;
+  try {
+    const resp = await fetch('https://open.er-api.com/v6/latest/USD');
+    const data = await resp.json();
+    if (data && data.result === 'success' && data.rates) {
+      fxCache = { rates: data.rates, fetchedAt: Date.now() };
+      return data.rates;
+    }
+  } catch (e) {
+    console.error('FX rate fetch failed:', e.message);
+  }
+  if (fxCache.rates) return fxCache.rates;
+  throw new Error('FX rates unavailable');
+}
+
+// Rates for the checkout currency dropdown
+app.get('/api/payments/fx-rates', async (req, res) => {
+  try {
+    const rates = await getFxRates();
+    const out = {};
+    for (const c of SUPPORTED_PAY_CURRENCIES) if (rates[c]) out[c] = rates[c];
+    res.json({ success: true, base: 'USD', currencies: SUPPORTED_PAY_CURRENCIES, rates: out });
+  } catch (e) {
+    res.status(503).json({ success: false, error: 'FX rates unavailable' });
+  }
+});
+
 // Create Razorpay order
 app.post('/api/payments/create-order', async (req, res) => {
   try {
-    const { bookingId, amount, currency } = req.body;
+    const { bookingId, amount, currency, payCurrency } = req.body;
 
     if (!bookingId || !amount) {
       return res.status(400).json({
@@ -8255,10 +8302,29 @@ app.post('/api/payments/create-order', async (req, res) => {
       });
     }
 
+    // Convert to the guest's chosen payment currency (amount arrives in the
+    // booking's base currency, minor units). Falls back to the base currency
+    // untouched if the rate lookup fails — payment must not block on FX.
+    let orderAmount = amount;
+    let orderCurrency = currency || 'USD';
+    if (payCurrency && payCurrency !== orderCurrency && SUPPORTED_PAY_CURRENCIES.includes(payCurrency)) {
+      try {
+        const rates = await getFxRates();
+        const from = rates[orderCurrency];
+        const to = rates[payCurrency];
+        if (from && to) {
+          orderAmount = Math.round(amount * (to / from));
+          orderCurrency = payCurrency;
+        }
+      } catch (e) {
+        console.error('FX conversion failed, charging in base currency:', e.message);
+      }
+    }
+
     // Create Razorpay order (routes through proxy if RAZORPAY_PROXY_URL is set)
     console.log('Creating Razorpay order with:', {
-      amount,
-      currency: currency || 'USD',
+      amount: orderAmount,
+      currency: orderCurrency,
       bookingId,
       viaProxy: !!process.env.RAZORPAY_PROXY_URL
     });
@@ -8266,8 +8332,8 @@ app.post('/api/payments/create-order', async (req, res) => {
     let order;
     try {
       order = await createRazorpayOrder({
-        amount: amount, // Amount in paise (smallest currency unit)
-        currency: currency || 'USD',
+        amount: orderAmount, // Amount in minor units (cents/paise)
+        currency: orderCurrency,
         receipt: `booking_${bookingId}`,
         notes: {
           bookingId: bookingId.toString()

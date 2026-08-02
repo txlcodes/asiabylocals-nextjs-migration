@@ -834,6 +834,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
     countryCode: string;
     phoneNumber: string;
     specialRequests?: string;
+    payCurrency?: string;
   }) => {
     if (!pendingBookingData || !tour) {
       alert('Booking data is missing. Please try again.');
@@ -901,7 +902,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               fullName: guestData.fullName,
               email: guestData.email,
               phoneNumber: `${guestData.countryCode}${guestData.phoneNumber}`
-            }
+            },
+            guestData.payCurrency
           );
         } catch (paymentError) {
           console.error('❌ Payment initialization error:', paymentError);
@@ -926,7 +928,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
     fullName: string;
     email: string;
     phoneNumber: string;
-  }) => {
+  }, payCurrency?: string) => {
     try {
       console.log('💳 Initializing Razorpay payment...', { bookingId, amount, currency });
 
@@ -940,7 +942,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         body: JSON.stringify({
           bookingId,
           amount: amount * 100, // Convert to paise
-          currency: currency || 'USD'
+          currency: currency || 'USD',
+          payCurrency: payCurrency || undefined // backend converts via live FX
         }),
       });
 
