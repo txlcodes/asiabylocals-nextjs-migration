@@ -1,8 +1,13 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { X, User, Mail, Phone, MapPin, MessageSquare, Loader2 } from 'lucide-react';
 import { COUNTRIES_LIST } from '@/lib/countries_list';
+
+const CURRENCY_SYMBOLS: Record<string, string> = {
+    USD: '$', EUR: '€', GBP: '£', CAD: 'C$', AUD: 'A$',
+    SGD: 'S$', AED: 'AED ', CHF: 'CHF ', NZD: 'NZ$', INR: '₹'
+};
 
 interface BookingFormProps {
     tourTitle: string;
@@ -33,6 +38,24 @@ const BookingForm: React.FC<BookingFormProps> = ({
         specialRequests: ''
     });
     const [emailError, setEmailError] = useState('');
+    const [payCurrency, setPayCurrency] = useState(currency || 'USD');
+    const [fxRates, setFxRates] = useState<Record<string, number> | null>(null);
+
+    useEffect(() => {
+        const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+        fetch(`${API_URL}/api/payments/fx-rates`)
+            .then(res => res.json())
+            .then(data => { if (data.success && data.rates) setFxRates(data.rates); })
+            .catch(() => { /* dropdown just stays on the base currency */ });
+    }, []);
+
+    // Convert the base-currency total into the selected payment currency
+    const baseRate = fxRates?.[currency || 'USD'];
+    const targetRate = fxRates?.[payCurrency];
+    const convertedAmount = (baseRate && targetRate && payCurrency !== currency)
+        ? Math.round(totalAmount * (targetRate / baseRate) * 100) / 100
+        : totalAmount;
+    const displaySymbol = CURRENCY_SYMBOLS[payCurrency] || `${payCurrency} `;
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -48,7 +71,8 @@ const BookingForm: React.FC<BookingFormProps> = ({
             ...formData,
             // map phone to phoneNumber and countryCode
             phoneNumber: formData.phone,
-            countryCode: '' // User enters full number
+            countryCode: '', // User enters full number
+            payCurrency
         });
     };
 
@@ -74,8 +98,25 @@ const BookingForm: React.FC<BookingFormProps> = ({
                     <div>
                         <div className="text-xs font-bold text-gray-400 uppercase tracking-wider">Total Amount</div>
                         <div className="text-xl font-black text-[#10B981]">
-                            {currency === 'INR' ? '₹' : '$'}{totalAmount.toLocaleString()}
+                            {displaySymbol}{convertedAmount.toLocaleString()}
                         </div>
+                        {fxRates && (
+                            <select
+                                value={payCurrency}
+                                onChange={(e) => setPayCurrency(e.target.value)}
+                                className="mt-1 text-xs font-bold text-gray-600 bg-white border border-gray-200 rounded-lg px-2 py-1 outline-none focus:ring-1 focus:ring-[#10B981] cursor-pointer"
+                                aria-label="Payment currency"
+                            >
+                                {Object.keys(fxRates).map((c) => (
+                                    <option key={c} value={c}>Pay in {c}</option>
+                                ))}
+                            </select>
+                        )}
+                        {payCurrency !== (currency || 'USD') && (
+                            <div className="text-[10px] text-gray-400 font-medium mt-0.5">
+                                ≈ {CURRENCY_SYMBOLS[currency] || currency}{totalAmount.toLocaleString()} · rate updates at checkout
+                            </div>
+                        )}
                     </div>
                     <div className="text-right">
                         <div className="text-xs font-bold text-gray-400 uppercase tracking-wider">Guests</div>
