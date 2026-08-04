@@ -1905,10 +1905,15 @@ ${a(9)}`;
                   {showLocationsError && formData.locations.length === 0 && (
                     <p className="text-red-500 text-[12px] font-bold mb-3 animate-pulse">Please select at least one location to continue</p>
                   )}
-                  {formData.city && CITY_LOCATIONS[formData.city] ? (
+                  {formData.city ? (
                     <>
+                      {!CITY_LOCATIONS[formData.city] && (
+                        <p className="text-[12px] text-gray-400 font-semibold mb-3">
+                          No suggested places for {formData.city} yet — add your own locations below.
+                        </p>
+                      )}
                       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
-                        {CITY_LOCATIONS[formData.city].slice(0, 10).map((location) => {
+                        {(CITY_LOCATIONS[formData.city] || []).slice(0, 10).map((location) => {
                           const isSelected = formData.locations.includes(location);
                           return (
                             <div
@@ -2016,10 +2021,7 @@ ${a(9)}`;
                   ) : (
                     <div className="p-8 bg-gray-50 rounded-2xl text-center">
                       <p className="text-[14px] text-gray-500 font-semibold">
-                        Location list for {formData.city} will be available soon.
-                      </p>
-                      <p className="text-[12px] text-gray-400 font-semibold mt-2">
-                        You can still create the tour, but location selection is not available for this city yet.
+                        Select a city first to choose places for your tour.
                       </p>
                     </div>
                   )}

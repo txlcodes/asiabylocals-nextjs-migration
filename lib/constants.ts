@@ -383,6 +383,15 @@ export const CITY_LOCATIONS: Record<string, string[]> = {
     'Tiger Hill', 'Darjeeling Himalayan Railway', 'Batasia Loop', 'Peace Pagoda',
     'Tea Gardens', 'Observatory Hill', 'Padmaja Naidu Himalayan Zoological Park'
   ],
+  'Kolkata': [
+    'Victoria Memorial', 'Howrah Bridge', 'Kalighat Temple', 'Dakshineswar Kali Temple',
+    'Belur Math', 'Indian Museum', 'Marble Palace', 'Park Street',
+    'College Street', 'Prinsep Ghat'
+  ],
+  'Amritsar': [
+    'Golden Temple', 'Jallianwala Bagh', 'Wagah Border', 'Partition Museum',
+    'Durgiana Temple', 'Gobindgarh Fort', 'Hall Bazaar', 'Khalsa College'
+  ],
   'Tokyo': [
     'Senso-ji Temple', 'Tokyo Skytree', 'Shibuya Crossing', 'Meiji Shrine',
     'Tsukiji Outer Market', 'Imperial Palace', 'Harajuku', 'Ueno Park',
