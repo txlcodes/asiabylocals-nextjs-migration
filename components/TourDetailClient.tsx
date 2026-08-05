@@ -136,8 +136,21 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const [realReviews, setRealReviews] = useState<any[]>([]);
   const [realReviewStats, setRealReviewStats] = useState<{totalReviews: number; averageRating: number; guideRating: number; valueRating: number} | null>(null);
 
-  // Currency selector — shown right next to the price, not buried in the checkout form
-  const [displayCurrency, setDisplayCurrency] = useState((initialTour?.currency || 'USD').toUpperCase());
+  // Currency selector — shown right next to the price, not buried in the checkout form.
+  // Persisted in localStorage so the choice carries across tours/pages, not just this one.
+  const [displayCurrency, setDisplayCurrencyState] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = window.localStorage.getItem('abl_display_currency');
+      if (saved) return saved;
+    }
+    return (initialTour?.currency || 'USD').toUpperCase();
+  });
+  const setDisplayCurrency = (currency: string) => {
+    setDisplayCurrencyState(currency);
+    if (typeof window !== 'undefined') {
+      window.localStorage.setItem('abl_display_currency', currency);
+    }
+  };
   const [fxRates, setFxRates] = useState<Record<string, number> | null>(null);
   useEffect(() => {
     const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
