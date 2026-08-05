@@ -5730,5 +5730,65 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
+  // --- CHIANG MAI: 6 new operator-verified tours added 2026-08-05 ---
+  if (slug === "night-bazaar-area-chiang-mai-mini-tour") {
+    return [
+      { question: "What makes Lanna Thai massage different from a regular Thai massage?", answer: "**Lanna Thai massage is a Northern Thai style**, distinct from the Bangkok-style massage most visitors know — it uses a slower rhythm and greater emphasis on assisted stretching and pressure-point work along the body's energy lines. It's rooted in centuries-old Northern Thai technique passed down through Chiang Mai's traditional healing practices." },
+      { question: "Do I need to book in advance?", answer: "Yes, **booking ahead is recommended**, especially for evening slots which fill up quickly. The cave-style treatment rooms are limited, so walk-ins aren't guaranteed a spot." },
+      { question: "Is the spa easy to find near the Night Bazaar?", answer: "Yes — it's **within easy walking distance of the Night Bazaar** and most central Chiang Mai hotels. No transfer is included, so plan to walk or take a short tuk-tuk/taxi ride there yourself." },
+      { question: "What should I expect from the cave-style interior?", answer: "The treatment rooms are built with **stone walls and low arched ceilings** designed to feel enclosed and cool, quite different from a typical bright hotel spa room. It keeps the space quiet and calming even during the heat of the day." },
+      { question: "Is this a good option after a long day of sightseeing or trekking?", answer: "Yes — it's specifically **well-suited to post-activity recovery**, with the traditional stretching-based technique helping loosen up muscles after walking, temple-hopping, or trekking earlier in the day." },
+    ];
+  }
+  if (slug === "mae-kampong-village-group-tour") {
+    return [
+      { question: "Are gibbon sightings guaranteed?", answer: "No — **these are genuinely wild animals**, reintroduced into the forest through a rehabilitation project, so a sighting is never guaranteed. The forest trek itself through untouched jungle is worthwhile regardless of whether you spot the troop." },
+      { question: "How difficult is the trek?", answer: "The trek involves **moderate hiking over uneven forest terrain**, so reasonable fitness and sturdy walking shoes are needed. It's not an extreme hike, but it is a genuine trail, not a paved path." },
+      { question: "What does the tour fee support?", answer: "A **portion of your tour price goes directly to the caretakers** who support the gibbon rehabilitation project, helping fund food and safety monitoring for the reintroduced troop." },
+      { question: "What is Mae Kampong village like?", answer: "Mae Kampong is a **century-old mountain village** built along a running stream, known for traditional Miang tea production, wooden stilt houses, and a way of life that has changed little over generations." },
+      { question: "Is lunch included, and is it authentic?", answer: "Yes — lunch is a **home-style Northern Thai meal** eaten in the village itself, prepared in the local style rather than a tourist-oriented menu." },
+      { question: "How big is the group?", answer: "Group sizes are **kept small** (typically 8 or fewer), which keeps the pace personal and gives more flexibility during the forest trek and village walk." },
+    ];
+  }
+  if (slug === "mae-taeng-district-chiang-mai-countryside-adventure-tour") {
+    return [
+      { question: "Do I need previous ATV experience?", answer: "No — **complete beginners are welcome**. Every rider goes through a training course covering throttle, braking, and basic obstacle handling before heading out on the real trail." },
+      { question: "Do I ride solo or share the ATV?", answer: "Each rider gets their **own solo ATV** — there's no sharing or riding as a passenger, so you're in full control for the entire route." },
+      { question: "How rough is the terrain?", answer: "The ~40km route is a **genuine mix of paved rural road and real off-road jungle/farmland trail**, including muddy or rough patches depending on recent weather — this isn't a flat, sanitized loop." },
+      { question: "What should I wear?", answer: "Wear **clothes and closed-toe shoes you don't mind getting dusty or muddy**, and consider packing a spare set of clothes for the ride back. Helmets and safety gear are provided." },
+      { question: "Is a driving license required?", answer: "A valid **ID or passport is generally required at check-in** for registration purposes — check with the operator directly on any specific license requirements when booking." },
+      { question: "Is this suitable for a full group with mixed experience levels?", answer: "Yes — guides lead at a pace suited to the **least experienced rider**, and the training course at the start ensures everyone, from total beginners to experienced riders, is comfortable before hitting the tougher trail sections." },
+    ];
+  }
+  if (slug === "jungle-flight-canopy-course-chiang-mai-adventure-tour") {
+    return [
+      { question: "What's the difference between the Eco Family, Extreme, and Roller Coaster packages?", answer: "**Eco Family (JF3)** covers 21 platforms and 17 ziplines for a solid but gentler introduction. **Extreme (JF1)** steps up to 33 platforms, 19 ziplines, 5 sky bridges, and a spiral staircase for a longer, more demanding course. **Roller Coaster (JF2)** includes everything in Extreme plus a unique 1,100-meter roller coaster zipline segment that curves and dips rather than running in a straight line." },
+      { question: "Is the roller coaster zipline different from a normal zipline?", answer: "Yes — a **standard zipline runs in a single straight line** between two platforms, while the roller coaster segment curves and dips along a longer track, creating a genuinely different sensation than a typical straight-shot zip." },
+      { question: "Is hotel pickup included?", answer: "Yes, **free pickup from the Old City or your hotel is included** in all packages, along with a meal after the course and travel insurance." },
+      { question: "Is there a weight or age limit?", answer: "Yes, there are generally **minimum and maximum weight limits** for safety on the harness system — confirm specifics with the operator if you're near either end before booking." },
+      { question: "How high and long is the course?", answer: "This is marketed as **one of the longest and highest zipline courses** in the region, with the longest single zipline reaching 800 meters, plus additional skywalks, sky bridges, and (on JF2) the 1,100-meter roller coaster segment." },
+      { question: "What should I wear?", answer: "**Closed-toe shoes are required** — no sandals or flip-flops. Wear comfortable athletic clothing, tie back long hair, and remove loose jewelry or scarves before starting the course." },
+    ];
+  }
+  if (slug === "bua-tong-sticky-waterfall-adventure-tour") {
+    return [
+      { question: "Why is it called the \"Sticky\" Waterfall?", answer: "The waterfall at **Bua Tong has an unusually high mineral content** in its water, which coats the limestone surface and gives it a grippy, high-traction texture — allowing visitors to climb barefoot straight up the rock face, something that would be impossible on normal wet stone." },
+      { question: "Do I need to climb barefoot?", answer: "**Yes, the climb is done barefoot** — this is actually what makes the mineral coating work, since shoes reduce the grip. Bring sandals you can easily remove and carry." },
+      { question: "What is Dantewada Land of Angels like?", answer: "Dantewada is a **waterfall park built around a whimsical, fairy-tale aesthetic** — cascading falls, flower gardens, and photogenic architectural touches that feel almost staged despite being a real natural site, quite different in character from the raw Sticky Waterfall." },
+      { question: "How big is the group on this tour?", answer: "This tour is deliberately **kept small** (typically 8 or fewer guests), skipping the large tour buses that crowd the more popular Chiang Mai day trips, which allows for a more relaxed, flexible pace." },
+      { question: "Will I get wet?", answer: "Yes — **expect to get genuinely wet** during the Sticky Waterfall climb. Bring a change of clothes and a small towel for afterward." },
+      { question: "Is this tour physically demanding?", answer: "The waterfall climb requires **some balance and comfort with wet, uneven surfaces**, but the mineral coating's grip makes it more accessible than a typical rock scramble. Dantewada afterward is a relaxed walking visit." },
+    ];
+  }
+  if (slug === "floracreek-gardens-hang-dong-chiang-mai-mini-tour") {
+    return [
+      { question: "What does \"dining with your feet in the creek\" actually mean?", answer: "Low tables and cushions are arranged **directly over a running mountain creek**, so you sit with your feet in the cool water while you eat — a simple but memorable twist on a standard garden lunch." },
+      { question: "Is hotel transfer included?", answer: "No — Floracreek is located in **Hang Dong district**, a short drive outside central Chiang Mai, so you'll need to arrange your own transport (Grab or taxi work well)." },
+      { question: "What's on the menu?", answer: "The menu is a **rotating set of fresh Northern Thai dishes**, generally light and shareable, brought out over the course of the meal rather than all at once." },
+      { question: "Is this suitable for families with kids?", answer: "Yes — the relaxed, low-key format works well for families, and kids especially tend to enjoy having their feet in the creek while eating." },
+      { question: "How long does the experience last?", answer: "Most guests spend **around 90 minutes to two hours**, with time to also wander the surrounding gardens before or after lunch — there's no rigid schedule." },
+    ];
+  }
+
   return null;
 };

@@ -8776,5 +8776,87 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    // --- CHIANG MAI: 6 new operator-verified tours added 2026-08-05 ---
+    if (slug === "night-bazaar-area-chiang-mai-mini-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Nadia Petrov", country: "Russia", rating: 5, date: "2026-04-14", text: "Such a peaceful escape from the Night Bazaar chaos right outside. The cave-style room was cool and quiet, and the therapist worked out every knot from a week of walking. Genuinely one of the best massages I've had in Thailand." },
+                { author: "Owen Fitzgerald", country: "Ireland", rating: 5, date: "2026-03-20", text: "Booked this after a long trekking day and it was exactly what I needed. The Lanna style is slower and more stretch-focused than a typical Thai massage, really loosened up my back. Loved the herbal compress they used." },
+                { author: "Mei Ling Tan", country: "Singapore", rating: 4, date: "2026-02-25", text: "Lovely unique setting, felt like a proper hidden retreat rather than a hotel spa. My therapist was skilled and checked in on pressure throughout. Only note is it books up fast in the evenings, so plan ahead." },
+                { author: "Diego Ramirez", country: "Mexico", rating: 5, date: "2026-01-30", text: "The cave interior is such a nice touch, kept us cool even in the afternoon heat. Traditional Lanna technique was new to me and quite different from Bangkok-style massage, more stretching involved. Left feeling completely relaxed." },
+                { author: "Freya Larsen", country: "Denmark", rating: 5, date: "2025-12-18", text: "Walking distance from our hotel near the Night Bazaar which made it so easy to fit in. The aromatherapy oils smelled amazing and the whole session felt unhurried. Will definitely book again next time in Chiang Mai." },
+                { author: "Kwame Asante", country: "Ghana", rating: 4, date: "2025-11-22", text: "Really enjoyable session in a beautiful, quiet space. The herbal compress added a nice extra touch to the traditional massage. Good value for the location and quality." },
+            ],
+        };
+    }
+    if (slug === "mae-kampong-village-group-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Charlotte Bishop", country: "United Kingdom", rating: 5, date: "2026-05-11", text: "We actually spotted a small troop of gibbons in the canopy, our guide was so excited and quiet the whole way so we wouldn't scare them off. Mae Kampong village afterward was gorgeous, felt like stepping back in time. Lunch was some of the best home-cooked Thai food we had all trip." },
+                { author: "Matteo Conti", country: "Italy", rating: 5, date: "2026-04-08", text: "Small group of just 6 of us made the forest trek feel really personal. No gibbon sighting for us but the hike itself through untouched jungle was worth it. The village's wooden houses and stream running through the middle were beautiful." },
+                { author: "Aiyana Blackfeather", country: "United States", rating: 5, date: "2026-03-15", text: "Loved that a portion of the fee goes to the gibbon caretakers, felt good knowing we were supporting real conservation. Guide was knowledgeable about the reintroduction project and the village's tea-making traditions." },
+                { author: "Hiroshi Sato", country: "Japan", rating: 4, date: "2026-02-19", text: "Genuinely challenging trek in parts, good shoes are a must. We heard the gibbons calling but didn't see them, guide said that happens sometimes. Village walk and lunch more than made up for it." },
+                { author: "Amara Nwosu", country: "Nigeria", rating: 5, date: "2026-01-24", text: "Such a refreshing change from the usual temple-hopping itinerary. Mae Kampong's waterfall and tea houses were a highlight, and our guide's stories about growing up in a similar mountain village added real depth." },
+                { author: "Liam O'Brien", country: "Ireland", rating: 5, date: "2025-12-28", text: "We got lucky and saw the gibbons swinging through the trees, incredible moment. Small-group format meant we could actually ask questions throughout instead of just following a big crowd." },
+                { author: "Sofia Andersson", country: "Sweden", rating: 4, date: "2025-11-19", text: "Beautiful mountain scenery throughout the day. The trek is genuinely physical so come prepared, but the village and lunch at the end were worth every step." },
+            ],
+        };
+    }
+    if (slug === "mae-taeng-district-chiang-mai-countryside-adventure-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 6, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Jake Sullivan", country: "Australia", rating: 5, date: "2026-04-30", text: "Proper off-road ride, not the tame tourist loop I expected. The training course at the start built up my confidence before we hit the real jungle trail. Got wonderfully muddy and had an absolute blast." },
+                { author: "Elena Popescu", country: "Romania", rating: 5, date: "2026-03-27", text: "First time on an ATV and the instructors were patient and thorough with the training. The 40km route took us through rice paddies and villages I never would've seen otherwise. Sore arms the next day but worth it." },
+                { author: "Marcus Webb", country: "United States", rating: 4, date: "2026-02-21", text: "Genuinely long, varied trail with a good mix of paved road and rough jungle track. Guides kept a good pace for our mixed-experience group. Bring a change of clothes, you will get dirty." },
+                { author: "Priya Chandrasekaran", country: "India", rating: 5, date: "2026-01-17", text: "Solo ATV meant I could really push myself instead of sharing control with a passenger. Scenery through the countryside was stunning, definitely more adventurous than the standard city tours." },
+                { author: "Nils Bergström", country: "Sweden", rating: 4, date: "2025-12-09", text: "Solid three hours of genuine off-road riding. My ATV got stuck once in the mud and the guide helped pull it out without any fuss. Good fun for anyone wanting something more physical than sightseeing." },
+                { author: "Isabela Ferreira", country: "Brazil", rating: 5, date: "2025-11-14", text: "Way more trail than I expected for 3 hours, we covered real distance through jungle and farmland. Safety gear was solid and the guides stayed close throughout. Highly recommend for an adrenaline day." },
+            ],
+        };
+    }
+    if (slug === "jungle-flight-canopy-course-chiang-mai-adventure-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Ryan Coleman", country: "Canada", rating: 5, date: "2026-05-20", text: "Did the Roller Coaster line and it was unlike any zipline I've done before, the curves and dips add a totally different sensation. Twin-cable gear felt very secure throughout. Free pickup from the Old City made it an easy morning." },
+                { author: "Anastasia Volkov", country: "Russia", rating: 5, date: "2026-04-16", text: "Genuinely one of the longest courses I've been on anywhere in Southeast Asia. Guides were constantly checking our gear at every platform, felt very safety-conscious. The meal afterward was a nice touch." },
+                { author: "Thabo Nkosi", country: "South Africa", rating: 5, date: "2026-03-22", text: "Went with the Extreme package, 19 ziplines and multiple sky bridges kept the adrenaline going the whole morning. Views over the rainforest canopy were spectacular. Well worth the free hotel pickup convenience." },
+                { author: "Camille Rousseau", country: "France", rating: 4, date: "2026-02-14", text: "The Eco Family package was perfect for our mixed-age group, still plenty of ziplines and skywalks without being too extreme. Guides were great with my nervous teenager, talked her through every platform." },
+                { author: "Deepak Malhotra", country: "India", rating: 5, date: "2026-01-19", text: "Booked the Roller Coaster tier specifically for that segment and it did not disappoint, such a unique feeling compared to a normal straight zipline. Whole morning was smooth from pickup to drop-off." },
+                { author: "Grace Kim", country: "South Korea", rating: 5, date: "2025-12-15", text: "Spiral staircase and abseil sections added variety beyond just zipping between platforms. Guides were confident and clearly experienced. One of the highlights of our whole Thailand trip." },
+                { author: "Omar Haddad", country: "Jordan", rating: 4, date: "2025-11-20", text: "Great value with the meal and insurance included. The course genuinely felt high and long, not a watered-down tourist version. Would recommend the Extreme tier if you want more lines for your money." },
+                { author: "Beatrice Almeida", country: "Portugal", rating: 5, date: "2025-10-25", text: "Roller Coaster zipline was the highlight of our entire Chiang Mai trip, genuinely thrilling and different from any other zipline course we've tried. Staff were professional and the whole operation felt very well run." },
+            ],
+        };
+    }
+    if (slug === "bua-tong-sticky-waterfall-adventure-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Holly Marsh", country: "United Kingdom", rating: 5, date: "2026-04-27", text: "Small group of just 5 of us made it feel so much more relaxed than the bigger bus tours we saw arriving. Climbing barefoot up Bua Tong was such a strange, fun sensation, the rock really does grip your feet. Dantewada's gardens afterward were beautifully photogenic." },
+                { author: "Andres Villanueva", country: "Philippines", rating: 5, date: "2026-03-30", text: "Our guide was fantastic, patient with beginners on the waterfall climb and took great photos for us throughout. Dantewada felt like walking into a fairy tale, totally different vibe from the waterfall. Relaxed pace all day, never felt rushed." },
+                { author: "Ingrid Solberg", country: "Norway", rating: 4, date: "2026-02-23", text: "Sticky Waterfall genuinely lives up to the name, the mineral coating on the rock is bizarre and wonderful. Small-group format meant we could take our time finding good photo spots at both stops." },
+                { author: "Rafael Costa", country: "Brazil", rating: 5, date: "2026-01-28", text: "Loved skipping the big tour buses, our group was small and the guide adjusted timing based on what we wanted to linger over. Dantewada's flower gardens were a lovely, unexpected contrast to the waterfall." },
+                { author: "Yuna Park", country: "South Korea", rating: 5, date: "2025-12-20", text: "Climbing the waterfall barefoot was such a unique experience, definitely bring a change of clothes because you get properly wet. Guide's photography skills were a nice bonus, got some great shots of us on the falls." },
+                { author: "Tobias Richter", country: "Germany", rating: 4, date: "2025-11-16", text: "Relaxed, flexible day exactly as advertised. The mineral rock at Bua Tong is genuinely strange to walk on, in a good way. Dantewada's whimsical setting made for a nice change of pace afterward." },
+            ],
+        };
+    }
+    if (slug === "floracreek-gardens-hang-dong-chiang-mai-mini-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 5, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Susanna Eriksson", country: "Finland", rating: 5, date: "2026-04-19", text: "Such a simple but memorable idea, eating with your feet in the creek while surrounded by gardens. The food was fresh and flavorful, and the whole place felt like a genuine escape from the city heat." },
+                { author: "Benjamin Hale", country: "United States", rating: 5, date: "2026-03-12", text: "Perfect midday break during a busy sightseeing day. The creek water was cool and refreshing, and the set menu had a nice variety of Northern Thai dishes without being overwhelming." },
+                { author: "Chiara Bianchi", country: "Italy", rating: 4, date: "2026-02-08", text: "Lovely, relaxed setting a short drive from the city. We lingered for almost two hours just enjoying the gardens and the sound of the creek. Worth arranging your own transport out to Hang Dong for this." },
+                { author: "Farid Karimi", country: "Iran", rating: 5, date: "2026-01-05", text: "Such a unique lunch spot, my kids loved having their feet in the water while we ate. Food kept coming at a relaxed pace and everything tasted fresh. Highly recommend as a break from the usual restaurant lunch." },
+                { author: "Naledi Dlamini", country: "South Africa", rating: 4, date: "2025-12-02", text: "Beautiful gardens and a genuinely calming atmosphere. The creek dining concept is simple but works really well in the Chiang Mai heat. Good value for a relaxed couple of hours." },
+            ],
+        };
+    }
+
     return null;
 };

@@ -480,6 +480,19 @@ export default async function SlugPage({ params }: Props) {
       { slug: 'bangkok-scavenger-hunt-tour', title: 'Khlong Toei Market Scavenger Hunt with Tuk-Tuk Ride' },
       { slug: 'bangkok-ancient-city-erawan-museum-tour', title: 'Ancient City & Erawan Museum Day Trip' },
     ],
+    'chiang-mai': [
+      { slug: 'pon-elephant-sanctuary-half-day-tour', title: 'Ethical Elephant Sanctuary Half-Day Tour' },
+      { slug: 'wat-chedi-luang-walking-tour', title: 'Old City & Temples Walking Tour' },
+      { slug: 'doi-inthanon-national-park-guided-tour', title: 'Doi Inthanon National Park Guided Tour' },
+      { slug: 'wat-rong-khun-white-temple-spiritual-tour', title: 'Chiang Rai White, Blue & Red Temple Tour' },
+      { slug: 'local-market-chiang-mai-food-tour', title: 'Cooking Class, Market & Thai Herbs Garden Tour' },
+      { slug: 'mae-kampong-village-group-tour', title: 'Gibbon Trek & Mae Kampong Village Tour' },
+      { slug: 'night-bazaar-area-chiang-mai-mini-tour', title: 'Cave-Style Lanna Massage & Spa' },
+      { slug: 'jungle-flight-canopy-course-chiang-mai-adventure-tour', title: 'Jungle Flight Zipline Roller Coaster' },
+      { slug: 'mae-taeng-district-chiang-mai-countryside-adventure-tour', title: '3-Hour ATV Jungle Adventure' },
+      { slug: 'bua-tong-sticky-waterfall-adventure-tour', title: 'Sticky Waterfall & Dantewada Small-Group Tour' },
+      { slug: 'floracreek-gardens-hang-dong-chiang-mai-mini-tour', title: 'Creekside Garden Lunch Experience' },
+    ],
   };
 
   const cityTourLinks = CITY_TOUR_LINKS[citySlug] || [];
