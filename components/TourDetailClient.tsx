@@ -2062,12 +2062,15 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                     <div className="mb-6">
                       {fxRates && (
-                        <div className="flex items-center justify-between mb-3">
-                          <span className="text-[11px] font-bold text-gray-400 uppercase tracking-wider">Show prices in</span>
+                        <div className="flex items-center justify-between mb-3 bg-[#10B981]/10 border border-[#10B981]/30 rounded-xl px-3 py-2">
+                          <span className="text-[11px] font-black text-[#059669] uppercase tracking-wider flex items-center gap-1.5">
+                            <Globe size={13} className="text-[#059669]" />
+                            Show prices in
+                          </span>
                           <select
                             value={displayCurrency}
                             onChange={(e) => setDisplayCurrency(e.target.value)}
-                            className="text-xs font-bold text-gray-700 bg-gray-50 border border-gray-200 rounded-lg px-2 py-1 outline-none focus:ring-1 focus:ring-[#10B981] cursor-pointer"
+                            className="text-xs font-black text-white bg-[#10B981] border border-[#10B981] rounded-lg px-2.5 py-1.5 outline-none focus:ring-2 focus:ring-[#10B981]/40 cursor-pointer hover:bg-[#059669] transition-colors"
                             aria-label="Display currency"
                           >
                             {Object.keys(fxRates).map((c) => (
