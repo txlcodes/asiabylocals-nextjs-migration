@@ -968,35 +968,62 @@ const CITY_DESCRIPTIONS: Record<string, {
   },
   'Chiang Mai': {
     title: 'Chiang Mai Tours & Things to Do | Guided Experiences by Locals',
-    description: 'Discover the best tours in Chiang Mai with licensed local guides. Doi Suthep tours, ethical elephant encounters, cooking classes & night markets.',
+    description: 'Discover the best tours in Chiang Mai with licensed local guides. Ethical elephant sanctuaries, Doi Inthanon treks, cooking classes, Old City temples & Chiang Rai day trips.',
     intro: [
-      'Chiang Mai, the cultural heart of Northern Thailand, is a city of misty mountains, ancient temples, and vibrant night markets. It is a place where tradition meets modernity, offering a peaceful escape from the bustle of the south.',
-      'At AsiaByLocals, experience the magic of Chiang Mai with expert local guides. From the sacred Doi Suthep mountain to ethical elephant sanctuaries and traditional cooking classes, discover the authentic spirit of the "Rose of the North."'
+      'Chiang Mai, the cultural heart of Northern Thailand, is a city of misty mountains, ancient temples, and vibrant night markets — a place where tradition meets modernity, offering a peaceful escape from the bustle of the south. Inside the moated Old City, gold-topped temples like Wat Chedi Luang sit a short walk from bustling markets, and a [3-hour Old City and temples walking tour](/thailand/chiang-mai/wat-chedi-luang-walking-tour) is the easiest way to see the highlights with real context instead of guesswork.',
+      'At AsiaByLocals, experience the magic of Chiang Mai with expert local guides. Meet rescued elephants the right way at an [ethical half-day elephant sanctuary](/thailand/chiang-mai/pon-elephant-sanctuary-half-day-tour), hike through cloud forest and rice terraces on a [Doi Inthanon National Park day tour](/thailand/chiang-mai/doi-inthanon-national-park-guided-tour), hand-roll curry paste in a [cooking class with a market and herb garden visit](/thailand/chiang-mai/local-market-chiang-mai-food-tour), or head north for a full day at [Chiang Rai\'s White, Blue and Red Temples](/thailand/chiang-mai/wat-rong-khun-white-temple-spiritual-tour). Adrenaline seekers can add a [jungle zipline canopy tour](/thailand/chiang-mai/kingkong-smile-zipline-doi-saket-adventure-tour) or watch a fight night at [Chiang Mai\'s Muay Thai boxing stadium](/thailand/chiang-mai/chiangmai-boxing-stadium-entry-ticket).'
     ],
     whyBook: [
       'Licensed & experienced local experts',
       'Direct support to local communities',
-      'Ethical, small-group experiences',
-      'Support for local artisans and farmers'
+      'Ethical, small-group experiences — no elephant riding, ever',
+      'Support for local artisans, farmers, and mahout families'
     ],
     topAttractions: [
-      'Doi Suthep',
-      'Old City Temples',
-      'Elephant Sanctuary (ethical only)',
-      'Doi Inthanon',
-      'Sunday Walking Street',
+      'Doi Suthep (Wat Phra That Doi Suthep)',
+      'Old City Temples (Wat Chedi Luang, Wat Phra Singh)',
+      'Ethical Elephant Sanctuaries',
+      'Doi Inthanon National Park',
+      'Sunday Walking Street Market',
       'Night Bazaar',
-      'Chiang Rai (White Temple)'
+      'Chiang Rai (White, Blue & Red Temples)',
+      'Mae Wang Jungle & Waterfalls',
+      'Traditional Thai Cooking Schools',
+      'Rajadamnern-style Muay Thai Stadium'
     ],
-    bestTime: 'The best time to visit Chiang Mai is from November to February when the weather is cool and clear. Note that "burning season" (air pollution) typically occurs from February to April.',
+    bestTime: 'The best time to visit Chiang Mai is from **November to February**, the cool season, when daytime temperatures sit around 25–30°C and mornings on [Doi Inthanon](/thailand/chiang-mai/doi-inthanon-national-park-guided-tour) can even feel chilly — ideal for temple-hopping and jungle treks alike. March to May is hot season, and February to April is also **"burning season,"** when agricultural burning pushes air quality down; if you\'re sensitive to smoke, plan around those months. The rainy season (June–October) brings the countryside to its most lush and green, with short afternoon downpours rather than all-day rain, so cooking classes, temple visits and the [Chiang Rai day trip](/thailand/chiang-mai/wat-rong-khun-white-temple-spiritual-tour) remain excellent options year-round.',
     faqs: [
       {
         question: 'Are elephant sanctuaries in Chiang Mai ethical?',
-        answer: 'AsiaByLocals only partners with 100% ethical sanctuaries that prioritize animal welfare, with no riding or circus-style shows.'
+        answer: 'AsiaByLocals only partners with sanctuaries that prioritize animal welfare, with **no riding, no shows, and no chains** — just feeding, walking alongside the herd, and (at some parks) a mud bath or bathing session. Our [half-day elephant sanctuary tour](/thailand/chiang-mai/pon-elephant-sanctuary-half-day-tour) explains each elephant\'s rescue story so you understand the "why" behind ethical tourism, not just the "what."'
       },
       {
-        question: 'How far is the White Temple from Chiang Mai?',
-        answer: 'The White Temple (Wat Rong Khun) is in Chiang Rai, about a 3-hour drive from Chiang Mai. We offer full-day trips that cover the major highlights of Chiang Rai.'
+        question: 'How far is the White Temple from Chiang Mai, and is it a long day?',
+        answer: 'The White Temple (Wat Rong Khun) is in Chiang Rai province, about a **3-hour drive** from Chiang Mai. It\'s a full-day trip, but a good one — our [Chiang Rai temples tour](/thailand/chiang-mai/wat-rong-khun-white-temple-spiritual-tour) combines the White, Blue and Red Temples in a single loop with a private driver, so you\'re not doubling back on the highway.'
+      },
+      {
+        question: 'What is Doi Inthanon and is it worth a full day?',
+        answer: 'Doi Inthanon is **Thailand\'s highest peak** (2,565m) and a national park of cloud forest, twin royal pagodas, and waterfalls — noticeably cooler than the city, especially at sunrise. Yes, it\'s worth a full day: our [Doi Inthanon guided tour](/thailand/chiang-mai/doi-inthanon-national-park-guided-tour) covers the summit boardwalk, the pagodas, and a waterfall stop, with a local guide handling the mountain roads.'
+      },
+      {
+        question: 'What should I expect from a Chiang Mai cooking class?',
+        answer: 'Most classes start with a **local market visit** to pick fresh herbs and vegetables, followed by hands-on cooking of 4–5 classic dishes (pad thai, curry paste from scratch, tom yum) at a countryside kitchen or organic farm. Our [market and cooking class tour](/thailand/chiang-mai/local-market-chiang-mai-food-tour) is vegetarian- and allergy-friendly on request, and you eat everything you make.'
+      },
+      {
+        question: 'Is Chiang Mai good for adventure activities?',
+        answer: 'Yes — the jungle around Chiang Mai (especially Mae Wang and Mae Kampong) is set up for zipline canopy tours, ATV rides, bamboo rafting and waterfall trekking, often combined in one day. Our [jungle zipline adventure tour](/thailand/chiang-mai/kingkong-smile-zipline-doi-saket-adventure-tour) and [Mae Wang eco park tour](/thailand/chiang-mai/mae-wang-elephant-eco-park-adventure-tour) both mix adrenaline activities with an ethical elephant visit in the same day.'
+      },
+      {
+        question: 'Can I see real Muay Thai in Chiang Mai?',
+        answer: 'Yes — Chiang Mai has its own boxing stadium with regular fight nights featuring local and international fighters, a much lower-key (and lower-cost) alternative to the big Bangkok stadiums. Our [Muay Thai stadium ticket](/thailand/chiang-mai/chiangmai-boxing-stadium-entry-ticket) gets you ringside for an authentic evening of Thailand\'s national sport.'
+      },
+      {
+        question: 'How many days do I need in Chiang Mai?',
+        answer: 'We recommend **3 to 4 days**. Day 1: Old City temples on foot, ending at the Sunday Walking Street if timing allows. Day 2: [ethical elephant sanctuary](/thailand/chiang-mai/pon-elephant-sanctuary-half-day-tour) in the morning, night market in the evening. Day 3: full-day [Doi Inthanon trek](/thailand/chiang-mai/doi-inthanon-national-park-guided-tour) or a [Chiang Rai temple loop](/thailand/chiang-mai/wat-rong-khun-white-temple-spiritual-tour). Day 4: cooking class or jungle adventure before you fly out.'
+      },
+      {
+        question: 'Is Chiang Mai walkable, or do I need a guide with transport?',
+        answer: 'The **Old City is very walkable** — most major temples are within a 15-minute stroll of each other inside the moat. Anything outside the moat (Doi Suthep, Doi Inthanon, elephant sanctuaries, Chiang Rai) is a proper drive on mountain roads, where a private guide with transport is worth it for both safety and the local commentary you\'d otherwise miss.'
       }
     ]
   },
@@ -2735,7 +2762,22 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             Best Time to Visit {city}
           </h2>
           <p className="text-[16px] text-gray-700 font-semibold leading-relaxed max-w-3xl">
-            {cityInfo.bestTime}
+            {cityInfo.bestTime.split(/(\*\*.*?\*\*|\[.*?\]\(.*?\))/g).map((part, i) => {
+              if (part.startsWith('**') && part.endsWith('**')) {
+                return <strong key={i} className="font-black text-[#001A33]">{part.slice(2, -2)}</strong>;
+              }
+              if (part.startsWith('[') && part.includes('](')) {
+                const match = part.match(/\[(.*?)\]\((.*?)\)/);
+                if (match) {
+                  return (
+                    <Link key={i} href={match[2]} className="text-[#10B981] font-black border-b border-[#10B981]/30 hover:border-[#10B981] transition-all">
+                      {match[1]}
+                    </Link>
+                  );
+                }
+              }
+              return part;
+            })}
           </p>
         </section>
 
