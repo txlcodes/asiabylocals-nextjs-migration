@@ -1496,12 +1496,12 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                             {allOptions.map((option: any) => {
                               const isSelected = selectedOption?.id === option.id;
-                              const currencySymbol = '$';
+                              const currencySymbol = displaySymbol;
                               const optTiers = option.groupPricingTiers
                                 ? (typeof option.groupPricingTiers === 'string' ? (() => { try { return JSON.parse(option.groupPricingTiers); } catch { return []; } })() : option.groupPricingTiers)
                                 : [];
                               const optionHasOwnTiers = Array.isArray(optTiers) && optTiers.length > 0;
-                              const toDisplayPrice = (price: number) => price;
+                              const toDisplayPrice = (price: number) => fxConvert(price);
 
                               const optImgs = Array.isArray(option.images) ? option.images : (typeof option.images === 'string' ? (() => { try { return JSON.parse(option.images); } catch { return []; } })() : []);
                               const optImg = optImgs.find((img: string) => img && !img.startsWith('data:'));
@@ -3109,8 +3109,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               <div className="space-y-4 max-h-[70vh] overflow-y-auto pr-2">
                 {(tour.options || []).filter((opt: any) => opt.sortOrder !== -1).map((option: any) => {
                   const isSelected = selectedOption?.id === option.id;
-                  const effectiveCurrency = tour.currency || option.currency || 'USD';
-                  const currencySymbol = effectiveCurrency === 'USD' ? '$' : effectiveCurrency === 'EUR' ? '€' : '₹';
+                  const currencySymbol = displaySymbol;
 
                   return (
                     <div
@@ -3179,15 +3178,15 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                 const groupPrice = calculateGroupPrice(option, currentParticipants);
 
                                 if (groupPrice !== null) {
-                                  return `${currencySymbol}${groupPrice.toLocaleString()}`;
+                                  return `${currencySymbol}${fxConvert(groupPrice).toLocaleString()}`;
                                 }
 
                                 if (option.groupPrice) {
-                                  return `${currencySymbol}${option.groupPrice.toLocaleString()}`;
+                                  return `${currencySymbol}${fxConvert(option.groupPrice).toLocaleString()}`;
                                 }
 
                                 // Fallback: use option.price as fixed price
-                                return `${currencySymbol}${(option.price || 0).toLocaleString()}`;
+                                return `${currencySymbol}${fxConvert(option.price || 0).toLocaleString()}`;
                               })()}
                             </div>
                           </div>
@@ -3318,17 +3317,17 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         {(() => {
                           const currentParticipants = isCustomParticipants ? customParticipants : participants;
                           const tourData = selectedOption || tour;
-                          const currencySymbol = (tour.currency || selectedOption?.currency || 'USD') === 'INR' ? '₹' : '$';
+                          const currencySymbol = displaySymbol;
 
                           // Always use group pricing logic - calculate from tiers
                           const groupPrice = calculateGroupPrice(tourData, currentParticipants);
                           if (groupPrice !== null && groupPrice > 0) {
-                            return `${currencySymbol}${groupPrice.toLocaleString()}`;
+                            return `${currencySymbol}${fxConvert(groupPrice).toLocaleString()}`;
                           }
                           // DO NOT use groupPrice fallback - it's the LAST tier price (wrong)
                           // Fallback: use pricePerPerson (should be first tier price)
                           const pricePerPerson = selectedOption?.price || tour.pricePerPerson || 0;
-                          return `${currencySymbol}${pricePerPerson.toLocaleString()}`;
+                          return `${currencySymbol}${fxConvert(pricePerPerson).toLocaleString()}`;
                         })()}
                       </span>
                     </div>
@@ -3661,7 +3660,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         <div className="flex flex-col">
           <span className="text-[12px] text-gray-500 font-semibold">Starting from</span>
           <span className="text-[20px] font-black text-[#10B981]">
-            {tour?.currency === 'INR' ? '₹' : '$'}{selectedOption?.price || tour?.pricePerPerson || 0}
+            {displaySymbol}{fxConvert(selectedOption?.price || tour?.pricePerPerson || 0).toLocaleString()}
           </span>
         </div>
         <button
