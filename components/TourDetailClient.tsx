@@ -136,6 +136,30 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const [realReviews, setRealReviews] = useState<any[]>([]);
   const [realReviewStats, setRealReviewStats] = useState<{totalReviews: number; averageRating: number; guideRating: number; valueRating: number} | null>(null);
 
+  // Currency selector — shown right next to the price, not buried in the checkout form
+  const [displayCurrency, setDisplayCurrency] = useState((initialTour?.currency || 'USD').toUpperCase());
+  const [fxRates, setFxRates] = useState<Record<string, number> | null>(null);
+  useEffect(() => {
+    const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+    fetch(`${API_URL}/api/payments/fx-rates`)
+      .then(res => res.json())
+      .then(data => { if (data.success && data.rates) setFxRates(data.rates); })
+      .catch(() => { /* selector just stays on the tour's base currency */ });
+  }, []);
+  const CURRENCY_SYMBOLS: Record<string, string> = {
+    USD: '$', EUR: '€', GBP: '£', CAD: 'C$', AUD: 'A$',
+    SGD: 'S$', AED: 'AED ', CHF: 'CHF ', NZD: 'NZ$', INR: '₹'
+  };
+  const baseCurrency = (initialTour?.currency || 'USD').toUpperCase();
+  const fxConvert = (amount: number) => {
+    if (!fxRates || displayCurrency === baseCurrency) return amount;
+    const from = fxRates[baseCurrency];
+    const to = fxRates[displayCurrency];
+    if (!from || !to) return amount;
+    return Math.round(amount * (to / from) * 100) / 100;
+  };
+  const displaySymbol = CURRENCY_SYMBOLS[displayCurrency] || `${displayCurrency} `;
+
   useEffect(() => {
     const tourId = initialTour?.id;
     if (!tourId) return;
@@ -2024,15 +2048,30 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     </div>
 
                     <div className="mb-6">
+                      {fxRates && (
+                        <div className="flex items-center justify-between mb-3">
+                          <span className="text-[11px] font-bold text-gray-400 uppercase tracking-wider">Show prices in</span>
+                          <select
+                            value={displayCurrency}
+                            onChange={(e) => setDisplayCurrency(e.target.value)}
+                            className="text-xs font-bold text-gray-700 bg-gray-50 border border-gray-200 rounded-lg px-2 py-1 outline-none focus:ring-1 focus:ring-[#10B981] cursor-pointer"
+                            aria-label="Display currency"
+                          >
+                            {Object.keys(fxRates).map((c) => (
+                              <option key={c} value={c}>{c}</option>
+                            ))}
+                          </select>
+                        </div>
+                      )}
                       {/* Show main tour pricing ONLY when NO option is selected */}
                       {!selectedOption && (
                         <div className="mb-4">
                           <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Main Tour Price</div>
                           <div className="flex items-baseline gap-3 mb-1">
                             <span className="text-[14px] text-gray-500 font-semibold">
-                              Starting from $
+                              Starting from {displaySymbol}
                               {(() => {
-                                const sidebarConvert = (p: number) => p;
+                                const sidebarConvert = (p: number) => fxConvert(p);
                                 console.log('═══════════════════════════════════════════════════════════');
                                 console.log('🏷 "STARTING FROM" PRICE CALCULATION');
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -2106,7 +2145,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                               })()}
                             </span>
                             <div className="text-3xl font-black text-red-600">
-                              $
+                              {displaySymbol}
                               {(() => {
                                 const currentParticipants = isCustomParticipants ? customParticipants : participants;
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -2117,7 +2156,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                                 // Always use group pricing logic - calculate from tiers
                                 const groupPrice = calculateGroupPrice(tour, currentParticipants);
-                                const sidebarConvertDynamic = (p: number) => p;
+                                const sidebarConvertDynamic = (p: number) => fxConvert(p);
 
                                 if (groupPrice !== null && groupPrice > 0) {
                                   console.log('✅ Using calculated group price:', groupPrice);
@@ -2164,7 +2203,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           </div>
                           <div className="flex items-baseline gap-3 mb-1">
                             <div className="text-3xl font-black text-[#10B981]">
-                              $
+                              {displaySymbol}
                               {(() => {
                                 const currentParticipants = isCustomParticipants ? customParticipants : participants;
                                 // Same logic: if option has no own tiers, price came from main tour's INR tiers
@@ -2172,7 +2211,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   ? (typeof selectedOption.groupPricingTiers === 'string' ? (() => { try { return JSON.parse(selectedOption.groupPricingTiers); } catch { return []; } })() : selectedOption.groupPricingTiers)
                                   : [];
                                 const selOptHasOwnTiers = Array.isArray(selOptTiers) && selOptTiers.length > 0;
-                                const convertOpt = (p: number) => p;
+                                const convertOpt = (p: number) => fxConvert(p);
                                 console.log('═══════════════════════════════════════════════════════════');
                                 console.log('💰 SELECTED OPTION PRICE CALCULATION');
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -3579,6 +3618,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
             guests={pendingBookingData.numberOfGuests}
             totalAmount={pendingBookingData.totalAmount}
             currency={pendingBookingData.currency}
+            initialPayCurrency={displayCurrency}
             onSubmit={handleProceedToPayment}
             onClose={() => {
               setShowBookingForm(false);

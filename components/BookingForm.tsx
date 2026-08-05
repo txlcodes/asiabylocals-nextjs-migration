@@ -15,6 +15,7 @@ interface BookingFormProps {
     guests: number;
     totalAmount: number;
     currency: string;
+    initialPayCurrency?: string;
     onSubmit: (data: any) => Promise<void>;
     onClose: () => void;
     isSubmitting?: boolean;
@@ -26,6 +27,7 @@ const BookingForm: React.FC<BookingFormProps> = ({
     guests,
     totalAmount,
     currency,
+    initialPayCurrency,
     onSubmit,
     onClose,
     isSubmitting = false
@@ -38,7 +40,7 @@ const BookingForm: React.FC<BookingFormProps> = ({
         specialRequests: ''
     });
     const [emailError, setEmailError] = useState('');
-    const [payCurrency, setPayCurrency] = useState(currency || 'USD');
+    const [payCurrency, setPayCurrency] = useState(initialPayCurrency || currency || 'USD');
     const [fxRates, setFxRates] = useState<Record<string, number> | null>(null);
 
     useEffect(() => {
