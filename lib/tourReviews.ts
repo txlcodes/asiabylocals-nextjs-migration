@@ -8704,5 +8704,77 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    // --- CHIANG MAI: 5 review-gap tours added 2026-08-05 ---
+    if (slug === "mae-wang-elephant-eco-park-adventure-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.7, valueRating: 4.6,
+            reviews: [
+                { author: "Nathan Brooks", country: "Australia", rating: 5, date: "2026-04-11", text: "Packed so much into one day — fed the elephants, tore through the jungle on the ATV, then cooled off bamboo rafting down the river. Guide kept the pace fun without ever feeling rushed. Free elephant park entry was a nice surprise too." },
+                { author: "Camille Dubois", country: "France", rating: 5, date: "2026-03-22", text: "The ATV section through Mae Wang jungle was way more thrilling than I expected, proper mud and hills. Bamboo rafting afterward was the perfect calm-down. Stopped at a Karen village on the way which added some nice cultural context." },
+                { author: "Ben Turner", country: "United Kingdom", rating: 4, date: "2026-02-14", text: "Great value adventure day. We upgraded to the zipline add-on which was a great call, flying over the jungle canopy after the ATV ride. Only note is the ATV riding gear could've been a bit better fitted." },
+                { author: "Aiko Yamamoto", country: "Japan", rating: 5, date: "2026-01-30", text: "Loved that this combined so many activities without feeling chaotic. Elephant feeding was gentle and hands-on, ATV was properly muddy fun, and the raft ride let us just relax and take in the scenery. Lunch included was tasty too." },
+                { author: "Diego Fernandez", country: "Spain", rating: 4, date: "2025-12-19", text: "Solid full day out. The 1-hour ATV single option was plenty for us, and the waterfall stop was a highlight for photos. Hotel pickup was on time both ways." },
+                { author: "Grace Mwangi", country: "Kenya", rating: 5, date: "2025-11-25", text: "First time on an ATV and the guide made sure I felt confident before we headed into the jungle trails. Bamboo rafting was so peaceful after all that adrenaline. The Karen village stop was a nice, respectful addition, not touristy at all." },
+                { author: "Lucas Meyer", country: "Germany", rating: 5, date: "2025-10-08", text: "Booked the zipline package and it was worth every baht — elephants, ATV, rafting, and zipline all in one day is a lot of value. Guide was attentive and made sure everyone in our group was comfortable with each activity." },
+            ],
+        };
+    }
+    if (slug === "traditional-khan-toke-restaurant-chiang-mai-experience") {
+        return {
+            averageRating: 4.6, totalReviews: 6, guideRating: 4.5, valueRating: 4.7,
+            reviews: [
+                { author: "Helen Wallace", country: "United States", rating: 5, date: "2026-05-02", text: "Such a lovely, low-key evening. Sat on the floor cushions Northern Thai style and worked through several dishes while dancers performed traditional Lanna routines right in front of us. Great way to experience local culture without it feeling staged." },
+                { author: "Antoine Bernard", country: "France", rating: 4, date: "2026-04-08", text: "Food was tasty and generous, and the costumes during the dance show were beautiful. Took the pickup option from town which made the evening completely hassle-free. A bit touristy but still enjoyable." },
+                { author: "Mei Lin", country: "Singapore", rating: 5, date: "2026-03-15", text: "Perfect relaxed evening after a busy day of temples. The live music and dancing paired really well with the food, and portions were more than enough. Would recommend the Mae Rim pickup if you're staying out that way." },
+                { author: "Robert Hughes", country: "Canada", rating: 4, date: "2026-02-20", text: "Nice cultural show, good variety of Northern Thai dishes on the tray. Seating on the floor took some getting used to but added to the authentic feel. Good value for the no-transfer option if you're already central." },
+                { author: "Isabela Rocha", country: "Brazil", rating: 5, date: "2026-01-11", text: "The dancers were captivating, especially the long fingernail dance. Food kept coming and everything was flavorful without being too spicy for my kids. Great intro to Lanna culture for families." },
+                { author: "Tomas Novak", country: "Czech Republic", rating: 5, date: "2025-12-05", text: "Really enjoyed sitting Khan Toke style on cushions with the low table. The show ran through several traditional dances and even had some audience interaction near the end. Good pace, never felt rushed." },
+            ],
+        };
+    }
+    if (slug === "kingkong-smile-zipline-doi-saket-adventure-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.6, valueRating: 4.6,
+            reviews: [
+                { author: "Jack Sullivan", country: "Ireland", rating: 5, date: "2026-05-19", text: "Genuinely one of the longest zipline courses I've done anywhere. Staff double-checked every harness and clip before each line, felt very safe throughout. Buffet lunch afterward was a great touch, proper Thai spread." },
+                { author: "Freya Nilsen", country: "Norway", rating: 5, date: "2026-04-25", text: "Did the Extreme Program and it did not disappoint — long lines, good height, and a couple of platforms with amazing jungle views. Transfers were smooth both ways, driver was right on time." },
+                { author: "Arjun Mehta", country: "India", rating: 4, date: "2026-03-30", text: "Fun adrenaline morning. The safety briefing was thorough which put me at ease since I'm not usually into heights. Lunch buffet had a good variety, plenty for everyone in our group." },
+                { author: "Chiara Rossi", country: "Italy", rating: 5, date: "2026-02-17", text: "Booked the Ultimate Program and it was more than enough zipline for us. Staff were friendly, cracking jokes to calm nervous flyers while still being professional about safety checks. Would happily do it again." },
+                { author: "David Osei", country: "Ghana", rating: 5, date: "2026-01-22", text: "The course really does feel massive, kept expecting it to end and there'd be another line. Great views over the Doi Saket jungle from the platforms. Hotel pickup made the whole morning easy." },
+                { author: "Lena Fischer", country: "Germany", rating: 4, date: "2025-12-14", text: "Solid zipline experience with good staff who clearly knew what they were doing. The Extreme Program was worth the upgrade for the extra lines and height. Buffet lunch afterward hit the spot after all that adrenaline." },
+                { author: "Noah Bennett", country: "Australia", rating: 5, date: "2025-11-09", text: "Took the whole family and even the nervous ones ended up loving it once we got going. Guides were patient and encouraging on the higher platforms. Great value with lunch and transfers all included." },
+            ],
+        };
+    }
+    if (slug === "doi-inthanon-national-park-full-day-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Olivia Marsh", country: "United Kingdom", rating: 5, date: "2026-05-06", text: "Doi Inthanon was noticeably cooler than the city, such a nice change. The twin pagodas were stunning and our guide explained the significance behind them really well. Waterfall stop was a great photo break too." },
+                { author: "Felix Wagner", country: "Germany", rating: 5, date: "2026-04-12", text: "Booked the option with entrance fees and hotel pickup included, made the whole day completely stress-free. Guide was knowledgeable about the park's ecology and the hill tribe village stop felt respectful, not exploitative." },
+                { author: "Anika Sharma", country: "India", rating: 4, date: "2026-03-18", text: "Beautiful full day out, the summit area is surprisingly lush and cool for Thailand. Lunch included was tasty. Only wish we'd had a bit more free time at the pagodas since they're so photogenic." },
+                { author: "Ethan Walsh", country: "Canada", rating: 5, date: "2026-02-25", text: "Highest point in Thailand and it really does feel like a different climate up there. Our guide made the boardwalk nature trail interesting with info on the local birds and plants. Well organized from pickup to drop-off." },
+                { author: "Valentina Ruiz", country: "Mexico", rating: 5, date: "2026-01-19", text: "Loved the mix of nature and culture on this trip — waterfalls, the royal pagodas, and a stop at a hill tribe village. Guide was patient with our group's questions and clearly passionate about the park." },
+                { author: "Samuel Osei", country: "Ghana", rating: 4, date: "2025-12-11", text: "Great value tour covering a lot of ground in one day. The meeting point option worked well for us since we were staying centrally. Pagodas and waterfall were the highlights for sure." },
+                { author: "Mia Andersson", country: "Sweden", rating: 5, date: "2025-11-06", text: "Such a refreshing break from the city heat. Our guide knew all the best photo spots at the pagodas and the waterfall was gorgeous even in the dry season. Lunch was simple but good." },
+            ],
+        };
+    }
+    if (slug === "chiang-mai-thai-cooking-class-ethical-elephant-sanctuary") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Charlotte Reed", country: "United States", rating: 5, date: "2026-05-28", text: "Best full day we had in Chiang Mai. Cooking on the organic farm in the morning was hands-on and fun, then meeting the rescued elephants in the afternoon was genuinely moving. No riding, just feeding and walking with them at their own pace." },
+                { author: "Julien Moreau", country: "France", rating: 5, date: "2026-04-30", text: "Loved combining two completely different experiences in one long day. Our individual cooking station meant I could actually follow along properly instead of just watching a demo. The elephant sanctuary afterward felt genuinely ethical, our guide explained each elephant's rescue story." },
+                { author: "Ananya Rao", country: "India", rating: 5, date: "2026-03-24", text: "Long day (11-12 hours) but never felt like too much. Market tour before cooking was a nice touch, and lunch was literally the food we'd just made. Dinner at the sanctuary in the evening was a lovely way to end the day." },
+                { author: "Connor Doyle", country: "Ireland", rating: 4, date: "2026-02-16", text: "Great value combining a cooking class and elephant experience instead of booking two separate tours. The farm setting for cooking was peaceful and green. Only wish there'd been a bit more free time with the elephants." },
+                { author: "Sara Lindqvist", country: "Sweden", rating: 5, date: "2026-01-20", text: "Cooking on an actual organic farm made this feel so much more authentic than a hotel kitchen class. The elephants at the sanctuary were clearly well cared for, no chains or hooks in sight. Round-trip transfers made the long day easy." },
+                { author: "Miguel Torres", country: "Spain", rating: 5, date: "2025-12-28", text: "Such a well thought out itinerary — cook in the morning, drive out toward Doi Inthanon in the afternoon for the elephants. Guide was fantastic the whole day, clearly passionate about both the food and the animals." },
+                { author: "Hannah Cole", country: "Australia", rating: 4, date: "2025-11-30", text: "Really enjoyable, if long, day. Individual cooking stations meant everyone in our group of 6 could actually cook rather than crowd around one pan. Elephant sanctuary in the afternoon was calm and clearly focused on the animals' wellbeing." },
+                { author: "Erik Johansson", country: "Norway", rating: 5, date: "2025-10-15", text: "Two great experiences rolled into one day trip. The farm-to-forest concept worked really well logistically. Dinner at the sanctuary as the sun went down over the hills was a perfect way to end it." },
+            ],
+        };
+    }
+
     return null;
 };

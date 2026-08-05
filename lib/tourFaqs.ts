@@ -5678,5 +5678,57 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
+  // --- CHIANG MAI: 5 review-gap tours added 2026-08-05 ---
+  if (slug === "mae-wang-elephant-eco-park-adventure-tour") {
+    return [
+      { question: "What's actually included in the elephant park entry?", answer: "The tour includes **free entry to the elephant park plus a feeding session**, so you'll get up close to the elephants and hand-feed them before heading off on the ATV. There's no riding involved — it's feeding and observation only, in line with ethical elephant tourism." },
+      { question: "What's the difference between the two options?", answer: "The **1 Hr. Single ATV option ($88.61)** covers a shorter solo ATV ride plus the elephant park, waterfall, rafting, and lunch. The **Scenic & Zipline option ($99.65)** extends the ATV portion and adds a zipline through the jungle canopy on top of everything else." },
+      { question: "Is the ATV riding suitable for beginners?", answer: "Yes — **no prior ATV experience is required**. Guides give a safety briefing and demonstration before you set off, and the trails are led at a pace suitable for first-timers, though you should be comfortable getting muddy on jungle terrain." },
+      { question: "What should I wear and bring?", answer: "Wear **clothes and shoes you don't mind getting muddy and wet**, since the ATV ride and bamboo rafting both involve mud and water. Bring a change of clothes, sunscreen, and a waterproof bag or phone case for your belongings." },
+      { question: "Is lunch included?", answer: "Yes, **lunch is included** in both pricing options as part of the full-day itinerary, along with hotel pickup and drop-off." },
+      { question: "Can I skip the ATV or zipline if I'm nervous about it?", answer: "The **elephant feeding and bamboo rafting are low-key and suitable for most guests**, but the ATV riding and zipline add-on do involve some physical activity and comfort with adventure sports. Let your guide know beforehand if you'd prefer to sit out any single activity — they can usually accommodate this." },
+    ];
+  }
+  if (slug === "traditional-khan-toke-restaurant-chiang-mai-experience") {
+    return [
+      { question: "What is a Khan Toke dinner exactly?", answer: "Khan Toke is a **traditional Northern Thai (Lanna) dining style** where guests sit on floor cushions around a low round tray table and share several dishes served together, rather than in courses. It's paired here with a **live cultural show** of traditional Lanna dance and music performed while you eat." },
+      { question: "Which pickup option should I choose?", answer: "The **No Transfer option ($24.20)** works if you're already staying centrally and can make your own way there. **Pickup from Chiang Mai Town ($35.23)** covers most central hotels, while **Pickup in Mae Rim Area ($53.38)** is for guests staying further out toward Mae Rim." },
+      { question: "Is the food spicy, and can dietary needs be accommodated?", answer: "The set menu includes a **mix of mild and moderately spiced Northern Thai dishes**, generally approachable for most palates. Let the restaurant know about any allergies or dietary restrictions (vegetarian, no shellfish, etc.) when booking so they can adjust your tray." },
+      { question: "How long does the evening last?", answer: "The **No Transfer option runs about 1.75 hours** covering just the dinner and show, while the **pickup options run closer to 3 hours** to account for hotel transfers before and after." },
+      { question: "Is this suitable for children?", answer: "Yes, it's a relaxed, family-friendly evening — the floor seating and cultural show format work well for kids, though very young children may find the extended floor sitting a bit long." },
+      { question: "What does the cultural show include?", answer: "The show features **traditional Lanna dance performances** (including classics like the long fingernail dance), live traditional music, and performers in regional costume, all performed tableside while you dine." },
+    ];
+  }
+  if (slug === "kingkong-smile-zipline-doi-saket-adventure-tour") {
+    return [
+      { question: "How long is this zipline course compared to others in Chiang Mai?", answer: "This is marketed as one of the **longest and highest zipline courses** in the Chiang Mai area, with multiple platforms and long cable runs through jungle canopy near Doi Saket. It's a step up in scale from shorter beginner courses elsewhere in the city." },
+      { question: "What's the difference between the Ultimate and Extreme programs?", answer: "The **Ultimate Program ($67.62, 6 hours)** covers the core zipline course with lunch and transfers. The **Extreme Program ($88.97, 7 hours)** extends the course with additional or longer lines for more experienced thrill-seekers." },
+      { question: "Is this safe for someone afraid of heights?", answer: "Staff conduct a **thorough safety briefing and full harness/clip checks** before every line, and guides are experienced at reassuring nervous first-timers. That said, the course does involve genuine height and speed, so it's worth being honest with yourself about your comfort level beforehand." },
+      { question: "Is hotel pickup included?", answer: "Yes, **round-trip hotel transfers are included** in both program options, along with a Thai buffet lunch after the course." },
+      { question: "Is there a weight or age limit?", answer: "Zipline courses typically have a **minimum age and maximum weight limit** for safety reasons — confirm the specific limits with the operator when booking, especially if traveling with children or larger adults." },
+      { question: "What should I wear?", answer: "Wear **closed-toe shoes, comfortable athletic clothing, and tie back long hair**. Avoid loose jewelry or scarves that could catch on the safety equipment." },
+    ];
+  }
+  if (slug === "doi-inthanon-national-park-full-day-tour") {
+    return [
+      { question: "What's the difference between the three pricing options?", answer: "The **two $45.44 options** cover the same small-group tour — one includes hotel pickup, the other meets at a fixed point in the city. The **$56.80 option adds the national park entrance fees** on top of hotel pickup, so you don't need to pay separately at the gate." },
+      { question: "Do I need to pay entrance fees separately?", answer: "If you book the **$45.44 options, park entrance fees are not included** and you'll need to pay these yourself at the gate. The **$56.80 option includes entrance fees**, so nothing extra is needed on the day." },
+      { question: "How cold does it get at the summit?", answer: "Doi Inthanon is **Thailand's highest point (2,565m)** and noticeably cooler than Chiang Mai city, sometimes by 10°C or more — a light jacket is a good idea, especially in the cool season (November–February) when it can feel genuinely chilly." },
+      { question: "What's included in the full-day tour?", answer: "The tour includes **hotel pickup and drop-off, transportation, an English-speaking guide, and lunch**, plus stops at the summit pagodas, a waterfall, and a hill tribe village along the way." },
+      { question: "Is this tour good for kids or elderly travelers?", answer: "Yes — most of the sightseeing (pagodas, viewpoints, waterfall) is accessible via **short walks and boardwalks** rather than strenuous hiking, making it manageable for most fitness levels, though the full day does involve a fair amount of time in the vehicle covering mountain roads." },
+      { question: "How long is the drive to Doi Inthanon?", answer: "Doi Inthanon is roughly a **1.5 to 2-hour drive** from Chiang Mai city, which is factored into the 9-hour full-day itinerary alongside time at the summit, waterfalls, and village stop." },
+    ];
+  }
+  if (slug === "chiang-mai-thai-cooking-class-ethical-elephant-sanctuary") {
+    return [
+      { question: "How does the day flow — cooking first or elephants first?", answer: "The day starts with a **local market tour and cooking class on an organic farm**, where you cook and eat your own lunch, then continues in the afternoon to an **ethical elephant sanctuary** near Doi Inthanon for feeding, walking, and dinner before returning to Chiang Mai." },
+      { question: "Is the elephant sanctuary ethical, with no riding?", answer: "Yes — it's a **no-riding, ethical sanctuary** where you feed and walk alongside the rescued elephants at their own pace, with your guide explaining each elephant's rescue story rather than treating them as entertainment." },
+      { question: "What's included in the $65 price?", answer: "The price covers **round-trip hotel transfers, the local market tour, a full cooking class with individual cooking stations, lunch (what you cook) and dinner at the sanctuary, and elephant sanctuary entrance and activities**." },
+      { question: "Is this a long day? What time does it start and end?", answer: "Yes, this is a **full 11-12 hour day** combining two separate excursions, so expect an early pickup and a later-than-usual return in the evening after dinner at the sanctuary." },
+      { question: "Can I choose what to cook, and is it vegetarian-friendly?", answer: "Classes are run with **individual cooking stations**, and the menu can typically be adjusted for vegetarian or other dietary needs — let the operator know when booking so ingredients can be prepared accordingly." },
+      { question: "Is this suitable for solo travelers?", answer: "Yes — the small-group format and individual cooking stations work well for solo travelers, and the full day gives plenty of natural opportunities to chat with the guide and other guests." },
+    ];
+  }
+
   return null;
 };
