@@ -168,7 +168,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Tour detail page — fetch tour for metadata
   try {
     const res = await fetch(`${API_URL}/api/public/tours/by-slug/${encodeURIComponent(slug)}`, {
-      cache: 'no-store',  // Response exceeds 2MB fetch cache limit; page-level ISR handles caching
+      next: { revalidate: 60 },  // Tour payload is ~9KB; ISR-cache it instead of forcing the route dynamic
     });
     if (res.ok) {
       const data = await res.json();
@@ -252,7 +252,7 @@ export default async function SlugPage({ params }: Props) {
   let tour = null;
   try {
     const res = await fetch(`${API_URL}/api/public/tours/by-slug/${encodeURIComponent(slug)}`, {
-      cache: 'no-store',  // Response exceeds 2MB fetch cache limit; page-level ISR handles caching
+      next: { revalidate: 60 },  // Tour payload is ~9KB; ISR-cache it instead of forcing the route dynamic
     });
     if (res.ok) {
       const data = await res.json();
