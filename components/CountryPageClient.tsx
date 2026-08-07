@@ -239,7 +239,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
       <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 h-24 sm:h-28 flex items-center justify-between">
           <Link href="/" className="flex items-center h-full">
-            <img src="/logo.png" alt="AsiaByLocals" className="h-[120px] sm:h-[140px] w-auto object-contain" />
+            <img src="/logo.webp" alt="AsiaByLocals" className="h-[120px] sm:h-[140px] w-auto object-contain" />
           </Link>
           <div className="flex items-center gap-3">
             <Link href="/" className="text-gray-500 hover:text-[#10B981] transition-colors">

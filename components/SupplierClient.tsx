@@ -226,7 +226,7 @@ function SupplierClientContent() {
           </button>
           <Link href="/" className="cursor-pointer">
             <img
-              src="/logo.png"
+              src="/logo.webp"
               alt="Asia By Locals"
               className="h-[140px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
               style={{ transform: 'translateY(3px)' }}

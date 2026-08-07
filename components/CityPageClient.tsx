@@ -2040,6 +2040,9 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
                     alt={`${item.title} in ${city} `}
                     width={400}
                     height={208}
+                    sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 25vw"
+                    quality={72}
+                    loading="lazy"
                     className="w-full h-36 md:h-44 object-cover"
                     style={{ objectFit: 'cover', objectPosition: 'center' }}
                     onError={(e) => {
@@ -2225,6 +2228,10 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
             <img
               src={imageSrc}
               alt={`${city} travel experience`}
+              loading="lazy"
+              decoding="async"
+              width={1400}
+              height={700}
               className="w-full h-full object-cover object-center"
               onError={(e) => {
                 (e.target as HTMLImageElement).src = '/bangkok-hero.webp';
@@ -2429,7 +2436,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             {/* Logo - Clickable to Homepage */}
             <Link href="/" className="flex items-center h-full cursor-pointer">
               <img
-                src="/logo.png"
+                src="/logo.webp"
                 alt="Asia By Locals"
                 className="h-[120px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
                 style={{ transform: 'translateY(3px)' }}
@@ -2510,7 +2517,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
               Popular Tours & Experiences in {city}
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
-              {sortedTours.map((tour) => {
+              {sortedTours.map((tour, index) => {
                 const tourSlug = tour.slug;
                 if (!tourSlug) return null; // Skip tours without valid slugs
                 const hasSkipLine = tour.included && tour.included.toLowerCase().includes('skip');
@@ -2582,6 +2589,12 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                           alt={`${tour.title} — guided tour in ${city}`}
                           width={400}
                           height={208}
+                          // Cards render ~144px wide on mobile, ~25vw in the 4-col desktop grid.
+                          // Without sizes, Next serves one oversized variant to every device.
+                          sizes="(max-width: 768px) 160px, (max-width: 1280px) 50vw, 25vw"
+                          quality={72}
+                          loading={index < 4 ? 'eager' : 'lazy'}
+                          priority={index < 4}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                         />
                       ) : (
