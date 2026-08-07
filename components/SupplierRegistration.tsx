@@ -637,7 +637,7 @@ export default function SupplierRegistration({ language = 'en', onClose }: Suppl
         <div className="max-w-4xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img
-              src="/logo.png"
+              src="/logo.webp"
               alt="AsiaByLocals"
               className="h-16 sm:h-20 md:h-24 w-auto object-contain invert brightness-0"
             />

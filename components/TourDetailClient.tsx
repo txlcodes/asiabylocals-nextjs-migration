@@ -1376,6 +1376,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           width={1200}
                           height={500}
                           priority
+                          sizes="(max-width: 768px) 100vw, 66vw"
+                          quality={78}
                           className="w-full h-[500px] object-cover rounded-2xl"
                         />
                         <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
@@ -1397,6 +1399,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             alt={`${tour.title} ${index + 2}`}
                             width={400}
                             height={246}
+                            sizes="(max-width: 768px) 50vw, 33vw"
+                            quality={72}
                             className={`w-full object-cover rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
                               }`}
                           />
@@ -1517,7 +1521,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   {/* Option Image */}
                                   {optImg && (
                                     <div className="w-full h-44 overflow-hidden">
-                                      <Image src={optImg} alt={option.optionTitle} width={400} height={176} className="w-full h-full object-cover" />
+                                      <Image src={optImg} alt={option.optionTitle} width={400} height={176} sizes="(max-width: 768px) 100vw, 33vw" quality={72} loading="lazy" className="w-full h-full object-cover" />
                                     </div>
                                   )}
 

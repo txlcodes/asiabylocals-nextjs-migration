@@ -10,6 +10,14 @@ const nextConfig: NextConfig = {
     unoptimized: process.env.NODE_ENV === 'development',
     // Serve AVIF first (50% smaller), fall back to WebP — applies to all Next.js <Image> components
     formats: ['image/avif', 'image/webp'],
+    // Tour photos never change once uploaded to Cloudinary, so cache each optimized
+    // variant for a year instead of re-optimizing on the default 60s TTL. This is the
+    // main lever that keeps image cost/latency flat as the catalogue grows.
+    minimumCacheTTL: 31536000,
+    // Trim the generated variant set to the widths the layout actually requests
+    // (card grid, gallery, hero). Fewer variants = higher cache hit rate.
+    deviceSizes: [640, 828, 1080, 1200, 1920],
+    imageSizes: [128, 160, 256, 384],
     remotePatterns: [
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },
@@ -91,6 +99,14 @@ const nextConfig: NextConfig = {
           { key: 'X-Content-Type-Options', value: 'nosniff' },
           { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
           { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+        ],
+      },
+      {
+        // Static art (logo, hero banners, city photos) is versioned by filename,
+        // so it can be cached immutably instead of revalidated on every page view.
+        source: '/:path*.(webp|avif|png|jpg|jpeg|svg|ico)',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
         ],
       },
     ];

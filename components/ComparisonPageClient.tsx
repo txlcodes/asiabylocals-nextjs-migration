@@ -46,7 +46,7 @@ export default function ComparisonPageClient() {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <img
-              src="/logo.png"
+              src="/logo.webp"
               alt="AsiaByLocals"
               className="h-16 w-auto"
               width={128}

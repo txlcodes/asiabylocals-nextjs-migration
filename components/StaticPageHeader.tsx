@@ -19,7 +19,7 @@ export default function StaticPageHeader() {
                 </button>
                 <Link href="/" className="flex items-center h-full">
                     <img
-                        src="/logo.png"
+                        src="/logo.webp"
                         alt="Asia By Locals"
                         className="h-[160px] sm:h-[130px] md:h-[140px] lg:h-[150px] xl:h-[160px] w-auto object-contain"
                         style={{ transform: 'translateY(3px)' }}
