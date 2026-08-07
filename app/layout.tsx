@@ -125,18 +125,20 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function(w,d,s,r,n){w.TrustpilotObject=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};
-              a=d.createElement(s);a.async=1;a.src=r;a.type='text/java'+s;f=d.getElementsByTagName(s)[0];
-              f.parentNode.insertBefore(a,f)})(window,document,'script','https://invitejs.trustpilot.com/tp.min.js','tp');
-              tp('register', 'NI2Deaqy6L0XQN22');
-            `,
-          }}
-        />
       </head>
       <body className={`${plusJakartaSans.variable} font-sans antialiased`}>
+        {/* Trustpilot invite widget — lazyOnload so it can't compete with the
+            page's own JS/images. It was previously a raw <script> in <head>,
+            which made it the single slowest request on city pages (~4s). */}
+        <Script id="trustpilot-invite" strategy="lazyOnload">
+          {`
+            (function(w,d,s,r,n){w.TrustpilotObject=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};
+            a=d.createElement(s);a.async=1;a.src=r;a.type='text/java'+s;f=d.getElementsByTagName(s)[0];
+            f.parentNode.insertBefore(a,f)})(window,document,'script','https://invitejs.trustpilot.com/tp.min.js','tp');
+            tp('register', 'NI2Deaqy6L0XQN22');
+          `}
+        </Script>
+
         {/* Google tag (gtag.js) — Google Ads */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-18035560397"
