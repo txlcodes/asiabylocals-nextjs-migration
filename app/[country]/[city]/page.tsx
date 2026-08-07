@@ -153,7 +153,10 @@ export default async function CityPage({ params }: Props) {
   try {
     const res = await fetch(
       `${API_URL}/api/public/tours?country=${encodeURIComponent(countryName)}&city=${encodeURIComponent(cityName)}&status=approved`,
-      { cache: 'no-store' }  // Response can exceed 2MB fetch cache limit; page-level ISR handles output caching
+      // 'no-store' here opted the whole route out of static rendering, so every
+      // city page view hit the backend live (TTFB ~1.4s). Listings are ~70-140KB,
+      // well under the 2MB fetch-cache limit, so ISR can cache them properly.
+      { next: { revalidate: 60 } }
     );
     if (res.ok) {
       const data = await res.json();

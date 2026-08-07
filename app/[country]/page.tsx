@@ -104,7 +104,7 @@ export default async function CountryPage({ params }: Props) {
         const timeout = setTimeout(() => controller.abort(), 5000);
         return fetch(
           `${API_URL}/api/public/tours?country=${encodeURIComponent(capitalize(c))}&city=${encodeURIComponent(city.name)}&status=approved`,
-          { cache: 'no-store', signal: controller.signal }
+          { next: { revalidate: 60 }, signal: controller.signal }
         )
           .then(r => { clearTimeout(timeout); return r.ok ? r.json() : { success: false }; })
           .catch(() => { clearTimeout(timeout); return { success: false }; });

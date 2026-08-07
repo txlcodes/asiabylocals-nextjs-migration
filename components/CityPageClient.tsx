@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
@@ -2036,7 +2037,7 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
                 {/* Image Section */}
                 <div className="w-full shrink-0">
                   <Image
-                    src={item.image}
+                    src={item.image} loader={cloudinaryLoader}
                     alt={`${item.title} in ${city} `}
                     width={400}
                     height={208}
@@ -2585,7 +2586,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
                       {tour.images && tour.images.length > 0 ? (
                         <Image
-                          src={tour.images[0]}
+                          src={tour.images[0]} loader={cloudinaryLoader}
                           alt={`${tour.title} — guided tour in ${city}`}
                           width={400}
                           height={208}

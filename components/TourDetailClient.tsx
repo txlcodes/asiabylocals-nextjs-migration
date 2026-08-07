@@ -36,6 +36,7 @@ import {
   Home
 } from 'lucide-react';
 import Image from 'next/image';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
@@ -1400,7 +1401,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         }}
                       >
                         <Image
-                          src={mainImage}
+                          src={mainImage} loader={cloudinaryLoader}
                           alt={tour.title}
                           width={1200}
                           height={500}
@@ -1424,7 +1425,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           }}
                         >
                           <Image
-                            src={image}
+                            src={image} loader={cloudinaryLoader}
                             alt={`${tour.title} ${index + 2}`}
                             width={400}
                             height={246}
@@ -1550,7 +1551,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   {/* Option Image */}
                                   {optImg && (
                                     <div className="w-full h-44 overflow-hidden">
-                                      <Image src={optImg} alt={option.optionTitle} width={400} height={176} sizes="(max-width: 768px) 100vw, 33vw" quality={72} loading="lazy" className="w-full h-full object-cover" />
+                                      <Image src={optImg} loader={cloudinaryLoader} alt={option.optionTitle} width={400} height={176} sizes="(max-width: 768px) 100vw, 33vw" quality={72} loading="lazy" className="w-full h-full object-cover" />
                                     </div>
                                   )}
 
