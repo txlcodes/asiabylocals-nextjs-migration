@@ -173,6 +173,35 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   };
   const displaySymbol = CURRENCY_SYMBOLS[displayCurrency] || `${displayCurrency} `;
 
+  // Operators that don't run every day store their closed weekdays in
+  // unavailableDaysOfWeek (0=Sun..6=Sat) and one-off closures in unavailableDates.
+  // The booking calendar has to honour both, or guests pick a date the tour can't run.
+  const parseJsonArray = (value: any): any[] => {
+    if (!value) return [];
+    if (Array.isArray(value)) return value;
+    if (typeof value === 'string') {
+      try {
+        const parsed = JSON.parse(value);
+        return Array.isArray(parsed) ? parsed : [];
+      } catch {
+        return [];
+      }
+    }
+    return [];
+  };
+  const DAY_NAME_TO_INDEX: Record<string, number> = {
+    sunday: 0, monday: 1, tuesday: 2, wednesday: 3, thursday: 4, friday: 5, saturday: 6,
+    sun: 0, mon: 1, tue: 2, wed: 3, thu: 4, fri: 5, sat: 6,
+  };
+  const blockedWeekdays = new Set(
+    parseJsonArray(tour?.unavailableDaysOfWeek).map((d: any) =>
+      typeof d === 'number' ? d : DAY_NAME_TO_INDEX[String(d).trim().toLowerCase()]
+    ).filter((d: any) => typeof d === 'number')
+  );
+  const blockedDates = new Set(parseJsonArray(tour?.unavailableDates).map((d: any) => String(d).slice(0, 10)));
+  const isBlockedDate = (date: Date, dateString: string) =>
+    blockedWeekdays.has(date.getDay()) || blockedDates.has(dateString);
+
   useEffect(() => {
     const tourId = initialTour?.id;
     if (!tourId) return;
@@ -3010,7 +3039,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       const isToday = date.getTime() === today.getTime();
                       const isPast = date < today;
                       const isSelected = selectedDate === dateString;
-                      const isAvailable = !isPast; // You can add custom availability logic here
+                      const isAvailable = !isPast && !isBlockedDate(date, dateString);
 
                       days.push(
                         <button
