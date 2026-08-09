@@ -94,11 +94,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
   try {
     const results = await Promise.all(
-      cities.map(city =>
-        fetch(`${API_URL}/api/public/tours?city=${city}`, { next: { revalidate: 3600 } })
+      cities.map(city => {
+        const cityQuery = city.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        return fetch(`${API_URL}/api/public/tours?city=${encodeURIComponent(cityQuery)}`, { next: { revalidate: 3600 } })
           .then(r => r.ok ? r.json() : { tours: [] })
-          .catch(() => ({ tours: [] }))
-      )
+          .catch(() => ({ tours: [] }));
+      })
     );
     const allTours = results.flatMap((data: any) => data.tours || data || []);
     tourPages = allTours
