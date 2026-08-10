@@ -5790,5 +5790,185 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
+  // --- PATTAYA: 3-ISLAND CATAMARAN CRUISE ---
+  if (slug === 'monkey-island-chonburi-boat-tour') {
+    return [
+      { question: "How is this different from the usual Pattaya speedboat island trips?", answer: "Two things: the boat and the islands. You sail on a **73-foot catamaran** rather than a packed speedboat, so there's proper deck space, shade and a much smoother ride — and the route goes **beyond Coral Island to Koh Phai and Koh Rin**, where the water is clearer and the reefs are actually worth snorkelling." },
+      { question: "Is snorkelling equipment provided?", answer: "Yes — **masks, snorkels and stand-up paddleboards are all included**, along with crew on hand at each anchorage. There's no extra charge for using any of the water equipment." },
+      { question: "What's the food situation?", answer: "A **Thai buffet lunch is served on board**, along with soft drinks and drinking water throughout the day. Let the operator know in advance if you need vegetarian or other dietary options." },
+      { question: "Do we actually stop at Monkey Island?", answer: "Yes, the route includes a **visit to Monkey Island**, where you'll see the resident macaques. Keep bags zipped and don't hold food openly — the monkeys are bold and will help themselves." },
+      { question: "Is hotel pickup included?", answer: "Yes — **round-trip hotel pickup and drop-off within Pattaya city** is included. Pickup times are confirmed after booking and typically fall in the morning." },
+      { question: "Will I get seasick?", answer: "A catamaran is far more stable than a speedboat, so most guests are fine. That said, this is **open sea and conditions vary** — if you're prone to motion sickness, take a tablet before boarding and stay on deck where you can see the horizon." },
+    ];
+  }
+
+  // --- PATTAYA: ETHICAL ELEPHANT SANCTUARY (FULL DAY) ---
+  if (slug === 'living-green-elephant-sanctuary-chonburi-full-day-tour') {
+    return [
+      { question: "Is there any elephant riding on this tour?", answer: "**No — there is no riding, no shows and no performances.** This is an ethical sanctuary where rescued elephants live in a natural setting, and the visit is built around their routine: feeding, walking alongside them, and joining their mud bath." },
+      { question: "What actually happens during the day?", answer: "You'll be introduced to the herd and hear each elephant's rescue story, **hand-feed them bananas and sugarcane**, walk with them through the jungle, then join them for a mud bath and rinse-off. A **home-cooked Thai meal** is served at the camp." },
+      { question: "How far is the sanctuary from Pattaya?", answer: "It's roughly **45 minutes into the Chonburi countryside**, and hotel pickup and drop-off in Pattaya are included in the price." },
+      { question: "What should I wear and bring?", answer: "**Clothes you don't mind ruining** — the mud bath is exactly what it sounds like. Bring a full change of clothes, a towel, sunscreen, and sandals or shoes that can get wet and muddy." },
+      { question: "Is this suitable for children?", answer: "Yes, it's **very popular with families**. The carers are used to children and manage the interactions carefully, but young kids should be supervised closely at all times around the animals." },
+      { question: "How is this different from the half-day sanctuary tour?", answer: "The full day gives you **more time with the herd at an unhurried pace** and includes a sit-down home-cooked meal. The half-day version covers the same core activities — feeding, walking, mud bath — condensed into about three hours at the camp." },
+    ];
+  }
+
+  // --- PATTAYA: BEACHFRONT FIRE SHOW DINNER ---
+  if (slug === 'dam-restaurant-pattaya-beachfront-mini-tour') {
+    return [
+      { question: "What's included in the price?", answer: "**Reserved bamboo seating directly on the beachfront**, dinner from a selected menu, the fire show performance, and service charge. Drinks beyond what's specified in your menu option are ordered and paid for separately." },
+      { question: "Where exactly do we sit?", answer: "On **low bamboo seating right on the sand**, facing the water — close enough to the performance area to feel the heat from the flames. Seats are reserved for you, so there's no need to arrive early to claim a spot." },
+      { question: "What time does the fire show start?", answer: "**Dinner is served first, around sunset**, and the fire performance begins once it's properly dark. Exact timings are confirmed after booking and shift slightly through the year with the sunset." },
+      { question: "Is hotel transport included?", answer: "**No — this is a meet-on-site experience.** You'll make your own way to DAM Restaurant on the Pattaya beachfront; exact directions are sent after booking, and a Grab or taxi from anywhere in central Pattaya is quick and inexpensive." },
+      { question: "Is it suitable for families with children?", answer: "Yes — it's a **beachfront dinner-and-show format** rather than a nightlife venue, and the fire performance is popular with kids. Performers work at a safe distance from the seating area." },
+      { question: "What should I wear?", answer: "**Casual and comfortable** — you're sitting on the sand, so sandals or flip-flops make more sense than proper shoes. It can get breezy on the beach after dark, so bring a light layer." },
+    ];
+  }
+
+  // --- PATTAYA: CORAL ISLAND SPEEDBOAT DAY TRIP ---
+  if (slug === 'koh-larn-coral-island-full-day-tour') {
+    return [
+      { question: "What's included for this price?", answer: "**Hotel pickup and drop-off in Pattaya, the round-trip speedboat transfer to Koh Larn, free beach time and lunch**, plus an English-speaking guide. It's one of the best-value day trips available in Pattaya." },
+      { question: "How long is the boat crossing?", answer: "The speedboat from **Bali Hai Pier to Koh Larn takes roughly 30 minutes**, depending on conditions and which beach you land at." },
+      { question: "Which beach do we go to?", answer: "The main stop is **Tawaen Beach**, the island's liveliest stretch, with loungers, food stalls and water sports operators. If you'd prefer somewhere quieter, you can take a short taxi or walk to one of the smaller beaches during your free time." },
+      { question: "Are water sports included?", answer: "**No — jet skis, parasailing, banana boats and sea walking are optional extras** paid directly to the operators on the beach. Bring cash if you plan to add any of them." },
+      { question: "What's for lunch?", answer: "Lunch is included and is either a **Thai set menu on the island or an Indian buffet back in Pattaya**, depending on which option you book — check your selected option at checkout." },
+      { question: "What should I bring?", answer: "**Swimwear, a towel, sunscreen, a hat and cash** for drinks, loungers and any optional activities. A dry bag for your phone is worth having on the speedboat crossing." },
+    ];
+  }
+
+  // --- PATTAYA: KOH LARN TANDEM PARAGLIDING ---
+  if (slug === 'koh-larn-island-off-pattaya-mini-tour') {
+    return [
+      { question: "Is this the same as parasailing off the beach?", answer: "**No — this is genuine free flight.** Parasailing means being towed behind a boat on a fixed line. Here you **launch from high ground on Koh Larn** with a certified instructor and glide on the sea breeze, with nothing but wind noise the whole way down." },
+      { question: "Do I need any experience?", answer: "**None at all.** It's a tandem flight — your certified instructor controls the wing throughout, handles launch and landing, and briefs you fully beforehand. Your job is to run a few steps at takeoff and enjoy the view." },
+      { question: "What's included?", answer: "The **tandem flight with a certified instructor, full safety briefing, and all flight equipment** including helmet and harness, plus assistance at launch and landing." },
+      { question: "What happens if the weather isn't suitable?", answer: "Paragliding depends entirely on wind conditions, so **flights may be delayed or rescheduled on the day**. Don't book anything tight immediately afterwards, and allow flexibility in your schedule." },
+      { question: "How do I get to the launch site?", answer: "The launch site is **on Koh Larn itself**, so you'll need to take a ferry or speedboat from Bali Hai Pier to the island. Directions to the meeting point are provided after booking; transport to Koh Larn is not included." },
+      { question: "Are there weight or age restrictions?", answer: "Tandem paragliding carries **standard weight limits and minimum age requirements** for safety reasons. Confirm your details with the operator when booking if you have any concerns." },
+    ];
+  }
+
+  // --- PATTAYA: PRIVATE CITY / SHORE EXCURSION ---
+  if (slug === 'pattaya-city-private-tour') {
+    return [
+      { question: "Can I choose where we go?", answer: "Yes — that's the point of this tour. You get a **private vehicle and driver for approximately 4 hours** and build your own route. Popular stops include the Big Buddha on Pratumnak Hill, the Sanctuary of Truth, bay viewpoints and local markets." },
+      { question: "Can you collect us from Laem Chabang cruise port?", answer: "Yes — **pickup is available directly at Laem Chabang Port** as well as from Pattaya hotels, making this a practical shore excursion for cruise passengers. Tell the operator your ship and timings when booking." },
+      { question: "Is a guide included, or just a driver?", answer: "The tour includes a **dedicated driver rather than a licensed tour guide**. You get transport, local knowledge and flexibility; if you want in-depth historical commentary at each site, mention it when booking to see what's possible." },
+      { question: "Are entrance tickets included?", answer: "**No — admission fees to attractions are not included** and are paid separately at each site. Your driver will advise where to buy tickets and will wait while you visit." },
+      { question: "What vehicle will we have?", answer: "A **private air-conditioned car or minibus** depending on group size, with fuel, parking fees and bottled water included. The vehicle and driver stay with you for the duration." },
+      { question: "Can we extend beyond 4 hours?", answer: "The standard booking covers **approximately 4 hours**. Extensions are often possible by arrangement with the driver at an additional cost — discuss it at the start of your tour rather than at the end." },
+    ];
+  }
+
+  // --- PATTAYA: BOAT DIVING DAY TRIP ---
+  if (slug === 'pattaya-dive-sites-full-day-tour') {
+    return [
+      { question: "Do I need to be a certified diver?", answer: "**Yes — this trip is for certified divers.** Bring your certification card and logbook. The dive guide will check your qualification and recent experience before assigning dives and buddy pairs." },
+      { question: "How many dives are included?", answer: "**Two or three guided fun dives** depending on the option you book, with proper surface intervals in between. Tanks, weights and a certified dive guide are all included." },
+      { question: "Where do we dive — Pattaya or Samae Sarn?", answer: "Both are possible depending on your option and the day's conditions. The **Pattaya island sites are closer**, while **Samae Sarn to the south is quieter with often better visibility** and sees far fewer divers." },
+      { question: "Is equipment rental included?", answer: "**Tanks and weights are included.** Full equipment rental — BCD, regulator, wetsuit, mask and fins — is usually available at additional cost, so tell the operator what you need when booking." },
+      { question: "What food and drink is provided?", answer: "A **pastry breakfast, coffee and soft drinks are served on board**. Hotel pickup and drop-off in Pattaya are also included." },
+      { question: "What's the visibility like?", answer: "This is the **Gulf of Thailand, so visibility varies** with season and conditions — typically moderate, and often at its best around Samae Sarn. Expect coral heads, reef fish and the occasional wreck rather than open-ocean clarity." },
+    ];
+  }
+
+  // --- PATTAYA: NONG NOOCH GARDEN ENTRY ---
+  if (slug === 'nong-nooch-tropical-garden-pattaya-cultural-tour') {
+    return [
+      { question: "What does this ticket include?", answer: "**Admission for foreign visitors to Nong Nooch Tropical Garden**, access to all themed garden zones and Dinosaur Valley, and entry to the scheduled Thai cultural shows. You skip the ticket counter and go straight in." },
+      { question: "Is transport from Pattaya included?", answer: "**No — this is an entry ticket only.** Nong Nooch is about 30 minutes south of Pattaya, and you'll need to arrange your own transport; a Grab or taxi is straightforward and inexpensive." },
+      { question: "How long should I allow for a visit?", answer: "The site covers **hundreds of acres**, so most visitors spend **three to five hours** and still don't see everything. Wear comfortable shoes, and consider the on-site buggy tour if walking long distances is difficult." },
+      { question: "What are the highlights?", answer: "The **French-style formal garden, the cactus and succulent house, the orchid nursery, and the topiary displays** trimmed into animals and geometric shapes. **Dinosaur Valley**, with its life-size models along a walking trail, is a hit with children." },
+      { question: "When are the cultural shows?", answer: "Thai cultural performances run to a **scheduled daily timetable** posted at the entrance. Check the times when you arrive and plan your route around the show you want to catch." },
+      { question: "Is it suitable for young children?", answer: "Yes — **Dinosaur Valley and the cultural show are particularly popular with kids**. There are food outlets throughout the park and buggy transport between the main zones." },
+    ];
+  }
+
+  // --- PATTAYA: SANCTUARY OF TRUTH TICKET ---
+  if (slug === 'sanctuary-of-truth-naklua-pattaya-spiritual-tour') {
+    return [
+      { question: "What makes this building so unusual?", answer: "It's a **temple more than 100 metres tall built entirely of wood, without a single metal nail**, and covered inside and out with hand-carved figures from Thai, Khmer, Chinese and Indian tradition. Construction began in 1981 and **is still ongoing**, so you'll often see master carvers at work." },
+      { question: "What's included in the ticket?", answer: "**Admission to the Sanctuary of Truth**, access to the temple interior and the seaside grounds, a scheduled guided walk-through with safety briefing, and a **hard hat where required** — since the site remains an active construction area." },
+      { question: "Is there a dress code?", answer: "Yes — as a spiritual site, **shoulders and knees should be covered**. Sarongs are generally available at the entrance if you arrive underdressed." },
+      { question: "How long does a visit take?", answer: "Allow **at least 90 minutes** to walk through the interior properly and explore the seafront grounds. The level of carved detail rewards a slow visit — most people find they keep spotting new figures the longer they look." },
+      { question: "Is transport included?", answer: "**No — this is an entry ticket.** The Sanctuary is in Naklua, just north of central Pattaya, and is a short and inexpensive taxi or Grab ride from most hotels." },
+      { question: "When is the best time to visit?", answer: "**Early in the day**, before tour groups arrive mid-morning and before the heat peaks. There's limited shade on the approach, so bring a hat and water." },
+    ];
+  }
+
+  // --- PATTAYA: OFF-ROAD ATV RIDE ---
+  if (slug === 'lakeside-atv-trails-pattaya-countryside-mini-tour') {
+    return [
+      { question: "Do I need experience to ride an ATV?", answer: "**No.** You'll get a riding briefing and practice time before setting off, and a guide leads the entire route. Beginners are given manageable terrain; confident riders are taken on the more demanding sections." },
+      { question: "How long are the routes?", answer: "There are **three options: a 30-minute taster, a 1-hour loop, or a full 2-hour ride**. If you have any riding experience, the 1-hour or 2-hour routes give you far more trail time and are better value." },
+      { question: "What's included?", answer: "**ATV rental for your chosen duration, helmet and safety equipment, the riding briefing and practice, a guide leading the full route, and drinking water.**" },
+      { question: "Do I get my own quad bike?", answer: "Yes — **each rider has their own ATV**. Riders under the minimum age typically ride as a passenger with an adult; confirm with the operator when booking if you're travelling with children." },
+      { question: "What should I wear?", answer: "**Old clothes and closed shoes you don't mind destroying.** It's dusty in the dry season and muddy in the wet, and you will need a shower afterwards. Bring a change of clothes." },
+      { question: "Where is the base camp?", answer: "The Lakeside ATV base is a **short drive from Pattaya's beach strip**, in the countryside among lakes and open scrubland. The exact address is confirmed after booking." },
+    ];
+  }
+
+  // --- PATTAYA: ALCAZAR CABARET ---
+  if (slug === 'alcazar-theatre-pattaya-second-road-evening-tour') {
+    return [
+      { question: "How long is the show?", answer: "The performance runs **approximately 75 minutes**, packed with musical numbers, elaborate set changes and costume changes throughout. Arrive around 20 minutes early to find your seat comfortably." },
+      { question: "What's included in the ticket?", answer: "**Admission to the Alcazar Cabaret Show and a reserved seat for your selected showtime.** Food and drinks are not included." },
+      { question: "Is the show family friendly?", answer: "Yes — Alcazar is a **large-scale theatrical production rather than an adult venue**, and it's tasteful throughout. Families with older children commonly attend." },
+      { question: "Where is the theatre?", answer: "The **Alcazar Theatre is on Pattaya Second Road**, centrally located and easy to reach by taxi, Grab or songthaew from anywhere in the city." },
+      { question: "What kind of performances are in the show?", answer: "The production moves through a **range of countries and musical styles** — traditional Thai segments, Chinese and Korean numbers, and Broadway-style set pieces — performed by a large cast of transgender artists with lavish sets and costumes." },
+      { question: "Can I take photos with the performers?", answer: "Performers typically appear **outside the theatre after the show for photos**, and a small tip is customary if you take one. This is separate from your ticket and entirely optional." },
+    ];
+  }
+
+  // --- PATTAYA: TIFFANY'S SHOW WITH DINNER ---
+  if (slug === 'tiffanys-show-theatre-north-pattaya-entry-ticket') {
+    return [
+      { question: "What does this package include?", answer: "**Dinner before the performance plus your admission ticket and reserved seat** at the Tiffany cabaret — standard or VIP depending on what you book. It bundles the whole evening into a single reservation." },
+      { question: "Is the VIP seat upgrade worth it?", answer: "VIP seating is **more central and closer to the stage**, which makes a noticeable difference for appreciating the costume detail. The theatre is purpose-built with good sightlines from most seats, so standard is perfectly enjoyable if you'd rather save the money." },
+      { question: "What's the show actually like?", answer: "Tiffany's has run since **1974 and is the oldest cabaret of its kind in Southeast Asia**. Expect Vegas-scale production values — a fast sequence of large ensemble numbers spanning Thai, Chinese, Korean and Broadway styles, with full set and costume changes throughout." },
+      { question: "Where is the theatre?", answer: "**Tiffany's Show Theatre is on Pattaya Second Road in North Pattaya**, easily reached by taxi, Grab or songthaew." },
+      { question: "Is it suitable for children?", answer: "Yes — the show is **family friendly and glamorous rather than risqué**, and families regularly attend." },
+      { question: "Should I book in advance?", answer: "**Yes.** Tiffany's is one of Pattaya's most popular evening attractions and **the best showtimes sell out**, particularly in high season and at weekends." },
+    ];
+  }
+
+  // --- PATTAYA: SUNSET TRIO EVENING TOUR ---
+  if (slug === 'pattaya-marina-night-market-sunset-tour') {
+    return [
+      { question: "What are the three stops?", answer: "**Wat Phra Yai (the golden Big Buddha) on Pratamnak Hill**, the **Khao Phra Tamnak bay viewpoint for sunset**, and the **Marina Night Market** for street food and stalls — finishing near Walking Street." },
+      { question: "Is food at the night market included?", answer: "**No — street food and drinks at the market are paid for separately**, though prices are very low. Bring cash; your guide will help you order and explain what the dishes are." },
+      { question: "What time does the tour run?", answer: "It's timed to **catch the change of light** — starting in the late afternoon at the temple, hitting the viewpoint for sunset, then the night market once it's dark. Exact pickup times are confirmed after booking and shift with the season." },
+      { question: "Is hotel pickup included?", answer: "Yes — **pickup from your Pattaya city hotel is included**, along with transport between all stops and bottled water." },
+      { question: "Is there much walking?", answer: "It's a **gentle tour** — there are steps up to the Big Buddha at Wat Phra Yai, and the night market involves strolling between stalls, but transport covers the distances between stops." },
+      { question: "Do I need to dress a certain way for the temple?", answer: "Wat Phra Yai is a **working temple**, so cover shoulders and knees. Your guide will explain the customs before you go in so you don't feel unsure about anything." },
+    ];
+  }
+
+  // --- PATTAYA: HALF-DAY ELEPHANT JUNGLE SANCTUARY ---
+  if (slug === 'elephant-jungle-sanctuary-pattaya-countryside-half-day-tour') {
+    return [
+      { question: "Is there any riding or performing?", answer: "**No riding, no tricks, no hooks.** This sanctuary exists to give rescued elephants a dignified retirement, and everything happens on the animals' terms — feeding, walking alongside them, and joining them in the mud pit." },
+      { question: "What happens during the visit?", answer: "Over roughly **three hours at the camp** you'll hear each elephant's rescue story from the caretakers, **hand-feed them bananas and sugarcane**, walk with them through the jungle, then join the mud bath and help rinse them off afterwards." },
+      { question: "What's included?", answer: "**Hotel pickup and drop-off in Pattaya, sanctuary admission and all elephant activities, a Thai meal at the camp, a traditional shirt to wear during feeding, the food for the elephants, an English-speaking guide and drinking water.**" },
+      { question: "Why the traditional shirt?", answer: "You're given a **traditional shirt to wear during the feeding session** — the elephants come to recognise it, which helps keep interactions calm and predictable for the animals." },
+      { question: "What should I bring?", answer: "**A complete change of clothes and a towel** — the mud bath is genuinely muddy. Also sunscreen, and shoes or sandals that can get wet and dirty." },
+      { question: "How does this compare to the full-day sanctuary tour?", answer: "The half day covers the **same core activities in a condensed three hours** at the camp, which suits travellers with other plans that day. The full-day option gives more unhurried time with the herd." },
+    ];
+  }
+
+  // --- PATTAYA: FIVE-ISLAND JET SKI SAFARI ---
+  if (slug === 'jomtien-beach-premium-tour') {
+    return [
+      { question: "How is this different from renting a jet ski on the beach?", answer: "This is a **guided open-sea safari, not a short loop offshore**. You ride your own machine on a route linking **five islands and coastal landmarks around Pattaya Bay** — past the Sanctuary of Truth from the water, then crossings to Ko Sak, Ko Lan and Ko Khrok, with swim and photo stops in between." },
+      { question: "How long does it last?", answer: "Choose either a **2-hour or 4-hour format**. The 4-hour route covers more of the bay with longer stops; the 2-hour version is a solid taste of the same experience." },
+      { question: "Do I need jet ski experience?", answer: "**No.** A full safety briefing and riding instruction are provided, and a professional guide leads the route and stays with the group throughout. The open-sea crossings are approached at a pace suited to the riders." },
+      { question: "What's included in the price?", answer: "**Hotel pickup and drop-off in Pattaya, your own jet ski for the full route, a professional riding guide, safety briefing and life jacket, fuel and drinking water.**" },
+      { question: "Are there hidden charges or damage disputes?", answer: "This is a **premium operator running well-maintained late-model machines**, and the price covers the full route and fuel with no add-ons expected at the end. Inspect and photograph your ski at handover as you would anywhere, but this is a properly run outfit." },
+      { question: "Where does it depart from?", answer: "Rides depart from **Jomtien Beach**, with hotel pickup from Pattaya city included in the booking." },
+    ];
+  }
+
   return null;
 };
