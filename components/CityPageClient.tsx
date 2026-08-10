@@ -1267,6 +1267,128 @@ const CITY_DESCRIPTIONS: Record<string, {
       }
     ]
   },
+  'Krabi': {
+    title: 'Krabi Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover the best tours in Krabi with licensed local operators — 4-Island longtail trips, Phi Phi speedboat tours, Hong Islands, Emerald Pool and hot springs, mangrove kayaking and ethical elephant visits.',
+    intro: [
+      'Krabi is the Andaman coast at its most dramatic: limestone karsts rising straight out of turquoise water, hidden lagoons you can only reach at the right tide, and beaches like Railay that no road connects to. The classic introduction is the [4-Island longtail boat trip](/thailand/krabi/chicken-island-boat-tour), which strings together Poda, Chicken Island, Tup and Phra Nang Cave Beach — including the sandbar that surfaces at low tide and lets you walk between islands.',
+      'Beyond the day boats, the province rewards anyone who ventures inland or further out. Paddle through the [Ao Thalane mangroves](/thailand/krabi/ao-thalane-bay-half-day-tour) between limestone canyon walls, swim in the [Emerald Pool and hot spring waterfalls](/thailand/krabi/tiger-cave-temple-spiritual-tour) at the edge of the rainforest, or head offshore to [Phi Phi and Maya Bay](/thailand/krabi/maya-bay-adventure-boat-tour) before the crowds arrive. There are [ethical elephant sanctuaries](/thailand/krabi/ao-nang-elephant-sanctuary-guided-tour) in the hills behind Ao Nang, [Thai cooking classes](/thailand/krabi/ao-nang-cooking-food-tour) in open-air kitchens, and [sunset cruises with bioluminescent plankton swims](/thailand/krabi/ao-nang-sunset-tour) once the light goes.'
+    ],
+    whyBook: [
+      'Direct partnerships with licensed Krabi and Ao Nang operators',
+      'Ethical elephant experiences only — feeding and bathing, never riding',
+      'Longtail, speedboat and catamaran options on most island routes',
+      'Free cancellation on the majority of experiences'
+    ],
+    topAttractions: [
+      'Railay Beach & Phra Nang Cave',
+      'Poda Island & Chicken Island',
+      'Hong Islands & Emerald Lagoon',
+      'Phi Phi Islands & Maya Bay',
+      'Emerald Pool (Sa Morakot)',
+      'Klong Thom Hot Springs',
+      'Tiger Cave Temple (Wat Tham Suea)',
+      'Ao Thalane Mangroves',
+      'Klong Root Crystal Lagoon',
+      'Ao Nang Beach'
+    ],
+    bestTime: 'The best time to visit Krabi is **November to April**, the dry season, when the Andaman Sea is calm and island trips run reliably every day. **December to February** is the peak — clearest water, best snorkelling visibility, and the most comfortable temperatures. May to October is the southwest monsoon: rain comes in heavy bursts rather than all day, prices drop sharply, and the jungle is at its greenest, but rough seas do cancel some boat tours at short notice. Inland trips like the [Emerald Pool and hot springs](/thailand/krabi/hot-spring-waterfall-guided-tour) and [mangrove kayaking](/thailand/krabi/ao-thalane-guided-tour) run year-round and make good wet-season alternatives.',
+    faqs: [
+      {
+        question: 'What is the 4-Island tour and is it worth doing?',
+        answer: 'It\'s Krabi\'s signature day trip, visiting **Poda Island, Chicken Island, Tup Island and Phra Nang Cave Beach**. The highlight is the sandbar between Tup and Chicken Island that emerges at low tide so you can walk between them. Yes, it\'s worth doing — it covers the scenery Krabi is famous for in one day. Choose between the traditional [longtail boat version](/thailand/krabi/chicken-island-boat-tour), a [premium catamaran with clear kayaks](/thailand/krabi/chicken-island-premium-boat-tour), or an [afternoon departure](/thailand/krabi/phra-nang-cave-beach-afternoon-tour) that avoids the morning crowds.'
+      },
+      {
+        question: 'Should I choose a longtail boat or a speedboat?',
+        answer: '**Longtails** are the traditional wooden boats — slower, more atmospheric, and better for the nearby 4 Islands where distances are short. **Speedboats** cover far more ground and are the practical choice for [Phi Phi](/thailand/krabi/maya-bay-adventure-boat-tour) or [Hong Islands](/thailand/krabi/hong-island-boat-tour). Longtails also handle rough water less well, so speedboats are safer in marginal conditions.'
+      },
+      {
+        question: 'Can I visit Maya Bay from Krabi?',
+        answer: 'Yes. Maya Bay reopened with visitor limits and no swimming inside the bay itself. Getting there early matters — our [early bird Phi Phi trip](/thailand/krabi/maya-bay-adventure-boat-tour) and [sunrise speedboat with Poda breakfast](/thailand/krabi/poda-island-sunrise-tour) both aim to arrive before the main fleet.'
+      },
+      {
+        question: 'How do I get to Railay Beach?',
+        answer: 'Railay is **only reachable by boat** — limestone headlands cut it off from the road network. Longtails run from Ao Nang in about 15 minutes. Several island tours include a Railay or Phra Nang Cave Beach stop, including the [4-Island longtail trip](/thailand/krabi/phra-nang-cave-beach-boat-tour).'
+      },
+      {
+        question: 'Are the elephant experiences near Krabi ethical?',
+        answer: 'The ones we list are — **no riding**. At the [Ao Nang sanctuary](/thailand/krabi/ao-nang-elephant-sanctuary-guided-tour) you prepare food and feed the herd, and at the [Krabi Elephant Shelter](/thailand/krabi/krabi-elephant-shelter-entry-ticket) the programme is a bathing and splashing session with rescued animals.'
+      },
+      {
+        question: 'What is the Emerald Pool and is it safe to swim in?',
+        answer: 'The Emerald Pool (Sa Morakot) is a **natural spring-fed pool** in the Khao Phra Bang Khram rainforest, coloured a vivid green-blue by dissolved minerals. It\'s safe and popular for swimming. Most trips pair it with the nearby [hot spring waterfalls](/thailand/krabi/hot-spring-waterfall-guided-tour), where warm mineral water runs over smooth rock into natural bathing pools.'
+      },
+      {
+        question: 'What is the plankton swim on the sunset cruises?',
+        answer: 'Certain nights the water around Krabi carries **bioluminescent plankton** that glow blue when disturbed. Several evening trips — including the [7 Islands sunset cruise](/thailand/krabi/chicken-island-sunset-tour) and the [small-group dinner cruise](/thailand/krabi/ao-nang-sunset-tour) — include a night swim to see it. It depends on natural conditions, so it can never be guaranteed.'
+      },
+      {
+        question: 'How many days do I need in Krabi?',
+        answer: '**Four days** is a good target. Day 1: the [4-Island longtail trip](/thailand/krabi/chicken-island-boat-tour). Day 2: [Phi Phi and Maya Bay](/thailand/krabi/maya-bay-adventure-boat-tour) by speedboat. Day 3: inland for the [Emerald Pool, hot springs and Tiger Cave Temple](/thailand/krabi/tiger-cave-temple-spiritual-tour). Day 4: something slower — [mangrove kayaking](/thailand/krabi/ao-thalane-bay-half-day-tour), a [cooking class](/thailand/krabi/ao-nang-cooking-food-tour), or a [sunset cruise](/thailand/krabi/ao-nang-sunset-tour) to finish.'
+      }
+    ]
+  },
+  'Pattaya': {
+    title: 'Pattaya Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover the best tours in Pattaya with licensed local operators — Coral Island speedboat trips, ethical elephant sanctuaries, Sanctuary of Truth, Nong Nooch Garden, cabaret shows and jet ski safaris.',
+    intro: [
+      'Pattaya sits on Thailand\'s eastern Gulf coast, about two hours from Bangkok, and packs an unusually wide range of experiences into a compact stretch of shoreline. Offshore lie the islands — Koh Larn and its quieter neighbours, reachable by speedboat in under an hour, where the water turns genuinely turquoise. A [Coral Island day trip](/thailand/pattaya/koh-larn-coral-island-full-day-tour) is the easiest way to see why most visitors end up spending more time on the water than in town.',
+      'Inland, Pattaya is more surprising than its reputation suggests. The hand-carved teak [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-naklua-pattaya-spiritual-tour) is still being built by craftsmen without a single nail, [Nong Nooch Tropical Garden](/thailand/pattaya/nong-nooch-tropical-garden-pattaya-cultural-tour) spreads across 500 acres of themed landscaping, and the hills above the bay hold the Big Buddha and some of the best [sunset viewpoints in the province](/thailand/pattaya/pattaya-marina-night-market-sunset-tour). Add an [ethical elephant sanctuary](/thailand/pattaya/living-green-elephant-sanctuary-chonburi-full-day-tour), world-famous [cabaret theatre](/thailand/pattaya/alcazar-theatre-pattaya-second-road-evening-tour), [off-road ATV trails](/thailand/pattaya/lakeside-atv-trails-pattaya-countryside-mini-tour) and [scuba diving](/thailand/pattaya/pattaya-dive-sites-full-day-tour), and it becomes a genuinely varied few days.'
+    ],
+    whyBook: [
+      'Direct partnerships with licensed Pattaya operators',
+      'Ethical animal experiences only — no riding, no shows',
+      'Small-group and private options on most tours',
+      'Free cancellation on the majority of experiences'
+    ],
+    topAttractions: [
+      'Koh Larn (Coral Island)',
+      'Sanctuary of Truth',
+      'Nong Nooch Tropical Garden',
+      'Big Buddha Hill (Wat Phra Yai)',
+      'Alcazar & Tiffany\'s Cabaret',
+      'Pattaya Marine Night Market',
+      'Jomtien Beach',
+      'Samaesarn Dive Sites',
+      'Ethical Elephant Sanctuaries',
+      'Pattaya Floating Market'
+    ],
+    bestTime: 'The best time to visit Pattaya is **November to February**, the cool dry season, when the sea is calm, humidity drops and island-hopping conditions are at their best. March to May is hot but still very good for the water — early-morning [speedboat trips](/thailand/pattaya/koh-larn-coral-island-full-day-tour) beat the worst of the heat. The rainy season (June–October) brings short afternoon downpours rather than all-day rain, and indoor draws like the [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-naklua-pattaya-spiritual-tour) and the [cabaret shows](/thailand/pattaya/tiffanys-show-theatre-north-pattaya-entry-ticket) run year-round. Boat tours are occasionally cancelled in rough seas — operators reschedule or refund when that happens.',
+    faqs: [
+      {
+        question: 'How far is Pattaya from Bangkok, and is it worth a day trip?',
+        answer: 'Pattaya is roughly **2 hours by road** from central Bangkok (about 150 km). It works as a day trip, but you\'d spend four hours in the car for it — most visitors get far more out of **two or three nights**, which leaves time for an island day plus the inland sights.'
+      },
+      {
+        question: 'Is Koh Larn worth visiting, and how do I get there?',
+        answer: 'Yes — Koh Larn has the clear turquoise water Pattaya\'s own beaches lack. It\'s about **40 minutes by speedboat** from Bali Hai Pier. Our [Coral Island day trip](/thailand/pattaya/koh-larn-coral-island-full-day-tour) handles the pier check-in and transfers, and there\'s also [tandem paragliding](/thailand/pattaya/koh-larn-island-off-pattaya-mini-tour) over the bays if you want the aerial view.'
+      },
+      {
+        question: 'Are the elephant experiences in Pattaya ethical?',
+        answer: 'The ones we list are — **no riding, no performances, no chains**. Both the [Living Green sanctuary day trip](/thailand/pattaya/living-green-elephant-sanctuary-chonburi-full-day-tour) and the [half-day jungle sanctuary visit](/thailand/pattaya/elephant-jungle-sanctuary-pattaya-countryside-half-day-tour) are feeding, walking and bathing programmes where guides explain each elephant\'s rescue history.'
+      },
+      {
+        question: 'What is the Sanctuary of Truth?',
+        answer: 'A **105-metre hand-carved teak temple** on the Naklua headland, under construction since 1981 and built entirely without nails. Every surface is covered in carvings drawn from Buddhist and Hindu cosmology. [Day and evening tickets](/thailand/pattaya/sanctuary-of-truth-naklua-pattaya-spiritual-tour) are available — the evening slot shows the building lit up, on Fridays and Saturdays only.'
+      },
+      {
+        question: 'Which cabaret show should I pick — Alcazar or Tiffany\'s?',
+        answer: 'Both are long-running, large-scale productions with elaborate costumes and staging. [Alcazar](/thailand/pattaya/alcazar-theatre-pattaya-second-road-evening-tour) runs three shows nightly on Second Road and is the better-value ticket. [Tiffany\'s](/thailand/pattaya/tiffanys-show-theatre-north-pattaya-entry-ticket) is the older venue in North Pattaya and offers a dinner-plus-VIP-seating package.'
+      },
+      {
+        question: 'Is Nong Nooch Garden suitable for families?',
+        answer: 'Very — it\'s **500 acres** of themed gardens with a sightseeing bus, a cultural show featuring traditional dance from Thailand\'s four regions, and a lunch buffet. [Ticket options](/thailand/pattaya/nong-nooch-tropical-garden-pattaya-cultural-tour) range from plain admission to full packages, so you can scale it to how long you want to stay.'
+      },
+      {
+        question: 'Can you dive in Pattaya, and is it good for beginners?',
+        answer: 'Yes. The wrecks and reefs around the near islands and **Samaesarn** are shallow and forgiving, which makes them well suited to first dives and refreshers. Our [boat diving day trip](/thailand/pattaya/pattaya-dive-sites-full-day-tour) picks sites daily based on conditions and includes hotel pickup.'
+      },
+      {
+        question: 'How many days do I need in Pattaya?',
+        answer: '**Three days** covers it comfortably. Day 1: [Coral Island](/thailand/pattaya/koh-larn-coral-island-full-day-tour) and the beaches. Day 2: [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-naklua-pattaya-spiritual-tour) plus [Nong Nooch](/thailand/pattaya/nong-nooch-tropical-garden-pattaya-cultural-tour), with a [cabaret show](/thailand/pattaya/alcazar-theatre-pattaya-second-road-evening-tour) in the evening. Day 3: an [elephant sanctuary](/thailand/pattaya/elephant-jungle-sanctuary-pattaya-countryside-half-day-tour) or [ATV trails](/thailand/pattaya/lakeside-atv-trails-pattaya-countryside-mini-tour), finishing at the [Big Buddha viewpoint and night market](/thailand/pattaya/pattaya-marina-night-market-sunset-tour).'
+      }
+    ]
+  },
   'Tokyo': {
     title: 'Tokyo Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover Tokyo with licensed local guides — Senso-ji & Asakusa, Shibuya & Shinjuku nightlife, Tsukiji food tours, Meiji Shrine, anime culture & day trips to Mt Fuji.',
