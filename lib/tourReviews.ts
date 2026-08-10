@@ -9107,5 +9107,448 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+        // --- KRABI: 30 tours added 2026-08-10 ---
+if (slug === "chicken-island-boat-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Marta Kowalczyk", country: "Poland", rating: 5, date: "2025-10-14", text: "The wooden longtail is loud and slow and that is exactly the charm of it. We hit the sandbar between Tup and Chicken Island right as the tide dropped, so you could walk from one island to the other with water up to your ankles. Snorkelling off Poda was full of those striped sergeant majors that swarm you the second bread appears." },
+                { author: "Diego Herrera", country: "Chile", rating: 5, date: "2025-12-02", text: "Four islands in six hours sounds rushed but it never felt that way. Our boatman knew which corner of Poda Island stays empty and parked us there for lunch. The Thai lunch was cooked fresh and served on the sand, not a sad lunchbox like I expected for this price." },
+                { author: "Aisling Byrne", country: "Ireland", rating: 5, date: "2026-01-19", text: "Chicken Island really does look like a chicken from the right angle, which our guide made sure everyone got a photo of. Water was glassy the whole morning and the reef fish around Tup Island were everywhere. Good value for a six hour day with food included." },
+                { author: "Kenji Watanabe", country: "Japan", rating: 4, date: "2026-02-27", text: "A lovely trip overall and the sandbar walk was the highlight. By midday the sandbar had four or five other boats parked on it, so it is far from a secret spot. Go with that expectation and you will still enjoy it." },
+                { author: "Sofia Ramalho", country: "Portugal", rating: 5, date: "2026-04-08", text: "We were a bit nervous about a longtail in open water but the crossing was smooth and they handed out life jackets without anyone asking. Phra Nang beach with the cliff shrine was unexpectedly beautiful. Lunch was chicken with cashew, rice and fresh pineapple, plenty for everyone." },
+                { author: "Thabo Mokoena", country: "South Africa", rating: 5, date: "2026-05-21", text: "Great mix of swimming, snorkelling and just sitting on a beach doing nothing. The crew helped my mother in and out of the boat every single stop without being asked. Bring reef shoes, some of the entry points are sharp." },
+                { author: "Hannah Vogt", country: "Germany", rating: 4, date: "2026-07-03", text: "Good day out and honestly hard to beat for the price. The snorkelling gear was well used and my mask leaked, so bring your own if you have one. The sandbar and Phra Nang more than made up for it." },
+            ],
+        };
+    }
+
+    if (slug === "hong-island-private-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 5, guideRating: 4.9, valueRating: 4.6,
+            reviews: [
+                { author: "Charlotte Beaumont", country: "France", rating: 5, date: "2025-09-27", text: "Having the whole longtail to ourselves changed the trip completely. We told the captain we wanted Hong Island lagoon before anyone else and he had us inside the emerald basin at eight in the morning, alone. The cushioned seats also mean you are not sitting on a wooden plank for eight hours." },
+                { author: "Rajesh Menon", country: "India", rating: 5, date: "2025-11-16", text: "We booked this for our parents and it was the right call. No fixed schedule, no waiting for thirty strangers, and we swapped Chicken Island for extra time at Hong when they were enjoying the beach. The captain shifted the awning around all day so nobody got burned." },
+                { author: "Elena Grigoryan", country: "Armenia", rating: 5, date: "2026-01-30", text: "Eight hours felt generous rather than long. We did Hong lagoon, the viewpoint climb and then a lazy afternoon at Paradise Beach on Phi Phi side. Expensive per boat but split between five of us it worked out fine." },
+                { author: "Oliver Nakamura", country: "Australia", rating: 5, date: "2026-03-22", text: "The freedom is the product here. We stopped twice just because the water looked good, which no group boat would ever do. Bring cash for the national park fees, they are not part of the charter price." },
+                { author: "Ines Fournier", country: "Belgium", rating: 4, date: "2026-06-11", text: "Beautiful day and our captain was patient and kind with our kids. The sea got choppy on the way back in the afternoon and a longtail bounces more than a speedboat, so my daughter felt unwell. Worth asking to head home a little earlier if the wind picks up." },
+            ],
+        };
+    }
+
+    if (slug === "tiger-cave-temple-spiritual-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 8, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Michael O'Donnell", country: "United States", rating: 5, date: "2025-09-08", text: "The Emerald Pool is exactly the colour the photos promise and it was cold enough to be a shock after the walk in. Hot springs afterwards were the perfect order of events. Our guide talked us through the temple etiquette before we arrived, which saved some awkwardness." },
+                { author: "Yuki Tanabe", country: "Japan", rating: 4, date: "2025-10-25", text: "A well organised full day, but understand that the 1,260 steps at Tiger Cave Temple are genuinely hard in the heat. I got about two thirds up and turned back, and the guide was completely fine about it. The Emerald Pool and Blue Pool were the best part for me." },
+                { author: "Lucia Ferrari", country: "Italy", rating: 5, date: "2025-12-14", text: "Doing the temple climb last was smart because you are already tired and the sunset view over the karsts is the reward. The hot springs feel like sitting in a warm bath in the middle of the jungle. Bring a second dry shirt, you will need it." },
+                { author: "Sipho Dlamini", country: "South Africa", rating: 5, date: "2026-01-07", text: "Great value for eight hours with three completely different stops. The Blue Pool near the Emerald Pool is a short extra walk and worth doing even though swimming is not allowed there. Monkeys at the temple stairs will steal anything loose." },
+                { author: "Freya Lindqvist", country: "Sweden", rating: 5, date: "2026-02-18", text: "I came for the temple and left obsessed with the Emerald Pool. The water is warm at the surface and freezing underneath where the spring feeds in. Our driver was careful and the van was air conditioned, which matters after the steps." },
+                { author: "Carlos Mendes", country: "Brazil", rating: 4, date: "2026-04-02", text: "Everything was good but it is a lot of driving, roughly ninety minutes each way to Khao Phanom. Lunch was a simple local place, tasty but basic. If you only have one inland day in Krabi this still covers the highlights well." },
+                { author: "Nadia Haddad", country: "Morocco", rating: 5, date: "2026-05-30", text: "Our guide explained the meditation caves and the monks who still live at Tiger Cave, which turned a photo stop into something meaningful. Shoulders and knees must be covered at the shrine so pack a sarong. The hot springs were quiet in the late morning." },
+                { author: "Tom Bakker", country: "Netherlands", rating: 5, date: "2026-07-15", text: "Did this on our first day to escape the beach crowds and it was the right choice. The Emerald Pool had maybe twenty people at nine in the morning and was packed when we left. Climbing the temple stairs with a cold drink waiting at the bottom is a memory I will keep." },
+            ],
+        };
+    }
+
+    if (slug === "krabi-elephant-shelter-entry-ticket") {
+        return {
+            averageRating: 4.8, totalReviews: 6, guideRating: 4.9, valueRating: 4.5,
+            reviews: [
+                { author: "Emma Sorensen", country: "Denmark", rating: 5, date: "2025-10-05", text: "No riding, no chains, no circus tricks, just washing two very content elephants in a muddy pool. The keepers have been with these animals for years and you can see the trust between them. My kids talked about it for the rest of the trip." },
+                { author: "Andres Villalobos", country: "Costa Rica", rating: 5, date: "2025-11-29", text: "An hour and a half sounds short but by the end you are soaked, muddy and grinning. They explained where each elephant came from before we went anywhere near them. Wear clothes you do not care about because the splashing is enthusiastic." },
+                { author: "Priya Sundaram", country: "Singapore", rating: 5, date: "2026-01-24", text: "What I appreciated most was that the elephants could walk away whenever they wanted, and one of them did. The staff never forced any interaction for a photo. Small group too, only eight of us in the session." },
+                { author: "Jack Thornbury", country: "United Kingdom", rating: 4, date: "2026-03-09", text: "Genuinely ethical and well run, the keepers clearly care. It is fifty dollars for ninety minutes which is not cheap, and the actual bathing part is maybe thirty of those minutes. Still glad we did it rather than one of the riding places." },
+                { author: "Amina Yusuf", country: "Kenya", rating: 5, date: "2026-05-06", text: "They gave us a briefing on how to approach from the side, never from behind, and how to read when an elephant has had enough. Standing in the pool throwing water over a three tonne animal that is clearly enjoying it is something else. Showers and lockers were clean." },
+                { author: "Lars Mikkelsen", country: "Norway", rating: 5, date: "2026-06-28", text: "Close to Krabi Town so the transfer was short, which left more time with the animals. There is mud, a lot of it, and it gets in everything. Bring a towel and flip flops you can hose off." },
+            ],
+        };
+    }
+
+    if (slug === "maya-bay-adventure-boat-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 9, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Isabelle Rousseau", country: "Canada", rating: 5, date: "2025-09-18", text: "Leaving Ao Nang at first light is the entire point of this tour. We were standing on Maya Bay beach with maybe two other boats worth of people, and by the time we left there was a queue of speedboats outside. Pileh Lagoon afterwards was that unreal green colour with the cliffs closing in around you." },
+                { author: "Bruno Salgado", country: "Portugal", rating: 5, date: "2025-10-30", text: "Nine hours, two island groups, and it never dragged. Monkey Beach had the macaques right at the waterline and the crew warned us to keep bags shut, which several people ignored and regretted. Snorkelling at Bamboo Island was the clearest water of our trip." },
+                { author: "Ha-eun Park", country: "South Korea", rating: 5, date: "2026-01-11", text: "Worth the early alarm. The speedboat gets you to Phi Phi in about forty five minutes so you actually have time at each stop instead of just photographing from the boat. Viking Cave and the swiftlet nests were a strange highlight." },
+                { author: "Gabriel Duarte", country: "Brazil", rating: 4, date: "2026-02-05", text: "Fantastic itinerary but be aware you cannot swim at Maya Bay, you land at the back jetty and walk in. Nobody told us that beforehand. Everything else, especially Pileh Lagoon and the four islands sandbar in the afternoon, made up for the surprise." },
+                { author: "Nora Aaltonen", country: "Finland", rating: 5, date: "2026-03-16", text: "Combining Phi Phi with the four islands in one day is excellent value if you only have a couple of days in Krabi. Lunch was a buffet on Phi Phi Don with more than enough choice. The crew handed out motion sickness tablets on the way out, which a few people needed." },
+                { author: "Ravi Chandrasekar", country: "India", rating: 5, date: "2026-04-24", text: "Our guide counted heads at every single stop and knew the tide well enough to reroute when Maya was busy. Tup Island sandbar in the afternoon light was quieter than the morning boats get. Long day but a well paced one." },
+                { author: "Marieke de Vries", country: "Netherlands", rating: 4, date: "2026-05-14", text: "Great tour, genuinely. The return leg was choppy and a speedboat slams into swell at speed, so if you get seasick sit at the back and take something in advance. Maya Bay before the crowds is still absolutely worth the discomfort." },
+                { author: "Ethan Caldwell", country: "New Zealand", rating: 5, date: "2026-06-19", text: "Nine hours on the water and I would do it again tomorrow. Snorkelling in Pileh Lagoon with the light coming down between the cliffs was the best twenty minutes of the holiday. Bring more sunscreen than you think, there is almost no shade." },
+                { author: "Zainab Al-Farsi", country: "Oman", rating: 5, date: "2026-07-22", text: "The early start meant Maya Bay felt calm rather than a scrum. National park fees are extra and collected in cash, so come prepared. Everything else including water, fruit and towels was provided." },
+            ],
+        };
+    }
+
+    if (slug === "chicken-island-premium-boat-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 6, guideRating: 4.7, valueRating: 4.6,
+            reviews: [
+                { author: "Stefan Novak", country: "Czechia", rating: 5, date: "2025-11-08", text: "After doing a longtail earlier in the week the catamaran was a completely different experience. Barely any bouncing, shade when you want it, and lying on the trampoline netting over the water is worth the upgrade alone. Five hours was the right length." },
+                { author: "Alessia Conti", country: "Italy", rating: 5, date: "2025-12-21", text: "The clear kayaks are a gimmick that actually works, you can see the fish under you the whole time around Tup Island. Food was served properly on board rather than balanced on your knees on a beach. Good option if you want the four islands without the chaos." },
+                { author: "Daniel Mwangi", country: "Kenya", rating: 5, date: "2026-02-12", text: "Stable enough that my wife, who normally cannot handle boats, was fine all day. Snorkelling stop off Poda had good visibility and the crew got in the water with us. Fewer stops than a full day trip but each one felt unhurried." },
+                { author: "Camille Lefebvre", country: "France", rating: 4, date: "2026-03-31", text: "Comfortable boat and a lovely crew. There were around forty of us aboard, so the clear kayaks work on rotation and you get maybe twenty minutes with one. Manage expectations on that and it is still a great half day." },
+                { author: "Joshua Lim", country: "Malaysia", rating: 5, date: "2026-05-27", text: "Better value than it looks once you factor in the food, the kayaks and not being soaked by spray for five hours. The sandbar at Tup was fully exposed when we arrived and we walked most of the way across. Freshwater rinse on board was a nice touch." },
+                { author: "Petra Horvath", country: "Hungary", rating: 5, date: "2026-07-09", text: "We travelled with a toddler and the catamaran made that possible, there is space to move around and a shaded deck. Crew were watchful without hovering. Chicken Island from the water at midday is worth the trip on its own." },
+            ],
+        };
+    }
+
+    if (slug === "chicken-island-sunset-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Sarah Whitfield", country: "United Kingdom", rating: 5, date: "2025-09-24", text: "The afternoon timing means you skip the morning boat traffic entirely, and by four o'clock we had Poda almost to ourselves. The barbecue was grilled on the sand while the sun went down, chicken, fish, prawns and grilled corn. Then the plankton swim, which I did not expect to be as magical as it was." },
+                { author: "Mateo Ibarra", country: "Argentina", rating: 5, date: "2025-11-02", text: "Seven islands in seven hours and the light gets better with every stop. When we got in for the night swim the water lit up blue around our arms every time we moved. The guide was honest that the plankton depends on the moon and conditions, so we were lucky." },
+                { author: "Ingrid Halvorsen", country: "Norway", rating: 5, date: "2026-01-16", text: "Best value tour we did in Thailand. Snorkelling in the afternoon was calmer than the morning trips our friends took. The BBQ was a proper meal, not a token buffet, and they kept refilling the fruit." },
+                { author: "Kwame Boateng", country: "Ghana", rating: 4, date: "2026-02-24", text: "Really enjoyable evening but the plankton were faint the night we went because there was a bright moon. The crew warned us in advance that it might be that way, which I appreciated. The sunset BBQ was still the best meal on a beach I have had." },
+                { author: "Julia Wisniewska", country: "Poland", rating: 5, date: "2026-04-17", text: "Swimming in the dark sounds unnerving but they light the boat, hand out floats and stay close. Watching the plankton spark off your hands is genuinely strange and lovely. Bring a warm layer for the ride back, you get cold once the sun is gone." },
+                { author: "Hiroshi Kuroda", country: "Japan", rating: 5, date: "2026-06-05", text: "Seven stops sounds like a lot but many are short swim or photo pauses, which keeps it moving. Phra Nang beach at golden hour with almost nobody there was the standout. Hotel pickup in Ao Nang was on time." },
+                { author: "Bianca Rossetti", country: "Switzerland", rating: 5, date: "2026-07-28", text: "We did this on our last night and it was the right way to end the trip. The crew grilled while we swam, then we ate with our feet in the sand. The night swim afterwards was optional and about half the boat stayed dry, which was fine." },
+            ],
+        };
+    }
+
+    if (slug === "crystal-lake-mini-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 5, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Anneke Visser", country: "Netherlands", rating: 5, date: "2025-10-19", text: "Klong Root is a completely different Krabi from the islands, still and green and quiet apart from birds. The water really is that emerald colour and you can see straight down to the sunken branches. Two and a half hours was enough and the paddling is genuinely easy." },
+                { author: "Felipe Andrade", country: "Colombia", rating: 5, date: "2025-12-08", text: "We saw a kingfisher three times and a water monitor sunning itself on a log. Our guide paddled alongside pointing things out we would have floated straight past. The freshwater swim stop at the end was cold and perfect." },
+                { author: "Mia Karlsson", country: "Sweden", rating: 5, date: "2026-02-01", text: "Ideal if you want something calm between big island days. No current, no waves, and my ten year old paddled her own half of the kayak with no trouble. Bring insect repellent for the shaded stretches." },
+                { author: "Owen Fitzgerald", country: "Ireland", rating: 4, date: "2026-04-13", text: "Lovely peaceful paddle and very good value at this price. It is short, so do not treat it as a half day, and there were three other groups on the water when we went at eleven. Going early would fix that." },
+                { author: "Chiara Bonetti", country: "Italy", rating: 5, date: "2026-06-23", text: "The waterlilies and the vines hanging into the water make it feel like a film set. Swimming in the spring where the water comes up from below is startlingly cold after the heat. A quiet highlight of our week in Krabi." },
+            ],
+        };
+    }
+
+    if (slug === "maya-bay-islands-full-day-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 8, guideRating: 4.7, valueRating: 4.8,
+            reviews: [
+                { author: "Robert Kingsley", country: "United States", rating: 5, date: "2025-09-12", text: "A full day around Phi Phi for this price is hard to argue with. Pileh Lagoon was the standout, the water is a green you do not believe until you are floating in it. Buffet lunch on Phi Phi Don was decent and there was time to wander the village afterwards." },
+                { author: "Leila Nasser", country: "Lebanon", rating: 5, date: "2025-10-28", text: "Our boat did Bamboo Island first, which meant we snorkelled before it filled up. The fish around the reef there were the best of the day. Guide gave clear timings at every stop and nobody got left behind." },
+                { author: "Simon Aldridge", country: "United Kingdom", rating: 4, date: "2025-12-17", text: "Great day but Maya Bay at eleven in the morning is very busy, and you cannot swim there, only walk the beach. If crowds bother you, book one of the early departures instead. Everything else was excellent, especially Monkey Beach." },
+                { author: "Yasmin Abdi", country: "Somalia", rating: 5, date: "2026-01-26", text: "Eight hours went quickly. Viking Cave from the water, snorkelling at Loh Samah, then the lagoon swim. The crew handed out fruit and cold water constantly, which matters in that heat." },
+                { author: "Tobias Winkler", country: "Austria", rating: 5, date: "2026-03-05", text: "We took the catamaran option rather than the speedboat and it was far more comfortable, though slower between islands. Lunch buffet had a vegetarian section which was better than expected. Good introduction to Phi Phi if it is your first time." },
+                { author: "Renata Marchetti", country: "Italy", rating: 4, date: "2026-04-29", text: "Beautiful islands, competent crew, fair price. The sea was rough on the return and the speedboat ride back to Ao Nang was uncomfortable for about forty minutes. Take a tablet before boarding if you are prone to it." },
+                { author: "Chidi Okafor", country: "Nigeria", rating: 5, date: "2026-06-14", text: "The Pileh Lagoon swim alone justified the day. Sheer limestone on all sides and warm still water in the middle. Our guide also explained the coral recovery work at Maya Bay and why the rules are strict now." },
+                { author: "Sanne Jorgensen", country: "Denmark", rating: 5, date: "2026-07-19", text: "Well organised from the hotel pickup onwards and we were back in Ao Nang exactly when they said. Snorkel gear and life jackets were included and in good condition. Sunscreen, hat and a dry bag are the three things to bring." },
+            ],
+        };
+    }
+
+    if (slug === "chicken-island-sunset-sunset-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Victor Lindgren", country: "Sweden", rating: 5, date: "2025-11-21", text: "Getting both Phi Phi and the four islands in one day is a lot, but the catamaran is fast enough to make it work. Watching the sun drop behind the karsts from the open deck on the way home was the best hour of the trip. Bring a jumper, it cools off quickly." },
+                { author: "Aiko Shimizu", country: "Japan", rating: 5, date: "2026-01-03", text: "Nine hours and I did not once wish it was over. Pileh Lagoon in the morning, Tup Island sandbar in the afternoon, then sunset drinks on deck. The catamaran is stable enough to walk around on, unlike the speedboats going past us." },
+                { author: "Marcus Delacroix", country: "France", rating: 4, date: "2026-02-20", text: "Really good combination tour, but it is a long day and by the last stop some people were flagging. Lunch was fine rather than memorable. The sunset over the limestone made up for both of those things." },
+                { author: "Grace Ntuli", country: "Zimbabwe", rating: 5, date: "2026-04-06", text: "The crew clearly enjoy the sunset leg as much as the guests, music on, everyone up on deck. Snorkelling earlier at Phi Phi was calm and the visibility was good. Excellent value for what is basically two tours." },
+                { author: "Pedro Alcantara", country: "Spain", rating: 5, date: "2026-05-18", text: "Chicken Island silhouetted against the sunset is the photo everyone was chasing and we got it. Phra Nang and the sandbar earlier were both quieter than the morning boats. Well run and never felt overcrowded despite a full boat." },
+                { author: "Linnea Ostberg", country: "Finland", rating: 5, date: "2026-07-11", text: "If you only have one day in Krabi this is the one to book. You cover the Phi Phi highlights, the four islands and a sunset. Just be ready for a nine hour day with a lot of sun exposure." },
+            ],
+        };
+    }
+
+    if (slug === "ao-thalane-bay-half-day-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Clara Steinberg", country: "Germany", rating: 5, date: "2025-09-30", text: "Ao Thalane is the calmest water in Krabi and paddling into those mangrove channels with the cliffs overhead is completely different from the island tours. We went through a sea cave at low tide with about a metre of clearance. Our guide spotted mudskippers and crabs we would never have noticed." },
+                { author: "Arjun Kapoor", country: "India", rating: 5, date: "2025-11-13", text: "No experience needed at all, the guide gives a five minute lesson and the water is flat. The hidden lagoon behind the rock wall was the highlight, you paddle through a gap and it opens into a silent pool. Four and a half hours was well paced with a snack break." },
+                { author: "Emily Sanderson", country: "Australia", rating: 5, date: "2026-01-21", text: "We saw macaques on the bank, a sea eagle and dozens of mudskippers. Our guide timed the route around the tide so we could get into the caves. Much better than I expected for a half day." },
+                { author: "Youssef Benali", country: "Tunisia", rating: 4, date: "2026-03-13", text: "Really peaceful and the scenery is spectacular. It was hot with almost no shade in the open sections, so go for the early departure if you can. Sunscreen, hat and water are essential rather than optional." },
+                { author: "Nina Petrova", country: "Bulgaria", rating: 5, date: "2026-04-27", text: "Two people per kayak with the guide leading and never rushing anyone. My partner did most of the steering and I mostly took photos, which nobody minded. The limestone walls rising straight out of the water are extraordinary up close." },
+                { author: "Samuel Adeyemi", country: "Nigeria", rating: 5, date: "2026-06-09", text: "Booked this as a change from boat trips and it was the best decision of the week. Almost no other groups on the water at eight in the morning. Bring a dry bag, everything in the kayak gets damp." },
+                { author: "Lotta Rautio", country: "Finland", rating: 5, date: "2026-07-25", text: "The guide explained how the mangroves work as a nursery for fish, which made the paddle more interesting than just scenery. Transfers from Ao Nang were straightforward. Wear something you do not mind getting wet up to the knees at the launch." },
+            ],
+        };
+    }
+
+    if (slug === "ao-thalane-guided-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 5, guideRating: 4.8, valueRating: 4.9,
+            reviews: [
+                { author: "Beatrice Almeida", country: "Portugal", rating: 5, date: "2025-10-09", text: "Two hours of paddling is exactly right if you are not a keen kayaker. We went through the limestone canyon where the walls close in on both sides and the sound goes completely quiet. Wild macaques on the rocks watched us go past, close but not aggressive." },
+                { author: "Nathan Brooks", country: "Canada", rating: 5, date: "2025-12-27", text: "Cheap, easy and genuinely scenic. Hotel pickup and drop off in Ao Nang were included and ran on time. Our guide pointed out a monitor lizard swimming across the channel which was the moment of the trip." },
+                { author: "Sofie Vermeulen", country: "Belgium", rating: 5, date: "2026-02-08", text: "Perfect half morning activity. Flat water, no wind, and the guide happily towed anyone who got tired. The monkey cove is real, there were maybe fifteen macaques along the shoreline." },
+                { author: "Kiran Shrestha", country: "Nepal", rating: 4, date: "2026-05-02", text: "Good tour for the money and the canyons are impressive. The actual paddling is only about two hours of the four, the rest is transfer time. Worth knowing before you book if you want a longer day on the water." },
+                { author: "Georgia Papadaki", country: "Greece", rating: 5, date: "2026-06-30", text: "Do not feed the macaques, the guide said it twice and someone still tried. Aside from that it was calm, beautiful and easy going. Great for a first time in a kayak." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-backcountry-guided-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Ryan Mackenzie", country: "Scotland", rating: 5, date: "2025-10-22", text: "You get your own quad, not a shared one, and after ten minutes of practice on the flat you are into the mud. The rubber plantation section is fast and the hill climb at the end has a proper view over the countryside. I was filthy from the waist down and delighted about it." },
+                { author: "Valeria Ortiz", country: "Mexico", rating: 5, date: "2025-12-05", text: "Rained the night before so the jungle track was a mud bath, which honestly made it. The guide leads at a pace that suits the slowest rider and checks on everyone at each break. Two hours is plenty, your arms will know about it." },
+                { author: "Jonas Berg", country: "Germany", rating: 5, date: "2026-01-28", text: "Never ridden a quad before and it was fine, the controls are simple and they run through everything first. Helmets and goggles provided and they hose the bikes and you down at the end. Bring a change of clothes, no exceptions." },
+                { author: "Meera Pillai", country: "India", rating: 4, date: "2026-03-27", text: "Great fun and the hill views were lovely. The mud is not optional, so if you are precious about your clothes this is not for you. Also the engines are loud and the dust in the dry sections is heavy, a buff over your mouth helps." },
+                { author: "Callum Reid", country: "New Zealand", rating: 5, date: "2026-05-24", text: "Best two hours of adrenaline we found in Krabi. Trails go through rubber plantations and small villages so you see a side of the area the boat tours miss. Guide stopped for photos at the top without us asking." },
+                { author: "Fatima Zahra", country: "Morocco", rating: 5, date: "2026-07-06", text: "I was nervous and asked to go last, and the second guide rode behind me the whole way. By the halfway point I was overtaking people. Short, cheap and a genuine highlight." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-through-bike-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 5, guideRating: 4.8, valueRating: 4.4,
+            reviews: [
+                { author: "Dominic Ashworth", country: "United Kingdom", rating: 5, date: "2025-11-25", text: "Khlong Son is greener and hillier than I expected and the trails run through proper forest rather than a fenced circuit. One quad each, and the guide let us open up on the wider sections. The viewpoint over the Krabi mountains was a real stop, not a two minute photo." },
+                { author: "Larissa Cardoso", country: "Brazil", rating: 5, date: "2026-01-14", text: "Hotel pickup from Ao Nang made it painless and the whole thing including transfers was under three hours. Briefing was thorough and they check your throttle control before letting you onto the trails. Muddy, bumpy and great." },
+                { author: "Erik Solheim", country: "Norway", rating: 4, date: "2026-03-02", text: "Enjoyable ride and the scenery is worth it. Sixty two dollars for an hour of actual riding is on the expensive side compared to other quad operators in Krabi. The bikes were new and well maintained though, which may explain it." },
+                { author: "Suriya Chaiwong", country: "Thailand", rating: 5, date: "2026-04-20", text: "Took visiting friends here and even as a local I had not been up these hill trails. The forest tracks after rain are slippery in a fun way and the guides know every rut. Good safety gear and they take it seriously." },
+                { author: "Helena Marek", country: "Czechia", rating: 5, date: "2026-06-16", text: "An hour on the quad is short but it is a solid hour of riding, not queuing. Views over the mountains at the top were hazy but still lovely. They provide a rinse and you can leave your bag in a locker." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-elephant-sanctuary-guided-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 6, guideRating: 4.9, valueRating: 4.5,
+            reviews: [
+                { author: "Katherine Ellsworth", country: "United States", rating: 5, date: "2025-09-21", text: "We made the food ourselves, sticky rice balls with tamarind and banana, then fed the herd by hand. No riding, no shows, no bullhooks anywhere on the property. The mahouts told us each elephant's history, including one rescued from a logging camp." },
+                { author: "Antoine Girard", country: "France", rating: 5, date: "2025-11-06", text: "Ninety minutes of unhurried time with four elephants, and unhurried is the key word. They eat slowly and you just stand there feeding them and listening. My daughter has not stopped talking about the baby of the group." },
+                { author: "Wei Ling Tan", country: "Singapore", rating: 5, date: "2026-01-09", text: "The staff were clear that the elephants set the pace and if one wandered off we let it go. That honesty was reassuring after reading about the bad places. Close to Ao Nang so the transfer was only about twenty five minutes." },
+                { author: "Bruno Kessler", country: "Switzerland", rating: 4, date: "2026-03-19", text: "A good, ethical operation and the food preparation part was more engaging than I expected. It is fifty dollars for an hour and a half, so the value depends on how much this matters to you. For us it did." },
+                { author: "Adaeze Nwosu", country: "Nigeria", rating: 5, date: "2026-05-11", text: "Feeding an elephant by hand while it works out whether you have more bananas hidden is very funny. They gave us proper hygiene instructions and a wash station afterwards. Small group, only ten people." },
+                { author: "Jesper Holm", country: "Denmark", rating: 5, date: "2026-07-01", text: "No bathing at this one, it is feeding and time with the herd, which suited us in the heat. The sanctuary is up a dirt road in the hills behind Ao Nang and the setting is beautiful. Wear closed shoes, the ground is uneven." },
+            ],
+        };
+    }
+if (slug === "hong-island-boat-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Marta Oliveira", country: "Portugal", rating: 5, date: "2025-10-14", text: "The speedboat got us to the Hong archipelago in about 40 minutes, which left loads of time in the water. The inner lagoon really is that opaque green colour you see in photos, and at high tide we swam right through the entrance gap. Snorkelling off the reef was decent, plenty of parrotfish and a few clownfish in the anemones." },
+                { author: "Daniel Kirchner", country: "Germany", rating: 5, date: "2026-01-22", text: "Lunch was set up on the beach at Hong itself with rice, chicken, a red curry and cut pineapple, and we ate with our feet in the sand. The crew handed out snorkel gear and life vests before the first stop and actually stayed in the water with the weaker swimmers. Good value for a full eight-hour day." },
+                { author: "Aiko Tanabe", country: "Japan", rating: 5, date: "2025-11-30", text: "We hit three small islets besides Hong and each one had that white powdery sand. Our guide pointed out the monitor lizard sunning itself behind the ranger station, which the rest of the boat completely missed. Bring reef-safe sunscreen because there is very little shade on the smaller stops." },
+                { author: "Callum Reeve", country: "New Zealand", rating: 4, date: "2026-03-08", text: "Genuinely lovely islands and the lagoon was the highlight of our Krabi week. The one downside is the lagoon gets busy by mid-morning when the Phuket boats arrive, so there were maybe eight boats crowding the entrance. Still worth it, just be ready to share." },
+                { author: "Sofia Marchetti", country: "Italy", rating: 5, date: "2026-05-19", text: "I was nervous about snorkelling as a weak swimmer and the crew gave me a float ring without any fuss. The water at the second stop was so clear I could see the bottom from the boat. National park fee is extra and paid on the day, worth having cash ready." },
+                { author: "Kwame Boateng", country: "Ghana", rating: 5, date: "2026-06-27", text: "Nine hours door to door with the hotel pickup and it never dragged. Fresh fruit and water were topped up all day and the boat had a shaded canopy which mattered by noon. Emerald lagoon at Hong is the one thing I would repeat." },
+                { author: "Elin Ravnsborg", country: "Denmark", rating: 4, date: "2025-09-21", text: "Beautiful trip but the sea was choppy on the way back and a couple of people on board were unwell. The beach lunch was simple rather than special. The islands themselves and the lagoon absolutely delivered though." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-cooking-food-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 8, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Rachel Whitcombe", country: "United Kingdom", rating: 5, date: "2025-10-03", text: "We started at the local market where the chef walked us through galangal versus ginger and made us smell every herb before buying. Then four dishes in the open-air kitchen: tom yum goong, green curry from a paste we pounded ourselves, pad thai and mango sticky rice. The mortar and pestle work is harder than it looks and my arms knew about it the next day." },
+                { author: "Tomás Ibarra", country: "Argentina", rating: 5, date: "2026-02-11", text: "Each of us had our own wok station rather than sharing, which is why this was better than the class I did in Chiang Mai. The chef adjusted the chilli levels per person and mine came out properly hot. We ate everything we cooked at a long table at the end." },
+                { author: "Nadia El Amrani", country: "Morocco", rating: 5, date: "2025-12-06", text: "As a vegetarian I was worried I would just be watching, but they swapped in tofu and mushroom and left the fish sauce out of my curry paste. Nothing felt like an afterthought. They also emailed the recipe cards afterwards and I have made the green curry twice at home." },
+                { author: "Peter Hollingsworth", country: "Australia", rating: 5, date: "2026-04-25", text: "Four hours went quickly. The kitchen is genuinely open-air with fans, so you sweat, but that is part of it. Learning that the paste is just pounded lemongrass, kaffir lime peel and chillies rather than something mysterious was the useful takeaway." },
+                { author: "Yuna Seok", country: "South Korea", rating: 5, date: "2026-01-09", text: "Small group of six so the chef had time for everyone. The mango sticky rice at the end used properly ripe nam dok mai mangoes and coconut cream we watched her warm with salt and pandan. Pickup from our Ao Nang hotel was on time." },
+                { author: "Lucas Verbeek", country: "Netherlands", rating: 4, date: "2026-06-02", text: "Really good class and a friendly chef. The market portion felt a little rushed at maybe 25 minutes, I would have liked longer to look around. The cooking itself and the food we produced were excellent." },
+                { author: "Grace Mutiso", country: "Kenya", rating: 5, date: "2025-11-17", text: "My two teenagers did this with me and both of them cooked their own pad thai without much help. The chef was patient about explaining the difference between palm sugar and regular sugar and why the balance matters. We left completely full and took the leftovers." },
+                { author: "Henrik Solberg", country: "Norway", rating: 5, date: "2026-07-14", text: "Best 48 dollars I spent in Krabi. You cook four dishes, you eat four dishes, and you actually understand why Thai food tastes the way it does by the end. Apron and drinking water provided, just wear something you do not mind smelling of garlic." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-venues-guided-tour") {
+        return {
+            averageRating: 4.5, totalReviews: 6, guideRating: 4.7, valueRating: 4.6,
+            reviews: [
+                { author: "Josh Pemberton", country: "United Kingdom", rating: 5, date: "2025-09-27", text: "A good way to meet people if you are travelling solo. Our host knew every bartender on the Ao Nang strip and the group of about twenty stayed together the whole way. The T-shirt gets you drink discounts at the venues afterwards, which was an unexpected bonus." },
+                { author: "Charlotte Dubois", country: "France", rating: 5, date: "2026-02-19", text: "Five bars over five hours with a welcome shot at each, and the host paced it sensibly rather than pushing anyone. The drinking games between stops broke the ice quickly. Skipping the queue at the final club was worth it on a busy Saturday." },
+                { author: "Andrés Villalobos", country: "Chile", rating: 4, date: "2026-05-06", text: "Fun night and good value for the price. The third bar was quite empty when we arrived so the atmosphere dipped for half an hour before it filled up. The host was excellent at keeping everyone together and checking in on people." },
+                { author: "Priya Raghunathan", country: "India", rating: 5, date: "2025-12-13", text: "I do not drink much and never felt pressured, the host happily swapped my shots for soft drinks. It was more about the group and the walk through Ao Nang than the alcohol. Everyone was looked after and we knew exactly where the meeting point was." },
+                { author: "Miles Osei-Tutu", country: "Ghana", rating: 4, date: "2026-03-30", text: "Solid crawl with a friendly crowd, mostly people in their twenties. Be aware you walk a fair distance between the second and third venues, so no flip flops you cannot manage. Club entry at the end was included and quick." },
+                { author: "Freya Lindqvist", country: "Sweden", rating: 5, date: "2026-06-21", text: "Booked this on our first night and ended up with people we hung out with for the rest of the week. Meeting point was easy to find and the host started on time. Sensible, well organised and not at all the mess I was expecting." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-beach-guided-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 7, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Sean Delaney", country: "Ireland", rating: 5, date: "2025-10-25", text: "The longtail is the way to do this rather than a speedboat, you feel the water and the engine noise is part of the experience. Snorkelling at Daeng Island had the best visibility of our trip with big shoals of sergeant majors. The climb to the Hong viewpoint is steep but takes maybe fifteen minutes and the view over the lagoon is worth the sweat." },
+                { author: "Mei-Ling Chua", country: "Singapore", rating: 5, date: "2026-01-31", text: "Five and a half hours felt like the right length, long enough to see everything without exhausting the kids. Hong Island's beach was the highlight and the lagoon cruise at the end was calm and quiet. Life jackets provided for everyone including small sizes." },
+                { author: "Robert Aleman", country: "Mexico", rating: 4, date: "2026-04-13", text: "Great itinerary but longtails are slow and open, so you are exposed to the sun for long stretches. Bring a hat you can tie on because the wind will take it. Daeng Island snorkelling and the viewpoint made up for it." },
+                { author: "Ingrid Hoffmann", country: "Austria", rating: 5, date: "2025-11-08", text: "Our boatman took us to the viewpoint steps himself and waited at the top to point out the sandbars. The lagoon water was that unreal green even in the late afternoon. Small group of eight rather than a packed tourist boat." },
+                { author: "Obed Nkemelu", country: "Nigeria", rating: 5, date: "2026-05-28", text: "Left from Ao Nang beach directly so no long transfer, we were in the water within half an hour. The staff carried the snorkel gear and rinsed it between stops. Good trip if you want islands without giving up a whole day." },
+                { author: "Anneke Prins", country: "Netherlands", rating: 4, date: "2026-07-05", text: "Lovely islands and a friendly crew. Only snacks and water rather than a proper lunch, which the listing does say, but eat well beforehand. The Hong lagoon and viewpoint were the two things I would come back for." },
+                { author: "Diego Fontana", country: "Brazil", rating: 5, date: "2026-02-27", text: "Daeng Island had soft coral right under the boat and I saw a small reef octopus in the rocks. Hong Island's sand is properly white and the water shallow enough to stand for ages. Simple, well-run half day." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-evening-tour") {
+        return {
+            averageRating: 4.5, totalReviews: 5, guideRating: 4.6, valueRating: 4.5,
+            reviews: [
+                { author: "Beatrice Lyngstad", country: "Norway", rating: 5, date: "2025-11-22", text: "An hour of very polished lip-sync and costume changes, and the sequinned headdresses in the opening number were genuinely spectacular. Reserved seating meant we were four rows back with a clear view. Family friendly and a nice change from another beach evening." },
+                { author: "Craig Sutherland", country: "Canada", rating: 5, date: "2026-03-17", text: "Blue Dragon is small so even the back rows are close to the stage. The performers work incredibly hard, ten or so numbers with full costume changes between each. Photos with the cast afterwards are free but a small tip is appreciated." },
+                { author: "Suparat Wongchai", country: "Thailand", rating: 4, date: "2026-01-14", text: "A good show for the price and the performers are talented. It is only an hour so plan dinner around it rather than treating it as the whole evening. Arrive fifteen minutes early because the reserved seats are allocated on arrival." },
+                { author: "Lena Bachmann", country: "Switzerland", rating: 5, date: "2026-06-09", text: "We took my parents and all four of us enjoyed it. The music mixes Thai pop with Western numbers so there is something familiar throughout. Drinks are bought separately at the bar inside." },
+                { author: "Nathaniel Ofori", country: "Ghana", rating: 4, date: "2026-05-01", text: "Entertaining and very well costumed, though the venue is warm and the air conditioning struggles when it is full. Central Ao Nang location so easy to walk to from most hotels. Worth the ticket price for an hour of good stagecraft." },
+            ],
+        };
+    }
+
+    if (slug === "phra-nang-cave-beach-boat-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 8, guideRating: 4.6, valueRating: 4.7,
+            reviews: [
+                { author: "Amelia Trentham", country: "United Kingdom", rating: 5, date: "2025-09-15", text: "Poda, Tup, Chicken and Phra Nang in one day and each one is genuinely different. At low tide you can walk the sandbar between Tup and Chicken Island which was the moment everyone got their cameras out. Phra Nang's cave shrine with the carved offerings is odd and fascinating." },
+                { author: "Kenji Morishita", country: "Japan", rating: 5, date: "2026-02-04", text: "Snorkelling off Poda had the clearest water and plenty of butterflyfish right by the rocks. Lunch was served on the beach and there was enough for seconds. Eight hours but the pace never felt rushed." },
+                { author: "Camille Rousseau", country: "France", rating: 4, date: "2026-04-18", text: "Beautiful islands, but this is a shared boat and ours had around thirty people so the beaches felt crowded when several boats landed together. Going in the morning means you meet the whole fleet. Phra Nang beach itself was still stunning." },
+                { author: "Zanele Mokoena", country: "South Africa", rating: 5, date: "2025-12-20", text: "The limestone cliffs at Phra Nang are more dramatic in person than in any photo and there were rock climbers on the wall above the beach. The crew rinsed and stored the snorkel gear between stops. Good value for a full day on the water." },
+                { author: "Marco Steensen", country: "Denmark", rating: 5, date: "2026-05-13", text: "Chicken Island actually does look like a chicken from the right angle, which the guide made sure we saw. Water and fruit were topped up all day. Bring reef shoes because a couple of the entries are over sharp rock." },
+                { author: "Isabel Quintero", country: "Colombia", rating: 5, date: "2026-06-30", text: "We had about an hour at each island which was enough to swim, snorkel and dry off. National park fees are collected separately on the day. The boat had a canopy which mattered a lot by midday." },
+                { author: "Ryan Fitzgerald", country: "Australia", rating: 4, date: "2026-01-27", text: "Great itinerary and a friendly crew, but the lunch buffet was fairly basic rice and fried chicken. If you are fussy about food bring a snack. The islands and the snorkelling are the reason to book and they delivered." },
+                { author: "Petra Novakova", country: "Czech Republic", rating: 5, date: "2026-07-21", text: "First time snorkelling and one of the crew stayed near me the whole time at the Tup Island stop. Saw a small blacktip reef shark from the boat which was the highlight of the trip for my son. Well organised from hotel pickup onwards." },
+            ],
+        };
+    }
+
+    if (slug === "hong-island-full-day-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Struan MacGregor", country: "United Kingdom", rating: 5, date: "2025-10-09", text: "We did Phi Phi earlier in the week and this was better, mostly because you are not spending four hours getting there and back. The hidden lagoon is reached through a narrow gap in the rock and the water inside is a flat, milky green. Climbing the 360-degree viewpoint takes about twenty minutes of steps and metal ladders." },
+                { author: "Wanida Chaiprasit", country: "Thailand", rating: 5, date: "2026-03-24", text: "The viewpoint is the reason to book this over the standard island day. From the top you can see the lagoon on one side and the sandbars on the other, and there is a proper platform to stand on. Take a small towel because you will be dripping by the top." },
+                { author: "Gabriel Ferreira", country: "Brazil", rating: 5, date: "2026-01-18", text: "Seven hours split nicely between swimming, the lagoon and the climb. The beaches on the far side of Hong were almost empty at midday. Guide explained how the lagoon fills and drains with the tide, which we could see happening." },
+                { author: "Hanna Virtanen", country: "Finland", rating: 5, date: "2026-05-22", text: "Water in the lagoon was warm and calm, easy for my mother who is not a strong swimmer. There is a boardwalk section and then real steps for the viewpoint so decent shoes help. Fruit and water were provided throughout." },
+                { author: "Tunde Adeyemi", country: "Nigeria", rating: 4, date: "2026-04-06", text: "The lagoon and the viewpoint were both excellent. The climb is genuinely steep and hot, so anyone with knee trouble should know that before booking. Everything else about the day was well managed." },
+                { author: "Louise Vermeulen", country: "Belgium", rating: 5, date: "2025-11-13", text: "We arrived at the lagoon early enough that there were only two other boats, and by the time we left there were ten. Ask for the earliest departure if you can. The green colour really is that saturated in the morning light." },
+                { author: "Alessandro Barone", country: "Italy", rating: 5, date: "2026-07-08", text: "Much less boat time than the Phi Phi trips and you still get the postcard scenery. Snorkelling was fine rather than spectacular, but the lagoon and the viewpoint carry the day. Good sized group of about fourteen." },
+            ],
+        };
+    }
+
+    if (slug === "james-bond-island-guided-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 8, guideRating: 4.7, valueRating: 4.4,
+            reviews: [
+                { author: "Victoria Ashworth", country: "United Kingdom", rating: 5, date: "2025-09-29", text: "Phang Nga Bay is genuinely otherworldly, hundreds of limestone karsts rising straight out of flat green water. The Ko Tapu stack from the Bond film is smaller than expected but the bay around it is the real attraction. Our longtail captain took us slowly through a couple of caves where we had to duck." },
+                { author: "Bastian Reuter", country: "Germany", rating: 5, date: "2026-02-15", text: "Canoeing through the sea caves at Hong Krabi was the best part, the guide paddled and we just looked up at the stalactites. The stilt village at Koh Panyee was interesting even if the main lane is all souvenir stalls. Lunch there was a decent seafood set." },
+                { author: "Naledi Dlamini", country: "South Africa", rating: 4, date: "2026-04-29", text: "Beautiful day but be honest with yourself about the travel, it is roughly a 90-minute road transfer from Krabi each way before you even get on the boat. James Bond Island itself was very crowded around midday. The cave paddling and the bay scenery justified it." },
+                { author: "Hiroshi Watanabe", country: "Japan", rating: 5, date: "2025-12-27", text: "Our guide told us about the Muslim fishing community at Koh Panyee and how the floating football pitch came about, which made the village stop much more meaningful. Longtail is loud but the open sides mean uninterrupted views. Bring ear plugs if noise bothers you." },
+                { author: "Erika Sandberg", country: "Sweden", rating: 5, date: "2026-06-14", text: "Eight hours and the itinerary kept moving between caves, the island and the village. Water and fruit were provided and the crew helped everyone in and out of the canoes. Worth the higher price compared with the standard Krabi island trips." },
+                { author: "Felipe Cardoso", country: "Portugal", rating: 4, date: "2026-01-05", text: "The scenery in Phang Nga Bay is unmatched, but the Bond island stop is short and packed with people taking the same photo. If you can, do the caves first as we did. Guide was knowledgeable and patient with questions." },
+                { author: "Meera Balasubramanian", country: "India", rating: 5, date: "2026-05-09", text: "We stopped at a small cave with prehistoric rock paintings that I had not seen mentioned anywhere and it was the surprise of the day. Koh Panyee lunch was included and generous. The whole thing ran to time." },
+                { author: "Owen Blackwood", country: "New Zealand", rating: 5, date: "2026-07-26", text: "Traditional longtail rather than a speedboat makes a real difference here, you go slowly enough to actually take in the karsts. Sea was flat calm on our day. Take strong sun protection because the boat has only a partial canopy." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-sunset-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.9, valueRating: 4.6,
+            reviews: [
+                { author: "Rosanna Pellegrini", country: "Italy", rating: 5, date: "2025-10-19", text: "This is the slow version of a Krabi boat day and it is much better for it. Kayaks and paddleboards were on the back deck and you could take one out at any stop for as long as you liked. Dinner was served as the sun went down and then we swam with the plankton in the dark." },
+                { author: "Mark Delacroix", country: "Canada", rating: 5, date: "2026-03-11", text: "The plankton were faint on our night, more like sparks than a glow, and the crew were upfront that it depends on the moon. Even so, waving your arm underwater and seeing it light up is unforgettable. The boat was roomy with proper seating and a shaded upper deck." },
+                { author: "Chidinma Eze", country: "Nigeria", rating: 5, date: "2026-01-25", text: "Small group of around sixteen and the crew learned everyone's name. Snorkelling in the afternoon, then paddleboarding, then dinner at sunset, it was very well sequenced. Vegetarian dinner was arranged with no fuss when I asked at booking." },
+                { author: "Jonas Wieland", country: "Germany", rating: 5, date: "2026-05-16", text: "Eight hours but the last three are the good ones, the light on the limestone at sunset is extraordinary. Dinner was a proper Thai spread rather than the usual buffet rice. Warm freshwater shower on board before the trip home." },
+                { author: "Saskia van Dijk", country: "Netherlands", rating: 4, date: "2026-04-02", text: "Really enjoyable and the crew were the best we had in Thailand. It was a bit choppy on the return leg in the dark which unsettled a couple of people. If you are prone to seasickness take something beforehand." },
+                { author: "Tevita Fifita", country: "Fiji", rating: 5, date: "2025-11-27", text: "No queue for the paddleboards because they had enough for everyone. Water was warm well after dark for the plankton swim. Pickup from Ao Nang was easy and they dropped us right back at the hotel." },
+                { author: "Cecilia Andrade", country: "Chile", rating: 5, date: "2026-06-18", text: "The plankton were strong on our trip, a proper blue-green shimmer with every kick. Crew had lights on the water the whole time so it felt safe. Best evening of our two weeks in Thailand." },
+                { author: "Alistair Crane", country: "United Kingdom", rating: 5, date: "2026-07-30", text: "Booked this instead of a second big island day and it was the right call. Fewer stops, more time in the water and dinner on board at golden hour. Snorkel gear, kayaks and towels all included." },
+            ],
+        };
+    }
+
+    if (slug === "poda-island-sunrise-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.8, valueRating: 4.4,
+            reviews: [
+                { author: "Nora Lindgren", country: "Sweden", rating: 5, date: "2025-10-31", text: "Pickup was around 5am which hurts, but eating breakfast on an empty Poda Island beach with the sun coming up made the alarm worth it. We reached Maya Bay before the Phuket boats and had maybe twenty minutes there with barely anyone else. Pileh Lagoon afterwards was the same, glassy and quiet." },
+                { author: "Diego Salvatierra", country: "Spain", rating: 5, date: "2026-02-22", text: "Eleven hours is a long day and you feel it, but the whole point is beating the crowds and it worked. Maya Bay has a strict no-swimming rule now which the guide explained clearly beforehand. Monkey Beach and the Viking Cave were on the way back." },
+                { author: "Fatima Bennani", country: "Morocco", rating: 5, date: "2026-04-21", text: "Breakfast on Poda was simple, pastries, fruit and coffee, but the setting made it. The speedboat crossing to Phi Phi took about an hour and was smooth in the early morning. By the time we were leaving Maya Bay it was heaving." },
+                { author: "Samuel Okonjo", country: "Nigeria", rating: 4, date: "2026-01-11", text: "Excellent trip and worth doing the sunrise version rather than the standard one. The price is high compared with other Krabi day trips and the national park fees are on top of it. Snorkelling at Bamboo Island was superb though." },
+                { author: "Julia Kaminska", country: "Poland", rating: 5, date: "2026-06-05", text: "Sea was calm going out and rougher coming back in the afternoon, which is normal. The crew handed out cold towels and water constantly. We saw a big school of blacktip reef sharks in the shallows at one stop." },
+                { author: "Trevor Nkosi", country: "Zimbabwe", rating: 5, date: "2025-12-02", text: "Getting to Pileh Lagoon before the fleet is genuinely a different experience, the water is a deep turquoise and completely still. Lunch was on Phi Phi Don and there was time to walk around the town. Long day, well organised." },
+                { author: "Kirsten Halvorsen", country: "Norway", rating: 4, date: "2026-05-25", text: "Fantastic scenery and the early start pays off, but eleven hours in the sun on a speedboat is tiring with young children. Ours coped but only just. Take a hat, a rash vest and more water than you think." },
+            ],
+        };
+    }
+
+    if (slug === "hot-spring-waterfall-guided-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.8, valueRating: 4.5,
+            reviews: [
+                { author: "Ellie Marsden", country: "United Kingdom", rating: 5, date: "2025-09-08", text: "The Emerald Pool really is that translucent jade colour, fed by a mineral spring so the water is a comfortable warm rather than cold. The hot spring waterfall afterwards is a series of smooth rock basins around 35 to 40 degrees and you sit in them like natural bathtubs. Doing the pool first and the hot spring second is the right order." },
+                { author: "Rafael Domingues", country: "Brazil", rating: 5, date: "2026-03-04", text: "The ATV section was an hour through rubber plantation and rainforest tracks and we came back covered in mud, which was exactly the point. Full briefing and a helmet before you set off, and the guide rode at the front setting the pace. Bring clothes you do not care about." },
+                { author: "Ji-woo Park", country: "South Korea", rating: 5, date: "2026-01-16", text: "A good break from boats. Emerald Pool has a short forest boardwalk in from the car park with the Blue Pool nearby, though you cannot swim in that one. The hot spring is small so go early or you queue for a basin." },
+                { author: "Antoine Lefevre", country: "France", rating: 4, date: "2026-05-04", text: "Three good stops, but the drive between them is long and the total road time is close to two and a half hours. The ATV was great fun and the emerald pool was beautiful. Just know you spend a fair chunk of the day in the minivan." },
+                { author: "Nkechi Obi", country: "Nigeria", rating: 5, date: "2026-06-24", text: "I expected the hot spring to be lukewarm and it is properly warm, almost too warm after a few minutes. The contrast with the cool Emerald Pool earlier was the best part of the day. Changing rooms at both sites but bring your own towel." },
+                { author: "Stefan Kovacevic", country: "Croatia", rating: 5, date: "2025-11-04", text: "Our guide was excellent on the plants along the boardwalk and pointed out a hornbill in the canopy. ATV was single rider with an option to go double for kids. Lunch was included and served at a local place near the hot spring." },
+                { author: "Bianca Toledo", country: "Mexico", rating: 5, date: "2026-04-11", text: "The Emerald Pool has a rope you hold at the edge and the bottom is white sand, which is why it glows like that. Everything ran to schedule and the driver was careful. Seven hours felt full but not rushed." },
+                { author: "Duncan Wairimu", country: "Kenya", rating: 4, date: "2026-07-17", text: "Great combination and good value for three activities. The Emerald Pool was busy by the time we arrived at around eleven, so an earlier slot would help. The ATV and hot spring were both quiet." },
+            ],
+        };
+    }
+
+    if (slug === "phra-nang-cave-beach-afternoon-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 6, guideRating: 4.7, valueRating: 4.8,
+            reviews: [
+                { author: "Georgia Whitlam", country: "Australia", rating: 5, date: "2025-10-22", text: "Going out in the afternoon is the trick nobody tells you. We had Tup Island almost to ourselves by four o'clock while the morning boats were long gone. The light on the limestone in the last hour was far better for photos than harsh midday sun." },
+                { author: "Mathieu Garnier", country: "France", rating: 5, date: "2026-02-08", text: "Six hours covering Poda, Tup, Chicken and Phra Nang with a buffet lunch on the boat. Snorkelling was calm and the water was warm from a full day of sun. Far fewer people at every single stop." },
+                { author: "Amara Nwosu", country: "Nigeria", rating: 5, date: "2026-04-27", text: "Buffet lunch was better than I expected, fried rice, a curry, spring rolls and fresh watermelon. Phra Nang cave shrine was quiet enough to actually look at properly. Good price for what you get." },
+                { author: "Lars Bruun", country: "Denmark", rating: 4, date: "2026-01-20", text: "Genuinely quieter than the morning trips and I would recommend it for that alone. The one catch is you are back after dark in low season, so plan dinner late. Snorkelling visibility was slightly cloudier than in the morning." },
+                { author: "Sirinya Thepwong", country: "Thailand", rating: 5, date: "2026-06-11", text: "The sandbar between Tup and Chicken Island was exposed when we arrived and we walked the whole length of it with maybe six other people. Crew were attentive and helped with the snorkel gear. Hotel pickup around midday was convenient." },
+                { author: "Connor Halloran", country: "Ireland", rating: 5, date: "2026-07-23", text: "Best value boat trip we did in Krabi. Same four islands as the morning tours at a lower price and with a fraction of the crowds. Take a light layer for the ride back once the sun drops." },
+            ],
+        };
+    }
+
+    if (slug === "chicken-island-guided-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 7, guideRating: 4.6, valueRating: 4.8,
+            reviews: [
+                { author: "Holly Ainsworth", country: "United Kingdom", rating: 5, date: "2025-09-18", text: "The Separated Sea is the sandbar that appears at low tide linking Tup, Mor and Chicken Island, and walking out on it with water on both sides is genuinely strange. Our boatman timed the arrival to the tide so we got the full stretch. Twenty-one dollars for a seven-hour day is remarkable value." },
+                { author: "Ricardo Munoz", country: "Spain", rating: 5, date: "2026-03-21", text: "Classic longtail day and none the worse for it. Four beaches, two snorkel stops and lunch served on the sand at Poda. The cave shrine at Phra Nang with all the wooden offerings under the cliff was the odd highlight." },
+                { author: "Thabo Sithole", country: "South Africa", rating: 4, date: "2026-05-31", text: "Great price and a good route, but the boat was full at around thirty people so the beaches felt busy. Longtails also do not move quickly, so factor that in. The Separated Sea and the snorkelling were both excellent." },
+                { author: "Ayaka Nishimura", country: "Japan", rating: 5, date: "2026-01-02", text: "Snorkelling off Chicken Island had good coral close to the surface and the guide showed us where the clownfish were. Lunch was rice, chicken and fruit eaten sitting on the sand. Simple, cheap and a lovely day." },
+                { author: "Emmanuel Da Silva", country: "Portugal", rating: 5, date: "2026-04-16", text: "Booked last minute the night before and it was easy. Life jackets and snorkel gear included, national park fee paid separately at the pier. Chicken Island really does have that rock formation shaped like a head and neck." },
+                { author: "Ines Halvorsrud", country: "Norway", rating: 4, date: "2025-12-09", text: "Good day out for the money. Longtails are open so there is limited shade and we were quite sunburnt despite sunscreen. The sandbar walk at low tide is worth planning your date around." },
+                { author: "Kabelo Motaung", country: "Botswana", rating: 5, date: "2026-07-11", text: "Seven hours, four islands and never felt herded. The crew were relaxed about letting people stay longer where they liked it. Bring cash for drinks on the islands as the boat only carries water." },
+            ],
+        };
+    }
+
+    if (slug === "hong-island-sunset-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Imogen Trelawney", country: "United Kingdom", rating: 5, date: "2025-10-06", text: "Hong Island in the afternoon, then the sandbars at Ko Pak Bia which are the prettiest thing we saw in Krabi, pale sand curving out into turquoise. Barbecue dinner was grilled fish, chicken skewers and rice cooked on the boat as the sun set. Then a night swim with plankton to finish." },
+                { author: "Karl Wiesinger", country: "Austria", rating: 5, date: "2026-02-25", text: "Ko Pak Bia is a proper sandbar you can walk along and it was almost empty when we arrived at around four. Snorkelling around Hong was fine, plenty of fish though the coral is patchy. The barbecue was cooked fresh and there was plenty of it." },
+                { author: "Ananya Deshmukh", country: "India", rating: 5, date: "2026-04-08", text: "The plankton were visible but not dramatic on our night and the crew said clearly beforehand that it depends on the moon phase and cloud. Even faint, swimming in the dark with sparks around your hands is worth it. Warm shower on the boat afterwards." },
+                { author: "Bruno Salgado", country: "Brazil", rating: 5, date: "2026-06-16", text: "Eight hours but it builds well, snorkelling first, then beaches, then dinner, then the swim. The barbecue was served on the upper deck with the limestone silhouettes all around. Best sunset we had in Thailand." },
+                { author: "Line Jespersen", country: "Denmark", rating: 4, date: "2026-01-29", text: "Lovely trip with a good crew. The night swim is optional and a few in our group found the dark water unnerving, which is fair enough. Hong Island and Ko Pak Bia in the late afternoon light were the real draw." },
+                { author: "Chiamaka Uche", country: "Nigeria", rating: 5, date: "2025-11-19", text: "Fewer boats everywhere because you go out after the morning fleet returns. Vegetarian option at the barbecue was grilled vegetables and tofu and it was properly done. Life jackets and glow lights for the night swim." },
+                { author: "Simon Achterberg", country: "Netherlands", rating: 5, date: "2026-05-11", text: "The sandbar at Ko Pak Bia changes shape with the tide and our guide explained exactly when it appears. Water was bath warm at seven in the evening. Well worth the extra over a standard day trip." },
+                { author: "Paloma Restrepo", country: "Colombia", rating: 5, date: "2026-07-28", text: "Boat was comfortable with a shaded deck and mats for lying out. Fruit and drinks were topped up all afternoon. Getting back to Ao Nang around nine after a barbecue and a night swim was a perfect end to the trip." },
+            ],
+        };
+    }
+
+    if (slug === "ao-nang-sunset-sunset-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.5,
+            reviews: [
+                { author: "Harriet Colquhoun", country: "United Kingdom", rating: 5, date: "2025-11-01", text: "The catamaran is a completely different experience to a longtail, stable, quiet and with a huge shaded lower deck plus nets at the front. Four hours around Poda, Tup, Chicken and Phra Nang with one long swim stop. Thai snacks came round continuously and the drinks were included." },
+                { author: "Nicolas Bertrand", country: "France", rating: 5, date: "2026-03-14", text: "Watching the sun go down behind the karsts from the upper deck with a drink is the whole point and it delivered. Water was flat and the twin hulls mean almost no roll, which suited my wife who gets seasick. Crew of five for about thirty guests." },
+                { author: "Sipho Ndlovu", country: "South Africa", rating: 5, date: "2026-05-18", text: "Swim stop was in genuinely turquoise water near Chicken Island and they put a ladder and a floating line out. Snacks were spring rolls, satay and fresh fruit, more substantial than I expected for a four-hour cruise. Well run and relaxed." },
+                { author: "Emiko Hasegawa", country: "Japan", rating: 4, date: "2026-01-07", text: "Beautiful boat and a lovely sunset, though at this price I expected a full dinner rather than snacks. Four hours goes quickly. The stability of the catamaran compared with the longtails was worth a lot to me." },
+                { author: "Roberto Casale", country: "Italy", rating: 5, date: "2026-06-28", text: "Only one proper swim stop, so book this for the cruising and the sunset rather than for time in the water. The upper deck had beanbags and the music was kept low. Boarding from Nopparat Thara pier was straightforward." },
+                { author: "Astrid Falkner", country: "Germany", rating: 5, date: "2026-04-23", text: "We celebrated an anniversary on board and the crew brought out fruit with a candle without being asked twice. Sunset over Phra Nang with the cliffs in silhouette was the photo of our holiday. Toilets and a freshwater rinse on board." },
+                { author: "Jared Kupenda", country: "Kenya", rating: 5, date: "2026-07-19", text: "Fast enough to cover all four islands in four hours without feeling rushed. Cold drinks kept coming and nobody was chasing tips. If you only do one evening thing in Krabi, this or the barbecue cruise." },
+            ],
+        };
+    }
+
     return null;
 };
