@@ -8858,5 +8858,254 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
         };
     }
 
+    // --- PATTAYA: 3-ISLAND CATAMARAN CRUISE (added 2026-08-08) ---
+    if (slug === 'monkey-island-chonburi-boat-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Rachel M.", country: "United Kingdom", rating: 5, date: "2026-05-11", text: "Worth paying more than the standard speedboat trips. The catamaran is huge and stable, with plenty of shaded deck and netting at the front to lie on while we sailed. Koh Phai's water was properly clear — I could see coral and fish without even going deep. The buffet lunch on board was better than I expected for a boat kitchen." },
+                { author: "Stefan H.", country: "Germany", rating: 5, date: "2026-04-02", text: "We chose this specifically because it goes past Coral Island to the further islands, and that was the right call. Far fewer boats, much better snorkelling. The crew were relaxed and helpful, handing out gear and pushing the paddleboards out for anyone who wanted them. A full day on the water without ever feeling rushed." },
+                { author: "Amara O.", country: "Nigeria", rating: 5, date: "2026-03-19", text: "Beautiful day out. The sail itself is half the experience — they cut the engines for a stretch and it was just wind and water. Monkey Island was a fun quick stop, though the monkeys are cheeky so hold onto your things. Guide spoke good English and explained each stop before we anchored." },
+                { author: "Tomas L.", country: "Czech Republic", rating: 4, date: "2026-02-24", text: "Great boat, great crew, lovely islands. Only note is that the sea was a bit choppy on the way back and a couple of people in our group felt queasy, so take a tablet beforehand if you're sensitive. The snorkelling at Koh Rin more than made up for it." },
+                { author: "Jasmine T.", country: "Singapore", rating: 5, date: "2026-01-30", text: "Really good value once you count the lunch, gear and hotel transfers. The paddleboards were the surprise highlight for us — calm water at the anchorage made it easy even for beginners. Deck space was never crowded despite a decent number of guests." },
+                { author: "Owen B.", country: "Australia", rating: 5, date: "2025-12-08", text: "Did a lot of boat trips in Thailand and this was the most comfortable by a distance. The 73-foot catamaran doesn't slam through waves like the speedboats do, so you arrive relaxed instead of rattled. Long anchor stop at Koh Phai gave us hours in the water. Excellent." },
+                { author: "Ingrid S.", country: "Sweden", rating: 5, date: "2025-11-14", text: "Lovely, well-run day. Pickup was punctual, the boat was clean and the buffet had proper vegetarian options which I always worry about. Swimming off the back of the catamaran in that clear water is a memory I'll keep. Crew took photos for us without being asked." },
+                { author: "Vikram N.", country: "India", rating: 4, date: "2025-10-21", text: "Enjoyed it thoroughly. The islands are genuinely nicer than Koh Larn and much less crowded. Lunch was decent though the queue for the buffet took a while with everyone going at once. Snorkelling, paddleboarding and the sailing all included makes the price fair." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: ETHICAL ELEPHANT SANCTUARY FULL DAY (added 2026-08-08) ---
+    if (slug === 'living-green-elephant-sanctuary-chonburi-full-day-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 8, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Claire D.", country: "Canada", rating: 5, date: "2026-06-03", text: "Exactly what we hoped an ethical sanctuary would be. No riding, no chains, no performing — just elephants living in a big green space and us fitting around their day. Feeding them bananas while they gently took them from our hands was extraordinary. The mud bath left us filthy and grinning." },
+                { author: "Peter W.", country: "United Kingdom", rating: 5, date: "2026-05-17", text: "We researched a lot before booking because so many places call themselves ethical without being it. This one is the real thing. The carers clearly know and love each animal, and they told us the rescue story behind every elephant. Walking beside them through the jungle was humbling." },
+                { author: "Sofia G.", country: "Italy", rating: 5, date: "2026-04-09", text: "The highlight of our Thailand trip, without question. It's about 45 minutes from Pattaya and the countryside drive is pretty in itself. Home-cooked Thai lunch was simple and delicious, eaten under a shelter looking out at the herd. Bring clothes you don't mind ruining." },
+                { author: "Daniel A.", country: "United States", rating: 5, date: "2026-03-22", text: "Took our kids aged 8 and 11 and it was perfect for them. The staff were patient, made sure everyone was safe around the animals, and explained things at a level the children understood. Seeing my daughter's face when an elephant took fruit from her hand was priceless." },
+                { author: "Mei Lin C.", country: "Malaysia", rating: 5, date: "2026-02-11", text: "Beautifully run and genuinely respectful of the animals. You feel like a guest in their home rather than a customer at an attraction. Full day gives you enough time that nothing feels rushed — feeding, walking, mud bath, river rinse, lunch. Would recommend to anyone." },
+                { author: "Lars P.", country: "Denmark", rating: 4, date: "2026-01-16", text: "Wonderful experience and clearly a well-cared-for herd. Only small point is that it is genuinely hot and muddy work, so go prepared with a change of clothes, a towel and plenty of water. The sanctuary provides some but bring your own too. No regrets at all." },
+                { author: "Nadia R.", country: "United Arab Emirates", rating: 5, date: "2025-12-19", text: "Emotional day in the best way. One of the older rescued elephants had come from a logging camp and hearing her story while she stood peacefully eating beside us was moving. Transport from our Pattaya hotel was easy and comfortable both ways." },
+                { author: "Gareth E.", country: "Ireland", rating: 5, date: "2025-11-05", text: "Superb from start to finish. Small groups mean you get real time with the elephants rather than queuing for a photo. The mud bath is chaotic fun and the rinse-off in the water afterwards is just as good. Money well spent on something that actually helps the animals." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: BEACHFRONT FIRE SHOW DINNER (added 2026-08-08) ---
+    if (slug === 'dam-restaurant-pattaya-beachfront-mini-tour') {
+        return {
+            averageRating: 4.6, totalReviews: 7, guideRating: 4.6, valueRating: 4.7,
+            reviews: [
+                { author: "Holly J.", country: "United Kingdom", rating: 5, date: "2026-06-14", text: "Such a lovely way to spend an evening. Our bamboo seats were right on the sand facing the water, dinner came out as the sun was setting, and then the fire show started once it was properly dark. The performers are seriously skilled — close enough that you feel the heat." },
+                { author: "Marc V.", country: "Belgium", rating: 5, date: "2026-05-08", text: "Simple concept, brilliantly executed. Good Thai food, feet in the sand, waves a few metres away and then an hour of fire spinning under the stars. Far more atmospheric than a restaurant on the strip. Reserved seating meant we had a great view without arriving early." },
+                { author: "Priyanka S.", country: "India", rating: 4, date: "2026-04-21", text: "Really enjoyed the show, which was genuinely impressive. Food was tasty though the menu choice is limited to set options, so check what's included when booking. Beachfront setting is unbeatable for the price and it made for a memorable last night in Pattaya." },
+                { author: "Thomas K.", country: "Germany", rating: 5, date: "2026-03-07", text: "The fire performance was better than shows I've paid three times as much for elsewhere. Sitting on bamboo mats with the sea behind the performers makes all the difference. Staff were friendly and topped up drinks quickly. Great value evening." },
+                { author: "Aisha M.", country: "Kenya", rating: 4, date: "2026-02-02", text: "Fun and atmospheric. Be aware it's a beach setting so it can get breezy and a bit sandy, and the show starts later than you might expect. Once it began though it was captivating. Nice change from the noise of Walking Street." },
+                { author: "Robert N.", country: "United States", rating: 5, date: "2025-12-28", text: "Took my wife for our anniversary and it worked perfectly. Dinner on the sand, the sunset, then flames spinning against a black sea. The staff moved us to a slightly better angle when we asked. Romantic without being expensive." },
+                { author: "Yuki T.", country: "Japan", rating: 5, date: "2025-11-19", text: "A very enjoyable evening. The seating is casual and low, right on the beach, which felt authentic rather than touristy. Thai dishes were flavourful and the fire dancers were extremely good, especially the finale. Easy to find and well organised." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: CORAL ISLAND SPEEDBOAT DAY TRIP (added 2026-08-08) ---
+    if (slug === 'koh-larn-coral-island-full-day-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.7, valueRating: 5.0,
+            reviews: [
+                { author: "Ben C.", country: "United Kingdom", rating: 5, date: "2026-06-20", text: "Astonishing value. For barely more than the cost of a couple of coffees at home you get hotel pickup, the speedboat over to Koh Larn, hours on Tawaen Beach and lunch. The water is genuinely turquoise and warm. Don't overthink it, just book it." },
+                { author: "Katrin F.", country: "Austria", rating: 5, date: "2026-05-25", text: "Easy, well-organised day. The van collected us on time, Bali Hai Pier was busy but our guide moved us through quickly, and the crossing takes only about half an hour. Tawaen Beach has loungers, food and water sports if you want them. Perfect beach day." },
+                { author: "Samuel A.", country: "Ghana", rating: 4, date: "2026-04-13", text: "Great trip for the money. Tawaen is the busiest beach on the island so expect crowds and vendors, but the sand and sea are lovely. If you want quiet, walk or take a taxi to one of the smaller beaches. Lunch was fine and filling." },
+                { author: "Emma L.", country: "Australia", rating: 5, date: "2026-03-30", text: "Did this on our second day in Pattaya and it set the tone for the whole trip. Speedboat ride is fun, the island is beautiful, and having the transfers sorted means zero stress. Added a jet ski on the beach separately which was cheap enough." },
+                { author: "Jean-Paul R.", country: "France", rating: 5, date: "2026-02-18", text: "Very good day for a very small price. The guide was helpful and told us exactly when and where to meet for the return boat, then left us free the rest of the time. Water clarity near the rocks at the end of the beach was excellent for snorkelling." },
+                { author: "Nurul H.", country: "Indonesia", rating: 4, date: "2026-01-09", text: "Enjoyable and great value. The boats fill up so try to be early for the best seats, and bring cash for drinks and loungers on the beach. The included lunch was simple but decent. Would recommend for anyone on a budget." },
+                { author: "Alexei D.", country: "Russia", rating: 5, date: "2025-12-11", text: "Exactly as described and very smooth. Pickup, pier, boat, beach, lunch, back — all handled. Koh Larn's water is much clearer than Pattaya beach itself, which is why everyone makes this trip. Excellent introduction to the islands." },
+                { author: "Grace W.", country: "New Zealand", rating: 5, date: "2025-10-30", text: "Cheapest tour we booked in Thailand and one of the best. Warm sea, white sand, an easy speedboat hop and lunch thrown in. Our guide checked everyone was accounted for before each leg. No complaints whatsoever." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: KOH LARN TANDEM PARAGLIDING (added 2026-08-08) ---
+    if (slug === 'koh-larn-island-off-pattaya-mini-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 7, guideRating: 5.0, valueRating: 4.7,
+            reviews: [
+                { author: "Lucas M.", country: "Brazil", rating: 5, date: "2026-06-08", text: "Absolutely unreal. This is proper free flight, not the boat-towed parasailing you see off the beach — you launch from the hill and then it's silent, just wind, with turquoise bays and white beaches underneath you. My instructor was calm, professional and clearly experienced." },
+                { author: "Charlotte B.", country: "United Kingdom", rating: 5, date: "2026-05-02", text: "I was nervous and had never done anything like it. The instructor talked me through everything, the launch was gentler than I feared, and within seconds I was grinning like an idiot. Seeing Koh Larn's coastline from that height is something photos can't capture." },
+                { author: "Hendrik J.", country: "Netherlands", rating: 5, date: "2026-04-16", text: "Highlight of two weeks in Thailand. Safety briefing was thorough, all the gear looked well maintained, and the pilot handled everything so I could just enjoy the view. The landing was soft and easy. Not cheap but genuinely worth it." },
+                { author: "Ayşe K.", country: "Turkey", rating: 5, date: "2026-03-11", text: "Incredible experience and superb instructors. They waited for the right wind conditions rather than rushing us up, which gave me a lot of confidence. Once airborne it's peaceful in a way I didn't expect from an adrenaline activity." },
+                { author: "Michael O.", country: "United States", rating: 4, date: "2026-02-06", text: "Fantastic flight and a very professional operation. Worth knowing that timings depend entirely on wind, so build flexibility into your day and don't book anything tight afterwards. The wait was worth it for the views over the bays." },
+                { author: "Ines C.", country: "Portugal", rating: 5, date: "2025-12-22", text: "Best thing I did in Pattaya. Flying over the island with the sea below and green ridges beside you is unforgettable. The team were friendly, took great photos and videos, and made a first-timer feel completely safe." },
+                { author: "Ravi P.", country: "India", rating: 5, date: "2025-11-27", text: "Superb from start to finish. No experience needed at all — the instructor does the work and you just take it in. The launch from the high ground gives you a long flight rather than a quick drop. Money very well spent." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: PRIVATE CITY / SHORE EXCURSION TOUR (added 2026-08-08) ---
+    if (slug === 'pattaya-city-private-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Susan H.", country: "United States", rating: 5, date: "2026-06-25", text: "We were on a cruise stopping at Laem Chabang and this was the perfect solution. The driver met us right at the port, we chose our own stops — Big Buddha, Sanctuary of Truth, a viewpoint — and were back well before sailing. No group to wait for, no fixed script." },
+                { author: "Andreas W.", country: "Germany", rating: 5, date: "2026-05-19", text: "Excellent value for a private vehicle and driver for four hours. We changed our minds twice about where to go and it was never a problem. Air conditioning was a blessing in the heat and the car was spotlessly clean." },
+                { author: "Fatima Z.", country: "Morocco", rating: 5, date: "2026-04-27", text: "Ideal for a family with grandparents in tow. Being able to set our own pace, take breaks and skip anything too strenuous made all the difference. The driver was patient, courteous and knew exactly where to park at each stop." },
+                { author: "Chris T.", country: "United Kingdom", rating: 4, date: "2026-03-15", text: "Very good service and a comfortable minibus. Note the driver is a driver rather than a licensed guide, so you get transport and local know-how but not detailed commentary at each site. For us that was fine — we wanted the freedom." },
+                { author: "Lin Wei", country: "China", rating: 5, date: "2026-02-21", text: "Efficient and flexible. We covered more in four hours than a group tour would in a full day because there was no waiting around. Bottled water in the car was a nice touch. Booking and pickup were both straightforward." },
+                { author: "Diego S.", country: "Spain", rating: 5, date: "2026-01-24", text: "Perfect for a first visit to Pattaya. We asked the driver to suggest a route and he put together a good loop of temples, viewpoints and a market. Very relaxed day and no pressure to shop anywhere, which we appreciated." },
+                { author: "Helen M.", country: "Australia", rating: 5, date: "2025-12-05", text: "Booked this as a shore excursion and it saved us a fortune compared to the cruise line's own tour, with far more freedom. Punctual pickup at the port and back with time to spare. Would use them again without hesitation." },
+                { author: "Karim B.", country: "Egypt", rating: 4, date: "2025-11-08", text: "Good, comfortable and flexible. Entry tickets to the sites are not included so budget separately for those. The driver was helpful in pointing out where to buy them and waited patiently while we visited." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: BOAT DIVING DAY TRIP (added 2026-08-08) ---
+    if (slug === 'pattaya-dive-sites-full-day-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Erik N.", country: "Norway", rating: 5, date: "2026-06-11", text: "Really well-run dive day. We went to Samae Sarn where visibility was easily 12-15 metres, far better than I expected for this part of the Gulf. Three dives, good gear, and a divemaster who found a seahorse and two moray eels for us. Boat was comfortable with shade." },
+                { author: "Julia R.", country: "Germany", rating: 5, date: "2026-05-06", text: "Small group, relaxed pace, proper surface intervals with coffee and pastries. The guide checked everyone's certification and experience properly before assigning buddies, which I always take as a good sign. Coral was healthier than I'd been led to expect." },
+                { author: "Sean D.", country: "Ireland", rating: 4, date: "2026-04-18", text: "Good day's diving and a friendly crew. Visibility on our day was moderate rather than spectacular — that's the Gulf and nobody's fault — but the reef life was plentiful. Worth choosing the Samae Sarn option if it's offered." },
+                { author: "Marta K.", country: "Poland", rating: 5, date: "2026-03-25", text: "As a recently certified diver I felt looked after the whole time. The divemaster stayed close, kept the group tight and adjusted the second dive to a shallower site so I could extend my bottom time. Breakfast and drinks on board were a nice bonus." },
+                { author: "Anthony P.", country: "United States", rating: 5, date: "2026-02-14", text: "Solid operation with well-maintained tanks and weights. Hotel pickup was on time and the ride to the pier was quick. Two dives plus lunch and drinks made for an easy, enjoyable day on the water. Recommended for certified divers." },
+                { author: "Chanya S.", country: "Thailand", rating: 5, date: "2025-12-30", text: "Dived here several times and this trip is consistently good. The crew care about the reef, brief you on not touching anything, and pick sites based on conditions rather than convenience. Great value for three dives with everything included." },
+                { author: "Felix B.", country: "Switzerland", rating: 5, date: "2025-11-21", text: "Excellent guiding and a genuinely nice boat. We saw pufferfish, batfish and a huge school of barracuda on the second dive. Everything ran on schedule and the whole group was back at the hotel by late afternoon." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: NONG NOOCH GARDEN ENTRY (added 2026-08-08) ---
+    if (slug === 'nong-nooch-tropical-garden-pattaya-cultural-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.6, valueRating: 4.9,
+            reviews: [
+                { author: "Margaret S.", country: "United Kingdom", rating: 5, date: "2026-06-17", text: "Far bigger and more impressive than we expected. The French garden and the topiary sections are beautifully kept, and the cactus house was extraordinary. We spent nearly five hours and still didn't see everything. Excellent value for the ticket price." },
+                { author: "Ravi K.", country: "India", rating: 5, date: "2026-05-13", text: "Took the kids and they loved Dinosaur Valley — hundreds of life-size models along a walking trail. The cultural show with the Thai dancing was colourful and well performed. Buying the ticket in advance meant walking straight past the counter queue." },
+                { author: "Anna P.", country: "Ukraine", rating: 5, date: "2026-04-08", text: "Gorgeous gardens and very well maintained. The orchid nursery alone was worth the visit for me. It's a big site so wear comfortable shoes, and consider the buggy tour if walking is difficult. Great day out for very little money." },
+                { author: "Trevor A.", country: "South Africa", rating: 4, date: "2026-03-02", text: "Beautiful place, genuinely one of the best botanical gardens I've visited. The only downside is that transport isn't included, so factor in a taxi or Grab from Pattaya — it's about half an hour each way. The ticket itself is a bargain." },
+                { author: "Yumi K.", country: "Japan", rating: 5, date: "2026-02-09", text: "Very peaceful and beautifully landscaped. The topiary elephants and the Stonehenge replica garden made for great photos. Cultural show times are posted at the entrance so plan your walk around them. Highly recommended for families and couples alike." },
+                { author: "Paolo M.", country: "Italy", rating: 4, date: "2026-01-12", text: "Impressive gardens and good value. It gets very hot in the middle of the day with limited shade in some zones, so go early or late and carry water. The show was enjoyable though quite touristy. Still well worth the entry price." },
+                { author: "Linda J.", country: "United States", rating: 5, date: "2025-12-16", text: "One of our favourite things in Pattaya. Skipping the ticket line was easy with the voucher and we were inside within minutes. The variety is remarkable — formal gardens, tropical planting, dinosaurs and a cultural performance all in one place." },
+                { author: "Hassan A.", country: "Jordan", rating: 5, date: "2025-11-02", text: "Excellent value for a full day. The gardens are enormous and immaculately maintained, and the cultural show gave the kids something different. Plenty of food options inside. Would happily go again on a future trip." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: SANCTUARY OF TRUTH TICKET (added 2026-08-08) ---
+    if (slug === 'sanctuary-of-truth-naklua-pattaya-spiritual-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.7, valueRating: 4.8,
+            reviews: [
+                { author: "David L.", country: "United Kingdom", rating: 5, date: "2026-06-22", text: "Genuinely one of the most remarkable buildings I've ever stood inside. Every surface is carved wood, floor to ceiling, and craftsmen are still working on it as you walk around. The scale doesn't come across in photos — you need to be there." },
+                { author: "Birgit H.", country: "Germany", rating: 5, date: "2026-05-28", text: "Extraordinary place and well worth the ticket. They give you a hard hat because construction is ongoing, which somehow makes it more special — you're seeing a living building rather than a finished monument. The seafront setting is beautiful too." },
+                { author: "Nicholas T.", country: "Greece", rating: 5, date: "2026-04-14", text: "Stunning craftsmanship. Not a single metal nail in the whole structure, all wooden joinery, and the carvings mix Thai, Khmer, Chinese and Indian mythology. The short guided walk-through explained the symbolism well. Allow at least ninety minutes." },
+                { author: "Amelia F.", country: "Australia", rating: 5, date: "2026-03-18", text: "Loved it. Skipping the ticket queue was easy and we were inside quickly. The detail is overwhelming in the best way — I kept finding new figures the longer I looked. Grounds by the sea are lovely for a wander afterwards." },
+                { author: "Ismail B.", country: "Malaysia", rating: 4, date: "2026-02-26", text: "Beautiful and unique, definitely worth seeing. Do note there's a dress code covering shoulders and knees, and sarongs are available if needed. It can get busy mid-morning with tour groups, so go early for quieter photos." },
+                { author: "Camille D.", country: "France", rating: 5, date: "2026-01-20", text: "A masterpiece. The sheer ambition of building something like this entirely from teak, by hand, over decades, is hard to comprehend. Watching the carvers at work was as interesting as the building itself. Very reasonable entrance fee." },
+                { author: "Robert K.", country: "Canada", rating: 5, date: "2025-12-13", text: "Highlight of our Pattaya trip and a complete contrast to the beach and nightlife. Peaceful, impressive and thought-provoking. The ticket process was seamless — showed the voucher at the entrance and walked straight in." },
+                { author: "Siriporn W.", country: "Thailand", rating: 4, date: "2025-11-16", text: "A special place that locals are proud of. Beautiful carvings and a calm atmosphere by the sea. It is quite hot walking around midday and there's limited shade on the approach, so bring a hat and water." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: OFF-ROAD ATV RIDE (added 2026-08-08) ---
+    if (slug === 'lakeside-atv-trails-pattaya-countryside-mini-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Jake R.", country: "United Kingdom", rating: 5, date: "2026-06-05", text: "Brilliant fun and proper off-road, not a tame little loop. We took the one-hour option and got mud, water splashes, lake views and some decent climbs. The guide checked we were comfortable before opening up the pace. Great value for the money." },
+                { author: "Nathalie B.", country: "France", rating: 5, date: "2026-05-21", text: "First time on a quad bike and I felt safe throughout. Good briefing, practice area before setting off, and a guide who kept an eye on the slower riders. The countryside just outside Pattaya is surprisingly green and pretty." },
+                { author: "Mark H.", country: "United States", rating: 4, date: "2026-04-11", text: "Enjoyed it a lot. Machines were a bit worn but ran fine, and the trails were genuinely fun. Take the two-hour option if you have any riding experience — the 30-minute taster would have left me wanting more." },
+                { author: "Ekaterina V.", country: "Russia", rating: 5, date: "2026-03-27", text: "Great adrenaline hit and very well organised. Helmets and gear provided, clear instructions, and the guide adjusted the route when he saw we were confident. You will get filthy so wear old clothes and bring a change." },
+                { author: "Ahmed S.", country: "Saudi Arabia", rating: 5, date: "2026-02-17", text: "Excellent activity for a group of friends. We booked the two-hour route and it was worth every baht — lakes, dirt tracks and open scrubland with plenty of throttle time. Staff were friendly and took photos along the way." },
+                { author: "Emily C.", country: "Canada", rating: 4, date: "2026-01-07", text: "Really good fun. Be aware it's dusty in the dry season and muddy in the wet — either way you'll need a shower afterwards. The choice of route lengths is a nice touch since our group had mixed confidence levels." },
+                { author: "Stefano L.", country: "Italy", rating: 5, date: "2025-12-02", text: "One of the best value activities we did in Pattaya. An hour on your own quad through the countryside with a guide leading the way. Safety was taken seriously without spoiling the fun. Highly recommended." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: ALCAZAR CABARET (added 2026-08-08) ---
+    if (slug === 'alcazar-theatre-pattaya-second-road-evening-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 8, guideRating: 4.7, valueRating: 4.8,
+            reviews: [
+                { author: "Janet M.", country: "United Kingdom", rating: 5, date: "2026-06-28", text: "What a spectacle. The costumes are unbelievable, the sets change constantly and the 75 minutes flew by. Our reserved seats had a clear view of the whole stage. A proper theatrical production, not a small cabaret bar act." },
+                { author: "Wolfgang S.", country: "Germany", rating: 5, date: "2026-05-30", text: "Very professionally staged with excellent lighting and sound. The show moves through different countries and musical styles so there's always something new. Performers were superb. Buying the ticket ahead meant no queuing at the box office." },
+                { author: "Alicia F.", country: "Philippines", rating: 5, date: "2026-04-24", text: "Loved every minute. The production values are far higher than I expected — huge cast, elaborate sets, and costumes that must cost a fortune. Family friendly too; we took our teenagers and it was tasteful throughout." },
+                { author: "Paul D.", country: "Ireland", rating: 4, date: "2026-03-13", text: "Enjoyable evening and good value. The show is glossy and well performed. Only heads-up is the photo opportunity with performers outside afterwards expects a tip, which caught some people off guard. Show itself was excellent." },
+                { author: "Sunisa P.", country: "Thailand", rating: 5, date: "2026-02-04", text: "A Pattaya institution for good reason. Alcazar has been running for decades and it shows in how polished the production is. The traditional Thai segment was my favourite. Theatre is comfortable and air conditioned." },
+                { author: "Miguel A.", country: "Mexico", rating: 5, date: "2026-01-18", text: "Great fun and beautifully staged. Arrive twenty minutes early to find your seat comfortably. The variety of numbers keeps everyone entertained and the finale is genuinely dazzling. Well worth the ticket price." },
+                { author: "Karen O.", country: "New Zealand", rating: 4, date: "2025-12-09", text: "Colourful, energetic and worth seeing once. Seats were as booked and the view was fine. It is very much a tourist show with plenty of audience from tour groups, but the talent on stage is undeniable." },
+                { author: "Dmitri K.", country: "Kazakhstan", rating: 5, date: "2025-11-23", text: "Impressive from start to finish. Costume changes every few minutes, big dance numbers and a very talented cast. Easy to find on Second Road and the ticket voucher was scanned without any fuss." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: TIFFANY'S SHOW WITH DINNER (added 2026-08-08) ---
+    if (slug === 'tiffanys-show-theatre-north-pattaya-entry-ticket') {
+        return {
+            averageRating: 4.8, totalReviews: 8, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Elaine W.", country: "United Kingdom", rating: 5, date: "2026-06-30", text: "Wonderful evening from start to finish. Dinner first, then straight into the theatre for the show. Tiffany's has been running since the seventies and the production quality shows — big sets, live-feel staging and a cast that clearly loves performing." },
+                { author: "Hans B.", country: "Netherlands", rating: 5, date: "2026-05-24", text: "We upgraded to VIP seats and it was worth the extra. Central, close to the stage, and you really see the detail in the costumes. Dinner beforehand was better than typical show catering. Very slick operation overall." },
+                { author: "Rosa G.", country: "Spain", rating: 5, date: "2026-04-29", text: "Fabulous show. The variety is impressive — Chinese, Korean, Thai and Broadway-style numbers one after another, each with a full costume and set change. Having dinner included made the whole evening simple to organise." },
+                { author: "James F.", country: "Australia", rating: 4, date: "2026-03-21", text: "Great production and a fun night out. Dinner was decent though not gourmet, so treat it as a convenience rather than the highlight. The show itself is genuinely world class and the theatre is comfortable." },
+                { author: "Nawal H.", country: "Lebanon", rating: 5, date: "2026-02-13", text: "Beautiful, glamorous and very well performed. The costumes are works of art. We were seated promptly with the voucher and the staff were welcoming. A classic Pattaya experience that lives up to its reputation." },
+                { author: "Peter R.", country: "Germany", rating: 5, date: "2026-01-26", text: "Second time seeing Tiffany's and it's still excellent. The theatre is purpose built so sightlines are good from most seats, though VIP is noticeably better. Package with dinner saves messing about finding a restaurant first." },
+                { author: "Grace L.", country: "Singapore", rating: 5, date: "2025-12-20", text: "Lovely evening out. The performers are extraordinarily talented and the show is family friendly. Dinner was pleasant and unhurried, then a short walk to the theatre. Everything ran exactly to schedule." },
+                { author: "Craig S.", country: "United States", rating: 4, date: "2025-11-11", text: "Very entertaining and well staged. Worth booking in advance as popular showtimes sell out. The dinner-plus-show package is convenient, though if you're a foodie you might prefer to eat elsewhere and just buy the show ticket." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: SUNSET TRIO EVENING TOUR (added 2026-08-08) ---
+    if (slug === 'pattaya-marina-night-market-sunset-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 7, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Sarah B.", country: "United Kingdom", rating: 5, date: "2026-06-16", text: "Lovely way to see a different side of Pattaya. The Big Buddha at golden hour was beautiful and our guide explained the temple customs so we didn't feel awkward. Then the viewpoint for sunset over the bay, then street food at the night market. Perfectly paced." },
+                { author: "Matthias K.", country: "Austria", rating: 5, date: "2026-05-15", text: "Excellent guide who clearly loves the city. He timed everything so we hit the viewpoint just as the sun dropped, and at the market he recommended dishes we'd never have picked ourselves. Small group and a relaxed atmosphere." },
+                { author: "Anjali M.", country: "India", rating: 5, date: "2026-04-05", text: "Really enjoyed this. Wat Phra Yai is impressive and peaceful, and the guide's explanations gave it context rather than just being a photo stop. The night market was buzzing and full of things to try. Good introduction to evening Pattaya." },
+                { author: "Tom H.", country: "United States", rating: 4, date: "2026-03-09", text: "Good tour with a knowledgeable guide. Note that food at the market is not included in the price, so bring cash — though everything is cheap. The sunset viewpoint was the highlight and worth the trip on its own." },
+                { author: "Léa D.", country: "France", rating: 5, date: "2026-02-23", text: "Charming evening. Three well-chosen stops that flow naturally as the light changes. Our guide was warm and patient with questions, and the transport between stops was comfortable and air conditioned. Ended near Walking Street which was convenient." },
+                { author: "Kwame A.", country: "Ghana", rating: 5, date: "2026-01-14", text: "Great value and very well organised. Seeing the golden Buddha lit by the setting sun was memorable, and the market afterwards was a feast. The guide helped us order and explained what everything was. Highly recommend." },
+                { author: "Ulrika N.", country: "Sweden", rating: 5, date: "2025-12-04", text: "A lovely, gentle tour that suited us perfectly. Not much walking, beautiful views and a genuine taste of local street food. Pickup from our hotel was punctual and the whole thing finished at a sensible hour." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: HALF-DAY ELEPHANT JUNGLE SANCTUARY (added 2026-08-08) ---
+    if (slug === 'elephant-jungle-sanctuary-pattaya-countryside-half-day-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 8, guideRating: 4.9, valueRating: 4.6,
+            reviews: [
+                { author: "Rebecca T.", country: "United Kingdom", rating: 5, date: "2026-06-27", text: "Magical few hours. No riding, no hooks, no performances — just feeding, walking and a very muddy bath alongside animals that are clearly well looked after. They give you a traditional shirt to wear which the elephants recognise. Unforgettable." },
+                { author: "Jonas M.", country: "Germany", rating: 5, date: "2026-05-31", text: "We chose the half day because we had other plans, and it was the right length — about three hours at the camp covers everything without anyone getting overtired, elephants included. The carers were knowledgeable and obviously fond of the herd." },
+                { author: "Priya D.", country: "India", rating: 5, date: "2026-04-22", text: "Beautiful experience. Hand-feeding bananas and sugarcane while the caretaker told us each elephant's rescue story was moving. The mud bath is hilarious and messy — bring a full change of clothes and a towel. Thai meal at the camp was tasty." },
+                { author: "Sophie A.", country: "Belgium", rating: 5, date: "2026-03-28", text: "Ethical, respectful and genuinely joyful. You can tell the difference immediately from the places that still offer rides. The elephants roam and interact on their own terms. Transport from Pattaya was included and comfortable." },
+                { author: "Michael Q.", country: "Ireland", rating: 5, date: "2026-02-19", text: "Brilliant morning. Small group, so plenty of time with the animals rather than queuing for a photo. The walk through the trees beside them was the part I'll remember most. Well organised and safety-conscious throughout." },
+                { author: "Ana C.", country: "Portugal", rating: 4, date: "2026-01-11", text: "Wonderful experience, though it is on the pricier side for a half day. That said, the standard of care is high and that costs money, so I'd rather pay it here than support a cheaper place with worse practices. Loved it." },
+                { author: "Hiro S.", country: "Japan", rating: 5, date: "2025-12-15", text: "Very well run and deeply enjoyable. The staff spoke good English and explained the sanctuary's approach clearly. Feeding, walking, mud bath and rinsing off in the water — all in a beautiful jungle setting. Highly recommended." },
+                { author: "Laura P.", country: "Argentina", rating: 5, date: "2025-11-09", text: "One of the best things we did in Thailand. The elephants seemed relaxed and happy, which was the most important thing for us. Getting covered in mud with them was pure fun. Meal was simple and good, and the whole thing felt genuine." },
+            ],
+        };
+    }
+
+    // --- PATTAYA: FIVE-ISLAND JET SKI SAFARI (added 2026-08-08) ---
+    if (slug === 'jomtien-beach-premium-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 7, guideRating: 5.0, valueRating: 4.6,
+            reviews: [
+                { author: "Ryan K.", country: "Australia", rating: 5, date: "2026-06-19", text: "This is a proper expedition, not the ten-minute beach rental. Four hours, your own machine, and a guided route out to five islands with swim stops in between. Passing the Sanctuary of Truth from the water was a great start. Best day of the trip." },
+                { author: "Nicolas F.", country: "France", rating: 5, date: "2026-05-27", text: "Premium is the right word — the jet skis were late models in excellent condition and the briefing was thorough. Our guide read the sea conditions well and chose a route that kept the crossings comfortable. Zero of the scam nonsense you hear about in Pattaya." },
+                { author: "Denise H.", country: "Netherlands", rating: 5, date: "2026-04-30", text: "Exhilarating and beautifully organised. Stops at Ko Sak and Ko Khrok for swimming broke up the riding perfectly. The guide took photos and videos throughout and sent them over afterwards at no extra cost. Expensive but genuinely worth it." },
+                { author: "Sameer J.", country: "United Arab Emirates", rating: 5, date: "2026-03-24", text: "Fantastic experience. I've done jet skis in several countries and this was the best-run by far — clear safety briefing, well-maintained machines, and a guide who stayed with the group the whole way. The open-sea crossings are a thrill." },
+                { author: "Kirsty M.", country: "United Kingdom", rating: 4, date: "2026-02-27", text: "Superb day on the water. It is a big spend compared to other Pattaya activities, so go in expecting that. What you get is a long guided route, proper equipment and no hidden charges at the end, which justified it for us." },
+                { author: "Andrei P.", country: "Romania", rating: 5, date: "2026-01-21", text: "Absolutely loved it. Riding your own ski between islands with clear water underneath is something else. The two-hour option would have been plenty but we took four and never got bored. Hotel pickup and fuel all included." },
+                { author: "Tara N.", country: "Canada", rating: 5, date: "2025-12-07", text: "Brilliant from booking to drop-off. Very professional outfit, transparent about what's included, and the guide was excellent with my partner who was nervous at first. By the end she was racing ahead of everyone. Highly recommend." },
+            ],
+        };
+    }
+
     return null;
 };
