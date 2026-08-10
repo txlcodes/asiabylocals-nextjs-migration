@@ -48,6 +48,14 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Phuket Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Phuket tours from $40. Phi Phi Islands speedboat tours, Phang Nga Bay cruises, Big Buddha visits, Muay Thai classes & Old Town walks. Licensed guides, free cancellation.',
   },
+  'Pattaya': {
+    title: 'Pattaya Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Pattaya tours from $11. Coral Island speedboat trips, ethical elephant sanctuaries, Sanctuary of Truth, Nong Nooch Garden, cabaret shows & jet ski safaris. Free cancellation.',
+  },
+  'Krabi': {
+    title: 'Krabi Tours & Things to Do 2026 | Local Guided Experiences',
+    description: 'Krabi tours from $20. 4-Island longtail boat trips, Phi Phi speedboat tours, Hong Islands, Emerald Pool & hot springs, mangrove kayaking & ethical elephant visits. Free cancellation.',
+  },
   'Kashmir': {
     title: 'Kashmir Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Kashmir tours with verified local guides. Dal Lake shikara rides, Gulmarg gondola trips, Mughal Gardens walks, Pahalgam treks & houseboat stays. Free cancellation.',
