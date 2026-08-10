@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
@@ -185,11 +185,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           : shortTitle.toLowerCase().includes(cityName.toLowerCase())
             ? `${shortTitle} | AsiaByLocals`
             : `${shortTitle} in ${cityName} | AsiaByLocals`;
+        // Canonicalise to the tour's real country, not whatever country segment
+        // the request used — otherwise a wrong-country URL declares itself canonical.
+        const canonicalCountry = tour.country
+          ? String(tour.country).toLowerCase().replace(/\s+/g, '-')
+          : country.toLowerCase();
         return {
           title: titleTag,
           description,
           alternates: {
-            canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
+            canonical: `https://www.asiabylocals.com/${canonicalCountry}/${city.toLowerCase()}/${slug}`,
           },
           openGraph: {
             title: titleTag,
@@ -274,6 +279,17 @@ export default async function SlugPage({ params }: Props) {
 
   if (!tour) {
     notFound();
+  }
+
+  // The route accepts any country segment, so /india/pattaya/<slug> served the
+  // same tour as /thailand/pattaya/<slug> — and self-canonicalised, giving Google
+  // two "canonical" copies of every tour. Send the wrong-country variant to the
+  // real one instead of serving a duplicate.
+  if (tour.country) {
+    const realCountry = String(tour.country).toLowerCase().replace(/\s+/g, '-');
+    if (realCountry && realCountry !== countrySlug) {
+      redirect(`/${realCountry}/${citySlug}/${slug}`);
+    }
   }
 
   // ---------- SERVER-SIDE JSON-LD for Tour Detail (guaranteed in raw HTML) ----------

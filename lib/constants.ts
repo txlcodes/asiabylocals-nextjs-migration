@@ -109,6 +109,8 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'bangkok': { country: 'thailand', city: 'bangkok' },
   'phuket': { country: 'thailand', city: 'phuket' },
   'chiang-mai': { country: 'thailand', city: 'chiang-mai' },
+  'pattaya': { country: 'thailand', city: 'pattaya' },
+  'krabi': { country: 'thailand', city: 'krabi' },
   'hanoi': { country: 'vietnam', city: 'hanoi' },
   'ho-chi-minh-city': { country: 'vietnam', city: 'ho-chi-minh-city' },
   'beijing': { country: 'china', city: 'beijing' },

@@ -107,7 +107,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       .map((t: any) => {
         const cityKey = t.city.toLowerCase().replace(/\s+/g, '-');
         const mapping = CITY_URL_MAP[cityKey];
-        const country = mapping ? mapping.country : 'india';
+        // Fall back to the tour's own country, not a hardcoded 'india' — an
+        // unmapped city used to emit /india/<city>/<slug>, which resolves 200
+        // (the route accepts any country segment) and so quietly submitted a
+        // duplicate of every tour under the wrong country. Pattaya shipped that
+        // way: all 16 of its tours were indexed as /india/pattaya/.
+        const country = mapping
+          ? mapping.country
+          : (t.country ? String(t.country).toLowerCase().replace(/\s+/g, '-') : 'india');
         const city = mapping ? mapping.city : cityKey;
         return {
           url: `${BASE_URL}/${country}/${city}/${t.slug}`,
