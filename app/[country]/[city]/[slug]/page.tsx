@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { notFound, redirect } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
@@ -288,7 +288,8 @@ export default async function SlugPage({ params }: Props) {
   if (tour.country) {
     const realCountry = String(tour.country).toLowerCase().replace(/\s+/g, '-');
     if (realCountry && realCountry !== countrySlug) {
-      redirect(`/${realCountry}/${citySlug}/${slug}`);
+      // 308, not 307 — Google must retire the wrong-country URL, not keep it indexed.
+      permanentRedirect(`/${realCountry}/${citySlug}/${slug}`);
     }
   }
 
