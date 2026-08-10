@@ -69,6 +69,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'phuket-1-day-itinerary', 'phi-phi-islands', 'phang-nga-bay',
     'james-bond-island-phuket', 'phuket-island-hopping',
     'muay-thai-training-phuket',
+    'best-time-to-visit-phuket', 'phuket-beaches-guide', 'phuket-3-day-itinerary',
+    'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
+    'phuket-diving-snorkeling-guide',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
@@ -82,6 +85,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'grand-palace-bangkok', 'wat-pho', 'wat-arun',
     '1-day-bangkok-itinerary', 'floating-market-bangkok',
     'bangkok-canal-tour', 'chatuchak-weekend-market', 'places-to-visit-in-bangkok',
+    'best-time-to-visit-bangkok', '3-day-bangkok-itinerary',
+    'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

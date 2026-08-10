@@ -1,3 +1,5 @@
+import { getThailandInfoContent } from './thailandInfoContent';
+
 export interface CityInfoData {
     title: string;
     description: string;
@@ -9,6 +11,9 @@ export interface CityInfoData {
 }
 
 export function getCityInfoContent(slug: string): CityInfoData | null {
+    const thailandPage = getThailandInfoContent(slug);
+    if (thailandPage) return thailandPage;
+
     switch (slug) {
             case "things-to-do-in-agra":
                 return {

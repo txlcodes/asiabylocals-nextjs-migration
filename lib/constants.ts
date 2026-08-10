@@ -176,7 +176,11 @@ export const PHUKET_INFO_SLUGS = [
   'big-buddha-phuket', 'wat-chalong', 'phuket-old-town',
   'phuket-1-day-itinerary', 'phi-phi-islands', 'phang-nga-bay',
   'james-bond-island-phuket', 'phuket-island-hopping',
-  'muay-thai-training-phuket'
+  'muay-thai-training-phuket',
+  // Authority pages batch 2 (2026-08)
+  'best-time-to-visit-phuket', 'phuket-beaches-guide', 'phuket-3-day-itinerary',
+  'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
+  'phuket-diving-snorkeling-guide'
 ];
 
 export const BANGKOK_INFO_SLUGS = [
@@ -184,7 +188,10 @@ export const BANGKOK_INFO_SLUGS = [
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',
   '1-day-bangkok-itinerary', 'floating-market-bangkok',
   'bangkok-canal-tour', 'chatuchak-weekend-market',
-  'places-to-visit-in-bangkok'
+  'places-to-visit-in-bangkok',
+  // Authority pages batch 2 (2026-08)
+  'best-time-to-visit-bangkok', '3-day-bangkok-itinerary',
+  'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok'
 ];
 
 export const KASHMIR_INFO_SLUGS = [

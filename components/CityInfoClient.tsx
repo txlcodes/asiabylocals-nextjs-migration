@@ -97,6 +97,18 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Khlong Toei Market Scavenger Hunt', slug: 'bangkok-scavenger-hunt-tour', description: 'Interactive market tour + tuk-tuk ride through Bangkok', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg', price: 'From $35', rating: '4.7' },
         { title: 'Bangkok Temples, Canals & Local Life Bike Tour', slug: 'bangkok-temples-canals-local-life-bike-tour', description: 'Ride through Thonburi\'s backstreets, canals & temples — max 8 riders', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773875959/tours/bangkok/biketour/cover.jpg', price: 'From $23', rating: '4.9' },
     ],
+    'phuket': [
+        { title: 'Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling', description: 'Maya Bay, Pileh Lagoon & Bamboo Island snorkelling — 8 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg', price: 'From $119', rating: '4.9' },
+        { title: 'James Bond Island Speedboat Tour with Canoeing & Lunch', slug: 'james-bond-island-speedboat-tour-phuket', description: 'Phang Nga Bay sea caves, hong lagoons & Koh Panyee stilt village', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg', price: 'From $99', rating: '4.8' },
+        { title: 'Phuket Full Day City Tour — Big Buddha, Wat Chalong & Old Town', slug: 'phuket-old-town-full-day-tour', description: 'Every island landmark in one guided day with transport included', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1774346594/tours/phuket-city-tour/otr7lkk1puhugfwroyli.jpg', price: 'From $37', rating: '4.8' },
+        { title: 'Phi Phi & Khai Islands Speedboat Tour with Lunch', slug: 'phi-phi-khai-islands-speedboat-tour-with-lunch', description: 'The value route to Maya Bay & Phi Phi with Khai Island snorkelling', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772655052/tours/phuket/tours/phuket_1772655052140_0.jpg', price: 'From $95', rating: '4.7' },
+        { title: 'Phuket Scuba Diving for Beginners — Racha Yai Island', slug: 'phuket-scuba-diving-beginners-full-day-racha-yai-island', description: 'Discover Scuba at the region\'s best beginner site — no experience needed', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773246903/tours/phuket/tours/phuket_1773246902563_0.jpg', price: 'From $150', rating: '4.9' },
+        { title: 'Hidden Forest Elephant Reserve — Morning Visit with Meal', slug: 'hidden-forest-elephant-reserve-guided-tour', description: 'A no-riding reserve: feed, walk with & observe rescued elephants', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980228/tours/phuket-hidden-forest-elephant-reserve/img_0.jpg', price: 'From $99' },
+        { title: 'Fun Cooking Class at Pum\'s Thai Restaurant & Cooking School', slug: 'phuket-pums-thai-cooking-class', description: 'Pound your own curry paste and cook a full Thai meal — 3 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1774731363/tours/phuket/tours/phuket_1774731362237_0.jpg', price: 'From $62', rating: '4.8' },
+        { title: 'Phuket: Southern Thai Flavors Food Tastings Tour', slug: 'kio-thian-keng-saphan-hin-shrine-food-tour', description: 'The Old Town dishes locals actually eat, with a local food guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1783413370/tours/phuket/tours/phuket_1783413369774_0.jpg', price: 'From $69' },
+        { title: 'Phuket Jet Ski Tour — Island Hopping from Patong', slug: 'phuket-jet-ski-tour-island-hopping-patong-beach', description: 'Guided jet ski island-hopping straight off Patong beach — 3 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1774168925/tours/phuket/jet-ski/tours/phuket/jet-ski/jet_ski_2.jpg', price: 'From $69', rating: '4.8' },
+        { title: 'Phuket: Guided Sunset Tour with Seafood Market Dinner', slug: 'sea-gypsies-fish-market-sunset-tour', description: 'Sea gypsy villages, the working fish market & a sunset seafood dinner', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1783407750/tours/phuket/tours/phuket_1783407750063_0.jpg', price: 'From $68' },
+    ],
 };
 
 const BANGKOK_SIDEBAR = [
@@ -106,10 +118,14 @@ const BANGKOK_SIDEBAR = [
     { name: 'Wat Pho', slug: 'wat-pho' },
     { name: 'Wat Arun', slug: 'wat-arun' },
     { name: '1-Day Itinerary', slug: '1-day-bangkok-itinerary' },
+    { name: '3-Day Itinerary', slug: '3-day-bangkok-itinerary' },
     { name: 'Floating Market', slug: 'floating-market-bangkok' },
     { name: 'Canal Tour', slug: 'bangkok-canal-tour' },
     { name: 'Chatuchak Market', slug: 'chatuchak-weekend-market' },
     { name: 'Places to Visit', slug: 'places-to-visit-in-bangkok' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-bangkok' },
+    { name: 'Ayutthaya Day Trip', slug: 'bangkok-ayutthaya-day-trip' },
+    { name: 'Chinatown (Yaowarat)', slug: 'chinatown-yaowarat-bangkok' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -124,6 +140,13 @@ const PHUKET_SIDEBAR = [
     { name: 'James Bond Island', slug: 'james-bond-island-phuket' },
     { name: 'Island Hopping', slug: 'phuket-island-hopping' },
     { name: 'Muay Thai Training', slug: 'muay-thai-training-phuket' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-phuket' },
+    { name: 'Beaches Guide', slug: 'phuket-beaches-guide' },
+    { name: '3-Day Itinerary', slug: 'phuket-3-day-itinerary' },
+    { name: 'Maya Bay', slug: 'maya-bay-phuket' },
+    { name: 'Elephant Sanctuaries', slug: 'phuket-elephant-sanctuary-guide' },
+    { name: 'Food Guide', slug: 'phuket-food-guide' },
+    { name: 'Diving & Snorkeling', slug: 'phuket-diving-snorkeling-guide' },
 ];
 
 function renderIcon(name: string) {
