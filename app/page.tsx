@@ -1,6 +1,12 @@
 import { Metadata } from 'next';
 import HomepageClient from '@/components/HomepageClient';
 
+// The homepage was fully static with no revalidate, so it shipped a build-time
+// prerender served under `s-maxage=31536000` and never regenerated at runtime.
+// That left production serving pre-language-switcher HTML long after the switcher
+// was deployed. An hourly revalidate keeps the route regenerating.
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: 'AsiaByLocals - Authentic Local Tours & Cultural Experiences Across Asia | Expert Local Guides',
   description: 'Discover authentic local tours and cultural experiences across Asia. Book tours with verified local guides in India, Japan, Thailand, Vietnam, Indonesia, and more. Expert-led cultural experiences, food tours, heritage walks, and immersive travel adventures.',
