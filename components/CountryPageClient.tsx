@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import { ChevronRight, MapPin, Star, Clock, Loader2, ShieldCheck, Compass, DollarSign, Smartphone } from 'lucide-react';
 import Breadcrumbs from './Breadcrumbs';
+import LanguageSwitcher from './LanguageSwitcher';
 
 interface City {
   name: string;
@@ -242,9 +243,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
             <img src="/logo.webp" alt="AsiaByLocals" className="h-[120px] sm:h-[140px] w-auto object-contain" />
           </Link>
           <div className="flex items-center gap-3">
-            <Link href="/" className="text-gray-500 hover:text-[#10B981] transition-colors">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-            </Link>
+            <LanguageSwitcher />
             <Link href="/" className="text-gray-500 hover:text-[#10B981] transition-colors">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
             </Link>

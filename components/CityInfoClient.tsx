@@ -16,7 +16,9 @@ import {
     Wallet
 } from 'lucide-react';
 import { getCityInfoContent, CityInfoData } from '@/lib/cityInfoContent';
+import { fmt } from '@/lib/i18n';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 
 interface Props {
     country: string;
@@ -226,6 +228,7 @@ function renderMarkdownText(text: string) {
 }
 
 export default function CityInfoClient({ country, city, slug }: Props) {
+    const { t } = useLanguage();
     const router = useRouter();
     const data = getCityInfoContent(slug);
 
@@ -234,7 +237,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
             <div className="min-h-screen bg-white flex items-center justify-center p-6 text-center">
                 <div>
                     <h1 className="text-2xl font-black text-[#001A33] mb-4">Content Not Identified</h1>
-                    <button onClick={() => router.back()} className="text-[#10B981] font-bold">Back to Search</button>
+                    <button onClick={() => router.back()} className="text-[#10B981] font-bold">{t.backToSearch}</button>
                 </div>
             </div>
         );
@@ -255,44 +258,64 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         <div className="min-h-screen bg-white">
             {/* JSON-LD moved to server component (app/[country]/[city]/[slug]/page.tsx) for guaranteed raw HTML rendering */}
 
-            {/* Hero Section */}
-            <div className="relative h-[40vh] md:h-[60vh] overflow-hidden">
-                <img
-                    src={data.heroImage}
-                    alt={data.title}
-                    className="w-full h-full object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#001A33] via-[#001A33]/40 to-transparent" />
+            {/* Hero Section.
+                The nav overlay sits OUTSIDE the clipping container: the hero itself needs
+                overflow-hidden for the object-cover image, but the language dropdown opens
+                downward and was being cut off by it (badly so on mobile, where the hero is
+                only 40vh). Keeping the overlay as a sibling leaves the visuals identical. */}
+            <div className="relative">
+                <div className="relative h-[40vh] md:h-[60vh] overflow-hidden">
+                    <img
+                        src={data.heroImage}
+                        alt={data.title}
+                        className="w-full h-full object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-[#001A33] via-[#001A33]/40 to-transparent" />
+
+                    <div className="absolute bottom-8 left-0 right-0 px-6 max-w-6xl mx-auto">
+                        <h1 className="text-3xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-4 drop-shadow-2xl">
+                            {data.title}
+                        </h1>
+                        <div className="flex flex-wrap items-center gap-4 text-white/90">
+                            <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-1.5 rounded-full border border-white/10">
+                                <span className="text-[13px] font-black">{t.minRead}</span>
+                            </div>
+                            <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-1.5 rounded-full border border-white/10">
+                                <span className="text-[13px] font-black">{t.verifiedIntel}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 {/* Navigation Overlays */}
-                <div className="absolute top-0 left-0 right-0 p-5 flex justify-between items-center max-w-6xl mx-auto w-full">
+                <div className="absolute top-0 left-0 right-0 z-30 p-5 flex justify-between items-center max-w-6xl mx-auto w-full">
                     <button
                         onClick={() => router.back()}
                         className="px-6 py-2.5 bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-full text-white transition-all border border-white/20 font-black text-[12px] uppercase tracking-widest"
                     >
-                        Back
+                        {t.back}
                     </button>
-                    <div className="px-4 py-1.5 bg-[#10B981] rounded-full text-white text-[11px] font-black uppercase tracking-widest shadow-xl">
-                        {city} 2026 Authority
-                    </div>
-                </div>
-
-                <div className="absolute bottom-8 left-0 right-0 px-6 max-w-6xl mx-auto">
-                    <h1 className="text-3xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-4 drop-shadow-2xl">
-                        {data.title}
-                    </h1>
-                    <div className="flex flex-wrap items-center gap-4 text-white/90">
-                        <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-1.5 rounded-full border border-white/10">
-                            <span className="text-[13px] font-black">15-20 Min Read</span>
+                    <div className="flex items-center gap-3 min-w-0">
+                        {/* hidden on the narrowest screens: the badge is decorative, and at
+                            375px it pushed the row wide enough to shove the language menu
+                            off the right edge */}
+                        <div className="hidden sm:block px-4 py-1.5 bg-[#10B981] rounded-full text-white text-[11px] font-black uppercase tracking-widest shadow-xl">
+                            {fmt(t.authorityBadge, { city })}
                         </div>
-                        <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-1.5 rounded-full border border-white/10">
-                            <span className="text-[13px] font-black">Verified Intel</span>
+                        <div className="text-white">
+                            <LanguageSwitcher />
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div className="max-w-6xl mx-auto px-6 py-12">
+            {/* dir="ltr" is deliberate. The guide body is English (it comes from the
+                content files, not the dictionary), and letting it inherit RTL from an
+                Arabic <html dir> makes the bidi algorithm reorder mixed runs — "2 hours
+                (฿130 bus)" was rendering as "hours (฿130 2 bus)". Pure-Arabic labels in
+                here still shape correctly inside an LTR container. Revisit once the guide
+                content itself is translated. */}
+            <div dir="ltr" className="max-w-6xl mx-auto px-6 py-12">
                 {/* Breadcrumbs with JSON-LD */}
                 <Breadcrumbs country={country} city={city} tourTitle={data.title} slug={slug} />
 
@@ -305,14 +328,14 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                     <ShieldCheck size={32} />
                                 </div>
                                 <div>
-                                    <p className="text-[12px] font-black text-[#10B981] uppercase tracking-[0.3em] mb-1">AEO Source Authority</p>
-                                    <p className="text-[#064E3B] font-black text-2xl">Verified Official Intel</p>
+                                    <p className="text-[12px] font-black text-[#10B981] uppercase tracking-[0.3em] mb-1">{t.sourceAuthority}</p>
+                                    <p className="text-[#064E3B] font-black text-2xl">{t.verifiedOfficialIntel}</p>
                                 </div>
                             </div>
                             <div className="bg-white/60 backdrop-blur-md px-8 py-3 rounded-full border border-[#DCFCE7] flex items-center gap-3">
                                 <div className="w-2 h-2 bg-[#10B981] rounded-full animate-pulse" />
                                 <p className="text-[#064E3B] font-black text-[12px] uppercase tracking-widest">
-                                    Last Updated: Feb 2026
+                                    {t.lastUpdated}: Feb 2026
                                 </p>
                             </div>
                         </div>
@@ -383,7 +406,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                 return (
                                     <article key={index} className="group">
                                         <header className="mb-6">
-                                            <span className="text-[#10B981] text-[12px] font-black uppercase tracking-[0.2em] mb-2 block">Part 0{index + 1}</span>
+                                            <span className="text-[#10B981] text-[12px] font-black uppercase tracking-[0.2em] mb-2 block">{t.part} 0{index + 1}</span>
                                             <div className="flex items-center gap-4">
                                                 {section.icon && (
                                                     <div className="w-10 h-10 md:w-12 md:h-12 bg-[#F0FDF4] text-[#10B981] rounded-xl flex items-center justify-center shrink-0 shadow-sm border border-[#DCFCE7]">
@@ -464,7 +487,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                                 </div>
                                                 <div className="flex-1 p-6 bg-[#F0FDF4] group-hover/card:bg-white transition-colors duration-300">
                                                     <div className="flex items-start justify-between gap-3 mb-2">
-                                                        <span className="text-[11px] font-black text-[#10B981] uppercase tracking-[0.25em]">Featured Tour</span>
+                                                        <span className="text-[11px] font-black text-[#10B981] uppercase tracking-[0.25em]">{t.featuredTour}</span>
                                                         {section.tourCard.rating && (
                                                             <div className="flex items-center gap-1 shrink-0">
                                                                 <Star size={13} fill="#F59E0B" className="text-[#F59E0B]" />
@@ -532,7 +555,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                         {CITY_RECOMMENDED_TOURS[city.toLowerCase()] && (
                             <section className="mt-24">
                                 <h2 className="text-3xl md:text-4xl font-black text-[#001A33] mb-4">
-                                    Top-Rated {city} Tours to Book
+                                    {fmt(t.topRatedTours, { city })}
                                 </h2>
                                 <p className="text-gray-500 font-medium text-lg mb-10">
                                     Handpicked experiences with licensed local guides. Instant confirmation.
@@ -584,16 +607,16 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                         {/* Bottom CTA */}
                         <section className="mt-24 p-1 bg-gradient-to-r from-[#10B981] to-[#059669] rounded-[40px]">
                             <div className="bg-[#001A33] rounded-[38px] p-8 md:p-12 text-white text-center">
-                                <h2 className="text-3xl md:text-5xl font-black mb-4">Discover the real {city}.</h2>
+                                <h2 className="text-3xl md:text-5xl font-black mb-4">{fmt(t.discoverTheReal, { city })}</h2>
                                 <p className="text-lg md:text-xl text-white/70 mb-10 max-w-2xl mx-auto font-medium">
-                                    Experience the difference of local mastery. Our licensed guides ensure you see the soul of the city.
+                                    {t.localMastery}
                                 </p>
                                 <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
                                     <Link
                                         href={`/${country.toLowerCase()}/${city.toLowerCase()}`}
                                         className="w-full sm:w-auto px-10 py-5 bg-[#10B981] text-white font-black rounded-full hover:bg-white hover:text-[#10B981] transition-all duration-300 flex items-center justify-center text-xl shadow-xl hover:-translate-y-1 hover:scale-[1.05] active:scale-[0.95]"
                                     >
-                                        Browse {slug === 'taj-mahal' ? 'Taj Mahal' : city} Tours
+                                        {fmt(t.browseTours, { city: slug === 'taj-mahal' ? 'Taj Mahal' : city })}
                                     </Link>
                                 </div>
                             </div>
@@ -605,7 +628,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                         <div className="sticky top-32 space-y-8">
                             {/* Pillar Nav */}
                             <div className="bg-white rounded-[32px] border border-gray-100 p-8 shadow-md">
-                                <h4 className="text-lg font-black text-[#001A33] mb-6">{city} Guide Hub</h4>
+                                <h4 className="text-lg font-black text-[#001A33] mb-6">{fmt(t.guideHub, { city })}</h4>
                                 <div className="space-y-2">
                                     {sidebarItems.map((item, idx) => (
                                         <Link
@@ -628,15 +651,15 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                             {/* Support Widget */}
                             <div className="bg-[#10B981] rounded-[32px] p-8 text-white shadow-xl shadow-[#10B981]/20 relative overflow-hidden group/support">
                                 <div className="relative z-10">
-                                    <h4 className="text-lg font-black mb-4">Need Help?</h4>
+                                    <h4 className="text-lg font-black mb-4">{t.needHelp}</h4>
                                     <p className="text-white/80 font-bold text-sm mb-6">
-                                        Message a certified {city} guide to plan your perfect route.
+                                        {fmt(t.messageGuide, { city })}
                                     </p>
                                     <Link
                                         href={`/${country.toLowerCase()}/${city.toLowerCase()}`}
                                         className="w-full py-4 bg-white text-[#10B981] font-black rounded-xl hover:bg-gray-50 transition-all text-[15px] shadow-lg hover:scale-[1.02] active:scale-[0.98] flex items-center justify-center"
                                     >
-                                        Browse {slug === 'taj-mahal' ? 'Taj Mahal' : city} Tours
+                                        {fmt(t.browseTours, { city: slug === 'taj-mahal' ? 'Taj Mahal' : city })}
                                     </Link>
                                 </div>
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full blur-2xl -translate-y-1/2 translate-x-1/2 group-hover/support:scale-150 transition-transform duration-700" />

@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans } from 'next/font/google'
 import Script from 'next/script'
 import Footer from '@/components/Footer'
+import LanguageBoot from '@/components/LanguageBoot'
 import './globals.css'
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -152,6 +153,7 @@ export default function RootLayout({
             gtag('config', 'AW-18035560397');
           `}
         </Script>
+        <LanguageBoot />
         <div id="app-root">
           {children}
           <Footer />
