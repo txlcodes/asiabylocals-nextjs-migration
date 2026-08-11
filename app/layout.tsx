@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans } from 'next/font/google'
 import Script from 'next/script'
 import Footer from '@/components/Footer'
+import GoogleTranslateLoader from '@/components/GoogleTranslateLoader'
 import './globals.css'
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -156,6 +157,9 @@ export default function RootLayout({
           {children}
           <Footer />
         </div>
+
+        {/* Powers the header language switcher. Its own UI is hidden in CSS. */}
+        <GoogleTranslateLoader />
       </body>
     </html>
   )

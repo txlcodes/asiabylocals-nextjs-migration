@@ -5,11 +5,12 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import {
-  MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
+  MapPin, Star, Clock, Users, Search, Filter, Heart, User, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
   HelpCircle as HelpIcon, ArrowLeft, Ticket, Info, ChevronRight, Home
 } from 'lucide-react';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
 
 interface CityPageClientProps {
   tours: any[];
@@ -2571,10 +2572,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-6 text-[13px] font-semibold text-[#001A33]">
             <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-5">
-              <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
-                <Globe size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">EN/USD</span>
-              </button>
+              <LanguageSwitcher />
               <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
                 <User size={18} className="sm:w-5 sm:h-5" />
                 <span className="hidden lg:block text-[11px]">Profile</span>

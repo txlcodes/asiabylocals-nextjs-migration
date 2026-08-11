@@ -4,7 +4,6 @@ import React, { useState, useEffect, useMemo, useRef } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import {
-  Globe,
   Search,
   User,
   Star,
@@ -16,6 +15,7 @@ import {
   X,
   Quote
 } from 'lucide-react';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { CITIES, ATTRACTIONS, getCityUrl } from '@/lib/constants';
 import { ASIAN_CITIES_DATABASE } from '@/lib/citiesDatabase';
 
@@ -471,10 +471,7 @@ export default function HomepageClient() {
 
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-6 text-[13px] font-semibold text-[#001A33]">
             <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-5">
-              <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
-                <Globe size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">EN/USD</span>
-              </button>
+              <LanguageSwitcher />
               <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
                 <User size={18} className="sm:w-5 sm:h-5" />
                 <span className="hidden lg:block text-[11px]">Profile</span>

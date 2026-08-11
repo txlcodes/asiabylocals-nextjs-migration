@@ -390,3 +390,35 @@ input[type="number"] {
         padding-right: 2.5rem !important;
     }
 }
+
+/* ---------------------------------------------------------------------------
+   Google Translate widget
+   The widget powers the header language switcher (components/LanguageSwitcher).
+   Its own chrome — the top banner iframe, the gadget dropdown, the hover
+   tooltip — is hidden so the only visible control is our globe button. The
+   banner also pushes <body> down with an inline `top`, which has to be undone
+   or every sticky header sits 40px off.
+--------------------------------------------------------------------------- */
+#google_translate_element,
+.goog-te-banner-frame,
+.goog-te-gadget,
+.goog-logo-link,
+#goog-gt-tt,
+.goog-te-balloon-frame {
+    display: none !important;
+}
+
+body > .skiptranslate {
+    display: none !important;
+}
+
+body {
+    top: 0 !important;
+    position: static !important;
+}
+
+/* Translated text otherwise gets a yellow/blue highlight box. */
+.goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+}
