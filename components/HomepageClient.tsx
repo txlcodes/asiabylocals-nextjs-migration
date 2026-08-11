@@ -16,6 +16,7 @@ import {
   X,
   Quote
 } from 'lucide-react';
+import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import { CITIES, ATTRACTIONS, getCityUrl } from '@/lib/constants';
 import { ASIAN_CITIES_DATABASE } from '@/lib/citiesDatabase';
 
@@ -285,6 +286,7 @@ const TESTIMONIALS = [
 // ── Main Homepage Component ──────────────────────────────────────────
 
 export default function HomepageClient() {
+  const { t } = useLanguage();
   const router = useRouter();
 
   // Search state
@@ -402,7 +404,7 @@ export default function HomepageClient() {
             <nav className="hidden lg:flex items-center gap-6 text-[14px] font-semibold text-[#001A33]">
               {/* Places to see dropdown */}
               <div className="relative flex items-center gap-1 cursor-pointer hover:text-[#10B981] group/places">
-                Places to see <ChevronRight size={14} className="rotate-90 group-hover/places:rotate-[270deg] transition-transform duration-150" />
+                {t.placesToSee} <ChevronRight size={14} className="rotate-90 group-hover/places:rotate-[270deg] transition-transform duration-150" />
                 <div className="absolute top-full left-0 pt-2 z-50 opacity-0 -translate-y-2 pointer-events-none group-hover/places:opacity-100 group-hover/places:translate-y-0 group-hover/places:pointer-events-auto transition-[opacity,transform] duration-100 ease-out">
                   <div className="bg-white rounded-xl shadow-2xl border border-gray-100 p-4 xl:p-5 w-[90vw] max-w-[800px] max-h-[70vh] overflow-y-auto no-scrollbar">
                     <div className="grid grid-cols-3 gap-1">
@@ -434,14 +436,14 @@ export default function HomepageClient() {
 
               {/* Trip inspiration dropdown */}
               <div className="relative flex items-center gap-1 cursor-pointer hover:text-[#10B981] group/inspiration">
-                Trip inspiration <ChevronRight size={14} className="rotate-90 group-hover/inspiration:rotate-[270deg] transition-transform duration-150" />
+                {t.tripInspiration} <ChevronRight size={14} className="rotate-90 group-hover/inspiration:rotate-[270deg] transition-transform duration-150" />
                 <div className="absolute top-full left-0 pt-2 z-50 opacity-0 -translate-y-2 pointer-events-none group-hover/inspiration:opacity-100 group-hover/inspiration:translate-y-0 group-hover/inspiration:pointer-events-auto transition-[opacity,transform] duration-100 ease-out">
                   <div className="bg-white rounded-xl shadow-2xl border border-gray-100 p-4 w-[90vw] max-w-[750px]">
                     <div className="flex gap-6">
                       <div className="flex-shrink-0 w-[140px]">
                         <div className="flex items-center gap-2 mb-1">
                           <div className="w-1.5 h-1.5 rounded-full bg-[#10B981]"></div>
-                          <h3 className="font-bold text-[#001A33] text-sm">City guides</h3>
+                          <h3 className="font-bold text-[#001A33] text-sm">{t.cityGuides}</h3>
                         </div>
                         <p className="text-gray-500 text-xs mb-4">Explore all</p>
                       </div>
@@ -460,7 +462,7 @@ export default function HomepageClient() {
                     </div>
                     <div className="mt-4 pt-3 border-t border-gray-200">
                       <div className="flex items-center gap-2 text-[#001A33] font-semibold cursor-pointer hover:text-[#10B981] text-xs underline">
-                        Explore all <ChevronRight size={14} />
+                        {t.exploreAll} <ChevronRight size={14} />
                       </div>
                     </div>
                   </div>
@@ -471,13 +473,10 @@ export default function HomepageClient() {
 
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-6 text-[13px] font-semibold text-[#001A33]">
             <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-5">
-              <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
-                <Globe size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">EN/USD</span>
-              </button>
+              <LanguageSwitcher />
               <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
                 <User size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">Profile</span>
+                <span className="hidden lg:block text-[11px]">{t.profile}</span>
               </button>
             </div>
           </div>
@@ -511,7 +510,7 @@ export default function HomepageClient() {
               : 'bg-gray-100 text-[#001A33] hover:bg-gray-200'
               }`}
           >
-            <span>Trip inspiration</span>
+            <span>{t.tripInspiration}</span>
             <ChevronRight size={14} className={`transition-transform ${showMobileInspirationDropdown ? 'rotate-90' : 'rotate-0'}`} />
           </button>
         </div>
@@ -587,7 +586,7 @@ export default function HomepageClient() {
             />
             <div className="fixed inset-x-0 bottom-0 bg-white rounded-t-2xl shadow-2xl z-50 max-h-[85vh] overflow-y-auto top-[72px] sm:top-[82px] md:top-[92px]">
               <div className="sticky top-0 bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
-                <h3 className="text-lg font-bold text-[#001A33]">Trip inspiration</h3>
+                <h3 className="text-lg font-bold text-[#001A33]">{t.tripInspiration}</h3>
                 <button onClick={() => setShowMobileInspirationDropdown(false)} className="p-2 hover:bg-gray-100 rounded-full transition-colors">
                   <X size={20} />
                 </button>
@@ -596,7 +595,7 @@ export default function HomepageClient() {
                 <div className="mb-4 pb-4 border-b border-gray-200">
                   <div className="flex items-center gap-2 mb-1">
                     <div className="w-1.5 h-1.5 rounded-full bg-[#10B981]"></div>
-                    <h4 className="font-bold text-[#001A33] text-sm">City guides</h4>
+                    <h4 className="font-bold text-[#001A33] text-sm">{t.cityGuides}</h4>
                   </div>
                   <p className="text-gray-500 text-xs">Explore all</p>
                 </div>
@@ -646,7 +645,7 @@ export default function HomepageClient() {
 
         <div className="relative z-10 w-full max-w-[800px] px-1 md:px-6 text-center">
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-black text-white mb-6 sm:mb-8 md:mb-10 tracking-tight leading-tight">
-            Discover Authentic Local Tours & Cultural Experiences Across Asia
+            {t.heroHeadline}
           </h1>
 
           <div className="bg-white p-1 md:p-2 rounded-full shadow-2xl flex flex-row flex-nowrap items-stretch gap-1 md:gap-2 relative w-full max-w-[600px] mx-auto">
@@ -663,7 +662,7 @@ export default function HomepageClient() {
                   if (e.key === 'Enter') handleSearch();
                 }}
                 onFocus={() => setShowSuggestions(searchQuery.length > 0)}
-                placeholder="Search cities or tours..."
+                placeholder={t.searchPlaceholder}
                 className="flex-1 outline-none border-none ring-0 focus:ring-0 focus:border-none bg-transparent text-[#001A33] font-bold text-sm sm:text-base md:text-lg placeholder:text-gray-400 placeholder:font-medium min-w-0"
               />
 
@@ -689,7 +688,7 @@ export default function HomepageClient() {
               onClick={() => handleSearch()}
               className="bg-[#10B981] hover:bg-[#059669] text-white font-black px-4 sm:px-6 md:px-8 lg:px-12 py-2.5 sm:py-3 md:py-4 rounded-full text-sm sm:text-base md:text-lg transition-all shadow-lg active:scale-95 shrink-0 whitespace-nowrap min-h-[44px] flex items-center justify-center"
             >
-              Search
+              {t.search}
             </button>
           </div>
         </div>

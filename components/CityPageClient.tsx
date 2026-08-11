@@ -9,6 +9,7 @@ import {
   HelpCircle,
   HelpCircle as HelpIcon, ArrowLeft, Ticket, Info, ChevronRight, Home
 } from 'lucide-react';
+import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 interface CityPageClientProps {
@@ -2435,6 +2436,7 @@ const formatDurationDisplay = (durationStr: string | null | undefined) => {
 };
 
 export default function CityPageClient({ tours: initialTours, city, country }: CityPageClientProps) {
+  const { t } = useLanguage();
   const tours = initialTours;
   const [filterCategory, setFilterCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
@@ -2571,13 +2573,10 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-6 text-[13px] font-semibold text-[#001A33]">
             <div className="flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-5">
-              <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
-                <Globe size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">EN/USD</span>
-              </button>
+              <LanguageSwitcher />
               <button className="flex flex-col items-center gap-0.5 sm:gap-1 hover:text-[#10B981] p-1.5 sm:p-2 min-w-[44px] min-h-[44px] justify-center">
                 <User size={18} className="sm:w-5 sm:h-5" />
-                <span className="hidden lg:block text-[11px]">Profile</span>
+                <span className="hidden lg:block text-[11px]">{t.profile}</span>
               </button>
             </div>
           </div>
