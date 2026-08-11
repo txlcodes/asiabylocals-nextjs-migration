@@ -109,6 +109,30 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Phuket Jet Ski Tour — Island Hopping from Patong', slug: 'phuket-jet-ski-tour-island-hopping-patong-beach', description: 'Guided jet ski island-hopping straight off Patong beach — 3 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1774168925/tours/phuket/jet-ski/tours/phuket/jet-ski/jet_ski_2.jpg', price: 'From $69', rating: '4.8' },
         { title: 'Phuket: Guided Sunset Tour with Seafood Market Dinner', slug: 'sea-gypsies-fish-market-sunset-tour', description: 'Sea gypsy villages, the working fish market & a sunset seafood dinner', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1783407750/tours/phuket/tours/phuket_1783407750063_0.jpg', price: 'From $68' },
     ],
+    'chiang-mai': [
+        { title: 'Doi Suthep & Wat Pha Lat by Local Red Truck', slug: 'huai-kaeo-waterfall-guided-tour', description: 'The mountain temple plus the forest monastery most visitors miss — 4 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784800909/tours/chiang-mai/tours/chiang-mai_1784800908655_0.jpg', price: 'From $19' },
+        { title: '3-Hour Old City & Temples Guided Walking Tour', slug: 'wat-chedi-luang-walking-tour', description: 'Wat Chedi Luang, Wat Phra Singh and 700 years of Lanna history on foot', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887368/tours/chiang-mai-3-hour-old-city-and-temples-guided-walking-tour/img_1.jpg', price: 'From $15' },
+        { title: 'Elephant Sanctuary Feeding Program — Half Day', slug: 'pon-elephant-sanctuary-half-day-tour', description: 'No riding, no shows — feed and observe a rescued herd', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887315/tours/chiang-mai-elephant-sanctuary-feeding-program-half-day-tour/img_1.jpg', price: 'From $30' },
+        { title: 'Cooking Class, Market & Thai Herbs Garden Tour', slug: 'local-market-chiang-mai-food-tour', description: 'Wet-market tour then cook a northern Thai meal from scratch', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887326/tours/chiang-mai-cooking-class-market-thai-herbs-garden-tour/img_1.jpg', price: 'From $35' },
+        { title: 'Doi Inthanon National Park Full-Day Eco Tour', slug: 'doi-inthanon-national-park-full-day-tour', description: "Thailand's highest peak, twin royal pagodas, cloud forest & waterfalls", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1785081714/asiabylocals/tours/chiang-mai-doi-inthanon-eco-tour/hq_tour_img_1.jpg', price: 'From $45' },
+        { title: 'Chiang Rai White, Blue & Red Temple & Karen Tribe', slug: 'wat-rong-khun-white-temple-spiritual-tour', description: "Chiang Rai's three surreal contemporary temples — full day trip", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887304/tours/chiang-maichiang-rai-white-blue-red-temple-karen-tribe/img_1.jpg', price: 'From $40' },
+        { title: 'Khan Toke Traditional Dinner & Lanna Dance Show', slug: 'traditional-khan-toke-restaurant-chiang-mai-experience', description: 'The northern banquet on a low pedestal tray with classical Lanna dance', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1785081737/asiabylocals/tours/chiang-mai-khan-toke-dinner-dance-show/hq_tour_img_1.jpg', price: 'From $24' },
+        { title: 'Chiang Mai After Dark: Golden-lit Temples & Lanna Food Trail', slug: 'wat-lok-moli-food-tour', description: "Northern dishes you can't order without Thai, between lit-up temples", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1783328915/tours/chiang-mai/tours/chiang-mai_1783328914608_0.jpg', price: 'From $45' },
+        { title: 'Gibbon Trek & Mae Kampong Village Small-Group Tour', slug: 'mae-kampong-village-group-tour', description: 'Hill village life and jungle canopy above the Chiang Mai valley', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1785942039/asiabylocals/tours/chiang-mai-gibbon-trek-mae-kampong-tour/hq_tour_img_1.jpg', price: 'From $75' },
+        { title: 'Chiang Mai Boxing Stadium Ticket', slug: 'chiangmai-boxing-stadium-entry-ticket', description: 'A real Muay Thai card at a local Chiang Mai stadium', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887336/tours/chiangmai-chiangmai-boxing-stadiums-ticket/img_1.jpg', price: 'From $21' },
+    ],
+    'pattaya': [
+        { title: 'Sanctuary of Truth Wooden Temple Entrance Ticket', slug: 'sanctuary-of-truth-naklua-pattaya-spiritual-tour', description: "Thailand's 105m all-teak temple, built without a single nail", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098704/asiabylocals/tours/pattaya-the-sanctuary-of-truth-admission-ticket/hq_tour_img_1.png', price: 'From $17', rating: '4.8' },
+        { title: 'Coral Island Day Trip by Speedboat with Lunch', slug: 'koh-larn-coral-island-full-day-tour', description: "Koh Larn's turquoise water 7 km offshore — speedboat, beach time & lunch", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098597/asiabylocals/tours/pattaya-coral-island-speedboat-tour-with-lunch-and-transfer/hq_tour_img_1.png', price: 'From $11', rating: '4.7' },
+        { title: 'Nong Nooch Garden Entry Pass with Cultural Shows', slug: 'nong-nooch-tropical-garden-pattaya-cultural-tour', description: '600 acres of botanical gardens and a world-class cycad collection', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098681/asiabylocals/tours/pattaya-nong-nooch-tropical-garden-ticket-for-foreigners/hq_tour_img_1.jpg', price: 'From $14', rating: '4.7' },
+        { title: 'Ethical Elephant Sanctuary Day Trip from Pattaya', slug: 'living-green-elephant-sanctuary-chonburi-full-day-tour', description: 'A no-riding sanctuary in the Chonburi countryside', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098559/asiabylocals/tours/from-pattaya-living-green-elephant-sanctuary-day-trip/hq_tour_img_1.jpg', price: 'From $65', rating: '4.9' },
+        { title: "Tiffany's Show Pattaya: Cabaret with Dinner & VIP Seat", slug: 'tiffanys-show-theatre-north-pattaya-entry-ticket', description: 'The cabaret institution that has run since 1974', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098839/asiabylocals/tours/pattaya-tiffany-cabaret-show-with-dinner-vip-seating-more/hq_tour_img_1.jpg', price: 'From $60', rating: '4.8' },
+        { title: 'Pattaya Sunset Trio: Big Buddha Hill, Viewpoint & Night Market', slug: 'pattaya-marina-night-market-sunset-tour', description: "Wat Phra Yai, the bay viewpoint and the marina night market at dusk", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098868/asiabylocals/tours/pattaya-big-buddha-temple-and-night-market-tour/hq_tour_img_1.jpg', price: 'From $84', rating: '4.8' },
+        { title: 'Pattaya 3-Island Catamaran Cruise with Thai Buffet', slug: 'monkey-island-chonburi-boat-tour', description: "The quieter outer islands by catamaran, away from Koh Larn's crowds", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098547/asiabylocals/tours/pattaya-exclusive-3-island-catamaran-tour-with-buffet-lunch/hq_tour_img_1.jpg', price: 'From $87', rating: '4.8' },
+        { title: 'Alcazar Cabaret Evening Show Ticket', slug: 'alcazar-theatre-pattaya-second-road-evening-tour', description: "Tiffany's long-standing rival — 75 minutes of big-production cabaret", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098780/asiabylocals/tours/pattaya-alcazar-cabaret-show-admission-ticket/hq_tour_img_1.jpg', price: 'From $33', rating: '4.7' },
+        { title: 'Boat Diving Day Trip to Pattaya & Samaesarn Reefs', slug: 'pattaya-dive-sites-full-day-tour', description: 'The most accessible diving in Thailand, including wreck sites', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098668/asiabylocals/tours/pattaya-fun-dives-in-pattaya-and-samaesarn-with-transfer/hq_tour_img_1.png', price: 'From $105', rating: '4.8' },
+        { title: 'Private Pattaya Sightseeing Tour', slug: 'pattaya-city-private-tour', description: 'The city highlights at your own pace with a private local guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098619/asiabylocals/tours/pattaya-laem-chabang-port-private-city-highlights-tour/hq_tour_img_1.png', price: 'From $72', rating: '4.8' },
+    ],
 };
 
 const BANGKOK_SIDEBAR = [
@@ -147,6 +171,23 @@ const PHUKET_SIDEBAR = [
     { name: 'Elephant Sanctuaries', slug: 'phuket-elephant-sanctuary-guide' },
     { name: 'Food Guide', slug: 'phuket-food-guide' },
     { name: 'Diving & Snorkeling', slug: 'phuket-diving-snorkeling-guide' },
+];
+
+const CHIANG_MAI_SIDEBAR = [
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-chiang-mai' },
+    { name: 'Burning Season Guide', slug: 'chiang-mai-burning-season-guide' },
+    { name: '3-Day Itinerary', slug: 'chiang-mai-3-day-itinerary' },
+    { name: 'Doi Suthep', slug: 'doi-suthep-chiang-mai' },
+    { name: 'Yi Peng Lantern Festival', slug: 'yi-peng-lantern-festival-chiang-mai' },
+    { name: 'Khao Soi & Food Guide', slug: 'khao-soi-chiang-mai-food-guide' },
+    { name: 'Elephant Sanctuaries', slug: 'chiang-mai-elephant-sanctuary-guide' },
+];
+
+const PATTAYA_SIDEBAR = [
+    { name: 'Is Pattaya Worth Visiting?', slug: 'is-pattaya-worth-visiting' },
+    { name: 'Where to Stay', slug: 'where-to-stay-in-pattaya' },
+    { name: 'Sanctuary of Truth', slug: 'sanctuary-of-truth-pattaya' },
+    { name: 'Koh Larn Island', slug: 'koh-larn-island-guide' },
 ];
 
 function renderIcon(name: string) {
@@ -205,6 +246,8 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         jaipur: JAIPUR_SIDEBAR,
         phuket: PHUKET_SIDEBAR,
         bangkok: BANGKOK_SIDEBAR,
+        'chiang-mai': CHIANG_MAI_SIDEBAR,
+        pattaya: PATTAYA_SIDEBAR,
     };
     const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || AGRA_SIDEBAR;
 

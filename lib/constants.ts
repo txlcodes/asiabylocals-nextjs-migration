@@ -194,6 +194,16 @@ export const BANGKOK_INFO_SLUGS = [
   'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok'
 ];
 
+export const CHIANG_MAI_INFO_SLUGS = [
+  'chiang-mai-burning-season-guide', 'best-time-to-visit-chiang-mai',
+  'chiang-mai-3-day-itinerary', 'yi-peng-lantern-festival-chiang-mai',
+  'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
+  'chiang-mai-elephant-sanctuary-guide'
+];
+export const PATTAYA_INFO_SLUGS = [
+  'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
+  'koh-larn-island-guide', 'where-to-stay-in-pattaya'
+];
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
   'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',

@@ -11,7 +11,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/safety-guidelines', '/support', '/supplier',
     '/getyourguide-viator-alternative',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
-    '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai',
+    '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai', '/thailand/pattaya',
     '/sri-lanka', '/sri-lanka/colombo', '/sri-lanka/kandy', '/sri-lanka/galle',
     '/sri-lanka/sigiriya', '/sri-lanka/ella', '/sri-lanka/nuwara-eliya',
     '/nepal', '/nepal/kathmandu', '/nepal/pokhara', '/nepal/chitwan',
@@ -94,6 +94,30 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Chiang Mai info pages
+  const chiangMaiInfoPages = [
+    'chiang-mai-burning-season-guide', 'best-time-to-visit-chiang-mai',
+    'chiang-mai-3-day-itinerary', 'yi-peng-lantern-festival-chiang-mai',
+    'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
+    'chiang-mai-elephant-sanctuary-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  // Pattaya info pages
+  const pattayaInfoPages = [
+    'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
+    'koh-larn-island-guide', 'where-to-stay-in-pattaya',
+  ].map(slug => ({
+    url: `${BASE_URL}/thailand/pattaya/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];
   const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
@@ -132,5 +156,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...tourPages];
 }

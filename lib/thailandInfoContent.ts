@@ -1,8 +1,16 @@
 // Thailand authority pages — batch 2 (2026-08). Same CityInfoData shape as cityInfoContent.ts.
 // Called from getCityInfoContent's default case so all existing imports keep working.
 import type { CityInfoData } from './cityInfoContent';
+import { getChiangMaiInfoContent } from './chiangMaiInfoContent';
+import { getPattayaInfoContent } from './pattayaInfoContent';
 
 export function getThailandInfoContent(slug: string): CityInfoData | null {
+    const chiangMai = getChiangMaiInfoContent(slug);
+    if (chiangMai) return chiangMai;
+
+    const pattaya = getPattayaInfoContent(slug);
+    if (pattaya) return pattaya;
+
     switch (slug) {
 
         // ============ PHUKET ============
