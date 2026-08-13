@@ -279,6 +279,215 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-time-to-visit-pattaya":
+            return {
+                title: "Best Time to Visit Pattaya: Month-by-Month Gulf Coast Guide (2026)",
+                description: "Pattaya sits on the Gulf, so its seasons differ from Phuket's. November–February is the window; the monsoon is milder here. Month-by-month weather, Wan Lai Songkran and festival dates.",
+                heroImage: IMG.kohLarn,
+                sections: [
+                    {
+                        title: "The Gulf Is Not the Andaman — and That Changes the Calendar",
+                        icon: "Info",
+                        content: "Most Thailand weather advice is written about the Andaman coast — Phuket, Krabi — and applied carelessly to the whole country. Pattaya sits on the **Gulf of Thailand**, a shallower, more sheltered sea, and its year works differently in two ways that matter.\n\n**First: the monsoon is milder here.** The southwest monsoon that hammers Phuket's west-facing beaches from May to October arrives in Pattaya softened — the city sits in a partial rain shadow, and its annual rainfall is roughly half of Phuket's. Green-season Pattaya means afternoon storms, not washed-out weeks, and the bay rarely produces the dangerous surf that closes Andaman beaches.\n\n**Second: boats keep running.** Crossings to [Koh Larn](/thailand/pattaya/koh-larn-island-guide) and the outer islands operate close to year-round; cancellations happen in September–October squalls but are the exception. Compare that to Phuket, where entire island routes shut for months — it makes Pattaya one of Thailand's most reliable any-month beach bases.\n\n**The short answer** remains the same as most of Thailand: **November to February** is the prize window — dry, 24–32°C, low humidity, calm sea. But the *cost of missing it* is much lower here than on the Andaman side, which is precisely why Bangkok weekenders use Pattaya all year.\n\nStill deciding if the city suits you at all? Start with [our honest take on Pattaya](/thailand/pattaya/is-pattaya-worth-visiting).",
+                        tourCard: CARD.kohLarn,
+                    },
+                    {
+                        title: "Month by Month on the Gulf",
+                        icon: "Clock",
+                        content: "**November** — The turn: rain stops, humidity drops, the sea settles. The **Pattaya International Fireworks Festival** (late November) fills the bay with competing national teams — book that weekend early. Loy Krathong floats on the beach the same month.\n\n**December** — Peak everything: best weather (24–31°C), biggest crowds, highest prices, and a serious New Year countdown on the beach road. Book 4–6 weeks ahead.\n\n**January** — Dry, pleasant, and calmer after the first week. Arguably the best all-round month.\n\n**February** — Still dry and warm; Chinese New Year brings a short, intense spike of visitors (Pattaya is a major Chinese-tourist destination).\n\n**March** — Hot season begins; mid-30s by late month. The **Pattaya Music Festival** — free big-name Thai acts on beachside stages — usually lands this month.\n\n**April** — The hottest month, and the longest Songkran in Thailand: while the rest of the country finishes on April 15, Pattaya extends into **Wan Lai (April 18–19)**, when the beach road becomes one continuous water battle. Come for it deliberately or avoid the week entirely.\n\n**May–June** — Hot, increasingly humid, first real storms — usually short and late-day. Prices drop; the sea stays swimmable.\n\n**July–August** — Mid-green-season, softer than the Andaman's. A workable budget window with 30–40% hotel discounts.\n\n**September–October** — The wettest stretch and the only months with real disruption risk: heavier rain, occasional street flooding, some choppy island days. The year's lowest prices, and honestly the only months we'd hesitate to recommend for a short trip."
+                    },
+                    {
+                        title: "Prices, Crowds and Booking Strategy",
+                        icon: "Wallet",
+                        content: "Pattaya's pricing rhythm has one pattern the islands don't: **weekends matter as much as seasons**. Bangkok is two hours away, and Thai weekenders fill the city every Friday–Sunday year-round — hotel rates rise 20–40% on weekends even in low season, and [Koh Larn](/thailand/pattaya/koh-larn-island-guide) is dramatically busier. The single best value-and-calm move in Pattaya is simple: **come midweek**.\n\n**Seasonal bands**:\n- **Peak (mid-December – early January)**: rates roughly double; the fireworks-festival and NYE weekends sell out. Book 4–6 weeks out.\n- **High (November – February)**: comfortable pricing, wide availability outside event weekends.\n- **Shoulder/green (March – August)**: 30–40% below high season. April's Wan Lai week spikes.\n- **Low (September – October)**: the floor. Five-star rooms at three-star prices, quiet beaches, some rain roulette.\n\n**Tours and shows** barely move in price with the seasons — the [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-pattaya), [Nong Nooch](/thailand/pattaya/nong-nooch-tropical-garden-pattaya) and the [cabaret shows](/thailand/pattaya/pattaya-cabaret-shows-guide) run identical schedules year-round, which is exactly why Pattaya works as a wet-season destination: most of its best attractions are weather-proof.\n\n**Event calendar worth planning around**: Fireworks Festival (late Nov), NYE beach countdown, Chinese New Year (Feb), Music Festival (Mar), Wan Lai Songkran (Apr 18–19), Loy Krathong (Nov). For families, none of these are essential — for atmosphere, the fireworks weekend is the pick.\n\nBuilding the trip? See [where to stay](/thailand/pattaya/where-to-stay-in-pattaya) — the neighbourhood decision matters more here than the month — and the [2-day itinerary](/thailand/pattaya/pattaya-2-day-itinerary).",
+                        tourCard: CARD.sanctuary,
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best month to visit Pattaya?", a: "**December and January** for the best weather (24–31°C, dry, calm sea) — January is quieter after the first week. November adds the spectacular International Fireworks Festival. The broader November–February window is the Gulf coast's dry season." },
+                    { q: "Is Pattaya good during the rainy season?", a: "Better than most of Thailand. The Gulf coast gets roughly half Phuket's rainfall, storms are short and late-day, and boats to Koh Larn keep running most of the season. May–August is a genuine budget window; only September–October carry real disruption risk." },
+                    { q: "When is Songkran in Pattaya?", a: "Pattaya runs the **longest Songkran in Thailand** — the national April 13–15 holiday extends locally to **Wan Lai on April 18–19**, when the beach road becomes one continuous water fight. Come for it deliberately or avoid that week; there's no middle ground." },
+                    { q: "Is Pattaya busier on weekends?", a: "Much — Bangkok is two hours away, and Thai weekenders raise hotel rates 20–40% and pack Koh Larn every Friday–Sunday, all year. **Visiting midweek** is the single best value-and-calm move in Pattaya, in any season." },
+                    { q: "When is the Pattaya Fireworks Festival?", a: "**Late November** — international teams compete over the bay across a weekend, and it's the best free spectacle of Pattaya's year. Book accommodation for that weekend several weeks ahead." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best month to visit Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "December and January for the best weather — dry, 24–31°C, calm sea. November adds the International Fireworks Festival. November–February is the Gulf dry season." } },
+                                { "@type": "Question", "name": "Is Pattaya good during the rainy season?", "acceptedAnswer": { "@type": "Answer", "text": "Better than most of Thailand — the Gulf coast gets roughly half Phuket's rainfall, storms are short, and boats to Koh Larn keep running most of the season. Only September–October carry real disruption risk." } },
+                                { "@type": "Question", "name": "When is Songkran in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Thailand's longest — the national April 13–15 holiday extends locally to Wan Lai on April 18–19, when the beach road becomes one continuous water fight." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Best Months', value: 'November – February' },
+                    { icon: 'CheckCircle2', label: 'Gulf Advantage', value: '~Half Phuket\'s rainfall' },
+                    { icon: 'AlertTriangle', label: 'Hesitate', value: 'September – October' }
+                ]
+            };
+
+        case "nong-nooch-tropical-garden-pattaya":
+            return {
+                title: "Nong Nooch Tropical Garden 2026: Why Botanists Fly In for a 'Tourist Park'",
+                description: "Behind the dinosaur statues sits one of the world's great botanical collections — a globally important cycad conservatory. Tickets, the areas worth your time, shows and how to skip the crowds.",
+                heroImage: IMG.nongNooch,
+                sections: [
+                    {
+                        title: "The Garden Hiding Inside the Theme Park",
+                        icon: "Star",
+                        content: "Nong Nooch confuses people, and fairly: the entrance delivers you into a world of concrete dinosaurs, topiary elephants and selfie platforms, and it's easy to conclude you've paid for a kitsch factory. Stay longer. Behind the theme-park shell operates **one of Southeast Asia's most serious botanical institutions**.\n\nThe short version of the story: in 1954, Pisit and Nongnooch Tansacha bought 1,500 rai (~600 acres) of land intending a fruit plantation, then pivoted — after Nongnooch travelled Europe's great gardens — to ornamental horticulture. The park opened to the public in 1980 and their son Kampon turned it into a collector's obsession.\n\nThe crown of that obsession is the **cycad collection** — those ancient, palm-like plants that predate the dinosaurs the park decorates itself with. Nong Nooch holds one of the **largest and most scientifically important cycad collections on Earth**, including species extinct in the wild, and runs a registered conservation and research operation alongside the tourism. Serious botanists genuinely fly in for it. The park also claims among the world's largest collections of orchids, palms and bougainvillea, and hosts international garden-design competitions.\n\nSo read it as two parks in one: a family-fun layer (dinosaurs, shows, elephants) and a world-class garden layer underneath. Knowing which one you came for — and where each lives — is the difference between a cheesy afternoon and one of the best days on the Gulf coast.",
+                        tourCard: CARD.nongNooch,
+                    },
+                    {
+                        title: "What to See: The Areas Worth Your Time",
+                        icon: "Map",
+                        content: "The park is huge — 600 acres, far too big to wander aimlessly. The areas that repay attention:\n\n**The French Garden** — The postcard: a Versailles-style parterre of clipped hedges and colour blocks, viewed from elevated skywalk paths that give you the geometry from above. Best light before 10 AM.\n\n**The cycad conservatory and valley** — The scientific heart. Unassuming next to the showpieces, but this is the collection that matters globally; the oldest specimens are centuries old, and the interpretive signage rewards anyone who reads it.\n\n**The Italian Garden, Stonehenge Garden and 'Butterfly Hill'** — The maximalist European set-pieces. Absurd, photogenic, fun.\n\n**Dinosaur Valley** — Hundreds of life-size (and improbably coloured) dinosaur statues along a valley walk. With children this is the highlight of the entire Gulf coast; without them it's a ten-minute smile.\n\n**The pottery garden, orchid houses and palm collections** — where the horticultural depth shows.\n\n**The skywalk** — An elevated walkway system linking the major gardens; taking it one way and ground paths back is the efficient loop.\n\n**The shows** (included in most tickets): a **Thai cultural show** — dance, drums, Muay Thai demonstration — and an **elephant show** running several times daily. Honest note: the cultural show is good fun; the elephant show involves performing elephants doing tricks, which sits poorly against modern welfare standards — we'd skip it, and if elephants matter to you, choose a [no-riding sanctuary day](/thailand/pattaya/living-green-elephant-sanctuary-chonburi-full-day-tour) instead.\n\n**Getting around inside**: walking the core gardens takes 2–3 hours; the hop-on shuttle trams loop the park for the long hauls, and bikes are rentable. In April heat, use the trams shamelessly."
+                    },
+                    {
+                        title: "Tickets, Timing and How to Do It Right",
+                        icon: "Ticket",
+                        content: "**Tickets (2026)**: gate price for foreigners runs around **฿500–600** for garden entry including the shows, with combo tickets adding lunch or tram passes. Pre-booked [entry passes](/thailand/pattaya/nong-nooch-tropical-garden-pattaya-cultural-tour) undercut the gate meaningfully — from about **$14** — and skip the ticket queue. Children under 140 cm pay roughly half.\n\n**Hours**: 8:00 AM – 6:00 PM daily, year-round. Show times are posted at the entrance — plan your garden loop around your chosen show, not the reverse.\n\n**The crowd pattern**: tour groups (heavily Chinese and Russian) arrive 10:30 AM – 2:30 PM and cluster around the shows and the French Garden viewpoint. Arrive at **8:00 opening** and you get the parterre and skywalks nearly alone in the day's best light; after 3:30 PM works too. Weekdays beat weekends comfortably (see the [best-time guide](/thailand/pattaya/best-time-to-visit-pattaya) — the whole city runs on that rule).\n\n**How long**: a focused half-day (3–4 hours) covers the essentials with a show; garden people can fill a full day. It's 20 minutes south of Pattaya on Sukhumvit Road — songthaew charters (~฿400–500 round trip with waiting), Grab, or included transfer on packaged tickets.\n\n**Combining**: Nong Nooch pairs naturally with the [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-pattaya) for a culture-heavy day (opposite ends of town — garden at opening, sanctuary for the late-afternoon light), or as the land day between a [Koh Larn beach day](/thailand/pattaya/koh-larn-island-guide) in a [2-day Pattaya plan](/thailand/pattaya/pattaya-2-day-itinerary).\n\n**With kids**: this is the single best family attraction in Pattaya — dinosaurs, trams, elephants at distance, space to run. Bring hats and water; shade is patchy in the show-piece gardens.",
+                        tourCard: CARD.nongNooch,
+                    }
+                ],
+                faqs: [
+                    { q: "Is Nong Nooch Tropical Garden worth visiting?", a: "Yes — and more than its marketing suggests. Beneath the dinosaur statues and topiary sits one of the world's most important **cycad collections** and a genuinely serious botanical operation across 600 acres. Families get the fun layer; garden people get a world-class collection. Arrive at 8 AM opening to beat the tour groups." },
+                    { q: "How much does Nong Nooch cost?", a: "Gate price runs around **฿500–600** for foreigners including the cultural shows; pre-booked online passes start near **$14** and skip the queue. Children under 140 cm pay roughly half. Trams, lunch and combos cost extra." },
+                    { q: "How long do you need at Nong Nooch?", a: "A focused **3–4 hours** covers the French Garden, skywalks, cycad valley, Dinosaur Valley and one show. Garden enthusiasts can fill a full day. The park runs 8 AM–6 PM daily and is 20 minutes south of Pattaya." },
+                    { q: "What is Nong Nooch famous for botanically?", a: "Its **cycads** — ancient palm-like plants older than the dinosaurs. Nong Nooch holds one of the largest and most scientifically important cycad collections on Earth, including species extinct in the wild, plus claimed world-leading orchid, palm and bougainvillea collections." },
+                    { q: "Should I watch the elephant show at Nong Nooch?", a: "We'd skip it. It's a traditional performing-elephant show — tricks and stunts — which sits poorly against modern welfare standards. The Thai cultural show (dance, drums, Muay Thai) is the better use of your show slot, and a no-riding sanctuary day trip is the better elephant experience." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "Is Nong Nooch Tropical Garden worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — beneath the theme-park layer sits one of the world's most important cycad collections and a serious botanical operation across 600 acres. Arrive at 8 AM opening to beat tour groups." } },
+                                { "@type": "Question", "name": "How much does Nong Nooch cost?", "acceptedAnswer": { "@type": "Answer", "text": "Around ฿500–600 at the gate including shows; pre-booked online passes start near $14. Children under 140 cm pay roughly half." } },
+                                { "@type": "Question", "name": "How long do you need at Nong Nooch?", "acceptedAnswer": { "@type": "Answer", "text": "A focused 3–4 hours covers the highlights and one show. The park runs 8 AM–6 PM daily, 20 minutes south of Pattaya." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Ticket', label: 'Entry', value: '฿500–600 gate / ~$14 online' },
+                    { icon: 'Star', label: 'World-Class At', value: 'Cycads (pre-dinosaur plants)' },
+                    { icon: 'Clock', label: 'Beat Crowds', value: '8 AM opening, midweek' }
+                ]
+            };
+
+        case "pattaya-2-day-itinerary":
+            return {
+                title: "The Perfect 2-Day Pattaya Itinerary (2026): Culture Day + Island Day",
+                description: "Pattaya done right in 48 hours: Sanctuary of Truth, Nong Nooch and a cabaret on day one; Koh Larn's turquoise water on day two. Timings, costs and the crowd-dodging order.",
+                heroImage: IMG.sanctuary,
+                sections: [
+                    {
+                        title: "The Shape of a Good Pattaya Weekend",
+                        icon: "Map",
+                        content: "Two days is Pattaya's natural dose — it's a [2–4 day add-on city](/thailand/pattaya/is-pattaya-worth-visiting), not a destination to marinate in — and the right structure is obvious once you see it: **one land day for the two world-class sights, one sea day for the island**. \n\nThree planning rules make the difference:\n\n**1. Go against the tour-bus clock.** Pattaya's headline attractions are heavily packaged; the groups move 10:30 AM–2:30 PM. Everything in this plan starts at opening time or runs into the late afternoon, which is how you see the same places at half density.\n\n**2. Come midweek if you possibly can.** Bangkok's weekend crowd raises prices 20–40% and doubles the Koh Larn ferry crush every Friday–Sunday, all year (see [best time to visit](/thailand/pattaya/best-time-to-visit-pattaya)).\n\n**3. Sleep in the right district.** This itinerary works from anywhere, but Pratumnak or Naklua make it pleasant; a Walking Street hotel makes it exhausting. Sort that first with the [where-to-stay guide](/thailand/pattaya/where-to-stay-in-pattaya).\n\n**Getting here**: buses from Bangkok's Ekkamai every 30 minutes (฿130, ~2 hours), minivans from Victory Monument, or ~90 minutes by car from Suvarnabhumi airport — which makes Pattaya a genuinely practical first or last stop of a Thailand trip."
+                    },
+                    {
+                        title: "Day 1: Gardens at Dawn, the Wooden Temple at Dusk, Sequins at Night",
+                        icon: "Star",
+                        content: "**8:00 AM — [Nong Nooch Tropical Garden](/thailand/pattaya/nong-nooch-tropical-garden-pattaya) at opening.** Twenty minutes south of town, and at 8 AM you'll have the French Garden parterre and the skywalks nearly to yourself in the best light of the day. Do the elevated loop, the cycad valley (the world-class part), and Dinosaur Valley if you have kids. Catch a late-morning Thai cultural show, then leave as the tour buses arrive. 3–4 hours.\n\n**1:00 PM — Seafood lunch in Naklua.** Cross town north and eat where Pattaya's Thais eat: the fish-market restaurants of Naklua. Grilled prawns, steamed fish, som tam — a fraction of beach-road prices.\n\n**3:30 PM — [The Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-pattaya).** The 105-metre all-teak temple, built without a single nail and deliberately never to be finished, is Pattaya's one unmissable sight — and late afternoon is its hour, when low sun turns the carving gold against the sea. Hard hat on (it's a working site), 1.5–2 hours, and consider the sunset ticket.\n\n**6:30 PM — Sunset at Big Buddha Hill / Pratumnak viewpoint.** The classic panorama over the full sweep of the bay — or roll it into a [guided sunset trio](/thailand/pattaya/pattaya-marina-night-market-sunset-tour) that adds the marina night market for dinner.\n\n**9:00 PM — A cabaret.** [Tiffany's or Alcazar](/thailand/pattaya/pattaya-cabaret-shows-guide) — 75 minutes of big-budget sequins and showmanship, and a genuine Pattaya institution since 1974. Book a mid-tier seat online; walk-up rates are worse.",
+                        tourCard: CARD.tiffany,
+                    },
+                    {
+                        title: "Day 2: Koh Larn — and Doing the Island Better Than the Crowds",
+                        icon: "CheckCircle2",
+                        content: "**7:00 AM — The early ferry from Bali Hai Pier.** This single decision transforms the day: the ฿40 public ferry at 7:00 puts you on [Koh Larn](/thailand/pattaya/koh-larn-island-guide) by 8:00, with two to three hours of near-empty beach before the tour boats land around 10:30.\n\n**8:15 AM — Songthaew to Samae Beach** (฿30–40) — the island's best all-rounder: clearer, calmer water than the main Tawaen strip, decent restaurants, none of the jet-ski chaos. Purists head instead for **Nual (Monkey) Beach**, the prettiest and quietest.\n\n**Morning** — Swim, snorkel casually off the sand, or rent a lounger (฿100–150) and do absolutely nothing. If you want engine noise, this is also the coast for [jet-ski and parasail sessions](/thailand/pattaya/jomtien-beach-premium-tour) — agree prices before touching anything.\n\n**12:30 PM — Grilled seafood lunch** at a beach restaurant (฿200–400), then one more swim as the day-tripper density peaks elsewhere on the island.\n\n**2:30–3:30 PM — Ferry back** (confirm the return schedule when you land in the morning — missing the last boat is an expensive lesson). You're showered by 5 PM.\n\n**Evening — one from column B**: the beachfront [fire show dinner](/thailand/pattaya/dam-restaurant-pattaya-beachfront-mini-tour), the Jomtien night market, or simply Naklua seafood round two.\n\n**Upgrades and swaps**: replace the public ferry with a [speedboat day trip with lunch](/thailand/pattaya/koh-larn-coral-island-full-day-tour) (from $11, hotel pickup, zero pier logistics) — or skip Koh Larn's crowds entirely for a [3-island catamaran cruise](/thailand/pattaya/monkey-island-chonburi-boat-tour) to the quieter outer islands. With a third day: an [ethical elephant sanctuary morning](/thailand/pattaya/living-green-elephant-sanctuary-chonburi-full-day-tour) inland, or diving the wrecks off the coast.",
+                        tourCard: CARD.kohLarn,
+                    },
+                    {
+                        title: "What Two Days Cost, and Practical Notes",
+                        icon: "Wallet",
+                        content: "**Per-person budget** (excluding hotel and transport from Bangkok):\n\n- Day 1: Nong Nooch entry ~$14 · Naklua lunch ฿200–300 · Sanctuary of Truth ฿500 · cabaret $33–60 → **$65–95**\n- Day 2: ferry ฿80 return · songthaews ฿80 · lounger ฿120 · seafood lunch ฿300 → **$18–25** (or from $11 packaged)\n- **Two-day total: roughly $85–120 per person** — a fraction of an equivalent Phuket weekend, which is Pattaya's quiet superpower.\n\n**Getting around town**: the blue **songthaews** loop Beach Road/Second Road for ฿10–20 — hop on, buzz to stop, and *don't ask the price first* or you'll be quoted a charter. Grab works everywhere (฿60–150 across town). Scooters are ฿200–300/day but Pattaya traffic is genuinely rough and insurance is void without a motorcycle licence.\n\n**Timing traps to avoid**: Nong Nooch and the Sanctuary both spike 10:30–2:30 (tour buses); Koh Larn doubles on weekends; the cabarets' walk-up queues are worst at the 9 PM shows — book online.\n\n**Rainy-day insurance**: this itinerary is unusually weather-proof — the Sanctuary, cabarets, and Nong Nooch's trams all work in rain, and only the island day needs a dry window. In the September–October wet, flip the days as the forecast dictates.\n\nExtending the trip north? Bangkok's [3-day itinerary](/thailand/bangkok/3-day-bangkok-itinerary) picks up where this ends — the bus back to Ekkamai runs every half hour."
+                    }
+                ],
+                faqs: [
+                    { q: "Is 2 days enough for Pattaya?", a: "Yes — two days is Pattaya's natural dose: one land day (Nong Nooch at opening, Sanctuary of Truth in late-afternoon light, a cabaret at night) and one island day on Koh Larn via the 7 AM ferry. The city works best as a 2–4 day add-on to Bangkok, not a long-haul destination." },
+                    { q: "How much does 2 days in Pattaya cost?", a: "Roughly **$85–120 per person** excluding hotel: ~$65–95 for the culture day (garden, temple, cabaret, seafood) and $18–25 for a DIY Koh Larn day. Equivalent days in Phuket cost two to three times more — value is Pattaya's quiet superpower." },
+                    { q: "What order should I do Pattaya's sights in?", a: "Run against the tour-bus clock: **Nong Nooch at 8 AM opening**, Naklua seafood lunch, **Sanctuary of Truth from 3:30 PM** when the teak turns gold, sunset at Big Buddha Hill, cabaret at 9. Island day starts with the **7 AM Koh Larn ferry** — the beaches are near-empty until 10:30." },
+                    { q: "Can you do Pattaya as a day trip from Bangkok?", a: "Physically yes (2 hours each way), but you'd have to choose between the island and the sights. One night makes it comfortable; the bus from Ekkamai runs every 30 minutes (฿130) and Suvarnabhumi airport is only ~90 minutes away, which suits a first or last stop." },
+                    { q: "Which is better in Pattaya — Koh Larn or the catamaran islands?", a: "**Koh Larn** for value and beaches (฿40 ferry, Samae or Nual Beach). The **3-island catamaran cruises** to Koh Sak and Koh Phai cost more but dodge Koh Larn's crowds entirely and include lunch — the better pick on weekends, when the ferry island fills with Bangkok day-trippers." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "Is 2 days enough for Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — one land day (Nong Nooch, Sanctuary of Truth, a cabaret) and one island day on Koh Larn via the 7 AM ferry. Pattaya works best as a 2–4 day add-on to Bangkok." } },
+                                { "@type": "Question", "name": "How much does 2 days in Pattaya cost?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly $85–120 per person excluding hotel — a fraction of an equivalent Phuket weekend." } },
+                                { "@type": "Question", "name": "What order should I do Pattaya's sights in?", "acceptedAnswer": { "@type": "Answer", "text": "Against the tour-bus clock: Nong Nooch at 8 AM opening, Sanctuary of Truth from 3:30 PM, cabaret at 9 PM, and the 7 AM ferry to Koh Larn on the island day." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Clock', label: 'Structure', value: '1 land day + 1 island day' },
+                    { icon: 'Wallet', label: 'Two-Day Budget', value: '$85–120 per person' },
+                    { icon: 'Star', label: 'Key Trick', value: 'Run against the tour-bus clock' }
+                ]
+            };
+
+        case "pattaya-cabaret-shows-guide":
+            return {
+                title: "Pattaya Cabaret Shows 2026: Tiffany's vs Alcazar, Honestly Compared",
+                description: "Tiffany's has run since 1974 — the first show of its kind in Southeast Asia — and Alcazar since 1981. Which to pick, what tickets really cost, seating tiers, etiquette and what the shows mean.",
+                heroImage: IMG.tiffany,
+                sections: [
+                    {
+                        title: "Why a Cabaret Is Pattaya's Signature Night Out",
+                        icon: "History",
+                        content: "Strip away Pattaya's noise and two names have anchored its entertainment for half a century. **Tiffany's Show opened in 1974** — starting, as the story goes, as a one-performer lip-sync act on a small stage — and grew into **the first professional transgender cabaret in Southeast Asia**, a 1,000-seat theatre with production values that would not embarrass Las Vegas. **Alcazar followed in 1981** a few hundred metres up Second Road, and the two have run a friendly arms race of feathers, hydraulics and sequins ever since.\n\nWhat you actually get, either way: a **70–75 minute revue** of big ensemble numbers — Thai classical pieces, Bollywood, K-pop, Chinese opera, torch songs, comedy interludes — performed by casts of dozens of *kathoey* (transgender) performers in costumes that get their own storage buildings. It is lip-synced, unapologetically glittery, family-attended mass entertainment: tour groups, Thai families, grandmothers, honeymooners. If you're expecting something seedy, you have the wrong genre entirely — this is closer to a Vegas revue crossed with a Chinese New Year gala.\n\nThe shows also carry real cultural weight: Tiffany's hosts **Miss International Queen**, the world's most prominent transgender beauty pageant, and the theatres have provided visible, professional, celebrated employment for kathoey performers for fifty years — a complicated but genuine institution in Thai society. Treat the performers as the professionals they are, and the evening is one of Pattaya's most purely enjoyable.",
+                        tourCard: CARD.tiffany,
+                    },
+                    {
+                        title: "Tiffany's vs Alcazar: The Honest Comparison",
+                        icon: "CheckCircle2",
+                        content: "Both are good. The differences are real but not enormous — think Coke vs Pepsi with feathers.\n\n**Tiffany's (North Pattaya, since 1974)**\n- The **grander production**: the purpose-built theatre is more opulent, the costume budget visibly bigger, the staging more classical-spectacular.\n- The **prestige name** — Miss International Queen's home stage; performers here are the profession's A-list.\n- Slightly **higher ticket prices**, and packages that add dinner or VIP seats ([tickets with dinner and VIP upgrade](/thailand/pattaya/tiffanys-show-theatre-north-pattaya-entry-ticket) from $60).\n- Shows nightly, typically 6:00, 7:30 and 9:00 PM.\n\n**Alcazar (Second Road, since 1981)**\n- The **flashier tech**: LED walls, moving stages, a slightly more modern, pop-forward setlist.\n- **Better value** — [tickets](/thailand/pattaya/alcazar-theatre-pattaya-second-road-evening-tour) from about $33, and the 1,200-seat house means availability is rarely a problem.\n- More central location if you're staying around Central Pattaya.\n- Shows nightly at similar times.\n\n**Our call**: first-timers who want the *iconic* version pick **Tiffany's**; travellers who want the same genre for less money pick **Alcazar** and lose little. Families do fine at either — the humour has some innuendo but nothing beyond a pantomime.\n\n**Seating truth**: mid-tier seats are the sweet spot in both houses. The cheapest rows sit far back in wide theatres; VIP front rows are fun for the costume detail but you lose the full-stage choreography. Book online a day or two ahead — walk-up prices are consistently worse and the 9 PM shows sell heaviest."
+                    },
+                    {
+                        title: "Practicalities, Etiquette and the Photo Ritual",
+                        icon: "Ticket",
+                        content: "**Prices (2026)**: Alcazar from ~**฿1,100 ($33)**, Tiffany's standard seats ~฿1,200–1,600 with **dinner-and-VIP packages from $60**. Kids' tickets run roughly 30% less; under-4s usually free on laps.\n\n**Logistics**: doors ~30 minutes before curtain; the shows run 70–75 minutes with no interval; dress code is none (beachwear-casual is normal, though Thais dress up a little); both theatres are air-conditioned to arctic standard — bring a layer. Photography *during* the show is prohibited in both houses and enforced.\n\n**The photo ritual after**: performers line the exit for photos — glamorous, fun, and **paid**: ฿100–200 per performer is the going tip, agreed with a smile before you pose. This is a standard part of their income, not a hustle; treat it as buying a professional's time, tip graciously or simply walk past with a compliment.\n\n**Etiquette that matters**: these are professional entertainers, not curiosities. Refer to performers respectfully (in Thailand, *kathoey* or simply \"the performers\"; \"ladyboy\" is common in Pattaya marketing but lands better from locals than from tourists), don't heckle, don't grab anyone for a photo mid-costume, and applaud like you're at the theatre — because you are.\n\n**Fitting it in**: the cabaret is the natural finale of [day one of a Pattaya weekend](/thailand/pattaya/pattaya-2-day-itinerary) — Nong Nooch in the morning, [Sanctuary of Truth](/thailand/pattaya/sanctuary-of-truth-pattaya) at golden hour, sequins at nine. If you're choosing one single evening spectacle in Pattaya, this is it — and it's one of the few that's identical in quality [whatever month you visit](/thailand/pattaya/best-time-to-visit-pattaya).",
+                        tourCard: { slug: "alcazar-theatre-pattaya-second-road-evening-tour", title: "Alcazar Cabaret Evening Show Ticket", description: "The value pick: 75 minutes of LED-walled, sequinned spectacle on Second Road — same genre as Tiffany's for two-thirds the price.", price: "From $33", duration: "75 minutes", rating: "4.7", reviews: "8", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098780/asiabylocals/tours/pattaya-alcazar-cabaret-show-admission-ticket/hq_tour_img_1.jpg" }
+                    }
+                ],
+                faqs: [
+                    { q: "Which is better, Tiffany's or Alcazar?", a: "**Tiffany's** (since 1974) is the grander, more prestigious production — the home of Miss International Queen — at a higher price. **Alcazar** (since 1981) is flashier technically, more pop-forward and about a third cheaper. First-timers wanting the icon pick Tiffany's; value-hunters pick Alcazar and lose little." },
+                    { q: "How much do Pattaya cabaret tickets cost?", a: "Alcazar from about **฿1,100 ($33)**; Tiffany's standard seats ฿1,200–1,600, with dinner-and-VIP packages from **$60**. Mid-tier seats are the sweet spot in both theatres. Book online a day or two ahead — walk-up prices are worse and 9 PM shows sell heaviest." },
+                    { q: "Are the cabaret shows family-friendly?", a: "Yes — they're mainstream mass entertainment attended by Thai families, tour groups and grandparents. Expect Vegas-style revue numbers with some pantomime-level innuendo, nothing more. Kids' tickets run ~30% less and the spectacle plays well with children." },
+                    { q: "How long are the shows and when do they run?", a: "**70–75 minutes**, no interval, nightly at roughly 6:00, 7:30 and 9:00 PM at both theatres. Doors open ~30 minutes early. The theatres are fiercely air-conditioned — bring a layer." },
+                    { q: "Do you tip the performers for photos?", a: "Yes — after the show, performers line the exit for photos and **฿100–200 per performer** is the standard tip, agreed before you pose. It's a normal, expected part of their income. During the show itself, photography is prohibited and enforced." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "Which is better, Tiffany's or Alcazar?", "acceptedAnswer": { "@type": "Answer", "text": "Tiffany's (since 1974) is the grander, more prestigious production at a higher price. Alcazar (since 1981) is flashier technically and about a third cheaper. First-timers pick Tiffany's; value-hunters pick Alcazar." } },
+                                { "@type": "Question", "name": "How much do Pattaya cabaret tickets cost?", "acceptedAnswer": { "@type": "Answer", "text": "Alcazar from about ฿1,100 ($33); Tiffany's standard seats ฿1,200–1,600 with dinner-and-VIP packages from $60. Mid-tier seats are the sweet spot." } },
+                                { "@type": "Question", "name": "Are the cabaret shows family-friendly?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — mainstream mass entertainment attended by Thai families and tour groups, with pantomime-level innuendo at most." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'History', label: 'Institutions', value: "Tiffany's 1974 · Alcazar 1981" },
+                    { icon: 'Wallet', label: 'Tickets', value: '$33 (Alcazar) – $60+ (Tiffany VIP)' },
+                    { icon: 'Clock', label: 'Shows', value: '70–75 min · 6/7:30/9 PM nightly' }
+                ]
+            };
+
         default:
             return null;
     }

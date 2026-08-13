@@ -152,6 +152,10 @@ const BANGKOK_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-bangkok' },
     { name: 'Ayutthaya Day Trip', slug: 'bangkok-ayutthaya-day-trip' },
     { name: 'Chinatown (Yaowarat)', slug: 'chinatown-yaowarat-bangkok' },
+    { name: 'Where to Stay', slug: 'where-to-stay-in-bangkok' },
+    { name: 'Street Food Guide', slug: 'bangkok-street-food-guide' },
+    { name: 'Khao San Road', slug: 'khao-san-road-bangkok' },
+    { name: 'Kanchanaburi Day Trip', slug: 'bangkok-kanchanaburi-day-trip' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -190,6 +194,10 @@ const PATTAYA_SIDEBAR = [
     { name: 'Where to Stay', slug: 'where-to-stay-in-pattaya' },
     { name: 'Sanctuary of Truth', slug: 'sanctuary-of-truth-pattaya' },
     { name: 'Koh Larn Island', slug: 'koh-larn-island-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-pattaya' },
+    { name: 'Nong Nooch Garden', slug: 'nong-nooch-tropical-garden-pattaya' },
+    { name: '2-Day Itinerary', slug: 'pattaya-2-day-itinerary' },
+    { name: 'Cabaret Shows', slug: 'pattaya-cabaret-shows-guide' },
 ];
 
 function renderIcon(name: string) {

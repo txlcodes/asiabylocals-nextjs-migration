@@ -658,6 +658,218 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "where-to-stay-in-bangkok":
+            return {
+                title: "Where to Stay in Bangkok 2026: Every Neighbourhood Compared",
+                description: "Riverside, Sukhumvit, Silom, the old city, Chinatown or Khao San? An honest neighbourhood-by-neighbourhood guide to where to stay in Bangkok — and where not to.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The One Decision That Shapes Your Bangkok Trip",
+                        icon: "Map",
+                        content: "Bangkok is enormous — a sprawl of over ten million people where a badly-placed hotel can cost you an hour in traffic every single time you leave it. But the decision is simpler than the size suggests, because one factor dominates everything else: **are you near a BTS/MRT station or not?**\n\nThe Skytrain and metro are fast, cheap and air-conditioned; the roads are a famous crawl. A modest hotel two minutes from a station beats a luxury one stranded in traffic. The catch — and it's a real one — is that **the royal old city (Grand Palace, Wat Pho, Khao San) has no train line**, so you're always trading transit convenience against walking distance to the big sights.\n\nThe five zones that matter:\n\n- **Rattanakosin / old city** — temples at your door, no train\n- **Riverside** — the romantic option, boats instead of trains\n- **Sukhumvit** — maximum BTS convenience, food and nightlife\n- **Silom / Sathorn** — business district, calm, well-connected\n- **Chinatown & Khao San** — character bases with caveats\n\nOur general pick for first-timers is **lower Sukhumvit or Silom near a station**, doing the [old city as a morning trip](/thailand/bangkok/bangkok-grand-palace-wat-pho-wat-arun-guided-tour) rather than sleeping there. But it genuinely depends on what your evenings look like — that's what the rest of this guide sorts out.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Grand Palace, Wat Pho & Wat Arun Guided Tour", description: "Stay near a station, and let a guided morning handle the train-less old city — logistics, ferries and history included.", price: "From $30", duration: "4-5 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" }
+                    },
+                    {
+                        title: "Riverside & the Old City: Atmosphere First",
+                        icon: "Star",
+                        content: "**Riverside (Chao Phraya)** — Bangkok's most atmospheric place to wake up. The grand riverside hotels have defined luxury here for a century, and a wave of boutique conversions in old warehouses and shophouses now covers the mid-range. Your transport is the river itself: hotel shuttle boats and the Chao Phraya Express connect you to [Wat Arun](/thailand/bangkok/wat-arun), the Grand Palace piers and ICONSIAM.\n\n*Stay here if*: it's a honeymoon, a first trip focused on the classic sights, or you want the [dinner-cruise-and-temples](/thailand/bangkok/bangkok-chao-phraya-dinner-cruise-luxury-river) version of Bangkok. *Trade-off*: reaching Sukhumvit's restaurant scene means boat + BTS, and it's the priciest zone per star.\n\n**Rattanakosin / Old City** — Sleeping among the temples. Small heritage hotels and guesthouses put you ten minutes' walk from [Wat Pho](/thailand/bangkok/wat-pho) — which means you can be at the [Grand Palace](/thailand/bangkok/grand-palace-bangkok) at 8:30 opening while everyone else is still on the train. Evenings are quiet; the district sleeps early.\n\n*Stay here if*: temples are the core of your trip and you like quiet nights. *Trade-off*: no BTS/MRT — everything else is a taxi or boat away.\n\n**Chinatown (Yaowarat)** — The boldest choice and increasingly a stylish one, with heritage shophouse hotels above Bangkok's greatest [street-food district](/thailand/bangkok/chinatown-yaowarat-bangkok). The MRT's Wat Mangkon station (2019) fixed the old access problem. *Trade-off*: noisy, chaotic, and most stalls close Mondays."
+                    },
+                    {
+                        title: "Sukhumvit & Silom: Convenience First",
+                        icon: "CheckCircle2",
+                        content: "**Sukhumvit** — The long spine of modern Bangkok, strung along the BTS line, and the highest concentration of hotels, restaurants, rooftop bars and malls in the city. The sois (side streets) each have a personality: **Thonglor/Ekkamai** for Bangkok's best food-and-cocktail scene, **Asok/Nana** for maximum convenience with a seedier edge at street level, **Phrom Phong** for malls and family-friendly polish.\n\n*Stay here if*: you want to step out of your hotel into working Bangkok — eating, shopping, nightlife — and ride the BTS everywhere. *Trade-off*: it's the least \"classic Bangkok\" zone; temples are a 30–40 minute journey. Be aware that parts of Nana and Asok host the red-light scene; if that matters to you, aim for Phrom Phong and east.\n\n**Silom / Sathorn** — The business district: calmer streets, embassies, serious hotels at surprisingly good prices on weekends (business hotels discount when the suits leave). Lumpini Park across the road for morning runs, both BTS and MRT lines, and Patpong night market if you want it. *Stay here if*: you want quality, calm and connectivity without Sukhumvit's intensity. This is the sensible-money pick.\n\n**Khao San Road area** — The backpacker legend, covered honestly in [our Khao San guide](/thailand/bangkok/khao-san-road-bangkok). Cheap beds, walking distance to the temples, and noise that goes to 2 AM. Banglamphu's quieter lanes (Phra Athit, Samsen) give you the location without sleeping on the party."
+                    },
+                    {
+                        title: "Quick Picks by Traveller, and What Things Cost",
+                        icon: "Wallet",
+                        content: "**Choose by traveller type:**\n\n- **First trip, classic sights** → Riverside or Silom\n- **Food, nightlife, shopping** → Sukhumvit (Thonglor for taste, Asok for convenience)\n- **Temples at dawn, quiet nights** → Rattanakosin old city\n- **Budget** → Banglamphu (near Khao San) or Chinatown\n- **Families** → Riverside (pools, boats) or Phrom Phong\n- **Solo women** → Silom/Sathorn or Phrom Phong — well-lit, transit-connected\n- **One night before a flight** → anywhere on the Airport Rail Link (Phaya Thai/Makkasan)\n\n**What accommodation costs** (2026, per night): hostel dorms ฿350–600; decent guesthouse double ฿800–1,500; solid 3–4 star near a BTS station ฿1,800–3,500; riverside five-stars ฿6,000–15,000. Bangkok remains one of the world's best-value hotel cities — the ฿2,500 hotel here would cost triple in Singapore.\n\n**Booking windows**: Bangkok's supply is vast, so outside Christmas–New Year and Chinese New Year you can book 2–3 weeks out. For [peak season](/thailand/bangkok/best-time-to-visit-bangkok) riverside properties, go earlier.\n\n**One warning**: \"Sukhumvit\" in a hotel name can mean soi 4 or soi 104 — twenty BTS minutes apart. Check the *soi number* and the nearest station, not the district name, before you book. Anything more than 10 minutes' walk from a station quietly costs you an hour a day."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best area to stay in Bangkok?", a: "**Lower Sukhumvit or Silom near a BTS/MRT station** for most visitors — you'll use the train constantly. Choose **Riverside** for a romantic classic-sights trip, the **old city** if temples at dawn matter more than evening options, and **Banglamphu/Khao San** on a budget." },
+                    { q: "Should I stay near the Grand Palace?", a: "Only if temples are the heart of your trip. The old city has no BTS/MRT, so everything else means taxis or boats. The advantage is real though: you can reach the Grand Palace at 8:30 AM opening on foot, ahead of every tour bus." },
+                    { q: "Is Sukhumvit a good area to stay?", a: "Yes — it's the most convenient zone in Bangkok, strung along the BTS with the city's best food and nightlife. Check the soi number: Thonglor/Ekkamai for restaurants and bars, Phrom Phong for families, Asok for pure convenience (with a red-light edge at street level around Nana)." },
+                    { q: "How much do hotels cost in Bangkok?", a: "Dorms ฿350–600, guesthouses ฿800–1,500, good 3–4 star hotels near a station ฿1,800–3,500, riverside five-stars ฿6,000–15,000 per night. Bangkok is one of the best-value hotel cities in the world." },
+                    { q: "Is Khao San Road a good place to stay?", a: "For nightlife-first budget travellers, yes. For everyone else, the surrounding **Banglamphu** lanes (Phra Athit, Samsen) offer the same temple-adjacent location without the 2 AM noise. Full detail in our Khao San Road guide." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best area to stay in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Lower Sukhumvit or Silom near a BTS/MRT station for most visitors. Riverside for a romantic classic-sights trip, the old city if temples matter most, Banglamphu/Khao San on a budget." } },
+                                { "@type": "Question", "name": "Should I stay near the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "Only if temples are the heart of your trip — the old city has no BTS/MRT. The advantage: you can reach the Grand Palace at 8:30 AM opening on foot, ahead of the tour buses." } },
+                                { "@type": "Question", "name": "How much do hotels cost in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Dorms ฿350–600, guesthouses ฿800–1,500, good 3–4 star hotels near a station ฿1,800–3,500, riverside five-stars ฿6,000–15,000 per night." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Best All-Round', value: 'Sukhumvit / Silom near BTS' },
+                    { icon: 'Map', label: 'Golden Rule', value: 'Sleep near a station' },
+                    { icon: 'Wallet', label: 'Good 3–4 Star', value: '฿1,800–3,500/night' }
+                ]
+            };
+
+        case "bangkok-street-food-guide":
+            return {
+                title: "Bangkok Street Food Guide 2026: What to Eat, Where, and How Not to Get Sick",
+                description: "Bangkok is the world's best street-eating city. The essential dishes, the districts that matter after the Michelin era, honest food-safety rules and what a great food night costs.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313223/tours/bangkok/g1colft5oe0lgmioifam.jpg",
+                sections: [
+                    {
+                        title: "Why Bangkok Is the World's Best Street-Eating City",
+                        icon: "Star",
+                        content: "Other cities have great street food. Bangkok has a **street-food civilisation** — an ecosystem where a single-wok vendor can cook one dish for forty years, earn a **Michelin listing** without adding a second table, and still charge ฿60. The Michelin guide arrived in Bangkok in 2018 and did something unusual: instead of gentrifying the scene, it validated it, listing dozens of stalls and shophouses in the Bib Gourmand tier.\n\nThe structural reason it's so good: Thai home kitchens are small and eating out is the default, so the street is where ordinary Bangkok eats three meals a day. That means volume, and volume means turnover, specialisation and ruthless quality selection. A stall that isn't excellent doesn't survive on a street with forty rivals.\n\nOne piece of honest context for 2026: **street food is under pressure**. City pavement-clearing campaigns since 2016 have pushed vendors off some famous streets, and the scene is consolidating into districts and markets rather than lining every road. It's still magnificent — but eat it now, and eat it where it actually lives: [Chinatown](/thailand/bangkok/chinatown-yaowarat-bangkok) after dark, the old city's shophouses, Victory Monument's boat-noodle alley, and the morning markets.\n\nIf you want the compressed version with an expert ordering for you, the [backstreets food tour](/thailand/bangkok/backstreets-food-tour-with-15-tastings) does 15+ tastings in four hours — the fastest possible education in what this city eats.",
+                        tourCard: { slug: "backstreets-food-tour-with-15-tastings", title: "Bangkok Backstreets Food Tour — 15+ Tastings", description: "The stalls tourists never find, with a local expert who orders in Thai — 15+ tastings across Bangkok's backstreets.", price: "From $75", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313223/tours/bangkok/g1colft5oe0lgmioifam.jpg" }
+                    },
+                    {
+                        title: "The Essential Dishes (Beyond Pad Thai)",
+                        icon: "CheckCircle2",
+                        content: "**Pad kaprao** — Not pad thai, *this* is Bangkok's true daily dish: meat flash-fried with holy basil, chilli and garlic over rice, crowned with a crispy fried egg (*kai dao*). Order it *moo grob* (crispy pork) once in your life.\n\n**Boat noodles (kuay tiew ruea)** — Intense, small bowls, ordered by the stack. The alley beside Victory Monument is the temple of it.\n\n**Guay jub** — Peppery rolled-noodle soup with crispy pork — Chinatown's signature, covered in our [Yaowarat guide](/thailand/bangkok/chinatown-yaowarat-bangkok).\n\n**Som tam + gai yang + sticky rice** — The Isaan (northeastern) trinity: pounded green-papaya salad, grilled chicken, sticky rice. The som tam vendor's mortar is the soundtrack of every Bangkok soi.\n\n**Khao man gai** — Poached chicken on garlic rice with a ginger-soybean sauce; the pink-shirt shops at Pratunam made it famous.\n\n**Moo ping** — Charcoal pork skewers with sticky rice: breakfast of the city's commuters, ฿10–15 a stick.\n\n**Kuay tiew** in all its forms — the noodle-soup carts where you choose noodle, broth and protein. Season it yourself with the four-jar caddy: fish sauce, sugar, chilli flakes, vinegar chillies. *Seasoning your own bowl is expected* — the cook serves it neutral.\n\n**Khao niao mamuang** — Mango sticky rice, in season (roughly March–June) transcendent.\n\n**Jok** — Rice porridge with pork balls and ginger: the morning-after dish, and the reason to be awake at 7 AM at least once.\n\nRule of thumb: **order what the stall is named for.** Single-dish specialists are the whole point of the system."
+                    },
+                    {
+                        title: "Where to Eat: The Districts That Matter Now",
+                        icon: "Map",
+                        content: "**Chinatown (Yaowarat)** — The undisputed capital, 6:30–9:30 PM, closed-ish Mondays. Full walkthrough in the [Chinatown guide](/thailand/bangkok/chinatown-yaowarat-bangkok).\n\n**Victory Monument** — The boat-noodle alley along the canal: a dozen rival houses, bowls from ฿15, stack your empties to keep count. Zero tourists, maximum Bangkok.\n\n**Old city shophouses (Tha Tien / Phraeng Phuton)** — Century-old family shops between the temples: pad thai institutions, beef-noodle specialists, old-school ice cream. Perfect lunch territory after the [Grand Palace circuit](/thailand/bangkok/bangkok-grand-palace-wat-pho-wat-arun-guided-tour).\n\n**Wang Lang Market** (Thonburi side, opposite Siriraj) — A working lunch market for hospital staff and students: dense, cheap, superb southern-Thai stalls. Take the cross-river ferry — the trip is half the fun.\n\n**Or Tor Kor Market** — The premium produce market next to Chatuchak; the cooked-food section is arguably Bangkok's best market eating, and it's air-conditioned-adjacent civilised. Pairs perfectly with a [Chatuchak weekend](/thailand/bangkok/chatuchak-weekend-market).\n\n**Ratchawat / Sriyan** — The connoisseur's district north of the old city: Michelin-listed grilled pork, duck specialists, almost no English menus. Go hungry, point politely.\n\n**After dark on wheels** — the classic finisher: a [tuk-tuk night food tour](/thailand/bangkok/bangkok-tuk-tuk-chinatown-street-food-temple-night-tour) threading Chinatown stalls, the flower market and lit-up temples between courses.",
+                        tourCard: { slug: "bangkok-tuk-tuk-chinatown-street-food-temple-night-tour", title: "Tuk-Tuk Night Tour: Chinatown Street Food & Temples", description: "Street-food stops, the midnight flower market and glowing temples, stitched together by tuk-tuk — Bangkok's most fun four hours.", price: "From $20", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389267/tours/bangkok-tuktuk/acrxznz7xjtwcfvgxn02.jpg" }
+                    },
+                    {
+                        title: "Food Safety, Budgets and How to Order",
+                        icon: "ShieldCheck",
+                        content: "**The honest food-safety rules** — Bangkok street food has an exaggerated scare reputation. The real risk factors are specific and avoidable:\n\n- **Follow turnover, not appearance.** A busy stall's food never sits; a quiet stall's does. The shabby-looking place with a queue is safer than the clean-looking one without.\n- **Eat what's cooked in front of you, hot.** Wok dishes, grilled skewers, boiled noodles — essentially always fine.\n- **Be choosier with**: pre-cut fruit late in the day, raw seafood salads, anything mayonnaise-based sitting in the sun.\n- **Ice is fine** — the cylindrical ice with a hole is factory-made and standard. Tap water isn't for drinking; bottled water is ฿10 at every 7-Eleven.\n- If you have a delicate stomach, ease in: cooked-to-order dishes for the first days, adventure after.\n\n**Budget**: dishes run **฿40–80**; a spectacular self-guided evening of five stops is **฿300–500** per person. Guided food tours ($20–77) buy expertise and access, not just food.\n\n**Ordering without Thai**: point and smile works everywhere. Useful words: *mai phet* (not spicy), *phet nit noi* (a little spicy), *mai sai phak chee* (no coriander), *aroi mak* (delicious — say it, it lands well), *check bin* (bill please). Numbers are easy: most vendors have a calculator to show you the price.\n\n**Etiquette**: share tables when it's busy, don't occupy a stall's table with 7-Eleven drinks, and carry small notes — a ฿1,000 bill at a ฿50 stall is genuinely unhelpful.\n\nWhen you're ready to go deeper than one city's streets: our [3-day Bangkok itinerary](/thailand/bangkok/3-day-bangkok-itinerary) builds every evening around eating, and [Chiang Mai's food guide](/thailand/chiang-mai/khao-soi-chiang-mai-food-guide) covers the entirely different northern kitchen."
+                    }
+                ],
+                faqs: [
+                    { q: "Is Bangkok street food safe to eat?", a: "Broadly yes — it's some of the highest-turnover, best-selected street food on Earth, with dozens of Michelin-listed stalls. Follow the real rules: busy stalls, food cooked hot in front of you, caution with pre-cut fruit and raw seafood late in the day. Factory ice (cylindrical, with a hole) is fine." },
+                    { q: "What street food should I try in Bangkok?", a: "**Pad kaprao** with a crispy fried egg (the city's true daily dish), **boat noodles** at Victory Monument, **guay jub** in Chinatown, the Isaan trio of **som tam, grilled chicken and sticky rice**, **khao man gai**, and **mango sticky rice** in season (March–June). Order what the stall specialises in." },
+                    { q: "How much does street food cost in Bangkok?", a: "**฿40–80 per dish** at street level. A superb five-stop evening runs ฿300–500 per person self-guided. Even the Michelin Bib Gourmand stalls rarely pass ฿100–200 a dish." },
+                    { q: "Where is the best street food in Bangkok?", a: "**Chinatown (Yaowarat) after dark** is the capital. Beyond it: Victory Monument's boat-noodle alley, the old-city shophouses near Wat Pho, Wang Lang Market across the river, and Or Tor Kor market's cooked-food section beside Chatuchak." },
+                    { q: "Is street food disappearing from Bangkok?", a: "It's consolidating rather than disappearing — pavement-clearing campaigns since 2016 pushed vendors off some famous roads, and the scene now concentrates in districts and markets (Chinatown, Victory Monument, the markets) rather than lining every street. It remains magnificent; eat it where it actually lives." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "Is Bangkok street food safe to eat?", "acceptedAnswer": { "@type": "Answer", "text": "Broadly yes. Follow the real rules: busy stalls, food cooked hot in front of you, caution with pre-cut fruit and raw seafood late in the day. Factory ice is fine." } },
+                                { "@type": "Question", "name": "What street food should I try in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Pad kaprao with a crispy fried egg, boat noodles at Victory Monument, guay jub in Chinatown, som tam with grilled chicken and sticky rice, khao man gai, and mango sticky rice in season." } },
+                                { "@type": "Question", "name": "How much does street food cost in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "฿40–80 per dish. A superb five-stop evening runs ฿300–500 per person self-guided." } },
+                                { "@type": "Question", "name": "Where is the best street food in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Chinatown (Yaowarat) after dark is the capital. Also Victory Monument's boat-noodle alley, the old-city shophouses, Wang Lang Market and Or Tor Kor market." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'True Daily Dish', value: 'Pad kaprao + fried egg' },
+                    { icon: 'Map', label: 'Capital District', value: 'Yaowarat, 6:30–9:30 PM' },
+                    { icon: 'Wallet', label: 'Per Dish', value: '฿40–80' }
+                ]
+            };
+
+        case "khao-san-road-bangkok":
+            return {
+                title: "Khao San Road in 2026: What It Actually Is Now (Honest Guide)",
+                description: "From rice market to backpacker legend to post-2020 rebuild — what Khao San Road is really like today, whether it's worth visiting, staying near, or skipping entirely.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773771518/tours/bangkok/midnight_food_1773771515522_0.jpg",
+                sections: [
+                    {
+                        title: "From Rice Market to Backpacker Capital",
+                        icon: "History",
+                        content: "**Khao San** means \"milled rice\" — for most of its history this 400-metre street in Banglamphu was exactly that, a rice-trading market serving the old royal district. The transformation began in the early 1980s, when Bangkok hosted a papal visit and the city's hotels overflowed; Banglamphu families started renting rooms to foreigners, and the location — walking distance from the [Grand Palace](/thailand/bangkok/grand-palace-bangkok) and Wat Pho, in a city that then had no Skytrain — made it the natural landing strip for the overland backpacker wave.\n\nBy the 1990s it was the most famous budget-travel street on Earth: the place you bought a fake press card, a bus ticket to Cambodia, a banana pancake and a paperback, in any order. Alex Garland's *The Beach* (1996) opens here and called it \"the centre of the backpacking universe,\" and the 2000 film cemented the mythology.\n\nThen came the plot twist. The city rebuilt the street in 2020 — a ฿48-million repaving that formalised the vendor zones — and the pandemic emptied it entirely for two years. What reopened is a different animal: **younger, more Thai, more Instagram than gap-year**. Thai students and tourists now crowd it as heavily as foreigners, the buckets and fire shows remain, but the scruffy overland soul largely moved on — to Chiang Mai, to hostels city-wide, to nowhere in particular. Khao San in 2026 is a nightlife strip with a legend attached, and it's better to arrive knowing that."
+                    },
+                    {
+                        title: "What It's Like Now: A Night on the Strip",
+                        icon: "Info",
+                        content: "**By day**, Khao San is honestly a bit sad — shuttered bars, hungover cafés, vendors setting up. There's little reason to come before late afternoon.\n\n**From about 7 PM it becomes what it is**: a wall-to-wall corridor of bars with competing sound systems, street cocktail carts, ฿100 pad thai, fried-scorpion sellers (a pure photo-op economy — Thais don't eat them), hair-braiding, tattoo studios open past midnight, and a crowd that's now half young Thai, half international. The energy peaks 10 PM–1 AM and it is, taken on its own terms, genuinely fun — loud, silly, cheap and completely unpretentious.\n\n**What's worth doing**: one drink at a rooftop or balcony bar watching the river of people; the street-food carts at the Chakrabongse end; a wander down parallel **Soi Rambuttri**, which is Khao San's mellower sibling — same area, live acoustic music, actual conversation possible.\n\n**What to skip**: the laughing-gas balloons (illegal, enforced in waves), anything a tout leads you to, the ping-pong-show offers (a scam pipeline), and buying anything electronic.\n\n**Prices** run higher than the backpacker myth suggests: cocktail buckets ฿250–350, beers ฿80–120, pad thai ฿60–100. Cheap for a nightlife district, no longer the world's cheapest street.\n\n**The real case for the area** isn't the strip at all — it's that you're a ten-minute walk from the old city, which means [Grand Palace at opening](/thailand/bangkok/bangkok-grand-palace-wat-pho-wat-arun-guided-tour) without a commute, and Phra Athit's riverside cafés for recovery."
+                    },
+                    {
+                        title: "Stay Here, Visit, or Skip? An Honest Sorting",
+                        icon: "CheckCircle2",
+                        content: "**Stay on Khao San itself if**: you're here to party, you're travelling solo and want the easiest social scene in Bangkok, and you can sleep through bass. Hostels and guesthouses run ฿350–800.\n\n**Stay *near* it instead if**: you want the location without the noise. **Soi Rambuttri**, **Phra Athit Road** (riverside, cafés, the old fort) and the **Samsen sois** across the canal are five minutes away, half as loud, and noticeably nicer per baht. This is the correct move for most people who like the area — full comparison in [where to stay in Bangkok](/thailand/bangkok/where-to-stay-in-bangkok).\n\n**Just visit for an evening if**: you're curious. That's the honest recommendation for most travellers — come at 8 PM, eat, drink one bucket, absorb the spectacle, walk Rambuttri, leave by midnight. It slots neatly into day 1 or 2 of the [3-day itinerary](/thailand/bangkok/3-day-bangkok-itinerary) since you're already in the old city for the temples.\n\n**Skip it entirely if**: crowds and noise are what you came to Thailand to avoid. Nothing on Khao San is unmissable; [Chinatown after dark](/thailand/bangkok/chinatown-yaowarat-bangkok) is a far better use of a Bangkok evening if you only have a few.\n\n**Getting there**: no BTS/MRT nearby — that's the area's structural weakness. Chao Phraya Express to **Phra Athit pier** (then a 5-minute walk) is the pleasant way; otherwise Grab. Budget 30–45 minutes from Sukhumvit in the evening.\n\n**Safety**: it's dense, policed and broadly safe. Standard rules — watch your phone in the crush, count your change, ignore touts, and know that the \"gem sale\" and \"palace is closed\" scams work this street specifically because it's full of first-day arrivals.",
+                        tourCard: { slug: "bangkok-street-food-tuk-tuk-night-tour", title: "Bangkok After Dark: Street Food & Tuk-Tuk Night Tour", description: "The better version of a Khao San night — real street food, the flower market and lit-up temples by tuk-tuk, ending near the strip if you want it.", price: "From $77", duration: "4 hours", rating: "4.8", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773771518/tours/bangkok/midnight_food_1773771515522_0.jpg" }
+                    }
+                ],
+                faqs: [
+                    { q: "Is Khao San Road still worth visiting?", a: "For one evening, yes — it's loud, silly, cheap fun and a genuine piece of travel history. It's no longer the scruffy backpacker capital of the myth: since the 2020 rebuild and reopening it's a nightlife strip that's as much young-Thai as international. Come at 8 PM, stay past midnight only if it's your scene." },
+                    { q: "Where does the name Khao San come from?", a: "**\"Milled rice\"** — the street was a rice-trading market for the old royal district for most of its history. The backpacker era only began in the early 1980s, when Banglamphu families started renting rooms to overflow visitors and the street grew into the world's most famous budget-travel strip." },
+                    { q: "Should I stay on Khao San Road?", a: "Only if partying is the point. Otherwise stay **near** it — Soi Rambuttri, Phra Athit Road or the Samsen sois are five minutes away, far quieter, and better value. You keep the unbeatable old-city location (Grand Palace on foot) without the 2 AM bass." },
+                    { q: "How do I get to Khao San Road?", a: "There's no BTS/MRT nearby — the area's one structural weakness. Take the Chao Phraya Express Boat to **Phra Athit pier** and walk five minutes, or use Grab. From Sukhumvit in the evening, budget 30–45 minutes." },
+                    { q: "Is Khao San Road safe?", a: "Broadly yes — dense, well-policed, and full of people. Watch your phone in the crush, ignore touts, and be aware the classic Bangkok scams (\"the palace is closed today\", the gem shop detour) target this street precisely because it's full of first-day arrivals." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "Is Khao San Road still worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "For one evening, yes. It's no longer the scruffy backpacker capital of the myth — since the 2020 rebuild it's a nightlife strip that's as much young-Thai as international. Come at 8 PM." } },
+                                { "@type": "Question", "name": "Should I stay on Khao San Road?", "acceptedAnswer": { "@type": "Answer", "text": "Only if partying is the point. Otherwise stay near it — Soi Rambuttri, Phra Athit Road or the Samsen sois are five minutes away, quieter and better value." } },
+                                { "@type": "Question", "name": "How do I get to Khao San Road?", "acceptedAnswer": { "@type": "Answer", "text": "No BTS/MRT nearby — take the Chao Phraya Express Boat to Phra Athit pier and walk five minutes, or use Grab." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Clock', label: 'Come Alive', value: 'After 7 PM' },
+                    { icon: 'Map', label: 'Quieter Sibling', value: 'Soi Rambuttri (5 min)' },
+                    { icon: 'Wallet', label: 'Bucket / Beer', value: '฿250–350 / ฿80–120' }
+                ]
+            };
+
+        case "bangkok-kanchanaburi-day-trip":
+            return {
+                title: "Kanchanaburi & the Death Railway from Bangkok: 2026 Day Trip Guide",
+                description: "The Bridge on the River Kwai, Hellfire Pass and the war cemetery — the history of the Death Railway, how to visit from Bangkok, riding the surviving line, and what to skip.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782915474/tours/bangkok/tours/bangkok_1782915473158_0.jpg",
+                sections: [
+                    {
+                        title: "The History: Why This Railway Matters",
+                        icon: "History",
+                        content: "In 1942, Japan's army needed a supply line to its forces in Burma that avoided the sea route through the Malacca Strait, where Allied submarines were sinking its ships. The answer was a **415-kilometre railway from Ban Pong in Thailand to Thanbyuzayat in Burma**, driven through jungle and rock that British engineers had surveyed decades earlier and rejected as too brutal to build.\n\nJapan built it in sixteen months, using forced labour: around **60,000 Allied prisoners of war** — British, Australian, Dutch, American — and a far larger, less remembered workforce of around **200,000 Asian civilian labourers** (the *romusha*) conscripted from Malaya, Burma, and the Dutch East Indies.\n\nThe cost gave the line its name. Roughly **12,000 POWs and an estimated 90,000 Asian labourers died** — of cholera, starvation, exhaustion and beatings — a death for nearly every sleeper laid, as the survivors put it. The most lethal stretch was **Hellfire Pass (Konyu Cutting)**, a channel hacked through solid rock by men working eighteen-hour shifts by torchlight; the flickering fires and skeletal figures reminded survivors of hell, and the name stuck.\n\nThe bridge itself — made globally famous by the 1957 film *The Bridge on the River Kwai* — still stands at Kanchanaburi, rebuilt after Allied bombing, and a surviving section of the line still carries trains along the wooden **Wampo viaduct** hugging the cliff above the river. This is why Kanchanaburi is worth a long day from Bangkok: it's one of the few places where you can physically travel a piece of WWII history."
+                    },
+                    {
+                        title: "The Four Essential Stops",
+                        icon: "Map",
+                        content: "**1. The Bridge on the River Kwai** — The iconic span at Kanchanaburi town. The curved steel sections are the 1943 originals; the angular ones replaced the spans Allied bombers dropped in 1945. You can walk across it (trains still cross slowly, with refuge platforms). Go early — by mid-morning it's busy, and the adjacent floating restaurants and souvenir strip are the least dignified part of the site.\n\n**2. Kanchanaburi War Cemetery (Don Rak)** — Nearly **7,000 POW graves**, immaculately kept by the Commonwealth War Graves Commission. Reading the ages on the headstones — 19, 20, 21 — lands harder than any museum panel. Free, central, and the right place to start understanding what the bridge actually cost. The adjacent **Thailand-Burma Railway Centre** is the best museum in town and worth its ฿160.\n\n**3. Hellfire Pass & Memorial Museum** — 80 minutes further up-country, and the most moving site of the day. The Australian-government-maintained museum is excellent and free; below it you walk **into the cutting itself**, on the old rail bed, with an audio guide built on survivor testimony. Allow 1.5–2 hours. If you only have time for the bridge *or* Hellfire Pass, choose Hellfire Pass.\n\n**4. Riding the Death Railway** — A local train still runs the surviving Nam Tok branch, including the **Wampo viaduct**, where wooden trestles carry the track along a cliff face above the Kwae Noi river. Third-class carriages, windows open, ฿100 flat fare for foreigners. The 60–90 minute stretch between Kanchanaburi and Nam Tok is the ride that matters.\n\n**Skip or treat with care**: the \"long drive + elephant camp + bamboo raft\" combo stops padded into some cheap tours. If elephants are on your list, do it properly via a [no-riding sanctuary](/thailand/bangkok/bangkok-ethical-elephant-sanctuary-day-trip) instead."
+                    },
+                    {
+                        title: "How to Do It: DIY vs Guided, Timings and Practicalities",
+                        icon: "Ticket",
+                        content: "**The geography problem**: Kanchanaburi town is 130 km west of Bangkok (2–2.5 hours), but Hellfire Pass is another 80 km beyond the town. Seeing bridge + cemetery + Hellfire Pass + a train ride in one day is a genuine 12-hour logistics exercise — this is the day trip where a guided tour earns its price most clearly.\n\n**Guided (recommended for one day)** — Hotel pickup around 6:30–7 AM, the four sites in the right order, a guide who can actually explain what you're looking at, lunch, back by evening. Our [Death Railway, Bridge & Hellfire Pass day trip](/thailand/bangkok/bangkok-death-railway-bridge-river-kwai-hellfire-pass) runs the full 12–14 hour version; the [Kanchanaburi guided tour with lunch](/thailand/bangkok/kanchanaburi-guided-tour) is the 12-hour variant. From $86–99 — less than hiring a private driver for the same route.\n\n**DIY by train (the romantic two-day version)** — Weekend-friendly ordinary trains leave Thonburi station for Kanchanaburi twice daily (about 3 hours, ฿100). Stay a night by the river, do the bridge and cemetery in the evening cool, ride to Nam Tok next morning, songthaew to Hellfire Pass, return. As a *single* day from Bangkok, DIY doesn't fit — you'd see the bridge and nothing else.\n\n**Practicalities**: bring sun protection and real shoes (the Hellfire Pass walk is on rough rail bed), water, and modest respect at the cemetery — it's a working war grave, not a photo set. The river resorts and floating raft hotels make Kanchanaburi an easy overnight extension if your [Bangkok itinerary](/thailand/bangkok/3-day-bangkok-itinerary) has a spare day; the town is far more pleasant at dusk after the day-trip crowds leave.",
+                        tourCard: { slug: "bangkok-death-railway-bridge-river-kwai-hellfire-pass", title: "Death Railway, Bridge on the River Kwai & Hellfire Pass", description: "The full historical circuit in one long day — bridge, war cemetery, Hellfire Pass walk and the railway itself, with a guide who tells it properly.", price: "From $99", duration: "12-14 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389264/tours/bangkok-railway/sathnasamtcc4jsrdhw3.webp" }
+                    }
+                ],
+                faqs: [
+                    { q: "What was the Death Railway?", a: "A 415 km railway from Thailand to Burma built by the Japanese army in 1942–43 using forced labour: ~60,000 Allied POWs and ~200,000 Asian civilian labourers. Roughly 12,000 POWs and an estimated 90,000 labourers died building it — hence the name. The Bridge on the River Kwai and Hellfire Pass are its most famous surviving sections." },
+                    { q: "Can you do Kanchanaburi as a day trip from Bangkok?", a: "Yes, but it's a long one — the town is 2–2.5 hours away and Hellfire Pass another 80 km beyond. A guided 12–14 hour day covers the bridge, war cemetery, Hellfire Pass and a stretch of the railway. DIY by train only works as an overnight; in one day you'd see the bridge and little else." },
+                    { q: "Is the Bridge on the River Kwai real?", a: "Yes — it stands at Kanchanaburi and you can walk across it. The curved steel spans are the 1943 originals; the angular sections replaced spans destroyed by Allied bombing in 1945. (The 1957 film was shot in Ceylon, and the river was actually renamed to match the story — the bridge crosses what was the Mae Klong.)" },
+                    { q: "What is Hellfire Pass?", a: "**Konyu Cutting** — the deepest rock cutting on the railway, hacked by POWs working around the clock; the torchlit night shifts gave it its name. Today an excellent free Australian-maintained memorial museum sits above it, and you can walk the old rail bed through the cutting with a survivor-testimony audio guide. If you see one site, see this." },
+                    { q: "Can you still ride the Death Railway?", a: "Yes — local trains run the surviving Kanchanaburi–Nam Tok branch daily, including the wooden **Wampo viaduct** along the cliff above the river. Flat ฿100 fare for foreigners, third class, windows open. The viaduct stretch is the part worth riding." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What was the Death Railway?", "acceptedAnswer": { "@type": "Answer", "text": "A 415 km Thailand–Burma railway built by the Japanese army in 1942–43 with forced labour: ~60,000 Allied POWs and ~200,000 Asian labourers. Roughly 12,000 POWs and an estimated 90,000 labourers died building it." } },
+                                { "@type": "Question", "name": "Can you do Kanchanaburi as a day trip from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, but it's a 12–14 hour day covering the bridge, war cemetery, Hellfire Pass and a stretch of the railway. DIY by train only works as an overnight." } },
+                                { "@type": "Question", "name": "Can you still ride the Death Railway?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — local trains run the Kanchanaburi–Nam Tok branch daily, including the wooden Wampo viaduct. Flat ฿100 fare for foreigners." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Map', label: 'Distance', value: '130 km (+80 to Hellfire Pass)' },
+                    { icon: 'Clock', label: 'Full Circuit', value: '12–14 hours guided' },
+                    { icon: 'Star', label: "Don't Miss", value: 'Hellfire Pass walk' }
+                ]
+            };
+
         default:
             return null;
     }

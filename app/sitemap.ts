@@ -87,6 +87,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'bangkok-canal-tour', 'chatuchak-weekend-market', 'places-to-visit-in-bangkok',
     'best-time-to-visit-bangkok', '3-day-bangkok-itinerary',
     'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok',
+    'where-to-stay-in-bangkok', 'bangkok-street-food-guide',
+    'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),
@@ -111,6 +113,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const pattayaInfoPages = [
     'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
     'koh-larn-island-guide', 'where-to-stay-in-pattaya',
+    'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
+    'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),

@@ -191,7 +191,9 @@ export const BANGKOK_INFO_SLUGS = [
   'places-to-visit-in-bangkok',
   // Authority pages batch 2 (2026-08)
   'best-time-to-visit-bangkok', '3-day-bangkok-itinerary',
-  'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok'
+  'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok',
+  'where-to-stay-in-bangkok', 'bangkok-street-food-guide',
+  'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip'
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
@@ -202,7 +204,9 @@ export const CHIANG_MAI_INFO_SLUGS = [
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
-  'koh-larn-island-guide', 'where-to-stay-in-pattaya'
+  'koh-larn-island-guide', 'where-to-stay-in-pattaya',
+  'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
+  'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide'
 ];
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
