@@ -135,6 +135,18 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Boat Diving Day Trip to Pattaya & Samaesarn Reefs', slug: 'pattaya-dive-sites-full-day-tour', description: 'The most accessible diving in Thailand, including wreck sites', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098668/asiabylocals/tours/pattaya-fun-dives-in-pattaya-and-samaesarn-with-transfer/hq_tour_img_1.png', price: 'From $105', rating: '4.8' },
         { title: 'Private Pattaya Sightseeing Tour', slug: 'pattaya-city-private-tour', description: 'The city highlights at your own pace with a private local guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098619/asiabylocals/tours/pattaya-laem-chabang-port-private-city-highlights-tour/hq_tour_img_1.png', price: 'From $72', rating: '4.8' },
     ],
+    'krabi': [
+        { title: 'Krabi Classic 4-Island Tour with Snorkelling', slug: 'phra-nang-cave-beach-boat-tour', description: 'Phra Nang, Chicken, Tup & Poda by speedboat with hotel pickup', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364587/asiabylocals/tours/krabi-620-krabi-classic-4-island-tour-with-snorkeling-hotel-pickup/hq_tour_img_1.jpg', price: 'From $36' },
+        { title: "4 Islands & Krabi's Separated Sea by Longtail", slug: 'chicken-island-guided-tour', description: 'The Talay Waek sandbar at low tide, traditional longtail boat', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364677/asiabylocals/tours/krabi-627-krabi-4-islands-krabi-s-separated-sea-longtail-boat-tour/hq_tour_img_1.jpg', price: 'From $21' },
+        { title: 'Hong Islands Speedboat Tour with Lunch', slug: 'hong-island-boat-tour', description: 'The enclosed emerald lagoon — quieter than the 4-island circuit', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364536/asiabylocals/tours/krabi-615-krabi-hong-islands-speedboat-tour-with-lunch-snorkeling/hq_tour_img_1.jpg', price: 'From $33' },
+        { title: 'Tiger Cave Temple, Emerald Pool & Hot Springs', slug: 'tiger-cave-temple-spiritual-tour', description: "The 1,260-step climb plus Krabi's jungle pools — weather-proof", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364390/asiabylocals/tours/krabi-602-krabi-tiger-cave-temple-emerald-pool-and-hot-springs-tour/hq_tour_img_1.jpg', price: 'From $43' },
+        { title: 'Phi Phi Early Bird & 4 Islands by Speedboat', slug: 'maya-bay-adventure-boat-tour', description: 'Reach Maya Bay ahead of the Phuket fleet, then the Krabi islands', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364413/asiabylocals/tours/krabi-604-from-krabi-phi-phi-early-bird-4-islands-by-speedboat/hq_tour_img_1.jpg', price: 'From $88' },
+        { title: 'Ao Thalane Mangrove Kayaking Tour', slug: 'ao-thalane-guided-tour', description: 'Paddle tidal channels between karsts — runs when the sea does not', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364493/asiabylocals/tours/krabi-611-krabi-ao-thalane-mangrove-kayaking-tour-with-pickup/hq_tour_img_1.jpg', price: 'From $27' },
+        { title: 'Emerald Pool & Hot Spring Waterfall with ATV', slug: 'hot-spring-waterfall-guided-tour', description: "Krabi's inland jungle: mineral-blue pool and thermal stone tubs", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364651/asiabylocals/tours/krabi-625-krabi-emerald-pool-and-hot-spring-waterfall-with-atv-riding/hq_tour_img_1.jpg', price: 'From $74' },
+        { title: 'Klong Root Crystal Lake Kayaking Tour', slug: 'crystal-lake-mini-tour', description: 'Spring water so clear the kayaks look like they float on air', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364450/asiabylocals/tours/krabi-607-krabi-klong-root-crystal-lake-kayaking-tour/hq_tour_img_1.jpg', price: 'From $29' },
+        { title: 'Traditional Thai Cooking Class with a Local Chef', slug: 'ao-nang-cooking-food-tour', description: 'Market tour then southern Thai dishes cooked from scratch', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364546/asiabylocals/tours/krabi-616-krabi-traditional-thai-cooking-class-with-local-chef/hq_tour_img_1.jpg', price: 'From $48' },
+        { title: 'Phi Phi Beat-the-Crowds with Poda Sunrise Breakfast', slug: 'poda-island-sunrise-tour', description: 'Pre-dawn departure, breakfast on Poda, Maya Bay before the fleet', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364638/asiabylocals/tours/krabi-624-phi-phi-island-beat-the-crowds-poda-breakfast-at-sunrise/hq_tour_img_1.png', price: 'From $96' },
+    ],
 };
 
 const BANGKOK_SIDEBAR = [
@@ -200,6 +212,16 @@ const PATTAYA_SIDEBAR = [
     { name: 'Cabaret Shows', slug: 'pattaya-cabaret-shows-guide' },
 ];
 
+const KRABI_SIDEBAR = [
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-krabi' },
+    { name: 'Railay Beach', slug: 'railay-beach-krabi' },
+    { name: '4 Islands Tour', slug: 'krabi-4-islands-tour-guide' },
+    { name: 'Tiger Cave Temple', slug: 'tiger-cave-temple-krabi' },
+    { name: 'Where to Stay', slug: 'where-to-stay-in-krabi' },
+    { name: '3-Day Itinerary', slug: 'krabi-3-day-itinerary' },
+    { name: 'Krabi vs Phuket', slug: 'krabi-vs-phuket-which-to-visit' },
+];
+
 function renderIcon(name: string) {
     const props = { size: 20 };
     switch (name) {
@@ -259,6 +281,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         bangkok: BANGKOK_SIDEBAR,
         'chiang-mai': CHIANG_MAI_SIDEBAR,
         pattaya: PATTAYA_SIDEBAR,
+        krabi: KRABI_SIDEBAR,
     };
     const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || AGRA_SIDEBAR;
 

@@ -11,7 +11,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/safety-guidelines', '/support', '/supplier',
     '/getyourguide-viator-alternative',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
-    '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai', '/thailand/pattaya',
+    '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai', '/thailand/pattaya', '/thailand/krabi',
     '/sri-lanka', '/sri-lanka/colombo', '/sri-lanka/kandy', '/sri-lanka/galle',
     '/sri-lanka/sigiriya', '/sri-lanka/ella', '/sri-lanka/nuwara-eliya',
     '/nepal', '/nepal/kathmandu', '/nepal/pokhara', '/nepal/chitwan',
@@ -122,6 +122,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Krabi info pages
+  const krabiInfoPages = [
+    'best-time-to-visit-krabi', 'railay-beach-krabi',
+    'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',
+    'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
+    'krabi-vs-phuket-which-to-visit',
+  ].map(slug => ({
+    url: `${BASE_URL}/thailand/krabi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];
   const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
@@ -160,5 +173,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tourPages];
 }

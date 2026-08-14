@@ -208,6 +208,12 @@ export const PATTAYA_INFO_SLUGS = [
   'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
   'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide'
 ];
+export const KRABI_INFO_SLUGS = [
+  'best-time-to-visit-krabi', 'railay-beach-krabi',
+  'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',
+  'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
+  'krabi-vs-phuket-which-to-visit'
+];
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
   'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',

@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -94,6 +94,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'kashmir') return KASHMIR_INFO_SLUGS.includes(slug);
   if (c === 'chiang-mai') return CHIANG_MAI_INFO_SLUGS.includes(slug);
   if (c === 'pattaya') return PATTAYA_INFO_SLUGS.includes(slug);
+  if (c === 'krabi') return KRABI_INFO_SLUGS.includes(slug);
   return false;
 }
 

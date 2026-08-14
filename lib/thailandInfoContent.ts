@@ -3,6 +3,7 @@
 import type { CityInfoData } from './cityInfoContent';
 import { getChiangMaiInfoContent } from './chiangMaiInfoContent';
 import { getPattayaInfoContent } from './pattayaInfoContent';
+import { getKrabiInfoContent } from './krabiInfoContent';
 
 export function getThailandInfoContent(slug: string): CityInfoData | null {
     const chiangMai = getChiangMaiInfoContent(slug);
@@ -10,6 +11,9 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
 
     const pattaya = getPattayaInfoContent(slug);
     if (pattaya) return pattaya;
+
+    const krabi = getKrabiInfoContent(slug);
+    if (krabi) return krabi;
 
     switch (slug) {
 
