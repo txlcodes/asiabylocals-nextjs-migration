@@ -40,10 +40,13 @@ const COUNTRY_META: Record<string, {
   },
   thailand: {
     title: 'Thailand Tours & Experiences | Local Guides Across Thailand | AsiaByLocals',
-    description: 'Discover the best tours across Thailand with licensed local guides. Explore Bangkok temples, Phuket beaches, Chiang Mai culture & more. Authentic experiences with expert locals.',
+    description: 'Discover the best tours across Thailand with licensed local guides — Bangkok temples & street food, Phuket and Krabi islands, Chiang Mai culture and Pattaya. Authentic experiences with expert locals.',
     cities: [
       { name: 'Bangkok', slug: 'bangkok', image: '/bangkok-hero.webp', tagline: 'City of Temples & Street Food' },
       { name: 'Phuket', slug: 'phuket', image: '/phuket-hero.webp', tagline: 'Thailand\'s Island Paradise' },
+      { name: 'Krabi', slug: 'krabi', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364536/asiabylocals/tours/krabi-615-krabi-hong-islands-speedboat-tour-with-lunch-snorkeling/hq_tour_img_1.jpg', tagline: 'Limestone Karsts & Railay Beach' },
+      { name: 'Chiang Mai', slug: 'chiang-mai', image: '/chiang-mai-hero.webp', tagline: 'Lanna Temples & Mountains' },
+      { name: 'Pattaya', slug: 'pattaya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098597/asiabylocals/tours/pattaya-coral-island-speedboat-tour-with-lunch-and-transfer/hq_tour_img_1.png', tagline: 'Islands & Coast Near Bangkok' },
     ],
   },
 };
