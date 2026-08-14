@@ -82,6 +82,18 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
   'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
   'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Local Guide in Agra',
+  // 27.5k impressions / 61 clicks (0.22% CTR) at position 8.8 over 90 days. The
+  // page ranks for "taj mahal tickets"; the old title never said "tickets" or a
+  // price, so the listing lost the click. Ranking volatility is a real risk on a
+  // title change, but 0.22% CTR is a worse steady state.
+  'taj-mahal-entry-ticket': 'Taj Mahal Tickets 2026: Prices & How to Book',
+};
+
+// Meta description overrides for tour pages whose supplier-written
+// shortDescription doesn't answer the query the page actually ranks for.
+const SEO_DESCRIPTION_OVERRIDES: Record<string, string> = {
+  'taj-mahal-entry-ticket':
+    'Taj Mahal ticket prices 2026: ₹1,100 foreign adults, ₹50 Indians, +₹200 for the mausoleum. Skip the queue — we pre-book and meet you at the gate.',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {
@@ -181,7 +193,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       const tour = (data.success && data.tour) ? data.tour : (data.title ? data : null);
       if (tour) {
         // Always use CTR-optimized description with trust signals
-        const description = buildMetaDescription(tour, cityName);
+        const description = SEO_DESCRIPTION_OVERRIDES[slug] || buildMetaDescription(tour, cityName);
         // Use SEO override title if available, otherwise shorten the database title
         const seoTitle = SEO_TITLE_OVERRIDES[slug];
         const shortTitle = seoTitle || shortenTitleForMeta(tour.title);

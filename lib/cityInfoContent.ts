@@ -161,7 +161,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'agra-fort':
                 return {
                     title: "Agra Fort: The Imperial Red Fortress - Ultimate 2026 Guide",
-                    description: "Agra Fort 2026 guide: 94-acre UNESCO fortress, Mughal palaces, Taj Mahal views from Musamman Burj, entry fees & visiting tips.",
+                    seoTitle: "Agra Fort: Tickets, Timings & What to See",
+description: "Agra Fort ticket ₹650 foreign / ₹50 Indian, open sunrise to sunset. The 94-acre Mughal fortress, Musamman Burj and Taj views inside.",
                     heroImage: "/agra-fort-authority-hero.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Dynasties', value: 'Lodi, Mughal, Maratha, British' },
@@ -251,7 +252,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case '1-day-agra-itinerary':
                 return {
                     title: '1-Day Agra Itinerary (2026): A Precision Tactical Plan',
-                    description: 'Taj Mahal sunrise to Mehtab Bagh sunset — the hour-by-hour 1-day Agra itinerary covering all major Mughal sites in 2026.',
+                    seoTitle: "1 Day in Agra: The Perfect Itinerary 2026",
+description: 'Taj Mahal at sunrise, Agra Fort, Baby Taj and Mehtab Bagh at sunset — a tested one-day Agra plan with timings and travel times.',
                     heroImage: '/blog/itinerary-hero.jpg',
                     sections: [
                         {
@@ -318,7 +320,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'taj-mahal-ticket-price-2026':
                 return {
                     title: 'Taj Mahal Ticket Price 2026 (Official Updated Entry Fees)',
-                    description: 'Taj Mahal ticket price 2026: ₹1,300 foreigners, ₹250 Indians, ₹740 SAARC — digital-only booking, mausoleum fee & payment tips.',
+                    seoTitle: "Taj Mahal Ticket Price 2026: Full Breakdown",
+description: 'Taj Mahal ticket prices for 2026 by nationality, the extra mausoleum fee, night viewing costs and where to book without a markup.',
                     heroImage: '/things-to-do/agra-taj-mahal-sunrise.webp',
                     sections: [
                         {
@@ -432,7 +435,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'taj-mahal-opening-time':
                 return {
                     title: 'Taj Mahal Opening & Closing Time (2026): The Definitive Timing Guide',
-                    description: 'Taj Mahal opening time 2026: gates open 6 AM daily, closed Fridays, night viewing on full moons — seasonal hours & entry tips.',
+                    seoTitle: "Taj Mahal Opening & Closing Time 2026",
+description: 'Taj Mahal opens 6am and closes 30 min before sunset, every day except Friday. Night viewing on full moons — full 2026 timings inside.',
                     heroImage: '/things-to-do/agra-taj-mahal-sunset.webp',
                     sections: [
                         {
@@ -515,7 +519,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'is-taj-mahal-closed-on-friday':
                 return {
                     title: 'Is the Taj Mahal Closed on Friday? (2026 Strategy Guide)',
-                    description: 'Yes, the Taj Mahal is closed every Friday in 2026 for prayers. Mehtab Bagh views, Agra Fort & the best Friday itinerary instead.',
+                    seoTitle: "Is the Taj Mahal Closed on Friday? (Yes)",
+description: 'Yes — the Taj Mahal closes every Friday for prayers at its mosque. What to see in Agra instead, and how to plan your trip around it.',
                     heroImage: '/blog/friday-closure-hero.jpg',
                     sections: [
                         {
@@ -683,7 +688,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "taj-mahal":
                 return {
                     title: "Taj Mahal – Complete 2026 Visitor Guide",
-                    description: "Taj Mahal 2026 guide: history, architecture, sunrise strategy, ticket booking, best photography spots & what to see inside.",
+                    seoTitle: "Taj Mahal 2026: Tickets, Timings & Guide",
+description: "Everything for a Taj Mahal visit: 2026 ticket prices, opening hours, the Friday closure, best time of day and how long you need.",
                     heroImage: "/taj-mahal-new.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Year Built', value: '1631 - 1653' },
@@ -777,7 +783,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case 'fatehpur-sikri':
                 return {
                     title: "Fatehpur Sikri – Complete 2026 Visitor & History Guide",
-                    description: "Explore the most authoritative guide to Fatehpur Sikri. Built by Emperor Akbar in 1571, this UNESCO World Heritage site is a masterpiece of Mughal architecture. Learn about its history, key structures like Buland Darwaza, and tactical travel advice for 2026.",
+                    seoTitle: "Fatehpur Sikri: Opening Hours & Tickets 2026",
+description: "Fatehpur Sikri opens daily sunrise to sunset. Ticket ₹610 foreign / ₹50 Indian; the Jama Masjid side is free. Getting there from Agra.",
                     heroImage: "/fatehpur-sikri-hero.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Era', value: '1571 - 1585 (Mughal)' },
@@ -990,7 +997,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "delhi-to-agra":
                 return {
                     title: "Delhi to Agra: The Complete 2026 Transport & Travel Guide",
-                    description: "Delhi to Agra 2026: train, car, bus & tour options compared. Gatimaan Express, Shatabdi, Yamuna Expressway — costs, timings & expert tips.",
+                    seoTitle: "Delhi to Agra 2026: Train, Car or Bus?",
+description: "Delhi to Agra in 2026: Gatimaan Express in 100 minutes, private car in 3-4 hours, or bus. Real costs, timings and which to pick.",
                     heroImage: "/things-to-do/agra-transfer-car.webp",
                     fastFacts: [
                         { icon: 'Map', label: 'Distance', value: '188 km (117 miles)' },
@@ -1906,7 +1914,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "india-gate":
                 return {
                     title: "India Gate Delhi — History, Visiting Guide & Facts 2026",
-                    description: "India Gate Delhi: 42-metre war memorial, free 24/7 entry, best at sunset & night. History, Kartavya Path, metro access & visiting tips.",
+                    seoTitle: "India Gate Delhi: Timings, Entry & Tips",
+description: "India Gate is open 24/7 with free entry. Best visited after dark when it's lit — timings, metro access, parking and what's nearby.",
                     heroImage: "/india-gate.jpg",
                     fastFacts: [
                         { icon: "Ticket", label: "Entry Fee", value: "Free — open 24 hours" },
@@ -2346,7 +2355,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "1-day-jaipur-itinerary":
                 return {
                     title: "Jaipur 1-Day Itinerary 2026 — The Perfect One Day in the Pink City",
-                    description: "Hour-by-hour Jaipur 1-day itinerary: Amber Fort sunrise, City Palace, Hawa Mahal, bazaar walk & Nahargarh sunset.",
+                    seoTitle: "1 Day in Jaipur: The Perfect Itinerary 2026",
+description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for sunset — a tested one-day Jaipur route with timings and costs.",
                     heroImage: "/things-to-do/jaipur-amber-fort.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Start Time', value: '7:30 AM (early is essential)' },
