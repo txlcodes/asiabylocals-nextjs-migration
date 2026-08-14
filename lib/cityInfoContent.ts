@@ -1,7 +1,14 @@
 import { getThailandInfoContent } from './thailandInfoContent';
 
 export interface CityInfoData {
+    /** On-page H1. Can be long and descriptive. */
     title: string;
+    /**
+     * Meta <title> override. Keep the full tag (this + " | AsiaByLocals", 15 chars)
+     * under ~60 chars or Google truncates it, and front-load the words people
+     * actually search. Falls back to `title` when unset.
+     */
+    seoTitle?: string;
     description: string;
     heroImage: string;
     sections: any[];
@@ -3382,7 +3389,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "phuket-travel-guide-2026":
                 return {
                     title: "Phuket Travel Guide 2026 — Everything You Need to Know Before You Go",
-                    description: "Phuket 2026 travel guide: transport, where to stay, weather, budget, safety, customs & insider tips from licensed local guides.",
+                    seoTitle: "Phuket Travel Guide 2026: Beaches & Trips",
+                    description: "Which Phuket beach to stay on, island day trips worth booking, monsoon vs dry season, and what a week there actually costs.",
                     heroImage: "/things-to-do/phuket-resort-coastline.jpg",
                     fastFacts: [
                         { icon: 'Plane', label: 'Airport', value: 'Phuket Intl (HKT) — 32km north' },
@@ -3702,7 +3710,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "wat-chalong":
                 return {
                     title: "Wat Chalong Guide 2026 — Phuket's Most Important Temple",
-                    description: "Wat Chalong 2026: Phuket's most sacred temple — Grand Pagoda, history, dress code, visiting hours & Big Buddha combo guide.",
+                    seoTitle: "Wat Chalong Phuket: Hours, Dress Code & Tips",
+                    description: "Phuket's most sacred temple: free entry, 7am–5pm, a Grand Pagoda holding a Buddha relic. Dress code and the Big Buddha combo.",
                     heroImage: "/things-to-do/phuket-big-buddha.jpg",
                     fastFacts: [
                         { icon: 'History', label: 'Founded', value: 'Early 19th century' },
@@ -3947,7 +3956,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "james-bond-island-phuket":
                 return {
                     title: "James Bond Island Phuket — Complete Tour Guide 2026 (Phang Nga Bay)",
-                    description: "James Bond Island 2026: Ko Tapu needle rock, best tours from Phuket, sea cave canoeing & Koh Panyee floating village.",
+                    seoTitle: "James Bond Island 2026: Tours, Cost & Tips",
+                    description: "Ko Tapu and Phang Nga Bay from Phuket: tour prices, ฿300 park fee, sea-cave canoeing and the Koh Panyee stilt village.",
                     heroImage: "/things-to-do/phuket-james-bond-island.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Location', value: 'Phang Nga Bay, 100km from Phuket' },
@@ -4109,7 +4119,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "muay-thai-training-phuket":
                 return {
                     title: "Muay Thai Training in Phuket, Thailand - Best Camps, Classes & Booking Guide (2026)",
-                    description: "Complete guide to Muay Thai training in Phuket. Compare the best camps (Tiger, Bangtao, Sinbi & more), prices, beginner classes & book training with local instructors.",
+                    seoTitle: "Muay Thai Training Phuket: Camps & Prices",
+                    description: "Train Muay Thai in Phuket: beginner classes from ฿400, the main camps, what a session involves and what to bring. No experience needed.",
                     heroImage: "/things-to-do/phuket-muay-thai-training.jpg",
                     fastFacts: [
                         { icon: 'Map', label: 'Top camps', value: '15+ in Phuket' },
@@ -4397,7 +4408,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "bangkok-travel-guide-2026":
                 return {
                     title: "Bangkok Travel Guide 2026: Everything You Need to Know",
-                    description: "The definitive Bangkok travel guide for 2026. Visa requirements, best neighbourhoods to stay, how to get around, what to eat, temple etiquette, budget tips, and a day-by-day itinerary framework for first-time and returning visitors.",
+                    seoTitle: "Bangkok Travel Guide 2026: Plan Your Trip",
+                    description: "Where to stay, what to eat, using the BTS, temple dress code and the best months to visit — practical Bangkok planning for 2026.",
                     heroImage: "/bangkok-hero.webp",
                     fastFacts: [
                         { icon: 'Globe', label: 'Country', value: 'Thailand' },
@@ -4474,7 +4486,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "grand-palace-bangkok":
                 return {
                     title: "Grand Palace Bangkok: Tickets, Hours & What to Expect (2026)",
-                    description: "The complete guide to visiting the Grand Palace Bangkok. Ticket prices, opening hours, dress code, best time to visit, what to see inside, and how to skip the queues with a private licensed guide in 2026.",
+                    seoTitle: "Grand Palace Bangkok: Tickets, Hours & Dress",
+                    description: "Grand Palace tickets ฿500, open 8:30am–3:30pm daily. Dress code enforced — plus how to beat the 10am tour-bus crowds.",
                     heroImage: "/things-to-do/bangkok-grand-palace.webp",
                     fastFacts: [
                         { icon: 'Ticket', label: 'Entry Fee', value: '฿500 (includes Wat Phra Kaew)' },
@@ -4597,7 +4610,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "wat-arun":
                 return {
                     title: "Wat Arun Bangkok: Temple of Dawn Complete Guide 2026",
-                    description: "The complete guide to Wat Arun — Bangkok's iconic Temple of Dawn. Opening hours, ticket price, best time to visit, how to get there, and what to see at the porcelain-encrusted prang on the Chao Phraya River.",
+                    seoTitle: "Wat Arun 2026: Hours, Tickets & Best Time",
+                    description: "Wat Arun opens 8am–6pm, entry ฿200. Take the 3-baht ferry, go late afternoon not sunrise, and climb the prang for river views.",
                     heroImage: "/wat-arun-new.webp",
                     fastFacts: [
                         { icon: 'Ticket', label: 'Entry Fee', value: '฿100 per person' },
@@ -4727,7 +4741,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "floating-market-bangkok":
                 return {
                     title: "Floating Markets Near Bangkok: Which One to Visit in 2026",
-                    description: "The honest guide to Bangkok's floating markets in 2026. Compare Damnoen Saduak, Amphawa, and Taling Chan — which is most authentic, how to get there, what to expect, and whether it's worth your time.",
+                    seoTitle: "Bangkok Floating Markets: Which One in 2026",
+                    description: "Damnoen Saduak vs Amphawa vs Taling Chan — which floating market is actually worth it, what each costs and how to get there.",
                     heroImage: "/things-to-do/bangkok-ayutthaya.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Best Market', value: 'Amphawa (Fri–Sun evenings)' },
@@ -4803,7 +4818,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "bangkok-canal-tour":
                 return {
                     title: "Bangkok Canal Tour: The Complete Longtail Boat Guide (2026)",
-                    description: "Everything about Bangkok canal tours in 2026. Private longtail boat routes, prices, best departure points, what to see on the khlongs, and how to book a canal tour that shows you the real Bangkok.",
+                    seoTitle: "Bangkok Canal Tour: Longtail Boat Guide 2026",
+                    description: "Thonburi's khlongs by longtail boat — routes, prices, how long it takes and why the canals show the Bangkok the city built over.",
                     heroImage: "/things-to-do/bangkok-canal-tour.webp",
                     fastFacts: [
                         { icon: 'Ticket', label: 'Private Boat', value: '฿1,500–฿2,500 per hour' },
@@ -4865,7 +4881,8 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
             case "chatuchak-weekend-market":
                 return {
                     title: "Chatuchak Weekend Market: The Complete Guide (2026)",
-                    description: "Everything you need to know about Bangkok's Chatuchak Weekend Market — opening hours, how to get there, what to buy, best food stalls, section map, and insider tips for navigating the world's largest outdoor market in 2026.",
+                    seoTitle: "Chatuchak Market 2026: Opening Hours & Map",
+                    description: "Chatuchak Weekend Market opens Sat–Sun, 9am–6pm. Section map, what to buy, MRT directions and how to survive 15,000 stalls.",
                     heroImage: "/things-to-do/bangkok-chatuchak.webp",
                     fastFacts: [
                         { icon: 'Clock', label: 'Open', value: 'Sat–Sun, 9:00 AM – 6:00 PM' },

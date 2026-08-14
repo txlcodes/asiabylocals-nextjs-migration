@@ -150,15 +150,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const infoContent = getCityInfoContent(slug);
     const fallbackTitle = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
     const title = infoContent?.title || fallbackTitle;
+    // Meta title is deliberately separate from the H1: it has ~60 chars before
+    // Google truncates, and it needs to lead with the query, not the prose.
+    const metaTitle = infoContent?.seoTitle || title;
     const description = infoContent?.description || `Essential guide: ${fallbackTitle}. Everything you need to know before visiting ${cityName}.`;
     return {
-      title: `${title} | AsiaByLocals`,
+      title: `${metaTitle} | AsiaByLocals`,
       description,
       alternates: {
         canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
       },
       openGraph: {
-        title: `${title} | AsiaByLocals`,
+        title: `${metaTitle} | AsiaByLocals`,
         description,
         url: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
         siteName: 'AsiaByLocals',
