@@ -6330,5 +6330,271 @@ if (slug === "hong-island-boat-tour") {
       ];
     }
 
+    
+  // ===================== TOKYO, JAPAN =====================
+
+  if (slug === 'shibuya-crossing-walking-tour') {
+    return [
+      { question: "How is this different from a standard Tokyo tour?", answer: "There is **no fixed itinerary**. Your guide starts by asking what you actually want out of Tokyo — neon and crowds, or quiet back lanes; a temple morning, or a day of eating — and builds the route around that. Because the group is only your party, you can slow down, skip a stop or sit down whenever you like." },
+      { question: "How long is the day and how far do we walk?", answer: "**Six hours**, covering roughly **6–8 km on foot** with train rides between districts. Tell us in advance if anyone in your group has mobility limits and the route will be rebuilt around lifts and shorter legs." },
+      { question: "Can you pick us up from our hotel?", answer: "Yes, if you are staying in **central Tokyo** — otherwise you meet at the Hachiko statue outside Shibuya Station, which is easy to reach from anywhere on the Yamanote line." },
+      { question: "What does a typical day cover?", answer: "Usually **Shibuya Crossing** from street level and above, **Meiji Shrine** inside its forest of about 100,000 hand-planted donated trees, **Harajuku**, and **Senso-ji** in Asakusa — the city's oldest temple, standing since 645. All of it is negotiable." },
+      { question: "Are train fares included?", answer: "No — **you pay your own train and subway fares**, which usually comes to about **¥800–1,500** for a full day. Bring a charged **Suica or Pasmo** card; your guide will show you how the system works, which is a large part of the value on a first visit." },
+      { question: "Do I need cash?", answer: "Yes, bring some. Japan is far more card-friendly than it used to be, but **shrine offerings, small restaurants and older shops are still cash-only**." },
+      { question: "Is there a dress code at the temples and shrines?", answer: "There is no strict code, but Senso-ji and Meiji Shrine are **active places of worship**, so shoulders covered is the respectful and safe choice. Comfortable, broken-in walking shoes matter more — these are long days on foot." },
+    ];
+  }
+
+  if (slug === 'meiji-shrine-half-day-tour') {
+    return [
+      { question: "What can we realistically fit into four hours?", answer: "Comfortably **Meiji Shrine, Shibuya Crossing and one more district** — usually either Asakusa for Senso-ji or Nakano Broadway. Your guide will suggest a shape and you choose." },
+      { question: "What is Nakano Broadway and should we go?", answer: "A **1966 shopping complex that became the serious collector's alternative to Akihabara** — four floors of tiny units selling vintage manga, out-of-print figures, retro games and watches, run by specialists who have been there for decades. It is denser and stranger than Akihabara and most visitors never hear about it. Ask for it if anime, manga or collecting is your thing." },
+      { question: "Is it good for a first afternoon in Tokyo?", answer: "Yes, that is one of its best uses. **Four hours with a local on day one** gets you oriented, teaches you the train system with someone beside you, and makes the rest of the trip far less stressful." },
+      { question: "Is this private?", answer: "Yes — **only your party takes part**, and the guide is yours for the four hours." },
+      { question: "Are train fares included?", answer: "No — **you pay your own train and subway fares**, which usually comes to about **¥800–1,500** for a full day. Bring a charged **Suica or Pasmo** card; your guide will show you how the system works, which is a large part of the value on a first visit." },
+      { question: "Do I need cash?", answer: "Yes, bring some. Japan is far more card-friendly than it used to be, but **shrine offerings, small restaurants and older shops are still cash-only**." },
+      { question: "Is there a dress code at the temples and shrines?", answer: "There is no strict code, but Senso-ji and Meiji Shrine are **active places of worship**, so shoulders covered is the respectful and safe choice. Comfortable, broken-in walking shoes matter more — these are long days on foot." },
+    ];
+  }
+
+  if (slug === 'senso-ji-temple-guided-tour') {
+    return [
+      { question: "What makes the full-day route different from the half-day?", answer: "The full day adds **Yanaka and the Imperial Palace grounds** to the standard highlights. Yanaka is the piece most tours skip — one of the few Tokyo districts to survive **both the 1923 earthquake and the wartime firebombing**, so its wooden houses and temple lanes are genuinely old rather than reconstructed." },
+      { question: "How much walking is involved?", answer: "Roughly **7–9 km over six hours**, with train rides between districts and a proper sit-down lunch in the middle. Mention any mobility needs when you book." },
+      { question: "Is lunch included?", answer: "No — **lunch is at your own cost**, but your guide picks somewhere good and handles ordering, which is more useful than it sounds at a Japanese counter restaurant." },
+      { question: "Where does the day start and end?", answer: "It starts at **your hotel lobby or a central Tokyo station of your choice** and ends near a major station with directions for your evening." },
+      { question: "Are train fares included?", answer: "No — **you pay your own train and subway fares**, which usually comes to about **¥800–1,500** for a full day. Bring a charged **Suica or Pasmo** card; your guide will show you how the system works, which is a large part of the value on a first visit." },
+      { question: "Do I need cash?", answer: "Yes, bring some. Japan is far more card-friendly than it used to be, but **shrine offerings, small restaurants and older shops are still cash-only**." },
+      { question: "Is there a dress code at the temples and shrines?", answer: "There is no strict code, but Senso-ji and Meiji Shrine are **active places of worship**, so shoulders covered is the respectful and safe choice. Comfortable, broken-in walking shoes matter more — these are long days on foot." },
+    ];
+  }
+
+  if (slug === 'senso-ji-temple-highlights-guided-tour') {
+    return [
+      { question: "Is four hours enough for a first visit to Tokyo?", answer: "For the essentials, yes. You cover **Senso-ji, Meiji Shrine and Shibuya Crossing** — the three things most people would regret missing — with a guide handling the connections between them." },
+      { question: "Does this work for a layover?", answer: "It does, provided you have a comfortable margin at the airport. Both Narita and Haneda need real transfer time, so **budget generously** and tell us your flight when booking so the guide can shape the timing." },
+      { question: "Is it a group tour?", answer: "The route is guided for your party. Group size is capped at **8**, so it stays conversational rather than a following-a-flag experience." },
+      { question: "Can we choose the start time?", answer: "Yes — **morning or afternoon** both work. Afternoons are the common choice; mornings are quieter at Senso-ji." },
+      { question: "Are train fares included?", answer: "No — **you pay your own train and subway fares**, which usually comes to about **¥800–1,500** for a full day. Bring a charged **Suica or Pasmo** card; your guide will show you how the system works, which is a large part of the value on a first visit." },
+      { question: "Do I need cash?", answer: "Yes, bring some. Japan is far more card-friendly than it used to be, but **shrine offerings, small restaurants and older shops are still cash-only**." },
+      { question: "Is there a dress code at the temples and shrines?", answer: "There is no strict code, but Senso-ji and Meiji Shrine are **active places of worship**, so shoulders covered is the respectful and safe choice. Comfortable, broken-in walking shoes matter more — these are long days on foot." },
+    ];
+  }
+
+  if (slug === 'tokyo-backstreets-walking-tour') {
+    return [
+      { question: "Is this a scare attraction?", answer: "No. There are **no actors and no jump scares**. It is storytelling on foot after dark at places where things actually happened — closer to a history walk with a dark subject than a haunted house." },
+      { question: "What is the difference between yurei and yokai?", answer: "**Yurei** are the vengeful dead who return over a specific grievance — the closest thing to a Western ghost. **Yokai** are a vast catalogue of spirits that are as often mischievous or absurd as they are frightening. Japanese folklore is older and considerably stranger than the horror films that borrowed from it." },
+      { question: "Is any of it actually true?", answer: "Some of it is documented history — **fires, public executions, plagues and the sites where they happened**. Some is folklore told in these streets for centuries. Your guide is explicit about which is which, which makes both more interesting." },
+      { question: "Is it suitable for children?", answer: "The content covers **executions, fires and death**. It is fine for most adults and older teenagers; use your judgement with younger children." },
+      { question: "How much walking is there?", answer: "About **2–3 km on flat streets** over two hours, at an easy pace with frequent stops. It finishes near a station." },
+      { question: "What time does it start?", answer: "**After dark**, so the exact time shifts with the season — earlier in winter, later in summer. Your confirmation gives the time for your date." },
+    ];
+  }
+
+  if (slug === 'shibuya-crossing-photography-tour') {
+    return [
+      { question: "Is this a photoshoot or a walk?", answer: "A walk with a photographer. **Some shots are set up, most are not** — the aim is images that look like an evening you actually had rather than a studio session held outdoors." },
+      { question: "How many photos do I get and when?", answer: "You receive a **professionally retouched set delivered digitally after the walk**, usually within a few days, with **full personal usage rights**. There is no per-image upsell at the end." },
+      { question: "Why does it have to be in the evening?", answer: "The whole route depends on **neon and shopfront light**, so it runs after sunset. The start time moves with the season." },
+      { question: "What is Nonbei Yokocho?", answer: "**'Drunkard's Alley'** — a few dozen tiny bars packed along two narrow lanes behind Shibuya Station, most seating six or seven people, lit almost entirely by lanterns and vending machines. It is a minute from the crossing and feels like a different decade. Most people's favourite frames come from here." },
+      { question: "What should I wear?", answer: "Something you would **want to be photographed in**. Darker tones read well against the signage. Comfortable shoes — the walk covers about 2 km." },
+      { question: "What if it rains?", answer: "**Light rain is fine and often improves the images** — wet asphalt reflecting neon is genuinely better, and the alleys are partly covered." },
+    ];
+  }
+
+  if (slug === 'togoshi-ginza-shotengai-food-tour') {
+    return [
+      { question: "What is a shotengai?", answer: "A **covered local shopping street**. Togoshi Ginza is the **longest in Tokyo** — about **1.3 km and roughly 400 shops** — in a residential part of Shinagawa that almost no visitor reaches, so the food is priced and made for people who come back weekly." },
+      { question: "Why is it called Ginza if it is in Shinagawa?", answer: "The name was borrowed. After the **1923 earthquake** the street was rebuilt using **paving bricks salvaged from Ginza's ruined tram lines**, and it took the name along with them." },
+      { question: "Is this enough food for dinner?", answer: "Yes. You eat across the street — **karaage, okonomiyaki cooked in front of you, hot croquettes** — and finish with an **izakaya sit-down**. Come hungry; this replaces dinner rather than preceding it." },
+      { question: "Can you accommodate allergies or dietary restrictions?", answer: "Tell us **when you book, not on the day**. This is a small local street where substitutions have to be arranged in advance. **Strict vegetarian and halal are difficult here** and are best flagged early so we can be honest about whether it will work for you." },
+      { question: "How does it compare to a Tsukiji food tour?", answer: "It is the opposite. **No queues, no English menus and no other tour groups** — you will not see another group all evening." },
+      { question: "Does the weather matter?", answer: "Not much. It is a **covered arcade**, so rain is not an issue." },
+    ];
+  }
+
+  if (slug === 'jigokudani-monkey-park-full-day-tour') {
+    return [
+      { question: "Will we definitely see the monkeys?", answer: "They are **wild and unfenced**, so sightings are typical but **never guaranteed**. They bathe more reliably in the **cold months**. Nobody can promise a specific behaviour on a specific day." },
+      { question: "How much walking is there at the monkey park?", answer: "About **1.6 km each way on a forest trail**, taking 25–30 minutes in each direction. It is mostly level but **unpaved and slippery when it snows** — proper footwear matters, and it is **not suitable for wheelchairs or limited mobility**." },
+      { question: "Why do the monkeys bathe in hot springs?", answer: "The Jigokudani troop is the **only population of monkeys on earth known to do it**, a behaviour they picked up in the 1960s. The valley name means 'hell valley' — steam vents through steep forested walls and snow sits on the cliffs for months." },
+      { question: "What is Zenko-ji and why does it matter?", answer: "A temple **founded in the 7th century**, predating the split of Japanese Buddhism into sects — which is why it belongs to none of them and has drawn pilgrims from every school for **1,400 years**. Its main hall is a National Treasure, and beneath it runs a **pitch-dark underground passage** where visitors feel along the wall for a key said to grant salvation." },
+      { question: "How long is the day?", answer: "**Ten hours**, of which roughly **seven are driving**. Pickup is early, around 07:00, and you are back in Tokyo in the evening." },
+      { question: "What is not included?", answer: "The **monkey park entrance fee** and the **Zenko-ji inner sanctuary fee** are paid on the day, along with food and drinks." },
+    ];
+  }
+
+  if (slug === 'daikoku-parking-area-evening-tour') {
+    return [
+      { question: "Do I need a licence or an IDP?", answer: "No. **You are a passenger throughout** — this is a ride-along, not a driving experience, so no licence and no International Driving Permit are needed." },
+      { question: "What is Daikoku PA?", answer: "A **service area on a loop of elevated ramp in Yokohama harbour** that turns on weekend nights into the **most famous informal car meet in Japan** — bosozoku builds, immaculate Skylines, kei trucks done up beyond reason, all parked in rows under sodium light. **Entry is free** and the atmosphere is relaxed." },
+      { question: "Is the car meet guaranteed?", answer: "No, and this matters. Daikoku is an **informal public gathering, not an organised event**. Turnout depends on the weather and on whether police are moving people along that night. **Some evenings are packed, some are thin, and nobody can promise which.** **Weekends are far busier than weekdays.**" },
+      { question: "What is the Wangan?", answer: "The **bayside expressway running the length of Tokyo Bay**. Its tunnels and sweeping curves made it shorthand for Japanese street racing decades before any film borrowed the name." },
+      { question: "What else does the route cover?", answer: "**Rainbow Bridge**, **A-Pit Autobacs**, **Tokyo Tower** and **Shibuya Crossing**, with photo stops built in. Bring a camera — the stops exist for photographs." },
+      { question: "How late does it run?", answer: "It is a **night tour of about four hours** starting around 20:00. Allow for a slow start the next morning." },
+    ];
+  }
+
+  if (slug === 'fuji-motorsports-museum-private-tour') {
+    return [
+      { question: "Will we actually see Mount Fuji?", answer: "**Frequently it is hidden by cloud.** Visibility is best **early in the morning and in the colder months**, which is why pickup is at 07:30 — but it **cannot be guaranteed** on any given day." },
+      { question: "Can we go inside Fuji Speedway?", answer: "It **depends entirely on the event calendar**. Some days the circuit is open to visitors, others it is closed for a race or a private test. Your driver checks beforehand and plans the day around what is actually possible. The **Fuji Motorsports Museum is open regardless**." },
+      { question: "What is in the museum?", answer: "Around **40 significant cars across roughly 130 years** of motorsport, weighted toward Japanese manufacturers. It opened alongside the circuit." },
+      { question: "What is the NISMO stop?", answer: "**Nissan's motorsport arm**, where the racing history and the current cars sit in the same showroom." },
+      { question: "How long is the day?", answer: "**Eight hours**, of which about four are driving. Pickup is **07:30** from your Tokyo hotel." },
+      { question: "Is this worth it if I am not into cars?", answer: "Honestly, probably not. This is a **specialist day** built for people for whom Japanese performance cars are a reason to visit Japan. If you mainly want Mount Fuji scenery, a standard Fuji day trip is better value." },
+      { question: "What is not included?", answer: "**Museum entry** and **Fuji Speedway entry where a paid event is running**, plus food, drinks and any merchandise." },
+    ];
+  }
+
+  if (slug === 'rainbow-bridge-evening-tour') {
+    return [
+      { question: "Can you pick us up in Yokohama?", answer: "Yes — **pickup covers hotels in both Tokyo and Yokohama**, which makes it workable if you are staying near the port or coming off a cruise ship. Confirm the address when booking, as outlying areas eat into the four hours." },
+      { question: "Can we change the route?", answer: "Yes, that is the point of it being private. **Nothing is fixed except the four hours** — more time at one viewpoint, a stop for food, or a detour to somewhere you saw a photo of." },
+      { question: "Is this a walking tour?", answer: "No — it is a **sightseeing drive with photo stops**, which makes it a good option in bad weather or with limited mobility." },
+      { question: "Is going up Tokyo Tower included?", answer: "No. **Observation-deck entry is not included**; the tour views the tower floodlit from ground level, which many people prefer for photographs anyway." },
+      { question: "What time does it start?", answer: "Usually around **18:30**, adjusted for the season — the tour needs full darkness, which arrives much earlier in winter." },
+    ];
+  }
+
+  if (slug === 'central-tokyo-bike-tour') {
+    return [
+      { question: "Is this suitable for casual cyclists?", answer: "Not really. These are **road bikes at a riding pace over five hours**, aimed at people who already ride at home. If you want a sightseeing pace, one of the city or e-bike tours is a better fit." },
+      { question: "Do I need to bring anything?", answer: "**Bring your own cycling shoes and pedals if you ride clipless** — flat pedals are fitted otherwise. **Cycling gear is provided** if you did not pack any." },
+      { question: "Is there really a shower?", answer: "Yes, and it is the detail that makes this practical. The office has **changing rooms and a shower**, so you can clean up and carry on with your day instead of going back to your hotel." },
+      { question: "What is the Arakawa section?", answer: "A **riverside route with long uninterrupted stretches and no traffic lights** — where local riders do their training. It is rare to find that anywhere in a capital city." },
+      { question: "What languages is it guided in?", answer: "**English or Italian** — state your preference when booking." },
+      { question: "How do we get to the office?", answer: "You are **collected from the nearest station**, which removes the awkward part of finding a bike shop in a city you do not know." },
+    ];
+  }
+
+  if (slug === 'imperial-palace-bike-tour') {
+    return [
+      { question: "Should I take the standard bike or the e-bike?", answer: "Take the **e-bike if you are not a regular cyclist** — the assist removes any effort from the few slopes and the total distance, at no extra difficulty. Standard bikes are there if you would rather pedal." },
+      { question: "Is Tokyo really good for cycling?", answer: "It surprises people. It is **flat, the side streets carry almost no traffic, and cycling is completely normal here**. You cover four or five times the ground a walking tour manages." },
+      { question: "What does the route cover?", answer: "The **Imperial Palace moat** on the old Edo Castle site, **Nihonbashi** — where every road in Japan is still officially measured from, with a marker set into the bridge — **Tokyo Station's restored 1914 red-brick facade**, **Ginza**, and **Tsukiji outer market**, which kept trading fish, knives and tamagoyaki after the wholesale auction moved to Toyosu in 2018." },
+      { question: "Can we eat at Tsukiji?", answer: "Yes — the tour **finishes there with bikes parked properly**, so you can walk the lanes and eat before riding back." },
+      { question: "What time is best in summer?", answer: "**Morning slots**, comfortably. Tokyo is hot and humid from June to September." },
+      { question: "Do I need to be a confident cyclist?", answer: "You need to **already know how to ride a bicycle** — this is not somewhere to learn. Tokyo is flat and the routes avoid heavy traffic, but you will be on real streets, so you should be comfortable starting, stopping and riding in a group." },
+      { question: "Is a helmet provided?", answer: "Yes, **helmets are provided and wearing one is expected**. Bicycle insurance is included in the price as well." },
+      { question: "What is the minimum age?", answer: "Generally **12 years old**, and children must be confident riding in traffic and accompanied by an adult. Contact us before booking if you are unsure whether it suits your family." },
+      { question: "What happens if it rains?", answer: "Tours **run in light rain**. In heavy weather the ride is cancelled and you receive a **full refund** — the operator makes that call on the morning." },
+    ];
+  }
+
+  if (slug === 'yanaka-backstreets-bike-tour') {
+    return [
+      { question: "How is this different from the city highlights ride?", answer: "It skips the landmarks entirely and heads into **Shitamachi — the 'low city'** — where the lanes are too narrow for coaches and daily life runs at a neighbourhood pace. Good if you have already done the highlights, or never wanted them." },
+      { question: "What makes Yanaka special?", answer: "It **largely escaped both the 1923 earthquake and the wartime firebombing** that flattened most of eastern Tokyo, so its temple walls, wooden houses and shopping street are **genuinely old rather than reconstructed**. It also has a resident cat population that became the district's unofficial mascot." },
+      { question: "What is Yanaka Ginza?", answer: "A **working local high street**, not a tourist one — individual butchers, pickle shops and croquette stands where people still buy their dinner. Your guide gives you time to eat there." },
+      { question: "Why a bike rather than walking?", answer: "The area is a **maze**. On foot you see one street; by bike you can wander the whole grid, and your guide knows which turnings are worth taking." },
+      { question: "Is it respectful to cycle through these areas?", answer: "These are **residential neighbourhoods and temple grounds**, so the group rides quietly and dismounts where asked. That is part of how the tour is run." },
+      { question: "Do I need to be a confident cyclist?", answer: "You need to **already know how to ride a bicycle** — this is not somewhere to learn. Tokyo is flat and the routes avoid heavy traffic, but you will be on real streets, so you should be comfortable starting, stopping and riding in a group." },
+      { question: "Is a helmet provided?", answer: "Yes, **helmets are provided and wearing one is expected**. Bicycle insurance is included in the price as well." },
+      { question: "What is the minimum age?", answer: "Generally **12 years old**, and children must be confident riding in traffic and accompanied by an adult. Contact us before booking if you are unsure whether it suits your family." },
+      { question: "What happens if it rains?", answer: "Tours **run in light rain**. In heavy weather the ride is cancelled and you receive a **full refund** — the operator makes that call on the morning." },
+    ];
+  }
+
+  if (slug === 'shibuya-backstreets-bike-tour') {
+    return [
+      { question: "What do we see that a walking tour misses?", answer: "Almost everyone who visits Shibuya sees the same **500 metres**. The districts run for kilometres, and the good parts — **independent coffee roasters, record shops and small galleries** — are in between, where the main drag's rents do not reach." },
+      { question: "What is the Omotesando architecture?", answer: "A run of flagship stores by **Ando, SANAA and Herzog & de Meuron** along a zelkova-lined avenue — effectively an **open-air museum of contemporary Japanese design**." },
+      { question: "Where does it start?", answer: "**A ten-minute walk from Shinjuku Station**, so it is easy to reach from anywhere on the Yamanote line." },
+      { question: "Is Sunday a good day to book?", answer: "Mixed. Sunday adds the **rockabilly dancers near Yoyogi Park's entrance**, but it also brings the **biggest crowds in Harajuku**. Weekdays ride better." },
+      { question: "Is this for first-timers or repeat visitors?", answer: "Both. First-timers get **orientation across a wide area**; repeat visitors get the parts behind the checklist they have already done." },
+      { question: "Do I need to be a confident cyclist?", answer: "You need to **already know how to ride a bicycle** — this is not somewhere to learn. Tokyo is flat and the routes avoid heavy traffic, but you will be on real streets, so you should be comfortable starting, stopping and riding in a group." },
+      { question: "Is a helmet provided?", answer: "Yes, **helmets are provided and wearing one is expected**. Bicycle insurance is included in the price as well." },
+      { question: "What is the minimum age?", answer: "Generally **12 years old**, and children must be confident riding in traffic and accompanied by an adult. Contact us before booking if you are unsure whether it suits your family." },
+      { question: "What happens if it rains?", answer: "Tours **run in light rain**. In heavy weather the ride is cancelled and you receive a **full refund** — the operator makes that call on the morning." },
+    ];
+  }
+
+  if (slug === 'tokyo-tower-bike-tour') {
+    return [
+      { question: "Is cycling in Tokyo at night safe?", answer: "It is **calmer than by day** — traffic thins after the evening rush and the side streets empty out. **Lights are fitted to every bike and checked before you leave**, and your guide covers night riding rules in the briefing." },
+      { question: "Why go to a cemetery?", answer: "**Aoyama Cemetery** is the part nobody expects — a large tree-lined burial ground in the middle of some of the most expensive land in Tokyo, **silent at night**, with cherry trees along its main avenue that draw crowds in spring and nobody at all the rest of the year. Riding through it straight after Roppongi's noise is a genuinely strange transition." },
+      { question: "Is that respectful?", answer: "It is an **active burial ground**, so the group rides **quietly and slowly** through it. That is how the tour is run." },
+      { question: "How hard is it?", answer: "**Two hours, flat throughout, no fitness required.** It is the easiest ride of the set." },
+      { question: "How do we see Tokyo Tower?", answer: "**Floodlit from street level**, appearing at the end of an ordinary road — which is a better first sight of it than any observation deck." },
+      { question: "Do I need to be a confident cyclist?", answer: "You need to **already know how to ride a bicycle** — this is not somewhere to learn. Tokyo is flat and the routes avoid heavy traffic, but you will be on real streets, so you should be comfortable starting, stopping and riding in a group." },
+      { question: "Is a helmet provided?", answer: "Yes, **helmets are provided and wearing one is expected**. Bicycle insurance is included in the price as well." },
+      { question: "What is the minimum age?", answer: "Generally **12 years old**, and children must be confident riding in traffic and accompanied by an adult. Contact us before booking if you are unsure whether it suits your family." },
+      { question: "What happens if it rains?", answer: "Tours **run in light rain**. In heavy weather the ride is cancelled and you receive a **full refund** — the operator makes that call on the morning." },
+    ];
+  }
+
+  if (slug === 'tokyo-skytree-spiritual-tour') {
+    return [
+      { question: "Why choose the east-side route over Shibuya?", answer: "Fewer operators run it and the roads are quieter. You get **Asakusa's low wooden streets, the Sumida riverside and Akihabara's electric glare** — three completely different versions of Tokyo inside seventy minutes, instead of the Shibuya scrum." },
+      { question: "How big is Tokyo Skytree really?", answer: "**634 metres** — the tallest tower on earth. It is genuinely startling from a vehicle that sits twenty centimetres off the ground, and the route stages a photo stop at the bridge angle that fits tower and karts in one frame." },
+      { question: "What is Akihabara like from a kart?", answer: "**Electric Town's arcades, anime billboards and multi-storey electronics shops throw more light onto the street than the streetlamps do.** It is also the busiest traffic of the route, so riders need to be comfortable following instructions." },
+      { question: "Do I really need an International Driving Permit?", answer: "Yes, and this is the single most common reason travellers are turned away at the shop. Japan accepts only a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**, and you must bring the **physical IDP together with the home licence it was issued against, plus your passport**. Scans and phone photos are refused. IDPs from **Germany, Switzerland, Belgium, Taiwan, Monaco, Estonia and Slovenia** fall outside that convention and need an official Japanese translation instead. Arrange it in your own country before you fly — no shop in Tokyo can issue one." },
+      { question: "Can two people share one kart?", answer: "No. The karts are **single-seat**, so everyone who takes part drives their own and everyone needs valid documents. Passengers cannot ride along." },
+      { question: "Are these karts on real roads or a track?", answer: "Real public roads. These are **road-registered vehicles**, which is exactly why the route can run through live Tokyo traffic and across famous junctions rather than around a closed circuit. Your guide rides with the group and uses hand signals." },
+      { question: "What happens if it rains?", answer: "The tour **runs in light rain and ponchos are provided** — the karts are open but weather-tolerant. Only heavy weather causes cancellation, in which case you are offered a **reschedule or a full refund**." },
+      { question: "Is the costume included?", answer: "Yes, **costume rental is included** and you choose from what the shop has on the day. Helmets are provided too. Wear closed shoes and trousers underneath — the karts sit low and open." },
+      { question: "Do I get the photos?", answer: "Yes. Your guide photographs the group at the stops along the route and **the images are handed over at the garage afterwards** at no extra cost." },
+    ];
+  }
+
+  if (slug === 'tokyo-tower-premium-tour') {
+    return [
+      { question: "What does the extra hour actually buy?", answer: "Time to **shoot properly rather than drive past**. The short tours spend most of their time in transit between two photo stops; at two hours the guide can hold the group at each landmark, **run the crossing more than once if the light cycles fall badly**, and take the scenic line through Roppongi instead of the quickest one." },
+      { question: "Do we get both Tokyo Tower and Shibuya Crossing?", answer: "Yes — that is the point of the longer route. **No trade-off between the two signature backdrops.**" },
+      { question: "How tall is Tokyo Tower?", answer: "**333 metres**, finished in 1958 and painted regulation orange and white for aviation safety — deliberately **nine metres taller than the Eiffel Tower** that inspired it." },
+      { question: "Is two hours cold?", answer: "**From late autumn through winter, yes.** You are in an open vehicle the whole time — dress warmer than you think." },
+      { question: "Do I really need an International Driving Permit?", answer: "Yes, and this is the single most common reason travellers are turned away at the shop. Japan accepts only a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**, and you must bring the **physical IDP together with the home licence it was issued against, plus your passport**. Scans and phone photos are refused. IDPs from **Germany, Switzerland, Belgium, Taiwan, Monaco, Estonia and Slovenia** fall outside that convention and need an official Japanese translation instead. Arrange it in your own country before you fly — no shop in Tokyo can issue one." },
+      { question: "Can two people share one kart?", answer: "No. The karts are **single-seat**, so everyone who takes part drives their own and everyone needs valid documents. Passengers cannot ride along." },
+      { question: "Are these karts on real roads or a track?", answer: "Real public roads. These are **road-registered vehicles**, which is exactly why the route can run through live Tokyo traffic and across famous junctions rather than around a closed circuit. Your guide rides with the group and uses hand signals." },
+      { question: "What happens if it rains?", answer: "The tour **runs in light rain and ponchos are provided** — the karts are open but weather-tolerant. Only heavy weather causes cancellation, in which case you are offered a **reschedule or a full refund**." },
+      { question: "Is the costume included?", answer: "Yes, **costume rental is included** and you choose from what the shop has on the day. Helmets are provided too. Wear closed shoes and trousers underneath — the karts sit low and open." },
+      { question: "Do I get the photos?", answer: "Yes. Your guide photographs the group at the stops along the route and **the images are handed over at the garage afterwards** at no extra cost." },
+    ];
+  }
+
+  if (slug === 'shibuya-crossing-crossing-photography-tour') {
+    return [
+      { question: "Is one hour long enough?", answer: "If you want **the one shot** — you, in costume, in a kart, in the middle of Shibuya Crossing — yes. It gets you there and does not pad the rest. Take a longer tour if you also want Tokyo Tower." },
+      { question: "How busy is Shibuya Crossing?", answer: "It handles **up to 3,000 people on a single light change** and something close to **half a million a day**. Going through it at road level with pedestrians flooding past on all sides is unlike anything else in the city." },
+      { question: "What is Omotesando like to ride?", answer: "**Wide, well-surfaced and tree-lined** — Tokyoites call it their Champs-Élysées. It is the easiest riding of the hour and gives the guide clean space to shoot the group in motion." },
+      { question: "Do I really need an International Driving Permit?", answer: "Yes, and this is the single most common reason travellers are turned away at the shop. Japan accepts only a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**, and you must bring the **physical IDP together with the home licence it was issued against, plus your passport**. Scans and phone photos are refused. IDPs from **Germany, Switzerland, Belgium, Taiwan, Monaco, Estonia and Slovenia** fall outside that convention and need an official Japanese translation instead. Arrange it in your own country before you fly — no shop in Tokyo can issue one." },
+      { question: "Can two people share one kart?", answer: "No. The karts are **single-seat**, so everyone who takes part drives their own and everyone needs valid documents. Passengers cannot ride along." },
+      { question: "Are these karts on real roads or a track?", answer: "Real public roads. These are **road-registered vehicles**, which is exactly why the route can run through live Tokyo traffic and across famous junctions rather than around a closed circuit. Your guide rides with the group and uses hand signals." },
+      { question: "What happens if it rains?", answer: "The tour **runs in light rain and ponchos are provided** — the karts are open but weather-tolerant. Only heavy weather causes cancellation, in which case you are offered a **reschedule or a full refund**." },
+      { question: "Is the costume included?", answer: "Yes, **costume rental is included** and you choose from what the shop has on the day. Helmets are provided too. Wear closed shoes and trousers underneath — the karts sit low and open." },
+      { question: "Do I get the photos?", answer: "Yes. Your guide photographs the group at the stops along the route and **the images are handed over at the garage afterwards** at no extra cost." },
+    ];
+  }
+
+  if (slug === 'shibuya-crossing-evening-tour') {
+    return [
+      { question: "Is this a night tour?", answer: "It runs in the **evening**, which is when Tokyo Tower is lit and Shibuya is at its most dramatic. Exact start times shift with the season." },
+      { question: "What is the route?", answer: "**Roppongi's wide avenues out to Tokyo Tower**, a photo stop directly beneath it, then tighter streets through **Harajuku** and a finish across **Shibuya Crossing**." },
+      { question: "How long am I actually driving?", answer: "**About 70 minutes on the road** within a 1.5-hour slot — the rest is check-in, the licence check, costume fitting and the practice loop." },
+      { question: "Do I really need an International Driving Permit?", answer: "Yes, and this is the single most common reason travellers are turned away at the shop. Japan accepts only a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**, and you must bring the **physical IDP together with the home licence it was issued against, plus your passport**. Scans and phone photos are refused. IDPs from **Germany, Switzerland, Belgium, Taiwan, Monaco, Estonia and Slovenia** fall outside that convention and need an official Japanese translation instead. Arrange it in your own country before you fly — no shop in Tokyo can issue one." },
+      { question: "Can two people share one kart?", answer: "No. The karts are **single-seat**, so everyone who takes part drives their own and everyone needs valid documents. Passengers cannot ride along." },
+      { question: "Are these karts on real roads or a track?", answer: "Real public roads. These are **road-registered vehicles**, which is exactly why the route can run through live Tokyo traffic and across famous junctions rather than around a closed circuit. Your guide rides with the group and uses hand signals." },
+      { question: "What happens if it rains?", answer: "The tour **runs in light rain and ponchos are provided** — the karts are open but weather-tolerant. Only heavy weather causes cancellation, in which case you are offered a **reschedule or a full refund**." },
+      { question: "Is the costume included?", answer: "Yes, **costume rental is included** and you choose from what the shop has on the day. Helmets are provided too. Wear closed shoes and trousers underneath — the karts sit low and open." },
+      { question: "Do I get the photos?", answer: "Yes. Your guide photographs the group at the stops along the route and **the images are handed over at the garage afterwards** at no extra cost." },
+    ];
+  }
+
+  if (slug === 'shibuya-crossing-premium-tour') {
+    return [
+      { question: "Is 45 minutes worth it?", answer: "It is the **shortest and cheapest** of the Tokyo kart runs, and it goes straight to the two things people book for: **Shibuya Crossing and Tokyo Tower**. If you want more landmarks, take one of the longer tours." },
+      { question: "Is a costume required?", answer: "It is **included and most people wear one** — it is half the reason the karts are so recognisable on Tokyo streets. Nobody forces you." },
+      { question: "How many karts ride together?", answer: "Up to **8 in a group**, all following a guide who sets the pace and uses hand signals in traffic." },
+      { question: "Do I really need an International Driving Permit?", answer: "Yes, and this is the single most common reason travellers are turned away at the shop. Japan accepts only a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**, and you must bring the **physical IDP together with the home licence it was issued against, plus your passport**. Scans and phone photos are refused. IDPs from **Germany, Switzerland, Belgium, Taiwan, Monaco, Estonia and Slovenia** fall outside that convention and need an official Japanese translation instead. Arrange it in your own country before you fly — no shop in Tokyo can issue one." },
+      { question: "Can two people share one kart?", answer: "No. The karts are **single-seat**, so everyone who takes part drives their own and everyone needs valid documents. Passengers cannot ride along." },
+      { question: "Are these karts on real roads or a track?", answer: "Real public roads. These are **road-registered vehicles**, which is exactly why the route can run through live Tokyo traffic and across famous junctions rather than around a closed circuit. Your guide rides with the group and uses hand signals." },
+      { question: "What happens if it rains?", answer: "The tour **runs in light rain and ponchos are provided** — the karts are open but weather-tolerant. Only heavy weather causes cancellation, in which case you are offered a **reschedule or a full refund**." },
+      { question: "Is the costume included?", answer: "Yes, **costume rental is included** and you choose from what the shop has on the day. Helmets are provided too. Wear closed shoes and trousers underneath — the karts sit low and open." },
+      { question: "Do I get the photos?", answer: "Yes. Your guide photographs the group at the stops along the route and **the images are handed over at the garage afterwards** at no extra cost." },
+    ];
+  }
+
     return null;
 };

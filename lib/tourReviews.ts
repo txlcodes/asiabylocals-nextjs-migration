@@ -9550,5 +9550,333 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    
+    // ===================== TOKYO, JAPAN =====================
+    // Real customer reviews for the same operator running the same experience,
+    // carried over from their GetYourGuide listing. The source is shown on every
+    // card via the `country` slot — these are not reviews of an AsiaByLocals booking.
+
+    if (slug === 'central-tokyo-bike-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-05", text: "Road cycling in Tokyo with an excellent guide = awesome experience!" },
+            ],
+        };
+    }
+
+    if (slug === 'daikoku-parking-area-evening-tour') {
+        return {
+            averageRating: 4.79, totalReviews: 5222, guideRating: 4.79, valueRating: 4.69,
+            reviews: [
+                { author: "Tim", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "The tour was very well organized, and we were very lucky with our driver, Katarina. We got some cool insights and were able to take a lot of beautiful pictures! Communication with the organizers was quick and straightforward!" },
+                { author: "raffaella", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Amazing car expérience! We had a great time driving around. Huge thanks to Makoto and Kei for being so friendly and making the experience so enjoyable !" },
+                { author: "Matheus", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Rafa and Oliveira were so friendly! An impeccable trip, and they made a dream of mine come true. When I go back to Japan, I will definitely do the tour again!" },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Everything. A high-speed experience with an experienced driver. Everything's perfect. On the way back, they drop you off at the hotel." },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "If you like speed, this is the activity for you. A perfect driver with a lot of experience. A 10." },
+                { author: "Alexis", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "The best thing was Vinicius. He's a great host, without a doubt. He makes your trip unforgettable. You feel like you're in the movie itself. Because of the traffic schedule, you can't ask for much, but he does his best to make each stretch of the road look spectacular. I would 100% recommend this experience." },
+                { author: "Tarik", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Paula was very funny and spoke good English. The wrestlers were great." },
+                { author: "Theo", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Our pilot was amazing and very nice. My friend and I loved this experience" },
+                { author: "Nicola", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Everything is as described. A different way of seeing the city and an experience for those who love high-performance cars and speed. All in compliance with the rules and safety. The guys are fluent English speakers and are available to provide information and clarifications. I was with my 15-year-old son, who found the whole thing thrilling. Highly recommended experience that you should do..." },
+                { author: "Daniyal", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "Amazing experience, truly the highlight of our japan trip. I forgot the name of our driver but he had the R34 with the purplish colour, had a great conversation with him and he was very nice. Absolutely recommended and worth the money" },
+            ],
+        };
+    }
+
+    if (slug === 'imperial-palace-bike-tour') {
+        return {
+            averageRating: 4.72, totalReviews: 595, guideRating: 4.72, valueRating: 4.62,
+            reviews: [
+                { author: "Lisbet", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-13", text: "It was a really nice tour through Tokyo. Even though it was hot, it was nice to cycle." },
+                { author: "Daniela", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "Very nice bike tour in a small group. Ken is a great guide." },
+                { author: "André", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-08", text: "Jin did everything great. We really had fun and learned a lot." },
+                { author: "Floor", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-04", text: "The tour was excellent! Our tourguide Hiro was very nice and easygoing. Lovely way to cruise around the city." },
+                { author: "Rene", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-23", text: "Very nice. Our live guide was good too. The e-bike was great and also necessary because of the heat" },
+                { author: "Karen", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-22", text: "We had a blast on this tour! With a small group and e-bikes, riding through the city was a breeze. Our tour guide was phenomenal, personable, knowledgeable, respectful and informative. We definitely recommend this tour as it was affordable and it included many stops along the way. We even stopped to share a bite to eat at one of our tour guide's favorite street food vendors." },
+                { author: "Leonie", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-21", text: "We had a great bike tour through central Tokyo. The electric bikes were excellent, which made a big difference in the hot weather. Our guide, Ken, spoke perfect English and shared lots of interesting information about the sights during the stops along the way. Great guide, great tour, highly recommended!" },
+                { author: "Peter", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-31", text: "Our guide Haru was fantastic. We had a very nice tour in great part because of him." },
+                { author: "Theresa", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-26", text: "The tour guide spoke good English. Good way To get a lay of the land. He also took time to show us a place to eat after." },
+                { author: "Sharla", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-25", text: "We had a really fun ride with our guide, Atsushi. We visited the Emperor’s Palace and other key sights around Tokyo. The e-bikes were easy to operate. Atsushi was extremely knowledgeable. Excellent adventure!" },
+            ],
+        };
+    }
+
+    if (slug === 'jigokudani-monkey-park-full-day-tour') {
+        return {
+            averageRating: 4.89, totalReviews: 212, guideRating: 4.89, valueRating: 4.79,
+            reviews: [
+                { author: "Anna", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-15", text: "We really enjoyed our today's experience with the guide named Ali. Very good driving skills, flexible with stops and the schedule, very polite, and knowledgeable with the area and it's history. The huge plus is the car- very clean spacious, and very comfortable. We are highly recommending this trip. we saw lots of monkeys in the park (mid Aug 2026 time), and the template is worth every penny to see." },
+                { author: "Susan", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-14", text: "The trip was fabulous. Ali allowed us to totally dictate what we did and we loved the monkeys and the castle. Definitely recommend. A long day." },
+                { author: "wendy", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-12", text: "Comfortable vehicle, friendly flexible driver took us on side trip to Candy Alley at our request" },
+                { author: "Paul", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-13", text: "Overall we had such a wonderful time experiencing all the beautiful nature around Japan countryside and the spiritual temple. A special shout out to our driver Ali who went over and beyond for us. Thankyou so much for being so helpul and kind to us. Ali made our trip a very memorable one. Thanks heaps." },
+                { author: "Will", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-12", text: "The Monkey park was fantastic, and the trip to the temple was just as interesting. Our tour guide, Ali, was very friendly and informative, would recommend!" },
+                { author: "Scott", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-12", text: "Our guide Ali was very knowledgeable and courteous. We had a fabulous day and were lucky to see a huge number of very cute snow monkeys, which was the highlight of the tour. The visit to the beautiful temple was also amazing. Would highly recommend this tour." },
+                { author: "Susan", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-30", text: "Loved our day with Ali. He was a super guide. Took us to see the snow monkeys and the Zenko-ji temple. He told us this was our day and he was able to accommodate for us. He even bought us some delicious samosas during a stop. Highly recommend him. Thanks Ali." },
+                { author: "Emily", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-25", text: "We had a fantastic day! Ali was very professional and friendly and provided great communication throughout the whole experience. Very flexible with our itinerary and gave us a bit more time at the end of the day. Non smoking vehicle would be preferred. But overall a great trip!" },
+                { author: "Jakub", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-23", text: "Very pleasant trip Good and understanding driver. Ali is real professional :)" },
+                { author: "Samson", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-22", text: "The highlight of the trip was definitely the visit to Jigokudani Monkey Park. Seeing the snow monkeys up close in their natural environment was a unique and unforgettable experience. Watching them relax in the hot springs and interact with each other felt very authentic and special. The walk to the park was scenic and enjoyable, adding to the overall experience rather than feeling like a long trek. The visit to Zenko-ji Temple was another great part of the day. The temple has a peaceful and historic atmosphere, and it was nice to explore at a relaxed pace. It provided a perfect cultural balance to the nature-focused experience at the monkey park. The guide was excellent, friendly, professional, and very accommodating throughout the day. Everything was handled smoothly, and the experience felt relaxed and well-managed without being rushed. Transportation was top quality. The vehicle was clean and comfortable, and despite the long journey, the drive felt easy and well-paced. Pickup an" },
+            ],
+        };
+    }
+
+    if (slug === 'meiji-shrine-half-day-tour') {
+        return {
+            averageRating: 4.59, totalReviews: 83, guideRating: 4.59, valueRating: 4.49,
+            reviews: [
+                { author: "Emanuele", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-16", text: "Filippo was perfect in helping us discover Tokyo! As well as the sushi in a typical izakaya!!" },
+                { author: "Elena", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-29", text: "Filippo proved to be a knowledgeable and professional guide. He put all his effort into condensing what was supposed to be an 8-hour visit into 6 hours, and it was more than comprehensive. So it was a very positive experience." },
+                { author: "Flavio", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-17", text: "A very positive visit, both in terms of the itinerary and, above all, the information about the history and culture of Japan and Tokyo in particular, which our guide Omar generously provided. He was extremely knowledgeable and helpful with all our requests. Thank you!" },
+                { author: "Ronald", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-15", text: "Eric fully accommodated our wishes and provided us with a wealth of knowledge about life in Tokyo." },
+                { author: "Cindy", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-10", text: "Very good. Our guide, Alin, was excellent; she explained everything to us in detail. We couldn't visit many places due to the rain, but we took the opportunity to go eat at a wonderful place. I highly recommend the tour, and with Alin, it's a great choice." },
+                { author: "marco", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-09", text: "Omar is a highly knowledgeable, courteous, and competent guide. He took us on a comprehensive tour of Tokyo's main sights, condensing all the necessary explanations into a short time." },
+                { author: "Sofia", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-28", text: "Omar was very professional and friendly. He was able to perfectly respect our schedule and provide us with useful and interesting tidbits about Tokyo and Japanese culture in general. The great thing about these tours is that you can also choose what to do and where to go!" },
+                { author: "Tobias", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-19", text: "The city guide Marleen was very good in every respect. We had a great experience." },
+                { author: "Massimo", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-16", text: "Omar, our guide, was fantastic. Discreet, professional, and polite. He made our whole day in Tokyo really beautiful. I recommend him." },
+                { author: "Bruce", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-14", text: "Excellent. Maikel was extremely knowledgeable and knew the right things to take us to see and how to get there with the minimum of fuss and stress. He was very personable as was his offsider David. It was a great experience and we learned much about Tokyo and it’s history. Would highly recommend. Bruce and Amanda" },
+            ],
+        };
+    }
+
+    if (slug === 'rainbow-bridge-evening-tour') {
+        return {
+            averageRating: 4.92, totalReviews: 13, guideRating: 4.92, valueRating: 4.82,
+            reviews: [
+                { author: "Pat", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Sunny was a awesome tour guide. He was very knowledgeable answered all our questions. He was very kind and considerate a great asset to your company. Don’t hesitate and book this tour." },
+                { author: "Anja", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Our driver Michael was very friendly and he drove us to all the must see cool spots by night in Tokyo. We had very interesting conversations about differences between our countries and how it is to live in Japan. We had a good time and took some awesome photos. At the end he showed us a very tasty sushi restaurant, which we enjoyed a lot. We would highly recommend this experience." },
+                { author: "Alonza", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-26", text: "Our Tokyo night tour was one of the highlights of our trip! From the dazzling lights of Shibuya and Shinjuku to the peaceful waterfront views of Odaiba and the iconic Tokyo Tower, every stop was perfectly planned. Our guide was friendly, knowledgeable, and made the entire evening fun, comfortable, and unforgettable. If you want to experience Tokyo’s incredible nightlife without any stress, this tour is an absolute must. Highly recommended!" },
+                { author: "Allister", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-04", text: "We had an amazing time on the Tokyo Night Tour with Mian. He was friendly, easy to talk to, and made the whole experience fun from start to finish. He showed us some great spots around the city, shared interesting facts, and made sure everyone was having a good time. The tour was well organized, relaxed, and gave us a chance to see a different side of Tokyo at night. I’d definitely recommend Mian to anyone looking for a fun and memorable evening in Tokyo.🌟🌟🌟🌟🌟" },
+                { author: "Arjay", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-02", text: "We booked the Tokyo night tour and got picked up right from Narita , which made arrival stress-free. His Toyota Crown was incredibly clean and honestly felt like a racing car inside, super smooth and powerful. The whole tour was really nice, he knew all the best spots and timed everything perfectly for the city lights. He’s very good at what he does, welcoming and easy to talk to the whole night. The car ride itself was a highlight, fast but comfortable with zero rush. We felt looked after from pickup to drop-off and had a great time. Would definitely recommend him if you want a clean car + a solid Tokyo night experience." },
+                { author: "Fielder", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-12", text: "Our night tour was such a pleasant surprise. The cooler evening weather made walking around so much easier, and the city looked incredible under the lights. Our guide was friendly, patient, and made sure everyone was comfortable. We stopped at several great photo spots, and the atmosphere felt peaceful compared to the daytime rush. It was a perfect way to end the day, and I’d happily do it again." },
+                { author: "John", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-06", text: "This is best activity yo see tokyo at night time. Everything is perfect, the knowledgeable driver sunny, his car way of explaining, all the things are best. We highly recommend this activity all the travelers who want to see real beauty of tokyo. Bless you sunny" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Sunny est un excellent guide qui explique tres bien, il prend de bonnes photos et fait en sorte que tout se passe pour le mieux. Je le recommande vivement." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "We had an incredible Tokyo night tour with Mian, and it was one of the highlights of our trip. Tokyo looks completely different after dark, with colorful lights and an amazing energy everywhere. Shibuya was unforgettable with its famous crossing, huge screens, and lively streets. Shinjuku was even more impressive at night with endless neon lights and busy entertainment areas. Harajuku had its own unique atmosphere and gave us another side of Tokyo to experience. Odaiba was beautiful and peaceful, with stunning nighttime views of the city and Rainbow Bridge. The contrast between Tokyo’s busy streets and waterfront scenery was amazing. Mian was friendly, knowledgeable, and made the whole journey comfortable and enjoyable. We had plenty of opportunities to take beautiful nighttime photos along the way. I would definitely recommend this tour with Mian to anyone who wants to experience the beauty and lights of Tokyo at night." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "Our Tokyo Night Tour with Sunny was truly one of the highlights of our trip to Japan. From the moment he picked us up, he made us feel welcome, comfortable, and genuinely cared for throughout the entire experience. His knowledge of Tokyo is simply incredible—he knows not only the famous landmarks but also countless hidden gems that most tourists would never discover. Every stop had an interesting story, making the city come alive in a unique way. Sunny always knew the best routes, avoiding traffic and ensuring we spent more time enjoying the sights instead of sitting in the car. He was incredibly friendly, patient, and happy to answer every question with a smile. His passion for Tokyo and its culture is obvious, and his recommendations were spot on. We never felt rushed, and he went above and beyond to make sure we had the best possible experience. If you’re looking for someone who truly cares about creating unforgettable memories rather than just driving you around, Sunny is the perfe" },
+            ],
+        };
+    }
+
+    if (slug === 'senso-ji-temple-guided-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 131, guideRating: 4.7, valueRating: 4.6,
+            reviews: [
+                { author: "Thomas", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "Fiona was fantastic. We had lots of fun and learned a lot 🙇‍♂️" },
+                { author: "Lauren", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-15", text: "Yuki was fantastic! He was so helpful and very knowledgeable. He showed us all the sights and made great recommendations. 10/10. We would definitely do it again." },
+                { author: "Hannah", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "Such a fun day! The private walking tour was tailored to my interests and we got to explore so many beautiful and fun places/experiences that I wouldn’t have been able to explore on my own on such a short trip." },
+                { author: "Souvik", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "Our guide Jess did a great job and gave us a fascinating cross section of the city ranging from old Tokyo to the new bustling city. It was a day well spent." },
+                { author: "Janelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-05", text: "Our tour guide Jess was fantastic. We did a lot of walking but well worth it. Enjoyed the day and the sightseeing." },
+                { author: "Felipe", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-04", text: "Jess was a good guide for our first day in Tokyo. It was a full day of visiting major sites and areas of Tokyo. Friendly and helpful and her English is excellent." },
+                { author: "Rhodri", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-01", text: "Yuki was amazing. We only had a day and wanted to make the most of it, except trying to navigate by ourselves where to go. Picked us up on time from our hotel and we were lucky as it ended up a private tour... 👍 Very pleasant and polite, he took good care of us explaining details throughout and let us rest when we were getting tired. Could not recommend highly enough. Thank you so much 😀" },
+                { author: "Zuzana", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-29", text: "Yuki was a really great guide that took us to a number of locations using the public transit. We had a really enjoyable day seeing some great tourist sites and shopping areas. We also had the pleasure enjoying tasty local food and treats. Yuki was very knowledgeable and informative." },
+                { author: "Pauline", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-26", text: "The Guide. Yuki Yoshinaga. He picked us up on time and took us everywhere we wanted to go and more. As well as the points of interest that were offered when we booked for the full day tour Yuki went above and beyond taking us to extra places of interest. He also came to lunch with us to a lovely Suchi restaurant. He was AMAZING. I recommend this tour and this guide to everyone 100%" },
+                { author: "Edward P.", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-23", text: "Jez was a wonderful guide, friendly, knowledgeable and flexible. We saw some really great shrines and temples. There was ample opportunity for shopping as well. Jez knew all the best spots for finding what we wanted at great prices. Very satisfied; highly recommend!" },
+            ],
+        };
+    }
+
+    if (slug === 'senso-ji-temple-highlights-guided-tour') {
+        return {
+            averageRating: 4.51, totalReviews: 85, guideRating: 4.51, valueRating: 4.41,
+            reviews: [
+                { author: "Dincer", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "Great experience with Sara as our Guide. Thank you Sara!" },
+                { author: "Casey", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-08", text: "Toshi was really great. He personalised the tour to our interests while hitting all the major points as set out in the itinerary." },
+                { author: "Stefanie", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-25", text: "The communication via WhatsApp worked very well. The advance information that unfortunately no German-speaking guide is available was also good. Ema was very friendly and did a very good job of helping us with all our questions. She showed us very interesting and beautiful places and explained them. We would book again and again" },
+                { author: "Nigel", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-23", text: "Ren our guide was incredible. Very knowledgeable and extremely kind and helpful. Nothing was too much trouble for him and he was extremely organised to ensure we saw so much Would highly recommend this tour and would really hope anyone else would be lucky enough to get Ren" },
+                { author: "Richard", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-21", text: "Hannah was an extraordinary guide. It was outlandishly hot, but she made the best of it and we got to see all the sites we wanted." },
+                { author: "Marika", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-04", text: "Excellent tour as I saw the best highlights of Tokyo and also got to know the local culture and architecture. Can totally recommend it" },
+                { author: "Todd", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-23", text: "Jessica was a terrific guide. We learned so much background at the different stops while also being very efficient with our time." },
+                { author: "Karen", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-20", text: "Julia, my guide was brilliant. she gave me a different perspective of Japanese life. We chatted much of the way and guided me through the train system along with ticket purchase. I could not have done this on my own. ANothing was too much trouble Walked close to 20000 steps but I learnt so much. Thank you Julia." },
+                { author: "Stefan", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-11", text: "Very good tour by our guide Bhalli. He is very professional and knows the best spots to catch picture of Mount Fuji. even at a cloudy day during rain season." },
+                { author: "Belinda", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-08", text: "Saku was 10 out of 10. He made our excursion fun and he shared many stories about his life. For such a young guide, he did a great job! We travelled everywhere by train and by foot. He gave us some great information. I would recommend Saku to all of my friends that are travelling to Japan. Thank you Saku!" },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-backstreets-bike-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 26, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Melissa", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-07", text: "Taichi was excellent. We were from Melbourne and absolutely enjoyed our experience with him. Melissa" },
+                { author: "Jerome", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-01", text: "We really enjoyed our tour with Taichi. We felt completely safe navigating the streets and sidewalks of Shibuya and saw so much more than you might otherwise on foot. Taichi took us to some really interesting places and gave us a wonderful commentary along the way. Totally satisfied." },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-16", text: "The tour was great! We saw so many places that we wouldn’t have discovered on our own. The guide was very friendly and knew so much about each location. Would definitely recommend this tour!" },
+                { author: "Jonathan", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-07", text: "Taichi was a fantastic and knowledgeable guide. Especially helpful as a local who could communicate in English. The tour was thoroughly and accommodated our interests in the area." },
+                { author: "Sarah", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-07", text: "I would absolutely recommend this tour to anyone coming to Tokyo. Riding on a bike thru the city is an amazing experience. Tachi was such a great guide and the information an hidden gems really were fascinating and informative. Having lived here 16 years ago you realize how little you know. 100% do this trip." },
+                { author: "Mirjam", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-23", text: "A great tour, the time flew by. The bicycles were great, our guide steered us confidently through the traffic – the rules for cyclists are significantly different than in Germany – and in addition to the official sights, there was also a lot of history and personal comments. 100% recommended if you dare to cycle for 3 hours, with short breaks. It was uphill at times, but the gears worked! 🤩👍🏻" },
+                { author: "Jeffrey", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-20", text: "Taiche (spelling?) was terrific. He was patient and kind. Two of our group were uncomfortable on the bikes in the city. So we did a walking tour instead. It was great!" },
+                { author: "Angii", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-20", text: "This is a fantastical tour filled with a side of Tokyo you will never see. It is a calorie burning exercise for the morning sightseeing tokyo in a uniquely local tour one of a kind!! Our local guide Taichi was patient, kind and super knowledgeable. 10/10 for us!" },
+                { author: "Franco", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-09", text: "Taichi was an amazing guide! He is extremely knowledgeable and showed us all the best spots. With bonus of great recs right after :) Must do!" },
+                { author: "McKenna", country: "Verified GetYourGuide review", rating: 5, date: "2025-06-22", text: "Absolutely incredible guide. The tour helped me get my bearings on the first day and figure out what i was interested in doing for the rest of my solo travel." },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-crossing-crossing-photography-tour') {
+        return {
+            averageRating: 4.81, totalReviews: 347, guideRating: 4.81, valueRating: 4.71,
+            reviews: [
+                { author: "Candace", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "Our driver was very patient and kind, very informative." },
+                { author: "Soraya", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "Amazing! Bucketlist! My son says it was the highlight of his Japan trip" },
+                { author: "Wils", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "We travel the world and usually take a few tours at every destination and this was one of the best tours we have had!" },
+                { author: "Tania", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-05", text: "Highly recommended. We loved the experience, and our tour guide Rakesh made the sightseeing tour very fun. He also took plenty of photos that he later sent to us by cell phone, plus a printed one. That was a really nice touch :)" },
+                { author: "Tiffany", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-04", text: "Absolutely amazing. Laura is absolutely perfect! The best experience to do in Tokyo. It's amazing." },
+                { author: "Robert", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-01", text: "Laura M. was great. It was a fun time driving around Tokyo with costumes." },
+                { author: "Henrikje", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-19", text: "This was one of the highlights of our trip to Japan! Julien was an excellent guide with great energy and a good sense of humor. He made the whole experience fun and relaxed while always looking out for everyone’s safety. The photos turned out amazing too. Thank you for making this such a memorable experience!" },
+                { author: "Rasmus", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-13", text: "Really great experience. We had a really nice tour around the Shibuya area." },
+                { author: "Iris", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-12", text: "We did this activity with 3 people. Mom found it quite nerve-wracking at first, but our live guide Biel reassured her and made it an unforgettable experience. During the tour, the live guide showed all kinds of special places that he talked about with great enthusiasm, and he also took some really nice photos during this tour. We really recommend this activity!😊 Thank you, Biel, for this unforgettable experience :)" },
+                { author: "Graciela", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-07", text: "I booked it for my husband and he loved it. For him, go-karting was one of the best activities he did in Tokyo. The guide was great! I highly recommend it!" },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-crossing-evening-tour') {
+        return {
+            averageRating: 4.86, totalReviews: 202, guideRating: 4.86, valueRating: 4.76,
+            reviews: [
+                { author: "Filippo", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Wonderful activity, very friendly and nice guide! Highly recommended 🤩🤩🤩" },
+                { author: "Wendy", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "Super fun live guide who also tells you a lot about the area. Nice karts, a fun experience, definitely a must. Note that you need an international driver's license." },
+                { author: "Lukas", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "The activity was super fun; the tour guide spoke good English and was a nice guy." },
+                { author: "Kevin", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "THIS IS A MUST!! You will never forget this experience. Well worth it! Our guide was fanatic." },
+                { author: "Rafael eduardo Zavala", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "It was spectacular. We did the sightseeing tour in the morning with a very friendly Spanish-speaking tour guide. I recommend it 100%." },
+                { author: "Maria", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Great activity. The go-karts worked very well with hydraulic brakes that made them very safe to fly through the streets of Tokyo. It's really worth it. Incredible. It's like you're in a video game." },
+                { author: "Georgia", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-05", text: "Ken was an incredible guide and the tour was amazing! It was so good to see Tokyo from a different view! I would 10000% recommend this tour and will do again if I come back to Tokyo!" },
+                { author: "Terrence", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-04", text: "We had an incredible experience! Everything was well organized from start to finish. Satar, our tour guide, was friendly, professional, and made the entire ride fun and enjoyable. Everyone in our group had an amazing time, and driving the go-karts was an unforgettable experience. It was definitely one of the highlights of my trip. I highly recommend this tour to anyone looking for a unique, fun, and exciting adventure!" },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-04", text: "Satar and Ken were awesome guides! This experience was everything I hoped it would be and I would totally do it again!" },
+                { author: "maree", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-03", text: "Even though it drizzled a little, we had a fantastic time. Our guide made us feel safe driving through the middle of Tokyo. It was so worth doing." },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-crossing-photography-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 151, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Carina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Arisa was really great. She created a pleasant atmosphere and helped us a lot with posing. We visited really beautiful locations. The communication was great, and the photos turned out really well. It was a great experience, and we love our photos. I can only recommend the shoot." },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "I booked this experience for my 14 year-old daughter. Arisa met us in Shibuya and was very professional and knowledgeable about spots to get some great photos. We were both really impressed by this experience. I can’t recommend it enough!" },
+                { author: "Tris", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-05", text: "Arisa was amazing and soooo friendly! I was really nervous because it was my first time doing something like this but she made me feel so comfortable and it was so natural, just like hanging out with an old friend. The pictures came out sooooo gorgeous! She’s so talented. Thank you sooo much!!" },
+                { author: "Nico", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-04", text: "Even without much experience on my part, Taku managed to take some amazing pictures. He always had great ideas and immediately told me when I needed to reposition myself. Awesome experience, awesome result! 12/10" },
+                { author: "Javier", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-29", text: "I had the pleasure of doing a photoshoot with Arisa in Shibuya, and I couldn’t have asked for a better photographer. She was kind, professional, and made me feel comfortable from the very beginning. Arisa has an incredible eye for photography and knew exactly how to find the best locations, lighting, and angles. Since I don’t do photoshoots often, she gave clear guidance on poses and expressions, helping me feel relaxed and confident throughout the session. What impressed me most was her passion and attention to detail. She genuinely cared about making every photo look its best, and it really shows in the final results. If you’re visiting Tokyo and want beautiful memories captured by someone who is talented, friendly, and dedicated to her craft, I highly recommend Arisa. This was one of the highlights of my trip to Japan. Thank you, Arisa!" },
+                { author: "Birgit", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-27", text: "The tour was awesome. Great spots, great and unique photos. Kaisei was incredibly friendly and helped us a lot with posing. Highly recommended and more than worth the price!" },
+                { author: "John", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-26", text: "Craig was incredible! Haven’t gotten the pictures back yet, but he said it could take a few days! He was super fun and easy to work with and I would recommend doing this 1000000%" },
+                { author: "Benjamin", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-11", text: "Activity was great! Our photographer Kaisei was very cool and helpful. Super friendly, definitely would recommend. 10/10!" },
+                { author: "Scott", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-10", text: "Great set of photos, very keen to get the final edited pics. Was shown around and suggested poses, gave me a good set of photos I couldn't have taken myself as a solo traveller." },
+                { author: "Bartek", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-08", text: "Easy to talk to. Confortable to be in a photoshoot and work eith." },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-crossing-premium-tour') {
+        return {
+            averageRating: 4.62, totalReviews: 869, guideRating: 4.62, valueRating: 4.52,
+            reviews: [
+                { author: "Barbara", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "The activity was spectacular. We booked an hour and regretted not booking more time. I should also mention that they were one of the few who offered the activity in Spanish, and we appreciated that. Dani was great! If we go back to Japan, we will definitely do it again." },
+                { author: "Andrew", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-15", text: "The go kart riding experience was super fun and exciting. You literally drive down the roads in Tokyo and Shibuya at a high rate of speed. The tour guides were super nice and friendly. Don’t worry they will not let you go alone. Also. You get to take photos and videos at every stop. Shibuya Kart has lots of costumes to choose from and it’s pretty fun wearing them and driving a go kart. Attracts a lot of lookers and people taking your photo in and around the Shibuya district. I would highly recommend to try it with friends and family." },
+                { author: "Cesar", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-14", text: "Highly recommended activity. Driving among the cars in Tokyo is something indescribable. They take you through busy streets and, depending on the package you choose, you even get to see Tokyo Tower or Shibuya Crossing. You have the option of wearing a costume of a character you like without paying extra. There are options at an extra cost to rent a holder for your cell phone, or you can even rent GoPro-type cameras or 360-degree cameras. In my opinion, this service isn't expensive because you get something of quality. During the tour, they take photos of you and share them with you at the end without charging you extra for them. In my case, I had to do the trip with Dani and another guy whose name I don't know, but who also spoke Spanish. During the stops on the tour, I was able to talk about Japan with Dani, and it was very pleasant. It's definitely an activity I would do again. Both tour guides are safety conscious throughout the tour." },
+                { author: "Georgios", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-31", text: "Great overall activity highly recommended especially the passing through Shibuya at the evening was amazing." },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-26", text: "This was the best time, everyone going to Tokyo should do this especially at night" },
+                { author: "Lea", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-25", text: "A very fun experience! I saw so much of the city and took a lot of pictures." },
+                { author: "Megan", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-22", text: "The activity was so fun and exceeded my expectations" },
+                { author: "David", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-15", text: "Lots of fun. Itafan was a fun guide. Karts are very fast and comfortable. It gets pretty exciting as you travel 50 mph thru the streets of Tokyo." },
+                { author: "Shaketa", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-12", text: "It was AMAZING! The staff was friendly and our instructor was great, definitely recommend this activity!" },
+                { author: "Kristian", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-07", text: "Such a fun activity! Probably the best way to see Tokyo - was really enjoyable and really safe. Highly recommend!" },
+            ],
+        };
+    }
+
+    if (slug === 'shibuya-crossing-walking-tour') {
+        return {
+            averageRating: 4.96, totalReviews: 608, guideRating: 4.96, valueRating: 4.86,
+            reviews: [
+                { author: "Camryn", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "Our 4 hour walking tour with Rika was incredible! She customized the itinerary to our interests and shared all her knowledge of Japan's history and modern culture. She pointed out places for us to grab snacks when we were hungry. She went above and beyond by spending an extra hour with us to complete our tour and provided us with additional recommendations for the rest of our stay in Japan. Could not recommend this tour with Rika enough!" },
+                { author: "Valeria", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "Momo is a wonderful guide and we recommend her for visiting Tokyo and having a young local point of view on the city and Japanese culture. She is thoughtful and was great with our teenage boys and delighted us with a perfect sushi place!" },
+                { author: "Lorenzo", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-10", text: "Super guide and very nice activity. It was a shame about the cloudy weather, but everything was exceptional!" },
+                { author: "Peter", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "Our guide, Ayuka, was brilliant. She took time ahead of the tour to contact us to learn about our interests and what we wanted to see. Then she recommended the best way to make that all happen and added great experiences we didn't know about. She's a great photographer and had good restaurant recommendations! Thank you!!" },
+                { author: "Allia", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-31", text: "Asako was very knowledgeable and showed us cultural and pop culture of Japan. Her English was very good to converse with, it was like hanging out with a friend. Highly recommend her" },
+                { author: "Shemaraba", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "It was a really nice day. Everything was well prepared. The live guide is very friendly and knows how to recommend a lot of nice places. It was a highlight of our trip. We are glad that we planned it on the first day." },
+                { author: "Carlos", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "We had an absolutely great time with Asako! She met us at Hotel Hilton Tokyo Bay & started our activity from there. The communication before meeting my family was exceptional. It is our first time in Tokyo, & she took time to explain the train system at Tokyo station since it can be confusing. We visited classic temples & shrines throughout our tour, we visited duty free shopping areas, free observational tower, & ate great local cuisine dinner together. She guided us to Takeshita Market & Shibuya crossing where we had more fun taking pictures on the street. Unfortunately, time flies by & you will definitely have fun in an educational kind of way with Asako! She was the best. Thank you!" },
+                { author: "Erika", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-29", text: "Our guide was friendly, responsive and personable. We took the metro to 3 attractions, then shared a ramen meal. Our guide helped us with logistics while providing cultural information and history. Highly recommend!" },
+                { author: "Pascal", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-29", text: "Our guide Miwa fully customized the guided visit to suit our needs. In addition, she knew a lot about Tokyo, Japan and all kinds of delicious food. Highly recommended." },
+                { author: "Anatoly", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-25", text: "It was amazing! Many thanks to Satomi for this tour. Satomi not only took me to cool places near my neighborhood, but also helped me integrate into the world of Tokyo so that I would not be a stranger here. I am extremely grateful for your kindness and highly recommend the tour." },
+            ],
+        };
+    }
+
+    if (slug === 'togoshi-ginza-shotengai-food-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Ros", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-08", text: "This food tour was great. We visited 4 places each with different local food, all were delicious. Thomas was a great host and very informative about the local area and also gave us insight on what else we could do while in Japan. At the last place we had coffee but we had to take our cake home as we were too full. It was a tour of just the two of us, which was lovely and very personal. At the end of the tour we were heading back to Shinjuku and so was Thomas so he helped guide us back to our accommodation. Would highly recommend this tour." },
+            ],
+        };
+    }
+
+    if (slug === 'tokyo-backstreets-walking-tour') {
+        return {
+            averageRating: 4.27, totalReviews: 11, guideRating: 4.27, valueRating: 4.17,
+            reviews: [
+                { author: "France", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-19", text: "The legend of the innkeeper and the children's playground" },
+                { author: "Sergej", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-05", text: "A very interesting tour featuring horror stories, tragic events, and a touch of True Crime. Our guide, Denise, was very approachable and always made an effort to keep the tour interesting." },
+                { author: "Carlos", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-23", text: "Great tour with a great guide. Just get ready to walk a lot but it was fun" },
+                { author: "Yasmine", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-15", text: "This tour was really fun. Our guide had a lot of information on a variety of topics ranging from local legends and ghost stories to true crime and missing persons. My partner and I thoroughly enjoyed our experience. It took us far and wide :)" },
+                { author: "Bea", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-11", text: "A unique experience. Incredible stories presented in an exciting and varied way by tour guide Matthias. I have been on ghost tours in various countries. This ghost tour with Maji Super Tours led by Maikel is outstanding and I can highly recommend it." },
+                { author: "Christelle", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-30", text: "Very friendly guide who even offered us a delicious little snack, interesting visit full of anecdotes, stories and exciting legends. Very nice experience." },
+                { author: "Jerrod", country: "Verified GetYourGuide review", rating: 4, date: "2024-11-06", text: "We had a great time listening to the stories of the area. It was incredibly cool to explore these locations and to see them at night. Our host gave us a great deal of insight into the local area." },
+                { author: "Vidhi", country: "Verified GetYourGuide review", rating: 1, date: "2026-05-25", text: "I would definitely not recommend the tour. This is not a cheap tour. The Guide was more interested in telling us the history other than the ghost story. It should have been called a historical tour and not a ghost tour with scary Japanese stories. The tour guide didn’t know much ghost stories and she said that maybe I will talk about history. I wouldn’t recommend, it was money completely wasted for people looking out for ghost tour." },
+            ],
+        };
+    }
+
+    if (slug === 'tokyo-skytree-spiritual-tour') {
+        return {
+            averageRating: 4.65, totalReviews: 776, guideRating: 4.65, valueRating: 4.55,
+            reviews: [
+                { author: "Danny", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-21", text: "Excellent fun… recommend anyone going to Tokyo to try this" },
+                { author: "Tom", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-18", text: "I had a great time on the go-kart tour with our guide (Javier). Javier gave us a very thorough walk-through of how to operate the go-kart. Javier guided us safely around parts of Tokyo. The whole process and experience was very professional. Highly recommend." },
+                { author: "Barbara", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-23", text: "Serhii (I think) was great! Definitely preferred the shibuya route last time we did it but it was all booked. This route is definitely less stressful though. Highly recommend this experience in Tokyo!" },
+                { author: "Ben", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-12", text: "Watching the city go from day to night while driving was amazing, and the photos were awesome! Worth it for the unique experience" },
+                { author: "Hoi", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-21", text: "Tour was amazing, unique experience whilst in Tokyo. We had so much fun with Airton and Frederico who went to great lengths to make sure everyone was enjoying the tour. Safety briefing was thorough too before tour." },
+                { author: "Maria", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-17", text: "It was very fun! Julian was really good and took a lot of pictures! Definitely recommend around 4pm to get the night life of the city!" },
+                { author: "Jamie", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-15", text: "Great tour with Ayrton, saw the sights of the city, felt safe the whole time and so much fun! Great experience, highly recommend :)" },
+                { author: "Jorge luis", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-27", text: "Fun. We felt at ease throughout the activity. Fun costumes and photos all the time. We loved seeing the streets of Tokyo and the big neon lights of Asakusa. Thanks to Ayrton for everything and to all the guys at Monkey Kart" },
+                { author: "Genny", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-05", text: "Our guide was friendly and the tour so much fun. I recommend doing this tour. It was a good length of time and we got all the photos the guide took. Cars seemed well maintained" },
+                { author: "Nyanthen", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-07", text: "Our tour and tour guides were amazing. The entire staff was very attentive, kind and generous especially on a very hot day. An amazing way to see Tokyo and have fun as well. Mathias from Chile was an amazing tour guide, owner was amazing as well as the rest of the staff." },
+            ],
+        };
+    }
+
+    if (slug === 'tokyo-tower-premium-tour') {
+        return {
+            averageRating: 4.73, totalReviews: 647, guideRating: 4.73, valueRating: 4.63,
+            reviews: [
+                { author: "Giuseppe", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "A really fun experience. At first, it seems complicated to drive in a city you don't know, but after just a few minutes you get used to it and enjoy the experience. Arriving at the Shibuya meeting point in the evening is also exciting. Serhii is a patient, helpful, and super kind guide. If you go to Tokyo, this is definitely an experience you should do." },
+                { author: "Hans", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-24", text: "It was great, needed help and the staff helped without question. Great service I 100% recommend." },
+                { author: "Richard", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-12", text: "We had a blast Karting through the streets of Tokyo This is a must do activity, our guide Sergii was a legend and made it an awsome time for us" },
+                { author: "Sarah", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-11", text: "My husband , daughter and I loved our go- carting experience. It was fun to dress up and crazy to hoon around Tokyo, shibuyo. Our guide ‘ Guy was great fun, kept us safe and smiling! We saw so much and the ride was a great amount of time. It was a highlight for us. Organise your international drivers licence before you come and all goes smoothly. Thank you" },
+                { author: "Domenico", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-11", text: "Simply fantastic and fun! Our guides were attentive and professional throughout the trip! Going through Shibuya Crossing in a go-kart is breathtaking! 🤩🤩🤩" },
+                { author: "Fiona", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-28", text: "This group activity is run brilliantly. You are greeted by lovely hosts who has near excellent english. you are then shown upstairs where you can change into some onsies and costumes of different types between pokemon characters, minions, Harry potter etc. You are sat down for 5 minutes to explain everything that keeps you safe before going on the journey of a lifetime. You zip through streets of Tokyo and see the beautiful sites all while getting brilliant photos taken by your tour guide." },
+                { author: "Lucia", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-26", text: "Very good experience. Our tour guide was Spanish. He treated the whole group very well and tried to make sure we all had nice photos as souvenirs." },
+                { author: "Jordan", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-14", text: "I had so much fun! This was my second time driving a go-kart through the streets of Tokyo and it was just as much fun this time. My guide Biel was awesome! I appreciate him taking pictures of me throughout the tour and making sure that I was having a good time. If you’re looking for something fun and different while you’re in town, I highly recommend doing this!" },
+                { author: "Jeremy", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-05", text: "Loved it. Our guide B was great, humble funny guy that made it the tour so fun & relaxed for a go kart through the busiest city on the planet.. Had a great time, great karts, would go again easy as." },
+                { author: "Robbie", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-30", text: "This was such a fun adventure! Going at night when there's fewer cars on the road was definitely the way to go. Fede and Takuya led us on a fantastic adventure. If you wear contacts, bring your glasses instead. Your eyes will thank you. A couple people in my group mentioned theirs got pretty dry during the excursion." },
+            ],
+        };
+    }
+
+    if (slug === 'yanaka-backstreets-bike-tour') {
+        return {
+            averageRating: 4.6, totalReviews: 107, guideRating: 4.6, valueRating: 4.5,
+            reviews: [
+                { author: "Aimee", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-09", text: "We had an enjoyable ride with IRENE who was very friendly, caring and informative. Great ride to give us an overview of some key spots and highlight was visiting the cemetery of Hachiko and the professor." },
+                { author: "Haydyn", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-07", text: "Haru was great! Would absolutely go again. What a fun way to see the city!" },
+                { author: "Jo", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-15", text: "Tam was an excellent guide, spoke fantastic English and knowledgeable about the various places we visited. We cycled about Tokyo main streets very safely. We crammed in lots of sights Temple, Olympic Stadium, outskirts of Imperial Palace, back streets etc." },
+                { author: "Julie", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-26", text: "Thank you, Ken, our guide! Very nice tour; we discovered several beautiful places in Tokyo!" },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-19", text: "Lives the bike ride. Beautiful scenery and a good way to see a lot of places in a short trip. Has so much fun and a small group makes it easier to get around" },
+                { author: "Iain", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-06", text: "A very enjoyable afternoon seeing Tokyo by bike. Our guide was very interesting and informative. It was a great way to see more of the city and was a lot of fun." },
+                { author: "Pam", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-17", text: "Miguel & Sho were two great guides who knew a lot about the city. Good Bianchi bike, we cycled a lot but in a safe way. Recommended if you like cycling, electric bikes are also available. It's nice that the end point is somewhere other than the start point, which offers the opportunity to see more of Tokyo." },
+                { author: "Jakob", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-10", text: "Great way to see the city and our host was so kind and patient" },
+                { author: "Aran", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-29", text: "Great tour of city in bike prepare for a workout session very fun" },
+                { author: "Nicholas", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-28", text: "Great bike tour through Tokyo, show took us to some great little hidden gems as well as some key must sees. He also shared very interesting insights into modern Japanese life and culture, highly recommend!" },
+            ],
+        };
+    }
+
     return null;
 };

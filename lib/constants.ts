@@ -214,6 +214,12 @@ export const KRABI_INFO_SLUGS = [
   'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
   'krabi-vs-phuket-which-to-visit'
 ];
+export const TOKYO_INFO_SLUGS = [
+  'best-time-to-visit-tokyo', 'tokyo-3-day-itinerary', 'getting-around-tokyo',
+  'shibuya-crossing-guide', 'tokyo-go-kart-guide', 'mount-fuji-day-trip-from-tokyo',
+  'tokyo-food-guide'
+];
+
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
   'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',

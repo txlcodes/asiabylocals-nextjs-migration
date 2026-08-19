@@ -38,6 +38,13 @@ const COUNTRY_META: Record<string, {
       { name: 'Rishikesh', slug: 'rishikesh', image: '/cities-images/rishikesh.webp', tagline: 'Yoga Capital of the World' },
     ],
   },
+  japan: {
+    title: 'Japan Tours & Experiences | Local Guides in Tokyo | AsiaByLocals',
+    description: 'Book Tokyo tours run by verified local operators — street go-karting past Shibuya Crossing, guided bike and e-bike rides, private walking days, night photography and Mount Fuji day trips. Real operators, direct confirmation.',
+    cities: [
+      { name: 'Tokyo', slug: 'tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg', tagline: 'Neon, Temples & Street Karts' },
+    ],
+  },
   thailand: {
     title: 'Thailand Tours & Experiences | Local Guides Across Thailand | AsiaByLocals',
     description: 'Discover the best tours across Thailand with licensed local guides — Bangkok temples & street food, Phuket and Krabi islands, Chiang Mai culture and Pattaya. Authentic experiences with expert locals.',

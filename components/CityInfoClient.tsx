@@ -135,6 +135,18 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Boat Diving Day Trip to Pattaya & Samaesarn Reefs', slug: 'pattaya-dive-sites-full-day-tour', description: 'The most accessible diving in Thailand, including wreck sites', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098668/asiabylocals/tours/pattaya-fun-dives-in-pattaya-and-samaesarn-with-transfer/hq_tour_img_1.png', price: 'From $105', rating: '4.8' },
         { title: 'Private Pattaya Sightseeing Tour', slug: 'pattaya-city-private-tour', description: 'The city highlights at your own pace with a private local guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098619/asiabylocals/tours/pattaya-laem-chabang-port-private-city-highlights-tour/hq_tour_img_1.png', price: 'From $72', rating: '4.8' },
     ],
+    'tokyo': [
+        { title: 'Shibuya Crossing Go-Kart Ride with Photos', slug: 'shibuya-crossing-crossing-photography-tour', description: "Street-legal kart through the world's busiest scramble — costume included", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740222/asiabylocals/tours/tokyo-go-kart-shibuya-crossing-photo-stop/hq_tour_img_1.png', price: 'From $79', rating: '4.8' },
+        { title: 'Asakusa, Skytree & Akihabara Go-Kart Run', slug: 'tokyo-skytree-spiritual-tour', description: "Old Tokyo, the river under Skytree, then Electric Town — 70 minutes", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740200/asiabylocals/tours/tokyo-go-kart-asakusa-skytree-akihabara/hq_tour_img_1.png', price: 'From $81', rating: '4.7' },
+        { title: 'Central Tokyo by E-Bike', slug: 'imperial-palace-bike-tour', description: "Imperial Palace moat, Nihonbashi, Ginza and Tsukiji in three hours", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740232/asiabylocals/tours/tokyo-ebike-city-highlights-3-hours/hq_tour_img_1.jpg', price: 'From $63', rating: '4.7' },
+        { title: 'Private Walking Day with a Local Guide', slug: 'shibuya-crossing-walking-tour', description: "Six hours, no fixed route — built around what you actually want", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg', price: 'From $85', rating: '5.0' },
+        { title: 'Shibuya After Dark Neon Photo Walk', slug: 'shibuya-crossing-photography-tour', description: "A local photographer shoots you through the backstreets and Nonbei Yokocho", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740190/asiabylocals/tours/tokyo-shibuya-neon-night-photo-walk/hq_tour_img_1.jpg', price: 'From $116', rating: '5.0' },
+        { title: 'Tokyo Backstreets E-Bike: Yanaka', slug: 'yanaka-backstreets-bike-tour', description: "Shitamachi lanes that survived 1923 and the firebombing", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740245/asiabylocals/tours/tokyo-ebike-hidden-neighbourhoods-3-hours/hq_tour_img_1.jpg', price: 'From $63', rating: '4.6' },
+        { title: 'Snow Monkeys & Zenko-ji Day Trip', slug: 'jigokudani-monkey-park-full-day-tour', description: "Nagano's hot-spring macaques and a 1,400-year-old temple, private car", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169014/asiabylocals/tours/nagano-zenkoji-snow-monkeys-day-trip/hq_tour_img_1.jpg', price: 'From $144', rating: '4.9' },
+        { title: 'Tokyo Night Drive: Wangan & Daikoku PA', slug: 'daikoku-parking-area-evening-tour', description: "Japan's most famous informal car meet, from the passenger seat", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787168997/asiabylocals/tours/tokyo-drift-jdm-night-drive/hq_tour_img_1.jpg', price: 'From $123', rating: '4.8' },
+        { title: 'Togoshi Ginza Hidden Food Walk', slug: 'togoshi-ginza-shotengai-food-tour', description: "Tokyo's longest shopping street — 1.3 km, no other tour groups", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169079/asiabylocals/tours/togoshi-ginza-hidden-food-tour/hq_tour_img_1.jpg', price: 'From $113', rating: '5.0' },
+        { title: 'Tokyo Ghost Walk: Yokai & Folklore', slug: 'tokyo-backstreets-walking-tour', description: "Real execution grounds and the stories that outlived them", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169054/asiabylocals/tours/tokyo-ghost-tour-japanese-folklore/hq_tour_img_1.jpg', price: 'From $80', rating: '4.3' },
+    ],
     'krabi': [
         { title: 'Krabi Classic 4-Island Tour with Snorkelling', slug: 'phra-nang-cave-beach-boat-tour', description: 'Phra Nang, Chicken, Tup & Poda by speedboat with hotel pickup', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364587/asiabylocals/tours/krabi-620-krabi-classic-4-island-tour-with-snorkeling-hotel-pickup/hq_tour_img_1.jpg', price: 'From $36' },
         { title: "4 Islands & Krabi's Separated Sea by Longtail", slug: 'chicken-island-guided-tour', description: 'The Talay Waek sandbar at low tide, traditional longtail boat', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786364677/asiabylocals/tours/krabi-627-krabi-4-islands-krabi-s-separated-sea-longtail-boat-tour/hq_tour_img_1.jpg', price: 'From $21' },
@@ -222,6 +234,16 @@ const KRABI_SIDEBAR = [
     { name: 'Krabi vs Phuket', slug: 'krabi-vs-phuket-which-to-visit' },
 ];
 
+const TOKYO_SIDEBAR = [
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-tokyo' },
+    { name: '3-Day Itinerary', slug: 'tokyo-3-day-itinerary' },
+    { name: 'Getting Around', slug: 'getting-around-tokyo' },
+    { name: 'Shibuya Crossing', slug: 'shibuya-crossing-guide' },
+    { name: 'Street Go-Kart Guide', slug: 'tokyo-go-kart-guide' },
+    { name: 'Mount Fuji Day Trip', slug: 'mount-fuji-day-trip-from-tokyo' },
+    { name: 'Tokyo Food Guide', slug: 'tokyo-food-guide' },
+];
+
 function renderIcon(name: string) {
     const props = { size: 20 };
     switch (name) {
@@ -282,6 +304,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         'chiang-mai': CHIANG_MAI_SIDEBAR,
         pattaya: PATTAYA_SIDEBAR,
         krabi: KRABI_SIDEBAR,
+        tokyo: TOKYO_SIDEBAR,
     };
     const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || AGRA_SIDEBAR;
 
