@@ -217,7 +217,11 @@ export const KRABI_INFO_SLUGS = [
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders
 // nothing but the title — worse for SEO than a 404.
-export const TOKYO_INFO_SLUGS: string[] = [];
+export const TOKYO_INFO_SLUGS = [
+  'best-time-to-visit-tokyo', 'tokyo-3-day-itinerary', 'getting-around-tokyo',
+  'shibuya-crossing-guide', 'tokyo-go-kart-guide', 'mount-fuji-day-trip-from-tokyo',
+  'tokyo-food-guide'
+];
 
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',

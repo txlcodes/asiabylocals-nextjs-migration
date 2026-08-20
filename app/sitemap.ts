@@ -138,8 +138,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
 
   // Tokyo info pages
-  // Tokyo info pages: none published yet — see TOKYO_INFO_SLUGS in constants.ts
-  const tokyoInfoPages: MetadataRoute.Sitemap = [];
+  // Tokyo info pages
+  const tokyoInfoPages = [
+    'best-time-to-visit-tokyo', 'tokyo-3-day-itinerary', 'getting-around-tokyo',
+    'shibuya-crossing-guide', 'tokyo-go-kart-guide', 'mount-fuji-day-trip-from-tokyo',
+    'tokyo-food-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/japan/tokyo/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
 
   // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];

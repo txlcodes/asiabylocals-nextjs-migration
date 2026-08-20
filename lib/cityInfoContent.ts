@@ -1,4 +1,5 @@
 import { getThailandInfoContent } from './thailandInfoContent';
+import { getTokyoInfoContent } from './tokyoInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -18,6 +19,9 @@ export interface CityInfoData {
 }
 
 export function getCityInfoContent(slug: string): CityInfoData | null {
+    const tokyoPage = getTokyoInfoContent(slug);
+    if (tokyoPage) return tokyoPage;
+
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;
 
