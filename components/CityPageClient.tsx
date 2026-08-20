@@ -1532,6 +1532,96 @@ const ThingsToDoSection: React.FC<ThingsToDoSectionProps> = ({ city }) => {
     seoKeywords: string[];
     faqs?: Array<{ q: string; a: string }>;
   }>> = {
+    'Tokyo': [
+      {
+        title: 'Ride a Street Kart Through Shibuya Crossing',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740222/asiabylocals/tours/tokyo-go-kart-shibuya-crossing-photo-stop/hq_tour_img_1.png',
+        shortDescription: 'These are road-registered vehicles, not a ride — which is why the route goes through the [Shibuya scramble](/japan/tokyo/shibuya-crossing-guide) itself, at road level, with pedestrians flooding past on every side.',
+        fullDescription: 'These are road-registered vehicles, not an amusement ride, which is why the route can run through live Tokyo traffic and across the Shibuya scramble itself rather than around a closed circuit. **Costumes are included** — just not Nintendo\'s, since the company behind the original MariCar tours lost a long-running case and the Supreme Court finalised Nintendo\'s win in December 2020. **The paperwork is the part that catches people out.** Japan accepts only a Japanese licence or an International Driving Permit issued under the **1949 Geneva Convention** — 1968 Vienna Convention permits are not valid here. Licences from Switzerland, Germany, France, Belgium, Monaco and Taiwan are the exception and need an official JAF translation instead. Bring the physical IDP, the home licence it was issued against, and your passport. Arrange it before you fly; no shop in Tokyo can issue one, and people are turned away at the counter with no refund every week.',
+        seoKeywords: ['tokyo go kart', 'shibuya go karting', 'street kart tokyo', 'mario kart tokyo'],
+        faqs: [
+          { q: 'Do I really need an International Driving Permit?', a: 'Yes — and it must be the **1949 Geneva Convention** version. Bring the physical permit, your home licence and your passport. See our full [Tokyo go-kart guide](/japan/tokyo/tokyo-go-kart-guide) for the six countries that use a JAF translation instead.' },
+          { q: 'Can two of us share a kart?', a: 'No — they are **single-seat**, so everyone drives their own and everyone needs valid documents.' }
+        ]
+      },
+      {
+        title: 'See Central Tokyo by E-Bike',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740232/asiabylocals/tours/tokyo-ebike-city-highlights-3-hours/hq_tour_img_1.jpg',
+        shortDescription: 'Tokyo is flat and its side streets carry almost no traffic, so three hours on a bike covers four or five times the ground a walking tour manages — the Imperial Palace moat, Nihonbashi, Ginza and Tsukiji in one loop.',
+        fullDescription: 'Tokyo surprises people as a cycling city. It is flat, the back streets are near-empty, and cycling is so ordinary here that nobody looks twice. A three-hour ride takes in the **Imperial Palace moat**, which sits on the site of Edo Castle, **Nihonbashi** — where every road distance in Japan is still officially measured from, with a marker set into the bridge — Tokyo Station\'s restored 1914 red-brick facade, Ginza, and **Tsukiji outer market**, which kept trading fish, knives and tamagoyaki long after the wholesale auction moved to Toyosu in 2018. E-bikes are available and worth taking if you are not a regular cyclist. The guide handling the route, the traffic and where to park at each stop is the part that makes cycling Tokyo far less stressful than doing it alone.',
+        seoKeywords: ['tokyo bike tour', 'tokyo cycling', 'imperial palace bike', 'tsukiji bike tour'],
+        faqs: [
+          { q: 'Do I need to be fit?', a: 'No. Tokyo is flat, and the **e-bike option removes any effort** from the few slopes. You do need to already know how to ride a bicycle.' },
+          { q: 'Is cycling in Tokyo safe?', a: 'Yes — the routes use side streets and riverside paths rather than main roads. **Helmets and insurance are included**, and your guide briefs you on Japanese road rules first.' }
+        ]
+      },
+      {
+        title: 'Walk Tokyo With a Local, Your Way',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg',
+        shortDescription: 'No fixed itinerary. You say what you actually want out of Tokyo — neon and crowds, or quiet shrine lanes — and the day is built around that answer.',
+        fullDescription: 'Most Tokyo tours march everyone past the same five landmarks in the same order. This starts with a conversation instead. A typical day still touches what you came for: **Shibuya Crossing** from street level and above, **Meiji Shrine** inside a forest of roughly 100,000 hand-planted donated trees, and **Senso-ji** in Asakusa, standing since 645 and the oldest temple in the city. What a local actually changes is the small stuff — which train car puts you at the right exit, which side of Nakamise-dori to walk so you are not fighting the crowd, which of the identical-looking ramen counters is worth queueing for. Because the group is only your party, the pace bends: slow down for lunch, skip a stop, sit when you have had enough.',
+        seoKeywords: ['tokyo private tour', 'tokyo walking tour', 'tokyo local guide', 'senso-ji tour'],
+        faqs: [
+          { q: 'How much walking is involved?', a: 'Roughly **6–8 km** across the day with train rides between districts. Tell us in advance about any mobility needs and the route is rebuilt around lifts and shorter legs.' },
+          { q: 'Are train fares included?', a: 'No — you pay your own, usually **¥800–¥1,500** for a full day. Bring a Suica or Pasmo; see our [getting around Tokyo guide](/japan/tokyo/getting-around-tokyo).' }
+        ]
+      },
+      {
+        title: 'Photograph Shibuya After Dark',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740190/asiabylocals/tours/tokyo-shibuya-neon-night-photo-walk/hq_tour_img_1.jpg',
+        shortDescription: 'Shibuya photographs badly if you only shoot the crossing. One street back the alleys narrow to shoulder width and the light turns genuinely cinematic.',
+        fullDescription: 'The famous scramble is five seconds of a neighbourhood that is far more interesting one street back. This is a walk with a photographer rather than a photoshoot — you move through the crossing, Center Gai\'s wall of screens, then into **Nonbei Yokocho**, \\"Drunkard\'s Alley\\", where a few dozen tiny bars sit along two lanes behind the station, most seating six or seven people, lit almost entirely by lanterns and vending machines. It is a minute from the crossing and feels like a different decade. Shots are taken as you go, so the images look like an evening you actually had rather than a studio session held outdoors. **Retouched photos are delivered digitally afterwards at no extra cost** — there is no per-image upsell at the end.',
+        seoKeywords: ['tokyo photographer', 'shibuya photo tour', 'tokyo night photography', 'nonbei yokocho'],
+        faqs: [
+          { q: 'What if it rains?', a: '**Light rain is fine and often better** — wet asphalt reflecting neon improves the images, and the alleys are partly covered.' },
+          { q: 'When does it run?', a: 'Evenings only, since the whole route depends on neon. **Exact start time shifts with the season.**' }
+        ]
+      },
+      {
+        title: 'Day Trip to the Snow Monkeys and Zenko-ji',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169014/asiabylocals/tours/nagano-zenkoji-snow-monkeys-day-trip/hq_tour_img_1.jpg',
+        shortDescription: 'Jigokudani\'s macaques are the only monkeys on earth known to bathe in hot springs. A private car makes Nagano a manageable single day from Tokyo.',
+        fullDescription: 'The Jigokudani troop has been bathing in the valley\'s hot pool since the 1960s and is the **only population of monkeys on earth known to do it**. The valley name means \\"hell valley\\" — steam vents through steep forested walls and snow sits on the cliffs for months. Getting there by public transport eats the day in transfers; a private car makes it a single manageable day. **Zenko-ji** in Nagano city is the other half: founded in the 7th century, it predates the split of Japanese Buddhism into sects and so belongs to none of them, which is why it has drawn pilgrims from every school for 1,400 years. Beneath its main hall runs a **pitch-dark underground passage** where visitors feel along the wall for a key said to grant salvation. Be aware the monkey park needs a **1.6 km forest walk each way** on an unpaved trail that gets icy in winter.',
+        seoKeywords: ['snow monkeys tokyo', 'jigokudani day trip', 'nagano from tokyo', 'zenko-ji'],
+        faqs: [
+          { q: 'Will we definitely see the monkeys?', a: 'They are **wild and unfenced**, so sightings are typical but never guaranteed. They bathe far more reliably in the **cold months**.' },
+          { q: 'How long is the day?', a: '**About ten hours**, of which roughly seven are driving. Pickup is early, around 07:00.' }
+        ]
+      },
+      {
+        title: 'Eat Along Tokyo\'s Longest Shopping Street',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169079/asiabylocals/tours/togoshi-ginza-hidden-food-tour/hq_tour_img_1.jpg',
+        shortDescription: 'Togoshi Ginza runs 1.3 km with around 400 shops in residential Shinagawa — no queues, no English menus, and no other tour groups.',
+        fullDescription: 'A **shotengai** is a covered local shopping street, and Togoshi Ginza is the longest in Tokyo — about **1.3 kilometres and roughly 400 shops** — in a residential part of Shinagawa that almost no visitor reaches. That matters because the food is priced and made for people who live nearby and come back weekly. The name is borrowed: after the **1923 earthquake** the street was rebuilt using paving bricks salvaged from Ginza\'s ruined tram lines, and it took the name with them. The walk eats across the street rather than stopping at one place — karaage from a fryer that does nothing else, okonomiyaki cooked on the griddle in front of you, croquettes handed over hot in paper, and an izakaya sit-down toward the end. It is the opposite of a Tsukiji food tour, and it replaces dinner rather than preceding it.',
+        seoKeywords: ['tokyo food tour', 'togoshi ginza', 'shotengai tokyo', 'local food tokyo'],
+        faqs: [
+          { q: 'Can you handle dietary restrictions?', a: 'Tell us **when you book, not on the day** — this is a small local street where substitutions need arranging ahead. **Strict vegetarian and halal are genuinely difficult here**, so flag them early and we will be honest about whether it works.' },
+          { q: 'Is it enough food for dinner?', a: 'Yes. **Come hungry** — this replaces dinner rather than preceding it.' }
+        ]
+      },
+      {
+        title: 'Ride Along Tokyo\'s Night Car Scene',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787168997/asiabylocals/tours/tokyo-drift-jdm-night-drive/hq_tour_img_1.jpg',
+        shortDescription: 'The Wangan bayside expressway, Rainbow Bridge, and Daikoku PA — Japan\'s most famous informal car meet. You are the passenger, so no licence needed.',
+        fullDescription: 'Tokyo\'s car scene is real, it happens at night, and it is almost impossible to reach without someone who already belongs to it. **You are the passenger, so no licence and no IDP are needed.** The **Wangan** is the bayside expressway running the length of Tokyo Bay, and its tunnels and sweeping curves became shorthand for Japanese street racing decades before any film borrowed the name. **Daikoku Parking Area** is the heart of it — a service area on a loop of elevated ramp in Yokohama harbour that turns on weekend nights into the most famous informal car meet in Japan, with entry free and the atmosphere relaxed. One honest caveat: it is an **informal public gathering, not an organised event**. Turnout depends on the weather and on whether police are moving people along, so some nights are packed and some are thin.',
+        seoKeywords: ['daikoku pa', 'tokyo car meet', 'wangan tokyo', 'jdm tokyo tour'],
+        faqs: [
+          { q: 'Do I need a driving licence?', a: 'No — **you ride as a passenger** throughout. No licence, no IDP.' },
+          { q: 'Is the car meet guaranteed?', a: 'No. Daikoku is **informal and unorganised** — turnout varies with weather and police presence. **Weekends are far busier than weekdays.**' }
+        ]
+      },
+      {
+        title: 'Cycle the Backstreets of Old Tokyo',
+        image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740245/asiabylocals/tours/tokyo-ebike-hidden-neighbourhoods-3-hours/hq_tour_img_1.jpg',
+        shortDescription: 'Yanaka escaped both the 1923 earthquake and the wartime firebombing, so its wooden houses and temple lanes are genuinely old rather than rebuilt.',
+        fullDescription: 'This is the ride for people who have already done the landmarks, or never wanted them. It heads into **Shitamachi** — the \\"low city\\" — where the lanes are too narrow for coaches and daily life still runs at a neighbourhood pace. **Yanaka** is the centrepiece: it largely escaped **both the 1923 earthquake and the wartime firebombing** that flattened most of eastern Tokyo, so what stands there is genuinely old rather than reconstructed — temple walls, wooden houses, and a shopping street where people still buy their dinner from individual butchers and pickle shops. A bike is the right tool here specifically because the area is a maze: on foot you see one street, by bike you can wander the whole grid. **Kagurazaka**\'s stone-paved former geisha alleys close the loop.',
+        seoKeywords: ['yanaka tokyo', 'shitamachi tour', 'old tokyo bike', 'tokyo backstreets'],
+        faqs: [
+          { q: 'Is this suitable if I have done Tokyo before?', a: 'It is aimed at exactly that — **no landmarks**, just the neighbourhoods behind them.' },
+          { q: 'Is it respectful to cycle there?', a: 'These are **residential neighbourhoods and temple grounds**, so the group rides quietly and dismounts where asked. That is built into how the tour is run.' }
+        ]
+      }
+    ],
     'Agra': [
       {
         title: 'From Delhi: Taj Mahal & Agra Private Day Trip with Transfers',
@@ -3075,6 +3165,43 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 <Link
                   key={idx}
                   href={`/thailand/phuket/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Tokyo Essential Guides Section */}
+        {city.toLowerCase() === 'tokyo' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Tokyo
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Best Time to Visit Tokyo', slug: 'best-time-to-visit-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg' },
+                { title: 'Tokyo 3-Day Itinerary', slug: 'tokyo-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740232/asiabylocals/tours/tokyo-ebike-city-highlights-3-hours/hq_tour_img_1.jpg' },
+                { title: 'Getting Around Tokyo', slug: 'getting-around-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740245/asiabylocals/tours/tokyo-ebike-hidden-neighbourhoods-3-hours/hq_tour_img_1.jpg' },
+                { title: 'Shibuya Crossing Guide', slug: 'shibuya-crossing-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740190/asiabylocals/tours/tokyo-shibuya-neon-night-photo-walk/hq_tour_img_1.jpg' },
+                { title: 'Tokyo Street Go-Kart Guide', slug: 'tokyo-go-kart-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740222/asiabylocals/tours/tokyo-go-kart-shibuya-crossing-photo-stop/hq_tour_img_1.png' },
+                { title: 'Mount Fuji Day Trip', slug: 'mount-fuji-day-trip-from-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169014/asiabylocals/tours/nagano-zenkoji-snow-monkeys-day-trip/hq_tour_img_1.jpg' },
+                { title: 'Tokyo Food Guide', slug: 'tokyo-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169079/asiabylocals/tours/togoshi-ginza-hidden-food-tour/hq_tour_img_1.jpg' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/japan/tokyo/${guide.slug}`}
                   className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
                 >
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
