@@ -1250,6 +1250,20 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Tokyo-specific FAQs
+    if (cityLower === 'tokyo' || tourTitle.toLowerCase().includes('tokyo')) {
+      faqs.push(
+        { question: 'When is the best time to visit Tokyo?', answer: 'Late March to early April for cherry blossom, or late October to early December for autumn colour and the clearest skies. Contrary to most advice, **October is Tokyo\'s wettest month** (234.8 mm), not the June rainy season. Full month-by-month figures are in our [best time to visit Tokyo guide](/japan/tokyo/best-time-to-visit-tokyo).' },
+        { question: 'How do I get around Tokyo?', answer: 'Get a **Suica or Pasmo IC card** and budget ¥1,000–¥1,400 a day. Do **not** buy a JR Pass for a Tokyo-only trip — it costs ¥50,000 and excludes Tokyo Metro and Toei entirely. Note JR East raised Tokyo fares on 14 March 2026, so Metro is now cheaper than JR on several routes. See [getting around Tokyo](/japan/tokyo/getting-around-tokyo).' },
+        { question: 'What should I book before arriving in Tokyo?', answer: '**Shibuya Sky releases tickets only 14 days ahead** at 00:00 JST — it cannot be booked months in advance. teamLab Borderless tickets drop at 12:00 JST on the 1st of each month. Our [3-day Tokyo itinerary](/japan/tokyo/tokyo-3-day-itinerary) lists every booking deadline.' },
+        { question: 'Do I need a licence for a Tokyo go-kart tour?', answer: 'Yes — a Japanese licence or an **International Driving Permit issued under the 1949 Geneva Convention**. 1968 Vienna Convention permits are not valid in Japan. Licences from Switzerland, Germany, France, Belgium, Monaco and Taiwan need an official JAF translation instead. Arrange it before you fly; see the [Tokyo go-kart guide](/japan/tokyo/tokyo-go-kart-guide).' },
+        { question: 'Can I do a Mount Fuji day trip from Tokyo?', answer: 'Yes — the highway bus from Busta Shinjuku to Kawaguchiko takes about 1h 45m for ¥2,200. But manage expectations: **Fuji is visible on 84% of December mornings and only 23% of July mornings**, and cloud builds through the day, so go early. Details in our [Mount Fuji day trip guide](/japan/tokyo/mount-fuji-day-trip-from-tokyo).' },
+        { question: 'What food is Tokyo known for?', answer: '**Edomae sushi** (the Tokyo Bay style, where curing began as a workaround for having no refrigeration), **monjayaki** — a runny griddle dish unique to Tokyo with 80+ specialists on Tsukishima\'s Monja Street — and soba. Also worth knowing: **Tsukiji Outer Market never closed**; only the wholesale auction moved to Toyosu. See the [Tokyo food guide](/japan/tokyo/tokyo-food-guide).' },
+        { question: 'Is Shibuya Crossing worth visiting?', answer: 'The crossing itself takes about ninety seconds. What makes it worth an evening is one street back — **Nonbei Yokocho**, a lantern-lit alley of tiny bars a minute away that almost nobody who photographs the scramble walks into. Note street drinking is banned in the area 18:00–05:00 year-round, though the ordinance carries no fine. See the [Shibuya Crossing guide](/japan/tokyo/shibuya-crossing-guide).' },
+        { question: 'Do I need cash in Tokyo?', answer: 'Yes, some. Japan\'s cashless ratio reached 58% in 2025, so **over 40% of payments are still cash** — and card refusal is most likely at small independent izakaya, ramen ticket machines and market stalls. Tipping is not expected anywhere.' }
+      );
+    }
+
     // Add Mumbai-specific FAQs
     if (cityLower === 'mumbai' || tourTitle.toLowerCase().includes('mumbai')) {
       faqs.push(
