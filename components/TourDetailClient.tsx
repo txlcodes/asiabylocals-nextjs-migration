@@ -2579,6 +2579,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           </div>
                           <h2 className="text-2xl font-black text-[#001A33]">Traveler Reviews</h2>
                         </div>
+                        {getTourReviews(tourSlug)?.reviews?.some(r => r.country === 'Verified GetYourGuide review') && (
+                          <p className="text-xs text-gray-400 font-medium -mt-4 mb-6">
+                            Includes verified reviews left for this operator&apos;s same experience on other booking platforms.
+                          </p>
+                        )}
 
                         {/* Rating Summary */}
                         <div className="flex flex-col sm:flex-row gap-8 mb-6">
@@ -2709,7 +2714,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   </div>
                                   <div>
                                     <div className="text-sm font-bold text-[#001A33]">
-                                      {review.author} <span className="font-normal text-gray-500">&ndash; {review.country}</span>
+                                      {review.author}{review.country && review.country !== 'Verified GetYourGuide review' && <span className="font-normal text-gray-500">&ndash; {review.country}</span>}
                                     </div>
                                     <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.date)}</div>
                                   </div>
