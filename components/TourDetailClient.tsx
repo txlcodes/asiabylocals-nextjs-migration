@@ -2579,11 +2579,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           </div>
                           <h2 className="text-2xl font-black text-[#001A33]">Traveler Reviews</h2>
                         </div>
-                        {getTourReviews(tourSlug)?.reviews?.some(r => r.country === 'Verified GetYourGuide review') && (
-                          <p className="text-xs text-gray-400 font-medium -mt-4 mb-6">
-                            Includes verified reviews left for this operator&apos;s same experience on other booking platforms.
-                          </p>
-                        )}
+
 
                         {/* Rating Summary */}
                         <div className="flex flex-col sm:flex-row gap-8 mb-6">
@@ -2624,11 +2620,22 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           </div>
                         </div>
 
-                        {/* Verified badge */}
-                        <div className="flex items-center gap-2 text-sm text-[#059669] font-semibold mb-6 pb-6 border-b border-gray-200">
-                          <ShieldCheck size={16} className="text-[#10B981]" />
-                          All reviews are from verified AsiaByLocals travelers
-                        </div>
+                        {/* Verified badge — only truthful when every review is our own booking */}
+                        {(() => {
+                          const carried = getTourReviews(tourSlug)?.reviews?.some(
+                            r => r.country === 'Verified GetYourGuide review'
+                          );
+                          return (
+                            <div className="flex items-center gap-2 text-sm font-semibold mb-6 pb-6 border-b border-gray-200">
+                              <ShieldCheck size={16} className="text-[#10B981]" />
+                              <span className={carried ? 'text-gray-400 font-medium' : 'text-[#059669]'}>
+                                {carried
+                                  ? 'Verified reviews from travelers on this operator\u2019s experience'
+                                  : 'All reviews are from verified AsiaByLocals travelers'}
+                              </span>
+                            </div>
+                          );
+                        })()}
 
                         {/* Real Reviews (from DB) - shown on top */}
                         {realReviews.length > 0 && (
