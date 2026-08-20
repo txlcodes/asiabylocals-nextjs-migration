@@ -37,8 +37,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "best-time-to-visit-tokyo":
             return {
                 title: "Best Time to Visit Tokyo: Month-by-Month Weather, Sakura & Crowd Guide (2026)",
-                seoTitle: "Best Time to Visit Tokyo (2026 Month Guide)",
-                description: "Tokyo's wettest month is October, not June. JMA climate normals month by month, real 2026 cherry blossom dates, rainy season truths, and the exact holiday weeks to avoid.",
+                seoTitle: "Best Time to Visit Tokyo (2026 Guide)",
+                description: "Tokyo's wettest month is October, not June. JMA climate normals month by month, the real 2026 cherry blossom dates, and the holiday weeks to avoid.",
                 heroImage: IMG.walking,
                 sections: [
                     {
@@ -104,7 +104,7 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "tokyo-3-day-itinerary":
             return {
                 title: "Tokyo in 3 Days: A Realistic Itinerary With Booking Deadlines (2026)",
-                seoTitle: "Tokyo 3-Day Itinerary 2026 (What to Book First)",
+                seoTitle: "Tokyo 3-Day Itinerary (2026)",
                 description: "A 3-day Tokyo plan built around what you must book ahead — Shibuya Sky releases only 14 days out, teamLab tickets drop on the 1st, and museums close Mondays.",
                 heroImage: IMG.walking,
                 sections: [
@@ -157,8 +157,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "getting-around-tokyo":
             return {
                 title: "Getting Around Tokyo: IC Cards, JR Pass and the 2026 Fare Changes",
-                seoTitle: "Getting Around Tokyo 2026: Suica, Fares & Passes",
-                description: "JR East raised Tokyo fares in March 2026 — the first real revision since 1987. What Suica, Pasmo and the JR Pass actually cost now, and why the pass is wrong for a Tokyo-only trip.",
+                seoTitle: "Getting Around Tokyo: Suica & Fares",
+                description: "JR East raised Tokyo fares in March 2026, its first revision since 1987. What Suica, Pasmo and the JR Pass cost now — and why the pass is wrong for Tokyo.",
                 heroImage: IMG.ebike,
                 sections: [
                     {
@@ -224,8 +224,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "shibuya-crossing-guide":
             return {
                 title: "Shibuya Crossing: The Complete Guide (Viewpoints, Hachiko & the Drinking Ban)",
-                seoTitle: "Shibuya Crossing Guide 2026: Views & Rules",
-                description: "Five crosswalks, one diagonal, a 140-second signal cycle. Where to photograph it free, what Shibuya Sky really costs, the year-round street-drinking ban, and Hachiko's real story.",
+                seoTitle: "Shibuya Crossing Guide (2026)",
+                description: "Five crosswalks, one diagonal, a 140-second signal cycle. Where to shoot it free, what Shibuya Sky costs, and the street-drinking ban that carries no fine.",
                 heroImage: IMG.neon,
                 sections: [
                     {
@@ -282,8 +282,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "tokyo-go-kart-guide":
             return {
                 title: "Tokyo Street Go-Karting: The Licence Rules That Get People Turned Away",
-                seoTitle: "Tokyo Go-Kart Guide 2026: IDP Rules & Booking",
-                description: "You need a 1949 Geneva Convention IDP to drive a street kart in Tokyo — and six countries need a JAF translation instead. What to arrange before you fly, and why the costumes changed.",
+                seoTitle: "Tokyo Go-Kart Guide: IDP Rules",
+                description: "You need a 1949 Geneva Convention IDP to drive a street kart in Tokyo, and six countries need a JAF translation instead. Sort it before you fly.",
                 heroImage: IMG.kart,
                 sections: [
                     {
@@ -334,8 +334,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "mount-fuji-day-trip-from-tokyo":
             return {
                 title: "Mount Fuji Day Trip from Tokyo: Where to Go and When You'll Actually See It",
-                seoTitle: "Mt Fuji Day Trip from Tokyo (2026 Guide)",
-                description: "Fuji is visible 84% of mornings in December and 23% in July. Real visibility data, 2026 climbing rules and the ¥4,000 fee, plus what a Kawaguchiko day trip costs from Shinjuku.",
+                seoTitle: "Mt Fuji Day Trip from Tokyo (2026)",
+                description: "Fuji is visible on 84% of December mornings and 23% of July mornings. Real visibility data, 2026 climbing rules, and what a Kawaguchiko day trip costs.",
                 heroImage: IMG.walking,
                 sections: [
                     {
@@ -392,8 +392,8 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         case "tokyo-food-guide":
             return {
                 title: "Tokyo Food Guide: What This City Eats That Nowhere Else Does",
-                seoTitle: "Tokyo Food Guide 2026: Edomae, Monja & Markets",
-                description: "Edomae sushi, monjayaki, Edo soba and the Toyosu tuna auction lottery. Tokyo has 160 Michelin-starred restaurants — and the best food is often ¥150 at a konbini.",
+                seoTitle: "Tokyo Food Guide: Edomae & Monja",
+                description: "Edomae sushi, monjayaki, Edo soba and the Toyosu tuna auction lottery. Tokyo has 160 Michelin stars — and the best food is often ¥150 at a konbini.",
                 heroImage: IMG.food,
                 sections: [
                     {

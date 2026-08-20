@@ -40,6 +40,10 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Goa Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Goa tours from $25. Beach tours, Old Goa heritage walks, spice plantation visits, Dudhsagar Falls trips & Portuguese quarter tours. Licensed guides, free cancellation.',
   },
+  'Tokyo': {
+    title: 'Tokyo Tours & Things to Do | Book with Local Guides',
+    description: '21 Tokyo tours from $48. Street go-karting past Shibuya Crossing, guided e-bike and walking tours, neon photo walks & Mount Fuji day trips. Verified operators.',
+  },
   'Bangkok': {
     title: 'Bangkok Tours & Things to Do 2026 | Local Guided Experiences',
     description: '20+ Bangkok tours from $30. Grand Palace & Wat Pho visits, floating market day trips, Chinatown food tours & tuk-tuk night tours. Licensed guides, free cancellation.',
@@ -133,7 +137,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const meta = CITY_META[cityName];
   const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
   const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
-  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Chiang Mai', 'Mumbai', 'Goa', 'Kashmir', 'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Ella', 'Nuwara Eliya', 'Kathmandu', 'Pokhara', 'Chitwan', 'Bhaktapur', 'Lumbini'].includes(cityName);
+  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Chiang Mai', 'Mumbai', 'Goa', 'Kashmir', 'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Ella', 'Nuwara Eliya', 'Kathmandu', 'Pokhara', 'Chitwan', 'Bhaktapur', 'Lumbini', 'Tokyo', 'Pattaya', 'Krabi'].includes(cityName);
 
   return {
     title,
