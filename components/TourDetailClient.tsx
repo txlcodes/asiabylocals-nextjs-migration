@@ -1187,9 +1187,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const tourFAQs = (() => {
     const tourTitle = tour?.title || 'this tour';
     const slug = tour?.slug;
-    const specificFAQs = getTourSpecificFAQs(tourTitle, slug);
-
-    if (specificFAQs) return specificFAQs;
+    // Per-slug FAQs used to return early, which meant a tour that had them never
+    // reached the city block below — and the city block is where the internal
+    // links to that city's guides live. Tokyo had per-slug FAQs for all 21 tours
+    // and so shipped with a single internal link. Keep both, specific first.
+    const specificFAQs = getTourSpecificFAQs(tourTitle, slug) || [];
 
     // Fallback generic FAQs for tours without specific ones
     const cityLower = tour?.city?.toLowerCase() || '';
@@ -1280,7 +1282,9 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
-    return faqs;
+    // specific answers lead; city answers fill in behind them, deduped by question
+    const seen = new Set(specificFAQs.map((f: any) => f.question.toLowerCase().trim()));
+    return [...specificFAQs, ...faqs.filter((f: any) => !seen.has(f.question.toLowerCase().trim()))];
   })();
 
 
