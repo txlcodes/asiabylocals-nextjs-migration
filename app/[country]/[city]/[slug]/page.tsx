@@ -72,6 +72,43 @@ function stripMarkdown(text: string): string {
 
 // SEO title overrides — when the database title doesn't match the target keyword
 // These override ONLY the meta title tag, not the on-page H1 (H1 comes from tour.title)
+// Agra duplicate consolidation (2026-08-23): 52 Agra tour pages competed for the
+// same few intents, so Google indexed almost none of them. Duplicates stay live
+// and bookable but declare their intent's champion (one of the 6 owned tours) as
+// canonical, pooling ranking signals instead of splitting them. Champions and
+// genuinely distinct tours (Vrindavan, photography, hidden-gems…) are NOT mapped.
+const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
+  // sunrise intent → taj-mahal-sunrise-guided-tour
+  'taj-mahal-sunrise-tour': 'taj-mahal-sunrise-guided-tour',
+  'taj-mahal-sunrise-tour-experience': 'taj-mahal-sunrise-guided-tour',
+  'taj-mahal-sunrise-tour-tour': 'taj-mahal-sunrise-guided-tour',
+  'agra-royal-sunrise-tour': 'taj-mahal-sunrise-guided-tour',
+  'agra-professional-sunrise-tour': 'taj-mahal-sunrise-guided-tour',
+  'taj-mahal-sunrise-skip-the-line-tour': 'taj-mahal-sunrise-guided-tour',
+  'private-sunrise-taj-mahal-agra-fort-tour': 'taj-mahal-sunrise-guided-tour',
+  // same-day-from-Delhi intent → taj-mahal-return-guided-tour
+  'same-day-delhi-to-agra-tour': 'taj-mahal-return-guided-tour',
+  'same-day-agra-tour-from-delhi': 'taj-mahal-return-guided-tour',
+  'taj-mahal-same-day-tour-from-delhi': 'taj-mahal-return-guided-tour',
+  'same-day-taj-mahal-tour-by-car-from-delhi': 'taj-mahal-return-guided-tour',
+  'taj-mahal-full-day-tour': 'taj-mahal-return-guided-tour',
+  'taj-mahal-delhi-guided-tour': 'taj-mahal-return-guided-tour',
+  'sunrise-taj-mahal-and-agra-tour-by-car': 'taj-mahal-return-guided-tour',
+  // generic guided / private-guide intent → taj-mahal-official-guided-tour
+  'taj-mahal-guided-tour': 'taj-mahal-official-guided-tour',
+  'taj-mahal-guided-tour-from-agra': 'taj-mahal-official-guided-tour',
+  'agra-same-guided-tour': 'taj-mahal-official-guided-tour',
+  'taj-mahal-express-tour': 'taj-mahal-official-guided-tour',
+  'taj-mahal-mahal-private-tour': 'taj-mahal-official-guided-tour',
+  'taj-mahal-approved-private-tour': 'taj-mahal-official-guided-tour',
+  'taj-mahal-pickup-private-tour': 'taj-mahal-official-guided-tour',
+  // Gatimaan intent → delhi-agra-round-trip-gatimaan-train
+  'agra-gatimaan-express-tour': 'delhi-agra-round-trip-gatimaan-train',
+  'agra-gatimaan-entry-ticket': 'delhi-agra-round-trip-gatimaan-train',
+  // Fatehpur day-trip intent → taj-mahal-fatehpur-full-day-tour
+  'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
+};
+
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
   // Only override titles where database title is genuinely broken or truncated
   // DO NOT add overrides for pages that are already ranking — title changes reset Google rankings
@@ -210,11 +247,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         const canonicalCountry = tour.country
           ? String(tour.country).toLowerCase().replace(/\s+/g, '-')
           : country.toLowerCase();
+        // Duplicate-intent pages canonicalise to their champion slug (see map above)
+        const canonicalSlug = DUPLICATE_CANONICAL_MAP[slug] || slug;
         return {
           title: titleTag,
           description,
           alternates: {
-            canonical: `https://www.asiabylocals.com/${canonicalCountry}/${city.toLowerCase()}/${slug}`,
+            canonical: `https://www.asiabylocals.com/${canonicalCountry}/${city.toLowerCase()}/${canonicalSlug}`,
           },
           openGraph: {
             title: titleTag,
