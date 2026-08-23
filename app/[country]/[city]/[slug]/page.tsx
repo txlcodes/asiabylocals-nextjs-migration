@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -108,6 +108,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'pattaya') return PATTAYA_INFO_SLUGS.includes(slug);
   if (c === 'krabi') return KRABI_INFO_SLUGS.includes(slug);
   if (c === 'tokyo') return TOKYO_INFO_SLUGS.includes(slug);
+  if (c === 'kyoto') return KYOTO_INFO_SLUGS.includes(slug);
   return false;
 }
 
@@ -392,8 +393,10 @@ export default async function SlugPage({ params }: Props) {
         dateModified: todayISO,
         brand: { '@type': 'Brand', name: 'AsiaByLocals' },
         offers: {
-          '@type': 'Offer',
-          price: tour?.pricePerPerson || 0,
+          '@type': 'AggregateOffer',
+          lowPrice: tour?.pricePerPerson || 0,
+          highPrice: tour?.pricePerPerson || 0,
+          offerCount: Array.isArray(tour?.options) && tour.options.length > 0 ? tour.options.length : 1,
           priceCurrency: tour?.currency || 'USD',
           availability: 'https://schema.org/InStock',
           url: tourUrl,
@@ -453,6 +456,41 @@ export default async function SlugPage({ params }: Props) {
           { '@type': 'ListItem', position: 4, name: tour?.title || 'Tour', item: tourUrl },
         ],
       },
+      // Organization with ContactPoint — trust signals competitors carry (X-Ray 2026-08)
+      {
+        '@type': 'Organization',
+        '@id': 'https://www.asiabylocals.com/#organization',
+        name: 'AsiaByLocals',
+        url: 'https://www.asiabylocals.com',
+        logo: 'https://www.asiabylocals.com/logo.png',
+        contactPoint: {
+          '@type': 'ContactPoint',
+          contactType: 'customer service',
+          email: 'support@asiabylocals.com',
+          availableLanguage: ['English'],
+        },
+      },
+      // TouristAttraction — the destination itself, tied to the trip
+      {
+        '@type': 'TouristAttraction',
+        name: `${cityName} — ${tour?.title || 'Tour'}`,
+        touristType: tour?.category || 'Cultural Tourism',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: cityName,
+          addressCountry: countryName,
+        },
+      },
+      // ImageObject for the cover image
+      ...(tour?.images?.[0]
+        ? [{
+            '@type': 'ImageObject',
+            contentUrl: tour.images[0],
+            url: tour.images[0],
+            name: tour?.title || 'Tour',
+            creditText: 'AsiaByLocals',
+          }]
+        : []),
       // FAQPage schema — triggers FAQ accordion rich results in Google SERPs
       ...(faqSchema ? [faqSchema] : []),
     ],

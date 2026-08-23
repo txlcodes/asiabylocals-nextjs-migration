@@ -1,5 +1,6 @@
 import { getThailandInfoContent } from './thailandInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
+import { getKyotoInfoContent } from './kyotoInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -21,6 +22,9 @@ export interface CityInfoData {
 export function getCityInfoContent(slug: string): CityInfoData | null {
     const tokyoPage = getTokyoInfoContent(slug);
     if (tokyoPage) return tokyoPage;
+
+    const kyotoPage = getKyotoInfoContent(slug);
+    if (kyotoPage) return kyotoPage;
 
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;
@@ -129,6 +133,7 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
                         }
                     ],
                     faqs: [
+                        { q: "Should I hire a guide to see these places properly?", a: "For the major monuments, yes — the stories are what make Agra. You can [book an official tour guide for the Taj Mahal](/india/agra/taj-mahal-official-guided-tour) from $20, or cover everything on this list in one day with the [Agra City Highlights Tour](/india/agra/agra-city-highlights-tour) led by a licensed local guide." },
                         { q: "What is the best order to visit these monuments?", a: "To optimize your lighting and avoid the worst crowds, we recommend the 'Sunrise-First' strategy. Start at the Taj Mahal at dawn (06:00 AM), move to the Agra Fort by 09:30 AM before the heat builds, and save the riverside sites like the Baby Taj and Mehtab Bagh for the late afternoon." },
                         { q: "Are these sites open every day?", a: "Most monuments are open from sunrise to sunset daily. However, the Taj Mahal is strictly CLOSED every Friday for regular tourists. No exceptions are made for national holidays or festivals." },
                         { q: "Can I walk between these places?", a: "Walking is not recommended for the main circuit. While the Taj and some markets are near each other, the distance between the Taj and Agra Fort is 2.5km, and the Baby Taj is on the opposite side of the river. Use app-based taxis (Uber) or e-rickshaws for efficiency." },
@@ -217,6 +222,7 @@ description: "Agra Fort ticket ₹650 foreign / ₹50 Indian, open sunrise to su
                         }
                     ],
                     faqs: [
+                        { q: "Can I see Agra Fort on a day trip from Delhi?", a: "Yes — Agra Fort is included in every good same-day itinerary. The fastest comfortable options are the [same-day Taj Mahal & Agra tour by car from Delhi](/india/agra/taj-mahal-return-guided-tour) via the Yamuna Expressway, or the [Delhi–Agra round trip by Gatimaan Express train](/india/agra/delhi-agra-round-trip-gatimaan-train) — India's fastest train, with confirmed tickets handled for you." },
                         { q: "Is Agra Fort worth visiting if I've seen the Taj Mahal?", a: "Absolutely — most travellers find the interior of Agra Fort **more architecturally diverse** than the Taj. While the Taj is a single tomb, the Fort is a 94-acre city containing palaces, mosques, audience halls, and treasury rooms spanning four Mughal emperors. It provides the 'human' side of the Mughal story — where they lived, ruled, and in Shah Jahan's case, spent their final years gazing at the Taj from captivity." },
                         { q: "Is Agra Fort open on Fridays?", a: "Yes — Agra Fort is **open every day of the week, including Fridays**. Since the [Taj Mahal is closed on Fridays](/india/agra/is-taj-mahal-closed-on-friday), the Fort becomes the anchor of any Friday itinerary. Arrive early (8:00 AM) as crowds can be larger on Fridays when all tourists shift here." },
                         { q: "What is the Agra Fort entry fee in 2026?", a: "**₹600 for foreign tourists** and ₹50 for Indian citizens (digital-only payment). Tickets must be purchased online — no cash is accepted at the gate. The ticket is valid for the day of purchase only." },
@@ -286,6 +292,7 @@ description: 'Taj Mahal at sunrise, Agra Fort, Baby Taj and Mehtab Bagh at sunse
                         }
                     ],
                     faqs: [
+                        { q: "What's the easiest way to do this itinerary from Delhi?", a: "Two proven options: the [same-day Taj Mahal & Agra return tour by private car](/india/agra/taj-mahal-return-guided-tour) (12 hours door-to-door via the Yamuna Expressway), or the [Gatimaan Express train round trip](/india/agra/delhi-agra-round-trip-gatimaan-train) — 100 minutes each way with confirmed seats, guide and transfers included. Both cover this exact itinerary with a licensed local guide." },
                         { q: "Is 1 day honestly enough for Agra?", a: "Yes, it is enough to see the 'Big Three' (Taj, Fort, Baby Taj) and catch a sunset at Mehtab Bagh. However, you will be on your feet for 10-12 hours. If you want a relaxed pace and a trip to Fatehpur Sikri, we highly recommend extending your stay to 2 days." },
                         { q: "What is the best order to visit Taj and Fort?", a: "Always Taj Mahal first at sunrise. The physical and emotional experience of the Taj at 06:00 AM compared to 11:00 AM is night and day. Once the heat kicks in, the shade of the Fort's massive stone corridors is more welcome." },
                         { q: "Is it possible to do a day trip from Delhi?", a: "Absolutely. Take the Gatimaan Express (08:10 AM departure) and return by evening. If you use the Yamuna Expressway by car, leave Delhi by 05:00 AM to maximize your time at the monuments." }
@@ -384,6 +391,7 @@ description: 'Taj Mahal ticket prices for 2026 by nationality, the extra mausole
                         }
                     ],
                     faqs: [
+                        { q: "Is it worth hiring a tour guide at the Taj Mahal?", a: "Yes — the ticket gets you in, but the inlay work, optical illusions and Mughal history are invisible without context. A licensed [official tour guide for the Taj Mahal](/india/agra/taj-mahal-official-guided-tour) costs from $20 for a 2-hour private tour and includes fast-track entry assistance — usually less than what gate touts quote for an unlicensed walk-around." },
                         { q: "Can I buy Taj Mahal tickets with cash at the gate?", a: "**No** — since the 2026 digital transition, all physical ticket windows have ceased cash operations. You must purchase tickets online through the official ASI portal or scan the QR codes at the entrance. UPI is the fastest payment method; international visitors can use Visa or Mastercard with 'International Usage' enabled." },
                         { q: "Is the main tomb entry included in the standard foreigner ticket?", a: "Not automatically. You must specifically select the **'Mausoleum' add-on (₹200)** during checkout to climb the marble platform and see the royal cenotaphs of Shah Jahan and Mumtaz Mahal. Without it, you only access the gardens and outer buildings." },
                         { q: "Are children under 15 years old really free?", a: "Yes — for all nationalities. However, parents must still book a **zero-value ticket** through the online portal for each child. You may be asked to show a passport copy if the child appears to be near the age limit." },
@@ -469,6 +477,7 @@ description: 'Taj Mahal opens 6am and closes 30 min before sunset, every day exc
                         }
                     ],
                     faqs: [
+                        { q: "How do I actually catch the Taj Mahal at sunrise?", a: "Be at the East Gate **before 06:00 AM** — the first 30 minutes after opening are the emptiest and coolest of the day. The simplest way to manage pre-dawn logistics, tickets and gate strategy is the [Taj Mahal sunrise tour](/india/agra/taj-mahal-sunrise-guided-tour) with a licensed guide (from $20), which handles the timed entry for you." },
                         { q: "What is the exact opening time of the Taj Mahal?", a: "The gates officially open at **06:00 AM daily**, except on Fridays when the monument is closed to the public. To be among the first visitors for the sunrise experience, join the queue by 5:30 AM — security screening begins before the official opening time." },
                         { q: "Can I enter the Taj Mahal after 5:30 PM?", a: "**No** — ticket counters and final entry gates stop admitting visitors 30 minutes before the official sunset closing time. The closing time varies seasonally but is typically around 6:30 PM." },
                         { q: "Is the Taj Mahal open on public holidays?", a: "Yes — the monument remains **open on all national and public holidays**, unless the holiday falls on a Friday. The Friday closure for congregational prayers is absolute, regardless of what holiday coincides." },
@@ -554,6 +563,7 @@ description: 'Yes — the Taj Mahal closes every Friday for prayers at its mosqu
                         }
                     ],
                     faqs: [
+                        { q: "What should I do in Agra if I'm there on a Friday?", a: "Don't write the day off — Agra Fort, Fatehpur Sikri, Baby Taj and Mehtab Bagh are all open. The [Agra City Highlights Tour](/india/agra/agra-city-highlights-tour) covers them in one guided day, and if you can stay overnight, book the [Taj Mahal sunrise tour](/india/agra/taj-mahal-sunrise-guided-tour) for Saturday morning — the payoff for a Friday arrival is the emptiest sunrise slot of the week." },
                         { q: "Is the Taj Mahal really closed every Friday?", a: "Yes, the monument is closed every Friday for general visitors throughout 2026. The closure is due to congregational Friday prayers at the mosque inside the complex. Only local worshippers with valid ID are permitted entry between 12:00 PM and 2:00 PM." },
                         { q: "Can I still see the Taj Mahal on a Friday?", a: "Yes — from **Mehtab Bagh** (the Moonlit Garden) directly across the Yamuna River, you get a perfectly symmetrical rear view of the Taj Mahal with no crowds in your frame. Rooftop restaurants in Taj Ganj also offer elevated views. Neither requires entry to the monument itself." },
                         { q: "Is Agra Fort also closed on Fridays?", a: "No. Agra Fort remains **open every day including Fridays**. It is a UNESCO World Heritage Site in its own right and the ideal alternative for a Friday visit in Agra. Budget 2–3 hours for a thorough exploration of this magnificent red sandstone fortress." },
@@ -854,6 +864,7 @@ description: "Fatehpur Sikri opens daily sunrise to sunset. Ticket ₹610 foreig
                         }
                     ],
                     faqs: [
+                        { q: "What's the best way to visit Fatehpur Sikri from Agra?", a: "Fatehpur Sikri is 40 km from Agra with no convenient public transport, so most visitors combine it with the city's highlights in one day. The [Agra & Fatehpur Sikri day trip](/india/agra/taj-mahal-fatehpur-full-day-tour) covers the Taj Mahal, Agra Fort and the ghost city by private A/C car with a licensed guide — the standard way to do it without haggling with taxi drivers at the fork." },
                         { q: "Is Fatehpur Sikri open on Friday?", a: "Yes, unlike the Taj Mahal which is closed every Friday, Fatehpur Sikri remains open to the public daily from sunrise to sunset." },
                         { q: "Can I do Taj Mahal and Fatehpur Sikri in one day?", a: "Yes, it is a common 1-day circuit. We recommend visiting the Taj Mahal at sunrise, then Agra Fort, and finishing with Fatehpur Sikri in the afternoon." },
                         { q: "How far is Fatehpur Sikri from Agra?", a: "It is approximately 37 to 40 kilometers from the Agra city center, typically taking 60-90 minutes by road." },

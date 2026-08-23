@@ -1266,6 +1266,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Kyoto-specific FAQs
+    if (cityLower === 'kyoto' || tourTitle.toLowerCase().includes('kyoto')) {
+      faqs.push(
+        { question: 'When is the best time to visit Kyoto?', answer: 'Late March to early April for cherry blossom, or mid-to-late November for peak autumn foliage. Kyoto sits in a basin and runs hotter in summer and colder in winter than Tokyo, even at a similar latitude. Full month-by-month figures are in our [best time to visit Kyoto guide](/japan/kyoto/best-time-to-visit-kyoto).' },
+        { question: 'How do I get around Kyoto?', answer: 'Kyoto never built an extensive subway — just two lines (Karasuma and Tozai) — so the **city bus network does most of the work**, especially for Higashiyama, Kinkaku-ji and Ginkakuji. Fushimi Inari and Arashiyama are best reached by JR rail instead. See [getting around Kyoto](/japan/kyoto/getting-around-kyoto).' },
+        { question: 'How many days do I need in Kyoto?', answer: 'Three days covers the essentials well: a day for Higashiyama and Gion, a day for Arashiyama and Kinkaku-ji, and a day for Fushimi Inari plus a Nara or Uji day trip. Our [3-day Kyoto itinerary](/japan/kyoto/kyoto-3-day-itinerary) has the full route with timing.' },
+        { question: 'What time should I visit Fushimi Inari to avoid crowds?', answer: 'Arrive by **6:30-7am** — the shrine is open 24/7 and free, and most visitors only walk the first 20-30 minutes anyway. Past that point the crowds thin out fast. Full hike details in our [Fushimi Inari guide](/japan/kyoto/fushimi-inari-guide).' },
+        { question: 'Is the Arashiyama Bamboo Grove free?', answer: 'Yes — it\'s a public path with no entrance fee and no set hours. The trade-off is that it gets shoulder-to-shoulder by mid-morning; arrive before 8am for a nearly empty walk. See the [Arashiyama Bamboo Forest guide](/japan/kyoto/arashiyama-bamboo-forest-guide).' },
+        { question: 'Is it OK to take photos of geisha in Gion?', answer: 'Kyoto restricts photography on certain **private alleys** in Gion after complaints about tourists chasing and blocking geiko and maiko, with fines for violators. Public streets like Hanamikoji-dori remain open, but never chase, touch or block a real geiko/maiko anywhere. Full etiquette in our [Gion geisha district guide](/japan/kyoto/gion-geisha-district-guide).' },
+        { question: 'What food is Kyoto known for?', answer: '**Yudofu** (simmered tofu, best near Nanzen-ji or Arashiyama), kaiseki and shojin ryori temple cuisine, and Nishiki Market\'s stalls of tako tamago and fresh yuba. Uji, just south of the city, is one of Japan\'s top matcha-growing regions. See the [Kyoto food guide](/japan/kyoto/kyoto-food-guide).' }
+      );
+    }
+
     // Add Mumbai-specific FAQs
     if (cityLower === 'mumbai' || tourTitle.toLowerCase().includes('mumbai')) {
       faqs.push(

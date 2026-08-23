@@ -4,6 +4,278 @@
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
 
+  // --- KYOTO TOURS (2026-08) ---
+  if (slug === 'kyoto-legends-guided-tour') {
+    return [
+      { question: "Is this tour actually scary, or just historical?", answer: "It leans more storytelling than horror-show theatrics - there are no actors jumping out at you. That said, walking a famously atmospheric bamboo grove alone after dark with true stories of grudges and executions tends to get under your skin on its own." },
+      { question: "What should I wear or bring?", answer: "Comfortable, closed-toe walking shoes are essential since the grove paths get uneven once you're off the main boardwalk. Bring a light jacket even in summer, as the bamboo canopy holds a noticeable chill after sunset." },
+      { question: "How much walking is involved and is it accessible?", answer: "It's a slow, easy-paced walk of roughly 2.5 hours with several stops for stories, so fitness isn't a major concern. The terrain does include some unpaved and uneven ground, which makes it difficult for wheelchairs or strollers." },
+      { question: "Is this suitable for kids or is it too intense?", answer: "The content deals with real historical violence and ghost lore, delivered through storytelling rather than graphic detail, so most families find it fine for older kids and teens." }
+    ];
+  }
+
+  if (slug === 'kyoto-night-evening-tour') {
+    return [
+      { question: "How far up Fushimi Inari does the tour go?", answer: "The tour focuses on the lower torii gate pathways and main shrine area rather than the full summit hike, which alone takes two or more hours round trip." },
+      { question: "Will we see any real geiko or maiko in Gion?", answer: "There's a genuine chance of a fleeting sighting during peak evening hours, especially near Hanamichi, but it's never guaranteed since it depends on private engagements." },
+      { question: "What should I wear for an evening walking tour?", answer: "Comfortable walking shoes are a must since the route covers uneven stone paths at Fushimi Inari and cobbled lanes in Gion. Bring a layer for the evening air." },
+      { question: "Is this tour good for solo travelers?", answer: "Yes - small English-speaking groups make this an easy, low-pressure way for solo travelers to see two major districts safely after dark with a knowledgeable local." }
+    ];
+  }
+
+  if (slug === 'kyoto-higashiyama-evening-tour') {
+    return [
+      { question: "Do I need cycling experience to join?", answer: "No - the electric assist handles Higashiyama's uphill stretches, so this suits riders of moderate fitness and only basic bike-handling confidence." },
+      { question: "Is it safe to cycle Higashiyama's narrow streets at night?", answer: "Yes - the guide selects a route along quieter lanes with e-bike lights fitted, and traffic through the old town is minimal in the evening. Helmets are provided." },
+      { question: "What should I wear?", answer: "Closed-toe shoes and layered clothing are recommended, since the evening air cools quickly once you're moving on the bike." },
+      { question: "Can the route be adjusted for photography stops?", answer: "Yes - because it's a private tour, your guide will happily pause longer at spots like Yasaka Pagoda or the Shirakawa canal for photos." }
+    ];
+  }
+
+  if (slug === 'kyoto-design-guided-tour') {
+    return [
+      { question: "How far in advance do I need to plan my custom route?", answer: "It's best to share your interests at least a day or two before the tour so your guide has time to plan an efficient route. That said, guides can also work with same-day requests." },
+      { question: "Can the tour include destinations outside central Kyoto?", answer: "Yes, within reason - day trips to nearby areas like Arashiyama, Uji, or Fushimi are commonly incorporated into an 8-hour custom day." },
+      { question: "Is this a good option for families with young kids?", answer: "It's one of the best formats for families precisely because the pace, stops, and duration all flex around your group's needs, including breaks a fixed-schedule tour wouldn't allow." },
+      { question: "What if we don't have specific ideas for the itinerary?", answer: "That's fine - your guide can propose a full day based on the season, your travel style, and what typically resonates with first-time versus repeat Kyoto visitors." }
+    ];
+  }
+
+  if (slug === 'kyoto-bike-tour') {
+    return [
+      { question: "Do I need to be an experienced cyclist?", answer: "No - the route sticks to Kyoto's mostly flat central streets and riverside paths, so basic comfort riding a bike is all you need." },
+      { question: "What should I bring or wear?", answer: "Wear comfortable, breathable clothing you can pedal in and closed-toe shoes rather than sandals. Sunscreen and a water bottle are worth bringing too." },
+      { question: "Are helmets provided and is traffic a concern?", answer: "Yes, helmets are included, and the guide selects routes that favor riverside paths and quieter streets over busy main roads wherever possible." },
+      { question: "Can I bring my own camera equipment for photos?", answer: "Absolutely - the tour includes dedicated photo stops at each major site, and the guide is used to pausing for travelers who want extra time with a camera." }
+    ];
+  }
+
+  if (slug === 'kyoto-evening-evening-tour') {
+    return [
+      { question: "How much food is actually included?", answer: "The tour includes several tasting stops across the evening designed to add up to a full meal by the end, not just small bites." },
+      { question: "Can dietary restrictions be accommodated?", answer: "Some stops use set menus tied to what each restaurant is known for, so dietary needs should be flagged when booking rather than on the night of." },
+      { question: "Is alcohol included or available at the tasting stops?", answer: "Some stops offer sake or other local drinks as part of the tasting, though the focus is primarily food." },
+      { question: "Why Pontocho and Gion Shirakawa specifically instead of Nishiki Market?", answer: "Nishiki Market is a daytime shopping street, while Pontocho and Gion Shirakawa are where Kyoto's evening restaurant and teahouse culture actually lives." }
+    ];
+  }
+
+  if (slug === 'kyoto-foliage-guided-tour') {
+    return [
+      { question: "When is the best time to book this tour for peak color?", answer: "Kyoto's autumn colors typically peak between mid and late November, though mountain temples turn earlier than valley gardens. Your guide adjusts the route week to week based on conditions." },
+      { question: "How much walking and elevation is involved?", answer: "Several of the best foliage spots sit on genuine mountain approaches with real elevation change, so this isn't a flat stroll. Comfortable walking shoes with good grip are strongly recommended." },
+      { question: "Is this tour worth it if I only have one day for foliage viewing?", answer: "Yes - a guide who knows exactly where color currently peaks can save you from wasting your one day at a spot that's already past its best or not yet turned." },
+      { question: "What happens if the foliage isn't at peak color on our date?", answer: "Your guide will route you toward whichever elevation and location is closest to peak that week, since Kyoto's staggered color means something is usually turning somewhere." }
+    ];
+  }
+
+  if (slug === 'kyoto-food-tour') {
+    return [
+      { question: "How much food is actually included?", answer: "You'll try roughly 8-10 different tastings across the market and food hall, enough to serve as a light meal. If you have a big appetite, eat a small breakfast beforehand." },
+      { question: "Can the tour accommodate dietary restrictions?", answer: "Vegetarian substitutions are possible with advance notice, but seafood is deeply woven into the market's identity so strict allergy cases should message the operator ahead of booking." },
+      { question: "Is Nishiki Market crowded, and does that affect the tour?", answer: "Yes, the arcade gets tight by late morning, especially on weekends. Your guide knows how to navigate the flow and times stops to avoid the worst bottlenecks." },
+      { question: "What makes this different from just walking through the market myself?", answer: "Most stall signage is Japanese-only and many vendors don't offer samples to unaccompanied visitors. The guide's local relationships open doors to tastings you simply can't access solo." }
+    ];
+  }
+
+  if (slug === 'kyoto-sommelier-guided-tour') {
+    return [
+      { question: "Do I need to know anything about sake beforehand?", answer: "No prior knowledge is expected. The sommelier structures the tasting to build understanding progressively, so complete beginners and experienced drinkers both get something out of it." },
+      { question: "Is this suitable if I don't drink much alcohol?", answer: "Seven pours over 80 minutes is a meaningful amount of alcohol, though portions are tasting-sized. You're welcome to sip rather than finish each pour, and water is available throughout." },
+      { question: "What should I wear or bring?", answer: "Nothing special is required; casual dress is fine. It helps to come with an appetite since the appetizers are meant to be eaten alongside the sake." },
+      { question: "What makes this different from a regular sake bar visit?", answer: "A trained sommelier curates the flight specifically to teach you the range of styles and pairs each one intentionally, so you understand what you're drinking and why." }
+    ];
+  }
+
+  if (slug === 'kyoto-evening-tour') {
+    return [
+      { question: "Will we actually see a geisha or maiko?", answer: "There's a good chance of spotting a maiko moving between appointments in the evening, though this can't be guaranteed since it depends on real schedules, not staged appearances." },
+      { question: "Is this tour appropriate for dietary restrictions?", answer: "The ten courses lean heavily on traditional Kyoto ingredients including seafood and dashi stock, so vegetarian or allergy accommodations should be flagged directly with the operator before booking." },
+      { question: "How much walking is involved?", answer: "Gion is compact and mostly flat, with walking between venues kept short and unhurried." },
+      { question: "Why does this cost more than a typical food tour?", answer: "The price reflects genuinely exclusive access to small dining spots that don't take outside reservations, plus a ten-course meal rather than a handful of tastings." }
+    ];
+  }
+
+  if (slug === 'kyoto-people-private-tour') {
+    return [
+      { question: "Can we choose our own itinerary?", answer: "Yes, that's the core of this tour. The guide will suggest a route based on Kyoto's highlights, but is happy to prioritize specific sites you request." },
+      { question: "How much walking should we expect?", answer: "Expect several kilometers of walking across the day, particularly around Fushimi Inari and Higashiyama's sloped lanes. The pace is set by your group." },
+      { question: "What if an admission fee exceeds JPY2000?", answer: "Any difference above the included JPY2,000 per person is paid directly by the guest at the site. Your guide will flag this in advance." },
+      { question: "Is this a good option for families with kids?", answer: "Yes, the private and flexible format is particularly well suited to families since the guide can adjust pacing, skip long queues, and build in breaks." }
+    ];
+  }
+
+  if (slug === 'kyoto-photoshoot-photography-tour') {
+    return [
+      { question: "How long does the whole session take?", answer: "Budget roughly two hours total, with about an hour dedicated to makeup and kimono styling alone before the photography even begins." },
+      { question: "Do I need any experience posing for photos?", answer: "No experience is needed. The photographer directs poses throughout and is used to working with first-timers who've never worn a kimono." },
+      { question: "Can men or children participate?", answer: "This experience is specifically designed around traditional maiko styling, so it's generally offered for women; ask the operator directly about group or family participation." },
+      { question: "Is the location easy to find and is it really historic?", answer: "Yes, the teahouse is a genuine Taisho-era building in Gion, and the operator provides clear directions upon booking since the entrance can be easy to miss among Gion's narrow lanes." }
+    ];
+  }
+
+  if (slug === 'kyoto-morning-tour') {
+    return [
+      { question: "How early do we really need to start?", answer: "The tour typically begins around 7:00 AM, which is the whole point - arriving at Fushimi Inari before the crowds is what makes this tour worthwhile." },
+      { question: "How much walking and climbing is involved?", answer: "Expect a moderate amount of walking including some uphill sections at Fushimi Inari and the sloped lanes of Higashiyama." },
+      { question: "Is this tour good for photography?", answer: "Very much so. The early timing is specifically designed to give you clear shots without crowds in every frame." },
+      { question: "What should we bring?", answer: "Bring water, comfortable shoes, and a camera with plenty of storage. Mornings can be cool depending on the season, so a light layer is worth carrying." }
+    ];
+  }
+
+  if (slug === 'kyoto-private-tour-heritage') {
+    return [
+      { question: "Does the driver act as a guide too?", answer: "The driver focuses primarily on transportation and route logistics rather than detailed historical commentary; ask the operator whether an English-speaking guide can be added." },
+      { question: "Is the Sagano Romantic Train included in the price?", answer: "No, it's an optional add-on booked and paid for separately, partly because seats are limited and subject to availability." },
+      { question: "How much time do we get at each site?", answer: "Time is flexible since the car is private, but a typical day allocates roughly 90 minutes at Kiyomizu-dera, 90 minutes to two hours at Fushimi Inari, and around two hours in Arashiyama." },
+      { question: "What vehicle size should we expect for a group of 6?", answer: "The operator provides a vehicle suited to your group size, typically a van or larger sedan, with luggage space if needed." }
+    ];
+  }
+
+  if (slug === 'kyoto-walking-tour') {
+    return [
+      { question: "Is this tour a lot of walking?", answer: "It's a moderate, unhurried walk covering roughly 2-3 kilometers between the Imperial Palace grounds and Nijo Castle, plus walking inside both sites. Comfortable shoes are the only real requirement." },
+      { question: "Do I need to bring my passport or ID?", answer: "No ID is required for this particular tour since it doesn't include a special palace interior visit that requires advance registration." },
+      { question: "What makes Nijo Castle's nightingale floors special?", answer: "The floorboards were deliberately built with nails and clamps that rub against each other to produce a chirping sound with every step, functioning as a built-in security system against intruders centuries before modern alarms existed." },
+      { question: "Can I cancel if my plans change?", answer: "Cancellation terms are set at booking and shown before you confirm. Check the specific policy on your booking confirmation and reach out to the operator directly if your dates shift." }
+    ];
+  }
+
+  if (slug === 'kyoto-stitching-guided-tour') {
+    return [
+      { question: "Do I need any sewing experience?", answer: "None at all - this workshop is designed for complete beginners. The instructor walks you through the basic running stitch from scratch." },
+      { question: "What should I wear or bring?", answer: "Just wear comfortable clothing you don't mind sitting in for a couple of hours; no special gear is needed since all needles, thread, and fabric are provided." },
+      { question: "What's actually unique about sashiko compared to other crafts I could try in Kyoto?", answer: "Unlike many tourist craft experiences, sashiko has a genuinely practical origin story rooted in rural Japanese thrift, not decoration - you're learning a technique that kept clothing wearable through Japanese winters for centuries." },
+      { question: "How do I cancel or reschedule?", answer: "Cancellation windows and refund terms are shown at booking, so check the confirmation you receive for exact cutoffs. Contact the operator as early as possible if your travel dates shift." }
+    ];
+  }
+
+  if (slug === 'kyoto-photography-tour') {
+    return [
+      { question: "How long does the transformation take?", answer: "The full 2.5-hour session includes makeup, dressing, and the photoshoot itself, so budget the whole window rather than expecting a quick costume change." },
+      { question: "Can I walk outside the teahouse in the kimono?", answer: "This experience is built around the private Tsuboniwa courtyard on-site, so the photoshoot takes place within the teahouse grounds rather than out in the public streets of Gion." },
+      { question: "Is this suitable for men or children too?", answer: "The maiko transformation is designed specifically around the traditional apprentice geisha look, so it's generally geared toward adult women, though policies vary - confirm directly with the operator." },
+      { question: "What should I bring or wear beforehand?", answer: "Wear something easy to change out of, tie hair back loosely if it's long, avoid heavy makeup of your own before arriving, and remove nail polish if you want the traditional look to feel complete in photos." }
+    ];
+  }
+
+  if (slug === 'kyoto-nissan-private-tour') {
+    return [
+      { question: "Can we choose our own itinerary?", answer: "Yes, that's the core of this tour - you tell the operator or driver what you want to see, and the route is built around your priorities rather than a fixed template." },
+      { question: "How many people fit in the vehicle?", answer: "The Nissan Serena comfortably seats up to five passengers with room for luggage, making it well suited to families or small groups." },
+      { question: "What's included in the home visit option?", answer: "The optional home visit brings you into an actual private residence in Kyoto for a live koto performance, a tea ceremony etiquette demonstration, and a kimono viewing - ask about it when booking since it may need to be arranged ahead of time." },
+      { question: "Do we need to pay entrance fees separately?", answer: "Yes, the tour covers the vehicle and driver-guide, but entrance tickets to temples, shrines, or gardens are paid on-site as you visit them." }
+    ];
+  }
+
+  if (slug === 'kyoto-kansai-private-tour') {
+    return [
+      { question: "How much can we actually customize the route?", answer: "Quite a lot - this tour is built specifically so you can tell the guide what interests you, whether it's food, a historical period, or a specific neighborhood, and they'll shape the three hours around that." },
+      { question: "Does the tour cover Kyoto, Osaka, or both?", answer: "The tour operates across the wider Kansai region, so depending on where you meet your guide and what you're interested in, it can focus on Kyoto, extend into Osaka, or stay within a specific district." },
+      { question: "Is this tour mostly walking?", answer: "Yes, expect a moderate amount of walking between stops, with the guide managing the pace to suit your group. Comfortable shoes are recommended." },
+      { question: "What if we don't know exactly what we want to see?", answer: "That's completely fine - the guide can suggest options based on popular local interests, food specialties, or lesser-known spots if you'd rather they take the lead." }
+    ];
+  }
+
+  if (slug === 'kyoto-private-tour') {
+    return [
+      { question: "Can we change the order or skip a site?", answer: "Yes, since this is a private tour, you can rearrange stops, add extra time at a favorite site, or drop one entirely. Just let your driver know your priorities at the start of the day." },
+      { question: "Is 6-10 hours enough to see all five sites properly?", answer: "It's enough for a well-paced visit to each, though you won't linger for hours at any single spot - expect roughly 1-2 hours at each major site." },
+      { question: "How much walking is involved at Fushimi Inari?", answer: "You can walk as much or as little as you like - many visitors walk 20-30 minutes up through the first main cluster of gates and turn back, while reaching the summit takes 2-3 hours round trip." },
+      { question: "What happens if it rains?", answer: "The tour typically runs regardless of light rain since the vehicle keeps you sheltered between stops, though very heavy weather may affect specific outdoor sections. Check with the operator about their weather policy when booking." }
+    ];
+  }
+
+  if (slug === 'kyoto-classic-guided-tour') {
+    return [
+      { question: "Is this tour good for a first visit to Kyoto?", answer: "Yes, it's specifically designed as an introduction, covering the three sights most first-time visitors want to see without wasted backtracking across the city." },
+      { question: "How much walking should I expect?", answer: "Expect a fair amount of walking, particularly at Fushimi Inari and through the sloped lanes of Higashiyama near Kiyomizu-dera. Comfortable, broken-in walking shoes are strongly recommended." },
+      { question: "Are entrance fees included in the price?", answer: "No, entrance fees for the temples and shrines visited are paid separately on-site and are not included in the tour price." },
+      { question: "What's the best time of year to take this tour?", answer: "Kiyomizu-dera and Kinkaku-ji are striking in every season, but spring cherry blossoms and autumn foliage bring noticeably heavier crowds, especially at Fushimi Inari's lower gates." }
+    ];
+  }
+
+  if (slug === 'kyoto-experience-guided-tour') {
+    return [
+      { question: "Will we actually get to eat Wagyu beef on this tour?", answer: "The focus of this tour is understanding where and how authentic Wagyu is raised and certified, centered on farm visits and the Kobe Beef Gallery, alongside a countryside lunch and hands-on workshop. Confirm with the operator whether a beef tasting is included in your specific booking." },
+      { question: "Is this tour suitable for vegetarians?", answer: "Since the tour centers on cattle farming and beef culture, it's built primarily for those interested in that subject matter, though the workshop and farm visit itself don't require eating meat. Let the operator know about dietary preferences in advance." },
+      { question: "How much walking or physical activity is involved?", answer: "This is a relatively easy-paced day, mostly involving standing and walking around the farm and workshop stations rather than strenuous activity." },
+      { question: "Why does this cost more than a typical Kyoto day tour?", answer: "The price reflects the full day's private countryside transportation, access to a working farm not normally open to casual visitors, a hands-on culinary workshop, and specialized entry to the Kobe Beef Gallery." }
+    ];
+  }
+
+  if (slug === 'kyoto-walking-evening-tour') {
+    return [
+      { question: "How much walking and climbing is involved?", answer: "You'll cover roughly 2-3 km on stone paths and stairs with a gradual incline, going partway up the mountain to the Yotsutsuji viewpoint rather than the full summit loop. Anyone in reasonably good walking shape can manage it comfortably at the group's relaxed pace." },
+      { question: "What should I wear or bring?", answer: "Closed, comfortable shoes are essential since the paths are uneven stone in low light. Kyoto evenings can be cool even in summer near the mountain, so bring a light layer, and a small flashlight or your phone's torch is handy for reading gate inscriptions." },
+      { question: "Is Fushimi Inari actually less crowded at night?", answer: "Yes, noticeably. Most tour buses and day-trippers arrive in the morning and are gone by early evening, so by the time this tour starts the lower gates are quiet and the upper sections are nearly empty, which is the whole point of doing it after dark." },
+      { question: "What makes this different from just visiting on my own?", answer: "The shrine is free and open 24 hours, but without a guide you'd miss the layered history behind the gate donations, the fox symbolism, and which side paths and smaller shrines are worth a detour. Tomodachi Tours' guides also know the mountain well enough to keep the pace comfortable in low light." }
+    ];
+  }
+
+  if (slug === 'kyoto-best-guided-tour') {
+    return [
+      { question: "Is 9.5 hours too long for a walking tour?", answer: "It's a full day, but it includes transit time between sites and a lunch break, so the actual walking is spread out rather than continuous. Expect a moderate amount of walking on flat garden paths and temple grounds, manageable for most fitness levels." },
+      { question: "What should I wear?", answer: "Comfortable walking shoes are a must, and layers help since you'll move between shaded bamboo groves and open temple courtyards. Some areas require removing shoes indoors, so slip-on footwear is convenient." },
+      { question: "Why these three sites specifically?", answer: "Nijo Castle, Kinkaku-ji and Arashiyama each represent a different era and mood of Kyoto - shogunate politics, Zen aesthetics, and Heian-period nature retreats - so together they give a fuller picture of the city than any single site could on its own." },
+      { question: "Is this suitable for a first visit to Kyoto?", answer: "Yes, it's designed exactly for that - a curated introduction hitting the highlights efficiently so first-time visitors get oriented before exploring independently on later days." }
+    ];
+  }
+
+  if (slug === 'kyoto-airport-mini-tour') {
+    return [
+      { question: "What if my flight is delayed?", answer: "The service tracks your flight number automatically, so the driver adjusts pickup timing to match your actual arrival rather than the original schedule. There's no need to contact anyone separately unless the delay is unusually long." },
+      { question: "How many people and how much luggage fit in one vehicle?", answer: "Vehicle size is matched to your group size and luggage volume when you book, ranging from standard sedans for couples to larger vans for families or groups with multiple large suitcases. Mention your exact luggage count when booking to ensure the right vehicle is assigned." },
+      { question: "How long does the transfer to Kyoto actually take?", answer: "Typically around 90-100 minutes depending on traffic, which is usually faster and far less stressful than the train and local transit combination, especially with luggage or after a long flight." },
+      { question: "Can I book this for the return trip to the airport too?", answer: "Yes, the same private transfer runs in both directions - departure pickups from your hotel are timed to get you to KIX with comfortable buffer before international check-in closes." }
+    ];
+  }
+
+  if (slug === 'kyoto-workshop-guided-tour') {
+    return [
+      { question: "Do I need any art experience?", answer: "No, none at all. The blocks are pre-carved and Kurumi guides every step, so the workshop is designed for complete beginners, though anyone with drawing or printmaking experience will notice extra depth in her explanations." },
+      { question: "What should I wear?", answer: "Wear clothes you don't mind getting a little ink on, since water-based pigments can splash during the rubbing process. Aprons or coverings are typically provided, but sleeves that roll up easily help." },
+      { question: "What's the cancellation policy?", answer: "As with most small-group workshops, cancellations are easiest to manage with advance notice since materials are prepared per participant; check your specific booking confirmation for the exact cutoff window." },
+      { question: "What makes this different from a typical craft demo?", answer: "Kurumi is a practicing ukiyo-e artist, not a tour guide performing a demonstration, so the session includes real technique and historical context rather than a simplified tourist activity. You also leave with an actual finished print rather than just a photo of the process." }
+    ];
+  }
+
+  if (slug === 'kyoto-food-food-tour') {
+    return [
+      { question: "How much food is actually included?", answer: "This is a grazing-style tour with multiple small tastings across three neighborhoods rather than one large meal, so come moderately hungry rather than starving. Most guests find the total amount satisfying without needing dinner afterward." },
+      { question: "Can it accommodate dietary restrictions?", answer: "Let your guide know about allergies or dietary restrictions when booking, since several stops involve seafood, soy, and gluten-containing items typical of Kyoto's traditional food culture. Substitutions can often be arranged with advance notice." },
+      { question: "How much walking is involved?", answer: "Around 3 hours on foot at an easy pace across flat, pedestrian-friendly streets and market arcades, with frequent stops to eat and rest rather than continuous walking." },
+      { question: "Is this suitable for a small group or solo traveler?", answer: "Yes, the tour runs as a small guided group experience that works well solo, as a couple, or in a small group, with the guide adjusting commentary and pacing to whoever is along that evening." }
+    ];
+  }
+
+  if (slug === 'kyoto-around-bike-tour') {
+    return [
+      { question: "Do I need cycling experience for an e-bike tour?", answer: "Basic bike-riding ability is all that's needed; the electric pedal-assist handles Kyoto's hills so fitness level matters far less than on a standard bicycle tour. Your guide gives a handling briefing before setting off." },
+      { question: "Is 6 hours of riding too tiring?", answer: "The day is broken into shorter riding segments with walking stops at each temple or shrine, so you're rarely in the saddle for more than 20-30 minutes at a stretch. Most riders find the pedal assist keeps fatigue much lower than expected." },
+      { question: "What should I bring or wear?", answer: "Wear comfortable clothes you can move in, closed-toe shoes for pedaling, and bring sun protection since much of the ride is outdoors. Helmets are provided, and a small day bag works well for carrying water and a camera." },
+      { question: "What makes this route different from a standard sightseeing tour?", answer: "Covering Gion, Higashiyama, Nanzenji, Shimogamo Shrine and Arashiyama in a single day would require multiple taxis or long walks on foot; the e-bike private format links all four into one flexible, unhurried loop with hotel pickup on both ends." }
+    ];
+  }
+
+  if (slug === 'kyoto-people-private-tour-heritage') {
+    return [
+      { question: "Can we choose which sites to visit?", answer: "Yes, that's the core of this tour - Miyako tailors the route around your interests, whether that's major temples, quieter neighborhoods, or a specific theme like Zen gardens or geisha culture. Sharing your priorities before the tour helps the guide plan realistically for the 4-hour window." },
+      { question: "Is this suitable for families with young children?", answer: "Yes, the private format and small group cap make it easy to adjust pace and stops for kids, including shorter walking segments and breaks as needed, something a fixed-group tour usually can't accommodate." },
+      { question: "How many sites can we realistically see in 4 hours?", answer: "Typically two to three sites depending on distances and how long you want to linger at each, since the guide prioritizes quality time over checklist-style rushing. This is intentionally a focused sample of Kyoto rather than a comprehensive day." },
+      { question: "Is this a good option for a Kyoto layover or short stopover?", answer: "Very much so - the 4-hour private format is designed for travelers with limited time, such as a single free afternoon between trains or a short stopover, who still want a genuine, well-guided introduction to the city." }
+    ];
+  }
+
+  if (slug === 'kyoto-fushimi-guided-tour') {
+    return [
+      { question: "Is 8 hours combining two sites too much walking?", answer: "It's a full day, but it's split roughly in half between Fushimi Inari in the morning and Nara in the afternoon, with a transfer in between that gives your legs a rest. Most travelers find the variety - shrine gates versus open parkland - makes the day feel less repetitive than a single long walk." },
+      { question: "Are the Nara deer actually safe to approach?", answer: "Generally yes, they're accustomed to visitors and mostly gentle, though they can nip or headbutt if they think you're withholding a cracker, so hold food flat and be ready to let go once purchased. Guides typically give quick tips on handling them before you're in the park." },
+      { question: "Why combine these two specific sites?", answer: "Fushimi Inari's donated torii gates and Kasuga Taisha's donated lanterns are two versions of the same devotional tradition centuries apart, and pairing them with Todaiji's monumental Buddha and Nara's wild deer gives a broader sense of Japanese religious history than either city alone." },
+      { question: "What should I bring for the day?", answer: "Comfortable walking shoes, cash for deer crackers and any shrine offerings, water, and sun protection since a good portion of the day is spent outdoors in open parkland and on the shrine mountain path." }
+    ];
+  }
+
+
   // --- BANGKOK: PRIVATE PHOTOGRAPHER ---
   if (slug === 'bangkok-private-photography-tour') {
     return [

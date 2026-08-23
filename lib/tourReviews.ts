@@ -20,6 +20,118 @@ export interface TourReviewData {
 export const getTourReviews = (slug: string | undefined): TourReviewData | null => {
     if (!slug) return null;
 
+    // --- KYOTO TOURS (2026-08, real GYG reviews) ---
+    if (slug === 'kyoto-walking-tour') {
+        return {
+            averageRating: 4.6, totalReviews: 611, guideRating: 4.6, valueRating: 4.5,
+            reviews: [
+                { author: "Leonardo", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "Great private tour and explanations I learned a lot more about this transitional period in Japan and the guide was very helpful and attentive" },
+                { author: "Asma", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "An enriching visit that I highly recommend! Our live guide Vincent is an excellent guide who knows Japanese history perfectly." },
+                { author: "Mario", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-18", text: "Everything was well explained and the tour guide (Raphael) went to great lengths to make sure we were comfortable (despite the heat of July). Nijo castle was great. We were able also to visit the palace from the outside." },
+                { author: "Diana", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-05", text: "Excellent tour despite heavy rain. Our tour guide made it very enjoyable. Very educational. We learned a lot." },
+                { author: "Allison", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-05", text: "Despite the rain, our guide Miya-San kept it bright and enjoyable. My daughter (23) and I both learned a lot and were so glad we had a guide to bring what we saw to life. Great historical and cultural anecdotes." },
+                { author: "Alexandre", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-07", text: "Great tour with Vincent. He is passionate, and that was conveyed to us throughout the tour. He listened to our questions and added some good anecdotes. A big thank you to him for his expertise and professionalism." },
+                { author: "Mildred", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-28", text: "Shillin was an excellent guide. We appreciated her insights into Japanese culture today as well as historical knowledge. The tour seems overpriced considering we had to take a taxi between the 2 locations and admission was only charged at one of them." },
+                { author: "Julia", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-27", text: "We had an amazing experience with our guide Shilin! From start to finish, everything was perfectly organized and so much fun. Shilin was incredibly friendly, knowledgeable, and made the whole tour feel relaxed and personal. He shared lots of interesting stories and local insights that we would have never discovered on our own." },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-walking-evening-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 260, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Sandrine", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-22", text: "Our live guide Roman made this tour very interesting" },
+                { author: "Sophie Tugela", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "Tami was wonderful, giving us lots of information and pointing out things we definitely would have missed. It was a small group so we went at a good pace. Going at night time is a really special experience, with the gates lit up and the noise of the forest around you. A wonderful experience and a highlight of our 4 weeks in Japan!" },
+                { author: "Michelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "Nori was amazing! He is a very fun and intelligent young guide! I would recommend this night tour. It was better at night!" },
+                { author: "Johanna", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-25", text: "Highly recommended! Tammy was a wonderful guide, very informative and attentive. The locations are fantastic. Thank you for this wonderful evening." },
+                { author: "Mia", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-14", text: "The guide was amazing!! From telling the stories about the temples and walking about the shrines. She told every story zo beautifully and showed us all the beautiful spots. Really recommend taking this tour! Very kind tourguide \ud83e\udd70\ud83e\udd70" },
+                { author: "Atyab", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-26", text: "The obest way to see fushimi-inari is with someone like Masaki, who is a great guide and on top of his game. He explained things in a fun and engaging manner. His personal conviction and spiritual bend made the tour special as he kept adding what the shrine meant to him and his family and that made it seem more like a friend guiding us through a place that means something to him rather than a tour guide going through the motions" },
+                { author: "Gregory", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-24", text: "Excellent with great information along the way and a little off the path to understand what goes into the purchase and symbolism of the gates. Thank you." },
+                { author: "Davis", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-22", text: "Had a wonderful time! Roman was great! He was very knowledgeable and made it a great experience! He went above and beyond! Would highly recommend the tour, especially with him!" },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-legends-guided-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 212, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Pillois", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "We had a great time with Sebastian, who introduced us to lots of stories from Japanese folklore! We were alone in the streets of Arashiyama, which immersed us directly in the atmosphere!" },
+                { author: "Olivia", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "Sebastian was a great tour guide and was very good at telling stories. The pace was very nice and we had a great time." },
+                { author: "Catherine", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Zoe was amazing! Very informative and entertaining, and also super mindful of every individual in the group" },
+                { author: "Elisabeth", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "I sent off two young people (18-20 years old) who weren't easily scared, and fortunately, they made it out of and back from the forest both alive and very happy. They raved about the guide, the group (a small group that evening), and appreciated the good atmosphere, the engagement, and the execution. They were sure that their mother (me) would have been terrified \ud83d\udc7b if I had participated \ud83d\ude05" },
+                { author: "Elenia", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-26", text: "The tour was great! That was my second time. The guide, Zoe, made the whole thing very exciting and scary, and I had a lot of fun :) I would definitely come a third time at some point when I'm back in Japan ;)" },
+                { author: "Donald", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-18", text: "Our guide Kalle was amazing! This tour was very cool and the different stories were really interesting! Highly recommend if you\u2019re into these types of stories!" },
+                { author: "Martin", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-18", text: "The tour was very exciting and entertaining. Sebastian is a good storyteller. And it was a little spooky too, especially in the pitch-dark forest at night..." },
+                { author: "Salina", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-18", text: "I had an amazing tour with Sebastian as our tour guide! I would highly recommend this tour to anyone that enjoys learning about dark tales and legends." },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-food-tour') {
+        return {
+            averageRating: 4.4, totalReviews: 85, guideRating: 4.5, valueRating: 4.3,
+            reviews: [
+                { author: "Rita", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-09", text: "We loved it! It was just me, my husband, and our 13-year-old daughter, so \u00c9lo\u00efse tailored the tour to what we liked and were interested in. She was super friendly! We totally recommend this tour, and we hope you get \u00c9lo\u00efse as your guide! \ud83d\ude0d" },
+                { author: "Serge", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-06", text: "Tr\u00e8s interessante. Nous appris beaucoup de choses. Marcelo \u00e9tait tr\u00e8s dynamique." },
+                { author: "Katherine", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-12", text: "The guide was so great about customizing our tour! He was very patient when we ended up lingering longer in some areas than most people probably do. (We did lose our minds a bit at Daimaru but wow what a cool place) He was fantastic about introducing us to some traditional Japanese food and showing us around the Nishiki market. We would definitely book again. Great for anyone who loves to try new and different food!" },
+                { author: "Natalie", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-25", text: "I liked the tour. We did a nice walk through the food court of the mall and then through the market. Vincent spoke great English, and we enjoyed the tour." },
+                { author: "Fran\u00e7ois", country: "Verified GetYourGuide review", rating: 5, date: "2025-06-09", text: "Parfait! Visite tr\u00e8s agr\u00e9able. Notre guide a pris son temps pour r\u00e9pondre \u00e0 toutes nos questions et nous a fait d\u00e9couvrir des endroits que nous n\u2019aurions jamais d\u00e9couvert seuls. Notre guide \u00e9tait aussi tr\u00e8s sympathique. Je recommande" },
+                { author: "Tammy Alves", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-19", text: "Me and my family loved seeing new things and tasting delicious original foods from Kyoto I say this experience was a 10 out of 10!! Thank you so much jasmine." },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-18", text: "Great food! Lovely to walk around the fish markets and pay a visit to the Shrine. Mao was a great tour guide and gave us plenty of insight into the Japanese\u2019s cuisine, while also buying us some food so we could try it. We weren\u2019t pressured into buying any food from the markets and it was a really friendly atmosphere. She was very enthusiastic about everything and we really enjoyed eating everything she chose for us. It was also great to get some insight into the Shinto shrine located there and the meaning behind the different parts. A perfect start to our trip to Kyoto! Thank you, Mao!" },
+                { author: "Elizabeth", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-22", text: "Jasmine was our guide through Nishiki Market and did a great job! She provided lots of insights to the food we were trying and the history of the market. She also gave us plenty of opportunities for shopping while she organized the tastings. Great experience overall!" },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-stitching-guided-tour') {
+        return {
+            averageRating: 4.8, totalReviews: 29, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Cinzia Liviana", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "A wonderful workshop! Jun-san is an excellent teacher\u2014very helpful and knowledgeable. I really appreciated the historical introduction and the technical aspects, which the instructor explained masterfully. The discussion of fibers and materials, as well as the dyeing of the threads used in the sashiko technique, was absolutely fascinating. The icing on the cake was the collection of items Mr. Jun showed us, which allowed us to observe the vast expressive potential of sashiko in both historical and modern contexts! Equally important was the opportunity to purchase kits and materials so we could continue exploring this craft once we returned home." },
+                { author: "Melissa", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-19", text: "it was so fun to learn about the history of the craft and the thread dying. we also enjoyed chatting with our guide and the other members in our class \ud83d\ude0a\ud83d\ude4f\ud83d\ude4c" },
+                { author: "Angela", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-26", text: "The Sashiko Stitching class was a great small group setting. We about the history of the stitching and how it developed. We were given detailed instructions and lots of support along the way. You do not have to have knowledge of sewing to take the class. They will teach everything and are very patient. It was a relaxed chill atmosphere and great to learn about a traditional Japanese craft. I would highly recommend." },
+                { author: "Mitchell", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-24", text: "Amazing! I would like NeNe to get in touch with me. How do I reach her? I would like to purchase something from her." },
+                { author: "Judy", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-31", text: "Very relaxing, just stitching and chatting. Gentle guidance from the tutor. Everything we needed was at hand. Enjoyed this short course immensely." },
+                { author: "Louise", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-21", text: "Haru-san was a great teacher. Very patient, and lovely to ha e a small group so we all had some one-to-one time. Truly an experience I will treasure." },
+                { author: "Tersia", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-20", text: "Loved it, just the meeting point in the map and photo were not right" },
+                { author: "Stacy", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-02", text: "This Sashiko workshop exceeded all expectations. Jun and his assistant were so friendly, knowledgeable and professional. A lot of workshops are dumbed down due to lack of time or skills needed to complete a project. However, this workshop was 100% hands-on and I actually learned a skill from beginning to end. As a bonus. Jun and his assistant were great conversationalists, and we had a lot of fun chatting and sharing experiences while we stitched away. I highly recommend this workshop for anyone interested in adding a new skill to their craft repertoire. I can\u2019t wait to start a new Sashiko project." },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-night-evening-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 14, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Christi", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-04", text: "The tour was Fantastic. Mariko is a delight. She is so kind and sweet and polite that we wished we could walk around with her for a whole day! She is very knowledgeable and speaks very good English (and we spoke a bit of French with her, too). Having been born and raised in Japan, Mariko really understands the culture and the history and was able to share with us lots of interesting facts about the area, its history, and Japan overall." },
+                { author: "Terry", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-31", text: "Ikki was an excellent guide. Homegrown in Kyoto he presents a genuine local perspective of Kyoto life. He is easygoing and personable and oh so knowledgeable. We went during peak cherry blossoms and the crowds were insane. Despite this, his agenda and expertise somehow kept us away from the masses of people. The tour itself covers all the must-see attractions. He maximized the time to see every picturesque spot. Highly recommend this tour for both first timers to Kyoto and seasoned tourists. A+++ to Ikki" },
+                { author: "Kriti", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-24", text: "We had a lovely time exploring Fushimi Inari and Gion with Joi. It was a great introduction to the history and culture of Kyoto on our first day. The pace of the tour was great, not rushed at all. Would 100% recommend this evening tour with Joi." },
+                { author: "Christine", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-25", text: "Tui was awesome and the tour was very informative. Beautiful city and having a local guide was invaluable" },
+                { author: "April", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-14", text: "Our night tour with Mariko was amazing! I feel like I learned and saw so much and enjoyed every minute! She taught us so much about the Shinto symbolism and gods of the shrines she visited and was friendly truly a joy to explore from. I highly recommend touring Kyoto with her she took great care of us and this tour will be one of the highlights of my time in Kyoto." },
+                { author: "Luminita", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-22", text: "Thank you very much for today's tour (22/07/2025). It was simply amazing! We loved very much indeed both the sites and our guide, who thought us great many new things!" },
+                { author: "Marie", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-15", text: "We booked this tour last minute and were lucky enough to have Ikke as our guide! It was a wonderful evening, seeing the shrines and temples lit up. And Ikke is a wealth of information; we learned so much and he made it so interesting and fun! He was happy to answer questions both about the history of Japan and current events. At the end of the tour he sent us all the photos he took of us, his restaurant recommendations and even hailed us a taxi! I highly recommend this tour and Ikke as guide. Five stars all the way!" },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-27", text: "Ikki was such a wonderful guide! He was patient, knowledgeable, and kind. We saw so many sites and were happy to have someone native to Kyoto to show us the best viewpoints and take the best pictures. Thank you so much, Ikki!!! We will not forget this trip! :-) :-) :-)" },
+            ],
+        };
+    }
+
+    if (slug === 'kyoto-sommelier-guided-tour') {
+        return {
+            averageRating: 5, totalReviews: 11, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Adrien", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-10", text: "an amazing discovery of the profound nature of Sake as a whole." },
+                { author: "Allison", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-23", text: "Delicious food! Lovey evening with great company. Ukyo was a friendly guide." },
+                { author: "Zack", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-30", text: "Don\u2019t let the small number of reviews push you away from this experience! It\u2019s fantastic! We made a last minute booking and had an amazing time in the cute little shop where the class is held. Our host, Yuko, was highly knowledgeable and led us through a great course on the history of sake, how it is produced, and the various flavor profiles resulting from the production process. Through the class, you\u2019ll sample 8 different sake varieties. All of them were delicious and really help you to understand the various flavor profiles present. I now feel much more comfortable going and choosing a sake to pair with food after completing this class. I would highly recommend this class to anyone who likes sake or desires to learn more about it!" },
+                { author: "sarai", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-11", text: "Yuko was great at explaining the culture around sake, how to taste it and choose it. She is a lovely and knowledgeable person" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Such a fun activity! Very educational and fun. We learned so much about sake and pairing. I highly recommend this activity" },
+                { author: "Boris", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-21", text: "Was really interesting, we enjoyed a lot" },
+            ],
+        };
+    }
+
+
     // --- AGRA: TAJ MAHAL SAME-DAY RETURN FROM DELHI BY CAR ---
     if (slug === 'taj-mahal-return-guided-tour') {
         return {

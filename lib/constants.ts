@@ -223,6 +223,13 @@ export const TOKYO_INFO_SLUGS = [
   'tokyo-food-guide'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
+export const KYOTO_INFO_SLUGS = [
+  'best-time-to-visit-kyoto', 'getting-around-kyoto', 'kyoto-3-day-itinerary',
+  'fushimi-inari-guide', 'arashiyama-bamboo-forest-guide', 'gion-geisha-district-guide',
+  'kyoto-food-guide'
+];
+
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
   'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',
