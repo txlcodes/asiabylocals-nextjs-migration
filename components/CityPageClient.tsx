@@ -2932,7 +2932,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                       <div className="flex items-center justify-between pt-0 md:pt-2 border-t-0 md:border-t border-gray-100">
                         <div className="text-right w-full">
                           <div className="text-[14px] md:text-[18px] font-black text-[#001A33]">
-                            Starting from {tour.currency === 'INR' ? '₹' : '$'}{lowestPrice.toLocaleString()}
+                            Starting from {tour.currency === 'INR' ? '₹' : tour.currency === 'JPY' ? '¥' : tour.currency === 'IDR' ? 'Rp' : tour.currency === 'THB' ? '฿' : tour.currency === 'EUR' ? '€' : '$'}{lowestPrice.toLocaleString()}
                           </div>
                         </div>
                       </div>
