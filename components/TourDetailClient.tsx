@@ -1501,6 +1501,47 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     </div>
                   )}
 
+                  {/* Quick Facts table — real <table> markup targets featured snippets */}
+                  <div className="mb-8 pt-8 overflow-x-auto">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">{tour.title}: Key Facts</h2>
+                    <table className="w-full text-[15px] border border-gray-200 rounded-lg overflow-hidden">
+                      <tbody>
+                        <tr className="border-b border-gray-100">
+                          <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5 w-44">Price</th>
+                          <td className="px-4 py-2.5 text-gray-700 font-semibold">From {tour.currency === 'INR' ? '₹' : '$'}{tour.pricePerPerson} per person</td>
+                        </tr>
+                        {tour.duration && (
+                          <tr className="border-b border-gray-100">
+                            <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5">Duration</th>
+                            <td className="px-4 py-2.5 text-gray-700 font-semibold">{tour.duration}</td>
+                          </tr>
+                        )}
+                        {tour.maxGroupSize && (
+                          <tr className="border-b border-gray-100">
+                            <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5">Group size</th>
+                            <td className="px-4 py-2.5 text-gray-700 font-semibold">Up to {tour.maxGroupSize} people</td>
+                          </tr>
+                        )}
+                        {Array.isArray(tour.languages) && tour.languages.length > 0 && (
+                          <tr className="border-b border-gray-100">
+                            <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5">Languages</th>
+                            <td className="px-4 py-2.5 text-gray-700 font-semibold">{tour.languages.join(', ')}</td>
+                          </tr>
+                        )}
+                        {tour.category && (
+                          <tr className="border-b border-gray-100">
+                            <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5">Tour type</th>
+                            <td className="px-4 py-2.5 text-gray-700 font-semibold">{tour.category}</td>
+                          </tr>
+                        )}
+                        <tr>
+                          <th scope="row" className="text-left font-bold text-[#001A33] bg-gray-50 px-4 py-2.5">Booking</th>
+                          <td className="px-4 py-2.5 text-gray-700 font-semibold">Direct with the local operator — no OTA markup</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
                   {/* Tour Options Section - GetYourGuide Style */}
                   {/* Show options - include main tour if it has group pricing */}
                   {(() => {
