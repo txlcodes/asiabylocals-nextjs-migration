@@ -130,6 +130,29 @@ export async function generateStaticParams() {
   ];
 }
 
+/** Number of approved tours for a city — drives whether the page is indexable. */
+async function countApprovedTours(countryName: string, cityName: string): Promise<number> {
+  try {
+    const res = await fetch(
+      `${API_URL}/api/public/tours?country=${encodeURIComponent(countryName)}&city=${encodeURIComponent(cityName)}&status=approved`,
+      { next: { revalidate: 3600 } }
+    );
+    if (!res.ok) return 0;
+    const data = await res.json();
+    if (!data?.success) return 0;
+    const list = Array.isArray(data.tours)
+      ? data.tours
+      : Array.isArray(data.tours?.tours)
+        ? data.tours.tours
+        : [];
+    return list.length;
+  } catch {
+    // On a backend hiccup, fall through to "no tours" -> noindex rather than
+    // publishing a page we cannot confirm has content.
+    return 0;
+  }
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country, city } = await params;
   const cityName = capitalize(city);
@@ -137,7 +160,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const meta = CITY_META[cityName];
   const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
   const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
-  const noIndex = !['Agra', 'Delhi', 'Jaipur', 'Phuket', 'Bangkok', 'Chiang Mai', 'Mumbai', 'Goa', 'Kashmir', 'Colombo', 'Kandy', 'Galle', 'Sigiriya', 'Ella', 'Nuwara Eliya', 'Kathmandu', 'Pokhara', 'Chitwan', 'Bhaktapur', 'Lumbini', 'Tokyo', 'Pattaya', 'Krabi'].includes(cityName);
+  // Index a city page only if it actually has approved tours. This used to be a
+  // hardcoded whitelist, which drifted badly as supply changed: 14 cities with
+  // live tours (Udaipur, Jodhpur, Bengaluru, Jaisalmer, Varanasi...) were being
+  // noindexed, while 9 empty cities stayed indexable as thin pages. Deriving it
+  // from the live tour count keeps it correct on its own.
+  //
+  // 2026-08-26: the fail-closed catch (fetch hiccup -> 0 -> noindex) bit us: a
+  // Render cold-start during render noindexed Kyoto and Osaka, and ISR cached
+  // the bad verdict — GSC then dropped live cities from the index. Cities with
+  // established supply must never be noindexed by a transient fetch failure;
+  // the dynamic count still governs everything outside this floor.
+  const ALWAYS_INDEX_CITIES = new Set([
+    'agra', 'delhi', 'jaipur', 'mumbai', 'kashmir',
+    'bangkok', 'chiang-mai', 'phuket', 'krabi', 'pattaya',
+    'tokyo', 'kyoto', 'osaka',
+  ]);
+  const noIndex = ALWAYS_INDEX_CITIES.has(city.toLowerCase())
+    ? false
+    : (await countApprovedTours(countryName, cityName)) === 0;
 
   return {
     title,
