@@ -96,6 +96,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Typically late March into early-to-mid April, though exact bloom dates shift year to year — check current-year forecasts closer to your trip.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the single best month to visit Osaka?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "November, for the combination of low rainfall, comfortable temperatures, and autumn color, without quite reaching April's peak crowd and price levels."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Osaka too hot to visit in summer?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It's hot and humid (27-32°C with high humidity), which makes outdoor walking tours tougher, but indoor experiences and evening activities remain comfortable and summer festivals are a real draw."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When does cherry blossom season happen in Osaka?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Typically late March into early-to-mid April, though exact bloom dates shift year to year — check current-year forecasts closer to your trip."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -186,6 +220,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Dotonbori at night — it\'s the most photographed street scene in the city and free to walk.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is 3 days enough for Osaka?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes — Osaka's core sights are compact and well-connected by subway, so 3 days covers Osaka Castle, Dotonbori/Namba, and one day trip comfortably."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I stay in Osaka or day-trip from Kyoto instead?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Either works since the two cities are 13-29 minutes apart by train, but basing in Osaka usually means cheaper hotels and easier access to Universal Studios and Kansai Airport."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the one thing I shouldn't skip?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Dotonbori at night — it's the most photographed street scene in the city and free to walk."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -260,6 +328,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: '¥3,300 for one day or ¥5,500 for two days, delivered digitally as a QR code as of 2026.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need both ICOCA and the Osaka Amazing Pass?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Most visitors benefit from both — ICOCA for everyday travel, the Amazing Pass only on days packed with paid attractions."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Does the Osaka Amazing Pass cover JR trains?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No, JR-operated lines including the Osaka Loop Line are excluded — it covers Osaka Metro subway and bus plus attraction entry."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How much is the Osaka Amazing Pass?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "¥3,300 for one day or ¥5,500 for two days, delivered digitally as a QR code as of 2026."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -334,6 +436,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Yes for the grounds and stone walls even without paying entry — the keep museum adds historical context but is a reconstruction, not the original 16th-century structure.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How much does Osaka Castle cost to enter?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "¥1,200 for adults, covering the keep and Stone Wall Museum; the surrounding park is free."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What are Osaka Castle's hours?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Daily 9:00-17:00 (last entry 16:30), extended to 21:00 during spring cherry blossom illuminations, closed Dec 28-Jan 1."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Osaka Castle worth visiting?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes for the grounds and stone walls even without paying entry — the keep museum adds historical context but is a reconstruction, not the original 16th-century structure."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -424,6 +560,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Namba or Shinsaibashi stations, both a short walk away.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Where's the best spot to photograph the Glico sign?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Ebisu Bridge, or the riverside promenade just beneath it looking up at the sign."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What time is Dotonbori busiest?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It reaches full intensity around 8pm, with peak crowds 9-11pm on Friday and Saturday nights."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Which station is closest to Dotonbori?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Namba or Shinsaibashi stations, both a short walk away."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -522,6 +692,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'No — most kushikatsu stalls use a shared sauce pot and expect one dip per skewer; use the provided cabbage to scoop extra sauce instead.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the difference between takoyaki and okonomiyaki?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Takoyaki is small ball-shaped snacks with octopus inside; okonomiyaki is a larger savory pancake with cabbage and other ingredients mixed into the batter."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How do I get to Kuromon Ichiba Market?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It's a 3-5 minute walk from Nippombashi Station on the Sakaisuji and Sennichimae subway lines."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I double-dip kushikatsu sauce?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No — most kushikatsu stalls use a shared sauce pot and expect one dip per skewer; use the provided cabbage to scoop extra sauce instead."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -596,6 +800,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Generally yes, though they can nip or headbutt for crackers if you tease them — hold crackers flat and be ready for an enthusiastic deer.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How long does it take to get from Osaka to Nara?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "About 30-45 minutes each way on the Kintetsu Rapid Express, or 45-55 minutes on JR (covered by a JR Pass)."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Nara doable as a half-day or do I need a full day?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "A full day trip (around 10 hours including transit) lets you comfortably see the deer park, Todai-ji, and one or two additional temples; a half-day covers just the deer park and Todai-ji."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Are the deer safe to feed?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Generally yes, though they can nip or headbutt for crackers if you tease them — hold crackers flat and be ready for an enthusiastic deer."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -662,6 +900,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Yes, ICOCA works on JR, Hankyu, and Keihan lines for tap-in tap-out travel without buying individual tickets.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the Shinkansen worth it for Osaka to Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Usually not for a day trip — it saves only about 15 minutes over the JR Special Rapid but costs roughly 5 times as much."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the cheapest way from Osaka to Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The Hankyu Kyoto Limited Express at ¥410, though the JR Special Rapid (¥580, 29 min) is faster for similar cost."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I use ICOCA for these trains?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes, ICOCA works on JR, Hankyu, and Keihan lines for tap-in tap-out travel without buying individual tickets."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -744,6 +1016,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'It\'s touristy in parts but retains a genuinely different, grittier retro character from Dotonbori — worth a visit for contrast, especially in the early evening.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is Tsutenkaku Tower?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "A 103-meter observation tower built in 1912, the visual centerpiece of the Shinsekai district, with an observation deck and rooftop area."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What should I eat in Shinsekai?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Kushikatsu (deep-fried skewers) is the signature dish, best found along Janjan Yokocho alley."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Shinsekai worth visiting or is it too touristy?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It's touristy in parts but retains a genuinely different, grittier retro character from Dotonbori — worth a visit for contrast, especially in the early evening."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
@@ -826,6 +1132,40 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
             a: 'Around 9-11pm on Friday and Saturday in Dotonbori; Ura-Namba runs later, into the 10pm-1am range.',
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the difference between Dotonbori and Ura-Namba for nightlife?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Dotonbori is the flashy, tourist-heavy canal strip; Ura-Namba (between Namba Station and Sennichimae) has a more local standing-bar and izakaya scene."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is a tachinomi bar?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "A standing-room-only bar, typically cheap (¥300-500 a drink) and fast-paced, common throughout Osaka."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When does Osaka nightlife peak?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Around 9-11pm on Friday and Saturday in Dotonbori; Ura-Namba runs later, into the 10pm-1am range."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 

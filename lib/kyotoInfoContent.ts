@@ -88,6 +88,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "It's Kyoto's wettest month, but not necessarily a dealbreaker - rain tends to come in bursts, temples are far less crowded, and moss gardens are famously at their best right after rain. Pack a compact umbrella and it's a workable window.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the single best month to visit Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "November is often cited as the best all-round month: comfortable temperatures, low rainfall, and peak autumn foliage in the second half of the month. Early-to-mid April (post-peak-bloom, pre-Golden-Week) is a close second for spring."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Kyoto colder than Tokyo in winter?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. Kyoto's basin geography traps cold air, and its winter lows are typically a few degrees colder and feel damper than Tokyo's, despite Kyoto being at a similar or slightly lower latitude."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How hot does Kyoto get in summer?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Kyoto is regularly among the hottest cities in mainland Japan during July and August, with average highs commonly reaching the low-to-mid 30s°C and high humidity that makes it feel hotter than the number suggests."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When exactly do the cherry blossoms bloom in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Historically, first bloom lands around late March and full bloom about a week later, typically a few days to a week behind Tokyo. Exact dates vary by year, so check the current year's forecast closer to your travel dates."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is rainy season (tsuyu) in June a reason to avoid Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It's Kyoto's wettest month, but not necessarily a dealbreaker - rain tends to come in bursts, temples are far less crowded, and moss gardens are famously at their best right after rain. Pack a compact umbrella and it's a workable window."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497351/asiabylocals/tours/kyoto-best-of-kyoto-day-tour/img0.jpg",
       };
 
@@ -175,6 +225,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Public transit (bus, subway, and JR/private rail) comfortably covers Kyoto's major sights on your own. Private taxi or van tours add convenience for time-limited visitors or for consolidating a cluster of stops in one area, but they're a comfort upgrade rather than a necessity.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I take the subway or bus in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Use the subway (Karasuma or Tozai lines) when your route happens to align with one of the two lines - it's fast and rarely crowded. For most sightseeing, especially Higashiyama, Kinkaku-ji, and Ginkaku-ji, the bus network is unavoidable since the subway doesn't reach them directly."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the Kyoto bus day pass still available?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Kyoto discontinued its old bus-only one-day pass in 2023 due to overcrowding on tourist routes; a bus/subway combined pass has been the main replacement. Pass names and pricing change periodically, so confirm current options at Kyoto Station's tourist information counter before your trip."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I use my Tokyo Suica card in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. Suica, ICOCA, Pasmo, and the other major Japanese IC cards are interoperable nationwide, including on Kyoto's buses, subway, and rail lines. You don't need a separate Kyoto-specific card."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the fastest way to Fushimi Inari from Kyoto Station?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The JR Nara Line to Inari Station, which is only 2 stops and about 5 minutes from Kyoto Station, dropping you right at the shrine entrance. It's faster and cheaper than a taxi for this specific trip."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need a private car or tour to see Kyoto, or is public transit enough?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Public transit (bus, subway, and JR/private rail) comfortably covers Kyoto's major sights on your own. Private taxi or van tours add convenience for time-limited visitors or for consolidating a cluster of stops in one area, but they're a comfort upgrade rather than a necessity."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497402/asiabylocals/tours/kyoto-kyoto-private-day-tour/img0.jpg",
       };
 
@@ -240,6 +340,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Nara is the classic choice for its Great Buddha and free-roaming deer. Uji is quieter, less touristy, and known for matcha and the Byodo-in Temple - a better fit for a calmer afternoon.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is 3 days enough to see Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Three days covers Kyoto's essential sights well if you start early each day and accept you won't see everything - the city has over 1,600 temples. This itinerary prioritizes the highest-value areas (Higashiyama, Arashiyama, Fushimi Inari) and leaves Day 3's afternoon flexible for a day trip to Nara or Uji."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the best order to do a Kyoto itinerary in?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Group sights by geography, not by fame. Higashiyama's temples cluster together and are walkable; Arashiyama and Kinkaku-ji sit on the west/northwest side; Fushimi Inari is south near Kyoto Station. Doing them out of order wastes hours in transit."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need reservations for Kyoto temples?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Most major temples (Kiyomizu-dera, Kinkaku-ji, Ryoan-ji, Tenryu-ji, Fushimi Inari) don't require advance reservations and are pay-on-entry."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the best way to avoid crowds in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Arrive at major sites within 30 minutes of opening (or by 7am for Fushimi Inari, since it's always open). Tour buses and day-trippers typically arrive between 10am and 2pm."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I do Nara or Uji as a day trip from Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Nara is the classic choice for its Great Buddha and free-roaming deer. Uji is quieter, less touristy, and known for matcha and the Byodo-in Temple - a better fit for a calmer afternoon."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         fastFacts: [
           {
             icon: "Clock",
@@ -332,6 +482,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Comfortable closed-toe walking shoes, since the path is stone steps and paved inclines that can get slippery after rain. Teahouses along the route sell drinks and snacks. Layers help, since the forested upper paths are noticeably cooler.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How long does it take to hike Fushimi Inari?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The full round trip to the summit of Mt. Inari and back is roughly 4 kilometers and takes about 2-3 hours at a relaxed pace. If you only want the highlight views, the Yotsutsuji intersection halfway up is about 30-45 minutes each way."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Fushimi Inari free to enter?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. Fushimi Inari Taisha has no admission fee and no ticket gates, and it's open 24 hours a day, every day of the year."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How many torii gates are at Fushimi Inari?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The exact number is often debated and changes over time as gates are added, replaced, or removed. What's certain is that there are thousands of gates forming continuous tunnels up the mountain, each donated as an offering to Inari."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need to hike all the way to the top?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. Most visitors only walk the first 20-30 minutes and never see the crowds thin out. The Yotsutsuji intersection about halfway up is a realistic, rewarding turnaround point. The actual summit has no view since it's enclosed by forest."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What should I wear or bring for the Fushimi Inari hike?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Comfortable closed-toe walking shoes, since the path is stone steps and paved inclines that can get slippery after rain. Teahouses along the route sell drinks and snacks. Layers help, since the forested upper paths are noticeably cooler."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         fastFacts: [
           {
             icon: "Clock",
@@ -446,6 +646,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Yes, they're both in western/northwest Kyoto and are commonly combined. Start at Arashiyama early morning, then taxi or bus to Ryoan-ji and Kinkaku-ji by early-to-mid afternoon.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the Sagano Bamboo Grove really free to visit?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. The Bamboo Grove (Chikurin no Michi) is a public walking path with no entrance fee and no set hours - it's open 24 hours a day, every day. You only pay if you enter adjacent attractions like Tenryu-ji Temple."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What time should I arrive to avoid crowds at Arashiyama?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Arrive by 7:30-8:00 AM for a near-empty bamboo path. Crowds build steadily from 9 AM onward and peak from late morning through mid-afternoon, especially on weekends and during cherry blossom and fall foliage seasons."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How long does it take to walk through the Bamboo Grove?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The main path is about 500 meters and takes 10-15 minutes to walk at a relaxed pace. Most visitors spend 20-30 minutes total once you factor in photos and slower crowd-shuffle pace during busier hours."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need to book the Sagano Romantic Train in advance?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "During cherry blossom and autumn foliage seasons, yes - tickets frequently sell out days ahead. Outside peak seasons you can often buy same-day, but booking online in advance is safer year-round."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I visit Arashiyama and Kinkaku-ji in the same day?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes, they're both in western/northwest Kyoto and are commonly combined. Start at Arashiyama early morning, then taxi or bus to Ryoan-ji and Kinkaku-ji by early-to-mid afternoon."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497404/asiabylocals/tours/kyoto-cycle-around-kyoto-1-day-private-e-bike-tour-with-hotel-pick/img0.jpg",
       };
 
@@ -538,6 +788,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Most kimono-clad women seen in Gion during the day are tourists who paid for a maiko transformation experience. Real geiko and maiko are typically seen only in the early evening, move quickly with purpose, and rarely stop for photos.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is 'geisha' the wrong word to use in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It's understood everywhere, but Kyoto's own term for a fully trained entertainer is 'geiko,' with 'maiko' for an apprentice. Using the local terms is a small but meaningful sign of respect when discussing the culture in Kyoto specifically."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can tourists visit an ochaya (teahouse) in Gion?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Traditional ochaya operate on an appointment-only, introduction-based system and generally aren't open to walk-in tourists. A small number of tea houses now offer separate, prepaid English-language tourist programs."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is it true you can be fined for taking photos in Gion?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Kyoto introduced local restrictions banning photography on certain private alleys in Gion after complaints about tourists harassing geiko and maiko, with fines for violators. Treat any private, narrow alley as off-limits for photos and check posted signage for current rules."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the best time to see a real geiko or maiko in Gion?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Early evening, roughly 5:30-6:30 PM, when they're walking from their okiya to an ozashiki appointment. Good areas to simply be present in include Hanamikoji-dori and the Shirakawa canal near Tatsumi Bridge. Sightings are brief - never block or chase them."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How do I know if I'm looking at a real geiko or a tourist in costume?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Most kimono-clad women seen in Gion during the day are tourists who paid for a maiko transformation experience. Real geiko and maiko are typically seen only in the early evening, move quickly with purpose, and rarely stop for photos."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497397/asiabylocals/tours/kyoto-gion-kyoto-maiko-geisha-photoshoot/img0.jpg",
       };
 
@@ -608,6 +908,56 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
             a: "Pontocho alley and neighboring Kiyamachi-dori, both near the Kamo River, have Kyoto's densest concentration of izakaya and riverside dining, including seasonal kawadoko platforms over the river in summer.",
           },
         ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the best food to try in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Prioritize yudofu (simmered tofu) near Nanzen-ji or Arashiyama, a kaiseki or shojin ryori set meal, obanzai home-style dishes in Pontocho, and street snacks like tako tamago and yuba at Nishiki Market."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is Nishiki Market worth visiting for food?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes - it's a roughly 400-meter covered arcade of specialty food stalls where you can sample small bites like tako tamago, yuba, and matcha sweets without committing to a full sit-down meal. Go on a weekday morning to avoid the heaviest crowds."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the difference between kaiseki and shojin ryori?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Kaiseki is a multi-course fine-dining format rooted in the tea ceremony and can include fish and meat; shojin ryori is strictly Buddhist temple vegetarian cuisine, avoiding meat, fish, and pungent alliums, typically eaten at or near temples."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do you tip at restaurants in Kyoto?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. Tipping is not customary in Japan and is not expected at restaurants, izakaya, or even high-end kaiseki establishments."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Where is the best area in Kyoto for dinner and drinks?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Pontocho alley and neighboring Kiyamachi-dori, both near the Kamo River, have Kyoto's densest concentration of izakaya and riverside dining, including seasonal kawadoko platforms over the river in summer."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
         fastFacts: [
           {
             icon: "MapPin",

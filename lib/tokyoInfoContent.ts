@@ -93,6 +93,72 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "When does Tokyo's autumn colour peak?", a: "**Late November into early December** for central Tokyo — noticeably later than Kyoto. JMA's Kitanomaru Park specimens turned on 22–23 November in 2025 and 3 December in 2024." },
                     { q: "Which dates should I avoid?", a: "**Golden Week** (late April to early May — 2027's runs 29 April to 5 May), **Obon 13–16 August**, and **New Year 1–3 January**, when things close despite the crowds. **Silver Week 19–23 September 2026** is busy too, but it is the first since 2015, so it may be worth being there for." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What is the single best month to visit Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**November.** It has the lowest rainfall of the good-weather months (96.3 mm), comfortable 16.7°C days, 64% humidity, and autumn colour arriving late in the month — without spring's crowds or prices."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When is cherry blossom season in Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The **normal is 24 March first bloom, 31 March full bloom**, but it swings widely — 14 March in 2023, 29 March in 2024, 19 March in 2026. Forecasts only become reliable in **early March**, so treat any date booked further ahead as a gamble."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the rainy season a reason to avoid Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Not really. Tsuyu runs roughly **7 June to 19 July** with humid, grey, on-and-off rain rather than all-day downpours. Hotel rates soften, hydrangeas peak, and temples look their best wet. **September and October are the genuinely wetter months** — 224.9 mm and 234.8 mm against June's 167.8 mm."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How bad is Tokyo in summer?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "August normals are **31.3°C days, 23.5°C nights, 74% humidity** — and the nights are the problem, because the city never cools. Walking itineraries suffer badly. If you must come in summer, front-load mornings, move afternoons indoors, and put the sightseeing back after 18:00."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Will a typhoon ruin my trip?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Unlikely. Japan sees about **3 landfalls a year**, peaking in September. A typhoon typically costs a **12–36 hour window** — 2026's Jangmi halted trains and cancelled ~900 flights but most lines ran again the same evening. Leave one flexible day in a September or October itinerary."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When does Tokyo's autumn colour peak?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Late November into early December** for central Tokyo — noticeably later than Kyoto. JMA's Kitanomaru Park specimens turned on 22–23 November in 2025 and 3 December in 2024."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Which dates should I avoid?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Golden Week** (late April to early May — 2027's runs 29 April to 5 May), **Obon 13–16 August**, and **New Year 1–3 January**, when things close despite the crowds. **Silver Week 19–23 September 2026** is busy too, but it is the first since 2015, so it may be worth being there for."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'Star', label: 'Best Months', value: 'Late March–early April, late Oct–early Dec' },
                     { icon: 'AlertTriangle', label: 'Wettest Month', value: 'October (234.8 mm) — not June' },
@@ -146,6 +212,72 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "What if one of my days is a Monday?", a: "Most major museums shut — Tokyo National Museum, Nature and Science, Western Art, Ueno Zoo, Edo-Tokyo. **Mori Art Museum stays open Mondays.** Put your outdoor, neighbourhood or market day there instead." },
                     { q: "Do I need a JR Pass?", a: "No. It is ¥50,000 for seven days, excludes Tokyo Metro and Toei, and needs roughly two intercity round trips to break even. A **Suica or Pasmo** at ¥1,000–¥1,400 a day is the right answer for a Tokyo trip." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What should I book before I arrive?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**teamLab** (tickets drop 12:00 JST on the 1st of each month for Borderless) and any restaurant you care about. **Shibuya Sky cannot be booked more than 14 days out** — it releases at 00:00 JST fourteen days before your entry date, so set a reminder rather than trying early."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is 3 days enough for Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It is enough to understand the city, not to see it. Three days covers old Tokyo, the Shibuya/Harajuku axis, and one thing done properly. Trying to add Kyoto costs about ¥27,700 and two half-days of travel — not worth it on a three-day trip."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How much has Tokyo Skytree changed in 2026?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Completely. On **1 April 2026** it abolished weekday/holiday and advance/same-day pricing and the 12–17 age band, moving to **per-day variable pricing** of ¥1,800–¥3,600 for the adult Tembo Deck. **Counter purchase adds a flat ¥500.** Most third-party guides still show the dead table."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Shibuya Sky, Skytree or Tokyo Tower?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Shibuya Sky** for the crossing directly below and an open-air rooftop — but it needs the 14-day booking. **Skytree** is by far the highest, though it sits ~5 km east so you look back at the skyline rather than over it. **Tokyo Tower** is cheapest at ¥1,500, needs no booking, and has the latest entry at 22:30."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is teamLab Planets closing?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** It runs to end-2027. The closure story is a confusion with **teamLab Borderless**, which did relocate — Odaiba to Azabudai Hills, reopening February 2024."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What if one of my days is a Monday?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Most major museums shut — Tokyo National Museum, Nature and Science, Western Art, Ueno Zoo, Edo-Tokyo. **Mori Art Museum stays open Mondays.** Put your outdoor, neighbourhood or market day there instead."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need a JR Pass?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. It is ¥50,000 for seven days, excludes Tokyo Metro and Toei, and needs roughly two intercity round trips to break even. A **Suica or Pasmo** at ¥1,000–¥1,400 a day is the right answer for a Tokyo trip."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'AlertTriangle', label: 'Book First', value: 'Shibuya Sky — only 14 days ahead' },
                     { icon: 'Clock', label: 'teamLab Tickets', value: '12:00 JST on the 1st monthly' },
@@ -213,6 +345,80 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "What happened to the Pasmo Passport?", a: "It was **discontinued in 2024** and replaced by **TOURIST PASMO**, which launched in May 2026 — no deposit, ¥1,000–¥10,000 denominations, valid 28 days, and the balance is non-refundable." },
                     { q: "How much should I budget for transport per day?", a: "A typical sightseeing day of five or six journeys costs **¥1,000–¥1,400**. If you expect seven or more, price a 24/48/72-hour Tokyo Subway Ticket instead." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Suica or Pasmo — which should I get?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Either. They are functionally interchangeable across Tokyo's trains, subways, buses and shops. Suica is JR East, Pasmo is the private railways and subways, and both work on all of it. Buy whichever machine you reach first."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the JR Pass worth it for Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** The 7-day pass is ¥50,000 and one Tokyo–Kyoto round trip only recovers about ¥27,700 of that. It also excludes Tokyo Metro and Toei entirely. You need roughly two intercity round trips in seven days to break even."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Did Tokyo train fares go up in 2026?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**JR East did, on 14 March 2026** — its first real revision since 1987, and it abolished the discounted Tokyo zones. Inside-Yamanote ordinary fares rose 16.4%; the Yamanote minimum went ¥146 → ¥155 IC. **Tokyo Metro did not** — its fares are unchanged since March 2023."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I still buy a Suica card as a tourist?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. The 2023 shortage is over — unregistered sales resumed **1 March 2025**. You can buy a regular Suica at any Tokyo ticket machine, or a no-deposit Welcome Suica at the airports."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I use Suica on my phone?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "On **iPhone**, yes — Welcome Suica Mobile launched in March 2025, is valid 180 days rather than 28, and takes foreign cards via Apple Pay. On **Android there is no tourist equivalent**; Google Wallet Suica needs a Japan-market handset. Android users should buy a physical card."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I just tap my credit card at the gate?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. Metro's fare table charges **contactless credit taps at the rounded-up paper fare**, not the to-the-yen IC fare. It is a few yen per trip that adds up, and IC cards work in more places."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What happened to the Pasmo Passport?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "It was **discontinued in 2024** and replaced by **TOURIST PASMO**, which launched in May 2026 — no deposit, ¥1,000–¥10,000 denominations, valid 28 days, and the balance is non-refundable."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How much should I budget for transport per day?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "A typical sightseeing day of five or six journeys costs **¥1,000–¥1,400**. If you expect seven or more, price a 24/48/72-hour Tokyo Subway Ticket instead."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'CheckCircle2', label: 'Best Option', value: 'Suica or Pasmo IC card' },
                     { icon: 'AlertTriangle', label: 'JR Fares Rose', value: '14 March 2026, first since 1987' },
@@ -271,6 +477,80 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "Can I see the real Hachiko?", a: "Yes. His taxidermied body is displayed at the **National Museum of Nature and Science** in Ueno, Japan Gallery 2F — ¥630, free under 18, 9:00–17:00, closed Mondays. His preserved organs are at the University of Tokyo's Museum of Agriculture." },
                     { q: "What else is worth doing around the crossing?", a: "**Nonbei Yokocho**, a lantern-lit alley of tiny bars a minute from the scramble, is the one most visitors miss entirely. **Center-gai** for neon and **Omotesando** for flagship architecture are both within a short walk." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How long is the walk signal at Shibuya Crossing?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "About **37 seconds**, within a full cycle of roughly **140 seconds**. The widely quoted \"two-minute walk signal\" is the whole cycle misread. Timings vary by hour and the police do not publish them officially."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How many crosswalks are there?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Five, and exactly one is diagonal** — Hachiko plaza to QFRONT, roughly 36 metres. Claims of six or seven count the neighbouring station-side crossings as part of the same junction."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the best place to see Shibuya Crossing from above?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Shibuya Sky** — ¥2,700 web before 15:00, ¥3,400 after. Its open-air rooftop is the draw, but it closes in bad weather. **Tickets only release two weeks ahead at 00:00 JST**, so it cannot be booked months in advance. There are free elevated views from the station walkways if you'd rather not pay."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is drinking on the street illegal in Shibuya?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes — **18:00 to 05:00, year-round, since 1 October 2024**, covering Center-gai, Dogenzaka, Udagawacho, Maruyamacho and Miyamasuzaka, including parks and plazas. But **there is no fine**: the ordinance has no penalty clause and enforcement is warnings by security staff. Pages quoting a fine are wrong."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I visit Shibuya at Halloween?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The ward has publicly asked visitors not to. The Hachiko statue gets boxed in, alcohol sales are suspended 18:00–05:00, and heavy security deploys. Crowds fell from ~40,000 in 2019 to about 4,500 in 2025. If Halloween is your reason for coming, pick a different night."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the Hachiko statue the original?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. The 1934 original was surrendered for wartime metal in 1944 and melted down in August 1945. The current statue, by the **original sculptor's son**, was unveiled **15 August 1948**. Its last move was 1989 — despite what several pages claim, it did not move in 2023."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I see the real Hachiko?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes. His taxidermied body is displayed at the **National Museum of Nature and Science** in Ueno, Japan Gallery 2F — ¥630, free under 18, 9:00–17:00, closed Mondays. His preserved organs are at the University of Tokyo's Museum of Agriculture."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What else is worth doing around the crossing?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Nonbei Yokocho**, a lantern-lit alley of tiny bars a minute from the scramble, is the one most visitors miss entirely. **Center-gai** for neon and **Omotesando** for flagship architecture are both within a short walk."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'Clock', label: 'Signal Cycle', value: '~140 sec, ~37 sec walk phase' },
                     { icon: 'Map', label: 'Crosswalks', value: '5, one diagonal (~36 m)' },
@@ -323,6 +603,80 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "What happens if it rains?", a: "Tours **run in light rain and ponchos are provided**. Only heavy weather causes cancellation, with a refund or reschedule offered." },
                     { q: "Which route should I choose?", a: "**Shibuya/Harajuku/Tokyo Tower** for the famous shots and the scramble at road level. **Asakusa/Skytree/Akihabara** for quieter roads and three distinct versions of the city. Take a **two-hour** route only if you want time to stop and shoot properly rather than drive past." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need an International Driving Permit to go-kart in Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Yes, unless you hold a Japanese licence.** It must be issued under the **1949 Geneva Convention** — 1968 Vienna Convention permits are **not valid in Japan**. Bring the physical IDP, your home licence and your passport. Scans and phone photos are refused."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Which countries don't need an IDP?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Switzerland, Germany, France, Belgium, Monaco and Taiwan.** Those six licences are accepted with an **official Japanese translation from JAF** instead, valid one year from your date of entry. Every other country needs the Geneva-Convention IDP."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I get an IDP after I arrive in Japan?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** It must be issued in your own country before you travel. The JAF translation route for the six exception countries also takes time, so start early."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can two people share one kart?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. They are **single-seat**, so everyone taking part drives and everyone needs valid documents. There is no passenger option."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Why aren't they Mario costumes any more?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Nintendo sued MariCar. The **IP High Court raised damages to ¥50 million in 2019** and Japan's **Supreme Court finalised the win in December 2020**. The MariCar name and Nintendo character costumes are gone; the operator now trades as **Street Kart**. Costumes are still included — just not Nintendo's."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Are the karts fast?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Not particularly — they are low-powered automatics. The intensity comes from sitting about twenty centimetres off the road **in live Tokyo traffic**, which is a completely different sensation to speed."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What happens if it rains?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Tours **run in light rain and ponchos are provided**. Only heavy weather causes cancellation, with a refund or reschedule offered."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Which route should I choose?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Shibuya/Harajuku/Tokyo Tower** for the famous shots and the scramble at road level. **Asakusa/Skytree/Akihabara** for quieter roads and three distinct versions of the city. Take a **two-hour** route only if you want time to stop and shoot properly rather than drive past."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'AlertTriangle', label: 'Licence', value: '1949 Geneva IDP — not 1968 Vienna' },
                     { icon: 'Info', label: 'Exceptions', value: 'CH, DE, FR, BE, MC, TW — JAF translation' },
@@ -381,6 +735,80 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "Can I climb Fuji as a day trip from Tokyo?", a: "No. The gate closure from 14:00 exists specifically to prevent overnight climbs without rest. Plan an overnight in a mountain hut, or make it a two-day trip." },
                     { q: "What if the mountain is hidden by cloud?", a: "Expect it — on about two days in three you will not get the full summit. **Oshino Hakkai's spring ponds, the Kawaguchiko ropeway, an onsen and the lakeside** all stand on their own. Build the day so a hidden summit is a disappointment, not a wasted trip." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What month gives the best chance of seeing Mount Fuji?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**December, at 84% visibility** in Fuji City's 33-year record. October through February all exceed 65%. **July is worst at 23%** — which means the climbing season is exactly when the mountain is least visible."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How do I get to Kawaguchiko from Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Highway bus from Busta Shinjuku: ~1h 45m, ¥2,200** (¥2,000 online), about twice an hour. That is the sensible default. The direct **Fuji Excursion** train takes ~1h 55m for **¥4,200** — worth it only for luggage or a guaranteed seat. A JR Pass does **not** cover the buses or the Fujikyu line."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is the Mt Fuji Lawson photo spot still blocked?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** The 2.5 m black screen went up in May 2024 and came down in **August 2024**. A low **1.4 m brown barrier** was added in August 2025 to keep people out of the road — **the view is intact** and you shoot over it."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How much does it cost to climb Mount Fuji in 2026?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**¥4,000 per climb on all four trails.** Yoshida was ¥2,000 in 2024 before Yamanashi doubled it for 2025, and Shizuoka introduced its own ¥4,000 fee across Fujinomiya, Gotemba and Subashiri that same year."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "When is the 2026 climbing season?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Yoshida and Subashiri: 1 July to 10 September. Gotemba and Fujinomiya: 10 July to 10 September.** Subashiri moved forward to 1 July for 2026. All dates are weather-dependent."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What are the new climbing rules?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "A **mandatory e-learning module and test**, an **advance QR-code permit**, **gates closed 14:00–03:00** unless you hold a mountain hut booking, and — new for 2026 on Yoshida — a **physical equipment check** for hiking footwear, two-piece rain gear and cold-weather clothing. Fail it and you are turned back with a paid reservation."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I climb Fuji as a day trip from Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "No. The gate closure from 14:00 exists specifically to prevent overnight climbs without rest. Plan an overnight in a mountain hut, or make it a two-day trip."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What if the mountain is hidden by cloud?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Expect it — on about two days in three you will not get the full summit. **Oshino Hakkai's spring ponds, the Kawaguchiko ropeway, an onsen and the lakeside** all stand on their own. Build the day so a hidden summit is a disappointment, not a wasted trip."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'Star', label: 'Best Visibility', value: 'December (84%) — worst July (23%)' },
                     { icon: 'Wallet', label: 'Bus from Shinjuku', value: '¥2,200, ~1h 45m' },
@@ -450,6 +878,88 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                     { q: "Is it rude to slurp noodles?", a: "The opposite — **slurping ramen, soba and udon is expected**, signals enjoyment, and cools and aerates the noodles as you eat." },
                     { q: "Is convenience store food actually good?", a: "Genuinely, yes. Stores take **three to four fresh-food deliveries every 24 hours** with same-day expiry, and the big three compete hard on quality. Try **7-Eleven** onigiri and egg sandwiches, **Lawson** desserts, **FamilyMart** Famichiki." }
                 ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+                    {
+                              "@type": "FAQPage",
+                              "mainEntity": [
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Did Tsukiji Market close?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** Only the **inner wholesale market** moved to Toyosu in October 2018. The **Tsukiji Outer Market** never moved — around **460 shops** still trade there. Go **09:00–14:00** for the public window; it is closed Sundays, some Wednesdays and around 30 Dec–4 Jan."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Can I still see the tuna auction?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Yes, two ways. The **upper observation walkway is free with no booking** — turn up from 05:00 and watch through glass. The **lower deck, at floor level with no glass, is lottery-only**: about 100–120 people a morning, applied for roughly a month ahead at toyosu.jcdlotterysite.jp, selected at random."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What food is Tokyo specifically known for?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Edomae sushi** (the Tokyo Bay style, cured and marinated rather than raw), **monjayaki** (a runny griddle dish unique to Tokyo, 80+ shops on Tsukishima's Monja Street), and **soba** — Tokyo is a soba city where Osaka is an udon city."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "What's the difference between monjayaki and okonomiyaki?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Water.** Monja batter is full of dashi so it **never sets** — it stays gooey and you scrape it off the griddle with a small spatula and eat straight from the iron. Okonomiyaki is a thick pancake you cut and plate. Monja is Tokyo; okonomiyaki is Osaka and Hiroshima."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "How many Michelin stars does Tokyo have?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**160 starred restaurants in the 2026 guide** — 12 three-star, 26 two-star, 122 one-star — against Paris's 127. Tokyo has led the world for over fifteen years. Ignore the \"194 restaurants\" and \"more than Paris and New York combined\" figures; both are wrong."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Do I need cash in Tokyo?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**Yes.** Japan's cashless ratio was **58% in 2025**, so over 40% of payments are still cash — and card refusal is most likely at small independent izakaya, ramen ticket machines and market stalls. A card covers most spending, but the gap is disproportionately the best food."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Should I tip in Japan?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "**No.** Tipping is not expected anywhere and can be read as dissatisfaction. A spoken *arigatou gozaimasu* is the correct thanks."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is it rude to slurp noodles?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "The opposite — **slurping ramen, soba and udon is expected**, signals enjoyment, and cools and aerates the noodles as you eat."
+                                                  }
+                                        },
+                                        {
+                                                  "@type": "Question",
+                                                  "name": "Is convenience store food actually good?",
+                                                  "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": "Genuinely, yes. Stores take **three to four fresh-food deliveries every 24 hours** with same-day expiry, and the big three compete hard on quality. Try **7-Eleven** onigiri and egg sandwiches, **Lawson** desserts, **FamilyMart** Famichiki."
+                                                  }
+                                        }
+                              ]
+                    }
+          ]
+},
                 fastFacts: [
                     { icon: 'Star', label: 'Michelin Stars', value: '160 restaurants — most of any city' },
                     { icon: 'Map', label: 'Tsukiji Outer', value: 'Never moved — ~460 shops' },
