@@ -69,6 +69,33 @@ const THAILAND_FAQS = [
     question: 'Do I need a visa for Thailand?',
     answer: 'Citizens of most Western countries get visa-free entry for 30-60 days. Check the Thai Immigration website for your specific nationality. Passport must be valid for at least 6 months.',
   },
+  {
+    question: 'How many days do I need in Thailand?',
+    answer: 'For a first trip, plan 10-14 days: 3-4 days in Bangkok (temples, food, floating markets and an Ayutthaya day trip), then split the rest between the north (Chiang Mai — old city, cooking classes, ethical elephant sanctuaries) and the Andaman coast (Phuket or Krabi for island hopping). Shorter 7-day trips work best as Bangkok + one beach destination.',
+  },
+  {
+    question: 'Is it better to book Thai tours in advance or on arrival?',
+    answer: 'Popular tours — Phi Phi and Four Islands boat trips, ethical elephant sanctuaries, Damnoen Saduak floating market — sell out in high season (November to February), so booking online in advance secures your slot and lets you read reviews first. Booking direct with local operators through AsiaByLocals also means no OTA markup and a direct WhatsApp line to the operator.',
+  },
+];
+
+const JAPAN_FAQS = [
+  {
+    question: 'What is the best time to visit Japan?',
+    answer: 'The two best windows are late March to early April (cherry blossom season — book everything early) and October to November (autumn colours, mild weather). May and early June are pleasant and less crowded. Avoid Golden Week (late April/early May) when domestic travel peaks, and expect heat and humidity in July-August.',
+  },
+  {
+    question: 'How do I get between Tokyo, Kyoto and Osaka?',
+    answer: 'The Tokaido Shinkansen (bullet train) connects all three: Tokyo to Kyoto takes about 2h15m, Kyoto to Osaka just 15 minutes. If you are covering multiple cities, price a Japan Rail Pass against individual tickets before you travel — for a Tokyo-Kyoto-Osaka round trip alone, individual tickets are often cheaper than the pass.',
+  },
+  {
+    question: 'How many days do I need for Tokyo, Kyoto and Osaka?',
+    answer: 'A comfortable first trip is 10 days: 4 in Tokyo (add a Mount Fuji day trip), 3 in Kyoto (Fushimi Inari at dawn, Arashiyama bamboo forest, Gion), and 2-3 in Osaka (castle, Dotonbori food crawl). With 7 days, do Tokyo plus Kyoto and treat Osaka as a day trip from Kyoto — they are 15 minutes apart by shinkansen.',
+  },
+  {
+    question: 'Do I need a guide in Japan?',
+    answer: 'Japan is easy to navigate independently, but a local guide transforms the experience: temple etiquette and history in Kyoto, ordering at counter-only restaurants, neighbourhoods like Yanaka or Shinsekai that guidebooks skim. Food tours are where guides earn their keep most — menus without English and dishes you would never order alone.',
+  },
 ];
 
 function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
@@ -188,7 +215,7 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
 }
 
 export default function CountryPageClient({ country, countrySlug, cities, cityTours, cityTourCounts }: CountryPageClientProps) {
-  const faqs = countrySlug === 'india' ? INDIA_FAQS : countrySlug === 'thailand' ? THAILAND_FAQS : [];
+  const faqs = countrySlug === 'india' ? INDIA_FAQS : countrySlug === 'thailand' ? THAILAND_FAQS : countrySlug === 'japan' ? JAPAN_FAQS : [];
 
   // Featured cities (first 3) vs other cities
   const featuredCities = cities.slice(0, 3);
@@ -265,12 +292,21 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
           <p className="text-lg md:text-xl text-gray-300 max-w-3xl leading-relaxed font-medium">
             {countrySlug === 'india'
               ? 'From the Taj Mahal at sunrise to the pink palaces of Jaipur and the spiritual ghats of Varanasi — experience India through the eyes of licensed local experts who know every hidden alley, secret temple, and legendary food stall.'
+              : countrySlug === 'japan'
+              ? 'From dawn at Fushimi Inari\'s ten thousand torii gates to Tokyo\'s neon backstreets and Osaka\'s street-food alleys — experience Japan with local guides who read the menus, know the etiquette, and skip the queues.'
+              : countrySlug === 'thailand'
+              ? 'From Bangkok\'s glittering temples and floating markets to Chiang Mai\'s ethical elephant sanctuaries and the limestone islands of Krabi — experience Thailand with local guides who take you beyond the tourist trail.'
               : `Discover ${country}'s most incredible destinations with expert local guides who share authentic, off-the-beaten-path experiences.`
             }
           </p>
-          {countrySlug === 'india' && (
+          {(countrySlug === 'india' || countrySlug === 'japan' || countrySlug === 'thailand') && (
             <div className="flex flex-wrap gap-3 mt-8">
-              {['Golden Triangle', 'Heritage & Culture', 'Spiritual India', 'Rajasthan Desert', 'Beach & Coastal'].map(tag => (
+              {(countrySlug === 'india'
+                ? ['Golden Triangle', 'Heritage & Culture', 'Spiritual India', 'Rajasthan Desert', 'Beach & Coastal']
+                : countrySlug === 'japan'
+                ? ['Temples & Shrines', 'Food Tours', 'Cherry Blossom', 'Mount Fuji', 'City Culture']
+                : ['Islands & Beaches', 'Temples & Palaces', 'Street Food', 'Elephant Sanctuaries', 'Floating Markets']
+              ).map(tag => (
                 <span key={tag} className="px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full text-sm font-semibold border border-white/20">
                   {tag}
                 </span>
@@ -307,6 +343,73 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   flexible booking, and transparent pricing in USD — planning your India trip has never been easier.
                   Browse tours by city below, or explore our comprehensive travel guides for detailed tips on visa requirements,
                   best time to visit, local customs, and must-see attractions in each destination.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {countrySlug === 'japan' && (
+        <section className="bg-white border-b border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
+            <div className="max-w-4xl">
+              <h2 className="text-2xl md:text-3xl font-black text-[#001A33] mb-6">
+                Book Japan Tours with Verified Local Guides
+              </h2>
+              <div className="space-y-4 text-gray-700 text-[16px] md:text-[17px] leading-relaxed font-medium">
+                <p>
+                  Japan rewards travellers who go with someone who knows it — a country where the best restaurants have no English menus,
+                  the most beautiful temple moments happen before the crowds arrive, and etiquette shapes every interaction.
+                  AsiaByLocals connects you directly with <strong>licensed local guides</strong> in{' '}
+                  <Link href="/japan/tokyo" className="text-[#10B981] font-bold hover:underline">Tokyo</Link>,{' '}
+                  <Link href="/japan/kyoto" className="text-[#10B981] font-bold hover:underline">Kyoto</Link> and{' '}
+                  <Link href="/japan/osaka" className="text-[#10B981] font-bold hover:underline">Osaka</Link> — no OTA markup,
+                  direct contact with the person who will actually guide you.
+                </p>
+                <p>
+                  Start with the classics: a dawn walk through <Link href="/japan/kyoto/fushimi-inari-guide" className="text-[#10B981] font-bold hover:underline">Fushimi Inari's torii gates</Link> before
+                  the crowds, the <Link href="/japan/kyoto/arashiyama-bamboo-forest-guide" className="text-[#10B981] font-bold hover:underline">Arashiyama bamboo forest</Link>,
+                  a <Link href="/japan/tokyo/mount-fuji-day-trip-from-tokyo" className="text-[#10B981] font-bold hover:underline">Mount Fuji day trip from Tokyo</Link>,
+                  or an evening food crawl through <Link href="/japan/osaka/dotonbori-guide" className="text-[#10B981] font-bold hover:underline">Osaka's Dotonbori</Link>.
+                  Every tour is run by a local operator we work with directly.
+                </p>
+                <p>
+                  Planning from scratch? Our travel guides below cover the best time to visit each city, 3-day itineraries,
+                  and how to get around — written by locals, updated for 2026.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {countrySlug === 'thailand' && (
+        <section className="bg-white border-b border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
+            <div className="max-w-4xl">
+              <h2 className="text-2xl md:text-3xl font-black text-[#001A33] mb-6">
+                Book Thailand Tours with Verified Local Guides
+              </h2>
+              <div className="space-y-4 text-gray-700 text-[16px] md:text-[17px] leading-relaxed font-medium">
+                <p>
+                  Thailand is Southeast Asia's most-visited country for a reason — golden temples, island-hopping boat days,
+                  the world's best street food and genuinely warm hosts. AsiaByLocals connects you directly with{' '}
+                  <strong>verified local operators</strong> in{' '}
+                  <Link href="/thailand/bangkok" className="text-[#10B981] font-bold hover:underline">Bangkok</Link>,{' '}
+                  <Link href="/thailand/chiang-mai" className="text-[#10B981] font-bold hover:underline">Chiang Mai</Link>,{' '}
+                  <Link href="/thailand/phuket" className="text-[#10B981] font-bold hover:underline">Phuket</Link>,{' '}
+                  <Link href="/thailand/krabi" className="text-[#10B981] font-bold hover:underline">Krabi</Link> and{' '}
+                  <Link href="/thailand/pattaya" className="text-[#10B981] font-bold hover:underline">Pattaya</Link> —
+                  booking direct means no OTA markup and a WhatsApp line to the operator running your trip.
+                </p>
+                <p>
+                  The essentials: Bangkok's <Link href="/thailand/bangkok/grand-palace-bangkok" className="text-[#10B981] font-bold hover:underline">Grand Palace</Link> and
+                  a <Link href="/thailand/bangkok/floating-market-bangkok" className="text-[#10B981] font-bold hover:underline">floating market</Link> morning,
+                  Krabi's <Link href="/thailand/krabi/krabi-4-islands-tour-guide" className="text-[#10B981] font-bold hover:underline">Four Islands boat tour</Link> and{' '}
+                  <Link href="/thailand/krabi/railay-beach-krabi" className="text-[#10B981] font-bold hover:underline">Railay Beach</Link>,
+                  and Chiang Mai's ethical elephant sanctuaries. Our guides below cover when to go, what things cost,
+                  and which tours are actually worth it — written by locals, updated for 2026.
                 </p>
               </div>
             </div>
@@ -455,6 +558,58 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
                       <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Authority guides for Japan / Thailand — same grid, letter tiles instead of photos */}
+        {(countrySlug === 'japan' || countrySlug === 'thailand') && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Essential {country} Travel Guides
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {(countrySlug === 'japan'
+                ? [
+                    { title: 'Best Time to Visit Tokyo', href: '/japan/tokyo/best-time-to-visit-tokyo' },
+                    { title: 'Tokyo 3-Day Itinerary', href: '/japan/tokyo/tokyo-3-day-itinerary' },
+                    { title: 'Mount Fuji Day Trip Guide', href: '/japan/tokyo/mount-fuji-day-trip-from-tokyo' },
+                    { title: 'Best Time to Visit Kyoto', href: '/japan/kyoto/best-time-to-visit-kyoto' },
+                    { title: 'Fushimi Inari Guide', href: '/japan/kyoto/fushimi-inari-guide' },
+                    { title: 'Gion Geisha District Guide', href: '/japan/kyoto/gion-geisha-district-guide' },
+                    { title: 'Osaka 3-Day Itinerary', href: '/japan/osaka/osaka-3-day-itinerary' },
+                    { title: 'Osaka Food Guide', href: '/japan/osaka/osaka-food-guide' },
+                    { title: 'Dotonbori Guide', href: '/japan/osaka/dotonbori-guide' },
+                  ]
+                : [
+                    { title: 'Things to Do in Bangkok', href: '/thailand/bangkok/things-to-do-in-bangkok' },
+                    { title: 'Bangkok Travel Guide 2026', href: '/thailand/bangkok/bangkok-travel-guide-2026' },
+                    { title: 'Grand Palace Guide', href: '/thailand/bangkok/grand-palace-bangkok' },
+                    { title: 'Phuket Travel Guide 2026', href: '/thailand/phuket/phuket-travel-guide-2026' },
+                    { title: 'Krabi 4 Islands Tour Guide', href: '/thailand/krabi/krabi-4-islands-tour-guide' },
+                    { title: 'Railay Beach Guide', href: '/thailand/krabi/railay-beach-krabi' },
+                    { title: 'Best Time to Visit Chiang Mai', href: '/thailand/chiang-mai/best-time-to-visit-chiang-mai' },
+                    { title: 'Is Pattaya Worth Visiting?', href: '/thailand/pattaya/is-pattaya-worth-visiting' },
+                    { title: 'Best Time to Visit Krabi', href: '/thailand/krabi/best-time-to-visit-krabi' },
+                  ]
+              ).map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={guide.href}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl flex-shrink-0 bg-gradient-to-br from-[#10B981]/15 to-[#001A33]/10 flex items-center justify-center font-black text-[#10B981] text-xl group-hover:scale-105 transition-all duration-300">
+                      {guide.title.charAt(0)}
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
