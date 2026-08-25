@@ -6868,5 +6868,306 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  // --- OSAKA TOURS (2026-08) ---
+  if (slug === 'osaka-walking-full-day-tour') {
+    return [
+      { question: 'What is included in the Full-Day Private Osaka Walking Tour?', answer: 'This is a private, guided full-day walking tour of Osaka run by Best Adventure Kansai, a verified Osaka operator. Your English-speaking guide accompanies you for the whole day; meals, transport between distant sites, and entrance fees are typically not included unless stated at booking, so confirm exact inclusions with the operator when you book.' },
+      { question: 'How long does the tour last?', answer: 'The tour runs a full day, generally around 6-8 hours of walking and sightseeing through central Osaka, with breaks built in.' },
+      { question: 'Where does the tour start and finish?', answer: 'As a private tour, the meeting point is arranged directly with your guide after booking, usually at a central Osaka location or your hotel lobby. You\'ll receive exact pickup/meeting details from the operator.' },
+      { question: 'What should I bring or wear?', answer: 'Wear comfortable walking shoes and weather-appropriate clothing, since this is a full day on foot. Bring water, sun protection, and a comfortable bag for any purchases.' },
+      { question: 'Can I cancel or reschedule?', answer: 'Cancellation terms are set by the operator at booking. As a private tour, most bookings allow free cancellation up to a set number of hours before start time — check the specific policy shown at checkout.' },
+    ];
+  }
+
+  if (slug === 'osaka-food-tour-tour') {
+    return [
+      { question: 'What\'s included in the Private Food Tour in Osaka?', answer: 'This 3-hour private food tour with Best Adventure Kansai includes guided tastings at multiple local eateries in Osaka, led by an English-speaking guide. Specific dishes and drink inclusions are confirmed at booking.' },
+      { question: 'How long is the food tour?', answer: 'The tour runs approximately 3 hours, moving between several food stops.' },
+      { question: 'Is this tour private or a group tour?', answer: 'This is a private tour, meaning it\'s just your party and the guide — not combined with other travelers.' },
+      { question: 'What should I bring?', answer: 'Come hungry, wear comfortable walking shoes, and let the operator know in advance about any dietary restrictions or allergies so stops can be adjusted.' },
+      { question: 'Where do we meet the guide?', answer: 'Meeting point details are shared directly by the operator after booking, typically a central Osaka location convenient for the food stops on the route.' },
+    ];
+  }
+
+  if (slug === 'osaka-night-evening-tour') {
+    return [
+      { question: 'What does the Private Night Cruise include?', answer: 'This 60-minute river cruise through central Osaka includes a live English-speaking guide and a complimentary drink, giving you illuminated night views of the city from the water.' },
+      { question: 'How long is the cruise?', answer: 'The cruise itself lasts 60 minutes on the water.' },
+      { question: 'Where does the cruise depart from?', answer: 'Departure is from a boat dock in central Osaka\'s canal district; exact pickup details are provided by the operator after booking.' },
+      { question: 'Is this a private or shared cruise?', answer: 'This is a private booking with a live English guide, based on real guest reviews describing an intimate, personally guided experience.' },
+      { question: 'What should I wear?', answer: 'Dress warmly in cooler months since you\'re on open water at night, and bring a light jacket even in summer evenings.' },
+    ];
+  }
+
+  if (slug === 'osaka-sheraton-guided-tour') {
+    return [
+      { question: 'What does the Sheraton Miyako tea ceremony experience include?', answer: 'This 75-minute experience includes a traditional Japanese tea ceremony at the Sheraton Miyako Hotel Osaka, plus kimono rental so you can dress in traditional attire during the ceremony.' },
+      { question: 'How long does the experience last?', answer: 'The full experience runs about 75 minutes.' },
+      { question: 'Where does this take place?', answer: 'The ceremony is held at the Sheraton Miyako Hotel Osaka, a fixed indoor venue, so there\'s no walking tour component.' },
+      { question: 'Do I need tea ceremony experience?', answer: 'No — the guide explains the culture, traditions, and etiquette of the tea ceremony as part of the experience, so it\'s beginner-friendly.' },
+      { question: 'What\'s the cancellation policy?', answer: 'Cancellation terms are set at booking; check the policy shown at checkout as hotel-based experiences may have stricter cutoffs than outdoor tours.' },
+    ];
+  }
+
+  if (slug === 'osaka-guided-tour') {
+    return [
+      { question: 'What\'s included in the Osaka Day Tour?', answer: 'This is a private, chauffeured full-day tour covering the Dotonbori entertainment district, historic Osaka Castle, and Osaka\'s street food culture, with a private vehicle and driver/guide included.' },
+      { question: 'How long does the tour run?', answer: 'It\'s a full-day tour, typically 6-8 hours depending on pace and traffic.' },
+      { question: 'Is transport included?', answer: 'Yes — this tour is chauffeured, meaning private vehicle transport between sites is included, so you don\'t need to use public transit that day.' },
+      { question: 'What should I wear?', answer: 'Comfortable walking shoes are still recommended for time spent at Dotonbori and Osaka Castle grounds, even though transport is private.' },
+      { question: 'Where does pickup happen?', answer: 'Pickup is typically arranged at your Osaka hotel; exact details are confirmed with the operator after booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-food-food-tour') {
+    return [
+      { question: 'What\'s included in the Osaka Food Tour?', answer: 'This guided evening culinary tour through Shinsekai and Nishinari includes 13 dishes sampled across 5 local eateries, 2 complimentary drinks, and an English-speaking guide.' },
+      { question: 'How long is the tour?', answer: 'The tour runs approximately 3 hours in the evening.' },
+      { question: 'How much food will I eat?', answer: 'You\'ll sample 13 dishes across 5 stops, so come hungry and pace yourself between eateries.' },
+      { question: 'Are drinks included?', answer: 'Yes, 2 complimentary drinks are included as part of the tour.' },
+      { question: 'Where does the tour take place?', answer: 'The tour moves through Shinsekai and Nishinari, two of Osaka\'s classic retro food neighborhoods.' },
+    ];
+  }
+
+  if (slug === 'osaka-walking-walking-tour') {
+    return [
+      { question: 'What does the Best of Osaka Walking Tour cover?', answer: 'This guided 5-hour day tour visits 16th-century Osaka Castle, the retro Shinsekai neighborhood, and Namba & Dotonbori, including the famous Glico Man sign and Hozenji Temple.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 5 hours of guided walking.' },
+      { question: 'What are the highlights?', answer: 'Highlights include Osaka Castle\'s grounds, the retro Shinsekai district, Dotonbori\'s Glico Man sign, and the small but atmospheric Hozenji Temple.' },
+      { question: 'What should I bring?', answer: 'Comfortable walking shoes are essential for 5 hours of guided walking; bring water and weather-appropriate layers.' },
+      { question: 'Where does the tour start?', answer: 'Meeting point is typically near Osaka Castle or a central Namba location, confirmed by the operator after booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-food-tour') {
+    return [
+      { question: 'What\'s included in the Osaka Street Food Tour?', answer: 'This private evening food tour through Namba, Dotonbori, and the retro Shinsekai district includes tastings of iconic dishes like takoyaki, okonomiyaki, and kushikatsu.' },
+      { question: 'How long is the tour?', answer: 'The tour runs approximately 3 hours in the evening.' },
+      { question: 'Is this a private tour?', answer: 'Yes, this is a private food tour, so it\'s just your group and the guide.' },
+      { question: 'What dishes will I try?', answer: 'You\'ll sample Osaka\'s signature street foods: takoyaki (octopus balls), okonomiyaki (savory pancake), and kushikatsu (fried skewers), among other local flavors.' },
+      { question: 'Any dietary restrictions accommodations?', answer: 'Let the operator know about allergies or dietary needs when booking, since stops are pre-arranged with specific eateries.' },
+    ];
+  }
+
+  if (slug === 'osaka-superhero-guided-tour') {
+    return [
+      { question: 'What is the SuperHero Kart Osaka Tour?', answer: 'This is a guided street go-kart drive through central Osaka in costume, passing through Amerikamura, Shinsaibashi, Dotonbori, and Namba\'s entertainment district.' },
+      { question: 'How long does the tour last?', answer: 'The tour runs about 1 hour.' },
+      { question: 'Do I need a driver\'s license?', answer: 'Yes — since you\'re driving a go-kart on public roads, a valid driver\'s license (and often an International Driving Permit) is required. Confirm exact requirements with the operator when booking.' },
+      { question: 'Are costumes included?', answer: 'Yes, costume rental is part of the experience, letting you drive dressed as a superhero character.' },
+      { question: 'What should I wear?', answer: 'Wear comfortable clothing under the costume and closed-toe shoes suitable for driving.' },
+    ];
+  }
+
+  if (slug === 'osaka-spiritual-tour') {
+    return [
+      { question: 'What is the Seven Lucky Gods Goshuin Pilgrimage Tour?', answer: 'This guided full-day pilgrimage visits seven temples and shrines dedicated to Osaka\'s Seven Lucky Gods, collecting handwritten sacred goshuin stamps at each stop.' },
+      { question: 'How long does the pilgrimage take?', answer: 'It\'s a full-day experience, mixing walking, sightseeing, and quiet spiritual reflection between the seven sites.' },
+      { question: 'What is a goshuin?', answer: 'A goshuin is a handwritten, stamped seal collected at Japanese temples and shrines as a memento of your visit — this tour collects one from each of the seven stops.' },
+      { question: 'How much walking is involved?', answer: 'Expect a full day of walking between temple and shrine sites, so wear comfortable shoes.' },
+      { question: 'Is this suitable for non-religious travelers?', answer: 'Yes — while rooted in Japanese folk religion, the tour is presented as a cultural and historical experience open to all travelers interested in Osaka\'s spiritual heritage.' },
+    ];
+  }
+
+  if (slug === 'osaka-session-photography-tour') {
+    return [
+      { question: 'What\'s included in the Kimono Photoshoot (Basic Rental & Studio Session)?', answer: 'This studio package near Shinsaibashi includes kimono rental, a Japanese-style bag, shoes, makeup, and a professional photo session.' },
+      { question: 'How long is the session?', answer: 'The basic session runs 1-3 hours depending on the package selected.' },
+      { question: 'Where is the studio located?', answer: 'The studio is located near Shinsaibashi in central Osaka.' },
+      { question: 'Do I get to keep the photos?', answer: 'Photo delivery details (digital files, prints, quantity) vary by package — confirm exactly what\'s included when booking.' },
+      { question: 'Is makeup included?', answer: 'Yes, professional makeup application is included as part of the basic package.' },
+    ];
+  }
+
+  if (slug === 'osaka-treasures-guided-tour') {
+    return [
+      { question: 'What does the Secret Spots & Local Treasures Tour cover?', answer: 'This 3.5-hour walking tour strolls from the walls of Osaka Castle to the neon streets of Dotonbori, weaving through hidden alleyways and local favorite eateries along the way.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 3.5 hours.' },
+      { question: 'What makes this different from a standard Osaka walking tour?', answer: 'The route is built around hidden alleyways and local eateries between Osaka Castle and Dotonbori, aiming to show lesser-known spots alongside the major landmarks.' },
+      { question: 'What should I bring?', answer: 'Comfortable walking shoes for 3.5 hours on foot, plus appetite for stops at local eateries along the way.' },
+      { question: 'Where does the tour start?', answer: 'The tour begins near Osaka Castle and finishes in Dotonbori; exact meeting details are confirmed at booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-samurai-guided-tour') {
+    return [
+      { question: 'What\'s included in the Sumo & Samurai Experience Plan?', answer: 'This limited-time double bill pairs a 45-minute sumo show with a 60-minute samurai performance in one evening, plus a meal, letting you experience two pillars of Japanese warrior and sporting culture in a single visit.' },
+      { question: 'How long is the full experience?', answer: 'The combined program runs about 1 hour 45 minutes of performances, plus time for the included meal.' },
+      { question: 'Is a meal included?', answer: 'Yes, a meal is included as part of this plan.' },
+      { question: 'Can I participate or is it just watching?', answer: 'This plan centers on watching the sumo and samurai performances; check with the operator if audience participation is offered on the date you book.' },
+      { question: 'Is this a limited-time offer?', answer: 'Yes, this combined sumo-and-samurai plan is described as a limited-time pairing, so availability may vary — confirm current dates when booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-sumo-guided-tour') {
+    return [
+      { question: 'What\'s included in the Sumo Experience Only Plan?', answer: 'This is a 45-minute live sumo show with an interactive sumo experience, photo session, and kimono try-on. It\'s an entry-fee-only plan with no meal included.' },
+      { question: 'How long is the show?', answer: 'The live show runs 45 minutes.' },
+      { question: 'Is food included?', answer: 'No — this is the entry-fee-only plan, ideal for a quick taste of sumo culture without a meal. If you want dining included, look at the operator\'s combined meal plans instead.' },
+      { question: 'Can I get a photo with the wrestlers?', answer: 'Yes, a photo session is included as part of this plan.' },
+      { question: 'Do I get to try on a kimono?', answer: 'Yes, kimono try-on is included in this plan.' },
+    ];
+  }
+
+  if (slug === 'osaka-english-boat-tour') {
+    return [
+      { question: 'What\'s included in the Osaka & Nara Custom Private Tour?', answer: 'This 5-10 hour customizable private tour by comfortable car includes an English-speaking driver, and visits Osaka Castle, Todai-ji Temple, Nara\'s famous deer, and Dotonbori.' },
+      { question: 'How long is the tour?', answer: 'It\'s customizable, ranging from 5 to 10 hours depending on how much you want to see.' },
+      { question: 'What will I see?', answer: 'The itinerary covers Osaka Castle, Nara\'s Todai-ji Temple, Nara Park\'s deer, and Osaka\'s Dotonbori district — combining two cities in one custom day.' },
+      { question: 'Is this a private tour?', answer: 'Yes, this is a private car tour with an English-speaking driver, just for your group.' },
+      { question: 'Can I customize the itinerary?', answer: 'Yes — since it\'s a custom private tour, you can work with the driver/guide to adjust stops and pacing within the 5-10 hour window.' },
+    ];
+  }
+
+  if (slug === 'osaka-dinner-guided-tour') {
+    return [
+      { question: 'What\'s included in the LGBTQ+ Tour with Dinner and Drinks?', answer: 'This guided tour of Osaka\'s LGBTQ+ scene includes a light dinner in Shin-sekai, a visit to the Doyama district, and background on the history of Osaka\'s LGBTQ+ community.' },
+      { question: 'How long is the tour?', answer: 'The tour runs approximately 3 hours.' },
+      { question: 'What areas does the tour cover?', answer: 'The tour covers Shin-sekai (for dinner) and the Doyama district, one of Osaka\'s LGBTQ+ nightlife areas.' },
+      { question: 'Is dinner included?', answer: 'Yes, a light dinner in Shin-sekai is included.' },
+      { question: 'Is this tour LGBTQ+ specific or open to all allies?', answer: 'The tour focuses on Osaka\'s LGBTQ+ history and scene and is designed to be welcoming to LGBTQ+ travelers and allies alike.' },
+    ];
+  }
+
+  if (slug === 'osaka-castle-guided-tour') {
+    return [
+      { question: 'What\'s included in the 2-hour Osaka Castle and Shrine tour?', answer: 'This guided tour walks you through the castle grounds, brings you close to the massive stone walls, and includes a visit to a nearby shrine, with historical context from a local guide.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 2 hours.' },
+      { question: 'Does this include entry to Osaka Castle\'s main tower?', answer: 'The tour covers the castle grounds and stone walls with a shrine visit; confirm with the operator whether main tower entry tickets are included or need to be purchased separately.' },
+      { question: 'What will I learn?', answer: 'Your local guide explains the history of Osaka Castle and its role in the city, along with background on the shrine you visit.' },
+      { question: 'What should I wear?', answer: 'Comfortable walking shoes, since you\'ll be exploring castle grounds on foot for 2 hours.' },
+    ];
+  }
+
+  if (slug === 'osaka-foodie-food-tour') {
+    return [
+      { question: 'What\'s included in the Downtown Osaka Hidden Backstreet Foodie Tour?', answer: 'This 3-hour evening food tour includes 5 stops, 13 dishes, and 2 drinks, guided by local experts who share stories about the city\'s hidden gems, away from the main tourist trails.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 3 hours in the evening.' },
+      { question: 'How much food and drink is included?', answer: 'You\'ll get 13 dishes across 5 stops plus 2 drinks — come hungry and pace yourself.' },
+      { question: 'Is this a small group tour?', answer: 'Yes, it\'s designed as a small-group experience through downtown Osaka\'s backstreets rather than the main tourist strip.' },
+      { question: 'What makes this different from other food tours?', answer: 'The route focuses on hidden backstreet spots and local stories rather than the well-known tourist food streets, based on the tour\'s own description and its strong 5.0 rating on GetYourGuide.' },
+    ];
+  }
+
+  if (slug === 'osaka-photoshoot-photography-tour') {
+    return [
+      { question: 'What\'s included in the Kimono photoshoot with 100 photo data?', answer: 'This studio kimono photoshoot package is designed for families, couples, and friends. All photo data — about 100 shots — is provided to you afterward.' },
+      { question: 'How many photos do I get?', answer: 'You\'ll receive approximately 100 photo files from the session.' },
+      { question: 'Can I do this with family or friends?', answer: 'Yes — the package is built for group sessions with family, lovers, or friends, all wearing kimono.' },
+      { question: 'How long does the session take?', answer: 'This is listed as a full-day booking window, though the actual studio session itself is typically a portion of that day — confirm exact session length with the operator.' },
+      { question: 'Is kimono rental included?', answer: 'Yes, kimono rental for the photoshoot is included in the package.' },
+    ];
+  }
+
+  if (slug === 'osaka-sukiyaki-guided-tour') {
+    return [
+      { question: 'What\'s included in the Sumo Show with Front-Row Seating & Wagyu Sukiyaki?', answer: 'This experience includes a live sumo performance from guaranteed front-row seats, a premium Wagyu sukiyaki dinner, and a kimono experience, with optional paired drinks available.' },
+      { question: 'How long does it run?', answer: 'The full experience runs about 2.5 hours.' },
+      { question: 'Is the seating really front-row?', answer: 'Yes, front-row seating is guaranteed as part of this package, putting you close enough to see the wrestlers\' expressions during the match.' },
+      { question: 'What\'s included in the meal?', answer: 'A premium Wagyu sukiyaki dinner is included, with optional paired drinks available at extra cost.' },
+      { question: 'Is kimono wear included?', answer: 'Yes, a kimono experience is included as part of the package.' },
+    ];
+  }
+
+  if (slug === 'osaka-sightseeing-full-day-tour') {
+    return [
+      { question: 'What does the Full-Day Sightseeing Tour by Private Vehicle cover?', answer: 'This 7.5-hour tour by private vehicle covers Dotonbori, Osaka Castle, Shin-sekai, Kuromon Market, and more, all in a comfortable private vehicle with a driver/guide.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 7.5 hours.' },
+      { question: 'What sights are included?', answer: 'The itinerary covers Dotonbori, Osaka Castle, the retro Shin-sekai district, and Kuromon Market, among other Osaka highlights.' },
+      { question: 'Is transport included?', answer: 'Yes, you travel between all sites in a private vehicle, avoiding public transit that day.' },
+      { question: 'Where does pickup happen?', answer: 'Pickup is typically arranged at your Osaka hotel; confirm exact details with the operator after booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-brokenness-guided-tour') {
+    return [
+      { question: 'What is the Kintsugi Workshop about?', answer: 'This 3-hour workshop teaches the Japanese art of kintsugi in an artisan\'s studio, where you repair broken pottery with lacquer and golden powder and take home a unique piece.' },
+      { question: 'How long is the workshop?', answer: 'The workshop runs 3 hours.' },
+      { question: 'Do I need any prior craft experience?', answer: 'No prior experience is needed — the artisan guides you through the repair process step by step.' },
+      { question: 'Do I keep the piece I make?', answer: 'Yes, you take home the pottery piece you repair, along with its story of resilience through the kintsugi technique.' },
+      { question: 'Where does the workshop take place?', answer: 'The workshop takes place in an artisan\'s studio in Osaka; exact location is provided by the operator after booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-photography-tour') {
+    return [
+      { question: 'What\'s included in the Kimono or Yukata Rental & Photos options?', answer: 'This experience lets you choose kimono or yukata rental in Osaka, with a choice of 400-500 designs including anime-inspired options, plus the option to add a professional hairstyle.' },
+      { question: 'How many design choices are there?', answer: 'You can choose from 400-500 designs, including anime-inspired kimono and yukata options.' },
+      { question: 'Is hairstyling included?', answer: 'Professional hairstyling can be added as an option — confirm which service tier includes it when booking.' },
+      { question: 'How long can I keep the rental?', answer: 'This is listed as a full-day rental, giving you time to explore Osaka in kimono or yukata.' },
+      { question: 'What\'s the difference between kimono and yukata?', answer: 'A yukata is a lighter, more casual cotton robe typically worn in warmer months, while a kimono is a more formal, layered garment — both are available to choose from in this rental.' },
+    ];
+  }
+
+  if (slug === 'osaka-highlights-private-tour') {
+    return [
+      { question: 'What\'s included in the Osaka Private Highlights Tour?', answer: 'This private car tour with hotel pickup includes a guide and luxury vehicle, with a choice of a 5-hour highlight ride or a 10-hour deep dive, visiting Osaka Castle, Dotonbori, Kuromon Market, Shinsekai, and more.' },
+      { question: 'How long does the tour last?', answer: 'You can choose between a 5-hour highlights option or a 10-hour deep-dive option.' },
+      { question: 'Is hotel pickup included?', answer: 'Yes, hotel pickup is included with this private luxury vehicle tour.' },
+      { question: 'What sights are covered?', answer: 'The itinerary includes Osaka Castle, Dotonbori, Kuromon Market, and Shinsekai, with flexibility to adjust the pace.' },
+      { question: 'Can I customize which sites we visit?', answer: 'Yes — as a private tour, you can work with your guide to prioritize the sights that matter most to you within your chosen time window.' },
+    ];
+  }
+
+  if (slug === 'osaka-traditional-cultural-tour') {
+    return [
+      { question: 'What\'s included in the Samurai and Traditional Culture experience?', answer: 'This 180-minute set plan includes a samurai calligraphy experience, tea ceremony, iaido/samurai sword demonstration, samurai armor try-on, and photos taken on the grounds of Osaka Castle.' },
+      { question: 'How long does it run?', answer: 'The full set experience runs 180 minutes (3 hours).' },
+      { question: 'What activities are included?', answer: 'You\'ll experience samurai calligraphy, a tea ceremony, an iaido/samurai sword demonstration, and trying on samurai armor, finishing with photos at Osaka Castle.' },
+      { question: 'Do I need any prior experience?', answer: 'No — this is designed as a beginner-friendly cultural immersion covering multiple samurai and Zen/Bushido traditions in one session.' },
+      { question: 'Where does this take place?', answer: 'The experience is set on the grounds of Osaka Castle, combining indoor cultural activities with photos at the castle.' },
+    ];
+  }
+
+  if (slug === 'osaka-samurai-entry-ticket') {
+    return [
+      { question: 'What\'s included in the Osaka Castle & Samurai History Tour?', answer: 'This guided walking tour covers the history, architecture, and gardens of Osaka Castle, with entry ticket options available, and explains the castle\'s role in shaping modern Osaka.' },
+      { question: 'How long is the tour?', answer: 'The tour runs about 3 hours.' },
+      { question: 'Is castle entry included?', answer: 'Entry options are available with this tour — check at booking whether your selected package includes main tower entry or grounds-only access.' },
+      { question: 'What will I learn?', answer: 'Your guide covers the castle\'s strategic and historical importance, its architecture, and its role in Osaka\'s development into a modern city.' },
+      { question: 'Are the gardens included?', answer: 'Yes, the tranquil gardens of Osaka Castle are part of the guided walking route.' },
+    ];
+  }
+
+  if (slug === 'osaka-original-guided-tour') {
+    return [
+      { question: 'What is the Original Street Kart Experience?', answer: 'This 1-hour experience lets you drive a custom go-kart on public roads through Osaka\'s main inner-city attractions, guided along the route.' },
+      { question: 'How long does it run?', answer: 'The drive runs 1.5 hours total including briefing, with about 1 hour on the road.' },
+      { question: 'Do I need a driving license?', answer: 'Yes — since karts are driven on public roads, a valid driver\'s license (and often an International Driving Permit) is required. Confirm exact requirements with the operator.' },
+      { question: 'What will I see?', answer: 'The route passes Osaka\'s main inner-city attractions in a single hour of driving.' },
+      { question: 'Is this suitable for groups?', answer: 'Yes, multiple karts can be booked together for groups — confirm group sizing when booking.' },
+    ];
+  }
+
+  if (slug === 'osaka-flavors-group-tour') {
+    return [
+      { question: 'What\'s included in the Small Group Big Flavors tour?', answer: 'This tour explores Osaka\'s real nightlife in Tenma and Kyobashi with 15+ curated dishes, local stories, and a small-group experience capped at 6 people.' },
+      { question: 'How long is the tour?', answer: 'The tour runs approximately 3 hours.' },
+      { question: 'How many dishes will I try?', answer: 'You\'ll sample 15+ curated dishes across the tour.' },
+      { question: 'How big is the group?', answer: 'This is a small-group experience with a maximum of 6 people, keeping it intimate.' },
+      { question: 'What neighborhoods does it cover?', answer: 'The tour covers Tenma and Kyobashi, local nightlife districts known for authentic, everyday Osaka character rather than tourist-heavy strips.' },
+    ];
+  }
+
+  if (slug === 'osaka-walking-tour') {
+    return [
+      { question: 'What\'s included in the Main Sights and Hidden Spots Walking Tour?', answer: 'This guided walking tour covers Osaka\'s top spots and local hidden gems, including Osaka Castle and the Namba, Dotonbori, and Tsuruhashi neighborhoods, with a customizable private option available.' },
+      { question: 'How long is the tour?', answer: 'The tour runs 4 hours.' },
+      { question: 'What neighborhoods does it cover?', answer: 'The route covers Osaka Castle plus the Namba, Dotonbori, and Tsuruhashi neighborhoods.' },
+      { question: 'Can this be a private tour?', answer: 'Yes — there\'s an option to customize this as a private tour rather than joining a shared group.' },
+      { question: 'What should I wear?', answer: 'Comfortable walking shoes are recommended for 4 hours of guided walking across multiple neighborhoods.' },
+    ];
+  }
+
+  if (slug === 'osaka-experience-guided-tour') {
+    return [
+      { question: 'What\'s included in the Sumo Show & Experience with Hot Pot Meal?', answer: 'This experience goes beyond watching — you can join training exercises and challenge former rikishi, with optional meals including chanko nabe hot pot or Wagyu sukiyaki, finishing with a photo on the sumo ring.' },
+      { question: 'How long does it run?', answer: 'This is listed as a full-day booking window; the core sumo show and experience portion typically runs 1.5-2 hours, with meal service extending the visit — confirm exact timing with the operator.' },
+      { question: 'Can I actually participate, not just watch?', answer: 'Yes — this plan is built around hands-on training and a chance to challenge former rikishi (professional sumo wrestlers), not just spectating.' },
+      { question: 'What meal options are available?', answer: 'Optional meals include chanko nabe (traditional sumo wrestler hot pot) and Wagyu sukiyaki.' },
+      { question: 'Do I get a keepsake photo?', answer: 'Yes, the experience finishes with a photo opportunity on the sumo ring itself.' },
+    ];
+  }
+
     return null;
 };

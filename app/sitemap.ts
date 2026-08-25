@@ -11,7 +11,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/safety-guidelines', '/support', '/supplier',
     '/getyourguide-viator-alternative',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
-    '/japan', '/japan/tokyo', '/japan/kyoto',
+    '/japan', '/japan/tokyo', '/japan/kyoto', '/japan/osaka',
     '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai', '/thailand/pattaya', '/thailand/krabi',
     '/sri-lanka', '/sri-lanka/colombo', '/sri-lanka/kandy', '/sri-lanka/galle',
     '/sri-lanka/sigiriya', '/sri-lanka/ella', '/sri-lanka/nuwara-eliya',
@@ -162,9 +162,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Osaka info pages
+  const osakaInfoPages = [
+    'best-time-to-visit-osaka', 'osaka-3-day-itinerary', 'getting-around-osaka',
+    'osaka-castle-guide', 'dotonbori-guide', 'osaka-food-guide',
+    'osaka-to-nara-day-trip', 'osaka-to-kyoto-day-trip', 'shinsekai-guide',
+    'osaka-nightlife-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/japan/osaka/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Dynamic tour pages from API — fetch per city to avoid 50-item limit
   let tourPages: MetadataRoute.Sitemap = [];
-  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
+  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'osaka', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
   try {
     const results = await Promise.all(
       cities.map(city => {
@@ -200,5 +213,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...tourPages];
 }

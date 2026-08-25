@@ -230,6 +230,14 @@ export const KYOTO_INFO_SLUGS = [
   'kyoto-food-guide'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
+export const OSAKA_INFO_SLUGS = [
+  'best-time-to-visit-osaka', 'osaka-3-day-itinerary', 'getting-around-osaka',
+  'osaka-castle-guide', 'dotonbori-guide', 'osaka-food-guide',
+  'osaka-to-nara-day-trip', 'osaka-to-kyoto-day-trip', 'shinsekai-guide',
+  'osaka-nightlife-guide'
+];
+
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',
   'places-to-visit-in-kashmir', 'best-time-to-visit-kashmir',

@@ -1279,6 +1279,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Osaka-specific FAQs
+    if (cityLower === 'osaka' || tourTitle.toLowerCase().includes('osaka')) {
+      faqs.push(
+        { question: 'When is the best time to visit Osaka?', answer: 'April for cherry blossom around Osaka Castle, or November for peak autumn foliage and the year\'s lowest rainfall. Both are the most crowded and most expensive months, so book hotels 3+ months ahead. See our [best time to visit Osaka guide](/japan/osaka/best-time-to-visit-osaka).' },
+        { question: 'How do I get around Osaka?', answer: 'Get an **ICOCA IC card** (works interchangeably with Suica/Pasmo) and tap on/off the subway and buses. The **Osaka Amazing Pass** bundles transit with free entry to Osaka Castle and dozens of attractions if you\'re sightseeing hard for a day. See [getting around Osaka](/japan/osaka/getting-around-osaka).' },
+        { question: 'How many days do I need in Osaka?', answer: 'Three days covers the essentials: a day for Osaka Castle and the city center, a day for Dotonbori and Shinsekai, and a day for a Nara or Kyoto side trip. Our [3-day Osaka itinerary](/japan/osaka/osaka-3-day-itinerary) has the full route.' },
+        { question: 'Can I do a day trip to Nara or Kyoto from Osaka?', answer: 'Yes — Nara is about 30-45 minutes by Kintetsu train for the deer park and Todai-ji, and Kyoto is roughly 29 minutes by JR Special Rapid. Both are easy half-day or full-day trips. See our [Osaka to Nara guide](/japan/osaka/osaka-to-nara-day-trip) and [Osaka to Kyoto guide](/japan/osaka/osaka-to-kyoto-day-trip).' },
+        { question: 'What food is Osaka known for?', answer: '**Takoyaki** (octopus balls) and **okonomiyaki** (savory pancake) are Osaka\'s signature street foods, best sampled around Dotonbori and Kuromon Market. See our [Osaka food guide](/japan/osaka/osaka-food-guide).' },
+        { question: 'Is Dotonbori worth visiting, and is it touristy?', answer: 'Yes — it\'s the city\'s neon-lit entertainment and food district, and while it\'s undeniably touristy, the energy, canal-side glow, and street food density make it genuinely worth an evening. See the [Dotonbori guide](/japan/osaka/dotonbori-guide).' },
+        { question: 'What is Shinsekai and is it safe?', answer: 'Shinsekai is Osaka\'s retro, slightly gritty downtown district built around the Tsutenkaku Tower, known for kushikatsu (fried skewers). It\'s generally safe for tourists, especially in the daytime and early evening. See the [Shinsekai guide](/japan/osaka/shinsekai-guide).' }
+      );
+    }
+
     // Add Mumbai-specific FAQs
     if (cityLower === 'mumbai' || tourTitle.toLowerCase().includes('mumbai')) {
       faqs.push(

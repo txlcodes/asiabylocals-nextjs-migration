@@ -1,6 +1,7 @@
 import { getThailandInfoContent } from './thailandInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
+import { getOsakaInfoContent } from './osakaInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -25,6 +26,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const kyotoPage = getKyotoInfoContent(slug);
     if (kyotoPage) return kyotoPage;
+
+    const osakaPage = getOsakaInfoContent(slug);
+    if (osakaPage) return osakaPage;
 
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;
