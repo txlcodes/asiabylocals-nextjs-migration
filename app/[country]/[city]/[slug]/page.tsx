@@ -107,6 +107,51 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'agra-gatimaan-entry-ticket': 'delhi-agra-round-trip-gatimaan-train',
   // Fatehpur day-trip intent → taj-mahal-fatehpur-full-day-tour
   'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
+
+  // ---- DELHI (2026-08-25): 39/42 tour pages invisible; champions = the 5 owned tours ----
+  // Old/New Delhi city-tour intent → explore-old-new-delhi-city-luxury-car-tour (owned)
+  'old-delhi-new-delhi-trails-private-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'delhi-old-new-delhi-private-full-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'old-new-delhi-private-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'old-new-delhi-guided-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'old-new-delhi-private-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'delhi-full-day-guided-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'delhi-sightseeing-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'delhi-same-day-sightseeing-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  // Taj-from-Delhi-by-car intent → private-taj-mahal-tour-from-delhi (owned)
+  'delhi-agra-private-tour': 'private-taj-mahal-tour-from-delhi',
+  'private-taj-mahal-agra-day-tour-from-delhi': 'private-taj-mahal-tour-from-delhi',
+  'taj-mahal-agra-day-trip-luxury-car': 'private-taj-mahal-tour-from-delhi',
+  // Taj-by-train intent → taj-mahal-tour-by-train-gatimaan (owned)
+  'taj-mahal-same-day-express-train-tour': 'taj-mahal-tour-by-train-gatimaan',
+  'hazrat-nizamuddin-railway-station-delhi-express-tour': 'taj-mahal-tour-by-train-gatimaan',
+  // Sunrise-from-Delhi intent → taj-mahal-delhi-sunrise-tour (crowned; no owned equivalent)
+  'delhi-agra-sunrise-tour': 'taj-mahal-delhi-sunrise-tour',
+  'sunrise-taj-mahal-tour-delhi-all-inclusive': 'taj-mahal-delhi-sunrise-tour',
+  // Golden Triangle generic → golden-triangle-3-day-tour-from-delhi (owned; day-count and
+  // safari variants are distinct products and stay unmapped)
+  'golden-triangle-tour-delhi-agra-jaipur': 'golden-triangle-3-day-tour-from-delhi',
+  // India Gate intent → india-gate-guided-tour (airport-layover variant stays — distinct)
+  'india-gate-approved-guided-tour': 'india-gate-guided-tour',
+  'india-gate-triangle-guided-tour': 'india-gate-guided-tour',
+  // Delhi→Jaipur day trip → delhi-to-jaipur-same-day-tour-by-car
+  'delhi-to-jaipur-royal-private-day-tour': 'delhi-to-jaipur-same-day-tour-by-car',
+
+  // ---- JAIPUR (2026-08-25): 20/23 invisible; champions = proven performers ----
+  // City sightseeing intent → jaipur-city-highlights-tour-with-amber-fort-hawa-mahal
+  'jaipur-sightseeing-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'jaipur-same-day-sightseeing-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'jaipur-private-full-day-sightseeing-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'jaipur-full-day-sightseeing-tour-by-car': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  // Hawa Mahal sightseeing dups → city highlights champion (Chokhi Dhani combo stays — distinct)
+  'hawa-mahal-full-full-day-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'hawa-mahal-full-day-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'hawa-mahal-half-day-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  'hawa-mahal-landmarks-guided-tour': 'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal',
+  // Shopping junk-slug dup → jaipur-shopping-tour
+  'shopping-tour-shopping-tour': 'jaipur-shopping-tour',
+  // From-Delhi day trip → jaipur-same-day-tour-from-delhi
+  'delhi-jaipur-same-day-tour-by-car': 'jaipur-same-day-tour-from-delhi',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
