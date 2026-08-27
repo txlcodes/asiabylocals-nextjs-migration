@@ -7169,5 +7169,306 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  // --- HIROSHIMA TOURS (2026-08) ---
+  if (slug === 'hiroshima-walking-tour') {
+    return [
+      { question: 'What is included in this tour?', answer: 'Your booking includes a professional local guide and all fees mentioned in the itinerary. Personal expenses, meals and gratuities are not included. Entry to the Hiroshima Peace Memorial Museum at the end of the walk is at your own discretion, as the tour finishes there and leaves you free to continue exploring.' },
+      { question: 'How long is the walk and what route does it follow?', answer: 'The tour lasts about 2.5 hours at a relaxed walking pace. You start near Hiroshima Gokoku Shrine, pass Hiroshima Castle and Hiroshima Gate Park, reach the Atomic Bomb Dome, and then explore the Peace Memorial Park in depth before finishing at the Peace Memorial Museum.' },
+      { question: 'Where do we meet?', answer: 'The meeting point is in central Hiroshima, near the starting area of the walk. Exact details are confirmed with the operator when your booking is confirmed, so please check your confirmation message before the tour.' },
+      { question: 'How is this different from other Peace Park walks?', answer: 'This walk focuses specifically on the question of why the atomic bomb was dropped on Hiroshima, giving you the historical and strategic context behind each site rather than only describing the memorials. It approaches the city from the castle side first, so you see the pre-war military heart of Hiroshima before reaching the A-Bomb Dome.' },
+      { question: 'Is this tour suitable for children?', answer: 'The walking itself is easy and family-friendly, but the subject matter deals honestly with war and the atomic bombing, which can be emotionally heavy. Parents know their children best; many families do bring older children as a powerful educational experience, while it may be intense for very young ones.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-history-walking-tour') {
+    return [
+      { question: 'What will I see on this tour?', answer: 'In two hours you visit the key memorials of the Peace Memorial Park, including the A-Bomb Dome, the Victims Memorial Cenotaph, the Flame of Peace, the Children\'s Peace Monument and the Bell of Peace. You also stand at the hypocenter of the atomic bombing, where your guide explains what happened on that morning.' },
+      { question: 'How big is the group?', answer: 'This is a small-group experience capped at around 10 participants. The intimate size means you can ask questions freely and hear your local guide clearly at every stop.' },
+      { question: 'Where is the meeting point?', answer: 'You meet your guide in central Hiroshima near the Peace Memorial Park area. The exact meeting spot is confirmed with the operator once your booking is placed, so keep an eye on your confirmation details.' },
+      { question: 'What is included and what should I budget extra for?', answer: 'A professional local guide and all fees mentioned in the itinerary are included. Personal expenses, meals and gratuities are not, and if you wish to enter the Peace Memorial Museum afterwards, that visit is on your own.' },
+      { question: 'Is the tour appropriate for children?', answer: 'The route is flat, paved and easy to walk, so physically it suits all ages. The stories of the atomic bombing are told sensitively but honestly, so consider whether younger children are ready for the subject; the Children\'s Peace Monument in particular often resonates strongly with families.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-memorial-walking-tour') {
+    return [
+      { question: 'What route does this walk cover?', answer: 'Starting from the Nakajimacho area, your guide leads you through the Gates of Peace, past the Prayer Fountain, on to the Victims Memorial Cenotaph and the Flame of Peace, then to the Korean Atomic Bomb Victims Cenotaph and the Children\'s Peace Monument. The walk finishes at the iconic Atomic Bomb Dome, with hidden corners of the park pointed out along the way.' },
+      { question: 'How long does the tour take and how demanding is it?', answer: 'The tour lasts about two hours at a gentle strolling pace, entirely on flat, paved paths within the Peace Memorial Park. It is suitable for almost any fitness level, and there is time to pause at each memorial.' },
+      { question: 'Where do we meet the guide?', answer: 'The meeting point is in Hiroshima near the start of the walk in the Nakajimacho area. Precise details are confirmed with the operator when your booking is finalized.' },
+      { question: 'What is included in the price?', answer: 'The price covers your professional local guide and all fees mentioned in the itinerary. Personal expenses, meals and gratuities are extra, and the Peace Memorial Museum is not part of the walk, so you can visit it independently afterwards if you wish.' },
+      { question: 'Is this a private tour or a group tour?', answer: 'This is a guided group walk with a maximum of around 10 participants, keeping the atmosphere personal and respectful. If you prefer a fully private experience, AsiaByLocals also lists private Peace Park tours in Hiroshima.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-evening-tour') {
+    return [
+      { question: 'What food and drink can I expect on this evening tour?', answer: 'You dine at local tachinomi-style (standing bar) restaurants, sampling regional dishes alongside beer, cocktails or spirits. The tour is built around eating and drinking the way Hiroshima locals do on a typical evening, in the Hondori Shopping Street and lively Nagarekawa district.' },
+      { question: 'Can you accommodate dietary restrictions?', answer: 'Because this is a private tour for your group only, the guide has flexibility in choosing venues. Let the operator know about allergies, vegetarian needs or other restrictions when booking so the evening\'s stops can be planned accordingly.' },
+      { question: 'How long is the tour and how many people can join?', answer: 'The tour runs about three hours in the evening and is private, for groups of up to 4 people. That small size is what allows the intimate, insider\'s experience at compact local eateries.' },
+      { question: 'Where does the tour start?', answer: 'You meet your guide in central Hiroshima, convenient to the Hondori and Nagarekawa districts where the evening unfolds. The exact meeting point is confirmed with the operator after booking.' },
+      { question: 'Is this tour suitable for children or non-drinkers?', answer: 'The tour visits tachinomi standing bars and the Nagarekawa nightlife district, so it is best suited to adults; alcohol is part of the experience but non-alcoholic choices are generally available at the venues. If you are traveling with children, mention it to the operator when booking so they can advise whether the itinerary can be adapted.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-private-tour') {
+    return [
+      { question: 'What does \'at your own pace\' mean in practice?', answer: 'This is a fully private three-hour tour for your group only, so the guide sets the rhythm entirely around you. You can linger longer at memorials that move you, take breaks when needed, and ask as many questions as you like without a larger group waiting.' },
+      { question: 'Is the Peace Memorial Museum visit included in the itinerary?', answer: 'Yes, a full hour of the tour is dedicated to the Hiroshima Peace Memorial Museum, where survivor stories bring the events of 1945 to life. Your guide accompanies you through the exhibits before continuing to the Children\'s Peace Monument, the A-Bomb Dome and the Hypocenter Monument.' },
+      { question: 'How many people can join this private tour?', answer: 'The tour is private for groups of up to 4 people. It is ideal for couples and families who want an unhurried, personal experience of the Peace Memorial Park.' },
+      { question: 'Where do we meet our guide?', answer: 'The meeting point is in central Hiroshima near the Gates of Peace, where the walk begins. Exact details are confirmed with the operator once your booking is confirmed.' },
+      { question: 'Is this tour appropriate for children?', answer: 'Physically the walk is easy and the private format lets families move at a child-friendly pace. Be aware that the museum exhibits and survivor stories are emotionally powerful and can be intense for young children, so discuss your family\'s needs with the guide, who can adapt the route.' },
+    ];
+  }
+
+  if (slug === 'miyajima-guided-tour') {
+    return [
+      { question: 'Does this tour include hotel pickup?', answer: 'Yes, convenient pickup from central Hiroshima hotels is included. Your Japanese local guide meets you at your hotel and handles the logistics of the train and ferry ride to Miyajima and back.' },
+      { question: 'What do we see on Miyajima and in Hiroshima?', answer: 'On Miyajima you see the famous Itsukushima Floating Torii Gate, visit Itsukushima Shrine and explore the Daisho-in temple and Senjokaku Pavilion, with free time for street food along Omotesando Shopping Street. Back in the city you visit the Atomic Bomb Dome, the Hypocenter, the Peace Memorial Park with the Children\'s Peace Monument, and finish with time inside the Peace Memorial Museum.' },
+      { question: 'How long is the tour and how much walking is involved?', answer: 'The tour lasts about seven hours and covers two destinations, so expect a fair amount of walking across the island and the Peace Park, mostly on flat paths with some gentle slopes around Daisho-in. Comfortable shoes are strongly recommended, and the private pace can be adjusted to your group.' },
+      { question: 'Is this a private tour?', answer: 'Yes, this is a private experience for groups of up to 4 people with a Japanese local guide. You get both UNESCO World Heritage Sites in one day without sharing your guide with strangers.' },
+      { question: 'Are train, ferry and entrance fees covered?', answer: 'The booking includes your professional local guide and all fees mentioned in the itinerary; personal expenses, meals and gratuities are not included. Confirm any transport or admission specifics with the operator at booking so you know exactly what to bring money for, such as street food on Omotesando.' },
+    ];
+  }
+
+  if (slug === 'miyajima-walking-tour') {
+    return [
+      { question: 'Where does this tour start?', answer: 'The walk starts from the Miyajima Ferry Terminal on the island itself, with exact meeting details confirmed with the operator after booking. You will need to make your own way to Miyajima by ferry before the start time.' },
+      { question: 'What will I see in two hours?', answer: 'From the ferry terminal you wander the Omotesando Shopping Street to the famous Itsukushima Floating Torii Gate, then hear the stories behind Itsukushima Shrine and its five-storied pagoda. The route also takes in the atmospheric Daishoin temple complex on the slopes above, plus hidden shrines and lesser-known monuments most visitors walk straight past.' },
+      { question: 'How fit do I need to be?', answer: 'Most of the walk is on flat streets and shoreline paths, but reaching the Daishoin temple complex involves slopes and steps. Anyone with a moderate level of mobility should manage comfortably; wear good walking shoes.' },
+      { question: 'Is this a group or private experience?', answer: 'This is a small-group tour with a maximum of around 10 participants, led by a local history expert. The small size makes it easy to ask questions and hear the stories behind each site.' },
+      { question: 'What is included in the price?', answer: 'The price includes your professional local guide and all fees mentioned in the itinerary. Ferry tickets to the island, personal expenses, meals and gratuities are your own responsibility unless the operator confirms otherwise at booking.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-highlights-private-tour') {
+    return [
+      { question: 'What makes the guides on this tour special?', answer: 'The tour is led by Japanese guides with deep personal and family ties to Hiroshima. Throughout the day they share family stories, local perspectives and the remarkable account of the city\'s recovery, giving you a connection to the history that goes beyond guidebook facts.' },
+      { question: 'What is on the five-hour itinerary?', answer: 'You spend an hour inside the Peace Memorial Museum, walk the Peace Memorial Park, stand before the Atomic Bomb Dome, continue to Hiroshima Castle, and finish with a peaceful hour in the traditional Shukkei-en Garden. It is a well-rounded mix of the city\'s wartime history and its quieter, older side.' },
+      { question: 'Is hotel pickup available?', answer: 'Yes, pickup is available from central Hiroshima hotels. Confirm your hotel details with the operator when booking so the pickup can be arranged.' },
+      { question: 'How many people can join, and is it private?', answer: 'This is a private tour for groups of up to 4 people. Your guide is dedicated to your group alone, so the pace and emphasis can be shaped around your interests.' },
+      { question: 'How much walking should I expect?', answer: 'The tour covers the Peace Park, castle grounds and garden over five hours, so expect several kilometers of easy walking on mostly flat terrain with plenty of pauses. Comfortable shoes and, in summer, sun protection and water are recommended.' },
+    ];
+  }
+
+  if (slug === 'miyajima-private-tour') {
+    return [
+      { question: 'How many people fit in the rickshaw?', answer: 'The rickshaw is an intimate private experience, and bookings cover small groups of up to 4 people, split across rickshaws as needed since each cart seats passengers in pairs. Confirm your exact group configuration with the operator when booking so the right number of rickshaws and drivers can be arranged.' },
+      { question: 'How long does the ride last?', answer: 'Options range from a short 45-minute ride to a full three-hour tour of the island. Longer rides allow more stops at temples and spiritual sites on the way toward Itsukushima Shrine.' },
+      { question: 'Where does the tour start?', answer: 'The ride starts on Miyajima Island, with the exact meeting point confirmed with the operator after booking. You will need to take the ferry to the island yourself before your start time.' },
+      { question: 'Does the rickshaw driver speak English?', answer: 'Your rickshaw driver doubles as your guide and the tour is offered in English. As you glide past the coastal views they share stories about the sacred history of the \'Island of the Gods.\'' },
+      { question: 'Do we go inside Itsukushima Shrine?', answer: 'The rickshaw carries you toward Itsukushima Shrine with stops possible at temples and spiritual sites along the way. Shrine admission is not mentioned as included, so budget for entry separately if you wish to walk through the shrine\'s halls after your ride.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-evening-evening-tour') {
+    return [
+      { question: 'What makes the evening version of the Peace Park walk different?', answer: 'As the daytime crowds thin, the park becomes calm and reflective, and the illuminated Atomic Bomb Dome and surrounding monuments take on a completely different character after dark. Many travelers find the twilight atmosphere the most moving way to experience Hiroshima\'s message of peace.' },
+      { question: 'How long is the tour and how strenuous is it?', answer: 'The tour lasts about two hours at a gentle walking pace, entirely on the flat, paved paths of the Peace Memorial Park. It is suitable for virtually all fitness levels.' },
+      { question: 'Where do we meet in the evening?', answer: 'You meet your guide in central Hiroshima near the Peace Memorial Park. The precise spot and start time are confirmed with the operator after booking.' },
+      { question: 'What is included?', answer: 'The price includes a professional local guide and all fees mentioned in the itinerary. Personal expenses, meals and gratuities are not included; note that the Peace Memorial Museum is typically closed by evening, so this walk focuses on the outdoor memorials.' },
+      { question: 'Is it a group tour, and is it suitable for children?', answer: 'This is a group walking tour with a maximum of around 10 participants. The route is easy for children physically, but the subject matter is somber and the quiet evening setting amplifies it, so parents should judge whether their children are ready for the themes.' },
+    ];
+  }
+
+  if (slug === 'miyajima-half-day-tour') {
+    return [
+      { question: 'Does the tour include transport to Miyajima?', answer: 'The tour departs from Hiroshima and travels to the island by a short train and ferry ride with your guide leading the way. Confirm with the operator at booking whether train and ferry fares are covered or paid on the day, alongside the included guide fees.' },
+      { question: 'What does the half-day itinerary cover?', answer: 'You roam around the iconic floating Torii gate at the shoreline, step inside the historic Itsukushima Shrine, and visit the atmospheric Daisho-in temple. The tour ends with free time on Omotesando Shopping Street, where you can sample local flavors before heading back.' },
+      { question: 'How big is the group?', answer: 'This is a small-group tour with a maximum of around 10 participants. The size keeps the experience personal while remaining one of the more affordable ways to see Miyajima with a guide.' },
+      { question: 'How much walking is involved and what should I wear?', answer: 'Expect around four hours on your feet with easy shoreline walking plus some slopes and steps up to Daisho-in temple. Comfortable walking shoes are essential, and in summer bring sun protection and water.' },
+      { question: 'Is the tour family-friendly?', answer: 'Yes, Miyajima is a delight for children, with the famous torii gate, friendly wild deer roaming the island and street-food stalls along Omotesando. The pace is unhurried and the walking is manageable for school-age kids.' },
+    ];
+  }
+
+  if (slug === 'miyajima-heritage-tour') {
+    return [
+      { question: 'Do I need kayaking experience?', answer: 'No experience is necessary. The tour begins with a guided safety briefing near Nagahama Shrine and is suitable for beginners, with your guide leading the group across the calm, sheltered waters of Miyajima Bay.' },
+      { question: 'Will we actually paddle up to the Great Torii?', answer: 'You paddle out for stunning views of the Great Torii of Itsukushima Shrine, seeing the vermilion gate up close from a perspective few visitors ever experience. Depending on tides and weather, you may even go ashore to explore local shops and temples, so conditions on the day shape exactly how close the route runs.' },
+      { question: 'What should I bring and wear?', answer: 'Wear clothes and footwear you do not mind getting wet, and bring a change of clothes, a towel and sun protection. Anything valuable should be waterproofed or left ashore; ask the operator at booking about storage and any provided gear.' },
+      { question: 'How long is the tour and where does it meet?', answer: 'The kayak tour lasts about two hours on Miyajima, starting with the briefing near Nagahama Shrine; the exact meeting details are confirmed with the operator after booking. The route also passes Kiyomori Shrine with time for photos and a short break.' },
+      { question: 'Can children join?', answer: 'The calm bay and beginner-friendly briefing make this an accessible paddle, but participants should be comfortable on the water. Check minimum age requirements with the operator when booking, and note the group is capped at around 10 people.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-remembered-walking-tour') {
+    return [
+      { question: 'What does this walk cover?', answer: 'Starting at the Gates of Peace, your guide walks you past the Prayer Fountain, the Flame of Peace and the Hiroshima National Peace Memorial, with pauses at the Children\'s Peace Monument and the Bell of Peace. The tour finishes at the Atomic Bomb Dome, and along the way you come to understand the events of August 6, 1945.' },
+      { question: 'How long is the tour and how easy is the walking?', answer: 'The tour lasts about two hours entirely within the flat, paved Peace Memorial Park. It is an easy walk suitable for nearly all ages and fitness levels.' },
+      { question: 'Where do we meet the guide?', answer: 'The meeting point is in central Hiroshima near the Gates of Peace at the edge of the park. Exact details are confirmed with the operator once your booking is placed.' },
+      { question: 'Is this good value compared with other Peace Park tours?', answer: 'This is one of the most affordable guided walks of the Peace Memorial Park on AsiaByLocals, run as a group tour of up to around 10 people. You still get a knowledgeable local guide combining historical insight with local perspectives at every memorial.' },
+      { question: 'Is the subject matter suitable for children?', answer: 'The walking is easy for children, and the Children\'s Peace Monument with its thousand paper cranes often resonates deeply with young visitors. The events of August 6, 1945 are discussed honestly, so parents should consider whether their children are ready for the emotional weight of the stories.' },
+    ];
+  }
+
+  if (slug === 'miyajima-full-day-tour') {
+    return [
+      { question: 'Where does the tour depart from?', answer: 'The day departs from Hiroshima Station, from where you travel by train and ferry to Miyajima with your guide. The exact meeting details are confirmed with the operator after booking.' },
+      { question: 'What does the full day include?', answer: 'The morning is spent among Miyajima\'s temples, including Daisho-in, the Omotesando Shopping Street and the mystical Great Torii floating on the water. In the afternoon you return to the city for the Peace Memorial Park, the Victims Memorial Cenotaph, the Bell of Peace and the Atomic Bomb Dome, ending with time inside the Peace Memorial Museum.' },
+      { question: 'How demanding is an 8-hour tour?', answer: 'The day is long but deliberately taken at a comfortable, unhurried pace, with train and ferry rides breaking up the walking. Expect a full day on your feet across the island and the Peace Park, so wear comfortable shoes and bring water.' },
+      { question: 'How big is the group?', answer: 'This is a small-group tour capped at around 10 participants. The relaxed size lets the guide keep the pace comfortable and answer everyone\'s questions.' },
+      { question: 'Are meals and transport fares included?', answer: 'The booking includes your professional guide and all fees mentioned in the itinerary, while personal expenses, meals and gratuities are not covered. There is free time on Omotesando Shopping Street to buy lunch or snacks; confirm transport-ticket arrangements with the operator at booking.' },
+    ];
+  }
+
+  if (slug === 'miyajima-adventure-tour') {
+    return [
+      { question: 'Do I need to be able to swim?', answer: 'The tour includes optional swimming at secluded beaches, so being comfortable in the water makes the experience far better, though the paddling itself is guided and beginner-friendly. Tell the operator about your swimming ability when booking so the guide can plan accordingly.' },
+      { question: 'What should I bring?', answer: 'Bring swimwear, a towel, a change of clothes, sun protection and water. You will be paddling through crystal-clear waters and landing on hidden beaches, so wear footwear and clothing that can get wet; free photos of your adventure are included, so you can leave your camera safely dry.' },
+      { question: 'How does the tour start?', answer: 'You meet at the Miyajima Ferry Terminal, and a short drive brings you to a quiet launch point away from the crowds. Exact meeting details are confirmed with the operator after booking.' },
+      { question: 'Is this suitable for children and beginners?', answer: 'Yes, the operator describes the experience as fun for a wide range of ages, and no kayaking experience is required. Along the way kids love spotting the wild deer that wander the shoreline; confirm any minimum age with the operator when booking.' },
+      { question: 'How is this different from the Great Torii kayak tour?', answer: 'This three-hour adventure heads to the hidden, untouched side of Miyajima rather than the shrine-front bay, trading torii views for secluded beaches, swimming and quiet coastline most visitors never see. If your priority is paddling beneath the famous gate, choose the Great Torii kayak tour instead.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-experience') {
+    return [
+      { question: 'Do I need any archery experience?', answer: 'None at all. The one-hour session teaches you the fundamentals of kyudo from scratch under careful instruction, and you will draw the long Japanese bow and release your own arrows at the target during the class.' },
+      { question: 'What do I wear?', answer: 'You dress in an authentic kyudo uniform and armor provided for the experience, which is part of what makes it so memorable. Wear comfortable clothing underneath that allows free arm and shoulder movement.' },
+      { question: 'How long is the experience and where is it held?', answer: 'The session lasts about one hour in Hiroshima, with the exact venue details confirmed with the operator after booking. It is easy to combine with a morning or afternoon at the nearby city sights.' },
+      { question: 'Is kyudo physically demanding?', answer: 'Kyudo is a meditative martial art that requires complete focus of mind and body rather than brute strength, so most reasonably able adults can take part. Drawing the longbow does take some arm and shoulder effort; mention any physical limitations to the operator when booking.' },
+      { question: 'Can children take part?', answer: 'The experience welcomes small groups of up to around 10 people and is a hands-on cultural window into one of Japan\'s most meditative disciplines. Handling a full-size Japanese longbow requires a certain height and strength, so check age and size requirements with the operator before booking for children.' },
+    ];
+  }
+
+  if (slug === 'miyajima-unesco-private-tour') {
+    return [
+      { question: 'What is covered on this two-UNESCO-site day?', answer: 'The morning is devoted to the Peace Memorial Museum and the memorials of the Peace Park, from the Victims Memorial Cenotaph and Flame of Peace to the Atomic Bomb Dome and Hypocenter. You then take the train and ferry to Miyajima for Itsukushima Shrine and its Otorii Gate, plus Daiganji Temple, the Daisho-in complex and the Senjokaku Pavilion.' },
+      { question: 'Is this a private tour?', answer: 'Yes, the tour is fully private for groups of up to 4 people, led by an experienced Hiroshima guide. The six-hour itinerary can breathe at your pace, and the day ends with a return to your drop-off point.' },
+      { question: 'Where do we meet and finish?', answer: 'You meet your guide in Hiroshima, with the exact meeting and drop-off points confirmed with the operator after booking. The route uses the train and ferry between the city and the island.' },
+      { question: 'How much walking is involved?', answer: 'Expect a moderately active six hours: the Peace Park is flat and easy, while Miyajima involves slopes and steps up to the Daisho-in complex. Comfortable walking shoes are essential, and the private format lets your guide adjust the pace whenever needed.' },
+      { question: 'Is this suitable for a first visit with children?', answer: 'The private format works well for families, and Miyajima\'s deer, ferry ride and street life balance the heavier morning at the Peace Memorial Museum. The museum\'s exhibits are emotionally powerful, so discuss with your guide how deeply to engage depending on your children\'s ages.' },
+    ];
+  }
+
+  if (slug === 'miyajima-spiritual-tour') {
+    return [
+      { question: 'What activities can I choose?', answer: 'Inside a serene Zen temple on Miyajima you can choose a traditional tea ceremony, a Japanese calligraphy lesson, or both. In the tea ceremony you watch how matcha is prepared, taste it and learn to make it the proper way yourself.' },
+      { question: 'Is kimono rental included?', answer: 'Yes, dressing in a kimono is part of the experience, and you wear it throughout your chosen activities. It adds a wonderful photo opportunity in the temple and its peaceful garden.' },
+      { question: 'How long does the experience last?', answer: 'Plan for one to two hours depending on whether you choose one activity or both. Between activities there is time to soak up the temple\'s quiet atmosphere and ramble around its garden.' },
+      { question: 'Where does it take place?', answer: 'The experience is held at a Zen temple on Miyajima Island, with exact directions confirmed with the operator after booking. You will need to reach the island by ferry yourself, which pairs naturally with a morning or afternoon exploring Itsukushima Shrine.' },
+      { question: 'Do I need any experience with tea ceremony or calligraphy?', answer: 'No prior experience is needed; everything is demonstrated and taught step by step. The unhurried, meditative pace suits complete beginners, and the small group size of up to around 10 keeps the instruction personal.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-morning-tour') {
+    return [
+      { question: 'How far do we cycle and how fit do I need to be?', answer: 'The ride lasts about 3.5 hours at a relaxing pace, with frequent stops where your guide shares local stories. Hiroshima is largely flat, so anyone comfortable riding a bike in light city traffic will manage easily; this is sightseeing on two wheels, not a workout.' },
+      { question: 'What will we see?', answer: 'Cycling lets you cover far more ground than walking, so in one morning you pass many top landmarks, including Hiroshima Castle, alongside quiet corners and unknown gems most visitors never find. The guide stops regularly to explain both the city\'s history and its everyday life.' },
+      { question: 'Is a bike included, and where do we meet?', answer: 'The tour includes all fees mentioned in the itinerary along with your professional guide; confirm bike and helmet provision details with the operator when booking. The meeting point is in central Hiroshima and is confirmed with the operator after booking.' },
+      { question: 'What should I wear and bring?', answer: 'Wear comfortable clothes you can pedal in and closed shoes, and bring sun protection and water, especially in the warmer months. A small backpack rather than a shoulder bag makes riding easier.' },
+      { question: 'Can children join the ride?', answer: 'Children who can ride confidently and safely in city streets are generally welcome on small-group rides like this, which cap at around 10 riders. Check minimum age and available bike sizes with the operator when booking.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-museum-walking-tour') {
+    return [
+      { question: 'Is the Peace Memorial Museum included in the tour?', answer: 'Yes, the itinerary dedicates an hour inside the Peace Memorial Museum, where exhibits of personal accounts and artifacts bear witness to the tragedy of nuclear war. Your private guide accompanies you before continuing to the outdoor memorials.' },
+      { question: 'What else does the walk cover?', answer: 'From the Gates of Peace the route passes the Dr. Marcel Junod Memorial, and after the museum you see the A-bombed Phoenix Trees that survived the blast, the Victims Memorial Cenotaph, the Flame of Peace and the Children\'s Peace Monument. The walk concludes at the Atomic Bomb Dome and the Hypocenter.' },
+      { question: 'How many people can join?', answer: 'This is a private tour for groups of up to 4 people. With your own guide, you can spend longer at whichever exhibits and memorials matter most to you.' },
+      { question: 'Where do we meet?', answer: 'You meet your guide in central Hiroshima near the Gates of Peace at the edge of the Peace Memorial Park. Exact details are confirmed with the operator after booking.' },
+      { question: 'Is this tour appropriate for children?', answer: 'The 2.5-hour walk itself is easy, but the museum\'s personal accounts and artifacts are graphic and emotionally intense. Many families visit with teenagers as a profound educational experience; for younger children, discuss with your guide how to adapt the museum portion.' },
+    ];
+  }
+
+  if (slug === 'miyajima-itsukushima-guided-tour') {
+    return [
+      { question: 'What does this tour cover that shorter Miyajima walks do not?', answer: 'Beyond the Otorii Gate, Itsukushima Shrine\'s over-water halls and the five-storied pagoda, this five-hour tour climbs to the Daisho-in temple complex and steps inside the atmospheric Henjo Cave, lined with lanterns and Buddhist icons. You finish with free time on Omotesando Shopping Street and a look at the vast Senjokaku Pavilion.' },
+      { question: 'Where does the tour start?', answer: 'The tour starts from Hiroshima and crosses to the island by ferry with your guide. Exact meeting details are confirmed with the operator after booking.' },
+      { question: 'How strenuous is the walking?', answer: 'The shrine area is flat, but the climb to Daisho-in and the Henjo Cave involves a sustained series of steps and slopes. A moderate fitness level and proper walking shoes are recommended for the five-hour itinerary.' },
+      { question: 'How big is the group?', answer: 'The tour runs as a small group of up to around 10 participants with a local guide. This keeps the pace manageable on the temple climbs and leaves room for questions.' },
+      { question: 'What is included, and what should I budget for?', answer: 'Your guide and all fees mentioned in the itinerary are included, while personal expenses, meals and gratuities are not. Bring spending money for the free time on Omotesando Shopping Street, famous for its street food, and confirm ferry-ticket arrangements with the operator at booking.' },
+    ];
+  }
+
+  if (slug === 'miyajima-adventure-full-day-tour') {
+    return [
+      { question: 'How much of the day is spent cycling?', answer: 'The city portion is done by bike, cycling between the Peace Memorial Park, the A-bomb Dome and Hiroshima Castle with stops for stories and context. You then park the bikes and board a ferry across the bay to Miyajima Island, so the island portion is on foot.' },
+      { question: 'How fit do I need to be for 7.5 hours?', answer: 'You need to be comfortable riding a bike in a flat city and walking around Miyajima afterwards, but the pace is that of a guided sightseeing day, not a sports event. Regular stops, the ferry crossing and free time break the day up well.' },
+      { question: 'What should I bring?', answer: 'Wear clothes you can cycle in with closed shoes, and bring sun protection, water and money for lunch and snacks, since meals are not included. A small backpack is more practical than a shoulder bag on the bike.' },
+      { question: 'Where does the tour meet?', answer: 'The tour meets in central Hiroshima, with the exact point confirmed with the operator after booking. It is a small-group experience capped at around 10 riders.' },
+      { question: 'What is included in the price?', answer: 'The price covers your professional guide and all fees mentioned in the itinerary; personal expenses, meals and gratuities are extra. Confirm with the operator at booking how the ferry crossing and bike equipment are handled so you know exactly what to carry.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-food-tour') {
+    return [
+      { question: 'What food will we taste?', answer: 'Between rides you taste sizzling Hiroshima-style okonomiyaki, freshly shucked oysters and tempura at local restaurants and cafes. You also meet the friendly faces behind the city\'s best flavors, eating the way locals do rather than at tourist spots.' },
+      { question: 'Can dietary restrictions be accommodated?', answer: 'The tour\'s signature tastings center on okonomiyaki, oysters and tempura, so shellfish allergies and other restrictions matter here. Tell the operator about any allergies or dietary needs when booking so the stops can be adjusted where possible.' },
+      { question: 'How much cycling is involved?', answer: 'The tour lasts four hours, pedaling through Hiroshima\'s hidden streets between food stops and past landmarks like the Peace Memorial Park, the Green Arena and the Atomic Bomb Dome. The city is flat and the pace relaxed, so casual riders will be perfectly comfortable.' },
+      { question: 'Where do we meet and how big is the group?', answer: 'The tour meets in central Hiroshima, with exact details confirmed with the operator after booking. Groups are capped at around 10 riders, keeping the restaurant stops intimate.' },
+      { question: 'Are the tastings included in the price?', answer: 'The booking includes your professional guide and all fees mentioned in the itinerary; personal expenses and gratuities are extra. Confirm with the operator at booking exactly which tastings are covered so you know whether to budget for additional food or drinks.' },
+    ];
+  }
+
+  if (slug === 'miyajima-bullet-full-day-tour') {
+    return [
+      { question: 'Where does the tour start, and is the bullet train included?', answer: 'This full-day tour departs from Kyoto and travels to Hiroshima by Shinkansen bullet train, with the Shinkansen transportation included in the price. The Miyajima visitor tax is also covered; exact departure details in Kyoto are confirmed with the operator after booking.' },
+      { question: 'How long is the day?', answer: 'Plan for a long, rewarding day of around 13 hours door to door, including the high-speed rail journeys in both directions. The Shinkansen makes it realistic to see Hiroshima and Miyajima from Kyoto in a single day.' },
+      { question: 'What do we see in Hiroshima and Miyajima?', answer: 'With a hand-picked expert guide you explore Hiroshima\'s highlights, including the Peace Memorial Park and its moving monuments, before crossing to the sacred island of Miyajima. There you see Itsukushima Shrine and its famous torii gate rising from the sea.' },
+      { question: 'What is not included?', answer: 'Personal expenses, meals and gratuities are not included, so bring money for lunch and snacks along the way. Everything logistical, from the Shinkansen tickets to the Miyajima visitor tax, is handled for you.' },
+      { question: 'Is this tour suitable for children?', answer: 'Children generally love the bullet-train ride, the ferry crossing and Miyajima\'s wandering deer, and the guide keeps the day well organized. Do note it is a roughly 13-hour day and that the Peace Memorial Park deals with the atomic bombing, which parents may want to prepare younger children for.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-night-evening-tour') {
+    return [
+      { question: 'Are food and drinks included?', answer: 'Yes, food and drink tastings are included throughout the three-hour tour. You sample Hiroshima-style okonomiyaki and other local specialties as your hand-picked expert guide leads you through the city\'s liveliest eating districts.' },
+      { question: 'Can you cater to dietary restrictions?', answer: 'Let the operator know about allergies, vegetarian preferences or other restrictions when you book. With advance notice the guide can adjust which venues and dishes feature on your evening.' },
+      { question: 'Where and when does the tour start?', answer: 'The tour takes place in the evening in central Hiroshima, close to the districts where locals really eat after dark. The exact meeting point and start time are confirmed with the operator after booking.' },
+      { question: 'How much walking is involved?', answer: 'This is an easy walking tour between eating spots in the city center over about three hours. The pace is relaxed, with plenty of time sitting or standing at each tasting stop.' },
+      { question: 'Is the tour suitable for children or non-drinkers?', answer: 'The focus is on food as much as drink, so non-drinkers can simply enjoy the tastings with non-alcoholic options where available. If you plan to bring children, check with the operator first, as some evening venues may be adult-oriented.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-osaka-full-day-tour') {
+    return [
+      { question: 'Where does the tour depart from, and is the train included?', answer: 'The tour departs from Osaka and travels by Shinkansen bullet train, with the Shinkansen transportation and the Miyajima visitor tax included in the price. Exact departure details in Osaka are confirmed with the operator after booking.' },
+      { question: 'How long is the day?', answer: 'Expect a full day of around 13 hours including the return rail journey. The bullet train\'s speed is what makes visiting both Hiroshima and Miyajima from Osaka possible in one day.' },
+      { question: 'What is on the itinerary?', answer: 'With a hand-picked expert guide you explore Hiroshima\'s landmarks and hear the stories behind the city\'s remarkable recovery. The day also includes the sacred island of Miyajima, where the famous floating torii gate of Itsukushima Shrine awaits.' },
+      { question: 'What should I budget for on the day?', answer: 'Meals, personal expenses and gratuities are not included, so bring money for lunch and any street food on Miyajima. Transport and the island\'s visitor tax are already covered.' },
+      { question: 'Is this manageable for families and older travelers?', answer: 'The logistics are fully handled and the trains and ferry break up the walking, but it is still a long ~13-hour day on the move. Comfortable shoes are essential, and parents should be ready to talk with children about the Peace Memorial Park\'s wartime history.' },
+    ];
+  }
+
+  if (slug === 'miyajima-serenity-guided-tour') {
+    return [
+      { question: 'What does the eight-hour day include?', answer: 'You explore Hiroshima\'s peace memorials with a hand-picked expert guide and hear the story of the city\'s extraordinary rebirth, then cross to the sacred island of Miyajima. There the floating torii gate and centuries-old Itsukushima Shrine offer a tranquil counterpoint to the morning; transportation and the Miyajima visitor tax are included.' },
+      { question: 'Where does the tour start?', answer: 'The tour is based in Hiroshima, so it suits travelers already staying in or near the city. The exact meeting point is confirmed with the operator after booking.' },
+      { question: 'What is not included?', answer: 'Meals, personal expenses and gratuities are not included, so bring money for lunch, either on Miyajima\'s Omotesando street-food strip or in the city. Transport during the tour and the island visitor tax are covered.' },
+      { question: 'How much walking should I expect?', answer: 'Both the Peace Memorial Park and Miyajima are explored on foot, so expect a full day of easy-to-moderate walking with breaks during the transfers and ferry crossing. Comfortable shoes and weather-appropriate clothing are recommended.' },
+      { question: 'Is the emotional weight of Hiroshima balanced for families?', answer: 'Yes, this classic pairing is designed exactly for that: the morning bears witness to the city\'s heart-rending history, while the afternoon on Miyajima, with its serene shrine, torii gate and wandering deer, gives everyone space to decompress. Parents should still prepare younger children for the memorial content.' },
+    ];
+  }
+
+  if (slug === 'miyajima-chauffeur-private-tour') {
+    return [
+      { question: 'How does the pricing work for this chauffeur tour?', answer: 'The tour is priced per vehicle, not per person, covering up to 4 guests in a comfortable Toyota Alphard. A larger Toyota HiAce is available for groups of up to 9, making it excellent value for families and larger parties splitting the cost.' },
+      { question: 'Does the tour include hotel pickup?', answer: 'Yes, the day starts and ends at your Hiroshima hotel, with pickup and drop-off included. Your English-speaking chauffeur handles the ferry crossing, parking and pacing throughout the day.' },
+      { question: 'What do we visit during the day?', answer: 'You visit the Peace Memorial Park and the Atomic Bomb Dome, continue to Hiroshima Castle and the Shukkei-en Garden, then cross by ferry to Miyajima to see the floating torii of Itsukushima Shrine. An optional detour to the Kintaikyo Bridge in Iwakuni can be added for those who want to see more.' },
+      { question: 'What is not included in the price?', answer: 'The Miyajima ferry fare (a small amount payable at the pier), meals and attraction admissions are not included. The vehicle, chauffeur, fuel, parking and hotel transfers for the full 8-9 hour day are all covered.' },
+      { question: 'Is the chauffeur also a guide?', answer: 'Your chauffeur speaks English and manages all the logistics, letting you explore each stop at your own pace rather than following a scripted commentary. The flexible pacing means you can linger where you like, which is ideal for travelers with limited mobility or young children who need a car-based day.' },
+    ];
+  }
+
+  if (slug === 'hiroshima-half-day-tour') {
+    return [
+      { question: 'What is included in this private half-day tour?', answer: 'The price includes a dedicated multilingual professional local guide, all entrance fees for the listed attractions, a \'Stovenir\' souvenir for each guest, a customizable itinerary and personal trip support, with no tips expected. Meals and transportation costs are not included.' },
+      { question: 'Where and when does the tour start?', answer: 'The tour meets at 9 a.m. at your hotel lobby in Hiroshima, so there is no separate meeting point to find. Confirm your hotel details with the operator when booking.' },
+      { question: 'What does the four-hour itinerary cover?', answer: 'You witness a city transformed from tragedy to vibrant renewal at the Peace Memorial Park and museum area, then wind through tranquil gardens and heritage corners where quiet reflection and hope coexist. Because the itinerary is fully customizable, your guide can shape the route around your interests.' },
+      { question: 'What languages does the guide speak?', answer: 'The tour is led by a dedicated multilingual professional local guide, with English as the standard language. If you would prefer another language, ask the operator about availability when booking.' },
+      { question: 'How many people can join, and is it good for families?', answer: 'This is a private tour priced per group for up to 4 guests, and the customizable, four-hour format works well for families. The pace can be adjusted for children, and the guide can calibrate how deeply to engage with the Peace Memorial content depending on their ages.' },
+    ];
+  }
+
+  if (slug === 'miyajima-floating-full-day-tour') {
+    return [
+      { question: 'What is included in this full-day private tour?', answer: 'You get a dedicated multilingual professional local guide for the full eight hours, all entrance fees for the listed attractions, a \'Stovenir\' souvenir for each guest, a customizable itinerary and personal trip support with no tips expected. Meals and transportation costs, such as the train and ferry to Miyajima, are not included.' },
+      { question: 'Where does the tour start?', answer: 'The tour meets at 10 a.m. at your hotel lobby or at Hiroshima Station, whichever suits you. Confirm your preferred meeting point with the operator when booking.' },
+      { question: 'What does the day look like?', answer: 'The day begins with a guided walk through the Peace Memorial Park, exploring Hiroshima\'s story of reflection, resilience and renewal. You then continue to Miyajima to visit Itsukushima Shrine and its famous floating torii gate, with the itinerary fully customizable so the day unfolds around your interests.' },
+      { question: 'How many people can join?', answer: 'The tour is private and priced per group for up to 4 guests. That makes it well suited to couples and families who want one dedicated guide across both Hiroshima and Miyajima.' },
+      { question: 'How demanding is the day, and is it family-friendly?', answer: 'Expect a full eight hours combining city walking, the ferry crossing and island exploring, though the customizable private pace means breaks come whenever you need them. Children usually enjoy Miyajima\'s deer and the ferry ride, while the Peace Memorial Park portion can be adjusted to suit their ages.' },
+    ];
+  }
+
     return null;
 };

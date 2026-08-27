@@ -104,6 +104,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'tokyo': { country: 'japan', city: 'tokyo' },
   'kyoto': { country: 'japan', city: 'kyoto' },
   'osaka': { country: 'japan', city: 'osaka' },
+  'hiroshima': { country: 'japan', city: 'hiroshima' },
   'bali': { country: 'indonesia', city: 'ubud' },
   'yogyakarta': { country: 'indonesia', city: 'yogyakarta' },
   'bangkok': { country: 'thailand', city: 'bangkok' },
