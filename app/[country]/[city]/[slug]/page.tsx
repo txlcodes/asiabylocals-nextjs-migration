@@ -311,9 +311,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     }
   } catch (e) {}
 
+  // Fallback (tour fetch failed or tour deleted): still honor the duplicate map —
+  // without this, a deleted duplicate (same-day-agra-tour-from-delhi, found in the
+  // 2026-08-26 canonical audit) self-canonicalised and kept competing.
   return {
     title: `${cityName} Tour | AsiaByLocals`,
     description: `Book tours in ${cityName} with licensed local guides.`,
+    alternates: {
+      canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${DUPLICATE_CANONICAL_MAP[slug] || slug}`,
+    },
   };
 }
 
