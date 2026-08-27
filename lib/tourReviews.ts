@@ -10305,5 +10305,105 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- JAPAN TOURS second pass (2026-08-25, same-operator GYG listings) ---
+    if (slug === 'kyoto-design-guided-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-19', text: 'The itinerary was fantastic. We got to see many wonderful sights in one day.' },
+            ],
+        };
+    }
+
+    if (slug === 'osaka-superhero-guided-tour') {
+        return {
+            averageRating: 4.92, totalReviews: 260, guideRating: 4.92, valueRating: 4.92,
+            reviews: [
+                { author: 'Jeanette', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-02', text: 'what a fantastic experience. Really enjoyed the experience. Would recommend to anyone!!!' },
+                { author: 'Megan', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-23', text: 'This Street Kart Experience was really fun, and felt like a unique thing to do in Osaka. I did this with my 70 year old dad—we really enjoyed it. We had a really good guide who explained everything well and was super patient and helpful. Thank you for a wonderful experience for our first time in Osaka, and first trip to Japan!' },
+                { author: 'Inho', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-21', text: 'Great experience driving through Osaka city! Justin, our driver guide, was excellent and the rest of the team was as well. Highly recommended!' },
+                { author: 'Richard', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-18', text: 'Great tour...what a fun way to zip around Osaka, Acer was a great guide and made our experience easy and fun' },
+                { author: 'barrie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-03', text: 'it was absolutely brilliant, a bit scary at first but amazing driving threw Osaka main streets would definitely recommend this to everyone' },
+                { author: 'Teri', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-01', text: 'sooooo much fun...if I could rate it 10/5 I would!..you are informed well around safety and then guided in a fun filled way. thanks so much for the experience ✨️' },
+                { author: 'Stacie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-30', text: 'This was so fun! One of the highlights of our first trip to Japan! Thank you to Edward, our guide! He was awesome, easy to talk to, and friendly! It was so great to realize he is originally from the same hometown too!!' },
+                { author: 'Jill', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-14', text: 'We had the most fun go karting in Osaka. We were looking forward to this activity our whole trip and it definitely did not disappoint! I would highly recommend this experience.' },
+                { author: 'Colin', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-10', text: 'I booked this in advance of our trip, and briefly saw some going round Tokyo when we were there. I was beginning to have my doubts, and also read that a lot of locals don\'t like it but I have to say this was a really good experience, and the reception on the streets was really good. In a few areas of Osaka we were able to go flat to the floor, and otherwise it was a good way of seeing and getting to know the city - especially with the neon lit up for the evening session. Our guide Sharon was very good and took lots of photos which were sent to our phones after the event. I was positioned at the back to begin with and as the tour went on we progressed to the front so that everyone had a good opportunity for photos. For a while was concerned about a small van that was following us and that he may want to get past, but he was stuck there and following our every turn. It took a while for me to realise he was there to ensure the safety of the group! :D Spend the money and do it!' },
+                { author: 'Sharon', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-03', text: 'Had a great time although I was a little nervous before we went out on the roads. Arthur was great at instructing and was easy to follow. there were 4 of us in our group which made it quite nice with the time in front split between us. Didn’t imagine we’d go 60kph on the carriage way which was an adrenaline boost! Read reviews on karts in Osaka against Tokyo and it didn’t disappoint so pleased we got to do it!!' },
+            ],
+        };
+    }
+
+    if (slug === 'osaka-session-photography-tour') {
+        return {
+            averageRating: 4.73, totalReviews: 30, guideRating: 4.73, valueRating: 4.73,
+            reviews: [
+                { author: 'Diego', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-29', text: 'I thought it was a really good experience. Super professional. They took all the time to get us ready and the photos turned out great. Highly recommended.' },
+                { author: 'Ana', country: 'Verified GetYourGuide review', rating: 5, date: '2025-06-18', text: 'Excellent! It\'s a lot of fun and doesn\'t take long. Super friendly staff, fun moments during the photo shoot. I never thought it was so complex to wear a kimono! It\'s really worth doing this experience, either in the studio or outside at your place, if you want to pay a little more' },
+                { author: 'Alina', country: 'Verified GetYourGuide review', rating: 5, date: '2025-05-12', text: 'it was great!! nice staff working there and very helpful with posing and such! the photographer was also very good! i am happy with all the pictures and how the make up/hair was styled by the stylist' },
+                { author: 'Melanie', country: 'Verified GetYourGuide review', rating: 5, date: '2025-04-27', text: 'Apart from a few minor language difficulties here and there, it was a great experience with friendly and competent people who guided us through the shoot and all the preparations. At the end, we were given a USB stick with all the pictures and a printed photo to take home. The USB stick cost extra, but it was worth the money. A very nice experience😊' },
+                { author: 'Alexandru', country: 'Verified GetYourGuide review', rating: 5, date: '2025-04-08', text: 'The staff are very friendly and professional. Very good experience, would definitely recommend.' },
+                { author: 'Katharina', country: 'Verified GetYourGuide review', rating: 5, date: '2025-04-05', text: 'A truly wonderful experience. The kimono dresser, the hairstylist, and the photographer gave it their all. First, I was able to choose a beautiful, lightweight kimono from the many patterns, then I was professionally dressed and haired. First, we took photos in the studio, and then we took a taxi to a shrine and took some amazing shots of the cherry blossoms. The pictures turned out fantastic 😊' },
+                { author: 'David', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-16', text: 'Was very fun experience putting on kimonos and photo shoot was even more experiencing. would definitely recommend this to all my friends visiting Japan' },
+                { author: 'Francesco', country: 'Verified GetYourGuide review', rating: 5, date: '2024-08-21', text: 'A beautiful experience. The place is very easy to find. As soon as I arrived I was greeted by three beautiful girls, after the pleasantries the girls were very polite and cheerful as well as beautiful. While one of them did my make-up, very good by the way, we joked a bit and talked about our respective countries. After the male-up I got ready and then she put on the Yukata that I had personally chosen beforehand. The photo shoot was carried out by the photographer and owner of the business. A very professional person who knows how to do his job very well. The girls helped him by translating and passing me the gadgets necessary for the photo shoot. An experience that you absolutely must do.' },
+                { author: 'Danilo', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-18', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-31', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'osaka-treasures-guided-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 26, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Simone', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-24', text: 'Tommy was simply outstanding! This tour was a surprise package and absolutely made our trip to Osaka. We not only discovered amazing local delights and hidden gems that we’d never have been able to find ourselves, but Tommy’s local knowledge, humour, energy and warmth made the night an unforgettable one. An Aussie who speaks perfect Japanese and has lived in Osaka for almost a decade was the perfect combo for a tour guide. I could not reccommend Namba Food Tours more highly. Thank you again Tommy and we hope to see you again when we are back in Osaka!' },
+                { author: 'Paul', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-10', text: 'Kevin was amazing with his knowledge and insight into Japanese food and culture. What an awesome evening.' },
+                { author: 'Holiday', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-03', text: 'Tommy was wonderful and so knowledgeable. He was able to accommodate a pescatarian and provided a unique experience for us. We were so happy with him we booked a tour to Osaka castle with him for another day. Thank you Tommy!' },
+                { author: 'Stacey', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-24', text: 'Tommy was brilliant, very informative and moulded our tour to suit. Great night with some great food, drink and laughs.' },
+                { author: 'Peter', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-17', text: 'Tommy is a great, enthusiastic guide. We went to one or two places we would have dismissed as \'a little too back street\' but had great food. He was very informative about Japanese culture and Osaka\'s slightly counter culture. Money well spent.' },
+                { author: 'Brion', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-03', text: 'Tommy was very informative about local cultures, local life, and of course the local food.' },
+                { author: 'Wouter', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-03', text: '100% recommended! We had a super fun, tasty and cozy food tour. We went to nice local restaurants that you would never have been taken to otherwise. Tommy, our tour guide, was also really great and created a fun atmosphere and knew a lot about Japan and the food culture.' },
+                { author: 'Jarnia', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-29', text: 'Kevin is outstanding! So much fun! From the instant we met him, we knew the night was going to be brilliant! His knowledge and advice can make your entire holiday an awesome experience. It’s fantastic to have an english speaking / travel understanding tour guide to lead you off the beaten track! Authentic and delicious. We learnt our drink for Whilst we are here. Rules and respect! Just loved every aspect of this tour! Highly highly recommend Namba Food Tours ! Check out their website!' },
+                { author: 'Gyöngyi', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-19', text: 'Tommy has a nice personality! He is funny and makes the tour a good fun. He knows a lot about Japan, especially about the kitchen of Osaka! All our stops were different, yet fullfilling. Meet him hungry \'cause you\'ll eat a lot. Thanks Tommy! We enjoyed you guide a lot! :-)' },
+                { author: 'Sol', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-15', text: 'Absolutely loved this food tour around Namba. From the moment we met Tommy, our guide, the energy was on point, funny, engaging, and full of insider knowledge you’d never get on your own. It honestly felt like being shown around by a local friend who knows all the best hidden spots. We wondered through buzzing streets and alleys, stopping at places we would have walked straight past. The food was delicious with a mix of iconic Osaka dishes and local favourites. The cold beers, a bit of sake, and plenty of laughs along the way made the food tour so enjoyable. What really stood out was how much we learned, not just about the food, but the culture, the etiquette, and the true vibe of Osaka. Such a fun, relaxed, and delicious way to experience this beautiful part of Osaka. Highly recommend if you want great food, great vibes, and a genuinely memorable night.' },
+            ],
+        };
+    }
+
+    if (slug === 'osaka-samurai-guided-tour') {
+        return {
+            averageRating: 4.54, totalReviews: 1511, guideRating: 4.54, valueRating: 4.54,
+            reviews: [
+                { author: 'Edyta', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-05', text: 'A great, well-organized activity. The sumo show was interesting and full of humor, and the opportunity to enter the ring and take photos with the wrestlers was a big plus.' },
+                { author: 'Bianca', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-26', text: 'It was very interesting; there was a lot to see and try out (sumo training and a match)' },
+                { author: 'Jaime', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-26', text: 'Very informative and entertaining. Family members participated in exercise session and battles with Sumo athletes after the main performance. It was a great experience. Well worth the cost. Thank you' },
+                { author: 'Katie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-23', text: 'This was an amazing experience! All the staff were so lovely and welcoming, the set up was perfect, the hot pot was yummy and best of all, the sumo was incredible! Brilliant to learn more about sumo, then to see 4 rounds was epic, plus getting to learn some moves and have a fight was the cherry on top of the cake. Would highly recommend!' },
+                { author: 'Pedro Velez', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-20', text: 'An event that is truly worth seeing. A very good atmosphere. A show that you should see when you visit Japan. Very tasty food. In short, excellent.' },
+                { author: 'Priyas', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-18', text: 'Such a fun experience! This is a must do in Osaka! Gave us many memories and laughs throughout the show!' },
+                { author: 'Hui', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-04', text: 'informative and interactive show, k we all loved it, young and old alike!' },
+                { author: 'Tiffany', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-03', text: 'This was an amazing and fun experience! We had such a great time learning about sumo and all the complexities and training that it takes! We got great pictures and highly recommend!' },
+                { author: 'stephanie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-02', text: 'The best! Everyone was so friendly and it was so fun!' },
+                { author: 'Dillon', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-26', text: 'it was awesome marsissa was very nifty and showed us all a great ime' },
+            ],
+        };
+    }
+
+    if (slug === 'osaka-sumo-guided-tour') {
+        return {
+            averageRating: 4.54, totalReviews: 1511, guideRating: 4.54, valueRating: 4.54,
+            reviews: [
+                { author: 'Edyta', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-05', text: 'A great, well-organized activity. The sumo show was interesting and full of humor, and the opportunity to enter the ring and take photos with the wrestlers was a big plus.' },
+                { author: 'Bianca', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-26', text: 'It was very interesting; there was a lot to see and try out (sumo training and a match)' },
+                { author: 'Jaime', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-26', text: 'Very informative and entertaining. Family members participated in exercise session and battles with Sumo athletes after the main performance. It was a great experience. Well worth the cost. Thank you' },
+                { author: 'Katie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-23', text: 'This was an amazing experience! All the staff were so lovely and welcoming, the set up was perfect, the hot pot was yummy and best of all, the sumo was incredible! Brilliant to learn more about sumo, then to see 4 rounds was epic, plus getting to learn some moves and have a fight was the cherry on top of the cake. Would highly recommend!' },
+                { author: 'Pedro Velez', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-20', text: 'An event that is truly worth seeing. A very good atmosphere. A show that you should see when you visit Japan. Very tasty food. In short, excellent.' },
+                { author: 'Priyas', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-18', text: 'Such a fun experience! This is a must do in Osaka! Gave us many memories and laughs throughout the show!' },
+                { author: 'Hui', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-04', text: 'informative and interactive show, k we all loved it, young and old alike!' },
+                { author: 'Tiffany', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-03', text: 'This was an amazing and fun experience! We had such a great time learning about sumo and all the complexities and training that it takes! We got great pictures and highly recommend!' },
+                { author: 'stephanie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-02', text: 'The best! Everyone was so friendly and it was so fun!' },
+                { author: 'Dillon', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-26', text: 'it was awesome marsissa was very nifty and showed us all a great ime' },
+            ],
+        };
+    }
+
     return null;
 };

@@ -71,7 +71,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Winter (December-February): cold but crowd-free',
             icon: 'snowflake',
-            content: 'Winter highs sit around 11°C with lows near 4°C, and occasional light snow is possible but rarely sticks. This is the cheapest, least crowded time to visit indoor experiences like tea ceremonies, kimono studios, and sumo shows — all of which run rain or shine.',
+            content: 'Winter highs sit around 11°C with lows near 4°C, and occasional light snow is possible but rarely sticks. This is the cheapest, least crowded time to visit indoor experiences like tea ceremonies, kimono studios, and sumo shows — all of which run rain or shine.\n\nOnce your dates are locked, plan the days themselves with our [3-day Osaka itinerary](/japan/osaka/osaka-3-day-itinerary) and sort transport with the [getting around Osaka guide](/japan/osaka/getting-around-osaka).',
             tourCard: {
               slug: 'osaka-sumo-guided-tour',
               title: 'Sumo Experience Only Plan',
@@ -203,7 +203,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Getting the most from a short trip',
             icon: 'map',
-            content: 'Osaka is compact enough that most of the highlights sit within a 20-30 minute subway ride of each other, so 3 days is genuinely enough to hit the essentials without feeling rushed — unlike Tokyo or Kyoto, where distances eat more of the day.',
+            content: 'Osaka is compact enough that most of the highlights sit within a 20-30 minute subway ride of each other, so 3 days is genuinely enough to hit the essentials without feeling rushed — unlike Tokyo or Kyoto, where distances eat more of the day.\n\nFor deeper detail on the stops in this plan, see our [Osaka Castle guide](/japan/osaka/osaka-castle-guide), the [Dotonbori guide](/japan/osaka/dotonbori-guide), and the [Osaka food guide](/japan/osaka/osaka-food-guide). Adding a fourth day? The [Nara day trip guide](/japan/osaka/osaka-to-nara-day-trip) is the classic pick.',
           },
         ],
         faqs: [
@@ -303,7 +303,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Walking is often faster than it looks',
             icon: 'footprints',
-            content: 'Central Osaka\'s core — Umeda, Namba, Dotonbori, Shinsaibashi — is dense enough that many stops are a 15-20 minute walk apart, sometimes faster than waiting for a train and changing lines.',
+            content: 'Central Osaka\'s core — Umeda, Namba, Dotonbori, Shinsaibashi — is dense enough that many stops are a 15-20 minute walk apart, sometimes faster than waiting for a train and changing lines.\n\nWith ICOCA in hand, day trips get easy - see our [Osaka to Kyoto](/japan/osaka/osaka-to-kyoto-day-trip) and [Osaka to Nara](/japan/osaka/osaka-to-nara-day-trip) guides - and time your whole visit with the [best time to visit Osaka guide](/japan/osaka/best-time-to-visit-osaka).',
             tourCard: {
               slug: 'osaka-walking-tour',
               title: 'Osaka: Main Sights and Hidden Spots Guided Walking Tour',
@@ -419,7 +419,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'How much time to budget',
             icon: 'timer',
-            content: 'Plan 1.5-2.5 hours for the keep and immediate grounds, longer if you\'re doing a full guided walking tour that also covers the surrounding shrine and park.',
+            content: 'Plan 1.5-2.5 hours for the keep and immediate grounds, longer if you\'re doing a full guided walking tour that also covers the surrounding shrine and park.\n\nThe castle slots neatly into day one of our [3-day Osaka itinerary](/japan/osaka/osaka-3-day-itinerary), and cherry blossom timing around the park is covered in the [best time to visit Osaka guide](/japan/osaka/best-time-to-visit-osaka).',
           },
         ],
         faqs: [
@@ -535,7 +535,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Getting there',
             icon: 'train',
-            content: 'Namba and Shinsaibashi subway stations both put you a short walk from the canal, making Dotonbori one of the easiest Osaka landmarks to combine with other Minami-district stops like Kuromon Market or Hozenji Yokocho.',
+            content: 'Namba and Shinsaibashi subway stations both put you a short walk from the canal, making Dotonbori one of the easiest Osaka landmarks to combine with other Minami-district stops like Kuromon Market or Hozenji Yokocho.\n\nCome hungry - the [Osaka food guide](/japan/osaka/osaka-food-guide) covers what to order stall by stall - and if the neon leaves you wanting more, the [Osaka nightlife guide](/japan/osaka/osaka-nightlife-guide) picks up where Dotonbori ends. For the retro southern counterpart, see the [Shinsekai guide](/japan/osaka/shinsekai-guide).',
             tourCard: {
               slug: 'osaka-walking-tour',
               title: 'Osaka: Main Sights and Hidden Spots Guided Walking Tour',
@@ -667,7 +667,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Kushikatsu in Shinsekai',
             icon: 'utensils',
-            content: 'Deep-fried skewers of meat, vegetables, and seafood, dipped once in a shared sauce (double-dipping is a real faux pas at most stalls). Shinsekai\'s Janjan Yokocho alley is the classic place to eat it, under the neon glow of Tsutenkaku Tower.',
+            content: 'Deep-fried skewers of meat, vegetables, and seafood, dipped once in a shared sauce (double-dipping is a real faux pas at most stalls). Shinsekai\'s Janjan Yokocho alley is the classic place to eat it, under the neon glow of Tsutenkaku Tower.\n\nEat your way through the city\'s two great food districts with our [Dotonbori guide](/japan/osaka/dotonbori-guide) and [Shinsekai guide](/japan/osaka/shinsekai-guide), and fit it all together with the [3-day Osaka itinerary](/japan/osaka/osaka-3-day-itinerary).',
             tourCard: {
               slug: 'osaka-food-tour',
               title: 'Osaka Street Food Tour: Takoyaki, Okonomiyaki & Local Flavor',
@@ -783,7 +783,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Budgeting your day',
             icon: 'timer',
-            content: 'A full day trip to Nara typically runs about 10 hours door to door: roughly 2 hours total on trains and 5-7 hours to actually explore the park, Todai-ji, Kasuga Taisha Shrine, and Kofuku-ji Temple.',
+            content: 'A full day trip to Nara typically runs about 10 hours door to door: roughly 2 hours total on trains and 5-7 hours to actually explore the park, Todai-ji, Kasuga Taisha Shrine, and Kofuku-ji Temple.\n\nNara is one of two classic day trips from Osaka - the other is covered in our [Osaka to Kyoto guide](/japan/osaka/osaka-to-kyoto-day-trip) - and train logistics for both are in the [getting around Osaka guide](/japan/osaka/getting-around-osaka).',
           },
         ],
         faqs: [
@@ -883,7 +883,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Basing in Osaka vs Kyoto',
             icon: 'hotel',
-            content: 'Given trains run 13-50 minutes depending on route, many visitors base themselves in Osaka for cheaper hotels and easier Kansai Airport access, day-tripping into Kyoto rather than the reverse.',
+            content: 'Given trains run 13-50 minutes depending on route, many visitors base themselves in Osaka for cheaper hotels and easier Kansai Airport access, day-tripping into Kyoto rather than the reverse.\n\nOnce you\'re in Kyoto, our dedicated Kyoto guides take over: the [3-day Kyoto itinerary](/japan/kyoto/kyoto-3-day-itinerary), the [Fushimi Inari guide](/japan/kyoto/fushimi-inari-guide), and the [Gion geisha district guide](/japan/kyoto/gion-geisha-district-guide). Prefer to stay closer? [Nara](/japan/osaka/osaka-to-nara-day-trip) is the shorter hop.',
           },
         ],
         faqs: [
@@ -991,7 +991,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'The retro vibe, honestly assessed',
             icon: 'sparkles',
-            content: 'Shinsekai deliberately leans into its nostalgic, slightly rough Showa-era look rather than polish — retro game centers and older buildings sit alongside newer additions like the 2022 Tower Slider. It\'s genuinely a different mood from Dotonbori\'s glossier neon, worth the contrast if you\'re doing both in one trip.',
+            content: 'Shinsekai deliberately leans into its nostalgic, slightly rough Showa-era look rather than polish — retro game centers and older buildings sit alongside newer additions like the 2022 Tower Slider. It\'s genuinely a different mood from Dotonbori\'s glossier neon, worth the contrast if you\'re doing both in one trip.\n\nShinsekai\'s kushikatsu is only one chapter of the city\'s food story - the rest is in our [Osaka food guide](/japan/osaka/osaka-food-guide) - and the district pairs well with an evening plan from the [Osaka nightlife guide](/japan/osaka/osaka-nightlife-guide).',
             tourCard: {
               slug: 'osaka-walking-tour',
               title: 'Osaka: Main Sights and Hidden Spots Guided Walking Tour',
@@ -1107,7 +1107,7 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           {
             title: 'Hozenji Yokocho for atmosphere over volume',
             icon: 'lamp',
-            content: 'A narrow, lantern-lit alley named after a small moss-covered temple, lined with small old-school restaurants and bars. It\'s the closest Osaka gets to a classic, atmospheric Japanese drinking alley — better for a couple of quiet drinks than a big night out.',
+            content: 'A narrow, lantern-lit alley named after a small moss-covered temple, lined with small old-school restaurants and bars. It\'s the closest Osaka gets to a classic, atmospheric Japanese drinking alley — better for a couple of quiet drinks than a big night out.\n\nStart the evening with street food using our [Dotonbori guide](/japan/osaka/dotonbori-guide), and if you\'re structuring a full visit, the [3-day Osaka itinerary](/japan/osaka/osaka-3-day-itinerary) weaves the night districts into each day.',
             tourCard: {
               slug: 'osaka-walking-tour',
               title: 'Osaka: Main Sights and Hidden Spots Guided Walking Tour',
