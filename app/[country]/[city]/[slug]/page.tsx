@@ -152,6 +152,35 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'shopping-tour-shopping-tour': 'jaipur-shopping-tour',
   // From-Delhi day trip → jaipur-same-day-tour-from-delhi
   'delhi-jaipur-same-day-tour-by-car': 'jaipur-same-day-tour-from-delhi',
+
+  // ---- JAPAN (2026-08-28): Kyoto/Osaka 0 GSC presence, Tokyo 2/20 — same
+  // slug-collision clones as Agra (food-food, evening-evening, crossing-crossing).
+  // Champions = cleanest slug per intent; distinct routes/formats stay unmapped.
+  // Tokyo
+  'shibuya-crossing-crossing-photography-tour': 'shibuya-crossing-photography-tour',
+  'shibuya-crossing-premium-tour': 'shibuya-crossing-photography-tour',
+  'tokyo-tower-premium-tour': 'tokyo-tower-bike-tour',
+  // Kyoto — 6 private-tour clones → kyoto-private-tour
+  'kyoto-private-tour-heritage': 'kyoto-private-tour',
+  'kyoto-people-private-tour-heritage': 'kyoto-private-tour',
+  'kyoto-people-private-tour': 'kyoto-private-tour',
+  'kyoto-kansai-private-tour': 'kyoto-private-tour',
+  'kyoto-nissan-private-tour': 'kyoto-private-tour',
+  // Kyoto — evening cluster → kyoto-evening-tour (higashiyama stays: district-specific)
+  'kyoto-evening-evening-tour': 'kyoto-evening-tour',
+  'kyoto-night-evening-tour': 'kyoto-evening-tour',
+  'kyoto-walking-evening-tour': 'kyoto-evening-tour',
+  'kyoto-photoshoot-photography-tour': 'kyoto-photography-tour',
+  'kyoto-food-food-tour': 'kyoto-food-tour',
+  'kyoto-around-bike-tour': 'kyoto-bike-tour',
+  // Osaka — 4 food clones → osaka-food-tour
+  'osaka-food-food-tour': 'osaka-food-tour',
+  'osaka-food-tour-tour': 'osaka-food-tour',
+  'osaka-foodie-food-tour': 'osaka-food-tour',
+  'osaka-flavors-group-tour': 'osaka-food-tour',
+  'osaka-walking-walking-tour': 'osaka-walking-tour',
+  'osaka-photoshoot-photography-tour': 'osaka-photography-tour',
+  'osaka-session-photography-tour': 'osaka-photography-tour',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
