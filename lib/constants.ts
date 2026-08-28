@@ -231,6 +231,13 @@ export const KYOTO_INFO_SLUGS = [
   'kyoto-food-guide'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
+export const HIROSHIMA_INFO_SLUGS = [
+  'best-time-to-visit-hiroshima', 'hiroshima-2-day-itinerary', 'getting-around-hiroshima',
+  'peace-memorial-park-guide', 'miyajima-island-guide', 'hiroshima-food-guide',
+  'hiroshima-day-trips'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
 export const OSAKA_INFO_SLUGS = [
   'best-time-to-visit-osaka', 'osaka-3-day-itinerary', 'getting-around-osaka',

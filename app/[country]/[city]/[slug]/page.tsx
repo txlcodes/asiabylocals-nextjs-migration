@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -181,6 +181,10 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'osaka-walking-walking-tour': 'osaka-walking-tour',
   'osaka-photoshoot-photography-tour': 'osaka-photography-tour',
   'osaka-session-photography-tour': 'osaka-photography-tour',
+  // Hiroshima — M2N runs two identically-titled "History of Hiroshima Group
+  // Walking Tour" GYG listings; both were imported. One champion. The rest of
+  // the Hiroshima catalog was curated at build time — no other genuine dupes.
+  'hiroshima-remembered-walking-tour': 'hiroshima-history-walking-tour',
 
   // ---- THAILAND (2026-08-28): per-city intent consolidation. Champions picked
   // by GSC impressions + proven bookings; branded/distinct products stay unmapped.
@@ -269,6 +273,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'tokyo') return TOKYO_INFO_SLUGS.includes(slug);
   if (c === 'kyoto') return KYOTO_INFO_SLUGS.includes(slug);
   if (c === 'osaka') return OSAKA_INFO_SLUGS.includes(slug);
+  if (c === 'hiroshima') return HIROSHIMA_INFO_SLUGS.includes(slug);
   return false;
 }
 

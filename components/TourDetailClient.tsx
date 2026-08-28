@@ -1280,6 +1280,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Hiroshima-specific FAQs
+    if (cityLower === 'hiroshima' || tourTitle.toLowerCase().includes('hiroshima') || tourTitle.toLowerCase().includes('miyajima')) {
+      faqs.push(
+        { question: 'When is the best time to visit Hiroshima?', answer: 'Late March to early April for cherry blossom (2026 full bloom landed around March 29-31), or October-November for autumn color and oyster season. August 6 brings the Peace Memorial Ceremony — moving, but the city is at its most crowded. See our [best time to visit Hiroshima guide](/japan/hiroshima/best-time-to-visit-hiroshima).' },
+        { question: 'How do I get around Hiroshima?', answer: 'The **Hiroden streetcar** (flat ¥240) covers most sights, and the meipuru-pu loop bus is free with a JR Pass. Miyajima is a ¥200 ferry ride plus the ¥100 visitor tax. Full fares and passes in [getting around Hiroshima](/japan/hiroshima/getting-around-hiroshima).' },
+        { question: 'How many days do I need in Hiroshima?', answer: 'Two days is the sweet spot: day one for the Peace Memorial Park, Museum and city, day two for Miyajima Island. Our [2-day Hiroshima itinerary](/japan/hiroshima/hiroshima-2-day-itinerary) maps it hour by hour.' },
+        { question: 'How much time should I allow for the Peace Memorial Park?', answer: 'Plan 2-3 hours for the park and museum together — the museum is just ¥200 and opens from 7:30 AM. Etiquette, monuments, and timing tips are in our [Peace Memorial Park guide](/japan/hiroshima/peace-memorial-park-guide).' },
+        { question: 'When does the Miyajima torii gate "float"?', answer: 'The torii appears to float at tide levels above ~250cm, and you can walk out to its base below ~100cm — a single day often offers both. Check tide tables before you go; the full trick is in our [Miyajima Island guide](/japan/hiroshima/miyajima-island-guide).' },
+        { question: 'What food is Hiroshima known for?', answer: '**Hiroshima-style okonomiyaki** — layered, not mixed like Osaka\'s, with soba inside — plus winter oysters and momiji manju on Miyajima. Okonomimura\'s 24 stalls are the classic first stop. See the [Hiroshima food guide](/japan/hiroshima/hiroshima-food-guide).' },
+        { question: 'What day trips work from Hiroshima?', answer: 'Miyajima is the essential one; beyond it, Iwakuni\'s Kintai Bridge and Okunoshima (Rabbit Island) are both doable by train. Honest rankings and logistics in our [Hiroshima day trips guide](/japan/hiroshima/hiroshima-day-trips).' }
+      );
+    }
+
     // Add Osaka-specific FAQs
     if (cityLower === 'osaka' || tourTitle.toLowerCase().includes('osaka')) {
       faqs.push(
