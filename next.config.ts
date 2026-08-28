@@ -67,6 +67,11 @@ const nextConfig: NextConfig = {
       'jaipur-royal-private-tour': 'delhi-to-jaipur-royal-private-day-tour',
       // Agra — deleted tour redirects
       'agra-mahal-sunrise-tour': 'taj-mahal-sunrise-tour',
+      // Deleted duplicates stuck in year-long ISR stale-while-revalidate (regen
+      // fails on missing tour, so the canonical fix never renders) — 308 to their
+      // champions instead, which bypasses the route cache entirely (2026-08-28).
+      'same-day-agra-tour-from-delhi': 'taj-mahal-return-guided-tour',
+      'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
       // Delhi — deleted tour redirects
       'delhi-mahal-private-tour': 'old-new-delhi-private-tour',
       // Phuket — deleted tour redirects
