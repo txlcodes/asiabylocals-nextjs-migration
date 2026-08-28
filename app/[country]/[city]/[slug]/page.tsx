@@ -181,6 +181,54 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'osaka-walking-walking-tour': 'osaka-walking-tour',
   'osaka-photoshoot-photography-tour': 'osaka-photography-tour',
   'osaka-session-photography-tour': 'osaka-photography-tour',
+
+  // ---- THAILAND (2026-08-28): per-city intent consolidation. Champions picked
+  // by GSC impressions + proven bookings; branded/distinct products stay unmapped.
+  // Bangkok — floating/railway market: 5 pages competed; champion = the proven
+  // seller (3 real bookings). Its page is untouched — it only receives signals.
+  'damnoen-saduak-market-and-maeklong-railway-market': 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'floating-market-and-train-market-experience': 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'maeklong-railway-market-shopping-tour': 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'bangkok-floating-market-railway-market-day-trip-boat-ride': 'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  // Bangkok — Chinatown food-walk clones → the Michelin 15-tastings champion
+  'backstreets-food-tour-with-15-tastings': 'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
+  'bangkok-authentic-tasting-thai-chinatown-walking-food-tour': 'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
+  // Bangkok — tuk-tuk night food cluster
+  'bangkok-tuk-tuk-chinatown-street-food-temple-night-tour': 'bangkok-street-food-tuk-tuk-night-tour',
+  'song-wat-road-evening-tour': 'bangkok-street-food-tuk-tuk-night-tour',
+  // Bangkok — Death Railway/Kanchanaburi same-intent pair
+  'kanchanaburi-guided-tour': 'bangkok-death-railway-bridge-river-kwai-hellfire-pass',
+  // Bangkok — longtail canal cruise pair
+  'museum-siam-boat-tour': 'bangkok-longtail-boat-canal-cruise-hidden-temples',
+  // Bangkok — Golden Mount ticket/tour same-product pair
+  'wat-saket-entry-ticket': 'wat-saket-guided-tour',
+  // Phuket — James Bond Island day-tour clones (private + evening stay: distinct)
+  'hong-island-guided-tour': 'james-bond-island-speedboat-tour-phuket',
+  // Phuket — bioluminescent Phang Nga pair (89i page is champion)
+  'panak-island-boat-tour': 'panak-island-guided-tour',
+  // Phuket — Phi Phi day-trip clones (private yacht + Khai variant stay)
+  'maya-bay-full-day-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
+  'maya-bay-speedboat-boat-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
+  // Phuket — same reserve, AM/PM variants
+  'hidden-forest-elephant-reserve-afternoon-tour': 'hidden-forest-elephant-reserve-guided-tour',
+  // Phuket — identical-title duplicate
+  'phuket-amulet-market-painting-walking-tour': 'phuket-amulet-market-walking-tour',
+  // Phuket — city/old-town tour pair (half-day → full-day champion)
+  'old-town-phuket-guided-tour': 'phuket-old-town-full-day-tour',
+  // Pattaya — Koh Larn pair
+  'koh-larn-coral-island-guided-tour': 'koh-larn-coral-island-full-day-tour',
+  // Krabi — four-islands cluster (premium catamaran + sunset variants stay)
+  'chicken-island-guided-tour': 'chicken-island-boat-tour',
+  'phra-nang-cave-beach-afternoon-tour': 'chicken-island-boat-tour',
+  'phra-nang-cave-beach-boat-tour': 'chicken-island-boat-tour',
+  // Krabi — Ao Thalane kayak pair
+  'ao-thalane-bay-half-day-tour': 'ao-thalane-guided-tour',
+  // Krabi — Hong Island day-tour pair (private + sunset stay)
+  'hong-island-boat-tour': 'hong-island-full-day-tour',
+  // Krabi — Phi Phi from Krabi pair (sunrise variant stays)
+  'maya-bay-adventure-boat-tour': 'maya-bay-islands-full-day-tour',
+  // Krabi — four-islands sunset pair (dinner cruise + 7-islands BBQ stay distinct)
+  'ao-nang-sunset-sunset-tour': 'chicken-island-sunset-tour',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
