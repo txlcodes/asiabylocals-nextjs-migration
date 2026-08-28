@@ -166,18 +166,18 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'kyoto-people-private-tour': 'kyoto-private-tour',
   'kyoto-kansai-private-tour': 'kyoto-private-tour',
   'kyoto-nissan-private-tour': 'kyoto-private-tour',
-  // Kyoto — evening cluster → kyoto-evening-tour (higashiyama stays: district-specific)
+  // Kyoto — evening cluster → kyoto-evening-tour (higashiyama stays: district-specific;
+  // kyoto-night-evening-tour and kyoto-walking-evening-tour unmapped 2026-08-28 —
+  // they're Fushimi Inari night products with 260+ real reviews, not evening-food dupes)
   'kyoto-evening-evening-tour': 'kyoto-evening-tour',
-  'kyoto-night-evening-tour': 'kyoto-evening-tour',
-  'kyoto-walking-evening-tour': 'kyoto-evening-tour',
   'kyoto-photoshoot-photography-tour': 'kyoto-photography-tour',
   'kyoto-food-food-tour': 'kyoto-food-tour',
   'kyoto-around-bike-tour': 'kyoto-bike-tour',
-  // Osaka — 4 food clones → osaka-food-tour
+  // Osaka — food clones → osaka-food-tour (osaka-flavors-group-tour unmapped
+  // 2026-08-28: 326-review distinct GYG product, not a clone)
   'osaka-food-food-tour': 'osaka-food-tour',
   'osaka-food-tour-tour': 'osaka-food-tour',
   'osaka-foodie-food-tour': 'osaka-food-tour',
-  'osaka-flavors-group-tour': 'osaka-food-tour',
   'osaka-walking-walking-tour': 'osaka-walking-tour',
   'osaka-photoshoot-photography-tour': 'osaka-photography-tour',
   'osaka-session-photography-tour': 'osaka-photography-tour',
