@@ -271,6 +271,64 @@ description: "Agra Fort ticket ₹650 foreign / ₹50 Indian, open sunrise to su
                 };
 
 
+            case 'delhi-to-agra':
+                return {
+                    title: 'Delhi to Agra: Train vs Car vs Bus (2026 Comparison)',
+                    seoTitle: 'Delhi to Agra 2026: Train vs Car vs Bus Compared',
+                    description: 'Gatimaan Express vs private car vs bus for the Delhi–Agra trip: exact times, 2026 prices, and which one fits your Taj Mahal plan. Honest comparison by local operators.',
+                    heroImage: '/blog/agra-guide-1.jpg',
+                    sections: [
+                        {
+                            title: "The Honest Answer First",
+                            content: "There are exactly three sensible ways to travel the 230 km from Delhi to Agra, and after running this route professionally for years, the honest summary is: **the Gatimaan Express train is the best value, the private car is the best experience, and the bus is what you take when the first two are sold out.** \n\nYour choice really depends on two questions: do you want a **sunrise Taj Mahal visit** (only the car makes that possible), and are you traveling **solo/as a couple** (train wins) or **as a family/group** (car wins on per-head cost and comfort). Everything below is the full working detail — times, 2026 prices, and the traps."
+                        },
+                        {
+                            title: "Train vs Car vs Bus: The Full 2026 Comparison",
+                            table: {
+                                headers: ["", "Gatimaan Express", "Private Car", "Bus / Coach"],
+                                rows: [
+                                    ["Journey time", "1h 40m each way", "3–3.5 hrs each way", "4.5–6 hrs each way"],
+                                    ["2026 cost (per person)", "~$68 all-in with guide + car in Agra", "~$100 all-in (cheaper per head for 3+)", "₹1,500–3,000"],
+                                    ["Departure", "08:10 fixed (Hazrat Nizamuddin)", "Any time — 06:00 for sunrise", "05:30–07:00 pickups"],
+                                    ["Time at monuments", "~10 hours in Agra", "6–8 hours (you control it)", "3–4 hours"],
+                                    ["Sunrise Taj possible?", "No (arrives 09:50)", "Yes — the only option", "No"],
+                                    ["Fatehpur Sikri add-on?", "Tight — not recommended", "Yes, comfortably", "No"],
+                                    ["Comfort", "Executive Chair Car + meals at seat", "Private A/C Innova, door-to-door", "Mixed; long pickup loops"],
+                                    ["Best for", "Solo, couples, train lovers", "Families, sunrise seekers, flexibility", "Tight budgets only"]
+                                ]
+                            },
+                            content: "Two details that decide it for most travelers: the Gatimaan's **return train leaves Agra at 8:05 PM**, giving you a famously unhurried ~10 hours in the city — more monument time than the car option. But the train can never see the Taj at sunrise, and [sunrise is genuinely the best time to visit](/india/agra/taj-mahal-opening-time). If dawn at the Taj is on your list, it's the car — or a night in Agra."
+                        },
+                        {
+                            isCTA: true,
+                            title: "Option 1: The Gatimaan Express Day Trip",
+                            content: "India's fastest train — 08:10 out of Delhi, 09:50 in Agra, Executive Chair Car with breakfast served at your seat. Our package includes confirmed CNF tickets (the #1 failure point of DIY bookings), a licensed guide waiting at Agra Cantt, an A/C car for the day, lunch, and the Taj Mahal + Agra Fort circuit before the 8:05 PM return.",
+                            image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772177540/tours/agra/tours/agra_1772177540329_0.jpg",
+                            buttonText: "See the Gatimaan Express Tour ($68)",
+                            buttonLink: "https://www.asiabylocals.com/india/agra/delhi-agra-round-trip-gatimaan-train"
+                        },
+                        {
+                            title: "Option 2: Private Car via the Yamuna Expressway",
+                            content: "The Yamuna Expressway made this drive genuinely pleasant: a smooth 3-hour run, most of it at 100 km/h past mustard fields. The car's superpowers are **timing freedom** (leave Delhi at 06:00, be at the Taj gates as they open — or earlier for [a sunrise entry](/india/agra/is-taj-mahal-closed-on-friday)) and **route freedom** (add Fatehpur Sikri, add Mehtab Bagh at sunset, stop when the kids need to). \n\nThe things to fix in writing before you book any car: whether **Agra Fort and Mehtab Bagh are included** or 'extra kilometers'; whether a **licensed guide** is included (a driver is not a guide); and an explicit **no-shopping-stops** clause — the marble emporium detour is Agra's oldest commission game. Our [same-day return tour by car](/india/agra/taj-mahal-return-guided-tour) fixes all three by default, as does the [private Taj Mahal tour from Delhi](/india/delhi/private-taj-mahal-tour-from-delhi)."
+                        },
+                        {
+                            title: "Option 3: The Bus (Read This Before Booking One)",
+                            content: "Delhi–Agra buses range from state-run coaches to private 'luxury' Volvos, at ₹1,500–3,000. The math that brochures skip: pickup loops around Delhi add 60–90 minutes before you even leave the city, and most bus tours allot **around 90 minutes at the Taj Mahal itself** — barely enough to walk to the mausoleum and back. You will spend roughly 10 hours in transit for 3 hours of sightseeing. \n\nIt is the right choice in exactly one situation: the budget is fixed, the date is fixed, and everything else is sold out. If two of you are traveling, note that two bus seats often cost more than the per-head price of a shared car day trip."
+                        },
+                        {
+                            title: "The Three Mistakes Everyone Makes on This Route",
+                            content: "**1. Booking a Friday.** The [Taj Mahal is closed every Friday](/india/agra/is-taj-mahal-closed-on-friday) for prayers. The trains and highways still run — straight into a wasted day. \n\n**2. Waitlisted Gatimaan tickets.** WL tickets frequently never confirm. If it doesn't say CNF, you may watch the train leave without you. Book early or book a package with confirmed seats. \n\n**3. No entry tickets in advance.** [Taj Mahal ticketing is 100% digital in 2026](/india/agra/taj-mahal-ticket-price-2026) — ₹1,300 for foreign visitors, QR at the gate. Buy before you travel; gate-WiFi ticket-buying at 09:50 with a queue behind you is nobody's favorite memory."
+                        }
+                    ],
+                    faqs: [
+                        { q: "What is the fastest way from Delhi to Agra?", a: "The **Gatimaan Express** — 1 hour 40 minutes from Hazrat Nizamuddin (Delhi) to Agra Cantt, departing 08:10 daily. It is India's fastest train at up to 160 km/h. By road, the Yamuna Expressway takes 3–3.5 hours door to door." },
+                        { q: "How much does a Delhi to Agra day trip cost in 2026?", a: "By **Gatimaan Express package** (confirmed tickets + guide + car in Agra + lunch): around **$68 per person**. By **private car** with licensed guide: around **$100 per person**, less per head for families. By **bus**: ₹1,500–3,000, but with only ~90 minutes at the Taj. Taj entry (₹1,300 for foreign visitors) is usually additional — confirm when booking." },
+                        { q: "Can I see the Taj Mahal at sunrise on a day trip from Delhi?", a: "Only **by car** — leaving Delhi around 03:30–04:00 to reach the gates by the 06:00 opening. The Gatimaan Express arrives at 09:50, and buses arrive later still. The alternative most sunrise-seekers choose: travel the evening before, stay one night in Agra, and take a [dedicated sunrise tour](/india/agra/taj-mahal-sunrise-guided-tour) at dawn." },
+                        { q: "Is one day enough for Agra from Delhi?", a: "Yes — a well-planned day covers the Taj Mahal (2.5 hrs), Agra Fort (1.5 hrs) and lunch comfortably by train or car. Add Fatehpur Sikri only on the car option. See the full [1-day Agra itinerary](/india/agra/1-day-agra-itinerary) for the hour-by-hour plan." },
+                        { q: "Delhi to Agra by train or car — which is better?", a: "**Train** if you're a solo traveler or couple who values speed and the rail experience — more total time in Agra, meals at your seat, no traffic. **Car** if you're a family or group, want a sunrise Taj visit, or want Fatehpur Sikri and Mehtab Bagh in the same day. Costs converge for groups of 3+, where the car usually wins outright." }
+                    ]
+                };
+
             case '1-day-agra-itinerary':
                 return {
                     title: '1-Day Agra Itinerary (2026): A Precision Tactical Plan',
