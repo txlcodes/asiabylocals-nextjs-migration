@@ -3265,13 +3265,13 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                { title: 'Best Time to Visit Sapporo', slug: 'best-time-to-visit-sapporo' },
-                { title: 'Sapporo Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
-                { title: 'Getting Around Sapporo', slug: 'getting-around-sapporo' },
-                { title: 'Sapporo Food Guide', slug: 'sapporo-food-guide' },
-                { title: 'Otaru Day Trip from Sapporo', slug: 'otaru-day-trip-from-sapporo' },
-                { title: 'Niseko & Hokkaido Ski Guide', slug: 'niseko-and-hokkaido-ski-guide' },
-                { title: 'Sapporo 3-Day Itinerary', slug: 'sapporo-3-day-itinerary' },
+                { title: 'Best Time to Visit Sapporo', slug: 'best-time-to-visit-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788014991/asiabylocals/tours/sapporo-hokkaido-day-trip-from-sapporo-asahiyama-zoo-blue-pond-shirahige-falls/img0.jpg' },
+                { title: 'Sapporo Snow Festival Guide', slug: 'sapporo-snow-festival-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015110/asiabylocals/tours/sapporo-asahikawa-biei-and-furano-small-group-winter-day-tour-from-sapporo/img0.jpg' },
+                { title: 'Getting Around Sapporo', slug: 'getting-around-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg' },
+                { title: 'Sapporo Food Guide', slug: 'sapporo-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015045/asiabylocals/tours/sapporo-sapporo-local-food-crawl-ten-plus-dishes-across-four-venues/img0.jpg' },
+                { title: 'Otaru Day Trip from Sapporo', slug: 'otaru-day-trip-from-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015071/asiabylocals/tours/sapporo-otaru-your-way-private-chauffeured-day-trip-from-sapporo/img0.jpg' },
+                { title: 'Niseko & Hokkaido Ski Guide', slug: 'niseko-and-hokkaido-ski-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015052/asiabylocals/tours/sapporo-sapporo-teine-powder-day-all-inclusive-private-ski-or-snowboard-class/img0.jpg' },
+                { title: 'Sapporo 3-Day Itinerary', slug: 'sapporo-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015094/asiabylocals/tours/sapporo-sapporo-essentials-private-tour-clock-tower-odori-park-and-hokkaido-shri/img0.jpg' },
               ].map((guide, idx) => (
                 <Link
                   key={idx}
@@ -3281,7 +3281,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg" alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3302,13 +3302,13 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                { title: 'Best Time to Visit Hiroshima', slug: 'best-time-to-visit-hiroshima' },
-                { title: 'Hiroshima 2-Day Itinerary', slug: 'hiroshima-2-day-itinerary' },
-                { title: 'Getting Around Hiroshima', slug: 'getting-around-hiroshima' },
-                { title: 'Peace Memorial Park Guide', slug: 'peace-memorial-park-guide' },
-                { title: 'Miyajima Island Guide', slug: 'miyajima-island-guide' },
-                { title: 'Hiroshima Food Guide', slug: 'hiroshima-food-guide' },
-                { title: 'Hiroshima Day Trips', slug: 'hiroshima-day-trips' },
+                { title: 'Best Time to Visit Hiroshima', slug: 'best-time-to-visit-hiroshima', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830482/asiabylocals/tours/hiroshima-hiroshima-history-walk-peace-park-a-bomb-dome-in-a-small-group/img0.jpg' },
+                { title: 'Hiroshima 2-Day Itinerary', slug: 'hiroshima-2-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830513/asiabylocals/tours/hiroshima-hiroshima-miyajima-in-one-day-a-bomb-dome-itsukushima-with-a-local/img0.jpg' },
+                { title: 'Getting Around Hiroshima', slug: 'getting-around-hiroshima', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830490/asiabylocals/tours/hiroshima-hiroshima-peace-memorial-park-a-bomb-dome-guided-group-walk/img0.jpg' },
+                { title: 'Peace Memorial Park Guide', slug: 'peace-memorial-park-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830475/asiabylocals/tours/hiroshima-hiroshima-untold-why-the-atomic-bomb-fell-guided-history-walk/img0.jpg' },
+                { title: 'Miyajima Island Guide', slug: 'miyajima-island-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830522/asiabylocals/tours/hiroshima-miyajima-sacred-island-walk-floating-torii-shrines-hidden-corners/img0.jpg' },
+                { title: 'Hiroshima Food Guide', slug: 'hiroshima-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830500/asiabylocals/tours/hiroshima-hiroshima-after-dark-food-culture-evening-walk-with-local-dinner/img0.jpg' },
+                { title: 'Hiroshima Day Trips', slug: 'hiroshima-day-trips', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830558/asiabylocals/tours/hiroshima-miyajima-great-torii-kayak-tour-paddle-a-world-heritage-bay/img0.jpg' },
               ].map((guide, idx) => (
                 <Link
                   key={idx}
@@ -3318,7 +3318,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830475/asiabylocals/tours/hiroshima-hiroshima-untold-why-the-atomic-bomb-fell-guided-history-walk/img0.jpg" alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3339,16 +3339,16 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                { title: 'Best Time to Visit Osaka', slug: 'best-time-to-visit-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka 3-Day Itinerary', slug: 'osaka-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Getting Around Osaka', slug: 'getting-around-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka Castle Guide', slug: 'osaka-castle-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Dotonbori Guide', slug: 'dotonbori-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka Food Guide', slug: 'osaka-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka to Nara Day Trip', slug: 'osaka-to-nara-day-trip', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka to Kyoto Day Trip', slug: 'osaka-to-kyoto-day-trip', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Shinsekai Guide', slug: 'shinsekai-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
-                { title: 'Osaka Nightlife Guide', slug: 'osaka-nightlife-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg' },
+                { title: 'Best Time to Visit Osaka', slug: 'best-time-to-visit-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671582/asiabylocals/tours/osaka-2hrs-guided-tour-osaka-castle-and-shrine-with-local-guide/img0.jpg' },
+                { title: 'Osaka 3-Day Itinerary', slug: 'osaka-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671498/asiabylocals/tours/osaka-osaka-main-sights-and-hidden-spots-guided-walking-tour/img0.png' },
+                { title: 'Getting Around Osaka', slug: 'getting-around-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671512/asiabylocals/tours/osaka-osaka-original-street-kart-experience-1-hr/img0.jpg' },
+                { title: 'Osaka Castle Guide', slug: 'osaka-castle-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671582/asiabylocals/tours/osaka-2hrs-guided-tour-osaka-castle-and-shrine-with-local-guide/img0.jpg' },
+                { title: 'Dotonbori Guide', slug: 'dotonbori-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671633/asiabylocals/tours/osaka-osaka-private-night-cruise-through-the-city-of-water/img0.png' },
+                { title: 'Osaka Food Guide', slug: 'osaka-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671622/asiabylocals/tours/osaka-osaka-street-food-tour-takoyaki-okonomiyaki-local-flavor/img0.webp' },
+                { title: 'Osaka to Nara Day Trip', slug: 'osaka-to-nara-day-trip', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671598/asiabylocals/tours/osaka-osaka-nara-custom-private-tour-with-english-driver/img0.jpg' },
+                { title: 'Osaka to Kyoto Day Trip', slug: 'osaka-to-kyoto-day-trip', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671558/asiabylocals/tours/osaka-osaka-full-day-sightseeing-tour-by-private-vehicle/img0.jpg' },
+                { title: 'Shinsekai Guide', slug: 'shinsekai-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671505/asiabylocals/tours/osaka-osaka-small-group-big-flavors-hidden-local-secrets-tour/img0.png' },
+                { title: 'Osaka Nightlife Guide', slug: 'osaka-nightlife-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671589/asiabylocals/tours/osaka-osaka-lgbtq-tour-with-dinner-and-drinks/img0.jpg' },
               ].map((guide, idx) => (
                 <Link
                   key={idx}
