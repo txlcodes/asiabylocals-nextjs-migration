@@ -10964,18 +10964,6 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
-    if (slug === 'sapporo-chauffeured-full-day-tour') {
-        return {
-            averageRating: 3.66, totalReviews: 5, guideRating: 3.66, valueRating: 3.66,
-            reviews: [
-                { author: 'Midori', country: 'Verified GetYourGuide review', rating: 5, date: '2024-11-10T13:09:08+01:00', text: 'We had a most enjoyable day. It was great that we were able to go to all the places we wanted to visit. Our driver was excellent and suggested visiting Hokkaido Shrine first thing in the morning while waiting for the places we wanted to visit to open at 10am. It was a lovely shrine and we were glad we got to go there. It was so good that we were able to take our time at each stop and to have our driver waiting for us when we were ready. We would highly recommend this tour.' },
-                { author: 'Pearl', country: 'Verified GetYourGuide review', rating: 3, date: '2026-07-03T15:05:27+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 3, date: '2026-03-18T12:02:07+01:00', text: 'Found this tour operator quite mediocre. The driver was professional and safe but the four is 10 hours customizable and there was no real ideas or strategy except taking the 30 minute drive to oturu and back- why pay $500 for 30 minutes there and have a driver wait for you. The operator is in Hong Kong so doesn’t know local options and has no idea and fairly rude It worked out because hit hotel planned a day for us and gave us a strategy. Would have been terrible if they didn’t help. Got back to Sapporo 6 hours into a -0 hour tour- driver said he didn’t want to wait as the restaurant we wanted to eat at as there is no parking- said why don’t you just take a taxi then I don’t need to wait for you again- we paid for 10 hours so not sure why it’s a hassle for him but we were over it and just agreed and took a cab home Use a different operator that is local and cares' },
-                { author: 'Alejandra', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-22T03:24:51+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2024-12-06T22:37:54+01:00', text: '' },
-            ],
-        };
-    }
 
     if (slug === 'sapporo-shikotsu-group-tour') {
         return {

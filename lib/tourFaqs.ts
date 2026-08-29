@@ -7583,15 +7583,6 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
-  if (slug === 'sapporo-chauffeured-full-day-tour') {
-    return [
-      { question: 'Is this a private tour?', answer: 'Yes. You have a professional driver and a vehicle for your group alone, up to four guests, for ten full hours, and the itinerary is built around your group rather than a timetable. There are no other travellers along and no fixed schedule to meet.' },
-      { question: 'Can I change the plan on the day?', answer: 'That is the main advantage of booking it privately. Spend the morning in Otaru\'s old quarter and the afternoon somewhere else, or give the whole day to the town and go slowly; change your mind halfway through and the plan changes with you.' },
-      { question: 'How long is the drive to Otaru?', answer: 'Otaru sits on the coast a short drive west of Sapporo, roughly an hour door to door, with pick-up from your Sapporo accommodation in the morning and a return in the evening. That leaves the bulk of the ten hours for the town itself rather than for travel.' },
-      { question: 'Are meals and entry fees included?', answer: 'The price covers your professional guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, and the day includes a break for lunch that you pay for yourself.' },
-      { question: 'Who does this tour suit best?', answer: 'Families, older travellers, photographers and anyone who would rather not spend a holiday day being herded. Having a driver also removes the awkward parts of a Hokkaido day trip: no train timetables, no walking between scattered sights, and somewhere warm to sit when the weather turns, which in this part of Japan it frequently does.' },
-    ];
-  }
 
   if (slug === 'sapporo-shikotsu-group-tour') {
     return [
