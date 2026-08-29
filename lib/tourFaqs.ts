@@ -7553,6 +7553,8 @@ if (slug === "hong-island-boat-tour") {
 
   if (slug === 'sapporo-inclusive-private-tour') {
     return [
+      { question: 'When does this ski tour operate?', answer: 'This is a **seasonal winter tour**. It runs roughly from **10 December to the end of March** each year, matching the Hokkaido ski season at Sapporo Teine. Outside those dates the tour does not operate — message us and we can suggest other Sapporo experiences for your travel window.' },
+
       { question: 'Do I need my own ski or snowboard gear?', answer: 'No. Equipment rental and lift tickets are already included, along with round-trip transfers from Sapporo, the private class and on-site assistance from your local driver. That removes the queuing at a counter in a language you do not read and the guesswork about which pass covers which lift.' },
       { question: 'Do I need previous skiing or snowboarding experience?', answer: 'No. The class runs for around two hours in a private format, which means the instruction is pitched at you rather than at the average of a mixed group, whether you are strapping in for the first time or refining technique you already have. After the lesson you have a further couple of hours to use the mountain freely.' },
       { question: 'How long is the day and how far is the resort?', answer: 'The whole outing runs about six hours. Pick-up is in Sapporo and Sapporo Teine is roughly an hour away by road, with the return transfer bringing you back to the city in the early afternoon. Exact pick-up details are confirmed with the operator when you book.' },
