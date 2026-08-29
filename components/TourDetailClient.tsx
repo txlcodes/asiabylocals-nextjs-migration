@@ -1293,6 +1293,17 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Nara-specific FAQs
+    if (cityLower === 'nara' || tourTitle.toLowerCase().includes('nara') || tourTitle.toLowerCase().includes('todai-ji') || tourTitle.toLowerCase().includes('deer')) {
+      faqs.push(
+        { question: 'When is the best time to visit Nara?', answer: 'Late March to early April for cherry blossom in Nara Park, or mid-to-late November for autumn colour around Todai-ji — our pick for the best overall balance of weather and crowds. Full season breakdown in our [best time to visit Nara guide](/japan/nara/best-time-to-visit-nara).' },
+        { question: 'Are the deer in Nara Park safe to feed?', answer: 'Yes, generally — they\'re unusually tame from centuries of protected contact with visitors. Buy **shika senbei** crackers (~¥200) from a licensed vendor, and be extra cautious during **October-December rutting season**, when Nara city issues an annual warning about more assertive bucks. Full etiquette in our [Nara deer park guide](/japan/nara/nara-deer-park-guide).' },
+        { question: 'What is the Great Buddha at Todai-ji?', answer: 'A **15-metre bronze Buddha** cast in 752 CE, one of the largest bronze statues in the world, housed in the Daibutsuden — once the largest wooden building on Earth. History and what to look for inside is in our [Todai-ji temple guide](/japan/nara/todai-ji-temple-guide).' },
+        { question: 'Is Nara better as a day trip from Kyoto or Osaka?', answer: 'Both work well — **about 45 minutes from Kyoto**, **35-40 minutes from Osaka** via Kintetsu. Train options and a realistic day schedule are in our [Nara day trip guide](/japan/nara/nara-day-trip-from-kyoto-osaka).' },
+        { question: 'How much time do I need in Nara?', answer: 'A comfortable half day (about 4 hours) covers Nara Park, Todai-ji and the walk to Kasuga Taisha. Our [Nara half-day itinerary](/japan/nara/nara-half-day-itinerary) breaks it down hour by hour.' }
+      );
+    }
+
     // Add Hiroshima-specific FAQs
     if (cityLower === 'hiroshima' || tourTitle.toLowerCase().includes('hiroshima') || tourTitle.toLowerCase().includes('miyajima')) {
       faqs.push(

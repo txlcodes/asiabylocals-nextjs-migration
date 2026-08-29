@@ -106,6 +106,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'osaka': { country: 'japan', city: 'osaka' },
   'hiroshima': { country: 'japan', city: 'hiroshima' },
   'sapporo': { country: 'japan', city: 'sapporo' },
+  'nara': { country: 'japan', city: 'nara' },
   'bali': { country: 'indonesia', city: 'ubud' },
   'yogyakarta': { country: 'indonesia', city: 'yogyakarta' },
   'bangkok': { country: 'thailand', city: 'bangkok' },
@@ -237,6 +238,12 @@ export const SAPPORO_INFO_SLUGS = [
   'best-time-to-visit-sapporo', 'sapporo-snow-festival-guide', 'getting-around-sapporo',
   'sapporo-food-guide', 'otaru-day-trip-from-sapporo', 'niseko-and-hokkaido-ski-guide',
   'sapporo-3-day-itinerary'
+];
+
+// Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
+export const NARA_INFO_SLUGS = [
+  'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
+  'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

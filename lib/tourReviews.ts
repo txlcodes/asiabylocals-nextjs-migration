@@ -11013,5 +11013,23 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === 'naramachi-old-town-mini-tour') {
+        return {
+            averageRating: 4.93, totalReviews: 102, guideRating: 4.93, valueRating: 4.93,
+            reviews: [
+                { author: 'Sharon', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-16T06:55:16+02:00', text: 'This experience is very beutiful and the guide is very professional and very kindly. I raccomend this experience!' },
+                { author: 'Mhairi', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-11T23:10:23+02:00', text: 'Great experience for the family, really informative guide that welcomed questions.' },
+                { author: 'Victoria', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-28T07:55:48+02:00', text: 'This was a beautiful and enriching experience for our family. We truly enjoyed it. Thank you so much!' },
+                { author: 'Ewa', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-13T08:48:47+02:00', text: 'It was very good way to spent two hours. We had fun taking photos in our kimonos and also learnt a lot about Tea ceremony in Japan. I highly recommend this activity as a break after feeding deer in the park and before going to visit more places in Nara. Our Tea Master was knowledgeable and patient with us . Thank you !' },
+                { author: 'Sarah', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-28T13:09:41+02:00', text: 'really fun and great service. The ladies there were so sweet!' },
+                { author: 'Rhonda', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-31T23:20:48+02:00', text: 'Very enjoyable. Only wish it was quieter near the tea ceremony. Hard to hear at times because of people outside.' },
+                { author: 'Russ', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-23T13:48:29+02:00', text: 'Great, I enjoyed having the kimono fitted and learning about the tea ceremony.' },
+                { author: 'Hollie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-17T09:14:47+02:00', text: 'Very nice experience. Well worth the expense. The girls had a great time. Calming and informative tea ceremony. Thank you to the staff.' },
+                { author: 'Clément', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-16T07:27:52+02:00', text: 'The ladies were very welcoming and smiling. It was an incredible moment where time stood still. They tell you the history of the tea ceremony and teach you how to do it. The kimonos are very pretty. I 100% recommend the experience for an immersion in the Japanese atmosphere' },
+                { author: 'Simona', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-02T22:12:53+02:00', text: 'We had an absolutely unforgettable experience taking part in a traditional Japanese tea ceremony. From the very beginning, everything was handled with such care and attention to detail that we immediately felt immersed in the culture. A special mention goes to the wonderful staff who helped us dress in beautiful kimonos. They were incredibly kind, patient, and attentive, making sure every detail was perfect while also explaining the meaning behind each element. Their warmth and professionalism made the experience even more enjoyable.The tea ceremony itself was equally remarkable. Our guide was exceptional—knowledgeable, passionate, and very engaging. They carefully guided us through each step of preparing matcha tea, explaining not only the technique but also the philosophy and history behind it. It was both educational and deeply relaxing. This experience was far more than just an activity—it was a genuine cultural immersion that we will always remember. I would highly recommend it!' },
+            ],
+        };
+    }
+
     return null;
 };

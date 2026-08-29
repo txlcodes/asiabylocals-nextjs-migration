@@ -7754,5 +7754,41 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === 'nara-park-morning-tour') {
+    return [
+      { question: 'Why does the tour start so early?', answer: 'Nara Park and Todai-ji fill with tour buses by late morning, so starting early means walking through the deer park and the Great Buddha Hall while they\'re still genuinely calm. The tour wraps before midday, before the crowds peak.' },
+      { question: 'Can I depart from Kyoto or Osaka instead of Nara itself?', answer: 'Yes, departure options from Kyoto or Osaka can be arranged with the operator ahead of your booking — otherwise the default meeting point is Kintetsu Nara Station.' },
+      { question: 'Is this a walking tour or does it use a vehicle?', answer: 'Entirely on foot, covering roughly 3-4 km at a relaxed pace with stops for photos. Comfortable walking shoes are essential.' },
+      { question: 'What happens after the tour ends?', answer: 'Since it wraps before noon, you have the rest of the day free — most guests continue on to explore Naramachi\'s old merchant quarter independently, or head back to Kyoto or Osaka.' },
+    ];
+  }
+
+  if (slug === 'nara-park-walking-tour') {
+    return [
+      { question: 'How small is the group on this tour?', answer: 'It\'s run in a small-group format rather than a large coach tour, which keeps the pace flexible and lets the guide actually answer questions as you go.' },
+      { question: 'What does the 2.5-hour route cover?', answer: 'Nara Park\'s sacred deer, then a walk to Todai-ji\'s Great Buddha Hall to see the 15-metre bronze Daibutsu — Nara\'s two essential sights covered in one easy loop.' },
+      { question: 'Is Todai-ji entry included in the price?', answer: 'No — the temple entry ticket is paid separately at the gate; the tour price covers your guide and the walking route.' },
+      { question: 'How much walking is involved?', answer: 'About 2-3 km total, entirely on foot between Kintetsu Nara Station, the park and the temple grounds.' },
+    ];
+  }
+
+  if (slug === 'yakushi-ji-temple-spiritual-tour') {
+    return [
+      { question: 'How is this different from a standard Nara Park tour?', answer: 'It skips Nara Park and Todai-ji entirely and heads to Nara Prefecture\'s quieter UNESCO temples — Yakushi-ji, Toshodai-ji, and a choice of Hase-dera or Muro-ji — which most day-trippers never reach. Best suited if you\'ve already covered the deer park separately.' },
+      { question: 'Is the vehicle actually private?', answer: 'Yes — a fully licensed green-plate vehicle and driver for your group alone, with hotel pickup from Osaka, Kyoto or Nara, and no other travelers added to the group.' },
+      { question: 'How do I choose between Hase-dera and Muro-ji?', answer: 'Route and temple choice are confirmed directly with the operator via WhatsApp ahead of your tour date — Hase-dera has a famous covered stair corridor, while Muro-ji is a remote mountain temple historically known as the "Women\'s Koyasan."' },
+      { question: 'Are temple entry fees included?', answer: 'No — the price covers the private vehicle, driver and hotel transfers; temple entry fees and lunch are paid separately.' },
+    ];
+  }
+
+  if (slug === 'naramachi-old-town-mini-tour') {
+    return [
+      { question: 'Do I need to bring my own kimono?', answer: 'No — kimono rental and full dressing, including the obi sash, are included. Staff help you choose a pattern and dress you properly, which most visitors can\'t do alone.' },
+      { question: 'Can I walk around Naramachi in the kimono?', answer: 'Yes — there\'s free time built in before or after the tea ceremony to walk Naramachi\'s historic lanes in kimono for photos, which is a common and welcomed sight in this part of the city.' },
+      { question: 'What happens during the tea ceremony?', answer: 'Your host demonstrates the traditional matcha preparation and serving process, explains the etiquette behind chado (the "way of tea"), and serves seasonal wagashi sweets before the matcha itself. You\'re then guided through drinking your own bowl correctly.' },
+      { question: 'How long does the whole experience take?', answer: 'About 1.5 hours total, split between kimono dressing and photo time, and the seated tea ceremony itself inside a historic machiya townhouse.' },
+    ];
+  }
+
     return null;
 };

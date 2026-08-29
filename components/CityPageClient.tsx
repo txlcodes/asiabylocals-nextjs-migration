@@ -3294,6 +3294,41 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
+        {/* Nara Essential Guides Section */}
+        {city.toLowerCase() === 'nara' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Nara
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Best Time to Visit Nara', slug: 'best-time-to-visit-nara', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031879/asiabylocals/tours/nara-early-morning-tour/img0.jpg' },
+                { title: 'Nara Deer Park Guide', slug: 'nara-deer-park-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031886/asiabylocals/tours/nara-deer-park-todaiji-walking-tour/img0.jpg' },
+                { title: 'Todai-ji Temple Guide', slug: 'todai-ji-temple-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031886/asiabylocals/tours/nara-deer-park-todaiji-walking-tour/img1.png' },
+                { title: 'Nara Day Trip from Kyoto or Osaka', slug: 'nara-day-trip-from-kyoto-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031897/asiabylocals/tours/nara-deep-temple-mountain-escape/img0.png' },
+                { title: 'Nara Half-Day Itinerary', slug: 'nara-half-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031909/asiabylocals/tours/nara-kimono-tea-ceremony-experience/img0.jpg' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/japan/nara/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Hiroshima Essential Guides Section */}
         {city.toLowerCase() === 'hiroshima' && (
           <section className="mb-16">
