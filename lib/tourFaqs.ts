@@ -7470,5 +7470,296 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  // --- SAPPORO TOURS (2026-08) ---
+  if (slug === 'sapporo-full-day-tour') {
+    return [
+      { question: 'How long is the day and how much of it is spent travelling?', answer: 'The tour runs about nine hours, departing Sapporo around 8:00 AM and returning by roughly 5:00 PM. The first leg north takes around two hours, and there is further driving between the countryside stops. You spend the longest single block at Asahiyama Zoo, with around two hours there at your own pace.' },
+      { question: 'Where does the tour start and finish?', answer: 'You travel by coach from Sapporo, and two pick-up points and two drop-off points are available depending on the option you choose, so you can join and finish wherever suits your stay. The exact meeting point and timing are confirmed with the operator when you book.' },
+      { question: 'Is lunch included?', answer: 'No. The price covers your professional local guide and all fees mentioned in the itinerary, but meals, personal expenses and gratuities are not included. There is time at the zoo and at the later stops to buy food, and the small shops at the Blue Pond and Ningle Terrace are useful for a snack.' },
+      { question: 'What should I wear and bring?', answer: 'Most of the day is spent outdoors on foot at the zoo, the waterfall, the pond shoreline and the Ningle Terrace woodland paths, so comfortable walking shoes matter. Hokkaido weather changes quickly and the countryside north of Sapporo is noticeably colder than the city, so bring layers and a windproof jacket. In winter, waterproof boots with grip are worth having, as paths can be snowy or icy.' },
+      { question: 'Is this suitable for children?', answer: 'Yes. Asahiyama Zoo is one of the most child-friendly attractions in Hokkaido, and the rest of the day is short walks and photo stops rather than hiking. The main thing to weigh is the length of the day and the coach time, so bring snacks and something to occupy younger children on the drives.' },
+    ];
+  }
+
+  if (slug === 'sapporo-seafood-food-tour') {
+    return [
+      { question: 'What exactly is included in the price?', answer: 'You get a professional local guide for the two-and-a-half-hour walk and all fees mentioned in the itinerary, finishing with a fresh seafood lunch at Nijo Market. Personal expenses, any additional food or drink you order and gratuities are not included.' },
+      { question: 'How much walking is involved?', answer: 'It is an easy, flat and entirely walkable route through central Sapporo, moving from the Clock Tower to the TV Tower, on through the Sosei East Area and finishing at Nijo Market. There is no hill work and no long stretches, so it suits most fitness levels. Comfortable shoes are still the right choice, and in winter you will want boots with grip for icy pavements.' },
+      { question: 'Can you cater for dietary restrictions?', answer: 'The lunch is built around Hokkaido seafood, so it is not a good fit for anyone who avoids fish or shellfish. If you have allergies, or halal or vegetarian requirements, flag them at the time of booking so the operator can tell you what can be arranged before you commit.' },
+      { question: 'Where do we meet?', answer: 'The walk begins in central Sapporo at the Sapporo Clock Tower, with the exact meeting point and start time confirmed with the operator when you book. It finishes at Nijo Market in the middle of the city, so you are well placed to carry on exploring afterwards.' },
+      { question: 'Is this a good first activity in Sapporo?', answer: 'Yes. It works well as a first orientation on your opening morning, because the guide sets out how the settlement grew and how the modern grid was laid out, which makes the rest of your stay easier to read. It also works later in a trip if you already know the outline and want the background filled in.' },
+    ];
+  }
+
+  if (slug === 'sapporo-private-tour') {
+    return [
+      { question: 'How long is the tour and can I choose?', answer: 'You choose between a four-hour and a six-hour itinerary. The four-hour option suits a focused half day covering a compact set of highlights, while the six hours gives room to combine the central sights with somewhere further out and a proper stop to eat.' },
+      { question: 'Is the itinerary fixed?', answer: 'No, nothing is fixed in advance. You tell your nationally licensed guide what draws you to Sapporo and the route is assembled around that on the day, whether your interest runs to the modern face of the city or the traditional side behind it. Because the tour is private, you can linger somewhere for an unhurried hour or keep moving to fit more in.' },
+      { question: 'Is this a private tour or will I be with other travellers?', answer: 'It is private, for your group only, with a maximum of four guests. There is no coach waiting on you and no other travellers setting the pace.' },
+      { question: 'Are meals and entrance fees included?', answer: 'The price covers your professional licensed guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, so budget separately for lunch and for anything you choose to buy along the way.' },
+      { question: 'What is the benefit of a nationally licensed guide?', answer: 'A licensed guide brings more than directions: they can explain how Sapporo differs from the cities of Honshu, why it looks the way it does, and what deserves your limited time in a city that spreads out more than most in Japan. The practical help matters too, from working out transport to reading a menu to knowing which of several similar-looking places locals actually use.' },
+    ];
+  }
+
+  if (slug === 'sapporo-corners-experience') {
+    return [
+      { question: 'How long does this experience last?', answer: 'The duration is flexible and confirmed with the operator when you book, so you can shape it around the rest of your day. The sample running order starts mid-morning and wraps up around lunchtime, moving from the iconic sights to hidden corners and local flavors.' },
+      { question: 'Is it a group tour?', answer: 'No, it is a private walking tour with a local host for your group only, capped at four guests. That is what allows the walk to be tailored on the spot rather than following a fixed script.' },
+      { question: 'Is food included?', answer: 'The price covers your local host and all fees mentioned in the itinerary. Local flavors are part of the walk, but meals, personal expenses and gratuities are not included, so bring some cash for anything you want to try. Mention allergies or halal or vegetarian needs when you book so your host can steer you to suitable places.' },
+      { question: 'How much walking should I expect?', answer: 'The whole experience is on foot through central Sapporo, so you should be comfortable walking at an easy pace with stops along the way. Sapporo is flat, which helps, but in winter the pavements can be snowy and icy, so waterproof boots with grip and warm layers make a real difference.' },
+      { question: 'What makes this different from a standard guided tour?', answer: 'Your host is a local rather than a scripted guide, so the conversation goes both ways. You can ask about anything from where they eat on a Tuesday night to how the city handles its winters, and the route bends towards whatever you are curious about, including side streets and hidden corners that never make a guidebook.' },
+    ];
+  }
+
+  if (slug === 'sapporo-morning-tour') {
+    return [
+      { question: 'What does the two-hour route cover?', answer: 'You start at the Sapporo TV Tower with around half an hour to take in the views along Odori, then walk west to the Sapporo Clock Tower, and finish at the red brick Former Hokkaido Government Office. The guided commentary is the substance of it, turning three landmarks into a coherent story about how the city came to exist.' },
+      { question: 'How demanding is the walk?', answer: 'The whole route is flat, central and easily walkable, which makes it suitable for most fitness levels. Wear comfortable shoes, and in winter choose boots with grip, since Sapporo pavements ice over and the walking is all outdoors between stops.' },
+      { question: 'What time does it finish?', answer: 'The tour is designed as a morning walk and is done before midday, which leaves the rest of your day free for the markets, food or a trip out of town. Exact timings are confirmed with the operator when you book.' },
+      { question: 'Are food and drinks included?', answer: 'No. The price covers your professional local guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, though you finish in the centre of the city with plenty of options nearby.' },
+      { question: 'Is this suitable if I have already walked around the city myself?', answer: 'It can be. These are three landmarks you could find in twenty minutes with a map, so the value is in the commentary rather than the route. If you have already seen them without context, the guide\'s explanation of what they meant and how they fit together is exactly what you were missing.' },
+    ];
+  }
+
+  if (slug === 'sapporo-noboribetsu-full-day-tour') {
+    return [
+      { question: 'What does the day include?', answer: 'It is a full day by coach from Sapporo taking in Lake Toya, a break at Lake Hill Farm, the young volcanic dome of Showa Shinzan and the steam vents of Noboribetsu Hell Valley. The price covers a professional local guide and all fees mentioned in the itinerary; meals, personal expenses and gratuities are not included.' },
+      { question: 'Does the tour change with the season?', answer: 'Yes. Depending on the time of year the day also takes in Meisui Park outside winter, or a snowmobile adventure once the snow has arrived, so the trip has a different character through the year. The operator will confirm which version applies to your date when you book.' },
+      { question: 'Where does it start and finish?', answer: 'Departure is from Sapporo, with two starting points and two drop-off points offered so you can join and finish where it suits you. The exact meeting point is confirmed with the operator on booking.' },
+      { question: 'How much walking is there?', answer: 'Each stop involves walking rather than hiking: an hour on the Lake Toya shore, free time around Showa Shinzan, and the boardwalks through Noboribetsu Hell Valley. Sturdy comfortable shoes are enough in warmer months, but in winter you want waterproof boots with good grip, since the ground around the volcanic basin and the lakeshore gets snowy and slick.' },
+      { question: 'What should I bring?', answer: 'Layers and a windproof jacket, because Lake Toya and the volcanic terrain are exposed and colder than central Sapporo. Bring cash for lunch during the free hour at Showa Shinzan, and a camera, since the caldera lake, the pasture at Lake Hill Farm and the sulphur-stained basin at Hell Valley are the visual highlights of the day.' },
+    ];
+  }
+
+  if (slug === 'sapporo-food-tour') {
+    return [
+      { question: 'How much food and drink is included?', answer: 'You taste more than ten dishes across four different venues over four hours, and one stop is a proper izakaya with a sixty-minute all-you-can-drink plan, so you can settle in without doing arithmetic every time you order. Come hungry, because ten dishes across four venues adds up to a full evening\'s eating.' },
+      { question: 'What time does the crawl run?', answer: 'It is an evening tour, meeting at Odori BISSE in central Sapporo in the late afternoon and running for about four hours through the parts of the city that come alive after dark. The exact meeting point and start time are confirmed with the operator when you book.' },
+      { question: 'Can you accommodate dietary restrictions?', answer: 'The crawl is built around Sapporo\'s local specialties, so it is worth flagging any allergies or halal or vegetarian requirements at the time of booking. That gives the operator the chance to tell you what can be adapted across the four venues before you commit.' },
+      { question: 'Is there much walking between venues?', answer: 'Yes, and it is part of the experience. You walk between the four venues through central Sapporo, which is flat and compact, so it is easy going. In winter, warm layers and boots with grip are worth having, since you will be stepping in and out of the cold repeatedly over the evening.' },
+      { question: 'Will this help me eat out on my own afterwards?', answer: 'That is one of the best reasons to do it early in your trip. Once your guide has shown you how an izakaya menu is structured, what to order and how to ask for it, you can go back on your own for the rest of your stay with far more confidence.' },
+    ];
+  }
+
+  if (slug === 'sapporo-food-food-tour') {
+    return [
+      { question: 'Is this tour private?', answer: 'Yes, it is a private three-hour food walk for your group only, up to four guests, with a local host rather than a scripted guide. There is no group to keep pace with and no fixed running order, so you can stop when something looks good and stay longer somewhere that turns out to be the highlight.' },
+      { question: 'What kinds of food will we try?', answer: 'Sapporo\'s most iconic dishes are all on the table, from the city\'s own style of ramen to the fresh seafood Hokkaido\'s waters are known for, with lively markets worked into the walk. Your host explains what makes each one particular to this place, and the route bends toward whatever you most want to eat.' },
+      { question: 'Are the food costs included?', answer: 'The price covers your local host and all fees mentioned in the itinerary. Personal expenses, meals unless specified and gratuities are not included, so carry some cash for extras you decide to add along the way.' },
+      { question: 'Can you handle dietary restrictions?', answer: 'Because the route is shaped around what you want to eat, there is more flexibility here than on a fixed tour. Even so, tell the operator about allergies or halal or vegetarian requirements when you book, so your host can plan stops that genuinely work for you.' },
+      { question: 'How much walking is involved?', answer: 'You cover ground on foot between stops through the neighbourhoods where the food scene lives, which gives you the geography as well as the flavours. It is an easy, flat walk at a relaxed pace over three hours; wear comfortable shoes, and in winter add warm layers and boots with grip.' },
+    ];
+  }
+
+  if (slug === 'sapporo-inclusive-private-tour') {
+    return [
+      { question: 'Do I need my own ski or snowboard gear?', answer: 'No. Equipment rental and lift tickets are already included, along with round-trip transfers from Sapporo, the private class and on-site assistance from your local driver. That removes the queuing at a counter in a language you do not read and the guesswork about which pass covers which lift.' },
+      { question: 'Do I need previous skiing or snowboarding experience?', answer: 'No. The class runs for around two hours in a private format, which means the instruction is pitched at you rather than at the average of a mixed group, whether you are strapping in for the first time or refining technique you already have. After the lesson you have a further couple of hours to use the mountain freely.' },
+      { question: 'How long is the day and how far is the resort?', answer: 'The whole outing runs about six hours. Pick-up is in Sapporo and Sapporo Teine is roughly an hour away by road, with the return transfer bringing you back to the city in the early afternoon. Exact pick-up details are confirmed with the operator when you book.' },
+      { question: 'What should I wear?', answer: 'Come dressed for a full day on Hokkaido snow: warm base layers, a waterproof jacket and trousers, gloves, goggles and a hat. The rental covers skis or a board and boots, but personal clothing is up to you. Sun glare off fresh snow is strong even on cold days, so eye protection matters.' },
+      { question: 'Is it a private class or shared with others?', answer: 'It is private, for your group only, with a maximum of four guests, and your driver stays available through the day for on-site assistance. The tour is priced per person, and lunch and personal expenses are not included.' },
+    ];
+  }
+
+  if (slug === 'sapporo-hopping-experience') {
+    return [
+      { question: 'How many bars do we visit and are drinks included?', answer: 'You visit three different venues over about three hours, a mix of bars and izakaya, and drinks and snacks at each stop are included along with your local guide. Anything you order beyond that, plus gratuities, is on you.' },
+      { question: 'What sorts of drinks will we try?', answer: 'Depending on the venue you may taste local sake, Hokkaido wine or craft beer from a city that has been brewing seriously for well over a century, with your guide talking you through what is in front of you. The aim is to understand the scene, not just to drink: how an izakaya works, what people order and in what order, and why certain drinks belong to this part of Japan.' },
+      { question: 'Where does the evening start and end?', answer: 'It starts at the Sapporo TV Tower in the early evening and finishes near Odori around three hours later, so you are left in the middle of everything with the night still ahead of you if you want to keep going. Exact meeting details are confirmed with the operator when you book.' },
+      { question: 'Is it suitable for solo travellers?', answer: 'Yes. It is sociable and easy to join alone, with up to ten guests, and it is a fast way to feel at home in a city you have only just arrived in. It is an adult drinking experience, so it is not aimed at children.' },
+      { question: 'Is there much walking?', answer: 'You walk between the three venues through central Sapporo after dark, which is a different city from the one you see in daylight. The distances are short and the ground is flat, but in winter wear warm layers and boots with grip, since you will be outside repeatedly between stops.' },
+    ];
+  }
+
+  if (slug === 'sapporo-expert-experience') {
+    return [
+      { question: 'How much ramen do we actually eat?', answer: 'Three mini bowls at three different shops over a little more than two hours, which is the point of the format: you get to eat three without defeating yourself. At each stop you choose your bowl from a selection of six to ten options, so the tour adapts to what you like and what you have already tried.' },
+      { question: 'Where do the stops take place?', answer: 'The shops sit in Susukino, along the Tanukikoji arcade and in the downtown area, three parts of Sapporo with distinct characters, so the walk between them is worth something in itself. The tour meets at Susukino Station and finishes downtown, with exact details confirmed with the operator on booking.' },
+      { question: 'What is included in the price?', answer: 'Your guide, all fees mentioned in the itinerary and the three mini bowls of ramen. Drinks beyond what is served with the bowls, personal expenses and gratuities are not included.' },
+      { question: 'Can you cater for dietary restrictions?', answer: 'Ramen broths are typically meat or fish based, so this is a difficult tour for strict vegetarian, vegan or halal diets. Flag any restrictions or allergies at the time of booking so the operator can tell you honestly whether the shops on the route can accommodate you.' },
+      { question: 'What will I learn beyond just tasting?', answer: 'The commentary is the real substance. A ramen expert covers the origins of the dish and how it arrived in Japan, the differences between the major types, how a bowl is built from broth to noodle to topping, and where current trends are heading. By the third bowl you are tasting comparatively rather than just eating.' },
+    ];
+  }
+
+  if (slug === 'sapporo-chauffeured-full-day-tour') {
+    return [
+      { question: 'Is this a private tour?', answer: 'Yes. You have a professional driver and a vehicle for your group alone, up to four guests, for ten full hours, and the itinerary is built around your group rather than a timetable. There are no other travellers along and no fixed schedule to meet.' },
+      { question: 'Can I change the plan on the day?', answer: 'That is the main advantage of booking it privately. Spend the morning in Otaru\'s old quarter and the afternoon somewhere else, or give the whole day to the town and go slowly; change your mind halfway through and the plan changes with you.' },
+      { question: 'How long is the drive to Otaru?', answer: 'Otaru sits on the coast a short drive west of Sapporo, roughly an hour door to door, with pick-up from your Sapporo accommodation in the morning and a return in the evening. That leaves the bulk of the ten hours for the town itself rather than for travel.' },
+      { question: 'Are meals and entry fees included?', answer: 'The price covers your professional guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, and the day includes a break for lunch that you pay for yourself.' },
+      { question: 'Who does this tour suit best?', answer: 'Families, older travellers, photographers and anyone who would rather not spend a holiday day being herded. Having a driver also removes the awkward parts of a Hokkaido day trip: no train timetables, no walking between scattered sights, and somewhere warm to sit when the weather turns, which in this part of Japan it frequently does.' },
+    ];
+  }
+
+  if (slug === 'sapporo-shikotsu-group-tour') {
+    return [
+      { question: 'What time of year does this tour run?', answer: 'It is designed as a spring and summer escape, showing the green, watery side of Hokkaido that the island\'s winter reputation tends to obscure. The activities on offer at both stops, from kayaking to rafting, depend on warm-weather conditions.' },
+      { question: 'How big is the group?', answer: 'It is capped small, at up to nine guests, which keeps the day flexible in a way a coach tour cannot be. Boarding is quick and the group can adjust how long to spend somewhere rather than running to a rigid schedule.' },
+      { question: 'What are my options at each stop?', answer: 'At Lake Shikotsu you have around two hours and can kayak, take the cruise or simply walk the lakeside. At Jozankei you can go rafting on the river, hike through the surrounding forest, or use one of the day-trip onsen and soak before the drive back. Free time is deliberately generous throughout.' },
+      { question: 'If I use the onsen, are tattoos an issue?', answer: 'Tattoo rules vary between Japanese bathhouses and some day-trip onsen still refuse entry to visibly tattooed guests. If this applies to you, raise it with the operator when you book so they can confirm the policy at the facility used or suggest an alternative activity at Jozankei.' },
+      { question: 'Is transport included?', answer: 'Yes, round-trip transfer from Sapporo Station is included, which matters here because both destinations are awkward to reach and combine on public transport. The day runs about nine and a half hours; meals, personal expenses, optional activity fees and gratuities are not included.' },
+    ];
+  }
+
+  if (slug === 'sapporo-snowshoe-experience') {
+    return [
+      { question: 'Do I need snowshoeing experience?', answer: 'No previous experience is needed. After a safety briefing your guide fits you out and teaches the technique, which takes very little time to pick up and immediately opens up terrain that would be impossible to cross on foot. What you do need is a reasonable level of fitness and a willingness to be outdoors in the cold.' },
+      { question: 'How long and how hard is the hike?', answer: 'The hike itself runs for around four and a half hours through the winter forest, inside a six-hour day. Your guide sets the pace and reads the conditions, but it is a genuine winter outing on snow, so it suits people who are comfortable being active outdoors for most of a day.' },
+      { question: 'What is included?', answer: 'Your professional guide, all fees mentioned in the itinerary, the snowshoe hike, lunch out on the trail, the onsen visit at the end, and van transport from Sapporo and back. Personal expenses and gratuities are not included.' },
+      { question: 'Are tattoos a problem at the onsen?', answer: 'The day finishes with a visit to one of the local onsen, and tattoo policies vary between Japanese bathhouses, with some refusing entry to visibly tattooed guests. Mention it to the operator at booking so they can confirm the policy at the facility they use before your trip.' },
+      { question: 'What should I wear and bring?', answer: 'Dress properly for Hokkaido winter: warm base layers, an insulated waterproof jacket and trousers, gloves, a hat and waterproof boots, since you will be on deep snow for hours. Bring a small towel for the onsen, sunglasses for the glare off the snow, and something to drink. Meet at Makomanai on Sapporo\'s southern edge, with details confirmed by the operator on booking.' },
+    ];
+  }
+
+  if (slug === 'sapporo-noboribetsu-group-tour') {
+    return [
+      { question: 'What season is this tour built for?', answer: 'It is a seasonal tour put together specifically for spring and summer, when southern Hokkaido looks like nowhere else in Japan. Niseko in particular is a completely different place once the snow has gone, with the mountain scenery available without any of the ski-season crowding.' },
+      { question: 'How large is the group?', answer: 'No more than nine participants travel together, which keeps the vehicle comfortable and the stops flexible. On a ten-hour day that difference is real: boarding is quick, the group moves together easily, and there is far less of the waiting that eats into a large coach tour.' },
+      { question: 'Where does the tour go?', answer: 'The route links the farm country around Lake Toya, the parks of Niseko and the hot-spring landscape of Noboribetsu in a single day, with round-trip travel from Sapporo. Departure is around 8:00 AM with a return to the city in the early evening.' },
+      { question: 'Is lunch included?', answer: 'No. The price covers a professional local guide and all fees mentioned in the itinerary, while meals, personal expenses and gratuities are not. There is a lunch break built into the middle of the day, so bring cash for it.' },
+      { question: 'What should I bring?', answer: 'Comfortable walking shoes for the stops, a light jacket or layers since the open pasture around Lake Toya and the higher ground at Niseko are breezier and cooler than Sapporo, and a camera for the long green views. It is a full ten-hour day, so water and snacks for the drives are worth packing.' },
+    ];
+  }
+
+  if (slug === 'sapporo-essentials-private-tour') {
+    return [
+      { question: 'What does the four hours cover?', answer: 'Three anchors: the Sapporo Clock Tower, Odori Park running through the centre of the city, and the Hokkaido Shrine in its wooded grounds a little away from the downtown grid. Your guide explains why a building as modest as the Clock Tower carries so much weight, how the city actually uses Odori, and what the shrine means and how to behave there.' },
+      { question: 'Is the tour private?', answer: 'Yes, it is for your group only, with a maximum of four guests. The pace belongs to your group, so you can linger where something catches your interest and skip ahead where it does not, and the guide adjusts as you go.' },
+      { question: 'Are meals and entrance fees included?', answer: 'Your professional local guide and all fees mentioned in the itinerary are included. Meals, personal expenses and gratuities are not, and the tour finishes around lunchtime, so you can eat afterwards.' },
+      { question: 'How much walking is involved?', answer: 'A moderate amount. You walk the length of Odori Park and around the shrine grounds, with transfers between the downtown sights and the shrine. The city is flat, so it suits most fitness levels; wear comfortable shoes, and in winter boots with grip, as central Sapporo pavements ice over.' },
+      { question: 'When is the best time to take it?', answer: 'Early in a stay. It is an efficient, well-shaped introduction, and Odori changes completely through the year, hosting the snow festival in February and filling with people at the first sign of warm weather, so what you see there depends on your season.' },
+    ];
+  }
+
+  if (slug === 'sapporo-chauffeured-private-tour') {
+    return [
+      { question: 'Why book a private car in Sapporo?', answer: 'Sapporo was laid out on a grid across a wide plain, so attractions sit further apart than they look on a map, with the gaps eaten up by subway changes and long walks. A chartered vehicle with a driver for ten hours removes that entirely, and covers far more of the city than public transport would allow.' },
+      { question: 'Can I choose the itinerary?', answer: 'Yes, the day is customized to your group. You choose the attractions and how long to spend at each, and the order can change on the day if the weather turns or something takes longer than expected. There is no group to wait for and no timetable to meet.' },
+      { question: 'How many people can join?', answer: 'It is a private charter for your group only, up to four guests, with a professional driver handling navigation, parking and logistics. Nobody else joins the vehicle.' },
+      { question: 'Does it work in bad weather?', answer: 'Particularly well. A fixed walking itinerary becomes miserable when the weather closes in, but a private car does not, and Sapporo is genuinely cold for a good part of the year and hot in midsummer. Between stops you are in a comfortable car rather than standing on a platform.' },
+      { question: 'Who is this best suited to?', answer: 'Families with young children, travellers with limited mobility, anyone on a tight schedule who wants to see a lot without rushing, and photographers who need to be somewhere at a particular time of day. Note that meals, personal expenses and gratuities are not included, and a lunch stop is built into the ten-hour day.' },
+    ];
+  }
+
+  if (slug === 'sapporo-noboribetsu-private-tour') {
+    return [
+      { question: 'Can all three destinations really be done in one day?', answer: 'With a private car, yes. The day runs ten hours and covers Noboribetsu and Hell Valley, Lake Toya and Otaru. Public transport connections between them are slow and poorly aligned, and a fixed group tour would rush you through each one, so a private vehicle is what makes the combination realistic.' },
+      { question: 'Is the pace flexible?', answer: 'Yes. The balance between the three is yours: if Hell Valley grips you, stay longer, and if you would rather give the afternoon to Otaru, say so. The vehicle is yours alone for the whole day, up to four guests.' },
+      { question: 'What is Hell Valley like to walk?', answer: 'It is a steaming volcanic basin above the town, with sulphur vents, discoloured rock and hot streams, and boardwalks let you get properly close to it. The walking is easy but the surfaces can be wet, and in winter snowy and slippery, so wear shoes with grip. The sulphur smell is strong and unmistakable.' },
+      { question: 'Are meals included?', answer: 'No. The price covers your professional guide and all fees mentioned in the itinerary, with meals, personal expenses and gratuities excluded. A lunch break sits in the middle of the itinerary between Lake Toya and Otaru.' },
+      { question: 'What should I bring?', answer: 'Layers and a windproof jacket, since Lake Toya is exposed and Otaru sits on the coast, both cooler than central Sapporo. Comfortable walking shoes for the boardwalks and Otaru\'s old streets, plus cash for lunch and anything you buy along the way.' },
+    ];
+  }
+
+  if (slug === 'sapporo-asahikawa-group-tour') {
+    return [
+      { question: 'Is this a winter-only tour?', answer: 'It is built for winter, when central Hokkaido becomes the landscape that puts the island on postcards. The Biei countryside under snow, the lone Christmas Tree Tree in white fields and the snow-framed Shirahige Waterfall are what justify the journey at this time of year.' },
+      { question: 'How big is the group and what vehicle is used?', answer: 'The group is capped at nine guests in a comfortable premium vehicle, which keeps the day relaxed and the stops flexible with less waiting than a full coach. Three curated itineraries are offered so the tour can suit different travel preferences rather than forcing everyone down one route.' },
+      { question: 'How long is the day and how much driving is there?', answer: 'It runs about ten hours from Sapporo Station, with roughly two and a half hours of driving to reach the Asahikawa area, then further legs through Biei and back via a break at Iwamizawa Station. Two drop-off points are available back in Sapporo.' },
+      { question: 'What should I wear?', answer: 'Full winter gear: warm layers, an insulated windproof jacket, gloves, a hat and waterproof boots with good grip. Several stops are in open countryside where the wind is sharp and the snow is deep beside the paths, and winter daylight in Hokkaido is short, so the later stops can be dim and cold.' },
+      { question: 'Is lunch included?', answer: 'No. Your guide and all fees mentioned in the itinerary are covered, but meals, personal expenses and gratuities are not. There is an hour and a half in Asahikawa itself with time to eat.' },
+    ];
+  }
+
+  if (slug === 'sapporo-evening-tour') {
+    return [
+      { question: 'Why does this tour run into the evening?', answer: 'Because the finale is the Otaru Canal after dark, when the old gas-style lamps come on along the water and the warehouses are lit from below. That is far and away the best time to see it, and it is the part most day trips miss because they leave before nightfall.' },
+      { question: 'What does the day include?', answer: 'Ten hours with a private driver-guide and a luxury van, taking in the Yoichi Whisky Distillery, Otaru\'s preserved Sakaimachi merchant street, the panoramic harbour view from Mt. Tengu, and finally the canal after dark. Door-to-door transfers mean no walking between stations with cold hands.' },
+      { question: 'Is it private?', answer: 'Yes, for your group only, up to four guests, with both a driver and a guide, so the day comes with explanation rather than just transport. There are no other travellers along.' },
+      { question: 'Are meals and tastings included?', answer: 'The price covers your professional driver-guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, so budget separately for lunch and for anything you choose to buy or taste at the distillery.' },
+      { question: 'What should I wear?', answer: 'Comfortable walking shoes for the distillery grounds and Sakaimachi, plus warm layers, since Otaru is coastal, Mt. Tengu is exposed, and the canal stop is after dark when temperatures drop sharply. In winter add waterproof boots with grip, as the old town\'s stone streets get icy.' },
+    ];
+  }
+
+  if (slug === 'sapporo-shakotan-group-tour') {
+    return [
+      { question: 'Does the route change depending on when I travel?', answer: 'Yes, and that is the point of it. In winter the day works close to Otaru, taking in Zenibako along the shore, the area around the Otaru Aquarium and Mt. Tengu for the wide view over a snow-covered bay. In summer and autumn the tour pushes much further west onto the Shakotan Peninsula, taking in Cape Kamui and the coastline before finishing in Otaru.' },
+      { question: 'How many people are in the group?', answer: 'Between six and nine participants, which is the whole appeal. A group that size boards quickly, moves together and can be flexible about how long to spend somewhere when the light is good or the weather turns, with more room in the vehicle than a full coach allows on a ten-hour day.' },
+      { question: 'Could I do this coast on my own instead?', answer: 'It would be difficult without a car. The coastal roads west of Otaru are poorly served by public transport, which is exactly why the tour exists, and the seasonal design means you get the version of this coast that is actually worth seeing at the time you happen to be visiting.' },
+      { question: 'Is lunch included?', answer: 'No. Your guide and all fees mentioned in the itinerary are covered; meals, personal expenses and gratuities are not. A lunch break is built into the middle of the ten-hour day.' },
+      { question: 'What should I wear?', answer: 'This is an exposed coastline, so a windproof jacket and layers matter in any season. In winter add waterproof boots with grip, warm gloves and a hat, since Mt. Tengu and the shore stops are cold and the ground is snowy; daylight is also short, so the day ends in the dark.' },
+    ];
+  }
+
+  if (slug === 'sapporo-shakotan-full-day-tour') {
+    return [
+      { question: 'What does the ten-hour day cover?', answer: 'Three quarters of an hour at the Nikka Whisky Yoichi Distillery, an hour and a half at Cape Kamui on the Shakotan Peninsula, lunch back in Yoichi, seasonal fruit picking in the afternoon, and just over an hour at Mt. Tengu above Otaru for the panoramic harbour view. Travel is by coach with self-guided time at each stop.' },
+      { question: 'How much walking is there at Cape Kamui?', answer: 'A walking trail runs along a narrow headland to a point with roughly three hundred degrees of open sea around you, and the hour and a half there gives you time to walk it properly rather than glance from the car park. It involves some uneven ground and steps, so wear proper shoes and expect strong coastal wind.' },
+      { question: 'What is the fruit picking?', answer: 'It is seasonal, which means what you pick depends on when you visit, and it reflects what this fertile stretch of coast is known for outside the whisky. The operator can confirm what is likely to be available on your date when you book.' },
+      { question: 'Where does the tour start and finish?', answer: 'Departure is from Sapporo, and two starting points and two drop-off points are available so you can join and leave where it suits you. Exact meeting details are confirmed with the operator on booking.' },
+      { question: 'Is lunch included?', answer: 'A lunch stop is part of the route, but meals, personal expenses and gratuities are not included in the price, which covers your guide and all fees mentioned in the itinerary. Bring cash for lunch and for anything you buy at the distillery.' },
+    ];
+  }
+
+  if (slug === 'sapporo-vehicle-boat-tour') {
+    return [
+      { question: 'What makes this different from a group day trip to Otaru?', answer: 'Most group tours squeeze Otaru into a two-hour stop that gets you a photograph of the canal and very little else. This is ten full hours with a vehicle for your group alone and an English-speaking guide-driver, with time to see the parts of the area group tours never reach and a proper meal rather than a rushed one.' },
+      { question: 'Is the guide English speaking?', answer: 'Yes, and it matters more here than people expect. Otaru\'s interest lies in why a small port on the Sea of Japan ended up with grand stone banks and a canal lined with warehouses, and none of that is legible from signage alone.' },
+      { question: 'Can I change the route during the day?', answer: 'Yes. The route is yours and can change on the day, so if the weather closes in you can rearrange around it, and if somewhere turns out to be the highlight you can simply stay. There is no fixed schedule and no other travellers.' },
+      { question: 'Where does it start?', answer: 'Pick-up is in the morning with the day centred on Otaru, and the exact meeting point is confirmed with the operator when you book. With your own vehicle your coats and bags stay in the car and the distances between the town and the surrounding viewpoints stop mattering.' },
+      { question: 'Is it suitable for families?', answer: 'It is one of the better options for families and small groups, up to four guests, precisely because nobody is being herded and there is somewhere warm to sit between stops. Note that meals, personal expenses and gratuities are not included, and a lunch break sits in the middle of the day.' },
+    ];
+  }
+
+  if (slug === 'sapporo-hitsujigaoka-boat-tour') {
+    return [
+      { question: 'What does this private day cover?', answer: 'Three places on Sapporo\'s southern edge that are all worth seeing and all awkward to combine without a car: the clear caldera water of Lake Shikotsu, Takino Snow Park, and Hitsujigaoka Observation Hill with its grazing sheep and the statue of Dr. Clark looking out over the city.' },
+      { question: 'Is it private and how flexible is it?', answer: 'Yes, it is private for your group only, up to four guests, with a dedicated driver-guide and door-to-door service. The nine-hour plan stays flexible, so the order and timings can shift to suit the weather, the light or simply how your group is feeling.' },
+      { question: 'Is Takino Snow Park suitable for children?', answer: 'It is one of the better family stops on this itinerary. The winter version of the hillside park turns into sledding, snow play and open white slopes, so it is an easy way to be out in the snow without hiking through it, which suits children and anyone who wants the snow without the effort.' },
+      { question: 'What should I wear?', answer: 'Warm layers, a windproof jacket, gloves and waterproof boots with grip. Lake Shikotsu sits about an hour out of the city ringed by wooded volcanic slopes and is colder than central Sapporo, and both the snow park and the exposed hilltop at Hitsujigaoka are cold and often windy.' },
+      { question: 'Are meals included?', answer: 'No. Your driver-guide and all fees mentioned in the itinerary are covered, while meals, personal expenses and gratuities are not. A lunch stop is built into the middle of the day, and you are returned to your hotel at the end.' },
+    ];
+  }
+
+  if (slug === 'sapporo-vehicle-private-tour') {
+    return [
+      { question: 'Why do this itinerary privately?', answer: 'Noboribetsu and Lake Toya are far apart, the public transport between them is slow, and a group coach would give you barely an hour at each. With your own vehicle and an English-speaking guide-driver for ten hours, the balance between the two is yours to set and the route can be reshaped during the day.' },
+      { question: 'What is Hell Valley?', answer: 'It is the raw volcanic basin above Noboribetsu where steam pours out of cracked ground and the rock is stained yellow with sulphur, and it is the reason the town became Japan\'s best known hot-spring resort. Boardwalks take you into the middle of it, and having a guide means you understand what you are looking at rather than simply photographing it.' },
+      { question: 'Is this a private tour?', answer: 'Yes, for your group only, up to four guests, with nobody else along and no schedule but your own. Travel is door to door from your Sapporo accommodation, with somewhere warm to sit between stops.' },
+      { question: 'Are meals and entry fees included?', answer: 'Your English-speaking guide-driver and all fees mentioned in the itinerary are included; meals, personal expenses and gratuities are not. A lunch break sits between Noboribetsu town and Lake Toya.' },
+      { question: 'What should I wear and bring?', answer: 'Comfortable shoes with grip for the Hell Valley boardwalks, which can be wet year round and snowy in winter, plus layers and a windproof jacket for the exposed shore at Lake Toya. The sulphur smell at the valley is strong, so anyone sensitive to it should be prepared.' },
+    ];
+  }
+
+  if (slug === 'sapporo-lavender-guided-tour') {
+    return [
+      { question: 'When is the best time to take this tour?', answer: 'Hokkaido\'s summer has a short, spectacular window and the tour is built to catch it. Timing matters with lavender: Farm Tomita\'s purple terraces are the centrepiece earlier in the season, and after the middle of August the tour turns instead to Shikisai-no-oka, where the flower stripes keep their colour later and the effect is just as striking.' },
+      { question: 'Why is it spread over two days?', answer: 'Because the distances in central Hokkaido are long and the light is best early and late. An overnight lets you use both ends of the day instead of spending them on the road, which is the difference between rushing between viewpoints and actually being somewhere.' },
+      { question: 'What are the main stops?', answer: 'Farm Tomita or Shikisai-no-oka for the flower fields, the Furano area, Ningle Terrace with its small wooden craft cabins and lantern-lit woodland paths in the evening, and on the second day the Biei countryside and the cobalt-coloured Blue Pond before the return to Sapporo.' },
+      { question: 'Is accommodation or are meals included?', answer: 'The price covers a professional local guide and all fees mentioned in the itinerary. Meals, personal expenses and gratuities are not included, so confirm exactly what the overnight arrangement covers with the operator when you book.' },
+      { question: 'What should I bring?', answer: 'Comfortable walking shoes for the farm terraces and the woodland paths at Ningle Terrace, sun protection for open flower fields in the middle of summer, and a light layer for the evening, since central Hokkaido cools down noticeably after dark. An overnight bag is enough for two days.' },
+    ];
+  }
+
+  if (slug === 'sapporo-shopping-tour') {
+    return [
+      { question: 'Is lunch included?', answer: 'Yes. A buffet of regional food at a resort spa in Jozankei is included in the price, along with your professional guide and all fees mentioned in the itinerary. Personal expenses, anything you buy at the outlet and gratuities are not included.' },
+      { question: 'What is the best season for this tour?', answer: 'It is built around autumn, the season Hokkaido locals themselves look forward to. The wooded slopes above the reservoir at Hoheikyo Dam turn every shade of red and orange in the second half of the season, which is when the route is at its best.' },
+      { question: 'Where does the day go?', answer: 'An hour and a half at Hoheikyo Dam in the valley south of Sapporo, then Jozankei for the buffet lunch, eighty minutes of free time at Takino Suzuran Hillside Park, and a shopping stop at Mitsui Outlet before the return. It is a round trip from Sapporo Station, so you never leave the city limits for most of the day.' },
+      { question: 'How much walking is involved?', answer: 'Enough to be worth wearing comfortable shoes. Both Hoheikyo Dam and Takino Suzuran Hillside Park are designed for walking rather than photo stops, with eighty minutes of free time at the park for a real walk among the trees. The pace is unhurried and the ground is manageable.' },
+      { question: 'Is there time to shop?', answer: 'Yes, Mitsui Outlet is a scheduled stop late in the day and is where Sapporo residents do their shopping, so it is a useful last stop if you want to pick something up before heading home. The tour finishes back at Sapporo Station.' },
+    ];
+  }
+
+  if (slug === 'sapporo-culture-full-day-tour') {
+    return [
+      { question: 'How is this tour priced?', answer: 'It is priced per group rather than per person, and it is private for your group only, with up to four guests. That makes it particularly good value for couples, families or small groups travelling together.' },
+      { question: 'What does a full day cover?', answer: 'Your private guide moves between Sapporo\'s rich history and the local gems that do not appear on a standard sightseeing list, letting each stop breathe rather than treating the day as a checklist. What emerges is a sense of the city\'s character rather than a series of photographs.' },
+      { question: 'How fast is the pace?', answer: 'Deliberately unhurried. The whole idea is that Sapporo rewards a gentle pace, and immersive moments are given room. Interests can be followed where they lead, time can be given generously to somewhere that turns out to matter to you, and the plan can slow down or open up as the day goes.' },
+      { question: 'Are meals and entrance fees included?', answer: 'Your professional local guide and all fees mentioned in the itinerary are included. Meals, personal expenses and gratuities are not, and a lunch break is built into the middle of the day.' },
+      { question: 'Who does this tour suit?', answer: 'Travellers who would rather understand one city properly than half see three, and it works particularly well as the anchor of a Hokkaido trip. Because it is private and flexible, it also adapts easily to families or anyone who needs a slower rhythm than a group tour allows.' },
+    ];
+  }
+
+  if (slug === 'sapporo-half-day-tour') {
+    return [
+      { question: 'How long is the tour and when does it run?', answer: 'It is a half-day private tour, roughly four hours in the sample running order, designed for travellers who have a single free morning or afternoon and want it to count. Exact start time and meeting point in Sapporo are confirmed with the operator when you book.' },
+      { question: 'Is it priced per person or per group?', answer: 'Per group rather than per person, and it is private for your group alone with up to four guests. Nobody else joins, so the half day belongs entirely to you.' },
+      { question: 'What will we see?', answer: 'The tour takes in Sapporo\'s history, its culture and the serene beauty that sets the northern cities apart, at a relaxed pace rather than a race between landmarks. Because it is private, your guide adapts the route around your interests instead of holding you to a fixed schedule.' },
+      { question: 'Are meals included?', answer: 'No. The price covers your professional private guide and all fees mentioned in the itinerary, while meals, personal expenses and gratuities are not included. The tour finishes around lunchtime, leaving you free to eat afterwards.' },
+      { question: 'Is a half day really long enough?', answer: 'It is, provided the time is used well rather than spent working out where to go next, which is exactly what a guide solves. It works particularly well early in a stay, when everything you learn in those few hours makes the rest of your own exploring easier and more rewarding.' },
+    ];
+  }
+
     return null;
 };

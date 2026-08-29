@@ -3257,6 +3257,43 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
+        {/* Sapporo Essential Guides Section */}
+        {city.toLowerCase() === 'sapporo' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Sapporo
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Best Time to Visit Sapporo', slug: 'best-time-to-visit-sapporo' },
+                { title: 'Sapporo Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
+                { title: 'Getting Around Sapporo', slug: 'getting-around-sapporo' },
+                { title: 'Sapporo Food Guide', slug: 'sapporo-food-guide' },
+                { title: 'Otaru Day Trip from Sapporo', slug: 'otaru-day-trip-from-sapporo' },
+                { title: 'Niseko & Hokkaido Ski Guide', slug: 'niseko-and-hokkaido-ski-guide' },
+                { title: 'Sapporo 3-Day Itinerary', slug: 'sapporo-3-day-itinerary' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/japan/sapporo/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src="https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg" alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Hiroshima Essential Guides Section */}
         {city.toLowerCase() === 'hiroshima' && (
           <section className="mb-16">

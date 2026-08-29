@@ -3,6 +3,7 @@ import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
 import { getOsakaInfoContent } from './osakaInfoContent';
 import { getHiroshimaInfoContent } from './hiroshimaInfoContent';
+import { getSapporoInfoContent } from './sapporoInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -33,6 +34,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const hiroshimaPage = getHiroshimaInfoContent(slug);
     if (hiroshimaPage) return hiroshimaPage;
+
+    const sapporoPage = getSapporoInfoContent(slug);
+    if (sapporoPage) return sapporoPage;
 
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;

@@ -1280,6 +1280,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Sapporo-specific FAQs
+    if (cityLower === 'sapporo' || tourTitle.toLowerCase().includes('sapporo') || tourTitle.toLowerCase().includes('hokkaido') || tourTitle.toLowerCase().includes('otaru')) {
+      faqs.push(
+        { question: 'When is the best time to visit Sapporo?', answer: 'February for deep snow and the Snow Festival, or late June to mid-July for Furano\'s lavender. Note that Sapporo\'s **cumulative** snowfall of 4.7–5 m is often misread — actual ground depth peaks around 80–100 cm in February. Full month-by-month detail in our [best time to visit Sapporo guide](/japan/sapporo/best-time-to-visit-sapporo).' },
+        { question: 'When is the Sapporo Snow Festival?', answer: 'The 2027 festival runs **4–11 February** across Odori, Susukino and Tsudome, and entry to all three sites is **free**. Hotels sell out 6–9 months ahead and rates run 2–3× normal — our [Snow Festival guide](/japan/sapporo/sapporo-snow-festival-guide) covers whether that premium is worth paying.' },
+        { question: 'How do I get around Sapporo?', answer: 'The subway covers most of the city at ¥210–380 a ride, and the **weekend Donichika pass is just ¥520** — far better value than the ¥830 weekday version. The airport train is ¥1,230 (33–37 min). See [getting around Sapporo](/japan/sapporo/getting-around-sapporo).' },
+        { question: 'Is Otaru worth a day trip from Sapporo?', answer: 'Yes — it\'s **30 minutes and ¥800** by JR, making it the easiest day trip in Hokkaido. The canal, glassworks and sushi street fill a comfortable day. Timing tips and the Snow Light Path dates are in our [Otaru day trip guide](/japan/sapporo/otaru-day-trip-from-sapporo).' },
+        { question: 'What food is Sapporo known for?', answer: '**Miso ramen** (invented here around 1954), **jingisukan** lamb BBQ, soup curry, and Nijo Market seafood. Bowls run ¥900–1,500. Where locals actually eat — and which famous spots to skip — is in our [Sapporo food guide](/japan/sapporo/sapporo-food-guide).' },
+        { question: 'Which Hokkaido ski resort should I choose?', answer: 'Niseko has the deepest snow (~15 m a season) but the highest prices — a 2026-27 peak day pass is **¥13,500**. Rusutsu, Kiroro and Sapporo Teine (¥8,400 online) offer similar powder for less. Honest comparison in our [Niseko and Hokkaido ski guide](/japan/sapporo/niseko-and-hokkaido-ski-guide).' },
+        { question: 'How many days do I need in Sapporo?', answer: 'Three days works well: one for the city, one for Otaru, and one for a day trip or ski day. Our [Sapporo 3-day itinerary](/japan/sapporo/sapporo-3-day-itinerary) has winter and summer variants with realistic timings.' }
+      );
+    }
+
     // Add Hiroshima-specific FAQs
     if (cityLower === 'hiroshima' || tourTitle.toLowerCase().includes('hiroshima') || tourTitle.toLowerCase().includes('miyajima')) {
       faqs.push(
@@ -1303,6 +1316,24 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         { question: 'What food is Osaka known for?', answer: '**Takoyaki** (octopus balls) and **okonomiyaki** (savory pancake) are Osaka\'s signature street foods, best sampled around Dotonbori and Kuromon Market. See our [Osaka food guide](/japan/osaka/osaka-food-guide).' },
         { question: 'Is Dotonbori worth visiting, and is it touristy?', answer: 'Yes — it\'s the city\'s neon-lit entertainment and food district, and while it\'s undeniably touristy, the energy, canal-side glow, and street food density make it genuinely worth an evening. See the [Dotonbori guide](/japan/osaka/dotonbori-guide).' },
         { question: 'What is Shinsekai and is it safe?', answer: 'Shinsekai is Osaka\'s retro, slightly gritty downtown district built around the Tsutenkaku Tower, known for kushikatsu (fried skewers). It\'s generally safe for tourists, especially in the daytime and early evening. See the [Shinsekai guide](/japan/osaka/shinsekai-guide).' }
+      );
+    }
+
+    // Add Jaipur-specific FAQs (ported 2026-08-29 from the removed duplicate builder)
+    if (cityLower === 'jaipur' || tourTitle.toLowerCase().includes('jaipur') || tourTitle.toLowerCase().includes('amber fort')) {
+      faqs.push(
+        {
+                                question: "How do I get to Amber Fort from Jaipur city?",
+                                answer: "Amber Fort is located 11 km from Jaipur city center, about a 20-minute drive. When you book a guided tour through AsiaByLocals, round-trip transportation from your hotel is included. You can also take an elephant or jeep ride up to the fort entrance."
+                              },
+        {
+                                question: "What should I wear when visiting Jaipur temples and forts?",
+                                answer: "Modest clothing that covers shoulders and knees is recommended for temple visits. Comfortable walking shoes are essential as forts like Amber Fort and Nahargarh Fort involve significant walking on stone pathways. Carry sunscreen and water, especially during summer months."
+                              },
+        {
+                                question: "Can I visit Hawa Mahal, City Palace, and Amber Fort in one day?",
+                                answer: "Yes, all three can be covered in a full-day guided tour. Our Jaipur city tours are designed to cover these major attractions efficiently with an experienced local guide who knows the best routes and timing to avoid crowds."
+                              }
       );
     }
 
@@ -2848,108 +2879,6 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       {(() => {
                         /* Using extracted getTourSpecificFAQs */
 
-                        const tourFAQs = (() => {
-                          const tourTitle = tour.title || 'this tour';
-                          const specificFAQs = getTourSpecificFAQs(tourTitle, tourSlug || tour?.slug);
-                          const faqs = specificFAQs || [
-                            {
-                              question: `What is specifically included in the ${tourTitle}?`,
-                              answer: tour.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary.`
-                            },
-                            {
-                              question: `How long is the actual ${tourTitle} experience?`,
-                              answer: `The duration of the ${tourTitle} is typically ${tour.duration || 'a few hours'}. We recommend arriving 15 minutes before the scheduled start time for a smooth experience.`
-                            },
-                            {
-                              question: `What is the best time to start the ${tourTitle}?`,
-                              answer: "For most monument visits, we highly recommend a sunrise start. This allows you to avoid the midday heat, bypass the largest crowds, and capture the best lighting for photography."
-                            }
-                          ];
-
-                          const cityLower = tour.city?.toLowerCase() || '';
-                          const titleLower = tourTitle.toLowerCase();
-                          const isAgraTour = cityLower === 'agra' || titleLower.includes('taj-mahal') || titleLower.includes('taj mahal');
-                          const isDelhiTour = cityLower === 'delhi' || titleLower.includes('delhi');
-                          const isJaipurTour = cityLower === 'jaipur' || titleLower.includes('jaipur') || titleLower.includes('amber-fort') || titleLower.includes('amber fort');
-
-                          if (isAgraTour) {
-                            const standardAgraFAQs = [
-                              {
-                                question: "Is the Taj Mahal closed on Friday?",
-                                answer: "Yes, the Taj Mahal is closed every Friday for religious reasons. Please ensure your tour date for the Taj Mahal does not fall on a Friday."
-                              },
-                              {
-                                question: "Is original passport mandatory for entry?",
-                                answer: "Yes, foreign tourists must show their original passport or a high-quality digital photo at the entrance gates for security identification and monument entry."
-                              },
-                              {
-                                question: "What is the best time to visit the Taj Mahal?",
-                                answer: "Sunrise is the best time to visit the Taj Mahal. The gates open at 6:00 AM and the soft morning light creates the most stunning views. Arrive by 5:30 AM to beat the crowds and get the best photography conditions."
-                              }
-                            ];
-
-                            standardAgraFAQs.forEach(af => {
-                              if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
-                                faqs.push(af);
-                              }
-                            });
-                          }
-
-                          if (isDelhiTour) {
-                            const standardDelhiFAQs = [
-                              {
-                                question: "Is Delhi safe for tourists?",
-                                answer: "Yes, Delhi is generally safe for tourists, especially in popular tourist areas like Connaught Place, Chandni Chowk, and around major monuments. Booking a licensed local guide through AsiaByLocals adds an extra layer of safety and local knowledge."
-                              },
-                              {
-                                question: "What is the best way to get around Delhi?",
-                                answer: "The Delhi Metro is the fastest and most affordable way to travel between attractions. For tour experiences, our guides arrange private air-conditioned vehicles so you can cover Old Delhi and New Delhi comfortably in one day."
-                              },
-                              {
-                                question: "Do I need to book tickets in advance for Delhi monuments?",
-                                answer: "For popular sites like Qutub Minar, Humayun's Tomb, and Red Fort, advance tickets are recommended to skip long queues. When you book a guided tour through AsiaByLocals, entry tickets and skip-the-line access are typically included."
-                              }
-                            ];
-
-                            standardDelhiFAQs.forEach(af => {
-                              if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
-                                faqs.push(af);
-                              }
-                            });
-                          }
-
-                          if (isJaipurTour) {
-                            const standardJaipurFAQs = [
-                              {
-                                question: "How do I get to Amber Fort from Jaipur city?",
-                                answer: "Amber Fort is located 11 km from Jaipur city center, about a 20-minute drive. When you book a guided tour through AsiaByLocals, round-trip transportation from your hotel is included. You can also take an elephant or jeep ride up to the fort entrance."
-                              },
-                              {
-                                question: "What should I wear when visiting Jaipur temples and forts?",
-                                answer: "Modest clothing that covers shoulders and knees is recommended for temple visits. Comfortable walking shoes are essential as forts like Amber Fort and Nahargarh Fort involve significant walking on stone pathways. Carry sunscreen and water, especially during summer months."
-                              },
-                              {
-                                question: "Can I visit Hawa Mahal, City Palace, and Amber Fort in one day?",
-                                answer: "Yes, all three can be covered in a full-day guided tour. Our Jaipur city tours are designed to cover these major attractions efficiently with an experienced local guide who knows the best routes and timing to avoid crowds."
-                              }
-                            ];
-
-                            standardJaipurFAQs.forEach(af => {
-                              if (!faqs.some(f => f.question.toLowerCase() === af.question.toLowerCase())) {
-                                faqs.push(af);
-                              }
-                            });
-                          }
-
-                          if (!specificFAQs) {
-                            faqs.push({
-                              question: `Will I receive confirmation after booking the ${tourTitle}?`,
-                              answer: "Yes, once your booking is completed via our secure gateway, you will receive an instant confirmation email with your tour details and guide contact information."
-                            });
-                          }
-
-                          return faqs;
-                        })();
 
                         // Helper to render text with markdown-style links and bolding
                         const renderWithLinks = (text: string) => {

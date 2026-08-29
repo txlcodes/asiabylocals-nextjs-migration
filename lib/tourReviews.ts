@@ -10801,5 +10801,229 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- SAPPORO TOURS (2026-08, real GYG reviews) ---
+    if (slug === 'sapporo-full-day-tour') {
+        return {
+            averageRating: 4.52, totalReviews: 48, guideRating: 4.52, valueRating: 4.52,
+            reviews: [
+                { author: 'Rosie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-27T23:11:01+01:00', text: 'This tour was an amazing experience. I would recommend this tour for all ages. Mr Hong is a fantastic tour guide, he is very informative with each destination, provided additional information and the allocated times for each spot to allow a smooth transition throughout the day. The bus driving was very smooth, thank you to the bus conductor (apologies for not remembering his name). Thank you for the amazing day and tour.' },
+                { author: 'Christine', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-19T12:30:01+01:00', text: 'Great! Just like it was described! Thanks so much Hong!' },
+                { author: 'Aleksandr', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-28T10:51:19+01:00', text: 'This tour was absolutely outstanding from start to finish. Mr. Hong is an exceptional guide. He clearly cares about every guest and puts real heart into his work. The explanations were engaging, the atmosphere was friendly, and every detail was carefully considered. You can truly feel his professionalism and dedication. Thank you for such a memorable experience — I would highly recommend this tour to anyone visiting!' },
+                { author: 'Larissa', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-07T01:39:52+01:00', text: 'The guide was super helpful and friendly. The whole tour was amazing and more than I expected. My family and I are very satisfied with everything.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T00:59:15+02:00', text: 'I impressed with Alissa about well prepare for the tour. she gave us a lot of idea/suggestions during the tour and even for dinner spot. also the driver was excellent drive safely.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T11:05:10+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-30T02:22:50+02:00', text: 'everything went well as planned. sunny was great!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-05-29T03:03:22+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 1, date: '2026-05-25T21:29:25+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-21T03:39:35+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-seafood-food-tour') {
+        return {
+            averageRating: 4.9, totalReviews: 40, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: 'Stacey', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-11T03:38:24+02:00', text: 'Iku was an incredible guide! We loved learning more about Sapporo and spending the morning with her. This was a great way to experience the city! Lunch was amazing, plus delicious Hokkaido ice cream at the end. Thank you!' },
+                { author: 'megankriger', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-08T03:36:20+02:00', text: 'Tom was our personal tour guide for our tour. He was friendly, informative, knowledgeable and accommodating. He customized our experience and answered all our questions about the area and Japanese culture. Lunch was a beautiful plate of sushi including new fish we’d never had before. Highly recommend the tour and Tom as your guide.' },
+                { author: 'Roy', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-22T06:29:23+02:00', text: 'We enjoyed our tour tremendously. Iku was our exceptional tour guide. Our stops included the Sapporo Clock Tower, TV Tower, a Shinto shrine, Sapporo Canal, Odori Park, and more. She gave us an excellent history of Sapporo and Hokkaido and showed us some great photo spots throughout the city. Additionally, Iku shared wonderful restaurant recommendations and other helpful tips. We highly recommend this tour with Iku!' },
+                { author: 'Rashaad', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-16T02:33:53+02:00', text: 'Iku did a great job leading this tour. She shared informative facts about Sapporo/Hokkaido, had some great side conversations, and even gave recommendations for places to eat/drink around the city. Thanks for a great tour Iku!' },
+                { author: 'Lea', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T10:07:27+02:00', text: 'Amazing! Iku was so knowledgeable about Sapporo and Hokkaido. She showed us really nice photo spots and the lunch at the end of the tour was fantastic.' },
+                { author: 'Gabriela', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-29T13:23:02+02:00', text: 'The tour structure was excellent and we had a great time with Iku as our tour guide. Iku was very knowledgeable about Sapporo, from history, culture, and all the way to food recommendations. We highly recommend this tour.' },
+                { author: 'Henner', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-11T23:07:02+02:00', text: 'With Iku, I had the best guide you could wish for. She is knowledgeable, dedicated, and very funny. She took the time to answer each of my many questions and tried to provide the best possible answers. The tour was a lot of fun, and the lunch at the market was incredibly fresh. Iku also leads the evening bar hopping tours, which are absolutely not to be missed!' },
+                { author: 'Katie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-06T02:36:45+02:00', text: 'Tom was excellent! Friendly, knowledgeable and really went the extra mile to make sure we had a great time. Good variety and pace of walking tour. Great food. 100% recommend thankyou' },
+                { author: 'Sunilraj', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-15T07:17:57+02:00', text: 'It was very good. Tom was very knowledgeable and explained the pertinent history very clearly. We learned so much more about Hokkaido’s history. The tour ended with a very tasty Kasendon seafood lunch. This tour is highly recommended.' },
+                { author: 'Olgs', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-01T10:29:15+01:00', text: 'The trip was really lovely. Tom is an amazing guide — friendly, engaged, and he genuinely takes great care of the group. I’ve been on many tours, and in my opinion this one was the best.' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-morning-tour') {
+        return {
+            averageRating: 4.94, totalReviews: 25, guideRating: 4.94, valueRating: 4.94,
+            reviews: [
+                { author: 'Renee', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-11T03:56:15+02:00', text: 'I was so happy to take this tour to get oriented to Sapporo and it\'s history. Tom was a great guide and answered all sorts of my questions. I would highly recommended this tour to those who want to learn about Sapporo. It\'s a good first day activity' },
+                { author: 'Susan', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-22T03:42:35+02:00', text: 'Great overview of Sapporo city from elevation at TV Tower. Historic information. Tour guide Iku responded to our questions. Recommend for first day of stay in Sapporo.' },
+                { author: 'Iwa', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-07T05:30:48+01:00', text: 'Tom was an excellent tour guide. Super friendly, knowledgeable about the area and shared lots of interesting information about the sights we visited around Sapporo. I highly recommend the walking tour. Thank you, Tom, for sharing the morning with us around beautiful Sapporo.' },
+                { author: 'Esther', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-26T03:47:41+01:00', text: 'The tour is a great way to start one’s Sapporo trip. Our tour guide Tom is very kind, knowledgeable, and accommodating. We enjoyed and learned a lot too. We were 4 in the group and also travelled with senior citizens. It was like a private tour. Thank you so much. :)' },
+                { author: 'Yanavy', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-19T06:49:04+01:00', text: 'Tom was my guide, and the tour was really nice to discover the main attractions of Sapporo. He was super knowledgeable, very chill, fun and friendly. His English skills are impeccable. I was lucky to be the only participant today so it almost felt like visiting the city with a friend. I truly enjoyed the pace, the sights and all the anecdotes that Tom shared.' },
+                { author: 'Jane', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-02T08:55:06+01:00', text: 'Even on a rainy day, Iku made the tour engaging and informative. As someone who’s visited Sapporo several times, I learned new information and insights about the city’s history and layout. The pacing was spot on, and she also shared her recommendations for restaurants and a great sento that was much needed for a cold day. A perfect way to start our trip — I wish Iku offered more tours!' },
+                { author: 'Connie', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-01T22:54:21+01:00', text: 'If you like to learn the history of Sapporo, highly recommend this walking tour. Even though it was only 2 hours and was raining hard, I still enjoyed it a lot. Our guide, Iku showed us interesting places and told us interesting stories which I wouldn’t know seeing it by myself. Overall I had a great time.' },
+                { author: 'Bettina', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-21T01:38:02+02:00', text: 'At under 2 hours, the tour was just the right amount of time to cover the key sites of downtown Sapporo. Iku was very informative and made the tour fun despite the rain. Iku also gave us a lot of tips and recommendations on what to see in Sapporo!' },
+                { author: 'Barry', country: 'Verified GetYourGuide review', rating: 5, date: '2025-09-09T05:23:56+02:00', text: 'Tom\'s knowledge and good English skills. helped make this an excellent tour. Only two on the tour, so was relaxed and personal. TV Tower tour to top was unexpected.' },
+                { author: 'Julia', country: 'Verified GetYourGuide review', rating: 5, date: '2025-06-11T09:31:04+02:00', text: 'The tour was great! I was the only participant today and Tom told me a lot about Sapporo\'s history. I had a wonderful morning and can highly recommend the tour to everyone.' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-noboribetsu-full-day-tour') {
+        return {
+            averageRating: 4.51, totalReviews: 20, guideRating: 4.51, valueRating: 4.51,
+            reviews: [
+                { author: 'Harry', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-22T08:17:16+02:00', text: 'Excellent commentary and explanation of attractions provided by our tour guide Mila. Plenty of time at each site to enjoy the scenery and services. An excellent tour of a selection of attractions around Hokkaido.' },
+                { author: 'Lauren', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-17T06:24:55+02:00', text: 'Definitely a great trip, having an English speaking guide was great, She was so helpful as well 👍' },
+                { author: 'José María', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-13T13:35:11+02:00', text: 'We had a wonderful tour with Hikaru. Everything was perfect, and even though the weather was not ideal, we were still able to discover many beautiful places thanks to Hikaru’s great recommendations. Very helpful, knowledgeable, and pleasant throughout the whole experience.' },
+                { author: 'Andre', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-21T01:16:55+01:00', text: 'Very nice day trip! The guide was full of energy and friendly. Nice sceneries. See you soon!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 3, date: '2026-07-22T18:37:21+02:00', text: 'Lake Toya viewpoint Lake Hill farm Hell Valley could be better - more information of areas/sites by guide more direction from guide when arriving at area ie. what\'s here, recommended things to look at water site/park could be omitted from itinerary opportunities to take pictures of Mt Yotei time to take ropeway' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-06-19T16:55:32+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T22:33:12+02:00', text: 'loved Hell valley would have preferred more time there' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-30T23:35:09+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-22T05:57:47+02:00', text: 'The trip was super chill, with beautiful scenery all the way, just a bit windy at times. Andy was incredibly friendly and made everyone feel welcome. He also shared lots of helpful suggestions and advice on gifts, which we really appreciated. Overall, it was such a pleasant and relaxing experience. Hope to visit Hokkaido again in the future.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-20T07:20:08+02:00', text: 'Guide Hong was excellent—very knowledgeable and well-organized. The explanations were clear, time management was strong, and he took great care of all the group members. He left us with a very deep impression.' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-food-tour') {
+        return {
+            averageRating: 4.56, totalReviews: 14, guideRating: 4.56, valueRating: 4.56,
+            reviews: [
+                { author: 'Sabine', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-07T16:13:24+02:00', text: 'It was a great tour. Our tour guide, Tiger, was courteous and provided us with good information about the food. We were able to try several dishes. Our expectations were exceeded.' },
+                { author: 'Rouven', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-27T07:09:31+02:00', text: 'The tour turned out to be a private Tour, Just me and Taiga as my Guide. I had a really great time on the tour. We went to 3 different kinds of Restaurants and everything we had was really good. Taiga was also a really great Guide. Thanks for the Tour.' },
+                { author: 'Randolph', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-13T14:43:07+02:00', text: 'It was amazing! Our guide Suru was knowledgeable and informative, he took us to amazing spots and was able to teach us about the culture and history of Sapporo. Not to mention ordering us amazing food and was very considerate concerning food preferences. Could not recommend a better tour or guide! 10/10!!' },
+                { author: 'Naohiko', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-11T12:57:51+02:00', text: 'The guide on this tour was a local and really knew all the hottest restaurants and food spots in the area, which made the experience truly enjoyable. On many other tours, the food choices and portions are fixed, so you often cannot eat very much or choose what you really want. However, on this tour, we were able to order anything we liked from the regular menu, which was extremely satisfying. I highly recommend this tour.' },
+                { author: 'Ebrahim', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-23T02:10:15+01:00', text: 'Taiki was an excellent guide. He was very knowledgeable and selected excellent dishes for us to try. This is a must try for those who’d like to gain a deeper understanding of Sapporo’s food culture.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-22T13:05:41+02:00', text: 'Tsuru was an excellent guide! This guy is the kindest person, very passionate about what he does and taking the best care of his group. He went far beyond what was expected from a tour guide on a food tour. He also gave us a lot of recommendations for our next days in Sapporo and Hokaido, and sent us our photos. He was a lovely person to talk to about Hokaido, Sapporo and Japan.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-20T15:44:34+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-02T23:02:26+02:00', text: 'Our guide Taiga was fantastic. He organized the tour very well and we had a great time. I was the only participant and Taiga was excellent at catering to our individual needs.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 2, date: '2026-02-21T01:39:01+01:00', text: 'For the price charged it was not value for money at all' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-04T11:29:03+01:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-food-food-tour') {
+        return {
+            averageRating: 4.74, totalReviews: 14, guideRating: 4.74, valueRating: 4.74,
+            reviews: [
+                { author: 'ALLAN', country: 'Verified GetYourGuide review', rating: 5, date: '2025-07-03T11:25:03+02:00', text: 'Great overview of what locals eat. Wish it also included Niko market.' },
+                { author: 'Justine', country: 'Verified GetYourGuide review', rating: 5, date: '2025-05-25T02:52:57+02:00', text: 'Had a great time - I’d been to Sapporo before but this was an excellent reintroduction to a few spots off the beaten track.' },
+                { author: 'Michael', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-31T04:06:51+02:00', text: 'AMAZING! My guide was a beast and a gem when it comes to showing you good food in Sapporo. He picked me up at my hotel (winning already) and drove us around to some of his favorite places. From grilled beef tongue to tasty ramen to delicious and cheap sushi on a conveyor belt, nothing disappointed. He also told some great history about Hokkaido that was great to learn while feasting. I highly recommend!' },
+                { author: 'Paolo', country: 'Verified GetYourGuide review', rating: 5, date: '2025-02-09T09:49:11+01:00', text: 'Excellent and true local experience, Amazing guide and a lot of fun!' },
+                { author: 'Jack', country: 'Verified GetYourGuide review', rating: 5, date: '2024-12-28T06:00:02+01:00', text: 'Zarina was great, very knowledgeable and courteous, and thought a lot about our needs' },
+                { author: 'Terry', country: 'Verified GetYourGuide review', rating: 5, date: '2019-12-24T08:21:18+01:00', text: 'Asuka was a wonderful guide, very helpful and provided a great selection of activities which I enjoyed very much.' },
+                { author: 'George', country: 'Verified GetYourGuide review', rating: 4, date: '2024-07-15T22:14:54+02:00', text: 'Enjoyable afternoon - learned a lot and got to try several foods that were new to us' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-26T09:46:43+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-05T00:16:28+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-12T00:01:22+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-inclusive-private-tour') {
+        return {
+            averageRating: 4.7, totalReviews: 13, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: 'Celso Kiyoshi', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-11T02:39:11+01:00', text: 'The instructor was very attentive and patient! She gave all the tips for a perfect day.' },
+                { author: 'Alex', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-06T12:47:52+01:00', text: 'Maggie was utterly delightful and a such excellent teacher. Perfect for absolute beginners (me) as well as those needing more confidence before they go out on their own. Everything was so comfortable and easy to navigate from start to finish - money well spent. This is also the only tour I’ve seen where helmet, goggles and gloves are included with rental gear!' },
+                { author: 'Jason', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-29T06:43:25+01:00', text: 'Everything was made simple start to finish, gear was all prepared, we got changed and straight into the lesson! Maggie was a fantastic instructor and great company throughout the day! She taught us from beginner to doing multiple runs down the mountain in one day!' },
+                { author: 'Katrina', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-31T05:29:18+01:00', text: 'I had the best time night skiing with my instructor! Sofie was super friendly, patient, and consistently prioritizing safety above all other considerations. Her tips were easy to follow, and I could feel myself improving after every run. We laughed a lot, and the night views were amazing. Honestly, I didn’t want the lesson to end! If you get the chance, definitely book with her — she makes skiing so much fun!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-28T23:13:22+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-16T06:21:43+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T07:34:53+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-12T11:42:07+01:00', text: 'We had the most incredible experience! It was my very first time ever on skis, while my husband already had some experience, so we weren’t sure how it would work with our different levels. Chris, our guide, was absolutely amazing at managing both of our abilities. He challenged my husband in all the right ways while being incredibly patient, supportive, and encouraging with me. I honestly went in with pretty low expectations, thinking I’d just try to survive the day — but the experience far exceeded anything I imagined, and that was entirely thanks to Chris. He helped me feel comfortable, safe, and confident throughout the day. It was a full-day experience, so I’m not quite a pro yet 😅 but I’m definitely comfortable enough now to put on skis and show off my new skills! We couldn’t have asked for a better guide or a better day. Highly recommend! Would give 6 stars rating if I were aloud 😅☺️' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-06T11:56:19+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-02T08:48:08+01:00', text: 'Learned to ski without even falling. Very nice teacher and the equipment were in good condition.' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-hopping-experience') {
+        return {
+            averageRating: 5.0, totalReviews: 12, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Henner', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-11T23:00:06+02:00', text: 'Iku was an outstanding hostess and an even better person. She goes to great lengths to give you the best possible evening and is also charming and funny! I had the best evening in Sapporo with her, and also the best morning, as she also takes care of the city tours with lunch at the fish market. Neither of them should be missed when you are in Sapporo!' },
+                { author: 'Kelsi', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-20T21:24:13+02:00', text: 'Iku was an amazing host. She was very knowledgeable and friendly. It was just my husband and I and she really tailored the places we visited to our tastes and interests. Our tour was at 6pm and we had just landed into Sapporo at 1pm so we were TIRED. But Iku was such great company and showed us some amazing spots. 100% worth it especially if you are short on time and would like to have a more local experience of tasty food and drinks! Arigato Iku-San!!! 100% recommend this tour.' },
+                { author: 'José María', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-11T23:20:06+02:00', text: 'We had an amazing bar tour in Sapporo with Paul, and I cannot recommend him highly enough. He took us to places and introduced us to food that we would never have found on our own, which made the whole experience feel authentic and special. Paul clearly knows Sapporo extremely well. He is kind, talkative, and full of interesting stories and experiences, which made the tour not only fun but also very engaging. What stood out most was how much he genuinely enjoys showing visitors the very best of Sapporo’s bars, food, and nightlife. His enthusiasm is real, and it makes the experience even better. Thanks to Paul, we got to see a side of Sapporo that we would have completely missed otherwise. This was much more than just a bar tour — it felt like being shown around by someone who truly loves the city and wants you to enjoy the best it has to offer. Highly recommended.' },
+                { author: 'William', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-23T02:59:22+01:00', text: 'Iku our guide provided a most interesting, fun and insightful evening. We really enjoyed ourselves. Thank you, Iku!!' },
+                { author: 'Gregory', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-20T13:51:53+01:00', text: 'it was an amazing tour! We told Iku our preferences and she customized the tour for us! She was so thoughtful with her planning and a great conversationalist! We had a wonderful time with wonderful food and drinks and wish we could have done it for longer time! thank you Iku!' },
+                { author: 'Neal', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-16T02:03:25+01:00', text: 'Iku was a fantastic host and took us to some out of the way places we would never have found ourselves. The Sake bar was brilliant! Would highly recommend her! I’m' },
+                { author: 'Ricardo', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-18T12:09:54+02:00', text: 'A fantastic and memorable night in Sapporo! Our guide Iko was truly amazing — very experienced, engaging, and full of positive energy. She made the whole evening super fun and interactive while sharing lots of local insights. We visited some great hidden food and bar spots with delicious dishes and drinks. Highly recommended for anyone who wants to experience authentic Sapporo nightlife with a knowledgeable and friendly guide!' },
+                { author: 'Zac', country: 'Verified GetYourGuide review', rating: 5, date: '2025-08-17T04:51:02+02:00', text: 'Great value for money , visited multiple food / drink venues you wouldn’t know were there. Our guide Paul was extremely knowledgeable about the area and super helpful Also gave us heaps of recommendations to try for our trip he went above and beyond and the tour felt like we were out drinking with mates Cheers Paul !' },
+                { author: 'Raul', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-16T12:12:26+01:00', text: 'Our tour was fabulous. Iku shared her vast knowledge about Sapporo’s history and food culture. As I travel through various cities, I try to partake in food tours or bar hopping . Iku was able to combine the best of both aspects . The places we went to were totally delicious . My brother and I both enjoyed her personality and attitude so much we wanted to hire her for a private tour the next day. She’s a grand winner of food tour guides in my book.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T08:46:18+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-expert-experience') {
+        return {
+            averageRating: 5.0, totalReviews: 10, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Bertal', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-02T16:11:40+02:00', text: 'It was great. I have an idea about the ramen now thanks to the tour. Don’t forget to be hungry before the event.' },
+                { author: 'Florin', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-01T11:41:48+02:00', text: 'Very diverse choices and plenty of food. Don\'t have a heavy lunch and be prepared to eat! The guide was nice and explained the food customs, the ingredients and how each ramen is prepared.' },
+                { author: 'Amanda', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-06T12:29:28+02:00', text: 'We had a great time as Sho was a fantastic guide and taught us many things about the different ramen we were having. All of the ramen was delicious while my husband and I had different favorites. Fun way to spend the evening!' },
+                { author: '慧', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-04T10:53:11+02:00', text: 'Sho\'s tour is fantastic!! If you\'ve always eaten ramen without really knowing much about it, this is an excellent opportunity to dive deep into the different types and qualities of the various styles. He is super attentive and lovely! There is a bit of walking between the different spots and there might be a few minutes of waiting in line. If you decide to do it during a cold season, make sure to bundle up! Highly recommended!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-30T01:40:54+02:00', text: 'Sho was a fantastic tour guide , we had a great time trying out the ramen which were all delicious ! Highly recommend the tour !' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T10:07:27+02:00', text: 'Highly recommended! We were the only two people on the tour which was great! We arrived early and Sho let us know of a couple of great places to grab food and drinks that are very popular. The ramen was all delicious, perfect amount for me but too much for my partner. Don\'t fill up on the first stop! We purchased beverages outside of what was included. Sho filled us in about so much about the way to eat ramen, like filling your leftover soup from the ramen with a diluted soup so you can drink it, and gave us the option to upgrade to the special ramen of the day at applicable restaurants. He was very friendly, approachable and knowledgeable. He answered all our questions and filled us up. Don\'t forget a jacket at night for when it gets chilly since you may have to wait outside to get a spot to eat in the restaurants. It was great to be able to go into small ramen shops with a local who can read the menus for you!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-01T12:16:41+02:00', text: 'very good guide and good Ramen.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-26T06:51:57+02:00', text: 'Our tour guide, Sho was extremely friendly and the ramen spots we visited were local gems!' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-25T02:36:15+02:00', text: 'Was a great Tour, with 3 different links of Ramen, which all tasted very good. A good way to get to know the different Styles of Ramen making.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-02T04:59:09+01:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-chauffeured-full-day-tour') {
+        return {
+            averageRating: 3.66, totalReviews: 5, guideRating: 3.66, valueRating: 3.66,
+            reviews: [
+                { author: 'Midori', country: 'Verified GetYourGuide review', rating: 5, date: '2024-11-10T13:09:08+01:00', text: 'We had a most enjoyable day. It was great that we were able to go to all the places we wanted to visit. Our driver was excellent and suggested visiting Hokkaido Shrine first thing in the morning while waiting for the places we wanted to visit to open at 10am. It was a lovely shrine and we were glad we got to go there. It was so good that we were able to take our time at each stop and to have our driver waiting for us when we were ready. We would highly recommend this tour.' },
+                { author: 'Pearl', country: 'Verified GetYourGuide review', rating: 3, date: '2026-07-03T15:05:27+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 3, date: '2026-03-18T12:02:07+01:00', text: 'Found this tour operator quite mediocre. The driver was professional and safe but the four is 10 hours customizable and there was no real ideas or strategy except taking the 30 minute drive to oturu and back- why pay $500 for 30 minutes there and have a driver wait for you. The operator is in Hong Kong so doesn’t know local options and has no idea and fairly rude It worked out because hit hotel planned a day for us and gave us a strategy. Would have been terrible if they didn’t help. Got back to Sapporo 6 hours into a -0 hour tour- driver said he didn’t want to wait as the restaurant we wanted to eat at as there is no parking- said why don’t you just take a taxi then I don’t need to wait for you again- we paid for 10 hours so not sure why it’s a hassle for him but we were over it and just agreed and took a cab home Use a different operator that is local and cares' },
+                { author: 'Alejandra', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-22T03:24:51+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2024-12-06T22:37:54+01:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-shikotsu-group-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Beverly', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-06T23:20:51+01:00', text: 'Ellie was a great driver in all the snow fall. we enjoyed the onsen and lunch at Yunohana Onsen. the Ice sculptures were magnificent, even tho\' there was snowing and windy. it was extremely cold but lots of fun and areas to get a warm drink.' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T02:40:56+01:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-03T05:44:41+01:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-snowshoe-experience') {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Aloyse', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-13T04:55:29+02:00', text: 'The tour was perfekt. Chris is a very nice and competent guide. He gave us many explications and usefull tips. He planed a tour which was adapted to our fitness and we had a wonderfull day!' },
+                { author: 'Cameron', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-17T05:58:36+01:00', text: 'Amazing! Had a great time learning to snowshoe and going for a walk through the forest, which was beautiful. The guide was also great, he was helpful and knowledgeable, and also good to talk to. The onsen was also a great location. I would recommend this tour to anyone interested 👍' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-essentials-private-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Imelda', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-14T15:41:17+01:00', text: 'Guide was resourceful and knowledgeable' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-chauffeured-private-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Julie', country: 'Verified GetYourGuide review', rating: 5, date: '2025-05-09T22:55:54+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'sapporo-noboribetsu-private-tour') {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: 'Laura', country: 'Verified GetYourGuide review', rating: 5, date: '2025-08-23T08:12:35+02:00', text: 'The driver was really steady and knew the scenic spots well, so we had a great time. The car is also very comfortable, my mom twisted her waist, and she can still lie down and rest in the car, thanks to the driver\'s help. Next time I come to Hokkaido, I\'ll book the driver\'s car again~' },
+            ],
+        };
+    }
+
     return null;
 };
