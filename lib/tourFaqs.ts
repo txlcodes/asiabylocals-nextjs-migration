@@ -7781,6 +7781,15 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === 'nara-park-beaten-bike-tour') {
+    return [
+      { question: 'Why take an e-bike tour instead of walking?', answer: 'E-bikes cover far more of Nara in the same time — this route reaches Todai-ji, Nara Park, Kasuga Taisha, a local knife shop and Naramachi in one trip, which a walking tour usually can\'t fit in.' },
+      { question: 'Do I need cycling experience?', answer: 'No — the bikes are pedal-assist, not fully electric, so it feels close to a normal bike but with hills and distance taken care of. Suitable for most riders regardless of fitness level.' },
+      { question: 'What is the knife shop stop?', answer: 'A small, local blacksmithing shop off the usual tourist path, where traditional Japanese knife-making is still practiced on a small scale — a stop most visitors never find on their own.' },
+      { question: 'Is Todai-ji entry included?', answer: 'No — the temple entry ticket is paid separately; the tour price covers the e-bike, safety equipment and your guide.' },
+    ];
+  }
+
   if (slug === 'naramachi-old-town-mini-tour') {
     return [
       { question: 'Do I need to bring my own kimono?', answer: 'No — kimono rental and full dressing, including the obi sash, are included. Staff help you choose a pattern and dress you properly, which most visitors can\'t do alone.' },
