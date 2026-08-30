@@ -233,6 +233,10 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'maya-bay-adventure-boat-tour': 'maya-bay-islands-full-day-tour',
   // Krabi — four-islands sunset pair (dinner cruise + 7-islands BBQ stay distinct)
   'ao-nang-sunset-sunset-tour': 'chicken-island-sunset-tour',
+  // Gap-fills (2026-08-31): three clones the first Thailand pass missed
+  'chicken-island-sunset-sunset-tour': 'chicken-island-sunset-tour',
+  'bangkok-ayutthaya-day-trip': 'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch',
+  'bangkok-canal-tour': 'bangkok-longtail-boat-canal-cruise-hidden-temples',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
