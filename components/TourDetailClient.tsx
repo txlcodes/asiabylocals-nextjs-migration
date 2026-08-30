@@ -2584,20 +2584,38 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       </div>
 
 
-                      {tour.languages && tour.languages.length > 0 && (
-                        <div className="relative">
-                          <select
-                            value={selectedLanguage}
-                            onChange={(e) => setSelectedLanguage(e.target.value)}
-                            className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
-                          >
-                            {tour.languages.map((lang: string) => (
-                              <option key={lang} value={lang}>{lang}</option>
-                            ))}
-                          </select>
-                          <Globe className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
-                        </div>
-                      )}
+                      {(() => {
+                        // An option's own `language` field is normally a single value
+                        // ("English"). A few options — e.g. this tour's "Foreign
+                        // Languages Speaking Guide" — store a comma-separated list
+                        // instead, because that option alone covers languages the
+                        // rest of the tour doesn't. When that's the case, the picker
+                        // should offer only what THIS option actually supports, not
+                        // every language the tour has anywhere (which used to show
+                        // Russian on the plain English-guide option too). Any option
+                        // with a single-value language field behaves exactly as
+                        // before — this only changes anything for options that
+                        // opted into a list.
+                        const optionLanguages = selectedOption?.language?.includes(',')
+                          ? selectedOption.language.split(',').map((l: string) => l.trim()).filter(Boolean)
+                          : null;
+                        const availableLanguages = optionLanguages || tour.languages;
+                        if (!availableLanguages || availableLanguages.length === 0) return null;
+                        return (
+                          <div className="relative">
+                            <select
+                              value={availableLanguages.includes(selectedLanguage) ? selectedLanguage : availableLanguages[0]}
+                              onChange={(e) => setSelectedLanguage(e.target.value)}
+                              className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none appearance-none"
+                            >
+                              {availableLanguages.map((lang: string) => (
+                                <option key={lang} value={lang}>{lang}</option>
+                              ))}
+                            </select>
+                            <Globe className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={20} />
+                          </div>
+                        );
+                      })()}
                     </div>
 
                     {/* Policies */}
