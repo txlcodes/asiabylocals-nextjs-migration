@@ -11031,5 +11031,87 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === 'nagoya-gujo-full-day-tour') {
+        return {
+            averageRating: 4.5, totalReviews: 603, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: 'Kathie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-24T07:42:11+02:00', text: 'This was an interesting trip to see three very different traditional towns. The pacing was very good..enough time at each place without being rushed. This was not a very large group so we weren’t crowded. The guide John Lee took very good care in ensuring everyone was present and everyone knew the meeting times. I really appreciated that he contacted me prior to the trip with pictures and explicit directions to the meeting site. I was glad to see a side of Japan distinct from Tokyo. All three had their charm and this trip was an excellent opportunity to get to see them.' },
+                { author: 'Quentin', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-21T04:52:41+02:00', text: 'A very nice experience to easily discover the Japanese Alps from Nagoya when you don\'t have a car. The time allowed at each stop is sufficient to visit a good number of the places. Our live guide was really very friendly! We were able to take part in an interesting guided tour of Gujo Hachiman with her. She also gave very good advice about the remarkable places to see in Takayama and Shirakawa-go, and her explanations were clear. The village of Shirakawa-go was truly a feast for the eyes!! Thank you very much for this day! :)' },
+                { author: 'Krzysztof', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-18T00:32:58+02:00', text: 'Probably the best option to visit Takayama and Shirakawa-go while in Nagoya. We didn\'t use a guided tour, treating the trip as a means of transportation between things to do. Everything was OK.' },
+                { author: 'Angus', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-07T00:30:38+02:00', text: 'It was awesome! All the spots we stopped at were different and unique in their own way and each of our tour guides recommendations were exceptional. We would definitely recommend when planning your next trip' },
+                { author: 'Fanny', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T14:26:53+02:00', text: 'An exceptional activity! We had enough time to enjoy each place. Our live guide was truly perfect: very friendly, organized, attentive, and full of interesting information. She explained everything very clearly before each stop and guided us perfectly on site. Thanks to her, we had a great day. The bus was very comfortable, and Shirakawa-go was simply stunning. I would definitely recommend it!' },
+                { author: 'Valarie', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-05T00:40:56+02:00', text: 'Great trip! I feel I had just enough time to see everything I wanted. There wasn\'t much commentary at all from the guide but I didn\'t mind. I mostly wanted the transportation anyway. The day went smoothly and the site were very special.' },
+                { author: 'Janelle', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-03T09:15:16+02:00', text: 'John Lee our tour guide was excellent. Explained everything made sure we new the time to be a places and too come back to the bus etc. Fab day.' },
+                { author: 'Clair', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-27T06:20:27+02:00', text: 'An absolutely beautiful tour in the Japanese mountains that allowed us to see these wonders even with little time. I will try to go back for a longer stay. If you love nature and traditional villages, don\'t hesitate! The very pleasant live guide switched between English and Chinese to explain everything to the different participants. One of my best souvenirs from this trip.' },
+                { author: 'Céline', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-17T02:44:30+02:00', text: 'A very well-organized and optimized day trip. I went with Wang, who is a live guide fluent in Chinese, Japanese, and English. He is attentive and very professional. A very nice day trip without having to worry about a thing!' },
+                { author: 'Eszter', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-09T07:42:15+02:00', text: 'A unique taste of the Japanese historic countryside with breathtaking places. Well organized, well delivered tour. Our guide Summer was really nice, took good care of us all along and spoke excellent English.' },
+            ],
+        };
+    }
+
+    if (slug === 'magome-juku-guided-tour') {
+        return {
+            averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
+            reviews: [
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-09T15:44:16+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'toyota-commemorative-museum-of-industry') {
+        return {
+            averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
+            reviews: [
+                { author: 'Leonard', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-31T01:18:01+02:00', text: 'The guide was flexible about adjusting the itinerary to meet my interests. Although this was a last-minute change, he came fully informed about the places we visited' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-23T03:16:52+01:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'nagoya-cutting-mini-tour') {
+        return {
+            averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
+            reviews: [
+                { author: 'Nick', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-20T07:54:15+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'nagoya-nakasendo-guided-tour') {
+        return {
+            averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
+            reviews: [
+                { author: 'Thomas', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-18T22:43:36+02:00', text: 'We were picked up personally by Ben at the hotel. In a super comfortable Toyota van. The tour took place with four people, meaning only with us. Ben is a nice tour guide. He took care of everything and made sure we were doing well. Our individual wishes were also taken into account. The tour took us away from the big cities into the mountains and to beautiful places without mass tourism. Traditional Japan, but very different. We would do this tour again. It\'s expensive, but it\'s still worth it. The personalized attention in particular provides tremendous added value. Many thanks to Ben for the safe ride, the support, lots of information, and friendly conversations.' },
+            ],
+        };
+    }
+
+    if (slug === 'tokoname-full-day-tour') {
+        return {
+            averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
+            reviews: [
+                { author: 'Melissa', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-20T15:26:05+02:00', text: '' },
+            ],
+        };
+    }
+
+    if (slug === 'inuyama-castle-full-day-tour') {
+        return {
+            averageRating: 4.46, totalReviews: 43, guideRating: 4.46, valueRating: 4.46,
+            reviews: [
+                { author: 'Sylvain', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-28T01:48:36+02:00', text: 'Our live guide Tomika was very attentive to our needs. She is punctual, pleasant, and kept us well informed throughout the tour. I highly recommend her.' },
+                { author: 'Kim', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-30T12:27:12+02:00', text: 'It was a wonderfully beautiful tour in the company of a very pleasant tour guide. I particularly enjoyed the visits to Magone-juku and Tsumago-juku, with their old wooden houses surrounded by mountains whose peaks were veiled by light clouds after the rain that had fallen since last night.' },
+                { author: 'Shuo', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-07T06:55:51+02:00', text: '舒玥Suesy was great Guide for the whole day! she is helpful and friendly, the scener on the trips was stunning!' },
+                { author: 'Jonas', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-04T02:17:50+01:00', text: 'Nice, well-organized day trip. The postal towns are definitely worth a trip!Our tour guide was Amy. She was super friendly and gave us tons of info. We highly recommend a tour.' },
+                { author: 'Carlos de Jesus Lopez', country: 'Verified GetYourGuide review', rating: 4, date: '2026-01-14T08:14:19+01:00', text: 'Overall, everything was great. Highly recommended for seeing rustic villages in Japan. If you\'re traveling in winter, I recommend wearing thick socks or bringing an extra pair, as the castle is very cold and you have to go in barefoot' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-31T01:45:31+02:00', text: '' },
+                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-15T06:02:49+02:00', text: '' },
+                { author: 'Frederic', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T00:39:10+02:00', text: '' },
+                { author: 'Miriam', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-24T03:58:01+02:00', text: '' },
+                { author: 'Silvia', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-16T02:21:39+02:00', text: '' },
+            ],
+        };
+    }
+
     return null;
 };

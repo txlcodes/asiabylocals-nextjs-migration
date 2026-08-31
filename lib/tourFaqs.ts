@@ -7799,5 +7799,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === 'chubu-electric-power-mirai-tower-walking-tour') {
+    return [
+      { question: 'What does this walking tour cover?', answer: 'Nagoya Castle and its samurai-history context, plus city icons around it, on a 3-hour private walk with a licensed guide.' },
+      { question: 'Is Nagoya Castle entry included?', answer: 'Confirm inclusions with the operator at booking — the tour covers the guided walk itself; castle entry fees are typically separate on private walking tours.' },
+      { question: 'Is this tour private or small-group?', answer: 'Private — you get the guide\'s full attention and can adjust the pace to your interests.' },
+    ];
+  }
+
+  if (slug === 'nagoya-gujo-full-day-tour') {
+    return [
+      { question: 'What three destinations does this cover?', answer: 'Gujo\'s castle town, Hida-Takayama\'s preserved Edo-period merchant streets, and the UNESCO-listed thatched-roof village of Shirakawa-go — all in one 11-hour day.' },
+      { question: 'Is this a long day?', answer: 'Yes — 11 hours covering three distinct mountain destinations. It\'s a full-day commitment, best suited to travelers who want to see all three in one trip rather than split across separate days.' },
+      { question: 'Do I need to book in advance?', answer: 'Yes — this runs as a scheduled day tour with fixed departure times, so book at least the day before to secure your spot.' },
+    ];
+  }
+
+  if (slug === 'nagoya-tv-tower-evening-tour') {
+    return [
+      { question: 'What are the "two towers" in the title?', answer: 'Nagoya TV Tower and a second elevated viewpoint, both covered on this 2.5-hour evening walking tour of the city\'s illuminated skyline.' },
+      { question: 'Is this tour suitable after a full day of sightseeing?', answer: 'Yes — it\'s a relatively relaxed 2.5-hour evening walk, designed as a lower-effort way to see the city lit up rather than a physically demanding day trip.' },
+      { question: 'What should I wear?', answer: 'Comfortable walking shoes and a layer for the evening, since temperatures drop after dark even when daytime is warm.' },
+    ];
+  }
+
+  if (slug === 'kinjo-pier-food-tour') {
+    return [
+      { question: 'Is this tour aimed at cruise passengers specifically?', answer: 'Yes — it\'s built around Kinjo Pier, Nagoya Port\'s cruise terminal, and designed to fit within a typical shore-excursion time window.' },
+      { question: 'How long does the food tour take?', answer: 'About 2 hours, covering multiple food stops near the port.' },
+      { question: 'Do I need to arrange transport back to my ship?', answer: 'Confirm pickup/return logistics with the operator when booking, since this is specifically built around cruise-passenger timing.' },
+    ];
+  }
+
+  if (slug === 'inuyama-castle-full-day-tour') {
+    return [
+      { question: 'What makes Inuyama Castle different from Nagoya Castle?', answer: 'Inuyama has one of only twelve original wooden castle keeps left in Japan, predating WWII entirely — unlike Nagoya\'s own concrete postwar reconstruction. It\'s also a National Treasure.' },
+      { question: 'What else does this tour cover besides Inuyama Castle?', answer: 'The Nakasendo post towns of Magome-juku and/or Tsumago-juku, preserved Edo-period trade-route towns, over a 10-hour full day.' },
+      { question: 'How much walking is involved?', answer: 'A meaningful amount — both the castle grounds and the post towns are best explored on foot. Comfortable walking shoes are recommended.' },
+    ];
+  }
+
     return null;
 };

@@ -107,6 +107,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'hiroshima': { country: 'japan', city: 'hiroshima' },
   'sapporo': { country: 'japan', city: 'sapporo' },
   'nara': { country: 'japan', city: 'nara' },
+  'nagoya': { country: 'japan', city: 'nagoya' },
   'bali': { country: 'indonesia', city: 'ubud' },
   'yogyakarta': { country: 'indonesia', city: 'yogyakarta' },
   'bangkok': { country: 'thailand', city: 'bangkok' },
@@ -244,6 +245,12 @@ export const SAPPORO_INFO_SLUGS = [
 export const NARA_INFO_SLUGS = [
   'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
   'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary'
+];
+
+// Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
+export const NAGOYA_INFO_SLUGS = [
+  'best-time-to-visit-nagoya', 'nagoya-castle-guide', 'getting-around-nagoya',
+  'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

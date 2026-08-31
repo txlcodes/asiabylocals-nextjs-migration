@@ -1304,6 +1304,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Nagoya-specific FAQs
+    if (cityLower === 'nagoya' || tourTitle.toLowerCase().includes('nagoya')) {
+      faqs.push(
+        { question: 'When is the best time to visit Nagoya?', answer: 'Late March to early April for cherry blossom at Nagoya Castle, or mid-to-late November for autumn colour at Korankei Gorge. **Summer (July-August) is hot and humid**, often mid-30s°C. Full breakdown in our [best time to visit Nagoya guide](/japan/nagoya/best-time-to-visit-nagoya).' },
+        { question: 'Why is Nagoya Castle concrete instead of wood?', answer: 'The original 1612 castle was destroyed in **1945 bombing raids**; the current keep was rebuilt in **1959 in concrete**, though the Honmaru Palace was faithfully reconstructed in traditional wood, finishing in 2018. Full history in our [Nagoya Castle guide](/japan/nagoya/nagoya-castle-guide).' },
+        { question: 'How do I get around Nagoya?', answer: 'The **subway** (6 lines, from ¥210) covers almost everything, and the **Me-guru sightseeing bus** loops between the castle, museums and Atsuta Shrine. See [getting around Nagoya](/japan/nagoya/getting-around-nagoya).' },
+        { question: 'What food is Nagoya known for?', answer: '**Hitsumabushi** (grilled eel, eaten three ways), **tebasaki** (twice-fried chicken wings, a Nagoya invention), and **miso katsu** — all built around haccho miso, a dark fermented red miso. See the [Nagoya food guide](/japan/nagoya/nagoya-food-guide).' },
+        { question: 'What are the best day trips from Nagoya?', answer: '**Inuyama Castle** (~30 min, one of Japan\'s 12 original wooden keeps) is the closest; **Tokoname** pottery town and the **Magome-juku to Tsumago-juku** Nakasendo walk are also easy half-days. Honest rankings in our [Nagoya day trips guide](/japan/nagoya/nagoya-day-trips).' },
+        { question: 'How many days do I need in Nagoya?', answer: 'Two days works well: one for the city (castle, Osu, Sakae), one for a day trip. Our [Nagoya 2-day itinerary](/japan/nagoya/nagoya-2-day-itinerary) breaks it down hour by hour.' }
+      );
+    }
+
     // Add Hiroshima-specific FAQs
     if (cityLower === 'hiroshima' || tourTitle.toLowerCase().includes('hiroshima') || tourTitle.toLowerCase().includes('miyajima')) {
       faqs.push(

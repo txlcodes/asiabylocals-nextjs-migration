@@ -5,6 +5,7 @@ import { getOsakaInfoContent } from './osakaInfoContent';
 import { getHiroshimaInfoContent } from './hiroshimaInfoContent';
 import { getSapporoInfoContent } from './sapporoInfoContent';
 import { getNaraInfoContent } from './naraInfoContent';
+import { getNagoyaInfoContent } from './nagoyaInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -41,6 +42,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const naraPage = getNaraInfoContent(slug);
     if (naraPage) return naraPage;
+
+    const nagoyaPage = getNagoyaInfoContent(slug);
+    if (nagoyaPage) return nagoyaPage;
 
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;
