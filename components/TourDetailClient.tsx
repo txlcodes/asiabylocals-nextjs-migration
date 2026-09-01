@@ -3743,6 +3743,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       {
         showBookingForm && pendingBookingData && (
           <BookingForm
+            tourId={tour.id}
             tourTitle={tour.title}
             bookingDate={pendingBookingData.bookingDate}
             guests={pendingBookingData.numberOfGuests}

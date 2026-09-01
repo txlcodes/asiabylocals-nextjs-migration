@@ -293,6 +293,22 @@ function AdminLoginView({ onLoginSuccess }: { onLoginSuccess: () => void }) {
   );
 }
 
+/**
+ * Turn a stored phone number into one wa.me will actually open.
+ *
+ * Numbers are stored however the customer typed them, so a US booking arrives
+ * as a bare "2029060642". wa.me needs a country code — without one it opens an
+ * empty chat, which is how a $340 lead sat uncontacted while the dashboard
+ * showed a WhatsApp button that looked like it worked.
+ */
+function toWhatsAppNumber(raw?: string | null): string | null {
+  if (!raw) return null;
+  const digits = String(raw).replace(/[^\d]/g, '');
+  if (!digits) return null;
+  // Ten digits and no country code means US/Canada.
+  return digits.length === 10 ? `1${digits}` : digits;
+}
+
 // ===========================================================================
 // Main Admin Client component
 // ===========================================================================
@@ -2335,7 +2351,7 @@ export default function AdminClient() {
                               <div className="mt-3 flex flex-wrap items-center gap-2">
                                 <span className="text-[12px] text-gray-500 font-semibold">Reach customer:</span>
                                 <a
-                                  href={`https://wa.me/${booking.customerPhone.replace(/[^\d+]/g, '')}?text=${encodeURIComponent(`Hi ${booking.customerName}! Thanks for your interest in ${booking.tour?.title || 'our tour'} with AsiaByLocals. I'd love to personally help you finalise your booking${booking.specialRequests ? ` — regarding your note: "${booking.specialRequests}"` : ''}. How can I help?`)}`}
+                                  href={`https://wa.me/${toWhatsAppNumber(booking.customerPhone)}?text=${encodeURIComponent(`Hi ${booking.customerName}! Thanks for your interest in ${booking.tour?.title || 'our tour'} with AsiaByLocals. I'd love to personally help you finalise your booking${booking.specialRequests ? ` — regarding your note: "${booking.specialRequests}"` : ''}. How can I help?`)}`}
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   className="px-3 py-2 bg-green-500/10 text-green-700 text-[12px] font-bold rounded-lg hover:bg-green-500/20 transition-colors"
@@ -2362,7 +2378,7 @@ export default function AdminClient() {
                                 <span className="text-[12px] text-gray-500 font-semibold">Reach supplier:</span>
                                 {(booking.supplier?.whatsapp || booking.supplier?.phone) && (
                                   <a
-                                    href={`https://wa.me/${(booking.supplier?.whatsapp || booking.supplier?.phone || '').replace(/[^\d+]/g, '')}`}
+                                    href={`https://wa.me/${toWhatsAppNumber(booking.supplier?.whatsapp || booking.supplier?.phone)}`}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="px-3 py-2 bg-green-500/10 text-green-700 text-[12px] font-bold rounded-lg hover:bg-green-500/20 transition-colors"
@@ -2425,7 +2441,7 @@ export default function AdminClient() {
                                       if (data.reviewUrl) {
                                         const message = `Hi ${booking.customerName}! 😊 Thank you for booking ${booking.tour?.title || 'your tour'} with AsiaByLocals. We'd love to hear about your experience! Please share your review here: ${data.reviewUrl}`;
                                         const whatsappUrl = booking.customerPhone
-                                          ? `https://wa.me/${booking.customerPhone.replace(/[^\d+]/g, '')}?text=${encodeURIComponent(message)}`
+                                          ? `https://wa.me/${toWhatsAppNumber(booking.customerPhone)}?text=${encodeURIComponent(message)}`
                                           : `https://wa.me/?text=${encodeURIComponent(message)}`;
                                         window.open(whatsappUrl, '_blank');
                                       } else {

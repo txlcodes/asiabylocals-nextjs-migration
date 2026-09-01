@@ -10,6 +10,7 @@ const CURRENCY_SYMBOLS: Record<string, string> = {
 };
 
 interface BookingFormProps {
+    tourId?: number | string;
     tourTitle: string;
     bookingDate: Date;
     guests: number;
@@ -22,6 +23,7 @@ interface BookingFormProps {
 }
 
 const BookingForm: React.FC<BookingFormProps> = ({
+    tourId,
     tourTitle,
     bookingDate,
     guests,
@@ -58,6 +60,47 @@ const BookingForm: React.FC<BookingFormProps> = ({
         ? Math.round(totalAmount * (targetRate / baseRate) * 100) / 100
         : totalAmount;
     const displaySymbol = CURRENCY_SYMBOLS[payCurrency] || `${payCurrency} `;
+
+    // Tell the server the moment this form has a reachable human in it, without
+    // waiting for them to submit or pay.
+    //
+    // Everything downstream of here can fail: they can close the tab, their
+    // card can be declined, the payment callback can never fire. On 2026-08-31
+    // exactly that happened to a $340 booking and it went unnoticed for 20
+    // hours. Once we have a name and a way to contact someone, that lead is
+    // worth knowing about immediately — the server dedupes to one alert per
+    // person per tour per hour, so typing does not turn into a pager storm.
+    useEffect(() => {
+        const name = formData.fullName.trim();
+        const email = formData.email.trim();
+        const phoneDigits = formData.phone.replace(/\D/g, '');
+        const reachable = email.includes('@') || phoneDigits.length >= 8;
+        if (!name || !reachable) return;
+
+        // Only fire once they have paused typing, not on every keystroke.
+        const timer = setTimeout(() => {
+            const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+            fetch(`${API_URL}/api/booking-inquiry`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    tourId,
+                    tourTitle,
+                    bookingDate: bookingDate instanceof Date ? bookingDate.toISOString().split('T')[0] : bookingDate,
+                    numberOfGuests: guests,
+                    customerName: name,
+                    customerEmail: email || null,
+                    customerPhone: formData.phone || null,
+                    totalAmount,
+                    currency,
+                    specialRequests: formData.specialRequests || null,
+                }),
+                keepalive: true, // still sent if they close the tab right after
+            }).catch(() => { /* a missed alert must never break the booking form */ });
+        }, 2500);
+
+        return () => clearTimeout(timer);
+    }, [formData.fullName, formData.email, formData.phone, formData.specialRequests, tourId, tourTitle, bookingDate, guests, totalAmount, currency]);
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
