@@ -3365,6 +3365,42 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
+        {/* Hakone & Mt. Fuji Essential Guides Section */}
+        {city.toLowerCase() === 'hakone' && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-8">
+              Everything You Need to Know Before Visiting Hakone &amp; Mount Fuji
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[
+                { title: 'Climbing Mount Fuji: The Complete Guide', slug: 'climbing-mount-fuji-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271570/asiabylocals/tours/mount-fuji-sunrise-summit-2day-guided-climb/img0.png' },
+                { title: 'Best Time to Visit Hakone & Mt. Fuji', slug: 'best-time-to-visit-hakone', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788270636/asiabylocals/tours/hakone-mt-fuji-ropeway-lake-ashi-cruise-day-tour/img0.jpg' },
+                { title: 'Getting Around Hakone', slug: 'getting-around-hakone', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271747/asiabylocals/tours/hakone-explorer-guided-day-tour/img0.webp' },
+                { title: 'Hakone Onsen Guide', slug: 'hakone-onsen-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788270648/asiabylocals/tours/hakone-customised-private-day-tour-licensed-guide/img0.png' },
+                { title: 'Where to See Mount Fuji', slug: 'mount-fuji-viewpoints', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271475/asiabylocals/tours/kawaguchiko-fuji-signature-private-day-tour/img0.jpg' },
+                { title: 'Hakone 2-Day Itinerary', slug: 'hakone-2-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271623/asiabylocals/tours/hakone-private-day-tour-onsen-open-air-museum/img0.jpg' },
+              ].map((guide, idx) => (
+                <Link
+                  key={idx}
+                  href={`/japan/hakone/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
+                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Hiroshima Essential Guides Section */}
         {city.toLowerCase() === 'hiroshima' && (
           <section className="mb-16">

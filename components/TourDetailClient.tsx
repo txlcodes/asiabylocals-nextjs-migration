@@ -1316,6 +1316,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Hakone / Mt. Fuji-specific FAQs
+    if (cityLower === 'hakone' || tourTitle.toLowerCase().includes('hakone') || tourTitle.toLowerCase().includes('fuji')) {
+      faqs.push(
+        { question: 'When can you actually climb Mount Fuji?', answer: 'Only during the official season, **roughly early July to early September** — exact dates are announced each year per route. Outside it the mountain huts close, and climbing becomes a serious mountaineering proposition rather than a hike. A mandatory climbing fee and a daily cap now apply on the Yoshida route, with the other routes following. Full detail in our [guide to climbing Mount Fuji](/japan/hakone/climbing-mount-fuji-guide).' },
+        { question: 'When is Mount Fuji most likely to be visible?', answer: 'Counterintuitively, **winter** — the cold, dry air gives the clearest views, while humid summer haze often hides the mountain entirely. That means the climbing season is also the worst viewing season. Where and when to look is covered in our [Mount Fuji viewpoints guide](/japan/hakone/mount-fuji-viewpoints).' },
+        { question: 'What is the Hakone Free Pass and is it worth it?', answer: 'An Odakyu pass covering the whole Hakone loop — Tozan railway, cable car, ropeway, Lake Ashi boats and buses — for less than buying the legs separately. How the loop works and which direction to travel it is in [getting around Hakone](/japan/hakone/getting-around-hakone).' },
+        { question: 'Can I use a Hakone onsen if I have tattoos?', answer: 'It varies. Many traditional baths still refuse tattoos, some now allow them with cover stickers, and a **private bath (kashikiri)** is the reliable workaround. Bathing etiquette and how to find tattoo-friendly options are in our [Hakone onsen guide](/japan/hakone/hakone-onsen-guide).' },
+        { question: 'Why is Mount Fuji a UNESCO cultural site rather than a natural one?', answer: 'It was listed in **2013 for its influence on art, literature and pilgrimage** — not for its geology. That is why the listing includes places like Oshino Hakkai and the Sengen shrines, not just the peak itself. Background in our [climbing Mount Fuji guide](/japan/hakone/climbing-mount-fuji-guide).' },
+        { question: 'How many days do I need for Hakone?', answer: 'Two days lets you do the loop without rushing and still soak properly in an onsen — a single day works but means moving constantly. Our [Hakone 2-day itinerary](/japan/hakone/hakone-2-day-itinerary) maps it out hour by hour.' },
+        { question: 'Are these private tours priced per person or per group?', answer: 'Most Hakone and Mt. Fuji private tours here are priced **for the whole party, not per traveller** — the operator is providing a vehicle and a guide, so a group of four pays the same as a couple. The exceptions are the group summit climbs, which are genuinely per person. Each tour page states which model applies.' }
+      );
+    }
+
     // Add Hiroshima-specific FAQs
     if (cityLower === 'hiroshima' || tourTitle.toLowerCase().includes('hiroshima') || tourTitle.toLowerCase().includes('miyajima')) {
       faqs.push(
