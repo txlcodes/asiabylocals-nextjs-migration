@@ -125,7 +125,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
                 { author: "Allison", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-23", text: "Delicious food! Lovey evening with great company. Ukyo was a friendly guide." },
                 { author: "Zack", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-30", text: "Don\u2019t let the small number of reviews push you away from this experience! It\u2019s fantastic! We made a last minute booking and had an amazing time in the cute little shop where the class is held. Our host, Yuko, was highly knowledgeable and led us through a great course on the history of sake, how it is produced, and the various flavor profiles resulting from the production process. Through the class, you\u2019ll sample 8 different sake varieties. All of them were delicious and really help you to understand the various flavor profiles present. I now feel much more comfortable going and choosing a sake to pair with food after completing this class. I would highly recommend this class to anyone who likes sake or desires to learn more about it!" },
                 { author: "sarai", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-11", text: "Yuko was great at explaining the culture around sake, how to taste it and choose it. She is a lovely and knowledgeable person" },
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Such a fun activity! Very educational and fun. We learned so much about sake and pairing. I highly recommend this activity" },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Such a fun activity! Very educational and fun. We learned so much about sake and pairing. I highly recommend this activity" },
                 { author: "Boris", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-21", text: "Was really interesting, we enjoyed a lot" },
             ],
         };
@@ -9672,7 +9672,7 @@ if (slug === "hong-island-boat-tour") {
         return {
             averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 4.9,
             reviews: [
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-05", text: "Road cycling in Tokyo with an excellent guide = awesome experience!" },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-05", text: "Road cycling in Tokyo with an excellent guide = awesome experience!" },
             ],
         };
     }
@@ -9760,9 +9760,9 @@ if (slug === "hong-island-boat-tour") {
                 { author: "Arjay", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-02", text: "We booked the Tokyo night tour and got picked up right from Narita , which made arrival stress-free. His Toyota Crown was incredibly clean and honestly felt like a racing car inside, super smooth and powerful. The whole tour was really nice, he knew all the best spots and timed everything perfectly for the city lights. He’s very good at what he does, welcoming and easy to talk to the whole night. The car ride itself was a highlight, fast but comfortable with zero rush. We felt looked after from pickup to drop-off and had a great time. Would definitely recommend him if you want a clean car + a solid Tokyo night experience." },
                 { author: "Fielder", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-12", text: "Our night tour was such a pleasant surprise. The cooler evening weather made walking around so much easier, and the city looked incredible under the lights. Our guide was friendly, patient, and made sure everyone was comfortable. We stopped at several great photo spots, and the atmosphere felt peaceful compared to the daytime rush. It was a perfect way to end the day, and I’d happily do it again." },
                 { author: "John", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-06", text: "This is best activity yo see tokyo at night time. Everything is perfect, the knowledgeable driver sunny, his car way of explaining, all the things are best. We highly recommend this activity all the travelers who want to see real beauty of tokyo. Bless you sunny" },
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Sunny est un excellent guide qui explique tres bien, il prend de bonnes photos et fait en sorte que tout se passe pour le mieux. Je le recommande vivement." },
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "We had an incredible Tokyo night tour with Mian, and it was one of the highlights of our trip. Tokyo looks completely different after dark, with colorful lights and an amazing energy everywhere. Shibuya was unforgettable with its famous crossing, huge screens, and lively streets. Shinjuku was even more impressive at night with endless neon lights and busy entertainment areas. Harajuku had its own unique atmosphere and gave us another side of Tokyo to experience. Odaiba was beautiful and peaceful, with stunning nighttime views of the city and Rainbow Bridge. The contrast between Tokyo’s busy streets and waterfront scenery was amazing. Mian was friendly, knowledgeable, and made the whole journey comfortable and enjoyable. We had plenty of opportunities to take beautiful nighttime photos along the way. I would definitely recommend this tour with Mian to anyone who wants to experience the beauty and lights of Tokyo at night." },
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "Our Tokyo Night Tour with Sunny was truly one of the highlights of our trip to Japan. From the moment he picked us up, he made us feel welcome, comfortable, and genuinely cared for throughout the entire experience. His knowledge of Tokyo is simply incredible—he knows not only the famous landmarks but also countless hidden gems that most tourists would never discover. Every stop had an interesting story, making the city come alive in a unique way. Sunny always knew the best routes, avoiding traffic and ensuring we spent more time enjoying the sights instead of sitting in the car. He was incredibly friendly, patient, and happy to answer every question with a smile. His passion for Tokyo and its culture is obvious, and his recommendations were spot on. We never felt rushed, and he went above and beyond to make sure we had the best possible experience. If you’re looking for someone who truly cares about creating unforgettable memories rather than just driving you around, Sunny is the perfe" },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "Sunny est un excellent guide qui explique tres bien, il prend de bonnes photos et fait en sorte que tout se passe pour le mieux. Je le recommande vivement." },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "We had an incredible Tokyo night tour with Mian, and it was one of the highlights of our trip. Tokyo looks completely different after dark, with colorful lights and an amazing energy everywhere. Shibuya was unforgettable with its famous crossing, huge screens, and lively streets. Shinjuku was even more impressive at night with endless neon lights and busy entertainment areas. Harajuku had its own unique atmosphere and gave us another side of Tokyo to experience. Odaiba was beautiful and peaceful, with stunning nighttime views of the city and Rainbow Bridge. The contrast between Tokyo’s busy streets and waterfront scenery was amazing. Mian was friendly, knowledgeable, and made the whole journey comfortable and enjoyable. We had plenty of opportunities to take beautiful nighttime photos along the way. I would definitely recommend this tour with Mian to anyone who wants to experience the beauty and lights of Tokyo at night." },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-30", text: "Our Tokyo Night Tour with Sunny was truly one of the highlights of our trip to Japan. From the moment he picked us up, he made us feel welcome, comfortable, and genuinely cared for throughout the entire experience. His knowledge of Tokyo is simply incredible—he knows not only the famous landmarks but also countless hidden gems that most tourists would never discover. Every stop had an interesting story, making the city come alive in a unique way. Sunny always knew the best routes, avoiding traffic and ensuring we spent more time enjoying the sights instead of sitting in the car. He was incredibly friendly, patient, and happy to answer every question with a smile. His passion for Tokyo and its culture is obvious, and his recommendations were spot on. We never felt rushed, and he went above and beyond to make sure we had the best possible experience. If you’re looking for someone who truly cares about creating unforgettable memories rather than just driving you around, Sunny is the perfe" },
             ],
         };
     }
@@ -9996,10 +9996,10 @@ if (slug === "hong-island-boat-tour") {
             averageRating: 4.63, totalReviews: 5, guideRating: 4.63, valueRating: 4.63,
             reviews: [
                 { author: 'Aikaterini', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-16', text: 'Great sight seeing from the water during the evening!!! Great service as well!!!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-30', text: 'Excellent. Great guides' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 3, date: '2026-04-23', text: 'Unfortunately, the providers are not very experienced. Not recommended.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-05', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-19', text: 'Oh my goodness! This was by far our most favorite experience in Japan thus far. Amazing guides, the captain was so so funny. It was worth every penny and more.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-30', text: 'Excellent. Great guides' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 3, date: '2026-04-23', text: 'Unfortunately, the providers are not very experienced. Not recommended.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-05', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-19', text: 'Oh my goodness! This was by far our most favorite experience in Japan thus far. Amazing guides, the captain was so so funny. It was worth every penny and more.' },
             ],
         };
     }
@@ -10012,7 +10012,7 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Nicole', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-07', text: 'My friend and I really enjoyed this experience! The hosts were very friendly and effectively explained the purpose of tea ceremonies as well as symbolism behind the rituals involved. Highly recommend this experience to anyone that is interested in learning more about Japanese culture!' },
                 { author: 'Filipe', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-13', text: 'A truly unforgettable experience on our last day in Osaka. The tea ceremony was a beautiful and serene celebration of Japanese tradition and culture. We were deeply touched not only by the grace of the ritual but also by the kindness and hospitality of everyone who participated. A heartfelt thank you for sharing such a special moment with us. Warm greetings from Portugal!' },
                 { author: 'Andrea', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-08', text: 'It was absolutely amazing experience, very authentic. From all places I searched in Osaka I recommend this one for those who appreciate unique approach, not just a touristic thing. There were only few of us, we could adjust to sitting on the floor instead of chairs and we had a tea prepared by tea master who had many years of experience. Then we tried to make our own tea and there was a difference in taste because we were not as skilled as the master. but tea and sweets were of high quality and the sweets served with the tea were seasonal. the little tearoom inside big hotel is like an oasis you would not expect. There\'s even an authentic little Japanese garden outside!Thank you for this experience, we would recommend it again.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-08', text: 'The staff were very welcoming and knowledgeable. I enjoyed the entire experience.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-08', text: 'The staff were very welcoming and knowledgeable. I enjoyed the entire experience.' },
             ],
         };
     }
@@ -10027,10 +10027,10 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Larry', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-23', text: 'My husband and I had a wonderful private tour to Osaka and Nara with Surya as our guide. He was very knowledgeable, friendly, and made the entire experience enjoyable and stress-free. The vehicle was very nice and comfortable, which made traveling between locations very pleasant. Surya shared interesting information throughout the tour and made sure we had a great experience at every stop. We truly enjoyed our day and highly recommend this tour and Surya to anyone visiting Osaka and Nara!' },
                 { author: 'Kareen', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-20', text: 'We had a great day visiting Nara and Osaka with our driver Ashir. He chose times that beat the crowds and was a very safe driver. Would recommend this tour to anyone visiting Osaka!' },
                 { author: 'Maria Paz', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-05', text: 'Everything was perfect. The guide was super punctual, attentive and very patient, and took us to all the places on the itinerary. 10/10!!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-24', text: 'The company and our guide Ismail were great! We were able to customize our tour to what we had left on our list of sights to see and were able to customize it further to go at our own pace with three young kids! It was perfect for our family and Ismail was such a great guide! We even were able to get dropped off at the airport at the end of the tour for a reasonable extra fee! Great tour, great guide, and worth the price!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-04', text: 'Ally was an excellent guide! He showed us Nara Park, Tadaj-si temple l, and Osaka Castle. He had a wheelchair for my mom and pushed her in the rain even. I could not have asked for a better guide.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-24', text: 'The company and our guide Ismail were great! We were able to customize our tour to what we had left on our list of sights to see and were able to customize it further to go at our own pace with three young kids! It was perfect for our family and Ismail was such a great guide! We even were able to get dropped off at the airport at the end of the tour for a reasonable extra fee! Great tour, great guide, and worth the price!' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-04', text: 'Ally was an excellent guide! He showed us Nara Park, Tadaj-si temple l, and Osaka Castle. He had a wheelchair for my mom and pushed her in the rain even. I could not have asked for a better guide.' },
                 { author: 'SAEED', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-12', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2025-10-30', text: 'Driver was friendly and accommodating but did not speak much. If you want information about the places you are visiting, I recommend booking a tour guide. It was essentially just a taxi ride to each place. Still enjoyed the day though.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2025-10-30', text: 'Driver was friendly and accommodating but did not speak much. If you want information about the places you are visiting, I recommend booking a tour guide. It was essentially just a taxi ride to each place. Still enjoyed the day though.' },
             ],
         };
     }
@@ -10046,9 +10046,9 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Simon', country: 'Verified GetYourGuide review', rating: 5, date: '2025-04-20', text: 'Kevin was a fantastic guide - funny and very knowledgeable. I had a great experience with Kevin!' },
                 { author: 'Ansel', country: 'Verified GetYourGuide review', rating: 5, date: '2025-01-22', text: 'Fascinating tour of Osaka and LGBT history and culture here. Our guide (Kevin) was very knowledgeable and showed us so many places we never would have seen or even knew existed in the city. We had a great time and would definitely recommend!' },
                 { author: 'James', country: 'Verified GetYourGuide review', rating: 5, date: '2024-09-23', text: 'This was the best thing I did on my visit to Japan - Kevin was funny, friendly and full of insights and intelligence - would 100% recommend' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-24', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-09', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-08', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-24', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-09', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-08', text: '' },
             ],
         };
     }
@@ -10102,7 +10102,7 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'David', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-16', text: 'Was very fun experience putting on kimonos and photo shoot was even more experiencing. would definitely recommend this to all my friends visiting Japan' },
                 { author: 'Francesco', country: 'Verified GetYourGuide review', rating: 5, date: '2024-08-21', text: 'A beautiful experience. The place is very easy to find. As soon as I arrived I was greeted by three beautiful girls, after the pleasantries the girls were very polite and cheerful as well as beautiful. While one of them did my make-up, very good by the way, we joked a bit and talked about our respective countries. After the male-up I got ready and then she put on the Yukata that I had personally chosen beforehand. The photo shoot was carried out by the photographer and owner of the business. A very professional person who knows how to do his job very well. The girls helped him by translating and passing me the gadgets necessary for the photo shoot. An experience that you absolutely must do.' },
                 { author: 'Danilo', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-18', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-31', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-31', text: '' },
             ],
         };
     }
@@ -10310,7 +10310,7 @@ if (slug === "hong-island-boat-tour") {
         return {
             averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
             reviews: [
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-19', text: 'The itinerary was fantastic. We got to see many wonderful sights in one day.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-19', text: 'The itinerary was fantastic. We got to see many wonderful sights in one day.' },
             ],
         };
     }
@@ -10346,7 +10346,7 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'David', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-16', text: 'Was very fun experience putting on kimonos and photo shoot was even more experiencing. would definitely recommend this to all my friends visiting Japan' },
                 { author: 'Francesco', country: 'Verified GetYourGuide review', rating: 5, date: '2024-08-21', text: 'A beautiful experience. The place is very easy to find. As soon as I arrived I was greeted by three beautiful girls, after the pleasantries the girls were very polite and cheerful as well as beautiful. While one of them did my make-up, very good by the way, we joked a bit and talked about our respective countries. After the male-up I got ready and then she put on the Yukata that I had personally chosen beforehand. The photo shoot was carried out by the photographer and owner of the business. A very professional person who knows how to do his job very well. The girls helped him by translating and passing me the gadgets necessary for the photo shoot. An experience that you absolutely must do.' },
                 { author: 'Danilo', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-18', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-31', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-31', text: '' },
             ],
         };
     }
@@ -10647,9 +10647,9 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'María', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-25T06:15:59+02:00', text: 'Edson led an unbeatable sightseeing tour. He spent more than 8 hours with us on this sightseeing tour, giving us lots of information, the best recommendations for food, drinks and shopping, and he also answered all the questions we had about everything we had already seen in Japan. If you want a comprehensive Spanish-speaking sightseeing tour, don\'t hesitate to buy it (even though it has few reviews, we all agreed on 5 stars, and that means something)' },
                 { author: 'Mario', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-18T02:36:37+02:00', text: 'We were a group of 3 with our tour guide Juan. We learned not only about Miyajima and Hiroshima, but also about Japanese culture, their daily life, and what to do and what not to do. We were very comfortable and would definitely do it again.' },
                 { author: 'Robert', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-26T02:12:15+02:00', text: 'AMAZING!!! Ana was awesome! So I booked the tour not knowing it was in Spanish. (That detail was not in the description btw.) But Ana made me feel welcome and included. She did double duty by translating everything she was telling the folks in Spanish to me in English. I learned so much. She was very knowledgeable and helpful. She knew the right spots for things and knew the particulars that would maximize our enjoyment. I would recommend this tour for ANYONE, but mainly for those who speak Spanish. I had a blast and would say BOOK THIS TOUR!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-04T01:52:26+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-04T01:52:26+02:00', text: '' },
                 { author: 'Fabricio', country: 'Verified GetYourGuide review', rating: 5, date: '2026-07-31T02:04:41+02:00', text: 'Great! We loved it!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-26T04:05:05+02:00', text: 'Excellent one-day trip and the tour guide, Ana, was perfect. Everything was great. We look forward to continuing with GYG. Congratulations.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-26T04:05:05+02:00', text: 'Excellent one-day trip and the tour guide, Ana, was perfect. Everything was great. We look forward to continuing with GYG. Congratulations.' },
             ],
         };
     }
@@ -10658,7 +10658,7 @@ if (slug === "hong-island-boat-tour") {
         return {
             averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
             reviews: [
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-21T16:07:19+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-21T16:07:19+02:00', text: '' },
             ],
         };
     }
@@ -10810,12 +10810,12 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Christine', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-19T12:30:01+01:00', text: 'Great! Just like it was described! Thanks so much Hong!' },
                 { author: 'Aleksandr', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-28T10:51:19+01:00', text: 'This tour was absolutely outstanding from start to finish. Mr. Hong is an exceptional guide. He clearly cares about every guest and puts real heart into his work. The explanations were engaging, the atmosphere was friendly, and every detail was carefully considered. You can truly feel his professionalism and dedication. Thank you for such a memorable experience — I would highly recommend this tour to anyone visiting!' },
                 { author: 'Larissa', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-07T01:39:52+01:00', text: 'The guide was super helpful and friendly. The whole tour was amazing and more than I expected. My family and I are very satisfied with everything.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T00:59:15+02:00', text: 'I impressed with Alissa about well prepare for the tour. she gave us a lot of idea/suggestions during the tour and even for dinner spot. also the driver was excellent drive safely.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T11:05:10+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-30T02:22:50+02:00', text: 'everything went well as planned. sunny was great!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-05-29T03:03:22+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 1, date: '2026-05-25T21:29:25+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-21T03:39:35+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T00:59:15+02:00', text: 'I impressed with Alissa about well prepare for the tour. she gave us a lot of idea/suggestions during the tour and even for dinner spot. also the driver was excellent drive safely.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T11:05:10+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-30T02:22:50+02:00', text: 'everything went well as planned. sunny was great!' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-05-29T03:03:22+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 1, date: '2026-05-25T21:29:25+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-21T03:39:35+02:00', text: '' },
             ],
         };
     }
@@ -10864,12 +10864,12 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Lauren', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-17T06:24:55+02:00', text: 'Definitely a great trip, having an English speaking guide was great, She was so helpful as well 👍' },
                 { author: 'José María', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-13T13:35:11+02:00', text: 'We had a wonderful tour with Hikaru. Everything was perfect, and even though the weather was not ideal, we were still able to discover many beautiful places thanks to Hikaru’s great recommendations. Very helpful, knowledgeable, and pleasant throughout the whole experience.' },
                 { author: 'Andre', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-21T01:16:55+01:00', text: 'Very nice day trip! The guide was full of energy and friendly. Nice sceneries. See you soon!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 3, date: '2026-07-22T18:37:21+02:00', text: 'Lake Toya viewpoint Lake Hill farm Hell Valley could be better - more information of areas/sites by guide more direction from guide when arriving at area ie. what\'s here, recommended things to look at water site/park could be omitted from itinerary opportunities to take pictures of Mt Yotei time to take ropeway' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-06-19T16:55:32+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T22:33:12+02:00', text: 'loved Hell valley would have preferred more time there' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-30T23:35:09+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-22T05:57:47+02:00', text: 'The trip was super chill, with beautiful scenery all the way, just a bit windy at times. Andy was incredibly friendly and made everyone feel welcome. He also shared lots of helpful suggestions and advice on gifts, which we really appreciated. Overall, it was such a pleasant and relaxing experience. Hope to visit Hokkaido again in the future.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-20T07:20:08+02:00', text: 'Guide Hong was excellent—very knowledgeable and well-organized. The explanations were clear, time management was strong, and he took great care of all the group members. He left us with a very deep impression.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 3, date: '2026-07-22T18:37:21+02:00', text: 'Lake Toya viewpoint Lake Hill farm Hell Valley could be better - more information of areas/sites by guide more direction from guide when arriving at area ie. what\'s here, recommended things to look at water site/park could be omitted from itinerary opportunities to take pictures of Mt Yotei time to take ropeway' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-06-19T16:55:32+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T22:33:12+02:00', text: 'loved Hell valley would have preferred more time there' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-30T23:35:09+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-22T05:57:47+02:00', text: 'The trip was super chill, with beautiful scenery all the way, just a bit windy at times. Andy was incredibly friendly and made everyone feel welcome. He also shared lots of helpful suggestions and advice on gifts, which we really appreciated. Overall, it was such a pleasant and relaxing experience. Hope to visit Hokkaido again in the future.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-20T07:20:08+02:00', text: 'Guide Hong was excellent—very knowledgeable and well-organized. The explanations were clear, time management was strong, and he took great care of all the group members. He left us with a very deep impression.' },
             ],
         };
     }
@@ -10883,11 +10883,11 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Randolph', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-13T14:43:07+02:00', text: 'It was amazing! Our guide Suru was knowledgeable and informative, he took us to amazing spots and was able to teach us about the culture and history of Sapporo. Not to mention ordering us amazing food and was very considerate concerning food preferences. Could not recommend a better tour or guide! 10/10!!' },
                 { author: 'Naohiko', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-11T12:57:51+02:00', text: 'The guide on this tour was a local and really knew all the hottest restaurants and food spots in the area, which made the experience truly enjoyable. On many other tours, the food choices and portions are fixed, so you often cannot eat very much or choose what you really want. However, on this tour, we were able to order anything we liked from the regular menu, which was extremely satisfying. I highly recommend this tour.' },
                 { author: 'Ebrahim', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-23T02:10:15+01:00', text: 'Taiki was an excellent guide. He was very knowledgeable and selected excellent dishes for us to try. This is a must try for those who’d like to gain a deeper understanding of Sapporo’s food culture.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-22T13:05:41+02:00', text: 'Tsuru was an excellent guide! This guy is the kindest person, very passionate about what he does and taking the best care of his group. He went far beyond what was expected from a tour guide on a food tour. He also gave us a lot of recommendations for our next days in Sapporo and Hokaido, and sent us our photos. He was a lovely person to talk to about Hokaido, Sapporo and Japan.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-20T15:44:34+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-02T23:02:26+02:00', text: 'Our guide Taiga was fantastic. He organized the tour very well and we had a great time. I was the only participant and Taiga was excellent at catering to our individual needs.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 2, date: '2026-02-21T01:39:01+01:00', text: 'For the price charged it was not value for money at all' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-04T11:29:03+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-22T13:05:41+02:00', text: 'Tsuru was an excellent guide! This guy is the kindest person, very passionate about what he does and taking the best care of his group. He went far beyond what was expected from a tour guide on a food tour. He also gave us a lot of recommendations for our next days in Sapporo and Hokaido, and sent us our photos. He was a lovely person to talk to about Hokaido, Sapporo and Japan.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-20T15:44:34+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-02T23:02:26+02:00', text: 'Our guide Taiga was fantastic. He organized the tour very well and we had a great time. I was the only participant and Taiga was excellent at catering to our individual needs.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 2, date: '2026-02-21T01:39:01+01:00', text: 'For the price charged it was not value for money at all' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-04T11:29:03+01:00', text: '' },
             ],
         };
     }
@@ -10903,9 +10903,9 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Jack', country: 'Verified GetYourGuide review', rating: 5, date: '2024-12-28T06:00:02+01:00', text: 'Zarina was great, very knowledgeable and courteous, and thought a lot about our needs' },
                 { author: 'Terry', country: 'Verified GetYourGuide review', rating: 5, date: '2019-12-24T08:21:18+01:00', text: 'Asuka was a wonderful guide, very helpful and provided a great selection of activities which I enjoyed very much.' },
                 { author: 'George', country: 'Verified GetYourGuide review', rating: 4, date: '2024-07-15T22:14:54+02:00', text: 'Enjoyable afternoon - learned a lot and got to try several foods that were new to us' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-26T09:46:43+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-05T00:16:28+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-12T00:01:22+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-26T09:46:43+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-05T00:16:28+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-04-12T00:01:22+02:00', text: '' },
             ],
         };
     }
@@ -10918,12 +10918,12 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Alex', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-06T12:47:52+01:00', text: 'Maggie was utterly delightful and a such excellent teacher. Perfect for absolute beginners (me) as well as those needing more confidence before they go out on their own. Everything was so comfortable and easy to navigate from start to finish - money well spent. This is also the only tour I’ve seen where helmet, goggles and gloves are included with rental gear!' },
                 { author: 'Jason', country: 'Verified GetYourGuide review', rating: 5, date: '2026-01-29T06:43:25+01:00', text: 'Everything was made simple start to finish, gear was all prepared, we got changed and straight into the lesson! Maggie was a fantastic instructor and great company throughout the day! She taught us from beginner to doing multiple runs down the mountain in one day!' },
                 { author: 'Katrina', country: 'Verified GetYourGuide review', rating: 5, date: '2025-12-31T05:29:18+01:00', text: 'I had the best time night skiing with my instructor! Sofie was super friendly, patient, and consistently prioritizing safety above all other considerations. Her tips were easy to follow, and I could feel myself improving after every run. We laughed a lot, and the night views were amazing. Honestly, I didn’t want the lesson to end! If you get the chance, definitely book with her — she makes skiing so much fun!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-28T23:13:22+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-16T06:21:43+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T07:34:53+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-12T11:42:07+01:00', text: 'We had the most incredible experience! It was my very first time ever on skis, while my husband already had some experience, so we weren’t sure how it would work with our different levels. Chris, our guide, was absolutely amazing at managing both of our abilities. He challenged my husband in all the right ways while being incredibly patient, supportive, and encouraging with me. I honestly went in with pretty low expectations, thinking I’d just try to survive the day — but the experience far exceeded anything I imagined, and that was entirely thanks to Chris. He helped me feel comfortable, safe, and confident throughout the day. It was a full-day experience, so I’m not quite a pro yet 😅 but I’m definitely comfortable enough now to put on skis and show off my new skills! We couldn’t have asked for a better guide or a better day. Highly recommend! Would give 6 stars rating if I were aloud 😅☺️' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-06T11:56:19+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-02T08:48:08+01:00', text: 'Learned to ski without even falling. Very nice teacher and the equipment were in good condition.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-28T23:13:22+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-16T06:21:43+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T07:34:53+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-12T11:42:07+01:00', text: 'We had the most incredible experience! It was my very first time ever on skis, while my husband already had some experience, so we weren’t sure how it would work with our different levels. Chris, our guide, was absolutely amazing at managing both of our abilities. He challenged my husband in all the right ways while being incredibly patient, supportive, and encouraging with me. I honestly went in with pretty low expectations, thinking I’d just try to survive the day — but the experience far exceeded anything I imagined, and that was entirely thanks to Chris. He helped me feel comfortable, safe, and confident throughout the day. It was a full-day experience, so I’m not quite a pro yet 😅 but I’m definitely comfortable enough now to put on skis and show off my new skills! We couldn’t have asked for a better guide or a better day. Highly recommend! Would give 6 stars rating if I were aloud 😅☺️' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-02-06T11:56:19+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-02T08:48:08+01:00', text: 'Learned to ski without even falling. Very nice teacher and the equipment were in good condition.' },
             ],
         };
     }
@@ -10941,7 +10941,7 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Ricardo', country: 'Verified GetYourGuide review', rating: 5, date: '2025-10-18T12:09:54+02:00', text: 'A fantastic and memorable night in Sapporo! Our guide Iko was truly amazing — very experienced, engaging, and full of positive energy. She made the whole evening super fun and interactive while sharing lots of local insights. We visited some great hidden food and bar spots with delicious dishes and drinks. Highly recommended for anyone who wants to experience authentic Sapporo nightlife with a knowledgeable and friendly guide!' },
                 { author: 'Zac', country: 'Verified GetYourGuide review', rating: 5, date: '2025-08-17T04:51:02+02:00', text: 'Great value for money , visited multiple food / drink venues you wouldn’t know were there. Our guide Paul was extremely knowledgeable about the area and super helpful Also gave us heaps of recommendations to try for our trip he went above and beyond and the tour felt like we were out drinking with mates Cheers Paul !' },
                 { author: 'Raul', country: 'Verified GetYourGuide review', rating: 5, date: '2025-03-16T12:12:26+01:00', text: 'Our tour was fabulous. Iku shared her vast knowledge about Sapporo’s history and food culture. As I travel through various cities, I try to partake in food tours or bar hopping . Iku was able to combine the best of both aspects . The places we went to were totally delicious . My brother and I both enjoyed her personality and attitude so much we wanted to hire her for a private tour the next day. She’s a grand winner of food tour guides in my book.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T08:46:18+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-01T08:46:18+02:00', text: '' },
             ],
         };
     }
@@ -10954,12 +10954,12 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Florin', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-01T11:41:48+02:00', text: 'Very diverse choices and plenty of food. Don\'t have a heavy lunch and be prepared to eat! The guide was nice and explained the food customs, the ingredients and how each ramen is prepared.' },
                 { author: 'Amanda', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-06T12:29:28+02:00', text: 'We had a great time as Sho was a fantastic guide and taught us many things about the different ramen we were having. All of the ramen was delicious while my husband and I had different favorites. Fun way to spend the evening!' },
                 { author: '慧', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-04T10:53:11+02:00', text: 'Sho\'s tour is fantastic!! If you\'ve always eaten ramen without really knowing much about it, this is an excellent opportunity to dive deep into the different types and qualities of the various styles. He is super attentive and lovely! There is a bit of walking between the different spots and there might be a few minutes of waiting in line. If you decide to do it during a cold season, make sure to bundle up! Highly recommended!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-30T01:40:54+02:00', text: 'Sho was a fantastic tour guide , we had a great time trying out the ramen which were all delicious ! Highly recommend the tour !' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T10:07:27+02:00', text: 'Highly recommended! We were the only two people on the tour which was great! We arrived early and Sho let us know of a couple of great places to grab food and drinks that are very popular. The ramen was all delicious, perfect amount for me but too much for my partner. Don\'t fill up on the first stop! We purchased beverages outside of what was included. Sho filled us in about so much about the way to eat ramen, like filling your leftover soup from the ramen with a diluted soup so you can drink it, and gave us the option to upgrade to the special ramen of the day at applicable restaurants. He was very friendly, approachable and knowledgeable. He answered all our questions and filled us up. Don\'t forget a jacket at night for when it gets chilly since you may have to wait outside to get a spot to eat in the restaurants. It was great to be able to go into small ramen shops with a local who can read the menus for you!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-01T12:16:41+02:00', text: 'very good guide and good Ramen.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-26T06:51:57+02:00', text: 'Our tour guide, Sho was extremely friendly and the ramen spots we visited were local gems!' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-25T02:36:15+02:00', text: 'Was a great Tour, with 3 different links of Ramen, which all tasted very good. A good way to get to know the different Styles of Ramen making.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-02T04:59:09+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-30T01:40:54+02:00', text: 'Sho was a fantastic tour guide , we had a great time trying out the ramen which were all delicious ! Highly recommend the tour !' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-08T10:07:27+02:00', text: 'Highly recommended! We were the only two people on the tour which was great! We arrived early and Sho let us know of a couple of great places to grab food and drinks that are very popular. The ramen was all delicious, perfect amount for me but too much for my partner. Don\'t fill up on the first stop! We purchased beverages outside of what was included. Sho filled us in about so much about the way to eat ramen, like filling your leftover soup from the ramen with a diluted soup so you can drink it, and gave us the option to upgrade to the special ramen of the day at applicable restaurants. He was very friendly, approachable and knowledgeable. He answered all our questions and filled us up. Don\'t forget a jacket at night for when it gets chilly since you may have to wait outside to get a spot to eat in the restaurants. It was great to be able to go into small ramen shops with a local who can read the menus for you!' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-01T12:16:41+02:00', text: 'very good guide and good Ramen.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-26T06:51:57+02:00', text: 'Our tour guide, Sho was extremely friendly and the ramen spots we visited were local gems!' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-05-25T02:36:15+02:00', text: 'Was a great Tour, with 3 different links of Ramen, which all tasted very good. A good way to get to know the different Styles of Ramen making.' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-03-02T04:59:09+01:00', text: '' },
             ],
         };
     }
@@ -10970,8 +10970,8 @@ if (slug === "hong-island-boat-tour") {
             averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
             reviews: [
                 { author: 'Beverly', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-06T23:20:51+01:00', text: 'Ellie was a great driver in all the snow fall. we enjoyed the onsen and lunch at Yunohana Onsen. the Ice sculptures were magnificent, even tho\' there was snowing and windy. it was extremely cold but lots of fun and areas to get a warm drink.' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T02:40:56+01:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-03T05:44:41+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-13T02:40:56+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-02-03T05:44:41+01:00', text: '' },
             ],
         };
     }
@@ -11053,7 +11053,7 @@ if (slug === "hong-island-boat-tour") {
         return {
             averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
             reviews: [
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-09T15:44:16+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-09T15:44:16+02:00', text: '' },
             ],
         };
     }
@@ -11063,7 +11063,7 @@ if (slug === "hong-island-boat-tour") {
             averageRating: 5, totalReviews: 1, guideRating: 5, valueRating: 5,
             reviews: [
                 { author: 'Leonard', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-31T01:18:01+02:00', text: 'The guide was flexible about adjusting the itinerary to meet my interests. Although this was a last-minute change, he came fully informed about the places we visited' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-23T03:16:52+01:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-23T03:16:52+01:00', text: '' },
             ],
         };
     }
@@ -11104,8 +11104,8 @@ if (slug === "hong-island-boat-tour") {
                 { author: 'Shuo', country: 'Verified GetYourGuide review', rating: 5, date: '2026-04-07T06:55:51+02:00', text: '舒玥Suesy was great Guide for the whole day! she is helpful and friendly, the scener on the trips was stunning!' },
                 { author: 'Jonas', country: 'Verified GetYourGuide review', rating: 5, date: '2025-11-04T02:17:50+01:00', text: 'Nice, well-organized day trip. The postal towns are definitely worth a trip!Our tour guide was Amy. She was super friendly and gave us tons of info. We highly recommend a tour.' },
                 { author: 'Carlos de Jesus Lopez', country: 'Verified GetYourGuide review', rating: 4, date: '2026-01-14T08:14:19+01:00', text: 'Overall, everything was great. Highly recommended for seeing rustic villages in Japan. If you\'re traveling in winter, I recommend wearing thick socks or bringing an extra pair, as the castle is very cold and you have to go in barefoot' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-31T01:45:31+02:00', text: '' },
-                { author: 'GetYourGuide traveler', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-15T06:02:49+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-31T01:45:31+02:00', text: '' },
+                { author: 'Traveller', country: 'Verified GetYourGuide review', rating: 4, date: '2026-08-15T06:02:49+02:00', text: '' },
                 { author: 'Frederic', country: 'Verified GetYourGuide review', rating: 5, date: '2026-08-06T00:39:10+02:00', text: '' },
                 { author: 'Miriam', country: 'Verified GetYourGuide review', rating: 4, date: '2026-07-24T03:58:01+02:00', text: '' },
                 { author: 'Silvia', country: 'Verified GetYourGuide review', rating: 5, date: '2026-06-16T02:21:39+02:00', text: '' },
@@ -11174,7 +11174,7 @@ if (slug === "hong-island-boat-tour") {
             averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 4.9,
             reviews: [
                 { author: "Tyler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "Kuzi was an amazing guide. Best one we had all trip. We had it customized to fit the two teenage boys traveling with us and had a great day!" },
-                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "The trip was exactly what we were looking for. We adjusted our day to include time to hang by the beach and visit the Enoshima shrine, which I highly recommend. Our driver, Aabu, was knowledgeable, friendly, and highly communicative, making the day a breeze." },
+                { author: "Traveller", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "The trip was exactly what we were looking for. We adjusted our day to include time to hang by the beach and visit the Enoshima shrine, which I highly recommend. Our driver, Aabu, was knowledgeable, friendly, and highly communicative, making the day a breeze." },
             ],
         };
     }

@@ -1516,10 +1516,14 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                 {/* Left Column - Images & Details */}
                 <div className="lg:col-span-2">
                   {/* Image Gallery - GetYourGuide Style: Main image left, 2 thumbnails right */}
-                  <div className="grid grid-cols-3 gap-2 h-[500px] overflow-hidden relative mb-12">
+                  {/* On a phone the old fixed 3-column / 500px-tall grid squeezed the
+                      hero into a narrow portrait sliver and cropped faces in half. The
+                      layout now stacks: a wide hero, then the thumbnails in a row
+                      beneath it, and only becomes the 2/3 + 1/3 split from lg up. */}
+                  <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 lg:h-[500px] overflow-hidden relative mb-12">
                     {mainImage && (
                       <div
-                        className="col-span-2 relative cursor-pointer group overflow-hidden rounded-2xl h-[500px]"
+                        className="lg:col-span-2 relative cursor-pointer group overflow-hidden rounded-2xl aspect-[4/3] sm:aspect-[16/10] lg:aspect-auto lg:h-[500px]"
                         onClick={() => {
                           setSelectedImageIndex(0);
                           setShowImageModal(true);
@@ -1533,17 +1537,16 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           priority
                           sizes="(max-width: 768px) 100vw, 66vw"
                           quality={78}
-                          className="w-full h-[500px] object-cover rounded-2xl"
+                          className="w-full h-full lg:h-[500px] object-cover rounded-2xl"
                         />
                         <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors rounded-2xl pointer-events-none"></div>
                       </div>
                     )}
-                    <div className="col-span-1 flex flex-col gap-2 h-[500px]">
+                    <div className="lg:col-span-1 grid grid-cols-2 lg:flex lg:flex-col gap-2 lg:h-[500px]">
                       {otherImages.slice(0, 2).map((image: string, index: number) => (
                         <div
                           key={index}
-                          className={`relative cursor-pointer group overflow-hidden rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
-                            }`}
+                          className="relative cursor-pointer group overflow-hidden rounded-2xl aspect-[4/3] lg:aspect-auto lg:h-[246px]"
                           onClick={() => {
                             setSelectedImageIndex(index + 1);
                             setShowImageModal(true);
@@ -1556,8 +1559,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             height={246}
                             sizes="(max-width: 768px) 50vw, 33vw"
                             quality={72}
-                            className={`w-full object-cover rounded-2xl ${index === 0 ? 'h-[246px]' : 'h-[246px]'
-                              }`}
+                            className="w-full h-full lg:h-[246px] object-cover rounded-2xl"
                           />
                           {index === 1 && remainingImages > 0 && (
                             <div className="absolute inset-0 bg-black/60 rounded-2xl flex items-center justify-center pointer-events-none z-10">
