@@ -232,6 +232,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Country-level multi-day itineraries — the pages targeting "7 day Japan
+  // itinerary" and similar, which pull far more search than any one tour page.
+  const japanItineraryPages = [
+    '', '3-days', '4-days', '5-days', '6-days', '7-days', '8-days', '9-days', '10-days',
+  ].map(slug => ({
+    url: slug ? `${BASE_URL}/japan/itineraries/${slug}` : `${BASE_URL}/japan/itineraries`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: slug === '7-days' || slug === '10-days' ? 0.9 : 0.8,
+  }));
+
   // Dynamic tour pages from API — fetch per city
   let tourPages: MetadataRoute.Sitemap = [];
   const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
@@ -270,5 +281,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...japanItineraryPages, ...tourPages];
 }
