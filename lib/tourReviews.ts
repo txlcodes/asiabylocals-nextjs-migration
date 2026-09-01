@@ -11113,5 +11113,71 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+
+    // --- HAKONE & MT. FUJI TOURS (2026-09, real GYG reviews) ---
+    if (slug === "mount-fuji-chureito-pagoda-oshino-hakkai-day-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 446, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Yohan", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "One day is very short to do all the activities. In the end, we were caught off guard by the full ascent of Mt. Fuji." },
+                { author: "Gustavo", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "Everything was so well organized from start to finish. Must do it again." },
+                { author: "Stephen", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "We had a great day out today to Hakone etc thank you very much" },
+                { author: "Mukunda", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "Kate was an amazing guide, very knowledgeable and the overall trip was very good. Highly recommend!" },
+                { author: "Alejandro", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-30", text: "The sightseeing tour is quite entertaining, especially the last stop at the pagoda. The views of Mt. Fuji are breathtaking, and the tour guide, Kate, was super attentive at all times. Highly recommended 👍👍👍" },
+                { author: "Eleanor", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-30", text: "Kate ‘Mia’ was a fantastic guide. The day was seem less. She was so kind and always had a beautiful smile. She explained everything and gave us so much information as we were on the tour bus. We went to the best locations and it’s an experience we will never forget. In my opinion, this is the tour you want. It has everything you could imagine. What a magical day and unforgettable day. Thank you again to Kate and our wonderful bus driver." },
+                { author: "Sumi", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "Overall the trip was good, and we were able to get good views of Mount Fuji. Both Hakone cruise and ropeway was a good experience as well. Tour guide Kate was very knowledgeable and helpful." },
+                { author: "Vivek", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "Excellent and must do tour for your Tokyo trip!! I had a great time and was able to take excellent pictures. There was enough time for sightseeing and food The tour included a boat ride and ropeway-ride and multiple opportunities to view Mount Fuji." },
+                { author: "Bárbara", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "The guide tour was greater but the wether was cloudy and we can’t see de Monte Fuji." },
+                { author: "Peter Louis", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "Kate and her driver were excellent. Kate is very funny and light-hearted" },
+            ],
+        };
+    }
+
+    if (slug === "hakone-caldera-fuji-lakes-day-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 958, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Kamen", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-30", text: "We had a really good tour with Mandy. In terms of schedule it felt a bit tight, but it was the price we had to pay to see all the great sights. It was hard to believe in the morning, but we actually got to see Mt. Fuji as well." },
+                { author: "Heidi", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "Hathaway was an amazing guide . She was sweet and told funny jokes and taught us a lot about Japanese culture . Mount Fuji was in full view and each stop was explained well and worth seeing. Hathaway communicated well through WhatsApp m." },
+                { author: "Ayşen", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Ya Li is perfect guide. She is so lovely and sympatic. We are so enjoy our trip. But Fuji girl dosen't show us pretty face." },
+                { author: "Helga", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Beautiful views, interesting places and a pirate ship, what more could one want? Yaya, our guide, looked after us very well, told us lots of interesting stories and even gave us tipps on were to go in Tokyo on the way back. Definitely recommend going!" },
+                { author: "Sheralee", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "Matt our guide was very good he was knowledgeable and spoke clearly. He included the trips in pop quizzes about Mt Fuji. Would definitely recommend him to anyone." },
+                { author: "Raphael", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "Very good tour. Took us to all the places we needed to. will the tour guide helped us around everywhere" },
+                { author: "Raiça Dominique Mariana Gomes da Costa", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "The excursion was fast-paced but fun, I was happy to see Fuji-san from the Swan Lake onwards. The guide, Tony, was very clear in his instructions and told us plenty fun-facts about the places we were visiting." },
+                { author: "Denise", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "Will was a fantastic guide, very precise and super friendly! The experience itself is nice, but I would advise the organizers to avoid offering it on weekends in August (peak season) because the traffic made us return to Shinjuku two hours after the scheduled time." },
+                { author: "Fabio", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-23", text: "Everything as per the program. Special thanks to Will who guided us on this hike." },
+                { author: "Julie", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-23", text: "Will has been amazing and made our day very special, We have learnt so much about the culture, the mountains , the volcano. Will showed us the good spots for pictures and also for shopping , food ( we ate so much!) He took the time to explain the history of every stops . The driver drove us safely around all the place and very patient to accommodate us and avoid traffic jams . Thank you for your kindness ." },
+            ],
+        };
+    }
+
+    if (slug === "hakone-private-day-tour-licensed-guide") {
+        return {
+            averageRating: 4.9, totalReviews: 24, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Antoine", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "We particularly enjoyed this day trip around Hakone and Mount Fuji with our live guide Ryosuke. The program and the pace were perfectly suited to our expectations. Ryosuke made it possible for us to have an excellent family experience. His explanations were interesting and precise, and we really liked the choice of places to visit, the vantage points, and the places where we could take breaks!" },
+                { author: "Andreas", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-11", text: "Hiro is a very nice and competent guide who knew a lot to tell us and guided us safely all day. He knew all the shortcuts and made a lot of things easier than they would have been on your own." },
+                { author: "Michelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-17", text: "The day was perfect. Our guide was knowledgeable, friendly and accommodating. We enjoyed every aspect and as a bonus, Mt. Fuji revealed itself!" },
+                { author: "Lynn", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-27", text: "We had a great day with Yumi. She was warm and very knowledgeable about Hakone. We had a blast navigating the cable cars, boat ride and buses with her" },
+                { author: "Elizabeth", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-20", text: "We had a wonderful tour with Yoshei. A very informative guide and we navigated seven different types of transportation to see all the beautiful sites of Hakone. He was extremely kind and certainly knew the region well. Arrange for us to have a wonderful authentic Japanese lunch. I would definitely recommend a tour in Hakone as there are many different sites all connected with the Hakone pass, but the average tourist would have a difficult time navigating the labyrinth of transportation." },
+                { author: "Harris", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-19", text: "Excellent tour guide, Masa San. Fortunately, we had great weather to see Mount Fuji and the Hakone open air museum. Overall, it was an excellent tour." },
+                { author: "Wendy", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-15", text: "We had a wonderful day with yoshi. He was very knowledgeable about the area of Hakone and even recommended some sightseeing in Kyoto, our next stop. We highly recommend him and the Hakone tour" },
+                { author: "Barbara", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-09", text: "We had an awesome day with Hiro-san. He met us as planned with a sign. We saw all the sites. He had all the transportation arranged. The area is beautiful! Hiro-san was so personable. Not only did he tell us about the area but answered many questions we had about Japanese life. Also, he took us to a delicious restaurant where we could see them making their own soba noodles. Thank you Hiro!" },
+                { author: "Irene", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-08", text: "Our guide was exceptional. He provided great activity our 11 and 13 year olds enjoyed plus answered all our questions while getting us on time for our train." },
+                { author: "Stefano", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-29", text: "Excellent tour and enjoyable multi activities. We were accompanied by Mr. Atsushi and I highly recommend him to all visitors to the Kanagawa area. Very professional, prepared and always willing to help and arrange the tour to our needs. Top ratings." },
+            ],
+        };
+    }
+
+    if (slug === "kamakura-hakone-private-day-tour-from-tokyo") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Tyler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "Kuzi was an amazing guide. Best one we had all trip. We had it customized to fit the two teenage boys traveling with us and had a great day!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "The trip was exactly what we were looking for. We adjusted our day to include time to hang by the beach and visit the Enoshima shrine, which I highly recommend. Our driver, Aabu, was knowledgeable, friendly, and highly communicative, making the day a breeze." },
+            ],
+        };
+    }
+
     return null;
 };

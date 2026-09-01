@@ -7839,5 +7839,47 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+
+  // --- HAKONE & MT. FUJI (2026-09) ---
+  if (slug === "mount-fuji-signature-private-day-tour-kawaguchiko") {
+    return [
+      { question: "Is the price per person or for the whole group?", answer: "For the whole group. The rate covers up to four travellers, so a solo traveller and a family of four pay the same total; parties of five to seven add a per-head supplement." },
+      { question: "Where does the tour start?", answer: "Pickup is within the Fujikawaguchiko area only — this is a local Kawaguchiko tour, not a Tokyo day trip. Most groups start between 8:00 and 10:30 AM." },
+      { question: "Can I choose the stops?", answer: "The guide plans the route around the day's weather to get the clearest Fuji views, which is the point of booking a local. Specific requests can be made in advance." },
+    ];
+  }
+
+  if (slug === "mount-fuji-sunrise-summit-climb-2-days") {
+    return [
+      { question: "How hard is this climb?", answer: "Genuinely hard. You sleep in a mountain hut, start climbing again before dawn, and reach 3,776 m — altitude sickness is a real risk, and the summit can be near freezing even in midsummer." },
+      { question: "When can I do it?", answer: "Only in the official climbing season, roughly early July to early September. Outside it the huts close and the mountain becomes a mountaineering objective, not a guided hike." },
+      { question: "Is this priced per person?", answer: "Yes — unlike most private tours on this page, this one is a group departure priced per person." },
+    ];
+  }
+
+  if (slug === "hakone-loop-guided-day-tour-tozan-ropeway") {
+    return [
+      { question: "What is the Hakone Loop?", answer: "The classic circuit: the Tozan mountain railway with its switchbacks, the cable car, the ropeway over Owakudani's sulphur vents, a boat across Lake Ashi, then back. A guide handles the connections so you are not reading timetables all day." },
+      { question: "Is the price per person?", answer: "No — this covers the whole party. One traveller and a group of four pay from the same bracket." },
+      { question: "What if Owakudani is closed?", answer: "It closes periodically on volcanic-activity warnings. The guide reroutes around it on the day; the rest of the loop still runs." },
+    ];
+  }
+
+  if (slug === "aokigahara-lava-forest-guided-nature-walk") {
+    return [
+      { question: "What makes this forest unusual?", answer: "It grew on the 864 Jogan lava flow, so the soil is thin and roots spread sideways across bare basalt. The rock is iron-rich enough to genuinely deflect a compass, and there are lava tubes running beneath it." },
+      { question: "Do I need hiking experience?", answer: "No. It is a guided nature walk from around three hours, led by a licensed local naturalist, not a climb." },
+      { question: "Is the rate per group?", answer: "Yes — one rate covers up to six people." },
+    ];
+  }
+
+  if (slug === "hakone-yosegi-zaiku-marquetry-workshop") {
+    return [
+      { question: "What is yosegi zaiku?", answer: "Hakone's traditional marquetry: fine strips of naturally different-coloured woods glued into geometric blocks, then shaved into paper-thin sheets. It has been made around Hatajuku on the old Tokaido road for around two centuries." },
+      { question: "Do I take my work home?", answer: "Yes — you make an inlaid piece during the session and keep it." },
+      { question: "Is any experience needed?", answer: "None. The workshop is built for first-timers and runs about two and a half hours." },
+    ];
+  }
+
     return null;
 };
