@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getItinerary, getItinerarySlugs } from '@/lib/japanItineraries';
+import { getItinerary, getItinerarySlugs, ITINERARY_COUNTRIES } from '@/lib/japanItineraries';
 import ItineraryClient from '@/components/ItineraryClient';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
@@ -15,7 +15,9 @@ interface Props {
 // so /japan/itineraries/7-days lands here and not on a city page for a city
 // called "itineraries".
 export async function generateStaticParams() {
-  return getItinerarySlugs('japan').map(slug => ({ country: 'japan', slug }));
+  return ITINERARY_COUNTRIES.flatMap(country =>
+    getItinerarySlugs(country).map(slug => ({ country, slug }))
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -38,11 +40,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 /** Pull the tours this itinerary links to, so each day can show a real card. */
-async function fetchToursBySlug(slugs: string[]) {
+async function fetchToursBySlug(country: string, slugs: string[]) {
   const wanted = new Set(slugs.map(s => s.split('/').pop()));
   if (wanted.size === 0) return {};
   try {
-    const res = await fetch(`${API_URL}/api/public/tours?country=Japan`, {
+    const name = country.charAt(0).toUpperCase() + country.slice(1);
+    const res = await fetch(`${API_URL}/api/public/tours?country=${encodeURIComponent(name)}`, {
       next: { revalidate: 3600 },
     });
     if (!res.ok) return {};
@@ -63,7 +66,7 @@ export default async function ItineraryPage({ params }: Props) {
   if (!data) notFound();
 
   const allTourUrls = data.days_detail.flatMap(d => d.tours);
-  const tourMap = await fetchToursBySlug(allTourUrls);
+  const tourMap = await fetchToursBySlug(country, allTourUrls);
 
   // TouristTrip is the type schema.org actually has for this, and it carries
   // the route as structured data rather than as prose an engine has to parse.

@@ -14,6 +14,13 @@ export interface ItineraryDay {
   tours: string[];
   travel: string | null;
   tip: string;
+  /**
+   * A hard scheduling constraint for this day, called out separately from the
+   * ordinary tip. India needs it: the Taj Mahal is closed every Friday, and an
+   * itinerary that quietly puts Agra on a Friday is simply wrong. Buried in
+   * prose it gets skimmed past, so it gets its own red block.
+   */
+  friday_note?: string | null;
 }
 
 export interface ItineraryLogisticsBlock {
@@ -45,23 +52,30 @@ export interface ItineraryData {
 }
 
 import { JAPAN_ITINERARIES } from './japanItinerariesData';
+import { INDIA_ITINERARIES } from './indiaItinerariesData';
+import { THAILAND_ITINERARIES } from './thailandItinerariesData';
 
 /** Slugs we publish, shortest first. Also drives the sitemap and the hub page. */
-export const JAPAN_ITINERARY_SLUGS = [
+export const ITINERARY_SLUGS = [
   '3-days', '4-days', '5-days', '6-days', '7-days', '8-days', '9-days', '10-days',
 ];
 
-export function getJapanItinerary(slug: string): ItineraryData | null {
-  return JAPAN_ITINERARIES[slug] ?? null;
-}
+/** Countries that have an itinerary set. Adding one is data, not code. */
+const BY_COUNTRY: Record<string, Record<string, ItineraryData>> = {
+  japan: JAPAN_ITINERARIES,
+  india: INDIA_ITINERARIES,
+  thailand: THAILAND_ITINERARIES,
+};
 
-/** Country -> itinerary set. Only Japan for now; Thailand is the obvious next. */
+export const ITINERARY_COUNTRIES = Object.keys(BY_COUNTRY);
+
 export function getItinerary(country: string, slug: string): ItineraryData | null {
-  if (country.toLowerCase() === 'japan') return getJapanItinerary(slug);
-  return null;
+  return BY_COUNTRY[country.toLowerCase()]?.[slug] ?? null;
 }
 
 export function getItinerarySlugs(country: string): string[] {
-  if (country.toLowerCase() === 'japan') return JAPAN_ITINERARY_SLUGS;
-  return [];
+  const set = BY_COUNTRY[country.toLowerCase()];
+  if (!set) return [];
+  // Only advertise a length we actually wrote.
+  return ITINERARY_SLUGS.filter(s => set[s]);
 }

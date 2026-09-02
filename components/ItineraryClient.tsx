@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { MapPin, Clock, Train, Lightbulb, ChevronRight } from 'lucide-react';
+import { MapPin, Clock, Train, Lightbulb, ChevronRight, AlertTriangle } from 'lucide-react';
 import type { ItineraryData } from '@/lib/japanItineraries';
 
 interface Props {
@@ -192,6 +192,13 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
                       </Link>
                     );
                   })}
+                </div>
+              )}
+
+              {day.friday_note && (
+                <div className="flex items-start gap-2 p-3.5 bg-red-50 border border-red-200 rounded-xl mb-3">
+                  <AlertTriangle size={17} className="text-red-600 shrink-0 mt-0.5" />
+                  <p className="text-[14px] text-red-900 font-bold">{day.friday_note}</p>
                 </div>
               )}
 

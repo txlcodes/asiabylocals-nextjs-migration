@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getItinerary, getItinerarySlugs } from '@/lib/japanItineraries';
+import { getItinerary, getItinerarySlugs, ITINERARY_COUNTRIES } from '@/lib/japanItineraries';
 import { ChevronRight, MapPin, Clock } from 'lucide-react';
 
 export const revalidate = 3600;
@@ -11,7 +11,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return [{ country: 'japan' }];
+  return ITINERARY_COUNTRIES.map(country => ({ country }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
