@@ -175,6 +175,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     'agra', 'delhi', 'jaipur', 'mumbai', 'kashmir',
     'bangkok', 'chiang-mai', 'phuket', 'krabi', 'pattaya',
     'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone',
+    'colombo', 'kandy', 'galle', 'negombo', 'sigiriya', 'bentota', 'mirissa', 'ella', 'nuwara-eliya',
   ]);
   const noIndex = ALWAYS_INDEX_CITIES.has(city.toLowerCase())
     ? false

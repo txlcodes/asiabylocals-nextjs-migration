@@ -15,6 +15,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/thailand', '/thailand/phuket', '/thailand/bangkok', '/thailand/chiang-mai', '/thailand/pattaya', '/thailand/krabi',
     '/sri-lanka', '/sri-lanka/colombo', '/sri-lanka/kandy', '/sri-lanka/galle',
     '/sri-lanka/sigiriya', '/sri-lanka/ella', '/sri-lanka/nuwara-eliya',
+    '/sri-lanka/negombo', '/sri-lanka/bentota', '/sri-lanka/mirissa',
     '/nepal', '/nepal/kathmandu', '/nepal/pokhara', '/nepal/chitwan',
     '/nepal/bhaktapur', '/nepal/lumbini',
   ].map(path => ({
@@ -255,7 +256,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Dynamic tour pages from API — fetch per city
   let tourPages: MetadataRoute.Sitemap = [];
-  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
+  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'negombo', 'bentota', 'mirissa', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
   try {
     const results = await Promise.all(
       cities.map(city => {
