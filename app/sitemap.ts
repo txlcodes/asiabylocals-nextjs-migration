@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
 
 const BASE_URL = 'https://www.asiabylocals.com';
@@ -247,8 +248,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Country-level multi-day itineraries — the pages targeting "7 day Japan
   // itinerary" and similar, which pull far more search than any one tour page.
-  const itineraryPages = ['japan', 'india', 'thailand'].flatMap(country => {
-    const lengths = ['3-days', '4-days', '5-days', '6-days', '7-days', '8-days', '9-days', '10-days'];
+  // Derived, not listed: a hardcoded country list is how Nagoya's authority
+  // pages ended up live but absent from the sitemap.
+  const itineraryPages = ITINERARY_COUNTRIES.flatMap(country => {
+    const lengths = getItinerarySlugs(country);
     return [
       {
         url: `${BASE_URL}/${country}/itineraries`,

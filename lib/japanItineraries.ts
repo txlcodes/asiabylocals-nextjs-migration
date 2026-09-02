@@ -54,6 +54,7 @@ export interface ItineraryData {
 import { JAPAN_ITINERARIES } from './japanItinerariesData';
 import { INDIA_ITINERARIES } from './indiaItinerariesData';
 import { THAILAND_ITINERARIES } from './thailandItinerariesData';
+import { SRI_LANKA_ITINERARIES } from './sriLankaItinerariesData';
 
 /** Slugs we publish, shortest first. Also drives the sitemap and the hub page. */
 export const ITINERARY_SLUGS = [
@@ -65,6 +66,7 @@ const BY_COUNTRY: Record<string, Record<string, ItineraryData>> = {
   japan: JAPAN_ITINERARIES,
   india: INDIA_ITINERARIES,
   thailand: THAILAND_ITINERARIES,
+  'sri-lanka': SRI_LANKA_ITINERARIES,
 };
 
 export const ITINERARY_COUNTRIES = Object.keys(BY_COUNTRY);
