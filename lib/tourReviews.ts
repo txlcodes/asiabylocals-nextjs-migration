@@ -11179,5 +11179,647 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- SRI LANKA TOURS (2026-09, real GYG reviews) ---
+
+    if (slug === "adams-peak-overnight-pilgrimage-climb-colombo") {
+        return {
+            averageRating: 4.3, totalReviews: 3, guideRating: 4.3, valueRating: 4.3,
+            reviews: [
+                { author: "Kerrie", country: "Verified GetYourGuide review", rating: 2, date: "2025-04-20", text: "Terrible service. My friend and I thought we were paying for a guided tour up Adam's Peak but all we received was transport from an extremely unprofessional driver. No water provided and we had to ask the driver to turn on the air conditioning. We were told en route to book a hotel which we did, my friend and I wanted a room each but the driver called the hotel after asking us which place we booked and made the hotel owner put us into the same room but charge us still for 2 rooms which meant we had to pay for his room - this was not agreed at any point during this booking. We had to pay £120 each for this trip, we could have saved a lot of money but just hiring a driver to take us to the area and then take us onto the next area. The driver was also highly inappropriate arguing with a customer from their other business saying they would illegally take money from them if they refused to pay for a service. Please do not waste your money on this trip as it is a scam." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-19", text: "Wonderful experience and taught to find the best spot for see sunrise." },
+            ],
+        };
+    }
+
+    if (slug === "anuradhapura-colombo-private-day-trip-ancient-capital") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Errol", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-19", text: "The tour to Anuradhapura was fantastic and Chatu, the tour guide we had, was fantastic. He made it really interesting with all the information he shared and all the places we went to. We appreciated his friendly and warm personality and we enjoyed the stories he told which made the history come alive. His knowledge and his experience made the tour a very memorable experience. Thank you very much, Chatu!" },
+            ],
+        };
+    }
+
+    if (slug === "bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher") {
+        return {
+            averageRating: 4.6, totalReviews: 7, guideRating: 4.6, valueRating: 4.6,
+            reviews: [
+                { author: "Rachael", country: "Verified GetYourGuide review", rating: 5, date: "2024-06-22", text: "We thoroughly enjoyed this trip. We were picked up promptly by our own driver. He was very knowledgeable and accommodating throughout the day. It was a perfect way to explore the sights of Bentota." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2022-01-03", text: "The tour was very entertaining. The boat tour through the mangroves of Madu Ganga was the best. The guide was friendly and helpful. When tipping the locals, however, he let me walk into the knife a bit and in the end I lost a proud sum. Please be careful when tipping! It is best to inquire beforehand what is customary in the country. inexperience" },
+                { author: "Goncalo", country: "Verified GetYourGuide review", rating: 5, date: "2021-09-22", text: "Very nice tour and very nice driver . Good" },
+            ],
+        };
+    }
+
+    if (slug === "colombo-evening-street-food-tour-tastings-included") {
+        return {
+            averageRating: 4.8, totalReviews: 2, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2024-01-15", text: "The street food was so delicious. However the seafood restaurant was not so nice. The location and view were stunning but the prawns were over cooked, the vegetable was very tough, and the rice tasteless. Also the driver was half an hour late for the pick up. However he was very friendly and tried very hard. I must give him credit for his effort and big smile." },
+            ],
+        };
+    }
+
+    if (slug === "colombo-highlights-guided-half-day-city-tour-car") {
+        return {
+            averageRating: 4.3, totalReviews: 97, guideRating: 4.3, valueRating: 4.3,
+            reviews: [
+                { author: "Sonali", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-03", text: "Danesh was a very good guide. He showed us around Colombo in a very very comfortable van. For group of 5 people the tour was very enjoyable. He did not rush us and helped us understand the history behind many popular spots in Colombo. We covered all the major attractions in the city. He gave us the time and space to have fun as a group. We really appreciate his hospitality and friendliness." },
+                { author: "Andrew", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-31", text: "very knowledgeable tour guide, Niraven was a lovely young man and made sure I understood what we were looking at." },
+                { author: "Clàudia", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-24", text: "The tour was amazing! Very well explained. Our guide, Naveen, showed us many beautiful spots and explained history and curiosities! He showed us spots we wouldn’t have visited by ourselves. Thanks Naveen!" },
+                { author: "Des", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-12", text: "Fantastic. Our guide Milan was so helpful and knowledgeable about Colombo. Highly recommended!" },
+                { author: "Carrie", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-21", text: "Niraveen was the perfect host! He was an excellent guide, took us to all the main points of interest and managed to pack a huge amount into a relatively short tour. We really enjoyed our afternoon and conversations with him, and would definitely recommend." },
+                { author: "Yolanda", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-10", text: "Krish was very informative and gave good advice. it was raining most of the tour so he also provided an umbrella. We had an excellent trip round the sights of Colombo" },
+                { author: "Nalini", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-21", text: "On Time. Guide was very polite and helpful. Excellent service and drive" },
+                { author: "Thomas", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-24", text: "Great tour, great locations. Driver accommodated all requests. Great minibus for transportation!" },
+                { author: "JIH", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-14", text: "Exceptional Tour Experience with Chathu – Highly Recommended! I recently had the pleasure of exploring Sri Lanka with the help of an outstanding guide, Chathu. From the very beginning, it was clear that he was not only highly professional but also genuinely dedicated to making our trip as smooth and enjoyable as possible. His deep knowledge of Sri Lanka’s history, culture, and landmarks added incredible value to our journey, but what truly set him apart was his willingness to go above and beyond in every aspect of our experience. One of the highlights of our trip was our visit to Gangaramaya Temple in Colombo. Chathu’s explanations of the temple’s history, architectural details, and cultural significance made the visit truly memorable. Instead of simply listing facts, he told engaging stories, patiently answered all our questions, and provided insights that deepened our appreciation of the place. His passion for sharing Sri Lanka’s rich heritage made the experience far more meaningfu" },
+                { author: "Marie", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-27", text: "Krish was a great guide! He showed us everything we needed to see and always took our wishes into account. 💓" },
+            ],
+        };
+    }
+
+    if (slug === "colombo-landmarks-tuk-tuk-private-tour-entry-tickets") {
+        return {
+            averageRating: 4.9, totalReviews: 721, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Maghnus", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "The Zoom tour was very good and informative. We saw many beautiful temples and buildings. The guide was super friendly and never stressed us out and let us take as many photos as we wanted. He even showed us around for 5 hours instead of 4 because he explained and showed everything in such detail. There were also a few insider tips that we would never have discovered without a guide. Would recommend! Our tour guide's name was Fasmi. He was very, very friendly and drove well!" },
+                { author: "Christel", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-30", text: "A very nice tour that lets you discover Colombo! I recommend booking this activity!" },
+                { author: "MUNDHER", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-29", text: "it is an amazing tour, I personally enjoyed visiting all the places in colombo, the driver Mr.Safmin is really kind and informative person. I recommend take the ride with them and For sure I will do it again." },
+                { author: "Jamie", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "Very good zoom tour with fashim, gave very good information and took us around each location making sure we were happy with what we saw, he was always ready to answer questions. Tea tasting at the end was fab and we were able to taste up to 4 teas with no pressure to buy anything after!" },
+                { author: "Vendula", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "I recommend this activity to everyone! Our tour guide arrived on time and gave us a wonderful tour of the city! We managed to do in 2 hours what would have taken us a whole week. Everything was relaxed, with stops for photos, nothing was a problem, and we also have a lot of beautiful photos and experiences - photos better than those taken by a professional🙊📷😊👍🫶🏻" },
+                { author: "Benedict", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Wonderful tour. Our guide Bobby was so kind and helpful. Great value for money. Highly recommended!" },
+                { author: "Elodie", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "Hasni was a super nice and very professional live guide. He showed us around Colombo in a very enjoyable way and gave us lots of explanations about the history and culture. We really enjoyed spending this time with him and we recommend him 100%. Thanks again for everything 😊🙏" },
+                { author: "Lilian", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "Zoom Tours provided an amazing service with this trip! We had so much fun & saw the most amazing sights on our tour. It was so interesting to see the Maritime Museum, the market and the Hindu temple from the inside! Also, we got to taste some fresh fruit & drink a coconut. Our tour guide Fasmi was so friendly and welcoming and went out of his way to provide us with the most amazing experience. He even got us some sweet flower necklaces & drove like an absolute legend through the busy Colombo streets. 10/10 experience and we would deffo recommend to everyone!" },
+                { author: "Mackenzie", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "Zoom Tours was amazing for this trip through Colombo. We had the best time and left with many perfect pictures taken by Fasmin. He knew exactly the right places to capture a good memory. Would 100% recommend. Transport was comfortable, he was on time, gave us so much information about the city and temples and even picked flowers for us!" },
+                { author: "Julia", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-15", text: "We had a great time. Our live guide was great and showed us the city in a way we wouldn't have experienced on our own. I recommend you 100%" },
+            ],
+        };
+    }
+
+    if (slug === "colombo-sightseeing-tour-tuk-tuk-hotel-pickup") {
+        return {
+            averageRating: 4.7, totalReviews: 126, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Joanne", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-14", text: "The tour was wonderful. Aaron was very polite, patient and knowledgeable. The driver was cautious and courteous. Highly recommend." },
+                { author: "Silvio", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-28", text: ". Naveen foi excelente guia. Muito legal mesmo o passeio. Conhecemos umas mesquitas e uns templos budistas" },
+                { author: "Nguyen", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-20", text: "I had a wonderful Colombo city tour today with my guide, Naveen. He was extremely friendly, kind, and genuinely caring throughout the whole trip. Naveen explained every attraction in great detail, helped me understand the culture and history of Sri Lanka, and always made sure I felt comfortable as a solo female traveler. At the end of the tour, he even treated me to a lovely lunch, which was such a warm and thoughtful gesture. He also gave me very helpful advice about traveling around Sri Lanka — what to do, what to avoid, and how to stay safe while exploring the country. I’m truly grateful for his guidance and hospitality. If you’re visiting Colombo, I highly recommend booking a tour with Naveen. He will make your experience memorable and meaningful!" },
+                { author: "Zoe", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-15", text: "Niraveen was really friendly and knowledgeable on all the sights and spots, and took really good photographs. Good way to see all the main sights stress free! Would recommend" },
+                { author: "Tracy", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-28", text: "A great way to see the city if you’re limited for time. Great guide and a fun and informative afternoon with our guide Rukshan." },
+                { author: "Amélie", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-16", text: "We had a great time with Lesther. He adapted perfectly to our pace and preferences, gave us helpful advice, and let us try some delicious local fruits. Thank you for all the wonderful discoveries! Lesther is friendly, cheerful, and truly committed" },
+                { author: "Jane", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-12", text: "We were 4 adults and 2 children and had 3 TukTuks and r took us to all the sights and to a Buddha temple. It was very informative and fun" },
+                { author: "S", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-18", text: "We had a fun ride around Colombo with Dhanush! You can ask him any question about Sri Lanka and Colombo. Thank you Dhanush for the nice tour on Sunday and letting us borrow your umbrella in the rain!" },
+                { author: "Linda", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-09", text: "Kind and helpful guide. He explained and accompanied us to the most important places in Colombo." },
+                { author: "Amelie", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-20", text: "Danush and his colleague tried very hard to give us as many impressions of Colombo as possible in the short time we had. From historical events and the history of Colombo to current challenges and problems in the city, we were given exciting content that convinced us to visit Sri Lanka again. The tour in a tuk-tuk was very fun and highly recommended in this city!" },
+            ],
+        };
+    }
+
+    if (slug === "colombo-street-food-tuk-tuk-guided-tasting-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 408, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Declercq", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "Boby was great. He's a fantastic live guide who knows the route well. We discovered beautiful things, and everything we tasted was super delicious!! Hats off to his driving; it takes patience to drive in Sri Lanka. We recommend Boby 1000%. He's great. Go for it! The day trip is perfect for getting an overview of the city in a limited amount of time." },
+                { author: "John and Carol", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-29", text: "Mr Faizar was our guide tonight. The tour was excellent. The food selections were varied and catered for our food preferences and the visit to the tea tasting was a welcome surprise. The added sight seeing was a bonus. This was good value for money." },
+                { author: "Shaun", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-22", text: "Boby was amazing. The food plentiful and delicious" },
+                { author: "Anna-Paulina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "I had an amazing experience with Asmi. He was extremely friendly and gave interesting info along the ride. The food was very delicious, but make sure you come with an empty stomach because you will get to try so many different dishes! The Appam 🥥 has to be my favorite☺️ I definitely would recommend this" },
+                { author: "Nina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "⭐⭐⭐⭐⭐ We had an absolutely amazing time with Faisar! He gave us a wonderful tour of the city by tuk-tuk, sharing interesting stories, local insights, and showing us places we would never have discovered on our own. 🛺🇱🇰 The food tour was definitely one of the highlights! We got to taste so many delicious and authentic Sri Lankan dishes, and every stop was a fantastic discovery. 😍 Faisar is incredibly kind, friendly, attentive, and passionate about his country. We highly recommend him to anyone looking for an authentic and unforgettable experience in Sri Lanka. Thank you so much, Faisar, for this wonderful day! ❤️" },
+                { author: "Alicia", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-14", text: "We loved spending our last evening in Sri Lanka with Boby. He showed us dishes we hadn’t had the chance to try during our trip. He also took us to parts of Colombo that we didn’t know about. In addition to being a great guide, tuktuk is a very kind person. Thank you, Boby" },
+                { author: "Nathan", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-08", text: "i had fiezar and he was amazing guide and the food was excellent" },
+                { author: "Irina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-08", text: "This was a lovely tour, it was so interesting to try different foods and Bobby was a great guide, thank you!" },
+                { author: "Anne-Marit", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-08", text: "We had a very nice time on our food tour with Faizar! After arriving in Colombo from a very long flight, this tour was a perfect way to end our day. Faizar made us feel very comfortable. He took us to some really good food places (but also tea and historical places) and gave us insights into the culture, the dishes and the proper way to eat the food. We had a very good experience and would certainly recommend to friends! Excited for the rest of our trip." },
+                { author: "Aurora", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-07", text: "A beautiful and authentic experience. Our guide was Ranil, who showed us the city at night and let us taste excellent food." },
+            ],
+        };
+    }
+
+    if (slug === "colombo-temples-markets-guided-four-hour-city-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Gimashaperera123@gmail.com", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-18", text: "The tour was a wonderful and memorable experience. The driver was very helpful, friendly, and professional throughout the tour. He made sure I was comfortable and helped me whenever needed. I was very satisfied with the service and would definitely recommend this tour to others. Thank you SLE tour for making my trip so memorable!" },
+            ],
+        };
+    }
+
+    if (slug === "colombo-tuk-tuk-private-half-day-tour-local-meal") {
+        return {
+            averageRating: 5.0, totalReviews: 10, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Toby", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-03", text: "Our tour guide Asmi was very thorough in explaining the purpose of each location. He answered all our questions. offered to take pictures and even helped to carry our belongings. He is certainly an exemplary employee." },
+                { author: "Alastair", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-17", text: "It was a brilliant experience. Met by our driver Raju at Port Entrance as advised. Proceeded to show us all the promised sights and more. His driving of Tuk Tuk was amazing and in that traffic was an experience in itself. Guided us around the more significant sights and volunteered to take photos of us regularly. Always smiling. Tea stop was interesting as tried a number of teas and apparently were visited by a Bollywood actor that caused some disruption amongst the locals! Great way to experience Colombo and good value." },
+                { author: "Janet", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-01", text: "Shore excursion from the cruise port. We had a great time on our Tuk Tuk tour with Zoom Tours. Mohammad and Asmi took us around the sights of Columbo and explained about the history of Sri Lanka and showed us famous monuments. We saw some temples where they explained interesting things about the religions, and went round with us. We enjoyed the tea tasting and bought some lovely Sri Lankan teas to take home, and then finished up at Galle Face green before heading back to the cruise port. We really enjoyed the tour and would absolutely recommend it. If you are taking this tour, make sure you wear shoes that are easy to take off as the Hindu and Buddhist temples require bare feet." },
+                { author: "Louise", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-01", text: "Very good Our guide was very knowledgeable and spoke good English Highly recommend 5*" },
+                { author: "Rene", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-07", text: "We had a tour with Faisal from Zoom Tours, he was friendly and always super customer-oriented. You really saw a lot" },
+                { author: "Kentcho", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-10", text: "Our driver Rizwan came to pick us up on time and brought us through a tour of the city. It was a perfect way to soak in the city, stopping at numerous historical places. He did his best to personalize the tour. We booked the trip in the evening because we arrived around 4AM. So some things were closed to visit inside. We didn’t mind and felt like we saw plenty and some things look even better during nighttime like the Lotus Tower. From a logistical point: if you are tall like me, you sometimes have to bend down to see things. The tuktuks in sri lanka a roof that curves around. Overall a great way to get to know Colombo as we are leaving for a trip within the cultural triangle the day after!" },
+                { author: "Katja", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-28", text: "Our guide Mohamad was very nice and competent and gave us a great insight into Colombo. We felt very comfortable and safe and were able to take lots of great photos. The only thing we missed was the tea tasting, it was more of a sales pitch - but that's part of it... Overall though: unreserved recommendation!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-20", text: "It was a very nice tour with an amazing guide." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-12", text: "Great tour, great driver. Our driver told us a lot about Colombo. We would 100% recommend the tour." },
+            ],
+        };
+    }
+
+    if (slug === "colombo-wreck-diving-trip-certified-dive-guides") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "KARIM", country: "Verified GetYourGuide review", rating: 5, date: "2025-01-24", text: "very good well supervised incredible diving sites I recommend" },
+            ],
+        };
+    }
+
+    if (slug === "dambulla-cave-temples-pidurangala-rock-day-trip-colombo") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Hicham", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-05", text: "This is an excursion from Colombo where you have the freedom to choose your program in Sigiriya. The first stop is the 'Dambulla' cave monastery. After that, you can choose: - Sigiriya Rock and Pifurangola - Sigiriya and a safari in a nearby national park - Sigiriya and a safari in a local village, including a local lunch where you'll learn how to make coconut ambal. - Go on the National Park Safari and the local village Safari. - Do the Pidurangola rock and choose between the National Park Safari and the Village Safari. This excursion wouldn't have happened if our guide 'Dansh' wasn't there. His patience, explanations, and friendly personality made this excursion 'Wonderful'." },
+            ],
+        };
+    }
+
+    if (slug === "ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge") {
+        return {
+            averageRating: 4.8, totalReviews: 105, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Leanne", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-17", text: "Ranga and Gajan were our drivers and looked after us on this trip.. had a wonderful day and the views are breathtaking.. very long day, would definitely consider an overnight stay in Ella" },
+                { author: "Aiste", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-28", text: "Amazing day! very long one, but was worth:)) Visited so beautiful places and the guide was very friendly." },
+                { author: "Piotr", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-27", text: "A great trip, although a bit tiring due to the number of hours spent in the car, but the views and time spent on the spot make up for everything. I had the opportunity to be with the guide Kajan, a great man, I recommend 🔥" },
+                { author: "Berit", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-18", text: "Unfortunately, the weather didn't cooperate. Nevertheless, it was a lovely trip, and we saw everything except the tea factory, just in the rain. Our guide, Dashi, did his best to make the day as enjoyable as possible despite the weather. He told us a lot about the country and its people and took us everywhere. Sadly, Ella and the surrounding area are very crowded, but the scenery is beautiful." },
+                { author: "Jasmin", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-24", text: "The tour was fantastic and our guide Kajan was very attentive and friendly. We had a great day, even though there was a slight language barrier. Despite that, he went above and beyond and fulfilled our requests. Thank you so much!" },
+                { author: "Emma", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-20", text: "We had a good day visiting the tea factory, nine arch bridge, riding the train, and climbing little toms peak. It was a long day and if we were to do it again we would definitely do the 2 day tour, although it was set out and timed well, it would have been nice to spend more time visiting places. Dinesh was a great guide, kept us to date with what was going on and ensured there were time for rest stops during the long travel there and back." },
+                { author: "Jeanette", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-14", text: "The day trips were fantastic, and you got to see a lot in one day, well worth the money. Krish was our guide, and on this day, we were the only ones on the tour, so we got a private tour. He was very happy and friendly in every way, and behaved in a professional manner. A tough day, many hours, but worth it if you're not in Sri Lanka for that long. The train ride, Little Adam's Peak, and the zipline were the highlights." },
+                { author: "Jess", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-13", text: "Krish was a fantastic tour guide! He has a bubbly, friendly attitude and his attention to detail to personalise the itinerary to make the most of the day was second to none. I had a great day and saw everything I wanted to. Even when I was nervous to go down the zipline, his encouragement got me through! Overall, this day is going to be a highlight of my trip! Highly recommend" },
+                { author: "Tomasz", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-07", text: "A great trip. I highly recommend this agency. Great communication, helpful, and always smiling. The driver and guide were the best I've ever met—there was no problem at all throughout the day. My guide, Ranga, is a very professional man. He always tried to make sure everything was as perfect as possible. Ranga, thank you so much for a wonderful day. I truly recommend him." },
+                { author: "Christine", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-30", text: "The day trip was absolutely fantastic! 5 stars! ***** We had a brilliant time. An action packed day, full of great sights and experiences. Our guide, Rangi was wonderful. What a lovely man. He was so hospitable, and went out of his way to make sure we enjoyed everything today. He was amazing. We can highly recommend this day trip. THANK YOU Rangi! All the best, Christine & Philip. UK. P.S. enjoy the Yorkshire tea👍" },
+            ],
+        };
+    }
+
+    if (slug === "ella-haputale-private-day-trip-hill-country-train-ride-tea-fac") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Rachel", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-24", text: "Highly recommend this tour it was the absolute highlight of our Sri Lankan trip" },
+                { author: "Jodi", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Bentota Travel Mart arranged a wonderful trip for us and sent us all the details beforehand. Everything was well planned & timed. Top highlight was train journey. The scenery was spectacular. Very comfortable car & safe driver. Thank You Bentota Travel!" },
+            ],
+        };
+    }
+
+    if (slug === "ella-waterfall-abseiling-adventure-hotel-pickup") {
+        return {
+            averageRating: 4.4, totalReviews: 4, guideRating: 4.4, valueRating: 4.4,
+            reviews: [
+                { author: "Paweł", country: "Verified GetYourGuide review", rating: 3, date: "2026-07-05", text: "It was great and i really enjoy the activity, but it was to short for me. Going down out of the waterfall tooks just 10 minutes and i couldn’t go the second time. The driver was professional and very helpful." },
+            ],
+        };
+    }
+
+    if (slug === "galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Michelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-22", text: "Had an amazing day. Chathu was very knowledgeable, friendly and made sure everyone had everything they needed. The driver Nishan was very friendly and drove us to the various attractions safely! Would highly recommend Chathu and Nishan" },
+            ],
+        };
+    }
+
+    if (slug === "galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col") {
+        return {
+            averageRating: 4.8, totalReviews: 220, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Kirsten", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-24", text: "We had a good taste of the South on this one day trip. We really enjoyed visiting Bentota beach, Madu river safari and walking around Galle. Range was accommodating, providing good information, checked to ensure we were happy and made photo stops along the way. It was a good way of filling in the day before we flew out late that night." },
+                { author: "David", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-13", text: "Ranga was my guide today. He was nice and showed me everything he could. I can recommend him." },
+                { author: "Dominik", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-07", text: "It was an excellent one day trip. Krish did fantastic job as a guide. Thank you once again!" },
+                { author: "Rose", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-06", text: "The trip was amazing, we enjoyed every places we've visited, the transportation is very comfortable the guide is very nice & knowledgeable. We highly recommend this trip" },
+                { author: "Li", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-11", text: "Aaron was a great guide. I felt very safe and reassured as a solo female traveller. The itinerary makes for quite a fulfilling day if you are short on time and want to tick Galle and some sights along the way. Vehicle was so comfortable that I kept going to sleep, excellent air conditioning for the hot weather!!" },
+                { author: "Suvigya", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-23", text: "I am from India. Enjoyable trip. Very safe for a female solo traveller." },
+                { author: "Riza", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-21", text: "Had a great time during the overall trip. Danesh who was our guide and our driver did a great job! Especially for his flexibility and good thinking in introducing us to some extra free entry stops along the way to Galle, such as going to a gemstone mine and a Tsunami photo museum, whilst still remaining efficient with the timing for a jam-packed day. Spots were all very interesting and varied. It was no fuss of a trip! Highly recommend!" },
+                { author: "Tej", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-18", text: "Lester was an exceptional guide who made our journey from Colombo to Galle and Bentota truly memorable. He is kind, professional, and very accommodating, always ensuring we were comfortable and able to enjoy the trip at our own pace. His flexibility with the itinerary made the experience feel relaxed and personalized. What stood out most was his deep knowledge of Sri Lanka. He shared insightful information about the history, culture, and local life, which added real value to every stop. His recommendations for places to visit and eat were also excellent. Lester’s friendly nature, warmth and attention to detail made the entire experience smooth and enjoyable. We highly recommend him to anyone looking for a reliable and knowledgeable guide. You will not be disappointed. Cheers, Tej & Medha from Mauritius." },
+                { author: "Caitlin", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-25", text: "We had a very enjoyable time on our tour last week. Our driver Dhanesh picked us up promptly and drove us around in his comfortable car. He stuck to the itinerary outlined on the tour description but also mentioned that if there was anything of interest we wanted to do that wasn't on the list, he would be happy to make that happen for us. All the locations were very fun and beautiful, and we learnt many different things. One of my favourite parts of the trip was on the boat ride when we stopped off at a small island and were shown how cinnamon is harvested and dried. The whole day from 8am to 8pm and we felt like the experience was well worth it." },
+                { author: "Christian", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-16", text: "We booked this tour during our cruise stop in Colombo – and it was a real highlight. We were greeted promptly at the port entrance by our guide, Chathu, and the driver. The car was modern, clean, and very comfortable. Even on the drive through Colombo and later heading south, Chathu told us a lot about Sri Lanka, its culture, and life in the country. In Bentota, a stunning beach awaited us, where we enjoyed fresh coconuts in perfect weather. Afterward, we visited a turtle hatchery with fascinating insights into the conservation of these animals. Another highlight was the boat trip on the Madu River, past mangroves and to an island where we were shown the traditional cinnamon-making process. Since we were short on time, Chathu flexibly adjusted the route. Instead of Galle, we visited a moonstone mine and ended the day at a restaurant with a sea view. We returned to the ship right on schedule." },
+            ],
+        };
+    }
+
+    if (slug === "galle-fort-stilt-fishermen-bentota-river-safari-day-trip") {
+        return {
+            averageRating: 4.7, totalReviews: 20, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Olaf", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-18", text: "The trip was incredibly interesting, especially the Water Safari, where we spent two hours swimming through incredible locations and seeing many fantastic animals. I highly recommend it." },
+                { author: "Teani", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-08", text: "Dinesh was a wonderful driver and very kind. Nihal was the best safari guide - very knowledgeable and excellent at spotting wildlife. My favourite part was the turtle conservatory. It was so adorable seeing/holding the babies and great to see the brilliant work they are doing to help the turtles. I also really enjoyed seeing Galle Fort, which is such a well-preserved piece of history. Overall, this was one of my top tours whilst in Sri Lanka. The only downsides were the Tsunami Museum at the beginning, which felt quite sad and a little strange. Although I liked seeing the gem museum and woodcarving, it did feel a bit uncomfortable when you didn’t buy anything, as you could sense the disappointment from the workers - but I think this is fairly normal when you’re a tourist travelling in some part of Asia." },
+                { author: "Susan", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-24", text: "We had a really good day out. Nothing was too much trouble. We called to watch fishermen bringing in their nets and to a busy local fishing harbour. The river trip was excellent and we saw a lot of wildlife including crocodiles, monkeys, fruit bats, monitor lizards, a snake, lizards etc. I had always wanted to see the fishermen at Galle and it was great to see them catch fish from the stilt fishing poles. We called in at other sights as well including the turtle sanctuary and the Galle Fort. We were picked up from the harbour at 5.30am and returned bang on the 6pm arranged time to catch the cruise ship. This trip was all I expected and more, great value for money. I would highly recommend it." },
+                { author: "Jane Annette", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-23", text: "A fantastic tour of Galle Fort, river safari, mask making & gem production, temple, tsunami museum, turtle conservation centre and stilt fishermen. The tour was well organised and comprehensive, with so much to see, but not rushed. The transport was very comfortable and the buffet lunch delicious. I would highly recommend this tour to any visitors to the Mirissa/Galle area. Especially the river safari, we found this trip as interesting as our visit to Yala NP." },
+                { author: "Tanya", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-04", text: "Great day out! Lots of stops at different places. We enjoyed everything especially the river safari. Thank you 😊" },
+                { author: "Björn", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-05", text: "Felt good, saw a lot, on time, friendly, and safe! Fair price for: river safari, mask museum, diamond info at the company, Buddha tour, lunch, stilt fishermen, and turtle rescue station. Nice team, would love to come back." },
+                { author: "mary", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-14", text: "Our driver Janith made our day enjoyable. His local knowledge and insights are appreciated. The mangrove boat trip was a highlight. Harinda spotted so much wildlife and made the trip so enjoyable." },
+                { author: "Amanda", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-04", text: "What an amazing trip that was. I had my 5 year old with me and he had a blast, too. From start to finish. The safari trip is just mind-blowing and the rest of the activities, too. So many things to see and experience. Thanks to Benton’s Travel Mart, I didn’t have to think of anything- just ride along and enjoy. They are super punctual, they pay attention to details and go above and beyond to meet your expectations and fulfill extra wishes and demands. Highly highly recommend them. Don’t even think twice. We had a blast! Thank you, Sam and everyone!" },
+                { author: "Juli", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-01", text: "Thank you Bentota Travel Mart for the highlight trip of the holiday, it was so memorable. Thanks firstly to Dinesh who drove the two of us for the day and took us to the various venues on the tour, he couldn't have been more helpful and even supplied us with umbrellas and a towel when it rained. The star of the show however was Samir who drove the boat for the safari up the Bentota river into the mangrove swamp. What an experience, we saw baby crocodiles, a water monitor, lizards, monkeys and assorted birds. How he spotted some of them I really don't know. He also cut coconuts for us to have a coconut water drink and peeled a pineapple with a machete for us to eat, I didn't see any other boats having that level of service. Despite the fact that it rained for most of the trip we wouldn't have missed it for anything." },
+                { author: "Julia", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-19", text: "The best driver, Mr. Dinesh, which I had in Sri Lanka. Also great guide during the river safari, very peacefull place and together we saw plenty animals, also 3 crocodils. Was a long great day!!" },
+            ],
+        };
+    }
+
+    if (slug === "galle-fort-turtle-beach-bentota-mangrove-safari-private-day-tr") {
+        return {
+            averageRating: 4.4, totalReviews: 6, guideRating: 4.4, valueRating: 4.4,
+            reviews: [
+                { author: "Adele Dorothy", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-30", text: "I had the most amazing day. Way beyond my expectations. My guide Chami was very knowledgeable and went out of his way to ensure my adventure was fantastic." },
+                { author: "Eimert", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-20", text: "We had a wonderful day! It was a packed program with many activities, but that was exactly what we were looking for: one full day so we could relax at our resort the next day. All activities were as described, and we had a good guide/driver who drove us around. I can definitely recommend it! Turtle Beach was truly amazing!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 3, date: "2026-08-16", text: "The polite driver, comfortable car, too little time in Galle (no visit to the city center, only a walk to see the lighthouse), off-season with a rough ocean, no swimming with the turtles" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-03", text: "There was Nothing that we didn't like from the drive to all the places we went ..I will definitely recommend He was so Polite and took us to the best fish restaurant 😋" },
+            ],
+        };
+    }
+
+    if (slug === "gampaha-forest-atv-adventure-ride") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-01", text: "The tour with the ATV was a lot of fun, Sam explained the vehicle to us in detail and after a short test drive we were off. The time went by very quickly and we would definitely do it again" },
+            ],
+        };
+    }
+
+    if (slug === "kandy-ella-transfer-hill-country-stops-nanu-oya-train") {
+        return {
+            averageRating: 4.7, totalReviews: 121, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Ramiya", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-31", text: "We had Dhanu, who was an excellent guide. He was flexible and knowledgeable about the areas he took us to. We definitely recommend travelling with him for a tour from Kandy to Ella." },
+                { author: "Christian", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Ramzan was a very good driver who got us to the train on time. He was fast and yet drove safely (we didn't want to leave until 9:00 AM, which in retrospect was perhaps a bit tight). But Ramzan managed to get us to the train on time. We stopped at a tea plantation and a waterfall along the way. With Eminem, he hit the nail on the head with our musical taste! Thank you for the great experience!" },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Malik was our driver, and we were super happy! The whole tour was very, very great. Unfortunately, we had a little rain in Nuwara Eliya, but it was still a very nice tour! We would really recommend it. Malik carefully picked us up from the hotel earlier as an add-on so that the day wouldn't be so packed, and so we had more time. The tea plantations and especially the tea factory were really beautiful and interesting! The viewpoints and the waterfall are great!:) Best of all: Malik gave it his all on the train to Ella and went through the crowd for us and reserved a seat for us, and he also got the tickets. His commitment and that of his colleague from Get You Guide was really unbelievably great!!! We are super happy!" },
+                { author: "Evelina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Our guide Sanath was amazing and very helpful - he adjusted the trip to our preferences and we managed to see a lot of places and local areas. Thank you!" },
+                { author: "Kaoru", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Mr. Danu took me by tuk-tuk to a scenic spot in the Nuwara area. I was very satisfied because I was able to see many beautiful tea plantations. He also helped me get from Nanuoya to the train, and he taught me how to get on, so I was able to get a good seat by the window and enjoy a ride with a spectacular view. Thank you very much. By the way, for those participating by tuk-tuk, the Nuwara area was quite cold, so a hoodie or similar is essential. Lol" },
+                { author: "Lily", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-26", text: "Everything was fantastic. Sura was incredible - professional, attentive, kind and organized. The experience went beyond expectations and it was not something I could have handled myself without his assistance. Would recommend to all." },
+                { author: "Giada", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "A truly unforgettable private tour! 😍🚗 We were lucky enough to have Ramzan Abdul as our driver. He was super kind, friendly, and helpful, and his cheerfulness made every moment even more special. He accompanied us to discover beautiful places, always with a smile and a lot of friendliness. With laughter, views, and many wonderful experiences, it was a really enjoyable and fun day! ❤️ Thank you so much for making our tour so wonderful. Absolutely recommended!" },
+                { author: "Judith", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "We had a wonderful day with our guide Danu. I would recommend it to my friends." },
+                { author: "Kasina", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-24", text: "I experienced car sick and my driver help me to cope with my symptoms. He is very kind and understanding. He rearranged the activities base on our interests. The ride is very comfortable and nice." },
+                { author: "Gautier", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-21", text: "Very good driver, he was super nice and gave us perfect explanations throughout the day. Also, he gave us a huge help to catch our train ! Thank you Dhanu !!" },
+            ],
+        };
+    }
+
+    if (slug === "kandy-peradeniya-gardens-tea-factory-day-tour-colombo") {
+        return {
+            averageRating: 4.6, totalReviews: 5, guideRating: 4.6, valueRating: 4.6,
+            reviews: [
+                { author: "Eugénia", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-31", text: "We had limited time in Sri Lanka, and this day trip was a very good chance to be able to see Kandy. Very nice trip and guides. Recommend." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-11", text: "I liked all the stops and the restaurant chosen for breakfast was very good." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-11", text: "One of the pleasant experience traveling around Sri Lanka is the kindness and courtesy of its people. Our guide mixed humor with all the necessary information in details as part of the group tour (which was a perfect mix of individuals) at Kandy. We started at 5:30 AM from Colombo in the morning and returned at close to 9 PM the same day. An enjoyable weekend, a perfect tour and a wonderful tour guide." },
+            ],
+        };
+    }
+
+    if (slug === "mirissa-whale-dolphin-watching-boat-trip-breakfast") {
+        return {
+            averageRating: 4.1, totalReviews: 132, guideRating: 4.1, valueRating: 4.1,
+            reviews: [
+                { author: "Elias", country: "Verified GetYourGuide review", rating: 5, date: "2026-09-02", text: "Highly recommended. The crew did a great job, so we even made another optional stop on the return trip. You could also ask them a lot of questions. We were very lucky and even got to see a blue whale." },
+                { author: "Manasweta", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-12", text: "I would absolutely recommend this package. We had heard from a lot of people that whale sightings have become quite rare these days, so spotting them not once but twice felt unreal — and it was a blue whale. It was an absolutely amazing experience. We also got to see a lot of spinner dolphins along the way. Maybe we were just lucky with the whale sightings, but overall this was a 10/10 experience for me. We started at 7 AM, and until around 10 AM there were no sightings at all, so we had almost lost hope. But the guides kept trying continuously to make sure we got the experience we came for. After 10 AM, things completely turned around and we had an incredible time. We were back by around 12:30 PM. They mention it as a 4-hour trip, but it does go on a little longer — and honestly, I have absolutely no complaints about that." },
+                { author: "Elizabeth", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-02", text: "Great! Guides were amazing and our driver. We were super happy and lucky to see so many pods of dolphins !! Unfortunately no whales , missed out by a day! But it’s off season. All boats kept great distance from the pods and we loved the snacks throughout. Great !!" },
+                { author: "Rita", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-16", text: "Super fun outing. Excellent spotters on board. Thoroughly enjoyable experience." },
+                { author: "Denis", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-16", text: "We didn't see any whales, but we saw a lot of dolphins. The crew is excellent. Very friendly. I highly recommend it." },
+                { author: "Ammad", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-13", text: "It was an amazing experience. Our guides were very much determined to show us the whales even after it became hopeless, and went an extra mile to show us." },
+                { author: "Prutha", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-03", text: "We had a great experience overall with this whale & dolphin watching tour! Although we didn’t spot any whales this time, we were lucky to see a large number of dolphins, which was still an amazing sight and made the trip totally worthwhile. A special shoutout to Geeth — he was absolutely fantastic! Friendly, knowledgeable, and made sure everyone was comfortable and engaged throughout the trip. His energy and effort really stood out and made the experience even better. The team was well-organized, and everything ran smoothly from pickup to the boat ride. Even without the whales, it was a memorable outing thanks to the dolphins and the excellent crew. Would definitely recommend, and hopefully next time the whales show up! 🐬✨" },
+                { author: "Letitia", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-03", text: "We had an amazing morning seeing lots of bottlenose and spinner dolphins and also a few glimpses of a Bryde whale. The staff looked after us really well, plenty of snacks and drinks and they even let us drive the boat! The team were also really helpful organising a taxi to take us/drop us back to Hikkaduwa." },
+                { author: "Frank", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-23", text: "Great, we were able to see whales and dolphins. The only downside was that the boat was completely overcrowded. For many visitors, there were only thin mats on the floor instead of seats." },
+                { author: "Manisha", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-20", text: "Didn't see whales, but saw a LOT of dolphins. Worth it!" },
+            ],
+        };
+    }
+
+    if (slug === "negombo-colombo-city-tour-tuk-tuk") {
+        return {
+            averageRating: 4.6, totalReviews: 3, guideRating: 4.6, valueRating: 4.6,
+            reviews: [
+                { author: "JUlio", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-29", text: "The guide was excellent. SILVA was extraordinary in his driving and in the visits made in COLOMBO. I recommend him to anyone who wants to visit Negombo and Colombo." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2026-06-30", text: "Our driver and guide Silva was very amicable, a great driver and good company. The program is ambitious for 6 hours. We did take a little longer than lunch but still went well over and ran out of time for Dutch canal in negombo." },
+            ],
+        };
+    }
+
+    if (slug === "negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch") {
+        return {
+            averageRating: 1.0, totalReviews: 1, guideRating: 1.0, valueRating: 1.0,
+            reviews: [
+                { author: "farres", country: "Verified GetYourGuide review", rating: 1, date: "2026-06-25", text: "Disastrous, terrible, nothing to do, an activity that lasted 3 hours including the trip. The fort doesn't exist!!!! I strongly advise against it!!!!" },
+            ],
+        };
+    }
+
+    if (slug === "negombo-lagoon-boat-trip-monkey-island") {
+        return {
+            averageRating: 4.3, totalReviews: 7, guideRating: 4.3, valueRating: 4.3,
+            reviews: [
+                { author: "John", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-14", text: "Lovely day out seeing monkey island. Relaxed welcome, life jackets and umbrellas for us on the boat, boat trip across lake Negombo, we saw and fed the monkeys on monkey island, then stopped off for a coconut drink paddling our feet in the lake. We then chose to stay for lunch at the end (additional cost) and it was yummy food. The whole family enjoyed it (kids aged 3 & 5)." },
+                { author: "Maria", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-19", text: "The tour was fantastic. All the staff were very helpful, and the boat ride was very nice. We saw lots of monkeys and took a short break on the mudflats. There, we were served coconuts and enjoyed the smell of walking through the mudflats. The tour is highly recommended, even for small children. The guides were very child-friendly and even let our children take the wheel. We didn't feed the monkeys." },
+                { author: "Tatjana", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-15", text: "We took the plunge and booked this tour despite only reading two reviews. This trip is also more expensive by local standards, but we still had a wonderful (and exciting 🙈😂) experience. Our boat clearly seemed to have a technical problem. The two guys always made me feel like they had everything under control. They did everything they could to give us a wonderful experience and didn't give up until we'd seen at least a few monkeys from the boat. Unlike other boats that had sunroofs, we were given umbrellas for sun protection, which we were ultimately grateful for. Tip: Be sure to apply sunscreen (anyway) and bring it with you (so you can reapply it later), as well as a well-fitting/sturdy hat. The communication beforehand and the location of the meeting point worked out great. All in all, we were well looked after and had a lovely trip." },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2024-10-26", text: "We saw a lot of monkeys The lagoon is beautiful Staff is very nice All was good thank you" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-02", text: "Very relaxed and enjoyable tour with lots of monkeys." },
+                { author: "Nick", country: "Verified GetYourGuide review", rating: 1, date: "2024-04-08", text: "The monkey experience was great but the directions for meeting place were completely wrong and no assistance available when we needed it. Ended up in a place 200 metres from hotel in a boat that was not fit for purpose as there were no seats and it was falling apart. Appears this is subcontracted out to a sub standard third party." },
+            ],
+        };
+    }
+
+    if (slug === "negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Manuel", country: "Verified GetYourGuide review", rating: 5, date: "2022-08-22", text: "really great, there were great surprises to see.. you should really experience and see it" },
+            ],
+        };
+    }
+
+    if (slug === "nuwara-eliya-kandy-sightseeing-transfer") {
+        return {
+            averageRating: 4.9, totalReviews: 18, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Ikuta", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-30", text: "I have traveled to many countries, but this guide was the most polite and friendly. When we asked detailed questions, they provided a lot of information, and when we took pictures, they did their utmost to ensure we got good shots. Thanks to that, I was able to take a lot of very good photos. If there was a scenic spot that interested me, he would stop along the way and let me take a photo. Maybe it was just that I got a lucky guide, but I highly recommend it. I also think it's a very good excursion for traveling from Nuwara Eliya to Kandy with luggage." },
+                { author: "Imani", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-22", text: "Tharanga made my journey from Nuwara Eliya to Kandy absolutely seamless and memorable. He was punctual, professional, and incredibly friendly from the start. His driving was smooth and safe, which made navigating the winding hill roads feel easy and relaxing. What really stood out was how understanding and accommodating he was, he took the time to tailor the trip to my preferences, making the experience feel truly personal. Whether it was stopping at scenic viewpoints, adjusting the pace, or sharing local insights, he went above and beyond to make sure I enjoyed every moment. He consistently checked in to make sure I was at ease. I highly recommend Tharanga. An exceptional experience from start to finish!" },
+                { author: "Roland", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-14", text: "Terence is a knowledgeable, friendly guide. He showed me some very beautiful places, and the journey was safe. I can wholeheartedly recommend the tour to others." },
+                { author: "Henry", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-10", text: "Danushka was amazing and took us to a number of interesting locations - the tea factory and gem museum were particularly good! We stopped for mango and Sri Lankan snacks along the way which made the journey very authentic. Just note, while the sites are free, the owners watch over you to get you to buy their products. There is no obligation to do so, as Danushka highlighted, but we felt a little awkward leaving some of the sites empty handed." },
+                { author: "Claudia", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-30", text: "The tour was really nice. We saw a lot, and our guide Danushka really tried to show us everything. He was super patient and stopped everywhere to take photos. Thanks for this lovely day. :-)" },
+                { author: "Miguel", country: "Verified GetYourGuide review", rating: 5, date: "2025-01-31", text: "A very good day throughout the Nuwara Eliya area, Danushka was our guide and was attentive to everything we needed, thanks to him the experience was very good." },
+                { author: "Abhishek", country: "Verified GetYourGuide review", rating: 5, date: "2025-01-30", text: "This tour if missed would be a lifetime regret. Had wonder time in Nuwara Eliya, our captain Danushka helped us a lot and guided well. Our ride was comfortable and enjoyed music all over the route." },
+                { author: "Peter", country: "Verified GetYourGuide review", rating: 5, date: "2024-03-15", text: "A wonderful day with a wonderful guide and driver - Danushka. As a person who places emphasis on customer satisfaction Danushka was extremely accommodating and flexible in meeting the needs of our customised tour. This is a great tour as we were able to travel the scenic road route to Nuwara Eliya and return. On route we stopped at local restaurant as well as taking in the sights as outlined in the itinerary. Time was no issue for Danushka who was extremely patient. An excellent tour. Thank you Danushka. We wish you well for future tours. A job well done - Peter and Merlinda" },
+                { author: "Carmen-Mirabela", country: "Verified GetYourGuide review", rating: 5, date: "2024-02-23", text: "Great day with driver Channa! He stopped at many viewpoints along the way and customised the itinerary to my liking!" },
+                { author: "Mia", country: "Verified GetYourGuide review", rating: 4, date: "2026-02-10", text: "Rowan took us on a safe and informative trip from Nuwara Eliya to Kandy. Highly recommended!" },
+            ],
+        };
+    }
+
+    if (slug === "private-car-transfer-kandy-ella-mirissa-colombo-beyond") {
+        return {
+            averageRating: 4.7, totalReviews: 11, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Camilla", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-10", text: "Roshan did a great job! Would recommend this city tour :)" },
+                { author: "Jiří", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-12", text: "Our guide was very good. Helpfull in so many ways And his care about us excelent." },
+                { author: "Mira", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-06", text: "I had the pleasure of doing a private city tour in Kandy with Rasidu, and I can confidently say he is one of the best tour guides I’ve ever met. From the moment the tour began, he was extremely professional, knowledgeable, and well-prepared. The way he explained the history and cultural background of each place was clear, engaging, and full of passion you could tell he genuinely loves what he does. What stood out most was how kind and attentive he was. He didn’t just take me around; he truly listened to what I wanted to see and customized the experience based on my interests. Rasidu made me feel completely comfortable and welcomed, almost like I was with a close family member rather than a tour guide. His warm personality and respectful nature made the entire experience not just informative, but truly memorable. If you’re visiting Kandy and want a guide who is informative, friendly, and genuinely cares about giving you a great experience, I highly recommend booking a tour with Rasidu." },
+                { author: "Lara", country: "Verified GetYourGuide review", rating: 5, date: "2024-02-05", text: "Tharanga was super friendly and explained everything and answered all our questions. He even asked if we were interested in seeing extra things apart from the list and ended spending the whole day with us (10hrs instead of 6hrs!!). Highly recommended!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2025-11-12", text: "I had Danushka as my driver. He drove us around in his beautiful tuctuc. The tour was fun and I saw a few things you only see if a local shows you the way, that was fun. We didn't see any really famous things, just the botanical garden. I thought I'd see more well-known things, but I guess that's my fault. Also, a really nice driver and super helpful." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-14", text: "Check out the cultural show and the temple of teeth" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2024-02-05", text: "Tharanga is very kind and really takes his time to show you around and explain about Sri Lanka culture. I 100% recommend if you wanna see the city and get the tuk tuk experience and not only see touristy places!" },
+            ],
+        };
+    }
+
+    if (slug === "private-kandy-nuwara-eliya-transfer-waterfall-tea-estate-stops") {
+        return {
+            averageRating: 4.9, totalReviews: 73, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Laetitia", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "We had a great day with Rumesh; the various things to do were very interesting. Rumesh was able to answer our various questions. We made it to Nuwara Eliya safely!" },
+                { author: "Muzamil", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-23", text: "We had a wonderful journey from Kandy to Nuwara Eliya with our guide Saman and we can't recommend him enough. Saman is a very nice, friendly and cooperative person. From the beginning he was so flexible - he changed and adjusted the itinerary completely as we wanted, without any hesitation. That made our trip so comfortable and stress-free. On the way he took us to beautiful places like Ramboda Falls, which was breathtaking, a lovely tea plantation where we learned about the whole tea-making process, and the famous Nuwara Eliya Post Office and city tour. He knows all the best spots for photos and never rushed us at any place. He gave us enough time to enjoy, take pictures and relax. He is a very safe driver, especially on the winding hills towards Nuwara Eliya, his tuk tuk was clean and comfortable, and he was very professional throughout. If you are planning to travel from Kandy to Nuwara Eliya, just contact Saman. He will make your journey memorable. Highly recommended!" },
+                { author: "Irene", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "I absolutely recommend the transfer from Kandy to Nuwara Eliya with them: along the way, you'll have the opportunity to admire beautiful panoramic landscapes and learn about tea production firsthand by visiting one of the factories that is still in operation today. Ask for Tharanga as your driver: she was one of the kindest, most helpful, and lovable people we met during our trip to Sri Lanka. An experience that we highly recommend!" },
+                { author: "Loeki", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "Had a really nice day. Saw and did a lot. Definitely worth the money!" },
+                { author: "Juan Carlos", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-05", text: "Mahesh was very professional driving and showed us the various places agreed upon in the itinerary. Thank you!" },
+                { author: "Chiara", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-25", text: "The tour from Kandy to Nuwara Eliya was perfect, thanks to our guide Kumara! We passed by the Spice Garden, the Gem Museum, and numerous viewpoints and waterfalls! We stopped for lunch at Chill Ramboda, a great restaurant with incredible views! A big thank you to Kumara, who was exceptional!" },
+                { author: "Katja", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-20", text: "We really enjoyed the tour. Mahesh not only drove us to the landmarks, but also explained and showed us an incredible amount, and thus managed to teach us a lot of new things in one day. We always had enough time; there was no rushing, even when it got later than expected. We felt safe and would like to travel with him again in Sri Lanka." },
+                { author: "Dianne", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-20", text: "After a couple of hiccups (my fault) which our driver quickly resolved for me, the trip was great. the driver was polite and kind, no rushing g me as I am 70 years old. He helped me with steps which was appreciated. The scenery was very beautiful. I highly recommend this tour." },
+                { author: "Sergen", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-02", text: "We had an excellent experience on the Kandy to Nuwara Eliya drop tour. The journey was comfortable, well organized, and filled with beautiful scenery along the way. Our driver Maresh was punctual, friendly, and very knowledgeable about the area. We had the opportunity to visit several interesting attractions and viewpoints, and there was enough time to enjoy each stop without feeling rushed. The vehicle was clean and comfortable, making the trip relaxing and enjoyable. The tour was a perfect combination of transportation and sightseeing, allowing us to experience some of the most beautiful parts of Sri Lanka during the journey." },
+                { author: "Eva", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-01", text: "Had such a great experience on this trip. My guide Rumesh genuinely could not do enough for me, stopping at any time along the way when I asked, giving great tips and recommendations for my next destination and he even went out of his way to drop me to the Ambewela train station and waited with me until I got my ticket. He completely tailored the experience for me after finding out I had already done some of the tours that were on the route. He definitely made my experience and I would recommend this trip to anyone looking to experience culture, history, a fantastic guide, and breathtaking scenery along the way!" },
+            ],
+        };
+    }
+
+    if (slug === "private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-11", text: "A must-do tour in Sri Lanka. Wonderful experience with a professional & well caring chauffeur. Well planned day, climbed Sigiriya in the morning to make sure enjoy our time before it gets too hot & crowded. guides were very knowledgeable, lunch was delicious. Thank you for Bentota Travel Mart for organising this hassle free experience for us. Highly Recommended." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-31", text: "Great world heritage sites. The structure and the landscape were amazing. Great urban design which we can’t see anywhere in the world. The driver was friendly & both guides were very knowledgeable to explain much about Sigiriya and caves. Highly recommended." },
+            ],
+        };
+    }
+
+    if (slug === "private-udawalawe-elephant-safari-day-trip-transit-home-visit") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Closset", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-31", text: "We had a fantastic day with Chami, who was incredibly dedicated to our safety. We have absolutely no complaints about our excursion. We highly recommend this activity and wish other users the same wonderful day we had." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-12", text: "It was amazing to see the baby elephants being fed in the transit house, as well as getting up close to them in the wild. The guide who drove us up there, and the one who took us around the park were both friendly, knowledgeable, and excellent." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-dambulla-minneriya-safari-day-trip-colombo") {
+        return {
+            averageRating: 4.8, totalReviews: 76, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Lauren", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-17", text: "Well organised trip. We stayed in Negumbo and had a taxi organised for us to meet us at a meeting point with the rest of the group. Spacious mini bus with good air conditioning. Chathu was an excellent guide and gave us lots of information about the surrounding areas. Nishan was a good driver and made sure we had a safe trip. Would definitely recommend to anyone thinking about booking" },
+                { author: "Ilya", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-17", text: "Group trip from get your ride is a good alternative to individual tour if you travel alone nd struggle to find company. Guide was very friendly and supportive and worried about us being hydrated and provided water all the time. Sigiria and safari was realy beautiful." },
+                { author: "Magdalena", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-09", text: "We highly recommend this tour — we had the opportunity to take part in it today and were very satisfied. The guide was excellent: friendly, helpful, and passionate about what he does. He shared many interesting facts, not only those directly related to the tour itself, which made the experience even more engaging. Thanks to him, the tour was truly enjoyable. If you’re wondering whether it’s worth choosing this option — it definitely is! 😊" },
+                { author: "Andrea Szilvia Fölkelne", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-30", text: "Everything was well organized. The tour guide was very attentive and kind. Well prepared. Nice program." },
+                { author: "Wendy", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-18", text: "There’s no getting away from it - it’s an amazingly long day but well worth it ! i was picked up by a driver and taken to the bus on the main route so my day started at 6am and returned to hotel at 10pm - it’s varied and interesting day and our guide Chathu was excellent at guiding us but also telling us about the culture - extra costs are involved and these are clear in advance although some people appeared not to be aware - cave temple incredible ; walking up Sygirya hard but worth it (i thought i was relatively fit but struggled in humidity ) - i chose the safari tour and that too was excellent" },
+                { author: "Barbara", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-05", text: "A great guide, he created a great and warm atmosphere on our trip, thank you! Barbara" },
+                { author: "Julie", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-23", text: "I had the most wonderful day from start to finish. Every part of the day was well organised. Ranga and Naveen were wonderful guides and took care of everyone's needs on the tour. They were knowledgeable, informative and funny too. I will go home with very special memories of my time in Sri Lanka" },
+                { author: "Aisha", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-19", text: "Ranga was patient, attentive, and very open to fulfilling special requests. The price–performance ratio was excellent, and the car was extremely comfortable. Fully recommend!" },
+                { author: "Hernán", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-23", text: "We were so well taken care of! Wonderful way to explore Dambulla and Sigiriya" },
+                { author: "Santhos", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-20", text: "Awesome trip! The guide was super nice and catered to everyone's needs. Above all, he was honest and always helped us. I can only recommend this trip to everyone." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-rock-dambulla-cave-temples-day-trip-colombo-safari") {
+        return {
+            averageRating: 4.7, totalReviews: 1021, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Amanda", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "From start to finish I felt like I was in good hands! The breakfast spot was AMAZING the food was great! Each stop on our tour was well worth it! Our tour guide was friendly and truly took great care of us! I made life long friends on this tour!" },
+                { author: "Anthony", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "great day all round, due to being only guests on the tour we were able to be flexible with our day. guide very accommodating and ensured we enjoyed our day. Guide at sigiriya rock was able to help us avoid some of the large queues. Would 100% recommend" },
+                { author: "Lucille,", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "The trip was excellent and well organised. It was a long day, but worth it. The view from the top of the lion rock is just amazing. We learned a lot about Sri Lanka on this trip. The village tour was short but relaxing. The local food was great. We really enjoyed the food, in the presence of the two lovely, very nice and welcoming ladies that prepared them. We had a great guide, very friendly and accommodative. We highly recommend this activity." },
+                { author: "THAYANAN", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-24", text: "I had an excellent experience on our day tour to Dambulla, Sigiriya, and the local village. Our guide, Chatu, provided outstanding service, rich historical insights, and safe, comfortable transportation throughout the day. He truly went above and beyond, and we highly recommend booking with this company." },
+                { author: "Partha", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-23", text: "Had a fantastic trip exploring the cultural and spiritual wonders of Sri Lanka! The journey began with a fascinating experience at the Dambulla Cave Temple, where we immersed ourselves in the spirituality and rich Buddhist heritage of the caves. We were then amazed by the incredible engineering and architectural marvel of the ancient Sigiriya Palace City. The day ended on a high note with a wonderful village tour and an authentic taste of traditional Sri Lankan food, making the experience even more memorable. Our guide, Chattur, took excellent care of everything throughout the trip—from the arrangements and transportation to our safety and overall well-being. His professionalism, knowledge, and attentiveness made the entire journey smooth and enjoyable. I would highly recommend this experience and would happily give both the trip and our guide Chattur a 10/10. Truly an unforgettable Sri Lankan adventure!" },
+                { author: "Samuel", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "I had a wonderful day tour. Our guide was very kind and gave useful information during the trip. He always cared for our safety and well-being." },
+                { author: "Nami", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "It was an early morning excursion, but I'm really glad I went. Dambulla Temple and Sigiriya Rock were both wonderful, and I would definitely recommend climbing to the top of Sigiriya Rock in particular. Even though I'm not physically fit, I managed to climb to the top. After that, I took an optional safari excursion and got to see lots of elephants. The sight of the mother and baby elephants was heartwarming. However, please allow plenty of time when participating. The return time may be delayed due to traffic conditions on the day. Finally, this excursion gave me the best memories of my time in Sri Lanka." },
+                { author: "Sachiko", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "It was so much fun! It was worth more than the price! Thank you for providing me with a wonderful experience. I am also grateful to Dhanesh, the guide." },
+                { author: "Philippine", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "A wonderful day. We woke up at dawn, and the hours on the road were quickly forgotten thanks to the magnificent landscapes we saw. The cave temple is very beautiful. The climb up the Lion Rock was impressive, dizzying, and athletic😅 The view from the top is splendid. We then chose the optional tour of the village. It was very good. We were welcomed and treated like royalty by everyone we met. We were amazed!" },
+                { author: "Janice", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "We had a great day We were well looked after Nothing was too much trouble So appreciated our guides and driver for the day" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-rock-dambulla-caves-small-group-day-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Yossi", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-09", text: "An excellent day accompanied by Chatu, our guide – knowledgeable and passionate, he provided us with a wealth of information about Sri Lanka. He was super helpful, friendly, smiling, and funny. Honestly, he was the perfect guide. Thank you." },
+                { author: "Kasia", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-07", text: "It was great experience. Our pilot Krish and driver were very kind and punctual. We saw a lot of things on this day, I realy recommend you this trip." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-sunrise-climb-dambulla-cave-temples-colombo") {
+        return {
+            averageRating: 4.7, totalReviews: 7, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Torben", country: "Verified GetYourGuide review", rating: 3, date: "2025-09-25", text: "The early pick-up at the hotel is a plus. The sunrise is really beautiful Maybe I misunderstood, but you get drivers for the car, not real travel guides. I'm not a nerd, but it felt like I knew more about the destinations than the drivers. The price is pretty high for that... It's okay for me, but the expectation was different." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-22", text: "I enjoyed a stunning sunrise while on top of Sigiriya Lion Rock." },
+                { author: "Win", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-20", text: "It’s excellent . All arrangement is good" },
+            ],
+        };
+    }
+
+    if (slug === "sinharaja-rainforest-guided-trek-waterfalls-day-trip") {
+        return {
+            averageRating: 4.4, totalReviews: 4, guideRating: 4.4, valueRating: 4.4,
+            reviews: [
+                { author: "Daria", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-28", text: "It was a very nice excursion. Unfortunately, we were a bit unlucky with the weather because it had rained a lot. Unfortunately, there weren't that many animals to see. However, no one can control the weather; the time in the rainforest was still very enjoyable. It was a bit slippery, but we had a lot of fun, and the waterfalls were impressive. The last waterfall had these tiny fish in it that were nibbling on a rum bottle. Unfortunately, we didn't bring anything for swimming; at the last waterfall, we would have been allowed to swim, too. Sri Lanka has a very diverse and beautiful landscape, and the people are also very friendly.😊" },
+                { author: "Alison", country: "Verified GetYourGuide review", rating: 4, date: "2026-02-22", text: "Our driver was excellent, he shared his excellent local knowledge with us and was always polite and helpful. The trek up the waterfall was more demanding than we thought ( we are in our 60’s) but we managed to scale the waterfalls as we had good hiking shoes. Please take solid walking shoes and a good ruck sack. The only reason not giving this trip excellent was that the rain forest guide was rude and constantly talking on his phone." },
+            ],
+        };
+    }
+
+    if (slug === "south-coast-day-trip-turtle-hatchery-madu-river-galle-fort") {
+        return {
+            averageRating: 4.9, totalReviews: 6, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Yasmin", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-11", text: "We had a super nice day, got to see a lot, and had a really dedicated guide named Raga. He taught us a lot and showed us a bunch of things that weren't even in the tour description. The river safari was our highlight Thanks a lot to Raga for the unforgettable beautiful day :)" },
+                { author: "Jessica", country: "Verified GetYourGuide review", rating: 5, date: "2024-07-31", text: "We had a very nice driver who told us and showed us a lot. The tour was also very varied!" },
+                { author: "Nadin", country: "Verified GetYourGuide review", rating: 5, date: "2023-12-31", text: "so many great impressions, nature is fantastic. so many impressions, the nature is amazing" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-30", text: "We were picked up by Dhanesh in the morning who was on time and introduced himself and ran through how the day would run very professionally. He was a very competent driver and we felt safe the whole day. Dhanesh was very knowledgable of the route, stops and Sri Lanka generally; he regularly passed on small facts along the way which were very interesting. Dhanesh was also very flexible in terms of stops, when we stopped for breaks / activities he was very clear we could take as long as we liked. He also asked if we wanted to stop at numerous additional places throughout the day which we did not know were there which was appreciated. I would highly recommend this tour in Dhanesh’s capable hands. With regards to the tour stops itself, the turtle hatchery, river safari and Galle river fort were all very fun and interesting - I would recommend. The food stop was also good, really tasty and varied seafood options." },
+            ],
+        };
+    }
+
+    if (slug === "udawalawe-elephant-safari-transit-home-private-day-trip") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Sean", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-14", text: "Chamidu was a driver, picked up as informed via what app, it took about 3 hours to get to the park where we transferred to a 4x4, we were informed we didn't need a local guide, but we were approached and he said if he did a good job would we give him a tip, he was worth a tip as he spotted a few animals that we would have never seen including a herd of elephants off track behind trees, wow it was truly amazing. We then went to the Elephant Sanctuary, what an amazing job they do with the orphaned elephants 🐘, the little ones running up for a drink and something to eat was a magical moment" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "The whole day was really nice and impressive, with lots of experiences and impressions. Our driver picked us up and gave us a lot of information. Our son also felt very comfortable. Our driver's brother then drove us to the national park in the 4x4 jeep, and we were able to see several elephants up close. Also pigs, monkeys up close, and various birds. It was a really nice day. Highly recommended." },
+            ],
+        };
+    }
+
+    if (slug === "udawalawe-national-park-elephant-safari-day-trip-colombo") {
+        return {
+            averageRating: 3.9, totalReviews: 11, guideRating: 3.9, valueRating: 3.9,
+            reviews: [
+                { author: "Robbin", country: "Verified GetYourGuide review", rating: 5, date: "2023-09-29", text: "It was fantastic, saw a lot of wildlife, and a beautiful park" },
+                { author: "Ambre", country: "Verified GetYourGuide review", rating: 5, date: "2023-08-12", text: "Excellent ! I highly recommend. Thanks to our guide it was just an incredible day" },
+                { author: "Ipsita", country: "Verified GetYourGuide review", rating: 5, date: "2023-01-16", text: "It was a very nice safari with lots of sightings of elephants, crocodiles, water Buffalo, peacocks, jackals, mongoose, python and numerous species of birds. The park was not very crowded, hence allowed me to spend quality time at each sighting. The journey from Colombo was also very smooth in a good Toyota Prius car. The car had arrived for pickup on time at the hotel lobby." },
+                { author: "Bozdog", country: "Verified GetYourGuide review", rating: 5, date: "2019-12-29", text: "Long road to reach the park from Colombo, but worth it! Seen a lot of elefants, buffalos, lizards, large variaty of birds, turtles and even a crocodile. The safari experience is not very crowded (as I heard Yala is) and there was enough time to admire the park and the animals. The driver from Colombo to the park was reallt skilled and the guide was nice, but needs to improve his english a little bit. All in all, don’t regret the money I spent, even though I paid double as solo traveler." },
+                { author: "Anca", country: "Verified GetYourGuide review", rating: 5, date: "2018-12-27", text: "We had a wonderful time during the safari and the guide was very helpful and nice." },
+                { author: "Bianca", country: "Verified GetYourGuide review", rating: 5, date: "2018-10-30", text: "Great activity to learn about the biodiversity of the country!" },
+                { author: "Zeeshan", country: "Verified GetYourGuide review", rating: 1, date: "2024-03-20", text: "We have booked the safari for Udawalawa because we wanted to see elephants specially. But they tricked us and taken us to Wilpatu by saying that we will be able to see more animals along with the elephants in Wilpatu park. Overall it was a waste of money and time because we were not able to see a single elephant. We have just seen deers/ghazals and a peacock and that’s it. They reduced the time of safari to 2:30 minutes. I would really not recommend going for to Wilpatu and with them." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2022-03-19", text: "Safe travel with careful driver. They were polite prompt and helpful. But be aware of the rainy days, then you will not only have to bring hat sneakers and sunscreen but also raincoats for jeep safari." },
+            ],
+        };
+    }
+
+    if (slug === "udawalawe-national-park-private-safari-day-trip-lunch") {
+        return {
+            averageRating: 4.8, totalReviews: 80, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Natalie", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-21", text: "On-time hotel pick-up and direct ride to the safari jeep. After that, we went on the extensive and very cool tour through the national park, with elephants, wild boar, crocodiles, etc. For lunch, there was a buffet, which was really very authentically (Sri Lankan) cooked and delicious. Overall, it was really good. Everything was explained and shown, but we weren't \"bothered.\" Definitely recommended." },
+                { author: "Carolyn", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-14", text: "Brilliant day - excellent guide Really worth the money and recommend. We were 3 generations in a family group and we all agreed this was one of the highlights of our holiday" },
+                { author: "Lara", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-21", text: "It was a great experience. Everything worked out great. We will never forget this excursion." },
+                { author: "Robert", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-10", text: "It is expensive, but far cheaper than an safari holiday and just as enjoyable. We saw many animals, and birds, not only elephants. It is a long day (12 hours) in a very comfortable car from Colombo, but certainly worth it. Company was constantly in touch and very amicable. Highly recommend. It is something you do not do everyday so go with this highly recommended company and enjoy nature at it's best." },
+                { author: "Tilo", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-03", text: "Nice team, smooth ride in the park, good spots, enough time to enjoy the wildlife. Thank you" },
+                { author: "Nicola", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-04", text: "The driver and the guide were great. Our guide was very knowledgeable and he clearly loved what he was doing which made everything enjoyable. We were really well looked after by both. We could have skipped the meal and gone straight back to our hotel, there would have been no detriment to the overall experience. The buffet was good with plenty of choice, however we had some chicken which was undercooked and it tainted the whole dining experience." },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-30", text: "The safari was great! The pickup from our hotel in Bentota was easy, the drive quite enjoyable (a long drive but very comfortable!), and the safari was incredible! Our guide could spot nearly anything, from far away eagles in treetops to saltwater crocodiles to the smallest bird/lizard. Amazing experience, amazing guides! Thank you!" },
+                { author: "Ken", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-27", text: "they took care of us from start to end. the pick up was on time and comfortable. the safari guide was great and knew what to look for. highly recommend." },
+                { author: "Davina", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-24", text: "Everything was excellent to the punctual pickup by Dinesh, smooth drive & handover to jeep & safari guide We saw loads of Elephants & even a 5 day old baby. Lots of other animals & birds seen & expertly pointed out to us. Would highly recommend Bentota Travel mart for this experience. Thanks to all!!" },
+                { author: "Elwira", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-04", text: "We're super happy with our day! We were well looked after. The transfer felt safe and on time, the lunch was super good, and the guide was very responsive and knowledgeable. The jeep was great with comfortable seats. However, we recommend bringing a small snack as it's not included." },
+            ],
+        };
+    }
+
+    if (slug === "water-skiing-session-colombo-port-city-waterfront") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2024-03-29", text: "It was the most exciting and most fun activity that I have ever done. The team that offered the a tivjth was so nice, so professional and dull of jokes. I had a great time. I honestly recommend this to anyone who is into adventure" },
+            ],
+        };
+    }
+
+    if (slug === "wilpattu-jeep-safari-sunrise-or-sunset-game-drive") {
+        return {
+            averageRating: 4.3, totalReviews: 99, guideRating: 4.3, valueRating: 4.3,
+            reviews: [
+                { author: "Adrià", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "Activity with a local guide and a driver who did their best to let us see all kinds of animals. We were finally able to see the famous leopard. Regarding the company, GetYourGuide hires a local company that contacts you. There is a bit of misinformation about the meeting point and about who is going to meet you. It's not a serious product!" },
+                { author: "Spyros", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-17", text: "We had a great experience with Tiger safari! Our tour guide and the driver were exceptionally kind and worked out so we could see most of the animals in Wilpattu. We booked the half day safari and we got the chance to see leopards, buffaloes, peacocks, monkeys, crocodiles and a lot of birds!" },
+                { author: "Daniela", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-31", text: "We saw almost every kind of species in the park. Our driver Yala and the guide Avishka were amazing! Really Nice people, who love their job, kind and very helpfull. We spent one of the best days in lifes… thank you both ❤️" },
+                { author: "Anouska", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-22", text: "It was a very good experience. You pay a little less than when you book at a lodge or something. Our ranger was young, but he knew all about the animals. Very friendly, and we drove through the entire park within the time. He even came to pick us up an hour early. Because of this, we saw two leopards! Very cool! Thank you 🙏🏼" },
+                { author: "Marquet", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-21", text: "The transportation went very well; everything was perfectly organized. The driver and live guide were very committed and did everything to allow us to see as much as possible. I even think they made a detour at the end so that we could see the elephants. I would definitely recommend it; it was great!" },
+                { author: "Wolfgang", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-21", text: "Knowledgeable driver, great driver, round-trip transportation very good, everything super organized, we even got dust masks!" },
+                { author: "Jon", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-20", text: "Awesome, saw a bunch of animals and our guide was great" },
+                { author: "Anna", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-17", text: "The whole safari was so exciting! Very good communication, great transport and guide was also very great. I recommend this!" },
+                { author: "Samuele", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-27", text: "Today I had a wonderful experience at Will Pau National Park. The guide and his driver were truly attentive to my every need and answered all my questions. We toured the entire morning in the Jeep and were lucky enough to see several animals, including a leopard and an elephant. I highly recommend this experience." },
+                { author: "Marie", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-10", text: "The transportation from Negombo was great; a good car ride. The guide was able to provide us with a lot of information about the different animal species and always spotted them quickly so that he could show them to us." },
+            ],
+        };
+    }
+
+    if (slug === "wilpattu-national-park-full-day-leopard-safari") {
+        return {
+            averageRating: 4.5, totalReviews: 55, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Liss", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-10", text: "Our guide was BRILLANT. At 21 she was knowledgeable about the animals and park but also so great to talk to about all things Sri Lanka, evolution of culture, language, social roles etc. We were lucky and had x 2 spotting of leopards, all 3 types of monkeys, water buffalo’s, many beautiful birds, deers, crocodiles, turtle, lyre birds, mongoose, reptiles etc. We did not see elephants on the tour as they are currently hanging on a part of the park inaccessible by jeep. However, could see them when leaving by the lake. Worth noting, the booking included binoculars, however, our guide was not advised so she had to source some from another car, which was disappointing, as these are needed. Overall excellent ethical trip and opportunity to see these animals doing their thing in the wild." },
+                { author: "Niklas", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "Fantastic experience. Great guide and driver, showing us a range of beautiful spots away from all the other cars. We saw a wide range of animals - eagles, crocodiles, elephants, water buffalo, peacocks, deers and many more! Sadly didn’t see leopards and bears, but this is normal and not the responsibility of our guide and driver, this is still nature and animals want to avoid humans. Can highly recommend!!" },
+                { author: "Frederiek", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-24", text: "We had the best day! We saw every animal we wanted and our guide was very friendly and told us a lot information about the animals. Our driver was very experienced and guided us through the park. We even got to see the beach, a place not all tours are able to cover." },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-19", text: "We had a very nice day with the live guide Avishka and the driver Udare. We saw many different species of animals in their natural habitat and sometimes also very close up. We saw everything from a snake to a leopard or a bird. The round-trip ground transportation (if you choose to be picked up) was very punctual (to the minute, but if you indicate that you still need to go to the bathroom or something else, that's also possible). All in all, only one word is needed to describe this experience and service: amazing!" },
+                { author: "Alina", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-27", text: "That was a great experience! We had the best guide, who is very experienced and enthusiastic, and we saw many different animals. In fact, we saw all the coolest animals within the first 6-8 hours, so I wouldn't book the 12-hour tour again. The pick-up and drop-off were also very convenient. Bring your cameras with good zoom, if possible!" },
+                { author: "Tuure", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-21", text: "We had a wonderful day in Wilpattu national park. Our guide Kaushika and driver Maduranga picked us up in the morning as agreed. They were both very friendly and spotted a lot of animals thay we couldn't see. Kaushika was very knowledgeable of Sri Lankan animals and other animals as well. We had a lot of discussions about animals, culture and many other things. We enjoyed decent readily-made breakfast and lunch in the car. Also we stopped during the day at a site by a lake where you could visit the toilet and enjoy the view [take your items with you from the car or the monkeys will steal them :)]. We saw a lot of animals and we were lucky to see leopards actually thrice. First was just a glimpse in the bush but second time it was walking towards for quite a while on a road. Third was just laying down on a grassy field, very majestic. Mornings are cold, take a jacket with you. Sometimes you might get bored waiting for an animal to show up so it is best to go with good company. :)" },
+                { author: "Prakas", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-18", text: "We had a great day with Tiger Safari. Guides (Kaushika) were polite, friendly and informative. Breakfast and lunch were simple and tasty. Vehicle was very comfortable, considering how rough the tracks are. We were lucky enough to see leopard and sloth bear. Definitely recommend :)" },
+                { author: "Patricia", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-17", text: "And we really enjoyed the trip. Our guides were super friendly and told us all about the plants and animals in Wilpattu National Park. We were very lucky and saw a leopard and a sloth bear. We highly recommend this tour." },
+                { author: "Sarah", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-06", text: "We had a great time with the family on this safari! Even though we didn't get to see any leopards, our guide really went out of their way to give us the best experience possible. We still got to see a ton of animals: buffalo, deer, elephants, crocodiles, birds, and all kinds of lizards. 😍 The food was yummy and the portions were really generous!" },
+                { author: "Eve", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-28", text: "I had an amazing full day safari - managed to see elephants, a leopard, sloth bear, mongoose, monkeys, too many birds to count - everything the park had to offer! A special mention must be made of my guide Ishara Iakmal who was a wealth of information and so much fun. The driver Supun Maduranga had the eyes of a hawk! I doubt I would have seen so much with his knowledge of the park and ability to spot animals when camouflaged. Also the food provided was great! I truly lucked out on this tour, can't rate them highly enough." },
+            ],
+        };
+    }
+
+    if (slug === "wilpattu-national-park-leopard-safari-colombo-pickup") {
+        return {
+            averageRating: 3.9, totalReviews: 40, guideRating: 3.9, valueRating: 3.9,
+            reviews: [
+                { author: "Florian", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-24", text: "Absolutely top-notch and highly recommended We spontaneously decided to do this for our Sri Lanka road trip, because Wilpattu is less known to tourists than other national parks. Our driver was on time at the pick-up spot and dropped us off on time too The tour was really awesome, and we were lucky enough to see a leopard too. The guide was friendly and gave us a lot of great info and background knowledge about the animals and the park. All in all, absolutely top-notch 😊" },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2025-06-29", text: "Well-organized service, we really enjoyed the experience! The tour guides were very knowledgeable, and you could tell they cared about giving customers a great day trip! Thanks to their attention and professionalism, we even got to see a leopard! 😍" },
+                { author: "Morgane", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-30", text: "Excellent safari with very good support and an excellent guide! Many thanks to Anupa for her explanations and for allowing us to see the leopards, bears and other animals in the park!" },
+                { author: "Gary", country: "Verified GetYourGuide review", rating: 5, date: "2025-01-22", text: "Great driver and guide. Sat in the back, gave lots of info about birds, plants. Saw a leopard and felt they really wanted to find one. Would recommend" },
+                { author: "Estrella", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-09", text: "An incredible experience. Our guide, Nadhun, is a very nice person and very respectful, and even though he didn't know much English, he showed us everything we saw during the safari. He is also a great expert on the park, he took us through many areas, cutting corners where he thought best. We were very lucky because in addition to seeing a great variety of fauna, we were able to see four leopards. It was incredible, highly recommended, an unforgettable experience. The only thing I can say against it is that everything they offer you for food is very spicy, including breakfast, but that is secondary. A unique experience!" },
+                { author: "Katie", country: "Verified GetYourGuide review", rating: 5, date: "2024-10-23", text: "What a wonderful experience!! Our driver was great, reliable and the car was very comfortable for the 3.5hr journey each way. The system at the park was very smooth, as soon as we arrived our guide and driver were ready to welcome us and set off on safari. We were so lucky to see ALL the animals within the afternoon and our guide was very knowledgeable, sharing information throughout the trip. Our 7 year old was awestruck, a trip we will all remember and highly recommend." },
+                { author: "Silvia", country: "Verified GetYourGuide review", rating: 5, date: "2024-10-04", text: "Incredible! We saw the leopard!! I recommend doing it in the morning. When we returned around 10am it was full of wasps and if you are afraid of them it is a bad time." },
+                { author: "Ivan", country: "Verified GetYourGuide review", rating: 5, date: "2024-08-23", text: "Responsive guides, beautiful environment. No elephants for us, but the guide seemed to say it was better to come in the morning. Very satisfied nonetheless." },
+                { author: "Ignacio", country: "Verified GetYourGuide review", rating: 5, date: "2024-08-15", text: "We had a missunderstanding when booking and the people were really nice amd helped us all the way through, the safari guy went through all kinds of roads to find all kind of animals and was great at spotting animals" },
+                { author: "Dominik", country: "Verified GetYourGuide review", rating: 5, date: "2024-08-07", text: "It was really great. We were picked up at the pickup point as agreed and had the jeep to ourselves, which was of course a stroke of luck for us. We were even allowed to take our large luggage with us. Our driver wasn't fluent in English, but he was really friendly and had very trained eyes. He saw animals that we would never have seen. We saw everything from elephants, leopards, buffalo, monkeys, deer, various types of birds, rabbits and crocodiles. And all of that in \"only\" 5 hours... So our day was absolutely positive. I can only recommend it for the price." },
+            ],
+        };
+    }
+
+    if (slug === "wilpattu-national-park-private-jeep-safari-day-trip-lunch") {
+        return {
+            averageRating: 3.9, totalReviews: 13, guideRating: 3.9, valueRating: 3.9,
+            reviews: [
+                { author: "Daniel", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-10", text: "Perfect day, my guide Nelum was very nice, he was on time and a good driver, he found a leopard up in the trees so I got some realy good pictures." },
+                { author: "Irina", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-15", text: "We were able to see a lot of animals, even a leopard from a distance, so we were very lucky and our driver responded to our wishes, it was a very successful trip. And we also drove away from the mass tourism, except for the leopard and bear, then more and more came." },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-03", text: "Our driver Raveen was very polite & knowledgeable. The drive was very comfortable to the national park. Our safari jeep driver did his best to show us as many animals as possible and was quick to spot hidden birds & animals. Then we stopped for a very nice lunch at Wilpattu Coco Hut Village Foods - the owner was very friendly & the food was delicious & plentiful." },
+                { author: "Oren", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-23", text: "Great experience, organization was perfect. we saw 3 leopards , elephants , crocodiles and many other animals. highly recommended !" },
+                { author: "Kyra", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-02", text: "Had a really great day In the morning at 4:30 a.m., the driver (Emila) picked us up and we went to Wilpattu National Park. At the park, we were paired with another driver for the safari. Emila also came with us. We can't say anything other than that we had a really good safari. The safari driver and Emila were both really good. There was room for information, but he also made sure we saw as many animals as possible. It's really nice that he doesn't just stick to the main path, but also takes the side roads. Highly recommended!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2026-03-15", text: "The driver was very friendly and drove very smoothly. The Jeep driver was also very nice; in addition, a national park guide was present, who could tell us a lot about the animals in the park. The included lunch at a buffet restaurant was also okay. We didn’t see many animals because there had been a storm the night before, and many areas of the park were impassable. Overall, it was a great tour; however, for the price, we probably wouldn’t book it again—although it was certainly fair for the service provided!" },
+            ],
+        };
+    }
+
+    if (slug === "yala-national-park-leopard-safari-day-trip-colombo") {
+        return {
+            averageRating: 4.0, totalReviews: 4, guideRating: 4.0, valueRating: 4.0,
+            reviews: [
+                { author: "Alberto Paulo", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-28", text: "Very good experience I strongly recomend. Danish it s a great guide and our driver at Yala was excelent. Very good conditions and very well organized" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-19", text: "We had a wonderful day trip to Yala National Park with Denuwan and Kajan from Apple Vacations, traveling as a family (especially with a 4- and a 1-year-old children). We especially appreciated their perfect punctuality, safe and smooth driving, and kindness and attentiveness throughout the journey. The car was in excellent condition and well air-conditioned, and the road from Colombo to the park was of very good quality, with well-timed breaks at service areas, which really helped when traveling with young children. Yala National Park itself is vast and well organized, and we were satisfied with the number of animals we were able to see. Clear explanations and constant care made the experience equally pleasant both on the ways and during the park visit. Highly recommended. Note for future travelers: from Colombo, this is a day trip requiring about 12 hours in total, with 4–4.5 hours of driving each way and approximately 3 hours spent inside the park. But it's rewarding. - Héridan" },
+                { author: "Anais", country: "Verified GetYourGuide review", rating: 1, date: "2025-04-17", text: "Not worth it at all ! No communication from the start. Firstly, We had to reach out ourself to check if the booking was confirmed or not. No info if the driver arrived or not for the pick up. We had to reach out again. Arrived at 7:45 at the entrance of the park, compared to itinerary plan 6:30am. Was asked to pay for the entrance tickets even though it is mentioned that it is included. Again No communication between the team and the safari guide. Bottle water wasn’t issued. Actually not worth it for 7hours journey as we did not even stay the full 3 hours inside the park. Only stayed 2h20, If you would like to visit Yala, please make your own way near and book in, Not worth paying this much, safari guide just wanted to kill time and didn’t give any information, itinerary talks about Block II (which is great for sightings) but the whole 2h20 was in Block I in cercles." },
+                { author: "Zlatko", country: "Verified GetYourGuide review", rating: 3, date: "2025-03-12", text: "In general, the safari to Yala National Park didn't offer us much because we didn't see any cheetahs or elephants (except for one). Apparently, it was not possible to drive to all parts of the National Park because it had rained a lot in the days before. It would be very good if you could find out something like that in advance, because then you can still decide whether you want to go or not. We only saw a few bambis, peacocks, and 3 monkeys. Far too little for so much money. At least the driver, Jeev Driver Ranga, was very good, not at all pushy, and everything worked out well from an organizational point of view. In general, I would like to say that GetYourGuide is very good at organizing good excursions. It is very helpful for us tourists to explore the country we are visiting. I can definitely recommend GetYourGuide." },
+            ],
+        };
+    }
+
+    if (slug === "yala-national-park-private-jeep-safari-day-trip-colombo") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Gábor", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-20", text: "Perfect tour. Everything was perfect. We enjoyed so much. If you are in Colombo must to go this tour with this company, so friendly, helpful and big knowledge about all things in Sri Lanka. In the tour we saw’s everything,(leopard, elephant, crocodile….. )very good safari experience, so interesting Thx very much everything." },
+                { author: "Sandhya", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-02", text: "This tour was amazing! Got to see so much wildlife and felt safe traveling as a women on solo trip. Shout out to my guide, Chami" },
+            ],
+        };
+    }
+
     return null;
 };
