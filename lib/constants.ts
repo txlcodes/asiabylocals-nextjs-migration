@@ -257,6 +257,13 @@ export const NAGOYA_INFO_SLUGS = [
   'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
+export const COLOMBO_INFO_SLUGS = [
+  'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
+  'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
+  'pettah-market-guide', 'galle-face-green-guide'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
 export const HAKONE_INFO_SLUGS = [
   'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',

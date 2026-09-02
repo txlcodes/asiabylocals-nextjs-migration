@@ -233,6 +233,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Colombo info pages
+  const colomboInfoPages = [
+    'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
+    'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
+    'pettah-market-guide', 'galle-face-green-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Country-level multi-day itineraries — the pages targeting "7 day Japan
   // itinerary" and similar, which pull far more search than any one tour page.
   const itineraryPages = ['japan', 'india', 'thailand'].flatMap(country => {
@@ -292,5 +304,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...itineraryPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...itineraryPages, ...tourPages];
 }

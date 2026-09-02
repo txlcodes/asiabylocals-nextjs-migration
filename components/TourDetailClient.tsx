@@ -1316,6 +1316,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Colombo / Sri Lanka-specific FAQs
+    if (cityLower === 'colombo' || tourTitle.toLowerCase().includes('colombo')) {
+      faqs.push(
+        { question: 'When is the best time to visit Colombo?', answer: '**December to March** is the driest stretch. Colombo sits on the west coast, so it gets the southwest monsoon roughly **May to September** — the northeast monsoon (October to January) hits the *other* side of the island instead. Any guide describing one national "rainy season" is only describing half the country. Full breakdown in our [best time to visit Colombo guide](/sri-lanka/colombo/best-time-to-visit-colombo).' },
+        { question: 'How do I get around Colombo?', answer: 'Tuk-tuks are everywhere — insist on the meter or agree the fare first. **PickMe** is the local ride-hailing app and usually cheaper than flagging one down, with no fare argument. The coastal railway south toward Galle runs along the sea and costs very little. See [getting around Colombo](/sri-lanka/colombo/getting-around-colombo).' },
+        { question: 'What should I eat in Colombo?', answer: '**Rice and curry** is the everyday meal, not a dish — rice with several curries and sambols. **Kottu roti** is chopped roti cooked with a distinctive clanging rhythm on the griddle, **hoppers** are bowl-shaped fermented rice-flour pancakes, and **lamprais** is the Dutch Burgher dish baked in a banana leaf. See the [Colombo food guide](/sri-lanka/colombo/colombo-food-guide).' },
+        { question: 'What is Pettah and is it worth visiting?', answer: 'Pettah is the market district east of Fort, and its streets are organised **by trade** — one for electronics, one for textiles, one for hardware, one for spices. The candy-striped **Red Mosque (Jami Ul-Alfar, 1908)** is the landmark. Street-by-street in our [Pettah market guide](/sri-lanka/colombo/pettah-market-guide).' },
+        { question: 'Which day trips from Colombo are actually worth it?', answer: '**Galle** is the easiest — about 2 hours on the southern expressway. **Kandy** is only 115 km but 3-4 hours each way on a mountain road. **Sigiriya** is realistically a 12-14 hour day and is better as an overnight. Honest distances in our [day trips from Colombo guide](/sri-lanka/colombo/day-trips-from-colombo).' },
+        { question: 'How many days do I need in Colombo?', answer: 'Two days covers it comfortably. Colombo is not a museum city and most travellers pass through on the way somewhere else — our [Colombo 2-day itinerary](/sri-lanka/colombo/colombo-2-day-itinerary) sets out a realistic pair of days.' }
+      );
+    }
+
     // Add Hakone / Mt. Fuji-specific FAQs
     if (cityLower === 'hakone' || tourTitle.toLowerCase().includes('hakone') || tourTitle.toLowerCase().includes('fuji')) {
       faqs.push(
