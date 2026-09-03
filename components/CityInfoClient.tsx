@@ -288,6 +288,11 @@ const NEGOMBO_SIDEBAR = [
     { name: 'Negombo Lagoon Guide', slug: 'negombo-lagoon-guide' },
 ];
 
+const NUWARA_ELIYA_SIDEBAR = [
+    { name: 'Ceylon Tea Guide', slug: 'nuwara-eliya-tea-guide' },
+    { name: 'Horton Plains & World\'s End', slug: 'horton-plains-guide' },
+];
+
 const KANDY_SIDEBAR = [
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },

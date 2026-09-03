@@ -1316,6 +1316,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Nuwara Eliya / tea country FAQs
+    if (cityLower === 'nuwara eliya' || cityLower === 'nuwara-eliya' || tourTitle.toLowerCase().includes('nuwara eliya')) {
+      faqs.push(
+        { question: 'What time should I go to Horton Plains?', answer: 'Be at the gate for the **6am opening**, so leave Nuwara Eliya around 5am. World\'s End faces south and **clouds over by nine or ten** as warm air rises off the plain — arrive at eleven and you see a white wall. See our [Horton Plains guide](/sri-lanka/nuwara-eliya/horton-plains-guide).' },
+        { question: 'How cold does it get in Nuwara Eliya?', answer: 'The town sits at about **1,900 m** and drops to around 10°C at night, and few hotels have heating. Horton Plains at 2,300 m regularly sits near freezing before dawn, with ground frost from December to February. Bring a genuine warm layer — most visitors underestimate this.' },
+        { question: 'Are tea factories open every day?', answer: 'No — they close on **poya days**, the monthly full moon and a public holiday in Sri Lanka. If your free day is a poya, take an estate walk with a plucker instead. Plucking happens in the **morning**; by afternoon the slopes are empty.' },
+        { question: 'What do tea grades like OP and BOP mean?', answer: 'Mostly **leaf size**, not quality. OP is a long wiry whole leaf, BOP is smaller and broken, and fannings and dust go into teabags because the higher surface area brews fast. Bigger leaf is slower tea, not better tea. Explained in our [Ceylon tea guide](/sri-lanka/nuwara-eliya/nuwara-eliya-tea-guide).' },
+        { question: 'Where should I buy Ceylon tea?', answer: 'At a **factory**, not a tourist shop. Factory shops carry the higher grades that never reach a visitor shelf; the boxed tea on the main streets is usually fannings at visitor prices.' },
+        { question: 'Which station serves Nuwara Eliya?', answer: '**Nanu Oya**, about 10 km and a 20-30 minute drive from the town. Nuwara Eliya has no station of its own, and tuk-tuk fares at Nanu Oya rise sharply the moment a train arrives.' }
+      );
+    }
+
     // Add Negombo / airport-area FAQs
     if (cityLower === 'negombo' || tourTitle.toLowerCase().includes('negombo')) {
       faqs.push(

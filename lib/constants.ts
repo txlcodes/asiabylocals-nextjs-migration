@@ -281,6 +281,12 @@ export const NEGOMBO_INFO_SLUGS = [
   'negombo-lagoon-guide'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
+export const NUWARA_ELIYA_INFO_SLUGS = [
+  'nuwara-eliya-tea-guide',
+  'horton-plains-guide'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',
