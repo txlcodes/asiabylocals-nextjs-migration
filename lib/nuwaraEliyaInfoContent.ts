@@ -38,6 +38,10 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
             title: "What happens inside",
             icon: "settings",
             content: "**Withering.** The plucked leaf — two leaves and a bud, taken by hand — is spread on long troughs and air is blown through it for twelve to sixteen hours. It loses about half its moisture and becomes limp enough to roll without shattering.\n\n**Rolling.** Machines twist and crush the withered leaf, breaking the cell walls so the juices come to the surface. This is where oxidation begins and where the leaf takes the shape it will keep.\n\n**Oxidation.** The rolled leaf is spread out in a cool humid room and left. It turns from green to coppery brown over one to three hours, and the whole character of the finished tea is decided here. Stop it early and you get something lighter; leave it and you get something darker and stronger. Green tea skips this stage entirely — same plant, different decision.\n\n**Firing.** Hot air kills the oxidation dead and dries the leaf to about three percent moisture.\n\n**Grading.** Mesh sieves sort by particle size, and this is what the letters mean. OP is a long wiry whole leaf. BOP is broken orange pekoe, smaller. Fannings and dust are smaller still and go into teabags, where the higher surface area brews fast and strong.\n\nBigger leaf is not better tea. It is slower tea.",
+            table: {
+              headers: ["Grade", "What it means", "Typical use"],
+              rows: [["OP (Orange Pekoe)", "Long, wiry whole leaf", "Loose leaf, slow brew"], ["BOP (Broken OP)", "Broken leaf, smaller", "Loose leaf, faster and stronger"], ["Fannings", "Small particles", "Teabags"], ["Dust", "Smallest", "Teabags, very fast and strong"]],
+            },
             tourCard: {
               slug: "nuwara-eliya-kandy-sightseeing-transfer",
               title: "Nuwara Eliya to Kandy Sightseeing Transfer",

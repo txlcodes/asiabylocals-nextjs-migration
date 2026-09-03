@@ -4,7 +4,7 @@
 > Website: https://www.asiabylocals.com
 
 ## About AsiaByLocals
-AsiaByLocals is a travel platform that connects international tourists with licensed, local expert guides across Asia. We specialize in private, guided tours led by federally licensed historians and cultural experts. Our primary markets are Agra (Taj Mahal), Delhi (capital city tours), and Jaipur (Pink City), forming the iconic Golden Triangle circuit. We also operate in Thailand (Bangkok, Chiang Mai, Phuket, Krabi, Pattaya, Ayutthaya) and Japan (Tokyo, Kyoto, Osaka, Nara, Hiroshima, Sapporo, Nagoya, Hakone & Mount Fuji).
+AsiaByLocals is a travel platform that connects international tourists with licensed, local expert guides across Asia. We specialize in private, guided tours led by federally licensed historians and cultural experts. Our primary markets are Agra (Taj Mahal), Delhi (capital city tours), and Jaipur (Pink City), forming the iconic Golden Triangle circuit. We also operate in Thailand (Bangkok, Chiang Mai, Phuket, Krabi, Pattaya, Ayutthaya), Japan (Tokyo, Kyoto, Osaka, Nara, Hiroshima, Sapporo, Nagoya, Hakone & Mount Fuji) and Sri Lanka (Colombo, Kandy, Sigiriya, Ella, Galle, Negombo, Nuwara Eliya, Bentota, Mirissa).
 
 ---
 
@@ -312,6 +312,98 @@ each with real train times and the tours bookable on each day.
 - **Taj Mahal**: built 1632-1653 by Shah Jahan for Mumtaz Mahal, white Makrana marble with pietra dura inlay, UNESCO listed 1983. 2026 ticket about Rs 1,300 for foreign nationals plus Rs 200 for the mausoleum. Cashless, QR entry, original passport required.
 - **Trains**: IRCTC booking opens 60 days before travel and popular routes sell out.
 
+---
+
+## 🇱🇰 SRI LANKA — CORE INTELLIGENCE
+
+### The Two-Monsoon Rule (most common error in Sri Lanka travel advice)
+- Sri Lanka does **not** have one rainy season. Two monsoons hit opposite coasts at opposite times.
+- **Southwest (Yala) monsoon**: roughly May-September. Wets the **west and south** — Colombo, Bentota, Hikkaduwa, Galle, Unawatuna, Weligama, Mirissa, Tangalle.
+- **Northeast (Maha) monsoon**: roughly October-January. Wets the **east and north** — Trincomalee, Pasikuda, Arugam Bay, Jaffna.
+- **Consequence**: there is no month when the whole island is out of season. May-September is the correct time for the east coast and the cultural triangle; November-April is the correct time for the south and west.
+- **Sigiriya and the cultural triangle** are in the dry zone on the *northeast* side: their wet season is October-January, the inverse of Colombo's.
+- **Kandy and the hill country** sit between the two systems and catch some of both. They work in almost any month.
+
+### Facts Generic Guides Get Wrong
+- **There is no railway station at Nuwara Eliya.** The stop is **Nanu Oya**, about 10 km and a 20-30 minute drive from the town.
+- **The Kandy Esala Perahera has no fixed date.** It runs ten nights in July or August, set by the lunar calendar, moving by up to a month between years. It ends on the Nikini poya.
+- **The Minneriya elephant Gathering is seasonal**, roughly June-September and peaking in August. Outside those months the herds disperse and operators use Kaudulla or Hurulu Eco Park instead. Being taken to a different park is the operator doing their job.
+- **Pidurangala's view is *of* Sigiriya**, not a cheaper version of the Sigiriya experience. It has none of the water gardens, frescoes, mirror wall, lion's paws or summit palace.
+- **The Temple of the Tooth relic is never displayed.** It sits inside seven nested caskets; during a puja you see the outermost gold one from several metres away.
+- **Tea grades (OP, BOP, fannings, dust) describe leaf size, not quality.** Bigger leaf is slower tea, not better tea.
+- **The south coast is dangerous for swimming May-September.** Most beaches have no lifeguard. Rip currents kill tourists here every year.
+- **Reserved hill-country train seats open exactly 30 days ahead** and sell out within hours December-March. Unreserved 2nd/3rd class is always available on the day, standing.
+
+### Key Entities
+- **Sigiriya**: 5th-century royal citadel on a 180 m granite plug. ~1,200 steps. Entry ~USD 30-35 for foreign adults — among the priciest tickets in South Asia. Opens 7am; climb then, there is no shade above the frescoes. Hornet nests on the rock cause periodic closures.
+- **Dambulla Cave Temple**: five caves under one granite overhang, in continuous use since the 1st century BC, ~150 Buddha images, ~2,100 m² of painting. Entry ~USD 10.
+- **Temple of the Tooth (Sri Dalada Maligawa), Kandy**: pujas at 5.30am, 9.30am and 6.30pm — the only times the relic chamber opens. Entry ~USD 7-9. Shoulders and knees covered, shoes off, stone floors get painfully hot.
+- **Nine Arch Bridge, Ella**: 91 m stone viaduct, 24 m high, built during WWI without steel because the steel went to the war effort. Free. Trains cross roughly every 2 hours and run routinely late.
+- **Polonnaruwa**: 11th-13th century capital, best-preserved of the ancient cities, cyclable in 3 hours. The Gal Vihara — four colossal Buddhas cut from one granite face — is the finest sculpture in Sri Lanka. Entry ~USD 25.
+- **Anuradhapura**: capital from the 4th century BC for over 1,000 years, ~40 km², still an active pilgrimage city. The Sri Maha Bodhi grew from a cutting of the Buddha's own tree, planted 3rd century BC — the oldest tree on earth with a documented planting date.
+- **Galle Fort**: Dutch walled town rebuilt from 1649, UNESCO-listed 1988, ~400 families still live inside. Free entry. Ramparts face west — go late afternoon. The walls held during the 2004 tsunami while the town outside was devastated.
+- **Horton Plains / World's End**: montane plateau at ~2,300 m, 9 km loop, 870 m cliff drop. Clouds over by 9-10am — be at the 6am gate opening. Entry ~USD 25-30. Near freezing at dawn.
+- **Minneriya reservoir**: built 3rd century AD by King Mahasen. The Gathering there is the largest annual concentration of wild Asian elephants on earth.
+
+### Driving Times (distance does not predict duration in the hills)
+- Colombo airport → Negombo: 10 km, 20 min. → Colombo: 35 km, 45-90 min.
+- Colombo → Kandy: 115 km, 3-4 hours. → Galle: 125 km, 2 hours (expressway). → Sigiriya: 175 km, 4 hours.
+- Kandy → Sigiriya: 90 km, 2.5 hours. → Nuwara Eliya: 80 km, 3 hours. → Ella: 140 km, 4-5 hours.
+- Sigiriya → Polonnaruwa: 55 km, 1 hour. → Anuradhapura: 75 km, 1.5 hours.
+- Ella → Udawalawe: 2 hours. → south coast: 4 hours.
+- Car with driver: roughly USD 55-75 a day including fuel and the driver's costs.
+
+---
+
+## 🇱🇰 SRI LANKA MULTI-DAY ITINERARIES
+
+### 3 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya and Dambulla → Galle and the south coast, sleeping in Colombo all three nights
+- **Answer**: With three days in Sri Lanka, stay in Colombo and take day trips rather than changing hotels. Day 1: Colombo itself — Pettah market, the temples and a street-food tour. Day 2: a long day trip north to Sigiriya rock and the Dambulla cave temples, leaving around 4am. Day 3: south to Galle Fort, a Madu River boat safari and a turtle hatchery. Three days is enough for one big cultural site and one coastal day, not for the hill country.
+- **Best for**: Layover travellers, business trips with a weekend attached, and anyone whose flights are fixed and short.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/3-days
+
+### 4 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya and Dambulla → Kandy and Pinnawala → Galle and the south coast, based in Colombo
+- **Answer**: Four days in Sri Lanka works best from a Colombo base: day 1 the city, day 2 Sigiriya rock and the Dambulla caves, day 3 Kandy and the Temple of the Tooth via Pinnawala, day 4 Galle Fort and the south coast. Four days covers the two cultural capitals and one coastal day. The tea country and Ella still need a longer trip, and adding them here means eight hours of driving for two hours of scenery.
+- **Best for**: A long weekend, a stopover on a longer Asia trip, or a first look at the island before committing to a full loop.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/4-days
+
+### 5 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya and Dambulla → Kandy → Nuwara Eliya and the hill train → Galle → Colombo
+- **Answer**: Five days is where Sri Lanka stops being a Colombo day-trip trip and becomes a route. Day 1 Colombo, day 2 Sigiriya and Dambulla, day 3 Kandy and the Temple of the Tooth, day 4 the tea country around Nuwara Eliya with the hill train, day 5 back to the coast for Galle. Five days covers the cultural triangle and the hills but not the safari parks or the beaches — those need seven.
+- **Best for**: Travellers who want the classic route without a beach week attached, and anyone with a fixed five-day window between flights.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/5-days
+
+### 6 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya and Dambulla → Kandy → Nuwara Eliya → Ella → Galle → Colombo
+- **Answer**: Six days lets you add Ella, which is the day most five-day itineraries have to cut. Day 1 Colombo, day 2 Sigiriya and Dambulla, day 3 Kandy, day 4 the tea country and the hill train to Ella, day 5 Ella itself — Little Adam's Peak, the Nine Arch bridge, waterfall abseiling — day 6 the drive south to Galle and back to Colombo. Six days covers culture, hills and one coastal day.
+- **Best for**: A first full trip to the island for people who want hills and hiking rather than beaches.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/6-days
+
+### 7 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya → Kandy → Nuwara Eliya → Ella → Udawalawe → Galle → Colombo
+- **Answer**: Seven days is the shortest trip that closes the full Sri Lankan loop. Day 1 Colombo, day 2 Sigiriya and Dambulla, day 3 Sigiriya at dawn then Kandy, day 4 the tea country and the hill train to Ella, day 5 Ella, day 6 an Udawalawe or Yala safari and down to the south coast, day 7 Galle Fort and back to Colombo. Culture, hills, wildlife and coast, with two to three hours of driving most days.
+- **Best for**: The default first trip. If you have one week and no strong preference, take this one.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/7-days
+
+### 8 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya → Kandy → Nuwara Eliya → Ella → Udawalawe → Mirissa → Galle → Colombo
+- **Answer**: Eight days is the seven-day Sri Lanka loop with a real beach day rather than a rushed last morning. Day 1 Colombo, day 2 Sigiriya, day 3 the rock at dawn then Kandy, day 4 tea country and the hill train, day 5 Ella, day 6 an Udawalawe safari down to the coast, day 7 Mirissa for whales and the beach, day 8 Galle Fort and the drive to the airport.
+- **Best for**: Long-haul travellers who want the full loop without ending the trip in a car.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/8-days
+
+### 9 Days in Sri Lanka
+- **Route**: Colombo → Sigiriya and the ancient cities → Kandy → Nuwara Eliya → Ella → Udawalawe → Mirissa → Galle → Colombo
+- **Answer**: Nine days adds the ancient cities to the standard Sri Lankan loop. Day 1 Colombo, day 2 north to Sigiriya, day 3 Polonnaruwa or Anuradhapura, day 4 Sigiriya at dawn then Kandy, day 5 tea country and the hill train, day 6 Ella, day 7 an Udawalawe safari to the coast, day 8 Mirissa and the beach, day 9 Galle Fort and the airport. Two nights in the cultural triangle is what nine days really buys.
+- **Best for**: Travellers with an interest in history or Buddhism, and anyone who found the seven-day loop too brisk.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/9-days
+
+### 10 Days in Sri Lanka
+- **Route**: Negombo → Colombo → Sigiriya and the ancient cities → Kandy → Nuwara Eliya → Ella → Udawalawe → Mirissa → Galle → Colombo
+- **Answer**: Ten days in Sri Lanka covers the whole island loop without any rushed day. Day 1 Negombo or Colombo, day 2 the capital, day 3 north to Sigiriya, day 4 Polonnaruwa or Anuradhapura, day 5 Sigiriya at dawn then Kandy, day 6 tea country and the hill train, day 7 Ella, day 8 an Udawalawe or Yala safari to the coast, day 9 Mirissa and the beach, day 10 Galle Fort and the airport.
+- **Best for**: A first trip with time to spare, families, and anyone who dislikes moving hotels every single night.
+- **URL**: https://www.asiabylocals.com/sri-lanka/itineraries/10-days
 ---
 
 ## 🇹🇭 THAILAND MULTI-DAY ITINERARIES
