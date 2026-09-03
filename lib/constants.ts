@@ -229,6 +229,17 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'horton-plains-guide'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.
+export const BENTOTA_INFO_SLUGS = [
+  'madu-river-safari-guide',
+  'bentota-guide'
+];
+
+// Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.
+export const MIRISSA_INFO_SLUGS = [
+  'mirissa-guide'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',

@@ -1316,6 +1316,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Bentota / Mirissa south-west coast FAQs
+    if (cityLower === 'bentota' || cityLower === 'mirissa') {
+      faqs.push(
+        { question: 'When can you swim on this coast?', answer: 'Roughly **November to April**. From May to September the southwest monsoon builds the surf and strengthens rip currents, and swimming becomes genuinely dangerous even on calm-looking days. Most of the beach has **no lifeguard** — an empty sea on a hot afternoon is information.' },
+        { question: 'What is the Madu River safari?', answer: 'A 2-3 hour boat trip through a **Ramsar-listed 900-hectare wetland** with 64 islands and around 14 mangrove species — one of the last intact stands in Sri Lanka — including a working cinnamon island. It runs **year-round**, unaffected by the monsoon that closes the beaches. See our [Madu River guide](/sri-lanka/bentota/madu-river-safari-guide).' },
+        { question: 'Should I do the fish spa on the river trip?', answer: 'No. It is harmless to you and unpleasant for the fish, kept at high density in a hot open tank. The same goes for jetties with a caged monkey or python for photographs — declining is completely normal and a good operator does not stop there at all.' },
+        { question: 'When is whale watching season at Mirissa?', answer: '**November to April**, with January to March the reliable core. Boats leave at **6-6.30am**, so staying in Mirissa or Weligama the night before is effectively required. Outside the season, Trincomalee on the east coast runs the mirror season. See the [Mirissa guide](/sri-lanka/mirissa/mirissa-guide).' },
+        { question: 'How far is Bentota from Colombo airport?', answer: 'About 100 km and 1.5-2 hours on the E01 expressway — the shortest transfer from the airport to a proper beach in Sri Lanka, which is why it works as a first or last stop. See our [Bentota guide](/sri-lanka/bentota/bentota-guide).' },
+        { question: 'Are the turtle hatcheries here ethical?', answer: 'They vary a great deal. The better ones **release hatchlings the same night** they emerge; the worse ones keep them in tanks for visitor photographs, which sharply reduces survival odds. Ask what happens to the hatchlings before you pay.' }
+      );
+    }
+
     // Add Nuwara Eliya / tea country FAQs
     if (cityLower === 'nuwara eliya' || cityLower === 'nuwara-eliya' || tourTitle.toLowerCase().includes('nuwara eliya')) {
       faqs.push(

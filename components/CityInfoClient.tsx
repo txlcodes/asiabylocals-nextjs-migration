@@ -293,6 +293,15 @@ const NUWARA_ELIYA_SIDEBAR = [
     { name: 'Horton Plains & World\'s End', slug: 'horton-plains-guide' },
 ];
 
+const BENTOTA_SIDEBAR = [
+    { name: 'Madu River Safari', slug: 'madu-river-safari-guide' },
+    { name: 'Bentota Guide', slug: 'bentota-guide' },
+];
+
+const MIRISSA_SIDEBAR = [
+    { name: 'Mirissa Guide', slug: 'mirissa-guide' },
+];
+
 const KANDY_SIDEBAR = [
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },

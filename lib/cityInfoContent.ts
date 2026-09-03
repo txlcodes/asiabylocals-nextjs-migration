@@ -10,6 +10,8 @@ import { getHakoneInfoContent } from './hakoneInfoContent';
 import { getColomboInfoContent } from './colomboInfoContent';
 import { getKandyInfoContent } from './kandyInfoContent';
 import { getSigiriyaInfoContent } from './sigiriyaInfoContent';
+import { getMirissaInfoContent } from './mirissaInfoContent';
+import { getBentotaInfoContent } from './bentotaInfoContent';
 import { getNuwaraEliyaInfoContent } from './nuwaraEliyaInfoContent';
 import { getNegomboInfoContent } from './negomboInfoContent';
 import { getGalleInfoContent } from './galleInfoContent';
@@ -68,6 +70,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const nuwaraEliyaPage = getNuwaraEliyaInfoContent(slug);
     if (nuwaraEliyaPage) return nuwaraEliyaPage;
+
+    const bentotaPage = getBentotaInfoContent(slug);
+    if (bentotaPage) return bentotaPage;
+
+    const mirissaPage = getMirissaInfoContent(slug);
+    if (mirissaPage) return mirissaPage;
 
     const sigiriyaPage = getSigiriyaInfoContent(slug);
     if (sigiriyaPage) return sigiriyaPage;
