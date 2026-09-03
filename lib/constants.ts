@@ -275,6 +275,12 @@ export const GALLE_INFO_SLUGS = [
   'galle-2-day-itinerary'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.
+export const NEGOMBO_INFO_SLUGS = [
+  'negombo-airport-guide',
+  'negombo-lagoon-guide'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',

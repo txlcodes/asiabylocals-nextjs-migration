@@ -283,6 +283,11 @@ const GALLE_SIDEBAR = [
     { name: 'Galle 2-Day Itinerary', slug: 'galle-2-day-itinerary' },
 ];
 
+const NEGOMBO_SIDEBAR = [
+    { name: 'Negombo Airport Guide', slug: 'negombo-airport-guide' },
+    { name: 'Negombo Lagoon Guide', slug: 'negombo-lagoon-guide' },
+];
+
 const KANDY_SIDEBAR = [
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },

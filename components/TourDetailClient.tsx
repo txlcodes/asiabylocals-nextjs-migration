@@ -1316,6 +1316,18 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Negombo / airport-area FAQs
+    if (cityLower === 'negombo' || tourTitle.toLowerCase().includes('negombo')) {
+      faqs.push(
+        { question: 'Should I stay in Negombo or Colombo when I arrive?', answer: '**Negombo**, if you land in the evening, land tired, or fly out early — it is **10 km from the airport** against Colombo\'s 35, which in bad traffic is 90 minutes. Give Colombo a proper day later in the trip instead of a jet-lagged half one. See our [Negombo airport guide](/sri-lanka/negombo/negombo-airport-guide).' },
+        { question: 'What time is the Negombo fish market?', answer: 'From about **5am**, finished by eight. It is a working auction rather than an attraction — boats landing, the catch on the sand, and everything packed up before the heat. Jet lag makes the early start easy.' },
+        { question: 'What is a Negombo lagoon trip like?', answer: 'Two to three hours through **mangrove channels** and out to Monkey Island, past stake-net and crab fishing worked the same way for centuries. Kingfishers are near-guaranteed, along with monitors on the banks. Calm water throughout, so it suits children and non-swimmers. See the [Negombo lagoon guide](/sri-lanka/negombo/negombo-lagoon-guide).' },
+        { question: 'How much is a taxi from the airport to Negombo?', answer: 'Roughly **LKR 3,000-4,500** from the official counters in arrivals. Ride-hailing apps are usually cheaper but need a local SIM — buy one in arrivals for a few dollars, which is the single most useful thing to do before leaving the terminal.' },
+        { question: 'How many days should I spend in Negombo?', answer: '**One night on arrival and one on departure**, or two if you want both the dawn fish market and a lagoon trip without rushing. Negombo is comfortable and well placed rather than a destination in its own right, and it does that job very well.' },
+        { question: 'Can you swim at Negombo?', answer: 'In the dry season, roughly **December to March**. From May to September the southwest monsoon builds the sea along this whole coast and currents strengthen. The beach is long and usable but it is not the south coast.' }
+      );
+    }
+
     // Add Galle / south coast FAQs
     if (cityLower === 'galle' || cityLower === 'mirissa' || cityLower === 'bentota' || tourTitle.toLowerCase().includes('galle')) {
       faqs.push(
