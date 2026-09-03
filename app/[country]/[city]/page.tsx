@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
+import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -200,6 +201,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function CityPage({ params }: Props) {
   const { country, city } = await params;
+
+  // Without this the route rendered 200 for any /<anything>/<anything>, so every
+  // city page was reachable under every country and a single spammed link could
+  // mint a fresh indexable duplicate. Known cities under the wrong country are
+  // 308-redirected in middleware.ts before they ever reach here; this catches
+  // the rest. See lib/cityCountryMap.ts for the source of truth.
+  if (!VALID_COUNTRIES.has(country.toLowerCase()) && !CITY_URL_MAP[city.toLowerCase()]) {
+    notFound();
+  }
+
   const cityName = capitalize(city);
   const countryName = capitalize(country);
 
