@@ -234,6 +234,39 @@ const KRABI_SIDEBAR = [
     { name: 'Krabi vs Phuket', slug: 'krabi-vs-phuket-which-to-visit' },
 ];
 
+/** "Sri Lanka" -> "sri-lanka". toLowerCase() alone leaves the space in the URL. */
+const urlSlug = (s: string) => s.toLowerCase().trim().replace(/\s+/g, '-');
+
+const KYOTO_SIDEBAR = [
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-kyoto' },
+    { name: 'Getting Around', slug: 'getting-around-kyoto' },
+    { name: 'Fushimi Inari Guide', slug: 'fushimi-inari-guide' },
+    { name: 'Kyoto Food Guide', slug: 'kyoto-food-guide' },
+    { name: '2-Day Itinerary', slug: 'kyoto-2-day-itinerary' },
+];
+
+const COLOMBO_SIDEBAR = [
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-colombo' },
+    { name: 'Colombo City Guide', slug: 'colombo-city-guide' },
+    { name: 'Getting Around', slug: 'getting-around-colombo' },
+    { name: 'Colombo Food Guide', slug: 'colombo-food-guide' },
+    { name: 'Day Trips', slug: 'day-trips-from-colombo' },
+    { name: '2-Day Itinerary', slug: 'colombo-2-day-itinerary' },
+    { name: 'Pettah Market Guide', slug: 'pettah-market-guide' },
+    { name: 'Galle Face Green', slug: 'galle-face-green-guide' },
+];
+
+const KANDY_SIDEBAR = [
+    { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
+    { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },
+    { name: 'Esala Perahera', slug: 'kandy-esala-perahera-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-kandy' },
+    { name: 'Kandy City Guide', slug: 'kandy-city-guide' },
+    { name: 'Getting Around', slug: 'getting-around-kandy' },
+    { name: 'Day Trips', slug: 'day-trips-from-kandy' },
+    { name: '2-Day Itinerary', slug: 'kandy-2-day-itinerary' },
+];
+
 const TOKYO_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-tokyo' },
     { name: '3-Day Itinerary', slug: 'tokyo-3-day-itinerary' },
@@ -305,8 +338,13 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         pattaya: PATTAYA_SIDEBAR,
         krabi: KRABI_SIDEBAR,
         tokyo: TOKYO_SIDEBAR,
+        kyoto: KYOTO_SIDEBAR,
+        colombo: COLOMBO_SIDEBAR,
+        kandy: KANDY_SIDEBAR,
     };
-    const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || AGRA_SIDEBAR;
+    // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
+    // a page with no sidebar. Cities without a map entry render none.
+    const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || [];
 
     return (
         <div className="min-h-screen bg-white">
@@ -529,7 +567,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                         {/* GYG-style inline tour card */}
                                         {section.tourCard && (
                                             <Link
-                                                href={`/${country.toLowerCase()}/${city.toLowerCase()}/${section.tourCard.slug}`}
+                                                href={`/${urlSlug(country)}/${urlSlug(city)}/${section.tourCard.slug}`}
                                                 className="mt-10 flex flex-col sm:flex-row rounded-2xl border border-[#DCFCE7] overflow-hidden shadow-sm hover:shadow-xl hover:border-[#10B981]/50 transition-all duration-300 group/card"
                                             >
                                                 <div className="sm:w-[220px] h-[160px] sm:h-auto shrink-0 overflow-hidden bg-gray-100">
@@ -618,7 +656,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                     {CITY_RECOMMENDED_TOURS[city.toLowerCase()]!.map((tour, idx) => (
                                         <Link
                                             key={idx}
-                                            href={`/${country.toLowerCase()}/${city.toLowerCase()}/${tour.slug}`}
+                                            href={`/${urlSlug(country)}/${urlSlug(city)}/${tour.slug}`}
                                             className="group rounded-2xl border border-gray-100 overflow-hidden hover:border-[#10B981]/40 hover:shadow-xl transition-all duration-300 bg-white"
                                         >
                                             {tour.image ? (
@@ -667,7 +705,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                 </p>
                                 <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
                                     <Link
-                                        href={`/${country.toLowerCase()}/${city.toLowerCase()}`}
+                                        href={`/${urlSlug(country)}/${urlSlug(city)}`}
                                         className="w-full sm:w-auto px-10 py-5 bg-[#10B981] text-white font-black rounded-full hover:bg-white hover:text-[#10B981] transition-all duration-300 flex items-center justify-center text-xl shadow-xl hover:-translate-y-1 hover:scale-[1.05] active:scale-[0.95]"
                                     >
                                         {fmt(t.browseTours, { city: slug === 'taj-mahal' ? 'Taj Mahal' : city })}
@@ -687,7 +725,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                     {sidebarItems.map((item, idx) => (
                                         <Link
                                             key={idx}
-                                            href={`/${country.toLowerCase()}/${city.toLowerCase()}/${item.slug}`}
+                                            href={`/${urlSlug(country)}/${urlSlug(city)}/${item.slug}`}
                                             className={`flex items-center justify-between p-4 rounded-xl transition-all duration-300 group ${slug === item.slug
                                                 ? 'bg-[#10B981] text-white shadow-lg shadow-[#10B981]/30 scale-[1.02] -translate-y-0.5'
                                                 : 'bg-gray-50 hover:bg-white hover:shadow-md hover:border-[#10B981]/20 border border-transparent text-[#001A33] hover:-translate-y-1'
@@ -710,7 +748,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                         {fmt(t.messageGuide, { city })}
                                     </p>
                                     <Link
-                                        href={`/${country.toLowerCase()}/${city.toLowerCase()}`}
+                                        href={`/${urlSlug(country)}/${urlSlug(city)}`}
                                         className="w-full py-4 bg-white text-[#10B981] font-black rounded-xl hover:bg-gray-50 transition-all text-[15px] shadow-lg hover:scale-[1.02] active:scale-[0.98] flex items-center justify-center"
                                     >
                                         {fmt(t.browseTours, { city: slug === 'taj-mahal' ? 'Taj Mahal' : city })}
