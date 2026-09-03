@@ -267,6 +267,14 @@ export const ELLA_INFO_SLUGS = [
   'ella-2-day-itinerary'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
+export const GALLE_INFO_SLUGS = [
+  'galle-fort-guide',
+  'mirissa-whale-watching-guide',
+  'south-coast-beaches-guide',
+  'galle-2-day-itinerary'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',

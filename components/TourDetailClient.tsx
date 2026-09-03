@@ -1316,6 +1316,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Galle / south coast FAQs
+    if (cityLower === 'galle' || cityLower === 'mirissa' || cityLower === 'bentota' || tourTitle.toLowerCase().includes('galle')) {
+      faqs.push(
+        { question: 'Is there an entrance fee for Galle Fort?', answer: 'No. It is a **living town** of about four hundred families, not a heritage site with a gate — you walk in. Go **late afternoon**: the ramparts face west, so that is both the light and the sea breeze, and the day-trippers leave around five. See our [Galle Fort guide](/sri-lanka/galle/galle-fort-guide).' },
+        { question: 'When can you swim on the south coast?', answer: 'Roughly **November to April**. From May to September the southwest monsoon builds the sea and strengthens rip currents, and swimming becomes genuinely dangerous even on calm-looking days. The **east coast is the reverse** — dry and calm May to September. See our [south coast beaches guide](/sri-lanka/galle/south-coast-beaches-guide).' },
+        { question: 'When is whale watching season at Mirissa?', answer: '**November to April**, with January to March the reliable core. Boats leave Mirissa harbour at **6-6.30am** and are back by eleven, so staying in Mirissa or Weligama the night before is effectively required. Outside the season, Trincomalee on the east coast takes over. See the [Mirissa whale watching guide](/sri-lanka/galle/mirissa-whale-watching-guide).' },
+        { question: 'Are whale sightings guaranteed?', answer: 'No — and an operator promising one is promising something they cannot control. Sighting rates in season are high; the honest operators offer a **free repeat trip** instead of a guarantee. Choose a smaller boat with a naturalist aboard that commits to the 100 m distance rule.' },
+        { question: 'Are there lifeguards on Sri Lankan beaches?', answer: 'Rarely. The main resort stretches sometimes have them; most beaches do not. **Red flags mean what they say**, and an empty sea on a hot afternoon is information — locals know which days are dangerous. If caught in a rip, swim *parallel* to the beach, not against it.' },
+        { question: 'How many days do I need on the south coast?', answer: '**Two nights.** One full day for the countryside cycling and Galle Fort at sunset, and a second morning for the whale boat. Our [Galle 2-day itinerary](/sri-lanka/galle/galle-2-day-itinerary) sets out the hours and why they matter.' },
+        { question: 'Are the turtle hatcheries ethical?', answer: 'They vary a great deal. The better ones **release hatchlings the same night** they emerge; the worse ones keep them in tanks for visitor photographs, which sharply reduces survival odds. Ask what happens to the hatchlings before you pay.' }
+      );
+    }
+
     // Add Ella / hill-country FAQs
     if (cityLower === 'ella' || tourTitle.toLowerCase().includes('ella')) {
       faqs.push(

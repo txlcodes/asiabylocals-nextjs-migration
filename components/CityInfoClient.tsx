@@ -276,6 +276,13 @@ const ELLA_SIDEBAR = [
     { name: 'Ella 2-Day Itinerary', slug: 'ella-2-day-itinerary' },
 ];
 
+const GALLE_SIDEBAR = [
+    { name: 'Galle Fort Guide', slug: 'galle-fort-guide' },
+    { name: 'Mirissa Whale Watching', slug: 'mirissa-whale-watching-guide' },
+    { name: 'South Coast Beaches', slug: 'south-coast-beaches-guide' },
+    { name: 'Galle 2-Day Itinerary', slug: 'galle-2-day-itinerary' },
+];
+
 const KANDY_SIDEBAR = [
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },
