@@ -235,6 +235,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   // Colombo info pages
+  const sigiriyaInfoPages = [
+    'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary', 'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide'
+  ].map(slug => ({
+    url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
   const kandyInfoPages = [
     'temple-of-the-tooth-guide', 'kandy-to-ella-train-guide', 'kandy-esala-perahera-guide', 'best-time-to-visit-kandy', 'kandy-city-guide', 'getting-around-kandy', 'day-trips-from-kandy', 'kandy-2-day-itinerary'
   ].map(slug => ({
@@ -316,5 +325,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...itineraryPages, ...tourPages];
+  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...itineraryPages, ...tourPages];
 }

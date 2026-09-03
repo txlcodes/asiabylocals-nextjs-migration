@@ -9,6 +9,7 @@ import { getNagoyaInfoContent } from './nagoyaInfoContent';
 import { getHakoneInfoContent } from './hakoneInfoContent';
 import { getColomboInfoContent } from './colomboInfoContent';
 import { getKandyInfoContent } from './kandyInfoContent';
+import { getSigiriyaInfoContent } from './sigiriyaInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -51,6 +52,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const hakonePage = getHakoneInfoContent(slug);
     if (hakonePage) return hakonePage;
+
+    const sigiriyaPage = getSigiriyaInfoContent(slug);
+    if (sigiriyaPage) return sigiriyaPage;
 
     const kandyPage = getKandyInfoContent(slug);
     if (kandyPage) return kandyPage;

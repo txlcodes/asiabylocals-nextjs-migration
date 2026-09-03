@@ -256,6 +256,17 @@ const COLOMBO_SIDEBAR = [
     { name: 'Galle Face Green', slug: 'galle-face-green-guide' },
 ];
 
+const SIGIRIYA_SIDEBAR = [
+    { name: 'Sigiriya Rock Guide', slug: 'sigiriya-rock-guide' },
+    { name: 'Dambulla Cave Temple', slug: 'dambulla-cave-temple-guide' },
+    { name: 'Minneriya Elephant Gathering', slug: 'minneriya-elephant-gathering-guide' },
+    { name: 'Polonnaruwa Guide', slug: 'polonnaruwa-guide' },
+    { name: 'Anuradhapura Guide', slug: 'anuradhapura-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-sigiriya' },
+    { name: 'Getting Around', slug: 'getting-around-sigiriya' },
+    { name: 'Sigiriya 2-Day Itinerary', slug: 'sigiriya-2-day-itinerary' },
+];
+
 const KANDY_SIDEBAR = [
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },
@@ -341,6 +352,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         kyoto: KYOTO_SIDEBAR,
         colombo: COLOMBO_SIDEBAR,
         kandy: KANDY_SIDEBAR,
+        sigiriya: SIGIRIYA_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

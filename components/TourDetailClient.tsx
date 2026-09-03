@@ -1316,6 +1316,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Sigiriya / cultural triangle FAQs
+    if (cityLower === 'sigiriya' || cityLower === 'dambulla' || tourTitle.toLowerCase().includes('sigiriya')) {
+      faqs.push(
+        { question: 'How many steps is the Sigiriya climb and what does it cost?', answer: 'Roughly **1,200 steps**, about 180 m above the plain, with handrails the whole way. Entry is around **USD 30-35** for foreign adults — one of South Asia\'s priciest tickets — paid in cash. Climb at the **7am opening**: there is no shade above the frescoes. Full detail in our [Sigiriya rock guide](/sri-lanka/sigiriya/sigiriya-rock-guide).' },
+        { question: 'Is Pidurangala better than Sigiriya?', answer: 'It is cheaper and has the better view — **of** Sigiriya. What it does not have is the water gardens, frescoes, mirror wall, lion\'s paws or summit palace. For the photograph, take Pidurangala. For the site, take Sigiriya. Compared properly in our [Sigiriya rock guide](/sri-lanka/sigiriya/sigiriya-rock-guide).' },
+        { question: 'When is the Minneriya elephant gathering?', answer: 'Roughly **June to September**, peaking in August, when the shrinking reservoir exposes fresh grass and several hundred elephants converge. Outside those months the herds disperse and you get a normal safari. Operators switch between Minneriya, Kaudulla and Hurulu depending on where the herds are — that is them doing their job. See our [Minneriya gathering guide](/sri-lanka/sigiriya/minneriya-elephant-gathering-guide).' },
+        { question: 'What is inside the Dambulla cave temple?', answer: 'Five caves under one granite overhang, in continuous use since the **1st century BC**, holding around **150 Buddha images** and 2,100 m² of painting. The approach is a steep 15-minute climb; shoes come off at the top terrace, so bring socks. See the [Dambulla cave temple guide](/sri-lanka/sigiriya/dambulla-cave-temple-guide).' },
+        { question: 'Polonnaruwa or Anuradhapura?', answer: '**Polonnaruwa** if you have one morning — compact, cyclable in three hours, and the Gal Vihara is the finest sculpture in the country. **Anuradhapura** if you have a full day and an interest in living Buddhism; it is a thousand years older and still an active pilgrimage city. See [Polonnaruwa](/sri-lanka/sigiriya/polonnaruwa-guide) and [Anuradhapura](/sri-lanka/sigiriya/anuradhapura-guide).' },
+        { question: 'When is the best time to visit Sigiriya?', answer: 'Sigiriya is in the **dry zone** and follows the *northeast* monsoon — its wet season is **October to January**, the opposite of Colombo. Best months are **May to September**, which is also the elephant Gathering. See [best time to visit Sigiriya](/sri-lanka/sigiriya/best-time-to-visit-sigiriya).' },
+        { question: 'How many days do I need in the cultural triangle?', answer: '**Two nights** in Sigiriya, Dambulla or Habarana. Day 1: the rock at 7am, Dambulla late morning, a 3pm safari. Day 2: Polonnaruwa by bicycle or Pidurangala at sunrise. Our [Sigiriya 2-day itinerary](/sri-lanka/sigiriya/sigiriya-2-day-itinerary) sets out the order and why it matters.' }
+      );
+    }
+
     // Add Kandy-specific FAQs
     if (cityLower === 'kandy' || tourTitle.toLowerCase().includes('kandy')) {
       faqs.push(

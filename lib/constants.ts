@@ -257,6 +257,12 @@ export const NAGOYA_INFO_SLUGS = [
   'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
+export const SIGIRIYA_INFO_SLUGS = [
+  'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',
+  'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.
 export const KANDY_INFO_SLUGS = [
   'temple-of-the-tooth-guide', 'kandy-to-ella-train-guide', 'kandy-esala-perahera-guide', 'best-time-to-visit-kandy',
