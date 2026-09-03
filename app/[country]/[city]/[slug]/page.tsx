@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -78,6 +78,15 @@ function stripMarkdown(text: string): string {
 // canonical, pooling ranking signals instead of splitting them. Champions and
 // genuinely distinct tours (Vrindavan, photography, hidden-gems…) are NOT mapped.
 const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
+  // Sri Lanka. Only one genuine clone so far: Nelum Holidays listed the same
+  // private Udawalawe day trip twice on GetYourGuide — both full day, both
+  // private, both max 6 — at $247 and $156. The cheaper page is the one a
+  // reader should land on.
+  //
+  // NOT mapped: the two Apple Vacations Colombo tuk-tuk tours look like clones
+  // by title, but one is Private and the other Group. Different products.
+  'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
+    'udawalawe-elephant-safari-transit-home-private-day-trip',
   // sunrise intent → taj-mahal-sunrise-guided-tour
   'taj-mahal-sunrise-tour': 'taj-mahal-sunrise-guided-tour',
   'taj-mahal-sunrise-tour-experience': 'taj-mahal-sunrise-guided-tour',
@@ -285,6 +294,7 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'colombo') return COLOMBO_INFO_SLUGS.includes(slug);
   if (c === 'kandy') return KANDY_INFO_SLUGS.includes(slug);
   if (c === 'sigiriya') return SIGIRIYA_INFO_SLUGS.includes(slug);
+  if (c === 'ella') return ELLA_INFO_SLUGS.includes(slug);
   return false;
 }
 

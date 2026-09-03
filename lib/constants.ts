@@ -257,6 +257,16 @@ export const NAGOYA_INFO_SLUGS = [
   'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary'
 ];
 
+// Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
+export const ELLA_INFO_SLUGS = [
+  'nine-arch-bridge-guide',
+  'little-adams-peak-and-ella-rock',
+  'ella-city-guide',
+  'getting-to-ella',
+  'best-time-to-visit-ella',
+  'ella-2-day-itinerary'
+];
+
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',

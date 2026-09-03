@@ -1316,6 +1316,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Ella / hill-country FAQs
+    if (cityLower === 'ella' || tourTitle.toLowerCase().includes('ella')) {
+      faqs.push(
+        { question: 'How do I get to the Nine Arch Bridge?', answer: 'A **20-25 minute walk downhill** from Ella town through tea and jungle — uphill on the way back. A tuk-tuk to the Demodara side is quieter and saves the climb. It is **free**, with no ticket and no official viewing area. See our [Nine Arch Bridge guide](/sri-lanka/ella/nine-arch-bridge-guide).' },
+        { question: 'What time does the train cross the Nine Arch Bridge?', answer: 'Roughly **every two hours**, but Sri Lanka Railways runs 30-90 minutes late routinely, so any blog quoting exact times is quoting a timetable rather than reality. **Ask at Ella station** on the morning — staff will tell you what is expected and how late it is running.' },
+        { question: 'Little Adam\'s Peak or Ella Rock?', answer: '**Little Adam\'s Peak** for almost everyone — 45 minutes up a stepped path for arguably the better view, out through the Ella Gap. **Ella Rock** is three hours return, largely unsigned, and people get lost on it regularly; take a guide or an offline map. Compared in full [here](/sri-lanka/ella/little-adams-peak-and-ella-rock).' },
+        { question: 'How do I book the Ella train?', answer: 'Reserved seats open **30 days ahead** and sell out within hours from December to March. Unreserved 2nd/3rd class is sold on the day and always available — you will stand, which is where the open doorways are. Send your luggage ahead by road if you have a driver. See [getting to Ella](/sri-lanka/ella/getting-to-ella).' },
+        { question: 'When is the best time to visit Ella?', answer: '**January to March** for the clearest Ella Gap views. June to September is dry but hazy from the Uva wind; October to December is wet. The real risk is **cloud, not rain** — at 1,000 m the view can be inside a cloud on a dry day, and mornings are clearer than afternoons in every month. See [best time to visit Ella](/sri-lanka/ella/best-time-to-visit-ella).' },
+        { question: 'How many days do I need in Ella?', answer: '**Two nights**, which gives you two dawns — Little Adam\'s Peak on one, Ella Rock or a tea morning on the other, with the bridge mid-morning on day one. Our [Ella 2-day itinerary](/sri-lanka/ella/ella-2-day-itinerary) sets out the order.' },
+        { question: 'What is the one rule for visiting Ella?', answer: 'Do everything **before nine in the morning**. The Gap view is clearer in the morning in every month, Little Adam\'s Peak has a queue by nine, and the Nine Arch Bridge has hundreds of people on it by ten.' }
+      );
+    }
+
     // Add Sigiriya / cultural triangle FAQs
     if (cityLower === 'sigiriya' || cityLower === 'dambulla' || tourTitle.toLowerCase().includes('sigiriya')) {
       faqs.push(
