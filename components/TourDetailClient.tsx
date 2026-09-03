@@ -1316,6 +1316,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       );
     }
 
+    // Add Kandy-specific FAQs
+    if (cityLower === 'kandy' || tourTitle.toLowerCase().includes('kandy')) {
+      faqs.push(
+        { question: 'What time should I visit the Temple of the Tooth?', answer: 'Time it for a **puja** — 5.30am, 9.30am or **6.30pm**. Those are the only windows when the upper relic chamber opens and the hevisi drummers play; outside them you are visiting a beautiful building rather than a ceremony. Take **socks**: shoes come off at the gate and the stone courtyard gets painfully hot. Full detail in our [Temple of the Tooth guide](/sri-lanka/kandy/temple-of-the-tooth-guide).' },
+        { question: 'When is the best time to visit Kandy?', answer: '**February** for the clearest weather, or **July-August**, which is drier here than most people expect and covers the Esala Perahera. Kandy sits between Sri Lanka\'s *two* monsoons and catches some of both, so it has no long dry season — but it also never has a season that is a write-off. See [best time to visit Kandy](/sri-lanka/kandy/best-time-to-visit-kandy).' },
+        { question: 'How do I book the Kandy to Ella train?', answer: 'Reserved seats open **30 days ahead** and sell out within hours from December to March. Unreserved 2nd/3rd class is sold on the day and always available — you will stand, which is where the open doorways and the famous photographs are. Sit on the **right-hand side** going south. Note there is **no Nuwara Eliya station**; the stop is Nanu Oya, 10 km away. See our [Kandy to Ella train guide](/sri-lanka/kandy/kandy-to-ella-train-guide).' },
+        { question: 'When is the Kandy Esala Perahera?', answer: 'July or August — but the dates **move every year** with the lunar calendar, so any guide naming a fixed week is guessing. It runs ten nights and ends on the Nikini poya. Book accommodation on the route six to twelve months ahead. Details in our [Esala Perahera guide](/sri-lanka/kandy/kandy-esala-perahera-guide).' },
+        { question: 'What can you do as a day trip from Kandy?', answer: '**Sigiriya and Dambulla** (2.5 hrs each way) is the best of them. **Kitulgala** rafting is 2 hrs, the **Knuckles range** and **Pekoe Trail** stages are day hikes from here. Ella, Galle and Yala are *too far* — 4-6 hours each way. See [day trips from Kandy](/sri-lanka/kandy/day-trips-from-kandy).' },
+        { question: 'How many days do I need in Kandy?', answer: '**Two nights.** One full day for the town — Bahirawakanda, Peradeniya gardens, the lake and the evening puja — and a second for a hike, a village day or the cultural triangle. Our [Kandy 2-day itinerary](/sri-lanka/kandy/kandy-2-day-itinerary) lays it out hour by hour.' },
+        { question: 'How do I get around Kandy?', answer: 'The centre and the lake circuit are walkable. For anything up a hill or out of town, take a **tuk-tuk** — roughly LKR 100-150/km on the meter, and ride-hailing apps price it automatically with no negotiation. See [getting around Kandy](/sri-lanka/kandy/getting-around-kandy).' }
+      );
+    }
+
     // Add Colombo / Sri Lanka-specific FAQs
     if (cityLower === 'colombo' || tourTitle.toLowerCase().includes('colombo')) {
       faqs.push(

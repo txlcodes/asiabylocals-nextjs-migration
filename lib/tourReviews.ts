@@ -11821,5 +11821,390 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- KANDY BATCH + REMAINING SRI LANKA (2026-09, real GYG reviews) ---
+
+    if (slug === "adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit") {
+        return {
+            averageRating: 4.8, totalReviews: 30, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Martina", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-09", text: "The climb was a unique experience, guide was very kind and patient, also transfer was smooth and very efficient. After the climb they offered us a very needed breakfast. Thank you!!" },
+                { author: "Natalie", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-01", text: "This has been one of the highlights of my time in Sri Lanka thus far. Communication with the company was excellent and they sent details of my driver ahead of schedule and he reached out early too. My driver, Ahamed, was absolutely brilliant and I cannot recommend him highly enough. If I could, I’d have him drive me everywhere! He was fantastic. As was my guide, Priyantha, who was waiting for me at the base of the mountain at 1am when we arrived exactly on schedule. Priyantha was knowledgable, kind, patient and easy company on the walk. We had breathtaking views at the top and Priyantha ensured I was in the correct spot for the sunrise, which was spectacular. It was just incredible and I can’t recommend the tour enough - especially if you’re lucky enough to get Ahamed and Priyantha." },
+                { author: "Malwina", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-16", text: "We had a very nice day! The hiking was long and a bit difficult but the views were beautiful. Ours guide and driver were really helpful and did their best to make our trip unforgettable." },
+                { author: "Luca", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-14", text: "The Adam Peak hike was fantastic. Let me start by saying that the agency, with their professionalism, organized the hike down to the finest detail. From the punctuality of the transportation that took us to Adam Peak in a comfortable way, to Priyanthe, our guide, waiting for us as soon as we arrived at Adam Peak. With professionalism and experience, she was able to understand our pace and needs. The effort was worth it in the end. I recommend bringing something that will keep you warm from the cold to the summit. Thank you." },
+                { author: "Geetha", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-20", text: "The entire experience was smooth and totally enjoyable. Got picked up from Kandy at 10pm by the driver ShafeerAhmed. Totally professional and safe. Fr be took 3hrs to base of Sr Pada. Felt very safe with Safeer’s driving and had a good nap. Was met by Priyanth my guide at the start of the trek Up. Priyanth is a very knowledgeable, experienced and patient guide… took time to explain things to me, culturally and historically. We made it up to within 100 metres within 3 hours (1.45am to 4.30am). We stopped at a tea shop and had a lovely hot milk tea as it was too early get up for sunrise. Made our way up at about 5.15 and it was just magical! Totally recommend this tour 😊" },
+                { author: "VIKTORIJA", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-15", text: "The experience was excellent from start to finish. The driver, Ahamed, provided a safe and smooth transfer, was punctual, and very attentive to my needs. The guide, Priyantha, was knowledgeable and shared interesting facts about the places we visited. He was especially helpful in finding the best spots to watch the sunrise. While the activity is a bit physically challenging, it is absolutely worth the effort. I highly recommend this tour!" },
+                { author: "Frida", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-14", text: "Safe and good transport both to and from the mountain, and a very nice guide to bring us to the top. Will recommed doing this, but bring warm clothes!!" },
+                { author: "Walter", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-30", text: "The transportation was smooth. The guy was professional too. It’s cold up hill so don’t forget to keep yourself warm!" },
+                { author: "Lorraine", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-22", text: "our driver was safe and very considerate. Our guidePryianth was so informative kind generous but over all he was the sweetest young man. I can't praise Imran and Priyanth enough. The walk is tough in places but so worth while when you get to the to to wait for sunrise. Breakfast was exelent." },
+                { author: "beatrice", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-05", text: "I was looking for a way to climb Adams Peak from Kandy and I booked this activity. I must say that it exceeded all my expectations. The organisation is perfect and the driver Imran took care of every detail. The experience is truly unique and unforgettable, especially in the season when locals go on pilgrimage to the temple. Definitely recommended." },
+            ],
+        };
+    }
+
+    if (slug === "ambuluwawa-tower-and-tea-factory-half-day-tour-from-kandy") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Kai", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-01", text: "Our Guide(s) (one was a Trainee) we're very nice. they explained a lot of Things and the car was very comfortable and had got A/C. At Ambuluwawa we took a Tuk Tuk to the top. After the tower we headed to the tea factory which was also a nice experience. They would've drive with us to the other places as well, but it was enough for us. They even dropped us off at a good restaurant (because we wanted lunch) and would have even driven us back to the hotel afterwards. This was not needed from our side. All together a very nice experience and worth the money." },
+            ],
+        };
+    }
+
+    if (slug === "ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya") {
+        return {
+            averageRating: 3.9, totalReviews: 24, guideRating: 3.9, valueRating: 3.9,
+            reviews: [
+                { author: "Isabelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-14", text: "Really great service from start to finish. The driver picked us up in front of our guesthouse and dropped us off at Haputale train station (this is the only downside because I was planning to leave Ella by train). He was waiting for us at the train exit, and then we hit the road with a stop to eat by the lake (he asked us if we wanted to eat and let us choose what to eat). The stop at the tea factory is included and there is no surcharge; the tour is in French! He stops whenever we want for photos. In short, great!" },
+                { author: "Arne", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-12", text: "Our guide Kasun was excellent and very knowledgeable. Highly recommended." },
+                { author: "Karin", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-21", text: "Everything worked out great. The train ride was very nice, and the visit to the tea factory and Lake Gregory was also excellent." },
+                { author: "Patrick", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-19", text: "Wre traveled from Ella to Kandy, but not as originally planned due to last year's devastating cyclone. So we had a a scenic tran to start from Ella to Ambewela which is amazing especially today with the sun shining and the windows open in 3rd class which really is the best class. Do try and book the right side of the train for the most it has to offer, but the left is plenty good enough it just means getting up in a couple of places to get the pictures. Once at Ambewela our private car was waiting for us and was easy to spot as we had been sent pictures of our vehicle. We then had a lovely drive through to Kandy with a stop at the lake, Waterfall and a tour of a tea factory plus plenty of stops along the way to take some truly stunning pictures of this beautiful part ofbthe island. Our driver Hiran was super showing us all the sites answering all our questions and his English is top drawer and very polite." },
+                { author: "Stacey", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-19", text: "Great tour with all the key spots. The train ride was incredible! Would definitely recommend" },
+                { author: "Sophie-Charlott", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-06", text: "It was great. The driver made our trip really special, he was such a nice guy. We‘ve seen really local sides of Sri Lanka thankfully to this offered tour. It was amazing, would definitely do it again and recommend going with this company.:)" },
+                { author: "Jesus", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-30", text: "Both the train journey and the subsequent tour were a fantastic experience; Shehan is very professional." },
+                { author: "Sara Luciana Monteiro Pinto", country: "Verified GetYourGuide review", rating: 4, date: "2026-08-07", text: "The activity went well, and the driver/guide was very friendly, helpful, and kind to us. We are sorry that the train was very crowded, very chaotic, and that it was 2 hours late." },
+                { author: "Eske", country: "Verified GetYourGuide review", rating: 4, date: "2026-05-19", text: "Our driver was really great, super punctual, had a great car, drove very carefully, and was able to provide good information. We also liked the process itself; it went smoothly, and the communication was flawless. Unfortunately, you shouldn't expect too much from the visit to the tea factory. The guided tour lasted a maximum of 10 minutes, and only the bare essentials were explained by the staff there. The waterfall could also only be viewed from the road, so unfortunately you couldn't climb on it or take a closer look at it. Nevertheless, due to the fact that the train from Ella to Kandy does not go through, it was a practical and appropriate thing to do." },
+            ],
+        };
+    }
+
+    if (slug === "galle-countryside-cycling-tour-through-villages-paddy-fields") {
+        return {
+            averageRating: 4.4, totalReviews: 3, guideRating: 4.4, valueRating: 4.4,
+            reviews: [
+                { author: "Frank", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-13", text: "The driver is very safe on the road, explained the area to us, we are happy! Anytime again 👍🏼" },
+            ],
+        };
+    }
+
+    if (slug === "heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Mondovics", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-05", text: "Danu was a great guide, he told us a lot of interesting things about the village, the people, the plants, the animals. He answered all our questions and I had a great time swimming at the waterfall. The lunch was also very delicious." },
+            ],
+        };
+    }
+
+    if (slug === "kandy-city-highlights-private-day-tour-temple-viewpoints-and-gardens") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "SAYURI", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-01", text: "Our driver, Sachintha, was very kind and took us to the places we wanted to go at our own pace and even took photos for us. It was also very helpful that he explained things in a way that I could understand, even though my English is not very good. He also drove very well, so I had a stress-free and comfortable journey. I highly recommend this activity!" },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-ella-guided-transfer-with-peradeniya-gardens-and-ramboda-falls") {
+        return {
+            averageRating: 4.5, totalReviews: 12, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Jarrod", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-22", text: "Absolutely stunning scenery and a wonderful guide. Very knowledgeable and accommodating. A delightful experience." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 3, date: "2026-05-17", text: "The transfer got us from Kandy to Ella. The reason for the 3/5 is the tour guide was supposed to be English speaking but didn't really seem to know much." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-29", text: "Very good; the driver accommodated our requests and got us to our destination without any issues." },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged") {
+        return {
+            averageRating: 5.0, totalReviews: 7, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Álvaro Rodríguez", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-27", text: "We did the activity with Chira, who picked us up at our hotel and accompanied us throughout the morning. She took us to the visits and told us some interesting facts along the way, which made the trip a much more entertaining experience. We loved enjoying the views of the mountains and tea plantations during the drive. Finally, she helped us buy train tickets to get to Ella and accompanied us to the station. Thank you very much!!!" },
+                { author: "Spyros", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "We did the tour with Chirantha. He was really good and we saw everything on our way to Ella and Nanu Oya. We asked for food and fresh juices and he took us to a wonderful strawberry farm for fresh strawberry juice! We saw the Ramboda waterfall (don’t miss it!!!), tea plantations and the factory as well where we tested different types of tea, old post office in Nuwara Eliya. At the end he took us to the train station of NanuOya where he issued our tickets, escorted us to the platform and waited us until the train left from NanuOya to Ella! He also advised us where to sit on the train! He drove excessively safe during the whole trip under difficult circumstances as the rain started from Ramboda until Nuwara Eliya. All in all it is an excursion not to miss!!!! We highly recommend to do it!!!" },
+                { author: "Gabriela", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "Because of the weather, we couldn’t visit all the places from the list, but our guide Suresh was perfect and told us many interesting facts about Sri Lanka and he got us the best seats in the train. Company also arrange a Kandy city tour by tuk tuk day before as a gift for free and it was also very good with a friendly guide." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-28", text: "mon chauffeur et guide,chira, a ete tres bien, vrziment gentil et disponible. il a pris le temps de faire les choses a mon rythme en me laissant profiter des differents spots. merci a lui" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-06", text: "The tour with Ramzan was really great. We made many stops and also looked at many things that went beyond what we had actually booked. Ramzan was a very safe driver. He made sure all day that we had everything we needed and that we were doing well." },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-nuwara-eliya-guided-transfer-with-tea-factory-and-ramboda-falls") {
+        return {
+            averageRating: 3.8, totalReviews: 3, guideRating: 3.8, valueRating: 3.8,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-20", text: "Professionel driver. We enjoyed the trip." },
+                { author: "Desi", country: "Verified GetYourGuide review", rating: 1, date: "2026-07-26", text: "The tour was not organised as we had to tell him where to stop. The tea factory was a very touristy one, the first one you find on google. We paid for a tea plantation experience and we only walked on the free plantations. Everything that is included is free and what’s not included you have to pay, the price is not fair as transfer does not cost 90 euros. If you want a guided tour from Kandy to Nuwara eliya, this is not your option. If you want an expensive driver that you need to guide, this is your option." },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Gina", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-01", text: "A great trip from Kandy to Nuwara Eliya. Our driver,Jima was very friendly and chatty. He gave us lots of facts and interesting information. We stopped at waterfalls and a tea factory along the way. He even k8ndly stopped at a pharmacy that we needed. We would highly recommend this service and this driver. Great job, thank you." },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train") {
+        return {
+            averageRating: 4.7, totalReviews: 2, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Annina", country: "Verified GetYourGuide review", rating: 4, date: "2026-01-30", text: "The driver was very friendly and the journey was straightforward. Unfortunately, we couldn't fasten our seatbelts because they were broken." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "Everything was amazing! Our driver Ramzan was wonderful. 100% recommended!" },
+            ],
+        };
+    }
+
+    if (slug === "kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves") {
+        return {
+            averageRating: 4.1, totalReviews: 4, guideRating: 4.1, valueRating: 4.1,
+            reviews: [
+                { author: "Stefanie", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-15", text: "This excursion is a great way if you want to go to the Eadt Coast from Kandy. Sura, my driver, is very friendly and so patient. We visited an amazing temple (SLR1000) drove to the Dambulla Caves (SLR33000), Lion Rock (USD32), had a great lunch at the lake (village tour SLR5000) and then the best part, took a jeep (USD60) to go to Minneriya national park (USD23). Yes, all in all it is expensive but so worth it! It is manageable to do everything within one day and I had the best time with Sura. Thank you again !" },
+                { author: "jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-07", text: "We had a great tour from Kandy to Trincomalee. Our tour guide Chanaka was a careful driver and perfectly tailored the tour to our interests! We can only recommend the tour! Thanks again!" },
+                { author: "Daniel", country: "Verified GetYourGuide review", rating: 2, date: "2026-02-05", text: "Two guides, but they barely spoke English, so there were almost no explanations. Apparently, no entry fees were included, so the cost came to over $200 USD. This should at least be stated when booking. There also didn't seem to be a set itinerary: Dambulla was only included after I specifically asked for it, and there was no jeep safari. We reached Sigiriya Rock around midday, which was ultimately pointless. The crowds meant constant queuing and pushing (one hour for about 200 meters). I finally gave up the climb in frustration. A visit here only makes sense in the morning. Otherwise, the transport to Trinco was quick and safe. The spice garden was also very interesting. You could sample the natural products everywhere, and even a massage with homemade oils was included. Ultimately, though, the price/performance ratio didn't match. A shame…" },
+            ],
+        };
+    }
+
+    if (slug === "kandy-unesco-heritage-day-by-local-bus-with-a-kandyan-guide") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "federico", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-12", text: "We had an amazing 8-hour Kandy local bus tour with Dinesh! This was one of the best experiences of our trip to Sri Lanka. He showed us the real local life in Kandy, traveling by local bus, tuk tuk, and on foot. During the tour we visited gardens, scenic viewpoints, Kandy Lake, cultural attractions, museums, and peaceful nature spots. We also saw local wildlife and enjoyed authentic Sri Lankan street food that we would never have found on our own. Dinesh was friendly, knowledgeable, and always made us feel safe and comfortable. He explained the local culture, history, traditions, and daily life in an interesting way. The cultural dance performance was a highlight of the day. He also helped us take photos at the best locations. This tour is perfect for travelers who want to experience the authentic side of Kandy beyond the usual tourist attractions. Excellent guiding, great communication, and wonderful local knowledge. Highly recommended for anyone visiting Kandy. Thank you, Dinesh." },
+                { author: "Marie", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-11", text: "⭐⭐⭐⭐⭐ Amazing Full-Day Kandy Tour with Dinesh! I had a fantastic 8-hour tour around Kandy with Dinesh. Instead of a typical tourist experience, he showed me how locals travel using the local bus system, making the day authentic and memorable. We visited beautiful temples, scenic viewpoints, Kandy Lake, gardens, and tea plantations. Dinesh shared fascinating insights into Sri Lankan culture, history, and daily life. We also enjoyed a traditional dance performance and tasted delicious local street food. Dinesh was friendly, knowledgeable, patient, and flexible throughout the tour. He took great photos, recommended good shopping spots, and tailored the experience to my interests. If you want to experience the real Kandy, meet locals, enjoy nature, culture, food, and stunning views, I highly recommend a tour with Dinesh. It was excellent value for money and one of the highlights of my trip to Sri Lanka. Thank you, Dinesh—I would gladly book again! ♥️" },
+            ],
+        };
+    }
+
+    if (slug === "kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "綾", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-03", text: "It was a great experience to have a day like that in Kandy. Especially at the Kumarihami cooking class, we had the best meal in Sri Lanka. They taught us step by step how to cut, mix, which spices to use, etc. Their big outdoor kitchen with a curry leaf bush, flowers, some animals, and so much greenery was relaxing and refreshing. We highly recommend this class! We had a really wonderful time. In the Kumarihami cooking class, in a kitchen surrounded by nature, with a curry leaf tree, a stove, and monkeys, squirrels, and birds visible in the distance, they taught us how to mix spices and cut ingredients in a very gentle and easy-to-understand way. It was also interesting that we could choose some of the vegetables ourselves. It's a highly recommended thing to do!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-09", text: "The Eco village tour and cooking class was excellent, informative, well organised and the hosts were very friendly. If you want a true authentic introduction to Sri Lankan cuisine don’t look any further." },
+            ],
+        };
+    }
+
+    if (slug === "kelani-river-rafting-day-from-kandy-with-guides-and-transfers") {
+        return {
+            averageRating: 5.0, totalReviews: 4, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Maciej", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-04", text: "Nice, professional service. Amazing experiences. I highly recommend it. An unforgettable experience. The guide is super helpful with everything." },
+                { author: "Max", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-07", text: "Punctual and friendly driver. Fun rafting activity." },
+                { author: "Laura", country: "Verified GetYourGuide review", rating: 5, date: "2024-11-12", text: "We were picked up on time by the driver in a tuk tuk and driven to the starting point of the rafting. There we had a boat for two with two guides who gave us clear instructions. The rafting was very adventurous and fun but also very relaxing in the beautiful and peaceful nature. At the end we also really enjoyed swimming and floating in the river. It was also good that there was a changing and showering area at the start/end point. The rafting itself was not included in the offer and cost 12,000 rupees for two people, which was totally OK. We asked the guide to change this in the description. We also didn't know that he had another idea for the program. We also visited a tea factory and he would drive us to lots of other great activities such as a spice garden, a wood house, a gemstone shop, a dance show, a lookout point and much more. Great day with a really nice guide, the price was totally OK." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-12", text: "We had a great day with Saraa. He was very kind and helpful. Also, he was a responsible and a safe driver. Moreover, the water rafting was really nice. It is cheaper to book with them, and pay for the rafting yourself instead of booking the full package deals, like some other offers out there. Since tea factory, wood crafting have free entrances. So we are happy to recommend them :)" },
+            ],
+        };
+    }
+
+    if (slug === "kitulgala-white-water-rafting-day-trip-from-kandy-by-tuk-tuk") {
+        return {
+            averageRating: 4.9, totalReviews: 9, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Begüm", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-15", text: "I had a great day with my guide, Ramazan. He is talkative, helpful, and a very good driver. Just a reminder: this tour is a private tour, which I didn’t notice when I booked, so the activity cost me more than expected. I chose canyoning instead of rafting (the same price but much more challenging for me), and I had a lot of fun. The tea and Ayurvedic places were also great. Thanks, Ramazan 🙏🏼" },
+                { author: "Anastasija", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-24", text: "We had an amazing tuk-tuk trip yesterday, and a big part of the experience was thanks to our driver, Sanath. He drove safely and confidently, showed us around with great local knowledge, and made the trip even more enjoyable with his fun and friendly sense of humor. The great banter we had with him made the journey truly memorable. This was without a doubt one of the best experiences of our trip so far, and we can highly recommend Sanath!" },
+                { author: "Arthur", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-10", text: "The tour was very well organized, with a great balance of thrilling activities and more laid-back and informative ones. The trip to Kithulgala also offered some really beautiful views along the way, which made it even more worth it. I was on a one-on-one trip with Ramzan and had a genuinely great time! Not only did he show me some amazing places, he was also really fun to spend time with during the 6 hours of riding around in a tuktuk. I would highly recommend this day tour to everyone :)" },
+                { author: "ronja", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-08", text: "Our guide Akila was amazing and took us to everything we wanted to see, stopping to explain everything we saw along the way, from rice fields to pepper plants and tea plantations. He took us around safely and we enjoyed everything" },
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 4, date: "2026-01-06", text: "Ramzan was the man! very accommodating and even went out of his way a lot for us. if youre lucky enough to have Ramzan as a driver you will be very happy! above and beyond :)" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-03", text: "The rafting was very good and my wife and I enhoyed it. Totally its 2 hours where 1 hour of rafting and 1 hour of preparation and return to start by car. Afterwards you get to visit Tea factory and Wood Carving factory. However their process are way above normal EU prices. So beware!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-03", text: "Our guide Ramzan was totally cool! We had a blast with him. He explained a lot to us and went rafting with us. For us, a highlight was his tuk tuk with the music system. Overall, one of the best days in Sri Lanka. We can only recommend it to everyone. A whole day of great experiences and we didn't have to worry about a thing. They didn't take care of snacks or drinks, or anything." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-08", text: "It was a great and well-filled day. We experienced a lot. We enjoyed the white water rafting the most. Thanks to Akila." },
+            ],
+        };
+    }
+
+    if (slug === "kitulgala-white-water-rafting-from-kandy-with-hotel-transfers") {
+        return {
+            averageRating: 4.5, totalReviews: 9, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Alix", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-30", text: "Good organization for the pick-up; be sure to take into account the 2-hour journey to get there. Once there, it was a great experience, with good explanations and support throughout the activity. We were even able to jump off rocks and swim down the rapids." },
+                { author: "Jesper", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-17", text: "Good place for white water rafting for a family. It's wild enough to be fun, and everyone can participate. Nice driver on a long trip from Kandy. Recommended." },
+                { author: "Lieke", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-06", text: "Had a super fun day!! The rafting was really fun, not too scary. There were a few big gears in it that were really fun. The surroundings were beautiful. Then we went canyoning. Even though it was super busy, it was totally worth it! Also super fun. And a safe feeling thanks to our guide. The round trip back and forth was also fine. The driver drove calmly. Very nice day!!" },
+                { author: "Jemma", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-11", text: "Great fun and the two guides were brilliant. Loads of laughs along the way and a good swim! Highly recommended. Loved every minute!" },
+                { author: "Natalija", country: "Verified GetYourGuide review", rating: 4, date: "2026-01-26", text: "Beautiful nature, great guide, everyone very friendly." },
+                { author: "Olivia", country: "Verified GetYourGuide review", rating: 4, date: "2025-01-15", text: "Enjoyable activity. Super friendly guide (Imran). Long drive there and back but rafting in the picturesque setting of Kitugala was lovely." },
+                { author: "Vendula", country: "Verified GetYourGuide review", rating: 3, date: "2026-08-09", text: "The trip to the rafts takes two hours. The rafting experience itself is relatively short (45 minutes), but it's invigorating. The staff was neither pleasant nor unpleasant. The driver, on the other hand, was very nice and skilled. The instructions say that you should bring a charged phone, but you will only be able to use it minimally. You can purchase photos or videos of your runs for a fee. Helmets and vests are not subsequently disinfected." },
+            ],
+        };
+    }
+
+    if (slug === "knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch") {
+        return {
+            averageRating: 4.4, totalReviews: 2, guideRating: 4.4, valueRating: 4.4,
+            reviews: [
+                { author: "Michael", country: "Verified GetYourGuide review", rating: 4, date: "2026-03-04", text: "A great combined experience of Sri Lankan mountain village life and a good mountain hike. The pick up was smooth and the guides were very friendly, attentive and local. The cooking experience was great fun and the lunch prepared by the host was excellent. The hike itself was great, rising above the rice paddies into montane forest, with an invigorating waterfall swimming spot towards the end. We enjoyed communicating with our affable guide despite the language differences and also experiencing their local knowledge in a slightly extended walk." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-12", text: "Our guide was very attentive and gave us lots of information throughout the trip. We were able to prepare and eat a typical dish at a family home and we also had lunch at another person's place. It was very good. Swimming in the river near the waterfall was great, after a good sweat." },
+            ],
+        };
+    }
+
+    if (slug === "nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch") {
+        return {
+            averageRating: 2.5, totalReviews: 3, guideRating: 2.5, valueRating: 2.5,
+            reviews: [
+                { author: "Marcus", country: "Verified GetYourGuide review", rating: 4, date: "2025-03-29", text: "There tour was good and the driver took me to the attractictiond in a safe and efficient way." },
+            ],
+        };
+    }
+
+    if (slug === "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-16", text: "Our DRIVER was sensational, tireless. He showed us the places as if they were his own home. Everything was very nice! It's always a shame that you don't have much time." },
+            ],
+        };
+    }
+
+    if (slug === "one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers") {
+        return {
+            averageRating: 5.0, totalReviews: 4, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Isabelle", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-04", text: "It was fun! Akila took a lot of time for us; everything was at our leisure. You don't have to do what you don't want to do. You can choose to add on an extra hour for wood carving, which we did to achieve a nice result. This costs an additional 4,000 per person." },
+                { author: "Tom", country: "Verified GetYourGuide review", rating: 5, date: "2026-07-07", text: "This is the perfect way to experience Kandy if you have limited time here. Akila is very knowledgeable on the local area and was the perfect driver for this experience. We started with the carving workshop which was lots of fun getting to learn a traditional craft. After the workshop the day is yours, you can do as many or as few of the activities in the description as you like. This makes this experience a great way to see all the sites in Kandy, while doing some fun workshops, without having to worry about how you’ll get to each one. Akila is a really nice guy as well, couldn’t recommend this experience more!!" },
+                { author: "Lone", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-06", text: "Very nice and helpful people. When we did a wrong thing on the tree, our teacher saved us😉 Very funny You need two hours to finish. We absolutely recommend this workshop" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-13", text: "The guide was really nice and let us take our time to explore our desired destinations. We had the chance to explore so much in one afternoon! Definitely recommend if you stay for a short period in Kandy and want to maximize your time." },
+            ],
+        };
+    }
+
+    if (slug === "private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids") {
+        return {
+            averageRating: 4.9, totalReviews: 7, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Lasse", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-03", text: "We had already seen many of the sights on a different tour the day before, but that wasn't a problem. We started at a temple near Kandy and then drove to a large gemstone workshop. The highlight, of course, was the rafting trip. Although I've been rafting many times before, this was a new and exciting experience. To finish off the day, we visited a tea factory and were able to sample some of the tea. Our driver spoke excellent English and was very friendly. All in all, it was a wonderful day full of memorable experiences. We didn't do the optional canyoning tour, nor did we buy the SD card with the pictures and videos from the rafting trip." },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-03", text: "Our driver and tour guide Sara was excellent. He spoke good English and our communication was good and clear even from the day before for confirmation. He made sure we had cold beers, excellent food with a spectacular view. The river rafting was great fun and not too challenging. The guide was great. We recommend this experience. We also went to a lovely tea factory with generous tea tasting and delicious iced Macha. Thank you Sara for your excellent Sri Lankan kindness and hospitality." },
+                { author: "Elena", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-19", text: "A pleasant trip with a very courteous driver. He made every effort to find restrooms, a bench, etc. The rafting was relatively easy, with no difficult sections. We were on the water for about 1 to 1.25 hours. A recommended additional excursion (about an hour for $20) is a hike to a tributary of the Kelani River, featuring a type of canyoning that includes jumping into the river from a height of 3 meters (with helmet and life jacket). We were able to customize the itinerary for the return trip. A lovely little tea factory with a generous tasting was also included. Thank you!" },
+                { author: "Hanne", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-16", text: "The rafting was great and challenging enough. It is a 1.5 hour drive from Kandy but you will find yourself in a fairytale environment on the water. Our guide Tara was great. Nothing was too much for him. He took us to a restaurant at the end of the day when we asked. The various sights in this tour are educational and fun to see. Be aware that this is a long day trip, where you will be in the car for large parts." },
+                { author: "Tyler", country: "Verified GetYourGuide review", rating: 5, date: "2025-01-15", text: "Fernando runs an absolutely amazing tour and is such a lovely bloke who is very knowledgeable. The white water rafting is so incredible it makes you forget about the rest of the day. The tea factory is very interesting. The wood carving store is fascinating to see the guys working and how its been passed down the generations. The herbal garden was a very unique experience and how all the natural products are made. We skipped over the rest of the day due to time but Fernando still offered to continue if we would like to. Would highly recommend a 10/10 experience." },
+                { author: "Jim", country: "Verified GetYourGuide review", rating: 4, date: "2025-03-04", text: "The rafting was fun but was pretty short. The overall ride to get there took the longest" },
+            ],
+        };
+    }
+
+    if (slug === "private-polonnaruwa-day-tour-from-kandy-with-a-minneriya-jeep-safari") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Zinnia", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-03", text: "We had a great day! Shanuka was very friendly, helpful and accommodating to our requests. Would highly recommend!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-09", text: "Polonnaruwa is stunning and Sachintha a friendly and nice driver. You just have to be prepared for a very long drive to Polonnaruwa but the site is very much worth all the driving!" },
+            ],
+        };
+    }
+
+    if (slug === "private-sigiriya-and-dambulla-tuk-tuk-day-trip-from-kandy") {
+        return {
+            averageRating: 5.0, totalReviews: 5, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Roland", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-22", text: "It was a great day. Our driver, Roshan, was a very careful driver and a knowledgeable guide. He always fully accommodated our wishes. His English was also very good. 5👍 for him." },
+                { author: "Jennifer", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-10", text: "My guide and driver Malik picked me up with a tuktuk just in time and adjusted the trip with me according to what I was interested in seeing. He supported me with some local snacks and water during the trip and took pohtos and videos of me during the village tour. He also brought me savely back again. In general I had a good experience. Thank you!" },
+                { author: "Niklaus", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-04", text: "I was able to go on the tour with Malik today! A great guy who quickly and safely took me to the places I wanted. He was very knowledgeable and showed me beautiful places. I'm already looking forward to going on tour with him again! I can only recommend it!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-20", text: "Very good! Driver Malik offers passengers with scenic stops along the way with bits and pieces of traditional snacking" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari") {
+        return {
+            averageRating: 4.9, totalReviews: 10, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Levente", country: "Verified GetYourGuide review", rating: 5, date: "2026-05-02", text: "It was fantastic; our driver, Ravish, was very kind and helped us with everything—by the end of the day, we had become friends. We visited so many wonderful places, and Ravish shared a lot of interesting information with us. In the end, we chose the Eco Elephant Park—it was great. There weren’t many tourists, and we saw at least 25 elephants up close. We even saw a pregnant elephant and a baby elephant just a few months old. We highly recommend it to everyone—it was wonderful." },
+                { author: "Kelly", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-28", text: "I had an amazing day with Shanuka! He made me feel incredibly well taken care of and looked after as a solo female traveler. He planned a great day for us and adjusted it based on what I wanted to do. He made sure all my needs were met throughout the day. And the elephant safari was INCREDIBLE! We saw so many! I highly recommend!" },
+                { author: "Sofia", country: "Verified GetYourGuide review", rating: 5, date: "2025-09-23", text: "I had an absolutely incredible tour yesterday with Shanuka! 🙌 As a solo female traveler, I felt completely safe and comfortable the entire time. He is so caring and thoughtful, he drove me to all the highlights, stopped whenever I needed something, treated me with fresh coconut and even brought me to a fantastic spot for lunch. We managed to see so much in just one day, and it was truly a pleasure to spend the day with him. Shanuka is not only professional but also very sweet and kind. I couldn’t recommend him more, if you want a safe, fun, and unforgettable experience, go with him! 🌟" },
+                { author: "Marie", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-22", text: "I had a really nice experience with my driver Ruwan. He made sure I feel good and took really nice care of me. He also guided me in Dumballa cave Temple and on our way back we stopped in a spices farm, which was very nice. I reccomend 👌." },
+                { author: "pragati", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-13", text: "I had an amazing experience with this company, thanks to my wonderful guide. As a solo female traveler, I really appreciated how kind, attentive, and caring he was. He made sure I felt completely safe and comfortable the entire time, which meant so much. If you're a solo female traveler, I highly recommend this company and their tours. They truly go the extra mile to make your experience special." },
+                { author: "Ilaria", country: "Verified GetYourGuide review", rating: 5, date: "2024-12-07", text: "Great experience. Nuwan as a guide was amazing! I recommend him :) he was super kind and helpful with all my requests!" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 4, date: "2025-04-12", text: "The driver had a very hard time with the English language, but the tour itself was perfect!!" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-and-pidurangala-rock-day-trip-from-kandy-by-tuk-tuk") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Wiktoria", country: "Verified GetYourGuide review", rating: 5, date: "2026-03-07", text: "What a well-organized trip! You can change the tour plan. Great guide" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk") {
+        return {
+            averageRating: 4.8, totalReviews: 40, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Anja", country: "Verified GetYourGuide review", rating: 5, date: "2026-06-30", text: "Hello our Guide was Dhanu he was very safe in driving and took us to the places we want. The day was wonderful with a lot information about the country and the places we went. We are thankful to had him on this trip and for the nice day we had." },
+                { author: "Sophie", country: "Verified GetYourGuide review", rating: 5, date: "2026-04-17", text: "Dhanu was amazing. He asked us where we wanted to go & see with no pressure for anything. He waited patiently at each stop and we felt no pressure to hurry or rush. He gave us recommendations about when was a good time to climb the rock due to the heat, keeping us in good supply of water and assisting us with conversations at the locations. At each location he would take loads of photos of us, and send immediately. We would definitely recommend!" },
+                { author: "Kelly", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-19", text: "I had a great big adventures day! Malik was my tour guide and I was very happy. Suggested and asked the things I wanted to do along the way. Because it was an early start, he also stopped so I could get food and toilet breaks along the way. He was also the best photographer, capturing every moment! Towards the end of the tour we also stopped somewhere and he gave me a Sri Lankan treat. Happy with my day" },
+                { author: "Nush", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-10", text: "Tharanga is a very skilled, professional driver. He is also so caring and friendly. He didn’t even hesitate to stop at different places for us to take photos and enjoy the views, answered millions of questions and explained a lot of interesting things. On the way back home he stopped at the market in Dambulla so that we can buy local fruits. So, in short, it was a wonderful trip full of experiences and joyful moments😊" },
+                { author: "Mihail", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-24", text: "I had Tharanga as a guide and we had a blast of a day with him. He answered all the questions, was always on time and was very polite and insightful. Thanks for the great day and memories." },
+                { author: "Pamela", country: "Verified GetYourGuide review", rating: 5, date: "2025-08-23", text: "It was all perfect! Our guide Malik was very kind and awesome! We had chosen the stops at the beginning of the tour and it was incredible! Also he helped us to find a way to reach trincomalee at the end of the tour… it was a beautiful day!" },
+                { author: "Aleksandra", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-23", text: "A great trip with a fantastic driver and guide Dhanu. He showed us and told us about the most important attractions in Sigiriya and the surrounding area. I highly recommend it, you'll be satisfied, I guarantee it🤗" },
+                { author: "Valentina", country: "Verified GetYourGuide review", rating: 5, date: "2025-07-19", text: "Our guide was Dhanu, and the day we spent with him was spectacular. During the journey to Dambulla and Sigiriya, he showed us and explained the wonders we encountered along the way. Dhanu was always helpful, kind, friendly and personable. Highly recommended." },
+                { author: "Neha", country: "Verified GetYourGuide review", rating: 5, date: "2025-06-04", text: "This is a great day trip option from Kandy. My tour guide Dhanu took care of everything. The itinerary includes basic must do things in Sigiriya if you are a little short on time. The route was very scenic and Dhanu stopped at many points for me to take pictures. Overall I would recommend this trip to everyone solo or couple for the amazing tuk tuk experience." },
+                { author: "Christine", country: "Verified GetYourGuide review", rating: 5, date: "2025-05-03", text: "Dhanu made us the best day ever. We would highly recommend him because of his bright knowledge and good stories about Sri Lanka. It was very fun to make a tuk tuk tour with him. If possible, we would give him 12/10 points. We can choose what we wanted to do and he gave us a lot of options. Thank you for this absolutely amazing day!" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-dambulla-and-polonnaruwa-long-cultural-triangle-day-from-kandy") {
+        return {
+            averageRating: 5.0, totalReviews: 4, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Frederik", country: "Verified GetYourGuide review", rating: 5, date: "2026-02-04", text: "We had a Great full day tour! Our Guide Sachintha made sure that we get to see everything according to our wishes. We started early in the Morning with the Hindu Temple, visited the herbal gardens and then focused on Dambulla, Sigiriya and Polonnaruwa to have sufficient time at these places. Our personal highlight was the climb up to the Sigiriya rock. Such an amazing place and view from up there. Big thank you to Sachintha for making the most out of this tour for us including a super safe drive and delicious places for food! 🙏" },
+                { author: "Alex", country: "Verified GetYourGuide review", rating: 5, date: "2026-01-10", text: "Breathtaking full day tour across central Sri Lanka, we saw everything as promised and our amazing guide Sachintha took good care of us, showed us special places and answered all of our questions. Highly recommended" },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-27", text: "It was incredible! And Menuka is such a great guide! He drove so safely and carefully, always knew what was best, the best views, the best ideas. He immediately realised what our priorities were and adapted the tour accordingly to make it perfect. And gave us some amazing moments. Thank you !!!! And: stutiyi :)" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-pidurangala-and-a-jeep-safari-from-kandy-by-tuk-tuk") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Selin", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-16", text: "The day with Fernando was perfect. He fulfilled all our wishes and is a great and good-humored guy! The landscape is breathtaking - everything is full of forest! 😍 Please book this tour. It is a great experience to travel by tuk tuk from Kandy to Sigriya. Thank you very much." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-rock-and-dambulla-caves-day-tour-from-kandy-with-evening") {
+        return {
+            averageRating: 5.0, totalReviews: 7, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Ann-Katrin", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-28", text: "I had a wonderful day with Mohamed Nihlan. He took great care of me and also took great pictures of me everywhere. I highly recommend this agency. ;)" },
+                { author: "Charlotte", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-20", text: "Our favorite Rohitha has adapted to us. He's so kind, I recommend him. I'm traveling with my 12-year-old pre-teen. He's just perfect. He showed us a super cool elephant safari instead of going up Sigiriya because my son didn't want to. Thanks Rohitha for all your kindness and generosity towards us. I recommend it 100%." },
+                { author: "Michelle", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-19", text: "We really enjoyed our time today with Sacintha, our driver - a private tour to Sigiriya. Sacintha tailored our tour to our preferences and we were able to go at our own pace. He was very caring, ensuring we were comfortable the whole trip, checking in for washroom stops, water, food and comfort. he is a very safe driver and the ride was smooth and comfortable. we enjoyed our time at Sigiriya and Dambulla. Sacintha also made stops at other places of interest, including a stop for a roadside king coconut drink - a real authentic sri lankan experience 😊 We had good conversation and enjoyed our time today - Thanks Sacintha!" },
+                { author: "Gavin", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-09", text: "trip was by car which made my excursion much more comfortable. Rohi,my driver, was very informative and personable. would book again." },
+                { author: "Guilherme", country: "Verified GetYourGuide review", rating: 5, date: "2025-11-08", text: "We had the pleasure to have Sachintha as our guide for a day tour to Kandy and it was a great experience. He is very caring, tries to explain things along the way and was always happy to answer our questions and accomodating any requests." },
+                { author: "Emily", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-10", text: "Great experience overall. Brought us where we wanted to go and stopped for whatever we needed whenever we needed it. Very happy with our day" },
+                { author: "Laurent", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-08", text: "Nilanka is a very serious and friendly guide. The tour was extended to see other more distant sites at my request and for a very reasonable price. Everything went perfectly without any wasted time and in very pleasant conditions. I absolutely recommend it." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-rock-and-polonnaruwa-ancient-city-day-trip-from-kandy") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Jacqueline", country: "Verified GetYourGuide review", rating: 5, date: "2025-04-09", text: "We had a brilliant trip, thank you. Imran was our guide and driver. He was excellent; punctual, accommodating and interesting to talk with. We visited Polonnaruwa the morning and Sigiriya afternoon. Imran arranged our guides at each site ahead, it was all very smooth, hassle free. He was considerate in seeking our preferences about stop offs, where we had a tea or coffee on the way and return journey. The whole trip was very well organised and meant we saw a considerable amount in one day. Thank you! Jacqui and Joss" },
+                { author: "Alan", country: "Verified GetYourGuide review", rating: 5, date: "2025-03-17", text: "The day was super smooth throughout. Imran was one of the most pleasant drivers I've been with on any trip. We had some wonderful conversations, and I never felt rushed at any point. The tour guides who were arranged at Polonnaruwa and Sigiriya were great too, adding great context to both places. Imran is also very flexible to any request such as changing routes, stopping for food, etc. A wonderful day with memories to cherish." },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival") {
+        return {
+            averageRating: 4.9, totalReviews: 7, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Maria", country: "Verified GetYourGuide review", rating: 5, date: "2026-08-25", text: "⭐⭐⭐⭐⭐ A wonderful experience from Sigiriya to Kandy! This was so much more than just a transfer. My guide was absolutely fantastic, kind, friendly, patient and incredibly helpful. As I was travelling alone, I really appreciated how comfortable and safe he made me feel. We had great conversations and lots of laughs along the way. He even showed me around Kandy the next day, which made the experience even more special. By the end, it felt more like exploring Sri Lanka with a local friend than being on a tour. A warm and memorable experience. Highly recommended! ❤️🇱🇰" },
+                { author: "Franziska", country: "Verified GetYourGuide review", rating: 5, date: "2025-12-08", text: "It was a great experience. Sachintha has a pleasant driving style. We had nice conversations so time was flying. We had a great time and totally recommend it! Thanks a lot, Sachintha :)" },
+                { author: "Claudia", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-30", text: "My driver/guide Sachintha was super friendly and accommodating. We made a few stops along the way and he showed me a lot. He also drove very well, and I felt in good hands." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-10-04", text: "excellent day, really interesting and informative trip. Recommended." },
+                { author: "GetYourGuide traveler", country: "Verified GetYourGuide review", rating: 5, date: "2025-02-12", text: "Enjoyed the freedom of the trip. All activities were optional. The spice garden was my favourite!" },
+            ],
+        };
+    }
+
+    if (slug === "sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice") {
+        return {
+            averageRating: 4.5, totalReviews: 3, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Nina", country: "Verified GetYourGuide review", rating: 3, date: "2026-03-08", text: "We got from Sigiriya to Nuwara Eliya safely. However, based on the description, we were expecting a bit more from the trip. The spice garden is a bit of a rip-off. They explain a lot here, and you can buy the products afterwards for a lot of money. One drawback was that we were recommended weight loss pills 4-5 times... Plus, tipping is expected at several stops (which I hadn't anticipated beforehand). In the end, we saw the temple in Dambulla, the spice garden, the market in Kandy, the waterfall (from very far away), and the tea plantation. That was a real highlight, and a pack of tea cost around €7 here. Also, the tea cake was super tasty! Our driver was super friendly, but a bit reserved." },
+            ],
+        };
+    }
+
     return null;
 };
