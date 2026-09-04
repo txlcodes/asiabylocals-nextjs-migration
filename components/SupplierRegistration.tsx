@@ -62,7 +62,7 @@ export default function SupplierRegistration({ language = 'en', onClose }: Suppl
   const [individualActivities, setIndividualActivities] = useState<string>('');
   const [otherActivities, setOtherActivities] = useState<string>('');
 
-  // Account form fields (GetYourGuide-style)
+  // Account form fields (OTA-style)
   const [firstName, setFirstName] = useState<string>('');
   const [lastName, setLastName] = useState<string>('');
   const [email, setEmail] = useState<string>('');

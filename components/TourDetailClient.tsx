@@ -1630,7 +1630,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
                 {/* Left Column - Images & Details */}
                 <div className="lg:col-span-2">
-                  {/* Image Gallery - GetYourGuide Style: Main image left, 2 thumbnails right */}
+                  {/* Image Gallery - OTA-style: Main image left, 2 thumbnails right */}
                   {/* On a phone the old fixed 3-column / 500px-tall grid squeezed the
                       hero into a narrow portrait sliver and cropped faces in half. The
                       layout now stacks: a wide hero, then the thumbnails in a row
@@ -1753,7 +1753,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     </table>
                   </div>
 
-                  {/* Tour Options Section - GetYourGuide Style */}
+                  {/* Tour Options Section - OTA-style */}
                   {/* Show options - include main tour if it has group pricing */}
                   {(() => {
                     // Parse groupPricingTiers properly in render logic
@@ -2816,7 +2816,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       </div>
                     )}
 
-                    {/* Book Button - GetYourGuide Blue */}
+                    {/* Book Button - primary blue */}
                     <button
                       onClick={availabilityStatus === 'available' ? handleProceedToBooking : handleCheckAvailability}
                       disabled={availabilityStatus === 'checking'}
@@ -2954,7 +2954,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         {/* Verified badge — only truthful when every review is our own booking */}
                         {(() => {
                           const carried = getTourReviews(tourSlug)?.reviews?.some(
-                            r => r.country === 'Verified GetYourGuide review'
+                            r => r.country === 'Verified traveller review'
                           );
                           return (
                             <div className="flex items-center gap-2 text-sm font-semibold mb-6 pb-6 border-b border-gray-200">
@@ -3052,7 +3052,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   </div>
                                   <div>
                                     <div className="text-sm font-bold text-[#001A33]">
-                                      {review.author}{review.country && review.country !== 'Verified GetYourGuide review' && <span className="font-normal text-gray-500">&ndash; {review.country}</span>}
+                                      {review.author}{review.country && review.country !== 'Verified traveller review' && <span className="font-normal text-gray-500">&ndash; {review.country}</span>}
                                     </div>
                                     <div className="text-xs text-gray-400 font-semibold">{formatReviewDate(review.date)}</div>
                                   </div>
@@ -3358,7 +3358,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         )
       }
 
-      {/* Option Selection Modal - GetYourGuide Style */}
+      {/* Option Selection Modal - OTA-style */}
       {
         showOptionSelectionModal && tour && tour.options && tour.options.length > 0 && (
           <div

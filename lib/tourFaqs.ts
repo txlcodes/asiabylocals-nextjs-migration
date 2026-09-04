@@ -7045,7 +7045,7 @@ if (slug === "hong-island-boat-tour") {
       { question: 'How long is the tour?', answer: 'The tour runs 3 hours in the evening.' },
       { question: 'How much food and drink is included?', answer: 'You\'ll get 13 dishes across 5 stops plus 2 drinks — come hungry and pace yourself.' },
       { question: 'Is this a small group tour?', answer: 'Yes, it\'s designed as a small-group experience through downtown Osaka\'s backstreets rather than the main tourist strip.' },
-      { question: 'What makes this different from other food tours?', answer: 'The route focuses on hidden backstreet spots and local stories rather than the well-known tourist food streets, based on the tour\'s own description and its strong 5.0 rating on GetYourGuide.' },
+      { question: 'What makes this different from other food tours?', answer: 'The route focuses on hidden backstreet spots and local stories rather than the well-known tourist food streets, based on the tour\'s own description and its strong 5.0 traveller rating.' },
     ];
   }
 

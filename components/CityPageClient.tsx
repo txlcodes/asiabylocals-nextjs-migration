@@ -1506,7 +1506,7 @@ const CITY_DESCRIPTIONS: Record<string, {
   }
 };
 
-// Things to Do Section Component (GetYourGuide style)
+// Things to Do Section Component (OTA-style)
 interface ThingsToDoSectionProps {
   city: string;
 }
@@ -8244,7 +8244,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
-        {/* Filter Buttons Row - GetYourGuide Style */}
+        {/* Filter Buttons Row - OTA-style */}
         {sortedTours.length > 0 && (
           <div className="mb-6 flex items-center gap-3 overflow-x-auto pb-2">
             <button className="flex items-center gap-2 px-4 py-2 bg-white border border-gray-300 rounded-lg text-[14px] font-semibold text-[#001A33] hover:bg-gray-50 transition-colors whitespace-nowrap">

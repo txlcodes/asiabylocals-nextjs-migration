@@ -79,7 +79,7 @@ function stripMarkdown(text: string): string {
 // genuinely distinct tours (Vrindavan, photography, hidden-gems…) are NOT mapped.
 const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // Sri Lanka. Only one genuine clone so far: Nelum Holidays listed the same
-  // private Udawalawe day trip twice on GetYourGuide — both full day, both
+  // private Udawalawe day trip twice on the source platform — both full day, both
   // private, both max 6 — at $247 and $156. The cheaper page is the one a
   // reader should land on.
   //
