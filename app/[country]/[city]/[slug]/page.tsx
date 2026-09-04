@@ -87,6 +87,12 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // by title, but one is Private and the other Group. Different products.
   'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
     'udawalawe-elephant-safari-transit-home-private-day-trip',
+  // Second clone: Ranweli Tours lists the same private Yala day trip from Ella
+  // twice. Same operator, same park, same origin, same lead photo — only the
+  // stated duration and price differ ($286/8h vs $260/10h). Cheaper and longer
+  // wins the canonical.
+  'private-yala-national-park-safari-day-trip-from-ella-and-back':
+    'private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker',
   // sunrise intent → taj-mahal-sunrise-guided-tour
   'taj-mahal-sunrise-tour': 'taj-mahal-sunrise-guided-tour',
   'taj-mahal-sunrise-tour-experience': 'taj-mahal-sunrise-guided-tour',
