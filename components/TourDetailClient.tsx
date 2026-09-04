@@ -103,6 +103,19 @@ const sanitizeItineraryDuration = (dur: string | null | undefined): string | nul
   return null;
 };
 
+/** Sri Lanka and Hakone tours store detailedItinerary as a JSON array of timed steps
+ *  rather than markdown. True only when it actually parses into a non-empty array. */
+const isJsonItinerary = (raw: string | null | undefined): boolean => {
+  const t = (raw || '').trim();
+  if (!t.startsWith('[')) return false;
+  try {
+    const parsed = JSON.parse(t);
+    return Array.isArray(parsed) && parsed.length > 0;
+  } catch {
+    return false;
+  }
+};
+
 const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, country, city }) => {
   const [tour, setTour] = useState<any>(initialTour);
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
@@ -2174,7 +2187,37 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     <div className="mb-8">
                       <h2 className="text-2xl font-black text-[#001A33] mb-4">Detailed Itinerary</h2>
                       <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-                        {tour.detailedItinerary.split('\n').map((line: string, index: number) => {
+                        {/* Sri Lanka and Hakone tours were imported with the itinerary as a JSON
+                            array of {time,title,description} steps. Render those as a timeline
+                            instead of dumping the raw JSON on the page. */}
+                        {(() => {
+                          const raw = tour.detailedItinerary.trim();
+                          if (!raw.startsWith('[')) return null;
+                          let steps: Array<{ time?: string; title?: string; description?: string }> = [];
+                          try { steps = JSON.parse(raw); } catch { steps = []; }
+                          // Unparseable JSON falls through to the plain-text renderer below.
+                          if (!Array.isArray(steps) || steps.length === 0) return null;
+                          return (
+                            <div className="space-y-5">
+                              {steps.map((step, index: number) => (
+                                <div key={index} className="flex gap-4">
+                                  <div className="shrink-0 w-[68px] pt-[2px] text-[14px] font-black text-[#0066CC] tabular-nums">
+                                    {step.time || ''}
+                                  </div>
+                                  <div className="flex-1 border-l border-gray-200 pl-4 pb-1">
+                                    {step.title && (
+                                      <h3 className="text-[17px] font-black text-[#001A33] mb-1">{step.title}</h3>
+                                    )}
+                                    {step.description && (
+                                      <p className="text-[15px] text-gray-700 font-semibold leading-[1.8]">{step.description}</p>
+                                    )}
+                                  </div>
+                                </div>
+                              ))}
+                            </div>
+                          );
+                        })()}
+                        {!isJsonItinerary(tour.detailedItinerary) && tour.detailedItinerary.split('\n').map((line: string, index: number) => {
                           const trimmed = line.trim();
                           if (trimmed.startsWith('##')) {
                             const level = trimmed.startsWith('###') ? 'text-lg' : 'text-xl';

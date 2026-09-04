@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1007,
+    "tourId": 417,
+    "price": 55,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"55\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"55\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"52\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"49\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"46\"}]"
+  },
+  {
+    "id": 989,
+    "tourId": 408,
+    "price": 45,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"45\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"45\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"42\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"40\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"38\"}]"
+  },
+  {
+    "id": 991,
+    "tourId": 409,
+    "price": 30,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"30\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"30\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"28\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"27\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"25\"}]"
+  },
+  {
+    "id": 993,
+    "tourId": 410,
+    "price": 50,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"50\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"50\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"47\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"45\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"42\"}]"
+  },
+  {
+    "id": 994,
+    "tourId": 410,
+    "price": 50,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"50\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"50\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"47\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"45\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"42\"}]"
+  },
+  {
+    "id": 995,
+    "tourId": 411,
+    "price": 25,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"25\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"25\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"23\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"22\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"21\"}]"
+  },
+  {
+    "id": 996,
+    "tourId": 411,
+    "price": 25,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"25\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"25\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"23\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"22\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"21\"}]"
+  },
+  {
+    "id": 997,
+    "tourId": 412,
+    "price": 35,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"35\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"35\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"33\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"31\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"29\"}]"
+  },
+  {
+    "id": 999,
+    "tourId": 413,
+    "price": 55,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"55\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"55\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"52\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"49\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"46\"}]"
+  },
+  {
+    "id": 1001,
+    "tourId": 414,
+    "price": 60,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"60\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"60\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"57\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"54\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"51\"}]"
+  },
+  {
+    "id": 1002,
+    "tourId": 414,
+    "price": 60,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"60\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"60\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"57\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"54\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"51\"}]"
+  },
+  {
+    "id": 1003,
+    "tourId": 415,
+    "price": 85,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"85\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"85\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"80\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"76\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"72\"}]"
+  },
+  {
+    "id": 1005,
+    "tourId": 416,
+    "price": 40,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"40\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"40\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"38\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"36\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"34\"}]"
+  },
+  {
+    "id": 1009,
+    "tourId": 418,
+    "price": 60,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"60\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"60\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"57\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"54\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"51\"}]"
+  },
+  {
+    "id": 1011,
+    "tourId": 419,
+    "price": 55,
+    "groupPricingTiers": "[{\"minPeople\":1,\"maxPeople\":1,\"price\":\"55\"},{\"minPeople\":2,\"maxPeople\":2,\"price\":\"55\"},{\"minPeople\":3,\"maxPeople\":4,\"price\":\"52\"},{\"minPeople\":5,\"maxPeople\":6,\"price\":\"49\"},{\"minPeople\":7,\"maxPeople\":10,\"price\":\"46\"}]"
+  }
+]
