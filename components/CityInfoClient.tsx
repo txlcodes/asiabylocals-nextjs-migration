@@ -313,6 +313,16 @@ const KANDY_SIDEBAR = [
     { name: '2-Day Itinerary', slug: 'kandy-2-day-itinerary' },
 ];
 
+const SAPPORO_SIDEBAR = [
+    { name: 'Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-sapporo' },
+    { name: 'Sapporo Food Guide', slug: 'sapporo-food-guide' },
+    { name: 'Niseko & Hokkaido Ski', slug: 'niseko-and-hokkaido-ski-guide' },
+    { name: 'Otaru Day Trip', slug: 'otaru-day-trip-from-sapporo' },
+    { name: 'Getting Around', slug: 'getting-around-sapporo' },
+    { name: '3-Day Itinerary', slug: 'sapporo-3-day-itinerary' },
+];
+
 const TOKYO_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-tokyo' },
     { name: '3-Day Itinerary', slug: 'tokyo-3-day-itinerary' },
@@ -389,6 +399,12 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         kandy: KANDY_SIDEBAR,
         sigiriya: SIGIRIYA_SIDEBAR,
         'ella': ELLA_SIDEBAR,
+        galle: GALLE_SIDEBAR,
+        negombo: NEGOMBO_SIDEBAR,
+        'nuwara-eliya': NUWARA_ELIYA_SIDEBAR,
+        bentota: BENTOTA_SIDEBAR,
+        mirissa: MIRISSA_SIDEBAR,
+        sapporo: SAPPORO_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.
