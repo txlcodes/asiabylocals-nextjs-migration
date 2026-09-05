@@ -56,6 +56,21 @@ const COUNTRY_META: Record<string, {
       { name: 'Pattaya', slug: 'pattaya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098597/asiabylocals/tours/pattaya-coral-island-speedboat-tour-with-lunch-and-transfer/hq_tour_img_1.png', tagline: 'Islands & Coast Near Bangkok' },
     ],
   },
+  'sri-lanka': {
+    title: 'Sri Lanka Tours & Experiences | Local Guides Across Sri Lanka | AsiaByLocals',
+    description: 'Discover the best tours across Sri Lanka with licensed local guides — Kandy tea country, the Ella hill-country trail, Sigiriya rock fortress, Galle fort and Colombo. Authentic experiences with expert locals.',
+    cities: [
+      { name: 'Colombo', slug: 'colombo', image: '/colombo-hero.webp', tagline: 'Sri Lanka\'s Coastal Capital' },
+      { name: 'Kandy', slug: 'kandy', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375478/asiabylocals/tours/from-kandy-sigiriya-dambulla-and-polonnaruwa-day-tour/img0.jpg', tagline: 'Sacred Temples & Tea Country' },
+      { name: 'Ella', slug: 'ella', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462818/asiabylocals/tours/ella-bandarawela-or-haputale-to-yala-national-park-safari/img0.jpg', tagline: 'Hill Country & Nine Arch Bridge' },
+      { name: 'Sigiriya', slug: 'sigiriya', image: '/sigiriya-hero.webp', tagline: 'The Ancient Rock Fortress' },
+      { name: 'Galle', slug: 'galle', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462661/asiabylocals/tours/galle-to-ella-drop-tour-via-udawalawe-optional-safari/img0.jpg', tagline: 'Colonial Fort & Coastline' },
+      { name: 'Mirissa', slug: 'mirissa', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463066/asiabylocals/tours/mirissa-or-weligama-to-ella-drop-tour/img0.jpg', tagline: 'Whale Watching & Beaches' },
+      { name: 'Bentota', slug: 'bentota', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375894/asiabylocals/tours/from-bentota-kalutara-magical-journey-to-kandy-pinnawala/img0.jpg', tagline: 'River Safaris & Beach Resorts' },
+      { name: 'Nuwara Eliya', slug: 'nuwara-eliya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg', tagline: 'Little England in the Hills' },
+      { name: 'Negombo', slug: 'negombo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368898/asiabylocals/tours/wilpattu-national-park-full-day-safari-06-00-18-00/img0.jpg', tagline: 'Beaches Near the Airport' },
+    ],
+  },
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
