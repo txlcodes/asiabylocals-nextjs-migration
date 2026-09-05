@@ -80,18 +80,33 @@ export const viewport: Viewport = {
   themeColor: '#10B981',
 }
 
+// Shares the #organization @id with the Organization node in app/page.tsx so the
+// two merge into ONE entity instead of competing as two partial descriptions of
+// the same company — entity resolution is what decides whether an AI assistant
+// treats AsiaByLocals as a known brand or an unknown string.
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'TravelAgency',
+  '@type': ['Organization', 'TravelAgency'],
+  '@id': 'https://www.asiabylocals.com/#organization',
   name: 'AsiaByLocals',
+  legalName: 'TajTourGuide',
   description:
     'Authentic local tours and cultural experiences across Asia. Book tours with verified local guides in India, Japan, Thailand, Vietnam, Indonesia, Singapore, Malaysia, Philippines, Cambodia, Myanmar, Sri Lanka, Nepal, and Bangladesh.',
   url: 'https://www.asiabylocals.com',
   logo: 'https://www.asiabylocals.com/logo.png',
+  // Was addressCountry 'SG', which contradicted the registered office shown on
+  // /about-us and the Indian GSTIN below.
   address: {
     '@type': 'PostalAddress',
-    addressCountry: 'SG',
+    streetAddress: '118 Rani Bagh, Indirapuram',
+    addressLocality: 'Agra',
+    addressRegion: 'Uttar Pradesh',
+    postalCode: '282001',
+    addressCountry: 'IN',
   },
+  taxID: '09BPLPK5079QIZU',
+  email: 'info@asiabylocals.com',
+  telephone: '+91-9897873562',
   areaServed: [
     { '@type': 'Country', name: 'India' },
     { '@type': 'Country', name: 'Japan' },
@@ -107,10 +122,13 @@ const jsonLd = {
     { '@type': 'Country', name: 'Nepal' },
     { '@type': 'Country', name: 'Bangladesh' },
   ],
+  // sameAs is the entity-verification signal, so every URL here has to resolve.
+  // twitter.com/asiabylocals 404s — a dead profile weakens the claim rather than
+  // supporting it. Kept in sync with the list in app/page.tsx.
   sameAs: [
-    'https://www.facebook.com/asiabylocals',
     'https://www.instagram.com/asiabylocals',
-    'https://twitter.com/asiabylocals',
+    'https://www.facebook.com/asiabylocals',
+    'https://www.tiktok.com/@asiabylocals',
   ],
 }
 
