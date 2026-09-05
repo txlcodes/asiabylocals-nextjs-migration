@@ -31,3 +31,9 @@ npm-debug.log*
 *.db-journal
 server/dev.db
 server/dev.db-journal
+
+# Shadows the dynamic app/sitemap.ts (public/ wins in Next.js).
+# Deleted in 73d0912, silently resurrected by 5a2bb4e on 2026-09-04,
+# which cut the sitemap from ~800 URLs to 211 and dropped all of Japan
+# and Sri Lanka. Ignored so an unrelated `git add -A` cannot bring it back.
+public/sitemap.xml
