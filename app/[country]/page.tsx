@@ -71,6 +71,20 @@ const COUNTRY_META: Record<string, {
       { name: 'Negombo', slug: 'negombo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368898/asiabylocals/tours/wilpattu-national-park-full-day-safari-06-00-18-00/img0.jpg', tagline: 'Beaches Near the Airport' },
     ],
   },
+  // /nepal was 404ing while the sitemap submitted it and five Nepal city pages
+  // were live and indexable — every one of them orphaned from country level.
+  // Only the three cities that actually have approved tours are listed; Chitwan
+  // and Lumbini have zero, and linking to empty pages is worse than omitting
+  // them until there is supply with a verified operator contact.
+  nepal: {
+    title: 'Nepal Tours & Experiences | Local Guides in Kathmandu & Pokhara | AsiaByLocals',
+    description: 'Book Nepal tours with local guides — Kathmandu Valley temples and Durbar Squares, Pokhara lakes and Himalayan sunrise views, and the living heritage city of Bhaktapur.',
+    cities: [
+      { name: 'Kathmandu', slug: 'kathmandu', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786434365/tours/kathmandu/tours/kathmandu_1786434365409_0.jpg', tagline: 'Temples, Stupas & Durbar Squares' },
+      { name: 'Pokhara', slug: 'pokhara', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1781510067/tours/pokhara/tours/pokhara_1781510066430_0.jpg', tagline: 'Lakes & Himalayan Sunrises' },
+      { name: 'Bhaktapur', slug: 'bhaktapur', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787300675/tours/bhaktapur/tours/bhaktapur_1787300674673_0.jpg', tagline: 'Newari Heritage & Pottery Square' },
+    ],
+  },
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

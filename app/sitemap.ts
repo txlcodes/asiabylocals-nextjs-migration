@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
+import { REDIRECTED_SLUGS } from '@/lib/redirectedSlugs';
 
 const BASE_URL = 'https://www.asiabylocals.com';
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
@@ -379,5 +380,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  return [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
+
+  // Drop any URL whose last segment is a slug we 308 away from. Six of these
+  // were being submitted — /india/agra/agra-gatimaan-entry-ticket and friends —
+  // because the slug sat in both the redirect map and the hardcoded arrays
+  // above. Google asks you not to submit redirecting URLs: it wastes crawl
+  // budget and says "index this" while the server says "it moved". Filtering
+  // here means adding a redirect is enough; nobody has to remember this file.
+  return all.filter(entry => {
+    const slug = entry.url.split('/').pop() || '';
+    return !REDIRECTED_SLUGS.has(slug);
+  });
 }
