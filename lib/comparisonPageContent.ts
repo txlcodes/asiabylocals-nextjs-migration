@@ -74,6 +74,89 @@ export const COMPARISON_TABLE_DATA: ComparisonRow[] = [
     viator: 'Email & chat support',
     klook: 'In-app chat support',
   },
+  // The three rows below answer the comparisons that were drawing search
+  // impressions with nothing on the page to match them — food tours, day trips
+  // and family suitability. See HEAD_TO_HEAD below for why these are phrased as
+  // competitor-vs-competitor facts rather than only as claims about us.
+  {
+    feature: 'Food Tours',
+    asiabylocals: 'Run by the local guide you book — never resold',
+    gyg: 'Large catalog, largely resold from local operators',
+    viator: 'Large catalog, largely resold from local operators',
+    klook: 'Fewer — catalog skews to tickets & passes',
+  },
+  {
+    feature: 'Day Trips',
+    asiabylocals: 'Private, hotel pickup, timing you choose',
+    gyg: 'Wide selection, mostly fixed-schedule group departures',
+    viator: 'Wide selection, mostly fixed-schedule group departures',
+    klook: 'Strong in Asia, mostly group departures',
+  },
+  {
+    feature: 'Families & Kids',
+    asiabylocals: 'Private by default — pace and stops adapt to children',
+    gyg: 'Filterable, but group tours run to a fixed schedule',
+    viator: 'Filterable, but group tours run to a fixed schedule',
+    klook: 'Filterable; few private family options',
+  },
+];
+
+export interface HeadToHead {
+  question: string;
+  answer: string;
+}
+
+/**
+ * Direct answers to competitor-vs-competitor questions.
+ *
+ * The page is written as AsiaByLocals vs everyone, but the searches arriving on
+ * it ask the platforms about *each other* — "does Viator or Klook have free
+ * cancellation?", "does Klook or Viator offer more food tours?". Those readers
+ * want the comparison settled, not a pitch, so each answer leads with the
+ * factual comparison and only then says where we differ. Answering the question
+ * that was actually asked is also what makes a passage quotable.
+ */
+export const HEAD_TO_HEAD: HeadToHead[] = [
+  {
+    question: 'Does Viator or Klook offer more food tours?',
+    answer:
+      'Viator lists more food tours overall, because its catalogue spans 190+ countries. Klook carries fewer, and its strength is tickets, passes and transport rather than guided food experiences — though its Asia food coverage is competitive in major cities. The catch on both: most of those listings are resold from the same local operators, so the two platforms are frequently selling the identical walk under different names and different markups.',
+  },
+  {
+    question: 'Does GetYourGuide or Viator offer more food tours?',
+    answer:
+      'The two are close. GetYourGuide lists over 300,000 activities worldwide and Viator a comparable catalogue, and in most cities their food tours come from the same underlying operators. Choosing between them on food-tour count is close to meaningless; the more useful question is whether you are booking the operator or a reseller.',
+  },
+  {
+    question: 'Does Viator or Klook have better day trips?',
+    answer:
+      'Viator has the wider global selection; Klook is stronger across Asia, particularly for transport-inclusive trips in Japan, Korea and Southeast Asia. Both run mostly fixed-schedule group departures, so the trade-off is not selection but flexibility — a private day trip departs when you want and can be cut short or extended, which a coach departure cannot.',
+  },
+  {
+    question: 'Do Viator and Klook have free cancellation?',
+    answer:
+      'Viator offers free cancellation up to 24 hours before on most bookings. Klook is less consistent: many Klook bookings, especially tickets and passes, are marked non-refundable once confirmed. Check the specific listing on Klook rather than assuming. AsiaByLocals offers free cancellation up to 24 hours before on every booking.',
+  },
+  {
+    question: 'Which has a better refund policy, Viator or GetYourGuide?',
+    answer:
+      'Their policies are near-identical: free cancellation up to 24 hours before on most bookings, with refunds processed in 5–10 business days. Klook is the slowest of the three at 7–14 business days. The differentiator is speed rather than terms — AsiaByLocals processes refunds in 1 business day.',
+  },
+  {
+    question: 'Which has better customer support, Viator or GetYourGuide?',
+    answer:
+      'Both run centralised email and chat support with no local presence in most Asian cities, so a problem on the ground in Agra or Bangkok is handled from a call centre in another timezone. Klook offers in-app chat with the same limitation. This is the clearest gap in the OTA model: AsiaByLocals puts you in direct WhatsApp contact with the operator running your tour.',
+  },
+  {
+    question: 'Are Viator tours more expensive than GetYourGuide?',
+    answer:
+      'Prices are broadly similar because both charge operators a 25–30% commission, and operators raise their listed prices to absorb it. Klook sits slightly lower at 20–25%. Differences you see on a specific tour usually come from the operator, not the platform. The saving comes from cutting the commission layer, not from picking between the two.',
+  },
+  {
+    question: 'Which platform is best for families with kids?',
+    answer:
+      'All three let you filter for family-friendly activities, but nearly all of those are group departures on a fixed schedule — which is the thing most likely to go wrong with young children, because you cannot slow down, skip a stop, or leave early. A private guided tour is the more reliable format for families, regardless of which platform you book it through.',
+  },
 ];
 
 export interface PlatformReview {

@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import ComparisonPageClient from '@/components/ComparisonPageClient';
-import { FAQ_ITEMS } from '@/lib/comparisonPageContent';
+import { FAQ_ITEMS, HEAD_TO_HEAD } from '@/lib/comparisonPageContent';
 
 export const metadata: Metadata = {
   title: 'Best GetYourGuide & Viator Alternative for Asia | AsiaByLocals',
@@ -55,7 +55,7 @@ const articleSchema = {
     },
   },
   datePublished: '2026-03-20',
-  dateModified: '2026-03-20',
+  dateModified: '2026-09-06',
   url: 'https://www.asiabylocals.com/getyourguide-viator-alternative',
   image: 'https://www.asiabylocals.com/og-image.jpg',
   mainEntityOfPage: {
@@ -64,10 +64,13 @@ const articleSchema = {
   },
 };
 
+// HEAD_TO_HEAD is included so the competitor-vs-competitor answers are
+// machine-readable too. Both sets render visibly on the page, which is what
+// Google's FAQPage guidelines require.
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: FAQ_ITEMS.map((item) => ({
+  mainEntity: [...HEAD_TO_HEAD, ...FAQ_ITEMS].map((item) => ({
     '@type': 'Question',
     name: item.question,
     acceptedAnswer: {

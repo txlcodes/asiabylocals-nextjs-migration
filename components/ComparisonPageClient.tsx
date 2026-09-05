@@ -28,6 +28,7 @@ import {
   REDDIT_QUOTES,
   PRICE_COMPARISONS,
   FAQ_ITEMS,
+  HEAD_TO_HEAD,
   INTRO_TEXT,
 } from '@/lib/comparisonPageContent';
 
@@ -210,6 +211,30 @@ export default function ComparisonPageClient() {
                     </span>
                   </div>
                 </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Head-to-head answers. Rendered open rather than in an accordion: these
+          answer the comparisons people actually search for, and a passage has to
+          be readable on the page to be worth quoting. */}
+      <section className="py-12 md:py-16 px-4 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-black text-center mb-3 text-gray-900">
+            GetYourGuide vs Viator vs Klook, Head to Head
+          </h2>
+          <p className="text-gray-500 text-center mb-10">
+            Straight answers to the comparisons people ask most — including where
+            the honest answer is that it barely matters which one you pick.
+          </p>
+
+          <div className="space-y-8">
+            {HEAD_TO_HEAD.map((item, i) => (
+              <div key={i}>
+                <h3 className="font-bold text-gray-900 mb-2">{item.question}</h3>
+                <p className="text-gray-600 leading-relaxed">{item.answer}</p>
               </div>
             ))}
           </div>
