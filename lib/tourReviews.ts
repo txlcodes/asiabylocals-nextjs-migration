@@ -12334,5 +12334,241 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- NEW JAPAN TOURS (2026-09) ---
+
+    if (slug === "tokyo-shinjuku-sumo-show-ring-challenge") {
+        return {
+            averageRating: 4.8, totalReviews: 7988, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Ethan", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Excellent, they taught me some history about sumo wrestling and all the staff and sumo\u2019s were extremely friendly and welcoming, can\u2019t recommend them enough :)" },
+                { author: "Candice", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "The show was extremely entertaining! We learned so much about sumo wrestling. Dai was extremely knowledgeable & engaging with the audience for the entirety of the show. This show has been one of the highlights of our trip." },
+                { author: "Romain", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Very good experience! Thanks Jasmine and Izzy for the explanation, very interesting." },
+                { author: "Antonio", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Enjoyed the entire show Izzy was phenomenal host! I highly recommend 10/10 experience! If you\u2019re coming to Tokyo Japan i definitely recommend going here!!" },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Aito and Izzy were fantastic hosts and the sums were so great!!" },
+                { author: "Shikhar", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Excellent show! Izzy and Aito were great hosts and MCs. Both the wrestlers were great and it was a superb show." },
+                { author: "Rodney", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Fantastic! Team Shane and Jasmine were amazing. We had a blast. Very entertaining show. So happy that we did it." },
+                { author: "Bryan", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "The show was great. Awesome experience! Jasmine Shane and the crew was top notch! Extremely recommend." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shinjuku-evening-food-walk-four-eateries") {
+        return {
+            averageRating: 4.9, totalReviews: 3388, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Elena was fantastic. We got to experience several bits and pieces from several corners of Shinjuku and discover items we wouldn\u2019t have usually ordered." },
+                { author: "Claudia", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Out guide Lloyd was super! He explained everything very well and had alot of interesting information about Tokyo and the food that we didn't know about before the tour. We also tried alot of food that we hadn't tried before." },
+                { author: "Justine", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "My sister & I had the best time on this food tour! We are so glad we did it at the beginning of our Japan adventure. We got to explore so many cool spots in Tokyo and try so many unique and delicious foods that we otherwise would have missed out on. It was worth every penny. I can\u2019t say enough about how amazing Naomi was as our tour guide. She made us feel so comfortable and looked after and added so much to our experience! She was extremely knowledgeable, personable and fun to be around. If you are looking for good food, sight seeing and a great time, definitely book this tour - such a stand out experience!" },
+                { author: "Bill", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Naomi was our guide and she did a fantastic job. She did not let a rainy evening stand in the way of ensuring everyone had a fun and engaged experience. She has a great personality for giving tours and we had a wonderful experience visiting/eating at locations we likely would not have otherwise. Thanks for a fun night!" },
+                { author: "Seth", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Theo did an amazing job as our tour guide! He was incredibly friendly, knowledgeable, and just genuinely fun to spend time with. He made the tour enjoyable from start to finish, and his restaurant recommendations were fantastic. We had such a great experience and would definitely recommend Theo to anyone looking for a great tour guide!" },
+                { author: "Judy", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We had a great time tonight Naomi was a great tour guide and very informative. We had a lovely group of people with us and would definitely recommend this tour, we tried things we wouldn\u2019t normally have tried and went down streets we wouldn\u2019t have gone down it was excellent 10 out of 10" },
+                { author: "MELONIE", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Matheus was a great guide. Knowledgeable and engaging. It was a lot of food with local landmarks and neighborhood highlights." },
+                { author: "Jens", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Kai was a very friendly guide, explained a lot about the dishes and the places we went. We had a lot of fun and good food :)" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shibuya-sumo-show-five-daily-times") {
+        return {
+            averageRating: 5.0, totalReviews: 1090, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Melanie", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Incredible show, the Sumos were so lovely & entertaining, the host was amazing. I loved the intimate vibe of the whole experience. Would highly recommend" },
+                { author: "Tobias", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "This was an amazing show! Everything from the staff down to the wrestlers were amazing I would highly recommend if you want a good Japan culture experience" },
+                { author: "Aleksandra", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Such an amazing experience! If you are looking for some sumo show with great hosts and amazing warriors you have to come to this place. Such wonderful vibes!" },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Great experience hosted by an enthusiastic Keiji. The sumo wrestlers Hiro and Koji showed us the dos and don'ts of sumo in an atmospheric setting." },
+                { author: "Zaynah", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Keiji and Kristin provided a fantastic show and experience, very funny and informative! I booked 10 mins . Thanks again" },
+                { author: "Eric", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Keiji and Kristin were absolutely amazing hosts of the Show! Entertainment at its best! Lots of love to both of them and their Staff! And of course the Main Actors: the Sumo Wrestlers!" },
+                { author: "Phuong Quynh", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Such an entertaining show. Kristin and Keiji were amazing hosts. I learned a lot about sumo wrestling. George and Guchi were great." },
+                { author: "Mar\u00eda Puerto", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Theo and Dai were great hostess and the show was very enjoyable. They made it very fun and we learned a lot. The Sumo were great and we really enjoyed the show. Thank you!" },
+            ],
+        };
+    }
+
+    if (slug === "hiroshima-miyajima-day-trip-from-tokyo-shinkansen") {
+        return {
+            averageRating: 5.0, totalReviews: 22, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Dirk", country: "Verified traveller review", rating: 5, date: "2026-06-10", text: "Too much time spent at the temple island. Could cut it by 30 minutes" },
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "We loved the organisation of the whole tour. Yes our Shinkansen tickets arrived and everything was on time. Our guide was Alex/ Alejandro and driver Ito. Safe and clean bus and very informative tour with respect around the shrines and cenotaph." },
+                { author: "Gavin", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "was a great trip with Angeles(hope spelt right)very informative .Though srcond time too Hiroshima learnt some things by having a tour guide. I think the instructions arriving at Hiroshima a little confusing ie north end and could not find bus station till we asked information.a great informative day with great weather. Angeles had plenty of time for a chat also." },
+                { author: "Diego", country: "Verified traveller review", rating: 5, date: "2026-04-20", text: "The day trip was excellent! The guide Jorge did an exceptional job along with the bus driver Mori Yama. It was well organized and amigo tours booked the bullet train for me which was convenient. Highly recommend amigo tour to anyone!" },
+                { author: "Ranjan", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "The tour was flawlessly organised. The bullet train tickets came to my mailbox as scheduled. The meeting place instructions were clear. During the trip relevant instructions was sent over WA and it overall gave a feeling of a very well organised arrangement. The point of the trip was quality of tour guide Angela. She was brilliant- one of the best guides I have experienced. She made the overall tour lively and the Peace Memorial experience real with her very humane commentary. Well done Angela." },
+                { author: "Jak-lyn", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "Jorge and Ooe were amazing! I highly recommend this tour as a day-trip to Hiroshima. It went to every place I wanted to go with adequate time at each stop and clear instructions with how to meet back up after free times. I\u2019ve been on multiple tours, and I have to say this one was my favorite." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shibuya-highlights-walk-hidden-viewpoint") {
+        return {
+            averageRating: 4.9, totalReviews: 687, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We had an amazing time on our tour! Our guide Ayala was so knowledgeable, friendly, kind and patient with all of my questions. There is no way I would have been able to navigate the area and visited so many hidden spots. Highly recommend!" },
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "It was a shame we started late due to a guest getting lost as it was raining and we felt we were playing catch up a little bit. However- it was very informative. Ayaka clearly knew her stuff and was very engaging She offered to help us if we needed any assistance with anything else." },
+                { author: "Valerie", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "I was lucky enough to have Hiyori as a tour guide. She knows Shibuya well and took me to areas which I would never have experienced as a solo traveler. I will definitely recommend her!" },
+                { author: "Christophe", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "The tour was fantastic!! Hiyori was very very friendly, open to questions and kind with us! We learned a lot about the place and, more importantly, the food!! Thank you so much for this amazing opportunity (:" },
+                { author: "Morag", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Excellent tour. Our Guide gave a fantastic insight into Japanese life and culture. Highly recommend." },
+                { author: "Zofia", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "We had an amazing time, our guide Hiyori was super friendly and had a lot of interesting information to share, along with great recommendations for food, shopping and other attractions. Highly recommended!" },
+                { author: "Georg", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Hiyori was just such an amazing tour guide which did a fantastic and super engaging tour through Shibuya. Including super recommendations for local restaurants and bars. Must do when you are in Tokio" },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Hiyori was a amazing guide and explained everything extremely properly would recommend!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shibuya-food-walk-thirteen-dishes") {
+        return {
+            averageRating: 4.8, totalReviews: 287, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Ivo", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Hoshi was a great guide. So full of energy, funny, interested in other cultures. Love it. The food was also so good, so many different stuff we dont have in germany, I wish I could get take it with me. \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059" },
+                { author: "Hugo", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Jasmine, my tour guide, was great! I ended up having a private tour, as there were no other guests, and Jasmine was super friendly and informative all the time. And the food choices were great!" },
+                { author: "Amy", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Mike did a great job showing me around. She answered all my questions and took me to 3 great places. and now because my hotel is close, I know where to go!" },
+                { author: "Tanya", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "Miko was a nice guide and very friendly. We had good conversation and the tour was very nice." },
+                { author: "Ryan", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "Tour was great! Kei was an incredible tour guide and a wealth of culinary knowledge. He was kind and knowledgeable!" },
+                { author: "Raul", country: "Verified traveller review", rating: 5, date: "2026-06-06", text: "Kei and yura were great. Food was delicious and tour was great. Explained everything and very knowledgeable. Gave great recommendations and helped us out a lot." },
+                { author: "Kimberly Rraine", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "Liked the time in between food places, walking and seeing the city. the variety of food was great - like going to different restaurants instead of just one. the tour guide, Oshi, was wonderful." },
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "Fantastic food, went to places we would never have found on our own" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-yakatabune-houseboat-cruise-sukiyaki-shamisen") {
+        return {
+            averageRating: 4.7, totalReviews: 1280, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Sharlene", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Really good time on Tokyo Bay! We booked this cruise and absolutely loved it. It was incredibly fun from start to finish. The traditional entertainment was a blast and kept everyone smiling, and the sukiyaki dinner was delicious. Getting to see the city lights and the Rainbow Bridge from the water made it even more special. Highly recommend!" },
+                { author: "Patrica", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "It was a perfect evening!! The dinner was really nice and our guide Karen was so lovely! We had a wonderful visit while listening to folklore songs. We learned a lot about traditional folklore song with Ibiki \ud83e\udd17\ud83e\udd29" },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "This was so much fun! The guide was amazing and very kind. We had a very small cruise (only 3 people) and Christine made it immersive and fun. The tour was informative, and the food was delicious. Midori's music was incredible and it was great to be able to sing and dance along! Definitely recommend!" },
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "We had such a wonderful experience on the Tokyo boat cruise! The staff were incredibly friendly, welcoming, and knowledgeable. They did a great job explaining the different attractions we saw along the way, including the meanings and symbols behind the landmarks, which made the experience even more interesting and memorable. The performances were also really enjoyable and added a special touch to the cruise. The dinner was delicious, and overall, everything was very well organized. We truly enjoyed the experience and would definitely recommend this cruise to anyone looking for a fun and memorable way to see Tokyo!" },
+                { author: "Isaac", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Amazing, the dinner was amazing, just a warning to everyone it\u2019s a lot of delicious food so don\u2019t eat anything at noon so you can enjoy and eat everything." },
+                { author: "Esmeralda", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "It was a wow experience for me and my daughter. The welcoming Karen( guide) was so lovely and friendly. She was giving a knowledgeable information about traditions and a bit of history which was very helpful and Karen was guiding us and helping taking lovely pictures. The Sakura decorations on the boat were really giving that warm feeling. The entertainment Midori was great taken us into the Japanese atmosphere. The food was good experience to cook and it was yummy. Overall it was an excellent trip and we would definitely recommend it to others. Thank you to everyone who made this trip experience unforgettable." },
+                { author: "Janessa", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "It was amazing! Karen and Mindori were great!! We had so much fun! Great experience and highly recommend" },
+                { author: "Gabriela", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "It was beautiful! I expected just a regular ship, but it was very different. you sit inside at floor level and there's space under the tables for your legs (like to sit regularly) try to sit on the hall side of you wanna make use of the unlimited soft drinks. the live music was beautiful and we stopped to see the Tokyo Aqua Symphony. It was spectacular. I recommend bringing a phone stabilizer of you have one in case you want to record. the food was delicious. the meat was wonderful and so was the miso soup and the desert was a nice final touch. The staff was very sweet and spoke to me in Japanese even though my skills were lacking. Truly wonderful experience." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-sumo-morning-practice-training-stable") {
+        return {
+            averageRating: 4.9, totalReviews: 92, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Kawa san explained everything very well and answered our questions competently. It was amazing to get so close to real sumo ringers and learn about their life etc." },
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Our guide Yuki made this experience even better than I hoped for. He was clearly a sumo fan himself and was very knowledgeable. Would definitely recommend to anyone looking for some insight into an ancient cultural aspect in of Japan." },
+                { author: "Victoria Marquis", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Our guide Kawa was very knowledgeable and welcoming. It was great to see Sumo wrestlers just going about their training sessions, it really is incredible to watch. We had questions after and Kawa was happy and able to answer all of them. I would highly recommend this activity." },
+                { author: "Bryan", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "We had a lot of fun visiting a sumo stable with our guide, Kawa. Kawa is very knowledgeable about sumo and was able to explain the sport and answer our many questions. This is a unique opportunity to access a sumo stable, get close to the wrestlers, and watch them train and spar. You won\u2019t see this outside of Japan. Highly recommend!!!" },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Excellent tour. It felt genuinely authentic being an actual practice session at a Sumo stables. Our guide Kawa was brilliant and gave us an excellent primer on sumo wrestling and training beforehand which really helped us get the most out of our visit. Highly recommend," },
+                { author: "Marcin", country: "Verified traveller review", rating: 5, date: "2026-06-23", text: "It was a truly unique experience, one that would be hard to surpass in terms of authenticity. Huge credit to the athletes, the Master, and the stable for sharing such a fascinating glimpse into their world. Anthony was an outstanding guide\u2014knowledgeable, engaging, and passionate. His introduction and the follow-up Q&A added valuable background and context, making the entire morning even more enriching and memorable. Thank you Anthony from Marcin with the family!" },
+                { author: "Serena", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "Amazing, it was more than expected. The knowledge shared and the practice made me appreciate it even more!" },
+                { author: "Ioannis", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "Absolutely unique as an experience. If you are visiting Japan you should get to see sumo athletes fight their hearts out even in training. Mao was great as a guide." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-harajuku-japanese-denim-jeans-workshop") {
+        return {
+            averageRating: 4.7, totalReviews: 58, guideRating: 4.9, valueRating: 4.6,
+            reviews: [
+                { author: "Cassandra", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Such a fun experience! The staff is very helpful and allow you to design your jeans in whatever way you want." },
+                { author: "maverick", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Phenomenal experience, very fun and you can do custom embroidery. If you\u2019re into fashion this is a very cool thing to do." },
+                { author: "Ryan", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "They were kind and detail focused, helping you understand the each step while going over, and you have plenty of freedom to make the pair your own. Much recommended, especially to go home with a pair you complete with them." },
+                { author: "Sinead", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "What an amazing experience! Sachi helped me throughout the process and was wonderful. She was so patient and personable and made the experience so fun. I\u2019m so excited for my jeans!" },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "Such a fun and unique activity to do while in Tokyo! If you want a customized pair of denim jeans, this is a great place to do it!" },
+                { author: "Lizbeth", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Sally is a lovely guide! The girls explain the process in great detail and talk you through how to assemble and choose your rivets and buttons. Definitely great value and a really unique experience! Great souvenir for your Japan trip! Come back a few days later to pick up your Jeans, so be sure to do at the beginning of your Tokyo stay!" },
+                { author: "Vivian", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "This experience was amazing for my teenage daughter. Sachi was very kind and explained everything throughly to her. Highly recommended." },
+                { author: "Jared", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "I always wanted a pair of Japanese denim and it was really cool to be able to have a hand in the design. Ryo was very helpful! I had no idea what I was doing but he made sure I was set!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-night-photo-tour-shibuya-sky-shinjuku") {
+        return {
+            averageRating: 4.8, totalReviews: 9, guideRating: 4.8, valueRating: 4.8,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Hadise was really great. Exceptionally patient, knowledgeable and very kind. She took us on a great walk, giving us the history of the area as well as tips for Tokyo. Exceptionally friendly and professional. My sister and I really enjoyed the walk. (Including the madness of Don Quixote store). Thank you so much for making it a super special evening Hadise!" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Yuka was a wonderful tour guide and made the trip really entertaining for the whole family. She was great with the two children as well as the adults and made sure they felt like part of the excursion. We were unlucky with the rain for the Shibuya Sky Views but still had a fantastic tour. We have even been given some great tips for other sights and restaurants during our stay. I really cannot speak highly enough about this trip and it was well worth the time during the holiday. Thank you so much!" },
+                { author: "Paula", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "An exceptional tour during which our guide, Keinan, showed us interesting spots near Shibuya. The most spectacular view was from a rooftop in Shibuya, where the city lights left a lasting impression on us. Keinan impressed us with his passion for travel and inspired us to explore new destinations. I highly recommend him! I hope he delights other tourists just as he delighted us-and with exceptional photos, too!" },
+                { author: "Giada", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "It was a really beautiful and interesting experience. We went up to the Shibuya Sky observation deck, where you can see Tokyo\u2019s most famous crossing, and we took photos from every angle. We then visited the largest business district in the world and walked to the giant Godzilla head, passing through the colorful streets along the way. Meanwhile, we chatted and joked with our guide, who took us to some characteristic local places to have a drink together at the end of the evening. We really enjoyed the experience and highly recommend it!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-full-day-bus-tour-bamboo-grove-golden-pavilion") {
+        return {
+            averageRating: 4.7, totalReviews: 761, guideRating: 4.7, valueRating: 4.7,
+            reviews: [
+                { author: "Joanna", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "Very good trip. We had wonderful time with Cesear and his stories. It is good that bamboo forest is first as there is less people around 8am. In each place we had enough time to explore the site. We got also few recommendations for the lunch which was very helpful. It and very good day!" },
+                { author: "Ed", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "The tour guide Marie or Maria from Chili was very good. The tour was good a bit expensive, nice bus!" },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "It was a fantastic day. Thanks to Caesar, Ikeda-san and Amigos for the amazing trip. Caesar\u2019s language skills in English, Spanish and Japanese is phenomenal, and local knowledge was excellent. Thank you!" },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "Ceasar was very knowledgeable and gave us good information about the history and culture of Kyoto and Japan. The places we visited were excellent examples of the best of Japan." },
+                { author: "Katharine", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "We had an incredible time, our guide Heli was so knowledgeable and made it such a fun day. We never would have been able to see all the things we did without the tour! Ikeda was an amazing driver and got us everywhere safely!" },
+                { author: "Brandon", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "The tour guide, Caesar, was Fantasti; he made sure to explain and guide us well. Do know that the lunch is towards the end of the tour to be prepared for that." },
+                { author: "Josh", country: "Verified traveller review", rating: 5, date: "2026-04-02", text: "Well organised and you see a huge amount in one day. Angeles our tour guide was helpful and informative and ran the day well. N.B. it is better to do the option with tickets included unless you are going to be organised and book your own in advance as otherwise there is a risk that you lose the group while you are queuing for tickets." },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "This was a great way to see a lot of the major Kyoto sights. Angeles was a font of knowledge and made the day fun. The bus was comfortable and we never were on it long. The time flew by. Just do it!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-nijo-castle-small-group-guided-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 175, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Nicolae", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "The tour was very interesting, the guide Aye was very good in explaining secret details of the castle and funfacts about the Shogun! The visit was principally focussed to unravel the castle and its interesting details, rather than a typical history visit." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Masa was an amazing, insightful guide for the tour. He had a clear passion and knowledge about both the castle itself, architecturally and historically which showed throughout the whole tour. No question ever felt wrong to ask, and he always delivered the a gracious answer. Technically the tour went a bit longer than advertised, but I had no problem with that as it only meant more of a chance to absorb knowledge about this rich history." },
+                { author: "Ma Elma", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Tomoya is one of the best tour guide we've ever meet. He make the tour enjoyable despite the hot weather He is knowledgeable and share with us lots of information." },
+                { author: "Kristian", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Incredibly beautiful place, that definitely benefits from a guided tour. Our guide Tomoya really enhanced the experience by giving us the historical context and showing us the incredible amount of symbolism built into every nook and cranny of the castle. Loved it!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "Tomoya was a great guide. He provided a lot of insights and answered all of our questions." },
+                { author: "Joseph", country: "Verified traveller review", rating: 5, date: "2026-07-09", text: "This tour was excellent. While you could make a lap of the castle self guided, Kris did an amazing job adding context to the building, time period, and the politics. Hearing the explanations of subtextual meanings in some of the artwork is something that made the tour well worth the money." },
+                { author: "Jeremiah", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "Tomayo was an amazing guide and made the castle really come to life. Highly recommend" },
+                { author: "Kellyn", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "We had a fantastic tour of Nijo Castle and our guide, Kris, was outstanding! He was very knowledgeable about the history and it made for one of our favorite tours of our time in Japan. We would HIGHLY recommend and will likely be back!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-arashiyama-chopstick-making-workshop") {
+        return {
+            averageRating: 4.9, totalReviews: 205, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Saoirse", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Got caught by the rain in Arashiyama, so we ducked into this chopstick-making workshop \u2014 and it turned out to be the highlight of our day! Warm, calm, and totally hands-on. Our friendly host Utako walked us through every step, and even the kids got right into shaping and smoothing their own chopsticks. They wrapped them up beautifully too, so we've got a little souvenir that actually reminds us of the fun (not just the downpour!). Perfect way to turn a rainy day around. Highly recommend!!!!" },
+                { author: "Nikos", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Great experience overall. The instructors did a great job. They were very friendly and helpful. We left with a beautiful pair of chopsticks. The only downside I found was that the all the extras (different wood selection, engraving) were really overpriced." },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Really engaging! Fantastic guide and brilliant chopsticks!! So glad we did this!!" },
+                { author: "Mariko", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "It was also great to be able to enjoy a one-hour workshop while sightseeing in Arashiyama. Making something myself that I can keep as a souvenir and a special memory of my trip made the experience even more meaningful. I would definitely recommend it!" },
+                { author: "Arisa", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "I had a wonderful time making my own personalized chopsticks. The guide was very kind and explained everything clearly, which made the experience even more enjoyable. I highly recommend this experience! Thank you very much." },
+                { author: "cecilia", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Very enjoyable. Perfectly suited for all ages. and a great break from the scorching warm of the period." },
+                { author: "Salma", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "We really liked the activity. Me and my brother thought the staff were really kind! We would highly recommend this activity :)" },
+                { author: "Jonas Rotband Berenstein", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Mitchel and Win did an amazing job with us. A very enriching and fun experience. I highly recommend them!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shibuya-night-walk-sky-deck-miyashita-park") {
+        return {
+            averageRating: 4.7, totalReviews: 149, guideRating: 4.9, valueRating: 4.5,
+            reviews: [
+                { author: "Adam", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Marin was amazing, for the amount we paid it was well worth getting a guide to explore Shibuya, if we rocked up alone we would have been a bit lost and wouldn\u2019t have seen as much." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We really enjoyed the tour. Our guide Hibiki was excellent, very knowledgeable and friendly, a really enjoyable evening." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Our trip with Daisuke was an absolute blast. He eeakky Making the event a true highlight. I would easily recommend anyone to book this." },
+                { author: "Danny", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Our activity was great! Our guide, Maho was excellent. She was very knowledgeable and answered all our questions and is a very cheerful and nice person to be around with!!" },
+                { author: "Desiree", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Hibiki was incredible, she brought us to the hotspots in Shibuya. We made friends quickly, she was patient, lind, knowledgeable, and funny. I would definitely recommend her" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Thatcher was a very thoughtful and sweet guide. We learned a lot about Shibuya and enjoyed a beautiful view at Shibuya Sky. The tour was well planned and definitely worth the money to get a sneak peak into Shibuya\u2018s nightlife." },
+                { author: "Courtney", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "She was very nice and adjusted the tour to what we wanted to see" },
+                { author: "Damian", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "An amazing experience! My guide, a Japanese gentleman in his 70s, had more energy and better stamina than I did! \ud83d\ude04 He met me at the famous Hachik\u014d statue and took me on a fantastic walking tour all around Shibuya. We visited places I would never have found on my own, and he shared many interesting stories about the area. He was incredibly kind, friendly, and passionate about showing his city. At the end, he even wanted to walk me all the way to the subway station, but I finished my evening a bit earlier and headed back on my own. I highly recommend this tour to anyone visiting Tokyo. Thank you for making my first visit to Shibuya so memorable!" },
+            ],
+        };
+    }
+
+    if (slug === "nikko-day-trip-from-tokyo-toshogu-kegon-falls") {
+        return {
+            averageRating: 4.6, totalReviews: 2287, guideRating: 4.7, valueRating: 4.4,
+            reviews: [
+                { author: "Eireen", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Nikko was one of the highlights of our trip. Perfect getaway from the busy city of Tokyo" },
+                { author: "Deni", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Melody was amazing, she showed us and explained us everything. Tour 100% recommended." },
+                { author: "Ana\u00efs", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Thanks to Melody and Osa for this amazing experience ! We have seen beautiful places, had a lot of explanation and the rythm was really confortable \ud83d\ude42" },
+                { author: "Markus", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Our tour with Melody was great. She gave us a friendly, well\u2011organized Nikko tour." },
+                { author: "Angela", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Th guide was superb lots of information in both Spanish and English very informative. Lovely places to visit" },
+                { author: "Gregg", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Great trip with a super friendly guide. We left from Ginza then headed straight for Nikko and what a sight to behold. A great day out I will never forget." },
+                { author: "Valentina", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Our guide Jorge was fantastic, and our driver, Eto-san was equally great. Jorge was super knowledgeable, friendly, and approachable, and he made the experience very enjoyable and engaging. The destinations were beautiful and well worth visiting!" },
+                { author: "Dietmar", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "I actually don\u2018t know where to start, i mean we had defenitly the BEST tourguide all over the word, OTA JORGE AND HIS DRIVER you gave us some many informative information about Japan and about its history about the shreines we visited! You made a souvenir out of a guided tour that I will carry with me for a long time You immediately notice that you don't just show sights - you let people really experience a place Your way of telling has brought this place to life for me. Without you it would have been a beautiful place \u2013 with you it became a story Thank you so much , all the best dor you guys and your family \u2764\ufe0f\u2764\ufe0f" },
+            ],
+        };
+    }
+
     return null;
 };

@@ -8373,5 +8373,185 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-shinjuku-sumo-show-ring-challenge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Up to 70 people." },
+      { question: "Where does it start?", answer: "Sekisaku Building 2F, 2-5-22 Okubo, Shinjuku City, Tokyo 169-0072 — a short walk from Shin-Okubo Station." },
+      { question: "What is included?", answer: "Professional sumo demonstration with live bouts; English-speaking MC explaining the rituals throughout; Background on sumo's history and rules; Welcome drink (bottled water); Entry to the lottery to challenge a wrestler in the ring." },
+      { question: "Is this a real sumo match?", answer: "It is not a tournament bout with rankings at stake, but the wrestlers are professionals and the sparring is genuine. If you want an official tournament you need one of the six annual basho, which sell out months ahead." },
+    ];
+  }
+
+  if (slug === "tokyo-shinjuku-evening-food-walk-four-eateries") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "1-8-5 Nishishinjuku, Shinjuku City, Tokyo 160-0023 — meet outside, a few minutes from the station's west exit." },
+      { question: "What is included?", answer: "English-speaking local food guide; Thirteen Japanese dishes across four eateries; Two drinks, alcoholic or non-alcoholic; Stops at a street stall, an izakaya, a traditional eatery and a gastrobar; Walking tour of the Shinjuku dining lanes." },
+      { question: "Can dietary requirements be handled?", answer: "Usually yes, with notice. Tell us when you book rather than on the night — the kitchens on this route are small and substitutions are much harder to arrange on the day." },
+    ];
+  }
+
+  if (slug === "tokyo-shibuya-sumo-show-five-daily-times") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Up to 80 people." },
+      { question: "Where does it start?", answer: "Daiichi Silver Building, 5-20-11 Sakuragaokacho, Shibuya City, Tokyo 151-0051 — a few minutes from Shibuya Station's south exit." },
+      { question: "What is included?", answer: "Sumo show with live demonstrations and sparring bouts; English-speaking MC throughout; Welcome drink (bottled water); Entry to the lottery to challenge a wrestler; Photo opportunities with the wrestlers." },
+      { question: "Is this a real sumo match?", answer: "It is not a tournament bout with rankings at stake, but the wrestlers are professionals and the sparring is genuine. If you want an official tournament you need one of the six annual basho, which sell out months ahead." },
+    ];
+  }
+
+  if (slug === "hiroshima-miyajima-day-trip-from-tokyo-shinkansen") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 16 hours." },
+      { question: "How big is the group?", answer: "Up to 30 people." },
+      { question: "Where does it start?", answer: "Tokyo option: departure point confirmed at booking. Hiroshima option: meet the guide at Hiroshima Station, 1-2-37 Matsubaracho, Minami Ward, Hiroshima." },
+      { question: "What is included?", answer: "Round-trip bullet train from Tokyo (on the Tokyo option); English-speaking guide for the full day; Ferry crossing to Miyajima and back; Admission to Itsukushima Shrine; Guided visit to the Hiroshima Peace Memorial Park and A-Bomb Dome." },
+      { question: "Is the bullet train included?", answer: "On the Tokyo option, yes — round-trip Shinkansen tickets are part of the price. The cheaper option starts at Hiroshima Station and does not include the train." },
+    ];
+  }
+
+  if (slug === "tokyo-shibuya-highlights-walk-hidden-viewpoint") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Up to 50 people." },
+      { question: "Where does it start?", answer: "2-1-1 Dogenzaka, Shibuya City, Tokyo 150-0043 — at the Hachiko statue side of the station." },
+      { question: "What is included?", answer: "Local English-speaking guide; Ninety-minute guided walking route through Shibuya; Visit to a free local viewpoint over the crossing." },
+      { question: "Does it run in bad weather?", answer: "Yes, rain or shine. Bring an umbrella or a raincoat if the forecast is wet — the route does not change." },
+    ];
+  }
+
+  if (slug === "tokyo-shibuya-food-walk-thirteen-dishes") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "1-12-6 Dogenzaka, Shibuya, Tokyo 150-0043 — in front of the 7-Eleven near Chuo-Gai and Tokyu Plaza." },
+      { question: "What is included?", answer: "Expert English-speaking guide; Thirteen dishes across an izakaya, a street food stall and a traditional eatery, plus dessert; Two drinks, alcoholic or non-alcoholic; Walking tour of Shibuya Crossing and the lanes behind it; Advice on plans for the rest of your stay in Japan." },
+      { question: "Can dietary requirements be handled?", answer: "Usually yes, with notice. Tell us when you book rather than on the night — the kitchens on this route are small and substitutions are much harder to arrange on the day." },
+    ];
+  }
+
+  if (slug === "tokyo-yakatabune-houseboat-cruise-sukiyaki-shamisen") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Etchujima Pier, 1-3-23 Etchujima, Koto City, Tokyo 135-0044." },
+      { question: "What is included?", answer: "Ninety-minute Tokyo Bay cruise on a traditional yakatabune; Beef sukiyaki dinner served on board; Unlimited soft drinks; Live shamisen performance; Tokyo Tower 150m observation deck ticket (on the options that include it)." },
+      { question: "Is there hotel pickup?", answer: "No. Etchujima Pier is a short taxi ride or walk from Monzen-Nakacho station and is not somewhere you will pass by chance, so allow extra time to get there." },
+    ];
+  }
+
+  if (slug === "tokyo-sumo-morning-practice-training-stable") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Up to 50 people." },
+      { question: "Where does it start?", answer: "Kiyosumi-Shirakawa Station, Exit A1 (Toei Oedo and Hanzomon lines), 3-11-1 Kiyosumi, Koto City, Tokyo 135-0024." },
+      { question: "What is included?", answer: "English-speaking guide; Visit to a working sumo training stable during morning practice; Explanation of sumo's rules, rankings and rituals; Opportunity to speak with wrestlers outside training hours." },
+      { question: "Is this a real sumo match?", answer: "It is not a tournament bout with rankings at stake, but the wrestlers are professionals and the sparring is genuine. If you want an official tournament you need one of the six annual basho, which sell out months ahead." },
+    ];
+  }
+
+  if (slug === "tokyo-harajuku-japanese-denim-jeans-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Harajuku Tw Building, 4F, 1-14-24 Jingumae, Shibuya, Tokyo 150-0001 — one minute from JR Harajuku's Omotesando exit and Exit 3 of Meiji-Jingumae Station." },
+      { question: "What is included?", answer: "One pair of Japanese denim jeans, unisex sizes 24-44 in increments of two; Introduction to premium Okayama denim; Hands-on construction session with all tools and materials; Choice of jeans silhouette; One patch, six rivets and one button of your choosing." },
+      { question: "What sizes are available?", answer: "Unisex, in increments of two from 24 to 44. Stock moves, so check your confirmation email for what is available on your date." },
+    ];
+  }
+
+  if (slug === "tokyo-night-photo-tour-shibuya-sky-shinjuku") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "2-1 Dogenzaka, Shibuya City, Tokyo 150-0043." },
+      { question: "What is included?", answer: "Shibuya Sky timed-entry ticket; English-speaking local guide; Photographs of you taken throughout the evening; Guided route across Shibuya and Shinjuku." },
+      { question: "Is the Shibuya Sky ticket included?", answer: "Yes, with timed entry. That matters in peak season, when slots sell out days in advance." },
+    ];
+  }
+
+  if (slug === "kyoto-full-day-bus-tour-bamboo-grove-golden-pavilion") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Up to 30 people." },
+      { question: "Where does it start?", answer: "Outside Hotel Keihan Kyoto Grande, 31 Higashikujo Nishisannocho, Minami Ward, Kyoto 601-8003 — a short walk from Kyoto Station." },
+      { question: "What is included?", answer: "Air-conditioned coach transport for the full day; Bilingual guide working in English and Spanish; Early access to the Arashiyama Bamboo Grove; Admission to the Golden Pavilion, Nijo Castle and Kiyomizu-dera (on the option with tickets)." },
+      { question: "Should I take the option with tickets?", answer: "Almost always yes. Without it you see the Golden Pavilion, Nijo Castle and Kiyomizu-dera from outside and have free time instead, and buying the admissions separately on the day costs more than the upgrade." },
+    ];
+  }
+
+  if (slug === "kyoto-nijo-castle-small-group-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Outside Entrance (Exit) 1 of Nijojo-mae Station, Nijojocho, Nakagyo Ward, Kyoto 604-8301 — the guide waits with a sign." },
+      { question: "What is included?", answer: "Admission to Nijo Castle; Ninety-minute guided tour in English; Small group of no more than ten people." },
+      { question: "Is castle admission included?", answer: "Yes. Nothing further is payable at the gate." },
+    ];
+  }
+
+  if (slug === "kyoto-arashiyama-chopstick-making-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Up to 30 people." },
+      { question: "Where does it start?", answer: "2F, 3-25 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto 616-8385 — up the stairs on the left of the building." },
+      { question: "What is included?", answer: "Chopstick-making workshop with all tools and materials; Choice of wood, with three types included; Hand plane, sanding and natural oil finish; English-speaking staff; Local tips for exploring Arashiyama." },
+      { question: "Do I take the chopsticks home?", answer: "Yes, the same day. They are planed, sanded and oiled during the session, so they are finished and usable when you leave." },
+    ];
+  }
+
+  if (slug === "nara-unesco-half-day-walk-kofukuji-todaiji-kasuga") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "29 Higashimuke Nakamachi, Nishimikadocho, Nara 630-8215 — in the covered arcade near Kintetsu Nara Station." },
+      { question: "What is included?", answer: "English-speaking local guide for three and a half hours; Guided walking route through Nara's UNESCO World Heritage sites." },
+      { question: "Are temple admissions included?", answer: "No. The price covers the guide; entry to individual temples and shrines is paid at each gate." },
+    ];
+  }
+
+  if (slug === "nara-asuka-ebike-tour-ishibutai-megaliths") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "Koshi, Asuka Village, Takaichi District, Nara 634-0138." },
+      { question: "What is included?", answer: "Electric-assist bicycle for the ride; English-speaking local guide; Guided route through the Asuka countryside and its megalithic sites." },
+      { question: "Do I need to be a confident cyclist?", answer: "Basic riding ability is enough. The electric assist flattens the hills, and the roads through Asuka are quiet farmland lanes rather than traffic." },
+    ];
+  }
+
+  if (slug === "kyoto-nara-fushimi-inari-deer-park-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "Higashi-Shiokoji Kamadonocho, Shimogyo Ward, Kyoto 601-8001 — beside Kyoto Station." },
+      { question: "What is included?", answer: "English-speaking local guide for five hours; Guided walking routes at Fushimi Inari and in Nara Park." },
+      { question: "Are temple admissions included?", answer: "No. The price covers the guide; entry to individual temples and shrines is paid at each gate." },
+    ];
+  }
+
+  if (slug === "tokyo-shibuya-night-walk-sky-deck-miyashita-park") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "2-1 Dogenzaka, Shibuya City, Tokyo 150-0043." },
+      { question: "What is included?", answer: "Shibuya Sky admission ticket, timed entry; English-speaking local guide; Two-hour guided night route through Shibuya." },
+      { question: "Is the Shibuya Sky ticket included?", answer: "Yes, with timed entry. That matters in peak season, when slots sell out days in advance." },
+    ];
+  }
+
+  if (slug === "nikko-day-trip-from-tokyo-toshogu-kegon-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10.5 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Ginza Inz 2, Chiyoda City, Tokyo — directly across the street from Tokyu Hands." },
+      { question: "What is included?", answer: "Round-trip coach transport from central Tokyo; Bilingual guide working in English and Spanish; Admission to Toshogu Shrine (on the options that include it); Lunch (on the all-inclusive option)." },
+      { question: "How much of the day is spent travelling?", answer: "A significant part of it. Nikko is about two hours north of Tokyo each way, and the drive up the Irohazaka switchbacks to the lake adds more. That is the honest trade for reaching Nikko and returning the same day." },
+    ];
+  }
+
     return null;
 };
