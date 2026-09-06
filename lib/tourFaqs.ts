@@ -8790,5 +8790,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "izu-peninsula-day-trip-from-tokyo-mount-omuro-jogasaki") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 9 people." },
+      { question: "Where does it start?", answer: "Hotel pickup within Shinjuku, Chiyoda, Chuo or Taito wards between 08:00 and 08:45, confirmed in advance. A designated meeting point is arranged for guests staying elsewhere." },
+      { question: "What is included?", answer: "Round-trip transport from Tokyo by private vehicle; Driver service; Hotel pickup within Tokyo's four central wards; One night's twin-share accommodation with breakfast (on the two-day option)." },
+      { question: "Where does pickup cover?", answer: "Hotels within Shinjuku, Chiyoda, Chuo and Taito wards. If you are staying outside those, staff arrange a designated meeting point instead." },
+    ];
+  }
+
+  if (slug === "nagoya-tokugawa-art-museum-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Tokugawa Art Museum, Tokugawacho, Higashi Ward, Nagoya, Aichi 461-0023." },
+      { question: "What is included?", answer: "Guided tour of the Tokugawa Art Museum; Access to the exhibitions of Tokugawa family artefacts; Context on the Edo period and samurai culture; English-speaking guide with expertise in Japanese history." },
+      { question: "Will I see specific objects?", answer: "The display rotates with the museum's exhibition schedule, so the exact pieces vary. Your guide selects from what is on show that day." },
+    ];
+  }
+
+  if (slug === "uji-tea-museum-and-matcha-grinding-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Up to 20 people." },
+      { question: "Where does it start?", answer: "Chazuna 1F reception, Historical Park of Tea and Uji, Maruyama-203-1 Todo, Uji, Kyoto 611-0013." },
+      { question: "What is included?", answer: "Chazuna museum ticket; Matcha grinding experience on a stone mill; Instructor in English or Japanese; The matcha you make." },
+      { question: "How long does grinding actually take?", answer: "Longer than anyone expects — a stone mill produces roughly forty grams an hour. That slowness is the point, and it explains why ceremonial matcha costs what it does." },
+    ];
+  }
+
+  if (slug === "sapporo-silver-jewellery-forging-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "10-1 Minami 2-jo Nishi, Chuo Ward, Sapporo, Hokkaido 060-0062 — three minutes' walk from the subway." },
+      { question: "What is included?", answer: "Ninety-minute silversmithing session; Silver 925 or 18-karat gold material for your chosen piece; One-to-one guidance from a working artisan; All tools and the projection-mapped studio; Your finished piece, same day on the takeaway plans." },
+      { question: "Do I need any experience?", answer: "None. An artisan works with you one to one throughout, and the group is capped at four." },
+    ];
+  }
+
+  if (slug === "sapporo-biei-furano-summer-day-trip-blue-pond") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 13 people." },
+      { question: "Where does it start?", answer: "Sapporo Station North Exit Bus Terminal at 8:00, or hotel pickup within 3 km of Sapporo Station between 7:30 and 8:00 on the van options. 3-12-2 Kita 7 Jonishi, Kita Ward, Sapporo 060-0807." },
+      { question: "What is included?", answer: "Round-trip transport from Sapporo; Fuel and toll fees; Driver-guide; Admission to Shikisai-no-Oka; Buffet lunch and Hokkaido melon (Saturday-only options)." },
+      { question: "Which option should I take?", answer: "The bus group is the cheapest and meets at Sapporo Station. The small-group van options add hotel pickup and a smaller vehicle. The Saturday version adds a buffet lunch with all-you-can-eat melon." },
+    ];
+  }
+
     return null;
 };

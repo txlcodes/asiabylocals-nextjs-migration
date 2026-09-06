@@ -12965,5 +12965,37 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "uji-tea-museum-and-matcha-grinding-experience") {
+        return {
+            averageRating: 4.9, totalReviews: 1017, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Chaimae", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "I really liked the activity, and also loved the energy of our ‘sensei’. She was very nice and her English was impressive! The matcha experience itself was so interesting and the matcha very good." },
+                { author: "Kristina", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "My 18yo daughter & I explored Uji and had lunch before taking a 10min walk to the museum and match grinding experienc. The museum was small yet engaging and informative. The staff was lovely & the venue even had a small gift shop and cafe onsite. We bought a couple gifts at the gift shop & went through the museum before taking part in the matcha class. The staff was kind, attentive and helpful. Overall it was a fun, interactive class that helped us learn more about matcha! I would take it again if I were bringing someone new with me." },
+                { author: "Linh", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Hosts were very kind and polite. We got to learn about matcha, grind the tea leaves, and make the matcha. 100% recommend!" },
+                { author: "LUIS", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "I liked it, but sometimes I just could listen very well, maybe a mic would work better." },
+                { author: "jessica", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "The matcha grinding and preparation class was incredible! The teachers were so knowledgeable and kind, and it was amazing to learn more about how matcha is prepared, its cultural history, and where it comes from. The museum at the end was a great addition as well. Overall, such a wonderful experience and I would highly recommend it to anyone interested in matcha and Japanese culture!" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "The activity was very informative and the instruction on how to properly make a cup of match was very helpful. Excellent instructors. If you love tea, this is a must!" },
+                { author: "Arpan &#38;amp;#38;amp;#38;amp;#38;amp;#38;am", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "So great! Would recommend to anyone who is interested in tea and Matcha. The host were very welcoming and friendly and made the experience so enjoyable :)" },
+                { author: "Sofia", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "The best tour from our trip. Our guide Etsuko was extremelly kind" },
+            ],
+        };
+    }
+
+    if (slug === "sapporo-biei-furano-summer-day-trip-blue-pond") {
+        return {
+            averageRating: 4.5, totalReviews: 82, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Briana", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Memory Experience. We are so excited to take the Ninja Bus! Very interesting and highly recommend!" },
+                { author: "Cara", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "The tour is an excellent introduction to Hokkaido. Great view as we travelled along and the stops were enjoyable.. The guide was helpful and provided directions at each stop. Highly recommended" },
+                { author: "George", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Leo made our Hokkaido flower tour absolutely unforgettable. He knew exactly when to visit each spot to avoid the crowds and get the best light for photos, and his passion for the region really shone through. He even took the time to help everyone snap great pictures at the Blue Pond and gave us interesting local stories along the way. Professional, energetic, and genuinely caring—highly recommend Leo as your guide!" },
+                { author: "Clay", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Great tour with beautiful waterfalls and the iconic blue pond! Would recommend. Included English for us. Tour guide was lovely, the tour had many beautiful landmarks" },
+                { author: "Jia", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "The driver Mr.Yu arrived the hotel for pick-up on time, gave us enough time at each stop for sight seeing and taking pictures. He made good recommdation of the food to purchase. He provided seamless service and made everyone feel comfortable and welcome. Although we didn't know each other, the whole group chatted with each other during the trip and had a great time." },
+                { author: "Nhan", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Our guide, Hayashi was friendly, helpful and attentive, making sure everyone was taken care of. We were right on time everywhere. Bus was cool and comfortable, and our driver was very capable. The sites were beautiful, and we had many good, memorable photographs. Highly recommended!! Thank you to you both, Hayashi and our driver 🙏😊" },
+                { author: "Ferdinand", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Hayashi was a great tour guide and very funny as well ! We really enjoyed our time!" },
+                { author: "Fred", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "It was a very nice tour. Our guide was great. I highly recommend this tour!" },
+            ],
+        };
+    }
+
     return null;
 };
