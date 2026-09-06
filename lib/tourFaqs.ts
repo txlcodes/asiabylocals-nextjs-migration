@@ -9280,5 +9280,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "kyoto-hozugawa-white-water-rafting") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "How big is the group?", answer: "Up to 42 people." },
+      { question: "Where does it start?", answer: "Shintani Building, 69-4 Kitagaito, Shino-cho Umahori, Kameoka, Kyoto 621-0823 — three minutes' walk from JR Umahori Station." },
+      { question: "What is included?", answer: "Half-day rafting on the Hozugawa; Guide; All safety equipment: helmet, life jacket and rafting shoes; Insurance and tax; Commemorative photograph." },
+      { question: "Do I need rafting experience?", answer: "No. The briefing covers what you need, the instructions during the run are physical and short, and guides handle the technical work." },
+    ];
+  }
+
+  if (slug === "kyoto-gion-geiko-maiko-dance-museum") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 15 minutes." },
+      { question: "How big is the group?", answer: "Up to 50 people." },
+      { question: "Where does it start?", answer: "Yasaka Club, 570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto 605-0074 — in the middle of Gion." },
+      { question: "What is included?", answer: "Admission to the Gion Kagai Art Museum; Kyomai dance performance by a geiko or maiko; Access to the permanent exhibition on kagai culture." },
+      { question: "What times are the performances?", answer: "13:30, 14:20, 15:00, 16:00 and 16:30. Usually one geiko or maiko performs; on some days the third and fourth sessions have two." },
+    ];
+  }
+
+  if (slug === "kyoto-samurai-sword-chambara-filming-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Myokaku-ji Dojo, 602 Shimoseizoguchicho, Kamigyo Ward, Kyoto 602-0007 — to the left after entering the temple's main gate." },
+      { question: "What is included?", answer: "Chambara sword instruction from professional period-drama actors; Kimono rental and dressing; Performance by the instructors; Filmed sword sequence; Photo download service." },
+      { question: "Who teaches it?", answer: "Professional period-drama actors who perform chambara for a living, which is what separates this from a costume photo session." },
+    ];
+  }
+
+  if (slug === "kyoto-private-japanese-sound-bath") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "85-10-203 Koinari-cho, Shimogyo Ward, Kyoto 600-8208 — about five minutes' walk from Kyoto Station." },
+      { question: "What is included?", answer: "Private ninety-minute Japanese sound bath; Handmade Singing Ring instruments; Hands-on instrument playing session; English-speaking host; Private tatami space, or a tea ceremony room on that option." },
+      { question: "What is a Singing Ring?", answer: "A handmade Japanese instrument, not a Tibetan or crystal bowl. The resonance is longer and cleaner, and at close range it is felt physically as much as heard." },
+    ];
+  }
+
     return null;
 };

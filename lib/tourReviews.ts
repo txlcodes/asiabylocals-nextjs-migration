@@ -13306,5 +13306,69 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "kyoto-hozugawa-white-water-rafting") {
+        return {
+            averageRating: 4.9, totalReviews: 337, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Martina Borg", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We had such a fantastic time rafting! The experience was very exciting, well organised, and genuinely a lot of fun from start to finish. Nishan was an excellent leader: professional, encouraging, and great at making us feel safe while still keeping the adventure exciting. You could tell he really cared about making sure everyone enjoyed themselves. We had a blast and would definitely recommend this experience to anyone looking for a fun and memorable day in Kyoto!" },
+                { author: "Hana", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "The activity was so much fun! The hosts Rosan and Milan made it even more fun, playing games between the rides and entertaining everyone :) would definitely recommend!" },
+                { author: "AJAY", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "My group of five had an amazing time. The rapids were not to daunting for some in my groups who did white water rafting for the first time. The guides were very knowledgeable and guided us every step of the way." },
+                { author: "Brianna", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Roshan was our guide and he was great! very funny and knowledge. the best experience since being in kyoto!" },
+                { author: "Louis", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Was great fun! Was well organised and had many points for swimming and jumping as well. Would recommend to people coming to Kyoto. Our guide Roshan was very helpful and amazing at rafting, also takes pictures for you." },
+                { author: "Anne-marie", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Really enjoyed this .. water temp was great , great scenery and guide Nissan was lots of fun . Change from Temples and castles" },
+                { author: "Yuran", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "It was a highlight of the trip for sure! Milan was a great leader and our team had so much fun. Book it. It’s probably the best activity in Kyoto area." },
+                { author: "Peyton", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Fantastic event! Our guide Milan was great, very knowledgeable, and made the experience all the more fun. 10/10 recommend!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-gion-geiko-maiko-dance-museum") {
+        return {
+            averageRating: 4.6, totalReviews: 510, guideRating: 4.6, valueRating: 4.4,
+            reviews: [
+                { author: "Mariana Soziopoulos Steiner", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "I love Maiko and Geiko culture and it’s amazing to have the opportunity to see them so up close :)" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "A great experience as well as the museum. Great performance from the Geiko dancer and opportunity for photo afterwards." },
+                { author: "Flavia", country: "Verified traveller review", rating: 5, date: "2026-05-23", text: "I had a great time with my two boys. This event is the right length (two songs + optional time at the museum) for people traveling with kids to get a taste of traditional Japanese dance. Just check the age limit before booking." },
+                { author: "Charlie", country: "Verified traveller review", rating: 5, date: "2026-02-17", text: "When you want to pack a lot into a day in Kyoto, this is a great option. It’s authentic, it doesn’t compromise on quality, but it’s short enough to add to a busy itinerary." },
+                { author: "Becca", country: "Verified traveller review", rating: 4, date: "2026-02-03", text: "Beautiful dance and venue. We loved the garden and the displays. The performance was short but lovely. I didn’t feel it was overpriced." },
+                { author: "Amelia", country: "Verified traveller review", rating: 5, date: "2026-01-26", text: "The museum was very informative in sharing the history and practices of Geiko! The information is also translated in English accessible via the scanning of a qr code. I liked how it was the right amount of information and display with videos! The maiko performances was a lovely added bonus!" },
+                { author: "Mariia", country: "Verified traveller review", rating: 5, date: "2025-12-13", text: "It was amazing, the duration of the show is about 15 minutes, including 2 dances. After you can stay at the museum as long as you want" },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2025-12-01", text: "the Geisha's dance was exquisite. her facial expressions and body language were on point. The film on the lower level was very useful to find out about the dance unique to Kyoto." },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-samurai-sword-chambara-filming-experience") {
+        return {
+            averageRating: 4.9, totalReviews: 99, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Pt", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "This was an absolutely brilliant experience played out in an incredible setting, making it totally unique! To add to this, what made our session extra special were our two instructors who explained everything about what we needed to do and how to do it via some very skilful demonstrations! They are (I’m so sorry but I can’t remember your names), both actors from film and TV, with genuinely warm personalities who looked after us with clear instructions, patience, with the emphasis on having fun, Samurai style! A must do when in Kyoto!" },
+                { author: "Mani", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Absolutely amazing training. I had multiple sessions with them because they were so good. I learned a lot. Very patient and astute trainers. Will definitely train with them again next time I am back in Kyoto." },
+                { author: "Björgvin Thorir", country: "Verified traveller review", rating: 5, date: "2025-10-30", text: "So much fun, entertaining and an absolute gem of a memory that I can take home and show everyone" },
+                { author: "Ismail", country: "Verified traveller review", rating: 5, date: "2025-10-14", text: "Found this activity by luck and ended up being one of the most fun parts of my trip in Japan. Highly recommend to anyone to have a bit of fun with a samurai sword (fake one). The two guides also samurai actors were amazing!" },
+                { author: "Katrina", country: "Verified traveller review", rating: 5, date: "2025-09-26", text: "Amazing! The hosts were so kind, patient, funny and it was truly entertaining to see my son having fun!" },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2025-09-13", text: "Incredible experience from start to finish! Training with inside a temple felt like stepping back in time. We learned the basics of samurai sword techniques and even got to try choreographed moves. The setting made it even more authentic and spiritual. It was powerful, exciting, and very safe thanks to the clear guidance. Truly one of the highlights of my trip to Japan!" },
+                { author: "Annette", country: "Verified traveller review", rating: 5, date: "2025-07-11", text: "Amazing class and actos. Amazing class and movie shoot experience. Highly recommended" },
+                { author: "Ren", country: "Verified traveller review", rating: 5, date: "2025-07-10", text: "If you’re looking for an experience in Japan that you’ll never forget this is it! The hosts are so fun, you’ll learn samurai sword tricks, you will laugh, and you’ll have the most epic footage of your trip. Definitely recommend, especially if you’ve always dreamed of having a samurai experience!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-private-japanese-sound-bath") {
+        return {
+            averageRating: 5.0, totalReviews: 38, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Terina", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "New experience for both my husband and I. Thoroughly enjoyed it and funnily enough bought out some aches and pains. Felt very refreshed afterwards. Great experience" },
+                { author: "Sachin", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "This is a very unique experience. I've never experienced anything like this before - be it in Japan or elsewhere. The experience was able to induce a profound relaxation in me which was probably the deepest state of relaxation I had experienced. Highly recommended." },
+                { author: "Diane", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "This was the most amazing sound healing ever! I am a sound facilitator so I was able to appreciate the beautiful intention , frequencies, and vibrations Oto created for us!! He is truly a gem!!!" },
+                { author: "Thom", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "Best of the Best!! I know my way around in the world of sound healing and people who do Magic things with frequencies/resonance/vibes, but this is a Master with real Japanese singing Bowls! Junichirou speaks English like no one els in the region, he takes you on a lovely journey with his music, it is relaxing, energizing, brings you in a great mental/emotinal/fysical state. Delicate, harmonious, subtle and strong! A true Master of this fine art. Thank you so much Junichirou, I not only recommand you but also hope to meet you again. You’ve inspiared me!!" },
+                { author: "KIM HYE", country: "Verified traveller review", rating: 5, date: "2026-03-18", text: "Junichiro’s Singing Ring session brought me into a deep state of relaxation and inner calm. The sound gently resonated through the body, creating a very peaceful experience. He also explains everything clearly in English, which made the session easy to follow and very comfortable. When I return to Kyoto, I will definitely come back for another session. Thank you very much, Sensei." },
+                { author: "Marji", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "We had a lovely afternoon sound bath experience and also, learned so much. Highly recommend this peaceful activity when visiting Kyoto :))" },
+                { author: "Ioana", country: "Verified traveller review", rating: 5, date: "2025-12-20", text: "A wonderful experience, we learned so much and were absolutely fascinated by this art! Highly recommended for anyone visiting Kyoto - an immersive and highly relaxing experience! Thank you so much!!" },
+                { author: "Katherine", country: "Verified traveller review", rating: 5, date: "2025-12-15", text: "This was the activity that surprised me the most. I went in not knowing what to expect and came out more relaxed and peaceful than I remember being in years. It was the fastest hour of my life. We loved it so much we ended up booking another session for the next day. I don’t know exactly how the bowls make those tones, but they do something to you that is very healing. Wish we had something like this at home." },
+            ],
+        };
+    }
+
     return null;
 };
