@@ -7881,5 +7881,497 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "mount-fuji-chureito-pagoda-oshino-hakkai-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Central Tokyo coach departure point confirmed at booking; two starting locations are offered and you choose one when you select your option." },
+      { question: "What is included?", answer: "English-speaking tour guide, Air-conditioned coach transport, Lake Ashi sightseeing cruise, Hakone Ropeway ride, Hotel or central pickup and drop-off at the selected locations." },
+      { question: "How many steps are there to the pagoda?", answer: "398 from the car park to the viewing terrace, with a longer, gentler switchback path alongside for anyone who would rather avoid the stairs." },
+    ];
+  }
+
+  if (slug === "hakone-caldera-fuji-lakes-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Central Tokyo departure point selected at booking; two starting locations are available and you choose one with your option." },
+      { question: "What is included?", answer: "English-speaking tour guide, Air-conditioned coach transport, Lake Ashi sightseeing cruise, Hakone Ropeway ride, Pickup and drop-off at the selected locations." },
+      { question: "What happens if the ropeway is closed?", answer: "Owakudani sits on an active volcano and the ropeway suspends service when gas readings rise. A replacement bus runs around the valley when that happens, so the day still completes — you just miss the crater crossing." },
+    ];
+  }
+
+  if (slug === "mount-hoei-crater-day-trek-fuji") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Group trip: free pickup at Gotemba Station 08:30 or Fuji Mountain Coffee 08:50, drop-off Gotemba Station 17:00. Private trip: free hotel pickup in Kawaguchiko, Hakone or Gotemba areas." },
+      { question: "What is included?", answer: "Professional English-speaking mountain guides, Transportation (shuttle or hotel pickup), Japanese bento lunch, All essential hiking equipment including boots and waterproof layers, at no extra cost." },
+    ];
+  }
+
+  if (slug === "kamakura-hakone-private-day-tour-from-tokyo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 7 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Your driver-guide collects you from your Tokyo hotel or another central address agreed at booking." },
+      { question: "What is included?", answer: "Private English-speaking driver-guide, Private vehicle for the day, Hotel pickup and drop-off in Tokyo, Fuel, tolls and parking." },
+    ];
+  }
+
+  if (slug === "hakone-private-day-tour-licensed-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Your guide meets you in Hakone, normally at your hotel or at Hakone-Yumoto Station; the exact point is agreed with you before the tour." },
+      { question: "What is included?", answer: "Government-licensed English-speaking private guide for the day, Personalised itinerary planning before the tour." },
+      { question: "What happens if the ropeway is closed?", answer: "Owakudani sits on an active volcano and the ropeway suspends service when gas readings rise. A replacement bus runs around the valley when that happens, so the day still completes — you just miss the crater crossing." },
+    ];
+  }
+
+  if (slug === "kawaguchiko-to-hakone-private-guided-transfer") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Door-to-door pickup from your Fujikawaguchiko accommodation, with drop-off at your Hakone hotel or ryokan. Recommended start between 9:00 AM and 11:00 AM." },
+      { question: "What is included?", answer: "Professional English-speaking guide, Private vehicle transportation, Stops at curated cultural and natural sites, Drop-off at your destination accommodation." },
+      { question: "Is luggage carried?", answer: "Yes — this runs as a private transfer, so bags travel with you in the vehicle between the two points." },
+    ];
+  }
+
+  if (slug === "fuji-five-lakes-private-car-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Your chosen location in the Kawaguchiko / Fuji-Yoshida area, specified at booking. Operating hours 6:00-17:00 daily (6:30-16:00 in winter)." },
+      { question: "What is included?", answer: "English-speaking guide, Small van transportation, Concierge service and advice, Taxes." },
+    ];
+  }
+
+  if (slug === "hakone-private-day-trip-lake-ashi-owakudani") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day, 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Your hotel lobby in Tokyo. Hotel pickup is included." },
+      { question: "What is included?", answer: "Private English-speaking local guide, Hotel pickup in Tokyo, Transportation throughout, Guide's personal expenses, Flexible customisable itinerary." },
+      { question: "What happens if the ropeway is closed?", answer: "Owakudani sits on an active volcano and the ropeway suspends service when gas readings rise. A replacement bus runs around the valley when that happens, so the day still completes — you just miss the crater crossing." },
+    ];
+  }
+
+  if (slug === "mount-fuji-hakone-private-day-tour-from-tokyo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Up to 20 people." },
+      { question: "Where does it start?", answer: "Hotel pickup and drop-off within Tokyo's 23 wards. Typical pickup is 7:00-8:00 AM, adjustable on request." },
+      { question: "What is included?", answer: "Professional English-speaking guide, Private licensed transportation, Hotel pickup and drop-off within Tokyo's 23 wards, Fuel tolls and parking fees, On-board Wi-Fi and bottled water (subject to availability), Custom itinerary planning." },
+    ];
+  }
+
+  if (slug === "hakone-day-tour-from-tokyo-lake-ashi-owakudani") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Up to 20 people." },
+      { question: "Where does it start?", answer: "Pickup 7:00-8:00 AM from hotels, apartments or stations within Tokyo's 23 wards (adjustable on request)." },
+      { question: "What is included?", answer: "Professional English-speaking guide, Private vehicle, Hotel pickup and drop-off within Tokyo's 23 wards, On-board Wi-Fi and bottled water, Fuel, tolls and parking, Custom itinerary coordination." },
+      { question: "What happens if the ropeway is closed?", answer: "Owakudani sits on an active volcano and the ropeway suspends service when gas readings rise. A replacement bus runs around the valley when that happens, so the day still completes — you just miss the crater crossing." },
+    ];
+  }
+
+  if (slug === "mount-fuji-summit-climb-fujinomiya-route-2-days") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 days / 1 night." },
+      { question: "How big is the group?", answer: "Small — a maximum of 7 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Fujinomiya trail 5th station (2,400m), 10:30 on Day 1. Finishes at Fujinomiya 5th station 11:30 on Day 2. No pickup stated." },
+      { question: "What is included?", answer: "Guide fee, Domestic travel insurance." },
+      { question: "Do I need climbing experience?", answer: "This is a guided ascent on a marked trail rather than technical climbing, but it is a serious mountain day at altitude. Reasonable fitness and a willingness to walk for many hours are required, and altitude affects people regardless of fitness." },
+    ];
+  }
+
+  if (slug === "mount-fuji-summit-climb-subashiri-route-2-days") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 days / 1 night." },
+      { question: "How big is the group?", answer: "Small — a maximum of 7 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Subashiri trail 5th station (2,000m), in front of Higashifuji Sanso, 10:00. No pickup stated." },
+      { question: "What is included?", answer: "Guide fee." },
+      { question: "Do I need climbing experience?", answer: "This is a guided ascent on a marked trail rather than technical climbing, but it is a serious mountain day at altitude. Reasonable fitness and a willingness to walk for many hours are required, and altitude affects people regardless of fitness." },
+    ];
+  }
+
+  if (slug === "mount-fuji-private-car-day-tour-from-tokyo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day, 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Your hotel lobby in Tokyo. Hotel pickup and drop-off are included." },
+      { question: "What is included?", answer: "Private full-day guided car tour, Hotel pickup and drop-off in Tokyo, Guide's personal expenses, Flexible customisable itinerary." },
+      { question: "How many steps are there to the pagoda?", answer: "398 from the car park to the viewing terrace, with a longer, gentler switchback path alongside for anyone who would rather avoid the stairs." },
+    ];
+  }
+
+  if (slug === "mount-fuji-fifth-station-private-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Pickup and drop-off at central Tokyo hotels." },
+      { question: "What is included?", answer: "Tokyo hotel pick-up and drop-off, 11 hours of comfortable vehicle and licensed driver, English-speaking licensed local tour guide, Highway tolls." },
+      { question: "How many steps are there to the pagoda?", answer: "398 from the car park to the viewing terrace, with a longer, gentler switchback path alongside for anyone who would rather avoid the stairs." },
+    ];
+  }
+
+  if (slug === "mount-fuji-prince-route-private-climb-2-days") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 days." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people, so it stays close to a private experience." },
+      { question: "Where does it start?", answer: "Starts and ends at the Fujinomiya Trail 5th Station, Fujinomiya city, Shizuoka. No pickup stated; transport to/from the start is not included." },
+      { question: "What is included?", answer: "Licensed local Mt. Fuji climbing guide, Personal consultation before, during and after the tour." },
+      { question: "Do I need climbing experience?", answer: "This is a guided ascent on a marked trail rather than technical climbing, but it is a serious mountain day at altitude. Reasonable fitness and a willingness to walk for many hours are required, and altitude affects people regardless of fitness." },
+    ];
+  }
+
+  if (slug === "ena-gorge-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Chubu Electric Power MIRAI TOWER." },
+      { question: "What is included?", answer: "Round-trip transportation by bus/coach from Nagoya, guide commentary, stops at Ena Gorge, Magome-juku, Shikizakura, and Korankei Gorge." },
+      { question: "How hard is the Magome to Tsumago walk?", answer: "About 8 km and two and a half to three hours, climbing to the Magome Pass and then descending. It is a real walk but not a difficult one, and the direction matters — Magome to Tsumago puts the climb first." },
+    ];
+  }
+
+  if (slug === "shikizakura-park-obara-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6.5 hours." },
+      { question: "Where does it start?", answer: "Esca Underground Shopping Mall, Nagoya Station (エスカ地下街)." },
+      { question: "What is included?", answer: "English-speaking guide, round-trip transport from Nagoya Station, entry to Shikizakura Park and Korankei Gorge illumination area." },
+    ];
+  }
+
+  if (slug === "magome-juku-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Silver Clock, Nagoya Station." },
+      { question: "What is included?", answer: "Round-trip transportation by bus/coach from Nagoya, English-speaking guide, free time in Magome-juku and Tsumago-juku, guided visit to Ryujin Falls." },
+      { question: "How hard is the Magome to Tsumago walk?", answer: "About 8 km and two and a half to three hours, climbing to the Magome Pass and then descending. It is a real walk but not a difficult one, and the direction matters — Magome to Tsumago puts the climb first." },
+    ];
+  }
+
+  if (slug === "kappa-bridge-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Nagoya (exact pickup point confirmed after booking)." },
+      { question: "What is included?", answer: "Guided hiking and photography day trip, round-trip transport from Nagoya, walking route through Kamikochi's main ponds and bridges." },
+    ];
+  }
+
+  if (slug === "tokoname-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6.5 hours." },
+      { question: "Where does it start?", answer: "Central Nagoya (exact meeting point confirmed with operator on booking)." },
+      { question: "What is included?", answer: "English-speaking guide, round-trip transport between Nagoya and Tokoname, guided walk of the Pottery Footpath." },
+    ];
+  }
+
+  if (slug === "nachi-falls-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 days." },
+      { question: "Where does it start?", answer: "Confirmed with operator upon booking (departs from Osaka or Nagoya)." },
+      { question: "What is included?", answer: "Transportation for the 2-day itinerary, one overnight stay, Heian costume rental for photos, guide commentary." },
+    ];
+  }
+
+  if (slug === "toyokawa-inari-shrine-shopping-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Nagoya Station." },
+      { question: "What is included?", answer: "Coach transportation from Nagoya Station, entry to Toyokawa Inari Shrine, fruit-picking activity, Omi beef sukiyaki lunch, free time at Mitsui Outlet Park." },
+    ];
+  }
+
+  if (slug === "nagoya-cutting-mini-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "Where does it start?", answer: "Restaurant venue in Nagoya (confirmed after booking)." },
+      { question: "What is included?", answer: "Live tuna cutting show, hands-on sushi-making session, all-you-can-eat tuna, unlimited drinks." },
+      { question: "Can dietary requirements be handled?", answer: "Tell the operator when you book. Most food experiences can adjust for common restrictions with notice, but substitutions are rarely possible on the day." },
+    ];
+  }
+
+  if (slug === "toyota-commemorative-museum-of-industry") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6.5 hours." },
+      { question: "Where does it start?", answer: "Toyota Commemorative Museum of Industry and Technology." },
+      { question: "What is included?", answer: "Private local guide for the full day, all transportation between stops (bus, train), entrance guidance at each site." },
+      { question: "Are museum admissions included?", answer: "Check the inclusions list for this tour. Where a museum charges separately, the guide will normally direct you and you pay at the desk." },
+    ];
+  }
+
+  if (slug === "scmaglev-and-railway-park-heritage-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Nagoya Station (or alternate Nagoya pickup point)." },
+      { question: "What is included?", answer: "Private van and driver-guide for 8 hours, pickup and drop-off at one of two Nagoya locations, transportation between all stops." },
+    ];
+  }
+
+  if (slug === "kyoto-temple-grounds-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 15 hours." },
+      { question: "Where does it start?", answer: "Central Nagoya (hotel or station pickup point confirmed with operator on booking)." },
+      { question: "What is included?", answer: "Private English-speaking guide, private vehicle transport between Nagoya and Kyoto, full-day itinerary across Higashiyama, temple grounds, and Arashiyama." },
+    ];
+  }
+
+  if (slug === "shirakawa-go-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 days / 2 nights." },
+      { question: "Where does it start?", answer: "Central Nagoya (exact pickup point confirmed with operator on booking)." },
+      { question: "What is included?", answer: "Private English-speaking guide and driver, private charter vehicle for all 3 days, transport between all listed stops from Nagoya to Tokyo." },
+      { question: "How much of the day is driving?", answer: "A significant part of it. These are mountain destinations well outside the city, and the drive is a real component of the day rather than a transfer between stops." },
+    ];
+  }
+
+  if (slug === "nagoya-nakasendo-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 days." },
+      { question: "Where does it start?", answer: "Nagoya (exact meeting point confirmed after booking)." },
+      { question: "What is included?", answer: "Guided three-day journey with a local guide, route covering Narai-juku, Matsumoto, Nagano, Togakushi and Kawagoe, transport between each stop." },
+      { question: "How hard is the Magome to Tsumago walk?", answer: "About 8 km and two and a half to three hours, climbing to the Magome Pass and then descending. It is a real walk but not a difficult one, and the direction matters — Magome to Tsumago puts the climb first." },
+    ];
+  }
+
+  if (slug === "naramachi-professional-mini-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs same-day rental." },
+      { question: "Where does it start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Pa." },
+      { question: "What is included?", answer: "Men's/Women's Premium Kimono (summer: yukata); high-quality Nagoya obi; women's simple hair setting; kimono accessory rental — full coordination including bag, shoes, socks and hair accessories." },
+      { question: "What should I bring?", answer: "Nothing beyond what you would normally carry. Dressing, accessories and hair styling are handled on site; wear or bring simple footwear that is easy to remove." },
+    ];
+  }
+
+  if (slug === "nara-chopsticks-mini-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 45 minutes." },
+      { question: "Where does it start?", answer: "Chopstick-making workshop in Nara city." },
+      { question: "What is included?", answer: "Guided chopstick-making session, all wood and materials, use of workshop tools, the finished pair of chopsticks to take home." },
+      { question: "Is this suitable for beginners?", answer: "Yes. These sessions are designed for first-timers with no prior experience, and an instructor works with you throughout." },
+    ];
+  }
+
+  if (slug === "hozanji-temple-evening-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "Where does it start?", answer: "18:00 at the souvenir shop 'Goto-chi' by the East ticket gate, B2 level, Kintetsu Namba Station, Osaka." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide." },
+    ];
+  }
+
+  if (slug === "nara-townhouse-mini-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "Where does it start?", answer: "The workshop townhouse in Nara; the exact address is confirmed on booking." },
+      { question: "What is included?", answer: "All craft materials and tools, guided instruction from your host, Japanese tea and sweets, the mini tatami mat you make." },
+      { question: "Is this suitable for beginners?", answer: "Yes. These sessions are designed for first-timers with no prior experience, and an instructor works with you throughout." },
+    ];
+  }
+
+  if (slug === "kofuku-ji-temple-half-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "Two starting options: Kintetsu Nara Station or Kyoto Station." },
+      { question: "What is included?", answer: "Private guide for the duration of the walk, guided commentary at all four sites, itinerary from your chosen starting point." },
+      { question: "Can I go inside the Great Buddha Hall?", answer: "Yes — the hall is open to visitors and the admission is paid separately at the gate unless your tour states it is included." },
+    ];
+  }
+
+  if (slug === "naramachi-premium-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs same-day rental." },
+      { question: "Where does it start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Pa." },
+      { question: "What is included?", answer: "Men's/Women's Premium Kimono (summer: yukata); half-width obi (kimono belt); women's simple hair setting; kimono accessory rental — full coordination including bag, shoes, socks and hair accessories." },
+      { question: "What should I bring?", answer: "Nothing beyond what you would normally carry. Dressing, accessories and hair styling are handled on site; wear or bring simple footwear that is easy to remove." },
+    ];
+  }
+
+  if (slug === "nara-park-arashiyama-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "VIP Villa Namba (Osaka) or Kyoto VIP Lounge." },
+      { question: "What is included?", answer: "Air-conditioned coach transport between all stops, departure from and return to your chosen lounge, tour staff on board, free time at each stop." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-evening-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "Where does it start?", answer: "6 p.m. at the souvenir shop 'Goto-chi' by the East ticket gate, B2 level, Kintetsu Namba Station (Osaka); or 7 p.m. in front of the Monk Gyoki Statue near Exit 2 / East Exit of Kintetsu Nara Station." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-walking-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "27 Higashimuki Nakamachi, Nara, 630-8215, Japan." },
+      { question: "What is included?", answer: "English-speaking local guide, guided visits to Kofuku-ji, Nara Park, Todai-ji, Kasuga Taisha and Naramachi, traditional mochi tasting." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Two starting options: Harimaya Nippombashi 1-chome (Osaka) or Kyoto Station Hachijo Entrance Square Sunken Garden." },
+      { question: "What is included?", answer: "Air-conditioned coach transport between all stops, driver, tour escort, hotel-free city centre pickup and drop-off at the listed points." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-coach-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs about 7 hours." },
+      { question: "Where does it start?", answer: "Harimaya Bld, 1-chome-3-11 Nipponbashi, Chuo Ward, Osaka 542-0073, Japan." },
+      { question: "What is included?", answer: "Return coach transport from Nipponbashi in Osaka, guided day with commentary, visits to Nara Park and Uji, Genji no Yu hot spring as described by the operator." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-morning-morning-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "7:30 a.m. at Kintetsu Kyoto Station, or 8:40 a.m. in front of the Monk Gyoki Statue at Kintetsu Nara Station." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide, entrance to the Big Buddha Hall of Todaiji Temple (JPY 800), express train fee between Kyoto and Nara (JPY 520), Aoniyoshi Lux Train fee from Kyoto to Nara (JPY 210)." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "nara-park-half-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "In front of the Monk Gyoki statue (frente a la estatua del Monje Gioki) outside Kintetsu Nara Station." },
+      { question: "What is included?", answer: "Spanish-speaking local guide in Nara." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "kintetsu-nara-station-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Kintetsu Nara Station (近鉄奈良駅)." },
+      { question: "What is included?", answer: "English-speaking local guide, guided commentary at Kofuku-ji, Nara Park, Todai-ji and Kasuga Taisha." },
+      { question: "Can I go inside the Great Buddha Hall?", answer: "Yes — the hall is open to visitors and the admission is paid separately at the gate unless your tour states it is included." },
+    ];
+  }
+
+  if (slug === "kasuga-taisha-morning-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "TULLY'S COFFEE Kyoto Avanti Shop, beside Kyoto Station." },
+      { question: "What is included?", answer: "Coach transport from Kyoto to Nara, English-speaking guide, guided visits to Kasuga Taisha and Todai-ji." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "kintetsu-namba-station-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Souvenir shop 'Goto-chi' at the East ticket gate, B2 level, Kintetsu Namba Station, Osaka." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide." },
+    ];
+  }
+
+  if (slug === "kintetsu-nara-station-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Kintetsu Nara Station (近鉄奈良駅)." },
+      { question: "What is included?", answer: "English-speaking sake guide, sake tastings during the tour, visit to a local bar and specialty sake shops." },
+      { question: "Is there a non-drinking option?", answer: "Ask when booking. Most tastings can substitute soft drinks or tea for anyone not drinking, and the walk and the shop visits are the same either way." },
+    ];
+  }
+
+  if (slug === "kimpusenji-temple-symphony-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "9:45 a.m. in front of the ticket gates at Kintetsu Osaka-Abenobashi Station, Osaka." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide, express train fees (JPY 1,040), deluxe Blue Symphony train fee (JPY 210), Kimpusenji Temple entrance (JPY 1,600), traditional Japanese lunch, kuzu sweets demonstration and tasting (JPY 1,000 value)." },
+      { question: "Will the cherry blossom be out on my date?", answer: "Mount Yoshino blooms in four bands up the mountain, so the season stretches to roughly two weeks in April rather than the usual one. The lower slopes go first and the highest last." },
+    ];
+  }
+
+  if (slug === "kimpusenji-temple-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "8:45 a.m. in front of the ticket gates of Kintetsu Osaka-Abenobashi Station, Osaka." },
+      { question: "What is included?", answer: "English, Japanese and Spanish speaking guide, Kimpusenji Temple entrance fee (JPY 1,600), lunch, express and deluxe train fees." },
+      { question: "Will the cherry blossom be out on my date?", answer: "Mount Yoshino blooms in four bands up the mountain, so the season stretches to roughly two weeks in April rather than the usual one. The lower slopes go first and the highest last." },
+    ];
+  }
+
+  if (slug === "nara-park-session-photography-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 40 minute photo session." },
+      { question: "Where does it start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Pa." },
+      { question: "What is included?", answer: "Men's/women's yukata or premium kimono set; about 40 minutes of shooting in Nara Park; original photo data; 20 edited photos; free studio photo shoot." },
+      { question: "Is it safe to feed the deer?", answer: "Generally yes, with sense. Buy only the licensed shika senbei crackers, feed with a flat hand, and keep a distance during the October to December rutting season when bucks are more assertive. Minor nips are the most common complaint." },
+    ];
+  }
+
+  if (slug === "sakura-kimono-nara-couples-photo-shoot") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour photo session." },
+      { question: "Where does it start?", answer: "Sakura Kimono Kyoto - Nara shop, 2F (#201) 26-3 Hashimotocho, Nara-shi, Nara-ken 630-8217, Japan. Open 9:30AM-6PM (Mon-Sun)." },
+      { question: "What is included?", answer: "One-hour Nara kimono snap photo shoot, all original photo data, 20 colour-corrected photos selected by the photographer, female kimono rental from premium kimono to silk homongi, male kimono rental, female hair setting, han-haba obi or silk Nagoya obi, and ful." },
+      { question: "What should I bring?", answer: "Nothing beyond what you would normally carry. Dressing, accessories and hair styling are handled on site; wear or bring simple footwear that is easy to remove." },
+    ];
+  }
+
+  if (slug === "nara-park-photography-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour photo session." },
+      { question: "Where does it start?", answer: "Sakura Kimono Kyoto - Nara shop, 2F (#201) 26-3 Hashimotocho, Nara-shi, Nara-ken 630-8217, Japan. Open 9:30AM-6PM (Mon-Sun)." },
+      { question: "What is included?", answer: "1 Hour Nara Kimono Snap Photo Shoot (approx. 1 hour of shooting); All original photo data provided; 20 colour-corrected photos (photographer's selection) provided; Highest quality female Furisode Kimono Rental; Female Hair Setting; Silk Fukuro Obi; full coordi." },
+      { question: "What should I bring?", answer: "Nothing beyond what you would normally carry. Dressing, accessories and hair styling are handled on site; wear or bring simple footwear that is easy to remove." },
+    ];
+  }
+
+  if (slug === "osaka-nara-private-car-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 to 10 hours." },
+      { question: "Where does it start?", answer: "Pickup at your accommodation or agreed address in Osaka." },
+      { question: "What is included?", answer: "Private vehicle with English-speaking driver, fuel, tolls and parking, pickup and drop-off in Osaka, flexible route planning." },
+    ];
+  }
+
+  if (slug === "nara-park-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Kyoto; the exact meeting point is confirmed with your licensed guide after booking." },
+      { question: "What is included?", answer: "A government-licensed multilingual guide for 8 hours, itinerary planning tailored to your interests, guided walking commentary throughout." },
+    ];
+  }
+
+  if (slug === "nara-park-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Osaka." },
+      { question: "What is included?", answer: "Private English-speaking guide, private van with driver, hotel pickup and drop-off in Osaka, all driving between Kyoto and Nara stops." },
+    ];
+  }
+
+  if (slug === "nara-park-customisable-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Pickup in Kyoto." },
+      { question: "What is included?", answer: "Private licensed guide, private van with driver, Kyoto pickup and drop-off, all transport between Nara and Kyoto stops." },
+    ];
+  }
+
+  if (slug === "nara-park-bullet-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Minato City, Tokyo." },
+      { question: "What is included?", answer: "Licensed English-speaking guide, shinkansen and local train travel as per the itinerary, subway transfer from Minato City, guided visits at all three sites." },
+    ];
+  }
+
     return null;
 };
