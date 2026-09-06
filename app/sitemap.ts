@@ -146,7 +146,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-tokyo', 'tokyo-3-day-itinerary', 'getting-around-tokyo',
     'shibuya-crossing-guide', 'tokyo-go-kart-guide', 'mount-fuji-day-trip-from-tokyo',
     'tokyo-food-guide',
-  ,
     'senso-ji-asakusa-guide', 'tsukiji-toyosu-market-guide', 'teamlab-tokyo-guide', 'shinjuku-nightlife-guide', 'tokyo-day-trips',
     'tokyo-sumo-guide',
     'akihabara-guide',
@@ -162,7 +161,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-kyoto', 'getting-around-kyoto', 'kyoto-3-day-itinerary',
     'fushimi-inari-guide', 'arashiyama-bamboo-forest-guide', 'gion-geisha-district-guide',
     'kyoto-food-guide',
-  ,
     'kinkaku-ji-guide', 'kiyomizu-dera-guide', 'kyoto-autumn-foliage-guide', 'kyoto-cherry-blossom-guide', 'nishiki-market-guide',
     'uji-tea-guide',
     'kyoto-with-kids'].map(slug => ({
@@ -178,7 +176,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'osaka-castle-guide', 'dotonbori-guide', 'osaka-food-guide',
     'osaka-to-nara-day-trip', 'osaka-to-kyoto-day-trip', 'shinsekai-guide',
     'osaka-nightlife-guide',
-  ,
     'kuromon-market-guide'].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),
@@ -191,7 +188,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-hiroshima', 'hiroshima-2-day-itinerary', 'getting-around-hiroshima',
     'peace-memorial-park-guide', 'miyajima-island-guide', 'hiroshima-food-guide',
     'hiroshima-day-trips',
-  ,
     'shimanami-kaido-cycling-guide', 'onomichi-guide', 'hiroshima-castle-guide', 'shukkeien-garden-guide', 'kure-yamato-museum-guide'].map(slug => ({
     url: `${BASE_URL}/japan/hiroshima/${slug}`,
     lastModified: new Date(),
@@ -204,7 +200,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-sapporo', 'sapporo-snow-festival-guide', 'getting-around-sapporo',
     'sapporo-food-guide', 'otaru-day-trip-from-sapporo', 'niseko-and-hokkaido-ski-guide',
     'sapporo-3-day-itinerary',
-  ,
     'furano-biei-guide', 'noboribetsu-onsen-guide', 'asahiyama-zoo-guide', 'sapporo-beer-chocolate-factories', 'lake-toya-shikotsu-guide'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
@@ -216,7 +211,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const naraInfoPages = [
     'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
-  ,
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
@@ -228,7 +222,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const nagoyaInfoPages = [
     'best-time-to-visit-nagoya', 'nagoya-castle-guide', 'getting-around-nagoya',
     'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary',
-  ,
     'ghibli-park-guide', 'nagoya-castle-keep-closure', 'atsuta-shrine-guide', 'toyota-museums-guide', 'nakasendo-magome-tsumago-guide'].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
@@ -240,7 +233,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const hakoneInfoPages = [
     'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',
     'hakone-onsen-guide', 'mount-fuji-viewpoints', 'hakone-2-day-itinerary',
-  ,
     'chureito-pagoda-guide', 'kawaguchiko-guide', 'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
