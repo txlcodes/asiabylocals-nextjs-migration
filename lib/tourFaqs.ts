@@ -8750,5 +8750,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-harajuku-traditional-japanese-music-concert") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Hall 60, 6-34-14 Jingumae, Shibuya City, Tokyo 150-0001 — one minute from Meiji-Jingumae Station Exit 7, five minutes from JR Harajuku's Omotesando exit." },
+      { question: "What is included?", answer: "Entry ticket to the venue; Reserved seat; One-hour concert programme with English commentary; Photographs with the musicians afterwards." },
+      { question: "Is it in English?", answer: "Yes. The show is presented in both English and Japanese, and each piece is introduced with its history and context." },
+    ];
+  }
+
+  if (slug === "tokyo-sento-bathhouse-experience-tattoo-friendly") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "In front of the ticket machines at JR Shin-Okubo Station, 1-7 Hyakunincho, Shinjuku City, Tokyo 169-0073." },
+      { question: "What is included?", answer: "Bath entry fee; Same-gender local guide who accompanies you into the bath; Explanation of sento etiquette and culture; Shampoo, conditioner and body soap." },
+      { question: "Do I have to be naked?", answer: "Yes. Japanese sento bathing is nude — no swimwear or clothing — and baths are separated by gender. The operator states this plainly and there is no alternative version." },
+    ];
+  }
+
+  if (slug === "tokyo-asakusa-kimono-yukata-rental-full-day") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Yagai Building 4F, 1-10-11 Hanakawado, Taito City, Tokyo 111-0033 — near Asakusa Station's north exit on the Tobu Skytree Line; take the lift." },
+      { question: "What is included?", answer: "Full kimono set: kimono, obi belt, Japanese clutch, sandals and socks; Full yukata set from June to September; Hair styling (women); Dressing by staff; Outdoor photoshoot with fifteen edited photos on the photoshoot plans." },
+      { question: "What is the difference between kimono and yukata?", answer: "A kimono is layered and worn year-round. A yukata is unlined, lighter and cooler, and is offered from June to September. You can switch from yukata to kimono on the day for a small charge." },
+    ];
+  }
+
+  if (slug === "tateyama-kurobe-alpine-route-private-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 7 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in the Nagano or Matsumoto area, confirmed with the operator when you book." },
+      { question: "What is included?", answer: "Local English-speaking private guide for the whole day; Hotel pickup and drop-off by private vehicle; All highway tolls, parking fees and fuel; On-site route navigation, ticket assistance and photography." },
+      { question: "When are the snow walls open?", answer: "From the route's spring opening in April into June, when the corridor is cut through snowpack up to twenty metres deep. Later in the year the draw is alpine scenery in summer and early autumn colour from September into October." },
+    ];
+  }
+
     return null;
 };

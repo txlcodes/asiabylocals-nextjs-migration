@@ -12901,5 +12901,69 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-harajuku-traditional-japanese-music-concert") {
+        return {
+            averageRating: 5.0, totalReviews: 96, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "This was a fantastic show put on by professional musicians. They gave an excellent overview of each instrument and played a diverse repertoire from traditional to modern music, including a version of “Smells Like Teen Spirit” that we loved! The location is in easy walking distance from Harajuku station and many shops and restaurants. Highly recommend!!!" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "One of the best shows I have ever seen. Not only were we treated to wonderful music played on traditional instruments but we learned about the instruments themselves in an informative and entertaining way. I will go again if I have time." },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "Fucking incredible. Would’ve stayed for the 7:00 but I had another obligation. Live music is always great, but this was very special and wonderful. Super talented group. Tremendous." },
+                { author: "Kristina", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "Awesome! The music took me on a journey through time! The musicians are so incredibly talented!" },
+                { author: "Sascha", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Definitely recommend. This was a great performance of a mix of traditional japanese and modern music played on traditional japanese instruments. Very inreresting explanations regarding the instruments and their history were also give." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "Impressive. It’s not only musically beautiful but historically entertaining. I truly recommend this immersive experience" },
+                { author: "Christopher", country: "Verified traveller review", rating: 5, date: "2026-02-19", text: "Highly enjoyable experience. Very talented musicians playing traditional instruments, hosts translated everything for us if you don't speak Japanese, great selection of music with a western cover thrown in as a surprise. Highly recommend to anyone with an interest in Japanese music." },
+                { author: "Maurizio", country: "Verified traveller review", rating: 5, date: "2025-11-26", text: "It was a wonderful experience for both musicians and non-musicians. The guide was perfect, translating and explaining the various instruments and leading the concert. These high-level musicians managed to move me with their cultural compositions😊" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-sento-bathhouse-experience-tattoo-friendly") {
+        return {
+            averageRating: 4.9, totalReviews: 47, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Leonid", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "The tour was awesome with absolutely wonderful guides! Everyone who love bathing and first time in Japan must take this special tour." },
+                { author: "Alex", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Really enjoyed this cultural experience. Naoki was really friendly and knowledgable about Japanese sento culture and shared his knowledge of the tradition. The Sento was very clean too and the staff were friendly and polite. It was a relaxing experience and I will never forget it. Nice to meet you and thank you again !" },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "Izumi was so lovely and made our first experience at a public bath very easy. We felt very comfortable throughout the whole experience and would certainly recommend Izumi as a guide for others. We learnt a lot!" },
+                { author: "Javier", country: "Verified traveller review", rating: 5, date: "2026-06-10", text: "Our guide really took us into the cultural experience sharing advices and anecdotes, as well as answering all our questions, while always been fun and friendly" },
+                { author: "Leslie", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Wonderful onsen experience from start to finish. Our guide was incredibly patient and understanding when our taxi made us 20 minutes late, which we really appreciated. After 15 days of traveling around Asia, the onsen was exactly what our bodies needed — so relaxing and peaceful. We also loved the thoughtful origami gift, help with the locker setup, and assistance getting a taxi to dinner afterward. Such a kind and memorable experience!" },
+                { author: "Asthildur", country: "Verified traveller review", rating: 5, date: "2026-05-07", text: "Onsen is a must do while visiting Japan. It is relaxing and soothing. Our guides, Naoki and Moto, told us a lot of interesting facts about Onsen and its history. They were very kind and helpful. I can definitely recommend this!" },
+                { author: "Liam", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "It was a great experience doing something very Japanese i loved it! For some people the naked bathing with other dudes might be a bit much but if you've ever plaid a physical sport like rugby you'll have no problem strutting your stuff! Our guide was a great guy, easy to talk to and have a couple laughs with and told us how to act in the bath house as well as the dos and don'ts which was very helpful" },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-04-20", text: "Booked this experience for my husband. He guide was lovely and very helpful. He really enjoyed himself an had a lovely time." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-asakusa-kimono-yukata-rental-full-day") {
+        return {
+            averageRating: 4.9, totalReviews: 227, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "SHAWNMARIE", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "We had an AMAZING EXPERIENCE!! There was clear communication and we arrived on time and were warmly greeted. The space was pristine❤️ cool and relaxing. We were expertly assisted in choosing our Kimonos and being dressed. Our photo session just adorable The staff were kind efficient courteous and just awesome. Don’t hesitate to book with Miu" },
+                { author: "Mir", country: "Verified traveller review", rating: 5, date: "2026-07-09", text: "It was a great experience and I highly recommended. She was very nice at all." },
+                { author: "Rowella", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "Everyone was so nice. No language barrier issue. My kids were so pretty. Highly recommended." },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "They were very friendly. Did a great job. Worked with us when we ran behind. Great would do again!" },
+                { author: "Tara", country: "Verified traveller review", rating: 5, date: "2026-06-08", text: "It went very well! We arrived and could pick out our yukata. The workers there spoke good English and helped us get dressed and do our hair. With the photoshoot we went to a nearby temple and the person taking the photos picked out poses and places for me, which I found very nice." },
+                { author: "Robbie", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "Wonderful experience! The photographer brought me to several locations around Senso-Ji to get some amazing photos. The dressing assistant was very patient and made sure I looked perfect." },
+                { author: "Ruth", country: "Verified traveller review", rating: 5, date: "2026-05-22", text: "It was for my 77 year old mum, and she had a great time. The team were kind, professional and lovely. And the kimono was luscious. It was also deceptively close to the temple, only 3 mins (there’s a short cut). My only negative and it’s a very minor one is better signage. I initially missed the small sign outside and there was nothing further inside. Maybe a small sign on the wall or above the lift button? Otherwise it was wonderful." },
+                { author: "Kristina", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Absolutely wonderful! Beautiful, nice quality kimono! They gave attention to detail, were skilled, and quick. They were exceptionally kind to me. The photographer showed me exactly how to pose. They gave me some time after the photoshoot to wonder before I had to return the kimono to the studio. I went to Nezu Shrine after the photoshoot which was a good choice. It's a beautiful shrine and has good shade. It's a bit hot wearing a kimono when the temperature is 28 degrees Celsius. I believe they offer other options for the summer though. The studio was on the 4th floor. I didn't know that but ended up finding it." },
+            ],
+        };
+    }
+
+    if (slug === "tateyama-kurobe-alpine-route-private-day-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 28, guideRating: 4.7, valueRating: 4.3,
+            reviews: [
+                { author: "Ignaz", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "Chris was a wonderful tourguide with many insights to Japan, the tour and in general a very kind and open guy. Would highly recommend. Thanks so much for having us!" },
+                { author: "Warwick", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "Outstanding, one of the best tours done anywhere in the world. Stunning and spectacular scenery in every direction, fantastic guide Chris. Highly recommend" },
+                { author: "Nathalie", country: "Verified traveller review", rating: 5, date: "2026-04-25", text: "Great experience, and Chris was a fantastic guide. We couldn’t have navigated all the different parts of the Kurobe Route tour without him. We highly recommend this tour. Thanks Chris!" },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "Our guide, Taketo, added so much to this day trip experience. His knowledge of the area and the activity locations was exceptional. In addition, his communication skills allowed for free and easy conversation. We highly recommend this activity with Taketo as your guide!!" },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "We had a fantastic day out and our guide Kazu was very friendly and helpful." },
+                { author: "Alexia", country: "Verified traveller review", rating: 5, date: "2025-10-25", text: "I loved the experience, the views were amazing and the guides were taking good pictures of us the whole time. I was glad to book a guided tour as this route is stressfull to get to and do alone. Since we wanted to hike a bit more, the guides walked us through a little extra area which was nice. They also provided great food recommendations for Nagano following our trip.I do wish the price was inclusive of the entry to the parc, the whole experience felt a bit expensive overall." },
+                { author: "Tracey", country: "Verified traveller review", rating: 5, date: "2025-10-23", text: "Chris was fantastic!!!!!! He was informative knew the area and trail well. We would Recommend him In a heartbeat. We wish we had him for every tour. The scenery and weather was perfect we couldn’t have asked for a better day or company. Well done Chris hope to see you again some day and hope you enjoyed your Tim Tams." },
+                { author: "Marcus", country: "Verified traveller review", rating: 5, date: "2025-10-10", text: "Our guide Chris was super nice and helpful. He arrived at our hotel exactly on time and he took pictures through out the trip and sent them to us in the evening. The trip was great, we had good weather and the views were breathtaking with the early autumn leaves." },
+            ],
+        };
+    }
+
     return null;
 };
