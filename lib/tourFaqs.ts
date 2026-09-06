@@ -9180,5 +9180,35 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "osaka-five-highlights-walking-tour-with-ramen-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Sunlit Sangyo Head Office Building, 3-6-7 Tanimachi, Chuo Ward, Osaka 540-0012 — Osaka Metro Tanimachi Line, Tanimachi 4-chome Station Exit 4, in front of the FamilyMart." },
+      { question: "What is included?", answer: "Local English-speaking guide; Ramen lunch; Transport during the tour; Commentary and guidance throughout; Photography assistance." },
+      { question: "Are the entrance fees included?", answer: "No. Osaka Castle is 1,200 yen and Shitennoji is 500 yen, both payable on the day. The guide, transport during the tour and the ramen lunch are included." },
+    ];
+  }
+
+  if (slug === "osaka-namba-maid-cafe-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "Where does it start?", answer: "3F, 2-2-21 Nanbanaka, Naniwa Ward, Osaka 556-0011." },
+      { question: "What is included?", answer: "One drink; A meal or dessert; Photograph with a maid; Table charge (Passport of Dreamland); The omajinai ritual over your food." },
+      { question: "Is the table charge included?", answer: "Yes. The Passport of Dreamland table charge is covered, along with a drink, a meal or dessert and a photo with a maid." },
+      { question: "Is it family-friendly?", answer: "Yes — there is a family pack for three people, and the format is theatrical rather than adult." },
+    ];
+  }
+
+  if (slug === "osaka-umeda-night-izakaya-walk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "In front of the main door of the Hankyu Tourist Center Osaka Umeda, ground floor, 1-1-2 Shibata, Kita Ward, Osaka 530-0012." },
+      { question: "What is included?", answer: "Local English-speaking guide; Guided walking route through three faces of Umeda; Four alcoholic drinks; Food at each stop: takoyaki, kushikatsu skewers, edamame and fried tofu; Visits to three distinct izakaya." },
+      { question: "Are food and drinks included?", answer: "Yes — four alcoholic drinks and food at each stop, which is unusual for a bar walk and makes the evening simpler than paying as you go." },
+    ];
+  }
+
     return null;
 };

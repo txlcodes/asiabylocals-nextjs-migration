@@ -13258,5 +13258,21 @@ if (slug === "hong-island-boat-tour") {
     }
 
 
+    if (slug === "osaka-five-highlights-walking-tour-with-ramen-lunch") {
+        return {
+            averageRating: 4.7, totalReviews: 433, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Ann", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "My guide - Mr. Toka-san is truly amazing and very patient. I arrived late due to my poor sense of directions, instead of rushing me, he calmly provided directions and waited. He has good knowledge of the places of interest, was very friendly and candid throughout the day. He is a gem and I believe he has shared insightful information. Thank you Mr. Toka-san!" },
+                { author: "Farid", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "The tour was very interesting ! Taka is very knowledgeable about Osaka and provides a lot of information! Highly recommended if you want to visit the main places of Osaka in one day" },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Taka was an amazing guide. He was very knowledgeable about Osaka and its history, he was patient and was really great with our teenagers. It was a really hot day when we had our walking tour and Taka took extra care to help us find shade and keep cool. Walking tours are always a great way to see the highlights of a city and Taka was an excellent host. We really enjoyed our tour and the mix of sights and city highlights that he took us to. It was a great experience for all of us. Thank you very much!" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "We had Taka as a tour guide, he was very helpful and patient with us, despite our walking pace being somewhat slow. He led us around Osaka, stopping to give us valuable bits of information and history of the places we were visiting and knew some incredible photo spots. 10/10" },
+                { author: "Marilyn", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "Tala was our tour guide. He was excellent!!! We were able to see very interested places along the walking tour. He was very knowledgeable and very helpful. He gave us enough time to visit the sites and took us to a great lunch place. I recommend Taka 100%" },
+                { author: "Amalia", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "We had a great time seeing the top sights in Osaka with Taka. The highlight was definitely the castle. He was very patient and provided a great overview of the sites we visited. He also knew the best spots for photos. You are going to walk quite a bit on this tour but it’s the best way to see everything." },
+                { author: "Georgina Lee Ann", country: "Verified traveller review", rating: 5, date: "2026-06-12", text: "we had a great day. Hawaii was our guide was very informative. we covered a lot if ground and really enjoyed the sights. we met a great bunch if people as well. highly recommend when in Osaka." },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "We had a great experience walking with the energetic Taka San. He was an intelligent and genuine person. I happily say our group of 8 enjoyed each others company and Takas experiences of his city" },
+            ],
+        };
+    }
+
     return null;
 };
