@@ -84,6 +84,16 @@ const TOUR_CARD_UJI_TEA = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733889/asiabylocals/tours/uji-tea-museum-and-matcha-grinding-experience/img0.jpg',
 };
 
+
+const TOUR_CARD_NINJA_KYOTO = {
+    slug: 'kyoto-kid-friendly-ninja-class-museum',
+    title: "Family Ninja Class in Kyoto",
+    description: 'Costumes, stealth training, a blowgun and throwing stars, with museum entry included.',
+    price: 'From $74',
+    duration: '2 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733961/asiabylocals/tours/kyoto-kid-friendly-ninja-class-museum/img0.jpg',
+};
+
 export function getKyotoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case "best-time-to-visit-kyoto":
@@ -1407,6 +1417,74 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_UJI_TEA.image,
+      };
+    case "kyoto-with-kids":
+      return {
+        title: "Kyoto with Kids: Temples Are a Hard Sell, So Here Is What Works Instead",
+        seoTitle: "Kyoto with Kids (2026 Guide)",
+        description: "Kyoto's great sights are quiet, crowded and largely about looking at buildings. What to do with children instead, and how to keep the temples in without ruining the day.",
+        fastFacts: [
+          { icon: "Clock", label: "Realistic pace", value: "One temple, one activity, one park" },
+          { icon: "Train", label: "Getting around", value: "Buses are slow and crowded; use trains where possible" },
+          { icon: "Star", label: "Reliable winner", value: "A hands-on workshop, one hour" },
+          { icon: "MapPin", label: "Best day out", value: "Nara's deer, 45 minutes away" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Kyoto is a harder city to bring children to than Tokyo or Osaka, and it is worth being honest about why. Its attractions are temples and gardens: quiet, contemplative, largely visual, and frequently crowded. A seven-year-old will tolerate two of them and resent the third.\n\nThe fix is not to skip the temples. It is to structure days so that each contains **one temple, one hands-on thing, and one place to run around**, and to accept that you will see less than a childless traveller would.\n\nKyoto is extremely well set up for the hands-on part. It has more craft workshops open to visitors than any other Japanese city, most run an hour, most cost less than a museum ticket, and children finish them holding something they made. That single hour buys goodwill for the rest of the day.\n\nThe other structural advantage is Nara, forty-five minutes away, where **the deer are free-roaming and will eat out of your hand**. For most families that is the day of the trip.\n\nOne practical warning: Kyoto's buses are slow, crowded and the main way tourists move around. With children, use the JR and subway lines where they exist and take taxis over buses more often than you would elsewhere.",
+            tourCard: TOUR_CARD_NINJA_KYOTO,
+          },
+          {
+            title: "Workshops That Work, by Length",
+            icon: "Star",
+            content: "Kyoto's craft sessions are the reliable currency of a family trip here. All of the following take an hour or less unless noted, and all end with the child keeping what they made.\n\n| Activity | Age it suits | Length |\n|---|---|---|\n| [Chopstick making in Arashiyama](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) | 6+, hand plane under supervision | 1 hour |\n| [Temari ball with kimono fabric](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) | 5+, nothing sharp or hot | 1 hour |\n| [Ninja class at the samurai museum](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) | 4+, costumes and throwing stars | 2 hours |\n| [Sushi making](/japan/kyoto/kyoto-sushi-making-class-with-footbath) | 7+, and they eat what they make | 1.5 hours |\n\nThe ninja class is the one to book first if your children are between five and eleven. Everyone changes into costume, the training covers stealth movement, and it finishes with a blowgun and shuriken throwing. The group caps at five, so nobody waits in a queue for a turn.\n\nThe chopstick workshop is the cheapest hands-on hour in the city and works well as an Arashiyama afternoon after the bamboo grove, when everyone has had enough of walking.",
+          },
+          {
+            title: "Which Temples Actually Hold Their Attention",
+            icon: "MapPin",
+            content: "Not all of Kyoto's sights are equally hard work with children. Three do considerably better than the rest.\n\n**Fushimi Inari.** The thousands of vermilion gates form tunnels, and walking through them feels like a game rather than a viewing. Go early — by ten the lower path is shoulder to shoulder. You do not need to climb the whole mountain; the first twenty minutes contain the best of it.\n\n**Arashiyama bamboo grove.** Short, outdoors, unmistakably strange, and next to a river and a monkey park. Go before nine if you want photographs without crowds.\n\n**Kinkaku-ji.** Golden, immediately impressive, and the route is a single loop of about twenty minutes, which is exactly the right length.\n\n**What to skip with young children:** the rock gardens. Ryoan-ji is a masterpiece and it is fifteen stones in gravel. Adults sit with it for half an hour; children last ninety seconds, and you will spend the time managing them rather than looking.\n\nA useful tactic is to combine a temple with movement — our [eastern Kyoto e-bike route](/japan/kyoto/kyoto-ebike-tour-ginkakuji-philosophers-path) covers Ginkaku-ji and the Philosopher's Path with garden entry included, and cycling between sites keeps older children far happier than walking between them.",
+          },
+          {
+            title: "The Nara Day",
+            icon: "Users",
+            content: "If one day of your Kyoto trip is going to be the one your children talk about afterwards, it is probably the Nara day.\n\nAround a thousand sika deer live freely in and around Nara Park. They are wild but entirely habituated, they bow when they want food, and you can buy licensed shika senbei crackers to feed them from stalls in the park. For most children this is better than any temple in Japan.\n\nThe practical points matter. **Feed with a flat hand and hold the crackers high until you are ready**, because a deer that can see food will push. Minor nips and shoved backpacks are the usual complaints. During the **October to December rutting season** the bucks are more assertive and the park posts warnings — that is the one period to be more careful with small children.\n\nTodai-ji is right there, and the Great Buddha is one of the few statues large enough to impress a child who has grown bored of temples — fifteen metres of eighth-century bronze in the largest wooden building of its kind.\n\nNara is forty-five minutes from Kyoto by train, and easily done independently. If you would rather not manage the logistics, our [shared Fushimi Inari and Nara day](/japan/nara/kyoto-nara-fushimi-inari-deer-park-day-tour) covers both with a guide.",
+          },
+          {
+            title: "Food, Crowds and the Practical Stuff",
+            icon: "Info",
+            content: "**Food is easier than in most of Japan.** Nishiki Market is a covered street of stalls where everyone can eat something different, conveyor sushi is everywhere, and department store basements have vast food halls with seating.\n\n**Dashi contains fish** and appears in almost everything that looks vegetarian, including many vegetable dishes and most noodle broths. If that matters, ask directly rather than assuming.\n\n**Crowds are the real enemy.** Kyoto's central sights between 10:00 and 16:00 in spring and autumn are genuinely unpleasant with a stroller. Front-load the morning, take the middle of the day indoors or in a workshop, and go back out after four.\n\n**Buses.** Kyoto's tourist bus routes are slow and standing-room-only in season. With children, prefer the JR and subway lines, and take taxis for short hops — they are cheaper than in most Western cities and save an hour of misery.\n\n**Accommodation.** Machiya townhouse rentals suit families better than hotel rooms, which in Kyoto tend to be small. Look for one with a washing machine; it changes what you need to pack.",
+          },
+          {
+            title: "A Three-Day Shape That Holds",
+            icon: "Calendar",
+            content: "**Day 1 — East.** Fushimi Inari at opening, then breakfast. Higashiyama and Kiyomizu-dera late morning. Afternoon: a [workshop in Gion](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) while the streets are at their worst. Evening walk through Pontocho.\n\n**Day 2 — West.** Arashiyama before nine for the bamboo. The monkey park or the river. Lunch, then the [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop). Back into the city mid-afternoon; Kinkaku-ji if there is energy left, the hotel if not.\n\n**Day 3 — Nara.** The whole day. Deer, Todai-ji, and Nara Park, which is large enough for children to run in. Home by late afternoon.\n\nIf you have a fourth day, use it on the [ninja class](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) and a slow morning rather than adding a fourth set of temples.",
+          },
+        ],
+        faqs: [
+          { q: "Is Kyoto good for children?", a: "It is harder than Tokyo or Osaka, because its attractions are quiet temples and gardens. It works if you structure each day as **one temple, one hands-on activity and one place to run around** rather than three temples." },
+          { q: "Which Kyoto temples do children actually like?", a: "**Fushimi Inari** (the gate tunnels feel like a game), **Arashiyama's bamboo grove** (short, outdoors, strange) and **Kinkaku-ji** (immediately impressive, twenty-minute loop). Skip the rock gardens." },
+          { q: "What is the single best activity for kids in Kyoto?", a: "A hands-on workshop. The [ninja class](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) for ages five to eleven, or the [chopstick](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) and [temari](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) workshops, which take an hour and end with something they made." },
+          { q: "Is feeding the deer in Nara safe for children?", a: "Generally yes. Buy only the licensed shika senbei, **feed with a flat hand**, and keep crackers out of sight until you are ready. Be more careful during the **October to December rutting season**, when bucks are more assertive." },
+          { q: "How do we get around Kyoto with kids?", a: "**Avoid the tourist buses** — they are slow and standing-room-only in season. Use the JR and subway lines where they go, and take taxis for short hops more often than you would elsewhere." },
+          { q: "When is Kyoto worst with children?", a: "**Between 10:00 and 16:00 in cherry blossom and autumn seasons.** Do the sights early, put a workshop or a meal in the middle of the day, and go back out after four." },
+          { q: "How long should we spend in Kyoto with children?", a: "Three days works well: one eastern day, one western day, and a full day in Nara for the deer. A fourth day is better spent slowing down than adding more temples." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Kyoto good for children?", acceptedAnswer: { "@type": "Answer", text: "It is harder than Tokyo or Osaka, because its attractions are quiet temples and gardens. It works if you structure each day as **one temple, one hands-on activity and one place to run around** rather than three temples." } },
+            { "@type": "Question", name: "Which Kyoto temples do children actually like?", acceptedAnswer: { "@type": "Answer", text: "**Fushimi Inari** (the gate tunnels feel like a game), **Arashiyama's bamboo grove** (short, outdoors, strange) and **Kinkaku-ji** (immediately impressive, twenty-minute loop). Skip the rock gardens." } },
+            { "@type": "Question", name: "What is the single best activity for kids in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "A hands-on workshop. The [ninja class](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) for ages five to eleven, or the [chopstick](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) and [temari](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) workshops, which take an hour and end with something they made." } },
+            { "@type": "Question", name: "Is feeding the deer in Nara safe for children?", acceptedAnswer: { "@type": "Answer", text: "Generally yes. Buy only the licensed shika senbei, **feed with a flat hand**, and keep crackers out of sight until you are ready. Be more careful during the **October to December rutting season**, when bucks are more assertive." } },
+            { "@type": "Question", name: "How do we get around Kyoto with kids?", acceptedAnswer: { "@type": "Answer", text: "**Avoid the tourist buses** — they are slow and standing-room-only in season. Use the JR and subway lines where they go, and take taxis for short hops more often than you would elsewhere." } },
+            { "@type": "Question", name: "When is Kyoto worst with children?", acceptedAnswer: { "@type": "Answer", text: "**Between 10:00 and 16:00 in cherry blossom and autumn seasons.** Do the sights early, put a workshop or a meal in the middle of the day, and go back out after four." } },
+            { "@type": "Question", name: "How long should we spend in Kyoto with children?", acceptedAnswer: { "@type": "Answer", text: "Three days works well: one eastern day, one western day, and a full day in Nara for the deer. A fourth day is better spent slowing down than adding more temples." } },
+          ],
+        },
+        heroImage: TOUR_CARD_NINJA_KYOTO.image,
       };
     default:
             return null;

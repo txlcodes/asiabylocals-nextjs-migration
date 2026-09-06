@@ -164,7 +164,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'kyoto-food-guide',
   ,
     'kinkaku-ji-guide', 'kiyomizu-dera-guide', 'kyoto-autumn-foliage-guide', 'kyoto-cherry-blossom-guide', 'nishiki-market-guide',
-    'uji-tea-guide'].map(slug => ({
+    'uji-tea-guide',
+    'kyoto-with-kids'].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
