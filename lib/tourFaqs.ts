@@ -9210,5 +9210,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "nagoya-takoyaki-cooking-class") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Up to 30 people." },
+      { question: "Where does it start?", answer: "Nagoya City Higashi Lifelong Learning Center, 1-3-21 Aoi, Higashi Ward, Nagoya 461-0004 — three minutes' walk from Shinsakaemachi." },
+      { question: "What is included?", answer: "Takoyaki cooking class with English instruction; All ingredients; Cooking utensils and pans; Aprons; Tasting at the end." },
+      { question: "Is it hard to flip takoyaki?", answer: "Yes, at first — everyone's early ones are lopsided. The improvement happens visibly within twenty minutes, which is most of the fun." },
+    ];
+  }
+
+  if (slug === "nagoya-kimono-rental-and-castle-city-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Kuri Building, 4-2-10 Sakae, Naka Ward, Nagoya 460-0008 — the entrance is past the Lawson; the office is upstairs. Starts at 9:30 AM." },
+      { question: "What is included?", answer: "Kimono, obi, handbag and hair accessories rental; Professional dressing; English-speaking guide for the half day; All Nagoya Castle admission fees; Photographs taken by your guide." },
+      { question: "Is castle admission included?", answer: "Yes, all Nagoya Castle admission fees are covered. Public transport fares between the office and the castle are your own." },
+    ];
+  }
+
+  if (slug === "nagoya-calligraphy-class-with-tea-and-sweets") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "4-2-10 Sakae, Naka Ward, Nagoya 460-0008 — the entrance is past the Lawson, office on the 6th floor." },
+      { question: "What is included?", answer: "Two-hour calligraphy class with a master; All calligraphy materials; Japanese tea; Traditional Japanese sweets; English instruction." },
+      { question: "What times does it run?", answer: "Two sittings: 10:00 to 12:00 and 15:00 to 17:00. Both cover the same session." },
+    ];
+  }
+
+  if (slug === "nagoya-osu-maid-cafe-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "Where does it start?", answer: "Miu Building, 3-31-45 Osu, Naka Ward, Nagoya, Aichi 460-0011 — in the Osu shopping arcades." },
+      { question: "What is included?", answer: "One drink; A meal or dessert; Photograph with a maid; Table charge (Passport of Dreamland); The omajinai ritual." },
+      { question: "Is the table charge included?", answer: "Yes — it is covered along with a drink, a meal or dessert and a photo with a maid, which is more than most branches include." },
+      { question: "What is Osu?", answer: "Nagoya's covered shopping district — second-hand clothes, electronics, anime goods, street food and antiques around a temple. Worth two hours on its own." },
+    ];
+  }
+
     return null;
 };
