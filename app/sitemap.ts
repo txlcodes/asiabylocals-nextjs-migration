@@ -218,7 +218,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const nagoyaInfoPages = [
     'best-time-to-visit-nagoya', 'nagoya-castle-guide', 'getting-around-nagoya',
     'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary',
-  ].map(slug => ({
+  ,
+    'ghibli-park-guide', 'nagoya-castle-keep-closure', 'atsuta-shrine-guide', 'toyota-museums-guide', 'nakasendo-magome-tsumago-guide'].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

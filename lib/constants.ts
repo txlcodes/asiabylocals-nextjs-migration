@@ -202,7 +202,12 @@ export const NARA_INFO_SLUGS = [
 export const NAGOYA_INFO_SLUGS = [
   'best-time-to-visit-nagoya', 'nagoya-castle-guide', 'getting-around-nagoya',
   'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary'
-];
+,
+  'ghibli-park-guide',
+  'nagoya-castle-keep-closure',
+  'atsuta-shrine-guide',
+  'toyota-museums-guide',
+  'nakasendo-magome-tsumago-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
 export const ELLA_INFO_SLUGS = [

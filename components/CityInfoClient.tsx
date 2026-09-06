@@ -350,7 +350,12 @@ const NARA_SIDEBAR = [
 ];
 
 const NAGOYA_SIDEBAR = [
+    { name: 'Ghibli Park Guide', slug: 'ghibli-park-guide' },
     { name: 'Nagoya Castle', slug: 'nagoya-castle-guide' },
+    { name: 'Castle Keep Closure', slug: 'nagoya-castle-keep-closure' },
+    { name: 'Atsuta Shrine', slug: 'atsuta-shrine-guide' },
+    { name: 'Toyota Museums', slug: 'toyota-museums-guide' },
+    { name: 'Magome to Tsumago Walk', slug: 'nakasendo-magome-tsumago-guide' },
     { name: 'Nagoya Food Guide', slug: 'nagoya-food-guide' },
     { name: 'Day Trips', slug: 'nagoya-day-trips' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-nagoya' },

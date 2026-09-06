@@ -47,6 +47,51 @@ const TOUR_CARD_INUYAMA = {
   image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194246/asiabylocals/tours/nagoya-nagoya-inuyama-castle-magome-juku-tsumago-juku-tour/img0.jpg',
 };
 
+const TOUR_CARD_TOYOTA = {
+  slug: 'toyota-commemorative-museum-of-industry',
+  title: 'Nagoya Full-Day Private Tour: Toyota Museum, Castle & Atsuta Shrine',
+  description: 'A top-rated Nagoya experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 245',
+  duration: '6.5 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194134/asiabylocals/tours/nagoya-nagoya-private-day-tour-to-toyota-museum-castle-shrin/img0.jpg',
+};
+
+const TOUR_CARD_MAGOME = {
+  slug: 'magome-juku-guided-tour',
+  title: 'Magome-juku, Tsumago-juku & Ryujin Falls Day Tour from Nagoya',
+  description: 'A top-rated Nagoya experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 90',
+  duration: '10 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194110/asiabylocals/tours/nagoya-magome-juku-tsumago-juku-ryujin-falls-day-tour-from-n/img0.jpg',
+};
+
+const TOUR_CARD_RAIL = {
+  slug: 'scmaglev-and-railway-park-heritage-tour',
+  title: 'Private Nagoya Railway, Aviation & Port Industrial Heritage Tour',
+  description: 'A top-rated Nagoya experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 444',
+  duration: '8 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194293/asiabylocals/tours/nagoya-nagoya-private-8h-railway-aviation-port-tour/img0.png',
+};
+
+const TOUR_CARD_SUSHI = {
+  slug: 'nagoya-cutting-mini-tour',
+  title: 'Nagoya Tuna Cutting Show & Sushi-Making Class',
+  description: 'A top-rated Nagoya experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 150',
+  duration: '2 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194169/asiabylocals/tours/nagoya-nagoya-tuna-cutting-show-sushi-making-experience/img0.jpg',
+};
+
+const TOUR_CARD_TOKONAME = {
+  slug: 'tokoname-full-day-tour',
+  title: 'Tokoname Pottery Path: Ancient Kiln Town Day Trip',
+  description: 'A top-rated Nagoya experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 108',
+  duration: '6.5 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194199/asiabylocals/tours/nagoya-tokoname-pottery-village-day-trip-from-nagoya/img0.jpg',
+};
+
 export function getNagoyaInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
     case 'best-time-to-visit-nagoya':
@@ -295,6 +340,287 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         heroImage: TOUR_CARD_CASTLE.image,
       };
 
+    case "ghibli-park-guide":
+      return {
+        title: "Ghibli Park: How the Tickets Actually Work, and What It Is Not",
+        seoTitle: "Ghibli Park Guide",
+        description: "Tickets go on sale on the 10th, two months ahead, first-come-first-served — not a lottery. What Ghibli Park is, what it is not, and how to get in from overseas.",
+        fastFacts: [
+          { icon: "map-pin", label: "Where", value: "Aichi Expo Memorial Park, Nagakute — about 40 minutes from central Nagoya" },
+          { icon: "ticket", label: "Tickets released", value: "The 10th of each month, 2pm Japan time, for two months ahead" },
+          { icon: "users", label: "Sale type", value: "First-come, first-served queue — not a lottery, except the summer break" },
+          { icon: "alert-triangle", label: "Important", value: "No rides. It is a walk-through world, not a theme park" },
+        ],
+        sections: [
+          {
+            title: "The Ticket Rule Almost Everyone Gets Wrong",
+            icon: "ticket",
+            content: "The single most common piece of bad advice about Ghibli Park is that tickets are a lottery. They are not, for most of the year.\n\nEach month's tickets are released **on the 10th of the month, at 2:00pm Japan time, for the month two months ahead**. So November's tickets go on sale on 10 September. It is a first-come, first-served queue — you join a virtual waiting room and you either get through or you do not.\n\nThe exception is the Japanese summer break, roughly July and August, when an advance lottery is added because demand is extreme. Outside that window, it is purely a matter of being online and ready at the right minute.\n\nFrom overseas you buy through **Lawson Ticket** or **Klook**. Make the account days before, not on the day — creating one while a queue is moving is how people miss out. Set an alarm for 2:00pm JST and convert it to your own timezone properly; being ten minutes late is usually the difference between going and not going.",
+            tourCard: TOUR_CARD_TOYOTA,
+          },
+          {
+            title: "It Is Not a Theme Park, and That Trips People Up",
+            icon: "alert-triangle",
+            content: "Ghibli Park has **no rides**. There is no rollercoaster, no log flume, no parade. It is a set of built environments dropped into an existing park, designed to be walked through and looked at.\n\nWhat you get instead is craftsmanship: rooms recreated from the films at full scale, with the objects on the desks and the food on the tables built as real props. The **Grand Warehouse** is the indoor centrepiece and the one with a timed entry slot. **Dondoko Forest** holds Satsuki and Mei's house from *My Neighbour Totoro*, built as a working 1950s Japanese home. **Valley of Witches** covers *Kiki's Delivery Service* and *Howl's Moving Castle*. **Hill of Youth** and **Mononoke Village** complete the set.\n\nIf you arrive expecting Disneyland with Totoro, you will be disappointed within an hour. If you arrive expecting to walk slowly through the inside of the films, it is one of the most detailed things of its kind anywhere. Manage the expectation of anyone you bring, especially children who have been promised a 'theme park'.",
+            tourCard: TOUR_CARD_NIGHT,
+          },
+          {
+            title: "Getting There from Nagoya",
+            icon: "train",
+            content: "Ghibli Park sits inside **Aichi Expo Memorial Park** in Nagakute, east of the city, on the site of the 2005 World Expo.\n\nFrom Nagoya Station take the subway Higashiyama Line east to Fujigaoka, then change to the **Linimo** — a short magnetic-levitation line, itself a small novelty — to **Ai-Chikyuhaku-Kinen-Koen** station. The park entrance is right there. Allow roughly 40 minutes door to door, more at peak times.\n\nThe park areas are spread across a large site with real distances between them. Walking between the furthest points takes time, and the Grand Warehouse timed slot is not flexible, so plan the order rather than wandering. Comfortable shoes matter more here than at most attractions.",
+            tourCard: TOUR_CARD_RAIL,
+          },
+          {
+            title: "If You Could Not Get Tickets",
+            icon: "lightbulb",
+            content: "Sellouts are normal, and a failed ticket grab does not have to sink the day. **Aichi Expo Memorial Park itself is free and open**, and it is a genuinely large, pleasant park with a public pool, ice rink and cycling paths — you can go, see the exteriors and the setting, and not pay anything.\n\nMore usefully, Nagoya's own attractions are underrated precisely because visitors treat the city as a Ghibli transit stop. The **Toyota Commemorative Museum of Industry and Technology**, **Atsuta Shrine** and the SCMaglev and Railway Park all sit within the city and none require months of planning.\n\nAnd if the trip is specifically about Studio Ghibli, the **Ghibli Museum in Mitaka**, Tokyo, is a separate institution with its own separate ticketing — smaller, older, and a completely different experience. People conflate the two constantly. They are not the same place and one ticket does not cover the other.",
+            tourCard: TOUR_CARD_CASTLE,
+          },
+        ],
+        faqs: [
+          { q: "Are Ghibli Park tickets a lottery?", a: "Not usually. Tickets go on sale on the 10th of each month at 2pm Japan time, for the month two months ahead, on a first-come first-served basis through Lawson Ticket or Klook. A lottery is added only for the Japanese summer break in July and August." },
+          { q: "Does Ghibli Park have rides?", a: "No. It is a walk-through park of recreated sets and buildings from the films, not a ride-based theme park. Expect detailed environments to explore rather than attractions to queue for." },
+          { q: "How do I get to Ghibli Park from Nagoya?", a: "Subway Higashiyama Line to Fujigaoka, then the Linimo maglev line to Ai-Chikyuhaku-Kinen-Koen station, which is at the park entrance. About 40 minutes in total from Nagoya Station." },
+          { q: "Is Ghibli Park the same as the Ghibli Museum?", a: "No. The Ghibli Museum is in Mitaka, Tokyo, and is a separate, smaller institution with its own ticketing. Ghibli Park is in Nagakute near Nagoya. A ticket for one does not admit you to the other." },
+          { q: "What are the five areas of Ghibli Park?", a: "Ghibli's Grand Warehouse, Hill of Youth, Dondoko Forest, Mononoke Village and Valley of Witches. The Grand Warehouse is indoors and requires a timed entry slot." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Are Ghibli Park tickets a lottery?", acceptedAnswer: { "@type": "Answer", text: "Not usually. Tickets go on sale on the 10th of each month at 2pm Japan time, for the month two months ahead, on a first-come first-served basis through Lawson Ticket or Klook. A lottery is added only for the Japanese summer break in July and August." } },
+            { "@type": "Question", name: "Does Ghibli Park have rides?", acceptedAnswer: { "@type": "Answer", text: "No. It is a walk-through park of recreated sets and buildings from the films, not a ride-based theme park. Expect detailed environments to explore rather than attractions to queue for." } },
+            { "@type": "Question", name: "How do I get to Ghibli Park from Nagoya?", acceptedAnswer: { "@type": "Answer", text: "Subway Higashiyama Line to Fujigaoka, then the Linimo maglev line to Ai-Chikyuhaku-Kinen-Koen station, which is at the park entrance. About 40 minutes in total from Nagoya Station." } },
+            { "@type": "Question", name: "Is Ghibli Park the same as the Ghibli Museum?", acceptedAnswer: { "@type": "Answer", text: "No. The Ghibli Museum is in Mitaka, Tokyo, and is a separate, smaller institution with its own ticketing. Ghibli Park is in Nagakute near Nagoya. A ticket for one does not admit you to the other." } },
+            { "@type": "Question", name: "What are the five areas of Ghibli Park?", acceptedAnswer: { "@type": "Answer", text: "Ghibli's Grand Warehouse, Hill of Youth, Dondoko Forest, Mononoke Village and Valley of Witches. The Grand Warehouse is indoors and requires a timed entry slot." } },
+          ],
+        },
+        heroImage: TOUR_CARD_TOYOTA.image,
+      };
+
+    case "nagoya-castle-keep-closure":
+      return {
+        title: "Nagoya Castle: The Keep Is Closed — Here Is What You Can Still See",
+        seoTitle: "Nagoya Castle Keep Closure",
+        description: "The main keep has been shut since 2018 and will be for years. The Honmaru Palace beside it is open, brand new, and arguably the better building.",
+        fastFacts: [
+          { icon: "alert-triangle", label: "Main keep", value: "Closed to visitors since May 2018 on seismic and ageing grounds" },
+          { icon: "hammer", label: "Being rebuilt", value: "In wood, as originally built; completion targeted around 2032" },
+          { icon: "door-open", label: "Open instead", value: "Honmaru Palace, reconstructed with traditional methods, opened 2018" },
+          { icon: "landmark", label: "Grounds", value: "Open — gardens, walls, moats and the palace are all accessible" },
+        ],
+        sections: [
+          {
+            title: "The Keep You See in Photos, You Cannot Go Into",
+            icon: "alert-triangle",
+            content: "Nagoya Castle's main keep — the big green-roofed tower with the golden *shachihoko* fish on the ridge — **closed to the public in May 2018** and has not reopened. It is structurally aged and does not meet modern seismic standards.\n\nThere is a second thing worth knowing: the tower standing there now is not the original. The castle burned in 1945 and the keep was rebuilt in 1959 in ferro-concrete, in the postwar style of a lot of Japanese castle reconstructions. What is happening now is a second reconstruction — this time in **wood**, using traditional methods, with completion targeted around 2032.\n\nSo if your mental image of visiting Nagoya Castle is climbing the tower for the view, adjust it. You can walk the grounds, photograph the keep from outside, and see it from every angle. You cannot go in, and you will not be able to for years.",
+            tourCard: TOUR_CARD_CASTLE,
+          },
+          {
+            title: "The Palace Is the Reason to Come Now",
+            icon: "door-open",
+            content: "The **Honmaru Palace** is the answer, and it is a better building than the concrete keep ever was.\n\nIt was the residence and audience hall of the Owari branch of the Tokugawa family, destroyed in 1945, and rebuilt over roughly a decade using **only traditional materials and methods**, following detailed prewar plans, photographs and surveys that had survived. It opened fully in 2018 — the same year the keep closed.\n\nWhat you walk through is hinoki cypress, gold-leaf sliding screens repainted from the originals, and rooms arranged by rank so that the further in you are admitted, the more elaborate the decoration. It is loud, gold and startlingly bright, which is what these interiors actually looked like before four centuries of soot.\n\nBecause it is new, everything is crisp. Because it is a faithful reconstruction, it is not a museum display — it is the building. That combination is rare and it is why the castle is still very much worth the ticket despite the closed keep.",
+            tourCard: TOUR_CARD_CASTLE,
+          },
+          {
+            title: "If You Want an Original Keep, Go to Inuyama",
+            icon: "landmark",
+            content: "Only twelve castle keeps in Japan survive from the feudal era without having been destroyed and rebuilt. Nagoya's is not one of them. **Inuyama Castle**, about 40 minutes north of Nagoya, is.\n\nIt is small, steep and wooden, with worn stairs you climb in socks and a top-floor balcony over the Kiso River. It is a National Treasure and it is what a castle keep is actually like — cramped, dark, and built for defence rather than display. Standing in it after seeing Nagoya's concrete tower from the outside is a useful contrast.\n\nInuyama pairs naturally with the Nakasendo post towns further north, which is how most day trips out of Nagoya are structured. If castles are the reason you came to this region, do Nagoya's palace and Inuyama's keep, in that order.",
+            tourCard: TOUR_CARD_INUYAMA,
+          },
+          {
+            title: "What Else Is on the Grounds",
+            icon: "trees",
+            content: "The site is large and the ticket covers all of it. The **Ninomaru Garden** is a formal Edo-period garden in the second bailey, quiet and mostly ignored by visitors heading straight for the keep. The stone walls and moats are original in large stretches and worth walking the perimeter for.\n\n**Kinshachi Yokocho**, a food street beside the east and west gates, does Nagoya's specialities — *miso katsu*, *hitsumabushi* grilled eel, *tebasaki* wings — in a compact row. It is aimed at visitors but the food is genuinely local rather than generic.\n\nAllow about two hours for the palace, garden and grounds. Cherry blossom in early April and autumn colour in late November are the two windows when the grounds themselves become the attraction.",
+            tourCard: TOUR_CARD_SUSHI,
+          },
+        ],
+        faqs: [
+          { q: "Can you go inside Nagoya Castle?", a: "Not the main keep — it has been closed to the public since May 2018 for ageing and seismic reasons, and is being rebuilt in wood with completion targeted around 2032. The Honmaru Palace next to it is open, as are the grounds and gardens." },
+          { q: "Is Nagoya Castle still worth visiting with the keep closed?", a: "Yes, for the Honmaru Palace. It was rebuilt using only traditional materials and methods from surviving prewar plans and opened in 2018 — gold-leaf screens, hinoki cypress and rooms graded by rank. The grounds, moats and Ninomaru Garden are also open." },
+          { q: "Why is Nagoya Castle's keep being rebuilt in wood?", a: "The tower standing today is a 1959 ferro-concrete reconstruction of the original, which burned in 1945. It closed in 2018 as ageing and seismically unsound, and the decision was taken to rebuild it in wood using traditional methods rather than repair the concrete." },
+          { q: "Where can I see an original Japanese castle keep near Nagoya?", a: "Inuyama Castle, about 40 minutes north. It is one of only twelve keeps in Japan surviving from the feudal era and is designated a National Treasure." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Can you go inside Nagoya Castle?", acceptedAnswer: { "@type": "Answer", text: "Not the main keep — it has been closed to the public since May 2018 for ageing and seismic reasons, and is being rebuilt in wood with completion targeted around 2032. The Honmaru Palace next to it is open, as are the grounds and gardens." } },
+            { "@type": "Question", name: "Is Nagoya Castle still worth visiting with the keep closed?", acceptedAnswer: { "@type": "Answer", text: "Yes, for the Honmaru Palace. It was rebuilt using only traditional materials and methods from surviving prewar plans and opened in 2018 — gold-leaf screens, hinoki cypress and rooms graded by rank. The grounds, moats and Ninomaru Garden are also open." } },
+            { "@type": "Question", name: "Why is Nagoya Castle's keep being rebuilt in wood?", acceptedAnswer: { "@type": "Answer", text: "The tower standing today is a 1959 ferro-concrete reconstruction of the original, which burned in 1945. It closed in 2018 as ageing and seismically unsound, and the decision was taken to rebuild it in wood using traditional methods rather than repair the concrete." } },
+            { "@type": "Question", name: "Where can I see an original Japanese castle keep near Nagoya?", acceptedAnswer: { "@type": "Answer", text: "Inuyama Castle, about 40 minutes north. It is one of only twelve keeps in Japan surviving from the feudal era and is designated a National Treasure." } },
+          ],
+        },
+        heroImage: TOUR_CARD_CASTLE.image,
+      };
+
+    case "atsuta-shrine-guide":
+      return {
+        title: "Atsuta Shrine: The Sword You Will Never See",
+        seoTitle: "Atsuta Shrine Guide",
+        description: "Atsuta holds one of the three Imperial Regalia of Japan, and it is never displayed to anyone. What you can actually see at Nagoya's oldest and most important shrine.",
+        fastFacts: [
+          { icon: "landmark", label: "Founded", value: "Traditionally around 1,900 years ago — among Japan's oldest shrines" },
+          { icon: "sword", label: "Enshrined here", value: "Kusanagi-no-Tsurugi, one of the three Imperial Regalia" },
+          { icon: "eye-off", label: "On display", value: "Never. The sword is not shown to the public, or to almost anyone" },
+          { icon: "trees", label: "Grounds", value: "About 190,000 m² of forest inside the city; free to enter" },
+        ],
+        sections: [
+          {
+            title: "The Most Important Object in Nagoya Is Invisible",
+            icon: "eye-off",
+            content: "Atsuta Jingu enshrines the **Kusanagi-no-Tsurugi**, the Grass-Cutting Sword — one of the three Imperial Regalia of Japan, alongside the mirror at Ise and the jewel in Tokyo.\n\nIt is not on display. It has never been a museum object, and it is not shown to the public, to visitors, or in practice to almost anyone at all. Even the emperor is not held to view it directly. Descriptions of it that circulate come from a handful of disputed historical accounts.\n\nThis is worth understanding before you go, because it defines the visit. You are not going to see the sword. You are going to a working shrine whose significance is entirely a matter of what is understood to be inside a building you cannot enter. If you need an object to look at, the **Treasure Hall** on the grounds displays swords, masks and documents from the shrine's collection, and is the closest thing to a physical payoff.",
+            tourCard: TOUR_CARD_TOYOTA,
+          },
+          {
+            title: "What You Actually Experience",
+            icon: "trees",
+            content: "What Atsuta gives you is space and trees. The grounds run to roughly 190,000 square metres of forest in the middle of a large industrial city, and the approach — a long gravel path under camphor trees, some of them said to be a thousand years old — is the point.\n\nIt is not visually spectacular in the way Kyoto's famous shrines are. There is no vermilion tunnel, no photogenic gate over water. The buildings are in the plain **Shinmei-zukuri** style, unpainted cypress with a thatched roof, the same architectural language as Ise. Restraint is the aesthetic.\n\nThat plainness is why it is quiet. Atsuta receives millions of visitors a year, overwhelmingly Japanese, and outside New Year it absorbs them easily. On an ordinary weekday morning you can walk the main approach nearly alone, ten minutes from a subway station in Japan's fourth-largest city.",
+            tourCard: TOUR_CARD_CASTLE,
+          },
+          {
+            title: "Eat the Kishimen on the Grounds",
+            icon: "utensils",
+            content: "Inside the shrine precinct is **Miyakishimen**, an open-sided restaurant serving *kishimen* — Nagoya's flat, wide wheat noodle — under the trees.\n\nIt is the local speciality and this is the canonical place to eat it: broth, flat noodles, a scatter of dried bonito, spring onion and fried tofu, eaten at wooden tables with the forest around you. There is usually a queue at lunch and it moves.\n\nKishimen is one of the reasons Nagoya's food is worth taking seriously rather than treating as a stopover. The city has a genuinely distinct regional cuisine — red *hatcho* miso in everything, *miso katsu*, *tebasaki* wings, *hitsumabushi* eel served three ways in one bowl — and none of it tastes like Tokyo or Osaka.",
+            tourCard: TOUR_CARD_SUSHI,
+          },
+          {
+            title: "Getting There, and What to Pair It With",
+            icon: "train",
+            content: "Atsuta is south of the city centre, a few minutes' walk from **Jingu-mae** on the Meitetsu line or **Jingu-nishi** on the Meijo subway line. From Nagoya Station it is about fifteen minutes.\n\nIt pairs naturally with the **SCMaglev and Railway Park** further south near the port, or with Osu, the covered shopping district, on the way back in. A common half-day is Atsuta in the morning while it is quiet, kishimen for lunch on the grounds, then Osu or the port in the afternoon.\n\nOne timing note: the shrine's biggest day by a wide margin is *hatsumode*, the first shrine visit of the New Year, when attendance runs into the millions across the first few days of January. If you are in Nagoya then, going is a genuine cultural experience — but it is a crowd event, not a quiet walk under trees.",
+            tourCard: TOUR_CARD_RAIL,
+          },
+        ],
+        faqs: [
+          { q: "Can you see the sword at Atsuta Shrine?", a: "No. Kusanagi-no-Tsurugi, one of the three Imperial Regalia, is enshrined at Atsuta but is never displayed — not to the public and in practice not to anyone. The Treasure Hall on the grounds shows other swords and artefacts from the shrine's collection." },
+          { q: "Is Atsuta Shrine worth visiting?", a: "Yes, if you want a working shrine with genuine significance rather than a photogenic one. The draw is 190,000 m² of ancient forest in the middle of Nagoya, plain Ise-style architecture, and how quiet it stays despite millions of annual visitors." },
+          { q: "What should I eat at Atsuta Shrine?", a: "Kishimen — Nagoya's flat wheat noodle — at Miyakishimen, the open-sided restaurant inside the shrine grounds. It is the local speciality and the canonical place to try it." },
+          { q: "How do I get to Atsuta Shrine?", a: "Jingu-mae station on the Meitetsu line, or Jingu-nishi on the Meijo subway line — both a few minutes' walk. About fifteen minutes from Nagoya Station." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Can you see the sword at Atsuta Shrine?", acceptedAnswer: { "@type": "Answer", text: "No. Kusanagi-no-Tsurugi, one of the three Imperial Regalia, is enshrined at Atsuta but is never displayed — not to the public and in practice not to anyone. The Treasure Hall on the grounds shows other swords and artefacts from the shrine's collection." } },
+            { "@type": "Question", name: "Is Atsuta Shrine worth visiting?", acceptedAnswer: { "@type": "Answer", text: "Yes, if you want a working shrine with genuine significance rather than a photogenic one. The draw is 190,000 m² of ancient forest in the middle of Nagoya, plain Ise-style architecture, and how quiet it stays despite millions of annual visitors." } },
+            { "@type": "Question", name: "What should I eat at Atsuta Shrine?", acceptedAnswer: { "@type": "Answer", text: "Kishimen — Nagoya's flat wheat noodle — at Miyakishimen, the open-sided restaurant inside the shrine grounds. It is the local speciality and the canonical place to try it." } },
+            { "@type": "Question", name: "How do I get to Atsuta Shrine?", acceptedAnswer: { "@type": "Answer", text: "Jingu-mae station on the Meitetsu line, or Jingu-nishi on the Meijo subway line — both a few minutes' walk. About fifteen minutes from Nagoya Station." } },
+          ],
+        },
+        heroImage: TOUR_CARD_TOYOTA.image,
+      };
+
+    case "toyota-museums-guide":
+      return {
+        title: "The Three Toyota Attractions Near Nagoya, and Which One to Pick",
+        seoTitle: "Toyota Museums Nagoya Guide",
+        description: "There are three different Toyota sites around Nagoya and people book the wrong one constantly. What each is, where it is, and which one you actually want.",
+        fastFacts: [
+          { icon: "factory", label: "In the city", value: "Toyota Commemorative Museum of Industry and Technology — looms and cars" },
+          { icon: "car", label: "At head office", value: "Toyota Kaikan Museum, Toyota City — current models, plus the plant tour" },
+          { icon: "calendar", label: "Plant tour", value: "Advance booking essential; runs on weekdays and pauses for shutdowns" },
+          { icon: "landmark", label: "Out of town", value: "Toyota Automobile Museum, Nagakute — global motoring history, not just Toyota" },
+        ],
+        sections: [
+          {
+            title: "Three Different Places, Very Similar Names",
+            icon: "alert-triangle",
+            content: "This is the single most common Nagoya planning mistake, and it costs people a day.\n\n**Toyota Commemorative Museum of Industry and Technology** is in Nagoya city itself, in the original Toyoda brick weaving mill. It covers how a loom company became a car company.\n\n**Toyota Kaikan Museum** is at the company's head office in Toyota City, about an hour away. It shows current and near-future models, and it is the departure point for the **factory tour**.\n\n**Toyota Automobile Museum** is in Nagakute, near Ghibli Park, and is a general history of the automobile worldwide — Fords, Mercedes, Citroëns — not a Toyota showroom.\n\nThey are three separate sites with three separate purposes. Booking a hotel near one because you meant another is an easy and annoying error.",
+            tourCard: TOUR_CARD_TOYOTA,
+          },
+          {
+            title: "The One in the City Is the Best of Them",
+            icon: "factory",
+            content: "If you only do one, do the **Commemorative Museum of Industry and Technology**, and the reason is the looms.\n\nToyota did not begin as a car maker. Sakichi Toyoda invented automatic looms, and the textile machinery pavilion runs those machines — actual working nineteenth and twentieth-century looms, operated in front of you, getting progressively more automated as you walk the room. It is loud, mechanical and genuinely gripping in a way a car showroom is not.\n\nThe automobile pavilion then picks up the same thread: how the metalworking and precision the loom business demanded became the basis for building cars. It is a museum about *how a company changes what it makes*, which is a far more interesting subject than the cars themselves.\n\nIt is inside Nagoya, reachable on the Meitetsu line in minutes, and takes two to three hours.",
+            tourCard: TOUR_CARD_TOYOTA,
+          },
+          {
+            title: "The Factory Tour Needs Planning",
+            icon: "calendar",
+            content: "The **plant tour** at Toyota City is the one people most want and most often miss, because it cannot be done on a whim.\n\nIt requires **advance reservation**, places are limited, it runs on weekdays only, and it pauses entirely during company shutdowns — New Year, Golden Week, the summer break — as well as for maintenance periods. English-supported sessions are fewer than Japanese ones.\n\nIf you want it, book it before you fix the rest of your Nagoya dates, then build around it. Treating it as a maybe on the day means not going. Check the official reservation page for the current window, since the rules and capacity have changed more than once.\n\nThe Kaikan Museum at the same site is walk-in and does not need a reservation, so a failed plant booking is not a wasted trip — but the assembly line is the actual draw.",
+            tourCard: TOUR_CARD_RAIL,
+          },
+          {
+            title: "Pairing It with the Rest of the Region",
+            icon: "route",
+            content: "The city museum slots into a normal Nagoya day: castle in the morning, Toyota museum after lunch, Atsuta or Osu in the evening. That is the efficient version and it is what most private day tours here are built around.\n\nThe **Automobile Museum in Nagakute** is the one to combine with **Ghibli Park**, since both sit in the same eastern suburb on the Linimo line. If you have a Ghibli ticket for a morning slot, the car museum is a sensible afternoon.\n\nFor anyone whose interest is industrial rather than automotive specifically, Nagoya has an unusually deep bench: the **SCMaglev and Railway Park** near the port has the record-holding maglev test vehicles, and the region's ceramics and aviation heritage are both museum-grade. This is a manufacturing city and its best attractions reflect that honestly.",
+            tourCard: TOUR_CARD_TOKONAME,
+          },
+        ],
+        faqs: [
+          { q: "Which Toyota museum should I visit in Nagoya?", a: "The Toyota Commemorative Museum of Industry and Technology, inside Nagoya city. It runs original working looms and traces how a textile machinery company became a car maker — more interesting than a model showroom and much easier to reach than the head office." },
+          { q: "How do I book the Toyota factory tour?", a: "Reserve in advance through Toyota's official site. It runs on weekdays only, has limited places, English sessions are fewer, and it pauses for New Year, Golden Week, the summer break and maintenance. Book it before fixing your other Nagoya dates." },
+          { q: "What is the difference between the Toyota museums?", a: "Three sites: the Commemorative Museum of Industry and Technology in Nagoya city covers looms and the origins of the company; the Toyota Kaikan Museum at head office in Toyota City shows current models and hosts the plant tour; the Toyota Automobile Museum in Nagakute is a global history of the car, not Toyota-specific." },
+          { q: "Can I combine a Toyota museum with Ghibli Park?", a: "Yes — the Toyota Automobile Museum in Nagakute is in the same eastern suburb as Ghibli Park, on the Linimo line, so the two pair naturally in one day." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Which Toyota museum should I visit in Nagoya?", acceptedAnswer: { "@type": "Answer", text: "The Toyota Commemorative Museum of Industry and Technology, inside Nagoya city. It runs original working looms and traces how a textile machinery company became a car maker — more interesting than a model showroom and much easier to reach than the head office." } },
+            { "@type": "Question", name: "How do I book the Toyota factory tour?", acceptedAnswer: { "@type": "Answer", text: "Reserve in advance through Toyota's official site. It runs on weekdays only, has limited places, English sessions are fewer, and it pauses for New Year, Golden Week, the summer break and maintenance. Book it before fixing your other Nagoya dates." } },
+            { "@type": "Question", name: "What is the difference between the Toyota museums?", acceptedAnswer: { "@type": "Answer", text: "Three sites: the Commemorative Museum of Industry and Technology in Nagoya city covers looms and the origins of the company; the Toyota Kaikan Museum at head office in Toyota City shows current models and hosts the plant tour; the Toyota Automobile Museum in Nagakute is a global history of the car, not Toyota-specific." } },
+            { "@type": "Question", name: "Can I combine a Toyota museum with Ghibli Park?", acceptedAnswer: { "@type": "Answer", text: "Yes — the Toyota Automobile Museum in Nagakute is in the same eastern suburb as Ghibli Park, on the Linimo line, so the two pair naturally in one day." } },
+          ],
+        },
+        heroImage: TOUR_CARD_TOYOTA.image,
+      };
+
+    case "nakasendo-magome-tsumago-guide":
+      return {
+        title: "Walking the Nakasendo: Magome to Tsumago from Nagoya",
+        seoTitle: "Magome to Tsumago Nakasendo Guide",
+        description: "The most accessible surviving stretch of Japan's Edo-era highway — an 8 km walk between two preserved post towns, done as a day trip from Nagoya.",
+        fastFacts: [
+          { icon: "footprints", label: "The walk", value: "About 8 km, Magome-juku to Tsumago-juku, roughly 2.5 to 3 hours" },
+          { icon: "mountain", label: "Terrain", value: "Uphill from Magome to the Magome Pass, then downhill to Tsumago" },
+          { icon: "landmark", label: "What it is", value: "Two preserved post towns on the Edo-era Nakasendo highway" },
+          { icon: "train", label: "From Nagoya", value: "About 1.5 hours by train and bus to the Magome end" },
+        ],
+        sections: [
+          {
+            title: "What the Nakasendo Was",
+            icon: "landmark",
+            content: "In the Edo period two highways connected Kyoto and Edo. The Tokaido ran along the coast; the **Nakasendo** ran inland through the mountains. Along it were sixty-nine *shukuba* — post towns where travellers, merchants and daimyo processions rested, changed horses and slept.\n\nMost of the Nakasendo is now road. Two adjacent post towns in the Kiso Valley, **Magome-juku** and **Tsumago-juku**, were preserved instead — Tsumago in particular was the subject of a deliberate conservation campaign from the 1960s, when residents agreed not to sell, rent or destroy the buildings.\n\nThe result is a village where power lines are buried, vending machines are hidden behind wooden screens and cars are kept out during the day. It is not a reconstruction. These are the actual buildings, still lived in.",
+            tourCard: TOUR_CARD_MAGOME,
+          },
+          {
+            title: "The Walk Itself",
+            icon: "footprints",
+            content: "The trail between them is roughly **8 km and takes about two and a half to three hours** at a steady pace. It is a real walk but not a hard one — a stone-paved and forest path climbing from Magome to the Magome Pass, then descending through cedar and bamboo into Tsumago.\n\nDo it **Magome to Tsumago**, not the reverse. Magome sits higher on its own hillside but the pass is between them, and this direction puts the climb in the first hour when you are fresh and the long descent at the end. It also finishes in the better-preserved of the two towns, which is the right way round.\n\nAlong the way you pass waterfalls, a teahouse where a volunteer serves free tea, and **bear bells** mounted on posts that walkers ring as they pass. The bells are not decorative. Ring them.\n\nBoth towns run a **luggage forwarding service** between them in season — drop your bag in Magome in the morning, collect it in Tsumago in the afternoon. If you are walking with a suitcase in tow, use it.",
+            tourCard: TOUR_CARD_MAGOME,
+          },
+          {
+            title: "Doing It from Nagoya",
+            icon: "train",
+            content: "Nagoya is the natural base, better than Tokyo or Kyoto, and this is one of the strongest arguments for stopping in the city at all.\n\nThe standard route is a JR train up the Chuo Line to **Nakatsugawa**, then a local bus to Magome. Allow about an hour and a half. At the Tsumago end, a bus runs to **Nagiso** station to pick the line back up. Buses are infrequent — check the return times before you start walking, because missing the last one is the classic mistake here.\n\nThat timetable dependency is why a lot of people do this on an organised day trip instead: transport is handled, the timing is guaranteed, and you walk rather than watch a clock. Either works. Independently it is entirely doable, but it needs the bus times written down.",
+            tourCard: TOUR_CARD_INUYAMA,
+          },
+          {
+            title: "When to Go",
+            icon: "calendar",
+            content: "**Late October into November** is the best window. The Kiso Valley turns properly, the walking temperature is ideal, and the cedar forest sections are at their most atmospheric.\n\nSpring is the second choice — fresh green and manageable temperatures. **Summer** is humid and the forest holds the heat; it is doable but start early. **Winter** brings snow and ice on the pass; the towns are beautiful and very quiet, but the trail can be genuinely slippery and daylight is short.\n\nWhatever the season, start early. Both towns are day-trip destinations and both empty by late afternoon, which means the last hour of the walk and the first hour in Tsumago are often the quietest and best part of the day. Staying overnight in a Tsumago *minshuku* is the upgrade — the town after the buses leave is a different place entirely.",
+            tourCard: TOUR_CARD_MAGOME,
+          },
+        ],
+        faqs: [
+          { q: "How long is the Magome to Tsumago walk?", a: "About 8 km, taking roughly two and a half to three hours at a steady pace. It climbs from Magome to the Magome Pass, then descends into Tsumago." },
+          { q: "Should I walk Magome to Tsumago or the other way?", a: "Magome to Tsumago. The pass sits between them, so this direction puts the climb first while you are fresh and gives you a long descent at the end — and it finishes in Tsumago, the better-preserved of the two towns." },
+          { q: "Can I do the Nakasendo walk as a day trip from Nagoya?", a: "Yes, and Nagoya is the best base for it. JR Chuo Line to Nakatsugawa, then a bus to Magome — about an hour and a half. Return by bus from Tsumago to Nagiso station. Check the bus times before you start walking; they are infrequent." },
+          { q: "When is the best time to walk the Nakasendo?", a: "Late October into November for autumn colour and ideal walking temperatures. Spring is a good second. Summer is humid, and winter brings snow and ice on the pass with short daylight." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How long is the Magome to Tsumago walk?", acceptedAnswer: { "@type": "Answer", text: "About 8 km, taking roughly two and a half to three hours at a steady pace. It climbs from Magome to the Magome Pass, then descends into Tsumago." } },
+            { "@type": "Question", name: "Should I walk Magome to Tsumago or the other way?", acceptedAnswer: { "@type": "Answer", text: "Magome to Tsumago. The pass sits between them, so this direction puts the climb first while you are fresh and gives you a long descent at the end — and it finishes in Tsumago, the better-preserved of the two towns." } },
+            { "@type": "Question", name: "Can I do the Nakasendo walk as a day trip from Nagoya?", acceptedAnswer: { "@type": "Answer", text: "Yes, and Nagoya is the best base for it. JR Chuo Line to Nakatsugawa, then a bus to Magome — about an hour and a half. Return by bus from Tsumago to Nagiso station. Check the bus times before you start walking; they are infrequent." } },
+            { "@type": "Question", name: "When is the best time to walk the Nakasendo?", acceptedAnswer: { "@type": "Answer", text: "Late October into November for autumn colour and ideal walking temperatures. Spring is a good second. Summer is humid, and winter brings snow and ice on the pass with short daylight." } },
+          ],
+        },
+        heroImage: TOUR_CARD_MAGOME.image,
+      };
     default:
       return null;
   }
