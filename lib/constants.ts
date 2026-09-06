@@ -171,7 +171,12 @@ export const TOKYO_INFO_SLUGS = [
   'best-time-to-visit-tokyo', 'tokyo-3-day-itinerary', 'getting-around-tokyo',
   'shibuya-crossing-guide', 'tokyo-go-kart-guide', 'mount-fuji-day-trip-from-tokyo',
   'tokyo-food-guide'
-];
+,
+  'senso-ji-asakusa-guide',
+  'tsukiji-toyosu-market-guide',
+  'teamlab-tokyo-guide',
+  'shinjuku-nightlife-guide',
+  'tokyo-day-trips'];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
 export const KYOTO_INFO_SLUGS = [

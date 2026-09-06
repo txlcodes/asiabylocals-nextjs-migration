@@ -390,6 +390,11 @@ const SAPPORO_SIDEBAR = [
 ];
 
 const TOKYO_SIDEBAR = [
+    { name: 'Senso-ji & Asakusa', slug: 'senso-ji-asakusa-guide' },
+    { name: 'Tsukiji vs Toyosu', slug: 'tsukiji-toyosu-market-guide' },
+    { name: 'teamLab Guide', slug: 'teamlab-tokyo-guide' },
+    { name: 'Shinjuku Nightlife', slug: 'shinjuku-nightlife-guide' },
+    { name: 'Day Trips from Tokyo', slug: 'tokyo-day-trips' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-tokyo' },
     { name: '3-Day Itinerary', slug: 'tokyo-3-day-itinerary' },
     { name: 'Getting Around', slug: 'getting-around-tokyo' },

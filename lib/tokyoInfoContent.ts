@@ -17,6 +17,10 @@ const IMG = {
     yanaka: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740245/asiabylocals/tours/tokyo-ebike-hidden-neighbourhoods-3-hours/hq_tour_img_1.jpg",
     food: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169079/asiabylocals/tours/togoshi-ginza-hidden-food-tour/hq_tour_img_1.jpg",
     kartEast: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740200/asiabylocals/tours/tokyo-go-kart-asakusa-skytree-akihabara/hq_tour_img_1.png",
+    fullDay: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169023/asiabylocals/tours/tokyo-full-day-city-tour-with-local/hq_tour_img_1.jpg",
+    ghost: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169054/asiabylocals/tours/tokyo-ghost-tour-japanese-folklore/hq_tour_img_1.jpg",
+    nightCar: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169043/asiabylocals/tours/tokyo-yokohama-private-night-tour/hq_tour_img_1.jpg",
+    snowMonkey: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169014/asiabylocals/tours/nagano-zenkoji-snow-monkeys-day-trip/hq_tour_img_1.jpg",
 };
 
 const CARD = {
@@ -28,6 +32,10 @@ const CARD = {
     kartEast: { slug: "tokyo-skytree-spiritual-tour", title: "Asakusa to Akihabara Go-Kart Run", description: "Old Tokyo, the Sumida under Skytree, then Electric Town — the quieter east-side route.", price: "From $81", duration: "70 minutes", image: IMG.kartEast },
     neon: { slug: "shibuya-crossing-photography-tour", title: "Shibuya After Dark: Private Neon Photo Walk", description: "A local photographer shoots you through the crossing and the lantern-lit back alleys.", price: "From $116", duration: "1 hour", image: IMG.neon },
     nightBike: { slug: "tokyo-tower-bike-tour", title: "Tokyo After Dark by Bike", description: "Omotesando and Roppongi to a floodlit Tokyo Tower, finishing in Aoyama Cemetery's silence.", price: "From $48", duration: "2 hours", image: IMG.ebike },
+    fullDay: { slug: "senso-ji-temple-guided-tour", title: "Tokyo in a Day: Asakusa, Yanaka, the Palace and Harajuku", description: "Six hours across the old east side and the modern west with a local guide.", price: "From $151", duration: "6 hours", image: IMG.fullDay },
+    ghost: { slug: "tokyo-backstreets-walking-tour", title: "Tokyo Ghost Walk: Yokai and City Folklore", description: "Vengeful spirits, yokai and the backstreets they are said to haunt.", price: "From $96", duration: "2 hours", image: IMG.ghost },
+    nightCar: { slug: "rainbow-bridge-evening-tour", title: "Tokyo by Night: Private Car Tour with Hotel Pickup", description: "Rainbow Bridge, the bayfront and the skyline, without a single train change.", price: "From $188", duration: "4 hours", image: IMG.nightCar },
+    snowMonkey: { slug: "jigokudani-monkey-park-full-day-tour", title: "Snow Monkeys and Zenko-ji: Private Nagano Day Trip", description: "Jigokudani's hot-spring macaques and Nagano's great temple, door to door.", price: "From $173", duration: "10 hours", image: IMG.snowMonkey },
     food: { slug: "togoshi-ginza-shotengai-food-tour", title: "Togoshi Ginza Food Walk", description: "Tokyo's longest shopping street — 1.3 km, 400 shops, no other tour groups.", price: "From $113", duration: "3 hours", image: IMG.food },
 };
 
@@ -968,7 +976,286 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
-        default:
+        case "senso-ji-asakusa-guide":
+      return {
+        title: "Senso-ji and Asakusa: Tokyo's Oldest Temple, and When to Go",
+        seoTitle: "Senso-ji Asakusa Guide",
+        description: "Senso-ji is open 24 hours and the shopping street in front of it is not. That gap is the whole trick to visiting Asakusa well.",
+        fastFacts: [
+          { icon: "landmark", label: "Founded", value: "628 CE — Tokyo's oldest temple, predating the city itself" },
+          { icon: "clock", label: "Grounds", value: "Open 24 hours; the main hall opens around 6am (6:30 in winter)" },
+          { icon: "store", label: "Nakamise-dori", value: "About 250 m of stalls; most shut by early evening" },
+          { icon: "users", label: "Visitors", value: "One of the most visited religious sites in the world" },
+        ],
+        sections: [
+          {
+            title: "The Grounds Never Close",
+            icon: "moon",
+            content: "Senso-ji's outer grounds are **open around the clock**, and the Kaminarimon gate, the five-storey pagoda and the main hall are lit at night. The main hall itself opens at about 6am, 6:30 in winter, and closes at 5pm.\n\nThat means there are two completely different Asakusas. The daytime one is among the busiest religious sites on earth, with the 250-metre Nakamise-dori shopping street moving at a shuffle. The night one — after about 8pm, once the stalls have shuttered — is a lit, empty temple complex you can walk through alone.\n\nMost visitors only ever see the first. If Asakusa is on your list and your schedule is flexible, go late. The photographs are better, the place is quiet, and it costs nothing.",
+            tourCard: CARD.fullDay,
+          },
+          {
+            title: "Nakamise-dori Is Older Than It Looks",
+            icon: "store",
+            content: "The stall street running from the Kaminarimon gate to the temple is not a modern tourist invention. Shops have traded on this approach since the late 1600s, when local residents were granted the right to sell to pilgrims in exchange for cleaning the grounds.\n\nWhat to actually buy: **ningyo-yaki**, small sponge cakes filled with red bean and pressed in moulds, sold hot; **kaminari-okoshi**, a hard puffed-rice sweet named after the thunder gate; and *senbei* rice crackers grilled in front of you.\n\nA note that saves annoyance: eating while walking down Nakamise is discouraged and several shops ask you not to. Buy, step aside, eat, then carry on. The street is narrow and it is a temple approach, not a food court.",
+            tourCard: CARD.food,
+          },
+          {
+            title: "The Streets Behind Are the Better Half",
+            icon: "footprints",
+            content: "Almost everyone walks the same line — gate, stall street, temple, back out. Step one street sideways and the crowd disappears.\n\n**Denboin-dori**, running west off Nakamise, is a short street dressed in Edo-period shopfronts. The blocks north and east of the temple hold *senbei* makers, knife shops, and Japan's oldest amusement park, **Hanayashiki**, opened in 1853 and still running a rollercoaster through a gap between buildings.\n\nAsakusa is also the best place in Tokyo to see genuine craft supply shops — **Kappabashi**, the restaurant-supply street, is a ten-minute walk and is where the city's kitchens buy their knives, ceramics and the plastic food models that sit in restaurant windows.",
+            tourCard: CARD.yanaka,
+          },
+          {
+            title: "Getting There and What to Pair It With",
+            icon: "train",
+            content: "Asakusa station is served by the Ginza, Asakusa and Tobu lines. The **Ginza line** is the oldest subway line in Asia, opened in 1927 between here and Ueno, which is a small piece of trivia that becomes obvious once you see the station's age.\n\nThe natural pairing is the river. A **water bus** runs from Asakusa down the Sumida to Hamarikyu Gardens and Odaiba, and it is a far better way to move through Tokyo than another subway ride. **Tokyo Skytree** is one stop away and visible from the temple grounds.\n\nFor a full day, Asakusa in the early morning, Yanaka's old lanes at midday and Akihabara or Ueno in the afternoon covers the eastern, older half of Tokyo that most first-time itineraries skip in favour of Shibuya and Shinjuku.",
+            tourCard: CARD.ebike,
+          },
+        ],
+        faqs: [
+          { q: "What time does Senso-ji open?", a: "The outer grounds are open 24 hours and lit at night. The main hall opens around 6am — 6:30 in winter — and closes at 5pm. The Nakamise stall street mostly shuts by early evening." },
+          { q: "When is the best time to visit Asakusa?", a: "Early morning or after about 8pm. In daylight it is one of the busiest religious sites in the world; at night the lit temple complex is often close to empty because the grounds never close." },
+          { q: "Can you eat while walking on Nakamise-dori?", a: "It is discouraged and several shops ask you not to. Buy, step aside to eat, then continue — the street is narrow and it is a temple approach." },
+          { q: "What should I combine with Senso-ji?", a: "Kappabashi restaurant-supply street and Hanayashiki, both a short walk; Tokyo Skytree one stop away; or the Sumida river water bus down to Hamarikyu Gardens and Odaiba." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What time does Senso-ji open?", acceptedAnswer: { "@type": "Answer", text: "The outer grounds are open 24 hours and lit at night. The main hall opens around 6am — 6:30 in winter — and closes at 5pm. The Nakamise stall street mostly shuts by early evening." } },
+            { "@type": "Question", name: "When is the best time to visit Asakusa?", acceptedAnswer: { "@type": "Answer", text: "Early morning or after about 8pm. In daylight it is one of the busiest religious sites in the world; at night the lit temple complex is often close to empty because the grounds never close." } },
+            { "@type": "Question", name: "Can you eat while walking on Nakamise-dori?", acceptedAnswer: { "@type": "Answer", text: "It is discouraged and several shops ask you not to. Buy, step aside to eat, then continue — the street is narrow and it is a temple approach." } },
+            { "@type": "Question", name: "What should I combine with Senso-ji?", acceptedAnswer: { "@type": "Answer", text: "Kappabashi restaurant-supply street and Hanayashiki, both a short walk; Tokyo Skytree one stop away; or the Sumida river water bus down to Hamarikyu Gardens and Odaiba." } },
+          ],
+        },
+        heroImage: CARD.fullDay.image,
+      };
+
+    case "tsukiji-toyosu-market-guide":
+      return {
+        title: "Tsukiji or Toyosu? Both Exist — Here Is Which One You Want",
+        seoTitle: "Tsukiji vs Toyosu Market Guide",
+        description: "The wholesale market moved to Toyosu in 2018. The Tsukiji outer market did not move and is still open. People book the wrong one constantly.",
+        fastFacts: [
+          { icon: "alert-triangle", label: "The split", value: "Wholesale market moved to Toyosu in October 2018; Tsukiji outer market stayed" },
+          { icon: "fish", label: "Tuna auction", value: "Toyosu only, from an observation deck, very early morning" },
+          { icon: "utensils", label: "Eating and browsing", value: "Tsukiji outer market — hundreds of stalls and small restaurants" },
+          { icon: "clock", label: "Timing", value: "Both are morning places. Toyosu auction viewing starts around 5:30am" },
+        ],
+        sections: [
+          {
+            title: "The Move That Confused Everyone",
+            icon: "alert-triangle",
+            content: "In **October 2018** Tokyo's wholesale fish market — the tuna auctions, the licensed traders, the forklifts — relocated from Tsukiji to a purpose-built site at **Toyosu**, about two kilometres away.\n\nWhat did not move is the **Tsukiji outer market**, the dense grid of shops and small restaurants that grew up around the wholesale operation. It is still there, still open, still busy.\n\nSo 'is Tsukiji closed?' has a confusing answer: the market that made it famous is gone, and the market most visitors actually wanted is not. Guides written before 2018 and articles that never got updated are why people still turn up at Tsukiji expecting an auction, or at Toyosu expecting street food.",
+            tourCard: CARD.food,
+          },
+          {
+            title: "Go to Tsukiji If You Want to Eat",
+            icon: "utensils",
+            content: "For almost every visitor, **Tsukiji outer market is the right choice**. It is hundreds of stalls and counter restaurants packed into a few blocks — sushi, grilled scallops, tamagoyaki on sticks, uni, knives, dried goods, tea.\n\nIt runs on a morning rhythm. Most places open early and start closing from early afternoon, and a fair number shut on Sundays and Wednesdays, which catches people out. Aim to arrive between 8 and 10am.\n\nIt is now unambiguously a visitor destination rather than a trade market, and prices reflect that. It is still very good food, and the sheer density of it — a sushi counter with eight seats wedged between a knife shop and a dried-fish stall — is the experience.",
+            tourCard: CARD.food,
+          },
+          {
+            title: "Go to Toyosu If You Want the Auction",
+            icon: "fish",
+            content: "Toyosu is a modern, enclosed facility, and visiting it is a different proposition: you watch the working market through glass, from **observation decks and corridors**, rather than walking among it.\n\nThe **tuna auction** is the draw and it is early — viewing from the upper deck starts around 5:30am. There is also a limited number of closer, lower-deck places allocated by advance application, which is the version people mean when they talk about 'getting into' the auction.\n\nToyosu has its own restaurants, including relocated Tsukiji institutions, and a newer market-and-hot-spring complex next door. It is clean, organised and slightly sterile compared with Tsukiji's alleys — which is exactly what a modern food-safety facility is supposed to be.\n\nIt is reached on the **Yurikamome** line, the driverless elevated train from Shimbashi, which is a decent ride in itself.",
+            tourCard: CARD.halfDay,
+          },
+          {
+            title: "Doing Both in One Morning",
+            icon: "route",
+            content: "They are close enough to combine and the order matters. **Toyosu first**, for the auction viewing at dawn, then back to **Tsukiji** for breakfast at around 8am when the outer market is hitting its stride.\n\nThat sequence works because Toyosu's interesting hour is over before Tsukiji's begins. Reversing it means arriving at Toyosu after the auction has finished, which leaves you looking at an empty hall through glass.\n\nIf you only have one morning and are not specifically interested in the auction, skip Toyosu entirely. Tsukiji's outer market is more enjoyable, easier to reach, and does not require being awake at 4:30am.",
+            tourCard: CARD.fullDay,
+          },
+        ],
+        faqs: [
+          { q: "Is Tsukiji market closed?", a: "The wholesale market moved to Toyosu in October 2018, but the Tsukiji outer market — the shops and small restaurants — never moved and is still open and busy." },
+          { q: "Where is the tuna auction now?", a: "At Toyosu, viewed through glass from observation decks, with viewing starting around 5:30am. A limited number of closer lower-deck spots are allocated by advance application." },
+          { q: "Should I go to Tsukiji or Toyosu?", a: "Tsukiji outer market if you want to eat and browse — it is denser, easier to reach and more enjoyable. Toyosu if the tuna auction is specifically what you came for." },
+          { q: "What time should I visit Tsukiji outer market?", a: "Between about 8 and 10am. It runs on a morning rhythm and many stalls start closing in the early afternoon. A number also close on Sundays and Wednesdays." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Tsukiji market closed?", acceptedAnswer: { "@type": "Answer", text: "The wholesale market moved to Toyosu in October 2018, but the Tsukiji outer market — the shops and small restaurants — never moved and is still open and busy." } },
+            { "@type": "Question", name: "Where is the tuna auction now?", acceptedAnswer: { "@type": "Answer", text: "At Toyosu, viewed through glass from observation decks, with viewing starting around 5:30am. A limited number of closer lower-deck spots are allocated by advance application." } },
+            { "@type": "Question", name: "Should I go to Tsukiji or Toyosu?", acceptedAnswer: { "@type": "Answer", text: "Tsukiji outer market if you want to eat and browse — it is denser, easier to reach and more enjoyable. Toyosu if the tuna auction is specifically what you came for." } },
+            { "@type": "Question", name: "What time should I visit Tsukiji outer market?", acceptedAnswer: { "@type": "Answer", text: "Between about 8 and 10am. It runs on a morning rhythm and many stalls start closing in the early afternoon. A number also close on Sundays and Wednesdays." } },
+          ],
+        },
+        heroImage: CARD.food.image,
+      };
+
+    case "teamlab-tokyo-guide":
+      return {
+        title: "teamLab in Tokyo: Two Museums, and Which One to Book",
+        seoTitle: "teamLab Tokyo Guide",
+        description: "Borderless in Azabudai Hills and Planets in Toyosu are separate museums with separate tickets. What each is like, and how far ahead to book.",
+        fastFacts: [
+          { icon: "map-pin", label: "Borderless", value: "Azabudai Hills, central Tokyo — a wandering museum with no fixed route" },
+          { icon: "droplet", label: "Planets", value: "Toyosu — barefoot, and you walk through knee-deep water" },
+          { icon: "ticket", label: "Booking", value: "Timed tickets, released around two months ahead, and they sell out" },
+          { icon: "alert-triangle", label: "Common error", value: "They are different venues. One ticket does not cover both" },
+        ],
+        sections: [
+          {
+            title: "They Are Two Different Museums",
+            icon: "alert-triangle",
+            content: "This is the mistake people make, and it usually costs a booking. **teamLab Borderless** and **teamLab Planets** are separate museums, in different parts of Tokyo, with separate tickets.\n\n**Borderless** sits in **Azabudai Hills** in central Tokyo. Its concept is that the artworks are not confined to rooms — they wander between spaces, cross walls, and interact with each other, so there is no set route and no map. You are meant to get lost in it.\n\n**Planets** is out at **Toyosu**, near the fish market. You go **barefoot**, and several rooms involve walking through water up to your knees. It is more of a sequence — four main exhibition spaces you pass through in order — and physically a more unusual experience than Borderless.\n\nMost people who have time for one pick Borderless for scale and Planets for novelty. Doing both in a day is possible but they are on opposite sides of the city centre.",
+            tourCard: CARD.neon,
+          },
+          {
+            title: "Book Early, and Pick Your Slot Carefully",
+            icon: "ticket",
+            content: "Both venues run **timed entry** and both regularly sell out, especially at weekends and through holiday periods. Tickets are typically released around **two months ahead** and are limited per slot.\n\nBook online before you fly, not when you arrive. Same-day tickets exist in theory and are usually gone in practice.\n\nOn slot choice: these are dark, mirrored, heavily photographed spaces, and the crowd density inside changes the experience more than at a conventional museum. Earlier slots on weekdays are noticeably calmer than evening or weekend ones.\n\nPractical notes: at **Planets**, wear or bring shorts — you will be rolling trousers up, and lockers and rinse facilities are provided. Skirts and dresses are a problem in a building full of mirrored floors, which the venue itself warns about. At both, phone in hand is standard, but the works are better looked at than photographed.",
+            tourCard: CARD.halfDay,
+          },
+          {
+            title: "Is It Worth It?",
+            icon: "lightbulb",
+            content: "Honest answer: it is one of the few things in Tokyo that is genuinely unlike anything you can see elsewhere, and it is also the most photographed and most hyped attraction in the city.\n\nWhat it does well is scale and immersion — rooms where projected flowers bloom and die on your body as you stand still, a hall of hanging lights that respond to movement, a water room where projected koi turn into flowers when they touch you. There is real technical craft in it.\n\nWhat it is not is a museum with information, context or anything to read. You walk through effects. Some people find ninety minutes plenty and others stay three hours.\n\nIf your trip is short and you are choosing between teamLab and, say, an early morning at Senso-ji or a day trip to Nikko, it is worth being clear-eyed: teamLab is spectacular and it is not Japan-specific in any deep sense. Book it because you want to see the art, not because it tops a list.",
+            tourCard: CARD.nightBike,
+          },
+          {
+            title: "Getting to Each One",
+            icon: "train",
+            content: "**Borderless** is at Azabudai Hills, walkable from Kamiyacho or Roppongi-itchome stations on the Hibiya and Namboku lines. It is central, so it slots into a normal Tokyo day — Roppongi, Tokyo Tower and Azabudai are all in the same pocket.\n\n**Planets** is at Shin-Toyosu on the **Yurikamome** driverless line, or Toyosu on the Yurakucho line. It pairs naturally with **Toyosu fish market** in the morning, since they are minutes apart — auction at dawn, breakfast, then Planets when it opens.\n\nAllow a good two hours inside either, plus queueing at entry even with a timed ticket.",
+            tourCard: CARD.nightCar,
+          },
+        ],
+        faqs: [
+          { q: "What is the difference between teamLab Borderless and teamLab Planets?", a: "They are separate museums with separate tickets. Borderless is in Azabudai Hills in central Tokyo, a wandering museum with no fixed route where artworks move between rooms. Planets is in Toyosu, where you go barefoot and walk through knee-deep water across four exhibition spaces." },
+          { q: "How far in advance should I book teamLab tickets?", a: "As early as you can. Timed tickets are typically released around two months ahead, are limited per slot, and sell out — particularly at weekends and in holiday periods. Do not rely on same-day availability." },
+          { q: "What should I wear to teamLab Planets?", a: "Shorts or trousers you can roll up, because several rooms involve walking through water up to the knee. Avoid skirts and dresses — much of the venue has mirrored floors. Lockers and rinse facilities are provided." },
+          { q: "Can I visit both teamLab museums in one day?", a: "Yes, but they are on opposite sides of central Tokyo and each needs about two hours plus entry queueing. Planets pairs more naturally with Toyosu fish market in the morning." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the difference between teamLab Borderless and teamLab Planets?", acceptedAnswer: { "@type": "Answer", text: "They are separate museums with separate tickets. Borderless is in Azabudai Hills in central Tokyo, a wandering museum with no fixed route where artworks move between rooms. Planets is in Toyosu, where you go barefoot and walk through knee-deep water across four exhibition spaces." } },
+            { "@type": "Question", name: "How far in advance should I book teamLab tickets?", acceptedAnswer: { "@type": "Answer", text: "As early as you can. Timed tickets are typically released around two months ahead, are limited per slot, and sell out — particularly at weekends and in holiday periods. Do not rely on same-day availability." } },
+            { "@type": "Question", name: "What should I wear to teamLab Planets?", acceptedAnswer: { "@type": "Answer", text: "Shorts or trousers you can roll up, because several rooms involve walking through water up to the knee. Avoid skirts and dresses — much of the venue has mirrored floors. Lockers and rinse facilities are provided." } },
+            { "@type": "Question", name: "Can I visit both teamLab museums in one day?", acceptedAnswer: { "@type": "Answer", text: "Yes, but they are on opposite sides of central Tokyo and each needs about two hours plus entry queueing. Planets pairs more naturally with Toyosu fish market in the morning." } },
+          ],
+        },
+        heroImage: CARD.neon.image,
+      };
+
+    case "shinjuku-nightlife-guide":
+      return {
+        title: "Shinjuku After Dark: Golden Gai, Omoide Yokocho and the Rules",
+        seoTitle: "Shinjuku Nightlife Guide",
+        description: "Six-seat bars in wooden alleys, cover charges nobody warns you about, and the one district in Shinjuku to be careful in.",
+        fastFacts: [
+          { icon: "wine", label: "Golden Gai", value: "About 200 tiny bars across six lanes; many seat five or six people" },
+          { icon: "wallet", label: "Cover charge", value: "Common in Golden Gai — typically posted at the door; check before entering" },
+          { icon: "flame", label: "Omoide Yokocho", value: "'Memory Lane' — yakitori grills under the tracks, cash-friendly, no cover" },
+          { icon: "alert-triangle", label: "Kabukicho", value: "Fine to walk through; ignore street touts entirely" },
+        ],
+        sections: [
+          {
+            title: "Golden Gai: Small Bars, and a Cover Charge",
+            icon: "wine",
+            content: "**Golden Gai** is six narrow lanes holding roughly two hundred bars, most of them the size of a garden shed with five or six stools. Each has an owner, a theme and a regular crowd — one plays only punk, another is decorated entirely in film posters.\n\nThe thing to know before you walk in: **many charge a cover**, typically a few hundred to a thousand yen per person on top of drinks. It is usually posted on the door, often in English. It is not a scam; it is how a bar with six seats survives. But turning up unaware and being charged feels like one, which is why people complain about it online.\n\nSome bars are explicitly regulars-only and will have a sign saying so. Respect it rather than testing it. Plenty of others actively welcome visitors and say so on the door. Read doors before opening them and Golden Gai is one of the best nights out in Tokyo.",
+            tourCard: CARD.nightBike,
+          },
+          {
+            title: "Omoide Yokocho Is the Easier Option",
+            icon: "flame",
+            content: "On the other side of Shinjuku station, **Omoide Yokocho** — 'Memory Lane' — is a cluster of tiny yakitori and offal grills packed under and beside the railway tracks. Smoke, plastic stools, laminated menus, trains overhead.\n\nIt is more approachable than Golden Gai: you are eating rather than committing to a bar, cover charges are not the norm, and the turnover is fast enough that a seat opens up if you wait. Prices are per skewer and add up quickly, which is normal.\n\nIt is also very small and very popular, so it is standing-room busy from about 7pm. Going at 5:30 or after 10 is the difference between sitting down and hovering.",
+            tourCard: CARD.food,
+          },
+          {
+            title: "Kabukicho, Honestly",
+            icon: "alert-triangle",
+            content: "**Kabukicho** is Tokyo's largest entertainment district and it has a reputation that is both overstated and worth taking seriously in one specific way.\n\nWalking through it is fine. It is brightly lit, busy until very late, heavily policed, and full of ordinary restaurants, cinemas and karaoke. Violent crime against visitors is rare.\n\nThe actual risk is **touts**. Men on the street offering to take you to a bar or club are the problem — the pattern is a quoted price that becomes an enormous bill, with pressure to pay. The rule is simple and absolute: **never follow a tout, and never enter a bar you were led to on the street.** Choose your own venue, ideally one at street level with visible prices.\n\nFollow that one rule and Kabukicho is just a loud neighbourhood. Ignore it and it is the most common way visitors lose money in Tokyo.",
+            tourCard: CARD.ghost,
+          },
+          {
+            title: "How to Actually Plan the Night",
+            icon: "route",
+            content: "A workable Shinjuku evening: eat early at **Omoide Yokocho** around 6pm before it jams, then walk over to **Golden Gai** at about 9 when the bars have opened properly — many do not open until 8 or 9, which catches people out.\n\nIf you want a view first, the **Tokyo Metropolitan Government Building** observatory is free and open in the evening, which makes it the best-value skyline view in the city.\n\nOne practical warning: **Shinjuku station is the busiest railway station in the world** and has well over a hundred exits. Agreeing to meet someone 'at Shinjuku station' is a mistake. Pick a specific exit, and note which one you came out of before you start drinking — last trains run around midnight, and getting back to the right platform is harder than it sounds at 11:45pm.",
+            tourCard: CARD.nightCar,
+          },
+        ],
+        faqs: [
+          { q: "Do Golden Gai bars charge a cover?", a: "Many do — typically a few hundred to a thousand yen per person on top of drinks, usually posted at the door. It is standard practice for bars with only five or six seats, not a scam, but check the door before going in." },
+          { q: "Is Kabukicho safe for tourists?", a: "Walking through it is fine — it is busy, well lit and heavily policed. The real risk is street touts offering to take you to a bar. Never follow one and never enter a venue you were led to on the street; that is how visitors end up with enormous bills." },
+          { q: "What is the difference between Golden Gai and Omoide Yokocho?", a: "Golden Gai is about 200 tiny themed bars across six lanes, often with a cover charge. Omoide Yokocho is a cluster of yakitori grills under the railway tracks — food-led, no cover as a rule, and easier to walk into." },
+          { q: "What time do Golden Gai bars open?", a: "Many do not open until 8 or 9pm, so arriving at 7 often means finding shutters down. Eat first at Omoide Yokocho and move over later." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Do Golden Gai bars charge a cover?", acceptedAnswer: { "@type": "Answer", text: "Many do — typically a few hundred to a thousand yen per person on top of drinks, usually posted at the door. It is standard practice for bars with only five or six seats, not a scam, but check the door before going in." } },
+            { "@type": "Question", name: "Is Kabukicho safe for tourists?", acceptedAnswer: { "@type": "Answer", text: "Walking through it is fine — it is busy, well lit and heavily policed. The real risk is street touts offering to take you to a bar. Never follow one and never enter a venue you were led to on the street; that is how visitors end up with enormous bills." } },
+            { "@type": "Question", name: "What is the difference between Golden Gai and Omoide Yokocho?", acceptedAnswer: { "@type": "Answer", text: "Golden Gai is about 200 tiny themed bars across six lanes, often with a cover charge. Omoide Yokocho is a cluster of yakitori grills under the railway tracks — food-led, no cover as a rule, and easier to walk into." } },
+            { "@type": "Question", name: "What time do Golden Gai bars open?", acceptedAnswer: { "@type": "Answer", text: "Many do not open until 8 or 9pm, so arriving at 7 often means finding shutters down. Eat first at Omoide Yokocho and move over later." } },
+          ],
+        },
+        heroImage: CARD.nightBike.image,
+      };
+
+    case "tokyo-day-trips":
+      return {
+        title: "Day Trips from Tokyo: Nikko, Kamakura, Hakone and the Snow Monkeys",
+        seoTitle: "Day Trips from Tokyo",
+        description: "Four genuinely different day trips within reach of Tokyo, what each is actually for, and how long you really need.",
+        fastFacts: [
+          { icon: "landmark", label: "Nikko", value: "About 2 hours — carved shrines and mountain forest" },
+          { icon: "waves", label: "Kamakura", value: "About 1 hour — Great Buddha, temples and the sea" },
+          { icon: "mountain", label: "Hakone", value: "About 1.5 hours — onsen, Lake Ashi and Fuji views" },
+          { icon: "snowflake", label: "Snow monkeys", value: "About 4 hours each way — a long day, best done privately" },
+        ],
+        sections: [
+          {
+            title: "Kamakura Is the Easy One",
+            icon: "waves",
+            content: "An hour south of Tokyo, **Kamakura** was Japan's political capital in the twelfth and thirteenth centuries, and it kept the temples to prove it. It is the least effortful day trip on this list and the one to pick if you only have one spare day.\n\nThe **Great Buddha** at Kotoku-in is the headline — a 13-metre bronze figure that has sat outdoors since a tsunami destroyed the hall around it in 1498. **Hase-dera** is next door and has the better views. **Hokoku-ji**, the bamboo temple, is quieter than Kyoto's Arashiyama and lets you drink matcha inside the grove.\n\nIt also has a coastline. The **Enoden**, a single-track tram line, runs between the temples and the sea to Enoshima island, and the stretch where it emerges beside the beach is one of the best short train rides in Japan.",
+            tourCard: CARD.halfDay,
+          },
+          {
+            title: "Nikko Is the Spectacular One",
+            icon: "landmark",
+            content: "**Nikko**, two hours north, is a different register entirely: **Tosho-gu**, the mausoleum of Tokugawa Ieyasu, is the most elaborately decorated religious complex in Japan — gold leaf, lacquer and thousands of carvings including the original three wise monkeys.\n\nIt sits in cedar forest in the mountains, which is the other half of the appeal. Beyond the shrines, **Lake Chuzenji** and **Kegon Falls** are up a switchback road above the town, reachable by bus.\n\nBe realistic about the day. Two hours each way plus the shrine complex fills a day on its own; adding the lake and falls makes it a long one. Autumn colour here peaks earlier than Tokyo's — October rather than late November — and the mountain road gets seriously congested in that window.",
+            tourCard: CARD.fullDay,
+          },
+          {
+            title: "Hakone Is for Fuji and Hot Springs",
+            icon: "mountain",
+            content: "**Hakone** is the classic onsen escape and the most reliable place near Tokyo to see **Mount Fuji** — with the standing caveat that Fuji is frequently hidden by cloud, and clear views are far more likely in the colder months than in summer.\n\nThe standard route is a loop rather than a there-and-back: mountain railway, cable car, ropeway over the sulphur vents at Owakudani, a boat across **Lake Ashi**, and a bus back. The Hakone Free Pass covers the whole sequence and is worth it if you do the loop.\n\nIt works as a day trip and it is better as an overnight, because the point of Hakone is the hot springs and you cannot properly use those on a schedule. If you only have a day, prioritise the loop and accept that you are sightseeing rather than relaxing.",
+            tourCard: CARD.halfDay,
+          },
+          {
+            title: "The Snow Monkeys Are a Long Way",
+            icon: "snowflake",
+            content: "**Jigokudani**, where Japanese macaques sit in a hot spring pool in the snow, is in Nagano — roughly four hours each way by train and bus from Tokyo, plus a 1.6 km walk through forest to the park itself.\n\nThat makes it a genuine full-day commitment, and it is the trip most often underestimated. It is also seasonal in practice: the monkeys use the pool year-round but the snow that makes the photographs is a **winter** phenomenon, roughly December to March.\n\nBecause the connections are tight and the walk is at the end, this is the one day trip on this list where a private car or an organised trip earns its cost — a missed bus in Nagano is not easily recovered. Combining it with **Zenko-ji temple** in Nagano city makes the distance worth more.",
+            tourCard: CARD.snowMonkey,
+          },
+        ],
+        faqs: [
+          { q: "What is the best day trip from Tokyo?", a: "Kamakura if you have one spare day — about an hour away, with the Great Buddha, temples, a bamboo grove and a coastline. Nikko for the most spectacular shrines, Hakone for onsen and Mount Fuji, and Jigokudani for the snow monkeys if you can give it a full day." },
+          { q: "How long does the snow monkey park take from Tokyo?", a: "Roughly four hours each way by train and bus, plus a 1.6 km walk to the park — a full day. The monkeys use the hot spring year-round but the snow scenes are a winter phenomenon, roughly December to March." },
+          { q: "Can you see Mount Fuji from Hakone?", a: "Often, but not reliably — cloud hides it frequently, and clear views are much more likely in the colder months than in summer. The Hakone loop of railway, ropeway and Lake Ashi boat gives several chances at it in one day." },
+          { q: "Is Nikko doable as a day trip from Tokyo?", a: "Yes — about two hours each way. The Tosho-gu shrine complex alone fills the day; adding Lake Chuzenji and Kegon Falls makes it a long one. Autumn colour peaks here in October, earlier than Tokyo." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best day trip from Tokyo?", acceptedAnswer: { "@type": "Answer", text: "Kamakura if you have one spare day — about an hour away, with the Great Buddha, temples, a bamboo grove and a coastline. Nikko for the most spectacular shrines, Hakone for onsen and Mount Fuji, and Jigokudani for the snow monkeys if you can give it a full day." } },
+            { "@type": "Question", name: "How long does the snow monkey park take from Tokyo?", acceptedAnswer: { "@type": "Answer", text: "Roughly four hours each way by train and bus, plus a 1.6 km walk to the park — a full day. The monkeys use the hot spring year-round but the snow scenes are a winter phenomenon, roughly December to March." } },
+            { "@type": "Question", name: "Can you see Mount Fuji from Hakone?", acceptedAnswer: { "@type": "Answer", text: "Often, but not reliably — cloud hides it frequently, and clear views are much more likely in the colder months than in summer. The Hakone loop of railway, ropeway and Lake Ashi boat gives several chances at it in one day." } },
+            { "@type": "Question", name: "Is Nikko doable as a day trip from Tokyo?", acceptedAnswer: { "@type": "Answer", text: "Yes — about two hours each way. The Tosho-gu shrine complex alone fills the day; adding Lake Chuzenji and Kegon Falls makes it a long one. Autumn colour peaks here in October, earlier than Tokyo." } },
+          ],
+        },
+        heroImage: CARD.halfDay.image,
+      };
+    default:
             return null;
     }
 }
