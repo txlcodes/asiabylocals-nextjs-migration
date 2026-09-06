@@ -8940,5 +8940,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "osaka-katashimo-winery-tour-tasting-vineyard-walk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Katashimo Winery direct sales shop, 2-10-5 Taiheiji, Kashiwara, Osaka 582-0017 — about forty minutes by train from central Osaka." },
+      { question: "What is included?", answer: "Guided winery tour including the century-old aging cellar; Vineyard walk; Guided walk through the historic town; Tasting of three Japanese wines; Small bites served with the wine." },
+      { question: "How do I get there?", answer: "About forty minutes by train from central Osaka to Kashiwara. Transport is not included, so allow for it either side of the two hours." },
+    ];
+  }
+
+  if (slug === "osaka-kuromon-market-street-food-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Picasso Nihonichi Building, 1-17-17 Nipponbashi, Chuo Ward, Osaka 542-0073 — beside Kuromon Market." },
+      { question: "What is included?", answer: "Two-hour guided street food walking tour; Four to five curated tastings at Kuromon Market stalls; Professional English-speaking local guide; Visits to Sennichimae Doguyasuji and Hozenji Yokocho; Context on Japanese food culture and market history." },
+      { question: "How much food is included?", answer: "Four to five curated tastings from market stalls. Anything beyond that is your own, and most people keep eating." },
+    ];
+  }
+
+  if (slug === "miyama-thatched-village-katsuoji-arashiyama-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 20 people." },
+      { question: "Where does it start?", answer: "Exit 2 of Nipponbashi Station, Osaka Metro, 1-5 Nipponbashi, Chuo Ward, Osaka 542-0073." },
+      { question: "What is included?", answer: "Round-trip coach transport; Fuel, tolls and expressway charges; English or Chinese-speaking guide." },
+      { question: "Can I be dropped in Kyoto instead of returning to Osaka?", answer: "Yes — one of the options boards in Osaka and drops off in Kyoto at the end, which is useful if you are moving on that evening." },
+    ];
+  }
+
+  if (slug === "tokyo-sailor-moon-shining-theater-shinagawa") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "Where does it start?", answer: "Club eX, 3F Shinagawa Prince Hotel Annex Tower, 4-10-30 Takanawa, Minato City, Tokyo 108-8611 — beside Shinagawa Station." },
+      { question: "What is included?", answer: "Show ticket; Original themed drink, designed to match the character; Commemorative photograph with the cast (premium seats only)." },
+      { question: "What language is the show in?", answer: "Japanese. It is a live stage production rather than a subtitled screening." },
+      { question: "Can I choose which guardian performs?", answer: "Yes — tickets are sold by cast date, so you book the performance featuring the guardian you want to see." },
+    ];
+  }
+
+  if (slug === "tokyo-ichikawa-zoo-red-pandas-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in central Tokyo, confirmed with the operator when you book." },
+      { question: "What is included?", answer: "Round-trip transport from central Tokyo; Guaranteed entry ticket to Ichikawa City Zoo; English-speaking guide; Small-group experience, maximum five people." },
+      { question: "Is this good for children?", answer: "Yes. The group caps at five, the pace is your own rather than a coach schedule, and the Friendship Square offers supervised hands-on time with animals." },
+    ];
+  }
+
     return null;
 };

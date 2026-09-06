@@ -13073,5 +13073,61 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "osaka-katashimo-winery-tour-tasting-vineyard-walk") {
+        return {
+            averageRating: 4.8, totalReviews: 27, guideRating: 4.7, valueRating: 4.5,
+            reviews: [
+                { author: "Josh", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "An excellent tour! Our guide was so kind and attentive. We learned a lot and had a wonderful time. a highlight of our stay in the Osaka region" },
+                { author: "Veronica", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Was unexpectedly alone for this tour with my guide Kai which made it even more special to learn abt the history of wine production in this city. I actually met the owner Risaburo Takai who is as jovial as you see on their Instagram profile. Kashiwara is a hidden gem of a place being this near to busy Osaka." },
+                { author: "Trisha", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Great learning experience for how they create wine in Kashiwara, the wine city of Osaka! Beautiful cultural and historical experience for wine lovers or aspiring wine makers." },
+                { author: "Michel", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "Our guide did a great job explaining the area and the wine making in Japan. We got a tour of the winery and museum, and we spoke with the owner of the Vineyard. We are quite this tour and we highly recommend it. Its easy to get to the Vineyard by train and it's a nice walk from the train station in a beautiful neighborhood. Hidden gem!" },
+                { author: "Alyssa", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "Wonderful tour. The guide was very nice and knowledgeable. The wines were delicious" },
+                { author: "Nimrit", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "Such a great tour! Our guide was very knowledgeable about the winery and gave us an amazing tour. She shared many interesting and useful things, and we especially loved how she took us through the Shinto shrine, showed us beautiful views, and sharing her knowledge with us about local history, customs, etc. This was such a unique experience, the area was so nice and quiet, we felt like we had the entire vineyard to ourselves. This was so different compared to the rush and congestion of our tourist sites. And most importantly, the wine was fantastic." },
+                { author: "Feekee", country: "Verified traveller review", rating: 5, date: "2025-10-30", text: "Great experience, lovely to walk around and learn about the area and the history of the winery and wine in Japan" },
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2025-09-30", text: "Very informative Guide and an Interesting Winery. We also got to know local History and visited a beautiful Shrine. The Guide herself spoke very good english and answered all of our Questions. The different Wines and Juices tasted very good. We highly recommend this Tour to anyone that is interested in Japanese Culture and Wines." },
+            ],
+        };
+    }
+
+    if (slug === "osaka-kuromon-market-street-food-walking-tour") {
+        return {
+            averageRating: 4.5, totalReviews: 15, guideRating: 4.6, valueRating: 4.2,
+            reviews: [
+                { author: "Joseph", country: "Verified traveller review", rating: 5, date: "2026-06-28", text: "We had a wonderful tour and experience. Our guide, Yuna, was knowledgeable and personable, showing us her favorite Kuroman spots that truthfully we would probably not have stumbled upon by ourselves. We expect to be back in a few months with some family members and we will recommend that they take the tour." },
+                { author: "Thomas McCaughley: Cyberpunk Author", country: "Verified traveller review", rating: 5, date: "2026-05-15", text: "Diego was great! he knew all the great food and anime shops!" },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "We had great tour with Goku who gave us a local experience and shared so many interesting facts with us! Highly recommend the tour and Goku as the most awesome guide ☺️" },
+                { author: "Marius", country: "Verified traveller review", rating: 5, date: "2025-10-22", text: "The tour with Goku was great, apart from the delicious food and many recommendations, we got along very well interpersonally. Absolute recommendation :)" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-sailor-moon-shining-theater-shinagawa") {
+        return {
+            averageRating: 4.8, totalReviews: 92, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Piotr", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "I'm more of a Gundam fan than Sailor Moon, but I watched Saikor Moon in the 90s and it's a very nostalgic series for me. I must say I had a blast from start to finish and I really enjoyed the special effects. I think if you are a Sailor Moon fan visiting Tokyo, you absolutely must go and see the show." },
+                { author: "Jodie", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "amazing experience from start to end. would recommend to anyone coming to japan." },
+                { author: "Christian", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "An amazing experience, even for non-Japanese speakers. The performances were fantastic, with great energy, beautiful costumes, and impressive talent on stage. The story was easy to follow thanks to the English subtitles, making the show enjoyable from start to finish. One small tip for future visitors: the theatre can get a bit cold, so it's worth bringing an extra layer to wear." },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "This was even better than the 2019 show I watched. It was such a fantastic show and worth the money. I would recommend getting premium seats to get the chance for a photo with the cast. Highly recommended!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-ichikawa-zoo-red-pandas-day-trip") {
+        return {
+            averageRating: 5.0, totalReviews: 27, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Veronica", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "We had an amazing private tour to Ichikawa Zoo with our guide, Hamza! Seeing the famous Punch-kun and the adorable red pandas was an unforgettable experience. Hamza was friendly, professional, and made the whole trip smooth and enjoyable. Everything was well organized, and we had plenty of time to explore. Highly recommend this tour to anyone visiting Japan" },
+                { author: "Nazy", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "Punch was very cute and zoo is fully with people we are happy Our guide give as ticket to skip the line highly recommended" },
+                { author: "Erika", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "Hamza was great guide Punch kun was so cute And naughty. We really enjoy this tour . Van was clean. And comfortable. Highly recomended" },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2026-05-21", text: "Absolutely one of the best private tours we had in Japan! The driver was very polite, punctual, and spoke excellent English. The luxury vehicle was spotless and very comfortable throughout the trip. Visiting Punch-kun monkey was the highlight of our day he was incredibly cute and fun to watch! Everything was perfectly organized, and the whole experience felt smooth and relaxing. Highly recommended for anyone looking for a premium private tour in Ichikawa." },
+                { author: "Dorothy", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Punch kun private tour was an amazing experience. The driver was very helpful, knowledgeable, and made the whole trip smooth and enjoyable. We didn’t have to wait in long lines and got to enjoy zoo comfortably. Highly recommended for anyone visiting for punch kun." },
+                { author: "Maria Montserrat Miravalles", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "Exceptional private experience to Ichikawa City Zoo to see Punch 🐒. Gama delivered outstanding service punctual, professional, and very attentive. The vehicle was clean and comfortable, and everything was handled seamlessly. He even arranged the tickets in advance, so I didn’t have to wait in any line. A smooth, stress-free, and truly premium experience. Highly recommended." },
+                { author: "Natalia", country: "Verified traveller review", rating: 5, date: "2026-04-26", text: "Amazing experience overal. Gama was a fantastic guide very calm, patient, and accommodating. He went the extra mile by offering us water, which was a thoughtful gesture. Everything was well organized, and we didn’t have to wait in line for tickets, which made the tour smooth and stress-free. Punch was adorable and definitely one of the best parts of the day The zoo was quite busy, but it didn’t affect our enjoyment. Great service, great hospitality would definitely recommend this tour to others." },
+                { author: "Victoria Vargas", country: "Verified traveller review", rating: 5, date: "2026-04-07", text: "Great experience visiting Ichikawa! No waiting in line and the service was really good. Highly recommend." },
+            ],
+        };
+    }
+
     return null;
 };
