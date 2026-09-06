@@ -12730,5 +12730,53 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "osaka-dotonbori-sushi-making-class-halal-vegan") {
+        return {
+            averageRating: 4.9, totalReviews: 456, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Baiju", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "A fun sushi-making class! The instructor was great, she really helped us perfect our technique. And we made so much sushi! We were stuffed by the end." },
+                { author: "Thegui", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Very fun sushi class! You get to learn about sushi history and get to cook yourself then eat them. The teachers are very friendly, attentive and helpful when you need it. Believe me, this is a really lovely session suitable for everyone (kids, teens and adults)! Loved it!" },
+                { author: "Rocio Diaz", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "It was so good! From teaching you about the history of sushi, to learning how to make nigiris and maki sushi the professional way. The whole staff is amazing, super kind and welcoming, and it’s a great experience!" },
+                { author: "Rocio Diaz", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "AMAZING!! Everyone is so welcoming! They teach you a tad about the history of sushi, then they teach you how to make nigiris and maki sushi, really interesting! 100% Recommend for tourists and for people who want to learn to make sushi for the first time!" },
+                { author: "zahra", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "It was a great and fun activity, the quality of the provided items was very good. I really enjoyed the experience and i recommend it to everyone visiting Osaka! Hoi Hoi Hoi! 😋" },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Ayu and Sari guided us perfectly well through our Sushi making course! Thanks to them, we ate delicious sushi and made a wonderful experience! 😋" },
+                { author: "Vasuki", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "Such a fun experience and class. Learnt to make maki and nigiri sushi and enjoy it as well. Reika Harry and Harry were amazing every step of the way" },
+                { author: "Vivian", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "A really fun and enjoyable class! Made lots of delicious sushi and had some lovely instructors :)" },
+            ],
+        };
+    }
+
+    if (slug === "osaka-dotonbori-ura-namba-izakaya-bar-crawl") {
+        return {
+            averageRating: 4.9, totalReviews: 477, guideRating: 5.0, valueRating: 4.7,
+            reviews: [
+                { author: "Heirold", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Kosuke was an incredible guide. He is passionate and patient towards his clients. He doesn’t rush, he wait and makes sure that everyone has a good time. Hes an amazing host." },
+                { author: "Dmytro", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Great value for money! Met some cool people here :) our guide Taiga was fun and funky!" },
+                { author: "Annabelle", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "Kosuke was amazing! He showed us the best spots and the food and drinks were amazing. 10/10 recommend." },
+                { author: "Lewis", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "Second time doing this tour. Great both times. A different guide this time and she was equally as lovely :)" },
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2026-06-05", text: "Loved the tour and my guide Mariri was fantastic. Super accommodating and I had an absolute blast! We had awesome food, drinks and even got to learn a bit about the area. Highly recommend!" },
+                { author: "Connor", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "I had an absolutely amazing time on the beer tour with Kosuke! I would highly recommend to anyone visiting osaka!" },
+                { author: "Jared", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "kosuke did an amazing job keeping us entertained and answering our questions about the culture and customs- great people, great time" },
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2026-05-21", text: "It was a great experience & we ended up at karaoke which was so fun!" },
+            ],
+        };
+    }
+
+    if (slug === "osaka-dotonbori-river-cruise-with-guided-walk") {
+        return {
+            averageRating: 4.7, totalReviews: 168, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "Leila", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Roy and Am were great guides! Informational and fun while getting to see all the main spots and enjoy a nice boat ride finals." },
+                { author: "Darryll", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Erina exceeded my expectations. She is very knowledgeable and fun to be around. I appreciate her time! Highly recommend A++++++++" },
+                { author: "Joanne", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Great fun way to explore the city, Erina our host was so knowledgeable and a wonderful host!!" },
+                { author: "Faith Chrysanthemum dela", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Our guide Shebu (I hope I'm spelling his name right) was great. He was super friendly and accommodating and very knowledgeable about Osaka. The guide during the cruise was hilarious. Highly recommend this tour if you need a crash course on the Dotonbori area." },
+                { author: "Phillip", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "I had a great time with this craft activity and the attentive, warm, and friendly staff!" },
+                { author: "Yaminah", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Mena was awesome! She truly loves Osaka!! She was so kind to our family and answered all of our questions. Her attention to detail and stories were truly special. This was the BEST part of our family vacation! Thank you Mena!!" },
+                { author: "Jamie", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Shebu was a good guide who showed us a couple of tucked away places we wouldn’t have found on our own" },
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "Our guide, Khin, was great! This was a fun tour and a great break from the temples and shrines we had been visiting for our teenagers. Everyone had a great time!" },
+            ],
+        };
+    }
+
     return null;
 };

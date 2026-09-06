@@ -8649,5 +8649,35 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "osaka-dotonbori-sushi-making-class-halal-vegan") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 100 minutes." },
+      { question: "How big is the group?", answer: "Up to 20 people." },
+      { question: "Where does it start?", answer: "3rd floor, Galleria Acca Building, 1-16-20 Higashi-Shinsaibashi, Chuo Ward, Osaka 542-0083 — a short walk from Dotonbori." },
+      { question: "What is included?", answer: "English-speaking instructor; All ingredients for the class; The meal you make; Vegan, vegetarian, halal, gluten-free and allergy menus on request at booking." },
+      { question: "Can you cater for halal, vegan or allergy diets?", answer: "Yes — there are separate vegan, vegetarian, halal, gluten-free and allergy menus, the last excluding meat, nuts, fruit and dairy. Request it when you book; the operator cannot change menus on the day or accept custom ingredient lists." },
+    ];
+  }
+
+  if (slug === "osaka-dotonbori-ura-namba-izakaya-bar-crawl") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "1-10 Dotonbori, Chuo Ward, Osaka 542-0071 — in front of the Glico sign, at the Dotonbori Humanity Song Monument." },
+      { question: "What is included?", answer: "Professional local guide for three hours; Guided walking route through Dotonbori and the Ura-Namba lanes; Help ordering food and drinks at each venue; Photographs taken during the evening, shared afterwards; Local recommendations and cultural context." },
+      { question: "Are food and drinks included?", answer: "No. You pay at each venue, which keeps the ticket cheap and lets you drink and eat at your own pace. The guide will tell you what a stop costs before you order." },
+    ];
+  }
+
+  if (slug === "osaka-dotonbori-river-cruise-with-guided-walk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Up to 24 people." },
+      { question: "Where does it start?", answer: "2-5-9 Nishi-Shinsaibashi, Chuo Ward, Osaka 542-0086 — next to the Don Quijote Midosuji store; the guide holds a sign." },
+      { question: "What is included?", answer: "Guided walking tour of Dotonbori and the surrounding streets; Dotonbori River Cruise ticket; English-speaking guide." },
+      { question: "Is the cruise ticket included?", answer: "Yes. Nothing further is payable at the pier." },
+    ];
+  }
+
     return null;
 };
