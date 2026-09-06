@@ -417,6 +417,7 @@ const TOKYO_SIDEBAR = [
     { name: 'Street Go-Kart Guide', slug: 'tokyo-go-kart-guide' },
     { name: 'Mount Fuji Day Trip', slug: 'mount-fuji-day-trip-from-tokyo' },
     { name: 'Tokyo Food Guide', slug: 'tokyo-food-guide' },
+    { name: 'Sumo in Tokyo', slug: 'tokyo-sumo-guide' },
 ];
 
 function renderIcon(name: string) {

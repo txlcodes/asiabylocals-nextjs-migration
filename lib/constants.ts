@@ -176,7 +176,8 @@ export const TOKYO_INFO_SLUGS = [
   'tsukiji-toyosu-market-guide',
   'teamlab-tokyo-guide',
   'shinjuku-nightlife-guide',
-  'tokyo-day-trips'];
+  'tokyo-day-trips',
+  'tokyo-sumo-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
 export const KYOTO_INFO_SLUGS = [

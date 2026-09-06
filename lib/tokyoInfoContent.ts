@@ -39,6 +39,32 @@ const CARD = {
     food: { slug: "togoshi-ginza-shotengai-food-tour", title: "Togoshi Ginza Food Walk", description: "Tokyo's longest shopping street — 1.3 km, 400 shops, no other tour groups.", price: "From $113", duration: "3 hours", image: IMG.food },
 };
 
+
+const TOUR_CARD_SUMO_SHINJUKU = {
+    slug: 'tokyo-shinjuku-sumo-show-ring-challenge',
+    title: "Sumo in Shinjuku: Live Bouts, Ring Challenge and Photos",
+    description: 'Ninety minutes of professional sumo with the rituals explained in English.',
+    price: 'From $92',
+    duration: '1.5 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788724643/asiabylocals/tours/tokyo-shinjuku-sumo-show-ring-challenge/img0.jpg',
+};
+const TOUR_CARD_SUMO_STABLE = {
+    slug: 'tokyo-sumo-morning-practice-training-stable',
+    title: "Sumo Morning Practice at a Working Stable",
+    description: 'Two hours inside a real heya during training, with a guide who explains it.',
+    price: 'From $138',
+    duration: '2 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788724719/asiabylocals/tours/tokyo-sumo-morning-practice-training-stable/img0.jpg',
+};
+const TOUR_CARD_SUMO_ASAKUSA = {
+    slug: 'tokyo-asakusa-sumo-dinner-show-geisha-hot-pot',
+    title: "Sumo, Geisha and Chanko Hot Pot in Asakusa",
+    description: 'Dinner around a real dohyo, with a geisha dance and all-you-can-eat chanko.',
+    price: 'From $123',
+    duration: '2 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726118/asiabylocals/tours/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot/img0.jpg',
+};
+
 export function getTokyoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
 
@@ -1254,6 +1280,81 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: CARD.halfDay.image,
+      };
+    case "tokyo-sumo-guide":
+      return {
+        title: "Sumo in Tokyo: Tournaments, Stable Practice and the Shows That Run Year-Round",
+        seoTitle: "Sumo in Tokyo Guide (2026)",
+        description: "Tokyo hosts three of the six annual sumo tournaments, and they sell out. What to do in the other nine months — morning practice at a stable, and the ring shows that run daily.",
+        fastFacts: [
+          { icon: "Calendar", label: "Tokyo tournaments", value: "January, May and September" },
+          { icon: "MapPin", label: "Tournament venue", value: "Ryogoku Kokugikan" },
+          { icon: "Clock", label: "Tournament length", value: "15 days, top division from around 16:00" },
+          { icon: "Star", label: "Year-round option", value: "Ring shows and stable morning practice" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Sumo has **six official tournaments a year, fifteen days each**, and **three of them are in Tokyo** — January, May and September — at the **Ryogoku Kokugikan**. The other three are in Osaka in March, Nagoya in July and Fukuoka in November.\n\nThat means for roughly nine months of the year there is no tournament happening in Tokyo at all, and even during one, the good days sell out. This is the single most common disappointment among visitors who assume sumo is something you can simply go and watch.\n\nThere are two workable answers when your dates do not line up.\n\n**Morning practice at a stable.** Wrestlers live and train in a heya, and training runs early every morning outside tournament periods. It is the real thing — drills, collisions, correction — and access is arranged rather than bought at a door. Our [morning practice visit in Kiyosumi-Shirakawa](/japan/tokyo/tokyo-sumo-morning-practice-training-stable) is the closest you get to sumo as it actually exists.\n\n**A ring show.** Several venues in Tokyo run demonstrations with professional or retired wrestlers, with the rituals explained in English and a chance to enter the ring yourself. These are entertainment rather than competition and they say so, but they are close-range, they run daily, and they are the only sumo most visitors will realistically see.",
+            tourCard: TOUR_CARD_SUMO_SHINJUKU,
+          },
+          {
+            title: "The Tournament Calendar, and Why It Matters",
+            icon: "Calendar",
+            content: "The six honbasho are fixed by month and city, and have been for decades.\n\n| Month | City | Venue |\n|---|---|---|\n| January | Tokyo | Ryogoku Kokugikan |\n| March | Osaka | Edion Arena Osaka |\n| May | Tokyo | Ryogoku Kokugikan |\n| July | Nagoya | IG Arena |\n| September | Tokyo | Ryogoku Kokugikan |\n| November | Fukuoka | Fukuoka Kokusai Center |\n\nEach runs **fifteen consecutive days, always starting and ending on a Sunday**. Wrestlers in the top two divisions fight once a day; a winning record over the fifteen days is called kachikoshi and a losing one makekoshi, and those two words decide whether a wrestler is promoted or demoted.\n\n**Tickets go on general sale roughly a month before**, and the pattern is consistent: the first weekend, the final weekend and the closing days go first. Weekday afternoons in the middle of a tournament are the realistic option for a visitor booking late.\n\nCheck exact dates and prices with the Japan Sumo Association directly rather than a travel page — the schedule is announced well ahead but ticketing arrangements change.",
+          },
+          {
+            title: "What a Tournament Day Actually Looks Like",
+            icon: "Clock",
+            content: "Doors open in the morning and the lowest divisions fight first, in a nearly empty hall. This is the part visitors skip and it is genuinely worth seeing: young wrestlers with no salary fighting for promotion, no ceremony, matches over in seconds.\n\nThe hall fills through the afternoon. **Juryo, the second division, is around 14:30**, and the top division's ring-entering ceremony and bouts run from **roughly 16:00 to 18:00**, finishing with the yokozuna.\n\nIf you only have a couple of hours, arrive around 15:00. If you want to understand sumo, arrive at midday and watch the whole ladder.\n\nSeating splits into two kinds. **Masu-seki** are box seats on the floor, sold as a box of four with cushions and no chairs — closer, more atmospheric, and hard on Western knees for four hours. **Arena seats** upstairs are ordinary chairs with a full view of the ring, and for a first visit they are the more comfortable choice.",
+          },
+          {
+            title: "Morning Practice at a Stable",
+            icon: "Users",
+            content: "A heya is a household as much as a gym. Wrestlers live there under a stablemaster, the junior ones cook, clean and serve the seniors, and training begins before dawn with the lowest ranks first.\n\nWatching asageiko is a very different experience from a tournament. It is quiet, repetitive and physically uncomfortable to witness — the same collision drilled several hundred times, with correction shouted between. Nobody is performing.\n\nBecause it is somebody's home, the etiquette is strict: you sit where you are told, stay silent, and take photographs only when permitted. Stables that accept visitors generally do so through arrangements rather than walk-ins, and practice schedules move with the tournament calendar.\n\nOur [Kiyosumi-Shirakawa visit](/japan/tokyo/tokyo-sumo-morning-practice-training-stable) runs two hours with an English-speaking guide who explains what is happening, and usually includes time to speak with the wrestlers afterwards. Kiyosumi is also worth an hour on its own — it is a coffee district beside the Kiyosumi Teien garden.",
+            tourCard: TOUR_CARD_SUMO_STABLE,
+          },
+          {
+            title: "The Year-Round Shows: What They Are and Are Not",
+            icon: "Info",
+            content: "Several Tokyo venues stage sumo shows daily. They are honest about the format — these are demonstrations and sparring with professional or retired wrestlers, not ranked competition — and understanding that in advance is the difference between a good evening and a disappointed one.\n\nWhat they do well is proximity and explanation. A tournament seat, even a good one, is further from the ring than these rooms put you, and an English-speaking MC walking through shiko, the salt purification and the pre-bout stand-off makes the ritual legible in a way that watching from row twenty never does.\n\n| Where | Format | Runs |\n|---|---|---|\n| [Shinjuku](/japan/tokyo/tokyo-shinjuku-sumo-show-ring-challenge) | 90-minute show, ring challenge, photos | Indoor hall in Okubo |\n| [Shibuya](/japan/tokyo/tokyo-shibuya-sumo-show-five-daily-times) | Same format, five start times a day | Easiest to fit around other plans |\n| [Asakusa](/japan/tokyo/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot) | Dinner show with geisha dance and chanko | Real dohyo, ringside tables |\n\nThe Asakusa venue is the one to pick if you want a full evening: a geisha performs first, retired professionals fight a best-of-three, and the chanko hot pot is all-you-can-eat. The Shibuya and Shinjuku shows are shorter and cheaper and slot around a day of sightseeing.",
+            tourCard: TOUR_CARD_SUMO_ASAKUSA,
+          },
+          {
+            title: "Chanko-nabe, and Eating Where Wrestlers Eat",
+            icon: "Utensils",
+            content: "Chanko-nabe is the hot pot that sumo stables live on — a stock base with vast quantities of chicken, fish, tofu and vegetables, eaten by the pot to build and hold weight. It is not a themed dish invented for tourists; it is the daily food of the sport.\n\nRyogoku, the district around the Kokugikan, has the highest concentration of chanko restaurants in Japan, many run by retired wrestlers. Eating there on a non-tournament day is cheap, filling and completely unremarkable to the locals doing the same.\n\nIf you are combining it with a show, the [Asakusa dinner](/japan/tokyo/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot) serves it ringside and unlimited, which saves arranging both separately.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "AlertTriangle",
+            content: "**Ryogoku is the sumo district**, on the Sobu line east of the centre. Even with no tournament running, the Kokugikan's sumo museum, the chanko restaurants and the stables in the surrounding streets make it a reasonable half-day.\n\n**Photography** is generally fine at tournaments and shows, and restricted at stable practice — follow your guide.\n\n**Tattoos** are not an issue at any sumo venue, unlike onsen.\n\n**Language.** Tournament commentary is in Japanese; English audio guides are usually available for hire at the Kokugikan. Every show we list runs its commentary in English.\n\n**Children** do well at the shows, which are short and loud in the right way. A full tournament day is long for younger visitors — arrive mid-afternoon if you are bringing them.",
+          },
+        ],
+        faqs: [
+          { q: "When is sumo in Tokyo?", a: "**January, May and September** — three of the six annual tournaments, each fifteen days, at the Ryogoku Kokugikan. The other three are in Osaka (March), Nagoya (July) and Fukuoka (November)." },
+          { q: "Can I see sumo in Tokyo outside tournament months?", a: "Yes, two ways. **Morning practice at a training stable**, which is the real sport at close range, and **daily ring shows** in Shinjuku, Shibuya and Asakusa with professional or retired wrestlers and English commentary." },
+          { q: "How hard is it to get tournament tickets?", a: "General sale opens roughly a month ahead and the **first weekend, final weekend and closing days sell out fastest**. A weekday afternoon mid-tournament is the realistic option if you are booking late." },
+          { q: "What time should I arrive at a tournament?", a: "The lower divisions start in the morning in a near-empty hall. **Juryo is around 14:30 and the top division runs roughly 16:00 to 18:00.** Arrive at 15:00 for the highlights, or at midday to watch the whole ladder." },
+          { q: "Are the year-round sumo shows real sumo?", a: "The wrestlers are professional or retired professionals and the technique is genuine, but these are demonstrations and sparring rather than ranked competition — and the venues say so. What they offer is proximity and English explanation that a tournament seat cannot." },
+          { q: "What is chanko-nabe?", a: "The hot pot sumo stables eat daily — stock with chicken, fish, tofu and vegetables, served by the pot. **Ryogoku** has the most chanko restaurants in Japan, many run by former wrestlers." },
+          { q: "Can I meet the wrestlers?", a: "At the ring shows, yes — photographs afterwards are standard and guests are usually invited to challenge a wrestler, with places drawn by lottery when demand is high. At stable practice there is often time to speak with them outside training." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "When is sumo in Tokyo?", acceptedAnswer: { "@type": "Answer", text: "**January, May and September** — three of the six annual tournaments, each fifteen days, at the Ryogoku Kokugikan. The other three are in Osaka (March), Nagoya (July) and Fukuoka (November)." } },
+            { "@type": "Question", name: "Can I see sumo in Tokyo outside tournament months?", acceptedAnswer: { "@type": "Answer", text: "Yes, two ways. **Morning practice at a training stable**, which is the real sport at close range, and **daily ring shows** in Shinjuku, Shibuya and Asakusa with professional or retired wrestlers and English commentary." } },
+            { "@type": "Question", name: "How hard is it to get tournament tickets?", acceptedAnswer: { "@type": "Answer", text: "General sale opens roughly a month ahead and the **first weekend, final weekend and closing days sell out fastest**. A weekday afternoon mid-tournament is the realistic option if you are booking late." } },
+            { "@type": "Question", name: "What time should I arrive at a tournament?", acceptedAnswer: { "@type": "Answer", text: "The lower divisions start in the morning in a near-empty hall. **Juryo is around 14:30 and the top division runs roughly 16:00 to 18:00.** Arrive at 15:00 for the highlights, or at midday to watch the whole ladder." } },
+            { "@type": "Question", name: "Are the year-round sumo shows real sumo?", acceptedAnswer: { "@type": "Answer", text: "The wrestlers are professional or retired professionals and the technique is genuine, but these are demonstrations and sparring rather than ranked competition — and the venues say so. What they offer is proximity and English explanation that a tournament seat cannot." } },
+            { "@type": "Question", name: "What is chanko-nabe?", acceptedAnswer: { "@type": "Answer", text: "The hot pot sumo stables eat daily — stock with chicken, fish, tofu and vegetables, served by the pot. **Ryogoku** has the most chanko restaurants in Japan, many run by former wrestlers." } },
+            { "@type": "Question", name: "Can I meet the wrestlers?", acceptedAnswer: { "@type": "Answer", text: "At the ring shows, yes — photographs afterwards are standard and guests are usually invited to challenge a wrestler, with places drawn by lottery when demand is high. At stable practice there is often time to speak with them outside training." } },
+          ],
+        },
+        heroImage: TOUR_CARD_SUMO_SHINJUKU.image,
       };
     default:
             return null;
