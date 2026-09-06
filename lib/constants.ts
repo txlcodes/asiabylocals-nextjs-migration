@@ -190,7 +190,8 @@ export const KYOTO_INFO_SLUGS = [
   'kiyomizu-dera-guide',
   'kyoto-autumn-foliage-guide',
   'kyoto-cherry-blossom-guide',
-  'nishiki-market-guide'];
+  'nishiki-market-guide',
+  'uji-tea-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
 export const SAPPORO_INFO_SLUGS = [

@@ -250,6 +250,7 @@ const KYOTO_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-kyoto' },
     { name: 'Getting Around', slug: 'getting-around-kyoto' },
     { name: '3-Day Itinerary', slug: 'kyoto-3-day-itinerary' },
+    { name: 'Uji Tea Guide', slug: 'uji-tea-guide' },
 ];
 
 const COLOMBO_SIDEBAR = [

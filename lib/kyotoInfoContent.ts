@@ -74,6 +74,16 @@ const K_EVENING = {
   image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497447/asiabylocals/tours/kyoto-evening-food-tour-of-kyoto-s-pontocho-gion-shirakawa/img0.jpg',
 };
 
+
+const TOUR_CARD_UJI_TEA = {
+    slug: 'uji-tea-museum-and-matcha-grinding-experience',
+    title: "Grind Your Own Matcha in Uji",
+    description: 'Tea museum entry plus stone-mill matcha grinding, and you drink what you make.',
+    price: 'From $28',
+    duration: '1 hour',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733889/asiabylocals/tours/uji-tea-museum-and-matcha-grinding-experience/img0.jpg',
+};
+
 export function getKyotoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case "best-time-to-visit-kyoto":
@@ -1334,6 +1344,69 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: K_NISHIKI.image,
+      };
+    case "uji-tea-guide":
+      return {
+        title: "Uji: The Town That Made Japanese Tea, Twenty Minutes from Kyoto",
+        seoTitle: "Uji Tea Guide, Kyoto (2026)",
+        description: "Where matcha and gyokuro were invented, why shading the plants changes everything, and how to spend half a day in Uji without joining a queue.",
+        fastFacts: [
+          { icon: "Train", label: "From Kyoto Station", value: "About 20 minutes by JR Nara line" },
+          { icon: "Star", label: "Known for", value: "Matcha, gyokuro and Byodo-in" },
+          { icon: "Clock", label: "Time needed", value: "Half a day" },
+          { icon: "Wallet", label: "Tea museum experience", value: "From about $28" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Uji is twenty minutes south of Kyoto Station on the JR Nara line, and it is where Japanese tea as the world knows it was worked out. Tea plants arrived from China with Buddhist monks; **the techniques that produce matcha and gyokuro were developed here**, and the town has supplied the tea used in formal ceremony for centuries.\n\nMost visitors come for **Byodo-in**, the eleventh-century Phoenix Hall that is on the back of the ten-yen coin, spend an hour, and leave without engaging with the tea at all. That is a missed opportunity, because the tea is the more distinctive thing — Byodo-in is one great building among many in the Kyoto area, while Uji tea has no real equivalent anywhere.\n\nHalf a day covers both comfortably: the temple, the riverside, a tea experience, and a walk down the shopping street where every second shop sells matcha in some form.\n\nThe most useful thing you can do here is **grind your own matcha on a stone mill**. It takes far longer than anyone expects, and doing it once explains the price of good matcha permanently. Our [Chazuna tea museum session](/japan/kyoto/uji-tea-museum-and-matcha-grinding-experience) includes museum entry and the grinding, and you drink what you make.",
+            tourCard: TOUR_CARD_UJI_TEA,
+          },
+          {
+            title: "Why Uji Tea Is Different: Shading",
+            icon: "Info",
+            content: "The technique that separates Uji's tea from ordinary green tea is **covering the plants before harvest**. For roughly three to four weeks, the bushes are shaded from direct sun with reed screens or cloth.\n\nDeprived of light, the plant produces more chlorophyll and more of the amino acid theanine, and converts less of it into catechins. The practical result is a deeper green colour, a much stronger savoury sweetness — umami — and far less of the bitterness and astringency you get in unshaded tea.\n\nThat single process produces the two premium categories:\n\n| Tea | What it is | How it is drunk |\n|---|---|---|\n| **Gyokuro** | Shaded leaf, rolled and dried | Brewed as leaf, at low temperature, very concentrated |\n| **Matcha** | Shaded leaf, deveined, dried flat as tencha, then stone-ground | Whisked into water — you drink the whole leaf |\n| **Sencha** | Unshaded leaf | Brewed hotter, brisker, more astringent |\n\nMatcha is the one where the difference is most obvious, because you consume the leaf rather than an infusion of it. It is also why matcha has a shelf life measured in weeks after opening and should be bought in small tins.",
+          },
+          {
+            title: "The Stone Mill, and What It Explains",
+            icon: "Clock",
+            content: "Ceremonial matcha is not powdered in a machine. It is ground between two granite stones, slowly, because heat and speed destroy the aroma and dull the colour.\n\nThe number that changes people's minds is the rate: **a stone mill produces roughly forty grams of matcha in an hour**. Turn the handle yourself for ten minutes and you have made a few grams, your arm aches, and the economics of a 4,000-yen tin of good matcha suddenly make complete sense.\n\nThat is the argument for doing the grinding rather than just drinking the tea. It is also, incidentally, the best explanation of why cheap matcha is cheap — it is either machine-ground, made from unshaded leaf, or both.\n\nThe [tea museum at Chazuna](/japan/kyoto/uji-tea-museum-and-matcha-grinding-experience) in the Historical Park of Tea runs this with an instructor in English or Japanese, alongside hands-on exhibits on how the leaf is grown and processed, for about the price of two coffees in central Kyoto.",
+          },
+          {
+            title: "What Else to Do in Uji",
+            icon: "MapPin",
+            content: "**Byodo-in.** The Phoenix Hall dates from 1053 and survives largely intact, which is rare — most of Kyoto's great buildings are rebuilds. It sits on a reflecting pond and was designed to represent the Pure Land paradise. The separate museum holds the original phoenix figures and bodhisattva carvings. Entry to the grounds and to the hall's interior are ticketed separately.\n\n**The Uji River.** The bridge here is one of the oldest crossing points in Japan and the riverbank walk is genuinely pleasant, with the Ujigami Shrine — a UNESCO listing, and among the oldest surviving shrine buildings in the country — on the far bank.\n\n**Byodo-in Omotesando**, the approach street, is lined with tea shops. Free tasting is common, the good shops will explain the grades, and this is a considerably better place to buy matcha than a Kyoto department store.\n\n**Matcha in everything** is a local industry: soba, soft-serve, parfait, warabimochi. The soft-serve is the low-risk introduction; the parfait is the commitment.",
+          },
+          {
+            title: "Planning It",
+            icon: "Train",
+            content: "**Getting there.** JR Nara line from Kyoto Station to Uji, about twenty minutes on a rapid service. The Keihan line from Gion-Shijo also runs to Keihan Uji, which is convenient if you are staying in Higashiyama.\n\n**Combining it.** Uji sits between Kyoto and Nara, so it works as a stop on a day that ends in Nara rather than as a there-and-back. Several coach day trips use it that way, including our [Nara Deer Park and Uji tea town coach trip](/japan/nara/nara-park-coach-full-day-tour) from Osaka.\n\n**Timing.** Mornings are quieter at Byodo-in. The tea shops are open through the afternoon.\n\n**Buying tea to take home.** Matcha oxidises quickly once opened — buy a small tin, keep it sealed and cold, and use it within a few weeks. Gyokuro and sencha keep far better and travel more forgivingly, so if you want one thing that will still be good in three months, buy leaf rather than powder.",
+          },
+        ],
+        faqs: [
+          { q: "How do I get to Uji from Kyoto?", a: "**About twenty minutes on the JR Nara line** from Kyoto Station, or the Keihan line from Gion-Shijo to Keihan Uji if you are staying in Higashiyama." },
+          { q: "Why is Uji tea considered the best?", a: "The plants are **shaded for three to four weeks before harvest**, which raises theanine and lowers catechins — deeper colour, much more umami, far less bitterness. That single technique produces both gyokuro and matcha." },
+          { q: "What is the difference between matcha and gyokuro?", a: "Both come from shaded leaf. **Gyokuro is brewed as leaf** at low temperature; **matcha is deveined, dried as tencha and stone-ground**, then whisked into water — so you drink the whole leaf rather than an infusion." },
+          { q: "How long does it take to grind matcha?", a: "A stone mill produces **roughly forty grams an hour**. Grinding it yourself for ten minutes is the fastest way to understand why good matcha costs what it does." },
+          { q: "Is Byodo-in worth it?", a: "Yes — the Phoenix Hall dates from 1053 and survives largely intact, which is unusual in the Kyoto area where most great buildings are reconstructions. Grounds and hall interior are ticketed separately." },
+          { q: "Should I buy matcha or leaf tea to take home?", a: "**Leaf, if you want it to last.** Matcha oxidises within weeks of opening — buy a small tin and use it quickly. Gyokuro and sencha keep far better and survive a long trip home." },
+          { q: "Can I combine Uji with Nara?", a: "Yes, and it is the efficient way to do it — Uji sits between Kyoto and Nara. Several coach day trips take that route." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How do I get to Uji from Kyoto?", acceptedAnswer: { "@type": "Answer", text: "**About twenty minutes on the JR Nara line** from Kyoto Station, or the Keihan line from Gion-Shijo to Keihan Uji if you are staying in Higashiyama." } },
+            { "@type": "Question", name: "Why is Uji tea considered the best?", acceptedAnswer: { "@type": "Answer", text: "The plants are **shaded for three to four weeks before harvest**, which raises theanine and lowers catechins — deeper colour, much more umami, far less bitterness. That single technique produces both gyokuro and matcha." } },
+            { "@type": "Question", name: "What is the difference between matcha and gyokuro?", acceptedAnswer: { "@type": "Answer", text: "Both come from shaded leaf. **Gyokuro is brewed as leaf** at low temperature; **matcha is deveined, dried as tencha and stone-ground**, then whisked into water — so you drink the whole leaf rather than an infusion." } },
+            { "@type": "Question", name: "How long does it take to grind matcha?", acceptedAnswer: { "@type": "Answer", text: "A stone mill produces **roughly forty grams an hour**. Grinding it yourself for ten minutes is the fastest way to understand why good matcha costs what it does." } },
+            { "@type": "Question", name: "Is Byodo-in worth it?", acceptedAnswer: { "@type": "Answer", text: "Yes — the Phoenix Hall dates from 1053 and survives largely intact, which is unusual in the Kyoto area where most great buildings are reconstructions. Grounds and hall interior are ticketed separately." } },
+            { "@type": "Question", name: "Should I buy matcha or leaf tea to take home?", acceptedAnswer: { "@type": "Answer", text: "**Leaf, if you want it to last.** Matcha oxidises within weeks of opening — buy a small tin and use it quickly. Gyokuro and sencha keep far better and survive a long trip home." } },
+            { "@type": "Question", name: "Can I combine Uji with Nara?", acceptedAnswer: { "@type": "Answer", text: "Yes, and it is the efficient way to do it — Uji sits between Kyoto and Nara. Several coach day trips take that route." } },
+          ],
+        },
+        heroImage: TOUR_CARD_UJI_TEA.image,
       };
     default:
             return null;
