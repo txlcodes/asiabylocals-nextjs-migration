@@ -47,6 +47,15 @@ const X_MIYA = {
   image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830551/asiabylocals/tours/hiroshima-miyajima-half-day-small-group-island-tour-from-hiroshima/img0.jpg',
 };
 
+const X_KURE = {
+    slug: 'kure-naval-history-walk-yamato-museum-submarine',
+    title: "Kure Naval History Walk",
+    description: 'The Yamato Museum and a decommissioned submarine you walk inside, thirty minutes from Hiroshima.',
+    price: 'From $62',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788734124/asiabylocals/tours/kure-naval-history-walk-yamato-museum-submarine/img0.jpg',
+};
+
 export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-hiroshima':
@@ -878,6 +887,69 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: X_PRIV.image,
+      };
+    case "hiroshima-with-children":
+      return {
+        title: "Hiroshima with Children: How to Handle the Peace Park, and What Else to Do",
+        seoTitle: "Hiroshima with Kids (2026 Guide)",
+        description: "The Peace Memorial Museum is difficult for adults and can be genuinely distressing for children. How to decide what to show them, and what the rest of the city offers.",
+        fastFacts: [
+          { icon: "AlertTriangle", label: "Museum main building", value: "Graphic; consider ages carefully" },
+          { icon: "MapPin", label: "Best with children", value: "Miyajima — deer, ferry, cable car" },
+          { icon: "Clock", label: "Peace Park visit", value: "1-2 hours is enough" },
+          { icon: "Star", label: "Lighter half-day", value: "Hiroshima Castle and Shukkeien garden" },
+        ],
+        sections: [
+          {
+            title: "The Honest Starting Point",
+            icon: "AlertTriangle",
+            content: "Hiroshima is worth bringing children to. The question is not whether, but how much of the museum to show them, and that decision deserves more thought than a guidebook line.\n\n**The Peace Memorial Park itself is fine at any age.** It is a large, open, green riverside space with monuments in it. Children run there. The A-Bomb Dome — the one building left standing as it was — is a ruin across the water and reads as a ruin.\n\n**The museum is a different matter.** The main building's exhibits are deliberately unflinching: personal effects, photographs of injuries, and accounts of individual deaths including children's. It is designed to be difficult, and it succeeds. Many parents find that a child under about ten is either upset by it or does not engage with it at all, and neither outcome serves anybody.\n\nA common approach that works: **the East Building first**, which covers the historical and political context with far less graphic material, and then a parental decision about the main building based on how the child is doing.\n\nThere is no correct age. Children differ enormously, and you know yours. What is worth avoiding is walking in unprepared and discovering the problem in the middle of a crowded exhibition hall.\n\nA guide helps here more than most places, because they can pace the visit and answer questions honestly at a level the child can take. Our [Peace Memorial Park group walk](/japan/hiroshima/hiroshima-memorial-walking-tour) covers the outdoor ground in two hours.",
+            tourCard: X_KURE,
+          },
+          {
+            title: "What to Say Before You Go",
+            icon: "Info",
+            content: "Whatever you decide about the museum, a short conversation before you arrive changes the visit.\n\nMost children handle the facts better than adults expect if the facts arrive in advance rather than as a surprise on a wall. What happened, when, roughly how many people, and that the city rebuilt and the people who live here now are the descendants of the people it happened to.\n\n**The Children's Peace Monument** is the anchor point for younger visitors, and it is where to start. It commemorates Sadako Sasaki, who was two when the bomb fell, developed leukaemia at eleven, and folded paper cranes in hospital in the belief that a thousand would grant a wish. She died. Her classmates campaigned for the monument. Children still send folded cranes from all over the world, and they are displayed in cases around it in enormous numbers.\n\nThat story gives a child a way into the place that statistics do not. Many families fold cranes before the trip and bring them; there is a formal way to submit them at the monument.\n\n**The Peace Bell** can be rung by anyone, which gives children something to do rather than only to look at.\n\nOne thing worth deciding in advance: how you will answer the question of who dropped the bomb and why. It will come.",
+          },
+          {
+            title: "Miyajima, Which Is the Day They Will Remember",
+            icon: "Star",
+            content: "If the Peace Park is the reason adults come to Hiroshima, **Miyajima is the reason children are glad they did**.\n\nIt is a short ferry from the mainland — the crossing alone is an event for most children — to an island where **deer wander freely through the streets and the shrine grounds**, entirely habituated to people. Unlike Nara, feeding them is discouraged here, so they are calmer and less pushy, which suits smaller children.\n\nItsukushima Shrine is built on stilts over the water, and at high tide the great vermilion torii appears to float. At low tide you can walk out to it across the sand, which children generally prefer. Check the tide table before you go — it changes the day completely and either version is good, but they are different days.\n\nThere is also a **cable car up Mount Misen**, wild monkeys near the top, and a shopping street selling grilled oysters and momiji manju, the maple-leaf-shaped cakes, often made in front of you.\n\nOur [Kyoto to Hiroshima and Miyajima day trip](/japan/hiroshima/miyajima-bullet-full-day-tour) covers both in one day with the ferry and shrine admission included, if you are coming from Kansai rather than staying in the city.",
+          },
+          {
+            title: "The Rest of the City",
+            icon: "MapPin",
+            content: "Hiroshima is a pleasant, easy, low-rise city with a tram network children enjoy, and there is more than the Peace Park.\n\n**Hiroshima Castle.** Reconstructed after 1945, with a museum inside about samurai history and the castle's own destruction. Straightforward and unheavy.\n\n**Shukkeien Garden.** A classical strolling garden with a large carp pond — feeding the koi is a reliable twenty minutes.\n\n**The trams.** Hiroshima kept its tram network when most Japanese cities scrapped theirs, and some of the cars are old. Children like them and they are the practical way around the centre.\n\n**Okonomiyaki, Hiroshima-style.** Layered rather than mixed — batter, then a mountain of cabbage, then noodles, then egg — and cooked on a hotplate in front of you. It is dinner and a show, and Okonomimura, a building of stacked okonomiyaki counters, is exactly the kind of place children enjoy.\n\n**Kure**, thirty minutes away, is the option for a child who likes ships and machines: a 1:10 scale model of the battleship Yamato twenty-six metres long, and a decommissioned submarine you walk inside. [Our guided walk](/japan/hiroshima/kure-naval-history-walk-yamato-museum-submarine) covers both.",
+          },
+          {
+            title: "A Two-Day Shape",
+            icon: "Calendar",
+            content: "**Day 1 — Miyajima.** Go early, check the tide table first, and give it most of the day. Ferry, deer, shrine, the shopping street, and the cable car if the weather is clear. Back to the city for okonomiyaki.\n\n**Day 2 — The city, gently.** Peace Memorial Park in the morning while everyone is fresh: the A-Bomb Dome, the cenotaph, the Children's Peace Monument, and the bell. Then a decision about the museum — East Building at minimum, main building if you judge it right.\n\nAfterwards, deliberately, something else. Hiroshima Castle or Shukkeien, and lunch. The point of the second half of that day is to let a heavy morning settle rather than pile another site on top of it.\n\nIf you have a third day, **Kure** or the [Shimanami Kaido cycling route](/japan/hiroshima/shimanami-kaido-cycling-guide) for older children who can ride.\n\nOne last thing worth saying: children often ask the direct questions adults avoid at the Peace Park, and Hiroshima is a city that has chosen to answer them plainly. That is much of what makes it worth bringing them.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Peace Memorial Museum suitable for children?", a: "The **main building is deliberately graphic** — personal effects, injury photographs, accounts of children's deaths — and many parents find it too much for under-tens. The **East Building** covers the history and context with far less graphic material and is a reasonable place to start." },
+          { q: "Is the Peace Memorial Park itself upsetting?", a: "No. It is a large open riverside park with monuments in it, and children are comfortable there. The A-Bomb Dome reads as a ruin across the water." },
+          { q: "How should I explain Hiroshima to a child?", a: "Briefly and in advance, rather than in front of an exhibit. The **Children's Peace Monument** and Sadako Sasaki's story give younger children a way into it that numbers do not, and many families fold paper cranes before the trip to bring." },
+          { q: "What is the best thing in Hiroshima for children?", a: "**Miyajima.** A ferry crossing, free-roaming deer, a shrine built over the water, a cable car and wild monkeys. Check the tide table — the floating torii at high tide and walking out to it at low tide are different days, both good." },
+          { q: "Can children feed the deer on Miyajima?", a: "Feeding is discouraged there, unlike Nara. The result is that Miyajima's deer are calmer and less pushy, which suits smaller children." },
+          { q: "How long do we need in Hiroshima with kids?", a: "**Two days**: one for Miyajima and one for the city, with the Peace Park in the morning and something lighter afterwards. A third day suits Kure's naval museums or the Shimanami Kaido." },
+          { q: "What should we eat?", a: "**Hiroshima-style okonomiyaki** — layered rather than mixed, with noodles, cooked on a hotplate in front of you. Okonomimura, a building of stacked okonomiyaki counters, works well with children." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is the Peace Memorial Museum suitable for children?", acceptedAnswer: { "@type": "Answer", text: "The **main building is deliberately graphic** — personal effects, injury photographs, accounts of children's deaths — and many parents find it too much for under-tens. The **East Building** covers the history and context with far less graphic material and is a reasonable place to start." } },
+            { "@type": "Question", name: "Is the Peace Memorial Park itself upsetting?", acceptedAnswer: { "@type": "Answer", text: "No. It is a large open riverside park with monuments in it, and children are comfortable there. The A-Bomb Dome reads as a ruin across the water." } },
+            { "@type": "Question", name: "How should I explain Hiroshima to a child?", acceptedAnswer: { "@type": "Answer", text: "Briefly and in advance, rather than in front of an exhibit. The **Children's Peace Monument** and Sadako Sasaki's story give younger children a way into it that numbers do not, and many families fold paper cranes before the trip to bring." } },
+            { "@type": "Question", name: "What is the best thing in Hiroshima for children?", acceptedAnswer: { "@type": "Answer", text: "**Miyajima.** A ferry crossing, free-roaming deer, a shrine built over the water, a cable car and wild monkeys. Check the tide table — the floating torii at high tide and walking out to it at low tide are different days, both good." } },
+            { "@type": "Question", name: "Can children feed the deer on Miyajima?", acceptedAnswer: { "@type": "Answer", text: "Feeding is discouraged there, unlike Nara. The result is that Miyajima's deer are calmer and less pushy, which suits smaller children." } },
+            { "@type": "Question", name: "How long do we need in Hiroshima with kids?", acceptedAnswer: { "@type": "Answer", text: "**Two days**: one for Miyajima and one for the city, with the Peace Park in the morning and something lighter afterwards. A third day suits Kure's naval museums or the Shimanami Kaido." } },
+            { "@type": "Question", name: "What should we eat?", acceptedAnswer: { "@type": "Answer", text: "**Hiroshima-style okonomiyaki** — layered rather than mixed, with noodles, cooked on a hotplate in front of you. Okonomimura, a building of stacked okonomiyaki counters, works well with children." } },
+          ],
+        },
+        heroImage: X_KURE.image,
       };
     default:
             return null;

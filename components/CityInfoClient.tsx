@@ -350,6 +350,7 @@ const HIROSHIMA_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-hiroshima' },
     { name: 'Getting Around', slug: 'getting-around-hiroshima' },
     { name: '2-Day Itinerary', slug: 'hiroshima-2-day-itinerary' },
+    { name: 'Hiroshima with Children', slug: 'hiroshima-with-children' },
 ];
 
 const NARA_SIDEBAR = [
