@@ -335,6 +335,11 @@ const OSAKA_SIDEBAR = [
 
 const HIROSHIMA_SIDEBAR = [
     { name: 'Peace Memorial Park', slug: 'peace-memorial-park-guide' },
+    { name: 'Hiroshima Castle', slug: 'hiroshima-castle-guide' },
+    { name: 'Shukkeien Garden', slug: 'shukkeien-garden-guide' },
+    { name: 'Kure & Yamato Museum', slug: 'kure-yamato-museum-guide' },
+    { name: 'Shimanami Kaido Cycling', slug: 'shimanami-kaido-cycling-guide' },
+    { name: 'Onomichi Guide', slug: 'onomichi-guide' },
     { name: 'Miyajima Island', slug: 'miyajima-island-guide' },
     { name: 'Hiroshima Food Guide', slug: 'hiroshima-food-guide' },
     { name: 'Day Trips', slug: 'hiroshima-day-trips' },

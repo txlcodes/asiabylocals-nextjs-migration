@@ -185,7 +185,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-hiroshima', 'hiroshima-2-day-itinerary', 'getting-around-hiroshima',
     'peace-memorial-park-guide', 'miyajima-island-guide', 'hiroshima-food-guide',
     'hiroshima-day-trips',
-  ].map(slug => ({
+  ,
+    'shimanami-kaido-cycling-guide', 'onomichi-guide', 'hiroshima-castle-guide', 'shukkeien-garden-guide', 'kure-yamato-museum-guide'].map(slug => ({
     url: `${BASE_URL}/japan/hiroshima/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

@@ -295,7 +295,12 @@ export const HIROSHIMA_INFO_SLUGS = [
   'best-time-to-visit-hiroshima', 'hiroshima-2-day-itinerary', 'getting-around-hiroshima',
   'peace-memorial-park-guide', 'miyajima-island-guide', 'hiroshima-food-guide',
   'hiroshima-day-trips'
-];
+,
+  'shimanami-kaido-cycling-guide',
+  'onomichi-guide',
+  'hiroshima-castle-guide',
+  'shukkeien-garden-guide',
+  'kure-yamato-museum-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
 export const OSAKA_INFO_SLUGS = [

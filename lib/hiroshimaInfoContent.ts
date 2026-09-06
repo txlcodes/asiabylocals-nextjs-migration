@@ -2,6 +2,51 @@
 // Reached via getHiroshimaInfoContent() -> getCityInfoContent().
 import type { CityInfoData } from './cityInfoContent';
 
+const X_BIKE = {
+  slug: 'hiroshima-morning-tour',
+  title: 'Hiroshima by Bike: Guided Morning Ride to Icons & Hidden Gems',
+  description: 'A top-rated Hiroshima experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 83',
+  duration: '3.5 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830605/asiabylocals/tours/hiroshima-hiroshima-by-bike-guided-morning-ride-to-icons-hidden-gems/img0.png',
+};
+
+const X_FULL = {
+  slug: 'miyajima-full-day-tour',
+  title: 'Hiroshima & Miyajima Full-Day Small-Group Tour',
+  description: 'A top-rated Hiroshima experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 94',
+  duration: '8 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830571/asiabylocals/tours/hiroshima-hiroshima-miyajima-full-day-small-group-tour-island-temples-to-peace-p/img0.jpg',
+};
+
+const X_PRIV = {
+  slug: 'hiroshima-private-tour',
+  title: 'Hiroshima Private History Tour: Peace Park & Museum at Your Own Pace',
+  description: 'A top-rated Hiroshima experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 77',
+  duration: '3 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830506/asiabylocals/tours/hiroshima-hiroshima-private-history-tour-peace-park-museum-at-your-own-pace/img0.jpg',
+};
+
+const X_KYUDO = {
+  slug: 'hiroshima-experience',
+  title: 'Hiroshima Kyudo Experience: Traditional Japanese Archery',
+  description: 'A top-rated Hiroshima experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 54',
+  duration: '1 hour',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830587/asiabylocals/tours/hiroshima-hiroshima-kyudo-experience-traditional-japanese-archery-in-uniform/img0.jpg',
+};
+
+const X_MIYA = {
+  slug: 'miyajima-half-day-tour',
+  title: 'Miyajima Half-Day Small-Group Island Tour from Hiroshima',
+  description: 'A top-rated Hiroshima experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 58',
+  duration: '4 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830551/asiabylocals/tours/hiroshima-miyajima-half-day-small-group-island-tour-from-hiroshima/img0.jpg',
+};
+
 export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-hiroshima':
@@ -555,7 +600,286 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830475/asiabylocals/tours/hiroshima-hiroshima-untold-why-the-atomic-bomb-fell-guided-history-walk/img0.jpg',
       };
 
-        default:
+        case "shimanami-kaido-cycling-guide":
+      return {
+        title: "The Shimanami Kaido: Cycling Between Islands from Onomichi",
+        seoTitle: "Shimanami Kaido Cycling Guide",
+        description: "About 70 km of dedicated cycle route across six islands and seven bridges. What it takes, how to shorten it, and why you can ride one way and hand the bike back.",
+        fastFacts: [
+          { icon: "bike", label: "Length", value: "About 70 km, Onomichi to Imabari across six islands" },
+          { icon: "landmark", label: "Bridges", value: "Seven, each with its own separated cycle lane and spiral ramp" },
+          { icon: "clock", label: "Time", value: "6-10 hours in a day, or two days at a comfortable pace" },
+          { icon: "repeat", label: "One-way", value: "Rental bikes can be dropped at terminals along the route" },
+        ],
+        sections: [
+          {
+            title: "What It Actually Is",
+            icon: "bike",
+            content: "The **Shimanami Kaido** is a road across the Seto Inland Sea from **Onomichi** in Hiroshima Prefecture to **Imabari** on Shikoku, hopping six islands over seven bridges. Alongside the traffic lanes runs a **dedicated cycleway** the whole distance.\n\nThat is what makes it unusual. This is not a road you share with lorries — the bridges carry separated bike lanes, reached by long spiral ramps, and the island sections follow a **blue line painted on the road surface** that navigates the entire route for you. You genuinely do not need a map.\n\nIt is widely rated one of the best cycle routes in Asia, and the reason is that combination: real infrastructure, sea on both sides for most of the day, and almost no navigation stress.",
+            tourCard: X_BIKE,
+          },
+          {
+            title: "How Hard Is It, Really",
+            icon: "mountain",
+            content: "Less hard than the distance suggests. There is **no serious climbing** — the only gradients are the bridge approach ramps, which are engineered at a gentle grade precisely so that bicycles can manage them. The island roads between are flat to rolling.\n\nSeventy kilometres is still seventy kilometres. A regular cyclist does it in six to eight hours with stops; an unfit rider on a rental will find the last twenty a grind. The comfortable version is **two days with a night on Omishima or Ikuchijima**, which also lets you actually stop at things.\n\nThe genuinely useful escape hatch is that you can **shorten it at will**. Ferries connect several islands back to the mainland, and the standard half-route — Onomichi to Omishima, roughly 40 km — captures most of the best bridges. Ride until you have had enough and take a ferry.",
+            tourCard: X_FULL,
+          },
+          {
+            title: "Bikes, and the One-Way Trick",
+            icon: "repeat",
+            content: "Rental terminals sit at both ends and at several points along the route, and the system is built for **one-way riding**: pick a bike up in Onomichi, ride to Imabari, hand it in there. You do not have to come back.\n\nThat single detail is what makes the route practical for travellers rather than only for cyclists with their own gear. Standard cross bikes, e-bikes and road bikes are all available; **e-bikes** are the sensible choice for anyone unsure about the distance, and they book out first in season.\n\nBridges carry a small toll for cyclists at some crossings. Reserve bikes ahead on weekends and through spring and autumn — this route is well known domestically and the terminals do run out.",
+            tourCard: X_BIKE,
+          },
+          {
+            title: "When to Ride and What to Stop For",
+            icon: "calendar",
+            content: "**Spring and autumn** are the seasons. Summer on the Inland Sea is hot and humid with little shade on the bridges; winter is rideable but the sea wind on the spans is cold and exposed.\n\nWorth stopping for: **Ikuchijima**'s Kosanji Temple and its startling white marble hilltop; the **Museum of Art** on Omishima; citrus groves — this coast grows a lot of Japan's lemons; and the small ports where the ferries call, which are ordinary working places rather than sights.\n\nOnomichi itself deserves an evening. It is a hillside town of temples and cats reached by narrow stairways, with a well-known ramen style of its own, and it is a far better place to start or finish than a station platform. Most people rush it and regret it.",
+            tourCard: X_PRIV,
+          },
+        ],
+        faqs: [
+          { q: "How long is the Shimanami Kaido?", a: "About 70 km from Onomichi to Imabari, crossing six islands and seven bridges. Most riders take six to ten hours in a day, or split it over two days." },
+          { q: "Is the Shimanami Kaido difficult to cycle?", a: "Not technically. There is no serious climbing — only gentle engineered ramps up to the bridges — and a blue line painted on the road navigates the whole route. The challenge is distance rather than gradient." },
+          { q: "Can I cycle the Shimanami Kaido one way?", a: "Yes. Rental terminals at both ends and along the route let you drop the bike where you finish, so you can ride Onomichi to Imabari without returning. E-bikes are available and book out first in season." },
+          { q: "Can I do a shorter version of the Shimanami Kaido?", a: "Yes. Ferries connect several islands back to the mainland, so you can ride as far as you like and take a boat. Onomichi to Omishima, about 40 km, covers most of the best bridges." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How long is the Shimanami Kaido?", acceptedAnswer: { "@type": "Answer", text: "About 70 km from Onomichi to Imabari, crossing six islands and seven bridges. Most riders take six to ten hours in a day, or split it over two days." } },
+            { "@type": "Question", name: "Is the Shimanami Kaido difficult to cycle?", acceptedAnswer: { "@type": "Answer", text: "Not technically. There is no serious climbing — only gentle engineered ramps up to the bridges — and a blue line painted on the road navigates the whole route. The challenge is distance rather than gradient." } },
+            { "@type": "Question", name: "Can I cycle the Shimanami Kaido one way?", acceptedAnswer: { "@type": "Answer", text: "Yes. Rental terminals at both ends and along the route let you drop the bike where you finish, so you can ride Onomichi to Imabari without returning. E-bikes are available and book out first in season." } },
+            { "@type": "Question", name: "Can I do a shorter version of the Shimanami Kaido?", acceptedAnswer: { "@type": "Answer", text: "Yes. Ferries connect several islands back to the mainland, so you can ride as far as you like and take a boat. Onomichi to Omishima, about 40 km, covers most of the best bridges." } },
+          ],
+        },
+        heroImage: X_BIKE.image,
+      };
+
+    case "onomichi-guide":
+      return {
+        title: "Onomichi: Temples, Stairways and Cats on a Hillside",
+        seoTitle: "Onomichi Guide",
+        description: "The start of the Shimanami Kaido is a hill town of narrow stairways, twenty-five temples and its own ramen. Worth a night, not an hour.",
+        fastFacts: [
+          { icon: "mountain", label: "The shape", value: "A strip of town between the sea and a steep hill, connected by stairways" },
+          { icon: "landmark", label: "Temple walk", value: "A signposted route linking about 25 temples across the slope" },
+          { icon: "utensils", label: "Onomichi ramen", value: "Soy-based broth with pork back fat floating on top" },
+          { icon: "train", label: "Access", value: "On the JR Sanyo line; about 1.5 hours from Hiroshima" },
+        ],
+        sections: [
+          {
+            title: "A Town Built on a Slope",
+            icon: "mountain",
+            content: "Onomichi is squeezed between the Seto Inland Sea and a steep hill, and the whole character of the place comes from that. There is no room for wide roads on the slope, so the town is connected by **narrow stone stairways and alleys** running up between houses.\n\nA **ropeway** carries you to the top in a few minutes, and the correct way to do Onomichi is to ride up and walk down. Coming down, you pass through the temple route, past viewpoints over the strait, and into lanes barely wide enough for two people.\n\nIt is also known as a cat town. The **Cat Alley** — Neko-no-Hosomichi — is a lane decorated with painted cat stones, and there are genuinely a lot of cats. It is charming and it is also, unavoidably, the most photographed twenty metres in the town.",
+            tourCard: X_PRIV,
+          },
+          {
+            title: "The Temple Walk",
+            icon: "landmark",
+            content: "The signposted **temple walk** links around twenty-five temples strung across the hillside, and it is the real substance of a visit. **Senko-ji**, near the top by the ropeway station, is the famous one — a vermilion hall on a rock ledge with the whole strait below it.\n\nThe walk takes two to three hours at a wandering pace and it is a proper walk, with stairs throughout. What makes it good is not any single temple but the sequence: you keep emerging from a lane between houses into a small courtyard, then back into the lanes.\n\nOnomichi was a prosperous port for centuries, which is why a town this size has this many temples. Merchant families endowed them, and the buildings outlasted the trade.",
+            tourCard: X_FULL,
+          },
+          {
+            title: "Onomichi Ramen",
+            icon: "utensils",
+            content: "Onomichi has its own ramen style and it is distinct enough to be worth planning a meal around: a **soy-based broth**, usually with a base of small dried fish from the Inland Sea, and lumps of **pork back fat** floating on the surface.\n\nThe fat is the signature. It melts into the broth as you eat, so the bowl gets richer towards the end — the opposite of what usually happens to ramen. Flat noodles, chashu, spring onion.\n\nThere are several long-established shops in the town centre near the station and queues at lunch. It is a cheap, fast, extremely local thing to eat in a town that most people pass through without eating in at all.",
+            tourCard: X_KYUDO,
+          },
+          {
+            title: "Why Stay the Night",
+            icon: "moon",
+            content: "Almost everybody treats Onomichi as a start line — arrive, collect a bike, leave. That is a mistake for two reasons.\n\nFirst, the town empties in the evening. The stairways and temple lanes with nobody on them, lit and looking down at ships moving through the strait, are a completely different experience from the daytime one.\n\nSecond, if you are riding the **Shimanami Kaido**, starting at first light from a bed in Onomichi is far better than starting at 10am after a train from Hiroshima. The route is long enough that those two hours matter.\n\nThe town has a good supply of small guesthouses, several of them converted from old buildings on the slope, plus a well-known cyclist-oriented hotel on the waterfront where you can wheel the bike into the room.",
+            tourCard: X_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "Is Onomichi worth visiting?", a: "Yes, and for more than a bike pickup. It is a hillside port town of stone stairways and about 25 temples linked by a signposted walk, with its own ramen style and a ropeway to the top of the slope." },
+          { q: "What is Onomichi ramen?", a: "A soy-based broth, usually built on small dried fish from the Inland Sea, with lumps of pork back fat floating on top that melt in as you eat, so the bowl gets richer towards the end." },
+          { q: "How do I get to Onomichi from Hiroshima?", a: "On the JR Sanyo line, roughly an hour and a half. It is the mainland starting point for the Shimanami Kaido cycle route." },
+          { q: "How long do I need in Onomichi?", a: "The temple walk alone is two to three hours. Staying the night is worth it — the lanes empty in the evening, and it puts you at the Shimanami Kaido start line at first light." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Onomichi worth visiting?", acceptedAnswer: { "@type": "Answer", text: "Yes, and for more than a bike pickup. It is a hillside port town of stone stairways and about 25 temples linked by a signposted walk, with its own ramen style and a ropeway to the top of the slope." } },
+            { "@type": "Question", name: "What is Onomichi ramen?", acceptedAnswer: { "@type": "Answer", text: "A soy-based broth, usually built on small dried fish from the Inland Sea, with lumps of pork back fat floating on top that melt in as you eat, so the bowl gets richer towards the end." } },
+            { "@type": "Question", name: "How do I get to Onomichi from Hiroshima?", acceptedAnswer: { "@type": "Answer", text: "On the JR Sanyo line, roughly an hour and a half. It is the mainland starting point for the Shimanami Kaido cycle route." } },
+            { "@type": "Question", name: "How long do I need in Onomichi?", acceptedAnswer: { "@type": "Answer", text: "The temple walk alone is two to three hours. Staying the night is worth it — the lanes empty in the evening, and it puts you at the Shimanami Kaido start line at first light." } },
+          ],
+        },
+        heroImage: X_PRIV.image,
+      };
+
+    case "hiroshima-castle-guide":
+      return {
+        title: "Hiroshima Castle: Rebuilt Twice, and the Trees That Survived",
+        seoTitle: "Hiroshima Castle Guide",
+        description: "The castle was destroyed by the bomb and rebuilt in 1958. What is original, what is not, and the eucalyptus and willow still growing in the grounds.",
+        fastFacts: [
+          { icon: "landmark", label: "Built", value: "1590s, by Mori Terumoto, on the delta that gave the city its name" },
+          { icon: "alert-triangle", label: "Destroyed", value: "6 August 1945 — the keep collapsed in the blast" },
+          { icon: "hammer", label: "Rebuilt", value: "1958, in ferro-concrete, as a museum of the castle's history" },
+          { icon: "trees", label: "Survivor trees", value: "A eucalyptus and a willow in the grounds are hibakujumoku" },
+        ],
+        sections: [
+          {
+            title: "What the Bomb Did to It",
+            icon: "alert-triangle",
+            content: "Hiroshima Castle stood about a kilometre from the hypocentre. The five-storey wooden keep, standing since the 1590s and designated a national treasure, was **destroyed on 6 August 1945** — the blast collapsed it outright.\n\nThe keep you see today was rebuilt in **1958**, in ferro-concrete, following the original exterior. Inside it is a museum of the castle's history and of Hiroshima before the bomb, which is a subject the Peace Memorial Museum understandably does not cover — this is the place to understand what the city *was*.\n\nThat is the argument for coming here. Most visitors do the Peace Park and leave with an image of Hiroshima that begins in 1945. The castle is where the four preceding centuries are.",
+            tourCard: X_PRIV,
+          },
+          {
+            title: "The Trees Are the Real Artefact",
+            icon: "trees",
+            content: "In the castle grounds stand several **hibakujumoku** — survivor trees that were alive on 6 August 1945, within the blast radius, and lived.\n\nA **eucalyptus** and a **willow** here are among the closest surviving trees to the hypocentre. They were burned and stripped, and they put out new growth the following spring, at a time when it was widely believed nothing would grow in the city for decades.\n\nThey are marked with small signs and almost nobody stops at them. If you visit one thing in these grounds, make it the trees rather than the concrete keep. Roughly 170 of these trees survive across Hiroshima and they are catalogued and monitored; the ones here are the easiest to find.",
+            tourCard: X_FULL,
+          },
+          {
+            title: "What Is Original",
+            icon: "landmark",
+            content: "The **moats and the stone walls** are original, and they are the best part of the site. Walking the perimeter gives you the actual footprint of a major sixteenth-century fortress on a river delta — Hiroshima means 'wide island', and the castle is the reason the city is where it is.\n\nWithin the grounds, the **Ninomaru** gate complex and turrets were reconstructed in the 1990s using **traditional timber methods**, unlike the concrete keep. They are worth ten minutes and are usually empty.\n\nAlso in the grounds: **Gokoku Shrine**, rebuilt post-war and busy at New Year, and a preserved concrete bunker that served as an army communications post — it was from here that one of the first reports of the bomb was transmitted.",
+            tourCard: X_KYUDO,
+          },
+          {
+            title: "Fitting It Into a Hiroshima Day",
+            icon: "route",
+            content: "The castle is about a **fifteen-minute walk north** of the Peace Memorial Park, or a short tram ride. That proximity is the point: the two sites are the same story from two ends.\n\nA workable sequence is Peace Park and museum in the morning, when you have the emotional energy for it, then the castle and **Shukkeien** garden in the afternoon as a deliberate change of register. Both are quiet and neither takes long.\n\nAllow about an hour for the castle including the keep museum. If you are short on time and have to choose, walk the moat and find the survivor trees, and skip the interior.",
+            tourCard: X_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "Is Hiroshima Castle the original building?", a: "No. The 1590s wooden keep was destroyed by the atomic bomb on 6 August 1945 and rebuilt in ferro-concrete in 1958. The moats and stone walls are original, and the Ninomaru gate and turrets were rebuilt in traditional timber in the 1990s." },
+          { q: "What are the survivor trees at Hiroshima Castle?", a: "Hibakujumoku — trees that were alive within the blast radius on 6 August 1945 and regrew. A eucalyptus and a willow in the castle grounds are among the closest surviving trees to the hypocentre, marked with small signs." },
+          { q: "Is Hiroshima Castle worth visiting?", a: "Yes, as a counterweight to the Peace Park. The keep's museum covers the four centuries of Hiroshima before 1945, which the Peace Memorial Museum does not, and the moats, walls and survivor trees are the genuinely original parts." },
+          { q: "How far is Hiroshima Castle from the Peace Memorial Park?", a: "About a fifteen-minute walk north, or a short tram ride. The two pair naturally in one day." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Hiroshima Castle the original building?", acceptedAnswer: { "@type": "Answer", text: "No. The 1590s wooden keep was destroyed by the atomic bomb on 6 August 1945 and rebuilt in ferro-concrete in 1958. The moats and stone walls are original, and the Ninomaru gate and turrets were rebuilt in traditional timber in the 1990s." } },
+            { "@type": "Question", name: "What are the survivor trees at Hiroshima Castle?", acceptedAnswer: { "@type": "Answer", text: "Hibakujumoku — trees that were alive within the blast radius on 6 August 1945 and regrew. A eucalyptus and a willow in the castle grounds are among the closest surviving trees to the hypocentre, marked with small signs." } },
+            { "@type": "Question", name: "Is Hiroshima Castle worth visiting?", acceptedAnswer: { "@type": "Answer", text: "Yes, as a counterweight to the Peace Park. The keep's museum covers the four centuries of Hiroshima before 1945, which the Peace Memorial Museum does not, and the moats, walls and survivor trees are the genuinely original parts." } },
+            { "@type": "Question", name: "How far is Hiroshima Castle from the Peace Memorial Park?", acceptedAnswer: { "@type": "Answer", text: "About a fifteen-minute walk north, or a short tram ride. The two pair naturally in one day." } },
+          ],
+        },
+        heroImage: X_PRIV.image,
+      };
+
+    case "shukkeien-garden-guide":
+      return {
+        title: "Shukkeien: The Garden That Became a Refuge in 1945",
+        seoTitle: "Shukkeien Garden Guide",
+        description: "A four-hundred-year-old strolling garden a kilometre from the hypocentre. What it is, and what happened here in the days after the bomb.",
+        fastFacts: [
+          { icon: "landmark", label: "Created", value: "1620, for the lord of Hiroshima domain" },
+          { icon: "map", label: "The design", value: "A miniaturised landscape — the name means 'shrunken scenery garden'" },
+          { icon: "alert-triangle", label: "1945", value: "About 1.3 km from the hypocentre; people fled here and many died" },
+          { icon: "clock", label: "Time needed", value: "About an hour for the full circuit of the pond" },
+        ],
+        sections: [
+          {
+            title: "What a Strolling Garden Is",
+            icon: "map",
+            content: "Shukkeien was laid out in **1620** for the lord of the Hiroshima domain, and it is a *kaiyu-shiki* — a circuit or strolling garden, designed to be walked rather than viewed from one point.\n\nThe name means roughly '**shrunken scenery garden**', and the concept is that the whole thing is a landscape in miniature: a central pond standing in for a sea, islets for islands, a valley, a rocky stream, tea houses positioned so that each turn of the path reveals a composed view.\n\nThe famous element is the **Kokokyo bridge**, a steeply arched span over the pond that appears in most photographs of the place. Walking the circuit takes about an hour at an unhurried pace, and the design rewards being unhurried — the views are staged for a walking speed.",
+            tourCard: X_PRIV,
+          },
+          {
+            title: "What Happened Here in August 1945",
+            icon: "alert-triangle",
+            content: "Shukkeien is roughly **1.3 kilometres from the hypocentre**. The garden was devastated, and in the hours after the bomb large numbers of injured people made their way here looking for water and shelter under the trees.\n\nMany died in the garden. There is a **memorial** on the grounds and, during later excavation, human remains were recovered from the site. This is not signposted aggressively and it is easy to walk the circuit without registering it.\n\nSome of the trees survived and are designated **hibakujumoku**, like those at the castle. The garden was restored and reopened in 1951.\n\nIt is worth knowing before you go, because it changes what a very beautiful place is. Shukkeien is not a quiet garden that happens to be in Hiroshima; it is part of the same event as everything else in this city.",
+            tourCard: X_FULL,
+          },
+          {
+            title: "When to Visit",
+            icon: "calendar",
+            content: "The garden reads differently by season, which is the intent. **Cherry blossom** in early April along the pond edge; **irises** in early summer; **maples** in November, which is arguably the best of them; and camellias in winter.\n\nIt is open year-round and rarely crowded, which is remarkable for a four-hundred-year-old garden in a major city. Even in autumn it does not approach Kyoto's density.\n\nThere is a tea house on the grounds serving matcha with a sweet, taken looking over the pond. It costs little and it is the correct way to spend twenty minutes here.\n\nThe **Hiroshima Prefectural Art Museum** shares the site and a combined ticket is available — a reasonable pairing on a wet day.",
+            tourCard: X_KYUDO,
+          },
+          {
+            title: "Where It Sits",
+            icon: "route",
+            content: "Shukkeien is a short walk from **Hiroshima Castle** and a tram ride or twenty-minute walk from the **Peace Memorial Park**, in the same northern pocket of the centre.\n\nThe natural afternoon is castle, then garden, then tea. All three are quiet, all three are outdoors or near it, and together they take about three hours.\n\nIf you have a single full day in Hiroshima and are also going to Miyajima, this cluster is what gets cut — and it is the part of the city most visitors never see. If you have two days, this is the second morning.",
+            tourCard: X_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "What is Shukkeien Garden?", a: "A strolling garden created in 1620 for the lord of Hiroshima domain. The name means roughly 'shrunken scenery garden' — the design miniaturises a whole landscape around a central pond, walked as a circuit that takes about an hour." },
+          { q: "What happened at Shukkeien in 1945?", a: "The garden is about 1.3 km from the hypocentre. It was devastated, and many injured people fled here seeking water and shelter; a large number died in the grounds. There is a memorial on site, and some surviving trees are designated hibakujumoku." },
+          { q: "When is the best time to visit Shukkeien?", a: "Cherry blossom in early April, irises in early summer, and maples in November, which is the strongest of the four. It stays quiet year-round, unusually for a garden of this age in a major city." },
+          { q: "Is Shukkeien near Hiroshima Castle?", a: "Yes — a short walk, in the same northern part of the city centre, and about twenty minutes on foot or a tram ride from the Peace Memorial Park." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is Shukkeien Garden?", acceptedAnswer: { "@type": "Answer", text: "A strolling garden created in 1620 for the lord of Hiroshima domain. The name means roughly 'shrunken scenery garden' — the design miniaturises a whole landscape around a central pond, walked as a circuit that takes about an hour." } },
+            { "@type": "Question", name: "What happened at Shukkeien in 1945?", acceptedAnswer: { "@type": "Answer", text: "The garden is about 1.3 km from the hypocentre. It was devastated, and many injured people fled here seeking water and shelter; a large number died in the grounds. There is a memorial on site, and some surviving trees are designated hibakujumoku." } },
+            { "@type": "Question", name: "When is the best time to visit Shukkeien?", acceptedAnswer: { "@type": "Answer", text: "Cherry blossom in early April, irises in early summer, and maples in November, which is the strongest of the four. It stays quiet year-round, unusually for a garden of this age in a major city." } },
+            { "@type": "Question", name: "Is Shukkeien near Hiroshima Castle?", acceptedAnswer: { "@type": "Answer", text: "Yes — a short walk, in the same northern part of the city centre, and about twenty minutes on foot or a tram ride from the Peace Memorial Park." } },
+          ],
+        },
+        heroImage: X_PRIV.image,
+      };
+
+    case "kure-yamato-museum-guide":
+      return {
+        title: "Kure and the Yamato Museum: Hiroshima's Other History",
+        seoTitle: "Kure Yamato Museum Guide",
+        description: "Thirty minutes from Hiroshima, the naval port that built the largest battleship ever launched — and a submarine you can walk inside.",
+        fastFacts: [
+          { icon: "anchor", label: "What Kure was", value: "The Imperial Japanese Navy's main arsenal and shipyard" },
+          { icon: "ship", label: "The centrepiece", value: "A 26.3 m scale model of the battleship Yamato, at 1:10" },
+          { icon: "landmark", label: "Next door", value: "The JMSDF museum, with a real submarine you can walk through" },
+          { icon: "train", label: "From Hiroshima", value: "About 30-40 minutes by JR Kure Line" },
+        ],
+        sections: [
+          {
+            title: "Why Kure Existed",
+            icon: "anchor",
+            content: "**Kure**, half an hour down the coast from Hiroshima, was the Imperial Japanese Navy's principal arsenal — a deep, sheltered harbour ringed by hills, where warships were designed, built and armed.\n\nIts most famous product was the **Yamato**, the largest battleship ever built, launched here in 1940 and sunk in 1945 on a one-way mission to Okinawa with the loss of most of her crew.\n\nThis is the piece of context that reframes the whole region. Hiroshima was a military city — headquarters, port, industry — and Kure was its shipyard. Understanding that does not justify what happened on 6 August; it explains why the city was on the target list, and that is a different and necessary thing to know.",
+            tourCard: X_PRIV,
+          },
+          {
+            title: "The Yamato Museum",
+            icon: "ship",
+            content: "The museum's centrepiece is a **1:10 scale model of the Yamato**, 26.3 metres long, sitting in a hall built around it. The scale is what does the work — at a tenth size it is already the length of a house, and the real ship's dimensions become comprehensible in a way that numbers do not manage.\n\nAround it the museum covers shipbuilding technology, the industry that grew here, and the war. It also holds a **Zero fighter** recovered from the seabed and a *kaiten* human torpedo — a manned suicide weapon — displayed with the names and ages of the men who used them.\n\nIt is a technically excellent museum and an uncomfortable one, which is appropriate. It does not celebrate; it displays, at some length, what industrial capacity was turned into.",
+            tourCard: X_FULL,
+          },
+          {
+            title: "The Submarine Next Door",
+            icon: "landmark",
+            content: "Directly opposite sits the **JMSDF Kure Museum**, known locally as the Iron Whale, and it is impossible to miss because a **retired submarine sits on land beside the building**, out of the water, at full size.\n\nYou can walk through it. The interior is preserved — control room, bunks, the corridors you have to turn sideways in — and it is the single best way to understand the scale a submarine crew lives at. Admission is free.\n\nThe museum's other subject is **minesweeping**, which is Japan's postwar naval speciality and a genuinely interesting one. Between the two museums, a couple of hours goes quickly.",
+            tourCard: X_KYUDO,
+          },
+          {
+            title: "Making the Trip",
+            icon: "train",
+            content: "Kure is 30 to 40 minutes from Hiroshima Station on the **JR Kure Line**, and both museums are a few minutes' walk from Kure Station. It is one of the easiest half-days available from the city.\n\nIt pairs well with **Okunoshima**, the rabbit island, which is further along the same line and was itself a secret poison gas facility during the war — a pairing that makes for a very particular kind of day.\n\nOne note on tone. This is not an alternative to the Peace Memorial Museum and it should not be treated as a counterargument to it. It is the other half of the same history, and doing both in one trip gives you a far more complete picture of this coast than doing either alone.",
+            tourCard: X_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "What is the Yamato Museum?", a: "A museum in Kure, near Hiroshima, built around a 26.3 metre 1:10 scale model of the battleship Yamato, which was built at Kure and sunk in 1945. It also covers the shipbuilding industry, and holds a recovered Zero fighter and a kaiten human torpedo." },
+          { q: "Can you go inside the submarine at Kure?", a: "Yes. The JMSDF Kure Museum opposite the Yamato Museum has a retired submarine displayed on land at full size, and you can walk through its preserved interior. Admission is free." },
+          { q: "How do I get to Kure from Hiroshima?", a: "About 30 to 40 minutes on the JR Kure Line from Hiroshima Station. Both museums are a few minutes' walk from Kure Station." },
+          { q: "Is Kure worth visiting alongside the Peace Memorial Park?", a: "Yes. Kure was the navy's main arsenal and explains why Hiroshima was a military city and a target. It is the other half of the same history rather than an alternative to the Peace Park." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the Yamato Museum?", acceptedAnswer: { "@type": "Answer", text: "A museum in Kure, near Hiroshima, built around a 26.3 metre 1:10 scale model of the battleship Yamato, which was built at Kure and sunk in 1945. It also covers the shipbuilding industry, and holds a recovered Zero fighter and a kaiten human torpedo." } },
+            { "@type": "Question", name: "Can you go inside the submarine at Kure?", acceptedAnswer: { "@type": "Answer", text: "Yes. The JMSDF Kure Museum opposite the Yamato Museum has a retired submarine displayed on land at full size, and you can walk through its preserved interior. Admission is free." } },
+            { "@type": "Question", name: "How do I get to Kure from Hiroshima?", acceptedAnswer: { "@type": "Answer", text: "About 30 to 40 minutes on the JR Kure Line from Hiroshima Station. Both museums are a few minutes' walk from Kure Station." } },
+            { "@type": "Question", name: "Is Kure worth visiting alongside the Peace Memorial Park?", acceptedAnswer: { "@type": "Answer", text: "Yes. Kure was the navy's main arsenal and explains why Hiroshima was a military city and a target. It is the other half of the same history rather than an alternative to the Peace Park." } },
+          ],
+        },
+        heroImage: X_PRIV.image,
+      };
+    default:
             return null;
     }
 }
