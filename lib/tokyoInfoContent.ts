@@ -101,6 +101,24 @@ const TOUR_CARD_NINJA_TOKYO = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726327/asiabylocals/tours/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing/img0.jpg',
 };
 
+
+const TOUR_CARD_NIGHTWALK = {
+    slug: 'tokyo-night-photo-tour-shibuya-sky-shinjuku',
+    title: "Tokyo After Dark with a Photographer",
+    description: 'Shibuya Sky at golden hour, then Kabukicho and the lantern alleys of Omoide Yokocho.',
+    price: 'From $115',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726560/asiabylocals/tours/tokyo-night-photo-tour-shibuya-sky-shinjuku/img0.jpg',
+};
+const TOUR_CARD_ASAKUSA_SUMO = {
+    slug: 'tokyo-asakusa-sumo-dinner-show-geisha-hot-pot',
+    title: "Sumo, Geisha and Chanko Hot Pot in Asakusa",
+    description: 'Dinner around a real dohyo with a geisha dance and all-you-can-eat chanko.',
+    price: 'From $123',
+    duration: '2 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726118/asiabylocals/tours/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot/img0.jpg',
+};
+
 export function getTokyoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
 
@@ -1529,6 +1547,70 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_CAT.image,
+      };
+    case "where-to-stay-in-tokyo":
+      return {
+        title: "Where to Stay in Tokyo: Six Areas, and the Trade-Off Each One Makes",
+        seoTitle: "Where to Stay in Tokyo (2026)",
+        description: "Tokyo has no single centre, so the neighbourhood question is really about which line you want to be on. What each area is like at night, and who it suits.",
+        fastFacts: [
+          { icon: "Train", label: "The rule that matters", value: "Stay on or inside the Yamanote loop" },
+          { icon: "MapPin", label: "Best all-round", value: "Shinjuku or Shibuya" },
+          { icon: "Star", label: "Best value and character", value: "Asakusa and the east" },
+          { icon: "Clock", label: "Last trains", value: "Around midnight to 01:00" },
+        ],
+        sections: [
+          {
+            title: "The One Rule",
+            icon: "Star",
+            content: "Tokyo has no centre. It has a loop — the **Yamanote line** — with about thirty stations on it, and the city's major districts hang off it like beads on a string. Almost everything a visitor wants is on that loop or inside it.\n\n**That is the whole rule: stay on the Yamanote line, or one stop inside it.** Get that right and the specific neighbourhood becomes a question of character rather than convenience, because you will be within forty minutes of everything.\n\nGet it wrong — a cheap hotel three changes out in a suburb — and you will spend two hours a day travelling and eat every meal near your hotel because going back out is too much effort.\n\nThe second rule is about the end of the day. **Tokyo's trains stop between about midnight and one in the morning** and do not restart until five. Taxis after that are expensive. If you intend to be out late, that argues for staying where the late-night life actually is.\n\n| Area | Best for | Trade-off |\n|---|---|---|\n| **Shinjuku** | First visits, transport, nightlife | Loud, and the station is a maze |\n| **Shibuya** | Younger travellers, food, energy | Crowded, and prices have risen |\n| **Tokyo Station / Marunouchi** | Business, Shinkansen, quiet | Dead at night |\n| **Asakusa** | Value, character, families | Far from the west side |\n| **Ueno** | Budget, museums, day trips north | Less polished |\n| **Ginza** | Comfort and calm | Expensive, quiet evenings |",
+            tourCard: TOUR_CARD_NIGHTWALK,
+          },
+          {
+            title: "Shinjuku: The Default",
+            icon: "MapPin",
+            content: "**Shinjuku Station handles more passengers than any station on earth**, which tells you both why it is the best-connected place to stay and why it is exhausting.\n\n**What it gets you:** every line you need — Yamanote, Chuo, the Odakyu and Keio lines west, the Narita and Haneda buses, and the Fuji and Hakone departures. It also has the most concentrated food and nightlife in the city: Omoide Yokocho's grill alleys, Golden Gai's tiny bars, Kabukicho's neon, and department store food halls for everything else.\n\n**What it costs you:** noise, crowds, and a station with over two hundred exits in which you will get lost at least once. Learn which exit your hotel is near before you arrive, not after.\n\n**Who it suits:** first-time visitors, anyone doing a Fuji or Hakone day trip, and anyone who wants to be out after ten.\n\nThe west side around the government buildings is quieter and still walkable to the station. The east side is where the noise is. Both work; pick deliberately.\n\nOur [Shinjuku food walk](/japan/tokyo/tokyo-shinjuku-evening-food-walk-four-eateries) and the [night photo tour](/japan/tokyo/tokyo-night-photo-tour-shibuya-sky-shinjuku) both operate here, which reflects where the evening is.",
+          },
+          {
+            title: "Shibuya, Tokyo Station and Ginza",
+            icon: "Info",
+            content: "**Shibuya** is Shinjuku's younger sibling: the crossing, the food, the shopping, and a redevelopment that has added a lot of new hotel stock. It is well connected, walkable to Harajuku and Omotesando, and the most energetic part of the city. It is also relentlessly crowded and no longer cheap. Good for a first or second visit if you want to be in the middle of it. The [Shibuya walking tour](/japan/tokyo/tokyo-shibuya-highlights-walk-hidden-viewpoint) is a useful ninety minutes on your first morning if you stay here.\n\n**Tokyo Station and Marunouchi** is the business district: excellent hotels, immaculate, on the Shinkansen, and completely dead after eight in the evening when the offices empty. Stay here if you are catching early trains or want quiet. Do not stay here if you want to walk to dinner.\n\n**Ginza** is the upmarket option — department stores, the best hotel bars in the city, and a genuinely pleasant place to walk on a Sunday when the main street is pedestrianised. Evenings are calm rather than lively, and prices reflect the address. It suits older travellers and anyone who values comfort over convenience.\n\nAll three are on the Yamanote loop, so none of them is a mistake. The question is only what you want at nine in the evening.",
+          },
+          {
+            title: "Asakusa and the East: The Value Play",
+            icon: "Wallet",
+            content: "If you want the most character for the money, stay east.\n\n**Asakusa** is the old shitamachi — Senso-ji, the Nakamise shopping street, low buildings, and a genuine neighbourhood feel that the west side does not have. Hotels and hostels are noticeably cheaper for the same standard, the area is flat and walkable, and it is one stop from Skytree.\n\n**What it costs you:** it is on the far east of the loop. Shibuya and Shinjuku are thirty to forty minutes away, so a day split between east and west costs you an hour.\n\n**Who it suits:** families, second visits, budget travellers, and anyone who would rather stay somewhere that feels like a place than a transport hub.\n\nAsakusa also happens to be where a lot of our experiences are: the [sumo dinner show](/japan/tokyo/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot), the [samurai and ninja museum](/japan/tokyo/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing), the [coin ring workshop](/japan/tokyo/tokyo-asakusa-coin-ring-making-workshop), [sushi making](/japan/tokyo/tokyo-asakusa-sushi-making-class-vegan-halal-options) and [kimono rental](/japan/tokyo/tokyo-asakusa-kimono-yukata-rental-full-day). If you are staying there, you can fill two days without a train.\n\n**Ueno** is the budget alternative one stop round: cheaper again, the museums and the park, and the departure point for trains north to Nikko. Less polished, entirely functional.",
+            tourCard: TOUR_CARD_ASAKUSA_SUMO,
+          },
+          {
+            title: "Practical Notes That Change the Decision",
+            icon: "AlertTriangle",
+            content: "**Rooms are small.** A standard Tokyo double is often 15 to 18 square metres. Budget chains are smaller still. If you are travelling as a family, look at apartment rentals or the hotels that advertise family rooms specifically — do not assume a triple will fit three suitcases.\n\n**Check the exit, not the station.** Being 'at Shinjuku Station' can mean a fifteen-minute underground walk. Hotels list the nearest exit for a reason.\n\n**Luggage forwarding.** Sending cases between hotels — or from the airport — is cheap, next-day and standard practice in Japan. It is far better than navigating a rush-hour train with two suitcases.\n\n**Airport matters.** Haneda is close to the city and better for Shinagawa, Ginza and the south. Narita is an hour-plus out and better served from Ueno and Nippori. If you have an early flight, that should influence the last night's hotel.\n\n**Book earlier than you think** for late March to early April, Golden Week and mid-November. Those are the weeks Tokyo genuinely fills, and rates move sharply.\n\n**Onsen and tattoos.** Many hotel bath floors refuse guests with visible tattoos. If that affects you, check before booking — or see our [tattoo-friendly sento experience](/japan/tokyo/tokyo-sento-bathhouse-experience-tattoo-friendly), which exists precisely because of this.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best area to stay in Tokyo?", a: "**Shinjuku** for a first visit — it has the best transport, the most food and the most nightlife. **Shibuya** if you want energy, **Asakusa** if you want value and character." },
+          { q: "Does the neighbourhood matter much in Tokyo?", a: "Less than in Kyoto, as long as you follow one rule: **stay on the Yamanote loop or one stop inside it.** Anywhere on that loop puts you within about forty minutes of everything." },
+          { q: "Where should I stay on a budget?", a: "**Asakusa or Ueno**, on the east side of the loop. Same standard for noticeably less, with more neighbourhood character — the trade is thirty to forty minutes to Shibuya and Shinjuku." },
+          { q: "Is Tokyo Station a good place to stay?", a: "For early Shinkansen departures and for quiet, yes. It is a business district and it empties after eight in the evening, so not if you want to walk to dinner." },
+          { q: "How late do Tokyo trains run?", a: "Until roughly **midnight to 1:00 AM**, restarting around 5:00. Taxis after that are expensive, which is an argument for staying where the late-night life is if you plan to be out." },
+          { q: "How small are Tokyo hotel rooms?", a: "A standard double is often **15 to 18 square metres**, and budget chains are smaller. Families should look at apartment rentals or hotels that specifically advertise family rooms." },
+          { q: "Does it matter which airport I fly into?", a: "For the last night, yes. **Haneda** is close to the city and suits Shinagawa and the south; **Narita** is over an hour out and is better reached from Ueno and Nippori." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best area to stay in Tokyo?", acceptedAnswer: { "@type": "Answer", text: "**Shinjuku** for a first visit — it has the best transport, the most food and the most nightlife. **Shibuya** if you want energy, **Asakusa** if you want value and character." } },
+            { "@type": "Question", name: "Does the neighbourhood matter much in Tokyo?", acceptedAnswer: { "@type": "Answer", text: "Less than in Kyoto, as long as you follow one rule: **stay on the Yamanote loop or one stop inside it.** Anywhere on that loop puts you within about forty minutes of everything." } },
+            { "@type": "Question", name: "Where should I stay on a budget?", acceptedAnswer: { "@type": "Answer", text: "**Asakusa or Ueno**, on the east side of the loop. Same standard for noticeably less, with more neighbourhood character — the trade is thirty to forty minutes to Shibuya and Shinjuku." } },
+            { "@type": "Question", name: "Is Tokyo Station a good place to stay?", acceptedAnswer: { "@type": "Answer", text: "For early Shinkansen departures and for quiet, yes. It is a business district and it empties after eight in the evening, so not if you want to walk to dinner." } },
+            { "@type": "Question", name: "How late do Tokyo trains run?", acceptedAnswer: { "@type": "Answer", text: "Until roughly **midnight to 1:00 AM**, restarting around 5:00. Taxis after that are expensive, which is an argument for staying where the late-night life is if you plan to be out." } },
+            { "@type": "Question", name: "How small are Tokyo hotel rooms?", acceptedAnswer: { "@type": "Answer", text: "A standard double is often **15 to 18 square metres**, and budget chains are smaller. Families should look at apartment rentals or hotels that specifically advertise family rooms." } },
+            { "@type": "Question", name: "Does it matter which airport I fly into?", acceptedAnswer: { "@type": "Answer", text: "For the last night, yes. **Haneda** is close to the city and suits Shinagawa and the south; **Narita** is over an hour out and is better reached from Ueno and Nippori." } },
+          ],
+        },
+        heroImage: TOUR_CARD_NIGHTWALK.image,
       };
     default:
             return null;
