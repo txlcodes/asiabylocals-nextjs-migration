@@ -2,6 +2,60 @@
 // Reached via getSapporoInfoContent() -> getCityInfoContent().
 import type { CityInfoData } from './cityInfoContent';
 
+const S_ASAHI = {
+  slug: 'sapporo-asahikawa-group-tour',
+  title: 'Asahikawa, Biei and Furano: Small-Group Day Tour from Sapporo',
+  description: 'A top-rated Hokkaido experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 124',
+  duration: '10 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015110/asiabylocals/tours/sapporo-asahikawa-biei-and-furano-small-group-winter-day-tour-from-sapporo/img0.jpg',
+};
+
+const S_NOBO = {
+  slug: 'sapporo-noboribetsu-full-day-tour',
+  title: 'Lake Toya, Showa Shinzan and Noboribetsu Hell Valley Day Trip',
+  description: 'A top-rated Hokkaido experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 64',
+  duration: 'Full day',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015039/asiabylocals/tours/sapporo-lake-toya-showa-shinzan-and-noboribetsu-hell-valley-day-trip/img0.jpg',
+};
+
+const S_TOYA = {
+  slug: 'sapporo-noboribetsu-group-tour',
+  title: 'Lake Toya, Niseko and Noboribetsu: Seasonal Small-Group Day Tour',
+  description: 'A top-rated Hokkaido experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 124',
+  duration: '10 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015088/asiabylocals/tours/sapporo-lake-toya-niseko-and-noboribetsu-seasonal-small-group-day-tour/img0.png',
+};
+
+const S_SHIKOTSU = {
+  slug: 'sapporo-shikotsu-group-tour',
+  title: 'Lake Shikotsu and Jozankei: Small-Group Spring and Summer Escape',
+  description: 'A top-rated Hokkaido experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 120',
+  duration: '9.5 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015077/asiabylocals/tours/sapporo-lake-shikotsu-and-jozankei-small-group-spring-and-summer-escape/img0.jpg',
+};
+
+const S_FOOD = {
+  slug: 'sapporo-food-tour',
+  title: 'Sapporo Local Food Crawl: Ten-Plus Dishes Across Four Venues',
+  description: 'A top-rated Sapporo experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 120',
+  duration: '4 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015045/asiabylocals/tours/sapporo-sapporo-local-food-crawl-ten-plus-dishes-across-four-venues/img0.jpg',
+};
+
+const S_MORNING = {
+  slug: 'sapporo-morning-tour',
+  title: 'Sapporo Golden Route: Morning Walk Past the Clock Tower and TV Tower',
+  description: 'A top-rated Sapporo experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 50',
+  duration: '2 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg',
+};
+
 export function getSapporoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-sapporo':
@@ -579,7 +633,286 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg',
       };
 
-        default:
+        case "furano-biei-guide":
+      return {
+        title: "Furano and Biei: Lavender, the Blue Pond and the Patchwork Hills",
+        seoTitle: "Furano and Biei Guide",
+        description: "Hokkaido's flower country is a summer destination with a very short peak — and a pond that is only blue because of an accident.",
+        fastFacts: [
+          { icon: "flower", label: "Lavender peak", value: "Roughly mid-July to early August — a narrow window" },
+          { icon: "droplet", label: "Blue Pond", value: "An accidental reservoir; the colour comes from dissolved minerals" },
+          { icon: "car", label: "Getting around", value: "Genuinely hard without a car or a tour — sights are spread over kilometres" },
+          { icon: "snowflake", label: "Winter", value: "A different place entirely; the Blue Pond is lit up after dark" },
+        ],
+        sections: [
+          {
+            title: "The Lavender Window Is Short",
+            icon: "flower",
+            content: "Furano's lavender is the image that sells Hokkaido summer, and the season is **narrow — roughly mid-July into early August**. Outside it the fields are green or cut, and a lot of visitors arrive in late June or late August expecting purple and find neither.\n\n**Farm Tomita** is the best known and the most developed, with several fields planted in colour bands so that even outside peak lavender there is something flowering. It is free to enter, it is very busy in season, and it has a lavender soft-serve that is genuinely good rather than a novelty.\n\nBecause the window is so tight, this is one of the few places in Japan worth checking a bloom report for before committing a day to it.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "The Blue Pond Was an Accident",
+            icon: "droplet",
+            content: "The **Shirogane Blue Pond** near Biei is not a natural lake. It formed after erosion-control works were built on the Biei river in the late 1980s following an eruption of nearby Mount Tokachi — water pooled behind the barriers and a pond appeared where none had been planned.\n\nThe colour comes from **aluminium and other minerals** in the water scattering light, and it shifts between turquoise and a deep milky blue depending on weather, season and light. Dead larch trunks stand in the water, which is what makes the photographs.\n\nIt is small and it is a short walk from the car park, so it is a fifteen-minute stop rather than a destination. Overcast days often produce a stronger colour than bright sun, which is the opposite of what people assume.\n\nIn **winter** the pond is frozen and floodlit after dark, which is a completely different and much quieter experience than the summer coach traffic.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "Biei's Hills Are the Real Landscape",
+            icon: "mountain",
+            content: "**Biei** is a landscape of rolling farmland — the **patchwork hills** — where different crops in adjacent fields make broad bands of colour across the contours. It is unlike anywhere else in Japan and looks closer to Tuscany or the Palouse.\n\nIndividual trees here have become landmarks with names: the Ken and Mary Tree, the Seven Stars Tree, the Christmas Tree, each named after the advertisement it appeared in. Chasing them one by one is a fairly odd way to spend a day, and driving the hill roads without a checklist is better.\n\nThe important practical point: **these sights are spread over many kilometres of rural road with sparse buses.** Furano and Biei are the part of Hokkaido where not having a car hurts most, and where a day tour genuinely earns its price rather than just saving effort.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "Fitting It Into a Trip",
+            icon: "train",
+            content: "From Sapporo, Furano and Biei are around two hours or more each way, which makes an independent day trip long. Most people either take a full-day tour that loops both plus **Asahiyama Zoo**, or stay a night in Furano or Asahikawa.\n\nIf you are staying, Furano has its own draws beyond flowers: cheese and wine production, and in winter a well-regarded ski resort that is far quieter than Niseko.\n\nThe honest summary is that this region is a **summer destination with a winter alternative**, and the shoulder seasons are thin. May and October here are pleasant countryside and not much else.",
+            tourCard: S_ASAHI,
+          },
+        ],
+        faqs: [
+          { q: "When is lavender season in Furano?", a: "Roughly mid-July to early August — a short window. Arriving in late June or late August generally means no lavender. Farm Tomita plants several flowering bands so there is colour outside peak, but the lavender itself is tightly seasonal." },
+          { q: "Why is the Blue Pond blue?", a: "Aluminium and other dissolved minerals scatter light in the water. The pond itself is accidental — it formed behind erosion-control works built after an eruption of Mount Tokachi in the late 1980s." },
+          { q: "Can I visit Furano and Biei without a car?", a: "It is difficult. The sights are spread over many kilometres of rural road with sparse bus service. This is the part of Hokkaido where a day tour or rental car makes the most difference." },
+          { q: "Is Biei worth visiting in winter?", a: "Yes, as a different trip. The patchwork hills become snowfields and the Blue Pond is frozen and floodlit after dark, with a fraction of the summer crowds." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "When is lavender season in Furano?", acceptedAnswer: { "@type": "Answer", text: "Roughly mid-July to early August — a short window. Arriving in late June or late August generally means no lavender. Farm Tomita plants several flowering bands so there is colour outside peak, but the lavender itself is tightly seasonal." } },
+            { "@type": "Question", name: "Why is the Blue Pond blue?", acceptedAnswer: { "@type": "Answer", text: "Aluminium and other dissolved minerals scatter light in the water. The pond itself is accidental — it formed behind erosion-control works built after an eruption of Mount Tokachi in the late 1980s." } },
+            { "@type": "Question", name: "Can I visit Furano and Biei without a car?", acceptedAnswer: { "@type": "Answer", text: "It is difficult. The sights are spread over many kilometres of rural road with sparse bus service. This is the part of Hokkaido where a day tour or rental car makes the most difference." } },
+            { "@type": "Question", name: "Is Biei worth visiting in winter?", acceptedAnswer: { "@type": "Answer", text: "Yes, as a different trip. The patchwork hills become snowfields and the Blue Pond is frozen and floodlit after dark, with a fraction of the summer crowds." } },
+          ],
+        },
+        heroImage: S_ASAHI.image,
+      };
+
+    case "noboribetsu-onsen-guide":
+      return {
+        title: "Noboribetsu: Hell Valley and Hokkaido's Strongest Hot Springs",
+        seoTitle: "Noboribetsu Onsen Guide",
+        description: "Nine different types of spring water in one town, a steaming valley you walk through, and what the sulphur will do to your silver jewellery.",
+        fastFacts: [
+          { icon: "droplet", label: "Water types", value: "Nine distinct spring waters — unusual for a single resort town" },
+          { icon: "flame", label: "Jigokudani", value: "'Hell Valley' — a vent crater feeding the town's baths" },
+          { icon: "alert-triangle", label: "Warning", value: "Sulphur tarnishes silver. Take jewellery off before bathing" },
+          { icon: "car", label: "From Sapporo", value: "About 1.5 hours; commonly combined with Lake Toya" },
+        ],
+        sections: [
+          {
+            title: "Nine Waters in One Town",
+            icon: "droplet",
+            content: "Most onsen towns have one type of water. **Noboribetsu has nine** — sulphur, iron, sodium chloride, alum, acidic iron sulphate and others — and that variety is the reason it is regarded as one of Japan's most significant hot spring resorts rather than simply a pleasant one.\n\nIn practice this means the larger ryokan run **multiple baths with different water**, and you move between them. A single hotel here can offer sulphur springs for skin, iron springs said to help circulation, and a plain sodium bath, in the same visit.\n\nMany of the big hotels sell **day-use bathing** without an overnight stay, which is the way to do it if you are on a day trip from Sapporo. Check times: day-use windows are usually mid-morning to late afternoon and close before the evening guests arrive.",
+            tourCard: S_NOBO,
+          },
+          {
+            title: "Hell Valley Is a Short, Real Walk",
+            icon: "flame",
+            content: "**Jigokudani** — Hell Valley — is the crater immediately above the town, a bowl of grey and ochre rock with steam venting from dozens of points and a stream running hot through the middle. It is the source of the water.\n\nA boardwalk loops around and through it, and beyond that a marked path continues to **Oyunuma**, a sulphurous lake, and a **natural footbath** in a stream where the hot water has cooled to a bearable temperature. The footbath is free, it is in the forest, and it is the best part.\n\nThe full walk is about an hour round trip and is easy. Wear something you do not mind smelling of sulphur afterwards; the smell is strong and it does linger on fabric.",
+            tourCard: S_NOBO,
+          },
+          {
+            title: "The Silver Warning",
+            icon: "alert-triangle",
+            content: "This one catches people out and it is not reversible in a hurry. **Sulphur springs tarnish silver**, turning rings, chains and earrings black through a reaction that is chemistry rather than dirt.\n\nTake silver jewellery off before you bathe and leave it in the locker. The same goes for anything silver-plated. Gold and platinum are fine.\n\nWhile on onsen basics: you wash thoroughly at the seated showers before entering the bath, you do not put your towel in the water, and **tattoos remain an issue at some establishments** — Noboribetsu's larger hotels are increasingly relaxed and several are explicitly tattoo-friendly, but if you have visible tattoos it is worth confirming before you book rather than at the door.",
+            tourCard: S_TOYA,
+          },
+          {
+            title: "Combining It with Lake Toya",
+            icon: "route",
+            content: "Noboribetsu is about ninety minutes from Sapporo and sits close to **Lake Toya**, which is why almost every day tour pairs them.\n\nLake Toya is a caldera lake with a symmetrical island in the middle and **Showa Shinzan** beside it — a lava dome that pushed up out of a wheat field in 1943 and 1944, growing several hundred metres while a local postmaster documented it daily. That record is why the volcano is famous among geologists.\n\nThe pairing works because the two are different registers of the same volcanic system: one you bathe in, one you look at. A day trip covering both, with a bath at Noboribetsu in the afternoon, is one of the better full days available from Sapporo.\n\nStaying the night is better still. Noboribetsu after the coaches leave, with a bath before bed and another before breakfast, is the actual point of an onsen town.",
+            tourCard: S_TOYA,
+          },
+        ],
+        faqs: [
+          { q: "What makes Noboribetsu special among Japanese hot springs?", a: "It has nine distinct types of spring water in one town — sulphur, iron, sodium chloride, alum and others — where most onsen resorts have one. Larger ryokan run several baths with different water so you can move between them." },
+          { q: "Can I bathe at Noboribetsu on a day trip?", a: "Yes. Many of the large hotels sell day-use bathing without an overnight stay, usually mid-morning to late afternoon. Check the closing time — day-use windows shut before evening guests arrive." },
+          { q: "Will the sulphur damage my jewellery?", a: "Sulphur springs tarnish silver, turning it black. Take silver and silver-plated jewellery off before bathing and leave it in the locker. Gold and platinum are unaffected." },
+          { q: "What is Hell Valley at Noboribetsu?", a: "Jigokudani, the steaming vent crater above the town that supplies its hot springs. A boardwalk loops through it and a marked path continues to Oyunuma lake and a free natural footbath in a forest stream — about an hour round trip." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What makes Noboribetsu special among Japanese hot springs?", acceptedAnswer: { "@type": "Answer", text: "It has nine distinct types of spring water in one town — sulphur, iron, sodium chloride, alum and others — where most onsen resorts have one. Larger ryokan run several baths with different water so you can move between them." } },
+            { "@type": "Question", name: "Can I bathe at Noboribetsu on a day trip?", acceptedAnswer: { "@type": "Answer", text: "Yes. Many of the large hotels sell day-use bathing without an overnight stay, usually mid-morning to late afternoon. Check the closing time — day-use windows shut before evening guests arrive." } },
+            { "@type": "Question", name: "Will the sulphur damage my jewellery?", acceptedAnswer: { "@type": "Answer", text: "Sulphur springs tarnish silver, turning it black. Take silver and silver-plated jewellery off before bathing and leave it in the locker. Gold and platinum are unaffected." } },
+            { "@type": "Question", name: "What is Hell Valley at Noboribetsu?", acceptedAnswer: { "@type": "Answer", text: "Jigokudani, the steaming vent crater above the town that supplies its hot springs. A boardwalk loops through it and a marked path continues to Oyunuma lake and a free natural footbath in a forest stream — about an hour round trip." } },
+          ],
+        },
+        heroImage: S_NOBO.image,
+      };
+
+    case "asahiyama-zoo-guide":
+      return {
+        title: "Asahiyama Zoo: The Penguin Walk, and Why Winter Is the Season",
+        seoTitle: "Asahiyama Zoo Guide",
+        description: "Japan's northernmost zoo made its name by showing animals in motion rather than in cages — and its most famous event only happens when there is enough snow.",
+        fastFacts: [
+          { icon: "snowflake", label: "Penguin walk", value: "Winter only, and only when snow depth allows" },
+          { icon: "eye", label: "The concept", value: "Behavioural display — tunnels and pools that show animals moving" },
+          { icon: "map-pin", label: "Where", value: "Asahikawa, roughly 2 hours from Sapporo" },
+          { icon: "calendar", label: "Two seasons", value: "Separate summer and winter opening periods, with a closure between" },
+        ],
+        sections: [
+          {
+            title: "The Idea That Saved It",
+            icon: "eye",
+            content: "Asahiyama was a small, failing municipal zoo that came close to closing in the 1990s. What turned it around was a change of approach the staff called **behavioural display** — designing enclosures around what an animal actually does rather than around how easily a visitor can see it standing still.\n\nSo the polar bears have a deep pool with a domed viewing capsule you put your head into from below, and they dive at you. The penguins have an underwater tunnel and fly past overhead. The seals swim through a vertical glass cylinder that connects two pools, which they do repeatedly because they like it.\n\nIt became one of the most visited zoos in Japan on that idea alone, and it is why it is worth two hours from Sapporo when there is a perfectly good zoo much closer.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "The Penguin Walk Is Weather-Dependent",
+            icon: "snowflake",
+            content: "The zoo's most famous event is the **penguin walk**: king penguins let out of their enclosure to walk a route through the snow, past visitors, and back. It exists because the birds need exercise in winter, and it is a genuine husbandry practice rather than a show.\n\nThe important qualification: it runs **in winter only, and only when there is sufficient snow**. Typically that means roughly the depth of the winter season, usually a couple of times a day, but it is cancelled if conditions are wrong, and the start and end dates move with the snow.\n\nDo not build a whole trip around it without checking the zoo's current announcements. If it is running, get to the route early — it is the one thing everybody is there for.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "Two Seasons, and a Gap Between Them",
+            icon: "calendar",
+            content: "Asahiyama runs **separate summer and winter opening periods** with a closure in between, and the hours differ substantially — winter days are short and the zoo closes in the middle of the afternoon.\n\nThat catches people out on a day trip. If you are coming from Sapporo, two hours each way against a mid-afternoon winter closing time means leaving early, not after a leisurely breakfast.\n\nSummer has its own draw: night opening periods in August when nocturnal animals are active and the zoo stays open into the evening. It is a genuinely different visit from the daytime one.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "How to Do the Day",
+            icon: "route",
+            content: "From Sapporo, Asahikawa is about ninety minutes to two hours by limited express, then a bus to the zoo. It is doable independently and it is a long day.\n\nThe more common structure is a **full-day tour** that combines the zoo with **Biei's Blue Pond** and, in summer, the Furano lavender fields — all of which sit in the same direction. That packaging exists because the individual sights are each an hour or so and the driving between them is the bulk of the day.\n\nIf you have children, this is the single best day out from Sapporo and it is not close. If you do not, weigh it against the Otaru or Noboribetsu days, which are shorter.",
+            tourCard: S_ASAHI,
+          },
+        ],
+        faqs: [
+          { q: "When is the penguin walk at Asahiyama Zoo?", a: "In winter only, and only when there is enough snow — usually a couple of times a day through the winter season. It is cancelled in unsuitable conditions and the start and end dates shift with the snowfall, so check the zoo's current announcements." },
+          { q: "Why is Asahiyama Zoo famous?", a: "For behavioural display — enclosures designed around what animals actually do. Polar bears dive at a domed underwater viewing capsule, penguins swim over an underwater tunnel, and seals pass through a vertical glass cylinder between two pools." },
+          { q: "How do I get to Asahiyama Zoo from Sapporo?", a: "Limited express to Asahikawa, about ninety minutes to two hours, then a bus. Many visitors take a full-day tour that combines the zoo with Biei's Blue Pond and, in summer, the Furano lavender fields." },
+          { q: "Is Asahiyama Zoo open all year?", a: "It runs separate summer and winter opening periods with a closure between them, and winter hours are short — it closes in the middle of the afternoon. Check dates before planning a day trip." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "When is the penguin walk at Asahiyama Zoo?", acceptedAnswer: { "@type": "Answer", text: "In winter only, and only when there is enough snow — usually a couple of times a day through the winter season. It is cancelled in unsuitable conditions and the start and end dates shift with the snowfall, so check the zoo's current announcements." } },
+            { "@type": "Question", name: "Why is Asahiyama Zoo famous?", acceptedAnswer: { "@type": "Answer", text: "For behavioural display — enclosures designed around what animals actually do. Polar bears dive at a domed underwater viewing capsule, penguins swim over an underwater tunnel, and seals pass through a vertical glass cylinder between two pools." } },
+            { "@type": "Question", name: "How do I get to Asahiyama Zoo from Sapporo?", acceptedAnswer: { "@type": "Answer", text: "Limited express to Asahikawa, about ninety minutes to two hours, then a bus. Many visitors take a full-day tour that combines the zoo with Biei's Blue Pond and, in summer, the Furano lavender fields." } },
+            { "@type": "Question", name: "Is Asahiyama Zoo open all year?", acceptedAnswer: { "@type": "Answer", text: "It runs separate summer and winter opening periods with a closure between them, and winter hours are short — it closes in the middle of the afternoon. Check dates before planning a day trip." } },
+          ],
+        },
+        heroImage: S_ASAHI.image,
+      };
+
+    case "sapporo-beer-chocolate-factories":
+      return {
+        title: "Sapporo Beer and Shiroi Koibito: Two Factories Worth the Time",
+        seoTitle: "Sapporo Beer Museum and Shiroi Koibito Guide",
+        description: "Japan's only beer museum, in a red-brick maltings from 1890, and a chocolate factory built to look like an English village. Both better than they sound.",
+        fastFacts: [
+          { icon: "beer", label: "Sapporo Beer Museum", value: "Japan's only dedicated beer museum, in an 1890 malt house" },
+          { icon: "candy", label: "Shiroi Koibito Park", value: "The factory behind Hokkaido's signature langue-de-chat biscuit" },
+          { icon: "ticket", label: "Cost", value: "Museum entry is free; tastings and the paid exhibit cost extra" },
+          { icon: "clock", label: "Time", value: "About 90 minutes each; they are on opposite sides of the city" },
+        ],
+        sections: [
+          {
+            title: "Why Beer Started in Sapporo",
+            icon: "beer",
+            content: "Sapporo Beer is the **oldest beer brand in Japan**, founded in 1876, and it began here for a specific reason: Hokkaido was being settled and developed in the Meiji era with foreign technical advice, the climate suited barley and hops, and a brewery was a deliberate part of the industrial plan.\n\nThe museum occupies a **red-brick malt house from 1890**, which is itself the exhibit — a surviving piece of Meiji industrial architecture in a city that has very little old building left. The star on the chimney is the North Star, the emblem of the Hokkaido development commission, and it is why the beer has one.\n\nEntry to the museum is free. A paid premium tour with tastings runs at intervals and includes a beer no longer sold commercially, brewed to the original recipe. That is the version worth booking.",
+            tourCard: S_FOOD,
+          },
+          {
+            title: "The Beer Garden Next Door",
+            icon: "flame",
+            content: "Attached to the museum site is the **Sapporo Beer Garden**, a set of halls in the old brewery buildings where the local speciality is **jingisukan** — lamb grilled on a domed iron skillet over a burner, with vegetables cooked in the run-off fat.\n\nThe format is all-you-can-eat-and-drink for a fixed period, usually a hundred minutes, and it is loud, smoky and enormously fun. The domed skillet shape is said to represent a Mongol helmet, which is where the dish's name comes from.\n\nA practical warning that everyone learns the hard way: **you will smell of grilled lamb afterwards**. Plastic bags are provided for coats for exactly this reason. Do not go straight to a nice dinner or a flight.",
+            tourCard: S_FOOD,
+          },
+          {
+            title: "Shiroi Koibito Park",
+            icon: "candy",
+            content: "**Shiroi Koibito** — 'white lover' — is a white-chocolate-filled langue-de-chat biscuit, and it is the souvenir of Hokkaido; you will see the tins in every airport in Japan.\n\nThe factory that makes them is wrapped in a **mock-Tudor English village** with clock towers, rose gardens and automated musical displays on the hour. It is completely unrestrained and it is aimed squarely at families, and it works on them.\n\nInside you can watch the production line through glass, and the paid workshop where you decorate your own giant heart-shaped biscuit is the actual draw for children. It is on the western edge of the city, a short walk from Miyanosawa station on the Tozai subway line.\n\nAdults with no children in tow can reasonably skip it. With children, it and Asahiyama Zoo are the two things that will get remembered.",
+            tourCard: S_MORNING,
+          },
+          {
+            title: "Doing Both, and What Else Is Near",
+            icon: "route",
+            content: "They are on **opposite sides of Sapporo** — beer to the east, chocolate to the west — so doing both in one day means crossing the city twice. It is manageable on the subway and it is not an elegant day.\n\nIf you are choosing one: the beer museum for adults, Shiroi Koibito for families. If doing both, take the beer garden slot in the evening so the meal anchors the end of the day.\n\nSapporo's other indoor options cluster in the centre — the Clock Tower, the old **Red Brick Government Building**, and the **Nijo Market** for seafood — which makes a wet-weather day easy to fill without leaving the middle of the city.",
+            tourCard: S_MORNING,
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapporo Beer Museum free?", a: "General entry is free. A paid premium tour with tastings runs at intervals and includes a beer brewed to the original recipe that is not sold commercially — that is the version worth booking." },
+          { q: "What is jingisukan?", a: "Lamb grilled on a domed iron skillet over a burner, with vegetables cooking in the run-off fat. It is Hokkaido's signature dish and is served all-you-can-eat at the Sapporo Beer Garden. You will smell of it afterwards — bags for coats are provided." },
+          { q: "Is Shiroi Koibito Park worth visiting?", a: "With children, yes — the mock-Tudor village, the production line viewing and the biscuit-decorating workshop are aimed at families and work. Adults travelling without children can reasonably skip it." },
+          { q: "Can I visit both the beer museum and Shiroi Koibito in one day?", a: "Yes, but they are on opposite sides of Sapporo — east and west — so it means crossing the city twice on the subway. Take the beer garden in the evening so the meal ends the day." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is the Sapporo Beer Museum free?", acceptedAnswer: { "@type": "Answer", text: "General entry is free. A paid premium tour with tastings runs at intervals and includes a beer brewed to the original recipe that is not sold commercially — that is the version worth booking." } },
+            { "@type": "Question", name: "What is jingisukan?", acceptedAnswer: { "@type": "Answer", text: "Lamb grilled on a domed iron skillet over a burner, with vegetables cooking in the run-off fat. It is Hokkaido's signature dish and is served all-you-can-eat at the Sapporo Beer Garden. You will smell of it afterwards — bags for coats are provided." } },
+            { "@type": "Question", name: "Is Shiroi Koibito Park worth visiting?", acceptedAnswer: { "@type": "Answer", text: "With children, yes — the mock-Tudor village, the production line viewing and the biscuit-decorating workshop are aimed at families and work. Adults travelling without children can reasonably skip it." } },
+            { "@type": "Question", name: "Can I visit both the beer museum and Shiroi Koibito in one day?", acceptedAnswer: { "@type": "Answer", text: "Yes, but they are on opposite sides of Sapporo — east and west — so it means crossing the city twice on the subway. Take the beer garden in the evening so the meal ends the day." } },
+          ],
+        },
+        heroImage: S_FOOD.image,
+      };
+
+    case "lake-toya-shikotsu-guide":
+      return {
+        title: "Lake Toya and Lake Shikotsu: Two Caldera Lakes from Sapporo",
+        seoTitle: "Lake Toya and Shikotsu Guide",
+        description: "One has a volcano that grew out of a wheat field in the 1940s. The other is Japan's clearest lake and never freezes. How they differ and which to pick.",
+        fastFacts: [
+          { icon: "waves", label: "Lake Toya", value: "A caldera lake with a central island, beside two active volcanoes" },
+          { icon: "mountain", label: "Showa Shinzan", value: "A lava dome that rose out of farmland in 1943-45" },
+          { icon: "droplet", label: "Lake Shikotsu", value: "Among Japan's clearest waters, and it does not freeze over" },
+          { icon: "car", label: "From Sapporo", value: "Shikotsu about 1 hour, Toya about 2" },
+        ],
+        sections: [
+          {
+            title: "The Volcano That Grew in a Field",
+            icon: "mountain",
+            content: "Beside Lake Toya stands **Showa Shinzan**, and its story is the reason to come. Between 1943 and 1945 a wheat field began to bulge. Over two years the ground pushed upward and a lava dome rose several hundred metres out of the farmland.\n\nJapan was at war and the authorities suppressed news of it. The local postmaster, **Masao Mimatsu**, recorded the growth day by day from his window, plotting the changing skyline on paper. His record became the most complete documentation of a volcanic dome forming anywhere, and it is known in volcanology as the Mimatsu diagram.\n\nHe later bought the land to protect it from souvenir hunters. The mountain is still privately owned by his descendants — the only privately owned volcano in Japan — and it is still steaming.",
+            tourCard: S_TOYA,
+          },
+          {
+            title: "Lake Toya Itself",
+            icon: "waves",
+            content: "Toya is a **caldera lake** with a group of islands at its centre and **Mount Usu**, an active volcano that has erupted several times in the last century, on its southern rim. A ropeway climbs Usu for the view over the lake and down onto Showa Shinzan.\n\nThe area is a **UNESCO Global Geopark**, and the most interesting walk here is not scenic but forensic: preserved ruins from the **2000 eruption** — a buried road, a flattened bathhouse, apartment blocks with mudflow through them — left in place as an open-air record.\n\nThe lakeside town is an onsen resort with hotels along the water, and there is a **nightly fireworks display over the lake through the summer season**, launched from boats. It pairs naturally with Noboribetsu, which is close by.",
+            tourCard: S_TOYA,
+          },
+          {
+            title: "Shikotsu Is the Closer, Quieter One",
+            icon: "droplet",
+            content: "**Lake Shikotsu** is only about an hour from Sapporo, which makes it the easier half-day, and it is a different kind of place: deep, extremely clear, and ringed by forest and mountains rather than by a resort strip.\n\nIt is one of Japan's clearest bodies of water, and because it is very deep it **does not freeze over** even in a Hokkaido winter — the water stays liquid while everything around it is under snow.\n\nIn summer the draw is clear-bottomed kayaks and boats over the visible lake floor. In winter the town runs an **ice festival** where lake water is sprayed over frames and freezes into blue translucent sculptures, lit at night — smaller and stranger than Sapporo's snow festival, and far less crowded.\n\nOnsen sit along the shore, and it is close enough to Sapporo to do as an afternoon rather than a full day.",
+            tourCard: S_SHIKOTSU,
+          },
+          {
+            title: "Which One to Pick",
+            icon: "route",
+            content: "If you have **one half-day**, take **Shikotsu** — it is an hour away, the water is the point, and you can be back in Sapporo for dinner.\n\nIf you have a **full day**, take **Toya**, and combine it with **Noboribetsu**'s hot springs, which is how nearly every tour structures it. The volcanic story is stronger and the geopark material rewards the longer trip.\n\nIf you have a **night**, stay at Toya. The lakeside onsen hotels with the fireworks on the water in summer, or the snow in winter, are the version of this that people remember.\n\nBoth are within Shikotsu-Toya National Park, and if you are also doing Noboribetsu you are moving through one continuous volcanic system all day — which is the actual through-line of a Hokkaido trip and rarely presented that way.",
+            tourCard: S_NOBO,
+          },
+        ],
+        faqs: [
+          { q: "What is Showa Shinzan?", a: "A lava dome that rose out of a wheat field beside Lake Toya between 1943 and 1945. The local postmaster documented its daily growth, producing the most complete record of a dome forming anywhere. It is privately owned by his descendants and still steams." },
+          { q: "Does Lake Shikotsu freeze in winter?", a: "No. It is very deep and stays liquid through a Hokkaido winter while the land around it is under snow. It is also one of Japan's clearest lakes." },
+          { q: "Lake Toya or Lake Shikotsu from Sapporo?", a: "Shikotsu is about an hour away and works as a half day. Toya is about two hours and is better as a full day combined with Noboribetsu's hot springs, or as an overnight at a lakeside onsen." },
+          { q: "What is there to do at Lake Toya?", a: "A ropeway up Mount Usu for views over the caldera, preserved ruins from the 2000 eruption left in place as an open-air record, lakeside onsen hotels, and nightly fireworks launched from boats through the summer season." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is Showa Shinzan?", acceptedAnswer: { "@type": "Answer", text: "A lava dome that rose out of a wheat field beside Lake Toya between 1943 and 1945. The local postmaster documented its daily growth, producing the most complete record of a dome forming anywhere. It is privately owned by his descendants and still steams." } },
+            { "@type": "Question", name: "Does Lake Shikotsu freeze in winter?", acceptedAnswer: { "@type": "Answer", text: "No. It is very deep and stays liquid through a Hokkaido winter while the land around it is under snow. It is also one of Japan's clearest lakes." } },
+            { "@type": "Question", name: "Lake Toya or Lake Shikotsu from Sapporo?", acceptedAnswer: { "@type": "Answer", text: "Shikotsu is about an hour away and works as a half day. Toya is about two hours and is better as a full day combined with Noboribetsu's hot springs, or as an overnight at a lakeside onsen." } },
+            { "@type": "Question", name: "What is there to do at Lake Toya?", acceptedAnswer: { "@type": "Answer", text: "A ropeway up Mount Usu for views over the caldera, preserved ruins from the 2000 eruption left in place as an open-air record, lakeside onsen hotels, and nightly fireworks launched from boats through the summer season." } },
+          ],
+        },
+        heroImage: S_TOYA.image,
+      };
+    default:
             return null;
     }
 }

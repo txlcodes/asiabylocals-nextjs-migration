@@ -391,6 +391,11 @@ const HAKONE_SIDEBAR = [
 
 const SAPPORO_SIDEBAR = [
     { name: 'Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
+    { name: 'Furano & Biei', slug: 'furano-biei-guide' },
+    { name: 'Noboribetsu Onsen', slug: 'noboribetsu-onsen-guide' },
+    { name: 'Asahiyama Zoo', slug: 'asahiyama-zoo-guide' },
+    { name: 'Lake Toya & Shikotsu', slug: 'lake-toya-shikotsu-guide' },
+    { name: 'Beer & Chocolate Factories', slug: 'sapporo-beer-chocolate-factories' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-sapporo' },
     { name: 'Sapporo Food Guide', slug: 'sapporo-food-guide' },
     { name: 'Niseko & Hokkaido Ski', slug: 'niseko-and-hokkaido-ski-guide' },

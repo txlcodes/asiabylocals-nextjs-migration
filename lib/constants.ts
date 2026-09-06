@@ -195,7 +195,12 @@ export const SAPPORO_INFO_SLUGS = [
   'best-time-to-visit-sapporo', 'sapporo-snow-festival-guide', 'getting-around-sapporo',
   'sapporo-food-guide', 'otaru-day-trip-from-sapporo', 'niseko-and-hokkaido-ski-guide',
   'sapporo-3-day-itinerary'
-];
+,
+  'furano-biei-guide',
+  'noboribetsu-onsen-guide',
+  'asahiyama-zoo-guide',
+  'sapporo-beer-chocolate-factories',
+  'lake-toya-shikotsu-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [
