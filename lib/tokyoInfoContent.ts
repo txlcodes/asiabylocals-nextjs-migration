@@ -65,6 +65,24 @@ const TOUR_CARD_SUMO_ASAKUSA = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726118/asiabylocals/tours/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot/img0.jpg',
 };
 
+
+const TOUR_CARD_AKIHABARA = {
+    slug: 'tokyo-akihabara-anime-manga-maid-cafe-tour',
+    title: "Akihabara with an Anime Guide",
+    description: 'Multi-floor manga stores, retro game shops and a maid cafe with a drink and photo.',
+    price: 'From $46',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726945/asiabylocals/tours/tokyo-akihabara-anime-manga-maid-cafe-tour/img0.jpg',
+};
+const TOUR_CARD_GAMEBOY = {
+    slug: 'tokyo-akihabara-game-boy-modding-workshop',
+    title: "Mod Your Own Game Boy in Akihabara",
+    description: 'Fit a backlit IPS screen and a custom shell, and take the console home working.',
+    price: 'From $399',
+    duration: '2.5 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727181/asiabylocals/tours/tokyo-akihabara-game-boy-modding-workshop/img0.jpg',
+};
+
 export function getTokyoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
 
@@ -1355,6 +1373,75 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_SUMO_SHINJUKU.image,
+      };
+    case "akihabara-guide":
+      return {
+        title: "Akihabara: How to Read Electric Town Without Wasting a Day",
+        seoTitle: "Akihabara Guide (2026)",
+        description: "Akihabara's good shops are stacked eight floors up with nothing on the street to tell you which floor you want. What each building type sells, and how to shop it.",
+        fastFacts: [
+          { icon: "MapPin", label: "Station exit", value: "JR Akihabara, Electric Town Gate" },
+          { icon: "Clock", label: "Most shops open", value: "From around 11:00" },
+          { icon: "Calendar", label: "Chuo-dori pedestrianised", value: "Sunday afternoons" },
+          { icon: "Star", label: "Time needed", value: "Half a day minimum" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Akihabara is vertical, and that is the whole problem. A single building on Chuo-dori might hold eight floors where each level sells something completely different — one floor of new manga, one of second-hand, one of figures, one of doujinshi, one of trading cards — and the street frontage tells you almost none of it. Visitors walk the main road, go into two obvious shops, and leave thinking Akihabara is smaller than it is.\n\nThe district changed identity twice. It was a radio-parts market after the war, became the electronics district through the 1980s, and shifted to anime, manga and games from the late 1990s. All three layers are still physically present, which is why a shop selling resistors by the drawer sits under a floor of idol merchandise.\n\n**Come out of the Electric Town Gate** at JR Akihabara, not the other exits. Most shops open around 11:00, so mornings are dead. And if you want the street itself, **Chuo-dori is closed to cars on Sunday afternoons**, which is when the district is at its most photogenic.\n\nIf you are hunting something specific — a series, a console, a card set — a guide who follows this material saves hours. Our [Akihabara walk with an anime guide](/japan/tokyo/tokyo-akihabara-anime-manga-maid-cafe-tour) covers the multi-floor stores, the retro game shops and a maid cafe visit.",
+            tourCard: TOUR_CARD_AKIHABARA,
+          },
+          {
+            title: "What Each Kind of Building Sells",
+            icon: "Info",
+            content: "Four categories cover most of what you will want.\n\n**Multi-floor anime and manga chains.** These are the tall buildings with vertical signage. Floors are themed and there is usually a directory in the lift lobby — read it before climbing. New releases, back catalogue, figures, art books and character goods are typically on separate levels.\n\n**Second-hand and specialist stores.** Where the interesting stock is. Used manga is graded and cheap, out-of-print art books surface here, and the doujinshi floors carry self-published work that exists nowhere else. Prices are lower than the new-goods chains for the same items.\n\n**Retro game shops.** Cartridges, discs and hardware from the Famicom era forwards, usually organised by console rather than by title. Condition and completeness drive price sharply. If you want a working console rather than a shelf piece, ask — staff will usually tell you honestly what has been tested.\n\n**Electronics and parts.** The oldest layer, concentrated under and around the elevated tracks. Radio Kaikan and the small stall markets sell components, cables, tools and obsolete connectors. Worth walking through even if you buy nothing, because it is the reason the district exists.",
+          },
+          {
+            title: "Maid Cafes, Explained Plainly",
+            icon: "Users",
+            content: "The maid cafe is Akihabara's most-discussed institution and the one visitors most often misunderstand. It is interactive theatre in a cafe format: you are greeted as a guest of the house, staff maintain the frame throughout, and there is usually a ritual over your food and a short stage performance.\n\nIt is deliberately, sincerely cute. It is not adult, it is not a bar, and the branches on the main streets are family-friendly. The people who enjoy it are the ones willing to participate for an hour; the ones who sit with folded arms have a dull time and everyone in the room can tell.\n\nPractical points that catch people out: most charge a **table fee on top of what you order**, photography of the staff is restricted to the paid photo at your table, and menus are usually in Japanese with picture support.\n\nA guided visit removes all of that friction — our [Akihabara tour](/japan/tokyo/tokyo-akihabara-anime-manga-maid-cafe-tour) includes an hour in a cafe with a drink and a photo, and there is a walking-only option if the cafe is not for you. Osaka has its own branch of the best-known chain if you would rather do it there: [Namba maid cafe](/japan/osaka/osaka-namba-maid-cafe-experience).",
+          },
+          {
+            title: "The Workshop Side",
+            icon: "Star",
+            content: "Akihabara is not only retail. The district's parts trade supports a repair and modification culture, and some of it is open to visitors.\n\nThe most interesting version is handheld console modding. A Game Boy or Game Boy Advance is disassembled, fitted with a modern backlit IPS screen — which solves the original's single worst flaw — given new buttons and a shell in a colour you choose, and reassembled by you. [Our workshop](/japan/tokyo/tokyo-akihabara-game-boy-modding-workshop) runs two and a half hours with English-speaking staff and no technical experience assumed, and you leave with a working console.\n\nIt is not cheap, but it is the rare souvenir that is genuinely unique, still works in twenty years, and was made by you in the district that supplies the parts.",
+            tourCard: TOUR_CARD_GAMEBOY,
+          },
+          {
+            title: "How to Actually Shop It",
+            icon: "Wallet",
+            content: "**Set a target before you arrive.** Akihabara rewards specific hunting and punishes browsing — there is too much of everything, and without a goal most people buy nothing and leave tired.\n\n**Check the lift directory** in every building. This is the single habit that changes how much you see.\n\n**Second-hand first, new second.** Used floors carry items the new-goods chains no longer stock, at lower prices, in good condition. Japanese second-hand grading is conservative.\n\n**Tax-free counters** exist in the larger chains for purchases over the threshold, with your passport. They are usually on one specific floor — ask at the till.\n\n**Bring cash.** Cards are widely accepted in the chains and much less so in the small specialist stalls under the tracks.\n\n**Weekday afternoons are calmest.** Sunday is the most atmospheric because of the pedestrianised street, and also the most crowded.",
+          },
+          {
+            title: "Getting There and What Is Nearby",
+            icon: "Train",
+            content: "**JR Yamanote, Keihin-Tohoku and Sobu lines** all stop at Akihabara, as does the Tokyo Metro Hibiya line and the Tsukuba Express. Take the **Electric Town Gate** exit.\n\nThe district sits between Ueno and Tokyo Station, which makes it easy to combine. **Kanda** is one stop south and has the wagashi and tea studios; our [nerikiri sweets and tea ceremony session](/japan/tokyo/tokyo-nerikiri-wagashi-making-and-tea-ceremony) is a few minutes' walk. **Ueno** is one stop north for the park and museums, and **Asakusa** is a short ride east.\n\nIf you are combining Akihabara with Asakusa, the [go-kart run between them](/japan/tokyo/tokyo-skytree-spiritual-tour) covers the same ground in costume on the road, which is a different kind of day out entirely.",
+          },
+        ],
+        faqs: [
+          { q: "Which station exit should I use for Akihabara?", a: "The **Electric Town Gate** at JR Akihabara. The other exits put you on the wrong side of the tracks for the main shopping streets." },
+          { q: "What time do Akihabara shops open?", a: "Most from **around 11:00**. Mornings are genuinely dead, so plan the district for an afternoon or evening." },
+          { q: "When is Chuo-dori closed to traffic?", a: "**Sunday afternoons**, when the main street is pedestrianised. It is the most atmospheric time to be there and also the busiest." },
+          { q: "Is a maid cafe suitable for families?", a: "Yes. The branches on the main streets are family-friendly interactive theatre rather than anything adult. Expect a **table charge on top of your order**, and photography of staff limited to the paid photo." },
+          { q: "Where do I find the good second-hand stock?", a: "The used floors of the multi-storey stores and the specialist second-hand chains — cheaper than new-goods floors, better stocked with out-of-print items, and conservatively graded. **Always check the lift directory** before climbing." },
+          { q: "Do I need cash?", a: "The large chains take cards. The small stalls and parts shops under the elevated tracks frequently do not, so carry some cash." },
+          { q: "Is Akihabara worth a full day?", a: "Half a day is the minimum to see it properly, and a full day if you are hunting something specific or adding a workshop. It combines easily with Ueno, Kanda or Asakusa, all within a few minutes by train." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Which station exit should I use for Akihabara?", acceptedAnswer: { "@type": "Answer", text: "The **Electric Town Gate** at JR Akihabara. The other exits put you on the wrong side of the tracks for the main shopping streets." } },
+            { "@type": "Question", name: "What time do Akihabara shops open?", acceptedAnswer: { "@type": "Answer", text: "Most from **around 11:00**. Mornings are genuinely dead, so plan the district for an afternoon or evening." } },
+            { "@type": "Question", name: "When is Chuo-dori closed to traffic?", acceptedAnswer: { "@type": "Answer", text: "**Sunday afternoons**, when the main street is pedestrianised. It is the most atmospheric time to be there and also the busiest." } },
+            { "@type": "Question", name: "Is a maid cafe suitable for families?", acceptedAnswer: { "@type": "Answer", text: "Yes. The branches on the main streets are family-friendly interactive theatre rather than anything adult. Expect a **table charge on top of your order**, and photography of staff limited to the paid photo." } },
+            { "@type": "Question", name: "Where do I find the good second-hand stock?", acceptedAnswer: { "@type": "Answer", text: "The used floors of the multi-storey stores and the specialist second-hand chains — cheaper than new-goods floors, better stocked with out-of-print items, and conservatively graded. **Always check the lift directory** before climbing." } },
+            { "@type": "Question", name: "Do I need cash?", acceptedAnswer: { "@type": "Answer", text: "The large chains take cards. The small stalls and parts shops under the elevated tracks frequently do not, so carry some cash." } },
+            { "@type": "Question", name: "Is Akihabara worth a full day?", acceptedAnswer: { "@type": "Answer", text: "Half a day is the minimum to see it properly, and a full day if you are hunting something specific or adding a workshop. It combines easily with Ueno, Kanda or Asakusa, all within a few minutes by train." } },
+          ],
+        },
+        heroImage: TOUR_CARD_AKIHABARA.image,
       };
     default:
             return null;
