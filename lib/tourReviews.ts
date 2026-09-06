@@ -13061,5 +13061,17 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "kyoto-ikebana-class-nishijin-machiya") {
+        return {
+            averageRating: 4.2, totalReviews: 16, guideRating: 4.0, valueRating: 4.7,
+            reviews: [
+                { author: "Diesel", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "My guide was incredible. She really gave me all her attention, and intention. She taught me not only the rules of Ikebana, but the philosophy behind it. Helping me craft a story that would reflect in the flowers, in a way I've never seen floral arranging before. It was a beautiful experience and I'll take what I learned with me to hopefully create more Ikebana arrangements at home. If you're thinking about taking this class, take this as your sign. More than worth it, it made my trip even more memorable." },
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-03-24", text: "Amazing! Staff- yoko and cake were so kind. The owner was there also and she was very nice and helpful. The house is so historical. I learned ikebana is a wonderful setting." },
+                { author: "Ioana", country: "Verified traveller review", rating: 5, date: "2025-12-25", text: "A wonderful and very informative activity for my mum and myself! We absolutely loved it and learned so much. Thank you so so much - highly recommended to anyone visiting Kyoto!" },
+                { author: "Jean-Louis", country: "Verified traveller review", rating: 5, date: "2025-10-24", text: "Our guide and instructir were so kind and knowledgeable, and the venue itself was extraordinary. We first had a short history of ikebana, exolaining its historical roots and how it developed into the flower areanging which we now know today. We then made our own flower arranging, the instructor and translatir detailing every step needed. This was followed by many photo opportunities; then, to crown the visit, we were invited (at a small extra cost) to wear traditional kimono and take a small tour of this historic venue. Highly recommended!" },
+            ],
+        };
+    }
+
     return null;
 };

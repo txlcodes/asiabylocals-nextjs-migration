@@ -8890,5 +8890,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "kure-naval-history-walk-yamato-museum-submarine") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "1 Takaramachi, Kure, Hiroshima 737-0029 — the central port district, about thirty minutes by train from Hiroshima." },
+      { question: "What is included?", answer: "English-speaking local guide for three hours; Guided walking route through Kure's port district; Yamato Museum and JMSDF Kure Museum visits; Harbour viewpoints." },
+      { question: "How do I get to Kure from Hiroshima?", answer: "About thirty minutes by train on the Kure Line, or by bus. Transport is not included, so allow for it either side of the three-hour walk." },
+    ];
+  }
+
+  if (slug === "nara-japanese-calligraphy-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Kyo Roman Building 2F, 6-4 Aburasaka Jikatacho, Nara 630-8246 — three minutes from JR Nara Station." },
+      { question: "What is included?", answer: "Demonstration by a professional calligrapher; One-hour calligraphy session with personalised instruction; All brushes, ink and paper; Traditional shikishi board for your finished work." },
+      { question: "Do I need to know any Japanese?", answer: "No. Instruction is in clear, simple English, and each character's meaning is explained before you choose." },
+    ];
+  }
+
+  if (slug === "nara-wagashi-workshop-with-matcha-tasting") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "31 Tsurufukuincho, Nara 630-8393." },
+      { question: "What is included?", answer: "Hands-on wagashi-making session, three pieces made by you; Seasonal tea service on arrival; Matcha tasting chosen by the master; Local translator throughout; All ingredients and tools." },
+      { question: "What language is the session in?", answer: "Japanese, with a local translator alongside you throughout — which is part of why the conversation with the master works as well as it does." },
+    ];
+  }
+
+  if (slug === "kyoto-ikebana-class-nishijin-machiya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Up to 30 people." },
+      { question: "Where does it start?", answer: "Tondaya Nishijin Japanese Cultural Experience Museum, 697 Ishiyakushicho, Kamigyo Ward, Kyoto 602-8226." },
+      { question: "What is included?", answer: "Ikebana lesson with a master; Seasonal flowers and all tools; Entrance to the Nishijin cultural house; Display and photography of your finished arrangement; Multilingual guidance in Japanese, English, Chinese, Korean, French and Spanish." },
+      { question: "Can I take the arrangement with me?", answer: "It is displayed and photographed in the garden at the end of the session. Cut flowers cannot cross borders, so the photographs are the souvenir." },
+    ];
+  }
+
+  if (slug === "kyoto-gion-temari-ball-workshop-kimono-fabric") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Up to 16 people." },
+      { question: "Where does it start?", answer: "Gion First Building 4F, 281-1 Gion-machi Kitagawa, Higashiyama Ward, Kyoto 605-0073 — opposite the Starbucks, near Yasaka Shrine." },
+      { question: "What is included?", answer: "Kimono fabric for your temari ball; All tools and materials; Instructor guidance throughout; Your finished temari to take home." },
+      { question: "Do I need sewing experience?", answer: "None. The method is deliberately simplified so that a complete beginner finishes a piece they are happy with inside the hour." },
+    ];
+  }
+
     return null;
 };
