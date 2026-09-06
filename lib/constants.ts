@@ -319,7 +319,8 @@ export const OSAKA_INFO_SLUGS = [
   'osaka-to-nara-day-trip', 'osaka-to-kyoto-day-trip', 'shinsekai-guide',
   'osaka-nightlife-guide'
 ,
-  'kuromon-market-guide'];
+  'kuromon-market-guide',
+  'osaka-with-kids'];
 
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',

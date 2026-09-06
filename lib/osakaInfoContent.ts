@@ -12,6 +12,16 @@ const TOUR_CARD_KUROMON = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732813/asiabylocals/tours/osaka-kuromon-market-street-food-walking-tour/img0.jpg',
 };
 
+
+const TOUR_CARD_SUSHI_OSAKA = {
+    slug: 'osaka-dotonbori-sushi-making-class-halal-vegan',
+    title: "Sushi-Making Class off Dotonbori",
+    description: 'Shape nigiri and roll maki, with vegan, halal and allergy menus available on request.',
+    price: 'From $54',
+    duration: '100 minutes',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732745/asiabylocals/tours/osaka-dotonbori-sushi-making-class-halal-vegan/img0.jpg',
+};
+
 export function getOsakaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-osaka':
@@ -1239,6 +1249,69 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_KUROMON.image,
+      };
+    case "osaka-with-kids":
+      return {
+        title: "Osaka with Kids: The Easiest Japanese City to Bring Children To",
+        seoTitle: "Osaka with Kids (2026 Guide)",
+        description: "Osaka is compact, loud, food-obsessed and far less precious than Kyoto — which makes it the best base in Kansai for a family. What to do, and how to use it as a base.",
+        fastFacts: [
+          { icon: "MapPin", label: "Why it works", value: "Compact, flat, and everything is walkable from Namba" },
+          { icon: "Train", label: "Kyoto and Nara", value: "Both under an hour by train" },
+          { icon: "Clock", label: "Realistic pace", value: "Two activities a day, plus food" },
+          { icon: "Star", label: "Reliable winner", value: "Kaiyukan aquarium, or a cooking class" },
+        ],
+        sections: [
+          {
+            title: "Why Osaka Beats Kyoto as a Family Base",
+            icon: "Star",
+            content: "If you are visiting Kansai with children, the sensible decision is to sleep in Osaka and take day trips, rather than the reverse.\n\n**It is compact.** The parts you will actually use — Namba, Shinsaibashi, Umeda, the castle — are close together and mostly flat, and the subway is far simpler to read than Kyoto's bus network.\n\n**It is not precious.** Kyoto asks for quiet, and a tired six-year-old in a temple garden is a problem for everyone. Osaka is loud by default. Nobody minds children being children in Dotonbori.\n\n**The food solves itself.** Osaka's signature dishes — takoyaki, okonomiyaki, kushikatsu — are exactly the food that children eat without argument, and much of it is cooked at the table, which is entertainment as well as dinner.\n\n**Everything else is an hour away.** Kyoto is fifteen to thirty minutes on the train, Nara forty-five, Kobe twenty. You can do the quiet cultural days as day trips and come back to a city where nobody has to whisper.\n\nThe one thing Osaka lacks is a great park in the centre. The castle grounds fill that gap and are genuinely large enough to run in.",
+            tourCard: TOUR_CARD_SUSHI_OSAKA,
+          },
+          {
+            title: "What Actually Works, by Age",
+            icon: "Users",
+            content: "**Under five.** Osaka Castle Park for space, the Kaiyukan aquarium for a rainy day, and Dotonbori after dark for the lights, which small children find as impressive as any theme park. Keep days short.\n\n**Six to twelve.** This is where Osaka is strongest.\n\n| Activity | Why | Length |\n|---|---|---|\n| [Sushi-making class](/japan/osaka/osaka-dotonbori-sushi-making-class-halal-vegan) | They eat what they make; vegan and halal menus available | 100 minutes |\n| [Dotonbori river cruise with a guided walk](/japan/osaka/osaka-dotonbori-river-cruise-with-guided-walk) | The neon from the water, and only two hours | 2 hours |\n| [Maid cafe in Namba](/japan/osaka/osaka-namba-maid-cafe-experience) | Theatrical, family-friendly, and over in an hour | 1 hour |\n| [Kuromon Market food walk](/japan/osaka/osaka-kuromon-market-street-food-walking-tour) | Grilled scallops and skewers, four to five stops | 2 hours |\n| Osaka Castle | The museum floors and the view; a 90-minute visit | 1.5 hours |\n\n**Teenagers.** Amerikamura for the second-hand shops, Den Den Town for electronics and anime, Umeda's observation deck at night, and the [five-landmark walking tour](/japan/osaka/osaka-five-highlights-walking-tour-with-ramen-lunch) if you want a day with structure and a ramen lunch built in.",
+          },
+          {
+            title: "Food, Which Is the Point",
+            icon: "Utensils",
+            content: "Osaka calls itself the nation's kitchen and takes it seriously. For families this is the city's biggest practical advantage.\n\n**Okonomiyaki** is cooked on a hotplate at your table — a savoury cabbage pancake you assemble and flip yourself in many restaurants. It is dinner and an activity at once, and it is the single most reliable family meal in Japan.\n\n**Takoyaki** is sold everywhere, cheap, and eaten standing. Genuinely hot inside — warn children before the first one.\n\n**Kushikatsu** is skewered, breaded and deep-fried, in Shinsekai especially. The rule everyone tells you and means: **no double-dipping in the communal sauce**. Children find the rule funny, which helps them remember it.\n\n**Conveyor sushi** removes ordering entirely, which matters with children who cannot read the menu or decide.\n\n**Department store basements** in Umeda and Namba have vast food halls with seating, air conditioning and something for every fussy eater in the group. On a bad day they are the answer.\n\nOne allergy note: **dashi contains fish** and is in most broths and many vegetable dishes. Ask directly rather than assuming a dish is vegetarian.",
+          },
+          {
+            title: "Day Trips That Work With Children",
+            icon: "Train",
+            content: "**Nara, 45 minutes.** The best family day in Kansai. Around a thousand free-roaming deer, crackers sold to feed them, and the Great Buddha at Todai-ji — one of the few statues big enough to hold a child's attention. Feed with a flat hand and keep the crackers out of sight until you are ready; be more careful in the **October to December rutting season**. Our [shared Fushimi Inari and Nara day](/japan/nara/kyoto-nara-fushimi-inari-deer-park-day-tour) covers both with a guide.\n\n**Kyoto, 15–30 minutes.** Do it as a day trip and pick the child-friendly sights: Fushimi Inari's gate tunnels, Arashiyama's bamboo, and a workshop. Our [Kyoto with kids guide](/japan/kyoto/kyoto-with-kids) covers which temples hold their attention and which do not.\n\n**Kobe, 20 minutes.** Underrated with children — a harbour, a ropeway, and the most Western-feeling city in Japan, which some children find a relief after a week of temples.\n\n**Himeji, about an hour.** The best-preserved castle in Japan and visibly a castle, unlike many reconstructions. Long stairs and a queue at peak times.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "Info",
+            content: "**Fares.** Children under six travel free on most lines; six to eleven pay about half. Get an IC card for every child over six.\n\n**Base yourself around Namba or Shinsaibashi** if you want to walk to dinner, or **Umeda** if you are doing a lot of day trips — it is the main rail hub for Kyoto, Kobe and the airport.\n\n**Hotel rooms are small.** Japanese family rooms sleep four in less space than you expect. Apartment rentals are better value for four or more, and a washing machine changes how much you pack.\n\n**Strollers** are manageable — Osaka is flat and the subway has lifts, though they are often at one end of the platform. Avoid 07:30–09:30 and 17:30–19:30.\n\n**Convenience stores** are the family safety net: food, drinks, toilets, ATMs and plasters on almost every block, at all hours.\n\n**Summer is hard.** July and August are hot and humid enough to shorten what you manage in a day. Plan mornings outdoors and afternoons in the aquarium, a food hall or a workshop.",
+          },
+        ],
+        faqs: [
+          { q: "Is Osaka or Kyoto better with children?", a: "**Osaka**, as a base. It is compact, flat, loud enough that nobody minds children being children, and the food is exactly what they will eat. Kyoto is 15 to 30 minutes away as a day trip." },
+          { q: "What is the best family activity in Osaka?", a: "A **cooking class or the Dotonbori river cruise** for children who need something structured, and **Osaka Castle Park** when they need to run. The [sushi class](/japan/osaka/osaka-dotonbori-sushi-making-class-halal-vegan) has vegan, halal and allergy menus if that matters." },
+          { q: "Where should we stay in Osaka with kids?", a: "**Namba or Shinsaibashi** if you want to walk to dinner; **Umeda** if you are doing lots of day trips, since it is the rail hub for Kyoto, Kobe and the airport. Apartment rentals beat hotel rooms for four or more." },
+          { q: "Do children pay for the subway?", a: "**Under six free, six to eleven about half fare** on most lines. Get every child over six their own IC card." },
+          { q: "Which day trip is best with children?", a: "**Nara**, 45 minutes away, for the free-roaming deer and the Great Buddha. It is the day most families remember. **Himeji** is the best castle if your children like castles; **Kobe** is a good change of pace." },
+          { q: "How do we handle fussy eaters?", a: "**Okonomiyaki** cooked at your table, **conveyor sushi** where nothing has to be ordered, and **department store food halls** in Umeda and Namba, which have something for everyone and air conditioning." },
+          { q: "Is Osaka manageable with a stroller?", a: "Yes — it is flat, the subway has lifts (often at one end of the platform), and the central districts are compact. Avoid rush hour, 07:30 to 09:30 and 17:30 to 19:30." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Osaka or Kyoto better with children?", acceptedAnswer: { "@type": "Answer", text: "**Osaka**, as a base. It is compact, flat, loud enough that nobody minds children being children, and the food is exactly what they will eat. Kyoto is 15 to 30 minutes away as a day trip." } },
+            { "@type": "Question", name: "What is the best family activity in Osaka?", acceptedAnswer: { "@type": "Answer", text: "A **cooking class or the Dotonbori river cruise** for children who need something structured, and **Osaka Castle Park** when they need to run. The [sushi class](/japan/osaka/osaka-dotonbori-sushi-making-class-halal-vegan) has vegan, halal and allergy menus if that matters." } },
+            { "@type": "Question", name: "Where should we stay in Osaka with kids?", acceptedAnswer: { "@type": "Answer", text: "**Namba or Shinsaibashi** if you want to walk to dinner; **Umeda** if you are doing lots of day trips, since it is the rail hub for Kyoto, Kobe and the airport. Apartment rentals beat hotel rooms for four or more." } },
+            { "@type": "Question", name: "Do children pay for the subway?", acceptedAnswer: { "@type": "Answer", text: "**Under six free, six to eleven about half fare** on most lines. Get every child over six their own IC card." } },
+            { "@type": "Question", name: "Which day trip is best with children?", acceptedAnswer: { "@type": "Answer", text: "**Nara**, 45 minutes away, for the free-roaming deer and the Great Buddha. It is the day most families remember. **Himeji** is the best castle if your children like castles; **Kobe** is a good change of pace." } },
+            { "@type": "Question", name: "How do we handle fussy eaters?", acceptedAnswer: { "@type": "Answer", text: "**Okonomiyaki** cooked at your table, **conveyor sushi** where nothing has to be ordered, and **department store food halls** in Umeda and Namba, which have something for everyone and air conditioning." } },
+            { "@type": "Question", name: "Is Osaka manageable with a stroller?", acceptedAnswer: { "@type": "Answer", text: "Yes — it is flat, the subway has lifts (often at one end of the platform), and the central districts are compact. Avoid rush hour, 07:30 to 09:30 and 17:30 to 19:30." } },
+          ],
+        },
+        heroImage: TOUR_CARD_SUSHI_OSAKA.image,
       };
     default:
             return null;
