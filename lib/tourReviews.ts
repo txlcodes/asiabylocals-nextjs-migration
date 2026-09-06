@@ -12194,5 +12194,150 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- JAPAN (2026-09, real reviews from the source listing) ---
+
+    if (slug === "nara-park-guided-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 3136, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "John-Paul Vella", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "It was a Great Trip, went to some beautiful places in Kyoto and also Nara Park to see the deers. Oscar the tour leader made it an unforgetable experience, he is an excellent tour leader!" },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Rex was great! Very friendly and provided great information about each place we went to. We highly recommend this tour with Rex." },
+                { author: "Stefana", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Fiona was reslly cheerful and helping us through the tour. It was a lovely experience!" },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Clytie (CC) is a fanatics guide , funny reliable and professional" },
+                { author: "Lars", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Amy our guide was adorable, caring, kind and informative! she shared amazing knowledge. Personally as a tall pe4son, i had issues witb the leg room on the bus, the bus wasnt made for 190cm+." },
+                { author: "Deni", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "This tour has everything to get to know Kyoto, we loved Amy, she was really patient with everyone in the tour and she explained everything in detail. 100% recommended" },
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Amy was an incredible tour guide, she really made the trip incredible. The stops on the tour were all beautiful, even on a rainy day. I would recommend it to anyone looking to explore Kyoto, especially if they can get Amy as a guide." },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We liked all the places we visited very much. The guide was really helpful. Very pleasant one-day trip. Recommended" },
+            ],
+        };
+    }
+
+    if (slug === "nara-park-arashiyama-guided-tour") {
+        return {
+            averageRating: 4.3, totalReviews: 16, guideRating: 4.2, valueRating: 3.8,
+            reviews: [
+                { author: "Elizabeth B", country: "Verified traveller review", rating: 4, date: "2026-09-05", text: "Rained, but so nice and cool. Loved the three temples. The 10,000 Tori gates was the best. Not sure the two hour round trip is worth the little deer - more time at Tori gates or more time to see Shrine in Nara. Zoey did a great job" },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "HuaHua fue un gu\u00eda muy divertido, estuvo atento e hizo que los trayectos largos en el autob\u00fas fueran amwnod. Gracias por este d\u00eda" },
+                { author: "G\u00f6zde", country: "Verified traveller review", rating: 5, date: "2025-12-12", text: "This tour was fantastic, I recommend everyone to join. You have plenty of time to explore. Our guide, Levi, gives you all the necessary information and helps with everything; he's very kind and polite, and very successful in his job. Thank you so much Levi, you made today unforgettable! \ud83e\udd0d" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2025-12-11", text: "Amazing tour to get a lot done in one day! CC, the tour guide, was great and very helpful with information on where to go. Plenty of time to sightsee and take pictures all over" },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 4, date: "2025-11-30", text: "Alles Top organisiert. Unser Guide HuaHua war echt super!! Kann ich weiter empfehlen." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 4, date: "2025-10-25", text: "This trip is the same as it was described \ud83d\ude42 briefly guided and with a lot of traveling which cover bus transportation and fees, but... I don't really recommend. You can easily go there with public transport, it would be faster, cheeper and without of haste that you need to be on time or the bus will leave without you. More information about place you can read in websites or with pamphlets (unfortunately). What was not described, is city travel order: Osaka, Kyoto, Nara, Kyoto, Osaka - so it's like 75% traveling by bus." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2025-07-16", text: "I really like our guide Joe. He was really helpful and funny. I really recommend this tour with Joe." },
+            ],
+        };
+    }
+
+    if (slug === "kasuga-taisha-morning-tour") {
+        return {
+            averageRating: 4.6, totalReviews: 435, guideRating: 4.8, valueRating: 4.4,
+            reviews: [
+                { author: "Hannah", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "We had a wonderful morning exploring Nara and seeing the Deer. Den was a great guide, so friendly and informative and she took some lovely photos of us! Thank you Den!" },
+                { author: "Zack", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Sakura was an amazing host, she was incredibly helpful and had a very charming personality. She kept us engaged the entire time, even on the bus rides between locations! Nara itself is absolutely beautiful, and the temple there was a lot more awe-inspiring than I could have imagined. Of course, everyone goes to Nara for the deer, and that did not disappoint either. They are literally everywhere and are so friendly! It is also very funny how they will follow you around in groups if you have anything to feed them. haha! Overall, it was a great tour, and I would highly recommend it. This was my favourite part of my trip to Japan!!" },
+                { author: "Hannes", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "It was very nice perfectly organized. Sakura was very kind and explained everything" },
+                { author: "Gopa", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Very good tour. Sakura was a wonderful guide. Very helpful and good natured. She gave us much attention and her comments were very both enjoyable and knowledgeable." },
+                { author: "Antonia", country: "Verified traveller review", rating: 5, date: "2026-05-22", text: "Nanami was our guide; she was very nice, attentive and engaged. An amazing experience." },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2026-05-18", text: "We really enjoyed ourselves (adult + kids.) Den is an excellent tour guide and even got some great candid pics of our family with the Nara deer! The tour was well organized and interesting, and the half-day itinerary was perfect for the kids." },
+                { author: "Carina", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "We had a wonderful tour with our guide Den. She was incredibly friendly, knowledgeable, and explained everything in a very interesting and easy-to-understand way. Thanks to her, the experience was truly special and we enjoyed it a lot." },
+                { author: "Tatyana", country: "Verified traveller review", rating: 5, date: "2026-04-23", text: "Sakura did a wonderful job on our tour. We will remember it for her great knowledge and humor. We would take this tour again when we have a cgsnce!" },
+            ],
+        };
+    }
+
+    if (slug === "miyajima-bullet-full-day-tour") {
+        return {
+            averageRating: 4.7, totalReviews: 90, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 4, date: "2026-08-25", text: "Angeles notre guide a une \u00e9nergie incroyable. Elle a comment\u00e9 la visite en espagnol et en anglais! On pense qu'une seule langue serait plus paisible pour mieux profiter pour les passagers et pour le guide. Miyajima super spot, les conseils d'Angeles sont nombreux pour les sites \u00e0 voir et les restaurants sur place. Pour Hiroshima, le petit tour organis\u00e9 par Angeles \u00e9tait top. Le petit b\u00e9mol: pas eu assez de temps pour faire la 2\u00e8me partie du M\u00e9morial. Il faudrait pr\u00e9voir au moins deux heures, on en a une qu'une. Les tickets de train aller-retour Kyoto Hiroshima r\u00e9serv\u00e9s \u00e9taient pratiques. On recommande la visite." },
+                { author: "Eric L.", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Great day trip. Enjoyed the island and was humbled by the museum and memorials." },
+                { author: "Dorcas", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Miyajima was breathtaking. It was my favorite spot in all of Japan." },
+                { author: "Joaqu\u00edn", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "Nuestra experiencia ha sido muy buena. \u00c1ngeles, nuestra gu\u00eda, ha estado fenomenal: ha explicado todo de forma muy clara, con mucha amabilidad y haciendo que la visita fuera muy amena e interesante. El transporte tambi\u00e9n ha sido excepcional, muy c\u00f3modo y bien organizado. En general, hemos pasado un d\u00eda estupendo. Como aspecto a mejorar, consideramos que el precio nos ha parecido algo excesivo para la actividad realizada. Aun as\u00ed, valoramos muy positivamente la profesionalidad de la gu\u00eda y la buena organizaci\u00f3n del servicio." },
+                { author: "Katrin", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "Super gut organisierte Tour mit C\u00e9sar und Oe. Viele Erkl\u00e4rungen und interessante Informationen sowohl auf Englisch als auch Spanisch. Gute Mischung aus F\u00fchrung und Zeit zur freien Verf\u00fcgung. Auf Miyajima hatten wir ausreichend Freizeit. Die freie Zeit in Hiroshima war etwas zu knapp, um das Museum wirklich in Ruhe zu besichtigen, aber ausreichend, um sich einen \u00dcberblick zu verschaffen. Insgesamt auf jeden Fall eine sehr empfehlenswerte Tour!" },
+                { author: "Joseph", country: "Verified traveller review", rating: 5, date: "2026-06-30", text: "Angeles was fantastic. She was very knowledgeable with history and culture of the tour. Her kindness and care for the good of people shined- all this made the tour quite amazing and humbling at the same time. Thank you for making the day trip unforgettable." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "Excellent trip. Oesan kept us safe as a driver and Cesar was amazing as a tour guide. Grateful to have experienced Hiroshima and the important history and lesson of world peace and universal love. With gratitude, The Reddy\u2019s and the Hayes\u2019 families" },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Hey, my day started with the bullet train experience! Like that I did that once in my life. I was then welcomed by Angeles and Oe-san, beautiful smiles and energy. Cannot believe how Angeles could feed us history without looking at any documents. Loved the island visit, maybe cutting by 30-45 min would leave a bit more time For Hiroshima museums. The memorial site was humbling, sacred, emotional. Very solonel moment. Many years ago being in Poland for work, I was by accident on Sept 1 on the site WW2 start of the war. Hiroshima being almost the end of war. Chilling! I am full of gratitude!\ud83e\udd70" },
+            ],
+        };
+    }
+
+    if (slug === "nara-park-private-tour") {
+        return {
+            averageRating: 4.5, totalReviews: 474, guideRating: 4.6, valueRating: 4.5,
+            reviews: [
+                { author: "YL", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Same as last review. We had Hussan yesterday and today. He was perfect" },
+                { author: "YL", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "We had a fantastic day yesterday with our driver Hussan. He was accommodating and very patient. He was flexible and very considerate of our needs. We made many changes and he just took it all in his stride. He also was our guide for today and was also absolutely amazing. Thank you so much from the Aussies and Canadians" },
+                { author: "Sangeeta", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "It was excellent! I highly recommend this tour especially for those who want to see it all in one day. Our guide Abdul was excellent. He showed us everything and was simply perfect." },
+                { author: "Monique", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Our trip to Nara and Kyoto yesterday was very enjoyable. Our driver, Hassan, was prompt; friendly; knowledgeable and very helpful. My husband has mobility issues (Parkinson\u2019s disease) and Hassan was very thoughtful with our itinerary. He was also very kind to lend us some cash for an entrance fee. His car was immaculately clean and nice and cool. The itinerary was very good. We got to see everything we needed to see in one day. My favourite was the Golden temple. A great choice for a day tour!" },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "We had a great day - Hassan was a wonderful guide with knowledge of the attractions and made our day comfortable despite the hot weather. Lovely memories made!" },
+                { author: "Bryan", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Babi has been an amazing guide offering explanations wherever we went and also adapting to our family needs. highly recommend this tour and guide" },
+                { author: "Lynn", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Amazing tour and our guide went above and beyond. Highly recommend for anyone that\u2019s in the area. Obaid was the best!" },
+                { author: "Victoria", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "Ali was an amazing driver, spoke great English and was knowledgeable about everything he took us to see." },
+            ],
+        };
+    }
+
+    if (slug === "nara-park-customisable-private-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 40, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Taimoor was friendly and organized. We had a great conversation in the beginning of the tour of the expectation and he was kind enough to walk with us and get us set up for all the attractions first, so we did not feel lost. He also reached out prior to the date and suggested picking us up earlier so we can enjoy the attractions with less crowds. We end up not going earlier, but I suggest if you have the opportunity to do so. This was fully private and custom tour of our family enjoy." },
+                { author: "Rana Mughees", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Our last day in Osaka ended with one of the best tour experiences. Taimoor, our host for the day, was simply amazing. He took us to Kyoto and Nara, effortlessly planning all the best spots at the right time to avoid heavy crowd. He taught us about the culture and took us to the perfect food spots. I couldn't have asked for a better experience. 1000% recommended!" },
+                { author: "Cirian", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Our wonderful guide didn't hover! He briefly explained the history of the sites, explained logistics of pick up from the sites, and allowed us to explore on our own, which was what we wanted! Private tour worth every penny! He even dropped us off at Kyoto where we spent the night, and returned my parents back to our cruise ship. We loved it so much, we arranged our transport back with him back to our cruise ship the following day! Highly recommend!" },
+                { author: "Gautham", country: "Verified traveller review", rating: 5, date: "2026-06-23", text: "Haseeb was very friendly and informative, He has shown us places an informed to be back from the places so that we could everything in a day." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 4, date: "2026-06-12", text: "Our person was a great driver and helped us see many sites, but this should not be listed as a guide. He spoke very little to us, even when we asked questions and he didn\u2019t join any of the locations where we were hoping for background information and knowledge from a local person. This is great if you just want a driver to drop you off at places so you can explore on your own." },
+                { author: "Kush", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Very well led tour. Our tour guide Hasseb was very polite and knowledgeable about the area. He spoke Hindi,English and Japanese well. he arrived promptly at 9 30am. We were not ready to come down and he waited for us. He coordinated me the pick up time the night before via what\u2019s app. He was knowledgeable about the area . Great value for the money and time as well.HATS OFF TO HASEEB FOR THE GREAT EXPERIENCE." },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Very good guide Bibi gave us space and got us there despite the challenges of time and traffic" },
+                { author: "Adil", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Very well led tour. Our tour guide Hasseb was very polite and knowledgeable about the area. He spoke English and Japanese well. Hecarrived promptly at 9 am. We were not ready to come down and he waited for us. He coordinated me the pick up time the night before via what\u2019s app. He was knowledgeable about the area and suggested a great place for us to eat lunch. Great value for the money and time as well." },
+            ],
+        };
+    }
+
+    if (slug === "nara-chopsticks-mini-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 37, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Doskonale przygotowane materia\u0142y, przyjemno\u015b\u0107 w trakcie tworzenia moich w\u0142asnych pa\u0142eczek! Nie tylko mog\u0119 si\u0119 nimi pochwali\u0107 przed znajomymi ale opowiedzie\u0107 w szczeg\u00f3\u0142ach jak powstawa\u0142y od kawa\u0142ka drewna. Polecam!" },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Alles hat tiptop geklappt und wir waren sehr gut aufgehoben :)" },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Et guien molt be durant l'experiencia, el que fa que sigui mes divertida" },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "I really enjoyed this event. I went on my birthday with my family. The staff were very polite and would explain everything and help. I ended up with beautiful sticks with engraved words that I chose myself. The only thing you need to know in advance is that if you want to choose a harder type of wood and have engraving done, it will require an additional payment." },
+                { author: "Shannon O", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Very pleasant and humbling. The staff were so kind and helpful." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "Tr\u00e8s bel endroit pour faire ses propres baguettes! Les propri\u00e9taires sont tr\u00e8s gentils, parle bien l\u2019anglais et veillent \u00e0 ce que vos baguettes soient r\u00e9ussis! Nous avons fait l\u2019activit\u00e9 avec des enfants de 7 et 10 ans et ils ont eu beaucoup de plaisir! Je recommande" },
+                { author: "Severine", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "Superbe exp\u00e9rience Ambiance tr\u00e8s sympathique Personne tr\u00e8s tr\u00e8s accueillante et agr\u00e9able Exp\u00e9rience et personnalisation au top!!!! Je recommande N h\u00e9sitez pas Hashi Lab arigato kosaimas" },
+                { author: "Shane", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "We had a great experience making our own wooden chopsticks. Instructions were clear and easy to follow. I would recommend it to anyone visiting Nara!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-private-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 30, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "We had a great day with Sam our driver who gave us some great information about Kyoto. We fitted in lots of places and he tailor made the trip for some places we wanted see. The car was so comfortable with the aircon during the day. He also made sure we got the best photos at each stop." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Great trip. Customized for me and my family. We were traveling during the world cup and wanted to watch the Japan game. stopped at a pub and watched game before heading out on our tour which was extremely informative and enjoyable." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "Mana was a great guide- on a very hot day. Had some trouble with AC in the car and he switched out. Told us a lot about the temples and shrines." },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "Great tour and great guide Flexible and efficient way to see highlights. Sam our guide was fantastic, friendly and helpful" },
+                { author: "Tanvir Ahsan", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Amazing, Sam had personally tried his best to make sure we had a great time in Kyoto. He helped my son see all the places he wanted to take pictures of within the small time frame we had for staying in Kyoto. He was very knowledgeable about the history of Kyoto and the places we visited. It was so interesting to listen to the history while we drove to new locations, really making the most out of our time so no moment of the trip was boring! He was also very accommodating of everyone." },
+                { author: "GetYourGuide traveler", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "We had an incredible experience with Sam as our tour guide in Kyoto. From start to finish, he was knowledgeable, accommodating, and genuinely passionate about sharing the city with us. He made everything feel effortless and tailored the experience perfectly to our group. What really stood out was Sam\u2019s personality \u2014 he kept the mood light, fun, and engaging the entire time. His humor and storytelling made every stop memorable, and he always made sure everyone felt included and entertained. If you\u2019re looking for a guide who is informative, personable, and truly enhances your Kyoto experience, we would highly recommend Sam. He was a huge part of what made our trip so special!" },
+                { author: "Noel", country: "Verified traveller review", rating: 5, date: "2026-05-12", text: "Sam was fantastic. We were able to see every major attraction, and he was incredibly knowledgeable and informative throughout the tour. It was definitely the best way to see and learn about Kyoto in a short amount of time. I can\u2019t imagine trying to navigate and experience it all on our own. Highly recommend!" },
+                { author: "Clio", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "Sam went above and beyond giving us an excellent tour of Kyoto, and on a separate tour, of Uji and Nara. His passion for his work and extensive knowledge really shows. He provided excellent service, and was very accommodating. We did not feel rushed at all during our tours and we felt very well-cared for. He recommended excellent meal stops as well, being our very much needed language translator in between. Overall, our Kyoto tour showed us amazing sites and delicious food, and Sam guiding us through it made it truly memorable. D\u014dmo arigat\u014dgozaimasu!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-morning-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 1601, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We had the best time on our tour!! Our tour guide Hina was so knowledgeable about all of the stops, gave us a bunch of personalized recommendations for restaurants and things to do after chatting with us and just very fun all around. Also Hina took the BEST pictures!! Truly some of the best pictures of my entire trip were taken by her in Kyoto. Would highly recommend any tour with Hina!" },
+                { author: "andrei", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Lj was beyond awesome. Very knowledgeable not only about the tour but Japan as a whole. His scope goes beyond his duties. Also a great photographer, he goes above and beyond for his guests" },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "This was such a great tour. Leaving early in the morning meant it was quieter and we seemed to see a lot without feeling rushed. Haruki was a great guide - informative and friendly. I had a great morning and highly recommend this tour" },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "An amazing experience. Very smooth, fun enlightenment and educational. Our guide Rin was amazing. Highly recommend him and this tour. Go early to avoid all the crowds best decision ever." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Rin was a fantastic guide and the tour was exactly what I hoped it would be. I had limited time in Kyoto, so to see some incredible sites in the morning left me with time in the afternoon to explore further. The best part was being able to simply follow, and know you will get to exactly where you need to be, without having to navigate a google map! Rin was knowledgeable and shared his local insights. His English was excellent, and the group had a terrific time. Thank you again Rin! Would highly recommend for solo travellers \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f" },
+                { author: "Caroline", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Excellent guide - Hinano. All by public transport which was great because it meant you knew how to get back to a site if you wanted to return. Really glad I did it. She was very knowledgeable and shared lots of recommendations for food highly recommend" },
+                { author: "Roberto", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Kenta, it was the best tour i made in Japan. You and Momo are super cool. I wish you the best from the bottom of my heart. Amazing experience, thanks very much" },
+                { author: "Sam", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "We had an excellent experience with our guide Yu during our walking tour. He provided expert commentary through the tour and answered all our questions. Using public transport around Kyoto helped as it gave welcome aircon breaks during the humid conditions. When booked the tour I thought the 6 hours would be too long, but resulted in a perfect experience. Thank you Yu" },
+            ],
+        };
+    }
+
     return null;
 };
