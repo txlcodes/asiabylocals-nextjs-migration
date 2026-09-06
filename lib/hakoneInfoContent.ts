@@ -1025,6 +1025,68 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: CARD_YOSEGI.image,
       };
+    case "where-to-stay-in-hakone":
+      return {
+        title: "Where to Stay in Hakone: Which Onsen Area, and Ryokan or Hotel",
+        seoTitle: "Where to Stay in Hakone (2026)",
+        description: "Hakone is not a town, it is a caldera with seven or more separate onsen villages. Which one to sleep in, and how a ryokan night actually works.",
+        fastFacts: [
+          { icon: "MapPin", label: "Best all-round base", value: "Hakone-Yumoto or Gora" },
+          { icon: "Clock", label: "Ryokan check-in", value: "Usually 15:00, dinner around 18:00" },
+          { icon: "Wallet", label: "Ryokan pricing", value: "Per person, with dinner and breakfast" },
+          { icon: "AlertTriangle", label: "Tattoos", value: "Many baths refuse; private baths are the fix" },
+        ],
+        sections: [
+          {
+            title: "Hakone Is Not One Place",
+            icon: "Star",
+            content: "The single most common planning mistake is treating Hakone as a town with a centre. It is a volcanic caldera about ninety minutes from Tokyo, and the hot spring settlements inside it are scattered across the crater and its slopes, connected by a mountain railway, a cable car, a ropeway and a boat.\n\nThat matters because a hotel in one village can be an hour from a sight in another, and the transport stops earlier than you expect.\n\nThe practical shortlist:\n\n| Area | What it is | Suits |\n|---|---|---|\n| **Hakone-Yumoto** | The gateway town at the bottom, on the Odakyu line | First visits, one-night stays, no car |\n| **Gora** | Mid-mountain, junction of railway and cable car | The best all-round base |\n| **Sengokuhara** | Open plateau in the north, pampas grass | Quiet, Fuji views, more driving |\n| **Lake Ashi (Moto-Hakone / Togendai)** | The lakeshore, the shrine, the pirate boats | Scenery, but sleepy |\n| **Miyanoshita** | Historic hotels on the old road | Character and old-fashioned comfort |\n\n**If you are staying one night and have no car, stay in Hakone-Yumoto or Gora.** Everything else is a preference.",
+          },
+          {
+            title: "How a Ryokan Night Actually Works",
+            icon: "Info",
+            content: "Booking a ryokan without knowing the shape of the evening is how people end up disappointed by the best accommodation experience in Japan.\n\n**It is priced per person, not per room**, and the rate almost always includes dinner and breakfast. Comparing it with a hotel room rate is comparing the wrong numbers.\n\n**Check-in is usually 15:00 and dinner is served at a set time**, often around 18:00 and rarely later than 19:00. That is the part that catches people out: a ryokan night is not compatible with a full day of sightseeing that ends at seven. Plan to arrive mid-afternoon, bathe, and be in the building for the evening.\n\n**Dinner is kaiseki** — a long sequence of small seasonal courses, often served in your room or a private dining room. It is the main event, not a meal you fit around other plans.\n\n**You will wear a yukata**, provided, around the building and to dinner. This is normal and expected.\n\n**Bathing comes before dinner** for most guests. You wash thoroughly at the seated stations first; the bath itself is for soaking, not cleaning. The small towel does not go in the water.\n\nOne night in a ryokan is worth it for almost everyone. Two nights in the same one is usually one too many, because the rhythm repeats exactly.",
+          },
+          {
+            title: "The Tattoo Question",
+            icon: "AlertTriangle",
+            content: "This is the practical issue that most affects where you can stay, and it is worth resolving before booking rather than at a reception desk.\n\n**Many Japanese onsen and ryokan refuse guests with visible tattoos**, because of the historic association with organised crime. Policies vary and are tightening in some places and relaxing in others, but you cannot assume.\n\nThree workable solutions:\n\n**Book a room with a private bath.** Many Hakone ryokan offer rooms with their own open-air bath — a kashikiri or in-room rotenburo. This removes the question entirely and is the reason a lot of visitors pay the premium. It is also better for couples and for anyone uncomfortable bathing communally.\n\n**Book a private bath session.** Cheaper option: many properties rent a private bath by the hour to guests.\n\n**Ask directly before booking.** Some properties are explicitly tattoo-friendly and say so. Email and ask; you will get a straight answer.\n\nCover-up patches work at some properties and not others, and relying on them is a gamble at the door.\n\nIf you would rather do the bathing culture properly with someone alongside you, our [guided sento experience in Tokyo](/japan/tokyo/tokyo-sento-bathhouse-experience-tattoo-friendly) is at a bathhouse that accepts tattoos, with a guide who goes in with you and explains the etiquette.",
+          },
+          {
+            title: "The Transport That Decides Your Day",
+            icon: "Train",
+            content: "Hakone's sights sit on a loop that most visitors do in one direction: the mountain railway up from Yumoto, the cable car to Sounzan, the ropeway over Owakudani, and the boat across Lake Ashi.\n\nTwo things about that loop change how you should book.\n\n**It closes earlier than a city.** The ropeway and boat finish in the late afternoon, earlier in winter. If your hotel is on the far side of the loop from where you spend the day, check the last departure rather than assuming.\n\n**Owakudani suspends the ropeway when volcanic gas readings rise.** This happens periodically and without much warning. A replacement bus runs, so the day still completes, but the crater crossing is the part people come for. Do not build a single-night trip entirely around it.\n\n**The Hakone Freepass** covers the railway, cable car, ropeway, boat and local buses for two or three days and almost always pays for itself if you are doing the loop. Buy it in Shinjuku before you travel.\n\nOur [Hakone day tours](/japan/hakone/hakone-day-tour-from-tokyo-lake-ashi-owakudani) run the loop with the transport arranged, which is the simplest option if you are coming from Tokyo for the day rather than staying.",
+          },
+          {
+            title: "Or Should You Stay at All?",
+            icon: "Calendar",
+            content: "An honest question, because a lot of people should not.\n\n**Stay if:** you want a ryokan and an onsen evening, which is the actual reason to come; you want Hakone quiet, which it is before nine and after four; or you are continuing to Kyoto and want to break the journey.\n\n**Do not stay if:** you have a tight Japan itinerary and Hakone is a box to tick. The loop can be done as a long day trip from Tokyo, and our [full-day tours](/japan/hakone/hakone-private-day-trip-lake-ashi-owakudani) handle the transport. You will see the same sights and sleep in a city with better food.\n\n**Consider Kawaguchiko instead** if Fuji views are your priority rather than hot springs. It sits directly under the mountain on the north side and the views are better and more reliable than from inside the Hakone caldera, where Fuji is often hidden behind the crater rim.\n\n**Budget note.** Hakone is expensive by Japanese standards — ryokan rates with meals run well above city hotel prices, and the transport is not cheap either. One night done properly is a better use of money than two nights done cheaply.",
+          },
+        ],
+        faqs: [
+          { q: "Where is the best place to stay in Hakone?", a: "**Hakone-Yumoto** for a first visit without a car, or **Gora** for the best all-round position mid-mountain at the railway and cable car junction. Sengokuhara and Lake Ashi are quieter but need more travel." },
+          { q: "How does ryokan pricing work?", a: "**Per person, not per room**, and the rate almost always includes kaiseki dinner and breakfast. Comparing it to a hotel room rate is comparing the wrong numbers." },
+          { q: "What time is ryokan dinner?", a: "Usually a set time around **18:00, rarely later than 19:00**, with check-in from 15:00. A ryokan evening does not fit around a full day of sightseeing — plan to arrive mid-afternoon." },
+          { q: "Can I stay in Hakone with tattoos?", a: "Many onsen and ryokan refuse visible tattoos. The reliable fix is **a room with its own private bath**, or booking a private bath session by the hour. Some properties are explicitly tattoo-friendly — email and ask before booking." },
+          { q: "Is Hakone worth staying overnight?", a: "Yes if you want a ryokan and an onsen evening, which is the real reason to come. If Hakone is a box to tick on a tight itinerary, do it as a day trip from Tokyo instead." },
+          { q: "Is the Hakone Freepass worth it?", a: "Almost always, if you are doing the loop. It covers the mountain railway, cable car, ropeway, boat and local buses for two or three days — buy it in Shinjuku before you travel." },
+          { q: "Should I stay in Hakone or Kawaguchiko for Fuji views?", a: "**Kawaguchiko.** It sits directly under the mountain on the north side. Inside the Hakone caldera Fuji is frequently hidden behind the crater rim." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Where is the best place to stay in Hakone?", acceptedAnswer: { "@type": "Answer", text: "**Hakone-Yumoto** for a first visit without a car, or **Gora** for the best all-round position mid-mountain at the railway and cable car junction. Sengokuhara and Lake Ashi are quieter but need more travel." } },
+            { "@type": "Question", name: "How does ryokan pricing work?", acceptedAnswer: { "@type": "Answer", text: "**Per person, not per room**, and the rate almost always includes kaiseki dinner and breakfast. Comparing it to a hotel room rate is comparing the wrong numbers." } },
+            { "@type": "Question", name: "What time is ryokan dinner?", acceptedAnswer: { "@type": "Answer", text: "Usually a set time around **18:00, rarely later than 19:00**, with check-in from 15:00. A ryokan evening does not fit around a full day of sightseeing — plan to arrive mid-afternoon." } },
+            { "@type": "Question", name: "Can I stay in Hakone with tattoos?", acceptedAnswer: { "@type": "Answer", text: "Many onsen and ryokan refuse visible tattoos. The reliable fix is **a room with its own private bath**, or booking a private bath session by the hour. Some properties are explicitly tattoo-friendly — email and ask before booking." } },
+            { "@type": "Question", name: "Is Hakone worth staying overnight?", acceptedAnswer: { "@type": "Answer", text: "Yes if you want a ryokan and an onsen evening, which is the real reason to come. If Hakone is a box to tick on a tight itinerary, do it as a day trip from Tokyo instead." } },
+            { "@type": "Question", name: "Is the Hakone Freepass worth it?", acceptedAnswer: { "@type": "Answer", text: "Almost always, if you are doing the loop. It covers the mountain railway, cable car, ropeway, boat and local buses for two or three days — buy it in Shinjuku before you travel." } },
+            { "@type": "Question", name: "Should I stay in Hakone or Kawaguchiko for Fuji views?", acceptedAnswer: { "@type": "Answer", text: "**Kawaguchiko.** It sits directly under the mountain on the north side. Inside the Hakone caldera Fuji is frequently hidden behind the crater rim." } },
+          ],
+        },
+        heroImage: CARD_2.image,
+      };
     default:
       return null;
   }

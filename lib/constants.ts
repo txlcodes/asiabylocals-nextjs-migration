@@ -302,7 +302,8 @@ export const HAKONE_INFO_SLUGS = [
   'kawaguchiko-guide',
   'hakone-open-air-museum-guide',
   'owakudani-black-eggs-guide',
-  'hakone-yosegi-marquetry-guide'];
+  'hakone-yosegi-marquetry-guide',
+  'where-to-stay-in-hakone'];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
 export const HIROSHIMA_INFO_SLUGS = [

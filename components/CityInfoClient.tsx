@@ -396,6 +396,7 @@ const HAKONE_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-hakone' },
     { name: 'Getting Around', slug: 'getting-around-hakone' },
     { name: '2-Day Itinerary', slug: 'hakone-2-day-itinerary' },
+    { name: 'Where to Stay in Hakone', slug: 'where-to-stay-in-hakone' },
 ];
 
 const SAPPORO_SIDEBAR = [
