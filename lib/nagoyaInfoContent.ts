@@ -92,6 +92,16 @@ const TOUR_CARD_TOKONAME = {
   image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194199/asiabylocals/tours/nagoya-tokoname-pottery-village-day-trip-from-nagoya/img0.jpg',
 };
 
+
+const TOUR_CARD_SHIRAKAWAGO_OBS = {
+    slug: 'nagoya-shirakawago-takayama-observatory-day-trip',
+    title: "Shirakawa-go and Takayama Day Trip",
+    description: 'The thatched valley from the observatory above, and Takayama old town on foot.',
+    price: 'From $69',
+    duration: '10 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788731647/asiabylocals/tours/nagoya-shirakawago-takayama-observatory-day-trip/img0.jpg',
+};
+
 export function getNagoyaInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
     case 'best-time-to-visit-nagoya':
@@ -620,6 +630,75 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_MAGOME.image,
+      };
+    case "is-nagoya-worth-visiting":
+      return {
+        title: "Is Nagoya Worth Visiting? An Honest Answer",
+        seoTitle: "Is Nagoya Worth Visiting? (2026)",
+        description: "Nagoya is Japan's fourth-largest city and the one travellers skip. Where that reputation comes from, when it is deserved, and the specific cases where Nagoya is the right call.",
+        fastFacts: [
+          { icon: "Train", label: "From Tokyo", value: "About 1h40 by Shinkansen" },
+          { icon: "Train", label: "From Kyoto", value: "About 35 minutes" },
+          { icon: "Clock", label: "Worth staying", value: "One to two nights, or as a base" },
+          { icon: "Star", label: "Strongest case", value: "Day trips into the Japanese Alps" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "**Nagoya is not a sightseeing city, and pretending otherwise is why visitors leave disappointed.** It is Japan's manufacturing capital — Toyota, aerospace, machine tools — and it was flattened in 1945 and rebuilt for cars and industry rather than for walking. If your measure is temples and old streets, Kyoto is thirty-five minutes away and will win every time.\n\nBut two arguments make Nagoya genuinely worth stopping in, and neither is about the city centre.\n\n**It is the best base in Japan for the mountains.** Shirakawa-go, Takayama, the Kiso Valley post towns, Kamikochi in the Japanese Alps and the Tateyama Kurobe Alpine Route are all day trips from here. From Tokyo or Kyoto they are overnight expeditions. That single fact is the strongest case for the city.\n\n**Its museums are exceptional and specific.** The [Toyota Commemorative Museum](/japan/nagoya/nagoya-toyota-commemorative-museum-guided-tour) traces a loom company becoming a car company with live machinery. The [Tokugawa Art Museum](/japan/nagoya/nagoya-tokugawa-art-museum-guided-tour) holds one samurai family's possessions kept together since the Edo period. Ghibli Park is here. These are better than their equivalents in larger cities because they are not competing for your attention with a hundred temples.\n\nA reasonable verdict: **one to two nights, or use it as a base for three or four.** Do not give it a week.",
+            tourCard: TOUR_CARD_SHIRAKAWAGO_OBS,
+          },
+          {
+            title: "Where the Bad Reputation Comes From",
+            icon: "Info",
+            content: "It is worth being specific, because the criticism is half fair.\n\nNagoya was bombed heavily in 1945 and rebuilt on a grid with unusually wide roads — Hisaya Odori is a hundred metres across. That produced a functional, prosperous, low-rise-and-glass city with very little pre-war fabric, and it does not photograph well.\n\nThe castle, the obvious anchor, has an added complication: **the main keep has been closed to visitors since 2018** on safety grounds, pending a rebuild in wood. The Honmaru Palace beside it is open and is genuinely excellent — a meticulous reconstruction with reproduced painted screens — but visitors who arrive expecting to climb the keep are told no at the gate. That single fact accounts for a fair share of the disappointment.\n\nNagoya also has the misfortune of sitting on the Shinkansen between Tokyo and Kyoto, which makes it the easiest place in Japan to pass through. Most people do.\n\nWhat the criticism misses is that Nagoya is not trying to be a tourist city. It has the highest concentration of manufacturing in Japan, and what it is genuinely good at — industry, craft, food and access to the mountains — is not what a temple itinerary measures.",
+          },
+          {
+            title: "The Day Trips, Which Are the Real Argument",
+            icon: "Train",
+            content: "This is what Nagoya is for.\n\n| Destination | What it is | From Nagoya |\n|---|---|---|\n| [Shirakawa-go and Takayama](/japan/nagoya/nagoya-shirakawago-takayama-observatory-day-trip) | UNESCO thatched village and a preserved merchant town | Full day by coach |\n| Magome and Tsumago | Restored Edo post towns on the Nakasendo, joined by a walkable pass | Full day |\n| Kamikochi | Alpine valley in the Northern Japan Alps, open late April to mid-November | Full day |\n| [Tateyama Kurobe Alpine Route](/japan/tokyo/tateyama-kurobe-alpine-route-private-day-tour) | Cable cars and tunnel buses to 2,450 m; snow walls in spring | Long day or overnight |\n| Ise and Toba | Ise Grand Shrine, the most important shrine in Shinto | Full day |\n| Inuyama | One of only twelve original castle keeps in Japan | Half day |\n\nThe Kiso Valley and Shirakawa-go in particular are awkward from anywhere else. If those are on your list, staying in Nagoya rather than commuting from Kyoto saves you several hours a day.\n\nInuyama is the one to do if you were disappointed by Nagoya Castle's closed keep — its keep is original, National Treasure listed, and you climb it in socks up very steep wooden stairs.",
+          },
+          {
+            title: "What to Actually Do in the City",
+            icon: "MapPin",
+            content: "A day and a half in Nagoya itself, spent well:\n\n**Nagoya Castle's Honmaru Palace.** Not the keep, which is closed. The palace is a reconstruction done properly — the painted screens reproduced by artists over a decade — and it is more impressive inside than the castle looks from outside.\n\n**The Toyota Commemorative Museum of Industry and Technology.** Housed in the group's original red-brick mill, with looms running and the whole argument from an automatic loom to a hydrogen car laid out. [A guide](/japan/nagoya/nagoya-toyota-commemorative-museum-guided-tour) makes the through-line coherent.\n\n**The Tokugawa Art Museum.** The Owari Tokugawa family's own possessions, kept together for four centuries — armour, tea utensils, Noh costumes, wedding trousseaus. [Guided](/japan/nagoya/nagoya-tokugawa-art-museum-guided-tour), it explains how a warrior class became a class of patrons.\n\n**Atsuta Shrine.** One of Shinto's most important sites, holding one of the three imperial regalia, in a large wooded precinct in the middle of the city.\n\n**Osu.** The shopping arcades — second-hand clothes, electronics, anime goods, street food, antiques, around a temple. The most enjoyable two hours in central Nagoya, and where the [maid cafe](/japan/nagoya/nagoya-osu-maid-cafe-experience) is.\n\n**Ghibli Park**, in Aichi Expo Park outside the city, for anyone who cares about the films. Tickets are date-and-time specific and sell out; book well ahead.",
+            tourCard: TOUR_CARD_TOYOTA,
+          },
+          {
+            title: "The Food Is a Genuine Reason to Come",
+            icon: "Utensils",
+            content: "Nagoya-meshi is a distinct regional cuisine and it is unlike anything in Tokyo or Kyoto. The reason is **Hatcho miso** — pure soybean miso from Okazaki nearby, fermented in cedar barrels under stacked stones for two years or more, almost black and intensely savoury.\n\nWhat to eat:\n\n- **Miso katsu** — pork cutlet under a dark miso sauce. The dish that defines the city.\n- **Hitsumabushi** — grilled eel over rice, eaten in three stages: plain, with condiments, then with dashi poured over. The ritual is half the point.\n- **Tebasaki** — peppery fried chicken wings, eaten with beer.\n- **Miso nikomi udon** — thick udon simmered in miso broth in a clay pot, served aggressively hot.\n- **Ogura toast** — thick buttered toast with sweet red bean paste, from Nagoya's substantial coffee-shop culture.\n\nThe coffee shops deserve a note of their own: order a morning coffee in Nagoya before about eleven and you will usually be given toast and an egg with it, at no extra cost. It is a local institution.\n\nIf you want to cook rather than eat, the city has a strong set of classes — [bento with Hatcho miso](/japan/nagoya/nagoya-bento-making-hatcho-miso-soy-sauce-tasting), [udon and gyoza](/japan/nagoya/nagoya-udon-and-gyoza-cooking-class), [takoyaki](/japan/nagoya/nagoya-takoyaki-cooking-class) and [ramen in a working shop](/japan/nagoya/nagoya-ramen-making-class-at-a-working-shop).",
+          },
+          {
+            title: "So Should You Go?",
+            icon: "Calendar",
+            content: "**Yes, if:** you want Shirakawa-go, Takayama, the Kiso Valley or the Alps without an overnight; you care about industrial history or samurai material culture; you are travelling with children who would rather do a cooking class than a fifth temple; or you want Ghibli Park.\n\n**No, if:** you have ten days in Japan and have not yet seen Kyoto, Nara and Tokyo properly. Nagoya is a second-trip city or a base, not a first-trip highlight.\n\n**The honest compromise** most people should make: stop for one night on the way between Tokyo and Kyoto, use the day for a museum and Osu, and take one mountain day trip. That gets you the best of Nagoya without giving up anything you came to Japan for.",
+          },
+        ],
+        faqs: [
+          { q: "Is Nagoya worth visiting?", a: "**As a base, yes; as a sightseeing city, not particularly.** It is Japan's manufacturing capital, rebuilt after 1945 with little old fabric. Its value is exceptional museums, distinctive food, and day-trip access to Shirakawa-go, Takayama, the Kiso Valley and the Alps that no other city offers." },
+          { q: "How long should I spend in Nagoya?", a: "**One to two nights**, or three to four if you are using it as a base for mountain day trips. It does not reward a longer stay on its own." },
+          { q: "Can you go inside Nagoya Castle?", a: "**The main keep has been closed since 2018** pending a wooden rebuild. The **Honmaru Palace** beside it is open and is genuinely excellent — a decade-long reconstruction with reproduced painted screens. If you want to climb an original keep, go to Inuyama." },
+          { q: "What is Nagoya famous for?", a: "Manufacturing — Toyota began here as a loom company — and **Nagoya-meshi**, a regional cuisine built on Hatcho miso: miso katsu, hitsumabushi eel, tebasaki wings and miso nikomi udon." },
+          { q: "What are the best day trips from Nagoya?", a: "**Shirakawa-go and Takayama**, the **Magome to Tsumago** walk on the Nakasendo, **Kamikochi** in the Alps, the **Tateyama Kurobe Alpine Route**, **Ise Grand Shrine** and **Inuyama Castle**. Several of these are impractical as day trips from anywhere else." },
+          { q: "Is Nagoya good with children?", a: "Yes — better than Kyoto. Ghibli Park, the Toyota museum's live machinery, the Osu arcades and a strong set of cooking classes all work well, and the city is less demanding about quiet than Kyoto is." },
+          { q: "What is the Nagoya morning service?", a: "Order a coffee in a Nagoya kissaten before about 11:00 and you are usually served toast and a boiled egg with it at no extra charge. It is a local institution and worth doing at least once." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Nagoya worth visiting?", acceptedAnswer: { "@type": "Answer", text: "**As a base, yes; as a sightseeing city, not particularly.** It is Japan's manufacturing capital, rebuilt after 1945 with little old fabric. Its value is exceptional museums, distinctive food, and day-trip access to Shirakawa-go, Takayama, the Kiso Valley and the Alps that no other city offers." } },
+            { "@type": "Question", name: "How long should I spend in Nagoya?", acceptedAnswer: { "@type": "Answer", text: "**One to two nights**, or three to four if you are using it as a base for mountain day trips. It does not reward a longer stay on its own." } },
+            { "@type": "Question", name: "Can you go inside Nagoya Castle?", acceptedAnswer: { "@type": "Answer", text: "**The main keep has been closed since 2018** pending a wooden rebuild. The **Honmaru Palace** beside it is open and is genuinely excellent — a decade-long reconstruction with reproduced painted screens. If you want to climb an original keep, go to Inuyama." } },
+            { "@type": "Question", name: "What is Nagoya famous for?", acceptedAnswer: { "@type": "Answer", text: "Manufacturing — Toyota began here as a loom company — and **Nagoya-meshi**, a regional cuisine built on Hatcho miso: miso katsu, hitsumabushi eel, tebasaki wings and miso nikomi udon." } },
+            { "@type": "Question", name: "What are the best day trips from Nagoya?", acceptedAnswer: { "@type": "Answer", text: "**Shirakawa-go and Takayama**, the **Magome to Tsumago** walk on the Nakasendo, **Kamikochi** in the Alps, the **Tateyama Kurobe Alpine Route**, **Ise Grand Shrine** and **Inuyama Castle**. Several of these are impractical as day trips from anywhere else." } },
+            { "@type": "Question", name: "Is Nagoya good with children?", acceptedAnswer: { "@type": "Answer", text: "Yes — better than Kyoto. Ghibli Park, the Toyota museum's live machinery, the Osu arcades and a strong set of cooking classes all work well, and the city is less demanding about quiet than Kyoto is." } },
+            { "@type": "Question", name: "What is the Nagoya morning service?", acceptedAnswer: { "@type": "Answer", text: "Order a coffee in a Nagoya kissaten before about 11:00 and you are usually served toast and a boiled egg with it at no extra charge. It is a local institution and worth doing at least once." } },
+          ],
+        },
+        heroImage: TOUR_CARD_SHIRAKAWAGO_OBS.image,
       };
     default:
       return null;
