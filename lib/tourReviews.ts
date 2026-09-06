@@ -12650,5 +12650,53 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-imperial-palace-east-gardens-guided-walk") {
+        return {
+            averageRating: 4.9, totalReviews: 1845, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Neal", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Mika was an amazing guide with lots of knowledge! She answered all of our questions and took great photos of our group. Thank you Mika!" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Jim is a fantastic guide - we learned so much about Japanese history and culture! He combines deep knowledge with a great way of storytelling. Thank you!" },
+                { author: "Alan", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Wonderful guide who was very attentive to those she guided, very informative and spoke excellent English" },
+                { author: "Helena", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "I had such a lovely tour with Shin! He was incredibly kind, friendly and knowledgeable, and made the whole experience really enjoyable and easygoing. I learned a lot about the Imperial Palace, the shoguns and Japanese history along the way. He also helped me take some really nice pictures, which I especially appreciated as I was travelling on my own. A great experience and a lovely way to discover this part of Tokyo - thank you, Shin!" },
+                { author: "Dogan", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "our old imperial palace and park tour with Shin was great. He is well informed and told us about all the history of the place. Also gave us an insight about Japanese history. Before going, everybody should know there is no palace, only some ruins, ancient walls and a huge park. This way you can have realistic expectations about the tour." },
+                { author: "Neil", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "We really enjoyed this tour and learnt a great deal. Shin, our guide, was very knowledgeable and engaging. Many thanks!" },
+                { author: "Leonid", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "Very interesting and informative with awesome guide! Highly recommend for all first time visitors who care about Japan history." },
+                { author: "Manuela", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "I had a wonderful time on this tour! Shin was incredibly knowledgeable and shared so many fascinating stories and background information about the Imperial Palace and Japanese history. He took his time, answered every question, and made the whole experience both engaging and enjoyable! His English was excellent, and it was clear how passionate he is about the history and culture. I learned so much and would highly recommend this tour. Thank you for such a memorable experience!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-shinjuku-samurai-restaurant-show-two-drinks") {
+        return {
+            averageRating: 4.5, totalReviews: 1725, guideRating: 4.7, valueRating: 4.3,
+            reviews: [
+                { author: "Tobias", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Amazing Show!! From the staff to the performers everything was amazing! I highly recommend anybody to enjoy their time here and indulge into the culture of Japan" },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Really entertaining! Had high hopes with so many 5 stars reviews, was spectacle but really didn’t disappoint! Food options aren’t the best, would recommend eating before or after the show." },
+                { author: "Pia", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "It was amazing, staff were super friendly and look like they really enjoy what they do. 10/10 you have to go there!" },
+                { author: "Kiana", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Good selection of drinks and great performances. We loved the show, even if it was obviously catering to a western audience. Food was not good though." },
+                { author: "Arianna", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "I didn’t know what to expect and when I walked through the door it felt a bit like a Vegas fever dream but as soon as the show started I was AMAZED! The lights, the dancing, the music, it was a lot but in the very best way possible definitely would recommend" },
+                { author: "Harman", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "Might be my favourite thing I did in Tokyo! The performers give it their all and the animatronics make it an unforgettable experience!" },
+                { author: "Tony", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "Good fun & good value for money. This show summaries Japan up - crazy! Got two free drinks & a matcha tea plus won some popcorn. I had a good time, staff were amazing and would recommend 🙌" },
+                { author: "Scott", country: "Verified traveller review", rating: 5, date: "2026-06-23", text: "My friend and I attended and had a blast! It was such a fun show and worth the money to see! The performers were entertaining and the show was just non-stop excitement! Definitely would recommend. Also, thank you to the venue for working with me. I had purchased the 1:40pm show and wasn’t going to make it in time. I emailed and asked if they had availability could they honor our tickets at the 4pm show and they did! So thank you very much for that! Definitely a good show and great customer service!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-kawaramachi-izakaya-and-bar-crawl") {
+        return {
+            averageRating: 4.9, totalReviews: 1036, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Eoin", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Moto was a fantastic guide, we had such fun going through the bars and learning about Japanese izakaya food, sake and finally whiskey. Must do when in Kyoto!" },
+                { author: "Leta", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Kanta was such an amazing tour guide! My group was also awesome. It felt like I was hanging out with a group of my friends even though all of us met for the first time. Kanta took us to more local spots that I would have never found myself so that was amazing. Highly recommend!" },
+                { author: "Beau", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Haruka! Was a great guide and took us to the true local spots! Thanks for a great time!" },
+                { author: "Shruti", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "I’m a vegetarian and I had such amazing Japanese tapas/appetisers. All the places were like real gems and guide Taiga was the absolute best!!!" },
+                { author: "Dmytro", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Everything was great, we had a fun evening and selection of bars was amazing! Our guide Moto did a very nice job!" },
+                { author: "Swaraj", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Really loved the tour, Great & Distinct Choices of drinks, The guide was passionate & quite knowledgeable about Sake & Whiskey" },
+                { author: "Dhiraj", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "I had a great night!! Merisa introduced us to amazing food at the izakaya, sake and local areas!! The tour was very informative, and great fun! Merisa has a great vibe!! I would highly recommend the tour!!" },
+                { author: "Abigail", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Marissa was amazing, personable, informative and made our time feel so special. We throughly enjoyed the tour because of Marissa’s humour and person ability! We had a wonderful time and seen some wonderful new places that we will definitely return to! Thank you so much Marissa! - Abigail and Jack" },
+            ],
+        };
+    }
+
     return null;
 };

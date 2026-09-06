@@ -8599,5 +8599,35 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-imperial-palace-east-gardens-guided-walk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Wadakura Fountain Park, 3-1 Kokyogaien, Chiyoda City, Tokyo 100-0002 — five to ten minutes on foot from Tokyo Station or Otemachi Station." },
+      { question: "What is included?", answer: "Guided walking tour of the Imperial Palace grounds; Small group, maximum ten guests per guide; Otemon Gate, the guardhouse ruins and Ninomaru Garden; Stories from the Edo period, the samurai era and modern Tokyo; Photo-spot suggestions on request." },
+      { question: "Do we go inside the palace itself?", answer: "No. The current imperial residence is not open to the public. This walk covers the historic castle grounds and East Gardens, which is where the Edo-period structures and ruins are." },
+    ];
+  }
+
+  if (slug === "tokyo-shinjuku-samurai-restaurant-show-two-drinks") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Up to 45 people." },
+      { question: "Where does it start?", answer: "1-7-7 Kabukicho, Shinjuku City, Tokyo 160-0021 — reception is inside the entrance, a few minutes from Shinjuku Station's east exit." },
+      { question: "What is included?", answer: "Samurai Restaurant show ticket; Two drinks of your choice, alcoholic or non-alcoholic." },
+      { question: "Is this a traditional cultural show?", answer: "No, and it does not claim to be. It is a modern Kabukicho spectacle — drumming, dancers, lasers and machinery. Go for the show, not for cultural authenticity." },
+    ];
+  }
+
+  if (slug === "kyoto-kawaramachi-izakaya-and-bar-crawl") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "Kotocross Hankyu Kawaramachi, 1st and 2nd floor, northeast corner of Shijo-Kawaramachi, Shimogyo Ward, Kyoto 600-8001 — in front of the Disney Store." },
+      { question: "What is included?", answer: "Professional local guide for three hours; Guided walking route through the Kawaramachi bar and izakaya lanes; Help ordering food and drinks at each venue; Photographs taken during the evening, shared afterwards; Local recommendations and cultural context throughout." },
+      { question: "Are food and drinks included?", answer: "No. You pay at each venue, which keeps the ticket cheap and lets you set your own pace and budget. The guide will tell you what a stop costs before you order." },
+    ];
+  }
+
     return null;
 };
