@@ -13129,5 +13129,32 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "nagoya-shirakawago-takayama-observatory-day-trip") {
+        return {
+            averageRating: 4.5, totalReviews: 115, guideRating: 4.5, valueRating: 4.5,
+            reviews: [
+                { author: "Rianna", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "It was so healing! I went on a solo trip and it was so amazing to touch grass and be immersed in such a beautiful, other-worldly village. Tiger was an AMAZING guide ~ he explained each stop so well and was kind enough to help us take pictures too ✨" },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "Amy was an amazing tour guide and went through so much trouble to explain things to do in much detail." },
+                { author: "Katherine", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "The guide was clear about the instructions to the Observatory shuttle bus stop and even took us there. She even came up and took photos for us." },
+                { author: "Reinaldo", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "Meeting point easy to find. Our guide Summer was excellent! Places are very good!" },
+                { author: "Carl-Alexander Bondesson", country: "Verified traveller review", rating: 5, date: "2026-05-18", text: "Amy and our driver was top level quality of tour-guides. Calm, patient and adaptable to all the people on the tour. Very informative and helpful. Would highly recommend!" },
+                { author: "James E.", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "Not sure what happened to my prior review but this was an excellent tour. The guide (Jane Geng) did a wonderful tour for a large group of English and Mandarin speaking tourists. Ample bathroom breaks were provided throughout the day while traveling between the two scenic locations. The guide was very knowledgeable about the history of Takayama and Shirakawa, and gave helpful tips on what to eat, see and try at both locations. A huge “Shay-Shay/Domo Arrigato” to Jane and the Bus Driver (who got us there and back safely)." },
+                { author: "Edyta", country: "Verified traveller review", rating: 5, date: "2026-03-20", text: "Very good. Very punctual. Summer was a great guide- friendly, social, gave advice and all her recommendations were spot on. We went to observatory as well for the view. Summer spoke good English too. She also can speak French ( but i don’t know if she conducts tours in French)" },
+                { author: "Tomas", country: "Verified traveller review", rating: 4, date: "2025-11-01", text: "You pay basicaly for transport, so its worth it. Trip was in chinese and english. English explenations was about 10-15 minutes before a city, chinese twice that. Still got to see shirakawa and takayama, which would be hard with public transport in a day. So i can recommend, just dont expect a lot of info." },
+            ],
+        };
+    }
+
+    if (slug === "nagoya-udon-and-gyoza-cooking-class") {
+        return {
+            averageRating: 4.9, totalReviews: 10, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Alicia", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "What a wonderful experience. Yuka was a great teacher, and really made the afternoon enjoyable. Highly recommend this to anyone at all interested in food or cooking." },
+                { author: "Tavia", country: "Verified traveller review", rating: 5, date: "2026-05-15", text: "Our family of 8 did this cooking experience and it was one of our favorite activities here in Japan. We had full age ranges from grandparents, parents, a 12 year old, and a 9 month old. We loved every minute learning how to make traditional noodles from scratch, all of the different sauces and what flavors they bring out. The ladies run the kitchen were both professional and personable. I highly recommend this to anyone looking for a fun way to learn more about Japanese cuisine." },
+                { author: "Kerryn", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "It was an excellent experience to enjoy with my 14 year old son. We learnt how to make udon from scratch, and gyoza and had fun with it. They were so friendly. Would recommend - delicious!!" },
+            ],
+        };
+    }
+
     return null;
 };

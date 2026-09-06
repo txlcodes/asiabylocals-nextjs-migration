@@ -8990,5 +8990,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "nagoya-shirakawago-takayama-observatory-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 22 people." },
+      { question: "Where does it start?", answer: "CORE Meieki Building 1F, 5-10 Tsubakicho, Nakamura Ward, Nagoya 453-0015 — near Nagoya Station's west exit, behind Bic Camera." },
+      { question: "What is included?", answer: "Round-trip coach transport from Nagoya; Driver and English-speaking guide; Guided tour of Takayama's old townscape; Visit to Shirakawa-go's gassho-zukuri village; Shirakawa-go observatory viewpoint." },
+      { question: "Why does the observatory matter?", answer: "It is the only place you see the whole valley at once — sixty-odd thatched farmhouses laid out in the fields. From ground level you see individual houses and miss the layout entirely." },
+    ];
+  }
+
+  if (slug === "nagoya-udon-and-gyoza-cooking-class") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Up to 16 people." },
+      { question: "Where does it start?", answer: "Viale Storia 3F (302), 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is included?", answer: "Making udon noodles from scratch; Preparing dashi broth; Folding gyoza dumplings; Tasting of locally crafted soy sauce, miso and mirin from Aichi; Class led by a licensed nutritionist and culinary specialist." },
+      { question: "Is it suitable for children?", answer: "Yes — it is designed for mixed-age groups from small children to grandparents, and the noodle-making in particular is the part younger guests enjoy most." },
+    ];
+  }
+
+  if (slug === "nagoya-private-koto-lesson-with-musician") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 2 people." },
+      { question: "Where does it start?", answer: "1-1-17 Kaminagoya, Nishi Ward, Nagoya, Aichi 451-0025." },
+      { question: "What is included?", answer: "Private koto lesson, maximum two people; Professional koto musician as instructor; Koto instrument and all accessories; Traditional Japanese tatami classroom." },
+      { question: "Do I need musical experience?", answer: "No. The lesson covers the fundamentals from the beginning, and with a maximum of two people the instructor works with you directly throughout." },
+    ];
+  }
+
+  if (slug === "nagoya-shinto-priest-shrine-maiden-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 105 minutes." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Wakaoe Shrine, 4-14-14 Yasui, Kita Ward, Nagoya, Aichi 462-0023 — staff in Shinto priest attire meet guests at the awarding place." },
+      { question: "What is included?", answer: "Costume rental — Shinto priest or shrine maiden attire; Wakaoe Shrine admission; Instruction in Shinto ritual and etiquette; Access to areas normally restricted to shrine staff; Personalised goshuin seal." },
+      { question: "Which length should I choose?", answer: "The 105-minute session is the one that includes everything without hurrying. The shorter options cover the dressing and the shrine but less of the ritual and ceremony." },
+    ];
+  }
+
+  if (slug === "nagoya-bento-making-hatcho-miso-soy-sauce-tasting") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Viale Storia, 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is included?", answer: "Hands-on cooking session; Creation of your own Japanese bento; Tasting of several types of miso and soy sauce; Instruction on traditional Nagoya ingredients; English-speaking instructor." },
+      { question: "What is Hatcho miso?", answer: "A pure soybean miso from Okazaki, near Nagoya, fermented in cedar barrels under stacked stones for two years or more. It is almost black and far more savoury than the pale misos used elsewhere in Japan." },
+    ];
+  }
+
     return null;
 };
