@@ -9040,5 +9040,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "nagoya-ramen-making-class-at-a-working-shop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "3-1-17 Noritake Shinmachi, Nishi Ward, Nagoya 451-0051 — at Noritake Aeon, near Nagoya Station." },
+      { question: "What is included?", answer: "Ramen-making class with a trained ramen chef; Choice of white tonkotsu, black tonkotsu or kara miso tonkotsu; The bowl of ramen you make; English support from the host; Certificate of completion." },
+      { question: "Which ramen should I choose?", answer: "White tonkotsu is the plain creamy original. Black adds burnt garlic oil for a darker, deeper flavour. Kara miso is the spicy one. All three are the same base broth." },
+    ];
+  }
+
+  if (slug === "nagoya-private-kyudo-archery-lesson-toyoake-dojo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Chokushi Kyudojo, 1-1 Chokushi, Kutsukakecho, Toyoake, Aichi 470-1102 — inside Chokushi Park; look for the low wooden hall." },
+      { question: "What is included?", answer: "Three-hour private kyudo lesson with a qualified instructor; Use of bow, arrows and protective equipment; Use of the dojo; Instruction in English." },
+      { question: "Why is the first hour without an arrow?", answer: "Because in kyudo posture and breath are the practice and the arrow is the result. Form is built before anything is shot, which is how the dojo teaches its own beginners." },
+    ];
+  }
+
+  if (slug === "nagoya-shimenawa-wreath-making-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "1-1-17 Kaminagoya, Nishi Ward, Nagoya 451-0025 — a compact single-storey building with white plaster walls and wooden pillars." },
+      { question: "What is included?", answer: "One-hour shimenawa wreath-making workshop; Artificial flowers and all decorative materials; Glue gun and wire cutter; Instruction in English; Your finished wreath." },
+      { question: "Can I take it on a plane?", answer: "Yes. The wreath is made with artificial flowers rather than fresh plant material, so it crosses borders without a problem." },
+    ];
+  }
+
+  if (slug === "nagoya-aichi-wagashi-and-matcha-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 14 people." },
+      { question: "Where does it start?", answer: "Viale Storia, 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is included?", answer: "Ninety-minute hands-on wagashi and matcha workshop; Preparation of two seasonal Japanese sweets; Whisking and drinking your own matcha; Licensed nutritionist as instructor; All ingredients." },
+      { question: "How is this different from a Kyoto wagashi class?", answer: "Kyoto teaches the courtly nerikiri tradition. Aichi's confectionery is bean-based and more domestic, shaped by the same fermentation culture that produced the region's miso and soy sauce." },
+    ];
+  }
+
+  if (slug === "nagoya-toyota-commemorative-museum-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Toyota Commemorative Museum of Industry and Technology, 4-1-35 Noritake Shinmachi, Nishi Ward, Nagoya 451-0051 — a short walk from Nagoya Station." },
+      { question: "What is included?", answer: "Admission to the Toyota Commemorative Museum of Industry and Technology; English-speaking guide for three hours; Textile Machinery Pavilion; Automobile Pavilion; Live machinery demonstrations." },
+      { question: "Is this the same as the Toyota Automobile Museum?", answer: "No. This is the Commemorative Museum of Industry and Technology, in the group's original textile mill. The Toyota Kaikan and the Toyota Automobile Museum are separate sites and not included." },
+    ];
+  }
+
     return null;
 };
