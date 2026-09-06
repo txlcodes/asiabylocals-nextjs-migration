@@ -158,7 +158,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-kyoto', 'getting-around-kyoto', 'kyoto-3-day-itinerary',
     'fushimi-inari-guide', 'arashiyama-bamboo-forest-guide', 'gion-geisha-district-guide',
     'kyoto-food-guide',
-  ].map(slug => ({
+  ,
+    'kinkaku-ji-guide', 'kiyomizu-dera-guide', 'kyoto-autumn-foliage-guide', 'kyoto-cherry-blossom-guide', 'nishiki-market-guide'].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

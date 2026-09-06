@@ -178,7 +178,12 @@ export const KYOTO_INFO_SLUGS = [
   'best-time-to-visit-kyoto', 'getting-around-kyoto', 'kyoto-3-day-itinerary',
   'fushimi-inari-guide', 'arashiyama-bamboo-forest-guide', 'gion-geisha-district-guide',
   'kyoto-food-guide'
-];
+,
+  'kinkaku-ji-guide',
+  'kiyomizu-dera-guide',
+  'kyoto-autumn-foliage-guide',
+  'kyoto-cherry-blossom-guide',
+  'nishiki-market-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
 export const SAPPORO_INFO_SLUGS = [

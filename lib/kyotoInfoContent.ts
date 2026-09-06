@@ -2,6 +2,78 @@
 // Reached via getKyotoInfoContent() -> getCityInfoContent().
 import type { CityInfoData } from './cityInfoContent';
 
+const K_CLASSIC = {
+  slug: 'kyoto-classic-guided-tour',
+  title: 'KYOTO Classic Tour',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 290',
+  duration: '7 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497411/asiabylocals/tours/kyoto-kyoto-classic-tour/img0.jpg',
+};
+
+const K_MORNING = {
+  slug: 'kyoto-morning-tour',
+  title: 'Early Morning in Kyoto',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 326',
+  duration: '4 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497407/asiabylocals/tours/kyoto-early-morning-in-kyoto/img0.jpg',
+};
+
+const K_FOLIAGE = {
+  slug: 'kyoto-foliage-guided-tour',
+  title: "Kyoto's Autumn Poem: A Fall Foliage Tour",
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 260',
+  duration: '4 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497413/asiabylocals/tours/kyoto-kyoto-s-autumn-poem-a-fall-foliage-tour/img0.webp',
+};
+
+const K_NIGHT = {
+  slug: 'kyoto-night-evening-tour',
+  title: 'Kyoto Magical Night English Tour: Gion & Fushimi Inari',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 38',
+  duration: 'Full day',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497353/asiabylocals/tours/kyoto-kyoto-magical-night-english-tour-gion-fushimi-inari/img0.jpg',
+};
+
+const K_BIKE = {
+  slug: 'kyoto-bike-tour',
+  title: 'Kyoto Bike Tour',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 114',
+  duration: '3.5 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497446/asiabylocals/tours/kyoto-kyoto-bike-tour/img0.jpg',
+};
+
+const K_NISHIKI = {
+  slug: 'kyoto-food-tour',
+  title: 'Kyoto: Nishiki Market and Depachika Food Tour',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 49',
+  duration: '2 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497333/asiabylocals/tours/kyoto-kyoto-nishiki-market-and-depachika-food-tour/img0.jpg',
+};
+
+const K_FOOD = {
+  slug: 'kyoto-food-food-tour',
+  title: 'Kyoto Food Tour',
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 452',
+  duration: '3 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497394/asiabylocals/tours/kyoto-kyoto-food-tour/img0.webp',
+};
+
+const K_EVENING = {
+  slug: 'kyoto-evening-evening-tour',
+  title: "Evening Food Tour of Kyoto's Pontocho & Gion Shirakawa",
+  description: 'A top-rated Kyoto experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 246',
+  duration: '3 hours',
+  image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497447/asiabylocals/tours/kyoto-evening-food-tour-of-kyoto-s-pontocho-gion-shirakawa/img0.jpg',
+};
+
 export function getKyotoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case "best-time-to-visit-kyoto":
@@ -982,7 +1054,288 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
         heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497333/asiabylocals/tours/kyoto-kyoto-nishiki-market-and-depachika-food-tour/img0.jpg",
       };
-        default:
+        case "kinkaku-ji-guide":
+      return {
+        title: "Kinkaku-ji: The Golden Pavilion Is Seventy Years Old",
+        seoTitle: "Kinkaku-ji Golden Pavilion Guide",
+        description: "The building you photograph was finished in 1955, after a monk burned the original down in 1950. What that means for the visit, and how to see it without the crowd.",
+        fastFacts: [
+          { icon: "flame", label: "The original", value: "Burned down on 2 July 1950, deliberately, by a novice monk" },
+          { icon: "hammer", label: "What stands now", value: "A 1955 reconstruction — the gold leaf was renewed again in 1987" },
+          { icon: "clock", label: "Time needed", value: "45 minutes. The route is one-way and does not let you linger" },
+          { icon: "users", label: "Best hour", value: "At opening, around 9am, or in the last hour before closing" },
+        ],
+        sections: [
+          {
+            title: "The Building Burned Down and Nobody Mentions It",
+            icon: "flame",
+            content: "Kinkaku-ji is on every Kyoto list and almost none of them tell you the central fact: **the pavilion you are looking at was completed in 1955.**\n\nOn 2 July 1950 a 22-year-old novice monk at the temple set fire to it and attempted to take his own life on the hill behind. The pavilion, and the statues inside it, were destroyed. The reconstruction was completed five years later, and the gold leaf was renewed and thickened again in 1987.\n\nThe event became one of the most examined incidents in modern Japanese culture — Yukio Mishima's novel *The Temple of the Golden Pavilion* is built on it, as is Mizoguchi's film *Conflagration*. Knowing this changes the visit. What you are seeing is not a fourteenth-century survival; it is a country's decision about how to respond to losing one.\n\nThat is not a reason to skip it. It is a reason to look at it properly rather than photographing it and moving on.",
+            tourCard: K_CLASSIC,
+          },
+          {
+            title: "How the Visit Actually Works",
+            icon: "footprints",
+            content: "Kinkaku-ji is a **one-way loop, and a short one**. You enter, follow a fixed path around the pond, get the famous view from the near shore, continue up past the Sekkatei teahouse and out through the exit. There is no wandering and no going back for a second look.\n\nYou also cannot enter the pavilion. It has never been open to visitors in the modern era — it is a reliquary hall, not a building you walk through. The whole visit is exterior.\n\nThat is why it takes about forty-five minutes and why people who allow two hours end up confused. Plan it as a stop, not a destination. The admission ticket, incidentally, is printed as a paper *ofuda* charm rather than a ticket stub — keep it.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "Timing Is the Whole Game",
+            icon: "clock",
+            content: "The pond-side viewpoint is a single narrow spot with a railing, and everyone funnels through it. Between about 10am and 3pm it is three deep and you will queue to stand at the front.\n\n**Go at opening.** Kinkaku-ji opens at 9am, earlier than most Kyoto temples, and the first thirty minutes are a different experience — particularly on a still morning, when the pond gives the full reflection that most photographs are actually of.\n\nThe late slot before closing works too and is less well known. What does not work is the middle of the day in autumn, when Kinkaku-ji, Kiyomizu-dera and Arashiyama are all simultaneously at capacity.\n\nIn **snow**, this is arguably the single best sight in Japan — gold on white — and Kyoto gets a handful of settling snowfalls most winters. If you are here and it snows overnight, drop your plans and go.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "What to Combine It With",
+            icon: "route",
+            content: "Kinkaku-ji sits in the **north-west** of the city, away from the Higashiyama and Gion cluster on the east side. Crossing between them eats an hour, so pair it with what is nearby rather than with the big eastern sights.\n\n**Ryoan-ji**, with the famous fifteen-stone dry garden, is a fifteen-minute walk or a short bus. **Ninna-ji** is just beyond it. Those three make a coherent north-west morning and almost nobody does all three, despite them being in a line.\n\nThe city bus is the standard way here and it is often full. A bike changes this — Kyoto is flat, and the north-west temples are far more pleasant to reach by bicycle than by standing on a packed bus for thirty-five minutes.",
+            tourCard: K_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "Is Kinkaku-ji the original building?", a: "No. A novice monk burned the pavilion down on 2 July 1950. What stands today is a reconstruction completed in 1955, with the gold leaf renewed again in 1987." },
+          { q: "Can you go inside the Golden Pavilion?", a: "No. Kinkaku-ji is a reliquary hall and is not open to visitors — the entire experience is from the outside, on a one-way path around the pond." },
+          { q: "How long does Kinkaku-ji take?", a: "About 45 minutes. The route is a fixed one-way loop with no backtracking, so it is a stop rather than a half-day destination." },
+          { q: "What is the best time to visit Kinkaku-ji?", a: "At opening, around 9am, when the pond is still and the reflection is clearest, or in the final hour before closing. Between 10am and 3pm the single pond-side viewpoint is heavily congested." },
+          { q: "What can I combine with Kinkaku-ji?", a: "Ryoan-ji and Ninna-ji, both a short walk or bus away in the same north-west corner. Avoid pairing it with Higashiyama or Gion in the same block of time — they are on opposite sides of the city." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Kinkaku-ji the original building?", acceptedAnswer: { "@type": "Answer", text: "No. A novice monk burned the pavilion down on 2 July 1950. What stands today is a reconstruction completed in 1955, with the gold leaf renewed again in 1987." } },
+            { "@type": "Question", name: "Can you go inside the Golden Pavilion?", acceptedAnswer: { "@type": "Answer", text: "No. Kinkaku-ji is a reliquary hall and is not open to visitors — the entire experience is from the outside, on a one-way path around the pond." } },
+            { "@type": "Question", name: "How long does Kinkaku-ji take?", acceptedAnswer: { "@type": "Answer", text: "About 45 minutes. The route is a fixed one-way loop with no backtracking, so it is a stop rather than a half-day destination." } },
+            { "@type": "Question", name: "What is the best time to visit Kinkaku-ji?", acceptedAnswer: { "@type": "Answer", text: "At opening, around 9am, when the pond is still and the reflection is clearest, or in the final hour before closing. Between 10am and 3pm the single pond-side viewpoint is heavily congested." } },
+            { "@type": "Question", name: "What can I combine with Kinkaku-ji?", acceptedAnswer: { "@type": "Answer", text: "Ryoan-ji and Ninna-ji, both a short walk or bus away in the same north-west corner. Avoid pairing it with Higashiyama or Gion in the same block of time — they are on opposite sides of the city." } },
+          ],
+        },
+        heroImage: K_CLASSIC.image,
+      };
+
+    case "kiyomizu-dera-guide":
+      return {
+        title: "Kiyomizu-dera: The Stage, the Water, and the Hill You Climb First",
+        seoTitle: "Kiyomizu-dera Guide",
+        description: "A wooden stage thirteen metres up built without nails, a waterfall you queue to drink from, and the steepest tourist approach in Kyoto. How to do it properly.",
+        fastFacts: [
+          { icon: "landmark", label: "The stage", value: "Roughly 13 m above the hillside, on a joined timber frame using no nails" },
+          { icon: "droplet", label: "Otowa waterfall", value: "Three streams; you are meant to drink from one, not all three" },
+          { icon: "mountain", label: "The approach", value: "A steep 10-15 minute climb up Matsubara-dori from the bus stop" },
+          { icon: "clock", label: "Best hour", value: "Opens at 6am — the earliest major temple in Kyoto" },
+        ],
+        sections: [
+          {
+            title: "It Opens at Six in the Morning",
+            icon: "sunrise",
+            content: "This is the most useful fact about Kiyomizu-dera and it is buried in most guides: **the temple opens at 6:00am**, hours before anything else in Kyoto.\n\nThat single detail solves the biggest problem with the place. By ten in the morning the approach streets are shoulder to shoulder, the stage is a slow-moving queue, and photographs are of other people's phones. At six-thirty the same hill is nearly empty, the light is coming up over the city, and you can stand on the stage alone.\n\nIt is genuinely worth the alarm. If you do one early start in Kyoto, do this one — not Fushimi Inari, which is open twenty-four hours and can be done at any odd hour, and not Kinkaku-ji, which does not open until nine.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "The Stage, and Why It Has No Nails",
+            icon: "landmark",
+            content: "The main hall's veranda — the *butai*, or stage — projects out over the hillside about thirteen metres up, carried on a lattice of zelkova pillars joined without a single nail. The joinery is the structure.\n\nIt was built for performance: sacred dance and music offered towards the Kannon enshrined inside, with the city as the backdrop. The Japanese expression *Kiyomizu no butai kara tobioriru* — 'to jump off the stage at Kiyomizu' — means to take a decisive leap, and it comes from an Edo-period belief that surviving the jump would grant a wish. Records suggest a few hundred people actually tried it. It was banned in the 1870s.\n\nThe hall came through a multi-year roof restoration that finished around 2020, so the cypress-bark roof you see now is freshly rebuilt rather than weathered. If you saw photos of it wrapped in scaffolding, that period is over.",
+            tourCard: K_CLASSIC,
+          },
+          {
+            title: "The Waterfall: Pick One Stream",
+            icon: "droplet",
+            content: "Below the stage, the **Otowa waterfall** splits into three channels, and there is usually a queue with long-handled cups.\n\nThe three streams are popularly associated with longevity, success in study, and fortune in love. The convention is that you drink from **one** — choosing all three is considered greedy and, by the same folklore, cancels the benefit. Whether you take that seriously or not, drinking from one and moving on is also what keeps the queue moving.\n\nThe temple's name comes from this water: *kiyomizu* means pure water, and the spring is why a temple was founded on this spot in 778, long before the stage or the city around it.",
+            tourCard: K_NIGHT,
+          },
+          {
+            title: "The Approach Is Half the Visit",
+            icon: "footprints",
+            content: "You reach Kiyomizu-dera by climbing, and the climb is the part people remember. **Matsubara-dori**, and the lanes of **Sannenzaka** and **Ninenzaka** that branch off it, are preserved stone-paved streets of wooden shopfronts — pottery, pickles, yatsuhashi cinnamon sweets, matcha soft serve.\n\nIt is steep and it is busy. Sannenzaka literally means 'three-year slope', and local superstition holds that a fall there brings three years of bad luck — a joke with a practical basis, because the stones are worn smooth and genuinely slippery in rain.\n\nDo the climb slowly on the way up and shop on the way down. Coming down these lanes towards Yasaka Shrine and Gion in the late afternoon is one of the best walks in the city, and it links the whole eastern side into a single route rather than three separate bus journeys.",
+            tourCard: K_BIKE,
+          },
+        ],
+        faqs: [
+          { q: "What time does Kiyomizu-dera open?", a: "6:00am — the earliest of Kyoto's major temples. Arriving between 6 and 7:30 means an almost empty stage and approach, compared with heavy crowds from mid-morning." },
+          { q: "Was Kiyomizu-dera really built without nails?", a: "The main hall's stage is carried on a frame of zelkova pillars joined by traditional joinery rather than nails. The hall completed a multi-year roof restoration around 2020, so the cypress-bark roof is newly rebuilt." },
+          { q: "How many streams should I drink from at Otowa waterfall?", a: "One. The three streams are associated with longevity, study and love, and drinking from all three is traditionally considered greedy — and it holds up the queue." },
+          { q: "Is the walk up to Kiyomizu-dera steep?", a: "Yes — 10 to 15 minutes uphill from the bus stop along Matsubara-dori, with the Sannenzaka and Ninenzaka stone lanes branching off. The stones are worn and slippery in rain." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What time does Kiyomizu-dera open?", acceptedAnswer: { "@type": "Answer", text: "6:00am — the earliest of Kyoto's major temples. Arriving between 6 and 7:30 means an almost empty stage and approach, compared with heavy crowds from mid-morning." } },
+            { "@type": "Question", name: "Was Kiyomizu-dera really built without nails?", acceptedAnswer: { "@type": "Answer", text: "The main hall's stage is carried on a frame of zelkova pillars joined by traditional joinery rather than nails. The hall completed a multi-year roof restoration around 2020, so the cypress-bark roof is newly rebuilt." } },
+            { "@type": "Question", name: "How many streams should I drink from at Otowa waterfall?", acceptedAnswer: { "@type": "Answer", text: "One. The three streams are associated with longevity, study and love, and drinking from all three is traditionally considered greedy — and it holds up the queue." } },
+            { "@type": "Question", name: "Is the walk up to Kiyomizu-dera steep?", acceptedAnswer: { "@type": "Answer", text: "Yes — 10 to 15 minutes uphill from the bus stop along Matsubara-dori, with the Sannenzaka and Ninenzaka stone lanes branching off. The stones are worn and slippery in rain." } },
+          ],
+        },
+        heroImage: K_MORNING.image,
+      };
+
+    case "kyoto-autumn-foliage-guide":
+      return {
+        title: "Kyoto in Autumn: When the Colour Peaks and Where to Stand",
+        seoTitle: "Kyoto Autumn Foliage Guide",
+        description: "Kyoto's autumn is later than most of Japan and shorter than people expect. When it actually peaks, which temples light up at night, and how to handle the crowds.",
+        fastFacts: [
+          { icon: "leaf", label: "Peak", value: "Mid to late November in the city; earlier in the northern hills" },
+          { icon: "mountain", label: "Hills first", value: "Ohara and Kurama turn roughly a week before the city centre" },
+          { icon: "moon", label: "Night illuminations", value: "Many temples open after dark for a few weeks only, with separate tickets" },
+          { icon: "users", label: "Crowds", value: "Kyoto's single busiest tourist period, alongside cherry blossom" },
+        ],
+        sections: [
+          {
+            title: "Kyoto Turns Late, and That Is the Useful Part",
+            icon: "calendar",
+            content: "Autumn colour sweeps Japan from north to south over about two months. Hokkaido turns in early October; Kyoto is near the end of the sequence, usually **peaking mid to late November** and often holding into the first days of December.\n\nThat lateness is genuinely useful for planning. A trip that is too late for the Japanese Alps or Tohoku can still be perfectly timed for Kyoto, which is why so many autumn itineraries finish here rather than starting here.\n\nWithin Kyoto there is a second layer of sequencing by elevation. The northern hill villages — **Ohara**, **Kurama**, **Takao** — turn roughly a week ahead of the city floor. If you arrive and the city maples are still green, go north for a day; if you arrive late and the city has dropped, the low-lying gardens hold longer. Either way you are rarely completely out of luck within a two-week window.",
+            tourCard: K_FOLIAGE,
+          },
+          {
+            title: "The Night Illuminations Are a Separate Event",
+            icon: "moon",
+            content: "For a few weeks each autumn a number of temples reopen after dark and light the maples. This is not a general policy — it is specific temples, specific date ranges published each year, and usually a **separate admission** from the daytime ticket.\n\nThe experience is genuinely different: the trees are lit from below and reflected in dark ponds, and the crowd, while large, moves along a defined route. **Kiyomizu-dera**, **Kodai-ji** and **Eikan-do** are among the best known for it; the northern Ohara temples and Arashiyama also run their own.\n\nTwo practical points. Dates change every year with the forecast, so check the current season rather than an old blog. And queues form before opening — being in line fifteen minutes early is the difference between walking in and standing on a street for forty minutes.",
+            tourCard: K_NIGHT,
+          },
+          {
+            title: "Where to Go When Everywhere Is Full",
+            icon: "users",
+            content: "Autumn is Kyoto's busiest period alongside cherry blossom, and the famous places behave accordingly. **Tofuku-ji**'s Tsutenkyo bridge is the most photographed autumn view in the city and consequently is a managed one-way queue at peak, with photography stopped on the bridge itself.\n\nThe workable strategy is time, not place. Almost every major temple is calm for the first hour after opening and again in the last hour, and brutal from 10am to 3pm. If your only free time is midday, deliberately choose the second tier — **Shoren-in**, **Konchi-in**, the garden temples around Nanzen-ji — which have real maples and a fraction of the load.\n\nThe northern hills are the other release valve. **Ohara**, an hour out by bus, gives you Sanzen-in's moss and maple garden in something close to quiet even at the height of the season.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "What Else November Gets You",
+            icon: "sparkles",
+            content: "Beyond the leaves, November is arguably the best month to be in Kyoto full stop. Daytime temperatures sit in a comfortable range for walking all day, humidity has gone, and the light is low and warm from mid-afternoon.\n\nIt is also the month when Kyoto's seasonal food is at its most distinctive — matsutake mushrooms, chestnut sweets, hot *yudofu* tofu hotpot at the temple restaurants around Nanzen-ji, which exists precisely because it suits this weather.\n\nThe trade is cost and availability. Accommodation prices in Kyoto in late November behave like a festival period, and the good ryokan sell out months out. If November is the plan, book the room before you book anything else.",
+            tourCard: K_FOOD,
+          },
+        ],
+        faqs: [
+          { q: "When is the best time to see autumn colour in Kyoto?", a: "Mid to late November for the city, often holding into early December. The northern hill areas — Ohara, Kurama, Takao — turn about a week earlier, so you have a two-week window overall." },
+          { q: "Do Kyoto temples light up the autumn leaves at night?", a: "Some do, for a few weeks each year, with published date ranges and a separate admission from the daytime ticket. Kiyomizu-dera, Kodai-ji and Eikan-do are among the best known. Dates change annually, so check the current season." },
+          { q: "How do I avoid the autumn crowds in Kyoto?", a: "Go in the first hour after opening or the last before closing — most temples are calm then and heaving from 10am to 3pm. For midday, choose second-tier gardens like Shoren-in and the Nanzen-ji sub-temples, or head an hour north to Ohara." },
+          { q: "Is Kyoto's autumn later than the rest of Japan?", a: "Yes. Colour moves north to south over about two months, and Kyoto sits near the end of it. A trip too late for Tohoku or the Alps is often perfectly timed for Kyoto." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "When is the best time to see autumn colour in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Mid to late November for the city, often holding into early December. The northern hill areas — Ohara, Kurama, Takao — turn about a week earlier, so you have a two-week window overall." } },
+            { "@type": "Question", name: "Do Kyoto temples light up the autumn leaves at night?", acceptedAnswer: { "@type": "Answer", text: "Some do, for a few weeks each year, with published date ranges and a separate admission from the daytime ticket. Kiyomizu-dera, Kodai-ji and Eikan-do are among the best known. Dates change annually, so check the current season." } },
+            { "@type": "Question", name: "How do I avoid the autumn crowds in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Go in the first hour after opening or the last before closing — most temples are calm then and heaving from 10am to 3pm. For midday, choose second-tier gardens like Shoren-in and the Nanzen-ji sub-temples, or head an hour north to Ohara." } },
+            { "@type": "Question", name: "Is Kyoto's autumn later than the rest of Japan?", acceptedAnswer: { "@type": "Answer", text: "Yes. Colour moves north to south over about two months, and Kyoto sits near the end of it. A trip too late for Tohoku or the Alps is often perfectly timed for Kyoto." } },
+          ],
+        },
+        heroImage: K_FOLIAGE.image,
+      };
+
+    case "kyoto-cherry-blossom-guide":
+      return {
+        title: "Cherry Blossom in Kyoto: A One-Week Window and How to Use It",
+        seoTitle: "Kyoto Cherry Blossom Guide",
+        description: "Kyoto's sakura peak usually lands in the first week of April and lasts about a week. Where to go on each day of it, and what to do if you have arrived at the wrong time.",
+        fastFacts: [
+          { icon: "flower", label: "Typical peak", value: "Around late March to the first week of April, varying yearly" },
+          { icon: "clock", label: "How long", value: "Roughly a week from full bloom to petal fall, weather permitting" },
+          { icon: "wind", label: "The risk", value: "One day of hard rain or wind can end it early" },
+          { icon: "calendar", label: "Backup", value: "Late-blooming varieties at Ninna-ji and Mount Yoshino extend the season" },
+        ],
+        sections: [
+          {
+            title: "The Window Is Short and the Forecast Moves",
+            icon: "clock",
+            content: "Kyoto's cherry blossom is not a season, it is roughly **a week**. Full bloom typically arrives around the end of March or the first days of April, and the trees hold for about seven days before the petals go — faster if there is heavy rain or wind.\n\nThe date moves year to year by up to a fortnight depending on the winter, and the official forecasts are only issued and refined a few weeks out. This creates the central planning problem: flights and hotels are booked months ahead, and the blossom is not confirmed until long after.\n\nThe honest advice is to **book the first week of April and accept the variance**, then use the sequencing tricks below if you land early or late. Anyone promising you an exact date in January is guessing.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "If You Are Early or Late, There Are Answers",
+            icon: "lightbulb",
+            content: "Not all cherries bloom together, and Kyoto's planting is varied enough to buy you days at either end.\n\n**Early**: weeping cherries (*shidarezakura*) generally come out before the standard Somei-Yoshino. Maruyama Park's great weeping cherry and the gardens at the Imperial Palace are the classic early options.\n\n**Late**: **Ninna-ji** is the famous one — its Omuro cherries are a low-growing, late-flowering variety that typically peaks a week or more after the rest of the city has finished. If everything else has dropped, go there.\n\n**Later still**: **Mount Yoshino** in Nara, about ninety minutes away, has 30,000 trees banded up a mountainside that bloom in sequence from bottom to top, stretching its own season to a fortnight. It is the standard rescue plan for a mistimed Kansai trip.",
+            tourCard: K_CLASSIC,
+          },
+          {
+            title: "Where to Actually Stand",
+            icon: "map-pin",
+            content: "The **Philosopher's Path** — a canal-side walk between Ginkaku-ji and Nanzen-ji, lined the whole way with cherry trees — is the signature Kyoto sakura walk and it is packed at peak. Go at dawn; at 7am it is transformed.\n\n**Maruyama Park** beside Yasaka Shrine is where Kyoto goes to picnic under the trees, and its lit weeping cherry at night is the city's most famous single tree. It is loud, food-stalled and social rather than serene, which is the point of *hanami*.\n\n**Arashiyama** puts blossom along the Katsura river against the mountains, and the **Keage Incline** — a disused railway slope near Nanzen-ji — is free, walkable on the sleepers, and photogenic in a way the temple gardens are not.\n\nFor the least crowded good option, the **Kamo river** banks run for kilometres through the middle of the city with cherries most of the way and no admission, no gate and no queue.",
+            tourCard: K_BIKE,
+          },
+          {
+            title: "What Peak Season Costs You",
+            icon: "wallet",
+            content: "Sakura week is the most expensive and most crowded week of Kyoto's year, alongside late November. Hotel rates multiply, the good ryokan are gone months ahead, and the trains from Tokyo run full.\n\nIt also overlaps with the tail of Japan's own domestic travel, so you are competing with a large local crowd, not just international visitors. Restaurant reservations in Gion and Pontocho need to be made well in advance rather than on the day.\n\nIf the blossom is not the specific reason for the trip, **do not come this week**. Kyoto in mid-May or early June — after the crowds, with the fresh maple green and the moss gardens at their best — is a far better city to actually spend time in, and costs a fraction of it.",
+            tourCard: K_EVENING,
+          },
+        ],
+        faqs: [
+          { q: "When do cherry blossoms bloom in Kyoto?", a: "Usually from around the end of March into the first week of April, with full bloom lasting roughly a week. The exact date shifts year to year by up to two weeks and is only forecast a few weeks in advance." },
+          { q: "What if I arrive after the cherry blossom has finished in Kyoto?", a: "Go to Ninna-ji, whose late-flowering Omuro cherries typically peak a week or more after the rest of the city. Failing that, Mount Yoshino in Nara blooms in elevation bands over about a fortnight and is roughly ninety minutes away." },
+          { q: "Where is the best cherry blossom spot in Kyoto?", a: "The Philosopher's Path for the classic walk, Maruyama Park for night viewing and picnics, Arashiyama for blossom against the mountains, and the Kamo river banks for the least crowded option with no admission." },
+          { q: "Is Kyoto worth visiting outside cherry blossom season?", a: "Yes, and it is a better city to spend time in. Mid-May and early June bring fresh maple green and the moss gardens at their peak, with a fraction of the crowds and cost of sakura week." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "When do cherry blossoms bloom in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Usually from around the end of March into the first week of April, with full bloom lasting roughly a week. The exact date shifts year to year by up to two weeks and is only forecast a few weeks in advance." } },
+            { "@type": "Question", name: "What if I arrive after the cherry blossom has finished in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Go to Ninna-ji, whose late-flowering Omuro cherries typically peak a week or more after the rest of the city. Failing that, Mount Yoshino in Nara blooms in elevation bands over about a fortnight and is roughly ninety minutes away." } },
+            { "@type": "Question", name: "Where is the best cherry blossom spot in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "The Philosopher's Path for the classic walk, Maruyama Park for night viewing and picnics, Arashiyama for blossom against the mountains, and the Kamo river banks for the least crowded option with no admission." } },
+            { "@type": "Question", name: "Is Kyoto worth visiting outside cherry blossom season?", acceptedAnswer: { "@type": "Answer", text: "Yes, and it is a better city to spend time in. Mid-May and early June bring fresh maple green and the moss gardens at their peak, with a fraction of the crowds and cost of sakura week." } },
+          ],
+        },
+        heroImage: K_MORNING.image,
+      };
+
+    case "nishiki-market-guide":
+      return {
+        title: "Nishiki Market: What to Eat, and the Rule That Changed",
+        seoTitle: "Nishiki Market Guide",
+        description: "Four hundred metres of covered food stalls in central Kyoto. What is actually worth eating, and why you should not walk and eat at the same time.",
+        fastFacts: [
+          { icon: "map-pin", label: "Where", value: "A covered arcade running about 400 m, one block north of Shijo-dori" },
+          { icon: "clock", label: "Hours", value: "Most stalls roughly 9am to 6pm; individual closing days vary" },
+          { icon: "alert-triangle", label: "Etiquette", value: "Eat at the stall you bought from — walking while eating is discouraged" },
+          { icon: "utensils", label: "Age", value: "A fish market on this site for centuries; 'Kyoto's kitchen'" },
+        ],
+        sections: [
+          {
+            title: "Do Not Walk and Eat",
+            icon: "alert-triangle",
+            content: "This is the thing to know before you arrive. Nishiki has actively discouraged **walking while eating** — *tabearuki* — for years now, with signs along the arcade asking people to eat at or beside the stall they bought from.\n\nIt is not arbitrary. The arcade is narrow, it gets extremely dense, and a moving crowd holding open skewers and sauce produces exactly the mess and damage you would expect. Many stalls now provide a small standing counter or a bin next to the shop for precisely this reason.\n\nSo the correct rhythm is: buy one thing, stand, eat it, bin the stick, move on. It is slower than grazing and it is the difference between being a welcome customer and being the problem the signs are about.",
+            tourCard: K_NISHIKI,
+          },
+          {
+            title: "What Is Actually Worth Eating",
+            icon: "utensils",
+            content: "Nishiki has both genuinely old Kyoto food businesses and stalls that exist purely for tourists. The distinction is usually visible: the specialists sell one category and sell it deep.\n\nThe things worth queuing for are the Kyoto specialities rather than the generic street food. **Tsukemono** — Kyoto's pickles, the city's most serious preserved-food tradition, sold by the tub with tasting slices offered. **Tamagoyaki**, rolled omelette cut warm and eaten in slices. **Yuba**, the delicate skin lifted from simmering soymilk, which is a Kyoto temple-cuisine staple and hard to find fresh anywhere else. **Fresh soy milk doughnuts**, **matcha** in every form, and grilled skewers of seafood.\n\nWhat to skip: anything wrapped in plastic that could have come from a convenience store, and the whole-crab-on-a-stick style items that photograph better than they taste.",
+            tourCard: K_FOOD,
+          },
+          {
+            title: "Go Before Eleven",
+            icon: "clock",
+            content: "Nishiki is 400 metres long and about three and a half metres wide in places. From late morning it fills to the point where you shuffle, and by mid-afternoon in peak season it can be genuinely unpleasant.\n\nMost stalls open around **9am** and the first two hours are the good ones — stock is fresh, the shopkeepers have time to explain things, and you can see the produce rather than the back of someone's head.\n\nNote also that individual stalls take their own closing days, often mid-week, and it is a market rather than a food court — plenty of shops sell raw fish, knives, dashi and pickles to cook with, not snacks. That mix is exactly what makes it a real market, but it means not every shop is there to feed you on the spot.",
+            tourCard: K_NISHIKI,
+          },
+          {
+            title: "What Is Around It",
+            icon: "route",
+            content: "Nishiki runs parallel to **Shijo-dori**, Kyoto's main shopping street, and ends near **Teramachi** and **Shinkyogoku**, two covered shopping arcades that cross it. That whole block is the commercial heart of the city and is walkable in an afternoon.\n\nAt the eastern end sits **Nishiki Tenmangu**, a small shrine wedged tightly between shopfronts with lanterns down both sides — an easy thing to miss and a good marker for the end of the arcade.\n\nFrom there **Pontocho**, the narrow lane of restaurants along the Kamo river, is a few minutes' walk and is where to go for dinner after grazing here in the morning. Doing Nishiki early, the city-centre arcades in the afternoon and Pontocho at night is one of the better non-temple days in Kyoto.",
+            tourCard: K_EVENING,
+          },
+        ],
+        faqs: [
+          { q: "Can you eat while walking in Nishiki Market?", a: "It is discouraged, with signs along the arcade asking visitors not to. The arcade is narrow and gets very crowded. Buy one item, eat it at or beside the stall, dispose of the stick there, then move on." },
+          { q: "What should I eat at Nishiki Market?", a: "Kyoto specialities rather than generic street food — tsukemono pickles, tamagoyaki rolled omelette, fresh yuba tofu skin, soy milk doughnuts and matcha. Skip anything pre-wrapped that could have come from a convenience store." },
+          { q: "What time should I go to Nishiki Market?", a: "Around opening, roughly 9am. The first two hours are the least crowded and the stock is freshest. From late morning the 400-metre arcade fills to a shuffle." },
+          { q: "Is Nishiki Market only for tourists?", a: "No. It is a working market that has been on this site for centuries and still sells raw fish, dashi, knives and pickles to people cooking at home, alongside the snack stalls." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Can you eat while walking in Nishiki Market?", acceptedAnswer: { "@type": "Answer", text: "It is discouraged, with signs along the arcade asking visitors not to. The arcade is narrow and gets very crowded. Buy one item, eat it at or beside the stall, dispose of the stick there, then move on." } },
+            { "@type": "Question", name: "What should I eat at Nishiki Market?", acceptedAnswer: { "@type": "Answer", text: "Kyoto specialities rather than generic street food — tsukemono pickles, tamagoyaki rolled omelette, fresh yuba tofu skin, soy milk doughnuts and matcha. Skip anything pre-wrapped that could have come from a convenience store." } },
+            { "@type": "Question", name: "What time should I go to Nishiki Market?", acceptedAnswer: { "@type": "Answer", text: "Around opening, roughly 9am. The first two hours are the least crowded and the stock is freshest. From late morning the 400-metre arcade fills to a shuffle." } },
+            { "@type": "Question", name: "Is Nishiki Market only for tourists?", acceptedAnswer: { "@type": "Answer", text: "No. It is a working market that has been on this site for centuries and still sells raw fish, dashi, knives and pickles to people cooking at home, alongside the snack stalls." } },
+          ],
+        },
+        heroImage: K_NISHIKI.image,
+      };
+    default:
             return null;
     }
 }

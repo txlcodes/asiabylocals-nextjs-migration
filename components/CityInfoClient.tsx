@@ -238,11 +238,18 @@ const KRABI_SIDEBAR = [
 const urlSlug = (s: string) => s.toLowerCase().trim().replace(/\s+/g, '-');
 
 const KYOTO_SIDEBAR = [
+    { name: 'Fushimi Inari Guide', slug: 'fushimi-inari-guide' },
+    { name: 'Kinkaku-ji Guide', slug: 'kinkaku-ji-guide' },
+    { name: 'Kiyomizu-dera Guide', slug: 'kiyomizu-dera-guide' },
+    { name: 'Arashiyama Bamboo', slug: 'arashiyama-bamboo-forest-guide' },
+    { name: 'Gion & Geisha', slug: 'gion-geisha-district-guide' },
+    { name: 'Nishiki Market', slug: 'nishiki-market-guide' },
+    { name: 'Autumn Foliage', slug: 'kyoto-autumn-foliage-guide' },
+    { name: 'Cherry Blossom', slug: 'kyoto-cherry-blossom-guide' },
+    { name: 'Kyoto Food Guide', slug: 'kyoto-food-guide' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-kyoto' },
     { name: 'Getting Around', slug: 'getting-around-kyoto' },
-    { name: 'Fushimi Inari Guide', slug: 'fushimi-inari-guide' },
-    { name: 'Kyoto Food Guide', slug: 'kyoto-food-guide' },
-    { name: '2-Day Itinerary', slug: 'kyoto-2-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'kyoto-3-day-itinerary' },
 ];
 
 const COLOMBO_SIDEBAR = [
