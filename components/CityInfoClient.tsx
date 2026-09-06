@@ -313,6 +313,55 @@ const KANDY_SIDEBAR = [
     { name: '2-Day Itinerary', slug: 'kandy-2-day-itinerary' },
 ];
 
+const OSAKA_SIDEBAR = [
+    { name: 'Osaka Food Guide', slug: 'osaka-food-guide' },
+    { name: 'Dotonbori Guide', slug: 'dotonbori-guide' },
+    { name: 'Osaka Castle', slug: 'osaka-castle-guide' },
+    { name: 'Shinsekai Guide', slug: 'shinsekai-guide' },
+    { name: 'Osaka Nightlife', slug: 'osaka-nightlife-guide' },
+    { name: 'Day Trip to Kyoto', slug: 'osaka-to-kyoto-day-trip' },
+    { name: 'Day Trip to Nara', slug: 'osaka-to-nara-day-trip' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-osaka' },
+    { name: 'Getting Around', slug: 'getting-around-osaka' },
+    { name: '3-Day Itinerary', slug: 'osaka-3-day-itinerary' },
+];
+
+const HIROSHIMA_SIDEBAR = [
+    { name: 'Peace Memorial Park', slug: 'peace-memorial-park-guide' },
+    { name: 'Miyajima Island', slug: 'miyajima-island-guide' },
+    { name: 'Hiroshima Food Guide', slug: 'hiroshima-food-guide' },
+    { name: 'Day Trips', slug: 'hiroshima-day-trips' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-hiroshima' },
+    { name: 'Getting Around', slug: 'getting-around-hiroshima' },
+    { name: '2-Day Itinerary', slug: 'hiroshima-2-day-itinerary' },
+];
+
+const NARA_SIDEBAR = [
+    { name: 'Nara Deer Park', slug: 'nara-deer-park-guide' },
+    { name: 'Todai-ji Temple', slug: 'todai-ji-temple-guide' },
+    { name: 'Day Trip from Kyoto or Osaka', slug: 'nara-day-trip-from-kyoto-osaka' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-nara' },
+    { name: 'Half-Day Itinerary', slug: 'nara-half-day-itinerary' },
+];
+
+const NAGOYA_SIDEBAR = [
+    { name: 'Nagoya Castle', slug: 'nagoya-castle-guide' },
+    { name: 'Nagoya Food Guide', slug: 'nagoya-food-guide' },
+    { name: 'Day Trips', slug: 'nagoya-day-trips' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-nagoya' },
+    { name: 'Getting Around', slug: 'getting-around-nagoya' },
+    { name: '2-Day Itinerary', slug: 'nagoya-2-day-itinerary' },
+];
+
+const HAKONE_SIDEBAR = [
+    { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
+    { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
+    { name: 'Hakone Onsen Guide', slug: 'hakone-onsen-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-hakone' },
+    { name: 'Getting Around', slug: 'getting-around-hakone' },
+    { name: '2-Day Itinerary', slug: 'hakone-2-day-itinerary' },
+];
+
 const SAPPORO_SIDEBAR = [
     { name: 'Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-sapporo' },
@@ -405,6 +454,11 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         bentota: BENTOTA_SIDEBAR,
         mirissa: MIRISSA_SIDEBAR,
         sapporo: SAPPORO_SIDEBAR,
+        osaka: OSAKA_SIDEBAR,
+        hiroshima: HIROSHIMA_SIDEBAR,
+        nara: NARA_SIDEBAR,
+        nagoya: NAGOYA_SIDEBAR,
+        hakone: HAKONE_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.
