@@ -8579,5 +8579,25 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-asakusa-sushi-making-class-vegan-halal-options") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 100 minutes." },
+      { question: "How big is the group?", answer: "Up to 54 people." },
+      { question: "Where does it start?", answer: "2-17-9 Kaminarimon, Taito City, Tokyo 111-0034 — three minutes from Asakusa Station." },
+      { question: "What is included?", answer: "English-speaking instructor; All ingredients for the class; The meal you make; Vegan, vegetarian, halal, gluten-free and allergy menus on request at booking." },
+      { question: "Can you cater for vegan, halal or allergy diets?", answer: "Yes — there are separate vegan, vegetarian, halal, gluten-free and allergy menus, and the allergy menu excludes meat, nuts, fruit and dairy. You must request the change when you book; the operator cannot switch menus on the day and does not accept custom ingredient specifications." },
+    ];
+  }
+
+  if (slug === "tokyo-asakusa-samurai-ninja-museum-shuriken-throwing") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Front Asakusa, 1-8-13 Nishi-Asakusa, Taito City, Tokyo 111-0035 — the entrance is to the right of the FamilyMart." },
+      { question: "What is included?", answer: "Museum entry ticket; Guided tour with an English-speaking guide; Shuriken (ninja star) throwing experience." },
+      { question: "Is it suitable for children?", answer: "Yes, and it tends to work particularly well with them. The shuriken throwing is supervised and the guided format holds attention better than reading exhibit labels." },
+    ];
+  }
+
     return null;
 };

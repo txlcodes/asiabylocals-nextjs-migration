@@ -12618,5 +12618,37 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-asakusa-sushi-making-class-vegan-halal-options") {
+        return {
+            averageRating: 4.9, totalReviews: 2258, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Jesper Jorge", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Great experience through and through. From having a really nice and knowledgeable instructor guiding us though the whole process, to tasting the finished result, the whole experience felt really rewarding!" },
+                { author: "Abishek Aman", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Great class! Was so fun learning about the history of sushi and we made so many delicious sushi. Satomi was a great host!" },
+                { author: "Rakan", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Excellent activity to do while in Tokyo very informative, hands on, fun and yummy." },
+                { author: "Abby", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "We had a great experience! The class was fun and informative and our instructor, Moon, was amazing!" },
+                { author: "Chelsea", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "This was a fun super organized class to do with our group with friendly staff and teachers. Would definitely recommend while visiting Tokyo!" },
+                { author: "Emmalee", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "This was so fun! I liked the environment and the vibes of the staff!" },
+                { author: "angel", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Such a fun class! The girls were so sweet and enthusiastic, I definitely recommend as an experience. I learned so much 🥰" },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "We had so much fun in our class. Hilary, Suzy and Tomona were fun, energetic and helpful as we created our sushi masterpieces. We recommend this for anyone." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-asakusa-samurai-ninja-museum-shuriken-throwing") {
+        return {
+            averageRating: 4.6, totalReviews: 1871, guideRating: 4.8, valueRating: 4.5,
+            reviews: [
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Kei was a brilliant tore guide and lots of fun, very informative" },
+                { author: "Martina", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Great experience and so much fun! We also learnt so much. It is a great activity for families with children/teens. Having said that, we are both 30+ we didn't miss the chance to get dressed as samurai!" },
+                { author: "Sandra", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Interesting and definitely worth a visit. I highly recommend it. Thank you for all the hard work and effort that went into making this possible!" },
+                { author: "Selene", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "the tour guide was very informative. think his name was Haki. He also really engaged with the group and really funny." },
+                { author: "Kacper", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Yuga was the best guide! So amusing and so prepared about every topic! 🤩 The shuriken throwing activity was very fun! 🥷" },
+                { author: "Jeremy", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "This was a informative and fun experience! The only caution I would add is if you have trouble with stairs this may not be for you." },
+                { author: "Marinka", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Our guide Rui was lovely! She was super sweet and knowledgeable! She answered all our questions, often with a bit of humour. The museum is great for learning about Japanese history, and we definitely recommend this tour to explore it!" },
+                { author: "Gali", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "The instructor was wonderful and explained everything clearly and patiently. The ninja star throwing competition was so much fun, and dressing up at the end made the experience even more special. Both we and our children had an amazing time and highly recommend this activity!" },
+            ],
+        };
+    }
+
     return null;
 };
