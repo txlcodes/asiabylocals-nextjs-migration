@@ -104,6 +104,16 @@ const TOUR_CARD_KYOTO_BAR = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788728723/asiabylocals/tours/kyoto-kawaramachi-izakaya-and-bar-crawl/img0.jpg',
 };
 
+
+const TOUR_CARD_KNIFE = {
+    slug: 'kyoto-blacksmith-knife-making-workshop',
+    title: "Forge a Japanese Kitchen Knife in Kyoto",
+    description: 'Three hours at a working forge north of the city, with the blade boxed to take home.',
+    price: 'From $184',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733820/asiabylocals/tours/kyoto-blacksmith-knife-making-workshop/img0.jpg',
+};
+
 export function getKyotoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case "best-time-to-visit-kyoto":
@@ -1563,6 +1573,64 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_KYOTO_BAR.image,
+      };
+    case "kyoto-workshops-and-crafts":
+      return {
+        title: "Kyoto Workshops: Knives, Chopsticks, Temari, Ikebana and Sword Work",
+        seoTitle: "Kyoto Workshops and Craft Classes (2026)",
+        description: "Kyoto has more craft sessions open to visitors than any other Japanese city. Which ones are worth the money, how long each takes, and where they sit in a day.",
+        fastFacts: [
+          { icon: "Clock", label: "Most sessions", value: "One to three hours" },
+          { icon: "Wallet", label: "Range", value: "$16 to $190" },
+          { icon: "Calendar", label: "Book ahead", value: "Weeks in April and November" },
+          { icon: "Star", label: "Best use of one", value: "Early afternoon, when the sights are worst" },
+        ],
+        sections: [
+          {
+            title: "Why a Workshop Is the Best Middle of a Kyoto Day",
+            icon: "Star",
+            content: "Kyoto's sights are at their best before ten and after four, and at their worst in between — which is exactly when most visitors are out in them, queueing.\n\nA workshop solves that. Between one and three in the afternoon you are indoors, sitting down, doing something with your hands, while Kiyomizu-dera is at its most crowded. Come out at three and the city has started to empty.\n\nThe city has an unusual concentration of these sessions because it has an unusual concentration of surviving crafts — the imperial court was here for a thousand years and the trades that supplied it never fully left. Textiles in Nishijin, blades in the north, confectionery, ceramics, joinery.\n\n| Workshop | What you make | Length | From |\n|---|---|---|---|\n| [Chopstick making in Arashiyama](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) | A planed and oiled pair | 1 hour | $16 |\n| [Temari ball in Gion](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) | A silk ball from kimono fabric | 1 hour | $43 |\n| [Sushi making](/japan/kyoto/kyoto-sushi-making-class-with-footbath) | Nigiri and maki, then you eat them | 1.5 hours | $73 |\n| [Ikebana in Nishijin](/japan/kyoto/kyoto-ikebana-class-nishijin-machiya) | An arrangement, photographed in the garden | 1 hour | $146 |\n| [Chambara sword work](/japan/kyoto/kyoto-samurai-sword-chambara-filming-experience) | A filmed sequence in kimono | 1 hour | $152 |\n| [Knife forging](/japan/kyoto/kyoto-blacksmith-knife-making-workshop) | A Japanese kitchen knife | 3 hours | $184 |",
+            tourCard: TOUR_CARD_KNIFE,
+          },
+          {
+            title: "The Knife Workshop Is the One to Prioritise",
+            icon: "Star",
+            content: "If you only do one, make it this one.\n\nJapanese kitchen knives are what happened when sword smiths lost their market. The Meiji government banned the wearing of swords in 1876, and the families who had spent generations forge-welding hard steel to soft turned to kitchen blades — which is why a good Japanese knife is laminated the way a katana is, and why it holds an edge nothing European will.\n\nThe [three-hour session in Yase](/japan/kyoto/kyoto-blacksmith-knife-making-workshop), on the northern edge of the city, is the real process: you change into a smith's uniform, learn the tools, and forge and grind your own blade under working knife professionals. It is hot, physical and considerably more absorbing than any other craft session in the city, because the material fights back.\n\nA premium option upgrades the handle to wood, which is worth it if you intend to cook with it rather than display it.\n\n**One practical thing:** a knife cannot travel in cabin baggage. It goes in the hold, and the studio boxes it for that.\n\nIf you want the same tradition without three hours and a forge, the [Arashiyama chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) uses a hand plane on wood and costs a fraction as much — it is the cheapest hands-on hour in Kyoto and works well with children.",
+          },
+          {
+            title: "The Quiet Ones",
+            icon: "Info",
+            content: "Three sessions in Kyoto are less about making something than about slowing down, and they are the ones travellers most often say changed the trip.\n\n**[Zazen with a monk](/japan/kyoto/kyoto-zazen-meditation-private-temple-with-monk).** Ninety minutes inside a Higashiyama temple that is not open to the public, with a monk teaching seated meditation properly — posture, breath, and what the practice is actually for. Almost nobody manages it on a first attempt and the monk will say so. Tea in the garden afterwards.\n\n**[A sound bath on Japanese singing rings](/japan/kyoto/kyoto-private-japanese-sound-bath).** Private, two or three people, in a tatami room five minutes from Kyoto Station. Not a temple activity and not pretending to be — ninety minutes of deliberate stillness, best booked in the middle of a trip rather than at the start.\n\n**[Tea ceremony in a Fushimi machiya](/japan/kyoto/kyoto-machiya-table-style-tea-ceremony-fushimi).** Performed in the ryurei table-and-chair style, so there is no kneeling and no numb legs to distract from it. Premium Uji matcha, seasonal wagashi, and you whisk your own bowl. A personalised calligraphy souvenir comes with it.\n\nThe common thread is that all three are small — capped between two and ten people — and none of them is in the tourist centre.",
+          },
+          {
+            title: "How to Choose and Book",
+            icon: "Calendar",
+            content: "**Match the session to the day, not the other way round.** A workshop near where you already are beats a better workshop across the city — Kyoto's buses will cost you more time than the difference in quality.\n\n- **Arashiyama day:** the [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop), which is minutes from the bamboo grove.\n- **Higashiyama day:** [zazen](/japan/kyoto/kyoto-zazen-meditation-private-temple-with-monk), which meets at Kodaiji Park, or [temari in Gion](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric).\n- **Central day:** [sushi making](/japan/kyoto/kyoto-sushi-making-class-with-footbath) near Nishiki Market.\n- **Northern day:** [ikebana in Nishijin](/japan/kyoto/kyoto-ikebana-class-nishijin-machiya) or the [knife forge in Yase](/japan/kyoto/kyoto-blacksmith-knife-making-workshop).\n\n**Book ahead in April and November.** Kyoto's craft sessions fill weeks in advance during cherry blossom and autumn colour. The rest of the year a few days is usually enough.\n\n**Check what language it runs in.** Several are taught in Japanese with English support or a translator. For a hands-on craft this genuinely works — the instruction is demonstrated — but it is better known in advance.\n\n**What travels home.** Chopsticks, temari, a knife (in the hold) and calligraphy all travel well. Ikebana arrangements do not — cut flowers cannot cross a border, which is why that session photographs your work in the garden instead.\n\n**If Kyoto is booked out**, Nara is forty-five minutes away and its sessions are smaller, cheaper and rarely full — see our [Nara workshops guide](/japan/nara/nara-workshops-and-crafts).",
+          },
+        ],
+        faqs: [
+          { q: "What is the best workshop in Kyoto?", a: "The [knife forging session](/japan/kyoto/kyoto-blacksmith-knife-making-workshop) if you want the most substantial three hours — a real forge, working knife professionals, and a blade you made. The [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) is the best cheap hour." },
+          { q: "When in the day should I do a workshop?", a: "**Early afternoon.** Kyoto's sights are worst between ten and four, so being indoors and sitting down through that window is the best use of the day." },
+          { q: "Can I take a knife home on a plane?", a: "Only in hold luggage, never in the cabin. The studio boxes it for travel." },
+          { q: "Are the workshops taught in English?", a: "Many are. Several run in Japanese with English support or a translator, which works well for hands-on craft since the instruction is demonstrated — but check before booking." },
+          { q: "How far ahead should I book?", a: "**Weeks ahead in April and November**, when Kyoto's sessions fill during cherry blossom and autumn colour. A few days is usually enough the rest of the year." },
+          { q: "Which workshop is best with children?", a: "The [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) and the [temari ball session](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) — both an hour, nothing hot or sharp, and they leave holding the result. The [kid-friendly ninja class](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) is the other reliable one." },
+          { q: "What if everything is fully booked?", a: "Go to Nara. It is forty-five minutes away and its craft sessions are smaller, cheaper and rarely full." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best workshop in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "The [knife forging session](/japan/kyoto/kyoto-blacksmith-knife-making-workshop) if you want the most substantial three hours — a real forge, working knife professionals, and a blade you made. The [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) is the best cheap hour." } },
+            { "@type": "Question", name: "When in the day should I do a workshop?", acceptedAnswer: { "@type": "Answer", text: "**Early afternoon.** Kyoto's sights are worst between ten and four, so being indoors and sitting down through that window is the best use of the day." } },
+            { "@type": "Question", name: "Can I take a knife home on a plane?", acceptedAnswer: { "@type": "Answer", text: "Only in hold luggage, never in the cabin. The studio boxes it for travel." } },
+            { "@type": "Question", name: "Are the workshops taught in English?", acceptedAnswer: { "@type": "Answer", text: "Many are. Several run in Japanese with English support or a translator, which works well for hands-on craft since the instruction is demonstrated — but check before booking." } },
+            { "@type": "Question", name: "How far ahead should I book?", acceptedAnswer: { "@type": "Answer", text: "**Weeks ahead in April and November**, when Kyoto's sessions fill during cherry blossom and autumn colour. A few days is usually enough the rest of the year." } },
+            { "@type": "Question", name: "Which workshop is best with children?", acceptedAnswer: { "@type": "Answer", text: "The [chopstick workshop](/japan/kyoto/kyoto-arashiyama-chopstick-making-workshop) and the [temari ball session](/japan/kyoto/kyoto-gion-temari-ball-workshop-kimono-fabric) — both an hour, nothing hot or sharp, and they leave holding the result. The [kid-friendly ninja class](/japan/kyoto/kyoto-kid-friendly-ninja-class-museum) is the other reliable one." } },
+            { "@type": "Question", name: "What if everything is fully booked?", acceptedAnswer: { "@type": "Answer", text: "Go to Nara. It is forty-five minutes away and its craft sessions are smaller, cheaper and rarely full." } },
+          ],
+        },
+        heroImage: TOUR_CARD_KNIFE.image,
       };
     default:
             return null;

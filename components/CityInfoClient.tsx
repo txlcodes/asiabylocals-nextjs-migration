@@ -253,6 +253,7 @@ const KYOTO_SIDEBAR = [
     { name: 'Uji Tea Guide', slug: 'uji-tea-guide' },
     { name: 'Kyoto with Kids', slug: 'kyoto-with-kids' },
     { name: 'Where to Stay in Kyoto', slug: 'where-to-stay-in-kyoto' },
+    { name: 'Kyoto Workshops & Crafts', slug: 'kyoto-workshops-and-crafts' },
 ];
 
 const COLOMBO_SIDEBAR = [

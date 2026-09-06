@@ -195,7 +195,8 @@ export const KYOTO_INFO_SLUGS = [
   'nishiki-market-guide',
   'uji-tea-guide',
   'kyoto-with-kids',
-  'where-to-stay-in-kyoto'];
+  'where-to-stay-in-kyoto',
+  'kyoto-workshops-and-crafts'];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
 export const SAPPORO_INFO_SLUGS = [
