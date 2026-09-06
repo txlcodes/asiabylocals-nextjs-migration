@@ -120,6 +120,16 @@ const TOUR_CARD_TATAMI = {
   image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788084350/asiabylocals/tours/nara-nara-tatami-making-workshop-with-tea-and-sweets/img0.jpg',
 };
 
+
+const TOUR_CARD_NARA_CALLIG = {
+    slug: 'nara-japanese-calligraphy-experience',
+    title: "Japanese Calligraphy in Nara",
+    description: 'An hour with a professional calligrapher, your work mounted on a shikishi board.',
+    price: 'From $43',
+    duration: '1 hour',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788734165/asiabylocals/tours/nara-japanese-calligraphy-experience/img0.jpg',
+};
+
 export function getNaraInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
     case 'best-time-to-visit-nara':
@@ -588,6 +598,69 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_YOSHINO.image,
+      };
+    case "nara-workshops-and-crafts":
+      return {
+        title: "Nara's Workshops: Chopsticks, Tatami, Calligraphy and Sweets",
+        seoTitle: "Nara Workshops and Crafts Guide (2026)",
+        description: "Nara is a half-day of deer and temples for most visitors. Its craft workshops are the reason to give it a full one — and they are cheaper and smaller than Kyoto's.",
+        fastFacts: [
+          { icon: "Clock", label: "Typical length", value: "One to one and a half hours" },
+          { icon: "Users", label: "Group sizes", value: "Usually five or fewer" },
+          { icon: "Wallet", label: "Typical price", value: "$30 to $50" },
+          { icon: "MapPin", label: "Where", value: "Mostly walkable from Kintetsu Nara Station" },
+        ],
+        sections: [
+          {
+            title: "Why Do a Workshop in Nara Rather Than Kyoto",
+            icon: "Star",
+            content: "Almost everyone treats Nara as a half-day: train in, deer, Todai-ji, train out. That is a reasonable plan and it wastes the thing Nara is quietly better at than Kyoto.\n\n**The groups are smaller.** Kyoto's craft sessions routinely take ten to thirty people. Nara's frequently cap at four or five, and several are run by the maker in their own workshop rather than by a company running six sessions a day.\n\n**They are cheaper.** The same kind of session costs noticeably less here than in Gion.\n\n**They are not booked out.** Kyoto's workshops fill weeks ahead in spring and autumn. Nara's usually have space.\n\n**And they fill the right gap in the day.** Nara's sights are concentrated in the morning — the deer are most active early, Todai-ji is emptiest before ten — which leaves an afternoon that most visitors spend on the train back. An hour making something is a better use of it.\n\nThe practical shape: temples and deer from nine to one, lunch in Naramachi, a workshop at two, and back to Kyoto or Osaka by five.",
+            tourCard: TOUR_CARD_NARA_CALLIG,
+          },
+          {
+            title: "What Is Available",
+            icon: "Info",
+            content: "| Workshop | What you make | Length |\n|---|---|---|\n| [Chopstick making](/japan/nara/nara-chopsticks-mini-tour) | A pair of wooden chopsticks, planed and oiled | 45 minutes |\n| [Tatami mini mat](/japan/nara/nara-townhouse-mini-tour) | A miniature tatami mat, in a townhouse, with tea | 1 hour |\n| [Calligraphy](/japan/nara/nara-japanese-calligraphy-experience) | Your kanji and your name on a shikishi board | 1 hour |\n| [Wagashi with a master](/japan/nara/nara-wagashi-workshop-with-matcha-tasting) | Three seasonal sweets, eaten with his matcha | 1.5 hours |\n| [Kimono rental with a tea ceremony](/japan/nara/naramachi-old-town-mini-tour) | Dressed, then a tea ceremony | Varies |\n\n**The wagashi session is the standout.** It caps at five, takes place in the confectioner's own atelier behind his shop, and a translator sits with you so you can actually talk to him. You make three sweets by three different techniques and eat them with a matcha he selects. Very little in Kyoto is that personal at that price.\n\n**The calligraphy session** is the one to pick if you want something to hang. The instructor writes your name in brush strokes first — which is consistently the moment people remember — and your finished piece is mounted on a shikishi board so it travels home flat.\n\n**The chopstick and tatami workshops** are the best with children: short, tactile, nothing sharp enough to worry about, and they leave holding the result.",
+          },
+          {
+            title: "Nara's Craft Traditions, Briefly",
+            icon: "Star",
+            content: "These workshops are not inventions for tourists. Nara has specific craft lineages, most of them older than Kyoto's, because this was the capital first.\n\n**Nara sumi** — ink sticks. Nara has made the ink used for calligraphy since the Muromachi period, and still produces the majority of Japan's handmade sumi. Soot from burned oil or pine is bound with animal glue, moulded, and dried for months. It is why a calligraphy session here has a local claim that one in another city does not.\n\n**Nara fude** — brushes, made alongside the ink for the same reason.\n\n**Nara-zarashi** — a fine bleached hemp cloth, historically used for samurai summer garments and priests' robes, produced in the region for centuries.\n\n**Akahada-yaki** — the local pottery, patronised by tea masters.\n\n**Knives.** There is a working knife shop culture in Nara that most visitors never see, which is why several of the bike tours here include a knife shop stop.\n\nNone of this is signposted the way Kyoto's crafts are, which is exactly why a workshop is a better way into it than a museum.",
+          },
+          {
+            title: "Fitting One Into a Day Trip",
+            icon: "Calendar",
+            content: "Most workshops sit within walking distance of **Kintetsu Nara Station**, which is the more central of the two stations — JR Nara is about fifteen minutes further out.\n\nA shape that works:\n\n**09:00** Arrive from Kyoto or Osaka. Go straight to Nara Park while the deer are active and the crowds are thin.\n\n**09:30–11:00** Todai-ji and the Great Buddha, before the coaches.\n\n**11:00–12:30** Kasuga Taisha along the stone-lantern path, then down through the park.\n\n**12:30** Lunch in **Naramachi**, the old merchant quarter south of the centre — narrow lanes, converted townhouses, and considerably quieter than the park.\n\n**14:00** Workshop. An hour, indoors, sitting down, at the point in the day when everyone has walked enough.\n\n**15:30** Coffee or a walk through Naramachi, and back to Kyoto or Osaka.\n\nIf you would rather have the whole thing organised, our [three UNESCO sites walk](/japan/nara/kintetsu-nara-station-guided-tour) covers the morning with a guide and leaves the afternoon free.",
+          },
+          {
+            title: "Booking Notes",
+            icon: "AlertTriangle",
+            content: "**Book ahead, but not far ahead.** These are small operations. A few days' notice is usually enough outside cherry blossom and autumn peak, and it is often necessary because a session capped at four fills with one family.\n\n**Language.** Several are taught in Japanese with a translator or with English support rather than by an English-speaking instructor. That works fine for a hands-on craft and is worth knowing before you arrive — the wagashi session in particular is better for it, because the translator makes the conversation with the maker possible.\n\n**What you can take home.** Chopsticks, calligraphy on a board, a mini tatami mat and a wreath all travel well. Fresh sweets do not — eat them there, which is the intention anyway.\n\n**Time of day.** Most run early afternoon, which is the correct slot in a Nara day. Confirm your session before you plan the morning around it.\n\n**Combining with Kyoto.** If you are staying in Kyoto, Nara is 45 minutes each way, so a workshop still fits comfortably into a day trip without rushing the temples.",
+          },
+        ],
+        faqs: [
+          { q: "Why do a craft workshop in Nara rather than Kyoto?", a: "**Smaller groups, lower prices and better availability.** Nara sessions often cap at four or five and are frequently run by the maker; Kyoto's take ten to thirty and book out weeks ahead in season." },
+          { q: "Which Nara workshop is best?", a: "The [wagashi session](/japan/nara/nara-wagashi-workshop-with-matcha-tasting) — five people maximum, in the confectioner's own atelier, with a translator so you can talk to him. For something to take home, the [calligraphy class](/japan/nara/nara-japanese-calligraphy-experience) mounts your work on a board." },
+          { q: "Are the workshops good for children?", a: "The [chopstick](/japan/nara/nara-chopsticks-mini-tour) and [tatami](/japan/nara/nara-townhouse-mini-tour) sessions are the best with children — short, tactile and nothing hot or sharp." },
+          { q: "Do I need to book in advance?", a: "Yes, but a few days is usually enough outside peak season. Sessions capped at four or five fill with a single family, so do not turn up expecting a place." },
+          { q: "Are they taught in English?", a: "Some are; several are taught in Japanese with English support or a translator. That works well for hands-on craft, and in the wagashi session the translator is what makes the conversation with the master possible." },
+          { q: "When in the day should I do one?", a: "**Early afternoon.** Nara's sights are best in the morning — the deer are active and Todai-ji is emptiest before ten — so a workshop fills the part of the day most visitors spend on the train home." },
+          { q: "What crafts is Nara actually known for?", a: "**Nara sumi**, the ink sticks used in calligraphy — Nara still makes most of Japan's handmade sumi — along with brushes, Nara-zarashi bleached hemp cloth, Akahada-yaki pottery and a working knife trade." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Why do a craft workshop in Nara rather than Kyoto?", acceptedAnswer: { "@type": "Answer", text: "**Smaller groups, lower prices and better availability.** Nara sessions often cap at four or five and are frequently run by the maker; Kyoto's take ten to thirty and book out weeks ahead in season." } },
+            { "@type": "Question", name: "Which Nara workshop is best?", acceptedAnswer: { "@type": "Answer", text: "The [wagashi session](/japan/nara/nara-wagashi-workshop-with-matcha-tasting) — five people maximum, in the confectioner's own atelier, with a translator so you can talk to him. For something to take home, the [calligraphy class](/japan/nara/nara-japanese-calligraphy-experience) mounts your work on a board." } },
+            { "@type": "Question", name: "Are the workshops good for children?", acceptedAnswer: { "@type": "Answer", text: "The [chopstick](/japan/nara/nara-chopsticks-mini-tour) and [tatami](/japan/nara/nara-townhouse-mini-tour) sessions are the best with children — short, tactile and nothing hot or sharp." } },
+            { "@type": "Question", name: "Do I need to book in advance?", acceptedAnswer: { "@type": "Answer", text: "Yes, but a few days is usually enough outside peak season. Sessions capped at four or five fill with a single family, so do not turn up expecting a place." } },
+            { "@type": "Question", name: "Are they taught in English?", acceptedAnswer: { "@type": "Answer", text: "Some are; several are taught in Japanese with English support or a translator. That works well for hands-on craft, and in the wagashi session the translator is what makes the conversation with the master possible." } },
+            { "@type": "Question", name: "When in the day should I do one?", acceptedAnswer: { "@type": "Answer", text: "**Early afternoon.** Nara's sights are best in the morning — the deer are active and Todai-ji is emptiest before ten — so a workshop fills the part of the day most visitors spend on the train home." } },
+            { "@type": "Question", name: "What crafts is Nara actually known for?", acceptedAnswer: { "@type": "Answer", text: "**Nara sumi**, the ink sticks used in calligraphy — Nara still makes most of Japan's handmade sumi — along with brushes, Nara-zarashi bleached hemp cloth, Akahada-yaki pottery and a working knife trade." } },
+          ],
+        },
+        heroImage: TOUR_CARD_NARA_CALLIG.image,
       };
     default:
       return null;

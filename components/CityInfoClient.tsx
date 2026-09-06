@@ -363,6 +363,7 @@ const NARA_SIDEBAR = [
     { name: 'Day Trip from Kyoto or Osaka', slug: 'nara-day-trip-from-kyoto-osaka' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-nara' },
     { name: 'Half-Day Itinerary', slug: 'nara-half-day-itinerary' },
+    { name: 'Nara Workshops & Crafts', slug: 'nara-workshops-and-crafts' },
 ];
 
 const NAGOYA_SIDEBAR = [
