@@ -12570,5 +12570,53 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-asakusa-sumo-dinner-show-geisha-hot-pot") {
+        return {
+            averageRating: 4.8, totalReviews: 8288, guideRating: 4.8, valueRating: 4.6,
+            reviews: [
+                { author: "Anabel", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "food was really good and we had so much fun, it was my son´s favorite activity on our trip" },
+                { author: "Mike", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "We had so much fun. The food is great and all you can eat. Learned so much and had a great time." },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "This was a fantastic activity. Well worth the money. Service and entertainment was fantastic. Would recommend to anyone and also great for families." },
+                { author: "Majella", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "This is a fantastic experience, highly recommend it. Suitable for all, family, couples, friends. A great night of fun, entertainment and insight to Sumo wrestling. If you weren’t a fan beforehand you will be after. It’ll become one of your favourite sports that you will want to watch with friends whilst having a beer…." },
+                { author: "Marina", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Amazing experience with a little bit of history. Great fun for all and would do it again." },
+                { author: "Matteo", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Such a great and entertaining experience getting to know more about Sumo while enjoying some great food and beer! Shoutout to Asanohide and Asanohishi!" },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "I haven’t laughed so hard in a long time. What an amazing show! 100% recommend!" },
+                { author: "Samuel", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Wonderful experience 10000Stars great time for all ages kids to grand parents!) Please come to enjoy this wonderful and tons of laughter! There wonderful staff always very kind and caring. Thank you !)) Will return again. Thank you Sam- USA" },
+            ],
+        };
+    }
+
+    if (slug === "mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai") {
+        return {
+            averageRating: 4.8, totalReviews: 5800, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Graeme", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Virginia was a great guide. She had exceptional communication in multiple languages and kept the day happy. She also was very clear to organize everyone to manage the day so we arrived back on time. It was also great that we saw Mt Fuji. A memorable day." },
+                { author: "Pooja", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Our guide, Anne Hathaway, was an absolute charmer! Throughout the journey, she shared so many fascinating details about Japan’s history, culture, and local people. It was a very enjoyable and well-informed experience. Moreover, even though it was a rainy day, we were lucky enough to catch glimpses of Mt. Fuji from almost every spot. It truly was an experience to remember. 😊" },
+                { author: "Stephen", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Sun Sun (Hathaway) was an amazing tour guide! Her English was perfect and she was able to make the trip really informative, providing a great introduction into Japanese culture as well as showing us the top sights of Mount Fuji!" },
+                { author: "Eva", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Our guide Hathaway was an excellent guide, kind, patience and knowledgeable, pretty and helpful." },
+                { author: "Pei", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Hathaway was a wonderful guide who shared with us tidbits on the way, and was very thoughtful and accommodating as well. She really took the extra mile to make sure everyone was well taken care of! While it was a cloudy forecast we nonetheless managed to see Fuji. Will recommend this tour, and Hathaway of course." },
+                { author: "Maiten", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "we had a great adventure ! our guide Diffany was great !!! we get lucky we saw de mount fuji ! Great way to see plenty of beautiful places and spots ! totaly recomendable" },
+                { author: "Erin", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "The trip was amazing! We were able to visit several locations and got some amazing photos. Diffany was incredible! I would absolutely recommend this tour." },
+                { author: "Alice Pandolfo", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Hathaway was amazing. She is a great guide, and shared so much knowledge with the group!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-hop-on-hop-off-open-top-bus-ticket") {
+        return {
+            averageRating: 4.0, totalReviews: 5327, guideRating: 3.8, valueRating: 3.8,
+            reviews: [
+                { author: "Maisie", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "it was a really good service, perfect for sightseeing around the city. for that it's 5 stars, we didn't use it as much as we thought, overall the 2 day ticket was a bit of a waste and would have been better to get the trains. If you are going to be doing a lot of sightseeing, especially if youre in tokyo for a while it is well worth the money. the information guide we found a bit fiddly to use and get lined up to the bus but is very good and offers a good amount of information in plenty of languages." },
+                { author: "Esmeralda", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "It was lovely to cover most of things in a short period of time. Thank you." },
+                { author: "Casey", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "3 courses that cover most of Tokyo and only short walks to the hotspots. We only did the 1 day ticket but given how much there is to see I think the 2 day ticket would be valuable." },
+                { author: "Deepak", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "Very good and clean buses. All schedules were adhered to and it was nice to see the buses come in time." },
+                { author: "Vanessa", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "3 routes and information about it all throughout! Good value for money, I recommend it!" },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "We enjoy it . It was a good stop off to places we wanted to visitso did have to walk alot in heat." },
+                { author: "Phil", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "A great introduction to the city, the audio guide gives lots of useful information." },
+                { author: "Lynda", country: "Verified traveller review", rating: 5, date: "2026-07-13", text: "Buses were good, although difficult to see anything on the single decker bus. Also, stops seemed a little random. Not close to any main attractions. Otherwise good!" },
+            ],
+        };
+    }
+
     return null;
 };

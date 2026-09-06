@@ -8553,5 +8553,31 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-asakusa-sumo-dinner-show-geisha-hot-pot") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
+      { question: "Where does it start?", answer: "Wada Building, basement floor, 2-11-7 Asakusa, Taito City, Tokyo 111-0032 — check in at the front desk in the basement of the building with Matsuya." },
+      { question: "What is included?", answer: "Live bilingual commentary in English and Japanese; Sumo show with retired professional wrestlers; Traditional geisha dance performance; All-you-can-eat chanko chicken hot pot and Japanese dishes; One complimentary drink." },
+    ];
+  }
+
+  if (slug === "mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 100 people." },
+      { question: "Where does it start?", answer: "Tokyo Station north exit (7:30 AM) or Shinjuku west exit, SMBC meeting point (8:00 AM). The guide wears a green vest and holds a numbered red flag." },
+      { question: "What is included?", answer: "Round-trip coach transfers from the meeting point; English-speaking guide; Entry to all attractions on the route (all are free of charge)." },
+    ];
+  }
+
+  if (slug === "tokyo-hop-on-hop-off-open-top-bus-ticket") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "Where does it start?", answer: "In front of the Mitsubishi Building, 2-5 Marunouchi, Chiyoda City, Tokyo 100-0005. You can also board directly at any stop on the routes." },
+      { question: "What is included?", answer: "Unlimited travel on all three Sky Hop Bus routes; On-board audio guide in Japanese, English, Korean, Chinese, French, German and Spanish (not available on a small number of buses); Free shuttle service." },
+    ];
+  }
+
     return null;
 };
