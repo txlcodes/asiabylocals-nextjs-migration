@@ -22,6 +22,16 @@ const TOUR_CARD_SUSHI_OSAKA = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732745/asiabylocals/tours/osaka-dotonbori-sushi-making-class-halal-vegan/img0.jpg',
 };
 
+
+const TOUR_CARD_URANAMBA = {
+    slug: 'osaka-dotonbori-ura-namba-izakaya-bar-crawl',
+    title: "Ura-Namba Bar Crawl",
+    description: 'Three hours in the counters behind the neon, with a guide who can order for you.',
+    price: 'From $46',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732777/asiabylocals/tours/osaka-dotonbori-ura-namba-izakaya-bar-crawl/img0.jpg',
+};
+
 export function getOsakaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-osaka':
@@ -1312,6 +1322,69 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_SUSHI_OSAKA.image,
+      };
+    case "where-to-stay-in-osaka":
+      return {
+        title: "Where to Stay in Osaka: Kita or Minami, and Why It Is Really That Simple",
+        seoTitle: "Where to Stay in Osaka (2026)",
+        description: "Osaka's accommodation question comes down to one decision — the northern hub or the southern one. What each gives you, and when to stay in Osaka instead of Kyoto.",
+        fastFacts: [
+          { icon: "MapPin", label: "The two options", value: "Kita (Umeda) or Minami (Namba)" },
+          { icon: "Train", label: "Best for day trips", value: "Umeda" },
+          { icon: "Star", label: "Best for eating and nightlife", value: "Namba and Shinsaibashi" },
+          { icon: "Wallet", label: "Versus Kyoto", value: "Cheaper, and rooms are larger" },
+        ],
+        sections: [
+          {
+            title: "Kita or Minami",
+            icon: "Star",
+            content: "Osaka is organised around two hubs about three kilometres apart, and locals talk about the city that way. **Kita** — north — is Umeda and Osaka Station. **Minami** — south — is Namba, Shinsaibashi and Dotonbori. Almost every visitor should stay in one of them.\n\n**Kita is the transport city.** Osaka Station and Umeda's private-railway terminals put Kyoto, Kobe, Nara, Himeji and both airports within easy reach, and the area is a dense block of department stores, food halls and office towers.\n\n**Minami is the eating city.** Dotonbori, Kuromon Market, the Ura-Namba lanes, the arcades — this is the Osaka people come for, and it is at its best from six in the evening onwards.\n\nThe subway connects them in about ten minutes, so neither choice cuts you off from the other. The question is only which one you want to walk out of your hotel into.\n\n**The short recommendation:** Namba or Shinsaibashi if this is your first visit and you are here for the food and the atmosphere. Umeda if you are using Osaka as a base for Kyoto, Nara and Kobe day trips, or if you have an early flight.\n\nOne useful fact: Osaka hotels are consistently **cheaper and larger than Kyoto's**, and the city is 15 to 30 minutes from Kyoto by train. A lot of travellers should be sleeping here and commuting the other way.",
+            tourCard: TOUR_CARD_URANAMBA,
+          },
+          {
+            title: "Minami: Namba, Shinsaibashi and Dotonbori",
+            icon: "MapPin",
+            content: "**What it gets you:** the food. Dotonbori's canal and signage, Kuromon Ichiba market, Hozenji Yokocho's lantern alleys, the Ura-Namba counters behind the neon, and the Shinsaibashi shopping arcade running north for well over a kilometre under cover.\n\nIt is also the most walkable part of the city. From a hotel around Namba you can reach dinner, a bar, a market and a temple on foot, which is not true of Umeda.\n\n**What it costs you:** noise, especially at weekends, and a district that is genuinely busy at midnight. Rooms facing the main streets need earplugs.\n\n**Who it suits:** first-time visitors, anyone who came for Osaka rather than for Kansai, and anyone who wants to be out late.\n\n**Shinsaibashi** is the calmer half — one stop north, still walkable to Dotonbori, quieter at night, and closer to the department stores. If Namba sounds too loud, book here instead.\n\nMost of our Osaka experiences start in this area: the [Ura-Namba bar crawl](/japan/osaka/osaka-dotonbori-ura-namba-izakaya-bar-crawl), the [Kuromon market walk](/japan/osaka/osaka-kuromon-market-street-food-walking-tour), the [river cruise](/japan/osaka/osaka-dotonbori-river-cruise-with-guided-walk) and the [sushi class](/japan/osaka/osaka-dotonbori-sushi-making-class-halal-vegan).",
+          },
+          {
+            title: "Kita: Umeda and Osaka Station",
+            icon: "Train",
+            content: "**What it gets you:** the best transport in western Japan. JR to Kyoto in under thirty minutes, Hankyu and Hanshin to Kobe, the Midosuji subway straight down to Namba, the airport express to Kansai, and the limousine buses. If your trip is Kansai rather than Osaka, this is the correct base.\n\nUmeda is also a serious eating district in its own right, but the food is inside buildings — department store basements, restaurant floors on the tenth storey, and the underground arcades that run for kilometres beneath the station. Our [Umeda night walk](/japan/osaka/osaka-umeda-night-izakaya-walk) exists because the good izakaya here are genuinely hard to find without help.\n\n**What it costs you:** atmosphere. Umeda is towers and concourses. It is comfortable, efficient and not memorable.\n\n**What it is like at night:** quieter than Minami, and the drinking is in alleys under the tracks rather than out on the street.\n\n**Who it suits:** day trippers, business travellers, families who want a larger room, and anyone flying out of Kansai early.\n\n**A warning about the station:** Umeda is several connected stations under different names — Osaka, Umeda, Higashi-Umeda, Nishi-Umeda, Osaka-Umeda — operated by different companies. Learn which one your hotel is next to before you arrive.",
+          },
+          {
+            title: "The Other Options",
+            icon: "Info",
+            content: "**Shin-Osaka** is the Shinkansen station, one subway stop north of Umeda. Stay here only if you are arriving late and leaving early on a bullet train. There is nothing else there.\n\n**Tennoji and Abeno** are the southern hub — cheaper, with a large park, the Shitennoji temple and Japan's tallest building. It is well connected to Nara and the airport, and rates are noticeably lower than Minami. It suits budget travellers and second visits.\n\n**Bay Area** around Osaka Kaiyukan aquarium and Universal Studios Japan. Stay here only if USJ is the point of your trip — it is a long way from everything else and a poor base for the city.\n\n**Shinsekai** is cheap, characterful and a little rough by Japanese standards, which is to say entirely safe but unpolished. Kushikatsu, the Tsutenkaku tower, and a genuinely old-fashioned atmosphere. Good value; not for everyone.\n\n**Kobe and Kyoto as alternatives.** Both are close enough to base yourself in and commute. Kyoto is more atmospheric and more expensive; Kobe is quieter and has the best beef in Japan. Osaka in the middle is usually the practical choice.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "Wallet",
+            content: "**Osaka is cheaper than Kyoto and Tokyo** for the same standard, and the rooms are generally larger. For families this is the single strongest argument for basing yourself here — see our [Osaka with kids guide](/japan/osaka/osaka-with-kids).\n\n**Book ahead for April, Golden Week and November**, and for any weekend with a major event at the dome or the convention centre. Osaka fills less predictably than Kyoto but the peaks are sharp.\n\n**Airports.** Kansai International is about an hour from Namba on the Nankai Rapi:t or the JR Haruka. Itami handles domestic flights and is closer, reached by bus from Umeda and Namba. Check which one you are using before choosing a district.\n\n**The Osaka Amazing Pass** covers unlimited subway travel and free entry to a long list of attractions including Osaka Castle and the Umeda Sky Building. If you are doing more than two paid sights in a day it usually pays for itself.\n\n**Luggage.** Coin lockers at Namba and Umeda fill by mid-morning in season. Hotel-to-hotel forwarding is cheap and next-day.\n\n**Accommodation tax.** Osaka levies a per-person, per-night lodging tax above a rate threshold, collected at the hotel and usually not shown in online prices.",
+          },
+        ],
+        faqs: [
+          { q: "Should I stay in Namba or Umeda?", a: "**Namba or Shinsaibashi** if you came for Osaka — the food, Dotonbori and the nightlife are all walkable. **Umeda** if you are using Osaka as a base for Kyoto, Nara and Kobe, or flying out early." },
+          { q: "Is it better to stay in Osaka or Kyoto?", a: "Osaka is **cheaper, the rooms are larger, and Kyoto is 15 to 30 minutes away by train**. Many travellers should sleep in Osaka and commute. The trade-off is losing Kyoto's early mornings, which are its best hours." },
+          { q: "Where should I stay on a budget?", a: "**Tennoji and Abeno** in the south, or **Shinsekai** if you do not mind an unpolished district. Both are well connected and noticeably cheaper than Minami." },
+          { q: "Is Namba too noisy?", a: "It can be, especially at weekends and on street-facing rooms. **Shinsaibashi**, one stop north, is the calmer alternative and still walkable to Dotonbori." },
+          { q: "Should I stay near Universal Studios?", a: "Only if USJ is the main point of your trip. The Bay Area is a long way from the rest of the city and a poor base for seeing Osaka." },
+          { q: "Which station is Umeda?", a: "Several connected stations under different names — Osaka, Umeda, Higashi-Umeda, Nishi-Umeda and Osaka-Umeda — run by different companies. Check which one your hotel sits beside before you arrive." },
+          { q: "Is the Osaka Amazing Pass worth it?", a: "Usually, if you are doing more than two paid attractions in a day. It covers unlimited subway travel plus free entry to a long list of sights including Osaka Castle." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Should I stay in Namba or Umeda?", acceptedAnswer: { "@type": "Answer", text: "**Namba or Shinsaibashi** if you came for Osaka — the food, Dotonbori and the nightlife are all walkable. **Umeda** if you are using Osaka as a base for Kyoto, Nara and Kobe, or flying out early." } },
+            { "@type": "Question", name: "Is it better to stay in Osaka or Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Osaka is **cheaper, the rooms are larger, and Kyoto is 15 to 30 minutes away by train**. Many travellers should sleep in Osaka and commute. The trade-off is losing Kyoto's early mornings, which are its best hours." } },
+            { "@type": "Question", name: "Where should I stay on a budget?", acceptedAnswer: { "@type": "Answer", text: "**Tennoji and Abeno** in the south, or **Shinsekai** if you do not mind an unpolished district. Both are well connected and noticeably cheaper than Minami." } },
+            { "@type": "Question", name: "Is Namba too noisy?", acceptedAnswer: { "@type": "Answer", text: "It can be, especially at weekends and on street-facing rooms. **Shinsaibashi**, one stop north, is the calmer alternative and still walkable to Dotonbori." } },
+            { "@type": "Question", name: "Should I stay near Universal Studios?", acceptedAnswer: { "@type": "Answer", text: "Only if USJ is the main point of your trip. The Bay Area is a long way from the rest of the city and a poor base for seeing Osaka." } },
+            { "@type": "Question", name: "Which station is Umeda?", acceptedAnswer: { "@type": "Answer", text: "Several connected stations under different names — Osaka, Umeda, Higashi-Umeda, Nishi-Umeda and Osaka-Umeda — run by different companies. Check which one your hotel sits beside before you arrive." } },
+            { "@type": "Question", name: "Is the Osaka Amazing Pass worth it?", acceptedAnswer: { "@type": "Answer", text: "Usually, if you are doing more than two paid attractions in a day. It covers unlimited subway travel plus free entry to a long list of sights including Osaka Castle." } },
+          ],
+        },
+        heroImage: TOUR_CARD_URANAMBA.image,
       };
     default:
             return null;
