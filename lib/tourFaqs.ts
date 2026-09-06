@@ -9090,5 +9090,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "sapporo-kumiko-woodworking-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — look for the N6 sign on the facade." },
+      { question: "What is included?", answer: "Kumiko wooden coaster crafting kit; Instruction and support from staff; Introduction to the history and patterns of kumiko; Japanese tea and a light sweet; Viewing of authentic kumiko works." },
+      { question: "Do I need woodworking experience?", answer: "No. The kit is prepared so a complete beginner finishes a good piece within the ninety minutes, with staff support throughout." },
+    ];
+  }
+
+  if (slug === "sapporo-sake-tasting-through-traditional-cups") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — look for the N6 sign on the facade." },
+      { question: "What is included?", answer: "Sake tasting session; A variety of traditional handmade sake cups; Light snacks; Introduction to the craftsmanship behind each cup; Access to the traditional crafts store." },
+      { question: "Do we taste several sakes?", answer: "No — one carefully chosen sake, served in different traditional cups. Keeping the sake constant is what makes the difference between vessels obvious." },
+    ];
+  }
+
+  if (slug === "sapporo-kimono-dressing-and-matcha-tea-ceremony") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — about ten minutes on foot from Nishi 28-chome Station on the Tozai line." },
+      { question: "What is included?", answer: "Kimono selection and professional dressing; Access to the Japanese modern space and its craft displays; Matcha prepared and served in a private tea room; Traditional tea sweets; English-speaking staff." },
+      { question: "Can I wear the kimono outside?", answer: "No. This is an in-house experience and the kimono stays at the venue. If you want to walk the city in one, book a street rental instead." },
+    ];
+  }
+
+  if (slug === "yoichi-fruit-picking-nikka-distillery-shakotan-coast") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Exit 31 of Odori Subway Station, 1 Chome Kita 1 Jonishi, Chuo Ward, Sapporo 060-0001 — meet at 08:40 for an 08:50 departure." },
+      { question: "What is included?", answer: "Round-trip coach transport from Sapporo; English, Chinese and Japanese-speaking guide; Orchard admission (on the packages that include it); Visits to the Nikka Yoichi distillery, Shimamui Coast and Cape Kamui." },
+      { question: "What fruit will I pick?", answer: "Whatever is in season — cherries in July, plums and pears through late summer, apples into autumn. Shine Muscat grapes have a short Hokkaido window and are available on the option that names them." },
+    ];
+  }
+
     return null;
 };
