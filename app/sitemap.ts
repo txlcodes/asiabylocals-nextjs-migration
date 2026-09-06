@@ -206,7 +206,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const naraInfoPages = [
     'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
-  ].map(slug => ({
+  ,
+    'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

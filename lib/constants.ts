@@ -191,7 +191,12 @@ export const SAPPORO_INFO_SLUGS = [
 export const NARA_INFO_SLUGS = [
   'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
   'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary'
-];
+,
+  'kasuga-taisha-guide',
+  'naramachi-guide',
+  'nara-food-guide',
+  'getting-around-nara',
+  'mount-yoshino-cherry-blossom-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [

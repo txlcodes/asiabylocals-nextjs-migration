@@ -339,6 +339,11 @@ const HIROSHIMA_SIDEBAR = [
 const NARA_SIDEBAR = [
     { name: 'Nara Deer Park', slug: 'nara-deer-park-guide' },
     { name: 'Todai-ji Temple', slug: 'todai-ji-temple-guide' },
+    { name: 'Kasuga Taisha', slug: 'kasuga-taisha-guide' },
+    { name: 'Naramachi Old Town', slug: 'naramachi-guide' },
+    { name: 'Nara Food Guide', slug: 'nara-food-guide' },
+    { name: 'Mount Yoshino Blossom', slug: 'mount-yoshino-cherry-blossom-guide' },
+    { name: 'Getting Around', slug: 'getting-around-nara' },
     { name: 'Day Trip from Kyoto or Osaka', slug: 'nara-day-trip-from-kyoto-osaka' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-nara' },
     { name: 'Half-Day Itinerary', slug: 'nara-half-day-itinerary' },
