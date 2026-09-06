@@ -2,6 +2,16 @@
 // Reached via getOsakaInfoContent() -> getCityInfoContent().
 import type { CityInfoData } from './cityInfoContent';
 
+
+const TOUR_CARD_KUROMON = {
+    slug: 'osaka-kuromon-market-street-food-walking-tour',
+    title: "Kuromon Market Street Food Walk",
+    description: 'Four to five tastings through the market, plus Doguyasuji and Hozenji Yokocho.',
+    price: 'From $62',
+    duration: '2 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732813/asiabylocals/tours/osaka-kuromon-market-street-food-walking-tour/img0.jpg',
+};
+
 export function getOsakaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-osaka':
@@ -1169,7 +1179,68 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671644/asiabylocals/tours/osaka-full-day-private-osaka-walking-tour/img0.jpg',
       };
 
-        default:
+        case "kuromon-market-guide":
+      return {
+        title: "Kuromon Ichiba: What to Eat, What to Skip and When to Go",
+        seoTitle: "Kuromon Market Guide, Osaka (2026)",
+        description: "Osaka's kitchen is a working market that has become a tourist street. What is still genuinely good, what is overpriced theatre, and the two streets beside it worth more of your time.",
+        fastFacts: [
+          { icon: "MapPin", label: "Nearest station", value: "Nippombashi, Exit 10" },
+          { icon: "Clock", label: "Best time", value: "Before 11:00 on a weekday" },
+          { icon: "Wallet", label: "Typical stall item", value: "A few hundred to ~2,000 yen" },
+          { icon: "Star", label: "Length of the arcade", value: "About 580 metres, covered" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Kuromon Ichiba has fed Osaka since the nineteenth century and is still where a good number of Minami's restaurants buy in the morning. It is also, for the last decade, one of the most visited streets in the city — which means it now does two jobs at once, and telling them apart is the whole skill.\n\nThe covered arcade runs about **580 metres** between Nippombashi and the Sennichimae area. The wholesale end still functions; the middle is grill stalls, fruit stands and standing counters aimed squarely at visitors.\n\nThe honest position: **there is excellent food here and there is also expensive theatre**, often on adjacent stalls, and the difference is not visible from the front. Grilled scallops and oysters, tuna cut in front of you, wagyu skewers and fruit are the categories where quality is generally high. Anything sold primarily as a photograph — gold leaf on things, novelty sizes — you are paying for the picture.\n\n**Go before 11:00 on a weekday** if you want the market working rather than performing.\n\nA guide is worth it here more than in most markets, because they know which of two identical-looking stalls is the one the restaurants buy from. Our [Kuromon street food walk](/japan/osaka/osaka-kuromon-market-street-food-walking-tour) tastes four to five stalls and adds the two streets beside it.",
+            tourCard: TOUR_CARD_KUROMON,
+          },
+          {
+            title: "What Is Actually Worth Eating",
+            icon: "Utensils",
+            content: "| Category | Why it is good here | Watch for |\n|---|---|---|\n| Grilled scallops and oysters | Cooked to order on the stall, from the market's own supply | Price per piece, posted or not |\n| Tuna | Cut in front of you; several stalls specialise | Cheaper cuts sold at premium-cut prices |\n| Wagyu skewers | Genuinely good, cooked over charcoal | Grade is rarely stated — ask |\n| Fruit | Japanese fruit at its best; melon, strawberry, grapes | Presentation fruit is priced as a gift, not a snack |\n| Takoyaki and street standards | Fine, and everywhere in Osaka | No reason to queue here for it |\n\nThe general rule: **buy what is cooked in front of you from the stalls with a queue of Japanese customers**, and be sceptical of anything whose selling point is how it looks in a photograph.\n\nMost stalls now have a small standing area. Eating while walking is discouraged and increasingly signposted — the market asked visitors to stop, for reasons anyone who has seen the litter will understand.",
+          },
+          {
+            title: "The Two Streets Beside It",
+            icon: "MapPin",
+            content: "Kuromon is the draw, but the streets either side are where a lot of the value is.\n\n**Sennichimae Doguyasuji** is the kitchenware street — a few hundred metres of shops selling nothing but knives, pans, moulds, ceramics and the plastic food replicas that fill Japanese restaurant windows. For anyone who cooks, it is the best shopping in Osaka, and the knife shops will sharpen and pack a blade for travel. Remember it cannot go in cabin baggage.\n\n**Hozenji Yokocho** is two narrow stone-paved lanes behind the Dotonbori noise, lined with tiny restaurants and built around Hozenji temple, whose small statue is completely covered in moss because every passer-by throws water over it. It is the most atmospheric hundred metres in Osaka after dark and almost nobody photographing the Glico sign walks the extra two minutes to reach it.\n\nOur [market walk](/japan/osaka/osaka-kuromon-market-street-food-walking-tour) covers all three in two hours, which is the right way to see them — they are a five-minute walk apart and make no sense visited separately.",
+          },
+          {
+            title: "Timing, Crowds and Closures",
+            icon: "Clock",
+            content: "**Mornings are the market.** Wholesale activity is in the early hours; by nine the stalls are set up and by eleven the arcade is full of visitors. If you want to see it work, be there early.\n\n**Afternoons are the food street.** Perfectly enjoyable, considerably more crowded, and the stalls are cooking rather than selling ingredients.\n\n**Many stalls close by 17:00 or 18:00**, which surprises people who arrive after a day of sightseeing expecting a night market. Dotonbori and Hozenji Yokocho are the evening options, not Kuromon.\n\n**New Year** is the market's peak domestic season, when Osaka households buy for the holiday — chaotic, expensive and genuinely worth seeing if you are there in late December.\n\nIndividual stalls take irregular days off, so the arcade is never entirely uniform.",
+          },
+          {
+            title: "Getting There",
+            icon: "Train",
+            content: "**Nippombashi Station, Exit 10** puts you at the southern end of the arcade. **Namba** is a five-minute walk west, and **Dotonbori** about the same.\n\nThe practical way to use Kuromon is as the first stop of a Minami afternoon: market, then Doguyasuji, then Hozenji Yokocho, then Dotonbori as the signs come on. That sequence runs from working market to shopping street to lantern alley to neon canal in about two kilometres.\n\nIf you would rather drink than shop afterwards, the [Ura-Namba bar crawl](/japan/osaka/osaka-dotonbori-ura-namba-izakaya-bar-crawl) starts nearby and covers the counters behind the neon.",
+          },
+        ],
+        faqs: [
+          { q: "What time should I go to Kuromon Market?", a: "**Before 11:00 on a weekday** to see it working. Afternoons are busier and more oriented to visitors, and **many stalls close by 17:00 or 18:00** — it is not a night market." },
+          { q: "Is Kuromon Market a tourist trap?", a: "Partly. There is genuinely good food — grilled seafood, tuna, wagyu skewers, fruit — alongside expensive novelty items sold mainly as photographs. Buy what is cooked in front of you at stalls with Japanese customers queuing." },
+          { q: "Can I eat while walking?", a: "It is discouraged and increasingly signposted. Most stalls provide a small standing area — use it." },
+          { q: "What is Doguyasuji?", a: "**Sennichimae Doguyasuji**, the kitchenware street beside the market: knives, pans, moulds, ceramics and plastic food replicas. The best practical shopping in Osaka. A knife must travel in hold luggage." },
+          { q: "What is Hozenji Yokocho?", a: "Two stone-paved lanes of tiny restaurants behind Dotonbori, built around a temple whose statue is covered in moss from visitors throwing water on it. Two minutes from the Glico sign and far quieter." },
+          { q: "How long do I need?", a: "About two hours covers the market, Doguyasuji and Hozenji Yokocho at a reasonable pace — they are five minutes apart and work best as one route." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What time should I go to Kuromon Market?", acceptedAnswer: { "@type": "Answer", text: "**Before 11:00 on a weekday** to see it working. Afternoons are busier and more oriented to visitors, and **many stalls close by 17:00 or 18:00** — it is not a night market." } },
+            { "@type": "Question", name: "Is Kuromon Market a tourist trap?", acceptedAnswer: { "@type": "Answer", text: "Partly. There is genuinely good food — grilled seafood, tuna, wagyu skewers, fruit — alongside expensive novelty items sold mainly as photographs. Buy what is cooked in front of you at stalls with Japanese customers queuing." } },
+            { "@type": "Question", name: "Can I eat while walking?", acceptedAnswer: { "@type": "Answer", text: "It is discouraged and increasingly signposted. Most stalls provide a small standing area — use it." } },
+            { "@type": "Question", name: "What is Doguyasuji?", acceptedAnswer: { "@type": "Answer", text: "**Sennichimae Doguyasuji**, the kitchenware street beside the market: knives, pans, moulds, ceramics and plastic food replicas. The best practical shopping in Osaka. A knife must travel in hold luggage." } },
+            { "@type": "Question", name: "What is Hozenji Yokocho?", acceptedAnswer: { "@type": "Answer", text: "Two stone-paved lanes of tiny restaurants behind Dotonbori, built around a temple whose statue is covered in moss from visitors throwing water on it. Two minutes from the Glico sign and far quieter." } },
+            { "@type": "Question", name: "How long do I need?", acceptedAnswer: { "@type": "Answer", text: "About two hours covers the market, Doguyasuji and Hozenji Yokocho at a reasonable pace — they are five minutes apart and work best as one route." } },
+          ],
+        },
+        heroImage: TOUR_CARD_KUROMON.image,
+      };
+    default:
             return null;
     }
 }

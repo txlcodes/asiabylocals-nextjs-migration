@@ -331,6 +331,7 @@ const OSAKA_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-osaka' },
     { name: 'Getting Around', slug: 'getting-around-osaka' },
     { name: '3-Day Itinerary', slug: 'osaka-3-day-itinerary' },
+    { name: 'Kuromon Market', slug: 'kuromon-market-guide' },
 ];
 
 const HIROSHIMA_SIDEBAR = [
