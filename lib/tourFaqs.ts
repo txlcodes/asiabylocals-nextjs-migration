@@ -8629,5 +8629,25 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "tokyo-asakusa-coin-ring-making-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "Asakusa SP Building, 2-20-6 Nishi-Asakusa, Taito City, Tokyo 111-0035." },
+      { question: "What is included?", answer: "Guidance from skilled artisans throughout; A real Japanese coin to work with; All tools and materials; Your finished ring or charm to take home." },
+      { question: "Do I need any experience?", answer: "None. The artisans handle the stages that need real skill and hand the piece back to you between them, so you make it without needing to know how." },
+    ];
+  }
+
+  if (slug === "tokyo-asakusa-samurai-sword-lesson-armour-museum") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "1-8-13 Nishi-Asakusa, Taito City, Tokyo 111-0035 — the entrance is to the right of the FamilyMart." },
+      { question: "What is included?", answer: "Samurai sword lesson with instruction in English; Use of hakama; Use of samurai armour; Themed photo opportunities; Guided tour of the samurai and ninja museum." },
+      { question: "Are the swords real?", answer: "The lesson uses training weapons, which is standard practice for beginners in any dojo. The armour and the historic blades in the collection are genuine." },
+    ];
+  }
+
     return null;
 };

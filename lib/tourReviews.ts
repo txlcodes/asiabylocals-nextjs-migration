@@ -12698,5 +12698,37 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-asakusa-coin-ring-making-workshop") {
+        return {
+            averageRating: 4.8, totalReviews: 645, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Patrica", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "The activity was so much fun! The staff was so very nice and warm. They helped us turn an old coin into beautiful jewelry. It’s the perfect souvenir for our last day in Tokyo! 🤗☺️ love from Paris🇫🇷" },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "The activity was amazing!!! The people who helped were patient and friendly, as well as helpful and informative. The rings we made are beautiful. Such a memorable experience, I would 100% recommend this." },
+                { author: "Jeanette", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "We really enjoyed this experience. We chose this ring workshop because we needed quite large ring sizes, and this was the only one we could find with no ring size limit — a huge relief. The little pendant from the coin centre was an added bonus. Our guides, Kazu and Mao, were funny, welcoming, and incredibly helpful throughout. They made the whole experience feel relaxed and memorable for us. A wonderful activity, especially if you need flexibility with ring sizing and want guides who bring great energy." },
+                { author: "Ciril", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "It was a really great experience. The two guides were very friendly and explained a lot. I was the only customer at that time so I had a private lesson. You can chose from different coins and size. And you get to do all the steps from the coin to your ring and necklace. I can highly recommend this activity." },
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "My son and I both really enjoyed doing this together! It took us to another different part of Tokyo and gave us a great experience and we came away with two beautiful rings that we love!" },
+                { author: "Justin", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "Super fun workshop! Definitely worth it and it’s close to all the shopping markets in Asakusa." },
+                { author: "Isaiah", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "Amazing! Kazu was an awesome guy with a great personality and patient and thorough with us. We made beautiful keepsakes from our trip and my kids had a blast seeing the process and being hands on. Highly recommend for those who want the unique experience they’ll remember for a lifetime." },
+                { author: "Anmol", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "We loved our experience making our rings! It was such a fun and unique activity, and we're so happy with how our rings turned out! Our guide was super friendly, patient, and really helpful throughout the whole process. They explained each step clearly, made sure we were comfortable, and taught us so much along the way. It was so rewarding getting to make the rings ourselves and seeing them come together from start to finish. We'd definitely recommend this experience to anyone looking for something a little different and memorable! 😊" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-asakusa-samurai-sword-lesson-armour-museum") {
+        return {
+            averageRating: 4.8, totalReviews: 521, guideRating: 4.9, valueRating: 4.7,
+            reviews: [
+                { author: "NguyenHieu", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "My husband and I had an Excellent experience for sword lesson & learn a lot of Samurai Ninja history at the museum . Yuku & Yuki are both great 👍 At the end, Yuki was very nice to give us an umbrella since it was raining. Strongly recommend this activity!" },
+                { author: "Rene", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Great lesson with Kenny who put you at ease, followed by Kota with a knowledgeable tour and finished with a throwing star to targets ending, thoughlly a excellent experience." },
+                { author: "Sabrina", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Absolutely brilliant experience! We enjoyed every minute - thank you! One of my favourite activities in Tokyo!" },
+                { author: "Tim", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Koki was a great instructor for that Samurai lesson, really glad to have done those as part of our trip" },
+                { author: "William", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Really enjoyable experience - you really get to immerse yourself in the activity, handling the swords etc. And the museum is small but packs a lot in." },
+                { author: "Marian", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "We had a blast with Koki in the samurai lesson and really enjoyed learning more about samurai and ninjas with Yuto." },
+                { author: "Ellen", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Me and my group really enjoyed the Samurai experience. I am quite fascinated by the whole 'Samurai', so it was a treat to be able to experience in the most simplistic and amateur form of being a samurai. We laughed and had fun, while burning calories 🤣. Thank you for being accomodating." },
+                { author: "S", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "I’d highly recommend this lesson and tour! We had a great time and learned so much." },
+            ],
+        };
+    }
+
     return null;
 };
