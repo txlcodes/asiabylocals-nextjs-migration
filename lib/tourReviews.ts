@@ -13203,5 +13203,60 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- backfilled from source listings (2026-09) ---
+
+
+    if (slug === "nara-park-coach-full-day-tour") {
+        return {
+            averageRating: 4.3, totalReviews: 425, guideRating: 4.5, valueRating: 4.3,
+            reviews: [
+                { author: "Ryan", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "the Trip was great! my main purpose was to see the deer park. Vivi was super knowledgable, friendly and spoke English very well! she kept in contact with us by what's app, giving map directions. So was pretty much impossible to get lost. A++ Also the bus driver was excellent, I felt very safe. Book this trip, don't miss out!" },
+                { author: "Livia-Daniela", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "Excellent! I enjoyed feeding the deer a in Nara Park and visiting the temple Today -ji temple. In the afternoon I had the privilege of going to the onsen alone and have the guide Liao, from \" gogoday\" all by myself. He was kind, knowledgeable and I appreciate him for all he did for me today." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Really enjoyed the day trip. Dear park was fantastic and the onsen was relaxing. Very good itinerary" },
+                { author: "Abel", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "excellent program, mandatory go to the olsen!really a great experience. Yurika was perfect, taking us to the olsen and wait to take us back! I recomend this circuit as a great experience!" },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "Excellent trip. Yuri was a fantastic guide, gave loads of information on the area. Yuri was friendly and approachable, she also gave us recommendations on restaurants on the Osaka area. Would definitely recommend this trip." },
+                { author: "Joseph", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "This is a good day tour visiting Nara and Uji, Yurika is a good tour guide that provided knowledge and assistance when required at each location." },
+                { author: "Jazmyn", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "This was an excellent trip to get away from the city. From beginning to end you are immersed in nature." },
+                { author: "Gemma", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "What a great day, Vivi was an excellent guide clear, informative and great in sending links for the meeting places etc. Nara was great, the deer were very friendly, be careful with the crackers as they will butt you and nip you for them! Uji was so pretty and would definitely recommend going in to the temple there, it was stunning!" },
+            ],
+        };
+    }
+
+
+
+    if (slug === "nara-park-morning-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 578, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Jeffrey", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Aki was an excellent guide. She was knowledgeable, interesting and friendly. We enjoyed every minute of the tour and learned so much from her!" },
+                { author: "Annae", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Hina was an approachable, engaging, friendly and knowledgeable guide! The tour was well paced, with the appropriate amount of information and stopped in the key locations in Nara. Definitely a highlight of our stay in the area! Hina was very kind to also give us some recommendations for the rest of our trip in Japan. Thanks for a great tour ☺️" },
+                { author: "Tamara", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Kazuma was great. Explained a lot. Helped us get back to Osaka. Wish him well with his studies!" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Mike was very accommodating. They told us all about the history of the Nara buildings/temples and showed us where to get deer food to feed and pet the deers." },
+                { author: "Tesar", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Ko is an excellent guide. despite his young age he is very knowlegable and well informed. he loves his country and transmits pation ! he did really take very good care of us and we enjoyed the tour with him !" },
+                { author: "Shannon", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Mei was an engaging and educational guide through Nara's Deer Park, Temples and Shrines. It was a magical tour!" },
+                { author: "Joanne", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Our guide was informative, friendly and kind. She considered every member of the group. She had fun with us and the active children with our group. She continuously checked with us all to ensure comfort and that we could hear her information. She was truly lovely and felt like a friend. Thank you Ayame. I hope you're studies go well." },
+                { author: "Cinthya", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Haruka was an excellent guide very knowledgeable. As a native of Nara she was able to give excellent information on the tour and recommendations afterwards where to eat. She was very kind. My sixteen year old son said that our trip to Nara was the highlight of our trip to Japan so far. Highly recommend waking up early to beat the crowds and the heat." },
+            ],
+        };
+    }
+
+
+    if (slug === "kintetsu-nara-station-guided-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 42, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Jekabs", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "We booked a spontaneous tour through Nara Park yesterday. We had read the reviews beforehand and hoped to get Ken as our guide — luckily, that’s exactly what happened! Ken did a wonderful job. He explained everything about Shinto and Buddhism to us and gave us so much extra information that wasn’t even included in the tour. We had an amazing time! I can only recommend this tour, everyone should experience it at least once. Thank you so much again, Ken — it was incredibly fascinating and so much fun." },
+                { author: "Francisco Javier Padilla", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Excelent tour!! Ken was the nicest guide with very big acknowledgment of the place and history, We didnt miss a part, and enjoy every moment." },
+                { author: "Ursa", country: "Verified traveller review", rating: 5, date: "2026-07-26", text: "We loved the tour. Mr. Shigeki was a great guide and very easy to talk to. :)" },
+                { author: "Nadia", country: "Verified traveller review", rating: 5, date: "2026-07-13", text: "Very nice and interesting trip around the beautiful Nara park. I recommend to have a guide for visiting this location full of history and amazing temples. Kazumasa, our guide, was very efficient and made the trip more pleasant." },
+                { author: "Anusha", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "We had Kenichiro as our guide. He was absolutely fantastic. Very knowledgeable and friendly. Very keen to showcase Japan and great company. We visited Nara park, Todai-ji temple, Kofu-Ji temple, Kasuga Taisha, Nara park and had the best time ever. We had detailed descriptions of all of the above and it was truly enjoyable. We learned a great deal and had a wonderful day. Thank you Ken" },
+                { author: "Terry", country: "Verified traveller review", rating: 5, date: "2026-07-06", text: "We enjoyed our guide Shigeki very much. He gave us lots of good information about the area and walked us to the most important sites. His English was good and we found him very kind, “down to earth” and easy to talk to. He took good pictures of us during our walking tour. He met us right as we came out of the train station and brought us to a nice restaurant at the end of the tour." },
+                { author: "Ruben Alejandro Avendano", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "The experience was extraordinary; our guide, Sigueki, consistently demonstrated his knowledge and great willingness to help. We saw everything we needed to see, right on schedule. Many thanks." },
+                { author: "Ashley", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "My daughter (15) and I had a great day with Ken who was fantastic. We ran into traffic on the way there and Ken was so understanding and patient. Though it was raining most of the day the temperature was very mild and actually comfortable. The rain created a somewhat magical, mystical experience. It was fantastic and we would do it again, even in the rain. Thank you to Ken for an unforgettable experience with my daughter!" },
+            ],
+        };
+    }
+
+
     return null;
 };
