@@ -13274,5 +13274,37 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "osaka-kendo-samurai-training-dojo") {
+        return {
+            averageRating: 5.0, totalReviews: 183, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Steven", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "I enjoyed your training so much and staff was very professional, very knowledgeable, very friendly. I would enjoy going back several times just to have the experience" },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "I just finished a kendo martial arts class, was supposed to be a group of six or eight people but I got super lucky and I was the only one that booked the time apparently. I’m absolutely exhausted, but it was a lot of fun. Got a chance to spar with the teacher for about 15 minutes, just pouring sweat. An amazing and unique experience, absolutely a highlight of the trip!" },
+                { author: "Adam", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Incredible experience led by a wonderful team, especially Toshi San who is incredibly patient and knowledgeable I really enjoyed myself and would recommend anyone who is interested in Japanese history attend" },
+                { author: "Daniel Urcid", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "This is my second time in Japan and this has been my favorite cultural experience all thanks to Toshi and his wife" },
+                { author: "Lyne", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "My grandchildren and I had a fabulous time. The lessons were very well explained. The history was also very interesting. We had water breaks after every lessons. The costumes made us feel like real Samurais. The coaches were very pleasant. Meditation was part of the activity which was nice. I highly recommend this learning and fun activity to families. It’s very good for self esteem." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Top Event! We highly recommend it! Very nice Kendo-practise and Teachers. Thank You very much to Toshihiko and Kumiko 🌸🌸🌸🌸🌸" },
+                { author: "Nguyen Trung", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "It was challenging and a rewarding experience. Mr Toshi is an enthusiastic and knowledegable teacher." },
+                { author: "Erin", country: "Verified traveller review", rating: 5, date: "2026-07-26", text: "This was a highlight of our Japan trip for my two teens. It was informative and interactive - and we got so many great photos and videos afterward as well. Great way to spend a morning in Osaka!" },
+            ],
+        };
+    }
+
+    if (slug === "osaka-tea-ceremony-calligraphy-kimono-experience") {
+        return {
+            averageRating: 4.9, totalReviews: 230, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Colin", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Amazing experience with the family, learn a lot about the culture of the tea ceremony and our host, Sachi was amazing and very friendly!!!" },
+                { author: "Ruth", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "This was a wonderful and inspiring experience! The ladies were so careful during the dressing of the Komodo. The calligraphy was fun! The actual tea was very traditional and historical. Overall a beautiful experience." },
+                { author: "Sophie", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Women in charge were lovely, really made the whole experience as great as it was x" },
+                { author: "Zoe", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "The whole experience was amazing! Sachi is so wonderful! She spent so much time and effort on dressing me in my kimono and also doing my hair. She also made sure to take lots of pictures for me which means a lot as a solo traveller! The calligraphy was super fun but also challenging and the tea ceremony was magical, a very immersive experience to taste Japanese culture and meet a lovely friendly guide! I would highly recommend this experience to everyone!" },
+                { author: "Felicity", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Mika-sensei was absolutely delightful and made this experience so special for me and my Mum. she was incredibly accommodating for us and guided us the whole way. she explained each step of picking out the kimono and assisted with carefully dressing us and doing our hair. she even took many photos of us. The tea ceremony was the most beautiful thing I have experienced, Mika-sensei looked absolutely serene when performaning the ceremony and kindly showed me how too. Our calligraphy session was fun and informative, Mika-sensei was very encouraging and helpful! I am so pleased to have had this experience and think it is a must if visiting 💕✨" },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "Sachi and Mika were so welcoming. They helped us select and get dressed into our kimonos and took loads of photos for us. Sachi demonstrated the calligraphy and guided us on how to write a word of our choosing. Then Mika performed the tea ceremony and again we were encouraged to take part. A truly memorable experience ." },
+                { author: "Berna", country: "Verified traveller review", rating: 5, date: "2026-07-13", text: "What a wonderful activity and a way to remember the old ways of life in Japan. Our guides were very kind and knowledgeable. The kimonos were so so beautiful and our guide showed us where to buy some. Pls add this to your itinerary when you visit Osaka! You will have a wonderful time" },
+                { author: "Bill", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "It was a surprise for my wife. It started with her picking a kimono from a large selection. My choice was easy - solid blue. Then the ladies in the shop helped dress us properly and got a few photos. We then did a calligraphy lesson - they were very patient with me - I picked Samurai which had 8 strokes…. I got it after a few attempts. We finished with a tea ceremony and making matcha tea ourselves. From the street you would never guess a tea room and Japanese ha den were inside. Directions were great Overall we had a great time and recommended this to anyone who wants a few hours of low stress fun." },
+            ],
+        };
+    }
+
     return null;
 };

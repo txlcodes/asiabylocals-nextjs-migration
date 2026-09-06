@@ -9250,5 +9250,35 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "osaka-kendo-samurai-training-dojo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "1-18-2 Honjo-Higashi, Kita Ward, Osaka 531-0074." },
+      { question: "What is included?", answer: "Lecture on kendo, bushido and reiho etiquette; Full kendo uniform and protective armour; Instruction from an experienced English-speaking teacher; Sparring for guests with prior experience; Photographs in armour." },
+      { question: "Do I need martial arts experience?", answer: "No — the session is designed for beginners. Guests who do have experience can spar with a skilled practitioner instead of doing the beginner drills." },
+    ];
+  }
+
+  if (slug === "osaka-tea-ceremony-calligraphy-kimono-experience") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Hayakawa Building 2F, 5-7-21 Uehonmachi, Tennoji Ward, Osaka 543-0001 — accessible from two major stations." },
+      { question: "What is included?", answer: "Kimono costume and dressing; Simple hair styling; Calligraphy session with an instructor; Japanese tea ceremony; Traditional sweets." },
+      { question: "How many people are in a session?", answer: "A maximum of four, which makes it close to a private experience and suits families and first-timers." },
+    ];
+  }
+
+  if (slug === "kyoto-by-the-sea-day-tour-sightseeing-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Up to 45 people." },
+      { question: "Where does it start?", answer: "Nipponbashi Station Exit 2, 1-3-6 Nipponbashi, Chuo Ward, Osaka 542-0073 — meet at 7:00 AM for a 7:10 departure." },
+      { question: "What is included?", answer: "45-minute sea-view sightseeing train ride; Air-conditioned coach for the full day; Professional driver and guide; Pickup and drop-off in Osaka; All taxes, tolls, parking and fuel." },
+      { question: "What makes the train special?", answer: "It is a purpose-built observation carriage with sea-facing seats and oversized windows, and the line runs close enough to the shore in places that the water is directly below you." },
+    ];
+  }
+
     return null;
 };
