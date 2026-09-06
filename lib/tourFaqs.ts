@@ -8503,15 +8503,6 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
-  if (slug === "nara-unesco-half-day-walk-kofukuji-todaiji-kasuga") {
-    return [
-      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
-      { question: "How big is the group?", answer: "Small — a maximum of 15 people." },
-      { question: "Where does it start?", answer: "29 Higashimuke Nakamachi, Nishimikadocho, Nara 630-8215 — in the covered arcade near Kintetsu Nara Station." },
-      { question: "What is included?", answer: "English-speaking local guide for three and a half hours; Guided walking route through Nara's UNESCO World Heritage sites." },
-      { question: "Are temple admissions included?", answer: "No. The price covers the guide; entry to individual temples and shrines is paid at each gate." },
-    ];
-  }
 
   if (slug === "nara-asuka-ebike-tour-ishibutai-megaliths") {
     return [
@@ -8676,6 +8667,46 @@ if (slug === "hong-island-boat-tour") {
       { question: "Where does it start?", answer: "2-5-9 Nishi-Shinsaibashi, Chuo Ward, Osaka 542-0086 — next to the Don Quijote Midosuji store; the guide holds a sign." },
       { question: "What is included?", answer: "Guided walking tour of Dotonbori and the surrounding streets; Dotonbori River Cruise ticket; English-speaking guide." },
       { question: "Is the cruise ticket included?", answer: "Yes. Nothing further is payable at the pier." },
+    ];
+  }
+
+  if (slug === "tokyo-akihabara-anime-manga-maid-cafe-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "1-17 Sotokanda, Chiyoda City, Tokyo 101-0021 — in front of the ticket office just outside the Electric Town Gate of JR Akihabara Station." },
+      { question: "What is included?", answer: "English-speaking anime and game guide; Walking tour of Akihabara's anime, manga and game shops; One hour of maid cafe admission with a drink and a photo (on the standard tour); Two hours in the maid cafe with a dessert and a live dance performance (on the all-inclusive option)." },
+      { question: "What actually happens at a maid cafe?", answer: "It is a themed cafe with a stage show — a drink, a photograph, and on the all-inclusive option a dessert and a live dance performance. It is theatrical and family-friendly rather than anything else." },
+    ];
+  }
+
+  if (slug === "tokyo-toyosu-tuna-auction-tsukiji-market-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Lawson Toyosu Market Senkyaku Banrai, 6-5-1 Toyosu, Koto City, Tokyo 135-0061 — be there by 5:00 AM sharp; arriving around 4:45 is recommended." },
+      { question: "What is included?", answer: "Professional guided tour of Toyosu Market and the tuna auction; Personal audio guide with live interpretation of the auction signals; Transport between Toyosu and Tsukiji; Walking tour of the Tsukiji outer market." },
+      { question: "How early do I really need to be there?", answer: "5:00 AM sharp at the meeting point, so plan to arrive around 4:45. Trains are not running that early from most areas, so budget for a taxi or take the paid hotel pickup add-on." },
+    ];
+  }
+
+  if (slug === "tokyo-gotokuji-cat-temple-and-cat-cafe-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "JR Shinjuku East Exit Station Square, 3-38 Shinjuku, Shinjuku City, Tokyo 160-0022 — directly in front of the giant 3D cat screen." },
+      { question: "What is included?", answer: "Guided tour of Tokyo's cat-themed landmarks; Train fare from Shinjuku to Gotokuji; Admission to the cat cafe for a thirty-minute stay; Free drink bar at the cat cafe; English-speaking guide." },
+      { question: "Is the train fare included?", answer: "Yes, from Shinjuku out to Gotokuji. Your return from Gotokuji is your own." },
+    ];
+  }
+
+  if (slug === "tokyo-nerikiri-wagashi-making-and-tea-ceremony") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 95 minutes." },
+      { question: "How big is the group?", answer: "Up to 35 people." },
+      { question: "Where does it start?", answer: "Dai-2 Toei Building, 2-2 Kajicho, Chiyoda City, Tokyo 101-0044 — a few minutes from Kanda and Akihabara stations." },
+      { question: "What is included?", answer: "Nerikiri wagashi making session with all ingredients; Kyoto-made white and red bean paste; Tea ceremony with Uji matcha; The sweets you make and the tea you prepare." },
+      { question: "What language is the class in?", answer: "Instruction is in Japanese, with each step demonstrated as you follow along. It works well for a hands-on craft session, but book knowing there is no English-speaking instructor." },
     ];
   }
 

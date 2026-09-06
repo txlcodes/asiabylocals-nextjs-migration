@@ -12778,5 +12778,67 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "tokyo-akihabara-anime-manga-maid-cafe-tour") {
+        return {
+            averageRating: 4.8, totalReviews: 201, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Landry", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Karina was a great tour guide! She helped us find everything we needed." },
+                { author: "Romel", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "As a first-time visitor to Japan, I’m really glad I decided to book a guide to help me get my footing and feel more comfortable exploring. Karina was my tour guide, and she was great! She knew all the cool spots to check out and also shared the history and stories behind the places we visited, which made the experience even better. I’d definitely recommend this tour, especially if it’s your first time visiting Japan!" },
+                { author: "Shawn", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "Ayumi was an EXCELLENT tour guide! She was Very Knowledgeable, Friendly and took us to all the best spots that met the desires of everybody in the group. I highly recommend this tour if your interested in finding a hidden gem and let Ayumi help you find it, like she did for me 🤩" },
+                { author: "Jeffery", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "Excellent tour, going thru various stores, and alleyways. Helpful going into various stores with AC, as it was July in Tokyo, and very hot. Not much stairs, except 1 spot where we took an elevator up to 6th floor and walked slowly down 1 floor at a time looking at each item. Very manageable for older family members. We all enjoyed finding various anime merch, and seeing the local vibe. The guide got to know us, where we were from, and what kind of anime we liked so he could point it out in the various shops. Very personable person, friendly. Mous" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Tour guide was great. Was very knowledgeable about Akihabara both past and present. We visited some amazing stores and came away with some great merchandise. Would recommend any fans of nerd culture." },
+                { author: "Javier", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Ayumi was an amazing guide for our Akihabara tour! She was incredibly knowledgeable about the area’s history, anime, gaming, and otaku culture, and she explained everything in a fun and engaging way. She was also very kind, patient, and always happy to answer any questions we had, no matter how small. What really stood out was how approachable and enthusiastic she was throughout the tour. She made me feel welcome and took the time to make sure we were having a great experience. I learned a lot while also discovering places I probably would have missed on my own. Thank you, Ayumi, for making the tour such a memorable experience!" },
+                { author: "Mia", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Very Fun and interesting! Learned everything about anime and retro games ! Really recommend if you’re an anime fan!" },
+                { author: "Dierdre", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Yuka, oyr guide was amazing! Kind, thoughtful and spoke English. We, or the kids, enjoyed it so much that they wanted to go back and we did. They enjoyed the anime shops and playing the games. Really enjoyed going to the maid Cafe." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-toyosu-tuna-auction-tsukiji-market-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 27, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Krista", country: "Verified traveller review", rating: 4, date: "2026-06-26", text: "This tour was good in that you definitely got to see the tuna auction at Toyosu but these days Tsukiji is not much to look at other than more Tourist type shops and food. Our guide was from China and while very nice lacked some specific knowledge to some questions." },
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "Tim was an awesome tour guide, patient and knowledgeable. We really loved our sushi breakfast - it was the most amazing sushi! The markets were a feast for the eyes!" },
+                { author: "Per Göran", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "Wonderful tour with an excellent guide, Tim. He made the whole experience super with his happiness and high engagement." },
+                { author: "Colin", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "Tim was an excellent guide, extremely knowledgeable and patient. The tour was excellent value for money and exceeded our expectations. Would recommend!" },
+                { author: "Katherine", country: "Verified traveller review", rating: 5, date: "2026-03-16", text: "Our tour guide Emily was excellent and very knowledgeable about both markets. She also took us to some of her favorite spots and stalls." },
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2026-03-09", text: "Had an amazing tour of the markets with Alex! He was very knowledgeable about the markets and their history. He also showed us some great spots a little off the beaten path and gave excellent suggestions on where to get the best food for the best price. He kept us perfectly on schedule, and the transport between the markets was super smooth. I’ll definitely be recommending this tour to anyone looking to explore the fish markets and Tsukiji Market." },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-gotokuji-cat-temple-and-cat-cafe-tour") {
+        return {
+            averageRating: 4.9, totalReviews: 79, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Jackie", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "The trip was very good, the tour guide Hiro was very knowledgable and also considerate of us in the heat, ensuring we were ok and suggesting a tram ride instead of walk to avoid heatstroke. It was a lovely morning, I would recommend!" },
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2026-06-21", text: "Our tour was amazing, Hiro was a great tour guide. He knows his stuff and a lot about cats." },
+                { author: "Amalia", country: "Verified traveller review", rating: 5, date: "2026-05-31", text: "What a wonderful tour!! We absolutely enjoyed every minute of it. Our guide Hiro is a gem. He provided great communication and went beyond the call of duty to make sure we had the info we needed for the rest of our stay in Tokyo, and Kyoto & Osaka. Thank you so much!! 😊 This is a 100% must-do for all cat lovers." },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "Great! We had wonderful tour guides that gave us lots of extra information. We hadn’t taken public transportation in Tokyo and they helped us navigate that also. Highly recommended" },
+                { author: "Jill", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Hiro and Momo were excellent guides who care deeply about the experience! they share history and humor! we enjoyed every aspect of the tour" },
+                { author: "Sylvia", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Great tour for cat lovers, guide was full of great information and excellent, friendly and helpful." },
+                { author: "Mindy", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "Loved every single second of this tour!! If you are thinking of booking - do it. You won’t regret it. 🩷" },
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2026-05-12", text: "Hiro was an excellent guide on a very fun and informative tour!" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-nerikiri-wagashi-making-and-tea-ceremony") {
+        return {
+            averageRating: 4.8, totalReviews: 77, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Alex", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "A fun family activity and very authentic. A little loud as other participants were chatting away but we could just about still here the host, who was very good at explaining in English. It quietened down when the sweet makers left which made the tea making part more enjoyable. Worth the money and definitely a great memory to add to our holiday" },
+                { author: "Liam", country: "Verified traveller review", rating: 4, date: "2026-07-30", text: "Great Experience! I love matcha tea so I was looking forward to this sadly we were English and the guide didn’t speak fluent English which isn’t something they can help, even so it was a absolute blast of a fun time! Great." },
+                { author: "craig", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Excellent! The pace of the class was perfect. The teacher explained not only the process but also the 'why' and history. Fun!" },
+                { author: "Louise", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "It was a nice time. Not the super traditional ceremony but very educational and enjoyable" },
+                { author: "Kelicia", country: "Verified traveller review", rating: 5, date: "2026-05-13", text: "Our instructor Shunsuke was really good- our group was mixed Japanese and English speakers and he conversed in both languages and made sure everyone felt included. The session was relaxed and informative and we really enjoyed both the sweet making and matcha making" },
+                { author: "Jasmin", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "Great course! The teacher was really cute and we have learned a lot on the background of the sweets. The level of sweets making was appropriate too! Can recommend!" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2025-10-08", text: "The instructor/teacher was excellent. She explained everything in Japanese and English. I really appreciated the information about the matcha and the sweets. And it was really a lot of fun! We really enjoyed it! It was well worth the time and the cost was very reasonable. Highly recommended for anyone interested in Japanese traditional culture." },
+                { author: "Nathalie", country: "Verified traveller review", rating: 5, date: "2025-09-05", text: "It was super great! The instructor lead us by creating the two Japanese sweats and then explaining the matcha ceremony. Mostly it was in Japanese but she would often try to accommodate me for the English translations." },
+            ],
+        };
+    }
+
     return null;
 };
