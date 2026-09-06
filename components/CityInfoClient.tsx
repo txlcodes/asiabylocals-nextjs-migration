@@ -412,6 +412,7 @@ const SAPPORO_SIDEBAR = [
     { name: 'Otaru Day Trip', slug: 'otaru-day-trip-from-sapporo' },
     { name: 'Getting Around', slug: 'getting-around-sapporo' },
     { name: '3-Day Itinerary', slug: 'sapporo-3-day-itinerary' },
+    { name: 'Where to Stay in Sapporo', slug: 'where-to-stay-in-sapporo' },
 ];
 
 const TOKYO_SIDEBAR = [

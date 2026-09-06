@@ -912,6 +912,69 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: S_TOYA.image,
       };
+    case "where-to-stay-in-sapporo":
+      return {
+        title: "Where to Stay in Sapporo: Odori, Susukino or the Station",
+        seoTitle: "Where to Stay in Sapporo (2026)",
+        description: "Sapporo's centre is a grid three stops long, so the choice is simpler than in Tokyo — but winter, the Snow Festival and day trips each push you to a different block.",
+        fastFacts: [
+          { icon: "MapPin", label: "Best all-round", value: "Odori, in the middle of the grid" },
+          { icon: "Train", label: "Best for day trips", value: "Sapporo Station" },
+          { icon: "Star", label: "Best for eating and bars", value: "Susukino" },
+          { icon: "AlertTriangle", label: "Snow Festival", value: "Book 6-12 months ahead" },
+        ],
+        sections: [
+          {
+            title: "The Grid Makes This Easy",
+            icon: "Star",
+            content: "Sapporo is the one major Japanese city laid out on a numbered grid, because it was planned from scratch in the 1870s with American advice rather than growing out of a castle town. Addresses read like coordinates — north or south of Odori, east or west of the main axis — and once you understand that, navigating is trivial.\n\nThe practical consequence is that the accommodation decision is far simpler here than in Tokyo or Kyoto. **The centre is three subway stops end to end**, and all three are walkable to each other in fifteen to twenty minutes in good weather.\n\n| Area | What it is | Suits |\n|---|---|---|\n| **Sapporo Station** | The transport hub, department stores above | Day trips, arriving late, winter |\n| **Odori** | The middle, on the park, both subway lines | Most visitors |\n| **Susukino** | The nightlife and eating district | Food, bars, ramen at 1 AM |\n\nThe qualifier that changes everything is **winter**. From December to March, a fifteen-minute walk in good weather is a fifteen-minute walk through snow and wind, and the underground passages between the station and Odori become genuinely valuable. If you are coming in winter, weight your choice towards the station or Odori and towards being near a subway entrance.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "Odori: The Default",
+            icon: "MapPin",
+            content: "**Odori Park** is a green strip that runs east to west through the middle of the city, and staying on or near it puts you between the station and Susukino with a ten-minute walk to either.\n\n**What it gets you:** both subway lines cross here, the TV Tower and the park are on your doorstep, and the Snow Festival's main site is the park itself. It is quieter at night than Susukino and livelier than the station.\n\n**What it costs you:** very little. This is the compromise choice and it is the right one for most people.\n\n**In February**, if you are here for the Snow Festival, staying on Odori means walking out into it rather than commuting to it — worth paying for, and worth booking a long way ahead.\n\nThe [Sapporo old town walk](/japan/sapporo/sapporo-seafood-food-tour) and most of the city's guided walks start within a few minutes of here.",
+          },
+          {
+            title: "Sapporo Station and Susukino",
+            icon: "Train",
+            content: "**Sapporo Station** is the practical choice if your trip is Hokkaido rather than Sapporo. The airport train from New Chitose runs here directly in about forty minutes, the JR lines north and east start here, and most coach day trips depart from outside — including our [Biei and Furano day](/japan/sapporo/sapporo-biei-furano-summer-day-trip-blue-pond) and the [Yoichi and Shakotan coast tour](/japan/sapporo/yoichi-fruit-picking-nikka-distillery-shakotan-coast).\n\nIt is also the warmest choice in winter, because the station complex, the department stores and the underground passage south to Odori mean you can move a long way without going outside.\n\nThe trade-off is the usual one: it is a station district, and dinner means walking or riding a stop.\n\n**Susukino** is the largest entertainment district north of Tokyo — several thousand bars and restaurants in a dense block, and the place Sapporo's food actually is. Ramen Yokocho, the narrow alley of ramen counters, is here; so is the city's habit of eating a bowl at one in the morning after drinking, which is a genuine local custom rather than a tourist thing.\n\nStay here if the eating and drinking is the point. It is louder than the rest of the city and it is where our [bar hopping tour](/japan/sapporo/sapporo-hopping-experience) and the food crawls operate. It is not unsafe, but it is the one district in Sapporo where you will be approached by touts.",
+          },
+          {
+            title: "Winter Changes the Calculation",
+            icon: "AlertTriangle",
+            content: "Sapporo gets around five metres of snowfall a season, which is more than any other city of its size on earth. That is not a statistic to admire from a hotel booking page; it changes what a five-minute walk means.\n\n**Stay near a subway entrance.** In February the difference between a hotel three minutes from Odori Station and one twelve minutes away is the difference between going out for dinner and ordering in.\n\n**Use the underground.** The Chi-Ka-Ho passage runs about 500 metres between Sapporo Station and Odori, with shops the whole way. In winter this is the main pedestrian route, not a shortcut.\n\n**Book far ahead for the Snow Festival**, which runs in early February. Sapporo genuinely sells out and rates multiply — six to twelve months is not excessive. If you cannot get a room in the centre, staying a couple of subway stops out is far better than skipping the trip.\n\n**Footwear matters more than a coat.** Sapporo's pavements are compacted ice for months. Boots with a real grip, or the snow-grip covers sold in every convenience store and pharmacy in the city, prevent the most common injury visitors sustain here.\n\n**Ski trips.** If Niseko or Rusutsu is your main purpose, staying in Sapporo and commuting is a two-hour round trip daily. Stay at the resort and use Sapporo for a night either side.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "Wallet",
+            content: "**Sapporo is cheaper than Tokyo, Kyoto and Osaka** for comparable rooms outside festival season, and hotel rooms are generally larger.\n\n**The airport.** New Chitose is about forty minutes by rapid train to Sapporo Station. Buses run to major hotels and take longer. In heavy snow, flights are the least reliable part of a Hokkaido trip — leave margin on the day you fly out.\n\n**Onsen.** Jozankei is about an hour from the city and is where most visitors go for hot springs; Noboribetsu is further and better. Neither needs to be where you sleep unless you specifically want a ryokan night.\n\n**Eating.** Susukino for the range, Nijo Market for seafood breakfast, and the department store basements at the station for everything else. Sapporo's specialities — miso ramen, soup curry, jingisukan lamb, and the seafood — are all worth planning meals around.\n\n**Length of stay.** Two nights covers the city comfortably. Anything beyond that should be spent on day trips or further into Hokkaido, which is where the region's real appeal lies.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best area to stay in Sapporo?", a: "**Odori**, in the middle of the grid — both subway lines cross there, it is ten minutes from both the station and Susukino, and the Snow Festival's main site is on your doorstep." },
+          { q: "Should I stay near Sapporo Station?", a: "Yes if your trip is Hokkaido rather than Sapporo. The airport train, the JR lines and most coach day tours all start there, and in winter the station complex and underground passage keep you out of the snow." },
+          { q: "Is Susukino a good place to stay?", a: "If eating and drinking is the point, yes — it is the largest entertainment district north of Tokyo, with Ramen Yokocho and thousands of bars. It is louder than the rest of the city and the one area where touts approach people." },
+          { q: "How far ahead should I book for the Snow Festival?", a: "**Six to twelve months.** Early February genuinely sells Sapporo out and rates multiply. Staying a couple of subway stops from the centre is much better than not coming." },
+          { q: "Does winter change where I should stay?", a: "Considerably. Sapporo gets around five metres of snow a season, so **stay near a subway entrance** and favour the station or Odori, where the underground passage lets you move without going outside." },
+          { q: "Should I stay in Sapporo for skiing?", a: "No. Commuting to Niseko or Rusutsu is a two-hour round trip daily. Stay at the resort and use Sapporo for a night at either end." },
+          { q: "How many nights do I need in Sapporo?", a: "**Two** covers the city. Beyond that, spend the time on day trips or further into Hokkaido — Biei and Furano, the Shakotan coast, Noboribetsu — which is where the region's appeal really is." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best area to stay in Sapporo?", acceptedAnswer: { "@type": "Answer", text: "**Odori**, in the middle of the grid — both subway lines cross there, it is ten minutes from both the station and Susukino, and the Snow Festival's main site is on your doorstep." } },
+            { "@type": "Question", name: "Should I stay near Sapporo Station?", acceptedAnswer: { "@type": "Answer", text: "Yes if your trip is Hokkaido rather than Sapporo. The airport train, the JR lines and most coach day tours all start there, and in winter the station complex and underground passage keep you out of the snow." } },
+            { "@type": "Question", name: "Is Susukino a good place to stay?", acceptedAnswer: { "@type": "Answer", text: "If eating and drinking is the point, yes — it is the largest entertainment district north of Tokyo, with Ramen Yokocho and thousands of bars. It is louder than the rest of the city and the one area where touts approach people." } },
+            { "@type": "Question", name: "How far ahead should I book for the Snow Festival?", acceptedAnswer: { "@type": "Answer", text: "**Six to twelve months.** Early February genuinely sells Sapporo out and rates multiply. Staying a couple of subway stops from the centre is much better than not coming." } },
+            { "@type": "Question", name: "Does winter change where I should stay?", acceptedAnswer: { "@type": "Answer", text: "Considerably. Sapporo gets around five metres of snow a season, so **stay near a subway entrance** and favour the station or Odori, where the underground passage lets you move without going outside." } },
+            { "@type": "Question", name: "Should I stay in Sapporo for skiing?", acceptedAnswer: { "@type": "Answer", text: "No. Commuting to Niseko or Rusutsu is a two-hour round trip daily. Stay at the resort and use Sapporo for a night at either end." } },
+            { "@type": "Question", name: "How many nights do I need in Sapporo?", acceptedAnswer: { "@type": "Answer", text: "**Two** covers the city. Beyond that, spend the time on day trips or further into Hokkaido — Biei and Furano, the Shakotan coast, Noboribetsu — which is where the region's appeal really is." } },
+          ],
+        },
+        heroImage: S_ASAHI.image,
+      };
     default:
             return null;
     }
