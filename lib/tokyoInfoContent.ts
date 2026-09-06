@@ -83,6 +83,24 @@ const TOUR_CARD_GAMEBOY = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727181/asiabylocals/tours/tokyo-akihabara-game-boy-modding-workshop/img0.jpg',
 };
 
+
+const TOUR_CARD_CAT = {
+    slug: 'tokyo-gotokuji-cat-temple-and-cat-cafe-tour',
+    title: "Gotokuji Cat Temple and Japan's Largest Cat Cafe",
+    description: 'A thousand beckoning cats, the giant 3D billboard, and thirty minutes with real ones.',
+    price: 'From $69',
+    duration: '2.5 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727053/asiabylocals/tours/tokyo-gotokuji-cat-temple-and-cat-cafe-tour/img0.jpg',
+};
+const TOUR_CARD_NINJA_TOKYO = {
+    slug: 'tokyo-asakusa-samurai-ninja-museum-shuriken-throwing',
+    title: "Samurai and Ninja Museum with Shuriken Throwing",
+    description: 'An hour with real armour and weapons, ending with throwing ninja stars.',
+    price: 'From $28',
+    duration: '1 hour',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726327/asiabylocals/tours/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing/img0.jpg',
+};
+
 export function getTokyoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
 
@@ -1442,6 +1460,75 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_AKIHABARA.image,
+      };
+    case "tokyo-with-kids":
+      return {
+        title: "Tokyo with Kids: What Actually Works, by Age",
+        seoTitle: "Tokyo with Kids (2026 Guide)",
+        description: "Tokyo is easier with children than most cities and harder in three specific ways. Practical planning, what to book, and the things nobody warns you about.",
+        fastFacts: [
+          { icon: "Users", label: "Stroller reality", value: "Stations have lifts; finding them costs time" },
+          { icon: "Clock", label: "Realistic pace", value: "Two fixed activities a day, maximum" },
+          { icon: "Wallet", label: "Child transport", value: "Free under 6, half fare 6-11 on most lines" },
+          { icon: "Star", label: "Best short activity", value: "A sumo show, 90 minutes" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Tokyo is an unusually good city to bring children to. It is safe to the point that Japanese children commute to school alone, public toilets are everywhere and clean, convenience stores solve most small crises, and staff at almost any counter will help you without being asked.\n\nThree things make it harder than people expect, and all three are solvable if you plan for them.\n\n**Distances are longer than the map suggests.** Tokyo's attractions are spread across a city of fourteen million, and a plan with three areas in one day will fail with young children. Two fixed activities a day is the honest maximum.\n\n**Stations are enormous.** Shinjuku and Tokyo Station in particular are multi-level mazes, and the lift route is often a long way from the direct route. Budget time for it.\n\n**Summer is genuinely punishing.** July and August nights average above 23°C and days above 31°C, and children wilt faster than adults. If you are coming in summer, front-load mornings and move afternoons indoors — this is not optional.\n\nWhat works best are short, contained, hands-on activities rather than long sightseeing days. Ninety minutes of something specific, then food, then a park.",
+            tourCard: TOUR_CARD_CAT,
+          },
+          {
+            title: "Under Fives",
+            icon: "Users",
+            content: "Keep it short, keep it outdoors where possible, and accept that you are not seeing temples properly.\n\n**Parks do the heavy lifting.** Ueno, Yoyogi and Showa Kinen all have space to run, and Japanese playground equipment is better than most countries'. Shinjuku Gyoen is calmer and has a small entry fee that keeps the crowds sane.\n\n**Animals beat monuments at this age.** [Gotokuji cat temple and the cat cafe](/japan/tokyo/tokyo-gotokuji-cat-temple-and-cat-cafe-tour) is two and a half hours with a guide, small group, and thirty minutes with the cats at their most active. Our [Ichikawa zoo day](/japan/tokyo/tokyo-ichikawa-zoo-red-pandas-day-trip) is longer but the group caps at five and the pace is entirely yours.\n\n**Practical wins:** nappy-changing facilities exist in every department store and most stations; family toilets are common; and convenience store onigiri solves the fussy-eater problem repeatedly.\n\n**Strollers.** Bring a compact folding one. Trains at rush hour are impossible with a stroller, so plan travel between 10:00 and 16:00.",
+          },
+          {
+            title: "Six to Twelve",
+            icon: "Star",
+            content: "This is the age Tokyo is best for, because children are old enough to engage with how different everything is and young enough to find it thrilling.\n\n**Things that consistently land:**\n\n| Activity | Why it works | Length |\n|---|---|---|\n| [Samurai and ninja museum with shuriken throwing](/japan/tokyo/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing) | Costumes, real weapons, throwing things at a target | 1 hour |\n| [Sumo show with ring challenge](/japan/tokyo/tokyo-shibuya-sumo-show-five-daily-times) | Loud, close, and a chance to fight a wrestler | 1.5 hours |\n| [Cat temple and cat cafe](/japan/tokyo/tokyo-gotokuji-cat-temple-and-cat-cafe-tour) | A thousand cat figurines, then actual cats | 2.5 hours |\n| [Coin ring workshop](/japan/tokyo/tokyo-asakusa-coin-ring-making-workshop) | Hammering metal, keeping the result | 1 hour |\n| [Game Boy modding](/japan/tokyo/tokyo-akihabara-game-boy-modding-workshop) | For an older child who likes taking things apart | 2.5 hours |\n\n**Akihabara** works well from about eight upwards, particularly for children who already know the games and series. Our [anime guide walk](/japan/tokyo/tokyo-akihabara-anime-manga-maid-cafe-tour) has a maid cafe included, which is family-friendly theatre, or a walking-only version.\n\n**Mount Takao** is the outdoor option: a cable car, a real but manageable hike, a monkey park, and ramen. [The guided version](/japan/tokyo/tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen) caps at seven people and ends at a hot spring.",
+            tourCard: TOUR_CARD_NINJA_TOKYO,
+          },
+          {
+            title: "Teenagers",
+            icon: "Info",
+            content: "The problem with teenagers in Tokyo is not finding things to do; it is that they will want to do things independently and you will want to know where they are.\n\nTokyo is one of the few major cities where letting a capable fifteen-year-old navigate alone for an afternoon is reasonable. Give them a transit card, a hotel address card in Japanese, and a meeting time.\n\n**What holds their attention:** Shibuya and Harajuku for the obvious reasons; Akihabara if they are that way inclined; [go-karting through the city streets](/japan/tokyo/tokyo-skytree-spiritual-tour), which requires an international driving permit for the driver but they can ride from the appropriate age; and the observation decks after dark — our [Shibuya Sky and Shinjuku night walk](/japan/tokyo/tokyo-night-photo-tour-shibuya-sky-shinjuku) includes a photographer, which solves the photograph problem teenagers care about.\n\n**Food is easier than at any other age.** Conveyor sushi, ramen counters, department store food halls and convenience stores all work, and none require a reservation.",
+          },
+          {
+            title: "Transport, Money and the Small Stuff",
+            icon: "Train",
+            content: "**Fares.** Children under six travel free on most lines; six to eleven pay roughly half fare. Get every child over six their own IC card — it is faster than buying tickets and works on buses and in shops.\n\n**Rush hour** is 07:30-09:30 and 17:30-19:30, and it is genuinely crushing. Travel outside it with children.\n\n**Lifts** exist at almost every station but are frequently at one end of a long platform. The station apps show lift locations; use them rather than following signs to the nearest exit.\n\n**Food allergies** are difficult. Japanese menus rarely list allergens in English, and cross-contamination is not well understood in smaller restaurants. Carry a written card in Japanese, and be aware that dashi — which contains fish — is in almost everything, including dishes that look vegetarian.\n\n**Prams and restaurants.** Many small restaurants have no space at all. Department store restaurant floors and shopping centre food courts are the reliable options with a stroller.\n\n**Convenience stores** are the parenting infrastructure of Japan: food, drinks, ATMs, toilets, phone charging and plasters, on almost every block, at all hours.",
+          },
+          {
+            title: "A Realistic Three-Day Shape",
+            icon: "Calendar",
+            content: "This is a pace that works rather than a list of everything.\n\n**Day 1 — East.** Senso-ji and the Nakamise street in the morning while everyone is fresh. Lunch in Asakusa. One booked activity in the afternoon: the [ninja museum](/japan/tokyo/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing) or the [coin ring workshop](/japan/tokyo/tokyo-asakusa-coin-ring-making-workshop), both an hour and both nearby. Evening in the hotel.\n\n**Day 2 — West.** Meiji Jingu and Yoyogi Park in the morning, Harajuku for the noise, and an early [sumo show](/japan/tokyo/tokyo-shibuya-sumo-show-five-daily-times) in Shibuya. Dinner in Shibuya, which has more child-friendly options than anywhere else in the city.\n\n**Day 3 — Out of the city, or slow.** Either [Mount Takao](/japan/tokyo/tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen) for air and a hike, or a slow day around Ueno's park and museums with the [cat temple tour](/japan/tokyo/tokyo-gotokuji-cat-temple-and-cat-cafe-tour) in the afternoon.\n\nNote what is missing: no day has three areas in it, and every day has one booked thing rather than four. That is deliberate.",
+          },
+        ],
+        faqs: [
+          { q: "Is Tokyo easy to visit with young children?", a: "Yes, unusually so — it is very safe, toilets and changing facilities are everywhere, and staff help without being asked. The three real difficulties are **long distances, enormous stations, and summer heat**." },
+          { q: "How much should we plan into one day?", a: "**Two fixed activities, maximum**, and no more than two areas of the city. Tokyo's attractions are spread across a huge area and the travel between them eats the day." },
+          { q: "Do children pay for trains?", a: "**Under six travel free** on most lines; **six to eleven pay about half fare**. Get every child over six their own IC card." },
+          { q: "What is the best short activity for kids in Tokyo?", a: "A **sumo show** — ninety minutes, close range, loud in the right way, with a chance to enter the ring. The [samurai and ninja museum](/japan/tokyo/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing) at an hour is the other reliable one." },
+          { q: "How do we handle food allergies?", a: "Carry a written card in Japanese. Allergen labelling in English is rare and cross-contamination is not well understood in small restaurants. Note that **dashi contains fish** and appears in many dishes that look vegetarian." },
+          { q: "Is Tokyo manageable with a stroller?", a: "Yes, with planning. Bring a compact folding one, travel **between 10:00 and 16:00** to avoid rush hour, and use station apps to find lifts — they exist almost everywhere but are often far from the main exits." },
+          { q: "Can teenagers go out on their own?", a: "Tokyo is one of the few major cities where that is reasonable for a capable teenager. Give them an IC card, the hotel address written in Japanese, and a meeting time." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Tokyo easy to visit with young children?", acceptedAnswer: { "@type": "Answer", text: "Yes, unusually so — it is very safe, toilets and changing facilities are everywhere, and staff help without being asked. The three real difficulties are **long distances, enormous stations, and summer heat**." } },
+            { "@type": "Question", name: "How much should we plan into one day?", acceptedAnswer: { "@type": "Answer", text: "**Two fixed activities, maximum**, and no more than two areas of the city. Tokyo's attractions are spread across a huge area and the travel between them eats the day." } },
+            { "@type": "Question", name: "Do children pay for trains?", acceptedAnswer: { "@type": "Answer", text: "**Under six travel free** on most lines; **six to eleven pay about half fare**. Get every child over six their own IC card." } },
+            { "@type": "Question", name: "What is the best short activity for kids in Tokyo?", acceptedAnswer: { "@type": "Answer", text: "A **sumo show** — ninety minutes, close range, loud in the right way, with a chance to enter the ring. The [samurai and ninja museum](/japan/tokyo/tokyo-asakusa-samurai-ninja-museum-shuriken-throwing) at an hour is the other reliable one." } },
+            { "@type": "Question", name: "How do we handle food allergies?", acceptedAnswer: { "@type": "Answer", text: "Carry a written card in Japanese. Allergen labelling in English is rare and cross-contamination is not well understood in small restaurants. Note that **dashi contains fish** and appears in many dishes that look vegetarian." } },
+            { "@type": "Question", name: "Is Tokyo manageable with a stroller?", acceptedAnswer: { "@type": "Answer", text: "Yes, with planning. Bring a compact folding one, travel **between 10:00 and 16:00** to avoid rush hour, and use station apps to find lifts — they exist almost everywhere but are often far from the main exits." } },
+            { "@type": "Question", name: "Can teenagers go out on their own?", acceptedAnswer: { "@type": "Answer", text: "Tokyo is one of the few major cities where that is reasonable for a capable teenager. Give them an IC card, the hotel address written in Japanese, and a meeting time." } },
+          ],
+        },
+        heroImage: TOUR_CARD_CAT.image,
       };
     default:
             return null;

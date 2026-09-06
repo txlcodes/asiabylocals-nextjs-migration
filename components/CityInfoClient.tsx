@@ -421,6 +421,7 @@ const TOKYO_SIDEBAR = [
     { name: 'Tokyo Food Guide', slug: 'tokyo-food-guide' },
     { name: 'Sumo in Tokyo', slug: 'tokyo-sumo-guide' },
     { name: 'Akihabara Guide', slug: 'akihabara-guide' },
+    { name: 'Tokyo with Kids', slug: 'tokyo-with-kids' },
 ];
 
 function renderIcon(name: string) {
