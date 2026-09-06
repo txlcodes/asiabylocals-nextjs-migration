@@ -12840,5 +12840,66 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "kamakura-enoshima-day-trip-from-tokyo-enoden-train") {
+        return {
+            averageRating: 4.6, totalReviews: 446, guideRating: 4.7, valueRating: 4.6,
+            reviews: [
+                { author: "ma.", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Our trip was nice, lots of walking (expected). Allan, our guide made sure we are all okay and happy even tho we are all tired LOL Recommended to do if you visit Japan! 🙂🙂" },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Allan was very helpful throughout the tour and made sure we saw everything and kept us updated on all the stages of the day. Great trip, saw loads it would be great to go back and see more" },
+                { author: "Guemroud", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Alex was a very good and kind guide. the tour is really nice. maybe the timing in Enoshima was unfortunately little bit short, but the team did not did not made it any shorter even tough we had traffic jam on the way back. There is also a possibility to stay more and come back by yourself if you want to enjoy longer time in there. Good experience and thanks to Alex for the tour !" },
+                { author: "Samantha", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "I had the best time! Allan was so funny and so knowledgeable. He kept track of me and everyone so well the whole time so we know where we were going. I enjoyed the whole trip and would absolutely do this again" },
+                { author: "Daniel Mark", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Ko was a great tour guide and gave great advice about the areas we visited ." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "A great day out and a fantastic experience, I especially loved the Big Buddha, which was the most amazing / impressive thing I saw throughout the entirety of my trip to Japan I think. Nice having a smaller group where it was easier to chat to people too, and made for a comfortable coach ride as a result. Great value for money and a very worthwhile day out, to experience more of Japan and more of the traditional culture and history." },
+                { author: "Kristina", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "This tour to Kamakura and Enoshima was absolutely fantastic! Seeing the iconic Great Buddha up close was a breathtaking and unforgettable experience. The scenic vintage train ride along the coast was so cool and offered some of the most beautiful seaside views of the trip.The entire itinerary was perfectly paced, and it was the perfect break from the bustling city center of Tokyo. Getting to explore the historic temples and the beautiful island of Enoshima made for an amazing day out. The transportation was smooth, and everything ran right on time. Highly recommend booking this trip!" },
+                { author: "Soul", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Twas great and very smooth although was so hot and humid during our tour day , it’s worth it , our tourist guide Allan is so informative and funny , I definitely recommend him . Thank you so much" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen") {
+        return {
+            averageRating: 5.0, totalReviews: 108, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Phoenix", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "this was an amazing trip!! Jordan was extremely nice and answered my many questions! the onsen was so relaxing, and not too hot at around 40 degrees, and the cold spring at 20. the actual hike was so beautiful, and the temple and shrines were magnificent. I actually got the chance to see the monks walk by as well." },
+                { author: "Robbie", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Jordan was an amazing guide! He took me on an incredible hike, and showed me so many amazing sights on the mountain. The onsen visit after was the perfect way to end the day. Thank you for such a wonderful experience!" },
+                { author: "Radmila", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Amazing,,Jordan is fantastic,helpful,professional,simply the best.High recommend for everyone." },
+                { author: "Radmila", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "Was amazing,Jordan is excellent guide,very informative,kind,simply the best" },
+                { author: "Ria", country: "Verified traveller review", rating: 5, date: "2026-04-25", text: "Jordan was incredible from start to finish, was super accommodating and chilled. We had a great day out, would definitely recommend as a city break from Tokyo!" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "Our guide, Jordan, was fantastic! very knowledgeable and easy going. Highly recommend!" },
+                { author: "Zariana", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "Jordan was amazing: very friendly, approachable, fit & very knowledgeable. Jordan made our day on Mt Takao & the Hot spring. We saw Mount Fuji from the top of Mount Takao - which is very exciting. The vegi Ramen we had for lunch was so delicious - truly amazing! Exceed expectations by far. Recommend this 1-day trip wholeheartedly to anyone in Tokyo: so full of different experiences & immersing yourself in the life of the Japanese. Love it 👍👍👍" },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "Absolutely amazing value for the amount of activities packed into one experience - a wonderful experience at that! Our guide, Jordan, was an extraordinary host. His calm demeanor made it easy for us to open up and ask questions, which he would reply with memorable stories/insightful answers. This was one of the best experiences we’ve done during our 1st visit to Japan. Aloha and mahalo nui loa, Jordan! - Andi & Nick" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-akihabara-game-boy-modding-workshop") {
+        return {
+            averageRating: 4.9, totalReviews: 80, guideRating: 4.9, valueRating: 4.9,
+            reviews: [
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "This was an awesome time. We got a little history on the Nintendo handhelds and then got to modify/build our own Game bBys. The options were great and it was a lot of fun. I’d definitely recommend this as a unique experience on your Tokyo trip." },
+                { author: "Anthony", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "This was such a fun experience, putting together an OG GameBoy. Super helpful team making sure everything works. Highly recommended and such a fun way to take home a unique souvenir from Tokyo." },
+                { author: "Bryson", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Absolutely awesome activity! Had a lot of fun and am super happy with my GameBoy Advance." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "An absolutely amazing time at this workshop. Maui was very knowledgeable about all aspects and made the entire experience fun and enjoyable! Very well worth it and will happily recommend to anyone feeling nostalgic about the GameBoy days!" },
+                { author: "Dhruv", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "The part where the old screen is removed can be made a bit easier , since the board is sharp it is to cut your finger" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "The workshop was amazing! The staff is very friendly, knowledgeable, and welcoming! Best part of the trip thus far." },
+                { author: "Jaewook", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "I thoroughly enjoyed modding the Game Boy and playing some games afterward. It transported me back to my childhood. The staff was incredibly kind and helpful. Highly recommend to anyone who likes retro games." },
+                { author: "Brix", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "was great fun, the guys were awesome explaining everything for us, and the history was an awesome surprise. would recommend even if not a gamer" },
+            ],
+        };
+    }
+
+    if (slug === "tokyo-helicopter-flight-skytree-tokyo-tower") {
+        return {
+            averageRating: 4.9, totalReviews: 23, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Ken", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "It was very good, the communication was very fast and clear. The flight plan was really good and the scenaries were amazing. We could see many of the major Tokyo sites beautifully. Pilot was kind and it was a smooth flight. I really recommend ! Just make sure to plan enough time to reach the helipad, it took 1h30 transport from Shibuya." },
+                { author: "Nathaly", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "It was an amazing experience! The staffs were super nice and helpful. The pilot pointed out all the landmarks, I felt very safe and comfortable for my first time on a helicopter. Highly recommended, it's the best way to see tokyo, definitely worth splurging on the tour." },
+                { author: "Anthoula", country: "Verified traveller review", rating: 5, date: "2026-01-06", text: "The tour was great! Especially since we made it during afternoon hours. The heliport was a bit difficult to find. Maybe if you could arrange a pick up from the nearest metro station would be much more convenient. I surely recommend to all Tokyo visitors!" },
+                { author: "Angelo", country: "Verified traveller review", rating: 5, date: "2025-12-23", text: "Very friendly, professional, well organised and beautiful experience over all. Very good team. Congratulations!" },
+                { author: "Bruno", country: "Verified traveller review", rating: 5, date: "2025-11-17", text: "If you go to Tokyo, you must need to do this one. Marvellous." },
+            ],
+        };
+    }
+
     return null;
 };

@@ -8710,5 +8710,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "kamakura-enoshima-day-trip-from-tokyo-enoden-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 45 people." },
+      { question: "Where does it start?", answer: "Under the BEAMS sign at the Shin-Marunouchi Building, 1-5-1 Marunouchi, Chiyoda City, Tokyo — in front of JR Tokyo Station. Shinjuku departures meet at Tokyo Mode Gakuen." },
+      { question: "What is included?", answer: "Round-trip coach transport from Tokyo; English-speaking guide; Enoden train ride from Hase to Enoshima; Driver and parking fees." },
+      { question: "Is the Enoden train ride included?", answer: "Yes, from Hase to Enoshima via Kamakura Koko-Mae. It is the most enjoyable part of the day and the reason to take this over a coach-only trip." },
+    ];
+  }
+
+  if (slug === "tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 7 people." },
+      { question: "Where does it start?", answer: "Takaosanguchi Station ticket gates, 2241 Takaomachi, Hachioji, Tokyo 193-0844 — the guide waits holding a yellow tennis ball." },
+      { question: "What is included?", answer: "English-speaking guide for the full day; Takao 599 Museum admission; Monkey park admission; Cable car or chairlift up the mountain; Hachioji ramen lunch, with soba and vegetarian options." },
+      { question: "Are tattoos really allowed at the hot spring?", answer: "Yes — that is a deliberate part of this itinerary. Most Japanese onsen refuse entry to anyone with visible tattoos, so the day ends at one that does not." },
+    ];
+  }
+
+  if (slug === "tokyo-akihabara-game-boy-modding-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Le Nid Kanda, 7th floor, 15 Kanda Kitanorimonocho, Chiyoda City, Tokyo 101-0036 — minutes from Akihabara." },
+      { question: "What is included?", answer: "Hands-on modification of an original Game Boy or Game Boy Advance; Backlit IPS screen installation; Custom shell colour of your choice; Button replacement; All tools and materials." },
+      { question: "Do I need technical experience?", answer: "None. Staff walk you through every step, and each console is tested before your session so you are not debugging faulty hardware." },
+    ];
+  }
+
+  if (slug === "tokyo-helicopter-flight-skytree-tokyo-tower") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Chiba Wangan Heliport, 237 Shinko, Mihama-ku, Chiba — facing Aqualink Chiba, east of Inage Seaside Park. Arrive at least thirty minutes before your slot." },
+      { question: "What is included?", answer: "Thirty-minute helicopter flight on the two-tower course; Pre-flight safety briefing; Up to four passengers on one aircraft." },
+      { question: "Will I see the city lit up?", answer: "Only if your slot is after sunset. Flights scheduled before sunset take place in daylight, so book a later time if the night view is what you want." },
+    ];
+  }
+
     return null;
 };
