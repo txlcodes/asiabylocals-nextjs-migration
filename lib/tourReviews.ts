@@ -13156,5 +13156,52 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "kyoto-sumo-show-chanko-hot-pot-geisha-dance") {
+        return {
+            averageRating: 4.8, totalReviews: 1547, guideRating: 4.8, valueRating: 4.7,
+            reviews: [
+                { author: "Margaret", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We had a great experience! We laughed so hard because they were all very entertaining! It was a great fun thing to do." },
+                { author: "John-Paul Vella", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Excellent Show! One of the best activity we booked in Japan! Had a Great time!!" },
+                { author: "christine", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "What a night!! This was so much fun from the beginning to the end ! Geisha dance at the beginning was pretty and sumos were impressive and funny. The food and drinks were good and we appreciated the unlimited re-order. I really recommend the show!" },
+                { author: "Bahar", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "I was skeptical at first but still wanted to try it... and it was definitely worth it! Everyone was so nice and helping and you got more than enough to eat and drink, and they were fast! The show was interactive and fun. Just try it))" },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Attentive staff and well organized event. Loved the whole experience... the food and drinks, geisha performance, and sumo show. You can tell the effort they put in to provide great entertainment." },
+                { author: "rachel", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "What a great show. The effort to entertain and generate audience participation is 10/10. Really enjoyed the 2hrs. Lots to eat and drink and loved the show." },
+                { author: "Dmytro", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Great show and performance! Both Geisha and Sumo show were amazing and super fun :) at first some parts looked a bit cringy, but this is a style and you should just relax and allow yourself a good laugh once in a while! Just remind yourself about those viral videos of weird Japanese TV shows - this show had similar wibes. Food was 4/5" },
+                { author: "Erika", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "My family had so much fun! I came with my senior parents and 3 boys that are around middle school age. The announcer did a great job explaining sumo rules/techniques, and the wrestlers were very entertaining. The food was great too!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-sushi-making-class-with-footbath") {
+        return {
+            averageRating: 4.5, totalReviews: 34, guideRating: 4.6, valueRating: 4.6,
+            reviews: [
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "Really relaxed fun afternoon making sushi. The directions to the venue were a little tricky but we found it in the end." },
+                { author: "Alexa", country: "Verified traveller review", rating: 5, date: "2026-06-28", text: "This workshop is excellent! Our guide Ryu was super helpful and we learned a lot. It was just our group of 4 and we had plenty of time to ask questions and perfect our sushi. We ended up with 12 pieces that we got to eat which was just enough. We got to try 6 different types of sushi which is great for learning what you like. I cannot recommend this workshop enough. So glad we did it. Thank you!" },
+                { author: "Davis", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "I had a great time in the Sushi Class. Mina was wonderful and did a great job explaining the process and was overall great to talk with. Definitely the highlight of my trip. Would highly recommend the experience!" },
+                { author: "Ralph", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Nanami was a wonderful guide, giving clear and easy to follow instructions. We had great conversations and a really fun time, thanks to her :)" },
+                { author: "Katja", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "We happened to be all by ourselves, which made for an amazing private experience. Ryoto was a great teacher, so we all had fun making and eating our sushi. The quality of the food was great. Just the spot is a little hard to find, but once you’re there, it’s great." },
+                { author: "Shelley", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "We had so much fun making our own sushi! We met some wonderful people and the instructors were fantastic." },
+                { author: "Rachael", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "I had a great experience, it was so much fun both of the staff were really attentive and the sushi was delicious!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-ebike-tour-ginkakuji-philosophers-path") {
+        return {
+            averageRating: 4.9, totalReviews: 93, guideRating: 5.0, valueRating: 4.7,
+            reviews: [
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "Tour gives a fantastic geographical and historical perspective to your Kyoto visit .. while still allowing you to visit a number of must see shrines/temples. Surprisingly beautiful/peaceful streets and river cycleways to travel along (as well as some smaller urban roads/footpaths and pedestrian crossings to pick your way respectfully through whilst sharing the morning with Kyotos local residents). Ben was a highly knowledgeable and interesting guide… perhaps content was most appropriate for adults or a keen history teen! For me though it was excellent and still provided great historical and cultural content for us even after a couple of weeks touring in Japan." },
+                { author: "Debra", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Chris the tour guide was very knowledgeable, engaging and aware of individual needs. Would highly recommend" },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Ben was a great tour guide. Knowledgeable, patient and fun to guide us around. We are a family of 4 with 12 and 14yo. They loved seeing the sights on an e-bike it made sightseeing more enjoyable for them." },
+                { author: "margaret", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "This was a fabulous experience that brought our entire family joy. My 15 year old son spoke of how beautiful the journey was, my 13 year old son proclaimed the speedy bikes were very fun, my husband spoke about how knowledgeable our guide was and I appreciated the simple route and pace having rather rusty biking skills. It was a great experience for all." },
+                { author: "Stephenie", country: "Verified traveller review", rating: 5, date: "2026-01-23", text: "Salomé was amazing. We ended up having a private tour as there was no one else booked ok the tour with us. She really know her stuff and we really enjoyed the morning site seeing and cycling the city. Would 100% recommend." },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2025-09-23", text: "Our tour guide, Phillip, was amazing!!! So generous with his knowledge & time, and clearly passionate about what he does." },
+                { author: "Manuel", country: "Verified traveller review", rating: 5, date: "2025-08-30", text: "Quite relaxed bike tour with a nice guide who show a lot of knowledge. I was kind if concerned about the duration first, but after 4 hours I could have gone on another 2." },
+                { author: "Gill", country: "Verified traveller review", rating: 5, date: "2025-06-02", text: "Our guide Philippe made the trip so interesting with his extensive knowledge of Kyoto culture and history." },
+            ],
+        };
+    }
+
     return null;
 };

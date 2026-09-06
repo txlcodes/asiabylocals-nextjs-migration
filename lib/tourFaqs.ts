@@ -9130,5 +9130,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "kyoto-sumo-show-chanko-hot-pot-geisha-dance") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "Where does it start?", answer: "5F, 525-1 Higashigawacho, Shinkyogoku Takoyakushi-sagaru, Nakagyo Ward, Kyoto 604-8046 — the building with Animate." },
+      { question: "What is included?", answer: "Sumo entertainment show with English commentary; All-you-can-eat chanko-nabe and a wide range of dishes; All-you-can-drink service; Traditional geisha dance performance; Entry to the lottery to challenge a wrestler in the ring." },
+      { question: "Is this a real sumo tournament?", answer: "No, and the venue says so plainly. It is an entertainment show with wrestlers, built to bring sumo culture close rather than to stage competitive bouts." },
+      { question: "Is drink really unlimited?", answer: "Yes — all-you-can-eat and all-you-can-drink are both included, which is unusual at this price." },
+    ];
+  }
+
+  if (slug === "kyoto-sushi-making-class-with-footbath") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "2F, 276-28 Kitakurumayacho, Nakagyo Ward, Kyoto 604-8021 — a few streets from Nishiki Market." },
+      { question: "What is included?", answer: "Sushi-making class in English and Japanese; All ingredients; Instructor; The sushi you make." },
+      { question: "Is the footbath included?", answer: "No. It is optional and charged separately at 1,300 yen per person on the day." },
+    ];
+  }
+
+  if (slug === "kyoto-ebike-tour-ginkakuji-philosophers-path") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "222-2 Koyamacho, Kita Ward, Kyoto 603-8152 — the operator's e-bike rental base, searchable on maps." },
+      { question: "What is included?", answer: "E-bike rental for four hours; English-speaking guide; Entry fees to the gardens on the route; Helmets." },
+      { question: "Do we go inside the temples?", answer: "Yes — garden entry fees are included and the guide takes you in, which is the main difference from bike tours that ride past the gates." },
+    ];
+  }
+
+  if (slug === "kyoto-kid-friendly-ninja-class-museum") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "Utanokoji Building 2F, 292 Higashidaimonjicho, Teramachi-dori Nishikikoji-sagaru, Nakagyo Ward, Kyoto 604-8043." },
+      { question: "What is included?", answer: "Museum entrance ticket; Ninja outfit to wear; Ninja training session; Instruction in stealth techniques; Ninja blowgun." },
+      { question: "What is the minimum age?", answer: "Children under three cannot join the ninja activities, though they are welcome inside the venue with the family." },
+    ];
+  }
+
+  if (slug === "miho-museum-shirahige-shrine-shiga-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Nipponbashi Station Exit 2, 1-3 Nipponbashi, Chuo Ward, Osaka 542-0073 at 08:40, or Kyoto at 09:50. Osaka hotel pickup is available as a paid option from 07:30." },
+      { question: "What is included?", answer: "Round-trip vehicle transport for up to ten hours; Driver-guide service; Fuel, tolls and highway charges; Vehicle scaled to the group size." },
+      { question: "Is the museum always open?", answer: "No. The Miho Museum closes for long stretches — all of January and February, most of June, most of September, and the end of December among them. The tour does not run on closure days, so confirm your date before booking." },
+      { question: "Are admissions included?", answer: "No. Museum and shrine entry, along with meals, are paid separately." },
+    ];
+  }
+
     return null;
 };
