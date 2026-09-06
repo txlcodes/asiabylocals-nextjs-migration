@@ -372,6 +372,11 @@ const NAGOYA_SIDEBAR = [
 
 const HAKONE_SIDEBAR = [
     { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
+    { name: 'Chureito Pagoda', slug: 'chureito-pagoda-guide' },
+    { name: 'Kawaguchiko Guide', slug: 'kawaguchiko-guide' },
+    { name: 'Owakudani & Black Eggs', slug: 'owakudani-black-eggs-guide' },
+    { name: 'Open-Air Museum', slug: 'hakone-open-air-museum-guide' },
+    { name: 'Yosegi Marquetry', slug: 'hakone-yosegi-marquetry-guide' },
     { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
     { name: 'Hakone Onsen Guide', slug: 'hakone-onsen-guide' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-hakone' },

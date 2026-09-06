@@ -232,7 +232,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const hakoneInfoPages = [
     'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',
     'hakone-onsen-guide', 'mount-fuji-viewpoints', 'hakone-2-day-itinerary',
-  ].map(slug => ({
+  ,
+    'chureito-pagoda-guide', 'kawaguchiko-guide', 'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

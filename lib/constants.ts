@@ -283,7 +283,12 @@ export const COLOMBO_INFO_SLUGS = [
 export const HAKONE_INFO_SLUGS = [
   'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',
   'hakone-onsen-guide', 'mount-fuji-viewpoints', 'hakone-2-day-itinerary'
-];
+,
+  'chureito-pagoda-guide',
+  'kawaguchiko-guide',
+  'hakone-open-air-museum-guide',
+  'owakudani-black-eggs-guide',
+  'hakone-yosegi-marquetry-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
 export const HIROSHIMA_INFO_SLUGS = [

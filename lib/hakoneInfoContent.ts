@@ -60,6 +60,51 @@ const CARD_5 = {
     image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271623/asiabylocals/tours/hakone-private-day-tour-onsen-open-air-museum/img0.jpg",
   };
 
+const CARD_YOSEGI = {
+    slug: "hakone-yosegi-zaiku-marquetry-workshop",
+    title: "Yosegi Zaiku Marquetry Workshop in Hakone",
+    description: "A top-rated Hakone experience, bookable directly through AsiaByLocals.",
+    price: "From USD 108",
+    duration: "2.5 hours",
+    image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788270678/asiabylocals/tours/hakone-yosegi-zaiku-marquetry-craft-workshop/img0.jpg",
+};
+
+const CARD_TWOSIDES = {
+    slug: "mount-fuji-chureito-pagoda-oshino-hakkai-day-tour",
+    title: "Mount Fuji Two Sides Day Tour: Chureito Pagoda and Oshino Hakkai",
+    description: "A top-rated Mount Fuji experience, bookable directly through AsiaByLocals.",
+    price: "From USD 59",
+    duration: "10 hours",
+    image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788270624/asiabylocals/tours/hakone-mt-fuji-arakurayama-oshino-hakkai-day-tour/img0.jpg",
+};
+
+const CARD_KAWA = {
+    slug: "kawaguchiko-to-hakone-private-guided-transfer",
+    title: "Kawaguchiko to Hakone Private Guided Transfer",
+    description: "A top-rated Mount Fuji experience, bookable directly through AsiaByLocals.",
+    price: "From USD 451",
+    duration: "4 hours",
+    image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271488/asiabylocals/tours/kawaguchiko-to-hakone-guided-transfer-tour/img0.jpg",
+};
+
+const CARD_FIVELAKES = {
+    slug: "fuji-five-lakes-private-car-tour",
+    title: "Fuji Five Lakes by Private Car with a Local Guide",
+    description: "A top-rated Mount Fuji experience, bookable directly through AsiaByLocals.",
+    price: "From USD 541",
+    duration: "8 hours",
+    image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271529/asiabylocals/tours/fuji-five-lakes-private-car-tour-english-guide/img0.png",
+};
+
+const CARD_AOKI = {
+    slug: "aokigahara-lava-forest-guided-nature-walk",
+    title: "Aokigahara Lava Forest Guided Nature Walk Beneath Mount Fuji",
+    description: "A top-rated Mount Fuji experience, bookable directly through AsiaByLocals.",
+    price: "From USD 300",
+    duration: "From 3 hours",
+    image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271685/asiabylocals/tours/aokigahara-forest-guided-hiking-tour/img0.webp",
+};
+
 export function getHakoneInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
     case "climbing-mount-fuji-guide":
@@ -91,7 +136,7 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
           {
             title: "Permits, fees and the daily cap",
             icon: "mountain",
-            content: "For most of its modern history Fuji was free to climb, with a voluntary conservation donation collected at the fifth station. That changed after years of overcrowding and a rising accident count. Yamanashi Prefecture introduced a mandatory climbing fee on the Yoshida route along with a daily cap on the number of climbers and a gate that closes overnight to stop people starting a night ascent without a hut booking. Shizuoka Prefecture subsequently brought in fees for the Subashiri, Gotemba and Fujinomiya routes.\n\nThe amounts, the cap number and the gate hours have all been revised between seasons, so treat any figure you read on a travel blog with suspicion, including this one. What has stayed consistent is the shape of the system: you reserve and pay online in advance where reservation is offered, you carry proof, and if you intend to pass the gate late in the day you need a confirmed hut booking to do it. Reserve early. The Yoshida cap is reached on the busiest summer weekends.\n\nThere is a separate, older payment you will still be asked for at the trailhead in some seasons: a conservation contribution, historically around a thousand yen, which funds trail maintenance and rescue. It is worth paying regardless of whether it is framed as voluntary.",
+            content: "For most of its modern history Fuji was free to climb, with a voluntary conservation donation collected at the fifth station. That changed after years of overcrowding and a rising accident count. Yamanashi Prefecture introduced a mandatory climbing fee on the Yoshida route along with a daily cap on the number of climbers and a gate that closes overnight to stop people starting a night ascent without a hut booking. Shizuoka Prefecture subsequently brought in fees for the Subashiri, Gotemba and Fujinomiya routes.\n\nFor the 2026 season the system has converged. A mandatory entry fee of **\u00a54,000** now applies uniformly across all four trails \u2014 Yoshida, Subashiri, Gotemba and Fujinomiya \u2014 payable online at registration or in cash at the trailhead gate.\n\nThe two prefectures still differ in how they control numbers. **Yoshida**, in Yamanashi, has a hard **daily cap of 4,000 climbers** and you reserve a slot online in advance. The three **Shizuoka** trails have no daily cap, but they require you to download the prefecture's **FUJI NAVI** app, complete a short mandatory e-learning safety course and register your climbing dates before you go.\n\nThe rule that catches people out on every trail is the gate. **Between 2pm and 3am the gates are closed to anyone without a mountain hut reservation.** This exists specifically to stop overnight \u201cbullet climbing\u201d, and it is enforced. If your plan is to start in the afternoon and walk through the night to catch sunrise, you need a hut booking to be allowed past the gate at all.\n\nFees and caps have been revised between seasons before, so check the official prefectural sites when you book rather than trusting any figure that is a year old \u2014 including this one.\n\nThere is a separate, older payment you will still be asked for at the trailhead in some seasons: a conservation contribution, historically around a thousand yen, which funds trail maintenance and rescue. It is worth paying regardless of whether it is framed as voluntary.",
           },
           {
             title: "Altitude is the thing that actually stops people",
@@ -701,6 +746,285 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "chureito-pagoda-guide":
+      return {
+        title: "Chureito Pagoda: The Most Photographed View of Fuji, and the 398 Steps",
+        seoTitle: "Chureito Pagoda Guide",
+        description: "The pagoda-and-Fuji shot is real, and it is at the top of nearly four hundred steps. When to go, what the pagoda actually is, and the odds of seeing the mountain.",
+        fastFacts: [
+          { icon: "footprints", label: "The climb", value: "398 steps from the shrine car park to the viewing terrace" },
+          { icon: "landmark", label: "What it is", value: "A war memorial peace pagoda, completed in 1963" },
+          { icon: "flower", label: "Peak seasons", value: "Cherry blossom in April, red maples in November" },
+          { icon: "cloud", label: "The catch", value: "Fuji is often hidden. Winter mornings give the best odds" },
+        ],
+        sections: [
+          {
+            title: "It Is a War Memorial, Not an Ancient Temple",
+            icon: "landmark",
+            content: "The five-storey pagoda in the photograph is the **Chureito**, and it is younger than most visitors assume — completed in **1963** as a peace memorial to the local war dead, part of the **Arakurayama Sengen Park** above Fujiyoshida.\n\nIt is not a centuries-old temple, and knowing that removes a small amount of the mystique and adds a different kind. The composition that made it famous — pagoda, cherry trees, Fuji behind — is a modern arrangement of a very old mountain, and it works because someone chose that hillside deliberately.\n\nThe shrine at the base, **Arakura Fuji Sengen Jinja**, is genuinely old and almost nobody stops there. It is worth two minutes on the way up.",
+            tourCard: CARD_TWOSIDES,
+          },
+          {
+            title: "The 398 Steps Are the Whole Problem",
+            icon: "footprints",
+            content: "From the car park you climb **398 steps** to reach the terrace where the photograph is taken. They are steep, they are continuous, and in summer heat or on ice they are the reason people turn back.\n\nThere is a longer, gentler switchback path alongside them for anyone who would rather not do the stairs, and it is signposted. It takes noticeably longer but it is far kinder on knees.\n\nBudget about fifteen minutes up at a moderate pace, more with stops. The terrace itself is small and it is a queue in season — people take turns at the one spot where the framing works. Be patient with it and be quick when it is your turn; everyone behind you wants the same shot.",
+            tourCard: CARD_KAWA,
+          },
+          {
+            title: "Your Odds of Actually Seeing Fuji",
+            icon: "cloud",
+            content: "This is the part the photographs never tell you. **Fuji is hidden by cloud far more often than it is visible**, and the difference is seasonal rather than random.\n\nThe mountain shows itself most reliably in the **colder, drier months — roughly November through February** — and least reliably through the humid summer. Early morning is better than afternoon in every season, because heating through the day builds cloud around the peak.\n\nSo the cruel arithmetic of Chureito is that the two most beautiful frames — cherry blossom in April, red maples in November — do not coincide with the best visibility. April in particular is a genuine gamble.\n\nIf the shot is the whole reason you are going, build in a second morning. If you get one clear window, take it immediately rather than waiting for better light.",
+            tourCard: CARD_TWOSIDES,
+          },
+          {
+            title: "Getting There and What Is Nearby",
+            icon: "train",
+            content: "The pagoda is above **Shimo-yoshida station** on the Fujikyu Railway line, about a ten-minute walk from the station to the base of the steps. From Tokyo the standard route is a bus or train to Kawaguchiko and back one stop, or a direct highway bus to Fujiyoshida.\n\nBecause it sits on the far side of Fuji from Hakone, it groups naturally with the **Fuji Five Lakes** rather than with Lake Ashi. A common structure is Chureito at first light, **Oshino Hakkai** spring ponds mid-morning, and **Lake Kawaguchiko** in the afternoon.\n\nOne thing to know: **Shimo-yoshida** itself has become a photo destination in its own right for the sloping shopping street that frames Fuji at the end of it. It is a residential street, not an attraction, and the town has had real problems with visitors standing in the road. Use the pavement.",
+            tourCard: CARD_FIVELAKES,
+          },
+        ],
+        faqs: [
+          { q: "How many steps to Chureito Pagoda?", a: "398 steep steps from the car park to the viewing terrace, roughly fifteen minutes at a moderate pace. A longer, gentler switchback path runs alongside for anyone who would rather avoid the stairs." },
+          { q: "Is Chureito Pagoda an old temple?", a: "No. It is a peace memorial to the local war dead, completed in 1963, in Arakurayama Sengen Park. The shrine at the base, Arakura Fuji Sengen Jinja, is genuinely old and largely ignored by visitors." },
+          { q: "When is Mount Fuji most likely to be visible from Chureito?", a: "In the colder, drier months from about November to February, and in the early morning in any season. Summer humidity hides it frequently, and the famous April cherry blossom window is a visibility gamble." },
+          { q: "How do I get to Chureito Pagoda?", a: "Shimo-yoshida station on the Fujikyu Railway, about ten minutes' walk to the base of the steps. It sits on the Fuji Five Lakes side of the mountain, so it pairs with Kawaguchiko and Oshino Hakkai rather than with Hakone." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How many steps to Chureito Pagoda?", acceptedAnswer: { "@type": "Answer", text: "398 steep steps from the car park to the viewing terrace, roughly fifteen minutes at a moderate pace. A longer, gentler switchback path runs alongside for anyone who would rather avoid the stairs." } },
+            { "@type": "Question", name: "Is Chureito Pagoda an old temple?", acceptedAnswer: { "@type": "Answer", text: "No. It is a peace memorial to the local war dead, completed in 1963, in Arakurayama Sengen Park. The shrine at the base, Arakura Fuji Sengen Jinja, is genuinely old and largely ignored by visitors." } },
+            { "@type": "Question", name: "When is Mount Fuji most likely to be visible from Chureito?", acceptedAnswer: { "@type": "Answer", text: "In the colder, drier months from about November to February, and in the early morning in any season. Summer humidity hides it frequently, and the famous April cherry blossom window is a visibility gamble." } },
+            { "@type": "Question", name: "How do I get to Chureito Pagoda?", acceptedAnswer: { "@type": "Answer", text: "Shimo-yoshida station on the Fujikyu Railway, about ten minutes' walk to the base of the steps. It sits on the Fuji Five Lakes side of the mountain, so it pairs with Kawaguchiko and Oshino Hakkai rather than with Hakone." } },
+          ],
+        },
+        heroImage: CARD_TWOSIDES.image,
+      };
+
+    case "kawaguchiko-guide":
+      return {
+        title: "Kawaguchiko: The Base Town for Mount Fuji",
+        seoTitle: "Kawaguchiko Guide",
+        description: "Which of the Fuji Five Lakes to actually stay at, why the north shore matters, and how Kawaguchiko compares with Hakone as a Fuji base.",
+        fastFacts: [
+          { icon: "waves", label: "What it is", value: "The most developed of the Fuji Five Lakes, and the usual base town" },
+          { icon: "compass", label: "Key detail", value: "Fuji is south of the lake — the north shore has the views" },
+          { icon: "train", label: "From Tokyo", value: "Direct highway bus from Shinjuku, or train via Otsuki" },
+          { icon: "mountain", label: "Versus Hakone", value: "Kawaguchiko is closer to Fuji; Hakone has the better onsen tradition" },
+        ],
+        sections: [
+          {
+            title: "Stay on the North Shore",
+            icon: "compass",
+            content: "The single most useful piece of Kawaguchiko planning: **Mount Fuji is to the south of the lake.** That means the **north shore** is where the views are, and where the reflection shot — Fuji mirrored in still water — is taken from.\n\nHotels and ryokan on the north shore price accordingly, and a lake-view room facing the right way is a meaningfully different stay from one that is technically 'in Kawaguchiko'. When booking, check which direction the room faces rather than trusting the word 'lake view'.\n\nThe reflection itself needs a still morning. Wind on the lake kills it, and the water is calmest around dawn. If the reflection is why you came, that is a sunrise plan, not an afternoon one.",
+            tourCard: CARD_KAWA,
+          },
+          {
+            title: "Kawaguchiko or Hakone?",
+            icon: "mountain",
+            content: "Both are sold as 'the Mount Fuji trip' and they are not the same product.\n\n**Kawaguchiko** is closer, and Fuji dominates the view — the mountain fills the sky rather than appearing over a ridge. It is the right base for Chureito Pagoda, Oshino Hakkai, the Fuji Five Lakes and the fifth-station road in season. It is a lake resort town: functional, spread out, built around the view.\n\n**Hakone** is further from Fuji and sees it across Lake Ashi, weather permitting. What Hakone has instead is a much older **onsen** culture, the ropeway and volcanic valley at Owakudani, serious art museums, and a compact sightseeing loop you can do without a car.\n\nThe short version: **Kawaguchiko for the mountain, Hakone for the experience.** If you want both, they connect by bus in a couple of hours and doing one night in each is a common and sensible structure.",
+            tourCard: CARD_2,
+          },
+          {
+            title: "What to Actually Do Around the Lake",
+            icon: "map-pin",
+            content: "The **Kachi Kachi ropeway** climbs Mount Tenjo from the lakeshore for the standard elevated view of Fuji over the water. It is short, it is busy, and it delivers.\n\n**Oshino Hakkai**, twenty minutes away, is a set of eight spring-fed ponds filled with snowmelt filtered through the mountain's lava for decades. The water is extraordinarily clear. It is also small and extremely popular, so early is the answer again.\n\nSeasonally, the lake has set pieces worth timing for: **shibazakura** pink moss phlox in spring at the nearby Motosu site, lavender at Oishi Park in July, and **momiji** maple corridors in November lit at night. The Fuji Five Lakes area is unusually seasonal even by Japanese standards.\n\nFor quieter water, the western lakes — **Saiko**, **Shojiko**, **Motosuko** — are far less developed. Motosuko is the view printed on the ¥1,000 note.",
+            tourCard: CARD_FIVELAKES,
+          },
+          {
+            title: "Getting There, and the Aokigahara Question",
+            icon: "train",
+            content: "The easiest approach from Tokyo is the **direct highway bus from Shinjuku**, roughly two hours, which drops at Kawaguchiko station. By rail it is a change at Otsuki onto the Fujikyu line, which is slower and more scenic.\n\nWithin the area, buses loop the lakes and are the practical way around without a car. Timetables thin out considerably in the evening.\n\nOne note on **Aokigahara**, the forest on the flank of Fuji near Saiko. It is a genuine geological and ecological site — a forest grown on a lava flow, with ice caves and root systems that cannot penetrate the rock — and it also carries a reputation that has drawn a certain kind of visitor. If you go, go on the marked trails with a guide who is there for the geology, and treat it as the memorial landscape it is for local people rather than as a curiosity.",
+            tourCard: CARD_AOKI,
+          },
+        ],
+        faqs: [
+          { q: "Which side of Lake Kawaguchiko has the Mount Fuji views?", a: "The north shore. Fuji lies to the south of the lake, so north-shore accommodation and viewpoints face the mountain — and that is where the reflection photographs are taken from, on still mornings." },
+          { q: "Kawaguchiko or Hakone for Mount Fuji?", a: "Kawaguchiko is much closer and the mountain dominates the view, making it the better base for Chureito Pagoda, Oshino Hakkai and the Five Lakes. Hakone is further away but has the older onsen culture, the Owakudani ropeway and a compact sightseeing loop." },
+          { q: "How do I get to Kawaguchiko from Tokyo?", a: "The direct highway bus from Shinjuku is easiest, about two hours to Kawaguchiko station. By rail, take a train to Otsuki and change to the Fujikyu line." },
+          { q: "What is there to do in Kawaguchiko besides looking at Fuji?", a: "The Kachi Kachi ropeway up Mount Tenjo, the spring-fed ponds at Oshino Hakkai, seasonal set pieces like shibazakura in spring and lit maples in November, and the quieter western lakes — Saiko, Shojiko and Motosuko." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Which side of Lake Kawaguchiko has the Mount Fuji views?", acceptedAnswer: { "@type": "Answer", text: "The north shore. Fuji lies to the south of the lake, so north-shore accommodation and viewpoints face the mountain — and that is where the reflection photographs are taken from, on still mornings." } },
+            { "@type": "Question", name: "Kawaguchiko or Hakone for Mount Fuji?", acceptedAnswer: { "@type": "Answer", text: "Kawaguchiko is much closer and the mountain dominates the view, making it the better base for Chureito Pagoda, Oshino Hakkai and the Five Lakes. Hakone is further away but has the older onsen culture, the Owakudani ropeway and a compact sightseeing loop." } },
+            { "@type": "Question", name: "How do I get to Kawaguchiko from Tokyo?", acceptedAnswer: { "@type": "Answer", text: "The direct highway bus from Shinjuku is easiest, about two hours to Kawaguchiko station. By rail, take a train to Otsuki and change to the Fujikyu line." } },
+            { "@type": "Question", name: "What is there to do in Kawaguchiko besides looking at Fuji?", acceptedAnswer: { "@type": "Answer", text: "The Kachi Kachi ropeway up Mount Tenjo, the spring-fed ponds at Oshino Hakkai, seasonal set pieces like shibazakura in spring and lit maples in November, and the quieter western lakes — Saiko, Shojiko and Motosuko." } },
+          ],
+        },
+        heroImage: CARD_KAWA.image,
+      };
+
+    case "hakone-open-air-museum-guide":
+      return {
+        title: "The Hakone Open-Air Museum: Sculpture on a Mountainside",
+        seoTitle: "Hakone Open-Air Museum Guide",
+        description: "Japan's first open-air sculpture museum, a Picasso collection nobody expects, and a hot-spring footbath in the middle of it.",
+        fastFacts: [
+          { icon: "landmark", label: "Opened", value: "1969 — Japan's first open-air art museum" },
+          { icon: "image", label: "Collection", value: "About a hundred sculptures outdoors, plus a dedicated Picasso pavilion" },
+          { icon: "droplet", label: "Unexpected", value: "A natural hot-spring footbath on the grounds, fed from Hakone's own supply" },
+          { icon: "clock", label: "Time needed", value: "Two hours minimum; it is a hillside, not a gallery floor" },
+        ],
+        sections: [
+          {
+            title: "The Landscape Is Half the Work",
+            icon: "mountain",
+            content: "Opened in **1969**, this was Japan's first open-air museum, and the idea behind it is that sculpture is diminished indoors. The collection is spread across a hillside with the Hakone mountains behind it, so the pieces are seen against sky, cloud and changing weather rather than a white wall.\n\nIt works. A Henry Moore reclining figure on a green slope in low autumn light is doing something a gallery cannot arrange. The museum owns one of the larger Moore collections outside Britain and rotates the display.\n\nThe practical consequence is that this is an outdoor visit. You are walking on paths and slopes for two hours or more, and the weather is part of the experience whether you wanted it to be or not. Hakone is wet — check the forecast and bring a layer.",
+            tourCard: CARD_2,
+          },
+          {
+            title: "The Picasso Pavilion Is the Surprise",
+            icon: "image",
+            content: "A dedicated indoor pavilion holds several hundred Picasso works — not the famous paintings, but **ceramics, prints, gold and silver plates, and glass**, much of it from his later decades and a good deal of it donated by his daughter Maya.\n\nMost visitors arrive for the sculpture park and have no idea it is there, which is why it stays comparatively quiet even when the grounds are busy. It is also the place to be when it rains.\n\nThe other indoor highlight is the **Symphonic Sculpture**, a tower of stained glass with a spiral staircase inside it. You climb through coloured light to a viewing platform over the whole valley. It is the single most photographed thing on the site and it deserves it.",
+            tourCard: CARD_3,
+          },
+          {
+            title: "There Is a Footbath in the Middle of It",
+            icon: "droplet",
+            content: "Roughly halfway round the grounds sits a long, shallow **hot-spring footbath**, fed from Hakone's own thermal supply, free with admission, with towels sold nearby for a small amount.\n\nIt is a genuinely good idea. You are two hours into walking a hillside, and sitting with your feet in hot water looking at a sculpture garden is the kind of detail that makes people remember a museum. Bring or buy a small towel — there are no dryers.\n\nThere is also a children's area with climbable woven structures, which makes this one of the few art museums that genuinely works for families rather than tolerating them.",
+            tourCard: CARD_1,
+          },
+          {
+            title: "Where It Sits in the Hakone Loop",
+            icon: "route",
+            content: "The museum has its **own station**, Chokoku-no-Mori, on the **Hakone Tozan Railway** — the mountain switchback line that climbs from Hakone-Yumoto. That makes it the easiest possible stop to fold into the standard Hakone loop.\n\nThe classic sequence is Tozan railway up, museum, continue by cable car and ropeway over **Owakudani**, boat across **Lake Ashi**, bus back. The museum is the natural morning stop before the ropeway section.\n\nIf you are doing that loop, the **Hakone Free Pass** covers the transport but not the museum admission, which is separate. Allow more time than you think: two hours here plus the loop legs is a full day, and rushing the hillside defeats the point of putting the art outside in the first place.",
+            tourCard: CARD_2,
+          },
+        ],
+        faqs: [
+          { q: "How long do you need at the Hakone Open-Air Museum?", a: "At least two hours. It is a hillside site with paths and slopes rather than a gallery floor, and the sculpture is spread across the grounds." },
+          { q: "Is there really a Picasso collection in Hakone?", a: "Yes — a dedicated indoor pavilion with several hundred works, mostly ceramics, prints and glass from his later decades, much of it donated by his daughter Maya. It is also the best place to be if it rains." },
+          { q: "Is there a hot spring at the Open-Air Museum?", a: "There is a free hot-spring footbath on the grounds, included with admission and fed from Hakone's own thermal supply. Towels are sold nearby; there are no dryers." },
+          { q: "How do I get to the Hakone Open-Air Museum?", a: "It has its own station, Chokoku-no-Mori, on the Hakone Tozan mountain railway from Hakone-Yumoto. The Hakone Free Pass covers the transport but not the museum admission." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How long do you need at the Hakone Open-Air Museum?", acceptedAnswer: { "@type": "Answer", text: "At least two hours. It is a hillside site with paths and slopes rather than a gallery floor, and the sculpture is spread across the grounds." } },
+            { "@type": "Question", name: "Is there really a Picasso collection in Hakone?", acceptedAnswer: { "@type": "Answer", text: "Yes — a dedicated indoor pavilion with several hundred works, mostly ceramics, prints and glass from his later decades, much of it donated by his daughter Maya. It is also the best place to be if it rains." } },
+            { "@type": "Question", name: "Is there a hot spring at the Open-Air Museum?", acceptedAnswer: { "@type": "Answer", text: "There is a free hot-spring footbath on the grounds, included with admission and fed from Hakone's own thermal supply. Towels are sold nearby; there are no dryers." } },
+            { "@type": "Question", name: "How do I get to the Hakone Open-Air Museum?", acceptedAnswer: { "@type": "Answer", text: "It has its own station, Chokoku-no-Mori, on the Hakone Tozan mountain railway from Hakone-Yumoto. The Hakone Free Pass covers the transport but not the museum admission." } },
+          ],
+        },
+        heroImage: CARD_2.image,
+      };
+
+    case "owakudani-black-eggs-guide":
+      return {
+        title: "Owakudani: The Volcanic Valley and the Black Eggs",
+        seoTitle: "Owakudani Guide",
+        description: "Sulphur vents at 1,000 metres, eggs boiled black in the springs, and the closures nobody warns you about until you are at the ropeway.",
+        fastFacts: [
+          { icon: "mountain", label: "What it is", value: "An active volcanic valley formed by an eruption around 3,000 years ago" },
+          { icon: "egg", label: "Kuro-tamago", value: "Eggs boiled in the sulphur springs; the shells turn black" },
+          { icon: "alert-triangle", label: "The catch", value: "Ropeway and walking paths close on gas readings, sometimes at short notice" },
+          { icon: "cable-car", label: "Access", value: "The Hakone Ropeway, part of the standard Hakone loop" },
+        ],
+        sections: [
+          {
+            title: "Check Before You Go — It Closes",
+            icon: "alert-triangle",
+            content: "Owakudani sits on an **active volcano**, and that is not decorative. Hydrogen sulphide levels are monitored continuously, and when they rise the **ropeway suspends service** and the walking trails close.\n\nThis has happened repeatedly, including a multi-year closure of the walking paths after the 2015 volcanic activity. Sections reopen and re-close on the readings. It can change on the morning.\n\nSo: check the Hakone Ropeway's official status page the day you go, before you commit to the loop. When the ropeway is down, a replacement bus runs around the valley — you still complete the loop, you just do not get the crater view or the eggs.\n\nPeople with asthma, heart or respiratory conditions are advised against the valley floor even when it is open, and that advice is posted for a reason. The smell alone is substantial.",
+            tourCard: CARD_2,
+          },
+          {
+            title: "The Black Eggs, and the Seven Years",
+            icon: "egg",
+            content: "**Kuro-tamago** are ordinary eggs boiled in the sulphurous hot springs. Iron in the water reacts with the sulphur and coats the shell in black iron sulphide; the egg inside is a normal boiled egg and tastes like one.\n\nLocal tradition holds that **eating one adds seven years to your life**. They are sold in bags of five at the top station, which by that arithmetic is thirty-five years, and nobody has ever offered a satisfying explanation for the discount.\n\nIt is a tourist ritual and it is a good one — you eat them standing in the wind at a thousand metres with steam venting out of the hillside behind you. Bring cash; the shop is not always card-friendly, and the queue moves fast.",
+            tourCard: CARD_1,
+          },
+          {
+            title: "The View Is the Actual Reason",
+            icon: "mountain",
+            content: "On a clear day the ropeway crossing over Owakudani gives you the whole thing at once: a bare, steaming, yellow-grey valley directly below the cabin, and **Mount Fuji** on the horizon beyond it.\n\nThat combination — active volcanism in the foreground, Japan's most famous volcano in the background — is the single best view in Hakone and one of the better ones near Tokyo. It is also weather-dependent in the usual way: Fuji hides behind cloud far more often than not, and the odds are best in the cold, dry months.\n\nThe valley was formed by an eruption roughly three thousand years ago that collapsed the side of the older volcano. What you are looking at is the scar, still venting.",
+            tourCard: CARD_3,
+          },
+          {
+            title: "Where It Fits in the Day",
+            icon: "route",
+            content: "Owakudani is the high point, literally, of the **Hakone loop**: Tozan railway from Hakone-Yumoto, cable car up from Gora, **ropeway over Owakudani**, then down to Togendai for the **Lake Ashi** boat, and a bus back.\n\nThe loop runs in both directions and most people go clockwise, which puts Owakudani mid-morning. That is the right call — cloud tends to build over the day, so the Fuji view is more likely early.\n\nThe **Hakone Free Pass** covers every leg including the ropeway and the boat, and pays for itself if you do the full circuit. Allow the whole day. Trying to compress the loop into an afternoon is how people end up standing at a ropeway station watching the last cabin go without them.",
+            tourCard: CARD_2,
+          },
+        ],
+        faqs: [
+          { q: "Is Owakudani open?", a: "It depends on the day. Owakudani is an active volcanic area and the ropeway and walking trails close when hydrogen sulphide readings rise, sometimes at short notice. Check the Hakone Ropeway's official status page before you set out; a replacement bus runs when the ropeway is suspended." },
+          { q: "What are the black eggs at Owakudani?", a: "Kuro-tamago — ordinary eggs boiled in the sulphur springs, where iron in the water reacts with sulphur to coat the shell in black iron sulphide. The egg inside is a normal boiled egg. Tradition says each one adds seven years to your life." },
+          { q: "Can you see Mount Fuji from Owakudani?", a: "On a clear day, yes — the ropeway crossing gives you the steaming valley below and Fuji on the horizon. Cloud hides the mountain often, and the odds are best in the cold, dry months and in the morning." },
+          { q: "Is Owakudani safe to visit?", a: "It is monitored continuously and closed when gas levels rise. Visitors with asthma, heart or respiratory conditions are advised against the valley floor even when it is open." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Owakudani open?", acceptedAnswer: { "@type": "Answer", text: "It depends on the day. Owakudani is an active volcanic area and the ropeway and walking trails close when hydrogen sulphide readings rise, sometimes at short notice. Check the Hakone Ropeway's official status page before you set out; a replacement bus runs when the ropeway is suspended." } },
+            { "@type": "Question", name: "What are the black eggs at Owakudani?", acceptedAnswer: { "@type": "Answer", text: "Kuro-tamago — ordinary eggs boiled in the sulphur springs, where iron in the water reacts with sulphur to coat the shell in black iron sulphide. The egg inside is a normal boiled egg. Tradition says each one adds seven years to your life." } },
+            { "@type": "Question", name: "Can you see Mount Fuji from Owakudani?", acceptedAnswer: { "@type": "Answer", text: "On a clear day, yes — the ropeway crossing gives you the steaming valley below and Fuji on the horizon. Cloud hides the mountain often, and the odds are best in the cold, dry months and in the morning." } },
+            { "@type": "Question", name: "Is Owakudani safe to visit?", acceptedAnswer: { "@type": "Answer", text: "It is monitored continuously and closed when gas levels rise. Visitors with asthma, heart or respiratory conditions are advised against the valley floor even when it is open." } },
+          ],
+        },
+        heroImage: CARD_2.image,
+      };
+
+    case "hakone-yosegi-marquetry-guide":
+      return {
+        title: "Yosegi Zaiku: Hakone's Marquetry, and the Puzzle Boxes",
+        seoTitle: "Hakone Yosegi Marquetry Guide",
+        description: "Two hundred years of geometric wood inlay made from natural timber colours — and the trick boxes that need dozens of moves to open.",
+        fastFacts: [
+          { icon: "hammer", label: "Origin", value: "Developed in the Hakone-Odawara area in the early 1800s" },
+          { icon: "palette", label: "The colours", value: "All natural — no dyes; the pattern comes from different tree species" },
+          { icon: "puzzle", label: "Puzzle boxes", value: "Himitsu-bako, opened by a set sequence of sliding moves" },
+          { icon: "clock", label: "Workshops", value: "Around 2-3 hours to make a small inlaid piece yourself" },
+        ],
+        sections: [
+          {
+            title: "The Colours Are Not Paint",
+            icon: "palette",
+            content: "The first thing to understand about **yosegi zaiku** is that every colour in the pattern is a different **species of wood**. Nothing is stained or dyed.\n\nPale cream is spindle tree, near-black is katsura or walnut, warm brown is camphor, red-brown is Japanese cherry, green comes from a particular aged wood. The craftsman builds the palette out of the forest.\n\nThe method is what makes the geometry possible. Thin sticks of these woods are glued into a bundle so that the cross-section forms a pattern, the bundle is planed into a block, and then paper-thin sheets — *zuku* — are shaved off the end. Every sheet carries the identical pattern, and those sheets are what get applied to boxes, trays and coasters.\n\nIt is closer to how you would make a stick of seaside rock than to how you would make a painting, and once you have seen it done the objects stop looking machine-made.",
+            tourCard: CARD_YOSEGI,
+          },
+          {
+            title: "The Puzzle Boxes",
+            icon: "puzzle",
+            content: "The famous Hakone object is the **himitsu-bako**, the secret or puzzle box. It looks like a plain inlaid box and it has no visible lid. Opening it requires sliding hidden panels in a fixed sequence.\n\nBoxes are graded by the number of moves — commonly 4, 7, 10, 12, 21, and upward into the dozens for collector pieces. A 4-step box is a souvenir a child can solve. A 21-step is a genuinely difficult object.\n\nThey were made here from the late nineteenth century, sold to travellers on the Tokaido road, and they are the reason Hakone marquetry is known outside Japan at all. If you buy one, buy it from a maker's shop in Hakone rather than an airport, and note the step count on the box before you leave the shop. People forget.",
+            tourCard: CARD_YOSEGI,
+          },
+          {
+            title: "Making One Yourself",
+            icon: "hammer",
+            content: "Several workshops around **Hatajuku**, the traditional centre of the craft between Hakone-Yumoto and the pass, run sessions where you assemble a small inlaid piece — a coaster, a small tray, a box lid — from pre-cut yosegi components.\n\nYou are not going to cut and glue a bundle from scratch in an afternoon; that is years of training. What you do is select the woods, lay out the geometry, and finish the piece, which is enough to understand why the material behaves the way it does.\n\nIt takes a couple of hours, you leave with the object, and it is one of the better wet-weather options in a region that gets a lot of rain. For a place whose other attractions are all outdoors and all weather-dependent, having a genuine indoor craft to fall back on is more useful than it sounds.",
+            tourCard: CARD_YOSEGI,
+          },
+          {
+            title: "Why Hakone Specifically",
+            icon: "map-pin",
+            content: "Hakone sits on the old **Tokaido**, the highway between Edo and Kyoto, and had a checkpoint at the pass that every traveller had to clear. That meant a steady flow of people with time to spare and money to spend on something small enough to carry.\n\nIt also sits in mixed mountain forest with an unusually wide range of tree species in a small area — exactly what a craft built on natural wood colour requires. The material and the market were in the same place.\n\nThat combination is why the craft is Hakone's and not somewhere else's, and it is designated a traditional craft of Kanagawa. Buying one here rather than in a Tokyo department store is the difference between a souvenir and a thing with a provenance.",
+            tourCard: CARD_2,
+          },
+        ],
+        faqs: [
+          { q: "What is yosegi zaiku?", a: "A marquetry technique from the Hakone-Odawara area, developed in the early 1800s, in which geometric patterns are built from different natural wood species — no dyes. Sticks are glued into a patterned bundle and paper-thin sheets are shaved off the end and applied to boxes and trays." },
+          { q: "How do Hakone puzzle boxes work?", a: "A himitsu-bako has no visible lid and opens only by sliding hidden panels in a fixed sequence. Boxes are graded by number of moves — 4, 7, 10, 12, 21 and upward. Note the step count when you buy one; people forget it." },
+          { q: "Can I make yosegi marquetry myself in Hakone?", a: "Yes. Workshops around Hatajuku run two-to-three hour sessions where you assemble a small inlaid piece from pre-cut components and take it home. It is one of the better rainy-day options in Hakone." },
+          { q: "Why is marquetry associated with Hakone?", a: "Hakone sat on the old Tokaido highway with a checkpoint every traveller had to clear, giving a steady market for small portable goods — and its mountain forest supplies an unusually wide range of tree species in one area, which is what a craft based on natural wood colour needs." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is yosegi zaiku?", acceptedAnswer: { "@type": "Answer", text: "A marquetry technique from the Hakone-Odawara area, developed in the early 1800s, in which geometric patterns are built from different natural wood species — no dyes. Sticks are glued into a patterned bundle and paper-thin sheets are shaved off the end and applied to boxes and trays." } },
+            { "@type": "Question", name: "How do Hakone puzzle boxes work?", acceptedAnswer: { "@type": "Answer", text: "A himitsu-bako has no visible lid and opens only by sliding hidden panels in a fixed sequence. Boxes are graded by number of moves — 4, 7, 10, 12, 21 and upward. Note the step count when you buy one; people forget it." } },
+            { "@type": "Question", name: "Can I make yosegi marquetry myself in Hakone?", acceptedAnswer: { "@type": "Answer", text: "Yes. Workshops around Hatajuku run two-to-three hour sessions where you assemble a small inlaid piece from pre-cut components and take it home. It is one of the better rainy-day options in Hakone." } },
+            { "@type": "Question", name: "Why is marquetry associated with Hakone?", acceptedAnswer: { "@type": "Answer", text: "Hakone sat on the old Tokaido highway with a checkpoint every traveller had to clear, giving a steady market for small portable goods — and its mountain forest supplies an unusually wide range of tree species in one area, which is what a craft based on natural wood colour needs." } },
+          ],
+        },
+        heroImage: CARD_YOSEGI.image,
+      };
     default:
       return null;
   }
