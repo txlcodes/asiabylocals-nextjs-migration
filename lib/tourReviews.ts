@@ -13370,5 +13370,48 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "seto-pottery-wheel-experience-from-nagoya") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Demi", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "It was a wonderful experience to see how locals in Seto preserve and share their pottery tradition. They explained the history clearly and taught me how to create different pieces on the wheel. I highly recommend it to anyone interested in ceramics and this beautiful art form!" },
+                { author: "Trami", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "We had a really nice pottery experience. The atmosphere was relaxing, and our guide Yasu and the master was fantastic- patient, clear and very encouraging. They made the whole process easy and enjoyable, even for beginners. We really recommend it!" },
+                { author: "Mira", country: "Verified traveller review", rating: 5, date: "2026-02-21", text: "Loved the experience of actually working a pottery wheel albeit guided by the husband and wife masters in Seto. We liked our work so much that we paid extra just to be able to being all of them back with us😅 We have to wait 1-2 months but that’s okay. We were also able to buy the masters’ original works and visited stores and galleries where they were featured. All in all a great experience!" },
+            ],
+        };
+    }
+
+    if (slug === "osaka-gluten-free-ramen-and-gyoza-class") {
+        return {
+            averageRating: 5.0, totalReviews: 59, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Lara", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "We attended a gluten-free ramen and gluten-free gyoza cooking class in Osaka, and it was an amazing experience! We joined the class as a couple, and we both had so much fun. The two-hour class flew by because it was so enjoyable. We learned how to make different kinds of ramen, and everything we cooked tasted absolutely delicious. I highly recommend this class to anyone visiting Osaka. The instructor also offers a variety of other cooking classes, both gluten-free and regular, so there’s something for everyone. We would definitely do it again. Thank you for such a wonderful experience!" },
+                { author: "maia", country: "Verified traveller review", rating: 5, date: "2026-06-21", text: "Yuki was an amazing host!! She welcomed us so warmly, it really felt like we were having dinner with friends. The food was delicious and she made the steps really easy to follow!" },
+                { author: "Anja", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "I had an amazing cooking class with Yuki, where I learned how to make gluten free ramen and gyoza. I’ve tried many different ramen dishes in restaurants throughout Japan, but the ones cooked with Yuki were by far the best I’ve had so far. Yuki has truly mastered her recipes, and whether you eat gluten free or not, I can highly recommend her cooking class. It was definitely one of the highlights of my holiday in Japan." },
+                { author: "Deborah", country: "Verified traveller review", rating: 5, date: "2026-05-01", text: "A fabulous activity! Well organised and so delicious. Yuki was a great teacher. Thank you." },
+                { author: "Valentina", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "Yuki is a great person and teacher, I highly recommend it. We’ll definitely take another one if we get the chance." },
+                { author: "Kailyn", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Learn a lot about how to make yummy tasting ramen and potstickers. It was so good. My husband isn’t gluten free and he was worried he wouldn’t enjoy the food as much but he was happily surprised and absolutely enjoyed the food. I really love the variety and definitely was really delicious. Yuki was such a great host and the class has very personal and individual touch to it." },
+                { author: "Marcus", country: "Verified traveller review", rating: 5, date: "2026-04-01", text: "This was amazing! The food was delicious, and the environment was perfect. 100% recommend this class to anyone, gluten free or not!" },
+                { author: "Eyal", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "Cooking class with Yuki was amazing and Yummy and she accommodated gluten free allergy. We made two types of Ramen and Gyoza and all was gluten free and very tasty. we had everything to cook with and it got nice feel of home. Highly recommend this class with Yuki." },
+            ],
+        };
+    }
+
+    if (slug === "hiroshima-futaba-morning-hike-open-air-tea-ceremony") {
+        return {
+            averageRating: 4.8, totalReviews: 61, guideRating: 4.9, valueRating: 4.5,
+            reviews: [
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Stephanie created a very nice experience for us. She is so kind, funny and thoughtful. She shared many interesting details about the shrines we passed, how to show respect to the gods and about Hiroshimas past. The tea ceremony was really special, although the forest bathing was to me, personally (and surprisingly), the best part. It was a little bit (too) expensive, but I totally recommend this activity!" },
+                { author: "Caroline", country: "Verified traveller review", rating: 5, date: "2025-09-24", text: "Stephanie was a super friendly, informative and fun guide, making this a great experience. It was very special to spend time in nature away from the crowds, and also to gain a different perspective on Hiroshima. The climb took in a number of shrines through beautiful woodland, and it was great to appreciate the volunteer work that our guide and others undertake to look after the area. The forest bathing and tea ceremony were magical experiences - I'd totally recommend doing this, I loved it! 💚" },
+                { author: "Anthony", country: "Verified traveller review", rating: 5, date: "2025-05-20", text: "everything was amazing . the guide naomi was so nice, adorable and everything she said was really interesting. we did itfor the first time, she showed us everything and before the tea ceremony, in the middle of the forest . relaxation with the nature and was incredible, really calm and relaxing. the tea ceremony was also really good and nice . honestly, we loved everything" },
+                { author: "Véronique", country: "Verified traveller review", rating: 5, date: "2025-03-26", text: "Nana, my guide was very implicated and had prepared history of Mont Futaba (close to Hiroshima station. We climbed 500 steps and then rested fot the ceremony tea she prepared in the rules of art. She even let me master the ceremony tea. Of course, at this high, no kimono like in a private room. Both ceremony are different : our was casual but with the sunny view on Hiroshima." },
+                { author: "Francesca", country: "Verified traveller review", rating: 5, date: "2025-03-25", text: "An amazing experience! Michiyo was so lovely, a great guide. I would 100% recommend this." },
+                { author: "Elaine", country: "Verified traveller review", rating: 5, date: "2025-03-19", text: "Naomi met us at arranged time Local guide with obvious passion and knowledge of area Time spent at shrines and clear expiations with photos Fun Forest bathing which we got involved in happily Tea ceremony was so beautiful and Naomi involved out daughter to experience making the matcha tea correctly Plenty of time taken for photos We were guided to our chosen restaurant for lunch after Photos forwarded quickly Sting reenactment at Shrine - just great!" },
+                { author: "Annika", country: "Verified traveller review", rating: 5, date: "2024-10-21", text: "The guide was so sweet and nice! I learned so much during the tour. The hike was super nice with a great view from the top. My highlight was the outdoor tea ceremony - loved it!" },
+                { author: "Ingeborg", country: "Verified traveller review", rating: 5, date: "2024-10-12", text: "The tour was really nice! Learned more about Shinto, did some unique yoga and loved the modern way of the tea ceremony. The guide told us interesting stuff about the history of the place and the view on the top was amazing." },
+            ],
+        };
+    }
+
     return null;
 };

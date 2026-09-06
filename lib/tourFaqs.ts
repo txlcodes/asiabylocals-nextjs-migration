@@ -9320,5 +9320,45 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "seto-pottery-wheel-experience-from-nagoya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Meitetsu Owari-Seto Station, 12-1 Yamawakicho, Seto, Aichi 489-0811 — the station has a single ticket gate. About forty minutes from Nagoya." },
+      { question: "What is included?", answer: "Pottery wheel session with a potter of fifty years' experience; Two of your pieces fired and shipped; Choice of fifteen glaze colours; Visit to the kiln studio; Private vehicle transport within Seto." },
+      { question: "Do I take the pottery home the same day?", answer: "No — the pieces must be fired. Two of your three are fired and shipped to you in a signed paulownia box, so they arrive after you get home. International shipping is charged separately." },
+    ];
+  }
+
+  if (slug === "nagoya-sword-museum-admission-ticket") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 day." },
+      { question: "How big is the group?", answer: "Up to 100 people." },
+      { question: "Where does it start?", answer: "3-35-43 Sakae, Naka Ward, Nagoya, Aichi 460-0008 — central Nagoya, reachable from Nagoya Station by subway." },
+      { question: "What is included?", answer: "Nagoya Touken Museum admission, valid for the day of use." },
+      { question: "How long does the museum take?", answer: "The ticket is valid all day. Most visitors spend one to two hours; anyone genuinely interested in blades will spend longer with the interactive material." },
+    ];
+  }
+
+  if (slug === "osaka-gluten-free-ramen-and-gyoza-class") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "4-19 Nukatacho, Higashiosaka, Osaka 579-8021 — five minutes' walk from Nukata Station." },
+      { question: "What is included?", answer: "Hands-on gluten-free cooking class; Personal instruction in English; Recipes and technique notes to take home; The full meal you make; Sake pairing on that option." },
+      { question: "Is this genuinely gluten-free?", answer: "Yes — the noodles and gyoza wrappers are made from scratch without wheat, and the class covers which Japanese seasonings are safe, including the soy sauce problem, since conventional soy sauce is brewed with wheat." },
+    ];
+  }
+
+  if (slug === "hiroshima-futaba-morning-hike-open-air-tea-ceremony") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "The deck on the 2nd floor of Hiroshima Station, 1-2 Matsubaracho, Minami Ward, Hiroshima 732-0822." },
+      { question: "What is included?", answer: "Guide for the three-hour morning walk; Open-air nodate tea ceremony at the Peace Pagoda; Forest bathing session; Breakfast on the option that includes it." },
+      { question: "How hard is the climb?", answer: "About twenty-five minutes uphill on a path — real but not demanding. Wear shoes you can walk in." },
+    ];
+  }
+
     return null;
 };
