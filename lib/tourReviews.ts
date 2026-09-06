@@ -12997,5 +12997,69 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === "kyoto-blacksmith-knife-making-workshop") {
+        return {
+            averageRating: 4.9, totalReviews: 871, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "So much fun. The guides are engaging and instructive. All skill levels and physical abilities were able to complete a knife from scratch. Hammering out a piece of steel into a knife is very satisfying." },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "It was a great experience and I enjoyed learning how to make my own knife" },
+                { author: "Christoph", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "I had a great time forging my very own Japanese-style knife. The staff was kind and helpful throughout the whole process. 10/10, would definitely do this again" },
+                { author: "Jasmin", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "pretty amazing and interesting activity, they help you with every step of the process amd explain everything pretty well" },
+                { author: "Goran", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "A very nice workshop for everyone who wants to elevate his kitchen with a self made Japanese knife" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Fantastic experience to make your own knife from scratch. Teachers are really friendly and helpful. All steps done by yourself." },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "I did this with my boyfriend for his birthday present and it was so so much fun! They walk you through everything and are super friendly. Its a little bit out of the way, but I would definitely recommend trying it out." },
+                { author: "Maximilian", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "I really enjoyed crafting my own knife and can really recommend it for people wanting to create their own souvenirs!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-zazen-meditation-private-temple-with-monk") {
+        return {
+            averageRating: 5.0, totalReviews: 249, guideRating: 5.0, valueRating: 4.8,
+            reviews: [
+                { author: "Nadja", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "This was an amazing experience, Haruka was a fantastic guide. something really special." },
+                { author: "Verdie", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "This was an amazing experience. It was very educational as well a serene and relaxing. The meditation was a welcomed break from the business of a packed vacation schedule." },
+                { author: "Hamilton", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "We had the most wonderful visit at the temple. We felt very welcomed by our guide Haruka and the monk, and found the meditation session highly educational and accessible. Easily our favourite Kyoto experience!" },
+                { author: "Tyrone", country: "Verified traveller review", rating: 5, date: "2026-06-21", text: "What a unique and incredible experience. The translator and the monk offered such a calm, educational, and fun environment. I went with my mom and brother in law and we all had such a good time. The matcha , the meditation, and the question period after made this experience a 10/10." },
+                { author: "Casey", country: "Verified traveller review", rating: 5, date: "2026-06-19", text: "Great cultural experience. Really enjoyed it and great start to the morning" },
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "This was a relaxing moment on a trip where the inclination is to go go go. I appreciate the meditation techniques we tried, and I will definitely try them out when I get home. This was a very unique experience and I really enjoyed talking to the monk." },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Between the monk and our guide, this was truly the most compassionate duo for what was such a zen and relaxing experience. I am so thankful to have had the opportunity to participate in such a special session with them and could not recommend this enough!" },
+                { author: "Yuliya", country: "Verified traveller review", rating: 5, date: "2026-05-23", text: "Great to mediate with the mink in a temple. The best meditation I have done in my life." },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-machiya-table-style-tea-ceremony-fushimi") {
+        return {
+            averageRating: 4.9, totalReviews: 1332, guideRating: 4.9, valueRating: 4.8,
+            reviews: [
+                { author: "Alyssa", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "This was an incredible cultural learning experience. We are so grateful to have done this, a highlight of our trip! Thank you again to the lovely hosts." },
+                { author: "Giulia", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Amazing! The tea masters were extremely kind, caring, professional. Everything was perfect!! Thanks again for everything" },
+                { author: "Oscar", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "The experience was fantastic and highly recommended. My family thoroughly enjoyed wearing kimonos and experiencing the traditional Japanese tea ceremony and Japanese calligraphy. The Éclat team was very professional and went above and beyond to provide outstanding service throughout our visit." },
+                { author: "Eve", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "this was super cool. So many choices for Kimono colors. Learning about the tea and of course the added fun of calligraphy made this experience over the top. this is a must do." },
+                { author: "Stefani", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "I would highly recommend this tea ceremony in Kyoto. I can’t say enough praise for the staff, they were wonderful and warm and so hospitable. We learned a lot, had some wonderful sweets, really good sake, and amazing matcha. Moreover, we went home with our own beautiful calligraphy. Overall, a priceless experience that I would encourage anyone interested to take. Bonus: between the train station and the location there’s a really cute market for some extra fun shopping." },
+                { author: "Emilly", country: "Verified traveller review", rating: 5, date: "2026-05-24", text: "Our tea ceremony experience was truly unforgettable. It was such a unique and meaningful opportunity to learn more about Japanese culture and traditions in such an authentic way. Everything was explained with so much care and attention, and we felt incredibly welcomed from beginning to end. The atmosphere, the details, and the kindness of everyone involved made this a very special moment during our trip to Japan. An experience I will carry with me forever." },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Amazing experience, the ladies who guide the tea ceremony are incredible friendly and explained the tea ceremony and the Japanese culture so well. One of the best experiences that I had during my time in Japan" },
+                { author: "Alan", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "I'd recommend this tour to everyone. The whole experience was amazing. The ladies who run this are all so nice and they've planned the whole thing really well. My wife and I don't normally go for such \"touristy\" activities but we loved this!" },
+            ],
+        };
+    }
+
+    if (slug === "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen") {
+        return {
+            averageRating: 5.0, totalReviews: 135, guideRating: 5.0, valueRating: 4.9,
+            reviews: [
+                { author: "Lynne", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "We had a wonderful day, exploring Kyoto with Itsuki. She was warm, welcoming, and friendly. She was great with our two small kids! She arranged everything for us so that all we had to do was follow her along, and we really enjoyed ourselves on the train ride, boat ride, and walking through the bamboo forest. She even suggested a café where the kids and grandparents could hang out while My husband and I enjoyed the onsen. A perfect day! Thank you Itsuki!" },
+                { author: "Tracey", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "It was a fantastic day and our guide Itsuki made it even better she was wonderful" },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Itsuki was an amazing guide from start to finish and she took really good care of us and made sure we had the best day :) I especially loved her using WhatsApp to communicate because she facilitated the whole process." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "The train , boat trip and walk in the bamboo forest were scenic and fun and a change from seeing temples. Itsuki was super organised, very friendly and entertaining, weaving in fun facts about Japanese traditions and language with information about the Bamboo forest and surrounding area. Itsuki communicates well before the tour date and again in the days leading up to the tour to make sure all runs smoothly. It was very hot and she supplied us with fans and extra frozen water on the tour . We chose not to go to the Onsen." },
+                { author: "Sierra", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "We had a wonderful time with Itsuki. We saw so much and loved the boat trip in particular." },
+                { author: "Jill", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "We had a fabulous morning! Romantic train ride then highly entertaining boat ride complete with beer boat, free time for lunch, then the bamboo forest. Our guide Itsuki was brilliant, so friendly and chatty, and very knowledgeable. Great communication throughout. Highly recommend!" },
+                { author: "Jiacai", country: "Verified traveller review", rating: 5, date: "2026-06-14", text: "We arrived late for the train but guide Itsuki went above and beyond to help us get on the next boat, which unfortunately got cancelled due to weather. She was an excellent guide and very engaging and warm and I felt like she truly cared for our welfare.👏🏻☺️" },
+                { author: "Alessandra", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Amazing! Our Guide Itsuki was very very friendly and nice . The tour was beautiful!!we are really happy that we did it !!" },
+            ],
+        };
+    }
+
     return null;
 };

@@ -8840,5 +8840,55 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+  if (slug === "kyoto-blacksmith-knife-making-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Studio Shinobi YASE, 168-1 Yase-no-secho, Sakyo Ward, Kyoto 601-1254 — about twenty minutes from central Kyoto on the Eizan line." },
+      { question: "What is included?", answer: "Three-hour knife forging session with professional instructors; Blacksmith's uniform; All tools and materials; Towel and water; Box and bag to carry your knife home." },
+      { question: "Can I take the knife on a plane?", answer: "Not in cabin baggage. It must go in your hold luggage — the studio provides a box and bag for it." },
+    ];
+  }
+
+  if (slug === "kyoto-zazen-meditation-private-temple-with-monk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 9 people." },
+      { question: "Where does it start?", answer: "Kodaiji Park, 463-28 Shimokawaracho, Higashiyama Ward, Kyoto 605-0825 — the guide waits on the northern side of the park." },
+      { question: "What is included?", answer: "Entry to a temple that is not open to the general public; Lecture by a monk on the principles and technique of zazen; Guided zazen practice; Tea overlooking the temple gardens; English-speaking guide." },
+      { question: "Do I need to be able to sit cross-legged?", answer: "The monk will show you the postures used and adapt them. Tell your guide beforehand if you have knee or back trouble." },
+    ];
+  }
+
+  if (slug === "kyoto-machiya-table-style-tea-ceremony-fushimi") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "711 Setomonocho, Fushimi Ward, Kyoto 612-8052 — a preserved machiya townhouse over a century old." },
+      { question: "What is included?", answer: "Full tea ceremony in the ryurei table-and-chair style; Seasonal Japanese wagashi sweets; Welcome drink — sake, juice or tea; Hands-on matcha whisking lesson with premium Uji matcha; Personalised calligraphy souvenir." },
+      { question: "Do I have to sit on the floor?", answer: "No. This is the ryurei style, performed at a table with chairs, so there is no kneeling — a full ceremony without the discomfort." },
+    ];
+  }
+
+  if (slug === "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 9 people." },
+      { question: "Where does it start?", answer: "Sagatenryuji Kurumamichicho, Ukyo Ward, Kyoto 616-8373 — in Arashiyama, close to the Sagano train terminus." },
+      { question: "What is included?", answer: "Sagano Romantic Train ticket; Hozugawa river boat ticket; Guided walk through the Arashiyama Bamboo Grove; English or Japanese-speaking guide." },
+      { question: "What happens if the train or boat is cancelled?", answer: "Both are third-party services affected by weather and river conditions. In winter the operator offers a guaranteed full refund on affected bookings." },
+    ];
+  }
+
+  if (slug === "amanohashidate-ine-funaya-day-tour-from-osaka-kyoto") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Osaka Metro Nipponbashi Station Exit 2 (1-5 Nipponbashi, Chuo Ward, Osaka 542-0073) at 8:45, or Kyoto Station Hachijoguchi sightseeing bus area." },
+      { question: "What is included?", answer: "Round-trip coach transport from Osaka or Kyoto; Guided visit to the Amanohashidate viewpoint area; Visit to the Ine funaya fishing village." },
+      { question: "Is the cable car included?", answer: "No. Neither the cable car to the viewpoint nor the Ine sightseeing boat is included by default. The guide can help you buy tickets for both once you are aboard." },
+    ];
+  }
+
     return null;
 };
