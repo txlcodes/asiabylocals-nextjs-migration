@@ -94,6 +94,16 @@ const TOUR_CARD_NINJA_KYOTO = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733961/asiabylocals/tours/kyoto-kid-friendly-ninja-class-museum/img0.jpg',
 };
 
+
+const TOUR_CARD_KYOTO_BAR = {
+    slug: 'kyoto-kawaramachi-izakaya-and-bar-crawl',
+    title: "Kawaramachi Bar Crawl with a Local",
+    description: "Three hours through Kyoto's izakaya lanes with someone who can read the menu.",
+    price: 'From $46',
+    duration: '3 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788728723/asiabylocals/tours/kyoto-kawaramachi-izakaya-and-bar-crawl/img0.jpg',
+};
+
 export function getKyotoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case "best-time-to-visit-kyoto":
@@ -1485,6 +1495,74 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_NINJA_KYOTO.image,
+      };
+    case "where-to-stay-in-kyoto":
+      return {
+        title: "Where to Stay in Kyoto: The Five Areas, and Who Each One Suits",
+        seoTitle: "Where to Stay in Kyoto (2026)",
+        description: "Kyoto's transport is the reason your neighbourhood matters more here than in Tokyo. What each area is actually like, and the trade-off you are making.",
+        fastFacts: [
+          { icon: "MapPin", label: "Best all-round", value: "Downtown, around Karasuma-Oike" },
+          { icon: "Train", label: "Best for day trips", value: "Kyoto Station" },
+          { icon: "Star", label: "Most atmospheric", value: "Higashiyama and Gion" },
+          { icon: "Wallet", label: "Book ahead", value: "6-9 months for April and November" },
+        ],
+        sections: [
+          {
+            title: "Why This Matters More in Kyoto Than Elsewhere",
+            icon: "Star",
+            content: "In Tokyo you can stay almost anywhere on the Yamanote line and the trains will fix it. Kyoto does not work that way.\n\nThe city has **only two subway lines** — one north-south, one east-west — and they cross in the middle. Almost everything else runs on buses, and Kyoto's tourist bus routes are slow, crowded and standing-room-only through cherry blossom and autumn. A hotel that looks fifteen minutes from a temple on a map can be forty minutes on a bus in November.\n\nThat makes the choice of area the single biggest practical decision of a Kyoto trip, and it comes down to one trade-off: **atmosphere or transport**. The most beautiful places to stay are the worst connected, and the best connected are the least atmospheric.\n\nThe five options in short:\n\n| Area | Best for | Trade-off |\n|---|---|---|\n| **Downtown / Karasuma** | Most people | Less atmospheric than Higashiyama |\n| **Kyoto Station** | Day trips to Nara, Osaka, Uji | Feels like a transport hub, because it is |\n| **Higashiyama / Gion** | Atmosphere, early temple access | Poor transport, expensive, quiet at night |\n| **Arashiyama** | A quiet base, families | Far from everything else |\n| **Northern Kyoto** | Long stays, budget | Bus-dependent |",
+            tourCard: TOUR_CARD_KYOTO_BAR,
+          },
+          {
+            title: "Downtown and Karasuma: The Default Answer",
+            icon: "MapPin",
+            content: "If you are unsure, stay here. The area around **Karasuma-Oike, Shijo-Karasuma and Kawaramachi** sits where the two subway lines cross, which is the only genuinely well-connected point in the city.\n\n**What it gets you:** both subway lines, the Hankyu and Keihan lines for Osaka, most of the city's restaurants, Nishiki Market, and the ability to walk home after dinner. Pontocho and Kawaramachi's drinking lanes are here, which matters more than people expect — Kyoto's sights close early, and the evening is when the city belongs to the people who live in it.\n\n**What it costs you:** it looks like a normal Japanese city centre. If your image of Kyoto is wooden houses and lanterns, this is not that, and you will need to travel to find it.\n\n**Who it suits:** first-time visitors, anyone staying three nights or fewer, and anyone who wants to eat well without planning it.\n\nOur [Kawaramachi bar crawl](/japan/kyoto/kyoto-kawaramachi-izakaya-and-bar-crawl) starts from here, which tells you something about where the evening happens.",
+          },
+          {
+            title: "Higashiyama and Gion: Atmosphere, at a Price",
+            icon: "Star",
+            content: "This is the Kyoto of the photographs — the eastern hills, the wooden machiya, Kiyomizu-dera, Yasaka Shrine, the Gion lanes.\n\n**What it gets you:** the single biggest advantage is being able to walk to Kiyomizu-dera or Yasaka at seven in the morning, before the coaches. Kyoto's most photographed streets are genuinely magical empty and genuinely miserable at eleven, and staying here is the only reliable way to see the first version.\n\n**What it costs you:** transport. There is no subway. Buses are the main option and they are the worst-affected in season. It is also the most expensive area, and it goes quiet early — restaurant options after nine are thin.\n\n**Who it suits:** returning visitors, couples, photographers, and anyone whose priority is the early morning rather than the evening.\n\n**A note on Gion specifically:** parts of the private lanes have banned photography, with fines, after years of visitors harassing geiko and maiko on their way to work. The main streets are fine. If you want the experience properly, our [maiko photoshoot](/japan/kyoto/kyoto-photoshoot-photography-tour) and the [machiya tea ceremony](/japan/kyoto/kyoto-machiya-table-style-tea-ceremony-fushimi) are the ways to engage with it that do not involve chasing someone down an alley.",
+          },
+          {
+            title: "Kyoto Station: Unromantic and Very Practical",
+            icon: "Train",
+            content: "Staying at the station is a decision people make for a reason and regret only if they wanted charm.\n\n**What it gets you:** Shinkansen to Tokyo and Hiroshima, JR to Nara and Uji, the airport train, the main bus terminal, and every coach day tour departing from outside your door. If your Kyoto trip includes day trips — and most good ones do — this saves an hour a day.\n\n**What it costs you:** it is a station district. Large, functional, and the ten minutes between your hotel and anything atmospheric is real.\n\n**Who it suits:** anyone doing Nara, Osaka, Uji, Hiroshima or Amanohashidate as day trips; travellers with heavy luggage; and people on a tight schedule.\n\nMost of our coach departures leave from here or nearby, including the [full-day Kyoto bus tour](/japan/kyoto/kyoto-full-day-bus-tour-bamboo-grove-golden-pavilion) and the [Amanohashidate day trip](/japan/nara/amanohashidate-ine-funaya-day-tour-from-osaka-kyoto).",
+          },
+          {
+            title: "Arashiyama and Northern Kyoto",
+            icon: "Info",
+            content: "**Arashiyama** is a village at the western edge of the city with the bamboo grove, the river, Tenryu-ji and the monkey park. Staying there gets you the bamboo grove at seven in the morning, which is the only time it is worth photographing, and a quiet evening by the river.\n\nThe cost is distance: it is a twenty to thirty minute train ride from the centre, and coming back for dinner is a decision rather than a stroll. It suits families and second visits.\n\n**Northern Kyoto** — around Kitaoji, Nishijin and the university area — is where a lot of the city actually lives. Prices are lower, the machiya rentals are better value, and Kinkaku-ji and the northern temples are close. It is bus-dependent, which is the whole caveat.\n\nNishijin is also the weaving district and where the [ikebana session](/japan/kyoto/kyoto-ikebana-class-nishijin-machiya) is, in a preserved merchant house — a good indication of the character of the area.\n\n**A word on machiya rentals.** A restored townhouse is the best accommodation experience in Kyoto if you are three or more, and often cheaper per head than hotel rooms, which in Kyoto are small. Check for a washing machine and confirm the check-in process, since many are unstaffed.",
+          },
+          {
+            title: "Booking, Timing and Money",
+            icon: "Wallet",
+            content: "**Book far ahead for April and November.** Cherry blossom and autumn colour are the two weeks a year when Kyoto genuinely runs out of rooms, and prices double or worse. Six to nine months is not excessive for those windows. The rest of the year, six to eight weeks is usually enough.\n\n**Consider staying in Osaka instead** if you are travelling with children or on a budget. Osaka is fifteen to thirty minutes away, hotels are cheaper and larger, and the city is far less demanding about quiet — see our [Osaka with kids guide](/japan/osaka/osaka-with-kids). The trade-off is losing the early mornings, which are Kyoto's best hours.\n\n**Ryokan.** Worth one night rather than a week for most travellers. Dinner and breakfast are usually included and served at fixed times, which constrains a sightseeing day. Treat it as an experience, not a base.\n\n**Luggage.** Kyoto hotel rooms are small and station coin lockers fill by mid-morning in season. The luggage forwarding services between hotels are cheap, reliable and the standard local solution — use them rather than dragging a case around.\n\n**Tax.** Kyoto levies an accommodation tax per person per night, charged at the hotel and not usually shown in online rates. Budget for it.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best area to stay in Kyoto?", a: "**Downtown around Karasuma and Kawaramachi** for most visitors — it is where the two subway lines cross, it has the restaurants, and you can walk home after dinner. Higashiyama is more atmospheric but poorly connected." },
+          { q: "Is it worth staying near Kyoto Station?", a: "Yes if your trip includes day trips. The Shinkansen, the Nara and Uji lines, the airport train and most coach departures are all there, which saves an hour a day. It has no atmosphere at all." },
+          { q: "Should I stay in Higashiyama or Gion?", a: "Only if the early morning matters more to you than transport. Staying there lets you reach Kiyomizu-dera at seven, before the crowds — but there is no subway, it is expensive, and it goes quiet early." },
+          { q: "How far ahead should I book?", a: "**Six to nine months for April and November**, when Kyoto genuinely sells out and prices double. Six to eight weeks is usually enough the rest of the year." },
+          { q: "Can I stay in Osaka and visit Kyoto?", a: "Yes — Osaka is 15 to 30 minutes away, hotels are cheaper and bigger, and it is easier with children. You lose Kyoto's early mornings, which are its best hours." },
+          { q: "Is a machiya rental worth it?", a: "For three or more people, usually yes — a restored townhouse beats Kyoto's small hotel rooms and often costs less per head. Check for a washing machine and confirm the check-in process, as many are unstaffed." },
+          { q: "Why does the area matter so much in Kyoto?", a: "Because Kyoto has **only two subway lines** and everything else runs on buses that are slow and packed in season. A hotel fifteen minutes from a temple on the map can be forty minutes away in November." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best area to stay in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "**Downtown around Karasuma and Kawaramachi** for most visitors — it is where the two subway lines cross, it has the restaurants, and you can walk home after dinner. Higashiyama is more atmospheric but poorly connected." } },
+            { "@type": "Question", name: "Is it worth staying near Kyoto Station?", acceptedAnswer: { "@type": "Answer", text: "Yes if your trip includes day trips. The Shinkansen, the Nara and Uji lines, the airport train and most coach departures are all there, which saves an hour a day. It has no atmosphere at all." } },
+            { "@type": "Question", name: "Should I stay in Higashiyama or Gion?", acceptedAnswer: { "@type": "Answer", text: "Only if the early morning matters more to you than transport. Staying there lets you reach Kiyomizu-dera at seven, before the crowds — but there is no subway, it is expensive, and it goes quiet early." } },
+            { "@type": "Question", name: "How far ahead should I book?", acceptedAnswer: { "@type": "Answer", text: "**Six to nine months for April and November**, when Kyoto genuinely sells out and prices double. Six to eight weeks is usually enough the rest of the year." } },
+            { "@type": "Question", name: "Can I stay in Osaka and visit Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Yes — Osaka is 15 to 30 minutes away, hotels are cheaper and bigger, and it is easier with children. You lose Kyoto's early mornings, which are its best hours." } },
+            { "@type": "Question", name: "Is a machiya rental worth it?", acceptedAnswer: { "@type": "Answer", text: "For three or more people, usually yes — a restored townhouse beats Kyoto's small hotel rooms and often costs less per head. Check for a washing machine and confirm the check-in process, as many are unstaffed." } },
+            { "@type": "Question", name: "Why does the area matter so much in Kyoto?", acceptedAnswer: { "@type": "Answer", text: "Because Kyoto has **only two subway lines** and everything else runs on buses that are slow and packed in season. A hotel fifteen minutes from a temple on the map can be forty minutes away in November." } },
+          ],
+        },
+        heroImage: TOUR_CARD_KYOTO_BAR.image,
       };
     default:
             return null;

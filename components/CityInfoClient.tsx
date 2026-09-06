@@ -252,6 +252,7 @@ const KYOTO_SIDEBAR = [
     { name: '3-Day Itinerary', slug: 'kyoto-3-day-itinerary' },
     { name: 'Uji Tea Guide', slug: 'uji-tea-guide' },
     { name: 'Kyoto with Kids', slug: 'kyoto-with-kids' },
+    { name: 'Where to Stay in Kyoto', slug: 'where-to-stay-in-kyoto' },
 ];
 
 const COLOMBO_SIDEBAR = [
