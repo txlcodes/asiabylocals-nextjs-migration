@@ -1685,6 +1685,64 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_SENTO.image,
       };
+    case "shibuya-sky-guide":
+      return {
+        title: "Shibuya Sky: Tickets, Timing and Whether It Beats the Other Decks",
+        seoTitle: "Shibuya Sky Guide (2026)",
+        description: "Shibuya Sky sells out days ahead in peak season and the sunset slots go first. How the ticketing works, when to go, and how it compares to Skytree and Tokyo Tower.",
+        fastFacts: [
+          { icon: "MapPin", label: "Height", value: "About 230 m, open-air rooftop" },
+          { icon: "Clock", label: "Best slot", value: "45-60 minutes before sunset" },
+          { icon: "AlertTriangle", label: "Booking", value: "Timed entry; sunset slots sell out first" },
+          { icon: "AlertTriangle", label: "Rooftop closes", value: "In rain, high wind and lightning" },
+        ],
+        sections: [
+          {
+            title: "Why This One and Not the Others",
+            icon: "Star",
+            content: "Tokyo has three well-known viewpoints and they are not interchangeable.\n\n**Shibuya Sky** is the roof of Shibuya Scramble Square, about 230 metres up, and the thing that separates it is that **the top level is open air**. No glass between you and the city. You are standing on a rooftop with a low parapet and a helipad, and the effect is completely different from looking through a window.\n\nIt also has the better view of the two things people actually want to photograph: **Shibuya Crossing directly below**, and **Mount Fuji on the western horizon** on clear winter days.\n\n**Tokyo Skytree** is far taller at 634 metres, which sounds decisive and is not. From that height the city becomes an abstract grid, and it is in the east, away from the skyline everyone pictures. Better on a clear day for sheer scale.\n\n**Tokyo Tower** is the lowest and the most nostalgic. Its real value is being *in* the photograph rather than on top of it — the tower lit orange is the classic Tokyo image, which is why our [yakatabune cruise](/japan/tokyo/tokyo-yakatabune-houseboat-cruise-sukiyaki-shamisen) bundles the observation deck rather than making it the point.\n\nIf you are choosing one, choose Shibuya Sky. If you are choosing two, add Skytree on a genuinely clear day.",
+            tourCard: TOUR_CARD_NIGHTWALK,
+          },
+          {
+            title: "How the Ticketing Actually Works",
+            icon: "AlertTriangle",
+            content: "This is where most visitors come unstuck.\n\n**Entry is timed.** You book a specific slot, not a day, and you are admitted within that window.\n\n**The sunset slots go first.** In practice the hour either side of sunset is what everyone wants, and those slots disappear days in advance in spring, autumn and any holiday period. If you turn up hoping to buy at the door on a Saturday in November, you will not get the slot you want.\n\n**Same-day tickets exist** but are limited and released on the day, and they are the leftovers rather than the good times.\n\n**Weather closes the roof.** The open-air level shuts in rain, strong wind and lightning. The indoor level below stays open, and the operator's refund policy depends on how they classify the day — check it before you book a slot around a marginal forecast.\n\n**The practical workaround** is to book an experience that includes the ticket. Three of ours do, and the timed entry is arranged for you: the [two-hour Shibuya night walk](/japan/tokyo/tokyo-shibuya-night-walk-sky-deck-miyashita-park), the [three-hour Shibuya and Shinjuku photo tour](/japan/tokyo/tokyo-night-photo-tour-shibuya-sky-shinjuku). That removes the slot problem and gives you someone who knows where on the deck to stand.",
+          },
+          {
+            title: "When to Go",
+            icon: "Clock",
+            content: "**Forty-five to sixty minutes before sunset** is the answer for almost everyone. You get the city in daylight, the sun going down behind the skyline, and the grid lighting up — three different views from one slot, which no other timing gives you.\n\n**For Mount Fuji, go in winter and go early.** Fuji is visible from Shibuya Sky on clear days, most reliably from November to February, and most reliably in the morning before haze builds. Summer visibility is poor.\n\n**For the crossing**, any time works, but after dark is better — the screens on the surrounding buildings are at full brightness and the intersection glows.\n\n**Avoid** the hour immediately after opening on weekends, and any slot on a public holiday if you can.\n\n**How long you need:** most people spend forty-five minutes to an hour. There is seating, a bar, and the hammock-style netting on the roof, and it is a pleasant place to stay rather than a viewpoint you photograph and leave.",
+          },
+          {
+            title: "Practical Details",
+            icon: "Info",
+            content: "**Loose items are not allowed on the rooftop.** Bags, tripods, hats and anything else that could blow off go into lockers before you go up — this is enforced and it surprises people carrying a camera bag. Phones and small cameras are fine, usually with a strap.\n\n**Tripods and selfie sticks are banned** on the open-air level.\n\n**There is no re-entry.** Once you leave, that is the visit.\n\n**Getting there:** Shibuya Scramble Square sits directly above Shibuya Station, so no walking is involved. The entrance and lift lobby are signposted inside the building.\n\n**Dress for wind.** It is 230 metres up and open. A rooftop in February is considerably colder than the street, and the temperature difference on a windy evening is not small.\n\n**Accessibility:** the indoor level is fully accessible; check current arrangements for the rooftop before booking if that matters.\n\n**Combining it:** it works naturally with an evening in Shibuya. Our [Shibuya highlights walk](/japan/tokyo/tokyo-shibuya-highlights-walk-hidden-viewpoint) covers the crossing and a free local viewpoint in ninety minutes for under thirty dollars, which is a good pairing if you want context before you go up — see also the [Shibuya Crossing guide](/japan/tokyo/shibuya-crossing-guide).",
+          },
+        ],
+        faqs: [
+          { q: "Do I need to book Shibuya Sky in advance?", a: "Yes, in practice. Entry is **timed** and the slots around sunset sell out days ahead in spring, autumn and holiday periods. Same-day tickets exist but are limited and are the leftover times." },
+          { q: "What is the best time to visit Shibuya Sky?", a: "**Forty-five to sixty minutes before sunset** — you get daylight, the sunset and the city lighting up in one slot. For Mount Fuji, come on a clear winter morning instead." },
+          { q: "Is Shibuya Sky better than Tokyo Skytree?", a: "For most visitors, yes. Shibuya Sky's top level is **open air**, it looks straight down on Shibuya Crossing and it faces the classic skyline. Skytree is far taller but the view becomes an abstract grid and it sits east of the centre." },
+          { q: "What happens if it rains?", a: "The **open-air rooftop closes** in rain, high wind and lightning. The indoor level stays open. Refund policy depends on how the operator classifies the day, so check before booking around a marginal forecast." },
+          { q: "Can I take a bag or tripod up?", a: "No. **Loose items go in lockers** before the rooftop — bags, hats, tripods and selfie sticks are not allowed up there. Phones and small cameras are fine." },
+          { q: "Can I see Mount Fuji from Shibuya Sky?", a: "On clear days, yes — most reliably **November to February and in the morning**, before haze builds. Summer visibility is poor." },
+          { q: "How long should I allow?", a: "**Forty-five minutes to an hour.** There is seating and a bar, and it is a place to stay rather than a viewpoint to photograph and leave. There is no re-entry once you exit." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Do I need to book Shibuya Sky in advance?", acceptedAnswer: { "@type": "Answer", text: "Yes, in practice. Entry is **timed** and the slots around sunset sell out days ahead in spring, autumn and holiday periods. Same-day tickets exist but are limited and are the leftover times." } },
+            { "@type": "Question", name: "What is the best time to visit Shibuya Sky?", acceptedAnswer: { "@type": "Answer", text: "**Forty-five to sixty minutes before sunset** — you get daylight, the sunset and the city lighting up in one slot. For Mount Fuji, come on a clear winter morning instead." } },
+            { "@type": "Question", name: "Is Shibuya Sky better than Tokyo Skytree?", acceptedAnswer: { "@type": "Answer", text: "For most visitors, yes. Shibuya Sky's top level is **open air**, it looks straight down on Shibuya Crossing and it faces the classic skyline. Skytree is far taller but the view becomes an abstract grid and it sits east of the centre." } },
+            { "@type": "Question", name: "What happens if it rains?", acceptedAnswer: { "@type": "Answer", text: "The **open-air rooftop closes** in rain, high wind and lightning. The indoor level stays open. Refund policy depends on how the operator classifies the day, so check before booking around a marginal forecast." } },
+            { "@type": "Question", name: "Can I take a bag or tripod up?", acceptedAnswer: { "@type": "Answer", text: "No. **Loose items go in lockers** before the rooftop — bags, hats, tripods and selfie sticks are not allowed up there. Phones and small cameras are fine." } },
+            { "@type": "Question", name: "Can I see Mount Fuji from Shibuya Sky?", acceptedAnswer: { "@type": "Answer", text: "On clear days, yes — most reliably **November to February and in the morning**, before haze builds. Summer visibility is poor." } },
+            { "@type": "Question", name: "How long should I allow?", acceptedAnswer: { "@type": "Answer", text: "**Forty-five minutes to an hour.** There is seating and a bar, and it is a place to stay rather than a viewpoint to photograph and leave. There is no re-entry once you exit." } },
+          ],
+        },
+        heroImage: TOUR_CARD_NIGHTWALK.image,
+      };
     default:
             return null;
     }

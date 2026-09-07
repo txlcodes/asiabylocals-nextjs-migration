@@ -181,7 +181,8 @@ export const TOKYO_INFO_SLUGS = [
   'akihabara-guide',
   'tokyo-with-kids',
   'where-to-stay-in-tokyo',
-  'tokyo-onsen-and-sento-guide'];
+  'tokyo-onsen-and-sento-guide',
+  'shibuya-sky-guide'];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
 export const KYOTO_INFO_SLUGS = [
