@@ -234,7 +234,8 @@ export const NAGOYA_INFO_SLUGS = [
   'atsuta-shrine-guide',
   'toyota-museums-guide',
   'nakasendo-magome-tsumago-guide',
-  'is-nagoya-worth-visiting'];
+  'is-nagoya-worth-visiting',
+  'where-to-stay-in-nagoya'];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
 export const ELLA_INFO_SLUGS = [

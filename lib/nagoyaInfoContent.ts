@@ -700,6 +700,69 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_SHIRAKAWAGO_OBS.image,
       };
+    case "where-to-stay-in-nagoya":
+      return {
+        title: "Where to Stay in Nagoya: Meieki or Sakae, and Why It Matters Less Than You Think",
+        seoTitle: "Where to Stay in Nagoya (2026)",
+        description: "Nagoya has two centres four minutes apart on the subway. Which one to pick depends entirely on whether you are here for the city or for the mountains beyond it.",
+        fastFacts: [
+          { icon: "Train", label: "Best for day trips", value: "Meieki, at Nagoya Station" },
+          { icon: "MapPin", label: "Best for eating and evenings", value: "Sakae" },
+          { icon: "Clock", label: "Between them", value: "Four minutes on the Higashiyama line" },
+          { icon: "Wallet", label: "Versus Kyoto and Tokyo", value: "Noticeably cheaper" },
+        ],
+        sections: [
+          {
+            title: "Two Centres, Four Minutes Apart",
+            icon: "Star",
+            content: "Nagoya's accommodation question is simpler than most Japanese cities because there are only two answers, and the subway ride between them takes four minutes.\n\n**Meieki** is the area around Nagoya Station — the Shinkansen, the Meitetsu and Kintetsu private lines, the airport train, and the JR Chuo line into the mountains. It is a wall of towers with department stores and restaurant floors inside them.\n\n**Sakae** is the commercial and entertainment centre, about two kilometres east: the TV Tower, Hisaya Odori Park, the department stores, the bars, and the Osu shopping arcades just south of it.\n\n**The deciding question is what you came for.** Nagoya's strongest argument as a destination is the day trips — Shirakawa-go, Takayama, the Kiso Valley post towns, Kamikochi, Ise — and almost all of them leave from Nagoya Station or from a coach stop beside it. If that is your trip, stay at Meieki and save yourself an hour a day.\n\nIf you are here for the city itself — the museums, Osu, the food, an evening — stay in Sakae, where you can walk out of the hotel into something.\n\nOur [Shirakawa-go and Takayama day trip](/japan/nagoya/nagoya-shirakawago-takayama-observatory-day-trip) departs from beside Nagoya Station, which is a fair illustration of the point.",
+            tourCard: TOUR_CARD_SHIRAKAWAGO_OBS,
+          },
+          {
+            title: "Meieki: The Practical Choice",
+            icon: "Train",
+            content: "**What it gets you:** the Shinkansen to Tokyo in about an hour forty and to Kyoto in thirty-five minutes; the Meitetsu line to Centrair airport and out to Inuyama and Seto; the JR Chuo line to the Kiso Valley; and the coach departure points for Shirakawa-go and Takayama.\n\nIt is also the best-covered part of the city in bad weather — the station complex, the department stores and the underground concourses connect a long way without going outside.\n\n**What it costs you:** character. Meieki is towers and concourses, and the eating is inside buildings rather than on streets. That is not a criticism of the food — the restaurant floors and the department store basements are excellent — but you will not stumble on anything.\n\n**Who it suits:** anyone using Nagoya as a base, anyone with an early train, and anyone visiting in a Nagoya summer, which is genuinely hot and humid.\n\n**A practical note:** Nagoya Station is large and the exits matter. Check which side of the station your hotel is on before you arrive with luggage.",
+          },
+          {
+            title: "Sakae: The Better Evening",
+            icon: "MapPin",
+            content: "**What it gets you:** the part of Nagoya that behaves like a city. Hisaya Odori Park runs through it — a hundred-metre-wide green strip with the TV Tower on it — and the streets either side hold the department stores, the bars and the restaurants.\n\n**Osu** is a ten-minute walk south, and it is the most enjoyable district in the city: several hundred metres of covered arcades selling second-hand clothes, electronics, anime goods, antiques and street food, built around a temple. Two hours there is a better introduction to Nagoya than any museum.\n\nThe city's craft and cooking sessions are concentrated here too — [calligraphy](/japan/nagoya/nagoya-calligraphy-class-with-tea-and-sweets) and [kimono](/japan/nagoya/nagoya-kimono-rental-and-castle-city-tour) in Sakae itself, the [maid cafe](/japan/nagoya/nagoya-osu-maid-cafe-experience) in Osu.\n\n**What it costs you:** four minutes on the subway to the station, and slightly more effort on a day-trip morning.\n\n**Who it suits:** anyone staying two nights or more, anyone who wants to walk to dinner, and anyone whose Nagoya is about the city rather than the mountains beyond it.\n\n**Nagoya Castle** is north of both areas, twenty minutes by subway from either — it does not favour one choice over the other.",
+          },
+          {
+            title: "The Other Options",
+            icon: "Info",
+            content: "**Kanayama** is the second transport hub, south of Sakae, where the JR, Meitetsu and subway lines meet. It is cheaper than both main areas, well connected, and unremarkable. A reasonable budget choice.\n\n**Fushimi** sits between Meieki and Sakae and splits the difference — quieter than Sakae, more walkable than Meieki, and close to the Noritake garden and the science museum.\n\n**Near Centrair airport** only makes sense for a very early flight. The airport is on an artificial island about thirty minutes from the city.\n\n**Inuyama**, forty minutes north, is worth considering for a night if you want a castle town rather than a city — it has one of the twelve original castle keeps in Japan and a preserved main street, and it is quiet in the evening in a good way.\n\n**Or do not stay at all.** Nagoya is thirty-five minutes from Kyoto by Shinkansen, which means a day trip in either direction is entirely practical. If your interest is the [Toyota museum](/japan/nagoya/nagoya-toyota-commemorative-museum-guided-tour), the [Tokugawa Art Museum](/japan/nagoya/nagoya-tokugawa-art-museum-guided-tour) or Ghibli Park rather than the mountains, a day trip from Kyoto works. See our [honest assessment of the city](/japan/nagoya/is-nagoya-worth-visiting) for when it is worth basing yourself here.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "Wallet",
+            content: "**Nagoya is cheaper than Tokyo, Kyoto and Osaka** for equivalent rooms, and it rarely sells out. It is one of the few major Japanese cities where booking a few weeks ahead is usually enough — the exceptions are Golden Week, Obon and any weekend with a major event at the dome.\n\n**Rooms are generally larger** than in Kyoto, which matters for families.\n\n**Airports.** Centrair (Chubu Centrair International) is about thirty minutes from Nagoya Station on the Meitetsu μ-Sky. Many international visitors arrive at Haneda, Narita or Kansai instead and reach Nagoya by Shinkansen.\n\n**Summer is hot.** Nagoya sits in a basin and July and August are humid and heavy. That is a real argument for Meieki, where you can move between the station, the hotel and the department stores underground.\n\n**Ghibli Park** is in Aichi Expo Park, about an hour east of the centre by train. Tickets are date-and-time specific and sell out well ahead — book them before you book the hotel, not after.\n\n**Length of stay.** One to two nights for the city; three to four if you are using Nagoya as a base for the mountains, which is the strongest reason to be here at all.",
+          },
+        ],
+        faqs: [
+          { q: "Should I stay at Nagoya Station or in Sakae?", a: "**Nagoya Station (Meieki)** if you are using the city as a base for Shirakawa-go, Takayama, the Kiso Valley or Ise — almost every day trip leaves from there. **Sakae** if you want to walk out into the city in the evening." },
+          { q: "How far apart are the two areas?", a: "**Four minutes** on the Higashiyama subway line, or a twenty-five minute walk. Neither choice cuts you off from the other." },
+          { q: "Is Nagoya cheaper than Kyoto or Osaka?", a: "Yes, noticeably, for equivalent rooms — and the rooms are generally larger. It also rarely sells out, so a few weeks' notice is usually enough outside Golden Week and Obon." },
+          { q: "Where is the budget option?", a: "**Kanayama**, the second transport hub south of Sakae, where the JR, Meitetsu and subway lines meet. Cheaper than both main areas and well connected." },
+          { q: "Do I need to stay in Nagoya at all?", a: "Not necessarily — it is **thirty-five minutes from Kyoto by Shinkansen**, so the museums and Ghibli Park work as a day trip. Stay if you want the mountain day trips, which are impractical from anywhere else." },
+          { q: "How many nights do I need?", a: "**One to two** for the city itself; **three to four** if you are using it as a base for Shirakawa-go, Takayama, Kamikochi or the Alpine Route." },
+          { q: "When should I book Ghibli Park?", a: "Before you book the hotel. Tickets are date-and-time specific and sell out well in advance, and the park is about an hour east of the centre." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Should I stay at Nagoya Station or in Sakae?", acceptedAnswer: { "@type": "Answer", text: "**Nagoya Station (Meieki)** if you are using the city as a base for Shirakawa-go, Takayama, the Kiso Valley or Ise — almost every day trip leaves from there. **Sakae** if you want to walk out into the city in the evening." } },
+            { "@type": "Question", name: "How far apart are the two areas?", acceptedAnswer: { "@type": "Answer", text: "**Four minutes** on the Higashiyama subway line, or a twenty-five minute walk. Neither choice cuts you off from the other." } },
+            { "@type": "Question", name: "Is Nagoya cheaper than Kyoto or Osaka?", acceptedAnswer: { "@type": "Answer", text: "Yes, noticeably, for equivalent rooms — and the rooms are generally larger. It also rarely sells out, so a few weeks' notice is usually enough outside Golden Week and Obon." } },
+            { "@type": "Question", name: "Where is the budget option?", acceptedAnswer: { "@type": "Answer", text: "**Kanayama**, the second transport hub south of Sakae, where the JR, Meitetsu and subway lines meet. Cheaper than both main areas and well connected." } },
+            { "@type": "Question", name: "Do I need to stay in Nagoya at all?", acceptedAnswer: { "@type": "Answer", text: "Not necessarily — it is **thirty-five minutes from Kyoto by Shinkansen**, so the museums and Ghibli Park work as a day trip. Stay if you want the mountain day trips, which are impractical from anywhere else." } },
+            { "@type": "Question", name: "How many nights do I need?", acceptedAnswer: { "@type": "Answer", text: "**One to two** for the city itself; **three to four** if you are using it as a base for Shirakawa-go, Takayama, Kamikochi or the Alpine Route." } },
+            { "@type": "Question", name: "When should I book Ghibli Park?", acceptedAnswer: { "@type": "Answer", text: "Before you book the hotel. Tickets are date-and-time specific and sell out well in advance, and the park is about an hour east of the centre." } },
+          ],
+        },
+        heroImage: TOUR_CARD_SHIRAKAWAGO_OBS.image,
+      };
     default:
       return null;
   }

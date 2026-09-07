@@ -384,6 +384,7 @@ const NAGOYA_SIDEBAR = [
     { name: 'Getting Around', slug: 'getting-around-nagoya' },
     { name: '2-Day Itinerary', slug: 'nagoya-2-day-itinerary' },
     { name: 'Is Nagoya Worth Visiting?', slug: 'is-nagoya-worth-visiting' },
+    { name: 'Where to Stay in Nagoya', slug: 'where-to-stay-in-nagoya' },
 ];
 
 const HAKONE_SIDEBAR = [
