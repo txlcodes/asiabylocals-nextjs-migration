@@ -401,6 +401,7 @@ const HAKONE_SIDEBAR = [
     { name: 'Getting Around', slug: 'getting-around-hakone' },
     { name: '2-Day Itinerary', slug: 'hakone-2-day-itinerary' },
     { name: 'Where to Stay in Hakone', slug: 'where-to-stay-in-hakone' },
+    { name: 'Hakone or Kawaguchiko?', slug: 'hakone-or-kawaguchiko-for-mount-fuji' },
 ];
 
 const SAPPORO_SIDEBAR = [

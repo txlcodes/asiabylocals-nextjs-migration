@@ -1087,6 +1087,69 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: CARD_2.image,
       };
+    case "hakone-or-kawaguchiko-for-mount-fuji":
+      return {
+        title: "Hakone or Kawaguchiko: Which One Actually Gets You Mount Fuji",
+        seoTitle: "Hakone vs Kawaguchiko for Mount Fuji (2026)",
+        description: "They are marketed as interchangeable and they are not. One is a hot spring caldera where Fuji is often hidden; the other sits directly under the mountain.",
+        fastFacts: [
+          { icon: "Star", label: "For Fuji views", value: "Kawaguchiko, clearly" },
+          { icon: "Star", label: "For onsen and a loop", value: "Hakone" },
+          { icon: "Train", label: "From Shinjuku", value: "Both roughly 1h30 to 2h" },
+          { icon: "AlertTriangle", label: "Visibility", value: "Best November to February, mornings" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "**If you want to see Mount Fuji, go to Kawaguchiko. If you want an onsen and a day of scenery, go to Hakone.**\n\nThis is not a close call, and the reason is geographic rather than a matter of taste.\n\n**Kawaguchiko** sits on the north side of Fuji, in the Fuji Five Lakes, with the mountain directly across the water and nothing in between. The classic images — Fuji reflected in the lake, Fuji behind the Chureito Pagoda, Fuji over a thatched village — are all taken here.\n\n**Hakone** is a volcanic caldera about forty kilometres south-east. Fuji is visible from parts of it, notably across Lake Ashi, but **the crater rim frequently gets in the way**, and even on a clear day the mountain is further off and smaller in the frame. What Hakone has instead is hot springs, a genuinely enjoyable transport loop, an open-air museum and a sulphur valley.\n\nThe two are marketed together because they are both day-trip distance from Tokyo, which has led an enormous number of visitors to book Hakone expecting Fuji and come back without a photograph.\n\nA third answer that is often the right one: **do neither as a rushed day trip and take a guided day that covers the north side properly** — our [two-sides day tour](/japan/hakone/mount-fuji-chureito-pagoda-oshino-hakkai-day-tour) covers Chureito Pagoda, Oshino Hakkai and Owakudani in one.",
+            tourCard: CARD_TWOSIDES,
+          },
+          {
+            title: "The Visibility Problem",
+            icon: "AlertTriangle",
+            content: "Whichever you choose, the mountain makes its own weather and is invisible a great deal of the time. Planning around that matters more than the choice of destination.\n\n**Winter is the reliable season.** From roughly November to February the air is dry and clear, and Fuji is visible on the majority of mornings. Summer is the worst — humid, hazy, and frequently cloud-covered all day even when the weather is fine.\n\n**Mornings beat afternoons, consistently.** Cloud builds through the day around the peak. A photograph at eight is far likelier than the same photograph at two.\n\n**No operator can guarantee it**, and the honest ones say so. Our own [shared coach day](/japan/tokyo/mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai) states it plainly in the description, and so should anyone else's.\n\nThe practical consequence: if seeing Fuji is genuinely important to you, **build in a second chance**. Two attempts on different mornings beat one long day, and staying overnight at Kawaguchiko gives you a morning attempt that a day trip from Tokyo cannot.",
+          },
+          {
+            title: "What Each One Is Actually Like",
+            icon: "MapPin",
+            content: "**Kawaguchiko** is a lake town with the mountain at the end of it. The things to do are mostly about looking: the Chureito Pagoda's five-storey silhouette with Fuji behind it, reached by 398 steps; Oishi Park on the north shore with seasonal flowerbeds in the foreground; Oshino Hakkai's spring-fed ponds, filled by snowmelt filtered through volcanic rock; and the Aokigahara lava forest, which is a geological walk rather than the thing the internet made it. There is a ropeway, a music box museum and a good deal of nothing else. That is fine — you came for a mountain.\n\n**Hakone** is a caldera with an itinerary. The standard loop uses four modes of transport in sequence — the Tozan mountain railway with its switchbacks, a cable car, a ropeway over the Owakudani sulphur valley, and a boat across Lake Ashi — and the loop itself is the attraction as much as any single stop. Add the Open-Air Museum, the Hakone Shrine's torii standing in the lake, and a hot spring town at the bottom.\n\n**The tell:** Kawaguchiko's activities point outward at one thing. Hakone's point inward at the caldera. Which you prefer says more about your trip than about the places.",
+          },
+          {
+            title: "Getting There, and Doing Both",
+            icon: "Train",
+            content: "**To Kawaguchiko:** direct bus from Shinjuku in about two hours, or the Fuji Excursion train from Shinjuku in around two hours. The bus is cheaper, more frequent and drops you in the middle of town.\n\n**To Hakone:** Odakyu Romancecar from Shinjuku to Hakone-Yumoto in about ninety minutes. The [Hakone Freepass](/japan/hakone/getting-around-hakone) covers the loop and almost always pays for itself.\n\n**Doing both** is entirely possible and is a good two-day plan: a night at Kawaguchiko for the morning view, then across to Hakone for the loop and an onsen. There is a direct bus between them taking about an hour and a half, and we run a [private guided transfer](/japan/hakone/kawaguchiko-to-hakone-private-guided-transfer) that stops at the shrine and the springs on the way rather than driving straight through.\n\n**If you only have one day from Tokyo**, take a guided day rather than assembling it yourself. The transport between the Fuji viewpoints is the weak link — infrequent buses, long waits — and it is where independent day trips lose their afternoon. Our [shared coach day](/japan/tokyo/mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai) covers four north-side stops for about sixty dollars, which is less than the transport alone would cost you.",
+          },
+          {
+            title: "So Which One",
+            icon: "Calendar",
+            content: "**Go to Kawaguchiko if:** a photograph of Mount Fuji is the point; you are visiting between November and February; you can stay a night and get a morning; or you want the Chureito Pagoda shot specifically.\n\n**Go to Hakone if:** you want a ryokan and an onsen evening; you like the idea of a day built around a transport loop; you are travelling with someone who does not care about the mountain; or you are between Tokyo and Kyoto and want a stop that is not another city.\n\n**Go to neither if:** you have four days in Japan and have not seen Kyoto. Fuji is the most photographed mountain on earth and it will still be there next trip.\n\n**And be realistic about climbing it.** The official season is short — roughly July to early September — the huts book out months ahead, and the mountain above the fifth station is a serious high-altitude day, not a hike with a view. Outside the season it is genuinely dangerous and the prefectures actively discourage it. If you want the summit, our [two-day guided climbs](/japan/hakone/climbing-mount-fuji-guide) explain what is actually involved.\n\nFor most visitors the correct answer is: look at it from Kawaguchiko, bathe in Hakone, and leave the climb alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is Hakone or Kawaguchiko better for Mount Fuji views?", a: "**Kawaguchiko, clearly.** It sits directly north of the mountain across a lake. Hakone is a caldera forty kilometres away where the crater rim frequently blocks the view and Fuji is smaller in the frame even on a clear day." },
+          { q: "Can you see Mount Fuji from Hakone?", a: "Sometimes — notably across Lake Ashi — but it is unreliable and distant. A great many visitors book Hakone expecting Fuji and return without a photograph." },
+          { q: "When is Fuji most likely to be visible?", a: "**November to February, in the morning.** The winter air is dry and clear; summer is hazy and often cloud-covered all day. Cloud builds around the peak as the day goes on." },
+          { q: "Can I do both in one trip?", a: "Yes, and it makes a good two-day plan — a night at Kawaguchiko for the morning view, then Hakone for the loop and an onsen. A direct bus takes about ninety minutes, or take a guided transfer that stops on the way." },
+          { q: "Is a one-day trip from Tokyo worth it?", a: "Yes, if you take a guided day. The weak link is transport between the Fuji viewpoints — infrequent buses and long waits — which is where independent day trips lose the afternoon." },
+          { q: "Should I climb Mount Fuji instead?", a: "Only with real intent. The season is roughly **July to early September**, huts book out months ahead, and above the fifth station it is a serious altitude day rather than a scenic hike. Outside the season the prefectures actively discourage it." },
+          { q: "Which is better for an onsen?", a: "**Hakone**, without question — it is a hot spring region with dozens of ryokan across several villages. Kawaguchiko has onsen but they are not the reason to go there." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Hakone or Kawaguchiko better for Mount Fuji views?", acceptedAnswer: { "@type": "Answer", text: "**Kawaguchiko, clearly.** It sits directly north of the mountain across a lake. Hakone is a caldera forty kilometres away where the crater rim frequently blocks the view and Fuji is smaller in the frame even on a clear day." } },
+            { "@type": "Question", name: "Can you see Mount Fuji from Hakone?", acceptedAnswer: { "@type": "Answer", text: "Sometimes — notably across Lake Ashi — but it is unreliable and distant. A great many visitors book Hakone expecting Fuji and return without a photograph." } },
+            { "@type": "Question", name: "When is Fuji most likely to be visible?", acceptedAnswer: { "@type": "Answer", text: "**November to February, in the morning.** The winter air is dry and clear; summer is hazy and often cloud-covered all day. Cloud builds around the peak as the day goes on." } },
+            { "@type": "Question", name: "Can I do both in one trip?", acceptedAnswer: { "@type": "Answer", text: "Yes, and it makes a good two-day plan — a night at Kawaguchiko for the morning view, then Hakone for the loop and an onsen. A direct bus takes about ninety minutes, or take a guided transfer that stops on the way." } },
+            { "@type": "Question", name: "Is a one-day trip from Tokyo worth it?", acceptedAnswer: { "@type": "Answer", text: "Yes, if you take a guided day. The weak link is transport between the Fuji viewpoints — infrequent buses and long waits — which is where independent day trips lose the afternoon." } },
+            { "@type": "Question", name: "Should I climb Mount Fuji instead?", acceptedAnswer: { "@type": "Answer", text: "Only with real intent. The season is roughly **July to early September**, huts book out months ahead, and above the fifth station it is a serious altitude day rather than a scenic hike. Outside the season the prefectures actively discourage it." } },
+            { "@type": "Question", name: "Which is better for an onsen?", acceptedAnswer: { "@type": "Answer", text: "**Hakone**, without question — it is a hot spring region with dozens of ryokan across several villages. Kawaguchiko has onsen but they are not the reason to go there." } },
+          ],
+        },
+        heroImage: CARD_TWOSIDES.image,
+      };
     default:
       return null;
   }
