@@ -219,7 +219,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-nara', 'nara-deer-park-guide', 'todai-ji-temple-guide',
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide',
-    'nara-workshops-and-crafts'].map(slug => ({
+    'nara-workshops-and-crafts',
+    'should-you-stay-overnight-in-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

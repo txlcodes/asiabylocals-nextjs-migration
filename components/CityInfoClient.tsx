@@ -368,6 +368,7 @@ const NARA_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-nara' },
     { name: 'Half-Day Itinerary', slug: 'nara-half-day-itinerary' },
     { name: 'Nara Workshops & Crafts', slug: 'nara-workshops-and-crafts' },
+    { name: 'Stay Overnight in Nara?', slug: 'should-you-stay-overnight-in-nara' },
 ];
 
 const NAGOYA_SIDEBAR = [

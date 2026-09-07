@@ -221,7 +221,8 @@ export const NARA_INFO_SLUGS = [
   'nara-food-guide',
   'getting-around-nara',
   'mount-yoshino-cherry-blossom-guide',
-  'nara-workshops-and-crafts'];
+  'nara-workshops-and-crafts',
+  'should-you-stay-overnight-in-nara'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [

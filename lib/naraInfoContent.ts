@@ -662,6 +662,69 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_NARA_CALLIG.image,
       };
+    case "should-you-stay-overnight-in-nara":
+      return {
+        title: "Should You Stay Overnight in Nara? The Honest Case Either Way",
+        seoTitle: "Staying Overnight in Nara (2026)",
+        description: "Almost everyone does Nara as a half-day from Kyoto or Osaka. Here is what an overnight actually buys you, and when it is worth giving up a night elsewhere.",
+        fastFacts: [
+          { icon: "Train", label: "From Kyoto", value: "About 45 minutes" },
+          { icon: "Train", label: "From Osaka", value: "About 35-45 minutes" },
+          { icon: "Clock", label: "What most people do", value: "A half-day, arriving late morning" },
+          { icon: "Star", label: "What the overnight buys", value: "The park at dawn and after dark" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "**Most visitors should not stay overnight in Nara, and the ones who should know why they want to.**\n\nNara is forty-five minutes from Kyoto and about the same from Osaka. Its major sights — Todai-ji, Nara Park, Kasuga Taisha, Kofuku-ji — sit within a walkable area and can be covered properly in five or six hours. That is why the standard plan is a day trip, and the standard plan is right for most people.\n\nWhat an overnight buys is **the two hours at each end of the day that day-trippers never see**.\n\nBy nine in the morning the first coaches have arrived at Todai-ji. Before that, the park belongs to the deer, the joggers and the people who live there, and the Great Buddha Hall opens early enough that you can be inside it almost alone. After about five in the afternoon the same thing happens in reverse: the crowds drain back to the stations, the light goes long across the park, and Kasuga Taisha's stone lanterns look the way the photographs suggest.\n\nIf those hours matter to you, stay. If your Japan itinerary is nine days and you have not seen Kyoto properly, do not.\n\nThe compromise nobody mentions: **go early rather than staying late**. A first train from Kyoto has you in Nara Park by eight, which captures most of the benefit without giving up a night.",
+            tourCard: TOUR_CARD_MORNING,
+          },
+          {
+            title: "What the Morning Actually Looks Like",
+            icon: "Clock",
+            content: "The specific argument for staying is worth spelling out, because 'fewer crowds' undersells it.\n\n**The deer behave differently.** In the middle of the day the deer in the main park are surrounded by people holding crackers and they behave accordingly — pushy, insistent, occasionally nippy. Early in the morning, before the cracker sellers set up, they are simply animals in a park, grazing and largely ignoring you. It is a completely different encounter.\n\n**Todai-ji is enormous and hard to feel.** The Great Buddha Hall is the largest wooden building of its kind and holds a fifteen-metre bronze Buddha cast in the eighth century. With four hundred people in it and a queue for the pillar hole, the scale does not register. With twenty people in it, it does.\n\n**Kasuga Taisha's approach** is a long path under cedars lined with stone lanterns — around 2,000 of them, moss-covered, donated over centuries. It is a walk, not a viewpoint, and walking it alone is the point.\n\n**Naramachi in the evening.** The old merchant quarter south of the centre is where Nara's residents actually are after dark — converted townhouses, small restaurants, no coaches. Day-trippers are on a train by then.\n\nOur [early morning walk](/japan/nara/nara-park-morning-tour) exists precisely for this window, and runs from Kyoto or Osaka for people not staying.",
+          },
+          {
+            title: "The Case Against",
+            icon: "AlertTriangle",
+            content: "Be honest about the trade-offs, because they are real.\n\n**Nara's evening is quiet.** This is a city of about 350,000 with a strong daytime tourism economy and a modest nightlife. Restaurants close earlier than in Kyoto and considerably earlier than in Osaka. If you like a long dinner and a bar afterwards, you will find the evening thin.\n\n**Hotel choice is limited.** There are good ryokan and a handful of decent hotels near Kintetsu Nara Station, but the range is nothing like Kyoto's or Osaka's, and prices are not obviously lower.\n\n**You are giving up a night somewhere denser.** A night in Nara is a night not in Kyoto or Osaka, both of which have far more to do after six.\n\n**The sights genuinely do fit in a day.** Unlike Kyoto, where a week is not enough, Nara's core is finite. Two full days here is more time than the city asks for unless you are going out to Yoshino, Asuka or Hasedera.\n\n**Where an overnight does make clear sense:** if you are travelling between Kyoto and Osaka anyway and Nara is on the line; if you want the early morning without a 6 a.m. start; if you are visiting Mount Yoshino in cherry blossom season; or if you have already done Kyoto and Osaka on a previous trip.",
+          },
+          {
+            title: "If You Do Stay, Stay Here",
+            icon: "MapPin",
+            content: "**Around Kintetsu Nara Station** is the right area for almost everyone. It is the more central of the two stations — JR Nara is about fifteen minutes further west — and it puts you within a ten-minute walk of Nara Park, Kofuku-ji and the Naramachi lanes. Most of the city's craft workshops are within the same radius; see our [Nara workshops guide](/japan/nara/nara-workshops-and-crafts).\n\n**Naramachi** itself, the old merchant quarter, has converted machiya guesthouses. Quieter, more character, five minutes further from the park.\n\n**Ryokan near the park** are the reason some people come. A traditional inn with dinner and breakfast, within walking distance of Todai-ji, is a genuinely good version of a Japanese night — and dinner at a fixed early hour matters much less here than in a city where you would otherwise be out.\n\n**Avoid** anything requiring a bus. Nara's centre is walkable and a hotel that needs transport gives up the entire advantage of staying.\n\n**Beyond the city:** if you are heading for Mount Yoshino in April, stay in Yoshino itself rather than Nara — the mountain's cherry blossom is best at dawn and the last trains down are early.",
+          },
+          {
+            title: "A Two-Day Shape, If You Commit",
+            icon: "Calendar",
+            content: "**Day 1, afternoon.** Arrive from Kyoto or Osaka after lunch, when the day-trippers are already there — there is no point competing with them. Do the indoor things: Kofuku-ji's National Treasure Museum, Naramachi's lanes, or a [craft workshop](/japan/nara/nara-japanese-calligraphy-experience). Dinner in Naramachi.\n\n**Day 2, morning.** Be in the park by seven. Deer, then Todai-ji at opening, then the lantern path to Kasuga Taisha, then down through the park as the coaches arrive and everyone else's day begins. You will have finished the main sights by eleven.\n\n**Day 2, afternoon.** Either leave for your next city, or go further out — Asuka's [megalithic tombs by e-bike](/japan/nara/nara-asuka-ebike-tour-ishibutai-megaliths), Horyu-ji, or Uji on the way back to Kyoto.\n\nThat shape uses the overnight for what it is actually good for. Arriving in the morning and leaving the next morning wastes it entirely, which is what most two-day Nara itineraries end up doing.",
+          },
+        ],
+        faqs: [
+          { q: "Is one day enough for Nara?", a: "For most visitors, yes. The major sights — Todai-ji, Nara Park, Kasuga Taisha and Kofuku-ji — are walkable and cover comfortably in five or six hours, which is why the day trip is the standard plan." },
+          { q: "What does staying overnight in Nara get you?", a: "**The park before nine and after five.** The deer behave completely differently before the cracker sellers arrive, Todai-ji's scale registers when it is not full, and Kasuga Taisha's lantern path is a walk best done alone." },
+          { q: "Is Nara quiet at night?", a: "Yes. It is a city of about 350,000 with a modest evening scene — restaurants close earlier than in Kyoto and much earlier than in Osaka. That is the main argument against staying." },
+          { q: "Where should I stay in Nara?", a: "**Around Kintetsu Nara Station**, the more central of the two, within a ten-minute walk of the park and Naramachi. Machiya guesthouses in Naramachi are the quieter alternative, and a ryokan near the park is the reason some people come." },
+          { q: "Is there a way to get the early morning without staying?", a: "Yes — take the first train from Kyoto or Osaka and be in the park by eight. That captures most of the benefit without giving up a night. Our [early morning tour](/japan/nara/nara-park-morning-tour) runs on exactly that basis." },
+          { q: "When is an overnight in Nara clearly worth it?", a: "If you are visiting **Mount Yoshino during cherry blossom**, if you have already done Kyoto and Osaka on a previous trip, or if Nara falls naturally between the two on your route." },
+          { q: "Should I stay in Nara or Osaka?", a: "**Osaka**, for almost everyone — more hotels, cheaper, larger rooms, and far more to do after six. Nara is 35 to 45 minutes away by train." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is one day enough for Nara?", acceptedAnswer: { "@type": "Answer", text: "For most visitors, yes. The major sights — Todai-ji, Nara Park, Kasuga Taisha and Kofuku-ji — are walkable and cover comfortably in five or six hours, which is why the day trip is the standard plan." } },
+            { "@type": "Question", name: "What does staying overnight in Nara get you?", acceptedAnswer: { "@type": "Answer", text: "**The park before nine and after five.** The deer behave completely differently before the cracker sellers arrive, Todai-ji's scale registers when it is not full, and Kasuga Taisha's lantern path is a walk best done alone." } },
+            { "@type": "Question", name: "Is Nara quiet at night?", acceptedAnswer: { "@type": "Answer", text: "Yes. It is a city of about 350,000 with a modest evening scene — restaurants close earlier than in Kyoto and much earlier than in Osaka. That is the main argument against staying." } },
+            { "@type": "Question", name: "Where should I stay in Nara?", acceptedAnswer: { "@type": "Answer", text: "**Around Kintetsu Nara Station**, the more central of the two, within a ten-minute walk of the park and Naramachi. Machiya guesthouses in Naramachi are the quieter alternative, and a ryokan near the park is the reason some people come." } },
+            { "@type": "Question", name: "Is there a way to get the early morning without staying?", acceptedAnswer: { "@type": "Answer", text: "Yes — take the first train from Kyoto or Osaka and be in the park by eight. That captures most of the benefit without giving up a night. Our [early morning tour](/japan/nara/nara-park-morning-tour) runs on exactly that basis." } },
+            { "@type": "Question", name: "When is an overnight in Nara clearly worth it?", acceptedAnswer: { "@type": "Answer", text: "If you are visiting **Mount Yoshino during cherry blossom**, if you have already done Kyoto and Osaka on a previous trip, or if Nara falls naturally between the two on your route." } },
+            { "@type": "Question", name: "Should I stay in Nara or Osaka?", acceptedAnswer: { "@type": "Answer", text: "**Osaka**, for almost everyone — more hotels, cheaper, larger rooms, and far more to do after six. Nara is 35 to 45 minutes away by train." } },
+          ],
+        },
+        heroImage: TOUR_CARD_MORNING.image,
+      };
     default:
       return null;
   }
