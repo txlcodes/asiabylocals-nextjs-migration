@@ -9360,5 +9360,2100 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+    // --- SRI LANKA (2026-09) ---
+
+  if (slug === "ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving and stops on the route, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at the tea factory or any site that charges, meals and drinks, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or the surrounding area, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver-guide; hotel pickup and drop-off; lunch at a local restaurant; bottled water; all fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Sigiriya and Dambulla entrance tickets; drinks; gratuities; personal expenses; site guide fees at Sigiriya if you hire one." },
+    ];
+  }
+
+  if (slug === "galle-fort-turtle-beach-bentota-mangrove-safari-private-day-tr") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Mount Lavinia, Kalutara, Bentota or other south-coast hotels, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver-guide; hotel pickup and drop-off from Colombo or south-coast hotels; mangrove river boat safari; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Entrance fees and donations at the turtle hatchery; snorkelling equipment hire; meals and drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "wilpattu-national-park-leopard-safari-colombo-pickup") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, or at one of the northern pickup points (Anuradhapura, Nochchiyagama, Sinharagama, Galkadawala or Negombo) if you are already up-country." },
+      { question: "What is included?", answer: "Open 4x4 safari jeep with driver-tracker, round-trip transfer from your selected pickup point, drinking water." },
+      { question: "What is not included?", answer: "National park entrance and tracker fees payable on arrival, meals, tips, personal expenses, camera fees where applicable." },
+    ];
+  }
+
+  if (slug === "pekoe-trail-stage-16-guided-hike-ella-to-demodara-via-the-nine-arch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Meet in Ella town, or hotel pickup; confirmed after booking." },
+      { question: "What is included?", answer: "An English-speaking hiking guide, hotel pickup in Ella, the guided walk, drinking water." },
+      { question: "What is not included?", answer: "The train ticket back to Ella, meals, gratuities, personal equipment." },
+      { question: "What is the Pekoe Trail?", answer: "A 300-kilometre waymarked route through Sri Lanka's tea country, opened in 2023 and split into 22 stages. Each stage is a day's walk, and you can do one without committing to the rest." },
+    ];
+  }
+
+  if (slug === "liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off, all driving and stops, fuel." },
+      { question: "What is not included?", answer: "Tea factory entrance, meals and drinks, tea purchases, gratuities, a local guide at the falls where one is engaged." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "kandy-city-highlights-private-day-tour-temple-viewpoints-and-gardens") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving between sites, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, including the Temple of the Tooth, meals and drinks, gratuities, anything bought at the workshops." },
+    ];
+  }
+
+  if (slug === "hand-rolled-tea-making-workshop-in-ella-with-a-tasting-and-estate-walk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella by tuk-tuk; confirmed after booking." },
+      { question: "What is included?", answer: "Tuk-tuk pickup and drop-off in Ella, the guided tea-making session, all materials, a tasting of five grades, local snacks, the estate walk." },
+      { question: "What is not included?", answer: "Meals beyond the snacks, tea purchases, gratuities." },
+      { question: "Do I take my work home?", answer: "Yes. These are short hands-on sessions and you leave with the piece you made." },
+    ];
+  }
+
+  if (slug === "meemure-village-day-trip-from-kandy-with-the-diyakarella-waterfall-hike") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Kandy including the jeep section, an English-speaking guide, the guided village walk and waterfall hike, a traditional village lunch." },
+      { question: "What is not included?", answer: "Drinks beyond those served with lunch, gratuities, any community or forest entry fee, personal expenses." },
+    ];
+  }
+
+  if (slug === "pekoe-trail-stage-11-guided-hike-horton-plains-to-udaweriya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Nuwara Eliya to the trailhead and back from the finish, an English-speaking hiking guide, the guided hike, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal hiking equipment, park fees where they apply." },
+      { question: "Why does Horton Plains start so early?", answer: "World's End is a 880-metre drop that clouds over almost every morning. Arriving at 6:30 usually means a view; arriving at 9 usually means a white wall. The gate opens at 6 AM for exactly this reason." },
+    ];
+  }
+
+  if (slug === "colombo-street-food-walking-tour-local-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "39 Sir Razik Fareed Mawatha, Colombo 00100, in the Fort and Pettah area near the old Dutch Hospital." },
+      { question: "What is included?", answer: "Local English-speaking guide for three hours, food tastings along the route, drinks at the tea stops." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off, additional food and drinks bought outside the route, alcohol, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "udawalawe-national-park-elephant-safari-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Wadduwa, Moratuwa or Panadura, arranged when you book." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off in Colombo, Wadduwa, Moratuwa or Panadura; Udawalawe National Park entrance tickets; safari jeep with tracker for the game drive; Elephant Transit Home entrance; bottled water; all fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Lunch and other meals; drinks; tips for the driver, guide and jeep tracker; camera fees where charged; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "upper-diyaluma-infinity-pools-guided-trek-from-ella-with-a-mountain") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking hiking guide, hotel pickup and drop-off in Ella, the guided trek, a mountain picnic, drinking water." },
+      { question: "What is not included?", answer: "Gratuities, personal equipment, personal expenses." },
+    ];
+  }
+
+  if (slug === "sigiriya-polonnaruwa-long-guided-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo, very early morning." },
+      { question: "What is included?", answer: "Air-conditioned car with fuel and driver; English-speaking guide; Sri Lankan lunch; hotel pickup and drop-off in Colombo or Negombo; bottled water." },
+      { question: "What is not included?", answer: "Site entrance tickets for Sigiriya and Polonnaruwa; breakfast; drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "kandy-unesco-heritage-day-by-local-bus-with-a-kandyan-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Meet in central Kandy or hotel pickup; confirmed after booking." },
+      { question: "What is included?", answer: "An English-speaking local guide for the full day, all local bus fares, the guided walking sections." },
+      { question: "What is not included?", answer: "The Temple of the Tooth entrance fee and any other entry charges, meals and drinks, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "ella-waterfall-abseiling-adventure-hotel-pickup") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Pickup from your accommodation in Ella, Bandarawela, Haputale, Demodara, Beragala, Halpe, Heel Oya, Balleketuwa or Kithalella, agreed with the operator when you book." },
+      { question: "What is included?", answer: "Certified abseiling instructors, harness, helmet, ropes, descender and all technical equipment, safety briefing and practice session, return transfer from your listed pickup point, and drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks, photos and video, towels, personal clothing and footwear, tips, and travel insurance covering adventure activities." },
+    ];
+  }
+
+  if (slug === "udawalawe-cycling-tour-from-ella-with-ravana-falls-and-the-escarpment") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella, a bicycle and helmet, an English-speaking cycling guide, a support vehicle, drinking water." },
+      { question: "What is not included?", answer: "Meals, the Udawalawe safari if added separately, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-eight-sights-day-trip-with-the-demodara-loop-and-a-train-leg") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, guiding on both walks, all driving." },
+      { question: "What is not included?", answer: "Train tickets, the zipline fee, entrance fees, meals and drinks, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "horton-plains-sunrise-trek-with-a-transfer-on-to-haputale-or-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup in Nuwara Eliya, transport to and from the park, drop-off in Haputale or Ella, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Horton Plains entrance fee, meals, gratuities, personal expenses." },
+      { question: "Why does Horton Plains start so early?", answer: "World's End is a 880-metre drop that clouds over almost every morning. Arriving at 6:30 usually means a view; arriving at 9 usually means a white wall. The gate opens at 6 AM for exactly this reason." },
+    ];
+  }
+
+  if (slug === "private-horton-plains-tour-from-ella-with-the-scenic-train-to-ohiya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, transport between Ohiya station and the park, guiding on the loop." },
+      { question: "What is not included?", answer: "The Horton Plains entrance fee, train tickets, meals, gratuities." },
+      { question: "Why does Horton Plains start so early?", answer: "World's End is a 880-metre drop that clouds over almost every morning. Arriving at 6:30 usually means a view; arriving at 9 usually means a white wall. The gate opens at 6 AM for exactly this reason." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Sigiriya or Dambulla, all stops, drop-off at your Nuwara Eliya hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at Dambulla and elsewhere, meals and drinks, spice purchases, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "ella-hidden-gems-day-tour-the-loop-the-secret-waterfall-and-both-peaks") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, guiding on both walks, all driving." },
+      { question: "What is not included?", answer: "Train tickets, the zipline fee if added, entrance fees, meals and drinks, gratuities." },
+    ];
+  }
+
+  if (slug === "udawalawe-to-ella-guided-transfer-with-buduruwagala-and-the-waterfalls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in the Udawalawe area; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup at Udawalawe, all stops on the route, drop-off in Ella, Bandarawela, Haputale or Beragala, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, spice purchases, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 15 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Return transport from your Kandy hotel by van, an English-speaking guide for the climb, the ascent and descent." },
+      { question: "What is not included?", answer: "Meals and drinks, warm clothing, torches, donations at the summit temple, gratuities, personal expenses." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, an English-speaking guide, the village walk and farming visits, the bullock cart, a home-cooked lunch." },
+      { question: "What is not included?", answer: "Drinks beyond those served with lunch, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "all-inclusive-sigiriya-rock-and-dambulla-cave-temple-day-tour-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, guiding at both sites, all driving, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla, meals and drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup in Kandy, both site visits, drop-off at your Trincomalee hotel, luggage carried throughout, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla, meals and drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "ella-day-trip-from-colombo-or-negombo-with-a-tea-factory-and-the-nine") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 16 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Colombo or Negombo, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "kandy-day-trip-colombo-train-home-cooked-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo and transfer to Colombo Fort railway station." },
+      { question: "What is included?", answer: "English-speaking guide for the day; train ticket from Colombo to Kandy; hotel pickup in Colombo and return transfer by air-conditioned vehicle; home-hosted Sri Lankan lunch; tea estate and factory visit; bottled water." },
+      { question: "What is not included?", answer: "Temple entrance fees; breakfast and dinner; drinks; tips; camera fees; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "water-skiing-session-colombo-port-city-waterfront") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 20 minutes." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "Colombo Port City waterfront water sports base. The operator confirms the exact meeting point and slot time after booking." },
+      { question: "What is included?", answer: "Twenty-minute water skiing session, boat and driver, safety spotter, water skis, tow rope, buoyancy aid and safety briefing." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off, photos and video, towels, meals, tips and travel insurance." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Nuwara Eliya, all stops, drop-off at your Sigiriya or Dambulla hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at Dambulla and elsewhere, meals and drinks, tea and spice purchases, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "wilpattu-national-park-private-jeep-safari-day-trip-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Your hotel in Colombo or Negombo, with an early morning pickup. The operator confirms the pickup time based on your address when the booking is accepted." },
+      { question: "What is included?", answer: "Private air-conditioned road transport from Colombo or Negombo and back, safari jeep with driver and tracker inside the park, Wilpattu National Park entrance and service fees, lunch, and drinking water." },
+      { question: "What is not included?", answer: "Hotel accommodation, breakfast and dinner, alcoholic drinks, binoculars and camera equipment, personal expenses, tips for the driver and tracker, and travel insurance." },
+    ];
+  }
+
+  if (slug === "kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all stops, drop-off in Nuwara Eliya or at Nanu Oya station, luggage carried throughout." },
+      { question: "What is not included?", answer: "Train tickets, entrance fees at the gardens or factory, meals and drinks, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "colombo-port-city-sunset-cruise-snacks") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Port City Colombo marina area, next to Galle Face Green. Exact boarding point sent on confirmation." },
+      { question: "What is included?", answer: "Three-hour sunset cruise from Port City Colombo; snacks on board; crew and safety briefing; life jackets." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off; alcoholic drinks unless stated on your booking; meals; tips; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "colombo-city-sightseeing-tuk-tuk-hotel-pickup") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Your Colombo hotel lobby, or the cruise terminal gate at Colombo Port for passengers arriving by ship. Pickup point is agreed with the operator when you book." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel or cruise terminal pickup and drop-off, fuel and parking, bottled water." },
+      { question: "What is not included?", answer: "Temple and museum entrance fees, food and drinks, shopping, tips for the driver, and travel insurance." },
+    ];
+  }
+
+  if (slug === "one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy by tuk-tuk; confirmed after booking." },
+      { question: "What is included?", answer: "Tuk-tuk pickup and drop-off in Kandy, the one-hour workshop with a local artisan, all tools and materials, the piece you make." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, additional pieces bought at the workshop." },
+      { question: "Do I take my work home?", answer: "Yes. These are short hands-on sessions and you leave with the piece you made." },
+    ];
+  }
+
+  if (slug === "minneriya-or-hurulu-eco-park-elephant-safari-from-dambulla") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Dambulla, Sigiriya or Habarana; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Dambulla, Sigiriya or Habarana, a 4x4 jeep with a driver and tracker, the park game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park entrance permit, paid at the gate, meals, gratuities for the driver and tracker, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk or car with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the village safari including the bullock cart and boat crossing, all driving." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla, drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Sigiriya, Dambulla or Habarana, all road stops, the Kandy city tour, drop-off at your Kandy hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at Dambulla and the Temple of the Tooth, meals and drinks, gratuities, workshop purchases." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "ella-to-udawalawe-guided-transfer-with-waterfalls-a-spice-garden") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela, Haputale, Beragala or Wellawaya; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off at your Udawalawe hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, spice purchases, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "udawalawe-elephant-safari-transit-home-private-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver; hotel pickup and drop-off in Colombo; open safari jeep for the game drive; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "National park entrance and jeep permit fees; Elephant Transit Home entrance; meals and drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "udawalawe-safari-day-trip-from-galle-mirissa-or-hikkaduwa") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle, Mirissa, Unawatuna or Hikkaduwa; confirmed after booking." },
+      { question: "What is included?", answer: "Transport from your south coast hotel, a 4x4 safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit and Transit Home entrance, paid at the gate, meals, gratuities." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
+  if (slug === "two-parks-in-a-day-private-yala-and-udawalawe-double-safari-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 13 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, both safari jeeps with drivers and trackers, both game drives, drinking water." },
+      { question: "What is not included?", answer: "Both national park permits, paid in cash at the gates, meals, gratuities for the drivers and trackers." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-to-kandy-transfer-via-a-vedda-village-waterfalls-and-a-home-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 14 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Ella, all stops on the route, a home-cooked lunch, drop-off at your Kandy hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Vedda village community fee, temple donations, drinks beyond lunch, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy, or meet at the workshop; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, the full workshop session with a local artisan, all tools, blanks and paints, and the piece you make." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, additional pieces bought from the workshop, personal expenses." },
+      { question: "Do I take my work home?", answer: "Yes. These are short hands-on sessions and you leave with the piece you made." },
+    ];
+  }
+
+  if (slug === "kelani-river-rafting-day-from-kandy-with-guides-and-transfers") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Return transfers from your Kandy hotel, the rafting session with qualified instructors, helmet, life jacket and paddle, safety briefing, changing facilities at the base." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, photographs from the river operator, personal expenses." },
+      { question: "Do I need rafting experience?", answer: "No. The Kelani at Kitulgala runs grade 2-3 rapids, guides are in every raft, and helmets and buoyancy aids are provided. Water is highest and the ride fastest from May to December." },
+    ];
+  }
+
+  if (slug === "private-kitulgala-adventure-day-from-kandy-rafting-trekking") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver from Kandy, the rafting session with a qualified guide, all safety equipment for the activities booked, guides for the chosen activities." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, any activity added on the day beyond what was booked, personal expenses." },
+      { question: "Do I need rafting experience?", answer: "No. The Kelani at Kitulgala runs grade 2-3 rapids, guides are in every raft, and helmets and buoyancy aids are provided. Water is highest and the ride fastest from May to December." },
+    ];
+  }
+
+  if (slug === "mirissa-whale-dolphin-watching-boat-trip-breakfast") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Up to 40 people." },
+      { question: "Where does it start?", answer: "Mirissa Harbour, with free pickup from accommodation within about 4 km of Mirissa." },
+      { question: "What is included?", answer: "Boat trip of roughly two to four hours; experienced crew and spotters; breakfast and tea on board; life jackets and safety briefing; free pickup within about 4 km of Mirissa." },
+      { question: "What is not included?", answer: "Transfers from outside the Mirissa pickup zone; alcoholic drinks; seasickness medication; towels; gratuities; personal travel insurance." },
+    ];
+  }
+
+  if (slug === "kandy-to-nuwara-eliya-guided-transfer-with-tea-factory-and-ramboda-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all stops along the route, drop-off in Nuwara Eliya, Ella or Kandy, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at the botanic gardens and the spice garden, meals and drinks, tea purchases at the factory, gratuities, personal expenses." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "private-udawalawe-safari-from-ella-with-jeep-permit-and-transfers") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with driver from your Ella hotel, a private 4x4 safari jeep with driver and tracker, the national park permit, the game drive, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities for the driver and tracker, the Elephant Transit Home entrance if added, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs half day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Pickup by tuk tuk from your hotel in Negombo, roughly fifteen minutes from the jetty." },
+      { question: "What is included?", answer: "Tuk tuk transfer from your Negombo hotel to the jetty and back; boat excursion of roughly two hours with a local boatman; life jackets; stop at the Dutch canal and the fish market; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; gratuities; personal insurance; anything not listed as included." },
+    ];
+  }
+
+  if (slug === "ella-tea-factory-ravana-falls-and-sri-lankan-cooking-class-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the tea factory visit, the cooking class with all ingredients, and the lunch you cook." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, drinks beyond those served with lunch, gratuities, tea purchases." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "all-inclusive-udawalawe-half-day-safari-from-ella-with-permit") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, a 4x4 safari jeep with driver and tracker, the national park permit, the game drive, drinking water." },
+      { question: "What is not included?", answer: "Meals, the Elephant Transit Home entrance if added, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "yala-national-park-leopard-safari-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, arranged when you book." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off in Colombo; Yala National Park entrance tickets; safari jeep with driver and tracker; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Meals and drinks; tips for the driver and tracker; camera fees where charged; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "private-udawalawe-elephant-safari-day-trip-transit-home-visit") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Negombo or Katunayake (airport area)." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver, hotel pickup and drop-off in Colombo, Negombo or Katunayake, four-hour 4x4 safari with tracker, lunch at a local restaurant, Elephant Transit Home visit, drinking water." },
+      { question: "What is not included?", answer: "National park entrance fees and Transit Home admission unless stated at booking, drinks, tips, personal expenses." },
+    ];
+  }
+
+  if (slug === "pekoe-trail-stage-3-guided-hike-from-kandy-loolkandura-to-tawalantenne") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Kandy to the trailhead and back from the finish, an English-speaking guide, the guided hike, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal hiking equipment, personal expenses." },
+      { question: "What is the Pekoe Trail?", answer: "A 300-kilometre waymarked route through Sri Lanka's tea country, opened in 2023 and split into 22 stages. Each stage is a day's walk, and you can do one without committing to the rest." },
+    ];
+  }
+
+  if (slug === "peradeniya-botanic-gardens-photography-walk-with-a-professional") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy, or meet at the gardens entrance; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, a professional photographer as your guide, the three-hour session in the gardens." },
+      { question: "What is not included?", answer: "The gardens entrance fee, paid at the gate, camera equipment, meals and drinks, gratuities." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-ella-private-transfer-via-a-vedda-village-and-the-hill-road") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off at your hill-country hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Vedda village community fee, temple donations, meals and drinks, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "tissamaharama-to-ella-guided-transfer-with-buduruwagala") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Tissamaharama; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Tissamaharama, all stops on the route, drop-off in Ella, Bandarawela, Haputale or Beragala, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, spice purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "private-yala-national-park-safari-day-trip-from-ella-and-back") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with driver from your Ella hotel, a private 4x4 safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo; drop-off at the same address in the evening." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking guide; hotel pickup and drop-off in Colombo; guided walks at the fort, canal and fish market; fuel, tolls and parking; bottled water." },
+      { question: "What is not included?", answer: "Seafood lunch and drinks; church or site donations; optional lagoon boat ride; gratuities." },
+    ];
+  }
+
+  if (slug === "sigiriya-dambulla-and-polonnaruwa-long-cultural-triangle-day-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving between the three sites, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya, Dambulla and Polonnaruwa, which are substantial and paid at each gate, meals and drinks, a site guide where one is engaged, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "galle-to-ella-transfer-via-udawalawe-with-an-optional-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle, Unawatuna, Hikkaduwa or Mirissa; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup on the south coast, all stops, drop-off at your Ella hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The safari jeep and park permit if you take the optional game drive, meals and drinks, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "dambulla-cave-temples-pidurangala-rock-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, very early morning." },
+      { question: "What is included?", answer: "Air-conditioned car with driver and fuel; English-speaking driver-guide; hotel pickup and drop-off in Colombo; bottled water." },
+      { question: "What is not included?", answer: "Entrance tickets for Dambulla cave temple and Pidurangala; breakfast and lunch; drinks; gratuities." },
+    ];
+  }
+
+  if (slug === "south-coast-day-trip-turtle-hatchery-madu-river-galle-fort") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Negombo or Colombo, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver; hotel pickup and drop-off in Negombo or Colombo; Madu River boat safari; lunch at a local restaurant; bottled water." },
+      { question: "What is not included?", answer: "Entrance and donation fees at the turtle hatchery and other sites; water sports at Bentota; drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "gampaha-forest-atv-adventure-ride") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "ATV adventure park in Gampaha, around an hour north-east of central Colombo. Exact address sent on confirmation." },
+      { question: "What is included?", answer: "ATV rental for the session; safety briefing and instruction; helmet and safety gear; trail guide." },
+      { question: "What is not included?", answer: "Transport to and from the park; meals and drinks; insurance; photos and video; gratuities." },
+    ];
+  }
+
+  if (slug === "yala-national-park-leopard-safari-day-trip-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Return transport from your Ella hotel, a 4x4 safari jeep with a driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park entrance permit, paid in cash at the gate, meals, gratuities for the driver and tracker, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "liptons-seat-the-dambatenne-tea-factory-and-adisham-bungalow-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off, all driving, fuel." },
+      { question: "What is not included?", answer: "Tea factory and Adisham entrance fees, meals and drinks, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "private-car-transfer-kandy-ella-mirissa-colombo-beyond") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs varies by route." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Door-to-door pickup from your hotel or guesthouse in Kandy; the driver waits in reception at the time you confirm." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle for the full journey; English-speaking driver; fuel, tolls and parking; hotel pickup in Kandy and drop-off at your chosen address; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; entrance fees to any sites you stop at along the way; accommodation; driver gratuity; anything not listed as included." },
+    ];
+  }
+
+  if (slug === "heel-oya-village-day-from-kandy-with-a-home-cooked-sri-lankan-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours 30 minutes." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, the guided village walk, the cooking session, a home-cooked rice and curry lunch, the bullock cart or boat crossing, an English-speaking guide." },
+      { question: "What is not included?", answer: "Drinks beyond what is served with lunch, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "private-kandy-nuwara-eliya-transfer-waterfall-tea-estate-stops") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6.5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup from your Kandy hotel; drop-off at your Nuwara Eliya accommodation." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup in Kandy and drop-off in Nuwara Eliya; fuel, tolls and parking; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; tea factory entrance fee where charged; entrance fees at optional stops; gratuities; accommodation." },
+    ];
+  }
+
+  if (slug === "colombo-anuradhapura-day-trip-mihintale-ancient-city-stops") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup from your hotel in Colombo; the driver-guide confirms the time the night before." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver-guide; hotel pickup and drop-off in Colombo; fuel, tolls and parking; bottled water." },
+      { question: "What is not included?", answer: "Anuradhapura Sacred City entrance ticket and any site fees; meals and drinks; camera or video permits where charged; gratuities." },
+    ];
+  }
+
+  if (slug === "madu-river-mangroves-cinnamon-island-kosgoda-turtle-hatchery-d") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Kalutara; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned van with driver, hotel pickup and drop-off in Colombo or Kalutara, Madu Ganga boat cruise, cinnamon island visit, guided visit to the Kosgoda Sea Turtle Conservation Project, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, souvenir purchases at the cinnamon island or hatchery, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "udawalawe-jeep-safari-from-ella-bandarawela-or-haputale-with-ravana") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off, the safari jeep with driver and tracker, drinking water." },
+      { question: "What is not included?", answer: "The national park permit and Transit Home entrance, paid at the gate, meals, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Colombo cruise terminal or your Colombo hotel, agreed with the operator after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with driver, pickup and drop-off at the Colombo cruise port or your hotel, sea turtle hatchery visit, Madu Ganga boat safari, free time at Galle Fort, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks, entrance fees not listed above, gratuities, shopping at Galle Fort, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "little-adams-peak-sunset-hike-from-ella-with-a-local-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, or meet at the trailhead; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella, an English-speaking local guide, the guided walk." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, personal expenses." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private return transfers from your Kandy hotel, a private raft with a qualified guide, helmet, life jacket and paddle, safety briefing, changing facilities." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, river photography, personal expenses." },
+      { question: "Do I need rafting experience?", answer: "No. The Kelani at Kitulgala runs grade 2-3 rapids, guides are in every raft, and helmets and buoyancy aids are provided. Water is highest and the ride fastest from May to December." },
+    ];
+  }
+
+  if (slug === "colombo-evening-street-food-tour-tastings-included") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo; the operator confirms the time and address after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Colombo, all food tastings on the route, dessert, a drink, guide throughout, transport between food stops." },
+      { question: "What is not included?", answer: "Additional food and drinks ordered outside the set route, alcohol, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "yala-leopard-safari-and-south-coast-transfer-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup in the Ella area, the safari jeep with driver and tracker, drop-off on the south coast, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ambuluwawa-tower-and-tea-factory-half-day-tour-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "The Ambuluwawa entrance fee, meals and drinks, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "colombo-highlights-guided-half-day-city-tour-car") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup anywhere in Colombo; your driver-guide meets you in the lobby at the agreed time." },
+      { question: "What is included?", answer: "Air-conditioned car with fuel and parking; English-speaking driver-guide; hotel pickup and drop-off within Colombo; bottled water." },
+      { question: "What is not included?", answer: "Temple and monument entrance fees; food and drinks; camera charges at religious sites; gratuities; personal shopping." },
+    ];
+  }
+
+  if (slug === "sigiriya-dambulla-and-anuradhapura-three-site-day-tour-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 13 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, guiding at the sites, all driving, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya, Dambulla and Anuradhapura, meals and drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "private-polonnaruwa-day-tour-from-kandy-with-a-minneriya-jeep-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the safari jeep, all driving." },
+      { question: "What is not included?", answer: "The Polonnaruwa entrance fee and the national park permit, both paid at the gate, meals and drinks, bicycle hire at the ruins, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "kandy-night-street-photography-walk-with-a-local-photographer") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "Where does it start?", answer: "Meet in central Kandy; the exact point is confirmed after booking." },
+      { question: "What is included?", answer: "A professional photographer as your guide for the two-hour session, the guided walk." },
+      { question: "What is not included?", answer: "Hotel transfers, camera equipment, meals and drinks, gratuities, entrance fees anywhere that charges." },
+    ];
+  }
+
+  if (slug === "hikkaduwa-reef-scuba-diving-session") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Dive centre in Hikkaduwa on the south-west coast. Exact address sent on confirmation." },
+      { question: "What is included?", answer: "Scuba equipment hire including tank, weights, BCD and regulator; guided dive with a qualified instructor or divemaster; safety briefing; boat transfer to the dive site where required." },
+      { question: "What is not included?", answer: "Transport to and from Hikkaduwa; meals and drinks; underwater photos or video; dive insurance; certification course fees; gratuities." },
+    ];
+  }
+
+  if (slug === "colombo-jet-ski-ride-thermopylae-sierra-shipwreck") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 4 people." },
+      { question: "Where does it start?", answer: "The water sports base on the Mount Lavinia and Dehiwala coast, south of central Colombo. The operator confirms the exact meeting point and slot after booking." },
+      { question: "What is included?", answer: "Jet ski hire and fuel, guided ride with a lead rider, safety briefing, buoyancy aid and kill cord, and drinking water." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off, photos and video, towels, meals, tips, travel insurance and any damage waiver excess." },
+    ];
+  }
+
+  if (slug === "ella-to-nuwara-eliya-guided-transfer-with-hakgala-gardens-and-seetha") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off at your Nuwara Eliya hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Hakgala gardens entrance fee, temple donations, meals and drinks, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "private-sigiriya-and-dambulla-tuk-tuk-day-trip-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving, fuel." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla, meals and drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Shared air-conditioned van with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the safari jeep, all driving between sites." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla and the national park permit, meals and drinks, gratuities, workshop purchases." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "yala-national-park-private-jeep-safari-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Waskaduwa, with the departure time set to your chosen safari slot." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver from Colombo or Waskaduwa, 4x4 safari jeep with driver-tracker in Yala National Park, park entry arrangements, lunch, drinking water." },
+      { question: "What is not included?", answer: "Additional meals and drinks, gratuities for the driver and tracker, camera or video fees where charged, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "horton-plains-trek-from-nuwara-eliya-with-a-tea-factory-and-ravana-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Nuwara Eliya, transport to and from the park, guiding on the loop, all stops." },
+      { question: "What is not included?", answer: "The Horton Plains entrance fee, the tea factory entrance, meals, gratuities." },
+      { question: "Why does Horton Plains start so early?", answer: "World's End is a 880-metre drop that clouds over almost every morning. Arriving at 6:30 usually means a view; arriving at 9 usually means a white wall. The gate opens at 6 AM for exactly this reason." },
+    ];
+  }
+
+  if (slug === "sigiriya-rock-and-dambulla-caves-day-tour-from-kandy-with-evening") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the jeep for the safari section, all driving between sites." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla and the national park permit, meals and drinks, gratuities, purchases at the workshops." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "negombo-colombo-city-tour-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Pickup from your hotel in Negombo by tuk tuk." },
+      { question: "What is included?", answer: "Private tuk tuk with English-speaking driver for six hours; hotel pickup and drop-off in Negombo; fuel and parking; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; temple entrance donations; Negombo lagoon boat fee if you take the option; shopping; gratuities." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-day-trip-from-kandy-by-tuk-tuk-with-a-tea-factory-visit") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving and stops, fuel." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases at the factory, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "kitulgala-white-water-rafting-day-trip-from-kandy-by-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Tuk-tuk or car transport from Kandy with a driver, the rafting session with a qualified guide, helmet, life jacket and paddle, safety briefing." },
+      { question: "What is not included?", answer: "Meals and drinks, entrance fees at any stop that charges, gratuities, waterproof camera hire, personal expenses." },
+      { question: "Do I need rafting experience?", answer: "No. The Kelani at Kitulgala runs grade 2-3 rapids, guides are in every raft, and helmets and buoyancy aids are provided. Water is highest and the ride fastest from May to December." },
+    ];
+  }
+
+  if (slug === "sigiriya-rock-dambulla-caves-small-group-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 16 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kalutara, Colombo or nearby coastal hotels, confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with English-speaking driver-guide; hotel pickup and drop-off; bottled water; all fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Sigiriya and Dambulla entrance tickets; meals and drinks; site guide fees; souvenir purchases; gratuities." },
+    ];
+  }
+
+  if (slug === "kalametiya-bird-sanctuary-boat-safari-from-ella-with-coastal-transfers") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the boat safari with a local boatman, drinking water." },
+      { question: "What is not included?", answer: "The sanctuary entrance fee, meals, gratuities, binoculars." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "all-inclusive-ella-day-with-a-tea-factory-and-the-hill-country-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the tea factory visit, train tickets for the Demodara leg, entrance fees, all driving." },
+      { question: "What is not included?", answer: "Meals and drinks, tea purchases, gratuities, personal expenses." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Shared transport from your Ella hotel, a 4x4 safari jeep with driver and tracker, the game drive, drop-off at Tangalle or Hiriketiya, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-peaks-all-inclusive-day-trip-both-walks-the-bridge-and-halpewatte") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Haputale or Bandarawela; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off, all driving between sites, guiding on the walk." },
+      { question: "What is not included?", answer: "The zipline fee, tea factory entrance, meals and drinks, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "anuradhapura-colombo-private-day-trip-ancient-capital") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Negombo or Katunayake, early morning." },
+      { question: "What is included?", answer: "Private air-conditioned car with driver and fuel; English-speaking guide; hotel pickup and drop-off in Colombo, Negombo or Katunayake; bottled water." },
+      { question: "What is not included?", answer: "Anuradhapura sacred city entrance ticket; breakfast and lunch; drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "sigiriya-rock-and-polonnaruwa-ancient-city-day-trip-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, guiding at both sites, all driving, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Polonnaruwa, meals and drinks, bicycle hire at the ruins, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "colombo-wreck-diving-trip-certified-dive-guides") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Colombo waterfront dive base; the exact address and boarding time are confirmed by the operator once your booking is accepted." },
+      { question: "What is included?", answer: "Boat transfer to the dive site, certified dive guide, tanks, weights, BCD and regulator, mask, fins and wetsuit, safety briefing and drinking water." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off, underwater camera hire, tips, travel or dive insurance, meals, and any additional dives beyond the one booked." },
+    ];
+  }
+
+  if (slug === "ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Ella, all stops on the route, drop-off at your Kandy hotel, fuel and parking, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at the botanic gardens and any site that charges, meals and drinks, tea purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "sorabora-lake-sunrise-and-waterfalls-day-trip-from-kandy-with-a-village") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 14 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the boat on Sorabora Lake, the village visit, guiding at the waterfalls." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, entrance fees where they apply, personal expenses." },
+    ];
+  }
+
+  if (slug === "sigiriya-dambulla-minneriya-safari-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Your hotel in Colombo, Mount Lavinia or Negombo, with a pre-dawn pickup. The operator confirms the exact time against your address after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with driver-guide from Colombo, Mount Lavinia or Negombo and back, safari jeep for the Minneriya game drive, guiding at each site, and drinking water." },
+      { question: "What is not included?", answer: "Entrance fees for Sigiriya and Dambulla, Minneriya National Park fees, meals and drinks, camera fees where charged, tips, and travel insurance." },
+    ];
+  }
+
+  if (slug === "little-adams-peak-sunrise-hike-from-ella-with-a-local-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, or meet at the trailhead; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella, an English-speaking local guide, the guided walk." },
+      { question: "What is not included?", answer: "Breakfast, water, gratuities, personal expenses." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "ella-in-a-day-nine-arch-bridge-little-adams-peak-ravana-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving between sites, fuel." },
+      { question: "What is not included?", answer: "Train tickets, the zipline fee, entrance fees where they apply, meals and drinks, gratuities." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "sinharaja-rainforest-guided-trek-waterfalls-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup from Colombo or any of the listed southwest coast towns, confirmed with the operator after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with driver, pickup and drop-off from Colombo or the listed coastal towns, forest guide for the trek, reserve entry arrangements, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks unless confirmed by the operator, gratuities for the forest guide, leech socks if you wish to hire them, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "colombo-sightseeing-tour-tuk-tuk-hotel-pickup") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo; your driver meets you at reception at the agreed time." },
+      { question: "What is included?", answer: "Tuk-tuk with driver-guide for three hours, hotel pickup and drop-off in Colombo, all stops and pass-bys on the route." },
+      { question: "What is not included?", answer: "Entrance and camera fees where charged, food and drinks, souvenir purchases, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "colombo-street-food-tuk-tuk-guided-tasting-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup from any address in Colombo 1 to Colombo 15, including Grandpass." },
+      { question: "What is included?", answer: "All food tastings on the route; private tuk-tuk with driver; English-speaking food guide; pickup and drop-off across Colombo; bottled water." },
+      { question: "What is not included?", answer: "Alcoholic drinks; additional dishes ordered outside the set tastings; gratuities; souvenirs." },
+    ];
+  }
+
+  if (slug === "kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all workshop stops, drop-off in Nuwara Eliya or at Ambewela station, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, train tickets, meals and drinks, purchases at the workshops, gratuities." },
+      { question: "Do I take my work home?", answer: "Yes. These are short hands-on sessions and you leave with the piece you made." },
+    ];
+  }
+
+  if (slug === "ella-day-trip-from-galle-hikkaduwa-or-mirissa-with-the-hill-country") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 14 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle, Unawatuna, Hikkaduwa, Weligama or Mirissa; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off on the south coast, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
+  if (slug === "pekoe-trail-stage-1-guided-hike-from-kandy-hanthana-to-galaha") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Kandy to the trailhead and from the finish, an English-speaking guide, the guided hike, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal hiking equipment, personal expenses." },
+      { question: "What is the Pekoe Trail?", answer: "A 300-kilometre waymarked route through Sri Lanka's tea country, opened in 2023 and split into 22 stages. Each stage is a day's walk, and you can do one without committing to the rest." },
+    ];
+  }
+
+  if (slug === "kandy-or-nuwara-eliya-to-ella-private-tea-country-transfer") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy or Nuwara Eliya; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the chosen route, drop-off at your Ella hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "yala-safari-with-coastal-drop-off-from-ella-tangalle-mirissa-or-galle") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Shared transport from your Ella hotel, a 4x4 safari jeep with driver and tracker, the game drive, drop-off on the south coast, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-to-ella-guided-transfer-with-gregory-lake-seetha-amman") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Nuwara Eliya, all stops on the route, drop-off in Ella, Bandarawela or Haputale, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Hakgala gardens entrance fee, temple donations, meals and drinks, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "kandy-and-pinnawala-day-trip-from-bentota-with-the-temple-of-the-tooth") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Bentota or Kalutara; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Bentota or Kalutara, all driving, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at Pinnawala, the Temple of the Tooth and the botanic gardens, meals and drinks, gratuities." },
+      { question: "What should I wear at the Temple of the Tooth?", answer: "Shoulders and knees covered, and shoes off before entering. White is traditional but not required. The relic itself is not shown — what you see is the casket, during the puja." },
+    ];
+  }
+
+  if (slug === "ella-to-tissamaharama-guided-transfer-with-waterfalls-and-buduruwagala") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off at your Tissamaharama hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, spice purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "kandy-full-day-private-tour-temple-of-the-tooth-peradeniya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, all driving between sites, fuel and parking, guiding throughout the day." },
+      { question: "What is not included?", answer: "Entrance fees at the Temple of the Tooth, the botanic gardens and the dance show, meals and drinks, gratuities, workshop purchases." },
+      { question: "What should I wear at the Temple of the Tooth?", answer: "Shoulders and knees covered, and shoes off before entering. White is traditional but not required. The relic itself is not shown — what you see is the casket, during the puja." },
+    ];
+  }
+
+  if (slug === "hanthana-ridge-and-katusukonda-hike-from-kandy-with-tea-estates") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Kandy to the trailhead and back, an English-speaking hiking guide, the guided walk, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal hiking equipment, personal expenses." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "ella-highlights-half-day-tour-nine-arch-bridge-halpewatte-tea-factory") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving between stops." },
+      { question: "What is not included?", answer: "The tea factory entrance, meals and drinks, tea purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "kandy-to-nuwara-eliya-scenic-transfer-with-an-optional-nanu-oya-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all stops on the route, drop-off in Nuwara Eliya or at Nanu Oya station, luggage carried throughout." },
+      { question: "What is not included?", answer: "Train tickets, entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "ella-to-demodara-cycling-tour-with-the-nine-arch-bridge-and-a-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, or meet at the bike shop; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella, a bicycle and helmet, an English-speaking cycling guide, the train ticket back to Ella, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal expenses." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "ella-rock-guided-hike-with-the-nine-arch-bridge-and-ravana-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, or meet at Ella station; confirmed after booking." },
+      { question: "What is included?", answer: "An English-speaking hiking guide, hotel pickup in Ella, the guided walk, transport to the afternoon stops." },
+      { question: "What is not included?", answer: "Meals and drinks, entrance fees where they apply, gratuities, personal equipment." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "kandy-to-ella-guided-transfer-with-peradeniya-gardens-and-ramboda-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all stops on the route, drop-off at your hotel in Ella, fuel and parking, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at the botanic gardens and spice garden, meals and drinks, tea purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "udawalawe-national-park-private-safari-day-trip-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup from Colombo and a range of south-coast towns including Negombo, Panadura, Ambalangoda and Tissamaharama, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver; hotel pickup and drop-off; open safari jeep for the game drive; lunch at a local restaurant; bottled water." },
+      { question: "What is not included?", answer: "National park entrance and jeep permit fees; Elephant Transit Home entrance; drinks; gratuities; personal expenses." },
+    ];
+  }
+
+  if (slug === "knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport from Kandy, an English-speaking hiking guide, the guided walk, a Sri Lankan lunch at a farmhouse, drinking water." },
+      { question: "What is not included?", answer: "Conservation area entry fees where they apply, gratuities, personal equipment, personal expenses." },
+      { question: "How demanding is the Knuckles hike?", answer: "A full day on rough, often wet ground with real elevation. Leeches are normal after rain — socks and a little salt or repellent handle them, and they are harmless." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, lunch, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees at the parks, gardens or factory, drinks, gratuities, tea purchases." },
+    ];
+  }
+
+  if (slug === "bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup from your Negombo hotel; the itinerary lists Avengard Hotels as the standard collection point." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off in Negombo; Madu Ganga boat safari; fuel, tolls and parking; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; entrance fees at the turtle hatchery and Lunuganga; camera fees where charged; gratuities." },
+    ];
+  }
+
+  if (slug === "kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Kandy, all stops, a local lunch, train tickets arranged, luggage taken on to Ella by road." },
+      { question: "What is not included?", answer: "The cost of the train ticket itself where not stated, entrance fees, drinks, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "horton-plains-and-worlds-end-from-ella-with-the-train-to-ohiya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, transport from Ohiya station to the park and back, guiding on the loop." },
+      { question: "What is not included?", answer: "The Horton Plains entrance fee, train tickets, meals, gratuities." },
+      { question: "Why does Horton Plains start so early?", answer: "World's End is a 880-metre drop that clouds over almost every morning. Arriving at 6:30 usually means a view; arriving at 9 usually means a white wall. The gate opens at 6 AM for exactly this reason." },
+    ];
+  }
+
+  if (slug === "wakarewatta-nature-and-kandy-city-tuk-tuk-tour-with-a-sri-lankan-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, a Sri Lankan lunch, all driving." },
+      { question: "What is not included?", answer: "Entrance fees including the Temple of the Tooth, drinks, gratuities, personal expenses." },
+      { question: "Is a tuk-tuk comfortable for a full day?", answer: "For two people, yes, and it is open-sided which is the appeal in the hills. It is slower than a car and it rains hard here, so a wet day is a genuine consideration." },
+    ];
+  }
+
+  if (slug === "ella-to-arugam-bay-guided-transfer-with-waterfalls-temples") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off at your Arugam Bay hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, spice purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "wilpattu-jeep-safari-sunrise-or-sunset-game-drive") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup point depends on the option you select — Colombo and Negombo hotels, or park-side points at Hunuwilagama, Anuradhapura, Nochchiyagama, Sinharagama, Galkadawala and Eluwankulama." },
+      { question: "What is included?", answer: "Private open 4x4 safari jeep with driver-tracker, transfer from and to your selected point, drinking water." },
+      { question: "What is not included?", answer: "National park entrance and tracker fees paid at the gate, meals and refreshments, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with driver from your Ella hotel, a private 4x4 safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-adventure-day-by-tuk-tuk-both-peaks-the-loop-and-the-zipline") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Ella, guiding on both walks, all driving." },
+      { question: "What is not included?", answer: "Train tickets, the zipline fee, entrance fees, meals and drinks, gratuities." },
+      { question: "Is a tuk-tuk comfortable for a full day?", answer: "For two people, yes, and it is open-sided which is the appeal in the hills. It is slower than a car and it rains hard here, so a wet day is a genuine consideration." },
+    ];
+  }
+
+  if (slug === "bentota-ayurvedic-massage-mangrove-boat-cruise-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Panadura, confirmed with the operator after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver, pickup and drop-off in Colombo or Panadura, two-hour Ayurvedic massage, one-hour mangrove boat cruise, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities for the therapist and boatman, additional spa treatments, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "colombo-temples-markets-guided-four-hour-city-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Pickup from your accommodation in Colombo by air-conditioned van." },
+      { question: "What is included?", answer: "Air-conditioned van with driver; English-speaking guide; pickup and drop-off in Colombo; bottled water." },
+      { question: "What is not included?", answer: "Entrance and donation fees at temples; food and drinks; gratuities; shopping in Pettah." },
+    ];
+  }
+
+  if (slug === "colombo-tuk-tuk-private-half-day-tour-local-meal") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Pickup from any address in Colombo 1 to Colombo 15, including Grandpass." },
+      { question: "What is included?", answer: "Private tuk-tuk with driver-guide for four hours; English-speaking guide; hotel or address pickup and drop-off across Colombo; one Sri Lankan lunch or dinner; bottled water." },
+      { question: "What is not included?", answer: "Entrance fees and temple donations; additional food and drinks; tea purchases; gratuities." },
+    ];
+  }
+
+  if (slug === "colombo-landmarks-tuk-tuk-private-tour-entry-tickets") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Pickup from your Colombo hotel or the cruise port terminal." },
+      { question: "What is included?", answer: "Private tuk-tuk with driver; English-speaking guide; entry tickets for the sites on the route; hotel or cruise-port pickup and drop-off; bottled water." },
+      { question: "What is not included?", answer: "Food and drinks; tea or souvenir purchases; gratuities; anything not on the standard route." },
+    ];
+  }
+
+  if (slug === "kandy-pinnawala-royal-botanic-gardens-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 13 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo, confirmed with you after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with English-speaking driver; hotel pickup and drop-off in Colombo or Negombo; spice garden visit; tea factory visit and tasting; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Entrance fees for the Temple of the Tooth, Pinnawala and the Royal Botanic Gardens; meals and drinks; tips; camera fees; personal expenses." },
+    ];
+  }
+
+  if (slug === "ella-to-sigiriya-private-transfer-via-a-vedda-village-and-mahiyanganaya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup, all stops on the route, drop-off in Sigiriya or Dambulla, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Vedda village community fee, temple donations, meals and drinks, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "ella-adventure-day-tour-ella-rock-little-adams-peak-and-the-nine-arch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking guide, hotel pickup and drop-off, guiding on both walks, drinking water." },
+      { question: "What is not included?", answer: "Meals, entrance fees where they apply, gratuities, personal equipment." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "sigiriya-and-pidurangala-rock-day-trip-from-kandy-by-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide from Kandy, all driving, the spice garden and temple stops, hotel pickup and drop-off." },
+      { question: "What is not included?", answer: "Entrance fees for Sigiriya, Pidurangala and Dambulla, which are paid at each gate, meals and drinks, gratuities, personal expenses." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "udawattakele-bird-watching-morning-from-kandy-with-a-guide") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, an English-speaking naturalist guide, the guided forest walk." },
+      { question: "What is not included?", answer: "The sanctuary entrance fee, paid at the gate, binoculars, meals and drinks, gratuities." },
+    ];
+  }
+
+  if (slug === "kitulgala-white-water-rafting-from-kandy-with-hotel-transfers") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours 30 minutes." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Air-conditioned transfers from and to your Kandy hotel, the rafting session with a qualified river guide, helmet, life jacket and paddle, safety briefing, changing facilities." },
+      { question: "What is not included?", answer: "Meals and drinks, gratuities, photographs or video from the river operator, personal expenses." },
+      { question: "Do I need rafting experience?", answer: "No. The Kelani at Kitulgala runs grade 2-3 rapids, guides are in every raft, and helmets and buoyancy aids are provided. Water is highest and the ride fastest from May to December." },
+    ];
+  }
+
+  if (slug === "sigiriya-rock-dambulla-cave-temples-day-trip-colombo-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Negombo, Mount Lavinia, Kalutara, Bentota, Hikkaduwa or Galle." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with English-speaking driver-guide; hotel pickup and drop-off in Colombo or along the south-west coast; guided visit at Sigiriya; safari jeep for the afternoon game drive; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Sigiriya and Dambulla entrance tickets; national park entry fees; meals and drinks; tips; camera fees; personal expenses." },
+    ];
+  }
+
+  if (slug === "ella-day-tour-with-a-tea-factory-a-cooking-class-and-little-adams-peak") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the tea factory visit, the cooking class with all ingredients, and the lunch you cook." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, drinks beyond those served with lunch, tea purchases, gratuities." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "ravana-falls-diyaluma-and-a-yala-safari-full-day-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 14 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the safari jeep with driver and tracker, the game drive, all stops." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "sigiriya-sunrise-climb-dambulla-cave-temples-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 14 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo in the small hours of the morning." },
+      { question: "What is included?", answer: "Private air-conditioned car with English-speaking driver; hotel pickup and drop-off in Colombo; guided climb at Sigiriya; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Sigiriya and Dambulla entrance tickets; meals and drinks; tips; camera fees; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "ella-rock-a-spice-garden-and-little-adams-peak-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking guide, hotel pickup and drop-off in Ella, guiding on both walks, the spice garden visit, drinking water." },
+      { question: "What is not included?", answer: "Meals, spice purchases, entrance fees where they apply, gratuities." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "kandy-peradeniya-gardens-tea-factory-day-tour-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with English-speaking driver; hotel pickup and drop-off in Colombo or Negombo; tea factory visit and tasting; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Temple of the Tooth and Royal Botanic Gardens entrance fees; breakfast, lunch and drinks; tips; camera fees; personal expenses." },
+    ];
+  }
+
+  if (slug === "adams-peak-overnight-pilgrimage-climb-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 22 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo in the afternoon or evening." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off in Colombo or Negombo; driver waiting time at the trailhead; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Meals and drinks on the mountain; guide on the climb itself unless stated on your booking; accommodation; warm clothing hire; tips; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "ella-to-trincomalee-guided-transfer-via-mahiyanganaya-and-a-vedda") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Ella, all stops on the route, drop-off at your Trincomalee hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Vedda village community fee, temple donations, meals and drinks, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "udawalawe-safari-with-a-south-coast-drop-from-ella-galle-mirissa-or") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Shared transport from your Ella hotel, a 4x4 safari jeep with driver and tracker, the game drive, drop-off on the south coast, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-to-yala-private-transfer-via-ella-and-the-nine-arch-bridge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Nuwara Eliya, all stops on the route, drop-off at Tissamaharama or the Yala area, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, the following day's safari, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "colombo-port-city-snorkelling-session-beginners") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Colombo Port City waterfront water sports base. The operator confirms the exact meeting point and time after booking." },
+      { question: "What is included?", answer: "Snorkelling guide, mask, snorkel and fins, buoyancy vest on request, safety briefing and drinking water." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off, towels, photographs, meals, tips and travel insurance." },
+    ];
+  }
+
+  if (slug === "south-coast-to-ella-transfer-via-a-yala-safari-and-buduruwagala") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup on the southwest coast; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup on the south coast, the safari jeep with driver and tracker, all stops, drop-off in Ella, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit and the Buduruwagala entrance, paid in cash at the gates, meals, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "kandyan-eco-village-and-spice-trail-half-day-tour-from-kandy") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, an English-speaking guide, all the village and plot visits, demonstrations." },
+      { question: "What is not included?", answer: "Meals and drinks unless stated, gratuities, spice purchases, personal expenses." },
+    ];
+  }
+
+  if (slug === "private-sigiriya-rock-dambulla-caves-village-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Your hotel on the southwest coast at Balapitiya, with a very early morning pickup. The exact time is confirmed by the operator once your hotel address is known." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver-guide, all fuel and parking, Sigiriya and Dambulla entrance fees, breakfast, lunch, the village tour, and drinking water." },
+      { question: "What is not included?", answer: "Hotel accommodation, dinner, alcoholic drinks, personal shopping, camera fees where charged, tips for the driver-guide, and travel insurance." },
+    ];
+  }
+
+  if (slug === "ella-tuk-tuk-tour-with-little-adams-peak-the-nine-arch-bridge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving, fuel." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, gratuities." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "liptons-seat-cycling-descent-with-the-dambatenne-tea-factory") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella, transport up to Lipton's Seat, a bicycle and helmet, an English-speaking guide, a support vehicle, drinking water." },
+      { question: "What is not included?", answer: "The tea factory entrance, meals, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "uva-village-life-by-jeep-from-ella-with-a-cooking-class-and-home-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Jeep transport with an English-speaking guide, hotel pickup and drop-off in Ella, the village walk, the bullock cart ride, the cooking class and a home-cooked lunch." },
+      { question: "What is not included?", answer: "Drinks beyond those served with lunch, gratuities, personal expenses." },
+      { question: "How spicy is the food?", answer: "Sri Lankan home cooking is hotter than most visitors expect, and a class is the easiest place to say so. Tell your host at the start and they will adjust the chilli rather than the dish." },
+    ];
+  }
+
+  if (slug === "ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Ella, the road section with all its stops, drop-off at your Kandy hotel, luggage carried by road throughout." },
+      { question: "What is not included?", answer: "Train tickets, which are bought separately and are subject to availability, meals and drinks, entrance fees, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "ella-in-half-a-day-by-tuk-tuk-ten-stops-around-the-town") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving, fuel." },
+      { question: "What is not included?", answer: "Entrance fees, the zipline, meals and drinks, gratuities." },
+      { question: "Is a tuk-tuk comfortable for a full day?", answer: "For two people, yes, and it is open-sided which is the appeal in the hills. It is slower than a car and it rains hard here, so a wet day is a genuine consideration." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-kandy-artisan-trail-transfer-with-a-family-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours 30 minutes." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Sigiriya or Dambulla, the workshop visits, a home-cooked family lunch, drop-off at your Kandy hotel." },
+      { question: "What is not included?", answer: "The Dambulla entrance fee, drinks beyond those served with lunch, craft purchases, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "ella-all-inclusive-private-day-trip-with-the-train-ella-rock") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, guiding on both walks, all driving." },
+      { question: "What is not included?", answer: "Train tickets, the zipline fee, entrance fees, meals and drinks, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "ella-day-trip-from-nuwara-eliya-with-a-tea-factory-and-the-nine-arch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Nuwara Eliya, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "hindu-and-buddhist-temples-around-ella-a-guided-half-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving between sites, guiding." },
+      { question: "What is not included?", answer: "Temple donations, entrance fees where they apply, meals and drinks, gratuities." },
+    ];
+  }
+
+  if (slug === "sigiriya-pidurangala-and-a-jeep-safari-from-kandy-by-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the safari jeep, all driving, fuel." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya or Pidurangala and Dambulla, the national park permit, meals and drinks, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "udawalawe-to-kandy-private-transfer-via-ella-the-nine-arch-bridge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in the Udawalawe area; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in the Udawalawe area, all stops on the route, drop-off at your Kandy hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, gratuities, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-wonders-day-tour-spice-garden-nine-arch-bridge-ravana-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking driver-guide, hotel pickup and drop-off, all driving between stops." },
+      { question: "What is not included?", answer: "The zipline fee, entrance fees where they apply, meals and drinks, spice purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "galle-countryside-cycling-tour-through-villages-paddy-fields") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle or Unawatuna; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in the Galle area, a bicycle and helmet, an English-speaking cycling guide, drinking water, refreshments on the route." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "yala-national-park-safari-day-trip-from-ella-bandarawela-or-haputale") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off, the safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "diyaluma-and-ravana-falls-with-the-halpewatte-tea-factory") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Hikkaduwa, Galle, Unawatuna, Weligama or Mirissa; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off on the south coast, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "The tea factory entrance, meals and drinks, tea purchases, gratuities, a local guide at the falls where one is engaged." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "hill-country-train-ride-and-liptons-seat-by-tuk-tuk-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Ella, the tuk-tuk sections, guiding." },
+      { question: "What is not included?", answer: "Train tickets, the tea factory entrance, meals and drinks, tea purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "ella-essentials-day-tour-little-adams-peak-and-the-nine-arch-bridge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Transport with an English-speaking guide, hotel pickup and drop-off in Ella, guiding on the walk, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks, entrance fees where they apply, gratuities." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "ella-peaks-long-day-trip-from-the-south-coast-with-the-train-and-both") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 15 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle, Unawatuna, Weligama, Mirissa or Hikkaduwa; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off on the south coast, all driving and stops, fuel and parking." },
+      { question: "What is not included?", answer: "Train tickets, entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Do I need to book the train in advance?", answer: "Reserved seats open 30 days ahead and the good ones go within hours. If they are gone, second- and third-class unreserved carriages are always available on the day — you may stand for part of it, and the views from the doorway are the ones people remember." },
+    ];
+  }
+
+  if (slug === "pekoe-trail-stage-15-guided-hike-makulella-to-ella-through-the-tea") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; you are driven to the Makulella trailhead. Confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella and transport to the Makulella trailhead, an English-speaking hiking guide, the guided walk, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal hiking equipment." },
+      { question: "What is the Pekoe Trail?", answer: "A 300-kilometre waymarked route through Sri Lanka's tea country, opened in 2023 and split into 22 stages. Each stage is a day's walk, and you can do one without committing to the rest." },
+    ];
+  }
+
+  if (slug === "udawalawe-safari-day-tour-from-ella-bandarawela-or-haputale") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off, the safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit and Transit Home entrance, paid in cash at the gates, meals, gratuities." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "haputale-to-ella-guided-cycling-tour-through-the-uva-tea-estates") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; you are driven to Haputale to start. Confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup in Ella and transport to Haputale, a bicycle and helmet, an English-speaking cycling guide, a support vehicle, drinking water." },
+      { question: "What is not included?", answer: "Meals, gratuities, personal expenses." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "colombo-city-highlights-tour-jaffna-style-banana-leaf-lunch") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, confirmed with the operator after booking." },
+      { question: "What is included?", answer: "Air-conditioned vehicle with driver, hotel pickup and drop-off in Colombo, stops at Independence Square, the Bandaranaike Memorial Hall, Viharamahadevi Park and Gangaramaya Temple, a drive through Pettah, Jaffna-style banana leaf lunch, drinking water." },
+      { question: "What is not included?", answer: "Additional meals and drinks, temple donation and camera fees where charged, gratuities, shopping, personal expenses." },
+    ];
+  }
+
+  if (slug === "mirissa-or-weligama-to-ella-transfer-with-an-optional-udawalawe-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Mirissa or Weligama; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Mirissa or Weligama, all stops, drop-off at your Ella hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The safari jeep and park permit if you take the optional game drive, meals and drinks, gratuities." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
+  if (slug === "ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Negombo, Mount Lavinia, Kalutara, Bentota, Kosgoda, Hikkaduwa or Galle." },
+      { question: "What is included?", answer: "Air-conditioned car with driver and fuel; train ticket for the scenic leg; hotel pickup and drop-off from the listed towns; tea factory visit and tea tasting; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks, including at the Ravana Pool Club; entrance fees where charged; gratuities; personal purchases." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-kandy-guided-transfer-with-dambulla-a-spice-garden") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Sigiriya, Dambulla or Habarana, all stops on the route, drop-off at your Kandy hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The Dambulla entrance fee, meals and drinks, spice or craft purchases, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, Wattala, Wadduwa, Kalutara or Negombo." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off in Colombo, Wattala, Wadduwa, Kalutara or Negombo; Madu Ganga boat safari; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Turtle hatchery donation or entrance; meals and drinks; tips; personal expenses; travel insurance." },
+    ];
+  }
+
+  if (slug === "sigiriya-sunrise-climb-dambulla-kandy-day-trip-colombo") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Your hotel in Colombo or Negombo, with a pickup around midnight or in the early hours so you reach Sigiriya for opening. The operator confirms the exact time after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver-guide, hotel pickup and drop-off in Colombo or Negombo, fuel and parking, breakfast, guiding at each site, and drinking water." },
+      { question: "What is not included?", answer: "Entrance fees for Sigiriya, Dambulla and the Temple of the Tooth, lunch and dinner, drinks, purchases at the visitor centre, tips, and travel insurance." },
+    ];
+  }
+
+  if (slug === "kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off in Kandy, an English-speaking guide, the village and plot visits, the cooking class with all ingredients, and the meal you cook." },
+      { question: "What is not included?", answer: "Drinks beyond those served with the meal, gratuities, spice purchases, personal expenses." },
+      { question: "How spicy is the food?", answer: "Sri Lankan home cooking is hotter than most visitors expect, and a class is the easiest place to say so. Tell your host at the start and they will adjust the chilli rather than the dish." },
+    ];
+  }
+
+  if (slug === "private-sigiriya-day-tour-from-kandy-with-an-elephant-safari-and-spice") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 11 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Kandy, the safari jeep, all driving between sites." },
+      { question: "What is not included?", answer: "Entrance fees at Sigiriya and Dambulla and the national park permit, meals and drinks, gratuities, spice garden purchases." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "colombo-port-city-guided-canoeing-session") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 1 hour." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "The watersports point at Port City Colombo, on the reclaimed waterfront beside Galle Face; the exact meeting spot is confirmed after booking." },
+      { question: "What is included?", answer: "Use of a canoe and paddle, buoyancy aid, safety briefing and instruction, supervision on the water for the duration of the session." },
+      { question: "What is not included?", answer: "Hotel transfers, food and drinks, towels, changing facilities beyond those on site, gratuities, personal expenses." },
+    ];
+  }
+
+  if (slug === "kandy-ella-transfer-hill-country-stops-nanu-oya-train") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Pickup from your hotel in Kandy; the driver will confirm the time the evening before." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle from Kandy with English-speaking driver; reserved train ticket from Nanu Oya to Ella; hotel pickup in Kandy; luggage transfer to Ella by road; fuel, tolls and parking; bottled water." },
+      { question: "What is not included?", answer: "Meals and drinks; tea factory entrance fee if charged; entrance fees at any optional stops; gratuities; accommodation in Ella." },
+    ];
+  }
+
+  if (slug === "ella-haputale-private-day-trip-hill-country-train-ride-tea-fac") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo, with the departure time set by the operator to catch the hill country train." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with driver for the full day, hotel pickup and drop-off in Colombo, hill country train ticket, tea factory and plantation visit, stops at Little Adam's Peak, the Nine Arch Bridge and Ravana Falls, drinking water." },
+      { question: "What is not included?", answer: "Meals and drinks unless confirmed by the operator, gratuities, tea purchases at the factory, personal expenses, travel insurance." },
+    ];
+  }
+
+  if (slug === "sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in Sigiriya or Dambulla, all stops on the route, drop-off at your Nuwara Eliya hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees at Dambulla and anywhere else that charges, meals and drinks, gratuities." },
+      { question: "How hard is the Sigiriya climb?", answer: "About 1,200 steps, and the exposed metal staircase across the rock face is the part people find hardest. Start at opening time — by 9 AM the stone is hot and the queue on the stairs barely moves." },
+    ];
+  }
+
+  if (slug === "colombo-after-dark-guided-nightlife-tour-tuk-tuk") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs evening." },
+      { question: "How big is the group?", answer: "Small — a maximum of 3 people." },
+      { question: "Where does it start?", answer: "Old Dutch Hospital Complex, Hospital Street, Colombo Fort." },
+      { question: "What is included?", answer: "Private English-speaking guide for the evening; private tuk-tuk with driver between venues; drop-off in central Colombo." },
+      { question: "What is not included?", answer: "Food, drinks and any venue entry or cover charges; gratuities; hotel pickup outside central Colombo." },
+    ];
+  }
+
+  if (slug === "wilpattu-national-park-full-day-leopard-safari") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Negombo, Anuradhapura or Galkadawala, confirmed after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off from Negombo, Anuradhapura or Galkadawala; open 4x4 safari jeep for the full day; driver and wildlife spotter; drinking water." },
+      { question: "What is not included?", answer: "National park entrance and tracker fees; meals; camera or video permits where applicable; gratuities; travel insurance." },
+    ];
+  }
+
+  if (slug === "liptons-seat-tuk-tuk-excursion-from-ella-with-the-dambatenne-tea-factory") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving, fuel." },
+      { question: "What is not included?", answer: "The tea factory entrance, meals and drinks, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-kandy-sightseeing-transfer") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup in Nuwara Eliya and drop-off in Kandy; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Tea factory and site entrance fees; meals and drinks; gratuities; accommodation; personal expenses." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Nuwara Eliya, or from Nanu Oya station; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, pickup in Nuwara Eliya or at Nanu Oya station, all stops, drop-off at your Kandy hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, tea purchases, gratuities." },
+      { question: "Is this just a taxi?", answer: "No — it is a driver-guide who stops at things on the route. That is the whole point: the drive happens either way, and this turns it into the day rather than the gap between days." },
+    ];
+  }
+
+  if (slug === "yala-to-ella-private-transfer-with-an-etili-village-visit-and-home") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 5 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in the Yala or Tissamaharama area; confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup in the Yala area, the village visit, the cooking session and lunch, drop-off at your Ella hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "Drinks beyond those served with lunch, gratuities, personal expenses." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "ella-sights-and-an-udawalawe-safari-all-inclusive-private-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, a private 4x4 safari jeep with driver and tracker, the national park permit, the game drive, all afternoon stops." },
+      { question: "What is not included?", answer: "The Elephant Transit Home entrance, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "nuwara-eliya-tea-country-day-trip-colombo-high-tea") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 15 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or Negombo, before dawn." },
+      { question: "What is included?", answer: "Air-conditioned car with English-speaking driver-guide, hotel pickup and drop-off in Colombo or Negombo, tea factory visit and tasting, high tea at The Grand Hotel, welcome refreshments, Gregory Lake boat ride." },
+      { question: "What is not included?", answer: "Lunch and other meals, entrance fees not specified above, horse riding and other optional activities at Gregory Lake, shopping, tips." },
+    ];
+  }
+
+  if (slug === "ella-heights-all-inclusive-day-trip-with-halpewatte-tea-factory") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella, Haputale or Bandarawela; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup and drop-off in Ella, Haputale or Bandarawela, all driving between sites, guiding on the walk." },
+      { question: "What is not included?", answer: "The zipline fee, the tea factory entrance, meals and drinks, tea purchases, gratuities." },
+      { question: "Are tea factories open every day?", answer: "Most close on Sundays and on poya (full moon) days, when processing stops. On a working day you see the machinery running; on a quiet day you see a building." },
+    ];
+  }
+
+  if (slug === "yala-safari-from-ella-with-a-drop-at-arugam-bay") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup in Ella, the safari jeep with driver and tracker, the game drive, drop-off at Arugam Bay or Pottuvil, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "colombo-foot-private-guided-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 6 people." },
+      { question: "Where does it start?", answer: "Independence Avenue, beside Independence Square, Colombo 00700." },
+      { question: "What is included?", answer: "Private English-speaking local guide for three hours; short local transfers between districts where needed; bottled water." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off; entrance fees and temple donations; food and drinks; gratuities." },
+    ];
+  }
+
+  if (slug === "diyaluma-falls-infinity-pools-and-buduruwagala-rock-temple-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 9 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned car with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving, fuel and parking." },
+      { question: "What is not included?", answer: "The Buduruwagala entrance fee, meals and drinks, a local guide at the falls where one is engaged, gratuities." },
+    ];
+  }
+
+  if (slug === "udawalawe-safari-and-south-coast-transfer-from-ella") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with an English-speaking driver-guide, hotel pickup in Ella, the safari jeep and game drive, drop-off at your south coast hotel, luggage carried throughout." },
+      { question: "What is not included?", answer: "The national park permit and the Transit Home entrance, both paid at the gate, meals and drinks, gratuities for the driver and tracker." },
+      { question: "Will I definitely see animals?", answer: "In Udawalawe and Minneriya, elephants are close to certain. Leopards in Yala or Wilpattu are not — the density is the highest in the world but the animals are in scrub, and plenty of visitors leave without one." },
+    ];
+  }
+
+  if (slug === "galle-fort-stilt-fishermen-bentota-river-safari-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs full day." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Colombo or along the south-west coast, confirmed after booking." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle with English-speaking driver; hotel pickup and drop-off; Bentota river safari by boat; guided visit at Galle Fort; bottled water; fuel, tolls and parking." },
+      { question: "What is not included?", answer: "Turtle project donation; temple entrance and offerings; photograph fees at the stilt fishing spot; meals and drinks; tips; personal expenses." },
+    ];
+  }
+
+  if (slug === "negombo-lagoon-boat-trip-monkey-island") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 8 people." },
+      { question: "Where does it start?", answer: "Boat jetty on the Negombo lagoon; the operator confirms the exact landing on booking." },
+      { question: "What is included?", answer: "Private boat with local boatman for approximately two hours; life jackets; lagoon and mangrove channel route to the island." },
+      { question: "What is not included?", answer: "Hotel transfers to and from the jetty; meals and drinks; gratuities; personal insurance." },
+    ];
+  }
+
+  if (slug === "ella-waterfalls-nine-arch-bridge-and-little-adams-peak-private-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is included?", answer: "Private tuk-tuk or car with an English-speaking driver-guide, hotel pickup and drop-off in Ella, all driving, fuel." },
+      { question: "What is not included?", answer: "Entrance fees where they apply, meals and drinks, gratuities, personal expenses." },
+      { question: "How difficult is the Adam's Peak climb?", answer: "Around 5,500 steps through the night, usually starting between 2 and 3 AM to reach the summit for sunrise. The pilgrimage season runs roughly December to May; outside it the path is unlit and the summit facilities are closed." },
+    ];
+  }
+
+  if (slug === "udawalawe-national-park-full-day-safari-from-the-galle-and-mirissa-coast") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Galle, Mirissa, Unawatuna, Weligama or Hikkaduwa; confirmed after booking." },
+      { question: "What is included?", answer: "Private vehicle with driver from your south coast hotel, a private 4x4 safari jeep with driver and tracker, the game drive, drinking water." },
+      { question: "What is not included?", answer: "The national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker." },
+      { question: "What are the chances of seeing whales?", answer: "Good in season — roughly November to April off the south coast — and poor outside it. Blue whales are the draw. Choose an operator that keeps its distance; crowding the animals is common and it is both harmful and a worse experience." },
+    ];
+  }
+
     return null;
 };
