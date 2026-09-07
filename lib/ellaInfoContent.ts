@@ -4,6 +4,14 @@
 // Every tourCard slug is taken from the live tour list for this city.
 import type { CityInfoData } from './cityInfoContent';
 
+
+const TOUR_CARD_ELLA_SAFARI = {
+  slug: "yala-national-park-leopard-safari-day-trip-from-ella",
+  title: "Yala National Park Leopard Safari Day Trip from Ella",
+  price: 70,
+  image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462418/asiabylocals/tours/from-ella-yala-national-park-leopard-safari-tour/img0.jpg",
+};
+
 export function getEllaInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
     case "nine-arch-bridge-guide":
@@ -653,6 +661,69 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "yala-vs-udawalawe-from-ella":
+      return {
+        title: "Yala or Udawalawe from Ella: Which Safari to Actually Book",
+        seoTitle: "Yala vs Udawalawe Safari from Ella (2026)",
+        description: "Ella sits between Sri Lanka's two best-known safari parks. Yala has the leopards and the crowds; Udawalawe has the elephants and the space. An honest comparison, with drive times and what a jeep really costs.",
+        fastFacts: [
+          { icon: "Clock", label: "Drive from Ella", value: "Yala about 2.5 h · Udawalawe about 2 h" },
+          { icon: "Star", label: "Yala is for", value: "Leopards — the highest density in the world" },
+          { icon: "Star", label: "Udawalawe is for", value: "Elephants — sightings are close to guaranteed" },
+          { icon: "AlertTriangle", label: "Yala Block 1 closes", value: "Usually September to mid-October" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "**Go to Udawalawe if you want to see animals. Go to Yala if you specifically want a leopard and can accept that you may not get one.**\n\nUdawalawe holds around 250 resident elephants in a park of 300 square kilometres with open grassland, so you see them, close, on almost every drive. There is no realistic scenario in which you spend three hours there and see no elephants.\n\nYala has the densest leopard population of any protected area on earth — roughly one leopard per square kilometre in Block 1. That is the draw and it is genuine. But density is not the same as visibility: the animals are in scrub, they move at dawn and dusk, and a sighting is a matter of luck and of how many jeeps are radioing each other. Plenty of visitors leave without one.\n\nThe second difference is the one nobody mentions in listings: **crowds**. Yala Block 1 in peak season can put a hundred jeeps in the same park, and a leopard sighting turns into a traffic jam. Udawalawe is quieter, and the experience is calmer for it.",
+            tourCard: TOUR_CARD_ELLA_SAFARI,
+          },
+          {
+            title: "Getting There from Ella",
+            icon: "MapPin",
+            content: "Ella is unusually well placed — both parks are a morning's drive, and neither needs an overnight.\n\n**Udawalawe** is about **2 hours** south, dropping out of the hill country through Wellawaya. The road is good. A 6 AM departure puts you at the gate for the morning drive.\n\n**Yala** is about **2.5 hours** to the Tissamaharama entrance. Most tours leave Ella between 4 and 5 AM for the dawn slot, which is the productive one.\n\nThe drive is the reason so many of these run as **safari-plus-transfer**: if you are heading to the south coast anyway, doing the park on the way costs you almost no extra time. We list that as [Yala with a drop at Tangalle or Hiriketiya](/sri-lanka/ella/yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya), [Yala with a drop at Arugam Bay](/sri-lanka/ella/yala-safari-from-ella-with-a-drop-at-arugam-bay), [Udawalawe with a south coast drop to Galle](/sri-lanka/ella/udawalawe-safari-with-a-south-coast-drop-from-ella-galle-mirissa-or) and the reverse routes such as [South Coast to Ella via a Yala safari](/sri-lanka/ella/south-coast-to-ella-transfer-via-a-yala-safari-and-buduruwagala) and [Yala to Ella with an Etili village visit](/sri-lanka/ella/yala-to-ella-private-transfer-with-an-etili-village-visit-and-home).",
+          },
+          {
+            title: "Shared Jeep or Private",
+            icon: "Info",
+            content: "This decides your day more than the park does.\n\nA **shared jeep** puts six to eight strangers in one vehicle. It is cheaper, and it is fine if you are relaxed about it — but you go where the group goes, you stop when the group stops, and photography from the middle row is difficult.\n\nA **private jeep** means the driver works to you. That matters at a leopard sighting, where position is everything, and it matters if anyone in your party is photographing seriously. Our private options are [Private Yala with a dedicated jeep and tracker](/sri-lanka/ella/private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker), [Private Yala day trip from Ella and Bandarawela](/sri-lanka/ella/private-yala-national-park-safari-day-trip-from-ella-and-back), [Private Udawalawe with jeep, permit and tracker](/sri-lanka/ella/private-udawalawe-safari-from-ella-with-jeep-permit-and-transfers) and the [all-inclusive Udawalawe half-day](/sri-lanka/ella/all-inclusive-udawalawe-half-day-safari-from-ella-with-permit).\n\nShared and standard options: [Yala leopard safari day trip](/sri-lanka/ella/yala-national-park-leopard-safari-day-trip-from-ella), [Yala from Ella, Bandarawela or Haputale](/sri-lanka/ella/yala-national-park-safari-day-trip-from-ella-bandarawela-or-haputale), [Udawalawe jeep safari](/sri-lanka/ella/udawalawe-jeep-safari-from-ella-bandarawela-or-haputale-with-ravana) and the [Udawalawe day tour](/sri-lanka/ella/udawalawe-safari-day-tour-from-ella-bandarawela-or-haputale).\n\n**Check what the price includes.** Park entry and the jeep are separate charges in Sri Lanka, and a cheap headline price often excludes the permit. Ours state it either way.",
+          },
+          {
+            title: "When Not to Go to Yala",
+            icon: "AlertTriangle",
+            content: "**Block 1, the main and most-visited section, usually closes for around six weeks from early September to mid-October** for the dry-season maintenance period. Dates shift each year and are announced late, so check before you build a trip around it. Block 5 sometimes stays open, and some operators quietly switch you there without saying so — ask.\n\n**The dry season, roughly February to July, is the better bet** in both parks. Water sources shrink, animals concentrate around what is left, and sightings go up sharply. In the wet months the animals disperse because water is everywhere.\n\n**Afternoon drives are the weaker option** at both parks and are usually cheaper for that reason. If your schedule allows only an afternoon, Udawalawe still delivers; Yala often does not.",
+          },
+          {
+            title: "Doing Both, and the Other Parks",
+            icon: "Map",
+            content: "If you have the day and the budget, [two parks in a day — private Yala and Udawalawe](/sri-lanka/ella/two-parks-in-a-day-private-yala-and-udawalawe-double-safari-from-ella) is genuinely possible from Ella, and it is the only way to compare them honestly. It is a long day: expect to leave before dawn and return after dark.\n\nTwo less obvious options worth knowing about:\n\n**Kalametiya Bird Sanctuary** is a coastal lagoon, not a jeep park — you go by boat, it is quiet, and it is the best birding near Ella. See [the Kalametiya boat safari with a coastal drop](/sri-lanka/ella/kalametiya-bird-sanctuary-boat-safari-from-ella-with-coastal-transfers).\n\n**Combining a park with Ella's own sights** works if you would rather not spend the whole day in a vehicle — [Ravana Falls, Diyaluma and a Yala safari](/sri-lanka/ella/ravana-falls-diyaluma-and-a-yala-safari-full-day-from-ella) and [Ella sights with an Udawalawe safari](/sri-lanka/ella/ella-sights-and-an-udawalawe-safari-all-inclusive-private-day-trip) both do that.",
+          },
+        ],
+        faqs: [
+          { q: "Is Yala or Udawalawe better from Ella?", a: "**Udawalawe** if you want a reliable wildlife day — around 250 resident elephants in open grassland, seen close on almost every drive. **Yala** if a leopard is specifically what you want: it has the world's highest leopard density, but sightings are luck, and Block 1 gets very crowded." },
+          { q: "How far is Yala from Ella?", a: "About **2.5 hours** to the Tissamaharama entrance. Most tours leave Ella between 4 and 5 AM to make the dawn drive, which is the productive one." },
+          { q: "How far is Udawalawe from Ella?", a: "About **2 hours** south through Wellawaya, on good road. A 6 AM departure comfortably makes the morning drive." },
+          { q: "When is Yala closed?", a: "**Block 1 usually closes for around six weeks from early September to mid-October.** Exact dates are announced late and change each year, so confirm before planning around it. Some operators switch you to Block 5 without mentioning it — ask which block you are visiting." },
+          { q: "Do I need a private jeep?", a: "Not necessarily, but it changes the day. A shared jeep is cheaper and fine if you are relaxed; a private jeep matters at a leopard sighting, where vehicle position decides whether you see anything, and for anyone photographing seriously." },
+          { q: "Are park fees included?", a: "Check each listing. In Sri Lanka the jeep and the park permit are separate charges, and cheap headline prices often exclude the permit. Every option we list states which it is." },
+          { q: "What is the best time of year for a safari?", a: "**February to July**, the drier months. Water sources shrink, animals concentrate around what remains, and sightings rise sharply. In the wet season the animals disperse because water is everywhere." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Yala or Udawalawe better from Ella?", acceptedAnswer: { "@type": "Answer", text: "**Udawalawe** if you want a reliable wildlife day — around 250 resident elephants in open grassland, seen close on almost every drive. **Yala** if a leopard is specifically what you want: it has the world's highest leopard density, but sightings are luck, and Block 1 gets very crowded." } },
+            { "@type": "Question", name: "How far is Yala from Ella?", acceptedAnswer: { "@type": "Answer", text: "About **2.5 hours** to the Tissamaharama entrance. Most tours leave Ella between 4 and 5 AM to make the dawn drive, which is the productive one." } },
+            { "@type": "Question", name: "How far is Udawalawe from Ella?", acceptedAnswer: { "@type": "Answer", text: "About **2 hours** south through Wellawaya, on good road. A 6 AM departure comfortably makes the morning drive." } },
+            { "@type": "Question", name: "When is Yala closed?", acceptedAnswer: { "@type": "Answer", text: "**Block 1 usually closes for around six weeks from early September to mid-October.** Exact dates are announced late and change each year, so confirm before planning around it. Some operators switch you to Block 5 without mentioning it — ask which block you are visiting." } },
+            { "@type": "Question", name: "Do I need a private jeep?", acceptedAnswer: { "@type": "Answer", text: "Not necessarily, but it changes the day. A shared jeep is cheaper and fine if you are relaxed; a private jeep matters at a leopard sighting, where vehicle position decides whether you see anything, and for anyone photographing seriously." } },
+            { "@type": "Question", name: "Are park fees included?", acceptedAnswer: { "@type": "Answer", text: "Check each listing. In Sri Lanka the jeep and the park permit are separate charges, and cheap headline prices often exclude the permit. Every option we list states which it is." } },
+            { "@type": "Question", name: "What is the best time of year for a safari?", acceptedAnswer: { "@type": "Answer", text: "**February to July**, the drier months. Water sources shrink, animals concentrate around what remains, and sightings rise sharply. In the wet season the animals disperse because water is everywhere." } },
+          ],
+        },
+        heroImage: TOUR_CARD_ELLA_SAFARI.image,
+      };
     default:
       return null;
   }

@@ -248,7 +248,8 @@ export const ELLA_INFO_SLUGS = [
   'getting-to-ella',
   'best-time-to-visit-ella',
   'ella-2-day-itinerary'
-];
+,
+  'yala-vs-udawalawe-from-ella'];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
 export const GALLE_INFO_SLUGS = [

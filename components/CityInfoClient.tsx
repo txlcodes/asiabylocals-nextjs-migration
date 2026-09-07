@@ -285,6 +285,7 @@ const ELLA_SIDEBAR = [
     { name: 'Getting to Ella', slug: 'getting-to-ella' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-ella' },
     { name: 'Ella 2-Day Itinerary', slug: 'ella-2-day-itinerary' },
+    { name: 'Yala vs Udawalawe Safari', slug: 'yala-vs-udawalawe-from-ella' },
 ];
 
 const GALLE_SIDEBAR = [
