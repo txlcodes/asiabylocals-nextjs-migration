@@ -437,6 +437,7 @@ const TOKYO_SIDEBAR = [
     { name: 'Akihabara Guide', slug: 'akihabara-guide' },
     { name: 'Tokyo with Kids', slug: 'tokyo-with-kids' },
     { name: 'Where to Stay in Tokyo', slug: 'where-to-stay-in-tokyo' },
+    { name: 'Onsen & Sento Guide', slug: 'tokyo-onsen-and-sento-guide' },
 ];
 
 function renderIcon(name: string) {

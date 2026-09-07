@@ -119,6 +119,16 @@ const TOUR_CARD_ASAKUSA_SUMO = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726118/asiabylocals/tours/tokyo-asakusa-sumo-dinner-show-geisha-hot-pot/img0.jpg',
 };
 
+
+const TOUR_CARD_SENTO = {
+    slug: 'tokyo-sento-bathhouse-experience-tattoo-friendly',
+    title: "A Local Sento with a Guide, Tattoos Welcome",
+    description: 'A same-gender guide goes into the bath with you and explains the etiquette as it happens.',
+    price: 'From $76',
+    duration: '1 hour',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788728015/asiabylocals/tours/tokyo-sento-bathhouse-experience-tattoo-friendly/img0.jpg',
+};
+
 export function getTokyoInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
 
@@ -1611,6 +1621,69 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_NIGHTWALK.image,
+      };
+    case "tokyo-onsen-and-sento-guide":
+      return {
+        title: "Onsen and Sento in Tokyo: The Rules, the Tattoo Problem, and Where to Actually Go",
+        seoTitle: "Tokyo Onsen & Sento Guide (2026)",
+        description: "Bathing etiquette explained properly, the difference between an onsen and a sento, and what to do if you have tattoos — which is the question that stops most visitors.",
+        fastFacts: [
+          { icon: "Info", label: "Onsen vs sento", value: "Hot spring water vs heated tap water" },
+          { icon: "AlertTriangle", label: "Swimwear", value: "Not worn. Bathing is nude" },
+          { icon: "AlertTriangle", label: "Tattoos", value: "Refused at many places; workarounds exist" },
+          { icon: "MapPin", label: "Closest real onsen", value: "Hakone and Kusatsu, 90 min plus" },
+        ],
+        sections: [
+          {
+            title: "Onsen, Sento, and Which One Tokyo Has",
+            icon: "Star",
+            content: "These two words are used interchangeably in English and mean different things.\n\n**An onsen uses natural hot spring water**, legally defined in Japan by temperature at source and by mineral content. **A sento is a public bathhouse using heated tap water.** The bathing is identical; the water is not.\n\nTokyo has both, but its onsen are scattered and modest — the city is not a hot spring region. Its **sento are everywhere**, and they are the more interesting institution: neighbourhood bathhouses where people go after work, with tiled murals of Mount Fuji, plastic stools, and a woman at the front desk who has run the place for forty years.\n\nA visitor's instinct is to seek out the onsen. The better advice for Tokyo is to go to a sento, because the sento is the living version of the culture and the onsen is a two-hour train ride away in Hakone or Kusatsu, where it is done far better.\n\nIf the etiquette is what puts you off, a guided visit removes the problem entirely — our [sento experience in Shin-Okubo](/japan/tokyo/tokyo-sento-bathhouse-experience-tattoo-friendly) sends a same-gender guide into the bath with you to walk you through it, and it accepts tattoos.",
+            tourCard: TOUR_CARD_SENTO,
+          },
+          {
+            title: "The Etiquette, Step by Step",
+            icon: "Info",
+            content: "The rules are simple and the consequences of getting them wrong are social rather than serious. Nobody will shout at you; several people will notice.\n\n**1. Baths are separated by gender.** Red curtain for women, blue for men, generally.\n\n**2. You bathe nude.** No swimwear, no shorts, no exceptions. This is the part most visitors need a moment to accept, and it is genuinely non-negotiable.\n\n**3. Leave everything in the locker** except a small towel.\n\n**4. Wash first, thoroughly, sitting down.** The seated shower stations are where you actually get clean — soap, shampoo, rinse completely. The bath is for soaking in already-clean water, which is why this matters.\n\n**5. Rinse off all the soap** before you get in. All of it.\n\n**6. The small towel does not go in the water.** Fold it and put it on your head, or leave it on the side. This is the single most common visitor mistake.\n\n**7. Do not swim, splash or put your head under.**\n\n**8. Tie long hair up** so it stays out of the water.\n\n**9. Do not drain the bath** when you leave — everyone shares the same water.\n\n**10. Dry off roughly** with the small towel before returning to the changing room.\n\nThat is the whole of it. Ten minutes of instruction and it becomes obvious.",
+          },
+          {
+            title: "The Tattoo Question",
+            icon: "AlertTriangle",
+            content: "This is the reason a large number of visitors never go, and it deserves a straight answer.\n\n**Many Japanese baths refuse entry to anyone with visible tattoos.** The association is with organised crime, and although that association means very little for a foreign visitor with a small design, the door policy usually does not distinguish. Signs are often in Japanese only.\n\nPolicies vary and are slowly relaxing, but you cannot assume, and being refused in person is worse than not going.\n\n**What actually works:**\n\n| Approach | How well it works |\n|---|---|\n| **A guided visit to a tattoo-friendly sento** | Reliable — the venue is chosen for it |\n| **A private bath (kashikiri) at a ryokan** | Reliable, and the standard fix in Hakone |\n| **A room with its own bath** | Reliable, and the reason many pay the premium |\n| **Cover-up patches** | Works at some places, refused at others |\n| **Turning up and hoping** | Poor |\n\nOur [guided sento visit](/japan/tokyo/tokyo-sento-bathhouse-experience-tattoo-friendly) is at a bathhouse that accepts tattoos and includes the entry fee, soap and shampoo, with a same-gender guide alongside you. Our [Mount Takao day](/japan/tokyo/tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen) ends at a natural hot spring that also accepts them, which is the closest thing to a proper onsen day from Tokyo.\n\nFor Hakone, see [where to stay](/japan/hakone/where-to-stay-in-hakone) — the private-bath route is the standard solution there.",
+          },
+          {
+            title: "Where to Go",
+            icon: "MapPin",
+            content: "**In the city — sento.** Neighbourhood bathhouses exist in every ward and cost very little. The good ones have painted Fuji murals above the baths, a tradition that dates to 1912 and is now maintained by a handful of remaining painters. Some have added saunas and cold plunges; the sauna boom in Japan has been substantial and has kept a lot of sento alive.\n\n**In the city — onsen facilities.** Odaiba and a few other spots have large complexes with real spring water pumped from depth, plus food halls and relaxation floors. They are comfortable, family-friendly and considerably less atmospheric than a working sento. Reasonable in bad weather.\n\n**A day out — Mount Takao.** Under an hour from Shinjuku, with a natural hot spring at the foot of the mountain. Combined with the hike, this is the most efficient onsen day from Tokyo, and [the guided version](/japan/tokyo/tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen) ends there with towels included.\n\n**Overnight — Hakone.** Ninety minutes by Romancecar, and the proper answer if you want the full ryokan and onsen evening. See our [Hakone accommodation guide](/japan/hakone/where-to-stay-in-hakone) for how a ryokan night actually works.\n\n**Further — Kusatsu, Nikko, Izu.** All two to three hours out and all better than anything in Tokyo. The [Izu coastal day](/japan/hakone/izu-peninsula-day-trip-from-tokyo-mount-omuro-jogasaki) finishes in Shuzenji, an onsen town on a river gorge.",
+          },
+          {
+            title: "Practical Details",
+            icon: "Wallet",
+            content: "**Cost.** A neighbourhood sento is one of the cheapest things you can do in Tokyo — the entry price is regulated by the metropolitan government. Onsen complexes cost several times more. Soap and shampoo are sometimes provided and sometimes sold at the desk; a guided visit usually includes them.\n\n**What to bring.** A small towel and a larger one, or rent them. Nothing else.\n\n**Timing.** Sento are evening institutions — most open in the afternoon and run late, because they exist for people finishing work. Going at nine at night is normal.\n\n**Medical notes.** Do not bathe drunk. Do not stay in a hot bath for long stretches; five to ten minutes at a time with breaks is the norm. Drink water. If you have heart problems or high blood pressure, take the temperature seriously — Japanese baths run hotter than most Western equivalents, frequently above 40°C.\n\n**Jewellery.** Sulphur springs tarnish silver permanently. Take silver off and leave it in the locker; gold and platinum are fine.\n\n**Children** are welcome at sento and go with the parent of their own gender, up to an age that varies by facility.\n\n**Photography** is forbidden in every bathing area, everywhere, without exception. Leave the phone in the locker.",
+          },
+        ],
+        faqs: [
+          { q: "What is the difference between an onsen and a sento?", a: "**An onsen uses natural hot spring water**, legally defined by temperature and mineral content. **A sento is a public bathhouse with heated tap water.** The bathing is the same; the water is not. Tokyo has far better sento than onsen." },
+          { q: "Do I have to be naked?", a: "Yes. Japanese bathing is nude and baths are separated by gender. No swimwear, no exceptions. It is the part most visitors need a moment to accept." },
+          { q: "Can I go to an onsen with tattoos?", a: "Many refuse visible tattoos. The reliable options are **a guided visit to a tattoo-friendly bathhouse**, **a private bath at a ryokan**, or **a room with its own bath**. Cover-up patches work at some places and not others." },
+          { q: "What is the most common mistake visitors make?", a: "**Putting the small towel in the water.** Fold it on your head or leave it at the side. The second is not washing thoroughly enough at the seated stations before getting in." },
+          { q: "Where is the nearest real onsen to Tokyo?", a: "**Mount Takao**, under an hour from Shinjuku, has a natural hot spring at the foot of the mountain. For a proper onsen evening, **Hakone** is ninety minutes by Romancecar." },
+          { q: "How hot are the baths?", a: "Frequently above 40°C, hotter than most Western equivalents. Stay in for five to ten minutes at a time with breaks, drink water, and take it seriously if you have heart problems or high blood pressure." },
+          { q: "Can I take photos?", a: "No. Photography is forbidden in every bathing area without exception. Leave your phone in the locker." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the difference between an onsen and a sento?", acceptedAnswer: { "@type": "Answer", text: "**An onsen uses natural hot spring water**, legally defined by temperature and mineral content. **A sento is a public bathhouse with heated tap water.** The bathing is the same; the water is not. Tokyo has far better sento than onsen." } },
+            { "@type": "Question", name: "Do I have to be naked?", acceptedAnswer: { "@type": "Answer", text: "Yes. Japanese bathing is nude and baths are separated by gender. No swimwear, no exceptions. It is the part most visitors need a moment to accept." } },
+            { "@type": "Question", name: "Can I go to an onsen with tattoos?", acceptedAnswer: { "@type": "Answer", text: "Many refuse visible tattoos. The reliable options are **a guided visit to a tattoo-friendly bathhouse**, **a private bath at a ryokan**, or **a room with its own bath**. Cover-up patches work at some places and not others." } },
+            { "@type": "Question", name: "What is the most common mistake visitors make?", acceptedAnswer: { "@type": "Answer", text: "**Putting the small towel in the water.** Fold it on your head or leave it at the side. The second is not washing thoroughly enough at the seated stations before getting in." } },
+            { "@type": "Question", name: "Where is the nearest real onsen to Tokyo?", acceptedAnswer: { "@type": "Answer", text: "**Mount Takao**, under an hour from Shinjuku, has a natural hot spring at the foot of the mountain. For a proper onsen evening, **Hakone** is ninety minutes by Romancecar." } },
+            { "@type": "Question", name: "How hot are the baths?", acceptedAnswer: { "@type": "Answer", text: "Frequently above 40°C, hotter than most Western equivalents. Stay in for five to ten minutes at a time with breaks, drink water, and take it seriously if you have heart problems or high blood pressure." } },
+            { "@type": "Question", name: "Can I take photos?", acceptedAnswer: { "@type": "Answer", text: "No. Photography is forbidden in every bathing area without exception. Leave your phone in the locker." } },
+          ],
+        },
+        heroImage: TOUR_CARD_SENTO.image,
       };
     default:
             return null;

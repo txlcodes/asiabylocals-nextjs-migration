@@ -150,7 +150,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'tokyo-sumo-guide',
     'akihabara-guide',
     'tokyo-with-kids',
-    'where-to-stay-in-tokyo'].map(slug => ({
+    'where-to-stay-in-tokyo',
+    'tokyo-onsen-and-sento-guide'].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
