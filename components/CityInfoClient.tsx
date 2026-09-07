@@ -354,6 +354,7 @@ const HIROSHIMA_SIDEBAR = [
     { name: 'Getting Around', slug: 'getting-around-hiroshima' },
     { name: '2-Day Itinerary', slug: 'hiroshima-2-day-itinerary' },
     { name: 'Hiroshima with Children', slug: 'hiroshima-with-children' },
+    { name: 'Where to Stay in Hiroshima', slug: 'where-to-stay-in-hiroshima' },
 ];
 
 const NARA_SIDEBAR = [

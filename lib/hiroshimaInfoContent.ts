@@ -951,6 +951,69 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: X_KURE.image,
       };
+    case "where-to-stay-in-hiroshima":
+      return {
+        title: "Where to Stay in Hiroshima: The Station, the Centre, or Miyajima",
+        seoTitle: "Where to Stay in Hiroshima (2026)",
+        description: "Hiroshima is small enough that the choice is easy — except for one question most guides skip, which is whether to sleep on Miyajima instead.",
+        fastFacts: [
+          { icon: "MapPin", label: "Best all-round", value: "Hatchobori and the central arcades" },
+          { icon: "Train", label: "Best for onward travel", value: "Hiroshima Station" },
+          { icon: "Star", label: "The overlooked option", value: "One night on Miyajima" },
+          { icon: "Clock", label: "Time needed", value: "Two nights covers city and island" },
+        ],
+        sections: [
+          {
+            title: "The Short Answer",
+            icon: "Star",
+            content: "Hiroshima is a compact, low-rise city with a tram network, and almost everywhere a visitor wants is within twenty minutes of everywhere else. That makes this a much easier decision than in Tokyo or Kyoto.\n\n**Three sensible options:**\n\n| Where | What it gets you | Trade-off |\n|---|---|---|\n| **Hatchobori / Kamiyacho** | The centre, walking distance to the Peace Park | Nothing much |\n| **Hiroshima Station** | Shinkansen, JR to Miyajimaguchi, coach departures | Twenty minutes from the Peace Park |\n| **Miyajima** | The island after the day-trippers leave | Cut off from the city in the evening |\n\nFor a single night, stay in the centre around **Hatchobori**, which is where the covered shopping arcades, the okonomiyaki and the trams converge, and which is a fifteen-minute walk or a short tram ride from the Peace Memorial Park.\n\nFor two nights, the genuinely interesting question is whether one of them should be on **Miyajima** — and for a lot of travellers the answer is yes.",
+            tourCard: X_KURE,
+          },
+          {
+            title: "The Miyajima Argument",
+            icon: "Star",
+            content: "This is the recommendation most guides do not make, and it is the one worth thinking about.\n\nMiyajima receives an enormous number of day visitors, and essentially all of them are on a ferry back to the mainland by early evening. **After about six o'clock the island empties**, and what is left is a small village, a shrine built over the water, a floodlit torii gate and several hundred deer, with almost nobody there.\n\nThe practical consequences are specific. **The floating torii is lit at night** and you can stand in front of it alone. **Itsukushima Shrine at dawn**, with the tide in, is the image everyone comes for and nobody sees. And the **Mount Misen** ropeway is at its best first thing, before the queues.\n\nThe cost is that you are on an island. Ferries run until reasonably late but not all night, restaurants are limited and close early, and there is no nightlife whatsoever. Accommodation is mostly ryokan and mostly expensive, because the island knows what it has.\n\n**Who should do it:** anyone staying two nights or more; couples; photographers; anyone who has already decided Miyajima is the part of the trip they care about.\n\n**Who should not:** anyone on a single night, anyone who wants dinner options, and anyone who would rather see the Peace Park properly than the island twice.\n\nIf you are only coming for the day, our [Miyajima and Hiroshima day trip from Kyoto](/japan/hiroshima/miyajima-bullet-full-day-tour) covers both with the ferry and shrine admission included.",
+          },
+          {
+            title: "The City: Centre or Station",
+            icon: "Train",
+            content: "**Hatchobori and Kamiyacho** form the commercial centre. The Hondori arcade runs west from here towards the Peace Park, covered for its whole length, and it is where the department stores, the okonomiyaki floors and most of the eating are. Trams run through it in every direction.\n\nStaying here means the Peace Memorial Park is a walk rather than a journey, which matters — the park is best early in the morning and being able to step out into it at eight is the single strongest argument for the centre.\n\n**Hiroshima Station** is on the east side, about twenty minutes from the Peace Park by tram. It is the Shinkansen stop, the JR line to Miyajimaguchi for the ferry, and where the coach day tours depart from — including our [Kure naval history walk](/japan/hiroshima/kure-naval-history-walk-yamato-museum-submarine) and the [morning hike above the city](/japan/hiroshima/hiroshima-futaba-morning-hike-open-air-tea-ceremony).\n\nThe station area has been substantially redeveloped and now has decent hotels and a good food floor, so it is no longer the poor relation it once was. Stay here if you are arriving late, leaving early, or doing several day trips.\n\n**A tram note:** Hiroshima kept its tram network when most Japanese cities scrapped theirs, and it is the practical way around the centre. It is slower than a subway and considerably more pleasant.",
+          },
+          {
+            title: "How Long, and What Else",
+            icon: "Calendar",
+            content: "**One night** is enough to see the Peace Memorial Park, the museum and the A-Bomb Dome properly, with an evening for okonomiyaki. It is not enough to add Miyajima without rushing both.\n\n**Two nights** is the right number: one day for the city, one for the island. If you split them as a night in the city and a night on Miyajima, you get the island at both ends of the day.\n\n**Three nights** opens up **Kure**, thirty minutes east, with its naval museums and the submarine you can walk inside, or the **Shimanami Kaido** cycling route across the islands to Shikoku — one of the best cycling routes in Japan, and a full day even in the shortest version.\n\n**Onomichi**, at the far end of that route, is a hillside port town increasingly worth a night of its own.\n\n**Getting here.** Hiroshima is about ninety minutes from Osaka and under two hours from Kyoto on the Shinkansen, which is why the day trip from Kansai is so common. It is roughly four hours from Tokyo — long enough that an overnight makes considerably more sense than a day trip, whatever the tours suggest.\n\n**Prices** are lower than Kyoto and Osaka across the board, except on Miyajima.",
+          },
+          {
+            title: "Practical Notes",
+            icon: "Info",
+            content: "**Book Miyajima ryokan well ahead.** The island has limited accommodation and it fills in autumn and around the tide tables that put the torii at its best.\n\n**Check the tide.** This affects the island more than where you sleep, but it changes the visit completely: high tide floats the torii, low tide lets you walk out to it across the sand. Both are worth seeing and they are different experiences. Tide tables are published well ahead.\n\n**Okonomiyaki is layered here**, not mixed as in Osaka — batter, then a mountain of cabbage, then noodles, then egg, assembled in order on a hotplate. Okonomimura, a building of stacked okonomiyaki counters, is the concentrated version and is a short walk from Hatchobori.\n\n**The Peace Park in the morning.** Whatever you decide about where to sleep, do the park early. It is quieter, cooler, and the visit is heavy enough that having the rest of the day afterwards matters. See our [guide to visiting with children](/japan/hiroshima/hiroshima-with-children) if that applies.\n\n**Luggage.** Hiroshima Station has coin lockers but they fill; hotel-to-hotel forwarding works here as everywhere in Japan and is the better answer if you are moving on to Miyajima for a night.",
+          },
+        ],
+        faqs: [
+          { q: "Where is the best place to stay in Hiroshima?", a: "**Hatchobori or Kamiyacho** in the centre — the covered arcades, the trams and the okonomiyaki are there, and the Peace Memorial Park is a fifteen-minute walk." },
+          { q: "Should I stay on Miyajima?", a: "If you have two nights, seriously consider it. **The island empties after about six**, leaving the floodlit torii, the shrine at dawn and the deer with almost nobody there. The cost is limited restaurants and no nightlife." },
+          { q: "Is it worth staying near Hiroshima Station?", a: "Yes if you are arriving late, leaving early or doing day trips — it is the Shinkansen stop, the JR line to the Miyajima ferry, and where coach tours depart. It is twenty minutes from the Peace Park by tram." },
+          { q: "How many nights do I need in Hiroshima?", a: "**Two** — one for the city, one for Miyajima. One night covers the Peace Park properly but not both. Three opens up Kure or the Shimanami Kaido cycling route." },
+          { q: "Is Hiroshima a day trip from Kyoto or Osaka?", a: "It can be — about ninety minutes from Osaka and under two hours from Kyoto by Shinkansen — and many people do it that way. From Tokyo it is around four hours each way, where an overnight makes far more sense." },
+          { q: "Does the tide matter?", a: "Yes, on Miyajima. **High tide floats the torii; low tide lets you walk out to it.** Both are worth seeing and they are different days. Tide tables are published well in advance." },
+          { q: "Is Hiroshima expensive?", a: "No — it is cheaper than Kyoto and Osaka across the board. The exception is Miyajima, where accommodation is limited and priced accordingly." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Where is the best place to stay in Hiroshima?", acceptedAnswer: { "@type": "Answer", text: "**Hatchobori or Kamiyacho** in the centre — the covered arcades, the trams and the okonomiyaki are there, and the Peace Memorial Park is a fifteen-minute walk." } },
+            { "@type": "Question", name: "Should I stay on Miyajima?", acceptedAnswer: { "@type": "Answer", text: "If you have two nights, seriously consider it. **The island empties after about six**, leaving the floodlit torii, the shrine at dawn and the deer with almost nobody there. The cost is limited restaurants and no nightlife." } },
+            { "@type": "Question", name: "Is it worth staying near Hiroshima Station?", acceptedAnswer: { "@type": "Answer", text: "Yes if you are arriving late, leaving early or doing day trips — it is the Shinkansen stop, the JR line to the Miyajima ferry, and where coach tours depart. It is twenty minutes from the Peace Park by tram." } },
+            { "@type": "Question", name: "How many nights do I need in Hiroshima?", acceptedAnswer: { "@type": "Answer", text: "**Two** — one for the city, one for Miyajima. One night covers the Peace Park properly but not both. Three opens up Kure or the Shimanami Kaido cycling route." } },
+            { "@type": "Question", name: "Is Hiroshima a day trip from Kyoto or Osaka?", acceptedAnswer: { "@type": "Answer", text: "It can be — about ninety minutes from Osaka and under two hours from Kyoto by Shinkansen — and many people do it that way. From Tokyo it is around four hours each way, where an overnight makes far more sense." } },
+            { "@type": "Question", name: "Does the tide matter?", acceptedAnswer: { "@type": "Answer", text: "Yes, on Miyajima. **High tide floats the torii; low tide lets you walk out to it.** Both are worth seeing and they are different days. Tide tables are published well in advance." } },
+            { "@type": "Question", name: "Is Hiroshima expensive?", acceptedAnswer: { "@type": "Answer", text: "No — it is cheaper than Kyoto and Osaka across the board. The exception is Miyajima, where accommodation is limited and priced accordingly." } },
+          ],
+        },
+        heroImage: X_KURE.image,
+      };
     default:
             return null;
     }
