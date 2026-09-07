@@ -13413,5 +13413,60 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- SRI LANKA (2026-09, real reviews from the source listing) ---
+
+    if (slug === "ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea") {
+        return {
+            averageRating: 4.8, totalReviews: 23, guideRating: 4.9, valueRating: 5.0,
+            reviews: [
+                { author: "Tyler", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "We had the pleasure of meeting our guide Mohamed over three different itineraries. On this particular day, because of the intense rainfall from the prior day, Mohamed found alternatives to make up the inability to reach the Ambuluwawa Tower due to the landslide such as to see the Royal Tuskers. As our main goal for the day was to visit the Tea Plantation we were very satisfied and we were grateful for Mohamed to help us with personal chores such as navigating laundry services and such. Thank you Mohamed." },
+                { author: "Lieke", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "We had a very nice day with Induwara! He took us to the Ambuluwawa tower, the herbal en spicy garden, tea factory and de Kandy viewpoint. He was very polite and friendly. He made our day!" },
+                { author: "Dana", country: "Verified traveller review", rating: 5, date: "2026-02-04", text: "This tour was fun! We had a chilled ride to the tower and saw a lot of places on the way. Iduwara made sure I was happy and feeling good. He told informations about Kandy and near areas. He even went with me to the tower and all the way up. :D I can really recommend this tour" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2026-01-10", text: "Jehan is an excellent guide with great knowledge on Sri Lankan culture and nature. He really goes the extra mile to make sure his guests are happy." },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2025-11-23", text: "Sachintha was a very nice and very safely driver. He asked us at the beginning of the tour what we actually want to do. We decided to visit the Tower, the Spice and Herbs Garden and the Tea factory. The tower ist really pretty, the Garden and the Tea factory were interesting. You have the Chance to buy at all places Sri Lankan made goods. At the end of the tour we asked Sachintha If he could drop us of at the Kandy City Marked. He was so lovely to wait for us and drove us back to the hotel afterwards, which was awesome because it was raining cats and dogs." },
+            ],
+        };
+    }
+
+    if (slug === "udawalawe-safari-day-trip-from-galle-mirissa-or-hikkaduwa") {
+        return {
+            averageRating: 4.8, totalReviews: 120, guideRating: 4.7, valueRating: 4.4,
+            reviews: [
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "Great trip to Udawalawa. Long journey from Galle and weaving mopeds and tuc tucs safely and skilfully negotiated by our driver. Our guide Batu was excellent , very knowledgeable and eagle eyed , spotting birds monkeys and lizards we would have missed. Lots of close encounters with elephants and we saw buffalo, mongoose, crocodiles, wild pigs, monkeys and loads of birds. A great trip and highly recommended!" },
+                { author: "Ellen", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "We had an amazing trip to the National Park! Both our driver and jeep driver at the park were very friendly and helpful. Would definitely recommend this trip to anyone! Especially if you want to see elephants!" },
+                { author: "Niall", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "Excellent tour to the safari park. We saw lots of elephants which was the highlight, and crocodiles, buffalo, deer, monkeys, peacocks, jungle fowl, eagles and lots of other birds. Our guide was great and really good at spotting things that we would have missed." },
+                { author: "Sandra", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "We had a great tour and can definitely recommend it! Our guide made a big effort and was able to show us many animals that we probably would have never spotted on our own. We also had a lot of fun the whole time. A really wonderful experience!" },
+                { author: "Elena", country: "Verified traveller review", rating: 5, date: "2025-12-15", text: "An amazing experience in Sri Lanka! The highlight was seeing many elephants up close, including families with small baby elephants- truly unforgettable. Our guide was friendly, professional, and very knowledgeable, which made the safari even more enjoyable. The comfortable safari jeeps offered great visibility and made it easy to take beautiful photos. A must-do experience for anyone visiting Sri Lanka and a paradise for elephant lovers!" },
+                { author: "Krzysztof", country: "Verified traveller review", rating: 5, date: "2025-12-12", text: "We seen a lot of animals and we had a great time with our guide. The transport was efficient, always on time. I really recomend this trip. It was even better than Yala Block 5&6 Safarii which we took 2 days later." },
+                { author: "Georgia", country: "Verified traveller review", rating: 5, date: "2025-12-06", text: "The day out was amazing. The driver at the safari was knowledgeable and told us lots about the animals we saw. We were able to see water buffalo’s, loads of elephants, crocodiles, monkeys, eagles, peacocks and chameleons. He was able to spot animals that we would definitely have missed if he hadn’t pointed them out. The driver who took us there and back from Mirissa was efficient and friendly." },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2025-12-03", text: "We had amazing views of the elephants after a very easy pick up! We would definitely recommend to anyone as the wildlife is all incredible" },
+            ],
+        };
+    }
+
+    if (slug === "ella-tea-factory-ravana-falls-and-sri-lankan-cooking-class-day-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 7, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Fabienne", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "Was really Great yes factory was for tourist Bit de rest was perfect" },
+                { author: "Lorraine", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "We had such an amazing time with Sam taking us around the various places. He was such a great guide - kind and knowledgeable - and we felt relaxed and safe as he took us around. There were so many highlights of the day but the cooking and lunch was probably our favourite part. Sam could not do enough for us and even acted as chief photographer for the day! This trip around the sights of Ella was great value for money and we highly recommend. Thank you Sam." },
+                { author: "Bianca", country: "Verified traveller review", rating: 5, date: "2026-03-05", text: "It was such a great tour, we can absolutely recommend it! We were even able to adjust our plans a bit: since we had already visited one waterfall, we went to another instead. We arrived early at the tea factory and were the first ones there — completely on our own, which made it really special. Afterwards, we hiked up Little Adam’s Peak and took some amazing photos. The cooking class was super delicious and the people were incredibly kind. To finish off, we got to see the famous bridge and watch a train pass by. Best of all: the tour was led by wonderful local who truly grew up here." },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "The tuk-tuk tour was amazing. The drivers were very kind and open, showed us around Ella, and shared a lot of interesting knowledge about the local history and culture. They took us to a tea factory and made the whole experience fun and authentic. Highly recommended!" },
+            ],
+        };
+    }
+
+    // --- SRI LANKA (2026-09, real reviews from the source listing) ---
+
+    if (slug === "ella-eight-sights-day-trip-with-the-demodara-loop-and-a-train-leg") {
+        return {
+            averageRating: 3.9, totalReviews: 8, guideRating: 3.9, valueRating: 3.9,
+            reviews: [
+                { author: "Ryan", country: "Verified traveller review", rating: 5, date: "2025-03-14", text: "We had a great day with our guide Nuwan, he was very knowledgeable and great fun too. He made short pit stops at different points to look at cool things like views and monkeys that weren’t included in the itinerary . Would highly recommend if you want to see all of Ella’s attractions in a short time." },
+                { author: "Dina", country: "Verified traveller review", rating: 5, date: "2024-12-02", text: "I had the most amazing day in Ella. Nuwan was the best guide I’ve ever had in all my travels. He let me customise my day since it was just him & I on the scooter. I got to see so much of Ella. He was very conversational and really kind and I would highly recommend this experience to anyone, but especially solo travelers!!" },
+            ],
+        };
+    }
+
     return null;
 };
