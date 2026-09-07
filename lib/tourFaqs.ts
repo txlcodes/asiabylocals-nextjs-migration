@@ -8566,7 +8566,7 @@ if (slug === "hong-island-boat-tour") {
     return [
       { question: "How long does this tour take?", answer: "It runs 1 day." },
       { question: "Where does it start?", answer: "In front of the Mitsubishi Building, 2-5 Marunouchi, Chiyoda City, Tokyo 100-0005. You can also board directly at any stop on the routes." },
-      { question: "What is included?", answer: "Unlimited travel on all three Sky Hop Bus routes; On-board audio guide in Japanese, English, Korean, Chinese, French, German and Spanish (not available on a small number of buses); Free shuttle service." },
+      { question: "What is included?", answer: "Unlimited travel on all three open-top routes; On-board audio guide in Japanese, English, Korean, Chinese, French, German and Spanish (not available on a small number of buses); Free shuttle service." },
     ];
   }
 
@@ -8605,7 +8605,7 @@ if (slug === "hong-island-boat-tour") {
       { question: "How long does this tour take?", answer: "It runs 1.5 hours." },
       { question: "How big is the group?", answer: "Up to 45 people." },
       { question: "Where does it start?", answer: "1-7-7 Kabukicho, Shinjuku City, Tokyo 160-0021 — reception is inside the entrance, a few minutes from Shinjuku Station's east exit." },
-      { question: "What is included?", answer: "Samurai Restaurant show ticket; Two drinks of your choice, alcoholic or non-alcoholic." },
+      { question: "What is included?", answer: "samurai show ticket; Two drinks of your choice, alcoholic or non-alcoholic." },
       { question: "Is this a traditional cultural show?", answer: "No, and it does not claim to be. It is a modern Kabukicho spectacle — drumming, dancers, lasers and machinery. Go for the show, not for cultural authenticity." },
     ];
   }
