@@ -338,6 +338,7 @@ const OSAKA_SIDEBAR = [
     { name: 'Kuromon Market', slug: 'kuromon-market-guide' },
     { name: 'Osaka with Kids', slug: 'osaka-with-kids' },
     { name: 'Where to Stay in Osaka', slug: 'where-to-stay-in-osaka' },
+    { name: 'Day Trips from Osaka', slug: 'osaka-day-trips' },
 ];
 
 const HIROSHIMA_SIDEBAR = [

@@ -334,7 +334,8 @@ export const OSAKA_INFO_SLUGS = [
 ,
   'kuromon-market-guide',
   'osaka-with-kids',
-  'where-to-stay-in-osaka'];
+  'where-to-stay-in-osaka',
+  'osaka-day-trips'];
 
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',

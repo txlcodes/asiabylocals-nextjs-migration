@@ -32,6 +32,16 @@ const TOUR_CARD_URANAMBA = {
     image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732777/asiabylocals/tours/osaka-dotonbori-ura-namba-izakaya-bar-crawl/img0.jpg',
 };
 
+
+const TOUR_CARD_AMANOHASHIDATE = {
+    slug: 'amanohashidate-ine-funaya-day-tour-from-osaka-kyoto',
+    title: "Amanohashidate and the Ine Boathouses",
+    description: "One of Japan's three classic views, and a village where the houses stand in the water.",
+    price: 'From $62',
+    duration: '10 hours',
+    image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788733855/asiabylocals/tours/amanohashidate-ine-funaya-day-tour-from-osaka-kyoto/img0.jpg',
+};
+
 export function getOsakaInfoContent(slug: string): CityInfoData | null {
     switch (slug) {
         case 'best-time-to-visit-osaka':
@@ -1385,6 +1395,69 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
           ],
         },
         heroImage: TOUR_CARD_URANAMBA.image,
+      };
+    case "osaka-day-trips":
+      return {
+        title: "Day Trips from Osaka: Everything Within Two Hours, Ranked by Whether It Is Worth It",
+        seoTitle: "Best Day Trips from Osaka (2026)",
+        description: "Osaka is the best day-trip base in Japan and most visitors use it for two destinations. Here are the other eight, with honest travel times.",
+        fastFacts: [
+          { icon: "Train", label: "Within 45 minutes", value: "Kyoto, Nara, Kobe" },
+          { icon: "Train", label: "Within 2 hours", value: "Himeji, Koyasan, Hiroshima" },
+          { icon: "Star", label: "Most underrated", value: "Koyasan and Miyama" },
+          { icon: "Wallet", label: "Cheapest full day out", value: "Amanohashidate, from about $62" },
+        ],
+        sections: [
+          {
+            title: "Why Osaka Is the Best Base in Japan",
+            icon: "Star",
+            content: "Osaka sits at the centre of the Kansai rail network, and almost nothing else in Japan is as well placed. Kyoto is fifteen to thirty minutes away, Nara thirty-five to forty-five, Kobe twenty, and Himeji, Koyasan and even Hiroshima are all inside a comfortable day. Hotels are cheaper and larger than Kyoto's — see our [accommodation guide](/japan/osaka/where-to-stay-in-osaka).\n\nThe result is that Osaka rewards a longer stay than its own sights justify. Four nights here with three day trips beats splitting the same nights across three cities and spending half of them moving luggage.\n\n**The two everyone does** are Kyoto and Nara, and both are covered in their own guides — [Osaka to Kyoto](/japan/osaka/osaka-to-kyoto-day-trip) and [Osaka to Nara](/japan/osaka/osaka-to-nara-day-trip).\n\n**The eight below are the rest**, in rough order of how strongly we would recommend them to someone who has already done those two.",
+            tourCard: TOUR_CARD_AMANOHASHIDATE,
+          },
+          {
+            title: "The Strong Ones",
+            icon: "MapPin",
+            content: "**Koyasan (Mount Koya)** — about two hours by Nankai train and cable car. A monastic settlement founded in 816 at 800 metres, with over a hundred temples and Okunoin, a cemetery of some 200,000 graves under thousand-year-old cedars. It is the most atmospheric place in Kansai and almost nobody day-trips it because the train looks long on a map. If you can stay a night in a temple lodging, do; if not, go anyway.\n\n**Himeji** — about an hour by Shinkansen. The finest surviving castle in Japan, and unlike most Japanese castles it is original rather than a concrete reconstruction. It is white, enormous and visibly a fortress. Half a day, easily combined with Kobe.\n\n**Kobe** — twenty minutes. A port city with a Western-influenced hillside district, a working harbour, a ropeway and the best beef in Japan. It feels different from anywhere else in Kansai, which is the reason to go.\n\n**Amanohashidate and Ine** — a coach day north to the Sea of Japan. A pine-covered sandbar that is one of Japan's three classic views, and a fishing village where the houses stand in the water. [Our day trip](/japan/nara/amanohashidate-ine-funaya-day-tour-from-osaka-kyoto) runs from Nipponbashi from about sixty-two dollars, which is remarkable value for a ten-hour day.",
+          },
+          {
+            title: "The Interesting Ones",
+            icon: "Info",
+            content: "**Miyama** — a village of around forty thatched kayabuki farmhouses in the mountains of northern Kyoto prefecture, still lived in and still re-thatched by people who know how. Genuinely difficult to reach independently. [Our coach day](/japan/osaka/miyama-thatched-village-katsuoji-arashiyama-day-tour) pairs it with Katsuo-ji, a temple covered in tens of thousands of daruma dolls, and Arashiyama.\n\n**Hiroshima and Miyajima** — ninety minutes each way by Shinkansen, which makes it a long but entirely feasible day. The Peace Memorial Park and the floating torii in one go. Most people do it as an overnight; a guided day with the train included removes the planning.\n\n**Kii Peninsula and Nachi Falls** — Japan's tallest single-drop waterfall with a pagoda beside it, on the Kumano Kodo pilgrimage routes. Long day or an overnight.\n\n**Lake Biwa and the Miho Museum** — Japan's largest lake and an I. M. Pei museum built four-fifths underground in the mountains, reached through a tunnel. [The day trip](/japan/kyoto/miho-museum-shirahige-shrine-shiga-day-tour) also takes in Shirahige Shrine's torii standing in the lake. Check the museum's closure calendar first; it shuts for long stretches.\n\n**Uji** — twenty minutes on the way to Nara. Byodo-in's Phoenix Hall and the town that invented matcha. Better as a stop than a destination; see the [Uji tea guide](/japan/kyoto/uji-tea-guide).",
+          },
+          {
+            title: "How to Choose",
+            icon: "Calendar",
+            content: "**If you have one spare day:** Koyasan, if you want something unlike anywhere else you will go in Japan. Himeji plus Kobe, if you want a straightforward good day.\n\n**Two spare days:** Koyasan and Himeji/Kobe.\n\n**Three:** add Amanohashidate or Miyama — both are landscapes rather than monuments, which is a useful change of register after a week of temples.\n\n**Do not** attempt Hiroshima and something else on the same day, and do not attempt Koyasan as a half-day. Both are longer than the map suggests.\n\n**A note on trains versus coaches.** For Kyoto, Nara, Kobe and Himeji, trains are faster and more flexible and you should just go. For Amanohashidate, Miyama, Koyasan's outer temples and the Shiga sites, public transport is genuinely awkward — infrequent buses and long connections — and a coach day costs less than assembling it yourself.\n\n**Rail passes.** The regional Kansai passes cover the JR routes to Kyoto, Nara, Kobe and Himeji, but not the Nankai line to Koyasan or the private lines to the north coast. Work out your actual route before buying one.",
+          },
+          {
+            title: "Realistic Travel Times",
+            icon: "Train",
+            content: "From central Osaka, one way, on ordinary services:\n\n| Destination | Time | Notes |\n|---|---|---|\n| Kobe | ~20 min | Multiple lines, very frequent |\n| Kyoto | 15-30 min | Depends on line and station |\n| Nara | 35-45 min | Kintetsu is closer to the park than JR |\n| Uji | ~40 min | On the way to Nara |\n| Himeji | ~1 hour | Shinkansen; slower on local lines |\n| Koyasan | ~2 hours | Nankai train plus cable car plus bus |\n| Hiroshima | ~1.5 hours | Shinkansen |\n| Amanohashidate | ~2.5 hours | Coach; awkward by train |\n| Miyama | ~2 hours | Effectively coach-only |\n| Nachi Falls | ~4 hours | Better as an overnight |\n\nAdd the return leg and be honest about what that leaves. A two-hour destination means four hours of travel and about six hours on the ground — enough for one place, not two.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best day trip from Osaka?", a: "**Koyasan** if you want something unlike anywhere else in Japan — a mountain monastic settlement founded in 816 with a cemetery of 200,000 graves under ancient cedars. **Himeji and Kobe** together for a more straightforward good day." },
+          { q: "Is Osaka a good base for Kansai?", a: "The best one. Kyoto is 15 to 30 minutes, Nara 35 to 45, Kobe 20, and Himeji, Koyasan and Hiroshima are all inside a day. Hotels are cheaper and larger than Kyoto's." },
+          { q: "Can I do Hiroshima as a day trip from Osaka?", a: "Yes — about ninety minutes each way by Shinkansen. It is a long day and you should not try to add anything else to it." },
+          { q: "When should I take a coach rather than the train?", a: "For **Amanohashidate, Miyama and the Shiga sites**, where public transport is infrequent and connections are awkward. For Kyoto, Nara, Kobe and Himeji, just take the train." },
+          { q: "Is Himeji Castle worth the trip?", a: "Yes. It is the finest surviving castle in Japan and, unlike most, it is original rather than a concrete reconstruction. About an hour each way and easily combined with Kobe." },
+          { q: "How long does Koyasan take?", a: "About two hours each way by Nankai train, cable car and bus. Treat it as a full day, not a half day — and stay overnight in a temple lodging if you can." },
+          { q: "Do rail passes cover these?", a: "The regional Kansai passes cover the JR routes to Kyoto, Nara, Kobe and Himeji, but **not the Nankai line to Koyasan** or the private lines north. Work out your route before buying." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "What is the best day trip from Osaka?", acceptedAnswer: { "@type": "Answer", text: "**Koyasan** if you want something unlike anywhere else in Japan — a mountain monastic settlement founded in 816 with a cemetery of 200,000 graves under ancient cedars. **Himeji and Kobe** together for a more straightforward good day." } },
+            { "@type": "Question", name: "Is Osaka a good base for Kansai?", acceptedAnswer: { "@type": "Answer", text: "The best one. Kyoto is 15 to 30 minutes, Nara 35 to 45, Kobe 20, and Himeji, Koyasan and Hiroshima are all inside a day. Hotels are cheaper and larger than Kyoto's." } },
+            { "@type": "Question", name: "Can I do Hiroshima as a day trip from Osaka?", acceptedAnswer: { "@type": "Answer", text: "Yes — about ninety minutes each way by Shinkansen. It is a long day and you should not try to add anything else to it." } },
+            { "@type": "Question", name: "When should I take a coach rather than the train?", acceptedAnswer: { "@type": "Answer", text: "For **Amanohashidate, Miyama and the Shiga sites**, where public transport is infrequent and connections are awkward. For Kyoto, Nara, Kobe and Himeji, just take the train." } },
+            { "@type": "Question", name: "Is Himeji Castle worth the trip?", acceptedAnswer: { "@type": "Answer", text: "Yes. It is the finest surviving castle in Japan and, unlike most, it is original rather than a concrete reconstruction. About an hour each way and easily combined with Kobe." } },
+            { "@type": "Question", name: "How long does Koyasan take?", acceptedAnswer: { "@type": "Answer", text: "About two hours each way by Nankai train, cable car and bus. Treat it as a full day, not a half day — and stay overnight in a temple lodging if you can." } },
+            { "@type": "Question", name: "Do rail passes cover these?", acceptedAnswer: { "@type": "Answer", text: "The regional Kansai passes cover the JR routes to Kyoto, Nara, Kobe and Himeji, but **not the Nankai line to Koyasan** or the private lines north. Work out your route before buying." } },
+          ],
+        },
+        heroImage: TOUR_CARD_AMANOHASHIDATE.image,
       };
     default:
             return null;

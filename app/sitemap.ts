@@ -182,7 +182,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'osaka-nightlife-guide',
     'kuromon-market-guide',
     'osaka-with-kids',
-    'where-to-stay-in-osaka'].map(slug => ({
+    'where-to-stay-in-osaka',
+    'osaka-day-trips'].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
