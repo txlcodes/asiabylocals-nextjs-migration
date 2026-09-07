@@ -286,6 +286,8 @@ const ELLA_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-ella' },
     { name: 'Ella 2-Day Itinerary', slug: 'ella-2-day-itinerary' },
     { name: 'Yala vs Udawalawe Safari', slug: 'yala-vs-udawalawe-from-ella' },
+    { name: "Lipton's Seat & Tea Country", slug: 'liptons-seat-and-ella-tea-country' },
+    { name: 'Waterfalls & Day Tours', slug: 'ella-waterfalls-and-day-tours' },
 ];
 
 const GALLE_SIDEBAR = [
