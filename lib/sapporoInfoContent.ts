@@ -975,6 +975,69 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: S_ASAHI.image,
       };
+    case "sapporo-with-kids":
+      return {
+        title: "Sapporo with Kids: Snow, Animals and the Practical Winter Problem",
+        seoTitle: "Sapporo with Kids (2026 Guide)",
+        description: "Hokkaido is the best part of Japan to bring children to in winter and the least demanding in summer. What to do, and what winter actually requires.",
+        fastFacts: [
+          { icon: "Star", label: "Best single day out", value: "Asahiyama Zoo" },
+          { icon: "AlertTriangle", label: "Winter footwear", value: "Grips are essential, not optional" },
+          { icon: "Clock", label: "Realistic pace", value: "One day trip, then a city day" },
+          { icon: "Train", label: "Getting around", value: "Subway and underground passages" },
+        ],
+        sections: [
+          {
+            title: "Why Hokkaido Works With Children",
+            icon: "Star",
+            content: "Sapporo is the easiest major Japanese city to travel in with children, for reasons that have little to do with what is on the tourist map.\n\n**It is spacious.** Hokkaido was settled late and planned on a grid with wide streets, and the crowding that makes Kyoto and Tokyo hard work with a stroller mostly does not exist here.\n\n**The attractions are things rather than places.** Children who have run out of patience for temples get a zoo, a chocolate factory, a beer museum, snow, and animals. Nobody has to be quiet.\n\n**Food is uncomplicated.** Miso ramen, soup curry, corn, potatoes, dairy and enormous quantities of seafood — Hokkaido's cooking is closer to comfort food than anywhere else in Japan, and fussy eaters do well.\n\n**And the weather is a feature.** For children who have never seen deep snow, a Hokkaido winter is the trip. Five metres of snowfall a season is not a figure most families will have experienced.\n\nThe qualifier is the same one that applies to adults, only more so: **winter here requires equipment and planning**, and a family that turns up in city coats and trainers will have a miserable time. That is covered below.",
+            tourCard: S_ASAHI,
+          },
+          {
+            title: "Asahiyama Zoo, and Why It Is Different",
+            icon: "Users",
+            content: "If you do one thing with children in Hokkaido, do this.\n\nAsahiyama, near Asahikawa about two hours from Sapporo, rebuilt itself in the 1990s around a simple idea: instead of showing animals standing still, show them doing what they do. The penguins have an underwater tunnel you stand inside while they swim overhead. The polar bears have a capsule you put your head into, at their eye level. The seals have a vertical glass column they shoot up and down.\n\nIt changed how Japanese zoos are designed and it is a genuinely good hour or three regardless of your view of zoos.\n\n**The penguin walk** is the winter draw — the birds are walked around the grounds in a line for exercise when snow depth allows. It runs only in winter, only in suitable conditions, and it is cancelled when it is not. Check the zoo's current announcements rather than planning a day around it.\n\nOur [Hokkaido day trip](/japan/sapporo/sapporo-asahikawa-group-tour) covers the zoo along with the Blue Pond at Biei and Shirahige Falls, which is the efficient way to do it — the zoo alone is four hours of travel for a two-hour visit.\n\nSee also the [Asahiyama Zoo guide](/japan/sapporo/asahiyama-zoo-guide) for what to expect on the day.",
+          },
+          {
+            title: "In the City",
+            icon: "MapPin",
+            content: "**Odori Park** runs through the middle of the city and is the default place to let children out. In February it holds the Snow Festival's main site; in summer it has fountains and food stalls.\n\n**The Sapporo Beer Museum and the chocolate factory** are the two industrial visits that work with children — the chocolate factory in particular is built as an attraction rather than a tour, with a model railway and a clock that performs. See the [factories guide](/japan/sapporo/sapporo-beer-chocolate-factories).\n\n**Moerenuma Park**, on the edge of the city, was designed by Isamu Noguchi as a single large sculpture — a glass pyramid, a man-made hill, fountains and play structures. In summer it is the best afternoon in Sapporo with children and almost nobody visits.\n\n**Hokkaido Jingu and Maruyama Park** in the west, with a small zoo attached.\n\n**Craft sessions.** The [kumiko woodworking workshop](/japan/sapporo/sapporo-kumiko-woodworking-workshop) caps at four and produces a wooden coaster in ninety minutes — the right length for children who need something with their hands. The [kimono and matcha session](/japan/sapporo/sapporo-kimono-dressing-and-matcha-tea-ceremony) is the calmer alternative.\n\n**Nijo Market** for a seafood breakfast, which children either love or find very funny.",
+          },
+          {
+            title: "Winter: What It Actually Requires",
+            icon: "AlertTriangle",
+            content: "This is the part that separates a good Hokkaido winter trip from a bad one, and it is mostly about feet.\n\n**Grips are essential.** Sapporo's pavements are compacted ice for months. Boots with a real tread, or the rubber snow-grip covers sold in every convenience store and pharmacy in the city, prevent the injury visitors most often sustain here. Buy them on arrival if you did not bring boots — they cost very little.\n\n**Layers, not one big coat.** Buildings, trains and the underground passages are heated hard. A family in full winter kit indoors is an unhappy family.\n\n**Use the underground.** The Chi-Ka-Ho passage runs about 500 metres between Sapporo Station and Odori with shops the whole way. In winter it is the main route, not a shortcut, and it makes a stroller viable.\n\n**Snow play is easy to find.** You do not need a resort — the parks fill with sledging within an hour of a snowfall, and sleds are sold everywhere.\n\n**Skiing.** If a ski day is the point, Sapporo Teine is within the city and there are family programmes; Niseko and Rusutsu are better but a two-hour round trip. Staying at the resort beats commuting with children.\n\n**Daylight is short.** In December it is dark by four, which shortens what you manage outdoors and argues for indoor plans in the afternoon.",
+          },
+          {
+            title: "A Shape That Works",
+            icon: "Calendar",
+            content: "**Three or four nights is the right length**, with one long day trip and the rest at a city pace.\n\n**Day 1 — City, gently.** Odori Park, the TV Tower if the weather is clear, and the chocolate factory in the afternoon. Ramen for dinner in Susukino, which children enjoy for the theatre of it as much as the food.\n\n**Day 2 — The big day out.** [Asahiyama Zoo with Biei's Blue Pond](/japan/sapporo/sapporo-asahikawa-group-tour), or in summer the [Biei and Furano flower fields](/japan/sapporo/sapporo-biei-furano-summer-day-trip-blue-pond). Both are long coach days; brief children accordingly.\n\n**Day 3 — Otaru or snow.** Otaru is forty minutes away, a canal town with glassworks and music boxes, and it is a good half-day. In deep winter, swap it for a snow day.\n\n**Day 4 — Slow.** A workshop, Moerenuma Park in summer, or Nijo Market and the underground shopping.\n\nAvoid stacking two long coach days back to back. Hokkaido's distances are real, and a ten-hour day out is a genuine ask for anyone under ten.",
+          },
+        ],
+        faqs: [
+          { q: "Is Sapporo good for children?", a: "It is the easiest major Japanese city to travel in with them — spacious, planned on a grid, uncrowded by Japanese standards, with attractions that are things to do rather than places to look at quietly." },
+          { q: "What is the best thing to do with kids in Hokkaido?", a: "**Asahiyama Zoo**, about two hours from Sapporo. It is designed around showing animals in motion — an underwater penguin tunnel, a polar bear capsule at eye level — and it changed how Japanese zoos are built." },
+          { q: "Does the penguin walk always run?", a: "No. It runs **only in winter and only when snow depth allows**, and it is cancelled in unsuitable conditions. Check the zoo's current announcements rather than planning a day around it." },
+          { q: "What do we need for a Hokkaido winter with children?", a: "**Footwear grips above everything** — pavements are compacted ice for months, and the covers sold in every convenience store cost very little. Then layers rather than one heavy coat, because buildings are heated hard." },
+          { q: "How many nights should we stay?", a: "**Three or four**, with one long day trip and the rest at a city pace. Avoid two long coach days back to back — Hokkaido's distances are real." },
+          { q: "Should we ski from Sapporo?", a: "Sapporo Teine is inside the city and has family programmes. Niseko and Rusutsu are better but a two-hour round trip daily — stay at the resort if skiing is the point." },
+          { q: "Is the food easy with children?", a: "Yes. Miso ramen, soup curry, corn, potatoes, dairy and seafood — Hokkaido's cooking is closer to comfort food than anywhere else in Japan." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "Is Sapporo good for children?", acceptedAnswer: { "@type": "Answer", text: "It is the easiest major Japanese city to travel in with them — spacious, planned on a grid, uncrowded by Japanese standards, with attractions that are things to do rather than places to look at quietly." } },
+            { "@type": "Question", name: "What is the best thing to do with kids in Hokkaido?", acceptedAnswer: { "@type": "Answer", text: "**Asahiyama Zoo**, about two hours from Sapporo. It is designed around showing animals in motion — an underwater penguin tunnel, a polar bear capsule at eye level — and it changed how Japanese zoos are built." } },
+            { "@type": "Question", name: "Does the penguin walk always run?", acceptedAnswer: { "@type": "Answer", text: "No. It runs **only in winter and only when snow depth allows**, and it is cancelled in unsuitable conditions. Check the zoo's current announcements rather than planning a day around it." } },
+            { "@type": "Question", name: "What do we need for a Hokkaido winter with children?", acceptedAnswer: { "@type": "Answer", text: "**Footwear grips above everything** — pavements are compacted ice for months, and the covers sold in every convenience store cost very little. Then layers rather than one heavy coat, because buildings are heated hard." } },
+            { "@type": "Question", name: "How many nights should we stay?", acceptedAnswer: { "@type": "Answer", text: "**Three or four**, with one long day trip and the rest at a city pace. Avoid two long coach days back to back — Hokkaido's distances are real." } },
+            { "@type": "Question", name: "Should we ski from Sapporo?", acceptedAnswer: { "@type": "Answer", text: "Sapporo Teine is inside the city and has family programmes. Niseko and Rusutsu are better but a two-hour round trip daily — stay at the resort if skiing is the point." } },
+            { "@type": "Question", name: "Is the food easy with children?", acceptedAnswer: { "@type": "Answer", text: "Yes. Miso ramen, soup curry, corn, potatoes, dairy and seafood — Hokkaido's cooking is closer to comfort food than anywhere else in Japan." } },
+          ],
+        },
+        heroImage: S_ASAHI.image,
+      };
     default:
             return null;
     }

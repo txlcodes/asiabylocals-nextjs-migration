@@ -210,7 +210,8 @@ export const SAPPORO_INFO_SLUGS = [
   'asahiyama-zoo-guide',
   'sapporo-beer-chocolate-factories',
   'lake-toya-shikotsu-guide',
-  'where-to-stay-in-sapporo'];
+  'where-to-stay-in-sapporo',
+  'sapporo-with-kids'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [

@@ -210,7 +210,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'sapporo-food-guide', 'otaru-day-trip-from-sapporo', 'niseko-and-hokkaido-ski-guide',
     'sapporo-3-day-itinerary',
     'furano-biei-guide', 'noboribetsu-onsen-guide', 'asahiyama-zoo-guide', 'sapporo-beer-chocolate-factories', 'lake-toya-shikotsu-guide',
-    'where-to-stay-in-sapporo'].map(slug => ({
+    'where-to-stay-in-sapporo',
+    'sapporo-with-kids'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
