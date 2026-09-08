@@ -3060,6 +3060,17 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                                 {/* Review text */}
                                 <p className="text-[15px] text-gray-700 font-medium leading-relaxed">{review.text}</p>
+
+                                {/* Review photos — same treatment as the guest-submitted reviews above */}
+                                {review.photos && review.photos.length > 0 && (
+                                  <div className="flex flex-wrap gap-2 mt-3">
+                                    {review.photos.map((photo: string, photoIdx: number) => (
+                                      <a key={photoIdx} href={photo} target="_blank" rel="noopener noreferrer" className="block w-20 h-20 rounded-lg overflow-hidden border border-gray-200 hover:opacity-80 transition-opacity">
+                                        <img src={photo} alt={`Review photo ${photoIdx + 1}`} className="w-full h-full object-cover" />
+                                      </a>
+                                    ))}
+                                  </div>
+                                )}
                               </div>
                           ))}
                         </div>
