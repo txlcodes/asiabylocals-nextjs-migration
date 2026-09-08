@@ -272,6 +272,25 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
+
+  const dubaiInfoPages = [
+    'burj-khalifa-tickets-guide', 'dubai-desert-safari-guide', 'best-time-to-visit-dubai', 'getting-around-dubai', 'old-dubai-and-the-souks-guide', 'dubai-2-day-itinerary', 'dubai-with-kids-guide', 'dubai-marina-and-the-palm-guide'
+  ].map(slug => ({
+    url: `${BASE_URL}/uae/dubai/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  const abuDhabiInfoPages = [
+    'sheikh-zayed-grand-mosque-guide', 'louvre-abu-dhabi-guide', 'qasr-al-watan-guide', 'yas-island-parks-guide', 'abu-dhabi-day-trip-from-dubai', 'best-time-to-visit-abu-dhabi', 'abu-dhabi-desert-safari-guide', 'abu-dhabi-city-guide'
+  ].map(slug => ({
+    url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
   const galleInfoPages = [
     'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary'
   ].map(slug => ({
@@ -407,7 +426,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages,
+    ...abuDhabiInfoPages,
+    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
 
   // Drop any URL whose last segment is a slug we 308 away from. Six of these
   // were being submitted — /india/agra/agra-gatimaan-entry-ticket and friends —

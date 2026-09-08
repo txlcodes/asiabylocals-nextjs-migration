@@ -14069,5 +14069,458 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    // --- UAE (2026-09-08, real reviews with guest photos rehosted on our CDN) ---
+
+    if (slug === "abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Pablo", country: "Brazil", rating: 5, date: "2026-07-23", text: "Nawaz Niaz Ahmed was an outstanding guide! He made the entire desert safari experience incredibly fun, exciting, and enjoyable from start to finish. His energy, professionalism, and friendly attitude made the trip even more memorable. The desert safari was fantastic, with amazing activities and breathtaking scenery. Everything was well organized, and we felt safe and well taken care of throughout the tour. I highly recommend this experience, especially with Nawaz as your guide. Thank you for an unforgettable day!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884504/asiabylocals/reviews/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884505/asiabylocals/reviews/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner/r0_1.jpg"] },
+                { author: "Albert", country: "Netherlands", rating: 5, date: "2026-06-05", text: "Aamir is an excellent guy and a super driver. That’s was the best sand dunes driving in my life! Surging down the dune was also very fun! As well as seeing many different camels. Unfortunately the bbq was canceled due to some regulations, but we also got some money back. In any case, that was a very pleasant desert visit!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884507/asiabylocals/reviews/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner/r1_0.jpg"] },
+                { author: "Troy", country: "United Arab Emirates", rating: 5, date: "2026-05-31", text: "Malik was a great guide, aswell as the awesome dune bashing he took us camel riding, dune bugging and sandboarding. We had a great time", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884509/asiabylocals/reviews/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884511/asiabylocals/reviews/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-dune-bashing-safari-with-camel-farm-visit") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Gianina Adriana", country: "United Kingdom", rating: 5, date: "2026-02-07", text: "We have a wonderful experience, we recommend that trip to everyone", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884642/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884643/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r0_1.jpg"] },
+                { author: "Kishore", country: "Germany", rating: 5, date: "2026-02-02", text: "The activity was excellent. I really thank the team and guide for such amazing performance.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884645/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884646/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r1_1.jpg"] },
+                { author: "Mandy", country: "South Africa", rating: 5, date: "2026-01-04", text: "Brilliant experience! Highly recommend! And our guide was absolutely amazing!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884647/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884649/asiabylocals/reviews/abu-dhabi-dune-bashing-safari-with-camel-farm-visit/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-electric-catamaran-ride-at-the-louvre") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Sarah", country: "United Kingdom", rating: 5, date: "2025-12-13", text: "If you do one thing at the Louvre in AbuDhabi do this !! Eeek its so cute and the refreshing breeze and calm vibe is essential, easy to board these electric catamarans , very stable and easy to steer so dont worry if you arent a yachtmaster ;) im a woman in her 50’s and if i can do it anyone can . The staff were so lovely .. do 30 minutes its worth the extra (i did 15 minutes thinking id get bored but id happily have floated about on the waters surrounding the Louvre)", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884654/asiabylocals/reviews/abu-dhabi-electric-catamaran-ride-at-the-louvre/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884656/asiabylocals/reviews/abu-dhabi-electric-catamaran-ride-at-the-louvre/r0_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Angela", country: "United States", rating: 5, date: "2026-09-07", text: "Our guide Nasser was awesome! From beginning to end he gave us the history of Abu Dhabi, the buildings and the wonderful founder. I was really impressed by the architecture and opulence of Abu Dhabi. At the Presidential Palace we were fortunate to see the Presidential Band. They were wonderful. Nasser told us what to expect every step of the way. 10 out of 10 recommend.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884463/asiabylocals/reviews/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884464/asiabylocals/reviews/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche/r0_1.jpg"] },
+                { author: "Luke", country: "United Kingdom", rating: 5, date: "2026-09-06", text: "This is a must buy to see the best bit at Abu Dhabi, Book: Walid - OceanAir Travels & he will save you time & get you the best photo shots - Luke & Melany", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884465/asiabylocals/reviews/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche/r1_0.jpg"] },
+                { author: "Mariana", country: "Portugal", rating: 5, date: "2026-09-06", text: "I had an amazing experience on this trip. Everything was amazing! From pick-up to drop-off, they were very punctual and respectful. We went to the Musk, the Royal Palace, lunch and then to the top of the tower and to the entrance of the Louvre. I could never do so many places in one day. We had time for everything and they gave us our space, it was great! Shout out to our guide Ziad who wqs AMAZING!!! He gave us a lot of information about everything, great history leassons. I think this experience is really worth it if you want to get the best of your day in Abu Dhabi 😍", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884466/asiabylocals/reviews/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884467/asiabylocals/reviews/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Michal", country: "Poland", rating: 5, date: "2025-12-29", text: "It was the outstanding excursion. I highly recommend to everyone. Our guide Manjinder was very nice and gave us a lot of interesting information. He is very nice person and created easy going atmosphere perfect for the excursion.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884635/asiabylocals/reviews/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884636/asiabylocals/reviews/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour/r0_1.jpg"] },
+                { author: "Terrie L", country: "United States", rating: 5, date: "2025-10-24", text: "Zain was very nice and informative. Zeim is an awesome tour guide and my husband and I really enjoyed him.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884637/asiabylocals/reviews/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour/r1_0.jpg"] },
+                { author: "Radu", country: "Romania", rating: 5, date: "2024-05-08", text: "All the objectives visited are of unimaginable grandeur. The architecture, the materials used, the impeccable cleanliness, the grandeur. An excursion that is mandatory for any tourist visiting Abu Dhabi.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884639/asiabylocals/reviews/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884641/asiabylocals/reviews/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Christine joy", country: "Israel", rating: 5, date: "2026-09-02", text: "The tour is verry nice and the places included in the tour. Dago the tour guide ia verry polite and he explain everything and clearly.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884480/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884482/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r0_1.jpg"] },
+                { author: "Sharmila", country: "United Kingdom", rating: 5, date: "2026-09-02", text: "out tour guide Dago was excellent and amazing. Information given regarding the tours was very educational and superb. Tgank you so much Dago", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884484/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884486/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r1_1.jpg"] },
+                { author: "Andrea", country: "Ireland", rating: 5, date: "2026-08-28", text: "I really enjoyed this tour! It was my first time in Abu Dhabi and Ismail was a great guide. He was very friendly, punctual, and explained everything really well. I learned a lot and had a wonderful time exploring the city. I definitely recommend this tour, especially for anyone visiting Abu Dhabi for the first time!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884487/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884489/asiabylocals/reviews/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-guided-kayak-tour-around-the-louvre") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Hewy", country: "Netherlands", rating: 5, date: "2026-01-31", text: "It was great to see the Louvre from the water. It provides a completely different perspective, very unique. Make sure to bring a change of clothes, you will be wet as some water runs through the seat. We were guided by Shakil and Waseem. Both seem very professional and well aware of the museum and the construction of it.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884695/asiabylocals/reviews/abu-dhabi-guided-kayak-tour-around-the-louvre/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884697/asiabylocals/reviews/abu-dhabi-guided-kayak-tour-around-the-louvre/r0_1.jpg"] },
+                { author: "Mairin", country: "Ireland", rating: 5, date: "2025-12-10", text: "Really relaxing and unique experience! I did the 7:30 am tour so the whole area was really quiet but cool to get up close into the Lourve and also to enjoy the sunrise! Would recommend!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884698/asiabylocals/reviews/abu-dhabi-guided-kayak-tour-around-the-louvre/r1_0.jpg"] },
+                { author: "Aurore", country: "United Kingdom", rating: 5, date: "2025-04-14", text: "Super nice tour on my own with the guide across the museum. Super quite and peaceful. What a view!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884701/asiabylocals/reviews/abu-dhabi-guided-kayak-tour-around-the-louvre/r2_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Villavarajah", country: "United Kingdom", rating: 5, date: "2026-05-05", text: "Desert Rose Tours provided an outstanding experience from start to finish. Our guide, Ronnie, ensured that every aspect of the tour was exceptionally well‐organised and comfortable. He guided us around Abu Dhabi with impressive knowledge of the city’s history, culture, and key landmarks, making each stop both informative and engaging. Throughout the day, he took remarkable care of us, paying attention to every detail and ensuring we were comfortable at all times. His professionalism, patience, and warm approach truly elevated the experience. We are extremely pleased with the service and would highly recommend Desert Rose Tours to anyone visiting Abu Dhabi and ask Ronnie.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884547/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884548/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r0_1.jpg"] },
+                { author: "Vanessa", country: "Germany", rating: 5, date: "2026-02-17", text: "We had an amazing tour with our tour guide ronny. I would suggest the tour to everyone who wants to have an unique and funny experience in Abu Dhabi.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884549/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884550/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r1_1.jpg"] },
+                { author: "Jovana", country: "Serbia", rating: 5, date: "2026-01-26", text: "Excellent tour that covered all the key highlights of Abu Dhabi. The guide provided clear explanations with a great overview of the city’s history and culture. Comfortable car drive passing all major attractions, with enough time to fully enjoy the Dates Market, Sheikh Zayed Grand Mosque, and the Heritage Village. A really enjoyable experience — highly recommended, especially our Indian tour guide who was knowledgeable, friendly, and professional.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884552/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884554/asiabylocals/reviews/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "YiChi", country: "Taiwan", rating: 5, date: "2026-02-11", text: "Nassar provided a lot of helpful information, and the pickup was very smooth. Highly recommended.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884589/asiabylocals/reviews/abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup/r0_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "abu-dhabi-reem-central-park-guided-kayak-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Philip", country: "United Arab Emirates", rating: 5, date: "2026-05-30", text: "Very nice. Not too long, not too short. Lovely views of reem island.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884658/asiabylocals/reviews/abu-dhabi-reem-central-park-guided-kayak-tour/r0_0.jpg"] },
+                { author: "Sophia", country: "United Kingdom", rating: 5, date: "2026-01-27", text: "This was a great trip! It’s a beautiful place, one minute you are in the city with sky scrapers and the next you are in the mangrove’s kayaking in pure peace and quiet. Would recommend without a doubt.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884660/asiabylocals/reviews/abu-dhabi-reem-central-park-guided-kayak-tour/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884661/asiabylocals/reviews/abu-dhabi-reem-central-park-guided-kayak-tour/r1_1.jpg"] },
+                { author: "Laura", country: "Germany", rating: 5, date: "2026-01-04", text: "Really relaxing paddle tour. Our guide was Joshua and we weee his only clients, so it qas like a private tour. We learned about mangroves and enjoyed the sun and the beautiful water.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884663/asiabylocals/reviews/abu-dhabi-reem-central-park-guided-kayak-tour/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884664/asiabylocals/reviews/abu-dhabi-reem-central-park-guided-kayak-tour/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "atlantis-aquaventure-waterpark-day-pass-dubai") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Christine", country: "United Kingdom", rating: 5, date: "2026-08-20", text: "Great experience, good fun and tour guide Farooq was great - thank you 😊", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884611/asiabylocals/reviews/atlantis-aquaventure-waterpark-day-pass-dubai/r0_0.png", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884613/asiabylocals/reviews/atlantis-aquaventure-waterpark-day-pass-dubai/r0_1.jpg"] },
+                { author: "Kristian", country: "United Kingdom", rating: 5, date: "2026-03-21", text: "Amazing time, probably best value for money I spent in Dubai. Kismat our guide was a g, great driver. Definitely recommend", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884615/asiabylocals/reviews/atlantis-aquaventure-waterpark-day-pass-dubai/r1_0.jpg"] },
+                { author: "Milan", country: "Sweden", rating: 5, date: "2026-02-15", text: "The kids loved all about the Waterpark. It was a great day for all of us.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884617/asiabylocals/reviews/atlantis-aquaventure-waterpark-day-pass-dubai/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884619/asiabylocals/reviews/atlantis-aquaventure-waterpark-day-pass-dubai/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "aya-universe-dubai-entry-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Darren", country: "Seychelles", rating: 5, date: "2026-07-16", text: "Had an amazing time at AYA Universe! The whole place is absolutely breathtaking, and every room has something unique to see and experience. The staff were also fantastic. They were really helpful with taking photos, explaining the different areas, and making sure everyone had a great time. Definitely one of the highlights of my trip and I’d highly recommend visiting if you’re in Dubai!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884679/asiabylocals/reviews/aya-universe-dubai-entry-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884680/asiabylocals/reviews/aya-universe-dubai-entry-ticket/r0_1.jpg"] },
+                { author: "Oluwatosin", country: "Poland", rating: 5, date: "2025-12-23", text: "AYA Universe is one of those rare attractions where each zone feels like stepping into a different reality. The various sections are thrilling in their own way—some genuinely magical—and the transitions between worlds are seamless and immersive. The staff were consistently polite, friendly, and helpful, which only added to the overall comfort of the experience. During our visit it wasn’t crowded, making it easy to explore at our own pace and fully enjoy each installation without stress or rushing. It’s an amazing experience for both adults and kids, though I’d say it’s best suited for visitors aged 10 and above. Some of the environments and sensory effects may be overwhelming for younger children, and a few concepts are better appreciated by older minds. Overall, this is a highly recommended Dubai experience—beautifully designed, thoughtfully managed, and unlike anything else in the city. You’ll thank me later.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884681/asiabylocals/reviews/aya-universe-dubai-entry-ticket/r1_0.jpg"] },
+                { author: "Kasim", country: "United Kingdom", rating: 5, date: "2025-11-14", text: "Aya universe was very good but please be aware when booking hype house + Aya universe ticket together that they are in different locations and you must use the ticket on the same day. This should be made clearer as we didn’t have time to travel elsewhere so the hype house part of the ticket was wasted.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884687/asiabylocals/reviews/aya-universe-dubai-entry-ticket/r2_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "burj-khalifa-124-125-and-dubai-aquarium-combo-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Ibrahim", country: "United Kingdom", rating: 5, date: "2026-08-21", text: "a great experience which we thought was one of the best aquariums we have visited", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884590/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884592/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r0_1.jpg"] },
+                { author: "Gillian", country: "United Kingdom", rating: 5, date: "2026-02-25", text: "Absolutely brilliant. I would recommend booking into the BK first and as early as you can...leaving the rest of your afternoon to mooch around the aquarium. Great experience and great value for money.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884594/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884595/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r1_1.jpg"] },
+                { author: "Mark", country: "United Kingdom", rating: 5, date: "2026-01-31", text: "Queuing at the burj was lengthy but considering it was a Friday evening then perhaps to be expected. A smooth experience in purchasing the tickets and also the experiences themselves. Won't hesitate to use on future trips", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884597/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884599/asiabylocals/reviews/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dibba-fujairah-snorkelling-day-trip-from-dubai") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Nadine El", country: "United States", rating: 5, date: "2026-06-08", text: "Amazing!! Don’t just book for snorkeling, scuba diving is so worth it, even for beginners. The sea is a whole other world", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884620/asiabylocals/reviews/dibba-fujairah-snorkelling-day-trip-from-dubai/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884622/asiabylocals/reviews/dibba-fujairah-snorkelling-day-trip-from-dubai/r0_1.jpg"] },
+                { author: "Mark", country: "United States", rating: 5, date: "2026-03-01", text: "My husband and I totally enjoyed our day. Our driver was great and the ride was very comfortable. Our guides, Mickey and Hanan were wonderful. Not sure if I got the second name right but they were both great. We loved what we saw in this snorkeling trip.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884624/asiabylocals/reviews/dibba-fujairah-snorkelling-day-trip-from-dubai/r1_0.jpg"] },
+                { author: "Madison", country: "United Kingdom", rating: 5, date: "2025-10-15", text: "⭐️⭐️⭐️⭐️⭐️ Amazing First-Time Snorkeling Experience! This was my first time snorkeling and I did it solo — and it couldn’t have gone better! From pick-up to drop-off, the team at Nemo Diving made everything so easy, friendly, and fun. Everyone was incredibly helpful and welcoming, making me feel comfortable right away even though I was a bit nervous at first. The guides took great care to explain everything clearly, and once we got in the water, it was absolutely magical — colorful fish everywhere and such a peaceful, beautiful experience. You can really tell the team loves what they do and wants you to have the best time possible. I couldn’t have asked for a better first snorkeling experience. Highly recommend Nemo Diving to anyone — especially if it’s your first time or you’re going solo. They’ll make sure you have an unforgettable adventure from start to finish! 🌊🐠💙", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884625/asiabylocals/reviews/dibba-fujairah-snorkelling-day-trip-from-dubai/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884626/asiabylocals/reviews/dibba-fujairah-snorkelling-day-trip-from-dubai/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-aquarium-and-underwater-zoo-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Branko", country: "Serbia", rating: 5, date: "2026-08-27", text: "Something unique that should be seen if you have already come to Dubai", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884702/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884704/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r0_1.jpg"] },
+                { author: "Victoria", country: "United Kingdom", rating: 5, date: "2026-08-26", text: "The Aquarium is the best Aquarium we have ever been too , I would definitely recommend it to everyone", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884705/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884706/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r1_1.jpg"] },
+                { author: "Jackie", country: "United Kingdom", rating: 5, date: "2026-08-22", text: "It was more than we expected, there was so much to see and we even able feed the fish and sharks within a safe environment, there was also petting allowed with some of the sea creatures. All in all a very exceptional experience..", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884707/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884708/asiabylocals/reviews/dubai-aquarium-and-underwater-zoo-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Candy", country: "Mexico", rating: 5, date: "2026-09-07", text: "The dinner was delicious, and the team was super friendly and attentive. A great experience... 100% recommended.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884555/asiabylocals/reviews/dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres/r0_0.jpg"] },
+                { author: "Herani", country: "United States", rating: 5, date: "2026-02-03", text: "It was such a great experience!! The food, music and staff were amazing!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884556/asiabylocals/reviews/dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884557/asiabylocals/reviews/dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres/r1_1.jpg"] },
+                { author: "vicky", country: "New Zealand", rating: 5, date: "2026-01-02", text: "the views was awesome with lovely food and drinks. the staffs were friendly and helpful", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884558/asiabylocals/reviews/dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884560/asiabylocals/reviews/dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Stella", country: "Belgium", rating: 5, date: "2026-01-02", text: "The best desert experience thanks to SDK 🙏 we loved riding through the desert dunes on buggy's. The dinner was spectacular, so we're the fire & belly dancers. We'd definitely recommend it! They also take the best photos for you too 💫", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884539/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884540/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r0_1.jpg"] },
+                { author: "TO", country: "Hong Kong", rating: 5, date: "2025-12-10", text: "Another wonderful journey, with the beautiful desert as always. The fire show at dinner was impressive. Basid, our tour guide, is exceptionally friendly. Just ask him for anything you need; he's always ready to help. Overall, this has been a truly memorable experience.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884542/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884544/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r1_1.jpg"] },
+                { author: "Jonathan", country: "Switzerland", rating: 5, date: "2025-12-10", text: "Karnail, thank you for accompanying us to this amazing experience for dune buggy, driving through desert, enjoyed good food at the camp and had great time watching the very good performances! Thank you for hosting us!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884545/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884546/asiabylocals/reviews/dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-fountain-abra-lake-ride-at-the-burj-khalifa") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Claire", country: "United Kingdom", rating: 5, date: "2026-08-22", text: "This show was amazing even better on the lake. Would recommend this", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884724/asiabylocals/reviews/dubai-fountain-abra-lake-ride-at-the-burj-khalifa/r0_0.jpg"] },
+                { author: "Ngozi", country: "United Kingdom", rating: 5, date: "2026-08-14", text: "My overall experience was excellent. My family lived the The lights show and how the fountain was dancing to the the sound of the music .", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884725/asiabylocals/reviews/dubai-fountain-abra-lake-ride-at-the-burj-khalifa/r1_0.jpg"] },
+                { author: "Caroline", country: "United Kingdom", rating: 5, date: "2026-08-13", text: "Good alternative place to watch the show Followed by a little trio round the lake", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884727/asiabylocals/reviews/dubai-fountain-abra-lake-ride-at-the-burj-khalifa/r2_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Seneca", country: "United States", rating: 5, date: "2026-09-08", text: "I’ll start by saying that our guide was phenomenal. He was extremely knowledgeable, courteous, and thorough. I’ve learned quite a bit, particularly about the history and culture of Dubai. I would definitely recommend this to anyone visiting.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884497/asiabylocals/reviews/dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884498/asiabylocals/reviews/dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour/r0_1.jpg"] },
+                { author: "Khoja Esmat", country: "Denmark", rating: 5, date: "2026-09-05", text: "Ahmed Hussein was a great guide and the tour was amaOnh an great knowledge ..looking forward again", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884499/asiabylocals/reviews/dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour/r1_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Suhail", country: "United Kingdom", rating: 5, date: "2026-08-18", text: "Trip was excellent and exceeded my expectations. Our guide Abdul was brilliant and helped us and guided us very well throughout the journey.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884447/asiabylocals/reviews/dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking/r0_0.jpg"] },
+                { author: "Chantal", country: "Australia", rating: 5, date: "2026-06-18", text: "Nabeel was an amazing tour guide, the experience was better thanks to him. We enjoyed our time and definitely recommend", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884448/asiabylocals/reviews/dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884450/asiabylocals/reviews/dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking/r1_1.jpg"] },
+                { author: "Tony", country: "United Arab Emirates", rating: 5, date: "2026-05-29", text: "It was a fun filled event with lots of activities; dune bashing, camel ride, live shows, etc. l will highly recommend it to every visitor in Dubai to try it out.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884451/asiabylocals/reviews/dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884453/asiabylocals/reviews/dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-helicopter-tour-over-the-palm-and-burj-al-arab") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Mical", country: "United States", rating: 5, date: "2026-08-02", text: "Active was wonderful, the entire family enjoyed the experience. I wish it’s was more than 12 minutes however it feels like I was up there for more than 12 mins. My family and I highly recommended this activity. The view is beautiful. The staffs there were very friendly and Professional.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884525/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884526/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r0_1.jpg"] },
+                { author: "Arpita", country: "United Arab Emirates", rating: 5, date: "2026-06-17", text: "It wa scum I was scary and nervous but it was very smooth, the pilot was calm and it ended in 12 minutes, flew over the sea and saw palm jumeirah it was thrilling experience", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884527/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884528/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r1_1.jpg"] },
+                { author: "Gavin", country: "United Kingdom", rating: 5, date: "2025-12-28", text: "All very professionally done. From check in until you get back off the aircraft. Everyone knew their job and it all went smoothly. The flight itself was amazing and the pilot talked you through the sites. Would definitely do this again", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884529/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884530/asiabylocals/reviews/dubai-helicopter-tour-over-the-palm-and-burj-al-arab/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Laura", country: "Hungary", rating: 5, date: "2026-09-02", text: "Deepan is the best!!!! Thankyou ssooo much everything!!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884600/asiabylocals/reviews/dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab/r0_0.jpg"] },
+                { author: "Jordan", country: "United Arab Emirates", rating: 5, date: "2025-11-16", text: "Deepan was our tour guide. Great fun, started at the marina and went to Burj Al Arab. Deepan took plenty of photos for us and we all enjoyed the tour.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884602/asiabylocals/reviews/dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884605/asiabylocals/reviews/dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab/r1_1.jpg"] },
+                { author: "Trébics", country: "Hungary", rating: 5, date: "2025-11-09", text: "It’s the best jetski tour in the whole dubai marina. All of the guys were professional and helpful! Deepan & Kabilan, thank you from the bottom of my heart for making it so special!! It was our top experience during our stay in dubai. Can’t wait to be back soon. Deepan & Kabilan thank you guys once again you guys were more than perfect!! -Vilmos, Sandor, Eric, Peter, Gergo-", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884607/asiabylocals/reviews/dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884608/asiabylocals/reviews/dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-marina-luxury-yacht-cruise-with-onboard-barbecue") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Britney", country: "United States", rating: 5, date: "2026-09-06", text: "highly recommend, great stuff very attentive and great food!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884468/asiabylocals/reviews/dubai-marina-luxury-yacht-cruise-with-onboard-barbecue/r0_0.jpg"] },
+                { author: "Vanessa", country: "New Zealand", rating: 5, date: "2026-09-03", text: "Great team, the boat was luxurious with excellent views of Dubai", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884469/asiabylocals/reviews/dubai-marina-luxury-yacht-cruise-with-onboard-barbecue/r1_0.jpg"] },
+                { author: "Zak", country: "United Kingdom", rating: 5, date: "2026-09-02", text: "A breathtaking yacht cruise along Dubai’s magnificent coastline and an experience I’d highly recommend. From the moment we stepped aboard AQUILA, the whole journey felt relaxing, refreshing and invigorating. The views were incredible, taking in Dubai Marina, Palm Jumeirah, Atlantis, Burj Al Arab and the beautiful blue waters of the Arabian Gulf. A special mention to Steward Klark and the fantastic crew, Dave and Justine, who were friendly, attentive and always on hand. Captain Noel made the journey smooth and enjoyable from start to finish. Relaxing on the yacht, enjoying drinks and a live-cooked BBQ while taking in the scenery was the perfect way to unwind. It was also lovely meeting fellow holidaymakers and sharing stories, including dreams of one day moving to Dubai. A truly memorable experience with amazing views, great people and unforgettable holiday moments. Apologies if I’ve missed any names — everyone was fantastic!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884470/asiabylocals/reviews/dubai-marina-luxury-yacht-cruise-with-onboard-barbecue/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884471/asiabylocals/reviews/dubai-marina-luxury-yacht-cruise-with-onboard-barbecue/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-marina-mega-yacht-dinner-cruise-with-international-buffet") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Kellie", country: "New Zealand", rating: 5, date: "2026-08-31", text: "Fabulous way to see Dubai by night. The lights, the harbour and Atlantis were amazing. Food was good, our attendant was very attentive. We sat in VIP area on the top and glad we did. Air conditioning in lower areas if you need to cool off.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884513/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884515/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r0_1.jpg"] },
+                { author: "Somsak", country: "United Kingdom", rating: 5, date: "2026-06-15", text: "I loved the view of the Dubai skyline. I booked a VIP roothe staff were Everything is fine.attentive and kept refilling my food throughout the meal.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884517/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884518/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r1_1.jpg"] },
+                { author: "Lauren", country: "United Kingdom", rating: 5, date: "2026-05-29", text: "Incredible. Everything was perfect. Service was exceptional, they couldn’t be more helpful and attentive. Been to Dubai 3 times and this was one of the best things I’ve done. Highly recommend.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884520/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884522/asiabylocals/reviews/dubai-marina-mega-yacht-dinner-cruise-with-international-buffet/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-marina-yacht-tour-with-breakfast-or-barbecue") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Adeel", country: "United Arab Emirates", rating: 5, date: "2026-08-24", text: "Very good. Daughter enjoyed it and the food was also delicious.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884709/asiabylocals/reviews/dubai-marina-yacht-tour-with-breakfast-or-barbecue/r0_0.jpg"] },
+                { author: "Ella", country: "United Kingdom", rating: 5, date: "2026-07-20", text: "So good, very calm and lovely boat ride around the palm. Nice food and great views. Thanks so much", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884711/asiabylocals/reviews/dubai-marina-yacht-tour-with-breakfast-or-barbecue/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884712/asiabylocals/reviews/dubai-marina-yacht-tour-with-breakfast-or-barbecue/r1_1.jpg"] },
+                { author: "Suzanne", country: "United Kingdom", rating: 5, date: "2026-07-17", text: "Highly recommend. Amazing yacht. Great music. Food was delicious. And a full 2 hours out to see the sights at sunset. Everyone loved it", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884714/asiabylocals/reviews/dubai-marina-yacht-tour-with-breakfast-or-barbecue/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884715/asiabylocals/reviews/dubai-marina-yacht-tour-with-breakfast-or-barbecue/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-overnight-desert-safari-with-private-tent-and-stargazing") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Katarina", country: "United Kingdom", rating: 5, date: "2026-08-26", text: "Muhammad from OceanAir was extraordinary guide. Prep and comms were thoughtful. We got a great comentary when traveling, learning about landmarks. Our first stop was quad biking - what an experience! My boys, 17 and 10 had a great time. With arabic head scarfs and the awsome kit- we have some great photos. Our second stop was dune bashing & sandboarding- exhiliarting for the boys, Mohammad skills terified me a little 🤩. Once at Al Khayama Camp things got to another level. We had hena, falcon, refreshments & later with magnificent dinner cooked outside, we watched & listen to music, dance, patted stalions, seen camel & the fire show. All were authentic. In the middle of desert oasis, this felt so raw & natural. We spent an evening in the open air desert lounge, stargazing & moon researching. Tried my first shisha. The night in the tent was unforgetable and very comfortable. The cherry on the top was riding camels during the sun rise and a comfy ride back to Dubai. Highly recommend.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884531/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884532/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r0_1.jpg"] },
+                { author: "Tsvetan", country: "Bulgaria", rating: 5, date: "2026-05-02", text: "An absolutely exceptional experience that wouldn’t have been the same without our Safari Guide, Mansoor Manz and Sanjay.👌⬆️💪 Mansoor Manz is far more than just a drive. A true professional with an incredible feel for the vehicle, always in full control and making the ride both thrilling and completely safe. What impressed us even more was his attitude toward people-extremely caring, attentive, and detail-oriented, constantly making sure we were comfortable and enjoying every moment. His communication was outstanding–friendly, positive, and highly knowledgeable.He shared interesting insights, answered all our questions, and built a strong sense of trust from the very beginning.✅️🛸 Also special thanks to Sanjay at the camp where we spent the evening–attentive, fun, and full of positive energy, making the night even more enjoyable.👌 It’s rare to meet people who combine professionalism, genuine care, and great energy so naturally. 🌟🌟🌟🌟🌟 Highly recommended–Mansoor Manz & Sanjay.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884533/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884534/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r1_1.jpg"] },
+                { author: "Hammad", country: "United Arab Emirates", rating: 5, date: "2026-04-29", text: "Amazing overnight desert camping experience! The views, vibes, and setup were all perfect. Sitting under the stars was the highlight. Highly recommend❤️", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884536/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884537/asiabylocals/reviews/dubai-overnight-desert-safari-with-private-tent-and-stargazing/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-premium-desert-safari-al-khayma-camp-with-three-buffets") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Sari", country: "United States", rating: 5, date: "2026-08-29", text: "Very great tour by Nadeem very great guide. The whole thing was an amazing experience", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884454/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884456/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r0_1.jpg"] },
+                { author: "Fernando", country: "Panama", rating: 5, date: "2026-08-28", text: "This was such amazing Experience!! special thanks to Nadeem. Everything was top.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884457/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884459/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r1_1.jpg"] },
+                { author: "Santiago", country: "Argentina", rating: 5, date: "2026-08-21", text: "Abbaz was a great driver, Aman a good horse racer and the food was amazing", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884460/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884462/asiabylocals/reviews/dubai-premium-desert-safari-al-khayma-camp-with-three-buffets/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Owen", country: "United Kingdom", rating: 5, date: "2026-09-07", text: "Ilyas was great, amazing trip and brilliant value for money would definitely recommend, quad biking was so good and definitely worth doing, sand duning was amazing too and great guidance from Ilyas aswell as the great driving from him. Also the camel riding was a great experience", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884441/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884442/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r0_1.jpg"] },
+                { author: "Mauro", country: "Angola", rating: 5, date: "2026-09-06", text: "The activity was excellent from the pick up to the rest of the activities. Our guide Babar was excellent, made us feel very comfortable and treated us like family. I truly recommend these activities, specially with Babar as guide tour.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884443/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884444/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r1_1.jpg"] },
+                { author: "Alejandro", country: "New Zealand", rating: 5, date: "2026-09-06", text: "What an amazing day , we had Tahseen as our driver and it was just wonderful, I liked everything , I’m so grateful , would definitely recommend", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884445/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884446/asiabylocals/reviews/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Jacqueline", country: "United Kingdom", rating: 5, date: "2026-05-31", text: "This was fantastic, we did the yacht which we also enjoyed, when we came off the yacht we seen the speed boot and thought why not give it a try, thoroughly enjoyed both and would book again", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884671/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884673/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r0_1.jpg"] },
+                { author: "Chrysanthi", country: "Greece", rating: 5, date: "2026-02-15", text: "A refreshingly different experience from the usual. Everything was excellent, and the staff were exceptionally welcoming.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884674/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884675/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r1_1.jpg"] },
+                { author: "Liliya", country: "Bulgaria", rating: 5, date: "2026-02-10", text: "It was a great experience. There was an audio guide and the boat stopped at best views for pictures. Guides on board were very attentative.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884677/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884678/asiabylocals/reviews/dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-sunset-yacht-cruise-with-snacks-and-drinks") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Mauro", country: "Angola", rating: 5, date: "2026-09-07", text: "The Yacht tour was great. We had the best guide tour Chill, very patient and friendly just like her name. She helped us with pictures so that we could eternize this experience. Looking forward to coming back.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884717/asiabylocals/reviews/dubai-sunset-yacht-cruise-with-snacks-and-drinks/r0_0.jpg"] },
+                { author: "Abigail", country: "United Kingdom", rating: 5, date: "2026-08-23", text: "I absolutely loved this experience, best way to finish off my trip to Dubai. My instructor Chill really made this experience her knowledge on Dubai landmarks was impeccable and her picture taking skills... 10/10. She is so lovely from the moment we met, she is a real asset to the team!!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884719/asiabylocals/reviews/dubai-sunset-yacht-cruise-with-snacks-and-drinks/r1_0.jpg"] },
+                { author: "Julie", country: "United Kingdom", rating: 5, date: "2026-06-11", text: "We absolutely loved it ,it was stunning and relaxing,food was great scenery was beautiful ,we would definitely recommend and will definitely be doing it again...just love love loved it ...thankyou to all you all made our trip more special😊😊", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884721/asiabylocals/reviews/dubai-sunset-yacht-cruise-with-snacks-and-drinks/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884722/asiabylocals/reviews/dubai-sunset-yacht-cruise-with-snacks-and-drinks/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Rodrigo", country: "United States", rating: 5, date: "2026-08-21", text: "It was all fantastic, the yacht is so big you will have it for yourself for hours because people scatter around and suddenly it’s you only. Great food, super fun dj, most beautiful sunset and views ever! Can’t wait to be back! Thanks, crew!!!! 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884562/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884562/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r0_1.jpg"] },
+                { author: "Stacey", country: "United Kingdom", rating: 5, date: "2026-02-22", text: "An amazing day on this trip! The yacht was stunning and the staff were incredible! This is a must do in Dubai", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884564/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884565/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r1_1.jpg"] },
+                { author: "Oliver", country: "United Kingdom", rating: 5, date: "2026-02-03", text: "Had an amazing time on the sunset cruise. The service from everyone was top-notch and the boat was absolutely fantastic. The view was just breathtaking.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884568/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884569/asiabylocals/reviews/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "ferrari-world-abu-dhabi-entry-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Syed", country: "Pakistan", rating: 5, date: "2026-02-20", text: "The overall experience was spectacular but the place always seems crowded to me. So I guess it’s better to visit on Sundays. However the ambience and the thrill is superbly amazing.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884579/asiabylocals/reviews/ferrari-world-abu-dhabi-entry-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884581/asiabylocals/reviews/ferrari-world-abu-dhabi-entry-ticket/r0_1.jpg"] },
+                { author: "Paul", country: "Spain", rating: 5, date: "2025-12-03", text: "it was my birthday and they gave me a badge and a bag of goodies and also let us have a free ride on the driving simulators which was amazing .lovely park and staff highly recommend 👌", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884584/asiabylocals/reviews/ferrari-world-abu-dhabi-entry-ticket/r1_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "la-perle-by-dragone-show-tickets-dubai") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Susie Francis", country: "Australia", rating: 5, date: "2026-09-02", text: "The show was excellent. Thrilling acrobats. Awesome lighting and water effects. The motorbikes in the cage were jaw dropping. Amazing experience. Loved it. Totally recommend.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884650/asiabylocals/reviews/la-perle-by-dragone-show-tickets-dubai/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884651/asiabylocals/reviews/la-perle-by-dragone-show-tickets-dubai/r0_1.jpg"] },
+                { author: "Azeem", country: "United Kingdom", rating: 5, date: "2026-07-22", text: "My 2nd time seeing it. It is magical now as it was last time. Constant parade of mesmerising acts that keep you enthralled throughout the storyline. A true must for your visit to Dubai. Family friendly", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884652/asiabylocals/reviews/la-perle-by-dragone-show-tickets-dubai/r1_0.jpg"] },
+                { author: "Sharon", country: "Zimbabwe", rating: 5, date: "2026-07-18", text: "absolutely 💯 the most brilliant show i have ever seen. in Dubai this is a must do activity. stunning 😍 will do it again", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884653/asiabylocals/reviews/la-perle-by-dragone-show-tickets-dubai/r2_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Michal", country: "Czech Republic", rating: 5, date: "2026-07-21", text: "A fantastic trip! Visiting the mosque in Abu Dhabi was an amazing experience. Our guide was excellent and shared plenty of interesting information with us. The Presidential Palace was great too. Even though this was a replacement trip, everything was absolutely perfect. Thank you!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884490/asiabylocals/reviews/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884492/asiabylocals/reviews/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai/r0_1.jpg"] },
+                { author: "Travis", country: "Australia", rating: 5, date: "2026-04-07", text: "Fantastic day tour from Dubai to Abu Dhabi! Visiting the Grand Mosque and the Louvre Abu Dhabi was an unforgettable experience, and everything was made even better by our amazing guide, Sameh. He was incredibly knowledgeable, communicated clearly throughout the day, and shared so many interesting insights that really brought each location to life. Sameh also went above and beyond by taking plenty of great photos for me, which I really appreciated as a solo traveller. A big shoutout as well to our driver, Shafiq, who was very friendly and made the journey completely stress-free with his safe and smooth driving. Everything was well organised, on time, and ran seamlessly. I’d highly recommend this tour to anyone wanting a comfortable and informative day trip!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884495/asiabylocals/reviews/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884496/asiabylocals/reviews/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "louvre-abu-dhabi-express-guided-tour") {
+        return {
+            averageRating: 5.0, totalReviews: 1, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Natalija", country: "United Arab Emirates", rating: 5, date: "2025-12-07", text: "The tour was amazing! The guide was very knowledgeable in art and human history, and weaved both into a wonderful tale of presenting the Abu Dhabi Louvre concept perfectly. Now we want to go back when we have more time to explore, and flesh out the details.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884728/asiabylocals/reviews/louvre-abu-dhabi-express-guided-tour/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884730/asiabylocals/reviews/louvre-abu-dhabi-express-guided-tour/r0_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "louvre-abu-dhabi-general-admission-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Ünzile", country: "Turkey", rating: 5, date: "2026-02-26", text: "It was an perfect experience. Especially the photo spots were amazing 🥰", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884731/asiabylocals/reviews/louvre-abu-dhabi-general-admission-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884733/asiabylocals/reviews/louvre-abu-dhabi-general-admission-ticket/r0_1.jpg"] },
+                { author: "Dan", country: "United Kingdom", rating: 5, date: "2026-02-09", text: "A lot more interesting things that I thought there was going to be, look up what is there before going and you’ll want to go even more.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884735/asiabylocals/reviews/louvre-abu-dhabi-general-admission-ticket/r1_0.jpg"] },
+                { author: "Michał", country: "Poland", rating: 5, date: "2025-12-10", text: "Stunning architecture and quite interesting but modest exhibitions. Good for 2 hours I guess. Cafe and restaurant inside also are very nice and views are just beautiful. Security guards, multiple in each room, are a bit intimidating and you feel being watched and observed on every single step. Weird feeling.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884737/asiabylocals/reviews/louvre-abu-dhabi-general-admission-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884739/asiabylocals/reviews/louvre-abu-dhabi-general-admission-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "old-dubai-walking-tour-with-souks-street-food-and-abra-ride") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Anahera", country: "New Zealand", rating: 5, date: "2026-09-07", text: "Loved our tour. Ziad is the BEST tour guide and we highly recommend him. Ziad was friendly, informative and taught us alot about the history, the culture and about the Islamic religion/customs. We throughly enjoyed everything about our trip.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884472/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884473/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r0_1.jpg"] },
+                { author: "Clara", country: "Australia", rating: 5, date: "2026-09-04", text: "⭐️⭐️⭐️⭐️⭐️ Fantastic tour — 10/10! Absolutely fantastic experience and one of the highlights of my time in Dubai. Our guide, Fesal, was exceptional and speaks perfect English and Italian. He explained the history of Dubai, Islam, its traditions and culture in such an interesting way and answered all our questions. We experienced the traditional markets, Gold Souk, spices, tea and delicious local food. I learned so much while really enjoying myself. What impressed me most was how caring Fesal was. It was around 42°C, and he constantly made sure everyone was okay and had water. Professional, knowledgeable, friendly and genuinely caring. I highly recommend this tour and especially Fesal. If I could give 10 stars out of 5, I would!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884474/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884475/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r1_1.jpg"] },
+                { author: "Annette", country: "Australia", rating: 5, date: "2026-08-29", text: "our guide was fantastic with the information he had and the way he communicated it. I learnt a great deal. the food was great, it would be nice to have a little more or time the last samples earlier. Great tour, would highly recommend.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884477/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884478/asiabylocals/reviews/old-dubai-walking-tour-with-souks-street-food-and-abra-ride/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "seaworld-abu-dhabi-general-admission-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Aseela", country: "United Arab Emirates", rating: 5, date: "2026-04-26", text: "I went with my daughter from the beginning to the end of the day and it felt like a beautiful cruise. Entry was smooth, and it's recommended to book in advance. There are kiosks and restaurants in every section. The best part was the dolphin show. Don't forget to enjoy watching the fish and seals and take some lovely pictures with them. Comfortable shoes and a jacket are recommended for the penguin area, as the temperature is quite low.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884627/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884628/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r0_1.jpg"] },
+                { author: "Alexandru", country: "Romania", rating: 5, date: "2025-12-15", text: "An Amazing Day at SeaWorld! 🐬 We truly had a great time visiting and exploring the amazing SeaWorld aquatic theme park. I would definitely recommend arriving around 10:00 or 11:00 AM to avoid the initial crowds. Plan on spending around 6 to 7 hours here to ensure your visit doesn't feel rushed, as there are many activities and shows to enjoy. We were fortunate enough to experience both the dolphin and sea lion shows (each lasting approximately 25 minutes). For the polar ocean exhibit (the penguin area), the entire space is climate-controlled, offering a sudden and noticeable change in temperature, to around 1-2° C. So make sure you bring either a jacket or a sweater with you.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884629/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884631/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r1_1.jpg"] },
+                { author: "Kyriaki", country: "Greece", rating: 5, date: "2025-08-23", text: "It is great ! Just book it, it worths a lot. Don’t forget to watch the dolphins amazing", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884632/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884634/asiabylocals/reviews/seaworld-abu-dhabi-general-admission-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "teamlab-phenomena-abu-dhabi-entry-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Faiza", country: "United Kingdom", rating: 5, date: "2026-01-28", text: "Amazing and easy to get around. Staff were lovely and friendly!", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884665/asiabylocals/reviews/teamlab-phenomena-abu-dhabi-entry-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884666/asiabylocals/reviews/teamlab-phenomena-abu-dhabi-entry-ticket/r0_1.jpg"] },
+                { author: "Reem", country: "United Arab Emirates", rating: 5, date: "2025-11-09", text: "Exceeding expectations. It calmed me down, the journey was smooth. Guides are friendly. It consumed my attention the whole time. Next time I’ll choose the adult only time frame", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884667/asiabylocals/reviews/teamlab-phenomena-abu-dhabi-entry-ticket/r1_0.jpg"] },
+                { author: "Denise", country: "United Kingdom", rating: 5, date: "2025-09-17", text: "This was one of the best things I’ve ever done I stayed 3&1/2 hours and realllly enjoyed each room. I didn’t just go next next. And I had the strong meditation green tea in the Japanese tea light room 😐 Go go and go it’s amazing", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884669/asiabylocals/reviews/teamlab-phenomena-abu-dhabi-entry-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884670/asiabylocals/reviews/teamlab-phenomena-abu-dhabi-entry-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "the-green-planet-dubai-indoor-rainforest-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Janine", country: "New Zealand", rating: 5, date: "2026-09-05", text: "Ziad was fabulous tour guide, very knowledgeable and helpful. overall the tour was fantastic well organised and the lunch was amazing. definitely worth adding to yout to do list.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884689/asiabylocals/reviews/the-green-planet-dubai-indoor-rainforest-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884690/asiabylocals/reviews/the-green-planet-dubai-indoor-rainforest-ticket/r0_1.jpg"] },
+                { author: "Luke", country: "United Kingdom", rating: 5, date: "2026-09-05", text: "You never get chance to see these animals so close, and it's looks like there natural environment", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884691/asiabylocals/reviews/the-green-planet-dubai-indoor-rainforest-ticket/r1_0.jpg"] },
+                { author: "Clive", country: "United Kingdom", rating: 5, date: "2026-03-11", text: "Took my little kid and he loved the birds and animals. Lovely place and the staff are really nice.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884692/asiabylocals/reviews/the-green-planet-dubai-indoor-rainforest-ticket/r2_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884694/asiabylocals/reviews/the-green-planet-dubai-indoor-rainforest-ticket/r2_1.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "warner-bros-world-abu-dhabi-entry-ticket") {
+        return {
+            averageRating: 5.0, totalReviews: 2, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Syed", country: "Pakistan", rating: 5, date: "2026-02-20", text: "The overall experience was spectacular but the place always seems crowded to me. So I guess it’s better to visit on Sundays. However the ambience and the thrill is superbly amazing.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884585/asiabylocals/reviews/warner-bros-world-abu-dhabi-entry-ticket/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884587/asiabylocals/reviews/warner-bros-world-abu-dhabi-entry-ticket/r0_1.jpg"] },
+                { author: "Paul", country: "Spain", rating: 5, date: "2025-12-03", text: "it was my birthday and they gave me a badge and a bag of goodies and also let us have a free ride on the driving simulators which was amazing .lovely park and staff highly recommend 👌", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884587/asiabylocals/reviews/warner-bros-world-abu-dhabi-entry-ticket/r1_0.jpg"] },
+            ],
+        };
+    }
+
+    if (slug === "yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks") {
+        return {
+            averageRating: 5.0, totalReviews: 3, guideRating: 5.0, valueRating: 5.0,
+            reviews: [
+                { author: "Bryn", country: "United Kingdom", rating: 5, date: "2026-08-12", text: "Got a 4 Park pass for Seaworld, Warner bros, Ferrari World, and the Aqua Park. Seaworld was incredible, much better than expected and our favourite attraction. Warner bros was our next favourite attraction, more rides for our teenage son, and a great experience. Ferrari World was good, with plenty of rides and memorabilia, but expected a little more. Merchandise in Ferrari World too expensive. You can buy the same Merchandise online for a fraction of the price. The Aquapark was great, with rides and coasters, and pools, but was a little too hot. Worked out cheaper to buy a multi pass than buy individually.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884571/asiabylocals/reviews/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks/r0_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884573/asiabylocals/reviews/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks/r0_1.jpg"] },
+                { author: "Jayesh", country: "United Kingdom", rating: 5, date: "2026-07-25", text: "We visited 3 of the 4 parks, with a double visit to WB. Ferrari World was great but I think its been hyped up too much because, we got most of the major rides completed with 4-5 hours and unfortunately the fasted ride (Rossa) was closed for maintenance when we went. Also, Ferrari World could have been kept cleaner. SeaWorld (Sea Life) was astonishing, there was so much to see and I cannot express in words how massive the place is. Saying that, we did complete the whole of SeaWorld within a day. Now Warner Brothers (WB) was beautifully set out and there is so much to see for every age group. In WB, it did take up two days just because it got so busy and the only downside was, not all the characters are avaliable every day for single photos.", photos: ["https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884573/asiabylocals/reviews/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks/r1_0.jpg", "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788884575/asiabylocals/reviews/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks/r1_1.jpg"] },
+            ],
+        };
+    }
+
     return null;
 };

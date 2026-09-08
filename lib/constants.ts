@@ -701,3 +701,27 @@ export const ENTRY_TICKET_OPTIONS: Array<{
     description: "The activity does not enter the location, but it is part of the experience (e.g. the attraction's exterior is visited or detailed during a guided tour, etc)."
   }
 ];
+
+// Re-add a slug here ONLY once its page exists in lib/dubaiInfoContent.ts.
+export const DUBAI_INFO_SLUGS = [
+  'burj-khalifa-tickets-guide',
+  'dubai-desert-safari-guide',
+  'best-time-to-visit-dubai',
+  'getting-around-dubai',
+  'old-dubai-and-the-souks-guide',
+  'dubai-2-day-itinerary',
+  'dubai-with-kids-guide',
+  'dubai-marina-and-the-palm-guide'
+];
+
+// Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.
+export const ABU_DHABI_INFO_SLUGS = [
+  'sheikh-zayed-grand-mosque-guide',
+  'louvre-abu-dhabi-guide',
+  'qasr-al-watan-guide',
+  'yas-island-parks-guide',
+  'abu-dhabi-day-trip-from-dubai',
+  'best-time-to-visit-abu-dhabi',
+  'abu-dhabi-desert-safari-guide',
+  'abu-dhabi-city-guide'
+];

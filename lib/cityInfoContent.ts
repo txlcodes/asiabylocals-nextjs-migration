@@ -9,6 +9,8 @@ import { getNagoyaInfoContent } from './nagoyaInfoContent';
 import { getHakoneInfoContent } from './hakoneInfoContent';
 import { getColomboInfoContent } from './colomboInfoContent';
 import { getKandyInfoContent } from './kandyInfoContent';
+import { getDubaiInfoContent } from './dubaiInfoContent';
+import { getAbuDhabiInfoContent } from './abuDhabiInfoContent';
 import { getSigiriyaInfoContent } from './sigiriyaInfoContent';
 import { getMirissaInfoContent } from './mirissaInfoContent';
 import { getBentotaInfoContent } from './bentotaInfoContent';
@@ -82,6 +84,12 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const kandyPage = getKandyInfoContent(slug);
     if (kandyPage) return kandyPage;
+
+    const dubaiPage = getDubaiInfoContent(slug);
+    if (dubaiPage) return dubaiPage;
+
+    const abuDhabiPage = getAbuDhabiInfoContent(slug);
+    if (abuDhabiPage) return abuDhabiPage;
 
     const colomboPage = getColomboInfoContent(slug);
     if (colomboPage) return colomboPage;
