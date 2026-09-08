@@ -55,6 +55,7 @@ import { JAPAN_ITINERARIES } from './japanItinerariesData';
 import { INDIA_ITINERARIES } from './indiaItinerariesData';
 import { THAILAND_ITINERARIES } from './thailandItinerariesData';
 import { SRI_LANKA_ITINERARIES } from './sriLankaItinerariesData';
+import { UAE_ITINERARIES } from './uaeItinerariesData';
 
 /** Slugs we publish, shortest first. Also drives the sitemap and the hub page. */
 export const ITINERARY_SLUGS = [
@@ -67,6 +68,9 @@ const BY_COUNTRY: Record<string, Record<string, ItineraryData>> = {
   india: INDIA_ITINERARIES,
   thailand: THAILAND_ITINERARIES,
   'sri-lanka': SRI_LANKA_ITINERARIES,
+  // The UAE stops at seven days on purpose — it is two cities ninety minutes
+  // apart, and getItinerarySlugs() reads the set rather than ITINERARY_SLUGS.
+  uae: UAE_ITINERARIES,
 };
 
 export const ITINERARY_COUNTRIES = Object.keys(BY_COUNTRY);
