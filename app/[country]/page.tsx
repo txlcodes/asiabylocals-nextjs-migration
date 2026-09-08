@@ -39,10 +39,17 @@ const COUNTRY_META: Record<string, {
     ],
   },
   japan: {
-    title: 'Japan Tours & Experiences | Local Guides in Tokyo | AsiaByLocals',
-    description: 'Book Tokyo tours run by verified local operators — street go-karting past Shibuya Crossing, guided bike and e-bike rides, private walking days, night photography and Mount Fuji day trips. Real operators, direct confirmation.',
+    title: 'Japan Tours & Experiences | Local Guides in Tokyo, Kyoto & Osaka | AsiaByLocals',
+    description: 'Book Japan tours run by verified local operators across eight cities — Tokyo street karting and night walks, Kyoto temples and tea, Osaka food streets, the deer of Nara, Hiroshima and Miyajima, Sapporo, Nagoya and Mount Fuji from Hakone. Real operators, direct confirmation.',
     cities: [
       { name: 'Tokyo', slug: 'tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg', tagline: 'Neon, Temples & Street Karts' },
+      { name: 'Kyoto', slug: 'kyoto', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497312/asiabylocals/tours/kyoto-kyoto-imperial-palace-nijo-castle-guided-walking-tour/img0.jpg', tagline: 'Temples, Geisha Districts & Tea' },
+      { name: 'Osaka', slug: 'osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671492/asiabylocals/tours/osaka-osaka-sumo-show-experience-with-hot-pot-meal-and-kimono/img0.png', tagline: 'Street Food & Castle Town' },
+      { name: 'Nara', slug: 'nara', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031879/asiabylocals/tours/nara-early-morning-tour/img0.jpg', tagline: 'Free-Roaming Deer & Great Buddha' },
+      { name: 'Nagoya', slug: 'nagoya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194057/asiabylocals/tours/nagoya-from-nagoya-gujo-hida-takayama-and-shirakawa-go-day-t/img0.jpg', tagline: 'Castles, Craft & Samurai History' },
+      { name: 'Sapporo', slug: 'sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788014991/asiabylocals/tours/sapporo-hokkaido-day-trip-from-sapporo-asahiyama-zoo-blue-pond-shirahige-falls/img0.jpg', tagline: 'Hokkaido Snow, Seafood & Sake' },
+      { name: 'Hiroshima', slug: 'hiroshima', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787830475/asiabylocals/tours/hiroshima-hiroshima-untold-why-the-atomic-bomb-fell-guided-history-walk/img0.jpg', tagline: 'Peace Park & Miyajima Island' },
+      { name: 'Hakone', slug: 'hakone', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788270624/asiabylocals/tours/hakone-mt-fuji-arakurayama-oshino-hakkai-day-tour/img0.jpg', tagline: 'Mount Fuji Views & Hot Springs' },
     ],
   },
   thailand: {
@@ -56,19 +63,27 @@ const COUNTRY_META: Record<string, {
       { name: 'Pattaya', slug: 'pattaya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098597/asiabylocals/tours/pattaya-coral-island-speedboat-tour-with-lunch-and-transfer/hq_tour_img_1.png', tagline: 'Islands & Coast Near Bangkok' },
     ],
   },
+  uae: {
+    title: 'UAE Tours & Experiences | Dubai & Abu Dhabi Local Guides | AsiaByLocals',
+    description: 'Book Dubai and Abu Dhabi tours run by verified local operators — red dune desert safaris, Burj Khalifa and the Dubai Frame, Marina yacht cruises, the Sheikh Zayed Grand Mosque, Louvre Abu Dhabi and the Yas Island parks. Real operators, direct confirmation.',
+    cities: [
+      { name: 'Dubai', slug: 'dubai', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788867903/asiabylocals/tours/dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp/img1.jpg', tagline: 'Desert Dunes & the Tallest Tower' },
+      { name: 'Abu Dhabi', slug: 'abu-dhabi', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788867956/asiabylocals/tours/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour/img1.jpg', tagline: 'Grand Mosque, Louvre & Yas Island' },
+    ],
+  },
   'sri-lanka': {
     title: 'Sri Lanka Tours & Experiences | Local Guides Across Sri Lanka | AsiaByLocals',
     description: 'Discover the best tours across Sri Lanka with licensed local guides — Kandy tea country, the Ella hill-country trail, Sigiriya rock fortress, Galle fort and Colombo. Authentic experiences with expert locals.',
     cities: [
+      { name: 'Ella', slug: 'ella', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462818/asiabylocals/tours/ella-bandarawela-or-haputale-to-yala-national-park-safari/img0.jpg', tagline: 'Hill Country & Nine Arch Bridge' },
       { name: 'Colombo', slug: 'colombo', image: '/colombo-hero.webp', tagline: 'Sri Lanka\'s Coastal Capital' },
       { name: 'Kandy', slug: 'kandy', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375478/asiabylocals/tours/from-kandy-sigiriya-dambulla-and-polonnaruwa-day-tour/img0.jpg', tagline: 'Sacred Temples & Tea Country' },
-      { name: 'Ella', slug: 'ella', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462818/asiabylocals/tours/ella-bandarawela-or-haputale-to-yala-national-park-safari/img0.jpg', tagline: 'Hill Country & Nine Arch Bridge' },
       { name: 'Sigiriya', slug: 'sigiriya', image: '/sigiriya-hero.webp', tagline: 'The Ancient Rock Fortress' },
+      { name: 'Nuwara Eliya', slug: 'nuwara-eliya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg', tagline: 'Little England in the Hills' },
       { name: 'Galle', slug: 'galle', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462661/asiabylocals/tours/galle-to-ella-drop-tour-via-udawalawe-optional-safari/img0.jpg', tagline: 'Colonial Fort & Coastline' },
+      { name: 'Negombo', slug: 'negombo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368898/asiabylocals/tours/wilpattu-national-park-full-day-safari-06-00-18-00/img0.jpg', tagline: 'Beaches Near the Airport' },
       { name: 'Mirissa', slug: 'mirissa', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463066/asiabylocals/tours/mirissa-or-weligama-to-ella-drop-tour/img0.jpg', tagline: 'Whale Watching & Beaches' },
       { name: 'Bentota', slug: 'bentota', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375894/asiabylocals/tours/from-bentota-kalutara-magical-journey-to-kandy-pinnawala/img0.jpg', tagline: 'River Safaris & Beach Resorts' },
-      { name: 'Nuwara Eliya', slug: 'nuwara-eliya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg', tagline: 'Little England in the Hills' },
-      { name: 'Negombo', slug: 'negombo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368898/asiabylocals/tours/wilpattu-national-park-full-day-safari-06-00-18-00/img0.jpg', tagline: 'Beaches Near the Airport' },
     ],
   },
   // /nepal was 404ing while the sitemap submitted it and five Nepal city pages
