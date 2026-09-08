@@ -18,6 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/sri-lanka', '/sri-lanka/colombo', '/sri-lanka/kandy', '/sri-lanka/galle',
     '/sri-lanka/sigiriya', '/sri-lanka/ella', '/sri-lanka/nuwara-eliya',
     '/sri-lanka/negombo', '/sri-lanka/bentota', '/sri-lanka/mirissa',
+    '/uae', '/uae/dubai', '/uae/abu-dhabi',
     '/nepal', '/nepal/kathmandu', '/nepal/pokhara', '/nepal/chitwan',
     '/nepal/bhaktapur', '/nepal/lumbini',
   ].map(path => ({
