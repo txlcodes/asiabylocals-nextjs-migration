@@ -530,7 +530,11 @@ export default function CityInfoClient({ country, city, slug }: Props) {
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.
-    const sidebarItems = SIDEBAR_MAP[city.toLowerCase()] || [];
+    // city arrives as a display name ('Mount Fuji'), not a slug, so it must be
+    // slugified before any keyed lookup. Keying on toLowerCase() alone silently
+    // dropped the sidebar on every two-word city: Chiang Mai, Nuwara Eliya,
+    // Mount Fuji. Single-word cities hid the bug for months.
+    const sidebarItems = SIDEBAR_MAP[urlSlug(city)] || [];
 
     return (
         <div className="min-h-screen bg-white">
@@ -830,7 +834,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                         )}
 
                         {/* Recommended Tours — Internal linking from authority pages to tour pages */}
-                        {CITY_RECOMMENDED_TOURS[city.toLowerCase()] && (
+                        {CITY_RECOMMENDED_TOURS[urlSlug(city)] && (
                             <section className="mt-24">
                                 <h2 className="text-3xl md:text-4xl font-black text-[#001A33] mb-4">
                                     {fmt(t.topRatedTours, { city })}
@@ -839,7 +843,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                     Handpicked experiences with licensed local guides. Instant confirmation.
                                 </p>
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                                    {CITY_RECOMMENDED_TOURS[city.toLowerCase()]!.map((tour, idx) => (
+                                    {CITY_RECOMMENDED_TOURS[urlSlug(city)]!.map((tour, idx) => (
                                         <Link
                                             key={idx}
                                             href={`/${urlSlug(country)}/${urlSlug(city)}/${tour.slug}`}

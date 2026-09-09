@@ -4174,7 +4174,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         )}
 
         {/* Nuwara Eliya Essential Guides Section */}
-        {city.toLowerCase() === 'nuwara-eliya' && (
+        {citySlug === 'nuwara-eliya' && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
               Everything You Need to Know Before Visiting Nuwara Eliya
@@ -5334,7 +5334,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         )}
 
         {/* Nuwara Eliya Essential Guides Section */}
-        {city.toLowerCase() === 'nuwara-eliya' && (
+        {citySlug === 'nuwara-eliya' && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
               Everything You Need to Know Before Visiting Nuwara Eliya
@@ -6493,7 +6493,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         )}
 
         {/* Nuwara Eliya Essential Guides Section */}
-        {city.toLowerCase() === 'nuwara-eliya' && (
+        {citySlug === 'nuwara-eliya' && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
               Everything You Need to Know Before Visiting Nuwara Eliya
@@ -7653,7 +7653,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
         )}
 
         {/* Nuwara Eliya Essential Guides Section */}
-        {city.toLowerCase() === 'nuwara-eliya' && (
+        {citySlug === 'nuwara-eliya' && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
               Everything You Need to Know Before Visiting Nuwara Eliya
@@ -8268,7 +8268,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
-        {city.toLowerCase() === 'mount-fuji' && (
+        {citySlug === 'mount-fuji' && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
               Everything You Need to Know Before Visiting Mount Fuji
