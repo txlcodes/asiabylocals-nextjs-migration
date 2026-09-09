@@ -22,6 +22,130 @@ export interface TourReviewData {
 export const getTourReviews = (slug: string | undefined): TourReviewData | null => {
     if (!slug) return null;
 
+    // --- UAE TOURS (2026-09, real reviews) ---
+    if (slug === 'dubai-private-deep-sea-fishing-trip-with-your-catch-grilled') {
+        return {
+            averageRating: 3.42,
+            totalReviews: 12,
+            guideRating: 3.47,
+            valueRating: 4.0,
+            reviews: [
+                { author: "Callum", country: "Verified traveller review", rating: 5, date: "2026-01-09", text: "Met us at the Marina on time and couldn't be more helpful through the day - highly recommend" }
+            ]
+        };
+    }
+
+    if (slug === 'dubai-red-dunes-on-a-quad-or-side-by-side-atv') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 89,
+            guideRating: 4.91,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Geoff", country: "Verified traveller review", rating: 5, date: "2025-10-06", text: "Great tour, well organised and Mujahid was friendly, timely and communicated well. Each part of the trip was a good amount of time and there was no high pressure selling which is always appreciated." },
+                { author: "Stephin", country: "Verified traveller review", rating: 5, date: "2025-09-27", text: "Amazing !! Mian Sajid was excellent with transportation ..highly recommended" },
+                { author: "Nabil", country: "Verified traveller review", rating: 5, date: "2025-09-10", text: "This was one of the best guides ever in my life. My wife is somewhat picky and very hard to be amazed. Even she told me she would book the tour again. Our guide Ayuv also did a great job! He called me like 2 ours before and already told me when to expect the arrival of him. He took us to the desert, where we rode the quads for an hour. He helped us with entering, taking pictures and all the kind of things. He even helped me bargain with one of the locals to buy a picture which was amazing. He was also the dune driver who took us to the sandboarding location. He took such good fotos of me and my wife that she still talks about them. The bbq at the camp was also very nice. The show was very cool and a once in a lifetime experience. The whole team was very nice and very kind to us. We can only recommend this for everyone who is going to book a trip to Dubai! We thank Ayub a lot for the help and the tour." },
+                { author: "Edeltraud", country: "Verified traveller review", rating: 5, date: "2025-05-04", text: "We had a wonderful afternoon with Bishi, he was a very friendly and open guide and told us a lot of useful tips. We had a great time riding the quads and also in the tent. Dinner was delicious plus the activities were a blast. Thank you Bishi, wishing you the best! Christine & Alex" },
+                { author: "Beyhan", country: "Verified traveller review", rating: 5, date: "2025-04-29", text: "Thanks to Bishi our tourguide for this amazing tour! We loved it." },
+                { author: "April", country: "Verified traveller review", rating: 5, date: "2025-04-25", text: "The tour was really nice. We upgraded to buggy - my friends had a hard time driving lol but overall a very nice experience of Dubai Desert. Bishi, our driver and tour guide, was really professional and sets expectations of the tour. Would recommend." },
+                { author: "Rita", country: "Verified traveller review", rating: 5, date: "2025-04-24", text: "Abbas was amazing! He honestly made us all feel comfortable and safe, best guide to share this experience with and he’s hillarious so makes the journey shorter and even better. Amazing and definitely 5* for him. The experience was also certainly worth every penny." }
+            ]
+        };
+    }
+
+    if (slug === 'musandam-dibba-dhow-cruise-day-trip-from-dubai') {
+        return {
+            averageRating: 4.37,
+            totalReviews: 241,
+            guideRating: 4.42,
+            valueRating: 4.22,
+            reviews: [
+                { author: "Dustin James", country: "Verified traveller review", rating: 5, date: "2026-02-03", text: "Lovely day in Oman with a great driver + crew on the boat. Nice activities, great food and nice scenery. Only small downside is the slow process of border control (but this is not fault from the organization). All in all, very recommendable!!" },
+                { author: "Nursulu", country: "Verified traveller review", rating: 5, date: "2025-12-13", text: "Everything was absolutely perfect from start to finish. Special thanks to Mustafa for providing exceptional service, and to our driver Syam and guide Ciril, I can honestly say it was the best service we’ve experienced. Highly recommended! My parents were very very happy about everything!" },
+                { author: "Arunima", country: "Verified traveller review", rating: 5, date: "2025-12-07", text: "Winderful trip , beautiful scenic place. Great for swimming and water activities. Would highly recommend the cruise. Had a lot of fun" },
+                { author: "ILIANA", country: "Verified traveller review", rating: 5, date: "2025-11-21", text: "Mustafa, the organiser was an amazing person who helped me with some problems I had to get to the trip. He offered me an alternative date beacause last minute i wasnt able to attend the meeting point. He was absolutely helpfull with me and took care of everything to be done properly. The trip was amazing, 1000% worth it!! The driver of the bis was really careful and kind. After that, I had really wonderful time on the boat... The activities, the atmosphere, the food and the service of the people there, were much more better than expected!! This is a trip to remember for sure!! Basically, I will remember the kindness of all the people who are involved to the trip and Mustafa the organiser of caurse! 🙏😊" },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2025-11-07", text: "Everything was amazing. Thanks to the driver and host as me and my friend got lost with wrong direction with taxi to the pickup point. They spoke with the driver and we met up at a convenient place. From the activities and food. It’s a lot. And full with fun and laughter. Everyone from the bus ride to boat was excellent. Day well spent. Thank you will recommend to others . Thank you" },
+                { author: "June", country: "Verified traveller review", rating: 5, date: "2025-09-26", text: "The trip was great, included lots of activities but the drop off pick up spot was not ideal, being left at the side of a motorway on a dark evening was not the best it would be better to be collected inside the hospital grounds, especially for those who phone signal wasn’t good" },
+                { author: "Feras", country: "Verified traveller review", rating: 5, date: "2025-09-21", text: "Very great experience in Oman sea to taste if you are visiting U.A.E. Some nice water activities will make it really interesting." }
+            ]
+        };
+    }
+
+    if (slug === 'museum-of-illusions-dubai-entry-ticket') {
+        return {
+            averageRating: 4.16,
+            totalReviews: 794,
+            guideRating: 4.21,
+            valueRating: 4.01,
+            reviews: [
+                { author: "steven", country: "Verified traveller review", rating: 5, date: "2025-11-23", text: "Only a small museum but well worth a visit, lots of very clever illusions. Friendly staff always on hand to explain how to see the illusion correctly and take pictures." },
+                { author: "Tim", country: "Verified traveller review", rating: 5, date: "2025-09-21", text: "Tricky to find but well worth it, take your camera or phone. Many fun picture opportunities. All on one level." },
+                { author: "Nicola", country: "Verified traveller review", rating: 5, date: "2025-08-14", text: "brilliant. me and my husband had a great time some of the illusions we didn't know what to do and the worker was more than happy to help with photos and to tell us what to do." },
+                { author: "Arnab", country: "Verified traveller review", rating: 5, date: "2025-01-10", text: "Wont take much time but its beautiful…get some cool pics here…even if u r travelling solo..no issues..the museum staff are really cool and they take pics for u and believe me they know the best spots and how to take pics" },
+                { author: "Sanja", country: "Verified traveller review", rating: 5, date: "2024-10-14", text: "it was really nice. the place where the museum is,it's really nice and totally different from the rest of Dubai and I like it really. we took a walk around the place and was so nice and quiet. the museum is also very interesting,my kids love it ,they are 9 and 6." },
+                { author: "Anuja", country: "Verified traveller review", rating: 5, date: "2024-10-08", text: "The museum was great. The location was amazing. Had a lot of fun exploring the museum. Hardly took us 30 minutes to finish but it was fun for a if you have little time in your hands." },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2024-08-14", text: "Staff friendly, nice environment, some good interactive elements." }
+            ]
+        };
+    }
+
+    if (slug === 'al-marmoom-oasis-desert-afternoon-high-tea') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 11,
+            guideRating: 5.0,
+            valueRating: 4.85,
+            reviews: [
+                { author: "Pavlos", country: "Verified traveller review", rating: 5, date: "2026-02-05", text: "The best choice for a family. easy going and very relaxing. We enjoyed it and we would like to thank all the staff for their kind hospitality and especially our driver Wisal you was so kind and special thanks for the Greek kinds music he put throughout the ride in order to keep our kids entertained!! If you want to relax at a wonderful oasis, ride camels and drink traditional tea and coffee during the sunset, this is for you" },
+                { author: "Ballantyne", country: "Verified traveller review", rating: 5, date: "2026-02-02", text: "10/10 experience - thank you so much Ateer we are very grateful." },
+                { author: "Kinga", country: "Verified traveller review", rating: 5, date: "2026-01-04", text: "It was well organised afternoon full of activities. Good value for money and a great service. Mahdi looked after our tea experience the whole time" },
+                { author: "Roger", country: "Verified traveller review", rating: 5, date: "2025-12-25", text: "The tour was really great. Our kids loved it and our guide Mansoor Manz was amazing." },
+                { author: "Tsun", country: "Verified traveller review", rating: 5, date: "2025-12-19", text: "Fantastic experience! Our guide Lucky was extremely friendly and helpful (and a great photographer). Very smooth pick up. The duration is lite. Just good enough for a short version of the usual safari ride. (We didn’t choose the safari version because it’s too hectic the same day we land. Just right for a taste of the Arabic culture. The luqaimat during traditional tea was amazing!" },
+                { author: "Marco", country: "Verified traveller review", rating: 5, date: "2025-12-11", text: "My partner and I enjoyed the Al Marmoom High Tea in the desert. The lighting was very nice, especially during sunset. The soft lights around the seating area made it feel calm and a little romantic. The food was tasty, with fresh snacks and warm tea. We liked trying everything together. The whole place had a relaxing and pleasant vibe, and we had a really good time as a couple❤️" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-04", text: "Wow an amazing afternoon tea , the environment the beautiful horses the camel rides , The sunset the garden the trees I can’t explain the beauty and the feelings you get it’s like you in heaven. Please try this afternoon tea , if I lived at Dubai once a month or 2 times I would have come to this beautiful place. The hospitality everyone was so nice and kind ." }
+            ]
+        };
+    }
+
+    if (slug === 'abu-dhabi-emirati-dining-experience') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 4.85,
+            reviews: [
+                { author: "Suzana", country: "Verified traveller review", rating: 5, date: "2025-06-14", text: "Great food and big portions. Excellant service and extremly kind people. Good value for money." }
+            ]
+        };
+    }
+
+    if (slug === 'al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet') {
+        return {
+            averageRating: 4.44,
+            totalReviews: 8,
+            guideRating: 4.49,
+            valueRating: 4.29,
+            reviews: [
+                { author: "Janina", country: "Verified traveller review", rating: 5, date: "2024-03-18", text: "If we could give more than five stars, we would. The tour was an absolutely amazing and memorable experience! Not only did we learn so much during the time, but our Egyptian tour guide Ahmed Elshemy and our driver Shafiq really made sure to meet our individual requests and make the tour „ours“. Have done group tours before, not even slightly comparable. Everyone who has the chance to go on this tour should absolutely take it, it was worth every last cent!!" },
+                { author: "Liz", country: "Verified traveller review", rating: 4, date: "2026-01-14", text: "Our guide, who was also the driver was very informative. The only thing we were disappointed about is that the touroperator did not mention that even TWO items had to be skipped from the tour: one museum could not be visited because under construction, the second was the camelmarket that appeared to be closed due Covid in camels. This was already known more than a month ago!" },
+                { author: "Elena", country: "Verified traveller review", rating: 4, date: "2026-01-09", text: "The Oasis was really great. We took a driven buggy because it had a guide but our guide really didn’t say much so if I was to do it again I would hire the much cheaper self cycle bike." }
+            ]
+        };
+    }
+
+    if (slug === 'four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 4.85,
+            reviews: [
+                { author: "Silke", country: "Verified traveller review", rating: 5, date: "2025-12-23", text: "We very much enjoyed the 4-day tour through the UAE. Moja (our tour guide) and Balli (our reliable friendly driver) are are the best, and we had so much fun throughout the entire trip. After the tour, we truly felt that we had seen the most important highlights of the UAE, enriched with deep local knowledge and the opportunity to ask questions at any time. Moja is an extremely flexible guide and did everything possible to adapt the tour to our personal preferences, which made the experience even more special. Thank you so much for this unforgettable experience!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-29", text: "I recommend this trip 200%! Moja is the best guide; he immediately put me at ease! Always cheerful, smiling, and very insightful in his explanations, I loved all the tours we did together. Ballah is an excellent driver, careful and very attentive to ensuring everything went smoothly. I may have had my best vacation ever with them. At the Al Marmoom Domes, Rabbah accompanied me during the activities. He reassured me greatly during the horseback ride, speaks excellent French, and did everything he could to make sure I had the most of it. This trip is truly a once-in-a-lifetime experience. It's absolutely worth it; I'm still starry-eyed. A huge thank you again to Moja, the most professional, kind, and fun guide of all—he made this trip magical!" }
+            ]
+        };
+    }
+
     // --- KYOTO TOURS (2026-08, real GYG reviews) ---
     if (slug === 'kyoto-walking-tour') {
         return {

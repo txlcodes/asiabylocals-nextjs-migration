@@ -28,6 +28,128 @@ const CITY_DESCRIPTIONS: Record<string, {
   bestTime: string;
   faqs: { question: string; answer: string }[];
 }> = {
+  'Dubai': {
+    title: 'Dubai Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover the best tours in Dubai with licensed local operators — desert safaris with dune bashing and camp dinners, Burj Khalifa tickets, old town souk walks with an abra crossing, marina yacht cruises and helicopter flights over the Palm.',
+    intro: [
+      'Dubai splits neatly into two cities, and the mistake most first-timers make is only booking one of them. There is the vertical city of the [Burj Khalifa observation decks](/uae/dubai/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket), the Marina and the Palm — and then there is the older creek city of wind-tower lanes, gold and spice souks, and a [wooden abra that still ferries people across the water](/uae/dubai/old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing) for a dirham. The second one is cheaper, cooler in every sense, and the part people say they wish they had given more time.',
+      'The desert is the third city, and it starts about 45 minutes from the centre. A [classic evening safari](/uae/dubai/dubai-desert-safari-with-camel-ride-and-optional-hatta-extension) collects you mid-afternoon, runs the dunes before sunset and puts you in a camp for dinner; if the dune bashing is the point for you, the [quad and buggy trips](/uae/dubai/fossil-rock-dune-buggy-expedition-from-dubai) go harder. Back in the city, the water is the other half of the experience — [dhow dinner cruises on the creek](/uae/dubai/dubai-dhow-cruise-dinner-with-sea-lounge-seating), [private yachts out of the Marina](/uae/dubai/dubai-private-yacht-cruise-with-optional-gourmet-catering), and [helicopter flights over the Palm and Burj Al Arab](/uae/dubai/dubai-helicopter-tour-over-the-palm-and-burj-al-arab) for the view that puts the whole layout together. Our [Burj Khalifa ticket guide](/uae/dubai/burj-khalifa-tickets-guide), [desert safari guide](/uae/dubai/dubai-desert-safari-guide) and [old Dubai and the souks guide](/uae/dubai/old-dubai-and-the-souks-guide) cover the choices in detail.'
+    ],
+    whyBook: [
+      'Direct booking with licensed Dubai operators, no reseller in the middle',
+      'Desert camps, marina berths and timed attraction slots confirmed before you pay',
+      'Hotel pickup included on most desert and day tours',
+      'Clear answers on what is and is not included, including which cruises are licensed'
+    ],
+    topAttractions: [
+      'Burj Khalifa (levels 124, 125 and 148)',
+      'Al Fahidi Historical Neighbourhood',
+      'Gold Souk & Spice Souk',
+      'Dubai Creek & the abra crossing',
+      'Dubai Marina & JBR',
+      'Palm Jumeirah & Atlantis',
+      'The Dubai Fountain',
+      'Museum of the Future',
+      'Dubai Frame',
+      'The Al Marmoom and Lahbab dunes'
+    ],
+    bestTime: 'The best time to visit Dubai is **November to March**, when daytime temperatures sit in the mid-20s and everything outdoors is comfortable. **December to February** is the peak, and desert camps and the sunset Burj Khalifa slots sell out furthest ahead. **June to September is genuinely severe** — 45C and above with high humidity near the coast — and anything outdoors in the middle of the day is a mistake rather than a challenge; those months are for indoor attractions, and outdoor tours shift to early morning or after dark. Ramadan moves through the calendar and changes opening hours and daytime dining, so check your dates. See our [best time to visit Dubai guide](/uae/dubai/best-time-to-visit-dubai) for the month-by-month detail.',
+    faqs: [
+      {
+        question: 'Which Burj Khalifa ticket should I buy?',
+        answer: 'Levels **124 and 125** are the standard observation decks and are what most people mean by "At The Top". **Level 148** is a separate, considerably more expensive ticket with its own lounge and a much shorter queue. All of them are **timed entry**, and the sunset slots cost the most and sell out first. The [combo with the Dubai Aquarium](/uae/dubai/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket) is good value if you were going to do both anyway. Our [Burj Khalifa tickets guide](/uae/dubai/burj-khalifa-tickets-guide) compares the levels properly.'
+      },
+      {
+        question: 'Is a desert safari worth it, and which one should I pick?',
+        answer: 'Yes, and it is the one thing almost nobody regrets. The differences are in the camp and the driving. A [standard evening safari](/uae/dubai/dubai-desert-safari-with-camel-ride-and-optional-hatta-extension) gives you dune bashing, camel ride, sunset and a buffet with shows. A [VIP option](/uae/dubai/dubai-vip-desert-safari-with-private-seating-and-live-shows) buys you private seating rather than a shared table. If the driving is what you want, take a [quad or buggy](/uae/dubai/dubai-red-dunes-on-a-quad-or-side-by-side-atv) instead. Dune bashing is rough, and it is not advised in pregnancy or with back, neck or heart conditions — you can always ask your driver for a gentler run. Full detail in our [desert safari guide](/uae/dubai/dubai-desert-safari-guide).'
+      },
+      {
+        question: 'How do I get around Dubai without a car?',
+        answer: 'Easily. The **Metro Red and Green lines** cover most of what visitors want, including the Burj Khalifa, the Marina and the creek, and a Nol card works across metro, tram and bus. Taxis and Careem are cheap by international standards and everywhere. The one thing to plan around is traffic on Sheikh Zayed Road in the late afternoon, which is heavy enough to cost you a timed entry slot. Our [getting around Dubai guide](/uae/dubai/getting-around-dubai) has the practical detail.'
+      },
+      {
+        question: 'Is it worth seeing old Dubai, or is it all skyscrapers?',
+        answer: 'It is worth it, and it is the cheapest good few hours in the city. **Al Fahidi** is a district of coral-and-gypsum houses under barjeel wind towers that genuinely work — the lanes run several degrees cooler than the street. From there an **abra crosses Dubai Creek** to the gold and spice souks, where haggling is expected and a guide who knows real saffron from safflower earns their fee. Take the [heritage walk with the souks and an abra crossing](/uae/dubai/old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing) or the [street food version](/uae/dubai/old-dubai-walking-tour-with-souks-street-food-and-abra-ride), and read our [old Dubai and the souks guide](/uae/dubai/old-dubai-and-the-souks-guide) first.'
+      },
+      {
+        question: 'What should I wear in Dubai?',
+        answer: 'Dubai is relaxed by regional standards and normal summer clothing is fine in malls, hotels and on the beach. Where it matters is **mosques**, which require covered hair, arms and legs for women and long trousers and sleeves for men, and the **older districts and souks**, where covering shoulders and knees is respectful and more comfortable in any case. Air conditioning indoors is set genuinely cold, so carry a layer.'
+      },
+      {
+        question: 'Is alcohol served on the dinner cruises?',
+        answer: 'Do not assume it is. **Traditional creek dhows are usually dry**, while the larger Marina yachts and premium dinner cruises are more often licensed. It is decided by the individual boat rather than by the type of cruise, so check the inclusions on the option you select. Alcohol in the UAE is served in licensed venues, and buying it outside them is not straightforward for visitors.'
+      },
+      {
+        question: 'How many days do I need in Dubai?',
+        answer: '**Three full days** covers it without rushing. Day 1: [old Dubai, the souks and the abra](/uae/dubai/old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing), then the Dubai Fountain after dark. Day 2: a [desert safari](/uae/dubai/dubai-desert-safari-with-camel-ride-and-optional-hatta-extension) from mid-afternoon into the evening. Day 3: the modern city — [Burj Khalifa](/uae/dubai/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket), the [Museum of the Future and Dubai Frame](/uae/dubai/dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame), and the Marina in the evening. Our [2-day Dubai itinerary](/uae/dubai/dubai-2-day-itinerary) is the tighter version, and the [UAE itineraries](/uae/itineraries) run from three days upward.'
+      },
+      {
+        question: 'Is Dubai good with children?',
+        answer: 'Unusually good. It is safe, everything is air-conditioned, and the attractions are built for families — the [Dubai Aquarium and Underwater Zoo](/uae/dubai/dubai-aquarium-and-underwater-zoo-ticket), the [Atlantis Lost Chambers](/uae/dubai/atlantis-lost-world-aquarium-day-pass-dubai), and the waterparks. The things to check are **height limits on rides**, which are enforced at the ride rather than the gate, and the heat, which is the real constraint from June to September. See our [Dubai with kids guide](/uae/dubai/dubai-with-kids-guide).'
+      }
+    ]
+  },
+  'Abu Dhabi': {
+    title: 'Abu Dhabi Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Discover the best tours in Abu Dhabi with licensed local operators — the Sheikh Zayed Grand Mosque, Louvre Abu Dhabi, Qasr Al Watan presidential palace, Yas Island theme parks, desert safaris and day trips from Dubai.',
+    intro: [
+      'Abu Dhabi is the quieter, more deliberate of the two big Emirates cities, and it holds the three buildings most people remember from a UAE trip. The [Sheikh Zayed Grand Mosque](/uae/abu-dhabi/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour) is the obvious one and deserves more time than a photo stop. [Louvre Abu Dhabi](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) sits under a dome that filters light like a palm canopy and is worth visiting for the architecture alone. [Qasr Al Watan](/uae/abu-dhabi/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour) is a working presidential palace that opens part of itself to the public.',
+      'Beyond those, the city runs in two directions. **Yas Island** is the entertainment half — [Ferrari World](/uae/abu-dhabi/ferrari-world-abu-dhabi-entry-ticket), [Warner Bros World](/uae/abu-dhabi/warner-bros-world-abu-dhabi-entry-ticket), [SeaWorld](/uae/abu-dhabi/seaworld-abu-dhabi-general-admission-ticket) and [Yas Waterworld](/uae/abu-dhabi/yas-waterworld-abu-dhabi-entry-ticket), all within a few minutes of each other. The other direction is older and slower: the [Heritage Village](/uae/abu-dhabi/abu-dhabi-heritage-village-guided-walking-tour) on the breakwater, the Corniche, and the [desert inland](/uae/abu-dhabi/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner) toward Al Ain. Start with our [Abu Dhabi city guide](/uae/abu-dhabi/abu-dhabi-city-guide) and the [Grand Mosque guide](/uae/abu-dhabi/sheikh-zayed-grand-mosque-guide).'
+    ],
+    whyBook: [
+      'Direct booking with licensed Abu Dhabi operators',
+      'Mosque visits timed around the hours it is actually open to visitors',
+      'Day trips from Dubai with the drive time stated honestly, not hidden',
+      'Timed museum and palace entries confirmed before you pay'
+    ],
+    topAttractions: [
+      'Sheikh Zayed Grand Mosque',
+      'Louvre Abu Dhabi',
+      'Qasr Al Watan',
+      'Ferrari World Abu Dhabi',
+      'Warner Bros World Abu Dhabi',
+      'SeaWorld Abu Dhabi',
+      'Yas Waterworld',
+      'The Corniche',
+      'Heritage Village',
+      'Al Ain & Jebel Hafeet'
+    ],
+    bestTime: 'The best time to visit Abu Dhabi is **November to March**, when the Corniche and the mosque grounds are comfortable to walk and the desert is pleasant rather than punishing. **June to September** regularly passes 45C with coastal humidity, and outdoor sightseeing in the middle of the day is genuinely hard going — those months favour the Louvre, the palace and the indoor parks on Yas Island. Two fixed points to plan around whatever the season: the **Grand Mosque does not admit visitors on Friday mornings**, and **Louvre Abu Dhabi closes on Mondays**. Our [best time to visit Abu Dhabi guide](/uae/abu-dhabi/best-time-to-visit-abu-dhabi) has the month-by-month picture.',
+    faqs: [
+      {
+        question: 'What is the dress code at the Sheikh Zayed Grand Mosque?',
+        answer: 'It is **enforced at the gate**, not loosely. Women need ankle-length, loose clothing with wrists covered and hair covered; men need long trousers and sleeves. Nothing sheer, tight, or carrying visible slogans. Abayas and shaylas are lent free at the entrance, but the queue for them is long at busy times, so it is faster to arrive dressed correctly. Full detail in our [Grand Mosque guide](/uae/abu-dhabi/sheikh-zayed-grand-mosque-guide).'
+      },
+      {
+        question: 'Can I visit the Grand Mosque on a Friday?',
+        answer: 'Not in the morning. **Friday morning is reserved for worshippers** and the mosque does not admit visitors then; it opens to visitors in the afternoon. Every other day it is open through the day. Ramadan runs on reduced hours, so if your dates fall in Ramadan, check with us before booking rather than after.'
+      },
+      {
+        question: 'Is Louvre Abu Dhabi open every day?',
+        answer: 'No — it **closes on Mondays**. The rest of the week it opens late morning and runs into the evening, with **last entry before closing time rather than at it**, so a late-afternoon slot is tighter than it looks. Two hours covers the galleries at a walking pace; three is better if you want to sit under the dome, which is the part most people remember. Book the [general admission ticket](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) or the [express guided tour](/uae/abu-dhabi/louvre-abu-dhabi-express-guided-tour) if you would rather have the context.'
+      },
+      {
+        question: 'Can I visit Abu Dhabi as a day trip from Dubai?',
+        answer: 'Yes, and it is one of the most common things visitors do. The drive is about **90 minutes each way**, which is real time out of your day rather than an aside. A realistic day covers the Grand Mosque and one other major site — usually [Qasr Al Watan](/uae/abu-dhabi/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour) or the Louvre — plus the Corniche. Trying to add Yas Island on top is what makes people feel they saw nothing properly. Our [Abu Dhabi day trip from Dubai guide](/uae/abu-dhabi/abu-dhabi-day-trip-from-dubai) sets out what actually fits.'
+      },
+      {
+        question: 'Which Yas Island park should I choose?',
+        answer: 'It depends on who is going. **Ferrari World** has the record-breaking coasters and suits thrill-seekers and older children. **Warner Bros World** is fully indoors and air-conditioned, which matters enormously in summer, and works best for younger families. **SeaWorld** is the newest and the most educational. **Yas Waterworld** is the one for a hot day. A [multi-park pass](/uae/abu-dhabi/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks) is better value than separate tickets if you are doing more than one. Read our [Yas Island parks guide](/uae/abu-dhabi/yas-island-parks-guide) before choosing.'
+      },
+      {
+        question: 'Is Qasr Al Watan a museum or a real palace?',
+        answer: 'Both, and that is what makes it interesting. It is a **functioning presidential palace** that hosts state business, with part of it opened to the public — which is why entry is ticketed and timed, and why areas occasionally close at short notice for official visits. Inside are the Great Hall under the dome, the House of Knowledge, and the gifts from visiting heads of state. Modest clothing is expected, though not the full mosque dress code. See our [Qasr Al Watan guide](/uae/abu-dhabi/qasr-al-watan-guide).'
+      },
+      {
+        question: 'Is the desert here different from the Dubai safari?',
+        answer: 'The scenery is similar but the experience is quieter. Abu Dhabi safaris run further from the city and are less crowded, and some pair the dunes with a **camel farm** rather than only a camp — the [Bedouin camp dinner safari](/uae/abu-dhabi/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner) and the [BBQ and Tanoura show option](/uae/abu-dhabi/abu-dhabi-desert-safari-with-bbq-and-tanoura-shows) are the two shapes it takes. The same cautions apply as anywhere: dune bashing is rough and is not advised in pregnancy or with back, neck or heart conditions. Our [Abu Dhabi desert safari guide](/uae/abu-dhabi/abu-dhabi-desert-safari-guide) covers the differences.'
+      },
+      {
+        question: 'How many days do I need in Abu Dhabi?',
+        answer: '**Two days** is the honest answer for the city itself. Day 1: the [Grand Mosque and Qasr Al Watan](/uae/abu-dhabi/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour), then the Corniche in the evening. Day 2: either the [Louvre](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) and the [Heritage Village](/uae/abu-dhabi/abu-dhabi-heritage-village-guided-walking-tour), or a full day on Yas Island if you are travelling with children. Add a third for the [desert](/uae/abu-dhabi/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner) or Al Ain. The [UAE itineraries](/uae/itineraries) combine it with Dubai.'
+      }
+    ]
+  },
   'Colombo': {
     title: 'Colombo Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover Colombo with licensed local guides — city sightseeing, Pettah market walks, street food tours, colonial heritage & tuk-tuk experiences.',

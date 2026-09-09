@@ -4,6 +4,952 @@
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
 
+  // --- UAE TOURS (2026-09) ---
+  if (slug === 'abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off in abu dhabi, food and beverages, gratuities. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-desert-safari-with-bbq-and-tanoura-shows') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic beverages, quad biking, souvenir photographs, belly dance is unavailable during ramadan. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "What time does this run, and how long is the drive out?", answer: "Evening safaris typically collect from your hotel mid-afternoon so you reach the dunes before sunset, and return late evening. The desert is roughly 45 minutes to an hour from central Dubai each way, which is time people forget to count." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-dune-bashing-safari-with-camel-farm-visit') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks (available to purchase), quad bike (available for an additional payment). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "What time does this run, and how long is the drive out?", answer: "Evening safaris typically collect from your hotel mid-afternoon so you reach the dunes before sunset, and return late evening. The desert is roughly 45 minutes to an hour from central Dubai each way, which is time people forget to count." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-electric-catamaran-ride-at-the-louvre') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and beverages, souvenir purchases, entry to louvre abu dhabi. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: the museum is closed Mondays; per-boat age and weight limits apply. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is Louvre Abu Dhabi open every day?", answer: "No. It closes on Mondays. The rest of the week it opens late morning and runs into the evening, and the last entry is before closing time rather than at it, so a late-afternoon slot is tighter than it looks." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-emirati-dining-experience') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, tips (not mandatory). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if we are told at the time of booking rather than on the day. Vegetarian is straightforward, vegan and allergy requirements need advance notice because the kitchen orders ahead. Food in the Emirates is halal as standard." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: we confirm both are open on your date before you pay. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "Can I visit on a Friday?", answer: "Friday morning is reserved for worshippers and the mosque does not admit visitors then. It opens to visitors on Friday afternoon. Every other day it is open to visitors through the day. Ramadan has its own reduced hours, so if your trip falls in Ramadan, check with us before booking." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover any extra services or expenses (excluding the above). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "Can I visit on a Friday?", answer: "Friday morning is reserved for worshippers and the mosque does not admit visitors then. It opens to visitors on Friday afternoon. Every other day it is open to visitors through the day. Ramadan has its own reduced hours, so if your trip falls in Ramadan, check with us before booking." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-guided-kayak-tour-around-the-louvre') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover water bottle, museum entrance tickets, hotel pickup and drop-off, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is Louvre Abu Dhabi open every day?", answer: "No. It closes on Mondays. The rest of the week it opens late morning and runs into the evening, and the last entry is before closing time rather than at it, so a late-afternoon slot is tighter than it looks." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover pickup from dubai, any extra services or expenses (excluding the above). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-heritage-village-guided-walking-tour') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport, meals. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How much walking is involved?", answer: "This is a walking tour, so expect to be on your feet for most of it, over a mix of paving, sand and the uneven lanes of the older quarters. Comfortable closed shoes make more difference here than anywhere else in the city." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-morning-desert-drive-with-camel-ride-and-sandboarding') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, unless specified. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-private-helicopter-tour-over-the-corniche') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What happens if the flight is cancelled for weather?", answer: "Flights are grounded for wind, haze and low visibility, and that decision sits with the operator on the day. It is normally rescheduled to the next available slot, or refunded if you are leaving. Book this early in your trip rather than on your last day." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-reem-central-park-guided-kayak-tour') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, towels, water bottle, gratuities. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'abu-dhabi-shared-helicopter-tour-over-the-corniche') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What happens if the flight is cancelled for weather?", answer: "Flights are grounded for wind, haze and low visibility, and that decision sits with the operator on the day. It is normally rescheduled to the next available slot, or refunded if you are leaving. Book this early in your trip rather than on your last day." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover other expenses, tips. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'al-ain-full-day-tour-from-abu-dhabi-with-entry-tickets') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips, camel market is currently under renovation, it will not be available to visit for a short period. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How long is the drive?", answer: "Longer than the distance suggests, and it is the part people underestimate. Al Ain is roughly 90 minutes to two hours from either city, Hatta about 90 minutes from Dubai, and the east coast around two hours. That travel time is part of the day, not on top of it." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'al-marmoom-heritage-desert-safari-with-vintage-g-class-and-oasis-dinner') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips (not mandatory). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'al-marmoom-oasis-arabian-horse-riding-experience') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover pony ride for children. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'al-marmoom-oasis-desert-afternoon-high-tea') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic beverages, expenses that are not mentioned, tipping (not mandatory, but appreciated). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "What should I wear?", answer: "Closed shoes, long trousers and clothes you do not mind getting sandy. Sunglasses matter more than people expect, because fine sand in a moving vehicle goes straight for your eyes." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'atlantis-aquaventure-waterpark-day-pass-dubai') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover aqua xpress - fast pass (available for purchase onsite) for aed 225 - aed 795 depending on season/date of visit, towel and locker rental (available for purchase onsite), meals. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: towels and lockers cost extra; bring your own towel. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'atlantis-lost-world-aquarium-day-pass-dubai') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover guided tour, optional snorkeling and diving experiences, souvenirs and/or retail. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: this is aquarium only — the waterpark next door is a separate ticket. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'aya-universe-dubai-entry-ticket') {
+    return [
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "What should I bring?", answer: "Sun protection, more water than you think, and a layer for interiors, because air-conditioning in the Emirates is set genuinely cold. Closed comfortable shoes for anything involving walking." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'burj-khalifa-124-125-and-dubai-aquarium-combo-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: level 148 is a separate higher deck and is not included. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is level 148 included, or is that a different ticket?", answer: "They are different tickets. Levels 124 and 125 are the standard observation decks. Level 148 is the At The Top SKY ticket, sits considerably higher, comes with a separate lounge and a shorter queue, and costs a good deal more. Check which one the option you select actually covers." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dibba-fujairah-snorkelling-day-trip-from-dubai') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: dubai-Fujairah transport carries an AED 160 surcharge paid on arrival. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'discover-scuba-diving-in-dubai-first-dive') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover transportation. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-abra-boat-tour-past-atlantis-and-ain-dubai') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a timed ticket?", answer: "Yes. You choose an entry window and are admitted within it. Arriving well outside your slot is the single most common way people lose a booking, so treat the time on the ticket as the appointment it is." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-aquarium-and-underwater-zoo-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and beverages, photos. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: several ticket tiers exist — we confirm the right one before you pay. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-azimut-42-private-yacht-cruise-for-small-groups') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "What happens if it rains?", answer: "Rain is rare enough in the Emirates not to be the real risk; wind is. If the sea state makes the sailing unsafe the operator reschedules or refunds. Light rain alone will normally not stop a cruise." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-can-am-1000cc-buggy-desert-adventure') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks (available to purchase), souvenir photos (available to purchase), tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: genuinely physical and dusty — not a gentle sunset drive. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-convertible-mustang-city-tour-with-a-guide') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: two-door cars — not the option for a large family. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "How much walking is involved?", answer: "This is a walking tour, so expect to be on your feet for most of it, over a mix of paving, sand and the uneven lanes of the older quarters. Comfortable closed shoes make more difference here than anywhere else in the city." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-desert-park-horseback-riding-hour') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities (optional), transfers. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: the extension must be chosen at booking; it changes vehicle and timing. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-dhow-cruise-dinner-with-sea-lounge-seating') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic beverages, tips, transportation from hotel. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-dinner-cruise-with-a-chef-designed-menu-and-live-music') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pick-up and drop-off (transfer available at additional cost), alcoholic beverages (available for purchase at the onboard bar), special event decorations or custom setups (available upon request at additional cost). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: harnessed in with no leaving the table, and weather can move your slot. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "What should I bring?", answer: "Sun protection, more water than you think, and a layer for interiors, because air-conditioning in the Emirates is set genuinely cold. Closed comfortable shoes for anything involving walking." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks (available to purchase), souvenir photos (available to purchase), tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: inclusions vary by tier — we confirm exactly what yours covers before payment. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-flyboard-session-with-instructor-off-the-burj-al-arab') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-fountain-abra-lake-ride-at-the-burj-khalifa') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: evening slots book out at weekends; expect some spray. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is level 148 included, or is that a different ticket?", answer: "They are different tickets. Levels 124 and 125 are the standard observation decks. Level 148 is the At The Top SKY ticket, sits considerably higher, comes with a separate lounge and a shorter queue, and costs a good deal more. Check which one the option you select actually covers." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-four-hour-deep-sea-fishing-trolling-and-casting') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: book the early slot; and bring something for seasickness. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need a fishing licence?", answer: "Not as a guest. The boat operates under its own commercial licence and that covers everyone aboard for the trip." },
+      { question: "What happens to the fish I catch?", answer: "That varies by operator and is worth confirming. Some let you keep the catch, some have a local restaurant cook it for you, and some run catch-and-release on certain species. UAE waters also have protected species and closed seasons that the crew will enforce." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover guided tour inside the frame, tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a timed ticket?", answer: "Yes. You choose an entry window and are admitted within it. Arriving well outside your slot is the single most common way people lose a booking, so treat the time on the ticket as the appointment it is." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic beverages, gratuities (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "What time does this run, and how long is the drive out?", answer: "Evening safaris typically collect from your hotel mid-afternoon so you reach the dunes before sunset, and return late evening. The desert is roughly 45 minutes to an hour from central Dubai each way, which is time people forget to count." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-full-day-guided-tour-mosque-souks-and-burj-khalifa') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and beverages, at the top burj khalifa experience, transfers back to the hotel are not included for guests who choose to enjoy leisure time at dubai mall or visit the at the top burj khalifa experience. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is level 148 included, or is that a different ticket?", answer: "They are different tickets. Levels 124 and 125 are the standard observation decks. Level 148 is the At The Top SKY ticket, sits considerably higher, comes with a separate lounge and a shorter queue, and costs a good deal more. Check which one the option you select actually covers." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-global-village-entry-ticket-with-hotel-transfers') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips, guide, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-guided-jet-ski-ride-with-onboard-sound-system') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, tips. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "What should I bring?", answer: "Swimwear worn under your clothes, a towel, a change of clothes and reef-safe sunscreen. Leave anything you cannot afford to lose on shore, because phones do go overboard." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-helicopter-flight-and-desert-safari-combined-day') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover tips (not mandatory), drop-off to your hotel. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: the flight is weather-dependent; the desert half runs regardless. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-helicopter-flight-with-old-town-walking-tour-and-abra') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch (at your own expense), tipping (not mandatory). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What happens if the flight is cancelled for weather?", answer: "Flights are grounded for wind, haze and low visibility, and that decision sits with the operator on the day. It is normally rescheduled to the next available slot, or refunded if you are leaving. Book this early in your trip rather than on your last day." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-helicopter-tour-over-the-palm-and-burj-al-arab') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: seating is assigned by the crew; window seats cannot be pre-booked. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What happens if the flight is cancelled for weather?", answer: "Flights are grounded for wind, haze and low visibility, and that decision sits with the operator on the day. It is normally rescheduled to the next available slot, or refunded if you are leaving. Book this early in your trip rather than on your last day." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover towels, shower facilities (not allowed in the marina to maintain its premium and clean environment), changing rooms (not allowed in the marina to maintain its premium and clean environment). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "What should I bring?", answer: "Swimwear worn under your clothes, a towel, a change of clothes and reef-safe sunscreen. Leave anything you cannot afford to lose on shore, because phones do go overboard." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover entry tickets. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a timed ticket?", answer: "Yes. You choose an entry window and are admitted within it. Arriving well outside your slot is the single most common way people lose a booking, so treat the time on the ticket as the appointment it is." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-marina-luxury-yacht-cruise-with-onboard-barbecue') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks (buy at bar), hotel pickup and drop-off, swim stops, bbq food (not available on 2hr atlantis palm & 1 hour tours). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-marina-mega-yacht-dinner-cruise-with-international-buffet') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pick up and drop off, wifi, paid parking. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-marina-sightseeing-yacht-hour-with-live-commentary') {
+    return [
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "What happens if it rains?", answer: "Rain is rare enough in the Emirates not to be the real risk; wind is. If the sea state makes the sailing unsafe the operator reschedules or refunds. Light rain alone will normally not stop a cruise." },
+      { question: "Is there a dress code?", answer: "Smart-casual is right for the dinner cruises, and flat shoes are the practical choice on any deck. For daytime boat trips, normal summer clothing with sun cover is fine." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-marina-yacht-tour-with-breakfast-or-barbecue') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, swimming, dietary restrictions, alcoholic drinks from the bar. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-miracle-garden-entry-ticket-with-hotel-transfer') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-modern-landmarks-afternoon-tour-with-palm-monorail') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and beverages, gratuities, at the top burj khalifa experience, transfers back to the hotel are not included for guests who choose to avail dubai mall leisure time or at the top khalifa experience. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How much walking is involved?", answer: "This is a walking tour, so expect to be on your feet for most of it, over a mix of paving, sand and the uneven lanes of the older quarters. Comfortable closed shoes make more difference here than anywhere else in the city." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-new-years-eve-megayacht-cruise-with-dinner-and-fireworks') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pick-up and drop-off, gratuities, safety deposit boxes, wardrobe service. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-night-kayaking-with-illuminated-kayaks-and-skyline-views') {
+    return [
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "What should I bring?", answer: "Swimwear worn under your clothes, a towel, a change of clothes and reef-safe sunscreen. Leave anything you cannot afford to lose on shore, because phones do go overboard." },
+      { question: "Is it cancelled if it is windy?", answer: "Sea state, not rain, is what stops these. If it is called off for safety you are rescheduled or refunded. The Gulf is usually calmest early in the morning, which is why the early slots are the reliable ones." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-one-hour-jet-ski-tour-to-atlantis-and-the-palm') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-overnight-desert-safari-with-private-tent-and-stargazing') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, quad bike/dune buggy activities (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-parasailing-off-the-burj-al-arab-solo-or-tandem') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover photo package (optional at check-in). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: weather-dependent, and sunglasses need a strap. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-parasailing-over-the-marina-with-palm-and-jbr-views') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover photo package (optional at check-in), hotel pickup and drop-off (additional cost), locker. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need to be able to swim?", answer: "For anything in open water, yes, and buoyancy aids are worn regardless. Say clearly at the briefing if you are a weak swimmer, because the crew will position you differently rather than turn you away." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-premium-desert-safari-al-khayma-camp-with-three-buffets') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "What time does this run, and how long is the drive out?", answer: "Evening safaris typically collect from your hotel mid-afternoon so you reach the dunes before sunset, and return late evening. The desert is roughly 45 minutes to an hour from central Dubai each way, which is time people forget to count." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-private-cruise-with-a-swim-stop-and-sunbathing') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, towels. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-private-deep-sea-fishing-trip-with-your-catch-grilled') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need a fishing licence?", answer: "Not as a guest. The boat operates under its own commercial licence and that covers everyone aboard for the trip." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-private-highlights-tour-with-street-food-and-a-premium-car') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover guided tour inside the frame, tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-private-yacht-cruise-with-optional-gourmet-catering') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover transportation to meeting point, hotel pickup and drop-off. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-private-yacht-hire-for-up-to-twelve-guests') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "What happens if it rains?", answer: "Rain is rare enough in the Emirates not to be the real risk; wind is. If the sea state makes the sailing unsafe the operator reschedules or refunds. Light rain alone will normally not stop a cruise." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-quad-bike-or-dune-buggy-session-with-optional-transfer') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover insurance. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: dusty and physical; closed shoes required. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic beverages, gratuities (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-red-dunes-on-a-quad-or-side-by-side-atv') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities, meals, quad/atv damage coverage or personal travel insurance. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-red-dunes-self-drive-quad-or-buggy-with-camel-ride') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pick-up and drop off, dune bashing by 4wd vehicle. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-self-drive-polaris-buggy-desert-adventure') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks (available to purchase), souvenir photos (available to purchase). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-sunseeker-superyacht-omakase-dinner-cruise') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, add-ons. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-sunset-yacht-cruise-with-snacks-and-drinks') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, alcoholic drinks (available to purchase on board), own food and drinks (only when you opt for a private option). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers, photographs, cocktails. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dubai-vip-desert-safari-with-private-seating-and-live-shows') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover quad bike and dune buggy (available at the venue for an additional fee). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ferrari-world-abu-dhabi-entry-ticket') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover quick pass (can be purchased separately), karting and scuderia challenge f1 simulation rides, food and drinks, transfers to the amusement park. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'fort-lisaili-desert-safari-with-camp-dinner-and-shows') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover belly dance shows will not be performed during ramadan. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: dinner, shows and transfers are all tier-dependent — we confirm yours first. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is dune bashing safe, and can I opt out?", answer: "It is a controlled drive by an experienced driver, but it is genuinely rough. It is not advised in pregnancy, or with back, neck or heart conditions, and it is a common cause of motion sickness. You can ask your driver for a gentler drive, and that request is normal rather than awkward." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'fossil-rock-dune-buggy-expedition-from-dubai') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: dusty and physical; closed shoes and no shade on the route. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Do I need any experience?", answer: "No. These activities are run with instruction first and a guide alongside, and they are built for people trying them for the first time. Say so when you arrive and the pace is set accordingly." },
+      { question: "What should I wear?", answer: "Closed shoes, long trousers and clothes you do not mind getting sandy. Sunglasses matter more than people expect, because fine sand in a moving vehicle goes straight for your eyes." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: we build the running order around the Friday and Monday closures. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "How long is the drive?", answer: "Longer than the distance suggests, and it is the part people underestimate. Al Ain is roughly 90 minutes to two hours from either city, Hatta about 90 minutes from Dubai, and the east coast around two hours. That travel time is part of the day, not on top of it." },
+      { question: "Do I need my passport or Emirates ID?", answer: "For trips within the UAE, photo ID is sensible but not usually required. Anything crossing into Oman, including some Musandam and border-area routes, requires a passport and can involve visa formalities. Check with us before booking if your route touches the border." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'fujairah-east-coast-day-tour-from-dubai-with-khor-fakkan') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch, tips. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How long is the drive?", answer: "Longer than the distance suggests, and it is the part people underestimate. Al Ain is roughly 90 minutes to two hours from either city, Hatta about 90 minutes from Dubai, and the east coast around two hours. That travel time is part of the day, not on top of it." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'house-of-hype-dubai-mall-entry-ticket') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover food, transfers. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a timed ticket?", answer: "Yes. You choose an entry window and are admitted within it. Arriving well outside your slot is the single most common way people lose a booking, so treat the time on the ticket as the appointment it is." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'la-perle-by-dragone-show-tickets-dubai') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover merchandise, valet parking. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: front rows are a genuine splash zone; arrive thirty minutes early. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover clothes for extra coverage, guided tour of the louvre, gratuities. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the dress code, and is it enforced?", answer: "It is enforced at the gate, not loosely. Women need ankle-length, loose clothing with wrists and hair covered; men need long trousers and sleeves. Nothing sheer or tight, and no visible logos or slogans. Abayas and shaylas are lent free at the entrance if you arrive without them, but the queue for them is long at peak times, so it is quicker to dress correctly beforehand." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'louvre-abu-dhabi-express-guided-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover admission ticket (adults 18+) should be purchased separately. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: museum entry is NOT included and must be booked with it. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is Louvre Abu Dhabi open every day?", answer: "No. It closes on Mondays. The rest of the week it opens late morning and runs into the evening, and the last entry is before closing time rather than at it, so a late-afternoon slot is tighter than it looks." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'louvre-abu-dhabi-general-admission-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, guided tour and workshop, kayaking and electric catamaran, vr experience. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: closed on Mondays — the single most common mistake here. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is Louvre Abu Dhabi open every day?", answer: "No. It closes on Mondays. The rest of the week it opens late morning and runs into the evening, and the last entry is before closing time rather than at it, so a late-afternoon slot is tighter than it looks." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'musandam-dibba-dhow-cruise-day-trip-from-dubai') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: crosses a border — bring your original passport; we check visa rules first. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "What happens if it rains?", answer: "Rain is rare enough in the Emirates not to be the real risk; wind is. If the sea state makes the sailing unsafe the operator reschedules or refunds. Light rain alone will normally not stop a cruise." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'museum-of-illusions-dubai-entry-ticket') {
+    return [
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: the vortex tunnel really does affect balance — ask for the way around it. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'natural-history-museum-abu-dhabi-entry-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover guided tour. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover any private expenses. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How much walking is involved?", answer: "This is a walking tour, so expect to be on your feet for most of it, over a mix of paving, sand and the uneven lanes of the older quarters. Comfortable closed shoes make more difference here than anywhere else in the city." },
+      { question: "Is it too hot to do this in summer?", answer: "From June to September the middle of the day outdoors is genuinely punishing, and even locals avoid it. Early morning or after sunset is the only sensible time in those months. From November to March the weather is close to ideal all day." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'old-dubai-walking-tour-with-souks-street-food-and-abra-ride') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes, hotel pickup and drop-off are included. Your pickup time and place are confirmed by the operator after you book, and the collection window is usually a little wider than a fixed minute because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips (optional). Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "How much walking is involved?", answer: "This is a walking tour, so expect to be on your feet for most of it, over a mix of paving, sand and the uneven lanes of the older quarters. Comfortable closed shoes make more difference here than anywhere else in the city." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'palm-jumeirah-beach-day-pass-with-skyline-views') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover transportation. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-beach-dinner-on-the-palm-jumeirah') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover any extra drinks or food. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: priced as an occasion rather than as dinner — that is the trade. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-yacht-charter-around-the-palm-jumeirah') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, and the Dubai Metro covers most of the main sights. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pick-up/drop-off, gratuities. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is alcohol served on board?", answer: "Do not assume it is. Traditional creek dhows are usually dry, while marina yachts and the larger dinner cruises are more often licensed. It is decided by the boat, not by the itinerary, so check the inclusions on the option you pick." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'seaworld-abu-dhabi-general-admission-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover quick pass/fast track upgrades are not included and can be purchased separately at the parks, food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: animal encounter add-ons are extra and do not include admission. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'teamlab-phenomena-abu-dhabi-entry-ticket') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover transportation to/from the attraction. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'the-green-planet-dubai-indoor-rainforest-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is there anything I should know before booking?", answer: "One thing worth flagging: rainforest humidity fogs camera lenses — let them adjust. It is the detail guests most often miss on this experience, so it is better read now than discovered on the day." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'warner-bros-world-abu-dhabi-entry-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover quick pass (can be purchased separately), food and drinks. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover quick pass/fast track upgrades are not included and can be purchased separately at the parks, food and drinks, optional premium experiences and add-ons, souvenirs and personal expenses. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yas-waterworld-abu-dhabi-entry-ticket') {
+    return [
+      { question: "Do I need to arrange my own transport?", answer: "Yes. Transport is not included here, so you make your own way to the meeting point. Taxis and Careem are cheap and everywhere, though Abu Dhabi has no metro, so a car is the way to get around. Allow for traffic, which is heavy in the late afternoon." },
+      { question: "What is not included in the price?", answer: "The price does not cover quick pass (if the option is selected), food and drinks, transportation to and from the water park. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is this a full-day attraction?", answer: "Plan for most of a day rather than a couple of hours. Between queues, the walk between zones and the heat, a rushed visit is where people feel they did not get their money's worth." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'zayed-national-museum-abu-dhabi-entry-ticket') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover guided tour. Everything the price does cover is listed in full on this page, so if something is not on that list you should budget for it separately." },
+      { question: "Is a guide included with this ticket?", answer: "No. This is an entry ticket, so you go in at your own pace and there is no guide with you. If you would rather have someone explaining what you are looking at, we list guided options for the same sites separately." },
+      { question: "What is the best time of year for this?", answer: "November to March is the comfortable season in the Emirates and it is when almost everything is at its best. From June to September, daytime temperatures above 45C make anything outdoors hard work, and indoor attractions are the sensible choice." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we take it as final, and we need at least one day's notice for anything outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
   // --- KYOTO TOURS (2026-08) ---
   if (slug === 'kyoto-legends-guided-tour') {
     return [
