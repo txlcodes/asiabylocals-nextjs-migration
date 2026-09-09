@@ -37,6 +37,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'nara': { country: 'japan', city: 'nara' },
   'nagoya': { country: 'japan', city: 'nagoya' },
   'hakone': { country: 'japan', city: 'hakone' },
+  'mount-fuji': { country: 'japan', city: 'mount-fuji' },
   'bali': { country: 'indonesia', city: 'ubud' },
   'yogyakarta': { country: 'indonesia', city: 'yogyakarta' },
   'bangkok': { country: 'thailand', city: 'bangkok' },

@@ -175,7 +175,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ALWAYS_INDEX_CITIES = new Set([
     'agra', 'delhi', 'jaipur', 'mumbai', 'kashmir',
     'bangkok', 'chiang-mai', 'phuket', 'krabi', 'pattaya',
-    'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone',
+    'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone', 'mount-fuji',
     'colombo', 'kandy', 'galle', 'negombo', 'sigiriya', 'bentota', 'mirissa', 'ella', 'nuwara-eliya',
     'dubai', 'abu-dhabi',
   ]);

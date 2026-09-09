@@ -35,6 +35,28 @@ const RESERVED_TOP_LEVEL = new Set([
   'verify-email',
 ]);
 
+
+// Tours that were filed under the wrong city and have since been moved. These
+// URLs were live and in the sitemap, so they must redirect rather than 404.
+//
+// Hakone was being used as a catch-all for the whole Mt Fuji area: summit
+// climbs from Fujinomiya and Subashiri, Kawaguchiko day tours, the Chureito
+// Pagoda, Aokigahara. A Kawaguchiko guide spotted it on his own listing within
+// minutes of us contacting him, which is how it surfaced. These now live under
+// /japan/mount-fuji/.
+const MOVED_CITY: Record<string, { from: string; to: string }> = {
+  'mount-fuji-signature-private-day-tour-kawaguchiko': { from: 'hakone', to: 'mount-fuji' },
+  'kawaguchiko-to-hakone-private-guided-transfer': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-private-car-day-tour-from-tokyo': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-fifth-station-private-day-tour': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-summit-climb-fujinomiya-route-2-days': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-summit-climb-subashiri-route-2-days': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-sunrise-summit-climb-2-days': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-prince-route-private-climb-2-days': { from: 'hakone', to: 'mount-fuji' },
+  'aokigahara-lava-forest-guided-nature-walk': { from: 'hakone', to: 'mount-fuji' },
+  'mount-hoei-crater-day-trek-fuji': { from: 'hakone', to: 'mount-fuji' },
+};
+
 export function middleware(request: NextRequest) {
   const { pathname, search } = request.nextUrl;
   const segments = pathname.split('/').filter(Boolean);
@@ -46,6 +68,13 @@ export function middleware(request: NextRequest) {
   const city = citySegment.toLowerCase();
 
   if (RESERVED_TOP_LEVEL.has(country)) return NextResponse.next();
+
+  // A tour that has been recategorised: keep its old URL working.
+  const moved = rest.length === 1 ? MOVED_CITY[rest[0]] : undefined;
+  if (moved && city === moved.from) {
+    return NextResponse.redirect(
+      new URL(['', country, moved.to, rest[0]].join('/') + search, request.url), 308);
+  }
 
   // A city we know about, sitting under the wrong country → send it home.
   const mapping = CITY_URL_MAP[city];

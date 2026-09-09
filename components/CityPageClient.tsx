@@ -28,6 +28,68 @@ const CITY_DESCRIPTIONS: Record<string, {
   bestTime: string;
   faqs: { question: string; answer: string }[];
 }> = {
+  'Mount Fuji': {
+    title: 'Mount Fuji Tours & Things to Do | Guided Experiences by Locals',
+    description: 'Guided Mount Fuji experiences with licensed local operators — two-day summit climbs on the Fujinomiya, Subashiri and Prince routes, private day tours to Kawaguchiko and the Chureito Pagoda, the Fifth Station, and the Aokigahara forest.',
+    intro: [
+      'Mount Fuji is two completely different trips and booking the wrong one is the usual mistake. There is the **climb**, which runs only in the official season of roughly early July to early September, takes two days properly done, and is a long night walk on volcanic scree rather than a hike with a view. And there is the **Fuji you look at**, which is available all year and is where almost everyone actually wants to be: Kawaguchiko, the Chureito Pagoda, Oshino Hakkai and the Fifth Station.',
+      'If you want the summit, the route matters more than the operator. [Fujinomiya](/japan/mount-fuji/mount-fuji-summit-climb-fujinomiya-route-2-days) is the shortest and steepest, [Subashiri](/japan/mount-fuji/mount-fuji-summit-climb-subashiri-route-2-days) is the quietest and runs through forest before the tree line, and the [Prince Route](/japan/mount-fuji/mount-fuji-prince-route-private-climb-2-days) avoids the worst of the crowding through the Hoei crater. There is also a [sunrise summit climb with Tokyo transfers](/japan/mount-fuji/mount-fuji-sunrise-summit-climb-2-days) if you would rather not arrange the getting there.',
+      'If you want the view, a private car day is the honest answer, because the sights are spread around the lakes and the buses between them eat the day. Our [signature Kawaguchiko day](/japan/mount-fuji/mount-fuji-signature-private-day-tour-kawaguchiko), the [Chureito Pagoda and Kawaguchiko car tour from Tokyo](/japan/mount-fuji/mount-fuji-private-car-day-tour-from-tokyo) and the [Fifth Station day](/japan/mount-fuji/mount-fuji-fifth-station-private-day-tour) all cover it. For something slower there is the [Aokigahara lava forest walk](/japan/mount-fuji/aokigahara-lava-forest-guided-nature-walk) and the [Mount Hoei crater trek](/japan/mount-fuji/mount-hoei-crater-day-trek-fuji) on the mountain\'s flank. Pairing Fuji with [Hakone](/japan/hakone) is common and we list that as its own thing.'
+    ],
+    whyBook: [
+      'Licensed Japanese guides and drivers, booked direct',
+      'Summit climbs run by operators who do this route every season, not generalists',
+      'Private cars on the lakes, because the bus timetable is what ruins these days',
+      'Honest answers about whether the mountain will actually be visible'
+    ],
+    topAttractions: [
+      'Fuji Fifth Station (Subaru Line)',
+      'Lake Kawaguchiko',
+      'Chureito Pagoda',
+      'Oshino Hakkai',
+      'Aokigahara lava forest',
+      'Mount Hoei crater',
+      'Fujinomiya, Subashiri and Yoshida trails',
+      'Fuji Five Lakes',
+      'Arakurayama Sengen Park',
+      'Lake Saiko and Lake Motosu'
+    ],
+    bestTime: 'For the **climb**, the official season is roughly **early July to early September** and that is the only time huts, trail staff and mountain rescue are in place. Climbing outside it is a genuinely different and more dangerous proposition. For **seeing** the mountain, the cold months are far better: **November to February** give the clearest air and the highest chance Fuji is out at all, and the classic Chureito Pagoda photograph with snow on the cone is a winter one. Summer is the cruel irony here, because the season you can climb it is the season you often cannot see it. **April** brings the cherry blossom at Arakurayama and **late October to mid November** the autumn colour around the lakes, both of which are worth planning around.',
+    faqs: [
+      {
+        question: 'Can I climb Mount Fuji outside the summer season?',
+        answer: 'Not on these tours, and you should not attempt it alone. The official season runs roughly **early July to early September**, and it is when the mountain huts, the trail staff and the rescue cover are actually in place. Outside it the trails are closed, the huts are shut, and conditions on the upper mountain are alpine. If your dates fall outside the season, the [Fifth Station day tour](/japan/mount-fuji/mount-fuji-fifth-station-private-day-tour) is the sensible substitute.'
+      },
+      {
+        question: 'Which climbing route should I choose?',
+        answer: '**Fujinomiya** is the shortest ascent and the steepest, which suits fit walkers short on time. **Subashiri** starts lower and passes through forest before the tree line, and is the quietest of the main routes. The **Prince Route** goes through the Hoei crater and avoids the worst of the congestion. All three are two-day trips with a hut stay, which is the correct way to do it: the single-night dash from the Fifth Station is where altitude sickness and exhaustion come from.'
+      },
+      {
+        question: 'Will I actually see Mount Fuji?',
+        answer: 'Honestly, sometimes not. The mountain makes its own cloud and it is hidden more often than the photographs suggest, particularly in summer. Your odds are best in **the cold months, early in the morning**. No operator can guarantee a view and none of these tours refund for cloud, so build it into a trip rather than around it. Winter mornings from the Kawaguchiko side are the reliable bet.'
+      },
+      {
+        question: 'Do I need a private car, or can I use the buses?',
+        answer: 'You can use buses, but the Fuji sights are spread around the lakes and the connections between them are infrequent. On a day trip the timetable, not the distance, is what limits how much you see. A [private car day](/japan/mount-fuji/mount-fuji-private-car-day-tour-from-tokyo) is the difference between three stops and one. If you are staying overnight in Kawaguchiko, buses become much more workable.'
+      },
+      {
+        question: 'What should I bring for the summit climb?',
+        answer: 'Proper layers, a windproof outer, a headtorch, gloves and cash in small coins for the mountain toilets. The summit is often near freezing with strong wind even in August, while the trailhead is warm. Altitude is the other factor: the Fifth Station is already at around 2,300 metres and the summit is 3,776, which is why the two-day format with a hut night exists.'
+      },
+      {
+        question: 'Is the Chureito Pagoda worth the climb?',
+        answer: 'Yes, and it is around 400 steps, which is the part nobody mentions. It gives the single most recognisable view in Japan, the pagoda in the foreground with Fuji behind, and it is best in the early morning light or during the April blossom. It is included in the [Chureito and Kawaguchiko car tour](/japan/mount-fuji/mount-fuji-private-car-day-tour-from-tokyo).'
+      },
+      {
+        question: 'Can I combine Mount Fuji with Hakone in one day?',
+        answer: 'It is possible and we list it, but be clear about the trade. Fuji and Hakone are around 90 minutes apart and doing both in a day means a long drive and a shallow visit to each. If you have two days, give each one. If you have one, our [Hakone tours](/japan/hakone) are the easier day and still give you Fuji views across Lake Ashi on a clear morning.'
+      },
+      {
+        question: 'How far is Mount Fuji from Tokyo?',
+        answer: 'Around two to two and a half hours each way by road, and traffic on the return into Tokyo on a Sunday evening can add a great deal to that. A day trip is realistic but long, roughly 11 to 12 hours door to door. If Fuji is a priority rather than a tick, staying a night at Kawaguchiko changes the trip completely and gets you the morning light.'
+      }
+    ]
+  },
   'Dubai': {
     title: 'Dubai Tours & Things to Do | Guided Experiences by Locals',
     description: 'Discover the best tours in Dubai with licensed local operators — desert safaris with dune bashing and camp dinners, Burj Khalifa tickets, old town souk walks with an abra crossing, marina yacht cruises and helicopter flights over the Palm.',
