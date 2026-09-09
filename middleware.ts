@@ -55,6 +55,7 @@ const MOVED_CITY: Record<string, { from: string; to: string }> = {
   'mount-fuji-prince-route-private-climb-2-days': { from: 'hakone', to: 'mount-fuji' },
   'aokigahara-lava-forest-guided-nature-walk': { from: 'hakone', to: 'mount-fuji' },
   'mount-hoei-crater-day-trek-fuji': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-chureito-pagoda-oshino-hakkai-day-tour': { from: 'hakone', to: 'mount-fuji' },
 };
 
 export function middleware(request: NextRequest) {
