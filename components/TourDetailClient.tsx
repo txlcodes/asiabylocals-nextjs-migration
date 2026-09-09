@@ -223,15 +223,29 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   //
   // One day, not two. The failure this guards against was a same-day booking —
   // a Kyoto workshop booked at 02:29 for that same morning, which the studio
-  // was never told about — and one day blocks that. Two days would also block
-  // tomorrow, which on the bookings taken so far costs twice as many of them
-  // for no extra safety.
-  const LEAD_DAYS = String(tour?.country || '').trim().toLowerCase() === 'india' ? 0 : 1;
+  // was never told about — and one day blocks that.
+  //
+  // "Today" has to mean today WHERE THE TOUR IS, not in the guest's browser.
+  // Japan is nine hours ahead of UTC and twelve or more ahead of North America:
+  // a guest booking from Canada on the evening of the 8th is looking at a tour
+  // on the 9th that has already started in Tokyo. Using the browser clock would
+  // wave that through.
+  const TOUR_TZ: Record<string, string> = {
+    india: 'Asia/Kolkata', japan: 'Asia/Tokyo', thailand: 'Asia/Bangkok',
+    'sri lanka': 'Asia/Colombo', uae: 'Asia/Dubai', nepal: 'Asia/Kathmandu',
+  };
+  const tourCountry = String(tour?.country || '').trim().toLowerCase();
+  const LEAD_DAYS = tourCountry === 'india' ? 0 : 1;
   const earliestBookable = (() => {
-    const d = new Date();
-    d.setHours(0, 0, 0, 0);
-    d.setDate(d.getDate() + LEAD_DAYS);
-    return d;
+    const tz = TOUR_TZ[tourCountry] || 'Asia/Dubai';
+    // en-CA formats as YYYY-MM-DD, which parses back cleanly
+    const [y, m, d] = new Intl.DateTimeFormat('en-CA', {
+      timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit',
+    }).format(new Date()).split('-').map(Number);
+    const local = new Date(y, m - 1, d);
+    local.setHours(0, 0, 0, 0);
+    local.setDate(local.getDate() + LEAD_DAYS);
+    return local;
   })();
 
   useEffect(() => {
