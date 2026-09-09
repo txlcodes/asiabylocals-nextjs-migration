@@ -393,19 +393,22 @@ const NAGOYA_SIDEBAR = [
 ];
 
 const HAKONE_SIDEBAR = [
-    { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
-    { name: 'Chureito Pagoda', slug: 'chureito-pagoda-guide' },
-    { name: 'Kawaguchiko Guide', slug: 'kawaguchiko-guide' },
     { name: 'Owakudani & Black Eggs', slug: 'owakudani-black-eggs-guide' },
     { name: 'Open-Air Museum', slug: 'hakone-open-air-museum-guide' },
     { name: 'Yosegi Marquetry', slug: 'hakone-yosegi-marquetry-guide' },
-    { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
     { name: 'Hakone Onsen Guide', slug: 'hakone-onsen-guide' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-hakone' },
     { name: 'Getting Around', slug: 'getting-around-hakone' },
     { name: '2-Day Itinerary', slug: 'hakone-2-day-itinerary' },
     { name: 'Where to Stay in Hakone', slug: 'where-to-stay-in-hakone' },
     { name: 'Hakone or Kawaguchiko?', slug: 'hakone-or-kawaguchiko-for-mount-fuji' },
+];
+
+const MOUNT_FUJI_SIDEBAR = [
+    { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
+    { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
+    { name: 'Chureito Pagoda', slug: 'chureito-pagoda-guide' },
+    { name: 'Kawaguchiko Guide', slug: 'kawaguchiko-guide' },
 ];
 
 const SAPPORO_SIDEBAR = [
@@ -523,6 +526,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         nara: NARA_SIDEBAR,
         nagoya: NAGOYA_SIDEBAR,
         hakone: HAKONE_SIDEBAR,
+        'mount-fuji': MOUNT_FUJI_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

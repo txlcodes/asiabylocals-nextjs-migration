@@ -56,6 +56,11 @@ const MOVED_CITY: Record<string, { from: string; to: string }> = {
   'aokigahara-lava-forest-guided-nature-walk': { from: 'hakone', to: 'mount-fuji' },
   'mount-hoei-crater-day-trek-fuji': { from: 'hakone', to: 'mount-fuji' },
   'mount-fuji-chureito-pagoda-oshino-hakkai-day-tour': { from: 'hakone', to: 'mount-fuji' },
+  // ...and the Fuji guides that were filed under Hakone too.
+  'climbing-mount-fuji-guide': { from: 'hakone', to: 'mount-fuji' },
+  'mount-fuji-viewpoints': { from: 'hakone', to: 'mount-fuji' },
+  'chureito-pagoda-guide': { from: 'hakone', to: 'mount-fuji' },
+  'kawaguchiko-guide': { from: 'hakone', to: 'mount-fuji' },
 };
 
 export function middleware(request: NextRequest) {

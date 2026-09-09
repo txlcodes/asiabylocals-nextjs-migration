@@ -248,12 +248,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Hakone & Mt. Fuji info pages
   const hakoneInfoPages = [
-    'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',
-    'hakone-onsen-guide', 'mount-fuji-viewpoints', 'hakone-2-day-itinerary',
-    'chureito-pagoda-guide', 'kawaguchiko-guide', 'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
+    'best-time-to-visit-hakone', 'getting-around-hakone',
+    'hakone-onsen-guide', 'hakone-2-day-itinerary',
+    'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
     'where-to-stay-in-hakone',
     'hakone-or-kawaguchiko-for-mount-fuji'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const mountFujiInfoPages = [
+    'climbing-mount-fuji-guide', 'mount-fuji-viewpoints',
+    'chureito-pagoda-guide', 'kawaguchiko-guide'].map(slug => ({
+    url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
@@ -432,7 +441,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages,
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages,
     ...abuDhabiInfoPages,
     ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
 

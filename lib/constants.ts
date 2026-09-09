@@ -305,16 +305,25 @@ export const COLOMBO_INFO_SLUGS = [
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
 export const HAKONE_INFO_SLUGS = [
-  'climbing-mount-fuji-guide', 'best-time-to-visit-hakone', 'getting-around-hakone',
-  'hakone-onsen-guide', 'mount-fuji-viewpoints', 'hakone-2-day-itinerary'
-,
-  'chureito-pagoda-guide',
-  'kawaguchiko-guide',
+  'best-time-to-visit-hakone', 'getting-around-hakone',
+  'hakone-onsen-guide', 'hakone-2-day-itinerary',
   'hakone-open-air-museum-guide',
   'owakudani-black-eggs-guide',
   'hakone-yosegi-marquetry-guide',
   'where-to-stay-in-hakone',
-  'hakone-or-kawaguchiko-for-mount-fuji'];
+  'hakone-or-kawaguchiko-for-mount-fuji'
+];
+
+// Fuji content that was sitting under Hakone. The page bodies still live in
+// lib/hakoneInfoContent.ts because that lookup is by slug and city-agnostic;
+// only the routing and the sitemap needed to change.
+// Re-add a slug here ONLY once its page exists in a *InfoContent.ts file.
+export const MOUNT_FUJI_INFO_SLUGS = [
+  'climbing-mount-fuji-guide',
+  'mount-fuji-viewpoints',
+  'chureito-pagoda-guide',
+  'kawaguchiko-guide'
+];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
 export const HIROSHIMA_INFO_SLUGS = [
