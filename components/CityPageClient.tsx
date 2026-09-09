@@ -81,7 +81,7 @@ const CITY_DESCRIPTIONS: Record<string, {
       },
       {
         question: 'How many days do I need in Dubai?',
-        answer: '**Three full days** covers it without rushing. Day 1: [old Dubai, the souks and the abra](/uae/dubai/old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing), then the Dubai Fountain after dark. Day 2: a [desert safari](/uae/dubai/dubai-desert-safari-with-camel-ride-and-optional-hatta-extension) from mid-afternoon into the evening. Day 3: the modern city — [Burj Khalifa](/uae/dubai/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket), the [Museum of the Future and Dubai Frame](/uae/dubai/dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame), and the Marina in the evening. Our [2-day Dubai itinerary](/uae/dubai/dubai-2-day-itinerary) is the tighter version, and the [UAE itineraries](/uae/itineraries) run from three days upward.'
+        answer: '**Three full days** covers it without rushing. Day 1: [old Dubai, the souks and the abra](/uae/dubai/old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing), then the Dubai Fountain after dark. Day 2: a [desert safari](/uae/dubai/dubai-desert-safari-with-camel-ride-and-optional-hatta-extension) from mid-afternoon into the evening. Day 3: the modern city — [Burj Khalifa](/uae/dubai/burj-khalifa-124-125-and-dubai-aquarium-combo-ticket), the [Museum of the Future and Dubai Frame](/uae/dubai/dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame), and the Marina in the evening, for which our [Dubai Marina and the Palm guide](/uae/dubai/dubai-marina-and-the-palm-guide) is the orientation. Our [2-day Dubai itinerary](/uae/dubai/dubai-2-day-itinerary) is the tighter version, and the [UAE itineraries](/uae/itineraries) run from three days upward.'
       },
       {
         question: 'Is Dubai good with children?',
@@ -126,7 +126,7 @@ const CITY_DESCRIPTIONS: Record<string, {
       },
       {
         question: 'Is Louvre Abu Dhabi open every day?',
-        answer: 'No — it **closes on Mondays**. The rest of the week it opens late morning and runs into the evening, with **last entry before closing time rather than at it**, so a late-afternoon slot is tighter than it looks. Two hours covers the galleries at a walking pace; three is better if you want to sit under the dome, which is the part most people remember. Book the [general admission ticket](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) or the [express guided tour](/uae/abu-dhabi/louvre-abu-dhabi-express-guided-tour) if you would rather have the context.'
+        answer: 'No — it **closes on Mondays**. The rest of the week it opens late morning and runs into the evening, with **last entry before closing time rather than at it**, so a late-afternoon slot is tighter than it looks. Two hours covers the galleries at a walking pace; three is better if you want to sit under the dome, which is the part most people remember. Book the [general admission ticket](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) or the [express guided tour](/uae/abu-dhabi/louvre-abu-dhabi-express-guided-tour) if you would rather have the context, and read our [Louvre Abu Dhabi guide](/uae/abu-dhabi/louvre-abu-dhabi-guide) for what to look for once you are inside.'
       },
       {
         question: 'Can I visit Abu Dhabi as a day trip from Dubai?',
