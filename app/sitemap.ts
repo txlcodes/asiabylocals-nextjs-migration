@@ -390,7 +390,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Dynamic tour pages from API — fetch per city
   let tourPages: MetadataRoute.Sitemap = [];
-  const cities = ['agra', 'delhi', 'jaipur', 'phuket', 'bangkok', 'chiang-mai', 'pattaya', 'krabi', 'tokyo', 'kyoto', 'osaka', 'hiroshima', 'sapporo', 'nara', 'nagoya', 'hakone', 'udaipur', 'jodhpur', 'mumbai', 'goa', 'bikaner', 'jaisalmer', 'khajuraho', 'varanasi', 'kolkata', 'colombo', 'kandy', 'galle', 'sigiriya', 'ella', 'nuwara-eliya', 'negombo', 'bentota', 'mirissa', 'kathmandu', 'pokhara', 'chitwan', 'bhaktapur', 'lumbini'];
+  // Derived from CITY_URL_MAP, never hardcoded. A hardcoded list is exactly how
+  // all 101 UAE tour pages shipped live and stayed out of the sitemap entirely:
+  // 'dubai' and 'abu-dhabi' were simply never added here, so they were never
+  // fetched, so Google was never told they existed. Same failure the comment on
+  // itineraryPages below warns about. Any city in the map is now covered the day
+  // it is added; cities with no tours cost one empty fetch and add nothing.
+  const cities = Object.keys(CITY_URL_MAP);
   try {
     const results = await Promise.all(
       cities.map(city => {
