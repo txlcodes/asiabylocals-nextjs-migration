@@ -216,6 +216,22 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const isBlockedDate = (date: Date, dateString: string) =>
     blockedWeekdays.has(date.getDay()) || blockedDates.has(dateString);
 
+  // Minimum notice before a tour can be booked.
+  //
+  // India runs on our own operations and can confirm a booking the same day.
+  // Everywhere else we are an agent: the operator has to be told and has to
+  // confirm, and that cannot happen in a few hours. On 9 September a guest
+  // booked a Kyoto workshop at 02:29 for that same morning, the studio was
+  // never notified, and she was left outside a closed session — so same-day
+  // and next-day are closed off outside India.
+  const LEAD_DAYS = String(tour?.country || '').trim().toLowerCase() === 'india' ? 0 : 2;
+  const earliestBookable = (() => {
+    const d = new Date();
+    d.setHours(0, 0, 0, 0);
+    d.setDate(d.getDate() + LEAD_DAYS);
+    return d;
+  })();
+
   useEffect(() => {
     const tourId = initialTour?.id;
     if (!tourId) return;
@@ -3292,7 +3308,8 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       const isToday = date.getTime() === today.getTime();
                       const isPast = date < today;
                       const isSelected = selectedDate === dateString;
-                      const isAvailable = !isPast && !isBlockedDate(date, dateString);
+                      const isTooSoon = date < earliestBookable;
+                      const isAvailable = !isPast && !isTooSoon && !isBlockedDate(date, dateString);
 
                       days.push(
                         <button
@@ -3306,7 +3323,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                               }
                             }
                           }}
-                          disabled={isPast || !isAvailable}
+                          disabled={isPast || isTooSoon || !isAvailable}
                           className={`
                           h-10 rounded-xl font-bold text-[14px] transition-all
                           ${isSelected
