@@ -23,6 +23,92 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (!slug) return null;
 
     // --- UAE TOURS (2026-09, real reviews) ---
+    if (slug === 'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 2027,
+            guideRating: 4.88,
+            valueRating: 4.68,
+            reviews: [
+                { author: "Danielle", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "this activity is an absolute must have experience. our family was absolutely amazed. the value for money is incredible and the support by our guide Salman was incredible. he was knowledgeable, kind, compassionate and brilliant with my daughter. he made sure everyones needs were met and did an incredible job. the whole thing was wonderfully organised and was the best evening we have had on a holiday" },
+                { author: "Valeria", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "The tour and our tour guide Mr G from Oceanair was great, highly recommend!" },
+                { author: "Stephan", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Ali was a great guide, had an amazing evening at the desert. Thank you so much" },
+                { author: "Klara Kapetanić", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "this is the best thing you can do in Dubai our guide Salman Khan was really amazing the drive through the dunes was so fun, so much activities and everyone is so nice and polite" },
+                { author: "Mohammed", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Safeer went above and beyond on making our activities better than expected. My wife and I enjoyed the experience very much and we will definitely be coming back again. Thank you Safeer." },
+                { author: "Denisha", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Our experience at the Night Safari was amazing, and our guide, Shaukat, was really good and made the experience enjoyable. However, this was our second visit to the same camp, and unfortunately, the level of hospitality this time was not as good as what we experienced during our previous visit. We started at around 7:15 PM, and by 7:45 PM, most of the food and starters had already been cleared. After the starters, there was hardly any food available, which was quite disappointing, especially considering our previous experience at the camp. We really enjoyed the overall experience and appreciate the efforts of the team, but I feel the hospitality and food service could have been much better this time. We barely ate starters." },
+                { author: "Zak", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Unforgettable experience! From start to finish, the desert safari was brilliant, huge shout-out to our tour guide Shah, he was excellent! Extremely friendly, welcoming and knowledgeable, making the whole experience even more enjoyable. We saw so much throughout the evening, including native desert wildlife, camels, a camel show, camel riding and camel feeding. We also got to see a falcon up close, which was amazing. The entertainment was fantastic, with a spectacular fire show and impressive horse show. As night fell, we headed over the dunes, watching the sky fill with stars. We went stargazing and even spotted Venus, while planes passed overhead in the distance — such a beautiful setting. We enjoyed Arabic tea, drinks and local refreshments, adding to the authentic experience. This was so much more than a desert safari — it was adventure, culture, wildlife, entertainment and incredible scenery all in one. Shah made sure everything ran smoothly and kept us entertained throughout." }
+            ]
+        };
+    }
+
+    if (slug === 'dubai-abra-boat-tour-past-atlantis-and-ain-dubai') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 539,
+            guideRating: 4.89,
+            valueRating: 4.69,
+            reviews: [
+                { author: "Carol", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "fantastic crew well worth the money. crew where so nice givi g us i formation and taking lots of pictures for us." },
+                { author: "Lenka", country: "Verified traveller review", rating: 5, date: "2026-02-18", text: "Definitely recommend this. We took the ride at 5.p.m so we enjoed both daylight and night views. The guide was very nice, made us photos for free. We got a bottles of water." },
+                { author: "Ian", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "We ended up with effectively a private tour as the boat ran with just the two of us. Very relaxing with several photo stops where the guides were more than happy to take photographs for us. A great way to spend a couple of hours and see the sights of Dubai from the water" },
+                { author: "Rita", country: "Verified traveller review", rating: 5, date: "2026-02-13", text: "Fab trip. We did the evening sunset ride, so lovely.The captain and guide were so friendly. Would definately recommend." },
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2026-02-10", text: "Great trip, recommended. Lovely staff, very welcoming. Had the boat to ourselves." },
+                { author: "Arlene", country: "Verified traveller review", rating: 5, date: "2026-02-08", text: "Knowledgeable guide and really great driver! It was a beautiful day, we went at 3 PM. Even the other family on the boat was lovely!" },
+                { author: "Katarzyna", country: "Verified traveller review", rating: 5, date: "2025-11-13", text: "The boat trip was excellent! The crew, Brian and Kamlesh, took great care of us throughout the journey. They were very polite, friendly, and always ready to help. I sincerely recommend this company and especially this amazing duo for anyone looking for a great experience on the water. Kasia" }
+            ]
+        };
+    }
+
+    if (slug === 'dubai-dinner-cruise-with-a-chef-designed-menu-and-live-music') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 44,
+            guideRating: 4.85,
+            valueRating: 4.65,
+            reviews: [
+                { author: "Caressa", country: "Verified traveller review", rating: 5, date: "2026-02-19", text: "I had an amazing experience. Stunning views of some of Dubai's iconic views/spot. The whole team made sure that we were taken cared of the entire evening. Food was wonderful and cooked to perfection. Highly recommended. Thank you to the entire team for giving us great and memorable experience." },
+                { author: "Prosper", country: "Verified traveller review", rating: 5, date: "2026-02-19", text: "We’ve done lots of these Dubai style activities with my partners family. I didn’t want to go so booked last minute with them. So glad I do what a refreshing change. Beautiful boat, food and experience. The best bit…the great service. Well done Noble!" },
+                { author: "Anastasia", country: "Verified traveller review", rating: 5, date: "2026-02-17", text: "I had an amazing memorable experience tonight! I was impressed not by the skyline of Dubai only,but entertainment ,food & service. So decent from the start to the end and definitely would comeback with the family but friends! Thanks to the team, it was spooky good!" },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-02-17", text: "It was delightful, the atmosphere, music, delicious food, service, very beautiful interior and I especially want to say about the waiters, who were always very attentive, polite and all the dishes were served quickly. We were relaxing with friends and everyone was happy. I recommend it to everyone, in my opinion, this is the best cruise in Dubai." },
+                { author: "Cathie", country: "Verified traveller review", rating: 5, date: "2026-02-10", text: "From start to finish it could not have been better. To start we got lost and were panicked. Upon calling a friendly voice answered (wish we’d gotten her name) and guided us in the right direction and greeted us warmly upon our arrival. Once onboard, the attention to detail was obvious with our host Ragish soliciting feedback on every aspect with a goal to continuous improvement. The food was indeed five star and well thought out. Our server Twinkle was absolutely amazing and went above and beyond to ensure our evening was top notch! The live singer was a nice addition and set a great mood. So glad we chose this dinner cruise. Thanks to a great team for making a truly enjoyable evening! 🥳" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-02-06", text: "Menu was good , tapas style dining. This was a more upmarket dinner cruise than others we have done in Dubai. The beef tenderloin was great. Good selection of drinks , would have been nice to have tea and coffee. The service was fantastic , Twinke and Ragish our host were extremely attentive and friendly. Live singer was a lovely addition and created a nice atmosphere even though the cruise was not at full capacity and a little quiet." },
+                { author: "Katy", country: "Verified traveller review", rating: 5, date: "2026-02-03", text: "We had a wonderful evening. The food, the atmosphere, just perfect. There is something very special about being on the water in Dubai on a night time. We will definitely be returning to experience with friends." }
+            ]
+        };
+    }
+
+    if (slug === 'dubai-private-yacht-cruise-with-optional-gourmet-catering') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 4.85,
+            reviews: [
+                { author: "shyam", country: "Verified traveller review", rating: 5, date: "2026-01-24", text: "excellent service, punctual and very friendly staff. worth visiting again" },
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2025-06-22", text: "Amazing experience, amazing staff & overall recommend to anyone! The breakfast was great & worth every penny!" },
+                { author: "Graham", country: "Verified traveller review", rating: 5, date: "2025-05-25", text: "The best 3 hours sightseeing! We have loved every minute of this trip and the hosts on board were amazing! Abinesh and sander,salman thank you so so much ! We would highly recommend this trip. Communication throughout was fantastic." }
+            ]
+        };
+    }
+
+    if (slug === 'dubai-vip-desert-safari-with-private-seating-and-live-shows') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 137,
+            guideRating: 5.0,
+            valueRating: 4.8,
+            reviews: [
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2026-02-25", text: "Unforgettable experience with our guide Muhammad Ali safari guide lovely show and delicious food thrill dune bashing Thank you" },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-02-18", text: "Everything was perfect. Murad took very good care of us every step of the way. Couldn’t have asked for a better guide." },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "My experience tonight was excellent and I’m particular grateful to my guide, Mohammed Ali: he has been a great driver and very kind and helpful. Since I’m over 60, he helped me in the dunes! Top!" },
+                { author: "Andreea", country: "Verified traveller review", rating: 5, date: "2026-02-02", text: "It’s was amazing Best experience you can get in Dubai in desert with the best VIP guid. His name is Sulaiman with Nobles I highly recommend him Thank you" },
+                { author: "Lawrence", country: "Verified traveller review", rating: 5, date: "2026-02-01", text: "It was well organized. Communication was clear and timely. Our driver/host Mehtab Babak was excellent. Careful driver, professional and told us what to expect each step of the way." },
+                { author: "Rahul", country: "Verified traveller review", rating: 5, date: "2026-01-22", text: "Amazing tour with Noble Adventure dune bashing was thrilling and fun amazing photos with suset in red sand desert guide was great food is delicious shows were awesome special the fire show bravo Muhammad Ali is a very safe draving and expert guide Thank you" },
+                { author: "Carla", country: "Verified traveller review", rating: 5, date: "2026-01-17", text: "Had the most incredible experience with Noble Life – Dinner Show & Desert Safari! From thrilling dune bashing and sandboarding to a dreamy sunset stop, our driver Rana Ghaffar made the whole ride unforgettable — skilled, fun, and truly the best! 🙌 Loved the vibe at Noble Camp: camel rides, baby camel feeding, henna, archery, chill zones… everything felt magical and welcoming. The Noble Desert Mirage Show was the perfect finale — amazing performances, great food, and beautiful atmosphere under the stars. 🌟 Highly recommend this experience, absolutely 10/10! ❤️🔥" }
+            ]
+        };
+    }
+
     if (slug === 'dubai-private-deep-sea-fishing-trip-with-your-catch-grilled') {
         return {
             averageRating: 3.42,
