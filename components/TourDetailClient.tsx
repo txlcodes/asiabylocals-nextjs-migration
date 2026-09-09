@@ -219,12 +219,14 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   // Minimum notice before a tour can be booked.
   //
   // India runs on our own operations and can confirm a booking the same day.
-  // Everywhere else we are an agent: the operator has to be told and has to
-  // confirm, and that cannot happen in a few hours. On 9 September a guest
-  // booked a Kyoto workshop at 02:29 for that same morning, the studio was
-  // never notified, and she was left outside a closed session — so same-day
-  // and next-day are closed off outside India.
-  const LEAD_DAYS = String(tour?.country || '').trim().toLowerCase() === 'india' ? 0 : 2;
+  // Everywhere else we are an agent and the operator has to be told first.
+  //
+  // One day, not two. The failure this guards against was a same-day booking —
+  // a Kyoto workshop booked at 02:29 for that same morning, which the studio
+  // was never told about — and one day blocks that. Two days would also block
+  // tomorrow, which on the bookings taken so far costs twice as many of them
+  // for no extra safety.
+  const LEAD_DAYS = String(tour?.country || '').trim().toLowerCase() === 'india' ? 0 : 1;
   const earliestBookable = (() => {
     const d = new Date();
     d.setHours(0, 0, 0, 0);
