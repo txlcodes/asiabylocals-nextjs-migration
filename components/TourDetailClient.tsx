@@ -540,7 +540,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
       // FALLBACK 3: If we STILL don't have groupPricingTiers, try TEMPORARY multiplication fallback
       if (!groupPricingTiers || !Array.isArray(groupPricingTiers) || groupPricingTiers.length === 0) {
-        const fallbackPricePerPerson = tourData.pricePerPerson || tourData.price || tour?.pricePerPerson;
+        // Order matters. When tourData is a selected OPTION it has no
+        // pricePerPerson column, so this used to fall through to option.price and
+        // multiply THAT by headcount - but option.price is not a per-person figure.
+        // On tour 867 it turned a $130/person GYG listing into a $1,800 quote for
+        // six. The tour's own pricePerPerson is a real per-head number (163 there,
+        // i.e. 130 + markup), so prefer it and use option.price only as a last resort.
+        const fallbackPricePerPerson = tourData.pricePerPerson || tour?.pricePerPerson || tourData.price;
         const fallbackMaxGroupSize = tourData.maxGroupSize || tour?.maxGroupSize || 10;
 
         if (fallbackPricePerPerson && fallbackPricePerPerson > 0) {
