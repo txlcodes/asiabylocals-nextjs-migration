@@ -736,5 +736,9 @@ export const ABU_DHABI_INFO_SLUGS = [
   'abu-dhabi-day-trip-from-dubai',
   'best-time-to-visit-abu-dhabi',
   'abu-dhabi-desert-safari-guide',
-  'abu-dhabi-city-guide'
+  'abu-dhabi-city-guide',
+  'saadiyat-island-museums-guide',
+  'abu-dhabi-with-kids-guide',
+  'getting-around-abu-dhabi',
+  'abu-dhabi-2-day-itinerary'
 ];

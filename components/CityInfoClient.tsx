@@ -420,6 +420,10 @@ const DUBAI_SIDEBAR = [
 ];
 
 const ABU_DHABI_SIDEBAR = [
+    { name: 'Saadiyat Museums', slug: 'saadiyat-island-museums-guide' },
+    { name: 'Abu Dhabi with Kids', slug: 'abu-dhabi-with-kids-guide' },
+    { name: 'Getting Around', slug: 'getting-around-abu-dhabi' },
+    { name: '2-Day Itinerary', slug: 'abu-dhabi-2-day-itinerary' },
     { name: 'Sheikh Zayed Grand Mosque', slug: 'sheikh-zayed-grand-mosque-guide' },
     { name: 'Louvre Abu Dhabi', slug: 'louvre-abu-dhabi-guide' },
     { name: 'Qasr Al Watan', slug: 'qasr-al-watan-guide' },

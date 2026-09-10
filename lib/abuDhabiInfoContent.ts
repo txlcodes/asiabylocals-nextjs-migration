@@ -384,6 +384,154 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "saadiyat-island-museums-guide":
+      return {
+        title: "Saadiyat Island Museums: Which Ones, In What Order, and How Long",
+        seoTitle: "Saadiyat Island Museums Guide 2026",
+        description: "The Louvre, Zayed National Museum, the Natural History Museum and teamLab Phenomena — how they differ, how much time each needs, and why doing all four in a day does not work.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "landmark", label: "Louvre Abu Dhabi", value: "2 to 3 hours. The one to do if you do one" },
+          { icon: "building", label: "Zayed National Museum", value: "The story of the UAE itself" },
+          { icon: "bone", label: "Natural History Museum", value: "Meteorites, fossils, deep time" },
+          { icon: "sparkles", label: "teamLab Phenomena", value: "Digital art. Not a museum in the usual sense" },
+          { icon: "calendar", label: "Quietest", value: "Weekday mornings. Avoid Friday and Saturday" },
+        ],
+        sections: [
+          {
+            title: "They are not variations on the same thing",
+            icon: "landmark",
+            content: "Saadiyat's cultural district puts four very different institutions within walking distance, and people book them as if they were interchangeable.\n\nThe **Louvre Abu Dhabi** is a chronological world museum: one timeline, objects from every civilisation placed side by side rather than separated by region. Jean Nouvel's perforated dome is half the experience and the reason to be there in daylight. Two to three hours, and the [express guided tour](/uae/abu-dhabi/louvre-abu-dhabi-express-guided-tour) exists because the collection is easy to wander aimlessly.\n\nThe **Zayed National Museum** is about the UAE specifically — the founding, the falconry, the pearl trade, the making of a country from seven emirates. It is the one that explains the place you are standing in, and it is wasted if you rush it after something else.\n\nThe **Natural History Museum** is deep time: meteorites, fossils, the geology of Arabia. It is the one children reliably like.\n\n**teamLab Phenomena** is not a museum. It is a large immersive digital artwork you walk through, and it is either the highlight of the trip or completely not your thing.",
+          },
+          {
+            title: "How many can you actually do in a day",
+            icon: "clock",
+            content: "Two properly. Three if you are disciplined and start early. Four is a corridor march and you will remember none of them.\n\nA sensible full day is the **Louvre in the morning** when the dome light is at its best and the crowds have not arrived, lunch, then **one other** in the afternoon. Which second one depends on who you are with: Zayed National if you want to understand the country, Natural History if there are children, [teamLab](/uae/abu-dhabi/teamlab-phenomena-abu-dhabi-entry-ticket) if you want something that is not looking at objects in cases.\n\nBudget **30 to 40 minutes between venues** even though they are close, because tickets, bag checks and finding the entrance all take longer than the walk.\n\nIf you are coming from Dubai for the day, one museum is realistic alongside the Grand Mosque, not two. Our [Louvre and Grand Mosque day trip](/uae/dubai/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai) is built to that limit deliberately.",
+          },
+          {
+            title: "Tickets, timing and the things worth knowing",
+            icon: "ticket",
+            content: "Each museum is ticketed separately. There is no single pass covering all of them, so book the ones you actually intend to visit rather than assuming a combined ticket exists.\n\n**Book a time slot** for the Louvre and for teamLab in particular. Walk-up is possible on a quiet weekday and unpleasant on a weekend.\n\n**Weekday mornings are markedly quieter.** Friday and Saturday are the local weekend and the difference is not subtle.\n\nPhotography without flash is fine in most spaces. Large bags go to the cloakroom.\n\nThe Louvre is **cold** inside — genuinely cold, for conservation. Take a layer even in August, when the temptation is to arrive with nothing but a t-shirt.\n\nThe [general admission ticket](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) covers the permanent collection; temporary exhibitions are sometimes separate, which is worth checking if a specific show is the reason you are going.",
+          },
+          {
+            title: "Getting there, and seeing it from the water",
+            icon: "waves",
+            content: "Saadiyat is a 20-minute drive from central Abu Dhabi and about 90 minutes from Dubai. There is parking, and taxis are plentiful; public transport is workable but not quick.\n\nThe underrated approach is **from the sea**. The Louvre's dome sits over the water and the architecture reads completely differently from below. A [guided kayak around the Louvre](/uae/abu-dhabi/abu-dhabi-guided-kayak-tour-around-the-louvre) or the quieter [electric catamaran ride](/uae/abu-dhabi/abu-dhabi-electric-catamaran-ride-at-the-louvre) both do this, and both are best in the late afternoon when the heat has dropped and the light is coming in low under the dome.\n\nThat is a genuinely different photograph from the one everybody takes in the courtyard, and it takes an hour.",
+          },
+        ],
+      };
+
+    case "abu-dhabi-with-kids-guide":
+      return {
+        title: "Abu Dhabi with Kids: The Parks, the Passes and the Heat",
+        seoTitle: "Abu Dhabi with Kids 2026",
+        description: "Ferrari World, Warner Bros, SeaWorld and Yas Waterworld compared by age, when a multi-park pass saves money, and how to plan around the temperature.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "ferris-wheel", label: "Ferrari World", value: "Thrill rides. Best from about age 8" },
+          { icon: "wand", label: "Warner Bros World", value: "Fully indoor and air-conditioned" },
+          { icon: "fish", label: "SeaWorld", value: "Indoor, and the most educational of the four" },
+          { icon: "waves", label: "Yas Waterworld", value: "Outdoor. Summer means shade planning" },
+          { icon: "ticket", label: "Multi-park pass", value: "Worth it from two parks, clearly worth it at three" },
+        ],
+        sections: [
+          {
+            title: "Four parks, four different ages",
+            icon: "ferris-wheel",
+            content: "They are all on Yas Island within a few minutes of each other, and they are not aimed at the same child.\n\n**Ferrari World** is built around thrill rides, including the fastest rollercoaster in the world. There is a junior section, but a family with under-eights will spend the day watching rather than riding. From about eight upwards it is the standout. [Entry ticket](/uae/abu-dhabi/ferrari-world-abu-dhabi-entry-ticket).\n\n**Warner Bros World** is the one that works for the widest age range, and it is **entirely indoors**. On a July afternoon that is not a detail, it is the whole argument. Younger children get Looney Tunes and Scooby-Doo; older ones get the DC side. [Entry ticket](/uae/abu-dhabi/warner-bros-world-abu-dhabi-entry-ticket).\n\n**SeaWorld** is indoor, newer, and heavier on aquarium and conservation than on rides. It suits curious children and adults who have had enough of queueing for coasters. [Entry ticket](/uae/abu-dhabi/seaworld-abu-dhabi-general-admission-ticket).\n\n**Yas Waterworld** is outdoor and the most physically tiring. Brilliant in winter, a shade-management exercise in summer. [Entry ticket](/uae/abu-dhabi/yas-waterworld-abu-dhabi-entry-ticket).",
+          },
+          {
+            title: "When the multi-park pass is actually cheaper",
+            icon: "ticket",
+            content: "Single tickets to these parks are priced closely enough that the arithmetic is simple: a [two, three or four park pass](/uae/abu-dhabi/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks) starts saving money at two parks and saves a lot at three.\n\nThe catch is not the price, it is the **stamina**. Two full park days in a row is a great deal on paper and a hard sell to a seven-year-old on the second afternoon. A pass valid across several days is far more usable than one that expects consecutive days, so check the validity window before assuming you will get through it.\n\nA realistic pattern for a family: one park day, one slower day (Corniche, a museum, the pool), one park day. That is what the three-park pass is actually good for.",
+          },
+          {
+            title: "Planning around the heat, honestly",
+            icon: "thermometer",
+            content: "From **June to September** the outdoor parks are only comfortable early morning and after about 4pm. The middle of the day is 40C plus, and small children stop enjoying themselves well before adults admit it.\n\nThis is why the indoor parks matter so much in summer. Warner Bros World and SeaWorld are fully air-conditioned and can absorb a whole afternoon that would be miserable anywhere else.\n\nIn **winter, November to March**, the calculation reverses: Yas Waterworld and the beaches are lovely, and the indoor parks are the wet-weather option you probably will not need.\n\nWhatever the month, take more water than you think and reapply sunscreen on the water park day. Shaded seating at Yas Waterworld goes early in the morning and is the difference between a good day and a short one.",
+          },
+          {
+            title: "The non-park days worth keeping",
+            icon: "compass",
+            content: "Two days of theme parks is plenty for most families, and Abu Dhabi has better answers for the rest of the trip than another queue.\n\nThe **[Natural History Museum](/uae/abu-dhabi/natural-history-museum-abu-dhabi-entry-ticket)** is the reliable one — meteorites and fossils work on almost every child, and it is indoors and cool.\n\nA **[morning desert drive with a camel ride and sandboarding](/uae/abu-dhabi/abu-dhabi-morning-desert-drive-with-camel-ride-and-sandboarding)** is a better shape than an evening safari for young children: it is over before the heat, and there is no long dinner to sit through at the end.\n\nA **[kayak in Reem Central Park](/uae/abu-dhabi/abu-dhabi-reem-central-park-guided-kayak-tour)** is calm flat water in the middle of the city and suits families who want to be outdoors without a full excursion.\n\nAnd the **Grand Mosque** is genuinely worth taking children to, as long as you go early and treat it as a short visit rather than a long one. Dress code applies to children too from around puberty; younger ones are relaxed about it.",
+          },
+        ],
+      };
+
+    case "getting-around-abu-dhabi":
+      return {
+        title: "Getting Around Abu Dhabi: Taxis, the Islands, and the Distances Nobody Mentions",
+        seoTitle: "Getting Around Abu Dhabi 2026",
+        description: "Why Abu Dhabi is not a walking city, what a taxi actually costs, how the islands are laid out, and when a private driver is the cheaper option.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "car", label: "Taxis", value: "Metered, cheap by Gulf standards, everywhere" },
+          { icon: "map", label: "Layout", value: "Several islands, not one centre. Distances are real" },
+          { icon: "bus", label: "Buses", value: "Cheap and clean, but slow for visitors" },
+          { icon: "train", label: "Metro", value: "None. This is not Dubai" },
+          { icon: "plane", label: "Airport to centre", value: "About 30 minutes" },
+        ],
+        sections: [
+          {
+            title: "The single thing to understand: it is islands",
+            icon: "map",
+            content: "Abu Dhabi is not a city centre with suburbs. It is a set of islands with the attractions spread across them, and the map flatters the distances badly.\n\n**Abu Dhabi Island** holds the Corniche, the old city and most hotels. **Saadiyat** has the museums. **Yas** has the theme parks and the F1 circuit. The **Grand Mosque** sits on its own near the mainland bridges.\n\nSaadiyat to Yas is 20 minutes by road. Corniche to the Grand Mosque is 20 minutes. Yas to the Grand Mosque is closer to 30. None of these are walkable and none of them are on the way to each other.\n\nPlan a day around **one island plus one stop**, not around a list of sights. That single decision does more for an Abu Dhabi itinerary than any transport choice.",
+          },
+          {
+            title: "Taxis, and why the meter is your friend",
+            icon: "car",
+            content: "Abu Dhabi taxis are **metered, regulated and genuinely cheap** compared with most of the Gulf. There is a minimum fare, and typical cross-island trips run to a modest amount rather than an alarming one.\n\nThey can be hailed on the street, found at every mall and hotel, or booked through the usual apps. Silver taxis are the standard fleet; there are also women-driver taxis with a pink roof, which women and families can request.\n\nCards are widely accepted but not universally, so keep some cash.\n\nThe practical warning is the **return leg**. Getting a taxi to the Grand Mosque or a museum is easy. Getting one back from a quieter spot at an odd hour is less so, and this is where visitors end up waiting in the heat. Ask your driver to come back, or book the return before you need it.",
+          },
+          {
+            title: "When a driver for the day is cheaper than taxis",
+            icon: "wallet",
+            content: "For a day with three or more stops across different islands, a **private car with a driver often costs less than the taxis**, and it removes the waiting.\n\nThe maths tips fast: four separate cross-island taxi journeys plus two long waits in 40C is not obviously better than one vehicle that stays with you.\n\nIt is also the answer for the Grand Mosque, where the drop-off and pick-up points are far apart and the walk between them is exposed.\n\nMost of our Abu Dhabi city tours are built this way for exactly this reason — the [Grand Mosque, Qasr Al Watan and Etihad Towers tour](/uae/abu-dhabi/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour) and the [private transfer tour](/uae/abu-dhabi/abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour) are as much about the car as the commentary.\n\nIf you are arriving by air or cruise, a [half-day tour with airport or cruise port pickup](/uae/abu-dhabi/abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup) removes the worst transfer of the trip.",
+          },
+          {
+            title: "Buses, walking and the heat",
+            icon: "thermometer",
+            content: "There is **no metro**. Visitors who know Dubai arrive expecting one and plan accordingly, which does not work.\n\nCity buses are cheap, air-conditioned and clean, and they require a Hafilat card rather than cash. They are perfectly usable if you have time and are staying a while. For a two or three day visit they will cost you more in waiting than they save.\n\nWalking is pleasant in exactly two places and two seasons: the **Corniche** and the **Saadiyat cultural district**, between **November and March**. The Corniche has a proper promenade, shade and beaches along it, and an evening walk there is one of the nicer free things to do in the emirate.\n\nFrom June to September, plan on being in a vehicle or indoors between about 11am and 4pm. That is not caution, it is just what 45C does to a day.",
+          },
+        ],
+      };
+
+    case "abu-dhabi-2-day-itinerary":
+      return {
+        title: "Two Days in Abu Dhabi: A Plan That Accounts for the Driving",
+        seoTitle: "Abu Dhabi 2-Day Itinerary 2026",
+        description: "A realistic two-day plan built around the island distances, with the Grand Mosque timed properly and one park day that does not eat the whole trip.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "calendar", label: "Day 1", value: "Grand Mosque, Qasr Al Watan, Corniche" },
+          { icon: "landmark", label: "Day 2", value: "Saadiyat museums or Yas parks — not both" },
+          { icon: "clock", label: "Grand Mosque", value: "Go early. It is busiest late afternoon" },
+          { icon: "shirt", label: "Dress code", value: "Ankles and shoulders covered, hair covered for women" },
+          { icon: "car", label: "Assume", value: "20-30 minutes between anything and anything else" },
+        ],
+        sections: [
+          {
+            title: "Day one: the mosque, the palace and the water",
+            icon: "landmark",
+            content: "Start at the **Sheikh Zayed Grand Mosque** and start early. It opens in the morning, entry is free, and the difference between 9am and 4pm is the difference between space and crowds. Allow 90 minutes including the security and dress-code queue.\n\nDress code is enforced at the door for everyone: **ankles and shoulders covered**, and hair covered for women. Abayas are lent free at the entrance but that queue is its own delay in high season.\n\nFrom there, **Qasr Al Watan** — the presidential palace, open to visitors, and more interesting than \"palace tour\" suggests: the library and the great hall are the parts people remember. Two hours.\n\nEnd on the **Corniche** in the late afternoon when it cools. Walk a stretch of the promenade, eat somewhere along it, and let the day finish slowly.\n\nOur [Grand Mosque, Qasr Al Watan and Etihad Towers tour](/uae/abu-dhabi/abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour) is this day with the driving handled. The cheaper [half-day city tour with the Heritage Village](/uae/abu-dhabi/abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village) covers the mosque and the old city instead.",
+          },
+          {
+            title: "Day two, version one: Saadiyat",
+            icon: "building",
+            content: "If you would rather look at things than queue for rides, give day two to **Saadiyat**.\n\nThe [Louvre Abu Dhabi](/uae/abu-dhabi/louvre-abu-dhabi-general-admission-ticket) in the morning, when the light through the dome is at its best. Two to three hours, and the [express guided tour](/uae/abu-dhabi/louvre-abu-dhabi-express-guided-tour) is worth it if you would otherwise drift.\n\nLunch on the island, then **one** other museum — the Zayed National Museum if you want the story of the country, [teamLab Phenomena](/uae/abu-dhabi/teamlab-phenomena-abu-dhabi-entry-ticket) if you want something completely different, the [Natural History Museum](/uae/abu-dhabi/natural-history-museum-abu-dhabi-entry-ticket) if there are children.\n\nIf there is time and energy left, a [kayak around the Louvre](/uae/abu-dhabi/abu-dhabi-guided-kayak-tour-around-the-louvre) in the late afternoon shows you the building from the water, which is the version most visitors never see. More on all of this in our [Saadiyat museums guide](/uae/abu-dhabi/saadiyat-island-museums-guide).",
+          },
+          {
+            title: "Day two, version two: Yas Island",
+            icon: "ferris-wheel",
+            content: "If you are travelling with children, day two is **Yas**, and it is one park, not two.\n\n[Ferrari World](/uae/abu-dhabi/ferrari-world-abu-dhabi-entry-ticket) for thrill-ride ages, [Warner Bros World](/uae/abu-dhabi/warner-bros-world-abu-dhabi-entry-ticket) for a wider age range and full air conditioning, [SeaWorld](/uae/abu-dhabi/seaworld-abu-dhabi-general-admission-ticket) for a calmer day, [Yas Waterworld](/uae/abu-dhabi/yas-waterworld-abu-dhabi-entry-ticket) in winter.\n\nA [multi-park pass](/uae/abu-dhabi/yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks) only makes sense if you are staying longer than two days — see our [Abu Dhabi with kids guide](/uae/abu-dhabi/abu-dhabi-with-kids-guide) for when the arithmetic works.\n\nPark days are long. Do not put an evening desert safari on the end of one.",
+          },
+          {
+            title: "If you have an evening spare",
+            icon: "moon",
+            content: "The two things worth adding to a two-day trip, in order.\n\nA **desert evening**. Abu Dhabi's dunes are bigger and emptier than Dubai's and the drive out is shorter than people expect. The [safari with a camel farm and Bedouin camp dinner](/uae/abu-dhabi/abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner) is the full version; the [BBQ and Tanoura show safari](/uae/abu-dhabi/abu-dhabi-desert-safari-with-bbq-and-tanoura-shows) is the livelier one. Both finish late, so put them on the night before a slow morning.\n\nAn **Emirati meal**. Genuinely local food is harder to find here than it should be, and a [dining experience](/uae/abu-dhabi/abu-dhabi-emirati-dining-experience) is the straightforward way to eat something other than international hotel food.\n\nWhat not to add: a Dubai day trip. It is 90 minutes each way and it turns a two-day Abu Dhabi trip into a day and a half. If Dubai matters, give it its own nights.",
+          },
+        ],
+      };
+
     default:
       return null;
   }

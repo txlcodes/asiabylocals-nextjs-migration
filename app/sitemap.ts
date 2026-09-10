@@ -302,8 +302,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const abuDhabiInfoPages = [
-    'sheikh-zayed-grand-mosque-guide', 'louvre-abu-dhabi-guide', 'qasr-al-watan-guide', 'yas-island-parks-guide', 'abu-dhabi-day-trip-from-dubai', 'best-time-to-visit-abu-dhabi', 'abu-dhabi-desert-safari-guide', 'abu-dhabi-city-guide'
-  ].map(slug => ({
+    'sheikh-zayed-grand-mosque-guide',
+    'louvre-abu-dhabi-guide',
+    'qasr-al-watan-guide',
+    'yas-island-parks-guide',
+    'abu-dhabi-day-trip-from-dubai',
+    'best-time-to-visit-abu-dhabi',
+    'abu-dhabi-desert-safari-guide',
+    'abu-dhabi-city-guide',
+    'saadiyat-island-museums-guide',
+    'abu-dhabi-with-kids-guide',
+    'getting-around-abu-dhabi',
+    'abu-dhabi-2-day-itinerary'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
