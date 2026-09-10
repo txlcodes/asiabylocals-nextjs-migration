@@ -12401,5 +12401,508 @@ if (slug === "hong-island-boat-tour") {
     ];
   }
 
+
+  // --- Tours that had no FAQ block at all (2026-09-10). Generated from each
+  // tour's own stored fields - duration, group size, meeting point, what is
+  // and is not included - so nothing here is invented. Where a tour has no
+  // meeting point recorded, the answer says the operator confirms it after
+  // booking rather than pretending an address exists. ---
+
+  if (slug === "taj-mahal-delhi-sunrise-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 10 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "In Delhi. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Private round-trip transport from Delhi to Agra; Professional Govt. guide; Entry tickets to Taj Mahal and Agra Fort; All tolls, parking fees, and driver allowances; Optional scenic stop at Mehtab Bagh." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "kanchanaburi-death-railway-hellfire-pass-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Bangkok. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; English Speaking Tour Guide; Lunch; Entrance fees; Transport by air-conditioned minivan; Train ticket." },
+      { question: "What is not included?", answer: "Extra Meal & Beverage; Tip." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "bang-pa-in-royal-palace-boat-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Bangkok. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; English Speaking Tour Guide; Lunch; Boat tour; Entrance fees; Transport by air-conditioned minivan." },
+      { question: "What is not included?", answer: "Extra Meal & Beverage; Tip." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "maeklong-railway-market-shopping-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Bangkok; the operator confirms the exact address and time after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; Transportation by air-conditioned van; Tour guide; Boat rental to Damnoen Saduak; Snacks and drinking water; Accidental insurance." },
+      { question: "What is not included?", answer: "Paddle boat rental; Extra food and drinks; Tips." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "song-wat-road-evening-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Shared Tour Meeting point: Metro Hua Lamphong station, Exit 4." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off (Private Tour); Tuk-tuk transportation; Dinner; Food Tastings; Drinking water; English Speaking Guide; Insurance." },
+      { question: "What is not included?", answer: "Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "bangkok-grand-palace-wat-pho-golden-mount-ticket") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "BTS Ratchathewi Exit 1 & 3 (bus stop near BTS Ratchathewi Exit 1 & 3)." },
+      { question: "What is included?", answer: "English Speaking Guide; Admission Fee; Tuk Tuk Ride; Drinking Water; Public Transportation Fee during the tour; Hotel Pickup and Drop off( Private Tour only)." },
+      { question: "What is not included?", answer: "Gratuities; Meal." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "museum-siam-boat-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "MRT Sanamchai Exit 1 next to Museum Siam." },
+      { question: "What is included?", answer: "Pick up and Drop off at MRT Sanamchai Exit 1 next to Museum Siam; English Speaking Tour Guide; Van with Airconditioner; Admission fees to specified sights; Canal Boat Trip; Drinking Water; Travel Insurance." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off; Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "phang-nga-bay-bioluminescent-plankton-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Phuket; the operator confirms the exact address and time after booking." },
+      { question: "What is included?", answer: "Pickup and drop-off from all Phuket hotels (if option selected); National Park fees; English-speaking guide; Light snacks on the pier before embarking; Soft drinks and mineral water; Thai-style set dinner; Travel insurance; Safety equipment." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "old-town-phuket-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Phuket; the operator confirms the exact address and time after booking." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; English-speaking tour guide; Snacks; Bottled drinking water; Entry fees; Insurance." },
+      { question: "What is not included?", answer: "Additional food and drinks; Tips." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "hidden-forest-elephant-reserve-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup in Phuket; the operator confirms the exact address and time after booking." },
+      { question: "What is included?", answer: "English Speaking Tour Guide; Hotel Pick up & Drop Off; Transportation by air-conditioned van; Vegan Meal (No dairy, eggs, Fish or oyster sauce); Educational introduction video; Entrance Ticket; Water refills." },
+      { question: "What is not included?", answer: "Tipping; Bathing with elephants." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "chiang-mai-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Chiang Mai. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Small group experience (maximum 8 guests); Licensed, English-speaking tour guide; 1-way Hotel Pick-up in a traditional songthaew; Dinner at a local market; Great company, stories, and meaningful conversation; Ladyboy Cabaret Admission with 1 drink and tips included; Accidental insurance coverage." },
+      { question: "What is not included?", answer: "Hotel Drop off; Gratuities for guide or crew." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "wat-lok-moli-food-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Chiang Mai. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "English speaking licensed guide; Hotel pickup and drop off( Private Tour only); Small-group experience capped at no more than 8 guests; Local transportation during the tour (red songthaew); Memorable local stories and curated food tastings; Admission fees to all attractions." },
+      { question: "What is not included?", answer: "Extra meals and drinks; Gratuities for guide; Hotel transfer." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "bangkok-grand-palace-wat-pho-golden-mount-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "BTS Ratchathewi Exit 1 & 3 (bus stop near BTS Ratchathewi Exit 1 & 3)." },
+      { question: "What is included?", answer: "English Speaking Guide; Hotel Pickup and Drop off (available for Private Tour only); Tuk Tuk Ride; Drinking Water; Public Transportation Fee during the tour." },
+      { question: "What is not included?", answer: "Entrance fees — approx 900 THB per person, paid at the official counters on the day (Grand Palace 500, Wat Pho 300, Golden Mount 100); Gratuities; Meal." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "chiang-mai-doi-suthep-wat-pha-lat-red-truck-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Discova Day Tour Shop Chiang Mai: 10/3 Wiang Kaew Rd, Tambon Si Phum, Muang, Chiang Mai 50200, Thailand." },
+      { question: "What is included?", answer: "Round-trip transport by local red songthaew; Departure and return at the Discova Day Tour Shop for shared options; Hotel pickup and drop-off within Chiang Mai for private options; Stops at Huay Kaew Waterfall, Wat Pha Lat and Wat Phra That Doi Suthep; Time to explore each stop independently." },
+      { question: "What is not included?", answer: "Guide services — this is an unguided experience; Admission fee to Wat Phra That Doi Suthep; Cable car ticket at Doi Suthep; Food and drinks and personal expenses; Hotel pickup and drop-off for shared options; Optional temple donations." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "phuket-amulet-market-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Phuket. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel Pickup and drop off (Optional); English Speaking Tour Guide; Lunch (Optional); Phuket Local Snack; Travel Insurance." },
+      { question: "What is not included?", answer: "Gratuity." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "phuket-amulet-market-painting-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Phuket. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel Pickup and drop off (Optional); English Speaking Tour Guide; Lunch (Optional); Phuket Local Snack; Travel Insurance." },
+      { question: "What is not included?", answer: "Gratuity." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "maya-bay-speedboat-boat-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup is included for any hotels in Phuket City." },
+      { question: "What is included?", answer: "Pickup and drop-off from all Phuket hotels; Speedboat with a fully trained crew; Speaking Guide (English, Italian, Spanish, French, and German); Light breakfast; Lunch; Drinks & snacks; Snorkeling Equipment (Life jacket, Fins and Mask); Admission fee/National Park fee; Travel Insurance." },
+      { question: "What is not included?", answer: "Personal expenses; Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "sea-gypsies-fish-market-sunset-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup is included for any hotels in Phuket City." },
+      { question: "What is included?", answer: "Hotel Pick up and Drop off from all hotels in Phuket; 1 Refresh Drink during Sunset; English Speaking Tour Guide; Dinner at Restaurant; 1 drink at restaurant; Travel Insurance." },
+      { question: "What is not included?", answer: "Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "hong-island-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Hotel pickup is included for any hotels in Phuket City." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off (Select included transfer option); Speedboat with a fully trained crew; National park fees; English-speaking tour guide; Buffet lunch; Soft drinks & Water; Snacks; Canoe/kayak activity; Travel insurance; Safety equipment." },
+      { question: "What is not included?", answer: "Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "kio-thian-keng-saphan-hin-shrine-food-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Pickup is included for any hotels in Phuket City." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off from hotel in Phuket; Dinner and Phuket food testing; Snack and dessert sample; Drinking water; English-speaking guide; Insurance." },
+      { question: "What is not included?", answer: "Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "phuket-phi-phi-bamboo-island-day-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Phuket. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Pickup and drop-off from all Phuket hotels; Speedboat with a fully trained crew; National Park fees; English Speaking Guide; Lunch; Fresh Fruit; Soft Drinks & Water; Snacks; Snorkeling Equipment (Mask, Life jacket and Fins); Travel insurance; Safety equipment." },
+      { question: "What is not included?", answer: "Gratuities." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "phang-nga-bay-bioluminescence-sea-canoe-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "Our Tour guide will waiting you at 5 Star Marine office, Pier Phuket Boat Lagoon, Mueang Phuket District, Phuket 83000." },
+      { question: "What is included?", answer: "Pickup and drop-off from all Phuket hotels (if option selected); National Park fees; English-speaking guide; Light snacks on the pier before embarking; Soft drinks and mineral water; Thai-style set dinner; Travel insurance; Safety equipment." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "agra-fort-sunset-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "Pick-up from Your Hotel in Anywhere in Agra." },
+      { question: "What is included?", answer: "Airport or hotel pickup and drop-off Private air-conditioned car; Private guide; Entry fees to the monuments (depending on option selected); Unlimited breakfast or lunch at a 5-star hotel (depending on option booked); Bottles of mineral water; Driver allowances; All toll taxes and parking." },
+      { question: "What is not included?", answer: "Any Personal Expenses." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "taj-mahal-luxury-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Agra. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "✅ Official Government-Approved Expert Tour Guide; ✅ Taj Mahal Entrance Tickets (High Value); ✅ Skip-the-Line VIP Entry for fast and hassle-free access; ✅ Private Golf Cart transfer from the parking area to the Taj Mahal entrance; ✅ Complimentary Mineral Water Bottles; ✅ Shoe Covers for entry into the Taj Mahal mausoleum; ✅ Camera Fee (where applicable); ✅ Personalized VIP assistance throughout your visit." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "hidden-forest-elephant-reserve-afternoon-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Phuket. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "English Speaking Tour Guide; Hotel Pick up & Drop Off; Transportation by air-conditioned van; Vegan Meal (No dairy, eggs, Fish or oyster sauce); Educational introduction video; Entrance Ticket; Water refills." },
+      { question: "What is not included?", answer: "Tipping; Bathing with elephants." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "food-tour-agra-food-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 2 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 20 people." },
+      { question: "Where does it start?", answer: "In Agra. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Introduction & welcome with traditional drinks; Cooking demonstration; Lunch/Dinner with local family." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "victoria-memorial-shopping-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "In Kolkata. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; Private air-conditioned transport; Professional tour guide; Water bottle; All taxes and parking." },
+      { question: "What is not included?", answer: "Entrance Tickets; Meals." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "golden-temple-heritage-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "In Amritsar. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off by car; Parking charges; Entry fees." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "golden-temple-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "In Amritsar. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Transportation from Amritsar city center Hotel to Sada Pind; Entry ticket to Sada Pind; Sada Pind Inclusions; Live Punjabi cultural village experience of traditional houses like Fulkari House, Weaver House, Paranda House, Musician House, Numberdar House, Potters House & many more; Live entertainment shows like Gatka, Bhangra Gidda, Mauta Ka Kuan, Baazigar Show, Cycle Show, Pehalwani Show & many more; Unlimited:-; Maki ki Rotti, Sarso ka Saag with Chaach at Kissan da Ghar; Traditional Khichdi at Sarpanch da Ghar; Mathi Chole at Tangewala da Ghar & Popcorn at Phullewali da Ghar." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "golden-temple-food-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "In Amritsar. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Storytelling in Hindi, English & Punjabi (according to your convenience); Food/Beverages; Transfer from one eating point to another (by walking, rickshaw, or tuk-tuk); Great stories and interesting conversations; Local life experience; Tips for bargaining and saving money." },
+      { question: "What is not included?", answer: "Personal expenses." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "baga-beach-half-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "In Goa. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; Private air-conditioned car; English tour guide; Entry tickets; Water bottle; All taxes and parking." },
+      { question: "What is not included?", answer: "Meals; Spice Plantation 650 INR extra." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "basilica-of-bom-jesus-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "In Goa. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Local English-speaking guide; Entry into heritage homes; Meeting with a well-renowned Goan musician." },
+      { question: "What is not included?", answer: "Hotel pickup and drop-off; Additional food and drinks; Souvenirs and items of a personal nature." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "calangute-beach-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "Where does it start?", answer: "In Goa. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Mineral-rich mud bath ritual; Ayurvedic botanical steam; Guided forest-floor yoga/stretch; Wellness host (English, Hindi; Russian/German on request); Herbal tea; Salt scrub station; Towels." },
+      { question: "What is not included?", answer: "Transport to/from Moksha Wellness; Personal clothing, yoga mats (optional to bring); Meals; Gratuities (optional)." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "ajanta-caves-full-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "In Aurangabad. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Transfers and sightseeing throughout the tour by a private air-conditioned car; Car capacity: 1 to 2 people in an A/c Sedan car, & 3 to 4 people in an SUV Car; Private English or multilingual guide; Professional driver who speaks good Hindi and English; A chargeable flashlight is also provided for exploring the caves; All toll parking, fuel, taxes, and service charges; Bottles of mineral water during journeys." },
+      { question: "What is not included?", answer: "Hotel stay; Entry tickets for Ajanta Caves or Ellora Caves; Shuttle bus charges; Lunch and dinner; Tips (gratuities)." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "daulatabad-fort-half-day-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "In Aurangabad. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Highly trained and friendly Storyteller/ Guide who can speak English & Hindi; Transport to places on this tour by AC Car; Great local tips, recommendations and conversations to explore religious aspect." },
+      { question: "What is not included?", answer: "Entrance Fee to any historical site; Drinks and Food other than mentioned\"." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "ajanta-caves-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 12 hours." },
+      { question: "Where does it start?", answer: "In Aurangabad. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Tour guide; Car for the sightseeing with pick up & drop." },
+      { question: "What is not included?", answer: "Meals; Enrance tickets." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "krabi-private-longtail-charter-hong-island") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "Where does it start?", answer: "Your hotel lobby in Ao Nang, Krabi Town or Klong Muang." },
+      { question: "What is included?", answer: "Private hotel pickup and drop-off; Exclusive use of the luxury longtail boat; Local skipper and English-speaking guide; Picnic meal and soft drinks; Snorkel gear and life jackets; Cool towels and drinking water; Insurance." },
+      { question: "What is not included?", answer: "National park entrance fees; Alcohol; Gratuities; Professional photography; Personal expenses." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "krabi-four-islands-separated-sea-longtail-trip") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 7 hours." },
+      { question: "Where does it start?", answer: "Hotel pickup in Ao Nang or Krabi Town, departure from Nopparat Thara pier." },
+      { question: "What is included?", answer: "Hotel pickup and drop-off; Longtail boat with local captain; English-speaking guide; Lunch; Snorkelling equipment; Drinking water and fruit; Life jackets; Insurance." },
+      { question: "What is not included?", answer: "National park entrance fee; Towels; Alcoholic drinks; Gratuities; Personal spending." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "patan-durbar-square-walking-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "In Kathmandu. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "English-speaking Nepali guide; Learn about Nepal's history, culture, and daily life; Interact with local communities and hear authentic stories; Explore local markets and cultural neighborhoods; Stop at scenic viewpoints and the best photo spots; Astrologer’s reading fees." },
+      { question: "What is not included?", answer: "Food and personal expenses; Entrance Fees; Tips for the guide." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "bhaktapur-durbar-square-spiritual-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "In Bhaktapur. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Proffessional Guide; JUJU Dhau; Explore local markets and cultural neighborhoods; Stop at scenic viewpoints and the best photo spots." },
+      { question: "What is not included?", answer: "Food and personal expenses; Entrance Fees; Tips for the guide." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "bhaktapur-durbar-square-spiritual-spiritual-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 6 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Garden of Dreams Main Gate." },
+      { question: "What is included?", answer: "Professional Guide; Transfer; Astrology reading." },
+      { question: "What is not included?", answer: "Personal exp; Entrance fee; Tip for the guide." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. We need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "western-group-of-temples-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 hours." },
+      { question: "Where does it start?", answer: "Entrance of western group of temples." },
+      { question: "What is included?", answer: "Professional guide." },
+      { question: "What is not included?", answer: "Entry ticket; Meal; Personal expenses." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "jama-masjid-heritage-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 10 people." },
+      { question: "Where does it start?", answer: "In Delhi. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Professional guide; Transportation; Water bottle." },
+      { question: "What is not included?", answer: "Entrance tickets; Meal; Personal expenses; Tips." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "india-gate-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 8 days." },
+      { question: "How big is the group?", answer: "Small — a maximum of 2 people." },
+      { question: "Where does it start?", answer: "In Delhi. The operator confirms the exact meeting point and time once your booking is confirmed, and you will have it well before the day." },
+      { question: "What is included?", answer: "Private air-conditioned vehicle throughout the tour; Car for 08 Days From Delhi-Agra-Jaipur-Jodhpur-Udaipur; Professional English-speaking driver; Pickup and drop-off from airport, hotel or designated location; English-speaking tour guides in Delhi, Agra, Jaipur, Jodhpur and Udaipur; All sightseeing and transfers as per the itinerary; Taj Mahal sunrise visit option; Fatehpur Sikri and Ranakpur sightseeing as mentioned in the itinerary; Lake Pichola sunset boat ride in Udaipur; Toll taxes, parking charges, fuel and driver expenses; Bottled drinking water during sightseeing; All applicable vehicle and interstate taxes; Assistance throughout the tour by our local team." },
+      { question: "What is not included?", answer: "Hotels (If option is not booked); Entrance Fee (If option is not booked); Meals." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "taj-mahal-professional-photography-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 12 people." },
+      { question: "Where does it start?", answer: "Taj Mahal or Hotel Agra." },
+      { question: "What is included?", answer: "30 best photos with Taj Mahal (hard and soft copies) - Per Person; Photo shoot by professional photographer & DSLR Camera; Official tour guide service for Taj Mahal; Sari and Maharaja robe for the photoshoot in Taj Mahal on rental basis (if option is selected); Water bottles." },
+      { question: "What is not included?", answer: "Enrance Fee; Sari & Robe (If option is not selected)." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "taj-mahal-local-guided-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 3 hours." },
+      { question: "How big is the group?", answer: "Small — a maximum of 30 people." },
+      { question: "Where does it start?", answer: "Hotel or any other location of your choice in Agra." },
+      { question: "What is included?", answer: "Professional local guide; Private guided Taj Mahal tour; Photography assistance and recommended viewpoints; Flexible sightseeing at your own pace." },
+      { question: "What is not included?", answer: "Any Meals; Personal Expenses." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
+  if (slug === "india-gate-triangle-private-tour") {
+    return [
+      { question: "How long does this tour take?", answer: "It runs 4 days." },
+      { question: "How big is the group?", answer: "Small — a maximum of 5 people." },
+      { question: "Where does it start?", answer: "Pick up from your hotel or Delhi Airport at your selected time." },
+      { question: "What is included?", answer: "Professional licensed tour guide; Private air-conditioned car for the entire Delhi, Agra, and Jaipur tour; 3-star hotel accommodation or upgraded hotel option; Hotel, airport, or selected-location pickup and drop-off; Skip-the-ticket-line access at the Taj Mahal; Bottled drinking water in the vehicle; All applicable taxes and service charges." },
+      { question: "What is not included?", answer: "Guide and driver gratuities; Personal expenses and shopping; Lunch and dinner; Monument entrance tickets; Tips and gratuities for hotel staff; Travel insurance; Any services not mentioned in the inclusions." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final. Same-day bookings are usually fine in India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." },
+    ];
+  }
+
     return null;
 };
