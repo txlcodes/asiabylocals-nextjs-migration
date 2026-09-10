@@ -2310,12 +2310,29 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Important Information */}
                   <div className="mb-8">
                     <h2 className="text-2xl font-black text-[#001A33] mb-4">Important information</h2>
-                    {tour.meetingPoint && (
-                      <div className="mb-4">
-                        <h3 className="text-[18px] font-black text-[#001A33] mb-2">Meeting point</h3>
+                    {/* When there is no meeting point the whole block used to vanish,
+                        so the guest saw nothing at all and only discovered there was
+                        no address on the morning of the tour. That is what cost us a
+                        refund in Kyoto on 2026-09-09. Say plainly what happens next
+                        instead of showing a gap. */}
+                    <div className="mb-4">
+                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">Meeting point</h3>
+                      {tour.meetingPoint ? (
                         <p className="text-[16px] text-gray-700 font-semibold">{tour.meetingPoint}</p>
-                      </div>
-                    )}
+                      ) : tour.pickupIncluded ? (
+                        <p className="text-[16px] text-gray-700 font-semibold">
+                          Hotel pickup is included. The operator confirms your pickup point and time
+                          once your booking is confirmed. If you need it before you book, message us
+                          on WhatsApp and we will ask them.
+                        </p>
+                      ) : (
+                        <p className="text-[16px] text-gray-700 font-semibold">
+                          The operator confirms the exact meeting point and time once your booking is
+                          confirmed, and you will have it well before the day. If you would rather
+                          know before you book, message us on WhatsApp and we will ask them for you.
+                        </p>
+                      )}
+                    </div>
                     <div>
                       <h3 className="text-[18px] font-black text-[#001A33] mb-2">Know before you go</h3>
                       <ul className="space-y-2">
