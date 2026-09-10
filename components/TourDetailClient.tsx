@@ -1617,9 +1617,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         </span>
                       </div>
                       <div className="text-[14px] text-gray-600 font-semibold">
-                        {/* The operator's real trading name stays internal. Publishing it just
-                            lets the traveller search them up and book direct. */}
-                        Activity provider: AsiaByLocals
+                        {/* Show the real operator. This was previously hardcoded to
+                            AsiaByLocals to keep the trading name internal, so a traveller
+                            could not look them up and book direct. Reversed on the call
+                            that naming the actual local operator is what "by locals"
+                            means, and it is what every large marketplace does.
+                            Falls back to our own name where no operator is recorded. */}
+                        Activity provider: {tour?.activityProvider?.trim() || 'AsiaByLocals'}
                       </div>
                     </div>
 
