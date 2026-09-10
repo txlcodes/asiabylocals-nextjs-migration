@@ -283,8 +283,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
 
   const dubaiInfoPages = [
-    'burj-khalifa-tickets-guide', 'dubai-desert-safari-guide', 'best-time-to-visit-dubai', 'getting-around-dubai', 'old-dubai-and-the-souks-guide', 'dubai-2-day-itinerary', 'dubai-with-kids-guide', 'dubai-marina-and-the-palm-guide'
-  ].map(slug => ({
+    'burj-khalifa-tickets-guide',
+    'dubai-desert-safari-guide',
+    'best-time-to-visit-dubai',
+    'getting-around-dubai',
+    'old-dubai-and-the-souks-guide',
+    'dubai-2-day-itinerary',
+    'dubai-with-kids-guide',
+    'dubai-marina-and-the-palm-guide',
+    'dubai-yacht-charter-guide',
+    'dubai-helicopter-tours-guide',
+    'day-trips-from-dubai',
+    'dubai-water-sports-guide'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

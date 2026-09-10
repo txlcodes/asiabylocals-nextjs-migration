@@ -404,6 +404,32 @@ const HAKONE_SIDEBAR = [
     { name: 'Hakone or Kawaguchiko?', slug: 'hakone-or-kawaguchiko-for-mount-fuji' },
 ];
 
+const DUBAI_SIDEBAR = [
+    { name: 'Burj Khalifa Tickets', slug: 'burj-khalifa-tickets-guide' },
+    { name: 'Desert Safari Guide', slug: 'dubai-desert-safari-guide' },
+    { name: 'Yacht Charters', slug: 'dubai-yacht-charter-guide' },
+    { name: 'Helicopter Tours', slug: 'dubai-helicopter-tours-guide' },
+    { name: 'Water Sports', slug: 'dubai-water-sports-guide' },
+    { name: 'Day Trips from Dubai', slug: 'day-trips-from-dubai' },
+    { name: 'Old Dubai & the Souks', slug: 'old-dubai-and-the-souks-guide' },
+    { name: 'Marina & the Palm', slug: 'dubai-marina-and-the-palm-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-dubai' },
+    { name: 'Getting Around', slug: 'getting-around-dubai' },
+    { name: 'Dubai with Kids', slug: 'dubai-with-kids-guide' },
+    { name: '2-Day Itinerary', slug: 'dubai-2-day-itinerary' },
+];
+
+const ABU_DHABI_SIDEBAR = [
+    { name: 'Sheikh Zayed Grand Mosque', slug: 'sheikh-zayed-grand-mosque-guide' },
+    { name: 'Louvre Abu Dhabi', slug: 'louvre-abu-dhabi-guide' },
+    { name: 'Qasr Al Watan', slug: 'qasr-al-watan-guide' },
+    { name: 'Yas Island Parks', slug: 'yas-island-parks-guide' },
+    { name: 'Desert Safari Guide', slug: 'abu-dhabi-desert-safari-guide' },
+    { name: 'Day Trip from Dubai', slug: 'abu-dhabi-day-trip-from-dubai' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-abu-dhabi' },
+    { name: 'Abu Dhabi City Guide', slug: 'abu-dhabi-city-guide' },
+];
+
 const MOUNT_FUJI_SIDEBAR = [
     { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
     { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
@@ -527,6 +553,8 @@ export default function CityInfoClient({ country, city, slug }: Props) {
         nagoya: NAGOYA_SIDEBAR,
         hakone: HAKONE_SIDEBAR,
         'mount-fuji': MOUNT_FUJI_SIDEBAR,
+        dubai: DUBAI_SIDEBAR,
+        'abu-dhabi': ABU_DHABI_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

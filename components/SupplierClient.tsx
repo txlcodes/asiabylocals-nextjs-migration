@@ -343,7 +343,7 @@ function SupplierClientContent() {
                     </div>
                     <div className="p-3">
                       <div className="text-[9px] font-black text-[#10B981] uppercase mb-1">CULTURAL TOUR</div>
-                      <h4 className="text-xs font-black text-[#001A33] mb-2 leading-tight">Tokyo: Gion District Evening Cultural Walk with Local Scholar</h4>
+                      <h4 className="text-xs font-black text-[#001A33] mb-2 leading-tight">Tokyo: Yanaka Old Town Evening Walk with a Local Historian</h4>
                       <div className="flex items-center gap-2 mb-2">
                         <div className="flex items-center gap-1">
                           <Star size={10} className="text-yellow-400 fill-yellow-400" />

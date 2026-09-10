@@ -366,6 +366,154 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "dubai-yacht-charter-guide":
+      return {
+        title: "Dubai Yacht Charters: What You Are Actually Paying For",
+        seoTitle: "Dubai Yacht Charter Guide 2026",
+        description: "Shared cruise versus private charter, why the Marina and the Palm are different trips, what the hourly rate leaves out, and when the swim stop is worth it.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "ship", label: "Shared cruise", value: "From about USD 40 per person" },
+          { icon: "anchor", label: "Private charter", value: "Priced per boat per hour, not per head" },
+          { icon: "clock", label: "Usual minimum", value: "2 hours, and 2 hours is genuinely short" },
+          { icon: "sun", label: "Best light", value: "The 4pm and sunset slots" },
+          { icon: "wind", label: "Rough months", value: "Occasional cancellations December to February" },
+        ],
+        sections: [
+          {
+            title: "Shared cruise or private charter",
+            icon: "ship",
+            content: "These are two different products sold under the same word.\n\nA **shared cruise** puts you on a large boat with fifty to two hundred other people, usually with a buffet and a show, priced per person. It is the cheap way onto the water and it is fine for what it is. Our [dinner cruise with a chef-designed menu](/uae/dubai/dubai-dinner-cruise-with-a-chef-designed-menu-and-live-music) and the [superyacht cruise with a DJ and open bar](/uae/dubai/dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar) sit here.\n\nA **private charter** is the whole boat, priced by the hour regardless of how many of you there are. Four people on a private boat costs the same as ten. This is why the per-person maths flips completely once you are a group: a [private yacht for up to twelve guests](/uae/dubai/dubai-private-yacht-hire-for-up-to-twelve-guests) can work out cheaper per head than a shared ticket.\n\nIf you are two people and want the water, take a shared cruise. If you are six or more, price the private option before you assume it is out of reach.",
+          },
+          {
+            title: "The Marina and the Palm are not the same trip",
+            icon: "map-pin",
+            content: "Almost every Dubai charter leaves from Dubai Marina or Dubai Harbour, and where it goes from there decides what you actually see.\n\nA **Marina loop** keeps you inside the canal among the towers. It is dense, dramatic and best after dark when the whole thing is lit. It is also the shortest run, which is why two-hour charters usually stay here.\n\nGoing **out to the Palm and the Burj Al Arab** means leaving the breakwater into open water. That is the postcard: Atlantis, the Palm's fronds, the Burj Al Arab from the sea. It needs at least three hours to be unhurried, and it is the reason [a charter around the Palm](/uae/dubai/private-yacht-charter-around-the-palm-jumeirah) is priced above a Marina-only run.\n\nAsk which one your booking covers. \"Yacht tour Dubai\" is sold for both.",
+          },
+          {
+            title: "What the hourly rate leaves out",
+            icon: "wallet",
+            content: "The advertised rate is the boat and the crew. Read what else is listed before you compare two quotes.\n\nCommonly extra: **food beyond light snacks**, alcohol, a DJ, water-sports toys, and fuel surcharges on longer runs. Commonly included: soft drinks, water, ice, towels, and a Bluetooth sound system.\n\nBoarding is usually 15 minutes before departure and the clock starts at the scheduled time, not when you arrive. A late group loses that time from their own charter, not from the next one.\n\nOne genuinely useful upgrade is the **swim stop**. The boat anchors in calm water off the Palm and you get in. It is the part people remember, and it needs a boat with a ladder and a crew willing to stop, so check it is on the itinerary rather than assuming. Our [private cruise with a swim stop](/uae/dubai/dubai-private-cruise-with-a-swim-stop-and-sunbathing) is built around it.",
+          },
+          {
+            title: "When to go, and when the sea says no",
+            icon: "sun",
+            content: "**October to April** is the season. Outside it, midday on an open deck in Dubai is genuinely unpleasant and the sunset slot is the only comfortable one.\n\nThe **4pm and sunset departures** are the best value in any month: you get the last of the daylight on the towers and then the whole skyline lit on the way back. Morning runs are calmer water and better for swimming.\n\nBetween **December and February** the Gulf occasionally gets rough enough that the coastguard restricts small craft. Charters are cancelled rather than sailed, usually the morning of. Operators refund or move the booking, but if you have one evening in Dubai, do not make it the one thing on your itinerary.\n\nNew Year is its own event. Boats position off the Palm and Burj Khalifa for the fireworks and sell out months ahead at several times the normal rate: the [New Year's Eve megayacht cruise](/uae/dubai/dubai-new-years-eve-megayacht-cruise-with-dinner-and-fireworks) is not priced like an ordinary evening because it is not one.",
+          },
+        ],
+      };
+
+    case "dubai-helicopter-tours-guide":
+      return {
+        title: "Dubai Helicopter Tours: Twelve Minutes, Seventeen, or Twenty-Five",
+        seoTitle: "Dubai Helicopter Tour Guide 2026",
+        description: "What each flight length actually covers, why the seat you get is not guaranteed, weight rules nobody mentions, and whether it beats the Burj Khalifa for the money.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "helicopter", label: "Shortest flight", value: "12 minutes — the Palm and Burj Al Arab" },
+          { icon: "clock", label: "Longest standard", value: "About 25 minutes, adds the Burj Khalifa and old Dubai" },
+          { icon: "map-pin", label: "Departure", value: "Atlantis helipad or the Palm, not the airport" },
+          { icon: "users", label: "Weight rules", value: "Declared per passenger; over ~100 kg often costs a second seat" },
+          { icon: "camera", label: "Windows", value: "Do not open. Bring a lens hood, not a flash" },
+        ],
+        sections: [
+          {
+            title: "What each flight length actually gives you",
+            icon: "helicopter",
+            content: "Flights are sold in minutes and the difference is real, not marketing.\n\n**Around 12 minutes** is a loop over the Palm Jumeirah, Atlantis and the Burj Al Arab. It is the cheapest way into a helicopter in Dubai and it covers the images most people came for. It is also over quickly, and the first two minutes are spent climbing.\n\n**Around 17 minutes** adds Dubai Marina and the coastline north.\n\n**Around 25 minutes** is the one that reaches the **Burj Khalifa, Downtown and the creek** — old Dubai, the Frame, the whole spine of the city. If seeing the Burj Khalifa from the air is the point, check the duration before booking, because the short loops do not go there. Our [tour over the Palm and Burj Al Arab](/uae/dubai/dubai-helicopter-tour-over-the-palm-and-burj-al-arab) is the classic short run; the [flight paired with an old town walk](/uae/dubai/dubai-helicopter-flight-with-old-town-walking-tour-and-abra) covers the other half of the city on foot.",
+          },
+          {
+            title: "The seat is not guaranteed, and it matters",
+            icon: "users",
+            content: "Seating in a helicopter is assigned by the pilot for weight and balance, not by who booked first or paid most. On a shared flight you may get a middle seat with a partial view.\n\nIf the window seat matters, the only reliable answer is a **private charter** of the whole aircraft, which is sold separately and costs several times a shared seat.\n\nRelated and rarely mentioned: operators ask for **each passenger's weight at booking** and it is not a formality. Passengers over roughly 100 kg are often required to buy a second seat, and it is checked at the helipad. Declare it honestly when you book rather than being told at the pad, where there is no time to fix it.",
+          },
+          {
+            title: "Is it better value than an observation deck?",
+            icon: "wallet",
+            content: "A helicopter flight costs several times a Burj Khalifa ticket for a fraction of the time, so the honest comparison is what each one is for.\n\nThe **Burj Khalifa** gives you a long, still, elevated view and time to look at it. A **helicopter** gives you the shape of the city — the Palm as an actual palm, the coastline, how thin the developed strip really is against the desert. You cannot get that from any building, and you cannot linger on it either.\n\nIf you have one splurge and you want photographs, the helicopter wins. If you want an experience you can sit with, [the tower](/uae/dubai/burj-khalifa-tickets-guide) is better value.\n\nA useful middle path is the combined day: our [helicopter flight with a desert safari](/uae/dubai/dubai-helicopter-flight-and-desert-safari-combined-day) puts the two halves of the emirate, the built and the empty, into one booking.",
+          },
+          {
+            title: "Practicalities that catch people out",
+            icon: "clock",
+            content: "**Arrive 45 minutes early.** There is a security check and a safety briefing, and the flight leaves on its slot whether or not you are through them.\n\n**Departure is from the Atlantis helipad or Palm Jumeirah**, not from the airport. It is a real journey from Downtown and a common cause of missed slots.\n\n**Windows do not open** and the glass is curved. Shoot without a flash, keep the lens close to the glass to kill reflections, and accept that phone photos through a helicopter window will not match the brochure.\n\n**Wind cancels flights** more often than rain does, particularly between December and February. Operators rebook rather than refund where they can, so leave the flight early in your trip rather than on the last afternoon.",
+          },
+        ],
+      };
+
+    case "day-trips-from-dubai":
+      return {
+        title: "Day Trips from Dubai: Which Ones Are Worth the Drive",
+        seoTitle: "Best Day Trips from Dubai 2026",
+        description: "Abu Dhabi, Al Ain, the east coast and Musandam compared by driving time, what each one is actually for, and the border rule that catches people out.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "car", label: "Abu Dhabi", value: "About 1.5 hours each way" },
+          { icon: "mountain", label: "Al Ain", value: "About 1.5 hours — oasis, camel market, Jebel Hafeet" },
+          { icon: "waves", label: "Fujairah & Khorfakkan", value: "About 2 hours — the Gulf of Oman coast" },
+          { icon: "passport", label: "Musandam", value: "Oman. Passport required, and it is a real border" },
+          { icon: "sun", label: "Best season", value: "October to April for anything outdoors" },
+        ],
+        sections: [
+          {
+            title: "Abu Dhabi: the one most people should do",
+            icon: "landmark",
+            content: "Ninety minutes down the E11 and it is a genuinely different city — lower, greener, slower, and built around one of the most impressive buildings in the region.\n\nThe **Sheikh Zayed Grand Mosque** is the reason to go and it is free to enter. Dress code is enforced at the door: ankles and shoulders covered for everyone, hair covered for women. Abayas are lent at the entrance but the queue for them is long.\n\nThe honest trap is trying to add a theme park. Our [day trip with the Grand Mosque and a theme park](/uae/dubai/abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park) works because the park is the afternoon and nothing else is squeezed in. Mosque plus Louvre plus Qasr Al Watan plus Ferrari World in one day is a coach schedule, not a visit.\n\nIf art is the draw, the [Louvre and Grand Mosque pairing](/uae/dubai/louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai) is the better shape of day. The [full-day tour with the Corniche](/uae/dubai/abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche) is the cheapest way to see the city at all.",
+          },
+          {
+            title: "Al Ain: the desert city, and the least touristy day out",
+            icon: "mountain",
+            content: "Inland on the Omani border, Al Ain is where Emiratis go in summer because it is dry rather than humid, and several degrees cooler at altitude.\n\nWhat makes it worth a day is that it is **not** a built-from-nothing skyline. The **oasis** is a working falaj irrigation system that is a UNESCO site and genuinely old. The **camel market** is a real livestock market, loud and unpolished, and not arranged for visitors. **Jebel Hafeet** is a 1,240 m mountain with a road to the top and the best view in the country at sunset.\n\nIt is the day to take if you have already done Dubai's set pieces and want the UAE that existed before them. Our [Al Ain day trip](/uae/dubai/al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet) covers all three.\n\nOne caution: parts of the road up Jebel Hafeet cross into Omani territory on some maps and the drive is steep and hot. Do it with a driver rather than a rental if you are not used to mountain roads.",
+          },
+          {
+            title: "The east coast: the sea on the other side",
+            icon: "waves",
+            content: "Two hours east across the Hajar mountains and you reach the **Gulf of Oman**, which is a different sea from the one Dubai sits on: clearer, cooler, and with actual reefs.\n\n**Khorfakkan** has a proper beach and an amphitheatre carved into the hillside. **Fujairah** has the oldest mosque in the country. The drive itself, through the mountains, is the part most people underestimate.\n\nThis is the day for snorkelling. The water off **Dibba** and Snoopy Island is the best accessible reef in the UAE, and our [Dibba snorkelling day trip](/uae/dubai/dibba-fujairah-snorkelling-day-trip-from-dubai) goes for that rather than the sightseeing. For the coast and the towns, the [east coast tour with Khor Fakkan](/uae/dubai/fujairah-east-coast-day-tour-from-dubai-with-khor-fakkan) is the general version.\n\nExpect four hours of driving in total. It is a long day and worth it in winter, punishing in July.",
+          },
+          {
+            title: "Musandam is Oman, and that changes the day",
+            icon: "passport",
+            content: "The dhow cruise through Musandam's fjords is the most scenic day trip from Dubai and the one with a genuine catch: **it is in Oman, and you cross an international border.**\n\nYou need your **passport**, not an Emirates ID or a copy. Depending on nationality you may need an Omani visa arranged in advance, and some nationalities cannot get one at the Dibba crossing at all. Operators will tell you what applies to your passport, but ask before booking rather than after.\n\nBudget for the crossing itself: it adds time at both ends and the queue is unpredictable.\n\nWhat you get for it is limestone cliffs dropping into still green water, dolphins more often than not, and a swim stop in a fjord. There is nothing like it in the UAE. Our [Musandam dhow cruise](/uae/dubai/musandam-dibba-dhow-cruise-day-trip-from-dubai) is a full day and it earns the length.",
+          },
+        ],
+      };
+
+    case "dubai-water-sports-guide":
+      return {
+        title: "Water Sports in Dubai: Jet Skis, Kayaks, Diving and the Rules",
+        seoTitle: "Dubai Water Sports Guide 2026",
+        description: "Where jet skis are actually allowed near the Burj Al Arab, what a first dive involves, why night kayaking is the underrated one, and the licence and age rules.",
+        heroImage: IMG,
+        fastFacts: [
+          { icon: "waves", label: "Jet ski", value: "30 minutes to 2 hours, guided, from about USD 60" },
+          { icon: "anchor", label: "First-time diving", value: "No certification needed for a discover dive" },
+          { icon: "moon", label: "Night kayaking", value: "Clear kayaks with lights, Marina and Palm" },
+          { icon: "fish", label: "Deep-sea fishing", value: "Half day, private boat, catch often cooked for you" },
+          { icon: "sun", label: "Sea temperature", value: "Around 22C in winter, over 33C in August" },
+        ],
+        sections: [
+          {
+            title: "Jet skis: guided, and not where you think",
+            icon: "waves",
+            content: "Free-roaming jet ski hire is not a thing in Dubai. Rides are **guided in a convoy** with a lead rider, along an approved route, and that is a coastguard rule rather than an operator preference.\n\nWhat this means in practice is good: you are taken to the views rather than left to find them. The standard route runs from the Marina out past the **Burj Al Arab** and towards **Atlantis and the Palm**, which is where the photographs come from. Our [one-hour ride to Atlantis and the Palm](/uae/dubai/dubai-one-hour-jet-ski-tour-to-atlantis-and-the-palm) is that route.\n\n**30 minutes is too short.** A good part of it is spent getting out of the Marina at low speed. An hour is the sensible minimum if you want time at the landmarks.\n\nYou do not need a licence. Minimum age to drive is usually 16, with younger children allowed as passengers. Photographs are almost always sold separately, and a [ride with an onboard sound system](/uae/dubai/dubai-guided-jet-ski-ride-with-onboard-sound-system) is the same route with better company.",
+          },
+          {
+            title: "Diving without a certificate",
+            icon: "anchor",
+            content: "A **discover scuba** session lets an uncertified beginner dive to about 12 metres with an instructor, after a pool or shallow-water briefing. It is not a course and does not certify you, but it is a real dive.\n\nThe honest part: **Dubai is not a great dive destination.** The Gulf side is shallow, warm and often low on visibility, and the marine life is modest. The east coast at Fujairah is markedly better and that is where serious divers go.\n\nWhat a [first dive in Dubai](/uae/dubai/discover-scuba-diving-in-dubai-first-dive) is genuinely good for is finding out whether you like breathing underwater before committing to a course elsewhere. Treat it as that and it is excellent value. Expect two to three hours in total for perhaps 30 minutes underwater.\n\nDo not fly within 18 hours of diving. This catches people on the last day of a trip more often than anything else on this page.",
+          },
+          {
+            title: "The underrated one: kayaking at night",
+            icon: "moon",
+            content: "Clear-bottomed kayaks with LED lights, paddled around the Marina or the Palm after dark. It sounds like a gimmick and it is the trip people talk about afterwards.\n\nThe reason it works is temperature. Dubai's water is a bathtub for eight months of the year and the sun is the limiting factor, not the sea. Removing the sun removes the problem, and the skyline lit from water level is a better view than any deck.\n\nIt is calm-water paddling with no experience required, and it suits people who would not book a jet ski. Our [night kayaking session](/uae/dubai/dubai-night-kayaking-with-illuminated-kayaks-and-skyline-views) runs from the Marina.\n\nIf you want the adrenaline version instead, a [flyboard session off the Burj Al Arab](/uae/dubai/dubai-flyboard-session-with-instructor-off-the-burj-al-arab) is thirty minutes of falling over followed by about five of actually flying, which is the honest ratio for a first attempt.",
+          },
+          {
+            title: "Fishing, and what the season does",
+            icon: "fish",
+            content: "Deep-sea fishing out of Dubai is a private-boat product, priced per boat by the hour like a yacht charter rather than per person. Four hours is the usual minimum and it is mostly trolling and bottom fishing for kingfish, queenfish, barracuda and grouper.\n\nThe good operators will **cook your catch** on the way back or arrange for a restaurant to. That is worth confirming, because it changes the day from a boat ride into a meal you caught. Our [deep-sea trip with your catch grilled](/uae/dubai/dubai-private-deep-sea-fishing-trip-with-your-catch-grilled) is built that way; the [four-hour trolling and casting trip](/uae/dubai/dubai-four-hour-deep-sea-fishing-trolling-and-casting) is the fishing-first version.\n\n**October to April** is the season for both fish and comfort. Summer trips run but the heat on an open deck at midday is not a small thing.\n\nCatch is never guaranteed, and any operator promising it is telling you something about themselves.",
+          },
+        ],
+      };
+
     default:
       return null;
   }
