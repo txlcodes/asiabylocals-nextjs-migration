@@ -4035,7 +4035,16 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         </div>
         <button
           onClick={() => {
+            // This used to only scroll. If the ref was not ready, or the guest
+            // was already looking at the booking box, pressing Book Now did
+            // nothing at all and the booking silently stalled. Now it runs the
+            // same step the main button would, so the guest either moves
+            // forward or is told what is missing.
             bookingBoxRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            setTimeout(() => {
+              if (availabilityStatus === 'available') handleProceedToBooking();
+              else handleCheckAvailability();
+            }, 400);
           }}
           className="bg-[#0071EB] hover:bg-[#0056b3] text-white font-black py-3 px-8 rounded-xl text-[15px] transition-all shadow-lg"
         >
