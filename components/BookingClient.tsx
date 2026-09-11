@@ -5,6 +5,17 @@ import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { CheckCircle, Download, Mail, Phone, MessageCircle, User, Calendar, Users, MapPin, ArrowLeft, X, AlertCircle, Loader2 } from 'lucide-react';
 
+// Canonical tour URL for a booking, e.g. /india/agra/taj-mahal-official-guided-tour.
+// Returns null when the payload is missing the parts, so the caller can send the
+// guest to support rather than to a page that cannot take their payment.
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function retryUrl(booking: any): string | null {
+  const t = booking?.tour;
+  const slugify = (v: string) => v.toLowerCase().trim().replace(/\s+/g, '-');
+  if (!t?.slug || !t?.city || !t?.country) return null;
+  return `/${slugify(t.country)}/${slugify(t.city)}/${t.slug}`;
+}
+
 interface BookingClientProps {
   bookingId: string;
 }
@@ -124,28 +135,16 @@ function BookingClientContent({ bookingId }: BookingClientProps) {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               {bookingId && (
                 <button
-                  onClick={async () => {
-                    try {
-                      const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
-                      const bookingResponse = await fetch(`${API_URL}/api/bookings/${bookingId}`);
-                      const bookingData = await bookingResponse.json();
-
-                      if (bookingData.success && bookingData.booking?.tourId) {
-                        const tourResponse = await fetch(`${API_URL}/api/tours/${bookingData.booking.tourId}`);
-                        const tourData = await tourResponse.json();
-
-                        if (tourData.success && tourData.tour?.slug) {
-                          router.push(`/tour/${tourData.tour.slug}`);
-                        } else {
-                          router.push('/');
-                        }
-                      } else {
-                        router.push('/');
-                      }
-                    } catch (err) {
-                      console.error('Error retrying payment:', err);
-                      router.push('/');
-                    }
+                  onClick={() => {
+                    // The confirmation payload already carries the tour's
+                    // country, city and slug, so build the canonical tour URL
+                    // straight from it. The old version re-fetched the tour and
+                    // pushed /tour/<slug>, but that route takes an id, so every
+                    // retry fell through to the homepage and the guest had no
+                    // way back to the checkout.
+                    const url = retryUrl(booking);
+                    if (url) router.push(url);
+                    else router.push('/support');
                   }}
                   className="px-6 py-3 bg-[#10B981] text-white font-black rounded-xl hover:bg-[#059669] transition-colors"
                 >
