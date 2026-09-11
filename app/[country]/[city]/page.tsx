@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
+import { countryDisplayName } from '@/lib/countryName';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -157,7 +158,7 @@ async function countApprovedTours(countryName: string, cityName: string): Promis
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country, city } = await params;
   const cityName = capitalize(city);
-  const countryName = capitalize(country);
+  const countryName = countryDisplayName(country);
   const meta = CITY_META[cityName];
   const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
   const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
@@ -214,7 +215,7 @@ export default async function CityPage({ params }: Props) {
   }
 
   const cityName = capitalize(city);
-  const countryName = capitalize(country);
+  const countryName = countryDisplayName(country);
 
   let tours: any[] = [];
   try {

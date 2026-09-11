@@ -318,6 +318,7 @@ const MIRISSA_SIDEBAR = [
 ];
 
 const KANDY_SIDEBAR = [
+    { name: 'Leaving Kandy: Transfers', slug: 'leaving-kandy-onward-transfers' },
     { name: 'Temple of the Tooth', slug: 'temple-of-the-tooth-guide' },
     { name: 'Kandy to Ella Train', slug: 'kandy-to-ella-train-guide' },
     { name: 'Esala Perahera', slug: 'kandy-esala-perahera-guide' },

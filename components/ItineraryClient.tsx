@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { MapPin, Clock, Train, Lightbulb, ChevronRight, AlertTriangle } from 'lucide-react';
 import type { ItineraryData } from '@/lib/japanItineraries';
+import { countryDisplayName } from '@/lib/countryName';
 
 interface Props {
   data: ItineraryData;
@@ -19,7 +20,7 @@ function cloudinaryLoader({ src, width, quality }: { src: string; width: number;
 }
 
 export default function ItineraryClient({ data, country, slug, tourMap, allSlugs }: Props) {
-  const countryLabel = country.charAt(0).toUpperCase() + country.slice(1);
+  const countryLabel = countryDisplayName(country);
 
   return (
     <div className="min-h-screen bg-white">

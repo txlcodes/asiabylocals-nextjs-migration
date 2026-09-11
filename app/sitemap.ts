@@ -380,8 +380,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const kandyInfoPages = [
-    'temple-of-the-tooth-guide', 'kandy-to-ella-train-guide', 'kandy-esala-perahera-guide', 'best-time-to-visit-kandy', 'kandy-city-guide', 'getting-around-kandy', 'day-trips-from-kandy', 'kandy-2-day-itinerary'
-  ].map(slug => ({
+    'temple-of-the-tooth-guide',
+    'kandy-to-ella-train-guide',
+    'kandy-esala-perahera-guide',
+    'best-time-to-visit-kandy',
+    'kandy-city-guide',
+    'getting-around-kandy',
+    'day-trips-from-kandy',
+    'kandy-2-day-itinerary',
+    'leaving-kandy-onward-transfers'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

@@ -7,6 +7,7 @@ import { getTourReviews } from '@/lib/tourReviews';
 import Link from 'next/link';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
+import { countryDisplayName } from '@/lib/countryName';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -443,7 +444,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function SlugPage({ params }: Props) {
   const { country, city, slug } = await params;
   const cityName = capitalize(city);
-  const countryName = capitalize(country);
+  const countryName = countryDisplayName(country);
   const countrySlug = country.toLowerCase();
   const citySlug = city.toLowerCase();
 

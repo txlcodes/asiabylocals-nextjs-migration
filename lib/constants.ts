@@ -293,8 +293,15 @@ export const SIGIRIYA_INFO_SLUGS = [
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.
 export const KANDY_INFO_SLUGS = [
-  'temple-of-the-tooth-guide', 'kandy-to-ella-train-guide', 'kandy-esala-perahera-guide', 'best-time-to-visit-kandy',
-  'kandy-city-guide', 'getting-around-kandy', 'day-trips-from-kandy', 'kandy-2-day-itinerary'
+  'temple-of-the-tooth-guide',
+  'kandy-to-ella-train-guide',
+  'kandy-esala-perahera-guide',
+  'best-time-to-visit-kandy',
+  'kandy-city-guide',
+  'getting-around-kandy',
+  'day-trips-from-kandy',
+  'kandy-2-day-itinerary',
+  'leaving-kandy-onward-transfers'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

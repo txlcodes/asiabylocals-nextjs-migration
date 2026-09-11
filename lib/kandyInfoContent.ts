@@ -919,6 +919,43 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "leaving-kandy-onward-transfers":
+      return {
+        title: "Leaving Kandy: The Routes Out, and Why the Drive Is the Day",
+        seoTitle: "Kandy Onward Transfers Guide 2026",
+        description: "Kandy to Nuwara Eliya, Ella, Sigiriya and Trincomalee — driving times, why a guided transfer is not a taxi, and how to combine the road with the hill country train.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375809/asiabylocals/tours/from-kandy-all-inclusive-full-day-tour-in-kandy-private/img0.jpg",
+        fastFacts: [
+          { icon: "car", label: "Kandy to Nuwara Eliya", value: "About 3 hours, a full day with tea stops" },
+          { icon: "train", label: "Kandy to Ella", value: "7 hours by train, about 5 by road" },
+          { icon: "landmark", label: "Kandy to Sigiriya", value: "About 3 hours north" },
+          { icon: "waves", label: "Kandy to Trincomalee", value: "5 to 6 hours, usually via Sigiriya" },
+          { icon: "clock", label: "Leave by", value: "7am. Hill roads are slow and get slower" },
+        ],
+        sections: [
+          {
+            title: "A guided transfer is not a taxi",
+            icon: "car",
+            content: "This is the thing that costs people a day, and it is worth being blunt about.\n\nIn Sri Lanka a **guided transfer** means a private car with a driver-guide that leaves in the morning, stops at three or four genuine places along the route, and delivers you to your next hotel in the evening. You are buying the day, not the kilometres. A plain airport-style taxi does the same drive with nothing in it, for not much less.\n\nOn the Kandy routes the stops are the reason to go: Peradeniya Botanical Gardens, Ramboda Falls, a working tea factory, the Nanu Oya railway. Our [transfer to Nuwara Eliya with a tea factory and Ramboda Falls](/sri-lanka/kandy/kandy-to-nuwara-eliya-guided-transfer-with-tea-factory-and-ramboda-falls) and the [Ella transfer via Peradeniya Gardens and Ramboda](/sri-lanka/kandy/kandy-to-ella-guided-transfer-with-peradeniya-gardens-and-ramboda-falls) are both built this way.\n\nPractical consequence: **do not book early check-in at your next hotel.** You will arrive in the evening, and that is correct.",
+          },
+          {
+            title: "South to tea country, and the train problem solved",
+            icon: "train",
+            content: "The Kandy to Ella railway is one of the world's great train journeys and also **seven hours** of it, unreserved unless you book well ahead.\n\nThe answer most people actually want is to **do the good stretch by rail and the rest by car**. The scenic section runs from around Nanu Oya to Ella, not from Kandy, so the smart move is to drive the first half and pick the train up in tea country.\n\nThat is exactly what our [Kandy to Nanu Oya transfer with Ella train tickets arranged](/sri-lanka/kandy/kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged) does, and the [Nuwara Eliya or Nanu Oya transfer with the Ella train](/sri-lanka/kandy/kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train) is the same idea. The [scenic transfer with an optional Nanu Oya train](/sri-lanka/kandy/kandy-to-nuwara-eliya-scenic-transfer-with-an-optional-nanu-oya-train) lets you decide on the day.\n\nIf you would rather stay on the road the whole way, the [private tea country transfer to Ella](/sri-lanka/kandy/kandy-or-nuwara-eliya-to-ella-private-tea-country-transfer) covers it. Our [Kandy to Ella train guide](/sri-lanka/kandy/kandy-to-ella-train-guide) has the booking detail.",
+          },
+          {
+            title: "North to the Cultural Triangle and the east coast",
+            icon: "landmark",
+            content: "Kandy is the gateway to the ancient cities, and the drive north is short enough that the stops make the day rather than pad it.\n\n**Sigiriya and Dambulla** are about three hours away. Doing them as a transfer rather than a day trip is the move if you are heading onward anyway, because you see the rock and end up in the right place instead of driving back to Kandy tired.\n\n**Trincomalee** on the east coast is five to six hours, and the sensible version goes via Sigiriya: our [Kandy to Trincomalee transfer via Sigiriya Rock and the Dambulla caves](/sri-lanka/kandy/kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves) turns a long drive into a day with two UNESCO sites in it.\n\nIf you are going a long way in one go, there is a [private car for Kandy to Ella, Mirissa, Colombo and beyond](/sri-lanka/kandy/private-car-transfer-kandy-ella-mirissa-colombo-beyond) priced by the route rather than the stop list.",
+          },
+          {
+            title: "Things that change the day",
+            icon: "clock",
+            content: "**Leave at 7am, not 9am.** Hill country roads are slow by design, full of bends and lorries, and every hour you start late is an hour of stops you lose at the other end.\n\n**Distance lies here more than anywhere.** Kandy to Nuwara Eliya is about 80 km and takes three hours. Plan by time, never by the map.\n\n**Your luggage stays in the car.** That is the real advantage over the train, and it is why the hybrid road-plus-rail options exist: you ride the scenic stretch with a day bag while the car meets you.\n\n**Name the exact hotel when you book.** One-way pricing already includes the driver getting home; changing the drop point afterwards usually changes the fare.\n\nIf you are still working out how long to give Kandy first, our [two-day Kandy itinerary](/sri-lanka/kandy/kandy-2-day-itinerary) is the honest minimum, and [day trips from Kandy](/sri-lanka/kandy/day-trips-from-kandy) covers what to do if you are staying put.",
+          },
+        ],
+      };
+
     default:
       return null;
   }

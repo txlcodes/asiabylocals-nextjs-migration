@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getItinerary, getItinerarySlugs, ITINERARY_COUNTRIES } from '@/lib/japanItineraries';
 import ItineraryClient from '@/components/ItineraryClient';
+import { countryDisplayName } from '@/lib/countryName';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -44,7 +45,7 @@ async function fetchToursBySlug(country: string, slugs: string[]) {
   const wanted = new Set(slugs.map(s => s.split('/').pop()));
   if (wanted.size === 0) return {};
   try {
-    const name = country.charAt(0).toUpperCase() + country.slice(1);
+    const name = countryDisplayName(country);
     const res = await fetch(`${API_URL}/api/public/tours?country=${encodeURIComponent(name)}`, {
       next: { revalidate: 3600 },
     });

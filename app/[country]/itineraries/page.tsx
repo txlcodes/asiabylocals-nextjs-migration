@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getItinerary, getItinerarySlugs, ITINERARY_COUNTRIES } from '@/lib/japanItineraries';
 import { ChevronRight, MapPin, Clock } from 'lucide-react';
+import { countryDisplayName } from '@/lib/countryName';
 
 export const revalidate = 3600;
 
@@ -16,7 +17,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country } = await params;
-  const label = country.charAt(0).toUpperCase() + country.slice(1);
+  const label = countryDisplayName(country);
   return {
     title: `${label} Itineraries: 3 to 10 Days, Planned Properly | AsiaByLocals`,
     description: `Honest ${label} itineraries for 3, 5, 7 and 10 days — real train times, what fits and what does not, and the tours worth booking on each day.`,
@@ -29,7 +30,7 @@ export default async function ItinerariesHub({ params }: Props) {
   const slugs = getItinerarySlugs(country);
   if (slugs.length === 0) notFound();
 
-  const label = country.charAt(0).toUpperCase() + country.slice(1);
+  const label = countryDisplayName(country);
   const items = slugs.map(s => ({ slug: s, data: getItinerary(country, s) })).filter(x => x.data);
 
   return (

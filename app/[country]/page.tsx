@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import CountryPageClient from '@/components/CountryPageClient';
+import { countryDisplayName } from '@/lib/countryName';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -195,7 +196,7 @@ export default async function CountryPage({ params }: Props) {
   }
 
   // ---------- SERVER-SIDE JSON-LD (guaranteed in raw HTML for SEO/AEO/GEO) ----------
-  const countryName = capitalize(c);
+  const countryName = countryDisplayName(c);
 
   const INDIA_FAQS = [
     { question: 'What is the Golden Triangle tour in India?', answer: 'The Golden Triangle is India\'s most iconic travel circuit connecting Delhi, Agra, and Jaipur. It covers India\'s 1,000-year imperial history in Delhi, the Taj Mahal and Mughal masterpieces in Agra, and the stunning Rajput palaces and forts of Jaipur. Most travelers complete it in 3-5 days with licensed local guides.' },
