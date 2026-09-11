@@ -270,11 +270,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Colombo info pages
   const ellaInfoPages = [
-    'nine-arch-bridge-guide', 'little-adams-peak-and-ella-rock', 'ella-city-guide', 'getting-to-ella', 'best-time-to-visit-ella', 'ella-2-day-itinerary'
-  ,
+    'nine-arch-bridge-guide',
+    'little-adams-peak-and-ella-rock',
+    'ella-city-guide',
+    'getting-to-ella',
+    'best-time-to-visit-ella',
+    'ella-2-day-itinerary',
     'yala-vs-udawalawe-from-ella',
     'liptons-seat-and-ella-tea-country',
-    'ella-waterfalls-and-day-tours'].map(slug => ({
+    'ella-waterfalls-and-day-tours',
+    'leaving-ella-onward-transfers'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

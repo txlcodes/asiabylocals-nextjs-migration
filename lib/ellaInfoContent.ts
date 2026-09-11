@@ -836,6 +836,48 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_ELLA_SAFARI.image,
       };
+    case "leaving-ella-onward-transfers":
+      return {
+        title: "Leaving Ella: Where You Can Get To, and Why the Transfer Is the Day",
+        seoTitle: "Ella Onward Transfers Guide 2026",
+        description: "Ella to Kandy, the south coast, Yala, Sigiriya, Arugam Bay and Trincomalee — driving times, what a guided transfer actually includes, and why it beats a taxi.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368885/asiabylocals/tours/from-ella-waterfalls-abseiling-adventure-thrill-nature/img0.jpg",
+        fastFacts: [
+          { icon: "car", label: "Ella to Kandy", value: "About 4 hours direct, a full day with stops" },
+          { icon: "waves", label: "Ella to the south coast", value: "3 to 4 hours, usually via a safari" },
+          { icon: "binoculars", label: "Ella to Yala or Udawalawe", value: "2 to 3 hours, done as a safari day" },
+          { icon: "landmark", label: "Ella to Sigiriya", value: "About 5 hours across the interior" },
+          { icon: "sun", label: "Ella to Arugam Bay", value: "3 to 4 hours, the surf coast" },
+        ],
+        sections: [
+          {
+            title: "A transfer here is not a taxi, and that is the whole point",
+            icon: "car",
+            content: "In most countries a transfer means a car takes you from A to B and the day is wasted. In Sri Lanka the same word means something different, and getting this wrong is the single most expensive mistake people make in the hill country.\n\nA **guided transfer** is a private car with a driver-guide that leaves in the morning, stops at three or four real places on the way, and delivers you to your next hotel by evening. You are paying for the day, not the distance. The alternative is a plain taxi that does the same drive with nothing in it, for not much less money.\n\nThat is why almost every route out of Ella is sold as a tour rather than a ride. Our [Ella to Kandy transfer via a Vedda village, waterfalls and a home lunch](/sri-lanka/ella/ella-to-kandy-transfer-via-a-vedda-village-waterfalls-and-a-home-lunch) is a full day, and it costs more than a taxi because it **is** more than a taxi.\n\nThe practical consequence: do not book a hotel in your next town for early check-in. You will arrive in the evening, and that is the correct way to do it.",
+          },
+          {
+            title: "North to Kandy, and the train question",
+            icon: "train",
+            content: "Kandy is about **four hours** by road, or seven by train, and that gap is where most of the argument happens.\n\nThe **train** from Ella to Kandy is genuinely one of the world's best rail journeys and it is also slow, crowded and unreserved unless you book weeks out. Doing it in the Ella-to-Kandy direction means the good scenery comes early and the last two hours are ordinary.\n\nThe honest answer for most people is **both**: take the scenic stretch by rail and cover the rest by car. Our [Ella to Kandy transfer with the hill country train ride and Nuwara Eliya](/sri-lanka/ella/ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya) is built exactly that way, and it is the version we recommend if you only do one leg by train.\n\nIf you would rather stay on the road and see more, the [transfer via Nuwara Eliya and Ramboda Falls](/sri-lanka/ella/ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls) takes the tea-country route. More on the railway itself in our [Kandy to Ella train guide](/sri-lanka/kandy/kandy-to-ella-train-guide).",
+          },
+          {
+            title: "South to the coast, almost always through a national park",
+            icon: "binoculars",
+            content: "Ella sits above the southern plains, which means the drive down to the beaches passes the two big safari parks. Nobody sensible drives past them empty.\n\n**Udawalawe** is the elephant park and the more reliable sighting. **Yala** has the leopards and the crowds. Which one you choose matters more than which operator, and we have written that comparison separately in [Yala vs Udawalawe from Ella](/sri-lanka/ella/yala-vs-udawalawe-from-ella).\n\nAs a transfer, the shape is: leave Ella early, game drive mid-morning, lunch, and arrive on the coast in the late afternoon. Our [Udawalawe safari with a south coast drop](/sri-lanka/ella/udawalawe-safari-with-a-south-coast-drop-from-ella-galle-mirissa-or) covers Galle, Mirissa or Hiriketiya; the [Yala leopard safari and south coast transfer](/sri-lanka/ella/yala-leopard-safari-and-south-coast-transfer-from-ella) does the same through Yala.\n\nIt works in reverse too, which people forget. The [south coast to Ella transfer via a Yala safari and Buduruwagala](/sri-lanka/ella/south-coast-to-ella-transfer-via-a-yala-safari-and-buduruwagala) is the same day run upwards.",
+          },
+          {
+            title: "East and north: Arugam Bay, Trincomalee and Sigiriya",
+            icon: "compass",
+            content: "These three are the routes people do not realise exist from Ella, and all of them are a single road day rather than a two-stage trip.\n\n**Arugam Bay** is three to four hours east and is where Sri Lanka's surf is. The road drops out of the hills through Monaragala and the change in landscape is abrupt. Our [Ella to Arugam Bay transfer with waterfalls and temples](/sri-lanka/ella/ella-to-arugam-bay-guided-transfer-with-waterfalls-temples) does it with stops, and there is a [Yala safari version with an Arugam Bay drop](/sri-lanka/ella/yala-safari-from-ella-with-a-drop-at-arugam-bay) if you want the park on the way.\n\n**Trincomalee** on the east coast is longer, and the [transfer via Mahiyanganaya and a Vedda village](/sri-lanka/ella/ella-to-trincomalee-guided-transfer-via-mahiyanganaya-and-a-vedda) breaks it with the indigenous Vedda community, which is a genuinely unusual stop rather than a filler.\n\n**Sigiriya** is about five hours north across the interior. Doing it as a [transfer via a Vedda village and Mahiyanganaya](/sri-lanka/ella/ella-to-sigiriya-private-transfer-via-a-vedda-village-and-mahiyanganaya) turns the least interesting drive in the country into a day worth having.",
+          },
+          {
+            title: "Practical things that change the day",
+            icon: "clock",
+            content: "**Leave early.** Every one of these routes is better at 7am than at 9am, because the stops are cooler and the roads are emptier. Hill country driving is slow by nature, and an hour lost at the start is an hour lost at the end.\n\n**Luggage travels with you.** That is the advantage over the train and it is worth stating: on a guided transfer your bags stay in the car all day while you walk around. On the train they do not.\n\n**Distances lie.** Ella to Kandy is under 150 km and takes four hours. Do not plan by the map.\n\n**One-way is normal.** You are not paying for the driver's return; that is already in the price, and asking to be dropped somewhere other than where you were quoted usually changes it. Say the exact hotel when booking.\n\nAnd if you are still deciding how long to give Ella itself before moving on, our [two-day Ella itinerary](/sri-lanka/ella/ella-2-day-itinerary) is the honest minimum.",
+          },
+        ],
+      };
+
     default:
       return null;
   }

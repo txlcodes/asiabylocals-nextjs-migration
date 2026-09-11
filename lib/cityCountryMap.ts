@@ -47,6 +47,14 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'krabi': { country: 'thailand', city: 'krabi' },
   'hanoi': { country: 'vietnam', city: 'hanoi' },
   'ho-chi-minh-city': { country: 'vietnam', city: 'ho-chi-minh-city' },
+  // Vietnam launch, 2026-09-11. GYG location ids verified from the search page,
+  // not guessed: hanoi-l205, ho-chi-minh-city-l272, hoi-an-l831, da-nang-l939,
+  // ha-long-l119790, sa-pa-l1049. Every guessed id was wrong and redirected
+  // somewhere unrelated (hanoi-l203 serves Adelaide).
+  'hoi-an': { country: 'vietnam', city: 'hoi-an' },
+  'da-nang': { country: 'vietnam', city: 'da-nang' },
+  'ha-long': { country: 'vietnam', city: 'ha-long' },
+  'sapa': { country: 'vietnam', city: 'sapa' },
   'beijing': { country: 'china', city: 'beijing' },
   'shanghai': { country: 'china', city: 'shanghai' },
   'manila': { country: 'philippines', city: 'manila' },

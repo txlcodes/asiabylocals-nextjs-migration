@@ -2333,6 +2333,26 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         </p>
                       )}
                     </div>
+                    {/* Weather. An Abu Dhabi kayak booking was cancelled for rain on
+                        2026-09-10 and the page had said nothing at all: 139 of our 200
+                        weather-dependent tours carried no mention of it. Say it upfront
+                        rather than letting the guest find out on the day. */}
+                    {(() => {
+                      const outdoor = /kayak|snorkel|dive|diving|sail|cruise|boat|dhow|safari|hike|trek|climb|balloon|paraglid|jet ?ski|parasail|cycling|bike|fishing|surf|catamaran|yacht/i;
+                      if (!outdoor.test(tour?.title || '')) return null;
+                      return (
+                        <div className="mb-4">
+                          <h3 className="text-[18px] font-black text-[#001A33] mb-2">Weather</h3>
+                          <p className="text-[16px] text-gray-700 font-semibold">
+                            This runs outdoors, so the operator can call it off for rain, wind or
+                            sea conditions, and that decision is usually made on the day. If they
+                            cancel, you choose: another date, or your money back in full. We do not
+                            keep a booking fee on a tour that did not run.
+                          </p>
+                        </div>
+                      );
+                    })()}
+
                     <div>
                       <h3 className="text-[18px] font-black text-[#001A33] mb-2">Know before you go</h3>
                       <ul className="space-y-2">

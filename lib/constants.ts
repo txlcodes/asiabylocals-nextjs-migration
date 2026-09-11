@@ -247,11 +247,12 @@ export const ELLA_INFO_SLUGS = [
   'ella-city-guide',
   'getting-to-ella',
   'best-time-to-visit-ella',
-  'ella-2-day-itinerary'
-,
+  'ella-2-day-itinerary',
   'yala-vs-udawalawe-from-ella',
   'liptons-seat-and-ella-tea-country',
-  'ella-waterfalls-and-day-tours'];
+  'ella-waterfalls-and-day-tours',
+  'leaving-ella-onward-transfers'
+];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
 export const GALLE_INFO_SLUGS = [

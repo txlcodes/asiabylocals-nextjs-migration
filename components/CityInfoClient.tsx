@@ -279,6 +279,7 @@ const SIGIRIYA_SIDEBAR = [
 ];
 
 const ELLA_SIDEBAR = [
+    { name: 'Leaving Ella: Transfers', slug: 'leaving-ella-onward-transfers' },
     { name: 'Nine Arch Bridge', slug: 'nine-arch-bridge-guide' },
     { name: "Little Adam's Peak & Ella Rock", slug: 'little-adams-peak-and-ella-rock' },
     { name: 'Ella City Guide', slug: 'ella-city-guide' },
