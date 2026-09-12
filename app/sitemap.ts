@@ -21,6 +21,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/uae', '/uae/dubai', '/uae/abu-dhabi',
     '/nepal', '/nepal/kathmandu', '/nepal/pokhara', '/nepal/chitwan',
     '/nepal/bhaktapur', '/nepal/lumbini',
+    '/vietnam', '/vietnam/hanoi', '/vietnam/ho-chi-minh-city', '/vietnam/hoi-an',
+    '/vietnam/da-nang', '/vietnam/ha-long', '/vietnam/sapa',
   ].map(path => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
