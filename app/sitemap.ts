@@ -475,7 +475,77 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages,
+  const haLongInfoPages = [
+    'ha-long-bay-day-trip-or-overnight-cruise',
+    'choosing-a-ha-long-bay-cruise',
+    'getting-to-ha-long-bay-from-hanoi',
+    'best-time-to-visit-ha-long-bay',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/ha-long/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const hanoiInfoPages = [
+    'hanoi-old-quarter-guide',
+    'hanoi-street-food-guide',
+    'day-trips-from-hanoi',
+    'best-time-to-visit-hanoi',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/hanoi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const sapaInfoPages = [
+    'sapa-trekking-guide',
+    'fansipan-cable-car-guide',
+    'best-time-to-visit-sapa',
+    'getting-to-sapa-from-hanoi',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/sapa/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const hoiAnInfoPages = [
+    'hoi-an-ancient-town-guide',
+    'hoi-an-tailoring-guide',
+    'my-son-sanctuary-guide',
+    'best-time-to-visit-hoi-an',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const daNangInfoPages = [
+    'ba-na-hills-golden-bridge-guide',
+    'marble-mountains-guide',
+    'getting-around-da-nang',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/da-nang/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const hoChiMinhCityInfoPages = [
+    'cu-chi-tunnels-guide',
+    'mekong-delta-day-trip-guide',
+    'saigon-street-food-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages,
     ...abuDhabiInfoPages,
     ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
 

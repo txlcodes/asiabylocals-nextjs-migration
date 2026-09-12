@@ -750,3 +750,45 @@ export const ABU_DHABI_INFO_SLUGS = [
   'getting-around-abu-dhabi',
   'abu-dhabi-2-day-itinerary'
 ];
+
+// Vietnam authority pages (2026-09)
+
+export const HA_LONG_INFO_SLUGS = [
+  'ha-long-bay-day-trip-or-overnight-cruise',
+  'choosing-a-ha-long-bay-cruise',
+  'getting-to-ha-long-bay-from-hanoi',
+  'best-time-to-visit-ha-long-bay',
+];
+
+export const HANOI_INFO_SLUGS = [
+  'hanoi-old-quarter-guide',
+  'hanoi-street-food-guide',
+  'day-trips-from-hanoi',
+  'best-time-to-visit-hanoi',
+];
+
+export const SAPA_INFO_SLUGS = [
+  'sapa-trekking-guide',
+  'fansipan-cable-car-guide',
+  'best-time-to-visit-sapa',
+  'getting-to-sapa-from-hanoi',
+];
+
+export const HOI_AN_INFO_SLUGS = [
+  'hoi-an-ancient-town-guide',
+  'hoi-an-tailoring-guide',
+  'my-son-sanctuary-guide',
+  'best-time-to-visit-hoi-an',
+];
+
+export const DA_NANG_INFO_SLUGS = [
+  'ba-na-hills-golden-bridge-guide',
+  'marble-mountains-guide',
+  'getting-around-da-nang',
+];
+
+export const HO_CHI_MINH_CITY_INFO_SLUGS = [
+  'cu-chi-tunnels-guide',
+  'mekong-delta-day-trip-guide',
+  'saigon-street-food-guide',
+];

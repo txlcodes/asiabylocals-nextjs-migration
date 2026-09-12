@@ -406,6 +406,46 @@ const HAKONE_SIDEBAR = [
     { name: 'Hakone or Kawaguchiko?', slug: 'hakone-or-kawaguchiko-for-mount-fuji' },
 ];
 
+const HA_LONG_SIDEBAR = [
+    { name: 'Day Cruise or Overnight', slug: 'ha-long-bay-day-trip-or-overnight-cruise' },
+    { name: 'Choosing a Cruise', slug: 'choosing-a-ha-long-bay-cruise' },
+    { name: 'Getting There from Hanoi', slug: 'getting-to-ha-long-bay-from-hanoi' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-ha-long-bay' },
+];
+
+const HANOI_SIDEBAR = [
+    { name: 'Old Quarter Guide', slug: 'hanoi-old-quarter-guide' },
+    { name: 'Street Food Guide', slug: 'hanoi-street-food-guide' },
+    { name: 'Day Trips from Hanoi', slug: 'day-trips-from-hanoi' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-hanoi' },
+];
+
+const SAPA_SIDEBAR = [
+    { name: 'Trekking Guide', slug: 'sapa-trekking-guide' },
+    { name: 'Fansipan Cable Car', slug: 'fansipan-cable-car-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-sapa' },
+    { name: 'Getting There from Hanoi', slug: 'getting-to-sapa-from-hanoi' },
+];
+
+const HOI_AN_SIDEBAR = [
+    { name: 'Ancient Town Ticket', slug: 'hoi-an-ancient-town-guide' },
+    { name: 'Tailoring Guide', slug: 'hoi-an-tailoring-guide' },
+    { name: 'My Son Sanctuary', slug: 'my-son-sanctuary-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-hoi-an' },
+];
+
+const DA_NANG_SIDEBAR = [
+    { name: 'Ba Na Hills & Golden Bridge', slug: 'ba-na-hills-golden-bridge-guide' },
+    { name: 'Marble Mountains', slug: 'marble-mountains-guide' },
+    { name: 'Getting Around', slug: 'getting-around-da-nang' },
+];
+
+const HO_CHI_MINH_CITY_SIDEBAR = [
+    { name: 'Cu Chi Tunnels', slug: 'cu-chi-tunnels-guide' },
+    { name: 'Mekong Delta Day Trips', slug: 'mekong-delta-day-trip-guide' },
+    { name: 'Saigon Street Food', slug: 'saigon-street-food-guide' },
+];
+
 const DUBAI_SIDEBAR = [
     { name: 'Burj Khalifa Tickets', slug: 'burj-khalifa-tickets-guide' },
     { name: 'Desert Safari Guide', slug: 'dubai-desert-safari-guide' },
@@ -533,6 +573,12 @@ export default function CityInfoClient({ country, city, slug }: Props) {
     }
 
     const SIDEBAR_MAP: Record<string, typeof AGRA_SIDEBAR> = {
+        'ha-long': HA_LONG_SIDEBAR,
+        'hanoi': HANOI_SIDEBAR,
+        'sapa': SAPA_SIDEBAR,
+        'hoi-an': HOI_AN_SIDEBAR,
+        'da-nang': DA_NANG_SIDEBAR,
+        'ho-chi-minh-city': HO_CHI_MINH_CITY_SIDEBAR,
         agra: AGRA_SIDEBAR,
         delhi: DELHI_SIDEBAR,
         jaipur: JAIPUR_SIDEBAR,

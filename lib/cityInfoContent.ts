@@ -11,6 +11,12 @@ import { getColomboInfoContent } from './colomboInfoContent';
 import { getKandyInfoContent } from './kandyInfoContent';
 import { getDubaiInfoContent } from './dubaiInfoContent';
 import { getAbuDhabiInfoContent } from './abuDhabiInfoContent';
+import { getHaLongInfoContent } from './haLongInfoContent';
+import { getHanoiInfoContent } from './hanoiInfoContent';
+import { getSapaInfoContent } from './sapaInfoContent';
+import { getHoiAnInfoContent } from './hoiAnInfoContent';
+import { getDaNangInfoContent } from './daNangInfoContent';
+import { getHoChiMinhCityInfoContent } from './hoChiMinhCityInfoContent';
 import { getSigiriyaInfoContent } from './sigiriyaInfoContent';
 import { getMirissaInfoContent } from './mirissaInfoContent';
 import { getBentotaInfoContent } from './bentotaInfoContent';
@@ -90,6 +96,24 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const abuDhabiPage = getAbuDhabiInfoContent(slug);
     if (abuDhabiPage) return abuDhabiPage;
+
+    const haLongPage = getHaLongInfoContent(slug);
+    if (haLongPage) return haLongPage;
+
+    const hanoiPage = getHanoiInfoContent(slug);
+    if (hanoiPage) return hanoiPage;
+
+    const sapaPage = getSapaInfoContent(slug);
+    if (sapaPage) return sapaPage;
+
+    const hoiAnPage = getHoiAnInfoContent(slug);
+    if (hoiAnPage) return hoiAnPage;
+
+    const daNangPage = getDaNangInfoContent(slug);
+    if (daNangPage) return daNangPage;
+
+    const hoChiMinhCityPage = getHoChiMinhCityInfoContent(slug);
+    if (hoChiMinhCityPage) return hoChiMinhCityPage;
 
     const colomboPage = getColomboInfoContent(slug);
     if (colomboPage) return colomboPage;

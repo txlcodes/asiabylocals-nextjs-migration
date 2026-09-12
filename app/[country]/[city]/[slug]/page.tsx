@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
-import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS } from '@/lib/constants';
+import { AGRA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS, HA_LONG_INFO_SLUGS, HANOI_INFO_SLUGS, SAPA_INFO_SLUGS, HOI_AN_INFO_SLUGS, DA_NANG_INFO_SLUGS, HO_CHI_MINH_CITY_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
 import { getTourReviews } from '@/lib/tourReviews';
@@ -301,6 +301,12 @@ function isInfoSlug(city: string, slug: string): boolean {
   if (c === 'mount-fuji') return MOUNT_FUJI_INFO_SLUGS.includes(slug);
   if (c === 'dubai') return DUBAI_INFO_SLUGS.includes(slug);
   if (c === 'abu-dhabi') return ABU_DHABI_INFO_SLUGS.includes(slug);
+  if (c === 'ha-long') return HA_LONG_INFO_SLUGS.includes(slug);
+  if (c === 'hanoi') return HANOI_INFO_SLUGS.includes(slug);
+  if (c === 'sapa') return SAPA_INFO_SLUGS.includes(slug);
+  if (c === 'hoi-an') return HOI_AN_INFO_SLUGS.includes(slug);
+  if (c === 'da-nang') return DA_NANG_INFO_SLUGS.includes(slug);
+  if (c === 'ho-chi-minh-city') return HO_CHI_MINH_CITY_INFO_SLUGS.includes(slug);
   if (c === 'colombo') return COLOMBO_INFO_SLUGS.includes(slug);
   if (c === 'kandy') return KANDY_INFO_SLUGS.includes(slug);
   if (c === 'sigiriya') return SIGIRIYA_INFO_SLUGS.includes(slug);
