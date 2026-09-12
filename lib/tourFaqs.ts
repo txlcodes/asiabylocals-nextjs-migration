@@ -194,15 +194,6 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === 'ho-chi-minh-city-shopping-and-market-tour-ho-chi-minh-city') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Ho Chi Minh City The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover tips and gratuities and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently. The class works around the ingredients bought that morning." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
   if (slug === 'premium-scooter-street-food-tour-michelin-optional-in-ho-chi-minh-city') {
     return [
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Ho Chi Minh City. SAIGON ADVENTURE COMPANY LIMITED confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
@@ -795,15 +786,6 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8-pax') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Sapa. TripBestie confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover 1. border permit fee ($10/person), 2. drinks other than bottled water, 3. personal expenses and 4. travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Do I have to drive, and do I need a licence?", answer: "You can ride pillion behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in Vietnam, and your travel insurance will usually only cover you if you hold one." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
   if (slug === 'transfer-to-from-sapa-in-a-vip-sleeper-bus') {
     return [
       { question: "Where does this start?", answer: "Tinny Travel Co.Ltd sends the meeting point and time by email as soon as the booking is confirmed." },
@@ -902,29 +884,11 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === '2-day-2-night-sapa-tour-by-overnight-train') {
-    return [
-      { question: "Where does this start?", answer: "Crossing Vietnam Tour sends the meeting point and time by email as soon as the booking is confirmed." },
-      { question: "What is not included in the price?", answer: "The price does not cover meals not indicated in the itinerary, drinks, personal expenses and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
   if (slug === 'private-highlights-day-tour-with-lunch-in-sapa') {
     return [
       { question: "Where does this start?", answer: "Saigonese Trekking House sends the meeting point and time by email as soon as the booking is confirmed." },
       { question: "What is not included in the price?", answer: "The price does not cover insurance and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
       { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
-  if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8-pax-2') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Sapa. TripBestie confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover 1. border permit fee ($10/person), 2. drinks other than bottled water, 3. personal expenses and 4. travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Do I have to drive, and do I need a licence?", answer: "You can ride pillion behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in Vietnam, and your travel insurance will usually only cover you if you hold one." },
       { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
     ];
   }
@@ -1068,15 +1032,6 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     return [
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Sapa. Ethnic Community Tours confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
       { question: "What is not included in the price?", answer: "The price does not cover personal expenses and travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Do I have to drive, and do I need a licence?", answer: "You can ride pillion behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in Vietnam, and your travel insurance will usually only cover you if you hold one." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
-  if (slug === '4-day-ha-giang-loop-w-safe-rider-max-8-pax') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Sapa. TripBestie confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover 1. border permit fee ($10/person), 2. drinks other than bottled water, 3. personal expenses and 4. travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
       { question: "Do I have to drive, and do I need a licence?", answer: "You can ride pillion behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in Vietnam, and your travel insurance will usually only cover you if you hold one." },
       { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
     ];
@@ -1816,15 +1771,6 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === 'my-son-sunset-tour-boat-trip-with-brunch-in-da-nang') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Da Nang. Venus Travel Hoi An confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover the 150.000 vnd entrance fees, personal expense services not mentioned above, other drinks and tips for guide and driver. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Do I sleep on the boat, and what is the cabin like?", answer: "Overnight cruises sleep on board; day cruises do not. Cabins on the boats we book are private with an ensuite bathroom, and the grade of boat is stated in the option you choose rather than left vague. Bay conditions occasionally force an itinerary change, which the operator decides on the morning and is not something we can promise around." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
   if (slug === 'coconut-village-boat-and-hoi-an-city-tour') {
     return [
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Da Nang. Venus Travel Hoi An confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
@@ -2032,7 +1978,7 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3') {
+  if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3') {
     return [
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Hanoi. TripBestie confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
       { question: "What is not included in the price?", answer: "The price does not cover 1. border permit fee ($10/person), 2. drinks other than bottled water, 3. personal expenses and 4. travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
@@ -2041,7 +1987,7 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
     ];
   }
 
-  if (slug === '4-day-ha-giang-loop-w-safe-rider-max-8-pax-2') {
+  if (slug === '4-day-ha-giang-loop-w-safe-rider-max-8-pax-2-2') {
     return [
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Hanoi. TripBestie confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
       { question: "What is not included in the price?", answer: "The price does not cover 1. border permit fee ($10/person), 2. drinks other than bottled water, 3. personal expenses and 4. travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
@@ -2388,15 +2334,6 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
       { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup in Hoi An. Hoi An Eco Travel confirms your pickup time and the exact spot once the booking is in. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
       { question: "What is not included in the price?", answer: "The price does not cover personal expenses and services not mentioned above (such as elevator to the top). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
       { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
-      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
-    ];
-  }
-
-  if (slug === 'hoi-an-night-heritage-and-lantern-experience-hoi-an') {
-    return [
-      { question: "Is hotel pickup included?", answer: "Yes. Hội An The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
-      { question: "What is not included in the price?", answer: "The price does not cover personal expenses and tips and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
-      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
       { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
     ];
   }
