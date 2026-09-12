@@ -23,6 +23,18 @@ const COUNTRY_META: Record<string, {
   description: string;
   cities: { name: string; slug: string; image: string; tagline: string }[];
 }> = {
+  'vietnam': {
+    title: 'Vietnam Tours & Experiences | Local Guides Across Vietnam | AsiaByLocals',
+    description: 'Book Vietnam tours run by verified local operators - Ha Long Bay cruises, Sapa rice-terrace treks, Hoi An cooking classes, the Golden Bridge at Ba Na Hills and Saigon street food. Every operator is one we book with directly.',
+    cities: [
+      { name: 'Hanoi', slug: 'hanoi', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201527/asiabylocals/tours/2-day-ban-gioc-waterfall-cave-mountain-with-meals-in-hanoi/img0.jpg', tagline: 'The Old Quarter and the road to Ha Long' },
+      { name: 'Ha Long', slug: 'ha-long', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200595/asiabylocals/tours/1-day-ha-long-bay-deluxe-cruise/img0.jpg', tagline: 'Limestone karsts and overnight cruises' },
+      { name: 'Sapa', slug: 'sapa', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200875/asiabylocals/tours/2-day-2-night-sapa-tour-by-overnight-train/img0.jpg', tagline: 'Rice terraces and hill-tribe villages' },
+      { name: 'Hoi An', slug: 'hoi-an', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201776/asiabylocals/tours/2-hours-painting-class-with-local-artist-in-oldtown-in-hoi-an/img0.jpg', tagline: 'Lantern-lit old town and the coast' },
+      { name: 'Da Nang', slug: 'da-nang', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201269/asiabylocals/tours/ba-na-hills-and-golden-bridge-cable-car-ticket-in-da-nang/img0.jpg', tagline: 'Marble Mountains and the Golden Bridge' },
+      { name: 'Ho Chi Minh City', slug: 'ho-chi-minh-city', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200481/asiabylocals/tours/can-gio-mangrove-and-monkey-island-trek-in-ho-chi-minh-city/img0.jpg', tagline: 'Saigon street food and the Mekong' },
+    ],
+  },
   india: {
     title: 'India Tours & Experiences | Local Guides Across India | AsiaByLocals',
     description: 'Discover the best tours across India with licensed local guides. Explore the Golden Triangle — Delhi, Agra & Jaipur — plus Mumbai, Goa, Varanasi & more. Authentic cultural experiences, heritage walks, food tours & private day trips.',
