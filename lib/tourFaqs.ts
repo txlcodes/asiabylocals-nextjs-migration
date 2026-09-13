@@ -4,6 +4,4628 @@
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
 
+  // --- NEPAL TOURS (2026-09) ---
+  if (slug === 'bhaktapur-durbar-square-spiritual-spiritual-tour') {
+    return [
+      { question: "Where does this start?", answer: "Garden of Dreams Main Gate" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal exp, entrance fee and tip for the guide. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Freelancer Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bhaktapur-durbar-square-spiritual-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kathmandu Mall RNAC" },
+      { question: "What is not included in the price?", answer: "The price does not cover food and personal expenses, entrance fees and tips for the guide. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Freelancer Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'patan-durbar-square-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Patan Dhoka Gate" },
+      { question: "What is not included in the price?", answer: "The price does not cover food and personal expenses, entrance fees and tips for the guide. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Freelancer Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  // --- INDIA TOURS (2026-09) ---
+  if (slug === 'calangute-beach-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Moksha Wellness" },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to/from moksha wellness, personal clothing, yoga mats (optional to bring), meals and gratuities (optional). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'golden-temple-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Amritsar" },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'golden-temple-food-tour') {
+    return [
+      { question: "Where does this start?", answer: "Amritsar" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'india-gate-private-tour') {
+    return [
+      { question: "Where does this start?", answer: "New Delhi" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotels (if option is not booked), entrance fee (if option is not booked) and meals. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'taj-mahal-delhi-sunrise-tour') {
+    return [
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Golden Taj Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'agra-fort-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pick-up from Your Hotel in Anywhere in Agra" },
+      { question: "What is not included in the price?", answer: "The price does not cover any personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "RIYAZ KHAN. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'baga-beach-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Goa" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and spice plantation 650 inr extra. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'taj-mahal-professional-photography-tour') {
+    return [
+      { question: "Where does this start?", answer: "Taj Mahal or Hotel Agra." },
+      { question: "What is not included in the price?", answer: "The price does not cover enrance fee. and sari & robe (if option is not selected). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ajanta-caves-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Aurangabad" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and enrance tickets. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'basilica-of-bom-jesus-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Goa" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, additional food and drinks and souvenirs and items of a personal nature. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'food-tour-agra-food-tour') {
+    return [
+      { question: "Where does this start?", answer: "Agra" },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Iqbal warsi. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'victoria-memorial-shopping-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kolkata" },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance tickets and meals. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'taj-mahal-luxury-private-tour') {
+    return [
+      { question: "Where does this start?", answer: "Taj Mahal" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'golden-temple-heritage-tour') {
+    return [
+      { question: "Where does this start?", answer: "Amritsar" },
+      { question: "What is not included in the price?", answer: "The price does not cover tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Taj Tour Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ajanta-caves-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Aurangabad" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel stay, entry tickets for ajanta caves or ellora caves, shuttle bus charges and lunch and dinner. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'daulatabad-fort-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Aurangabad" },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fee to any historical site and drinks and food other than mentioned\". Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Unesco Tours India. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'jama-masjid-heritage-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover entrance tickets, meal, personal expenses and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Avinash Tiwari. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'taj-mahal-local-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel or any other location of your choice in Agra" },
+      { question: "What is not included in the price?", answer: "The price does not cover any meals and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Guides and Travel Services. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'western-group-of-temples-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Entrance of western group of temples" },
+      { question: "What is not included in the price?", answer: "The price does not cover entry ticket, meal and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Avinash Tiwari. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'india-gate-triangle-private-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. Pick up from your hotel or Delhi Airport at your selected time. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover guide and driver gratuities, personal expenses and shopping, lunch and dinner and monument entrance tickets. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Taj Guides and Travel Services. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mumbai-sightseeing-tour-no-shopping-stops') {
+    return [
+      { question: "Where does this start?", answer: "ANY WHERE IN MUMBAI" },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Mumbai Discovery Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  // --- JAPAN TOURS (2026-09) ---
+  if (slug === 'kappa-bridge-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nagoya (exact pickup point confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, personal hiking gear, travel insurance, gratuities for the guide. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "E TRAVEL CO., LTD.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-chopsticks-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Chopstick-making workshop in Nara city" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, transport to the workshop, food and drinks, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "株式会社HASHI LAB. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kyoto; the exact meeting point is confirmed with your licensed guide after booking" },
+      { question: "What is not included in the price?", answer: "The price does not cover train fares to and from nara, temple and shrine admission fees, meals and drinks, deer crackers, the guide's transport and entry costs where required, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Japan Guide Agency, JGA Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-session-photography-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Park." },
+      { question: "What is not included in the price?", answer: "The price does not cover consumption tax (prices are +tax). cosmetic photo retouching. transport, food and any temple admission. payment is cash only and a ¥5,000 deposit is required at booking. the discounted event rate requires agreeing to social-media use of your photos.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Kimono Rental Minori (着物レンタルみのり). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kimpusenji-temple-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "8:45 a.m. in front of the ticket gates of Kintetsu Osaka-Abenobashi Station, Osaka." },
+      { question: "What is not included in the price?", answer: "The price does not cover basic train ticket between osaka and yoshino (approx. usd 8 each way), food and drinks unless specified. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kintetsu-namba-station-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Souvenir shop 'Goto-chi' at the East ticket gate, B2 level, Kintetsu Namba Station, Osaka." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, drinks and other personal items, train and bus tickets from osaka to uda and back (approx. usd 10 each way). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-photography-tour') {
+    return [
+      { question: "Where does this start?", answer: "Sakura Kimono Kyoto - Nara shop, 2F (#201) 26-3 Hashimotocho, Nara-shi, Nara-ken 630-8217, Japan. Open 9:30AM-6PM (Mon-Sun)." },
+      { question: "What is not included in the price?", answer: "The price does not cover facial retouching / cosmetic photo edits are not included. not stated: transport, food, park or temple admission. payment is cash only; a 2,000 jpy deposit is required to confirm the reservation.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sakura Kimono Kyoto (Nara shop). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'shikizakura-park-obara-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Esca Underground Shopping Mall, Nagoya Station (エスカ地下街)" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tour&Charter International Co,ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Two starting options: Harimaya Nippombashi 1-chome (Osaka) or Kyoto Station Hachijo Entrance Square Sunken Garden" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, deer crackers (shika senbei), any temple or shrine admission fees, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Japan Visionary Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-hakone-private-day-tour-from-tokyo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup and drop-off within Tokyo's 23 wards. Typical pickup is 7:00-8:00 AM, adjustable on request." },
+      { question: "What is not included in the price?", answer: "The price does not cover attraction tickets (hakone ropeway, lake ashi cruise), meals and drinks, optional activities, pickups outside tokyo's 23 wards. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "TheTokyoTravel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-day-tour-from-tokyo-lake-ashi-owakudani') {
+    return [
+      { question: "Where does this start?", answer: "Pickup 7:00-8:00 AM from hotels, apartments or stations within Tokyo's 23 wards (adjustable on request)" },
+      { question: "What is not included in the price?", answer: "The price does not cover attraction tickets, meals, swimwear rentals, tattoo-related private bath charges, pickups outside tokyo's 23 wards. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "TheTokyoTravel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'amanohashidate-ine-funaya-day-tour-from-osaka-kyoto') {
+    return [
+      { question: "Where does this start?", answer: "Osaka Metro Nipponbashi Station Exit 2 (1-5 Nipponbashi, Chuo Ward, Osaka 542-0073) at 8:45, or Kyoto Station Hachijoguchi sightseeing bus area." },
+      { question: "What is not included in the price?", answer: "The price does not cover cable car to the amanohashidate viewpoint, ine funaya sightseeing boat ticket, meals and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "JHT HOLIDAY TRAVEL. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-prince-route-private-climb-2-days') {
+    return [
+      { question: "Where does this start?", answer: "Starts and ends at the Fujinomiya Trail 5th Station, Fujinomiya city, Shizuoka. No pickup stated; transport to/from the start is not included." },
+      { question: "What is not included in the price?", answer: "The price does not cover mountain hut lodging and meals, mountain entry / climbing fees, personal expenses (toilets, food, souvenirs), transportation to and from the starting location. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fujisan Curator. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'toyota-commemorative-museum-of-industry') {
+    return [
+      { question: "Where does this start?", answer: "Toyota Commemorative Museum of Industry and Technology" },
+      { question: "What is not included in the price?", answer: "The price does not cover museum and shrine entrance fees where applicable, meals and drinks, hotel pickup and drop-off, personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "DeepExperience, Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-katashimo-winery-tour-tasting-vineyard-walk') {
+    return [
+      { question: "Where does this start?", answer: "Katashimo Winery direct sales shop, 2-10-5 Taiheiji, Kashiwara, Osaka 582-0017 — about forty minutes by train from central Osaka." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional tastings beyond the three included, transport to kashiwara, meals and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Goen Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-shinto-priest-shrine-maiden-experience') {
+    return [
+      { question: "Where does this start?", answer: "Wakaoe Shrine, 4-14-14 Yasui, Kita Ward, Nagoya, Aichi 462-0023 — staff in Shinto priest attire meet guests at the awarding place." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the shrine, meals and drinks and additional goshuin or souvenirs. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Asia Resource Connection Corp.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-bento-making-hatcho-miso-soy-sauce-tasting') {
+    return [
+      { question: "Where does this start?", answer: "Viale Storia, 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Cooking Class in Nagoya🇯🇵 / Nagoya. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-kendo-samurai-training-dojo') {
+    return [
+      { question: "Where does this start?", answer: "1-18-2 Honjo-Higashi, Kita Ward, Osaka 531-0074." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the dojo, food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Vicky Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'toyokawa-inari-shrine-shopping-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nagoya Station" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal shopping expenses, drinks outside the included lunch, gratuities, hotel pickup outside nagoya station. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "株式会社KKT. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'naramachi-premium-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Park." },
+      { question: "What is not included in the price?", answer: "The price does not cover consumption tax (all prices are quoted +tax). photography is not included in the rental plans (see the separate photo plan products). nothing else published.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kimono Rental Minori (着物レンタルみのり). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shinjuku-evening-food-walk-four-eateries') {
+    return [
+      { question: "Where does this start?", answer: "1-8-5 Nishishinjuku, Shinjuku City, Tokyo 160-0023 — meet outside, a few minutes from the station's west exit." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities (optional), hotel pickup and drop-off and additional food and drinks beyond those included. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Traveling Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shibuya-sumo-show-five-daily-times') {
+    return [
+      { question: "Where does this start?", answer: "Daiichi Silver Building, 5-20-11 Sakuragaokacho, Shibuya City, Tokyo 151-0051 — a few minutes from Shibuya Station's south exit." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, additional snacks and drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Traveling Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-namba-maid-cafe-experience') {
+    return [
+      { question: "Where does this start?", answer: "3F, 2-2-21 Nanbanaka, Naniwa Ward, Osaka 556-0011." },
+      { question: "What is not included in the price?", answer: "The price does not cover extra options and add-ons purchased inside, additional food and drinks and transport to the venue. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "株式会社ネオディライトインターナショナル. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hiroshima-miyajima-day-trip-from-tokyo-shinkansen') {
+    return [
+      { question: "Where does this start?", answer: "Tokyo option: departure point confirmed at booking. Hiroshima option: meet the guide at Hiroshima Station, 1-2-37 Matsubaracho, Minami Ward, Hiroshima." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, hotel pickup and drop-off, peace memorial museum admission and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "AMIGO TOURS JAPAN GK. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shibuya-highlights-walk-hidden-viewpoint') {
+    return [
+      { question: "Where does this start?", answer: "2-1-1 Dogenzaka, Shibuya City, Tokyo 150-0043 — at the Hachiko statue side of the station." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, transportation, hotel pickup and drop-off and paid observation deck tickets. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Guide Stars. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shibuya-food-walk-thirteen-dishes') {
+    return [
+      { question: "Where does this start?", answer: "1-12-6 Dogenzaka, Shibuya, Tokyo 150-0043 — in front of the 7-Eleven near Chuo-Gai and Tokyu Plaza." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities (optional), hotel pickup and drop-off and additional food and drinks beyond those included. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Traveling Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-yakatabune-houseboat-cruise-sukiyaki-shamisen') {
+    return [
+      { question: "Where does this start?", answer: "Etchujima Pier, 1-3-23 Etchujima, Koto City, Tokyo 135-0044." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, transport to etchujima pier and alcoholic drinks (unless the free-flow package is selected). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Orange Tour Co., Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-sumo-morning-practice-training-stable') {
+    return [
+      { question: "Where does this start?", answer: "Kiyosumi-Shirakawa Station, Exit A1 (Toei Oedo and Hanzomon lines), 3-11-1 Kiyosumi, Koto City, Tokyo 135-0024." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks, transport to the meeting point and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Guide Stars. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-harajuku-japanese-denim-jeans-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Harajuku Tw Building, 4F, 1-14-24 Jingumae, Shibuya, Tokyo 150-0001 — one minute from JR Harajuku's Omotesando exit and Exit 3 of Meiji-Jingumae Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional rivets and buttons beyond those included, selvedge denim upgrade, premium leather patches and embroidery. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Traveling Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-calligraphy-class-with-tea-and-sweets') {
+    return [
+      { question: "Where does this start?", answer: "4-2-10 Sakae, Naka Ward, Nagoya 460-0008 — the entrance is past the Lawson, office on the 6th floor." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, additional personal expenses and framing or mounting. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Mini Mini Trip. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-full-day-bus-tour-bamboo-grove-golden-pavilion') {
+    return [
+      { question: "Where does this start?", answer: "Outside Hotel Keihan Kyoto Grande, 31 Higashikujo Nishisannocho, Minami Ward, Kyoto 601-8003 — a short walk from Kyoto Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, hotel pickup and drop-off, admission fees on the option without tickets and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "AMIGO TOURS JAPAN GK. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-arashiyama-chopstick-making-workshop') {
+    return [
+      { question: "Where does this start?", answer: "2F, 3-25 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto 616-8385 — up the stairs on the left of the building." },
+      { question: "What is not included in the price?", answer: "The price does not cover premium wood selections beyond the three included types, personalised engraving, food and drinks and transport to the workshop. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Guide Stars. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-asuka-ebike-tour-ishibutai-megaliths') {
+    return [
+      { question: "Where does this start?", answer: "Koshi, Asuka Village, Takaichi District, Nara 634-0138." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, site admission fees where charged, transport to the meeting point and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nikko-day-trip-from-tokyo-toshogu-kegon-falls') {
+    return [
+      { question: "Where does this start?", answer: "Ginza Inz 2, Chiyoda City, Tokyo — directly across the street from Tokyu Hands." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals other than on the all-inclusive option, hotel pickup and drop-off, toshogu admission on the basic option and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "AMIGO TOURS JAPAN GK. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-sumo-dinner-show-geisha-hot-pot') {
+    return [
+      { question: "Where does this start?", answer: "Wada Building, basement floor, 2-11-7 Asakusa, Taito City, Tokyo 111-0032 — check in at the front desk in the basement of the building with Matsuya." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional drinks, meals, seating and souvenirs for infants, transport to the venue and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Asakusa Sumobeya Co.,Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-sushi-making-class-vegan-halal-options') {
+    return [
+      { question: "Where does this start?", answer: "2-17-9 Kaminarimon, Taito City, Tokyo 111-0034 — three minutes from Asakusa Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, drinks beyond those provided and custom ingredient specifications. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Sushi Making Japan | Cooking Class in Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-samurai-ninja-museum-shuriken-throwing') {
+    return [
+      { question: "Where does this start?", answer: "Front Asakusa, 1-8-13 Nishi-Asakusa, Taito City, Tokyo 111-0035 — the entrance is to the right of the FamilyMart." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks and costume rental where offered separately. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "GLOBA Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-imperial-palace-east-gardens-guided-walk') {
+    return [
+      { question: "Where does this start?", answer: "Wadakura Fountain Park, 3-1 Kokyogaien, Chiyoda City, Tokyo 100-0002 — five to ten minutes on foot from Tokyo Station or Otemachi Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, transport to the meeting point, food and drinks and gratuities (optional). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Sunrise Adventure. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-coin-ring-making-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Asakusa SP Building, 2-20-6 Nishi-Asakusa, Taito City, Tokyo 111-0035." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks and additional pieces beyond the one included. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Local Earth. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-dotonbori-ura-namba-izakaya-bar-crawl') {
+    return [
+      { question: "Where does this start?", answer: "1-10 Dotonbori, Chuo Ward, Osaka 542-0071 — in front of the Glico sign, at the Dotonbori Humanity Song Monument." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks — paid for by you at each venue, transport to the meeting point and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Travel Japan Together. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-dotonbori-river-cruise-with-guided-walk') {
+    return [
+      { question: "Where does this start?", answer: "2-5-9 Nishi-Shinsaibashi, Chuo Ward, Osaka 542-0086 — next to the Don Quijote Midosuji store; the guide holds a sign." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, hotel pickup and drop-off and transport to the meeting point. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Japan Guide Stars. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-kuromon-market-street-food-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Picasso Nihonichi Building, 1-17-17 Nipponbashi, Chuo Ward, Osaka 542-0073 — beside Kuromon Market." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional food and drinks beyond the tastings, transport to and from the meeting point and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "GOKU TRIP. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-shirakawago-takayama-observatory-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "CORE Meieki Building 1F, 5-10 Tsubakicho, Nakamura Ward, Nagoya 453-0015 — near Nagoya Station's west exit, behind Bic Camera." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, attraction tickets, transport to and from the starting point and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "株式会社KKT. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sapporo-kumiko-woodworking-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — look for the N6 sign on the facade." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, additional purchases from the craft shop and meals. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Modern N6 Kita Maruyama. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sapporo-kimono-dressing-and-matcha-tea-ceremony') {
+    return [
+      { question: "Where does this start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — about ten minutes on foot from Nishi 28-chome Station on the Tozai line." },
+      { question: "What is not included in the price?", answer: "The price does not cover wearing the kimono outside the venue, transport to the venue, photography services and purchases from the craft shop. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Modern N6 Kita Maruyama. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-by-the-sea-day-tour-sightseeing-train') {
+    return [
+      { question: "Where does this start?", answer: "Nipponbashi Station Exit 2, 1-3-6 Nipponbashi, Chuo Ward, Osaka 542-0073 — meet at 7:00 AM for a 7:10 departure." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, personal expenses and optional attraction entries. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lucky Day Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'seto-pottery-wheel-experience-from-nagoya') {
+    return [
+      { question: "Where does this start?", answer: "Meitetsu Owari-Seto Station, 12-1 Yamawakicho, Seto, Aichi 489-0811 — the station has a single ticket gate. About forty minutes from Nagoya." },
+      { question: "What is not included in the price?", answer: "The price does not cover international shipping fees, transport to the meeting point, food and drinks and personal purchases. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "株式会社COME ON. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-gluten-free-ramen-and-gyoza-class') {
+    return [
+      { question: "Where does this start?", answer: "4-19 Nukatacho, Higashiosaka, Osaka 579-8021 — five minutes' walk from Nukata Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue and additional drinks beyond the pairing option. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "yuki Japanese cooking class. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-private-kyudo-archery-lesson-toyoake-dojo') {
+    return [
+      { question: "Where does this start?", answer: "Chokushi Kyudojo, 1-1 Chokushi, Kutsukakecho, Toyoake, Aichi 470-1102 — inside Chokushi Park; look for the low wooden hall." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from the dojo, food and drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "BUSHIDO JAPAN. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kamakura-hakone-private-day-tour-from-tokyo') {
+    return [
+      { question: "Where does this start?", answer: "Your driver-guide collects you from your Tokyo hotel or another central address agreed at booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and attraction entrance fees, lake ashi cruise and ropeway tickets, meals and drinks, gratuities, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Samurai Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-gotokuji-cat-temple-and-cat-cafe-tour') {
+    return [
+      { question: "Where does this start?", answer: "JR Shinjuku East Exit Station Square, 3-38 Shinjuku, Shinjuku City, Tokyo 160-0022 — directly in front of the giant 3D cat screen." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, food and additional drinks, hotel pickup and drop-off and souvenirs and cat figurines. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Tokyo Meows. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-shimenawa-wreath-making-workshop') {
+    return [
+      { question: "Where does this start?", answer: "1-1-17 Kaminagoya, Nishi Ward, Nagoya 451-0025 — a compact single-storey building with white plaster walls and wooden pillars." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, food and drinks and additional materials. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Asia Resource Connection Corp.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-aichi-wagashi-and-matcha-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Viale Storia, 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Cooking Class in Nagoya🇯🇵 / Nagoya. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-coach-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Harimaya Bld, 1-chome-3-11 Nipponbashi, Chuo Ward, Osaka 542-0073, Japan" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, temple and shrine admission fees, deer crackers (shika senbei), hotel pickup, towel rental and personal items at the hot spring, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tour Easy. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-toyota-commemorative-museum-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Toyota Commemorative Museum of Industry and Technology, 4-1-35 Noritake Shinmachi, Nishi Ward, Nagoya 451-0051 — a short walk from Nagoya Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover toyota kaikan museum, toyota automobile museum, food and drinks and transport to the museum. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "GOKU TRIP. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-takoyaki-cooking-class') {
+    return [
+      { question: "Where does this start?", answer: "Nagoya City Higashi Lifelong Learning Center, 1-3-21 Aoi, Higashi Ward, Nagoya 461-0004 — three minutes' walk from Shinsakaemachi." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, additional food and drinks and items purchased on the shopping option. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Cooking Class / NAGOYA. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-caldera-fuji-lakes-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Central Tokyo departure point selected at booking; two starting locations are available and you choose one with your option." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, personal expenses and shopping, gratuities, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Clover Travel Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-private-car-day-tour-from-tokyo') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel lobby in Tokyo. Hotel pickup and drop-off are included." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, entrance fees, lunch for guests and guide, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "My Japan Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-sushi-making-class-with-footbath') {
+    return [
+      { question: "Where does this start?", answer: "2F, 276-28 Kitakurumayacho, Nakagyo Ward, Kyoto 604-8021 — a few streets from Nishiki Market." },
+      { question: "What is not included in the price?", answer: "The price does not cover footbath fee, jpy 1,300 per person, paid on site, transport to the venue and additional food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "SUSHI GARYU. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-hop-on-hop-off-open-top-bus-ticket') {
+    return [
+      { question: "Where does this start?", answer: "In front of the Mitsubishi Building, 2-5 Marunouchi, Chiyoda City, Tokyo 100-0005. You can also board directly at any stop on the routes." },
+      { question: "What is not included in the price?", answer: "The price does not cover transfers from and to your hotel, attraction admissions and food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is this a ticket only, or is a guide included?", answer: "Entry only. There is no guide with you unless the option you pick says so, and the ticket is for the date you book." },
+      { question: "Who runs this tour?", answer: "SKY HOP BUS. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shinjuku-samurai-restaurant-show-two-drinks') {
+    return [
+      { question: "Where does this start?", answer: "1-7-7 Kabukicho, Shinjuku City, Tokyo 160-0021 — reception is inside the entrance, a few minutes from Shinjuku Station's east exit." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food, additional drinks and transport to the venue. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Samurai restaurant. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-evening-tour') {
+    return [
+      { question: "Where does this start?", answer: "6 p.m. at the souvenir shop 'Goto-chi' by the East ticket gate, B2 level, Kintetsu Namba Station (Osaka); or 7 p.m. in front of the Monk Gyoki Statue near Exit 2 / East Exit of Kintetsu Nara Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, drinks and other personal items, train tickets between osaka and nara (approx. usd 5 each way). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'izu-peninsula-day-trip-from-tokyo-mount-omuro-jogasaki') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup within Shinjuku, Chiyoda, Chuo or Taito wards between 08:00 and 08:45, confirmed in advance. A designated meeting point is arranged for guests staying elsewhere." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, optional activities and attraction entry at the destinations, personal expenses and travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pegasus観光株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-tokugawa-art-museum-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Tokugawa Art Museum, Tokugawacho, Higashi Ward, Nagoya, Aichi 461-0023." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the museum, food and drinks, tokugawaen garden admission and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "GOKU TRIP. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sapporo-silver-jewellery-forging-workshop') {
+    return [
+      { question: "Where does this start?", answer: "10-1 Minami 2-jo Nishi, Chuo Ward, Sapporo, Hokkaido 060-0062 — three minutes' walk from the subway." },
+      { question: "What is not included in the price?", answer: "The price does not cover laser engraving, anti-tarnish coating, personal expenses and transport to the studio. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "tourcandy ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-zazen-meditation-private-temple-with-monk') {
+    return [
+      { question: "Where does this start?", answer: "Kodaiji Park, 463-28 Shimokawaracho, Higashiyama Ward, Kyoto 605-0825 — the guide waits on the northern side of the park." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the meeting point, meals and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Travel Japan Together. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-sailor-moon-shining-theater-shinagawa') {
+    return [
+      { question: "Where does this start?", answer: "Club eX, 3F Shinagawa Prince Hotel Annex Tower, 4-10-30 Takanawa, Minato City, Tokyo 108-8611 — beside Shinagawa Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional food and drinks, merchandise, hotel pickup and drop-off and transport to the venue. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Mitt. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-ramen-making-class-at-a-working-shop') {
+    return [
+      { question: "Where does this start?", answer: "3-1-17 Noritake Shinmachi, Nishi Ward, Nagoya 451-0051 — at Noritake Aeon, near Nagoya Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, meals other than the ramen you make and additional drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japanese Cooking Class in Nagoya🇯🇵 / Nagoya. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-private-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Osaka" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, temple and shrine admission fees, gratuities, personal shopping, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "JAPANS TOURS. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-customisable-private-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pickup in Kyoto" },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees, lunch and drinks, gratuities, personal expenses, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Travel Club Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kintetsu-nara-station-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kintetsu Nara Station (近鉄奈良駅)" },
+      { question: "What is not included in the price?", answer: "The price does not cover todai-ji daibutsuden admission, deer crackers (shika senbei), food and drinks, hotel transfers, train fare to nara. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Planet Japan合同会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kintetsu-nara-station-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kintetsu Nara Station (近鉄奈良駅)" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, additional drinks ordered outside the tasting set, souvenir bottles, transport to nara, hotel pickup. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "KampaiSakeTours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-walking-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "27 Higashimuki Nakamachi, Nara, 630-8215, Japan" },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and museum admission fees, deer crackers, additional food and drinks, hotel pickup, train fare to nara. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Cornwall Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-bullet-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Minato City, Tokyo" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, temple admission fees, hotel pickup from outside minato city, gratuities, personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Gray Line Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kimpusenji-temple-symphony-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "9:45 a.m. in front of the ticket gates at Kintetsu Osaka-Abenobashi Station, Osaka." },
+      { question: "What is not included in the price?", answer: "The price does not cover basic train tickets between stations (approx. usd 8 each way), food and drinks beyond the included lunch, personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-blacksmith-knife-making-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Studio Shinobi YASE, 168-1 Yase-no-secho, Sakyo Ward, Kyoto 601-1254 — about twenty minutes from central Kyoto on the Eizan line." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, meals and shipping of your knife. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kendo Experience. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'shirakawa-go-private-tour') {
+    return [
+      { question: "Where does this start?", answer: "Central Nagoya (exact pickup point confirmed with operator on booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover accommodation for 2 nights, meals and drinks, entrance fees to shirakawa-go, matsumoto castle, and other sites, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Connecting Plus co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-kid-friendly-ninja-class-museum') {
+    return [
+      { question: "Where does this start?", answer: "Utanokoji Building 2F, 292 Higashidaimonjicho, Teramachi-dori Nishikikoji-sagaru, Nakagyo Ward, Kyoto 604-8043." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from the venue, food and drinks and participation for children under three (they may enter the venue). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "GLOBA Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-gion-temari-ball-workshop-kimono-fabric') {
+    return [
+      { question: "Where does this start?", answer: "Gion First Building 4F, 281-1 Gion-machi Kitagawa, Higashiyama Ward, Kyoto 605-0073 — opposite the Starbucks, near Yasaka Shrine." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, food and drinks and additional temari beyond the one included. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Fmpty. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokoname-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Central Nagoya (exact meeting point confirmed with operator on booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, pottery purchases, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Mini Mini Trip. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nachi-falls-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Confirmed with operator upon booking (departs from Osaka or Nagoya)" },
+      { question: "What is not included in the price?", answer: "The price does not cover some meals, personal expenses, travel insurance, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pegasus観光株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-cutting-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Restaurant venue in Nagoya (confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, gratuities, additional food outside the tuna and sushi format. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "BUSHIDO JAPAN. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-temple-grounds-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Central Nagoya (hotel or station pickup point confirmed with operator on booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and garden entrance fees where applicable, meals and drinks, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Best Tourisms Company in Japan Inc. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "In front of the Monk Gyoki statue (frente a la estatua del Monje Gioki) outside Kintetsu Nara Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, drinks and personal items, great buddha hall entrance (800 yen), deer crackers (200 yen), transport to and from nara. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shinjuku-sumo-show-ring-challenge') {
+    return [
+      { question: "Where does this start?", answer: "Sekisaku Building 2F, 2-5-22 Okubo, Shinjuku City, Tokyo 169-0072 — a short walk from Shin-Okubo Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, additional food and drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Traveling Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-five-highlights-walking-tour-with-ramen-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Sunlit Sangyo Head Office Building, 3-6-7 Tanimachi, Chuo Ward, Osaka 540-0012 — Osaka Metro Tanimachi Line, Tanimachi 4-chome Station Exit 4, in front of the FamilyMart." },
+      { question: "What is not included in the price?", answer: "The price does not cover osaka castle entrance fee, jpy 1,200, shitennoji temple entrance fee, jpy 500, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "LOTUS DMC Co., Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-tea-ceremony-calligraphy-kimono-experience') {
+    return [
+      { question: "Where does this start?", answer: "Hayakawa Building 2F, 5-7-21 Uehonmachi, Tennoji Ward, Osaka 543-0001 — accessible from two major stations." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, extra hair styling or makeup, additional food and drinks and pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Culture Experience -Sazanka Osaka-. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-signature-private-day-tour-kawaguchiko') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your accommodation within the Fujikawaguchiko area. Recommended start between 8:00 AM and 10:30 AM." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch (budget jpy 1,500-2,000 per person), mt. fuji 5th station visits. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Johnny's Fuji Kawaguchiko Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kawaguchiko-to-hakone-private-guided-transfer') {
+    return [
+      { question: "Where does this start?", answer: "Door-to-door pickup from your Fujikawaguchiko accommodation, with drop-off at your Hakone hotel or ryokan. Recommended start between 9:00 AM and 11:00 AM." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch (budget jpy 2,000-3,000 per person). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Johnny's Fuji Kawaguchiko Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-summit-climb-fujinomiya-route-2-days') {
+    return [
+      { question: "Where does this start?", answer: "Fujinomiya trail 5th station (2,400m), 10:30 on Day 1. Finishes at Fujinomiya 5th station 11:30 on Day 2. No pickup stated." },
+      { question: "What is not included in the price?", answer: "The price does not cover mountain hut fee jpy 11,000-13,000, mountain admission jpy 4,000, guide accommodation. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fuji Sunrise (IRORI). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-summit-climb-subashiri-route-2-days') {
+    return [
+      { question: "Where does this start?", answer: "Subashiri trail 5th station (2,000m), in front of Higashifuji Sanso, 10:00. No pickup stated." },
+      { question: "What is not included in the price?", answer: "The price does not cover accommodation jpy 8,000-12,000, mountain entrance fee jpy 4,000 per person, optional insurance jpy 500 per person, guide accommodation jpy 8,000-12,000, shuttle bus jpy 2,000-2,500 per person. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fuji Sunrise (IRORI). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-sunrise-summit-climb-2-days') {
+    return [
+      { question: "Where does this start?", answer: "Choice of Tochomae Station, Tokyo (departs 06:45 for the 8th Station option, 07:45 for the 7th Station option) or Gotemba Station near Mt. Fuji (departs 08:30 / 09:45). Private charter bus transfer both ways included." },
+      { question: "What is not included in the price?", answer: "The price does not cover two lunches (purchasable at mountain huts en route), snacks, personal gear (rental available). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fuji Mountain Guides. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-nijo-castle-small-group-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Outside Entrance (Exit) 1 of Nijojo-mae Station, Nijojocho, Nakagyo Ward, Kyoto 604-8301 — the guide waits with a sign." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, transport to the meeting point, hotel pickup and drop-off and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Guide Stars. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'aokigahara-lava-forest-guided-nature-walk') {
+    return [
+      { question: "Where does this start?", answer: "Fujisan Station, Fujiyoshida city, Yamanashi. Round-trip private transport from the meeting point to the forest is included." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses (food, drinks, souvenirs). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fujisan Curator. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-chureito-pagoda-oshino-hakkai-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Central Tokyo coach departure point confirmed at booking; two starting locations are offered and you choose one when you select your option." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and drinks, personal expenses and souvenirs, gratuities, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Visionary Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-hozugawa-white-water-rafting') {
+    return [
+      { question: "Where does this start?", answer: "Shintani Building, 69-4 Kitagaito, Shino-cho Umahori, Kameoka, Kyoto 621-0823 — three minutes' walk from JR Umahori Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover swimwear or clothes you can get wet, towel, sunscreen and meals. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kila Kila Rafting (Kyoto Hozugawa). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-nara-fushimi-inari-deer-park-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Higashi-Shiokoji Kamadonocho, Shimogyo Ward, Kyoto 601-8001 — beside Kyoto Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, temple and shrine admission fees, transport between kyoto and nara and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-shibuya-night-walk-sky-deck-miyashita-park') {
+    return [
+      { question: "Where does this start?", answer: "2-1 Dogenzaka, Shibuya City, Tokyo 150-0043." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, transportation, admission fees not listed above and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen') {
+    return [
+      { question: "Where does this start?", answer: "Takaosanguchi Station ticket gates, 2241 Takaomachi, Hachioji, Tokyo 193-0844 — the guide waits holding a yellow tennis ball." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from takaosanguchi station, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Irie Tokyo Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-akihabara-game-boy-modding-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Le Nid Kanda, 7th floor, 15 Kanda Kitanorimonocho, Chiyoda City, Tokyo 101-0036 — minutes from Akihabara." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional consoles or parts, hotel pickup and drop-off and food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Mod Tokyo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-helicopter-flight-skytree-tokyo-tower') {
+    return [
+      { question: "Where does this start?", answer: "Chiba Wangan Heliport, 237 Shinko, Mihama-ku, Chiba — facing Aqualink Chiba, east of Inage Seaside Park. Arrive at least thirty minutes before your slot." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to chiba wangan heliport, photographs where charged, food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Space Aviation株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai') {
+    return [
+      { question: "Where does this start?", answer: "Tokyo Station north exit (7:30 AM) or Shinjuku west exit, SMBC meeting point (8:00 AM). The guide wears a green vest and holds a numbered red flag." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, meals and drinks, luggage fee — contact the operator in advance if you need to bring bags and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "JRT Group. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-harajuku-traditional-japanese-music-concert') {
+    return [
+      { question: "Where does this start?", answer: "Hall 60, 6-34-14 Jingumae, Shibuya City, Tokyo 150-0001 — one minute from Meiji-Jingumae Station Exit 7, five minutes from JR Harajuku's Omotesando exit." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks and merchandise. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Zakuro Show. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-samurai-sword-lesson-armour-museum') {
+    return [
+      { question: "Where does this start?", answer: "1-8-13 Nishi-Asakusa, Taito City, Tokyo 111-0035 — the entrance is to the right of the FamilyMart." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, food and drinks and printed photographs where charged separately. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "GLOBA Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-sento-bathhouse-experience-tattoo-friendly') {
+    return [
+      { question: "Where does this start?", answer: "In front of the ticket machines at JR Shin-Okubo Station, 1-7 Hyakunincho, Shinjuku City, Tokyo 169-0073." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the meeting point, drinks, towel hire where charged and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "RENTAL JAPANESE. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-asakusa-kimono-yukata-rental-full-day') {
+    return [
+      { question: "Where does this start?", answer: "Yagai Building 4F, 1-10-11 Hanakawado, Taito City, Tokyo 111-0033 — near Asakusa Station's north exit on the Tobu Skytree Line; take the lift." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional photographs beyond the fifteen included, switching from yukata to kimono on the day (small charge on site), hotel pickup and drop-off and food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kaiseido Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tateyama-kurobe-alpine-route-private-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in the Nagano or Matsumoto area, confirmed with the operator when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and personal food and drinks, alpine route transit tickets where not stated and souvenirs and personal shopping. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Omotenashi-travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-machiya-table-style-tea-ceremony-fushimi') {
+    return [
+      { question: "Where does this start?", answer: "711 Setomonocho, Fushimi Ward, Kyoto 612-8052 — a preserved machiya townhouse over a century old." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, transport to fushimi and additional food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Éclat Japon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-arashiyama-sagano-train-hozugawa-boat-onsen') {
+    return [
+      { question: "Where does this start?", answer: "Sagatenryuji Kurumamichicho, Ukyo Ward, Kyoto 616-8373 — in Arashiyama, close to the Sagano train terminus." },
+      { question: "What is not included in the price?", answer: "The price does not cover hot spring entrance fee (optional), meals, transport to and from the meeting point and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Kyoto compass tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-townhouse-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "The workshop townhouse in Nara; the exact address is confirmed on booking" },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from the workshop, additional food and drinks, souvenirs beyond your finished mat, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kurabi. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kasuga-taisha-morning-tour') {
+    return [
+      { question: "Where does this start?", answer: "TULLY'S COFFEE Kyoto Avanti Shop, beside Kyoto Station" },
+      { question: "What is not included in the price?", answer: "The price does not cover return transport to kyoto, todai-ji admission if not stated at booking, meals and drinks, deer crackers, hotel pickup. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Japan Panoramic Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-nara-private-car-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pickup at your accommodation or agreed address in Osaka" },
+      { question: "What is not included in the price?", answer: "The price does not cover admission fees at osaka castle, umeda sky building and todai-ji, meals and drinks, deer crackers, licensed in-site guiding, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kansai Holiday. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'miyama-thatched-village-katsuoji-arashiyama-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Exit 2 of Nipponbashi Station, Osaka Metro, 1-5 Nipponbashi, Chuo Ward, Osaka 542-0073." },
+      { question: "What is not included in the price?", answer: "The price does not cover attraction entrance fees, meals, personal expenses and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "JHT HOLIDAY TRAVEL. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-ichikawa-zoo-red-pandas-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Tokyo, confirmed with the operator when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch, personal souvenirs and additional food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nihon Rissen. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-nakasendo-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nagoya (exact meeting point confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover accommodation for the three nights, all meals, entrance fees to castles and museums, personal expenses and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Connecting Plus co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sapporo-sake-tasting-through-traditional-cups') {
+    return [
+      { question: "Where does this start?", answer: "Japanese Modern N6 Kita-Maruyama, 2F, Kita 6 Jonishi 23-chome 1-14, Chuo Ward, Sapporo 060-0006 — look for the N6 sign on the facade." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional sake beyond the tasting, transport to the venue and purchases from the craft store. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Japanese Modern N6 Kita Maruyama. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yoichi-fruit-picking-nikka-distillery-shakotan-coast') {
+    return [
+      { question: "Where does this start?", answer: "Exit 31 of Odori Subway Station, 1 Chome Kita 1 Jonishi, Chuo Ward, Sapporo 060-0001 — meet at 08:40 for an 08:50 departure." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, including lunch at the distillery, orchard picking ticket on the base package and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Doushin Kokusai Co,.LTD. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-yosegi-zaiku-marquetry-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Hakone-Yumoto Station (箱根湯本駅), where your guide meets you before the short bus ride to the workshop." },
+      { question: "What is not included in the price?", answer: "The price does not cover travel to and from hakone-yumoto station, meals and drinks, additional craft items from the studio shop, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "DeepExperience, Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'miho-museum-shirahige-shrine-shiga-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nipponbashi Station Exit 2, 1-3 Nipponbashi, Chuo Ward, Osaka 542-0073 at 08:40, or Kyoto at 09:50. Osaka hotel pickup is available as a paid option from 07:30." },
+      { question: "What is not included in the price?", answer: "The price does not cover museum and shrine admission fees, meals, accommodation and luggage — a fee applies if you need to bring any, arranged at booking. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Wandering Japan Adventures. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-umeda-night-izakaya-walk') {
+    return [
+      { question: "Where does this start?", answer: "In front of the main door of the Hankyu Tourist Center Osaka Umeda, ground floor, 1-1-2 Shibata, Kita Ward, Osaka 530-0012." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional food and drinks, transport to the meeting point and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Wonder Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-gion-geiko-maiko-dance-museum') {
+    return [
+      { question: "Where does this start?", answer: "Yasaka Club, 570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto 605-0074 — in the middle of Gion." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, transport to gion and photography where restricted. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Gion Kagai Art Museum. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-samurai-sword-chambara-filming-experience') {
+    return [
+      { question: "Where does this start?", answer: "Myokaku-ji Dojo, 602 Shimoseizoguchicho, Kamigyo Ward, Kyoto 602-0007 — to the left after entering the temple's main gate." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from myokaku-ji temple, meals and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "GOATtrip株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-private-japanese-sound-bath') {
+    return [
+      { question: "Where does this start?", answer: "85-10-203 Koinari-cho, Shimogyo Ward, Kyoto 600-8208 — about five minutes' walk from Kyoto Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, transport to the venue and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "SoniQ Ronin. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-sword-museum-admission-ticket') {
+    return [
+      { question: "Where does this start?", answer: "3-35-43 Sakae, Naka Ward, Nagoya, Aichi 460-0008 — central Nagoya, reachable from Nagoya Station by subway." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drink at the museum café, purchases at the museum shop, transport to the museum and guided commentary. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Japanticket Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hiroshima-futaba-morning-hike-open-air-tea-ceremony') {
+    return [
+      { question: "Where does this start?", answer: "The deck on the 2nd floor of Hiroshima Station, 1-2 Matsubaracho, Minami Ward, Hiroshima 732-0822." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, transport to hiroshima station and additional food and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "MyJapan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kofuku-ji-temple-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Two starting options: Kintetsu Nara Station or Kyoto Station" },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and shrine admission fees, train fares if starting from kyoto, meals and drinks, deer crackers, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-arashiyama-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "VIP Villa Namba (Osaka) or Kyoto VIP Lounge" },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch (an optional kobe beef or local set can be added at booking), drinks, entrance fees, hotel pickup, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "VIP Japan Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hozanji-temple-evening-tour') {
+    return [
+      { question: "Where does this start?", answer: "18:00 at the souvenir shop 'Goto-chi' by the East ticket gate, B2 level, Kintetsu Namba Station, Osaka." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, drinks and personal items, train tickets between osaka and ikoma (approx. usd 4 each way), ikoma cable car fee (approx. usd 2 each way). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sakura-kimono-nara-couples-photo-shoot') {
+    return [
+      { question: "Where does this start?", answer: "Sakura Kimono Kyoto - Nara shop, 2F (#201) 26-3 Hashimotocho, Nara-shi, Nara-ken 630-8217, Japan. Open 9:30AM-6PM (Mon-Sun)." },
+      { question: "What is not included in the price?", answer: "The price does not cover facial retouching and cosmetic photo edits, transport, food and drink, park and temple admission (none of these are stated as included), and the 2,000 jpy reservation deposit; payment at the shop is cash only. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sakura Kimono Kyoto (Nara shop). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'naramachi-professional-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kimono Rental Minori (着物レンタルみのり), 1F, 43-1 Takama-cho, Nara-shi, Nara-ken 630-8241, Japan. 1-minute walk from Kintetsu Nara Station (Exit 7S, ~30 seconds); 13-minute walk from JR Nara Station; about a 10-minute walk from the shop to Nara Park." },
+      { question: "What is not included in the price?", answer: "The price does not cover consumption tax (all prices are quoted +tax). photography is not included in the rental plans (see the separate photo plan products). nothing else published.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kimono Rental Minori (着物レンタルみのり). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-loop-guided-day-tour-tozan-ropeway') {
+    return [
+      { question: "Where does this start?", answer: "Public transport version: Odawara bullet train station. Private transport version: pickup at central Tokyo hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover bullet train tickets (public transport option), meals, entrance fees for additional activities, parking fees (private transport option). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "The Backstreet Guides. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-udon-and-gyoza-cooking-class') {
+    return [
+      { question: "Where does this start?", answer: "Viale Storia 3F (302), 2-1-28 Izumi, Higashi Ward, Nagoya 461-0001." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the studio, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Japanese Cooking Class in Nagoya🇯🇵 / Nagoya. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-fuji-fifth-station-private-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pickup and drop-off at central Tokyo hotels" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, entrance fees, parking fees. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "The Backstreet Guides. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-private-koto-lesson-with-musician') {
+    return [
+      { question: "Where does this start?", answer: "1-1-17 Kaminagoya, Nishi Ward, Nagoya, Aichi 451-0025." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, meals and drinks and socks — bring your own, as bare feet are not permitted in a japanese-style room. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Asia Resource Connection Corp.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-kimono-rental-and-castle-city-tour') {
+    return [
+      { question: "Where does this start?", answer: "Kuri Building, 4-2-10 Sakae, Naka Ward, Nagoya 460-0008 — the entrance is past the Lawson; the office is upstairs. Starts at 9:30 AM." },
+      { question: "What is not included in the price?", answer: "The price does not cover shoe rental, hair styling, public transport fares and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Mini Mini Trip. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-akihabara-anime-manga-maid-cafe-tour') {
+    return [
+      { question: "Where does this start?", answer: "1-17 Sotokanda, Chiyoda City, Tokyo 101-0021 — in front of the ticket office just outside the Electric Town Gate of JR Akihabara Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional food and drinks, merchandise purchases, hotel pickup and drop-off and maid cafe admission on the walking-only option. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Fantasy Travel Japan LLC. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kure-naval-history-walk-yamato-museum-submarine') {
+    return [
+      { question: "Where does this start?", answer: "1 Takaramachi, Kure, Hiroshima 737-0029 — the central port district, about thirty minutes by train from Hiroshima." },
+      { question: "What is not included in the price?", answer: "The price does not cover museum admission fees, transport from hiroshima to kure, meals and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-toyosu-tuna-auction-tsukiji-market-tour') {
+    return [
+      { question: "Where does this start?", answer: "Lawson Toyosu Market Senkyaku Banrai, 6-5-1 Toyosu, Koto City, Tokyo 135-0061 — be there by 5:00 AM sharp; arriving around 4:45 is recommended." },
+      { question: "What is not included in the price?", answer: "The price does not cover breakfast (on the option without a meal), hotel pickup, available as a paid add-on, drop-off service and tips (optional). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Clover Travel Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-japanese-calligraphy-experience') {
+    return [
+      { question: "Where does this start?", answer: "Kyo Roman Building 2F, 6-4 Aburasaka Jikatacho, Nara 630-8246 — three minutes from JR Nara Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover kimono and hair styling, transport to the venue and meals and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Waplus Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-nerikiri-wagashi-making-and-tea-ceremony') {
+    return [
+      { question: "Where does this start?", answer: "Dai-2 Toei Building, 2-2 Kajicho, Chiyoda City, Tokyo 101-0044 — a few minutes from Kanda and Akihabara stations." },
+      { question: "What is not included in the price?", answer: "The price does not cover sweets take-out box (charged on site), experience completion certificate (charged on site) and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "日本文化体験　庵an東京  AN TOKYO. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-wagashi-workshop-with-matcha-tasting') {
+    return [
+      { question: "Where does this start?", answer: "31 Tsurufukuincho, Nara 630-8393." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the atelier, additional food and drinks and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nara Wellness Tourism (Wellness Inbound Association). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kamakura-enoshima-day-trip-from-tokyo-enoden-train') {
+    return [
+      { question: "Where does this start?", answer: "Under the BEAMS sign at the Shin-Marunouchi Building, 1-5-1 Marunouchi, Chiyoda City, Tokyo — in front of JR Tokyo Station. Shinjuku departures meet at Tokyo Mode Gakuen." },
+      { question: "What is not included in the price?", answer: "The price does not cover admission to walk inside the great buddha (about jpy 300, paid at the gate), meals, drinks and personal purchases and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tour Easy. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-ebike-tour-ginkakuji-philosophers-path') {
+    return [
+      { question: "Where does this start?", answer: "222-2 Koyamacho, Kita Ward, Kyoto 603-8152 — the operator's e-bike rental base, searchable on maps." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, lunch and additional temple admissions off the route. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Kyoto Fun. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-private-day-trip-lake-ashi-owakudani') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel lobby in Tokyo. Hotel pickup is included." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, entrance fees, lunch for guests and guide, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "My Japan Guide. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hakone-private-day-tour-licensed-guide') {
+    return [
+      { question: "Where does this start?", answer: "Your guide meets you in Hakone, normally at your hotel or at Hakone-Yumoto Station; the exact point is agreed with you before the tour." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport tickets and fares for you and your guide, entrance and attraction fees, meals and drinks, hotel accommodation, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Japan Guide Agency, JGA Inc.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nara-park-morning-morning-tour') {
+    return [
+      { question: "Where does this start?", answer: "7:30 a.m. at Kintetsu Kyoto Station, or 8:40 a.m. in front of the Monk Gyoki Statue at Kintetsu Nara Station." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, drinks and other personal items, basic train tickets between kyoto and nara (approx. usd 5 each way). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tours 2 Nara. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mount-hoei-crater-day-trek-fuji') {
+    return [
+      { question: "Where does this start?", answer: "Group trip: free pickup at Gotemba Station 08:30 or Fuji Mountain Coffee 08:50, drop-off Gotemba Station 17:00. Private trip: free hotel pickup in Kawaguchiko, Hakone or Gotemba areas." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal items (hat, sunglasses, personal medication). Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Fuji Mountain Guides. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'scmaglev-and-railway-park-heritage-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nagoya Station (or alternate Nagoya pickup point)" },
+      { question: "What is not included in the price?", answer: "The price does not cover museum entry tickets, meals and drinks, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Kansai Holiday. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ena-gorge-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Chubu Electric Power MIRAI TOWER" },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and drinks (available for purchase in magome-juku), personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "TOURSTORY Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-ikebana-class-nishijin-machiya') {
+    return [
+      { question: "Where does this start?", answer: "Tondaya Nishijin Japanese Cultural Experience Museum, 697 Ishiyakushicho, Kamigyo Ward, Kyoto 602-8226." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to the venue, food and drinks and taking the arrangement away. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tondaya, Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'uji-tea-museum-and-matcha-grinding-experience') {
+    return [
+      { question: "Where does this start?", answer: "Chazuna 1F reception, Historical Park of Tea and Uji, Maruyama-203-1 Todo, Uji, Kyoto 611-0013." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to uji, additional food and drinks, byodo-in admission and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Chazuna. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sapporo-biei-furano-summer-day-trip-blue-pond') {
+    return [
+      { question: "Where does this start?", answer: "Sapporo Station North Exit Bus Terminal at 8:00, or hotel pickup within 3 km of Sapporo Station between 7:30 and 8:00 on the van options. 3-12-2 Kita 7 Jonishi, Kita Ward, Sapporo 060-0807." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees to optional attractions, personal expenses and souvenirs, a separate tour guide beyond the driver-guide and additional snacks and drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Leda Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tokyo-night-photo-tour-shibuya-sky-shinjuku') {
+    return [
+      { question: "Where does this start?", answer: "2-1 Dogenzaka, Shibuya City, Tokyo 150-0043." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks, transport between districts, admission fees not listed above and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "MARKEVISION株式会社. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-kawaramachi-izakaya-and-bar-crawl') {
+    return [
+      { question: "Where does this start?", answer: "Kotocross Hankyu Kawaramachi, 1st and 2nd floor, northeast corner of Shijo-Kawaramachi, Shimogyo Ward, Kyoto 600-8001 — in front of the Disney Store." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks — paid for by you at each venue, transport to the meeting point and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Travel Japan Together. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'osaka-dotonbori-sushi-making-class-halal-vegan') {
+    return [
+      { question: "Where does this start?", answer: "3rd floor, Galleria Acca Building, 1-16-20 Higashi-Shinsaibashi, Chuo Ward, Osaka 542-0083 — a short walk from Dotonbori." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, custom ingredient specifications and additional drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Sushi Making Japan | Cooking Class in Japan. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'magome-juku-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Silver Clock, Nagoya Station" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nagoya-osu-maid-cafe-experience') {
+    return [
+      { question: "Where does this start?", answer: "Miu Building, 3-31-45 Osu, Naka Ward, Nagoya, Aichi 460-0011 — in the Osu shopping arcades." },
+      { question: "What is not included in the price?", answer: "The price does not cover extra options bought inside, additional food and drinks and transport to the venue. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kyoto-sumo-show-chanko-hot-pot-geisha-dance') {
+    return [
+      { question: "Where does this start?", answer: "5F, 525-1 Higashigawacho, Shinkyogoku Takoyakushi-sagaru, Nakagyo Ward, Kyoto 604-8046 — the building with Animate." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, seating and souvenirs for infants, transport to the venue and hotel pickup and drop-off. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "京都相撲部屋. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  // --- SRI-LANKA TOURS (2026-09) ---
+  if (slug === 'ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the tea factory or any site that charges, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or the surrounding area, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover sigiriya and dambulla entrance tickets; drinks; gratuities; personal expenses; site guide fees at sigiriya if you hire one.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-fort-turtle-beach-bentota-mangrove-safari-private-day-tr') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Mount Lavinia, Kalutara, Bentota or other south-coast hotels, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees and donations at the turtle hatchery; snorkelling equipment hire; meals and drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wilpattu-national-park-leopard-safari-colombo-pickup') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, or at one of the northern pickup points (Anuradhapura, Nochchiyagama, Sinharagama, Galkadawala or Negombo) if you are already up-country." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance and tracker fees payable on arrival, meals, tips, personal expenses, camera fees where applicable.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Colombo cruise terminal or your Colombo hotel, agreed with the operator after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, entrance fees not listed above, gratuities, shopping at galle fort, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover tea factory entrance, meals and drinks, tea purchases, gratuities, a local guide at the falls where one is engaged.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pekoe-trail-stage-16-guided-hike-ella-to-demodara-via-the-nine-arch') {
+    return [
+      { question: "Where does this start?", answer: "Meet in Ella town, or hotel pickup; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the train ticket back to ella, meals, gratuities, personal equipment.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-pinnawala-royal-botanic-gardens-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo, confirmed with you after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees for the temple of the tooth, pinnawala and the royal botanic gardens; meals and drinks; tips; camera fees; personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-city-highlights-private-day-tour-temple-viewpoints-and-gardens') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, including the temple of the tooth, meals and drinks, gratuities, anything bought at the workshops.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hand-rolled-tea-making-workshop-in-ella-with-a-tasting-and-estate-walk') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella by tuk-tuk; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals beyond the snacks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Pearl Odyssey Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pekoe-trail-stage-11-guided-hike-horton-plains-to-udaweriya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal hiking equipment, park fees where they apply.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'meemure-village-day-trip-from-kandy-with-the-diyakarella-waterfall-hike') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond those served with lunch, gratuities, any community or forest entry fee, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Lanka  Trek. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-street-food-walking-tour-local-guide') {
+    return [
+      { question: "Where does this start?", answer: "39 Sir Razik Fareed Mawatha, Colombo 00100, in the Fort and Pettah area near the old Dutch Hospital." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, additional food and drinks bought outside the route, alcohol, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Guydeez. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'adams-peak-overnight-pilgrimage-climb-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo in the afternoon or evening." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks on the mountain; guide on the climb itself unless stated on your booking; accommodation; warm clothing hire; tips; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-dambulla-minneriya-safari-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel in Colombo, Mount Lavinia or Negombo, with a pre-dawn pickup. The operator confirms the exact time against your address after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees for sigiriya and dambulla, minneriya national park fees, meals and drinks, camera fees where charged, tips, and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'upper-diyaluma-infinity-pools-guided-trek-from-ella-with-a-mountain') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities, personal equipment, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Pearl Odyssey Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-unesco-heritage-day-by-local-bus-with-a-kandyan-guide') {
+    return [
+      { question: "Where does this start?", answer: "Meet in central Kandy or hotel pickup; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the temple of the tooth entrance fee and any other entry charges, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Kandyman Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-waterfall-abseiling-adventure-hotel-pickup') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your accommodation in Ella, Bandarawela, Haputale, Demodara, Beragala, Halpe, Heel Oya, Balleketuwa or Kithalella, agreed with the operator when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, photos and video, towels, personal clothing and footwear, tips, and travel insurance covering adventure activities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-cycling-tour-from-ella-with-ravana-falls-and-the-escarpment') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, the udawalawe safari if added separately, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-eight-sights-day-trip-with-the-demodara-loop-and-a-train-leg') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the zipline fee, entrance fees, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'horton-plains-sunrise-trek-with-a-transfer-on-to-haputale-or-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the horton plains entrance fee, meals, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Little England Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-horton-plains-tour-from-ella-with-the-scenic-train-to-ohiya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the horton plains entrance fee, train tickets, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'south-coast-day-trip-turtle-hatchery-madu-river-galle-fort') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Negombo or Colombo, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance and donation fees at the turtle hatchery and other sites; water sports at bentota; drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at dambulla and elsewhere, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-hidden-gems-day-tour-the-loop-the-secret-waterfall-and-both-peaks') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the zipline fee if added, entrance fees, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-to-ella-guided-transfer-with-buduruwagala-and-the-waterfalls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in the Udawalawe area; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, warm clothing, torches, donations at the summit temple, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-rock-dambulla-caves-small-group-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kalutara, Colombo or nearby coastal hotels, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover sigiriya and dambulla entrance tickets; meals and drinks; site guide fees; souvenir purchases; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'all-inclusive-sigiriya-rock-and-dambulla-cave-temple-day-tour-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-kandy-nuwara-eliya-transfer-waterfall-tea-estate-stops') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your Kandy hotel; drop-off at your Nuwara Eliya accommodation." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; tea factory entrance fee where charged; entrance fees at optional stops; gratuities; accommodation.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ceylon IT Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, which are bought separately and are subject to availability, meals and drinks, entrance fees, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-day-trip-from-colombo-or-negombo-with-a-tea-factory-and-the-nine') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ceylonia Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at dambulla and elsewhere, meals and drinks, tea and spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond those served with lunch, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka  Trek. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-day-trip-colombo-train-home-cooked-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo and transfer to Colombo Fort railway station." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple entrance fees; breakfast and dinner; drinks; tips; camera fees; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Eco Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wilpattu-national-park-private-jeep-safari-day-trip-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel in Colombo or Negombo, with an early morning pickup. The operator confirms the pickup time based on your address when the booking is accepted." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel accommodation, breakfast and dinner, alcoholic drinks, binoculars and camera equipment, personal expenses, tips for the driver and tracker, and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-port-city-sunset-cruise-snacks') {
+    return [
+      { question: "Where does this start?", answer: "Port City Colombo marina area, next to Galle Face Green. Exact boarding point sent on confirmation." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off; alcoholic drinks unless stated on your booking; meals; tips; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pekoe-trail-stage-15-guided-hike-makulella-to-ella-through-the-tea') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; you are driven to the Makulella trailhead. Confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal hiking equipment.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-city-sightseeing-tuk-tuk-hotel-pickup') {
+    return [
+      { question: "Where does this start?", answer: "Your Colombo hotel lobby, or the cruise terminal gate at Colombo Port for passengers arriving by ship. Pickup point is agreed with the operator when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and museum entrance fees, food and drinks, shopping, tips for the driver, and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'minneriya-or-hurulu-eco-park-elephant-safari-from-dambulla') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Dambulla, Sigiriya or Habarana; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park entrance permit, paid at the gate, meals, gratuities for the driver and tracker, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at dambulla and the temple of the tooth, meals and drinks, gratuities, workshop purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-udawalawe-guided-transfer-with-waterfalls-a-spice-garden') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela, Haputale, Beragala or Wellawaya; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-elephant-safari-transit-home-private-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance and jeep permit fees; elephant transit home entrance; meals and drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-safari-day-trip-from-galle-mirissa-or-hikkaduwa') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle, Mirissa, Unawatuna or Hikkaduwa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit and transit home entrance, paid at the gate, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-kandy-transfer-via-a-vedda-village-waterfalls-and-a-home-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the vedda village community fee, temple donations, drinks beyond lunch, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kelani-river-rafting-day-from-kandy-with-guides-and-transfers') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, photographs from the river operator, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Thara Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mirissa-whale-dolphin-watching-boat-trip-breakfast') {
+    return [
+      { question: "Where does this start?", answer: "Mirissa Harbour, with free pickup from accommodation within about 4 km of Mirissa." },
+      { question: "What is not included in the price?", answer: "The price does not cover transfers from outside the mirissa pickup zone; alcoholic drinks; seasickness medication; towels; gratuities; personal travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Mirissa Adventures Powered by TOP GUIDE SL. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-nuwara-eliya-guided-transfer-with-tea-factory-and-ramboda-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the botanic gardens and the spice garden, meals and drinks, tea purchases at the factory, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market') {
+    return [
+      { question: "Where does this start?", answer: "Pickup by tuk tuk from your hotel in Negombo, roughly fifteen minutes from the jetty." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; gratuities; personal insurance; anything not listed as included.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-tea-factory-ravana-falls-and-sri-lankan-cooking-class-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, drinks beyond those served with lunch, gratuities, tea purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'all-inclusive-udawalawe-half-day-safari-from-ella-with-permit') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, the elephant transit home entrance if added, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-udawalawe-elephant-safari-day-trip-transit-home-visit') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Negombo or Katunayake (airport area)." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fees and transit home admission unless stated at booking, drinks, tips, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-ella-private-transfer-via-a-vedda-village-and-the-hill-road') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the vedda village community fee, temple donations, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tissamaharama-to-ella-guided-transfer-with-buduruwagala') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Tissamaharama; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-dambulla-and-polonnaruwa-long-cultural-triangle-day-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya, dambulla and polonnaruwa, which are substantial and paid at each gate, meals and drinks, a site guide where one is engaged, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'dambulla-cave-temples-pidurangala-rock-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, very early morning." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance tickets for dambulla cave temple and pidurangala; breakfast and lunch; drinks; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'liptons-seat-the-dambatenne-tea-factory-and-adisham-bungalow-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover tea factory and adisham entrance fees, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'heel-oya-village-day-from-kandy-with-a-home-cooked-sri-lankan-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond what is served with lunch, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Padraig Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-anuradhapura-day-trip-mihintale-ancient-city-stops') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your hotel in Colombo; the driver-guide confirms the time the night before." },
+      { question: "What is not included in the price?", answer: "The price does not cover anuradhapura sacred city entrance ticket and any site fees; meals and drinks; camera or video permits where charged; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-jeep-safari-from-ella-bandarawela-or-haputale-with-ravana') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit and transit home entrance, paid at the gate, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-to-yala-private-transfer-via-ella-and-the-nine-arch-bridge') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, the following day's safari, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Little England Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-yala-national-park-safari-day-trip-from-ella-and-back') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, river photography, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Thara Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-evening-street-food-tour-tastings-included') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo; the operator confirms the time and address after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional food and drinks ordered outside the set route, alcohol, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ambuluwawa-tower-and-tea-factory-half-day-tour-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the ambuluwawa entrance fee, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-leopard-safari-and-south-coast-transfer-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-dambulla-and-anuradhapura-three-site-day-tour-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya, dambulla and anuradhapura, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-polonnaruwa-day-tour-from-kandy-with-a-minneriya-jeep-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the polonnaruwa entrance fee and the national park permit, both paid at the gate, meals and drinks, bicycle hire at the ruins, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-national-park-leopard-safari-day-trip-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park entrance permit, paid in cash at the gate, meals, gratuities for the driver and tracker, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-jet-ski-ride-thermopylae-sierra-shipwreck') {
+    return [
+      { question: "Where does this start?", answer: "The water sports base on the Mount Lavinia and Dehiwala coast, south of central Colombo. The operator confirms the exact meeting point and slot after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, photos and video, towels, meals, tips, travel insurance and any damage waiver excess.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy by tuk-tuk; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, additional pieces bought at the workshop.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-night-street-photography-walk-with-a-local-photographer') {
+    return [
+      { question: "Where does this start?", answer: "Meet in central Kandy; the exact point is confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers, camera equipment, meals and drinks, gratuities, entrance fees anywhere that charges.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-sigiriya-and-dambulla-tuk-tuk-day-trip-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "City Tours Lanka. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-nuwara-eliya-guided-transfer-with-hakgala-gardens-and-seetha') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the hakgala gardens entrance fee, temple donations, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, entrance fees at the gardens or factory, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kitulgala-white-water-rafting-day-trip-from-kandy-by-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, entrance fees at any stop that charges, gratuities, waterproof camera hire, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-national-park-private-jeep-safari-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Waskaduwa, with the departure time set to your chosen safari slot." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional meals and drinks, gratuities for the driver and tracker, camera or video fees where charged, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'horton-plains-trek-from-nuwara-eliya-with-a-tea-factory-and-ravana-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the horton plains entrance fee, the tea factory entrance, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-rock-and-dambulla-caves-day-tour-from-kandy-with-evening') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla and the national park permit, meals and drinks, gratuities, purchases at the workshops.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'negombo-colombo-city-tour-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your hotel in Negombo by tuk tuk." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; temple entrance donations; negombo lagoon boat fee if you take the option; shopping; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "CEYLON TUK TUK. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-day-trip-from-kandy-by-tuk-tuk-with-a-tea-factory-visit') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases at the factory, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Thara Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'all-inclusive-ella-day-with-a-tea-factory-and-the-hill-country-train') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, tea purchases, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-peaks-all-inclusive-day-trip-both-walks-the-bridge-and-halpewatte') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Haputale or Bandarawela; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the zipline fee, tea factory entrance, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'anuradhapura-colombo-private-day-trip-ancient-capital') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Negombo or Katunayake, early morning." },
+      { question: "What is not included in the price?", answer: "The price does not cover anuradhapura sacred city entrance ticket; breakfast and lunch; drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-rock-and-polonnaruwa-ancient-city-day-trip-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and polonnaruwa, meals and drinks, bicycle hire at the ruins, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-wreck-diving-trip-certified-dive-guides') {
+    return [
+      { question: "Where does this start?", answer: "Colombo waterfront dive base; the exact address and boarding time are confirmed by the operator once your booking is accepted." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, underwater camera hire, tips, travel or dive insurance, meals, and any additional dives beyond the one booked.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the botanic gardens and any site that charges, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-in-a-day-nine-arch-bridge-little-adams-peak-ravana-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the zipline fee, entrance fees where they apply, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sinharaja-rainforest-guided-trek-waterfalls-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup from Colombo or any of the listed southwest coast towns, confirmed with the operator after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks unless confirmed by the operator, gratuities for the forest guide, leech socks if you wish to hire them, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-sightseeing-tour-tuk-tuk-hotel-pickup') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo; your driver meets you at reception at the agreed time." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance and camera fees where charged, food and drinks, souvenir purchases, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-street-food-tuk-tuk-guided-tasting-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from any address in Colombo 1 to Colombo 15, including Grandpass." },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks; additional dishes ordered outside the set tastings; gratuities; souvenirs.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Zoom Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-polonnaruwa-long-guided-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo, very early morning." },
+      { question: "What is not included in the price?", answer: "The price does not cover site entrance tickets for sigiriya and polonnaruwa; breakfast; drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-sunrise-climb-dambulla-cave-temples-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo in the small hours of the morning." },
+      { question: "What is not included in the price?", answer: "The price does not cover sigiriya and dambulla entrance tickets; meals and drinks; tips; camera fees; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, train tickets, meals and drinks, purchases at the workshops, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-day-trip-from-galle-hikkaduwa-or-mirissa-with-the-hill-country') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle, Unawatuna, Hikkaduwa, Weligama or Mirissa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pekoe-trail-stage-1-guided-hike-from-kandy-hanthana-to-galaha') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal hiking equipment, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Lanka  Trek. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-or-nuwara-eliya-to-ella-private-tea-country-transfer') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy or Nuwara Eliya; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Little England Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Negombo, Mount Lavinia, Kalutara, Bentota, Kosgoda, Hikkaduwa or Galle." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, including at the ravana pool club; entrance fees where charged; gratuities; personal purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-to-ella-guided-transfer-with-gregory-lake-seetha-amman') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the hakgala gardens entrance fee, temple donations, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-safari-with-coastal-drop-off-from-ella-tangalle-mirissa-or-galle') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-tissamaharama-guided-transfer-with-waterfalls-and-buduruwagala') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hanthana-ridge-and-katusukonda-hike-from-kandy-with-tea-estates') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal hiking equipment, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-highlights-half-day-tour-nine-arch-bridge-halpewatte-tea-factory') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the tea factory entrance, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-nuwara-eliya-scenic-transfer-with-an-optional-nanu-oya-train') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "City Tours Lanka. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-demodara-cycling-tour-with-the-nine-arch-bridge-and-a-train') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, or meet at the bike shop; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-rock-guided-hike-with-the-nine-arch-bridge-and-ravana-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, or meet at Ella station; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, entrance fees where they apply, gratuities, personal equipment.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-ella-guided-transfer-with-peradeniya-gardens-and-ramboda-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the botanic gardens and spice garden, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-national-park-private-safari-day-trip-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup from Colombo and a range of south-coast towns including Negombo, Panadura, Ambalangoda and Tissamaharama, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance and jeep permit fees; elephant transit home entrance; drinks; gratuities; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your Negombo hotel; the itinerary lists Avengard Hotels as the standard collection point." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; entrance fees at the turtle hatchery and lunuganga; camera fees where charged; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the cost of the train ticket itself where not stated, entrance fees, drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is this a ticket only, or is a guide included?", answer: "Entry only. There is no guide with you unless the option you pick says so, and the ticket is for the date you book." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-arugam-bay-guided-transfer-with-waterfalls-temples') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'horton-plains-and-worlds-end-from-ella-with-the-train-to-ohiya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the horton plains entrance fee, train tickets, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wilpattu-jeep-safari-sunrise-or-sunset-game-drive') {
+    return [
+      { question: "Where does this start?", answer: "Pickup point depends on the option you select — Colombo and Negombo hotels, or park-side points at Hunuwilagama, Anuradhapura, Nochchiyagama, Sinharagama, Galkadawala and Eluwankulama." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance and tracker fees paid at the gate, meals and refreshments, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-adventure-day-by-tuk-tuk-both-peaks-the-loop-and-the-zipline') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the zipline fee, entrance fees, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bentota-ayurvedic-massage-mangrove-boat-cruise-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Panadura, confirmed with the operator after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities for the therapist and boatman, additional spa treatments, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-tuk-tuk-private-half-day-tour-local-meal') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from any address in Colombo 1 to Colombo 15, including Grandpass." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees and temple donations; additional food and drinks; tea purchases; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Zoom Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-landmarks-tuk-tuk-private-tour-entry-tickets') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your Colombo hotel or the cruise port terminal." },
+      { question: "What is not included in the price?", answer: "The price does not cover food and drinks; tea or souvenir purchases; gratuities; anything not on the standard route.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Zoom Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-sigiriya-private-transfer-via-a-vedda-village-and-mahiyanganaya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the vedda village community fee, temple donations, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-adventure-day-tour-ella-rock-little-adams-peak-and-the-nine-arch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, entrance fees where they apply, gratuities, personal equipment.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawattakele-bird-watching-morning-from-kandy-with-a-guide') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the sanctuary entrance fee, paid at the gate, binoculars, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-rock-dambulla-cave-temples-day-trip-colombo-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Negombo, Mount Lavinia, Kalutara, Bentota, Hikkaduwa or Galle." },
+      { question: "What is not included in the price?", answer: "The price does not cover sigiriya and dambulla entrance tickets; national park entry fees; meals and drinks; tips; camera fees; personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-day-tour-with-a-tea-factory-a-cooking-class-and-little-adams-peak') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, drinks beyond those served with lunch, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ravana-falls-diyaluma-and-a-yala-safari-full-day-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-rock-a-spice-garden-and-little-adams-peak-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, spice purchases, entrance fees where they apply, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-peradeniya-gardens-tea-factory-day-tour-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple of the tooth and royal botanic gardens entrance fees; breakfast, lunch and drinks; tips; camera fees; personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-to-trincomalee-guided-transfer-via-mahiyanganaya-and-a-vedda') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the vedda village community fee, temple donations, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-safari-with-a-south-coast-drop-from-ella-galle-mirissa-or') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'south-coast-to-ella-transfer-via-a-yala-safari-and-buduruwagala') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup on the southwest coast; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit and the buduruwagala entrance, paid in cash at the gates, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandyan-eco-village-and-spice-trail-half-day-tour-from-kandy') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks unless stated, gratuities, spice purchases, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-tuk-tuk-tour-with-little-adams-peak-the-nine-arch-bridge') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-sigiriya-rock-dambulla-caves-village-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel on the southwest coast at Balapitiya, with a very early morning pickup. The exact time is confirmed by the operator once your hotel address is known." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel accommodation, dinner, alcoholic drinks, personal shopping, camera fees where charged, tips for the driver-guide, and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'liptons-seat-cycling-descent-with-the-dambatenne-tea-factory') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the tea factory entrance, meals, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'uva-village-life-by-jeep-from-ella-with-a-cooking-class-and-home-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond those served with lunch, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-all-inclusive-private-day-trip-with-the-train-ella-rock') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the zipline fee, entrance fees, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-in-half-a-day-by-tuk-tuk-ten-stops-around-the-town') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees, the zipline, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-day-trip-from-nuwara-eliya-with-a-tea-factory-and-the-nine-arch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hindu-and-buddhist-temples-around-ella-a-guided-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple donations, entrance fees where they apply, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-pidurangala-and-a-jeep-safari-from-kandy-by-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya or pidurangala and dambulla, the national park permit, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Thara Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-to-kandy-private-transfer-via-ella-the-nine-arch-bridge') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in the Udawalawe area; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-national-park-safari-day-trip-from-ella-bandarawela-or-haputale') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-wonders-day-tour-spice-garden-nine-arch-bridge-ravana-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the zipline fee, entrance fees where they apply, meals and drinks, spice purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-countryside-cycling-tour-through-villages-paddy-fields') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle or Unawatuna; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'diyaluma-and-ravana-falls-with-the-halpewatte-tea-factory') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Hikkaduwa, Galle, Unawatuna, Weligama or Mirissa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the tea factory entrance, meals and drinks, tea purchases, gratuities, a local guide at the falls where one is engaged.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hill-country-train-ride-and-liptons-seat-by-tuk-tuk-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, the tea factory entrance, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pearl Odyssey Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-essentials-day-tour-little-adams-peak-and-the-nine-arch-bridge') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, entrance fees where they apply, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-peaks-long-day-trip-from-the-south-coast-with-the-train-and-both') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle, Unawatuna, Weligama, Mirissa or Hikkaduwa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover train tickets, entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-safari-day-tour-from-ella-bandarawela-or-haputale') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Bandarawela or Haputale; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit and transit home entrance, paid in cash at the gates, meals, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'haputale-to-ella-guided-cycling-tour-through-the-uva-tea-estates') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; you are driven to Haputale to start. Confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mirissa-or-weligama-to-ella-transfer-with-an-optional-udawalawe-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Mirissa or Weligama; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the safari jeep and park permit if you take the optional game drive, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-city-highlights-tour-jaffna-style-banana-leaf-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, confirmed with the operator after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover additional meals and drinks, temple donation and camera fees where charged, gratuities, shopping, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Wattala, Wadduwa, Kalutara or Negombo." },
+      { question: "What is not included in the price?", answer: "The price does not cover turtle hatchery donation or entrance; meals and drinks; tips; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-kandy-guided-transfer-with-dambulla-a-spice-garden') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya, Dambulla or Habarana; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the dambulla entrance fee, meals and drinks, spice or craft purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-sigiriya-day-tour-from-kandy-with-an-elephant-safari-and-spice') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla and the national park permit, meals and drinks, gratuities, spice garden purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-ella-transfer-hill-country-stops-nanu-oya-train') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your hotel in Kandy; the driver will confirm the time the evening before." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; tea factory entrance fee if charged; entrance fees at any optional stops; gratuities; accommodation in ella.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-haputale-private-day-trip-hill-country-train-ride-tea-fac') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, with the departure time set by the operator to catch the hill country train." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks unless confirmed by the operator, gratuities, tea purchases at the factory, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at dambulla and anywhere else that charges, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-after-dark-guided-nightlife-tour-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Old Dutch Hospital Complex, Hospital Street, Colombo Fort." },
+      { question: "What is not included in the price?", answer: "The price does not cover food, drinks and any venue entry or cover charges; gratuities; hotel pickup outside central colombo.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "CEYLON TUK TUK. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya, or from Nanu Oya station; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'liptons-seat-tuk-tuk-excursion-from-ella-with-the-dambatenne-tea-factory') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the tea factory entrance, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-to-ella-private-transfer-with-an-etili-village-visit-and-home') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in the Yala or Tissamaharama area; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond those served with lunch, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-sights-and-an-udawalawe-safari-all-inclusive-private-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the elephant transit home entrance, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Nelum Holidays and Tours (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-safari-from-ella-with-a-drop-at-arugam-bay') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-heights-all-inclusive-day-trip-with-halpewatte-tea-factory') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, Haputale or Bandarawela; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the zipline fee, the tea factory entrance, meals and drinks, tea purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'diyaluma-falls-infinity-pools-and-buduruwagala-rock-temple-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the buduruwagala entrance fee, meals and drinks, a local guide at the falls where one is engaged, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Lanka Travel Hub. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-safari-and-south-coast-transfer-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit and the transit home entrance, both paid at the gate, meals and drinks, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-fort-stilt-fishermen-bentota-river-safari-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or along the south-west coast, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover turtle project donation; temple entrance and offerings; photograph fees at the stilt fishing spot; meals and drinks; tips; personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ella-waterfalls-nine-arch-bridge-and-little-adams-peak-private-day-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees where they apply, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-national-park-full-day-safari-from-the-galle-and-mirissa-coast') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle, Mirissa, Unawatuna, Weligama or Hikkaduwa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the national park permit, paid in cash at the gate, meals, gratuities for the driver and tracker.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'madu-river-mangroves-cinnamon-island-kosgoda-turtle-hatchery-d') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Kalutara; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, souvenir purchases at the cinnamon island or hatchery, personal expenses, travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Eco Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-port-city-guided-canoeing-session') {
+    return [
+      { question: "Where does this start?", answer: "The watersports point at Port City Colombo, on the reclaimed waterfront beside Galle Face; the exact meeting spot is confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers, food and drinks, towels, changing facilities beyond those on site, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-highlights-guided-half-day-city-tour-car') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup anywhere in Colombo; your driver-guide meets you in the lobby at the agreed time." },
+      { question: "What is not included in the price?", answer: "The price does not cover temple and monument entrance fees; food and drinks; camera charges at religious sites; gratuities; personal shopping.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'udawalawe-national-park-elephant-safari-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, Wadduwa, Moratuwa or Panadura, arranged when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and other meals; drinks; tips for the driver, guide and jeep tracker; camera fees where charged; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-temples-markets-guided-four-hour-city-tour') {
+    return [
+      { question: "Where does this start?", answer: "Pickup from your accommodation in Colombo by air-conditioned van." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance and donation fees at temples; food and drinks; gratuities; shopping in pettah.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Eco Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-foot-private-guided-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Independence Avenue, beside Independence Square, Colombo 00700." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off; entrance fees and temple donations; food and drinks; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Guydeez. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'yala-national-park-leopard-safari-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo, arranged when you book." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; tips for the driver and tracker; camera fees where charged; personal expenses; travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'colombo-port-city-snorkelling-session-beginners') {
+    return [
+      { question: "Where does this start?", answer: "Colombo Port City waterfront water sports base. The operator confirms the exact meeting point and time after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, towels, photographs, meals, tips and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'water-skiing-session-colombo-port-city-waterfront') {
+    return [
+      { question: "Where does this start?", answer: "Colombo Port City waterfront water sports base. The operator confirms the exact meeting point and slot time after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off, photos and video, towels, meals, tips and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-sunrise-climb-dambulla-kandy-day-trip-colombo') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel in Colombo or Negombo, with a pickup around midnight or in the early hours so you reach Sigiriya for opening. The operator confirms the exact time after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees for sigiriya, dambulla and the temple of the tooth, lunch and dinner, drinks, purchases at the visitor centre, tips, and travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wilpattu-national-park-full-day-leopard-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Negombo, Anuradhapura or Galkadawala, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance and tracker fees; meals; camera or video permits where applicable; gratuities; travel insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Tiger Safaris. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'gampaha-forest-atv-adventure-ride') {
+    return [
+      { question: "Where does this start?", answer: "ATV adventure park in Gampaha, around an hour north-east of central Colombo. Exact address sent on confirmation." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from the park; meals and drinks; insurance; photos and video; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hikkaduwa-reef-scuba-diving-session') {
+    return [
+      { question: "Where does this start?", answer: "Dive centre in Hikkaduwa on the south-west coast. Exact address sent on confirmation." },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from hikkaduwa; meals and drinks; underwater photos or video; dive insurance; certification course fees; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-kandy-sightseeing-transfer') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Nuwara Eliya, confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover tea factory and site entrance fees; meals and drinks; gratuities; accommodation; personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ceylon IT Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-car-transfer-kandy-ella-mirissa-colombo-beyond') {
+    return [
+      { question: "Where does this start?", answer: "Door-to-door pickup from your hotel or guesthouse in Kandy; the driver waits in reception at the time you confirm." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks; entrance fees to any sites you stop at along the way; accommodation; driver gratuity; anything not listed as included.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Ceylon IT Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'negombo-lagoon-boat-trip-monkey-island') {
+    return [
+      { question: "Where does this start?", answer: "Boat jetty on the Negombo lagoon; the operator confirms the exact landing on booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers to and from the jetty; meals and drinks; gratuities; personal insurance.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Z R I Adventures (Private) Limited. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo; drop-off at the same address in the evening." },
+      { question: "What is not included in the price?", answer: "The price does not cover seafood lunch and drinks; church or site donations; optional lagoon boat ride; gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Sri Lanka Eco Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-tea-country-day-trip-colombo-high-tea') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Colombo or Negombo, before dawn." },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and other meals, entrance fees not specified above, horse riding and other optional activities at gregory lake, shopping, tips.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Apple Vacations Sri Lanka and Maldives. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-and-pidurangala-rock-day-trip-from-kandy-by-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees for sigiriya, pidurangala and dambulla, which are paid at each gate, meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Thara Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla and the national park permit, meals and drinks, gratuities, workshop purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Padraig Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-to-kandy-artisan-trail-transfer-with-a-family-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Sigiriya or Dambulla; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the dambulla entrance fee, drinks beyond those served with lunch, craft purchases, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Padraig Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the parks, gardens or factory, drinks, gratuities, tea purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wakarewatta-nature-and-kandy-city-tuk-tuk-tour-with-a-sri-lankan-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees including the temple of the tooth, drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Kandyman Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sorabora-lake-sunrise-and-waterfalls-day-trip-from-kandy-with-a-village') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, entrance fees where they apply, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at sigiriya and dambulla, drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-full-day-private-tour-temple-of-the-tooth-peradeniya') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at the temple of the tooth, the botanic gardens and the dance show, meals and drinks, gratuities, workshop purchases.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-and-pinnawala-day-trip-from-bentota-with-the-temple-of-the-tooth') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Bentota or Kalutara; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees at pinnawala, the temple of the tooth and the botanic gardens, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy, or meet at the workshop; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, additional pieces bought from the workshop, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I take what I make home?", answer: "Yes. The piece you make is yours and the host packs it for travel. Some materials need drying or firing time, so ask at the start if you are flying the same day." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-kitulgala-adventure-day-from-kandy-rafting-trekking') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, any activity added on the day beyond what was booked, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kitulgala-white-water-rafting-from-kandy-with-hotel-transfers') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, photographs or video from the river operator, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover drinks beyond those served with the meal, gratuities, spice purchases, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Pekoe Lanka Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover conservation area entry fees where they apply, gratuities, personal equipment, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Ceylon Itinerary Holdings. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pekoe-trail-stage-3-guided-hike-from-kandy-loolkandura-to-tawalantenne') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities, personal hiking equipment, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'peradeniya-botanic-gardens-photography-walk-with-a-professional') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Kandy, or meet at the gardens entrance; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the gardens entrance fee, paid at the gate, camera equipment, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Beyond Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'little-adams-peak-sunrise-hike-from-ella-with-a-local-guide') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, or meet at the trailhead; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover breakfast, water, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'galle-to-ella-transfer-via-udawalawe-with-an-optional-safari') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Galle, Unawatuna, Hikkaduwa or Mirissa; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the safari jeep and park permit if you take the optional game drive, meals and drinks, gratuities.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Ranweli Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'private-udawalawe-safari-from-ella-with-jeep-permit-and-transfers') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, gratuities for the driver and tracker, the elephant transit home entrance if added, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Himayuru Tours, Ella, Sri Lanka - Trusted Yala & Udawalawe Safari Tour Provider. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'little-adams-peak-sunset-hike-from-ella-with-a-local-guide') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella, or meet at the trailhead; confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and drinks, gratuities, personal expenses.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Wanderluxe Ceylon. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'two-parks-in-a-day-private-yala-and-udawalawe-double-safari-from-ella') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover both national park permits, paid in cash at the gates, meals, gratuities for the drivers and trackers.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Bentota Travel Mart. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kalametiya-bird-sanctuary-boat-safari-from-ella-with-coastal-transfers') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ella; the exact address and time are confirmed after booking." },
+      { question: "What is not included in the price?", answer: "The price does not cover the sanctuary entrance fee, meals, gratuities, binoculars.. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Sign of Lanka (Pvt) Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  // --- THAILAND TOURS (2026-09) ---
+  if (slug === 'kanchanaburi-death-railway-hellfire-pass-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover extra meal & beverage and tip. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bangkok-grand-palace-wat-pho-golden-mount-ticket') {
+    return [
+      { question: "Where does this start?", answer: "BTS Ratchathewi Exit 1 & 3 (bus stop near BTS Ratchathewi Exit 1 & 3)" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities and meal. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phang-nga-bay-bioluminescent-plankton-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chiang-mai-doi-suthep-wat-pha-lat-red-truck-tour') {
+    return [
+      { question: "Where does this start?", answer: "Discova Day Tour Shop Chiang Mai: 10/3 Wiang Kaew Rd, Tambon Si Phum, Muang, Chiang Mai 50200,  Thailand." },
+      { question: "What is not included in the price?", answer: "The price does not cover guide services — this is an unguided experience, admission fee to wat phra that doi suthep, cable car ticket at doi suthep and food and drinks and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phang-nga-bay-bioluminescence-sea-canoe-tour') {
+    return [
+      { question: "Where does this start?", answer: "Our Tour guide will waiting you at 5 Star Marine office, Pier Phuket Boat Lagoon, Mueang Phuket District, Phuket 83000," },
+      { question: "What is not included in the price?", answer: "The price does not cover tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'krabi-private-longtail-charter-hong-island') {
+    return [
+      { question: "Where does this start?", answer: "Your hotel lobby in Ao Nang, Krabi Town or Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fees, alcohol, gratuities and professional photography. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Punpuntravel and tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'krabi-four-islands-separated-sea-longtail-trip') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang or Krabi Town, departure from Nopparat Thara pier" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcoholic drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Oh-Hoo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hong-island-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Beach speedboat departure point, with hotel pickup available" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcoholic beverages and underwater camera rental. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์  จํากัด. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pha-chor-nature-trail-mae-wang-national-park-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "McDonald's or Three Kings Monument, Chiang Mai (select at checkout)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off (fixed meeting points only), lunch and food, gratuities and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "SNP Chiangmai Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'local-market-chiang-mai-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup within eligible zone, or Baan Meesuk meeting point if outside pickup area (confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities for guide and village hosts, personal expenses, travel insurance and alcoholic drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Chiang Mai Footsteps Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wat-rong-khun-white-temple-spiritual-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Chiang Mai (exact point confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup (pickup location depends on selected option), meals and drinks, gratuities for guide and driver and personal expenses and souvenirs. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Monkey Travel Asia by ASK Discovery. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chiangmai-boxing-stadium-entry-ticket') {
+    return [
+      { question: "Where does this start?", answer: "Chiangmai Boxing Stadium (address confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover transport to and from the stadium, food (unless vip tier selected) and gratuities for staff. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is this a ticket only, or is a guide included?", answer: "Entry only. There is no guide with you unless the option you pick says so, and the ticket is for the date you book." },
+      { question: "Who runs this tour?", answer: "Chiang Mai Boxing Stadiums (52nd Street Co., Ltd.). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'doi-inthanon-national-park-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Chiang Mai (exact point confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities, personal expenses, drinks and snacks beyond lunch and doi inthanon national park foreigner entrance fee, if charged separately by park authorities on the day. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Chiang Mai Footsteps Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wat-chedi-luang-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Wat Chedi Luang, Chiang Mai Old City" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and drop-off (this is a walking tour; meet directly on-site), temple entrance donations, if requested, gratuities and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "TripGuru Thailand. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'pon-elephant-sanctuary-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Varies by option — Maewin Locomarket, Pon Elephant office in Chiang Mai city, or your hotel (see booking options)" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities, personal expenses, elephant riding (not offered — this is an ethical, no-riding sanctuary) and alcoholic beverages. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Pon Elephant Thailand. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'local-market-chiang-mai-food-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup within eligible zone in Chiang Mai (confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities, personal expenses and alcoholic drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Thai Cottage Home Cookery School. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chiang-mai-countryside-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Flying Bird Corporation launch site, Chiang Mai (exact location confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup and transport to the launch site (unless specified at booking), gratuities for your instructor, personal expenses and additional photo/video packages, if charged separately. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "FlyingBird Paramotor Chiang Mai (Flying Bird Corporation Co., Ltd.). We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'doi-inthanon-national-park-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Chiang Mai (exact point confirmed at booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, gratuities, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "TripGuru Thailand. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'traditional-khan-toke-restaurant-chiang-mai-experience') {
+    return [
+      { question: "Where does this start?", answer: "Restaurant venue in Chiang Mai (exact point confirmed at booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel pickup/drop-off (unless specified at booking), drinks, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "MY Holiday Centre. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mae-wang-elephant-eco-park-adventure-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Chiang Mai (exact point confirmed at booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover zipline add-on (optional, extra cost), personal expenses, gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Chiang Mai Butler Services. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mae-taeng-district-chiang-mai-countryside-adventure-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Chiang Mai" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals (unless specified at booking), personal riding gear beyond what's provided, gratuities and travel/accident insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "8Adventures. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'mae-kampong-village-group-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Chiang Mai" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses and souvenirs, gratuities for guide and driver and travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Eco Tours Chiang Mai. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'night-bazaar-area-chiang-mai-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Spa location near the Chiang Mai Night Bazaar (exact address confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfer (self-arranged; spa is walkable from central chiang mai), gratuities and additional add-on treatments not selected at booking. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Srimantra Spa. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kingkong-smile-zipline-doi-saket-adventure-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Chiang Mai (exact point confirmed at booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses, gratuities, travel insurance. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "KING KONG SMILE ZIPLINE. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'floracreek-gardens-hang-dong-chiang-mai-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Floracreek, Hang Dong district (address confirmed after booking)" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfer (self-arranged; located in hang dong district), additional drinks/beverages beyond water and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Floracreek Chiangmai. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-beach-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Beach longtail boat pier, hotel pickup available nearby" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, lunch, towel and alcoholic drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Love Nature Krabi Travel and Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chicken-island-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Beach longtail pier, in front of the Ao Nang Landmark sign" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, underwater camera rental and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Love Nature Krabi Travel and Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'crystal-lake-mini-tour') {
+    return [
+      { question: "Where does this start?", answer: "Klong Root Crystal Lake entrance, Nong Thale, Krabi" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers unless added at booking, meals, towels and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Travel CoCo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chicken-island-sunset-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Pier, Krabi, at the catamaran boarding gate" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, camera hire and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Srisawat Travel and Tour Limited Partnership. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-backcountry-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "ATV base camp in the hills behind Ao Nang" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfer, meals, photos and video package and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Must try Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-elephant-sanctuary-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Elephant Sanctuary reception, with transfers from Ao Nang hotels" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals for guests, professional photos, donations to the sanctuary and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Aonang Elephant Sanctuary. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phra-nang-cave-beach-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel lobby pickup across Ao Nang, Krabi Town and Nopparat Thara" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcoholic drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Big Cat Travel Co., Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hong-island-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang, Nopparat Thara or Krabi Town" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcohol and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "AO NANG GRAND OCEAN TRAVEL AND TOUR. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'james-bond-island-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Krabi Town, Ao Nang or Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcoholic drinks and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Koh Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'poda-island-sunrise-tour') {
+    return [
+      { question: "Where does this start?", answer: "Early hotel pickup in Ao Nang, Krabi Town and Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fees, towels, alcoholic drinks and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Mookanda Villa Travel. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hot-spring-waterfall-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang, Krabi Town or Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover emerald pool and hot spring entrance fees, towels, atv upgrade to a longer route and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Oh-Hoo. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phra-nang-cave-beach-afternoon-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang, Krabi Town and Nopparat Thara" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, towels, alcoholic drinks and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "KRABI SEA WHISPER. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hong-island-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang, Krabi Town and Nopparat Thara" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park entrance fee, alcoholic drinks, towels and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "GR Rungtawan Co., LTD.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-sunset-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang pier, with hotel pickup available across Ao Nang and Krabi Town" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers outside the stated zone, alcoholic drinks, towels and national park fees where applicable. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Thailand Escapes. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'krabi-elephant-shelter-entry-ticket') {
+    return [
+      { question: "Where does this start?", answer: "Krabi Elephant Shelter reception, Nong Thale, Krabi" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers unless booked separately, meals, gratuities for the keepers and personal expenses. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Krabi Elephant Shelter. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'jungle-flight-canopy-course-chiang-mai-adventure-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in central Chiang Mai" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals (unless specified at booking), photos/videos of your run (may be available at extra cost) and gratuities for guides. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Jungle Flight. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phuket-amulet-market-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Guest's Hotel" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuity. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bang-pa-in-royal-palace-boat-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover extra meal & beverage and tip. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'tiger-cave-temple-spiritual-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel lobby pickup in Ao Nang, Krabi Town or Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover temple donations, towels, locker rental and alcoholic drinks. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "TripGuru Thailand. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'maya-bay-adventure-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "Nopparat Thara Pier, Ao Nang, Krabi" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, underwater camera hire and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Krabi Ezy Trails Co.,Ltd.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chicken-island-premium-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Pier, Krabi, at the catamaran boarding gate" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, photography package and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Srisawat Travel and Tour Limited Partnership. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chicken-island-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Beach, at the longtail boat departure point near Soi 4" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, underwater camera hire and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Koh Tour. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'maya-bay-islands-full-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Ao Nang Beach or Nopparat Thara Pier, depending on your boat type" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, towels, camera and equipment hire and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "GR Rungtawan Co., LTD.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-thalane-bay-half-day-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel lobby pickup in Ao Nang, Klong Muang or Krabi Town" },
+      { question: "What is not included in the price?", answer: "The price does not cover lunch and extra drinks, gratuities, personal expenses and towel and change of clothes. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Love Nature Krabi Travel and Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-thalane-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel lobby pickup across Ao Nang, Krabi Town and Klong Muang" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals, alcoholic drinks, tips for guide and driver and personal items. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "V Welcome Travel - Kayak Tour Ao Thalane. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-through-bike-tour') {
+    return [
+      { question: "Where does this start?", answer: "Khlong Son ATV camp, with pickup available from Ao Nang and Klong Muang hotels" },
+      { question: "What is not included in the price?", answer: "The price does not cover meals and snacks, photo package, tips and personal spending. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Do I have to drive myself?", answer: "You can usually ride as a passenger behind a local driver, which is what most guests do and needs no licence. Driving yourself needs a licence valid in that country, and your travel insurance will normally only cover you if you hold one." },
+      { question: "Who runs this tour?", answer: "Love Nature Krabi Travel and Tours. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-cooking-food-tour') {
+    return [
+      { question: "Where does this start?", answer: "Cooking school in Ao Nang, with pickup from nearby hotels" },
+      { question: "What is not included in the price?", answer: "The price does not cover alcoholic drinks, extra market purchases, gratuities and hotel pickup outside ao nang. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Smart Cook Krabi,Thailand. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-venues-guided-tour') {
+    return [
+      { question: "Where does this start?", answer: "Meeting bar in central Ao Nang, near Center Point" },
+      { question: "What is not included in the price?", answer: "The price does not cover additional drinks and food, transport to and from the meeting point, late-night taxi home and tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Nomads Adventures. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-evening-tour') {
+    return [
+      { question: "Where does this start?", answer: "Blue Dragon Cabaret theatre entrance, Ao Nang" },
+      { question: "What is not included in the price?", answer: "The price does not cover hotel transfers, food and drinks, tips for performers and professional photo prints. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is this a ticket only, or is a guide included?", answer: "Entry only. There is no guide with you unless the option you pick says so, and the ticket is for the date you book." },
+      { question: "Who runs this tour?", answer: "SIAM SCAPE JOURNEYS CO.,LTD.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'ao-nang-sunset-tour') {
+    return [
+      { question: "Where does this start?", answer: "Hotel pickup in Ao Nang and Krabi Town, boarding at Nopparat Thara pier" },
+      { question: "What is not included in the price?", answer: "The price does not cover national park fees, alcoholic drinks, towels and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Bamboo Sunset Cruise Company LTD.. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'song-wat-road-evening-tour') {
+    return [
+      { question: "Where does this start?", answer: "Shared Tour Meeting point: Metro Hua Lamphong station, Exit 4" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'museum-siam-boat-tour') {
+    return [
+      { question: "Where does this start?", answer: "MRT Sanamchai Exit 1 next to Museum Siam" },
+      { question: "What is not included in the price?", answer: "The price does not cover • hotel pickup and drop-off and • gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hong-island-guided-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup is included for any hotels in Phuket City The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'chiang-mai-guided-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover - hotel drop off and - gratuities for guide or crew. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hidden-forest-elephant-reserve-afternoon-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover tipping and bathing with elephants. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'kio-thian-keng-saphan-hin-shrine-food-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. Pickup is included for any hotels in Phuket City The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phuket-phi-phi-bamboo-island-day-trip') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'sea-gypsies-fish-market-sunset-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup is included for any hotels in Phuket City. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'maya-bay-speedboat-boat-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. Hotel pickup is included for any hotels in Phuket City. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover personal expenses and gratuities. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How much of this is actually on the water?", answer: "Most of the day, and the boat is the point rather than the transport. Conditions occasionally force a change of route, which the operator decides on the morning and is not something anyone can promise around." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'phuket-amulet-market-painting-walking-tour') {
+    return [
+      { question: "Where does this start?", answer: "Guest's Hotel" },
+      { question: "What is not included in the price?", answer: "The price does not cover gratuity. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How hard is the walking, and what should I wear?", answer: "Expect uneven ground and some climbing, and mud after rain. Trainers with grip are the minimum and proper shoes are better. The pace follows the group, so tell your guide early if you want it slower rather than at the point you are struggling." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'wat-lok-moli-food-tour') {
+    return [
+      { question: "What is not included in the price?", answer: "The price does not cover - extra meals and drinks, - gratuities for guide and - hotel transfer. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'hidden-forest-elephant-reserve-guided-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover tipping and bathing with elephants. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Are animal sightings guaranteed?", answer: "No, and anyone promising them is guessing. These are wild animals in open country. Early departures give the best odds because that is when animals are active and the light is good." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'old-town-phuket-guided-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover • additional food and drinks and • tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "How large is the group?", answer: "Unless the option says private, this runs as a small group. The operator caps it rather than filling a coach, and if you want it to yourselves the private option is priced separately on this page." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'maeklong-railway-market-shopping-tour') {
+    return [
+      { question: "Is hotel pickup included?", answer: "Yes. The collection window is usually a little wider than a fixed minute, because the driver is working a route around several hotels." },
+      { question: "What is not included in the price?", answer: "The price does not cover • paddle boat rental, • extra food and drinks and • tips. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Can dietary requirements be handled?", answer: "Yes, if you tell us when you book rather than on the day. Vegetarian and vegan are routine; allergies need naming specifically so the host can shop differently." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
+  if (slug === 'bangkok-grand-palace-wat-pho-golden-mount-tour') {
+    return [
+      { question: "Where does this start?", answer: "BTS Ratchathewi Exit 1 & 3 (bus stop near BTS Ratchathewi Exit 1 & 3)" },
+      { question: "What is not included in the price?", answer: "The price does not cover entrance fees — approx 900 thb per person, paid at the official counters on the day (grand palace 500, wat pho 300, golden mount 100), gratuities and meal. Everything it does cover is listed in full on this page, so if something is not on that list, budget for it separately." },
+      { question: "Is there a dress code?", answer: "Religious sites expect shoulders and knees covered, and shoes come off before entering many of them. A light scarf is worth carrying. Where a site enforces this at the gate, arriving dressed correctly saves the whole group time." },
+      { question: "Who runs this tour?", answer: "Buffalo Tours (Singapore) Pte Ltd. We book with them directly rather than through a reseller, which is why we can confirm your place with the operator before taking it as final." },
+      { question: "How does booking work, and when do I get the meeting details?", answer: "We confirm your booking with the operator before we treat it as final, and we need at least one day's notice outside India. Once it is confirmed you get the meeting point, the time and a contact number for the day. If the operator cannot take your date we tell you and refund you rather than leave you waiting." }
+    ];
+  }
+
   // --- VIETNAM TOURS (2026-09) ---
   if (slug === 'stained-glass-art-workshop-in-saigon') {
     return [
