@@ -22,6 +22,5835 @@ export interface TourReviewData {
 export const getTourReviews = (slug: string | undefined): TourReviewData | null => {
     if (!slug) return null;
 
+    // --- SRI-LANKA TOURS (2026-09, real reviews from the same source listing) ---
+    if (slug === 'ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 15,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "SATOMI", country: "Verified traveller review", rating: 5, date: "2025-08-13", text: "I was able to customize the intinery to my liking. The tour guide Nilanka was so nice and also patient with my slow walking. Recommend." },
+                { author: "Marcus", country: "Verified traveller review", rating: 5, date: "2025-03-29", text: "The friendly and calm driver Menuka did take me to the attraction in an efficient and safe way. There where no problems to suit the tour for my special needs. I had a great day." },
+                { author: "Susanne", country: "Verified traveller review", rating: 5, date: "2025-02-17", text: "The Tour was great and the very friendly and English speaking driver Menuka brought me to all places I wanted. Great experience at the Rawala waterfall, the 9 arches bridge and the Little Adams Peak. I had a very good trip and felt safe the entire journey. Thx a lot!!!" },
+                { author: "Adham", country: "Verified traveller review", rating: 5, date: "2025-01-25", text: "It was great, the tour guide was professional and fun. The tour is a bit exhausting, it starts at 6 am which means you wake up at least 30 mins earlier and it ends around 8 pm but it was worth every single mins The tour has a lot of activities and covering all taste Climbing, outdoor activities like zip lining, nature sightseeing waterfalls and lakes, the incredible nature beauty is everywhere Tea factory and observing the full process of making a tea The famous 9 arch bridge is truly a masterpiece" },
+                { author: "Roman", country: "Verified traveller review", rating: 4, date: "2025-02-09", text: "Prepare for a journey with twists and turns (literally) because the road has plenty of zigzags. I got used at some point and the driver was driving carefully. You are rewarded with magical landscape. Little Adam's peak & Ella bridge are pretty. I texted the tour operator 1 day before & said that I don't want to go to the tea factory, I want to start at 7 instead of 6. They did it. However, there are 2 reasons why I didn't give 5 stars. The price of the tour. If you travel with someone, it is 86x2 euros. If you travel solo, it is 172 euros , no discounts. They bring you to places that don't cos" },
+                { author: "virginie", country: "Verified traveller review", rating: 5, date: "2026-02-16", text: "je recommande cette activité beaucoup de choses a voir a nigirya , ella , le pont de l'arche l'usine a thé , des temples vous en avez plein les yeux guide au top" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-12-18", text: "希望通りの場所に連れて行って頂けました。また、おすすめのランチも紹介してくれたり、解説が分かりやすいなど大変素晴らしい時間を過ごせました。" },
+                { author: "Ryuichi", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "朝早くから色々なところへ連れて行って頂き、とても楽しかったです。 英語が苦手な私でしたが、丁寧に優しくガイドして下さいました。 ナインアートブリッジは圧巻の光景で丁度電車の来るタイミングで見れてとても良かったです。 写真もたくさん撮ってもらえました。 オススメのツアーです！" },
+                { author: "Moeka", country: "Verified traveller review", rating: 5, date: "2025-05-04", text: "スリランカの旅で一番楽しかったです✨️ 朝早くから迎えに来てくれて、ドライブを楽しみました。ダムを見たり、野生の象も見れました🐘 リトルアダムスピークは天気も良く景色は絶景でした！ナインアーチブリッジや滝でもたくさん写真を撮ってくれました。美味しいランチを案内してくれて、ヌワラエリヤを楽しみました。ガイドのルアンさんはとてもとても気使ってくれて優しくて楽しかったです！ありがとうございました🥹" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-04-13", text: "Had a great tour with Malshan. He was very relaxed, supportive and funny while hiking the little Adam’s peak and down to the bridge. Enjoyed the day a lot even though we started very early (6am) in the morning. Had nice chats, felt very well taken care of and got interesting information about the country and the people. You’re lucky when you’re able to do that trip with Malshan. The only minus would be the organisational part before the trip as the overall prize I had to pay was too expensive from my point of view and the last minute time change the night before was also a bit too late. (Start" },
+                { author: "Tomihiro", country: "Verified traveller review", rating: 5, date: "2025-03-27", text: "列車では日帰りができないところを日帰りできるところが大変良かった。 ヌワラエリヤ、周辺の紅茶畑、ナインアーチブリッジ、リトルアダムスピークトレイル、紅茶工場見学等と盛りだくさんの一日だった。名前を失念したが、ドライバー兼ガイドが大変良かった。いろいろと現地の話を聞けて勉強になった。" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-02-04", text: "We had such a lovely day- our driver was amazing and very knowledgeable; he told us some interesting stories and facts whilst navigating some beautiful (but scary) turns 😂 We loved the experience and we were so pleased to see so much in one day- although it was quite a long day, it didn't feel like too much! We would definitely recommend to anyone with a short amount of time and wanting to see the best of what the beautiful hill country has to offer. As another plus, we are two women travelling alone and we felt very safe the whole tour- pick up and drop off at the hotel was very welcome and t" }
+            ]
+        };
+    }
+
+    if (slug === 'galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-01-22", text: "Had an amazing day. Chathu was very knowledgeable, friendly and made sure everyone had everything they needed. The driver Nishan was very friendly and drove us to the various attractions safely! Would highly recommend Chathu and Nishan" }
+            ]
+        };
+    }
+
+    if (slug === 'kandy-pinnawala-royal-botanic-gardens-day-trip-colombo') {
+        return {
+            averageRating: 4.08,
+            totalReviews: 2,
+            guideRating: 4.08,
+            valueRating: 4.08,
+            reviews: [
+                { author: "Ursula", country: "Verified traveller review", rating: 5, date: "2024-09-28", text: "Unser Guide Nuwan war super freundlich extrem hilfsbereit sprach super gut Englisch und war bestens vorbereitet! Der ganze Ausflug war sehr schön und wir haben viel neues gelernt!" }
+            ]
+        };
+    }
+
+    if (slug === 'adams-peak-overnight-pilgrimage-climb-colombo') {
+        return {
+            averageRating: 4.25,
+            totalReviews: 3,
+            guideRating: 4.25,
+            valueRating: 4.25,
+            reviews: [
+                { author: "Kerrie", country: "Verified traveller review", rating: 2, date: "2025-04-20", text: "Terrible service. My friend and I thought we were paying for a guided tour up Adam's Peak but all we received was transport from an extremely unprofessional driver. No water provided and we had to ask the driver to turn on the air conditioning. We were told en route to book a hotel which we did, my friend and I wanted a room each but the driver called the hotel after asking us which place we booked and made the hotel owner put us into the same room but charge us still for 2 rooms which meant we had to pay for his room - this was not agreed at any point during this booking. We had to pay £120 e" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-12-19", text: "Wonderful experience and taught to find the best spot for see sunrise." }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-dambulla-minneriya-safari-day-trip-colombo') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 77,
+            guideRating: 4.81,
+            valueRating: 4.54,
+            reviews: [
+                { author: "Nooer", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "10/10 recommend this experience! Everything was perfect and didn’t feel rushed at all. Amazing and accommodating team. Just to note: You cannot enter Dambulla cave whilst wearing any sort of head coverings (including hijab) so just be aware before booking. It was still very nice to visit around the caves!" },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-02-17", text: "Well organised trip. We stayed in Negumbo and had a taxi organised for us to meet us at a meeting point with the rest of the group. Spacious mini bus with good air conditioning. Chathu was an excellent guide and gave us lots of information about the surrounding areas. Nishan was a good driver and made sure we had a safe trip. Would definitely recommend to anyone thinking about booking" },
+                { author: "Ilya", country: "Verified traveller review", rating: 5, date: "2026-01-17", text: "Group trip from get your ride is a good alternative to individual tour if you travel alone nd struggle to find company. Guide was very friendly and supportive and worried about us being hydrated and provided water all the time. Sigiria and safari was realy beautiful." },
+                { author: "Magdalena", country: "Verified traveller review", rating: 5, date: "2026-01-09", text: "We highly recommend this tour — we had the opportunity to take part in it today and were very satisfied. The guide was excellent: friendly, helpful, and passionate about what he does. He shared many interesting facts, not only those directly related to the tour itself, which made the experience even more engaging. Thanks to him, the tour was truly enjoyable. If you’re wondering whether it’s worth choosing this option — it definitely is! 😊" },
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2025-12-18", text: "There’s no getting away from it - it’s an amazingly long day but well worth it ! i was picked up by a driver and taken to the bus on the main route so my day started at 6am and returned to hotel at 10pm - it’s varied and interesting day and our guide Chathu was excellent at guiding us but also telling us about the culture - extra costs are involved and these are clear in advance although some people appeared not to be aware - cave temple incredible ; walking up Sygirya hard but worth it (i thought i was relatively fit but struggled in humidity ) - i chose the safari tour and that too was excel" },
+                { author: "Julie", country: "Verified traveller review", rating: 5, date: "2025-11-23", text: "I had the most wonderful day from start to finish. Every part of the day was well organised. Ranga and Naveen were wonderful guides and took care of everyone's needs on the tour. They were knowledgeable, informative and funny too. I will go home with very special memories of my time in Sri Lanka" },
+                { author: "Aisha", country: "Verified traveller review", rating: 5, date: "2025-11-19", text: "Ranga was patient, attentive, and very open to fulfilling special requests. The price–performance ratio was excellent, and the car was extremely comfortable. Fully recommend!" },
+                { author: "Hernán", country: "Verified traveller review", rating: 5, date: "2025-09-23", text: "We were so well taken care of! Wonderful way to explore Dambulla and Sigiriya" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2025-04-10", text: "Excellent trip, our driver was very knowledgeable and gave us loads of information on Sri Lanka, and he was very friendly. Our son has asthma so couldn’t make the climb up Sigiriya rock, but he went out of his way to accommodate this and arranged a tuk tuk tour around the rock for him and my partner which they loved. I can’t remember his name though. I would definitely recommend this trip" },
+                { author: "Donna", country: "Verified traveller review", rating: 5, date: "2025-04-02", text: "Our guide was very helpful, my husband struggled up the steps to the Dambulla Temple so he waited for me, when the guide spoke to my husband he came to find me and even told me to wait by the last door as most people will go in the first one so it would be less busy. We then had a complimentary coconut drink. We didn’t attempt Sigirya, so were taken to a restaurant to wait for the others on the tour. We booked to go on the Minnesota Jeep safari, the organisation was brilliant - I would definitely recommend this tour just for the Safari. We had a brilliant day and made lots of brilliant memorie" },
+                { author: "Mbali", country: "Verified traveller review", rating: 5, date: "2025-03-26", text: "The tour was very well organised. Our tour guide was very informative and the tour it self was great fun, the elephants topped it all up. I would recommend the tour." },
+                { author: "Gurjeet", country: "Verified traveller review", rating: 5, date: "2025-02-03", text: "Thank you to our wonderful guide Chathu, he was so accommodating and patient with us and our needs. We all really enjoyed the day and I'd highly recommend it!" }
+            ]
+        };
+    }
+
+    if (slug === 'kandy-unesco-heritage-day-by-local-bus-with-a-kandyan-guide') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "federico", country: "Verified traveller review", rating: 5, date: "2026-06-12", text: "We had an amazing 8-hour Kandy local bus tour with Dinesh! This was one of the best experiences of our trip to Sri Lanka. He showed us the real local life in Kandy, traveling by local bus, tuk tuk, and on foot. During the tour we visited gardens, scenic viewpoints, Kandy Lake, cultural attractions, museums, and peaceful nature spots. We also saw local wildlife and enjoyed authentic Sri Lankan street food that we would never have found on our own. Dinesh was friendly, knowledgeable, and always made us feel safe and comfortable. He explained the local culture, history, traditions, and daily life" },
+                { author: "Marie", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "⭐⭐⭐⭐⭐ Amazing Full-Day Kandy Tour with Dinesh! I had a fantastic 8-hour tour around Kandy with Dinesh. Instead of a typical tourist experience, he showed me how locals travel using the local bus system, making the day authentic and memorable. We visited beautiful temples, scenic viewpoints, Kandy Lake, gardens, and tea plantations. Dinesh shared fascinating insights into Sri Lankan culture, history, and daily life. We also enjoyed a traditional dance performance and tasted delicious local street food. Dinesh was friendly, knowledgeable, patient, and flexible throughout the tour. He took great" }
+            ]
+        };
+    }
+
+    if (slug === 'ella-waterfall-abseiling-adventure-hotel-pickup') {
+        return {
+            averageRating: 4.44,
+            totalReviews: 4,
+            guideRating: 4.44,
+            valueRating: 4.44,
+            reviews: [
+                { author: "Paweł", country: "Verified traveller review", rating: 3, date: "2026-07-05", text: "It was great and i really enjoy the activity, but it was to short for me. Going down out of the waterfall tooks just 10 minutes and i couldn’t go the second time. The driver was professional and very helpful." }
+            ]
+        };
+    }
+
+    if (slug === 'private-horton-plains-tour-from-ella-with-the-scenic-train-to-ohiya') {
+        return {
+            averageRating: 3.89,
+            totalReviews: 5,
+            guideRating: 4.0,
+            valueRating: 1.0,
+            reviews: [
+                { author: "Ng", country: "Verified traveller review", rating: 5, date: "2019-08-15", text: "Engaged this tour package and was assigned a driver cum tour guide, Mr Sanju, who was very experienced and brought us around. He showed us some of the other spots during the tour as well. Had a great time with him as a guide! Thank you!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-01-06", text: "Le parc est très beau mais nous ne pouvons malheureusement pas recommander cette excursion. En effet le prix est beaucoup trop élevé par rapport à la prestation. Le guide n’a pas vraiment été utile et il ne parlait pas anglais. Nous avons été déçues par rapport à la promesse de l’excursion." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2023-04-28", text: "Amith, our Guide, is a very nice person and showed us some sweet spots to enjoy the magnificent nature of the horton plains! he was always aware to avoid crowded places and took beautiful pictures from us! Also we could so some spontaneous changes of our day easily! Thank you so much for that day! Was totall worth it!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2022-03-14", text: "Excellent day. Guide was great. Would recommend this trip" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2020-01-28", text: "zu viele leute, wandern in der kolonne kann gut alleine organisiert werden und dies zum halben preis!" }
+            ]
+        };
+    }
+
+    if (slug === 'south-coast-day-trip-turtle-hatchery-madu-river-galle-fort') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 6,
+            guideRating: 4.86,
+            valueRating: 4.86,
+            reviews: [
+                { author: "Yasmin", country: "Verified traveller review", rating: 5, date: "2025-09-11", text: "Wir hatten einen super schönen Tag, konnten viele Eindrücke sammeln und hatten einen sehr engagierten Guide namens Raga, er hat uns viel vermittelt und uns viele Dinge gezeigt, die auch so in der Beschreibung der Tour eigentlich nicht aufgeführt waren. Die Flusssafari war unser Highlight. Vielen Dank an Raga für den unvergesslichen schönen Tag :)" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-05-30", text: "We were picked up by Dhanesh in the morning who was on time and introduced himself and ran through how the day would run very professionally. He was a very competent driver and we felt safe the whole day. Dhanesh was very knowledgable of the route, stops and Sri Lanka generally; he regularly passed on small facts along the way which were very interesting. Dhanesh was also very flexible in terms of stops, when we stopped for breaks / activities he was very clear we could take as long as we liked. He also asked if we wanted to stop at numerous additional places throughout the day which we did no" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2024-07-31", text: "Wir hatten einen sehr netten Fahrer der uns viel erzählt und gezeigt hat. Außerdem war die Tour sehr vielfältig!" },
+                { author: "Nadin", country: "Verified traveller review", rating: 5, date: "2023-12-31", text: "so viele tolle Eindrücke, die Natur is fantastisch. so many impressions, the nature is amazing" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-rock-dambulla-caves-small-group-day-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Yuko", country: "Verified traveller review", rating: 5, date: "2026-01-05", text: "まず何よりもガイドのRanga さんが素晴らしかった。予約時間の10分前にはホテルに到着して、連絡をくれました。時間厳守で信頼出来ます。言語の不安もありましたが、翻訳機能を使って会話も楽しめました。途中、朝食に誘ってくれたり、休憩したり、いつも困りごとがないかを気にかけてくれました。素晴らしいガイドさんでした。車を運転しながら、景色の説明もとても丁寧でした。コロンボ早朝5時出発のハードな日帰り旅でしたが、素敵な思い出になりました。タンブッラの石窟からのシーギリヤロックへ。１日で行けるなんて思ってもいませんでした。素晴らしい１日でした。" }
+            ]
+        };
+    }
+
+    if (slug === 'private-kandy-nuwara-eliya-transfer-waterfall-tea-estate-stops') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 73,
+            guideRating: 4.88,
+            valueRating: 4.72,
+            reviews: [
+                { author: "Muzamil", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "We had a wonderful journey from Kandy to Nuwara Eliya with our guide Saman and we can't recommend him enough. Saman is a very nice, friendly and cooperative person. From the beginning he was so flexible - he changed and adjusted the itinerary completely as we wanted, without any hesitation. That made our trip so comfortable and stress-free. On the way he took us to beautiful places like Ramboda Falls, which was breathtaking, a lovely tea plantation where we learned about the whole tea-making process, and the famous Nuwara Eliya Post Office and city tour. He knows all the best spots for photos" },
+                { author: "Dianne", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "After a couple of hiccups (my fault) which our driver quickly resolved for me, the trip was great. the driver was polite and kind, no rushing g me as I am 70 years old. He helped me with steps which was appreciated. The scenery was very beautiful. I highly recommend this tour." },
+                { author: "Sergen", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "We had an excellent experience on the Kandy to Nuwara Eliya drop tour. The journey was comfortable, well organized, and filled with beautiful scenery along the way. Our driver Maresh was punctual, friendly, and very knowledgeable about the area. We had the opportunity to visit several interesting attractions and viewpoints, and there was enough time to enjoy each stop without feeling rushed. The vehicle was clean and comfortable, making the trip relaxing and enjoyable. The tour was a perfect combination of transportation and sightseeing, allowing us to experience some of the most beautiful par" },
+                { author: "Eva", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Had such a great experience on this trip. My guide Rumesh genuinely could not do enough for me, stopping at any time along the way when I asked, giving great tips and recommendations for my next destination and he even went out of his way to drop me to the Ambewela train station and waited with me until I got my ticket. He completely tailored the experience for me after finding out I had already done some of the tours that were on the route. He definitely made my experience and I would recommend this trip to anyone looking to experience culture, history, a fantastic guide, and breathtaking sce" },
+                { author: "Jussi", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Our tour with Mahesh was really great! The stops on the way were very interesting and Mahesh went the extra mile to help us out with our travel plans. Highly recommended!" },
+                { author: "Mari", country: "Verified traveller review", rating: 5, date: "2026-05-12", text: "Thanks to the driver, Mr. Rumesh, l had an amazing day. He was incredibly hospitable and knowledgeable. If you want to efficiently visit wonderful places between Kandy and Nuwara Eliya, I recommend this tour." },
+                { author: "Millie", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "Lally was our driver and he was great. Super safe driving and show us lots of lovely views, waterfalls, etc" },
+                { author: "Dianne", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "The safari was excellent but the transport driver drove one handed with phone in his other hand virtually the entire trip." },
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2026-02-28", text: "The driver was excellent. He listened to what we like and then made our day exceptionally good. He spoke excellent English. The best driver we have had in Sri Lanka. The vehicle had a hot floor and no air conditioning." },
+                { author: "Aleksandra", country: "Verified traveller review", rating: 5, date: "2026-02-21", text: "This was the best tour we had in Sri Lanka! 😊 Our guide was extremely engaged, very knowledgeable, and genuinely kind - he truly went above and beyond for us. We did so many amazing things and visited wonderful places. We felt very well taken care of the whole time - everything was perfectly organized and stress-free. He speaks very good English and happily explained everything we asked about. He also drove very well and safely, which made us feel comfortable the entire trip. The car was clean and very comfortable as well. We truly appreciate this wonderful experience - thank you so much!" },
+                { author: "Julie", country: "Verified traveller review", rating: 5, date: "2026-02-02", text: "Lali our driver and guide took us to a number of different sights on our journey between Kandy and Nuwara Eliya. He was very polite, courteous and thoughtful to our needs. We asked if he could tailor our trip slightly as we needed to get to our hotel earlyish. He also kept us informed about pick up and kept checking through the day that we were comfortable and what the next stops would be. Excellent driver and guide, would highly recommend for others doing this tour." },
+                { author: "Gosia", country: "Verified traveller review", rating: 5, date: "2026-01-03", text: "We highly recommend this tour! Our guide, Danushka, arrived early at the meeting point and waited for us. He adjusted the travel plan perfectly to our expectations and interests. During the day, we visited a Buddhist temple, a spice garden, a gem museum, a wood-carving workshop, a waterfall, tea plantations, and finally the post office in Nuwara Eliya. Our driver also helped us get to the bus to Ella at the end of the trip. At every stop, Danushka explained everything in detail and made sure we were comfortable and happy throughout the journey. The views along the way were absolutely spectacul" }
+            ]
+        };
+    }
+
+    if (slug === 'ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya') {
+        return {
+            averageRating: 4.03,
+            totalReviews: 27,
+            guideRating: 4.0,
+            valueRating: 3.93,
+            reviews: [
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "The train trip was fabulous, the Nanu Oly to Kandy drive was great, the scenery, amazing Ramboda Falls, the choas of Kandy. Our driver was excellent and got us to our hotel safely." },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Wre traveled from Ella to Kandy, but not as originally planned due to last year's devastating cyclone. So we had a a scenic tran to start from Ella to Ambewela which is amazing especially today with the sun shining and the windows open in 3rd class which really is the best class. Do try and book the right side of the train for the most it has to offer, but the left is plenty good enough it just means getting up in a couple of places to get the pictures. Once at Ambewela our private car was waiting for us and was easy to spot as we had been sent pictures of our vehicle. We then had a lovely dri" },
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Great tour with all the key spots. The train ride was incredible! Would definitely recommend" },
+                { author: "Sophie-Charlott", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "It was great. The driver made our trip really special, he was such a nice guy. We‘ve seen really local sides of Sri Lanka thankfully to this offered tour. It was amazing, would definitely do it again and recommend going with this company.:)" },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Sehr schöner Tagesausflug. War alles wie beschrieben. Der Fahrer war sehr aufmerksam und ist auch auf Sonderwünsche eingegangen. Alles wunderbar." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Todo ha ido muy bien con un muy buen servicio" },
+                { author: "Mareike", country: "Verified traveller review", rating: 2, date: "2026-08-24", text: "Leider handelte es sich nur um einen Fahrer und keinen Guide. Der Fahrer konnte kein Englisch, daher hat er uns weder etwas zum Ablauf (Treffpunkte, etc.) noch zu den Sehenswürdigkeiten erzählen können. Die Fahrt war okay. Die Zugfahrt ging tatsächlich erst ab Haputale und war dadurch kürzer." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-08-18", text: "Very disappointing experience and poor value for money. I booked this package specifically because it advertised reserved train seats from Ella to Nanu Oya, and I even contacted the provider beforehand to make sure this was confirmed. In reality, the reserved tickets they provided were only from Haputale to Nanu Oya, and we only found this out on the morning of the trip. This had never been mentioned before. We therefore had to buy third-class non-reserved tickets ourselves from Ella at the last minute and travel in an extremely overcrowded carriage. For such a high price, this was very poor v" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Very nice! The guide was friendly and did a great job!" },
+                { author: "Kevin", country: "Verified traveller review", rating: 1, date: "2026-08-15", text: "Très mauvaise expérience à faire!!! Le guide ne parle pas un seul mot d’anglais !!! Très compliqué pour se faire comprendre. Nous avons passé le trajet en train debout sans aucune place assise pendant 4h !! Aucune indication sur à station à laquelle descendre, sur le lieu de rencontre une fois arrivée. Vraiment pas professionnel. À notre arrivée , nous avons demandé à s’arrêter pour manger , pareil il ne comprenait pas. Nous avons réussi à manger vers 15h à l’arrivée du tea factory. Aucune autre point d’arrêt n’a été respecté. Pour la casade , nous n’avions pas le droit de descendre alors que" },
+                { author: "Isabelle", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Prise en charge du début à la fin vraiment top. Le chauffeur est venu nous chercher devant notre guesthouse, nous a déposé à la gare de Haputale (c’est le seul bémol car je pensais partir de Ella en train). Il nous attendait à la sortie du train puis nous avons pris la route avec un stop pour manger devant le lac (il nous a demandé si nous voulions manger et nous a laissé choisir quoi manger). Le stop à la manufacture de thé est incluse et sans supplément, la visite en français ! Il s’arrête quand on veut pour les photos Bref top !" },
+                { author: "Arne", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Unser Guide Kasun war hervorragend und sehr kompetent. Sehr zu empfehlen." }
+            ]
+        };
+    }
+
+    if (slug === 'ella-day-trip-from-colombo-or-negombo-with-a-tea-factory-and-the-nine') {
+        return {
+            averageRating: 1.0,
+            totalReviews: 1,
+            guideRating: 1.0,
+            valueRating: 1.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2025-07-18", text: "The driver was incompetent. We got a flat tire on the way to Ella and didn't bother changing it once we got there, so we had to drive the entire way back with the spare tire, which was a real risk. We also got back to the hotel at 11:00 p.m., having left at 5:00 a.m. The entire trip he never offered us a bathroom break, he never spoke to us, and we clearly didn't like the excursion. He didn't explain anything about what we were supposed to do. But the danger of driving back in those conditions ruined everything. We wanted to point it out." }
+            ]
+        };
+    }
+
+    if (slug === 'nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla') {
+        return {
+            averageRating: 4.03,
+            totalReviews: 27,
+            guideRating: 4.0,
+            valueRating: 3.93,
+            reviews: [
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "The train trip was fabulous, the Nanu Oly to Kandy drive was great, the scenery, amazing Ramboda Falls, the choas of Kandy. Our driver was excellent and got us to our hotel safely." },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Wre traveled from Ella to Kandy, but not as originally planned due to last year's devastating cyclone. So we had a a scenic tran to start from Ella to Ambewela which is amazing especially today with the sun shining and the windows open in 3rd class which really is the best class. Do try and book the right side of the train for the most it has to offer, but the left is plenty good enough it just means getting up in a couple of places to get the pictures. Once at Ambewela our private car was waiting for us and was easy to spot as we had been sent pictures of our vehicle. We then had a lovely dri" },
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Great tour with all the key spots. The train ride was incredible! Would definitely recommend" },
+                { author: "Sophie-Charlott", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "It was great. The driver made our trip really special, he was such a nice guy. We‘ve seen really local sides of Sri Lanka thankfully to this offered tour. It was amazing, would definitely do it again and recommend going with this company.:)" },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Sehr schöner Tagesausflug. War alles wie beschrieben. Der Fahrer war sehr aufmerksam und ist auch auf Sonderwünsche eingegangen. Alles wunderbar." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Todo ha ido muy bien con un muy buen servicio" },
+                { author: "Mareike", country: "Verified traveller review", rating: 2, date: "2026-08-24", text: "Leider handelte es sich nur um einen Fahrer und keinen Guide. Der Fahrer konnte kein Englisch, daher hat er uns weder etwas zum Ablauf (Treffpunkte, etc.) noch zu den Sehenswürdigkeiten erzählen können. Die Fahrt war okay. Die Zugfahrt ging tatsächlich erst ab Haputale und war dadurch kürzer." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-08-18", text: "Very disappointing experience and poor value for money. I booked this package specifically because it advertised reserved train seats from Ella to Nanu Oya, and I even contacted the provider beforehand to make sure this was confirmed. In reality, the reserved tickets they provided were only from Haputale to Nanu Oya, and we only found this out on the morning of the trip. This had never been mentioned before. We therefore had to buy third-class non-reserved tickets ourselves from Ella at the last minute and travel in an extremely overcrowded carriage. For such a high price, this was very poor v" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Very nice! The guide was friendly and did a great job!" },
+                { author: "Kevin", country: "Verified traveller review", rating: 1, date: "2026-08-15", text: "Très mauvaise expérience à faire!!! Le guide ne parle pas un seul mot d’anglais !!! Très compliqué pour se faire comprendre. Nous avons passé le trajet en train debout sans aucune place assise pendant 4h !! Aucune indication sur à station à laquelle descendre, sur le lieu de rencontre une fois arrivée. Vraiment pas professionnel. À notre arrivée , nous avons demandé à s’arrêter pour manger , pareil il ne comprenait pas. Nous avons réussi à manger vers 15h à l’arrivée du tea factory. Aucune autre point d’arrêt n’a été respecté. Pour la casade , nous n’avions pas le droit de descendre alors que" },
+                { author: "Isabelle", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Prise en charge du début à la fin vraiment top. Le chauffeur est venu nous chercher devant notre guesthouse, nous a déposé à la gare de Haputale (c’est le seul bémol car je pensais partir de Ella en train). Il nous attendait à la sortie du train puis nous avons pris la route avec un stop pour manger devant le lac (il nous a demandé si nous voulions manger et nous a laissé choisir quoi manger). Le stop à la manufacture de thé est incluse et sans supplément, la visite en français ! Il s’arrête quand on veut pour les photos Bref top !" },
+                { author: "Arne", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Unser Guide Kasun war hervorragend und sehr kompetent. Sehr zu empfehlen." }
+            ]
+        };
+    }
+
+    if (slug === 'heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Mondovics", country: "Verified traveller review", rating: 5, date: "2026-02-05", text: "Danu remek vezető volt, rengeteg érdekes dolgot mesélt a faluról, az emberekről, növényekről, állatokról. Minden kérdésünk válaszolt és nagyon jót fürödtem a vízesésnél. Az ebéd is nagyon finom volt." }
+            ]
+        };
+    }
+
+    if (slug === 'colombo-city-sightseeing-tuk-tuk-hotel-pickup') {
+        return {
+            averageRating: 1.0,
+            totalReviews: 1,
+            guideRating: 1.0,
+            valueRating: 1.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2025-02-23", text: "No show by provider.No communication to say it was not going ahead" }
+            ]
+        };
+    }
+
+    if (slug === 'kelani-river-rafting-day-from-kandy-with-guides-and-transfers') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Maciej", country: "Verified traveller review", rating: 5, date: "2026-01-04", text: "Miła profesjonalna obsługa. Niesamowite przeżycia. Polecam bardzo. Niezapomniane wrażenia. Przewodnik bardzo pomocy we wszystkich sprawach." },
+                { author: "Max", country: "Verified traveller review", rating: 5, date: "2025-02-07", text: "Conductor puntual y amable. Actividad de rafting divertida ." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-12-12", text: "We had a great day with Saraa. He was very kind and helpful. Also, he was a responsible and a safe driver. Moreover, the water rafting was really nice. It is cheaper to book with them, and pay for the rafting yourself instead of booking the full package deals, like some other offers out there. Since tea factory, wood crafting have free entrances. So we are happy to recommend them :)" },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2024-11-12", text: "Wir wurden pünktlich vom Fahrer mit dem Tuk Tuk abgeholt und zum Startpunkt des Raftings gefahren. Dort hatten wir zu zweit ein Boot mit zwei Guides, welche uns verständlich instruiert haben. Das Rafting war sehr abenteuerlich und witzig aber auch sehr entschleunigend in der schönen und ruhigen Natur. Am Ende genossen wir auch sehr das Baden und Treibenlassen im Fluss. Gut war auch, dass es am Start-/Endpunkt eine Umzieh und Duschmöglichkeit gab. Das Rafting selber war im Angebot nicht inbegriffen umd hat für zwei Personen 12000 Rupien gekostet, was total okay war. Wir haben den Guide noch geb" }
+            ]
+        };
+    }
+
+    if (slug === 'dambulla-cave-temples-pidurangala-rock-day-trip-colombo') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Hicham", country: "Verified traveller review", rating: 5, date: "2025-11-05", text: "C'est une excursion depuis Colombo où vous avez le libre choix de faire votre programme à Sigiriya. Le premier c'est le monastère des caves de 'Dambulas'. après vous avez le choix: - Faire Le Rocher de Sigiriya et Pifurangola - Faire Sigiriya et safari dans un parc national à côté - Faire Sigiriya et un Safari dans un village local incluant un déjeuner local ou vous apprendrez à faire le ambal du Coco. - Faire le Safari parc National et Safari village local. - Faire le rocher de Pidurangola et choisir entre le Safari parc national et le Safari Village. Cette excursion n'aurait pas eu lieu si n" }
+            ]
+        };
+    }
+
+    if (slug === 'colombo-evening-street-food-tour-tastings-included') {
+        return {
+            averageRating: 4.76,
+            totalReviews: 2,
+            guideRating: 4.76,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2024-01-15", text: "The street food was so delicious. However the seafood restaurant was not so nice. The location and view were stunning but the prawns were over cooked, the vegetable was very tough, and the rice tasteless. Also the driver was half an hour late for the pick up. However he was very friendly and tried very hard. I must give him credit for his effort and big smile." }
+            ]
+        };
+    }
+
+    if (slug === 'private-polonnaruwa-day-tour-from-kandy-with-a-minneriya-jeep-safari') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Zinnia", country: "Verified traveller review", rating: 5, date: "2025-09-03", text: "We had a great day! Shanuka was very friendly, helpful and accommodating to our requests. Would highly recommend!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-09", text: "Polonnaruwa is stunning and Sachintha a friendly and nice driver. You just have to be prepared for a very long drive to Polonnaruwa but the site is very much worth all the driving!" }
+            ]
+        };
+    }
+
+    if (slug === 'one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "This is the perfect way to experience Kandy if you have limited time here. Akila is very knowledgeable on the local area and was the perfect driver for this experience. We started with the carving workshop which was lots of fun getting to learn a traditional craft. After the workshop the day is yours, you can do as many or as few of the activities in the description as you like. This makes this experience a great way to see all the sites in Kandy, while doing some fun workshops, without having to worry about how you’ll get to each one. Akila is a really nice guy as well, couldn’t recommend thi" },
+                { author: "Lone", country: "Verified traveller review", rating: 5, date: "2026-03-06", text: "Very nice and helpful people. When we did a wrong thing on the tree, our teacher saved us😉 Very funny You need two hours to finish. We absolutely recommend this workshop" },
+                { author: "Isabelle", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Was leuk! Akila heeft zich uitgebreid de tijd genomen voor ons, alles op ons gemak. Wat je niet wilt hoeft niet, je kan ervoor kiezen om een uur extra verlengen bij het houtsnijden wat wij hebben gedaan om een leuk resultaat te behalen dit kost nog eens 4000 p.p." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "The guide was really nice and let us take our time to explore our desired destinations. We had the chance to explore so much in one afternoon! Definitely recommend if you stay for a short period in Kandy and want to maximize your time." }
+            ]
+        };
+    }
+
+    if (slug === 'private-sigiriya-and-dambulla-tuk-tuk-day-trip-from-kandy') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 5,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "My guide and driver Malik picked me up with a tuktuk just in time and adjusted the trip with me according to what I was interested in seeing. He supported me with some local snacks and water during the trip and took pohtos and videos of me during the village tour. He also brought me savely back again. In general I had a good experience. Thank you!" },
+                { author: "Roland", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "War ein toller Tag. Unser Fahrer Roshan war ein sehr umsichtiger Fahrer und ein kompetenter Guide. Er ist immer voll auf unsere Wünsche eingegangen. Sein Englisch war zudem sehr gut. 5👍 für ihn." },
+                { author: "Niklaus", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "ich durfte heute mit Malik auf die tour gehen! ein super kerl der mich schnell und sicher an die orte gebracht hat die ich wollte. er war sehr ortskundig und zeigte mir schöne plätze. ich freue mich schon darauf wieder mit ihm auf tour gehen zu dürfen! kann es ch nur empfehlen!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-20", text: "Very good! Driver Malik offers passengers with scenic stops along the way with bits and pieces of traditional snacking" }
+            ]
+        };
+    }
+
+    if (slug === 'kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train') {
+        return {
+            averageRating: 4.67,
+            totalReviews: 2,
+            guideRating: 4.67,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "todo increíble! Nuestro conductor Ramzan ha sido maravilloso, 100% recomendable!" },
+                { author: "Annina", country: "Verified traveller review", rating: 4, date: "2026-01-30", text: "Der Fahrer war sehr freundlich und die Fahrt unkompliziert. Leider konnten wir uns nicht anschnallen, da die Gurte defekt waren" }
+            ]
+        };
+    }
+
+    if (slug === 'kitulgala-white-water-rafting-day-trip-from-kandy-by-tuk-tuk') {
+        return {
+            averageRating: 4.89,
+            totalReviews: 9,
+            guideRating: 4.89,
+            valueRating: 4.89,
+            reviews: [
+                { author: "Begüm", country: "Verified traveller review", rating: 5, date: "2026-01-15", text: "I had a great day with my guide, Ramazan. He is talkative, helpful, and a very good driver. Just a reminder: this tour is a private tour, which I didn’t notice when I booked, so the activity cost me more than expected. I chose canyoning instead of rafting (the same price but much more challenging for me), and I had a lot of fun. The tea and Ayurvedic places were also great. Thanks, Ramazan 🙏🏼" },
+                { author: "Anastasija", country: "Verified traveller review", rating: 5, date: "2025-12-24", text: "We had an amazing tuk-tuk trip yesterday, and a big part of the experience was thanks to our driver, Sanath. He drove safely and confidently, showed us around with great local knowledge, and made the trip even more enjoyable with his fun and friendly sense of humor. The great banter we had with him made the journey truly memorable. This was without a doubt one of the best experiences of our trip so far, and we can highly recommend Sanath!" },
+                { author: "Arthur", country: "Verified traveller review", rating: 5, date: "2025-12-10", text: "The tour was very well organized, with a great balance of thrilling activities and more laid-back and informative ones. The trip to Kithulgala also offered some really beautiful views along the way, which made it even more worth it. I was on a one-on-one trip with Ramzan and had a genuinely great time! Not only did he show me some amazing places, he was also really fun to spend time with during the 6 hours of riding around in a tuktuk. I would highly recommend this day tour to everyone :)" },
+                { author: "Michael", country: "Verified traveller review", rating: 4, date: "2026-01-06", text: "Ramzan was the man! very accommodating and even went out of his way a lot for us. if youre lucky enough to have Ramzan as a driver you will be very happy! above and beyond :)" },
+                { author: "Léa", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "tout était bien surtout le rafting" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "The rafting was very good and my wife and I enhoyed it. Totally its 2 hours where 1 hour of rafting and 1 hour of preparation and return to start by car. Afterwards you get to visit Tea factory and Wood Carving factory. However their process are way above normal EU prices. So beware!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-03", text: "Under Guide Ramzan war total cool! Wir hatten riesen spaß mit ihm. Er hat uns sehr viel erklärt und hat mit uns das rafting gemacht. Für uns ein Highlight war sein tuk tuk mit der Musikanlage. Im ganzen einer der besten Tage in sri lanka. Wir können es jedem nur empfehlen. Ein ganzer Tag mit schönen Erlebnissen und wir mussten uns keine Gedanken machen. Weder um Snacks noch ums trinken für alles war gesorgt." },
+                { author: "ronja", country: "Verified traveller review", rating: 5, date: "2025-10-08", text: "Vår guide Akila var fantastisk och tog oss med på allt vi ville se och stannade och förklarade allt vi såg på vägen från risfält till pepparplantor och teplantage. Han tog oss runt säkert och vi njöt av allt" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-05-08", text: "Es war ein toller und gut gefüllter Tag. Wir haben viel erlebt. Am besten hat uns das Wildwasser-Rafting gefallen. Danke an Akila." }
+            ]
+        };
+    }
+
+    if (slug === 'yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya') {
+        return {
+            averageRating: 3.03,
+            totalReviews: 3,
+            guideRating: 3.03,
+            valueRating: 3.03,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2025-12-18", text: "Abholung super, Fahrer super aber hat uns gesagt, dass er gestern in Block 5/6 Leoparden gesehen habe.. wir wollten lieber nach 1 und haben uns überreden lassen, letztendlich keine gesehen. Würde diese Tour nur buchen, wenn der einen in Block 1 fährt. Ich habe das Gefühl, dass die, wenn wenige Personen da sind, keine Lust haben sich die Muehe zu machen in 1 zu fahren. Außerdem haben die mich per WhatsApp genervt von morgens auf mittags zu buchen. Letztendlich waren wir nur 3 Personen auf der Fahrt morgens, was ich entspannt fand. Leider waren nicht viele Tiere zu sehen. Außerdem muss man zusät" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-rock-and-polonnaruwa-ancient-city-day-trip-from-kandy') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Jacqueline", country: "Verified traveller review", rating: 5, date: "2025-04-09", text: "We had a brilliant trip, thank you. Imran was our guide and driver. He was excellent; punctual, accommodating and interesting to talk with. We visited Polonnaruwa the morning and Sigiriya afternoon. Imran arranged our guides at each site ahead, it was all very smooth, hassle free. He was considerate in seeking our preferences about stop offs, where we had a tea or coffee on the way and return journey. The whole trip was very well organised and meant we saw a considerable amount in one day. Thank you! Jacqui and Joss" },
+                { author: "Alan", country: "Verified traveller review", rating: 5, date: "2025-03-17", text: "The day was super smooth throughout. Imran was one of the most pleasant drivers I've been with on any trip. We had some wonderful conversations, and I never felt rushed at any point. The tour guides who were arranged at Polonnaruwa and Sigiriya were great too, adding great context to both places. Imran is also very flexible to any request such as changing routes, stopping for food, etc. A wonderful day with memories to cherish." }
+            ]
+        };
+    }
+
+    if (slug === 'colombo-wreck-diving-trip-certified-dive-guides') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "KARIM", country: "Verified traveller review", rating: 5, date: "2025-01-24", text: "très bien bien encadré sites de plongée incroyable je recommande" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-sunrise-climb-dambulla-cave-temples-colombo') {
+        return {
+            averageRating: 4.35,
+            totalReviews: 49,
+            guideRating: 4.88,
+            valueRating: 3.94,
+            reviews: [
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2025-11-21", text: "I had an incredible day trip from Kandy with this tour. Some previous reviews have mentioned it’s slightly on the pricier side. However, as a solo traveller this was perfect for me. My guide Munssinghe Nadeeja picked me up at 8am from my hotel and drove me to Damulla and Sigiryia. He’s a lovely man and gave really insightful history of Sri Lanka and the areas we were driving through. The price doesn’t include entry price or a guided tour of Damulla or Sigiryia- you do that yourself but Munny helps you with tickets etc and where to go. For Sigiriya, he arranged a Sigiryia rock tour guide to tak" },
+                { author: "Louise", country: "Verified traveller review", rating: 5, date: "2025-10-02", text: "A bit pricey but everything went great. Chamara was very kind, on time and the drive was very smooth and nice 😊" },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2025-01-22", text: "It was amazing! Our guide Pathum made our trip unforgettable. Love ❤️" },
+                { author: "Rafael", country: "Verified traveller review", rating: 5, date: "2024-01-09", text: "It is an expensive taxi. Be aware of it. But the driver was ok and very nice to us. Therefore, there was no guide for the attractions. Nice trip to the cave and to the sigirya. If you want comfort and no worries, book it. Otherwise, you can use public transport or uber to get there." },
+                { author: "Kushalappa", country: "Verified traveller review", rating: 5, date: "2023-12-26", text: "Highly Recommended Day trip, Mr Lal (Driver) was the most amazing part of this trip. Took us to all the places, explained significance of the place. He made the trip more memorable with the polite and welcoming attitude. Full marks to Mr Lal. I would recommend people to get in touch with him and roam around when in Kandy. Mr Lal contact number: +94 (0) (77) 624 1024." },
+                { author: "真二", country: "Verified traveller review", rating: 5, date: "2025-12-31", text: "ドライバーのむねさんは、とても親切で日本語が話せて、とても楽しい時間が過ごせました。 又、機会があったらお願いしたいです。" },
+                { author: "Ernesto", country: "Verified traveller review", rating: 5, date: "2025-08-31", text: "Muy bien todo el chofer muy bueno Chamara platicamos muy a gusto y siempre estuvo atento a mis necesidades." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-05-03", text: "The trip was amazing! Perfect timing, good communication, comfortable transport and great guide. Definitely recommend, as we are really satisfied and see all we wanted." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-11-12", text: "Be aware itinerary may change, we sweat buckets at lions rock but this was no problem as it was dry and still safe but we did anticipate climbing Sigiriya in the morning. Dambulla is amazing; our taxi driver took us up and helped us with ticket purchasing. We were able to communicate clearly with our driver over WhatsApp. He was fantastic and punctual and accommodating. His car was spacious and well conditioned. He had brilliant local knowledge and helped us learn a lot on our drive to Sigiriya. Offered to help us the following day with a transfer from our hotel to the station which was extrem" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-11-05", text: "Die Tour war wie beschrieben und man hatte überall genug Zeit. Der Ausblick von Sigiriya war unglaublich toll. Der Fahrer konnte nicht so gut englisch, weshalb es zu Missverständnissen kam. Leider war das englisch des Office auch nicht besser, weswegen es etwas gedauert hat dies zu klären. Dafür war der Fahrer sehr flexibel als es um eine location für das Mittagessen ging." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2024-08-31", text: "Honestly, do not buy this tour! I would demand my money back if i could. We received no guide to any activity even thought it is said in the description that sigiryia includes a guide. Furthermore, this price service ratio is absolutely insane. Go to kandy, colombo or where you stay and you get a driver incl. Guide for approx 15000 lkr (50eur) for the whole group. Now we paid 50 eur per person and had no guide. Dont do it it is not worth! The driver was still amazing though! He helped us and tried to provide us with as many informatin as possible but he made it very clear that he was not a gui" },
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2024-08-20", text: "Nishantha fue el mejor chofer que nos pudo haber tocado!! Conoce los sitios locales y fue super atento con nosotras. Repetiríamos sin dudarlo." }
+            ]
+        };
+    }
+
+    if (slug === 'kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves') {
+        return {
+            averageRating: 4.09,
+            totalReviews: 4,
+            guideRating: 4.09,
+            valueRating: 4.09,
+            reviews: [
+                { author: "Stefanie", country: "Verified traveller review", rating: 5, date: "2026-06-15", text: "This excursion is a great way if you want to go to the Eadt Coast from Kandy. Sura, my driver, is very friendly and so patient. We visited an amazing temple (SLR1000) drove to the Dambulla Caves (SLR33000), Lion Rock (USD32), had a great lunch at the lake (village tour SLR5000) and then the best part, took a jeep (USD60) to go to Minneriya national park (USD23). Yes, all in all it is expensive but so worth it! It is manageable to do everything within one day and I had the best time with Sura. Thank you again !" },
+                { author: "Daniel", country: "Verified traveller review", rating: 2, date: "2026-02-05", text: "2 Guides, die aber kaum Englisch sprachen, demnach fast keine Erklärungen. Es waren anscheinend keinerlei Entry Fees inkludiert, so dass sich die Kosten auf über 200,- USD beliefen. Dies müsste zumindest bei der Buchung angegeben werden. Scheinbar auch kein fester Ablauf: Dambulla nur auf Nachfrage meinerseits, eine Jeep Safari gab es nicht. Sigiriya Rock gegen Mittag erreicht, was letztlich völlig unsinnig ist. Bei den Menschenmassen waren ständiges Anstehen und Gedränge die Folge (1h für ca. 200m). Ich habe den Aufstieg dann völlig entnervt abgebrochen. Hier macht nur Morgens ein Besuch Sinn" },
+                { author: "jennifer", country: "Verified traveller review", rating: 5, date: "2026-01-07", text: "Wir hatten eine tolle Tour von Kandy nach Trincomalee. Unser Tourguide Chanaka war ein vorsichtiger Fahrer und hat die Tour perfekt nach unseren Interessen angepasst! Wir können die Tour nur weiterempfehlen! Vielen Dank nochmal!" }
+            ]
+        };
+    }
+
+    if (slug === 'ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 105,
+            guideRating: 4.76,
+            valueRating: 4.47,
+            reviews: [
+                { author: "Leanne", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Ranga and Gajan were our drivers and looked after us on this trip.. had a wonderful day and the views are breathtaking.. very long day, would definitely consider an overnight stay in Ella" },
+                { author: "Aiste", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Amazing day! very long one, but was worth:)) Visited so beautiful places and the guide was very friendly." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-01-20", text: "We had a good day visiting the tea factory, nine arch bridge, riding the train, and climbing little toms peak. It was a long day and if we were to do it again we would definitely do the 2 day tour, although it was set out and timed well, it would have been nice to spend more time visiting places. Dinesh was a great guide, kept us to date with what was going on and ensured there were time for rest stops during the long travel there and back." },
+                { author: "Jess", country: "Verified traveller review", rating: 5, date: "2025-12-13", text: "Krish was a fantastic tour guide! He has a bubbly, friendly attitude and his attention to detail to personalise the itinerary to make the most of the day was second to none. I had a great day and saw everything I wanted to. Even when I was nervous to go down the zipline, his encouragement got me through! Overall, this day is going to be a highlight of my trip! Highly recommend" },
+                { author: "Tomasz", country: "Verified traveller review", rating: 5, date: "2025-11-07", text: "A great trip. I highly recommend this agency. Great communication, helpful, and always smiling. The driver and guide were the best I've ever met—there was no problem at all throughout the day. My guide, Ranga, is a very professional man. He always tried to make sure everything was as perfect as possible. Ranga, thank you so much for a wonderful day. I truly recommend him." },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2025-10-30", text: "The day trip was absolutely fantastic! 5 stars! ***** We had a brilliant time. An action packed day, full of great sights and experiences. Our guide, Rangi was wonderful. What a lovely man. He was so hospitable, and went out of his way to make sure we enjoyed everything today. He was amazing. We can highly recommend this day trip. THANK YOU Rangi! All the best, Christine & Philip. UK. P.S. enjoy the Yorkshire tea👍" },
+                { author: "Aemi", country: "Verified traveller review", rating: 5, date: "2025-10-26", text: "Dashi was a wonderful tour guide and the day was fantastic. I would highly recommend it. The scenic train and little Adam’s peak were my favourite. They had amazing views." },
+                { author: "Aysha", country: "Verified traveller review", rating: 5, date: "2025-04-01", text: "It was my first time in Sri Lanka and I had no idea what I was gonna do so I went with the tour. I'll admit this was the best decision. The entire tour is perfectly curated to cover all the places that u better not miss. I was accompanied by Dhanesh as my tour guide and Ranga was our driver. They're both very hospitable and respectful. We stopped at the waterfall then came the exciting part... train ride :). I swung around and made all the videos. Tuk tuk took us to Nine Arch Bridge and then we hiked our way to Ravana pool club. I checked my list of zipline and paid a visit to Adam's Peak. The" },
+                { author: "Elmira", country: "Verified traveller review", rating: 5, date: "2025-03-28", text: "What a day! We were about 1 day to leave the country and curious how to make dream about Sri Lanka come true and see from train majestic scenery, Apple vacations did a great job and made perfect trip to Ella from Colombo! Our Guide Krish was very kind, supportive and thoughtful to our needs, he put his soul so we can leave Sri Lanka really happy! We did see waterfall, 9 Archs, had time to walk within Ella's streets with amazing scenery and train trip dream also did come true with help of best routing decisions of Krish! Thank you so much! We are so happy with the tour!" },
+                { author: "Nike", country: "Verified traveller review", rating: 5, date: "2025-03-13", text: "Amazing tour of Ella we did it alll thanks to Rukshan 😊 he made the tour even better switch the itinerary to allow for longer ok the beach club and little Adams peek also very funny and chatty with the whole crew bring swimming stuff as you can leave in the car when doing other activities you won’t regret it but trainer for Adams peek" },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2024-09-05", text: "Krish was an excellent driver - very friendly, polite and accommodating. Great tour with private transportation." },
+                { author: "Ava", country: "Verified traveller review", rating: 5, date: "2024-02-20", text: "It was a jam packed day with lots of driving but suited us perfectly as we don’t have much time in Sri Lanka. The driver Krish was super friendly and informative with a happy bubbly attitude. Thank you for a great day!!" }
+            ]
+        };
+    }
+
+    if (slug === 'hanthana-ridge-and-katusukonda-hike-from-kandy-with-tea-estates') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "Wanderung, Guide war super:)" }
+            ]
+        };
+    }
+
+    if (slug === 'bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher') {
+        return {
+            averageRating: 4.58,
+            totalReviews: 7,
+            guideRating: 4.58,
+            valueRating: 4.58,
+            reviews: [
+                { author: "Rachael", country: "Verified traveller review", rating: 5, date: "2024-06-22", text: "We thoroughly enjoyed this trip. We were picked up promptly by our own driver. He was very knowledgeable and accommodating throughout the day. It was a perfect way to explore the sights of Bentota." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2022-01-03", text: "Die Tour war sehr kurzweilig. Am besten war die Bootstour durch die Mangroven des Madu Ganga. Der Guide war freundlich und hilfsbereit. Beim Trinkgeld an die Einheimischen hat er mich aber ein wenig ins Messer laufen lassen und ich war am Ende ein stolze Summe los. Beim Trinkgeld bitte aufpassen! Am besten vorher erkundigen, was landesüblich ist. Unerfah" },
+                { author: "Goncalo", country: "Verified traveller review", rating: 5, date: "2021-09-22", text: "Very nice tour and very nice driver . Good" }
+            ]
+        };
+    }
+
+    if (slug === 'ella-to-arugam-bay-guided-transfer-with-waterfalls-temples') {
+        return {
+            averageRating: 4.44,
+            totalReviews: 4,
+            guideRating: 4.44,
+            valueRating: 4.44,
+            reviews: [
+                { author: "Paweł", country: "Verified traveller review", rating: 3, date: "2026-07-05", text: "It was great and i really enjoy the activity, but it was to short for me. Going down out of the waterfall tooks just 10 minutes and i couldn’t go the second time. The driver was professional and very helpful." }
+            ]
+        };
+    }
+
+    if (slug === 'galle-countryside-cycling-tour-through-villages-paddy-fields') {
+        return {
+            averageRating: 4.44,
+            totalReviews: 3,
+            guideRating: 4.44,
+            valueRating: 4.44,
+            reviews: [
+                { author: "Frank", country: "Verified traveller review", rating: 5, date: "2024-12-13", text: "Der Fahrer ist sehr sicher unterwegs, hat uns die Gegend erklärt , wir sind happy ! Jederzeit wieder 👍🏼" }
+            ]
+        };
+    }
+
+    if (slug === 'galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 221,
+            guideRating: 4.84,
+            valueRating: 4.51,
+            reviews: [
+                { author: "Kirsten", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "We had a good taste of the South on this one day trip. We really enjoyed visiting Bentota beach, Madu river safari and walking around Galle. Range was accommodating, providing good information, checked to ensure we were happy and made photo stops along the way. It was a good way of filling in the day before we flew out late that night." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "Ranga was my guide today. He was nice and showed me everything he could. I can recommend him." },
+                { author: "Dominik", country: "Verified traveller review", rating: 5, date: "2026-05-07", text: "It was an excellent one day trip. Krish did fantastic job as a guide. Thank you once again!" },
+                { author: "Rose", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "The trip was amazing, we enjoyed every places we've visited, the transportation is very comfortable the guide is very nice & knowledgeable. We highly recommend this trip" },
+                { author: "Li", country: "Verified traveller review", rating: 5, date: "2026-04-11", text: "Aaron was a great guide. I felt very safe and reassured as a solo female traveller. The itinerary makes for quite a fulfilling day if you are short on time and want to tick Galle and some sights along the way. Vehicle was so comfortable that I kept going to sleep, excellent air conditioning for the hot weather!!" },
+                { author: "Suvigya", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "I am from India. Enjoyable trip. Very safe for a female solo traveller." },
+                { author: "Riza", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "Had a great time during the overall trip. Danesh who was our guide and our driver did a great job! Especially for his flexibility and good thinking in introducing us to some extra free entry stops along the way to Galle, such as going to a gemstone mine and a Tsunami photo museum, whilst still remaining efficient with the timing for a jam-packed day. Spots were all very interesting and varied. It was no fuss of a trip! Highly recommend!" },
+                { author: "Tej", country: "Verified traveller review", rating: 5, date: "2026-03-18", text: "Lester was an exceptional guide who made our journey from Colombo to Galle and Bentota truly memorable. He is kind, professional, and very accommodating, always ensuring we were comfortable and able to enjoy the trip at our own pace. His flexibility with the itinerary made the experience feel relaxed and personalized. What stood out most was his deep knowledge of Sri Lanka. He shared insightful information about the history, culture, and local life, which added real value to every stop. His recommendations for places to visit and eat were also excellent. Lester’s friendly nature, warmth and at" },
+                { author: "Caitlin", country: "Verified traveller review", rating: 5, date: "2026-02-25", text: "We had a very enjoyable time on our tour last week. Our driver Dhanesh picked us up promptly and drove us around in his comfortable car. He stuck to the itinerary outlined on the tour description but also mentioned that if there was anything of interest we wanted to do that wasn't on the list, he would be happy to make that happen for us. All the locations were very fun and beautiful, and we learnt many different things. One of my favourite parts of the trip was on the boat ride when we stopped off at a small island and were shown how cinnamon is harvested and dried. The whole day from 8am to" },
+                { author: "Christian", country: "Verified traveller review", rating: 5, date: "2026-02-16", text: "The driver was gentle and discreet. He gave good information, especially for the restaurant for lunch. All activities were perfect." },
+                { author: "Radosław", country: "Verified traveller review", rating: 5, date: "2026-01-26", text: "The trip was well organised, has a comfy transport, and we saw a lot beautiful places. The restaurant for lunch was good as well and we like the food there. Our guide Naveen was amazing. I really appreciate his help with one problem that we had. He was flexible in case what we would like to do in some places and shared a lot of interesting details about places we visited. He was always ready to help and make this trip as our best memory from Sri Lanka" },
+                { author: "Isaac", country: "Verified traveller review", rating: 5, date: "2026-01-13", text: "We had an amazing trip with Chathu. He was a great guide who gave us lots of facts, asked about us and how we were doing, cared for anything we asked and gave us a great experience of the island. We would highly recommend this experience and Chathu." }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country') {
+        return {
+            averageRating: 4.03,
+            totalReviews: 27,
+            guideRating: 4.0,
+            valueRating: 3.93,
+            reviews: [
+                { author: "Anne", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "The train trip was fabulous, the Nanu Oly to Kandy drive was great, the scenery, amazing Ramboda Falls, the choas of Kandy. Our driver was excellent and got us to our hotel safely." },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Wre traveled from Ella to Kandy, but not as originally planned due to last year's devastating cyclone. So we had a a scenic tran to start from Ella to Ambewela which is amazing especially today with the sun shining and the windows open in 3rd class which really is the best class. Do try and book the right side of the train for the most it has to offer, but the left is plenty good enough it just means getting up in a couple of places to get the pictures. Once at Ambewela our private car was waiting for us and was easy to spot as we had been sent pictures of our vehicle. We then had a lovely dri" },
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Great tour with all the key spots. The train ride was incredible! Would definitely recommend" },
+                { author: "Sophie-Charlott", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "It was great. The driver made our trip really special, he was such a nice guy. We‘ve seen really local sides of Sri Lanka thankfully to this offered tour. It was amazing, would definitely do it again and recommend going with this company.:)" },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Sehr schöner Tagesausflug. War alles wie beschrieben. Der Fahrer war sehr aufmerksam und ist auch auf Sonderwünsche eingegangen. Alles wunderbar." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Todo ha ido muy bien con un muy buen servicio" },
+                { author: "Mareike", country: "Verified traveller review", rating: 2, date: "2026-08-24", text: "Leider handelte es sich nur um einen Fahrer und keinen Guide. Der Fahrer konnte kein Englisch, daher hat er uns weder etwas zum Ablauf (Treffpunkte, etc.) noch zu den Sehenswürdigkeiten erzählen können. Die Fahrt war okay. Die Zugfahrt ging tatsächlich erst ab Haputale und war dadurch kürzer." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-08-18", text: "Very disappointing experience and poor value for money. I booked this package specifically because it advertised reserved train seats from Ella to Nanu Oya, and I even contacted the provider beforehand to make sure this was confirmed. In reality, the reserved tickets they provided were only from Haputale to Nanu Oya, and we only found this out on the morning of the trip. This had never been mentioned before. We therefore had to buy third-class non-reserved tickets ourselves from Ella at the last minute and travel in an extremely overcrowded carriage. For such a high price, this was very poor v" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Very nice! The guide was friendly and did a great job!" },
+                { author: "Kevin", country: "Verified traveller review", rating: 1, date: "2026-08-15", text: "Très mauvaise expérience à faire!!! Le guide ne parle pas un seul mot d’anglais !!! Très compliqué pour se faire comprendre. Nous avons passé le trajet en train debout sans aucune place assise pendant 4h !! Aucune indication sur à station à laquelle descendre, sur le lieu de rencontre une fois arrivée. Vraiment pas professionnel. À notre arrivée , nous avons demandé à s’arrêter pour manger , pareil il ne comprenait pas. Nous avons réussi à manger vers 15h à l’arrivée du tea factory. Aucune autre point d’arrêt n’a été respecté. Pour la casade , nous n’avions pas le droit de descendre alors que" },
+                { author: "Isabelle", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Prise en charge du début à la fin vraiment top. Le chauffeur est venu nous chercher devant notre guesthouse, nous a déposé à la gare de Haputale (c’est le seul bémol car je pensais partir de Ella en train). Il nous attendait à la sortie du train puis nous avons pris la route avec un stop pour manger devant le lac (il nous a demandé si nous voulions manger et nous a laissé choisir quoi manger). Le stop à la manufacture de thé est incluse et sans supplément, la visite en français ! Il s’arrête quand on veut pour les photos Bref top !" },
+                { author: "Arne", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Unser Guide Kasun war hervorragend und sehr kompetent. Sehr zu empfehlen." }
+            ]
+        };
+    }
+
+    if (slug === 'liptons-seat-tuk-tuk-excursion-from-ella-with-the-dambatenne-tea-factory') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Alain", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "We had a wonderful tour through the tea fields of Ella and to Lipton's Seat with Shad and his tuk-tuk. Shad let us experience the tea-making process. He showed us the plantations and stopped at a tea factory where we could watch the entire process from leaf to tea bag. Shad is a very pleasant guy, he drives carefully and even offered us a snack on the way back. Along the way, he stopped regularly to take beautiful photos of us. We had a great experience." }
+            ]
+        };
+    }
+
+    if (slug === 'colombo-highlights-guided-half-day-city-tour-car') {
+        return {
+            averageRating: 4.25,
+            totalReviews: 97,
+            guideRating: 4.2,
+            valueRating: 4.14,
+            reviews: [
+                { author: "Sonali", country: "Verified traveller review", rating: 5, date: "2025-12-03", text: "Danesh was a very good guide. He showed us around Colombo in a very very comfortable van. For group of 5 people the tour was very enjoyable. He did not rush us and helped us understand the history behind many popular spots in Colombo. We covered all the major attractions in the city. He gave us the time and space to have fun as a group. We really appreciate his hospitality and friendliness." },
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2025-10-31", text: "very knowledgeable tour guide, Niraven was a lovely young man and made sure I understood what we were looking at." },
+                { author: "Clàudia", country: "Verified traveller review", rating: 5, date: "2025-07-24", text: "The tour was amazing! Very well explained. Our guide, Naveen, showed us many beautiful spots and explained history and curiosities! He showed us spots we wouldn’t have visited by ourselves. Thanks Naveen!" },
+                { author: "Des", country: "Verified traveller review", rating: 5, date: "2025-07-12", text: "Fantastic. Our guide Milan was so helpful and knowledgeable about Colombo. Highly recommended!" },
+                { author: "Carrie", country: "Verified traveller review", rating: 5, date: "2025-05-21", text: "Niraveen was the perfect host! He was an excellent guide, took us to all the main points of interest and managed to pack a huge amount into a relatively short tour. We really enjoyed our afternoon and conversations with him, and would definitely recommend." },
+                { author: "Yolanda", country: "Verified traveller review", rating: 5, date: "2025-05-10", text: "Krish was very informative and gave good advice. it was raining most of the tour so he also provided an umbrella. We had an excellent trip round the sights of Colombo" },
+                { author: "Nalini", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "On Time. Guide was very polite and helpful. Excellent service and drive" },
+                { author: "William", country: "Verified traveller review", rating: 5, date: "2025-03-14", text: "Exceptional Tour Experience with Chathu – Highly Recommended! I recently had the pleasure of exploring Sri Lanka with the help of an outstanding guide, Chathu. From the very beginning, it was clear that he was not only highly professional but also genuinely dedicated to making our trip as smooth and enjoyable as possible. His deep knowledge of Sri Lanka’s history, culture, and landmarks added incredible value to our journey, but what truly set him apart was his willingness to go above and beyond in every aspect of our experience. One of the highlights of our trip was our visit to Gangaramaya T" },
+                { author: "Martyn", country: "Verified traveller review", rating: 5, date: "2025-02-24", text: "Thank you Nicholas and your driver for a wonderful tour. Helpful in every way." },
+                { author: "Gurjeet", country: "Verified traveller review", rating: 5, date: "2025-02-04", text: "Our tour was great, Dhanesh was lovely and showed us everything we wanted to see while sharing some facts about the city. Highly recommend it!" },
+                { author: "Muzzammil", country: "Verified traveller review", rating: 5, date: "2024-06-29", text: "my guide Nicolas was the best and very kind and knowledgeable about sirilanka" },
+                { author: "Ethan", country: "Verified traveller review", rating: 5, date: "2024-04-30", text: "Very good experience! Excellent value. Our driver was very friendly and informative, but also gave us time to explore on our own and did not make us feel rushed at all. This was a great activity to get acquainted with Colombo on our first day in town. We felt very safe and comfortable." }
+            ]
+        };
+    }
+
+    if (slug === 'udawalawe-national-park-elephant-safari-day-trip-colombo') {
+        return {
+            averageRating: 3.86,
+            totalReviews: 11,
+            guideRating: 3.86,
+            valueRating: 1.0,
+            reviews: [
+                { author: "Ipsita", country: "Verified traveller review", rating: 5, date: "2023-01-16", text: "It was a very nice safari with lots of sightings of elephants, crocodiles, water Buffalo, peacocks, jackals, mongoose, python and numerous species of birds. The park was not very crowded, hence allowed me to spend quality time at each sighting. The journey from Colombo was also very smooth in a good Toyota Prius car. The car had arrived for pickup on time at the hotel lobby." },
+                { author: "Bozdog", country: "Verified traveller review", rating: 5, date: "2019-12-29", text: "Long road to reach the park from Colombo, but worth it! Seen a lot of elefants, buffalos, lizards, large variaty of birds, turtles and even a crocodile. The safari experience is not very crowded (as I heard Yala is) and there was enough time to admire the park and the animals. The driver from Colombo to the park was reallt skilled and the guide was nice, but needs to improve his english a little bit. All in all, don’t regret the money I spent, even though I paid double as solo traveler." },
+                { author: "Anca", country: "Verified traveller review", rating: 5, date: "2018-12-27", text: "We had a wonderful time during the safari and the guide was very helpful and nice." },
+                { author: "Zeeshan", country: "Verified traveller review", rating: 1, date: "2024-03-20", text: "We have booked the safari for Udawalawa because we wanted to see elephants specially. But they tricked us and taken us to Wilpatu by saying that we will be able to see more animals along with the elephants in Wilpatu park. Overall it was a waste of money and time because we were not able to see a single elephant. We have just seen deers/ghazals and a peacock and that’s it. They reduced the time of safari to 2:30 minutes. I would really not recommend going for to Wilpatu and with them." },
+                { author: "Robbin", country: "Verified traveller review", rating: 5, date: "2023-09-29", text: "Het was fantastisch, heel veel wilde dieren gezien, en een prachtig park" },
+                { author: "Ambre", country: "Verified traveller review", rating: 5, date: "2023-08-12", text: "Excellent ! Je recommande vivement. Merci à notre guide c’etait juste incroyable commise journée" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2022-03-19", text: "Safe travel with careful driver. They were polite prompt and helpful. But be aware of the rainy days, then you will not only have to bring hat sneakers and sunscreen but also raincoats for jeep safari." },
+                { author: "Kam", country: "Verified traveller review", rating: 3, date: "2019-05-04", text: "The guide was nice, but it did not have too many animals to see." },
+                { author: "Bianca", country: "Verified traveller review", rating: 5, date: "2018-10-30", text: "Tolle Aktivität, um die Biodiversität des Landes kennenzulernen!" }
+            ]
+        };
+    }
+
+    if (slug === 'colombo-temples-markets-guided-four-hour-city-tour') {
+        return {
+            averageRating: 4.48,
+            totalReviews: 2,
+            guideRating: 4.48,
+            valueRating: 4.48,
+            reviews: [
+                { author: "Gimashaperera123@gmail.com", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "The tour was a wonderful and memorable experience. The driver was very helpful, friendly, and professional throughout the tour. He made sure I was comfortable and helped me whenever needed. I was very satisfied with the service and would definitely recommend this tour to others. Thank you SLE tour for making my trip so memorable!" },
+                { author: "William", country: "Verified traveller review", rating: 4, date: "2026-09-05", text: "A good tour and the driver was helpful in showing us Colombo’s sights. Also flexible in varying the tour to our needs. Colombo itself is not the most interesting city however the tour takes you the the best sites. We really liked the markets to be able to watch people going about their tasks and feel the vibrancy and colour." }
+            ]
+        };
+    }
+
+    if (slug === 'yala-national-park-leopard-safari-day-trip-colombo') {
+        return {
+            averageRating: 3.95,
+            totalReviews: 4,
+            guideRating: 3.95,
+            valueRating: 3.95,
+            reviews: [
+                { author: "Alberto", country: "Verified traveller review", rating: 5, date: "2025-08-28", text: "Very good experience I strongly recomend. Danish it s a great guide and our driver at Yala was excelent. Very good conditions and very well organized" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-12-19", text: "We had a wonderful day trip to Yala National Park with Denuwan and Kajan from Apple Vacations, traveling as a family (especially with a 4- and a 1-year-old children). We especially appreciated their perfect punctuality, safe and smooth driving, and kindness and attentiveness throughout the journey. The car was in excellent condition and well air-conditioned, and the road from Colombo to the park was of very good quality, with well-timed breaks at service areas, which really helped when traveling with young children. Yala National Park itself is vast and well organized, and we were satisfied wi" },
+                { author: "Anais", country: "Verified traveller review", rating: 1, date: "2025-04-17", text: "Not worth it at all ! No communication from the start. Firstly, We had to reach out ourself to check if the booking was confirmed or not. No info if the driver arrived or not for the pick up. We had to reach out again. Arrived at 7:45 at the entrance of the park, compared to itinerary plan 6:30am. Was asked to pay for the entrance tickets even though it is mentioned that it is included. Again No communication between the team and the safari guide. Bottle water wasn’t issued. Actually not worth it for 7hours journey as we did not even stay the full 3 hours inside the park. Only stayed 2h20, If" },
+                { author: "Zlatko", country: "Verified traveller review", rating: 3, date: "2025-03-12", text: "Generell hat uns die Safari ins Yala Nationalpark nicht viel gebracht, weil wir weder Keoparden noch Elefanten (bis auf einen) gesehen haben. Angeblich war es nicht möglich in alle Teile des Nationalparks zu fahren da es Tage davor vieo geregnet hat. Es wäre eäsehr gut wenn am so etwas vorher erfahren könnte, denn dann kann man immer noch entscheiden ob man mitfahren will oder nicht. Wir haben ledogloch ein paar Bambis, Pfaus und 3 Affen gesehen. Viel zu wenig für soo viel Geld. Immerhin der Fahrer Jeev Driver Ranga war sehr gut, überhaupt nicht aufdringlich und es hat von dem organisatorische" }
+            ]
+        };
+    }
+
+    if (slug === 'water-skiing-session-colombo-port-city-waterfront') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-03-29", text: "It was the most exciting and most fun activity that I have ever done. The team that offered the a tivjth was so nice, so professional and dull of jokes. I had a great time. I honestly recommend this to anyone who is into adventure" }
+            ]
+        };
+    }
+
+    if (slug === 'wilpattu-national-park-full-day-leopard-safari') {
+        return {
+            averageRating: 1.0,
+            totalReviews: 1,
+            guideRating: 1.0,
+            valueRating: 1.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2024-08-05", text: "Something get wrong when we should go to Ella ! We should be in the safari 4 hours whitout food but we get lunch and 4 more hours and that meens we should be in Ella in the night without any hotelroom! The driver dont know where he should leave us ! So we have to Ask him to drive us back to Hikkaduwa! He sad that not includes the trip so we hade pay for that! Otherwise we have to sleep at the street in Ella ." }
+            ]
+        };
+    }
+
+    if (slug === 'gampaha-forest-atv-adventure-ride') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-02-01", text: "Die Tour mit dem ATV hat sehr viel Spaß gemacht, Sam hat uns das Fahrzeug genau erklärt und nach einer kurzen Testfahrt ging es auch schon los. Die Zeit ist sehr schnell vergangen und wir würden es auf jeden Fall nochmal machen" }
+            ]
+        };
+    }
+
+    if (slug === 'nuwara-eliya-kandy-sightseeing-transfer') {
+        return {
+            averageRating: 4.92,
+            totalReviews: 18,
+            guideRating: 4.86,
+            valueRating: 4.57,
+            reviews: [
+                { author: "Imani", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "Tharanga made my journey from Nuwara Eliya to Kandy absolutely seamless and memorable. He was punctual, professional, and incredibly friendly from the start. His driving was smooth and safe, which made navigating the winding hill roads feel easy and relaxing. What really stood out was how understanding and accommodating he was, he took the time to tailor the trip to my preferences, making the experience feel truly personal. Whether it was stopping at scenic viewpoints, adjusting the pace, or sharing local insights, he went above and beyond to make sure I enjoyed every moment. He consistently c" },
+                { author: "Henry", country: "Verified traveller review", rating: 5, date: "2026-01-10", text: "Danushka was amazing and took us to a number of interesting locations - the tea factory and gem museum were particularly good! We stopped for mango and Sri Lankan snacks along the way which made the journey very authentic. Just note, while the sites are free, the owners watch over you to get you to buy their products. There is no obligation to do so, as Danushka highlighted, but we felt a little awkward leaving some of the sites empty handed." },
+                { author: "Abhishek", country: "Verified traveller review", rating: 5, date: "2025-01-30", text: "This tour if missed would be a lifetime regret. Had wonder time in Nuwara Eliya, our captain Danushka helped us a lot and guided well. Our ride was comfortable and enjoyed music all over the route." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2024-03-15", text: "A wonderful day with a wonderful guide and driver - Danushka. As a person who places emphasis on customer satisfaction Danushka was extremely accommodating and flexible in meeting the needs of our customised tour. This is a great tour as we were able to travel the scenic road route to Nuwara Eliya and return. On route we stopped at local restaurant as well as taking in the sights as outlined in the itinerary. Time was no issue for Danushka who was extremely patient. An excellent tour. Thank you Danushka. We wish you well for future tours. A job well done - Peter and Merlinda" },
+                { author: "Carmen-Mirabela", country: "Verified traveller review", rating: 5, date: "2024-02-23", text: "Great day with driver Channa! He stopped at many viewpoints along the way and customised the itinerary to my liking!" },
+                { author: "Mia", country: "Verified traveller review", rating: 4, date: "2026-02-10", text: "Rowan took us on a safe and informative trip from Nuwara Eliya to Kandy. Highly recommended!" },
+                { author: "Ikuta", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "今までいろんな国を旅行したが、一番ガイドが丁寧で親切な方だった。 細かいことまで聞くと色々教えてくれて、写真を撮る時も全力でいい写真を撮ろうと頑張ってくれました。そのおかげでとてもいい写真がたくさん撮れました。 気になる景色のポイントがあると、途中でも止まって写真を撮らせてくれました。 ガイドが当たりだっただけかも知れないが、とてもお勧めします。 また、荷物を持ってヌワラエリヤからキャンディへ移動するのにとてもいいツアーだと思います。" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "Danushka was great driver and guide, he was exrremely kind and helpful! I highly recommend this tour in tuk tuk with him!" },
+                { author: "Roland", country: "Verified traveller review", rating: 5, date: "2026-03-14", text: "Terrnce ist ein kompetenter, freundlicher Guide. Er hat mir sehr schöne Orte gezeigt, die Fahrt war sicher. ich kann die Tour uneingeschränkt weiter empfehlen." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Alles und total unkompliziert" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-26", text: "kingswood tea factoryで紅茶試飲体験をしたが、茶葉の分類ごとに分かりやすく味が異なっており大変興味深かった" },
+                { author: "Claudia", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "Die Tour war sehr schön. Wir haben viel gesehen und unser Guide Danushka war sehr bemüht, uns alles zu zeigen. Er war sehr geduldig und hat überall angehalten, um Fotos zu machen. Danke für diesen schönen Tag. :-)" }
+            ]
+        };
+    }
+
+    if (slug === 'private-car-transfer-kandy-ella-mirissa-colombo-beyond') {
+        return {
+            averageRating: 4.69,
+            totalReviews: 11,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Camilla", country: "Verified traveller review", rating: 5, date: "2026-02-10", text: "Roshan did a great job! Would recommend this city tour :)" },
+                { author: "Jiří", country: "Verified traveller review", rating: 5, date: "2025-09-12", text: "Our guide was very good. Helpfull in so many ways And his care about us excelent." },
+                { author: "Mira", country: "Verified traveller review", rating: 5, date: "2025-07-06", text: "I had the pleasure of doing a private city tour in Kandy with Rasidu, and I can confidently say he is one of the best tour guides I’ve ever met. From the moment the tour began, he was extremely professional, knowledgeable, and well-prepared. The way he explained the history and cultural background of each place was clear, engaging, and full of passion you could tell he genuinely loves what he does. What stood out most was how kind and attentive he was. He didn’t just take me around; he truly listened to what I wanted to see and customized the experience based on my interests. Rasidu made me fe" },
+                { author: "Lara", country: "Verified traveller review", rating: 5, date: "2024-02-05", text: "Tharanga was super friendly and explained everything and answered all our questions. He even asked if we were interested in seeing extra things apart from the list and ended spending the whole day with us (10hrs instead of 6hrs!!). Highly recommended!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-11-12", text: "Ik had Danushka als chauffeur. Hij beeft ons rondgereden in zn mooie tuctuc. De tour was leuk en heb een paar dingen gezien die je alleen ziet als een local je de weg wijst, dat was leuk. Echt bekende dingen hebben we niet gezien alleen boutanic garden. Ik had zelf gedacht meer bekende dingen te zien maar die fout ligt denk ik bij mij. Verder hele aardige chauffeur en heel behulpzaam." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-09-14", text: "Besuch der kulturellen Show und Zahntempel" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-04-05", text: "Herbal Garden Katastrophe" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-02-05", text: "Tharanga is very kind and really takes his time to show you around and explain about Sri Lanka culture. I 100% recommend if you wanna see the city and get the tuk tuk experience and not only see touristy places!" }
+            ]
+        };
+    }
+
+    if (slug === 'negombo-lagoon-boat-trip-monkey-island') {
+        return {
+            averageRating: 4.25,
+            totalReviews: 7,
+            guideRating: 4.25,
+            valueRating: 4.25,
+            reviews: [
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2025-04-14", text: "Lovely day out seeing monkey island. Relaxed welcome, life jackets and umbrellas for us on the boat, boat trip across lake Negombo, we saw and fed the monkeys on monkey island, then stopped off for a coconut drink paddling our feet in the lake. We then chose to stay for lunch at the end (additional cost) and it was yummy food. The whole family enjoyed it (kids aged 3 & 5)." },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2024-10-26", text: "We saw a lot of monkeys The lagoon is beautiful Staff is very nice All was good thank you" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-02", text: "Sehr entspannt und angenehme Tour mit vielen Affen." },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2025-03-19", text: "Die Tour war super. Alle Mitarbeiter waren sehr bemüht und die Bootsfahrt war sehr schön und wir haben viele Affen gesehen und eine kleine Pause am Watt gemacht. Dort bekamen wir Kokosnüsse serviert und duften im Watt spazieren. Die Tour ist sehr zu empfehlen, auch für kleine Kinder. Die Guides waren sehr kinderfreundlich und ließen unsere Kinder auch mal ans Steuer. Gefüttert haben wir die Affen nicht." },
+                { author: "Tatjana", country: "Verified traveller review", rating: 5, date: "2025-03-15", text: "Wir haben es trotz nur zwei Bewertungen gewagt, diese Tour zu buchen. Für hiesige Verhältnisse ist dieser Ausflug auch teurer, nichts desto trotz hatten wir ein schönes (und spannendes 🙈😂) Erlebnis. Unser Boot schien sehr offensichtlich ein technisches Problem zu haben. Die beiden Jungs haben mir immer das Gefühl vermittelt, alles im Griff zu haben. Sie haben alles versucht, um uns ein schönes Erlebnis zu bescheren und haben auch nicht aufgegeben, bis wir zumindest ein paar Äffchen vom Boot aus gesehen haben. Im Gegensatz zu anderen Booten, die ein Sonnendach hatten, haben wir als Sonnenschutz" },
+                { author: "Nick", country: "Verified traveller review", rating: 1, date: "2024-04-08", text: "The monkey experience was great but the directions for meeting place were completely wrong and no assistance available when we needed it. Ended up in a place 200 metres from hotel in a boat that was not fit for purpose as there were no seats and it was falling apart. Appears this is subcontracted out to a sub standard third party." }
+            ]
+        };
+    }
+
+    if (slug === 'negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch') {
+        return {
+            averageRating: 1.0,
+            totalReviews: 1,
+            guideRating: 1.0,
+            valueRating: 1.0,
+            reviews: [
+                { author: "farres", country: "Verified traveller review", rating: 1, date: "2026-06-25", text: "Castrophique, nul, rien à voir, activité qui a duree 3 heures avec le trajet. Le fort n existe pas!!!! Je déconseille fortement !!!!" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-and-pidurangala-rock-day-trip-from-kandy-by-tuk-tuk') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Wiktoria", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Bardzo dobrze zorganizowana wycieczka. Możliwość modyfikacji planu zwiedzania. Świetny przewodnik" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari') {
+        return {
+            averageRating: 4.92,
+            totalReviews: 10,
+            guideRating: 4.92,
+            valueRating: 4.92,
+            reviews: [
+                { author: "Levente", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "It was fantastic; our driver, Ravish, was very kind and helped us with everything—by the end of the day, we had become friends. We visited so many wonderful places, and Ravish shared a lot of interesting information with us. In the end, we chose the Eco Elephant Park—it was great. There weren’t many tourists, and we saw at least 25 elephants up close. We even saw a pregnant elephant and a baby elephant just a few months old. We highly recommend it to everyone—it was wonderful." },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2025-09-28", text: "I had an amazing day with Shanuka! He made me feel incredibly well taken care of and looked after as a solo female traveler. He planned a great day for us and adjusted it based on what I wanted to do. He made sure all my needs were met throughout the day. And the elephant safari was INCREDIBLE! We saw so many! I highly recommend!" },
+                { author: "Sofia", country: "Verified traveller review", rating: 5, date: "2025-09-23", text: "I had an absolutely incredible tour yesterday with Shanuka! 🙌 As a solo female traveler, I felt completely safe and comfortable the entire time. He is so caring and thoughtful, he drove me to all the highlights, stopped whenever I needed something, treated me with fresh coconut and even brought me to a fantastic spot for lunch. We managed to see so much in just one day, and it was truly a pleasure to spend the day with him. Shanuka is not only professional but also very sweet and kind. I couldn’t recommend him more, if you want a safe, fun, and unforgettable experience, go with him! 🌟" },
+                { author: "Marie", country: "Verified traveller review", rating: 5, date: "2025-05-22", text: "I had a really nice experience with my driver Ruwan. He made sure I feel good and took really nice care of me. He also guided me in Dumballa cave Temple and on our way back we stopped in a spices farm, which was very nice. I reccomend 👌." },
+                { author: "pragati", country: "Verified traveller review", rating: 5, date: "2025-04-13", text: "I had an amazing experience with this company, thanks to my wonderful guide. As a solo female traveler, I really appreciated how kind, attentive, and caring he was. He made sure I felt completely safe and comfortable the entire time, which meant so much. If you're a solo female traveler, I highly recommend this company and their tours. They truly go the extra mile to make your experience special." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-04-12", text: "The driver had a very hard time with the English language, but the tour itself was perfect!!" },
+                { author: "Ilaria", country: "Verified traveller review", rating: 5, date: "2024-12-07", text: "Esperienza bellissima. Nuwan come guida è stato fantastico! Ve lo consiglio :) è stato super gentile e disponibile ad ogni mia richiesta!" }
+            ]
+        };
+    }
+
+    if (slug === 'sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 40,
+            guideRating: 5.0,
+            valueRating: 4.92,
+            reviews: [
+                { author: "Anja", country: "Verified traveller review", rating: 5, date: "2026-06-30", text: "Hello our Guide was Dhanu he was very safe in driving and took us to the places we want. The day was wonderful with a lot information about the country and the places we went. We are thankful to had him on this trip and for the nice day we had." },
+                { author: "Sophie", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Dhanu was amazing. He asked us where we wanted to go & see with no pressure for anything. He waited patiently at each stop and we felt no pressure to hurry or rush. He gave us recommendations about when was a good time to climb the rock due to the heat, keeping us in good supply of water and assisting us with conversations at the locations. At each location he would take loads of photos of us, and send immediately. We would definitely recommend!" },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2025-11-19", text: "I had a great big adventures day! Malik was my tour guide and I was very happy. Suggested and asked the things I wanted to do along the way. Because it was an early start, he also stopped so I could get food and toilet breaks along the way. He was also the best photographer, capturing every moment! Towards the end of the tour we also stopped somewhere and he gave me a Sri Lankan treat. Happy with my day" },
+                { author: "Nush", country: "Verified traveller review", rating: 5, date: "2025-10-10", text: "Tharanga is a very skilled, professional driver. He is also so caring and friendly. He didn’t even hesitate to stop at different places for us to take photos and enjoy the views, answered millions of questions and explained a lot of interesting things. On the way back home he stopped at the market in Dambulla so that we can buy local fruits. So, in short, it was a wonderful trip full of experiences and joyful moments😊" },
+                { author: "Mihail", country: "Verified traveller review", rating: 5, date: "2025-08-24", text: "I had Tharanga as a guide and we had a blast of a day with him. He answered all the questions, was always on time and was very polite and insightful. Thanks for the great day and memories." },
+                { author: "Pamela", country: "Verified traveller review", rating: 5, date: "2025-08-23", text: "It was all perfect! Our guide Malik was very kind and awesome! We had chosen the stops at the beginning of the tour and it was incredible! Also he helped us to find a way to reach trincomalee at the end of the tour… it was a beautiful day!" },
+                { author: "Aleksandra", country: "Verified traveller review", rating: 5, date: "2025-07-23", text: "A great trip with a fantastic driver and guide Dhanu. He showed us and told us about the most important attractions in Sigiriya and the surrounding area. I highly recommend it, you'll be satisfied, I guarantee it🤗" },
+                { author: "Neha", country: "Verified traveller review", rating: 5, date: "2025-06-04", text: "This is a great day trip option from Kandy. My tour guide Dhanu took care of everything. The itinerary includes basic must do things in Sigiriya if you are a little short on time. The route was very scenic and Dhanu stopped at many points for me to take pictures. Overall I would recommend this trip to everyone solo or couple for the amazing tuk tuk experience." },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2025-05-03", text: "Dhanu made us the best day ever. We would highly recommend him because of his bright knowledge and good stories about Sri Lanka. It was very fun to make a tuk tuk tour with him. If possible, we would give him 12/10 points. We can choose what we wanted to do and he gave us a lot of options. Thank you for this absolutely amazing day!" },
+                { author: "Aleksander", country: "Verified traveller review", rating: 5, date: "2025-03-30", text: "My tuktuk driver was Malik. He was very reliable and stopped by whenever I was interested in something. I highly recommend him. There was a very good day." },
+                { author: "Giada", country: "Verified traveller review", rating: 5, date: "2025-03-05", text: "Our driver Dhanu was great, he drove us to the places we wanted to go, also stopped to a restaurant on request, and gave us some information about Sri Lanka which is always nice to know. We left at 6AM and came back at 3PM." },
+                { author: "Cassianus", country: "Verified traveller review", rating: 5, date: "2025-02-23", text: "Dhanus was an excellent driver and guide. fully recommended !" }
+            ]
+        };
+    }
+
+    if (slug === 'private-kitulgala-adventure-day-from-kandy-rafting-trekking') {
+        return {
+            averageRating: 2.74,
+            totalReviews: 2,
+            guideRating: 2.74,
+            valueRating: 2.74,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-07-18", text: "Der Tag war wunderbar. Ich wurde trotz grosser Distanz von minem Hotl abgeholt und hingefahren. Das Wasser rafting und die Teefabrik haben mir gefallen . Wad mir am meisten gefallen hat aber ist mein persönlicher Schaffeur der mir faire Preise gemacht hat wemm es um den Transpotrt ging." }
+            ]
+        };
+    }
+
+    if (slug === 'kitulgala-white-water-rafting-from-kandy-with-hotel-transfers') {
+        return {
+            averageRating: 4.52,
+            totalReviews: 9,
+            guideRating: 4.52,
+            valueRating: 4.52,
+            reviews: [
+                { author: "Jemma", country: "Verified traveller review", rating: 5, date: "2025-08-11", text: "Great fun and the two guides were brilliant. Loads of laughs along the way and a good swim! Highly recommended. Loved every minute!" },
+                { author: "Natalija", country: "Verified traveller review", rating: 4, date: "2026-01-26", text: "Beautiful nature, great guide, everyone very friendly." },
+                { author: "Olivia", country: "Verified traveller review", rating: 4, date: "2025-01-15", text: "Enjoyable activity. Super friendly guide (Imran). Long drive there and back but rafting in the picturesque setting of Kitugala was lovely." },
+                { author: "Alix", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Bonne organisation pour la prise en charge, bien prendre en compte les 2 h de trajet pour y aller. Sur place, super expérience, bonnes explications et accompagnement tout au long de l'activité. Nous avons même pu sauter de rochers et dévaler les rapides à la nage." },
+                { author: "Vendula", country: "Verified traveller review", rating: 3, date: "2026-08-09", text: "Cesta na rafty trvá dvě hodiny. Samotný zážitek z raftů je sice relativně krátký (45 minut), ale záživný. Personál nebyl příjemný a ani nepříjemný. Řidič byl naopak velmi milý a šikovný. V instrukcích je uvedeno, že si máte vzít nabitý telefon, ten ale budete moci využít jen minimálně. Lze zakoupit jimi nafocené nebo natočené výstupy za poplatek. Helmy ani vesty nejsou následně desinfikovány." },
+                { author: "Jesper", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Godt sted at White water rafte for en familie. Det er vildt nok til, at det er sjovt og alle kan være med. Sød chauffør på en lang tur fra Kandy. Kan anbefales" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-19", text: "experienced instructor and great ride" },
+                { author: "Lieke", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "Een super leuke dag gehad!! Het raften was erg leuk, niet te eng. Er zaten een paar grote versnellingen in die erg leuk waren. De omgeving was prachtig. Daarna zijn we nog gaan canyoningen. Ondanks dat het erg druk was, was het de moeite waard! Ook super leuk. En een veilig gevoel dankzij onze gids. De reis heen en terug was ook prima. De chauffeur reed rustig. Erg leuke dag!!" }
+            ]
+        };
+    }
+
+    if (slug === 'kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "The Eco village tour and cooking class was excellent, informative, well organised and the hosts were very friendly. If you want a true authentic introduction to Sri Lankan cuisine don’t look any further." },
+                { author: "綾", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "It was a great experience to have such a day in Kandy. Especially at Kumarihami cooking class we had the best meal in Sri Lanka. They taught us step by step how to cut, mix, which spice to put etc. Their big outdoor kitchen with curry leaf bush, flowers, some animals and so much green were relaxing and refreshing. We highly reccomend this class! とても素晴らしい時を過ごしました。Kumarihami cooking classでは、自然の中のキッチンで、カレーリーフの木や竈、遠くに見えるサルやリス、鳥たちと共に、大変優しく、分かりやすくスパイスの調合や材料の切り方など教えてくれましたし、野菜の一部は自分たちで選ぶことができたのも面白かったです。とてもおすすめのアクティビティです！" }
+            ]
+        };
+    }
+
+    if (slug === 'knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch') {
+        return {
+            averageRating: 4.39,
+            totalReviews: 2,
+            guideRating: 4.39,
+            valueRating: 4.39,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 4, date: "2026-03-04", text: "A great combined experience of Sri Lankan mountain village life and a good mountain hike. The pick up was smooth and the guides were very friendly, attentive and local. The cooking experience was great fun and the lunch prepared by the host was excellent. The hike itself was great, rising above the rice paddies into montane forest, with an invigorating waterfall swimming spot towards the end. We enjoyed communicating with our affable guide despite the language differences and also experiencing their local knowledge in a slightly extended walk." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "Notre guide était très attentionné et nous a donné pleins d’informations tout le long du trajet, nous avons pu préparer et manger un plat typique chez une habitante de sa famille et nous avons également déjeuné chez une autre personne, c’était très bon La baignade dans la rivière près de la cascade était top, après avoir bien transpiré" }
+            ]
+        };
+    }
+
+    if (slug === 'little-adams-peak-sunrise-hike-from-ella-with-a-local-guide') {
+        return {
+            averageRating: 3.62,
+            totalReviews: 9,
+            guideRating: 3.62,
+            valueRating: 3.62,
+            reviews: [
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2025-05-12", text: "Nuwa our tour guide was very knowledgeable with the surrounding areas, he knew the best spots for watching the sunrise and insta worthy photos!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-07-30", text: "We did not get water and the guide did not speak English. We could have just got a Tuktuk to drive us there as the hiking route was very easy to follow. The view was great. Nice to be picked up at the hotel." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2024-11-29", text: "I cancelled my trip. Very poor service. I didn’t get my refund 🙁" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2024-10-19", text: "Il ragazzo che mi è venuto a prendere in Tuktuk e mi ha fatto da guida è stato bravissimo e paziente. Comunque l’esperienza non vale i sold visto che non c’è nessun biglietto d’ingresso da pagare nè acqua disponibile" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2024-10-11", text: "Der Guide spricht weder Englisch noch hat er Lust zu wandern. Er hat mir gesagt, er redet nicht mit mir. Zudem hat er mich eine halbe Stunde warten lassen, weil er Kaffee trinken war. Das Geld kann man sich sparen." }
+            ]
+        };
+    }
+
+    if (slug === 'little-adams-peak-sunset-hike-from-ella-with-a-local-guide') {
+        return {
+            averageRating: 2.65,
+            totalReviews: 3,
+            guideRating: 2.65,
+            valueRating: 2.65,
+            reviews: [
+                { author: "Denise", country: "Verified traveller review", rating: 4, date: "2026-03-28", text: "our guide was very knowledgeable and helpful made it a good experience" },
+                { author: "Antonella", country: "Verified traveller review", rating: 1, date: "2025-08-16", text: "Non è un posto per il quale è necessaria una guida, tutta la gente saliva autonomamente e sopratutto non si paga nessun biglietto all’ingresso (visto che nella vostra didascalia viene menzionato il biglietto nelle cose incluse). Il ragazzo che ci ha portato su era anche molto gentile e disponibile ma non è corretto far credere ad un turista che sia necessaria una guida visto che non c’è niente da spiegare ma solo il panorama da vedere." }
+            ]
+        };
+    }
+
+    // --- VIETNAM TOURS (2026-09, real reviews from the same source listing) ---
+    if (slug === 'stained-glass-art-workshop-in-saigon') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 8,
+            guideRating: 4.81,
+            valueRating: 4.81,
+            reviews: [
+                { author: "Gemma", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "Loved it! So much fun, the ladies running everything are very kind and it’s a beautiful little space to spend the morning in. It was cool learning something new, it’s a little harder than I thought but still easy enough to walk-away with something cute, there’s always help available too if you need it (the sanding is really forgiving so don’t worry too much about cuts being perfect is my advice). I had a lovely time and highly recommend having a go 🥰 thank you!" },
+                { author: "Sandra", country: "Verified traveller review", rating: 5, date: "2025-07-17", text: "It was great! So nice and fun to do. We made our own souvenirs which we can enjoy at home. Guide speaks excellent English. Instructors aka the Masters were calm and ready to help where needed. No pressure. Just 3,5 hours in a bubble to get a taste of this incredible art. It was amazing and we definately recommend to do this!" },
+                { author: "Paris", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "We had a fun time making our own creations!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "The people were very helpful, it's really nice to see how things works step by step ! Fun stuff to do !" },
+                { author: "Marisa", country: "Verified traveller review", rating: 3, date: "2025-12-15", text: "Das Ergebnis ist sehr schön jedoch ist die Erklärung zum Kurs null vorhanden. Obwohl der Kurs auf Englisch angegeben ist, war die Kommunikation recht schwierig. Zudem wurden wir 70 % alleine gelassen und mussten immer wieder Bescheid geben, wenn wir mit einem Schritt fertig waren." }
+            ]
+        };
+    }
+
+    if (slug === 'conical-hat-painting-workshop-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.54,
+            totalReviews: 3,
+            guideRating: 4.54,
+            valueRating: 4.54,
+            reviews: [
+                { author: "Gail", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "FANTASTIC!! These talented artists will expertly guide you to create your very own unique piece of Vietnam to take home. From the cute studio to the friendly helpful staff this was an all round GREAT experience. Highly Recommend." },
+                { author: "Melanie", country: "Verified traveller review", rating: 3, date: "2025-12-21", text: "A pleasant activity, but it’s a pity that no real guidance is provided. You are given a hat, some paint, and sample designs, but the “workshop” stops there - you’re left to manage on your own with the brushes. It’s disappointing." }
+            ]
+        };
+    }
+
+    if (slug === 'ho-chi-minh-fast-track-service-at-tan-son-nhat-airport-ho-chi-minh-city') {
+        return {
+            averageRating: 4.34,
+            totalReviews: 35,
+            guideRating: 4.34,
+            valueRating: 3.82,
+            reviews: [
+                { author: "Charlie", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "Absolutely worth the money. The staff met me right at arrivals with a sign, this was such a relief as the airrport at the time was chaotic and I had just flown for 10 hours. And I was through immigration in 10 minutes while the regular lines looked like at least an hour wait. I can’t recommend them enough! I will definitely be using this service in the future. Thank you so much for making this such a pleasant and easy experience!" },
+                { author: "Janos", country: "Verified traveller review", rating: 5, date: "2025-11-01", text: "The operator lady was very kind and helpful, she arranged everything we needed. The transfer from Hanoi to the island was comfortable. The flight itself was a wonderful experience. Although the sky was cloudy, the view was still magnificent. After the flight, we still had time to walk around the island, then the driver took us to the airport. I recommend it to everyone!" },
+                { author: "James", country: "Verified traveller review", rating: 4, date: "2025-12-30", text: "The experience itself was very good. Make sure you get your weight exact though as if you pay for the extra room, and you weigh just under the limit, the agent you book with can’t/wont refund. Even though the seat on the plane is exactly the same!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-08-07", text: "There was no waiting line in normal immigration and no value to use this service on midnight arrivals" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Fast track service made it super easy to clear immigrantion. We had a short wait due to the number of people who were also using the service. The normal queues were huge. Well worth it to start your holiday off." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-07-15", text: "Hat alles reibungslos funktioniert. Trotz der vielen digitalen Tickets, Emails und Chat, sowie Kommmunikation, hat am Ende mein Reisepasse bei Eintreffen gereicht. Alles andere wurde nicht abgefragt oder kontrolliert." },
+                { author: "David", country: "Verified traveller review", rating: 2, date: "2026-07-08", text: "I had a feeling it was not going to be a good experience when I booked. A different company than I normally use. I received an additional email for additional scans/photos that was not required in the first list, so that was changed. On arrival noonecwas there to meet me. Arrival time was correct and atvthevplace i needed to be yet noone there manybother agents but not nine. Had to telephone to ask why noonecwas there. i was then told to send a photo where I was, I was where I should have been, so not sure why I was asked to do that. I waited 10 minutes, , it might not seem long, but when you" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-07-06", text: "Zostałem poprowadzony do okienka gdzie formalności trwały minutę." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "On the afternoon of my arrival, the airport was absolute chaos because 10 delayed flights all landed at the exact same time. The immigration lines were endless. Honestly, if I hadn't booked this service, I probably would have spent the entire first day of my Vietnam trip just standing in line at the airport. But thanks to this amazing service, I breezed through the entire process in just 2 minutes! The assistant was incredibly professional, efficient, and guided me past all the madness. This is the best money I ever spent, and it was worth every single cent. If you don't want to waste 2 hours" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Excellent service as always with staff by immigration with your name on a board. I was sent directly to a shorter queue, and was 15 minutes later picking up my suitcase. The other queues were very bad and long and probably take at least an hour or longer." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-02-24", text: "sehr sehenswerter Flug über Halong und Halong Bay,sehr erlebnisreich de Start und die Landung,man könnte schöne Fotos machen,gerne wieder" },
+                { author: "Tim", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "It was really really good!" }
+            ]
+        };
+    }
+
+    if (slug === 'perfume-workshop-with-scent-of-saigon') {
+        return {
+            averageRating: 4.79,
+            totalReviews: 269,
+            guideRating: 4.67,
+            valueRating: 4.77,
+            reviews: [
+                { author: "Wayne", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "It was a fun experience. Something different to do in Ho Chi Minh City. You also get to create your own personal scent. Overall well worth it if you have a free morning." },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "This activity far outweighed our expectations. We didn’t know that so much went into making a perfume. Recommending to anyone who wants to do something different." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Everything was explained well. My sons and me are happy with the result!" },
+                { author: "Jesse", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "We had a blast! It was a fun chemistry experiment with lots of great scents to choose from!" },
+                { author: "lindsey", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "They helped me so much with matching the different notes together" },
+                { author: "Richard", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "it was a grwat experiance making your on perfume/after shave. the staff were great in giving advice and explaining the process." },
+                { author: "Aditi", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "The shop is perfectly equipped with all you need for this experience and more. I loved how patient they are and explained everything patiently" },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "AMAZING EXPERIENCE!!!! We loved our perfumes. We were able to even write names for our perfumes and stick them with a sticker onto the bottle. Definitely worth a try if you have time." },
+                { author: "Marat", country: "Verified traveller review", rating: 5, date: "2026-06-05", text: "I liked the experience of making my own perfume. So I paid $17, got new experience and new perfume. Recommend!" },
+                { author: "Klaudia", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Such a good experience, the guide was super helpful as I was making a perfume for my boyfriend she helped pick out the right notes. So worth the money" },
+                { author: "Annette", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Very interesting and unusual activity. the making of my own signature scent was amazing and I smell good too." },
+                { author: "Donna", country: "Verified traveller review", rating: 5, date: "2026-04-25", text: "What a great souvenir from Vietnam. Your own personal scent. We were asked what your favourite scent was and were given help to either recreate or make a scent from scratch. We started off with a very small sample and were able to tweak it to suit our taste. We then made the full size version. You have the choice of size bottle you can make, we made a 50ml glass spray bottle. We had a small amount which didn’t fit so we were given a small atomiser. We then named our own scent and labeled our bottle. They keep a copy of your fragrance in case you wish to order. Overall a great experience." }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-flower-arrangement-workshop-in-ho-chi-minh-city') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Iriz", country: "Verified traveller review", rating: 5, date: "2026-02-04", text: "I really enjoyed it and will recommend it to.those who wants to do some activity in ho chi minh. Vie is really nice and helpful. She is 10/10 for me!" }
+            ]
+        };
+    }
+
+    if (slug === 'night-walking-tour-with-hidden-gem-stop-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 9,
+            guideRating: 4.83,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "Lucky was very knowledgeable and passionate about her job. Excellent guide. Great walking tour." },
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2025-11-29", text: "Lucky was a great tour guide. She was very friendly and provided detailed information and answered questions well. It was fun and interesting. Lucky’s English was perfect and she was so easy to talk to and understand. The tour was a great way to see HCMC by night and Lucky also shared lots of great tips on places to visit in the city. I highly recommend this tour, whether you are a solo traveller or in a small group. Thanks Lucky for such a fun tour!" },
+                { author: "Ethan", country: "Verified traveller review", rating: 5, date: "2025-10-19", text: "I was toured by May, who was a fantastic guide, sharing lots of insights about the city! The last bar we visited had a vibrant atmosphere with live music, which made for a great ending. The tour was a wonderful way to explore the city by night while learning a bit about the history, culture, and people." },
+                { author: "E", country: "Verified traveller review", rating: 5, date: "2025-10-08", text: "Lucky (hope i write the name right) was great. She told us a lot about the City and History. Her English is perfect and she even knows a little bit of german. we had a great evening. For me as a solo traveler she took a lot of pictures and Videos so i have a memory. Be sure to book thank you Luky for this great evening." },
+                { author: "Glenn", country: "Verified traveller review", rating: 5, date: "2025-08-22", text: "We had a great time with Lucky, she brought us around historic buildings and nightlife in Ho Chi Minh. Thanks again!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-08-24", text: "Lucky is very funny and energetic. Fun!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-08-22", text: "Lucky was absolutely delightful and informative. However, I think the price was too high; there don't seem to be that many attractions in walking distance and we spent most of the time at the two bars." }
+            ]
+        };
+    }
+
+    if (slug === 'koi-fish-caf-and-hidden-gems-tour-in-ho-chi-minh-city') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 8,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-11", text: "Eine tolle Tour . Mein Guide Charm hat mich n traumhafte abgelegene Plätze geführt wo sonst nicht so viele Touristen auftauchen . Schöne Fotos und Erinnerungen . Toller Tour guiede :) kann die Tour weiterempfehlen" },
+                { author: "Susanne", country: "Verified traveller review", rating: 5, date: "2026-03-02", text: "Vi fick se ställen som inte var överfulla med turister och guiden var jättebra. Vi kunde ställa frågor om allt möjligt" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "Charm was delightful! She shared Vietnamese culture, her life in Ho Chi Minh, the Vietnamese coffee culture and so much more. The cafes were so unique and fun! A very enjoyable tour!" },
+                { author: "Estelle", country: "Verified traveller review", rating: 5, date: "2025-12-12", text: "visite parfaite !!!! un grand merci à ma super guide Mavis!!!!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-10-01", text: "It was a lovley tour for the afternoon. Layla was really nice. She showed me two Cafés...they were really cute. All in all: It was really nice talking to Layla, I Had fun She gave mena Tipp for my dinner and offerd to Help me, If i want to know more." }
+            ]
+        };
+    }
+
+    if (slug === 'iconic-apartments-walking-tour-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 26,
+            guideRating: 4.83,
+            valueRating: 4.92,
+            reviews: [
+                { author: "Melinda", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "More than your average walking tour! I highly recommend this tour of iconic apartments and could write pages on what we saw & learnt about Saigon's history and local life with our guide Lucas but won't bore you! Lucas was friendly, knowledgeable & accommodating. We discovered many hidden gems including some very cool bars and coffee shops. We also visited some other buildings along the way - giving us some additional historical background to this amazing city! Highly Recommended! The pace was good, it was hot so hat, plenty of water and comfy shoes are a must. Thank you Lucas for a fun and ver" },
+                { author: "Anja", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "We ended up having a tour just for the two of us. Charm was really nice and she showed us cool places to discover. We also had a coffee together and had a great time! :)" },
+                { author: "Stephen", country: "Verified traveller review", rating: 5, date: "2026-03-11", text: "The tour was excellent. The guide was very knowledgeable and very friendly and communicated very well. It was a great experience." },
+                { author: "Susanne", country: "Verified traveller review", rating: 5, date: "2026-03-09", text: "We thoroughly enjoyed our walking tour in Ho Chi Minh City. We saw and learned about the places, buildings, and their associated stories. Our guide was very friendly and dedicated. We would definitely recommend this tour." },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2025-12-24", text: "Lucas is a very good guide! it was very interesting." },
+                { author: "Ian", country: "Verified traveller review", rating: 5, date: "2025-12-17", text: "Highly recommended tour with Lucas showing the places behind the scenes that the usual tours do not show you, highlighting the cultural and historical histories of Vietnam through some of its hidden buildings. thoroughly enjoyed ." },
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2025-12-03", text: "The tour was amazing! Mavis took me to special places I would have never found without her. She also has a lot of knowledge of viatnamese history and gives a lot of interessting informations. If you like special tours with nice coffee shops and houses you should definitly book this one :)" },
+                { author: "silviu", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "So cool tour and different. Thanks so much Hung for your information. He is very dedicated for this job and he is very coool. Very awesome experience!" },
+                { author: "Beryl", country: "Verified traveller review", rating: 5, date: "2025-11-14", text: "Hung was fantastic,went over and beyond my tour request.Introduced me to vietnamese foods,drinks I probably would never have tried.Visited markets in district 1 and 3 and enlightened me on vietnamese history.Thank you" },
+                { author: "Yvette", country: "Verified traveller review", rating: 5, date: "2025-11-09", text: "Very interesting tour. Great for photos. Steven was very helpful and knowledgeable. He made sure I was safe, he knew a lot about the area. I was the only one on the tour and found Steven very easy to chat too. It was a very enjoyable tour. Highly recommend" },
+                { author: "timothee", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Super balade dans des appartements emblématiques de HCMC. Ça sort des sentiers battus. Très agréable, je recommande" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-05-08", text: "Interesting and very knowledgeable guide :)" }
+            ]
+        };
+    }
+
+    if (slug === 'can-tho-tra-su-cajuput-forest-and-ta-pa-pagoda-day-tour-in-ho-chi-minh-city') {
+        return {
+            averageRating: 3.24,
+            totalReviews: 3,
+            guideRating: 3.24,
+            valueRating: 3.24,
+            reviews: [
+                { author: "Ramita", country: "Verified traveller review", rating: 4, date: "2026-08-29", text: "⭐⭐⭐⭐ We had an amazing day visiting the Cajuput Forest and duckweed fields from Ho Chi Minh City with our guide, Tom! 🌿 Tom speaks very good English and is incredibly friendly, helpful, and knowledgeable. He made the whole journey so much fun with his great sense of humor and kept me and my parents laughing throughout the day. He was also very caring and attentive, always making sure my parents were comfortable. Friendly, funny, knowledgeable, and definitely a cute guide too 😄 — Tom made the entire experience even more memorable! We truly enjoyed our day with him and would highly recommend Tom" },
+                { author: "Maximilian", country: "Verified traveller review", rating: 2, date: "2026-02-23", text: "Achtung, statt einer entspannten Bootstour durch den Tra Su Forest besteht die Toir zum Großteil aus einer unklimatisierten Autofahrt. Im Widerspruch zu den Angaben des Veranstalters zieht sich die Tour über den gesamten Tag und dauert nicht nur 7 Stunden. Insgesamt haben wir auf der Tour 8h alleine in dem Auto verbracht, obwohl die Tour insgesamt nur 7h dauern sollte. Wir mussten in einem nicht klimatisierten Auto von Can Tho über 4h in den Tra Su Forest fahren. Der Fahrer hat dabei die kürzeste Route gewählt, um Mautkosten zu sparen. Auf dieser Route waren die Straßen sehr schlecht und die F" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-02-16", text: "The sites themselves were interesting, however it turns out to be a 12 hour day with 8 hours of driving. The site notes a 7 hour day —?? Not sure how the math works in this case. The observation tower is like a 8 story stairs; would have been nice to know that ahead of time - so one can gauge their ability to walk up/down that in 30c weather. Once at the Pagoda, we could only walk around outside of it and could not enter. Though it is called a “lake”; its really a pond - and I understand it may have meaning to the locals, given the 12 hours time required, we would have just skipped it. If you" }
+            ]
+        };
+    }
+
+    if (slug === 'real-saigon-off-the-beaten-path-experience') {
+        return {
+            averageRating: 4.73,
+            totalReviews: 10,
+            guideRating: 4.73,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Nyasha", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Great tour away from the main areas in HCMC. Heidi was really patient and explained everything in detail." },
+                { author: "Nicola", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "I was so delighted when I booked this tour and found out that Lucas who I’d completed a tour with the previous day. He was undoubtedly the best tour guide we had in Vietnam. The tour itself gave us a totally different perspective on the city having been mainly based in District 1. It really made our visit too the city. This is a must do tour" },
+                { author: "Barry", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "My guide, Lucas, showed me some real insights into how the poorer Ho Chi Minh citizens live down by the river in districts 4 and 8, the the rich in there villas and moneyed district 7. Lucas was so interesting to talk to and answered all my questions. A great way to spend the morning in parts of Ho Chi Minh City you would not normally see." },
+                { author: "Karl", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Lucas was excellent. Lots of stories, jokes and information. His way of giving you his knowledge almost forces you to remember it. We really enjoyed seeing the huge contrasts between different HCMC Districts. Thank you" },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-04-01", text: "Excellent guide Lucas, was very informative and we enjoyed the walk very much." },
+                { author: "Elisabeth", country: "Verified traveller review", rating: 5, date: "2026-03-11", text: "I really enjoyed this experience, an overview of the class range of the city. My guide V was very knowledgeable and explained a lot of cultural norms that are helpful to know. Adding some stops with local vendors to learn even more about the culture and see some local art or food would make this even better." },
+                { author: "Timothy", country: "Verified traveller review", rating: 5, date: "2026-02-24", text: "It was terrific. I got to see so much more of Saigon on this tour. My guide, Charm, gave me a deeper perspective on the everyday culture of the people of this area. I highly recommend this tour!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-03-21", text: "Firstly, the company placed me on the wrong tour, and the meeting location kept changing. Luckily, we got it resolved, in time for the tour. On the day, the tour guide was late, showed up in a tracksuit and only showed me two sites. There was zero walking. Honestly, we didn’t really visit much. We then sat for 40 mins in a well known coffee chain shop. So disappointed overall, I’m really sad I lost a morning doing this." },
+                { author: "Manuela", country: "Verified traveller review", rating: 5, date: "2026-02-05", text: "Es war eine wirklich tolle Tour die dir sehr unterschiedlichen Seiten Saigons bestens ermittelt hat. Charm war ein wirklich toller Guide, sie kannte sich extrem gut aus so dass keine Frage unbeantwortet blieb! Vielen Dank Charm für die tolle Erfahrung 🤩 Als persönliche Bemerkung an den Organisator : im Verhältnis zu anderen Touren die ich in Vietnam gemacht habe, finde ich den Preis etwas zu hoch 😇" },
+                { author: "Christian", country: "Verified traveller review", rating: 5, date: "2026-01-28", text: "Absolut spannende tour mit Lawrence Herzlichen Dank" }
+            ]
+        };
+    }
+
+    if (slug === 'water-puppet-show-ticket-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.67,
+            totalReviews: 1855,
+            guideRating: 4.67,
+            valueRating: 4.66,
+            reviews: [
+                { author: "Evelyn", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Absolutely fantastic, highlight of Ho Chi Min City! Laughed so much and thoroughly enjoyed every second!" },
+                { author: "Mina", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "The water puppets show was so much fun, it was a beautiful cultural experience. If you’re a fan of theatre and a uniquely Vietnamese show, you’ll love this. The driver almost made me miss the beginning of the show, but everything was okay in the end. Slight tip, if you’re keen on a souvenir, please bring cash. They don’t accept card at the venue!" },
+                { author: "Alejandra", country: "Verified traveller review", rating: 5, date: "2026-07-26", text: "I love it!! The puppeteers were absolutely fantastic! Their talent, precision, and coordination brought the performance to life. The stage was beautiful, and every detail of the show was mesmerizing. It was a unique cultural experience that I highly recommend." },
+                { author: "Judith", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "Loved the very unique display of water puppetry. Verse in Vietnamese but very easy to understand the story line. Beautiful music & singing. Well worth a visit" },
+                { author: "Adam", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "So cute! They clearly put a lot of effort into their work. The music was fantastic. While I didn’t understand the language, you can clearly follow the stories through their excellent stagecraft. At 45 min, the show is very easy to take it all in. Highly recommend!" },
+                { author: "Stu", country: "Verified traveller review", rating: 5, date: "2026-06-20", text: "So much fun, and so well put together. Didn't understand a word of it, but it's only 45 minutes, so just sit back and enjoy the cacophony that it is." },
+                { author: "Annette", country: "Verified traveller review", rating: 5, date: "2026-06-12", text: "the noisy and the amazing skills of the puppeteers. language was no barrier" },
+                { author: "liza", country: "Verified traveller review", rating: 5, date: "2026-05-23", text: "Really enjoyed it, Jackie was a great guide, fun, answered all the questions, very interesting." },
+                { author: "Monica", country: "Verified traveller review", rating: 5, date: "2026-05-22", text: "It was so lovely. I did not really know what to expect but it was an all round fantastic experience, which felt authentic and genuine. Excellent live performances from the musicians and narrators, and the puppets were brilliant. I enjoyed each part of the show and laughed a lot - it really didn’t matter that the show was in Vietnamese, the scenes were very easy to understand due to the clever puppetry! Definitely make time for this show if you can!" },
+                { author: "Elisabeth", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "It was such a pleasure to watch this show ! It wasn’t my first time for me but it was for my husband and my son. They loved it !" },
+                { author: "PaFoua", country: "Verified traveller review", rating: 5, date: "2026-05-01", text: "I’ve never been before and it was very entertaining" },
+                { author: "Holly", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "absolutely brilliant, great artistry and worth going" }
+            ]
+        };
+    }
+
+    if (slug === 'saigon-urban-pulse-motorbike-cultural-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Beanca", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "We had a great morning with Soli and Tuyen. they were both so knowledgeable about the history and local gems in both Chinatown and around the city. Would recommend this tour 10/10" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "My driver structured the tour to suit my needs as I had seen some of the chosen points of interests already. Henry was friendly and considerate, I felt safe on the bike with him. His tour was excellent and filled with lots information about local places, culture, history and what traditions are performed in the temple and the meaning behind them. I would recommend a tour with him, I am a solo traveller and felt completely at ease with him." }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city') {
+        return {
+            averageRating: 4.72,
+            totalReviews: 14238,
+            guideRating: 4.83,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Ítalo", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "The tour was great. Big Dave is also an awesome guide - very knowledgeable and funny. Highly recommend this tour as a day trip from Saigon." },
+                { author: "Gillian", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "Our trip began early morning with a very comfortable mini bus. Our tour guide NELSON was fantastic, very knowledgeable with his history! The boat trip, food, lunch, drinks made the whole day very enjoyable, would highly recommend." },
+                { author: "Jenny", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Packed day with lots of worthwhile varied activities and stops! It was fast-paced to keep everyone engaged but I didn't feel rushed during the tour at any point. Highlight of the day trip was our tour guide big handsome David! Hilarious & started the early day with great energy and jokes to get everyone's spirits up. Learned a lot of Vietnamese history and local life from Big Dave throughout the day and he also shared some great food recs on the way back! Highly recommend for anyone visiting HCMC!!" },
+                { author: "Tamara", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Big Handsome Dave was an amazing and funny guide, it was a wonderful day trip, and I am very grateful that I was able to go!" },
+                { author: "Chika", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Phu (the guide) was very informative. We had a great experience learning about the history of Vietnam. Cảm ơn!!" },
+                { author: "Sue", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Big Dave was wonderfully funny and engaging, making the tour very fun and informative. Knows his history very well with the online resources, very very helpful and also engages with us. Highly recommend him." },
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Brilliant tour. Justin (No Beiber) was an excellent guide and was very knowledgeable. Great value for money also. I would recommend this tour to anyone." },
+                { author: "Darwin", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Trip to Cu chi tunnels and tour to Coconut village was pleasant. Little on the hot and humid side for sure. Dress appropriately. More polyester clothing and a handheld fan is a must. Mr Phu was our guide. Very enthusiastic tour guide I must say. Our group of 25 was somewhat large though. So we did end up spending time in Cu Chi waiting around for other smaller groups to clear out before visiting the different stations set up there. Our tour ended up going a little over as well so it made for a long day. But overall, would recommend" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Very good guide was very knowledgeable and spoke good English made everything enjoyable" },
+                { author: "Steph", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "The trip was wonderful! Super impressed with our guide, Lucky, and his vast knowledge of Vietnam’s history and pride for his country and people." },
+                { author: "Bram", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "It started with good morning vietnam, Sang was very nice and shared nice details." },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Amazing value for money, ends up being a very long day but well worth it, a great adventure! Phu was amazing as a guide, he was very knowledgeable and very funny, kept everyone well informed and entertained throughout. I would 100% recommend the tour!" }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-city-mekong-delta-tour-with-coconut-village-visit-ho-chi-minh-city') {
+        return {
+            averageRating: 4.68,
+            totalReviews: 501,
+            guideRating: 4.78,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "it was worth it and we enjoyed it very much. Good escape from the city and didn’t need to think about anything, it was well organised and the guide was excellent! (just remember to bring some cash for tipping the locals or buy their products)" },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Our tour guide Tommy was wonderful. He was thoughtful and shared interesting insights with us. We had a great time, even though it rained heavily at times." },
+                { author: "Adina", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Jack is the best guide I ve had so far in my travels and you can feel how genuine he is when he is being kind. I enjoyed listening to all the information he provided and he patiently listened to all my questions and answered them. You can see how much he cares about the community and respecting it, which impressed me even more. Nac is such an amazing and caring driver, he really made sure we are being well taken care of! I cannot recommend this tour enough, it was an amazing experience!" },
+                { author: "Amelia", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "James was the most amazing tour guide we could have asked for. He was knowledgeable, funny and very welcoming. All the activities exceeded our expectations and my friend and I had a wonderful day. Thank you James for making it happen!" },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Thuận is a great tour guide, I have wonderful experience here" },
+                { author: "Camilla", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "We had a wonderful experience on our Mekong Delta tour, and a big part of it was thanks to our guide, Vinh! 😊 He was extremely friendly, knowledgeable and helpful throughout the whole tour. He explained everything clearly, answered all our questions and made the experience really interesting and enjoyable. We also really appreciated how attentive he was to our needs and how he made sure we were comfortable at all times. The tour itself was very well organized and gave us a great opportunity to discover the Mekong Delta and experience the local culture. We highly recommend this tour, especially" },
+                { author: "Brett", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Living a bucket list item by floating down the Mekong. Bao was great" },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Awesome day out! Viet, our guide was A great happy, funny guide. Always kept us informed along the whole trip. Highly recommend" },
+                { author: "Pablo", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Simon is the best, raise him if you can, he was a fantastic guide" },
+                { author: "Nicholas", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Andy is very informative and overall the tour is worth the money. Lots of place to go with a cheap price. Excellent tour" },
+                { author: "Sue", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Me and mum had an amazing tour today of the Mekong Delta! Minh was an excellent guide who made the day trip fun whilst providing knowledgeable information throughout the tour! Very friendly and always looking out for everyone in the group!" },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "A MUST do trip!! Bac was a great guide. Excellent spoken english, attentive and knowledgeable. The journey was about 2hrs from city centre but the minibus was comfortable. The Buddhist temple was really good. And then onto the boat trip. First stop was honey tea, delicious! Went onto the next boat which was a 4 seater long boat into a local village, where we had tropical fruit, more tea and watched singing and music from the locals. Onto the tuktuk which dropped us off at the coconut factory.. tried some lovely sweets. Back to the boat for lunch where we had an amazing variety of food..: Well" }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-tour-with-optional-shooting-range-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.73,
+            totalReviews: 465,
+            guideRating: 4.78,
+            valueRating: 4.7,
+            reviews: [
+                { author: "Ricard", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Theo was the best guide, he took a lot of care of us, explained everything. We had a blast! Thanks Theo, hoping to see you soon 💪🏼💪🏼" },
+                { author: "Mia", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "The day trip was good! We did the 12pm option and it was great. Kai was our guide; he was very informative and friendly. I would definitely recommend" },
+                { author: "Aaron", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Ele was an excellent tour guide He took pictures and told us more about vietnam history Good tour" },
+                { author: "Julie", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Simon was a great guide, friendly and informative. He made the trip very easy" },
+                { author: "Carolina", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "amazing! Simon was an incredible guide and give us all the details about the place and history behind it. I definitely recommend this half day tour" },
+                { author: "Mika", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "It was an amazing experience! We learned a lot about the Viet Cong, how they lived during the war, and how they defended themselves. Walking through the tunnels also felt very authentic and was an intense and unforgettable experience. I can definitely recommend it!" },
+                { author: "George", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Vinh was a fantastic tour guide, very informative, would recommend!" },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Tony our guide was just brilliant so knowledgeable and passionate about the history of Vietnam (did his Masters in Australia) and really made it an enjoyable experience for myself and my mother :)" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Unforgettable trip and an incredible experience. We did the optional shooting range which was fun and we also visited the Cemetery on the return journey which was really harrowing, especially all the unmarked graves. We stopped for food and drink on the way home which was nice. Big shout ot to our tour guide Alex who was hilarious and educating at the same time. Really enjoyed this tour, can't recommend it and Alex more" },
+                { author: "Niels", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Viet was a great tour guide. He explained everything excellent and is very funny. We loved this tour we would definitely recommend this tour to someone who is interested in learning from someone who has a personal connection to the history of this war. You guys should definitely consider giving Viet a raise." },
+                { author: "Mel", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Had such a great time ! Ele was an awesome guide, lots of knowledge and great personality for tour guide ! Shooting range is fun and tunnels are a must do experience" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Tour was great. Alex (the guide) was full of facts and gave a great sense of perspective to the historical events. The tunnels are well worth a visit." }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-and-mekong-delta-vip-tour-by-limousine-ho-chi-minh-city') {
+        return {
+            averageRating: 4.74,
+            totalReviews: 1708,
+            guideRating: 4.83,
+            valueRating: 4.69,
+            reviews: [
+                { author: "Nancy", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Fantastic tour, and our guide, Tom Cruise was absolutely the best. Super knowledgeable and kind and funny. My best tour in Vietnam" },
+                { author: "Nitin", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Bao: He was friendly, knowledgeable, and engaging. He told the history about the places be visited and guided us proactively. The overall tour was very comfortable." },
+                { author: "Nonso", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "It was amazing. our Tour guide Nick was also awesome" },
+                { author: "Hays", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Great tour and our tour guide, Nick, was amazing and made this tour such a great experience! I did the Cu Chi Tunnels tour with my parents, who are both in their 70s, and we had a fantastic time. Nick was hilarious, super friendly and incredibly knowledgeable. He kept the jokes coming throughout the day and managed to make everyone feel very comfortable. He was also incredibly patient with my parents and never made us feel rushed. Whenever we had a question, Nick was happy to stop and explain things properly. He also went beyond a standard tour script and gave us some really interesting extra" },
+                { author: "Nick", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Tony was an excellent tour guide. knowledge and very funny, a long day out but Tony kept the energy up inside the group. Would highly recommend this tour." },
+                { author: "Mandy", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Our full one day tour to the Cu Chi Tunnel and Mekong Delta was excellent. It is a big day, but well worth it. Ben our tour guide was exceptional. He was extremely knowledgeable about a range of topics and was able to share many insights around the people, history, land, agriculture & culture. We chose to go with the 6 people tour and were very well looked after. It’s very well organised with perfect amount of interesting stops and sights along the way. You get a real taste of the region and history of the area. Fabulous tour with a fabulous tour guide. Highly recommend." },
+                { author: "Luca", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Our guide Minh has been incredible! Thank you so much🙏🏼" },
+                { author: "Meg", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "5 star trip all round, Vàng was an excellent tour guide and very friendly, knowledgeable and informative. Great tour to see 2 completely different sides to Vietnam, Definitely a must do during a trip to ho chi min city!" },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "our day was so good. great value for money and our tour guide Bac was fabulous. so knowledgable and friendly. loved it." },
+                { author: "Shaun", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Genuinely one of the better tours I have done, good mix of everything. Perfect tour to start your trip" },
+                { author: "Kajendiran", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Ele our guide was absolutely fantastic and he made this tour very special for us! I would recommend Ele and Kim our driver any day. This tour was the highlight of our Ho chin Minh trip..,,loved the Mekong Delta Boat trip." },
+                { author: "Rachel", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "We had a fantastic trip today. Our guide Vinh and driver Hieu were wonderful. We loved the Cu Chi tunnels our guide Vinh was so knowledgeable and encouraging." }
+            ]
+        };
+    }
+
+    if (slug === 'mekong-delta-and-cai-rang-floating-market-2-day-tour-ho-chi-minh-city') {
+        return {
+            averageRating: 4.58,
+            totalReviews: 1885,
+            guideRating: 4.77,
+            valueRating: 4.51,
+            reviews: [
+                { author: "Silvia", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We had an amazing experience with our Mekong two days trip. Everything was well organized and all the activities were worth the visit. Our guide Tom (Cruise 😅) was so well prepared and made the experience more authentic and taught us a lot about vietnamise people and colture" },
+                { author: "Kowhai", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Phong was a great guide and this was a trip well worth doing, encompassing many different activities." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Excelent tour guide and experience. Phong was so great, he did explain us very well everything, we noticed that he knows a lot about Vietnamese culture, places and also gave us really good advises and recommendations. His english was excellent and it was pretty easy to understand. The tour fulfilled all our expectations and we follow the schedule perfectly. We give it a 10/10 and 10+ to Phong. Absolutely recommended at 100%!" },
+                { author: "Alessio", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Our guide Lucky was very good and took us on many interesting activities." },
+                { author: "Cecilia", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Nick is literally the best tour guide we had in Vietnam! Nice tour!" },
+                { author: "Vivy", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Really fun trip! Justin was an amazing guide and showed us the best spots!" },
+                { author: "Barb", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Bac our tour guide was amazing, so informative and goes above and beyond. From making noodles to our own pancakes, touring the villaged, meeting the locals, loved every minute. The hotel was fantastic with a great breakfast and rooftop pool and great cocktails to finish the night. Thoroughly recommended 👌" },
+                { author: "Isobel", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "We really enjoyed this trip, great mix of a huge variety of activities along with some free time in the evening shaped by some great ideas by our wonderful guide Simon (very knowledgeable, organised and entertaining). We particularly enjoyed the canoe through the coconut mangroves, cooking class and exploring the rivers of the Mekong. The hotel provided exceeded our expectations and the transport was spacious." },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-06-14", text: "We had a great tour with our guide Vinh. He was knowledgeable and answered all of our questions. He kept the small group moving but we never felt rushed at any stop. We were able to take pictures and ask questions. Highlights of this tour was Cai Rang market and making pancakes for lunch!" },
+                { author: "Alice", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "Had an absolutely fantastic time on this two day trip with James! From the very start, his energy and enthusiasm were contagious. He went far beyond the standard historical facts, sharing fascinating insights into the local culture, traditions, and the daily lives of the people along the river. He has been the kindest and most gentile tour guide. Also, the Mekong Delta was truly amazing. This experience is highly recommended!" },
+                { author: "Andreea", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "It was so interesting learning about the life in Mekong Delta. Phúc was an excellent guide and made sure the activities were well paced and we all got our sunscreen and mosquito spray on😄 plus enough fruit and hydration. We did lots of small tastings, including snake wine 😱. Loved that the shops we went to were all supporting the local community. No pressure to buy, and when we did we knew it was going to be supporting the local businesses. Overall great tour, even learnt how to cook local cuisine!" },
+                { author: "Angelina", country: "Verified traveller review", rating: 5, date: "2026-05-24", text: "Our guide Viet was really fun, helpful and informative. The driver was also skillfull and helpful. The activities flowed into each other really well and then we had free time from around 3.30pm to the next morning, which we really appreciated to experience Can Tho on our own. We appreciated the various activities and crafts places visited, bought some nice foods/snacks to bring home. Being frequent visitors of Viet Nam, the only letdown for us was some of the foods offered by the restaurants visited with the tour, we did not find them great, and also a lot was served and a lot was not eaten so" }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 7730,
+            guideRating: 4.91,
+            valueRating: 4.8,
+            reviews: [
+                { author: "sai", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "⭐⭐⭐⭐⭐ Excellent guide and a wonderful experience! Jacki was an amazing guide throughout our tour. He was friendly, knowledgeable, patient, and explained everything very clearly. We covered all the places included in the tour — Cu Chi Tunnels, Mekong Delta, and Coconut Village — and he made the entire experience enjoyable and memorable. He shared interesting information about the history, culture, and local life, while also making sure we were comfortable throughout the trip. His friendly nature and excellent guidance really made the day special. Highly recommend Jacki to anyone visiting Ho Chi" },
+                { author: "Amy", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Amazing day, great tour with lots of activities along the way. Jackie our tour guide was amazing, very knowledgable and charming. Highly recommend this tour!" },
+                { author: "Austin", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "We had Jackie as our tour guide and he was very knowledgeable and accommodating throughout the trip, especially because we are a bit of a larger group. He was always very patient and happy to answer any questions. Would highly recommend!" },
+                { author: "Hong", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "An excellent tour - it was well organised and packed with many interesting things to do. Our guide, Jackie, is very personable and knowledgeable and he looked after us really well. Especially his explanations during our Cu Chi visit were captivating and we walked away having learnt so much about the Vietnam war. The organisers are also really good with some little touches, like providing some water and snacks for example. We also appreciated their flexibility with pick up and drop off locations." },
+                { author: "Jonathan", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "This is a fantastic way to spend the day and better understand what makes Vietnam a beautiful place to visit. The mix of culture and history throughout the day leaves a lasting impact on every person. Hugo was an amazing tour guide! His mix of humor and knowledge made the whole day unforgettable." },
+                { author: "Leon", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Our bannana tour was a very informative and fun tour. Lam was very kind and knowledgeble. Would tour with him again." },
+                { author: "Ella", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "This tour was absolutely amazing. Our tour guide “handsome” and driver Mr. H were well organised and welcoming. The tour had a lot more activities than I expected, but was consistently well planned and exciting. My partner and I arrived last night and this has been our introduction to the country. We couldn’t be more happy. Great value and a great guide." },
+                { author: "Sherina", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "mario was a great guide and very knowledgeable. it was a really fun trip, would recommend." },
+                { author: "Niklas", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "Super Mario and Luigi! Number one! Chef of Vietnam" },
+                { author: "Satya", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "our guide Mario was awesome! he has a lot of good knowledge and he made the whole trip very enjoyable and informative. he has fantastic sense of humor. we strongly recommend the tour and Mario." },
+                { author: "Marika", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "We loved the tour! Ken was very passionate and knowledgeable about everything he was talking about. We went to many unusual places in one day and saw lots of exciting things. The tour was well-organised with many modes of transport: bus, ferry, local canoe and tuk tuk. I recommend this trip and Ken as a your guide!" },
+                { author: "Guilherme", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "everything was fine, Jackie is nice guide. thanks." }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-morning-or-afternoon-tour-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 7970,
+            guideRating: 4.84,
+            valueRating: 4.79,
+            reviews: [
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We had an amazing private tour of the Cu Chi Tunnels with Nhu. She was knowledgeable, caring and incredibly supportive throughout the experience, taking the time to explain the history of the tunnels and how they were built and used. She made us feel comfortable even when exploring sections of the tunnels and also took plenty of photos for us along the way. This was one of the highlights of our time in Ho Chi Minh City and definitely a tour we would recommend. Nhu was a fantastic guide and made the experience even more memorable!" },
+                { author: "Rhiannon", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "This tour was so interesting and our tour guide Bao was so knowledgeable and passionate about the history of the tunnels and the war. We went through the real tunnel at the end which was very surreal. 10/10 would recommend!" },
+                { author: "Marion", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Our guide Bao told us the story of his country with passion. It was very interesting and moving. This tour was amazing, I feel like everyone should know about the history and I highly recommend this one!" },
+                { author: "Fabien", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "A great morning tour with a hotel pickup in Ho Chi Minh City. Our guide, Bao, was genuinely passionate about the country’s history and thoroughly enjoyed sharing its captivating stories with us." },
+                { author: "Dorian", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "I had a great experience visiting the Cu Chi Tunnels with Tin as our guide. He was extremely knowledgeable, friendly and passionate about Vietnamese history. His explanations were very clear and detailed, and I learned a lot about the tunnels, the war and the life of the people who lived there. The tour was very interesting and well organized from beginning to end. Tin was also happy to answer all our questions and made the experience really enjoyable. I highly recommend this tour, and especially Tin as a guide. Thank you for this great half-day experience!" },
+                { author: "Stephanie", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "This was a great tour! Perfect amount of time and the pick up/drop off made it extremely convenient. Beautiful drive and experience. Kelvin was our guide and we couldn’t have asked for a better one! Thank you!" },
+                { author: "Molly", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "The tour was really interesting thanks to our tour guide Jackie, who was really informative, friendly and knowledgeable. We learnt so much and had a great day! We were worried it would be a long day but it didn’t feel like too long which was a great plus! Highly recommend, thanks Jackie !" },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Our Tour guide Nhu and our driver where great. They were very knowledgeable about Ci Chu tunnels and its rich history. One of the best tours we have ever done.If you are visting Ho Chi Minh City, we highly recommend this tour and this team." },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Our tour guide was Nhu and she was such a wonderful guide. She had extensive knowledge about the history of Vietnam and engaged very well with our group. She was very helpful and sweet and we thank her so much for a wonderful experience!!" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Tinh was awesome and extremely knowledgeable. Was an interesting day and walked away with a new perspective. Would recommend!" },
+                { author: "Tanya", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Our guide Tin was really cool and knowledgeable. Had a great time exploring the tunnels!" },
+                { author: "Leanne", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Luna was a great guide, very knowledgeable and funny. We had a great day and learnt lots about the Vietnam war" }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city') {
+        return {
+            averageRating: 4.75,
+            totalReviews: 4876,
+            guideRating: 4.87,
+            valueRating: 4.81,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Our trip was excellent. We got to see a lot of the area and packed in so many sites. Mario is a brilliant guide , very informative and very funny. Highly recommended." },
+                { author: "Rhys", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Good day trip, Mario and Luigi were great fun and lots of fun information!" },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "It was a lot of fun. The only negative was that we were being hurried a littley but there was so much to see and do that it literally didnt matter. Everything was so fascinating and awesome to see, its definitely worth the trip." },
+                { author: "Kinga", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Really enjoyed our Mekong Delta tour with Phong and our driver Mr. D. Phong was great – always smiling, helpful and really engaged. He told us a lot about the area and local life, but everything felt relaxed and not like a boring history lesson 😄 We had a lot of fun, saw some really cool places and the whole day went super smoothly. Thanks Phong and Mr. D for a great day! Definitely recommend :)" },
+                { author: "Tracey", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Had a great time. Tour was very professionally run, with a great fun tour guide. BANANAS!!" },
+                { author: "Valery", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "I had a good journey during this tour thanks to Ken who took good care. I recommend him as a guide, i learnt a lot of Vietnam culture and his availabity was very appreciated." },
+                { author: "Anh", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "It was an amazing experience. Our tour guide Lam was very knowledgeable and made the whole experience very pleasant." },
+                { author: "Amberly", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "We had a fantastic trip and could not have had a better guide than Phong, who is so knowledgeable and has a wicked sense of humour. We booked our tour very last minute (online late the night before) and they still accommodated us and collected us from our hotel (district 1) and dropped us back there. Amazing value for money and the group was really great. I’d highly recommend this tour (our driver Dee was also wonderful). We even got to hold a boa constrictor (named John Wick) Such a memorable experience" },
+                { author: "Edith", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "excellent tour and Phong is a great tour guide and Mr D was taking and bringing us back safely." },
+                { author: "Esme", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Had a great time, Phong was an excellent tour guide, we felt very safe with Mr D driving us, all over a great experience!" },
+                { author: "Anastasia", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Really enjoyed this trip. The guide was informative and I liked hearing about the history of the Mekong and how life along the river works, it made the whole day more interesting than just sightseeing. The coconut candy workshop was a highlight, seeing how it’s made and tasting it fresh. The sampan ride through the narrow canals was my favourite part, very peaceful and beautiful. Overall a great experience and a good way to see the delta. Would recommend." },
+                { author: "Ahcen", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "Our day trip was amazing, Tam our tour guide was very resourceful, he not only showed us the places but made sure we understood the history of this amazing country." }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-mekong-delta-islands-boat-and-tuk-tuk-tour-with-tastings-ho-chi-minh-city') {
+        return {
+            averageRating: 4.79,
+            totalReviews: 3187,
+            guideRating: 4.89,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Roger", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "A great day with the guide Phong and Mr D the driver. Phong shared a lot of information about local areas and culture. He has a great sense of humour and lots of energy! The lunch was tasty and plentiful. Happy to recommend this tour." },
+                { author: "Rafael", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "It was excellent. Our guide Phong was the best, so kind, attentive and friendly. Couldn’t ask for a better guide." },
+                { author: "Joji", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Very nice tour guide, Mr. Mario. I had so much fun." },
+                { author: "Aurelie", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "The experience was excellent and Nim was an excellent guide, providing extra bits of interesting information. His English was great which was really helpful for us too. The only thing I would say was is that it was a little rushed, which created a job for me keeping my husband on time 😂 also the lunch was tasty but could have had a little more flavour. Overall, would highly recommend 👍🏻" },
+                { author: "Weronika", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Tim was great guide, he’s a local and he knows a lot of Interesting details about local life.Food was delicious, and there was lots of it! Highly recomended" },
+                { author: "Angela", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "This was a great day. We took a private tour as we are elderly (68 & 71) and wanted to do it at our pace and have support getting on and off boats. Ethan our guide was excellent and really looked after us. He freely shared his extensive knowledge and ensured we were safe and enjoyed everything on offer. Our lunch was excellent and there was no way we could eat it all. Our driver was also excellent. The entire day was outstanding and I would recommend this tour, especially if you get Ethan as your guide." },
+                { author: "Camila", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Lam the guide of Banana group was the best, he had an amazing English and he explained everything not only about the things related to the tour, also about the history of Vietnam, it was so much more than I was expecting, I'm really happy about the whole tour, every time that I've taken a tour before I've felt disappointed but this time was completely the opposite, if I could rate 10 stars I'd do." },
+                { author: "Marko", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "I really reccomend this tour. It is super funny, interesting and good way to learn something and see how people live in this area. Lam is great tour guide. For sure, I’ll do again. BANANA !!! 👋" },
+                { author: "Cèlia", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "We spent a great day with Phong! The tour included a boat ride, trying different snacks, lunch, local music… The pace is quite fast but this way you get to experience so many different things! It’s a great way to get outside the city, would recommend :)" },
+                { author: "aishling", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "ken was knowledgeable and very well organised. it was an excellent tour" },
+                { author: "Nicola", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Jakie was a great guide! very nice and very knowledgeable. recommended activity!" },
+                { author: "Ngoc", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Niệm was my tour guide. I booked the tour with my 80 year old aunt amd she doesn't speak English. He guided with the 2nd language even though we booked the English version. My aunt got really tired in the middle of the trip so he was able to accommodate her. The experience with the whole was phenomenal. My favorite part was getting on the boat and tuk tuk." }
+            ]
+        };
+    }
+
+    if (slug === 'premium-scooter-street-food-tour-michelin-optional-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.94,
+            totalReviews: 5939,
+            guideRating: 4.97,
+            valueRating: 4.91,
+            reviews: [
+                { author: "Mirriam", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "The best food tour I have ever done. Our guide was so charismatic and knowledgeable. I booked the female driver and I would recommend 99999/10 it was fantastic!" },
+                { author: "Kavana", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "100% should book this tour. Tri was awesome and this was a great way to try local food & see the city." },
+                { author: "Allan", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Loved every moment. Learnt a lot about the history of Saigon, its people and their food. I also got to try some incredible food that I’d normally walk past." },
+                { author: "Rhiannon", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "This was one of my favourite tours in Vietnam! It was so enjoyable despite the rain! We got given rain covers so this was a huge plus. We drove to multiple different food spots that we would have never been able to find if we weren’t shown around. The food was incredible and a highlight for me was the banana sticky rice and the pancake. The live music at the end was also incredible. Huge shout out to Leon and Chinny!" },
+                { author: "Sean", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Lovely tour. Guides really knew the city, and what they were bringing us to. Well worth going on this tour." },
+                { author: "Poete", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Today’s excursion was absolutely amazing. Your whole team did a fantastic job, and we received so much clear and interesting information about all the places we visited, the food, the local background, and the history. It was truly a wonderful experience! A special thank you and big compliment to Genny, who drove me around. What an amazing personality and such incredible enthusiasm! On the way back, she even took the time to show me a few extra special sights. That really made the experience even more memorable. Thank you all for an unforgettable day! 🙏😊Gr,Poete Ramkhelawan" },
+                { author: "Miriam", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "⭐️⭐️⭐️⭐️⭐️ Absolutely Fantastic Food & Motorbike Experience! We did the 12 course Food Tour by motorbike with two wonderful female drivers, and it was honestly one of the highlights of our trip! The food was absolutely amazing, and every stop was delicious and well chosen. The whole tour was so much fun, but what really made the experience special was our tour guide, Grace. She was exceptional — friendly, knowledgeable, attentive and made us feel completely comfortable from start to finish. 10/10 for Grace! And Cherrie too!❤️ The motorbike experience was also such a lovely surprise. It was exc" },
+                { author: "Jeremy", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "It was a great tour! I’m sorry I forgot my guides name but he offered a great guide thru the food and the areas and was helpful the entire time. Would definitely recommend." },
+                { author: "Tasia", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Excellent experience, both in tasting and bike riding." },
+                { author: "Aleksander", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "It was amazing expierence. Jaden is great tour guide, good talker and patient listener. :) If you are in Ho Chi Minn city you have to try it! 10/10" },
+                { author: "Warrick", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Finn and Hanson and the girls were great hosts. Being able to motor into the heart of HCM was sensational. The food was so tasty and interesting. Finn provided a very interesting commentary." },
+                { author: "Vanessa", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Rucco was an amazing guide. we did this as a family of 5 with teens and it was great fun, all drives were super friendly and we learnt and seen so much. Would definitely recommend" }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-guided-tour-with-am-pm-departure-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.72,
+            totalReviews: 24013,
+            guideRating: 4.82,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Reiner", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Great experience. I learned a lot about Vietnam and the war. Bao is a great guide 👍" },
+                { author: "Matt", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "I was looking forward to this for a long time and it did not let me down, Ele our guide was fantastic and very knowledgeable and helpful, the trip delivered on so many levels and I would definitely recommend" },
+                { author: "Luciana", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "The day was amazing. Ele was incredible and share the good experience with us." },
+                { author: "Santiago", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We left Ho Chi Minh City early in the morning and arrived by 10 am after stopping at the centre were the handicap people from the war work. Then, in the Cu Chi Tunnels we learnt a lot about the Vietnam war and how the Vietnamese army defeated the USA. Our guide, Lucky, was great. He knows a lot about the history of the war, the town and the consequences of this in Vietnam. We really enjoyed our tour because of him. We also had the chance to shoot a round of bullets in the shooting range. That was great as well. We highly recommend them for this kind of tours" },
+                { author: "Moritz", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "All the interisting stories Thuan told us about the war" },
+                { author: "Rowan", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Very informative and interesting. Thuan was great and a friendly guide!" },
+                { author: "Tal", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Great experience! I went with the guide Bao, who speaks great English and is an awesome instructor. He created a fun, funny, and great atmosphere throughout. Thank you so much!" },
+                { author: "Gry", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "It was amazing. SANG was such a good guide. He was good at telling the story of the war and making us aware of everything we saw. He was in a good mode the entire trip, which was soo nice." },
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "This trip was amazing! Our tour guide Sang was so lovely and helpful throughout the whole trip, highly recommend him!!" },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "A must see trip! Viet was the perfect guide, great English, very informative and made the trip fun! Highly recommend" },
+                { author: "Marine", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Really good day trip from HCMC with pick up in District 1. Vinh the tour guide was very knowledgeable and happy to take all the pictures and videos you want. He made sure everyone got their turn getting in the tunnel" },
+                { author: "Danielle", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "The tour was amazing, our guide Bao was very informative and funny! Thanks a lot for this day trip, highly recommended!" }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-city-mekong-delta-tour-with-sampan-ride-and-local-lunch-ho-chi-minh-city') {
+        return {
+            averageRating: 4.53,
+            totalReviews: 14266,
+            guideRating: 4.74,
+            valueRating: 4.59,
+            reviews: [
+                { author: "Prithvi", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Timber was a brilliant guide - he has very good energy and takes the time to learn everyone’s names. The day trip was fantastic too." },
+                { author: "nilay", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Guide was sooo nice his name is BAC . I appreciate him😊👏🏻" },
+                { author: "Rares", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "The best price-quality ratio. The tour was very complex, with a lot of cultural elements. We were nkt rushed and we could take our time to admire the beautiful coconut village, even took a short bike ride. Recommend this tour 100%. Also, Phong is the best guide!" },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Very good. Our tourguide TheVeryBigAndHandsomeDave was very nice and funny." },
+                { author: "Neper", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "I recommend this tourist guide very friendly and easy going Ele." },
+                { author: "Federica", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Really a good experience, our guide Thuan is an expert in everything local and has explained it very well Thanks for the beautiful day" },
+                { author: "Patrycja", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "The tour was really nice. The guide Tom was funny and kind. I would totally recommend." },
+                { author: "Joel", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Tom Cruise was great and I really enjoyed the trip. Highly recommend" },
+                { author: "Isabella", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Our guide Beo was an incredible guide, one of the best ones I have ever had! He is so positive and makes very nice and genuine jokes so the whole group laughs a lot thanks to him! Absolutely loved the places with visited and Beo contributed to make the experience fantastic! Highly recommend" },
+                { author: "Adam", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "The experience we had was wonderful with nice people to keep us company and we learned so much about culture. Especially because our tourguide vinh is wonderful and very insightful about the tour. 100% recommended if you get vinh." },
+                { author: "Ciara", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Vinh was absolutely amazing and made the tour great! Definitely recommend" },
+                { author: "Lana", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "We had a fantastic time, our guide Bao was friendly and informative. The food was great, definitely worth the money!" }
+            ]
+        };
+    }
+
+    if (slug === 'vung-tau-beach-full-day-trip-with-lunch-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.49,
+            totalReviews: 391,
+            guideRating: 4.63,
+            valueRating: 4.44,
+            reviews: [
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "A Great Experience. Great Guide & Driver. Great Tour & Lunch. Would have loved them both to join us together at the Dining Table. Will Definitely recommend It 🙏" },
+                { author: "Rani", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "I totally enjoyed the trip. Our guide John was very helpful, personable and knowledgeable." },
+                { author: "Anand", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "We had an amazing trip to Vung Tau with Millennium Travel, and it turned out to be one of the highlights of our Vietnam vacation. A special thank you to our guide, Huyen (Heidi). She was by far the best tour guide we had during our time in Vietnam. She was incredibly friendly, knowledgeable, well-organized, and made everyone feel welcome throughout the day. The entire trip was excellent, from the beautiful sights to the delicious food and drinks. Everything was well planned, the service was outstanding, and we felt it was absolutely worth the money." },
+                { author: "Philip", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Well worth the money 💰 Tour guide Monie was informative and very helpful 👏" },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-02-07", text: "Very nice tour guides. They catered well to all languages and gave good information." },
+                { author: "Danny", country: "Verified traveller review", rating: 5, date: "2026-01-18", text: "Cihun was excellent guide Nice and efficient Good job and good luck" },
+                { author: "Kristina", country: "Verified traveller review", rating: 5, date: "2026-01-16", text: "This tour is great! It already started out perfectly the night before where my guide Sally reached out via whatsapp to make sure I remembered to wear modest clothes for the Jesus statue we visited. Sally is a happy, smiling and such a sweet guide to have with you. She took the time on the bus ride out to learn us some Vietnamese and also came with recommendations to experiences in Ho Chi Minh. Along the tour we were well informed by her about the history in Vietnam, I especially enjoyed The White Palace and all the things we learned there. The beach was relaxing, nice and calm area with lovely" },
+                { author: "Sungyong", country: "Verified traveller review", rating: 5, date: "2026-01-04", text: "guide- Nikki treated us like a close family- her attitude and big smile made us very comfortable- cam on Nikki !!" },
+                { author: "Viktoria", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "we were just 7 people in huge bus so it was comfortable. Our Guide Hung was great. food in seafood restaurant was great and a loooot. beach was wavy but I managed to swim. everything was great" },
+                { author: "Roman", country: "Verified traveller review", rating: 5, date: "2025-11-11", text: "The food in the fish restaurant was very good for the price. Beach facilities and the beach itself are excellent. Tour guide seemed to be quite a beginner, but he knows a lot about the places we visited. You just need to ask him when you want to know. Slightly wrong information was provided about visiting statue before the tour: it is not enough to cover knees, the full leg should be covered instead." },
+                { author: "Soraia", country: "Verified traveller review", rating: 5, date: "2025-11-10", text: "⭐️⭐️⭐️⭐️⭐️ My excursion to Vung Tau was absolutely fantastic! The day was filled with sunshine, great energy, and stunning views. Our tour guide Heidi was truly exceptional — she was extremely knowledgeable, very well prepared, and shared so many interesting facts throughout the trip. On top of that, she was incredibly friendly and made everyone feel comfortable and welcome. It was a wonderful experience overall, and I would highly recommend this tour to anyone visiting Vietnam!" },
+                { author: "Chee-Seng", country: "Verified traveller review", rating: 5, date: "2025-09-11", text: "Amazing Guide Simon / Duoc informative making the trip to Vung Tau special on a hot day. There were refreshments at opportune times, especially at the beach under a parasol. He doesn't forget his last tourist as I had an adventure going up to see JC, 900 hundred steps, but the view is unmissable one of the best attractions in Vung Tau." }
+            ]
+        };
+    }
+
+    if (slug === 'can-gio-mangrove-and-monkey-island-trek-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.74,
+            totalReviews: 705,
+            guideRating: 4.84,
+            valueRating: 4.63,
+            reviews: [
+                { author: "Alicja", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Khoa was phenomenal! He gave us a lot of backstory and insight. Had lots of fun facts about the monkeys and crocodiles. Would highly recommend for a chill day out of Sajgon" },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "We are a family of three and we had an excellent time. Our tour guide Noah was very friendly and knowledgeable. He answers all of our questions. This tour was worth the money. Food was delicious too. I would recommend this tour for everybody." },
+                { author: "Mathilde", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Super trip! Theo was wonderfull, funny and very interesting. We saw a lot of monkeys, you feed them that is so nice! Would recommend 100%" },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "The Tour was great. Seven, our Tour Guide, was an amazing and everything was so overwhelming :)" },
+                { author: "Luca", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Our female guide, Sam, was excellent at giving instructions and explanations. The monkeys are really cute, but you have to be careful with various items (smartphones, hats, bags, glasses, etc.)—it is best not to leave them too exposed, especially in front of the alpha monkeys. The guide did a great job of letting us know when we could use our phones and take photos. She was also very knowledgeable about the guerrilla camp and handled the rest of the excursion—including the river boat trip, the visit to the fish market, and the temple visit—expertly." },
+                { author: "Frederic", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "Fantastic day out with the excellent guidance of Sam !" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Sam was an amazing help and a great guide - John and Matthew" },
+                { author: "Miroslav", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "Great trip, perfect experience. Especially the guide Sam was great. Helpful, always looking after us, just there when you needed her." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "We had an amazing time on our guided tour to the monkey sanctuary. Sam was our guide and she was fantastic. She explained everything thoroughly, gave us lots of time to explore, and had a great sense of humor. Elise planned a great trip and we will definitely book with SST tours again!" },
+                { author: "Narelle", country: "Verified traveller review", rating: 5, date: "2026-07-26", text: "Theo was an amazing guide, going above and beyond. Theos knowledge of the areas was high and was able to answer all.of our questions. Our driver was an expert in all road conditions. we encountered some minor flash flooding from a brief storm and it was nomproblem at all. I can honestly highly recommend SST Tours" },
+                { author: "Joe", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "The trip was fantastic! Khoa Khanh, our guide, was extremely knowledgeable and made us feel comfortable from start to finish. He was able to tell us what to expect and helped us with advice along the way. Communication before the trip was clear and helpful. Pick up was slightly late due to traffic and they messaged to confirm this which was really helpful. 100% recommend this trip!" },
+                { author: "Stanley", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "the trip was brilliant, really fun. the monkeys are staying in humane conditions and can wander wherever they please in the vast mangrove forest. the crocodile exhibit was great. Athough it was maybe a little small, the crocodiles seemed to be thriving. our tour guide Mia was fantastic. she was funny, friendly and informative, and definitely made our trip a 10/10. the special forces base deep in the mangroves was also great, it has been dutifully restored to its condition during the war, and we really got a sense of how difficult life was for the heroes of the NVA and VC. The food too was grea" }
+            ]
+        };
+    }
+
+    if (slug === 'from-hcm-mui-ne-day-trip-with-fairy-stream-and-sand-dunes-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.73,
+            totalReviews: 129,
+            guideRating: 4.83,
+            valueRating: 4.64,
+            reviews: [
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "The Trip was very very good! The Guide was funny and professional! Food was amazing and the places where beautiful!" },
+                { author: "Vivian", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Very satisfied with the trip, our guide Louis was very good. I was a solo traveller and met some friends on the way. Highly recommended." },
+                { author: "Henrik", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Super tour, had everything you wanted. Good value for money. Amazing lunch and activities!" },
+                { author: "Jeanette", country: "Verified traveller review", rating: 5, date: "2026-03-14", text: "nice to get out of the city and see the more beachy side of Vietnam. some very scenic places. it's a long way to travel, so only spent half an out at the beach. that said it was very windy. the lunch was very good. the guide was very lovely, and looked after us very well" },
+                { author: "Andrzej", country: "Verified traveller review", rating: 5, date: "2026-03-02", text: "We recommend this tour, it's very interesting. The guide, Tom, is very approachable and provides valuable information. The views are beautiful. The lunch was very good, even though the portions were too large for us. Overall, it's worth it." },
+                { author: "V", country: "Verified traveller review", rating: 5, date: "2026-01-14", text: "Amazing tour! Itinerary well planned with lots to see and do. I loved the sand dunes, ATVs, camel ride. Many activities options for those wanting to try something else. All my pictures turned out Instagram worthy! Louis is a awesome tour guide, very attentive and knowledgeable! Driver and limo bus was also enjoyable, comfy seats and massage chair, I'm spoiled now and I wouldn't travel long hauls any other way. The travel time was not long at all, I took naps and enjoyed the view along the way. I took many tours and would highly recommend this one!" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "I enjoyed how easy everything was to book and board. The driver was skilled and navigated traffic like a pro. The guide was amazing and explained everything and had such a warm personality! I had so many photos courtesy of our guide, she went above and beyond. I highly recommend this day trip. I enjoyed the food by the beach as well, plenty of variety." },
+                { author: "Ethan", country: "Verified traveller review", rating: 5, date: "2025-12-04", text: "We really enjoyed this tour, our guide Rick was so nice and really helpful, and made sure to explain to us if we wanted to ask questions he was open to them. I think for us personally the travel from HCM and back is very long thus making the entire day pretty much travelling and the activities don’t last long enough because of this. This is not a reflection on this guide or the company just on the fact that we based ourselves in HCM and it took a long time to get to the places we wanted to see meaning most of our day trip was actually spent on the bus. I would definitely recommend this tour co" },
+                { author: "leona", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "This was the highlight of my trip so far! I was picked up on time and luckily the group I was with were amazing company. The fairy stream was beautiful and cooling. The fishing village was cute. Then the white sand dunes were Fantastic!!! Racing back to the red dunes to watch the sunset was so wonderful it’s worth every penny and more! Our guide Tùng is hilarious and great energies! I would definitely recommend this trip! I will be back with the family. Thank you Tung & Arron xxx" },
+                { author: "CT", country: "Verified traveller review", rating: 5, date: "2025-10-20", text: "Phu was a fantastic host. Very knowledgeable and funny! My daughter and I enjoyed it very much" },
+                { author: "Zack", country: "Verified traveller review", rating: 5, date: "2025-05-04", text: "A really well planned itinerary! no time was wasted. Our guide for the day was Jade and she did an excellent job in explaining the lesser known facts of the sites and made the effort to build rapport with the group. The white sand dune was the highlight for me. Trying the ATV is a must." },
+                { author: "Dustin", country: "Verified traveller review", rating: 5, date: "2025-05-01", text: "Our tour guide (Danny) was fun, energetic, positive, and well organized. He clearly communicated with us from the very beginning in arranging our hotel pickup in Ho Chi Minh City (HCMC) District 1. That communication continued throughout the experience. The group was relatively small (9 people total) and the \"SkyBus\" we traveled in is the most comfortable transportation we've ever had for a full day excursion. We had rest stops at locations with good facilities. We enjoyed the break from the frentic chaos of HCMC (which was especially so during the week of the 50th Anniversary of Vietnam's Reu" }
+            ]
+        };
+    }
+
+    if (slug === 'from-hcm-2-day-mui-ne-highlights-trip-with-overnight-stay-in-ho-chi-minh-city') {
+        return {
+            averageRating: 3.81,
+            totalReviews: 10,
+            guideRating: 3.81,
+            valueRating: 3.81,
+            reviews: [
+                { author: "Jeanine", country: "Verified traveller review", rating: 5, date: "2025-08-01", text: "The guide Day 2 was terrific and spoke English well. Day hotel mix up was terrible In the end we paid extra and got what we believed you were were selling. YOUR PERSON the HOTEL RANG HUNG UP ON ME. I have never had this in 50 years of travelling. Good luck!" },
+                { author: "Linh", country: "Verified traveller review", rating: 5, date: "2024-10-07", text: "The activities were really good, we had lots of fun driving the atvs and made lots of pictures. We had a good stay at the hotel :) everything worked out very well thanks to victor for the Organisation of the hotel and the trip and to our two tour guides Thinh. He made lots nice pictures and gave us recommendation for the hotel. And Danh alias Sam for the tour on our second tour “, he was a very clever handsome tour guide who provided lots of information and advices. Thank you very much we had a wonderful trip!" },
+                { author: "Sting", country: "Verified traveller review", rating: 4, date: "2026-09-02", text: "The tour is good for young people. Driving jeep to challenge the sand dune, walk along with the Fairy Stream to experience the unexpected storm...etc. But the infrastructure is not good enough. I suffered by the swing bus while driving on the road. Hopefully, it can be improved some years later." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-12-14", text: "Bra guider. Bra organisering. Bra hotell. Mui Ne er fint. Fine strender og avslappende atmosfære. Severdighetene er ikke så imponerende. \"Fishing village\" er bare ei forblåst strand med noen medtatte fiskebåter og mye søppel. De andre severdighetene er greie, men det spørs om de er verdt så mange timer i buss. De hvite sanddynene var en stor attraksjon, men passer best for de som liker å kjøre ATV i sanddynene. Mange tilbud her, men ikke mye tid om du vil ta del i flere ting. Mui Ne er et avslappende sted. Strendene så reinere ut her enn mange andre steder vi har sett i Vietnam. Alt i alt en g" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-04-29", text: "the fairy springs and the white sand dunes" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-02-09", text: "Everything was perfect and beautiful. I am gratefull for this aventure and I’m leaving with a lot of breathtaking memories." },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-12-16", text: "Leider war dieser Ausflug eine durchwachsene Erfahrung, die mit einer schlechten Organisation und mangelndem Service begann. Die Informationen zur Abholzeit kamen erst am Vorabend gegen 21 Uhr, was unnötigen Stress verursacht hat. Zudem erhielt ich diese Details nur, nachdem ich die Extragebühr bestätigt hatte – ein ziemlich fragwürdiges Vorgehen. Der Tourguide am ersten Tag war wenig hilfsbereit. Ich hatte einen größeren Rucksack dabei, da ich eine Nacht in Mui Ne übernachtet habe. Anstatt diesen ordnungsgemäß im Kofferraum zu verstauen, legte er ihn einfach in den Gang, was nicht nur unprakt" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-08-30", text: "My 2-day, 1-night getaway to Mui Ne was brief but unforgettable. The white sandy beaches, the chance to try ATV over the dunes, and delicious fresh food completely won me over. Despite the short stay, I felt recharged and am eager to return. Special thanks to Vivian and SST Travel for making this experience so wonderful!" }
+            ]
+        };
+    }
+
+    if (slug === 'cu-chi-tunnels-black-virgin-mountain-and-cao-dai-temple-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.71,
+            totalReviews: 487,
+            guideRating: 4.75,
+            valueRating: 4.57,
+            reviews: [
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Fantastic tour. such a great time. Tien our guide was great. Great day." },
+                { author: "Joe", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "This trip is brilliant! It is a long day but totally worth it. Travis was our guide and he was excellent from start to finish. He taught us a lot about the history of Vietnam and also allowed us time to explore on our own. He communicated really clearly and told us how long each section of the journey would take. A few of the people on the trip didn’t want to go into the tunnels and he respected that - no one did anything they felt uncomfortable with. Overall, a great day and I would 100% recommend it." },
+                { author: "Ava", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "Communication levels from both the tour operator and guide were so amazing! They helped us with everything we needed. We had to cut our tour shorter and Huy helped us out so much with transport back. Very informative. Quite a fast paced tour and overall amazing experience!" },
+                { author: "Rell", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "It’s a good tour to experience a lot. We’ve seen so much during this tour and pretty happy of the experience" },
+                { author: "Jonathan", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "be prepared for a long day! But it's a jam packed day of seeing three things at one go and have things ticked off your list. our guide duy was informative and nice!! we were lucky as it started raining towards the end of the trip." },
+                { author: "Nancy", country: "Verified traveller review", rating: 5, date: "2026-06-14", text: "The trip was really good despite the rain at the end at Cu Chi Tunnels it was still an amazing experience our guide Binh was really knowledgeable and fun very attentive to each one of us . And best part we were picked up and dropped off in our respective hotels Had a great time !" },
+                { author: "Spyros", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "The communication when i booked the trip was professional.The programme was amazing!! Thanks" },
+                { author: "Rajesh", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "Absolutely Amazing tour. Our tour guide Danny was superb and very informative. Authentic Vietnamese launch was delicious too." },
+                { author: "Joy", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "The highlight of the day was Cao dai church for me. Lucky to see the praying ceremony, very unique experience! Our guide Kenny was helpful and friendly, and kept us informed of the itinerary throughout the day. Our van driver drove smoothly." },
+                { author: "Matt", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "Amazing trip, fantastic guide Noah & very safe driver. Couldn’t recommend this trip enough, you do and see so much, even more than the itinerary states! You must see the new Buddha statue built in 2025 and you learn so much at the tunnels! Food was delicious for lunch & finally we must mention Noah again, he’s very attentive, knowledgable & fun thank you Noah!" },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "Tom has been an amazing guide. The three activities included in the tour are really interesting and worth it. Even though it's a long day (left at 7am came back at 7:45pm), it was well organized and very interesting. I'd recommend to bring a book or snacks for the bus, since you're spending some time in the van and there's only lunch included." },
+                { author: "Markus", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "We greatly enjoyed our trip to Ba Den Mountain which is an impressive architectural site. Our tour was organized by Dolphin who we had great communication with. Our tour guide Danny was fantastic. He shared a lot of information with use and was able to answer all our questions We highly recommend this tour and SST Tour Operator. Thank you Dolphin and Danny" }
+            ]
+        };
+    }
+
+    if (slug === 'shopping-tour-with-local-guide-in-saigon') {
+        return {
+            averageRating: 4.85,
+            totalReviews: 7,
+            guideRating: 4.85,
+            valueRating: 4.85,
+            reviews: [
+                { author: "Gemma", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Lucas helped us navigate through the busy markets, we were a bit apprehensive about going by ourselves so it was well worth it having a local with us. Thank you Lucas we had a great day" },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-01-04", text: "Lovely tour with Daniel (Cole). He was kind, professional, and patient! Highly recommended" },
+                { author: "Rasika", country: "Verified traveller review", rating: 5, date: "2026-01-03", text: "The tour was great. The guide was very sweet. I highly recommend this to everyone." },
+                { author: "Patricia", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "A great experience. Not just shopping but also learned much about Ho Chi Minh & it's history. Cole was a fantastic guide - lots of good tips with the bartering & moral support. The apartment shops were really unique & interesting." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-01-31", text: "leuke tourguide die het interessant maakte. deen met vragen indiensttreding vertelde over de stad. bezoeken zijn ok. je kan veel ook op eigen initiatief bezoeken. we hadden meer de hidden gems willen zien dan bijvoorbeeld een grote mall" },
+                { author: "Bryce", country: "Verified traveller review", rating: 5, date: "2025-06-21", text: "Wonderful tour with a very knowledgable guide" }
+            ]
+        };
+    }
+
+    if (slug === 'lively-saigon-skyline-view-river-cruise-walking-tour-ho-chi-minh-city') {
+        return {
+            averageRating: 4.64,
+            totalReviews: 314,
+            guideRating: 4.56,
+            valueRating: 4.47,
+            reviews: [
+                { author: "Sai", country: "Verified traveller review", rating: 5, date: "2026-01-25", text: "Tien my walking tour guide was super amazing and chill and showed me around the whole of Ho Chi Minh. Super knowledgeable, super fun and a great dude overall" },
+                { author: "Joseph", country: "Verified traveller review", rating: 5, date: "2026-01-23", text: "Tien was great! Thanks for showing us the best historical sites in the city and personalizing the visit for us! Highly recommend!" },
+                { author: "Gerasimos", country: "Verified traveller review", rating: 5, date: "2025-12-15", text: "I would prefer that cruise would last more (1,5 hrs - 2 hrs). That is just a suggestion!!" },
+                { author: "Seung", country: "Verified traveller review", rating: 5, date: "2025-12-13", text: "It was much better than we expected. Thank you V for nice talking and all staff in the boat. They are super nice." },
+                { author: "Marian", country: "Verified traveller review", rating: 5, date: "2025-12-11", text: "The best way to see, hear, smell and taste the hussle and bussle and most importantly, the food of Vietnam. Our guide Denny was entertaining and knowledgable. Our drivers were confident and capable managing with ease the mad Saigon traffic. An experience to remember!" },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2025-12-09", text: "We took the cruise at sunset. It is a beautiful journey seeing all the lights of HCMC. The complimentary ice cream and Vietnamese live music were an unexpected pleasure." },
+                { author: "Kenny", country: "Verified traveller review", rating: 5, date: "2025-12-07", text: "Beautiful views, great commentary, great live music, and dancer. Comfortable seating." },
+                { author: "Aleksander", country: "Verified traveller review", rating: 5, date: "2025-12-04", text: "Very satisfying experience - we had a night cruise on the river and the viewes were really good. In a price of a tour you get the cruise, ice cream and live music concert." },
+                { author: "Gaia", country: "Verified traveller review", rating: 5, date: "2025-12-01", text: "100% booking the evening/night slot the view of the city lights from the river is stunning!" },
+                { author: "Kathleen", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "Loved the live music and short descriptions of what we were seeing without being continuous. The free ice cream was also a perk!" },
+                { author: "Tracey", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "This was the highlight of my trip! Even though we had done the hop on hop off bus at night, nothing beats the view from the water and the surprise solo Sax player will be a moment I remember for a lifetime." },
+                { author: "Allan", country: "Verified traveller review", rating: 5, date: "2025-11-22", text: "Lovely sights at night along the river. Added bonus of the ice cream and the violinist! Highly recommended." }
+            ]
+        };
+    }
+
+    if (slug === 'mosaic-art-workshop-in-a-secret-spot-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.0,
+            totalReviews: 3,
+            guideRating: 4.0,
+            valueRating: 4.0,
+            reviews: [
+                { author: "Corina", country: "Verified traveller review", rating: 4, date: "2025-07-12", text: "My daughter and I enjoyed a lovely morning creating our mosaic." },
+                { author: "Ingrida", country: "Verified traveller review", rating: 4, date: "2025-06-09", text: "Nice experience to try, however it is not in district 1 and none drinks were included in the price. Bank transfer or cash only, no card payment." }
+            ]
+        };
+    }
+
+    if (slug === 'elite-luxury-cruise-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.76,
+            totalReviews: 150,
+            guideRating: 4.76,
+            valueRating: 4.62,
+            reviews: [
+                { author: "Cliff", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "The entire experience exceeded my expectations. While the food was good, the service was exceptional and the views of the city skyline from the top deck were unmatched. If that wasn’t enough, the live entertainment followed by fireworks made the overall experience unforgettable. Book with this cruise line and you won’t be disappointed." },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "We were serve by Ha Vy. The minute we enter the cruise she serve us with a big smile super welcoming. I didn’t know what to expect, but she made this whole experience phenomenal. She is really attentive to us and making sure we feel welcome. This is our first time in Vietnam and She make me want to come back and do this again." },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Ha Vy serve us and I must say her service is phenomenal. I can’t expect any better service than her. She definitely made us feel so welcome and explained all the course well. She is amazing and helped us take us pictures and really attentive. I can’t thank her enough. She made this experience so beautiful’" },
+                { author: "Timur", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Excellent organization, Excellent staff, delicious food and amazing view. The best service in the city, especially Hao Lu" },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-05-15", text: "Great date night but ends a bit early (930pm). Quyen Vo gave excellent table service, best hostess. Drinks not included and were a bit expensive. Would recommend." },
+                { author: "Nolan", country: "Verified traveller review", rating: 5, date: "2026-05-13", text: "Truly an Elite Cruise indeed! This luxury dinner cruise on the Saigon River was totally worth it! It started when we met our hostess at the meeting point at the port around 7 pm and ended when the boat returned to port around 9:30–10 pm. The first thing we did after boarding was enjoy the dinner buffet, which was plentiful, varied, and truly amazing. After dinner, we all headed up to the top deck to take in the stunning Saigon skyline at night. We enjoyed the live music and dance performances that took place throughout the cruise — from inside during dinner to outside on the top deck. The staf" },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2026-05-04", text: "We loved it what a wonderful time we had. Food amazing staff fantastic especially Vinh Nguyen Would thoroughly recommend to all Atmosphere fantastic. Star deck afterwards breathtaking. The lights make it and the band." },
+                { author: "Cristina", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "An unforgettable experience, wonderful staff, amazing band, great selection of quality food catering for a variety of tastes, I highly recommend getting aboard of Elite, to enjoy a little luxury and amazing city lights. To all staff Cám ón 🌸" },
+                { author: "Kent", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "We had an excellent night out. The service was first class. we were accompanied from the port entrance to the golf cart which whisked us to our ship. Staff confirmed our ticket and showed us to our table. The buffet was extensive and the options were appealing with lots of variety. Dishes were removed promptly and wait staff were very attentive without hovering. After dinner the music was fun and the band was well practiced. The night skyline in HCMC was beautiful and overall we had a terrific night. Disembarkation was fast and smooth. Definitely would do it again" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "Exceeded expectations in most areas, fantastic experience on the last night of our holiday which was a great way to end. Staff were all excellent, entertainment was fantastic, views incredible, food was superb (although crab/lobster had very little meat on them). Overall it was great value for money and a wonderful experience which I would highly recommend." },
+                { author: "Jeffrey", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "If you want to spend an enjoyable evening on a dinner cruise in Saigon, then you should book this tour for sure. I chose the fixed menu (western style), the food was of high-quality, Service was spot on, waitress Phu did an excellent job. After dinner, you can enjoy the skyline of Saigon, there is live music. All in all excellent value for money experience!" },
+                { author: "Huynh", country: "Verified traveller review", rating: 5, date: "2026-03-09", text: "Nice place to date and have fun . i celebrated my birthday and they prepared gift for me" }
+            ]
+        };
+    }
+
+    if (slug === 'vung-tau-1-day-tour-with-christ-statue-and-lunch-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.65,
+            totalReviews: 73,
+            guideRating: 4.71,
+            valueRating: 4.64,
+            reviews: [
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "My Guide Theo was excellent & the driver. Good value for money.." },
+                { author: "Tariq", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "My trip to Vung Tau was wonderful. I had a very experienced and friendly tourguide named Stephan. We traveled to many different locations and learned the history of Vietnam. We took many pictures of all the sites and ended the day with a wonderful lunch that tasted amazing. I would rate this experience a 5/5 Stars and I would highly recommend it to anyone interested in a similar experience." },
+                { author: "Isaac", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Our guide, Mr Khoa, was very patient and helpful, especially when we had to move between tourist attractions. The itinerary was fuller then I thought, hitting the best historical/cultural landmarks in Vung Tau." },
+                { author: "Aianah", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Daniel and Khanh were so good! We had a lovely time in Vung Tau with them! Daniel is a great tour guide and he took great care of us!!" },
+                { author: "E", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "I really enjoyed this tour. Visiting the beautiful church and climbing the christ statue. Our tour guide Daniel has been so wonderful. One of the best tour guides I have come across with. Highly recommend!" },
+                { author: "Dawn", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "The bus ride was very smooth, with a nice van and a good driver. the activities were well planned and varied. Harry/Sang was a knowledgeable, helpful, careful and very cheerful guide who was encouraging and respectful. A very good trip!" },
+                { author: "Jose", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "The Day was fantastic with a fantastic guide. Really enjoyed" },
+                { author: "Bryce", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Great experience and our tour guide Phuoc was very knowledgeable and informative." },
+                { author: "Cesar", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "it was such a good time, Phuoc was extremely informative and helpful. I would recommend this trip!!" },
+                { author: "Saffron", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "Harry was my guide and he was so much fun, meet his handsome brother too! it was so good felt like a family day out! I’m usually pretty nervous but you made me feel so comfortable. Continue to your journey and you’ll be very very successful 🫶🏾" },
+                { author: "Susanne", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "Was a lovely day out enjoyed it very much our tour guide Binh was so lovely and hospitable the weather as in Ho Chi Minh and around was so hot but none the less was a fabulous day out!" },
+                { author: "Shannon", country: "Verified traveller review", rating: 5, date: "2026-02-09", text: "Had a lovely day with Phuoc. the tour was very chilled out and very enjoyable, thank you ☺️" }
+            ]
+        };
+    }
+
+    if (slug === 'cat-tien-wildlife-jungle-tour-with-2-day-1-night-option-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.57,
+            totalReviews: 11,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Dylan", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "Had a great solo adventure for a full day to Cat Tien National Park. Ride was smooth like silk. Saw gibbons and a black shank langur as well as the animals in the rehab facility. Beautiful butterflies and magnificent trees like those of the Ents in lord of the rings. Would recommend and would do it again." },
+                { author: "Francesca", country: "Verified traveller review", rating: 5, date: "2025-12-22", text: "Our tour with Eddie was wonderful thanks to his kindness, expertise, and friendliness. The visit to Cat Tien National Park, cycling and hiking through the jungle, was beautiful. If possible, I would recommend at least a two-day tour like he suggested; we didn't have enough time. Highly recommended, thanks Eddie!!" },
+                { author: "Matteo", country: "Verified traveller review", rating: 5, date: "2025-09-16", text: "This is a very positive experience, the park is beautiful, and Oliver was phenomenal. He's a knowledgeable guide who showed me many interesting things about the park, including plants and animals. We even managed to catch a glimpse of the elusive gibbons. I highly recommend this experience to everyone, and if you get Oliver as your guide, you'll be very lucky." },
+                { author: "Karl", country: "Verified traveller review", rating: 5, date: "2025-08-31", text: "We booked the Cat Tien Park Jungle Trip (Option 2) and had an amazing experience. Our guide Oliver was super relaxed, easy-going, and made the whole trip very enjoyable. Everything was well organized, and we really appreciated his knowledge and the chilled atmosphere he created throughout the tour. Definitely recommend this trip if you want to explore the jungle in a fun and relaxed way!" },
+                { author: "Jamie-Lee", country: "Verified traveller review", rating: 5, date: "2025-06-05", text: "Our guide, Eddie, was outstanding—friendly, helpful, and very knowledgeable. He created an immediate connection with us and made the entire day enjoyable. His insights into the park’s ecosystems, animal species, their habitats, behaviors, and conservation status were impressive and added so much value to our visit. Although the original cacao farm visit fell through, the team handled it professionally and quickly arranged a visit to Stone Hill Farm instead. It turned out to be a fantastic alternative. We learned about every step of cacao farming and chocolate production, and even got to try so" },
+                { author: "Zsanett", country: "Verified traveller review", rating: 5, date: "2025-05-08", text: "Our guide Eddie was very nice, helpful and funny, so we enjoyed every moment of the programme. During our 3 weeks in Vietnam Eddie was the best tour guide we ever had :) We also wanted to visit the rescued animals, but unfortunately we didn't get there in time. We expected to see more animals than we had on the jungle tour in Thailand. But this was more of a forest visit. We see some wildlife on our way (flying lizard, jungle cat, deer). Our friend had an accident before the trip, broke her leg, had surgery and was not fully recovered. We wanted to replace the cycling part with something else." },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2026-03-01", text: "Meget venlig guide, som talte godt engelsk. Han forsøgte at tilpasse turen til vores ønsker og tog hensyn til min datter, som var sløj. Chauffør og bil var også i top." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-02-07", text: "Eddie war ein sehr sympathischer und umsichtiger Guide." },
+                { author: "Céline", country: "Verified traveller review", rating: 5, date: "2025-11-04", text: "Am besten war die Radtour durch den Nationalpark und die verschiedenen tollen Spots. Die uralten riesigen Bäume waren beeindruckend. Außerdem sahen wir viele verschiedene Tiere (wilde Affen, Krokodile und sogar eine Schlange). Eddie, unser Reiseführer, war bestens vorbereitet, super nett und erklärte uns den gesamten Park. Die Tour war anstrengender als erwartet (das Radfahren und Wandern), aber uns hat es viel Spaß gemacht! Wir würden wieder kommen :)" }
+            ]
+        };
+    }
+
+    if (slug === 'saigon-street-food-flower-market-and-old-apartment-tour') {
+        return {
+            averageRating: 4.98,
+            totalReviews: 52,
+            guideRating: 5.0,
+            valueRating: 4.94,
+            reviews: [
+                { author: "Yanah", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We had an amazing amazing tour with Anna and Mango. The food was amazing and it was a really good vibe. Anna and mango drove around very safely and they were very fun to hangout with. They also gave a lot of extra information. Overall amazing experience. Highly recommend the tour 🙌🏻" },
+                { author: "Niamh", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "I had the best time on this tour!! Sheena was absolutely incredible, I am so grateful to have had her as my guide!! ❤️ The selection of food was delicious, and the tour of the city at night was amazing! I’m so glad I did this tour, thank you so much :)" },
+                { author: "Leanne", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "We had a fantastic bike and street food tour with Corn and Sheena! They were friendly, knowledgeable, and made the whole experience so much fun. They were also very flexible and really tailored the tour to our interests, taking us to places and food spots that matched exactly what we wanted to see and try. When it started raining, they quickly brought out rain ponchos to keep us dry, which we really appreciated. They made us feel safe and welcomed throughout the tour. Highly recommend this experience to anyone visiting Ho Chi Minh City!" },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Amazing street food tour, the food was great and our guides Mr Corn and Jay explained everything really well ☺️ Would recommend it to everyone!" },
+                { author: "Lyam", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Amazing experience on the Night Food Tour by scooter in Ho Chi Minh City with our guides Stephan and An. It ended up being just the two of us with the two guides, which made the evening feel really personal and relaxed. They took us to try several local specialties: pork noodles, Vietnamese pizza, grilled beef wrapped in lolot leaves, and even an avocado smoothie. Everything was delicious and felt very authentic. Besides the food, the tour was also a great way to see the city at night. We rode through different neighborhoods, did some sightseeing, and even crossed the river, which gave us a co" },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-04-01", text: "ANNA, VIRGIL, ALICE and ASTRID were all excellent hosts. Several places visited on the back of the mopeds. They all drive around so effortlessly. Excellent range of food and drink. Very interesting and highly recommended. Thank you guys." },
+                { author: "Merijn", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "The tour was really good. Tour guide Dat walked you around a lot of cool places around the food places. Good value for your money and a LOT of food!!" },
+                { author: "Koen", country: "Verified traveller review", rating: 5, date: "2026-03-08", text: "This tour was great, especially because of our guides ‘Harry’ and ‘Astrid’ they were excellent and spoke great english!" },
+                { author: "Tereza", country: "Verified traveller review", rating: 5, date: "2026-02-17", text: "We really loved the tour! Good idea to combine the sightseeing, and food exploring. Felt very safe on the scooter. Our guide Kenny was amazing!" },
+                { author: "Aeron", country: "Verified traveller review", rating: 5, date: "2026-02-16", text: "The food was very delicious and the drivers were very kind." },
+                { author: "Lindsay", country: "Verified traveller review", rating: 5, date: "2026-02-12", text: "Doing a food tour on motorbikes was really fun! The guides were friendly and were very accommodating of my food restriction, and of course the food was delicious. Highly recommend :)" },
+                { author: "Emer", country: "Verified traveller review", rating: 5, date: "2026-01-17", text: "Kuihn and Ian were lovely guides, great English and very friendly, nice your of the city on bikes after :)" }
+            ]
+        };
+    }
+
+    if (slug === 'from-hcm-can-tho-sunrise-at-floating-market-and-zen-monastery-in-ho-chi-minh-city') {
+        return {
+            averageRating: 3.83,
+            totalReviews: 5,
+            guideRating: 3.83,
+            valueRating: 3.83,
+            reviews: [
+                { author: "Courtney", country: "Verified traveller review", rating: 3, date: "2026-04-16", text: "Ben, my guide, was so kind and accommodating. He was great. I can not say the same for SST Travel. I booked a tour to include the Zen Monastery and provided by voucher and my receipt. SST travel would not honor it and said I booked another tour (that they never sent me a notification of the day before or at any time). I also reimbursed Ben for the additional money he personally spent taking a Grab to monastery and back (as SST travel refused to pay for it) now saying my tour was only 2 hours (but what I booked was a 4.5 hour tour). Additionally, they changed the time of the tour twice on me. I" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-23", text: "Très Bien guide réactive," },
+                { author: "Simon", country: "Verified traveller review", rating: 2, date: "2026-02-22", text: "Leider hat meine Aktivität nicht stattgefunden. Ich kam extra wegen dieser Aktivität nach Can tho und buchte es eigentlich für den 20.02. Da es bereits sehr früh los geht lag ich am Vorabend bereits im Bett, als ich nach 20:00Uhr einen Anrif erhielt. Die Dame meinte es wäre Sinnvoll due Tpur zu verschieben da aufgrund der Tet Feiertage wenig los sein würde. Obwohl ich es sehr fragwürdig finde, dass sowas am Vorabend 8 Stunden vor Beginn besprochen wird, einigten wir uns auf den nächsten Tag, da sie versicherte um 08:00 uhr spätestens wieder zurück beim Hotel zu sein. Der Steg war auxh nur 10 m" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-08-24", text: "Floating down the Mekong was very memorable and the lunch we had was great. It did feel a bit rushed though for example when trying all the fruits our group didn’t even have time to finish what was brought out. The tour guide was very knowledgable, but kept saying let’s go let’s let’s go in an annoyed manner." }
+            ]
+        };
+    }
+
+    if (slug === 'hcm-tay-ninh-black-virgin-mountain-and-cao-dai-temple-tour-in-ho-chi-minh-city') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 280,
+            guideRating: 4.67,
+            valueRating: 4.55,
+            reviews: [
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Fantastic trip long day so much to see but would definitely recommend it what a great experience" },
+                { author: "Paige", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "I booked the experience the day before & in no time Alice the tour operator confirmed with me via Whatsapp, she was very easy to chat too, made sure everything was correct and even followed up st the end which was a lovely touch to an awesome experience! The tour guide Duy was fantastic and very good at her job she really made the trip overall. she was amazing, very knowledgeable, easy to understand and i think having her as a tour guide made the experience & a highlight of our trip. We can’t thank her enough, she even gave us recommendations for dinner and souvenir shops after the trip had en" },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Very fun day! Our tour guide was very knowledgeable and friendly! Beautiful views" },
+                { author: "Nicola", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "luvvvved the tour! lots of interesting historical niche factss, plenty of rest stops, the coach was comfy – charging available, plenty of legroom. Tom is amazing – we now stan Tom!💗💗 The lunch is banging, catering to all food options!" },
+                { author: "Tyna", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "It was lovely. The driver and guide were excellent. Bus can be a bit more comfy." },
+                { author: "Roderick", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "I had a wonderful time yesterday, and Milo was such a great tour guide!!! I really enjoyed him and his knowledge and humor and energy to keep the tour fun and going" },
+                { author: "Joel", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "it's a long day because so far but the guide, Theo, was awesome. I enjoyed both locations..." },
+                { author: "Hue", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "I joined the Tay Ninh, Black Virgin Mountain and Cao Đài Temple One-Day Tour with SST Travel, and it was a very enjoyable and memorable experience. Special thanks to Minh for keeping us informed before the trip and providing clear details about the schedule and arrangements. Our tour guide, Kenny was knowledgeable, engaging, and professional. His explanations were informative and entertaining, and he always made sure everyone was safe and comfortable during the tour. I highly recommend this One-Day Tour to anyone visiting Vietnam!" },
+                { author: "Valentina", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Eric was an incredible tour guide! Thanks for the smooth and organized tour 🙏🏻" },
+                { author: "Dawn", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "The trip was interesting and well planned. Johnny was a very friendly and careful guide." },
+                { author: "Jada", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Amazing experience with the best and most thoughtful guide - Duy. Truly a great experience and we’re in the safest pair of hands. The lunch was also amazing. Definitely recommend! :)" },
+                { author: "Sp", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "It was great. Our tour guide was a lovely friendly man who was from Denang one of my favourite places in Vietnam. He explained a lot of things to us and knew a lot of information. I enjoyed him a lot!" }
+            ]
+        };
+    }
+
+    if (slug === 'halong-dragon-pearl-cave-artistic-live-performance-and-dinner-ha-long-bay') {
+        return {
+            averageRating: 4.61,
+            totalReviews: 24,
+            guideRating: 4.61,
+            valueRating: 4.1,
+            reviews: [
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "BRILLIANT!! Location amazing, dancers amazing and food amazing!! We contacted them before and they made sure our food was gluten free too! Great night!!" },
+                { author: "Fleur", country: "Verified traveller review", rating: 5, date: "2025-12-17", text: "We absolutely loved it - truly a unique experience! The show is great, the cave is stunning, the staff is super friendly, and the food delicious." },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2025-12-01", text: "The trip was well organised and the cave stunning. Delicious food and a fab show. Would definitely recommend." },
+                { author: "Jerome", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "Was a very nice experience, food was very nice and the show was amazing, our waiter Charles was very kind and helpful" },
+                { author: "Lesley", country: "Verified traveller review", rating: 5, date: "2025-11-15", text: "In my 65 years I’ve travelled the world and this by far the BEST spectacular I’ve ever seen - absolutely awesome and amazing value. Absolutely massive cave, stunning light and sound effects, beautiful dancing and top quality cuisine. A must for anyone visiting Vietnam!" },
+                { author: "Marinela", country: "Verified traveller review", rating: 5, date: "2025-08-15", text: "It's a great experience if you are visiting Halong.The kids were fascinated about the show. The food was excelent and the staff was very kind." },
+                { author: "Lisa", country: "Verified traveller review", rating: 4, date: "2026-05-08", text: "The cave is huge and the food was amazing. The show was very cultural and dancing amazing." },
+                { author: "Aaron", country: "Verified traveller review", rating: 4, date: "2026-03-11", text: "Was value for money but each course of the menu came out cold because they can’t cook in the cave." },
+                { author: "Tineke", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Great show and wonderful food" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "We had a fantastic experience. The ambiance, the entertaining show and THE food; absolutely fabulous. We did not expect Michelin level meals, enough to say we cleaned our plates! The wait staff were all so friendly. Our server, Nhu, was so attentive, she made sure we were well taken care of. Our transport was delayed, but after quick WhatsApp exchanges with Thomas (activity provider), he calmed our nerves. We got there in time as he promised. Thanks for taking care of us! Transport delays are inevitable and I am glad to see the level of customer service and responsiveness from Thomas." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "best show, DUC AND DII WERE AMAZING" },
+                { author: "Nadine", country: "Verified traveller review", rating: 3, date: "2026-04-30", text: "Organisation des Transports war katastrophal. Wir mussten 2 Stunden auf den Fahrer warten und haben einen Teil der Show verpasst, welche leider ohnehin enttäuschend kurz war. Das Essen war gut aber kein Must Have und es war leider eher eine schnelle Abfertigung statt ein besonderes Dinner. Ich würde es nicht nochmal machen auch wenn die Location in der Höhle wunderschön war." }
+            ]
+        };
+    }
+
+    if (slug === 'shore-excursion-halong-legends-markets-and-sacred-pearl-show-ha-long-bay') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Diane", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "We had a private tour around Halong with Thomas and later dinner at the Dragon Pearl Cave. We spent time at the museum, local market and the temple. We had crab pho for lunch which we enjoyed and later yogurt with pearl boba which we equally enjoyed. Our original stay in Vietnam is booked for Hanoi. My family wanted to visit Halong and do a Halong bay cruise AND the Dragon Pearl Dinner. Instead of traveling twice to Halong from Hanoi, we opted to stay overnight in Halong. I'm so grateful that Katie could assist me in booking a one way transport from Hanoi so I could make our schedule work. The" }
+            ]
+        };
+    }
+
+    if (slug === 'lan-ha-bay-halong-6-star-cruise-balcony-bathtub-pool-3-days') {
+        return {
+            averageRating: 4.55,
+            totalReviews: 37,
+            guideRating: 4.93,
+            valueRating: 4.79,
+            reviews: [
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Great experience, great staff and great food! Beautiful room as well would absolutely recommend!" },
+                { author: "Pawel", country: "Verified traveller review", rating: 5, date: "2025-10-31", text: "apart of the operator that I booked with - which I have some mixed feelings about, the trip and the crew on the ship were brilliant 👏 Highly recommended." },
+                { author: "Evie", country: "Verified traveller review", rating: 5, date: "2025-06-17", text: "We loved it. The staff were brilliant from start to finish, our room was gorgeous, and having a private balcony and a bath with a view right next to the big window felt like proper luxury. The activities were fun, but some (such as a the tour through the caves) felt really rushed as there were so many groups doing the same thing there was no time to stop. Food and drinks were good, very seafood heavy which makes sense though unfortunately me and my partner aren't big seafood people. Shoutout to Gino, Jack and Jenny, these were the main 3 members of staff who helped us on the boat + activities," },
+                { author: "Joel", country: "Verified traveller review", rating: 5, date: "2025-04-17", text: "The cruise accommodation was top quality and the food was amazing. The catering team were exceptional ensuring that they catered for us as vegetarians throughout. The trips were also great, although the cave visit on the final day felt a little rushed. Definitely recommend this cruise." },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2025-03-23", text: "The staff were fabulous The food was gorgeous , plentiful and lots of choice . The trips were great , well organised and good fun. The boat was of a great standard Highly recommend this trip" },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2024-08-29", text: "Great service and staff were really attentive. Lots to do. The boat was in really good condition and everything was of a high standard. The room was better than our room back in Hanoi! Nothing was too much trouble. Tom and Hoa (staff) made us feel particularly welcome. We stayed on the Regina Grand for 2 nights and 3 days. Dinner was exceptional! 5 course meal - we were absolutely stuffed every night. Breakfast and lunch were good and buffet style. Trang trung cave on the last day was interesting and worth a visit. On the second day we were collected and taken by speed boat to the village of V" },
+                { author: "Katie", country: "Verified traveller review", rating: 5, date: "2024-03-04", text: "Brilliant cruise line, nothing was too much trouble. We were very well looked after by very friendly and efficient staff who always served us with a smile. Highly recommend if you're in the area. Facilities are clean, high class and comfortable. What more could you want from a holiday in a holiday?" },
+                { author: "Lucas", country: "Verified traveller review", rating: 5, date: "2024-01-02", text: "Fantastic experience with lots of nice activities. They serve a 5 course menu for dinner which is european standard and really good! Highlight of the cruise though is Le Dong, the tourguide, who is very friendly with lots of happy vibes and basically the spirit of the boat. A person you will never forget :) 5/5 stars!" },
+                { author: "frédéric", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Très beau yacht (taille raisonnable : 70 personnes / 30 cabines environ) On a eu 2 belles et grandes cabines à l’avant du bateau (surclassé ?) Personnel très gentil et attentif Animations / excursions rythmées : kayak, baignade, visite d’un village et d’une grotte, mini golf, cours de cuisine, … Repas bons et diversifiés Très bons cocktails à prix raisonnable lors de l’happy hour Cours de cuisine pour apprendre à faire des nems et des rouleaux de printemps" },
+                { author: "Oliver", country: "Verified traveller review", rating: 5, date: "2026-05-21", text: "Sehr tolles Erlebnis. Auf jeden Fall immer die Dreitagestour machen lohnt sich zu 100%. ( sag ich und ich war in Vorfeld skeptisch 😉)" },
+                { author: "Bacou", country: "Verified traveller review", rating: 5, date: "2025-12-24", text: "la gentillesse de l'ensemble du personnel. La qualité du service sur le bateau. Les activités proposées sont très bien organisées. Merci à Hao qui transmet avec passion son savoir et anecdotes sur cette magnifique baie de Lan Ha. Merci à Sun pour sa présence, sa gentillesse et explications durant les différents services de tables. Merci à Lucie pour les cours sur la nourriture. Excellente animatrice." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-04-27", text: "Nice trip, leider nicht sauber weil hunderte Cruiser u. Boote unterwegs sind und alles in die Bucht geht" }
+            ]
+        };
+    }
+
+    if (slug === 'amanda-luxury-cruise-ha-long-and-lan-ha-bay-multi-day-cruise-ha-long-bay') {
+        return {
+            averageRating: 4.42,
+            totalReviews: 60,
+            guideRating: 4.58,
+            valueRating: 4.02,
+            reviews: [
+                { author: "Sanjeevni", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "Service and food was good! Andy and David was very nice and helpful 🙂" },
+                { author: "Francis", country: "Verified traveller review", rating: 5, date: "2026-01-26", text: "Amanda Cruise was an incredible experience, the staff was very professional and always ready to answer our needs. I recommend this adventure to anyone who wants to live an memorable experience where everything is great and taken care of! Ms Stephanie was very kind and helpful from the beginning to the end! Great service!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2026-01-17", text: "Overall an incredible experience - we will definitely be using Amanda or Le Journey Cruise teams again for our next Ha Long Bay journey." },
+                { author: "Anouk", country: "Verified traveller review", rating: 5, date: "2025-11-15", text: "This activity was truly one of the highlights of our trip to Vietnam! Ha Long Bay is breathtaking on its own, but what made our experience unforgettable was the incredible team aboard the Doria cruise. From the moment we stepped on board, everything was so well organized, the food was delicious, and the staff went above and beyond to make us feel welcome. What stood out most was the genuine kindness and constant smiles from everyone, we always felt cared for. Out of the many boats offering similar packages, we couldn’t be happier with our choice. It felt personal, warm, and special in every wa" },
+                { author: "Ellen", country: "Verified traveller review", rating: 5, date: "2025-10-20", text: "Great food, lovely staff, very kind with children, we loved it!" },
+                { author: "Laya", country: "Verified traveller review", rating: 5, date: "2025-06-24", text: "Our cruise through Ha Long Bay was magical! From the moment we stepped aboard, the staff went above and beyond to make us feel welcome. They were friendly, attentive, and genuinely passionate about ensuring every guest had an unforgettable experience. The cleanliness of the ship is good, our cabin was spotless, the common areas were always well-maintained, and everything felt fresh and inviting throughout the journey. They have cool activities such as kayaked through hidden lagoons, explored limestone caves, took part in a Vietnamese cooking class, and squid fishing. The food is also good, the" },
+                { author: "Henna", country: "Verified traveller review", rating: 5, date: "2025-05-07", text: "I booked this for a client and they had a wonderful experience. Cruise manager Mr Alex was an absolute gem! In terms of food, being on time, cleanliness, crew’s attitude everything was a beautiful experience for them! Totally recommended! ❤️" },
+                { author: "Duncan", country: "Verified traveller review", rating: 5, date: "2025-04-27", text: "It was a wonderful trip (2 days / 1 night), the view is amazing and peaceful. The rooms are great, we enjoyed a fantastic view during the night (no boat in front of us, only wild nature...). We really advise to try this trip with that company." },
+                { author: "Anita", country: "Verified traveller review", rating: 5, date: "2025-01-14", text: "We recently had the pleasure of experiencing an overnight cruise with Amanda Luxury Cruises along Halong Bay, and it was absolutely fantastic. The rooms were clean, neat, and incredibly spacious, providing a comfortable stay. The staff were highly efficient, professional, and ensured everything was well-organized from start to finish. The facilities on the cruise were exceptional—having a balcony and a bathtub added a luxurious touch, allowing us to fully soak in the breathtaking views of Halong Bay. Every aspect of the cruise was thoughtfully planned and executed, making it a seamless and mem" },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2025-01-03", text: "The kayaking and swimming was so beautiful and very relaxing. Breathtaking views!!!" },
+                { author: "Nils", country: "Verified traveller review", rating: 5, date: "2024-12-05", text: "The ship was awesome with a more than spacious room in which we felt like heaven. I can highly recommend the tour as the staff organized everything perfectly and we had a great time throughout the activities." },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2024-11-26", text: "We had a great experience on the Amanda Luxury Cruise. When we arrived on the transfer boat we were greeted we smiles and waves from the friendly crew. Lee, our ship mmanager was very helpful with any questions we had and checked in on us to see if everything was OK. The food throughout our trip was very tasty and had a good variety" }
+            ]
+        };
+    }
+
+    if (slug === 'halong-bay-day-cruise-from-halong-port-shore-excursion-ha-long-bay') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 8,
+            guideRating: 4.88,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2025-11-14", text: "Really enjoyable trip. Emma, our guide was good, food was good. We felt the numbers on our boat was about right but felt it was too busy with the large numbers of other boats. It would have been good to go to quieter places. The cave was very impressive." },
+                { author: "Bertha", country: "Verified traveller review", rating: 5, date: "2025-12-29", text: "Fue una experiencia muy grata, excelente servicio, unas vistas fenomenales, rica comida y recomiendo mucho esta actividad." },
+                { author: "Krisztina", country: "Verified traveller review", rating: 5, date: "2025-12-21", text: "Schönes Schiff, gute Reiseleitung, es hat reichlich und ausgezeichnetes Mittagessen gegeben. Viele bleibende Eindrücke von der Bucht, fantastische Höhle. Insgesamt ein sehr schöner Tag." },
+                { author: "Ulrike", country: "Verified traveller review", rating: 5, date: "2025-01-21", text: "Wir waren mit allem sehr zufrieden. Trotz der geringen Teilnehmerzahl von 6 Personen fand der Ausflug statt." }
+            ]
+        };
+    }
+
+    if (slug === 'day-ha-long-bay-premium-cruise-buffet-and-jacuzzi') {
+        return {
+            averageRating: 4.22,
+            totalReviews: 3,
+            guideRating: 4.22,
+            valueRating: 4.22,
+            reviews: [
+                { author: "Emilie", country: "Verified traveller review", rating: 4, date: "2025-09-06", text: "La baie D'Halong est magnifique mais bondée de bâteaux et de touristes. les activités sont faites au pas de courses et on fait la queue les uns derrière les autres. Ceci n'est pas la faute de l'agence cependant. Le bâteau est confortable et propre, le buffet varié. L'équipage est aux petits soins et notre guide Binh était très sympa et parle bien anglais. Le transfert de Nin Binh au bâteau a failli mal se passer, le chauffeur m'ayant déposée au mauvais endroit au port. Heureusement l'agence et le guide se sont debrouillés pour m'envoyer un chauffeur et le bâteau m'a attendue. Le transfert à mo" }
+            ]
+        };
+    }
+
+    if (slug === 'amanda-cruise-ha-long-and-lan-ha-bay-multi-day-tour-ha-long-bay') {
+        return {
+            averageRating: 4.24,
+            totalReviews: 24,
+            guideRating: 5.0,
+            valueRating: 4.43,
+            reviews: [
+                { author: "Richard", country: "Verified traveller review", rating: 5, date: "2025-12-02", text: "The Surprise Cave was amazing to see. Worth the trip on its own" },
+                { author: "Michelle", country: "Verified traveller review", rating: 4, date: "2025-04-27", text: "Overall a good tour. We are so glad we did the 2 night tour instead of 1. On the full day in the middle we were transferred to a day boat with others and were able to explore much less touristy areas of the bay. That day was very relaxed and we saw a lot more of the bay. The over tourism and crowds in the main area on the first day ruined it more than I expected. The cave on the last day was incredible!! The boat was nice and our room was comfortable, the staff were very friendly but the food was hit and miss (timing, quality and quantity)." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "Croisière exceptionnelle, les chambres sont très confortables. Les repas sont très bons, le repas du soir sur le pont a été une très belle surprise. Nous avons apprécié les différentes activités proposées. Dommage qu’il n’y ai aucune boissons d’incluses, même l’eau est payante. Je recommande grandement." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-13", text: "l'amabilité du personnel." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-10-21", text: "Very friendly staff. Dan is the number 1 🤙🏻" },
+                { author: "Javier", country: "Verified traveller review", rating: 5, date: "2025-08-17", text: "La atención prestada es magnífica, nuestro guia Dan ha sido excelente, se me hizo corto, lo recomiendo sin pensar" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-05-18", text: "Perfekt, perfekt, perfekter geht nicht !! Von der Abholung, über die Organisation, bis hin zu den Aktivitäten, waren wir völlig begeistert !! Wir können jedem nur empfehlen, 3 Tage/2 Nächte in der Halong Bucht zu bleiben. Der 2. Tag war noch grandioser als der erste. Unser Chefguide Dan hat uns immer begleitet, auf uns aufgepasst, und uns viel erzählt. Die Amanda Cruise Mitarbeiter sind stets bemüht, dir die Kreuzfahrt zu einem unvergesslichen Erlebnis werden zu lassen, sei es mit dem Abendessen an Deck (unvergleichlich schön), dem unterhaltsamen Abendprogramm sowie den tollen Aktivitäten, die" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-03-08", text: "Mooie kamers, leuke staff." },
+                { author: "Esko", country: "Verified traveller review", rating: 5, date: "2025-01-30", text: "Pidin miten asiat järjestlyistä." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-11-22", text: "Our experience was super. Everything is settled up accurately, from the transfer, to the activities, to the personal preferences (such as special requests for the menus). People who are managing the cruise are kind and funny and they know what they are doing. Me and my husband spent three days plenty of relax, comfortable staying and great activities here in Ha Long Bay. Everyone is supportive and caring and we cannot have asked for more. Thank you especially to Dan The Man, Tom and Mr Lee, our cruise managers. Well done everyone, we totally recommend this experience if you are visiting this w" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-luxury-cruise-bai-tu-long-bay-cave-kayak-meal-in-ha-long-bay') {
+        return {
+            averageRating: 4.47,
+            totalReviews: 3,
+            guideRating: 4.47,
+            valueRating: 4.47,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-02-12", text: "Very enjoyable, food was delicious, staff wonderful, scheduling was a bit off , however I believe everyone had a lovely time" },
+                { author: "Olivier", country: "Verified traveller review", rating: 3, date: "2025-11-22", text: "La chambre était grande. par contre les visites pas terrible." }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8pax') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 5,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Eduard", country: "Verified traveller review", rating: 5, date: "2025-02-07", text: "Absolutely amazing. Accomodation could be better, but the overall experience is really worth your while." },
+                { author: "Valeria", country: "Verified traveller review", rating: 5, date: "2024-05-10", text: "The most amazing thing experience of my life! This trip has been an experience of a lifetime. The scenery was stunning, never seen anything so beautiful. The group of people was fantastic. The drivers were incredible, so caring and friendly, great drivers, very funny, just the best people. We made a lot of new friendships. It felt like family. The whole trip was organised very well. The food was amazing everywhere we went. I was really sad when it all came to an end. Would do it anytime again. Highly recommend! It was just perfect. Thank you for the best leader and driver An (Andy). He made ou" },
+                { author: "Bryan", country: "Verified traveller review", rating: 5, date: "2024-05-12", text: "Une expérience inoubliable, probablement le meilleur souvenir de notre séjour au Vietnam. L’organisation est parfaite de la prise en charge jusqu’au retour, rien à redire. Le trajet permet de voir les principaux sites d’intérêts de HaGiang en réalisant suffisamment de pause pour en profiter. Au delà des paysages magnifiques de la province de Ha Giang, les moments passés avec nos guides nous ont permis une véritable immersion dans la culture Vietnamienne. Les guides sont attachants et d’une extrême gentillesse. Les repas étaient excellent et nous avons passés toutes les nuits du parcours en cha" }
+            ]
+        };
+    }
+
+    if (slug === '1-day-ha-long-bay-deluxe-cruise') {
+        return {
+            averageRating: 4.23,
+            totalReviews: 9,
+            guideRating: 4.23,
+            valueRating: 4.23,
+            reviews: [
+                { author: "Amira", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "The boat felt really luxurious. The activities were basic but nice. You need to keep in mind that there are a LOT of people at the activity spots though. If you don't mind that this will be one of the best cruise ships you will find around halong bay." },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-07-30", text: "Ze waren ons vergeten, verder was het te toeristisch en te druk. De locatie zelf is wel mooi en je zag wel dat de organisatie hun best deed maar het was gewoon te toeristisch" },
+                { author: "Jineth", country: "Verified traveller review", rating: 5, date: "2025-09-05", text: "Nos gustó mucho esta excursión. Se hacen muchas cosas y se aprovecha el día al máximo. Nuestro guía fue Nam, súper amable. En nuestro caso partimos de Ninh Binh y volvíamos a Hanoi, y todos los conductores estuvieron siempre atentos a nuestro equipaje y cambios de vehículo. Llegamos con mucha antelación desde Ninh Binh y el capitán del barco salió a recogernos para llevarnos al crucero y que no esperásemos tanto tiempo en el puerto mientras llegaba Nam desde Hanoi con el resto del grupo. Esto fue un gran detalle. La comida está muy bien. En nuestro caso elegimos el paseo en barca de bambú y vi" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-08-15", text: "El momento de puesta de sol mientras navegamos por la bahía, fue mágico. La actividad del kayak y la cueva también fueron muy especiales y el poderte bañar en la bahía aunque estaba masificado es algo curioso. Nuestro guia estuvo muy atento con nosotros y se preocupó de que estuviéramos cómodos y nos mostró su ayuda incluso tras la actividad. Todo perfecto" }
+            ]
+        };
+    }
+
+    if (slug === '3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay') {
+        return {
+            averageRating: 4.63,
+            totalReviews: 25,
+            guideRating: 4.67,
+            valueRating: 4.36,
+            reviews: [
+                { author: "Grace", country: "Verified traveller review", rating: 5, date: "2024-10-22", text: "Super glad we chose this cruise and I can’t recommend it enough. The crew are amazing, so friendly and attentive. A huge credit to them for the amount of work that they do. The activities (kayaking, swimming, visiting caves) were great, and in quiet locations so we weren’t surrounded by other tourists - definitely go to Bai Tu Long Bay instead of Halong Bay. The scenery is stunning, the boat is clean, the rooms are massive (only 12 cabins), the food was delicious and clearly cooked fresh. They were also able to accommodate a vegan diet by altering the vegetarian menu for me. We did the 2 night" },
+                { author: "M", country: "Verified traveller review", rating: 5, date: "2024-08-08", text: "The overall experience has been great, specially sharing the boqt with a limited number of passangers. Also Tang (the guide) and the whole crew have been very attenttive trying to accommodate our demands. All in all, a wonderful 2-night stay with very nice activities and sightseeing, with good food and splendid service. Also very remarkable the attention from Jessica from the central service team. She has been there from the very first moment, taking care of all logistic details, informing us in the right timing and always ready to answer. Thanks to all the team!!!" },
+                { author: "Ashley", country: "Verified traveller review", rating: 5, date: "2023-11-25", text: "We would highly recommend this cruise to anyone visiting Vietnam. Beautiful scenery and fantastic service. All staff pleasant and attentive. 5 star!" },
+                { author: "Rebekah", country: "Verified traveller review", rating: 5, date: "2023-10-25", text: "We thoroughly enjoyed this cruise! It was a gorgeous location, fantastic activities (if you like kayaking etc) and amazing food. Our guides were very helpful and Jessica was checking in that everything was okay and helping us find the right places at the port etc." },
+                { author: "Alice", country: "Verified traveller review", rating: 4, date: "2024-10-23", text: "Very nice cruise. I appreciate that they choose calm spots and time for activities are before the crowd arrive." },
+                { author: "Monique", country: "Verified traveller review", rating: 5, date: "2025-05-10", text: "Wat was dit leuk! En lekker ontspannen. Varen in het rustiger gebied van Halong Bay maar net zo baai. Een hele leuke begeleider, Win, die echt voor alles aandacht had. Son die hielp bij het squid vissen. Echt een aanrader!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-12-12", text: "La journée d'excursion était vraiment chouette ! Les paysages sont sublimes. Bémol sur la qualité de la nourriture, les produits ne sont pas frais, ce qui entraîne une déception surtout quand on a goûté de merveilleux plats au Vietnam." },
+                { author: "Sjoerd", country: "Verified traveller review", rating: 5, date: "2024-11-28", text: "Een enorme ervaring. Wat wordt je in de watten gelegd op deze cruise. Aan eten geen gebrek. Personeel Thao, James & Tom waren enorm klantvriendelijk en behulpzaam. Zelf met een allergie werd overal rekening meegehouden." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2024-10-18", text: "kes ateliers cuisine devraient être de vrais cours de cuisine (min 1h), pas juste une présentation. pareil piur le Thai Chi. cela a duré que 5min. pourquoi nous faire lever aux aurores pour 5min? les grottes et le kayak étaient bien. pas trop long non plus." },
+                { author: "Christian", country: "Verified traveller review", rating: 5, date: "2024-08-08", text: "esperienza molto bella . sicuramente vale la pena stare due notti notti tre giorni per poter fare tutte le esperienze proposte. le gite in kayak sono state un modo diverso e originale di vedere dei paesaggi incontaminati da con un ritmo lento. tutti i pasti molto buoni. lo staff disponibile ad ogni tua esigenza e bisogno. sicuramente da consigliare. siamo stati fortunati e abbiamo trovato bel tempo !" },
+                { author: "Denis", country: "Verified traveller review", rating: 5, date: "2024-07-20", text: "Organisation war gut. Gerne mehr Zeit für Aktivitäten wie schwimmen." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2024-07-07", text: "Super leuk, echt een aanrader." }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-ninh-binh-halong-bay-6-star-cruise-3-days') {
+        return {
+            averageRating: 4.04,
+            totalReviews: 8,
+            guideRating: 4.04,
+            valueRating: 4.04,
+            reviews: [
+                { author: "Philip", country: "Verified traveller review", rating: 5, date: "2024-05-12", text: "We had a very enjoyable experience. Staff were great, especially My Linh. She was very friendly and great fun with the international group of us met onboard. Would recommend that a quiet time be advised to avoid any misconceptions of guests, when one guest expects a quiet experience while others are enjoying a more lively experience. Would definitely recommend the cruise to others." },
+                { author: "Kirsty", country: "Verified traveller review", rating: 5, date: "2023-07-26", text: "We thoroughly enjoyed our time with La Casta Cruise, the staff were all so lovely, friendly and welcoming, and went out of their way to make our experience as special as possible. The food was excellent, the cocktails were delicious and I have to say again, the staff provided a fantastic service. In particular, Dong made this experience extra special by treating every guest with a high level of care and kindness, by frequently checking in with us and going out of his way to connect with his guests. We highly recommend booking this cruise for an unforgettable time in Ha Long Bay!" },
+                { author: "Monika", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Ein tolles Erlebnis. Sehr freundliches Personal. Schiff sehr modern und sehr sauber. Essen fantastisch. Kann es nur empfehlen!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-18", text: "Todo fue tal cual la descripción, muy buen servicio y muy buena comunicación con el proveedor. Solo deberían considerar no usar transportes tan viejos como fue el caso del camión que nos llevó de regreso, ya que tuvimos que parar 4 veces en la carretera a que lo revisaran" },
+                { author: "Carl", country: "Verified traveller review", rating: 5, date: "2026-04-07", text: "Fantastisk dag med Calista på Halong Bay, og en kjempefin dag i Ninh Binh" }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-bay-2-day-5-star-cruise-balcony-meals-cave-kayak-ha-long-bay') {
+        return {
+            averageRating: 4.39,
+            totalReviews: 4,
+            guideRating: 4.39,
+            valueRating: 4.39,
+            reviews: [
+                { author: "ROSA", country: "Verified traveller review", rating: 3, date: "2026-03-15", text: "Me gustó la puntualidad en todo. No me gustó que todo habia que hacerlo muy rápido. No entiendo porque hay que parar 25 minutos en un área para comprar artesanía??? para mi no me interesa, yo hubiera invertido esos 50 minutos ( ida y vuelta) en estar mas tiempo en el barco o las excursiones." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-11", text: "Our time was packed full of activity and exploration opportunities. The environment was luxurious and exquisite most of the time. Staff was accommodating and very respectful. We were disappointed that we had to pay for even a bottle of water, however, as well as basic coffee or tea with a meal. There was a special treat and recognition for all women aboard on International Women’s Day as well as delightful congratulations and celebration for both a honeymoon couple as well as another anniversary couple." }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-and-bai-tu-long-bay-1-or-2-day-cruise') {
+        return {
+            averageRating: 4.26,
+            totalReviews: 20,
+            guideRating: 4.57,
+            valueRating: 3.86,
+            reviews: [
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2025-12-26", text: "spent my Christmas evening in the cruise our guide Mike was knowledgeable on his job the manager Mr. Evan was energetic the whole Swan cruise crew were so friendly helpful and accommodating :) great experience" },
+                { author: "Bárbara", country: "Verified traveller review", rating: 5, date: "2024-08-08", text: "We enjoyed our time at cruise, it’s activities and of course the breathtaking scenaries of Ha Long bay. Also the guide and crew were exceptional!" },
+                { author: "Kirstin", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "Die Halong Bay-Kreuzfahrt hat uns wirklich gut gefallen. Es war alles super organisiert. Der Guide Liu war sehr freundlich. Die Aktivitäten (Kajak, Tintenfischangeln, Tropfsteinhöhle) haben Spaß gemacht. Die Mahlzeiten an Board waren sehr lecker. Die Tour ist auf jeden Fall weiterzuempfehlen,. Kleiner Minuspunkt: Das Meer in der Bucht ist etwas dreckig. Dennoch sind viele auch geschwommen." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2025-11-09", text: "Leider total überlaufen, Massenveranstaltung. Viel zu laut und schmutzig. Die eigentlich schöne Natur dadurch nicht zu geniessen. Sehr schade." },
+                { author: "Nicolai", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "Wir wurden von einem sensationellen, zuvorkommenden Team empfangen und betreut. Es blieben keine Fragen und Wünsche offen. Ausstattung, Komfort, Verpflegung und auch die Massage waren top. Wir hatten ein sehr schöner Zimmer mit Balkon und einer sehr bequemen Matratze. Es war alles sehr sauber u. gepflegt Diese Tour können wir absolut empfehlen." },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2025-03-18", text: "Die gebuchte Aktivität war gut organisiert. Die guides vor Ort waren sehr pünktlich und bemüht! Das Essen an Bord war auch ganz gut! Das Schiff war allerdings sehr in die Jahre gekommen und in unserer Kabine hat es so dermaßen nach Öl und Abgasen gestunken, dass wir unmöglich darin schlafen konnten!! Wir sind aufs Deck umgezogen!! Aber dort waren nur halb kaputte Liegen ohne Auflagen! Und es war elend feucht und die Tintenfischboote sind die halbe Nacht mit ihren grellen Lichterrn durch die Bucht getuckert!! Und auch dort hat es immer noch nach Abgasen gestunken! Die Schiffe gehören unbedingt" }
+            ]
+        };
+    }
+
+    if (slug === '6-star-cruise-bai-tu-long-bay-2-day-bath-tub-balcony-in-ha-long-bay') {
+        return {
+            averageRating: 4.45,
+            totalReviews: 14,
+            guideRating: 5.0,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Barbara", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "Bai Tu Long Bay was incredibly beautiful. Cycad Cruises did an amazing job. the team were friendly and helpful. The boat was lovely. The whole experience was magical. Highly recommend!!" },
+                { author: "marco", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "Great Experience and perfect Service. Hana guided us through the booking Prozess and did all the Organisation around the cruise. the cruise itself was awesome. no other boats around ar night. Blue bioluminescence around the boat. The Food and Service was great. highly recommebded." },
+                { author: "Percy", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Great boat and cabin, friendly and supportive staff. We especially enjoyed the kayaking around the fisherman’s village." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "Très bien, la nourriture est bonne et le bateau est très bien." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-03-31", text: "wir haben die 2d/1n Tour gemacht. Das Schiff ist super schön und der Service dort super. was uns besonders gut gefallen hat, dass nicht all zu viele andere Schiffe um uns herum waren. Allerdings ist der Preis schon sehr hoch, für nicht mal 24h auf dem Schiff und wir mussten sehr lange in der Halle warten, damit wir aufs Boot konnten (waren die letzten). das sollte eventuell bei einem 6sterne Schiff etwas besser laufen." },
+                { author: "Sieglinde", country: "Verified traveller review", rating: 3, date: "2026-03-24", text: "notre croisière deux jours - une nuit a commencé à 11h et c’est terminée à 10h le lendemain, soit 23 heures plus tard. Est-ce que cela correspond à une croisiere deux jours ?" },
+                { author: "Alexis", country: "Verified traveller review", rating: 5, date: "2026-03-22", text: "Cette mini-croisière d’une nuit se distingue vraiment des autres, notamment grâce à la visite du village flottant de l’ethnie Vung Vieng, une expérience authentique et encore peu touristique. Le rapport qualité-prix est excellent : les cabines sont confortables et bien équipées, et le service à bord est irréprochable. L’équipe est toujours souriante, disponible et attentive aux moindres demandes. Côté restauration, nous avons été agréablement surpris par la qualité des plats, dignes d’un restaurant gastronomique, parfois accompagnés d’un spectacle musical. Un vrai plus ! Nous avons également e" },
+                { author: "Tanja", country: "Verified traveller review", rating: 5, date: "2026-01-06", text: "Das Boot war sehr schön und unsere Kabine groß und komfortabel. Das Personal war sehr freundlich und aufmerksam. Auch die Verpflegung lies keine Wünsche offen u es gab ausreichend was man wollte." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ninh-binh-ha-long-bay-meals-cruise-transfer') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 17,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Gonzalo", country: "Verified traveller review", rating: 5, date: "2025-08-11", text: "Well organised activity and really good guides (shoutout to Tùng, our guide on the Ha Long bay day-trip - the best!) One of the nicest things about this 2 day trip was the overnight stay on Tam Coc (Ninh Binh) - really nice homestay with pool included :)" },
+                { author: "Joshua", country: "Verified traveller review", rating: 5, date: "2024-12-15", text: "Sunny was an amazing tour guide full of energy and was very knowledgeable about all the sites we visited. He did a great job keeping our group together and engaged. We had a great time, made new friends and highly recommend this sour. Ask for Sunny!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "The tour was very good! The weather was a bit hot but the Ha Long Bay trip on the second day was very chill. The activities were perfectly timed to rest in between. Our tour guide, Ken, did his best to make everyone feel comfortable and entertained." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Our trip was great. Our Guide Harry Kane was super lovely and informative and showed us great places." },
+                { author: "Modesto", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "Thomas è stato una guida meravigliosa, bravissimo, gentile e ben formato. 10 e lode" },
+                { author: "Inma", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "Increíble. Fueron dos días inolvidables. Todos los guías súper atentos y agradables. El día en el crucero no pudo ser mejor. Desde luego es una excursión que repetiría y que recomendaría no perderse. La relación calidad-precio es muy muy buena." },
+                { author: "Randolph", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "It was very good, thomas and alex are very good!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-20", text: "沢山のハノイ観光のツアーを見ましたが、このツアーが自分にとってベストでした。 自分が経験した事、失敗したことも含めて参考になればとレビューを残します。 大人1人、幼児1名参加です。 1. 選んだ決め手 • 料金の分かりやすさ： 1名参加の追加料金や繁忙期チャージがなく、他社よりシンプルでわかりやすかった。 • 日程： ニンビン観光（1日目）のあと、汗だくのまま即帰国するのを避けるため、1泊2日の行程を選択。 2. 参加時の状況 • 時期・気温： 1月中旬、約20度 水温はすこし冷たいですが、ニンビン観光にはちょうど良い気温。 私が乗った船には温水プールが付いていてそこで遊べました。 3. 利用上の注意点 • 送迎体制： 日ごとにバスとガイドさんが入れ替わる。1日目のバス、2日目のニンビンからハノイ湾へ行くバス、2日目ハノイ湾からハノイ旧市街へ行くバスが違うのと、基本的に自分の工程を全てガイドさんが把握している訳ではないので注意。 • 降車トラブル： 乗合バスの様に色々なツアーの人が乗っては降りてなので予定外の場所で降ろされる可能性がある。 • 対策： 目的地を書いたメモを用意する。（ベトナム語と英語だとベスト） • 通信環境： ハノイ旧市街を離れると電波が不安定なため、ネットを頼りすぎず事前準備が必要。 色々書きましたが運転手さんやガイドさん含めスペイン、イギリス、オーストラリア、" },
+                { author: "Daniele", country: "Verified traveller review", rating: 5, date: "2025-08-08", text: "Scelta Super azzeccata! Per chi come noi era un po' \"tirato\" con i tempi, questa escursione fa risparmiare mezza giornata. Sì perché andare solo alla baia di Halong e dormire là, vi farà stare sulla barca solo fino alle 12 e poi rientrate ad Hanoi... E poi dovreste prenotare anche una visita a Ninh Binh e Tam Coc (FANTASTICO) e spendere un'altra giornata intera. Così facendo invece, si fa bene Ninh Binh e Tam Coc per poi raggiungere Halong e starci fino a tardo pomeriggio. Arriverete in Serata ad Hanoi. Impegnativa ma geniale." }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-and-lan-ha-bay-6-star-cruise-balcony-tub-and-pool-2-days') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2023-07-17", text: "From beginning to the end everything was well organised. The service, the food, the boat , the staff . Excellent !!" },
+                { author: "Milada", country: "Verified traveller review", rating: 5, date: "2023-08-18", text: "Sehr gut. Essen, Personal, Aktivitäten, Organisation, alles tiptop." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-1-night-ha-long-bay-by-le-journey-cruise') {
+        return {
+            averageRating: 4.33,
+            totalReviews: 11,
+            guideRating: 2.0,
+            valueRating: 2.0,
+            reviews: [
+                { author: "Johanna", country: "Verified traveller review", rating: 5, date: "2026-01-26", text: "The whole experience is fantastic!!! the staff is so kind and because is a small cruise the attention is personalised. We love it ❤️" },
+                { author: "Marvin", country: "Verified traveller review", rating: 5, date: "2024-05-19", text: "Super friendly staff. Our guide Steve was really nice and helpful. The food was amazing with many things to choose from. They have everything organized and let you know when and where to be. Overall, very nice experience on the cruise! The sights were full of tourists, like the Ha Long Bay in general." },
+                { author: "Cheong", country: "Verified traveller review", rating: 3, date: "2026-01-31", text: "Our cruise guide Winter was not proactive & not attentive & irresponsible…he just neatly brief itinerary of each activity & disappear, can’t see him during meal to check on us if e food is alright…where not seafood serve. & when smaller ferry to charter us to Ti-Top island Winter nvr confirmed with some of our group people & just left till e cruise crew hv to shout for e ferry to return fetch e rest & when supposed time back to main cruise he didn’t even look out for those yet at meeting point🥹🥲. Lastly our bus came so late an hour waiting while others been picked up😞" },
+                { author: "Michal", country: "Verified traveller review", rating: 5, date: "2025-11-17", text: "Super obsług, pyszne jedzenie, widoki zapierające dech w piersiach" },
+                { author: "Benedetta", country: "Verified traveller review", rating: 2, date: "2025-10-29", text: "Guida eccellente ma gruppi organizzati male, ci vuole più attenzione nell’organizzazione dei gruppi sopratutto conditions c’età non solo accettare prenotazioni per fare numero. overtourism insostenibile." }
+            ]
+        };
+    }
+
+    if (slug === 'hera-grand-luxury-cruise-ha-long-bay-multi-day-tour-ha-long-bay') {
+        return {
+            averageRating: 3.76,
+            totalReviews: 17,
+            guideRating: 4.33,
+            valueRating: 3.33,
+            reviews: [
+                { author: "Margaret", country: "Verified traveller review", rating: 5, date: "2025-04-08", text: "Our 3 day 2 night cruise on Ha Long Bay was wonderful. We were taken kayaking and/or on an oar driven raft; we were taken to a place where some chose to swim from the boat over to a beach. We had the opportunity to ride bikes to a village (beautiful) or alternately transported by electric cart. Each time we went out, guides were helpful and informative. The staff on our cruise was excellent from the cruise manager to the boat tenders. The food served was excellent - one certainly will not go hungry on this cruise! The room was very comfortable with a nice balcony where we spent a lot of our ti" },
+                { author: "NatBG", country: "Verified traveller review", rating: 5, date: "2024-12-28", text: "The acitivities and the food and the crew were just amazing" },
+                { author: "Victor", country: "Verified traveller review", rating: 4, date: "2024-12-30", text: "The overall experience was good. The cabins are very nice and spacious. The only downside to them is that the windows are old with wooden frames so they don't really seal all that well and it was a bit cold at night. We went on the 2 nights 3 days cruise, more realistically 2 days. The activities were nice and we enjoyed everything we visited. Alex was a really great guide and very nice to everyone. The food was pretty good, the first day we enjoyed everything. The second day the dinner was kinda meh. The prices for drinks are decent, but quite high for Vietnam standards. What we didn't really" },
+                { author: "Jenny", country: "Verified traveller review", rating: 2, date: "2026-04-07", text: "Die Tour ist stark touristisch, besonders an den Hauptattraktionen, die von vielen Besuchern gleichzeitig aufgesucht werden. Kajaktouren sind sehr kurz: meist nur einmal durch einen etwa 1 Meter breiten Tunnel, längere Fahrten durch Höhlen gibt es nicht. Balkonkabinen sind nur per Upgrade verfügbar. Das Personal ist freundlich und zuvorkommend, die Zimmer eher zweckmäßig ausgestattet; Armaturen und Möbel sind stark abgenutzt oder verkalkt. Die „Cooking Class“ wiederholt sich an beiden Abenden und wirkt wenig abwechslungsreich. Die Speisekarte ist überwiegend westlich orientiert, Getränke werde" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-03-23", text: "Sehr gut. Die Guides waren sehr freundlich und gut organisiert. Bei den Ausflügen hatte es viele Touristen." },
+                { author: "Grégoire", country: "Verified traveller review", rating: 5, date: "2025-11-19", text: "Très belle croisière avec un staff agréable et disponible." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2024-11-02", text: "Found it lame that the cruise boat stays at the same spot for the 2 nights LAN ha bay was definitely the highlight" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-unesco-luxury-ha-long-lan-ha-and-ninh-binh-tour') {
+        return {
+            averageRating: 4.5,
+            totalReviews: 19,
+            guideRating: 4.62,
+            valueRating: 4.5,
+            reviews: [
+                { author: "Laurie", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "We loved the cruise! The support we had online from our contact “Dolphin” was unbelievable. They vent over backwards to help us as we had to adapt things from our end a bit. Dolphin led us through the whole process and went out of the way to ensure we were taken care of." },
+                { author: "Jueting", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "I book 3-day trip to Halong and Ninh Bình Tour..Dec 29th 2025 ..my parents and I all had amazing time with all activities.. we were first time to Hanoi..Parents both 72 years old … transportation was very smooth.. pick up from downtown Hanoi..take us to Habour…check in speed up to dragon bay cruise ..tour guild was funny and friendly..food was nice and activities was same as advertised mention…we stay overnight on the cruise then take bus to Ninh Binh…the hotel was cozy and spacious for 3 ppl and location was good …I have to mention one person during this trip- Dolphin.. she add me on wechat (" },
+                { author: "Vanessa", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "From beginning to end, my experience was amazing. I greatly appreciate my coordinator, Dolphin, for being so detailed and a constant communicator. She had plans A and B ready to be executed at any time. The cruise was amazing, action-packed, informative, cozy, relaxing, amongst many other things. There was so much food you won't go hungry. The staff was outstanding and warm. Each transfer was better than the last and the buses/limousines were icing on the cake. Be prepared to stay active and embrace it all." },
+                { author: "kenneth", country: "Verified traveller review", rating: 5, date: "2025-12-18", text: "We had an amazing experience on the Hanoi 3-day UNESCO Luxury Ha Long/Lan Ha Bay & Ninh Binh tour. The itinerary was perfectly put together, giving us a great balance of sightseeing, relaxation, and cultural experiences. Ha Long/Lan Ha Bay was stunning, and Ninh Binh was equally breathtaking. Everything ran smoothly from start to finish. A special mention to the tour operator, Dolphin, who was always quick to respond whenever we had questions and made the whole process easy and stress-free. Their communication and organization were excellent. Overall, a fantastic tour that we would highly reco" },
+                { author: "Mark", country: "Verified traveller review", rating: 4, date: "2026-01-27", text: "Ha Long bay was beautiful so was Ninh Binh, but way too many people being funnelled through all at the same time." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Very good and worth the price! We had three amazing days, we were picked up and left at every day and did not have to think about anything!really recommend." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-05-10", text: "overall, great trip and great included activities. The Ha Lan Bay cruise was okay, you are there for the landscape and peace, so if you want wifi do not come as there is none (despite it saying there is). The food on the boat for lunch is great, Vietnemese and very tasty, dinner they try to do 5 star westernised and it doesnt work, salmon was overcooked and flavour isnt there, just stick to Vietnamese food - its what we're here for! Overall great trip, would do again!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-03-19", text: "the food was great and the tour guides were really knowledgeable and friendly, however, the communication from the tour agency wasn't great and felt quite unorganised. also the boat is not shown as photed, its much more budget and rustic." },
+                { author: "Mathieu", country: "Verified traveller review", rating: 5, date: "2026-02-02", text: "Ce n'est pas le même bateau que sur les photos. Mais cela restait un très bien , le repas du soir etait excelle." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-01-31", text: "Loved the kayaking, bamboo boats, seeing the caves and being in such a place of natural beauty. The places and activities were awesome. Our only negative feedback - everyone else on the tour was French so the guide did all the commentary in French and we missed some of the instructions including what time to be back from one place! Maybe some written guides in other languages would help people who cannot follow the spoken guide would be helpful especially at dinner time and when giving instructions, directions." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-01-01", text: "The contact for the trip was very quick to respond and helpful. There were a couple of things which needed improvement - firstly, my 2 nearly 3 year old was not treated as an individual - so it meant no separate bed and he shared with me and my husband, transfer taxi squeezed other people in in Ninh Binh which meant my 18kg tall child was balancing on my knee in an overcrowded hot taxi. Then for the boat trip near Ninh Binh (which was absolutely amazing and stunning), the guide told us it was 4 people and a child to the boat which was frankly ridiculous because for 2 hours i had to balance my" },
+                { author: "Laurine", country: "Verified traveller review", rating: 5, date: "2025-12-26", text: "on a fait 2 jours sur la baie d’Halong et 1 jour à Ninh binh. La personne de contact est sur WhatsApp et est très réactive pour toutes questions d'organisation. Les transferts ont été fluides. Les chauffeurs nous contactent par WhatsApp. A l’aller ils sont venus nous prendre même si nous n'étions pas dans le vieux quartier. et au retour, on a continué notre séjour à Ninh Bình (et donc pas de retour sur Hanoi) ils nous ont déposé directement à notre hôtel. Les activités sont vraiment tops et respectent bien la description donnée" }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-and-lan-ha-bay-day-tour-by-hera-luxury-cruise') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 10,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Shane", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "Really enjoyed the day. Staff were so attentive. Especially Quynh, she was so great at making sure we were looked after. It helped a lot since we were on the cruise with our baby. 10/10 would recommend." },
+                { author: "Benjamin", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "tout était parfait : le timing, la gentillesse du personnel, le professionnalisme dont Linh, le bateau, le rapport qualité prix, la magie du site, le kayak, le repas, ... bravo !" },
+                { author: "Nienke", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "De service was erg goed, erg vriendelijke mensen en het eten was erg uitgebreid. Het zwembadje aan boord was ook fijn, vooral ter verkoeling na het kajakken." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "I had a lovely experience. Dat and Davis were awesome and so helpful. I cannot explain how great they are they went above and beyond for us in every way. We are vegetarian so they did their best to provide for us. The cave boating was boring but the staff and service was so good it made the experience." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "Top , le serveur Dat super sympa !!" },
+                { author: "Antonio", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "Tutto perfetto, un particolare ringraziamento alla nostra cameriera Quynh gentilissima e disponibile per tutte le nostre richieste." },
+                { author: "Marian", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "all excelent Dat and Quynh" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-2-night-ha-long-bay-lan-ha-bay-by-hera-boutique-cruise') {
+        return {
+            averageRating: 4.53,
+            totalReviews: 8,
+            guideRating: 4.53,
+            valueRating: 4.53,
+            reviews: [
+                { author: "Allison", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Jerry team was really great. All the food was delicious on the boat and we really enjoyed the off boat activities. We loved kayaking to virgin caves and going to the private beach." },
+                { author: "Avianna", country: "Verified traveller review", rating: 5, date: "2025-01-04", text: "We had the BEST time on this trip. It was perfect. Everyone we worked with from Andy who set up rides for us from Hanoi, to Peter and Mr. Gin was wonderful. The crew on the boat was fantastic and we had the best time with them. Seriously. every single person on our crew was so wonderful, take the time to talk with them and get to know them all, they are all fantastic humans and now friends and really made this trip so amazing. The activities were well curated and timed well. You had a lot of freedom, you could do the activities or simply hang on the boat and relax. The food was DELICIOUS. I wo" },
+                { author: "Giorgia", country: "Verified traveller review", rating: 5, date: "2024-11-18", text: "Hera Cruise Classic Boutique offered us a wonderful 3-day experience to explore the beauty of Ha Long Bay. The cabin was comfortable and clean, with large windows that let us enjoy the incredible views right from our bed. The staff is friendly and always ready to help, making sure everything runs smoothly. The food on board was pretty tasty, with a mix of Vietnamese and international dishes, and there was always plenty to choose from. The itinerary was well-organized, including activities like kayaking, visiting caves, and some free time to relax and take in the scenery. It’s a great way to se" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-11", text: "Ausgezeichnete Tour, perfekt organisiert mit Top-Essen! Unbedingt mal machen - unvergessliche Erinneung!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-04-25", text: "Von ca 40 Gästen an Bord hatten nur wir (3P.) zwei Übernachtungen gebucht. Deshalb sollten wir an Tag 2 auf ein anderes Schiff (Daycruise) um das entsprechende Programm zu haben. Das wollten wir so nicht 😫 Es wäre besser alle Gäste, die 3D2N buchen auf ein extra Schiff einzuchecken, egal bei welchem Veranstalter sie gebucht haben. Nach unserer Erfahrung reicht 2D1N, was anscheinend auch 95% aller Gäste machen." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-1-night-ha-long-bay-by-amanda-premier-cruise') {
+        return {
+            averageRating: 4.38,
+            totalReviews: 3,
+            guideRating: 4.38,
+            valueRating: 4.38,
+            reviews: [
+                { author: "Juanalee", country: "Verified traveller review", rating: 5, date: "2025-07-08", text: "This trip was absolutely excellent!! highly recommend doing at least the 2 days.Andy from the cruise team made sure I got to where I needed and was having a good time. Service was fantastic and everyone was so very helpful." },
+                { author: "Florian", country: "Verified traveller review", rating: 5, date: "2024-12-31", text: "Staff was amazing, the trip was really nice as much as the boat. We had an upgrade on the Hera Cruise Boutique which was great. Thanks to the team !" },
+                { author: "jacqueline", country: "Verified traveller review", rating: 4, date: "2026-07-21", text: "So, due to an imminent cyclone it was not possible to stay the night on the boat or take part in most of the activities. However, we did sail into the bay and get to swim at Ti Top island. The Amanda crew were great. Provided lunch when we got on board, were unfailingly helpful and sympathetic, and were correct in that they had no control over the weather and safety must always come first! As we couldn’t spend the night on board, transport back to Hanoi was provided as well as a rather short stop to grab some dinner. When I return one day to Vietnam to visit Ha Long Bay I will definitely choos" }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-bay-2-day-luxury-cruise-activities-meals-guide-ha-long-bay') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 7,
+            guideRating: 4.83,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Samuel", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "Activity’s were great, swimming on the beach, cooking class and kayaking were very enjoyable" },
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "The cruise was great! The excursions were perfectly timed and I was able to enjoy everything without being rushed. The food was Asian inspired and the dishes were tasty. I was a solo guest and they upgraded me to a nice suite with a jacuzzi tub, surprised me with lovely flowers and fresh fruit. I can't thank them enough. Beautiful location - Hang Long Bay, definitely book with this company :)" },
+                { author: "Wietze", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "Friendly crew, good service and beautiful area" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-07", text: "We had such a beautiful time. Tour was well organized and relaxing. The boat was lovely and had beautiful balcony’s with a view of the bay. The excursions were spectacular. Truly a once in a lifetime experience." },
+                { author: "Jitka", country: "Verified traveller review", rating: 5, date: "2024-11-27", text: "Ubytování moc pěkné, jídlo vynikající a vše dobře zorganizované." }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-bay-5-cruise-buffet-jacuzzi-cave-kayak') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 33,
+            guideRating: 5.0,
+            valueRating: 4.94,
+            reviews: [
+                { author: "Victor", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Luca was an amazing guide, the cruise was also amazing, i recomend it 100%" },
+                { author: "Arta", country: "Verified traveller review", rating: 5, date: "2026-01-09", text: "Our Guide Austin, was realy funy and so good, thanks" },
+                { author: "Marta", country: "Verified traveller review", rating: 5, date: "2025-12-06", text: "The boat is beautiful, god was nice and they try and organise the trip so you avoid as many crowds as you can. The guide Henry was funny, witty and very competent. Pool is a wonderful bonus! Loved it :)" },
+                { author: "Kieran", country: "Verified traveller review", rating: 5, date: "2025-12-05", text: "It was brilliant, easy pick up from Hanoi and a beautiful boat through Ha Long Bay. Henry was fantastic with the group, taught us alot about the local facts." },
+                { author: "maxime", country: "Verified traveller review", rating: 5, date: "2025-11-28", text: "That what great with Henry thanks you for everything, the boat was wonderful" },
+                { author: "Sebastian", country: "Verified traveller review", rating: 5, date: "2025-11-21", text: "Trip was amazing and well organized. Everything was on point and the food was amazing. Definitely recommendable with our guide Austin :) Was great :)" },
+                { author: "Marcelo", country: "Verified traveller review", rating: 5, date: "2025-11-21", text: "Amazing tour ,Austin was a great tour guide and I spent a great time during the excursion!! Absolutely a must do in Hanoi!!!" },
+                { author: "Shane", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "The day was fantastic. Jason was a brilliant guide and helped so much throughout the day. I would recommend this to anybody!" },
+                { author: "Jacky", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "Booked this tour last minute. Jason was our guide, very pleasant and clear communication. Good communication when we had questions before the tour. Definitely recommend" },
+                { author: "Igor", country: "Verified traveller review", rating: 4, date: "2025-12-18", text: "The trip was well organized, Austin was a good guide , spoke very clearly , we stayed on the new really luxurious boat , buffet was good, better than in my other tour . Ha Long bay is so full of tourists that you can hardly move ! I would not go there if I knew how full it would be , next stop in the cave was indeed worth of waiting , cave is huge and looks amazing. An experience to remember" },
+                { author: "Sarah-Victoria", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Die Tour war sehr gut organisiert. Tom unser Tourgide hat uns alles super erklärt und war sehr aufmerksam. Auch die Mitarbeiter auf dem Schiff waren sehr zuvorkommend und aufmerksam. Ich fand es besonders gut, dass immer deutlich daraufhingewiesen wurde, wenn wenn etwas extra gekostet hat." },
+                { author: "SHUNYA", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Thangさんのガイドはとても面白く、クルーズ総じて良いサービスでした" }
+            ]
+        };
+    }
+
+    if (slug === '4-days-unesco-luxury-ha-long-lan-ha-and-ninh-binh-tour') {
+        return {
+            averageRating: 4.16,
+            totalReviews: 14,
+            guideRating: 4.25,
+            valueRating: 3.75,
+            reviews: [
+                { author: "Kenneth", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "They were extremely professional and friendly. Would recommend!" },
+                { author: "Remy", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "Overall it is a nice tour ! Well organized by aaron that is always available to help you. Ninh bin is a must do ! It is very nice. The only thing is that I felt a little bit rushed on the activities but it is part of the game. While visiting tam coc by boat you should asked to be stopped to the viewpoint (usually not part of the tour but def worth it). The 5 star cruise was very nice but you don’t move very much in the LAN Ha bay ! But it is still a must do (and specifically the kayak). You don’t choose the people you cruise with ahah so it’s a bit odd wether you will have nice or bad time on" },
+                { author: "Catherine", country: "Verified traveller review", rating: 5, date: "2026-04-20", text: "I also booked this tour at the end of our trip to make our last days easier, and to see as much as we could without doing all the work. It was definitely worth it. We saw a lot in the four days and met a lot of other people in the tour groups. The transfers and accommodation were very comfortable and well organised. The tour guides were great. These locations were very busy so it was good to have help navigating. We didn't have to think, just enjoy the experience." },
+                { author: "Brett", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "I took the gamble and booked a new activity with no reviews and overall it paid off! We took the 6 star option and was eagerly anticipating what that might be. The Calista boat was beautiful and the cabin was so comfortable with a big bathtub. The food was fantastic too. Ha Long Bay cruise itineraries seem all the same, but at least it was a stunning boat. The second part in Ninh Binh was also great. The guide communicated fantastically each day via WhatsApp with the itinerary. The pictures of the homestay looked great and did match, but we'd been spoiled by the boat and decided we wanted some" },
+                { author: "Donna", country: "Verified traveller review", rating: 4, date: "2026-04-30", text: "The cruise was certainly not 5 star. Transfers were a little confusing and fully reliant on having WhatsApp to communicate with head office. The 4 day tour was a combination of several day tours and we repeated the Nihm Bihn boat tour twice which felt like a waste of time." },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-06-07", text: "dans l'ensemble satisfaisant" },
+                { author: "Ben", country: "Verified traveller review", rating: 3, date: "2026-06-05", text: "Was veel te zien, maar ook dubbele activiteiten zoals 2 boottochten. De eerste twee dagen waren gewoon dagtochten en alle info kwam vanaf kantoor op de app. Dit was niet altijd duidelijk en vaak moest de actie van ons zelf komen. Ook vaak overstappen op een andere bus met een chauffeur die geen Engels kon. Ook de boottocht was beneden verwachting. De boot was aan onderhoud onderhevig en straalde dat aan alle kanten uit. Het eten daarintegen was perfect. Ook de beloofde activiteiten aan boord vielen tegen. Al met al een rommelige 4 daagse tour waarbij we wel veel gezien hebben." },
+                { author: "Martin", country: "Verified traveller review", rating: 1, date: "2026-05-01", text: "Une prestation très décevante. Tant sur les lieux choisis que sur la qualité des repas. Rapport qualité prix exécrable. La nuit sur le bateau - baie d'Ha long, à éviter avec eux. La promesse était en comité restreint. On s'est retrouvé avec une vingtaine de touristes d'indiens qui mobilisaient tout, tout était tourné vers eux : repas, ça criait alors qu'on voulait du calme lors des repas, jusqu'au jour du départ où on nous a expédiés afin que les touristes indiens aient leur correspondance à quai !! La cuisine était médiocre, les activités sur le bateau : néant : pas de pêche, pas de karaoké." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-04-15", text: "I booked this towards the end of my trip and it was great to have someone organise my final days rather than me. It was great to not have to think or plan! The organiser kept us informed and was helpful with any queries we had. The activities were good in nihn bihn. When having difficulties with a guide on day 1 the organiser was able to help and support me. The accommodation room was clean and comfortable although I was unable to eat the breakfast (flies around the food). Happily went to one of the nearby cafes instead! the final day on the cruise was great and a perfect way to end the trip." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "Overall, it was really good! And Aaron took really good care of us! A few things to note: the room in ninh bihn was decent but the breakfast was quite bad (cue the flies). The cruise was great tho! The staff was super attentive and kind (Alex and Charlie were both great guides through the whole thing). They helped get my vegetarian dad great food! The activities were super fun too! The ninh bihn activities were super fun too! With very well informed guides." }
+            ]
+        };
+    }
+
+    if (slug === '4-days-ha-long-lan-ha-bay-cat-ba-and-ninh-binh-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Moritz", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "The tour had been very well organised. Elise from the travel agency had been very pro-active, supportive and helpful. Bus transportations had been excellent. Tour guides were very eager, though sometimes it felt like travelling as a school class. In Ninh Binh we would have preferred a traditional homestay as adverted instead of a rather remote located basic hotel. Throughout our trip personell was very kind and welcoming. Trang An and Halong Bay are must-see‘s. Unfortunately both sites were totally overcrowded. And mass tourism leaves traces. Halong Bay is rather dirty with lots of plastic was" },
+                { author: "Benji", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "We had an amazing time! The cruise was so cool, felt very luxurious and the staff were all super attentive. Maddie, who booked the whole experience for us and handled all the travel transfers was amazing, always reachable and quick to respond and super helpful. The cruise activities and food was all really good and the Ninh Binh scenery was amazing. Would definitely go again and highly recommend." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "I had an amazing time at Ha Long Bay! The crew was very nice and the accommodation was great. The tour operator, Aaron, was very helpful. He gave me lots of information before the trip and made sure everything went smoothly." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-lan-ha-ha-long-bay-5-star-cruise-meals-cabin') {
+        return {
+            averageRating: 4.62,
+            totalReviews: 29,
+            guideRating: 4.69,
+            valueRating: 4.14,
+            reviews: [
+                { author: "Kishore", country: "Verified traveller review", rating: 5, date: "2025-11-27", text: "The entire experience was very professional. All the crew member were very friendly and helpful. We really enjoyed the cruise and the activities." },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2025-11-26", text: "We loved the activities and the food and facilities were amazing. The staff could not do enough for you. It was a shame the boat/kayaking trips were unavailable but appreciate not la Regina’s fault. I would have liked a little longer on day 2 as overall it was less than 24 hours but a memorable trip nonetheless. Thank you." },
+                { author: "Maxine", country: "Verified traveller review", rating: 3, date: "2026-04-06", text: "The details of the activity stated it was a 2 day cruise visiting less visited areas of Halong Bay & Lan Ha Bay. However, we only sailed for a maximum time of 3 hours and only within a short distance. There was always at least half a dozen other boats in the vicinity. On the first day we didn’t actually get to the boat until 1pm ish and on the 2nd day we had to check out of our cabin at 9.30am. The itinerary we were given onboard stated we would eat brunch whilst cruising back to port. In reality after brunch we were put on a tender that took us back to port in 10 minutes and the activity was" },
+                { author: "Carlotta", country: "Verified traveller review", rating: 5, date: "2026-04-01", text: "Great stuff it was amazing" },
+                { author: "Klaus", country: "Verified traveller review", rating: 4, date: "2025-11-30", text: "Obwohl die. Kajak - Tour ausgefallen ist und auch nur eine Höhle besucht wurde, waren die 23 Stunden straff durchgetaktet. Die Bucht muss man aber gesehen haben. Der Transport war perfekt organisiert. Wer etwas mehr sehen will, dem würde ich empfehlen, auf Cat Ba ein Hotel und sich etwas mehr Zeit zu nehmen." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-30", text: "The boat, food and service were all really brilliant. We enjoyed the experience, it felt very special. We lucked out with the weather which made the scenery even more beautiful. Unfortunately the kayak trip was cancelled but we still really enjoyed it and would recommend. Wish we had done longer than 1 night." },
+                { author: "Luna", country: "Verified traveller review", rating: 5, date: "2025-11-26", text: "Le bateau était magnifique : la chambre était très grande, avec baignoire, et très propre. Le personnel était très agréable et attentionné. Excellent suivi logistique avant, pendant et après le séjour grâce à Hana via WhatsApp. Le planning détaillé de toutes les activités de la journée est un vrai plus. Petite remarque : lors de la réservation, je n’avais pas vu que le jacuzzi était une option payante, dommage." },
+                { author: "Willem", country: "Verified traveller review", rating: 5, date: "2025-11-23", text: "Very well organized cruise!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-22", text: "our trip was excellent we really love the staff’s Cruise, we also love the activities in particular kayaking and we really like our room too !" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-10", text: "Boat was really nice and also the food they served. Activities are okay but more info should be provided about them and also about what to wear or bring with you. Anyway I would book it again:)" },
+                { author: "Amandine", country: "Verified traveller review", rating: 5, date: "2025-03-18", text: "Super!!!! L’équipe le bateau l’organisation tout est super" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2023-05-03", text: "Un des plus beaux moments de notre voyage!!! Le bateau de croisière est à taille humaine, la grande baie vitrée des cabines donne une vue magnifique sur les pitons rocheux. La chambre était parfaite. Nous avons beaucoup apprécié l'activité autonome en cayak ! Nous sommes passés par des grottes et avons vu des lagons calmes et superbes, où vivent de très beaux singes. Vous avez la possibilité de le faire en bateau-bambou avec rameur, mais nous déconseillons cela car il ne pourra pas vous amener par les grottes et vous raterez ces lagons. Vous aurez par la suite la possibilité de plonger du bate" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ha-long-bay-cruise-and-ninh-binh-unesco-tour') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 57,
+            guideRating: 4.8,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Phillip", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Amazing day on this Ninh Binh tour. Our guide Duyen was excellent and very professional, she was amazing guide who made sure everything went well. Recommend this trip." },
+                { author: "Utkarsh", country: "Verified traveller review", rating: 5, date: "2025-10-16", text: "Tom was very helpful right from the start. He communicated everything in order to make our experience wonderful. I recommend everyone to book this for best experience." },
+                { author: "arvin", country: "Verified traveller review", rating: 5, date: "2024-09-01", text: "everyone where very professional and friendly.. best budget day tour ever" },
+                { author: "Samuel", country: "Verified traveller review", rating: 5, date: "2024-02-10", text: "It was very interesting and informative, easy trip and very enjoyable" },
+                { author: "Kakada", country: "Verified traveller review", rating: 5, date: "2023-12-25", text: "For those with limited amount of time and want to capture the beauty of Halong Bay and Ninh Binh, this is a great, jam packed itinerary for you to cross off your list. Our first guide Sunny for day 1, is super enthusiastic, informative and kept the humor going all day. It made the day fun and enjoyable. Our second guide Key for day 2, also did a good job and provided a lot of facts. All in all, a great experience. Transfers were on time, the guides were awesome and you get to see breathtaking and stunning views of Vietnam's beauty." },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2023-11-05", text: "Both days of the tour were great! Full of great activities and information from the tour guides. Our Ninh Binh tour was ran by Luca and our Ha Long tour was ran by Sunny. Both guys were great and kept the tour moving." },
+                { author: "Remo", country: "Verified traveller review", rating: 4, date: "2025-03-10", text: "The first day in Halong Bay felt like a massive Tourist rip off. There were too many people from multiple cruises, which caused long waiting lanes and reduced quality overall. Imagine all these „fail-flute“ reels on Instagram and Tiktok; that’s what it has been. Overall, I wouldn‘t recommend. I did it already in 2019 and it got worse. However, day 2 around Ninh Binh was way better. We good a super fun tour guide and had a great day. Even though it was cloudy, the activities were still great! We didn‘t feel pressured at all, even walked around other tourists. I totally would recommend the Ninh" },
+                { author: "Anna", country: "Verified traveller review", rating: 4, date: "2024-01-23", text: "I booked this tour for my friends and I. We were a group of four. The tour programs were nice and quite accommodating. We enjoyed the tour and were enthralled by the country’s rich cultural tapestry and stunning landscapes. Our tour guides, Sunny, to Halong Bay was helpful and kind, while Happy, our guide on the second day was also knowledgeable and hospitable. The only drawback that we have felt on our journeys and decided not to give a five star could be the bus on the first day. The seats on the bus were very small and all seats were crammed up with passengers. A lot of seats were broken. O" },
+                { author: "Mara", country: "Verified traveller review", rating: 4, date: "2023-10-15", text: "It was a nice 2 day activity. I liked that we got to see different things and do different activities. I didn't like being stuck on the boat for a long period of time. The guides were friendly and knowledgeable. I'd recommend to others these tours." },
+                { author: "Adam", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "Very fun. Ken was a fantastic guide!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-08-21", text: "Alex (Halong Bay tour guide) and Duyen (Ninh Binh tour guide) were very professional and always available to provide support and helpful information about the trip. Two fantastic and unforgettable days, thank you both! Guglielmo" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-03-29", text: "Sunny and his team were friendly, knowledge and helpful. He made sure we were safe and was very entertaining. However, as the days are long on tour we chose, it would have been great if it was clearly stated that only lunch is provided. As the time from pick up to drop off was 8:00am-9:00pm it was not clear in the description that only one meal was provided. Additionally, the lunch was ok compared to other tours we have a hoed during our time in Vietnam." }
+            ]
+        };
+    }
+
+    if (slug === 'ha-long-bay-day-cruise-swimming-meal-kayaking') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 13751,
+            guideRating: 4.9,
+            valueRating: 4.79,
+            reviews: [
+                { author: "Gillian", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "The day was fantastic! Great value. The cruise provided lovely food which suited everyone, kayaking was fun and the whole day was so good, we even could cool off on the boats small pool. Highly recommend!" },
+                { author: "Todd", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Thang was a great guide on this tour. He was extremely clear on the itinerary, giving enough time at each stop and location. Additionally, he was very friendly and approachable and gave lots of really interesting information about the area. The boat was very nice and comfortable with very good facilities." },
+                { author: "Marco", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Linh was a great tour guide. Very good English speaking, helpful and was happy to answer any questions. He also helped me sort out some issues I was having with my sleeper bus that night. Legend." },
+                { author: "Patricia", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "We had a very enjoyable day out on the day trip to Halong Bay. Our guide Tony was responsive on confirming the meetup and responsible to ensure that no one was left behind. The trip was clearly communicated on each location and what to do and when and where to be picked up. My family enjoyed the day trip very much. Driver was also drove safely." },
+                { author: "Yesua", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Truong was an amazing and sweet guide. He was really interactive and made sure everyone having fun and was okay. Made sure the whole group was safe and everything. Would 100% recommend again." },
+                { author: "Nicolas", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Alex was a great guide, the tour was amazing, good price, nice places. Great staff in the cruise." },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Was a really nice day visiting the cave, doing some kayaking, the cruise was really nice. Our tour guide Alex was incredible" },
+                { author: "Simone", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We had a wonderful day exploring Ha Long Bay with Thang as our tour guide. He was very friendly, helpful, and knowledgeable, and shared lots of interesting information throughout the tour. He was also attentive to everyone in the group and made sure we were comfortable and enjoying the experience. Ha Long Bay was absolutely beautiful, and having such a great guide made the day even more enjoyable. Thank you, Thang, for making this experience so memorable! Highly recommended! 🇻🇳💙" },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Booked the day before without any issued and had an enjoyable day in Ha Long Bay. Our tour guide Thang was lovely." },
+                { author: "Fabian", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Alex was really kind and help us with all the questions and useful information" },
+                { author: "Tia", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Mike was the best guide and made our trip memorable. He is the perfect host and delivered beyond our expectations with historical facts, funny jokes, recommendations for excursions and overall made the entire trip easy. Highly recommend this activity to anyone visiting Hanoi !! When you book, ask to be in Mike group you won’t regret it." },
+                { author: "Rob", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Amazing trip We thoroughly enjoyed the whole experience Highly recommended" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-hanoi-ninh-binh-halong-bay-luxury-cruise-ha-long-bay') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 884,
+            guideRating: 4.84,
+            valueRating: 4.82,
+            reviews: [
+                { author: "Phoebe", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "Excellent tour lead by Cuong aka the golden goat and then the next day by Brian. Really enjoyed seeing the country side of Ninh Binh and journeying through the mountains and temple. The next day is a solid day tour of ha long bay with cave exploration and gorgeous views" },
+                { author: "Minh", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "Tinh was a great guide. The tour was excellent. We had enough time to do so many activities such as visiting the cave and kayak in Ha Long Bay. The cruise was beautiful with great food and super clean. I would definitely do it again!" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "whole tour was excellent and made even better with an excellence tour guide who had facts, jokes and just a great vibe all and all. the whole staff made the day that even more special !!! we love Tinh and if anyone gets me congratulations you've got the goat" },
+                { author: "Mariana", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "Everything was amazing! We loved every detail of the tour! Leader and Tinh were amazing guides!" },
+                { author: "Carl", country: "Verified traveller review", rating: 5, date: "2025-12-24", text: "meet some great people, loved our guide, caves were amazing and the food was delicious, I had fun at the after party ride back." },
+                { author: "Heather", country: "Verified traveller review", rating: 5, date: "2025-12-14", text: "Great day trip with a fantastic guide! Food was great also!" },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "We loved 'Hero' our tour guide. He had us laughing and enjoying our trip. He made sure we were ALL happy and looked after. Thank you so much to the handsome Hero!!! 🦸‍♂️" },
+                { author: "Joshua", country: "Verified traveller review", rating: 5, date: "2025-11-17", text: "really really amazing trip would highly recommended tom was very helpful stunning views" },
+                { author: "Salina", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "We had an incredible time exploring Ninh Binh and Halong bay with our tour guide, Ryan and Henry. From the moment we met, they were friendly, knowledgeable, and passionate about sharing the city’s culture and history. Transporting bus was very comfortable. Buffet lunch was delicious. What really stood out was how both Ryan and He ry. made everyone feel comfortable and welcome, always checking that we were enjoying ourselves and accomodating our needs." },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2025-11-03", text: "Everything great, especially I loved the bike ride and the rivers. lol" },
+                { author: "Tiziana", country: "Verified traveller review", rating: 5, date: "2025-10-23", text: "Truong is a wonderful guide, we saw a lot of beautiful places with him and he told us a lot of interesting and amusing things. We had a great experience and we definitely recommend this tour" },
+                { author: "Abigail", country: "Verified traveller review", rating: 5, date: "2025-10-13", text: "Wonderful tour! Quy and Tình were great tour guides and the whole experience felt very luxurious. Very nice transportation and the boat was really nice as well. Would recommend to anyone looking for a cheaper alternative to an overnight luxury cruise. Be prepared to get a workout in and sweat if you choose to do the excursions!" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-lan-ha-bay-5-star-cruise-with-balcony-in-ha-long-bay') {
+        return {
+            averageRating: 4.73,
+            totalReviews: 194,
+            guideRating: 4.79,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Charlie", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "We did not get a banana boat excursion that we were expecting" },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-01-31", text: "We had a great time on the cruise especially all the different activities and amazing staff" },
+                { author: "Yelena", country: "Verified traveller review", rating: 5, date: "2025-12-20", text: "The staff are super nice and friendly, each room has a private balcony to take in the picturesque views of Ha long bay. They also prepared a birthday cake as requested which made my day! The drawback is the wait after we were transported back to the waiting lounge to be picked up by the bus going back to Hanoi." },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2025-04-20", text: "La Regina Grand was the best boat I’ve ever been! Good staff, the rooms were great, and the food is amazing! However I just felt that we didn’t spent much time driving the boat. We stayed pretty much in the same spot during the trip. But I still recommend a lot this experience!" },
+                { author: "Thuy", country: "Verified traveller review", rating: 5, date: "2024-12-25", text: "Had a wonderful time onboard Le Regina Grand, views stunning! It felt like heaven on Halong Bay! I was sick during my trip so unfortunately couldn’t do the boat activities. The banana boat ride & cave was great to explore. Staff & especially reception / tour guide Tom were exceptional with customer service and were really funny giving all the guest a laugh and very welcoming. Next time I would pick 3 days 2 nights for more time to enjoy further. Value for money compared to other pricing with other companies, note there is a few surcharges during peak so make so you read all terms & conditions" },
+                { author: "Chelsea", country: "Verified traveller review", rating: 5, date: "2024-10-24", text: "The whole experience was amazing. Staff were funny and kind. Boat was very clean and everything was great value for money." },
+                { author: "Danique", country: "Verified traveller review", rating: 5, date: "2024-10-16", text: "We loved this trip! The bus ride from Hanoi to Halong Bay took around 3 hours. After that we were brought to our cruise with a small boat. The larger boats are already in Halong Bay. Both the bus as well as the cruise were incredibly luxurious. The boat was modern but still authentic (it was more of a river cruise). The activities were entertaining: from kayaking to swimming (in the sea vs on board in the pool). The food was a-ma-zing, it looked good and it tasted good. The staff was attentive and very kind, making sure the guests enjoyed their stay. One remark: We booked a 2 day trip. This tr" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2024-09-22", text: "Amazing, The staff are the most friendly people you will ever meet." },
+                { author: "Marvin", country: "Verified traveller review", rating: 5, date: "2024-08-31", text: "It was a very nice trip with a great stuff. Thanks to Mrs Hao, Mrs Ni, the general manger and the complete stuff for that great trip. The meals, the room and all short trips where great. Very good planned and organized! Thanks!" },
+                { author: "Tomohiro", country: "Verified traveller review", rating: 5, date: "2024-08-11", text: "nick cruise assistance, he is really good guy and professional. he gave us the best experience, he is taking care us all the time on the cruise. he is really funny joker and handsome man. thank you nick" },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2024-08-07", text: "Excellent trip. Great communication throughout. Staying on the boat was amazing- very luxurious. The staff were extremely helpful & went out of their way to provide me with vegan meals." },
+                { author: "Maureen", country: "Verified traveller review", rating: 5, date: "2024-06-25", text: "Would highly recommend this trip the views are stunning. Excellent service from all staff on board the cruise. Food was of a high quality and you definitely won't go hungry. Cabins are very comfortable with everything you need. Activities are fun and worth taking part in. Five star tour ⭐⭐⭐⭐⭐" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-hanoi-ninh-binh-halong-bay-5-star-cruise-and-balcony-ha-long-bay') {
+        return {
+            averageRating: 4.61,
+            totalReviews: 85,
+            guideRating: 4.6,
+            valueRating: 4.55,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2025-01-05", text: "We appreciated very much our Tour Guido. It would be good to have him also tomorrow for the 2nd part of the tour" },
+                { author: "Kerri", country: "Verified traveller review", rating: 5, date: "2024-11-04", text: "Everything was well organised. Jessica contacted me to let me know details of the itinerary and was available to help with any issues throughout our tour. The activities in Ninh Binh were well organised and worthwhile. Our guide Viet was very engaged and informative. The climb at Mua Caves was steep but worth the beautiful view from the top. Our accommodation in Ninh Binh was lovely. It is a long drive the next day to Halong Bay but the cruise with Athena was very nice. Special mention to Andy from Athena, the cruise director, he was great. Wonderful staff, good food and a lovely balcony room." },
+                { author: "Andreas", country: "Verified traveller review", rating: 5, date: "2024-10-17", text: "My wife and I both had a great time on this tour! We would like to especially shout out our Ninh Binh guide Leo, who did a great job giving us interesting information about a whole range of topics surrounding religion and culture in Vietnam and in keeping the tour on track. Our personal first day highlights were probably the boat trip in Ninh Binh and biking around after we got to hotel to take in the gorgeous scenery. We both also loved the cruise and thought that the food was exceptionally good! The crew on the ship was also great! Our favorite activity was probably kayaking in Halong Bay, d" },
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2024-10-08", text: "This was an amazing and fun tour. The tour company kept in great contact with me before the tour, during, and follow up. Even arranging special transfer to airport for me at the end of the tour. The boat was super comfortable, very nice, excursions were fun and well organized. I’d highly recommend this group and this tour." },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2024-08-11", text: "it was all beautiful and very well organized. the staff was great, very good Nick for the tao chi lesson and for the assistance of the guests." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2024-08-03", text: "Excellent activity Staff exceptional Very comfortable cabin Food excellent" },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2024-07-29", text: "Excellent cruise with superb knowledgeable guide minh binh homestay excellent River boat ride too long but overall excellent tour" },
+                { author: "Duncan", country: "Verified traveller review", rating: 5, date: "2024-06-16", text: "Great trip! All the guides, staff and Jessica went out of their way to make sure everything ran perfectly!" },
+                { author: "Shahnawaz", country: "Verified traveller review", rating: 5, date: "2024-06-01", text: "the people involved were very helpful. everything was perfectly planned. Vegetraian food options were also good. everything that was commuted was provided." },
+                { author: "Elva", country: "Verified traveller review", rating: 5, date: "2024-05-04", text: "Incredible organization. Jessica was taking care of us almost 24h. Ready to attend our requests. Never alone, great activities, great food. Nice staff at all our tour. We will highly recommend any tour with this company. Variety of food in all meals, as vegetarian they offer me a special menu that achieve my expectations. Lovey cruise with different activities during the sail. Special mention to Hah, the person in charge during the cruise. Thanks to the company and the staff!!" },
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2024-01-18", text: "Excellent from start to finish. Great value for money with so much included." },
+                { author: "탐쿠", country: "Verified traveller review", rating: 5, date: "2024-01-09", text: "All schedule is well organized and full with exciting activity! My family really enjoy this trip. I strongly recommend this tirp!" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-halong-bay-5-star-cruise-ninh-binh-tour') {
+        return {
+            averageRating: 4.82,
+            totalReviews: 20,
+            guideRating: 5.0,
+            valueRating: 4.8,
+            reviews: [
+                { author: "Jonathan", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Well organised and great trip all round. The only minor hiccup was me not reading the small print about a surcharge for the lunar new year but it didn’t spoil the overall experience. Both the Ninh Binh and Ha Long Cruise were special trips. The staff on the tours, in the and on the boat were all very friendly and helpful. The communication throughout was very good and we had an amazing time." },
+                { author: "Akhil", country: "Verified traveller review", rating: 5, date: "2024-04-05", text: "A fantastic trip! Jennifer from the main office was very helpful coordinating this trip & Quy our guide was very knowledgeable - he is a native of Ninh Binh so that was a big plus. The limo bus was of high quality, the lunch stop was clean & tasty, the cycles provided & the cycling route was perfect, nice temple tour. But the highlights were the glorious 1.5 hour boat ride in Tam Coc & the challenging yet rewarding hike up to the top of Mua Caves." },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2024-02-18", text: "excellent guide and well balanced day - buffet lunch very good for a tour. Bus a bit uncomfortable over the bumps but probably as I was sat at the back!" },
+                { author: "Julien", country: "Verified traveller review", rating: 5, date: "2023-09-25", text: "Very nice and interesting trip to various places around Ninh Binh. We really enjoyed the visits, especially the boat ride, and our guide explained a lot, always in a professional and entertaining way. Highly recommended!" },
+                { author: "Wilson", country: "Verified traveller review", rating: 5, date: "2023-07-20", text: "Great tour in a beautiful area. The tour company reached out not long after I booked this to check in on my group’s pick-up location and other logistics. Our guide Ha was very welcoming, informative without feeling overbearing, and patient. My group was running late to our pick-up location (we booked a hotel outside of Old Quarter) and Ha was very accommodating. He even spoke with our Grab driver to redirect us properly. Ha let the group do their own thing for the Tam Coc, which was great for setting our own pace. The boat ride was a good duration. A longer time doesn’t seem necessary. The buf" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-01-27", text: "This tour was great, I particularly liked the cycling through the village and climbing up the mountain. The guide was kind and entertaining." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-10-17", text: "nice day trip full of adventures with a really Good guide" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2024-07-25", text: "El tour ha sido de 10, muy atentos todo el tiempo tanto la persona que organiza el tour como nuestro guía Victor. Se ven paisajes preciosos. Se hace muy ameno el viaje gracias a Victor. Recomendado 100%" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2023-12-21", text: "Great tour guide and driver, nice mix of sightseeing and activities. Would have loved to see more of mua cave area and more bike riding" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2023-12-14", text: "Good trip. A few locations, good food, comfortable bus, pleasure guide." },
+                { author: "Jana", country: "Verified traveller review", rating: 5, date: "2023-11-21", text: "Danke an unseren netten, aufmerksamen Guide Quy für seine vielen Infos und Prima Begleitung. Wie immer ist ein Tag zu kurz, wer Zeit und Möglichkeit hat, sollte länger dort bleiben. Es lohnt sich." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ha-long-bay-boat-tour-cabin-with-ocean-view') {
+        return {
+            averageRating: 4.21,
+            totalReviews: 415,
+            guideRating: 4.51,
+            valueRating: 4.06,
+            reviews: [
+                { author: "Son", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "It is an amazing trip. Sung Sot cave is so fantastic. Kayaking in Luon cave is the best experience I have ever done. Service on cruise is very good. Nice and friendly tour guide and staffs and the food is so good. The itinerary is suitable with almost people in my opinion." },
+                { author: "Lia", country: "Verified traveller review", rating: 5, date: "2026-03-13", text: "Beautiful time spent with wonderful people. Our guide Pink was incredibly helpful and sent us an itinerary in advance so we knew exactly what to do and where to be. It was very helpful. We do wish that there would have been free water provided with each meal." },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "I did the 2-day, 1-night Ha Long Bay tour and had an amazing experience. Our guide, Pink, was truly outstanding, One of the best guides I’ve ever had. She was so funny, incredibly informative, perfectly organized, and brought such a positive energy to the whole trip. You could tell she genuinely cared about everyone having a great time, and she made the experience unforgettable. The activities were a lot of fun, even though some spots were crowded (which makes sense because Ha Long Bay is absolutely worth it). The cruise itself was very comfortable, with cozy beds and nice cabins. The food was" },
+                { author: "Thaleia", country: "Verified traveller review", rating: 5, date: "2025-11-17", text: "The cruise was great from our pick up until drop off. Our guide, Long, and the cruise ship staff were always helpful and friendly and all the meals offered on board were big quantities and delicious! All activities were organized in detail and there was a lot to do in just 2days time, giving guests a good overview of the location. Our room offered all the amenities you need, even a balcony! I would definitely recommend this trip and I have so many good memories of Halong Bay as it's such a unique part of Vietnam but also thanks to the great organization!" },
+                { author: "Anthony", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "Very friendly guide and staff. Plenty to eat at meal times and also catered for people who have food preferences. Good activities during the trip. Would highly recommend." },
+                { author: "Kate", country: "Verified traveller review", rating: 5, date: "2025-11-01", text: "I cannot recommend this enough. Absolutely fantastic!! Beautiful, relaxing - the activities were amazing the hosts impeccable. Lovely smaller boat which made it even more relaxing. Just perfect! Xx" },
+                { author: "Gianluca", country: "Verified traveller review", rating: 5, date: "2025-10-10", text: "Amazing experience, we loved the place. The guide Pink is super funny and can literally solve anything in a second!" },
+                { author: "Jordan", country: "Verified traveller review", rating: 5, date: "2025-06-22", text: "I was slightly hesitant to book this given the cheap price compared to so many other tours, but I’m so glad I did! The boat was comfortable and spacious, the food was great and activities were fun and well organised. The hotel pickup and drop off was also seamless and easy to arrange. Cannot thank Tony and the team enough for the effort they put into making the experience so great." },
+                { author: "Steven", country: "Verified traveller review", rating: 5, date: "2025-05-04", text: "Trip was fantastic, really enjoyed and tour guides were extremely informative and friendly. Would recommend." },
+                { author: "Pradeep", country: "Verified traveller review", rating: 5, date: "2025-04-24", text: "Long and the team were very attentive to our needs, and deserve to be applauded." },
+                { author: "Caroline", country: "Verified traveller review", rating: 5, date: "2025-04-07", text: "This was very well organised tour and a nice crew that serves tasty food! Long was a great guide. Make sure if you book a cabin solo that you make it clear to the team and that you are happy to pay the extra fee as indicated in the details of the activity. We had a slight miscommunication with the owner and I did not make it clear so I ended up sharing the room but with a lovely young lady so all ended well." },
+                { author: "Tyler", country: "Verified traveller review", rating: 5, date: "2025-03-31", text: "The guide was incredible and so was the boat staff. I loved it. It was a great experience for me and my family!!!" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ninh-binh-tour-and-lan-ha-bay-luxury-day-cruise') {
+        return {
+            averageRating: 4.33,
+            totalReviews: 43,
+            guideRating: 4.42,
+            valueRating: 4.27,
+            reviews: [
+                { author: "Paco", country: "Verified traveller review", rating: 5, date: "2025-08-25", text: "The tour was excellent, both the road trip to Ning Bonh and the cruise to Halong Bay. The only inconvenience was having to share the cruise with a bunch of rowdy drunken Australians, a true embarrassment for everyone else. Those people should go on separate cruises" },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2025-07-29", text: "Great Service Despite Changes The trip started in Ninh Binh, where we explored beautiful landscapes and visited ancient temples. The area is absolutely stunning and peaceful, and the day was well-organized from start to finish. Due to bad weather the Ha Long Bay cruise had to be postponed. It was disappointing at first, but the tour company handled everything very professionally. We received a partial refund for the missed night, and the cruise was rescheduled for a later date, which we truly appreciated. Once the weather cleared, we finally boarded the Ha Long Bay cruise, and it was worth the" },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "The tour was very well organised with knowledgeable guides." },
+                { author: "Mariann", country: "Verified traveller review", rating: 5, date: "2025-01-25", text: "Only one word: fantastic. Must be seen to be appreciated! Very well organized, friendly and competent staff, wonderful ship, even with a Jakuzzi! Great program in Minh Binh. We'll come back some day for sure with this company. Couldn't give 6 🤩 as 5 is maximum!" },
+                { author: "Nha", country: "Verified traveller review", rating: 5, date: "2024-11-22", text: "I loved my Ninh Binh and Ha Long Bay excursions. Our tour guides were amazing. Our cruise ship was clean and comfortable. This was the best experience throughout our travels from north to south Vietnam." },
+                { author: "Rafał", country: "Verified traveller review", rating: 4, date: "2024-11-09", text: "Viet was a great guide in Ninh Binh. Our ship was OK, but it wasn’t one one the photos." },
+                { author: "Andrew", country: "Verified traveller review", rating: 3, date: "2026-06-08", text: "In my opinion the yacht was not luxury. The Crew attempted to provide good activities in 40 oC + heat. The only relief from the heat (night or day) was in stateroom The only luxury meal in my opinion was the evening dinner The only way to test if tour was luxury is to do it. IN MY OPINION THE TERM LUXURY IS FALSE ADVERTISING" },
+                { author: "Christian", country: "Verified traveller review", rating: 4, date: "2025-11-18", text: "Die Ziele waren sehr interessant und sehenswert Teilweise unklare Kommunikation der Busfahrer und Reiseleiter am Weg zu den Sehenswürdigkeiten. Schiff war schon etwas älter aber das Essen hervorragend Die Reiseleiterin Sunny war top und sehr sympathisch" },
+                { author: "Felix", country: "Verified traveller review", rating: 3, date: "2025-11-12", text: "Man sollte sich im Klaren sein, dass man weniger als 24 Stunden wirklich auf dem Boot ist. 1 Tag Ausflug Ninh Binh von Hanoi aus, das Hotel the Little village schön, Essen sehr gut, die Tour/Transfer gut organisiert. 2. Tag Transfer Halong Bay, dort erstmal viel Wartezeit und keiner der so richtig für einen zuständig ist. 45 min Tenderboat aufs richtige Boot (Calypso Cruise 2) um 13:00 waren wir schließlich da. Unsere Kabine war sauber, hatte keinen Balkon, das Fenster konnte man nicht aufmachen, es war super laut und hat vibriert, weil wir genau über dem Motor waren. Essen auf dem Schiff war" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-07", text: "Alles war sehr gut organisiert und alle Mitarbeiter waren sehr bemüht und freundlich" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-08-12", text: "Een echte aanrader! Alles was zeer goed gecommuniceerd en tiptop georganiseerd." },
+                { author: "Niederbrunner", country: "Verified traveller review", rating: 5, date: "2025-07-19", text: "Alles war wunderbar organisiert die Crew der New Calypso II war wundervoll das Schiff und die Angebote perfekt, das little River Bungalow in TamCoc war super und der Guide spitze. Auch die Busfahrt nach Hoi an war super geplant." }
+            ]
+        };
+    }
+
+    if (slug === 'halong-bay-luxury-tour-on-5-star-cruise') {
+        return {
+            averageRating: 4.53,
+            totalReviews: 181,
+            guideRating: 4.66,
+            valueRating: 4.58,
+            reviews: [
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Halong Bay was phenomenal, we took the optional speedboat Ride (at cost, around £10) around the islands which was stunning and very worth it. the buffet lunch was great, there were vegan options for us which was good - but we had to ask a few staff to assertain which were good for us as they weren't labelled as such. our tour guide Long was brilliant, informative and friendly. we also got the chance to canoe through a cave and see some incredible scenery from the water. all in all great day, thank you Long!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-07", text: "Our guide Robert hung was excellent, he made sure every time that everyone was back on the boat and was attentive to questions about the activities on offer. The boat was well equipped and the staff were also very nice" },
+                { author: "Tereza", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "Lovely trip to Ha Long Bay, worth the money. We enjoyed it, there is so many activities included!" },
+                { author: "Frederic", country: "Verified traveller review", rating: 5, date: "2026-03-14", text: "Absolutely awesome day. Good organisation. Paul was my guide and he is a legend. Perfect English and super funny. Give that man a raise!" },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-01-30", text: "Tung was an excellent guide and I had a great trip to Halong Bay" },
+                { author: "Adelle", country: "Verified traveller review", rating: 5, date: "2026-01-22", text: "Hank our tour guide was great and worked hard to make sure we had a good day. The boat and bus were both very comfortable and spacious, and the food provided was delicious. Just be aware that all the tours do the exact same route though so it will be busy and there will be lines for everything. There’s also a 45 minute stop at a pearl shop that was for us a waste of time and took away from an otherwise great day." },
+                { author: "Hallborg", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "We liked everything. The day was better than expected and many many thanks to Tiger - Than, he was loving, caring and really funny too. 🥰 ❤️❤️ Would totally recommend this tour." },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "Excellent trip with Tiger we had so much fun I recommend this trip you won’t be disappointed" },
+                { author: "Kris", country: "Verified traveller review", rating: 5, date: "2025-12-25", text: "Thanh was super helpful and very knowledgeable, transport, both bus and boat are modern and full of mod-cons, lunch was great value for money and the cruise staff couldn't have been more helpful! Fully flexible for requirements and the itinerary ensuring best use of time. Would recommend and book with them again when next in Vietnam, thank you Thanh!" },
+                { author: "Bhumika", country: "Verified traveller review", rating: 5, date: "2025-10-10", text: "Had an absolutely great time during this activity. It was very well planned and a day full of fun. Tung is a very experienced and fun guide. He made the trip interesting. Highly recommend booking this trip. Worth every penny spent." },
+                { author: "明石綾", country: "Verified traveller review", rating: 5, date: "2025-10-05", text: "It was a great experience, sunset from the boat was very nice, and our guide was so nice and always smiling♥" },
+                { author: "Ioan", country: "Verified traveller review", rating: 5, date: "2025-10-03", text: "The tour was great and I higlhy recommend. Huy dong was a great tour guide: nice explanations, very joyful ajd enjoyable. Good food, modern boat, nice experiences!" }
+            ]
+        };
+    }
+
+    if (slug === '5-day-ninh-binh-ha-long-bay-and-ha-giang-loop-tour') {
+        return {
+            averageRating: 4.67,
+            totalReviews: 5,
+            guideRating: 4.67,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Mukta", country: "Verified traveller review", rating: 5, date: "2026-02-27", text: "It’s was an amazing and unforgettable 5 day tour and all three tour spots were beautiful. Tripbestie team was very communicative throughout the tour, ensuring we arrived to each tour locations safely. Trip bestie and the Ha Giang Loop team were amazing- surprised me on my birthday and got a yummy cake to celebrate it. Made the day memorable! They took care of us and the tour team very well. Checked on us frequently. Cua, the team leader in Ha Giang Loop was very helpful and funny! The price for this tour is great considering the amazing experience we had. The only feedback is perhaps alternati" },
+                { author: "Selina", country: "Verified traveller review", rating: 5, date: "2024-12-16", text: "The whole 5 days were amazing. The coordination by TripBestie was great everything worked out perfectly. I got picked up at my Hotel and dropped off where I was supposed to. I never had to think at all😅 All the tours I made I would definitely recommend but the Ha Giang Loop was for sure my favorite. I did upgrade to a singleroom for one night which I really recommend. And looking back I would probably upgrade the sleeper buses as well." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-07-28", text: "ninh binh und ha long Bay ist voller Touristen. Der Loop ist spaßig aber sehr anstrengend für große Personen" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "las vistas han sido hermosas y el conductor Erick un crack" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-12-18", text: "This is a great package for seeing the highlights of Northern Vietnam in a short amount of time. TripBestie made sure I was well taken care of and coordinated my transportation and all of the logistics with care. Even after my 5 days tour ended, I opted to go Sapa and Da Nang afterwards in which TripBestie helped me coordinate my transportation. Couldn’t recommend this package/company enough! Amazing service and support. Staff were happy to answer any questions I had and frequently checked up on me—very attentive. All of the three sites within this tour were beautiful!! Lots of opportunities t" }
+            ]
+        };
+    }
+
+    if (slug === 'sa-pa-private-tour-glass-bridge-cat-cat-moana-best-view-sapa') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 19,
+            guideRating: 4.86,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Shelley-Anne", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "I had a lovely tour with my guide Tuyet & our driver, everything from pickup through to the end of the tour was perfect. The day was well paced & Tuyet was very knowledgeable & attentive & very helpful in assisting with my onward sightseeing plans later in Sapa. I would highly recommend." },
+                { author: "Nikki", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Sapa was beautiful and our guide La was super sweet, very informative and helpful. She took us to all these beautiful villages and areas that was breath taking. I would highly recommend this tour and La as your guide." },
+                { author: "Mali", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "We had a great time on our tour with Sun lee. It felt like a private tour and our tour was extreme accommodating and pleasant from beginning to end. This was a great package tour and worth the time and money." },
+                { author: "Darren", country: "Verified traveller review", rating: 5, date: "2026-04-25", text: "This was such an amazing tour! Lass was an incredible guide with so much local knowledge who happily shared the history and culture of her home. Highly recommend!!!" },
+                { author: "Sharad", country: "Verified traveller review", rating: 5, date: "2026-04-01", text: "Linh was a wonderful and enthusiastic guide. Full marks to her. The tour was absolutely worth it." },
+                { author: "Sheetal", country: "Verified traveller review", rating: 5, date: "2026-03-20", text: "I had such a fun day despite the weather. My tour guide Snow was absolutely amazing. She spoke great English and explained everything in great detail and we had such a great laugh. She kept checking on me to see if I was ok. I was looked after very well by Snow. I definitely recommend doing this tour." },
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2026-01-30", text: "We had a great day, seeing a good variety of different places and fantastic views. Our guide was super friendly and knowledgeable. He gave us very interesting information and took lots of photos of us. The food was also very good. I would recommend this trip" },
+                { author: "Santhosh", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "awesome guide. wonderful ride. lovely places." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-16", text: "Même si le beau temps n'était pas de la partie, nous avons passé une très belle journée en compagnie de notre guide La. son sourire et sa bonne humeur nous ont vite fait oublier le mauvais temps. Elle a réalisé également de très belles photos de mon mari et moi. un beau souvenir en plus. Nous avons mangé dans un petit restaurant local. Excellent. Merci pour tout" }
+            ]
+        };
+    }
+
+    if (slug === 't-van-to-su-pan-guided-trek-with-local-guide-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Elles", country: "Verified traveller review", rating: 5, date: "2025-11-28", text: "I booked this tour because it is one of the few with Ta Van as starting point, perfect for if you are staying in the village already. I was the only one on my tour today so private but I think it depends on the day. We started from Ta Van village and hiked for 3 hours, the views are amazing and there is alot of variety in the scenery. Beware if you are a beginner because the trek can be quite challenging at some parts and there is alot of walking up and down on some steep paths or stepping stones over creeks. The guide will help you through it! I had a really good time with my guide and she wa" }
+            ]
+        };
+    }
+
+    if (slug === 'traditional-batik-wax-drawing-workshop-in-ta-van-village-in-sapa') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 19,
+            guideRating: 4.75,
+            valueRating: 4.29,
+            reviews: [
+                { author: "Renata", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "We had a workshop led by Hoang, and I have to say, it’s been a long time since I’ve experienced such a nicely run workshop. Hoang was very kind and patient. He explained everything to us and helped us. We managed to create two paintings. Also the place is beautiful, with a view of the mountains. They serve really good coffee and food there. Thank you for the wonderful and peaceful experience! :)" },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "The batik workshop was a lot of fun! Our guide Chili was amazing, so friendly, helpful, and knowledgeable. Our batiks turned out great! Overall, drawing on the batik with the beeswax was relaxing and fun but I think the price is a little steep considering we didn’t get to actually dye our pieces in the indigo ourselves. Chili explained the process to us and then took them home to dye and boil the wax off, then she dropped them off at our hostel the next morning which was very convenient!" },
+                { author: "Eva-May", country: "Verified traveller review", rating: 5, date: "2026-01-14", text: "Mia was a brilliant teacher! Such a a special experience in a beautiful location." },
+                { author: "Evelyn", country: "Verified traveller review", rating: 5, date: "2025-12-15", text: "We had so much fun in this class! It was in a beautiful setting with views of the rice terraces. The instructor Sisi was very nice and showed us how to do everything. We got to make a full batik piece including indigo dying using a design Sisi pre-drew. Then while our work was dyeing we had the option to draw our own design and wax it. The whole workshop lasted 4 hours to do the batik and dyeing not 2 hours but we were happy to spend the time there." },
+                { author: "Kinga", country: "Verified traveller review", rating: 4, date: "2025-11-18", text: "It’s cool activity for people who like art. I was just a little bit confused at the end, I didn’t really know what’s going on and for some reason we haven’t done the finishing step which is boiling the fabric and cleaning the wax 🤔 I had to go back home and read about the activity again cuz I felt like I’m missing something 🤔🤔" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "Das traditionelle Batik Wax painting war eine schöne meditative Erfahrung, wobei wir ein junge sehr sympathische Hmong Frau als Anleiterin hatten, die sehr empathisch und angenehm Unterstützung bot wo gewünscht. Nebenbei hatten wir sehr schöne und interessante Gespräche, in denen wir Eindrücke in die verschiedenen Kulturen und Bröuche dieser Gegend bekamen. Sehr empfehlenswert! 😊" },
+                { author: "Irene", country: "Verified traveller review", rating: 4, date: "2026-09-04", text: "La guía no era muy habladora pero fue muy maja y pudimos hacer dos telas cada una que salieron espectaculares y nos llevamos de recuerdo. Tenían que pasar la noche secándose y nos íbamos pronto al día siguiente y nos las trajeron al hotel" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Fantastisch!!!! Zeker gaan bezoeken." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "Es war eine sehr interessante Erfahrung. Unser Guide war sehr lieb und hat sich viel Zeit genommen. Die fertigen Tücher waren sehr schön. Der Kurs lohnt sich definitiv." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-15", text: "Super leuk! Chili wist echt veel over batik en kon je goed helpen in het maken, zeker een aanrader!" },
+                { author: "Georgia", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "Really fun and informative!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-02", text: "the guide was fantastic in explaining the culture of the dyeing process. she guided me through the understanding of using beeswax to first mark out the design before dyeing it in indigo. would definitely come back again for this process again. truly had fun in this workshop." }
+            ]
+        };
+    }
+
+    if (slug === 'sa-pa-beeswax-painting-self-guided-and-hands-on-sapa') {
+        return {
+            averageRating: 4.91,
+            totalReviews: 12,
+            guideRating: 4.91,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "This was brilliant! The host clearly explained how to do it and then left us to it, checking in every now and then. This meant it was a peaceful and relaxing way to spend a couple of hours. You are given two gos are paintings; once with a template and the other free hand. They delivered both to our hotel that evening. I would definitely recommend this." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Such a meditative experience. It was so fun to experience this tradition, gaining so much respect for the craft and art. I would definitely recommend, maybe as a break from trekking or during a heavy rain pour. They had great service, dyeing and delivering the painting to our hotel." },
+                { author: "Melanie", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Fantastic day with Chi. I even took a second Batik class with her. I highly recommend these guys. I took one class in Sapa and one in Ta Van which is a Black H’Mong village 30 minutes from Sapa." },
+                { author: "גיל", country: "Verified traveller review", rating: 5, date: "2026-06-10", text: "It was really, really fun! Really good guidance and also freedom of action and creativity. A delicate and correct balance between the years. Highly recommend! We received the creations the next day at the hotel." },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "loved we given a template to practice first with. then when done we got to design our own painting. the teacher explained everything very well and then we had 2 hours to play. fantastic service. great evening. we were leaving really early the next morning and the teacher dyed and delivered late that evening. lovely enviroment to worksop in." },
+                { author: "Stefania", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Un’ottima attività dove poterti divertire a creare disegni e idee in questo modo diverso e interessante di creare la tua opera d’arte. La ragazza che ci ha aiutato è stata gentile e accogliente, abbiamo l’aereo domani mattina presto e ha fatto di tutto per farci avere tutto pronto e asciutto prima della partenza. Super consigliato e grazie mille ancora alla ragazza che ci ha seguito." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "Activité très agréable, les explications sont très claires, nos \"chefs d'œuvre\"ont été livrés à notre hôtel. Tout était parfait" },
+                { author: "Ester", country: "Verified traveller review", rating: 4, date: "2026-07-20", text: "Actividad entretenida, sobre todo para hacer con niños. La chica muy amable con nosotros" },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Was erg leuk! Lieve mevrouw, behulpzaam maar voelde toch of je lekker zelf creatief kon zijn. Bij ons waren er geen andere mensen. Dat vond ik erg fijn lekker even rustig creatief bezig zijn. Maar geloof dat het ook voller kan zijn." },
+                { author: "Ina", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "Sehr schöne Aktivität, bei der man am Anfang eine kurze Einführung bekommen hat und danach selbstständig malen konnte. Man konnte sich zu dem soviel Zeit lassen wie man wollte." }
+            ]
+        };
+    }
+
+    if (slug === 'ta-van-cooking-class-with-local-guide-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "what we liked- visiting the market and local shop to buy ingredients and talk about their use Detailed and fun approach to cooking from chopping, mixing and rolling make our authentic spring rolls These are not like the spring rolls we get in Australia. They are better. Cooking and of course eating them. come with a good appetite😀 Our host and teacher was excellent." },
+                { author: "Anne-Sophie", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "We hebben heel erg genoten van deze activiteit!! Een enorme aanrader! We begonnen met een bezoek aan de lokale markt waar we de ingrediënten kochten en uitleg kregen over de producten en hun rol in de Vietnamese cultluur. Nadien leerden we stap voor stap hoe we heerlijke springrolls en tofu moesten maken! Alles was heel goed geregeld en de mensen waren super vriendelijk en behulpzaam. Daarna aten we lekker! Zeker doen!!!" }
+            ]
+        };
+    }
+
+    if (slug === 'transfer-to-from-sapa-in-a-vip-sleeper-bus') {
+        return {
+            averageRating: 4.16,
+            totalReviews: 202,
+            guideRating: 4.13,
+            valueRating: 4.33,
+            reviews: [
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Picked up on time from hotel and left off at hotel in SaPa - very smooth . Bit difficult to understand driver instructions but managed fine ." },
+                { author: "Bart", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "The bus trip is very well organised. Everybody is friendly and you get what you booked a night bus. All is safe but bumpy and loud. A good night rest is not what you booked. But a good method to travel and safe time (and money)." },
+                { author: "Delawren", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Great beds! Frequent toilet breaks - just make sure to take cash with you for toilet paper! (around 30k)" },
+                { author: "Rachael", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Great trip. Easy to organise. Left on time. Bus was clean." },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "Traveled by day as great pick up from hotel in Tam Coc we stopped a couple of times for food etc on route . Stunning scenery along the way rising up to Sapa .Not sure a night trip would have suited us as although the beds are very comfortable the roads & route twists & turns & I think it would be a rough sleep .we were transferred to our hotel from drop off in Sapa in smaller bus worked really well" },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "Smooth clean transfer from Sapa to Ninh Binh. Drive is mostly on straight roads and not too much winding. I gave my hotel name in Ninh Binh and was told I'd be dropped off there. so when the bus stopped in Ninh Binh center, I didn't get off the bus. I didn't hear anyone call my name or come check for me or remaining people on the bus. I ended up being left on the bus and taken to some side parking lot alone. Luckily it wasn't too far from their Ninh Binh office and the driver walked me to the office to get the transfer vehicle to my hotel. it was dark at night and a bit insecure area. They sho" },
+                { author: "Ina", country: "Verified traveller review", rating: 5, date: "2026-01-25", text: "Perfect in time, good price, quiet, good sleep and feel perfect next morning." },
+                { author: "Caroline", country: "Verified traveller review", rating: 5, date: "2026-01-06", text: "This was a great service and included an unexpected courtesy shuttle van drop off at our accommodation in Sa Pa. Our first sleeper bus experience and we wouldn’t hesitate to book another one." },
+                { author: "Victoria", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "Great sightseeings, very helpful guide, good English. Free wi-fi in the car. Thanks" },
+                { author: "Nathaniel", country: "Verified traveller review", rating: 5, date: "2025-11-14", text: "Good and fairly quick and they got us to the hotel." },
+                { author: "Jose-Chely", country: "Verified traveller review", rating: 5, date: "2025-08-16", text: "Great experience, awesome service, highly recommend." },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2025-04-24", text: "Good communication regarding picknup from the hotel. Very nice and comfortbale bus." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ha-giang-loop-with-safe-rider-max-8-pax') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 98,
+            guideRating: 4.87,
+            valueRating: 4.78,
+            reviews: [
+                { author: "Freya", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Had the most incredible experience on the Ha Giang Loop and the guides and and drivers played a huge part in this. Our guide was so welcoming and informative, educating us at each stop and ensuring we are happy and comfortable. There was plenty of delicious food provided throughout as well as water. The drivers were responsible and friendly. Overall such an amazing experience and great value for money. Thank you so much!" },
+                { author: "Euan", country: "Verified traveller review", rating: 5, date: "2026-05-18", text: "The activity is really fun and the guides made it 10x better. Hai is the best instructor." },
+                { author: "Lea", country: "Verified traveller review", rating: 5, date: "2026-03-29", text: "The tour was absolutely amazing. We had two wonderful days in a small group. Our two drivers, Khuynh and Trung, were so friendly; we felt completely taken care of and even received little gifts along the way, like bracelets, keychains, and a headscarf. We felt very safe on the scooter and were treated to excellent food. We had such a great time! Highly recommended !" },
+                { author: "Cecilia", country: "Verified traveller review", rating: 5, date: "2026-01-08", text: "We really enjoyed the tour and the amazing views. The ride was comfortable and our guide Four has been supportive and fun along the whole tour. Simply the best!" },
+                { author: "Apostolos", country: "Verified traveller review", rating: 5, date: "2026-01-06", text: "The whole group of guides made the experience great. Special thanks to Ding and number 4! 😎" },
+                { author: "Louise", country: "Verified traveller review", rating: 5, date: "2025-12-14", text: "It was wonderful, beautiful landscapes, breathtaking mountains view. Dang, our guide, was really funny and kind-hearted. Lam, my driver, was driving safely and nice ! New friendships and memories unlocked !" },
+                { author: "Lucy", country: "Verified traveller review", rating: 5, date: "2025-12-03", text: "Best part of our trip!! The views are amazing, the ride was so fun and the evening was really entertaining. Two days was perfect for us. Thank you Nhan and Alex for getting us around safely and being so lovely <3" },
+                { author: "Puneet", country: "Verified traveller review", rating: 5, date: "2025-11-17", text: "the 2 day loop was excellent. everything was so well taken care of and we had the best time of our life as a group. excellent 👌👍" },
+                { author: "paolo", country: "Verified traveller review", rating: 5, date: "2025-09-23", text: "First of all, the welcome and empathy the guides were able to create within our group: 8 people from 6 different countries became friends in just 2 days, laughing, playing, and singing together, sharing photos and Instagram contacts. On top of all this, the divers are super professionals at guiding on difficult roads. They never put the safety of their clients at risk. They always chose the right time and place for short breaks. I highly recommend this 2/3-day tour (in the end, you see everything just like on multi-day tours) and I thank all the staff (they were very friendly), especially Pen" },
+                { author: "Clodagh", country: "Verified traveller review", rating: 5, date: "2025-09-15", text: "Amazing views over the course of the 2 days, great insight into Vietnamese culture. Motorbike drivers were safe and helpful. tour guide was very informative. brilliant organisation of the tour and great contact before the loop even started to let us know what the trip entailed." },
+                { author: "joel", country: "Verified traveller review", rating: 5, date: "2025-09-07", text: "Chu was our guide and was the best person that could have showed us the Ha Giang Loop, he and all the drivers were so amazkng and made our expirience a lot better. We are really thankfull with him for everything, with no doubt the best guide ever! Lo ve you Chu!" },
+                { author: "Annabel", country: "Verified traveller review", rating: 5, date: "2025-06-29", text: "Our drivers were amazing! Very personalised experience and our guide was fantastic too. The food, happy water, and the loop itself were all awesome." }
+            ]
+        };
+    }
+
+    if (slug === 'h-mong-traditional-beeswax-batik-in-sapa') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 21,
+            guideRating: 4.91,
+            valueRating: 4.55,
+            reviews: [
+                { author: "Lina", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "It was very nice crafting activity that we enjoyed a lot. We got to paint 2 material pieces. There is a day waiting time because to colour materials they use natural dye and bleach with boiling water. Then pieces need to dry for a few hours. Though, a guide is very sweet and knowledgeable 💕🎉" },
+                { author: "Carissa", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "We had a wonderful afternoon learning how to create our Batik designs with Linh. She was a kind, patient, encouraging teacher and shared a lot about her village, family and their habits. While we went for the fun craft experience, it turned out to be much more enriching and enjoyable than we imagined it would be. Side note: the food served at the café was also incredible! highly recommend to stay for a meal!" },
+                { author: "Leeson", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "The guide was amazing! Friendly, knowledgeable, and engaging!" },
+                { author: "Hannah", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "We loved the process of creating our own designs and then using the bees wax to make the patterns. Our teacher sisi was fantastic and we even walked away buying some of the tools so we can do it again at home!" },
+                { author: "anais", country: "Verified traveller review", rating: 5, date: "2025-11-23", text: "Excellent activity very relaxing and our teacher was very interesting and Kind" },
+                { author: "Elisa", country: "Verified traveller review", rating: 5, date: "2025-11-01", text: "Su was a great teacher! Had a good time learning to draw" },
+                { author: "Nathalie", country: "Verified traveller review", rating: 5, date: "2024-12-18", text: "vert good activity. I would really recommend. lovely teacher and you can have your own batik" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-08-19", text: "We wanted the peaceful nature of doing something creative, taught the technique well. Maybe some more information about the tradition of it and where the bees are and what they do etc would have been good but was still an easy activity to do! Would have preferred to do it outside not the inside room which had a lot of mosquitos but otherwise fun. Liked that we can take our designs home! Be prepared that it takes at least 24 hours to soak dry and get back, so factor that in if you’re aiming to move on" },
+                { author: "Naviliat", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "Nous avions réservé pour l'activité peinture avec cire d'abeille et c'était vraiment très sympa. Un grand merci à Chili, notre guide, pour son sourire et sa patience. Elle nous a tout d'abord donné de bon conseils pour peindre puis nous a laissé en autonomie. Je recommande fortement. Merci Chili" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-05-06", text: "A note that the art product needs to be collected later on would have been good" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "It was very intimate and exciting learning about the culture of the art craft." },
+                { author: "Philippine", country: "Verified traveller review", rating: 5, date: "2025-11-13", text: "L’animatrice était très sympa Activité idéale à faire quand il pleut Il serait bien d’avoir un peu plus de détails sur l’histoire du Batik" }
+            ]
+        };
+    }
+
+    if (slug === 'tofu-making-workshop-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 10,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2026-04-04", text: "The tofu making was very interesting to see the different steps involved in the process. We got to try the soy as a liquid drink and then as the tofu itself along side a delicious meal. Hoang, our host was very informative, friendly and a great chef. Thank you for the experience!" },
+                { author: "Jasmine", country: "Verified traveller review", rating: 5, date: "2026-04-02", text: "Hoang was really friendly and informative. We loved learning the process from start to finish and getting to eat the product of our hard work at the end was such a treat and so delicious! Would definitely recommend!! The location on Maps takes you to Sapa Local Food but if this door isn't open when you arrive then you can go in through the door to the Saigonese Trekking House as it's all part of the same building." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-21", text: "Great workshop! Everything was very well explained. The Tofu and the meal was delicious 😊" },
+                { author: "Madeleine", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Så spændende og lærerig aktivitet med god indsigt i hvordan man lærer tofu fra start til slut. Retten til sidst i tomatsovs var så lækker! Anbefaler alle!" },
+                { author: "Leander", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "Wir haben heute den Tofukurs gemacht und waren sehr begeistert. Die Anleitung war super und der Tofu wurde danach direkt in 2 Varianten verarbeitet. Unser Guide war total nett und hat uns einen Einblick in ihr Leben gegeben. Wir sind auch in 2h fertig gewesen, so wie angegeben." },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-02-26", text: "Super activité ! Nous avons appris à faire du tofu du trempage des graines se soja jusqu’à la cuisson et la dégustation. Nous avons aussi eu une boisson (thé ou café) de bienvenue et des accompagnements au moment de la dégustation pour faire un repas complet ! Animatrice très sympathique et pédagogue, elle nous a bien accompagné et a répondu à toutes nos questions. L'activité a duré plus longtemps que prévu : nous avons fini de manger à 14h, donc elle dure plus 4h que 2h. Prévoyez en conséquence. Nous recommandons vivement 😃" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-26", text: "So much fun! We learned how to make tofu (duh) and afterwards got to make a meal with it. But, at the time of writing this review the activity duration is 2 hours. Our group took 4 hours without any major hiccups, so unless they've updated the duration when you're reading this make sure to take that into consideration :)" }
+            ]
+        };
+    }
+
+    if (slug === 'walking-food-tour-with-local-guide-in-sapa') {
+        return {
+            averageRating: 4.74,
+            totalReviews: 23,
+            guideRating: 4.7,
+            valueRating: 4.4,
+            reviews: [
+                { author: "JC", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "I had such a lovely experience on this private walking food tour in Sapa! My guide, Nay, was wonderful. She speaks very good English and shared so many interesting things about the local food, ingredients, and food culture in Sapa. I especially enjoyed walking around the local market with her and getting to try different local delicacies that I probably wouldn’t have known to order or try on my own. It felt like a much more personal and authentic way to experience Sapa beyond just visiting the usual tourist spots. Nay was friendly, knowledgeable, and very easy to talk to, which made the whole" },
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "We had a wonderful walking foodie tour with Hang Nay Mu. She took us to some authentic venues we would not have known about to visit. Her knowledge was excellent and we shared some interesting stories. We would highly recommend this tour. A very pleasant experience indeed! Thank you so much Hang Nay Mu." },
+                { author: "Joanne", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "I loved my tour with Moo, it was great to be able to talk to a local minority hill tribe lady and discover what their lives are really like and learn about their culture.i really had no concept of their lives and culture this experience has given me a much deeper understanding and wonder at the differences in our lives . Moo spoke great English and was able to answer all my questionsand I asked her everything that I could. I loved our walk together through the markets where she explained to me what all the different foods were, and got samples for me to try lots of different things that I had" },
+                { author: "adam", country: "Verified traveller review", rating: 5, date: "2026-02-25", text: "Wow! Mu is so personal and very inviting to share her customs and traditions with me. She is very knowledgeable and informative, dont be afraid to ask her questions! She will answer all of them. This is a very special tour you don’t want to miss" },
+                { author: "Lita", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "Interesting flavors and quite good food in Sapa. Our guide Zua is great and super friendly!" },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2025-11-21", text: "It's an authentic Vietnamese Market experience. The guide was very informative and joyful to be with." },
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2025-10-12", text: "Loved all of tour, maybe English could be abit stronger, but overall enjoyed the tour" },
+                { author: "Beatrice", country: "Verified traveller review", rating: 5, date: "2025-10-01", text: "Edward was a great tour guide and super friendly. The food was delicious and it was great to visit restaurants I wouldn’t have visited without a local guide." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-02-26", text: "We tried 5 different foods that were all very different. Some local and some weird haha It was a lot of food and we did not leave hungry. (evening tour) The guide was unfortunately not very knowledgeable about specifics of the meals. \"What is in this?\" \"Some type of vegetable\" 🙃 Also not very talkative. Happily tried to answer questions but was rarely the one to talk first. But she tried her best :) Because of a miscommunication from the management the guide arrived late, but that was no fault of her." },
+                { author: "Byungin", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "약속시간을 1시간이나 늦게 도착했는데 기다려주시고 최선을 다하는 가이드님 감사합니다" },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2025-12-02", text: "Unfortunately, this food tour was a disappointing experience and did not meet our expectations, especially considering the price of over 25 USD per person. The tour was advertised as a three-hour experience, but when we arrived, we were told it would last only two hours. In the end, we returned to the meeting point after just 1.5 hours. We did try five different items—pho, a small pork skewer, a small portion of dry colorful rice, a chestnut cake, and one tiny piece of dried meat—but the overall quantity and quality were underwhelming. We learned a little about the dishes, but the explanations" },
+                { author: "clemence", country: "Verified traveller review", rating: 3, date: "2025-10-16", text: "la guide était très gentille mais nous n'avons pas du tout mangé les plats qui étaient sur la description. nous avons mangé un banh mi, un bun cha et un beignet a la viande. j'aurais bien aimé goûté la cuisine hmong. par contre la guide parlait très bien anglais et j'ai appris plein de choses. c'était super de voir le marché." }
+            ]
+        };
+    }
+
+    if (slug === 'hmong-beeswax-painting-and-indigo-dyeing-workshop-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Vicki", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "We had a wonderful time at our workshop. Pak (sorry, I’m not sure how to spell her name) was a patient, kind, and supportive teacher who was full of praise and guided us through the process while allowing us lots of freedom. The organiser even dropped our finished pieces at our hotel and gave us a lovely purse as a gift! Really wonderful experience with so many extra touches that made it even better. Thank you!" },
+                { author: "Priscilla", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "It was a wonderful experience, even for my two daughters, aged 7 and 8. Since we were leaving early the next morning, they kindly arranged a Grab delivery to send our paintings to our hotel that same evening. Everyone was so kind and made the experience fun. Highly recommended!" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-spring-rolls-cooking-class-in-sapa') {
+        return {
+            averageRating: 4.92,
+            totalReviews: 85,
+            guideRating: 4.92,
+            valueRating: 4.85,
+            reviews: [
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "it was an interesting activity - i would have liked to learn more about the food and culture of Vietnam during the lesson" },
+                { author: "Coree", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "I had an amazing time during this cooking class. I learned how to make spring rolls and the sauce. Duyen was so friendly and made the instructions so clear." },
+                { author: "Thao", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "It was fun, easy, interactive and enjoyable. It was for 2 hours and I got to eat the food at the end! Host was friendly and knowledgeable. The setting was beautiful." },
+                { author: "Sydney", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "We were lucky enough that my partner and I had a one on one session and ended up walking away with 30 spring rolls 😛 Super informative and great value for money. Very easy to follow along and now we know how to bring these delicious spring rolls back home!! Would definitely recommend" },
+                { author: "Jaya", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "I love it! I did not have anyone on the class so it was 1 on 1 session which felt more relaxed and personalized. While making the spring rolls I got to hear the stories of the teacher (lady.) She was very kind and explained the process thoroughly to me. She ended up giving me a bracelet for good luck and spring roll wrapper as a gift. Enjoyed the experience and definitely recommend!" },
+                { author: "Aleksandra", country: "Verified traveller review", rating: 5, date: "2026-04-28", text: "It was a really great experience. The teacher was very kind and explained the ingredients and the spring rolls themselves. We highly recommend it. It was a relaxing class in a cozy setting, and you could eat the spring rolls right there or take them to go." },
+                { author: "Loane", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "We spent a perfect afternoon. We were treated like royalty, starting with a lovely welcome of honey ginger tea and an excellent coffee. A huge thank you to Hoang, who was an incredible guide throughout the entire activity, being constantly there to help us with a smile and great kindness. Beyond his clear and expert instructions, he’s a truly touching and lovely person who takes the time to share his passion. This wasn't just about cooking, but a human connection, as we learned so much about the local culture and were delighted to share some French knowledge with him in return. This is the bes" },
+                { author: "Alfie", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "Very nice informative guide, good food and great value for money, nice spot and cute cat" },
+                { author: "Maisie", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "very educational, great fun and a fantastic rainy day activity :)" },
+                { author: "robin", country: "Verified traveller review", rating: 5, date: "2026-02-04", text: "This was a fantastic workshop. Our teacher was incredibly sincere and lovely teacher. The spring rolls were amazing." },
+                { author: "Birte", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "Amazing teacher. Her English was really good so we chatted a lot while cooking. Not only did she explain details about the spring rolls to me, I also learned a lot about daily life in Vietnam. It was a chill atmosphere and the result was so delicious! Thank you so much!" },
+                { author: "Rik", country: "Verified traveller review", rating: 5, date: "2025-11-09", text: "We joined an amazing Vietnamese spring roll cooking class and absolutely loved it. Our instructor was warm, enthusiastic, and incredibly kind. She explained every step clearly, making it easy to follow along and learn the real authentic way of preparing spring rolls. We had such a fun afternoon, and the spring rolls turned out super delicious — fresh, flavorful, and more than enough to count as lunch or dinner. And the best part: she also showed us how to eat them properly, which is totally different than you might expect! In short: highly recommended. Just do it!" }
+            ]
+        };
+    }
+
+    if (slug === 'private-highlights-day-tour-with-lunch-in-sapa') {
+        return {
+            averageRating: 4.79,
+            totalReviews: 103,
+            guideRating: 4.8,
+            valueRating: 4.56,
+            reviews: [
+                { author: "Alessio", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "our guide Lynn was very nice and friendly. overall very good experience" },
+                { author: "Mary", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "Had a great day. Our guide La was awesome! Spoke excellent English and spoke Vietnamese with my wife. Gave us great insights into the local culture and customs. Would recommend this tour without hesitation." },
+                { author: "Alan", country: "Verified traveller review", rating: 5, date: "2026-04-23", text: "A fantastic day trip seeing some magnificent sights. La our guide was excellent. The waterfalls are beautiful and the Gala Bridge was interesting but sadly a misty day so views were sadly non existent. Lunch was superb and the visit to the Lao Chai valley most interesting." },
+                { author: "Gabriela", country: "Verified traveller review", rating: 5, date: "2025-12-13", text: "everything was wonderful! we saw waterfalls, villages and rice fields, all what you can enjoy in Sapa!" },
+                { author: "Tanya", country: "Verified traveller review", rating: 5, date: "2025-12-08", text: "We had a wonderful day with Mia. She has great English and was so interesting and informative, answering our many questions and taking lots of photos for us. We never felt rushed and nothing was too much trouble for her. We loved learning about her culture, lifestyle, traditions and family. The locations she took us to were fabulous! We loved the Glass Bridge, the Lonely Tree, the waterfalls and Cat Cat Village. In fact everything was wonderful and it was great seeing both the touristy sites as well as learning about the every day lives of the various tribes in the area and driving through som" },
+                { author: "Steven", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "Absolutely loved our day with Shu our tour guide. amazing day we had. thank you so much. 100% book this full day tour." },
+                { author: "Jared", country: "Verified traveller review", rating: 5, date: "2025-10-13", text: "Our guide Mia was wonderful , she is very knowledgeable and provides great insights to the everyday life of sapa people as well as show the attractions . We enjoyed everything the village visit was a highlight and braving the cold water and swimming in love waterfall" },
+                { author: "Karla", country: "Verified traveller review", rating: 5, date: "2025-09-17", text: "We loved every part of it. The fact our guide was local and took us to her village was a massive bonus. We got to see the non commercialised part of Sa Pa, which we really enjoyed. Also meeting the locals. We felt very welcome and I wouldn’t have changed a single thing. Our guide tailored the whole day to our needs and wishes, she was fantastic." },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2025-09-01", text: "We had a fantastic day visiting villages, rice fields and waterfalls. Sisi was a fantastic guide, the perfect balance of helpful and still giving you space. We chose private tour as I am not very fit and worried about the pace of a group trip. Sisi was super understanding and adapted the pace. The driver was great and we felt really looked after. Lunch was delicious" },
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2025-08-19", text: "Our guide Sisi was fantastic. Her English was very good and during the drive she shared lots of interesting information about life in Vietnam and in the villages of Sapa. It was fantastic to learn more about the culture from an informed local. We started the day with a visit to the Silver Waterfall followed by Love Waterfall. Both had lots of steps and were challenging for myself as I am asthmatic. Sisi was incredibly considerate and understanding, she encouraged us to take our time and to go at our pace. This meant I was able to experience the full tour and participate in all of the activitie" },
+                { author: "Solène", country: "Verified traveller review", rating: 5, date: "2025-08-07", text: "This private tour is perfect for anyone who only have a short stay in Sapa (one day for us). It was very well managed in terms of timing and all customizable. We could do the waterfalls, the small villages, the rice terraces, also having some short hikes and spend time enjoying the lunch in a perfect spot. Soso the guide is lovely and funny. She let you choose the itinerary and give more options or recommendations. Can’t have better host following us during the day!" },
+                { author: "Erica", country: "Verified traveller review", rating: 5, date: "2025-03-29", text: "We thoroughly enjoyed our day-long private tour. We walked down a valley to a beautiful waterfall, saw the market in SaPa and toured villages. The highlight of the day was a visit to our guide’s village where we had a delicious lunch overlooking fields and grazing water buffalo. Our guide was fantastic. We had great talks with her and learned a lot about her Hmong way of life. We also visited the glass bridge, accessible by an elevator that runs up a cliff face to a point high above the valley. The entrance fee was not covered and the activity was optional, but worthwhile. Finally, it was good" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-overnight-sapa-tour-by-limousine') {
+        return {
+            averageRating: 4.04,
+            totalReviews: 121,
+            guideRating: 4.46,
+            valueRating: 4.02,
+            reviews: [
+                { author: "Luca", country: "Verified traveller review", rating: 5, date: "2026-01-03", text: "The 2 Day Overnight Sapa Tour by Limousine was a truly wonderful and very well-organized experience. A big thank you to Lana for the excellent coordination of the limousine from Hanoi to Sapa and for the time and attention she dedicated to us. Thanks also to Nam, who managed all the arrangements in Sapa with the same care, making the trip smooth and stress-free. A special thanks goes to Ngoc, our guide for two days: professional, kind, and passionate, she helped us discover the villages of Sapa, the local culture, and breathtaking landscapes, making the experience authentic and unforgettable." },
+                { author: "Tommaso", country: "Verified traveller review", rating: 5, date: "2024-05-21", text: "Best experience, transport has been Good to and from Hanoi, The hotel, even The 3 star one, is very nice and comfortable. But The star of The tout has been of course The trekking, our guide AI has been great! She guided us up and down The paths with confidence and ease and has been very informative and helpful in every village. If you choose this tour ask for her!" },
+                { author: "Liljana", country: "Verified traveller review", rating: 5, date: "2024-04-26", text: "Transport to Sapa was comfortable, Sapa aria is realy amazing, we enjoyed tracking." },
+                { author: "Marcelo", country: "Verified traveller review", rating: 5, date: "2024-04-10", text: "Our guide was the most amazing person, she was lovely and very friendly. The whole experience was perfect!" },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2024-04-07", text: "Our guide was Ai, we loved her so much! She was very informative and we all really enjoyed her, the scenery was beautiful, all of the villages were amazing." },
+                { author: "Caitlin", country: "Verified traveller review", rating: 5, date: "2023-09-15", text: "the trek was great, especially of the second day. the scenery was incredible and our guide, Ai, was very knowledgeable." },
+                { author: "Aaron", country: "Verified traveller review", rating: 5, date: "2023-04-11", text: "May was a very good gide. Good arrangement and nice hotel." },
+                { author: "Giwrgos", country: "Verified traveller review", rating: 5, date: "2019-12-20", text: "I don’t want to tell more JUST DO IT THE BEST EXPIRIENCE.you gone met the happiness and the good of the people there.tou are not gone find enywhere else.the ladies of the villages are very good and helpful.the only bad was the sleeper bus it was awful very dirty but it’s worth it when you arrive in sapa to make the trek" },
+                { author: "Rosalie", country: "Verified traveller review", rating: 5, date: "2019-04-18", text: "Very pleased with this tour. The sleeping bus was comfy once you got used to it. The guides were good and the accommodation ‘Relax Hotel’ was very comfortable. Local guides on the trek were helpful too." },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2018-09-24", text: "The trip has been very well organized. All transfers were on time and very well equipated Hotel was good but the best part has been The guides very friendly and always taking care about us Highly recommended" },
+                { author: "Lars", country: "Verified traveller review", rating: 5, date: "2018-03-07", text: "The trecking tourin sapa was very very god.specielly the tourguide,learnt a LOT of the black perplex culturre" },
+                { author: "Ioana", country: "Verified traveller review", rating: 4, date: "2023-02-12", text: "We had a good time during the trip and all was according to expectations. It was a little unorganized at the beginning, as the guide only met us in Sapa and the driver didn’t speak english, so we didn’t receive any info. Until the guide actually picked us up we were a bit lost. But once we met with the guide, everything was fine. She was very frindly. The trip from Hanoi to Sapa was long and bumpy (6 h) but luckily we went for the limousine and the chairs were wide and very comfortable with sufficient leg space. First day we went to a village and waterfall. It’s clearly made four tourists, so" }
+            ]
+        };
+    }
+
+    if (slug === '4-day-ha-giang-loop-with-safe-rider-max-8-pax') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 41,
+            guideRating: 4.91,
+            valueRating: 4.74,
+            reviews: [
+                { author: "Chantal", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "We had the best time with the tour from Tripbestie. Especially with Chu as our guide and all the other easy drivers. The easy drivers are very professional and experienced drivers. We felt safe the whole ride, therefore a special thank to our drivers Coi and Hòa. Also, they were fun to hang out with and made sure we had the best time while doing the Ha Giang Loop. Chu was very on point, helped us with everything and he made beautiful pictures. Definitely recommended!!!" },
+                { author: "Georgia", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "A fantastic experience with Red penn and his lovely team. I always felt safe and comfortable. Loved it! 💗" },
+                { author: "Tobias", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "Amazing experience, definetily worth the money. We did the 4 day tour, and the views are amazing. It included multiple activities like a boat tour waterfalls and a beautiful cave. Our guides were amazing, Coi was really experienced and a really great guy, Si and Qui were reliable fast drivers who were really nice and helpful, Hai and Thang were also really great, nice and energetic and also good drivers. We felt really safe the entire trip, and had the most fun in our southeast Asia trip. 10/10 would recommend" },
+                { author: "Mateusz", country: "Verified traveller review", rating: 5, date: "2026-03-09", text: "Eric was an excellent guide. He was very helpful throughout the entire trip and solved every problem that came up. He knows everything about the region and told us a lot about Vietnam. Our Easy Riders Hue and Noo were also very helpful. The ride was very professional and safe." },
+                { author: "Tess", country: "Verified traveller review", rating: 5, date: "2025-10-29", text: "This 4 day Ha Giang loop tour was an amazing experience. The views were absolutely breathtaking and everyone was so friendly which made everything more fun and memorable. The easyriders put in a lot of effort to make sure we had a great time, always offering to lend their jackets, buying us small gifts, and most importantly keeping us safe on the road. Our tour guide Danny took great care of us and the whole experience was very well organized. The accommodations exceeded our expectations and the meals were great with lots of options. We had activities each day like a boat ride, swimming in a w" },
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2025-06-21", text: "The 3 night 4 day trip was insane, got to see more of the countryside and venture to less crowded areas off the beaten track. My driver Huệ was very good, I felt safe the whole time in all weather conditions and roads the loop threw at us. The people we got to meet along the way was amazing and Tam our tour guide was very knowledgeable and all the riders were super fun to get along with. Especially on the happy water! Thanks for everything Hoang Hao hostel, very organised and an amazing memory we never forget!!" },
+                { author: "Kerrie", country: "Verified traveller review", rating: 5, date: "2025-06-11", text: "I really enjoyed the loop. This is by far the best company to do it with !!! Everyone was so helpful especially my Trip Bestie. 100% reccomend" },
+                { author: "Merel", country: "Verified traveller review", rating: 5, date: "2025-05-19", text: "From the very beginning, the communication was absolutely 10/10. The team stays closely in touch via WhatsApp, making sure you feel supported every step of the way. Any questions I had were answered in no time, and everything was explained clearly and thoroughly before the trip started. The organization of the tour was flawless every detail was taken care of, which made the whole experience super smooth and stress-free. You can tell they’ve done this a thousand times and know exactly how to make it an unforgettable journey. I felt well-guided, safe, and totally taken care of from start to fini" },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2025-05-01", text: "This is a great tour! If you want a less party and more chill tour for the loop this is the company to go for. The guide was great and the drivers were very experienced and made you feel safe the whole ride. It is a very authetic experience. Happy water at the end and games with your guides and fellow travellers was very fun. The food was always buffet style so you could pick what you liked. The accommodation was also good. My partner and I got our own room the whole trip. The last stay was in a mud house which was a cool experience. My only critic would for a few more shorter stops to be incl" },
+                { author: "Joanne", country: "Verified traveller review", rating: 5, date: "2025-04-03", text: "The company I booked with was amazing, they were always available, hey provided us all the options and helped us change things when needed. My driver was super helpful and safe and our guide Thanh always took care of us and made sure we were ok. I would just say the only issue was our van back as a lot of things were broken and not as comfortable as buses we had, and our last Accomodation wasn’t super clean and didn’t have hot water but the bed was comfortable. All and all such an amazing experience!" },
+                { author: "Charlene", country: "Verified traveller review", rating: 5, date: "2024-11-13", text: "Thank you very much for this amazing expérience ! We have met fabulous people and your team was awesome ! We wish you the best from France and thank you again❤️❤️❤️❤️" },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2024-11-09", text: "Amazing trip with such a nice group! Our tourguide Viên was also very funny and made this trip a trip to remember. Highly recommend!" }
+            ]
+        };
+    }
+
+    if (slug === 'fansipan-mountain-2-day-trekking-tour-in-sapa') {
+        return {
+            averageRating: 4.65,
+            totalReviews: 2,
+            guideRating: 4.65,
+            valueRating: 4.65,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "Formidable ! Les paysages sont magnifiques, les forêts traversées sont splendides. Le sentier est très varié : Rochers à escalader, escaliers maçonnés en pierres ou métalliques, échelles métalliques, … Réservé aux très bons marcheurs. Guide expérimenté, bienveillant et parfait cuisinier. Bravo ! Au sommet du Fansipan, le « toit de l’Indochine », le vent souffle par de violentes rafales. Quel bonheur et quelle fierté d’avoir gravi toutes ces marches d’escaliers pour y parvenir !" }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-trekking-2d-overnight-sleeper-bus-and-dcar-limo') {
+        return {
+            averageRating: 4.12,
+            totalReviews: 8,
+            guideRating: 4.12,
+            valueRating: 4.12,
+            reviews: [
+                { author: "Iasmin", country: "Verified traveller review", rating: 5, date: "2025-09-14", text: "Sapa is such a special place. if you if you choose the five star hotel option you will be expecting really luxurious and relaxing time I loved the hotel and all the staff involved in the tour was so helpful and nice. The night train is quite comfortable and the minivan to go back to Hanoi too all the foods provided in the tour it’s really good. The tours really well organised and they explained everything to us upfront. I loved getting to know a little more of the local community such a shame the weather wasn’t the best and was quite foggy but we still managed to have an amazing time. It was a" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-07-10", text: "Selve planlægningen og afviklingen af turen var fin med flinke guider. Det fem stjernede hotel var dog ikke pengene værd. SAPA er en god natur og kultur oplevelse som vi kan anbefale." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-24", text: "If you have a short time for visiting Sapa, this tour is fully recommended for discovering the main beautiful points there, with a very good organization and support." },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-04-29", text: "Die aufwändige Anreise von Hanoi nach Sapa für einen Aufenthalt von 2 Tagen und einer Nacht war es nicht wert. Die Besuche in den verschiedenen Dörfern war zwar interessant aber meist mit dem Outcome gespickt, dass man von vielen Verkäufern belagert wurde etwas zu kaufen. Manche Dorfbesuche war keine Dorfbesuche sondern viel mehr Besuche in einer künstlichen Dorf dass einem Freizeitpark ähnelt. Die Stadt Sapa selbst ist ebenfalls sehr schnell gewachsen und dementsprechend fehlt das traditionelle Flair komplett. Kulinarisch war es sehr schwer Restaurants zu finden die wirklich lecker waren." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "Was a great trip! Good communication to ensure all was well planned and organised." }
+            ]
+        };
+    }
+
+    if (slug === 'bun-cha-cooking-class-in-sapa') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 21,
+            guideRating: 5.0,
+            valueRating: 4.89,
+            reviews: [
+                { author: "Raphael", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "The guide was very passionate. He told as everything that there is to know about Bun Cha and explained every step in detail. Even when I cut my finger a little bit, he was helpful and helped me stopped the bleeding. the portion of food was enough for all of us, no empty stomach left. We really enjoined our selfmade Bun Cha and even got some company of a cute cat." },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Chef was very friendly and accommodating, turned up early and they offered us tea while we waited. She was the perfect level of involved (letting us do everything while still guiding us through the process). Tastes delicious and loads to eat at the end, we were 4 big lads and struggled to eat it all. Also gives the option of preference on spice levels which was perfect for our group" },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "So much fun, so so so much eating after, there was enough food for 5 so despite skipping lunc we had to be rolled out of there! The bun Cha was some of the nicest we've had and as food in Sapa town goes, easily our nicest restaurant meal of the visit. We've got the recipe stored in our heads for future also" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "An absolutely brilliant activity and superb value for money. we ran through the making of each constituent part of a Bun Cha and sat down to dine at the end. So much food to eat- so I would recommend skipping lunch before you go. A must do in Sapa in my opinion." },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "Our teacher was so kind and lovely, we had the best time! Very good English and we were able to have all our questions answered! Some of the best food we had in Vietnam, we enjoyed the whole experience!" },
+                { author: "Petra", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "We had such a great time at the Bun Cha cooking class. Everything was explained in a super friendly and easy way, and the whole atmosphere was warm and fun from the beginning. We cooked an amazing dinner together, learned a lot, and enjoyed every minute of it. The food was absolutely delicious, and it was so nice to prepare everything step by step ourselves. This class inspired us and we’ll definitely be organizing our own Bun Cha parties at home now 😄 Highly recommend this experience to anyone who loves good food, good people, and fun evenings!" },
+                { author: "Frederik", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "10/10 experience. Would highly recommend to anyone visiting Sapa. Houng is a great host and teacher and the place is really nice and cosy. Don’t miss out on this ⭐️" },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "The host was amazing and helped us cook the best Bun Cha we have eaten in Vietnam. Fresh ingredients were provided and even let us take the left overs home." },
+                { author: "Tereza", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "The bun cha cooking class was the highlight of our trip to Vietnam. We had many bun cha even ones rated with a michellin star, but i swear this was even better then those. I genuinly do not know why there is not too many reviews. It was delicious and our chef Huang was most friendly and professional." },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2026-03-16", text: "The food was delicious and the instructor wss very educational and helpful. One of the most memorable experiences we have had in vietnam. Highly recommend! :)" },
+                { author: "Aoife", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "The cooking class was very fun and informative. It was a cool experience, I would definitely recommend if you want to learn the authentic method to making a very yummy dish." },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2025-09-27", text: "This cooking class was fabulous, we learnt how to make all the different parts of bun cha. Sissy was very knowledgeable and shared lots of tips and tricks to make this dish superb!" }
+            ]
+        };
+    }
+
+    if (slug === '2-days-trekking-and-motorbike-tour-in-mu-cang-chai-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Teresa", country: "Verified traveller review", rating: 5, date: "2025-10-31", text: "Mu Cang Chai ist ein absolutes Highlight und wir sind sehr froh, dass wir uns hier für eine Tour entschieden haben! Bla und ihr Bruder waren zudem super und haben die Route dem Wetter entsprechend angepasst. auch die Abholung vom Sleeper Bus hat perfekt geklappt und sie haben zudem bei der Weiterreise nach Sapa unterstützt." },
+                { author: "Rui", country: "Verified traveller review", rating: 5, date: "2025-07-22", text: "Quelle expérience incroyable avec Giang et les hôtes. Balades dans les rizières, visite d’une forêt de bambous et immersion dans le quotidien des Hmongs. Deux jours incroyables, avec pleins de souvenirs inoubliables et sans oublier la gentillesse incroyable de habitants de cette région." },
+                { author: "Giulia", country: "Verified traveller review", rating: 5, date: "2025-07-14", text: "É stata un’esperienza indimenticabile. La nostra guida Suà ci ha accolti in casa e ci ha fatto vivere due giorni intensi ed immersi nella cultura locale. Con un tour in moto di due giorni abbiamo potuto vedere le principali attrazioni naturalistiche della zona! Persone ospitali e adorabili!! Lo consigliamo!!" }
+            ]
+        };
+    }
+
+    if (slug === 'cat-cat-village-moana-fansipan-and-alpine-coaster-in-sapa') {
+        return {
+            averageRating: 4.61,
+            totalReviews: 10,
+            guideRating: 4.61,
+            valueRating: 4.61,
+            reviews: [
+                { author: "Elise", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Such a fun experience in Sapa! 🌿 I really enjoyed the Alpine Coaster — great views, a little bit of adrenaline, and a really enjoyable ride overall. The booking process was smooth and the ticket information was clear. Would definitely recommend adding this to your Sapa trip! #khanh" },
+                { author: "Elise", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Really good, I can try alpine coaster moana.. best thing on Sapa. Please book and try this! Tour operator Elise contact me one day before you go and remind notes for you tour" },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "The entire experience was wonderful. Walking through the rice fields was absolutely beautiful and something we will never forget. It truly made our visit to Sapa so special. Highly recommend adding this to your Vietnam itinerary." },
+                { author: "Yan", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "The Cat Cat, Moana + Alpine Coaster tour was a great experience overall. The tour guide was friendly, helpful, and made the trip enjoyable. I was a little disappointed that the Alpine Coaster ticket wasn’t included, but this was clearly stated before booking, so it was understandable. Overall, a fun and well-organized tour!" },
+                { author: "minh", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "This trip so wonderful- one of the best experiences I had during my week-long trip to VietNam. I was speechless for a few seconds in front of the beautiful natural scenery. The locals were incredibly friendly and readily offered us assistance. I am also extremely grateful for the care and information the tour guide shared with me" },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "這真的是一個來越南旅遊時非常值得去的地方。這裡的氣候、景色以及當地人的熱情都讓人印象深刻。參觀卡特卡特村的體驗非常有趣，可以欣賞當地的民族文化表演，我也租了傳統服裝拍照，留下了很美好的回憶。番西邦峰也是一次非常棒的體驗。雖然爬山的過程有點累，但登上山頂後，真的覺得一切都非常值得！" },
+                { author: "Maja", country: "Verified traveller review", rating: 1, date: "2026-08-11", text: "Virkelig træls. Det var en gruppe tur og jeg skulle starte kl 9. Kl 7:30 bliver jeg kontaktet at jeg skal på tur alene til at starte med fordi der ikke er flere tilmeldinger. Det gør jeg så og er er afsted mellem 11:30 - 12:30 jeg blev placeret på en resturant hvor jeg fik frokost, men først sad jeg på den forkerte, blev rykket vidre til deres resturant overfor, og der var de også i tvivl om det var der jeg skulle være… men jeg fik da spist. derefter skal jeg sidde og vente til kl 14;45 hvor jeg vil blive samlet op til næste tur med en gruppe. Jeg sidder og venter til 15:30… og havde ventet he" }
+            ]
+        };
+    }
+
+    if (slug === 'high-altitude-pass-and-glass-bridge-private-tour-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "The weather was crazy but the tour guide (La) was great and made sure we had a great time. Very impressive English speaking skills and very accommodating with the pickup" }
+            ]
+        };
+    }
+
+    if (slug === '5-day-unesco-ha-long-ninh-binh-and-sapa-tour-by-sleeper-bus') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Falko", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "Thoroughly enjoyed seeing so much of the North of Vietnam. Super well organized and very communicative organizers." }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-cultural-backroads-motorbike-experience-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-06-15", text: "This was the perfect way to spend the day around Sapa! Ghênh was so knowledgeable and took us to all the amazing villages around Sapa. If you are in Sapa and looking for a great way to explore and see more of the authentic side of Vietnam, this is the tour for you! I cannot recommend it enough!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "it was a very fun tour with friendly humourous guides!! my friend and i truly enjoyed ourselves and gained insightful knowledge and perspective on the hmong culture and tradition. would do it all over again!!!" }
+            ]
+        };
+    }
+
+    if (slug === 'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Mariecon", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "We didn’t know what to expect, the hiking was more moderate than we thought but it was such a fun and immersive experience. We got to talk to our guide and her culture along the whole way and even ate Hmong meal together. I’m glad we did this!" }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-3-day-medium-trek-and-limousine-trip') {
+        return {
+            averageRating: 4.61,
+            totalReviews: 63,
+            guideRating: 4.71,
+            valueRating: 4.38,
+            reviews: [
+                { author: "Sally", country: "Verified traveller review", rating: 5, date: "2024-12-02", text: "Our guide, Jo, made this a very enjoyable trek. Because she has lived in this area all her life, she was able to pass on authentic local knowledge. She kept the trek at a good pace for us, keeping us well informed of our itinerary, i.e. what time we would arrive at each place, when our bags would be dropped off, what time meals would be with our Homestays etc. She was also very friendly and personable. Although we experienced some rainy misty weather, we still had some stunning views and it fined up on the last day. The Homestays were a great standard - better than our expectations and an awes" },
+                { author: "Tony", country: "Verified traveller review", rating: 5, date: "2024-11-12", text: "So, our guide was exceptional. She was fun and kind and knowledgeable, sharing her culture and history and advice. She carefully matched our groups skills and experience hiking with her chosen trails offering us options along the way. We felt well taken care of. Our tour providerNam was professional and helped us through all and every kind of hurdle that met us along the way. Our Homestay hostess was lovely and full of smiles. This part of the tour was fantastic. The trip from Hanoi to Sapa and then on return was less than comfortable in terms of feeling safe. The driver did not communicate wi" },
+                { author: "Michele", country: "Verified traveller review", rating: 5, date: "2024-11-01", text: "From the time we were collected from our hotel in Hanoi this trip was so well planned. Our guide Ai, was so knowledgable and helpful. She guided us, trekking through the Sa Pa villages sharing all her local knowledge that was learned growing up in the region. If anything was too difficult she would adapt it to our abilities and assist us if need be. The home stays were also great. You get to see the real side of visiting a foreign country by amercing yourself into their culture. The hosts are all so accommodating and warm, welcoming you into their homes like family. We helped cook the meal, be" },
+                { author: "Kathrin", country: "Verified traveller review", rating: 5, date: "2024-09-05", text: "Our guide Ai was very friendly and explained a lot! we loved the hikes and the beautiful landscape! also the homestay was great and the food just amazing!" },
+                { author: "Wayne", country: "Verified traveller review", rating: 5, date: "2024-03-15", text: "3 day trip was overcast and misty and the forest trails were impassable but our Guide Ai made up for all of the the weathers shortcomings. The rice terraces hadn't been planted yet so Ai was able to guide our hike through the heart of them. Had it not been for Ai's regional knowledge the trip to the villages may have seemed commercial. Hotel and homestay were great fun (despite the fact that the homestay was unheated). We even had a massage at the Homestay after a long wet day of hiking. It was an overall fantastic adventure." },
+                { author: "Endre", country: "Verified traveller review", rating: 5, date: "2023-07-30", text: "It was one in a lifetime adventure:) Our local guide Ai was exceptional. As she born in Sapa she really knows every bamboo forest, waterfall, homestay and in general everything. She was flexible to adjust the program continuously to our limits and interest. Thank you a lot! Can only recommend to friends and families." },
+                { author: "Benjamin", country: "Verified traveller review", rating: 5, date: "2023-07-22", text: "There was a lot of rain, but my guide May was enthusiastic anyway, and took me through some amazing scenery. If you want to see rice terraces and don't want to spend days getting to them, this is a great tour." },
+                { author: "Jacob", country: "Verified traveller review", rating: 5, date: "2023-05-28", text: "Amazing. Nice transport, amazing walkin tours with Ay off track, and good help from Nam and the Company, when we want to change schedule" },
+                { author: "Stefan", country: "Verified traveller review", rating: 4, date: "2024-03-20", text: "Hiking in the rice fields and feeling the way of life if the locals." },
+                { author: "Keegan", country: "Verified traveller review", rating: 4, date: "2020-03-21", text: "The whole pick up process was a little confusing and we never met our guide until the second day. The trek was amazing and the accomodation and food in the trek was really great as well." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 4, date: "2018-01-04", text: "Everything was well organized and planned out. I just had a few detailed things that didn't quite go according to my expectation. 1) Bus. For myself and my 2 kids was great. The sleeper bus had double decker bunks, cocoon reclining seats that was very cozy. But if you're over 5'5\" and above, you will not fit and will be miserable like my husband. 2) The home stay is very rustic. It's basically a barn/dorm with 20 mattresses on the floor with zero privacy. No drapes, no walls, all out in the open. At night you can hear everyone snore and fart. If you were a single lady traveling, I would be con" },
+                { author: "Martina", country: "Verified traveller review", rating: 5, date: "2025-07-10", text: "La nostra guida, Zimh, è stata di una dolcezza infinita. Molto rispettosa e simpatica, ci ha accolte in tutte le nostre esigenze. Nonostante la lingua inglese per lei fosse una difficoltà, ci siamo sempre capite e ha dimostrato anzi di voler imparare al meglio chiedendoci anche consigli o facendo conversazione. Ci ha portate in posti molto belli e caratteristici e con lei ci siamo sempre sentite al sicuro. L’homestay nel villaggio di Ta Van è molto carina e le proprietarie gentilissime. Si mangia bene! A cena abbiamo condiviso il pasto con gli altri ospiti in un tavolo comune ed è stato bello" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-3-night-trek-and-hotel-with-overnight-train-in-sapa') {
+        return {
+            averageRating: 4.26,
+            totalReviews: 67,
+            guideRating: 4.62,
+            valueRating: 4.18,
+            reviews: [
+                { author: "Jacques", country: "Verified traveller review", rating: 5, date: "2024-05-24", text: "Good tour with Mai, a local vietnamese. I had good chats with her. You have plenty time to take pictures and do stops where you want. In May, people are planting rice, a good occasion to see the process and do it yourself if you want to try. Some villages are more touristic than other, I appreciate to do less touristic village and see more authentic local life like peoples cutting wood for winter, crafting traditional clothes, school, rice fields.. Like Sapa, you must be prepared to see many child and women selling you things regularly. One or two will probably follow you on your hike. They in" },
+                { author: "Steve", country: "Verified traveller review", rating: 5, date: "2023-11-07", text: "What a truly amazing trip, the memories and photos will last a life time. The 2 guides (Su Su and Ai) were fantastic, very friendly, chatty and knowledgeable. All the transport, accommodation and meals were perfect." },
+                { author: "Florine", country: "Verified traveller review", rating: 5, date: "2023-09-24", text: "Nothing to worry about, everything is well organised, very nice people and small group for the hiking. Great experience!" },
+                { author: "Renee", country: "Verified traveller review", rating: 5, date: "2023-04-21", text: "We enjoyed all the activities immensely including the overnight sleeper train. This package that we booked did not include the cable car to Fansipan so we have to top up additional but we were glad that we did. The 2 days trek at Sapa was great. We really enjoyed the whole experience even though some part of the trek can be challenging. We were very lucky to have Phu (May) as our guide. She was very helpful, friendly and engaging throughout the trip. Hence we learnt alot of the local culture which makes the trip very educational, fruitful and fun." },
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2023-04-21", text: "I was disappointed that our meals did not include a drink. I believe that in the least a bottle of water should have been included." },
+                { author: "Keoni", country: "Verified traveller review", rating: 5, date: "2023-04-19", text: "Phu was a wonderful guide. Very interactive, captivating and gave us an interesting tour of the area. She also matched our pace when my parents needed more time to walk. Overall the sapa tour was a very wonderful journey" },
+                { author: "Marine", country: "Verified traveller review", rating: 5, date: "2019-07-04", text: "I had the best time in Sapa. The weather was sunny, but not hot like in Hanoi, so very comfortable for trekking. Our guide, Chu is very friendly and knowledgeable. I want to discover the daily life of local people, that's why I chose this tour to stay at homestay. Everyone was friendly and easy-going. Food was so yummy. Berths on the train look like your bed at home, so interesting and easy to sleep. Definitely recommend this tour !" },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2019-06-13", text: "I had a wonderful time in Sapa. Train was really interesting which made me sleep very well. It was very comfortable with soft berth and air-conditioning. Jenny - travel consultant was very helpful. She answered all my questions quickly, even at 5:00am early morning, when I didn't see my guide at train station, I called for her and she arranged everything perfect. Food was so yummy! The tour guide was friendly and knowledgeable. Sapa was so beautiful that I wished I had more time there. Homestay was very clean and nice. Local people welcome us friendly. I will come back Sapa in the future soon" },
+                { author: "Lota", country: "Verified traveller review", rating: 4, date: "2024-01-06", text: "The activities were excellent 👍🏽👍🏽 It was an experience that we’ll never forget. I would rate this as Excellent if only the overnight train was not as noisy & bumpy. Using the toilet was challenging 😂 The limousine bus was really good though. The driver even dropped us off at the hotel. Our Hmong guides were all very good. We added the Fansipan Mountain visit, a must see! We would love to visit Sapa again but this time, a little longer. There's so much more to be seen." },
+                { author: "Florian", country: "Verified traveller review", rating: 4, date: "2023-08-12", text: "I had a wonderful time, a very rewarding time, thanks to those three days in Sapa. Everything is optimised to show the best places in the region and give you the best possible visit. The treks are quite demanding, especially with heavy showers, but it's worth it. Only I was a bit lost because as a solo traveller and the only one to have started the tour on this day, I was with different people and different guides every day without my meeting points necessarily being explained to me. I recommend this superb experience!" },
+                { author: "Anna", country: "Verified traveller review", rating: 4, date: "2020-01-17", text: "The tour itself was good, but for the amount of money we pay for these tours, the local guides only get like $8 per day pay, so I personally dont know if this one was worth it. Perhaps its better to book a tour with your hotel, and research the best tour operator who pays the guides better. Also, no drinks are included with any of the meals, they all have to be paid for. And when you arrive back to Hanoi, you do not get a transfer back to the hotel, that was an annoying inconvenience to find out at 4am, when a bunch of drivers are swarming around you, trying to overcharge you. As well as that," },
+                { author: "Axel", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "Wir waren sehr zufrieden. Alles hat reibungslos geklappt. Wir können die Tour sehr empfehlen." }
+            ]
+        };
+    }
+
+    if (slug === 'motorbike-tour-to-mu-cang-chai-loop-from-sapa-2-days') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "angelica", country: "Verified traveller review", rating: 5, date: "2025-11-02", text: "esperienza stupenda. i nostri driver erano molto attenti ai nostri bisogno e fermate per punti di interesse, cibo o anche solo per agranchirsi le gambe. le strade, soprattutto a mu cang chai, non sono sempre così agevoli e a volte ci si perde... ma è stata proprio una splendida avventura! consigliata per chi vuole sentire un po' di vero vietnam dentro" }
+            ]
+        };
+    }
+
+    if (slug === 'food-tour-in-sa-pa-sapa') {
+        return {
+            averageRating: 2.82,
+            totalReviews: 6,
+            guideRating: 2.82,
+            valueRating: 2.82,
+            reviews: [
+                { author: "Eelco", country: "Verified traveller review", rating: 5, date: "2025-04-02", text: "Turned out to be a private tour. Zang was a great guide, speaks English pretty well, gave nice insights in local traditions and cuisine. was overal fun experience. The salmon prepared at homestay was over good." },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-02-02", text: "לשפר הכל סיור לא מאורגן טעון דיפור" },
+                { author: "Miriam", country: "Verified traveller review", rating: 5, date: "2025-06-22", text: "Tolle Foodtour mit Guide Susi. Zuerst sind wir zum Markt spaziert, wo es diverse Kostproben gab. Anschließend gings noch zu einem Homestay, wo ich leckeren Fisch verkosten konnte. Alle Gerichte waren wirklich köstlich!" },
+                { author: "Stefania", country: "Verified traveller review", rating: 5, date: "2025-04-27", text: "Die Tour war grossartig! Wir hatten einen sehr sypathischen Guide. Er nahm sich Zeit uns alles gut zu erklären. Das Essen, vor allem der Lachs war der absolute wahnsinn!" }
+            ]
+        };
+    }
+
+    if (slug === 'motorbike-adventure-in-sapa-cat-cat-sin-chai-and-iconic-view-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Gordie", country: "Verified traveller review", rating: 5, date: "2026-04-26", text: "Ghênh was an absolute delight! She has an abundance of knowledge of the villages & waterfalls, as the well as the local flora that she was happy to share. Rain or shine I had wonderful time." },
+                { author: "Dhaval", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "My guide, Ghenh, was fantastic. She took very nice photos for me. She was always helpful and guiding well. After taking photos, she was checking the photos with me, and was always ready to do it again if I didn't like. Unfortunately, I hit my drone near Silver Waterfall 😒. But she went in there, climbed up the slippery rocks, and got my drone back 😅. 10 out of 5 for Ghenh.." },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "Ghênh was an INCREDIBLE tour guide! She was very patient with me and my 74 year old mom because we walked slower than expected. She graciously explained the differences between the various indigenous people who live in Sapa, and took lots of great pictures and videos of us. Would highly recommend this super unique tour and would definitely love to have Ghênh and Là (our 2nd motorbike driver) show us around again when we’re in Sapa next time!" }
+            ]
+        };
+    }
+
+    if (slug === '4-day-trekking-tour-with-homestay-and-meals-in-sapa') {
+        return {
+            averageRating: 2.75,
+            totalReviews: 2,
+            guideRating: 2.75,
+            valueRating: 2.75,
+            reviews: [
+                { author: "Kaya", country: "Verified traveller review", rating: 4, date: "2026-07-26", text: "Meget autentisk oplevelse. Vi boede hjemme ved vores guide en af dagene. Det var lidt specielt, men om ikke andet autentisk. Man ser meget flot natur. Vi mødte kun ét folk (Black mhong) og ikke tre, som turen ellers beskriver." },
+                { author: "C", country: "Verified traveller review", rating: 1, date: "2026-05-08", text: "They didn’t show up without notice" }
+            ]
+        };
+    }
+
+    if (slug === 'full-day-motorbike-tour-with-local-guide-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Jhon", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "I highly recommend this trip! 💯 The driver assigned to me was very skilled! His name is Achert. Going to the villages is a MUST TRY!" }
+            ]
+        };
+    }
+
+    if (slug === 'love-waterfall-o-quy-ho-pass-and-glass-bridge-tour-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Brontie", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Fantastic guide Love water fall worth the walk, lots of stairs and path rocky , altitude made it harder Heavens gate very pretty landscape Glass Bridge a bit commercialised but interesting massive views" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-pho-cooking-class-in-sapa') {
+        return {
+            averageRating: 4.38,
+            totalReviews: 6,
+            guideRating: 4.38,
+            valueRating: 4.38,
+            reviews: [
+                { author: "Ferreira", country: "Verified traveller review", rating: 5, date: "2025-09-05", text: "Amazing cooking class, real local experience.They were super nice and Pho was super tasty" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-11-14", text: "The cooking class was a little underwhelming. We got to cut some vegetables, cook water and throw in some spices. €25 is too much for learning to make pho when the result was not very tasty. Wikipedia might be a better teacher. 🤷‍♀️" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-11-02", text: "Not too much cooking, mostly chopping stuff but it was very nice and the staff were lovely! Feel bad leaving 3 stars but it was like I was chopping stuff for my mother in the kitchen and she was doing it." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-sapa-trekking-tour-with-homestay-and-meals') {
+        return {
+            averageRating: 4.32,
+            totalReviews: 3,
+            guideRating: 4.32,
+            valueRating: 4.32,
+            reviews: [
+                { author: "Ariadne", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "We enjoyed the hike and the people. everything was organized and worked according to plan." }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-scenic-ride-nature-s-beauty-and-local-insights-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Jade", country: "Verified traveller review", rating: 5, date: "2026-05-07", text: "Má Ghênh was so sweet, she explained very well and I discover some villages, with beautiful landscapes… and I had a problem and she help me to fixe it. Thanks again I recommend 100% Jade" },
+                { author: "Susana", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "We had an absolutely wonderful experience on this tour! Our guide Ma Ghenh, was incredibly kind, friendly, and knowledgeable. She belongs to the Black Hmong community, which made the experience even more special, as she shared fascinating insights about local traditions, culture, and daily life. She took us through breathtaking landscapes, including stunning rice terraces and some truly beautiful, authentic places. Despite the rain being the only small inconvenience, it actually added to the adventure and made the day even more memorable. We visited amazing locations. Exploring these places by" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "la actitud de las guías ha sido fabulosa en especial Ma ghenh, que es la que me toco a mí, super agradable alegre y positiva y una gran conductora y guia. la excursión sin duda valió la pena, lo recomiendo al 100%" }
+            ]
+        };
+    }
+
+    if (slug === 'full-day-easy-rider-tour-with-hot-spring-in-sapa') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 3,
+            guideRating: 4.77,
+            valueRating: 4.77,
+            reviews: [
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-04-15", text: "Es war das beste was man machen kann um die umliegende Natur zu sehen! Wir waren drei Mädels und hatten jeweils einen Fahrer, war echt cool dass es eine private Tour war. Die Jungs waren sooo nett und höflich und haben immer auf uns gewartet. Durch die Mopeds sind wir auch an Orte gekommen, an die man nicht mit dem Auto kommt. Essen war super (viele vegetarische Optionen), man musste aber für die Getränke zahlen. Können es nur empfehlen!" },
+                { author: "Olga", country: "Verified traveller review", rating: 5, date: "2026-02-26", text: "Все очень понравилось! Экскурсия для тех, кто хочет многое увидеть в сжатые сроки в окрестностях Сапы. Быть мобильным, при этом ехать на байке в роли пассажира. Ребята очень приятны в общении! Однозначно рекомендую!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-10-26", text: "Journée très sympa. Guide très gentille. Mes ados ont adoré. La photo sur le site (source d'eau chaude) ne correspond pas a la réalité--> un bassin d'eau thermale? La guide n'a pas été capable de me dire d'où provenait la température de l'eau" }
+            ]
+        };
+    }
+
+    if (slug === 'cooking-workshop-with-h-mong-guide-in-ta-van-village-in-sapa') {
+        return {
+            averageRating: 4.63,
+            totalReviews: 4,
+            guideRating: 4.63,
+            valueRating: 4.63,
+            reviews: [
+                { author: "Helen", country: "Verified traveller review", rating: 4, date: "2026-08-28", text: "Hele vriendelijke mensen! We hebben heel lekker gegeten! Het was heel leuk om traditioneel te koken. Ze had nog net iets meer kunnen uitleggen over de Vietnamese keuken. We hadden graag nog meer geleerd. Over het algemeen hebben wij ons goed vermaakt." },
+                { author: "Nienke", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Fantastisch!!!!!!! De begeleider heeft goed geholpen en goed uitgelegd. Hij nam alle tijd voor ons. Echt geweldig!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-08", text: "We booked the cooking class spontaneously and were warmly welcomed right from the start! Mia and the owners are incredibly friendly and made us feel completely at home. We went to the market together, learned a lot about life in Vietnam, and cooked the most delicious spring rolls we’ve ever had. An absolute recommendation - such a wonderful and authentic experience! Thank you so much!" }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-trekking-tour-with-bus-transfer-and-homestay') {
+        return {
+            averageRating: 4.0,
+            totalReviews: 1,
+            guideRating: 4.0,
+            valueRating: 4.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-08-26", text: "Me gusto el paisaje, la guia y la excursión. La guia muy bien, atenta, simpatica y nos dio mucha información. El dormir en una casa de una familia, no fue asi, ellos viven en su casa y nosotros en unas casas prefabricadas. La excursión para ver los campos se podria alargar un rato mas. Cuando llegas a Sapa te vas al alojamiento que esta en medio del campo, muy bonito, pero para ir al pueblo ya que alli no hay nada, tienes que coger un Grab para poder moverte." }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-motorbike-tour-hidden-valleys-and-dragon-waterfall-sapa') {
+        return {
+            averageRating: 3.86,
+            totalReviews: 3,
+            guideRating: 3.86,
+            valueRating: 3.86,
+            reviews: [
+                { author: "Gabrielle", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "I really enjoyed this tour, the views are absolutely incredible and my driver/guide, Bing, was very skilled and kind. Definitely a good tour if you want to see more of the region and get away from the main areas." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2025-12-25", text: "If you want to get away from the crowded tourist destinations and explore Sa Pa in all its natural beauty, this would be the perfect experience. The guide knows hidden gems that are truly worthwhile. Dragon waterfall is one of the biggest Sa Pa has to offer. The views along the way are unbelievable. The motorbike tour has a ton of outlook points. Got local bites and explored caves and church ruins. Truly magnificent experience!" },
+                { author: "Youri", country: "Verified traveller review", rating: 1, date: "2025-12-18", text: "one of the planned stops was closed and simply dismissed as “bad luck.” Shortly after, things went seriously wrong. On a slippery road, the motorbike fell over while we were almost standing still. I hit my head (I was wearing a helmet) and rolled over. The driver asked several times if I was okay, but when I mentioned pain in my neck and shoulders, there was no follow-up at all. My phone screen was also damaged in the fall, and no responsibility was taken or solution offered. The supposed highlight of the tour was a waterfall, but even that failed. The driver could not find the correct locatio" }
+            ]
+        };
+    }
+
+    if (slug === 'cat-cat-moana-and-alphine-coaster-private-tour-by-car-in-sapa') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 4,
+            guideRating: 4.78,
+            valueRating: 4.78,
+            reviews: [
+                { author: "Fanny", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "Great! We had the sweetest guide Linhn who took us around and shared her story with us" },
+                { author: "Hayley", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "We had a great morning tour of Cat Cat village with our sweet guide. We also enjoyed the alpine coaster ride. Moana was a busy loud tourist spot and way too tacky for us, just not our thing lots of queues for purpose built instagramable pictures we don’t stay long, however everything else was great and our guide and driver were both lovely." },
+                { author: "Mehmet", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "Turumuz harikaydı. Çok tatlı bir rehberimiz vardı. Rehberimiz her konu da bizlere yardımcı oldu ve çok detaylıydı. Mutlaka ama mutlaka tavsiye ediyoruz. Çok güzel bir deneyimdi bizim için. Rehberimize ve bizlere eşlik eden şoförümüze çok teşekkür ederiz." }
+            ]
+        };
+    }
+
+    if (slug === 'villages-and-rice-fields-private-half-day-car-tour-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Giulia", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "Great activity and we loved our guide. She was knowledgeable and funny and showed us a lot of interesting traditions" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "Mia was a perfect tour guide, super professional and so kind - ending the your with gifting a bracelet without expecting anything in return. She is smart and empathetic, and adjusted the tour to my wishes and what I was interested in most. She speaks very well and clear English, and she was able to show some highlights, despite the weather not being optimal! Thank you so much Mia!" }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-1-day-trekking-tour-rice-terraces-and-villages-sapa') {
+        return {
+            averageRating: 4.76,
+            totalReviews: 4,
+            guideRating: 4.76,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Jacob", country: "Verified traveller review", rating: 5, date: "2026-06-23", text: "Great, very enjoyable trek and great company from our guide Mia was lovely and so informative! :)" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-07-11", text: "It was very nice to both see and walk through the terrace rice fields. And great lunch in lovely village! Fantastic experience, thanks to our guide Linh!" }
+            ]
+        };
+    }
+
+    if (slug === 'ultimate-sapa-motorbike-tour-villages-and-waterfalls-sapa') {
+        return {
+            averageRating: 4.96,
+            totalReviews: 16,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Ebony", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "Me and my mum had such a great time! The girls were great guides and catered for the cloudy/ rainy weather Thank you!" },
+                { author: "Joe", country: "Verified traveller review", rating: 5, date: "2025-08-18", text: "We got to see so many points in Sa Pa with an expert guide" },
+                { author: "Georgia", country: "Verified traveller review", rating: 5, date: "2025-08-06", text: "We had a great day touring the Sapa mountains and country side and got to see lots of different landscapes. Our guide Dơ was very knowledgeable about the local area and when it began to heavily rain he let us change the itinerary around to suit us. We liked the fact that there was still some walking involved at one of the villages and the waterfall, so we weren't just sat on a bike the whole time. Lunch was also tasty with a great view." },
+                { author: "Stephanie", country: "Verified traveller review", rating: 5, date: "2025-07-08", text: "The tour was amazing! It was my first time as a motorbike passenger (or on one ever) and I felt completely safe. Su and her sister Dinh were fun, kind, and full of great info. We saw parts of Sapa we never would have found on our own. Highly recommend — a true highlight of our entire Vietnam trip!" },
+                { author: "To", country: "Verified traveller review", rating: 5, date: "2025-01-29", text: "Loved everything about the trip. The driver was super helpful and safe. One of my best days in Vietnam. Can't be thankful enough for this tour. Highly recommend" },
+                { author: "Dean", country: "Verified traveller review", rating: 5, date: "2024-10-31", text: "Had a really fun enjoyable day with Binh. Binh made sure everything was perfect for me and he was very knowledgeable about Sapa. I didn’t need to worry about the windy sometimes bumpy roads of Sapa as Binh’s driving was perfect and smooth as possible. If you want to see the best of Sapa do this tour you won’t regret it." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-07-06", text: "Hu was a great and friendly guide/rider. He was knowledgeable and answered my questions. I also managed to visit all the places I wanted to in Sapa." }
+            ]
+        };
+    }
+
+    if (slug === 'full-day-trekking-tour-to-lao-chai-and-ta-van-villages-in-sapa') {
+        return {
+            averageRating: 4.52,
+            totalReviews: 7,
+            guideRating: 4.52,
+            valueRating: 4.52,
+            reviews: [
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2025-10-25", text: "The trip was very nice, the guide was lovely and very helpful, we enjoyed the villages and the rice fields.. it was a very nice walk in a spectacular scenery" },
+                { author: "Eva", country: "Verified traveller review", rating: 5, date: "2026-01-24", text: "Eine matschige 11km lange Trekkingtour, die sich mehr als gelohnt hat. Unsere Guide, die selbst in Lao Chai wohnt, hat uns sicher durch die Reisplantagen geführt. Bevor wir losgingen, hat sie mir ein paar Gummistiefel besorgt, sodass ich trockenen Fußes blieb. Es ist sehr beeindruckend, wie man in den Dörfern lebt. Unsere 4-köpfige Gruppe wurden dann von Frauen aus dem Dorf begleitet, die uns ihre sichere Hand gereicht haben, als es rutschig wurde, dafür haben wir ihnen im Gegenzug Handarbeit abgekauft. Die Guide hatte das im Vorfeld angekündigt, und es war absolut in Ordnung. Ich werde diese" },
+                { author: "Debora", country: "Verified traveller review", rating: 3, date: "2025-10-22", text: "The first half of the trek took us through muddy and slippery paths, which made the trail a bit challenging. Many groups started the tour at the same time making it a bit crowded. A big issue that really affected our experience was a group of older women who followed us from the very start of the walk. They offered help navigating the muddy paths, but it quickly became clear that their main intention was to sell their handmade goods and ask for money. They were very persistent and pushy, which made the situation uncomfortable and detracted from the overall enjoyment of the tour. Halfway throug" }
+            ]
+        };
+    }
+
+    if (slug === 'motorbike-tour-to-drgon-waterfall-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Claus", country: "Verified traveller review", rating: 5, date: "2025-10-24", text: "Aufregende Motorradtour! Unsere Fahrer waren extrem geschickte Biker, bei denen wir uns immer sicher gefühlt haben. Sie haben aan Regencapes und Wasser für uns gedacht- sehr fürsorglich! Wir waren an Orten die wirklich nur von Motorrädern erreicht werden können, fuhren über Schotterwege, Matschwege und sind Millionen von Schlaglöchern elegant ausgewichen - ein toller Nervenkitzel. Die Landschaft war atemberaubend und der Weg zum Wasserfall ging steil bergab, war jedoch in 20 Minuten zu bewältigen. Den Wasserfall zu sehen ist ein beeindruckendes Erlebnis, an das wir uns immer erinnern werden. D" }
+            ]
+        };
+    }
+
+    if (slug === 'pho-noodle-soup-cooking-class-in-sapa') {
+        return {
+            averageRating: 4.71,
+            totalReviews: 3,
+            guideRating: 4.71,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Lacee", country: "Verified traveller review", rating: 5, date: "2026-06-29", text: "sisi was absolutely amazing. It happened to just the two of us. very fun, very knowledgeable, and some of the cultures in Sapa. the pho was the best. Amazing. loved this experience and taking my new recipe home to America to enjoy pho anytime." },
+                { author: "Linda", country: "Verified traveller review", rating: 4, date: "2026-03-11", text: "It was a lovely way to spend a cool and cloudy afternoon. We made delicious Pho together and we learned the traditional methods and ingredients in a friendly, relaxed and clean environment. We left very satisfied with the class and our taste lunch. Would recommend to others" },
+                { author: "Maya", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "Der Kochkurs mit Sisi war ein besonderes Erlebnis!! Wir durften alles Schritt für Schritt selbst machen und die Suppe war am Ende köstlich!! Sehr empfehlenswert." }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-to-waterfall-green-tea-farm-with-motorbike-driver-sapa') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 3,
+            guideRating: 4.83,
+            valueRating: 4.83,
+            reviews: [
+                { author: "xaver", country: "Verified traveller review", rating: 5, date: "2025-05-13", text: "It was a bit different than I expected but a great experience! Imagine it as a roadtrip into provincial vietnam, you get to see villages and towns along the way as well as beautiful landscapes. It was especially interesting since you start from Sa Pa in the hills and get down to the valley eventually. There's a lot of very scenic or aesthetic spots and my driver was an excellent Photographer. We also took some opportunist stops that are usually not in the tour but were interesting to me. You will be on the motorbike a lot so that's something to consider. Also the duration of the activity is a" },
+                { author: "Milena", country: "Verified traveller review", rating: 5, date: "2026-04-11", text: "Wir hatten einen sehr sehr schönen Ausflug und sind absolut begeistert! Am meisten haben uns die Tee Plantagen gefallen, aber auch die Aussichtspunkte, vor allem der lonely tree waren super. Die Fahrer waren sehr gut und zuverlässig und der Guide hat uns alles sehr schön erklärt. Wir würden empfehlen, warme Sachen mitzunehmen, da es morgens auf dem Motorrad noch kalt ist (Tagsüber konnten wir gut mit T-Shirt mitfahren aber am Morgen waren wir sehr froh, dass wir Pulli und Regenjacke hatten alsWindblocker hatten.)" },
+                { author: "Ramona", country: "Verified traveller review", rating: 4, date: "2024-11-10", text: "also zunächst einmal: die Tür ist jeden Euro Wert! Man sieht tolle Orte die man alleine so wahrscheinlich nicht sehen würde. Mein Tourguide war ebenfalls sehr nett und hilfsbereit bei allem. Nur eine Sache war recht ungünstig was vermutlich an einer fehlerhaften Übersetzung vom Vietnamesischen ins Deutsche liegt... in meiner Beschreibung stand nichts von einer Motorradtour! Tatsächlich aber handelte es sich um eine ca 6 stündige Tour auf dem Motorrad. Darauf war ich dann natürlich nicht wirklich vorbereitet/ angezogen. was fatal sein kann wenn man um 6:30 in Sapa startet. Natürlich sind wir an" }
+            ]
+        };
+    }
+
+    if (slug === 'sunworld-fansipan-legend-ticket-in-sapa') {
+        return {
+            averageRating: 4.2,
+            totalReviews: 7,
+            guideRating: 4.2,
+            valueRating: 4.2,
+            reviews: [
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2025-05-19", text: "Great day from start to finish a very nice place to visit with a lot of photo opportunities" },
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2025-11-06", text: "Going on the cable car up to Fanispan" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2025-04-03", text: "It's higher price here ! And due to complete fog we couldn't see anything" },
+                { author: "Legrandfifi", country: "Verified traveller review", rating: 5, date: "2024-04-06", text: "très bien organisée visite superbe" },
+                { author: "Bhalabasa", country: "Verified traveller review", rating: 2, date: "2023-08-08", text: "El lugar es precioso y maravilloso, pero Cuando quise coger el fonicular tuve que Pagar también, creo que la entrada ya Es bastante cara y debería incluir el Fonicular" }
+            ]
+        };
+    }
+
+    if (slug === 'sapa-highlights-ethnic-culture-moana-and-alpine-coaster-sapa') {
+        return {
+            averageRating: 4.0,
+            totalReviews: 1,
+            guideRating: 4.0,
+            valueRating: 4.0,
+            reviews: [
+                { author: "Lina", country: "Verified traveller review", rating: 4, date: "2026-09-04", text: "Tour was nice. We saw SAPA view point, Moana place,made lots of pictures, heard some nice Hmon people stories" }
+            ]
+        };
+    }
+
+    if (slug === 'motorbike-tour-to-villages-with-lunch-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2025-10-30", text: "Thong was a great guide interesting ride, good time and great scenic drive." }
+            ]
+        };
+    }
+
+    if (slug === '4-day-4-night-ha-giang-loop-small-group-tour') {
+        return {
+            averageRating: 4.69,
+            totalReviews: 5,
+            guideRating: 4.69,
+            valueRating: 4.69,
+            reviews: [
+                { author: "Samantha", country: "Verified traveller review", rating: 5, date: "2025-03-26", text: "The ha Giang loop is a must when you come to North Vietnam, the company I think is actually brokered out to Hong Hao Hostel? They ran the tour and they were fabulous, the first sleeper bus was fantastic- from sapa it is a bit windy so maybe take sickness tablets, our bus back to Hanoi was not great but other than that the tour itself is amazing, food was good, our guide Penh was great." },
+                { author: "Ane", country: "Verified traveller review", rating: 5, date: "2025-11-15", text: "Alt var perfekt. Guide, drivers, oplevelse, homestay!! ALT" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2025-01-21", text: "the tour itself was amezing. Just the organisation trough this booking wasnt as good. they really are sow to respond or not at all. also my way back was not as it was promised. instead of being back at hanoi around 11pm it turned out to be 3am in the middle of the night with a really bad quality sleeperbus who stoppen every 20min to collect items and stached this inbetween the bed. this ment when i had a break i barly could get out and crawler over the items." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-10-12", text: "It was such a good experience, amazing scenery! Not only that, but the company leading the tour was incredibly accommodating and caring about every single persons experience, and also ensured our transportation was set up so we didn’t have to worry." }
+            ]
+        };
+    }
+
+    if (slug === 'easy-rider-4-day-motorcycle-tour-of-ha-giang-loop-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Julie", country: "Verified traveller review", rating: 5, date: "2025-08-04", text: "Bedste guide og bedste drivers. De gjorde så meget for os. Det var en tryg og god oplevelse. Vi fik set så meget af det smukke landskab, der bare fortsatte i uendeligheder. En kæmpe oplevelse. Stor anbefaling herfra." }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-giang-loop-self-ride-motorbike-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Gerard", country: "Verified traveller review", rating: 5, date: "2025-03-13", text: "Een geweldige ervaring! Gids Len Khuynh en zijn team hebben ervoor gezorgd dat wij veilig de tour hebben kunnen maken." }
+            ]
+        };
+    }
+
+    if (slug === 'homemade-tofu-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "Es waren gemütliche Stunden. Wir wuren super angeleitet und durften unser Werk am Schluss zum Mittagessen verspeisen. Wir werden auf jedenfall Zuhause auch mal wieder Tofu machen! Definitiv empfehlenswert!" }
+            ]
+        };
+    }
+
+    if (slug === '21km-guided-trail-running-tour-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "혼자 사파에서 트레일러닝을 경험하기 겁이 났었는데 리더의 좋은 리딩을 통해 최고의 경험을 하게 되어서 정말 멋졌습니다. 트레일러닝 세션은 이것 밖에 없을거에요. 또 도전해 보고 싶네요. 무조건 도전해 보세요." }
+            ]
+        };
+    }
+
+    if (slug === 'mu-cang-chai-2-day-motorbike-tour-to-sapa-with-homestay-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "We had the right idea or rather the chance to have chosen Bla's excursion. You will be very well received by her and her husband, they will make you discover beautiful landscapes of rice fields and breathtaking views. She is adorable and if she invites you to discover the drawing on fabrics based on honey and indigo. Do not hesitate to take the two-day excursion where it will take you to the fountain of lovers and other unique and splendid places. Thank you for this experience Bla." }
+            ]
+        };
+    }
+
+    if (slug === 'private-sapa-car-tour-for-seniors-cat-cat-moana-and-lao-chai-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Kenni", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Vi havde en privat tur rundt i Sapa med La som vores guide, og det var en helt fantastisk oplevelse. La var utrolig venlig, talte flydende engelsk og delte om Hmong-kulturen og livet i Sapa. Hun tilpassede turen og de forskellige stop undervejs efter vores interesser, hvilket gjorde oplevelsen endnu mere personlig. Vi kan varmt anbefale denne tur til alle, der besøger Sapa! English: We had a private tour around Sapa with La as our guide, and it was an absolutely fantastic experience. La was incredibly friendly, spoke fluent English, and shared fascinating insights into the Hmong culture and li" }
+            ]
+        };
+    }
+
+    if (slug === 'waterfalls-and-pu-sam-cap-cave-motorbike-adventure-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Haylea", country: "Verified traveller review", rating: 5, date: "2026-05-07", text: "we loved exploring outside of Sa Pa and seeing a whole new landscape. the cave was definitely a highlight and we were so happy we could spend a little more time there. we did the trip in May on a sunny day and wore a pair of linen pants and a windbreaker. it was slightly cold to begin with but warmed up quite a bit in the valley. if you're looking for something unique to do around Sa Pa, I would recommend this 😁" },
+                { author: "Samantha", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "My favorite day trip in Vietnam so far, highly recommend!! The guides were amazing and we got to stop at so many places along the way!" }
+            ]
+        };
+    }
+
+    if (slug === 'ninh-binh-unesco-and-sapa-trekking-3d-sleeper-dcar') {
+        return {
+            averageRating: 4.67,
+            totalReviews: 4,
+            guideRating: 4.67,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Tarik", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "Ninh Binh is a show stopper trip. The wow factor passing under the mountain to discover valley after valley is a unique experience. A perfect full day that truly feels like discovering the Vietnamese countryside. Comfortable accommodations, good food, and a hilarious guide with excellent English. The night train was incredibly cozy, like traveling back in time, gently rocked by the rhythm of the tracks. Passing through Train Street from the train was a beautiful bonus. Sapa was stunning despite the weather. The village and rice field visits were unforgettable, and Cat Cat Village, though more" },
+                { author: "Maddie", country: "Verified traveller review", rating: 5, date: "2025-12-19", text: "The trip was absolutely wonderful👏🏽! The tour guides in Ninh Binh and Sapa were very professional and always supportive throughout the journey. Maddie from the operations team contacted me right after I booked the tour to confirm and provide helpful assistance. The views were beautiful, lovely, and truly memorable🌱" },
+                { author: "Noortje", country: "Verified traveller review", rating: 4, date: "2026-04-22", text: "This was a great trip. Day 1 we had a great tour guide and a fully planned day including transport where we got to see Ninh Binh. Day 2 and 3 were spent in Sapa which was breathtakingly beautiful, we hiked down the mountain with a Hmong guide telling us about their people and culture. The evening we had allocated free time in Sapa which we spent at a bar with great coffee and at a touristy restaurant with amazing pizza and a fun host. Day 3 we visited Catcat and got to see the Hmong village. We would definitely recommend it. However do be mindful, you’re gonna be doing a lot in 3 days. We real" }
+            ]
+        };
+    }
+
+    if (slug === 'ultimate-motorbike-odyssey-waterfalls-and-o-quy-ho-pass-in-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "avanti", country: "Verified traveller review", rating: 5, date: "2025-12-17", text: "The trip was beyond amazing, such an amazing guide and beautiful personality to have for the entire day . I saw so much in a day from early morning to winding down to the villages in the evening ! Understood very good english and she was very very caring and made sure i was okay the entire day. I left my cash in my room and she was kind enough to pay for me and I did pay her back once i got back to my hotel. On our way back she was so sweet saw a man stuck on his bike and she asked me if it was okay to turn around and see if he needed her help. How amazing of a person. She made an amazing beau" }
+            ]
+        };
+    }
+
+    if (slug === 'trekking-and-motorbike-full-day-in-mu-cang-chai-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Mariel", country: "Verified traveller review", rating: 5, date: "2024-09-29", text: "this trip was one of our highlights in vietnam! thank you Layla, we had amazing two days with incredible views and great insights in the local life. we learned so much and loved to talk to you (sometimes using translater, everything worked perfectly)! we hiked and walked a lot, which was as exhausting as it was fun and we even got to see more with the motorbike after the tour. Mu Cang chai is the perfect place to go to experience the local life and see the breathtaking rice fields!" }
+            ]
+        };
+    }
+
+    if (slug === 'from-cao-bang-2-day-ha-giang-loop-w-safe-rider-max-8-pax-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "caitlin", country: "Verified traveller review", rating: 5, date: "2025-02-21", text: "Absolutely amazing even though some might say it wasn’t the best time to go. Even though some views where covered by clouds and fog and we had some rain. This kind of weather also really brings out the green and it’s absolutely beautiful seeing the clouds in between mountains. Definitely recommend!! Everything was great and outside of the ride itself I met a great group of people! This is one of those things everyone has to experience at least once in their life! Thank you to tripbestie, Hong Hao hostel and motorbikes, all the easyriders and everyone involved with making this experience so gre" }
+            ]
+        };
+    }
+
+    if (slug === 'from-cao-bang-3-day-ha-giang-loop-w-safe-rider-max-8-pax-sapa') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-04", text: "Very cool adventure - even tho it was raining we had so much fun. Our guide and drivers were really nice and attentive, they tried their best to give us the best experience possible. The driving was very safe. The accomondations were good as was the food. We loved the experience and would have booked the 4 day loop in hindsight. We can really recommend the ha giang loop and would love to come back one day." }
+            ]
+        };
+    }
+
+    if (slug === 'hue-imperial-tour-heritage-train-via-hai-van-pass') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 273,
+            guideRating: 4.85,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Susan", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "We had a fantastic trip, Sam our guide was very knowledgeable and made the trip more interesting. Highly recommended" },
+                { author: "Sue", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "It was a lovely day with an excellent guide Sam, always making sure everything was fine with everyone, also very good knowledge of the history in Hue." },
+                { author: "Lynda", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Our guide An, was so knowledgeable and good humoured. He had so much information to share about He's history and kept us very entertained. Highly recommended." },
+                { author: "Andy", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Huda was a great guide. Everything was planned in advance with good seats and his knowledge of Hue was exceptional. Highly recommended!" },
+                { author: "Dianne", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "The tour was very good, the train ride was enjoyable. We ate barbecue oysters at the oyster village cafe, which were excellent. Our guide, An, was a very knowledgeable and likeable guide. We were on this tour in mid August, apparently at the very hottest time of the year, so the pace in the 40°C heat for us, we are in our 60’s was not so easy. My husband ordinarily struggles with a lot of walking though, so not a fault of the tour. He didn’t attempt to climb the 130 steps to the tomb." },
+                { author: "Marta", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "The trip was extraordinary! Your guide, Huda (HieuVan), is truly professional! He has incredible knowledge, is very helpful, kind, smiling, and very caring. The trip was superbly organized; we didn't have to wait anywhere; everything was perfect." },
+                { author: "Fatima", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Amazing experience specially if you’re doig just a 1-day trip to Hue. I wish it was a bit longer because the places we saw were so beautiful I wanted to keep taking pictures and stay. The train experience was the best and I’m glad did this instead of paying less and taking a minivan. Huda our guide was also amazing and very knowledgeable and narrated the mysteries and stories of Hue in a very captivating way. My only con was not being able to stay longer than I would’ve liked." },
+                { author: "Bobbie", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Sam was an attentive guide ensuring all travelers were well hydrated and accounted for during the tours. He was expressive and clear in his sharing the stories of the Nguyen dynasty. Definitely recommend Sam and the tour!" },
+                { author: "Ashutosh", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "It was a great trip which was very well organised as well. Our guide Sam was wonderful and knowledgable. Highly recommend the experience." },
+                { author: "Graham", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "we found Huda and his team extremely professional and punctual. The transportation was very comfortable and Huda extremely knowledgeable. the restaurant we visited gave a wonderful sample of Vietnamese dishes. We were party of 4 ranging in ages from 17 to 60 and would all recommend Huda tour." },
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Sam was knowledgeable and a fantastic guide, it was wonderful being taken everywhere and taught the fantastic history of Hue" },
+                { author: "Trish", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "Great day that included lots of activities. Really pleased with the itinerary as much easier to join a group rather than do it solo. Talent was a great guide and we learnt a lot. Although it was a long day, it didn’t feel like it as there was much to see; very grateful for the comfortable and modern van that transported us around." }
+            ]
+        };
+    }
+
+    if (slug === 'heritage-train-ticket-hai-van-pass-train-from-da-nang-and-hue-da-nang') {
+        return {
+            averageRating: 4.31,
+            totalReviews: 62,
+            guideRating: 4.31,
+            valueRating: 4.08,
+            reviews: [
+                { author: "Eva", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "Great way to get from Da Nang to Hue! Travelled both ways and was super easy and beautiful views. Great to get the ticket delivered via WhatsApp, seamless experience" },
+                { author: "Shane", country: "Verified traveller review", rating: 5, date: "2026-06-20", text: "Was very good the train was bit behind but overall great experience" },
+                { author: "Kylee-ann", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "It was a great trip! Amazing musical performers and the food available to purchase was delicious. It was nice to be able to walk about the train and stretch your legs whenever you needed too. Highly reccomend." },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-05-31", text: "alot of beautiful scenery along the way we decided to take a car ride to hue arrived 9 am $40 spent the day exploring, there is plenty of ride options if walking is not your thing, We walked to train station , took afternoon train back to da nang ,sat in coach 1 left side this train ride is good for all ages," },
+                { author: "Lucas", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Incredible scenic train ride! The views through Hai Van Pass were stunning and the whole experience was smooth, comfortable, and well organized. Definitely one of the best ways to travel between Da Nang and Hue. Highly recommended!" },
+                { author: "Christina", country: "Verified traveller review", rating: 4, date: "2026-07-05", text: "Good but need more instructions on how to get tickets etc" },
+                { author: "Kenneth", country: "Verified traveller review", rating: 4, date: "2026-09-10", text: "Det var en togtur i smukke omgivelser" },
+                { author: "Stefan", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Super ich werde diesen Trip noch einmal machen. Ich möchte gerne noch mehr von der Stadt HUE erfahren" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "the train was lovely and clean, view amazing" },
+                { author: "Luc", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Un transport confortable et des prises de vues type carte-postale." },
+                { author: "Lukas", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Sehr schönes Erlebnis! Alles gut organisiert und das Abteil gemütlich und reichhaltig mit Snacks vorbereitet." },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-08-18", text: "The AC was broken. And the Duration was too long since the train was really slow. Other than that it was ok." }
+            ]
+        };
+    }
+
+    if (slug === 'han-river-local-cruise-by-night-in-da-nang') {
+        return {
+            averageRating: 4.01,
+            totalReviews: 1688,
+            guideRating: 4.01,
+            valueRating: 4.15,
+            reviews: [
+                { author: "Roger", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Great cruise and staff, to see the Dragon breathe fire!!!" },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "The cruise takes you right up to the dragon bridge for an excellent view of the fire and water breathing. It was lovely also to cruise up and down the river and see two other bridges and the buildings all lit up." },
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "A great trip , the boat stopped at the perfect location to see the dragon do its thing" },
+                { author: "Nick", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "It was a fantastic way to see the Dragon Bridge at night with the fire and water." },
+                { author: "Evangeline", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "The communication from the ticketing personnel and the costumer should be better.. We foreigners doesn't understand where to fall in line or to go as the personnel only speak Vietnamese and very little or no english at all. Basic english is a must if you work with tourism." },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2026-06-29", text: "We found that it was a convenient way of seeing the dragon bridge show" },
+                { author: "Alan", country: "Verified traveller review", rating: 5, date: "2026-06-28", text: "A great cruise out. Very good value for money for a 1.5 hour cruise and a welcome drink included. Included a few traditional dance routines and further drinks were cheap 25000 for a beer. The boat positioned itself at 9pm in a great vantage point to see the flames etc. from the dragon bridge, beating the crowds on the actual bridge. Not to be missed." },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2026-06-15", text: "Excellent. Helpful staff. Great atmosphere. Met lots of people from all over the world. Great view of the bridge and the dragon fire. Very good value" },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "A really pleasant relaxed evening from the time we got on until we got off (a total of 2 hours). The company were very efficient and organised and the staff helpful. We had a great cocktail on board served by the hard working bar tender." },
+                { author: "Georgia", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "Good fun, easy to get on and saw lots of cool lights. Free fruit and water with ticket." },
+                { author: "Angela", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "Great but difficult to get a good view for photos as lots of people on boat. Drinks were good." },
+                { author: "Nolan", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "We thoroughly enjoyed our night cruise along the Han River. It started around 8 p.m., so that’s when we arrived at the meeting point on the riverfront. Once we boarded the boat, we were given complimentary water and fruit. If we wanted more drinks, we had to pay extra. The cruise lasted about 50 minutes to an hour, and the views were wonderful! It was a great joy watching all the city lights sparkle at night. They also had a local Vietnamese dancer perform twice during the cruise, which was really cool to see. All in all, we loved the experience and highly recommend it—especially for the price" }
+            ]
+        };
+    }
+
+    if (slug === 'da-nang-coffee-making-workshop-da-nang') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 812,
+            guideRating: 4.95,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Jamie-Lee", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Very good class and taught us how to make all the famous Vietnam coffees! Harry like Harry Potter was very good and very knowledgable about the history of the coffees and where they’ve come from. Good value for money and highly recommend!" },
+                { author: "Liam", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "This was such a fun experience and I learnt so much about Vietnamese coffee. If you are in Danang I would check it out. Harry is very knowledgeable and made the activity really fun." },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Harry was a great guide on the coffee making class. We make 3 types of coffeee and the history of coffee in Vietnam. Would recommend" },
+                { author: "Bianka", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Harry was a really great guide, he spoke about Vietnamese traditions regarding coffee, difference between regions and he showed me how to make the 4 types of coffee. I really liked it" },
+                { author: "Jeanette", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Light lunch, was a big lunch, very delicious and plenty of it. Everyone spoke a really good and understandable English. It was a lot of fun making our own coffee and getting to know a bit more about Vietnamese coffee." },
+                { author: "Léonie", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "it was so much fun, super yummy and very informative" },
+                { author: "Letizia", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Harry was a super nice and funny guide. We had a lot of fun making all types of coffee and learnd a lot. He answered also all other kinds of questions about the region and activities ect. The coffees were really tasty. I would highly recommend this workshop." },
+                { author: "GG", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "This was the best activity I've done in and around Da Nang. Lana made the class very welcoming, entertaining and educational. Everything is provided, you just rock up and learn how to make black phone coffee and 3 varieties of coffee drinks (egg, salt, coconut). Definitely recommend." },
+                { author: "Amelia", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "We had a great time learning how to make our favourite Vietnamese coffees! This was such good value for money as it was the only class I found where you make 4 different coffees!! Linda was very welcoming and explained in detail what makes Vietnamese coffee different. You get to scan a QR code at the end as well which gives you access to all the recipes. Forewarning! Vietnamese coffee is very strong and you will be drinking everything you make (if you want of course!) so make sure you don’t have any caffeine before hand and have a small meal to line your stomach! 100% recommend this if you’re" },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Jane and her team were so knowledgeable and the class was super enjoyable. We made three coffees, egg, salted and coconut; all of which were delicious! Would definitely recommend this tour!" },
+                { author: "Fionnuala", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Loved this! Jane was so friendly and helpful! I will definitely recommend!" },
+                { author: "Melanie", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "It’s was fabulous Everything was delicious and made authentically with the proper Phin . The host spoke very well and explained the origins of the Vietnamese coffee The venue was very clean and well presented I would recommend this" }
+            ]
+        };
+    }
+
+    if (slug === 'transfer-from-da-nang-to-hoian-or-vice-versa') {
+        return {
+            averageRating: 4.85,
+            totalReviews: 1182,
+            guideRating: 4.87,
+            valueRating: 4.86,
+            reviews: [
+                { author: "Sanja", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Excellent trip! Everything was right on schedule. The van was clean and comfortable, and the driver was polite and professional. I highly recommend this service!" },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Excellent service! This is the second time we used it, the driver has arrived timely, everything was great. If we’ll need transfer in the future, we’ll definitely use them again. Highly recommend!" },
+                { author: "Anjuly", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "We had a wonderful experience with our airport transfer to our resort in Hoi An. The whole journey was pleasant, comfortable, and stress-free. Our driver was extremely kind, friendly, and professional, and he drove very safely. It was lovely to have such a smooth and relaxing transfer. We were very happy with the service and would definitely recommend it to others!" },
+                { author: "Joas", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Great service and highly recommended! Timely responses! Even accommodated my time change for pick-up from Hoi An to Da Nang! Much appreciated!" },
+                { author: "Walter", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "I had a wonderful experience! The car was impeccably clean and smelled fresh the moment I stepped inside. The driver arrived right on time, making the service extremely prompt and reliable. Communication was also seamless; the driver spoke excellent English, which made sharing directions and chatting very easy. Highly recommended for anyone looking for a smooth and professional ride!" },
+                { author: "shirley", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Everything was perfect. Drivers on time and communication was easy!" },
+                { author: "Igor", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "the drivers were professional and nice. The cars were airconditioned and tidy. communication was excellent" },
+                { author: "Harjeet", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "very helpful i said to change my pick up and they accepted my request and help me change my pickup time excellent" },
+                { author: "Aurel", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Very nice an smooth service. The driver was at the airport on time and was very professional. The car was recent and clean. Definitely a must-try service." },
+                { author: "Antony", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "The car could havee had water bottles for passengers. We did ask the driver. and he did give us one bottle, but it was his own, I think." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Excellent service. Will continue to use. Prompt, polite and clean vehicles." },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Driver was there early, very friendly and the car was clean - highly recommend !" }
+            ]
+        };
+    }
+
+    if (slug === 'hue-imperial-day-trip-hai-van-pass-train-and-lunch') {
+        return {
+            averageRating: 4.9,
+            totalReviews: 3125,
+            guideRating: 4.94,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Alice", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "I enjoyed my day trip to Hue. My tour guide Van was very helpful, kind, considerate and was very informative about many things on the trip. The train ride had beautiful coastal views even in the rain. The Imperial sites were very beautiful and overall I had a wonderful trip. Thanks Van and driver." },
+                { author: "RM", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "NGUYEN thao Van was a brilliant, lively and very organised guide. The pace was good and she was aware of that needs of the group .highly recommend. The train heritage experience was a special surprise" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Had so much fun today with Van on our Hue Imperial Day tour. The train was the highlight, as well as the kings tomb, Amazing, 100% recommend. Lunch was also very good, a lunch buffet at a local restaurant. A great amount of food choices, they catered well to everyone's dietary requirements. Our driver Chuck also looked after us very well, driving safely and keeping us cool." },
+                { author: "Nicole", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "This was one of the best tours I have ever taken. It was perfectly managed from start to finish, extremely interesting and diverse without being rushed or hectic. The train ride alone is beautiful and special. Hue and the sites visited are gorgeous and fascinating. Moreover, our guide Van managed the whole tour beautifully and is very knowledgeable, witty and thoughtful; a true professional. Strongly recommend." },
+                { author: "Kathryn", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Our guide Van was the best. Historical knowledge, coordinated the group well and even fanned us in the heat! It’s hot!" },
+                { author: "Roswitha", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We had a fantastic tour with Thinh (Tim). He had so much knowledge to share, communicated clearly, which made our experience that much more captivating. I can highly recommend Tim as a guide to Hue Imperial city." },
+                { author: "Yekaterina", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "The trip was absolutely amazing! We enjoyed every minute of it. It is an early start, but you get to see so many things that it is so worth it! Special thanks to our guide Thinh, who is incredibly knowledgeable, he answered all of our questions (there were a lot!) and helped us understand more of the history of Vietnam. We learned many details about culture and customs of Hue imperial city, and enjoyed the stunning scenery on the way there!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Really enjoyed our day trip to Hue with our guide Tim! We had enough time to see everything and Tim shared so much information about Hue. Really lovely lunch too!" },
+                { author: "Valery", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "The journey during this tour was very interesting and amazing. The energy and knowledge of Van our guide was very appreciated. She shared a lot with us about the history of the places visited. The tour is very early on morning but worth it. The view and the vibe during the train journey was beautiful. I recommend Van as a guide" },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "We had an absolutely fantastic day exploring Hue, but what really made the experience exceptional was our guide, Van. From the moment we met her, Van was warm, welcoming and genuinely enthusiastic about sharing her country, its history and culture with us. Her knowledge was incredible, but more importantly, she had a real talent for bringing the history to life. Rather than simply reciting facts and dates, she told the stories behind the places we visited in a way that was engaging, interesting and easy to follow. We came away feeling like we had learned so much about Vietnam. The train journe" },
+                { author: "Salil", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Overall, it was great experience. It started with them picking up for train. briefed everything and they were present till the we got down outside our stay. we had great experience seeing different places. and the lunch was great too." },
+                { author: "Marcel", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "We loved everything in the program, the train ride via the Hai Van pass, the walk through the Hue imperial citadel, tasty lunch break as well as the visit of the pagoda and kings tomb. Moreover, we liked the small tour as well as our tour bus. Last but not least our tour guide Sky, who has been very nice and knowledgeable." }
+            ]
+        };
+    }
+
+    if (slug === 'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 1393,
+            guideRating: 4.96,
+            valueRating: 4.88,
+            reviews: [
+                { author: "darryl", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Susan was fantastic! We learned so much about each stop. She mixed information and humor to make the trip more entertaining. We would bookmark this trip again" },
+                { author: "Valery", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "I had an amazing journey thanks to Van who take a good care of us during the trip. Her energy and knowledge were very appreciated and had contribuated to have a better understanding of Vietnam history. I highly recommend her if you plan to visit Hué city and around." },
+                { author: "Gordon", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Harry did a great job as tour guide. Harry kept us fully informed at each stage of the tour. We were also entertained by his light hearted banter. A very enjoyable morning." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Vu our tour guide was very pleasant with a great sense of humour. He was knowledgeable and made the tour really fun and interesting. Highly recommend" },
+                { author: "Laurie", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "It was very informative and was a good way to be able to see more places within the city and the guide was very good and able to answer any questions :))" },
+                { author: "Traci", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Candy was our guide. She was great!! Provided some education about marble mountain, and the meaning of the caves. Provided us with free the to explore and soak in the wonders of the cave. We saw Lady Buddha, which was great!!! Even saw a monkey!!! Great experience!!!" },
+                { author: "Margareth", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "Susan has a great personality and she knows a lot about History. I was very happy to take the tour with her. Transportation is great, AC, and they even gave us very cold water after climbing the mountain and going to the Lady Buddha statue." },
+                { author: "Cullen", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Harry was the best guide possible. Knowledgeable and a great sense of humor!" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Tour was excellent and very interesting. Our tour guide Thao was very knowledgeable, made sure we were all looked after and easy to understand" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Susan was a fantastic guide. We enjoyed our tour to Marble Mountain and Lady Buddha. Also stopping at the Marble statue workshop. Very interesting tour. Highly recommend this tour with Susan." },
+                { author: "Stephen", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Susan , was fantastic and her English was fantastic also she is a great addition to your team as I run 2 companies in the Uk and staff like Susan are very hard to find , she is management material thank you Susan for today it was the best Steve & Mark." },
+                { author: "Liam", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "This was such a great day out in Danang. It was a great variety of attractions and I learnt so much. Helen is very knowledgeable and kind, I would highly recommend using this service if you are visiting the city!" }
+            ]
+        };
+    }
+
+    if (slug === 'marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 9,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Nick", country: "Verified traveller review", rating: 5, date: "2026-03-13", text: "A fascinating trip, world class sites and helped by an energetic and engaged guide, loved it" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2025-10-03", text: "Stella was our guide, she was very friendly and knowledgeable. She made sure everyone understood and answered any questing. Highly recommend" },
+                { author: "Prue", country: "Verified traveller review", rating: 5, date: "2025-09-19", text: "Coco was amazing and was very personal. she made sure we were looked after all the way. Highly recommended." },
+                { author: "Kerry", country: "Verified traveller review", rating: 5, date: "2025-09-19", text: "Haha our tour guide was gorgeous. Never been to such high caves in my life. Very clean and well maintained 👌" },
+                { author: "Ron", country: "Verified traveller review", rating: 5, date: "2025-09-09", text: "Really interesting and informative, the tour guide was also very nice and had good English." },
+                { author: "Anders", country: "Verified traveller review", rating: 5, date: "2025-12-02", text: "God guide der talte et fint engelsk. Gode attraktioner, specielt hulerne var interessante. Lille selskab på 6 gæster." },
+                { author: "Ales", country: "Verified traveller review", rating: 5, date: "2025-09-10", text: "Die Tour war echt spannend und schön. Wir waren eine kleine Gruppe, was sehr angenehm war. Kai was ein sehr guter Tourguide, der alles sehr gut erklärt hat und auf alle Fragen eingegangen ist. Insgesamt ist es aufjedenfall zu empfehlen" }
+            ]
+        };
+    }
+
+    if (slug === 'da-nang-war-tour-from-champa-kingdom-sculptury-to-weaponry-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Kerrie", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "We had an awesome morning with Hung. He was very knowledgeable about all the wars Vietnam has endured. We particularly enjoyed the military base/museum. There was so much to see, particularly the tanks, helicopters and planes. Hung is very passionate about the Vietnamese history. He was friendly and had an infectious laugh. Highly recommend this tour. Thank you Hung" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2025-11-26", text: "We had a most impressive day with Ung. He helped us to explore the whole history of Vietnam from many wars to weapons that we never know before. The foodie tour is also amazing. Highly Recommended." }
+            ]
+        };
+    }
+
+    if (slug === 'golden-bridge-ba-na-hills-day-tour-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 7,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Rachael", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "Amazing experience! Our guide Mr Bean was so helpful and made our day easy, informative, and led us to the best spots for pictures at the best times. His advice was spot on. His skill was certainly tested with two guests who continually turned up late but he made our day. Thank you Mr Bean." },
+                { author: "Christa", country: "Verified traveller review", rating: 5, date: "2026-03-12", text: "Es war ein rundum gelungener Ausflug, wir wurden zur angegebenen Zeit abgeholt, unser Tourguide hat uns mit vielen Informationen über das Ziel und seine Geschichte versorgt. Es war für alle gut verständlich, wir fühlten uns immer gut aufgehoben. Danke für diesen schönen Tag." }
+            ]
+        };
+    }
+
+    if (slug === 'ba-na-hills-and-golden-bridge-cable-car-ticket-in-da-nang') {
+        return {
+            averageRating: 4.27,
+            totalReviews: 47,
+            guideRating: 4.27,
+            valueRating: 3.75,
+            reviews: [
+                { author: "Judy", country: "Verified traveller review", rating: 5, date: "2023-08-23", text: "We booked this trip with absolutely no idea what was up there. Thought maybe a park with some trees and benches. Who would think someone would go 1414 metres above sea level and say 'Wow! Let's build a Vietnamese Disneyland on the top of this incredibly steep mountain and only allow access via cable car!' What a fantastic place! There's something for everyone. We spent 6 hours there and still didn't see everything. Highly recommend. Be aware there is a lot of walking! But anyone can do it. We met an Aussie lady and her mum coming back down and mum was 90!" },
+                { author: "Rosemary", country: "Verified traveller review", rating: 4, date: "2024-03-29", text: "There was no indication from GYG that we weren’t part of a tour, that it was self guided… and therefore why did we have to be at the ticket office by a certain time.. we had to get up extra early, miss our breakfast to meet your deadline when it wasn’t necessary… the actual experience (which had nothing to do with GYG) meaning the facilities and sight at the top were marvellous" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-06-11", text: "I was quite disappointed with my experience. The details of the meeting times were incorrect and misleading, causing unnecessary confusion and stress. When I reached out to customer support for clarification, they were unhelpful and failed to resolve the issue effectively. Improved communication and more precise instructions could have made a big difference. I hope the company updates its information to prevent future customers from facing similar problems." },
+                { author: "KRISTINA", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "отлично, билеты пришли заранее, поэтому никаких очередей, парк просто супер" },
+                { author: "monkey.D.", country: "Verified traveller review", rating: 5, date: "2025-04-06", text: "endroit magique est magnifique je recommande a tout le monde !" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2025-03-04", text: "The reality of the golden bridge didn’t fit with our expectations. Its was not an incredible structure as the images portrayed, but instead a glitzy cheap and nasty bridge that totally disappointed. However, it is clearly popular as dispute the pouring rain and thick fog, the queues of people still come to take their selfies across the width of the bridge. This lead to long queues to get onto the bridge and when we finally made it, walking it was made difficult by the numerous people who didn’t care about the rain, but had to have that perfect photo with total disregard to anyone else attempte" },
+                { author: "Phillip", country: "Verified traveller review", rating: 2, date: "2025-02-21", text: "The displays were amazing. Although the day we went was overcast and heavy rain making visibility poor. We booked the buffet lunch bit couldn't find it on a map anywhere. I would look at booking direct rather than having a bar code in the app that needs additional confirmation to convert to a QR code then not being able to find the restaurant." },
+                { author: "Emilie", country: "Verified traveller review", rating: 5, date: "2025-01-03", text: "Pont très beau rien à dire, les activités agréables, la nourriture était bonne. Puis surtout beer station !!! Endroit très agréable bien animé à travers de la musique, des danseurs, etc. Malheureusement le temps n’était pas bon…" },
+                { author: "Thomas", country: "Verified traveller review", rating: 1, date: "2024-12-29", text: "Der Preis für das Ticket seitens GyG war überrissen. Zudem mussten wir die Fahrt selber organisieren resp. zusätzlich bezahlen… Das Wetter war eine Katastrophe, regnerisch, neblig und kalt ( kann niemand was dafür…). Das Ganze da oben schien uns wie eine Kopie eines Walt Disney parks… Zudem total überlaufen… und wir reden hier von der „ low season“. Möchte nicht wissen, was da in der Hauptsaison abgeht…🙈" },
+                { author: "Gladys", country: "Verified traveller review", rating: 5, date: "2024-04-29", text: "The best experience I have ever had" },
+                { author: "Chaz", country: "Verified traveller review", rating: 3, date: "2024-03-18", text: "This was advertised with a tour guide, however the driver just dropped us off and we were on our own. This place is huge and confusing for a first time visitor. Buffet was just ok and would have rather been able to choose a different food venue. Overall a poor value." },
+                { author: "Frederika", country: "Verified traveller review", rating: 5, date: "2024-01-24", text: "Een geweldige belevenis, zowel buiten als binnen. De attracties binnen waren fenomenaal en de brug is natuurlijk ook geweldig. Daar aangekomen in de mist en later toch de zon en heb ik prachtige foto's" }
+            ]
+        };
+    }
+
+    if (slug === 'ba-na-hills-and-golden-bridge-with-chauffeur-in-da-nang') {
+        return {
+            averageRating: 4.92,
+            totalReviews: 32,
+            guideRating: 4.88,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Constance", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Our private driver picked us up on time and were very comfortable in the car. He didn't speak English which was fine, we were able to use a translator. He dropped us off to the closest point so we didn't have to walk that far. Flexibility is the key to hiring a private driver, the weather was not good to visit the Golden Bridge so we told him that we wished to be picked up earlier than late afternoon as there was no point for us to be at the summit due to heavy rain. We gave our driver enough notice and were picked up efficiently, we had to walk a little further though to meet up with him, I d" },
+                { author: "Sabrina", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "We had a great day at Ba Na hills, driver was kind and on time, we arrived at 7:30 and took the cable car up, the company even arranged our ticket to the park in advance with qr code tickets - even though I booked the evening before only, they were very responsive. We spent the day in Ba Na hills until 3pm, visiting the gardens and also doing a lot of rides with our child (7 years old) , we did the alpine roller coaster and there was no line in the morning. Highly recommend! This day will be remembered forever. Thank you !!!" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "The driver was very nice and punctual. Despite not speaking much English, he was able to communicate clearly enough to get us to and from Ba Na Hills with no problem. I would use this service again on my next visit." },
+                { author: "Simone", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "Great advice from operator Go Travel Da Nang who pre-booked tickets for us and recommended WOW pass definitely worth the extra $. Cars were clean and comfortable. We did have 3 different drivers with limited English so instructions were a bit tricky but it worked out very well in the end. Communication by WhatsApp so best have E-Sim as no free WiFi outside the park. Great communication and organising from Go Travel Da Nang. Highly recommend!" },
+                { author: "Terence", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "The driver was punctual and polite. had a trouble-free ride to and from Ba Na Hills." },
+                { author: "Jorge", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "Excellent service. Cars were very clean and drivers were very attentive and professional. I recommend this for anyone going from Da Nang to Ba Na Hills." },
+                { author: "Sandy", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Pickup and drop off. Ba na hill is a great experience. I wanted flexibility since my parents a old and we didnt want to follow a guide. Was a great experience." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "This private transfer option gave our group flexibility to go to Ba Na Hills earlier then most group tours and we were able to get up to the Golden Bridge when there were less people. We liked that as we wanted to leave earlier we were able to contact the driver and tell them when we were due to come down such that they were ready to pick us up when we got down. Recommended for the flexibility" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Excellent service from start to finish. I received a friendly message before pickup, the vehicle was spotless, and the ride felt very safe and comfortable. The driver also shared helpful recommendations and local tips, which made the experience even better. Highly recommended." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Great! We were picked and dropped up from our hotel in time. Driver was very good and good knowledge. If you are in Da Nang, do not miss Ba Na Hills & Golden Bridge excursion. Very Beautiful location." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "Super chauffeur. Ideal pour la visite de Ba Na Hills depuis Danang à l’heure souhaitee. De ce fait aucune contrainte à laquelle visiter Da Na Hills. Le chauffeur etait dispo à notre retour, nous l’avons simplement prevenu 1h avant botre descente du parc" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "Sehr gut organisiert, perfekt." }
+            ]
+        };
+    }
+
+    if (slug === 'da-nang-cooking-market-tour-farming-and-cooking-class-da-nang') {
+        return {
+            averageRating: 4.82,
+            totalReviews: 21,
+            guideRating: 4.9,
+            valueRating: 4.8,
+            reviews: [
+                { author: "Alexia", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "We had so much fun during this cooking class! Our guide was lovely, explained everything really well and was also hilarious. The experience was hands on and we made so much food it was crazy! Everything was delicious and we were able to take our leftovers home too. Recipes were even sent to us on WhatsApp afterwards which is so lovely, I can't wait to try and make these when I get home. :) When I booked this tour, I thought there was also going to be a market visit as well, but there wasn't so just make sure you're clear what you're booking because I think I may have booked incorrectly. Regard" },
+                { author: "Doug", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "Jane was wonderful. Great communication. Learned a lot about how to cook many traditional dishes. Would definitely recommend" },
+                { author: "Agnes", country: "Verified traveller review", rating: 5, date: "2026-04-28", text: "the guide was very friendly, she included the whole group and made the whole experience a lot more fun. the food was good, although I would recommend not eating beforehand. the amount of food could easily be cut in half and we would still be full, and it was a shame that you couldn't bring the soup home. bring tupperware! the coffee class was also very informative with not only i formation on how to make the coffee bit also a bit of historia and facts about the different coffee-types. would definetly recommend!" },
+                { author: "S", country: "Verified traveller review", rating: 5, date: "2025-06-30", text: "we had so much fun, Jane is a great teacher. she was super nice and very funny, and made sure we learnt a lot. we can't wait to apply everything we learnt once we get home" },
+                { author: "Vanessa", country: "Verified traveller review", rating: 5, date: "2024-12-30", text: "Lynn is just a super friendly person with excellent English and cooking skills :) she will guide you through an amazing afternoon!" },
+                { author: "Miguel", country: "Verified traveller review", rating: 4, date: "2026-01-31", text: "Nice one, a little bit expensive but it was a good experience" },
+                { author: "Lena", country: "Verified traveller review", rating: 5, date: "2026-03-15", text: "Wir hatten einen tollen Morgen mit Jane - sie kochten gemeinsam vier vietnamesische Gerichte in einer Gruppe aus 5 Personen. Alles sehr gut organisiert und vorbereitet Vegetarisches Essen konnten wir am Tag davor angeben und bekamen dann ein extra Menü, was super war! Preis-Leistung ist klasse" },
+                { author: "Isabel", country: "Verified traveller review", rating: 5, date: "2025-07-05", text: "Danke Jane für den schönen Kochkurs. Die Banh Xeo werden wir auf jeden Fall auch zu Hause testen." },
+                { author: "Yada", country: "Verified traveller review", rating: 5, date: "2025-07-03", text: "Bellissima mattina è stata proprio una bella esperienza. Cibo buonissimo! Grazie" },
+                { author: "Verena", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "Wir hatten einen sehr schönen Nachmittag mit Nhi und ihren Kolleginnen. Nhi hat uns viel Wissenswertes erzählt und wir konnten vieles praktisches (auf dem Feld und in der Küche) ausprobieren. Das Essen war sehr lecker. Wer gerne den Markt besucht, wenn Hauptzeit ist, sollte sich für die Tour morgens entscheiden. Ich fand es aber sehr angenehm, dass es nicht so voll war." },
+                { author: "Alexia", country: "Verified traveller review", rating: 5, date: "2024-04-12", text: "Lyn and David: we had so much fun with you! Thank you for your time and this unique experience :) Der gesamte Kurs ist zu empfehlen. Angefangen von den Local Farmers bis hin zum kochen und dem abschließenden Fußbad. Es hat uns wahnsinnig viel Spaß gemacht und war der perfekte Abschluss für unsere Zeit in Da Nang!" }
+            ]
+        };
+    }
+
+    if (slug === 'perfume-making-workshop-with-local-instructor-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 17,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Jaycie", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Our experiences was amazing, me and my boyfriend had a really lovely time creating our own blends of perfumes. Would 100% recommend for anyone solo, in a group or with their partner." },
+                { author: "Gypsy", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "I had an amazing experience in this class! Zoey was super helpful and patient with me. She helped me picked my scents to my unique tastes. I had a great time and I came solo!" },
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "I did perfume making (30ML). The lady was very informative of the different types of scents and what goes well together. I did a mix of lemon grass, lotus and white tea with amber and I was very happy with my outcome and how it smelt. I would definitely recommend this activity." },
+                { author: "Karla", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "It was an intimate class and the instructor was very thorough and taught me so much about perfume, and oils that I wasn’t aware of! Overall the workshop was so much fun and I highly recommend it to all! I’m very impressed with how my signature perfume turned out!" },
+                { author: "Anamaria", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "We loved creating our perfumes. Also, they have so many pretty things on sale at the location." },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-06-30", text: "Today my family and I have been making our own perfume. A very appreciated event together with a very knowledgeable and friendly perfumer. Thank you for everything, we will keep this as a nice memory of our trip to VietnamToday my family and I have been making our own perfume. A very appreciated event together with a very knowledgeable and friendly perfumer. Thank you for everything, we will keep this as a nice memory of our trip to Vietnam" },
+                { author: "Phương", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "Such a lovely experience in Da Nang! The space and decorations were beautiful, with such cozy and aesthetic vibes. They even offered a free drink, which was a really nice touch. I also loved how carefully the instructor guided me through creating my own perfume. I loved my scent so much that I even paid extra for a 10ml roll-on version. Plus, they sell so many cute things here ✨ honestly a little heaven for girls 💕" },
+                { author: "Jasmine", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "It was a great experience! Our instructor was sweet, helpful and very thorough, the store has a lovely atmosphere and we even bought some jewellery after. They also made us coffee which was lovely! Would definitely recommend the perfume workshop- you don’t need to know anything coming in!" },
+                { author: "Houda", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "Van was great, one of a kind experience. would definitely recommend" },
+                { author: "Devin", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "So fun! Would absolutely recommend" }
+            ]
+        };
+    }
+
+    if (slug === 'da-nang-night-city-motorbike-and-han-cruise-by-aodai-riders-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 6,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Nick", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Chloe and Ruby were amazing guides! They shared many stories and insights about da nang, culture, people, food etc. very safe riders, and lovely to interact with. The restaurants they took us to were authentic local offerings with friendly staff and great food." },
+                { author: "Jancine", country: "Verified traveller review", rating: 5, date: "2025-05-17", text: "We had a wonderful evening with Lin & Selina as our AiDai Scooter guides. Very knowledgeable and friendly ladies who spoke English very well. We always felt safe on the scooters and enjoyed our Mi Xiang meal at a local restaurant, followed by a tour of the city to see the love lock bridge and local night market. We then enjoyed a cruise on the river which was lots of fun witnessing the night lights before returning home. I would recommend this to anyone who wants to have a fun experience and learn a little more about Da Nang from some lovely locals." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-06", text: "The tour was very cool: the night view, the motor bike ride, friendly guide, delicious noodle, exchange uni qlo gifts, the boat ride… many photos taking also very cool. Very Recommend to join!!!!!" }
+            ]
+        };
+    }
+
+    if (slug === 'vegetarian-cooking-class-and-basket-boat-ride-in-da-nang') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 95,
+            guideRating: 4.57,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Rosie", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "Really great cooking class - they took a lot of care in making sure there were vegetarian options for us." },
+                { author: "Arwa", country: "Verified traveller review", rating: 5, date: "2024-10-17", text: "Very fun and we got lots of instruction and ate a variety of foods! Very well adjusted for vegetarians." },
+                { author: "Ciara", country: "Verified traveller review", rating: 5, date: "2024-10-01", text: "Such good fun!! Lily was a great help for us cooking the food and it was all delicious!! Also really enjoyed the boat ride as well, lovely way see the bay" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2024-09-13", text: "Lily is a great chef, we had lots of fun and the food turned out delicious. We could spend extra time in Hoi An for a small extra charge, which was great. Boat ride was short, but fun. However, we did not have a great experience with the first driver, he seemed to either be drunk or have a condition and we did not feel safe on the ride." },
+                { author: "Amelie", country: "Verified traveller review", rating: 5, date: "2024-08-28", text: "Everything was amazing! We were picked up at our hotel and dropped off at the house of Lily our chef. Before we did the cooking class we went on a coconut boat and were driven around the coconut island. The driver made us beautiful \"rings\" out of coconut leaves which were very cute. After the ride we were greeted with amazing passion fruit juices and with two more guests started the cooking class. All in all we prepared four dishes which tasted fantastic!! Our chef Lily was so funny and patient and also really catered to our dietary preferences. We even received a nice frozen Jogurt for desser" },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2024-06-17", text: "It was wonderful! We felt like home and like we would have ate at our moms place. Lily and her family have warmly welcomed us. And the recipes/ dishes we cooked, have been a really nice variation of the Vietnamese Kitchen." },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2024-05-15", text: "Quan was a really great cook and we had lots of fun with him. Great food and a really nice place. Highly recommended!" },
+                { author: "Isabel", country: "Verified traveller review", rating: 5, date: "2024-05-14", text: "This was an amazing morning ! The host lily was so kind and planned such a lovely menu. The coconut ride was a great experience, our guide even made us a bamboo present. The cooking class is in a beautiful setting in a family home, very clean and well organised. You get to cook a huge amount of delicious food, very inclusive for vegetarians and vegans. Overall would highly recommend this !" },
+                { author: "Kaur", country: "Verified traveller review", rating: 5, date: "2024-04-13", text: "Absolutely loved our vegetarian cooking class! The food was divine and the kids really enjoyed ourselves. They were very hands on with helping our little boy who has Down’s syndrome also experiencing the class. Defo recommend. The basket boat ride was interesting too - we had a stint at catching crabs!" },
+                { author: "Jayesh", country: "Verified traveller review", rating: 5, date: "2024-04-04", text: "The cooking class was fantastic and Li Li did a great job looking after the family. The basket boat ride was fun and the kids really enjoyed crab fishing" },
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2024-03-25", text: "Lovely relaxed evening making tofu and mushroom soup, papaya salad, veggie spring rolls and pho. The basket boat was also very enjoyable. They made beautiful rings out what I believe is bamboo shoots. Overall great way to spend the evening with very attentive and kind people." },
+                { author: "Muriel", country: "Verified traveller review", rating: 5, date: "2024-03-21", text: "We had a great cooking class and probably the tastiest food we had while travelling Vietnam. Our guide was funny and a good teacher. First I was a bit surprised to be the only vegetarian since I booked a vegetarian cooking class, but it was not a problem at all. Everyone get its own products and ingredients to prepare the different dishes and then everyone eats together. So this is great for everyone, no matter if you have allergies or don’t want to eat different things, they take good care of you. You get to cook traditional dishes and later on you get the recipes sent to you via WhatsApp. Ov" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-and-da-nang-city-full-day-tour-da-nang') {
+        return {
+            averageRating: 3.67,
+            totalReviews: 3,
+            guideRating: 3.67,
+            valueRating: 3.67,
+            reviews: [
+                { author: "E", country: "Verified traveller review", rating: 3, date: "2025-11-06", text: "We really enjoyed both the morning and afternoon parts of this day trip but I do not recommend booking this option. Because of the way the day is organised you end up on the bus dropping off the morning people and then picking up the afternoon people in the middle! The Marble Mountains are very impressive and it was a great opportunity to see more of the countryside around Hoi An! Lunch was very tasty and it was very interesting to visit the caves. My Son sanctuary was the highlight of the day for us, our guide Michael was very informative and really helpful! I recommend both parts of these tr" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-03-19", text: "El guía es muy explicativo y merece bastante la pena. Lo único que \"\"animan\"\" bastante a dar propina pero lo hacen de una forma graciosa." }
+            ]
+        };
+    }
+
+    if (slug === 'private-tour-to-golden-bridge-bana-hills-hoi-an-danang-da-nang') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 5,
+            guideRating: 4.77,
+            valueRating: 4.77,
+            reviews: [
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2024-09-07", text: "The driver was on time and reliable. Driving was professional and safe with a clean car. Ba Na Hills was beautiful and well worth the trip." }
+            ]
+        };
+    }
+
+    if (slug === 'michelin-selected-street-food-tour-with-local-guide-in-da-nang') {
+        return {
+            averageRating: 4.64,
+            totalReviews: 23,
+            guideRating: 4.71,
+            valueRating: 3.86,
+            reviews: [
+                { author: "Stephen", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Ha was a great tour guide very informative and would highly recommend" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "very knowledgeable local guide. food was great. be careful. portions are huge!" },
+                { author: "Rowan", country: "Verified traveller review", rating: 5, date: "2026-02-09", text: "Tour and guide, Ms Thao was excellent. She spoke eloquently about her country and the food and knew just how much to show me so that the food experience was excellent. Definitely did not go home hungry! Well worth the investment of time and money for the tour. A great guide worthy of a Michelin herself." },
+                { author: "Viola", country: "Verified traveller review", rating: 5, date: "2025-08-18", text: "I had such a wonderful evening with Kong! He showed me around Da Nang and introduced me to the most delicious food. Thank you, Kong, for making the tour so much fun. 🙏🏻" },
+                { author: "Earl", country: "Verified traveller review", rating: 5, date: "2025-08-12", text: "Kong was very nice. I really loved the michelin rated food he brought me to. Definitely worth the price 🥰" },
+                { author: "Preba", country: "Verified traveller review", rating: 5, date: "2025-08-05", text: "A Flavor-Packed Adventure! This street food tour in Da Nang was absolutely unforgettable — from start to finish, every stop was a flavor bomb! And having Kong as our guide made it even better. He was knowledgeable, friendly, and clearly passionate about Vietnamese food and culture. 🔸 First stop: Bánh Xèo Bà Dưỡng (Ba Duong) We started strong with crispy bánh xèo (Vietnamese pancakes) and perfectly grilled pork skewers wrapped in rice paper with herbs and dipping sauce. Pure street food perfection! It’s no surprise this place is Michelin-selected. 🔸 Second stop: Mì Quảng Next, we had Mi Quang," },
+                { author: "Kimberly", country: "Verified traveller review", rating: 5, date: "2025-07-03", text: "Our tour was great. The food was terrific and fresh. Kong was very knowledgeable and a great host. We learned about the food, culture, and the places we ate. This is a fun tour!!" },
+                { author: "Pam", country: "Verified traveller review", rating: 4, date: "2026-03-03", text: "I don’t think we actually ended up in Michelin selected locations but we got a variety of good food from local restaurants that we would not have found on our own." },
+                { author: "Jarryd", country: "Verified traveller review", rating: 4, date: "2025-10-16", text: "Guide was very nice and informative. Went to 3 places total and everything was very tasty. It lasted 2 hours and just thought it’s overpriced for what u get." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "Our guide Ms Han is very sweet soft spoken and very professional. I love how she managed our food tasting at Michelin Start rated restaurant in Da Nang! The pancake is truly remarkable!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-04-03", text: "We have done 3 food tours in Vietnam on our 3 week trip in Hanoi, Denang and Ho Chi Minh City. This one in Denang was poor compared to the other two. The food you have is good. We visited 3 spots compared to multiple on the other tours we have done, the guide didn’t really give any information about the city/culture/food. We spent the first 50 minutes walking to the restaurant in mainly silence. Because of this we found it very overpriced as the cost of the food is cheap, and we feel like we could have done it ourselves by just visiting food places on the Michelin guide. This isn’t targeted at" },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2025-08-16", text: "Nice local Michelin food and great polite guide" }
+            ]
+        };
+    }
+
+    if (slug === 'vegetarian-cooking-class-with-janny-in-da-nang') {
+        return {
+            averageRating: 4.55,
+            totalReviews: 3,
+            guideRating: 4.55,
+            valueRating: 4.55,
+            reviews: [
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2024-03-04", text: "We had a great time at our cooking class, learnt lots, and the food was delicious! Definitely recommend" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-10", text: "Janny was very kind, everything was clean and ready for our class. We cooked delicious food and prepared passion fruit joice which was divine. All went well and she was even so kind to accommodate our last minute request to change the time of our class. Highly recommend the class." }
+            ]
+        };
+    }
+
+    if (slug === 'hue-imperial-city-by-group-tour') {
+        return {
+            averageRating: 3.55,
+            totalReviews: 2,
+            guideRating: 3.55,
+            valueRating: 3.55,
+            reviews: [
+                { author: "Stuart", country: "Verified traveller review", rating: 3, date: "2026-07-17", text: "The trip was fine. It was a lot of travel for really only 3 places. The guide did a great job with what she was instructed to do but a stop at a Pearl Shop, a eucalyptus shop and a sweet biscuit shop were a wasted inclusion for me. These stops didn’t pretend be educational just commercial money grabs." },
+                { author: "guenther", country: "Verified traveller review", rating: 5, date: "2025-08-30", text: "Die Reiseleiterin hat sehr ausführlich und sehr gut erklärt. Sie ist super nett, höflich, zuvorkommend und hilfsbereit. Das Mittagessen war ebenfalls ausgezeichnet in einer tollen Umgebung. Die Tour war alles in allem sehr schön. Nicht gefallen hat mir auf der Heimfahrt die aggressive Fahrweise des Fahrers. Ebenso furchtbar finde ich die doch sehr aufdringliche Verkaufsveranstaltungen." }
+            ]
+        };
+    }
+
+    if (slug === 'ba-na-hills-golden-bridge-photoshoot-with-memories-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "sonserai", country: "Verified traveller review", rating: 5, date: "2026-04-11", text: "Run my photographer was amazing! He knew exactly where to get the perfect shots of Golden Hill. Happy with my results." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-04-08", text: "I had an amazing experience visiting Ba Na Hills, and a big part of that was thanks to Rin. He was incredibly friendly, professional, and attentive throughout the entire trip. He guided me through all the main spots in Ba Na Hills smoothly and made sure I didn’t miss anything. Rin also took a lot of great photos for me, which made the experience even more memorable. Everything felt well-organized and easy, and I could just enjoy the journey without worrying about anything. Highly recommend Rin if you’re visiting Ba Na Hills — he truly made the trip enjoyable and stress-free. Thank you again!" },
+                { author: "Christopher", country: "Verified traveller review", rating: 5, date: "2026-02-06", text: "Very nice experience, Uyen was our photographer, she is very sweet. She speaks little english but not a problem as long as you have Google translate but mostly hand gestures work fine. She will take you though numerous locations so be prepared to walk and climb stairs. It gets very hot so make sure you have sunscreen. Thanks again Uyen!" }
+            ]
+        };
+    }
+
+    if (slug === 'off-road-atv-adventure-with-bbq-feast-in-da-nang') {
+        return {
+            averageRating: 4.91,
+            totalReviews: 16,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Leon", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Very well planned , pick up was smooth from Da nang, Quad ATV were easy to use and the guide was good, lots to see as we drove trough the village and the jungle, had a very fun trip and the BBQ afterwards was well prepared, thank you for a memorable experience!" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Very easy to get there, very helpful, very nice people, the guide explains everything very clear and the ride was so much fun my 14 year old loved it. Just the right level or challenge and speed. They supply helmets and a mask, just suggest wearing glasses." },
+                { author: "adam", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Pick up was great and well organised. Our trip was really fun across the rice fields and through the Jungle and villages. All staff were really good. An experience i would definitely recommend if you are staying in Da Nang or Hoi Ann!" },
+                { author: "Tom", country: "Verified traveller review", rating: 5, date: "2026-02-18", text: "Had a really great time. Organisation was great with a good safety briefing at the start. ATV's have an auto clutch suitable for beginners to ride. The trail was a lot of fun starting off in a small village then going through the jungle in a track with bog hole challenges. Food was great at the end of the trip and their overall customer service was excellent. Definitely worth going for the ride and getting yourself out of your comfort zone for a rewarding experience." },
+                { author: "Fanta", country: "Verified traveller review", rating: 5, date: "2026-06-07", text: "Très belle activité de quad, complète et vraiment agréable du début à la fin. Les paysages étaient magnifiques, entre les rizières, les villages et la jungle. Merci également pour le repas préparé sur mesure, en prenant en compte le fait que nous ne mangions pas de porc. Tout était parfait, je recommande vivement cette activité !" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-21", text: "Es war rundum eine perfekte Tour! Auf mancher gerader Strecke konnte man auch mal mehr Tempo aufnehmen. Am meisten Spaß hat es uns aber gemacht durch die holprigen Wege und Pfützen im Dschungel zu fahren. Dabei konnte man sich ordentlich schmutzig machen. Die gesamte Fahrtzeit war für uns auch ausreichend. Unsere Guide war super freundlich, gut gelaunt und lustig. Vielen Dank auch für die Fotos, die sie gemacht und uns anschließend per WhatsApp geschickt hat!! Wir würden jederzeit wieder buchen und können die Tour jedem empfehlen, der Lust auf ein kleines Abenteuer hat!" },
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-01-07", text: "Det var jättekul, duktig guide och fin sightseeing" },
+                { author: "Steph", country: "Verified traveller review", rating: 5, date: "2025-11-20", text: "It was really fun and muddy!" },
+                { author: "Susan", country: "Verified traveller review", rating: 5, date: "2025-08-26", text: "Mega aanrader! Als je op zoek bent naar een échte wilde, modderige en jungle-achtige ATV tour, kies dan deze. Het was zonder twijfel één van de beste offroad ATV-ervaringen die wij ooit hebben gehad (en dat zijn er heel wat!). Je rijdt standaard met z’n tweeën op een quad, maar tegen een meerprijs kun je ook solo gaan – aanrader als je zelf de volledige controle wilt. Het avontuur is écht zoals beloofd: modder, plassen en ruige paden. Op locatie kun je gratis laarzen lenen en dat is absoluut geen overbodige luxe – doe dit zeker, want je eindigt gegarandeerd niet schoon. De begeleiding was uits" },
+                { author: "Álvaro", country: "Verified traveller review", rating: 5, date: "2025-07-30", text: "Increíble 100% recomendable" }
+            ]
+        };
+    }
+
+    if (slug === 'coconut-forest-boat-ride-and-optional-massage-in-da-nang') {
+        return {
+            averageRating: 4.92,
+            totalReviews: 23,
+            guideRating: 5.0,
+            valueRating: 4.91,
+            reviews: [
+                { author: "Eunice", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Really good experience! Members of staff were all super friendly and professional. Would definitely do it again if back in Da Nang/Hoi Han" },
+                { author: "Jacob", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "Great tour, friendly guides and super flexible. Would recommend." },
+                { author: "Anabel", country: "Verified traveller review", rating: 5, date: "2025-12-28", text: "Great activity! I liked that it included driver pick up & drop off. They even offered a free coconut before the boat ride. Keep in mind that you have to pay 200 in cash for the boat spin. Massage was wonderful it was at Herbal Spa Hoi An & I was able to pick a specific time so I can roam around in the area before the massage." },
+                { author: "Alexia", country: "Verified traveller review", rating: 5, date: "2025-12-27", text: "This experience was absolutely incredible and truly unforgettable. The basket boat ride in Hoi An was so much fun, beautiful, and full of joy. The guides treated us amazingly well and made sure we felt comfortable and entertained the entire time. It was a unique and magical experience, something you’ll probably only do once in your life, and that makes it even more special. I highly recommend it to everyone visiting Vietnam. Truly a wonderful experience." },
+                { author: "Rahul", country: "Verified traveller review", rating: 5, date: "2025-11-10", text: "The guide was really helpful and explained the whole tour to us. Really enjoyed it and we recommend it to everyone." },
+                { author: "Domenique", country: "Verified traveller review", rating: 5, date: "2025-11-08", text: "A lovely experience. Lots of fun and laughs. Definitely worth doing when in Hoi An" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Ha ido muy bien, nuestro guía Ihn era majísimo y muy divertido!!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Es hat ein riesen Spaß gemacht. Sehr empfehlenswert." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-07-15", text: "Det var meget turistet. Da vi var ude med bådene var det mere et underholdnings show hvor vi skulle høre nogen der stod og sang karaoke osv. , Der var så mange både på floden at der var flere både end der var vand. Byen er smuk men svært ved at komme frem og tilbage for alle de mennesker. vores guide var absolut det bedste, hun fortalte en masse om landet om byen og om sværdighederne." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-07", text: "J’ai beaucoup aimer cette activité ! Je recommande !" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "Je pris uniquement l’activité je suis venu avec mes amis en grab et c’était vraiment top un moment sympa, je conseille ( n’oubliez pas votre chapeau il fait très très très chaud! )" },
+                { author: "Michał", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "Super atrakcja na łodzi koszykowej w kokosowym lesie na rzece. Obsluga sie bardzo stara. Nie ma żadnego naciągania . Na koniec możesz kupić swoją pamiątkową fotografię. Szczerze polecam. Na miejsce dojechaliśmy rowerami z wypożyczalni. Polecam 👍" }
+            ]
+        };
+    }
+
+    if (slug === 'golden-bridge-ba-na-hills-and-marble-mountains-in-da-nang') {
+        return {
+            averageRating: 4.87,
+            totalReviews: 188,
+            guideRating: 4.86,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "The trip was truly enjoyable, our guide Tony was so knowledgable. Really enjoyed marble mountain, the cable car and golden bridge. Ba Na has some very commercial aspects that make it feel a bit Disney!" },
+                { author: "Leon", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Very fun trip, our guide nga had good knowledge and walked us through every part of the tour, had very luck with the good weather and the golden bridge as well as Ba Na Hills is definitely worth a visit! Thank you for the wonderful experience and would definitely recommend if you stay here in Da nang or Hoi an." },
+                { author: "Holger", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "It was great. Tam and his driver did an excellent job. We loved the quite private Marble mountain tour, what only got topped with Ban Ha Hills. A wonderful day out. Thx to the team." },
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Kata our guide was a great resource! His English was very good and his knowledge and experience were excellent. With his sense of humour he made us laugh often! Very much recommended" },
+                { author: "Rachel", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Nina was great guide. We enjoyed talking to her and learning more about Vietnam and life here." },
+                { author: "Fionn", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Our tour guide Sunny is a special person, who has an ability to make people smile whilst also being very informative and knowledgeable about her tours. we did the full tour, both Marble mountain and Ba Ma hills. its a great day, marble mountain is accessible by an elevator so its easy work overall! Ba Na hills is a special place with beauty all around. overall this is a great tour! we really enjoyed our day out, a special thanks to Sunny!" },
+                { author: "Vera", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Taka is one of the best tour guides I ever had. He is so positive, considerate and always looks out for the group. We had an amazing day together. Thank you for everything! :)" },
+                { author: "sharon", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "My trip was amazing and tong was very nice extremely pleasant and knowledgeable He had an elder woman in the tour and he went out his way in making sure she was okay Thank you for the amazing experience Sha" },
+                { author: "Barry", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "A great day, hosted by Kata who brought lots of energy and fun to the day. There was a lot to get through and the tour concentrated on the important bits. The tour helped understand the importance of Buddhism in Vietnam’s history and the more recent history without being too much reference to the 1970’s troubles. Definitely recommend the tour and a double win if you get Kata" },
+                { author: "Audrey", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "It was an almost full-day trip. Guide Kata took very good care of everyone and also ensured everyone got some good pictures. The only negative was the buffet lunch, would suggest to opt out as it was highly chaotic with the tourists and locals, and food quality was not great. There are plenty of other food choices which would have been better." },
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Our guide Trang (Flower) was wonderful and full of energy. She made sure she had alternate activities for my mum who had some issues with stairs. it's a long day, but we'll worth it. specactualr places to visit ❤️" },
+                { author: "Tajash", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "This tour and the guide were excellent. These guys run a smooth operation." }
+            ]
+        };
+    }
+
+    if (slug === 'coconut-forest-and-hoi-an-town-with-lantern-release') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 111,
+            guideRating: 4.69,
+            valueRating: 4.74,
+            reviews: [
+                { author: "Rachel", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "A great trip! Khanh was a great guide, very knowledgeable, spoke good English and friendly. It was a goof afternoon and evening. I highly recommend this tour." },
+                { author: "Kristine", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Great tour and tour Guide..Mr. Khan is very knowledgeable and patient enough to explain. All in all the your was happy and fun.." },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "One of the best trip I had in overall Vietnam. Thor was not just a guide but more to a bro. He made sure I was fine and comfortable. 1000/100. 👌🏽" },
+                { author: "Joris", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "This was a fun and good experience touring Hoi An and learning about its history. We had a great tour guide, Khanh, who gave us exceptional service. Everything went smoothly. I would highly recommend this excursion." },
+                { author: "Katy", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "We enjoyed both boat rides and the meal, it was delicious. Our guide was very approachable and knowledgable, he did a great job on a very hot day!!" },
+                { author: "Henrik", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "I had so much fun and joy! Great people and a nice group we were together and our guide was the sweetest 👏👏" },
+                { author: "Hans", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "Had an amazing time. The Coconut Forest was fun, Hoi An was absolutely beautiful, and the lantern release made the evening enjoyable. Everything was well organized, and our guide was friendly, helpful, and informative. Bring your walking shoes because it is a lot of walking and historical sightseeing but definitely worth it. Highly recommend!" },
+                { author: "Holly", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "This trip was outstanding! Our guide Khanh was kind, informative and so passionate about his job. We learned so much and had such a fantastic time. Additionally - the food was incredible and we really recommend having the coconut drink at the Forest." },
+                { author: "Francisco", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "So fun! Thank you so much, Hana! The boat tours are hilarious. Be ready for playfulness from the boat operators. Bring cash on this tour! I want to go back to Hoi An!" },
+                { author: "Roisin", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "The historical background provided by Minh was exvellent and the range of activities was great. The oco ut village boat and the tour of hoi an were particularly outsyanding. The transport was very comforyable and the programme for the tour ensured thay we had a great experience." },
+                { author: "Karol", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "We had a wonderful day on our afternoon trip to Hoi An. Our guide, Khanh, was very kind, helpful and professional. We were picked up on time, had a comfortable van with air conditioning, cold water, nice boat trips and a good dinner. We enjoyed the ride with the boat through the coconut forest and a wooden boat cruise on the Hoai River on the evening. We highly recommend this tour!" },
+                { author: "Ke", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "We had the best guide, Sam, for our tour in Hoi An. He enlightened the tour with his beaming smile, hospitality, professional guidance, and considerate arrangements. We took the basket coconut boat and the night boat for releasing latterns. These are unforgettable experience and memories for us. We thank Sam for bringing us the best day in Vietnam." }
+            ]
+        };
+    }
+
+    if (slug === 'golden-bridge-sunset-and-night-all-inclusive-in-da-nang') {
+        return {
+            averageRating: 4.98,
+            totalReviews: 95,
+            guideRating: 5.0,
+            valueRating: 4.91,
+            reviews: [
+                { author: "Maha", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Our trip was amazing, the weather wasn’t the best, but this didn’t stop us from having an amazing experience. Our Tour guide Ms Nina was so impressive with the amount of knowledge she had, she certainly made our experience even more memorable. She was so thoughtful in providing us with raincoats to wear. The buffet dinner was I amazing. I would recommend this tour to anyone that visits Da Nang/ Hoi An." },
+                { author: "Craig", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Nina was a fantastic guide. was very knowledgeable and good to be around. I hope i get her again when I come back to Da Nang and do a tour." },
+                { author: "Zara", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Really enjoyed the trip and thought it was excellent value for money considering all the things included. Nina was a wonderful guide, very warm, personale and took great photos." },
+                { author: "Liz", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Amazing day @ Ba Na Hills totally wonder enjoyable tour. Laura our tour guide was amazing and very informative. The view was unbelievable. From pickup to drop off the day was incredible. Recommend for all. Thank you" },
+                { author: "Gregory", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Visiting the Golden Bridge was an unforgettable experience, made even more special by our wonderful guide, Kata. He was incredibly kind, knowledgeable, and thoughtful, and his warm personality made the whole experience feel personal and memorable. Kata went above and beyond to make sure we enjoyed every moment and learned about the place along the way. The Golden Bridge itself was breathtaking, but having such a special guide made the day even better. Thank you, Kata, for your kindness, positive energy, and for making our visit truly unforgettable. We highly recommend him to anyone visiting!" },
+                { author: "Michala", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "We had a brilliant day visiting the Golden Bridge and Ba Na Hills! Our tour guide Nina was excellent... really friendly, knowledgeable and informative. She kept in great communication with us beforehand about our hotel pick-up, which made everything really easy and stress-free. The air-conditioned transport was comfortable and having water provided was a lovely touch. Ba Na Hills itself was amazing, with incredible scenery, the Golden Bridge and so much to see and do. The roller coaster was another highlight and so much fun! Our only small criticism is that we would have loved a little more fr" },
+                { author: "Jennah", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Highly recommend this day trip. Our guide Nina was awesome!! Thoroughly enjoyed the whole day" },
+                { author: "Carole", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "beautiful scenery, and less crowds later in the day. Rollercoaster ride was a bonus" },
+                { author: "Sebastian", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Was a nice trip, less crowded and interesting to see. Laura was a great and nice guide and really took care of everyone and everything! We travelled from Hoi an." },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Bana Hills was so much more than I expected, and our guide, Kata, was organised, informative amd humorous. We did and saw so much but didn't feel rushed. Pick up and drop off was well-organised and prior communication was clear about how this would work. The buffet dinner was great quality and expansive, with all tastes catered for. All in all a great tour which I can find no fault with!" },
+                { author: "Raymond", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Very well calculated course allowing to be at each attraction for sufficient time. The guide was very informative and kind. Great tour. Recommend!!!" },
+                { author: "Vania", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "My experience was amazing, from beginning to the end. The highlight of of my trip My guide, Nina, super amazing. She knows her stuff and explain things very well." }
+            ]
+        };
+    }
+
+    if (slug === 'hue-imperial-city-tour-via-hai-van-pass') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 1458,
+            guideRating: 4.87,
+            valueRating: 4.64,
+            reviews: [
+                { author: "Lars", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "How knowledgeable the guide was. Think I would choose a different restaurant for lunch" },
+                { author: "Tammeryn", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Such a great tour. Our guide Thành was super knowledgeable and we learnt so much about the history of Hue and the Vietnamese dynasties." },
+                { author: "Andreea", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "The communication was perfect, I was contacted on Whats app in advance, I knew exactly what time I would be picked up from the hotel, John and the driver were great. John had a short history lesson prepared for us, so we could understand how things were in the past, he had answers to all our questions, he was attentive. In short, the tour was perfect. Thanks again to John and the driver." },
+                { author: "Jena", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "Our full day all inclusive trip was amazing. Hang was so smart and knowledgeable about her hometown. We learnt lots of information and ate a delicious yummy lunch. Thank you so much for the opportunity and go with Hang!!!" },
+                { author: "Liselotte", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Ray is a great tour guide. Huge amount of knowledge about Hue and all history. His explanation and planning of tour were very clear. I had a great time. Thank you!" },
+                { author: "Luciano", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Fantastic experience. Guide Ray was so nice and knew so much about all the places we visited. I definitely recommend this tour." },
+                { author: "Henry", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "The Tour was very informative, it was very nice to learn about Vietnam history. Our tour guide Ray was very knowledgeable and made sure that our trip was amazing! Great photos and memories. Very comfortable ride from and to our hotel." },
+                { author: "Petar", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "N’guyen guy tour guide, is a really open and educated person!" },
+                { author: "Phoebe", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Exceptional Day! Booking this full-day tour from Hoi An was the best decision of our trip, entirely thanks to our incredible guide, Cong. From start to finish, his passion for Vietnam's history was contagious. He is deeply informative and shared fascinating stories that truly brought the massive Hue Imperial City to life. The itinerary was flawless, with absolutely nothing to dislike. We loved exploring the grand palace grounds in the morning and later transitioning to the stunning Khai Dinh Tomb, which was breathtakingly unique. The included lunch was another unexpected highlight—completely e" },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "It was an amazing experience!! we truly recommend it. Coco was our guide for this tour, she does an incredible Job." },
+                { author: "Elias", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Coco was amazing! Great tour, great company and very sweet. She explained the story and curiosities of each place we visited and gave us enough time to wander and take photos. Food at the restaurant was very good too." },
+                { author: "Matt", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Had a great trip to Hue Imperial City today. CocCo was our tour guide. She was very informative and fun, with good knowledge on Vietnamese history and has excellent English. Trip stopped at many different cultural sites and scenic view points which made for a really packed day. Even had time for a foot bath & lunch at a local Hue restaurant. The food was very good. A great day, we would recommend, thanks CoCo!! Matt & Julie" }
+            ]
+        };
+    }
+
+    if (slug === 'buffalo-riding-basket-boat-and-cooking-class-hoian-da-nang-da-nang') {
+        return {
+            averageRating: 4.05,
+            totalReviews: 12,
+            guideRating: 4.0,
+            valueRating: 3.5,
+            reviews: [
+                { author: "Ann", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "The tour leader was excellent and informative. We loved the buffalo riding, coconut boats and the Vietnamese cooking lesson was terrific. We learned a lot about Vietnam, its food and enjoyed the lunch we made. The whole trip was a lot of fun and our party (ages 15 - 75) all enjoyed it." },
+                { author: "Louise", country: "Verified traveller review", rating: 5, date: "2025-07-19", text: "We had an amazing time on our excursion today! Quan was the best! Very informative, patient and great cooking skills. I highly recommend!" },
+                { author: "Wendy", country: "Verified traveller review", rating: 5, date: "2025-01-08", text: "This was absolutely the best ever! Definitely book it now. Both the guide and the cooking class chef were absolutely amazing! You get to do it all in this tour ! A visit to the market, the rice fields, buffalo riding, basket boat and an amazing cooking experience. It is a one stop shop no brainer and we had an absolute blast!" },
+                { author: "Marken", country: "Verified traveller review", rating: 5, date: "2024-12-07", text: "very good day out the cooking class was excellent lily was a great teacher helping you to cook very good vietnamese food tour guide very helpful buffalo and boat riding was excellent fun" },
+                { author: "Christine", country: "Verified traveller review", rating: 2, date: "2026-09-04", text: "Lily our guide was great. The cooking class was wonderful! The water Buffalo was extremely underwhelming. Unfortunately, I was most looking forward to the basket boat ride, and it turned out to be an absolute disappointment! We were not at all given what we paid for. They promised a basket boat show, did not happen! They promised a ride through narrow Coconut Grove, did not happen! Instead basketball rower took us about two minutes around the corner and parked us along the side of the bank and we sat there for 20 minutes literally doing nothing. We were bored and hot! DON’T BOOK THIS TOUR!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "Absolutely brilliant great day thanks" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-05-01", text: "Was very disappointed with this tour. We were picked up went to a market and tried some fruit. We then went for a ride on the buffalo, whilst walking through cornfield there was no history or knowledge shared. Went on boat trip, we were expecting to see crab fishing, nothing apart from watching a talented man use leaves to make an animal out of. We then went to do cooking where we saw a rat in the corner on three occasions. We then cooked food but raw meat and fish was mixed together, and then using same equipment with cooked food. Disappointed with lack of hygiene, instructor did not wash his" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-06-07", text: "So fun! Lily was a perfect, helpful host. Food was delicious." },
+                { author: "MIURA", country: "Verified traveller review", rating: 4, date: "2024-03-18", text: "14:15〜のコースに参加しました。集合までは明るいホイアンの街を散策できたし名物のカオラウも食べてからの集合だったのでちょうど良かったです。水牛ライドは短い時間でしたが日本では出来ないとても貴重な体験が出来ました。多少の獣臭はしますが特に服が汚れることもありませんでした。水牛は優しい目でとても可愛かったです。バスケットボートはエキサイティングでした。友達が酔うので私の舟は回りませんでしたが、ノリノリの欧米人達はグルングルン回されていました。ガンガン音楽をかけながら伝統的なボートでノリノリの船頭さんが面白かったです。英語が少ししかわからないので料理教室は見様見真似でしたが美味しく作れました。もっと簡単なものかと思いましたが、ガッツリ量もありお腹いっぱいになりました。揚げ料理多めなので黒烏龍茶を持って行くことをおすすめします。最後にレシピももらえました。ランタンが綺麗になった時間に解散なので夜の街ぶらも出来たし、半日だけどとても充実したツアーだと思います。ホイアンの街ぶらだけでは時間が余ってしまう人にはおすすめです！" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-cooking-class-with-transportation-in-da-nang') {
+        return {
+            averageRating: 4.91,
+            totalReviews: 397,
+            guideRating: 4.93,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Cecilia", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "We loved this, it was so informative and fun to learn how to make these meals (and eat them after!)" },
+                { author: "René", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We really enjoyed the cooking class. Our guide and cooking instructor was very friendly and made us feel welcome from the beginning. Everything was very clean and professionally organized. The food was delicious and the whole experience had a very relaxed and pleasant atmosphere. We had a great time and would definitely recommend this cooking class to others." },
+                { author: "Thies", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Amazing time and all 4 dishes were amazing. Great tips from the host and I have full confidence in trying the recipes at home!" },
+                { author: "Patricia", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "We did the afternoon class, the price, the activity, the person running it and the overall experience was really good. we were so glad we did this.bwe just wanted a cooking class without doing anything else, we then got to enjoy our food we cooked for dinner. the people running this was so helpful and funny. I highly recommend this activity to anyone wanting a cooking class" },
+                { author: "Michaela", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Absolutely fantastic! One of the best things I’ve done in Vietnam and the people with me agree! We loved it, Jane was exceptional! Food was exceptional and quality insane. Thank you very much." },
+                { author: "Stephanie", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "It was a fun cooking class and the best part, it was private just for my group! The location was a homely space and the instructor was very patient. The dishes were so good, even better than what we ate outside 😋 They provided transport, making it very convenient for travellers." },
+                { author: "Antony", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Quan was a fantastic teacher and we qere lucky enough to be the only two in the class. The food we made was delicious and we are looking forward to recreating the recipes when we get home." },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "We made great meals was fun and absolutely delicious highly recommend" },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "This was so much fun and the food we made was delicious!" },
+                { author: "Ellie-Anne", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "This was one of the best things we decided to do during our trip to Vietnam. Not only were the staff kind and helpful during the experience but the food quality and quantity exceeded our expectations. Everything was clear and well catered. We left the evening feeling happy and full. Also really appreciated that we got a copy of the recipes for everything we cooked!" },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "this was an excellent cooking class - really well taught and in a lovely homely setting. Very well organised and run by a charming family. would highly recommend!" },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Lily held an excellent cooking class! Can’t wait to try some of the recipes out at home. Highly recommend this class :)" }
+            ]
+        };
+    }
+
+    if (slug === 'marble-mountain-am-phu-cave-monkey-mountain-in-da-nang') {
+        return {
+            averageRating: 4.87,
+            totalReviews: 387,
+            guideRating: 4.94,
+            valueRating: 4.87,
+            reviews: [
+                { author: "Nichi", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "I joined a small group tour and Coco, our tour guide was an absolutely fantastic guide, friendly, knowledgeable, and so enjoyable to spend time with. You made the whole experience really fun and memorable, and I learned so much along the way! 😁" },
+                { author: "Stacy", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "The experience was great, and our guide, Hai (pronounced like “Hi” for us non-native speakers), was informative, warm, and engaging. She had such a great spirit, and you can genuinely tell that she loves what she does. The meal at the end was tasty as well! One note: make sure you wear comfortable shoes, as Marble Mountain involves quite a bit of walking and a lot of steps—but it’s definitely worth it. I highly recommend this experience, especially considering the value!" },
+                { author: "Evan", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "We had a great time going to Monkey Mountain and Marble Mountain with our guide Hai. She was very knowledgeable about these places and took us around so we saw everything. Mr Nguyen was our driver and was very nice and provided is water. Definitely bring good walking shoes as it is a hike up Marble Mountain." },
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Excellent tour , Coco was amazing! The caves were also beautiful!" },
+                { author: "Nicole", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "had a great time and was super lucky to have coco as a tour guide. she was so sweet and helpful, answering all our questions. would recommend!" },
+                { author: "Lydia", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Would definitely recommend the tour. Ben was a brilliant guide, very knowledgeable and informative. The tour was well managed and transport was easy. The hike up to heaven cave is steep but well worth it. Thank you Ben!" },
+                { author: "Ronen", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "The tour was excellent — absolutely a must-do! Our guide, Hai, explained everything with great patience and professionalism. She shared her extensive knowledge with us (she has a degree in tourism) and took great care of all our needs, including the children. The driver was very kind and drove really well. The vehicle was new, spacious, and very comfortable. The places we visited were magical and truly unique. Highly recommended!" },
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "What a fun way to explore Da Nang! Recommend this trip to everyone who has a free time in the morning." },
+                { author: "Matylda", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "We were very happy with the tour. Coco was a great guide - funny, sharing interesting information, and keeping everybody engaged. The transportation ran smoothly, we all had a great time! Thank you." },
+                { author: "Hannah", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "I had such an incredible experience! Thanh was absolutely wonderful, so lovely and friendly, really knowledgeable and enjoyable to spend the morning with. He took us to all the best spots and was really enthusiastic about the tour. I couldn’t recommend it more! Everyone on the tour agreed that it exceeded expectations!" },
+                { author: "H.", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "More than excellent guide (John, sorry can’t write is Vietnam name). A young guy with loads of interesting information to share. Spoke good English, had sine jokes to lighten up the ride and passed the time on the way up to Monkey Mountain with Some questions so people in the group could get to know each other. Had a wonderful interesting morning and a good work out (many steps)." },
+                { author: "Andrey", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "Coco guide was very nice. Tour itself wasn’t tiring" }
+            ]
+        };
+    }
+
+    if (slug === 'bana-hills-and-golden-bridge-small-group-tour-in-da-nang') {
+        return {
+            averageRating: 4.49,
+            totalReviews: 929,
+            guideRating: 4.72,
+            valueRating: 4.31,
+            reviews: [
+                { author: "Florence", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Bana Hills with Mr Bean was fun! Mr Bean was a great guide and we were glad we hadn’t attempted to go to Bana Hills by ourselves (because it can be a bit overwhelming!). Mr Bean gave us plenty of valuable tips (getting a Wow fast track was well worth it!), and as a family, we were grateful that we could enjoy nearly 3 hours of free time. There is a lot to do and see at Bana Hills and it was definitely a fun day for us and our 2 teenagers. We highly recommend!" },
+                { author: "Aadam", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "Coco was an unbelievable awesome host today making sure the whole group is always attended to. Because she because everyone goes at different speeds and have different interests. It’s good to use a guide as they show and guide to do all the awesome things. This place was fantastic. Rollercoaster is a must." },
+                { author: "Katie", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "We all had a very good day with Kevin. He was very friendly and very helpful." },
+                { author: "Jonatan", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "BEST DAY at Bana Hills! So, I know understand the Golden Bridge is just part of the Bana Hills amusement park. I really recommend this tour, as you really get to go to the bridge, take the amazing cable cars with the best views, and then the amusement park is great. Take the roller coaster. Mr. Binh was THE BEST. He took us to all the fast tracks, so we cut all the lines and had an amazing day. I understand it all depends on weather. For me, it was sunny all day so we had the best day!!!! I understand that if it’s a rainy day, then of course I assume your day will be ruined. I recommend 100%" },
+                { author: "Robinson", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "Brilliant guide, small group The only down-side was the weather .. thick mist so no views" },
+                { author: "Alex", country: "Verified traveller review", rating: 5, date: "2026-06-08", text: "It was great, nice to be a small group. Be prepared for a lot of tourists on the day and we recommend paying for the wow pass that allows you to skip lines for cable car. Ella out tour guide was incredible, she’s been amazing on the day and giving local recommendations." },
+                { author: "nicole", country: "Verified traveller review", rating: 5, date: "2026-05-31", text: "The trip was worth it especially Mr, Bean, our tour guide, made sure that we are always on time and we are able to get our money’s worth. His instructions were very clear and helpful. We never had a hard time understanding him. He was very pleasant from the beginning until the end. I recommend that you book them on your travel to Ba Na Hills." },
+                { author: "Catherine", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "It was great fun! You have to see Ba Na Hills to believe the scope of this amazing development. We enjoyed every second of it despite the heatwave! Our Guide, 'Mr Bean' from Venus Travel was extremely entertaining from the jokes on the way to the hills to the singing on the way home. He looked after us very well and we had a thoroughly enjoyable day with no rushing, there was time to see all we wanted to see. What a truly amazing development. The views were breathtaking at the top of the hills, from the Golden Bridge and from the Cable Cars. Advise anyone visiting Da Nang, Hoi An to take the d" },
+                { author: "Wayne", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "really enjoyed the day it very and clear, got to see all the sites and had an amazing guide Ella too" },
+                { author: "Libby", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "Absolutely amazing and our tour guide Jerry was an absolute legend. She helped us get through crowds and made sure we didn’t miss anything, her hospitality was amazing! Highly recommend ☺️" },
+                { author: "Anil", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "It was very good. Our guide, Mr. Tin was very pleasant and efficient. He explained well, the history of the Bana Hills as well as the current developments. The cable car experience was amazing. Breathtakingly beautiful views. Very efficient procedures in place. Long journeys both ways and it was wonderful to travel above the tree tops and through the clouds. The gardens and the time spent there was a very pleasant experience. too. The only negative experience was the time spent in Fantasy land. As a 64 year old, it was hard to appreciate! Almost 1 1/2 hours . The buffet lunch was massive. So m" },
+                { author: "Di", country: "Verified traveller review", rating: 5, date: "2026-03-17", text: "Great experience, great tour guide who ensured we had a lovely day. Gardens were amazing and so surprising- worth taking the time to walk around up and down a lot of stairs." }
+            ]
+        };
+    }
+
+    if (slug === 'lady-buddha-marble-mountains-and-am-phu-cave-in-da-nang') {
+        return {
+            averageRating: 4.7,
+            totalReviews: 6700,
+            guideRating: 4.79,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "Great trip in spite of the pouring rain. Michael was very informative and kept the mood light and funny! You get a lot of value out of this one - would recommend." },
+                { author: "Rini", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "I did the small group tour with Michael. Michael shared interesting and important strories about the war, culture, religion. The tour was well paced. did not feel rushed. Lot of stairs were involved in the tour. there was an optional elevator for a portion of the tour, however its better to climb the stairs. The view at the top is stunning, luckily it was not crowded for us." },
+                { author: "Andreea", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "Everything was perfect, the communication, the guide, the transportation. A wonderful experience that I recommend." },
+                { author: "Roswitha", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "We really enjoyed the day. Tien (Tee) has been a informative guide with a great sense of humor. Very enjoyable day. loved the history about Marble Mountain." },
+                { author: "Dean", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Such a fun time with Chau Chau. The information was very interestingand the locations were fantastic. Couldn't have asked for a better guide 🙌" },
+                { author: "Luigi", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "The afternoon tour was great, very well paced and our guide Chau was super funny, entertaining and also very knowledgeable. He shared a lot of informations about the places and the country. Also great driver! 10/10 Thank you!" },
+                { author: "Levi", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We had an afternoon adventure with Lung and it was great! Hands down the best guide. He knew exactly how to explain all sorts of topics and took us to some interesting caves, temples and eventually a viewing point. Lung’s positive energy made the trip so much better! Would definitely recommend 😊" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "Our guide LUCY was fantastic. we enjoyed everything about the day. LUCY and driver were excellent. would highly recommend to anyone !!!" },
+                { author: "Carolyn", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Michael was an amazing tour guide so helpful friendly funny and knowledgeable. Great tour thanks Carolyn" },
+                { author: "Guido", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "a welcome side tour if you want a break from the beach" },
+                { author: "Gabby", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "We loved this trip! Our guide Michael was excellent. Super friendly and informative. We had a great day! Thank you!! ☺️" },
+                { author: "Lou", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "The whole trip was amazing, our tour guide Lung, was very informative, patient and knowledgeable. Ok, so there were no monkeys 😉 but the beauty that was witnessed was second to none. Well worth it and thank you so much Lung!" }
+            ]
+        };
+    }
+
+    if (slug === 'coconut-village-boat-and-hoi-an-city-tour') {
+        return {
+            averageRating: 4.68,
+            totalReviews: 720,
+            guideRating: 4.77,
+            valueRating: 4.62,
+            reviews: [
+                { author: "Keesha", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "There was a good variety of activities on the tour. Tour guide Dung was very good, patient trying to wrangle our group was like hearding cats but he never lost his patience with us and made a busy tour organized and enjoyable." },
+                { author: "Natasha", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "The trip was amazing. Our guide, Thien was full of knowledge and answered any questions we had along the way. Would recommended this trip as a really good way to see lots of Hoi An" },
+                { author: "Karen", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "I would highly recommend this trip, it was an action packed afternoon and we saw so many things. The 2 boat rides were amazing so was the food. The tour guide Kevin absolutely made it and I’d give him 11/10, exceptionally kind and whitty, making the trip an excellent experience ." },
+                { author: "Zerriff", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "I had an amazing time. The tour guide Chao did an excellent job. He was informative and took some amazing photos" },
+                { author: "Bea", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "T was an incredible tour guide! He was extremely knowledgeable about the tour and shared so many interesting details along the way. He was patient, accommodating, and genuinely made sure we were comfortable and enjoying the experience. He also spoke English very well, which made communication easy and the entire tour even more enjoyable. We truly appreciated his kindness and professionalism and would highly recommend T to anyone looking for a wonderful guide! Our bus driver was also great!!!" },
+                { author: "Sadie", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "The trip was perfect!! CoCO was an excellent guide, photographer, and has a great personality! Coco made the trip extra special." },
+                { author: "c", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "The trip is only half a day but action packed. We particularly enjoyed the basket boat and of course the lantern boat on the river at dusk is magical. Our guide Michael was entertaining and gave us good advice. He did a good job keeping the group together - Hoi an in the evening is incredibly busy" },
+                { author: "Marlena", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "We had a fantastic time with our fabulous guide Luan (Mr Handsome). He was full of information and gave us a lot of love. He is a true patriot of Hoi An and a great to the people he represents. Big up to all our Hoi An warriors.." },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "This was a great tour. T, our guide, was very nice, spoke great English and created a nice pace for each portion. The dinner was good and it was great to skip the line to the lantern boat portion. It was a great day!" },
+                { author: "Corey", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "The tour was great. Kevin and the driver did a great job of getting us around. Kevin was funny and full of information. Thank you so much for the tour." },
+                { author: "Christopher", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "We had an amazing experience on the Coconut Village Boat and Hoi A City Tour! Everything was well organized, and the itinerary was a perfect mix of fun, culture, and sightseeing. Our tour guide, Mr. Quang Thomas, was outstanding, friendly, knowledgeable, and passionate about sharing the history and local culture. He kept the group engaged throughout the day and made sure everyone was comfortable and having a great time. The basket boat ride at Coconut Village was a highlight, and exploring the beautiful streets of Hoi An was unforgettable. We never felt rushed and had plenty of time to enjoy e" },
+                { author: "Ilja", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Awesome trip! Kevin was a funny and charismatic guy, very professional as well!" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-mountain-hiking-and-the-secret-waterfall-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 21,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Sawyer", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Our tour was great. Such an amazing hike with great guides with knowledge of the area. The waterfall was a great place to rest after our long hike and then we had a nice lunch. After lunch we got to check out the My Son Sanctuary. Everything with this tour went great and I recommend anyone to take this tour." },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2026-06-29", text: "It was a fabulous experience with our guide Thao who was born and grew up as a local person. He just knows everything about the sanctuary and local area was a really living treasure with a fountain of knowledge. Thao easily answered any questions that the group has given, and a number of his answers was good touch as considering the connection of the glorious past and the presence of the Champa people. The sanctuary itself was fascinating and the waterfall was beyond of our expectations. The whole spring and water was secret for only our group that made everybody feel so immersed into the natu" },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-06-14", text: "We took part in the Trekking Day organised by this fantastic group! It was a wonderful adventure through the jungle—we walked along a watercourse and swam in a natural pool beneath a waterfall. The guide shared so many interesting insights about My Son Sanctuary and local people along the way. We even saw the trenches used during the American War. A true immersion in the nature in such a unique experience. Highly recommend!" },
+                { author: "Mai", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "It was honestly the best guide I’ve ever had! The temple was really nice, but the best part was the waterfall. It was actually a hidden waterfall with no one except some locals around. Reaching it involved a slightly adventurous hike, but it was totally manageable. I would definitely recommend the tour with the waterfall option!!" },
+                { author: "Leung", country: "Verified traveller review", rating: 5, date: "2026-06-07", text: "Amazing adventure! Everything was great! The driver picked me up from my hotel very punctually. Then we meet Thao our English speaking guide for My Son Sanctuary, the jungle and the waterfall. The hike in the middle of the jungle was super fun. Then we restarted our hike in the jungle and we finally arrived at My Son. It was quite fun to arrive there from the jungle and not from the official entrance. At this stage Thao made me visit My Sơn, giving me a lot of information about its history, the Champa’s culture, the site destruction during the war and the efforts from the Vietnamese government" },
+                { author: "Sophie", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Trekking through lush forests, we spotted incredible wildlife, including monkeys and birds, fish. The tranquil atmosphere and breathtaking views made for an unforgettable adventure. A must-visit for nature lovers!" },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2025-06-29", text: "We had a fun day with this special experience. The trek was so pristine and authentic. The sanctuary was pretty and historical. All in one a great day trip with very knowledgeable guide. Thanks team!" },
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2025-04-20", text: "Definitely a unique experience through the wilderness and a path down Vietnam's history and culture. The Egg Bahn Mi before the hike was delicious!! Our guides were knowledgeable and great navigators. At times I felt like we were going down uncharted territories for all of us (lol!). Definitely one for the adventurous soul with long-sleeved shirts and trousers (lesson learned for me!)." },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2025-03-30", text: "It was a great experience! I normally don't book tours, but this time I did and I'm glad I did. Its more handy, you have food prepared for you. We got through the jungle with stunning view to the lake and mountains. And it was even more exciting to see some wildlife and listen to the birds and plants mingling with the beautiful srping sunlight (something you can't do on your own if you don't have a guide), and there was no rush. We ended up returning an hour later than expected and they still weren't in a hurry. So do try it!" },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2025-03-12", text: "Wow! This really added to the experience and I would highly recommend this hike. Make sure to wear long pants and long sleeves. The trail was rugged and beautiful. The food was delicious! Our guide was attentive and knowledgeable. We saw a lot of beautiful flora, some fauna, and a few water buffalo. If you’re a hiker - this is a must do." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "The air was filled with the sounds of nature, making every step feel like a secret shared between us and the wilderness. We stumbled upon serene waterfalls and vibrant wildlife, creating memories that will last a lifetime." },
+                { author: "José", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Gisteren een hele leuke dag gehad, ondanks het slechte weer en m'n val tijdens de wandeling. Opgehaald met een hele nette auto en samen met 2 andere reizigers naar het huis van de gids gebracht, waar vandaan we vertrokken naar het startpunt van de wandeling. Het regende best flink, wat het pad af en toe erg verraderlijk glad maakte. Ben toen ook gevallen en heb m'n enkel verzwikt. De gidsen hebben heel goed gehandeld, dat was fijn. Met een snel gesneden wandelstok de wandeling kunnen voortzetten. Ook het bezoek aan My Son was interessant, de gids weet heel veel te vertellen. Vandaag ook nog ee" }
+            ]
+        };
+    }
+
+    if (slug === 'golden-bridge-bana-hills-lady-buddha-and-marble-mountains-in-da-nang') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 9,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Susanna", country: "Verified traveller review", rating: 5, date: "2025-03-30", text: "It was very good. Our guide, One, spoke English well and was very accommodating. When my 84 year old mum could not visit some of the places, she made sure mum was taken care of, i.e. found places for her to sit and wait for us. One entertained us with stories of the places and took lovely pictures for us. We had a great time." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-28", text: "wonder full and the private tour leader ms lyn was amazing Thanks to her our expirance was special ." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-03", text: "Raining can’t be controlled, so couldn’t enjoy the spectacular views everybody is raving about but the rain provide excellent dramatic filming opportunities. Walking through the park with the poor visibility was like walking back into time." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-07-08", text: "The trip was truly amazing, and without a doubt, the highlight was our tour guide, Peter. He was not only extremely kind and patient, but also incredibly knowledgeable and passionate about his work. He explained everything in a clear and engaging way, always making sure everyone felt included and comfortable. His warm personality and professionalism made the entire experience unforgettable. We were really lucky to have him as our guide!" },
+                { author: "Emsal", country: "Verified traveller review", rating: 5, date: "2025-03-27", text: "Rehber Mike sayesinde muhteşem bir deneyim yaşadık. Teşekkür ederiz Mike." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-01-30", text: "Do roteiro completo e da competência do guia Thon" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-01-03", text: "Ho trascorso una piacevolissima giornata con il tour privato. La nostra guida( Thin) è stata precisa, puntualissima ed attenta ad ogni nostra esigenza. Assolutissimamente da fare!" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnam-airports-fast-track-skip-the-queue-on-arrival-in-da-nang') {
+        return {
+            averageRating: 4.67,
+            totalReviews: 1410,
+            guideRating: 4.71,
+            valueRating: 4.42,
+            reviews: [
+                { author: "Leigh-Ann", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "Well worth paying for, we got through very quickly. The wait in the normal lines would have taken hours" },
+                { author: "Gail", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Our Guide was where we expected and she took us directly to the express line to move smoothly through immigration. The business kept in contact with us as our flight was cancelled and then rescheduled. Nothing was too much trouble for them. 🙏" },
+                { author: "Aleksandra", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Everything went super smooth. I can highly recommend" },
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "The service and quality was outstanding. Slightly pricey for what was needed, but well worth it" },
+                { author: "Tu", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "I have used their services three times already. They made the passage through the visa line extremely efficient and fast. I will not hesitate to use their services again and again." },
+                { author: "Kelsey", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "It’s a roll of the dice if there will be a huge line or zero line. I’d rather be prepared than sorry." },
+                { author: "Robyn", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "It was an easy and quick experience, especially for the time I landed. Definitely would recommend going with this when landing in Vietnam. I skipped a long line which might have taken over an hour. Instead, it took less than 10 minutes." },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "It was very easy to find my guide as she was looking out for me, and had clearly checked my passport photo, which she also had printed. Her colleague also had a printed copy of my visa, and it was incredibly quick and efficiently to direct us through the Fast Track line. Very happy with the service and worth the price, as I’ve had friends standing in immigration lines for well over an hour." },
+                { author: "Seth", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Guide was there with a sign when I arrived and escorted me to the line. Fast and easy" },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Absolute treat. Took the stress edge off our arrival, for many reasons but most especially loved the far shorter queue through passport control / Immigration. We were assisted all the way to the e-sim installation, ATM withdrawal & Grab pickup outside the airport. Cannot recommend highly enough!" },
+                { author: "Cristalee", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "flying i to Vietnam for the first time with a small window between our international flight and out connecting flight gave me some anxiety, how ever this service made it fast and easy to get to where we needed to. 100% will use again" },
+                { author: "Pierre-Enzo", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "I would 100% recommand it! It tooo us few minutes to pass immigration and if we hadn’t buy this fast track, we would have waited few hours!! Would 100% do it again next time!" }
+            ]
+        };
+    }
+
+    if (slug === 'small-group-street-food-walking-tour-in-hanoi') {
+        return {
+            averageRating: 4.82,
+            totalReviews: 1275,
+            guideRating: 4.9,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Jacob", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Great food and very friendly guide. Would recommend!" },
+                { author: "Jeremiah", country: "Verified traveller review", rating: 5, date: "2026-08-10", text: "Great introduction to Northern Vietnamese food and to Hanoi in general. Kimmy also did a wonderful job as a tour guide. Thank you very much." },
+                { author: "Alona", country: "Verified traveller review", rating: 5, date: "2026-07-08", text: "Loved it! The food we tried was really great and the places were really nice and authentic. Sarah gave us a lot of information about food, culture and provided lots of tips of how to find good local places" },
+                { author: "Ida", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "V was an awesome guide on this tour! He had so much knowledge about the history of the country which only made the tour that much better! The food was simply amazing" },
+                { author: "Victoria", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Loved our food tour. Such a great introduction to Hanoi and its food. Our guide was fabulous. Highly recommend." },
+                { author: "Cynthia", country: "Verified traveller review", rating: 5, date: "2026-05-29", text: "Lucy was amazing! The best part of the tour. The food was also good." },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "I really liked this tour. It felt very light which was perfect. Many people doing this will be newly arriving in Vietnam. It offers some gentle background to the history and you taste some of Hanoi’s key dishes. Lana was a great guide for us." },
+                { author: "Madeline", country: "Verified traveller review", rating: 5, date: "2026-05-15", text: "We had the best tour! Great guide and was so much fun." },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "We had a brilliant food tour with Finn and couldn’t recommend the tour and him enough. Not only did we get to try so many amazing local Vietnamese dishes, but we also learned a lot about the history and culture of Vietnam along the way. Finn was incredibly knowledgeable, friendly, and happy to answer every question we had. The amount of food included was fantastic and definitely worth the money. Every stop felt authentic and well chosen, and the whole experience was relaxed, fun, and informative. Thanks again, Finn!" },
+                { author: "Dave", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "Kimmy, was great very knowledgeable and a great guide for our first food tour in Vietnam. Would highly recommend" },
+                { author: "Céline", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "Thanks for everything Penelope, the tour was amazing!" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "10/10. Penelope spoke really good English and ran a brilliant tour. All the food spots were comfortable, quiet and most importantly, delicious. Can’t go wrong." }
+            ]
+        };
+    }
+
+    if (slug === 'guided-food-tour-with-train-street-visit-in-hanoi') {
+        return {
+            averageRating: 4.87,
+            totalReviews: 8075,
+            guideRating: 4.93,
+            valueRating: 4.84,
+            reviews: [
+                { author: "Ilaria", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "Very nice tour! With 3 dishes to try + 1 drink and well organized. Met some lovely people too!" },
+                { author: "Sharon", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "We summed it up as informative and delicious - Brian our guide was a wealth of knowledge and he shared some wonderful stories with us at each stop. The food was amazing loved ever bit of it and the train was a tick off the list for us too" },
+                { author: "Megan", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "Hair and Mia were fantastic guides. Very well spoken and knew lots of info about the foods and the city. We had a great time. Highly recommend them both." },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Was really good, we’d just arrived into the country and was a great start, tour guide was very helpful and chatty, food tasted good! Was cool seeing the train! Recommended." },
+                { author: "elena", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "we met a lot of nice ppl on the tour with who we grabbed some beer afterwards :)" },
+                { author: "Valerie", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "It was an excellent tour. Our tour guide Rose was very knowledgeable and exciting. I highly recommend the tour and Rose as the guide." },
+                { author: "Ambarin", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Monica was funny, passionate and clearly knowledgeable about the Hanoi food scene. Loved getting to see Vietnamese food through her eyes! Highly recommend, without hesitation!" },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Penelope and Vivian were amazing guides I had so much fun with them" },
+                { author: "Jacquie", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Rose was an amazing guide, telling us lots of information about Vietnam and the food. the food was great." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Mac was an amazing guide — engaging, knowledgeable and genuinely caring. He made the whole experience fun and interesting from start to finish. He took us to some fantastic local food spots and introduced us to some amazing Vietnamese food we probably would never have discovered on our own. The afternoon finished at Hanoi’s famous Train Street, and all we can say is WOW! What an incredible way to end a fantastic experience. Mac really made the tour special. We would highly recommend him to anyone visiting Hanoi. Thanks, Mac, for a brilliant and memorable afternoon!" },
+                { author: "Rachael", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "the food was incredible, a lovely group of people and our guide was really amazing! I learnt a lot about hanoi and vietnamese culture and about each dish we had. The egg coffee was fantastic and the places we went I probably never would have been too if not for this tour, would definitely reccomend!!" },
+                { author: "Hadson", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Great food and a wonderful evening walking through Hanoi streets. Our guide Penelope was brilliant. Kind and very informative!" }
+            ]
+        };
+    }
+
+    if (slug === '2-days-ha-long-bay-and-bai-tu-long-bay-cruise') {
+        return {
+            averageRating: 4.72,
+            totalReviews: 1631,
+            guideRating: 4.89,
+            valueRating: 4.54,
+            reviews: [
+                { author: "Annelien", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "The whole experience was amazing. The tour guide Nguyen was very helpful and knowledgeable. The staff on the ship was so friendly. It was a fantastic cruise and will definitely recommend it to anyone. The small group tour makes the experience more personal. 10 out of 10" },
+                { author: "Mariola", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "We are very happy about the trip. all wqs organized well, tge rueist guude was just great and very helpful. Example,wewere rhe dirt group entering the cave in the morning so we could enjoy it not crowded." },
+                { author: "Cheston", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Great experience! You’re well looked after for sure! Guide was great/helpful. Pickup and drop off was good. Food was surprisingly tasty as wasn’t sure about the food… Nothing bad to say!" },
+                { author: "Gemma", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "wouldn't have missed this. one of my favourite places in vietnam" },
+                { author: "Rushil", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "Fun action packed from getting on the boat to getting off. It’s completely your choice how much you want to get involved." },
+                { author: "Mitchell", country: "Verified traveller review", rating: 5, date: "2026-06-20", text: "comfort the and the ease of the staff very friendly helpful professional" },
+                { author: "Catarina", country: "Verified traveller review", rating: 5, date: "2026-06-06", text: "Perfect experience! This was the perfect route to avoid crowds and experience the immense beauty of Halong Bay. The tour was very well organized, the team communicated ahead of the departure and all transportation went smoothly. The stay on the boat was very confortable and the food was very nice. The staff was friendly and atttentive, Hung, the guide, was wonderful!" },
+                { author: "Catherine", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "This was the highlight of our trip to Hanoi. It was managed efficiently from start to finish. We changed the date because of the weather and this was not a problem which was great. The guide was friendly and very engaging as were all the other staff. They all worked together very well to ensure everyone was having a great time. Would highly recommend this group and the trip. Accomodation on board was good as was the food." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "What an amazing trip this was! The cruise was fantastic and we were looked after from the moment we stepped aboard the Cicada. The food was exceptional and the staff were friendly without being overbearing. The excursions were well planned and the route the captain plotted around Ha Long and Bai Tu Long Bays made for the most magnificent views. We particularly loved the final mooring for our evening as it was sheltered and very private being surrounded by limestone karsts. I would thoughly recommend this cruise without reservation." },
+                { author: "Tomislav", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "We’ve just finished our cruise and it’s been one of the most memorable experiences of our trip to Vietnam. A huge part of that is down to our guide, Cong. He was fantastic from start to finish, knowledgeable, organised, and genuinely warm and attentive. What really stood out was how he made the effort to spend time with everyone individually, which made the experience feel far more personal. The whole team on the boat were brilliant as well, always friendly, professional, and happy to help. The service throughout was excellent and the food included was great. We were also celebrating our anniv" },
+                { author: "Iris", country: "Verified traveller review", rating: 5, date: "2026-05-02", text: "Felt like a luxury cruise. Were afraid from other reviews that the pictures would not match the boat but it was amazing. Nice staff and clean rooms, a lot of food was served and nice ambiance. Recommend this tour that also visits the quieter areas." },
+                { author: "Rachel", country: "Verified traveller review", rating: 5, date: "2026-04-28", text: "I went on a last minute trip with some friends - and it was amazing. Firstly, all of the staff were so friendly and helpful with a specific shout out to our tour guide Hung. He was so kind, informative, and very witty. He went above and beyond to make it an inclusive experience for everyone, he is a real treasure. The boat is beautiful. Think old-timey with intricate detailing throughout, and a lovely roof terrace to sit & chill and watch the world go by. Our cabin was spacious with a double and single bed and the bonus of a lovely jacuzzi. The food was also very tasty, and there was lots of i" }
+            ]
+        };
+    }
+
+    if (slug === 'ninh-binh-bai-dinh-hoa-lu-trang-an-and-mua-cave-tour') {
+        return {
+            averageRating: 4.8,
+            totalReviews: 10703,
+            guideRating: 4.85,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Kavana", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Timber was great! Super knowledgeable and a lot of fun." },
+                { author: "Lynn", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "The boat ride was incredible through beautiful scenery and several cave tunnels. We did the full climb to the dragon at Mia cave, again beautiful views. The meal was one of the best we have had on the trips we have taken. Ken our guide was great and the driver amazing getting through the Hanoi traffic. Only improvement we did not get told the number of the" },
+                { author: "Rini", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "We booked a day trip from Hanoi to Ninh Binh, and it was a highlight of our trip! Our guide Trang was engaging, safety-conscious, and shared great historical insights. Our guide changed the itinery a little bit which allowed all of us to enjoy the trip without hettinh caught in the rain. The limousine transfer was very comfortable, and the Trang An boat tour through the caves was breathtaking. Climbing Mua Cave was steep, but the panoramic view was well worth the steps. There was buffet luch with vegetarian options. overall an incredible experience. Highly recommended as a day trip." },
+                { author: "Matthew", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "An incredible day, in fact it was our best trip of our Vietnam trip overall! Our boat ride on Trang An / Ninh Binh was amazing, spectacular views! You’ll love it!! The big climb to the summit! (If you dare with the extreme heat!! - i drank 3 bottles of water!!) enjoyable, exhausting BUT the views!! - Stunning, totally worth it!! Great tour guide, his name was Max! Well done Max!! You made the start of our trip!" },
+                { author: "Flávio", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Ricky is the most funny and handsome guy I have ever met:. *thank for good time in Ninh binj" },
+                { author: "Youssef", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Ricky is awesome thank you for the wonderful day!!" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Ricky was a great guide had lots of information and kept the mood light. Would highly recommend." },
+                { author: "Sampath", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Our trip to Ninh Binh was absolutely amazing! We had a wonderful experience, and a big part of that was thanks to our excellent guide, Mr. Will. Mr. Will was superb throughout the entire trip. He was very knowledgeable, friendly, and attentive, and he made sure we enjoyed every moment. He explained everything clearly and helped us learn about the history, culture, and beautiful places we visited. We truly appreciated his enthusiasm and effort in making our trip special. We highly recommend Mr. Will to anyone visiting Ninh Binh. Thank you for an unforgettable experience!" },
+                { author: "Madeleine", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Great day trip, our guide Will was knowledgeable and funny. Would recommend" },
+                { author: "Wannes", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "The trip was a great tour through Ninh Binh as we had limited time. Our guide Timber Hieu was super kind, spoke very good English and shared interesting information on the locations and Vietnam history! He made the trip super fun! The pickup & transport was very smooth with a good dropoff locations right outside the old quarter." },
+                { author: "Lina", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We had a fantastic full-day tour and really enjoyed the whole experience! Our guide, Mr Ben, was absolutely lovely — nice, friendly, understanding and very funny, which made the day even more enjoyable. We visited Dragon Mountain and the King’s Temple, explored the caves, and had a wonderful 1.5-hour bamboo boat trip along the famous river. The scenery was beautiful and it was a great way to experience the area. The food provided was delicious, with a great buffet selection, so there was plenty to choose from. Overall, it was a great trip from start to finish, with a lovely guide, beautiful pl" },
+                { author: "Yash", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Amazing experience from start to finish! Our guide was very patient, helpful, and knowledgeable, and made the entire experience smooth and enjoyable. Highly recommended!" }
+            ]
+        };
+    }
+
+    if (slug === 'bike-tour-through-hidden-gems-and-banana-island-in-hanoi') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 393,
+            guideRating: 4.88,
+            valueRating: 4.72,
+            reviews: [
+                { author: "Grace", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Tee our guide was amazing!! Had the best time. This was a great way to see the city and get more of an immersive up close experience. The biking was chaotic (as expected this is Hanoi) but our guide stuck very close to us and always made sure we were safe and was constantly checking in. It was super fun!!" },
+                { author: "Tony", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Nice little trip. Not to arduous and even though the roads are crazy in Hanoi I actually felt quite safe. The tour guide was informative and knowledge with a good standard of English. It's a great afternoon where you get see another side of Vietnam away from the hustle and bustle." },
+                { author: "Vivi", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "it's good to see the out skirt of Hanoi. The cycling it's a bit short, i would like to see more exploration." },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Fun hike tour in Hanoi. Guide was very knowledgeable and had great English. Bikes were basic but did the trick. Excellent way to see a bunch of Hanoi that you wouldn’t otherwise see." },
+                { author: "Alet", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Hoang is a Amazing guide, he learned us a lot about the beautifull city Hanoi. And we saw another side of Hanoi. Met some sweet locals. Great tour, we enjoyed it!" },
+                { author: "D", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "The cycling tour in Hanoi with Mark was a fantastic experience from start to finish. The route was impressively diverse, taking us through peaceful natural surroundings before gradually transitioning into the vibrant, bustling energy of the city. This contrast made the journey especially memorable and gave a well-rounded perspective of Hanoi. Mark was an excellent guide knowledgeable, friendly, and attentive throughout the tour. He ensured everyone felt comfortable and shared interesting insights along the way. The highlight, in addition to the ride itself, was the lunch. It was absolutely del" },
+                { author: "Monique", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "It was fantastic. After 10 minutes we drove like locals! The guide was also very good! I recommended it very highly!" },
+                { author: "Marieke", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "It was a really nice tour. Our guide Tee guided as through several interesting parts of Hanoi. We had a drink in train street (which is touristic but also special!) and a lovely meal at the end. Tee and his help An made as come back safely which is quite challenging in the busy Hanoi! I can recommend everybody to do this tour!" },
+                { author: "alexe", country: "Verified traveller review", rating: 5, date: "2026-07-13", text: "Minh was a great tour guide, super friendly and knowledgeable. Going to Banana island was a huge highlight, it’s a nice quiet area compared to Hanoi city that you would not find unless you are a local or have a local tour guide. Minh took us to some great food spots to cool down on the hot day and gave us recommendations for the rest of our stay. There was a good mix of history + sightseeing. Bike riding on the busy streets of Hanoi was a bit intimidating, but Minh makes sure you feel safe and comfortable! Thanks for a good tour" },
+                { author: "Monica", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "We had a great time with Tee as our guide. He took us to interesting spots and we had some delicious Hanoiese food we would not have otherwise known about. We learned a bit about Vietnamese history as well. Would highly recommend for confident bikers." },
+                { author: "Bas", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Fun way to explore Hanoi. Our guide Minh was very professional and had a great sense of humour." },
+                { author: "Graeme", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "I had a wonderful day with Minh as my guide cycling through the organised chaos of Hanoi traffic in the morning. Afternon was spent exploring the quieter villages across the river. This cycling tour is a great way to see a huge variety of places in and around Hanoi. In the peak summer heat it's definitely a good workout! Great organisation and communication coupled with a super friendly guide who kept me safe and made for a thoroughly enjoyable day. 100% day." }
+            ]
+        };
+    }
+
+    if (slug === 'food-and-sightseeing-motorbike-tour-with-7-tastings-in-hanoi') {
+        return {
+            averageRating: 4.98,
+            totalReviews: 228,
+            guideRating: 4.99,
+            valueRating: 4.91,
+            reviews: [
+                { author: "juandiego", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "This was the perfect way to end our trip in Hanoi. Nathan and his crew took us to really great places to eat. Highly recommended!" },
+                { author: "Chante", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Our tour guides were so funny and knowledgeable, and had an answer for every single question! I would definitely recommend something like this for your first few days in the city so you can find your favorite dish, know what to try and look for, or what you might not have finished if you ordered it yourself! Hoang was my driver and he was amazing!!" },
+                { author: "Debbie", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "Amazing! A must for everyone to do! My daughter and I had Minh as our guide who spoke such good English and we LOVED the tour! All the food was fab and such a lovely way to see the city. Great value. Thank you! Debbie" },
+                { author: "Astor", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "We had a great time on this food tour. We loved seeing different parts of the city and the food choices were excellent." },
+                { author: "Shubham", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "We had so much fun with aahn and Nathan. They were so friendly and full of positive energy. Loved the whole experience with both of them. it was very well organised tour with full of knowledge. thank you so much for the wonderful experience." },
+                { author: "Veronica", country: "Verified traveller review", rating: 5, date: "2026-07-06", text: "Our Guide Minh was incredible - despite the rain he ensured we covered everything we needed to see and sample safely. Our riders were top notch and very knowledgeable- we saw a lot and ate a lot - places and food we would have never found on our own. Highly, highly recommend!" },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "My wife and I toured with Hoang and An on our first night in Hanoi. Hoang and An were delightful guides with great knowledge of the city's history and culture. They also shared great stories of the origins of each dish (through seven unique restaurants!) and taught us how to tailor each dish to our taste using the accompaniments. Both guides were very open and it felt like we made two great friends. Hoang took special care to drive us by the swan boats of West lake, the most romantic lake in Vietnam, after learning we were in Hanoi for our honeymoon. An was very excited to take our photos on t" },
+                { author: "Kristy", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "Mihng was an excellent guide who had a great sense of humor! We are so happy we were able to complete this tour with his guidance and would strongly recommend this tour!!" },
+                { author: "Tania", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Excellent tour! They picked us up at our hotel and we all felt super safe. It was exhilarating! Boy 17, two girls 14 and 11, all adventurous eaters so this has been their favorite part of our trip. Don’t miss out!" },
+                { author: "Samatha", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Nathan our guide was awesome He and his drivers kept us entertained and informed between each food stop and of course the food was fantastic We would definitely do this again!" },
+                { author: "Kristin", country: "Verified traveller review", rating: 5, date: "2026-06-29", text: "This was a great tour, so much fun and good value for money! Minh and the other drivers were great and showed us a side to food culture in Hanoi that we never would have known without them! Riding on scooters around the city showed us so much and the food was incredible. Would definitely recommend!" },
+                { author: "Vannessa", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "Nathan and An provided the most informative, delicious and fun tour of our time in Vietnam, they are so passionate about food and their beautiful Hanoi. I thoroughly recommend this tour!" }
+            ]
+        };
+    }
+
+    if (slug === 'maya-traditional-cooking-class-and-market-tour-in-hanoi') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 301,
+            guideRating: 4.99,
+            valueRating: 4.93,
+            reviews: [
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Jewel was lovely and her English very good. We made 5 dishes and went to the market where we picked out some different fruits to try. The cooking class was a lot of fun and loved learning new dishes to make. The food was delicious. Highly recommend." },
+                { author: "Elias", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Had a great time here! Made some great food and learned a bunch about vietnam and its culture. Cya was a great guide!" },
+                { author: "Gen", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Me and my partner had the best time with our guide Cya. She was welcoming and did a fantastic job of including our whole group in every activity alongside fantastic conversation. The food we made was absolutely delicious and we even got to pick our own fruit for desert from a local market before the class and she taught us how best to identify good quality fruit. 10/10 absolutely would recommend. So far the highlight of my trip to Hanoi" },
+                { author: "Ellen", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Such an amazing experience, it ended up just being myself but the class still went ahead. Anne was incredible and so nice, easy to talk to and walked me through every step, it felt like I was just spending a day with one of my friends. Great experience and such yummy food, would definitely reccomend and do it again! Thank you Anne!" },
+                { author: "Christopher", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Amazing day at Maya Kitchen. Our instructor Cya was so good and made sure we had a great time. The food was excellent and I especially enjoyed the egg coffee. I would recommend this activity to anyone coming to Hanoi who wants to learn about some traditional foods. A++" },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "We had so much fun! The four dishes were outstanding, as well as great egg coffee and delicious local fruit from the market. Our instructor, Cya, was so professional, friendly and great fun. The class was easy to follow and engaging, and an incredible introduction to Vietnamese cooking. Would absolutely recommend!" },
+                { author: "GACE", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Jewel is amazing, great cooking teacher. i recommend it's a good activities for foodies like me" },
+                { author: "Lily", country: "Verified traveller review", rating: 5, date: "2026-06-09", text: "We had such a great time learning so much about Vietnamese cuisine and culture! Lucy was an incredible guide who was so sweet and chatty, and stepped in at the last minute as our original cooking instructor was unfortunately in an accident. Would definitely recommend doing this class! It was fun to head to the market and choose what fruits we wanted to try for dessert." },
+                { author: "Vipul", country: "Verified traveller review", rating: 5, date: "2026-06-07", text: "it was fab. Hui our guide was very engaging and interesting...telling us about food and everything else about vietnam. It was the highlight of our hanoi stay" },
+                { author: "Bethany", country: "Verified traveller review", rating: 5, date: "2026-05-04", text: "So much fun! We made great food and had great conversation." },
+                { author: "Eliza", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "I had such a lovely time and our guide Evelyn was super accommodating and friendly. We made 4 courses and egg coffee and each course was delicious and super fun to make. I came solo and had a really good time so it’s definitely solo traveler friendly. Would definitely recommend and come again" },
+                { author: "Cathy", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "The cooking class was great! Lena was our instructor chef and she did a fantastic job!!! Appreciated her tons!" }
+            ]
+        };
+    }
+
+    if (slug === 'the-most-luxurious-day-cruise-in-lan-ha-bay-in-hanoi') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 632,
+            guideRating: 4.87,
+            valueRating: 4.75,
+            reviews: [
+                { author: "Angelique", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "I had the best time, the crew was very welcoming and the activities were worth while. Amazing Views!!" },
+                { author: "GREIG", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "Maybe tie small boats in stead of people holding them when you go or come from bigger boat" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "A beautiful day trip definitely worth considering (subject to the point below). The boat Serenity is beautiful, amazing staff, and a lovely buffet. The trip to Viet Hai and village cycle was fun as was the swimming and kayaking off the boat. Point to Note: Be prepared for a long journey 3-4hrs if traveling from Hanoi - 3 hour bus, then speed boat, then another bus doing hotel pickups on Cat Ba, then another boat to the main boat. Our guide Billy did a great job managing all the transport." },
+                { author: "Lorraine", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "There was so much packed in to this day. The short cycle ride around Cat Ba was beautiful and the fish pedicure was a whole new experience There was plenty of watersports, kayak, swimming, slide off the boat and banana boat which were great fun and well supervised The only downside is the travelling. We left Hanoi at 7 am arriving back around 9:15 pm. It was four hours to get there and almost 5 hours to get home. It felt like a pretty long day and my only recommendation would be to do two days and one night on this trip" },
+                { author: "Amelia", country: "Verified traveller review", rating: 5, date: "2026-06-08", text: "this trip to lan ha bay was spectacular. breathtaking views, fun activities and easy transportation. highlight oc the trip was the friendly and interesting tour and smooth organisation by our guide Billy. would 100% recommend. the group size is quite big so it can get busy, although well managed by Billy." },
+                { author: "Dominic", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "Everything went super smooth despite all the means of transportation you gotta take to get to the cruise ship. It’s all worth the effort, the views on the cruise are amazing and the experience is just wonderful. Our guide Binh (Billy) has got to be the cherry on top, he is very well informed about everything, tells interesting stories and is just so funny! Would recommend 10/10!" },
+                { author: "Andrew", country: "Verified traveller review", rating: 5, date: "2026-05-25", text: "The cruise was the highlight of our trip, and Binh, our guide, was the best part. There were a lot of logistics and everything went incredibly smooth. Lan Ha bay is one of the most beautiful places I have ever been and we were one of the only boats out there. It truly is an awesome day and you should book this trip!" },
+                { author: "Anastasiia", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "I’m usually super picky, so I searched through tons of cruises in Ha Long, checked reviews, photos, everything… and when I found this one, I realized I wanted to visit Lan Ha Bay with fewer tourists. And honestly, I’m 200% happy with my choice! Our boat was the only one in the bay! Our guide, Binh, was amazing, he shared interesting stories about the “Only Woman Island,” made jokes, and was really attentive. As a non-native English speaker, I could understand him very well. Even though we had a few transfers, the transportation was comfortable, the boat was great, the staff were lovely, the fo" },
+                { author: "Alina", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "It was amazing! Absolutely beautiful new liner, food was great (seafood, meat, veggies and fruits & desserts). The activities are very smartly organised and it was simply amazing!" },
+                { author: "Ashley", country: "Verified traveller review", rating: 5, date: "2026-04-25", text: "Amazing! Billy was the best tour guide, he made the day extra fun and special. LAN Ha Bay is incredible, being on the water and exploring Cat Ba Island was a highlight of my trip! Will be recommending to friends that visit Vietnam :)" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "This was quite a complicated travel day. I reckon it had 13 elements, but it all worked seamlessly. thos would be impossible to organize on your own. Oh and by the way, it was luxurious, beautiful and brilliant value. A truly memorable day." },
+                { author: "Shreyashi", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "Amazing experience! Our guide Binh was super engaging, helpful and informative. He made us laugh while also sharing some interesting insights about Vietnam, its culture and way of life. He made sure that all of us in the group left with a deeper appreciation for Vietnam. And we did. The activities were conducted really well. The cruise was great too! The food was quite delicious and we had a beautiful relaxing time soaking in the breathtaking scenery." }
+            ]
+        };
+    }
+
+    if (slug === 'transfer-to-from-cat-ba-island-by-multiple-timing-bus') {
+        return {
+            averageRating: 4.6,
+            totalReviews: 127,
+            guideRating: 4.69,
+            valueRating: 4.65,
+            reviews: [
+                { author: "Dean", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "Pleasant, straight forward. I had a small issue trying to find my pick up point. Everything worked out. Highly recommend." },
+                { author: "Franziska", country: "Verified traveller review", rating: 5, date: "2026-02-20", text: "Very well organized, pick-up was super punctual, bus was good, made a restroom stop at a very nice and clean place. Even got a water and some cookies for the ride 😊" },
+                { author: "Luke", country: "Verified traveller review", rating: 5, date: "2026-01-07", text: "Very smooth and professional, definitely worth the cheap fare it costs" },
+                { author: "Shaelyn", country: "Verified traveller review", rating: 5, date: "2025-11-02", text: "Nice that the guide gives you some information too:) the bus has a rest stop half way through too with a store for snacks and such" },
+                { author: "Alessandro", country: "Verified traveller review", rating: 5, date: "2025-10-30", text: "The trip went smoothly. The pickup location was arranged the day before, and they arrived on time. The bus was comfortable, and we made a halfway stop to buy some snacks or use the toilet. Overall, the transfer was very efficient." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2024-10-02", text: "Everything ran to time. A comfortable journey. Great value" },
+                { author: "Todd", country: "Verified traveller review", rating: 5, date: "2024-08-13", text: "Smooth ride and process of transport, yes I highly recommend" },
+                { author: "Berit", country: "Verified traveller review", rating: 5, date: "2024-04-10", text: "Excellent service! The guide Dong spoke great english, informed us about bathroom breaks ( one 15 minute break) and took us really nice places ( clean, minimarket to buy snacks) and we even got a little gift bag including water and snack! At Hanoi Dong drove me personally to my hotel by his motorbike because the other bus was full. Thank you very much!!😊" },
+                { author: "Brittney", country: "Verified traveller review", rating: 4, date: "2025-04-23", text: "It’s a long journey in a bus, but it was well organised & very air conditioned ! Our tour guide couldn’t pick us up from our hotel due to traffic, but gave us enough notice to grab a taxi, reimbursed us, and ensured we were checked in onto the bus!" },
+                { author: "Roger", country: "Verified traveller review", rating: 4, date: "2025-04-13", text: "The activities were fine, the timing was good, the communication was good, the lunch was good, the boat was OK. My only raised eyebrow was the physical difficulty of the climb on monkey island, it was much more like rock climbing than a hike and it felt as though it could have ended badly, although we all made it." },
+                { author: "Maik", country: "Verified traveller review", rating: 4, date: "2026-07-07", text: "Wir haben zurück wieder diese Möglichkeit genutzt. Dieses Mal mussten wir allerdings eine halbe Stunde auf den Bus warten. Dann im Bus erfuhren wir das keine Fähre fährt, wegen des Taifuns. Wir sollten uns ein Ticket für die Gondel kaufen um rüber zu kommen. Am andere Ende wartete aber wieder ein Reisebus, allerdings fuhr der nur zum großen Treffpunkt und irgendwie hatten wir das Gefühl, dass niemand wusste, das wir zum Hotel gebracht werden sollten. Naja es hat aber dann alles geklappt." },
+                { author: "Maik", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "Alles war gut organisiert, wir wurden pünktlich abgeholt. Es ging vom kleinen Van in einen Reisebus, dann auf die Schnellfähre und wieder in einen Reisebus. Alles hat gut geklappt." }
+            ]
+        };
+    }
+
+    if (slug === 'incense-village-hat-and-fish-trap-soy-sauce-tour-in-hanoi') {
+        return {
+            averageRating: 4.05,
+            totalReviews: 3,
+            guideRating: 4.05,
+            valueRating: 4.05,
+            reviews: [
+                { author: "Carina", country: "Verified traveller review", rating: 5, date: "2025-02-15", text: "Detta var en fantastiskt intressant utflykt där vi fick lära oss om hur de tillverkar fiskfållor som användes ute på risfält förr. De visade även hur fällorna användes för att fånga fisk och krabbor. Vi blev bjudna på en riklig lunch tillsammans med en vietnamesisk familj. Det ingick vårrullar, kyckling, nötkött, paté, lök, sallad, risvin och efteråt te och frukt. Vår utflykt fortsatte till en annan stad som specialiserat sig på att göra brun och svart soyasås. Vi fick lära oss vilka ingredienser som användes, tillvägagångssättet och till och med vara med och röra i soyasåsen. Mycket intressan" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-01-11", text: "Phong was a wonderful host and got to see and learn about these crafts in a really enjoyable day. Took some great photos and learnt a bunch" },
+                { author: "Robert", country: "Verified traveller review", rating: 1, date: "2024-09-20", text: "I went on several tours while in Vietnam. This was the most expensive BY FAR. I thought the high price would mean a great tour. It was terrible. The fish trap “village” was interesting, but not very informative. I had to ask tons of questions to get any information. It was just a courtyard full of fish traps. The soy sauce “village” was just a courtyard full of clay pots. I learned nothing about soy sauce or how to make it. There were no workers there, only our guide, so nobody to even ask questions to. I feel SCAMMED!!!! I would not suggest that anyone take this tour." }
+            ]
+        };
+    }
+
+    if (slug === 'lan-ha-bay-day-cruise-with-dark-and-bright-caves-in-hanoi') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 101,
+            guideRating: 4.97,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Carlos", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Very great activity full of amazing landscapes. The guide was so helpful and funny and make sure everyone was taken care of" },
+                { author: "Giovanna", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "We were really lucky with the weather, was a sunnny day. We got to see many beautiful landscape and our guide was the most adorable and precious person: see explained everything about the culture and the way of living of Hmong people! Really beautiful tour, simple and really enjoyable! I will do it again! 100% recommend" },
+                { author: "Michelle", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Awesome day doing Lan Ha Bay Day Cruise. Lots of transportation to and from but actual cruise part was great." },
+                { author: "Barbara", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "We really enjoyed our trip. Everything went smoothly, we had a lot of fun, and it was a solid experience from start to finish—largely thanks to our amazing guide Happy, who was both super informative and entertaining. I’d definitely recommend it to anyone thinking about going." },
+                { author: "Halina", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Amazing experience on Lan Ha Bay. Really good value for money and one of the highlights of my trip! The activities and food were excellent and our guide Tony was kind and informative :)" },
+                { author: "Iyanla", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "Really loved the whole day. It was well planned. Everything was on time. Food was delicious and enough. It was fun going around kayaking, especially with our guide Happy! Happy really deserves his nickname, he really made the whole day extra special 😁" },
+                { author: "Ellie", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Amazing trip our tour guide Happy was amazing! So informative on the history of Cat Ba and the fishing villages!" },
+                { author: "Manuela", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "Tony was our guide and he was awesome. We had plenty of time to enjoy the sea, the views and all the activities. Totally recommend it!" },
+                { author: "Azougar", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "Breakfast option since early start in the morning. else everything was good frop start to finish, to the shared informations. staff was great and dedicated, very professionnal. Activities were good too, meal was good, really a nice day and experi3nce thanks to thos wonderful team. i recommend" },
+                { author: "Steven", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "We had a wonderful day with awesome guides. The boat staff were sensational. The lunch was delicious & plenty of food. Everything was 5 star." },
+                { author: "Nejc", country: "Verified traveller review", rating: 5, date: "2026-04-09", text: "Great organization. Good food. Excellent guide. It was a very good trip, highly recommended." },
+                { author: "Jade", country: "Verified traveller review", rating: 5, date: "2026-03-27", text: "This full day tour was beautiful, relaxing, adventurous and fun! We did the option of a Hanoi pick up and drop off so the day was massive, 5:30am to 8:30pm with a lot of transfers between buses and boats, however the time spent in the bay was jaw-dropping! Our guide Tony was so friendly and knowledgeable, he had so much organisation to do but impressively stayed on top of it all, he also adjusted the schedule of the day so we were swimming in high tide not low tide. The lunch is incredible, so much delicious food and even accommodated our vegetarian requests :) overall this tour was absolutely" }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-vegan-street-food-and-train-street-tour-hanoi') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 187,
+            guideRating: 4.97,
+            valueRating: 4.74,
+            reviews: [
+                { author: "Madeleine", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "This tour met all my expectations and more. By is an excellent guide with the insiders guide to Vietnam. I tried delicious new Vietnamese food that I haven’t heard of yet before. I especially liked the bánh xèo chay- a delicious savory pancake that you eat rolled up with fresh herbs and vegetables in rice paper. Vy is very friendly and knowledgeable, and (like some of the other reviews have said) it felt like a local friend was showing you around to all the good spots." },
+                { author: "Anand", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "This was easily a standout experience for us. Vy made the whole tour feel special—she’s funny, welcoming, and makes you feel like you’re exploring with a friend. She took great care to cater to our dietary preferences, which we really appreciated. 10/10 recommendation!" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-06-19", text: "We took the vegan tour with Alex. I wasn’t feeling well before so I told him ahead of time that I might go early because I had a bit of a stomach ache. From that moment on he made sure I’m aware which local foods are good for new tourists and which not and I actually felt better from one restaurant to the next. Besides that it was really cool to experience authentic Vietnamese cuisine despite being vegetarian, the Banh mi with the tofu especially was great. Alexhat the s also very funny and told us a lot about the city’s history." },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-06-07", text: "By was lovely and we had a great time on the tour. The food was great and it was good to experience a variety of restaurants. We were very full by the end of the night." },
+                { author: "Clint", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "Really great tour. I enjoyed all the food and got to try many dishes I wouldn’t have tried otherwise. My guide, Chip, was fantastic. She was really funny, knowledgable and sweet. I had a really great time. The highlight for me was the desert. I tried avocado ice cream for the first time and loved it! Thanks." },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "Sarah was a great guide, really friendly, tailored to dietary requirements and able to accommodate requests. We went to some fully vegetarian/vegan places so the food wasn't just the meat option minus the meat. Best food tour I've been on" },
+                { author: "aisha", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "The tour was amazing, got to try lots of things and the host was lovely!" },
+                { author: "Tegan", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "I did the tour with Vy and she was an excellent guide. Vy was friendly, knowledgeable and made it a really fun night. We got to try so much food so it is definitely value for money and it can be tailored to your diet (dairy/no dairy, egg/no egg etc.). You go to authentic Vietnamese restaurants where the locals eat and I wouldn’t have been able to find these hidden gems on my own. Highly, highly recommend." },
+                { author: "Shannon", country: "Verified traveller review", rating: 5, date: "2026-04-16", text: "Our guide was amazing. I’m sorry I didn’t catch her name, but it ended up being myself and my partner only in the tour which was so nice. The tour is so flexible for each of our dietary requirements (me vegetarian and my boyfriend eat anything). Our guide gave us good recommendations and an insight into the traditional Vietnamese food and street food. We finished very full! I love that it includes dessert too." },
+                { author: "Maya", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "Vi is an amazing guide! We got to try so many different foods, she was very attentive to everybody’s food choices and to what we wanted to try. I would highly recommend this tour, everything was great! Thank you Vi :)" },
+                { author: "Tali", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "The tour was very informative and interesting with lots of delicious meals" },
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2026-03-12", text: "Sarah was very kind and funny — I couldn’t have asked for a better guide on this lovely tour. Thank you! 😊" }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-knife-making-traditional-workshop-hanoi') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 321,
+            guideRating: 4.96,
+            valueRating: 4.9,
+            reviews: [
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "This was absolutely fantastic. Really interesting and the local family were so welcoming and friendly. Me and my partner have made something will will cherish o top of the memories. 100% recommend!" },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Most amazing trip we ever had! Gorgeous genuine family business, remarkably professional and super nice people! Guide explained every step, and we worked hands-on in order to forge our own knives. Be prepared to work on the ground, taught every handle in a calm, friendly and informative way. The product is we are taking home with us is not some sh***y touristy stuff, but knives we‘ll use for our lives. We are absolutely stunned and honestly sad we had to leave this authentic and heart-warming family." },
+                { author: "Rodney", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Tour guide, Minh provided friendly and professional communication and was very organised. The blacksmiths are brothers working together in their family compound and workshop. They were especially detailed to assure my knife met their high standards. It was great to sit with them between processes, where Minh provided language translation. Easily one of my best memories of Hà Nội. Highly recommend." },
+                { author: "Justin", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "There are simply not the words to describe how awesome this was. From the moment Andy contacted us, to meeting Mr. Thanh and his beautiful Family, and through to making our own knives (Ex chef and collectors of kitchen knives), this was a humbling and totally immersive experience. We were assisted by a very talented craftslady, whose names we sadly did not get, to start with our choice of blade style, handle and ferrule, carving it all by hand. Then to the forge with the billet and hand shaping and hardening. the hammer press for flattening is a total sensory experience and this was followed b" },
+                { author: "Prana", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Absolute favorite experience from our trip. The guide was extremely knowledgeable and friendly. He was amazing at translating and genuinely knew a lot about the entire knife making process. The host herself was equally as amazing. She welcomed us into her home and was such an amazing person to learn from. She ships her knifes to chefs around the world. Would highly recommend this experience to anyone." },
+                { author: "Annabel", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "It was amazing The guide was very nice And the family where we were making our own knives they are the best ❤️ so sweet Me and my son (12 years) enjoyed every minute. Thanks for everything" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Making my own cooking knife was a truly unique experience! Our guide Tee was explaining every step and could answer all our questions. The knife making shop is a family business and they were helping and guiding us with great care. Of course they cleaned up our little mistakes and helped us create an amazing knife. I will keep using my knife for the rest of my life and I can only recoomend this activity!" },
+                { author: "Tehya", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "We had Hoang as our guide for the tour, he was great at translating for us and was a very lovely man. The class is based in a family’s residence that has been long established with the knife making trade. The family were so kind, welcoming and knowledgeable. Also very hands on, really makes you appreciate the workmanship. Would definitely recommend to anyone. Very unique experience." },
+                { author: "Derrick", country: "Verified traveller review", rating: 5, date: "2026-06-10", text: "Was a great experience. I got a nice custom knife to use in the kitchen. Will be nice to tell the story of how it was made when cooking for friends." },
+                { author: "Ellie", country: "Verified traveller review", rating: 5, date: "2026-06-08", text: "Brilliant activity! Such a fun time and everyone was lovely" },
+                { author: "Adrian", country: "Verified traveller review", rating: 5, date: "2026-06-05", text: "It was just lovely! The guide was very friendly and the family were - despite a little language barrier - so friendly, helpful and just cute 😊 They helped you in every way possible to make a beautiful piece of crafting and I am very happy with the result! The knife I couöd take home is a razor! And I don't say this lightly, I am very delicate with my cooking knives! It is not as \"perfect\" as a mastercraft from Japan for hundreds of dollars nor a \"beautiful\" but cheap knife, but it is an original piece and fullfills its purpose more than many other, sometimes expensive knives. And I can't say o" },
+                { author: "Zachary", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Great activity to learn about knife making! very interesting to go through all the steps of the formation of a knife - learning the type of material they used, to the thinning of the blade and sharpening process. the instructors were very helpful, kind and supportive during the whole process. at the end of it all, you get to keep the knife that you made as well. would definitely recommend and would do it again if the opportunity arises!" }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-eco-tour-ba-vi-national-park-wonders-and-tea-plantation-hanoi') {
+        return {
+            averageRating: 4.95,
+            totalReviews: 20,
+            guideRating: 5.0,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Cassidy", country: "Verified traveller review", rating: 5, date: "2026-03-09", text: "it was amazing! the temple was beautiful even in the rain, be prepared for a long hike up the mountain, bur its so worth it. the tea farm was so cool, seeing the dedication to the craft. lunch was an amazing experience" },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2025-12-26", text: "It was a wonderful day trip! We learned a lot about the temples, Vietnamese history, and green tea farms. Our guide, Nathan, was fantastic—he shared a lot of great information and was very welcoming and kind. The green tea farm was a highlight with learning about the family history and green tea process there. We had a delicious lunch too! We highly recommend this and are grateful for such a good guide." },
+                { author: "WENDY", country: "Verified traveller review", rating: 5, date: "2024-07-01", text: "We had a wonderful day on this tour. Ming was an excellent tour guide (and trainee Nam). Both provided good support and made me feel comfortable. We arrived at Ba Vi National Park and luckily after days of extreme heat it was a little cooler which made the walk to the top, the pagoda and a Ho Chi Minh Temple and views, easier to reach. After 5 weeks of hot temperatures I was excited to challenge myself to the 1229 steps. (the steps are evenly spaced and standard height). We got open views from 1/3 lookouts so we're also lucky. After leaving here we briefly went to an abandon French church whic" },
+                { author: "benjamin", country: "Verified traveller review", rating: 5, date: "2024-04-08", text: "It was a great excursion for one day to go out of the craziness of Hanoi. We had the chance to discover a tee farm with their lovely owners, which were a war veteran and spoke about his experiences. Our gide Sang was really good and very nice ! He was able to explain us everything of the tour but also on Vietnam, answered all our questions. Really recommanded if you want to do something nature and non touristic." },
+                { author: "Matthieu", country: "Verified traveller review", rating: 5, date: "2025-12-04", text: "Excellente excursion grâce à TEE notre guide avec qui nous avons vite sympathisé. On a pu discuter de tous les sujets avec lui : récits mythologiques, le Vietnam, le quotidien. Bref une superbe rencontre. Coté activités, c’était également super. Nous retiendrons par dessus tout la rencontre avec le vétéran, sa famille et la plantation de Thé. Superbe journée !" },
+                { author: "Beatrix", country: "Verified traveller review", rating: 5, date: "2025-12-02", text: "Wir hatten eine Privattour mit unserem Guide Mark und konnten ihm viele Fragen stellen. Durch den Ba-Vi-Nationalpark fährt man größtenteils mit dem Auto, dazu kommt ein kurzer Aufstieg zur Pagode. Das absolute Highlight war der Besuch beim Teebauern und Kriegsveteranen sowie seiner Familie. Er gewährte uns nicht nur Einblicke in den Teeanbau, sondern auch in sein persönliches Leben. Das lokale Mittagessen war köstlich und im Preis bereits enthalten. Insgesamt ein wunderbarer Tag, um der Hektik Hanois zu entkommen." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-26", text: "Du hast eine ca 1.5 h Fahrt und du fährst ca 2h aufgrund des Verkehrs zurück. Das muss man wissen. Aber die Tour an sich war super spannender und abwechslungsreich. Unser Guide konnte sehr gut Englisch und gab sich sehr viel Mühe. Die Berge sind wunderschön. Bei den Teeplantagen durften wir selbst Hand anlegen und sprachen mit einem Kriegsveteranen. Jeder der Natur mag, wir die Tour genießen!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-18", text: "Eine sehr schöne Tour mit unterschiedlichen Akrivitäten. Die lange Treppe, dank Regen keine anderen Besucher, war wunderschön. Der Besuch beim Teebauer gab Einblick in die Teeproduktion. Bei der Teeverköstigung wurden wir mit interessanten Geschichten aus dem Leben des Bauern und Kriegsveteranen unterhalten. Guide und Fahrer waren kompetent und zuverlässig." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-09", text: "The mythological tales that we learnt from Tee, our guide were extremely interesting, as well as taking part in the more mundane parts of Vietnamese life, like picking and drying tea, and talking to a fascinating local hero, also it was the first time in our trip that we found authentic, delicious local food, from the mythological heights of mountains, to the everyday life of a wise old man, his family and tea farm, this trip was the perfect insight into life in Hanoi." },
+                { author: "Montse", country: "Verified traveller review", rating: 5, date: "2025-08-21", text: "una experiencia molt bonica, vem vistar Ba vi amb el Mark el nostre guia, un noi molt educat, respetuos I molt atent, el lloc un park natural molt tranquil on pots disfrutar de la natura del pais, ens va agradar molt tambe la visita als camps de te, poder coneixer I disfrutar de un te amb el gran combate de guerra I la seva famila, una experiencia molt recomenable per sortir del bullisi de la ciutat I del turisme." },
+                { author: "Christophe", country: "Verified traveller review", rating: 5, date: "2025-07-20", text: "Excellent moment de partage avec notre guide. La visite de la plantation de thé et les partages avec le vétéran de la guerre du Vietnam ont été d'une grande richesse. Nous recommandons cette excursion en dehors des sentiers remplis de touristes." },
+                { author: "Fabian", country: "Verified traveller review", rating: 4, date: "2025-01-13", text: "Interessanter, jedoch sehr oberflächlicher Einblick. Es war schön, etwas zur Historie und den Göttern zu hören. Ebenso hat uns der Austausch mit einem Veteranen sehr gefallen. Zum Teeanbau selbst haben wir jedoch nicht viel erfahren." }
+            ]
+        };
+    }
+
+    if (slug === 'war-site-museums-tour-in-hanoi') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 55,
+            guideRating: 4.94,
+            valueRating: 4.86,
+            reviews: [
+                { author: "Ann", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Excellent. We learnt so much about the history of Vietnam. Minh, our guide was extremely informative and we were able to ask lots of questions and have discussion. Everything went really smoothly and any person interested in learning a bit about Vietnams past and its key figure Ho Chi Minh would enjoy this tour. Thanks Minh for an enjoyable and educative morning." },
+                { author: "Grace", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "Excellent trip. Andy went above and beyond, and is extremely knowledgeable!" },
+                { author: "Katrina", country: "Verified traveller review", rating: 5, date: "2026-05-19", text: "I highly recommend joining this tour if you want to learn a lot about the history. Exploring the museum on your own is very different from having a knowledgeable guide who provides detailed explanations and brings the exhibits to life. Thank you Minh!" },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "Nathan was a fabulous guide. he really looked after me on my private tour. we did all the museums listed and i learnt all about the whole history of vietnam and every ear its been involved in not just the American war. great tour.. would definitely recommend" },
+                { author: "Rob", country: "Verified traveller review", rating: 5, date: "2026-04-26", text: "A great tour with Andy who was engaging & interesting. He has a fantastic & personal understanding of Vietnamese history & how the Wars have affected & shaped its people. Would definitely recommend to anyone who wants to learn more about Hanoi , its people & the history of the wars with the French & US" },
+                { author: "Mathew", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "The tour was enjoyable and our guide Minh was very knowledgeable and made everything smoothly and we enjoyed our time on the trip 😊" },
+                { author: "Ashley", country: "Verified traveller review", rating: 5, date: "2026-03-24", text: "This was a great tour. Our guide Minh was fantastic! He was so knowledgeable about the history of Ho Chi Minh and the prison, we were really able to learn so much from him. I would absolutely recommend this tour with Minh to anyone with a deep passion for history!" },
+                { author: "Alex", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "Our group had a great time with Minh as our guide! We booked last minute private tour at around 8pm for 8am the next day and Minh reached out to us through WhatsApp to confirm meet point. Minh was very informative and friendly. Through Hoa Lo Prison and the Ho Chi Minh Museum he was stopping and giving us a detailed history of the sites and cultural significance to the country. Minh spoke English very well and the chat we had while drinking coffee at the B52 crash site was so fun. Thank you for the experience Minh! If you are interested in learning about Vietnam, book this tour and be sure to" },
+                { author: "Kristin", country: "Verified traveller review", rating: 5, date: "2026-01-19", text: "Had a great tour with Minh! He is very knowledgeable and the best English speaker we encountered in Vietnam. He answered all our questions, and gave a nuanced explanation for everything. I would recommend first timers in Hanoi to do this tour, but perhaps do another one that is more general about the history of Vietnam first - we jumped quite quickly into the material and some in my group would have preferred a more general intro to the war etc. Thank you Minh!" },
+                { author: "Jack", country: "Verified traveller review", rating: 5, date: "2025-12-30", text: "Mark was a great tour guide, he knew a lot about the history behind the Vietnam war and explained everything very clear and simple. The B25 coffee stop was also great too." },
+                { author: "K", country: "Verified traveller review", rating: 5, date: "2025-09-20", text: "it was an amazing and informative day with Mark. He was an excellent guide, showed us and shared a lot with us, not only about the Prison but local cuisine and culture. I would recommend him to anyone who is in Hanoi." },
+                { author: "ADARSH", country: "Verified traveller review", rating: 5, date: "2025-08-26", text: "loved to get to know the history of the place better. walking through the same doors and cells actually gave me goosebumps. my guide minh was excellent he himself was an enthusiast and enjoyed sharing knowledge and giving the tour." }
+            ]
+        };
+    }
+
+    if (slug === 'full-day-perfume-pagoda-group-tour-with-lunch-in-hanoi') {
+        return {
+            averageRating: 4.73,
+            totalReviews: 345,
+            guideRating: 4.82,
+            valueRating: 4.63,
+            reviews: [
+                { author: "Lynn", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Another lovely boat ride and we seemed to be the only tourists there with just our 2 boats on the river. Minh our guide explained all about the various temples and caves we saw and the legend behind them. This is a working shrine with resident monks visited by huge numbers of pilgrims through January to March but quiet when we were there. We chose to go up in the cable car and walked back down which is a great way to do it as the views are largely blocked by almost continuous traders stalls, all empty in September, and the cable car takes the effort out while giving spectacular views. It is wo" },
+                { author: "Shiuly", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "Minh was a wonderful tour guide—knowledgeable, experienced, and friendly. He explained the history of the pagoda, temple, and the meaning of the cave very clearly. We truly enjoyed our trip and appreciate all his hard work. Thank you, Minh!" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "the day trip was great, our guide Minn was amazing and very funny. Our guide being a local to the perfume pagoda was able to give us so much context that you probably can't find on another tour." },
+                { author: "Szymon", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "Our trip was super interesting. Our guide Minh told us all about the story behind the Perfume Pagoda and led the trip well through the various tour destinations. Our stop for lunch was also incredibly insightful and the food tasted delicious. The boat journey was calm and offered lovely views of the Vietnamese scenery. Just remember to have some cash on you to tip the person that rows your boat. I would recommend this trip as it’s a good eye opener for Vietnamese religious culture." },
+                { author: "Eve", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "We had a great day at Perfume Pagoda! Sunny was a super great guide, she knew a lot of stuff and was very enthusiastic!" },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-05-14", text: "A fantastic and interesting day. Highly recommended." },
+                { author: "D", country: "Verified traveller review", rating: 5, date: "2026-05-05", text: "A great tour of the Perfume Pagoda! Minh was an excellent guide. As someone who grew up in the area, he had an intimate knowledge of the cultural history of the site. Highly recommend." },
+                { author: "Denise", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "We had a fabulous tour with our wonderful guide Minh. He was incredibly friendly and shared lots of interesting information about all the sites. We had a lot of fun and learned a great deal. It was a long day, but it wasn't too tiring or stressful. After the tour, he sent us additional photos besides the ones taken on site. These showed the pagoda at different times of the year and during the festival season, giving us a completely new perspective. It was truly wonderful and impressive!" },
+                { author: "Cristina", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "The trip was fantastic! Minh was very friendly and knowledgeable. The transportation was smooth. Great experience overall." },
+                { author: "Judyta", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "Tony was a great guide. Food was very tasty and the views amazing. Great one day trip from Hanoi." },
+                { author: "Rafael", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "The trip was genuinely an amazing experience for both the scenery and the culture/traditions. Minh was an amazing guide and knew literally everything about the regions history and traditions and gave us a rlly interesting tour. Very kind and knowledgeable. I would recommend hiking if you are fit for it as you can interact with locals and visit some less touristy pagodas." },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2026-04-03", text: "Minh was an incredible host! I loved the entire day. Do not do if you struggle with mobility issues it’s very hilly!" }
+            ]
+        };
+    }
+
+    if (slug === 'quintessence-of-tonkin-show-a-cultural-spectacle-in-hanoi') {
+        return {
+            averageRating: 4.53,
+            totalReviews: 16,
+            guideRating: 4.53,
+            valueRating: 4.4,
+            reviews: [
+                { author: "Sophie", country: "Verified traveller review", rating: 5, date: "2026-02-26", text: "Choreography and lights were very well done. The show was great. The sound system could have been better. But over all extremely well done. Loved it !!!" },
+                { author: "Daniele", country: "Verified traveller review", rating: 5, date: "2025-10-23", text: "The show was really impressive. The effects were good and the atmosphere was great! Special thanks to Thomas, he was really helpful and supported us perfectly!!" },
+                { author: "Kristel", country: "Verified traveller review", rating: 5, date: "2026-06-28", text: "c était vraiment magnifique et le taxi nous a pris devant l hotel et ramener. très beau spectacle." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-04-02", text: "C’était superbe ! les décors, costumes, lumières et les artistes étaient géniaux et nous sommes heureuses d’y avoir assisté. Maintenant c’est vrai que l’on n’a pas tout compris, si tu ne connais pas l’histoire du Vietnam, ce n’est pas simple à suivre. De plus, j’aurais aimé y voir un peu plus d’énergie de la part des artistes, autrement c’était génial !" },
+                { author: "Francesca", country: "Verified traveller review", rating: 5, date: "2025-05-04", text: "Personale gentilissimo. Baia stupenda" },
+                { author: "Jonathan", country: "Verified traveller review", rating: 5, date: "2025-04-29", text: "Un spectacle Vietnamien pour les Vietnamiens. Rien compris mais c’était top." }
+            ]
+        };
+    }
+
+    if (slug === 'old-quarter-street-food-tour-with-12-tastings-in-hanoi') {
+        return {
+            averageRating: 4.91,
+            totalReviews: 344,
+            guideRating: 4.95,
+            valueRating: 4.84,
+            reviews: [
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "I had a great time on this tour with Kira as the guide. Lots of amazing food to try, make sure you come very hungry! I would highly recommend this tour" },
+                { author: "Jerry", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Sarah was an amazing guide. 10/10. Must do if in Hanoi. So much delicious food and history" },
+                { author: "Karina", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Excellent. Great food stops we would’ve never found on our own" },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "We had an amazing tour with V. He taught us a lot about the Vietnamese (food) culture and it felt like a trip with a friend. Good food in multiple spots that we wouldn’t have picked out on our own. Recommend!" },
+                { author: "Diana", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "I was impressed with the communication prior to the tour and during the tour. Chloe was excellent! She walked at a pace that suited me. Chloe explained the dishes I ate at the many diverse places. I really enjoyed the egg coffee even though I didn’t want it at first. Best ever! We ate at many different places a variety of sweet and savoury dishes. All were very good. I explained the only thing I wouldn’t eat was innards. Not a problem. We ended at the train street where we had a drink and experienced the train. Great!" },
+                { author: "Scott", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "Anya was a great guide, very interesting and engaging. Great variety of dishes on offer, just make sure you come hungry. Everything was really well explained. I loved doing the evening tour as it meant it was that little bit cooler for nipping around the city. Definitely a top tour in Hanoi!" },
+                { author: "Mariana", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Our tour with Liam in Hanoi was awesome!!! He was so knowledgeable about culture, food, history… very attentive, fun, engaging, respectful and adaptable. Thank you Liam! We ended up being full for the rest of the day!" },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "We had a wonderful walk through the old town, visiting several cafes and restaurants. Our guide and Anh, her assistant Lyn were excellent. They were knowledgeable, informative, engaging and made the evening very special. We learnt so much about food in Hanoi and how important it is to the culture. A wonderful evening. Highly recommended." },
+                { author: "Vanessa", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Tour was great, we loved the food. Our guide, Jewel was very prepared and had great stories. I would highly recommend this tour :)" },
+                { author: "Elizabeth", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Our tour guide Chloe was great! She customized tasting items to our request and we got a huge variety of food/drinks! She was also great with our 9 year old!" },
+                { author: "Kirsti", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "By far my favorite experience in Hanoi!! Chloe was absolutely amazing— so knowledgeable of the Hanoi Old Quarter history and food culture. Learning about the ingredients, preparation, ways of eating, and everything small detail about the food that you wouldn’t normally think about made the tour so special and impactful for me. I truly feel like I got to see and experience Hanoi from a local’s lens. The food was incredible— an amazing variety of sweet and savory and street and restaurant. Chloe curated the best 3 hours ever and I enjoyed every second of spending time with her! She has a gift fo" },
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "rapport buit up quickly with Chloe which made us relax. fun and informative tour with a friendly personal touch" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-giang-loop-motorbike-self-ride-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Kamilia", country: "Verified traveller review", rating: 5, date: "2024-05-22", text: "It was our best experience in ALL ASIA! The drivers are sooooo nice and friendly. The road was amazing with crazy views. If you are in Vietnam, you have to do it 😍 I was with a group with 6 people (not 15) it makes a big difference!!!" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Tyra", country: "Verified traveller review", rating: 5, date: "2024-12-17", text: "It started off a bit chaotic with issues with our transport to Ha Giang. Would recommend upgrading to the VIP cabin bus because these sleeper buses were the most uncomfortable with no curtains even on the windows and try get one that gets you in the evening before so you get a proper night’s sleep. Once we actually got started though it was great. Our guide Tuyen was really good, set a good pace for our easyriders and gave us good information at each stop. The food was decent but pretty much the same each day. Homestays were basic but fine. If you travel in winter, make sure to pack warm cloth" },
+                { author: "Jake", country: "Verified traveller review", rating: 5, date: "2024-04-23", text: "Incredible trip. Danny and his team were perfect, all were really friendly and helpful. Would recommend to absolutely anyone." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-08", text: "Expériences incroyables malgré le mauvais temps ! Les équipes sont super et l’ambiance est génial. Les paysages sont magnifiques." }
+            ]
+        };
+    }
+
+    if (slug === '4-day-ha-giang-loop-w-safe-rider-max-8-pax-2-2') {
+        return {
+            averageRating: 4.52,
+            totalReviews: 3,
+            guideRating: 4.52,
+            valueRating: 4.52,
+            reviews: [
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2024-11-05", text: "eine soo schöne Tour! Die Landschaft ist beeindruckend, die driver super lieb und erfahren (danke an Sao und unseren Tourguide Andy, die ihre Sache super gemacht haben) und alles ist top geplant. Ich konnte jederzeit Rückfragen stellen und es war immer ein Ansprechpartner verfügbar. Absolute Empfehlung!" }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ban-gioc-waterfall-cave-mountain-with-meals-in-hanoi') {
+        return {
+            averageRating: 4.54,
+            totalReviews: 40,
+            guideRating: 4.9,
+            valueRating: 4.14,
+            reviews: [
+                { author: "Naomi", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "The tour was fantastic. Quan is a great guide and looked after us on our trip. It is a big 2 days of travel, the stops and sightseeing is well thought out. Really enjoyed the tour. The food was authentic and delicious." },
+                { author: "Gabriele", country: "Verified traveller review", rating: 5, date: "2026-01-05", text: "The places are spectacular, from the Mother's Temple to the waterfalls, the Tiger Cave, and the knives makers. The Angel's Eye mountain is unique and so peaceful. Trung (Tommy) is a wonderful person and an excellent guide, really interested in explaining things and making people happy. Also, a big thanks to the driver because it wouldn't be possible to visit those areas without some expertise on the roads." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2025-09-18", text: "The long drive is very scenic with regular rest stops so not boring . Our guide Tommy went out of his way to meet all our needs ,( once i think he even made the rain stop). Also Mr Ming is a great and relaxed driver . Ban Gioc waterfalls breath takinging and the boat trip around angel mountain was amazing. So was tiger cave and all the little stops to see pagodas and metal work. Well worth it 10/10" },
+                { author: "Gregory", country: "Verified traveller review", rating: 5, date: "2025-04-08", text: "We enjoyed our time on the trip and can't think of any improvements needed. the Guide Tommy and the driver were great and very helpful." },
+                { author: "Carly", country: "Verified traveller review", rating: 5, date: "2024-11-24", text: "Just come back from an amazing tour to see the waterfalls! Couldn’t fault it! Dustin our tour guide was amazing and really knowledgeable, he took us to places away from tourist hotspots to see how local people live which was fabulous to see! He even spent the evening with us teaching us all how to drink local Vietnamese wine! Only thing to bare in mind if you are looking to book is that the overnight hotel is really basic (I mean your out in the countryside you can’t expect much!) but the bed is incredibly hard, almost like a bench and it is a long drive so be prepared for that! But overall we" },
+                { author: "Jill", country: "Verified traveller review", rating: 5, date: "2024-01-20", text: "Intense but very beautiful trip to the beautiful cao bang region. The natural sights are amazing and you can get a better feeling of the more traditional, authentic life in Vietnam. The drive is very long there is no way to put it differently, but if you have limited time and want to have an impression of the far north of Vietnam, this trip is perfect. Our guide David was very knowledgeable as well and the driver did a great job navigating the tricky streets :)" },
+                { author: "Elina", country: "Verified traveller review", rating: 5, date: "2023-12-01", text: "All places visited were beautiful. The guide Elvis was very accommodating to our meal requirements and helpful with vomit bag and stopping the vehicle when my husband and kids had motion sickness." },
+                { author: "Dean", country: "Verified traveller review", rating: 5, date: "2023-09-12", text: "Luan the guide was amazing, he truly made the experience even more enjoyable. The places you visit are absolutely stunning in itself. We ate local cuisine the whole trip and the food was truly amazing. Luan even cooked us a meal himself. Couldn’t recommend the trip highly enough." },
+                { author: "Corinne", country: "Verified traveller review", rating: 5, date: "2023-06-12", text: "I was a little daunted by the amount of driving involved. But in the end the journey through the spectacular countryside of northern Vietnam was worth it all. Ban Gioc falls were not at their most impressive due to a lack of water outside of the rainy season, but still pretty amazing. Thanh, our guide, and Truong the driver both took great care of us. Overall this was a fabulous trip. My only recommendation is that if you have more time available, opt for a three or four day tour." },
+                { author: "German", country: "Verified traveller review", rating: 4, date: "2026-05-07", text: "Спасибо Than Minh и водителю за проведённую экскурсию. Путешествие прошло хорошо, потрясающие виды, однозначно рекомендую к посещению, это стоит увидеть своими глазами. Из минусов: на мой взгляд этот тур должен быть дешевле раза в два, еда была невкусная (половину блюд не хотелось даже пробовать), а номер был душным, с липким полом и без кондиционера." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "Deux jours sympathiques avec notre guide min. On recommande" },
+                { author: "Gerard", country: "Verified traveller review", rating: 5, date: "2026-02-16", text: "het was een lange reis er naar toe. maar het was het wel waard. angrl eye is mooi en de grot en de waterval zijn indrukwekkend" }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-escape-cave-dining-sacred-pearl-show-and-onsen-springs-hanoi') {
+        return {
+            averageRating: 4.76,
+            totalReviews: 7,
+            guideRating: 4.76,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Micah", country: "Verified traveller review", rating: 5, date: "2025-11-03", text: "From start to finish, everything was perfectly organized, and our guide Hannah made the entire day exceptional. She was warm, attentive, and full of fascinating stories about the places we visited. The Onsen Springs were the perfect way to unwind, peaceful, clean, and beautifully designed. The highlight of the day was the cave dining experience, which felt magical. Enjoying a meal surrounded by candlelight and limestone formations was something I’ll never forget. I can’t recommend Up Travel Vietnam and Hannah enough for anyone looking for a one-of-a-kind experience in Hanoi. This tour is a per" },
+                { author: "Angelique", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Super journée de bien être !!! Merciii on recommande !" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-02", text: "Très bonne excursion. Un spectacle très sympa et le repas était très bon. Nous sommes arrivés en avance et avons été très bien accueilli à la réception avec un thé de bienvenue, merci également aux serveurs. Nous avons passé une très bonne après-midi au village Onsen. Une très bonne journée détente" },
+                { author: "Masafumi", country: "Verified traveller review", rating: 3, date: "2026-02-01", text: "I wanted to go to Yoko Onsen, so I took the tour. However, the hot spring was optional, so I didn't sign up and it didn't accomplish the purpose of my trip. On the other hand, the restaurant service and experience were good. I gave it 3 stars, trusting that they will change the tour title to something more appropriate and revise the contents included in the tour." },
+                { author: "Margaux", country: "Verified traveller review", rating: 5, date: "2025-11-28", text: "Je recommande vivement pour une journée détente ! Pour l'option massage ce n' est pas forcément nécessaire car ce n'était pas le meilleur massage et ça prend du temps sur le moment dans les bains chauds. Les repas étaient délicieux et le spectacle le midi était si magnifique que j'étais émue. Attention au trajet car il faut 3h depuis Hanoï et on arrive en avance a la grotte, donc prenez de quoi vous occuper !" }
+            ]
+        };
+    }
+
+    if (slug === 'ninh-binh-trang-an-mua-cave-and-bai-dinh-pagoda') {
+        return {
+            averageRating: 4.79,
+            totalReviews: 1455,
+            guideRating: 4.81,
+            valueRating: 4.75,
+            reviews: [
+                { author: "Evan", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "I enjoyed the river boat ride the best. Our guide Long was incredibly knowledgeable and friendly. The transportation was fantastic as well back and forth" },
+                { author: "Kathrina", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "We had a great time seeing all the sights we went to. Our guide was so accomodating to us. We had a wonderful time visiting Ninh Binh, Bai Dinh Pagoda and Mua Cave. The beautiful mountain scenery, and peaceful atmosphere made the trip a refreshing escape from the busy city." },
+                { author: "Carolina", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "We had a fantastic time on this tour. Everything was well organized, and the team made the experience truly memorable. Thank you!" },
+                { author: "Jacklyn", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "This was an amazing day. I have to admit I was on the fence about going because I was exhausted from travel but I am SO glad I did. All of the sites were absolutely incredible and awe inspiring and Kane was the most amazing, knowledgeable, and personable guide, he made the day so expedient, interesting, and fun. Highly recommend, and extreme bargain for the price. Must do for your trip to Hanoi. 100/10!!" },
+                { author: "Oleksandr", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "An unforgettable day in Ninh Binh! The majestic nature of Trang An is simply breathtaking 😍 This was an amazing and well-organized excursion. Even the rainy weather didn't ruin the day, adding a mystical charm to the mountains. Bai Dinh Pagoda truly impressed me with its grand scale, beautiful architecture, and peaceful atmosphere. But the absolute highlight was Trang An. The entire sightseeing experience was from a boat, allowing us to get up close to this incredible beauty. Floating past stunning pagodas standing right on the water, surrounded by giant karst cliffs, felt like a fairy tale. N" },
+                { author: "Cecilie", country: "Verified traveller review", rating: 5, date: "2026-07-09", text: "Mike was very helpful and informative. Thank toy Khanh for arranging this tour with us." },
+                { author: "Ricardo", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "It was an amazing day trip to Ninh Binh, Hoàng Long was extremely friendly, provided a great experience, was respectful and gave us a lot of great information about the traditions and culture of Vietnam during the home trip. Enjoyed very much our day!! Got to see spectacular places and learned a lot!!!" },
+                { author: "Christina", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Our guide Mike, was very kind, attentive and knowledgeable and really made the day trip wonderful! The tour was well organized, shout out to Elise, and the day went as expected. We chose to do the VIP small group tour which i thought was a good size." },
+                { author: "Chivonne", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "My day trip was so full but so great. Long was the best guide. I was upgraded to a private transfer which I appreciated immensely & as a solo traveller Long took care of me everywhere. So patient… The communication was excellent by the tour company I would highly recommend using this tour company to visit Ninh Binh." },
+                { author: "Daksha", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "The trip was very good. well planned. the transportation was very comfortable. overall a very good trip and very well coordinated by the tour company" },
+                { author: "Giovanni", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Our tour was amazing, our guide Martin was super knowledgeable and gave us information at each place we visited. He made the whole group feel together and socialised with each other. Transportation was really good and comfortable for all the driving we did. Would recommend booking this tour!" },
+                { author: "Anji", country: "Verified traveller review", rating: 5, date: "2026-06-11", text: "We had a wonderful day with or incredible tour guide Long. It was super helpful to be shown around by someone who could give us all of the background information and history to help us fully understand and appreciate what we were seeing. Long was incredible and we would highly recommend." }
+            ]
+        };
+    }
+
+    if (slug === 'half-day-hanoi-foodie-tour-by-motorbike-hanoi') {
+        return {
+            averageRating: 4.93,
+            totalReviews: 98,
+            guideRating: 4.92,
+            valueRating: 4.81,
+            reviews: [
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2026-06-03", text: "Paul, Finn, and Cya was amazing! My husband, daughter, and I had a wonderful time. Our guides knew so much history of the places we visited. They also knew how to maneuver their scooters around the very congested Old Quarter area, which made us feel very safe. The food was great at the stops we made. We also were able to experience train street as the train passed by within inches of our feet. I would highly recommend this tour for anyone wanting a Vietnam experience. Hopefully you’re lucky enough to get Paul, Finn, and/or Cya." },
+                { author: "Brian", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Finn is an outstanding guide - friendly, knowledgeable, safe driver, highest recommendation. Good tour, food was delicious." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "Walter was filled to the brim with history and knowledge of Vietnamese culture. Seeing the sites in Hanoi were beautiful but his insight added so greatly to the experience. Every food stop was delicious and just the right amount, come hungry and you will be happy." },
+                { author: "Renee", country: "Verified traveller review", rating: 5, date: "2026-03-27", text: "This tour was such an Incredible way to see the city! Mac was my tour guide and he was so thoughtful with little things such as getting on the bike and making sure I felt comfortable. He brought me to places I’ve never heard about. His understanding and knowledge of vietnams history was very impressive. The food shops felt authentic and I was able to try things I’ve never had before. Would 10/10 recommend! Thanks so much for making my night, Mac!" },
+                { author: "Ben", country: "Verified traveller review", rating: 5, date: "2026-03-20", text: "Had so much fun driving around old town with Brian and V. Even though the traffic was crazy they managed to keep us both safe. They were easy to understand and explained all the food and historic sites. Felt like we were hanging out with friends for a few hours!" },
+                { author: "Kent", country: "Verified traveller review", rating: 5, date: "2026-03-16", text: "We had a really fun time with Long and Ryan. Gave good insights and took us to places we wouldn't have ventured without the guidance. The stops were fun and intentional, the context provided was insightful and not overly done. We are very happy we did this." },
+                { author: "Paige", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "We had a great experience on our Food Tour today with Flora & Joy! They were very knowledgeable, friendly & great drivers. This tour had the perfect amount of food, and great variety of food. We also got great seats to watch a train go by at train st!" },
+                { author: "Tomasz", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Everything was absolutely perfect. Our guides Finn and Mac was awesome (very good drivers, good knowledge about Hanoi, great sense of humour). We'd try delicious food and listening interesting stories about them. We had a fantastic time." },
+                { author: "Christine", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "We really loved our guides, Liam and LeLe. They were really helpful with my blind partner. They were informative, entertaining and funny. We had a fabulous time and loved the food. Xx" },
+                { author: "Jamie-Paul", country: "Verified traveller review", rating: 5, date: "2025-11-22", text: "Tom is a little legend. If you are apprehensive about jumping on the back of a bike, Tom is your guy. He’s natural confidence is matched with amazing situational awareness and which meant I never felt even the slightest concern in the busiest of traffic. A natural conversationalist, you start with a guide and leave with a friend. His English proficiency is next level, so friendly and humorous you can’t help but have a great time. No need to keep browsing tours, if you want a back of bike experience in Hanoi look no further than this tour." },
+                { author: "Thainá", country: "Verified traveller review", rating: 5, date: "2025-11-19", text: "Walter was my guide for the motorcycle food tour and it was a great experience. He is very knowledgeable and passionate about history. He took me to the pagoda and literature temple. We started the tour with a delicious breakfast and finished with the lunch and the famous egg coffee. It was amazing navigating the chaotic stress of Hanoi with sick a skilled rider! He was also the best tour-rider-photographer!!!! I would do the tour again and again to see diferente places each time!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2025-10-03", text: "The tour was amazing. Walter is the best guide any traveller could ask for. He gave me options between seeing the cultural side of Hanoi or the historical side. He is one of the best scooter drivers I’ve seen and can navigate the city extremely well. The facts ranged from the deep history of Maison Centrale to the past kings and burial rituals. He showed me the best places to get bánh mì and dry pho. He brought a positive energy from the very start of the tour and was able to answer all of my questions about Hanoi’s history and culture. I’m so glad I book this tour and couldn’t have had a bett" }
+            ]
+        };
+    }
+
+    if (slug === 'old-quarter-vegetarian-food-tour-in-hanoi') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 142,
+            guideRating: 4.95,
+            valueRating: 4.72,
+            reviews: [
+                { author: "Nguyen", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Unforgettable Culinary Experience in Hanoi with Penelope! ⭐⭐⭐⭐⭐ Joining this street food tour was easily one of the highlights of our trip to Hanoi! From start to finish, everything was perfectly organized, and the food was absolutely incredible. A special shoutout to our amazing guide, Penelope, who took exceptional care of us throughout the entire tour. She was so warm, attentive, and genuinely sweet, making sure everyone felt comfortable and well-fed. Beyond just feeding us amazing local dishes, Penelope was a wealth of knowledge—she shared fascinating insights into Vietnamese food culture," },
+                { author: "Selen", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "Finn was a fantastic tour guide, really knowledgeable. Not only did we eat LOTS of incredible food but we learnt about Hanoi’s history and culture. Highly recommend taking this tour if you’re a veggie! We realised we can eat more than we thought we’d be able to in Vietnam." },
+                { author: "Wesley", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Excellent tour!! Our guide Noe was amazing! Had a really great time trying all the foods and listening to her telling us about her city and the food. She was very gentle and kind! Would highly recommend this tour. Ended on train street to see the train pass by. I would recommend coming with an empty stomach." },
+                { author: "Mira", country: "Verified traveller review", rating: 5, date: "2026-07-20", text: "Liam was an amazing guide. He was very knowledgeable about Vietnam and we learned so much from him. It was also a great way to start our trip as vegetarians!" },
+                { author: "Colin", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "We could not have enjoyed this tour more. Our guide Finn was particularly excellent. The food, the train street experience and getting to know more about every day life in Hanoi through Finn was just exceptional. We completed this tour early in our 3 week trip and I know the knowledge we have gained from it will be so helpful to us going forward." },
+                { author: "K", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "Really good tour. Ate loads of delicious food. Was a great introduction to Vietnamese vegetarian food. It gave us the confidence to try lots of things. Anya was really fun and informative. Would definitely do another tour. We did not need any dinner after. Was great to finish on train street." },
+                { author: "Jay", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "Liam was a great guide. I had a private tour and it was on a scooter. He tailored the tour to what I wanted to try and was very knowledgeable about how the food was prepared. He even gave me tips on the other Vietnamese cities I plan to visit." },
+                { author: "Clare", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Brian was an absolute delight!! So knowledgeable and passionate about Vietnamese food, history, and culture. We learnt a lot and had some amazing food :) thanks Brian!!!" },
+                { author: "Warren", country: "Verified traveller review", rating: 5, date: "2026-04-07", text: "We really enjoyed our tour with Rose. The food was great and Rose gave us some interesting context to each dish. A great introduction to the food of Hanoi" },
+                { author: "Felipe", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "Rose did an amazing job showing us the excellent vegetarian dishes of Hanoi. Highly recommend!" },
+                { author: "Cyrah", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "Amazing! Rose explained clearly the stories & culture! enjoyed her company & tour! really recommended! worth it!" },
+                { author: "Tracy", country: "Verified traveller review", rating: 5, date: "2026-03-27", text: "my guide, S, was so knowledgable with near perfect English. I was the only 1 on the tour, so we got to talk about all kinds of things. I enjoyed walking the streets of the old quarter, Hanoi and stopping in at local cafes and secret restaurants to eat local yummy foods, dessert and coffee. I would recommend this tour for vegetarians/vegans to become familiar with what's on offer in Vietnam, besides Bahn Mi and Pho. The Mango sticky rice with pandan was my absolute favourite." }
+            ]
+        };
+    }
+
+    if (slug === 'ha-giang-loop-unesco-meals-motorbike-swim-waterfall-3-days') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 11,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Bror", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Great journey and lovely views. Highly recommend anyone to go if you like mountains and dramatic viewpoints. I had an amazing driver, Luong, and an amazing tour guide, Tuan, who made the experience better than I ever could have imagined!" },
+                { author: "Yaelle", country: "Verified traveller review", rating: 5, date: "2026-07-14", text: "We had a wonderful three days and two nights with our guide and our drivers! The itinerary was very well organized and gave us plenty of time to fully enjoy every beautiful place where we stopped. The meals and accommodations were excellent. We met some amazing people along the way, and we’re leaving with wonderful memories and complete satisfaction from this experience. Thank you for everything! We highly recommend this trip!" },
+                { author: "Niall", country: "Verified traveller review", rating: 5, date: "2025-11-24", text: "Very good tour. Service was amazing. Highly recommend." },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2023-01-10", text: "Though but so rewarding. Very beautiful place to visit. Guides very helpfull and cheerful. Felt Safe. If you look for adventure. this is the tour for you!" },
+                { author: "Emmie", country: "Verified traveller review", rating: 5, date: "2022-11-20", text: "Not sure why there aren’t any reviews on this activity. We just returned from a 3 days/3 nights (the trip begins 1 night prior to your motorbike riding day), we all had a blast. Those that couldn’t drive a motorbike or is uncomfortable, are able to get an easy rider. Our riders were very experienced and not one moment did we feel unsafe. The sceneries were beyond descriptions. You just have to be there to witness its natural beauty and local people. Lots of winding loops and even bumpy moments due to street repairs and rough conditions. Food and accommodations can improve but if you can set th" },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2023-05-05", text: "It was fun and amazing view around every corner" },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2023-04-30", text: "Die Tour war einfach perfekt und eins der besten Dinge die wir bisher überhaupt gemacht haben! Die Aussichten sind der absolute Wahnsinn und wir haben uns auch in den Unterkünften sehr wohl gefühlt. Ich persönlich hatte tatsächlich großen Respekt vor dem Motorradfahren aber ich konnte meinem Fahrer zu 100% vertrauen, auch in den teilweise sehr steinigen Etappen. Er hat das wirklich super gemacht und ich hatte immer das Gefühl das die Sicherheit beim Fahrstil an erster Stelle steht. Was wir ein bisschen schade fanden war das wir uns mit unseren Fahrern leider nicht wirklich unterhalten konnten" },
+                { author: "Sibylle", country: "Verified traveller review", rating: 5, date: "2023-02-13", text: "Nimm Fahrradhosen mit, damit du nach 3 Tagen auf dem Motorrad nicht Wund bist... Eine GoPro oder andere Kamera wo du auf dem Motorrad Fotos machen kannst sind von Vorteil. Du kannst es aber auch einfach nur geniessen. Def. Eine von den besten Touren die ich gemacht habe!" }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-vintage-vespa-city-tours-hanoi') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 22,
+            guideRating: 4.78,
+            valueRating: 4.56,
+            reviews: [
+                { author: "Dana", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "I was surprised by have 2 different drinks plus lunch on top of having an amazing site seeing around the French Quater and Old Town. Andy was exceptionally knowledgeable about the history and areas around Hanoi. Would highly recommend to other travellers who want to experience a moped ride around Hanoi. plenty of photo opportunities and time at each stop." },
+                { author: "Amelia", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Absolutely fabulous. exceeded my expectations. I was lucky enough to book on a day where noone else booked so I had a private tour. My guide, Nathan, tailored the tour to my interests. Nathan is also an avid photographer and kindly offered to take photos of me which was awesome so I'm traveling alone. He speaks excellent English and was able to give me lots of interesting info. highly recommend!" },
+                { author: "Chad", country: "Verified traveller review", rating: 5, date: "2025-11-22", text: "Khoi and his partner were excellent guides. Super informative and we always felt safe on the Vespas scootin’ around town. Definitely recommend to others who want to get a feel for Hanoi with great inside info on the City and life in Hanoi." },
+                { author: "Chaz", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "Liddy great fun, loved the bike rides. Did a tour of west lake, loved riding through the bonkers traffic. Would definitely do again Cheers" },
+                { author: "Diane", country: "Verified traveller review", rating: 5, date: "2025-09-19", text: "Fantastic experience..a must if you are visiting Hanoi xo" },
+                { author: "Janice", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "My wife, sister, brother-in-law, and I had an unforgettable time with Hanoi Vespa City Tours. Led by the amazing guide “T” and three skilled drivers, we explored Hanoi on vintage Vespas, weaving through bustling streets with ease. T’s passion and knowledge brought landmarks like Ho Chi Minh Mausoleum and the Temple of Literature to life, while hidden markets and cozy coffee shops offered authentic local vibes. The food was a highlight—phở, bánh mì, and bún chả were divine, with T explaining each dish’s cultural roots. The team’s warmth, humor, and care made us feel like family, ensuring safety" },
+                { author: "Julih", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "Its was a great ride, the drivers were so polite and the tour guide Tien was awesome and knowledgeable about historical facts. I recommend them 5 stars." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2025-03-05", text: "Brilliant, we saw parts of back street Hanoi that we would never have found ourselves. Tour guide really good thoroughly enjoyed it." },
+                { author: "Marcelo", country: "Verified traveller review", rating: 5, date: "2025-01-04", text: "Andy was very friendly and available to answer all of my questions. I was the only one during that slot and it was great to get to know not only Hanoi via a Vespa, but also through the eyes and experiences of a local. Would recommend to anyone. Careful driving as well" },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2024-06-01", text: "Great overview of Hanoi and so much fun to explore the city on motorbikes. Loved hearing about the city and seeing all the sites. A highlight was having egg beer on Train Street! The tour guide, Nathan, and the drivers we had were excellent. We felt very comfortable and safe throughout the entire tour. Great tour! Excellent experience!" },
+                { author: "Monique", country: "Verified traveller review", rating: 4, date: "2026-07-28", text: "We had a fantastic Vespa tour through Hanoi and can highly recommend it. The tour was well organised and gave us a great mix of famous landmarks, hidden streets, local neighbourhoods and delicious food. Riding through the city on the back of a Vespa is an experience in itself and a wonderful way to discover Hanoi from a different perspective. Our guide was enthusiastic, friendly and spoke excellent English. During lunch we had the opportunity to talk about life in Vietnam, his studies and his ambitions, which added a personal touch to an already great experience. If you want to experience Hano" },
+                { author: "Tracey", country: "Verified traveller review", rating: 4, date: "2025-12-17", text: "Andy our guide and colleague were amazing! Very cheerful and polite. It was an experience riding a scooter in Hanoi’s traffic. I’d definitely recommend the tour for when you arrive as we would not have managed to see what we did if we had not booked the tour. 4/5 only because language barrier with my driver…unable to ask/answer questions. Andy, however, very knowledgeable and helpful recommending places to visit for food/drink/history. 😃" }
+            ]
+        };
+    }
+
+    if (slug === 'guided-half-day-city-highlights-tour-with-transfers-in-hanoi') {
+        return {
+            averageRating: 4.81,
+            totalReviews: 448,
+            guideRating: 4.91,
+            valueRating: 4.7,
+            reviews: [
+                { author: "Ericka", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "Had an awesome experience, Oliver and Mr Vien (our driver) were very hospitable. My favourite place was the temple, learning the history of the monks. I’m very glad we chose to do this tour." },
+                { author: "Patroklos", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "Justin knew a lot of things about the local culture and gave us a lot of information. He was polite and patient. Thank you!" },
+                { author: "Brian", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "Tour guide Hang took me to places i havent been during my full day city tour. Thuong was her partner who took care of bikes parking. They made up a great partnership that makes my bike tour enjoyable." },
+                { author: "ANDREW", country: "Verified traveller review", rating: 5, date: "2026-06-29", text: "Thank you Mac for the super friendly and informative tour. Mac guided us perfectly through the must see spots of Hanoi and gave valuable insight in culture and history. The last row in the bus unfortunately has high seats which don’t offer good view through the windows while driving." },
+                { author: "Renee", country: "Verified traveller review", rating: 5, date: "2026-05-30", text: "Excellent half day tour with a lovely air conditioned van to retreat to, in between attractions. We covered more sights and places with the half day tour than we could of on our own in a full day." },
+                { author: "Catarina", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "Thank you Sophia !! We had a an amazing time !! You are an amazing story teller, we learned so much about Viet history. We had the full day City tour, the restaurant for lunch was also quite nice !" },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "K was our guide and he was Brilliant. really knowledgeable and funny and was happy to answer our questions and made jokes with us. one of the best guides weve had in Vietnam. the tour was well thought out and overall we had a fab day." },
+                { author: "peter", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "Great day trip. Not too long. Awesome coffee to try at the end. No other coffees I tried in Hanoi matched it." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "A very well guided tour by Quinn who communicated well in advance and was informative and friendly as we travelled around the sights. Would recommend as an introduction to Hanoi." },
+                { author: "Aneek", country: "Verified traveller review", rating: 5, date: "2026-04-05", text: "Throughly enjoyed our private tour of the city. Our guide Paul, was very fluent in English, extremely knowledgeable, polite, prompt, courteous, friendly, cheeky with a good sense of humor. Our tour was tailored to suit us. If you are traveling Hanoi for the first time or if you have been before but haven’t done a tour, I can’t recommend highly enough to take this tour. We always believed in learning about history and culture of the country we visit, and this was a great way of doing that!.. when you book make sure to request PAUL, you won’t be disappointed." },
+                { author: "Matea", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "Andrew was the perfect guide, explaining the history at each stop. He was attentive to my walking challenges and chose routes with the least steps. With the help of our driver, Tien, it was the perfect intriduction to Hanoi." },
+                { author: "Rebekkah", country: "Verified traveller review", rating: 5, date: "2026-03-03", text: "Thomas was a good guide, very knowledgeable and friendly. The morning tour had a bit less crowds than I think the afternoon one would. I think it's a good length of time to let you do other activities afterwards. I enjoyed visiting the temple of literature and the Pagoda the most." }
+            ]
+        };
+    }
+
+    if (slug === 'hanoi-motorbike-countryside-tour-hanoi') {
+        return {
+            averageRating: 4.94,
+            totalReviews: 66,
+            guideRating: 4.96,
+            valueRating: 4.94,
+            reviews: [
+                { author: "Molly", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Tee and Ann were absolutely wonderful guides! They were so knowledgeable, warm, and genuinely welcoming. The motorbike tour through the Vietnamese countryside was an incredible experience! Not only did we learn so much about Vietnamese culture, history, and everyday life, but it felt like we were simply spending the day exploring with friends. Their stories, humor, and personal insights made everything come alive, and their warmth made us feel completely at ease. We came away with a much deeper appreciation for Vietnam and some wonderful memories. We highly recommend this experience!" },
+                { author: "Evita", country: "Verified traveller review", rating: 5, date: "2026-04-28", text: "This tour was full of surprises and Mark, my tour guide, made my day absolutely unforgettable! He was great company and told many interesting facts. I was also surprised by all the extras included. It was a fantastic tour! Highly recommend ❤️" },
+                { author: "Emily", country: "Verified traveller review", rating: 5, date: "2026-04-21", text: "A life changing tour! It was absolutely amazing & Minh was the best tour guide. So knowledgeable & friendly. I had the best time & felt very safe." },
+                { author: "Nicole", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Fabulous tour! Nathan was our guide and was the best! Friendly, informative and very helpful in every way! Great team of riders looked after us beautifully. Recommend highly!!!" },
+                { author: "Brian", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "I really enjoyed getting out of the \"City\" and learning about life on the other side of the river. Tee is a wonderful guide, highly recommended. Thank you, Tee, for your professionalism, friendship and knowledge today during our tour." },
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-04-11", text: "It was great to get out of Hanoi to see the surrounding country area. We learnt so much from Khoi and had a great time." },
+                { author: "Lizzie", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "This tour was a great way to see a different side to Hanoi. The guides were really lovely, Mark, Davidd, Phu and An were all amazing! All the stops were really interesting and having some local food at the end was an added bonus!" },
+                { author: "Tadatomo", country: "Verified traveller review", rating: 5, date: "2026-02-16", text: "The motorbike tour around Hanoi was one of the best experiences of my trip! On my own, I would probably have only seen the city centre, but thanks to my guide, I was able to visit the countryside, local houses and temples outside the busy city. At first, I was a little worried about riding on a motorbike, but my guide drove very safely and was always careful, so I felt completely comfortable. He knows a lot about Vietnamese history and culture and is very friendly! If you visit Hanoi, I highly recommend joining this motorbike tour to see a different side of the city." },
+                { author: "Iuliia", country: "Verified traveller review", rating: 5, date: "2026-02-15", text: "This was my best tour around the outskirts of Hanoi. What made it so heartfelt and unforgettable was our guide, Andy. He is truly knowledgeable, passionate, polite, interesting, and cultured, and he shared with genuine enthusiasm the details of the culture and history that he loves himself. The tour felt more like visiting a very hospitable friend, and it transported me, soul and heart, into the calm and unhurried rhythm of rural life. Thank you again, Andy, for crossing my path. I am so happy to have met you." },
+                { author: "Mary", country: "Verified traveller review", rating: 5, date: "2026-02-07", text: "Everything perfect ! We loved every second of our motorbike trip around Hanoi and out into the countryside. Being right in amongst the streets and everyday life was such a joy, and it was wonderful to see local people going about their daily routines. We visited so many places and were constantly taking in the rice paddies, local towns, and the rich history of the area. Our two guides were exceptional — incredibly careful, knowledgeable, and informative. They spoke passionately about Vietnam’s history and were clearly so proud of their country, which made the experience even more special. The" },
+                { author: "Sheri", country: "Verified traveller review", rating: 5, date: "2026-01-31", text: "Tee was amazing. He showed me so much of the countryside and way of life. He was very professional." },
+                { author: "Katherine", country: "Verified traveller review", rating: 5, date: "2026-01-31", text: "Nice to see life outside the city. Guides were so fun!" }
+            ]
+        };
+    }
+
+    if (slug === 'easy-rider-3-day-motorbike-tour-of-cao-bang-loop-in-hanoi') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 3,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Peta", country: "Verified traveller review", rating: 5, date: "2025-10-09", text: "The scenery is amazing. Each driver was so friendly and very safe. We went just after and before a typhoon and whilst it did rain on the last day it didnt dampen the experience. Highly recommend." },
+                { author: "Romain", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "le cadre est vraiment incroyable ! Merci a T et B qui nous ont guidés lors de ce tour. Ils étaient top et attentionnés. L'organisation du tour est super avec la prise en charge a l'hôtel. On a pu tester différents plats vraiment bons. On recommande." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "this was a great experience! i went with my sister and another solo traveler. they took us to many cool sights although i’ve seen some cool pictures from other people of places we did not go. our drivers were very nice and professional but did not socialize with us as much as we would’ve liked. we even had a personal photographer who made a tiktok of us. we preferred this over the ha giang loop because there were hardly any other groups on the road. overall a great experience i would recommend!" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-cruise-stay-at-ha-long-and-bai-tu-long-bay') {
+        return {
+            averageRating: 4.62,
+            totalReviews: 150,
+            guideRating: 4.82,
+            valueRating: 4.37,
+            reviews: [
+                { author: "Allie", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "The trip was great! Bai Tu Long Bay and Ha Long Bay are amazing! Amazing place to visit and soak in the nature. We did the 3 day 2 night cruise and this was just magical. Would recommend!" },
+                { author: "Shane", country: "Verified traveller review", rating: 5, date: "2026-03-15", text: "We were looking for a little more remote and peaceful Cruise, and this was it! Stunning towering karst, beautiful bays, amazing food, culture and kayaking. Also very nice accomodations. The entire experience was outstanding, I wouldn't hesitate to do this trip again. On the second day, you transfer to a slightly smaller boat, which can navigate the channels between the pinnacles better. It's a very comfortable boat, with a bar, yummy lunch and upper deck lounge/viewing platform. If you're looking for a more serene experience, beautiful landscapes, great food and lovely accommodations, look no" },
+                { author: "Jan", country: "Verified traveller review", rating: 5, date: "2026-01-26", text: "good mix of activities and downtime free tea/coffee would be nice (not just at breakfast)" },
+                { author: "Janina", country: "Verified traveller review", rating: 5, date: "2026-01-10", text: "It wad a great tour, good organization, Jessica (our tour guide ) had a great energy :) I can recommend it !" },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2025-12-18", text: "The staff and tour guides were excellent. we had Tony and Duc. Very positive vibe. The activities were great. Loved the kayaking, and visiting the Vlang Viet fishing village." },
+                { author: "Julia", country: "Verified traveller review", rating: 5, date: "2025-10-16", text: "We had such a fantastic Trip on our 2 Nights Cruise! I can 1000% recommend this trip and would advise everyone to book 2 nights (instead of 1) to get the best experience! Everything was excellently organized, communication was beyond expectations, our Tourguides (Mike, Sunday and Tony) did an amazing job and the staff on the cruise was exceptionally great! Everyone was so welcoming and everyone did an amazing job (special thanks also to Hana who checked in regularly on us)! Overall we had a brilliant experience, in a stunning & peaceful scenery (no crowded bays), perfect balance between activi" },
+                { author: "Karl", country: "Verified traveller review", rating: 5, date: "2025-09-13", text: "The views, the food and the friendly staff was great, 1st full day on the boat was not as great as we were transfered to a small day boat while the ship went back to port to pick up fresh passengers, still was not a bad day, loads of great scenery. overall a great experience." },
+                { author: "Carla", country: "Verified traveller review", rating: 5, date: "2025-08-23", text: "Kenny our guide during the cruise was fantastic, enthusiastic and with a great sense of humour. We loved the extra night and visiting the floating fishing village and kayaking in the less busy areas of the bay. It was just six of us versus the first day with the people only doing the one night cruise, it was carnage on the kayaks and not much of a journey like the second day. The staff were super friendly, the room was spacious and clean and the food was impressive for every meal ranging from 7 to 8 course meals. Fantastic experience. We just wished the bay was cleaner, there was so much rubbi" },
+                { author: "Pooya", country: "Verified traveller review", rating: 5, date: "2025-05-21", text: "It was very great and our Guide Toni just great! perfegt Englisch, kind, answered all our questions and made us feel so welcomed." },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2025-05-12", text: "From start to finish Renea travel the tour operator provided outstanding service.Excellent communication before the tour regarding meeting point for coach transportation to Ha Long Bay.Drivers very professional and helpful at all times.The 3 day 2 nights cruise was truly wonderful experience, our tour guide Vic was very helpful,informative and really made our cruise experience special.The crew on board service was polite,kind and very efficient.We really loved all the activities throughout our cruise and the food,wow!! amazing,5 star!! Hana in Remea travel has been superb in communicating at a" },
+                { author: "Hazel", country: "Verified traveller review", rating: 5, date: "2025-03-25", text: "lovely cruise to a quieter part of the bay. guide was friendly and informative. kayaking was nice but quite long distances, there was an option to ride on the tender instead. caves were great and the fishing village was a real highlight. the food was excellent and drinks reasonably priced. the room was cosy and comfortable." },
+                { author: "Josephine", country: "Verified traveller review", rating: 5, date: "2025-03-17", text: "Nice experience. Smaller more familiar boat and not as touristic as Halong bay." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ninh-binh-tour-with-ha-long-bay-cruise') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 95,
+            guideRating: 4.93,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Srikumar", country: "Verified traveller review", rating: 5, date: "2026-06-06", text: "ken was great fornHalong Bay Trip for Ninh Binh Jason and team was very very helpful" },
+                { author: "Omar", country: "Verified traveller review", rating: 5, date: "2026-05-28", text: "Amazing trip to Halong Bay! Our tour guide, Ken, was a great lad. You’ve just made our last day in Vietnam and on our honeymoon more amazing than we could have ever imagined. Very punctual and comfortable transportation. Highly recommended." },
+                { author: "Bengisu", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "I had an amazing experience with both the Ninh Binh and Ha Long Bay tours! Ninh Binh Tour: This was absolutely perfect. The natural beauty of the locations we visited was breathtaking. While all activities were enjoyable, the cycling tour was the highlight of my trip. it was so peaceful and scenic. The buffet lunch was delicious with many great options. One of the best parts was that it never felt overcrowded. Our guide, Mr Bean, was fantastic! He was so kind and guided us perfectly throughout the day. Ha Long Bay Tour: Also a very pleasant trip! The kayaking was an incredible experience. defi" },
+                { author: "Tanner", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "For our Ninh Binh tour, Ryan was an amazing guide! He was very personable and funny and so good at teaching us about the history and customs of Vietnam. The bike ride and hike up the mountain were also amazing, as well as the boat ride! For our Ha Long tour, Minh was such a patient and attentive guide. We had a large group and he was so good at organizing and attending to everyone’s needs. Very good vibes and a really good guide during our trip to the caves! Both trips were excellent and the perfect blend of activity and relaxing! 10/10 must do!" },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-03-23", text: "Trang was great and funny on our trip to Ninh Binh. Austin was also great with our trip to Ha Long Bay cruise. I definitely highly recommend both on this excursion. John" },
+                { author: "Amanda", country: "Verified traveller review", rating: 5, date: "2026-03-21", text: "Easy to book; prompt pick up and comfy coaches. Ninh Binh guide Lang was excellent; guided us gently through the day and the activities were excellent. Ha Long Bay guide Phong, also excellent made sure we got to our destinations on time and provided some great detail and information at each stop. Great value for money overall" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-03-12", text: "Our tour guide was Hoang (Alex) Hoang for the Ha Long Bay trip and he was awesome! Positive the whole time, excited to be helpful, really good at keeping track of everyone and making sure we were comfortable. If you can request jim specifically as a guide I would. Done a few tours and his positive attitude was refreshing." },
+                { author: "Gabriela", country: "Verified traveller review", rating: 5, date: "2026-03-10", text: "Our first day in ninh binh was very beautiful, good hikes, a lot of rich culture and history and the bike ride was amazing. Hope was a great tour guide. Very knowledgeable and funny Our day in ha long bay was great. Ken was a very kind and knowledgeable guide, besides de beautiful landscapes, he made the tour very enjoyable. I would highly recommend this tour to anyone considering it." },
+                { author: "May", country: "Verified traveller review", rating: 5, date: "2026-01-23", text: "My 1st l day trip to Ninh Binh was the absolute highlight of our time in Vietnam, thanks to our incredible guide, Mr. Lang and driver, I enjoyed every activities for the day. 2nd day to HaLong Bay was also unbelievably great. As it is a day cruise tour, I get to enjoy the scenery in most relaxing way. Our dragon king cruise super cool and the food is amazing. Our tour guide Mr Nam is very nice and fun, driver is also expert in driving." },
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2025-09-23", text: "I booked a one-day Ninh Binh tour during my Vietnam trip and it turned out to be one of the highlights of my journey. The scenery was absolutely breathtaking. Our guide leader was friendly and gave us just the right amount of information without rushing us. We cycled through small villages where locals waved and smiled. My favorite part was the Tam Coc boat ride: drifting along the river while a local rower paddled with her feet felt both peaceful and surreal. The schedule was full but never stressful. Lunch was a generous Vietnamese buffet with plenty of vegetarian options, and transportation" },
+                { author: "Mnu", country: "Verified traveller review", rating: 5, date: "2025-08-23", text: "Henry and Quy were really helpful. The tour was a total must see. The sights were beautiful and the landscapes amazing. I highly recommend do not miss them" },
+                { author: "Barbara", country: "Verified traveller review", rating: 5, date: "2025-08-22", text: "Day 1 with Tour Guide Quy in Ninh Binh was amazing! Quy is efficient, charismatic and so knowledgeable about Ninh Binh. Day 2 with Henry in Halong Bay was again efficient and we learned so much about the history of the area. A huge shout out to Henry for organising a drop off to the train station. Both tour guides are an asset to the tourism industry! Thank you both for sharing a bit of your culture and country with us!" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ninh-binh-ha-long-and-bai-tu-long-cruise-unesco') {
+        return {
+            averageRating: 4.53,
+            totalReviews: 58,
+            guideRating: 4.61,
+            valueRating: 4.33,
+            reviews: [
+                { author: "Ruma", country: "Verified traveller review", rating: 5, date: "2026-01-25", text: "Ha long bay and tour guide (Kong/Cong?) were amazing. Loved Ninh Binh but the tour guide was an hour late and the boat ride was too long - an hour was too long on the water and no time to explore that area. Besides that, we loved it overall." },
+                { author: "karthik", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "Overall, the activity was excellent. A special shout-out to the cruise experience, which truly stood out - with exceptional service, friendly staff, and delicious food that made it unforgettable" },
+                { author: "Katie", country: "Verified traveller review", rating: 5, date: "2026-01-06", text: "Our first day we went to Ninh Binh which was beautiful, trang a was amazing. The transport was a very comfortable bus and we stayed in a lovely bungalow hotel and they decorated our room as we were on our honeymoon. For Ninh Binh we had the lovely tour guide Peter who was very knowledgeable and helpful. After Ninh Binh, we thought the views couldn’t get better, but they did on the Bai Tu long cruise. From first arriving at the port we were greeted by Andy who stayed with us all throughout our stay on the cruise. he was lovely and went above and beyond for everyone on board and made the whole e" },
+                { author: "Lee", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "The programme was excellent and superbly managed by Travis. He got us good seats on the best side of the train. He was a fun guy and very professional. Even with his dirty jokes 😂😂😂" },
+                { author: "Gian", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "l'organizzazione è eccellente. Lee, la guida a Ninh Binh, ha fronteggiato abilmente una tempesta arrivata mentre eravamo sul fiume nelle barche, venendoci a recuperare e accompagnandoci in albergo (dato che eravamo fradici). stessa efficienza e puntualità durante la crociera, anche lì con programma modificato a causa del brutto tempo. Molto affidabili e assolutamente consigliati!! Sebbene col maltempo , escursioni imperdibili (e l'organizzazione molto attenta alle previsioni...)" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-07", text: "Exceptional! Must do. The buses were fine. Boat trip in Trang An was superb, great views of the natural beauty of the area. Riding through the carves was very cool. The cruise was just right. Sunday was a 6-star guide and host, making this a great experience. He provided just the right amount of information without being over the top. He is also a fine musician, treating us to a special performance on the monocord. Wow! Sunday is an outstanding guide. Interacting with him on our cruise felt like going along with a good friend! Happy hour and cooking class were fun, even better than we’d antici" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-05-16", text: "Overall the experience was great. I didn’t like the food on the cruise and the bus on the way back to hoi a was old and uncomfortable." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-05-12", text: "Really enjoyed Ninh Binh loved the temple and the rowing boats our accommodation was lovely although our meal could have been better quality. The cruise of Bai tu Bay was extremely enjoyable with stunning views" },
+                { author: "Ramiro", country: "Verified traveller review", rating: 5, date: "2026-05-11", text: "Awesome experience! Thanks" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-03-10", text: "Globally we enjoyed Dinh Binh & cruise. But it was pity that less time to enjoy more activities and see sights , and too much time spent in touristic shops. Return bus was not very confortable." },
+                { author: "Gustav", country: "Verified traveller review", rating: 3, date: "2026-03-08", text: "The activity involved a lot of walking and not suitable for a person with knee or hip problems, like one of our co-travellers. The boat that we were assigned to, did not match the pictures and felt more like a \"budget\" boat. However the crew on the boat was excellent and the food (we can not compare to other), was excellent. Squid fishing (with no success) and Thai Chi class in the morning, was quite fun." },
+                { author: "Serkan", country: "Verified traveller review", rating: 4, date: "2026-02-25", text: "Rehberlerin ilgisini çok beğendim. Ancak TET bayramı nedeniyle birçok aksaklık yaşandı." }
+            ]
+        };
+    }
+
+    if (slug === 'ninh-binh-ha-long-bay-5-star-cruise-3-day') {
+        return {
+            averageRating: 4.59,
+            totalReviews: 31,
+            guideRating: 4.9,
+            valueRating: 4.4,
+            reviews: [
+                { author: "Wayne", country: "Verified traveller review", rating: 5, date: "2024-03-15", text: "This was really 2 tours. Both were great. We enjoyed the Pagoda complex. We were there during Tet and the Trang An nature preserve was crazy busy with long lines (not the fault of the tour or guide). Despite this they still managed to get us to the Mua Cave and lookout. Long but great day. The Halong bay cruise was fun despite the overcast weather. Great accommodations and meals. We even caught a few squid!" },
+                { author: "Bartosz", country: "Verified traveller review", rating: 5, date: "2023-06-01", text: "It was a super exciting trip. Wonder full views and nature. Very well organised transportation and very helpful personnel. Maybe sometime it’s hard to communicate with drivers, but after all, not all people have to speak English. If you need to be on time for a diner or at the airport for your next flight book GET YOU GUIDE team for your trip. I have already recommended them to my friends for tour of Vietnam" },
+                { author: "Apoorva", country: "Verified traveller review", rating: 4, date: "2026-04-13", text: "Great experience! The cruise was great and the staff were super friendly and helpful. Only issue is that the areas we visited were all super crowded and it got a little rushed, so it wasn’t as relaxing off the boat. There’s also no wifi in the rooms - not a deal breaker but can be inconvenient." },
+                { author: "Kristina", country: "Verified traveller review", rating: 4, date: "2026-02-21", text: "As other comments says it was two separate tours. It means that first trip to Ninh Binh was with one group and another part was with another group in the cruise. The guides for both tours were amazing, the trip overall was nice, especially the food on cruise was amazing. For minuses, the transportation was very mixed. We were seated on the buses, taxi and etc. to reach the final destination. The strange thing was that there was no group for the whole 3 day trip and going back to Hanoi took very long :( we were waiting for the bus for about an hour :(" },
+                { author: "Rasa", country: "Verified traveller review", rating: 4, date: "2026-01-01", text: "The good: Ninh Binh - the tour was fabulous. Henry, our guide, was funny, patient and very knowledgeable. He made this tour fantastic. Ha Long Bay Cruise - fantastic service, great accommodation, the best service recieved on board and on the activities. The bad - the transport from our hotel in Ninh Binh to Ha Long Bay. Everyone else got on limousine buses by drivers with a list of passenger names. It was obvious after an hour of waiting that we were forgotten. When I reached out to the operator, we were told that the original transport broke down and a replacement was coming. All good if the" },
+                { author: "Emilie", country: "Verified traveller review", rating: 4, date: "2025-11-04", text: "The trip was fantastic — we really enjoyed Ninh Binh, even though the weather wasn’t great. Our guide, Leo, was brilliant. After the tour, we were dropped off at a lovely homestay where a wonderful feast had been prepared for us. The following morning, we were collected by a very comfortable limousine bus. However, the driver didn’t speak English, and about 20 minutes before reaching the port, we were unexpectedly asked to leave the bus and take a taxi to the port while the other passengers remained onboard. It was quite stressful and a bit strange, but thankfully we made it safely to the port" },
+                { author: "Shiau", country: "Verified traveller review", rating: 4, date: "2023-11-15", text: "The tour was coordinated by different agency whom partnered to run different excursions. For first day Ninh Binh excursion, my guide was Leo. A very enjoyable and alot of knowledge sharing contributed thoroughout the journey from Hanoi to Ninh Binh attractions- Bai Dinh, Trang An, Hang Mua(500 steps, pls bring hiking stick). I was sent to a homestay Tam Coc little River Bungalow for a night. Pleasant stay and wonderful dinner engagement. On my Ha Long Bay cruise, I was booked on Ha Long Aquamarine cruise which is quite luxurious. Meals are all taken care of except for drinks. Supplement of USD" },
+                { author: "John", country: "Verified traveller review", rating: 4, date: "2023-04-01", text: "Nice trip!! The cruise part was amazing, really worth it. Nice cabin, good food and organization. A little rushed, but not their fault since they want to squeeze as much as possible in 2 days. Ninh binh was nice also!!!" },
+                { author: "CHUAN-YU", country: "Verified traveller review", rating: 5, date: "2026-04-22", text: "這次郵輪是搭 Victory Star，感覺比上次另一艄船好很多。 可惜遇到印度人，體會到什麼叫做印度時間，其他旅客都是依規定的時間，提前或準時抵達，唯獨印度人，還慢慢悠閒的行動，他們對自己遲到，完全一點感覺都沒有，常常要等他們。" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-18", text: "Great! The best experienced." },
+                { author: "Piotr", country: "Verified traveller review", rating: 4, date: "2025-11-07", text: "Tak naprawdę były to dwie osobne wycieczki. Pierwszy dzień z przewodnikiem Jamesem był dobrze zorganizowany, odbiór, przejazd i sama wycieczka bez zarzutu. James dobrze mówił po angielsku i ciekawie opowiadał. Nocleg w dobrze utrzymanym miejscu. Kolacja złożona z lokalnych potraw i połączona z degustacją lokalnego trunku. Druga wycieczka, czyli przejazd do Hà Long i zaokrętowanie przebiegły początkowo w atmosferze chaosu. Razem z grupą z poprzedniego dnia wsiedliśmy do busa, jednak szybko zostaliśmy z niego wywołani i polecono nam wsiąść do innego pojazdu. Busa zmienialiśmy jeszcze dwa razy, p" },
+                { author: "Lourdes", country: "Verified traveller review", rating: 5, date: "2024-04-01", text: "siempre fueron muy puntuales y cordiales el alojamiento como el crucero es divino!! no podríamos estar más contentas, la atención de todos brindada por teléfono y en persona no podría ser mejor. realmente si tenes ganas de hacer el crucero, no hay mejor recomendación para darte." }
+            ]
+        };
+    }
+
+    if (slug === '3-day-2-night-halong-bai-tu-long-bay-5-star-cruise') {
+        return {
+            averageRating: 4.93,
+            totalReviews: 24,
+            guideRating: 5.0,
+            valueRating: 4.25,
+            reviews: [
+                { author: "Emmy", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "We received a complimentary upgrade to the orient legacy as our boat was undergoing maintenance. It meant that we saw Han la bay rather than Bai tu long but that was ok. The pick up was in a lovely bus, very comfortable, checkin was easy and Jenny was there to help us with any questions. Room was beautiful, clean and had everything we needed. Food selection was amazing, so much delicious food, and plenty of options for those with dietary requests. Rosie was wonderful, she was very helpful throughout the trip, any issues that raised Rosie was there to handle them. Had fun kayaking, and were luc" },
+                { author: "Kenna", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "Can’t recommend this enough! Great trip. 10/10 Morning, our tour guide, was awesome." },
+                { author: "Mariska", country: "Verified traveller review", rating: 5, date: "2024-05-04", text: "Cruise was great! Jessica was always checking in via WhatsApp if everything was going well. Our cruise director Mr. Morning was great! It was a relaxing time aboard. Very nice views, lounging around. Nice visit to a floating village and kayaking on the second day. Also saw two caves. Food was great too. Cannot recommend it enough. Definitely opt for the 3 day one. If you do two days, you only get two half days aboard basically. It's great to have that extra full day doing activities and just completely relaxing with a cocktail." },
+                { author: "victor", country: "Verified traveller review", rating: 5, date: "2023-09-06", text: "Very good experience. Staff is helpful and very kind. Boats are pleasent and taken care for. Food is great and abundant. Scenary is fantastic. Much recommended." },
+                { author: "Sandra", country: "Verified traveller review", rating: 5, date: "2023-08-13", text: "hello! They have been some incredible days, everything has been spectacular, the service is wonderful, the room too. The food was delicious and yesterday with the guide was perfect. I am very happy to have chosen this experience with you. thanks a lot ! ￼" },
+                { author: "Alex", country: "Verified traveller review", rating: 4, date: "2024-12-01", text: "The tour was generally great. The food was mostly excellent barring a few blips, and the trips off the boat were excellent. Room was very large and comfortable. There was a bit of itinerary confusion on the second day, but this didn't really impact. Main gripe would be the 30 minute \"rest stop\" on the 3 hour bus from Hanoi. The stop is only 30 minutes away from the port, and using the bathroom means you are forced to walk through a massive pearl shop, then hang around for ages." },
+                { author: "Serge", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "la qualité de la plage avec ses déchets laisse a désirer" },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2026-02-08", text: "Super flot og en must hvis du er i Hanoi-området." },
+                { author: "Frank", country: "Verified traveller review", rating: 5, date: "2025-10-17", text: "Fantastische Landschaft, die man nur vom Boot aus erleben kann. komfortable Unterbringung, gutes Essen und sehr freundliches Personal. Die Aktivitäten sind schön, wobei ich mir persönlich gerne längere Kajakzeiten und ein bisschen mehr Schwimmmöglichkeiten wünschen würde." },
+                { author: "Tobias", country: "Verified traveller review", rating: 5, date: "2024-11-20", text: "Die gesamte Planung ist sehr straff durchorganisiert, um möglichst viel unterzubringen, und funktioniert sehr gut. Hierdurch kann es schonmal hektisch werden, man hat jedoch jederzeit die Möglichkeit, sich zurückzuziehen und herauszunehmen. Hunger und Durst haben keine Chance, da das Personal jederzeit zur Verfügung steht und man am Tag mindestens drei sehr ausgiebige (und leckere!!) Essen serviert bekommt. Die Preise für die Getränke liegen auf dem Schiff deutlich über jenen auf dem Festland, sind aber definitiv im Rahmen. Wir haben zwei Nächte gebucht und damit zu der Ausnahme gezählt (die m" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-11-11", text: "Everything was fantastic! The food taste and presentation was great. The activities were awesome. The atmosphere was welcoming and the staff was friendly and accommodating. I love that this lication wasn't overcrowded and the peacefulness of the area was indescribable. Great trip!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-01-09", text: "Staff and customer service 5⭐️. Boat, pretty and the rooms were spacious and clean, not quite as spacious as the pictures. Hot water was practically radioactive and the cold would cut out with no warning creating a dangerous shower/bath. Activities were sparse- long list on the description actually is mostly drive-by with no attention drawn to it. Visit a fishing village- we just kayaked past, no visiting or interaction. Cooking class- just put out a bunch of ingredients and let me make a rice paper roll, same activity the next night but we’ll deep fry. Lots of ‘relax time’ code for we don’t h" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-long-lan-ha-bay-cruise-with-private-balcony') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 213,
+            guideRating: 4.93,
+            valueRating: 4.78,
+            reviews: [
+                { author: "Youssef", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "From the moment we stepped on Orient Legacy, the entire crew went above and beyond to make our journey memorable. Their professionalism, warmth, and genuine care were evident in every interaction. I want to give a very special mention to Nam, one of the servers, who truly made our trip unforgettable. His outstanding service, thoughtful guidance, and willingness to share helpful information made every meal and every moment more enjoyable. Nam’s kindness and hospitality never wavered — he was attentive, warm, and always went the extra mile to make sure we felt welcome and taken care of. Thank yo" },
+                { author: "Giulia", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "looks exactly like the pictures. the staff is so nice. i felt very comfortable as a solo traveler!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Good trip, that was exactly what we expected! Would recommend ! Thanks to the crew for the experience" },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "The experience and staff were outstanding. Everyone so polite and helpful" },
+                { author: "Rachel", country: "Verified traveller review", rating: 5, date: "2026-07-24", text: "An amazing cruise, we stayed for 3 days and 2 nights and could not recommend this more. Staying for an extra night made the experience fully worthwhile, and we could explore so much of Ha Long Bay. The cruise was comfortable and had incredible staff always attending to our every need. The food on the first day was interesting, however it improved a lot on the second and third day!" },
+                { author: "Lucas", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "Lam was great! She was extremely kind and a fantastic server that made my trip better than I could have asked for!" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-07-11", text: "This 2 night cruise was incredible. Definitely do this over the one night cruise, the two night is so much better. But what REALLY made our cruise special was Lam. Lam was kind to us from the moment we stepped on board. She made a special birthday plate for me and made us feel welcomed at every meal. She made the cruise unforgettable!" },
+                { author: "Sage", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "This cruise was fantastic, my partner and I stayed for 2 nights, and had an amazing time. Activities were fun, and food was great. Ms Lam, gave us the most amazing service, she was attentive and professional, we loved getting to know her and couldn’t recommend her enough. Thank-you!" },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-05-27", text: "Halong Bay was stunning and the cruise a truly relaxing experience. The boat (La Casta Regal) was well presented, the staff were friendly and attentive, and the food plentiful. The transfers from Hanoi were a mixed experience, but nonetheless efficient and well orchestrated with the cruise. Would definitely recommend this option over the 2D1N option which looked a bit rushed." },
+                { author: "Eliza", country: "Verified traveller review", rating: 5, date: "2026-05-09", text: "Excellent experience on board. Services were exceptional and staff were beyond attentive. Would definitely recommended the 3D2N if possible. 10/10" },
+                { author: "Carolanne", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "Thanks a lot to Ms. Lam that made our Time on the Cruise really amazing!! 😍❤️" },
+                { author: "Nathan", country: "Verified traveller review", rating: 5, date: "2026-04-24", text: "The cruise was 5☆ from start to finish. Lam is a real credit to the crew - she went above and beyond to make sure we had the most amazing time. Absolutely star!" }
+            ]
+        };
+    }
+
+    if (slug === '3-days-ninh-binh-ha-long-and-lan-ha-bay-5-star-cruise') {
+        return {
+            averageRating: 4.76,
+            totalReviews: 2095,
+            guideRating: 4.83,
+            valueRating: 4.68,
+            reviews: [
+                { author: "Sara", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "The tour of Ninh Binh was incredible, really enjoyable activities and very informative. Ninh Binh tour was made even better by our guide Timber. The Ha Long Bay Cruise was exceptional. The hospitality was second to none and the available activities on and off the ship were very fun and engaging!" },
+                { author: "Eduardo", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Excellent experience! Le Dong, Cindy and all the staff at La Casta Cruise were amazing. Highly recommended!" },
+                { author: "ELIZABETH", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "We absolutely loved this trip! The staff, the cruise, and the bay itself were all incredible. 10/10 worth it." },
+                { author: "Linn", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "I did this trip with my friends and we were so amazed by the amount of activities and how good this was organized. We never did a cruise but it was more than worth it. The pictures we took and the things we saw wow! Only thing was that the dinner that was not included was a little much in our eyes. $12 for a few plates, but it was mandatory. Wished we said we wanted to eat somewhere else. Next to that, omg that cruise. It was amazing." },
+                { author: "Spencer", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Loved, loved, loved the boat, staff, food, activities….cannot rave enough! The cabin was pristine and huge with a balcony and best shower water pressure in whole of Vietnam! There is also a claw foot tub! Don’t miss this cruise! Happy hour at “Sky Bar” cooking class, cave excursion, swimming etc. Mike was an amazing cruise director, there for everything you may need!! Also want to mention the spa, massage was super! Your loss if you miss out :)" },
+                { author: "Gary", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "Absolutely fabulous. Everything run on time. Guides were great. Stops were perfectly timed. Would do it all again on another trip." },
+                { author: "Kathy", country: "Verified traveller review", rating: 5, date: "2026-07-18", text: "We enjoyed all the activities of the three day tour. The bike ride, walk and hike up dragon mountain was great. The view at the top was worth the hot and humid climb! The cruise was lovely; we enjoyed the boat ride through the limestone caves and seeing so many monkeys on one of the mountains was a highlight as well. Our room was beautiful and the food delicious. Would definitely recommend:)" },
+                { author: "Sixtine", country: "Verified traveller review", rating: 5, date: "2026-07-12", text: "It was perfect ! That’s my second time and I’ll still come back ! Thank you to Dong and Candy 😊😉" },
+                { author: "Nicola", country: "Verified traveller review", rating: 5, date: "2026-06-23", text: "Dong CM 😊 Kayaking Lovely food & great staff. Beautiful scenery. Lovely room." },
+                { author: "Taylor", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "We'd scheduled other excursions during our time in Vietnam and this was the best. The coach bus travel to Ninh Binh was comfortable and Ninh Binh itself is lovely! it was a full day of activities. The overnight hotel is so/so, but it was just for a night and the staff was very hospitable. Day 2 was a quick ride to Ha Long Bay and the overnight cruise is fantastic. Ha Long Bay is really quite magical. This is a solid trip to book if you're looking for natural wonder and to get out of the city." },
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-06-17", text: "Boat stay was great and transportation a luxury. The hotel after day 1 was not luxury nor was it modern but was sufficient for just a single night." },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "Amazing views, food was delicious and plentiful, and the staff was incredible. Dong and Candy were helpful and kind every step of the way. Ship was clean and beautiful." }
+            ]
+        };
+    }
+
+    if (slug === '3-day-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-hanoi') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 9,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Beryl", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "The cruise was fantastic. We ate and slept very well. One staff member, Benjamin, was amazing—attentive, friendly, and helpful. The mini golf was fun. If you can add some weights in the fitness room, some dart and a mini ping pong table. It would have been perfect. Thank you to Yen to guide us throughout the journey." },
+                { author: "Samantha", country: "Verified traveller review", rating: 5, date: "2026-06-22", text: "This was incredible! I had reservations booking as I was unsure what to expect but both of the tours were amazing and the boat was spectacular!! Everything was beyond our expectations." },
+                { author: "Ruben", country: "Verified traveller review", rating: 5, date: "2023-10-04", text: "Everything was above our expectations, greatly recommended." }
+            ]
+        };
+    }
+
+    if (slug === '2-day-ha-long-and-lan-ha-bay-cruise-with-kayaking') {
+        return {
+            averageRating: 4.59,
+            totalReviews: 408,
+            guideRating: 4.8,
+            valueRating: 4.47,
+            reviews: [
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "This was a brilliant trip that was recommended by Australian friends who had been with this group a few months earlier. They enjoyed that this cruise was limited to 25 people, and the tour guide was good at bringing everyone together. So, we had high expectations and were not disappointed." },
+                { author: "Alessia", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Tony was an amazing guide, and the whole crew welcomed us with open arms and took care of every little detail. This was so much more than just a cruise: in just over a day, we had SO many different experiences and all thanks to Tony, who gave us the chance to discover his culture from a much more local and authentic perspective, far from the usual touristy spots. If you’re looking for something different, I’d 100% recommend this over the classic, super-touristy routes." },
+                { author: "Finn", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Great, guide and crew were very good, always helpful and there if we needed things done or wanted bits. The activities were good, be prepared for it to be decently crowded at some of the spots but that can’t be helped if you’re seeing Ha Long Bay. The views are amazing, the food was great and the evening was fun with karaoke, drinks and time on the top deck with the rest of the passengers. Rooms are comfy with good working air con and bathrooms. We read reviews and what’s included so we were prepared but be warned that drinks (even bottled water) aren’t included so we just brought some big wat" },
+                { author: "Amélie", country: "Verified traveller review", rating: 5, date: "2026-05-01", text: "Super experience, our guide Jack was great, attentive and funny. Very well organized, we had the greatest time at a good rythm, we could really soak it in!" },
+                { author: "Roxanne", country: "Verified traveller review", rating: 5, date: "2026-04-27", text: "the whole tour was an amazing experience. Food was excellent. Beds comfortable. Kayaking in the bay was amazing. Really enjoyed the bike ride to the village and the foot pedicure! Tony was the perfect guide right from the start. Great communication, kept things on time and even helped set up our transport to Ninh Binh the following day." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-04-19", text: "We LOVED this cruise. Amazing staff, tour guide and beautiful room. Couldn’t have asked for a better experience. Highly recommended. Steven was a brilliant host, spoke great English and was a lot of fun. Barman stayed up with us until the early hours while we drank and sang karaoke. Thanks for an amazing couple of days." },
+                { author: "Marine", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "It was a lot of fun 🤩 The cruise was very talking and beautiful . We tried squid fishing, canoe, swimming and even jumping from the boat as well as cooking class and even karaoke The only thing I would say is there was no hot water in our room but apart from that it was great Unless you specifically request it though if you are travelling solo you will be assigned a shared room" },
+                { author: "P.", country: "Verified traveller review", rating: 5, date: "2026-03-01", text: "The accommodation was good overall, but our real highlights were the kayaking tour, jumping into the sea straight from the boat, and the bike tour. Those experiences made our stay truly special. The food was absolutely outstanding — every meal was delicious and exceeded our expectations. Overall, we had a wonderful time and would definitely recommend it." },
+                { author: "Aurelie", country: "Verified traveller review", rating: 5, date: "2026-02-23", text: "Excellent tour! Our guide, Jack, was absolutely great! The food in the boat was amazing. We did kayaking, swimming and biking, and we had some time to rest and enjoy the bay. We recommend this tour!" },
+                { author: "Richard", country: "Verified traveller review", rating: 5, date: "2026-02-23", text: "Everything was great, better than expected. Our guides, Tony & Thang were attentive and informative. The transportation to and from the boat was efficient and comfortable, and the boat and entire journey from the meals to the kayaking, swimming and bicycling opportunities were extra special. The smaller boat with 15 passengers was intimate and peaceful. The other passengers from France, Norway and the Czech Republic were also friendly and very interesting. Highly recommended." },
+                { author: "Tommy", country: "Verified traveller review", rating: 5, date: "2026-02-09", text: "Nam and Victor were fantastic guides and crew members to have leading this trip. It was a perfect balance of activities and relaxation in Lan Ha Bay & Cat Ba island— much less touristy than Ha Long and much more enjoyable!" },
+                { author: "Nguyen", country: "Verified traveller review", rating: 5, date: "2026-01-18", text: "This two day trip was so fun ! Pick up service is on point, the guide was really great and energetic ! Very kind. The whole crew was, they were all very smiley :) Even though it rained the first day, the schedule was arranged so we could enjoy activities better. We were only 7 on the boat so it was very enjoyable. And we were like 4 boats in the bay so the view was so beautiful and not too crowded. The karaoke was super fun ! Plus, the guide is taking pictures the whole trip, so you’ll get extra photos and if you’re a solo traveler, it’s really cool ! I would recommend this weekend to everyone" }
+            ]
+        };
+    }
+
+    if (slug === 'transfer-to-or-from-sapa-by-a-vip-sleeper-bus') {
+        return {
+            averageRating: 4.33,
+            totalReviews: 827,
+            guideRating: 4.2,
+            valueRating: 4.46,
+            reviews: [
+                { author: "Martina", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "Great transfer from Sapa to Hanoi! Everything was very well organized from start to finish. A few days before the trip, they contacted us to confirm the correct pick-up location, and we were picked up by a comfortable van and taken to the sleeper bus. The bus was spacious, clean and well organized, with plenty of space to relax. We also made several stops along the way for bathroom breaks, which was very convenient. Since we were heading directly to the airport, they were incredibly helpful and arranged for us to be dropped off there as well. This made everything so much easier and stress-free" },
+                { author: "Joshua", country: "Verified traveller review", rating: 5, date: "2026-06-02", text: "It was gooooodd!!! There was a transfer from the hotel to the bus station and then transfer to the destination hotel. Everything was seamless and the crew was responsible. The bus was so comfortable. A lot of space and clean." },
+                { author: "Ilona", country: "Verified traveller review", rating: 5, date: "2026-05-24", text: "Very comfortable! The seat even had a massage function. The stops and the duration of the break were announced in Vietnamese and English. Very nice!" },
+                { author: "Martin", country: "Verified traveller review", rating: 5, date: "2026-03-25", text: "Our experience with this bus transport service was nothing short of exceptional. The buses ran with impressive punctuality, making our transfers stress-free and reliable. What truly set this company apart, however, was the outstanding customer service. Every interaction felt professional and caring A special mention must go to consultant Lily, whose hyper care and dedication reassured us every step of the way. She went above and beyond—sending detailed photos of the drivers so we could easily identify them, checking in regularly to ensure our journey was smooth, and providing clear instruction" },
+                { author: "Noel", country: "Verified traveller review", rating: 5, date: "2026-03-08", text: "I loved it. It was a great experience. They even provide you with a bottle of water and wetnap in your \"bedroom\". I was coming from a long flight and had a 6 hr ride to Sapa so this sleeper bus ride was just the answer for me! JUst one suggestion- Although they seemed clean and neat, I know that the pillows and blankets are not changed out with each person's use. It would be nice if they were or, at least, use a disposable pillow cover. Other than that, I loved it!" },
+                { author: "Cheriana", country: "Verified traveller review", rating: 5, date: "2026-01-15", text: "It was a safe ride. We got there in a timely manner. Unfortunately, a couple of the other guests were not ready to go in the lobby so that did cause a little bit of delay. The driver did make up. But I think it’s always best to be ready to go at the time. The driver tells you be ready checked out and as soon as he honks come out to keep things moving on time for everyone! The loungers are very comfortable. They even have a little thing that makes them vibrate at different parts for the remote definitely good value and this is the way to go if you’re doing a long journey." },
+                { author: "JANE", country: "Verified traveller review", rating: 5, date: "2025-08-28", text: "Nice bus with 2 rows of sleeper beds. Great advice at the bus station. We had some issues due to Vietnam National Day - but they were very helpful. Driver was kind and helpful," },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2025-06-20", text: "Great driver but wasn’t aware they didn’t drop you back off at your organised hotel when returning" },
+                { author: "Michal", country: "Verified traveller review", rating: 5, date: "2025-05-22", text: "Great way to travel comfortably from Sapa to Hanoi." },
+                { author: "sabrina", country: "Verified traveller review", rating: 5, date: "2025-05-22", text: "The organization was very good. Everything went perfectly. The guide was super friendly and the bus was very comfortable. I highly recommend this company and would book it again." },
+                { author: "Michal", country: "Verified traveller review", rating: 5, date: "2025-05-21", text: "Great idea to get to Sapa and save on hotel. I had a really good sleep!" },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2025-05-15", text: "excellent service comfortable bus, great way to travel long distance in vietnam" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-ha-giang-loop-w-safe-rider-max-8pax') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 24,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Chloe", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "We have had an amazing trip! We felt very safe and looked after. Our group leader, Vien was very attentive and communicated very well to us throughout the trip and shared his knowledge about places within the loop. All the drivers were so friendly and fun. Would definitely recommend to others 😁" },
+                { author: "Pia", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "Excellent communication. Well organized. I chose this tour based on the pickup/drop options, & the water activities (boat & waterfall). I chose the standard option for buses, & accommodation. The first sleeper bus was average (3 row sleeper with no privacy. I had a/c bowing on my head but was able to move to another seat). Long ride from Ninh Binh to Ha Giang. The accommodation was excellent. Second VIP sleeper bus was comfortable, it had a privacy screen, AC was ok. Unfortunately, the road between Ha Giang and Sapa is very curvy! Like I was still doing the Loop. The 3 days on the motorbike we" },
+                { author: "Rhys", country: "Verified traveller review", rating: 5, date: "2026-03-29", text: "Incredible experience, couldn’t recommend more! Our guide Anny, along with the other drivers, made it so special for us. We felt very safe the whole time and always looked after us. It was a pleasure for us to share such a special part of the World with such amazing people. An experience I will never forget, faultless and I would 100% recommend Hong Hao." },
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-03-08", text: "The tour was really great. Vien was a very good guide and managed everything very well. Perfect tour for the Ha Giang Loop! The drivers are very helpful and experienced and I always felt very safe!" },
+                { author: "Oliver", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "It was fantastic, although I had to arrange my own way from ninh binh to ha giang because of TET." },
+                { author: "Francisco", country: "Verified traveller review", rating: 5, date: "2025-12-15", text: "Everything was great! Good food, well organized and the drivers were all very nice!Cua was always ready to take pictures of us and made sure we had fun the whole time!" },
+                { author: "Margarida", country: "Verified traveller review", rating: 5, date: "2025-04-18", text: "It was really fun and my group had awesome drivers that were the highlight of the trip" },
+                { author: "AHMED", country: "Verified traveller review", rating: 5, date: "2025-02-27", text: "cooperative and professional and informative staff members" },
+                { author: "Jasmin", country: "Verified traveller review", rating: 5, date: "2025-01-27", text: "It was an amazing experience. Our guide was super sweet, funny, friendly, good organized and well prepared. We felt really safe with the drivers. We can really recommend this Tour and company!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "All the activities were amazing lived the water fall swim as well as the boat tour and boat swim Played games with locals it was all an unforgettable experience meals were fantastic Big mouse was top tier best guide in your company" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-14", text: "Vien était un super guide, je me suis sentie en sécurité et on s’est bien amusés" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-22", text: "Everything Perfect, so fun experience" }
+            ]
+        };
+    }
+
+    if (slug === '3-day-2-night-ha-long-and-lan-ha-bay-by-le-journey-cruise') {
+        return {
+            averageRating: 3.83,
+            totalReviews: 17,
+            guideRating: 4.2,
+            valueRating: 4.4,
+            reviews: [
+                { author: "Chew", country: "Verified traveller review", rating: 5, date: "2024-09-22", text: "Very well organized and we were informed when there has any change. We would like to thank Gam for her intimate knowledge of Halong bay and we were treat very well. The day boat crew was very efficient. We were very pleased by the crew on board of the Legend too" },
+                { author: "JOANNE", country: "Verified traveller review", rating: 4, date: "2026-02-13", text: "It was a fun filled, busy few days that we thoroughly enjoyed! The staff are wonderful! The food was delicious and abundant." },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-02-28", text: "Hi! The service and food were good. The best was day 2 on board the day boat Sunshine Cruise. On board Le Journey the room was terribly dirty. There was mold and fungus all over the bathroom. Both walls and floor. See attached photos. It is harmful to your health to breathe in! Not acceptable! In addition, there were large dust mites in the room. The lamp on the table is flammable. And there were no life jackets in the cupboard marked Life Jacket. This is not good for safety on board. In addition, the boat seemed old and worn. Even though this is a \"medium\" class cruise, you can expect it to b" },
+                { author: "Marek", country: "Verified traveller review", rating: 5, date: "2026-01-20", text: "Es gab eine gute Kommunikation via whatsapp vor der Abholung im Hotel. Sowohl Hin- als Rückfahrt von/nach Hanoi war entspannt. Timing und Organisation am Hafen bis zum Cruise war reibungsfrei. Alle Aktivitäten waren zeitlich sehr geplant, so dass wir den Touristenmassen entgehen konnten. 3D2N-Option hat erfüllt was wir erwartet haben. Viel Entspannung, wenig Touristen, kleine Gruppe und viel Zeit auf dem Wasser. Wir haben uns bewusst für ein kleineres Schiff entscheiden und waren voll zu frieden. Nur 22-28 Menschen. Natürlich viele Nationalitäten. Der Service und die Sauberkeit waren sehr gut." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-12-25", text: "Ha Long bay was beautiful, but very busy. The cave experience has sadly been diluted through far too many tourists. Our second night on the cruise was however most worth it as Lan Ha bay was magnificent. Kayaking, swimming in a pristine wilderness. Loved every minute of our cruise, wonderful staff, excellent food and our small cabins were clean, warm and cosy. A truly glorious experience. Would reccommend the very budget friendly in in two night Le Journey cruise anytime." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-11-19", text: "Wir haben 3D2N gebucht und der Service war super. Alles hat gut funktiert und war sehr gut organisiert. Das Essen war lecker und es wurde auf alle Unverträglichkeiten und Wünsche eingegangen :))!!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 4, date: "2025-11-12", text: "Unbedingt die zwei Tagestour nehmen. Erster Tag von Touristen überlaufen. Zweiter Tag ganz entspannt an abgeschiedenen Orten. Leider auch dort überall Müll zu finden" },
+                { author: "Nikki", country: "Verified traveller review", rating: 3, date: "2025-05-04", text: "Trip and crew were fine. Lan Ha Bay is much better than Holang Bay. But the food was realy bad at dinner." },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-03-18", text: "Belle croisière même avec un temps gris et une fine pluie. Le bateau est très beau et le personnel est super. La nourriture est délicieuse. On a adoré faire du kayak au milieu de ce splendide paysage." },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2024-11-02", text: "Wir haben die Tour mit 2 Übernachtungen gebucht und waren sehr happy damit. Aus Kapazitätsgründen wurden wir nach Absprache auf das 5* Le Journey Calypso Cruise umgebucht, was für uns ein Upgrade war. So hatten wir ein Zimmer mit Balkon. Die Buchung einer Tour durch Ha Long & Lan Ha Bay statt nur Ha Long ist absolut zu empfehlen, da man so auch die ruhigeren Ecken erlebt. Das Boot und die Crew waren super. Das Essen war auch sehr gut, es konnte ebenfalls auf unsere Allergien eingegangen werden. Wir empfehlen die 3D2N, da der zweite Tag für uns der Beste war. Einige Aktivitäten, aber dennoch en" }
+            ]
+        };
+    }
+
+    if (slug === 'premium-2-day-sapa-adventure-with-dcar-limousine') {
+        return {
+            averageRating: 4.32,
+            totalReviews: 141,
+            guideRating: 4.27,
+            valueRating: 4.06,
+            reviews: [
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Our trip to Sapa was absolutely amazing! We had an excellent guide who was friendly, knowledgeable, and made the whole experience even more enjoyable. Everything was very well organized from start to finish. Sapa is definitely a place worth visiting, and we highly recommend it!" },
+                { author: "Katleen", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "We had a great trip to Sapa thanks to our operator Alice! We even got an hotel upgrade with mountain view. Lunches were great! Thank you 🙏⛰️" },
+                { author: "Jennifer", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "This tour far exceeded my expectation. The driver was on time and I could sit in the front as I get car sickness. There were stops along the way so we could rest. The staff at the Unique hotel were very helpful and everything was well organised. The food was good and plentiful. Loved the tours. I couldn’t fault anything and it was the best value for money." },
+                { author: "Laura", country: "Verified traveller review", rating: 5, date: "2026-01-11", text: "Great trip of anything we wish we had another day. Worth noting we at the sapa unique and another option is the 5* paos hotel. Moana is well worth a visit during free time it’s within a 10 minute walk of the hotel for the instagram pics." },
+                { author: "Luisa", country: "Verified traveller review", rating: 5, date: "2025-12-10", text: "Our tour guide Lisa was great, explained everything very clearly. The downside was that Fansipan was closed, but still enjoyed Sapa and its vibrant atmosphere." },
+                { author: "Funda", country: "Verified traveller review", rating: 5, date: "2025-11-12", text: "The tour was great. Everything was well organised. Highly to recommend." },
+                { author: "Evgenia", country: "Verified traveller review", rating: 5, date: "2025-08-27", text: "The walk to the rice fields eas marvellous. Also, awesome food and really helpful with how to get to Fansipan, our experience was top-tier." },
+                { author: "Mary", country: "Verified traveller review", rating: 5, date: "2025-08-14", text: "Well organized, staff were friendly and I was kept informed of every aspect of the trip. Scenery was spectacular and the tour allows you to maximize your 2 days" },
+                { author: "Inna", country: "Verified traveller review", rating: 5, date: "2025-04-11", text: "Many thanks to the organizers. We had a lot of fun. We had questions and contacted the Getyourgide team. They answered and helped us right away. The trip to Sapa itself was very pleasant. The minibus was comfortable, the hotel was good, the food was delicious, the guide was pleasant. We highly recommend it." },
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2025-02-16", text: "The trip was very well organised, the hotel was good and the everything was explained and sorted for our activities. The hotel booked tickets for Fansipan for us and arranged transport there and back." },
+                { author: "Janez", country: "Verified traveller review", rating: 5, date: "2025-01-24", text: "The trekking from Sapa to Lao Chai village was top of this trip. It was wunderful weather and the sceneries were great. It was a fantastic day, à mémorable one! The guides on the entire trip were perfect and all rue smoothly from the organisation point of view. For me was Sapa trip one of the best in Vietnam." },
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2024-12-26", text: "Comfy and prompt transfer from Hanoi. Numerous rest stops. Clear instructions on our activities when we reached the hotel. Pickups on time. Staff very helpful. Meals at hotel extremely generous and filling. Felt well looked after at all times. Thank you." }
+            ]
+        };
+    }
+
+    if (slug === 'premium-2-3-day-sapa-adventure-with-dcar-limousine') {
+        return {
+            averageRating: 4.51,
+            totalReviews: 101,
+            guideRating: 4.56,
+            valueRating: 4.45,
+            reviews: [
+                { author: "Kamil", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "We enjoyed the trip, we really liked our guide Lim and enjoyed the comfortable transport, we just wish the weather was better." },
+                { author: "Bronte", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "I loved this trip so very much. I just felt it was a whimsical dream to be in sapa. I wish I could relive it all over again. Thank you to all of our wonderful guides ❤️" },
+                { author: "Kristen", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "This was a fastastic tour to such a beautiful region of Vietnam! The whole tour was well organized, our tour leader was so lovely, and we got to choose our activities. Food was included and accommodated to vegans." },
+                { author: "Cristian", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "This experience was absolutely amazing, everything was perfectly organized and exceeded my expectations. The landscapes in Sapa were breathtaking and the whole trip felt smooth and enjoyable from start to finish. But what truly made the experience special was our guide, Elbiee. She was incredible. She communicated all the details clearly from the beginning, was always attentive, and made sure everything went perfectly throughout the entire trip. She was extremely helpful, kind, and professional. I always felt taken care of, and she was there anytime we needed something. Her energy and attitude" },
+                { author: "Jacquelyn", country: "Verified traveller review", rating: 5, date: "2025-11-10", text: "Great trip well organized and the right level of guiding and time to explore on your own" },
+                { author: "Jane", country: "Verified traveller review", rating: 5, date: "2025-10-28", text: "Fabulous tour guide into the villages in SaPa, a lady called mamaya. Walk into the the H-mong village with the village ladies all the way down the hill was a precious insight into the way they live. They work hard to embroider products to sell to continue with their way of life. The trip up to dragon head mountain was also lovely. We did need to pack warm layers as it did rain and was foggy and coolish. Lots of expansion and building work in SaPa which is a little sad but the countryside is wonderful and a days hike would be great to do too." },
+                { author: "Santiago", country: "Verified traveller review", rating: 5, date: "2025-10-05", text: "Great guides! Lisa was awesome. Super recommended!!" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2024-11-26", text: "Experiencing this tour is a wonderful opportunity when visiting Vietnam. 🫶" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2024-11-14", text: "The guide was knowledgeable and friendly, making the trip even more enjoyable. Highly recommend this tour for anyone looking to explore northern Vietnam’s natural beauty! ⭐️⭐️⭐️⭐️⭐️" },
+                { author: "Carla", country: "Verified traveller review", rating: 4, date: "2025-09-15", text: "All activities were great. We loved Cat Cat village and rice fields.Guide was knowledgeable, friendly and sweet. Her name was Pang, she went above and beyond’s to cater to us. Gave us time to take pictures or buy things." },
+                { author: "Jonathan", country: "Verified traveller review", rating: 4, date: "2025-04-12", text: "This tour is great for those who love the outdoors. It requires a lot of walking and climbing steep steps. If you do make it on top however, you’ll be rewarded with amazing views. The village tour wasn’t really about the village but the stroll (a long hike) down to the village with fantastic views of rice terraces and mountains along the way. Unfortunately this is not for the very senior. The ride from Hanoi to Sapa was pleasant with a nicely appointed limousine-like van. It was very comfortable. But going back, we had the unfortunate encounter with what I’d say was the rudest driver in Vietna" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-09-03", text: "점심식사 2회, 판시판산 투어(다행히 좋은 날씨)는 매우 만족했으나, 캇캇 마을 투어 및 4성급 호텔(성수기 추가 할증료 지불)의 객실과 조식 수준은 기대에 크게 미치지 못함. 특히, 국경일 연휴 많은 인파와 교통체증 등에 따른 2일차 전체적인 일정 지연으로 오후 1시30분 출발 하노이 복귀 리무진 버스를 타지 못하여(기사가 그냥 출발했다는 것이 지금도 믿기지 않음) 2시간 늦은 오후 3시40분 출발 별도 교통편으로 복귀할 수 있었음." }
+            ]
+        };
+    }
+
+    if (slug === 'guided-evening-food-tour-w-lantern-and-river-boat-in-hoi-an') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 16,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Evan", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "We had a great time with Diem taking us around to eat some local foods, take a boat tour, and walking the streets of old town in Hoi An. We were very full by the end! Diem was great at explaining the history of Hoi An and took us to places we wouldn't have gone to. Thank you Diem for a great night!" },
+                { author: "Line", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "the guide Hai was so nice and very knowledgeable, I would highly recommend her" },
+                { author: "Samantha", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Duong was a great guide! Great knowledge of Hoi An and we loved her food spots and cheeky stories 10/10" },
+                { author: "Ulli", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "I very much enjoyed my tour with Diem. A bit hesitant at first because it was only me on the tour and I‘m not one for talking all the time. I shouldn’t have worried. Diem was fun, easy to talk to, very knowledgeable. She took me to many beautiful places and the food was amazing. Highly recommend this tour. Thanks heaps Diem." },
+                { author: "Nicole", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "We had Hi as our guide and really enjoyed our experience. She was very knowledgeable about the food we ate and we shared many laughs together. I would highly recommend this guided tour but come with an empty stomach! There’s so much food to get through." },
+                { author: "Melissa", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "I enjoyed Hai's company. she is a lovely person and informative tour guide. the food was great but it was too much for us to eat. The boat and lantern was a lovely way to finish. We were happy and very full. Thank you Hai" },
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "great guide. lots a variety. very interesting insight into local culture compared to other parts of Vietnam." },
+                { author: "Heather", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "Hai was lovely. It was just me on the tour so it was a little awkward at first, but Hai was very kind and by the end we were comfortable. She even offered advice on other sightseeing things I should do and told me how much I should expect to pay (bargain). It was a mix of popular and quiet places, but they were all local approved. I don’t eat shrimp, so Hai adjusted the tour for me and even brought me to a bonus dessert place! Thank you, Hai!" },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Diem was our guide. It was actually just my husband and I on the tour. She was wonderful! Gave us a great tour and food tasting. All the foods were in very Authentic Vietnamese places. She also told us a lot about the history of Hoi An And Vietnam in general. The lantern boat ride was magical and that whole area around the water was amazing!! Highly recommend the tour and Diem as well. Such a lovely person!" },
+                { author: "Eimear", country: "Verified traveller review", rating: 5, date: "2026-07-21", text: "We had a really great night with our tour guide Hai, she really made the experience. She was so friendly and easy to talk to. It was great going to authentic Vietnamese restaurants. Thanks Hai!" },
+                { author: "Marie", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "We had such a great time on this food tour in Hoi An. The food was fantastic, but what really made the experience special was our guide, Hai. She was incredibly warm, friendly and genuinely cared about making sure everyone had a great time. It never felt like we were being rushed through a standard tour—it felt personal, with lots of interesting stories, local insights and thoughtful touches along the way. If you’re looking for an authentic and enjoyable way to experience Hoi An’s food scene, I can’t recommend this tour highly enough. Thanks again, Hai, for making it such a memorable evening!" },
+                { author: "Terry", country: "Verified traveller review", rating: 5, date: "2026-07-05", text: "This is a great tour. Our guide Diem was fantastic, she was knowledgeable about HoiAn and its history, brought us to the best spots to eat and best of all she made the night so much fun! I highly recommend this tour, It's great value for money. Loved it!" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-foldable-lantern-making-class-in-hoi-an') {
+        return {
+            averageRating: 4.94,
+            totalReviews: 4584,
+            guideRating: 4.94,
+            valueRating: 4.94,
+            reviews: [
+                { author: "Joao", country: "Verified traveller review", rating: 5, date: "2026-09-13", text: "one of mt best experiences in vietnam thank u so much of taking me in with so much warmnth" },
+                { author: "Siobe", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "Very friendly staff, we arrived late due to the heavy rain and they were very accommodating! Lovely service and cute lanterns to take home, thank you!" },
+                { author: "Marylou", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "All was absolutely perfect. The family was adorable and I loved the activity. Merci beaucoup !!" },
+                { author: "Tara", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "We loved getting to customize our lanterns. There are dozens of fabric choices and endless combinations you can make. There were several people there who helped me with my lantern, without their help, it would’ve looked pretty terrible at the end. I really appreciated the staff who worked there, they were very helpful if you needed them. They explained the process clearly and gave us a short lesson on the history of the lanterns in hoi an. I would love to do this again in the future." },
+                { author: "Morgan", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Amazing experience!! They really helped us make a beautiful end product! Also learned a lot about the history of lanterns here in Hoi An" },
+                { author: "Callum", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Dubious at first, but was actually really enjoyable. They took us through how to build it from scratch and helped the whole time to make sure we were happy with the outcome. You get to choose from loads of different patterns for the outside as well so each one is different if you want." },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "what a super fun experience! The lantern class was very interesting. my trainer/helper was patient and very helpful. I would definitely recommend!" },
+                { author: "Abi", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Absolutely amazing! What a lovely morning spent making lanterns. The family working there were lovely, so helpful, and very very friendly. Everything was explained well but you are also left to do things yourself once it’s been explained which means it’s a really nice and chilled environment. They explain the history of lanterns and then help you make your own and even when you make mistakes, they are super helpful! They also light them up for you so you can get some photos before packing them very neatly to fit in your suitcase. Would recommend this to anyone and everyone of all ages - what a" },
+                { author: "Ella", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "The staff are so lovely and helpful. The welcome drink was yummy. We really enjoyed the experience and our lanterns turned out great." },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "This was a lot of fun! The teachers were so helpful and patient, and did a great job of making our lanterns look good even when we would make little mistakes :) fun, quick experience to add to your time in Hoi An. Also makes you have a deeper appreciation for all the lanterns you see around town!" },
+                { author: "William", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "amazing really enjoyed talking to the staff there they were super helpful and really funny." },
+                { author: "Nicolle", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "The class took around 2 hours including time for photos at the end. The staff were very friendly and helpful... would definitely recommend. Although it was sold as a class, we turned up (3 of us) and they put us on a separate table and we started straight away... so no waiting around. Lots of fabrics to choose from. Really enjoyed it!" }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-coffee-culture-and-coffee-making-class-in-hoi-an') {
+        return {
+            averageRating: 4.94,
+            totalReviews: 5504,
+            guideRating: 4.95,
+            valueRating: 4.95,
+            reviews: [
+                { author: "Jill", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Really great class put on by third generation of a coffee, family, and the guy who let it was funny and educational. The coffee was really incredible and special with the lend they make themselves which is different from anywhere else. I wish I had bought more of the coffee but was limited with weight due to travel. Fun class." },
+                { author: "Clare", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "They were an amazing team. They were very informative and humour, entertaining and made all fun Thank you from the 3 mad brits" },
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Great way to experience a range of coffees. All the staff were very friendly and knowledgeable." },
+                { author: "Lotta", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Amazing workshop with the best guides !!! Would always recommend this." },
+                { author: "Samuel", country: "Verified traveller review", rating: 5, date: "2026-08-23", text: "Great experience, interesting history about vietnamese coffee" },
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Loved the fact it is a family who run the activity!! It’s so interesting to hear about how each stage can make or break the coffee process." },
+                { author: "Emma", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "It was an enjoyable experience and gets you to interact with the hosts and other participants." },
+                { author: "Brianna", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Very fun and informative coffee making class, learned about the history behind them, trialled 5 different coffees and the guides were great." },
+                { author: "Cecilie", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Such a fun class! I would highly recommend it. The family that has the class are super nice and very good to tell about the history of the different coffees!" },
+                { author: "Bhumi", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "Nhung was absolutely incredible! We really enjoyed our cooking class, she was very accommodating of our dietary requirements. We learned to make amazing 4 dishes, each of them an absolute gem 💎" },
+                { author: "Agung", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "I really enjoyed my first coffee workshop! The instructors shared the history of Vietnamese coffee and were very patient in teaching us. The workshop was fun and interactive, with music and quizzes that made the experience even more enjoyable. Highly recommended!" },
+                { author: "Corinna", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "The coffee workshop was great, in a beautiful room with Air condition and very nice stuff. I enjoyed it very much." }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-early-morning-sunset-w-champa-food-in-hoi-an') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 3599,
+            guideRating: 4.88,
+            valueRating: 4.81,
+            reviews: [
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "We loved the trip! Beautiful monuments and the food was great. But the person who made it special was our guide, Linh. Because of her we discovered parts of Vietnams history, that we were not aware of. She was also the loveliest, our favourite guide in whole Vietnam!☺️" },
+                { author: "Jessie", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "amazing learn about history lin was so great. she was humorous and entertaining and we all loved her every member of the tour clearly enjoyed it thankyou lin!" },
+                { author: "Fernanda", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "The tour was great! Beautiful scenery. Can’t miss it. LIN, the tour guide, is AMAZING, fun and full of knowledge. Cheers." },
+                { author: "Paulina", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "We had a great time during our tour. Found out a lot of information about My Son. Linh was extremely knowledgeable about the history. Food was great too. Happy we chose this sunrise tour !" },
+                { author: "Mette", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "so wonderful , interesting and beautiful. loved the guide, we've done a few tours now and she's the best so far. kind, knowledgeable and speaking very good English." },
+                { author: "Małgorzata", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Han was an amazing and kind guide! The trip was very well organised. I got to know a lot of interesting details about My Son. Definitely recommend this guide." },
+                { author: "Patrick", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "a fantastic tour with a fantastic guide... I highly recommend" },
+                { author: "Nore", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "We had a wonderful tour to My Son with our guide Lucky. He gave very clear information and made sure all of us understood and were comfortable. We had a wonderful day! :)" },
+                { author: "Fiona", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Excellent and Lin the guide was a wealth of information! Thanks" },
+                { author: "Gen", country: "Verified traveller review", rating: 5, date: "2026-09-04", text: "We had a really fantastic guide, she really knew her stuff, helped us understand the site, answered any questions we had, but still managed to let us explore a little on our own. She also managed to make the information given continuously interesting and not overwhelming. The site itself was gorgeous, the morning tour perfectly allowed us to see the whole site free of crowds and beat the heat. Pickup was swift and efficient, and they contacted us well in advance to arrange a time and place. 100% can recommend." },
+                { author: "Lauren", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "The tour was very good to learn more about the history behind My Son and the region in general. We had an amazing guide, Lin, who explained everything very well and was really friendly! The food is another highlight of the early morning tour. Highly recommend it!" },
+                { author: "Philipp", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "Our My Son Sanctuary tour was excellent from start to finish. Pickup and transportation were on time, comfortable and well organized. A special mention goes to our guide, Lin, whose English was very clear and easy to understand. She explained the history and culture of the Cham temples in an informative & engaging way and made the entire experience much more meaningful. Thanks to her the visit felt personal and memorable. Overall, this was a great value tour with smooth logistics and a fantastic guide. We highly recommend it!" }
+            ]
+        };
+    }
+
+    if (slug === 'traditional-cooking-class-and-meal-with-local-family-in-hoi-an') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 559,
+            guideRating: 4.91,
+            valueRating: 4.87,
+            reviews: [
+                { author: "Tara", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "We loved this cooking class. All the recipes were explained thoroughly. The guide kept us laughing throughout the class and made sure everyone was having a great time. We had an incredible meal at the end, honestly, it was one of the best meals we had on our trip. I would love to recreate the dishes at home someday. If you enjoy cooking, then this class is definitely a great choice!" },
+                { author: "Sergio", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "the food was delicious and abundant, our cook was the best" },
+                { author: "Isabel", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "Would highly recommend this activity! We had so much fun and Ha was an amazing and entertaining instructor. We ate the food communally after cooking which made the experience even better." },
+                { author: "roland", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "such an incredible evening. we learned so much and loved the food. would thoroughly recommend." },
+                { author: "Laurence", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Very good and very fun experience! We cooked so much food and were stuffed by the end of it, really good way of learning about some of the local dishes" },
+                { author: "Bhumi", country: "Verified traveller review", rating: 5, date: "2026-08-09", text: "The 4 dishes we made in the cooking class were our best meal for our whole trip in Vietnam. Nhung was so organized and lovely to learn from. She was also extremely accommodating of my vegan requirements. Its the perfect way to have a hands-on experience to learn more about vietnamese food and daily life." },
+                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "It was amazing, the chef 🧑‍🍳 was super funny enthusiastic and sehr made her best to teach us how to cook vietnamese food. I learned a lot and a great time!" },
+                { author: "Kerry", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Such a fun time, hands on. Menu was great. Hung? Was very funny. Very clean. The lovely deaf ladies were very helpful. Highly recommend." },
+                { author: "Katie", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Khai was an amazing guide and chef. We really enjoyed his company. He was fabulous at accommodating our children (added 10-13), made us all laugh and we cooked delicious food. I was able to have many questions answered about cooking methods and we found all four dishes delicious. A great setting too with a great backdrop of the river and coconut boats. Would thoroughly recommend!" },
+                { author: "Melody", country: "Verified traveller review", rating: 5, date: "2026-07-06", text: "Amazing experience, food delicious and good vegetarian selection. Our guide Nhung was great fun!" },
+                { author: "Aurora", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "We were cooking with Ninh and it was amazing! She was fun and bubbly, and a great teacher. She showed us the garden and had a lot of information about herbs, vegetables and cooking methods. It was such a good experience and would recommend to anyone going to Hoi An! We made unique dishes that you can not find in any restaurant. Amazing food and an amazing teacher. Thank you Ninh for valuable skills and a great experience that we take with us home to Norway." },
+                { author: "Mike", country: "Verified traveller review", rating: 5, date: "2026-07-03", text: "So much fun. Best food. Ku our host and teacher was so full of energy and an excellent teacher. Highly recommended!" }
+            ]
+        };
+    }
+
+    if (slug === 'buffaloe-riding-ceramic-cafe-lantern-class-basket-boat-lunch-in-hoi-an') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 15,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Rawinia", country: "Verified traveller review", rating: 5, date: "2026-06-24", text: "This was an awesome tour our Driver Hay was so accomodating and even become our driver due to his nature and English easy to get along with and put up with us as well great. For the amount of money we did so much and it was totally at our pace Thank you Hay for being so awesome for us" },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "we loved the lantern making and the fishing boats making clay pots and musem were great too very enjoyable day our guide was great thank you" },
+                { author: "Antea", country: "Verified traveller review", rating: 5, date: "2024-11-09", text: "don't get confused, just one activity and it's definitely worth it! all recommendations :)" },
+                { author: "karine", country: "Verified traveller review", rating: 5, date: "2026-03-22", text: "On a adoré cette activité, tout était parfait, bien organisé et fluide. Que ce soit notre chauffeur Tony et toutes les personnes qui nous ont pris en charge étaient vraiment adorables. Je recommande de tester vous allez apprécier !! Merci à l’équipe, on est reparti avec des souvenirs inoubliables ." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-09-18", text: "Everything as described and better than expected in my opinion - we did the buffalo riding, ceramics class/tour, coffee making, basket boat ride and lunch. Buffalo riding is short and the local farmer leads you around a short course/area. Ceramic class is as it sounds but the museum included in tour is the real highlight - really cool clay sculptures and neat gift shop. You can ask them to mix it up but we did the coffee making first (~25min) and then the boat ride (~1 hour) which was great. Finished off with a local lunch back where you learn to make Vietnamese coffee and you’re ready to go." },
+                { author: "Claire", country: "Verified traveller review", rating: 5, date: "2025-02-26", text: "super gentil, j'ai passé un moment magique ❤️ je recommande++++" },
+                { author: "Kim", country: "Verified traveller review", rating: 5, date: "2024-12-15", text: "사람들 착해요, 한국분들 많네요 추천합니다!!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-11-28", text: "great experience lovely people we had so much fun" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-09-29", text: "Pottery making was a real highlight! An excellent trip overall." }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-private-tour-with-local-guide-in-hoi-an') {
+        return {
+            averageRating: 4.36,
+            totalReviews: 106,
+            guideRating: 4.3,
+            valueRating: 4.33,
+            reviews: [
+                { author: "Constance", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "We thoroughly enjoyed our private tour. Our driver was our tour guide as well and his communication skills were excellent and made the tour very interesting to learn about its history. He lives near My Son Sanctuary which was a bonus for us as he's native to the area. He purchased bottled water for us on site in readiness for our tour. He timed the tour perfectly for us to enjoy the Cham dancers and the incredible solo clarinet player which he played non stop without taking a breath. Our tour ended within the time allotment and drove us safely back to our hotel. This half day tour was 4 hours" },
+                { author: "Estelle", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "Lam (Lucky) was an amazing guide. We were collected from our hotel and then picked Lucky up on the way to My Son. The tour being just us (my mum and I) meant we could take our time ask many questions and really enjoy the tour. Lucky was able to take some great photos of us and taught us a lot about the sanctuary. Highly recommend this tour." },
+                { author: "Elaine", country: "Verified traveller review", rating: 5, date: "2026-05-21", text: "this was a good cultural experience, unlike others we saw. It's well worth the visit. Our guide was lovely and provided protection from the heat with an umbrella. She was most knowledgeable." },
+                { author: "Georgina", country: "Verified traveller review", rating: 5, date: "2026-04-11", text: "This tour is a great option for someone looking to visit My Son without various add+ons (boat trips, lunches, etc) - it is just a transfer to and from My Son with a guided tour for ca. 1.5 hours while you're there. The driver was punctual and professional. The guide (Oanh) was really friendly and knowledgeable and I learned a lot during the tour." },
+                { author: "Orla", country: "Verified traveller review", rating: 5, date: "2026-03-22", text: "really beautiful scenery and the temples are worth a look" },
+                { author: "Crystal", country: "Verified traveller review", rating: 5, date: "2026-03-02", text: "the guide by the english name of snow .... is just fantastic. so knowledgeable and passionate. I have been to Cambodia 3 times and vietnam to see temples. Hers by far is quite in depth. she is a keeper for sure." },
+                { author: "Chin", country: "Verified traveller review", rating: 5, date: "2026-02-25", text: "A must do activity when in Hoi An. Our guide is very knowledgeable and she did not rush through things but took time to explain and answer our questions. Learned a lot." },
+                { author: "jodi", country: "Verified traveller review", rating: 5, date: "2025-11-16", text: "Very good pick up driver was very friendly. We picked up our guide Lam who was a brilliant guide. Very friendly and funny and most importantly very informative. The tour length for us was just right. Would definitely recommend this tour" },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2025-11-10", text: "It was a bit more expensive to do this private tour, but I was short on time and didn’t want to do the other My Son tours that included a meal and other activities (food, cruise etc). Essentially this tour was a private driver for pick up and drop off, and then a different private tour guide at My Son Sanctuary. I found it really informative, my guide was great and showed me around the different areas and told me a lot about the area and effects of the war. I don’t think I would have gotten the same type of info and experience if I did this on my own" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2025-10-24", text: "I had a great experience with this private tour. I was picked up and dropped off right from my Hostel and the driver was very nice. Then I met my guide Quý who was a great guy. His English was strong and I had no issue understanding his detailed explanations of the Sanctuary’s history. We also shared some laughs and he told me stuff about his life and Vietnamese music he likes. It was great to meet you Quý and thanks for the great tour. The sanctuary is also very cool and worth a visit." },
+                { author: "Cindy", country: "Verified traveller review", rating: 5, date: "2025-10-19", text: "This was great! Super easy to plan on our schedule and our tour guide, Oahn, was awesome. Would highly recommend!" },
+                { author: "Divya", country: "Verified traveller review", rating: 5, date: "2025-09-27", text: "Ourr Guide was very knowledgeable about the history of myson sanctuary . It was a rainy day however he helped take lots of po photos for us and guided us throughout the tour." }
+            ]
+        };
+    }
+
+    if (slug === 'hoi-an-private-lantern-cruise-by-romantic-sunset-night-hoi-an') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 13,
+            guideRating: 4.0,
+            valueRating: 4.0,
+            reviews: [
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "It was very well organized and clear instructions on meeting point etc were given in advance. The boat was large and comfortable and the captain was excellent and took photos and was not intrusive at all. It’s great value for a 45’ private ride and very pretty at night. I thoroughly recommend it." },
+                { author: "Jamie", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "This was a great boat trip Dow the river. We were the only 2 on the boat. Our captain was very attentive and tested us like VIP. Highly recommend it." },
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2025-08-02", text: "We loved our trip from start to finish. Our captain was fabulous. A perfect way to end our holiday." },
+                { author: "Els", country: "Verified traveller review", rating: 5, date: "2026-07-29", text: "Het was een super lieve gids. We waren te laat omdat mijn telefoon was uitgevallen en de opstapplaats daarom niet konden vinden. Hij heeft echter geduldig op ons gewacht en ons toch nog een heel leuke tour bezorgt: zelfs met foto stops en we mochten lantaarns te water laten. Een echte aanrader om met deze gids mee te gaan!" },
+                { author: "marion", country: "Verified traveller review", rating: 5, date: "2025-03-26", text: "super, très gentil monsieur, un service parfait. ils prennent des photos de nous sans qu'on leur demande et nous aide à nous positionner pour avoir un meilleur rendu. non rien à redire" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-09-05", text: "Highly Recommended 💓 It is beyond our expectations because we had a wonderful private and relaxing experience by romantic on the lantern cruise riding for 45 minutes,passing many highlights of Hoi An town. You should try it when you are in the town because it is worth for any pennies that you spent. The captain is so nice and friendly with safe riding and well take care of us. Overall,we are so happy with this trip in Hoi An." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-09-05", text: "What a wonderful private cruise trip. It is so pleasant and relaxing on the private lantern cruise. It takes us to visit many highlights of Hoi An town from the cruise like Hoi An Market,Moon Bridge, Memory Lands... We chill out our memorial time by different ways.We stop at the middle of the river and release lotus lanterns for our wish. I before took boat tour but it was sharing boat not private cruise like this time. Our Captain is great with taking many photos for us and riding very safe for 45 minutes. Highly Recommend 💓" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-09-02", text: "Wonderful experience 💞. Not like small boat with sharing people on boat for 15 minutes. This is private lantern Cruise for 45 minutes riding to see all highlights of the town from the cruise. We had a wonderful trip.It is private and relaxing with chilling memory. Highly recommend 💞" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-morning-tour-with-quang-noodle-in-hoi-an') {
+        return {
+            averageRating: 4.63,
+            totalReviews: 682,
+            guideRating: 4.77,
+            valueRating: 4.64,
+            reviews: [
+                { author: "Trisha", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "It was a good tour, guide was informative. I like that we all meet at one location and it was easy to get in contact with them. My only complaint was that I didn’t get the Quang noodle but otherwise it was good." },
+                { author: "Luca", country: "Verified traveller review", rating: 5, date: "2026-04-30", text: "Hilarious to specify that is a \"female riders\". What's wrong with them? Mine was supersafe and efficient. The tour was pleasant, the guide made it really interesting too!" },
+                { author: "Deborah", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "we got swapped to the morning half day tour, which was great because it was 34°C today+humidity" },
+                { author: "Tan", country: "Verified traveller review", rating: 5, date: "2026-03-06", text: "Punctual pick up, guide informed us early that there was a technical issue with van hence would be delayed by about 10-20min. travelled 1h to my son sanctuary. Bought our own tickets for 150k each. Win our tour guide was very informative about Champa culture and practices. Fascinating to see structures build from 4th to 13th century. After spending about 2h at My Son, boarded van and headed back to hoi an, stopping along the way to get banh mi (included), then boarded boat to cruise back on thubon river." },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "Lam was our guide, he's the best! He was clear and knew a lot about the place. Great tour: many things included for such a small price. You just have to pay the entrance to the sanctuary." },
+                { author: "Sinead", country: "Verified traveller review", rating: 5, date: "2026-02-23", text: "My Son was an incredible experience. Walking through and touching ruins that predate Christianity itself is something that’s hard to put into words — it gives you a real sense of how ancient and enduring this place truly is. Our guide Lee was fantastic — funny, clear, and incredibly knowledgeable every step of the way. Thank you, Lee, for making it such an unforgettable experience." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "Totally Enjoyed this Trip. HOI AN FOOD TOUR have this trip well tuned for travellers. Mr Philip our Guide was Brilliant and very Informative. Would Totally Recommend to Everyone." },
+                { author: "Barbara", country: "Verified traveller review", rating: 5, date: "2026-02-10", text: "great trip. collected from hotel and driven in bus to site. guide very helpful. good boat trip included." },
+                { author: "Tomas", country: "Verified traveller review", rating: 5, date: "2026-02-08", text: "Ben was a great guide and very informative on the tour, lots of interesting facts and information" },
+                { author: "Heather", country: "Verified traveller review", rating: 5, date: "2026-01-30", text: "wonderful. My son peaceful and interesting. Guide gave right balance of information and free time. tasty meal mine was vegetarian best pancakes eaten. quick demo of how to make rice pancakes. river trip good" },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2026-01-29", text: "All perfect! The My Son Sanctuary is really unbelievable!" },
+                { author: "Anthony", country: "Verified traveller review", rating: 5, date: "2026-01-22", text: "The ruins were set in a beautiful setting. Our guide explained it really well. We were given ample time to look around before heading back for a lovely lunch and boat ride." }
+            ]
+        };
+    }
+
+    if (slug === 'south-hoi-an-river-safari-and-beach-dinner-hoi-an') {
+        return {
+            averageRating: 3.2,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2024-10-23", text: "It was very good, very informative and not busy during the weekday!! Dinner was excellent and had a great time overall" },
+                { author: "Mandy", country: "Verified traveller review", rating: 1, date: "2024-05-20", text: "There was no mention when booking that the tour was of an amusement park. The river safari was actually 15 minutes around a large pond where there were animals. The description of this tour is nothing like what it says so don’t waste your money. We didn’t even stay for the light display on river because we had been walking round the amusement park for hours at this point. We went to the said beachside cabana. We did not see the sunset because of the time of year, this should be made clear in the description. Neither did we get a beachside cabana, it was a table in a restaurant overlooking the" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2023-07-09", text: "Все было хорошо, но произошла небольшая заминка с водителем. И нам с гидом пришлось долго ждать машину после посещения парка. Хорошо, что компания оперативно заменила водителя, и мы продолжили нашу поездку." }
+            ]
+        };
+    }
+
+    if (slug === 'evening-food-tour-with-7-tastings-and-boat-trip-in-hoi-an') {
+        return {
+            averageRating: 4.85,
+            totalReviews: 438,
+            guideRating: 4.91,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Shelley-Anne", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "I had an excellent tour with Jackie, the selection of food & drinks was amazing, go hungry because there’s a lot of food! Jackie was very friendly & knowledgable & her english is also excellent. The boat trip was magical and bingo was a very fun way to end the evening." },
+                { author: "Alexandra", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "We loved this tour. Jackie was super friendly, spoke excellent English and could tell us about the food and the locals we visited. The choice of food was excellent and even for my daughter who is a bit picky, Jackie organised alternatives so that she could enjoy the tasting as well. The lantern boat ride at the end was beautiful. We really recommend this tour especially for those arriving in Hoi An as you will get great tips about where and what to eat, as well as a little tour of the center and old town for orientation." },
+                { author: "Leanne", country: "Verified traveller review", rating: 5, date: "2026-08-07", text: "Mr. Vu was wonderful! Every dish and every drink were delicious. The boat ride and bingo were amazing. No need to look any further for a food tour, this one is incredible. Ensure you eat nothing all day to enjoy all the full size meals!" },
+                { author: "Ryley", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "Emma was absolutely EXCELLENT. This was by far one of the best things we did our entire time here. It is a must!" },
+                { author: "Mary", country: "Verified traveller review", rating: 5, date: "2026-07-28", text: "This tour was well worth doing . Jackie was a wonderful tour guide . So much to eat and tasting the wonderful local foods was fabulous. We chatted together about local customs and Jackie gave us lots of information on the area The bingo game was so much fun Go do this tour , you will not regret it. ❤️" },
+                { author: "Tina", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Great food tour! The night boat trip was amazing! Highly recommend." },
+                { author: "Kevin", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Our guide Vu was very informative and took us to some great places to sample the local cuisine. The boat trip was enjoyable and the local bingo game was a fun way to end the evening. Highly recommend!" },
+                { author: "Jodi", country: "Verified traveller review", rating: 5, date: "2026-06-21", text: "This tour was a great way to not only taste the local flavors but to also see and learn about the local culture. The chosen dishes were all delicious!" },
+                { author: "Toke", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "Our tour of Hoi Ans food with our guide Jackie was fantastic. She is very knowledgeable about the food of Hoi An and guided us through charming alleys to great food." },
+                { author: "Fanny", country: "Verified traveller review", rating: 5, date: "2026-06-13", text: "Really interesting to learn more about the culture, great food and yes it’s a little of food!!" },
+                { author: "Seve", country: "Verified traveller review", rating: 5, date: "2026-06-06", text: "Jackie was amazing! She did a great job at explaining the significance behind each dish. Everything was so good! We even enjoyed walking through the market, playing Bingo and going for a latern boat ride. If you're looking for a great guide, book with Jackie, she'll take great care of you. Mahalo!" },
+                { author: "Kirsten", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "Our tour and guide was lovely - taking us to some small, lesser known locations to try some quality local fare. Part of our tour included a lantern boat ride during which the skipper of the boat took some photos of our group on the boat. During this activity the skipper dropped our mobile phone over the side of the boat and into the river …. Never to be seen again. Of course this was nothing to do with our lovely tour guide and she wasn’t present during the boat trip. Just sharing our story as a suggestion to all, don’t volunteer your phone to be used for photographs of your group / or selves." }
+            ]
+        };
+    }
+
+    if (slug === 'traditional-vietnamese-calligraphy-class-in-oldtown-in-hoi-an') {
+        return {
+            averageRating: 4.83,
+            totalReviews: 6,
+            guideRating: 4.83,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Bex", country: "Verified traveller review", rating: 5, date: "2024-11-21", text: "This was a very special workshop. I learnt about how to read some of the characters, and how they were designed, the history behind the art, the tools used, and then practiced writing some characters. The teacher was genuine, interesting and fun and spoke good English. This was a very enjoyable cultural experience into the art form. Definitely recommend." },
+                { author: "Anie", country: "Verified traveller review", rating: 5, date: "2024-06-21", text: "This was a great cultural activity. The teacher was talented, patient and funny. We learnt a lot and it was nice to have a souvenir to take home." },
+                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2024-03-14", text: "The teacher spends much of the time explaining the meaning of the various written characters. There was less time to practice your skills. The gift is a given quote you choose from." }
+            ]
+        };
+    }
+
+    if (slug === 'marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an') {
+        return {
+            averageRating: 4.78,
+            totalReviews: 41,
+            guideRating: 4.86,
+            valueRating: 4.73,
+            reviews: [
+                { author: "Jonathan", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "A great way to spend an afternoon, the guide (Paul) was very knowledgeable, and his insights and information really made this trip for us. Thank you." },
+                { author: "Cheryl", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "Was a fun afternoon although the first lot of steps up the mountain are very difficult to negotiate." },
+                { author: "Barbara", country: "Verified traveller review", rating: 5, date: "2025-12-26", text: "Everything was great, and our guide, Casper, was excellent at explaining what we were seeing." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2025-07-10", text: "Our guide Quyen was excellent. She had brilliant knowledge and provided lots of interesting information and insights into Vietnamese culture and went out of her way to make sure we had a fabulous experience. Her English was excellent and we clearly understood everything. Thank you Queen and Hang the driver." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2025-06-04", text: "I enjoyed the tour a lot. Michael and driver did a tremendous job. I found Michael to be helpful and funny. Some on the tour didn't help him, but he was great. The day was hot and the number of steps were difficult but Michael ensured everyone was going alright 👍 The tour was interesting and plenty of photos shots. Thank you Michael." },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2025-04-21", text: "Great to get an early start and guide gave us easy access to busy places. Am Phu cave was very good." },
+                { author: "Raquel", country: "Verified traveller review", rating: 5, date: "2025-02-23", text: "I think this tour is a must to do! I really loved it. The caves were amazing and the lady Buddha statue is very nice as well. Food was good and special mention to the tour guide, I think his name was Paul, he was very funny and close with us." },
+                { author: "Agata", country: "Verified traveller review", rating: 5, date: "2024-12-18", text: "Very nice tour, it was delivered what was expected :) The tourguide was lovely as well" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-30", text: "The day trip was great, our guide called Misa explained everything very well and was super nice, totaly recommended!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-17", text: "Der Ausflug hat Spaß gemacht und unser Guide Tin hat uns viel erklärt. Das war super!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "guide au top, organisation au top, je recommande" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-02-10", text: "Le was very informative guide. Be aware the steps up the mountain are very uneven." }
+            ]
+        };
+    }
+
+    if (slug === 'hoi-an-wet-rice-farming-tour-basket-boat-tour-fishing-lunch-hoi-an') {
+        return {
+            averageRating: 4.26,
+            totalReviews: 13,
+            guideRating: 4.67,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Zach", country: "Verified traveller review", rating: 5, date: "2024-09-10", text: "I had a blast - the trip was the highlight of my stay in hoi an and the entire team was incredibly accommodating across the farm visit, fishing trip, and coffee making. 10/10 would recommend!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "Really enjoyed all aspects of the tour. Tony the guide was very informative" },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2025-06-30", text: "2 hours were promised and the whole activity lasted 40 minutes. Poor value" },
+                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2025-06-26", text: "Nos ha gustado mucho por ser entretenida, no nos han explicado nada pero ha sido interactivo aunque caro para lo que ha sido y el tiempo que ha durado" },
+                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2025-05-08", text: "Explication sur le riz très très limitée (de la plantation à la récolte mais rien après sur le traitement du riz, la séparation des peux...etc) alors que c'était le but de l'activité! Nous ne recommandons vraiment pas, beaucoup trop cher pour ce que c'est. ( nous n'avons pas fait le tour en bateau ni l partie pêche)." },
+                { author: "Kupc", country: "Verified traveller review", rating: 3, date: "2025-04-15", text: "nous avons fait le tour en buffle et visite riziculture. bonne activité assez courte environ 1h . trop cher pour la prestation" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-09-01", text: "Amazing Trip 💞 We had wonderful day with local supplier. They created something very unique and special.It is worth for any penny that sepent. My friend's introduced to us and weill introduce to other people for the experience with this experience. Highly recommend.💞" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-08-31", text: "We had a memory trip in Hoi An. My friend s booked this trip last time and she really enjoyed the whole trip. She introduced to us and we really love the trip with us. Must try in Hoi An." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2024-08-30", text: "We had a wonderful experience in this morning. The trip is unique and well organized. We love to see all countryside life and activities. Highly recommend." }
+            ]
+        };
+    }
+
+    if (slug === 'countryside-bike-tour-farming-cooking-in-tra-que-in-hoi-an') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 4,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-01-14", text: "Trasferta-avventura in bici dal centro città al villaggio, tappa al mercato locale per acquistare il necessario per il corso di cucina e poi corso di cucina con Min al Lemon Basil Restaurant & Cooking a Tra Que. Grazie, ci siamo divertiti. Attività consigliata" }
+            ]
+        };
+    }
+
+    if (slug === 'marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an') {
+        return {
+            averageRating: 4.62,
+            totalReviews: 242,
+            guideRating: 4.59,
+            valueRating: 4.64,
+            reviews: [
+                { author: "Kyle", country: "Verified traveller review", rating: 5, date: "2026-02-27", text: "A great day out. Very informative with a very knowledgeable and good humoured guide" },
+                { author: "Lucy", country: "Verified traveller review", rating: 5, date: "2026-02-21", text: "A great day tour with Thien as our guide. We managed to fit so much into one day. Thien our guide was very informative and fun. We had a delicious lunch at a local restaurant. Would recommend this trip." },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2025-09-11", text: "A brilliant day with Tony who was so knowledgable and helpful. The bus was comfortable and there was plenty of water given out. The bus driver was experienced and courteous. Altogether a tiring but fun day exploring monkey mountain, marble mountain and My Son. Thanks Tony you were great!" },
+                { author: "Carmen", country: "Verified traveller review", rating: 5, date: "2025-08-09", text: "Mike has been an incredible tour guide today. We booked a whole day tour including Lady Budha and Marble Mountaim visita, as well as My Son Sanctuary. Best decision ever! Mike you are the best!" },
+                { author: "Loredana", country: "Verified traveller review", rating: 5, date: "2025-07-24", text: "The guide, Tony, was super nice and well prepared and the tour was very nice!" },
+                { author: "Vincenzo", country: "Verified traveller review", rating: 5, date: "2025-07-12", text: "Shout to our guide Then, whose English was great, and that made things funny and has unexplained context to us without talking continuously like other guides tends to do. The tour in itself was well organised, with enough time end flexibility to see things comfortably, and with no excessive \"upselling activities\". We have also been watered and fed throughout the trip with local quality food, which is always nice." },
+                { author: "Grace", country: "Verified traveller review", rating: 5, date: "2025-04-24", text: "Good tour with great guides. It was a big day with now tired legs but our guides were Tuian and other guide (who’s name I forget) were great! The day had a little bit of everything and we enjoyed it a lot." },
+                { author: "Isabella", country: "Verified traveller review", rating: 5, date: "2025-03-12", text: "Beautiful day. Michael, our tour guide was really good." },
+                { author: "Nina", country: "Verified traveller review", rating: 5, date: "2025-03-04", text: "We had a great experience exploring Marble Mountains and My Son Sanctuary with our guide, Thien. The tour was well-paced, and Thien provided interesting insights that made the visit even more special. Highly recommend!" },
+                { author: "Heather", country: "Verified traveller review", rating: 5, date: "2024-12-10", text: "FANTASTIC DAY! Thank you so much Tony for our fantastic day tour. Tony was a fantastic guide who gave us great facts and lots of laughs! All day we were well looked after, well fed and provided with lots of water. The tour was fantastic and we saw so many interesting things- Tony was also an excellent photographer for all our couples photos." },
+                { author: "David", country: "Verified traveller review", rating: 5, date: "2024-11-25", text: "Had a great full day trip to My Son Sanctuary and Marble Mountains. The guide we had for the day, Yum (Handsome Guy) was great, he was very informative on the places we were visiting and Vietnamese history. The weather wasn't great, we had light rain on and off throughout the day but it wasn't enough to spoil the day. I would suggest packing a poncho or rain jacket if it looks like raining, it's a long day and it would be uncomfortable doing it if you were wet." },
+                { author: "Gregory", country: "Verified traveller review", rating: 5, date: "2024-11-16", text: "It was a really nice trip with a very fun Guide Michael! He had a lot of information, but in a fun way. We loved it!" }
+            ]
+        };
+    }
+
+    if (slug === 'hoi-an-night-heritage-and-lantern-experience-hoi-an-2') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 18,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Clint", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "The trip was perfect Anna was great guide We enjoyed the boat ride , Bai Choi and historical significance of the old town The food and setting at the restaurant was fantastic" },
+                { author: "Jude", country: "Verified traveller review", rating: 5, date: "2026-05-04", text: "My tour guide, Emily was amazing and made the tour memorable. Great photography skills as she helped take some of our pics, extremely knowledgeable and overall would recommend her." },
+                { author: "Tania", country: "Verified traveller review", rating: 5, date: "2026-04-17", text: "Emily has been our favourite your guide so far in Vietnam. she is fantastic. she took care of us, gave us a thorough tour of the beautiful Hoi An city and is extremely knowledgable. we loved the tour and Emily so much we booked another tour with the company and requested her again to be our guide. a fantastic adventure! thank you for a great night!!" },
+                { author: "adam", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "Our guide was excellent, taking us to the main attractions in hoi Ann. defiantly recommend to anyone who wants to visit Hoi Ann and on a limited time period" },
+                { author: "peter", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "Amazing. Hoi An is beautiful at night. Our guide Emily was great. The best food we have had on any tour in Vietnam. If you have limited time you must do this tour. Releasing the lanterns is novel. It was the best tour we have done. Hoi An is absolutely stunning at night." },
+                { author: "Andriana", country: "Verified traveller review", rating: 5, date: "2025-12-08", text: "This trip was absolutely amazing. Our tour guide was Abbey and she was simply lovely. She was very cheerful and smiling and if you have the chance to ask for I highly recommend it. She thought us so much about the history and the culture" },
+                { author: "Allan", country: "Verified traveller review", rating: 4, date: "2025-06-02", text: "Food at dinner was great - guide was very kind and informative - boat ride on the river was very nice. Comfortable ride to and from Hoi An" },
+                { author: "Gianluca", country: "Verified traveller review", rating: 5, date: "2026-08-22", text: "La guida è stata eccellente e ci ha accompagnato tra le tante attività proposte con professionalità e ci ha fatto anche una bella sorpresa facendoci conoscere il bingo game. Attività assolutamente consigliata per chi visita da Nang." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-22", text: "Our tour was so amazing! Emily was our Guide. She was so thoughtful and carefully navigated us thru the streets and alleys. Her knowledge of the history of the area was so impressive. We would definitely recommend Hoi An Express for any of your travel options." },
+                { author: "Jutta", country: "Verified traveller review", rating: 5, date: "2026-02-19", text: "Wir hatten eine sehr nette Reiseleiterin, Emily. Die 15-minütige Bootsfahrt mit der Laterne war ein schönes Erlebnis. Das Essen im Restaurant war sehr gut. Danach hatten wir circa 1 Stunde Zeit, um die Geschäfte und den Nachtmarkt zu erkunden. Obwohl die Stadt mit Touristen überfüllt ist, war es ein gelungener 4,5 Stunden Ausflug in das nächtliche Hoi An." },
+                { author: "Sebastian", country: "Verified traveller review", rating: 5, date: "2025-11-25", text: "Emily war ein toller Guide und hatte viel über Geschichte und Stadt zu erzählen. Emily war sehr sympathisch und auch eine tolle Begleitung die viele tolle Bilder für mich gemachr hat. Das Essen war sehr lecker und der Platz hatte eine tolle Aussicht auf die Szenerie des Flusses und der Stadt. Das Ambiente war fantastisch. Spaziergang und Bootsfahrt durch die Stadt mit den tollen Laternen war ein malerisches Erlebnis." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-10-11", text: "The trip was well organized. We were picked up on time and taken to all the planned destinations. We had a wonderful Evening. Many thanks to the tour guide.🙏🫶🏼" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-half-day-journey-in-hoi-an') {
+        return {
+            averageRating: 4.38,
+            totalReviews: 132,
+            guideRating: 4.84,
+            valueRating: 4.4,
+            reviews: [
+                { author: "Jasbir", country: "Verified traveller review", rating: 5, date: "2024-03-07", text: "The ride and driver were Great. Our guide Be was fantastic, very informative, we thoroughly enjoyed the tour." },
+                { author: "Rosemary", country: "Verified traveller review", rating: 5, date: "2019-09-13", text: "Really fun, informative tour. The temple was gorgeous, and there are performances from the local people to enjoy. 10/10 would recommend." },
+                { author: "Marko", country: "Verified traveller review", rating: 5, date: "2019-05-08", text: "Beautiful place, great tour by Bit or Big not sure :) They ware punctual and kind." },
+                { author: "Rosalie", country: "Verified traveller review", rating: 5, date: "2019-04-18", text: "Short drive from Hoi An, My Son is a must if you are in the area. Great guide called Snow who gave us good commentary in English. She was great to chat with! My Son is pretty impressive." },
+                { author: "Maisy", country: "Verified traveller review", rating: 5, date: "2019-03-13", text: "My boyfriend and I had a really good time visiting My Son. Our tour guide was very informative and answered all questions we and the other people in our group had. We had plenty of time to wander round the ruins and take lots of photos and we didn’t feel like we were rushed. We were picked up and dropped off directly at our home stay too which was very handy! Definitely recommend this experience to anyone visiting Hoi An." },
+                { author: "Janet", country: "Verified traveller review", rating: 5, date: "2018-12-05", text: "Our guide Thach ('Mr Marble') was fantastic. He was very knowledgeable about the history, religious traditions and culture and a pleasant person. The My Son Sanctuary is well worth visiting. Review by Janet - New Zealand." },
+                { author: "Charlotte", country: "Verified traveller review", rating: 5, date: "2018-11-30", text: "Nice half-day trip to My Son. Guide spoke great English, was friendly and enthusiastic. Van was modern and clean while driving was safe." },
+                { author: "Carolyn", country: "Verified traveller review", rating: 5, date: "2018-10-04", text: "The guide was very friendly and well informed. The trip was very enjoyable (despite the rain)." },
+                { author: "andrew", country: "Verified traveller review", rating: 5, date: "2018-09-26", text: "Our guide Wind was very good, very knowledgeable we had a really enjoyable day out." },
+                { author: "Lisa", country: "Verified traveller review", rating: 5, date: "2018-08-01", text: "Our own guide and our own car. Very friendly, safe and affordable. Our guide spoke English well and was very knowledgeable" },
+                { author: "Tanya", country: "Verified traveller review", rating: 5, date: "2018-07-24", text: "This tour was fantastic and I would recommend it to anybody. The van was safe and very well air-conditioned and we appreciated the free cold water! The tour guide was informative and added some extra information we hadn't read in the tour guide books." },
+                { author: "TRICIA", country: "Verified traveller review", rating: 5, date: "2018-05-15", text: "This tour is amazing, our guide spoke very good english. His explanation of the site was very informative and entertaining. Definitely worth the walk." }
+            ]
+        };
+    }
+
+    if (slug === 'vietnamese-lacquer-painting-workshop-in-hoi-an') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Leanne", country: "Verified traveller review", rating: 5, date: "2026-07-13", text: "Le An Lacquer studio was so peaceful! I really enjoyed learning about the difference between lacquers and then getting to make my own picture using lacquer & egg shells. Lien was a great teacher that made the whole process feel so easy." },
+                { author: "Jacqueline", country: "Verified traveller review", rating: 5, date: "2026-06-18", text: "This was definitely a highlight of my trip. I was completely immersed in the world of lacquer art; the history, the techniques and the artistry. I made a beautiful piece that I am proud to hang on my wall. I have learnt a lot in the sessions and I look forward to purchasing some supplies to continue working in this medium at home." }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-w-unique-champa-lunch-5-30-8am-1-pm-in-hoi-an') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 466,
+            guideRating: 4.89,
+            valueRating: 4.83,
+            reviews: [
+                { author: "Serban", country: "Verified traveller review", rating: 5, date: "2026-08-24", text: "The sanctuary was amazing , the tour guide as well. Thanks" },
+                { author: "Stephanie", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "the tour guide was incredible very informative, very lovely man 🙂 really enjoyed all of the day." },
+                { author: "Péter", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "The trip was amazing, it is a really good opportunity for tourists in Hoi An who don'r want to get up early. Lucky, the guide was also great, answered everything and accomodated our every wish. We got cham dance and banh mi as well so it was great. It was also really hot, end of July afternoon." },
+                { author: "Tim", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "Thoroughly recommend it if you are visiting Hoi An. Our guide Lim was very friendly and knowledgeableand made sure our short tour went by without a hitch. We received a local coffee on arrival. We booked the 5.30am option and were grateful we did as it steadily grew more and more humid. We cooled down as we had our Vietnamese breakfast and cold drinks before we headed back to Hoi An." },
+                { author: "Hilary", country: "Verified traveller review", rating: 5, date: "2026-07-22", text: "We opted for the early tour, which is a great choice if you want to beat the heat and the crowds! It was a comfortable and informative car ride there and our guide had a lot of great information about the area." },
+                { author: "Michał", country: "Verified traveller review", rating: 5, date: "2026-07-15", text: "It was extremely nice private trip, well organized. We had an amazing private tour to My Son with our family. Our guide was friendly and knowledgeable. He explained the history and culture in a very interesting way while keeping both adults and children engaged. The tour was well organized, relaxed, and tailored to our pace. We learned a lot and really enjoyed the experience. Highly recommended to anyone. Thank you for a wonderful day!" },
+                { author: "Ganna", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "Very efficient ! Paul was a very cool and funny guide that gave us all the necessary information to fully appreciate the site. There were local performances, nice photo spots and a cool trip on a boat with banh mi included (delicious !). 100% would do it again :)" },
+                { author: "Hege", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "I had an amazing day! Got picked up even before time :-) And we arrived early to this pearl! I highly suggest the morning trip, while it's still a cool temperature. And almost no one else there. Lucky was our guide, and did a brilliant job. So informative, caring and the best of humor! Excellent English, and know this area quite well as he has grown up here. On our quick walk from the car, while we got coffee, we passed through the massive field of Lotuses, incredible sight. Time flew quickly, beautiful ruins with lots of history, and at the end we had a delicious breakfast. Highly recommended" },
+                { author: "Kerryn", country: "Verified traveller review", rating: 5, date: "2026-07-02", text: "We had a wonderful experience. It was a great decision to go early morning, to beat the heat and crowds. Lam (our guide) was very knowledgeable and friendly. He shared many stories which added to the experience." },
+                { author: "Vorian", country: "Verified traveller review", rating: 5, date: "2026-06-30", text: "Wonderful guide Linn. So very knowledgeable and great English." },
+                { author: "Job", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "Very hot but a great tour. Thank you miss T for your guiding" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-06-26", text: "Excellent trip, great guide and food. Recommend as a must do whilst in HoiAn." }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 356,
+            guideRating: 4.89,
+            valueRating: 4.72,
+            reviews: [
+                { author: "Anita", country: "Verified traveller review", rating: 5, date: "2026-08-20", text: "Lin was perfect guide. She shared with us lot of historical details and interesting facts. She took care of us perfectly. Her English is brilliant. The places we visited are worth seeing, all was very well planned starting at 5.30 am was great idea to skip crowds and hot weather. I truly recommend" },
+                { author: "Jean-Jacques", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Great ride to My Son and the Marble Mountain with 2 différent excellent guides" },
+                { author: "Jose", country: "Verified traveller review", rating: 5, date: "2026-06-10", text: "Our Guide Lin was absolutely fantastic today. She looked after us and guided us through the tour with a smile and important cultural information, making this a very special tour and big highlight of my trip to Vietnam. My Son Sanctuary and Marble mountains are a must visit as they are important cultural landmarks in Central Vietnam. Thr tour bus was comfortable and airconditioned, the lunch provided was delicious and Lin took care of us all day and was always willing to answer our many questions. It was a memorable experience and I highly recommend this tour. Thank you Lin 🙏" },
+                { author: "Noah", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "Theday trip was great. Linh who was our guide that was amazing and she really had a great personality in a time of good information she made the entire experience worth it! Shout out to Linh!!" },
+                { author: "Ella", country: "Verified traveller review", rating: 5, date: "2026-05-06", text: "Super fun expérience lin is such a sweetheart and super knowledgeable about the sites even took us on a small side quest at marble mountain also amazing conversations had with her while in our transport thank you Lin!" },
+                { author: "Bianca", country: "Verified traveller review", rating: 5, date: "2026-04-23", text: "Would recommend this day trip. Book early to avoid the midday heat when travelling in summer!" },
+                { author: "Pauline", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "our guide Lambh was fantastic. really knowledgeable and pleasant to talk to." },
+                { author: "Chiara", country: "Verified traveller review", rating: 5, date: "2026-03-17", text: "Beautiful trip, it allowed us to discover the most in a short time. We very appreciated our tour guide Juney, she provided fun facts and the story of the place. Racomanded" },
+                { author: "Joan", country: "Verified traveller review", rating: 5, date: "2026-03-02", text: "Highly recommend this tour. Lucy was an amazing guide and very kind and patient." },
+                { author: "Bartłomiej", country: "Verified traveller review", rating: 5, date: "2026-02-19", text: "well organized trip with good program and price. the guide was speaking English pretty nice" },
+                { author: "Manos", country: "Verified traveller review", rating: 5, date: "2026-02-07", text: "Everything was Great and he had lot of fun. Also, our tour guide, Casper, was very helpful giving ua lots of information." },
+                { author: "Fiona", country: "Verified traveller review", rating: 5, date: "2026-02-03", text: "Our guide was friendly, kind and very knowledgeable. We learnt a great deal about the sites and Vietnam. Thank you." }
+            ]
+        };
+    }
+
+    if (slug === 'cham-island-speedboat-tour-with-snorkeling-in-hoi-an') {
+        return {
+            averageRating: 4.62,
+            totalReviews: 369,
+            guideRating: 4.95,
+            valueRating: 4.52,
+            reviews: [
+                { author: "Tara", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Very fun snorkeling trip. Miss Banana did a great job keeping our group together on the trip and explaining some of the culture of the Cham islands. She was a great guide and kept everyone happy and smiling all day. The snorkeling was good and we saw a good variety of fish, sea cucumbers, and starfish. There were some small jellyfish in the water which I heard was normal in the summer months and obviously can’t be controlled by the guides. We still enjoyed the snorkeling. The lunch provided was filling and we enjoyed watching the monkeys try different ways to get to our food. The restaurant st" },
+                { author: "Amine", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Absolutely excellent, I really enjoyed every moment. We had the lunch in the local restaurant was delicious. The Tour Guide \" Sky \" was friendly and very professional, he makes our experience really nice." },
+                { author: "Mike", country: "Verified traveller review", rating: 5, date: "2026-09-03", text: "Great day out at the Cham islands snorkelling. Miss Duyen was fantastic, very helpful, informative and entertaining. The lunch was delicious. Happy to recommend this trip to anyone." },
+                { author: "Natalie", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "Ms. Banana was amazing! Really enjoyed this experience" },
+                { author: "Roger", country: "Verified traveller review", rating: 5, date: "2026-08-16", text: "Had a great experience, very enjoyable. Our guide One was very helpful and informative." },
+                { author: "iris", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "the tour was amazing we got way more than just snorkeling without it taking away from your time to explore the waters. our tourguide Miss Duyen was amazing; so sweet and super enthousiastic!! We don't have anything to complain and I couldn't reccomend thia tour and with Miss Duyen enough!! :)" },
+                { author: "Emilia", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Super fun activity and fun to get away from city life a bit to see the Cham Islands. We got to see quite a lot of fish and corals during our snorkeling tour, and during beach time we even saw a monkey. The water was great and everything neatly organized. Our guide Miss Duyen/Banana was amazing, super good at keeping the group together and informing us/giving stories about what we were about everything during the tour!!" },
+                { author: "Alex", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "Miss Banana was great! She was organised, funny and very helpful the whole day. The trip was pretty good overall!" },
+                { author: "Allison", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "The tour was great! Lots of communication and plenty of free time to swim/ snorkel or chill. Miss Banana was an amazing guide! Very kind and funny. Would definitely recommend this tour 10/10. 😆" },
+                { author: "Suzi", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "Brilliant day. Prompt pick up. Tour guide really good (sky) informative, kind and helpful. Beautiful island and we loved snorkelling. My kids also did scuba for the first time (ages 7 and 10) and loved it they were really good with them. Saw loads of different fish. My son said ‘best day ever’ oh and food was delicious - we are also vegan catered well" },
+                { author: "Angela", country: "Verified traveller review", rating: 5, date: "2026-08-01", text: "Sky was a wonderful guide, he was attentive and informative. The boat trip was pleasant and a wonderful lunch provided, with all dietary requirements catered for! would recommend the diving option for the add on extra. Highly recommend this tour and Sky!" },
+                { author: "Yasmine", country: "Verified traveller review", rating: 5, date: "2026-07-31", text: "Really Nice with Oanh our guide she was so sweet and helpful . Also really nice activity to do as solotraveler I really recommend !" }
+            ]
+        };
+    }
+
+    if (slug === 'from-da-nang-hoian-hue-hue-imperial-city-full-day-tour-hoi-an') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 363,
+            guideRating: 4.84,
+            valueRating: 4.72,
+            reviews: [
+                { author: "claire", country: "Verified traveller review", rating: 5, date: "2026-08-08", text: "Oanh was a great tour guide, good English and full of knowledge. The tour was designed at a good pace, time to learn, take photos and rest in the car between sites. The place we stopped to eat was a beautiful building and had delicious, plentiful food." },
+                { author: "Lukas", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "Oahn is a nice guide and she did a great job. If you wanna visit Hue form Da Nang (one day) - for great value and less money - this tour is perfect for you." },
+                { author: "Enrique", country: "Verified traveller review", rating: 5, date: "2026-07-09", text: "Perfect, everything was great. The guide was very friendly and explained everything very well." },
+                { author: "Oleksandr", country: "Verified traveller review", rating: 5, date: "2026-07-06", text: "I joined the Hue Imperial City Full-Day Tour, and it was one of the highlights of my trip. The itinerary was very well planned. We visited the Imperial City, the royal tombs of the Nguyen Dynasty, Thien Mu Pagoda, and several other fascinating places. Our guide didn’t just show us the sights - he shared engaging stories about the history, culture, and traditions, making every stop come alive. The lunch included in the tour was delicious and was a nice addition to an already wonderful day. A huge thank you to our guide for his professionalism, fascinating explanations, positive attitude, and ge" },
+                { author: "Dicken", country: "Verified traveller review", rating: 5, date: "2026-06-19", text: "Highly recommended. We had an amazing day and learned so much about Vietnamese history from our guide and the relevance of each of the sites we visited. The tombs and imperial city visits were all fascinating places that were made more memorable and interesting by our guide. A truly awe inspiring day." },
+                { author: "Andrea", country: "Verified traveller review", rating: 5, date: "2026-06-16", text: "the guide Ben was so helpful along the way, and gave very informative commentary at all the sites as well as useful tips. The day was extremely hot but our comfort was considered as best as possible. The lunch was of very high quality banquet style, but served to our table." },
+                { author: "Eleftherios", country: "Verified traveller review", rating: 5, date: "2026-05-23", text: "The trip was very interesting with explanations for everything we saw. Ray was absolutely amazing, being able to provide answers to all of our questions and leading us through all the best spots. Would highly recommend." },
+                { author: "Christopher", country: "Verified traveller review", rating: 5, date: "2026-05-10", text: "Thanh (John) was a brilliant guide. Particular highlights were the recent history of Vietnam, the Imperial City, the lunch, and the temples. It's a long day but really enjoyed it and the transport was comfortable." },
+                { author: "Morgan", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "Our guide was very knowledgeable about the history and shared so many stories about Hue and the Imperial City. Him and the driver were kind, attentive to every detail, and were happy to answer all our questions on the tour. The transportation was clean and they made sure we had cold water and strong AC which was appreciated in the super hot weather. Overall great experience and good value for the money as you get a full day experience. Thanks again to our tour guide and driver!" },
+                { author: "Valerie", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "guide was excellent. mini bus too small for big Europeans" },
+                { author: "Valtteri", country: "Verified traveller review", rating: 5, date: "2026-03-30", text: "The guided tour to Hue Imperial city had many amazing sights to see which I would definitely recommend visiting if you’re in the area. The tour started early and took most of the day because of the many sights. Schedule was tight but our guide Jeni gave us time to see the places for our selves and helped with taking pictures. She also gave good information on the history and meaning of many places and answered our touristy questions 😂 Great experience in the Da Nang area." },
+                { author: "Anthony", country: "Verified traveller review", rating: 5, date: "2026-03-26", text: "I would thoroughly recommend this tour. The coach ride to Hue was enjoyable, it gave us an opportunity to see some of Vietnam's magnificent countryside. Before we arrived at The Imperial Palace we had a magnificent lunch. Our guide Tam was very informative answering all the questions that I asked. I was fortunate enough to be travelling with a really friendly group of people from many parts of the world. Let's not forget about our most wonderful driver who got us there and back safely!! Thank you so much. A day that I will always remember. Anthony from Australia 🦘 🙏" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-early-morning-with-banh-my-and-coffee-6-am-in-hoi-an') {
+        return {
+            averageRating: 4.74,
+            totalReviews: 208,
+            guideRating: 4.78,
+            valueRating: 4.68,
+            reviews: [
+                { author: "Catherine", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "Everything was excellent. Taking the early tour meant we got to see the my son when it was almost empty (about 2 other groups there at the same time). Transport was punctual. Our guide was brilliant, very knowledgeable and friendly and the trip had a great balance of facilitated guided tour and time to walk round at your own pace." },
+                { author: "anne", country: "Verified traveller review", rating: 5, date: "2025-04-03", text: "We really enjoyed the tour. Our guide Li was excellent, really knowledgeable and related all the info well. He also kept the day fun." },
+                { author: "Ιωαννα", country: "Verified traveller review", rating: 5, date: "2025-04-03", text: "We booked the early morning tour. Lee was very helpful , very detailed and well-informed about The sanctuary. I fully recommend his guidance!" },
+                { author: "Teagan", country: "Verified traveller review", rating: 5, date: "2025-03-19", text: "Our guide was so lovely and made the whole experience more fun! The sanctuary was beautiful but very crowded. Opt for the sunrise tour if you can 😊" },
+                { author: "Frederic", country: "Verified traveller review", rating: 5, date: "2025-02-24", text: "Good organized and very kind guide. We enjoyed the early tour to My Son" },
+                { author: "Stacey", country: "Verified traveller review", rating: 5, date: "2025-01-07", text: "Highly recommend an early morning tour to experience the ruins without crowds, and enjoy the natural environment! Our guide Tu was fantastic, the Banh Mi and coffee delicious." },
+                { author: "William", country: "Verified traveller review", rating: 5, date: "2024-11-21", text: "We had a great time with Lee our guide. He was very knowledgeable on My Son . We had a good time" },
+                { author: "Jonny", country: "Verified traveller review", rating: 5, date: "2024-11-09", text: "We had a great time on our My Son tour with our wonderful guide Thuy! She was very knowledgeable and we had great conversation in between the tour. My Son was great and 100% worth seeing. There was a lot of tourists there and it was hot, so bring a hat and wear light clothes. Thuy was very passionate about Hoi An foods, so we felt the lunch could have been one of the foods she recommended, like Cao Lau. Other than that it was fantastic. We had a short boat ride through Hoi An at the end, and had some great photos on the boat. Really enjoyed the trip" },
+                { author: "Siarhei", country: "Verified traveller review", rating: 5, date: "2024-07-23", text: "We enjoyed the tour very much, our guide Mr Lee was very knowledgeable and fun and gave is a lot of interesting facts about Vietnam history. We arrived just in time to avoid most crowds and had very pleasant morning. Totally recommended! Thanks a lot, Mr Lee!" },
+                { author: "Lela", country: "Verified traveller review", rating: 5, date: "2024-07-02", text: "Today was very hot. The early departure was great, and we would have happily departed earlier to enjoy cooler morning temperatures or even the My Son for sunrise." },
+                { author: "María", country: "Verified traveller review", rating: 5, date: "2024-05-05", text: "Dong, my guide, was excellent! She was very patient and knowledgeable. You can tell she's very passionate about the history. It was a great idea to take an early morning tour as My Son gets really hot later and it'd be really uncomfortable to visit then. The site is incredible and good for archaeological buffs. The breakfast was excellent too!" },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2024-03-28", text: "The early morning trip is so worth it! We only saw one other group when there but there was massive queues when we were leaving at 9am. Our guide was very friendly and informative and the cafe we went to after was nice." }
+            ]
+        };
+    }
+
+    if (slug === '2-hours-painting-class-with-local-artist-in-oldtown-in-hoi-an') {
+        return {
+            averageRating: 4.96,
+            totalReviews: 34,
+            guideRating: 4.82,
+            valueRating: 4.76,
+            reviews: [
+                { author: "Caroline", country: "Verified traveller review", rating: 5, date: "2026-09-11", text: "The Activity was o satisfying & Phap was such a good art instructor." },
+                { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-08-21", text: "Absolutely incredible! Would highly recommend! A must do!" },
+                { author: "Chris", country: "Verified traveller review", rating: 5, date: "2026-07-30", text: "Phap was an excellent tutor and his studio is very quiet and peaceful. He really helped me with my technique and I learnt a lot in 2 hours. I really enjoyed the relaxing experience of creating my own beautiful art to take home. I can really recommend this activity." },
+                { author: "Sameera", country: "Verified traveller review", rating: 5, date: "2026-06-04", text: "The aritist was excellent - guided you through the process and was very patient and kind. Helped mix the colour palette and gave good tips along the way. Very happy with the experience." },
+                { author: "Tasia", country: "Verified traveller review", rating: 5, date: "2026-05-26", text: "We were in the most beautiful studio space surrounded by nature, with such a lovely teacher! He was patient and very helpful! His artwork was amazing. There were a selection of photos to choose from, or you could paint your own design, which you dry and take with you at the end. I loved it so much and would highly recommend!" },
+                { author: "bob", country: "Verified traveller review", rating: 5, date: "2026-04-12", text: "very patient and skilled guide, really helped me with technique. the 2 hours flew by! would highly recommend" },
+                { author: "Mary", country: "Verified traveller review", rating: 5, date: "2025-11-16", text: "Beautiful and relaxed location in Old Town on the river. The presiding artist was so patient guiding me through painting with acrylic. Had a wonderful experience, learned a lot and even have a completed painting to take home. Highly recommend this experience." },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2025-08-16", text: "It was a wonderful experience! Phap is a very nice person and a talented artist. We made beautiful pictures - great memory!" },
+                { author: "Sadie", country: "Verified traveller review", rating: 5, date: "2025-07-18", text: "this was so fun and relaxing! he was extremely helpful and the atmosphere was peaceful! you get to paint whatever you want but he provides you with images for inspiration if you want to make the painting based on vietnam! 10/10 experience!" },
+                { author: "Jojo", country: "Verified traveller review", rating: 5, date: "2025-01-02", text: "It was the most relaxing and amazing experience- highly recommend!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-17", text: "מדהימה! המדריך היה ממש איך הסביר גם כשהייתי עם עוד 2 למה ככה ובאיזה צבעים צריך וכיף לעבוד בצורה כזו כשמבינים את ״הכללים ״" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-08-13", text: "Phap was very kind, knowledgeable and encouraging. I had a fabulous experience." }
+            ]
+        };
+    }
+
+    if (slug === 'thanh-ha-village-tour-with-pottery-making-and-gift-in-hoi-an') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 111,
+            guideRating: 4.9,
+            valueRating: 4.81,
+            reviews: [
+                { author: "Helen", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Very good tour and very informative. Our tour guide was excellent. We had tour of the museum, got to make pottery on the wheel with help of course. Had tour of the village and got to see a few locals working with the clay. All very talented. Did the pot breaking game which was awesome and then final tour of the miniature gardens. Highly recommend" },
+                { author: "Sam", country: "Verified traveller review", rating: 5, date: "2026-07-25", text: "This was an absolutely amazing experience, between learning the history of pottery villages around Vietnam, making our own pottery, playing a traditional game and the lovely tour round the village, we were an awesome the entire time. This experience deserves 6 out of 5 stars 🤩" },
+                { author: "Ary", country: "Verified traveller review", rating: 5, date: "2026-06-27", text: "This was possibly my favorite activity from my entire Vietnam trip! I learned so much about traditional pottery making from the museum tour, the hands on pottery making with the experts, and visiting the Legends in their workshop! The pieces were so beautiful and I love the souvenirs that came with the experience as well as the souvenirs I bought from the Legends. Our guide Hoa was really nice and made sure all guests’ needs were taken care of! Definitely recommend!" },
+                { author: "Magdy", country: "Verified traveller review", rating: 5, date: "2026-05-20", text: "Nice tour of the museum and history of the many pottery villages. Made our own pots and played a pot smashing game. We then toured the village and saw many shops. Our guide was very nice and even gave us gifts. Thanks so much!!" },
+                { author: "Gigi", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "It was amazing!! The terracotta park was a wonderful experience made even more special by our tour guide Ly, who was incredibly informative and amazing to us. Thank you Ly for your gifts, but mostly for your time in showing us the excellently designed art gallery and museum, plus the wider park. And what an epic miniature world there is!" },
+                { author: "Katie", country: "Verified traveller review", rating: 5, date: "2026-02-03", text: "This was such a fun tour!!! My friend and I got a private tour with Ly. She was incredible, kind, funny, and spoke great English. We toured through the museum, village, and got to make our own pots! (No experience needed!!) we even got to participate in a pot breaking game! I highly recommend this tour and highly recommend Ly!!💛" },
+                { author: "Sophie", country: "Verified traveller review", rating: 5, date: "2026-01-23", text: "We did the tour with Dung, she was a great guide. She was super informative and answered our many questions. We were surprised that the tour was private for just me and my husband. We really liked touring the museum and the village. It was amazing how intricate the clay pieces were. Would definitely recommend!" },
+                { author: "Benjamin", country: "Verified traveller review", rating: 5, date: "2026-01-20", text: "The museum we towed was very interesting and the village was super cool to see. Of course we got to make some pottery ourselves and we got to keep it. Finally we got to smash some pottery at the end for a little cherry on top of a great adventure" },
+                { author: "Warren", country: "Verified traveller review", rating: 5, date: "2026-01-09", text: "Our guide was knowledgeable, arrived on time and we really enjoyed the tour. Great value for money, no hassle from sellers and lots of free gifts." },
+                { author: "Julie", country: "Verified traveller review", rating: 5, date: "2025-12-27", text: "I’ve learnt so much about clay, Vietnam culture and Thanh Ha village (terracotta village). The highlight for me is the game we played at last and the tour around the clay made monuments!" },
+                { author: "Marina", country: "Verified traveller review", rating: 5, date: "2025-12-04", text: "The tour was absolutely fantastic! Our guide was knowledgeable, friendly, and made the history come alive. The small workshop was a real highlight and very well organized. We even received a small gift at the end, which rounded off the experience perfectly. Highly recommended – we were super happy!" },
+                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2025-11-16", text: "We booked this as a last minute activity, and we are so glad we did as it became one of the favourite things we did in Hoi An. Ly was a great guide and it was really interesting to learn about the different types of pottery. There was a variety of activities and it was really interactive after the museum section which I wasn't expecting. Came away with loads of treats!" }
+            ]
+        };
+    }
+
+    if (slug === 'explore-da-nang-highlights-tour-with-private-service') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 2,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-04-29", text: "Great tour guide, he took us to all the places we wanted to go to and waited patiently at each location / stop" }
+            ]
+        };
+    }
+
+    if (slug === 'coconut-basket-boat-ride-and-fishing-experience-in-hoi-an') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 8,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Anna", country: "Verified traveller review", rating: 5, date: "2026-04-10", text: "The locals were so friendly and kind. We did it with our two kids and they were great with them. Crab fishing was fun esp for the kids. The only thing is there is a very small amount of plastic floating in the water. However the experience itself was so much fun! Not to be missed." },
+                { author: "Suppa", country: "Verified traveller review", rating: 5, date: "2024-08-24", text: "franchement c'est déjà très bien" },
+                { author: "LIBANET", country: "Verified traveller review", rating: 5, date: "2023-12-16", text: "Tres bien organisé ! Nous avons eu une excursion vraiment privative nous avons embarqué sur un quai a part loin de la foule ... nous avons vu des gros embarquements de masse au loin et c est pas du tout la meme experience je pense. La c etait genial ;) je vous le recommande !" }
+            ]
+        };
+    }
+
+    if (slug === 'electric-scooter-countryside-adventure-in-hoi-an-hoi-an') {
+        return {
+            averageRating: 4.91,
+            totalReviews: 48,
+            guideRating: 5.0,
+            valueRating: 4.61,
+            reviews: [
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2025-08-12", text: "Highly recommend this, esp for those with teenage kids. Gets them sightseeing but they will enjoy it and learn a lot about Vietnamese culture and life. We loved it. Well worth the money." },
+                { author: "Lee", country: "Verified traveller review", rating: 5, date: "2025-07-16", text: "We had a fantastic experience on our morning half-day e-scooter adventure! We were incredibly lucky to have the tour all to ourselves, as no one else was booked that day — it made the experience feel even more personal and special. Abby, our guide, was an absolute delight — warm, fun, and incredibly attentive. We were also grateful for the lovely male assistant who stayed with us the entire time, ensuring everything ran smoothly as we explored the beautiful Hoi An countryside. My husband is experienced with scooters, having ridden motorbikes in a previous life, but I was a complete novice. All" },
+                { author: "Tim", country: "Verified traveller review", rating: 5, date: "2025-07-14", text: "Loved our guide. Loved the scooter. We had a blast" },
+                { author: "Kylie", country: "Verified traveller review", rating: 5, date: "2025-07-08", text: "I would highly recommend this tour. We had a fantastic time getting to see all the non tourist places and visiting locals to see what their daily lives were like. Our tour guide Emily was amazing. She was very knowledgeable and made us feel very welcome." },
+                { author: "Rebecca", country: "Verified traveller review", rating: 5, date: "2025-06-05", text: "Absolutely amazing! Abby and Bluesky are amazing tour guides thankyou" },
+                { author: "Amber", country: "Verified traveller review", rating: 5, date: "2025-01-23", text: "We had a great time on this tour. We had never driven scooters before but we really wanted to try it out and explore Hoi An at the same time so this was perfect! We had a 50cc scooter each (no license required for these) and our guide showed us how to ride them in their parking lot, once he was satisfied we were confident, off we went! It was definitely a shock riding these straight through the busy streets of Hoi An to get to the countryside but we felt safe (there was one guide in front and another at the back). One of the highlights was visiting the vegetable village and learning how they m" },
+                { author: "Simon", country: "Verified traveller review", rating: 5, date: "2024-10-01", text: "The tour was excellent had a great time would strongly recommend. Need confidence to negotiate traffic but I had a great time. Thanks Hang" },
+                { author: "Silvia", country: "Verified traveller review", rating: 5, date: "2024-01-25", text: "Great tour!! Very well organized and the guide very friendly! They gave us time to get to know the motorcycle before the tour started!" },
+                { author: "Essy", country: "Verified traveller review", rating: 5, date: "2023-10-24", text: "despite the heavy rain John made the experience trully unforgettable. must do if your in Hoi An" },
+                { author: "Jesse", country: "Verified traveller review", rating: 5, date: "2023-09-28", text: "The tour was great - I suppose more motoring around would of been my only want out of the the tour . A list of food provided would of been helpful too . We ate lunch then went on the tour which would of been better of not eating so we could enjoy the bah mi . Our entire group of 8 really enjoyed the afternoon obviously with the scooters being the highlight for us and the 4 kids ." },
+                { author: "Fran", country: "Verified traveller review", rating: 5, date: "2023-05-07", text: "we had great fun scooting around looking at local industries. we really enjoyed getting off the main roads and experiencing more of the culture. Our guide had excellent English and made the trip really enjoyable. The scooters were easy to ride. I recommend this tour" },
+                { author: "Kelly", country: "Verified traveller review", rating: 5, date: "2023-04-11", text: "The tour was amazing! Loved it all but my favourite part had to be driving through the rice field. I would highly recommend this tour!" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-morning-or-sunset-river-cruise-bbq-or-banhmi-in-hoi-an') {
+        return {
+            averageRating: 4.72,
+            totalReviews: 363,
+            guideRating: 4.81,
+            valueRating: 4.69,
+            reviews: [
+                { author: "Gopal", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "The trip was well planned, neatly communicated and nicely executed. our tour guide - Mr.Lam - was such a sweet young man who was not only very informative but kind hearted too. He made the trip extra worthwhile. In general, Vietnamese people are very welcoming and helpful in nature... this trip proved this again and wanting me to come back to this great country of Vietnam again." },
+                { author: "Deborah", country: "Verified traveller review", rating: 5, date: "2026-01-16", text: "Lam was excellent, having grown up and still living close to My Son he knows the history so well. Right amount of time at the sanctuary and excellent cruise on the river with bbq bits. Thoroughly recommend." },
+                { author: "Owain", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "Tin, our guide, was excellent. He was very informative and friendly. My Son was well worth seeing and the boat and bahn mi were a lovely way to finish the tour. Diolch Tin!" },
+                { author: "Heather", country: "Verified traveller review", rating: 5, date: "2025-12-27", text: "Our guide Thao was really knowledgable. He not only gave us info about the history of My Son, he told us stories of his youth and what it was like to grow up in the area. That was appreciated by us all." },
+                { author: "Carlo", country: "Verified traveller review", rating: 5, date: "2025-10-16", text: "The trip was well structured with a guided tour with excellent knowledge and story telling by Thao, following by a lovely traditional Cham performance. The food, rice wine and boat trip were a super ending to a fun day. Thao was a great tour guide, really passionate about local history, warm, engaging and superb English speaker. Highly recommend this trip" },
+                { author: "Elin", country: "Verified traveller review", rating: 5, date: "2025-10-05", text: "Our tour guide, Van, was amazing. He brought so many interesting and interesting educational stories of his life and Vietnam’s history. This hugely enhanced our experience." },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2025-10-04", text: "The tour was really good and our guide Tin made it! He was so knowledgeable and full of facts and history. It wouldn’t have been as good without him" },
+                { author: "Oskar", country: "Verified traveller review", rating: 5, date: "2025-09-17", text: "We had the absolute pleasure of having Lyn as our guide, and she truly made our experience unforgettable. From start to finish, she was incredibly kind, patient, and full of positive energy. She taught us a lot about culture and history of the region. At the end of the trip she gave us tips what to do in the city and what we should avoid. 100% worth it." },
+                { author: "Pia", country: "Verified traveller review", rating: 5, date: "2025-09-01", text: "I had a great time. Lindt was an excellent guide, very friendly. My Son is an amazing sight." },
+                { author: "Eric", country: "Verified traveller review", rating: 5, date: "2025-08-29", text: "My family enjoyed the tour very much. Han was great! very polite and informative throughout the entire time. Definitely recommend it for small groups." },
+                { author: "claire", country: "Verified traveller review", rating: 5, date: "2025-08-14", text: "It was a super tour and Thao our driver was incredible. He was so knowledgeable about the area and the full history of the temples." },
+                { author: "Martyn", country: "Verified traveller review", rating: 5, date: "2025-08-08", text: "A perfect day out. Charlie the guide was excellent 👍" }
+            ]
+        };
+    }
+
+    if (slug === 'full-day-my-lai-massacre-memory-tour-in-hoi-an') {
+        return {
+            averageRating: 2.76,
+            totalReviews: 2,
+            guideRating: 2.76,
+            valueRating: 3.0,
+            reviews: [
+                { author: "Donal", country: "Verified traveller review", rating: 4, date: "2018-12-27", text: "well presented by tour guide who was knowledgeable on location and sites on way to and from Son My area." },
+                { author: "Kerrie", country: "Verified traveller review", rating: 1, date: "2018-02-09", text: "The trio was long with one stop at a pig market. The My Lai site is a must see and very moving. The lunch stop was at the dirtiest chicken restaurant and served chicken guts, boiled chicken and rice. The food was prepared on the floor outside the toilet with dogs and cats walking around. The best part of the meal was the pickled onions. The tour guide doesn’t talk much so beware. I would not recommend Hoi an express for this tour. Avoid at all costs. The guide also drinks beer at lunch." }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-tour-by-van-and-boat-from-hoi-an-da-nang-hoi-an') {
+        return {
+            averageRating: 4.87,
+            totalReviews: 845,
+            guideRating: 4.97,
+            valueRating: 4.84,
+            reviews: [
+                { author: "Alice", country: "Verified traveller review", rating: 5, date: "2026-09-12", text: "I enjoy my trip to My Son and Hoi An. The views were very beautiful of the mountains and landscape. The old temples were an amazing site as well. my tour guide Diem was so very kind, considerate, helpful, and she knew so much about the My Som Sanctuary and Hoi An. I had a lot fun and had a wonderful experience on this tour. Thank you, Diem." },
+                { author: "Ionela", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Fabulos day, from transport, activities, sightseeing to a fantastic guide. Everything we’ll organised." },
+                { author: "James", country: "Verified traveller review", rating: 5, date: "2026-09-07", text: "Great trip - we were one of the first on site so we took lots of great pictures before it was busy. Diem was the best host!! She was very welcoming and approachable, and really knew a lot about the site to share with us." },
+                { author: "Mark", country: "Verified traveller review", rating: 5, date: "2026-09-02", text: "we chose the afternoon trip as it was cooler than the temperature of the previous day. Still hot. Tour was very interesting. Our guide, Diem, was informative and caring. Long afternoon, but worth it. We did consider completing the sanctuary by ourselves, but after completing the guided tour with transport included, we were very happy with our decision." },
+                { author: "Tammeryn", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "We had a great tour visiting the My Son sanctuary and stopping at a traditional rice paper making home on the way. Diem was very knowledgeable and provided great insight into the sanctuary. Highly recommend this tour!" },
+                { author: "Teresa", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "Our guide, Tran, was knowledgeable and fantastic. She took the time to interact with everyone. She made the trip interesting and fun." },
+                { author: "Evgenia", country: "Verified traveller review", rating: 5, date: "2026-08-31", text: "I had a wonderful trip to My Son! Everything was perfectly organised, and our guide Hang was fantastic — friendly, knowledgeable, and attentive throughout the whole tour. I really enjoyed the experience and learned a lot about the history and culture of My Son. Highly recommend this tour! Thank you, Hang, for a great day!" },
+                { author: "Berenice", country: "Verified traveller review", rating: 5, date: "2026-08-29", text: "Junni our guide did a great job, she was knowledgeable and good fun. The sanctuary is really especial, really worth visiting" },
+                { author: "Fabio", country: "Verified traveller review", rating: 5, date: "2026-08-28", text: "Hai Le is a perfect a guide, very kind, funny and cute. Wonderful trip. My Son is very intresting. She explained us the history of the place very well. Also the driver Nguyien was excellent." },
+                { author: "Ewelina", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Everything went smoothly. The lady gave us a detailed account of the history of My Son. We enjoyed a pleasant boat trip and then had lunch at a restaurant. They were very helpful when we realized we had left a backpack on the bus. It was great." },
+                { author: "Holger", country: "Verified traveller review", rating: 5, date: "2026-08-26", text: "Hi There, we enjoyed the tour very much. Hai our guide gave us a lot of information about the history of My Son and she was there for any additional questions. My Son is an interesting place and it is good to see the effort is made to keep it for other generations as well. The river boat tour and the following lunch were a plesent finish for the tour. Thx so much" },
+                { author: "Oliwia", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "The trip was really pleasant. Our tour guide Hai told us many interesting facts about My Son Santuary and enjoyed boat ride. Also rice paper workshop were remarkable" }
+            ]
+        };
+    }
+
+    if (slug === 'golden-bridge-ba-na-hills-full-day-tour-in-hoi-an') {
+        return {
+            averageRating: 4.77,
+            totalReviews: 4648,
+            guideRating: 4.88,
+            valueRating: 4.59,
+            reviews: [
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Was fantastic, must do when visiting Da Nang. Nga was our guide and she was amazing, thanks for a great day." },
+                { author: "Jason", country: "Verified traveller review", rating: 5, date: "2026-09-10", text: "Laura are guide was wonderful. She knew a lot about the area and was a very pleasant person to talk to." },
+                { author: "Valery", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Our guide Long has been very caring during this tour. Very nice and dynamic we had a good journey and felt safe. I recommend Long as a guide" },
+                { author: "Sacit", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "It was very nice, had a nice communication with the guide Nina and she was very professional, friendly and helpful. The driver was also very nice." },
+                { author: "Abbie", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "The day was thought out from start to finish. Our tour guide Nina was amazing so knowledgeable and informative. There is so much to do and see here would really recommend !!" },
+                { author: "Luka-Jai", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Nina was a brilliant tour guide - highly recommend her!!!!" },
+                { author: "Linzi", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Brilliant trip, Nina our tour guide was fantastic and so much fun! Definitely worth booking with a guide as there is so much to see and do! we had an incredible day!" },
+                { author: "Marcel", country: "Verified traveller review", rating: 5, date: "2026-09-08", text: "Fantastic. Nina is such fun and knowledgeable guide. We truly enjoyed our day in Ba Na Hills." },
+                { author: "Bisharah", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "I loved my guide Nina. she is the reason why I was able to enjoy it end to end. amazing talent for such a youngster. very friendly and knowledgeable. additionally, the place was amazing as well. I went for the afternoon tour and enjoyed every moment of it. definitely worth paying the price. My course included the roller coaster ticket and lunch as well." },
+                { author: "Lucy", country: "Verified traveller review", rating: 5, date: "2026-09-06", text: "Great day trip with Thao - she was super helpful and made sure we all knew our way around, took loads of great photos and just had great energy!" },
+                { author: "Greg", country: "Verified traveller review", rating: 5, date: "2026-09-05", text: "We had a wonderful trip! We were picked-up from our hotel right on time as scheduled and dropped off after the trip. Our guide Rachel was very accommodating to all our queries and helpful as well. She’s also warm and friendly. We had a great driver and ride as well. We would gladly recommend this trip to anyone. Ba Na Hills was world class. Thank you very much for making it a truly wonderful experience for us." }
+            ]
+        };
+    }
+
+    if (slug === 'private-photoshoot-and-guided-walk-experience-in-hoi-an') {
+        return {
+            averageRating: 4.98,
+            totalReviews: 334,
+            guideRating: 4.99,
+            valueRating: 4.98,
+            reviews: [
+                { author: "Sierra", country: "Verified traveller review", rating: 5, date: "2026-09-09", text: "Amazing little photo tour of old town, perfect way for us to capture some photos as a couple. It was however SO HOT so I recommend booking as early in the morning as you can to avoid being too sweaty or red. The lemongrass tea was fabulous also, hadn’t tried it yet and it was great. Our photos turned out amazing. Thanks!" },
+                { author: "Zaynab", country: "Verified traveller review", rating: 5, date: "2026-09-01", text: "My photoshoot with Uyên was perfect! She was punctual, very professional, friendly, and full of great ideas while also respecting all my requests. I received my photos on time and I’m very happy with the result. I highly recommend her!" },
+                { author: "kidest", country: "Verified traveller review", rating: 5, date: "2026-08-27", text: "⭐️⭐️⭐️⭐️⭐️ I had such a great experience with Uyen! She was super friendly and professional, and she guided me with poses and made me feel really comfortable throughout the whole shoot. The photos turned out amazing. Highly recommend her! ❤️" },
+                { author: "Michael", country: "Verified traveller review", rating: 5, date: "2026-08-25", text: "Good experience, great photo and really nice photographer" },
+                { author: "Hoang", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Rin was a fantastic photographer. We had so much fun! He was also very professional, gave clear instructions and helped us to position ourselfs correctly. He took an equal amount of pictures solo and together as a couple. He has a really good eye for aestethics and how each individual person comes into their own and stand out. It was a pleasure to spend time with him and \"work\" with him!" },
+                { author: "Tessa", country: "Verified traveller review", rating: 5, date: "2026-08-12", text: "Great value for money, thank you SO much to Uyen! She was such a wonderful photographer, I can't believe how the pictures turned out. She knows all of the best spots in Hanoi!!" },
+                { author: "Caitlin", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Such a great activity if you’re travelling solo and struggling to get nice photos! Uyên was my photographer and she was amazing at finding the best little spots for photos and getting really nice photos. We even got the famous MOT tea while we were out. Such good value for money. You get the edited photos and raw pics to look through too 😊" },
+                { author: "Yuka", country: "Verified traveller review", rating: 5, date: "2026-08-11", text: "Definitely worth it! My photographer Uyen was amazing🥹 She speaks little English but very easy to go through the photoshoot ;) Took me very beautiful photo spot and taught me posing. Also always cares about my safe bc there were so many motorbikes. She sent me all original photos and some edited photos next day. Very quick work 👍 All the photos will be my memories forever💐" },
+                { author: "Peter", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "5 stars for UYEN 😘🫶 Amazing photographer. If you make a booking here, ask ONLY for UYEN, because this company works with different photographers. Okay?!" },
+                { author: "Nathalie", country: "Verified traveller review", rating: 5, date: "2026-08-03", text: "My photographer was Rin! He is the best! I would recommend you request Rin. He knew all of the good locations to take shots. He is very patient. He guides on all the poses. He knows all of the hacks to make your photos truly memorable and unique. He went into the shops to order drinks so I can pose with it. He went into a rooftop bar to get a high view of the city plus drinks to make it look natural like you were eating/drinking on that rooftop restaurant. He used a lot of times to Make sure I liked everything. When I thought we would be finished, he had other gems of locations and poses. He p" },
+                { author: "Olivia", country: "Verified traveller review", rating: 5, date: "2026-07-27", text: "Uyên was an absolutely incredible photographer! As a solo traveler, it’s hard to get nice photos and Hoi An is such a picturesque place with so many beautiful photo spots. Uyên knew where to get the best photos, the best angles, the best lighting and poses. She made me feel so comfortable. She sent me hundreds of photos the next day and seriously made me look and feel like a supermodel! I’m so glad I did this experience and I highly recommend it to anyone travelling to Hoi An for unforgettable photos! I hope you’re lucky enough to get Uyên as your photographer 😊" },
+                { author: "Toyia", country: "Verified traveller review", rating: 5, date: "2026-07-16", text: "I had a wonderful experience with Uyên in Hoi An. She was incredibly patient, kind, and professional throughout the photoshoot. I usually struggle with posing, but she was able to guide me clearly and help me feel more comfortable in front of the camera. Although her English was limited, she communicated well enough to direct the shoot and make the experience feel easy and enjoyable. Most importantly, the photos turned out beautifully. I am really happy with the results, and the cost was absolutely worth it. I highly recommend Uyên if you are looking for a talented, patient, and kind photograp" }
+            ]
+        };
+    }
+
+    if (slug === 'chan-may-tien-sa-port-hoi-an-city-and-da-nang-highlight-hoi-an') {
+        return {
+            averageRating: 4.86,
+            totalReviews: 3,
+            guideRating: 4.86,
+            valueRating: 4.86,
+            reviews: [
+                { author: "Mirko", country: "Verified traveller review", rating: 5, date: "2026-04-06", text: "Was für eine toller Ausflug ! Wir wurden pünktlich von unserem Guide und einem Fahrer abgeholt. Das Fahrzeug war modern und geräumig, komfortabel. Unser Guide Son hat uns alle Wünsche erfüllt: wir haben kurz die Planung besprochen und etwas angepasst, da der Tag regnerisch begann. An der Lagune vorbei und durch die Berge am Pass vorbei ging es zum Lady Buddha. Der Weg dorthin war von vielen Booten gesäumt - ein Foto-Stop war kein Problem. Auch später an der Drachenbrücke war es perfekt : Kurzer Stop. Die Tour durch die Marmorberge war grandios, auch durch die Detailkenntnisse von Son und alles" },
+                { author: "michele", country: "Verified traveller review", rating: 5, date: "2026-03-04", text: "Nous avons passe une tres bonne journee avec notre charmante guide Nu. Nous avons visite tout ce qui etait prevu" },
+                { author: "Michael", country: "Verified traveller review", rating: 4, date: "2025-01-26", text: "War abwechslungsreich haben alles gesehen was wir wollten, war OK" }
+            ]
+        };
+    }
+
+    if (slug === 'my-son-sanctuary-and-hoi-an-private-car-day-tour') {
+        return {
+            averageRating: 4.88,
+            totalReviews: 12,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Daniel", country: "Verified traveller review", rating: 5, date: "2026-04-29", text: "Really convenient transport to My Son and back - great driver, car and service. Showed up promptly on time, clear communication throughout, easily accommodated switching the drop-off. Would recommend." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-03-07", text: "My Son was fabulous and Hoi An was nostalgic although it was raining hard. The driver was very punctual and we did not wait for pickup more than three minutes." },
+                { author: "Alexander", country: "Verified traveller review", rating: 5, date: "2025-12-09", text: "Das My Son Sanctuary war sehr interessant. Leider etwas überlaufen, aber das war zu erwarten. Es war etwas nebelig/wolkig zum Glück. Sonst wäre wir wahrscheinlich zerlaufen. Hoi An war wie erwartet eine Tourifalle, aber eine wirklich schöne. Ich würde aber empfehlen Abend/Nachts hin zu gehen gehen. Quan unsere Fahrer war super nett und ist schön ruhig gefahren. Alles super! :)" },
+                { author: "Camila", country: "Verified traveller review", rating: 5, date: "2025-11-18", text: "Perfect way to travel at your own pace!" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-05-02", text: "見たい行きたいと言ったところに全て連れてってくれました。 運転手が途中で変わることがありましたが、車に置いてしまっていた荷物も無事に受け取ることもできたので問題なかったです。 とても気さくな人たちでよかったです！" },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2025-03-26", text: "リーズナブルだし、ドライバーもフレンドリーかつ時間通りだし、快適に旅行できました。機会があれば友人に勧めたいです。" }
+            ]
+        };
+    }
+
+    if (slug === 'ky-anh-tunnel-and-cham-tower-vietnam-war-tour-by-private-in-hoi-an') {
+        return {
+            averageRating: 4.84,
+            totalReviews: 29,
+            guideRating: 4.89,
+            valueRating: 4.84,
+            reviews: [
+                { author: "Paul", country: "Verified traveller review", rating: 5, date: "2026-08-15", text: "Excellent tour with Tony. Really great guid and the whole tunnel experience was excellent. Thoroughly recommend the tour and Tony who spoke excellent English and was so welcoming. The beer was an added bonus!" },
+                { author: "Tonje", country: "Verified traveller review", rating: 5, date: "2026-08-06", text: "Johny was a good driver that kept us with cold water and told us interesting stories. He got us a very good guide for the tunnels, amazing experience. Away from the crowds, a very interesting and good trip. Loved the sticky rice!!" },
+                { author: "Steven", country: "Verified traveller review", rating: 5, date: "2026-08-02", text: "An excellent and informative day exploring the history of the Ky Anh Tunnels. My guide, Tony, was knowledgeable and shared so much about the history of Vietnam as well as ensuring I was well fed and watered! I highly recommend this tour." },
+                { author: "John", country: "Verified traveller review", rating: 5, date: "2026-07-10", text: "The guide - Tony - was extremely knowledgeable, helpful and chatty. He made it an extremely enjoyable day. Would highly recommend using Tony for this trip." },
+                { author: "Johannes", country: "Verified traveller review", rating: 5, date: "2026-07-07", text: "A brilliant tour, and our driver Tony spoke excellent English and knew a lot about the history of Vietnam, as well as helping with the translation. We would definitely recommend it. The tunnels and the information about the war were really fascinating." },
+                { author: "Vorian", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Really worth it! Very kind driver and guide at tunnels was wonderful." },
+                { author: "Dominic", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Very good. Our guide Hay was friendly and very helpful even supplying us with lunch. If you speak English, bring Google translator for your Tunnel tour!" },
+                { author: "Brogan", country: "Verified traveller review", rating: 5, date: "2026-05-23", text: "We had a great Vietnam war tour. Our guide Hay was amazing, always ensured we were comfortable and kept us well fed and watered in a well needed air conditioned car. Also receiving a private tour with a Vietnam war veteran around the tunnels was a brilliant experience. Would highly recommend." },
+                { author: "April", country: "Verified traveller review", rating: 5, date: "2026-05-12", text: "Fantastic trip, excellent air conditioner car. Hung was very knowledgeable and happy to share and answer all our questions, not only about the attractions but also his general lifestyle. we learnt so much and had a wonderful day. Highly recommendrf" },
+                { author: "Louise", country: "Verified traveller review", rating: 5, date: "2026-05-03", text: "We had an amazing experience visiting the Ky An tunnels, and a huge part of that was thanks to our guide, Tony. Tony was absolutely brilliant—friendly, knowledgeable, and made the whole tour really engaging from start to finish. He explained the history in a way that was easy to understand but still really powerful, and you could tell he genuinely cared about sharing the story properly. The tunnels themselves were incredible (and a lot tighter than expected!), but Tony guided us through it all with patience and a good sense of humour, which made the experience even better. If you’re thinking o" },
+                { author: "Jessica", country: "Verified traveller review", rating: 5, date: "2026-03-31", text: "I highly recommend this tour! It was very educational about the Vietnam/American war. It is not touristy at all, so you really feel like you are seeing more rural Vietnam. Hung did an amazing job as our guide and he also did great with our kids (12 and 9) and tailored it to our wants/needs. Tung was a very safe driver. We also got to see some traditional weaving with some women near the tunnels. Don’t hesitate to take this tour!!" },
+                { author: "Robert", country: "Verified traveller review", rating: 5, date: "2026-01-12", text: "It was great. If u want to know about the country. And Politics of the country. The war and see history. Then please take this tour" }
+            ]
+        };
+    }
+
     // --- UAE TOURS (2026-09, real reviews) ---
     if (slug === 'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension') {
         return {
