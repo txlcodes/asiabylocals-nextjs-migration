@@ -44,6 +44,15 @@ const RESERVED_TOP_LEVEL = new Set([
 // Pagoda, Aokigahara. A Kawaguchiko guide spotted it on his own listing within
 // minutes of us contacting him, which is how it surfaced. These now live under
 // /japan/mount-fuji/.
+// Tours whose slug was corrected after the URL had already been indexed.
+// The API used to build slugs from a landmark guess rather than the title, so
+// a Mumbai tour called "No Shopping Stops" was published at
+// gateway-of-india-shopping-tour. Changing the slug without this would 404 a
+// URL Google already has.
+const RENAMED_TOUR: Record<string, string> = {
+  'gateway-of-india-shopping-tour': 'mumbai-sightseeing-tour-no-shopping-stops',
+};
+
 const MOVED_CITY: Record<string, { from: string; to: string }> = {
   'mount-fuji-signature-private-day-tour-kawaguchiko': { from: 'hakone', to: 'mount-fuji' },
   'kawaguchiko-to-hakone-private-guided-transfer': { from: 'hakone', to: 'mount-fuji' },
@@ -76,6 +85,12 @@ export function middleware(request: NextRequest) {
   if (RESERVED_TOP_LEVEL.has(country)) return NextResponse.next();
 
   // A tour that has been recategorised: keep its old URL working.
+  const renamed = rest.length === 1 ? RENAMED_TOUR[rest[0]] : undefined;
+  if (renamed) {
+    return NextResponse.redirect(
+      new URL(['', country, city, renamed].join('/') + search, request.url), 308);
+  }
+
   const moved = rest.length === 1 ? MOVED_CITY[rest[0]] : undefined;
   if (moved && city === moved.from) {
     return NextResponse.redirect(
