@@ -15,10 +15,15 @@ const nextConfig: NextConfig = {
     // variant for a year instead of re-optimizing on the default 60s TTL. This is the
     // main lever that keeps image cost/latency flat as the catalogue grows.
     minimumCacheTTL: 31536000,
-    // Trim the generated variant set to the widths the layout actually requests
-    // (card grid, gallery, hero). Fewer variants = higher cache hit rate.
-    deviceSizes: [640, 828, 1080, 1200, 1920],
-    imageSizes: [128, 160, 256, 384],
+    // Every (image, width, format) pair Cloudinary has to build is a billable
+    // transformation, and those were 20,615 of the 57.8 credits that took the
+    // account over its limit. Nine widths across 8,650 photos generated 13,991
+    // derived files. These four cover what the layout actually asks for:
+    // 384 for card thumbnails, 640 for phones, 1080 for the gallery, 1600 for
+    // the hero on a large screen. 1920 was only ever serving pixels nobody can
+    // see on a photo that started at 0.73 MB.
+    deviceSizes: [640, 1080, 1600],
+    imageSizes: [384],
     remotePatterns: [
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },

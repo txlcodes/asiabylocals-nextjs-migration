@@ -2641,7 +2641,9 @@ const EmailSignupBox: React.FC<EmailSignupBoxProps> = ({ city, country }) => {
           {/* Image Section */}
           <div className="md:col-span-2 relative h-52 md:h-56 overflow-hidden bg-gray-100">
             <img
-              src={imageSrc}
+              /* Displayed at most 1400px wide in a card, so ask Cloudinary for
+                 that rather than pulling the untouched original. */
+              src={cloudinaryLoader({ src: imageSrc, width: 1080 })}
               alt={`${city} travel experience`}
               loading="lazy"
               decoding="async"

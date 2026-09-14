@@ -24,7 +24,9 @@ export function cloudinaryLoader({
   // f_auto  -> AVIF/WebP based on the Accept header
   // q_auto  -> Cloudinary picks the quality that preserves perceived detail
   // c_limit -> never upscale past the original
-  const transform = `f_auto,q_${quality ?? 'auto'},w_${width},c_limit`;
+  // q_auto:eco trades a difference most people cannot see for roughly a third
+  // fewer bytes, and bandwidth was the single largest line on the bill.
+  const transform = `f_auto,q_${quality ?? 'auto:eco'},w_${width},c_limit`;
   return src.replace('/upload/', `/upload/${transform}/`);
 }
 

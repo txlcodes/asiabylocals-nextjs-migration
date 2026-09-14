@@ -19,6 +19,7 @@ import { getCityInfoContent, CityInfoData } from '@/lib/cityInfoContent';
 import { fmt } from '@/lib/i18n';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface Props {
     country: string;
@@ -628,7 +629,9 @@ export default function CityInfoClient({ country, city, slug }: Props) {
             <div className="relative">
                 <div className="relative h-[40vh] md:h-[60vh] overflow-hidden">
                     <img
-                        src={data.heroImage}
+                        /* Full-bleed hero, but never wider than a large screen.
+                           Asking for the original pulled the untouched file. */
+                        src={cloudinaryLoader({ src: data.heroImage, width: 1600 })}
                         alt={data.title}
                         className="w-full h-full object-cover"
                     />
@@ -740,7 +743,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                             <div className="relative z-10 flex flex-col md:flex-row items-center gap-12">
                                                 {section.image && (
                                                     <div className="w-full md:w-[280px] aspect-[4/3] shrink-0 rounded-3xl overflow-hidden shadow-2xl border-4 border-white/10 group-hover:scale-[1.02] transition-transform duration-700">
-                                                        <img src={section.image} alt={section.title} className="w-full h-full object-cover" />
+                                                        <img src={cloudinaryLoader({ src: section.image, width: 640 })} alt={section.title} loading="lazy" decoding="async" className="w-full h-full object-cover" />
                                                     </div>
                                                 )}
                                                 <div className="flex-1 text-center md:text-left">
@@ -784,8 +787,10 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                         {section.image && (
                                             <div className="mb-8 rounded-2xl overflow-hidden shadow-lg border border-gray-100">
                                                 <img
-                                                    src={section.image}
+                                                    src={cloudinaryLoader({ src: section.image, width: 1080 })}
                                                     alt={section.title}
+                                                    loading="lazy"
+                                                    decoding="async"
                                                     className="w-full h-auto object-cover max-h-[400px]"
                                                 />
                                             </div>

@@ -3094,7 +3094,10 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   <div className="flex flex-wrap gap-2 mt-3">
                                     {review.photos.map((photo: string, photoIdx: number) => (
                                       <a key={photoIdx} href={photo} target="_blank" rel="noopener noreferrer" className="block w-20 h-20 rounded-lg overflow-hidden border border-gray-200 hover:opacity-80 transition-opacity">
-                                        <img src={photo} alt={`Review photo ${photoIdx + 1}`} className="w-full h-full object-cover" />
+                                        {/* Shown at 80px. Requesting the original
+                                            downloaded the full-size guest photo
+                                            for a thumbnail. */}
+                                        <img src={cloudinaryLoader({ src: photo, width: 384 })} alt={`Review photo ${photoIdx + 1}`} loading="lazy" decoding="async" className="w-full h-full object-cover" />
                                       </a>
                                     ))}
                                   </div>
@@ -3145,7 +3148,10 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                   <div className="flex flex-wrap gap-2 mt-3">
                                     {review.photos.map((photo: string, photoIdx: number) => (
                                       <a key={photoIdx} href={photo} target="_blank" rel="noopener noreferrer" className="block w-20 h-20 rounded-lg overflow-hidden border border-gray-200 hover:opacity-80 transition-opacity">
-                                        <img src={photo} alt={`Review photo ${photoIdx + 1}`} className="w-full h-full object-cover" />
+                                        {/* Shown at 80px. Requesting the original
+                                            downloaded the full-size guest photo
+                                            for a thumbnail. */}
+                                        <img src={cloudinaryLoader({ src: photo, width: 384 })} alt={`Review photo ${photoIdx + 1}`} loading="lazy" decoding="async" className="w-full h-full object-cover" />
                                       </a>
                                     ))}
                                   </div>
@@ -3245,7 +3251,10 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
             <div className="max-w-6xl w-full relative" onClick={(e) => e.stopPropagation()}>
               {allImages[selectedImageIndex] && (
                 <img
-                  src={allImages[selectedImageIndex]}
+                  /* The lightbox used to request the untouched original, which
+                     averages 0.73 MB. Nothing on screen needs more than 1600px
+                     wide, and bandwidth was the largest line on the image bill. */
+                  src={cloudinaryLoader({ src: allImages[selectedImageIndex], width: 1600 })}
                   alt={`${tour.title} - Image ${selectedImageIndex + 1}`}
                   className="w-full h-auto rounded-2xl max-h-[90vh] object-contain"
                 />
