@@ -8,6 +8,7 @@ import Link from 'next/link';
 import TourDetailClient from '@/components/TourDetailClient';
 import CityInfoClient from '@/components/CityInfoClient';
 import { countryDisplayName } from '@/lib/countryName';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -387,7 +388,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         url: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
         siteName: 'AsiaByLocals',
         type: 'article',
-        ...(infoContent?.heroImage ? { images: [{ url: infoContent.heroImage }] } : {}),
+        // Social cards never need the untouched 0.73 MB original, and Next
+        // preloads this URL, so pointing it at the original downloaded the full
+        // file on every visit and threw it away.
+        ...(infoContent?.heroImage
+          ? { images: [{ url: cloudinaryLoader({ src: infoContent.heroImage, width: 1200 }) }] }
+          : {}),
       },
     };
   }

@@ -847,8 +847,11 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                             >
                                                 <div className="sm:w-[220px] h-[160px] sm:h-auto shrink-0 overflow-hidden bg-gray-100">
                                                     <img
-                                                        src={section.tourCard.image || section.image || '/bangkok-hero.webp'}
+                                                        /* 220x160 card, so do not pull the original. */
+                                                        src={cloudinaryLoader({ src: section.tourCard.image || section.image || '/bangkok-hero.webp', width: 384 })}
                                                         alt={section.tourCard.title}
+                                                        loading="lazy"
+                                                        decoding="async" 
                                                         className="w-full h-full object-cover group-hover/card:scale-105 transition-transform duration-500"
                                                     />
                                                 </div>
