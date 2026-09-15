@@ -15,17 +15,19 @@ const nextConfig: NextConfig = {
     // variant for a year instead of re-optimizing on the default 60s TTL. This is the
     // main lever that keeps image cost/latency flat as the catalogue grows.
     minimumCacheTTL: 31536000,
-    // Every (image, width, format) pair Cloudinary has to build is a billable
-    // transformation, and those were 20,615 of the 57.8 credits that took the
-    // account over its limit. Nine widths across 8,650 photos generated 13,991
-    // derived files. These four cover what the layout actually asks for:
-    // 384 for card thumbnails, 640 for phones, 1080 for the gallery, 1600 for
-    // the hero on a large screen. 1920 was only ever serving pixels nobody can
-    // see on a photo that started at 0.73 MB.
-    deviceSizes: [640, 1080, 1600],
-    imageSizes: [384],
+    // These must stay identical to the WIDTHS ladder in lib/cloudinaryLoader.ts.
+    // Every stored width is a file on R2 and, while still on Cloudinary, a
+    // billable transformation. A width that next/image asks for but the ladder
+    // does not hold gets rounded up, so 1080 here would quietly serve the
+    // 1600 file on every phone-sized gallery image.
+    // 128 avatars, 384 card thumbnails, 640 cards and phones, 1600 heroes.
+    deviceSizes: [640, 1600],
+    imageSizes: [128, 384],
     remotePatterns: [
       { protocol: 'https', hostname: 'res.cloudinary.com' },
+      // Pre-resized WebP on Cloudflare R2, addressed by the Cloudinary
+      // public_id. See lib/cloudinaryLoader.ts and NEXT_PUBLIC_IMAGE_HOST.
+      { protocol: 'https', hostname: 'images.asiabylocals.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'www.asiabylocals.com' },
       { protocol: 'https', hostname: 'cdn.getyourguide.com' },
