@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Star, Camera, X, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import Link from 'next/link';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface BookingInfo {
   id: number;
@@ -257,7 +258,7 @@ export default function ReviewClient({ token }: { token: string }) {
           {booking?.tourImage && (
             <div className="h-48 bg-gray-200 overflow-hidden">
               <img
-                src={booking.tourImage}
+                src={cloudinaryLoader({ src: booking.tourImage, width: 640 })}
                 alt={booking.tourTitle}
                 className="w-full h-full object-cover"
               />
@@ -347,7 +348,7 @@ export default function ReviewClient({ token }: { token: string }) {
               <div className="flex flex-wrap gap-3 mb-3">
                 {photos.map((photo, idx) => (
                   <div key={idx} className="relative w-24 h-24 rounded-xl overflow-hidden border border-gray-200">
-                    <img src={photo} alt={`Review photo ${idx + 1}`} className="w-full h-full object-cover" />
+                    <img src={cloudinaryLoader({ src: photo, width: 384 })} alt={`Review photo ${idx + 1}`} className="w-full h-full object-cover" />
                     <button
                       type="button"
                       onClick={() => removePhoto(idx)}

@@ -3237,7 +3237,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3276,7 +3276,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3315,7 +3315,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3356,7 +3356,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3393,7 +3393,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3430,7 +3430,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3467,7 +3467,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3502,7 +3502,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3538,7 +3538,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3576,7 +3576,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3614,7 +3614,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3652,7 +3652,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3688,7 +3688,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3726,7 +3726,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3760,7 +3760,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3798,7 +3798,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3834,7 +3834,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3872,7 +3872,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3904,7 +3904,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3942,7 +3942,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -3978,7 +3978,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4016,7 +4016,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4050,7 +4050,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4088,7 +4088,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4124,7 +4124,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4162,7 +4162,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4194,7 +4194,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4232,7 +4232,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4268,7 +4268,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4306,7 +4306,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4340,7 +4340,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4378,7 +4378,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4414,7 +4414,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4452,7 +4452,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4484,7 +4484,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4522,7 +4522,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4558,7 +4558,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4596,7 +4596,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4630,7 +4630,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4668,7 +4668,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4704,7 +4704,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4742,7 +4742,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4774,7 +4774,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4812,7 +4812,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4848,7 +4848,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4886,7 +4886,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4920,7 +4920,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4958,7 +4958,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -4994,7 +4994,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5032,7 +5032,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5064,7 +5064,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5102,7 +5102,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5138,7 +5138,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5176,7 +5176,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5210,7 +5210,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5248,7 +5248,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5284,7 +5284,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5322,7 +5322,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5354,7 +5354,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5392,7 +5392,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5428,7 +5428,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5466,7 +5466,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5500,7 +5500,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5538,7 +5538,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5574,7 +5574,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5612,7 +5612,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5644,7 +5644,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5682,7 +5682,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5718,7 +5718,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5756,7 +5756,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5790,7 +5790,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5828,7 +5828,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5864,7 +5864,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5902,7 +5902,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5933,7 +5933,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -5971,7 +5971,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6007,7 +6007,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6045,7 +6045,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6079,7 +6079,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6117,7 +6117,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6153,7 +6153,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6191,7 +6191,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6223,7 +6223,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6261,7 +6261,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6297,7 +6297,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6335,7 +6335,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6369,7 +6369,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6407,7 +6407,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6443,7 +6443,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6481,7 +6481,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6513,7 +6513,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6551,7 +6551,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6587,7 +6587,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6625,7 +6625,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6659,7 +6659,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6697,7 +6697,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6733,7 +6733,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6771,7 +6771,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6803,7 +6803,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6841,7 +6841,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6877,7 +6877,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6915,7 +6915,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6949,7 +6949,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -6987,7 +6987,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7023,7 +7023,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7061,7 +7061,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7093,7 +7093,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7131,7 +7131,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7167,7 +7167,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7205,7 +7205,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7239,7 +7239,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7277,7 +7277,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7313,7 +7313,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7351,7 +7351,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7383,7 +7383,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7421,7 +7421,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7457,7 +7457,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7495,7 +7495,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7529,7 +7529,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7567,7 +7567,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7603,7 +7603,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7641,7 +7641,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7673,7 +7673,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7711,7 +7711,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7747,7 +7747,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7785,7 +7785,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7819,7 +7819,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7857,7 +7857,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7893,7 +7893,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7931,7 +7931,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -7963,7 +7963,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8001,7 +8001,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8037,7 +8037,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8075,7 +8075,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8109,7 +8109,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8147,7 +8147,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8183,7 +8183,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8221,7 +8221,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8257,7 +8257,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8290,7 +8290,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8327,7 +8327,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8367,7 +8367,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>
@@ -8407,7 +8407,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>

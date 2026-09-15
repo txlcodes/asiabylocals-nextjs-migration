@@ -31,6 +31,7 @@ import {
   Loader2,
   Shield,
 } from 'lucide-react';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 const API_URL =
   process.env.NEXT_PUBLIC_API_URL ||
@@ -1390,7 +1391,7 @@ export default function AdminClient() {
                     >
                       <div className="flex items-start gap-4">
                         {tour.images && tour.images.length > 0 && (
-                          <img src={tour.images[0]} alt={tour.title} className="w-24 h-24 object-cover rounded-xl" />
+                          <img src={cloudinaryLoader({ src: tour.images[0], width: 640 })} alt={tour.title} className="w-24 h-24 object-cover rounded-xl" />
                         )}
                         <div className="flex-1">
                           <div className="flex items-center gap-2 mb-1">
@@ -1470,7 +1471,7 @@ export default function AdminClient() {
                             {selectedTour.images.map((image: string, index: number) => (
                               <div key={index} className="relative group">
                                 <img
-                                  src={image}
+                                  src={cloudinaryLoader({ src: image, width: 640 })}
                                   alt={`${selectedTour.title} ${index + 1}`}
                                   className="w-full h-32 object-cover rounded-xl border-2 border-gray-200 hover:border-[#10B981] transition-colors cursor-pointer"
                                   onClick={() => window.open(image, '_blank')}
@@ -2495,7 +2496,7 @@ export default function AdminClient() {
             <div className="mt-4">
               {licenseUrl.startsWith('data:image/') ? (
                 <img
-                  src={licenseUrl}
+                  src={cloudinaryLoader({ src: licenseUrl, width: 640 })}
                   alt="License Document"
                   className="w-full h-auto rounded-lg border-2 border-gray-200"
                   onError={() => {
@@ -2523,7 +2524,7 @@ export default function AdminClient() {
                   <div className="bg-gray-50 border border-gray-200 rounded-xl p-4">
                     <p className="text-[14px] text-gray-700 font-semibold mb-3">Document Preview</p>
                     <img
-                      src={licenseUrl}
+                      src={cloudinaryLoader({ src: licenseUrl, width: 640 })}
                       alt="License Document"
                       className="w-full h-auto rounded-lg border-2 border-gray-200"
                       onError={() => {

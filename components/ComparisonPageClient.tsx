@@ -31,6 +31,7 @@ import {
   HEAD_TO_HEAD,
   INTRO_TEXT,
 } from '@/lib/comparisonPageContent';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 const ICON_MAP: Record<string, React.ReactNode> = {
   MapPin: <MapPin className="w-7 h-7" />,
@@ -300,7 +301,7 @@ export default function ComparisonPageClient() {
               >
                 <div className="relative h-44 overflow-hidden">
                   <img
-                    src={tour.image}
+                    src={cloudinaryLoader({ src: tour.image, width: 640 })}
                     alt={tour.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"

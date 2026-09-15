@@ -26,6 +26,7 @@ import { API_URL } from '@/lib/config';
 import { ASIAN_CITIES_DATABASE } from '@/lib/citiesDatabase';
 import { COUNTRIES } from '@/lib/locations';
 import { getTranslation, Language, translations } from '@/lib/supplierTranslations';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface SupplierRegistrationProps {
   language?: Language;
@@ -1059,7 +1060,7 @@ export default function SupplierRegistration({ language = 'en', onClose }: Suppl
                 {documentPreview && (
                   <div className="mt-4">
                     <p className="text-[14px] font-bold text-[#001A33] mb-2">Preview:</p>
-                    <img src={documentPreview} alt="Document preview" className="max-w-full h-auto rounded-lg border-2 border-gray-200" />
+                    <img src={cloudinaryLoader({ src: documentPreview, width: 640 })} alt="Document preview" className="max-w-full h-auto rounded-lg border-2 border-gray-200" />
                   </div>
                 )}
 
@@ -1427,7 +1428,7 @@ export default function SupplierRegistration({ language = 'en', onClose }: Suppl
                           {(verificationDocument.size / 1024 / 1024).toFixed(2)} MB
                         </div>
                         {documentPreview && (
-                          <img src={documentPreview} alt="Preview" className="max-w-full max-h-48 mx-auto mt-4 rounded-lg" />
+                          <img src={cloudinaryLoader({ src: documentPreview, width: 640 })} alt="Preview" className="max-w-full max-h-48 mx-auto mt-4 rounded-lg" />
                         )}
                         <div className="flex items-center justify-center gap-4 mt-4">
                           <button

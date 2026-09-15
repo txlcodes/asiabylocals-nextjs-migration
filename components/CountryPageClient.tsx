@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { ChevronRight, MapPin, Star, Clock, Loader2, ShieldCheck, Compass, DollarSign, Smartphone } from 'lucide-react';
 import Breadcrumbs from './Breadcrumbs';
 import LanguageSwitcher from './LanguageSwitcher';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface City {
   name: string;
@@ -172,7 +173,7 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
             <div className="relative h-32 sm:h-44 overflow-hidden">
               {tour.images?.[0] ? (
                 <img
-                  src={tour.images[0]}
+                  src={cloudinaryLoader({ src: tour.images[0], width: 640 })}
                   alt={tour.title}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   loading="lazy"
@@ -439,7 +440,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                 className="group relative rounded-2xl overflow-hidden h-44 sm:h-56 md:h-80 shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2"
               >
                 <img
-                  src={city.image}
+                  src={cloudinaryLoader({ src: city.image, width: 640 })}
                   alt={`${city.name} tours - ${city.tagline}`}
                   className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                   loading="lazy"
@@ -515,7 +516,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   className="group relative rounded-2xl overflow-hidden h-48 shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
                 >
                   <img
-                    src={city.image}
+                    src={cloudinaryLoader({ src: city.image, width: 640 })}
                     alt={`${city.name} - ${city.tagline}`}
                     className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                     loading="lazy"
@@ -557,7 +558,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
                   <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={guide.image} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                     <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
                   </div>

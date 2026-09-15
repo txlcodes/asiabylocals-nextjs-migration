@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { X, ChevronRight, ChevronLeft, ChevronDown, Upload, ArrowUp, ArrowDown, Trash2, CheckCircle2, AlertCircle, Phone, Mail, Plus, MapPin, Clock, Shield, Info, Car, Landmark, UtensilsCrossed, Star, CircleDot, Flag, FileText, Sparkles, PenLine, Loader2, Lightbulb } from 'lucide-react';
 import { CITY_LOCATIONS, TRANSPORTATION_TYPES, ENTRY_TICKET_OPTIONS, EntryTicketOption } from '@/lib/constants';
 import { COUNTRIES, COUNTRY_CITIES } from '@/lib/locations';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface TourCreationFormProps {
   supplierId: string;
@@ -3575,7 +3576,7 @@ ${a(9)}`;
                       {formData.images.map((image, index) => (
                         <div key={index} className="relative group">
                           <img
-                            src={image}
+                            src={cloudinaryLoader({ src: image, width: 640 })}
                             alt={`Upload ${index + 1}`}
                             className="w-full h-32 object-cover rounded-xl"
                           />
@@ -3770,7 +3771,7 @@ ${a(9)}`;
                       {formData.images.slice(0, 8).map((image, index) => (
                         <div key={index} className="relative aspect-square rounded-xl overflow-hidden border-2 border-gray-200">
                           <img
-                            src={image}
+                            src={cloudinaryLoader({ src: image, width: 640 })}
                             alt={`Preview ${index + 1}`}
                             className="w-full h-full object-cover"
                           />

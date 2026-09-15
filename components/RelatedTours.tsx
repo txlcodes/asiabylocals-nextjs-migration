@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Star, Heart, MapPin, Loader2, ChevronLeft, ChevronRight } from 'lucide-react';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 interface RelatedToursProps {
     currentTourId?: string;
@@ -235,7 +236,7 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                             <div className="relative h-48 overflow-hidden shrink-0">
                                 {tour.images && tour.images.length > 0 ? (
                                     <img
-                                        src={tour.images[0]}
+                                        src={cloudinaryLoader({ src: tour.images[0], width: 640 })}
                                         alt={tour.title}
                                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                                     />

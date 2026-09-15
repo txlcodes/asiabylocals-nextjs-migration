@@ -31,6 +31,7 @@ import {
   Info
 } from 'lucide-react';
 import TourCreationForm from './TourCreationForm';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 // Country to payment methods mapping
 const COUNTRY_PAYMENT_METHODS: Record<string, string[]> = {
@@ -2026,7 +2027,7 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
                     <div key={tour.id} className="bg-gray-50 rounded-2xl overflow-hidden border border-gray-200 hover:shadow-lg transition-shadow">
                       {tour.images && tour.images.length > 0 && (
                         <img
-                          src={tour.images[0]}
+                          src={cloudinaryLoader({ src: tour.images[0], width: 640 })}
                           alt={tour.title}
                           className="w-full h-48 object-cover"
                         />

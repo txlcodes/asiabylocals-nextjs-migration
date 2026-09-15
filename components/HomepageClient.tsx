@@ -19,6 +19,7 @@ import {
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import { CITIES, ATTRACTIONS, getCityUrl } from '@/lib/constants';
 import { ASIAN_CITIES_DATABASE } from '@/lib/citiesDatabase';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 // ── Exploration Footer Data & Component ──────────────────────────────
 
@@ -176,7 +177,7 @@ const ExplorationFooter: React.FC = () => {
               >
                 <div className="absolute inset-0">
                   <img
-                    src={item.image}
+                    src={cloudinaryLoader({ src: item.image, width: 640 })}
                     alt={item.name}
                     className="w-full h-full object-cover grayscale-0 group-hover:scale-105 transition-all duration-1000 opacity-80 group-hover:opacity-100"
                   />
@@ -417,7 +418,7 @@ export default function HomepageClient() {
                               className="flex items-center gap-3 hover:bg-[#10B981]/10 p-2 rounded-lg group/item"
                             >
                               <img
-                                src={city.image}
+                                src={cloudinaryLoader({ src: city.image, width: 128 })}
                                 alt={`${city.name} tours and cultural experiences`}
                                 className="w-11 h-11 rounded-lg object-cover flex-shrink-0"
                               />
@@ -453,7 +454,7 @@ export default function HomepageClient() {
                           const url = getCityUrl(city.name, cityId);
                           return (
                             <Link key={idx} href={url} className="flex flex-col items-center gap-1.5 cursor-pointer p-1.5 rounded-lg hover:bg-[#10B981]/10 group/guide">
-                              <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
+                              <img src={cloudinaryLoader({ src: city.image, width: 128 })} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
                               <div className="font-semibold text-[#001A33] text-[10px] text-center leading-tight group-hover/guide:text-[#10B981]">{city.name} Travel Guide</div>
                             </Link>
                           );
@@ -559,7 +560,7 @@ export default function HomepageClient() {
                           className="flex items-start gap-3 p-3 rounded-lg hover:bg-gray-50 transition-colors text-left w-full min-h-[44px]"
                         >
                           <img
-                            src={city.image}
+                            src={cloudinaryLoader({ src: city.image, width: 128 })}
                             alt={`${city.name} tours and cultural experiences`}
                             className="w-12 h-12 rounded-lg object-cover flex-shrink-0"
                           />
@@ -610,7 +611,7 @@ export default function HomepageClient() {
                         onClick={() => setShowMobileInspirationDropdown(false)}
                         className="flex flex-col items-center gap-1.5 p-2 rounded-lg hover:bg-gray-50 transition-colors min-h-[44px]"
                       >
-                        <img src={city.image} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
+                        <img src={cloudinaryLoader({ src: city.image, width: 128 })} alt={city.name} className="w-12 h-12 rounded-full object-cover" loading="lazy" width={48} height={48} />
                         <div className="font-semibold text-[#001A33] text-[10px] text-center leading-tight">{city.name} Travel Guide</div>
                       </Link>
                     );
@@ -632,7 +633,7 @@ export default function HomepageClient() {
           return (
             <img
               key={index}
-              src={hero.url}
+              src={cloudinaryLoader({ src: hero.url, width: 1600 })}
               alt={`${hero.city} - Authentic local tours and cultural experiences in ${hero.city}, Asia`}
               className={`absolute inset-0 w-full h-full object-cover object-center brightness-[0.7] transition-opacity duration-1000 ${index === currentImageIndex ? 'opacity-100 z-0' : 'opacity-0 z-0'}`}
               style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
@@ -738,7 +739,7 @@ export default function HomepageClient() {
                       <div className="relative aspect-[4/5] lg:aspect-[3/4] rounded-2xl sm:rounded-3xl overflow-hidden mb-2 sm:mb-3 shadow-md hover:shadow-xl transition-all duration-300 bg-white border border-gray-100">
                         <div className="relative w-full h-full">
                           <img
-                            src={city.image}
+                            src={cloudinaryLoader({ src: city.image, width: 640 })}
                             alt={`${city.name} tours and cultural experiences`}
                             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                           />
@@ -781,7 +782,7 @@ export default function HomepageClient() {
           <div className="flex gap-4 overflow-x-auto no-scrollbar pb-4">
             {ATTRACTIONS.map((attr) => (
               <div key={attr.id} className="group flex-shrink-0 w-72 md:w-[380px] h-48 rounded-2xl overflow-hidden relative cursor-pointer shadow-sm hover:shadow-lg transition-all">
-                <img src={attr.image} alt={`${attr.title} - Top attraction in ${attr.location}`} className="absolute inset-0 w-full h-full object-cover brightness-75 group-hover:scale-105 transition-transform duration-700" loading="lazy" width={380} height={192} />
+                <img src={cloudinaryLoader({ src: attr.image, width: 640 })} alt={`${attr.title} - Top attraction in ${attr.location}`} className="absolute inset-0 w-full h-full object-cover brightness-75 group-hover:scale-105 transition-transform duration-700" loading="lazy" width={380} height={192} />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
                   <h4 className="text-white font-black text-xl leading-tight mb-1">{attr.title}</h4>

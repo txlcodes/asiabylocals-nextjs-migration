@@ -940,7 +940,7 @@ export default function CityInfoClient({ country, city, slug }: Props) {
                                             {tour.image ? (
                                                 <div className="relative h-[180px] overflow-hidden">
                                                     <img
-                                                        src={tour.image}
+                                                        src={cloudinaryLoader({ src: tour.image, width: 640 })}
                                                         alt={tour.title}
                                                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                                                         loading="lazy"
