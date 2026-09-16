@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import CountryPageClient from '@/components/CountryPageClient';
 import { countryDisplayName } from '@/lib/countryName';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -128,6 +129,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
+  // City hero images are already absolute Cloudinary URLs, so prefixing the
+  // site origin produced "https://www.asiabylocals.com/https://res.cloudinary..."
+  // and every country page shared without a preview image. Only a
+  // site-relative path needs the origin; a full URL goes through the loader
+  // so the preview is served from the same host as the page's images.
+  const hero = meta.cities[0]?.image;
+  const ogImage = hero && /^https?:\/\//.test(hero)
+    ? cloudinaryLoader({ src: hero, width: 1600 })
+    : `https://www.asiabylocals.com${hero || '/og-default.webp'}`;
+
   return {
     title: meta.title,
     description: meta.description,
@@ -140,13 +151,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `https://www.asiabylocals.com/${c}`,
       siteName: 'AsiaByLocals',
       type: 'website',
-      images: [{ url: `https://www.asiabylocals.com/${meta.cities[0]?.image || '/og-default.webp'}`, width: 1200, height: 630 }],
+      images: [{ url: ogImage, width: 1200, height: 630 }],
     },
     twitter: {
       card: 'summary_large_image',
       title: meta.title,
       description: meta.description,
-      images: [`https://www.asiabylocals.com/${meta.cities[0]?.image || '/og-default.webp'}`],
+      images: [ogImage],
     },
   };
 }
