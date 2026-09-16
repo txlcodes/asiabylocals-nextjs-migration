@@ -125,6 +125,31 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // Fatehpur day-trip intent → taj-mahal-fatehpur-full-day-tour
   'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
 
+  // ---- UAE (2026-09-16): 101 tours; clones crept back in after launch. Only
+  // genuine same-product pages are mapped. Same intent but a different
+  // product (quad-included full-day safari, sunset-specific cruise, Louvre
+  // add-on day trip) stays unmapped. Champion = keyword-bearing title and the
+  // fuller itinerary; price gaps inside a cluster are a few dollars.
+  // Dubai evening desert safari → red-dune evening safari (OceanAir, $40)
+  'fort-lisaili-desert-safari-with-camp-dinner-and-shows':
+    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
+  'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension':
+    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
+  // Abu Dhabi Grand Mosque + Qasr Al Watan from Abu Dhabi → the Etihad Towers itinerary
+  'abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour':
+    'abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour',
+  // Shared Marina BBQ cruise → Xclusive Yachts breakfast-or-BBQ ($33)
+  'dubai-marina-luxury-yacht-cruise-with-onboard-barbecue':
+    'dubai-marina-yacht-tour-with-breakfast-or-barbecue',
+  // Abu Dhabi evening desert safari → camel farm + Bedouin camp dinner
+  'abu-dhabi-dune-bashing-safari-with-camel-farm-visit':
+    'abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner',
+  'abu-dhabi-desert-safari-with-bbq-and-tanoura-shows':
+    'abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner',
+  // Self-drive quad/buggy session → the $31 session (vs $44)
+  'dubai-red-dunes-self-drive-quad-or-buggy-with-camel-ride':
+    'dubai-quad-bike-or-dune-buggy-session-with-optional-transfer',
+
   // ---- DELHI (2026-08-25): 39/42 tour pages invisible; champions = the 5 owned tours ----
   // Old/New Delhi city-tour intent → explore-old-new-delhi-city-luxury-car-tour (owned)
   'old-delhi-new-delhi-trails-private-tour': 'explore-old-new-delhi-city-luxury-car-tour',
