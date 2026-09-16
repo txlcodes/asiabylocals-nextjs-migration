@@ -125,6 +125,48 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // Fatehpur day-trip intent → taj-mahal-fatehpur-full-day-tour
   'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
 
+  // ---- SWEEP (2026-09-16): title-similarity pass over every city, then read
+  // by hand. Only same-product pages are mapped; different day counts,
+  // opposite transfer directions, sunrise vs sunset, and different boats in a
+  // cruise fleet all stay unmapped. Cheaper page wins unless the other is an
+  // owned tour.
+  // Da Nang: Marble Mountain + Monkey Mountain + Am Phu Cave, three listings
+  'marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang':
+    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
+  'marble-mountain-am-phu-cave-monkey-mountain-in-da-nang':
+    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
+  // Hoi An: My Son + Marble Mountains day trip, $60 vs $29
+  'marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an':
+    'my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an',
+  // HCMC: Cu Chi + Mekong + coconut village
+  'cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city':
+    'hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city',
+  // Hanoi: TripBestie listed the same 3-day Ha Giang loop twice
+  '3-day-ha-giang-loop-w-safe-rider-max-8pax':
+    '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3',
+  // Ha Long: same operator, same 3-day 6-star cruise, listed twice
+  'hanoi-ninh-binh-halong-bay-6-star-cruise-3-days':
+    '3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay',
+  // Sapa: Lao Chai + Ta Van full-day trek
+  'full-day-trekking-tour-to-lao-chai-and-ta-van-villages-in-sapa':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
+  // Agra: Friday special (Taj closed) -> the owned tour
+  'agra-fort-sunset-tour': 'agra-friday-tour-taj-closed-alternative',
+  // Delhi: Taj sunrise + Elephant SOS, two operators
+  'taj-mahal-sunrise-elephant-conservation-tour': 'delhi-agra-sunrise-tour',
+  // Delhi: one more Old+New Delhi city tour the 2026-08-25 pass missed
+  'india-gate-full-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  // Mumbai: same-day and overnight Taj by flight, two operators each
+  'same-day-taj-mahal-tour-from-mumbai-by-flight': 'same-day-taj-mahal-tour-from-mumbai',
+  'taj-mahal-overnight-tour-from-mumbai-by-flight': 'overnight-taj-mahal-tour-from-mumbai',
+  // Udaipur: private full-day sightseeing with guide, $80 vs $29
+  'city-palace-sightseeing-full-day-tour': 'lake-pichola-full-day-tour',
+  // Colombo: Yala day trip, two operators
+  'yala-national-park-leopard-safari-day-trip-colombo':
+    'yala-national-park-private-jeep-safari-day-trip-colombo',
+  // Nara: early-morning coach from Kyoto, $94 vs $73
+  'kasuga-taisha-morning-tour': 'nara-park-morning-morning-tour',
+
   // ---- UAE (2026-09-16): 101 tours; clones crept back in after launch. Only
   // genuine same-product pages are mapped. Same intent but a different
   // product (quad-included full-day safari, sunset-specific cruise, Louvre
