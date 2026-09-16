@@ -162,8 +162,8 @@ export default function RootLayout({
                 if (!el || el.tagName !== 'IMG' || el.dataset.cldFallback) return;
                 var src = el.currentSrc || el.src || '';
                 if (src.indexOf(host) !== 0) return;
-                var rest = src.slice(host.length).replace(/^\//, '');
-                var m = rest.match(/^(.+)\/(\d+)\.webp$/);
+                var rest = src.slice(host.length).replace(/^\\//, '');
+                var m = rest.match(/^(.+)\\/(\\d+)\\.webp$/);
                 if (!m) return;
                 el.dataset.cldFallback = '1';
                 el.removeAttribute('srcset');
