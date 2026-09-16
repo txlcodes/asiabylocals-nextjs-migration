@@ -146,6 +146,33 @@ export default function RootLayout({
         />
       </head>
       <body className={`${plusJakartaSans.variable} font-sans antialiased`}>
+        {/* Any photo that has not been copied to R2 yet falls back to Cloudinary.
+            The loader rewrites every Cloudinary URL to an R2 key, so a photo
+            uploaded after the migration ran - a supplier adding a tour, say -
+            would otherwise 404 and render blank. Capture phase, because error
+            events on <img> do not bubble. Each element is retried once, at the
+            width the R2 key asked for rather than always the largest. */}
+        <Script id="image-host-fallback" strategy="beforeInteractive">
+          {`
+            (function () {
+              var host = ${JSON.stringify(process.env.NEXT_PUBLIC_IMAGE_HOST || '')};
+              if (!host) return;
+              document.addEventListener('error', function (e) {
+                var el = e.target;
+                if (!el || el.tagName !== 'IMG' || el.dataset.cldFallback) return;
+                var src = el.currentSrc || el.src || '';
+                if (src.indexOf(host) !== 0) return;
+                var rest = src.slice(host.length).replace(/^\//, '');
+                var m = rest.match(/^(.+)\/(\d+)\.webp$/);
+                if (!m) return;
+                el.dataset.cldFallback = '1';
+                el.removeAttribute('srcset');
+                el.src = 'https://res.cloudinary.com/dx2fxyaft/image/upload/f_auto,q_auto:eco,w_'
+                  + m[2] + ',c_limit/' + m[1];
+              }, true);
+            })();
+          `}
+        </Script>
         {/* Trustpilot invite widget — lazyOnload so it can't compete with the
             page's own JS/images. It was previously a raw <script> in <head>,
             which made it the single slowest request on city pages (~4s). */}
