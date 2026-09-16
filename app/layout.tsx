@@ -132,6 +132,44 @@ const jsonLd = {
   ],
 }
 
+// Any photo R2 cannot serve falls back to Cloudinary. The loader rewrites
+// every Cloudinary URL to an R2 key, so a photo uploaded after the migration
+// ran, or an R2 request that fails on a resolver still holding the old
+// nameservers, would otherwise render blank.
+//
+// A raw <script> in <head>, not next/script: beforeInteractive scripts are
+// injected at hydration, and photos in the initial HTML can fail before that
+// listener exists. This runs before the first <img> is parsed, and the sweep
+// covers anything that still slipped through. String.raw so the regex
+// backslashes reach the browser intact; the last version lost them and was a
+// silent syntax error.
+const IMAGE_HOST = (process.env.NEXT_PUBLIC_IMAGE_HOST || '').replace(/\/$/, '');
+const IMAGE_FALLBACK_SCRIPT = IMAGE_HOST
+  ? String.raw`(function(){
+var host=${JSON.stringify(IMAGE_HOST)};
+function fix(el){
+  if(!el||el.tagName!=='IMG'||el.dataset.cldFallback)return;
+  var src=el.currentSrc||el.src||'';
+  if(src.indexOf(host)!==0)return;
+  var m=src.slice(host.length).replace(/^\//,'').match(/^(.+)\/(\d+)\.webp$/);
+  if(!m)return;
+  el.dataset.cldFallback='1';
+  el.removeAttribute('srcset');
+  el.src='https://res.cloudinary.com/dx2fxyaft/image/upload/f_auto,q_auto:eco,w_'+m[2]+',c_limit/'+m[1];
+}
+document.addEventListener('error',function(e){fix(e.target)},true);
+function sweep(){
+  var imgs=document.images;
+  for(var i=0;i<imgs.length;i++){
+    var im=imgs[i];
+    if(im.complete&&im.naturalWidth===0&&im.loading!=='lazy')fix(im);
+  }
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',sweep);else sweep();
+window.addEventListener('load',sweep);
+})();`
+  : '';
+
 export default function RootLayout({
   children,
 }: {
@@ -140,39 +178,15 @@ export default function RootLayout({
   return (
     <html lang="en" itemScope itemType="https://schema.org/TravelAgency">
       <head>
+        {IMAGE_FALLBACK_SCRIPT && (
+          <script id="image-host-fallback" dangerouslySetInnerHTML={{ __html: IMAGE_FALLBACK_SCRIPT }} />
+        )}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
       <body className={`${plusJakartaSans.variable} font-sans antialiased`}>
-        {/* Any photo that has not been copied to R2 yet falls back to Cloudinary.
-            The loader rewrites every Cloudinary URL to an R2 key, so a photo
-            uploaded after the migration ran - a supplier adding a tour, say -
-            would otherwise 404 and render blank. Capture phase, because error
-            events on <img> do not bubble. Each element is retried once, at the
-            width the R2 key asked for rather than always the largest. */}
-        <Script id="image-host-fallback" strategy="beforeInteractive">
-          {`
-            (function () {
-              var host = ${JSON.stringify(process.env.NEXT_PUBLIC_IMAGE_HOST || '')};
-              if (!host) return;
-              document.addEventListener('error', function (e) {
-                var el = e.target;
-                if (!el || el.tagName !== 'IMG' || el.dataset.cldFallback) return;
-                var src = el.currentSrc || el.src || '';
-                if (src.indexOf(host) !== 0) return;
-                var rest = src.slice(host.length).replace(/^\\//, '');
-                var m = rest.match(/^(.+)\\/(\\d+)\\.webp$/);
-                if (!m) return;
-                el.dataset.cldFallback = '1';
-                el.removeAttribute('srcset');
-                el.src = 'https://res.cloudinary.com/dx2fxyaft/image/upload/f_auto,q_auto:eco,w_'
-                  + m[2] + ',c_limit/' + m[1];
-              }, true);
-            })();
-          `}
-        </Script>
         {/* Trustpilot invite widget — lazyOnload so it can't compete with the
             page's own JS/images. It was previously a raw <script> in <head>,
             which made it the single slowest request on city pages (~4s). */}
