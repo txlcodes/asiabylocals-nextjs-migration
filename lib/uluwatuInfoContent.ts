@@ -497,6 +497,297 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "gwk-cultural-park-guide":
+      return {
+        title: "GWK Cultural Park: The 121-Metre Statue, the Show Times, and Whether It Is Worth the Ticket",
+        seoTitle: "GWK Cultural Park Guide 2026",
+        description: "What the Garuda Wisnu Kencana statue is and how long it took, what is inside the park, the dance timetable, and how to fit it with Uluwatu temple in one afternoon.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/gwk-cultural-park-beach-and-sunset-temple-in-uluwatu/img0/1600.webp",
+        fastFacts: [
+          { icon: "landmark", label: "The statue", value: "121 m including the base; completed 2018 after 28 years" },
+          { icon: "clock", label: "Hours", value: "Roughly 9:00 to 8:00pm; shows through the day" },
+          { icon: "ticket", label: "Entry", value: "A few hundred thousand rupiah; statue interior extra" },
+          { icon: "map", label: "Location", value: "Ungasan, 20 minutes from Uluwatu temple" },
+          { icon: "sun", label: "Best hour", value: "Late afternoon, then Uluwatu for sunset" },
+          { icon: "users", label: "Time needed", value: "1.5 to 2 hours" },
+        ],
+        sections: [
+          {
+            title: "What it is",
+            icon: "landmark",
+            content: "Garuda Wisnu Kencana is a statue of the god Vishnu riding the eagle Garuda, 121 metres from the ground to the top of Garuda's wings, standing on a limestone plateau at Ungasan on the Bukit peninsula. The sculptor Nyoman Nuarta began it in 1990; the copper and brass sections were assembled in 2018, 28 years later, making it one of the tallest statues in the world and by some distance the largest on Bali. It is visible from the airport approach and from most of the peninsula.\n\nThe park around it was cut out of the plateau's old limestone quarry, which is why the plazas are walled by sheer white cliffs; the cliffs are the second thing people photograph.",
+            tourCard: {
+              slug: "gwk-cultural-park-beach-and-sunset-temple-in-uluwatu",
+              title: "GWK Cultural Park, Beach and Sunset Temple in Uluwatu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 83.92",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gwk-cultural-park-beach-and-sunset-temple-in-uluwatu/img0/1600.webp",
+            },
+          },
+          {
+            title: "Inside the park",
+            icon: "map",
+            content: "The park is a series of plazas at different levels: the Lotus Pond, the huge flat arena walled by cliffs where the big events are staged; the Wisnu Plaza with the older head-and-shoulders statue from the 1990s; the Garuda Plaza; and the Street Theatre where the daily dances run. The main statue can be entered, with a lift to viewing floors inside it, for a separate ticket. There are restaurants, and a shuttle between the levels for anyone who does not want the stairs in the heat. Two hours covers it without rushing.",
+            tourCard: {
+              slug: "gwk-park-dreamland-beach-and-melasti-sunset-kecak-tour-in-uluwatu",
+              title: "GWK Park, Dreamland Beach, and Melasti Sunset Kecak Tour in Uluwatu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.78",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gwk-park-dreamland-beach-and-melasti-sunset-kecak-tour-in-uluwatu/img0/1600.webp",
+            },
+          },
+          {
+            title: "The shows",
+            icon: "clock",
+            content: "Balinese dances run on a timetable through the day at the Street Theatre, usually a Barong and a Legong in the morning and afternoon, with a Kecak in the early evening and occasionally a larger production at the Lotus Pond. They are included in the entry and they are decent, but the Kecak here competes with the one at Uluwatu temple at sunset, twenty minutes away, and the temple's cliff setting wins. The usual plan is GWK in the mid-afternoon and Uluwatu for the 6:00 Kecak; see the [Uluwatu temple and Kecak guide](/indonesia/uluwatu/uluwatu-temple-kecak-guide).",
+            tourCard: {
+              slug: "kecak-fire-dance-show-and-uluwatu-temple-entry-ticket",
+              title: "Kecak Fire Dance Show and Uluwatu Temple Entry Ticket",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 29.37",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kecak-fire-dance-show-and-uluwatu-temple-entry-ticket/img0/1600.webp",
+            },
+          },
+          {
+            title: "Is it worth it",
+            icon: "ticket",
+            content: "For the statue and the quarry cliffs, yes, once, especially with children or on a day too hot for the beaches. It is a built attraction rather than a historic site, and people who expect a temple are disappointed. Go from about 3:00 when the light softens, do the plazas and a show, and leave for Uluwatu by 5:00. It combines well with the [Melasti beach](/indonesia/uluwatu/melasti-beach-guide) road, which is ten minutes south, and with a [Jimbaran seafood dinner](/indonesia/uluwatu/jimbaran-seafood-dinner-guide) afterwards.",
+            tourCard: {
+              slug: "pirate-dinner-cruise-with-optional-gwk-park-visit-in-uluwatu",
+              title: "Pirate Dinner Cruise with Optional GWK Park Visit in Uluwatu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 129.69",
+              duration: "6 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/pirate-dinner-cruise-with-optional-gwk-park-visit-in-uluwatu/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How tall is the GWK statue?", a: "121 metres including the base, to the top of Garuda's wings. It was begun in 1990 and completed in 2018." },
+          { q: "How long do you need at GWK Cultural Park?", a: "An hour and a half to two hours for the plazas, the cliffs and one dance show. The statue interior is a separate ticket and adds half an hour." },
+          { q: "Are there dance shows at GWK?", a: "Yes, several a day at the Street Theatre, included in the entry, plus a Kecak in the early evening. The sunset Kecak at Uluwatu temple twenty minutes away is the better setting." },
+          { q: "Is GWK near Uluwatu temple?", a: "About twenty minutes by car. The usual plan is GWK mid-afternoon and Uluwatu temple for the sunset Kecak at 6:00." },
+        ],
+      };
+
+    case "jimbaran-seafood-dinner-guide":
+      return {
+        title: "Jimbaran Seafood Dinner: How the Beach Restaurants Work, What It Costs, and the Best Time to Sit Down",
+        seoTitle: "Jimbaran Seafood Dinner Guide 2026",
+        description: "How the grilled-fish dinners on Jimbaran beach are priced, the three restaurant strips, the sunset timing, and how to combine it with Uluwatu's Kecak.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jimbaran-bay-romantic-spa-and-seafood-sunset-dinner/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "Where", value: "Jimbaran Bay, south of the airport, 25 minutes from Uluwatu" },
+          { icon: "clock", label: "Sunset", value: "About 6:15 to 6:30 all year" },
+          { icon: "utensils", label: "Pricing", value: "By weight for fish, lobster and prawns; set menus too" },
+          { icon: "ticket", label: "Budget", value: "Set menus from a few hundred thousand rupiah per person" },
+          { icon: "users", label: "Reservation", value: "Needed on weekends and in high season" },
+          { icon: "sun", label: "Order", value: "Uluwatu Kecak first, then dinner at 7:30" },
+        ],
+        sections: [
+          {
+            title: "The setup",
+            icon: "utensils",
+            content: "Jimbaran is a fishing village on the bay south of the airport, and along its beach stand rows of restaurants that put tables on the sand each evening and grill fish, prawns, squid, clams and lobster over coconut husks. You choose from the display at the front, it is weighed and priced, and it arrives grilled with rice, kangkung, sambal and a plate of fruit. Planes land behind you, the fishing boats sit on the sand, and the sun goes down over the bay. It is one of the set pieces of a Bali holiday and it is exactly what it sounds like.",
+            tourCard: {
+              slug: "jimbaran-bay-romantic-spa-and-seafood-sunset-dinner",
+              title: "Jimbaran Bay Romantic Spa and Seafood Sunset Dinner",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 118.25",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/jimbaran-bay-romantic-spa-and-seafood-sunset-dinner/img0/1600.webp",
+            },
+          },
+          {
+            title: "The three strips",
+            icon: "map",
+            content: "There are three groups of restaurants along the bay. The northern strip near the fish market has the cheapest and simplest places and the most local trade. The middle strip at Muaya Beach is the biggest and busiest, with the most tables on the sand and dance performances at some. The southern strip near the Four Seasons, sometimes called Kedonganan, is quieter and slightly more expensive. The food is similar along the whole bay; the differences are noise, price and how many tables are between you and the water.",
+            tourCard: {
+              slug: "kecak-fire-dance-temple-and-jimbaran-seafood-dinner",
+              title: "Kecak Fire Dance, Temple and Jimbaran Seafood Dinner",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 67.90",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kecak-fire-dance-temple-and-jimbaran-seafood-dinner/img0/1600.webp",
+            },
+          },
+          {
+            title: "How to order and what it costs",
+            icon: "ticket",
+            content: "Fish is sold by the hundred grams from the display; a half-kilo snapper for two is normal. Lobster and prawns are priced per weight too and are where the bill climbs. Most restaurants also offer set menus per person with a mix of fish, prawns, squid and clams, which are the simpler choice and usually fairer value. Confirm the price of anything weighed before it goes on the grill, and ask whether the rice, vegetables and fruit are included. Cash and cards are both fine at the larger places.",
+            tourCard: {
+              slug: "south-bali-tour-uluwatu-sunset-beaches-and-seafood-dinner-uluwatu",
+              title: "South Bali Tour: Uluwatu Sunset, Beaches and Seafood Dinner (Uluwatu)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 41.60",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/south-bali-tour-uluwatu-sunset-beaches-and-seafood-dinner-uluwatu/img0/1600.webp",
+            },
+          },
+          {
+            title: "Timing, and pairing with Uluwatu",
+            icon: "clock",
+            content: "Sunset is between 6:15 and 6:30 all year, and the tables closest to the water are taken by 5:30 on a weekend. Many people watch the Kecak at Uluwatu temple at 6:00 and reach Jimbaran at about 7:30 for dinner after dark, which loses the sunset but gains the show and the cooler evening; the drive is about 25 minutes. Or reverse it another day. For the temple side, see the [Uluwatu temple guide](/indonesia/uluwatu/uluwatu-temple-kecak-guide); for the beaches to spend the afternoon on first, the [Uluwatu beaches guide](/indonesia/uluwatu/uluwatu-beaches-guide).",
+            tourCard: {
+              slug: "jimbaran-sunset-seafood-dining-experience-for-2",
+              title: "Jimbaran Sunset Seafood Dining Experience for 2",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 22.82",
+              duration: "Flexible",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/jimbaran-sunset-seafood-dining-experience-for-2/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How much is a seafood dinner in Jimbaran?", a: "Set menus start at a few hundred thousand rupiah per person. Fish is priced by weight; lobster and prawns push the bill up. Confirm prices before anything is grilled." },
+          { q: "What time is sunset at Jimbaran?", a: "Between 6:15 and 6:30 all year. Beachfront tables fill by 5:30 on weekends." },
+          { q: "Can I do the Uluwatu Kecak and a Jimbaran dinner on the same evening?", a: "Yes. Kecak at 6:00 at Uluwatu, then a 25-minute drive to Jimbaran for dinner at about 7:30, after dark." },
+          { q: "Which part of Jimbaran beach is best for dinner?", a: "The middle strip at Muaya Beach for the classic tables-on-the-sand scene, the northern strip near the fish market for simpler and cheaper, the southern strip for quieter." },
+        ],
+      };
+
+    case "melasti-beach-guide":
+      return {
+        title: "Melasti Beach: The Cliff Road, the Beach Clubs, and Why It Is the Easy Uluwatu Beach",
+        seoTitle: "Melasti Beach Uluwatu Guide 2026",
+        description: "The one Bukit beach with a road down the cliff, what the beach and the clubs are like, the tide, the ceremony it is named for, and how it fits an Uluwatu afternoon.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/turtle-island-melasti-beach-uluwatu-and-kecak-sunset/img0/1600.webp",
+        fastFacts: [
+          { icon: "car", label: "Access", value: "A switchback road down the cliff; no steps" },
+          { icon: "ticket", label: "Entry", value: "Small fee per person and per vehicle" },
+          { icon: "sun", label: "Best", value: "Afternoon; the cliff shades the beach late" },
+          { icon: "droplet", label: "Sea", value: "Calmer than the surf beaches; reef at low tide" },
+          { icon: "map", label: "Location", value: "Ungasan, 15 minutes from Uluwatu temple" },
+          { icon: "landmark", label: "Name", value: "From the melasti purification ceremony before Nyepi" },
+        ],
+        sections: [
+          {
+            title: "What it is",
+            icon: "map",
+            content: "Most of the beaches on the Bukit peninsula sit at the bottom of a cliff and are reached by steps. Melasti, on the south coast below Ungasan, is the exception: a road was cut in switchbacks down the white limestone cliff to the sand, so you can drive down, which is the reason it became popular and the reason it has beach clubs. The beach itself is long, white and open, with the cliff behind it and clear water in front; the road down, carved through the rock, is a sight on its own.\n\nThe name is from the melasti ceremony, in which villages carry their temple's sacred objects to the sea for cleansing in the days before Nyepi; this beach is one of the places the Ungasan villages come to, and in the week before Nyepi you may see it.",
+            tourCard: {
+              slug: "turtle-island-melasti-beach-uluwatu-and-kecak-sunset",
+              title: "Turtle Island, Melasti Beach, Uluwatu and Kecak Sunset",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 106.81",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/turtle-island-melasti-beach-uluwatu-and-kecak-sunset/img0/1600.webp",
+            },
+          },
+          {
+            title: "The beach and the clubs",
+            icon: "sun",
+            content: "The sand is wide at low tide and the water is calmer than at Padang Padang or Bingin because a reef offshore takes the surf; it is swimmable in the middle of the day at mid to high tide, and at low tide the reef is exposed for rock pools. Several beach clubs have built onto the sand with pools, daybeds and minimum spends; they are the main draw for many visitors and the reason the beach is busier than it was. Away from the clubs, the beach is free to walk and there is shade under the cliff in the late afternoon.",
+            tourCard: {
+              slug: "gwk-park-dreamland-beach-and-melasti-sunset-kecak-tour-in-uluwatu",
+              title: "GWK Park, Dreamland Beach, and Melasti Sunset Kecak Tour in Uluwatu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.78",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gwk-park-dreamland-beach-and-melasti-sunset-kecak-tour-in-uluwatu/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "shield",
+            content: "There is a small entry fee at the top of the road, per person and per vehicle, and parking at the bottom. Bring water and sun cover; the white cliff reflects a lot of light. Sunset here is over the water to the west-south-west and is good from the beach, but the cliff above blocks it early, so most people move to the top of the road or on to Uluwatu temple. Fifteen minutes to the temple, ten to GWK; it slots into an afternoon between the two. For the steeper, wilder beaches, see the [Uluwatu beaches guide](/indonesia/uluwatu/uluwatu-beaches-guide); for the temple, the [Kecak guide](/indonesia/uluwatu/uluwatu-temple-kecak-guide).",
+            tourCard: {
+              slug: "uluwatu-sunset-magic-kecak-padang-padang-cliff-and-dinner-uluwatu",
+              title: "Uluwatu Sunset Magic: Kecak, Padang Padang Cliff and Dinner (Uluwatu)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.53",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-sunset-magic-kecak-padang-padang-cliff-and-dinner-uluwatu/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can you drive down to Melasti Beach?", a: "Yes. A switchback road cut into the cliff goes to the sand, which makes it the easiest of the Uluwatu beaches to reach. There is a small fee at the top." },
+          { q: "Is Melasti Beach good for swimming?", a: "Better than the surf beaches: a reef offshore calms the water. Swim at mid to high tide; at low tide the reef is exposed." },
+          { q: "Are there beach clubs at Melasti?", a: "Yes, several on the sand with pools and daybeds on minimum spends. The rest of the beach is free." },
+          { q: "How far is Melasti Beach from Uluwatu temple?", a: "About fifteen minutes by car, and ten from GWK Cultural Park." },
+        ],
+      };
+
+    case "uluwatu-sunset-spots-guide":
+      return {
+        title: "Where to Watch the Sunset in Uluwatu: The Temple, the Cliffs, the Beaches, and the Crowds at Each",
+        seoTitle: "Uluwatu Sunset Spots Guide 2026",
+        description: "The sunset time all year, what each Uluwatu viewpoint gives you, the ones with the Kecak, the ones with a drink, and the ones with nobody.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-tour-with-sunset-kecak-fire-dance/img0/1600.webp",
+        fastFacts: [
+          { icon: "sun", label: "Sunset", value: "6:10 to 6:40 through the year" },
+          { icon: "landmark", label: "Temple", value: "Cliff path and the Kecak at 6:00; busiest" },
+          { icon: "droplet", label: "Beaches", value: "Padang Padang, Bingin and Melasti face west enough" },
+          { icon: "camera", label: "Karang Boma", value: "The cliff edge; free, no rail, no shade" },
+          { icon: "users", label: "Clubs", value: "Single Fin at Suluban, Sundays especially" },
+          { icon: "clock", label: "Arrive", value: "45 minutes before; the light before sunset is the show" },
+        ],
+        sections: [
+          {
+            title: "The sun, and the shape of the coast",
+            icon: "sun",
+            content: "Uluwatu is the south-western tip of Bali, so the whole coast from Jimbaran round to the temple faces the setting sun, and sunset is between 6:10 and 6:40 depending on the month, with dark within half an hour. The dry season, April to October, gives clear horizons; the wet season gives cloud banks that either hide the sun or turn the sky red for ten minutes, and you do not know which until it happens. Every spot below is a twenty-minute drive from any other.",
+            tourCard: {
+              slug: "uluwatu-temple-tour-with-sunset-kecak-fire-dance",
+              title: "Uluwatu Temple Tour with Sunset Kecak Fire Dance",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 22.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-tour-with-sunset-kecak-fire-dance/img0/1600.webp",
+            },
+          },
+          {
+            title: "The temple and the Kecak",
+            icon: "landmark",
+            content: "Pura Luhur Uluwatu's cliff path runs along the top of a 70-metre drop with the sea below and the temple at the end, and the Kecak amphitheatre beside it is arranged so the sun sets behind the dancers. It is the classic sunset and the most crowded; the Kecak is ticketed and sells out in high season, and the path is busy from 5:00. Worth doing once. Details in the [temple and Kecak guide](/indonesia/uluwatu/uluwatu-temple-kecak-guide).",
+            tourCard: {
+              slug: "uluwatu-temple-sunset-tour-with-kecak-fire-dance",
+              title: "Uluwatu Temple Sunset Tour with Kecak Fire Dance",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 97.27",
+              duration: "6 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp",
+            },
+          },
+          {
+            title: "The cliffs without the temple",
+            icon: "camera",
+            content: "Karang Boma is a bare limestone cliff edge near Pecatu with the same 70-metre drop and the same view, no temple, no rail, no fee and no shade; it is where the photographers go, and it is not a place for children or for standing near the edge in wind. Further along, the cliff tops above Bingin and Impossibles have small warungs with a table and a view. At Suluban, the cliff-top clubs above the Uluwatu surf break, Single Fin the best known, give you a drink, a crowd and the surfers below; Sunday evenings are the party.",
+            tourCard: {
+              slug: "surfing-class-tanah-lot-and-kecak-dance-sunset-tour",
+              title: "Surfing Class, Tanah Lot and Kecak Dance Sunset Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 76.32",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/surfing-class-tanah-lot-and-kecak-dance-sunset-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "The beaches",
+            icon: "droplet",
+            content: "Padang Padang, Bingin and Melasti all face west enough for the sun to set over the water. Bingin's warungs on the cliff steps put you a few metres above the surf with the sun going down in front; Melasti loses the sun early behind its cliff unless you climb the road. Jimbaran, twenty-five minutes north, is the sunset with dinner, covered in the [Jimbaran guide](/indonesia/uluwatu/jimbaran-seafood-dinner-guide). For the beaches themselves, see the [beaches guide](/indonesia/uluwatu/uluwatu-beaches-guide) and the [Melasti guide](/indonesia/uluwatu/melasti-beach-guide).",
+            tourCard: {
+              slug: "beaches-uluwatu-sunset-kecak-and-romantic-beach-dinner",
+              title: "Beaches, Uluwatu, Sunset Kecak and Romantic Beach Dinner",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 118.30",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/beaches-uluwatu-sunset-kecak-and-romantic-beach-dinner/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What time is sunset in Uluwatu?", a: "Between 6:10 and 6:40 all year, with full dark about half an hour later. Arrive 45 minutes early for the light." },
+          { q: "Where is the best sunset in Uluwatu?", a: "The temple cliff path with the Kecak for the classic view, Karang Boma cliff for the same view without the crowd, Single Fin at Suluban for a drink above the surf, Bingin's cliff warungs for the quiet version." },
+          { q: "Is the Uluwatu Kecak at sunset?", a: "Yes, it starts at about 6:00 daily beside the temple, timed so the sun sets behind the dancers. Tickets sell out in high season." },
+          { q: "Is Karang Boma cliff safe?", a: "It is a bare cliff edge with no rail. Fine for adults who keep back from the edge; not for children or in strong wind." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -497,6 +497,386 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "diamond-beach-and-atuh-guide":
+      return {
+        title: "Diamond Beach and Atuh Beach: The Cliff Steps, the Shore Break, and the Rest of Nusa Penida's East",
+        seoTitle: "Diamond Beach Nusa Penida Guide 2026",
+        description: "How the stairs down to Diamond Beach work, why it is a beach for the picture and not the swim, Atuh across the headland, the tree house and the Thousand Islands viewpoint, and the time the east side needs.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida/img0/1600.webp",
+        fastFacts: [
+          { icon: "footprints", label: "Steps", value: "Cut into the cliff in 2018; 10 to 15 minutes down" },
+          { icon: "droplet", label: "Sea", value: "Strong shore break; no lifeguard" },
+          { icon: "map", label: "Atuh", value: "The next cove, reached by its own steps" },
+          { icon: "camera", label: "Viewpoints", value: "Thousand Islands, Rumah Pohon tree house" },
+          { icon: "car", label: "From the harbour", value: "About 1.5 hours on narrow roads" },
+          { icon: "sun", label: "Best light", value: "Morning on the white cliffs" },
+        ],
+        sections: [
+          {
+            title: "Diamond Beach",
+            icon: "camera",
+            content: "Diamond Beach is a wedge of white sand at the foot of a limestone cliff on Nusa Penida's south-east corner, named for the pointed rock stacks off its end. Until 2018 it was viewed from above; then a staircase was cut into the cliff face, and it became possible to walk down. The view from the top of the steps, along the cliff to the stacks, is the photograph. The beach at the bottom is small, the sand is coarse, and the sea comes in with a shore break that knocks people over; there is no lifeguard and the currents beyond the break are strong. Go down for the walk and the base of the cliff, not for a swim.",
+            tourCard: {
+              slug: "nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida",
+              title: "Nusa Penida Journey to Atuh Diamond Beach and Tree House Tour (Nusa Penida)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 117.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Atuh Beach",
+            icon: "droplet",
+            content: "Atuh is the next cove east, on the other side of the headland from Diamond Beach, and the two share the same car park area with the steps going down opposite sides. Atuh's beach is larger and more sheltered, with a few warungs under umbrellas selling coconuts and grilled fish, and the water is calmer at low tide, though the same care applies. The rock arch in the bay and the stacks make it as photogenic as its neighbour and it is usually less crowded. Coming down to one and up the other, with an hour on the sand, is a fair half-day.",
+            tourCard: {
+              slug: "kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida",
+              title: "Kelingking Beach, Broken Beach and Sunset Dinner in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 43.64",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "The viewpoints",
+            icon: "map",
+            content: "Ten minutes from the beaches, the Thousand Islands viewpoint, Raja Lima, looks along the coast at a line of small rock islands in the sea, and the Rumah Pohon tree houses, wooden huts on stilts on the cliff edge, are the spot everyone photographs from. The tree houses are rented for the night and are otherwise a queue for the photo. A little further, the Teletubbies hills are rounded green hills that are worth a stop from the road and no more. Together with the beaches these are the east side, and they are an hour and a half from the harbour on roads that are narrow and poor.",
+            tourCard: {
+              slug: "tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida",
+              title: "Tembeling beach and forest, kelingking beach broken in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 74.52",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Fitting it in",
+            icon: "clock",
+            content: "The east does not fit into a day trip from Bali with the west side; it is a day of its own or the second morning of an overnight stay. Arrive early for the light on the white cliffs and to have the steps before the heat, and be off the beaches by noon. For how the two sides compare, see [west or east](/indonesia/nusa-penida/nusa-penida-west-vs-east); for whether to stay, [day trip or overnight](/indonesia/nusa-penida/nusa-penida-day-trip-or-overnight); and for the west side's own cliff, the [Kelingking guide](/indonesia/nusa-penida/kelingking-beach-guide).",
+            tourCard: {
+              slug: "kelingking-and-tembeling-beach-tour-in-nusa-penida",
+              title: "Kelingking and Tembeling Beach Tour in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 99.18",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-and-tembeling-beach-tour-in-nusa-penida/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can you swim at Diamond Beach?", a: "Not safely. The shore break is strong, there is no lifeguard and the currents beyond it are dangerous. Go down for the cliff and the view; paddle at the edge at most." },
+          { q: "How do you get down to Diamond Beach?", a: "By a staircase cut into the cliff in 2018, ten to fifteen minutes down and a little more up. It is steep but has handrails on most sections." },
+          { q: "Is Atuh Beach next to Diamond Beach?", a: "Yes, on the other side of the same headland, with its own steps from the same car park. Atuh is larger, more sheltered and has warungs." },
+          { q: "Can I see Diamond Beach on a day trip from Bali?", a: "Only on a dedicated east-side day. Standard day trips do the west side; the east is an hour and a half from the harbour and needs its own day or an overnight." },
+        ],
+      };
+
+    case "broken-beach-angels-billabong-guide":
+      return {
+        title: "Broken Beach and Angel's Billabong: The Arch, the Tide Pool, and the Tide That Decides Whether You Swim",
+        seoTitle: "Broken Beach & Angel's Billabong Guide 2026",
+        description: "What the two sites next to each other on Nusa Penida's west coast are, why Angel's Billabong is safe at one tide and dangerous at the other, and how they fit with Kelingking.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+        fastFacts: [
+          { icon: "landmark", label: "Broken Beach", value: "Collapsed sea cave leaving a natural arch; no way down" },
+          { icon: "droplet", label: "Angel's Billabong", value: "Tide pool at the cliff foot; swim at low tide only" },
+          { icon: "map", label: "Together", value: "Five minutes apart, same car park" },
+          { icon: "clock", label: "Time", value: "30 to 45 minutes for both" },
+          { icon: "car", label: "From Kelingking", value: "About 20 minutes" },
+          { icon: "shield", label: "Danger", value: "Waves over the pool lip at high tide and in swell" },
+        ],
+        sections: [
+          {
+            title: "Broken Beach",
+            icon: "landmark",
+            content: "Pasih Uug, Broken Beach, is a circular cove on Nusa Penida's west coast where the roof of a sea cave fell in, leaving a bowl of cliff around a beach that the sea reaches through a natural arch in the wall. You walk around the rim of the bowl, look down at the beach and the turquoise water inside, and watch the swell push through the arch. There is no path down and no swimming; it is a viewpoint, a fine one, and it takes twenty minutes including the walk around. Manta rays are sometimes seen from the rim in the water below.",
+            tourCard: {
+              slug: "kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida",
+              title: "Kelingking Beach, Broken Beach and Sunset Dinner in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 43.64",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Angel's Billabong",
+            icon: "droplet",
+            content: "Five minutes on foot from Broken Beach, Angel's Billabong is a natural pool in the rock at the bottom of the cliff, filled by the sea at high tide and left as a clear green basin at low tide, with the open sea beyond a lip of rock. At low tide on a calm day people climb down and swim in it, and it is as good as it looks. At high tide, and at any tide when there is swell, waves come over the lip into the pool and have carried people out; there have been deaths here. The rule is simple: swim only at low tide in calm sea, stay away from the lip, and if the water is moving, look and leave.",
+            tourCard: {
+              slug: "tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida",
+              title: "Tembeling beach and forest, kelingking beach broken in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 74.52",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Reading the tide",
+            icon: "clock",
+            content: "Your driver will know the tide, and the warungs at the car park will tell you; there are also signs. Low tide falls at a different hour each day, so whether you swim is a matter of which day you come, not of planning. In the dry season, April to October, the sea is generally calmer; in the wet season the south-westerly swell makes the pool unsafe on more days. Do not let a photograph of someone else in the pool decide it for you.",
+            tourCard: {
+              slug: "island-beach-highlights-swim-and-hike-tour-in-nusa-penida",
+              title: "Island Beach Highlights Swim and Hike Tour in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 37.77",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/island-beach-highlights-swim-and-hike-tour-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "With Kelingking",
+            icon: "map",
+            content: "These two sit twenty minutes from Kelingking and the three make up the standard west-side circuit, usually in the order Kelingking first for the light, then Broken Beach and Angel's Billabong, then Crystal Bay for a swim and lunch. See the [Kelingking guide](/indonesia/nusa-penida/kelingking-beach-guide) and the [Crystal Bay guide](/indonesia/nusa-penida/crystal-bay-guide); for how the west compares with the east, [west or east](/indonesia/nusa-penida/nusa-penida-west-vs-east).",
+            tourCard: {
+              slug: "kelingking-and-tembeling-beach-tour-in-nusa-penida",
+              title: "Kelingking and Tembeling Beach Tour in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 99.18",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-and-tembeling-beach-tour-in-nusa-penida/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can you swim at Angel's Billabong?", a: "Only at low tide in a calm sea. At high tide and in swell, waves come over the rock lip into the pool and have swept people out. Ask your driver about the tide and look before you climb down." },
+          { q: "Can you go down to Broken Beach?", a: "No. There is no path to the beach inside the arch. It is viewed from the rim, which takes about twenty minutes to walk around." },
+          { q: "How far is Broken Beach from Kelingking?", a: "About twenty minutes by car. Angel's Billabong is a five-minute walk from Broken Beach." },
+          { q: "When is the sea calmest at Angel's Billabong?", a: "In the dry season, April to October, and at low tide. Wet-season swell makes the pool unsafe on many days." },
+        ],
+      };
+
+    case "crystal-bay-guide":
+      return {
+        title: "Crystal Bay: The Swim, the Snorkel from the Beach, the Sunfish Season, and the Current",
+        seoTitle: "Crystal Bay Nusa Penida Guide 2026",
+        description: "Nusa Penida's easiest beach, what you see snorkelling straight off the sand, why divers come for the mola mola from July to October, and where the current runs.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+        fastFacts: [
+          { icon: "droplet", label: "Swim", value: "The calmest beach on Penida's west side" },
+          { icon: "fish", label: "Snorkel", value: "Reef off the beach; boat trips go to the outer bay" },
+          { icon: "sun", label: "Sunset", value: "West-facing; the best on the island" },
+          { icon: "calendar", label: "Mola mola", value: "July to October, at depth, for divers" },
+          { icon: "shield", label: "Current", value: "Strong outside the bay; stay inside the headlands" },
+          { icon: "map", label: "From the harbour", value: "About 30 minutes" },
+        ],
+        sections: [
+          {
+            title: "The beach",
+            icon: "sun",
+            content: "Crystal Bay is a horseshoe of white sand on Nusa Penida's west coast, framed by two headlands with a small rock island in the mouth, and it is the one beach on the island where you can simply walk in and swim. Coconut palms, a few warungs with loungers, and the sun setting straight out of the bay make it the natural end to a west-side day. It is the busiest beach on Penida by mid-afternoon, which on Penida still means a few hundred people.",
+            tourCard: {
+              slug: "kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida",
+              title: "Kelingking Beach, Broken Beach and Sunset Dinner in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 43.64",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Snorkelling",
+            icon: "fish",
+            content: "Off the beach to the sides of the bay there is coral in two to six metres with the usual reef fish, and it is worth a mask for an hour at mid to high tide. The snorkelling boats that run the west coast use the outer bay as one of their three stops with Manta Point and Gamat Bay, where the coral is better and the water clearer. The current outside the headlands is strong and runs along the coast; snorkellers who drift out of the bay get into trouble, so stay inside the line of the headlands unless you are with a boat.",
+            tourCard: {
+              slug: "manta-point-and-gamat-bay-snorkeling-tour-in-nusa-penida",
+              title: "Manta Point and Gamat Bay Snorkeling Tour in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 15.26",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-and-gamat-bay-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "The sunfish",
+            icon: "calendar",
+            content: "Crystal Bay is one of the few places in the world where the oceanic sunfish, mola mola, can be seen with some reliability. Between July and October, cold water wells up from the deep channel and the fish, which can be two metres across, rise to cleaning stations on the reef wall at 20 to 40 metres. It is a dive, not a snorkel, the water at depth can be 18 to 20°C, and the current on the wall is serious; it is for certified divers with an operator who knows the site. Dive days from Bali and Penida run to it through the season; see the [manta and snorkelling guide](/indonesia/nusa-penida/nusa-penida-manta-snorkelling-guide) for the boats.",
+            tourCard: {
+              slug: "manta-point-snorkel-boat-and-west-coast-tour-in-nusa-penida",
+              title: "Manta Point Snorkel Boat and West Coast Tour in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 37.38",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-snorkel-boat-and-west-coast-tour-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "map",
+            content: "Thirty minutes from the harbour and twenty from Kelingking, so it closes the west-side loop; the standard day arrives here at about 2:00 for a swim and lunch. There is a small parking fee and the warungs rent loungers. Sunset is at about 6:15 and the last boats from the harbour leave earlier, so day-trippers see the afternoon, not the sunset; that is one of the arguments in the [day trip or overnight guide](/indonesia/nusa-penida/nusa-penida-day-trip-or-overnight).",
+            tourCard: {
+              slug: "nusa-penida-3-spot-manta-bay-snorkel-with-gopro",
+              title: "Nusa Penida 3-Spot Manta Bay Snorkel with GoPro",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 38.14",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-3-spot-manta-bay-snorkel-with-gopro/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Crystal Bay safe for swimming?", a: "Inside the bay, yes; it is the calmest beach on Nusa Penida. The current outside the headlands is strong, so do not swim or snorkel beyond them." },
+          { q: "Can you snorkel from the beach at Crystal Bay?", a: "Yes, there is coral off both sides of the bay in shallow water. The boat stops in the outer bay are better." },
+          { q: "When can you see mola mola at Crystal Bay?", a: "July to October, on the reef wall at 20 to 40 metres. It is a dive for certified divers with an experienced operator, not a snorkel." },
+          { q: "How far is Crystal Bay from Kelingking?", a: "About twenty minutes by car. It is usually the last stop of a west-side day, for a swim and lunch." },
+        ],
+      };
+
+    case "nusa-lembongan-vs-nusa-penida":
+      return {
+        title: "Nusa Lembongan or Nusa Penida: Which Island for a Day, and Which for a Stay",
+        seoTitle: "Nusa Lembongan vs Nusa Penida 2026",
+        description: "The two islands off Bali's coast compared honestly: what each has, how they feel, the boats, and who should choose which.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida/img0/1600.webp",
+        fastFacts: [
+          { icon: "ship", label: "Lembongan", value: "30 minutes from Sanur; small, flat, easy" },
+          { icon: "ship", label: "Penida", value: "30 to 45 minutes from Sanur; big, rough, dramatic" },
+          { icon: "map", label: "Between them", value: "A 10-minute boat, or the Yellow Bridge to Ceningan" },
+          { icon: "droplet", label: "Snorkel", value: "Both reach Manta Point; Lembongan has Mangrove Point" },
+          { icon: "bed", label: "Stay", value: "Lembongan for comfort, Penida for the sights" },
+          { icon: "clock", label: "Both", value: "Two nights on Lembongan with a Penida day is the classic" },
+        ],
+        sections: [
+          {
+            title: "Two different islands",
+            icon: "map",
+            content: "Nusa Lembongan is eight square kilometres, flat enough to cycle, with a village, a strip of guesthouses and villas above Jungutbatu beach, mangroves on one side and cliffs on the other, and a bridge to tiny Nusa Ceningan. Nusa Penida is 200 square kilometres of limestone with cliffs on three sides, a handful of villages, roads that are still being built, and the sights that made it famous: Kelingking, Broken Beach, Diamond Beach, Manta Point. Lembongan is a place to stay; Penida is a place to see. They are twenty minutes apart by boat and most people, given the time, do both.",
+            tourCard: {
+              slug: "nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida",
+              title: "Nusa Penida Journey to Atuh Diamond Beach and Tree House Tour (Nusa Penida)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 117.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "What each has",
+            icon: "droplet",
+            content: "Lembongan: Devil's Tear, where the swell explodes through a rock shelf; Dream Beach and Sandy Bay; the mangrove channels by small boat; Mangrove Point drift snorkelling; the Yellow Bridge and Ceningan's Blue Lagoon; a surf break off Jungutbatu; and enough restaurants and bars for an evening. Penida: the cliffs and beaches of the [west](/indonesia/nusa-penida/kelingking-beach-guide) and [east](/indonesia/nusa-penida/diamond-beach-and-atuh-guide), Crystal Bay, the mantas, and quiet. Both islands' snorkelling boats go to Manta Point, and a Lembongan boat reaches it in twenty minutes.",
+            tourCard: {
+              slug: "nusa-lembongan-and-ceningan-ultimate-scooter-island-adventure-nusa-penida",
+              title: "Nusa Lembongan and Ceningan: Ultimate Scooter Island Adventure (Nusa Penida)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 76.28",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-lembongan-and-ceningan-ultimate-scooter-island-adventure-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Who should choose which",
+            icon: "users",
+            content: "A day trip from Bali: Penida, for Kelingking; nothing on Lembongan is a reason for a thirteen-hour day. One night: Penida, to do both sides. Two or three nights, with children, or wanting a pool and a good dinner at the end of the day: Lembongan, with a day trip across to Penida's west side by boat and car, which every Lembongan hotel arranges. Divers: either; the sites are shared. People who want the wild, empty coast: Penida, and go east.",
+            tourCard: {
+              slug: "nusa-lembongan-and-ceningan-island-day-tour",
+              title: "Nusa Lembongan and Ceningan Island Day Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 135.80",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-lembongan-and-ceningan-island-day-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Boats",
+            icon: "ship",
+            content: "Fast boats from Sanur serve both, 30 minutes to Lembongan and 30 to 45 to Penida, with the first departures around 7:00; Padang Bai also serves Penida. Between the islands, public boats cross in ten minutes from Lembongan's Jungutbatu to Penida's Toyapakeh several times a day, and hotels charter them. In a big swell both crossings are cancelled, more often in the wet season. Details on harbours and check-in are in [getting to Nusa Penida](/indonesia/nusa-penida/getting-to-nusa-penida).",
+            tourCard: {
+              slug: "nusa-lembongan-island-tour-with-lunch-and-transfers",
+              title: "Nusa Lembongan Island Tour with Lunch and Transfers",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 87.74",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-lembongan-island-tour-with-lunch-and-transfers/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Nusa Lembongan or Nusa Penida better?", a: "Penida for the sights, Lembongan for the stay. A day trip should be Penida; two or three nights are better spent on Lembongan with a day across to Penida." },
+          { q: "How far apart are Nusa Lembongan and Nusa Penida?", a: "A ten-minute public boat between Jungutbatu on Lembongan and Toyapakeh on Penida, several times a day." },
+          { q: "Can you see manta rays from Nusa Lembongan?", a: "Yes. Snorkelling boats from Lembongan reach Manta Point on Penida's south coast in about twenty minutes." },
+          { q: "Which island is better for families?", a: "Lembongan: flat, small, with pools, calm beaches and restaurants. Penida's sights involve cliffs, steps and long drives." },
+        ],
+      };
+
+    case "nusa-penida-2-day-itinerary":
+      return {
+        title: "Nusa Penida in Two Days: West Side, East Side, Mantas, and Where to Sleep",
+        seoTitle: "Nusa Penida 2 Day Itinerary 2026",
+        description: "A realistic two-day plan for Nusa Penida with one night on the island: the west side on arrival, the mantas and the east on day two, and the boat home.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+        fastFacts: [
+          { icon: "ship", label: "Day 1", value: "7:00 boat from Sanur; west side by car" },
+          { icon: "sun", label: "Night", value: "Crystal Bay sunset; sleep near the harbour or the west" },
+          { icon: "droplet", label: "Day 2", value: "Manta boat at 8:00, then the east side" },
+          { icon: "ship", label: "Home", value: "Boat back at about 3:30 to 4:00" },
+          { icon: "car", label: "Transport", value: "Car and driver both days; scooters only for the confident" },
+          { icon: "ticket", label: "Budget", value: "Simple guesthouses; cash for everything" },
+        ],
+        sections: [
+          {
+            title: "Day one: the west",
+            icon: "car",
+            content: "Take the first boat from Sanur at about 7:00 and have a car and driver waiting at the harbour; every guesthouse arranges one. Kelingking first, by 9:00, for the light on the cliff and before the queue at the viewpoint; go down to the beach only if you have the legs and the time, and count on two hours if you do. Broken Beach and Angel's Billabong next, with the tide deciding the swim. Crystal Bay for lunch, an hour in the water, and the sunset, which day-trippers never see. Sleep in a guesthouse near Crystal Bay or the harbour villages; the island's accommodation is simple and the good places book out in high season.",
+            tourCard: {
+              slug: "kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida",
+              title: "Kelingking Beach, Broken Beach and Sunset Dinner in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 43.64",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Day two: mantas and the east",
+            icon: "droplet",
+            content: "A snorkelling boat from the harbour at about 8:00 runs Manta Point, Gamat Bay and Crystal Bay's outer reef in three hours; the mantas are there year-round and the boat skips the point only if the swell is up. Back on land by 11:30, the car heads east: an hour and a half to Diamond Beach and Atuh, the steps down and up, the Thousand Islands viewpoint and the tree house, and back to the harbour for a boat at 3:30 or 4:00. It is a long second day and it is the one that shows you the island the day trips miss.",
+            tourCard: {
+              slug: "nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida",
+              title: "Nusa Penida Journey to Atuh Diamond Beach and Tree House Tour (Nusa Penida)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 117.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-journey-to-atuh-diamond-beach-and-tree-house-tour-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Alternatives",
+            icon: "map",
+            content: "If the sea is rough and the manta boat is cancelled, do the east in the morning instead and take a later boat. If two days feel like too much driving, drop the east side, snorkel on day two and spend the afternoon at Crystal Bay again; nobody regrets that. With a third day, cross to Nusa Lembongan for the mangroves and Devil's Tear and take the boat to Sanur from there; see [Lembongan vs Penida](/indonesia/nusa-penida/nusa-lembongan-vs-nusa-penida).",
+            tourCard: {
+              slug: "tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida",
+              title: "Tembeling beach and forest, kelingking beach broken in Nusa Penida",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 74.52",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tembeling-beach-and-forest-kelingking-beach-broken-in-nusa-penida/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "shield",
+            content: "Bring cash; ATMs on Penida fail often and most warungs and drivers do not take cards. Book the car and driver through your guesthouse for both days, fix the price in advance, and give them the plan. The roads are narrow and the driving is slow, so a scooter is only for people who ride daily at home. Sun cover, reef-safe sunscreen and shoes with grip for the steps. For the individual sites, see the [Kelingking](/indonesia/nusa-penida/kelingking-beach-guide), [Broken Beach](/indonesia/nusa-penida/broken-beach-angels-billabong-guide), [Crystal Bay](/indonesia/nusa-penida/crystal-bay-guide) and [Diamond Beach](/indonesia/nusa-penida/diamond-beach-and-atuh-guide) guides, and [getting to Nusa Penida](/indonesia/nusa-penida/getting-to-nusa-penida) for the boats.",
+            tourCard: {
+              slug: "3-days-nusa-penida-tour-west-east-and-nusa-lembongan-nusa-penida",
+              title: "3 Days Nusa Penida Tour: West, East and Nusa Lembongan (Nusa Penida)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 226.95",
+              duration: "3 days",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/3-days-nusa-penida-tour-west-east-and-nusa-lembongan-nusa-penida/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is two days enough for Nusa Penida?", a: "Yes: the west side on day one with a Crystal Bay sunset, the manta snorkel and the east side on day two, and the afternoon boat home. It covers everything the island is known for." },
+          { q: "Where should I stay on Nusa Penida?", a: "Near Crystal Bay or the harbour villages on the north-west coast, which keeps both days' driving shortest. Accommodation is simple; book ahead in high season." },
+          { q: "Can you do mantas and the east side in one day?", a: "Yes: a three-hour snorkelling boat from 8:00, then the drive east from about 11:30, and the boat home at 3:30 to 4:00. It is a long day." },
+          { q: "Do I need a driver on Nusa Penida?", a: "Yes unless you ride a scooter daily at home. The roads are narrow and poor. Guesthouses arrange a car and driver for a fixed daily price." },
+        ],
+      };
+
     default:
       return null;
   }

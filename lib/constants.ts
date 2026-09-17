@@ -793,6 +793,17 @@ export const UBUD_INFO_SLUGS = [
   'ubud-temples-guide',
   'day-trips-from-ubud',
   'getting-around-ubud',
+  'lempuyang-gate-of-heaven-guide',
+  'tirta-empul-purification-guide',
+  'tukad-cepung-waterfall-guide',
+  'ubud-atv-and-rafting-guide',
+  'ubud-cooking-class-guide',
+  'ubud-swings-guide',
+  'campuhan-ridge-walk-guide',
+  'kintamani-and-penglipuran-guide',
+  'ubud-art-villages-guide',
+  'how-many-days-in-ubud',
+  'ubud-with-kids',
 ];
 
 export const CANGGU_INFO_SLUGS = [
@@ -803,6 +814,10 @@ export const CANGGU_INFO_SLUGS = [
   'day-trips-from-canggu',
   'getting-around-canggu',
   'canggu-or-seminyak-or-uluwatu',
+  'canggu-to-ubud-day-trip',
+  'canggu-rice-field-walks-guide',
+  'north-bali-day-trip-from-canggu',
+  'canggu-nusa-penida-day-trip',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -812,6 +827,10 @@ export const ULUWATU_INFO_SLUGS = [
   'best-time-to-visit-uluwatu',
   'day-trips-from-uluwatu',
   'getting-around-uluwatu',
+  'gwk-cultural-park-guide',
+  'jimbaran-seafood-dinner-guide',
+  'melasti-beach-guide',
+  'uluwatu-sunset-spots-guide',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [
@@ -821,6 +840,11 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'nusa-penida-manta-snorkelling-guide',
   'best-time-to-visit-nusa-penida',
   'nusa-penida-day-trip-or-overnight',
+  'diamond-beach-and-atuh-guide',
+  'broken-beach-angels-billabong-guide',
+  'crystal-bay-guide',
+  'nusa-lembongan-vs-nusa-penida',
+  'nusa-penida-2-day-itinerary',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

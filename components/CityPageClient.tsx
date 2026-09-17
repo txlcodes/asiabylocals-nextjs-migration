@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { tagsForTitle, tagCounts } from '@/lib/tourTags';
+import { BALI_GUIDES } from '@/lib/baliGuides';
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
@@ -3250,6 +3251,37 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             })}
           </p>
         </section>
+
+        {/* Bali cities: Essential Guides, data-driven from lib/baliGuides.ts */}
+        {BALI_GUIDES[citySlug] && (
+          <section className="mb-16">
+            <h2 className="text-3xl font-black text-[#001A33] mb-3">
+              Everything You Need to Know Before Visiting {city}
+            </h2>
+            <p className="text-gray-600 font-medium mb-8">
+              Researched guides on timing, tides, queues and what each place is really like.
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {BALI_GUIDES[citySlug].map((guide) => (
+                <Link
+                  key={guide.slug}
+                  href={`/${countrySlug}/${citySlug}/${guide.slug}`}
+                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
+                >
+                  <div className="flex items-center gap-4 relative z-10">
+                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 shadow-sm">
+                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.name} className="w-full h-full object-cover" loading="lazy" />
+                    </div>
+                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[16px] tracking-tight">{guide.name}</span>
+                  </div>
+                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
+                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Agra Essential Guides Section */}
         {city.toLowerCase() === 'agra' && (

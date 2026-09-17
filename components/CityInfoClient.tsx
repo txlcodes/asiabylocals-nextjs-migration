@@ -20,6 +20,7 @@ import { fmt } from '@/lib/i18n';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
+import { BALI_GUIDES } from '@/lib/baliGuides';
 
 interface Props {
     country: string;
@@ -575,6 +576,7 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
     }
 
     const SIDEBAR_MAP: Record<string, typeof AGRA_SIDEBAR> = {
+        ...BALI_GUIDES,
         'ha-long': HA_LONG_SIDEBAR,
         'hanoi': HANOI_SIDEBAR,
         'sapa': SAPA_SIDEBAR,

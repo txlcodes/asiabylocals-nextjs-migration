@@ -572,6 +572,297 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "canggu-to-ubud-day-trip":
+      return {
+        title: "Ubud in a Day from Canggu: The Route That Works, the Traffic, and What to Leave Out",
+        seoTitle: "Canggu to Ubud Day Trip Guide 2026",
+        description: "How to see the best of Ubud in one day from Canggu, the order that beats the coaches, the 60 to 90 minute drive, and what a single day cannot fit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-instagram-highlights-tour-in-canggu/img0/1600.webp",
+        fastFacts: [
+          { icon: "car", label: "Drive", value: "60 to 90 minutes each way; longer after 9:00" },
+          { icon: "clock", label: "Leave Canggu", value: "By 7:00 to reach Tegallalang before the crowd" },
+          { icon: "map", label: "Stops", value: "Terraces, a temple, a waterfall, Monkey Forest; pick four" },
+          { icon: "ticket", label: "Entry fees", value: "Small, paid at each site unless all-inclusive" },
+          { icon: "sun", label: "Return", value: "Sunset traffic into Canggu is heavy; aim to be back by 5:30" },
+          { icon: "users", label: "Group or private", value: "Private car is the usual format" },
+        ],
+        sections: [
+          {
+            title: "The drive, and why the order matters",
+            icon: "car",
+            content: "Canggu to Ubud is only about 30 kilometres but the roads through Denpasar's northern edge are slow, and the drive is an hour at 6:30 and closer to ninety minutes at 9:00. That single fact decides the day: leave early, do the furthest and most crowded stop first, and come back through the closer ones. The furthest stop is Tegallalang, twenty minutes beyond Ubud town, and it is also the one that is ruined by ten o'clock, so the day starts there.\n\nA driver for the day is the format, either a private car with an English-speaking driver or a small-group tour with fixed stops. The private car is not much more expensive for two or more and lets you drop a stop when you are tired.",
+            tourCard: {
+              slug: "full-day-instagram-highlights-tour-in-canggu",
+              title: "Full-Day Instagram Highlights Tour in Canggu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 89.64",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-instagram-highlights-tour-in-canggu/img0/1600.webp",
+            },
+          },
+          {
+            title: "The route",
+            icon: "map",
+            content: "Tegallalang at about 8:15, walking down into the terraces rather than looking from the cafes. Tirta Empul by 9:30, before the tour groups, for the water temple and, if you want it, the purification. Then a waterfall: Tegenungan is the closest to the road home, Tibumana the better swim. Lunch in Ubud town, and the Monkey Forest at about two, which is hot but manageable in the shade of the trees, before the drive back.\n\nThat is four stops and a lunch, and it is a full day. Adding a swing, a coffee stop or Gunung Kawi is possible if you drop something else; adding all three is how people arrive back at seven o'clock hating Ubud.",
+            tourCard: {
+              slug: "canggu-silver-brass-and-gold-plating-jewelry-making",
+              title: "Canggu Silver, Brass and Gold Plating Jewelry Making",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 48.44",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/canggu-silver-brass-and-gold-plating-jewelry-making/img0/1600.webp",
+            },
+          },
+          {
+            title: "What a day cannot fit",
+            icon: "clock",
+            content: "The Mount Batur sunrise trek, which needs a 2am departure from Canggu; east Bali and Lempuyang, which are two hours beyond Ubud; Kintamani and Penglipuran, which are a day of their own. The Campuhan ridge walk needs early morning or late afternoon light that a day trip does not have. If any of these is the reason you want Ubud, take two nights there instead; the [how many days in Ubud guide](/indonesia/ubud/how-many-days-in-ubud) sets out what each length gets you.",
+            tourCard: {
+              slug: "tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour",
+              title: "Tanah Lot, Jatiluwih Terrace, and Ulun Danu Beratan Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.14",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "shield",
+            content: "Sarongs are provided at Tirta Empul and are needed for entry. Bring a towel and a change of clothes if you plan to bathe. Entry fees at each site are small and paid in cash unless the tour says all-inclusive; carry rupiah in small notes. The heat in the terraces by mid-morning is real, so water and a hat. For the coast-side days that pair with this, see the [day trips from Canggu guide](/indonesia/canggu/day-trips-from-canggu) and the [Tanah Lot guide](/indonesia/canggu/tanah-lot-guide).",
+            tourCard: {
+              slug: "silver-and-brass-jewelry-class-with-gold-plating-option-in-canggu",
+              title: "Silver and Brass Jewelry Class with Gold Plating Option in Canggu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 48.44",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/silver-and-brass-jewelry-class-with-gold-plating-option-in-canggu/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How far is Ubud from Canggu?", a: "About 30 kilometres, but 60 to 90 minutes by car because of the roads through north Denpasar. Leave by 7:00 to have the first stop before the crowds." },
+          { q: "What can you see in Ubud in one day from Canggu?", a: "Tegallalang terraces, Tirta Empul, one waterfall and the Monkey Forest, with lunch in town. Four stops is a full day; Batur, Lempuyang and Kintamani do not fit." },
+          { q: "Is a private driver or a group tour better for a Canggu to Ubud day?", a: "A private car for two or more people: the price is similar and you can change the order or drop a stop. Group tours have fixed stops and timings." },
+          { q: "What time should I return to Canggu from Ubud?", a: "Aim to leave Ubud by 4:00 and be back by 5:30. Sunset traffic into Canggu is the worst of the day." },
+        ],
+      };
+
+    case "canggu-rice-field-walks-guide":
+      return {
+        title: "Rice Field Walks Around Canggu: Where the Paddies Still Are and When to Walk Them",
+        seoTitle: "Canggu Rice Field Walks Guide 2026",
+        description: "The rice fields left between the villas, the shortcut paths locals use, the early hour that makes them worth it, and the villages where the fields are still whole.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour/img0/1600.webp",
+        fastFacts: [
+          { icon: "footprints", label: "The shortcut", value: "Batu Bolong to Berawa across the paddies, 20 minutes" },
+          { icon: "sun", label: "Best time", value: "6:30 to 8:00, or the hour before sunset" },
+          { icon: "map", label: "Whole fields", value: "Pererenan, Cemagi and Kedungu, north of Canggu" },
+          { icon: "leaf", label: "Rice cycle", value: "Green for months, then cut stubble; ask what stage" },
+          { icon: "shield", label: "Paths", value: "Narrow bunds; give way to farmers and motorbikes" },
+          { icon: "ticket", label: "Cost", value: "Free; donations where a farmer asks" },
+        ],
+        sections: [
+          {
+            title: "What is left",
+            icon: "leaf",
+            content: "Canggu was rice fields until about 2010, and the villas have eaten most of them; the paddies that survive are the gaps between developments, and each year there are fewer. But the gaps are real, they are still farmed, and the network of raised bunds and concrete paths that farmers use to reach them is walkable. The best known is the Canggu shortcut, the narrow path between Batu Bolong and Berawa that motorbikes and walkers share, with fields on both sides for most of its length. It is a twenty-minute walk and a fair picture of what the whole area looked like.",
+            tourCard: {
+              slug: "tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour",
+              title: "Tanah Lot, Jatiluwih Terrace, and Ulun Danu Beratan Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.14",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where the fields are whole",
+            icon: "map",
+            content: "For fields that go to the horizon, go north. Pererenan, the next village up the coast, still has broad paddies behind the beach with the mountains behind them on a clear morning. Cemagi and Kedungu, ten to twenty minutes further, are proper farming villages with the subak channels running between the plots, the shrines at the corners of the fields and almost no visitors. A morning walk through Kedungu's fields to its black-sand beach, or a guided village walk in Cemagi, is the closest to the rural Bali that the postcards mean without driving to Ubud.",
+            tourCard: {
+              slug: "sanur-cycling-tour-with-market-ritual-and-rice-fields",
+              title: "Sanur Cycling Tour with Market, Ritual and Rice Fields",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 71.50",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sanur-cycling-tour-with-market-ritual-and-rice-fields/img0/1600.webp",
+            },
+          },
+          {
+            title: "When, and how to behave",
+            icon: "sun",
+            content: "Early. Between 6:30 and 8:00 the light is low, the farmers are out, ducks are being herded along the channels, and the air is cool; by nine the fields are bright, hot and empty. The hour before sunset is the second window. On the paths, step aside for farmers and for the motorbikes that use the bunds as roads, do not walk on the field edges when the rice is young, and expect a farmer occasionally to ask a few thousand rupiah for crossing their land, which is fair. Ask before photographing people at work; most say yes.\n\nFor the same landscape at scale, Jatiluwih and Tegallalang are covered in the [day trips from Canggu guide](/indonesia/canggu/day-trips-from-canggu) and the [Ubud terraces guide](/indonesia/ubud/tegallalang-rice-terrace-guide).",
+            tourCard: {
+              slug: "full-day-tegallalang-monkey-forest-and-tanah-lot-tour",
+              title: "Full-Day Tegallalang, Monkey Forest and Tanah Lot Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 21.20",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-tegallalang-monkey-forest-and-tanah-lot-tour/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Are there still rice fields in Canggu?", a: "Yes, in the gaps between villas, especially along the Canggu shortcut between Batu Bolong and Berawa, and in whole fields north at Pererenan, Cemagi and Kedungu." },
+          { q: "When is the best time to walk the rice fields in Canggu?", a: "6:30 to 8:00 in the morning, when the light is low and the farmers are working, or the hour before sunset." },
+          { q: "Is the Canggu shortcut walkable?", a: "Yes. It is a narrow path shared with motorbikes, about twenty minutes end to end, with rice fields on both sides for most of it." },
+          { q: "Do I need a guide to walk the rice fields?", a: "Not for the shortcut or Pererenan. For a village walk in Cemagi or Kedungu with the subak system explained, a local guide adds a lot." },
+        ],
+      };
+
+    case "north-bali-day-trip-from-canggu":
+      return {
+        title: "North Bali from Canggu: Jatiluwih, Ulun Danu Beratan, Handara Gate and a Waterfall in One Day",
+        seoTitle: "North Bali Day Trip from Canggu 2026",
+        description: "The highlands loop north of Canggu: the UNESCO terraces, the lake temple at Bedugul, the Handara Gate photo stop, Wanagiri's swings and a north Bali waterfall, in the order the weather allows.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour/img0/1600.webp",
+        fastFacts: [
+          { icon: "car", label: "Drive", value: "Canggu to Jatiluwih about 1.5 hours; whole loop 9 to 10 hours" },
+          { icon: "thermometer", label: "Bedugul", value: "1,200 m; 8 to 10 degrees cooler, often misty by 1:00" },
+          { icon: "landmark", label: "Ulun Danu Beratan", value: "Lake temple of 1633; small entry fee" },
+          { icon: "camera", label: "Handara Gate", value: "A gate on a golf course road; fee for the photo" },
+          { icon: "droplet", label: "Waterfalls", value: "Banyumala or Leke Leke; Sekumpul is too far for one day" },
+          { icon: "sun", label: "Order", value: "Terraces first, temple by 11:00, waterfall after lunch" },
+        ],
+        sections: [
+          {
+            title: "The loop",
+            icon: "map",
+            content: "North of Canggu the road climbs through Tabanan to the central highlands, and a day up there strings together four or five stops that sit within an hour of each other. Jatiluwih, the largest rice terrace on Bali and the centrepiece of the UNESCO subak listing, comes first because it is lowest and clearest in the morning. Then the road climbs to Bedugul, 1,200 metres up, where Ulun Danu Beratan temple stands on the shore of Lake Bratan. The Handara Gate is a few minutes on, the Wanagiri viewpoints and swings above the twin lakes a few minutes beyond, and a waterfall, Banyumala or Leke Leke, is the afternoon.\n\nThe drive back down to Canggu is about two hours, so it is a nine to ten hour day, and it is the best-value single day out of the south.",
+            tourCard: {
+              slug: "tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour",
+              title: "Tanah Lot, Jatiluwih Terrace, and Ulun Danu Beratan Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.14",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tanah-lot-jatiluwih-terrace-and-ulun-danu-beratan-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Why the order is fixed",
+            icon: "sun",
+            content: "Cloud. The highlands are clear in the morning and misty by early afternoon most days of the year, and Ulun Danu Beratan on a misty day is a temple you cannot see across the lake. Jatiluwih at 8:30 has the light across the terraces and the walking paths to yourself; the temple by 11:00 gets the shrines against the water before the cloud; and the waterfall after lunch does not care about cloud. Tours that run the loop the other way, because the waterfall is closer to the coast, deliver a temple in fog.",
+            tourCard: {
+              slug: "ulun-danu-beratan-jatiluwih-and-tanah-lot-private-tour-canggu",
+              title: "Ulun Danu Beratan, Jatiluwih, and Tanah Lot Private Tour (Canggu)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 114.43",
+              duration: "Flexible",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ulun-danu-beratan-jatiluwih-and-tanah-lot-private-tour-canggu/img0/1600.webp",
+            },
+          },
+          {
+            title: "The stops, honestly",
+            icon: "landmark",
+            content: "Jatiluwih is worth an hour on the paths; the entry fee is modest and there is no queue. Ulun Danu Beratan is a working temple in landscaped gardens, busy but not crowded, and takes forty minutes. The Handara Gate is a split gate at the entrance road of a golf resort; it photographs beautifully with the hills behind and there is a fee and a short queue for the picture, and that is all it is. The Wanagiri swings are the same idea as the Ubud ones with a lake view. Banyumala is a wide twin fall with a swimmable pool at the end of a steep twenty-minute path; Leke Leke is a single tall fall reached by a flatter walk. Sekumpul, the biggest, is another hour north and does not fit.",
+            tourCard: {
+              slug: "kanto-lampo-waterfall-art-market-cretya-and-tanah-lot",
+              title: "Kanto Lampo Waterfall, Art Market, Cretya and Tanah Lot",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 71.02",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kanto-lampo-waterfall-art-market-cretya-and-tanah-lot/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "shield",
+            content: "Bring a layer: Bedugul is cold by Bali standards and it rains up there more than on the coast. Sarongs for the temple are provided. Lunch is usually at a restaurant near the lake or at a strawberry farm on the road. A private driver is the right format for the loop because the order and the pace matter; group tours run it too but cannot skip the fog. For the other big days out, see the [day trips from Canggu guide](/indonesia/canggu/day-trips-from-canggu) and the [Tanah Lot guide](/indonesia/canggu/tanah-lot-guide), which can be added on the way home if the tide is right.",
+            tourCard: {
+              slug: "north-bali-ulundanu-waterfall-and-sunset-tanah-lot-temple-canggu",
+              title: "North Bali: Ulundanu, Waterfall and Sunset tanah lot Temple (Canggu)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 114.43",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/north-bali-ulundanu-waterfall-and-sunset-tanah-lot-temple-canggu/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How long is the north Bali day trip from Canggu?", a: "Nine to ten hours: about 1.5 hours to Jatiluwih, an hour between each of the stops, and two hours back down to Canggu." },
+          { q: "Is the Handara Gate worth visiting?", a: "As a five-minute photo stop on the way past, yes. It is the entrance gate of a golf resort with a fee and a queue for the picture; it is not a temple." },
+          { q: "When is Ulun Danu Beratan clear?", a: "Mornings, usually until about 11:00 or noon. The highlands cloud over by early afternoon most days, so the temple is the mid-morning stop." },
+          { q: "Which waterfall fits in a north Bali day from Canggu?", a: "Banyumala or Leke Leke after lunch. Sekumpul is another hour north and needs its own day." },
+        ],
+      };
+
+    case "canggu-nusa-penida-day-trip":
+      return {
+        title: "Nusa Penida in a Day from Canggu: The Early Boat, the West Side, and Whether the Day Is Too Long",
+        seoTitle: "Nusa Penida Day Trip from Canggu 2026",
+        description: "How the Canggu to Sanur to Penida day runs hour by hour, why you see one side of the island, the snorkelling add-on, and the case for staying a night instead.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kuta-beach-surfing-lesson-1-hour-local-instructor/img0/1600.webp",
+        fastFacts: [
+          { icon: "car", label: "Canggu to Sanur", value: "45 to 60 minutes; pickups from 5:30" },
+          { icon: "ship", label: "Boat", value: "Sanur to Penida 30 to 45 minutes, first boats around 7:00" },
+          { icon: "map", label: "One side", value: "West side: Kelingking, Broken Beach, Angel's Billabong" },
+          { icon: "droplet", label: "Snorkel", value: "Manta Point add-on when the swell allows" },
+          { icon: "clock", label: "Back in Canggu", value: "Around 7:00pm; a 13-hour day" },
+          { icon: "moon", label: "Better", value: "One night on Penida, back the next afternoon" },
+        ],
+        sections: [
+          {
+            title: "The day, hour by hour",
+            icon: "clock",
+            content: "Pickup in Canggu between 5:30 and 6:00, Sanur harbour by 7:00 for a fast boat that crosses in 30 to 45 minutes. On Penida a car and driver meet the boat and run the west side: Kelingking viewpoint by about 9:30, Broken Beach and Angel's Billabong, a beach stop at Crystal Bay or a lunch warung, then back to the harbour for a boat around 3:30 or 4:00, Sanur by 4:45 and Canggu in the evening traffic by about 7:00. It is a thirteen-hour day of which around five are spent in cars and boats, and it is still the most-booked day trip from the south coast, because Kelingking is Kelingking.",
+            tourCard: {
+              slug: "kuta-beach-surfing-lesson-1-hour-local-instructor",
+              title: "Kuta Beach Surfing Lesson (1 Hour, Local Instructor)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 14.50",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kuta-beach-surfing-lesson-1-hour-local-instructor/img0/1600.webp",
+            },
+          },
+          {
+            title: "One side, not both",
+            icon: "map",
+            content: "Penida's roads are narrow, and the east side, Diamond Beach, Atuh and the tree house, is an hour and a half from the west side on them. Day trips from Bali do the west; anyone selling both sides in one day from Canggu is selling four hours in a car and ten minutes at each stop. The [west vs east guide](/indonesia/nusa-penida/nusa-penida-west-vs-east) explains what each side is, and the honest advice is that the east needs a night on the island.",
+            tourCard: {
+              slug: "hill-side-lemukih-treeking-with-amazing-view-in-canggu",
+              title: "Hill Side Lemukih Treeking with Amazing view in Canggu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 72.66",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hill-side-lemukih-treeking-with-amazing-view-in-canggu/img0/1600.webp",
+            },
+          },
+          {
+            title: "The snorkelling add-on",
+            icon: "droplet",
+            content: "Many day trips combine the land tour with a snorkelling boat to Manta Point, Gamat Bay and Crystal Bay, either before the land tour from the harbour or in place of one land stop. The mantas at Manta Point are there year-round but the site is on the exposed south coast and boats skip it when the swell is up, so it is never guaranteed. With snorkelling the day is longer still, and the land stops shrink to viewpoints. If the mantas are the reason you are going, book a snorkelling-only day or stay over; see the [manta snorkelling guide](/indonesia/nusa-penida/nusa-penida-manta-snorkelling-guide).",
+            tourCard: {
+              slug: "bali-surfing-lessons-at-kedungu-beach-with-private-transfer-canggu",
+              title: "Bali Surfing Lessons at Kedungu Beach with Private Transfer (Canggu)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 99.18",
+              duration: "6 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/bali-surfing-lessons-at-kedungu-beach-with-private-transfer-canggu/img0/1600.webp",
+            },
+          },
+          {
+            title: "The case for a night",
+            icon: "moon",
+            content: "From Canggu specifically, a night on Penida removes three hours of driving and lets you do the west side in the afternoon light and the east side the next morning before the boat back. Accommodation on the island is simple and cheap, and the difference in the day is large. If you have only the one day, take it, leave on the first boat, and accept that it is long; the [day trip or overnight guide](/indonesia/nusa-penida/nusa-penida-day-trip-or-overnight) sets the two against each other in detail, and [getting to Nusa Penida](/indonesia/nusa-penida/getting-to-nusa-penida) covers the harbours and boats.",
+            tourCard: {
+              slug: "night-street-food-walking-tour-in-canggu",
+              title: "Night Street Food Walking Tour in Canggu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 83.92",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/night-street-food-walking-tour-in-canggu/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How long is a Nusa Penida day trip from Canggu?", a: "About thirteen hours door to door: pickup around 5:30, the 7:00 boat from Sanur, the west side of the island, a boat back at 3:30 to 4:00 and Canggu by about 7:00pm." },
+          { q: "Can you see both sides of Nusa Penida in one day from Canggu?", a: "Not sensibly. The east side is an hour and a half from the west on narrow roads. Day trips do the west; the east needs a night on the island." },
+          { q: "Which harbour do Penida boats leave from for Canggu?", a: "Sanur, 45 to 60 minutes from Canggu. Boats take 30 to 45 minutes and the first departures are around 7:00." },
+          { q: "Is it better to stay a night on Nusa Penida?", a: "From Canggu, yes if you can: it removes three hours of driving and lets you see both sides. A day trip works if you leave on the first boat." },
+        ],
+      };
+
     default:
       return null;
   }

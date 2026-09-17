@@ -691,6 +691,855 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "lempuyang-gate-of-heaven-guide":
+      return {
+        title: "Lempuyang Temple and the Gate of Heaven from Ubud: The Queue, the Mirror Trick, and How to Beat Both",
+        seoTitle: "Lempuyang Gate of Heaven Guide 2026",
+        description: "What the famous reflection photo really is, how long the queue runs, when Agung is clear, and what else to do in east Bali once you have your picture.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lempuyang-temple-gate-of-heaven-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "From Ubud", value: "About 2 hours each way, Karangasem" },
+          { icon: "clock", label: "Leave Ubud", value: "5:00am to be near the front of the queue" },
+          { icon: "users", label: "Queue", value: "1 to 3 hours from mid-morning" },
+          { icon: "ticket", label: "Entry", value: "Donation plus shuttle, tens of thousands of rupiah" },
+          { icon: "mountain", label: "The view", value: "Mount Agung, 3,031 m, framed in the split gate" },
+          { icon: "shield", label: "Dress", value: "Sarong and sash, provided at the entrance" },
+        ],
+        sections: [
+          {
+            title: "The Gate of Heaven: what you are looking at",
+            icon: "landmark",
+            content: "Pura Penataran Agung Lempuyang is the lowest of seven temples that climb Mount Lempuyang in Karangasem, east Bali. Its candi bentar, the split gate, faces west towards Mount Agung, and on a clear morning the volcano sits exactly between the two halves. That framing is the photograph, and the photograph is the reason a temple that was quiet ten years ago now has a queue.\n\nThe temple itself is a working one, and the higher six take a few hours of stairs through forest to reach; almost nobody who comes for the gate goes further, and the priests are used to that. Treat the courtyard as a temple, not a set: sarong on, quiet, no climbing on the walls, and no entry for anyone menstruating or in mourning, which is the rule at every temple on Bali.",
+            tourCard: {
+              slug: "lempuyang-temple-gate-of-heaven-ubud",
+              title: "Lempuyang Temple: Gate of Heaven (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 104.90",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/lempuyang-temple-gate-of-heaven-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The reflection is a piece of glass",
+            icon: "camera",
+            content: "The mirror-still lake under the gate does not exist. A photographer at the front of the queue holds a small sheet of glass under the lens of your phone, tilts it, and the gate reflects in it. It is a neat trick, it takes ten seconds, and the tip is voluntary. Knowing this in advance saves the disappointment that a surprising number of people feel on arrival, and it also means you can decide whether the queue is worth it for a photo that is, in the end, a mirror trick with a real volcano behind it.\n\nIf you want a photograph of the gate with the mountain and nobody in it, the first fifteen minutes after opening, around 7:00, are the only window.",
+            tourCard: {
+              slug: "half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud",
+              title: "Half-Day Tirta Empul Purification and Gunung Kawi Temple in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 69.42",
+              duration: "6.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The queue, honestly",
+            icon: "clock",
+            content: "You take a number at the desk in the lower car park, ride the shuttle up, and wait your turn at the gate; each group gets about a minute with the photographer. By 9:00 on a dry-season morning the wait is an hour, by eleven it can be three, and there is little shade. Tours from Ubud leave at 5:00 for a reason.\n\nThe alternative is not to fight it: go for the temple and the walk, or go late afternoon in the wet season when the queue thins and the light is soft, accepting that Agung may be in cloud.",
+            tourCard: {
+              slug: "east-bali-lempuyang-temple-tirta-gangga-and-taman-ujung-ubud",
+              title: "East Bali: Lempuyang Temple, Tirta Gangga, and Taman Ujung (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 80.11",
+              duration: "Flexible",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/east-bali-lempuyang-temple-tirta-gangga-and-taman-ujung-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "When Agung is actually clear",
+            icon: "sun",
+            content: "Agung is most often visible from about 6:30 to 9:00 in the dry season, April to October. Cloud builds around the summit from late morning almost every day, and in the wet season it can be hidden for days at a time. Nobody can promise the view, and an operator who does is guessing. If the mountain matters more than the gate, ask your driver on the morning; from the coast road near Amlapura you can see whether the top is out before you commit to the queue.",
+            tourCard: {
+              slug: "mount-agung-sunrise-trekking-tour-via-besakih-temple-in-ubud",
+              title: "Mount Agung Sunrise Trekking Tour via Besakih Temple in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 74.39",
+              duration: "12 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mount-agung-sunrise-trekking-tour-via-besakih-temple-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The rest of an east Bali day",
+            icon: "map",
+            content: "Lempuyang is two hours from Ubud, so it anchors a full day rather than a stop. The standard loop continues to Tirta Gangga, the water palace built by the last raja of Karangasem in 1946, with its stepping stones across a carp pond, then to Taman Ujung, the same family's earlier palace on the coast, and back by the Sidemen valley, where the terraces are as good as Tegallalang without the swings. Some tours add a lunch stop at a rice-field warung near Sidemen, which is the better of the options.\n\nFor the other side of Ubud's day trips, see the [day trips from Ubud guide](/indonesia/ubud/day-trips-from-ubud) and the [temples guide](/indonesia/ubud/ubud-temples-guide), which covers Tirta Empul and the closer sites.",
+            tourCard: {
+              slug: "sidemen-trekking-a-walk-from-a-different-perspective-ubud",
+              title: "Sidemen Trekking: A Walk from a Different Perspective (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 27.47",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sidemen-trekking-a-walk-from-a-different-perspective-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is the Gate of Heaven reflection real?", a: "No. A photographer holds a piece of glass under your phone to create the mirror effect. There is no water at the gate. The volcano behind it is real." },
+          { q: "How long is the queue at Lempuyang?", a: "Fifteen minutes at opening around 7:00, an hour by 9:00, and two to three hours by late morning in the dry season. Leave Ubud at 5:00 to be near the front." },
+          { q: "How far is Lempuyang from Ubud?", a: "Roughly two hours each way by car, so it is a full-day trip usually combined with Tirta Gangga, Taman Ujung and the Sidemen valley." },
+          { q: "What should I wear to Lempuyang?", a: "A sarong and sash, which are provided at the entrance, over clothes that cover the knees and shoulders. It is a working temple and the dress rule is applied." },
+        ],
+      };
+
+    case "tirta-empul-purification-guide":
+      return {
+        title: "Tirta Empul from Ubud: The Purification Ritual, What to Wear, and When It Is Quiet",
+        seoTitle: "Tirta Empul Purification Guide 2026",
+        description: "How the melukat ritual works spout by spout, what you need to bring, the days when the pools are full of worshippers, and what to combine it with nearby.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "From Ubud", value: "About 30 minutes north-east, Tampaksiring" },
+          { icon: "landmark", label: "Founded", value: "962 AD, around a sacred spring" },
+          { icon: "droplet", label: "The pools", value: "Two, fed by around 30 spouts; two spouts are not used" },
+          { icon: "ticket", label: "Entry", value: "Tens of thousands of rupiah, sarong included" },
+          { icon: "clock", label: "Quiet", value: "Before 9:00, or late afternoon" },
+          { icon: "shield", label: "Bring", value: "A change of clothes and a towel" },
+        ],
+        sections: [
+          {
+            title: "What Tirta Empul is",
+            icon: "landmark",
+            content: "Tirta Empul is a water temple on the Pakerisan river at Tampaksiring, founded in 962 AD during the Warmadewa dynasty around a spring the Balinese believe was created by the god Indra. The spring feeds a bathing pool with a row of carved spouts, and for a thousand years people have come to wash under them for melukat, a purification. It is one of the six most important temples on Bali and it is busy with worshippers every day, which is part of the experience rather than a problem.\n\nThe complex has three courtyards: the outer one with the market and changing rooms, the middle one with the pools, and the inner one with the shrines, which is for prayer only.",
+            tourCard: {
+              slug: "half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud",
+              title: "Half-Day Tirta Empul Purification and Gunung Kawi Temple in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 69.42",
+              duration: "6.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "How the ritual works",
+            icon: "droplet",
+            content: "You change into a sarong and a separate bathing sarong, make an offering at the small shrine by the pool, then enter the water at the left and move along the spouts in order, bowing under each, letting the water run over your head three times. Two spouts near the right-hand end are reserved for the rites of the dead and are not used; guides point them out and there is usually a sign. Then the second pool, then you change and, if you wish, go into the inner courtyard to pray.\n\nGo with a guide the first time. The order matters to the people around you, and a guide who explains why the offering goes where it does makes the difference between a ritual and a queue for a shower.",
+            tourCard: {
+              slug: "tirta-empul-temple-tour-and-sacred-purification-ritual-in-ubud",
+              title: "Tirta Empul Temple Tour and Sacred Purification Ritual in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 26.32",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tirta-empul-temple-tour-and-sacred-purification-ritual-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Dress, and what to bring",
+            icon: "shield",
+            content: "A sarong is included in the entry price and a bathing sarong is rented at the pool, but bring your own towel and a full change of clothes; the water is spring-cold and you will be wet through. Swimwear is worn under the sarong, not on its own. Lockers exist and are cheap. Phones are allowed at the pool, and it is fine to photograph the temple, but not to photograph people mid-prayer at close range.\n\nWomen who are menstruating are asked not to enter the pools, which is the rule at every Balinese temple and is not negotiable here.",
+            tourCard: {
+              slug: "tirta-empul-purification-ritual-and-temple-tour-in-ubud",
+              title: "Tirta Empul: Purification Ritual and Temple Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 19.07",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tirta-empul-purification-ritual-and-temple-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "When it is quiet, and when it is full",
+            icon: "clock",
+            content: "Before 9:00 on an ordinary weekday the pools have a few dozen people. Late morning brings the tour groups. On the full moon, the new moon, Galungan and Kuningan, and the days before Nyepi, the temple fills with Balinese families in white, and the pools become a slow procession; it is the most moving time to see it and the worst time to bathe quickly. If you want the ritual without the crowd, 7:30 on a weekday. If you want to see it as the Balinese use it, come on a holy day and wait.\n\nOur [best time to visit Ubud guide](/indonesia/ubud/best-time-to-visit-ubud) lists the ceremony calendar for the year.",
+            tourCard: {
+              slug: "full-day-ulun-danu-beratan-temple-and-gitgit-waterfall-in-ubud",
+              title: "Full Day Ulun Danu Beratan Temple and Gitgit Waterfall in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 78.57",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-ulun-danu-beratan-temple-and-gitgit-waterfall-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Nearby",
+            icon: "map",
+            content: "Gunung Kawi, ten minutes south, is a row of 11th-century shrines cut into the rock face of the Pakerisan gorge, reached down about 300 steps through rice terraces, and it is the quieter, older neighbour that most Tirta Empul visitors skip. The Tegallalang terraces are fifteen minutes west. The presidential palace built by Sukarno stands on the hill above the springs; it is not open, but the view of it from the temple explains why the site was chosen. A morning that does Tirta Empul early, Gunung Kawi second and Tegallalang before eleven is one of the best half-days out of Ubud; see the [temples guide](/indonesia/ubud/ubud-temples-guide) and the [Tegallalang guide](/indonesia/ubud/tegallalang-rice-terrace-guide).",
+            tourCard: {
+              slug: "tirta-empul-temple-purification-ritual-with-guide-in-ubud",
+              title: "Tirta Empul Temple Purification Ritual with Guide in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 41.96",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tirta-empul-temple-purification-ritual-with-guide-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can tourists do the purification ritual at Tirta Empul?", a: "Yes. Visitors are welcome in the pools if they follow the order, wear a sarong, make the small offering first and skip the two spouts reserved for funeral rites. A guide makes the first time straightforward." },
+          { q: "What should I bring to Tirta Empul?", a: "A towel and a full change of clothes. Sarongs are provided, a bathing sarong is rented at the pool, and lockers are available." },
+          { q: "What time should I go to Tirta Empul?", a: "Before 9:00 for a quiet pool. From late morning the tour groups arrive, and on full-moon and holy days the pools are full of local worshippers all day." },
+          { q: "Is Tirta Empul near Tegallalang?", a: "Yes, about fifteen minutes apart. Gunung Kawi is ten minutes from Tirta Empul. The three make a natural half-day from Ubud." },
+        ],
+      };
+
+    case "tukad-cepung-waterfall-guide":
+      return {
+        title: "Tukad Cepung Waterfall: The Light Beams, the Timing, and the Walk Through the Canyon",
+        seoTitle: "Tukad Cepung Waterfall Guide 2026",
+        description: "Why the photographs show beams of light, the two-hour window when they happen, the walk in, and what to pair it with in Bangli.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tibumana-tukad-cepung-kanto-lampo-and-tegenungan-tour-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "From Ubud", value: "45 minutes east, Tembuku, Bangli" },
+          { icon: "sun", label: "Light beams", value: "Roughly 10:00 to noon on a clear day" },
+          { icon: "footprints", label: "Walk in", value: "10 minutes down steps, then along the stream" },
+          { icon: "ticket", label: "Entry", value: "Tens of thousands of rupiah, plus parking" },
+          { icon: "umbrella", label: "Wet season", value: "Higher flow, brown water after rain" },
+          { icon: "shield", label: "Footwear", value: "Sandals that can get wet" },
+        ],
+        sections: [
+          {
+            title: "What makes Tukad Cepung different",
+            icon: "sun",
+            content: "Most waterfalls are seen from the front. Tukad Cepung falls inside a cleft in the rock, and you stand at the bottom of a narrow canyon looking up at water coming over a rim with sky above it. When the sun is high enough to clear the canyon walls, its rays cut through the spray in visible beams, and that is the picture the place is known for.\n\nThe beams are real, but they are a two-hour event. Before ten the canyon is in shade; after noon the sun has moved past the gap. On an overcast day there are no beams at all, only a pretty fall in a green slot, which is still worth the walk but is not the photograph.",
+            tourCard: {
+              slug: "tibumana-tukad-cepung-kanto-lampo-and-tegenungan-tour-in-ubud",
+              title: "Tibumana, Tukad Cepung, Kanto Lampo, and Tegenungan Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 67.90",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tibumana-tukad-cepung-kanto-lampo-and-tegenungan-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Timing it",
+            icon: "clock",
+            content: "Aim to be at the fall between 10:00 and 11:30 in the dry season, April to October. Tours from Ubud that put Tukad Cepung first, leaving at 8:30, get it right; tours that put it after Tegallalang and a coffee stop arrive at one and miss the light. Ask the operator what order the day runs in. If you are driving yourself, park at the top, allow ten minutes down and fifteen back up, and add time for the queue at the fall on a weekend, since everyone wants the same spot at the same hour.",
+            tourCard: {
+              slug: "mount-batur-sunrise-hike-and-tibumana-waterfall",
+              title: "Mount Batur Sunrise Hike and Tibumana Waterfall",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 35.24",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-hike-and-tibumana-waterfall/img0/1600.webp",
+            },
+          },
+          {
+            title: "The walk",
+            icon: "footprints",
+            content: "From the car park a path of stone steps drops into the gorge, then the route follows the stream bed upstream for a few minutes, wading through ankle-deep water and ducking under a rock ledge, before the canyon opens at the fall. It is easy for anyone who can manage steps, but it is wet from the knee down, the rocks are slippery, and flip-flops are the wrong shoe; strap sandals or old trainers are right. After heavy rain the stream rises and the walk closes for the day; the operator will swap in another fall.",
+            tourCard: {
+              slug: "campuhan-ridge-walk-temple-and-waterfalls-tour-in-ubud",
+              title: "Campuhan Ridge Walk, Temple, and Waterfalls Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 68.65",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/campuhan-ridge-walk-temple-and-waterfalls-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Pairing it",
+            icon: "map",
+            content: "Tukad Cepung sits in Bangli among a cluster of falls that are usually done as one day: Tibumana, fifteen minutes away, with a single clean curtain into a swimming pool; Kanto Lampo, where the water fans across a stepped rock face; and Goa Rang Reng, a smaller cascade on a rock slab. Penglipuran village, the traditional bamboo-roofed village, is twenty minutes north, and Kintamani's caldera viewpoint is forty minutes beyond that. A day of Tukad Cepung at ten, Tibumana for a swim, lunch in Bangli and Penglipuran in the afternoon is a full one.\n\nThe [Ubud waterfalls guide](/indonesia/ubud/ubud-waterfalls-guide) ranks all of them by what they are good for.",
+            tourCard: {
+              slug: "besakih-temple-tukad-cepung-waterfall-penglipuran-in-ubud",
+              title: "Besakih temple, Tukad Cepung waterfall, Penglipuran in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 45.77",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/besakih-temple-tukad-cepung-waterfall-penglipuran-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What time do the light beams appear at Tukad Cepung?", a: "Roughly 10:00 to noon on a clear day, when the sun is high enough to clear the canyon walls. Outside that window, or under cloud, there are no beams." },
+          { q: "How hard is the walk to Tukad Cepung?", a: "Easy but wet: ten minutes down stone steps, then a few minutes wading upstream through ankle-deep water and under a ledge. Wear sandals that can get wet." },
+          { q: "Can you swim at Tukad Cepung?", a: "You can stand under the fall and paddle, but the pool is shallow and rocky. For swimming, Tibumana fifteen minutes away is the better fall." },
+          { q: "How far is Tukad Cepung from Ubud?", a: "About 45 minutes by car, east into Bangli. It is usually combined with Tibumana and Kanto Lampo, and sometimes Penglipuran village." },
+        ],
+      };
+
+    case "ubud-atv-and-rafting-guide":
+      return {
+        title: "ATV and White-Water Rafting Around Ubud: Which River, How Muddy, and Who Should Not",
+        seoTitle: "Ubud ATV & Rafting Guide 2026",
+        description: "The Ayung against the Telaga Waja, what an ATV track around Payangan is really like, age and health limits, and how the combined days are structured.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-bike-and-white-water-rafting-adventure-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "droplet", label: "Ayung river", value: "Class II-III, about 12 km, 2 hours on the water" },
+          { icon: "droplet", label: "Telaga Waja", value: "Class III-IV, steeper, in the east" },
+          { icon: "car", label: "ATV ride", value: "1.5 to 2 hours on the machine, mostly mud" },
+          { icon: "users", label: "Minimum ages", value: "Vary by operator; children ride as passengers" },
+          { icon: "umbrella", label: "Season", value: "Wet season is the bigger ride, rivers cancel if too high" },
+          { icon: "shield", label: "Bring", value: "Clothes you can throw away, a change, no jewellery" },
+        ],
+        sections: [
+          {
+            title: "The two rivers",
+            icon: "droplet",
+            content: "The Ayung runs below Payangan on the west side of Ubud and is the river most rafting days use: about twelve kilometres of class II to III water through a gorge with waterfalls coming in from the sides, two hours in the raft, nothing that frightens a beginner. The Telaga Waja in Karangasem, an hour and a half east, is narrower and steeper, class III to IV, with a weir drop near the end, and operators who want a livelier run use it.\n\nBoth rise fast after rain. In the wet season, November to March, the Ayung is quick and brown and the Telaga Waja can be closed for the day; in the dry season the Ayung is gentle enough for children of about seven and up. The guide reads the river on the morning and will not launch on a flood.",
+            tourCard: {
+              slug: "atv-quad-bike-and-white-water-rafting-adventure-in-ubud",
+              title: "ATV Quad Bike and White Water Rafting Adventure in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 30.51",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-bike-and-white-water-rafting-adventure-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "What an ATV day is really like",
+            icon: "car",
+            content: "The tracks are in the villages north of Ubud around Payangan, Tegallalang and Bongkasa: a loop of plantation lanes, a river bed, a section of village road, and a stretch of deep, red mud that is the part everyone remembers. Rides are 1.5 to 2 hours on the machine, on single or tandem quads with a guide in front and often a second at the back. Some tracks include a tunnel or a waterfall crossing.\n\nYou will be filthy. Operators lend boots and helmets and have showers at the end; wear clothes you do not mind ruining, leave watches and rings in the locker, and put your phone in the dry bag or the camera guide's hands. Contact lenses are better than glasses.",
+            tourCard: {
+              slug: "river-cave-tubing-adventure-and-gorilla-atv-quad-bike-in-ubud",
+              title: "River Cave Tubing Adventure and Gorilla ATV Quad Bike in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 29.76",
+              duration: "40 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/river-cave-tubing-adventure-and-gorilla-atv-quad-bike-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Who should not",
+            icon: "shield",
+            content: "Rafting: anyone pregnant, anyone with a heart or back condition, and children under about seven on the Ayung; the operator's own limit is on the option. ATV: driving age is usually 16 or 18 depending on the operator, younger children ride as passengers with a parent or a guide, and pregnancy and back injuries rule it out. Both are outdoors for hours, so the very sunburnt and the badly hungover have worse days than they expected. Bali's heat matters less than it sounds; the river and the mud are cool.",
+            tourCard: {
+              slug: "atv-quad-bike-and-ayung-river-rafting-with-lunch-in-ubud",
+              title: "ATV Quad Bike and Ayung River Rafting with Lunch in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 30.51",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-bike-and-ayung-river-rafting-with-lunch-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Combined days",
+            icon: "clock",
+            content: "The common package is ATV in the morning and rafting after lunch, from around 8:00 to 3:00, with lunch at the rafting base. It is a long day and the order matters: mud first, then the river rinses it off. Hotel pickup from Ubud is usually included and from the south is priced separately. A single activity is a half-day. For the gentler outdoor option, the [Campuhan ridge walk](/indonesia/ubud/campuhan-ridge-walk-guide) costs nothing and takes an hour; for the volcano, see the [Mount Batur guide](/indonesia/ubud/mount-batur-sunrise-guide).",
+            tourCard: {
+              slug: "atv-quad-biking-and-water-rafting-adventure-tour-in-ubud",
+              title: "ATV Quad Biking and Water Rafting Adventure Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 119.85",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-biking-and-water-rafting-adventure-tour-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Which river is better for rafting near Ubud?", a: "The Ayung for most people: class II-III, two hours, fine for beginners and children from about seven. The Telaga Waja in the east is class III-IV and better for a livelier run." },
+          { q: "How dirty do you get on a Bali ATV ride?", a: "Completely. Most tracks include deep mud. Operators provide boots, helmets and showers; wear clothes you can throw away and bring a change." },
+          { q: "Can children do ATV in Ubud?", a: "As passengers with a parent or guide, yes, from around five or six on most tracks. Driving age is usually 16 or 18 depending on the operator." },
+          { q: "Is rafting in Bali safe in the wet season?", a: "Yes when it runs. Rivers rise after rain and operators cancel on a flood; a wet-season Ayung is faster and browner but still a class II-III river with guides in every raft." },
+        ],
+      };
+
+    case "ubud-cooking-class-guide":
+      return {
+        title: "Balinese Cooking Classes in Ubud: What You Cook, the Market Visit, and How to Choose One",
+        seoTitle: "Ubud Cooking Class Guide 2026",
+        description: "The dishes a real Balinese class teaches, why base genep is the point, what the market visit is for, and the difference between a compound kitchen and a school.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/balinese-cooking-class-for-couples-with-market-visit-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Length", value: "3 to 5 hours, morning classes start with the market" },
+          { icon: "utensils", label: "The base", value: "Base genep, the spice paste under everything" },
+          { icon: "leaf", label: "Vegetarian", value: "Standard on request; most dishes adapt" },
+          { icon: "users", label: "Group size", value: "Usually 6 to 12; private classes available" },
+          { icon: "map", label: "Where", value: "Family compounds around Ubud, or a purpose-built kitchen" },
+          { icon: "ticket", label: "Includes", value: "All ingredients and the meal you cook" },
+        ],
+        sections: [
+          {
+            title: "What you actually cook",
+            icon: "utensils",
+            content: "Every Balinese class starts with base genep, the spice paste of shallots, garlic, galangal, turmeric, ginger, chillies, candlenut, coriander seed and shrimp paste, pounded in a stone mortar until it is smooth. Once you have it, most of the cuisine is variations on it: sate lilit, minced fish or chicken mixed with the paste and coconut, pressed round lemongrass stalks and grilled; pepes ikan, fish in the paste steamed in banana leaf; lawar, the chopped salad of long beans, coconut and spice, which in its traditional form includes raw blood and in classes usually does not; and the yellow rice, nasi kuning, with turmeric and coconut milk.\n\nA good class makes six to eight dishes and you eat all of them at the end. If the menu is mostly fried rice and satay, it is a tourist menu, not a Balinese one.",
+            tourCard: {
+              slug: "balinese-cooking-class-for-couples-with-market-visit-in-ubud",
+              title: "Balinese Cooking Class for Couples with Market Visit in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 137.80",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/balinese-cooking-class-for-couples-with-market-visit-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The market visit",
+            icon: "map",
+            content: "Morning classes begin at Ubud's market, or one of the village markets, around 8:00, and it is not decoration: the instructor buys the day's ingredients and explains what they are. You see turmeric root rather than powder, salam leaf, torch ginger flower, the small hot chillies and the big mild ones, and the fresh grated coconut that goes into almost everything. Afternoon classes skip the market and cost a little less. If you have never seen the raw ingredients, the market is the half of the class that stays with you.",
+            tourCard: {
+              slug: "ubud-balinese-cooking-class-9-dishes-and-local-market-ubud",
+              title: "Ubud Balinese Cooking Class: 9 Dishes and Local Market (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 22.88",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-balinese-cooking-class-9-dishes-and-local-market-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Compound or school",
+            icon: "home",
+            content: "Classes run in two settings. A family compound is a home: you cook in the household kitchen or an open pavilion, the grandmother may be pounding the paste beside you, and the class is as much about how a Balinese household eats as about recipes. A purpose-built cooking school has individual stations, aprons, printed recipes and better English; it is more efficient and less personal. Neither is wrong. Families with children and people who want to actually learn the techniques often prefer the school; people who want the afternoon in a village prefer the compound. The listing says which it is.",
+            tourCard: {
+              slug: "balinese-cooking-class-with-market-tour-in-ubud",
+              title: "Balinese Cooking Class with Market Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 114.43",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/balinese-cooking-class-with-market-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Choosing one",
+            icon: "users",
+            content: "Look for a class that names the dishes, states the group size and says who teaches. Vegetarian and vegan versions are normal in Ubud and worth confirming when you book rather than on the day. Halal is easy since most classes use chicken and fish. Morning classes are cooler and include the market; afternoon classes fit around a sunrise trek. Most run 3 to 5 hours and end with lunch or an early dinner. Pair a morning class with the [Monkey Forest](/indonesia/ubud/ubud-monkey-forest-guide) in the late afternoon, or a night one with a dance performance in town.",
+            tourCard: {
+              slug: "3-course-balinese-cooking-class-in-ubud",
+              title: "3-Course Balinese Cooking Class in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 34.33",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/3-course-balinese-cooking-class-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What do you cook in a Balinese cooking class?", a: "Base genep spice paste first, then dishes built on it: sate lilit, pepes ikan, lawar, chicken or tempe in the paste, vegetables with coconut, and nasi kuning. Six to eight dishes in a good class, eaten at the end." },
+          { q: "Do Ubud cooking classes include a market visit?", a: "Morning classes usually do, starting around 8:00 at a local market where the instructor buys the ingredients. Afternoon classes skip it." },
+          { q: "Are cooking classes in Ubud vegetarian-friendly?", a: "Yes, vegetarian and vegan versions are standard on request. Confirm when booking so the ingredients are bought accordingly." },
+          { q: "How long is a cooking class in Ubud?", a: "Three to five hours including the market visit and the meal. Private classes can be shorter." },
+        ],
+      };
+
+    case "ubud-swings-guide":
+      return {
+        title: "The Ubud Jungle Swings: Which One, How High, What It Costs, and the Queue",
+        seoTitle: "Ubud Bali Swing Guide 2026",
+        description: "The swing parks around Ubud compared, what the tallest swings are like, how the pricing and dress rental work, and the only way to avoid a two-hour queue.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/day-trip-to-rice-terraces-swings-waterfall-and-temples-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "Where", value: "Bongkasa on the Ayung gorge, and the Tegallalang road" },
+          { icon: "ruler", label: "Heights", value: "Single swings from about 10 m to 78 m" },
+          { icon: "ticket", label: "Price", value: "Per swing or a package; photo packages extra" },
+          { icon: "clock", label: "Queue", value: "Short at opening, up to 2 hours mid-afternoon" },
+          { icon: "shield", label: "Safety", value: "Harness and staff push; weight limits apply" },
+          { icon: "camera", label: "Dresses", value: "Rented on site for the photograph" },
+        ],
+        sections: [
+          {
+            title: "What the swings are",
+            icon: "camera",
+            content: "The jungle swing is a Bali invention of the last decade: a giant swing hung from two tall posts on the edge of a gorge or a rice terrace, so the arc carries you out over the drop. The originals are along the Ayung river gorge near Bongkasa, west of Ubud, and a second cluster grew along the road above the Tegallalang terraces. Each park has several swings of different heights, plus hanging nests, a bird's-nest platform, a hanging bed and a clear-floored viewpoint, all of which exist for the photograph.\n\nIt is fun. It is also a business built entirely on Instagram, and the way to enjoy it is to know that in advance and go early.",
+            tourCard: {
+              slug: "day-trip-to-rice-terraces-swings-waterfall-and-temples-in-ubud",
+              title: "Day Trip to Rice Terraces, Swings, Waterfall and Temples in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 95.35",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/day-trip-to-rice-terraces-swings-waterfall-and-temples-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "How high, and how it feels",
+            icon: "ruler",
+            content: "A park will have a swing at about 10 metres for the nervous, one or two at 15 to 20, and a tallest one somewhere between 50 and 78 metres above the valley floor, which is the one on the sign. You sit in a harness clipped to the ropes, staff pull you back and let go, and the swing carries out over the gorge for a few arcs before they slow it. It is smoother than it looks and the height registers mostly on the first outward swing. Weight limits are posted and applied. Anyone with a heart condition, pregnant, or badly afraid of heights should choose the low swing or the nest.",
+            tourCard: {
+              slug: "guided-atv-quad-bike-jungle-adventure-with-lunch-in-ubud",
+              title: "Guided ATV Quad Bike Jungle Adventure with Lunch in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 45.01",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/guided-atv-quad-bike-jungle-adventure-with-lunch-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Pricing and the dress",
+            icon: "ticket",
+            content: "Parks price either per swing or as a package for all of them, and the packages are the better value if you will do more than one. Photographs are separate: staff photographers sell a package, or you hand your phone to a friend. The long flowing dresses in every swing photograph are rented at the park for a few tens of thousands of rupiah, in a rack of colours, and put on over your clothes. Tours from Ubud usually include the swing entry but not the photo package or the dress; check the option.",
+            tourCard: {
+              slug: "swing-and-flying-dress-with-coffee-tasting-and-transfer-in-ubud",
+              title: "Swing and Flying Dress with Coffee Tasting and Transfer in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 38.53",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/swing-and-flying-dress-with-coffee-tasting-and-transfer-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The queue, and when to go",
+            icon: "clock",
+            content: "At opening, around 8:00, you walk onto the swing. By eleven there is a line at each one, and on a dry-season afternoon the tallest swing can be a two-hour wait in the sun for thirty seconds of arc. There is no trick; go first thing, or go on a wet-season weekday. The swing parks near Tegallalang can be combined with the terraces before the coaches; see the [Tegallalang guide](/indonesia/ubud/tegallalang-rice-terrace-guide). The Bongkasa parks combine naturally with a morning at the [Ayung river](/indonesia/ubud/ubud-atv-and-rafting-guide).",
+            tourCard: {
+              slug: "jungle-waterfall-and-tunnel-atv-tour-and-lunch-options-in-ubud",
+              title: "Jungle, Waterfall, and Tunnel ATV Tour and Lunch Options in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 112.93",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/jungle-waterfall-and-tunnel-atv-tour-and-lunch-options-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How much does the Bali swing cost?", a: "Parks price per swing or as a package for all of them; expect a few hundred thousand rupiah for a package. Photos and dress rental are extra." },
+          { q: "How high is the tallest swing in Ubud?", a: "The tallest single swings advertise 70 to 78 metres above the valley floor. Most parks also have swings at 10 to 20 metres." },
+          { q: "Is the Bali swing safe?", a: "You are in a harness clipped to the ropes and staff control the push and the stop. Weight limits are posted. It is not for anyone pregnant or with a heart condition." },
+          { q: "When is the best time to go to the swings?", a: "At opening, around 8:00. From late morning there is a queue at every swing, and mid-afternoon on a dry-season day the tallest one can be a two-hour wait." },
+        ],
+      };
+
+    case "campuhan-ridge-walk-guide":
+      return {
+        title: "The Campuhan Ridge Walk: When to Go, How Far, and What Is at the End",
+        seoTitle: "Campuhan Ridge Walk Ubud Guide 2026",
+        description: "Ubud's free walk along a grass ridge between two rivers, the times of day it works, the distance, and what to do at the far end.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/campuhan-ridge-walk-temple-and-waterfalls-tour-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "footprints", label: "Distance", value: "About 2 km one way on the paved path" },
+          { icon: "clock", label: "Time", value: "30 to 40 minutes each way" },
+          { icon: "sun", label: "Best hours", value: "Before 8:00 or after 4:30; no shade" },
+          { icon: "ticket", label: "Cost", value: "Free" },
+          { icon: "map", label: "Start", value: "Beside Pura Gunung Lebah, off the Campuhan bridge" },
+          { icon: "mountain", label: "End", value: "Karsa cafe and the road to Bangkiang Sidem" },
+        ],
+        sections: [
+          {
+            title: "The walk",
+            icon: "footprints",
+            content: "Campuhan means confluence: the ridge runs between the Wos Barat and Wos Timur rivers, which meet below the old bridge on the west edge of Ubud town. From the temple of Pura Gunung Lebah in the valley, a paved path climbs onto the ridge and follows its spine for about two kilometres through tall elephant grass, with the valleys falling away on both sides and a view back over the rooftops of Ubud. It is flat once you are up, and paved all the way, and it is the easiest walk on Bali that still feels like being outside a town.\n\nAt the far end the path drops to the village of Bangkiang Sidem, where there are a few cafes among rice fields, the best known being Karsa, and a road back to Ubud by scooter or on foot.",
+            tourCard: {
+              slug: "campuhan-ridge-walk-temple-and-waterfalls-tour-in-ubud",
+              title: "Campuhan Ridge Walk, Temple, and Waterfalls Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 68.65",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/campuhan-ridge-walk-temple-and-waterfalls-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "When to go",
+            icon: "sun",
+            content: "There is no shade on the ridge. Before 8:00 the light is low and gold, the grass is still wet and the temperature is bearable; after about 9:30 the path is in full sun and the walk becomes a chore. Late afternoon after 4:30 is the second window, with sunset around 6:15 and the light on the grass from the west. Most Ubud hotels are within a short walk or a five-minute drive of the start, which is why the ridge fits before breakfast better than anything else in town.",
+            tourCard: {
+              slug: "sunrise-mount-batur-guided-hike-with-breakfast",
+              title: "Sunrise Mount Batur Guided Hike with Breakfast",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 35.24",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sunrise-mount-batur-guided-hike-with-breakfast/img0/1600.webp",
+            },
+          },
+          {
+            title: "Getting there and back",
+            icon: "map",
+            content: "The start is signposted from the Campuhan bridge on the road towards Kedewatan, beside the Warwick Ibah hotel; you go down towards the temple and up the far side. Walk out and back for a 4 km loop, or walk out, have breakfast at the cafes in Bangkiang Sidem and take a scooter taxi back. There is no entrance fee and no gate. Combine it with a morning at the [Monkey Forest](/indonesia/ubud/ubud-monkey-forest-guide) or a market breakfast in town; for the harder walks, Batur and the Bangli waterfalls, see the [Mount Batur guide](/indonesia/ubud/mount-batur-sunrise-guide) and the [waterfalls guide](/indonesia/ubud/ubud-waterfalls-guide).",
+            tourCard: {
+              slug: "mount-batur-sunrise-guided-hike-and-natural-hot-spring",
+              title: "Mount Batur Sunrise Guided Hike and Natural Hot Spring",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 46.99",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-guided-hike-and-natural-hot-spring/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How long is the Campuhan Ridge Walk?", a: "About two kilometres one way on a paved path, 30 to 40 minutes each way at an easy pace, or a four-kilometre loop out and back." },
+          { q: "Is the Campuhan Ridge Walk free?", a: "Yes. There is no gate and no ticket." },
+          { q: "What time should I do the Campuhan Ridge Walk?", a: "Before 8:00 or after 4:30. The ridge has no shade and is in full sun from mid-morning." },
+          { q: "Where does the Campuhan Ridge Walk start?", a: "Beside Pura Gunung Lebah temple below the Campuhan bridge on the west edge of Ubud, signposted from the road towards Kedewatan." },
+        ],
+      };
+
+    case "kintamani-and-penglipuran-guide":
+      return {
+        title: "Kintamani and Penglipuran from Ubud: The Caldera Viewpoint, the Bamboo Village, and the Coffee Stops",
+        seoTitle: "Kintamani & Penglipuran Guide 2026",
+        description: "What you see from the rim at Penelokan, how Penglipuran village works and its rules, the truth about the kopi luwak stops on the road up, and how to build the day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/amazing-kintamani-ubud-tour-with-volcano-view-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "mountain", label: "Kintamani", value: "Caldera rim at about 1,500 m; viewpoint at Penelokan" },
+          { icon: "thermometer", label: "Temperature", value: "10 degrees cooler than Ubud; bring a layer" },
+          { icon: "map", label: "From Ubud", value: "Penglipuran 45 min, Kintamani 1 hr 15" },
+          { icon: "landmark", label: "Penglipuran", value: "Traditional village with a bamboo forest behind it" },
+          { icon: "ticket", label: "Entry", value: "Small fees at both; tens of thousands of rupiah" },
+          { icon: "clock", label: "Cloud", value: "Batur is clearest before 11:00" },
+        ],
+        sections: [
+          {
+            title: "Kintamani and the view",
+            icon: "mountain",
+            content: "Kintamani is the district along the rim of the Batur caldera, the huge crater left by an eruption around 28,000 years ago, inside which the younger cone of Mount Batur and Lake Batur now sit. The viewpoint at Penelokan, at about 1,500 metres, looks straight down at the volcano, the black lava field of the 1968 eruption on its flank, and the lake curving away to Trunyan village on the far shore. It is one of the great views on Bali and it costs a small entry fee and a jacket; the rim is windy and ten degrees colder than Ubud.\n\nThe restaurants along the rim sell a buffet lunch with the view, which is fine for the view. Batur is usually clear until late morning and wrapped in cloud by early afternoon, so lunch here is for the earlier arrivals.",
+            tourCard: {
+              slug: "amazing-kintamani-ubud-tour-with-volcano-view-ubud",
+              title: "Amazing Kintamani Ubud Tour with Volcano View (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 59.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/amazing-kintamani-ubud-tour-with-volcano-view-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Penglipuran village",
+            icon: "landmark",
+            content: "Penglipuran, in Bangli on the road up, is a village that has kept its traditional layout under its own rules: one straight stone-paved lane running uphill to the village temple, with family compounds on both sides, each entered through a gate of the same design, roofs of bamboo shingle, and no motor vehicles on the lane. It is not a museum; families live in every compound and will show you their kitchen and the family shrine if you ask. Behind the village is a bamboo forest with a walking path.\n\nGo in the morning before the coaches. It is genuinely one of the cleanest villages in Indonesia, the local rule on litter is strict, and the residents ask the same of visitors.",
+            tourCard: {
+              slug: "penglipuran-village-rice-terrace-and-waterfall-tour-in-ubud",
+              title: "Penglipuran Village, Rice Terrace and Waterfall Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 20.98",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/penglipuran-village-rice-terrace-and-waterfall-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "The coffee plantations",
+            icon: "leaf",
+            content: "The road from Ubud to Kintamani is lined with agro-tourism stops calling themselves coffee plantations: a walk past coffee, cocoa, vanilla and cinnamon plants, then a tasting tray of a dozen flavoured teas and coffees, free, with a shop at the end. The product they push is kopi luwak, coffee cherries eaten and passed by the palm civet, sold by the cup at a high price. Some of these stops keep civets in small cages to show visitors, which is the part to ask about; the answer tells you what kind of place it is. A ten-minute tasting is a pleasant break on the road. It is not a plantation visit.",
+            tourCard: {
+              slug: "ubud-balinese-cooking-class-9-dishes-and-local-market-ubud",
+              title: "Ubud Balinese Cooking Class: 9 Dishes and Local Market (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 22.88",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-balinese-cooking-class-9-dishes-and-local-market-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Building the day",
+            icon: "map",
+            content: "The usual order from Ubud is Penglipuran first, at about 9:00, then Kintamani for the view while Batur is clear, lunch on the rim, and a stop at Tegallalang or a coffee garden on the way down. The day pairs well with a Bangli waterfall on the way up; see the [waterfalls guide](/indonesia/ubud/ubud-waterfalls-guide). Anyone doing the [Batur sunrise trek](/indonesia/ubud/mount-batur-sunrise-guide) has already been in the caldera and can skip the viewpoint. For the eastern alternative, the [Lempuyang guide](/indonesia/ubud/lempuyang-gate-of-heaven-guide) covers the other big day out.",
+            tourCard: {
+              slug: "market-to-table-cooking-class-and-local-herb-discovery-in-ubud",
+              title: "Market to Table Cooking Class and Local Herb Discovery in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 49.27",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/market-to-table-cooking-class-and-local-herb-discovery-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is the Kintamani viewpoint worth it?", a: "Yes, especially before 11:00 when Batur and the lake are clear. From Penelokan on the caldera rim you look down on the volcano, the 1968 lava field and Lake Batur. Bring a layer; it is windy and cool." },
+          { q: "What is Penglipuran village?", a: "A traditional Balinese village in Bangli that keeps its original layout: one stone lane, matching compound gates, bamboo-shingle roofs and no vehicles. Families live in every compound. There is a small entry fee." },
+          { q: "Is kopi luwak ethical?", a: "Often not. Some coffee stops on the Kintamani road keep civets in cages for display. Ask before buying; the tasting itself is free." },
+          { q: "How far is Kintamani from Ubud?", a: "About an hour and a quarter by car to the Penelokan viewpoint. Penglipuran is on the way, about 45 minutes from Ubud." },
+        ],
+      };
+
+    case "ubud-art-villages-guide":
+      return {
+        title: "Ubud's Art Villages: Celuk Silver, Mas Woodcarving, Batuan Painting, and the Museums",
+        seoTitle: "Ubud Art Villages Guide 2026",
+        description: "Which village makes what, how the workshops work, where the real collections are, and how to see the craft road without the coach-tour showrooms.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/craft-your-own-silver-ring-and-arma-art-gallery-tour-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "landmark", label: "Celuk", value: "Silver and gold work, on the road from Denpasar" },
+          { icon: "landmark", label: "Mas", value: "Woodcarving in hibiscus, jackfruit and ebony" },
+          { icon: "landmark", label: "Batuan", value: "The Batuan painting style since the 1930s" },
+          { icon: "landmark", label: "Batubulan", value: "Stone carving and the Barong dance" },
+          { icon: "ticket", label: "Museums", value: "Neka, Puri Lukisan, ARMA; entry under 150,000 rupiah" },
+          { icon: "clock", label: "Time", value: "A morning for the villages, an afternoon for a museum" },
+        ],
+        sections: [
+          {
+            title: "The craft road",
+            icon: "map",
+            content: "The road from Denpasar up to Ubud passes through a string of villages that each specialise, a pattern that goes back to the courts that patronised them. Batubulan carves paras stone into the statues at every temple gate; Celuk works silver and gold, mostly for jewellery; Mas carves wood, from tourist masks to the fine hibiscus pieces in the galleries; and Batuan paints in the dense, dark, crowded style that a group of its painters developed in the 1930s. Sukawati has the art market and Peliatan, at Ubud's edge, is the dance village.\n\nEvery coach tour stops at a showroom in each, and those showrooms are large, air-conditioned and expensive. The workshops behind them are where the work is done, and most will let you watch.",
+            tourCard: {
+              slug: "craft-your-own-silver-ring-and-arma-art-gallery-tour-in-ubud",
+              title: "Craft Your Own Silver Ring and ARMA Art Gallery Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 64.84",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/craft-your-own-silver-ring-and-arma-art-gallery-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Workshops and classes",
+            icon: "users",
+            content: "Watching is free at most family workshops if you ask; buying is not expected. Classes take the same skills into a few hours with an instructor and you leave with the piece: a silver ring or pendant made from sheet and wire with saw, file and torch in Celuk or Ubud; a small carving in soft wood in Mas; a batik panel with wax and dye; a painting lesson in the Batuan or Keliki miniature style. Classes run three to four hours, the studios provide everything, and the results are better than you expect because the instructors do the hard cuts. Book for the morning; workshops are hot by afternoon.",
+            tourCard: {
+              slug: "ubud-tour-with-royal-palace-art-village-and-museums",
+              title: "Ubud Tour with Royal Palace, Art Village and Museums",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 123.50",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-tour-with-royal-palace-art-village-and-museums/img0/1600.webp",
+            },
+          },
+          {
+            title: "The museums",
+            icon: "landmark",
+            content: "Three collections are worth an afternoon. Puri Lukisan, on the main street, was founded in 1956 and holds the Pita Maha generation, the painters who worked with Walter Spies and Rudolf Bonnet in the 1930s and created the Ubud style. The Neka Art Museum in Sanggingan has the broadest survey, including foreign painters who settled on Bali. ARMA, the Agung Rai museum in Pengosekan, has a fine Batuan collection, gardens, and a dance stage most evenings. Entry to each is modest and includes a drink at Neka and ARMA. None takes more than an hour and a half unless you want it to.",
+            tourCard: {
+              slug: "hands-on-silver-jewelry-making-near-ubud-s-monkey-forest-ubud",
+              title: "Hands-On Silver Jewelry Making Near Ubud's Monkey Forest (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 57.21",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hands-on-silver-jewelry-making-near-ubud-s-monkey-forest-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Buying, honestly",
+            icon: "ticket",
+            content: "Prices in the showrooms are two to three times the workshop price and the coach driver's commission is inside them. In a workshop, ask the price, offer about two-thirds, and settle in the middle; silver is sold by weight plus work, and 925 should be stamped. Genuine antiques are rare and export of anything old is regulated, so treat every antique as a reproduction unless there is paperwork. For a day that combines the villages with a class, see the [cooking class guide](/indonesia/ubud/ubud-cooking-class-guide) for the food side and the [getting around guide](/indonesia/ubud/getting-around-ubud) for hiring a driver for the loop.",
+            tourCard: {
+              slug: "traditional-heritage-batik-painting-experience-in-ubud",
+              title: "Traditional Heritage Batik Painting Experience in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 38.14",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-heritage-batik-painting-experience-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Which village near Ubud is famous for silver?", a: "Celuk, on the road up from Denpasar, is the silver and gold village. Workshops let you watch and many run half-day jewellery-making classes." },
+          { q: "Where is woodcarving done near Ubud?", a: "Mas, just south of Ubud, in hibiscus, jackfruit and ebony. The showrooms on the main road are expensive; the workshops behind them are where the carving happens." },
+          { q: "Which museum in Ubud is best?", a: "Puri Lukisan for the original Ubud school of the 1930s, Neka for the broadest survey, ARMA for Batuan paintings and gardens. Each takes an hour or two." },
+          { q: "Can I take a craft class in Ubud?", a: "Yes: silver jewellery, woodcarving, batik and painting classes run three to four hours with an instructor and materials, and you keep what you make." },
+        ],
+      };
+
+    case "how-many-days-in-ubud":
+      return {
+        title: "How Many Days in Ubud: Two, Three, or a Week, and What Each Gets You",
+        seoTitle: "How Many Days in Ubud 2026",
+        description: "A straight answer on how long Ubud needs, what fits in two days and three, when a week makes sense, and how it balances against the coast and Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/buggy-adventure-two-waterfalls-and-lunch-tour-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Minimum", value: "Two nights for the terraces, a temple and a waterfall" },
+          { icon: "clock", label: "Right", value: "Three to four nights, with Batur or east Bali" },
+          { icon: "clock", label: "Week", value: "Only if you want the classes and the slow days" },
+          { icon: "map", label: "To the coast", value: "Canggu and Uluwatu 1 to 1.5 hours" },
+          { icon: "map", label: "To Nusa Penida", value: "Sanur boat 45 min from Ubud, then 45 min crossing" },
+          { icon: "moon", label: "Nyepi", value: "One day a year, everything closes; plan around it" },
+        ],
+        sections: [
+          {
+            title: "Two days",
+            icon: "clock",
+            content: "Two nights in Ubud is enough for the essentials if you start early both days. Day one: Tegallalang before 8:30, Tirta Empul and Gunung Kawi, the Monkey Forest at four, dinner and a dance performance. Day two: a Bangli waterfall or two in the morning, a swing or the art villages, the Campuhan ridge at sunset. You will not have done Batur or east Bali, and you will not have sat still for an hour, but you will have seen why people come.",
+            tourCard: {
+              slug: "buggy-adventure-two-waterfalls-and-lunch-tour-in-ubud",
+              title: "Buggy Adventure, Two Waterfalls, and Lunch Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 97.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/buggy-adventure-two-waterfalls-and-lunch-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Three or four days",
+            icon: "clock",
+            content: "This is the right length for most people. It adds the Mount Batur sunrise, which takes a night's sleep out of the schedule and needs a slow day after it, and one of the big days out: east Bali for Lempuyang, Tirta Gangga and Sidemen, or north to Kintamani and Penglipuran. It also leaves room for one thing that is not a sight: a cooking class, a silver workshop, a morning at a spa, or an ATV and rafting day. Four nights lets you take the afternoons off, which in Ubud's heat is not a luxury.",
+            tourCard: {
+              slug: "ubud-s-waterfall-trail-four-hidden-falls-ubud",
+              title: "Ubud\u2019s Waterfall Trail: Four Hidden Falls (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 91.00",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-s-waterfall-trail-four-hidden-falls-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "A week",
+            icon: "clock",
+            content: "A week only makes sense if you want Ubud as a base rather than a list. That means yoga or a retreat, several classes, a few days of doing very little in a villa with a rice-field view, and day trips that spread out rather than stack. It works well for the wet season, when an early start each morning gets the sights before the two o'clock rain and the afternoons are for the pool. It works badly if you are counting sights, because by day four you have seen them.",
+            tourCard: {
+              slug: "waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud",
+              title: "Waterfall, Rice Terraces and Monkey Forest Private Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 61.04",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Against the rest of Bali",
+            icon: "map",
+            content: "Most first visits split between Ubud and the coast. The usual shape is three nights here then three or four in Canggu or Uluwatu, with Nusa Penida as a day trip or one night from the south. Ubud first means the sunrise trek is done before the beach days; coast first means arriving in Ubud rested. Either order works and the transfer is 60 to 90 minutes. The [Bali itineraries](/indonesia/itineraries) lay out 3, 5, 7 and 10 day versions with real tours on each day, and the [best time to visit guide](/indonesia/ubud/best-time-to-visit-ubud) covers the seasons and Nyepi.",
+            tourCard: {
+              slug: "romantic-buggy-for-two-and-couples-swing-experience-in-ubud",
+              title: "Romantic Buggy for Two and Couples Swing Experience in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 267.01",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/romantic-buggy-for-two-and-couples-swing-experience-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How many days do you need in Ubud?", a: "Three to four nights for most people: the terraces, temples and waterfalls, a Batur sunrise with a slow day after, and one big day out to east or north Bali. Two nights covers the essentials; a week only if you want a base for classes and rest." },
+          { q: "Is two days enough for Ubud?", a: "Yes for the essentials if you start early: Tegallalang, Tirta Empul, a waterfall, the Monkey Forest and the ridge walk. Not enough for Batur or east Bali." },
+          { q: "Should I stay in Ubud or Canggu?", a: "Both, on a first visit: three nights in Ubud for the interior, three or four on the coast. The transfer is 60 to 90 minutes." },
+          { q: "Is Ubud worth a week?", a: "As a base for yoga, classes and slow days, yes. As a sightseeing stop, no; four days covers the sights." },
+        ],
+      };
+
+    case "ubud-with-kids":
+      return {
+        title: "Ubud with Kids: What Works, What Does Not, and the Ages That Matter",
+        seoTitle: "Ubud with Kids Guide 2026",
+        description: "Which Ubud activities suit children by age, the ones to skip, the heat and pool question, and how to keep a family day short enough to enjoy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp",
+        fastFacts: [
+          { icon: "users", label: "Best ages", value: "5 and up for most activities; under 5 is a pool holiday" },
+          { icon: "sun", label: "Heat", value: "Plan sights before 11:00 and after 4:00" },
+          { icon: "droplet", label: "Rafting", value: "Ayung river from about 7 years old" },
+          { icon: "mountain", label: "Batur", value: "Realistic from about 10, and only for keen walkers" },
+          { icon: "shield", label: "Monkeys", value: "Fine for children who follow rules; no food, no eye contact" },
+          { icon: "car", label: "Getting about", value: "A driver for the day; no car seats by default, bring your own" },
+        ],
+        sections: [
+          {
+            title: "What works",
+            icon: "users",
+            content: "Children like Ubud more than parents expect, provided the days are short. The Monkey Forest is the obvious hit from about five, with the rules explained first. Tegallalang works if you walk down into the terraces rather than look at them, and the swings are a guaranteed win from about six, on the low swing with a parent. The Ayung river rafting takes children from around seven and is the most talked-about day of most family trips. A cooking class in a family compound, the Bali Bird Park at Batubulan, the Mason Elephant Park at Taro and the Bali Zoo at Singapadu are the reliable half-days, and Tibumana waterfall is a safe swim for confident swimmers.",
+            tourCard: {
+              slug: "waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud",
+              title: "Waterfall, Rice Terraces and Monkey Forest Private Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 61.04",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "What does not",
+            icon: "shield",
+            content: "Mount Batur is a 2am start and a two-hour climb in the dark and cold; from about ten and only for a child who genuinely wants to. Lempuyang is two hours each way for a queue. Tirta Empul is fine to see but the cold pool and the ritual are not for small children. ATV driving ages are 16 or 18 and passengers from about five, which is fine, but the mud is total. Temple visits in general need to be short, in the morning, and the sarong rule applies to children too. Long private-car loops of five or six stops are the days that end in tears.",
+            tourCard: {
+              slug: "ubud-full-day-all-inclusive-highlights-tour",
+              title: "Ubud Full-Day All-Inclusive Highlights Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 57.21",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-full-day-all-inclusive-highlights-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Heat, food and pools",
+            icon: "sun",
+            content: "Ubud is hot and humid from mid-morning, and the single best decision for a family is a hotel or villa with a pool and a plan that puts the sights before eleven and after four. Warungs serve plain rice, chicken satay, fried noodles and fruit that every child eats; ask for tidak pedas, not spicy, and it will come without the sambal. Bottled water everywhere, and nobody minds a child in a restaurant. Pharmacies in town stock what you need, and the international clinics in Ubud handle the usual scrapes.",
+            tourCard: {
+              slug: "ubud-balinese-cooking-class-9-dishes-and-local-market-ubud",
+              title: "Ubud Balinese Cooking Class: 9 Dishes and Local Market (Ubud)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 22.88",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-balinese-cooking-class-9-dishes-and-local-market-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Building a family day",
+            icon: "clock",
+            content: "One sight in the morning, lunch, pool, one thing at four. That is a good day. A driver for the day makes it possible, since taxis are scarce and scooters with children are a bad idea; note that cars come without child seats unless you ask, and even then bring your own for the very small. For the full list of what each activity involves, see the [waterfalls](/indonesia/ubud/ubud-waterfalls-guide), [Monkey Forest](/indonesia/ubud/ubud-monkey-forest-guide) and [ATV and rafting](/indonesia/ubud/ubud-atv-and-rafting-guide) guides, and the [getting around guide](/indonesia/ubud/getting-around-ubud) for drivers.",
+            tourCard: {
+              slug: "gianyar-family-friendly-horse-riding-tour-in-ubud",
+              title: "Gianyar: Family-Friendly Horse Riding Tour in Ubud",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 49.58",
+              duration: "30 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gianyar-family-friendly-horse-riding-tour-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Ubud good for kids?", a: "Yes from about five, with short days: the Monkey Forest, the swings, the Ayung river rafting from about seven, the bird park and a cooking class are the reliable hits. Under five it is mostly a pool holiday with one outing a day." },
+          { q: "Can children go rafting in Ubud?", a: "On the Ayung river, from about seven years old in the dry season. The Telaga Waja is for older children and adults." },
+          { q: "Can kids climb Mount Batur?", a: "From about ten, and only keen walkers: it is a 2am start and a two-hour climb in the dark and cold." },
+          { q: "Are there car seats in Bali?", a: "Not by default. Ask the operator when booking and bring your own seat for very small children." },
+        ],
+      };
+
     default:
       return null;
   }

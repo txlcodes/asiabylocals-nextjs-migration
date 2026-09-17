@@ -533,7 +533,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'ubud-temples-guide',
     'day-trips-from-ubud',
     'getting-around-ubud',
-  ].map(slug => ({
+      'lempuyang-gate-of-heaven-guide',
+    'tirta-empul-purification-guide',
+    'tukad-cepung-waterfall-guide',
+    'ubud-atv-and-rafting-guide',
+    'ubud-cooking-class-guide',
+    'ubud-swings-guide',
+    'campuhan-ridge-walk-guide',
+    'kintamani-and-penglipuran-guide',
+    'ubud-art-villages-guide',
+    'how-many-days-in-ubud',
+    'ubud-with-kids',
+].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -548,7 +559,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'day-trips-from-canggu',
     'getting-around-canggu',
     'canggu-or-seminyak-or-uluwatu',
-  ].map(slug => ({
+      'canggu-to-ubud-day-trip',
+    'canggu-rice-field-walks-guide',
+    'north-bali-day-trip-from-canggu',
+    'canggu-nusa-penida-day-trip',
+].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -562,7 +577,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-uluwatu',
     'day-trips-from-uluwatu',
     'getting-around-uluwatu',
-  ].map(slug => ({
+      'gwk-cultural-park-guide',
+    'jimbaran-seafood-dinner-guide',
+    'melasti-beach-guide',
+    'uluwatu-sunset-spots-guide',
+].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -576,7 +595,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'nusa-penida-manta-snorkelling-guide',
     'best-time-to-visit-nusa-penida',
     'nusa-penida-day-trip-or-overnight',
-  ].map(slug => ({
+      'diamond-beach-and-atuh-guide',
+    'broken-beach-angels-billabong-guide',
+    'crystal-bay-guide',
+    'nusa-lembongan-vs-nusa-penida',
+    'nusa-penida-2-day-itinerary',
+].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
