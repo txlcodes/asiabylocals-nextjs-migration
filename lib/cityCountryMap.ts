@@ -38,7 +38,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'nagoya': { country: 'japan', city: 'nagoya' },
   'hakone': { country: 'japan', city: 'hakone' },
   'mount-fuji': { country: 'japan', city: 'mount-fuji' },
-  'bali': { country: 'indonesia', city: 'ubud' },
+  'bali': { country: 'indonesia', city: 'ubud' },   // /indonesia/bali itself 301s to /indonesia (next.config)
   'ubud': { country: 'indonesia', city: 'ubud' },
   'canggu': { country: 'indonesia', city: 'canggu' },
   'uluwatu': { country: 'indonesia', city: 'uluwatu' },

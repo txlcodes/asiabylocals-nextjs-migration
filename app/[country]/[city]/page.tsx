@@ -22,6 +22,22 @@ function capitalize(str: string) {
 
 // City-specific SEO titles and descriptions (must match client component)
 const CITY_META: Record<string, { title: string; description: string }> = {
+  'Ubud': {
+    title: 'Ubud Tours & Things to Do, Bali 2026 | Batur, Waterfalls & Terraces',
+    description: '600+ Ubud, Bali tours from $8. Mount Batur sunrise treks, Tegallalang rice terraces, waterfalls, Tirta Empul, ATV and rafting. Every tour run by a verified Bali operator we message directly.',
+  },
+  'Canggu': {
+    title: 'Canggu Tours & Things to Do, Bali 2026 | Surf, Tanah Lot & Day Trips',
+    description: '80+ Canggu, Bali tours. Surf lessons at Batu Bolong, Tanah Lot sunset, north Bali day trips, cooking and craft classes. Every operator verified and messaged directly.',
+  },
+  'Uluwatu': {
+    title: 'Uluwatu Tours & Things to Do, Bali 2026 | Kecak, Cliff Beaches & Surf',
+    description: '80+ Uluwatu, Bali tours. Uluwatu temple and the Kecak fire dance at sunset, Padang Padang and Bingin beaches, surf lessons, Nusa Penida day trips. Verified Bali operators, booked directly.',
+  },
+  'Nusa Penida': {
+    title: 'Nusa Penida Tours & Day Trips from Bali 2026 | Kelingking, Manta Rays',
+    description: '140+ Nusa Penida tours. Kelingking Beach, Broken Beach, Diamond Beach, manta ray snorkelling at Manta Point, fast boats from Sanur, west and east island days. Verified local operators.',
+  },
   'Agra': {
     title: 'Agra Tours & Things to Do 2026 | Taj Mahal Guided Experiences',
     description: '30+ Agra tours from $15. Taj Mahal sunrise tours, skip-the-line entry tickets, Agra Fort heritage walks & same-day tours from Delhi. Licensed guides, free cancellation.',

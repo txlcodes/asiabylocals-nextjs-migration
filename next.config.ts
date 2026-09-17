@@ -43,11 +43,17 @@ const nextConfig: NextConfig = {
   async redirects() {
     const slugRedirects = SLUG_REDIRECTS;
 
-    return Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
-      source: `/:country/:city/${oldSlug}`,
-      destination: `/:country/:city/${newSlug}`,
-      permanent: true,
-    }));
+    return [
+      // "Bali" is the island, not a city: its hub is the country page.
+      { source: '/indonesia/bali', destination: '/indonesia', permanent: true },
+      { source: '/bali', destination: '/indonesia', permanent: true },
+      { source: '/bali/:path*', destination: '/indonesia/:path*', permanent: true },
+      ...Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
+        source: `/:country/:city/${oldSlug}`,
+        destination: `/:country/:city/${newSlug}`,
+        permanent: true,
+      })),
+    ];
   },
 
   // Headers for SEO & security
