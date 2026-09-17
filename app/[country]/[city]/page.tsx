@@ -289,13 +289,17 @@ export default async function CityPage({ params }: Props) {
                 .filter(Boolean)
                 .slice(0, 2)
             : tour.images,
-          // Slim down options — listing only needs price info
+          // The card only needs the 1-person price: keep the first tier of each
+          // option instead of the whole 20-row ladder (1KB per tour).
           options: Array.isArray(tour.options)
-            ? tour.options.map((opt: any) => ({
-                title: opt.title,
-                pricePerPerson: opt.pricePerPerson,
-                groupPricingTiers: opt.groupPricingTiers,
-              }))
+            ? tour.options.map((opt: any) => {
+                let first: any = null;
+                try {
+                  const tiers = typeof opt.groupPricingTiers === 'string' ? JSON.parse(opt.groupPricingTiers) : opt.groupPricingTiers;
+                  if (Array.isArray(tiers) && tiers.length) first = [tiers[0]];
+                } catch {}
+                return { title: opt.title, pricePerPerson: opt.pricePerPerson, groupPricingTiers: first };
+              })
             : tour.options,
           };
         });
@@ -372,8 +376,8 @@ export default async function CityPage({ params }: Props) {
           name: tour.title,
         })),
       }] : []),
-      // Product schema per tour
-      ...tours.map((tour: any) => {
+      // Product schema for the first 100 tours; 616 of them was 530KB of JSON-LD.
+      ...tours.slice(0, 100).map((tour: any) => {
         return {
           '@type': 'Product',
           name: tour.title,
