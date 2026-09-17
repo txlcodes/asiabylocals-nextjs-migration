@@ -9,7 +9,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static pages
   const staticPages = [
-    '', '/about-us', '/privacy-policy', '/terms-and-conditions',
+    '', '/explore', '/about-us', '/privacy-policy', '/terms-and-conditions',
     '/safety-guidelines', '/support', '/supplier',
     '/getyourguide-viator-alternative',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
