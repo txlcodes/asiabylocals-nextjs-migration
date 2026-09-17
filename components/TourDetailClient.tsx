@@ -40,14 +40,17 @@ import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
-import { getTourSpecificFAQs } from '@/lib/tourFaqs';
-import { getTourReviews } from '@/lib/tourReviews';
-import type { TourReview } from '@/lib/tourReviews';
+import type { TourReview, TourReviewData } from '@/lib/tourReviews';
 
 interface TourDetailClientProps {
   tour: any;
   country: string;
   city: string;
+  /** Per-slug FAQs and hardcoded reviews, looked up on the server. The lookup
+   *  tables are ~10MB of TypeScript; importing them here shipped all of it as
+   *  client JS on every tour page. */
+  specificFaqs?: { question: string; answer: string }[];
+  hardcodedReviews?: TourReviewData | null;
 }
 
 
@@ -116,7 +119,7 @@ const isJsonItinerary = (raw: string | null | undefined): boolean => {
   }
 };
 
-const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, country, city }) => {
+const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, country, city, specificFaqs = [], hardcodedReviews = null }) => {
   const [tour, setTour] = useState<any>(initialTour);
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const [selectedDate, setSelectedDate] = useState<string>('');
@@ -1242,7 +1245,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
     // reached the city block below — and the city block is where the internal
     // links to that city's guides live. Tokyo had per-slug FAQs for all 21 tours
     // and so shipped with a single internal link. Keep both, specific first.
-    const specificFAQs = getTourSpecificFAQs(tourTitle, slug) || [];
+    const specificFAQs = specificFaqs || [];
 
     // Fallback generic FAQs for tours without specific ones
     const cityLower = tour?.city?.toLowerCase() || '';
@@ -1610,7 +1613,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           {(() => {
                             // Prefer the real review average when the tour has reviews (DB or hardcoded)
                             const realAvg = realReviewStats?.averageRating;
-                            const hardAvg = getTourReviews(tourSlug)?.averageRating;
+                            const hardAvg = hardcodedReviews?.averageRating;
                             if (realAvg && realAvg > 0) return realAvg.toFixed(1);
                             if (hardAvg && hardAvg > 0) return hardAvg.toFixed(1);
                             // Fallback: consistent rating between 4.0-5.0 based on tour ID
@@ -2952,7 +2955,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                   {/* Section: Traveler Reviews */}
                   {(() => {
-                    const reviewData = getTourReviews(tourSlug);
+                    const reviewData = hardcodedReviews;
                     if (!reviewData && realReviews.length === 0) return null;
 
                     const formatReviewDate = (dateStr: string) => {
@@ -3032,7 +3035,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                         {/* Verified badge — only truthful when every review is our own booking */}
                         {(() => {
-                          const carried = getTourReviews(tourSlug)?.reviews?.some(
+                          const carried = hardcodedReviews?.reviews?.some(
                             r => r.country === 'Verified traveller review'
                           );
                           return (

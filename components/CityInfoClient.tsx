@@ -15,7 +15,7 @@ import {
     Map,
     Wallet
 } from 'lucide-react';
-import { getCityInfoContent, CityInfoData } from '@/lib/cityInfoContent';
+import type { CityInfoData } from '@/lib/cityInfoContent';
 import { fmt } from '@/lib/i18n';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
@@ -25,6 +25,8 @@ interface Props {
     country: string;
     city: string;
     slug: string;
+    /** Looked up on the server: the content tables for every city are ~4MB of TS. */
+    data?: CityInfoData | null;
 }
 
 const AGRA_SIDEBAR = [
@@ -557,10 +559,9 @@ function renderMarkdownText(text: string) {
     });
 }
 
-export default function CityInfoClient({ country, city, slug }: Props) {
+export default function CityInfoClient({ country, city, slug, data = null }: Props) {
     const { t } = useLanguage();
     const router = useRouter();
-    const data = getCityInfoContent(slug);
 
     if (!data) {
         return (

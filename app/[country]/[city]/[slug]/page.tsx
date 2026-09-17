@@ -565,7 +565,7 @@ export default async function SlugPage({ params }: Props) {
             ],
           }) }}
         />
-        <CityInfoClient country={countryName} city={cityName} slug={slug} />
+        <CityInfoClient country={countryName} city={cityName} slug={slug} data={infoContent} />
       </>
     );
   }
@@ -952,7 +952,7 @@ export default async function SlugPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(tourJsonLd) }}
       />
       {/* SEO: visible H1 with city name is rendered by TourDetailClient. No duplicate hidden H1. */}
-      <TourDetailClient tour={tour} city={cityName} country={countryName} />
+      <TourDetailClient tour={tour} city={cityName} country={countryName} specificFaqs={tourFaqs || []} hardcodedReviews={tourReviewData} />
 
       {/* Server-rendered internal links — visible to Google crawler in raw HTML */}
       {otherTourLinks.length > 0 && (
