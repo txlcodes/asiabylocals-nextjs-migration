@@ -43,6 +43,9 @@ export const CITIES: CityData[] = [
   { id: 'tokyo', name: 'Tokyo', image: '/cities-images/tokyo.webp', localAngle: 'Neon & Tradition', guidesCount: 342 },
   { id: 'kyoto', name: 'Kyoto', image: '/kyoto-hero.webp', localAngle: 'Zen & Temples', guidesCount: 184 },
   { id: 'bali', name: 'Ubud', image: '/cities-images/bali.webp', localAngle: 'Spirit & Jungle', guidesCount: 256 },
+  { id: 'canggu', name: 'Canggu', image: '/cities-images/bali.webp', localAngle: 'Surf, Sunsets & Rice Fields', guidesCount: 140 },
+  { id: 'uluwatu', name: 'Uluwatu', image: '/cities-images/bali.webp', localAngle: 'Cliff Temples & Kecak', guidesCount: 96 },
+  { id: 'nusa-penida', name: 'Nusa Penida', image: '/cities-images/bali.webp', localAngle: 'Kelingking & Manta Rays', guidesCount: 118 },
   { id: 'bangkok', name: 'Bangkok', image: '/cities-images/bangkok.webp', localAngle: 'Street Food Capital', guidesCount: 421 },
   { id: 'dubai', name: 'Dubai', image: '/dubai-hero.webp', localAngle: 'Modern Oasis', guidesCount: 287 },
   { id: 'singapore', name: 'Singapore', image: '/cities-images/singapore.webp', localAngle: 'Garden City', guidesCount: 234 },
@@ -779,6 +782,45 @@ export const HOI_AN_INFO_SLUGS = [
   'hoi-an-tailoring-guide',
   'my-son-sanctuary-guide',
   'best-time-to-visit-hoi-an',
+];
+
+export const UBUD_INFO_SLUGS = [
+  'mount-batur-sunrise-guide',
+  'tegallalang-rice-terrace-guide',
+  'ubud-monkey-forest-guide',
+  'ubud-waterfalls-guide',
+  'best-time-to-visit-ubud',
+  'ubud-temples-guide',
+  'day-trips-from-ubud',
+  'getting-around-ubud',
+];
+
+export const CANGGU_INFO_SLUGS = [
+  'canggu-surf-guide',
+  'tanah-lot-guide',
+  'canggu-beach-clubs-guide',
+  'best-time-to-visit-canggu',
+  'day-trips-from-canggu',
+  'getting-around-canggu',
+  'canggu-or-seminyak-or-uluwatu',
+];
+
+export const ULUWATU_INFO_SLUGS = [
+  'uluwatu-temple-kecak-guide',
+  'uluwatu-beaches-guide',
+  'uluwatu-surf-guide',
+  'best-time-to-visit-uluwatu',
+  'day-trips-from-uluwatu',
+  'getting-around-uluwatu',
+];
+
+export const NUSA_PENIDA_INFO_SLUGS = [
+  'getting-to-nusa-penida',
+  'kelingking-beach-guide',
+  'nusa-penida-west-vs-east',
+  'nusa-penida-manta-snorkelling-guide',
+  'best-time-to-visit-nusa-penida',
+  'nusa-penida-day-trip-or-overnight',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

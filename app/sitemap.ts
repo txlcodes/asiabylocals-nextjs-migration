@@ -23,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/nepal/bhaktapur', '/nepal/lumbini',
     '/vietnam', '/vietnam/hanoi', '/vietnam/ho-chi-minh-city', '/vietnam/hoi-an',
     '/vietnam/da-nang', '/vietnam/ha-long', '/vietnam/sapa',
+    '/indonesia', '/indonesia/ubud', '/indonesia/canggu', '/indonesia/uluwatu', '/indonesia/nusa-penida',
   ].map(path => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
@@ -523,6 +524,65 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.75,
   }));
 
+  const ubudInfoPages = [
+    'mount-batur-sunrise-guide',
+    'tegallalang-rice-terrace-guide',
+    'ubud-monkey-forest-guide',
+    'ubud-waterfalls-guide',
+    'best-time-to-visit-ubud',
+    'ubud-temples-guide',
+    'day-trips-from-ubud',
+    'getting-around-ubud',
+  ].map(slug => ({
+    url: `${BASE_URL}/indonesia/ubud/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const cangguInfoPages = [
+    'canggu-surf-guide',
+    'tanah-lot-guide',
+    'canggu-beach-clubs-guide',
+    'best-time-to-visit-canggu',
+    'day-trips-from-canggu',
+    'getting-around-canggu',
+    'canggu-or-seminyak-or-uluwatu',
+  ].map(slug => ({
+    url: `${BASE_URL}/indonesia/canggu/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const uluwatuInfoPages = [
+    'uluwatu-temple-kecak-guide',
+    'uluwatu-beaches-guide',
+    'uluwatu-surf-guide',
+    'best-time-to-visit-uluwatu',
+    'day-trips-from-uluwatu',
+    'getting-around-uluwatu',
+  ].map(slug => ({
+    url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const nusaPenidaInfoPages = [
+    'getting-to-nusa-penida',
+    'kelingking-beach-guide',
+    'nusa-penida-west-vs-east',
+    'nusa-penida-manta-snorkelling-guide',
+    'best-time-to-visit-nusa-penida',
+    'nusa-penida-day-trip-or-overnight',
+  ].map(slug => ({
+    url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
   const daNangInfoPages = [
     'ba-na-hills-golden-bridge-guide',
     'marble-mountains-guide',
@@ -545,7 +605,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.75,
   }));
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages,
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages,
     ...abuDhabiInfoPages,
     ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
 

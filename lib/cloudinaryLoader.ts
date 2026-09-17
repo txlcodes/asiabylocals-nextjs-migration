@@ -49,6 +49,14 @@ function ladderWidth(width: number): number {
   return WIDTHS.find((w) => w >= width) ?? WIDTHS[WIDTHS.length - 1];
 }
 
+/**
+ * A photo uploaded straight to R2 (every country from Bali onwards) is stored
+ * as .../<key>/1600.webp. The other widths sit beside it, so serving a
+ * smaller one is a filename swap. Works whether or not IMAGE_HOST is set,
+ * because these photos have no Cloudinary copy to fall back to.
+ */
+const R2_NATIVE = /^(https:\/\/images\.asiabylocals\.com\/.+)\/(\d+)\.webp$/;
+
 export function cloudinaryLoader({
   src,
   width,
@@ -58,6 +66,8 @@ export function cloudinaryLoader({
   width: number;
   quality?: number;
 }): string {
+  const r2 = typeof src === 'string' ? src.match(R2_NATIVE) : null;
+  if (r2) return `${r2[1]}/${ladderWidth(width)}.webp`;
   if (!isCloudinaryUrl(src)) return src;
 
   if (IMAGE_HOST) {

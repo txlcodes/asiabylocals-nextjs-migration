@@ -15,6 +15,10 @@ import { getHaLongInfoContent } from './haLongInfoContent';
 import { getHanoiInfoContent } from './hanoiInfoContent';
 import { getSapaInfoContent } from './sapaInfoContent';
 import { getHoiAnInfoContent } from './hoiAnInfoContent';
+import { getUbudInfoContent } from './ubudInfoContent';
+import { getCangguInfoContent } from './cangguInfoContent';
+import { getUluwatuInfoContent } from './uluwatuInfoContent';
+import { getNusaPenidaInfoContent } from './nusaPenidaInfoContent';
 import { getDaNangInfoContent } from './daNangInfoContent';
 import { getHoChiMinhCityInfoContent } from './hoChiMinhCityInfoContent';
 import { getSigiriyaInfoContent } from './sigiriyaInfoContent';
@@ -108,6 +112,18 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const hoiAnPage = getHoiAnInfoContent(slug);
     if (hoiAnPage) return hoiAnPage;
+
+    const ubudPage = getUbudInfoContent(slug);
+    if (ubudPage) return ubudPage;
+
+    const cangguPage = getCangguInfoContent(slug);
+    if (cangguPage) return cangguPage;
+
+    const uluwatuPage = getUluwatuInfoContent(slug);
+    if (uluwatuPage) return uluwatuPage;
+
+    const nusaPenidaPage = getNusaPenidaInfoContent(slug);
+    if (nusaPenidaPage) return nusaPenidaPage;
 
     const daNangPage = getDaNangInfoContent(slug);
     if (daNangPage) return daNangPage;

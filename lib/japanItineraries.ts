@@ -57,6 +57,7 @@ import { THAILAND_ITINERARIES } from './thailandItinerariesData';
 import { SRI_LANKA_ITINERARIES } from './sriLankaItinerariesData';
 import { UAE_ITINERARIES } from './uaeItinerariesData';
 import { VIETNAM_ITINERARIES } from './vietnamItinerariesData';
+import { INDONESIA_ITINERARIES } from './indonesiaItinerariesData';
 
 /** Slugs we publish, shortest first. Also drives the sitemap and the hub page. */
 export const ITINERARY_SLUGS = [
@@ -75,6 +76,7 @@ const BY_COUNTRY: Record<string, Record<string, ItineraryData>> = {
   // Vietnam publishes 3, 5, 7 and 10 — the lengths people search — rather than
   // padding every step between them.
   vietnam: VIETNAM_ITINERARIES,
+  indonesia: INDONESIA_ITINERARIES,
 };
 
 export const ITINERARY_COUNTRIES = Object.keys(BY_COUNTRY);

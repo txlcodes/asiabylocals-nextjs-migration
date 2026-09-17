@@ -36,6 +36,16 @@ const COUNTRY_META: Record<string, {
       { name: 'Ho Chi Minh City', slug: 'ho-chi-minh-city', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200481/asiabylocals/tours/can-gio-mangrove-and-monkey-island-trek-in-ho-chi-minh-city/img0.jpg', tagline: 'Saigon street food and the Mekong' },
     ],
   },
+  indonesia: {
+    title: 'Bali Tours & Experiences | Local Operators in Ubud, Canggu, Uluwatu & Nusa Penida | AsiaByLocals',
+    description: 'Book Bali tours run by verified local operators - Mount Batur sunrise treks, Ubud rice terraces and waterfalls, Nusa Penida boat days, Uluwatu cliff temples and Canggu surf lessons. Every operator is one we message directly on WhatsApp.',
+    cities: [
+      { name: 'Ubud', slug: 'ubud', image: '/bali-hero.webp', tagline: 'Rice terraces, waterfalls and Mount Batur' },
+      { name: 'Canggu', slug: 'canggu', image: '/bali-hero.webp', tagline: 'Surf breaks, beach clubs and Tanah Lot' },
+      { name: 'Uluwatu', slug: 'uluwatu', image: '/bali-hero.webp', tagline: 'Cliff temples, Kecak fire dance and surf' },
+      { name: 'Nusa Penida', slug: 'nusa-penida', image: '/bali-hero.webp', tagline: 'Kelingking, Angel\'s Billabong and manta rays' },
+    ],
+  },
   india: {
     title: 'India Tours & Experiences | Local Guides Across India | AsiaByLocals',
     description: 'Discover the best tours across India with licensed local guides. Explore the Golden Triangle — Delhi, Agra & Jaipur — plus Mumbai, Goa, Varanasi & more. Authentic cultural experiences, heritage walks, food tours & private day trips.',
