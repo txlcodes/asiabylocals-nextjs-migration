@@ -2952,9 +2952,9 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                     role="tab"
                     aria-selected={activeTag === tag}
                     onClick={() => setActiveTag(tag)}
-                    className={`shrink-0 px-4 py-2 rounded-full text-[14px] font-semibold border transition-colors whitespace-nowrap ${activeTag === tag ? 'bg-[#001A33] text-white border-[#001A33]' : 'bg-white text-[#001A33] border-gray-300 hover:border-[#001A33]'}`}
+                    className={`shrink-0 px-4 py-2 rounded-full text-[14px] font-semibold border transition-colors whitespace-nowrap ${activeTag === tag ? 'bg-[#10B981] text-white border-[#10B981]' : 'bg-white text-[#001A33] border-gray-300 hover:border-[#10B981] hover:text-[#10B981]'}`}
                   >
-                    {tag === 'all' ? 'All' : tag} <span className={activeTag === tag ? 'text-gray-300' : 'text-gray-500'}>{n}</span>
+                    {tag === 'all' ? 'All' : tag} <span className={activeTag === tag ? 'text-white/80' : 'text-gray-500'}>{n}</span>
                   </button>
                 ))}
               </div>
@@ -3164,7 +3164,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 <button
                   type="button"
                   onClick={() => setVisibleCount((c) => c + PAGE)}
-                  className="px-6 py-3 rounded-xl bg-white border-2 border-[#001A33] text-[#001A33] font-black text-[15px] hover:bg-[#001A33] hover:text-white transition-colors"
+                  className="px-6 py-3 rounded-xl bg-[#10B981] text-white font-black text-[15px] hover:bg-[#0ea371] transition-colors shadow-sm"
                 >
                   Show more ({sortedTours.length - visibleCount} left)
                 </button>
