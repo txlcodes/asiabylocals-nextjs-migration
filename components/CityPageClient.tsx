@@ -1,9 +1,10 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
+import { tagsForTitle, tagCounts } from '@/lib/tourTags';
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
@@ -2734,6 +2735,13 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   const [filterCategory, setFilterCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [sortBy, setSortBy] = useState<string>('recommended');
+  // Topic chips (Mount Batur, Waterfalls, Surf...) and a paged grid. Ubud has
+  // 600+ tours; rendering every card at once made a 7MB page.
+  const [activeTag, setActiveTag] = useState<string>('all');
+  const PAGE = 24;
+  const [visibleCount, setVisibleCount] = useState(PAGE);
+  const availableTags = useMemo(() => tagCounts(tours), [tours]);
+  useEffect(() => { setVisibleCount(PAGE); }, [activeTag, filterCategory, searchQuery, sortBy]);
 
   // Get city info with defaults
   const cityInfo = CITY_DESCRIPTIONS[city] || {
@@ -2757,6 +2765,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
   // Filter tours
   const filteredTours = tours.filter(tour => {
     const matchesCategory = filterCategory === 'all' || tour.category === filterCategory;
+    if (activeTag !== 'all' && !tagsForTitle(tour.title).includes(activeTag)) return false;
     const matchesSearch = searchQuery === '' ||
       tour.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       (tour.shortDescription && tour.shortDescription.toLowerCase().includes(searchQuery.toLowerCase()));
@@ -2803,21 +2812,15 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
     return preferredTitles.findIndex(pt => t === pt.toLowerCase().trim());
   };
 
-  // Helper function to generate unique random rating between 4.0 and 5.0 for each tour
-  const calculateRating = (tour: any) => {
+  // Rating shown on the card: the real average from the review data when the
+  // tour has reviews, the hand-set figure for the owned Agra/Delhi tours, and
+  // otherwise nothing (the card says "New"). The old version derived a number
+  // from the tour id, which is a fabricated rating.
+  const calculateRating = (tour: any): number | null => {
     const prefIndex = matchPreferred(tour.title);
-
-    if (prefIndex !== -1) {
-      return preferredRatings[prefIndex];
-    }
-
-    // Generate a consistent random rating based on tour ID
-    const seed = parseInt(tour.id) || 0;
-    const random = (seed * 9301 + 49297) % 233280;
-    const normalized = random / 233280;
-
-    // Scale down the non-preferred tours so they receive between 4.1 and 4.6
-    return 4.1 + (normalized * 0.5);
+    if (prefIndex !== -1) return preferredRatings[prefIndex];
+    if (typeof tour.rating === 'number' && tour.rating > 0) return tour.rating;
+    return null;
   };
 
   // Sort tours
@@ -2832,9 +2835,10 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
       if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
 
       // Sort by rating (descending)
-      const ratingA = calculateRating(a) || 0;
-      const ratingB = calculateRating(b) || 0;
-      return ratingB - ratingA;
+      // A 5.0 from one review should not outrank a 4.8 from five thousand:
+      // weight the rating by the log of the review count.
+      const score = (t: any) => (calculateRating(t) ?? 0) * Math.log10((t.reviewCount || 0) + 2);
+      return score(b) - score(a);
     } else if (sortBy === 'price-low') {
       return a.pricePerPerson - b.pricePerPerson;
     } else if (sortBy === 'price-high') {
@@ -2931,17 +2935,32 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
             <h2 className="text-3xl font-black text-[#001A33] mb-6">
               Popular Tours & Experiences in {city}
             </h2>
+            {availableTags.length >= 3 && (
+              <div className="flex gap-2 overflow-x-auto pb-3 mb-5 -mx-1 px-1" role="tablist" aria-label="Filter tours by topic">
+                {[['all', tours.length] as [string, number], ...availableTags].map(([tag, n]) => (
+                  <button
+                    key={tag}
+                    type="button"
+                    role="tab"
+                    aria-selected={activeTag === tag}
+                    onClick={() => setActiveTag(tag)}
+                    className={`shrink-0 px-4 py-2 rounded-full text-[14px] font-semibold border transition-colors whitespace-nowrap ${activeTag === tag ? 'bg-[#001A33] text-white border-[#001A33]' : 'bg-white text-[#001A33] border-gray-300 hover:border-[#001A33]'}`}
+                  >
+                    {tag === 'all' ? 'All' : tag} <span className={activeTag === tag ? 'text-gray-300' : 'text-gray-500'}>{n}</span>
+                  </button>
+                ))}
+              </div>
+            )}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
-              {sortedTours.map((tour, index) => {
+              {sortedTours.slice(0, visibleCount).map((tour, index) => {
                 const tourSlug = tour.slug;
                 if (!tourSlug) return null; // Skip tours without valid slugs
                 const hasSkipLine = tour.included && tour.included.toLowerCase().includes('skip');
                 const hasPickup = tour.meetingPoint || (tour.included && tour.included.toLowerCase().includes('pickup'));
 
-                // Calculate rating (random between 4.0 and 5.0, unique per tour)
                 const rating = calculateRating(tour);
-                const displayRating = rating.toFixed(1);
-                const isTopRated = rating >= 4.5;
+                const displayRating = rating === null ? '' : rating.toFixed(1);
+                const isTopRated = rating !== null && rating >= 4.5 && (tour.reviewCount || 0) >= 10;
 
                 // Parse duration to extract hours
                 const durationMatch = tour.duration?.match(/(\d+)\s*hours?/i) || tour.duration?.match(/(\d+)\s*hrs?/i);
@@ -3087,6 +3106,9 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                       {/* Rating & Activity Provider Row */}
                       <div className="flex items-center justify-between mb-1 md:mb-3">
                         {/* Rating */}
+                        {rating === null ? (
+                          <span className="text-[12px] md:text-[13px] font-semibold text-gray-500">New on AsiaByLocals</span>
+                        ) : (
                         <div className="flex items-center gap-1.5">
                           <div className="flex items-center gap-0.5">
                             {[...Array(5)].map((_, i) => {
@@ -3111,7 +3133,9 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                             })}
                           </div>
                           <span className="text-[12px] md:text-[14px] font-black text-[#001A33]">{displayRating}</span>
+                          {tour.reviewCount > 0 && <span className="text-[11px] md:text-[12px] text-gray-500">({tour.reviewCount})</span>}
                         </div>
+                        )}
                       </div>
 
                       {/* Price Row */}
@@ -3127,6 +3151,17 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
                 );
               })}
             </div>
+            {sortedTours.length > visibleCount && (
+              <div className="text-center mb-8">
+                <button
+                  type="button"
+                  onClick={() => setVisibleCount((c) => c + PAGE)}
+                  className="px-6 py-3 rounded-xl bg-white border-2 border-[#001A33] text-[#001A33] font-black text-[15px] hover:bg-[#001A33] hover:text-white transition-colors"
+                >
+                  Show more ({sortedTours.length - visibleCount} left)
+                </button>
+              </div>
+            )}
           </section>
         )}
 

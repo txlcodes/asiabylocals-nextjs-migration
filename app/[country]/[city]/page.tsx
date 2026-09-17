@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
 import { countryDisplayName } from '@/lib/countryName';
+import { getTourReviews } from '@/lib/tourReviews';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -255,8 +256,14 @@ export default async function CityPage({ params }: Props) {
           }
         }
         // Only send fields the listing page actually uses — keeps payload small & ISR-cacheable
-        tours = toursArray.map((tour: any) => ({
+        tours = toursArray.map((tour: any) => {
+          // Real review figures only. Cards and schema used to invent a rating
+          // from the tour id, which is exactly the fake signal Google penalises.
+          const rv = getTourReviews(tour.slug);
+          return {
           id: tour.id,
+          rating: rv && rv.totalReviews > 0 ? rv.averageRating : null,
+          reviewCount: rv && rv.totalReviews > 0 ? rv.totalReviews : 0,
           title: tour.title,
           slug: tour.slug || `tour-${tour.id}`,
           city: tour.city,
@@ -266,15 +273,21 @@ export default async function CityPage({ params }: Props) {
           pricePerPerson: tour.pricePerPerson,
           currency: tour.currency,
           status: tour.status,
-          shortDescription: tour.shortDescription,
-          included: tour.included,
-          meetingPoint: tour.meetingPoint,
+          // The card only searches the description and only tests included for
+          // "skip"/"pickup", so ship the short form. Ubud's 600 tours were a
+          // 1.6MB RSC payload with the full fields.
+          shortDescription: typeof tour.shortDescription === 'string' ? tour.shortDescription.slice(0, 160) : tour.shortDescription,
+          included: typeof tour.included === 'string'
+            ? [/skip/i.test(tour.included) ? 'skip' : '', /pickup/i.test(tour.included) ? 'pickup' : ''].filter(Boolean).join(' ')
+            : tour.included,
+          meetingPoint: tour.meetingPoint ? 'yes' : tour.meetingPoint,
           tourTypes: tour.tourTypes,
           // Only keep Cloudinary URLs, drop base64 blobs
           images: Array.isArray(tour.images)
             ? tour.images
                 .map((img: any) => (typeof img === 'string' && img.startsWith('data:') ? '' : img))
                 .filter(Boolean)
+                .slice(0, 2)
             : tour.images,
           // Slim down options — listing only needs price info
           options: Array.isArray(tour.options)
@@ -284,7 +297,8 @@ export default async function CityPage({ params }: Props) {
                 groupPricingTiers: opt.groupPricingTiers,
               }))
             : tour.options,
-        }));
+          };
+        });
       }
     }
   } catch (e) {
@@ -350,7 +364,8 @@ export default async function CityPage({ params }: Props) {
         description: `Top-rated guided tours in ${cityName} by licensed local experts`,
         url: cityPageUrl,
         numberOfItems: tours.length,
-        itemListElement: tours.map((tour: any, idx: number) => ({
+        // 100 entries is plenty for the rich result; all 600 was 660KB of JSON-LD.
+        itemListElement: tours.slice(0, 100).map((tour: any, idx: number) => ({
           '@type': 'ListItem',
           position: idx + 1,
           url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}`,
@@ -359,9 +374,6 @@ export default async function CityPage({ params }: Props) {
       }] : []),
       // Product schema per tour
       ...tours.map((tour: any) => {
-        const tSeed = parseInt(tour.id) || 0;
-        const tRandom = (tSeed * 9301 + 49297) % 233280;
-        const tNorm = tRandom / 233280;
         return {
           '@type': 'Product',
           name: tour.title,
@@ -370,7 +382,7 @@ export default async function CityPage({ params }: Props) {
           url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}`,
           brand: { '@type': 'Brand', name: 'AsiaByLocals' },
           offers: { '@type': 'Offer', price: tour.pricePerPerson, priceCurrency: tour.currency || 'USD', availability: tour.status === 'approved' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock', url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}` },
-          aggregateRating: { '@type': 'AggregateRating', ratingValue: (4.0 + (tNorm * 1.0)).toFixed(1), reviewCount: Math.floor(tNorm * 100) + 20, bestRating: '5' },
+          ...(tour.rating ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: tour.rating.toFixed(1), reviewCount: tour.reviewCount, bestRating: '5' } } : {}),
         };
       }),
       // BreadcrumbList

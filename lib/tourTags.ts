@@ -1,0 +1,45 @@
+// Topic tags for the city listing filter chips, derived from the tour title.
+// Order here is display priority when counts tie. A tag only shows on a city
+// page when at least MIN_TAG_COUNT tours carry it, so small cities stay clean.
+export const MIN_TAG_COUNT = 4;
+
+const RULES: [string, string[]][] = [
+  ['Mount Batur', ['batur']],
+  ['Waterfalls', ['waterfall', 'tibumana', 'tegenungan', 'kanto lampo', 'sekumpul', 'tukad cepung', 'nungnung', 'banyumala', 'gitgit']],
+  ['Rice terraces', ['rice terrace', 'rice field', 'tegalalang', 'tegallalang', 'jatiluwih']],
+  ['Temples', ['temple', 'tirta empul', 'lempuyang', 'besakih', 'tanah lot', 'ulun danu', 'gate of heaven', 'gates of heaven']],
+  ['ATV & rafting', ['atv', 'quad', 'rafting', 'buggy', 'tubing', 'dirt bike']],
+  ['Snorkelling & diving', ['snorkel', 'diving', 'dive', 'manta', 'scuba', 'sea walk']],
+  ['Nusa Penida', ['penida', 'kelingking', 'diamond beach', 'broken beach']],
+  ['Uluwatu & Kecak', ['uluwatu', 'kecak', 'fire dance']],
+  ['Surf', ['surf']],
+  ['Swings & photo spots', ['swing', 'instagram', 'photo', 'photoshoot']],
+  ['Cooking & food', ['cooking', 'food', 'culinary', 'market', 'dinner', 'tasting', 'coffee']],
+  ['Spa & wellness', ['spa', 'massage', 'yoga', 'wellness', 'healing', 'retreat', 'sound', 'meditation', 'flower bath']],
+  ['Classes & crafts', ['class', 'workshop', 'jewelry', 'jewellery', 'silver', 'carving', 'batik', 'painting', 'pottery', 'craft']],
+  ['Monkey Forest', ['monkey']],
+  ['East Bali', ['sidemen', 'tirta gangga', 'amed', 'tulamben', 'east bali', 'candidasa', 'taman ujung']],
+  ['North Bali', ['north bali', 'munduk', 'lovina', 'dolphin', 'bedugul', 'handara', 'wanagiri', 'twin lakes']],
+  ['Beach clubs & sunsets', ['beach club', 'daybed', 'sunset', 'jimbaran', 'pool']],
+  ['Private day tours', ['private', 'customiz', 'customis', 'full-day', 'full day', 'highlights']],
+  ['Transfers & drivers', ['transfer', 'airport', 'driver', 'charter', 'fast boat', 'shuttle']],
+  ['Trekking & cycling', ['trek', 'hike', 'hiking', 'cycling', 'bike', 'e-bike', 'ridge walk', 'campuhan']],
+  ['Multi-day', ['2-day', '3-day', '4-day', '2 day', '3 day', 'days ', 'night stay', '2d1n']],
+  ['Wildlife & parks', ['zoo', 'safari', 'elephant', 'bird', 'butterfly', 'turtle', 'horse']],
+];
+
+export function tagsForTitle(title: string): string[] {
+  const t = (title || '').toLowerCase();
+  const out: string[] = [];
+  for (const [tag, keys] of RULES) {
+    if (keys.some((k) => t.includes(k))) out.push(tag);
+  }
+  return out;
+}
+
+/** Tags worth showing for a list of tours: [tag, count], most common first. */
+export function tagCounts(tours: { title: string }[]): [string, number][] {
+  const counts = new Map<string, number>();
+  for (const tour of tours) for (const tag of tagsForTitle(tour.title)) counts.set(tag, (counts.get(tag) || 0) + 1);
+  return [...counts.entries()].filter(([, n]) => n >= MIN_TAG_COUNT).sort((a, b) => b[1] - a[1]);
+}
