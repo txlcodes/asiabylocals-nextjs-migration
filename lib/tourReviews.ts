@@ -21322,6 +21322,7 @@ if (slug === "hong-island-boat-tour") {
     }
 
 
+
     // --- INDONESIA TOURS (2026-09, real reviews from the same source listing) ---
     if (slug === 'safari-park-and-tegenungan-waterfall-day-trip-in-ubud') {
         return {
@@ -21981,7 +21982,7 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
-    if (slug === 'waterfall-bangli-guided-tour') {
+    if (slug === 'bangli-hidden-gems-waterfall-tour-in-ubud-2') {
         return {
             averageRating: 5.0,
             totalReviews: 1,
@@ -25130,6 +25131,29 @@ if (slug === "hong-island-boat-tour") {
             reviews: [
                 { author: "Sarah", country: "Verified traveller review", rating: 5, date: "2026-07-01", text: "The day was perfect! Mudi is a very knowledgeable guide and he made sure I had the best experience." },
                 { author: "Pieter", country: "Verified traveller review", rating: 5, date: "2026-06-06", text: "Alles was leuk. Een privé chauffeur Mudi die foto's nam en me alle plekjes van de tour liet zien inclusief Bali Swing wat niet in de activiteit gepland stond. En me mee nam in eerste ervaring in een locale Boeddhistische Tempel" }
+            ]
+        };
+    }
+
+    if (slug === 'east-bali-private-tour-with-lempuyang-temple') {
+        return {
+            averageRating: 4.58,
+            totalReviews: 19,
+            guideRating: 5.0,
+            valueRating: 4.71,
+            reviews: [
+                { author: "Marian", country: "Verified traveller review", rating: 5, date: "2026-05-17", text: "The Sopi is an excellent guide, very friendly. Everything was perfect." },
+                { author: "Rodrigo", country: "Verified traveller review", rating: 5, date: "2026-05-08", text: "Fantastic experience with local expertise guide who helped us all the time with all needs. He was opened to change and adpt the tour following our desire. Worthy tour and recomended!" },
+                { author: "Alison", country: "Verified traveller review", rating: 5, date: "2026-03-19", text: "There were some issues at the start of the day as our guide had car trouble so we were 2.5 hours late starting and we had to chase it up to find out what was happening. We were sent a replacement guide Ajik who was excellent nothing was too much trouble everything else went smoothly and they paid for our lunch to make up for making us wait in the morning" },
+                { author: "Linda", country: "Verified traveller review", rating: 5, date: "2026-01-25", text: "The relaxed feel, we were not rushed was great. A nice comfortable & air conditioned car. Our guide spoke good English, answered all our questions and was very helpful. Wayan Supena was also a great driver, very safe. It was a great mix of activities." },
+                { author: "Sean", country: "Verified traveller review", rating: 5, date: "2026-01-01", text: "Our driver, Wayan Supena, met us on time at the Port of Benoa on time. We had a requested change to our set itinerary and after a short call he was able to confirm our change was good to go & off we went. Saw Lempuyang, Tirta Gangga then off to the Ubud Market. He was very helpful, patient and accommodating. Driving was calm & cautious. Although the Bali traffic delayed our return somewhat, cutting into his person time, he remained courteous and determined to keep is happy. We had a great day. Thank you." },
+                { author: "Hira", country: "Verified traveller review", rating: 5, date: "2025-12-29", text: "Lempuyang temple is beautiful! Long queue for photos so it’s better to arrive early. Do carry spare cash for using restrooms. The guide Boxen was friendly and helpful. He made an effort to take us to take us to the beach even though the initial route was blocked due to rain. Would recommend taking the tour with family and friends." },
+                { author: "Елена", country: "Verified traveller review", rating: 5, date: "2025-12-21", text: "An excellent tour, we loved everything. I especially wanted to mention the professionalism of our driver-guide, Sopen. He's a very personable person, a super driver, and, as it turned out, an excellent videographer, who helped us choose the right angle and take amazing photos. Thanks to him for a wonderful time." },
+                { author: "Yasmin", country: "Verified traveller review", rating: 5, date: "2025-10-27", text: "pretty views , had the loviest guide / driver Yudi he 100% made the day , learnt lots about the temples and other information." },
+                { author: "Lily", country: "Verified traveller review", rating: 4, date: "2026-09-12", text: "Our driver Andrew was fantastic, good driver , very friendly , polite and pleasant Lempuyang temple was fantastic, also Tirta Gangga and Virgin beach were good" },
+                { author: "Traveller", country: "Verified traveller review", rating: 1, date: "2026-08-15", text: "l'agenzia si è dimenticata di mandarci l'autista" },
+                { author: "Maurice", country: "Verified traveller review", rating: 5, date: "2026-07-19", text: "Wunderschöne Aktivitäten. Unser Fahrer Supena war ein hervorragender Fahrer und hat uns überall sicher hingeführt." },
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-04", text: "Güzel geçti, şöför gayet iyi biriydi çok güzel fotoğraf çekiyor." }
             ]
         };
     }
@@ -31065,7 +31089,7 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
-    if (slug === 'temple-lempuyang-spiritual-tour') {
+    if (slug === 'east-bali-private-tour-with-lempuyang-temple-2') {
         return {
             averageRating: 4.92,
             totalReviews: 34,

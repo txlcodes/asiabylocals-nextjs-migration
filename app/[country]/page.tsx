@@ -40,10 +40,10 @@ const COUNTRY_META: Record<string, {
     title: 'Bali Tours & Experiences | Local Operators in Ubud, Canggu, Uluwatu & Nusa Penida | AsiaByLocals',
     description: 'Book Bali tours run by verified local operators - Mount Batur sunrise treks, Ubud rice terraces and waterfalls, Nusa Penida boat days, Uluwatu cliff temples and Canggu surf lessons. Every operator is one we message directly on WhatsApp.',
     cities: [
-      { name: 'Ubud', slug: 'ubud', image: '/bali-hero.webp', tagline: 'Rice terraces, waterfalls and Mount Batur' },
-      { name: 'Canggu', slug: 'canggu', image: '/bali-hero.webp', tagline: 'Surf breaks, beach clubs and Tanah Lot' },
-      { name: 'Uluwatu', slug: 'uluwatu', image: '/bali-hero.webp', tagline: 'Cliff temples, Kecak fire dance and surf' },
-      { name: 'Nusa Penida', slug: 'nusa-penida', image: '/bali-hero.webp', tagline: 'Kelingking, Angel\'s Billabong and manta rays' },
+      { name: 'Ubud', slug: 'ubud', image: 'https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp', tagline: 'Rice terraces, waterfalls and Mount Batur' },
+      { name: 'Canggu', slug: 'canggu', image: 'https://images.asiabylocals.com/asiabylocals/tours/bali-private-surf-lesson-with-surf-photos-and-videos/img0/1600.webp', tagline: 'Surf breaks, beach clubs and Tanah Lot' },
+      { name: 'Uluwatu', slug: 'uluwatu', image: 'https://images.asiabylocals.com/asiabylocals/tours/kecak-fire-dance-show-and-uluwatu-temple-entry-ticket/img0/1600.webp', tagline: 'Cliff temples, Kecak fire dance and surf' },
+      { name: 'Nusa Penida', slug: 'nusa-penida', image: 'https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img2/1600.webp', tagline: 'Kelingking, Angel\'s Billabong and manta rays' },
     ],
   },
   india: {

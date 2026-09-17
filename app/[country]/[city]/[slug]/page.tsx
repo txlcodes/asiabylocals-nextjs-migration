@@ -321,6 +321,11 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'chicken-island-sunset-sunset-tour': 'chicken-island-sunset-tour',
   'bangkok-ayutthaya-day-trip': 'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch',
   'bangkok-canal-tour': 'bangkok-longtail-boat-canal-cruise-hidden-temples',
+  // ---- BALI (2026-09-17): the only true clones in the 934-tour batch are two
+  // same-operator double listings (Bali paradise tour) with identical titles.
+  // Same-title pages from different operators are left alone.
+  'bangli-hidden-gems-waterfall-tour-in-ubud-2': 'bangli-hidden-gems-waterfall-tour-in-ubud',
+  'ubud-hidden-gems-waterfall-tour-ubud-2': 'ubud-hidden-gems-waterfall-tour-ubud',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
