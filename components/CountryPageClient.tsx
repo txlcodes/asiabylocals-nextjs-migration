@@ -218,9 +218,13 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
 export default function CountryPageClient({ country, countrySlug, cities, cityTours, cityTourCounts }: CountryPageClientProps) {
   const faqs = countrySlug === 'india' ? INDIA_FAQS : countrySlug === 'thailand' ? THAILAND_FAQS : countrySlug === 'japan' ? JAPAN_FAQS : [];
 
-  // Featured cities (first 3) vs other cities
-  const featuredCities = cities.slice(0, 3);
-  const otherCities = cities.slice(3);
+  // People search for "Bali", not "Indonesia": the page says Bali everywhere
+  // a country name appears, and all four Bali areas sit in the top row.
+  const isBali = countrySlug === 'indonesia';
+  const label = isBali ? 'Bali' : country;
+  const featuredCount = isBali ? 4 : 3;
+  const featuredCities = cities.slice(0, featuredCount);
+  const otherCities = cities.slice(featuredCount);
 
   // Client-side fetching for cities that timed out during SSR
   const [allCityTours, setAllCityTours] = useState<Record<string, Tour[]>>(cityTours);
@@ -288,7 +292,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         <div className="max-w-7xl mx-auto px-4 py-16 md:py-24 relative z-10">
           <Breadcrumbs country={country} />
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-black mt-6 mb-6 leading-tight">
-            Explore <span className="text-[#10B981]">{country}</span> with Local Guides
+            Explore <span className="text-[#10B981]">{label}</span> with Local Guides
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-3xl leading-relaxed font-medium">
             {countrySlug === 'india'
@@ -297,6 +301,8 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
               ? 'From dawn at Fushimi Inari\'s ten thousand torii gates to Tokyo\'s neon backstreets and Osaka\'s street-food alleys — experience Japan with local guides who read the menus, know the etiquette, and skip the queues.'
               : countrySlug === 'thailand'
               ? 'From Bangkok\'s glittering temples and floating markets to Chiang Mai\'s ethical elephant sanctuaries and the limestone islands of Krabi — experience Thailand with local guides who take you beyond the tourist trail.'
+              : isBali
+              ? 'Mount Batur before dawn, the Tegallalang terraces before the coaches, manta rays off Nusa Penida and the Kecak at Uluwatu as the sun goes down. Every tour here is run by a Bali operator we message directly, never through a reseller.'
               : `Discover ${country}'s most incredible destinations with expert local guides who share authentic, off-the-beaten-path experiences.`
             }
           </p>
@@ -423,16 +429,16 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         {/* Featured Cities Section */}
         <section className="mb-16">
           <h2 className="text-3xl font-black text-[#001A33] mb-3">
-            {countrySlug === 'india' ? 'The Golden Triangle & Beyond' : `Top Destinations in ${country}`}
+            {countrySlug === 'india' ? 'The Golden Triangle & Beyond' : `Top Destinations in ${label}`}
           </h2>
           <p className="text-gray-600 font-medium mb-8 max-w-2xl">
             {countrySlug === 'india'
               ? 'Start with India\'s most legendary cities — each one a world of its own.'
-              : `Explore ${country}'s most popular destinations with expert local guides.`
+              : `Explore ${label}'s most popular destinations with expert local guides.`
             }
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+          <div className={`grid grid-cols-1 md:grid-cols-3 ${featuredCount === 4 ? 'lg:grid-cols-4' : ''} gap-6 mb-12`}>
             {featuredCities.map(city => (
               <Link
                 key={city.slug}
@@ -502,10 +508,10 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         {otherCities.length > 0 && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-3">
-              More Destinations in {country}
+              More Destinations in {label}
             </h2>
             <p className="text-gray-600 font-medium mb-8">
-              Go beyond the Golden Triangle — discover {country}'s hidden gems.
+              {countrySlug === 'india' ? `Go beyond the Golden Triangle — discover ${country}'s hidden gems.` : `Smaller places worth a day of your ${label} trip.`}
             </p>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -575,7 +581,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         {(countrySlug === 'japan' || countrySlug === 'thailand') && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Essential {country} Travel Guides
+              Essential {label} Travel Guides
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {(countrySlug === 'japan'
@@ -730,7 +736,7 @@ export default function CountryPageClient({ country, countrySlug, cities, cityTo
         {faqs.length > 0 && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-6">
-              FAQs About Traveling in {country}
+              FAQs About Traveling in {label}
             </h2>
             <div className="space-y-6 max-w-3xl">
               {faqs.map((faq, index) => (
