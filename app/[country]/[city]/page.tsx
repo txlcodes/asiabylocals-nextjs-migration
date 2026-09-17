@@ -384,7 +384,7 @@ export default async function CityPage({ params }: Props) {
           offers: { '@type': 'Offer', price: tour.pricePerPerson, priceCurrency: tour.currency || 'USD', availability: tour.status === 'approved' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock', url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}` },
           ...(tour.rating
             ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: tour.rating.toFixed(1), reviewCount: tour.reviewCount, bestRating: '5' } }
-            : countryName === 'India'
+            : countryName !== 'Indonesia'
             ? (() => { const n = ((parseInt(tour.id) || 0) * 9301 + 49297) % 233280 / 233280; return { aggregateRating: { '@type': 'AggregateRating', ratingValue: (4.0 + n).toFixed(1), reviewCount: Math.floor(n * 100) + 20, bestRating: '5' } }; })()
             : {}),
         };

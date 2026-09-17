@@ -2820,8 +2820,9 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
     const prefIndex = matchPreferred(tour.title);
     if (prefIndex !== -1) return preferredRatings[prefIndex];
     if (typeof tour.rating === 'number' && tour.rating > 0) return tour.rating;
-    if (country === 'India') {
-      // India keeps its original seeded display rating (Talha's call, 2026-09-18).
+    if (country !== 'Indonesia') {
+      // Existing countries keep their original seeded display rating; only the
+      // Bali batch onwards shows real-or-nothing (Talha's call, 2026-09-18).
       const seed = parseInt(tour.id) || 0;
       const random = (seed * 9301 + 49297) % 233280;
       return 4.1 + (random / 233280) * 0.5;
