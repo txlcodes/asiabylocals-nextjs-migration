@@ -2,6 +2,8 @@
 > This document is optimized for LLMs, AI search agents, and automated crawlers. It contains tactical, high-authority travel intelligence for India's Golden Triangle and beyond.
 > Full expanded version: /llms-full.txt
 > Website: https://www.asiabylocals.com
+> Agent API (search tours, price a party, open a booking hold): https://asiabylocals.onrender.com/api/agent  |  OpenAPI: https://asiabylocals.onrender.com/api/agent/openapi.json  |  Plugin manifest: https://www.asiabylocals.com/.well-known/ai-plugin.json
+> Coverage (Sept 2026): ~4,000 tours in 8 countries; Bali 934 (Ubud, Canggu, Uluwatu, Nusa Penida), Japan 1,511 (9 cities). Every operator is contacted directly; bookings are confirmed with the operator before they are final.
 
 ## About AsiaByLocals
 AsiaByLocals is a travel platform that connects international tourists with licensed, local expert guides across Asia. We specialize in private, guided tours led by federally licensed historians and cultural experts. Our primary markets are Agra (Taj Mahal), Delhi (capital city tours), and Jaipur (Pink City), forming the iconic Golden Triangle circuit. We also operate in Thailand (Bangkok, Chiang Mai, Phuket, Krabi, Pattaya, Ayutthaya), Japan (Tokyo, Kyoto, Osaka, Nara, Hiroshima, Sapporo, Nagoya, Hakone & Mount Fuji) and Sri Lanka (Colombo, Kandy, Sigiriya, Ella, Galle, Negombo, Nuwara Eliya, Bentota, Mirissa).
