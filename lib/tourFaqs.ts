@@ -1,6 +1,7 @@
 // Tour-specific FAQ data — extracted from TourDetailClient.tsx for server-side access
 // This is a pure function with zero React dependencies
 import { INDONESIA_FAQS } from './tourFaqsIndonesia';
+import { JAPAN_FAQS } from './tourFaqsJapan';
 
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
@@ -8,6 +9,7 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
   // Bali batch lives in its own keyed map: this function is already past the
   // size tsc will flow-analyse, so new countries go in maps, not more ifs.
   if (slug && INDONESIA_FAQS[slug]) return INDONESIA_FAQS[slug];
+  if (slug && JAPAN_FAQS[slug]) return JAPAN_FAQS[slug];
 
   // --- NEPAL TOURS (2026-09) ---
   if (slug === 'bhaktapur-durbar-square-spiritual-spiritual-tour') {

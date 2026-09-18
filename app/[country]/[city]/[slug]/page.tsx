@@ -326,6 +326,8 @@ const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // Same-title pages from different operators are left alone.
   'bangli-hidden-gems-waterfall-tour-in-ubud-2': 'bangli-hidden-gems-waterfall-tour-in-ubud',
   'ubud-hidden-gems-waterfall-tour-ubud-2': 'ubud-hidden-gems-waterfall-tour-ubud',
+  // ---- JAPAN density batch (2026-09-18): one same-operator double listing.
+  'hiroshima-and-miyajima-day-trip-by-bullet-train-2': 'miyajima-trip-full-day-tour',
 };
 
 const SEO_TITLE_OVERRIDES: Record<string, string> = {
