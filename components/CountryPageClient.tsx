@@ -167,7 +167,7 @@ function TourCarousel({ cityName, citySlug, tagline, countrySlug, tours }: {
         {tours.filter(tour => tour.slug).map(tour => (
           <Link
             key={tour.id}
-            href={`/${countrySlug}/${citySlug.toLowerCase()}/${tour.slug}`}
+            href={`/${countrySlug}/${citySlug.toLowerCase()}/${tour.slug || `tour-${tour.id}`}`}
             className="group flex-shrink-0 w-[220px] sm:w-[280px] lg:w-[300px] bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-[#10B981]/30 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 snap-start"
           >
             <div className="relative h-32 sm:h-44 overflow-hidden">

@@ -66,11 +66,8 @@ export default function HomePage() {
         url: 'https://www.asiabylocals.com',
         description: 'Discover authentic local tours and cultural experiences across Asia with verified local guides.',
         publisher: { '@id': 'https://www.asiabylocals.com/#organization' },
-        potentialAction: {
-          '@type': 'SearchAction',
-          target: 'https://www.asiabylocals.com/search?q={search_term_string}',
-          'query-input': 'required name=search_term_string',
-        },
+        // No SearchAction: the site has no /search route, and the template URL
+        // sat in GSC as a 404 for months.
       },
     ],
   };

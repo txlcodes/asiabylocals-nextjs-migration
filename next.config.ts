@@ -1,5 +1,6 @@
 import type { NextConfig } from 'next';
 import { SLUG_REDIRECTS } from './lib/redirectedSlugs';
+import { CITY_URL_MAP } from './lib/cityCountryMap';
 
 const nextConfig: NextConfig = {
   // Keep all URLs identical — no trailing slashes added
@@ -48,6 +49,24 @@ const nextConfig: NextConfig = {
       { source: '/indonesia/bali', destination: '/indonesia', permanent: true },
       { source: '/bali', destination: '/indonesia', permanent: true },
       { source: '/bali/:path*', destination: '/indonesia/:path*', permanent: true },
+      // Agra guide slugs once leaked under other cities' paths (GSC 404s since March).
+      { source: '/:country(japan|thailand|sri-lanka|vietnam|uae|nepal|indonesia)/:city/:slug(taj-mahal-ticket-price-2026|taj-mahal-opening-time|is-taj-mahal-closed-on-friday|1-day-agra-itinerary|delhi-to-agra|places-to-visit-in-agra|things-to-do-in-agra|same-day-agra-tour-from-delhi|best-time-to-visit-agra|agra-travel-guide-2026)', destination: '/india/agra/:slug', permanent: true },
+      // Deleted tours with no close replacement: send the visitor to the city page rather than a 404.
+      { source: '/thailand/chiang-mai/:slug(huai-kaeo-waterfall-guided-tour|bua-tong-sticky-waterfall-adventure-tour)', destination: '/thailand/chiang-mai', permanent: true },
+      { source: '/thailand/phuket/:slug(panak-island-guided-tour|phuket-kathu-food-tour)', destination: '/thailand/phuket', permanent: true },
+      { source: '/thailand/bangkok/ancient-city-and-erawan-museum-entrance-tickets-entry-ticket', destination: '/thailand/bangkok', permanent: true },
+      { source: '/india/agra/:slug(taj-mahal-tour-with-female-guide|female-guide-for-taj-mahal|taj-mahal-food-tour|agra-fort-guided-tour|heritage-walk-in-agra|taj-mahal-sunrise-secrets-with-a-professional-historian|taj-mahal-agra-sunrise-tour|undefined)', destination: '/india/agra', permanent: true },
+      { source: '/india/delhi/:slug(india-gate-half-day-tour|india-gate-private-tour|india-gate-india-guided-tour|delhi-mahal-evening-tour|undefined)', destination: '/india/delhi', permanent: true },
+      { source: '/india/jaipur/:slug(hawa-mahal-evening-tour|hawa-mahal-sightseeing-guided-tour)', destination: '/india/jaipur', permanent: true },
+      // A non-Indian city under /india/ (Phuket guides were indexed at /india/phuket/*).
+      ...Object.entries(CITY_URL_MAP)
+        .filter(([slug, m]) => m.country !== 'india' && slug === m.city)
+        .flatMap(([slug, m]) => [
+          { source: `/india/${slug}`, destination: `/${m.country}/${slug}`, permanent: true },
+          { source: `/india/${slug}/:path*`, destination: `/${m.country}/${slug}/:path*`, permanent: true },
+        ]),
+      // Country pages that never existed but were linked from an old homepage list.
+      { source: '/:c(cambodia|china|macau|hong-kong|taiwan|philippines|malaysia|myanmar|singapore|south-korea)', destination: '/explore', permanent: true },
       ...Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
         source: `/:country/:city/${oldSlug}`,
         destination: `/:country/:city/${newSlug}`,

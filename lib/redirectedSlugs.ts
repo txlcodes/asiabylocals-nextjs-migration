@@ -7,6 +7,10 @@
 // says "index this" while the server says "it moved". Keeping one map means
 // adding a redirect automatically drops the slug from the sitemap.
 export const SLUG_REDIRECTS: Record<string, string> = {
+  // GSC 404 cleanup (2026-09-18): renamed tours still in Google's index
+  'sapporo-chauffeured-full-day-tour': 'sapporo-culture-full-day-tour',
+  'chicken-island-guided-tour': 'chicken-island-boat-tour',
+  'hong-island-private-tour': 'hong-island-boat-tour',
   // Agra
   'agra-walking-sunrise-tour': 'taj-mahal-sunrise-skip-the-line-tour',
   'taj-mahal-sunrise-sunrise-tour': 'private-sunrise-taj-mahal-agra-fort-tour',

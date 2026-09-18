@@ -223,11 +223,6 @@ const CITY_GUIDES = [
   { name: 'Osaka', image: '/osaka-hero.webp' },
   { name: 'Bangkok', image: '/cities-images/bangkok.webp' },
   { name: 'Dubai', image: '/dubai-hero.webp' },
-  { name: 'Singapore', image: '/cities-images/singapore.webp' },
-  { name: 'Seoul', image: '/cities-images/seoul.webp' },
-  { name: 'Hong Kong', image: '/cities-images/hongkong.webp' },
-  { name: 'Kuala Lumpur', image: '/kuala-lumpur-hero.webp' },
-  { name: 'Taipei', image: '/taipei-hero.webp' },
   { name: 'Bali', image: '/cities-images/bali.webp' },
   { name: 'Agra', image: '/agra-hero.webp' },
   { name: 'Mumbai', image: '/cities-images/mumbai.webp' },
@@ -237,10 +232,7 @@ const CITY_GUIDES = [
   { name: 'Chiang Mai', image: '/cities-images/chiang-mai.webp' },
   { name: 'Phuket', image: '/cities-images/phuket.webp' },
   { name: 'Krabi', image: '/cities-images/phuket.webp' },
-  { name: 'Manila', image: '/manila-hero.webp' },
   { name: 'Jakarta', image: '/cities-images/bali.webp' },
-  { name: 'Shanghai', image: '/cities-images/shanghai.webp' },
-  { name: 'Beijing', image: '/beijing-hero.webp' },
   { name: 'Colombo', image: '/colombo-hero.webp' },
   { name: 'Kathmandu', image: '/kathmandu-hero.webp' }
 ];
