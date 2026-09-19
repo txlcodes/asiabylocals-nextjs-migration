@@ -1638,7 +1638,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             that naming the actual local operator is what "by locals"
                             means, and it is what every large marketplace does.
                             Falls back to our own name where no operator is recorded. */}
-                        Activity provider: {tour?.activityProvider?.trim() || 'AsiaByLocals'}
+                        Activity provider: {tour?.activityProvider?.trim() || 'Verified local operator'}
                       </div>
                     </div>
 
