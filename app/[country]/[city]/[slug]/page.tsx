@@ -542,7 +542,36 @@ export default async function SlugPage({ params }: Props) {
   if (isInfoSlug(city, slug)) {
     // Build server-side JSON-LD from static info content
     const infoContent = getCityInfoContent(slug);
-    const infoJsonLd = infoContent?.jsonLd || null;
+    // Pages that define their own jsonLd keep it; the rest (Bali, Japan round 2)
+    // get an Article + FAQPage graph built from their faqs, so every guide
+    // carries FAQ schema without hand-writing it per page.
+    const infoJsonLd = infoContent?.jsonLd
+      || (infoContent
+        ? {
+            '@context': 'https://schema.org',
+            '@graph': [
+              {
+                '@type': 'Article',
+                headline: infoContent.title,
+                description: infoContent.description,
+                image: infoContent.heroImage,
+                author: { '@type': 'Organization', name: 'AsiaByLocals' },
+                publisher: { '@type': 'Organization', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
+                mainEntityOfPage: `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`,
+              },
+              ...(infoContent.faqs && infoContent.faqs.length > 0
+                ? [{
+                    '@type': 'FAQPage',
+                    mainEntity: infoContent.faqs.slice(0, 8).map((f) => ({
+                      '@type': 'Question',
+                      name: f.q,
+                      acceptedAnswer: { '@type': 'Answer', text: f.a },
+                    })),
+                  }]
+                : []),
+            ],
+          }
+        : null);
 
     return (
       <>

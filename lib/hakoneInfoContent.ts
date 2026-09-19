@@ -1150,6 +1150,366 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: CARD_TWOSIDES.image,
       };
+    case "best-time-to-visit-mount-fuji":
+      return {
+        title: "Best Time to See Mount Fuji: Visibility by Month, the Snow Cap Calendar, Climbing Season, and the Days It Hides",
+        seoTitle: "Best Time to Visit Mount Fuji (2026 Guide)",
+        description: "Fuji is visible from the lakes on roughly half of days across a year and far fewer in summer. The month-by-month odds, when the snow cap is on, the July to September climbing window, cherry and autumn dates, and the hour of day that matters more than the month.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-yoshino-cherry-blossoms-and-nara-deer-day-trip/img0/1600.webp",
+        fastFacts: [
+          { icon: "sun", label: "Clearest months", value: "December to February, then October and November" },
+          { icon: "cloud", label: "Worst", value: "June to August, cloud most afternoons" },
+          { icon: "mountain", label: "Snow cap", value: "Roughly October to May" },
+          { icon: "calendar", label: "Climbing season", value: "Early July to about 10 September" },
+          { icon: "clock", label: "Best hour", value: "Dawn to 9:00, any month" },
+          { icon: "flower", label: "Colour", value: "Cherry mid-April at Kawaguchiko; maples early November" },
+        ],
+        sections: [
+
+          {
+            title: "The visibility problem",
+            icon: "cloud",
+            content: "Mount Fuji makes its own weather. Warm moist air rising off the plain condenses on the cone from late morning, so the mountain that was sharp at 7:00 is a grey wall by noon, and in the humid months it may not appear at all. Counts from Fujiyoshida's daily observations put full visibility at roughly 80 percent of December and January days, around half in spring and autumn, and under a third from June to August. Any tour that promises the view is guessing; the honest ones schedule the viewpoints first thing and the indoor stops after.",
+            tourCard: {
+              slug: "mt-yoshino-cherry-blossoms-and-nara-deer-day-trip",
+              title: "Mt. Yoshino Cherry Blossoms and Nara Deer Day Trip",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 141.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-yoshino-cherry-blossoms-and-nara-deer-day-trip/img0/1600.webp",
+            },
+          },
+          {
+            title: "Month by month",
+            icon: "calendar",
+            content: "December to February: the clearest skies of the year, a full snow cap, cold (minus 5 at the lakes at dawn) and quiet; the best time to see the mountain if seeing it is the point. March and April: still good in the mornings, cherry blossom at Kawaguchiko and the Chureito pagoda in mid-April. May: fresh green, the cap shrinking, decent odds. June: the rainy season, the worst month. July and August: climbing season, the summit bare, humid haze on the plain, visibility poor from below; go up rather than look up. September: typhoons and the end of climbing, improving late in the month. October and November: crisp, the first snow returns around mid-October, maples in early November, and odds back above half.",
+            tourCard: {
+              slug: "japanese-alps-kamikochi-and-mount-fuji-tour-5-days",
+              title: "Japanese Alps, Kamikochi and Mount Fuji Tour: 5 Days",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 1667.00",
+              duration: "5 days",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-alps-kamikochi-and-mount-fuji-tour-5-days/img0/1600.webp",
+            },
+          },
+          {
+            title: "Snow cap and climbing",
+            icon: "mountain",
+            content: "The first snow on the summit is usually recorded in late September or October and the cap holds until May or early June; the classic white-topped photo is a winter to spring image. Climbing is the reverse: trails open in early July and close around 10 September, when the mountain huts shut and the upper trails are patrolled. Outside those dates the summit is an alpine climb with ice and no huts and the authorities discourage it. The [climbing guide](/japan/mount-fuji/climbing-mount-fuji-guide) covers the routes and the reservation and fee rules introduced from 2024.",
+            tourCard: {
+              slug: "mt-fuji-and-momiji-season-kamakura-big-buddha-and-lake-ashi-mount-fuji",
+              title: "Mt. Fuji and Momiji Season: Kamakura, Big Buddha and Lake Ashi (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 207.00",
+              duration: "11 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-and-momiji-season-kamakura-big-buddha-and-lake-ashi-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "Time of day",
+            icon: "clock",
+            content: "Whatever the month, the mountain is clearest at dawn and generally gone by 11:00 in the warm half of the year. Tours from Tokyo that arrive at Kawaguchiko at 11:00 are structurally late; the ones that leave at 6:30 or stay overnight at the lakes are the ones that see it. Sunset can clear the cloud again on dry days, and the red Fuji at dusk from the north shore of Kawaguchiko is the second-best hour. The [viewpoints guide](/japan/mount-fuji/mount-fuji-viewpoints) lists where to stand at each.",
+            tourCard: {
+              slug: "must-visit-mt-fuji-air-land-and-sea-day-tour",
+              title: "Must-Visit Mt. Fuji Air, Land and Sea Day Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 132.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/must-visit-mt-fuji-air-land-and-sea-day-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Crowds and holidays",
+            icon: "users",
+            content: "Cherry week in mid-April and the first week of May (Golden Week) fill the Chureito pagoda steps and the Kawaguchiko shore; the November maple corridor at the lake's north shore is busy for its two weekends. Winter is empty and clear. Weekends bring Tokyo day-trippers year-round; a weekday morning in February is as good as Fuji gets. The [Hakone or Kawaguchiko](/japan/hakone/hakone-or-kawaguchiko-for-mount-fuji) page settles which base to use.",
+            tourCard: {
+              slug: "mt-fuji-6-must-see-spots-oshino-and-lake-kawaguchi-from-tokyo-mount-fuji",
+              title: "Mt Fuji 6 Must-See Spots: Oshino and Lake Kawaguchi From Tokyo (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 73.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-6-must-see-spots-oshino-and-lake-kawaguchi-from-tokyo-mount-fuji/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What is the best month to see Mount Fuji?", a: "December to February for clear skies and a full snow cap, then October and November. June to August has the worst visibility from below." },
+          { q: "Can you see Mount Fuji in summer?", a: "Sometimes at dawn, rarely by midday. Summer is for climbing it, not viewing it." },
+          { q: "When does Mount Fuji have snow?", a: "Roughly October to May. The summit is bare during the July to September climbing season." },
+          { q: "What time of day is Mount Fuji clearest?", a: "Dawn to about 9:00 in every month; cloud builds from late morning. Sunset sometimes clears again on dry days." },
+        ],
+      };
+
+    case "oshino-hakkai-guide":
+      return {
+        title: "Oshino Hakkai: The Eight Spring Ponds of Mount Fuji, What They Are, When to Go, and How to Avoid the Coach Hour",
+        seoTitle: "Oshino Hakkai Guide 2026",
+        description: "Oshino Hakkai is a village of eight ponds fed by Fuji's snowmelt, filtered through lava for decades, and it is on almost every Fuji day tour. What the ponds are, which are worth finding beyond the two by the car park, the thatched village, the food stalls, and the timing that makes it quiet.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-5th-station-hot-spring-and-oshino-hakkai-day-tour-mount-fuji/img0/1600.webp",
+        fastFacts: [
+          { icon: "droplet", label: "The ponds", value: "Eight, fed by snowmelt filtered 20 to 80 years through lava" },
+          { icon: "ticket", label: "Entry", value: "Free; one pond inside a small paid museum garden" },
+          { icon: "clock", label: "Time needed", value: "45 to 90 minutes" },
+          { icon: "map", label: "Location", value: "Oshino village, 20 minutes from Kawaguchiko" },
+          { icon: "users", label: "Quiet", value: "Before 9:30 or after 15:30" },
+          { icon: "landmark", label: "Status", value: "Part of the Fuji World Heritage listing, 2013" },
+        ],
+        sections: [
+
+          {
+            title: "What Oshino Hakkai is",
+            icon: "droplet",
+            content: "Oshino was a lake until Fuji's lava flows and centuries of silt drained it, and the eight ponds are what remains: springs where snowmelt from the mountain, having sunk through the porous lava and travelled underground for decades, comes back to the surface at a constant 13 degrees, so clear that the carp in the deepest pond look suspended in air. The ponds were a stop on the old pilgrimage route to the summit, where climbers purified themselves, which is why they were included in the 2013 World Heritage listing of Fuji as a sacred mountain. On a clear morning the cone stands directly above the thatched roofs.",
+            tourCard: {
+              slug: "mt-fuji-5th-station-hot-spring-and-oshino-hakkai-day-tour-mount-fuji",
+              title: "Mt. Fuji 5th Station, Hot Spring, and Oshino Hakkai Day Tour (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 82.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-5th-station-hot-spring-and-oshino-hakkai-day-tour-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "Which ponds",
+            icon: "map",
+            content: "Wakuike, the deepest and clearest, sits at the centre of the village beside the shops and is the one the coaches see; Nakaike beside it is a man-made pond inside a souvenir complex and not one of the eight, though most visitors photograph it as if it were. The other seven are spread across the village within a ten-minute walk: Sokonashi-ike and Okama-ike are tiny and quiet, Choshi-ike and Shobu-ike sit among the fields, and Deguchi-ike, the largest, is a five-minute walk apart from everything and usually empty. A map at the car park marks all eight; walk to at least three.",
+            tourCard: {
+              slug: "hakone-and-mt-fuji-day-trip-ropeway-owakudani-oshino-hakkai-mount-fuji",
+              title: "Hakone and Mt. Fuji Day Trip: Ropeway, Owakudani, Oshino Hakkai (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 82.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hakone-and-mt-fuji-day-trip-ropeway-owakudani-oshino-hakkai-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "The village and the food",
+            icon: "utensils",
+            content: "The thatched houses around Wakuike hold stalls selling grilled dango, roasted sweet potato, freshly made tofu and soba boiled in the spring water, and the water itself, which people fill bottles from at the well by the pond. The Hannoki Bayashi folk museum, a small paid garden with an old farmhouse, contains one of the ponds and the best view of Fuji over the roofs. Lunch here is fine if simple; the tours that promise a full lunch usually mean a nearby restaurant.",
+            tourCard: {
+              slug: "mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi",
+              title: "Mt Fuji, Oshino Hakkai, Chureito Pagoda, Lake Kawaguchi",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi/img0/1600.webp",
+            },
+          },
+          {
+            title: "Timing",
+            icon: "clock",
+            content: "Coach tours from Tokyo arrive between 10:30 and 14:00, and in those hours Wakuike's rail is three deep. Before 9:30 and after 15:30 the village is a village. Fuji is clearest at dawn, so the ideal is to sleep at Kawaguchiko, be at Oshino by 8:00, and move on to the pagoda or the lake by 10:00. Winter mornings are the emptiest and the sharpest; the [best time to visit](/japan/mount-fuji/best-time-to-visit-mount-fuji) page has the visibility odds.",
+            tourCard: {
+              slug: "mt-fuji-top-5-spots-day-tour-arakurayama-park-oshino-hakkai-mount-fuji",
+              title: "Mt Fuji Top 5 Spots Day Tour: Arakurayama Park, Oshino Hakkai (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 111.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-top-5-spots-day-tour-arakurayama-park-oshino-hakkai-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "Getting there and combining",
+            icon: "train",
+            content: "From Kawaguchiko station the Fujikko-go bus reaches Oshino Hakkai in about 25 minutes; from Fujisan station (Fujiyoshida) the Oshino line is quicker; both are covered by the two-day bus passes. By car it is 20 minutes from either lake town and parking is a few hundred yen. Day tours from Tokyo pair it with Kawaguchiko's north shore, the [Chureito pagoda](/japan/mount-fuji/chureito-pagoda-guide) and often the Fuji Subaru line 5th station; a private car lets you put Oshino first, when it is empty and the mountain is out.",
+            tourCard: {
+              slug: "mt-fuji-tenjoyama-ropeway-oishi-park-oshino-hakkai",
+              title: "Mt Fuji, Tenjoyama Ropeway, Oishi Park, Oshino Hakkai",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-tenjoyama-ropeway-oishi-park-oshino-hakkai/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How many ponds are there at Oshino Hakkai?", a: "Eight, though the popular Nakaike beside the shops is a man-made pond and not one of them. Deguchi-ike, the largest, is a five-minute walk away and usually quiet." },
+          { q: "Is Oshino Hakkai free?", a: "Yes. Only the small Hannoki Bayashi museum garden, which contains one pond and the best rooftop view of Fuji, charges a fee." },
+          { q: "How long do you need at Oshino Hakkai?", a: "Forty-five minutes for the central ponds and stalls, ninety to walk to all eight." },
+          { q: "When is Oshino Hakkai quiet?", a: "Before 9:30 and after 15:30. Coaches from Tokyo fill it from late morning to early afternoon." },
+        ],
+      };
+
+    case "fuji-five-lakes-guide":
+      return {
+        title: "The Fuji Five Lakes: Kawaguchiko, Yamanakako, Saiko, Shojiko and Motosuko, and Which One You Should Actually Go To",
+        seoTitle: "Fuji Five Lakes Guide 2026",
+        description: "The five lakes on Fuji's north side are very different. Kawaguchiko has the town and the transport, Yamanakako the size and the swan boats, Saiko the caves and the reconstructed village, Shojiko the classic painting view, Motosuko the 1,000-yen note. How to choose, get between them, and what a lakes tour covers.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-6-stop-scenic-day-tour-kawaguchiko-and-lake-yamanaka-mount-fuji/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "Access hub", value: "Kawaguchiko station, 2 hours from Shinjuku" },
+          { icon: "droplet", label: "Largest", value: "Yamanakako, 6.5 sq km" },
+          { icon: "mountain", label: "Highest and deepest", value: "Motosuko, 900 m, 122 m deep" },
+          { icon: "ticket", label: "Lake bus pass", value: "2-day passes cover Kawaguchiko, Saiko and Yamanakako lines" },
+          { icon: "clock", label: "Lakes loop", value: "5 to 6 hours by car; a full day by bus" },
+          { icon: "calendar", label: "Shibazakura", value: "Late April to May at Motosuko" },
+        ],
+        sections: [
+
+          {
+            title: "Five lakes, five characters",
+            icon: "map",
+            content: "All five lakes were formed by lava flows damming rivers on Fuji's northern flank, and they run in an arc from east to west. Yamanakako, the largest and highest of the four eastern lakes, is a resort lake of cycle paths, swan boats and campsites. Kawaguchiko is the one with a town, a station, the ropeway, the museums and most of the hotels, which makes it the base whether you like it or not. Saiko is quiet, wooded and ringed with lava caves. Shojiko is the smallest and gives the view Japanese painters used, with the cone rising over a lower ridge. Motosuko, deepest and clearest, is the view on the back of the 1,000-yen note, from its north-west shore.",
+            tourCard: {
+              slug: "mt-fuji-6-stop-scenic-day-tour-kawaguchiko-and-lake-yamanaka-mount-fuji",
+              title: "Mt. Fuji 6-Stop Scenic Day Tour: Kawaguchiko and Lake Yamanaka (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-6-stop-scenic-day-tour-kawaguchiko-and-lake-yamanaka-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "Kawaguchiko",
+            icon: "landmark",
+            content: "Base here. The north shore promenade at Oishi park has lavender in late June and July and the classic reflection on still mornings; the Kachi Kachi ropeway climbs Mount Tenjo for the view over lake and cone; the maple corridor on the north shore is lit in November. The [Kawaguchiko guide](/japan/mount-fuji/kawaguchiko-guide) covers the town in detail, and the [Chureito pagoda](/japan/mount-fuji/chureito-pagoda-guide) is ten minutes away in Fujiyoshida. Everything else on this page is a trip out from here.",
+            tourCard: {
+              slug: "mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi",
+              title: "Mt Fuji, Oshino Hakkai, Chureito Pagoda, Lake Kawaguchi",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi/img0/1600.webp",
+            },
+          },
+          {
+            title: "Yamanakako and Saiko",
+            icon: "sun",
+            content: "Yamanakako, twenty minutes east, is the lake for a half day outdoors: a flat 14 km cycle loop with the mountain on one side, a cluster of hot-spring bathhouses (Benifuji no Yu has open-air tubs facing Fuji), and the Hana no Miyako flower park. Saiko, fifteen minutes west of Kawaguchiko, has the Iyashi no Sato open-air museum, a reconstructed thatched village on the site of one destroyed by a 1966 landslide, with craft workshops and Fuji above; and the Narusawa ice cave and Fugaku wind cave, lava tubes with year-round ice, on the road to Motosuko.",
+            tourCard: {
+              slug: "mt-fuji-signature-6-scenic-spots-tour-and-lake-yamanaka",
+              title: "Mt Fuji Signature 6 Scenic Spots Tour and Lake Yamanaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.50",
+              duration: "11.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-signature-6-scenic-spots-tour-and-lake-yamanaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Shojiko and Motosuko",
+            icon: "mountain",
+            content: "Shojiko is a ten-minute detour from the Saiko road and there is nothing there but a shore, a couple of inns and the view called Kodaki Fuji, the mountain appearing to carry a smaller peak on its flank; it is the quietest spot on the whole circuit. Motosuko is the far west end, forty minutes from Kawaguchiko, and its north-west shore is where the banknote photograph was taken; in late April and May the Fuji Shibazakura festival covers the fields at its foot with pink moss phlox and draws the biggest crowds of the year. Neither lake is served well by bus; they are the case for a car or a private tour.",
+            tourCard: {
+              slug: "mt-fuji-and-arakura-park-and-lake-kawaguchi-and-oishi-park",
+              title: "Mt Fuji and Arakura Park and Lake Kawaguchi and Oishi Park",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 62.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-and-arakura-park-and-lake-kawaguchi-and-oishi-park/img0/1600.webp",
+            },
+          },
+          {
+            title: "Getting around and tours",
+            icon: "train",
+            content: "Highway buses and the Fuji Excursion train reach Kawaguchiko from Shinjuku in about two hours. The lakes are then buses: the Kawaguchiko and Saiko sightseeing lines and the Fujikko-go to Yamanakako and Oshino, on two-day passes; Shojiko and Motosuko have a few services a day on the blue line. A hire car from Kawaguchiko station is the practical way to do all five in a day. Guided Five Lakes tours from Tokyo run 10 to 12 hours in a private car, USD 350 to 600 per group, and the good ones order the day by light: the west lakes early, Oshino and the pagoda mid-morning, Kawaguchiko last. The [Hakone or Kawaguchiko](/japan/hakone/hakone-or-kawaguchiko-for-mount-fuji) page decides the base.",
+            tourCard: {
+              slug: "mt-fuji-arakurayama-lake-kawaguchi-oshino-hakkai",
+              title: "Mt Fuji, Arakurayama, Lake Kawaguchi, Oshino Hakkai",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-arakurayama-lake-kawaguchi-oshino-hakkai/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Which of the Fuji Five Lakes is best?", a: "Kawaguchiko as a base for transport, hotels and the ropeway; Motosuko for the classic banknote view; Yamanakako for cycling and lakeside onsen; Saiko for caves and the thatched village." },
+          { q: "Can you visit all five lakes in one day?", a: "By car or private tour, yes, in five to six hours of driving with stops. By bus, Shojiko and Motosuko are hard to fit; do three." },
+          { q: "Which lake is on the 1,000-yen note?", a: "Motosuko, photographed from its north-west shore." },
+          { q: "How do I get to the Fuji Five Lakes from Tokyo?", a: "Highway bus or the Fuji Excursion train from Shinjuku to Kawaguchiko in about two hours, then local buses or a hire car." },
+        ],
+      };
+
+    case "mount-fuji-day-tour-routes":
+      return {
+        title: "How Mount Fuji Day Tours Are Routed: 5th Station, Kawaguchiko, Oshino Hakkai, Hakone, and What Each Combination Actually Delivers",
+        seoTitle: "Mount Fuji Day Tour Routes Explained 2026",
+        description: "Every Fuji day tour from Tokyo is a combination of the same six stops. What each stop is, how coach tours differ from private cars, why the order matters for seeing the mountain, the seasonal road closures, and how to pick the itinerary that matches what you want.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Length", value: "10 to 12 hours from Tokyo" },
+          { icon: "map", label: "The stops", value: "5th station, Kawaguchiko, Oshino Hakkai, Chureito pagoda, Hakone, Gotemba outlets" },
+          { icon: "ticket", label: "Coach", value: "USD 80 to 150 per person" },
+          { icon: "ticket", label: "Private car", value: "USD 400 to 700 per group of up to 6" },
+          { icon: "mountain", label: "5th station", value: "2,305 m; road closed in winter and to private cars in climbing season" },
+          { icon: "sun", label: "Rule", value: "Viewpoints first, indoor stops after 11:00" },
+        ],
+        sections: [
+
+          {
+            title: "The six stops",
+            icon: "map",
+            content: "Fuji Subaru line 5th station: the highest point reachable by road on the north face, at 2,305 metres, above the treeline with the summit close and the lakes below, and a shop-and-shrine complex that is busier than you expect. Kawaguchiko: the lake town, with the north shore view, the ropeway and the museums. Oshino Hakkai: the eight spring ponds in a thatched village. The Chureito pagoda at Arakurayama Sengen shrine: 398 steps to the pagoda-and-Fuji frame. Hakone: the volcanic valley to the south-east, with Owakudani, the lake cruise and the ropeway. Gotemba premium outlets: a shopping stop with Fuji in the car park, the padding in cheap coach itineraries. Almost every tour is three or four of these.",
+            tourCard: {
+              slug: "mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi",
+              title: "Mt Fuji, Oshino Hakkai, Chureito Pagoda, Lake Kawaguchi",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-oshino-hakkai-chureito-pagoda-lake-kawaguchi/img0/1600.webp",
+            },
+          },
+          {
+            title: "Coach or private",
+            icon: "users",
+            content: "Coach tours, USD 80 to 150, run a fixed loop: typically 5th station, Kawaguchiko or Oshino, and either Hakone with a cruise or the outlets, with 45 minutes at each stop and a late-morning arrival at the mountain. They are efficient and cheap and they see Fuji at the hour it is most likely to be clouded. Private cars, USD 400 to 700 for up to six, leave Tokyo at 6:30 or 7:00, put the viewpoints first, skip the outlets, and stay flexible: if the mountain is out, they go to the lake; if it is not, they go to the caves or a soba lunch and try again at dusk. For two people the coach is the value; for four or more, the car costs the same per head and delivers a different day.",
+            tourCard: {
+              slug: "hakone-gotemba-oshino-hakkai-and-lake-yamanaka-tour",
+              title: "Hakone, Gotemba, Oshino Hakkai and Lake Yamanaka Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 97.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hakone-gotemba-oshino-hakkai-and-lake-yamanaka-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Order and light",
+            icon: "sun",
+            content: "Fuji is clearest at dawn and clouds from late morning, so the order matters more than the stop list. The right day runs: pagoda or Oshino at 9:00, Kawaguchiko north shore by 10:30, then the 5th station (which is inside the cloud as often as below it, and where the shops and shrine work in any weather), lunch, and Hakone or a lakeside onsen in the afternoon. The [best time to visit](/japan/mount-fuji/best-time-to-visit-mount-fuji) page gives the odds by month; in winter the order can relax because the sky holds.",
+            tourCard: {
+              slug: "mt-fuji-arakurayama-lake-kawaguchi-oshino-hakkai",
+              title: "Mt Fuji, Arakurayama, Lake Kawaguchi, Oshino Hakkai",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-arakurayama-lake-kawaguchi-oshino-hakkai/img0/1600.webp",
+            },
+          },
+          {
+            title: "Road and season rules",
+            icon: "mountain",
+            content: "The Subaru line to the 5th station closes to all traffic in heavy snow, generally from December or January to March or April, so winter tours substitute the lakes and the pagoda. During the climbing season, roughly mid-July to early September, private cars are banned from the road and the tour vehicle or a shuttle bus is used, which adds an hour; from 2024 the 5th station gate also charges climbers a fee and caps daily numbers. Golden Week and the November maple weekends jam the Chuo expressway; tours leave earlier or run in reverse. Typhoons in September cancel the day outright.",
+            tourCard: {
+              slug: "mt-fuji-and-momiji-season-kamakura-big-buddha-and-lake-ashi-mount-fuji",
+              title: "Mt. Fuji and Momiji Season: Kamakura, Big Buddha and Lake Ashi (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 207.00",
+              duration: "11 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-and-momiji-season-kamakura-big-buddha-and-lake-ashi-mount-fuji/img0/1600.webp",
+            },
+          },
+          {
+            title: "Picking an itinerary",
+            icon: "calendar",
+            content: "You want the mountain in the frame: pagoda, Oshino, Kawaguchiko, in a private car, early. You want to stand on Fuji: any tour with the 5th station, accepting the cloud risk. You want a second landscape: the Hakone combination, which trades the second lake stop for the ropeway and the pirate-ship cruise, with the mountain visible from the lake on clear days; the [Hakone or Kawaguchiko](/japan/hakone/hakone-or-kawaguchiko-for-mount-fuji) page explains the trade. You are on a budget with one day: the coach, sitting on the left side of the bus heading out, which faces the mountain. The [Tokyo day trip](/japan/tokyo/mount-fuji-day-trip-from-tokyo) page covers the train and bus alternative for doing it alone.",
+            tourCard: {
+              slug: "hakone-and-mt-fuji-day-trip-ropeway-owakudani-oshino-hakkai-mount-fuji",
+              title: "Hakone and Mt. Fuji Day Trip: Ropeway, Owakudani, Oshino Hakkai (Mount Fuji)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 82.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hakone-and-mt-fuji-day-trip-ropeway-owakudani-oshino-hakkai-mount-fuji/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What do Mount Fuji day tours from Tokyo include?", a: "Three or four of six stops: the 5th station, Kawaguchiko, Oshino Hakkai, the Chureito pagoda, Hakone, and the Gotemba outlets, over 10 to 12 hours." },
+          { q: "Is a private Mount Fuji tour worth it?", a: "For four or more people, yes: the cost per head matches a coach, and a private car leaves earlier, puts the viewpoints first and adapts to the cloud." },
+          { q: "Can you go to the Fuji 5th station in winter?", a: "Usually not. The Subaru line closes in snow, typically December or January to March or April, and tours substitute the lakes." },
+          { q: "Which side of the bus should I sit on for Mount Fuji?", a: "The left side heading out from Tokyo on the Chuo expressway faces the mountain." },
+        ],
+      };
+
     default:
       return null;
   }

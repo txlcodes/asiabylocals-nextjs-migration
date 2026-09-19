@@ -1743,6 +1743,636 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_NIGHTWALK.image,
       };
+    case "tokyo-samurai-and-ninja-experiences":
+      return {
+        title: "Samurai and Ninja Experiences in Tokyo: Sword Classes, Shuriken, and What Is Actually Historical",
+        seoTitle: "Tokyo Samurai & Ninja Experiences 2026",
+        description: "Which Tokyo samurai and ninja experiences teach a real discipline, which are a photo in costume, how long each takes, and how to choose for kids versus adults.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-private-and-customizable-tour-all-in-one-experience-tokyo/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Typical length", value: "60 to 90 minutes" },
+          { icon: "users", label: "Group size", value: "Small, usually 2 to 10" },
+          { icon: "map", label: "Where", value: "Asakusa, Shinjuku and Akihabara" },
+          { icon: "ticket", label: "Price band", value: "USD 40 to 150 per person" },
+          { icon: "shield", label: "Real steel", value: "Only in iaido or tameshigiri classes, adults only" },
+          { icon: "calendar", label: "Book ahead", value: "2 to 3 days in high season" },
+        ],
+        sections: [
+
+          {
+            title: "Three different things sold under one word",
+            icon: "landmark",
+            content: "Tokyo sells three products as samurai experiences and they are not the same. The first is a martial-arts class: iaido (drawing and cutting with a katana) or kenjutsu, taught by a practitioner, usually with a wooden or blunt sword and a real one only for a supervised tameshigiri cut through a rolled tatami mat. The second is a performance with participation, where actors in armour stage a fight and you learn a short choreography. The third is a costume session: armour or a kimono, a sword for the photos, thirty minutes. All three are enjoyable; the mistake is booking one expecting another. Read the itinerary for the words 'training', 'show' and 'photo' and you will know which you have.",
+            tourCard: {
+              slug: "kamakura-private-and-customizable-tour-all-in-one-experience-tokyo",
+              title: "Kamakura Private and Customizable Tour - All-in-One Experience (Tokyo)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.00",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-private-and-customizable-tour-all-in-one-experience-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Ninja sessions and who they suit",
+            icon: "users",
+            content: "Ninja experiences run mostly in Asakusa and around Akihabara, with shuriken throwing, a blowpipe, a short stealth-walking drill and a costume. They are built for families: children from about six can take part, the props are foam or rubber, and the sessions run in English. The samurai-ninja museum in Asakusa combines a small collection of real armour and blades with a shuriken range, which makes it the best single stop if you have one afternoon and mixed ages. The [Akihabara guide](/japan/tokyo/akihabara-guide) covers what else is nearby.",
+            tourCard: {
+              slug: "samurai-ninja-museum-asakusa-samurai-sword-lesson-and-tour-tokyo",
+              title: "Samurai Ninja Museum Asakusa: Samurai Sword Lesson and Tour (Tokyo)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 103.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/samurai-ninja-museum-asakusa-samurai-sword-lesson-and-tour-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "What is historical and what is not",
+            icon: "book",
+            content: "Samurai were the warrior class from roughly the 12th century until the class was abolished in the 1870s; Edo (Tokyo) was their capital from 1603. Ninja were covert agents mostly from the Iga and Koga regions, and almost everything about black costumes comes from later theatre. Good instructors say this plainly. Two places in Tokyo tie the theme to real history: the sword collection at the Japanese Sword Museum in Ryogoku, and the Sengaku-ji temple graves of the 47 ronin, whose 1702 revenge is the most famous samurai story in Japan and is a ten-minute walk from Sengakuji station.",
+            tourCard: {
+              slug: "small-group-imperial-palace-historical-walking-tour-in-tokyo",
+              title: "Small-group Imperial Palace Historical Walking Tour in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 33.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-imperial-palace-historical-walking-tour-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Choosing by age and time",
+            icon: "clock",
+            content: "With children under ten: a ninja session, 60 minutes, Asakusa. Teenagers and adults who want to sweat: an iaido or kenjutsu class, 90 minutes, and expect stance and etiquette drills before any cutting. For a photo and a story: the costume session, book it in the morning when studios are quiet. A tameshigiri cut with live steel is offered to adults only and the instructor decides who is ready. Wear trousers you can kneel in; everything else is provided.",
+            tourCard: {
+              slug: "samurai-ninja-museum-asakusa-samurai-sword-lesson-for-families-tokyo",
+              title: "Samurai Ninja Museum Asakusa: Samurai Sword Lesson for Families (Tokyo)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 70.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/samurai-ninja-museum-asakusa-samurai-sword-lesson-for-families-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Combining it with the rest of the day",
+            icon: "map",
+            content: "Asakusa sessions sit next to [Senso-ji](/japan/tokyo/senso-ji-asakusa-guide) and the Sumida riverside, so an early temple visit, the class, then lunch on Kappabashi works well. Shinjuku sessions pair with the [sumo](/japan/tokyo/tokyo-sumo-guide) morning practice on the days it runs, since both are physical and both finish by early afternoon. Budget USD 40 to 60 for a ninja or costume session and USD 90 to 150 for a taught sword class with a cut.",
+            tourCard: {
+              slug: "samurai-ninja-museum-shinjuku-guided-tour-and-ninja-experience-tokyo",
+              title: "Samurai Ninja Museum Shinjuku: Guided Tour and Ninja Experience (Tokyo)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 30.00",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/samurai-ninja-museum-shinjuku-guided-tour-and-ninja-experience-tokyo/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Do you use real swords in Tokyo samurai classes?", a: "Only in supervised iaido or tameshigiri sessions for adults, and only for the cutting part. Drills use wooden or blunt swords. Performance and costume sessions never use live blades." },
+          { q: "Are ninja experiences suitable for children?", a: "Yes, most take children from about six, with foam shuriken and short drills. Asakusa has the widest choice." },
+          { q: "How long does a samurai experience take?", a: "Sixty to ninety minutes for a class, thirty to forty-five for a costume session, up to two hours for a show with participation." },
+          { q: "Is there anything historical to see?", a: "The Japanese Sword Museum in Ryogoku and Sengaku-ji temple, where the 47 ronin are buried, are both in Tokyo and both are real." },
+        ],
+      };
+
+    case "tokyo-photography-tours-guide":
+      return {
+        title: "Tokyo Photography Tours: Night Neon, Portraits in Kimono, and Where the Light Is Good",
+        seoTitle: "Tokyo Photography Tours Guide 2026",
+        description: "What a Tokyo photo tour actually delivers, the difference between a photo walk and a portrait shoot, the locations that work at each hour, and how many edited images to expect.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/shinjuku-and-shibuya-photo-shoot-and-instant-photos/img0/1600.webp",
+        fastFacts: [
+          { icon: "camera", label: "Two formats", value: "Photo walk (you shoot) or portrait shoot (you are shot)" },
+          { icon: "clock", label: "Best light", value: "Blue hour, about 30 minutes after sunset" },
+          { icon: "map", label: "Locations", value: "Shibuya, Shinjuku, Asakusa, Yanaka, Odaiba" },
+          { icon: "ticket", label: "Price band", value: "USD 80 to 250" },
+          { icon: "image", label: "Delivery", value: "20 to 60 edited photos in 2 to 7 days" },
+          { icon: "calendar", label: "Rain", value: "Neon looks better wet; portraits move indoors" },
+        ],
+        sections: [
+
+          {
+            title: "Photo walk or portrait shoot",
+            icon: "camera",
+            content: "A photo walk is a guided route where a photographer takes you to good spots, explains settings and composition, and you shoot on your own camera or phone. A portrait shoot is the reverse: the photographer shoots you, often in kimono, and delivers edited files. Tokyo has both in volume. Walks suit anyone with a camera they want to use better; shoots suit couples, families and solo travellers who want proof they were there without a selfie stick. Prices overlap, so check which one you are booking.",
+            tourCard: {
+              slug: "shinjuku-and-shibuya-photo-shoot-and-instant-photos",
+              title: "Shinjuku and Shibuya Photo Shoot and Instant Photos",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 100.50",
+              duration: "30 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/shinjuku-and-shibuya-photo-shoot-and-instant-photos/img0/1600.webp",
+            },
+          },
+          {
+            title: "Night in Shibuya and Shinjuku",
+            icon: "moon",
+            content: "Tokyo's signature frames are at night: the Shibuya scramble from the second floor of the station-side buildings, Shinjuku's Omoide Yokocho lantern alley, Kabukicho's signs, and the Golden Gai lanes after 21:00. Blue hour, the half hour after sunset when the sky is still deep blue and the signs are on, is the window photographers plan around; in December that is about 17:00, in June about 19:30. Rain helps, the reflections double the neon. The [Shibuya Crossing guide](/japan/tokyo/shibuya-crossing-guide) has the vantage points.",
+            tourCard: {
+              slug: "shinjuku-izakaya-and-golden-gai-bar-hopping-tour",
+              title: "Shinjuku Izakaya and Golden Gai Bar Hopping Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 125.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/shinjuku-izakaya-and-golden-gai-bar-hopping-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Daytime and old Tokyo",
+            icon: "sun",
+            content: "For daylight, the east side wins: Senso-ji's Kaminarimon gate before 8:00, the Yanaka backstreets and Nezu shrine's torii tunnel, Nihonbashi's stone bridge, and the Tokyo station facade from the Marunouchi side. Portrait shoots in kimono are mostly booked in Asakusa, where rental shops sit within a few minutes of the temple; spring cherry blossom along the Sumida and Meguro rivers and November ginkgo at Meiji Jingu Gaien are the seasonal add-ons. The [best time to visit](/japan/tokyo/best-time-to-visit-tokyo) page has the dates.",
+            tourCard: {
+              slug: "tokyo-asakusa-miu-kimono-rental-and-optional-photoshoot-by-local-operator",
+              title: "Tokyo Asakusa: Miu Kimono Rental and Optional Photoshoot by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 58.50",
+              duration: "Full day",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tokyo-asakusa-miu-kimono-rental-and-optional-photoshoot-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "What you get and when",
+            icon: "image",
+            content: "A portrait shoot of 60 to 90 minutes usually delivers 20 to 60 edited images by download link within a week; ask whether unedited files are included and whether there is a per-image upsell. A photo walk delivers nothing but your own pictures and a few technique notes, which is the point. Photographers here shoot mirrorless bodies, and most will happily set up your camera in manual at the start if you ask. Tripods are banned in many stations and on the scramble itself.",
+            tourCard: {
+              slug: "asakusa-kimono-rental-with-professional-hairstyling",
+              title: "Asakusa Kimono Rental with Professional Hairstyling",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 39.00",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/asakusa-kimono-rental-with-professional-hairstyling/img0/1600.webp",
+            },
+          },
+          {
+            title: "Booking sense",
+            icon: "calendar",
+            content: "Two to three hours is enough. Book night walks a week ahead in autumn, when the light is cleanest and the tours fill; kimono shoots need the rental slot booked too, so allow three hours door to door. A private walk for two runs USD 150 to 250; group walks USD 80 to 120; portrait sessions USD 120 to 250 depending on length and the number of delivered files.",
+            tourCard: {
+              slug: "private-makeover-photography-studio-in-luxury-kimono-in-tokyo",
+              title: "Private Makeover Photography Studio in Luxury Kimono in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 293.00",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/private-makeover-photography-studio-in-luxury-kimono-in-tokyo/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What is the difference between a Tokyo photo walk and a photo shoot?", a: "On a walk you take the photos with guidance; on a shoot a photographer photographs you and delivers edited files. Both run 60 to 180 minutes." },
+          { q: "Where are the best night photo spots in Tokyo?", a: "Shibuya scramble from an elevated view, Omoide Yokocho and Kabukicho in Shinjuku, Golden Gai after 21:00, and the Sumida riverside under Skytree." },
+          { q: "How many photos do you get from a Tokyo portrait shoot?", a: "Typically 20 to 60 edited images delivered within a week. Check whether raw files cost extra." },
+          { q: "Can I use a tripod?", a: "Not on the scramble, in stations, or in most shrine grounds. Handheld at high ISO is how the night tours work." },
+        ],
+      };
+
+    case "tokyo-cycling-tours-guide":
+      return {
+        title: "Cycling in Tokyo: E-Bike and Bicycle Tours, the Routes That Work, and the Rules of the Road",
+        seoTitle: "Tokyo Cycling & E-Bike Tours 2026",
+        description: "Why a bike covers four times the ground of a walking tour in Tokyo, the standard routes through the palace, Yanaka and the bay, what e-bikes change, and the traffic rules tourists get wrong.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-2-hour-e-bike-ride-city-or-imperial-palace-in-tokyo/img0/1600.webp",
+        fastFacts: [
+          { icon: "bike", label: "Formats", value: "E-bike, city bike, night rides" },
+          { icon: "clock", label: "Length", value: "3 hours standard, 5 to 6 full day" },
+          { icon: "map", label: "Routes", value: "Imperial Palace loop, Yanaka, Sumida to Odaiba" },
+          { icon: "ticket", label: "Price band", value: "USD 60 to 130" },
+          { icon: "shield", label: "Helmet", value: "Recommended by law since 2023, provided" },
+          { icon: "users", label: "Minimum age", value: "Usually 12, some e-bike tours 15" },
+        ],
+        sections: [
+
+          {
+            title: "Why Tokyo works on a bike",
+            icon: "bike",
+            content: "Tokyo is flat across the whole east side and the centre, its arterial roads have wide pavements where slow cycling is tolerated, and the distances between the famous neighbourhoods are exactly awkward: too far to walk, too close for the train to feel worth it. A three-hour ride covers the Imperial Palace moat, Nihonbashi, Ginza and Tsukiji, or Yanaka, Ueno and Asakusa, which would be a full day on foot. E-bikes flatten the few hills on the west side (Shibuya, Roppongi, Akasaka) and let mixed-fitness groups stay together.",
+            tourCard: {
+              slug: "private-2-hour-e-bike-ride-city-or-imperial-palace-in-tokyo",
+              title: "Private 2-Hour E-Bike Ride, City or Imperial Palace in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 58.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/private-2-hour-e-bike-ride-city-or-imperial-palace-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "The standard routes",
+            icon: "map",
+            content: "Central loop: Tokyo station, the palace's outer gardens and moat, the Nihonbashi bridge, Ginza's backstreets and the old Tsukiji outer market, then the Hama-rikyu garden edge. Old Tokyo: Yanaka cemetery and its shotengai, Nezu shrine, Ueno park and down to Asakusa and the Sumida. Bay ride: Tsukiji to Tsukishima, over the Kachidoki bridge and along the waterfront towards Toyosu and Odaiba, which is where you see the scale of the port. Night rides run Omotesando, Roppongi and Tokyo Tower, lit from about 18:00. The [getting around](/japan/tokyo/getting-around-tokyo) page explains where trains beat bikes.",
+            tourCard: {
+              slug: "harajuku-tokyo-hand-building-pottery-class-standard-by-local-operator",
+              title: "Harajuku Tokyo: Hand-Building Pottery Class (Standard) by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 73.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/harajuku-tokyo-hand-building-pottery-class-standard-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Rules that matter",
+            icon: "shield",
+            content: "Cycle on the left. Pavement cycling is allowed on most main roads where signed, and tolerated elsewhere at walking pace, but pedestrians have priority and a bell is for warning, not clearing a path. Helmets have been a legal duty of effort since April 2023; tours provide them. No phones in hand, no headphones on both ears, no riding after drinking, and lights on after dark, all enforced with on-the-spot fines. Park only in racks; the city tows bikes from pavements within hours. Guides handle the parking on tours, which is one of the reasons to take one rather than rent.",
+            tourCard: {
+              slug: "3h-private-e-bike-tours-starting-at-your-hotel-in-tokyo",
+              title: "3h Private E-bike Tours, Starting at Your Hotel in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 202.00",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/3h-private-e-bike-tours-starting-at-your-hotel-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Renting instead",
+            icon: "ticket",
+            content: "Docomo's red share bikes are everywhere and cost a few hundred yen an hour through the app, and they are electric-assisted; they are fine for a short hop but heavy for a day. Rental shops in Asakusa and around Tokyo station rent proper city bikes and e-bikes by the day for USD 15 to 40. Take a tour first if you have never cycled in a Japanese city: three hours with a guide teaches the left-side habits and the pavement etiquette, then rent.",
+            tourCard: {
+              slug: "kamakura-enoshima-trip-with-train-ride-great-buddha",
+              title: "Kamakura, Enoshima Trip With Train Ride, Great Buddha",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 101.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-enoshima-trip-with-train-ride-great-buddha/img0/1600.webp",
+            },
+          },
+          {
+            title: "Seasons and weather",
+            icon: "calendar",
+            content: "October, November, March and April are the riding months: dry, 12 to 20 degrees, and cherry blossom or ginkgo along the moat. July and August are 33 degrees and humid, so morning rides only. Tours run in light rain with ponchos and cancel in typhoons, which are August to early October; the [best time to visit](/japan/tokyo/best-time-to-visit-tokyo) page has the monthly detail.",
+            tourCard: {
+              slug: "private-3-hour-e-bike-tour-of-best-city-highlights-in-tokyo",
+              title: "Private 3-Hour E-Bike Tour of Best City Highlights in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/private-3-hour-e-bike-tour-of-best-city-highlights-in-tokyo/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Tokyo safe to cycle in?", a: "Yes on the standard routes. Traffic is orderly, drivers expect bikes, and tours use pavements and park paths where roads are busy. Ride on the left and never cycle after drinking." },
+          { q: "Do I need to be fit for a Tokyo bike tour?", a: "No. The city is flat and most tours are e-bikes at a gentle pace with stops every 15 to 20 minutes." },
+          { q: "Can children join Tokyo cycling tours?", a: "From about 12 on city bikes; e-bike tours often set 15 as the minimum. Child seats are rare on tours." },
+          { q: "How much does a Tokyo bike tour cost?", a: "USD 60 to 90 for a three-hour group ride, USD 100 to 130 for private or full-day e-bike tours." },
+        ],
+      };
+
+    case "tokyo-kimono-and-tea-ceremony-guide":
+      return {
+        title: "Kimono Rental and Tea Ceremony in Tokyo: Where to Do Each, What It Costs, and the Etiquette That Matters",
+        seoTitle: "Tokyo Kimono & Tea Ceremony Guide 2026",
+        description: "How kimono rental works in Asakusa, what a 45-minute tea ceremony actually includes, the neighbourhoods where the two combine, and the rules nobody tells you until you break them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/asakusa-kimono-rental-with-professional-hairstyling/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Kimono rental", value: "Full day, return by 17:00 to 18:00" },
+          { icon: "ticket", label: "Kimono cost", value: "USD 25 to 80 with dressing" },
+          { icon: "ticket", label: "Tea ceremony", value: "USD 25 to 70, 45 to 60 minutes" },
+          { icon: "map", label: "Best areas", value: "Asakusa for kimono, Asakusa and Ginza for tea" },
+          { icon: "shield", label: "Sit", value: "Seiza is optional in tourist sessions; chairs exist" },
+          { icon: "calendar", label: "Book", value: "Kimono 2 to 7 days ahead in sakura season" },
+        ],
+        sections: [
+
+          {
+            title: "How kimono rental works",
+            icon: "landmark",
+            content: "You choose a kimono from racks sorted by colour and price band, staff dress you in about 20 minutes (the under-layers, the obi, the tabi socks and the sandals are all included), and you walk out for the day. Return is by late afternoon. Asakusa has dozens of shops within five minutes of Senso-ji, which is why most people rent there: the temple, Nakamise street and the Sumida riverside give you the backdrop without a train. Hair styling is a small add-on, and yukata, the light cotton summer version, replaces kimono from June to September. Men's rental exists at most shops.",
+            tourCard: {
+              slug: "asakusa-kimono-rental-with-professional-hairstyling",
+              title: "Asakusa Kimono Rental with Professional Hairstyling",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 39.00",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/asakusa-kimono-rental-with-professional-hairstyling/img0/1600.webp",
+            },
+          },
+          {
+            title: "What a tea ceremony session includes",
+            icon: "cup",
+            content: "A tourist-facing tea ceremony runs 45 to 60 minutes in a tatami room: a short explanation of the Way of Tea and its four principles (harmony, respect, purity, tranquillity), the host's preparation of thick or thin matcha, a sweet served first to balance the bitterness, and then you whisk a bowl yourself. English is standard, chairs are offered to anyone who cannot kneel, and photos are allowed at the end. It is a simplified form of a ceremony that in full runs four hours; nobody pretends otherwise, and it is still the clearest window into the aesthetic behind Japanese hospitality.",
+            tourCard: {
+              slug: "kimono-tea-ceremony-with-matcha-and-sweet-in-tokyo",
+              title: "Kimono Tea Ceremony with Matcha and Sweet in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 70.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kimono-tea-ceremony-with-matcha-and-sweet-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where to do each",
+            icon: "map",
+            content: "Asakusa is the place to combine both: several tea houses on the streets west of the temple take walk-ins in kimono. Ginza and Nihonbashi have more formal tea rooms attached to old confectioners and department stores. Meiji Jingu and the Hamarikyu garden's Nakajima teahouse serve matcha with a view rather than a lesson, at a few hundred yen, and are good if you want the taste without the hour. The [Senso-ji guide](/japan/tokyo/senso-ji-asakusa-guide) covers the temple side of the morning.",
+            tourCard: {
+              slug: "authentic-tea-ceremony-with-matcha-and-kimono-in-tokyo",
+              title: "Authentic Tea Ceremony with Matcha and Kimono in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 68.00",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/authentic-tea-ceremony-with-matcha-and-kimono-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Etiquette worth knowing",
+            icon: "shield",
+            content: "In kimono: the left panel goes over the right (right over left is how the dead are dressed), keep steps short, and sit on the edge of chairs so the obi is not crushed. In the tea room: bow when the bowl is set down, turn it slightly clockwise before drinking so you do not drink from the front, finish in three or four sips, and turn it back. Say the sweet is delicious; it is polite and it usually is. Phones away until the host says photos are fine.",
+            tourCard: {
+              slug: "matcha-kimono-tea-ceremony-experience-in-tokyo",
+              title: "Matcha Kimono Tea Ceremony Experience in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 67.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/matcha-kimono-tea-ceremony-experience-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Cost and timing",
+            icon: "ticket",
+            content: "Kimono rental is USD 25 to 50 for a basic plan and USD 60 to 80 with hair and a premium fabric; tea ceremony sessions USD 25 to 40 in a group, USD 60 to 70 private. Book kimono two to seven days ahead in late March, early April and mid-November, when the shops sell out by 9:00. A comfortable day: dressing at 9:00, temple and photos until 11:30, tea ceremony at noon, lunch, return the kimono by 16:00.",
+            tourCard: {
+              slug: "matcha-tea-ceremony-experience-in-asakusa",
+              title: "Matcha Tea Ceremony Experience in Asakusa",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 29.50",
+              duration: "45 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/matcha-tea-ceremony-experience-in-asakusa/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Where is the best place to rent a kimono in Tokyo?", a: "Asakusa. Dozens of shops sit within five minutes of Senso-ji, and the temple, Nakamise street and the river give you the photos without travelling." },
+          { q: "Do I have to kneel during a tea ceremony?", a: "No. Tourist sessions offer chairs or low stools, and kneeling is optional." },
+          { q: "How long does a tea ceremony take in Tokyo?", a: "Forty-five to sixty minutes for a tourist session including whisking your own bowl." },
+          { q: "Can men rent kimono?", a: "Yes, most Asakusa shops have men's kimono and hakama at similar prices." },
+        ],
+      };
+
+    case "harajuku-guide":
+      return {
+        title: "Harajuku: Takeshita Street, Omotesando, Meiji Shrine, and How to See All Three Without Wasting the Day",
+        seoTitle: "Harajuku Guide 2026: Takeshita, Omotesando, Meiji",
+        description: "What Harajuku is now versus its 1990s reputation, the three distinct streets inside it, when Takeshita is unbearable, and the walking order that works from Meiji Shrine down to Shibuya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tokyo-pop-culture-and-tradition-tour-meiji-shrine-to-harajuku-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "Station", value: "JR Harajuku, Yamanote line" },
+          { icon: "clock", label: "Takeshita quiet", value: "Before 11:00 on weekdays" },
+          { icon: "ticket", label: "Meiji Shrine", value: "Free, dawn to dusk" },
+          { icon: "landmark", label: "Omotesando", value: "1 km of architecture and flagship stores" },
+          { icon: "utensils", label: "Eat", value: "Crepes, rainbow cotton candy, then Cat Street cafes" },
+          { icon: "calendar", label: "Sunday", value: "Cosplay is mostly gone; rockabilly dancers still appear at Yoyogi" },
+        ],
+        sections: [
+
+          {
+            title: "What Harajuku is today",
+            icon: "landmark",
+            content: "Harajuku is one station and three very different streets. Takeshita Street is the 400-metre teenage lane of crepe stands, thrift and idol shops that made the name famous in the 1990s. Omotesando, the zelkova-lined avenue running downhill from the shrine gate, is the opposite: flagship architecture by Ando, Ito and Herzog and de Meuron, and the calmest expensive street in the city. Between them, Cat Street winds towards Shibuya through cafes and small labels. The cosplay crowds on the Jingu bridge that the guidebooks still describe faded more than a decade ago; what remains is the fashion, and the shrine forest that started it all.",
+            tourCard: {
+              slug: "tokyo-pop-culture-and-tradition-tour-meiji-shrine-to-harajuku-by-local-operator",
+              title: "Tokyo Pop Culture and Tradition Tour: Meiji Shrine to Harajuku by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 58.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tokyo-pop-culture-and-tradition-tour-meiji-shrine-to-harajuku-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Meiji Shrine first",
+            icon: "sun",
+            content: "Meiji Jingu, dedicated in 1920 to Emperor Meiji and Empress Shoken, sits in 70 hectares of forest planted from 100,000 donated trees, and it is the reason to arrive early: at 8:00 the gravel avenue under the great torii is quiet, the sake-barrel wall and the inner garden (small fee, irises in June) are empty, and you will often see a Shinto wedding procession on weekend mornings. Entry is free. The station exit is directly beside the first torii. The [Tokyo 3-day itinerary](/japan/tokyo/tokyo-3-day-itinerary) places this as the start of the west-side day.",
+            tourCard: {
+              slug: "ninja-experience-cafe-harajuku-shibuya",
+              title: "Ninja Experience Cafe Harajuku (Shibuya)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 59.50",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ninja-experience-cafe-harajuku-shibuya/img0/1600.webp",
+            },
+          },
+          {
+            title: "Takeshita Street, timed right",
+            icon: "clock",
+            content: "Takeshita opens around 10:00 and by noon on a weekend it is shoulder to shoulder. Go at 10:30 on a weekday, buy the crepe, look at the purikura photo booths and the 100-yen cosmetics, and leave within forty minutes; that is the honest amount of time it rewards. The side lanes (Harajuku street and Urahara behind it) are where the streetwear labels actually are, and they are calm at any hour.",
+            tourCard: {
+              slug: "tokyo-street-go-kart-tour-by-shibuya-annex",
+              title: "Tokyo Street Go-Kart Tour by Shibuya Annex",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 142.50",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tokyo-street-go-kart-tour-by-shibuya-annex/img0/1600.webp",
+            },
+          },
+          {
+            title: "Omotesando and Cat Street",
+            icon: "map",
+            content: "Walk down Omotesando from the Jingu-mae crossing. Tokyu Plaza's mirrored entrance, the Prada building's diamond glass, Omotesando Hills, and Nezu Museum at the bottom of the hill (Aoyama, a bamboo entrance path and a garden that is worth the ticket). Turn into Cat Street a third of the way down and follow it south for twenty minutes and you arrive at Shibuya, which is the natural end of the day: the [Shibuya Crossing guide](/japan/tokyo/shibuya-crossing-guide) picks up from there.",
+            tourCard: {
+              slug: "shibuya-and-harajuku-hidden-gems-and-highlights-private-tour-tokyo",
+              title: "Shibuya and Harajuku: Hidden Gems and Highlights Private Tour (Tokyo)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 83.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/shibuya-and-harajuku-hidden-gems-and-highlights-private-tour-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "Eating and the Sunday question",
+            icon: "utensils",
+            content: "Eat late lunch on Cat Street or in the backstreets between Omotesando and Aoyama, where the cafes are good and the queues are short. On Sundays, the rockabilly dancers still gather at the Yoyogi park entrance near the shrine in the early afternoon, and the park's flea markets and food events run most weekends; it is the best day for the park and the worst for Takeshita. Harajuku is a half day; pair it with Shibuya after, or the shrine plus Shinjuku before.",
+            tourCard: {
+              slug: "full-tokyo-meiji-shrine-imperial-palace-asakusa-and-skytree-by-local-operator",
+              title: "Full Tokyo: Meiji Shrine, Imperial Palace, Asakusa and Skytree by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.00",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-tokyo-meiji-shrine-imperial-palace-asakusa-and-skytree-by-local-operator/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Harajuku still worth visiting?", a: "Yes, for Meiji Shrine's forest at opening time, Omotesando's architecture and Cat Street; give Takeshita Street forty minutes, early." },
+          { q: "When is Takeshita Street least crowded?", a: "Weekday mornings between 10:30 and 11:30. Weekend afternoons are the worst." },
+          { q: "How long does Harajuku take?", a: "Three to four hours for shrine, Takeshita, Omotesando and the walk down Cat Street to Shibuya." },
+          { q: "Is Meiji Shrine free?", a: "Yes. Only the inner garden charges a small fee, worth it for the irises in June." },
+        ],
+      };
+
+    case "kamakura-day-trip-from-tokyo":
+      return {
+        title: "Kamakura Day Trip from Tokyo: The Great Buddha, Hase-dera, the Hiking Trails, and Enoshima by the Little Green Train",
+        seoTitle: "Kamakura Day Trip from Tokyo 2026",
+        description: "How to do Kamakura in a day from Tokyo, the order that avoids backtracking, which temples are worth the entry, the Daibutsu hiking trail, and whether to add Enoshima on the Enoden line.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-enoshima-trip-with-train-ride-great-buddha/img0/1600.webp",
+        fastFacts: [
+          { icon: "train", label: "From Tokyo", value: "About 1 hour, JR Yokosuka line from Tokyo or Shinagawa" },
+          { icon: "ticket", label: "Great Buddha", value: "Small entry fee, extra to go inside the statue" },
+          { icon: "clock", label: "Length", value: "Full day, 8 to 9 hours" },
+          { icon: "map", label: "Enoden", value: "Kamakura to Fujisawa via Hase and Enoshima" },
+          { icon: "mountain", label: "Hike", value: "Daibutsu trail, 3 km, 90 minutes" },
+          { icon: "calendar", label: "Hydrangeas", value: "Mid-June at Meigetsu-in and Hase-dera" },
+        ],
+        sections: [
+
+          {
+            title: "Why Kamakura",
+            icon: "landmark",
+            content: "Kamakura was the seat of Japan's first shogunate from 1185 to 1333, and its temples and shrines sit in a bowl of wooded hills an hour south of Tokyo, beside a surf beach. It is the day trip that feels furthest from the city for the least travel, and it is not a single sight: the 13-metre bronze Great Buddha of 1252, Hase-dera's eleven-headed Kannon and hillside garden, Tsurugaoka Hachimangu's avenue, the zen temples of Kita-Kamakura, and hiking trails that join them through the hills.",
+            tourCard: {
+              slug: "kamakura-enoshima-trip-with-train-ride-great-buddha",
+              title: "Kamakura, Enoshima Trip With Train Ride, Great Buddha",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 101.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-enoshima-trip-with-train-ride-great-buddha/img0/1600.webp",
+            },
+          },
+          {
+            title: "The order that works",
+            icon: "map",
+            content: "Get off at Kita-Kamakura, not Kamakura: walk Engaku-ji and Kencho-ji, the two great zen temples, then over the hill (or a short bus) to Tsurugaoka Hachimangu and down Komachi street for lunch. Take the Enoden train two stops to Hase, see Hase-dera first (the view over the bay from the top terrace) and then the Great Buddha ten minutes' walk up the road. If legs allow, the Daibutsu hiking trail from behind the Buddha climbs through the woods to Zeniarai Benten, the shrine where money washed in the spring is said to multiply, and comes out near the station. That is the full day done by 16:30.",
+            tourCard: {
+              slug: "enoshima-kamakura-or-yokohama-tour-enoden-included",
+              title: "Enoshima, Kamakura or Yokohama Tour (Enoden Included)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.00",
+              duration: "11 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/enoshima-kamakura-or-yokohama-tour-enoden-included/img0/1600.webp",
+            },
+          },
+          {
+            title: "Adding Enoshima",
+            icon: "sun",
+            content: "From Hase, the Enoden rattles along the coast to Enoshima in fifteen minutes, past the Kamakura-koko-mae crossing that anime fans photograph. Enoshima island is a causeway, a shrine climb, a lighthouse and, on clear winter days, Mount Fuji across the bay at sunset. Add it if you skipped the hike and it is October to February; in summer the beach crowds make the island slow. Return from Fujisawa or Katase-Enoshima to Shinjuku on the Odakyu line, which avoids repeating the morning route.",
+            tourCard: {
+              slug: "kamakura-and-enoshima-day-trip-including-temple-tickets",
+              title: "Kamakura and Enoshima Day Trip including Temple Tickets",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.50",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-and-enoshima-day-trip-including-temple-tickets/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tickets and passes",
+            icon: "ticket",
+            content: "A Kamakura-Enoshima pass from JR (Tokyo or Yokohama start) or Odakyu's Enoshima-Kamakura freepass (Shinjuku start) covers the round trip and the Enoden for a little more than the plain fares, and saves queuing. Temple entry is a few hundred yen each; the Buddha's interior is a small extra and takes five minutes. Coins and an IC card cover the day; some small temples do not take cards.",
+            tourCard: {
+              slug: "kamakura-and-enoshima-day-tour-tram-ticket-included",
+              title: "Kamakura and Enoshima Day Tour(Tram ticket included)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 92.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kamakura-and-enoshima-day-tour-tram-ticket-included/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tours versus alone",
+            icon: "users",
+            content: "Kamakura is straightforward alone with the plan above. A guide adds the history of the shogunate and the zen temples, which are otherwise just beautiful buildings, and handles the hill paths and bus timings. Private guided days from Tokyo run USD 150 to 300 per group plus train fares; small-group walking tours that meet at Kamakura station cost USD 60 to 100. The [Tokyo day trips](/japan/tokyo/tokyo-day-trips) page compares it with Nikko and Hakone.",
+            tourCard: {
+              slug: "oze-marshland-hiking-day-trip-via-hatomachi-pass-in-tokyo",
+              title: "Oze Marshland Hiking Day Trip via Hatomachi Pass in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 141.50",
+              duration: "14 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/oze-marshland-hiking-day-trip-via-hatomachi-pass-in-tokyo/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How long is Kamakura from Tokyo?", a: "About an hour on the JR Yokosuka line from Tokyo station, or the Shonan-Shinjuku line from Shinjuku." },
+          { q: "Can you go inside the Great Buddha?", a: "Yes, for a small extra fee. The interior shows how the bronze was cast in sections in 1252." },
+          { q: "Is the Daibutsu hiking trail hard?", a: "No. It is about 3 km on a forest path with some roots and steps, 90 minutes at an easy pace, in ordinary trainers." },
+          { q: "Should I add Enoshima?", a: "In autumn and winter, yes, for the Fuji sunset from the island. In summer the beach crowds slow everything down." },
+        ],
+      };
+
+    case "nikko-day-trip-from-tokyo":
+      return {
+        title: "Nikko Day Trip from Tokyo: Toshogu Shrine, Kegon Falls, Lake Chuzenji, and How to Fit Them into One Day",
+        seoTitle: "Nikko Day Trip from Tokyo 2026",
+        description: "The two halves of Nikko, the World Heritage shrines and the mountain lake above them, the train and bus logistics from Tokyo, the autumn traffic problem, and what a guided day changes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nikko-autumn-kegon-falls-lake-chuzenji-and-toshogu/img0/1600.webp",
+        fastFacts: [
+          { icon: "train", label: "From Tokyo", value: "2 hours, Tobu from Asakusa or JR Shinkansen via Utsunomiya" },
+          { icon: "landmark", label: "Toshogu", value: "Tokugawa Ieyasu's mausoleum, 1617, World Heritage" },
+          { icon: "mountain", label: "Kegon Falls", value: "97 m, lift to the base viewing deck" },
+          { icon: "clock", label: "Length", value: "Full day, 11 to 12 hours door to door" },
+          { icon: "calendar", label: "Peak", value: "Mid-October to early November, expect bus queues" },
+          { icon: "ticket", label: "Toshogu entry", value: "Around 1,600 yen, more for the museum" },
+        ],
+        sections: [
+
+          {
+            title: "Two Nikkos",
+            icon: "map",
+            content: "Nikko is a temple town at 550 metres and, above it, a mountain plateau at 1,270 metres reached by the Irohazaka switchback road. The town holds the World Heritage group: Toshogu, the lavishly carved mausoleum of the first Tokugawa shogun, with the sleeping cat and the three monkeys; Rinno-ji temple; and Futarasan shrine, all within a fifteen-minute walk of each other in cedar forest. The plateau holds Lake Chuzenji, the Kegon waterfall that drains it, and in October the best autumn colour within reach of Tokyo. Doing both in a day is possible; doing both properly is a long day.",
+            tourCard: {
+              slug: "nikko-autumn-kegon-falls-lake-chuzenji-and-toshogu",
+              title: "Nikko Autumn Kegon Falls, Lake Chuzenji and Toshogu",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 80.00",
+              duration: "12 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nikko-autumn-kegon-falls-lake-chuzenji-and-toshogu/img0/1600.webp",
+            },
+          },
+          {
+            title: "Getting there",
+            icon: "train",
+            content: "Tobu's limited express from Asakusa reaches Tobu-Nikko in about two hours; the JR route runs the Shinkansen to Utsunomiya and a local line on, also about two hours, and is the one covered by a JR Pass. Both stations are ten minutes apart at the bottom of town; the shrines are a twenty-minute uphill walk or a short bus. Tobu's Nikko passes bundle the train, the local buses to the shrines and up to Chuzenji, and are the sensible buy for independent days. First trains at about 6:30 make a 9:00 shrine arrival realistic.",
+            tourCard: {
+              slug: "kegon-falls-lake-chuzenji-and-toshogu-temple-in-tokyo",
+              title: "Kegon Falls, Lake Chuzenji and Toshogu Temple in Tokyo",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 142.00",
+              duration: "10.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kegon-falls-lake-chuzenji-and-toshogu-temple-in-tokyo/img0/1600.webp",
+            },
+          },
+          {
+            title: "The shrine hour",
+            icon: "landmark",
+            content: "Toshogu opens at 9:00 (8:00 April to October) and the tour buses arrive by 10:00, so be at the gate at opening. The carvings are the point: the Yomeimon gate's 500 figures, the sacred stable with the monkeys, the nemuri-neko cat above the passage to Ieyasu's tomb, up 207 stone steps through the cedars. Allow 90 minutes for Toshogu, then Futarasan and Rinno-ji at a faster pace. The Shinkyo red bridge at the town end of the shrine road is the photo on the way back down.",
+            tourCard: {
+              slug: "full-tokyo-meiji-shrine-imperial-palace-asakusa-and-skytree-by-local-operator",
+              title: "Full Tokyo: Meiji Shrine, Imperial Palace, Asakusa and Skytree by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.00",
+              duration: "7 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-tokyo-meiji-shrine-imperial-palace-asakusa-and-skytree-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Up to Chuzenji and Kegon",
+            icon: "mountain",
+            content: "The bus from the shrines climbs the Irohazaka road, 48 hairpins named for the old Japanese syllabary, in about 45 minutes; in the third week of October it can take two hours, which is the autumn problem. Kegon Falls is a five-minute walk from the Chuzenji bus stop, with a paid lift down to the base platform that is worth it for the spray and the scale. The lake shore has boat trips and the Italian embassy villa (a tiny museum). Come down by 15:30 to be on a 17:00 train.",
+            tourCard: {
+              slug: "explore-3-day-private-tour-of-tokyo-mt-fuji-and-nikko-by-local-operator",
+              title: "Explore 3-Day Private Tour of Tokyo, Mt, Fuji and Nikko by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 1531.50",
+              duration: "3 days",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/explore-3-day-private-tour-of-tokyo-mt-fuji-and-nikko-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Guided or alone",
+            icon: "users",
+            content: "Independent Nikko works with the pass and an early start. A private car day from Tokyo, USD 400 to 700 per group, removes the three changes and the Irohazaka bus queue, and is the way to see both halves in autumn without the crowd timing wrecking it. Group coach tours are cheaper but arrive with the 10:00 wave. The [Tokyo day trips](/japan/tokyo/tokyo-day-trips) page compares it against Kamakura and Hakone; Nikko is the one that needs the whole day.",
+            tourCard: {
+              slug: "guided-day-trip-to-nikko-world-heritage-sites",
+              title: "Guided Day Trip to Nikko World Heritage Sites",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 120.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/guided-day-trip-to-nikko-world-heritage-sites/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Nikko doable as a day trip from Tokyo?", a: "Yes, but it is a long day. Leave Asakusa or Tokyo station by 7:00, see the shrines at opening, go up to Lake Chuzenji after lunch, return by 19:00." },
+          { q: "Which is the best way to get to Nikko?", a: "Tobu limited express from Asakusa is the cheapest and most direct; JR via Utsunomiya suits Japan Rail Pass holders. Both take about two hours." },
+          { q: "When is autumn colour in Nikko?", a: "Lake Chuzenji and Kegon Falls peak in mid-October; the shrine level in early November. Buses on the Irohazaka road are very slow at peak." },
+          { q: "How much is Toshogu Shrine?", a: "Around 1,600 yen for the shrine and Ieyasu's tomb; the museum is extra." },
+        ],
+      };
+
     default:
             return null;
     }

@@ -21,6 +21,7 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { BALI_GUIDES } from '@/lib/baliGuides';
+import { JAPAN_GUIDES } from '@/lib/japanGuides';
 
 interface Props {
     country: string;
@@ -241,24 +242,6 @@ const KRABI_SIDEBAR = [
 /** "Sri Lanka" -> "sri-lanka". toLowerCase() alone leaves the space in the URL. */
 const urlSlug = (s: string) => s.toLowerCase().trim().replace(/\s+/g, '-');
 
-const KYOTO_SIDEBAR = [
-    { name: 'Fushimi Inari Guide', slug: 'fushimi-inari-guide' },
-    { name: 'Kinkaku-ji Guide', slug: 'kinkaku-ji-guide' },
-    { name: 'Kiyomizu-dera Guide', slug: 'kiyomizu-dera-guide' },
-    { name: 'Arashiyama Bamboo', slug: 'arashiyama-bamboo-forest-guide' },
-    { name: 'Gion & Geisha', slug: 'gion-geisha-district-guide' },
-    { name: 'Nishiki Market', slug: 'nishiki-market-guide' },
-    { name: 'Autumn Foliage', slug: 'kyoto-autumn-foliage-guide' },
-    { name: 'Cherry Blossom', slug: 'kyoto-cherry-blossom-guide' },
-    { name: 'Kyoto Food Guide', slug: 'kyoto-food-guide' },
-    { name: 'Best Time to Visit', slug: 'best-time-to-visit-kyoto' },
-    { name: 'Getting Around', slug: 'getting-around-kyoto' },
-    { name: '3-Day Itinerary', slug: 'kyoto-3-day-itinerary' },
-    { name: 'Uji Tea Guide', slug: 'uji-tea-guide' },
-    { name: 'Kyoto with Kids', slug: 'kyoto-with-kids' },
-    { name: 'Where to Stay in Kyoto', slug: 'where-to-stay-in-kyoto' },
-    { name: 'Kyoto Workshops & Crafts', slug: 'kyoto-workshops-and-crafts' },
-];
 
 const COLOMBO_SIDEBAR = [
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-colombo' },
@@ -504,26 +487,6 @@ const SAPPORO_SIDEBAR = [
     { name: 'Sapporo with Kids', slug: 'sapporo-with-kids' },
 ];
 
-const TOKYO_SIDEBAR = [
-    { name: 'Senso-ji & Asakusa', slug: 'senso-ji-asakusa-guide' },
-    { name: 'Tsukiji vs Toyosu', slug: 'tsukiji-toyosu-market-guide' },
-    { name: 'teamLab Guide', slug: 'teamlab-tokyo-guide' },
-    { name: 'Shinjuku Nightlife', slug: 'shinjuku-nightlife-guide' },
-    { name: 'Day Trips from Tokyo', slug: 'tokyo-day-trips' },
-    { name: 'Best Time to Visit', slug: 'best-time-to-visit-tokyo' },
-    { name: '3-Day Itinerary', slug: 'tokyo-3-day-itinerary' },
-    { name: 'Getting Around', slug: 'getting-around-tokyo' },
-    { name: 'Shibuya Crossing', slug: 'shibuya-crossing-guide' },
-    { name: 'Street Go-Kart Guide', slug: 'tokyo-go-kart-guide' },
-    { name: 'Mount Fuji Day Trip', slug: 'mount-fuji-day-trip-from-tokyo' },
-    { name: 'Tokyo Food Guide', slug: 'tokyo-food-guide' },
-    { name: 'Sumo in Tokyo', slug: 'tokyo-sumo-guide' },
-    { name: 'Akihabara Guide', slug: 'akihabara-guide' },
-    { name: 'Tokyo with Kids', slug: 'tokyo-with-kids' },
-    { name: 'Where to Stay in Tokyo', slug: 'where-to-stay-in-tokyo' },
-    { name: 'Onsen & Sento Guide', slug: 'tokyo-onsen-and-sento-guide' },
-    { name: 'Shibuya Sky Guide', slug: 'shibuya-sky-guide' },
-];
 
 function renderIcon(name: string) {
     const props = { size: 20 };
@@ -577,6 +540,7 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
 
     const SIDEBAR_MAP: Record<string, typeof AGRA_SIDEBAR> = {
         ...BALI_GUIDES,
+        ...JAPAN_GUIDES,
         'ha-long': HA_LONG_SIDEBAR,
         'hanoi': HANOI_SIDEBAR,
         'sapa': SAPA_SIDEBAR,
@@ -591,8 +555,6 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         'chiang-mai': CHIANG_MAI_SIDEBAR,
         pattaya: PATTAYA_SIDEBAR,
         krabi: KRABI_SIDEBAR,
-        tokyo: TOKYO_SIDEBAR,
-        kyoto: KYOTO_SIDEBAR,
         colombo: COLOMBO_SIDEBAR,
         kandy: KANDY_SIDEBAR,
         sigiriya: SIGIRIYA_SIDEBAR,

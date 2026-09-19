@@ -166,7 +166,15 @@ export const TOKYO_INFO_SLUGS = [
   'tokyo-with-kids',
   'where-to-stay-in-tokyo',
   'tokyo-onsen-and-sento-guide',
-  'shibuya-sky-guide'];
+  'shibuya-sky-guide',
+  'tokyo-samurai-and-ninja-experiences',
+  'tokyo-photography-tours-guide',
+  'tokyo-cycling-tours-guide',
+  'tokyo-kimono-and-tea-ceremony-guide',
+  'harajuku-guide',
+  'kamakura-day-trip-from-tokyo',
+  'nikko-day-trip-from-tokyo',
+];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
 export const KYOTO_INFO_SLUGS = [
@@ -182,7 +190,16 @@ export const KYOTO_INFO_SLUGS = [
   'uji-tea-guide',
   'kyoto-with-kids',
   'where-to-stay-in-kyoto',
-  'kyoto-workshops-and-crafts'];
+  'kyoto-workshops-and-crafts',
+  'kyoto-tea-ceremony-guide',
+  'kyoto-geisha-maiko-experiences',
+  'kyoto-kimono-rental-guide',
+  'kyoto-cycling-guide',
+  'kyoto-night-tours-guide',
+  'kyoto-zen-meditation-guide',
+  'nijo-castle-guide',
+  'kyoto-sake-guide',
+];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
 export const SAPPORO_INFO_SLUGS = [
@@ -222,7 +239,10 @@ export const NAGOYA_INFO_SLUGS = [
   'toyota-museums-guide',
   'nakasendo-magome-tsumago-guide',
   'is-nagoya-worth-visiting',
-  'where-to-stay-in-nagoya'];
+  'where-to-stay-in-nagoya',
+  'takayama-shirakawago-day-trip-from-nagoya',
+  'nagoya-samurai-experiences',
+];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
 export const ELLA_INFO_SLUGS = [
@@ -314,7 +334,11 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'climbing-mount-fuji-guide',
   'mount-fuji-viewpoints',
   'chureito-pagoda-guide',
-  'kawaguchiko-guide'
+  'kawaguchiko-guide',
+  'best-time-to-visit-mount-fuji',
+  'oshino-hakkai-guide',
+  'fuji-five-lakes-guide',
+  'mount-fuji-day-tour-routes',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
@@ -341,7 +365,13 @@ export const OSAKA_INFO_SLUGS = [
   'kuromon-market-guide',
   'osaka-with-kids',
   'where-to-stay-in-osaka',
-  'osaka-day-trips'];
+  'osaka-day-trips',
+  'osaka-cooking-classes-guide',
+  'osaka-photography-tours-guide',
+  'osaka-onsen-and-spa-guide',
+  'kobe-day-trip-from-osaka',
+  'osaka-kimono-rental-guide',
+];
 
 export const KASHMIR_INFO_SLUGS = [
   'kashmir-travel-guide-2026', 'things-to-do-in-kashmir',

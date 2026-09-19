@@ -6,6 +6,10 @@ import Image from 'next/image';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { tagsForTitle, tagCounts } from '@/lib/tourTags';
 import { BALI_GUIDES } from '@/lib/baliGuides';
+import { JAPAN_GUIDES } from '@/lib/japanGuides';
+
+// Data-driven Essential Guides: every authority page of the city, one source of truth.
+const CITY_GUIDES: Record<string, { name: string; slug: string; image: string }[]> = { ...BALI_GUIDES, ...JAPAN_GUIDES };
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
@@ -3266,8 +3270,8 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </p>
         </section>
 
-        {/* Bali cities: Essential Guides, data-driven from lib/baliGuides.ts */}
-        {BALI_GUIDES[citySlug] && (
+        {/* Bali + Japan cities: Essential Guides, data-driven from lib/baliGuides.ts and lib/japanGuides.ts */}
+        {CITY_GUIDES[citySlug] && (
           <section className="mb-16">
             <h2 className="text-3xl font-black text-[#001A33] mb-3">
               Everything You Need to Know Before Visiting {city}
@@ -3276,7 +3280,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
               Researched guides on timing, tides, queues and what each place is really like.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {BALI_GUIDES[citySlug].map((guide) => (
+              {CITY_GUIDES[citySlug].map((guide) => (
                 <Link
                   key={guide.slug}
                   href={`/${countrySlug}/${citySlug}/${guide.slug}`}
@@ -3457,187 +3461,10 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
           </section>
         )}
 
-        {/* Tokyo Essential Guides Section */}
-        {city.toLowerCase() === 'tokyo' && (
-          <section className="mb-16">
-            <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Everything You Need to Know Before Visiting Tokyo
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { title: 'Best Time to Visit Tokyo', slug: 'best-time-to-visit-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740171/asiabylocals/tours/tokyo-private-walking-tour-local-guide/hq_tour_img_1.jpg' },
-                { title: 'Tokyo 3-Day Itinerary', slug: 'tokyo-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740232/asiabylocals/tours/tokyo-ebike-city-highlights-3-hours/hq_tour_img_1.jpg' },
-                { title: 'Getting Around Tokyo', slug: 'getting-around-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740245/asiabylocals/tours/tokyo-ebike-hidden-neighbourhoods-3-hours/hq_tour_img_1.jpg' },
-                { title: 'Shibuya Crossing Guide', slug: 'shibuya-crossing-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740190/asiabylocals/tours/tokyo-shibuya-neon-night-photo-walk/hq_tour_img_1.jpg' },
-                { title: 'Tokyo Street Go-Kart Guide', slug: 'tokyo-go-kart-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1786740222/asiabylocals/tours/tokyo-go-kart-shibuya-crossing-photo-stop/hq_tour_img_1.png' },
-                { title: 'Mount Fuji Day Trip', slug: 'mount-fuji-day-trip-from-tokyo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169014/asiabylocals/tours/nagano-zenkoji-snow-monkeys-day-trip/hq_tour_img_1.jpg' },
-                { title: 'Tokyo Food Guide', slug: 'tokyo-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169079/asiabylocals/tours/togoshi-ginza-hidden-food-tour/hq_tour_img_1.jpg' },
-              ].map((guide, idx) => (
-                <Link
-                  key={idx}
-                  href={`/japan/tokyo/${guide.slug}`}
-                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
-                >
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
-                    </div>
-                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
-                  </div>
-                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
-                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
-        {/* Kyoto Essential Guides Section */}
-        {city.toLowerCase() === 'kyoto' && (
-          <section className="mb-16">
-            <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Everything You Need to Know Before Visiting Kyoto
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { title: 'Best Time to Visit Kyoto', slug: 'best-time-to-visit-kyoto', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497351/asiabylocals/tours/kyoto-best-of-kyoto-day-tour/img0.jpg' },
-                { title: 'Kyoto 3-Day Itinerary', slug: 'kyoto-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497411/asiabylocals/tours/kyoto-kyoto-classic-tour/img0.jpg' },
-                { title: 'Getting Around Kyoto', slug: 'getting-around-kyoto', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497402/asiabylocals/tours/kyoto-kyoto-private-day-tour/img0.jpg' },
-                { title: 'Fushimi Inari Guide', slug: 'fushimi-inari-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497318/asiabylocals/tours/kyoto-kyoto-fushimi-inari-night-walking-tour/img0.jpg' },
-                { title: 'Arashiyama Bamboo Forest Guide', slug: 'arashiyama-bamboo-forest-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497404/asiabylocals/tours/kyoto-cycle-around-kyoto-1-day-private-e-bike-tour-with-hotel-pick/img0.jpg' },
-                { title: 'Gion Geisha District Guide', slug: 'gion-geisha-district-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497397/asiabylocals/tours/kyoto-gion-kyoto-maiko-geisha-photoshoot/img0.jpg' },
-                { title: 'Kyoto Food Guide', slug: 'kyoto-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1787497333/asiabylocals/tours/kyoto-kyoto-nishiki-market-and-depachika-food-tour/img0.jpg' },
-              ].map((guide, idx) => (
-                <Link
-                  key={idx}
-                  href={`/japan/kyoto/${guide.slug}`}
-                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
-                >
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
-                    </div>
-                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
-                  </div>
-                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
-                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
-        {/* Sapporo Essential Guides Section */}
-        {city.toLowerCase() === 'sapporo' && (
-          <section className="mb-16">
-            <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Everything You Need to Know Before Visiting Sapporo
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { title: 'Best Time to Visit Sapporo', slug: 'best-time-to-visit-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788014991/asiabylocals/tours/sapporo-hokkaido-day-trip-from-sapporo-asahiyama-zoo-blue-pond-shirahige-falls/img0.jpg' },
-                { title: 'Sapporo Snow Festival Guide', slug: 'sapporo-snow-festival-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015110/asiabylocals/tours/sapporo-asahikawa-biei-and-furano-small-group-winter-day-tour-from-sapporo/img0.jpg' },
-                { title: 'Getting Around Sapporo', slug: 'getting-around-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg' },
-                { title: 'Sapporo Food Guide', slug: 'sapporo-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015045/asiabylocals/tours/sapporo-sapporo-local-food-crawl-ten-plus-dishes-across-four-venues/img0.jpg' },
-                { title: 'Otaru Day Trip from Sapporo', slug: 'otaru-day-trip-from-sapporo', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015123/asiabylocals/tours/sapporo-otaru-and-the-shakotan-coast-seasonal-small-group-day-from-sapporo/img0.jpg' },
-                { title: 'Niseko & Hokkaido Ski Guide', slug: 'niseko-and-hokkaido-ski-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015052/asiabylocals/tours/sapporo-sapporo-teine-powder-day-all-inclusive-private-ski-or-snowboard-class/img0.jpg' },
-                { title: 'Sapporo 3-Day Itinerary', slug: 'sapporo-3-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015094/asiabylocals/tours/sapporo-sapporo-essentials-private-tour-clock-tower-odori-park-and-hokkaido-shri/img0.jpg' },
-              ].map((guide, idx) => (
-                <Link
-                  key={idx}
-                  href={`/japan/sapporo/${guide.slug}`}
-                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
-                >
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
-                    </div>
-                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
-                  </div>
-                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
-                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
-        {/* Nara Essential Guides Section */}
-        {city.toLowerCase() === 'nara' && (
-          <section className="mb-16">
-            <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Everything You Need to Know Before Visiting Nara
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { title: 'Best Time to Visit Nara', slug: 'best-time-to-visit-nara', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031879/asiabylocals/tours/nara-early-morning-tour/img0.jpg' },
-                { title: 'Nara Deer Park Guide', slug: 'nara-deer-park-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031886/asiabylocals/tours/nara-deer-park-todaiji-walking-tour/img0.jpg' },
-                { title: 'Todai-ji Temple Guide', slug: 'todai-ji-temple-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031886/asiabylocals/tours/nara-deer-park-todaiji-walking-tour/img1.png' },
-                { title: 'Nara Day Trip from Kyoto or Osaka', slug: 'nara-day-trip-from-kyoto-osaka', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031897/asiabylocals/tours/nara-deep-temple-mountain-escape/img0.png' },
-                { title: 'Nara Half-Day Itinerary', slug: 'nara-half-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788031909/asiabylocals/tours/nara-kimono-tea-ceremony-experience/img0.jpg' },
-              ].map((guide, idx) => (
-                <Link
-                  key={idx}
-                  href={`/japan/nara/${guide.slug}`}
-                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
-                >
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
-                    </div>
-                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
-                  </div>
-                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
-                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
-        {/* Nagoya Essential Guides Section */}
-        {city.toLowerCase() === 'nagoya' && (
-          <section className="mb-16">
-            <h2 className="text-3xl font-black text-[#001A33] mb-8">
-              Everything You Need to Know Before Visiting Nagoya
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { title: 'Best Time to Visit Nagoya', slug: 'best-time-to-visit-nagoya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194159/asiabylocals/tours/nagoya-nagoya-private-castle-samurai-history-city-icons-tour/img0.jpg' },
-                { title: 'Nagoya Castle Guide', slug: 'nagoya-castle-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194159/asiabylocals/tours/nagoya-nagoya-private-castle-samurai-history-city-icons-tour/img1.jpg' },
-                { title: 'Getting Around Nagoya', slug: 'getting-around-nagoya', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194057/asiabylocals/tours/nagoya-from-nagoya-gujo-hida-takayama-and-shirakawa-go-day-t/img0.jpg' },
-                { title: 'Nagoya Food Guide', slug: 'nagoya-food-guide', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194099/asiabylocals/tours/nagoya-nagoya-cruise-friendly-food-tour-at-kinjo-pier/img0.jpg' },
-                { title: 'Best Day Trips from Nagoya', slug: 'nagoya-day-trips', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194246/asiabylocals/tours/nagoya-nagoya-inuyama-castle-magome-juku-tsumago-juku-tour/img0.jpg' },
-                { title: 'Nagoya 2-Day Itinerary', slug: 'nagoya-2-day-itinerary', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194186/asiabylocals/tours/nagoya-nagoya-two-towers-one-night-of-urban-elegance/img0.jpg' },
-              ].map((guide, idx) => (
-                <Link
-                  key={idx}
-                  href={`/japan/nagoya/${guide.slug}`}
-                  className="flex items-center justify-between p-4 md:p-5 bg-white border border-gray-100 rounded-2xl hover:border-[#10B981]/30 hover:shadow-[0_20px_40px_-15px_rgba(16,185,129,0.15)] transition-all duration-300 group relative overflow-hidden active:scale-[0.98] hover:-translate-y-1.5"
-                >
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#10B981]/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="flex items-center gap-4 relative z-10">
-                    <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0 group-hover:scale-105 transition-all duration-300 shadow-sm">
-                      <img src={cloudinaryLoader({ src: guide.image, width: 128 })} alt={guide.title} className="w-full h-full object-cover" loading="lazy" />
-                    </div>
-                    <span className="font-black text-[#001A33] group-hover:text-[#10B981] transition-colors text-[17px] tracking-tight">{guide.title}</span>
-                  </div>
-                  <div className="relative z-10 flex items-center justify-center w-8 h-8 rounded-full bg-gray-50 group-hover:bg-[#10B981]/10 transition-colors">
-                    <ChevronRight size={18} className="text-gray-300 group-hover:text-[#10B981] transition-all duration-300 transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
         {/* Colombo Essential Guides Section */}
         {city.toLowerCase() === 'colombo' && (

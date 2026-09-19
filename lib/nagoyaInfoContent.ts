@@ -763,6 +763,186 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_SHIRAKAWAGO_OBS.image,
       };
+    case "takayama-shirakawago-day-trip-from-nagoya":
+      return {
+        title: "Takayama and Shirakawa-go from Nagoya: The Gassho Farmhouses, the Old Town, and How to Do Both in One Day",
+        seoTitle: "Takayama & Shirakawa-go Day Trip from Nagoya 2026",
+        description: "Nagoya is the closest big city to the Hida mountains. How to reach Takayama's Edo-era streets and the thatched village of Shirakawa-go in a day, by the Hida limited express and bus or by tour, the order that works, the winter light-up, and the honest case for staying overnight.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/shirakawa-go-and-hida-takayama-old-streets-day-tour/img0/1600.webp",
+        fastFacts: [
+          { icon: "train", label: "Nagoya to Takayama", value: "2 h 20 by the Hida limited express" },
+          { icon: "bus", label: "Takayama to Shirakawa-go", value: "50 minutes by Nohi bus, reserve" },
+          { icon: "landmark", label: "Shirakawa-go", value: "World Heritage 1995, about 100 gassho houses" },
+          { icon: "clock", label: "Day trip length", value: "12 to 13 hours by public transport; 10 to 11 by tour" },
+          { icon: "calendar", label: "Light-up", value: "Selected January and February evenings, reservation only" },
+          { icon: "ticket", label: "Tour price", value: "USD 90 to 140 coach; USD 500+ private" },
+        ],
+        sections: [
+
+          {
+            title: "Why from Nagoya",
+            icon: "map",
+            content: "Takayama and Shirakawa-go sit in the Hida mountains of Gifu, and Nagoya is the nearest gateway: the Hida limited express follows the Kiso and Hida river gorges north to Takayama in about two hours twenty, a journey that is a sight in itself, and Shirakawa-go is a fifty-minute bus beyond. From Tokyo or Kyoto the same trip needs Nagoya as the change anyway, which is why the tours start here. The [Nagoya day trips](/japan/nagoya/nagoya-day-trips) page compares it with Ise and the Kiso valley.",
+            tourCard: {
+              slug: "shirakawa-go-and-hida-takayama-old-streets-day-tour",
+              title: "Shirakawa-go and Hida Takayama Old Streets Day Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 93.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/shirakawa-go-and-hida-takayama-old-streets-day-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Shirakawa-go",
+            icon: "landmark",
+            content: "Ogimachi village in Shirakawa-go is a valley of gassho-zukuri farmhouses, steep thatched roofs like praying hands built to shed the three metres of snow the valley gets, some 250 years old and several still lived in. The view everyone wants is from the Shiroyama viewpoint above the village, a fifteen-minute walk or a shuttle bus. Two or three houses open as museums (Wada house is the largest); the open-air museum across the river gathers houses saved from flooded valleys. Two hours is enough; a whole day is too long unless it is snowing, when it is the best-looking village in Japan.",
+            tourCard: {
+              slug: "nagoya-exclusive-shirakawa-go-gassho-village-and-takayama-tour-by-local-operator",
+              title: "Nagoya Exclusive: Shirakawa-go Gassho Village and Takayama Tour by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.50",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-exclusive-shirakawa-go-gassho-village-and-takayama-tour-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Takayama",
+            icon: "home",
+            content: "Takayama's Sanmachi district is three streets of Edo-period merchant houses, sake breweries marked by cedar balls over the door, and miso and beef shops, best before 10:00 when the morning markets run along the Miyagawa river and at the Jinya, the only surviving provincial government house of the shogunate, which is the site to pay for. Hida beef is the lunch: skewers on the street, or a set at a counter for USD 25 to 40. The Yatai Kaikan shows the festival floats that parade in April and October.",
+            tourCard: {
+              slug: "hida-takayama-shirakawa-go-observatory",
+              title: "Hida Takayama, Shirakawa-go+Observatory",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 75.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hida-takayama-shirakawa-go-observatory/img0/1600.webp",
+            },
+          },
+          {
+            title: "Doing it in a day",
+            icon: "clock",
+            content: "By public transport: Hida express at about 7:40 from Nagoya, Takayama at 10:00, bus to Shirakawa-go at 10:50 (reserve the seat online, they sell out), village until 14:30, bus back, Takayama's old town from 15:30 to 17:30, express home at 17:40 or 18:40, Nagoya by 21:00. It works, but the old town gets its last two hours and the sun. Coach tours from Nagoya, USD 90 to 140, run a similar loop with the bus queues handled and about 90 minutes at each; private car tours cost USD 500 to 800 per group and can reverse the order to hit Shirakawa-go at 9:00, empty.",
+            tourCard: {
+              slug: "shirakawa-go-from-takayama-nagoya-one-day-bus-ticket-by-local-operator",
+              title: "Shirakawa-go from Takayama/Nagoya One day Bus ticket by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 28.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/shirakawa-go-from-takayama-nagoya-one-day-bus-ticket-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Staying over and winter",
+            icon: "calendar",
+            content: "The honest advice is one night in Takayama: the morning markets, the old town before the day trippers, and the Hida beef dinner are the parts a day trip cuts. In winter the valley is under snow from late December to March, the Shirakawa-go light-up runs on a handful of January and February evenings for reservation holders only (parking and shuttle bookings open months ahead and go within days), and the Hida express runs through a white gorge; it is the season the tours are built for. The [Nagoya best time](/japan/nagoya/best-time-to-visit-nagoya) page covers the city end.",
+            tourCard: {
+              slug: "obara-cherry-blossoms-and-korankei-autumn-illumination-in-nagoya",
+              title: "Obara Cherry Blossoms and Korankei Autumn Illumination in Nagoya",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 95.50",
+              duration: "6.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/obara-cherry-blossoms-and-korankei-autumn-illumination-in-nagoya/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can you do Takayama and Shirakawa-go in one day from Nagoya?", a: "Yes, with an early Hida express and a reserved bus: Shirakawa-go late morning to mid-afternoon, Takayama's old town for the last two hours. Tours do the same loop in 10 to 11 hours." },
+          { q: "How do I get from Nagoya to Shirakawa-go?", a: "Hida limited express to Takayama (2 h 20) then the Nohi bus (50 minutes), or a direct Gifu bus from Nagoya's Meitetsu bus centre in about 3 hours." },
+          { q: "Is Shirakawa-go worth it?", a: "Yes, for two hours: the viewpoint, one or two farmhouse interiors and the walk through the village. In snow it is exceptional." },
+          { q: "When is the Shirakawa-go light-up?", a: "Selected Sunday evenings in January and February, reservation only, with parking and shuttle bookings released months ahead." },
+        ],
+      };
+
+    case "nagoya-samurai-experiences":
+      return {
+        title: "Samurai Nagoya: Sword Classes, the Castle's Samurai Performers, Inuyama, and Why This Region Made the Shoguns",
+        seoTitle: "Nagoya Samurai Experiences Guide 2026",
+        description: "Nagoya is the home region of Nobunaga, Hideyoshi and Ieyasu, the three unifiers, and it sells samurai in a way Tokyo cannot: the castle's performance troupe, sword and iaido classes, the Tokugawa Art Museum's real armour and blades, and Inuyama's original keep. What each involves and how to combine them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/castle-samurai-history-and-tokugawa-art-museum/img0/1600.webp",
+        fastFacts: [
+          { icon: "landmark", label: "The three unifiers", value: "Nobunaga, Hideyoshi, Ieyasu were all from this region" },
+          { icon: "users", label: "Castle performers", value: "Nagoya Omotenashi Bushotai, daily at the castle" },
+          { icon: "ticket", label: "Sword class", value: "USD 50 to 120, 60 to 90 minutes" },
+          { icon: "clock", label: "Tokugawa Art Museum", value: "2 hours; armour, swords, the Genji scrolls" },
+          { icon: "map", label: "Inuyama castle", value: "National treasure keep, 30 minutes by Meitetsu" },
+          { icon: "calendar", label: "Nagoya festival", value: "October, with the three unifiers' procession" },
+        ],
+        sections: [
+
+          {
+            title: "Why Nagoya",
+            icon: "landmark",
+            content: "The three men who unified Japan in the 16th century all came from what is now Aichi: Oda Nobunaga from Nagoya's Kiyosu, Toyotomi Hideyoshi from Nakamura ward, Tokugawa Ieyasu from Okazaki. Ieyasu built Nagoya castle in 1612 for his son, and his Owari branch of the family ruled here until 1871, which is why the Tokugawa Art Museum holds the largest private samurai collection in the country. Samurai in Nagoya is not a theme; it is the local history, and the experiences are anchored to real places. The [Nagoya castle guide](/japan/nagoya/nagoya-castle-guide) covers the site.",
+            tourCard: {
+              slug: "castle-samurai-history-and-tokugawa-art-museum",
+              title: "Castle, Samurai History and Tokugawa Art Museum",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 140.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/castle-samurai-history-and-tokugawa-art-museum/img0/1600.webp",
+            },
+          },
+          {
+            title: "At the castle",
+            icon: "users",
+            content: "The Nagoya Omotenashi Bushotai, a troupe of performers in the persona of the three unifiers and their generals, greet visitors in the castle grounds daily and stage sword performances at weekends; they are polished, they speak some English, and they are free with the castle ticket. The rebuilt Honmaru palace, completed in 2018 in cypress with reproduced gold-leaf screens, is the finest reconstruction of a samurai residence in Japan and the reason to pay the entry even while the main keep stays closed; the [keep closure page](/japan/nagoya/nagoya-castle-keep-closure) has the current status.",
+            tourCard: {
+              slug: "tokugawa-garden-and-castle-samurai-heritage-tour",
+              title: "Tokugawa Garden and Castle Samurai Heritage Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 62.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tokugawa-garden-and-castle-samurai-heritage-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Classes",
+            icon: "shield",
+            content: "Sword experiences in Nagoya run from 60-minute samurai-costume sessions with choreographed moves and photos, to iaido and kenjutsu classes taught by practitioners with wooden swords and, for adults, a supervised tameshigiri cut through a rolled tatami mat with live steel. Prices USD 50 to 70 for the costume version and USD 90 to 120 for a taught class with a cut. Several run inside or beside the castle grounds and at studios in Sakae. Children from about six take the costume sessions; the cutting is adults only.",
+            tourCard: {
+              slug: "inuyama-castle-magome-juku-and-tsumago-juku-tour-in-nagoya",
+              title: "Inuyama Castle, Magome-juku, and Tsumago-juku Tour in Nagoya",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/inuyama-castle-magome-juku-and-tsumago-juku-tour-in-nagoya/img0/1600.webp",
+            },
+          },
+          {
+            title: "The real objects",
+            icon: "book",
+            content: "The Tokugawa Art Museum in the east of the city holds the Owari Tokugawa treasures: armour worn by Ieyasu, dozens of swords including national treasures, the tea utensils, and, in a rotating display each November, the 12th-century Tale of Genji scrolls. Two hours with the garden next door. The Nagoya City Museum and the Toyota museums are elsewhere; this is the one for the samurai. Okazaki castle, forty minutes east on the Meitetsu, has Ieyasu's birthplace and a decent museum of his life.",
+            tourCard: {
+              slug: "castle-samurai-and-hidden-merchant-streets-walk-in-nagoya",
+              title: "Castle, Samurai and Hidden Merchant Streets Walk in Nagoya",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 136.50",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/castle-samurai-and-hidden-merchant-streets-walk-in-nagoya/img0/1600.webp",
+            },
+          },
+          {
+            title: "Inuyama and combining",
+            icon: "map",
+            content: "Inuyama castle, thirty minutes north on the Meitetsu, has the oldest original keep in Japan (1537) on a bluff over the Kiso river, steep wooden stairs and a view from the top balcony with no glass. Its old town street below has sake, dango and a small museum of the festival floats. A samurai day pairs the castle performers and the Honmaru palace in the morning, a sword class at midday, and Inuyama in the afternoon; the Tokugawa Art Museum replaces Inuyama on wet days. The [Nagoya 2-day itinerary](/japan/nagoya/nagoya-2-day-itinerary) fits it around the rest.",
+            tourCard: {
+              slug: "tokugawa-art-museum-guided-tour",
+              title: "Tokugawa Art Museum Guided Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 123.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tokugawa-art-museum-guided-tour/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Are there samurai shows in Nagoya?", a: "Yes. The Nagoya Omotenashi Bushotai performs in the castle grounds daily with sword shows at weekends, free with the castle ticket." },
+          { q: "Can I take a sword class in Nagoya?", a: "Yes, from 60-minute costume sessions to iaido and tameshigiri classes with a real cut for adults, USD 50 to 120." },
+          { q: "Where can I see real samurai armour and swords in Nagoya?", a: "The Tokugawa Art Museum, which holds the Owari Tokugawa family collection including Ieyasu's armour and national-treasure swords." },
+          { q: "Is Inuyama castle worth visiting?", a: "Yes. It has Japan's oldest original keep, thirty minutes from Nagoya, with an open top balcony over the Kiso river." },
+        ],
+      };
+
     default:
       return null;
   }

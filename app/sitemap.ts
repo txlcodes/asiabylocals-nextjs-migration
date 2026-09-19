@@ -156,7 +156,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'tokyo-with-kids',
     'where-to-stay-in-tokyo',
     'tokyo-onsen-and-sento-guide',
-    'shibuya-sky-guide'].map(slug => ({
+    'shibuya-sky-guide',
+    'tokyo-samurai-and-ninja-experiences',
+    'tokyo-photography-tours-guide',
+    'tokyo-cycling-tours-guide',
+    'tokyo-kimono-and-tea-ceremony-guide',
+    'harajuku-guide',
+    'kamakura-day-trip-from-tokyo',
+    'nikko-day-trip-from-tokyo',
+].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -172,7 +180,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'uji-tea-guide',
     'kyoto-with-kids',
     'where-to-stay-in-kyoto',
-    'kyoto-workshops-and-crafts'].map(slug => ({
+    'kyoto-workshops-and-crafts',
+    'kyoto-tea-ceremony-guide',
+    'kyoto-geisha-maiko-experiences',
+    'kyoto-kimono-rental-guide',
+    'kyoto-cycling-guide',
+    'kyoto-night-tours-guide',
+    'kyoto-zen-meditation-guide',
+    'nijo-castle-guide',
+    'kyoto-sake-guide',
+].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -188,7 +205,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'kuromon-market-guide',
     'osaka-with-kids',
     'where-to-stay-in-osaka',
-    'osaka-day-trips'].map(slug => ({
+    'osaka-day-trips',
+    'osaka-cooking-classes-guide',
+    'osaka-photography-tours-guide',
+    'osaka-onsen-and-spa-guide',
+    'kobe-day-trip-from-osaka',
+    'osaka-kimono-rental-guide',
+].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -242,7 +265,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'nagoya-food-guide', 'nagoya-day-trips', 'nagoya-2-day-itinerary',
     'ghibli-park-guide', 'nagoya-castle-keep-closure', 'atsuta-shrine-guide', 'toyota-museums-guide', 'nakasendo-magome-tsumago-guide',
     'is-nagoya-worth-visiting',
-    'where-to-stay-in-nagoya'].map(slug => ({
+    'where-to-stay-in-nagoya',
+    'takayama-shirakawago-day-trip-from-nagoya',
+    'nagoya-samurai-experiences',
+].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -264,7 +290,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const mountFujiInfoPages = [
     'climbing-mount-fuji-guide', 'mount-fuji-viewpoints',
-    'chureito-pagoda-guide', 'kawaguchiko-guide'].map(slug => ({
+    'chureito-pagoda-guide', 'kawaguchiko-guide',
+    'best-time-to-visit-mount-fuji',
+    'oshino-hakkai-guide',
+    'fuji-five-lakes-guide',
+    'mount-fuji-day-tour-routes',
+].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

@@ -1459,6 +1459,456 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_AMANOHASHIDATE.image,
       };
+    case "osaka-cooking-classes-guide":
+      return {
+        title: "Cooking Classes in Osaka: Takoyaki, Okonomiyaki, Ramen, and How to Choose a Class Worth the Money",
+        seoTitle: "Osaka Cooking Classes Guide 2026",
+        description: "Osaka calls itself the kitchen of Japan and sells more cooking classes than any city outside Tokyo. What you cook in each type, home kitchen versus studio, market-visit classes, prices, and the dietary notes to send before booking.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/takoyaki-okonomiyaki-and-onigiri-cooking-class-in-osaka/img0/1600.webp",
+        fastFacts: [
+          { icon: "utensils", label: "Dishes", value: "Takoyaki, okonomiyaki, ramen, sushi, home-style washoku" },
+          { icon: "clock", label: "Length", value: "2 to 3 hours; 4 with a market visit" },
+          { icon: "ticket", label: "Price", value: "USD 45 to 120 per person" },
+          { icon: "users", label: "Class size", value: "2 to 8 in homes, up to 16 in studios" },
+          { icon: "map", label: "Where", value: "Namba, Shinsaibashi, Tenma, Kuromon market" },
+          { icon: "leaf", label: "Diets", value: "Vegetarian and halal versions exist; ask first" },
+        ],
+        sections: [
+
+          {
+            title: "What Osaka teaches",
+            icon: "utensils",
+            content: "Osaka's food identity is konamon, flour dishes: takoyaki (octopus in a batter ball, turned with a pick on an iron plate) and okonomiyaki (the cabbage and batter pancake griddled with pork or seafood). These are the classes that are unique to the city, take 90 minutes, and send you home with a skill you will use, because the plates and the batter are simple. Beyond them, Osaka classes cover ramen from stock to noodle, sushi rolling, gyoza, and the washoku home meal (rice, miso soup, a grilled fish, a simmered vegetable), which is the one that shows how Japanese families actually eat.",
+            tourCard: {
+              slug: "takoyaki-okonomiyaki-and-onigiri-cooking-class-in-osaka",
+              title: "Takoyaki, Okonomiyaki, and Onigiri Cooking Class in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 79.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/takoyaki-okonomiyaki-and-onigiri-cooking-class-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Home kitchen or studio",
+            icon: "home",
+            content: "Home classes, in an apartment with a host who cooks for a living or has trained to teach, are the most personal: small groups, the host's own recipes, lunch or dinner at their table, and conversation that ranges beyond food. Studio classes, in Namba or Shinsaibashi, are polished, run to a schedule, take larger groups and suit people with a train to catch. Both are good; the home version is usually a little more expensive per head and worth it for couples or families, the studio for solo travellers who want company.",
+            tourCard: {
+              slug: "sushi-making-in-spacious-studio-same-day-ok-in-osaka",
+              title: "Sushi Making in Spacious Studio (SAME-DAY OK!) in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 58.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sushi-making-in-spacious-studio-same-day-ok-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Market-first classes",
+            icon: "map",
+            content: "Several classes start at Kuromon market, Osaka's 170-year-old covered food street near Namba, where the host walks you through the fish, the wagyu counters and the pickle stalls and buys for the class. It adds an hour and USD 20 to 30 and it is the best version if you have not seen the market; the [Kuromon market guide](/japan/osaka/kuromon-market-guide) covers what you will pass. Tenma, north of the centre, has a similar shotengai and hosts who use it.",
+            tourCard: {
+              slug: "modern-vegetarian-sushi-cooking-class-in-osaka",
+              title: "Modern Vegetarian Sushi Cooking Class in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 133.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/modern-vegetarian-sushi-cooking-class-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Diets and children",
+            icon: "leaf",
+            content: "Tell the host at booking. Takoyaki without octopus (cheese or shrimp), vegetarian okonomiyaki, and fully vegetarian washoku menus are common; halal chicken or seafood versions are offered by a few hosts and worth asking for by name. Dashi stock is usually bonito-based, so vegetarians should ask for kombu-only. Children from about six cook takoyaki happily; knife-heavy classes set older minimums.",
+            tourCard: {
+              slug: "master-ramen-and-gyoza-at-a-japanese-cooking-class-in-osaka-by-local-operator",
+              title: "Master Ramen and Gyoza at a Japanese Cooking Class in Osaka by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.50",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/master-ramen-and-gyoza-at-a-japanese-cooking-class-in-osaka-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Prices and booking",
+            icon: "ticket",
+            content: "Takoyaki and okonomiyaki classes USD 45 to 70; ramen or sushi USD 60 to 90; washoku dinner in a home USD 80 to 120; market-visit classes USD 90 to 130. Book two to five days ahead, a week in cherry blossom and Golden Week. Classes run from 10:00 or 17:00; the evening ones double as dinner. Pair a morning class with the [Osaka castle](/japan/osaka/osaka-castle-guide) afternoon, or an evening one with [Dotonbori](/japan/osaka/dotonbori-guide) after.",
+            tourCard: {
+              slug: "kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka",
+              title: "Kuromon Market 1.5-Hour Seafood and Street Food Tour in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 54.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What should I cook in an Osaka cooking class?", a: "Takoyaki or okonomiyaki, the city's own dishes, if you want something you cannot learn elsewhere; a washoku home meal if you want to understand daily Japanese cooking." },
+          { q: "How much is a cooking class in Osaka?", a: "USD 45 to 70 for takoyaki or okonomiyaki, USD 60 to 90 for ramen or sushi, up to USD 130 with a Kuromon market visit." },
+          { q: "Are there vegetarian cooking classes in Osaka?", a: "Yes. Most hosts offer vegetarian versions and several run fully vegetarian or halal menus; say so at booking and ask for kombu dashi." },
+          { q: "Can children join?", a: "From about six for takoyaki and okonomiyaki. Knife-based classes set higher minimums." },
+        ],
+      };
+
+    case "osaka-photography-tours-guide":
+      return {
+        title: "Osaka Photography Tours: Dotonbori Neon, Shinsekai, Osaka Castle Reflections, and Portrait Shoots",
+        seoTitle: "Osaka Photography Tours Guide 2026",
+        description: "Where the good frames are in Osaka, the difference between a photo walk and a portrait session, the neon hour on Dotonbori, the retro streets of Shinsekai, and what to expect for the price.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/osaka-photo-shoot-with-a-professional-photographer-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "camera", label: "Formats", value: "Photo walk (you shoot) or portrait shoot (you are shot)" },
+          { icon: "clock", label: "Best hour", value: "Blue hour on Dotonbori, then full dark" },
+          { icon: "map", label: "Locations", value: "Dotonbori, Shinsekai, Osaka castle, Umeda Sky, Nakanoshima" },
+          { icon: "ticket", label: "Price", value: "USD 70 to 220" },
+          { icon: "image", label: "Delivery", value: "20 to 50 edited images within a week" },
+          { icon: "calendar", label: "Rain", value: "Neon improves; portraits move to covered arcades" },
+        ],
+        sections: [
+
+          {
+            title: "Two products",
+            icon: "camera",
+            content: "A photo walk pairs you with a photographer who takes you to the spots and coaches your own camera or phone; a portrait shoot has the photographer shoot you and deliver edited files. Osaka has both, and the portrait market is strong because Dotonbori's signs make a backdrop that needs no explanation. Check which you are booking; prices overlap between USD 70 and 220 depending on length and delivery.",
+            tourCard: {
+              slug: "osaka-photo-shoot-with-a-professional-photographer-by-local-operator",
+              title: "Osaka Photo Shoot with a Professional Photographer by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-photo-shoot-with-a-professional-photographer-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Dotonbori and Namba after dark",
+            icon: "moon",
+            content: "The Glico runner sign from Ebisu bridge is the shot everyone gets; the better ones are from the canal walkways below the bridge, looking back at the signs reflected in the water, and from the Tombori river cruise boats. Blue hour, about 30 minutes after sunset, is when the sky still holds colour behind the neon; in winter that is around 17:15, in summer around 19:30. Hozenji Yokocho, the lantern alley one street south with the moss-covered Fudo statue, is the quiet counterpoint. The [Dotonbori guide](/japan/osaka/dotonbori-guide) covers the layout.",
+            tourCard: {
+              slug: "osaka-ghost-tour-dark-castle-history-legends-cursed-namba-by-local-operator",
+              title: "Osaka Ghost Tour: Dark Castle History, Legends, Cursed Namba by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 58.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-ghost-tour-dark-castle-history-legends-cursed-namba-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Shinsekai and the retro frames",
+            icon: "landmark",
+            content: "Shinsekai, built in 1912 around the Tsutenkaku tower, is the most photographed neighbourhood after Dotonbori: kushikatsu shops with giant 3D signs, the tower lit in seasonal colours, the Janjan Yokocho arcade with its shogi halls. Late afternoon into evening works, and the tower's observation deck gives the reverse view. It is grittier than the guidebooks admit and completely safe; the [Shinsekai guide](/japan/osaka/shinsekai-guide) explains the district.",
+            tourCard: {
+              slug: "retro-tsutenkaku-deck-and-shinsekai-culture-guide-in-osaka",
+              title: "Retro Tsutenkaku Deck and Shinsekai Culture Guide in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 27.50",
+              duration: "Flexible",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/retro-tsutenkaku-deck-and-shinsekai-culture-guide-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Daylight frames",
+            icon: "sun",
+            content: "Osaka castle from the Nishinomaru garden, with the moat in front and the keep behind, at 8:00 before the coaches, and in early April from the cherry trees. Nakanoshima's riverside and the 1918 central public hall at dusk. The Umeda Sky building's floating garden observatory for the skyline at sunset (book the slot). Portrait shoots in kimono mostly use the castle park and Hozenji alley; Osaka's kimono rental shops are in Namba and near the castle.",
+            tourCard: {
+              slug: "osaka-private-highlights-castle-shinsekai-and-dotonbori-by-local-operator",
+              title: "Osaka Private Highlights: Castle, Shinsekai and Dotonbori by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 385.00",
+              duration: "6 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-private-highlights-castle-shinsekai-and-dotonbori-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Booking",
+            icon: "calendar",
+            content: "Two to three hours is standard. Night walks fill in November and cherry season; book a week ahead. A private walk for two runs USD 150 to 220, group walks USD 70 to 100, portrait sessions USD 120 to 200 with 20 to 50 edited images by link within a week. Tripods are banned on Ebisu bridge and in the castle keep; the tours shoot handheld.",
+            tourCard: {
+              slug: "private-walking-tour-with-castle-dotonbori-old-city",
+              title: "Private Walking Tour with Castle, Dotonbori, Old City",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 292.50",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/private-walking-tour-with-castle-dotonbori-old-city/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Where are the best photo spots in Osaka at night?", a: "Dotonbori from the canal walkways and the river cruise, Hozenji Yokocho's lantern alley, Shinsekai under Tsutenkaku, and the Umeda Sky observatory at sunset." },
+          { q: "When is blue hour in Osaka?", a: "About 30 minutes after sunset: roughly 17:15 in December and 19:30 in June." },
+          { q: "How much is an Osaka photo tour?", a: "USD 70 to 100 for a group walk, USD 150 to 220 private, USD 120 to 200 for a portrait session with edited files." },
+          { q: "Can I use a tripod on Ebisu bridge?", a: "No. It is a crowded pedestrian bridge and tripods are not allowed; photographers shoot handheld at high ISO." },
+        ],
+      };
+
+    case "osaka-onsen-and-spa-guide":
+      return {
+        title: "Onsen and Spa in Osaka: Spa World, Solaniwa, City Sento, and the Real Hot Springs an Hour Away",
+        seoTitle: "Osaka Onsen & Spa Guide 2026",
+        description: "Osaka has no natural hot spring in the centre but it has the country's biggest bath complexes and hundreds of neighbourhood sento. Which to choose, the tattoo rules, prices, and the true onsen towns within an hour: Arima and Kinosaki.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hyogo-kinosaki-onsen-hot-spring-day-trip-from-osaka-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "droplet", label: "In the city", value: "Spa World (Shinsekai), Solaniwa (Bempu), Nobeha no Yu" },
+          { icon: "ticket", label: "Price", value: "Sento 500 to 600 yen; complexes 1,500 to 3,000 yen" },
+          { icon: "map", label: "Real onsen", value: "Arima, 1 hour; Kinosaki, 2.5 hours" },
+          { icon: "shield", label: "Tattoos", value: "Banned at most complexes; small sento often tolerate; cover stickers sold" },
+          { icon: "clock", label: "Open", value: "Sento 15:00 to 24:00; Spa World nearly 24 hours" },
+          { icon: "users", label: "Mixed bathing", value: "No; separate floors, swimsuit zones at Spa World" },
+        ],
+        sections: [
+
+          {
+            title: "What Osaka actually has",
+            icon: "droplet",
+            content: "Osaka sits on a plain, not a volcano, so the city's baths are heated and mineralised rather than drawn from the ground, with a few exceptions that pump from deep wells. That does not make them worse for a first bath: the etiquette, the outdoor tubs, the saunas and the post-bath meal are the same, and the complexes here are the largest in Japan. For a real geothermal spring you go to Arima in the Rokko mountains behind Kobe, an hour away, or further to Kinosaki on the Sea of Japan.",
+            tourCard: {
+              slug: "hyogo-kinosaki-onsen-hot-spring-day-trip-from-osaka-by-local-operator",
+              title: "Hyogo: Kinosaki Onsen Hot Spring Day Trip from Osaka by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 149.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/hyogo-kinosaki-onsen-hot-spring-day-trip-from-osaka-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "The big complexes",
+            icon: "landmark",
+            content: "Spa World, next to Tsutenkaku in Shinsekai, has European and Asian themed floors that swap between men and women monthly, a rooftop pool zone in swimsuits for families, and stays open almost round the clock; it is the most tourist-friendly and the least traditional. Solaniwa Onsen at Osaka Bay Tower is an Edo-themed complex with yukata rental, a garden of outdoor tubs and restaurants, more atmospheric and pricier. Nobeha no Yu in Tsuruhashi and the Naniwa no Yu in the north are the local-standard super sento, cheaper and less themed. Expect 1,500 to 3,000 yen.",
+            tourCard: {
+              slug: "katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2",
+              title: "Katsuo-ji Temple, Kobe, and Arima Onsen Day Trip",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 98.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/katsuo-ji-temple-kobe-and-arima-onsen-day-trip/img0/1600.webp",
+            },
+          },
+          {
+            title: "Sento, the neighbourhood bath",
+            icon: "home",
+            content: "Osaka still has several hundred sento, the public baths that predate home bathrooms, at around 500 to 600 yen. They are small, hot, fast and full of regulars, and the one near your hotel is the most Japanese hour you can have for the price. Bring a small towel or buy one; wash sitting at the taps before entering the tub; no swimwear; hair up; phones away. The [Osaka nightlife guide](/japan/osaka/osaka-nightlife-guide) notes the ones that suit a late evening.",
+            tourCard: {
+              slug: "kobe-day-and-night-tour-arima-onsen-and-mt-rokko",
+              title: "Kobe Day and Night Tour, Arima Onsen and Mt. Rokko",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 81.00",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-day-and-night-tour-arima-onsen-and-mt-rokko/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tattoos",
+            icon: "shield",
+            content: "The big complexes ban visible tattoos, and Spa World checks at the desk. Cover stickers of about 10 by 15 cm are sold at chemists and inside some spas and are accepted for small pieces. Small sento often do not care; ask at the counter. Private family baths (kashikiri) at the complexes and at Arima's ryokan are the reliable answer for large tattoos, booked by the hour.",
+            tourCard: {
+              slug: "kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view",
+              title: "Kobe Day Trip with Arima Onsen and Mt. Rokko Night View",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 82.00",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view/img0/1600.webp",
+            },
+          },
+          {
+            title: "Going to a real onsen",
+            icon: "map",
+            content: "Arima, reached by Hankyu or Hanshin to Kobe then bus, or a direct highway bus from Osaka's Umeda in about an hour, has two waters: kinsen, the iron-rich brown gold spring, and ginsen, the clear silver one, in two public bathhouses and a street of ryokan that open for day bathing. It is Japan's oldest recorded onsen town. Kinosaki, two and a half hours by limited express, is the yukata-and-clogs town with seven public baths and is an overnight, not a day trip. Tours to Arima from Osaka combine it with Kobe beef for lunch; the [Kobe day trip](/japan/osaka/kobe-day-trip-from-osaka) page has the route.",
+            tourCard: {
+              slug: "himeji-castle-and-arima-onsen-and-mount-maya-trip-small-group",
+              title: "Himeji Castle and Arima Onsen and Mount Maya Trip-small group",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 110.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/himeji-castle-and-arima-onsen-and-mount-maya-trip-small-group/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is there a real onsen in Osaka?", a: "Not a natural one in the centre. The city has large bath complexes and hundreds of sento; the nearest true hot spring town is Arima, about an hour away." },
+          { q: "Can I use Spa World with tattoos?", a: "Visible tattoos are banned. Cover stickers work for small ones; otherwise book a private family bath or use a small neighbourhood sento." },
+          { q: "How much is a sento in Osaka?", a: "Around 500 to 600 yen. Bring or buy a small towel." },
+          { q: "How do I get to Arima Onsen from Osaka?", a: "Direct highway bus from Umeda in about an hour, or train to Kobe Sannomiya and the bus or Kobe Electric Railway up the mountain." },
+        ],
+      };
+
+    case "kobe-day-trip-from-osaka":
+      return {
+        title: "Kobe Day Trip from Osaka: Kobe Beef Without the Tourist Markup, Kitano, the Harbour, Nada Sake, and Arima Onsen",
+        seoTitle: "Kobe Day Trip from Osaka 2026",
+        description: "Kobe is 20 minutes from Osaka and most people go for the beef. How to eat real Kobe beef at a fair price, what else fills the day (Kitano's foreign houses, the harbourfront, the Nada sake breweries), and how to add Arima Onsen or the Rokko cable car.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kobe-sake-arima-onsen-and-mt-rokko-tour/img0/1600.webp",
+        fastFacts: [
+          { icon: "train", label: "From Osaka", value: "20 to 30 minutes, Hanshin, Hankyu or JR to Sannomiya" },
+          { icon: "utensils", label: "Kobe beef lunch", value: "USD 40 to 80 for a lunch set; dinner double" },
+          { icon: "map", label: "Neighbourhoods", value: "Kitano, Sannomiya, Meriken Park, Nada" },
+          { icon: "droplet", label: "Arima Onsen", value: "30 minutes from Sannomiya by bus or railway" },
+          { icon: "clock", label: "Length", value: "6 to 9 hours" },
+          { icon: "calendar", label: "Luminarie", value: "Late January light festival, since 1995" },
+        ],
+        sections: [
+
+          {
+            title: "Getting there",
+            icon: "train",
+            content: "Three railways run Osaka to Kobe's Sannomiya station: Hanshin from Umeda or Namba, Hankyu from Umeda, JR from Osaka station. All take 20 to 30 minutes, JR is fastest, Hankyu is prettiest. Sannomiya is the centre; Kitano is a fifteen-minute walk uphill, the harbour twenty minutes downhill, and the Nada breweries three stops east on the Hanshin line. The [Osaka day trips](/japan/osaka/osaka-day-trips) page compares Kobe with Nara and Kyoto.",
+            tourCard: {
+              slug: "kobe-sake-arima-onsen-and-mt-rokko-tour",
+              title: "Kobe Sake, Arima Onsen, and Mt. Rokko Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 67.00",
+              duration: "Full day",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-sake-arima-onsen-and-mt-rokko-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Kobe beef, honestly",
+            icon: "utensils",
+            content: "Kobe beef is Tajima-breed wagyu from Hyogo that passes a strict grading (A4 or A5, marbling score 6 or above) and is certified by the Kobe Beef Marketing and Distribution Promotion Association; restaurants that serve it display a bronze statue and a certificate with the animal's number. Lunch is the way to eat it: a 100 to 150 gram steak set at a teppanyaki counter runs USD 40 to 80 at midday against double at dinner. Book the lunch slot; walk-ins at 12:00 queue. The cheaper kushikatsu, croquette and beef-bowl versions in Sannomiya use Kobe-labelled offcuts and are a fair way to taste it for USD 10 to 20.",
+            tourCard: {
+              slug: "katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2",
+              title: "Katsuo-ji Temple, Kobe, and Arima Onsen Day Trip",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 98.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/katsuo-ji-temple-kobe-and-arima-onsen-day-trip/img0/1600.webp",
+            },
+          },
+          {
+            title: "The rest of the day",
+            icon: "map",
+            content: "Kitano's ijinkan, the hillside houses of the foreign merchants who settled after the port opened in 1868, are a pleasant hour with two or three interiors worth the small fees. The harbour at Meriken Park has the earthquake memorial (a preserved stretch of the quay left as the 1995 quake broke it), the red Port Tower and the maritime museum. Chinatown, Nankinmachi, is small and good for a snack. On a clear day the Shin-Kobe ropeway climbs to the Nunobiki herb garden with the city and bay below.",
+            tourCard: {
+              slug: "kobe-day-and-night-tour-arima-onsen-and-mt-rokko",
+              title: "Kobe Day and Night Tour, Arima Onsen and Mt. Rokko",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 81.00",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-day-and-night-tour-arima-onsen-and-mt-rokko/img0/1600.webp",
+            },
+          },
+          {
+            title: "Nada sake",
+            icon: "landmark",
+            content: "Nada, along the coast east of Sannomiya, is Japan's biggest sake-brewing district, with breweries such as Hakutsuru, Kiku-Masamune and Sawanotsuru running free museums and tastings within walking distance of Hanshin's Uozaki and Sumiyoshi stations. Hard water from the Rokko mountains gives Nada its dry, sharp style, the opposite of Kyoto's Fushimi. An hour and a half covers two museums and the walk between them.",
+            tourCard: {
+              slug: "asahi-beer-brewery-tour-with-beer-tasting-in-osaka",
+              title: "Asahi Beer Brewery Tour with Beer Tasting in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 100.50",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/asahi-beer-brewery-tour-with-beer-tasting-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Arima and the tours",
+            icon: "droplet",
+            content: "Arima Onsen, Japan's oldest recorded hot spring town, is thirty minutes from Sannomiya by the Kobe Electric Railway or a bus, and forty minutes from Osaka's Umeda by direct highway bus. The two public baths, Kin no Yu (brown iron water) and Gin no Yu (clear), take walk-ins for a few hundred yen. Guided Kobe days from Osaka, USD 100 to 200 per person, usually pair a Kobe beef lunch with Kitano and the harbour, or with Arima; private car days let you add the Rokko cable car for the night view, which is rated one of Japan's three best.",
+            tourCard: {
+              slug: "kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view",
+              title: "Kobe Day Trip with Arima Onsen and Mt. Rokko Night View",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 82.00",
+              duration: "9 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How far is Kobe from Osaka?", a: "Twenty to thirty minutes by train to Sannomiya on JR, Hankyu or Hanshin." },
+          { q: "How much does Kobe beef cost in Kobe?", a: "USD 40 to 80 for a certified lunch steak set at a teppanyaki counter; dinner is about double. Look for the bronze statue and certificate." },
+          { q: "Can I do Kobe and Arima Onsen in one day?", a: "Yes. Kobe beef lunch in Sannomiya, Kitano in the early afternoon, then thirty minutes to Arima for a bath and back to Osaka by evening." },
+          { q: "Is Kobe worth a day trip?", a: "Yes, especially for the beef at lunch prices and Kitano's foreign houses; it is a calmer city than Osaka with the harbour and mountains close." },
+        ],
+      };
+
+    case "osaka-kimono-rental-guide":
+      return {
+        title: "Kimono Rental in Osaka: Where to Rent, the Streets That Photograph Well, and How It Differs from Kyoto",
+        seoTitle: "Osaka Kimono Rental Guide 2026",
+        description: "Osaka's kimono rental is cheaper and quieter than Kyoto's. The shops around Namba and the castle, prices, the backdrops that work (Osaka castle park, Hozenji alley, Shitennoji), yukata in summer, and the etiquette basics.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nakazakicho-and-tenma-retro-streets-private-walk-in-osaka/img0/1600.webp",
+        fastFacts: [
+          { icon: "ticket", label: "Price", value: "USD 20 to 70 including dressing" },
+          { icon: "clock", label: "Return", value: "By 17:00 to 18:00" },
+          { icon: "map", label: "Shops", value: "Namba, Shinsaibashi, near Osaka castle" },
+          { icon: "landmark", label: "Backdrops", value: "Osaka castle park, Hozenji Yokocho, Shitennoji, Sumiyoshi Taisha" },
+          { icon: "calendar", label: "Yukata", value: "June to September" },
+          { icon: "users", label: "Men and kids", value: "Available at most larger shops" },
+        ],
+        sections: [
+
+          {
+            title: "Osaka versus Kyoto",
+            icon: "landmark",
+            content: "Kyoto has the streets; Osaka has the queues without them. Rental in Osaka costs a little less, the shops are rarely sold out, and the dressing is faster because the shops are less busy. The trade is the backdrop: Osaka's photogenic kimono locations are islands (the castle park, one alley in Namba, a temple or two) rather than whole districts. If you are visiting both cities, rent in Kyoto; if Osaka is your base and you want the photos without the crowd, rent here. The [Kyoto kimono guide](/japan/kyoto/kyoto-kimono-rental-guide) covers the other side.",
+            tourCard: {
+              slug: "nakazakicho-and-tenma-retro-streets-private-walk-in-osaka",
+              title: "Nakazakicho and Tenma Retro Streets Private Walk in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 117.00",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nakazakicho-and-tenma-retro-streets-private-walk-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "How it works and what it costs",
+            icon: "ticket",
+            content: "Choose from racks priced by tier, be dressed in about twenty minutes with all layers, obi, tabi and sandals, store your bag, and return by late afternoon. Basic polyester plans USD 20 to 35, mid plans with hair styling USD 35 to 50, silk or furisode USD 60 to 70. Yukata, the cotton summer version, from June to September at the lower end. Men's kimono with hakama and children's sizes at the larger Namba shops.",
+            tourCard: {
+              slug: "modern-vintage-kimono-styling-and-namba-photo-walk-in-osaka",
+              title: "Modern-Vintage Kimono Styling and Namba Photo Walk in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 92.00",
+              duration: "Full day",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/modern-vintage-kimono-styling-and-namba-photo-walk-in-osaka/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where to walk",
+            icon: "map",
+            content: "Osaka castle park: the Nishinomaru garden lawn with the keep behind, the moat bridges, and in early April the cherry trees. Hozenji Yokocho in Namba: the stone-paved lantern alley with the moss-covered Fudo statue, five minutes from the Dotonbori shops. Shitennoji, the 6th-century temple south of the centre, with its five-storey pagoda and quiet grounds. Sumiyoshi Taisha in the south, with the steep red arched bridge. The [Osaka castle guide](/japan/osaka/osaka-castle-guide) has the park layout.",
+            tourCard: {
+              slug: "osaka-castle-grounds-kimono-experience-and-tenma-street-walk-by-local-operator",
+              title: "Osaka Castle Grounds, Kimono Experience and Tenma Street Walk by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 158.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-castle-grounds-kimono-experience-and-tenma-street-walk-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Etiquette",
+            icon: "shield",
+            content: "Left panel over right, always. Small steps, hands together at the front, sit on the edge of chairs so the obi knot survives. Eat lightly; the obi does not stretch. In summer, yukata are cooler but still hot by 14:00, so plan the walk for the morning. Shops provide rain ponchos; sandals cope with wet paving better than they look.",
+            tourCard: {
+              slug: "osaka-private-night-tour-hidden-alleys-and-local-streets-by-local-operator",
+              title: "Osaka Private Night Tour: Hidden Alleys and Local Streets by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 154.00",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-private-night-tour-hidden-alleys-and-local-streets-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "A kimono day in Osaka",
+            icon: "clock",
+            content: "Dress at 9:30 near the castle, walk the park until 11:30, subway to Namba for lunch and Hozenji alley photos at 13:00 when the light is soft under the lanterns, return the kimono by 16:30. Add a [tea ceremony](/japan/kyoto/kyoto-tea-ceremony-guide) style session (several Osaka studios run them) or a photographer for the alley; the [Osaka photography guide](/japan/osaka/osaka-photography-tours-guide) has the options.",
+            tourCard: {
+              slug: "sumo-show-and-live-match-with-photo-in-osaka",
+              title: "Sumo Show and Live Match with Photo in Osaka",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sumo-show-and-live-match-with-photo-in-osaka/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is it better to rent a kimono in Osaka or Kyoto?", a: "Kyoto for the streets, Osaka for lower prices and no queues. If you visit both, Kyoto; if Osaka is your base, the castle park and Hozenji alley photograph well." },
+          { q: "How much is kimono rental in Osaka?", a: "USD 20 to 35 basic, USD 35 to 50 with hair styling, USD 60 to 70 for silk or furisode." },
+          { q: "Where should I walk in a kimono in Osaka?", a: "Osaka castle park, Hozenji Yokocho in Namba, Shitennoji temple and Sumiyoshi Taisha." },
+          { q: "Can I rent a yukata in summer?", a: "Yes, June to September, cheaper and cooler than kimono." },
+        ],
+      };
+
     default:
             return null;
     }

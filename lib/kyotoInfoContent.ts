@@ -1632,6 +1632,726 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_KNIFE.image,
       };
+    case "kyoto-tea-ceremony-guide":
+      return {
+        title: "Tea Ceremony in Kyoto: What a Session Includes, Where the Real Tea Houses Are, and How to Choose Between 45 Minutes and a Full Chaji",
+        seoTitle: "Kyoto Tea Ceremony Guide 2026",
+        description: "Kyoto is where the tea ceremony was codified, and it has more sessions for visitors than any city. What you actually do in one, the difference between a tourist session and a formal chaji, the neighbourhoods, prices and etiquette.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/karasuma-shijo-kimono-tea-ceremony-with-matcha-and-sweets-in-kyoto/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Tourist session", value: "45 to 60 minutes" },
+          { icon: "ticket", label: "Price", value: "USD 25 to 50 group, USD 70 to 150 private" },
+          { icon: "map", label: "Where", value: "Gion, Higashiyama, Arashiyama, Uji" },
+          { icon: "landmark", label: "Origin", value: "Sen no Rikyu, 16th century, Kyoto" },
+          { icon: "shield", label: "Kneeling", value: "Optional; chairs or stools offered" },
+          { icon: "calendar", label: "Book", value: "1 to 3 days ahead, more in November" },
+        ],
+        sections: [
+
+          {
+            title: "Why Kyoto for tea",
+            icon: "landmark",
+            content: "The tea ceremony as it exists today was shaped in Kyoto in the 16th century by Sen no Rikyu, and the three schools that descend from his family, Urasenke, Omotesenke and Mushakojisenke, still have their headquarters in the city. Kyoto is also next door to Uji, where the highest-grade matcha is grown under shade. That is why a session here has weight that one in a hotel elsewhere does not: many hosts are trained in a Kyoto school, and the tea is from the hills you can see. The [Uji tea guide](/japan/kyoto/uji-tea-guide) covers the growing side.",
+            tourCard: {
+              slug: "karasuma-shijo-kimono-tea-ceremony-with-matcha-and-sweets-in-kyoto",
+              title: "Karasuma Shijo: Kimono Tea Ceremony with Matcha and Sweets in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 70.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/karasuma-shijo-kimono-tea-ceremony-with-matcha-and-sweets-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "What happens in a session",
+            icon: "cup",
+            content: "You enter a tatami room, usually through a low door that makes everyone bow, and sit on a cushion or a stool. The host explains the utensils, the scroll and flower in the alcove, and the four principles: harmony, respect, purity, tranquillity. A seasonal sweet is served; you eat it before the tea. The host whisks a bowl of thin tea for a guest, you watch the folded movements, and then you whisk your own. Forty-five minutes, in English, photos at the end. Some sessions add a short kimono dressing, which extends it to ninety minutes.",
+            tourCard: {
+              slug: "private-japanese-tea-ceremony-with-matcha-and-sweets-in-kyoto",
+              title: "Private Japanese Tea Ceremony with Matcha and Sweets in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 102.00",
+              duration: "45 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/private-japanese-tea-ceremony-with-matcha-and-sweets-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Choosing a level",
+            icon: "book",
+            content: "Three tiers exist. Group sessions of six to twenty in Gion and near Kiyomizu are the cheapest and are a good introduction. Private sessions in a real tea house, often a machiya with its own small garden, cost more and give you the quiet the ceremony was designed for. A formal chaji, with a kaiseki meal, thick tea and thin tea, runs four hours and is offered by a handful of hosts to small groups by arrangement; it is expensive and it is the real thing. For most visitors the private session is the sweet spot.",
+            tourCard: {
+              slug: "traditional-tea-ceremony-with-matcha-and-sweets-in-gion",
+              title: "Traditional Tea Ceremony with Matcha and Sweets in Gion",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 38.00",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-tea-ceremony-with-matcha-and-sweets-in-gion/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where",
+            icon: "map",
+            content: "Gion and the streets behind Kiyomizu-dera have the highest density of tea houses taking visitors, and pair naturally with the [Gion guide](/japan/kyoto/gion-geisha-district-guide) walk. Arashiyama sessions sit beside the bamboo grove and are quieter in the afternoon. Temple sub-temples, notably in the Daitoku-ji complex, occasionally open for tea with a monk. Uji, thirty minutes south, offers tea sessions at growers with a matcha grinding add-on. Avoid the hotel-lobby versions unless time is very short.",
+            tourCard: {
+              slug: "maikoya-nishiki-kimono-tea-ceremony-with-matcha-and-sweet-kyoto",
+              title: "Maikoya Nishiki: Kimono Tea Ceremony with Matcha and Sweet (Kyoto)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 70.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/maikoya-nishiki-kimono-tea-ceremony-with-matcha-and-sweet-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Etiquette in one paragraph",
+            icon: "shield",
+            content: "Bow when the bowl is placed in front of you. Pick it up with the right hand, rest it on the left palm, turn it two small turns clockwise so you do not drink from the front, drink in three or four sips, and turn it back before setting it down. Eat the sweet with the wooden pick provided. Do not step on the edges of the tatami mats. Phones stay away until invited. Say the tea was delicious; it is expected and it costs nothing.",
+            tourCard: {
+              slug: "discover-kinkaku-ji-and-ginkaku-ji-in-one-tour",
+              title: "Discover Kinkaku-ji and Ginkaku-ji in One Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 134.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/discover-kinkaku-ji-and-ginkaku-ji-in-one-tour/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How long is a tea ceremony in Kyoto?", a: "Forty-five to sixty minutes for a visitor session. A full chaji with a meal runs about four hours and is booked privately." },
+          { q: "Do I need to kneel?", a: "No. Every visitor session offers a stool or chair, and hosts prefer you comfortable to you in pain." },
+          { q: "Where is the best area for a tea ceremony in Kyoto?", a: "Gion and the Higashiyama streets below Kiyomizu-dera have the most tea houses; Arashiyama is quieter." },
+          { q: "How much does it cost?", a: "USD 25 to 50 in a group, USD 70 to 150 private, and several hundred for a formal chaji with kaiseki." },
+        ],
+      };
+
+    case "kyoto-geisha-maiko-experiences":
+      return {
+        title: "Meeting a Maiko in Kyoto: Dinners, Dances, Photo Sessions, and What Is Real",
+        seoTitle: "Kyoto Maiko & Geisha Experiences 2026",
+        description: "How visitors can actually meet a geiko or maiko in Kyoto, from the Gion Corner show to private ozashiki dinners, what each costs, and how to tell a real maiko from a tourist in costume.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/geiko-or-maiko-dance-and-gion-museum-visit/img0/1600.webp",
+        fastFacts: [
+          { icon: "users", label: "Real count", value: "About 250 geiko and maiko across five districts" },
+          { icon: "ticket", label: "Gion Corner", value: "Around 5,500 yen, 50-minute show" },
+          { icon: "ticket", label: "Private dinner", value: "USD 400 to 1,000+ per group" },
+          { icon: "clock", label: "Best sighting time", value: "17:30 to 18:30 in Gion's lanes" },
+          { icon: "shield", label: "Photos", value: "Never stop or touch a maiko on her way to work" },
+          { icon: "calendar", label: "Public dances", value: "April (Miyako Odori), autumn (Gion Odori)" },
+        ],
+        sections: [
+
+          {
+            title: "Who they are",
+            icon: "landmark",
+            content: "Kyoto's geiko (the Kyoto word for geisha) and maiko (apprentices, usually 15 to 20 years old) are professional entertainers trained in dance, song, shamisen and conversation, working from five hanamachi districts: Gion Kobu, Gion Higashi, Pontocho, Miyagawacho and Kamishichiken. There are roughly 250 in total. They are not hostesses and the ozashiki, the banquet room where they perform, is by introduction. Everything below is a way in that did not exist thirty years ago, and the [Gion district guide](/japan/kyoto/gion-geisha-district-guide) covers the streets themselves.",
+            tourCard: {
+              slug: "geiko-or-maiko-dance-and-gion-museum-visit",
+              title: "Geiko or Maiko Dance and Gion Museum Visit",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 33.50",
+              duration: "15 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/geiko-or-maiko-dance-and-gion-museum-visit/img0/1600.webp",
+            },
+          },
+          {
+            title: "The tiers",
+            icon: "ticket",
+            content: "Gion Corner is the entry point: a nightly 50-minute stage of kyo-mai dance, tea ceremony, koto and bunraku excerpts, with maiko on stage for the dance segment. Cheap and short. Next are group dinners, often 10 to 30 guests in a restaurant, where a maiko dances, plays a drinking game and moves between tables; these run USD 100 to 200 a head. Then the private ozashiki, arranged through a tea house or an agency, two hours with a maiko and a geiko for your group alone, kaiseki included, USD 400 to over 1,000 per group. The seasonal public dances (Miyako Odori in April, Kamogawa Odori in May, Gion Odori in November) are the best value: a full theatre production by the districts themselves, tickets USD 30 to 60.",
+            tourCard: {
+              slug: "maiko-dance-shozan-garden-dinner-and-night-view-tour-in-kyoto",
+              title: "Maiko Dance, Shozan Garden Dinner and Night View Tour in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 94.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/maiko-dance-shozan-garden-dinner-and-night-view-tour-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Photo sessions and the costume question",
+            icon: "camera",
+            content: "Many visitors in Gion are tourists dressed as maiko by makeover studios, wig and white makeup included, for USD 80 to 200. The studios are open about it and the results are good. A real maiko has her own hair (not a wig, which is why the long-hair styles matter), a longer hanging obi with the house crest, and is walking with purpose at dusk to an engagement, not posing on Hanamikoji. Photo sessions with a real maiko exist through the same agencies that arrange dinners, at USD 150 to 300 for thirty minutes, and are a fair way to get the portrait without the dinner.",
+            tourCard: {
+              slug: "gion-geisha-district-night-walking-tour",
+              title: "Gion Geisha District Night Walking Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 39.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gion-geisha-district-night-walking-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Manners on the street",
+            icon: "shield",
+            content: "Since 2019 Gion's private lanes carry signs banning photography, with fines, after years of maiko being chased and touched. Photograph from the public street, never block a maiko's path, and do not ask her to stop; she is late for work. Hanamikoji at 17:45 is where you are most likely to see one crossing to an appointment. The best behaviour is the one that keeps this open to visitors at all.",
+            tourCard: {
+              slug: "kyoto-gion-night-tour-geisha-district-sake-and-hidden-gems-by-local-operator",
+              title: "Kyoto Gion Night Tour: Geisha District, Sake and Hidden Gems by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 50.00",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-gion-night-tour-geisha-district-sake-and-hidden-gems-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Booking",
+            icon: "calendar",
+            content: "Gion Corner sells at the door. Group dinners need a few days' notice; private ozashiki need one to three weeks, and more in cherry blossom and November. The public dance seasons sell out weeks ahead for good seats. If the budget is tight, do the April or November dance plus an early-evening walk on Hanamikoji, and you will have seen the real thing twice for under USD 60.",
+            tourCard: {
+              slug: "gion-geisha-district-and-higashiyama-night-walk",
+              title: "Gion Geisha District and Higashiyama Night Walk",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 50.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gion-geisha-district-and-higashiyama-night-walk/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can tourists meet a geisha in Kyoto?", a: "Yes, through Gion Corner's nightly show, group maiko dinners, private ozashiki arranged by agencies, and the seasonal public dances." },
+          { q: "How much does a private maiko dinner cost?", a: "USD 400 to over 1,000 per group for two hours with kaiseki, depending on the number of performers." },
+          { q: "How do I tell a real maiko from a tourist in costume?", a: "Real maiko use their own hair and walk quickly to appointments at dusk; costumed visitors wear wigs and pose for photos in daylight." },
+          { q: "Is it legal to photograph maiko in Gion?", a: "From public streets, yes. The private lanes off Hanamikoji ban photography and fine offenders. Never block or touch a maiko." },
+        ],
+      };
+
+    case "kyoto-kimono-rental-guide":
+      return {
+        title: "Kimono Rental in Kyoto: Where to Rent, What It Costs, the Best Streets to Walk In One, and the Mistakes That Ruin the Photos",
+        seoTitle: "Kyoto Kimono Rental Guide 2026",
+        description: "Kyoto is the kimono capital for visitors. How rental works, prices from basic to silk, the neighbourhoods that look right in the photos, how to walk and sit in one, and the timing that avoids the queues.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kimono-rental-classic-and-traditional-selection-in-kyoto/img0/1600.webp",
+        fastFacts: [
+          { icon: "ticket", label: "Basic plan", value: "USD 20 to 40 including dressing" },
+          { icon: "ticket", label: "Premium", value: "USD 60 to 120, silk, hair, accessories" },
+          { icon: "clock", label: "Return", value: "By 17:30 to 18:30, or next-day plans" },
+          { icon: "map", label: "Best streets", value: "Higashiyama, Gion, Arashiyama" },
+          { icon: "calendar", label: "Yukata", value: "June to September, lighter and cheaper" },
+          { icon: "shield", label: "Left over right", value: "Always; right over left is for funerals" },
+        ],
+        sections: [
+
+          {
+            title: "How it works",
+            icon: "landmark",
+            content: "Rental shops cluster below Kiyomizu-dera, around Gion and at Arashiyama. You pick a kimono from racks priced by tier, staff dress you in twenty minutes with all the layers, obi, socks and sandals, and you walk out until the return hour. Bags are stored. Hair sets and accessory upgrades are add-ons. Men's kimono and hakama are stocked at most larger shops; children's sizes at some. A next-day return option lets you keep the kimono for an evening in Gion and bring it back the following morning.",
+            tourCard: {
+              slug: "kimono-rental-classic-and-traditional-selection-in-kyoto",
+              title: "Kimono Rental - Classic and Traditional Selection in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 35.00",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kimono-rental-classic-and-traditional-selection-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Prices and what changes with them",
+            icon: "ticket",
+            content: "The cheap plans use polyester, which is fine in photographs and better in rain. Mid plans add hair styling and a wider choice of obi. The top plans are silk, antique or furisode (the long-sleeved formal kimono) and come with a dresser who spends longer on the fit. For a day of walking the mid plan is the right buy; for a photo session in Gion the top plan shows. Expect USD 20 to 40, USD 40 to 60 and USD 60 to 120 for the three tiers.",
+            tourCard: {
+              slug: "kyoto-kimono-tea-ceremony-and-city-car-tour-with-photos-by-local-operator",
+              title: "Kyoto Kimono, Tea Ceremony and City Car Tour with Photos by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 29.50",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-kimono-tea-ceremony-and-city-car-tour-with-photos-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where it looks right",
+            icon: "map",
+            content: "Higashiyama's stone lanes, Ninenzaka and Sannenzaka, climbing to Kiyomizu-dera; the Yasaka pagoda street; Gion's Hanamikoji and Shirakawa canal; the Philosopher's Path in cherry season; Arashiyama's bamboo grove and the Togetsukyo bridge. All of these are within a short walk of rental shops, and all are empty before 9:00 and dense after 11:00. The [Kiyomizu-dera guide](/japan/kyoto/kiyomizu-dera-guide) has the timing for that hill.",
+            tourCard: {
+              slug: "best-of-kyoto-guided-full-day-or-half-day-tour-with-a-local-by-local-operator",
+              title: "Best of Kyoto: Guided Full-Day or Half-Day Tour with a Local by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 122.50",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/best-of-kyoto-guided-full-day-or-half-day-tour-with-a-local-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Walking, sitting, eating",
+            icon: "shield",
+            content: "Short steps, toes slightly inward, and hold the sleeves when you reach for anything. Sit on the front edge of chairs so the obi knot is not crushed, and on trains stand if you can. Carry a small bag in the hand, not over the shoulder. Eat lightly; the obi is tight, and a soup or noodle lunch in a kimono is a test of nerve. Rain ponchos are provided by the shops, and the sandals are surprisingly stable on cobbles.",
+            tourCard: {
+              slug: "gion-night-walking-tour-with-local-guide",
+              title: "Gion Night Walking Tour with Local Guide",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 41.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gion-night-walking-tour-with-local-guide/img0/1600.webp",
+            },
+          },
+          {
+            title: "Timing",
+            icon: "clock",
+            content: "Dress at 9:00 and be on the Higashiyama lanes by 9:30 for empty photos; by 11:00 the same lanes are full of other people in kimono. Return by 17:30. Book two to seven days ahead for late March to early April and mid to late November; walk-ins work the rest of the year on weekdays. Pair the day with a [tea ceremony](/japan/kyoto/kyoto-tea-ceremony-guide), which most tea houses welcome in kimono.",
+            tourCard: {
+              slug: "1-hour-geisha-show-performance-q-and-a-photos-in-kyoto-by-local-operator",
+              title: "1-Hour Geisha Show (Performance, Q and A, Photos) in Kyoto by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 100.50",
+              duration: "1 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/1-hour-geisha-show-performance-q-and-a-photos-in-kyoto-by-local-operator/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "How much is kimono rental in Kyoto?", a: "USD 20 to 40 for a basic polyester plan with dressing, up to USD 60 to 120 for silk with hair styling." },
+          { q: "Where is the best place to walk in a kimono in Kyoto?", a: "The Higashiyama lanes to Kiyomizu-dera, Gion and Shirakawa, and Arashiyama's bamboo grove, all before 10:00." },
+          { q: "Can I keep the kimono overnight?", a: "Many shops offer a next-day return plan for a small extra fee." },
+          { q: "Can men rent kimono in Kyoto?", a: "Yes. Most larger shops have men's kimono and hakama sets at the same prices." },
+        ],
+      };
+
+    case "kyoto-cycling-guide":
+      return {
+        title: "Cycling in Kyoto: Why It Is the Best Way Around the City, the Routes That Work, and the Rules",
+        seoTitle: "Kyoto Cycling & Bike Tours Guide 2026",
+        description: "Kyoto is flat, gridded and compact, and a bike beats the bus on most days. The classic routes through the east side, along the Kamo river and out to Arashiyama, e-bike versus city bike, rental costs and the parking rules the city enforces.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/best-of-kyoto-ginkakuji-and-path-of-philosophy-e-bike-tour-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "bike", label: "Terrain", value: "Flat grid, gentle rise to the east and north" },
+          { icon: "clock", label: "Tour length", value: "3 hours half day, 5 to 6 full day" },
+          { icon: "ticket", label: "Tour price", value: "USD 50 to 120" },
+          { icon: "ticket", label: "Rental", value: "USD 8 to 25 a day" },
+          { icon: "map", label: "Routes", value: "Kamo river, Higashiyama, Arashiyama, Fushimi" },
+          { icon: "shield", label: "Parking", value: "Only in racks; the city tows from streets" },
+        ],
+        sections: [
+
+          {
+            title: "Why a bike beats the bus",
+            icon: "bike",
+            content: "Kyoto's sights sit in a ring around a flat grid, and the buses that serve them are slow and full for most of the day. A bike does the Kamo riverbank from Demachiyanagi to Shijo in fifteen minutes, reaches the eastern temples along quiet residential lanes, and gets you to Arashiyama in 40 minutes on the Katsura river path. The only climbs are the short ramps up to Kiyomizu-dera and Ginkaku-ji, which e-bikes remove. Most guided tours use e-bikes for exactly this reason. The [getting around Kyoto](/japan/kyoto/getting-around-kyoto) page compares it with the bus and subway.",
+            tourCard: {
+              slug: "best-of-kyoto-ginkakuji-and-path-of-philosophy-e-bike-tour-by-local-operator",
+              title: "Best of Kyoto: Ginkakuji and Path of Philosophy E-Bike Tour by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 113.00",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/best-of-kyoto-ginkakuji-and-path-of-philosophy-e-bike-tour-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Routes",
+            icon: "map",
+            content: "East side classic: the Kamo river path north to the Shimogamo shrine forest, across to Ginkaku-ji, down the Philosopher's Path to Nanzen-ji and Heian shrine, then Gion. Arashiyama: west along the Katsura river path to the Togetsukyo bridge and the bamboo grove, back through the quiet temple lanes of Sagano. Fushimi: south along the Kamo to Fushimi Inari's lower shrine and on to the sake district's canals. Northwest: Kinkaku-ji, Ryoan-ji and Ninna-ji along the Kinukake road. Each is a half day; a full-day tour joins two.",
+            tourCard: {
+              slug: "best-of-kyoto-the-bamboo-forest-and-golden-temple-e-bike-tour-by-local-operator",
+              title: "Best of Kyoto: the Bamboo Forest and Golden Temple E-Bike Tour by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 138.00",
+              duration: "6 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/best-of-kyoto-the-bamboo-forest-and-golden-temple-e-bike-tour-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tours",
+            icon: "users",
+            content: "Half-day guided rides of three hours cover one route with temple stops and cost USD 50 to 80 in a group, USD 100 to 120 private. Full-day rides add lunch and a second area. The guide's value is the lanes: Kyoto's pleasure is the residential backstreets between the sights, and a guide strings them together in a way a map does not. Night rides along the river and through Gion run in summer.",
+            tourCard: {
+              slug: "city-secrets-ebike-tour-in-kyoto",
+              title: "City Secrets eBike Tour in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 165.50",
+              duration: "225 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/city-secrets-ebike-tour-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Renting and the rules",
+            icon: "shield",
+            content: "Rental shops near Kyoto station, Demachiyanagi and Arashiyama rent city bikes for USD 8 to 15 a day and e-bikes for USD 20 to 25; hotels often have a few. Ride on the left, on the road or the wider pavements, at walking pace where people are. Kyoto is strict on parking: bikes left on streets in the centre are removed within hours and cost a fee and a trip to a pound to recover. Use the paid racks (a coin or two) near stations and major temples; guides know where they are, which is a hidden reason to take a tour first.",
+            tourCard: {
+              slug: "full-day-city-highlights-bike-tour-with-light-lunch-in-kyoto",
+              title: "Full-Day City Highlights Bike Tour with Light Lunch in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 233.50",
+              duration: "8 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-city-highlights-bike-tour-with-light-lunch-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Season",
+            icon: "calendar",
+            content: "October to early December and March to May are ideal. July and August are hot and humid, so mornings only; December to February is cold but dry and the roads are empty. Cherry blossom along the Kamo and the Philosopher's Path in early April is the single best cycling week of the year, and the tours sell out for it. The [best time to visit](/japan/kyoto/best-time-to-visit-kyoto) page has the month-by-month.",
+            tourCard: {
+              slug: "kyoto-temples-shrines-and-cherry-blossom-day-trip",
+              title: "Kyoto Temples, Shrines and Cherry Blossom Day Trip",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 142.00",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-temples-shrines-and-cherry-blossom-day-trip/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is Kyoto good for cycling?", a: "Yes. It is flat, gridded and compact, and a bike beats the bus for most of the eastern and western sights." },
+          { q: "How much is a Kyoto bike tour?", a: "USD 50 to 80 for a three-hour group ride, USD 100 to 120 private, USD 120+ for a full day with lunch." },
+          { q: "Where can I park a bike in Kyoto?", a: "Only in designated racks near stations and temples. Bikes left on central streets are towed within hours." },
+          { q: "Do I need an e-bike in Kyoto?", a: "Not for the river or the centre. E-bikes help for the eastern temple ramps and for Arashiyama round trips." },
+        ],
+      };
+
+    case "kyoto-night-tours-guide":
+      return {
+        title: "Kyoto at Night: Gion After Dark, Illuminated Temples, Pontocho, and the Night Walks Worth Taking",
+        seoTitle: "Kyoto Night Tours & Evening Guide 2026",
+        description: "Kyoto closes early and then becomes its most beautiful. The Gion and Pontocho walks, the seasonal temple illuminations, Fushimi Inari after dark, food streets that stay open, and what a guided night tour adds.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-night-walk-fushimi-inari-s-lantern-lit-torii-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "moon", label: "Temples close", value: "Mostly 17:00; illuminations run to 21:00 in season" },
+          { icon: "map", label: "Night areas", value: "Gion, Pontocho, Kiyamachi, Fushimi Inari" },
+          { icon: "clock", label: "Tour length", value: "2 to 3 hours from 18:00" },
+          { icon: "ticket", label: "Price band", value: "USD 40 to 90 group, USD 120 to 200 private" },
+          { icon: "calendar", label: "Illuminations", value: "Late March to mid-April, mid-November to early December" },
+          { icon: "utensils", label: "Late food", value: "Pontocho and Kiyamachi until 23:00" },
+        ],
+        sections: [
+
+          {
+            title: "Kyoto's night is different",
+            icon: "moon",
+            content: "Kyoto is not a nightlife city in the Tokyo or Osaka sense. Temples shut around 17:00, shops by 20:00, and the streets empty. What remains is the lantern light on Gion's wooden facades, the Kamo river with restaurant terraces above it, Pontocho's alley of paper lanterns, and, in two seasons a year, temples opened after dark with their gardens lit. That quiet is the reason to go out, and it is why night walks are among the best-reviewed things in the city.",
+            tourCard: {
+              slug: "kyoto-night-walk-fushimi-inari-s-lantern-lit-torii-by-local-operator",
+              title: "Kyoto Night Walk: Fushimi Inari's Lantern-Lit Torii by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 78.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-night-walk-fushimi-inari-s-lantern-lit-torii-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "The classic walk",
+            icon: "map",
+            content: "Start at Yasaka shrine at dusk, walk Hanamikoji to see maiko heading to engagements around 17:45, cross into Shirakawa's canal lane where the willows are lit, then over the Kamo by the Shijo bridge into Pontocho. Two hours at an easy pace. A guide adds the stories of the tea houses and the etiquette of the district; the [Gion guide](/japan/kyoto/gion-geisha-district-guide) has the streets if you go alone. Finish with dinner on Pontocho or a bar on Kiyamachi, the parallel street of izakaya and small bars.",
+            tourCard: {
+              slug: "gion-geisha-district-and-higashiyama-night-walk",
+              title: "Gion Geisha District and Higashiyama Night Walk",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 50.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/gion-geisha-district-and-higashiyama-night-walk/img0/1600.webp",
+            },
+          },
+          {
+            title: "Fushimi Inari at night",
+            icon: "landmark",
+            content: "The shrine never closes and the torii tunnels are lit by lanterns after dark. From about 19:00 the crowds are gone, the paths up the mountain are quiet, and it is a different place: the walk to the Yotsutsuji viewpoint takes 40 minutes each way with a torch on the phone. Night tours run this with a guide who knows the loop and the fox lore; solo it is safe but easy to take a wrong fork. The [Fushimi Inari guide](/japan/kyoto/fushimi-inari-guide) covers the mountain.",
+            tourCard: {
+              slug: "kyoto-evening-fushimi-inari-gion-and-foodie-en-fr-de-guide-by-local-operator",
+              title: "Kyoto Evening: Fushimi Inari, Gion and Foodie EN/FR/DE Guide by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 125.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-evening-fushimi-inari-gion-and-foodie-en-fr-de-guide-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Illuminations",
+            icon: "calendar",
+            content: "Twice a year, in cherry blossom season (late March to mid-April) and autumn (mid-November to early December), temples such as Kiyomizu-dera, Kodai-ji, Eikan-do and Shoren-in open until 21:00 with their gardens lit, and Kiyomizu's stage over the lit maples is the image Kyoto uses of itself. Queues form; enter after 19:30 when the first wave leaves. Outside these windows, the Yasaka pagoda street and Kodai-ji's approach are lit year-round and empty after 20:00.",
+            tourCard: {
+              slug: "geiko-or-maiko-dance-and-gion-museum-visit",
+              title: "Geiko or Maiko Dance and Gion Museum Visit",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 33.50",
+              duration: "15 minutes",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/geiko-or-maiko-dance-and-gion-museum-visit/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tours and what they add",
+            icon: "users",
+            content: "Night tours run two to three hours from 18:00: the Gion walk, Gion plus Pontocho food, or Fushimi Inari's mountain. Group prices USD 40 to 90, private USD 120 to 200. The value is the guide's knowledge of which lanes are private, which restaurants take walk-ins in English, and the district's rules. Bar-hopping versions run on Kiyamachi and include two or three drinks. Kyoto is safe at night and the last subway is around midnight.",
+            tourCard: {
+              slug: "maiko-dance-shozan-garden-dinner-and-night-view-tour-in-kyoto",
+              title: "Maiko Dance, Shozan Garden Dinner and Night View Tour in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 94.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/maiko-dance-shozan-garden-dinner-and-night-view-tour-in-kyoto/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "What is there to do in Kyoto at night?", a: "Walk Gion and Pontocho by lantern light, climb Fushimi Inari after dark, eat on Kiyamachi, and in spring and autumn visit the illuminated temples until 21:00." },
+          { q: "Is Fushimi Inari open at night?", a: "Yes, 24 hours, and the torii paths are lantern-lit. Bring a phone torch for the upper trails." },
+          { q: "When are the Kyoto temple illuminations?", a: "Late March to mid-April and mid-November to early December, until about 21:00, at Kiyomizu-dera, Kodai-ji, Eikan-do and others." },
+          { q: "How much is a Kyoto night tour?", a: "USD 40 to 90 for a group walk, USD 120 to 200 private, more with a dinner or drinks included." },
+        ],
+      };
+
+    case "kyoto-zen-meditation-guide":
+      return {
+        title: "Zen Meditation in Kyoto: Zazen Sessions at Temples, Shukubo Stays, and What to Expect as a Beginner",
+        seoTitle: "Kyoto Zen Meditation (Zazen) Guide 2026",
+        description: "Kyoto has more zen temples than any city, and several run zazen for visitors. What a session involves, the temples that open to beginners in English, the stick, the posture, and how to pick between an hour and an overnight stay.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-zazen-meditation-and-tea-ceremony-at-joju-ji-temple-by-local-operator/img0/1600.webp",
+        fastFacts: [
+          { icon: "clock", label: "Session", value: "45 to 90 minutes including instruction" },
+          { icon: "ticket", label: "Cost", value: "Donation to USD 40 at temples; USD 60 to 120 with a guide" },
+          { icon: "map", label: "Temples", value: "Shunko-in, Taizo-in, Kennin-ji area, Nanzen-ji sub-temples" },
+          { icon: "landmark", label: "Schools", value: "Rinzai dominates Kyoto; Soto has fewer sites" },
+          { icon: "shield", label: "The stick", value: "Keisaku is offered, never forced, on request" },
+          { icon: "calendar", label: "Morning sessions", value: "Often 7:00 to 9:00; book ahead" },
+        ],
+        sections: [
+
+          {
+            title: "Zen in Kyoto",
+            icon: "landmark",
+            content: "Zen came to Kyoto in the 12th and 13th centuries and the great Rinzai monasteries, Kennin-ji, Tofuku-ji, Nanzen-ji, Daitoku-ji and Myoshin-ji, still function as training centres with dozens of sub-temples. Their dry gardens exist to be sat in front of, not photographed, and a handful of sub-temples run zazen sessions for visitors, in English, that put you on the cushion where the gardens make sense. That is the difference between reading about Ryoan-ji's stones and sitting in stillness for twenty minutes facing a garden like it.",
+            tourCard: {
+              slug: "kyoto-zazen-meditation-and-tea-ceremony-at-joju-ji-temple-by-local-operator",
+              title: "【Kyoto】Zazen Meditation and Tea Ceremony at Joju-ji Temple by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 150.50",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-zazen-meditation-and-tea-ceremony-at-joju-ji-temple-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "What a session is",
+            icon: "book",
+            content: "A monk or lay teacher explains posture (half lotus or on a bench, hands in the cosmic mudra, eyes half open, gaze at the floor), breathing and what to do with thoughts (nothing; let them pass). You then sit for one or two periods of 15 to 25 minutes, with walking meditation between. The keisaku, the flat stick, is offered to anyone who bows for it as a sharp wake-up across the shoulders; it is never used without consent. Sessions end with tea and questions. Nothing religious is asked of you.",
+            tourCard: {
+              slug: "zen-meditation-and-healing-tour-in-kyoto",
+              title: "Zen Meditation and Healing Tour in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 143.00",
+              duration: "4.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/zen-meditation-and-healing-tour-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Where to sit",
+            icon: "map",
+            content: "Shunko-in, inside the Myoshin-ji complex, runs English zazen and temple tours led by a vice-abbot who trained abroad. Taizo-in, in the same complex, offers zazen with its famous garden. Several Kennin-ji and Nanzen-ji sub-temples open on set mornings. Guided experiences combine a session with a temple walk and explanation of the garden, USD 60 to 120. Sohonzan Kennin-ji itself holds a free monthly public zazen (in Japanese, but the sitting needs no language). Check days; most run two or three times a week.",
+            tourCard: {
+              slug: "arashiyama-private-morning-tour-bamboo-grove-and-zen-temple-kyoto",
+              title: "Arashiyama Private Morning Tour: Bamboo Grove and Zen Temple (Kyoto)",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 108.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/arashiyama-private-morning-tour-bamboo-grove-and-zen-temple-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Going deeper: shukubo",
+            icon: "moon",
+            content: "Temple lodgings (shukubo) take guests overnight with evening and dawn zazen, vegetarian shojin ryori meals and early rising. In Kyoto proper the choice is smaller than on Mount Koya, but Myoshin-ji and a few others offer it, and the difference from a session is the 5:30 sitting after a night in the temple's silence. Book weeks ahead; rooms are few and the rules (curfew, no alcohol, shared baths) are real.",
+            tourCard: {
+              slug: "nighttime-zen-meditation-and-matcha-tea-experience-in-kyoto",
+              title: "Nighttime Zen Meditation and Matcha Tea Experience in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 267.00",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nighttime-zen-meditation-and-matcha-tea-experience-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practicalities",
+            icon: "shield",
+            content: "Wear loose trousers; skirts and tight jeans do not work on a cushion. Arrive fifteen minutes early, phones off. Knees that do not fold are common and benches or chairs are provided at every visitor session. Morning sessions pair with the [Arashiyama](/japan/kyoto/arashiyama-bamboo-forest-guide) or northwest temple day, since Myoshin-ji sits between them. Do it early in the trip: many people say the rest of Kyoto's temples read differently afterwards.",
+            tourCard: {
+              slug: "zen-and-art-at-tranquil-kennin-ji-temple-in-kyoto",
+              title: "Zen and Art at Tranquil Kennin-ji Temple in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 93.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/zen-and-art-at-tranquil-kennin-ji-temple-in-kyoto/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can beginners do zazen in Kyoto?", a: "Yes. Sub-temples such as Shunko-in and Taizo-in run English sessions built for first-timers, with posture instruction and chairs if needed." },
+          { q: "How long is a zazen session?", a: "Forty-five to ninety minutes: instruction, one or two sittings of 15 to 25 minutes, walking meditation and tea." },
+          { q: "Will I be hit with the stick?", a: "Only if you bow to request it. The keisaku is voluntary in every visitor session." },
+          { q: "Can I stay overnight at a zen temple in Kyoto?", a: "A few temples offer shukubo lodging with dawn zazen and vegetarian meals. Book several weeks ahead." },
+        ],
+      };
+
+    case "nijo-castle-guide":
+      return {
+        title: "Nijo Castle: The Nightingale Floors, Ninomaru Palace, and Why the Shogun's Kyoto Residence Matters",
+        seoTitle: "Nijo Castle Kyoto Guide 2026",
+        description: "What to see at Nijo Castle, the squeaking floors and why they squeak, the painted rooms of the Ninomaru palace, the gardens, entry prices, the 2026 restoration status, and how long it takes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nijo-castle-and-kyoto-imperial-palace-guided-tour/img0/1600.webp",
+        fastFacts: [
+          { icon: "landmark", label: "Built", value: "1603 by Tokugawa Ieyasu; World Heritage 1994" },
+          { icon: "ticket", label: "Entry", value: "Around 1,300 yen castle, 1,300 yen extra for the palace interior" },
+          { icon: "clock", label: "Hours", value: "8:45 to 17:00, last entry 16:00; closed some Tuesdays" },
+          { icon: "clock", label: "Visit length", value: "90 minutes to 2 hours" },
+          { icon: "map", label: "Access", value: "Nijojo-mae subway station, Tozai line" },
+          { icon: "calendar", label: "Best", value: "Early April (cherry, night lighting) and late November" },
+        ],
+        sections: [
+
+          {
+            title: "What it is",
+            icon: "landmark",
+            content: "Nijo Castle was built in 1603 as the Kyoto residence of Tokugawa Ieyasu, the first shogun, and it is where his line ended: in 1867 the last shogun announced the return of power to the emperor in its great hall. It is not a fortress in the Himeji sense but a palace inside moats, and the Ninomaru palace is the finest surviving example of the shoin style, with 3,600 paintings by the Kano school on gold leaf. The [Kyoto 3-day itinerary](/japan/kyoto/kyoto-3-day-itinerary) places it on the central-city morning.",
+            tourCard: {
+              slug: "nijo-castle-and-kyoto-imperial-palace-guided-tour",
+              title: "Nijo Castle and Kyoto Imperial Palace Guided Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 90.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nijo-castle-and-kyoto-imperial-palace-guided-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "The nightingale floors",
+            icon: "music",
+            content: "The corridors of the Ninomaru palace chirp underfoot. The sound comes from the nails and clamps under the boards flexing against each other, and the popular story that it was designed as an intruder alarm is disputed by the castle's own conservators, who say it is a by-product of the construction that was later valued. Either way, it is the sound everyone remembers, and the reason to walk the palace slowly. Photography is banned inside the palace; the painted rooms are seen through the open corridor sides.",
+            tourCard: {
+              slug: "nijo-castle-admission-world-heritage-guided-tour-in-kyoto",
+              title: "Nijo Castle Admission / World Heritage Guided Tour in Kyoto",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 55.00",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nijo-castle-admission-world-heritage-guided-tour-in-kyoto/img0/1600.webp",
+            },
+          },
+          {
+            title: "The route",
+            icon: "map",
+            content: "Enter by the east gate, pass the Karamon gate with its carved cranes and peonies, and the Ninomaru palace comes first: a series of rooms in descending rank from the audience halls to the shogun's living quarters, the tigers on gold in the waiting rooms, the pines in the great hall. Then the Ninomaru garden, a pond garden by Kobori Enshu, and across the inner moat to the Honmaru, where the palace was moved from the imperial grounds and reopened to visitors in 2024 after an 18-year restoration. Allow ninety minutes to two hours.",
+            tourCard: {
+              slug: "fushimi-inari-shrine-and-nijo-castle-highlights-tour",
+              title: "Fushimi Inari Shrine and Nijo Castle Highlights Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 115.50",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-inari-shrine-and-nijo-castle-highlights-tour/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "ticket",
+            content: "Entry is around 1,300 yen for the grounds and gardens and about 1,300 yen more for the Ninomaru palace interior, which is the point of the visit; buy both. The castle opens at 8:45 and the palace at 9:00; be at the gate then, because tour groups arrive from 10:00 and the corridors are narrow. The Nijojo-mae subway stop is at the gate; from Kyoto station it is one change, about 15 minutes. English audio guides are available; a guided tour is worth it here more than at most sites because the paintings are a political language.",
+            tourCard: {
+              slug: "crowd-free-kyoto-fushimi-inari-nijo-castle-and-kinkaku-ji-by-local-operator",
+              title: "Crowd-Free Kyoto: Fushimi Inari, Nijo Castle and Kinkaku-ji by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 138.50",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/crowd-free-kyoto-fushimi-inari-nijo-castle-and-kinkaku-ji-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Seasons",
+            icon: "calendar",
+            content: "The castle runs a cherry blossom night illumination in late March and early April, with projection art in the grounds, when the gardens are open until about 21:00. Late November brings the maples in the Seiryu-en garden. Summer is hot in the open grounds; do the palace and skip the far garden. Combine with Nishiki market, a fifteen-minute walk south, for lunch; the [Nishiki market guide](/japan/kyoto/nishiki-market-guide) has the stalls.",
+            tourCard: {
+              slug: "nijo-castle-arashiyama-kinkakuji-day-tour",
+              title: "Nijo Castle, Arashiyama, Kinkakuji Day Tour",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 65.50",
+              duration: "10 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/nijo-castle-arashiyama-kinkakuji-day-tour/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Why do the floors at Nijo Castle squeak?", a: "The nails and clamps under the boards flex and rub. The castle's conservators say it was a by-product of construction, not a designed alarm, though the alarm story is what everyone repeats." },
+          { q: "How much is Nijo Castle?", a: "About 1,300 yen for the grounds plus about 1,300 yen for the Ninomaru palace interior. Buy both; the palace is the reason to come." },
+          { q: "How long do you need at Nijo Castle?", a: "Ninety minutes to two hours, arriving at 8:45 before the groups." },
+          { q: "Can I take photos inside Nijo Castle?", a: "Not inside the Ninomaru palace. The gardens and exteriors are fine." },
+        ],
+      };
+
+    case "kyoto-sake-guide":
+      return {
+        title: "Sake in Kyoto: The Fushimi Brewing District, Tastings, Brewery Tours, and How to Read a Label",
+        seoTitle: "Kyoto Sake Guide 2026: Fushimi Breweries",
+        description: "Fushimi is one of Japan's three great sake districts and it is inside Kyoto. The breweries you can visit, the tasting counters, what makes Fushimi water soft, how junmai differs from daiginjo, and the tours that combine it with Fushimi Inari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-sake-tour-with-brewery-visit-and-tastings/img0/1600.webp",
+        fastFacts: [
+          { icon: "map", label: "District", value: "Fushimi, 15 minutes south of Kyoto station" },
+          { icon: "landmark", label: "Breweries", value: "About 20, including Gekkeikan and Kizakura" },
+          { icon: "ticket", label: "Tasting", value: "A few hundred yen per glass; museum entry around 600 yen" },
+          { icon: "clock", label: "Half day", value: "3 hours for museum, canal walk and two tastings" },
+          { icon: "calendar", label: "Brewing season", value: "October to March; new sake from late winter" },
+          { icon: "users", label: "Tours", value: "USD 60 to 120, often with Fushimi Inari" },
+        ],
+        sections: [
+
+          {
+            title: "Why Fushimi",
+            icon: "landmark",
+            content: "Fushimi's sake comes from its water: soft, low in iron, rising from the aquifer under the district, and the reason breweries settled here in the 17th century along the canals that carried barrels to Osaka. It is one of the three classic sake regions with Nada (Kobe) and Saijo (Hiroshima), and the white-walled kura along the Horikawa canal are the most complete brewing streetscape in the country. Gekkeikan, founded here in 1637, is the largest name; Kizakura, Fujioka and a dozen smaller kura are within a ten-minute walk of each other.",
+            tourCard: {
+              slug: "fushimi-sake-tour-with-brewery-visit-and-tastings",
+              title: "Fushimi Sake Tour with Brewery Visit and Tastings",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 142.00",
+              duration: "3 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-sake-tour-with-brewery-visit-and-tastings/img0/1600.webp",
+            },
+          },
+          {
+            title: "What to visit",
+            icon: "map",
+            content: "The Gekkeikan Okura Sake Museum, in a 1909 brewery, explains the process with the old tools and ends with three tastings and a small bottle; it is the right first stop. Kizakura's Kappa Country combines a tasting room and a small brewery with a restaurant. The canal walk between them passes the Teradaya inn, where Sakamoto Ryoma was attacked in 1866, and boat rides run on the canal in spring and autumn. Fushimi Sake Village, a hall of tasting counters from a dozen local kura, lets you taste across the district in one sitting for a few hundred yen a glass.",
+            tourCard: {
+              slug: "fushimi-sake-brewery-tour-18-tastings-in-2-5-hours",
+              title: "Fushimi Sake Brewery Tour - 18 Tastings in 2.5 Hours",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 142.00",
+              duration: "2.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-sake-brewery-tour-18-tastings-in-2-5-hours/img0/1600.webp",
+            },
+          },
+          {
+            title: "Reading the bottle",
+            icon: "book",
+            content: "Junmai means rice, water, koji and yeast only, no added alcohol. Ginjo means the rice was polished to 60 percent or less of its size; daiginjo to 50 percent or less, giving lighter, more aromatic sake. Honjozo has a little brewer's alcohol added for lightness. Namazake is unpasteurised and seasonal. Nihonshu-do, the sweetness scale, runs from minus (sweet) to plus (dry). Fushimi's soft water traditionally makes a rounder, gentler sake than the harder-water Nada style, which is the comparison a tasting counter will offer you.",
+            tourCard: {
+              slug: "fushimi-sake-district-tour-with-boat-ride",
+              title: "Fushimi Sake District Tour with Boat Ride",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 78.50",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-sake-district-tour-with-boat-ride/img0/1600.webp",
+            },
+          },
+          {
+            title: "Tours",
+            icon: "users",
+            content: "Guided sake walks of three hours cover the museum, two or three tasting stops and the canal, with the guide translating the counters and pairing the sake with local snacks; USD 60 to 90 in a group. Many combine the afternoon with Fushimi Inari, two stops north on the Keihan line, for a full day of USD 100 to 120; the [Fushimi Inari guide](/japan/kyoto/fushimi-inari-guide) covers the shrine. Brewery tours inside working kura are rare and run in the brewing season by appointment.",
+            tourCard: {
+              slug: "sake-tasting-and-original-sake-creating-experience-in-kyoto-by-local-operator",
+              title: "Sake Tasting and Original Sake-Creating Experience in Kyoto by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 49.50",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sake-tasting-and-original-sake-creating-experience-in-kyoto-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Practical",
+            icon: "clock",
+            content: "Fushimi-Momoyama station (Keihan) or Momoyama-goryo-mae (Kintetsu) put you in the district; from Kyoto station it is 15 to 20 minutes. Tasting counters open around 10:00 and close by 17:00; the museum closes at 16:30. Drink water between glasses, eat the salty snacks, and remember the tasting pours are small but the daiginjo is 16 percent. The Kyoto [food guide](/japan/kyoto/kyoto-food-guide) covers what to pair it with in the evening.",
+            tourCard: {
+              slug: "kyoto-gion-night-tour-geisha-district-sake-and-hidden-gems-by-local-operator",
+              title: "Kyoto Gion Night Tour: Geisha District, Sake and Hidden Gems by Local Operator",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 50.00",
+              duration: "1.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/kyoto-gion-night-tour-geisha-district-sake-and-hidden-gems-by-local-operator/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Can you visit sake breweries in Kyoto?", a: "Yes. The Fushimi district has around 20 breweries; the Gekkeikan museum, Kizakura and Fushimi Sake Village all offer tastings without an appointment." },
+          { q: "How do I get to Fushimi from Kyoto station?", a: "Kintetsu to Momoyama-goryo-mae or Keihan to Fushimi-Momoyama, 15 to 20 minutes. Fushimi Inari is two Keihan stops north." },
+          { q: "What is the difference between junmai and daiginjo?", a: "Junmai is pure rice sake with no added alcohol; daiginjo is sake from rice polished to 50 percent or less, lighter and more aromatic. A sake can be both." },
+          { q: "How much does a Kyoto sake tour cost?", a: "USD 60 to 90 for a three-hour guided tasting walk, USD 100 to 120 combined with Fushimi Inari." },
+        ],
+      };
+
     default:
             return null;
     }
