@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
+import { CITY_URL_MAP } from '@/lib/cityCountryMap';
 import { AGRA_INFO_SLUGS, UBUD_INFO_SLUGS, CANGGU_INFO_SLUGS, ULUWATU_INFO_SLUGS, NUSA_PENIDA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS, HA_LONG_INFO_SLUGS, HANOI_INFO_SLUGS, SAPA_INFO_SLUGS, HOI_AN_INFO_SLUGS, DA_NANG_INFO_SLUGS, HO_CHI_MINH_CITY_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
@@ -633,11 +634,18 @@ export default async function SlugPage({ params }: Props) {
   // same tour as /thailand/pattaya/<slug> — and self-canonicalised, giving Google
   // two "canonical" copies of every tour. Send the wrong-country variant to the
   // real one instead of serving a duplicate.
+  // Same for the city: /japan/sapporo/<agra tour> used to bounce between
+  // /india/sapporo/ (this redirect) and /japan/sapporo/ (middleware fixing the
+  // country for a known city) — a loop GSC reported as "Redirect error".
+  // Sending straight to the tour's own country AND city ends it.
   if (tour.country) {
     const realCountry = String(tour.country).toLowerCase().replace(/\s+/g, '-');
-    if (realCountry && realCountry !== countrySlug) {
-      // 308, not 307 — Google must retire the wrong-country URL, not keep it indexed.
-      permanentRedirect(`/${realCountry}/${citySlug}/${slug}`);
+    const slugged = tour.city ? String(tour.city).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') : '';
+    // Only trust the slugified city when it is a URL we actually serve.
+    const realCity = slugged && CITY_URL_MAP[slugged] ? slugged : citySlug;
+    if ((realCountry && realCountry !== countrySlug) || realCity !== citySlug) {
+      // 308, not 307 — Google must retire the wrong URL, not keep it indexed.
+      permanentRedirect(`/${realCountry || countrySlug}/${realCity || citySlug}/${slug}`);
     }
   }
 
