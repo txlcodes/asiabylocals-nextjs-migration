@@ -1086,6 +1086,12 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
         description: `Booking for ${tour?.title || 'Tour'}`,
         order_id: paymentData.order.id,
         save: false, // CRITICAL: Prevent card saving prompt that causes redirects
+        // A foreign traveller picked UPI (booking #139, 2026-09-19) and the payment
+        // sat at "created" forever: UPI only works with Indian bank apps. Anything
+        // not billed in INR shows international cards only.
+        ...((paymentData.order.currency || 'USD') !== 'INR'
+          ? { config: { display: { blocks: { cards: { name: 'Pay by card', instruments: [{ method: 'card' }] } }, sequence: ['block.cards'], preferences: { show_default_blocks: false } } } }
+          : {}),
 
         // Step 3: Payment success handler — verify on backend, then redirect
         handler: async function (response: any) {
