@@ -2835,9 +2835,20 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
     return null;
   };
 
+  // Suppliers pinned to the top of a city's Recommended sort (Talha, 2026-09-19:
+  // "suppliers tours upar karde, only in Mumbai"). Mumbai Discovery Tours = 121.
+  const PINNED_SUPPLIERS: Record<string, string[]> = { mumbai: ['121'] };
+  const pinnedRank = (t: any) => {
+    const list = PINNED_SUPPLIERS[citySlug] || [];
+    const i = list.indexOf(String(t.supplierId ?? ''));
+    return i === -1 ? list.length : i;
+  };
+
   // Sort tours
   const sortedTours = [...filteredTours].sort((a, b) => {
     if (sortBy === 'recommended') {
+      const pa = pinnedRank(a), pb = pinnedRank(b);
+      if (pa !== pb) return pa - pb;
       const aIndex = matchPreferred(a.title);
       const bIndex = matchPreferred(b.title);
 

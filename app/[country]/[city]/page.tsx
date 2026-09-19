@@ -262,6 +262,7 @@ export default async function CityPage({ params }: Props) {
           const rv = getTourReviews(tour.slug);
           return {
           id: tour.id,
+          supplierId: tour.supplierId ? String(tour.supplierId) : null,
           rating: rv && rv.totalReviews > 0 ? rv.averageRating : null,
           reviewCount: rv && rv.totalReviews > 0 ? rv.totalReviews : 0,
           title: tour.title,
