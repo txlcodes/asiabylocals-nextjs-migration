@@ -368,21 +368,20 @@ export default async function CityPage({ params }: Props) {
         description: `Top-rated guided tours in ${cityName} by licensed local experts`,
         url: cityPageUrl,
         numberOfItems: tours.length,
-        // 100 entries is plenty for the rich result; all 600 was 660KB of JSON-LD.
-        itemListElement: tours.slice(0, 100).map((tour: any, idx: number) => ({
+        itemListElement: tours.map((tour: any, idx: number) => ({
           '@type': 'ListItem',
           position: idx + 1,
           url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}`,
           name: tour.title,
         })),
       }] : []),
-      // Product schema for the first 100 tours; 616 of them was 530KB of JSON-LD.
-      ...tours.slice(0, 100).map((tour: any) => {
+      // Product schema for every tour, but lean: no description or image, which
+      // is what made 616 of them 530KB. Impressions count merchant-listing rich
+      // results, so capping this to 100 cost visibility (2026-09-18).
+      ...tours.map((tour: any) => {
         return {
           '@type': 'Product',
           name: tour.title,
-          description: tour.shortDescription || '',
-          image: tour.images?.[0] || '',
           url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}`,
           brand: { '@type': 'Brand', name: 'AsiaByLocals' },
           offers: { '@type': 'Offer', price: tour.pricePerPerson, priceCurrency: tour.currency || 'USD', availability: tour.status === 'approved' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock', url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}` },
