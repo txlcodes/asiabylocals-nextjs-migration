@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
@@ -384,6 +385,9 @@ export default async function CityPage({ params }: Props) {
           '@type': 'Product',
           name: tour.title,
           url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}`,
+          // One image URL per product: GSC flags merchant listings without it
+          // as critical ("Missing field 'image'", 2026-09-20). One string is cheap.
+          ...(() => { const im = Array.isArray(tour.images) ? tour.images[0] : (typeof tour.images === 'string' && tour.images.startsWith('[') ? (() => { try { return JSON.parse(tour.images)[0]; } catch { return undefined; } })() : tour.images); return im ? { image: cloudinaryLoader({ src: im, width: 640 }) } : {}; })(),
           brand: { '@type': 'Brand', name: 'AsiaByLocals' },
           offers: { '@type': 'Offer', price: tour.pricePerPerson, priceCurrency: tour.currency || 'USD', availability: tour.status === 'approved' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock', url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}` },
           ...(tour.rating
