@@ -2,6 +2,7 @@
 // This is a pure function with zero React dependencies
 import { INDONESIA_FAQS } from './tourFaqsIndonesia';
 import { JAPAN_FAQS } from './tourFaqsJapan';
+import { THAILAND_FAQS } from './tourFaqsThailand';
 
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
@@ -10,6 +11,7 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
   // size tsc will flow-analyse, so new countries go in maps, not more ifs.
   if (slug && INDONESIA_FAQS[slug]) return INDONESIA_FAQS[slug];
   if (slug && JAPAN_FAQS[slug]) return JAPAN_FAQS[slug];
+  if (slug && THAILAND_FAQS[slug]) return THAILAND_FAQS[slug];
 
   // --- NEPAL TOURS (2026-09) ---
   if (slug === 'bhaktapur-durbar-square-spiritual-spiritual-tour') {

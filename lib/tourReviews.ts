@@ -2,6 +2,7 @@
 // Will be replaced by real reviews from booking system once organic reviews come in
 
 import { JAPAN_REVIEWS } from './tourReviewsJapan';
+import { THAILAND_REVIEWS } from './tourReviewsThailand';
 
 export interface TourReview {
     author: string;
@@ -26,6 +27,7 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     // Japan density batch lives in its own keyed map: this function is past the
     // size tsc will flow-analyse, so new batches go in maps, not more ifs.
     if (JAPAN_REVIEWS[slug]) return JAPAN_REVIEWS[slug];
+    if (THAILAND_REVIEWS[slug]) return THAILAND_REVIEWS[slug];
 
     // --- SRI-LANKA TOURS (2026-09, real reviews from the same source listing) ---
     if (slug === 'ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea') {

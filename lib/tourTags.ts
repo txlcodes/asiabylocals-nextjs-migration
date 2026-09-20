@@ -40,6 +40,17 @@ const RULES: [string, string[]][] = [
   ['Trekking & cycling', ['trek', 'hike', 'hiking', 'cycling', 'bike', 'e-bike', 'ridge walk', 'campuhan']],
   ['Multi-day', ['2-day', '3-day', '4-day', '2 day', '3 day', 'days ', 'night stay', '2d1n']],
   ['Wildlife & parks', ['zoo', 'safari', 'elephant', 'bird', 'butterfly', 'turtle', 'horse']],
+  // Thailand
+  ['Islands & boat trips', ['phi phi', 'james bond', 'phang nga', 'similan', 'coral island', 'racha', 'hong island', '4 islands', 'four islands', 'koh larn', 'ko larn', 'lanta', 'speedboat', 'longtail', 'long-tail', 'catamaran', 'island hopping', 'yacht']],
+  ['Floating & night markets', ['floating market', 'damnoen', 'maeklong', 'railway market', 'amphawa', 'night market', 'chatuchak', 'train market']],
+  ['Ayutthaya & day trips', ['ayutthaya', 'kanchanaburi', 'river kwai', 'erawan', 'khao yai', 'hua hin', 'chiang rai', 'white temple', 'golden triangle', 'doi inthanon', 'khao sok', 'khao lak']],
+  ['Elephants & wildlife', ['elephant', 'sanctuary', 'wildlife', 'gibbon', 'safari']],
+  ['Muay Thai & shows', ['muay thai', 'thai boxing', 'cabaret', 'simon', 'tiffany', 'alcazar', 'siam niramit', 'show']],
+  ['Temples & Grand Palace', ['grand palace', 'wat ', 'temple', 'doi suthep', 'big buddha', 'sanctuary of truth']],
+  ['Cooking classes', ['cooking', 'cook ', 'culinary']],
+  ['Spa & massage', ['spa', 'massage', 'wellness']],
+  ['Ziplines & adventure', ['zipline', 'zip line', 'atv', 'rafting', 'trek', 'hike', 'kayak', 'canoe', 'rock climbing', 'bungee', 'jet ski', 'parasail']],
+  ['Old town & walking', ['old town', 'walking tour', 'chinatown', 'yaowarat', 'tuk tuk', 'tuk-tuk', 'bike tour', 'cycling']],
 ];
 
 export function tagsForTitle(title: string): string[] {
