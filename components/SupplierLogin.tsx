@@ -40,6 +40,8 @@ function SupplierLoginContent({ onClose, onLoginSuccess, onCreateAccount }: Supp
   const [showPassword, setShowPassword] = useState(false);
   const [errorMessage, setErrorMessage] = useState('');
   const [showVerificationSuccess, setShowVerificationSuccess] = useState(false);
+  const [resetNotice, setResetNotice] = useState('');
+  const [resetBusy, setResetBusy] = useState(false);
 
   // Check if coming from email verification
   useEffect(() => {
@@ -182,14 +184,33 @@ function SupplierLoginContent({ onClose, onLoginSuccess, onCreateAccount }: Supp
                   {errorMessage}
                 </div>
               )}
+              {resetNotice && (
+                <div className="bg-blue-50 border border-blue-200 text-[#001A33] px-4 py-3 rounded-xl text-sm font-semibold">
+                  {resetNotice}
+                </div>
+              )}
 
               <div className="flex items-center justify-between text-[13px]">
                 <label className="flex items-center gap-2 cursor-pointer">
                   <input type="checkbox" className="rounded border-gray-300 text-[#0071EB] focus:ring-[#0071EB]" />
                   <span className="font-semibold text-[#001A33]">Remember me</span>
                 </label>
-                <button type="button" className="font-semibold text-[#0071EB] hover:underline">
-                  Forgot password?
+                <button
+                  type="button"
+                  disabled={resetBusy}
+                  onClick={async () => {
+                    if (!email || !email.includes('@')) { setResetNotice('Type your account email above first, then tap Forgot password.'); return; }
+                    setResetBusy(true); setResetNotice('');
+                    try {
+                      const API_URL = process.env.NEXT_PUBLIC_API_URL || (typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3001');
+                      await fetch(`${API_URL}/api/suppliers/forgot-password`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email }) });
+                    } catch { /* same message either way */ }
+                    setResetBusy(false);
+                    setResetNotice(`If ${email} has a partner account, a reset link is on its way. Check spam if it does not arrive in a few minutes.`);
+                  }}
+                  className="font-semibold text-[#0071EB] hover:underline disabled:opacity-50"
+                >
+                  {resetBusy ? 'Sending...' : 'Forgot password?'}
                 </button>
               </div>
 
