@@ -42,6 +42,21 @@ import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import type { TourReview, TourReviewData } from '@/lib/tourReviews';
 
+// included / notIncluded arrive as either a newline-separated string (hand-written
+// tours) or a JSON array string (every imported batch: Japan, Bali, Vietnam), and
+// the page used to split the JSON one on newlines and print the raw brackets.
+const toLines = (v: any): string[] => {
+  if (!v) return [];
+  if (Array.isArray(v)) return v.map(String).map((x) => x.trim()).filter(Boolean);
+  if (typeof v !== 'string') return [];
+  const t = v.trim();
+  if (t.startsWith('[')) {
+    try { const a = JSON.parse(t); if (Array.isArray(a)) return a.map(String).map((x) => x.trim()).filter(Boolean); } catch { /* fall through */ }
+  }
+  return t.split('\n').map((x) => x.trim()).filter(Boolean);
+};
+
+
 interface TourDetailClientProps {
   tour: any;
   country: string;
@@ -1261,7 +1276,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
     const cityPath = `/${countrySlug}/${citySlug}`;
 
     const faqs: { question: string; answer: string }[] = [
-      { question: `What is specifically included in the ${tourTitle}?`, answer: tour?.included || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary. All our [tours](${cityPath}) are designed to provide authentic local experiences with transparent pricing — no hidden fees or surprise charges.` },
+      { question: `What is specifically included in the ${tourTitle}?`, answer: (toLines(tour?.included).length ? toLines(tour?.included).join(', ') : '') || `The ${tourTitle} includes a professional licensed guide, entry tickets to major monuments as per your selection, and a fully customizable itinerary. All our [tours](${cityPath}) are designed to provide authentic local experiences with transparent pricing — no hidden fees or surprise charges.` },
       { question: `How long is the actual ${tourTitle} experience?`, answer: `The duration of the ${tourTitle} is typically ${tour?.duration || 'a few hours'}. We recommend arriving 15 minutes before the scheduled start time for a smooth check-in. Your guide will meet you at the designated [meeting point](${cityPath}) and ensure the experience runs on schedule while remaining flexible to your pace.` },
       { question: `What is the best time to start the ${tourTitle}?`, answer: 'For most experiences, we highly recommend an **early morning start**. This allows you to avoid the midday heat, bypass the largest crowds, and capture the best lighting for photography. Your guide can advise on the optimal timing based on the season and specific attractions included.' },
       { question: `Will I receive confirmation after booking the ${tourTitle}?`, answer: 'Yes, once your booking is completed via our secure payment gateway, you will receive an **instant confirmation email** with your tour details, meeting point address, guide\'s name, and direct contact information. You can also view and manage your booking through your AsiaByLocals account dashboard.' },
@@ -2286,11 +2301,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   )}
 
                   {/* Includes Section */}
-                  {tour.included && (
+                  {toLines(tour.included).length > 0 && (
                     <div className="mb-8">
                       <h2 className="text-2xl font-black text-[#001A33] mb-4">Includes</h2>
                       <ul className="space-y-3">
-                        {tour.included.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
+                        {toLines(tour.included).map((item: string, index: number) => (
                           <li key={index} className="flex items-start gap-3">
                             <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={20} />
                             <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
@@ -2301,11 +2316,11 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   )}
 
                   {/* Not Included Section */}
-                  {tour.notIncluded && (
+                  {toLines(tour.notIncluded).length > 0 && (
                     <div className="mb-8">
                       <h2 className="text-2xl font-black text-[#001A33] mb-4">Excludes</h2>
                       <ul className="space-y-3">
-                        {tour.notIncluded.split('\n').filter((item: string) => item.trim()).map((item: string, index: number) => (
+                        {toLines(tour.notIncluded).map((item: string, index: number) => (
                           <li key={index} className="flex items-start gap-3">
                             <X className="text-red-500 shrink-0 mt-1" size={20} />
                             <span className="text-[16px] text-gray-700 font-semibold">{item.trim().replace(/^[-•]\s*/, '')}</span>
