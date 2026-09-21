@@ -2837,7 +2837,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
   // Suppliers pinned to the top of a city's Recommended sort (Talha, 2026-09-19:
   // "suppliers tours upar karde, only in Mumbai"). Mumbai Discovery Tours = 121.
-  const PINNED_SUPPLIERS: Record<string, string[]> = { mumbai: ['121'] };
+  const PINNED_SUPPLIERS: Record<string, string[]> = { mumbai: ['121'], bengaluru: ['8'], bangalore: ['8'] };  // 8 = Taj Tour Guide (papa's own tours)
   const pinnedRank = (t: any) => {
     const list = PINNED_SUPPLIERS[citySlug] || [];
     const i = list.indexOf(String(t.supplierId ?? ''));
