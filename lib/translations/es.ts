@@ -4112,6 +4112,227 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Sí. El Qutub Minar es uno de los tres sitios UNESCO de Delhi y una parada clave de cualquier itinerario. Consulta nuestra [guía de viaje de Delhi 2026](/india/delhi/delhi-travel-guide-2026) y el [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para combinarlo con el Fuerte Rojo, la tumba de Humayun y la India Gate en un solo día."
    }
   ]
+ },
+ "humayuns-tomb": {
+  "title": "Tumba de Humayun en Delhi: la guía completa 2026",
+  "description": "Tumba de Humayun 2026: el modelo del Taj Mahal, tumba-jardín Patrimonio de la UNESCO, precios de entrada, mejor momento para visitarla y visitas guiadas.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrada extranjeros",
+    "value": "600 ₹ por persona"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horario",
+    "value": "Todos los días, del amanecer al atardecer"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimonio de la Humanidad (1993)"
+   },
+   {
+    "icon": "History",
+    "label": "Construida por",
+    "value": "Hamida Banu Begum, 1565–1572"
+   },
+   {
+    "icon": "Map",
+    "label": "Metro más cercano",
+    "value": "JLN Stadium (línea violeta)"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Dato clave",
+    "value": "Modelo arquitectónico directo del Taj Mahal"
+   }
+  ],
+  "sections": [
+   {
+    "title": "La Tumba de Humayun: el monumento que hizo posible el Taj Mahal",
+    "content": "Si visita el [Taj Mahal](/india/agra/taj-mahal) sin haber visto antes la **Tumba de Humayun**, verá la obra maestra sin entender sus orígenes. Construida en **1570**, exactamente 72 años antes de que se terminara el Taj Mahal, la Tumba de Humayun no es solo un monumento hermoso. Es el **prototipo arquitectónico** del que el Taj Mahal deriva de forma directa y deliberada.\n\nCada principio de diseño esencial del Taj Mahal se ensayó aquí primero: la **doble cúpula** (una exterior para el efecto visual y otra interior para unas proporciones armoniosas), el **charbagh** (un jardín formal en cuatro partes con canales de agua, basado en la cosmología persa), los **iwanes** (enormes arcos abovedados en cada fachada del mausoleo), la combinación de **mármol blanco** y **arenisca roja** y la colocación de la tumba en el centro geométrico de un vasto jardín.\n\nEl arquitecto mogol del Taj Mahal y la propia visión de Shah Jahan estaban directamente influidos por la Tumba de Humayun. Sin este edificio, el Taj Mahal tal como lo conocemos no existiría.\n\nPor estos motivos, la UNESCO declaró la Tumba de Humayun **Patrimonio de la Humanidad en 1993**, y se considera de forma generalizada uno de los edificios más importantes de la historia de la arquitectura del sur de Asia. Y aun así, recibe muchísimos menos visitantes que el Taj Mahal, es menos comercial que el Fuerte Rojo y, en opinión de muchos arquitectos e historiadores, es el monumento mogol más satisfactorio estéticamente de Delhi."
+   },
+   {
+    "title": "Historia: el amor de una viuda, el legado de un emperador",
+    "content": "### El emperador Humayun, el restaurador\n\n**Nasir ud-Din Muhammad Humayun** fue el segundo emperador mogol, hijo de Babur, fundador de la dinastía, y padre de Akbar el Grande. Su reinado estuvo marcado por una caída dramática y un triunfo final. Humayun perdió su imperio en 1540 ante el afgano Sher Shah Suri, pasó 15 años exiliado en Persia (el actual Irán) y reconquistó Delhi en 1555, solo para morir al año siguiente, en 1556, al caer por la escalera de la biblioteca del Purana Qila mientras bajaba al oír la llamada a la oración.\n\nSu muerte a los 47 años privó a la India de un gobernante que, durante el exilio, había absorbido profundamente el arte, la arquitectura y la cultura persas, influencias que, a través de su hijo Akbar, definirían la estética mogol durante generaciones.\n\n### Hamida Banu Begum, la mecenas\n\nLa viuda principal de Humayun, **Hamida Banu Begum** (también llamada Haji Begum), encargó la tumba en **1565**, nueve años después de su muerte. Había acompañado a Humayun durante los años de exilio en Persia, y su visión arquitectónica estaba marcada por las grandes tumbas-jardín de la Persia timúrida que había visto allí.\n\nEligió como arquitecto a **Mirak Mirza Ghiyas**, un maestro persa de Herat que trajo a Delhi todo el vocabulario de la arquitectura de jardines persa-timúrida. La construcción duró hasta **1572**. La propia Hamida Banu Begum está enterrada en el complejo, en una cámara más pequeña que la tumba central de Humayun.\n\n### El jardín mogol del paraíso\n\nTodo el complejo se concibe como un **charbagh**, término persa para un jardín en cuatro partes dividido por dos canales de agua que se cruzan en cuatro cuadrantes iguales. Esta forma de jardín deriva de la descripción coránica del paraíso, un jardín celestial con cuatro ríos de agua, leche, miel y vino. Al colocar la tumba de Humayun en el centro geométrico de este jardín del paraíso, Hamida Banu Begum hacía una afirmación teológica: la tumba de Humayun estaba literalmente en el centro del paraíso.\n\nLos canales del jardín llevaron en su día agua de un sofisticado sistema de riego subterráneo. Hoy, tras el histórico proyecto de restauración del Aga Khan Trust for Culture (1997–2013), los canales vuelven a fluir, el jardín se ha replantado con vegetación de época y todo el complejo se acerca de nuevo a su estado del siglo XVI."
+   },
+   {
+    "title": "Cómo la Tumba de Humayun influyó directamente en el Taj Mahal",
+    "content": "Este es el aspecto intelectualmente más importante de la Tumba de Humayun y la razón por la que todo visitante del Taj Mahal debería verla antes. El ADN arquitectónico del Taj Mahal se remonta directamente a la Tumba de Humayun, 72 años anterior.\n\n### 1. La doble cúpula\n\nLa Tumba de Humayun introdujo en la arquitectura mogol la **doble cúpula**: una cúpula exterior (alta y de gran efecto) separada por un espacio hueco de una cúpula interior (más baja, para unas proporciones interiores armoniosas). Sin esta innovación, la famosa silueta del Taj Mahal, la cúpula bulbosa perfecta recortada contra el cielo, no habría podido alcanzar la escala que deseaba Shah Jahan. La cúpula interior del Taj Mahal es casi idéntica en proporción a la de la Tumba de Humayun.\n\n### 2. El jardín charbagh\n\nEl Taj Mahal se alza al final de un jardín charbagh con canales de mármol. Todo este concepto, la tumba como punto focal de un jardín del paraíso simétrico, se materializó por primera vez en la Tumba de Humayun 72 años antes. Los arquitectos de Shah Jahan conocían el complejo a la perfección.\n\n### 3. Arenisca roja y mármol blanco\n\nLa Tumba de Humayun fijó la paleta de materiales mogol por excelencia: una estructura principal de **arenisca roja de Agra** decorada con incrustaciones de **mármol blanco de Makrana**. El Taj Mahal invirtió la fórmula, estructura principal de mármol blanco y arenisca roja para los edificios secundarios, pero la combinación fue una invención de la Tumba de Humayun.\n\n### 4. El iwán central\n\nCada fachada de la Tumba de Humayun está dominada por un gran **iwán**, un enorme arco abovedado que enmarca la entrada. El famoso arco central de cada fachada del Taj Mahal es una evolución directa, ampliado de forma espectacular pero idéntico en concepto.\n\n### 5. Cámaras octogonales\n\nTanto la Tumba de Humayun como el Taj Mahal utilizan **cámaras octogonales en las esquinas** conectadas a una cámara funeraria central, un plano radial que deja entrar la luz desde varias direcciones y mantiene la simetría. Este plano octogonal se introdujo en la Tumba de Humayun y se reprodujo exactamente en el Taj Mahal.\n\nEn resumen: quien visita la Tumba de Humayun antes que el Taj Mahal entiende el logro de Shah Jahan de una forma completamente nueva. No se ve solo un edificio hermoso, sino la culminación deliberada de una tradición constructiva que fundó la Tumba de Humayun."
+   },
+   {
+    "title": "La restauración del Aga Khan: una historia de éxito del patrimonio",
+    "content": "Tras la caída del Imperio mogol, la Tumba de Humayun sufrió siglos de abandono. A mediados del siglo XX, el jardín se había convertido en campo de refugiados tras la Partición de 1947, los canales estaban secos y muchos elementos decorativos estaban muy deteriorados.\n\nEn **1997**, el **Aga Khan Trust for Culture (AKTC)**, en colaboración con el Archaeological Survey of India, inició un proyecto de restauración de 16 años, uno de los proyectos de conservación del patrimonio más completos de Asia. El proyecto:\n\n- Volvió a poner en funcionamiento los **canales de agua del charbagh** con técnicas de riego de época\n- Replantó el jardín con **especies documentadas en los registros botánicos mogoles**\n- Conservó y estabilizó más de **140 monumentos menores** del complejo\n- Retiró el asentamiento de refugiados y restauró la vecina **Sunder Nursery**\n- Formó a cientos de artesanos locales en las técnicas mogoles tradicionales de cantería, estuco de cal y azulejería\n\nLa restauración se completó en **2013**, antes de la visita del príncipe Carlos. Hoy se considera en todo el mundo un modelo de conservación del patrimonio urbano y recibió el Aga Khan Award for Architecture en 2016."
+   },
+   {
+    "title": "Guía completa para el visitante 2026",
+    "content": "### Precios de entrada\n- **Turistas extranjeros**: 600 ₹ por persona\n- **Ciudadanos indios**: 40 ₹ por persona\n- **Menores de 15 años**: gratis\n- Audioguía del ASI en la entrada: 100 ₹ (hindi) / 150 ₹ (inglés)\n\n### Horario\nAbierta **todos los días del amanecer al atardecer** (aproximadamente de 6:00 a 18:00). A diferencia del Fuerte Rojo, la Tumba de Humayun **abre todos los días, incluidos los lunes**.\n\n### Cómo llegar\n\n**En metro**: **línea violeta** hasta **JLN Stadium**. Desde allí, 10 minutos a pie o un corto trayecto en autorickshaw (30 a 40 ₹) hasta la entrada principal.\n\n**En Uber/Ola**: escriba \"Humayun's Tomb\". Bajada en la entrada principal de la puerta oeste, en Mathura Road.\n\n### Mejor momento para visitarla\n**A primera hora de la mañana (6:00 a 8:00)** es el mejor momento. El complejo abre al amanecer y en las dos primeras horas la afluencia es mínima. La luz de la mañana sobre la arenisca roja y el mármol blanco es excepcional, fotos dignas de revista de viajes. Además, a primera hora hace mucho menos calor, algo que importa enormemente entre marzo y octubre.\n\n### Qué ver dentro\n**La tumba principal**: la cámara central alberga el cenotafio de mármol blanco de Humayun. La sepultura real está en una cripta debajo. La cámara octogonal tiene varios nichos abovedados con los cenotafios de otros miembros de la familia mogol. Más de 150 mogoles están enterrados en el complejo.\n\n**El jardín charbagh**: recorra todo el perímetro del jardín siguiendo los canales hasta las cuatro esquinas. La vista de la tumba principal desde las esquinas del jardín, enmarcada por cipreses y reflejada en los canales, es una de las panorámicas arquitectónicas más bellas de la India.\n\n**Tumba de Isa Khan**: una hermosa tumba octogonal del periodo Lodi dentro del recinto ajardinado, construida 20 años antes que la tumba de Humayun. Más tranquila y menos visitada, arquitectónicamente fascinante.\n\n**El Arab Serai**: el caravasar original que alojó a los 300 artesanos persas que construyeron la Tumba de Humayun. La mezquita Afsarwala y su tumba, en el interior, están bien conservadas y rara vez se visitan.\n\n### Combinar con otros lugares de Delhi\nLa Tumba de Humayun está en pleno centro de Delhi, cerca de la [Puerta de la India](/india/delhi/india-gate) (15 minutos en Uber) y del Lodhi Garden (10 minutos a pie). Consulte la [guía de viaje de Delhi](/india/delhi/delhi-travel-guide-2026) para planificar el viaje completo."
+   },
+   {
+    "title": "Visite la Tumba de Humayun con un experto en arquitectura mogol",
+    "content": "La historia arquitectónica que une la Tumba de Humayun con el Taj Mahal es una de las más fascinantes de la historia mundial, pero permanece invisible sin el guía adecuado. Nuestros guías historiadores con licencia siguen cada elemento de diseño desde Delhi hasta Agra y hacen que su posterior visita al Taj Mahal cobre muchísimo más sentido. Visitas privadas disponibles todos los días."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Por qué es importante la Tumba de Humayun?",
+    "a": "Es la **primera tumba-jardín del subcontinente indio** y el precursor arquitectónico directo del Taj Mahal. Cada principio de diseño esencial del Taj Mahal, doble cúpula, jardín charbagh, paleta de arenisca roja y mármol blanco, iwán central, se utilizó por primera vez en la Tumba de Humayun 72 años antes. Es posiblemente el edificio más importante de Delhi desde el punto de vista arquitectónico."
+   },
+   {
+    "q": "¿Es la Tumba de Humayun Patrimonio de la Humanidad?",
+    "a": "Sí. Fue **inscrita en la lista del Patrimonio de la Humanidad de la UNESCO en 1993**, como uno de los primeros monumentos mogoles, por su valor universal excepcional como primer ejemplo maduro de arquitectura mogol y por su influencia directa en monumentos posteriores como el Taj Mahal."
+   },
+   {
+    "q": "¿Cuánto cuesta la entrada en 2026?",
+    "a": "**600 ₹ para turistas extranjeros** y **40 ₹ para ciudadanos indios**. Los menores de 15 años entran gratis. Hay una audioguía del ASI disponible en la entrada por 100 a 150 ₹."
+   },
+   {
+    "q": "¿Cómo influyó la Tumba de Humayun en el Taj Mahal?",
+    "a": "Introdujo cinco elementos clave que el Taj Mahal adoptó directamente: (1) la **doble cúpula**, (2) el **jardín del paraíso charbagh**, (3) la **paleta de arenisca roja y mármol blanco**, (4) el **arco iwán central** en cada fachada y (5) las **cámaras octogonales de las esquinas**. Visitarla antes que el Taj Mahal transforma por completo la comprensión del logro de Shah Jahan."
+   },
+   {
+    "q": "¿Quién construyó la Tumba de Humayun?",
+    "a": "La encargó **Hamida Banu Begum** (Haji Begum), viuda principal del emperador Humayun. Inició la construcción en 1565, nueve años después de la muerte de Humayun en 1556. El arquitecto fue **Mirak Mirza Ghiyas**, un maestro persa de Herat que trajo a Delhi todo el vocabulario de las tumbas-jardín persa-timúridas."
+   },
+   {
+    "q": "¿Abre la Tumba de Humayun los lunes?",
+    "a": "Sí, abre **todos los días de la semana, incluidos los lunes**, del amanecer al atardecer, a diferencia del Fuerte Rojo, que cierra los lunes."
+   },
+   {
+    "q": "¿Cuánto dura la visita?",
+    "a": "Una visita completa de la tumba principal y el complejo lleva **de 1,5 a 2 horas**. Con guía o audioguía y explorando todo el recinto, incluida la tumba de Isa Khan, el Arab Serai y la Sunder Nursery, calcule **de 2,5 a 3 horas**."
+   },
+   {
+    "q": "¿Cuál es la estación de metro más cercana?",
+    "a": "**JLN Stadium**, en la **línea violeta**. Desde allí, unos 10 minutos a pie o un corto trayecto en autorickshaw (30 a 40 ₹) hasta la puerta oeste, en Mathura Road."
+   },
+   {
+    "q": "¿Debo visitar la Tumba de Humayun antes o después del Taj Mahal?",
+    "a": "**Antes del Taj Mahal**, sin duda. Quien la ve primero cuenta con el contexto arquitectónico para entender exactamente sobre qué se apoyó Shah Jahan al diseñar el Taj Mahal. La experiencia del Taj Mahal se enriquece enormemente al reconocer cada elemento desarrollado 72 años antes en Delhi."
+   },
+   {
+    "q": "¿Cuántas personas están enterradas en la Tumba de Humayun?",
+    "a": "Más de **150 miembros de la familia real mogol** reposan en el complejo, más mogoles que en cualquier otro lugar. La cámara principal alberga el cenotafio de Humayun; la sepultura real está en la cripta inferior. También están enterrados aquí su esposa Hamida Banu Begum y varias esposas, hijos y nietos."
+   },
+   {
+    "q": "¿Qué es la restauración del Aga Khan?",
+    "a": "El **Aga Khan Trust for Culture**, en colaboración con el Archaeological Survey of India, llevó a cabo una restauración histórica de 16 años (1997–2013): recuperó los canales de agua en funcionamiento, replantó el charbagh con vegetación de época y conservó más de 140 monumentos menores. Hoy el proyecto se considera en todo el mundo un modelo de conservación del patrimonio."
+   },
+   {
+    "q": "¿Es mejor la Tumba de Humayun que el Taj Mahal?",
+    "a": "Son experiencias muy distintas. El Taj Mahal es más grande, más refinado y emocionalmente más abrumador. Pero la Tumba de Humayun es mucho más tranquila, menos comercial y, para quien conoce su importancia histórica, posiblemente más interesante desde el punto de vista arquitectónico. Muchos arquitectos e historiadores la consideran la más gratificante intelectualmente de las dos. Lo mejor es visitar ambas."
+   }
+  ]
+ },
+ "india-gate": {
+  "title": "Puerta de la India en Delhi: historia, guía del visitante y datos 2026",
+  "seoTitle": "Puerta de la India Delhi: horario, entrada y consejos",
+  "description": "La Puerta de la India abre las 24 horas y la entrada es gratuita. Es más bonita al anochecer, cuando se ilumina: horarios, acceso en metro, aparcamiento y alrededores.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrada",
+    "value": "Gratis, abierta 24 horas"
+   },
+   {
+    "icon": "History",
+    "label": "Construida",
+    "value": "1931 (diseñada por Edwin Lutyens)"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Altura",
+    "value": "42 metros"
+   },
+   {
+    "icon": "Map",
+    "label": "Ubicación",
+    "value": "Kartavya Path, Nueva Delhi"
+   },
+   {
+    "icon": "Star",
+    "label": "Mejor momento",
+    "value": "Atardecer y noche para la iluminación"
+   },
+   {
+    "icon": "Clock",
+    "label": "Metro más cercano",
+    "value": "Central Secretariat (líneas amarilla/violeta)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "La Puerta de la India: el alma de Nueva Delhi",
+    "content": "La **Puerta de la India** es el monumento más visitado de Delhi y quizá el más conmovedor. A diferencia del Fuerte Rojo o del Qutub Minar, que exigen conocimientos históricos para apreciarlos del todo, la Puerta de la India habla de forma inmediata y universal. Es un monumento al sacrificio: a los 84.000 soldados del Ejército de la India Británica que murieron en la Primera Guerra Mundial y a los 13.300 cuyos nombres están grabados, letra a letra, en su superficie de piedra.\n\nConstruida en **1931** y diseñada por el gran arquitecto británico **Sir Edwin Lutyens**, el mismo hombre que proyectó la mayoría de los edificios ceremoniales de Nueva Delhi, la Puerta de la India se alza en el extremo oriental del **Kartavya Path** (antes Rajpath): la gran avenida ceremonial que va del Palacio Presidencial (**Rashtrapati Bhavan**), al oeste, hasta la Puerta de la India, al este. Esta avenida es la columna vertebral de Nueva Delhi, el eje a lo largo del cual se expresa todo el poder formal del Estado.\n\nLa Puerta de la India es de **acceso gratuito a cualquier hora del día o de la noche**. Es el monumento más democrático de Delhi: sin entradas, sin colas, sin hora de cierre. Las familias hacen pícnic en el césped. Los niños se persiguen entre las columnas. Los vendedores ofrecen bhutta (maíz asado) y chai. Es el punto de encuentro de la ciudad, un monumento a los soldados de la nación que, de forma improbable y hermosa, se ha convertido también en el salón de la ciudad.\n\nDe noche, la Puerta de la India se baña en una luz dorada que hace brillar la arenisca color crema contra el cielo de Delhi. El reflejo en los estanques que la rodean, las fuentes de los jardines y el arco iluminado frente a la oscuridad del Kartavya Path crean uno de los grandes espectáculos urbanos de Asia."
+   },
+   {
+    "title": "Historia: 84.000 soldados y la gratitud de una nación",
+    "content": "### La Gran Guerra y el sacrificio de la India\n\nCuando estalló la Primera Guerra Mundial en 1914, el Ejército de la India Británica, una fuerza de soldados profesionales indios bajo oficiales británicos, se movilizó a una escala sin precedentes. A lo largo de la guerra, **1,5 millones de soldados indios** sirvieron en Europa, Mesopotamia (el actual Irak), África Oriental y Galípoli. Combatieron en el Somme, en Passchendaele y en Galípoli, a menudo a miles de kilómetros de casa, en climas y condiciones que les eran totalmente ajenos.\n\nDe esos 1,5 millones, unos **84.000** murieron, caídos en combate, por enfermedad o desaparecidos. Eran hombres de todos los rincones de la India: gurkhas de Nepal, sijs del Punjab, rajputs de Rajastán, dogras de Jammu, pastunes de la frontera del noroeste e infantes de Bengala, Maharashtra y el sur.\n\n### La decisión de construirla\n\nTras la guerra, la Imperial War Graves Commission británica se encargó de conmemorar a los caídos en todos los frentes. En la India, la comisión decidió erigir un monumento central a los caídos en la nueva capital, Nueva Delhi, entonces en construcción. El encargo recayó en **Sir Edwin Lutyens**, arquitecto jefe de Nueva Delhi.\n\nLutyens se inspiró en el Arco de Triunfo de París y en la Puerta de Menin de Ypres, los dos monumentos a los caídos más famosos de Europa, y optó por una sencillez monumental: un **arco de triunfo de 42 metros de altura** en piedra de Bharatpur (una arenisca color crema de Rajastán), inscrito con la dedicatoria y los nombres de 13.300 soldados cuyas tumbas no pudieron señalarse individualmente.\n\nLa primera piedra la colocó el duque de Connaught en 1921, y el monumento terminado fue inaugurado por **el virrey Lord Irwin el 12 de febrero de 1931**.\n\n### La inscripción\n\nEn lo alto del arco, en sus cuatro caras, figura la dedicatoria a los caídos de los ejércitos indios que murieron y son honrados en Francia y Flandes, Mesopotamia y Persia, África Oriental, Galípoli y otros lugares del Próximo y Lejano Oriente, y en sagrada memoria también de aquellos cuyos nombres están registrados y que cayeron en la India, en la frontera del noroeste o en la Tercera Guerra Afgana.\n\nDebajo están grabados los nombres de 13.300 soldados, oficiales y tropa, por orden alfabético y regimiento.\n\n### La independencia y el Amar Jawan Jyoti\n\nTras la independencia en 1947, la Puerta de la India siguió siendo el monumento central a los caídos de la nación. En 1971, tras la victoria india en la guerra de liberación de Bangladés, la primera ministra Indira Gandhi instaló bajo el arco el **Amar Jawan Jyoti** («llama del soldado inmortal»), una llama eterna en memoria del soldado desconocido de la India, simbolizada por un fusil invertido coronado por un casco de soldado.\n\nEn enero de 2022, el Amar Jawan Jyoti original se fusionó con la llama del **National War Memorial**, un monumento nuevo y más grande construido en 2019 justo detrás de la Puerta de la India, que ahora es el lugar principal de las ceremonias de Estado en honor de los soldados indios caídos."
+   },
+   {
+    "title": "Arquitectura: Lutyens en su forma más monumental",
+    "content": "La Puerta de la India es **Edwin Lutyens** en su versión más potente y contenida. La estructura es un **arco de triunfo**, una de las formas más antiguas de arquitectura monumental, heredada de la antigua Roma a través del Arco de Triunfo, reducida a su geometría más esencial.\n\nEl arco mide **42 metros de altura** y **9,1 metros de ancho** en el vano. Está construido en **piedra de Bharatpur**, una arenisca color crema de grano fino de Rajastán, elegida porque permite grabar miles de nombres sin que se erosionen. La piedra tiene un tono dorado cálido que fotografía especialmente bien con la luz del atardecer.\n\nEs notable lo que el diseño **no** incluye: ninguna escultura figurativa, ninguna talla decorativa, ningún ornamento más allá de las molduras geométricas y los nombres grabados. Esta austeridad es deliberada: para Lutyens, los nombres eran en sí mismos el monumento, y cualquier decoración los habría empequeñecido.\n\nEl arco se alza en un jardín hexagonal del que parten seis avenidas, la más importante el **Kartavya Path** (Rajpath), que va hacia el oeste hasta el Rashtrapati Bhavan. Los jardines circundantes, mantenidos por el ayuntamiento de Nueva Delhi, incluyen césped, parterres de flores y una serie de estanques y fuentes que se iluminan por la noche."
+   },
+   {
+    "title": "Kartavya Path: la avenida ceremonial",
+    "content": "La Puerta de la India es el extremo oriental del **Kartavya Path** (rebautizado en 2022, antes Rajpath), la avenida ceremonial de 3 kilómetros que es posiblemente el eje urbano más grandioso del sur de Asia.\n\nLa avenida discurre en línea recta desde la Puerta de la India, al este, hasta el **Rashtrapati Bhavan** (Palacio Presidencial), al oeste, flanqueada por el **North Block** y el **South Block** (sedes del Ministerio de Finanzas y del Ministerio de Asuntos Exteriores, respectivamente) y por el césped de la **Central Vista**.\n\nRecorrer a pie el Kartavya Path desde la Puerta de la India hasta el Rashtrapati Bhavan es una de las grandes experiencias gratuitas de Delhi. La escala es abrumadora a propósito: Lutyens diseñó la avenida más ancha que los Campos Elíseos para transmitir grandeza imperial. Los árboles bordean ambos lados. Los estanques flanquean la calzada central. A primera hora de la mañana, cuando aún se levanta la niebla del césped, el paseo es extraordinario.\n\n**Día de la República (26 de enero)**: cada año, el desfile del Día de la República de la India se celebra íntegramente en el Kartavya Path, desde Vijay Chowk, cerca del Rashtrapati Bhavan, hasta la Puerta de la India. Divisiones militares, fuerzas paramilitares, bailarines folclóricos y carrozas de todos los estados de la India desfilan durante 3 o 4 horas. Las entradas para las gradas deben reservarse con meses de antelación."
+   },
+   {
+    "title": "Visitar la Puerta de la India: guía práctica 2026",
+    "content": "### Entrada\nLa Puerta de la India es **totalmente gratuita** y está abierta **las 24 horas del día, todo el año**. Sin entradas, sin controles de seguridad (salvo revisión de bolsos en días de mucha afluencia) y sin hora de cierre.\n\n### Mejores momentos para visitarla\n\n**Atardecer (18:00 a 19:00)**: la luz de la hora dorada sobre la arenisca color crema es excepcional. Los fotógrafos acuden en masa.\n\n**Noche (19:00 a 22:00)**: la Puerta de la India se ilumina desde el anochecer hasta la medianoche. El arco iluminado, reflejado en los estanques de los jardines, es una de las vistas más bellas de Delhi. Los vendedores ambulantes se instalan a lo largo de los senderos: bhutta (maíz asado), chai y pani puri son aquí clásicos de Delhi.\n\n**Primera hora de la mañana (6:00 a 8:00)**: corredores y practicantes de yoga usan el césped. Muchísimos menos turistas. La luz es limpia y rasante, ideal para fotos de arquitectura sin multitudes.\n\n### Cómo llegar\n**En metro**: **línea amarilla** o **línea violeta** hasta **Central Secretariat**. La Puerta de la India está a 20 minutos a pie hacia el este por el Kartavya Path o a 5 minutos en autorickshaw (30 a 40 ₹). El paseo por el Kartavya Path es muy recomendable: sitúa la Puerta de la India a la perfección en el paisaje ceremonial de Nueva Delhi.\n\n**En Uber/Ola**: escriba \"India Gate\". Hay varios puntos de bajada alrededor del jardín hexagonal.\n\n### Cerca\nLa Puerta de la India está a poca distancia de: la **[Tumba de Humayun](/india/delhi/humayuns-tomb)** (15 minutos en Uber), el **Lodhi Garden** (10 minutos en Uber), el **Museo Nacional** (10 minutos a pie hacia el oeste por Janpath) y **Connaught Place** (15 minutos en metro). Es el punto de partida natural de un día en Nueva Delhi; consulte la [guía de viaje de Delhi](/india/delhi/delhi-travel-guide-2026) para el programa completo."
+   },
+   {
+    "title": "Explore Nueva Delhi con un guía local",
+    "content": "La Puerta de la India y el Kartavya Path solo cobran todo su sentido cuando se entiende la historia colonial, el movimiento de independencia y la extraordinaria transformación de Nueva Delhi de capital imperial británica a corazón de la democracia más grande del mundo. Nuestros guías con licencia dan vida a esta historia en visitas privadas y en grupo por Nueva Delhi."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Es gratis visitar la Puerta de la India?",
+    "a": "Sí, la Puerta de la India es **totalmente gratuita** y está abierta **las 24 horas del día, los 7 días de la semana, los 365 días del año**. Sin entradas, sin reserva, sin hora de cierre. Es el gran monumento más accesible de Delhi."
+   },
+   {
+    "q": "¿Quién construyó la Puerta de la India y cuándo?",
+    "a": "La diseñó el arquitecto británico **Sir Edwin Lutyens**, arquitecto jefe de Nueva Delhi, y la inauguró el virrey Lord Irwin el **12 de febrero de 1931**. La primera piedra la colocó el duque de Connaught en 1921 y la construcción duró unos 10 años."
+   },
+   {
+    "q": "¿Por qué se construyó la Puerta de la India?",
+    "a": "Para conmemorar a los **84.000 soldados del Ejército de la India Británica** que murieron en la Primera Guerra Mundial (1914–1918) y en la Tercera Guerra Anglo-Afgana (1919). Los nombres de **13.300 soldados** cuyas tumbas no pudieron señalarse individualmente están grabados en la piedra del arco."
+   },
+   {
+    "q": "¿Cuánto mide la Puerta de la India?",
+    "a": "La Puerta de la India mide **42 metros de altura** y **9,1 metros de ancho** en el vano. Está construida en piedra de Bharatpur, una arenisca color crema de Rajastán."
+   },
+   {
+    "q": "¿Cuál es el mejor momento para visitar la Puerta de la India?",
+    "a": "**El atardecer y la noche**: la Puerta de la India se baña en luz dorada desde el anochecer hasta la medianoche, una de las experiencias más espectaculares de Delhi. La primera hora de la mañana (6:00 a 8:00) es ideal para fotos con luz limpia y poca gente. El monumento impresiona a cualquier hora."
+   },
+   {
+    "q": "¿Qué es el Amar Jawan Jyoti de la Puerta de la India?",
+    "a": "El **Amar Jawan Jyoti** («llama del soldado inmortal») era una llama eterna que la primera ministra Indira Gandhi instaló bajo la Puerta de la India en 1971, tras la victoria india en la guerra de liberación de Bangladés. Ardió durante 50 años en memoria del soldado desconocido de la India. En enero de 2022 se fusionó formalmente con la llama del recién construido **National War Memorial**, detrás de la Puerta de la India."
+   },
+   {
+    "q": "¿Cuál es la estación de metro más cercana a la Puerta de la India?",
+    "a": "**Central Secretariat**, en la **línea amarilla** y la **línea violeta**. La Puerta de la India está a 20 minutos a pie hacia el este por el Kartavya Path o a 5 minutos en autorickshaw. El paseo por el Kartavya Path es muy recomendable."
+   },
+   {
+    "q": "¿Qué es el Kartavya Path?",
+    "a": "El **Kartavya Path** (rebautizado en 2022, antes Rajpath) es la avenida ceremonial de 3 kilómetros que va de la Puerta de la India, al este, al Rashtrapati Bhavan (Palacio Presidencial), al oeste. Es el eje urbano más grandioso de la India y el escenario del desfile anual del Día de la República, el 26 de enero."
+   },
+   {
+    "q": "¿Puedo visitar la Puerta de la India de noche?",
+    "a": "Sí, la Puerta de la India está abierta **las 24 horas** y posiblemente es más espectacular de noche, cuando se baña en luz dorada. La iluminación funciona desde el anochecer hasta aproximadamente la medianoche. Las visitas nocturnas son muy populares tanto entre las familias de Delhi como entre los turistas."
+   },
+   {
+    "q": "¿Es la Puerta de la India lo mismo que el National War Memorial?",
+    "a": "No, son dos memoriales distintos. La **Puerta de la India** (1931) conmemora a los soldados caídos en la Primera Guerra Mundial. El **National War Memorial** es un monumento más reciente, de 2019, situado justo detrás de la Puerta de la India, que conmemora a los soldados indios caídos desde la independencia (a partir de 1947). La llama del Amar Jawan Jyoti arde hoy en el National War Memorial."
+   },
+   {
+    "q": "¿Cómo encaja la Puerta de la India en un programa por Delhi?",
+    "a": "La Puerta de la India es el punto de partida natural de un día en Nueva Delhi. Desde allí puede recorrer a pie el Kartavya Path hasta el Rashtrapati Bhavan, visitar la [Tumba de Humayun](/india/delhi/humayuns-tomb) (15 minutos en Uber) y el Lodhi Garden (10 minutos) y volver a Connaught Place para cenar. Consulte nuestro [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para la ruta optimizada."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {

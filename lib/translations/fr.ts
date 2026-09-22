@@ -4112,6 +4112,227 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Oui, c'est l'un des trois sites UNESCO de Delhi et une étape clé de tout itinéraire. Voyez notre [guide de voyage de Delhi 2026](/india/delhi/delhi-travel-guide-2026) et l'[itinéraire d'une journée](/india/delhi/delhi-1-day-itinerary) pour le combiner avec le fort Rouge, la tombe de Humayun et l'India Gate en une journée."
    }
   ]
+ },
+ "humayuns-tomb": {
+  "title": "Tombe de Humayun à Delhi : le guide complet 2026",
+  "description": "Tombe de Humayun 2026 : le plan directeur du Taj Mahal, tombeau-jardin classé UNESCO, tarifs d'entrée, meilleur moment de visite et visites guidées.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrée étrangers",
+    "value": "600 ₹ par personne"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "Tous les jours, du lever au coucher du soleil"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimoine mondial (1993)"
+   },
+   {
+    "icon": "History",
+    "label": "Construite par",
+    "value": "Hamida Banu Begum, 1565–1572"
+   },
+   {
+    "icon": "Map",
+    "label": "Métro le plus proche",
+    "value": "JLN Stadium (ligne Violette)"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Fait clé",
+    "value": "Le plan architectural direct du Taj Mahal"
+   }
+  ],
+  "sections": [
+   {
+    "title": "La tombe de Humayun : le monument qui a rendu le Taj Mahal possible",
+    "content": "Visiter le [Taj Mahal](/india/agra/taj-mahal) sans avoir vu la **tombe de Humayun**, c'est voir le chef-d'œuvre sans en comprendre les origines. Bâtie en **1570**, exactement 72 ans avant l'achèvement du Taj Mahal, la tombe de Humayun n'est pas qu'un beau monument : c'est le **prototype architectural** dont le Taj Mahal dérive directement et consciemment.\n\nTous les grands principes de conception du Taj Mahal ont été testés ici : le **double dôme** (un dôme extérieur pour la grandeur visuelle, un dôme intérieur pour des proportions intérieures justes), le **charbagh** (jardin formel en quatre parties divisé par des canaux, issu de la cosmologie persane), les **iwans** (immenses arches voûtées sur chaque face), l'alliance du **marbre blanc** et du **grès rouge**, et la position du tombeau au centre géométrique d'un vaste jardin.\n\nL'architecte moghol du Taj Mahal et la vision de Shah Jahan lui-même ont été directement nourris par la tombe de Humayun. Sans cet édifice, il n'y a pas de Taj Mahal tel que nous le connaissons.\n\nC'est pourquoi l'UNESCO l'a inscrite au **patrimoine mondial en 1993**, et elle est largement considérée comme l'un des bâtiments les plus importants de l'histoire architecturale sud-asiatique. Pourtant elle reste bien moins fréquentée que le Taj Mahal, moins commerciale que le fort Rouge, et, de l'avis de nombreux architectes et historiens, le monument moghol le plus satisfaisant esthétiquement de Delhi."
+   },
+   {
+    "title": "Histoire : l'amour d'une veuve, l'héritage d'un empereur",
+    "content": "### L'empereur Humayun, le restaurateur\n\n**Nasir ud-Din Muhammad Humayun** fut le deuxième empereur moghol, fils de Babur, fondateur de la dynastie, et père d'Akbar le Grand. Son règne fut marqué par un renversement dramatique puis un triomphe final. Humayun perdit son empire face à l'Afghan Sher Shah Suri en 1540, passa 15 ans en exil en Perse (l'Iran actuel) et reconquit enfin Delhi en 1555, pour mourir l'année suivante, en 1556, en tombant dans l'escalier de la bibliothèque du Purana Qila alors qu'il descendait répondre à l'appel à la prière.\n\nSa mort à 47 ans priva l'Inde d'un souverain qui avait profondément absorbé l'art, l'architecture et la culture persans pendant son exil, des influences qui façonneraient l'esthétique moghole pour des générations à travers son fils Akbar.\n\n### Hamida Banu Begum, la commanditaire\n\nLa veuve principale de Humayun, **Hamida Banu Begum** (dite Haji Begum), commanda le tombeau en **1565**, neuf ans après sa mort. Elle avait accompagné Humayun pendant ses années d'exil en Perse, et sa vision architecturale fut marquée par les grands tombeaux-jardins de la Perse timouride qu'elle y avait vus.\n\nL'architecte qu'elle choisit fut **Mirak Mirza Ghiyas**, un Persan de Hérat, qui apporta à Delhi tout le vocabulaire de l'architecture des jardins timourides. La construction dura jusqu'en **1572**. Hamida Banu Begum est elle-même enterrée dans le complexe, dans une chambre plus petite que celle de Humayun.\n\n### Le jardin moghol du paradis\n\nLe concept qui sous-tend tout l'ensemble est le **charbagh**, terme persan désignant un jardin en quatre parties, divisé par deux canaux perpendiculaires en quatre quadrants égaux. Cette forme dérive de la description coranique du paradis, jardin céleste traversé par quatre fleuves d'eau, de lait, de miel et de vin. En plaçant la tombe de Humayun au centre géométrique de ce jardin, Hamida Banu Begum faisait une déclaration théologique : le tombeau de Humayun se trouvait, littéralement, au centre du paradis.\n\nLes canaux du jardin étaient jadis alimentés par un système d'irrigation souterrain élaboré. Aujourd'hui, après le projet de restauration historique de l'Aga Khan Trust for Culture (1997–2013), l'eau coule à nouveau, le jardin est replanté d'essences d'époque et l'ensemble a retrouvé une apparence proche de celle du XVIe siècle."
+   },
+   {
+    "title": "Comment la tombe de Humayun a directement influencé le Taj Mahal",
+    "content": "C'est l'aspect le plus intellectuellement significatif de la tombe de Humayun, et la raison pour laquelle tout visiteur du Taj Mahal devrait la voir d'abord. L'ADN architectural du Taj Mahal remonte directement à la tombe de Humayun, bâtie 72 ans plus tôt.\n\n### 1. Le double dôme\n\nLa tombe de Humayun a introduit le **double dôme** dans l'architecture moghole : un dôme extérieur (haut et spectaculaire) séparé d'un dôme intérieur (plus bas, aux proportions justes) par un vide structurel. Sans cette innovation, la fameuse silhouette du Taj Mahal, ce dôme bulbeux parfait dressé vers le ciel, n'aurait pu être réalisée à l'échelle voulue par Shah Jahan. Le dôme intérieur du Taj Mahal est, proportionnellement, presque identique à celui de la tombe de Humayun.\n\n### 2. Le jardin charbagh\n\nLe Taj Mahal se dresse à l'extrémité d'un jardin charbagh divisé par des canaux de marbre. Tout ce concept, le tombeau comme point focal d'un jardin paradisiaque symétrique, fut réalisé pour la première fois à la tombe de Humayun 72 ans plus tôt. Les architectes de Shah Jahan connaissaient intimement cet ensemble.\n\n### 3. Grès rouge et marbre blanc\n\nLa tombe de Humayun a fixé la palette moghole caractéristique : une structure principale en **grès rouge d'Agra** rehaussée d'incrustations de **marbre blanc de Makrana**. Le Taj Mahal a inversé la formule, structure principale en marbre blanc et grès rouge réservé aux bâtiments annexes, mais la combinaison est une invention de la tombe de Humayun.\n\n### 4. L'iwan central\n\nChaque face de la tombe de Humayun est dominée par un grand **iwan**, une immense arche voûtée encadrant l'entrée. La célèbre arche centrale de chaque face du Taj Mahal en est le développement direct, considérablement agrandie mais identique dans son principe.\n\n### 5. Les chambres octogonales\n\nLa tombe de Humayun comme le Taj Mahal utilisent des **chambres d'angle octogonales** reliées à une chambre funéraire centrale, un plan rayonnant qui laisse entrer la lumière de plusieurs côtés tout en préservant la symétrie. Ce plan octogonal fut inauguré à la tombe de Humayun et copié à l'identique au Taj Mahal.\n\nEn bref : visiter la tombe de Humayun avant le Taj Mahal transforme votre compréhension de ce que Shah Jahan a accompli. Vous ne voyez plus seulement un bel édifice, mais l'aboutissement délibéré d'une tradition architecturale inaugurée à la tombe de Humayun."
+   },
+   {
+    "title": "La restauration de l'Aga Khan : une réussite du patrimoine mondial",
+    "content": "La tombe de Humayun a souffert de siècles de négligence après la chute de l'Empire moghol. Au milieu du XXe siècle, le jardin avait été transformé en camp de réfugiés après la partition de 1947, les canaux étaient à sec et de nombreux éléments décoratifs gravement dégradés.\n\nEn **1997**, l'**Aga Khan Trust for Culture (AKTC)** s'est associé à l'Archaeological Survey of India pour un projet de restauration de 16 ans, l'un des plus complets d'Asie. Le projet a :\n\n- Remis en eau les **canaux du charbagh** avec des techniques d'irrigation fidèles à l'époque\n- Replanté le jardin avec des **espèces documentées dans les registres botaniques moghols**\n- Conservé et stabilisé plus de **140 monuments secondaires** du complexe\n- Retiré le camp de réfugiés et restauré la **Sunder Nursery** adjacente\n- Formé des centaines d'artisans locaux aux techniques mogholes de taille de pierre, d'enduit à la chaux et de carrelage\n\nLa restauration s'est achevée en **2013**, avant la visite du prince Charles. Elle est aujourd'hui citée dans le monde entier comme modèle de conservation du patrimoine urbain et a reçu le prix Aga Khan d'architecture en 2016."
+   },
+   {
+    "title": "Guide complet de visite 2026",
+    "content": "### Tarifs\n- **Touristes étrangers :** 600 ₹ par personne\n- **Citoyens indiens :** 40 ₹ par personne\n- **Enfants de moins de 15 ans :** gratuit\n- Audioguide de l'ASI à l'entrée : 100 ₹ (hindi) / 150 ₹ (anglais)\n\n### Horaires\nOuvert **tous les jours du lever au coucher du soleil** (environ 6h à 18h). Contrairement au fort Rouge, la tombe de Humayun est **ouverte tous les jours, lundi compris**.\n\n### Comment s'y rendre\n\n**En métro :** ligne **Violette** jusqu'à **JLN Stadium**, puis 10 minutes à pied ou un court trajet en auto-rickshaw (30 à 40 ₹) jusqu'à l'entrée principale.\n\n**En Uber ou Ola :** cherchez « Humayun's Tomb ». Dépose à l'entrée principale de la porte ouest sur Mathura Road.\n\n### Meilleur moment\n**Tôt le matin (6h à 8h)** est de loin le meilleur moment. Le site ouvre au lever du soleil et, les deux premières heures, les visiteurs sont rares. La lumière du matin sur le grès rouge et le marbre blanc est exceptionnelle, celle qui remplit les magazines de voyage. Le site est aussi nettement plus frais tôt le matin, ce qui compte énormément entre mars et octobre.\n\n### Que voir à l'intérieur\n**Le tombeau principal :** la chambre centrale abrite le cénotaphe de Humayun en marbre blanc ; la sépulture réelle est dans une crypte en dessous. La chambre octogonale s'ouvre sur plusieurs alcôves voûtées, chacune avec les cénotaphes d'autres membres de la famille moghole. Plus de 150 Moghols reposent dans le complexe.\n\n**Le jardin charbagh :** parcourez tout le périmètre en suivant les canaux jusqu'aux quatre angles. La vue du tombeau depuis les coins du jardin, encadré de cyprès et reflété dans les canaux, est l'une des plus belles perspectives architecturales d'Inde.\n\n**La tombe d'Isa Khan :** belle tombe octogonale d'époque Lodi dans le complexe, bâtie 20 ans avant celle de Humayun. Plus calme et moins visitée, elle est fascinante en soi.\n\n**L'Arab Serai :** le caravansérail d'origine construit pour loger les 300 artisans persans qui ont bâti la tombe. La mosquée et la tombe Afsarwala qu'il abrite sont bien conservées et rarement visitées.\n\n### Combiner avec d'autres sites de Delhi\nLa tombe de Humayun est au centre de Delhi, près de l'[India Gate](/india/delhi/india-gate) (15 minutes en Uber) et du Lodhi Garden (10 minutes à pied). Voyez le [guide de voyage de Delhi](/india/delhi/delhi-travel-guide-2026) pour planifier votre itinéraire complet."
+   },
+   {
+    "title": "Visitez la tombe de Humayun avec un expert de l'architecture moghole",
+    "content": "Le récit architectural qui relie la tombe de Humayun au Taj Mahal est l'un des plus fascinants de l'histoire mondiale, mais il reste invisible sans le bon guide. Nos guides historiens licenciés retracent chaque élément de conception de Delhi à Agra et rendent votre future visite du Taj Mahal infiniment plus riche. Visites privées tous les jours."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Pourquoi la tombe de Humayun est-elle importante ?",
+    "a": "C'est le **premier tombeau-jardin bâti dans le sous-continent indien** et le prédécesseur architectural direct du Taj Mahal. Tous les grands principes du Taj Mahal, double dôme, jardin charbagh, palette de grès rouge et de marbre blanc, iwan central, furent utilisés d'abord à la tombe de Humayun, 72 ans plus tôt. C'est sans doute le bâtiment le plus significatif de Delhi sur le plan architectural."
+   },
+   {
+    "q": "La tombe de Humayun est-elle classée à l'UNESCO ?",
+    "a": "Oui, inscrite au **patrimoine mondial en 1993**, l'un des premiers monuments moghols à recevoir cette distinction, pour sa valeur universelle exceptionnelle comme premier exemple abouti d'architecture moghole et pour son influence directe sur les monuments ultérieurs, dont le Taj Mahal."
+   },
+   {
+    "q": "Quel est le prix d'entrée en 2026 ?",
+    "a": "**600 ₹ pour les touristes étrangers** et **40 ₹ pour les citoyens indiens**. Gratuit pour les moins de 15 ans. Audioguide de l'ASI en supplément à l'entrée, 100 à 150 ₹."
+   },
+   {
+    "q": "Comment la tombe de Humayun a-t-elle influencé le Taj Mahal ?",
+    "a": "Elle a introduit cinq éléments clés que le Taj Mahal a repris directement : (1) le **double dôme**, (2) le **jardin paradisiaque charbagh**, (3) la **palette de grès rouge et de marbre blanc**, (4) l'**arche iwan centrale** sur chaque face et (5) les **chambres d'angle octogonales**. La visiter avant le Taj Mahal transforme la compréhension de l'œuvre de Shah Jahan."
+   },
+   {
+    "q": "Qui a construit la tombe de Humayun ?",
+    "a": "Elle fut commandée par **Hamida Banu Begum** (Haji Begum), veuve principale de l'empereur Humayun, qui lança les travaux en 1565, neuf ans après sa mort en 1556. L'architecte fut **Mirak Mirza Ghiyas**, un Persan de Hérat, qui apporta à Delhi tout le vocabulaire des tombeaux-jardins timourides."
+   },
+   {
+    "q": "La tombe de Humayun est-elle ouverte le lundi ?",
+    "a": "Oui, **ouverte tous les jours, lundi compris**, du lever au coucher du soleil, contrairement au fort Rouge qui ferme le lundi."
+   },
+   {
+    "q": "Combien de temps dure la visite ?",
+    "a": "Une vraie visite du tombeau et du complexe prend **1h30 à 2 heures**. Avec un guide ou un audioguide et l'exploration complète (tombe d'Isa Khan, Arab Serai, Sunder Nursery), comptez **2h30 à 3 heures**."
+   },
+   {
+    "q": "Quelle est la station de métro la plus proche ?",
+    "a": "**JLN Stadium** sur la **ligne Violette**, à environ 10 minutes à pied ou un court trajet en auto-rickshaw (30 à 40 ₹) de l'entrée de la porte ouest sur Mathura Road."
+   },
+   {
+    "q": "Faut-il visiter la tombe de Humayun avant ou après le Taj Mahal ?",
+    "a": "**Avant le Taj Mahal**, sans hésiter. La voir d'abord donne le contexte architectural pour comprendre exactement sur quoi Shah Jahan s'est appuyé. L'expérience du Taj Mahal s'approfondit considérablement quand on reconnaît chaque élément inventé à Delhi 72 ans plus tôt."
+   },
+   {
+    "q": "Combien de personnes sont enterrées dans la tombe de Humayun ?",
+    "a": "Plus de **150 membres de la famille royale moghole** reposent dans le complexe, plus que dans tout autre lieu. La chambre principale contient le cénotaphe de Humayun, la sépulture étant dans la crypte en dessous. Son épouse Hamida Banu Begum et plusieurs de ses épouses, enfants et petits-enfants y sont aussi enterrés."
+   },
+   {
+    "q": "Qu'est-ce que la restauration de l'Aga Khan ?",
+    "a": "L'**Aga Khan Trust for Culture** a mené une restauration historique de 16 ans (1997–2013) en partenariat avec l'Archaeological Survey of India : remise en eau des canaux, replantation du charbagh avec des végétaux d'époque et conservation de plus de 140 monuments secondaires. Le projet est aujourd'hui cité dans le monde entier comme modèle de conservation du patrimoine."
+   },
+   {
+    "q": "La tombe de Humayun est-elle mieux que le Taj Mahal ?",
+    "a": "Ce sont des expériences fondamentalement différentes. Le Taj Mahal est plus grand, plus raffiné et plus bouleversant. Mais la tombe de Humayun est bien plus calme, moins commerciale et sans doute plus intéressante architecturalement pour qui en comprend la portée historique. Beaucoup d'architectes et d'historiens la jugent plus enrichissante intellectuellement. L'idéal est de visiter les deux."
+   }
+  ]
+ },
+ "india-gate": {
+  "title": "India Gate à Delhi : histoire, guide de visite et faits 2026",
+  "seoTitle": "India Gate Delhi : horaires, accès et conseils",
+  "description": "L'India Gate est ouverte 24h/24, entrée gratuite. À voir surtout après la tombée de la nuit quand elle est illuminée : horaires, accès en métro, parking et alentours.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrée",
+    "value": "Gratuite, ouverte 24h/24"
+   },
+   {
+    "icon": "History",
+    "label": "Construite en",
+    "value": "1931 (conçue par Edwin Lutyens)"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Hauteur",
+    "value": "42 mètres"
+   },
+   {
+    "icon": "Map",
+    "label": "Lieu",
+    "value": "Kartavya Path, New Delhi"
+   },
+   {
+    "icon": "Star",
+    "label": "Meilleur moment",
+    "value": "Coucher du soleil et soirée pour l'illumination"
+   },
+   {
+    "icon": "Clock",
+    "label": "Métro le plus proche",
+    "value": "Central Secretariat (lignes Jaune et Violette)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "L'India Gate : l'âme de New Delhi",
+    "content": "L'**India Gate** est le monument le plus visité de Delhi, et peut-être le plus chargé d'émotion. Contrairement au fort Rouge ou au Qutub Minar, qui demandent des connaissances historiques pour être pleinement appréciés, l'India Gate parle immédiatement et universellement. C'est un monument au sacrifice : celui des 84 000 soldats de l'armée des Indes britanniques morts pendant la Première Guerre mondiale, et des 13 300 dont les noms sont gravés, lettre par lettre, dans la pierre.\n\nConstruite en **1931** et conçue par le grand architecte britannique **Sir Edwin Lutyens**, l'homme qui a dessiné la plupart des bâtiments cérémoniels de New Delhi, l'India Gate se dresse à l'extrémité est de **Kartavya Path** (ex-Rajpath), le grand boulevard cérémoniel qui va du palais présidentiel (**Rashtrapati Bhavan**) à l'ouest jusqu'à l'India Gate à l'est. Ce boulevard est la colonne vertébrale de New Delhi, l'axe le long duquel s'exprime tout le pouvoir de l'État.\n\nL'India Gate est **gratuite à toute heure du jour et de la nuit**. C'est le monument le plus démocratique de Delhi : pas de billets, pas de files, pas de fermeture. Les familles pique-niquent sur les pelouses, les enfants courent autour des colonnes, les vendeurs proposent du bhutta (maïs grillé) et du chai. C'est le lieu de rassemblement de la ville, un monument aux soldats de la nation devenu aussi, improbablement et magnifiquement, le salon de la ville.\n\nLa nuit, l'India Gate s'illumine de projecteurs dorés qui font briller le grès crème contre le ciel de Delhi. Le reflet dans les bassins, les fontaines des jardins et l'arche éclairée sur l'obscurité de Kartavya Path composent l'un des grands spectacles urbains d'Asie."
+   },
+   {
+    "title": "Histoire : 84 000 soldats et la gratitude d'une nation",
+    "content": "### La Grande Guerre et le sacrifice de l'Inde\n\nQuand la Première Guerre mondiale éclate en 1914, l'armée des Indes britanniques, une force de soldats indiens professionnels commandés par des officiers britanniques, est mobilisée à une échelle inédite. Au cours de la guerre, **1,5 million de soldats indiens** ont servi en Europe, en Mésopotamie (l'Irak actuel), en Afrique de l'Est et à Gallipoli. Ils ont combattu à la Somme, à Passchendaele et à Gallipoli, souvent à des milliers de kilomètres de chez eux, dans des climats et des conditions totalement inconnus.\n\nDe ces 1,5 million, environ **84 000 sont morts**, tués au combat, emportés par la maladie ou portés disparus. Ils venaient de tous les coins de l'Inde : Gurkhas du Népal, Sikhs du Pendjab, Rajpoutes du Rajasthan, Dogras du Jammu, Pathans de la frontière du Nord-Ouest et fantassins du Bengale, du Maharashtra et du Sud.\n\n### La décision de construire\n\nAprès la guerre, l'Imperial War Graves Commission britannique entreprit de commémorer les morts sur tous les théâtres d'opérations. En Inde, elle décida d'ériger un mémorial de guerre central dans la nouvelle capitale de New Delhi, alors en construction. **Sir Edwin Lutyens**, architecte en chef de New Delhi, fut chargé de le concevoir.\n\nLutyens s'inspira de l'Arc de Triomphe de Paris et de la porte de Menin à Ypres, les deux mémoriaux de guerre les plus célèbres d'Europe, et choisit une simplicité monumentale : un **arc de triomphe de 42 mètres** en pierre de Bharatpur (un grès crème du Rajasthan), gravé de la dédicace et des noms de 13 300 soldats dont les tombes ne pouvaient être marquées individuellement.\n\nLa première pierre fut posée par le duc de Connaught en 1921, et le mémorial fut inauguré par le **vice-roi Lord Irwin le 12 février 1931**.\n\n### L'inscription\n\nAu sommet de l'arche, sur les quatre faces, on lit la dédicace aux morts des armées indiennes tombés et honorés en France et en Flandre, en Mésopotamie et en Perse, en Afrique de l'Est, à Gallipoli et ailleurs au Proche et en Extrême-Orient, ainsi qu'à ceux dont le nom est consigné et qui sont tombés en Inde, sur la frontière du Nord-Ouest ou pendant la troisième guerre afghane.\n\nSous la dédicace, les noms de 13 300 soldats, officiers et hommes de troupe, sont gravés par ordre alphabétique et par régiment.\n\n### L'indépendance et l'Amar Jawan Jyoti\n\nAprès l'indépendance en 1947, l'India Gate resta le mémorial de guerre central de la nation. En 1971, après la victoire indienne dans la guerre de libération du Bangladesh, la Première ministre Indira Gandhi installa sous l'arche l'**Amar Jawan Jyoti** (« flamme du soldat immortel »), une flamme éternelle à la mémoire du soldat inconnu, symbolisé par un fusil renversé coiffé d'un casque.\n\nEn janvier 2022, l'Amar Jawan Jyoti d'origine a été fusionnée avec la flamme du **National War Memorial**, un nouveau mémorial plus vaste bâti derrière l'India Gate en 2019, qui accueille désormais les cérémonies d'État en l'honneur des soldats tombés."
+   },
+   {
+    "title": "Architecture : Lutyens dans toute sa monumentalité",
+    "content": "L'India Gate, c'est **Edwin Lutyens** à son plus puissant et à son plus sobre. La structure est un **arc de triomphe**, l'une des plus anciennes formes d'architecture monumentale, héritée de l'Antiquité romaine via l'Arc de Triomphe, réduit à sa géométrie essentielle.\n\nL'arche mesure **42 mètres de haut** et **9,1 mètres de large** à l'ouverture. Elle est bâtie en **pierre de Bharatpur**, un grès crème à grain fin du Rajasthan, choisi parce qu'on peut y graver des milliers de noms sans qu'elle se dégrade. La pierre a une chaleur dorée particulièrement photogénique dans la lumière du soir.\n\nLe dessin se remarque par ce qu'il **exclut** : aucune sculpture figurative, aucun décor sculpté, aucun ornement au-delà des moulures géométriques et des noms gravés. Cette austérité est délibérée : pour Lutyens, les noms eux-mêmes étaient le monument, et tout ajout décoratif les aurait diminués.\n\nL'arche est placée dans un jardin hexagonal d'où rayonnent six avenues, la plus importante étant **Kartavya Path** (Rajpath) qui mène à l'ouest au Rashtrapati Bhavan. Les jardins, entretenus par la municipalité de New Delhi, comprennent pelouses, parterres et une série de bassins et de fontaines illuminés le soir."
+   },
+   {
+    "title": "Kartavya Path : parcourir le boulevard cérémoniel",
+    "content": "L'India Gate est l'extrémité est de **Kartavya Path** (rebaptisé en 2022, ex-Rajpath), le boulevard cérémoniel de 3 kilomètres qui est sans doute le plus grand axe urbain d'Asie du Sud.\n\nLe boulevard file parfaitement droit de l'India Gate à l'est jusqu'au **Rashtrapati Bhavan** (palais présidentiel) à l'ouest, bordé par le **North Block** et le **South Block** (ministère des Finances et ministère des Affaires étrangères) et les pelouses de la **Central Vista**.\n\nMarcher sur Kartavya Path de l'India Gate vers le Rashtrapati Bhavan est l'une des grandes expériences gratuites de Delhi. L'échelle est délibérément écrasante : Lutyens l'a voulu plus large que les Champs-Élysées pour créer un sentiment de grandeur impériale. Des arbres bordent les deux côtés, des bassins flanquent la voie centrale. Tôt le matin, avec la brume qui monte des pelouses, la promenade est extraordinaire.\n\n**Jour de la République (26 janvier) :** chaque année, le défilé de la République se déroule entièrement sur Kartavya Path, de Vijay Chowk près du Rashtrapati Bhavan jusqu'à l'India Gate. Divisions militaires, forces paramilitaires, danseurs folkloriques et chars de chaque État défilent pendant 3 à 4 heures. Les places en tribune se réservent des mois à l'avance."
+   },
+   {
+    "title": "Visiter l'India Gate : guide pratique 2026",
+    "content": "### Entrée\nL'India Gate est **entièrement gratuite** et **ouverte 24h/24, tous les jours de l'année**. Pas de billets, pas de contrôle de sécurité (hors fouille des sacs les jours d'affluence) et pas d'heure de fermeture.\n\n### Meilleurs moments\n\n**Coucher du soleil (18h à 19h) :** la lumière dorée sur le grès crème est extraordinaire. Les photographes viennent en nombre pour cette lumière.\n\n**Soirée (19h à 22h) :** l'India Gate est illuminée du crépuscule à minuit. L'arche éclairée reflétée dans les bassins est l'une des plus belles vues de Delhi. Les vendeurs de rue s'installent le long des allées : bhutta (maïs grillé), chai et pani puri sont les classiques.\n\n**Tôt le matin (6h à 8h) :** joggeurs et pratiquants de yoga sur les pelouses, bien moins de touristes. Lumière nette et plate, idéale pour la photo d'architecture sans foule.\n\n### Accès\n**En métro :** ligne **Jaune** ou **Violette** jusqu'à **Central Secretariat**. L'India Gate est à 20 minutes à pied vers l'est le long de Kartavya Path, ou 5 minutes en auto-rickshaw (30 à 40 ₹). La marche sur Kartavya Path est recommandée : elle replace l'India Gate dans le paysage cérémoniel de New Delhi.\n\n**En Uber ou Ola :** cherchez « India Gate ». Plusieurs points de dépose autour du jardin hexagonal.\n\n### À faire aux alentours\nL'India Gate est à portée de la **[tombe de Humayun](/india/delhi/humayuns-tomb)** (15 minutes en Uber), du **Lodhi Garden** (10 minutes en Uber), du **Musée national** (10 minutes à pied vers l'ouest par Janpath) et de **Connaught Place** (15 minutes en métro). Elle ancre naturellement une journée à New Delhi : voyez le [guide de voyage de Delhi](/india/delhi/delhi-travel-guide-2026) pour l'itinéraire complet."
+   },
+   {
+    "title": "Explorez New Delhi avec un guide local",
+    "content": "L'India Gate et Kartavya Path prennent tout leur sens quand on comprend l'histoire coloniale, le mouvement d'indépendance et l'extraordinaire transformation de New Delhi, capitale impériale britannique devenue cœur de la plus grande démocratie du monde. Nos guides licenciés font vivre cette histoire lors de visites privées et en groupe de New Delhi."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "L'India Gate est-elle gratuite ?",
+    "a": "Oui, l'India Gate est **entièrement gratuite** et ouverte **24h/24, 7 jours sur 7, toute l'année**. Pas de billets, pas de réservation, pas de fermeture. C'est le grand monument le plus accessible de Delhi."
+   },
+   {
+    "q": "Qui a construit l'India Gate et quand ?",
+    "a": "Conçue par l'architecte britannique **Sir Edwin Lutyens**, architecte en chef de New Delhi, elle fut inaugurée le **12 février 1931** par le vice-roi Lord Irwin. La première pierre fut posée par le duc de Connaught en 1921 et la construction dura environ 10 ans."
+   },
+   {
+    "q": "Pourquoi l'India Gate a-t-elle été construite ?",
+    "a": "Pour commémorer les **84 000 soldats de l'armée des Indes britanniques** morts pendant la Première Guerre mondiale (1914–1918) et la troisième guerre anglo-afghane (1919). Les noms de **13 300 soldats** dont les tombes ne pouvaient être marquées sont gravés dans la pierre de l'arche."
+   },
+   {
+    "q": "Quelle est la hauteur de l'India Gate ?",
+    "a": "L'India Gate mesure **42 mètres de haut** et **9,1 mètres de large** à l'ouverture. Elle est bâtie en pierre de Bharatpur, un grès crème du Rajasthan."
+   },
+   {
+    "q": "Quel est le meilleur moment pour visiter l'India Gate ?",
+    "a": "**Le coucher du soleil et la soirée** : l'India Gate est illuminée de projecteurs dorés du crépuscule à minuit, l'un des spectacles les plus saisissants de Delhi. Tôt le matin (6h à 8h) est idéal pour la photo, avec une lumière nette et peu de monde. Le monument impressionne à toute heure."
+   },
+   {
+    "q": "Qu'est-ce que l'Amar Jawan Jyoti ?",
+    "a": "L'**Amar Jawan Jyoti** (« flamme du soldat immortel ») était une flamme éternelle installée sous l'India Gate en 1971 par la Première ministre Indira Gandhi après la victoire dans la guerre de libération du Bangladesh. Elle a brûlé 50 ans en mémoire du soldat inconnu. En janvier 2022, elle a été fusionnée avec la flamme du nouveau **National War Memorial** derrière l'India Gate."
+   },
+   {
+    "q": "Quelle station de métro est la plus proche de l'India Gate ?",
+    "a": "**Central Secretariat**, sur les lignes **Jaune** et **Violette**. L'India Gate est à 20 minutes à pied vers l'est le long de Kartavya Path, ou 5 minutes en auto-rickshaw. La marche sur Kartavya Path est vivement recommandée."
+   },
+   {
+    "q": "Qu'est-ce que Kartavya Path ?",
+    "a": "**Kartavya Path** (ex-Rajpath, rebaptisé en 2022) est le boulevard cérémoniel de 3 kilomètres qui relie l'India Gate à l'est au Rashtrapati Bhavan (palais présidentiel) à l'ouest. C'est le plus grand axe urbain de l'Inde et le lieu du défilé de la République chaque 26 janvier."
+   },
+   {
+    "q": "Peut-on visiter l'India Gate la nuit ?",
+    "a": "Oui, l'India Gate est ouverte **24h/24** et sans doute la plus spectaculaire la nuit, illuminée de projecteurs dorés du crépuscule jusqu'à minuit environ. Les visites du soir sont très prisées des familles de Delhi comme des touristes."
+   },
+   {
+    "q": "L'India Gate est-elle le National War Memorial ?",
+    "a": "Non, ce sont deux mémoriaux distincts. L'**India Gate** (1931) commémore les soldats morts pendant la Première Guerre mondiale. Le **National War Memorial**, bâti en 2019 juste derrière, honore les soldats indiens tombés dans les guerres depuis l'indépendance (1947). La flamme de l'Amar Jawan Jyoti brûle désormais au National War Memorial."
+   },
+   {
+    "q": "Comment intégrer l'India Gate dans un itinéraire de Delhi ?",
+    "a": "L'India Gate ancre naturellement une journée à New Delhi. De là, marchez sur Kartavya Path vers le Rashtrapati Bhavan, visitez la [tombe de Humayun](/india/delhi/humayuns-tomb) (15 minutes en Uber) et le Lodhi Garden (10 minutes), puis revenez dîner à Connaught Place. Voyez notre [itinéraire d'une journée à Delhi](/india/delhi/delhi-1-day-itinerary) pour le parcours optimisé."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
