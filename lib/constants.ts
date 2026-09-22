@@ -772,6 +772,10 @@ export const HA_LONG_INFO_SLUGS = [
   'choosing-a-ha-long-bay-cruise',
   'getting-to-ha-long-bay-from-hanoi',
   'best-time-to-visit-ha-long-bay',
+  'lan-ha-bay-and-cat-ba-guide',
+  'ha-long-bay-caves-and-islands-guide',
+  'ha-long-bay-with-kids',
+  'bai-tu-long-bay-guide',
 ];
 
 export const HANOI_INFO_SLUGS = [
@@ -779,6 +783,11 @@ export const HANOI_INFO_SLUGS = [
   'hanoi-street-food-guide',
   'day-trips-from-hanoi',
   'best-time-to-visit-hanoi',
+  'ninh-binh-day-trip-from-hanoi',
+  'hanoi-food-tours-and-cooking-classes',
+  'hanoi-motorbike-tours-guide',
+  'hanoi-cultural-shows-and-workshops',
+  'hanoi-history-tour-guide',
 ];
 
 export const SAPA_INFO_SLUGS = [
@@ -786,6 +795,10 @@ export const SAPA_INFO_SLUGS = [
   'fansipan-cable-car-guide',
   'best-time-to-visit-sapa',
   'getting-to-sapa-from-hanoi',
+  'sapa-homestay-guide',
+  'sapa-markets-and-bac-ha-guide',
+  'mu-cang-chai-and-rice-terrace-guide',
+  'sapa-2-day-itinerary',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
@@ -793,6 +806,11 @@ export const HOI_AN_INFO_SLUGS = [
   'hoi-an-tailoring-guide',
   'my-son-sanctuary-guide',
   'best-time-to-visit-hoi-an',
+  'hoi-an-cooking-classes-guide',
+  'hoi-an-lantern-festival-and-night-guide',
+  'hoi-an-countryside-and-bike-tours',
+  'hoi-an-day-trips-guide',
+  'hoi-an-with-kids',
 ];
 
 export const UBUD_INFO_SLUGS = [
@@ -862,10 +880,20 @@ export const DA_NANG_INFO_SLUGS = [
   'ba-na-hills-golden-bridge-guide',
   'marble-mountains-guide',
   'getting-around-da-nang',
+  'best-time-to-visit-da-nang',
+  'hai-van-pass-guide',
+  'da-nang-beaches-and-water-sports',
+  'hue-day-trip-from-da-nang',
+  'da-nang-2-day-itinerary',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'cu-chi-tunnels-guide',
   'mekong-delta-day-trip-guide',
   'saigon-street-food-guide',
+  'best-time-to-visit-ho-chi-minh-city',
+  'saigon-motorbike-tours-guide',
+  'ho-chi-minh-city-1-day-itinerary',
+  'saigon-cooking-classes-guide',
+  'saigon-day-trips-guide',
 ];

@@ -512,7 +512,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'choosing-a-ha-long-bay-cruise',
     'getting-to-ha-long-bay-from-hanoi',
     'best-time-to-visit-ha-long-bay',
-  ].map(slug => ({
+    'lan-ha-bay-and-cat-ba-guide',
+    'ha-long-bay-caves-and-islands-guide',
+    'ha-long-bay-with-kids',
+    'bai-tu-long-bay-guide',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/ha-long/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -524,7 +528,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'hanoi-street-food-guide',
     'day-trips-from-hanoi',
     'best-time-to-visit-hanoi',
-  ].map(slug => ({
+    'ninh-binh-day-trip-from-hanoi',
+    'hanoi-food-tours-and-cooking-classes',
+    'hanoi-motorbike-tours-guide',
+    'hanoi-cultural-shows-and-workshops',
+    'hanoi-history-tour-guide',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -536,7 +545,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'fansipan-cable-car-guide',
     'best-time-to-visit-sapa',
     'getting-to-sapa-from-hanoi',
-  ].map(slug => ({
+    'sapa-homestay-guide',
+    'sapa-markets-and-bac-ha-guide',
+    'mu-cang-chai-and-rice-terrace-guide',
+    'sapa-2-day-itinerary',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -548,7 +561,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'hoi-an-tailoring-guide',
     'my-son-sanctuary-guide',
     'best-time-to-visit-hoi-an',
-  ].map(slug => ({
+    'hoi-an-cooking-classes-guide',
+    'hoi-an-lantern-festival-and-night-guide',
+    'hoi-an-countryside-and-bike-tours',
+    'hoi-an-day-trips-guide',
+    'hoi-an-with-kids',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -642,7 +660,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'ba-na-hills-golden-bridge-guide',
     'marble-mountains-guide',
     'getting-around-da-nang',
-  ].map(slug => ({
+    'best-time-to-visit-da-nang',
+    'hai-van-pass-guide',
+    'da-nang-beaches-and-water-sports',
+    'hue-day-trip-from-da-nang',
+    'da-nang-2-day-itinerary',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -653,7 +676,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'cu-chi-tunnels-guide',
     'mekong-delta-day-trip-guide',
     'saigon-street-food-guide',
-  ].map(slug => ({
+    'best-time-to-visit-ho-chi-minh-city',
+    'saigon-motorbike-tours-guide',
+    'ho-chi-minh-city-1-day-itinerary',
+    'saigon-cooking-classes-guide',
+    'saigon-day-trips-guide',
+].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

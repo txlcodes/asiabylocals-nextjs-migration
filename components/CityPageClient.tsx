@@ -7,9 +7,10 @@ import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { tagsForTitle, tagCounts } from '@/lib/tourTags';
 import { BALI_GUIDES } from '@/lib/baliGuides';
 import { JAPAN_GUIDES } from '@/lib/japanGuides';
+import { VIETNAM_GUIDES } from '@/lib/vietnamGuides';
 
 // Data-driven Essential Guides: every authority page of the city, one source of truth.
-const CITY_GUIDES: Record<string, { name: string; slug: string; image: string }[]> = { ...BALI_GUIDES, ...JAPAN_GUIDES };
+const CITY_GUIDES: Record<string, { name: string; slug: string; image: string }[]> = { ...BALI_GUIDES, ...JAPAN_GUIDES, ...VIETNAM_GUIDES };
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
