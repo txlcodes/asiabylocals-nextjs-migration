@@ -3103,6 +3103,99 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Ninguno"
   ]
+ },
+ "jaipur-heritage-walk-street-food-tour": {
+  "title": "Jaipur: paseo patrimonial y degustación de comida callejera en la Ciudad Rosa",
+  "metaTitle": "Paseo patrimonial y comida callejera en Jaipur con guía local",
+  "metaDescription": "Paseo guiado por el casco antiguo de Jaipur: bazares, callejones históricos y degustaciones de comida callejera, samosas, kachoris, dulces y masala chai.",
+  "shortDescription": "Esta experiencia única, un paseo a pie con un experto local, le invita a recorrer las bulliciosas calles de Jaipur mientras descubre su patrimonio artístico, sus tradiciones culturales y los tesoros gastronómicos de la Ciudad Rosa.",
+  "fullDescription": "Al caminar por los animados callejones vivirá el día a día de Jaipur, admirará su arquitectura histórica y descubrirá puestos de comida escondidos y tiendas familiares que adoran los vecinos.\n\nEsta experiencia cuidadosamente diseñada combina visitas, relatos y degustaciones deliciosas, para crear una conexión más profunda con la cultura y el patrimonio culinario de la Ciudad Rosa.\n\nSin agendas ocultas y con un ritmo de paseo relajado, este tour es la forma ideal de explorar Jaipur como un local mientras disfruta de sus sabores más icónicos y de su ambiente vibrante.",
+  "highlights": [
+   "Recorrer los vibrantes bazares y calles locales de la Ciudad Rosa",
+   "Vivir Jaipur como un local con un guía experto",
+   "Explorar los callejones históricos y los mercados bulliciosos del viejo Jaipur",
+   "Probar el sabor auténtico de Rajastán"
+  ],
+  "included": [
+   "Comida callejera (samosa, kachori, dulces famosos, masala chai y más en tiendas locales)",
+   "Botella de agua",
+   "Un acompañante cultural durante el paseo",
+   "Paseo patrimonial guiado"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Bebidas alcohólicas",
+   "Propinas"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour": {
+  "title": "Jaipur: visita privada de día completo con guía local experto",
+  "metaTitle": "Jaipur privado con guía local: Fuerte Amber y City Palace",
+  "metaDescription": "Día privado en Jaipur con guía local experto: Fuerte Amber, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace, Jantar Mantar y cenotafios de Gaitor.",
+  "shortDescription": "Viva el encanto exclusivo de Jaipur, Patrimonio de la Humanidad, en un tour privado de día completo. Descubra la rica historia de la ciudad, su legado real y sus monumentos más importantes con su guía.",
+  "fullDescription": "Explore la riqueza cultural y patrimonial de Jaipur en esta jornada completa de visitas.\n\n1. Fuerte y palacio de Amber\nAdmire la grandeza del Fuerte Amber, una combinación ejemplar de arquitectura hindú y musulmana. Situado en lo alto de las colinas a las afueras de Jaipur, este fuerte de arenisca roja y mármol blanco ofrece una ventana a la fascinante historia de la región. Duración: 2 horas.\n\n2. Panna Meena Ka Kund\nDescubra este pozo escalonado histórico, conocido por sus escaleras simétricas y su eficaz sistema de captación de agua de lluvia, muy cerca del Fuerte Amber. Duración: 30 minutos.\n\n3. Jal Mahal\nDisfrute de la tranquilidad del Jal Mahal, un cautivador palacio sobre el lago Man Sagar. Esta joya del siglo XVIII muestra el esplendor de la cultura rajput. Duración: 20 minutos (opcional).\n\nPausa para comer (1 hora, opcional)\nPuede disfrutar de una comida relajada en un restaurante local antes de continuar.\n\nDurante 10 a 15 minutos visitará un taller dedicado a la cultura y las artes locales de Jaipur: estampado en bloque a mano y corte de piedras en bruto. Una experiencia puramente educativa y cultural, sin ninguna presión de compra.\n\n4. Hawa Mahal\nAdmire el icónico Palacio de los Vientos, ideado por Sawai Pratap Singh, con sus arcos escalonados y sus delicadas celosías. Duración: 1 hora.\n\n5. City Palace\nExplore el City Palace del maharajá, testimonio del legado real de Jaipur, construido por el maharajá Jai Singh. Duración: 1 hora.\n\n6. Jantar Mantar\nAdéntrese en el ingenio científico de estos diecinueve instrumentos astronómicos construidos por el rey rajput Sawai Jai Singh. Patrimonio de la Humanidad, alberga el mayor reloj de sol de piedra del mundo. Duración: 1 hora.\n\n7. Royal Gaitor Tumbas\nSumérjase en la historia en los cenotafios reales de Gaitor, un complejo del siglo XVIII con tallas minuciosas y templos dedicados. Duración: 1 hora.\n\nOpcional, si lo elige: el Fuerte Amber en un tour guiado de 3 horas con cómoda recogida y regreso al hotel, con grandes patios, el Sheesh Mahal, la Ganesh Pol y las estancias reales.",
+  "highlights": [
+   "El característico esplendor visual de Jaipur en una jornada completa de visitas",
+   "Lo mejor de un sitio Patrimonio de la Humanidad conocido como la Ciudad Rosa",
+   "El estilo de vida real rajput en el Fuerte Amber y el Jal Mahal, el Palacio del Agua",
+   "La historia, el patrimonio y el legado astronómico de la ciudad explicados por su guía",
+   "Un trayecto cómodo en coche privado climatizado con guía profesional y traslados de hotel"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en sedán o SUV climatizado",
+   "Guía profesional autorizado",
+   "Aparcamiento",
+   "Combustible"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comidas",
+   "Propinas"
+  ]
+ },
+ "amber-fort-official-guided-tour": {
+  "title": "Guía oficial autorizado para una visita por la ciudad de Jaipur",
+  "metaTitle": "Guía oficial en Jaipur: Fuerte Amber, City Palace, Hawa Mahal",
+  "metaDescription": "Reserve un guía oficial autorizado por el gobierno en Jaipur: Fuerte Amber, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal y la histórica Ciudad Rosa.",
+  "shortDescription": "Reserve un guía oficial local experto para explorar Jaipur, la Ciudad Rosa: Fuerte Amber, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal y la histórica Ciudad Rosa. Nota: el guía le acompañará en su coche durante la visita por la ciudad.",
+  "fullDescription": "Viva el encanto real, la brillantez arquitectónica y la cultura vibrante de Jaipur con la ayuda de un guía local experto oficialmente autorizado por el gobierno.\n\nJaipur, conocida como la Ciudad Rosa de la India, combina a la perfección arquitectura rajput majestuosa, legado real, bazares de colores e historia fascinante.\n\nSu visita guiada comienza en el magnífico Fuerte Amber, una fortaleza en lo alto de una colina inscrita en la UNESCO y conocida por sus elementos artísticos de estilo hindú.\n\nDespués disfrutará de una parada fotográfica en el Jal Mahal, el precioso Palacio del Agua situado en medio del lago Man Sagar. Continuará hacia el City Palace y luego al Jantar Mantar, el observatorio astronómico de fama mundial construido en el siglo XVIII.\n\nFotografiará la icónica belleza del Hawa Mahal, el Palacio de los Vientos, y por último recorrerá los vibrantes callejones de la zona de mercado de la histórica Ciudad Rosa, donde podrá ver el oficio artesano local, la artesanía tradicional, los textiles y la auténtica cultura rajastaní.",
+  "highlights": [
+   "Reservar un guía oficial local experto para explorar la ciudad de Jaipur",
+   "Fuerte Amber, City Palace, Jal Mahal, Hawa Mahal y el recorrido por la Ciudad Rosa",
+   "Descubrir la auténtica arquitectura rajput en un tour patrimonial por Jaipur"
+  ],
+  "included": [
+   "Guía para la visita por la ciudad"
+  ],
+  "notIncluded": [
+   "Coche para la visita por la ciudad (si no se reserva la opción)",
+   "Comida"
+  ]
+ },
+ "jaipur-to-agra-taj-mahal-day-trip": {
+  "title": "Desde Jaipur: el Taj Mahal en Agra en coche privado de ida y vuelta en el día",
+  "metaTitle": "Jaipur a Agra en un día: Taj Mahal y Fuerte de Agra en coche",
+  "metaDescription": "Ida y vuelta de Jaipur a Agra en un día en coche privado climatizado con conductor: Taj Mahal y Fuerte de Agra, con guía local profesional en destino.",
+  "shortDescription": "Descubra la belleza atemporal del Taj Mahal y los magníficos monumentos de Agra en una excursión privada de un día desde Jaipur, en sedán Toyota. Viaje cómodamente en coche privado climatizado y explore el rico legado mogol con un guía local profesional.",
+  "fullDescription": "Operador local de Jaipur, en coche privado Toyota.\n\nDisfrute de una ida y vuelta cómoda y sin complicaciones de Jaipur a Agra en el mismo día y descubra la belleza atemporal del Taj Mahal junto con el encanto histórico del Fuerte de Agra.\n\nViajará de Jaipur a Agra en coche privado climatizado y descubrirá el rico legado mogol con la ayuda de un guía local experto.\n\nEsta jornada bien planificada incluye recogida y regreso al hotel, visitas guiadas y un recorrido memorable por los monumentos históricos más icónicos de la India, todo en un solo día.",
+  "highlights": [
+   "El Taj Mahal desde Jaipur en una ida y vuelta privada en el día",
+   "El icónico Taj Mahal, una de las siete maravillas del mundo, y el Fuerte de Agra",
+   "Viaje en coche de categoría con conductor de habla inglesa"
+  ],
+  "included": [
+   "Recogida y regreso en hotel, aeropuerto o estación de tren",
+   "Jaipur a Agra y regreso en coche privado climatizado con chófer",
+   "Aparcamiento",
+   "Peajes e impuestos interestatales",
+   "Guía profesional en Agra",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida"
+  ]
  }
 };
 export const ES_PAGES: Record<string, PageT> = {

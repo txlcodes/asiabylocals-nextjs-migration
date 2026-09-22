@@ -3103,6 +3103,99 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Keine"
   ]
+ },
+ "jaipur-heritage-walk-street-food-tour": {
+  "title": "Jaipur: Heritage-Spaziergang und Streetfood-Verkostung in der Rosa Stadt",
+  "metaTitle": "Heritage-Spaziergang und Streetfood in Jaipur mit lokalem Guide",
+  "metaDescription": "Geführter Spaziergang durch die Altstadt von Jaipur: Basare, historische Gassen und Streetfood-Verkostungen mit Samosa, Kachori, Süßigkeiten und Masala Chai.",
+  "shortDescription": "Dieses besondere Erlebnis, ein Spaziergang mit einem lokalen Kenner, lädt Sie ein, Jaipurs belebte Straßen zu erkunden und dabei das künstlerische Erbe, die kulturellen Traditionen und die kulinarischen Schätze der Rosa Stadt zu entdecken.",
+  "fullDescription": "Beim Gang durch die lebhaften Gassen erleben Sie den Alltag Jaipurs, bewundern die historische Architektur und entdecken versteckte Essensstände und familiengeführte Läden, die bei Einheimischen beliebt sind.\n\nDieses sorgfältig zusammengestellte Erlebnis verbindet Besichtigung, Geschichten und köstliche Kostproben und schafft eine tiefere Verbindung zur Kultur und zum kulinarischen Erbe der Rosa Stadt.\n\nOhne versteckte Absichten und in entspanntem Gehtempo ist dieser Spaziergang eine ideale Art, Jaipur wie ein Einheimischer zu erkunden und dabei die bekanntesten Aromen und die lebendige Atmosphäre zu genießen.",
+  "highlights": [
+   "Durch die lebendigen lokalen Basare und Straßen der Rosa Stadt gehen",
+   "Jaipur wie ein Einheimischer erleben, mit einem kundigen Guide",
+   "Die historischen Gassen und belebten Märkte der Altstadt von Jaipur erkunden",
+   "Den authentischen Geschmack Rajasthans erleben"
+  ],
+  "included": [
+   "Streetfood (Samosa, Kachori, bekannte Süßigkeiten, Masala Chai und mehr in lokalen Läden)",
+   "Wasserflasche",
+   "Eine kulturelle Begleitung während des Spaziergangs",
+   "Geführter Heritage-Spaziergang"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Alkoholische Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour": {
+  "title": "Jaipur: private Ganztagesbesichtigung mit lokalem Experten-Guide",
+  "metaTitle": "Jaipur privat mit lokalem Guide: Amber Fort und City Palace",
+  "metaDescription": "Privater Tag in Jaipur mit lokalem Experten-Guide: Amber Fort, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace, Jantar Mantar und Gaitor-Kenotaphe.",
+  "shortDescription": "Erleben Sie den exklusiven Charme Jaipurs, eines UNESCO-Welterbes, auf einer privaten Ganztagestour. Entdecken Sie die reiche Geschichte der Stadt, ihr königliches Erbe und ihre bedeutendsten Wahrzeichen mit Ihrem Guide.",
+  "fullDescription": "Erkunden Sie den kulturellen Reichtum und das Erbe Jaipurs auf dieser Ganztagestour.\n\n1. Amber Fort und Palast\nBestaunen Sie die Pracht des Amber Fort, eine beispielhafte Verbindung hinduistischer und muslimischer Architektur. Hoch auf den Hügeln vor Jaipur gelegen, gibt diese Festung aus rotem Sandstein und weißem Marmor Einblick in die faszinierende Geschichte der Region. Dauer: 2 Stunden.\n\n2. Panna Meena Ka Kund\nEntdecken Sie den historischen Stufenbrunnen, bekannt für seine symmetrischen Treppen und sein wirksames System zur Regenwassersammlung, ganz in der Nähe des Amber Fort. Dauer: 30 Minuten.\n\n3. Jal Mahal\nGenießen Sie die Ruhe des Jal Mahal, eines bezaubernden Wasserpalasts im Man-Sagar-See. Das Juwel aus dem 18. Jahrhundert zeigt die Pracht der Rajputen-Kultur. Dauer: 20 Minuten (optional).\n\nMittagspause (1 Stunde, optional)\nSie können in einem lokalen Restaurant entspannt zu Mittag essen, bevor es weitergeht.\n\nFür 10 bis 15 Minuten besuchen Sie eine Werkstatt zur lokalen Kultur und Kunst Jaipurs: Handblockdruck und Schleifen von Rohsteinen. Ein rein lehrreiches und kulturelles Erlebnis, ohne jeden Kaufdruck.\n\n4. Hawa Mahal\nBewundern Sie den ikonischen Palast der Winde, ersonnen von Sawai Pratap Singh, mit gestuften Bögen und feinen Gitterfenstern. Dauer: 1 Stunde.\n\n5. City Palace\nErkunden Sie den City Palace des Maharadschas, Zeugnis von Jaipurs fürstlichem Erbe, erbaut von Maharadscha Jai Singh. Dauer: 1 Stunde.\n\n6. Jantar Mantar\nTauchen Sie ein in den Erfindergeist dieser neunzehn astronomischen Instrumente des Rajputen-Königs Sawai Jai Singh. Als UNESCO-Welterbe beherbergt es die größte Steinsonnenuhr der Welt. Dauer: 1 Stunde.\n\n7. Royal Gaitor Tumbas\nTauchen Sie ein in die Geschichte der königlichen Kenotaphe von Gaitor, einer Anlage des 18. Jahrhunderts mit feinen Schnitzereien und geweihten Tempeln. Dauer: 1 Stunde.\n\nOptional, wenn Sie es wählen: das Amber Fort auf einer dreistündigen Führung mit bequemer Abholung und Rückfahrt zum Hotel, mit großen Höfen, Sheesh Mahal, Ganesh Pol und königlichen Gemächern.",
+  "highlights": [
+   "Die charakteristische Pracht Jaipurs auf einer Ganztagesbesichtigung",
+   "Die Höhepunkte eines UNESCO-Welterbes, bekannt als Rosa Stadt",
+   "Der königliche Rajputen-Lebensstil im Amber Fort und am Jal Mahal, dem Wasserpalast",
+   "Geschichte, Erbe und astronomisches Vermächtnis der Stadt von Ihrem Guide erklärt",
+   "Bequeme Fahrt im privaten klimatisierten Wagen mit professionellem Guide und Hoteltransfers"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport in klimatisierter Limousine oder SUV",
+   "Professioneller autorisierter Guide",
+   "Parkgebühren",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "amber-fort-official-guided-tour": {
+  "title": "Offizieller zugelassener Guide für eine Stadttour durch Jaipur",
+  "metaTitle": "Offizieller Guide in Jaipur: Amber Fort, City Palace, Hawa Mahal",
+  "metaDescription": "Buchen Sie einen offiziellen, staatlich zugelassenen Guide in Jaipur: Amber Fort, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal und die historische Rosa Stadt.",
+  "shortDescription": "Buchen Sie einen offiziellen lokalen Experten-Guide, um Jaipur, die Rosa Stadt, zu erkunden: Amber Fort, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal und die historische Rosa Stadt. Hinweis: Der Guide begleitet Sie in Ihrem Wagen während der Stadtbesichtigung.",
+  "fullDescription": "Erleben Sie den königlichen Charme, die architektonische Brillanz und die lebendige Kultur Jaipurs mit Unterstützung eines offiziellen, staatlich zugelassenen lokalen Experten-Guides.\n\nJaipur, bekannt als die Rosa Stadt Indiens, verbindet majestätische Rajputen-Architektur, königliches Erbe, farbenfrohe Basare und faszinierende Geschichte.\n\nIhre geführte Stadttour beginnt mit dem prachtvollen Amber Fort, einer von der UNESCO gelisteten Hügelfestung, bekannt für ihre kunstvollen Elemente im hinduistischen Stil.\n\nDanach genießen Sie einen malerischen Fotostopp am Jal Mahal, dem schönen Wasserpalast inmitten des Man-Sagar-Sees. Weiter geht es zum City Palace und anschließend zum Jantar Mantar, dem weltberühmten astronomischen Observatorium aus dem 18. Jahrhundert.\n\nSie fotografieren den ikonischen Hawa Mahal, den Palast der Winde, und erkunden zum Schluss die lebendigen Gassen des historischen Marktviertels der Rosa Stadt, wo Sie lokales Handwerk, traditionelles Kunsthandwerk, Textilien und authentische rajasthanische Kultur erleben.",
+  "highlights": [
+   "Einen offiziellen lokalen Experten-Guide für die Erkundung Jaipurs buchen",
+   "Amber Fort, City Palace, Jal Mahal, Hawa Mahal und die Tour durch die Rosa Stadt",
+   "Echte Rajputen-Architektur auf einer Heritage-Tour durch Jaipur entdecken"
+  ],
+  "included": [
+   "Guide für die Stadttour"
+  ],
+  "notIncluded": [
+   "Wagen für die Stadttour (falls die Option nicht gebucht wurde)",
+   "Mittagessen"
+  ]
+ },
+ "jaipur-to-agra-taj-mahal-day-trip": {
+  "title": "Ab Jaipur: Taj Mahal in Agra als privater Tagesausflug im Auto",
+  "metaTitle": "Jaipur nach Agra an einem Tag: Taj Mahal und Agra Fort im Auto",
+  "metaDescription": "Hin- und Rückfahrt Jaipur nach Agra an einem Tag im privaten klimatisierten Wagen mit Fahrer: Taj Mahal und Agra Fort, professioneller lokaler Guide vor Ort.",
+  "shortDescription": "Entdecken Sie die zeitlose Schönheit des Taj Mahal und die großartigen Monumente Agras auf einem privaten Tagesausflug ab Jaipur, in einer Toyota-Limousine. Sie fahren bequem im privaten klimatisierten Wagen und erkunden das reiche Mogulerbe mit einem professionellen lokalen Guide.",
+  "fullDescription": "Lokaler Anbieter aus Jaipur, im privaten Toyota-Wagen.\n\nGenießen Sie eine bequeme, unkomplizierte Hin- und Rückfahrt von Jaipur nach Agra an einem Tag und erleben Sie die zeitlose Schönheit des Taj Mahal sowie den historischen Reiz des Agra Fort.\n\nSie fahren von Jaipur nach Agra im privaten klimatisierten Wagen und entdecken das reiche Mogulerbe mit Unterstützung eines erfahrenen lokalen Guides.\n\nDiese gut geplante Tagestour umfasst nahtlose Abholung und Rückfahrt zum Hotel, geführte Besichtigungen und eine unvergessliche Reise zu Indiens ikonischsten historischen Wahrzeichen, alles an einem Tag.",
+  "highlights": [
+   "Das Taj Mahal ab Jaipur auf einer privaten Hin- und Rückfahrt an einem Tag",
+   "Das ikonische Taj Mahal, eines der sieben Weltwunder, und das Agra Fort",
+   "Fahrt im komfortablen Wagen mit englischsprachigem Fahrer"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Hotel, Flughafen oder Bahnhof",
+   "Jaipur nach Agra und zurück im privaten klimatisierten Wagen mit Chauffeur",
+   "Parkgebühren",
+   "Maut und zwischenstaatliche Steuern",
+   "Professioneller Guide in Agra",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mittagessen"
+  ]
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
