@@ -394,10 +394,12 @@ export default async function CityPage({ params }: Props) {
           ...(() => { const im = Array.isArray(tour.images) ? tour.images[0] : (typeof tour.images === 'string' && tour.images.startsWith('[') ? (() => { try { return JSON.parse(tour.images)[0]; } catch { return undefined; } })() : tour.images); return im ? { image: cloudinaryLoader({ src: im, width: 640 }) } : {}; })(),
           brand: { '@type': 'Brand', name: 'AsiaByLocals' },
           offers: { '@type': 'Offer', price: tour.pricePerPerson, priceCurrency: tour.currency || 'USD', availability: tour.status === 'approved' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock', url: `${cityPageUrl}/${tour.slug || `tour-${tour.id}`}` },
+          // A rating is emitted ONLY when real reviews back it. The old fallback
+          // derived a 4.0-5.0 score and a 20-120 review count from the tour id,
+          // so a guest deciding on "4.7 from 63 reviews" was reading a number
+          // nobody had given. No stars is the honest answer when we have none.
           ...(tour.rating
             ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: tour.rating.toFixed(1), reviewCount: tour.reviewCount, bestRating: '5' } }
-            : countryName !== 'Indonesia'
-            ? (() => { const n = ((parseInt(tour.id) || 0) * 9301 + 49297) % 233280 / 233280; return { aggregateRating: { '@type': 'AggregateRating', ratingValue: (4.0 + n).toFixed(1), reviewCount: Math.floor(n * 100) + 20, bestRating: '5' } }; })()
             : {}),
         };
       }),

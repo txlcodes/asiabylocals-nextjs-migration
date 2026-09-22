@@ -1631,31 +1631,36 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       })()}
                     </h1>
                     <div className="flex items-center gap-4 flex-wrap">
-                      <div className="flex items-center gap-2">
-                        <span className="px-2 py-1 bg-[#10B981] text-white text-[12px] font-black rounded">
-                          {t('topRated', 'Top rated')}
-                        </span>
-                        <div className="flex items-center gap-1">
-                          {[...Array(5)].map((_, i) => (
-                            <Star key={i} size={16} className="text-yellow-400 fill-yellow-400" />
-                          ))}
-                        </div>
-                        <span className="text-[16px] font-black text-[#001A33]">
-                          {(() => {
-                            // Prefer the real review average when the tour has reviews (DB or hardcoded)
-                            const realAvg = realReviewStats?.averageRating;
-                            const hardAvg = hardcodedReviews?.averageRating;
-                            if (realAvg && realAvg > 0) return realAvg.toFixed(1);
-                            if (hardAvg && hardAvg > 0) return hardAvg.toFixed(1);
-                            // Fallback: consistent rating between 4.0-5.0 based on tour ID
-                            const seed = parseInt(tour.id) || 0;
-                            const random = (seed * 9301 + 49297) % 233280;
-                            const normalized = random / 233280;
-                            const rating = 4.0 + (normalized * 1.0);
-                            return rating.toFixed(1);
-                          })()}
-                        </span>
-                      </div>
+                      {/* Stars only where real reviews back them (Talha's call,
+                          2026-09-23). This block used to fall back to a score
+                          derived from the tour id, and it painted five full stars
+                          whatever the number said, so a 4.1 looked like a 5.0 to
+                          anyone reading the row rather than the digits. */}
+                      {(() => {
+                        const avg = (realReviewStats?.averageRating && realReviewStats.averageRating > 0)
+                          ? realReviewStats.averageRating
+                          : (hardcodedReviews?.averageRating && hardcodedReviews.averageRating > 0)
+                          ? hardcodedReviews.averageRating
+                          : null;
+                        if (!avg) return null;
+                        const full = Math.round(avg);
+                        return (
+                          <div className="flex items-center gap-2">
+                            {avg >= 4.5 && (
+                              <span className="px-2 py-1 bg-[#10B981] text-white text-[12px] font-black rounded">
+                                {t('topRated', 'Top rated')}
+                              </span>
+                            )}
+                            <div className="flex items-center gap-1">
+                              {[...Array(5)].map((_, i) => (
+                                <Star key={i} size={16}
+                                  className={i < full ? 'text-yellow-400 fill-yellow-400' : 'text-gray-300'} />
+                              ))}
+                            </div>
+                            <span className="text-[16px] font-black text-[#001A33]">{avg.toFixed(1)}</span>
+                          </div>
+                        );
+                      })()}
                       <div className="text-[14px] text-gray-600 font-semibold">
                         {/* Show the real operator. This was previously hardcoded to
                             AsiaByLocals to keep the trading name internal, so a traveller

@@ -51,13 +51,7 @@ export default function HomePage() {
           contactType: 'customer service',
           availableLanguage: ['English'],
         },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '127',
-          bestRating: '5',
-          worstRating: '1',
-        },
+        // No aggregateRating: the 4.9/127 that stood here was hardcoded, not counted.
       },
       {
         '@type': 'WebSite',

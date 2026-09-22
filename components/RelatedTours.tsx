@@ -127,10 +127,9 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
             return preferredRatings[prefIndex];
         }
 
-        const seed = parseInt(tour.id) || 0;
-        const random = (seed * 9301 + 49297) % 233280;
-        const normalized = random / 233280;
-        return 4.0 + (normalized * 0.5);
+        // Real or nothing (Talha's call, 2026-09-23). The seeded 4.0-4.5 that
+        // stood here came from the tour id, not from anyone who took the tour.
+        return null;
     };
 
     const scrollLeft = () => {
@@ -190,7 +189,7 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
             >
                 {tours.map((tour) => {
                     const rating = calculateRating(tour);
-                    const displayRating = rating.toFixed(1);
+                    const displayRating = rating === null ? null : rating.toFixed(1);
 
                     let lowestPrice = 0;
                     if (tour.groupPricingTiers) {
@@ -271,10 +270,12 @@ const RelatedTours: React.FC<RelatedToursProps> = ({ currentTourId, country, cit
                                     </div>
                                 )}
 
-                                <div className="flex items-center gap-1.5 mb-auto">
-                                    <Star size={14} className="text-yellow-400 fill-yellow-400" />
-                                    <span className="text-[13px] font-black text-[#001A33]">{displayRating}</span>
-                                </div>
+                                {displayRating && (
+                                  <div className="flex items-center gap-1.5 mb-auto">
+                                      <Star size={14} className="text-yellow-400 fill-yellow-400" />
+                                      <span className="text-[13px] font-black text-[#001A33]">{displayRating}</span>
+                                  </div>
+                                )}
 
                                 <div className="mt-4 pt-3 border-t border-gray-100 flex items-end justify-between">
                                     <div className="text-[16px] font-black text-[#001A33]">

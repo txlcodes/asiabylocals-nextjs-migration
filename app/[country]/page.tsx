@@ -265,7 +265,7 @@ export default async function CountryPage({ params }: Props) {
         description: `Book verified local guides and private tours across ${countryName}. Authentic cultural experiences, heritage walks, food tours & day trips.`,
         url: 'https://www.asiabylocals.com',
         areaServed: { '@type': 'Country', name: countryName },
-        aggregateRating: { '@type': 'AggregateRating', ratingValue: '4.9', reviewCount: '127', bestRating: '5', worstRating: '1' },
+        // No aggregateRating: the 4.9/127 that stood here was hardcoded, not counted.
         ...(c === 'india' ? {
           review: [
             { '@type': 'Review', author: { '@type': 'Person', name: 'Sarah M.' }, datePublished: '2026-02-15', reviewBody: 'Our guide Rajesh made the Taj Mahal sunrise absolutely magical. He knew exactly where to stand for the best photos and shared stories about Shah Jahan that you won\'t find in any guidebook.', reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' } },

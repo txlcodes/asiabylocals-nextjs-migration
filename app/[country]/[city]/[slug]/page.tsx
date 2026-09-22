@@ -679,11 +679,6 @@ export default async function SlugPage({ params }: Props) {
   }
 
   // ---------- SERVER-SIDE JSON-LD for Tour Detail (guaranteed in raw HTML) ----------
-  const ratingSeed = parseInt(tour?.id || '0') || 0;
-  const ratingRandom = (ratingSeed * 9301 + 49297) % 233280;
-  const ratingNorm = ratingRandom / 233280;
-  const ratingValue = (4.0 + (ratingNorm * 1.0)).toFixed(1);
-  const reviewCount = Math.floor(ratingNorm * 100) + 20;
   const tourUrl = `https://www.asiabylocals.com/${countrySlug}/${citySlug}/${slug}`;
   const todayISO = new Date().toISOString().split('T')[0];
 
@@ -768,12 +763,19 @@ export default async function SlugPage({ params }: Props) {
           priceValidUntil: '2026-12-31',
           seller: { '@type': 'TravelAgency', name: 'AsiaByLocals', url: 'https://www.asiabylocals.com' },
         },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: tourReviewData ? tourReviewData.averageRating.toFixed(1) : ratingValue,
-          reviewCount: tourReviewData ? tourReviewData.totalReviews : reviewCount,
-          bestRating: '5',
-        },
+        // Only when real reviews exist. This used to fall back to a rating
+        // computed from the tour id (4.0-5.0, 20-120 reviews), which put an
+        // invented star score in front of someone about to pay.
+        ...(tourReviewData && tourReviewData.totalReviews > 0
+          ? {
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: tourReviewData.averageRating.toFixed(1),
+                reviewCount: tourReviewData.totalReviews,
+                bestRating: '5',
+              },
+            }
+          : {}),
         ...(reviewSchemas ? { review: reviewSchemas } : {}),
       },
       // TouristTrip schema — enriched with real tour data for AI engines and Google
