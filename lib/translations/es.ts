@@ -7985,6 +7985,30 @@ export const ES_CITIES: Record<string, CityT> = {
   "title": "Tours por Bikaner con guías locales: Fuerte Junagarh y templo de las Ratas",
   "description": "Visitas guiadas por Bikaner, Fuerte Junagarh y templo de Karni Mata, reservadas directamente con operadores locales verificados."
  },
+ "country:thailand": {
+  "title": "Tailandia: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Bangkok, Phuket, Krabi, Chiang Mai y Pattaya: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "bangkok": {
+  "title": "Tours por Bangkok con guías locales: Gran Palacio, Wat Pho y mercados flotantes",
+  "description": "Visitas guiadas por Bangkok, rutas gastronómicas por Chinatown, mercados flotantes y excursiones a Ayutthaya, reservadas directamente con operadores locales verificados."
+ },
+ "phuket": {
+  "title": "Tours por Phuket con guías locales: islas Phi Phi, bahía de Phang Nga y casco antiguo",
+  "description": "Excursiones en barco a las islas Phi Phi y la bahía de Phang Nga, Gran Buda y paseos por el casco antiguo de Phuket, reservados directamente con operadores locales verificados."
+ },
+ "krabi": {
+  "title": "Tours por Krabi con guías locales: 4 islas, Railay e islas Hong",
+  "description": "Salidas en barco de cola larga a las 4 islas, islas Hong, Emerald Pool y kayak por los manglares, reservados directamente con operadores locales verificados."
+ },
+ "chiang-mai": {
+  "title": "Tours por Chiang Mai con guías locales: Doi Suthep, templos y cocina del norte",
+  "description": "Visitas guiadas por Chiang Mai, templos de Doi Suthep, clases de cocina y santuarios de elefantes éticos, reservados directamente con operadores locales verificados."
+ },
+ "pattaya": {
+  "title": "Tours por Pattaya con guías locales: Koh Larn, Santuario de la Verdad y Nong Nooch",
+  "description": "Excursiones en barco a Koh Larn, Santuario de la Verdad, jardín de Nong Nooch y santuarios de elefantes éticos, reservados directamente con operadores locales verificados."
+ },
  "agra": {
   "title": "Visitas y guías oficiales en Agra: Taj Mahal, Fuerte de Agra, Fatehpur Sikri",
   "description": "Reserva visitas en Agra directamente con operadores locales verificados: guías oficiales del Taj Mahal, entradas sin colas, amanecer, excursiones desde Delhi. Sin intermediarios."

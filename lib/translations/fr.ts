@@ -7985,6 +7985,30 @@ export const FR_CITIES: Record<string, CityT> = {
   "title": "Visites de Bikaner avec des guides locaux : fort de Junagarh et temple des Rats",
   "description": "Visites guidées de Bikaner, fort de Junagarh et temple de Karni Mata, réservées directement auprès d'opérateurs locaux vérifiés."
  },
+ "country:thailand": {
+  "title": "Thaïlande : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Bangkok, Phuket, Krabi, Chiang Mai et Pattaya : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "bangkok": {
+  "title": "Visites de Bangkok avec des guides locaux : Grand Palais, Wat Pho et marchés flottants",
+  "description": "Visites guidées de Bangkok, balades gourmandes à Chinatown, marchés flottants et excursions à Ayutthaya, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "phuket": {
+  "title": "Visites de Phuket avec des guides locaux : îles Phi Phi, baie de Phang Nga et Vieille Ville",
+  "description": "Excursions en bateau vers les îles Phi Phi et la baie de Phang Nga, Grand Bouddha et balades dans la vieille ville de Phuket, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "krabi": {
+  "title": "Visites de Krabi avec des guides locaux : 4 îles, Railay et îles Hong",
+  "description": "Sorties en bateau à longue queue vers les 4 îles, îles Hong, Emerald Pool et kayak dans la mangrove, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "chiang-mai": {
+  "title": "Visites de Chiang Mai avec des guides locaux : Doi Suthep, temples et cuisine du Nord",
+  "description": "Visites guidées de Chiang Mai, temples de Doi Suthep, cours de cuisine et sanctuaires d'éléphants éthiques, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "pattaya": {
+  "title": "Visites de Pattaya avec des guides locaux : île de Coral, Sanctuaire de la Vérité et Nong Nooch",
+  "description": "Sorties en bateau vers l'île de Coral, Sanctuaire de la Vérité, jardin de Nong Nooch et sanctuaires d'éléphants éthiques, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
  "agra": {
   "title": "Visites et guides officiels à Agra : Taj Mahal, fort d'Agra, Fatehpur Sikri",
   "description": "Réservez des visites d'Agra directement auprès d'opérateurs locaux vérifiés : guides officiels du Taj Mahal, billets coupe-file, lever du soleil, excursions depuis Delhi. Sans intermédiaire."

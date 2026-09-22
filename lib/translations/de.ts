@@ -7985,6 +7985,30 @@ export const DE_CITIES: Record<string, CityT> = {
   "title": "Bikaner-Touren mit lokalen Guides: Junagarh Fort und Rattentempel",
   "description": "Geführte Touren in Bikaner, Junagarh Fort und Karni-Mata-Tempel, direkt bei geprüften lokalen Anbietern gebucht."
  },
+ "country:thailand": {
+  "title": "Thailand: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Bangkok, Phuket, Krabi, Chiang Mai und Pattaya: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "bangkok": {
+  "title": "Bangkok-Touren mit lokalen Guides: Großer Palast, Wat Pho und schwimmende Märkte",
+  "description": "Geführte Touren durch Bangkok, Streetfood in Chinatown, schwimmende Märkte und Tagesausflüge nach Ayutthaya, direkt bei geprüften lokalen Veranstaltern gebucht."
+ },
+ "phuket": {
+  "title": "Phuket-Touren mit lokalen Guides: Phi-Phi-Inseln, Phang-Nga-Bucht und Altstadt",
+  "description": "Bootstouren zu den Phi-Phi-Inseln und in die Phang-Nga-Bucht, Großer Buddha und Rundgänge durch die Altstadt von Phuket, direkt bei geprüften lokalen Veranstaltern gebucht."
+ },
+ "krabi": {
+  "title": "Krabi-Touren mit lokalen Guides: 4 Inseln, Railay und Hong-Inseln",
+  "description": "Longtailboot-Touren zu den 4 Inseln, Hong-Inseln, Emerald Pool und Kajaktouren durch die Mangroven, direkt bei geprüften lokalen Veranstaltern gebucht."
+ },
+ "chiang-mai": {
+  "title": "Chiang-Mai-Touren mit lokalen Guides: Doi Suthep, Tempel und nordthailändische Küche",
+  "description": "Geführte Touren durch Chiang Mai, Tempel am Doi Suthep, Kochkurse und ethische Elefantenschutzzentren, direkt bei geprüften lokalen Veranstaltern gebucht."
+ },
+ "pattaya": {
+  "title": "Pattaya-Touren mit lokalen Guides: Koh Larn, Sanctuary of Truth und Nong Nooch",
+  "description": "Bootstouren nach Koh Larn, Sanctuary of Truth, Nong-Nooch-Garten und ethische Elefantenschutzzentren, direkt bei geprüften lokalen Veranstaltern gebucht."
+ },
  "agra": {
   "title": "Touren und offizielle Guides in Agra: Taj Mahal, Rotes Fort, Fatehpur Sikri",
   "description": "Buchen Sie Agra-Touren direkt bei geprüften lokalen Veranstaltern: offizielle Taj Mahal Guides, Tickets ohne Anstehen, Sonnenaufgang, Tagestouren ab Delhi. Ohne Zwischenhändler."
