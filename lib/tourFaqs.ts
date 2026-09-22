@@ -3,6 +3,7 @@
 import { INDONESIA_FAQS } from './tourFaqsIndonesia';
 import { JAPAN_FAQS } from './tourFaqsJapan';
 import { THAILAND_FAQS } from './tourFaqsThailand';
+import { VIETNAM_FAQS } from './tourFaqsVietnam';
 
 export const getTourSpecificFAQs = (title: string, slug: string | undefined) => {
   const t = title.toLowerCase();
@@ -12,6 +13,7 @@ export const getTourSpecificFAQs = (title: string, slug: string | undefined) => 
   if (slug && INDONESIA_FAQS[slug]) return INDONESIA_FAQS[slug];
   if (slug && JAPAN_FAQS[slug]) return JAPAN_FAQS[slug];
   if (slug && THAILAND_FAQS[slug]) return THAILAND_FAQS[slug];
+  if (slug && VIETNAM_FAQS[slug]) return VIETNAM_FAQS[slug];
 
   // --- NEPAL TOURS (2026-09) ---
   if (slug === 'bhaktapur-durbar-square-spiritual-spiritual-tour') {
