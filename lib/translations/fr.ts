@@ -1715,6 +1715,171 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Absolument. Prenez le Gatimaan Express (départ 8h10) et revenez le soir. En voiture par la Yamuna Expressway, quittez Delhi avant 5h pour maximiser le temps aux monuments."
    }
   ]
+ },
+ "places-to-visit-in-agra": {
+  "title": "Les lieux à visiter à Agra : le guide détaillé (2026)",
+  "description": "Taj Mahal, fort d'Agra, Baby Taj, Fatehpur Sikri et Mehtab Bagh : les meilleurs lieux à visiter à Agra, classés avec tarifs d'entrée et conseils.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Billets",
+    "value": "Réserver Taj et fort ensemble"
+   },
+   {
+    "icon": "Map",
+    "label": "Itinéraire malin",
+    "value": "Le chemin secret de la rive est"
+   },
+   {
+    "icon": "Clock",
+    "label": "Durée totale",
+    "value": "48 à 72 heures pour l'essentiel"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Le Taj Mahal : un chef-d'œuvre d'architecture émotionnelle",
+    "content": "Aucune exploration d'Agra, ni même de l'Inde, ne peut commencer ailleurs qu'au Taj Mahal. Commandé en 1632 par l'empereur moghol Shah Jahan pour abriter le tombeau de son épouse préférée, Mumtaz Mahal, ce monument est le symbole d'amour le plus reconnaissable au monde. Sur environ 17 hectares, l'ensemble est un triomphe du plan persan « Charbagh » (jardin en quatre parties), qui représente les jardins du paradis décrits dans les textes islamiques. La disposition obéit à une symétrie stricte et mathématique : chaque minaret, chaque arche, chaque motif floral a son double en miroir, pour une harmonie visuelle presque hypnotique.\n\n**Points forts architecturaux :**\n- **Le marbre blanc de Makrana :** venu du Rajasthan, il semble changer de teinte avec la lumière : rose tendre à l'aube, blanc éclatant à midi, crème translucide sous la pleine lune.\n- **Les incrustations de pietra dura :** observez les murs pour voir des milliers de pierres semi-précieuses (jaspe, lapis-lazuli, turquoise) serties dans le marbre. Cette technique, appelée localement « Parchin Kari », reste l'un des arts de la pierre les plus difficiles au monde.\n- **La calligraphie :** l'extérieur porte des versets du Coran, calibrés pour que les lettres du haut paraissent de la même taille que celles à hauteur d'yeux.\n\n**Conseil :** visitez le musée à l'ouest de l'enceinte pour voir les plans originaux et les outils des 20 000 artisans qui ont bâti cette merveille. On mesure alors l'effort humain derrière la façade de marbre."
+   },
+   {
+    "title": "Le fort d'Agra : l'épicentre cramoisi de l'empire",
+    "content": "À 2,5 kilomètres seulement de son voisin plus célèbre, le fort d'Agra est le frère tactique et politique du Taj. Le Taj incarne l'amour et le deuil ; le fort incarne la puissance impériale et le génie administratif. Fort de briques appelé Badalgarh à l'origine, il fut transformé par l'empereur Akbar le Grand en 1565 avec d'immenses blocs de grès rouge.\n\nCet ensemble de 38 hectares fut la résidence principale des empereurs moghols jusqu'en 1638. Moins un bâtiment qu'une « ville fortifiée » dans la ville.\n\n**Zones majeures :**\n- **Le palais de Jahangir :** superbe fusion des styles hindou et islamique, avec d'énormes consoles de pierre et des sculptures fines.\n- **Le Khas Mahal :** palais serein de marbre blanc dominant le fleuve, témoin du passage du goût moghol du grès rouge au marbre blanc.\n- **Le Musamman Burj :** la tour octogonale où Shah Jahan passa ses huit dernières années en captivité, le regard tourné vers le Taj Mahal de l'autre côté du fleuve.\n- **Le Diwan-i-Aam :** la salle des audiences publiques, où l'empereur écoutait les doléances de ses sujets depuis un trône serti de pierres précieuses.\n\n**Conseil :** prévoyez au moins 2h30. Les distances entre palais et salles sont importantes, et chaque section offre un regard différent sur la vie royale moghole."
+   },
+   {
+    "title": "La tombe d'Itimad-ud-Daula : le plan directeur",
+    "content": "Souvent éclipsée par l'échelle et la renommée du Taj Mahal, la tombe d'Itimad-ud-Daula est architecturalement essentielle comme « précurseur » ou « brouillon » du Taj. Elle fut construite entre 1622 et 1628 par l'impératrice Nur Jahan pour son père, Mirza Ghiyas Beg.\n\nCe monument marque une transition décisive dans l'architecture moghole : première tombe d'Inde entièrement en marbre blanc et première à utiliser massivement la pietra dura, qui deviendra la signature du Taj Mahal.\n\n**À observer :**\n- **Une échelle délicate :** contrairement à la grandeur du Taj, cette tombe semble intime, comme un bijou, et permet d'approcher l'artisanat.\n- **La variété des incrustations :** motifs géométriques et floraux encore plus denses que ceux du Taj, avec des motifs uniques comme des carafes de vin et des cyprès.\n- **Le cadre fluvial :** sur la rive est de la Yamuna, les jardins sont plus calmes et offrent une atmosphère sereine loin du trafic touristique du centre d'Agra.\n\n**Conseil :** c'est le meilleur endroit d'Agra pour photographier de près les carreaux et sculptures moghols sans être bousculé, pour une expérience bien plus détendue que dans les grands monuments."
+   },
+   {
+    "title": "Fatehpur Sikri : le chef-d'œuvre déserté",
+    "content": "À environ 40 kilomètres du centre, Fatehpur Sikri est une ville fantôme à l'histoire aussi grandiose que son architecture. Construite par l'empereur Akbar à la fin du XVIe siècle pour servir de capitale, elle fut abandonnée 14 ans plus tard à cause d'une grave crise de l'eau.\n\nParcourir ses couloirs silencieux aujourd'hui, c'est entrer dans une capsule temporelle du XVIe siècle parfaitement conservée.\n\n**Points forts architecturaux :**\n- **Buland Darwaza :** haute de 54 mètres, cette « porte de la Victoire » est l'une des plus hautes portes du monde, élevée pour célébrer la victoire d'Akbar sur le Gujarat.\n- **La tombe de Salim Chishti :** sanctuaire de marbre blanc au centre d'une cour de grès rouge. Lieu de pèlerinage vivant où des fidèles de toutes confessions nouent des fils rouges aux claustras (jalis) en faisant un vœu.\n- **Le Panch Mahal :** pavillon ouvert à cinq étages, utilisé par les dames de la cour pour se détendre et profiter de la brise du soir.\n\n**Conseil :** un guide sérieux est indispensable ici, car l'histoire des différentes ailes, pour ses épouses hindoue, chrétienne et musulmane, est complexe et révèle l'approche unique d'Akbar du pluralisme religieux."
+   },
+   {
+    "title": "Mehtab Bagh : le reflet du coucher de soleil",
+    "content": "Mehtab Bagh, le « jardin du clair de lune », est la dernière pièce du puzzle architectural du Taj Mahal. Situé juste en face, de l'autre côté de la Yamuna, il est parfaitement aligné sur l'axe central du Taj. Créé par l'empereur Babur, il fut restauré par ses successeurs pour servir de belvédère.\n\nC'est d'ici que sont prises les vues les plus emblématiques du Taj Mahal s'élançant vers le ciel, le fleuve offrant un premier plan idéal pour la pose longue.\n\n**Pourquoi y aller :**\n- **L'astuce du vendredi :** comme le [Taj Mahal est fermé le vendredi](/india/agra/is-taj-mahal-closed-on-friday), Mehtab Bagh est le meilleur endroit pour voir le monument dans toute sa gloire sans touristes dans le cadre.\n- **L'heure dorée :** au coucher du soleil, le Taj s'embrase d'orange et d'or et son reflet scintille dans les eaux du fleuve.\n- **Le détail botanique :** le jardin est peu à peu restauré avec les espèces d'origine citées dans les textes moghols : hibiscus, agrumes et roses.\n\n**Conseil :** arrivez au moins une heure avant le coucher du soleil pour trouver un coin tranquille et suivre la transformation des couleurs du monument, de l'or au saphir profond."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Faut-il un guide pour bien visiter ces lieux ?",
+    "a": "Pour les grands monuments, oui : ce sont les histoires qui font Agra. Vous pouvez [réserver un guide officiel pour le Taj Mahal](/india/agra/taj-mahal-official-guided-tour) dès 20 $, ou couvrir toute cette liste en une journée avec la [visite des incontournables d'Agra](/india/agra/agra-city-highlights-tour) menée par un guide local agréé."
+   },
+   {
+    "q": "Dans quel ordre visiter ces monuments ?",
+    "a": "Pour la meilleure lumière et le moins de monde, adoptez la stratégie « aube d'abord » : Taj Mahal au lever du soleil (6h), fort d'Agra vers 9h30 avant la chaleur, et gardez les sites au bord du fleuve, Baby Taj et Mehtab Bagh, pour la fin d'après-midi."
+   },
+   {
+    "q": "Ces sites sont-ils ouverts tous les jours ?",
+    "a": "La plupart des monuments ouvrent du lever au coucher du soleil tous les jours. Mais le Taj Mahal est strictement FERMÉ tous les vendredis aux touristes, sans exception pour les jours fériés ou les fêtes."
+   },
+   {
+    "q": "Peut-on marcher entre ces lieux ?",
+    "a": "La marche n'est pas recommandée pour le circuit principal. Le Taj et certains marchés sont proches, mais le fort d'Agra est à 2,5 km du Taj et le Baby Taj de l'autre côté du fleuve. Utilisez les taxis d'application (Uber) ou les e-rickshaws."
+   },
+   {
+    "q": "Faut-il un billet distinct pour chaque site ?",
+    "a": "Oui, chaque monument a son propre droit d'entrée. En 2026, la plupart des ventes sont passées au numérique : scannez les QR codes de l'ASI à chaque porte ou réservez sur le portail officiel."
+   }
+  ]
+ },
+ "agra-gatimaan-entry-ticket": {
+  "title": "Gatimaan Express Delhi–Agra : prix des billets, horaires et guide de réservation 2026",
+  "description": "Gatimaan Express 2026 : Delhi–Agra en 100 minutes, billets à partir de 755 ₹, horaires, conseils de réservation et planification de l'excursion.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Durée du trajet",
+    "value": "100 minutes (Delhi → Agra)"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Prix du billet (classe CC)",
+    "value": "755 ₹ (adulte) / 395 ₹ (enfant)"
+   },
+   {
+    "icon": "Star",
+    "label": "Numéro du train",
+    "value": "12050 (Delhi→Agra) / 12049 (Agra→Delhi)"
+   },
+   {
+    "icon": "Map",
+    "label": "Gare de départ",
+    "value": "Hazrat Nizamuddin (NZM), Delhi"
+   },
+   {
+    "icon": "History",
+    "label": "Vitesse maximale",
+    "value": "160 km/h, le service le plus rapide d'Inde"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Circule",
+    "value": "6 jours sur 7 (pas le vendredi)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Pourquoi le Gatimaan Express est le meilleur moyen de rejoindre Agra",
+    "content": "Le **Gatimaan Express** (train n° 12050 à l'aller, 12049 au retour) n'est pas un train Delhi–Agra comme les autres. C'est le premier service semi-grande vitesse d'Inde, jusqu'à **160 km/h**, qui couvre les 188 kilomètres entre la gare Hazrat Nizamuddin de Delhi et Agra Cantt en **100 minutes** seulement.\n\nLa comparaison est sans appel :\n- **Par la route (Yamuna Expressway)** : 3 à 4 heures selon le trafic\n- **En Shatabdi Express** : 2 heures depuis New Delhi\n- **En train ordinaire** : 2h30 à 3h30\n- **En Gatimaan Express** : 100 minutes, le grand gagnant\n\nAu-delà de la vitesse, le Gatimaan offre des sièges **Chair Car (CC)** larges et inclinables de type avion, un repas servi à bord (inclus dans le billet) et une expérience premium digne d'un voyage vers le monument le plus célèbre du monde.\n\nPour les voyageurs qui combinent Delhi avec une excursion au [Taj Mahal](/india/agra/taj-mahal), le Gatimaan Express est le choix de transport par excellence. Le départ du matin (8h10 de Hazrat Nizamuddin) arrive à Agra à **9h50**, et le retour quitte Agra à **17h35** pour arriver à Delhi à **19h30**."
+   },
+   {
+    "title": "Prix des billets du Gatimaan Express 2026",
+    "content": "Le Gatimaan Express propose une seule classe, **Chair Car (CC)**, avec un tarif adulte et un tarif réduit pour les enfants.\n\n### Tarifs 2026\n\n| Passager | Delhi → Agra | Agra → Delhi |\n|---|---|---|\n| **Adulte (12 ans et plus)** | 755 ₹ | 755 ₹ |\n| **Enfant (5 à 11 ans)** | 395 ₹ | 395 ₹ |\n| **Enfant de moins de 5 ans** | Gratuit (sans siège) | Gratuit (sans siège) |\n\n### Ce que comprend le billet\nLe billet **inclut un repas à bord** : petit-déjeuner chaud sur le service du matin Delhi → Agra et collation avec thé au retour. C'est unique parmi les trains indiens et cela justifie le tarif premium.\n\n### Tarification dynamique et quotas\nLes billets sont soumis à une **tarification dynamique** : plus la réservation est proche du départ, plus le prix monte. Le tarif de base de 755 ₹ s'applique en réservant longtemps à l'avance ; il peut dépasser 1 200 ₹ en haute saison (octobre à février) sur les dates complètes. **Réservez au moins 2 semaines à l'avance** via IRCTC en saison touristique.\n\n### Quota touristique\nUn **quota touristique** (TQ) est réservé sur le Gatimaan aux touristes étrangers et aux NRI. Il s'obtient à l'**International Tourist Bureau (ITB)** de la gare de New Delhi, où les détenteurs de passeport étranger peuvent réserver des places parfois épuisées dans le quota général. L'ITB accepte USD, EUR et les principales cartes bancaires."
+   },
+   {
+    "title": "Horaires du Gatimaan Express 2026",
+    "content": "Le Gatimaan Express circule **6 jours sur 7**. Il ne roule pas le **vendredi**, jour où le Taj Mahal est également fermé : une excursion à Agra le vendredi échoue donc deux fois. Choisissez n'importe quel autre jour.\n\n### Train 12050 : Delhi → Agra\n| Gare | Départ | Arrivée |\n|---|---|---|\n| **Hazrat Nizamuddin (NZM), Delhi** | **8h10** | |\n| **Agra Cantt (AGC)** | | **9h50** |\n\n### Train 12049 : Agra → Delhi\n| Gare | Départ | Arrivée |\n|---|---|---|\n| **Agra Cantt (AGC)** | **17h35** | |\n| **Hazrat Nizamuddin (NZM), Delhi** | | **19h30** |\n\n### Planifier l'excursion\nEn partant de Delhi à **8h10**, vous arrivez à Agra à **9h50**, ce qui laisse le temps d'être à la [porte est ou ouest du Taj Mahal vers 10h15](/india/agra/taj-mahal-opening-time). Après une journée complète au Taj Mahal, au [fort d'Agra](/india/agra/agra-fort) et un déjeuner sur place, vous repartez à **17h35** d'Agra Cantt et arrivez à Delhi à 19h30, à temps pour le dîner.\n\n**Point crucial** : le Gatimaan **ne circule pas le vendredi**, et le [Taj Mahal est fermé le vendredi](/india/agra/is-taj-mahal-closed-on-friday). Pour visiter Agra un vendredi, prenez le Shatabdi Express et organisez la journée autour du [fort d'Agra et de Mehtab Bagh](/india/agra/is-taj-mahal-closed-on-friday)."
+   },
+   {
+    "title": "Comment réserver des billets Gatimaan Express",
+    "content": "### Option 1 : le site IRCTC (irctc.co.in), recommandé\nL'**Indian Railway Catering and Tourism Corporation (IRCTC)** est la plateforme officielle. Créez un compte, cherchez le train 12050 (Hazrat Nizamuddin → Agra Cantt), choisissez la date et réservez en classe Chair Car (CC). Paiement par Visa, Mastercard, UPI ou virement.\n\n**Important** : IRCTC accepte désormais les numéros de téléphone étrangers. Avec une carte SIM indienne, l'inscription est instantanée. Sans SIM locale, utilisez le quota touristique ci-dessous.\n\n### Option 2 : l'International Tourist Bureau (ITB)\nLes touristes étrangers qui ne peuvent pas s'inscrire sur IRCTC réservent à l'**International Tourist Bureau**, au premier étage de la **gare de New Delhi** (près du quai 1). Horaires : lundi au vendredi 8h à 20h, samedi 8h à 14h, dimanche et jours fériés 8h à 14h. Devises étrangères et cartes acceptées. Les files sont longues en haute saison : arrivez tôt.\n\n### Option 3 : une agence de voyages agréée\nToute agence agréée de Delhi peut réserver des billets Gatimaan via IRCTC pour une petite commission (50 à 200 ₹). Recommandé si vous réservez plusieurs étapes du Triangle d'or (Delhi → Agra → Jaipur) et voulez tout coordonner.\n\n### Ouverture des réservations\nLes réservations ouvrent **120 jours avant la date de voyage**. En haute saison (octobre à février), le train est vite complet : réservez dès l'ouverture si vos dates sont fixes."
+   },
+   {
+    "title": "La gare Hazrat Nizamuddin : votre point de départ à Delhi",
+    "content": "Le Gatimaan Express part de la **gare Hazrat Nizamuddin (NZM)**, au sud-est de Delhi, et non de la gare de New Delhi (NDLS) qui accueille la majorité des touristes. La différence compte pour l'organisation.\n\n### Rejoindre Hazrat Nizamuddin\n\n**En métro** : ligne **Violette** jusqu'à la station **Hazrat Nizamuddin**, à 5 minutes à pied de la gare. Depuis Connaught Place (centre), comptez environ 25 minutes.\n\n**En Uber ou Ola** : cherchez « Hazrat Nizamuddin Railway Station ». L'application distingue la gare du Dargah (sanctuaire) voisin : confirmez bien la **gare**. Depuis le centre de Delhi, prévoyez 20 à 30 minutes et partez avec de la marge pour le départ de 8h10.\n\n**Prévoyez large** : soyez à Hazrat Nizamuddin vers **7h40** pour le départ de 8h10. Le quai du Gatimaan est annoncé sur les panneaux : cherchez le train 12050.\n\n### La gare d'Agra Cantt : votre arrivée\nLe Gatimaan arrive à **Agra Cantt (Cantonment)**, bien reliée à tous les grands monuments. Autos prépayés et Uber sont disponibles devant la gare. Vers la porte ouest du Taj Mahal, comptez environ 80 à 100 ₹ en auto-rickshaw (10 minutes). Vers le fort d'Agra, environ 60 à 80 ₹ (8 minutes)."
+   },
+   {
+    "title": "Excursion Delhi–Agra : l'itinéraire parfait",
+    "content": "Billet Gatimaan en poche, voici l'**itinéraire optimal Delhi–Agra en une journée** :\n\n**7h40** : arrivée à la gare Hazrat Nizamuddin (30 minutes avant le départ)\n\n**8h10** : départ du Gatimaan Express, petit-déjeuner servi à bord\n\n**9h50** : arrivée à Agra Cantt, auto-rickshaw jusqu'à la porte ouest du Taj Mahal (80 ₹, 10 minutes)\n\n**10h15 à 12h30** : [visite du Taj Mahal](/india/agra/taj-mahal). Comptez 2h30.\n\n**12h45 à 14h15** : [fort d'Agra](/india/agra/agra-fort), à 10 minutes du Taj. Deuxième site UNESCO d'Agra, 1h30 minimum.\n\n**14h15 à 15h15** : déjeuner à Agra. Recommandé : Peshawri à l'ITC Mughal ou les restaurants locaux près de Sadar Bazaar.\n\n**15h15 à 16h45** : en option, [Itimad-ud-Daula (Baby Taj)](/india/agra) ou [Mehtab Bagh](/india/agra/is-taj-mahal-closed-on-friday) pour la vue sur le Taj depuis le fleuve.\n\n**17h05** : départ pour la gare d'Agra Cantt.\n\n**17h35** : départ du Gatimaan Express de retour.\n\n**19h30** : retour à Hazrat Nizamuddin, Delhi. Soirée libre pour le dîner.\n\n**Astuce** : réservez une [excursion privée à Agra](/india/agra) avec voiture dédiée depuis Agra Cantt et guide agréé toute la journée. Plus aucune logistique et un maximum de temps aux monuments."
+   },
+   {
+    "title": "Réserver une excursion Delhi–Agra avec guide privé",
+    "content": "Le Gatimaan Express vous amène à Agra en 100 minutes, mais c'est un guide privé qui transforme ces heures à Agra d'une liste de monuments en un vrai récit moghol. Nos guides agréés vous attendent à la gare d'Agra Cantt, gèrent tous les transports, évitent les files aux billetteries et décodent 400 ans d'histoire du Taj Mahal avec la précision de quelqu'un qui l'a raconté mille fois. Formules Delhi–Agra à la journée disponibles."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quel est le prix du billet Gatimaan Express en 2026 ?",
+    "a": "Le billet coûte **755 ₹ pour les adultes** et **395 ₹ pour les enfants (5 à 11 ans)** en classe Chair Car (CC), la seule proposée. Le prix inclut un repas à bord (petit-déjeuner chaud sur le service du matin Delhi → Agra). En haute saison, la tarification dynamique peut porter le tarif à 1 000 ou 1 200 ₹ en réservant tard."
+   },
+   {
+    "q": "Combien de temps dure le trajet Delhi–Agra en Gatimaan Express ?",
+    "a": "Exactement **100 minutes** de la gare Hazrat Nizamuddin (Delhi) à Agra Cantt. Le train roule jusqu'à 160 km/h, ce qui en fait le service le plus rapide entre Delhi et Agra, bien plus que la route (3 à 4 heures) et que la plupart des autres trains."
+   },
+   {
+    "q": "Quels jours circule le Gatimaan Express ?",
+    "a": "**6 jours sur 7, jamais le vendredi**. Le vendredi est aussi le jour de fermeture du Taj Mahal : c'est le jour à éviter absolument. Le service du matin (train 12050) part de Delhi à 8h10 et arrive à Agra à 9h50. Le retour (train 12049) quitte Agra à 17h35 et arrive à Delhi à 19h30."
+   },
+   {
+    "q": "De quelle gare de Delhi part le Gatimaan Express ?",
+    "a": "De la **gare Hazrat Nizamuddin (NZM)**, au sud-est de Delhi, et non de la gare de New Delhi (NDLS). Prenez la ligne Violette du métro jusqu'à Hazrat Nizamuddin, à 5 minutes à pied de la gare. Soyez sur place vers 7h40 pour le départ de 8h10."
+   },
+   {
+    "q": "Comment réserver des billets Gatimaan Express ?",
+    "a": "En ligne sur le **site IRCTC (irctc.co.in)**, train 12050. Les touristes étrangers sans accès IRCTC peuvent réserver à l'**International Tourist Bureau (ITB)** au premier étage de la gare de New Delhi, qui accepte devises étrangères et cartes. Réservez au moins 2 semaines à l'avance en haute saison (octobre à février)."
+   },
+   {
+    "q": "Le Gatimaan Express vaut-il mieux que la voiture entre Delhi et Agra ?",
+    "a": "Oui, nettement. En voiture, la Yamuna Expressway prend **3 à 4 heures** selon le trafic, sans garantie d'horaire. Le Gatimaan prend exactement **100 minutes**, part à l'heure et inclut un repas. Pour une excursion à Agra, c'est la seule option qui offre une journée complète aux monuments et un retour confortable."
+   },
+   {
+    "q": "Le Gatimaan Express circule-t-il le vendredi ?",
+    "a": "Non. Comme le [Taj Mahal est aussi fermé le vendredi](/india/agra/is-taj-mahal-closed-on-friday), le vendredi devient un jour de repos logique. Pour Agra un vendredi, le Shatabdi Express depuis la gare de New Delhi reste disponible et arrive en moins de 2 heures."
+   },
+   {
+    "q": "À quelle gare arrive le Gatimaan Express à Agra ?",
+    "a": "À **Agra Cantt (Cantonment)**, la gare principale d'Agra. De là, la porte ouest du Taj Mahal est à environ 10 minutes en auto-rickshaw (80 à 100 ₹) et le fort d'Agra à 8 minutes (60 à 80 ₹). Uber et Ola sont aussi disponibles."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
