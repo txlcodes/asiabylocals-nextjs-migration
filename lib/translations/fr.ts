@@ -6453,6 +6453,105 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Le **14 janvier** chaque année (Makar Sankranti). Toute la ville fait voler des cerfs-volants depuis les toits, pour un spectacle aérien saisissant. Les échoppes vendent des douceurs au sésame (til). C'est l'une des expériences les plus photogéniques de Jaipur."
    }
   ]
+ },
+ "2-day-jaipur-itinerary": {
+  "title": "Itinéraire de 2 jours à Jaipur : le week-end parfait dans la Ville rose 2026",
+  "description": "Itinéraire de 2 jours à Jaipur 2026 : programme heure par heure avec le fort d'Amber, le Hawa Mahal, le City Palace, le coucher de soleil à Nahargarh, les bazars et la gastronomie.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Durée",
+    "value": "2 journées pleines"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Budget",
+    "value": "3 000 à 5 000 ₹ par personne (hors hôtel)"
+   },
+   {
+    "icon": "Star",
+    "label": "Temps forts",
+    "value": "Fort d'Amber, Hawa Mahal, coucher de soleil à Nahargarh"
+   },
+   {
+    "icon": "Map",
+    "label": "Couverture",
+    "value": "Plus de 12 monuments et expériences"
+   },
+   {
+    "icon": "Info",
+    "label": "Meilleure saison",
+    "value": "D'octobre à mars"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Deux jours à Jaipur : pourquoi cet itinéraire fonctionne",
+    "content": "Deux jours, c'est le **minimum pour rendre justice à Jaipur**, et cet itinéraire couvre chaque expérience essentielle sans donner l'impression de courir. Les deux journées sont structurées géographiquement pour limiter les trajets et maximiser le temps passé dans les monuments, avec des pauses repas dans des restaurants où mangent vraiment les habitants.\n\n**Le jour 1** couvre les sites **au nord et à l'est** : le [fort d'Amber](/india/jaipur/amber-fort) au lever du soleil (avant la foule), l'arrêt photo au Jal Mahal, le [City Palace](/india/jaipur/city-palace-jaipur), le [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur), le [Hawa Mahal](/india/jaipur/hawa-mahal), les bazars de la vieille ville et le [fort de Nahargarh](/india/jaipur/nahargarh-fort) au coucher du soleil.\n\n**Le jour 2** est consacré aux **expériences culturelles et artisanales** : musée Albert Hall, temple Birla, atelier d'impression au tampon ou cours de cuisine, musée Anokhi de l'impression à la main, shopping l'après-midi et soirée au village culturel de Chokhi Dhani.\n\nCet ordre est volontaire : les monuments en extérieur se visitent aux heures fraîches du matin, les expériences en intérieur ou à l'ombre quand la journée se réchauffe.\n\n**Points logistiques clés** :\n- **Billet combiné** : achetez le billet combiné (1 000 ₹ étrangers / 300 ₹ Indiens) au [fort d'Amber](/india/jaipur/amber-fort) le matin du jour 1. Il couvre le fort d'Amber, le [Hawa Mahal](/india/jaipur/hawa-mahal), le [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur), le [fort de Nahargarh](/india/jaipur/nahargarh-fort), le jardin Sisodia Rani et Isarlat, pour une économie nette par rapport aux billets individuels.\n- **Transport** : louez une voiture privée avec chauffeur pour les deux jours (1 500 à 2 500 ₹ par jour). C'est bien plus efficace que les auto-rickshaws pour un programme à étapes multiples.\n- **Guide** : un [guide agréé](/india/jaipur/jaipur-city-highlights-tour-with-amber-fort-hawa-mahal) qui vous accompagne toute la journée transforme la visite en récit. Recommandé au moins pour le jour 1."
+   },
+   {
+    "title": "Jour 1, matin : fort d'Amber, Jal Mahal et City Palace",
+    "content": "### 7h30 : le fort d'Amber au lever du soleil\n\nPartez tôt. Le [fort d'Amber](/india/jaipur/amber-fort) ouvre à 8h00 et la première heure est magique : la lumière dorée du matin inonde les murs couleur de miel, le lac Maota reflète la silhouette du fort et les cours sont presque vides. Dès 10h00, les cars de groupes arrivent et l'expérience change du tout au tout.\n\nComptez **2 à 2h30** pour explorer :\n- **Suraj Pol** (porte du Soleil), l'entrée principale, conçue pour que le soleil du matin éclaire l'arrivée du roi\n- **Diwan-i-Aam** (salle des audiences publiques), la salle à colonnes où le roi recevait les requêtes\n- **Ganesh Pol**, la porte la plus photographiée du Rajasthan, couverte de fresques peintes\n- **Sheesh Mahal** (palais des Miroirs), où des milliers d'éclats de miroirs convexes créent un effet d'étoiles dès qu'on allume une seule flamme (demandez à votre guide de faire la démonstration)\n- **Sukh Niwas**, le palais de plaisance et son ingénieux système de climatisation moghol à canaux d'eau\n- **Zenana** (quartier des femmes), avec des balcons à claustras qui permettaient aux femmes de la cour d'observer sans être vues\n\n**Entrée** : 500 ₹ étrangers / 100 ₹ Indiens (ou billet combiné). Prévoyez 2 à 2h30.\n\n### 10h30 : arrêt photo au Jal Mahal\n\nSur le chemin du retour, arrêtez-vous au [Jal Mahal](/india/jaipur/jal-mahal) (palais d'Eau) sur le lac Man Sagar. On ne peut pas entrer dans le palais (il est entouré d'eau), mais la photo est incontournable : ce palais de cinq étages semble flotter sur le lac, les Aravalli en toile de fond.\n\nComptez **15 à 20 minutes** de photos depuis la promenade du lac.\n\n### 11h00 : le City Palace\n\nLe [City Palace](/india/jaipur/city-palace-jaipur) est un palais vivant : l'actuel maharaja de Jaipur réside toujours dans une partie du complexe, le reste étant ouvert au public sous forme de musée. L'ensemble mêle styles rajput et moghol et abrite quelques-uns des objets les plus remarquables du Rajasthan :\n\n- **Mubarak Mahal**, le palais de réception qui abrite le musée des textiles et des costumes, dont des tenues de mariage royales\n- **Diwan-i-Khas**, avec deux immenses urnes d'argent (reconnues par le Guinness comme les plus grands objets en argent du monde), contenant chacune 4 091 litres, fabriquées pour emporter l'eau du Gange en Angleterre lors du voyage du maharaja Madho Singh II au couronnement d'Édouard VII\n- **Pitam Niwas Chowk**, une cour aux quatre superbes portes peintes représentant les quatre saisons (la Porte du Paon est la plus célèbre)\n- **Chandra Mahal**, le palais de sept étages où vit la famille royale (visible depuis la cour mais non accessible)\n\n**Entrée** : 500 ₹ étrangers / 200 ₹ Indiens (billet distinct du combiné). Prévoyez 1h30 à 2 heures."
+   },
+   {
+    "title": "Jour 1, après-midi : Jantar Mantar, Hawa Mahal, bazars et coucher de soleil à Nahargarh",
+    "content": "### 13h00 : le Jantar Mantar\n\nFranchissez la porte qui relie le City Palace au [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur), l'observatoire astronomique inscrit à l'UNESCO, bâti en 1734 par le maharaja Jai Singh II. Ses 19 instruments massifs en pierre mesurent le temps, suivent les astres et prévoient les éclipses, sans aucune technologie mécanique ou optique.\n\nLe **Samrat Yantra** (plus grand cadran solaire en pierre du monde, 27 mètres) donne l'heure à 2 secondes près. Demandez à votre guide de montrer comment l'ombre se déplace sur l'échelle graduée : vous voyez littéralement le temps passer.\n\n**Entrée** : billet combiné ou 200 ₹ étrangers / 40 ₹ Indiens. Prévoyez 45 à 60 minutes (30 minutes sans guide, mais vous passerez à côté de la science).\n\n### 14h00 : déjeuner au LMB (Laxmi Mishthan Bhandar)\n\nMarchez 5 minutes vers le sud sur Johari Bazaar jusqu'au **LMB**, le restaurant végétarien le plus célèbre de Jaipur, ouvert depuis 1954. Sa salle climatisée et ouvragée sert des thalis rajasthanis (350 à 500 ₹) et il est réputé pour son **ghewar** (dessert rajasthani en nid d'abeille) et son **paneer tikka**.\n\n**Autre option** : si le LMB est plein, essayez **Niros** sur MI Road (15 minutes en rickshaw), le plus ancien restaurant de Jaipur (depuis 1949), connu pour sa cuisine rajasthanie et continentale dans un décor d'époque.\n\n### 15h00 : le Hawa Mahal\n\nRevenez au [Hawa Mahal](/india/jaipur/hawa-mahal), l'emblématique palais des Vents et ses 953 fenêtres en nid d'abeille. La plupart des visiteurs le photographient depuis la rue (c'est l'angle le plus connu), mais **entrez** : les étages supérieurs offrent de superbes vues plongeantes sur Johari Bazaar, à travers les fenêtres mêmes qu'utilisaient les femmes de la cour au XVIIIe siècle pour regarder les fêtes de la rue.\n\n**Entrée** : billet combiné ou 200 ₹ étrangers / 50 ₹ Indiens. Prévoyez 30 à 45 minutes.\n\n### 15h45 : balade dans les bazars de la vieille ville\n\nDepuis le Hawa Mahal, descendez vers le sud à travers les bazars aux murs roses :\n\n- **Johari Bazaar** : négociants en pierres et joailliers kundan. Regardez ou achetez, la qualité est extraordinaire. (Voir notre [guide shopping de Jaipur](/india/jaipur/jaipur-shopping-guide))\n- **Bapu Bazaar** : textiles, imprimés au tampon et bandhani. Le marché le plus coloré de Jaipur.\n- **Nehru Bazaar** : mojaris (chaussures de cuir brodées), le souvenir le plus prisé de Jaipur. 300 à 1 500 ₹ la paire.\n\nComptez **1 heure à 1h30** de flânerie. Gardez les achats sérieux pour le jour 2, quand vous connaîtrez les lieux.\n\n### 17h00 : coucher de soleil au fort de Nahargarh\n\nMontez par la route sinueuse des Aravalli (20 minutes) jusqu'au [fort de Nahargarh](/india/jaipur/nahargarh-fort) pour le **plus beau coucher de soleil du Rajasthan**. Placez-vous sur les remparts ouest vers 17h15 (hiver) ou 17h45 (été).\n\nQuand le soleil descend derrière les Aravalli, toute la Ville rose passe du rose à l'or puis à l'orange. Le palais des douze reines, le Madhavendra Bhawan, mérite une visite en attendant.\n\n**Entrée** : billet combiné ou 200 ₹ étrangers / 50 ₹ Indiens.\n\n### 19h00 : dîner au Padao ou au Handi\n\nLe **restaurant Padao**, au fort de Nahargarh, sert une cuisine rajasthanie avec vue sur la ville illuminée, le cadre le plus atmosphérique de Jaipur (800 à 1 500 ₹ par personne). Si vous préférez dîner en ville, le **restaurant Handi** sur MI Road (près de Panch Batti) sert une légendaire cuisine rajasthanie non végétarienne : le **laal maas** (curry de mouton rouge et ardent) y est emblématique (400 à 800 ₹ par personne)."
+   },
+   {
+    "title": "Jour 2, matin : musée Albert Hall, temple Birla et atelier",
+    "content": "### 8h30 : le musée Albert Hall\n\nCommencez le jour 2 au **musée Albert Hall** (musée central d'État), dans le jardin Ram Nivas. Construit en 1887 dans le style indo-sarrasin, le bâtiment est sans doute plus impressionnant que ses collections, même si les miniatures, les armes, les arts décoratifs et une momie égyptienne valent la visite.\n\nLe musée est entouré de jardins paysagers, parfaits pour une promenade matinale avant que la chaleur ne monte.\n\n**Entrée** : 300 ₹ étrangers / 40 ₹ Indiens. Prévoyez 45 à 60 minutes.\n\n### 10h00 : le Birla Mandir (temple Lakshmi Narayan)\n\nÀ 10 minutes de route vers le sud, le temple Birla en marbre blanc se détache sur la colline de Moti Dungri. Construit en 1988, il est contemporain plutôt qu'ancien, mais son marbre étincelant de Makrana, sa position sur la colline et ses sculptures minutieuses en font l'un des sites les plus photogéniques de Jaipur.\n\n**Entrée** : gratuit. Chaussures à retirer. Prévoyez 20 à 30 minutes.\n\n### 10h45 : atelier d'impression au tampon ou cours de cuisine\n\nC'est le temps fort expérientiel du jour 2, au choix :\n\n**Option A : atelier d'impression au tampon** (3 heures)\nApprenez l'art séculaire de l'impression au tampon rajasthanie dans un atelier traditionnel. Vous gravez votre propre bloc de bois, mélangez des teintures naturelles et imprimez votre tissu, une expérience créative qui vous relie à l'héritage textile de Jaipur. Réservez via un [atelier d'impression au tampon](/india/jaipur/jaipur-block-printing-workshop).\n\n**Option B : cours de cuisine rajasthanie** (3 heures)\nApprenez à préparer des plats rajasthanis authentiques : dal baati churma (le plat emblématique de l'État), gatte ki sabzi, ker sangri (légumes du désert) et chai traditionnel, dans la cuisine d'une maison locale. Réservez via un [cours de cuisine](/india/jaipur/jaipur-same-day-tour-with-cooking-class).\n\nLes deux formules incluent le déjeuner.\n\n### 13h30 : musée Anokhi de l'impression à la main (si le temps le permet)\n\nPour les passionnés de textile, le **musée Anokhi**, installé dans une haveli restaurée à Amber (près du fort), est un petit musée remarquable consacré aux traditions d'impression à la main du Rajasthan. Expositions interactives, démonstrations et petite boutique de qualité muséale.\n\n**Entrée** : 30 ₹. Prévoyez 45 à 60 minutes."
+   },
+   {
+    "title": "Jour 2, après-midi : shopping et soirée à Chokhi Dhani",
+    "content": "### 15h00 : place au shopping\n\nMaintenant que vous avez repéré les bazars le jour 1, revenez dans les boutiques qui vous ont plu pour acheter vraiment. Emmenez votre guide pour la négociation.\n\n**Stratégie selon vos envies** :\n\n- **Pierres et bijoux** : retour à Johari Bazaar. Visitez 2 ou 3 négociants certifiés, comparez et négociez. Un [guide shopping](/india/jaipur/jaipur-shopping-tour) parlant hindi peut obtenir 20 à 30 % de mieux.\n- **Textiles et imprimés au tampon** : Bapu Bazaar pour les tissus traditionnels, Anokhi sur MI Road pour des vêtements contemporains imprimés au tampon (prix fixes, qualité fiable).\n- **Poterie bleue** : direction MI Road ou l'atelier Kripal Kumbh pour de l'authentique poterie bleue de Jaipur.\n- **Chaussures mojari** : Nehru Bazaar, essayez-les soigneusement, les tailles varient.\n- **Souvenirs** : l'emporium d'État Rajasthali sur MI Road propose de l'artisanat à prix fixes si la négociation vous met mal à l'aise.\n\nComptez **2 à 2h30** de shopping.\n\n### 17h30 : pause en terrasse\n\nFaites une pause dans l'un des cafés de toit de Jaipur :\n\n- **Wind View Café** (Hawa Mahal Road) : juste en face du Hawa Mahal, avec une vue dégagée sur la façade rose. Chai et en-cas.\n- **Tapri Central** (MI Road) : maison de thé tendance avec plus de 50 variétés de chai. Très prisée des jeunes actifs de Jaipur.\n- **Bar Palladio** (Narain Niwas Palace) : superbe restaurant italo-indien dans une cour de palais aux murs bleus. Cocktails et petites assiettes.\n\n### 19h00 : le village culturel de Chokhi Dhani\n\nTerminez vos deux jours par une soirée à **Chokhi Dhani**, un village rajasthani reconstitué à 20 km au sud de Jaipur, sur la Tonk Road. Au programme :\n\n- **Accueil rajasthani traditionnel** : cérémonie du tika, colliers de fleurs et musiciens folkloriques à l'entrée\n- **Activités de village** : promenades à dos de chameau, spectacles de marionnettes, acrobaties, magie, danses folkloriques, voyance, tours en barque et jeux traditionnels, répartis dans un vaste complexe\n- **Dîner thali** : un généreux thali rajasthani traditionnel servi sur des assiettes en feuilles, assis au sol : dal baati churma, gatte ki sabzi, papad, plus de 5 currys, rotis, riz et desserts. À volonté.\n- **Spectacles folkloriques** : musique et danses rajasthanies en direct (Kalbelia, Ghoomar) tout au long de la soirée\n\n**Prix** : 1 000 à 1 500 ₹ par personne (entrée, activités et dîner inclus). **Horaires** : 17h00 à 23h00. **Transport** : 30 à 35 minutes en voiture depuis le centre-ville.\n\n**À noter** : Chokhi Dhani est une expérience touristique assumée, un parc culturel plutôt qu'un vrai village. Mais c'est remarquablement bien fait, vraiment amusant et le thali est excellent. C'est la conclusion idéale d'un séjour à Jaipur, surtout en famille."
+   },
+   {
+    "title": "Laissez un guide local organiser vos deux jours",
+    "content": "Nos guides agréés de Jaipur gèrent toute la logistique, le rythme et les accès privilégiés, pour que vous vous concentriez sur l'expérience et non sur l'organisation."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Deux jours suffisent-ils pour Jaipur ?",
+    "a": "**Oui, 2 journées pleines couvrent tous les monuments essentiels, un atelier culturel, le shopping dans les bazars et de belles tables.** Cet itinéraire englobe plus de 12 sites et expériences sans donner l'impression de courir. Pour aller plus loin (safari tigres à Ranthambore, excursion à Pushkar ou plusieurs ateliers), comptez 3 jours."
+   },
+   {
+    "q": "Que faut-il voir en premier à Jaipur ?",
+    "a": "Le **[fort d'Amber](/india/jaipur/amber-fort) dès l'ouverture à 8h00** : la lumière du matin est spectaculaire et vous devancez les cars de touristes. Enchaînez avec le [City Palace](/india/jaipur/city-palace-jaipur), le [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur) et le [Hawa Mahal](/india/jaipur/hawa-mahal) dans la vieille ville."
+   },
+   {
+    "q": "Combien coûtent 2 jours à Jaipur ?",
+    "a": "**Budget** : 3 000 à 5 000 ₹ par personne et par jour (hors hébergement). Cela comprend le billet combiné (1 000 ₹), la voiture privée (1 500 à 2 500 ₹ par jour), les repas (500 à 1 000 ₹ par jour) et quelques entrées. Ajoutez 2 000 à 4 000 ₹ pour un guide agréé."
+   },
+   {
+    "q": "Faut-il un guide à Jaipur ?",
+    "a": "**Vivement recommandé pour le jour 1** : le [fort d'Amber](/india/jaipur/amber-fort), le [City Palace](/india/jaipur/city-palace-jaipur) et le [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur) prennent bien plus de sens avec un commentaire expert. Pour le jour 2, le guide est optionnel, sauf si vous souhaitez de l'aide pour le shopping ou les ateliers."
+   },
+   {
+    "q": "Qu'est-ce que le billet combiné de Jaipur ?",
+    "a": "Un billet unique couvrant 6 monuments : le [fort d'Amber](/india/jaipur/amber-fort), le [Hawa Mahal](/india/jaipur/hawa-mahal), le [Jantar Mantar](/india/jaipur/jantar-mantar-jaipur), le [fort de Nahargarh](/india/jaipur/nahargarh-fort), le jardin Sisodia Rani et Isarlat. **1 000 ₹ étrangers / 300 ₹ Indiens**, valable 2 jours. Il revient moins cher que les billets individuels."
+   },
+   {
+    "q": "Où manger à Jaipur ?",
+    "a": "**LMB** (Johari Bazaar) pour les thalis rajasthanis végétariens. **Handi** (MI Road) pour le laal maas. **Padao** (fort de Nahargarh) pour la vue. **Chokhi Dhani** pour le dîner rajasthani complet. **Tapri Central** pour plus de 50 variétés de chai."
+   },
+   {
+    "q": "Chokhi Dhani vaut-il le détour ?",
+    "a": "**Oui**, surtout en famille et pour une première visite. C'est un parc culturel (pas un vrai village), mais le thali rajasthani, les spectacles folkloriques et les activités sont vraiment plaisants. Comptez 1 000 à 1 500 ₹ par personne, tout compris."
+   },
+   {
+    "q": "Faut-il acheter le billet combiné le jour 1 ?",
+    "a": "**Oui**, achetez-le au guichet du [fort d'Amber](/india/jaipur/amber-fort) dès le matin. Il couvre le jour 1 ([fort d'Amber](/india/jaipur/amber-fort), Jantar Mantar, Hawa Mahal, Nahargarh) et reste valable le jour 2 si vous souhaitez revoir un site."
+   },
+   {
+    "q": "Quel est le meilleur endroit pour le coucher de soleil à Jaipur ?",
+    "a": "Le **[fort de Nahargarh](/india/jaipur/nahargarh-fort)** : ses remparts ouest offrent un panorama à 180 degrés sur la Ville rose. Arrivez 45 minutes avant le coucher pour explorer le fort, puis installez-vous sur les remparts. C'est régulièrement classé comme le plus beau point de vue du Rajasthan."
+   },
+   {
+    "q": "Peut-on combiner Jaipur et Agra ?",
+    "a": "**Oui**, une [excursion Jaipur-Agra](/india/jaipur/jaipur-to-agra-taj-mahal-day-trip) (5 heures de route dans chaque sens) est possible mais longue. Mieux vaut passer une nuit à Agra, ou opter pour un [circuit du Triangle d'Or](/india/delhi/golden-triangle-tour-delhi-agra-jaipur) couvrant Delhi, Agra et Jaipur en 3 à 5 jours."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
