@@ -3257,6 +3257,234 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas"
   ]
+ },
+ "dharavi-slum-tour": {
+  "title": "Visita a Dharavi",
+  "metaTitle": "Dharavi y Dhobi Ghat con guía local en Bombay",
+  "metaDescription": "Recorrido guiado por Dharavi: reciclaje de plástico, talleres textiles y de cuero, y después tren local hasta Dhobi Ghat con un guía de Bombay.",
+  "shortDescription": "Recorra Dharavi con un guía local y descubra sus comunidades vibrantes, sus pequeñas industrias y su inspirador espíritu emprendedor. Vea cómo funcionan los talleres de plástico, textil y cuero mientras conoce la vida cotidiana más allá de los titulares.",
+  "fullDescription": "Descubra otra cara de Bombay en un recorrido guiado por vecinos a través de Dharavi y Dhobi Ghat.\n\nEmpezará explorando Dharavi y sus comunidades vibrantes, conociendo la vida diaria y las prósperas pequeñas industrias del barrio. Verá cómo se recicla el plástico y cómo funcionan los talleres textiles y de cuero, mientras escucha historias de las personas y los emprendedores que se han labrado aquí su vida.\n\nTras Dharavi, viva Bombay como un local tomando un tren urbano hacia Dhobi Ghat. Sentirá la energía de la red ferroviaria de la ciudad viajando junto a los pasajeros habituales.\n\nContinuará hasta Dhobi Ghat, la famosa lavandería al aire libre de Bombay, donde cientos de trabajadores lavan, friegan, secan y planchan ropa con un sistema tradicional único. Su guía le explicará cómo funciona y compartirá la historia de este lugar fascinante.\n\nEsta experiencia combina cultura local, vida de barrio, industrias tradicionales y un auténtico trayecto en tren por Bombay, con un guía local que da vida a la ciudad con sus relatos y su conocimiento directo.",
+  "highlights": [
+   "Descubrir Dharavi más allá de los titulares",
+   "Explorar un próspero núcleo industrial",
+   "Ir más allá de la superficie y entrar en las industrias de Dharavi"
+  ],
+  "included": [
+   "Guía local de habla inglesa",
+   "Recorrido guiado a pie por Dharavi",
+   "Trayecto en tren local de Bombay desde Dharavi hacia Dhobi Ghat"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Cualquier actividad o gasto adicional no mencionado en el itinerario"
+  ]
+ },
+ "mumbai-sightseeing-tour-no-shopping-stops": {
+  "title": "Bombay: visita de la ciudad sin paradas de compras",
+  "metaTitle": "Bombay privado: Puerta de la India, CSMT, Dhobi Ghat, sin compras",
+  "metaDescription": "Visita privada por Bombay con guía profesional: Dhobi Ghat, Puerta de la India, Taj Mahal Palace, CSMT, Mani Bhavan y Hanging Garden. Entradas incluidas y sin paradas de compras.",
+  "shortDescription": "Descubra el Bombay auténtico en una visita privada con guía profesional y conductor experimentado. Recorra sus hitos icónicos: Dhobi Ghat, Puerta de la India, Taj Mahal Palace, Victoria Terminus (CSMT), Oval Maidan, Mani Bhavan y Hanging Garden, con su magnífica arquitectura británica y la transformación de Bombay en la ciudad moderna. Sin compras, sin presiones y a un ritmo cómodo.",
+  "fullDescription": "Descubra lo mejor de Bombay en una visita privada pensada para viajeros que quieren conocer la ciudad con comodidad, sin prisas y sin que les lleven a paradas comerciales. Recorrerá Bombay con un guía profesional y un conductor experimentado, y conocerá la fascinante historia, la arquitectura, la cultura y la vida diaria de la ciudad.\n\nVisitará algunos de los hitos más icónicos: Dhobi Ghat, Puerta de la India, Taj Mahal Palace, Victoria Terminus (CSMT), Oval Maidan, Mani Bhavan y Hanging Garden. Por el camino descubrirá la magnífica arquitectura de la época británica y la historia de cómo Bombay se convirtió en la ciudad moderna de hoy.\n\nEs una visita turística de verdad: sin compras forzadas, sin paradas comerciales y sin prisas innecesarias. Podrá tomarse su tiempo para disfrutar de los lugares, preguntar, fotografiar y entender las historias que hay detrás de la ciudad. La visita también es apta para personas mayores, con un ritmo cómodo y atención cuidadosa.\n\nIncluye entradas y una botella de agua de cortesía. Viajará con un guía independiente y experimentado de Bombay, centrado en ofrecer una experiencia personal e informativa en lugar de recorrer a toda prisa una lista de atracciones.\n\nTanto si es su primera visita a Bombay como si quiere entender la ciudad más allá de sus hitos famosos, esta visita privada ofrece una introducción completa a su historia, su cultura, su arquitectura y su transformación.",
+  "highlights": [
+   "La historia, la cultura y la arquitectura de Bombay con un guía",
+   "Una jornada de visitas bien aprovechada, sin colas innecesarias",
+   "Sin paradas de compras"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en vehículo climatizado",
+   "Todas las tasas y el aparcamiento",
+   "Entradas",
+   "Guía de habla inglesa",
+   "Conductor experimentado",
+   "Botella de agua",
+   "Apto para personas mayores",
+   "Sesión de fotos",
+   "Paciencia"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "gateway-of-india-sightseeing-private-tour": {
+  "title": "Bombay: visita privada de la ciudad y de Dharavi",
+  "metaTitle": "Bombay privado: hitos icónicos y recorrido a pie por Dharavi",
+  "metaDescription": "Jornada privada en Bombay con guía de habla inglesa y conductor: hitos icónicos, arquitectura colonial, paseos marítimos y recorrido a pie por Dharavi.",
+  "shortDescription": "Jornada privada completa acompañado de un guía experto de habla inglesa y un chófer profesional. Descubra las muchas caras de Bombay recorriendo sus hitos icónicos, su arquitectura colonial y sus vibrantes paseos marítimos, con una visita a pie por Dharavi.",
+  "fullDescription": "Acompáñenos en una jornada privada envolvente con un guía experto de habla inglesa y un chófer profesional. Descubra las muchas caras de Bombay recorriendo sus hitos icónicos, su arquitectura colonial y sus vibrantes paseos marítimos, y comprenda al mismo tiempo la vida diaria de sus comunidades dinámicas.\n\nDesde monumentos de fama mundial y barrios históricos hasta las prósperas pequeñas industrias de los barrios populares, esta experiencia ofrece una mirada equilibrada y respetuosa sobre la ciudad. Verá el espíritu emprendedor, la resiliencia y la capacidad de innovación que mueven Bombay entre bastidores, en una visita reveladora e inolvidable.",
+  "highlights": [
+   "Recorrido por los hitos icónicos de Bombay",
+   "Paseo guiado a pie por Dharavi",
+   "Traslados privados cómodos, con guía"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, visitas en coche climatizado",
+   "Entradas",
+   "Guía local de habla inglesa",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "gateway-of-india-private-tour": {
+  "title": "Bombay: visita privada con las cuevas de Elefanta y lo mejor de la ciudad",
+  "metaTitle": "Bombay y cuevas de Elefanta: visita privada con guía y ferri",
+  "metaDescription": "Visita privada por Bombay y las cuevas de Elefanta, Patrimonio de la UNESCO: templos rupestres, estatua Trimurti, ferri, guía de habla inglesa y traslados de hotel.",
+  "shortDescription": "Descubra los hitos icónicos de Bombay antes de viajar a las legendarias cuevas de Elefanta, Patrimonio de la Humanidad. Admire su notable arquitectura excavada en la roca y sumérjase en la cultura india antigua mientras su guía comparte historias apasionantes y detalles poco conocidos.",
+  "fullDescription": "Empezará recorriendo los hitos icónicos de Bombay, sus calles bulliciosas y su arquitectura de época colonial, para conocer la rica historia y la cultura moderna de la ciudad. Después tomará un ferri panorámico por el mar Arábigo hasta la isla Elefanta, donde retrocederá en el tiempo entre notables templos rupestres excavados entre los siglos V y VIII.\n\nAdmire las minuciosas esculturas dedicadas al dios Shiva, incluida la magnífica estatua Trimurti, una obra maestra del arte indio antiguo. Mientras recorre las cuevas, su guía compartirá relatos fascinantes, contexto histórico y el significado cultural de los relieves y la arquitectura. Esta visita combina a la perfección turismo, historia, espiritualidad y vida local, para una exploración inolvidable del patrimonio de Bombay.",
+  "highlights": [
+   "Bombay y el sitio UNESCO de las cuevas de Elefanta",
+   "Visitas en coche privado con guía turístico",
+   "Recogida y regreso al hotel en Bombay, con visita guiada"
+  ],
+  "included": [
+   "Coche privado climatizado con conductor de habla inglesa",
+   "Guía de habla inglesa",
+   "Billetes de ferri",
+   "Entrada a las cuevas de Elefanta",
+   "Tren turístico en la isla Elefanta",
+   "Acceso preferente en las cuevas de Elefanta",
+   "Agua embotellada al llegar a la isla",
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "same-day-taj-mahal-tour-from-mumbai-by-flight": {
+  "title": "Taj Mahal desde Bombay en un día con vuelo",
+  "metaTitle": "Taj Mahal desde Bombay en un día: vuelo, guía y Fuerte de Agra",
+  "metaDescription": "Excursión de un día desde Bombay al Taj Mahal con vuelos de ida y vuelta, coche privado Delhi-Agra, guía local, entradas y comida incluidas.",
+  "shortDescription": "Descubra la belleza del célebre Taj Mahal en un solo día con esta excursión bien planificada de Bombay a Agra. Perfecta para ver una de las siete maravillas del mundo sin pernoctar: vuelo de Bombay a Delhi y después coche privado hasta Agra para recorrer el Taj Mahal y otros grandes monumentos mogoles.",
+  "fullDescription": "La excursión de un día al Taj Mahal desde Bombay es ideal para descubrir el monumento más icónico de la India en una sola jornada. Este recorrido bien planificado le lleva de la bulliciosa Bombay a la histórica ciudad de Agra, hogar del célebre Taj Mahal. Considerado una de las siete maravillas del mundo, es un impresionante mausoleo de mármol blanco levantado por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal.\n\nEl viaje comienza a primera hora con un vuelo desde el aeropuerto internacional Chhatrapati Shivaji Maharaj de Bombay al aeropuerto internacional Indira Gandhi de Delhi. A la llegada, viajará cómodamente en coche privado hasta Agra por la moderna autopista Yamuna, en un trayecto fluido y agradable. Ya en Agra, un guía profesional le acompañará a recorrer el magnífico Taj Mahal, con su arquitectura impresionante, sus delicadas incrustaciones de mármol y sus hermosos jardines.\n\nLa visita incluye también el histórico Fuerte de Agra, Patrimonio de la Humanidad que fue la residencia principal de los emperadores mogoles. Tras las visitas, disfrutará de una comida en un restaurante local de Agra antes de regresar a Delhi para tomar su vuelo de la tarde a Bombay. Esta jornada combina comodidad, historia y recuerdos inolvidables: la opción ideal cuando el tiempo es limitado.",
+  "highlights": [
+   "El magnífico Taj Mahal, Patrimonio de la Humanidad",
+   "El histórico Fuerte de Agra",
+   "Transporte privado cómodo de Delhi a Agra por la autopista Yamuna",
+   "Guía local profesional",
+   "Regreso a Bombay el mismo día"
+  ],
+  "included": [
+   "Billete de avión de ida y vuelta",
+   "Vehículo privado climatizado para el trayecto a Agra",
+   "Guía local profesional",
+   "Comida",
+   "Entradas a los monumentos (Taj Mahal, Fuerte de Agra)",
+   "Todos los peajes, aparcamientos y dietas del conductor"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "same-day-taj-mahal-tour-from-mumbai": {
+  "title": "Taj Mahal desde Bombay en un día",
+  "metaTitle": "Taj Mahal desde Bombay en un día: vuelos, guía y entradas",
+  "metaDescription": "Un día en el Taj Mahal desde Bombay: vuelos de ida y vuelta, traslados de aeropuerto, coche privado Delhi-Agra-Delhi, guía en Agra, entradas y comida.",
+  "shortDescription": "Descubra la belleza del célebre Taj Mahal en un solo día con esta excursión bien planificada de Bombay a Agra. Perfecta para ver una de las siete maravillas del mundo sin pernoctar: vuelo de Bombay a Delhi y después coche privado hasta Agra para recorrer el Taj Mahal y otros grandes monumentos mogoles.",
+  "fullDescription": "La excursión de un día al Taj Mahal desde Bombay es ideal para descubrir el monumento más icónico de la India en una sola jornada. Este recorrido bien planificado le lleva de la bulliciosa Bombay a la histórica ciudad de Agra, hogar del célebre Taj Mahal. Considerado una de las siete maravillas del mundo, es un impresionante mausoleo de mármol blanco levantado por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal.\n\nEl viaje comienza a primera hora con un vuelo desde el aeropuerto internacional Chhatrapati Shivaji Maharaj de Bombay al aeropuerto internacional Indira Gandhi de Delhi. A la llegada, viajará cómodamente en coche privado hasta Agra por la moderna autopista Yamuna, en un trayecto fluido y agradable. Ya en Agra, un guía profesional le acompañará a recorrer el magnífico Taj Mahal, con su arquitectura impresionante, sus delicadas incrustaciones de mármol y sus hermosos jardines.\n\nLa visita incluye también el histórico Fuerte de Agra, Patrimonio de la Humanidad que fue la residencia principal de los emperadores mogoles. Tras las visitas, disfrutará de una comida en un restaurante local de Agra antes de regresar a Delhi para tomar su vuelo de la tarde a Bombay. Esta jornada combina comodidad, historia y recuerdos inolvidables: la opción ideal cuando el tiempo es limitado.",
+  "highlights": [
+   "El magnífico Taj Mahal, Patrimonio de la Humanidad",
+   "El histórico Fuerte de Agra",
+   "Transporte privado cómodo de Delhi a Agra por la autopista Yamuna",
+   "Guía local profesional",
+   "Regreso a Bombay el mismo día"
+  ],
+  "included": [
+   "Billetes de avión de ida y vuelta",
+   "Traslados de aeropuerto",
+   "Coche privado climatizado para el trayecto Delhi-Agra-Delhi",
+   "Guía profesional en Agra",
+   "Entradas a los monumentos",
+   "Comida en un restaurante local",
+   "Todos los aparcamientos e impuestos"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "overnight-taj-mahal-tour-from-mumbai": {
+  "title": "Taj Mahal desde Bombay con noche incluida",
+  "metaTitle": "Taj Mahal desde Bombay en 2 días: amanecer y noche en Agra",
+  "metaDescription": "Excursión de 2 días al Taj Mahal desde Bombay: vuelos, coche privado, Fuerte de Agra, Taj Mahal al amanecer, noche de hotel y desayuno incluidos.",
+  "shortDescription": "La excursión de dos días al Taj Mahal desde Bombay es ideal para descubrir Agra sin prisas. Visitará el célebre Taj Mahal, una de las siete maravillas del mundo y Patrimonio de la Humanidad, y la noche en la ciudad da tiempo a explorar su rico legado mogol.",
+  "fullDescription": "La excursión de dos días al Taj Mahal desde Bombay es perfecta para descubrir la belleza histórica de Agra a un ritmo relajado. Le permite visitar el célebre Taj Mahal, una de las siete maravillas del mundo y Patrimonio de la Humanidad. Construido por el emperador mogol Shah Jahan en memoria de su esposa Mumtaz Mahal, se admira en todo el mundo por su arquitectura de mármol blanco, sus hermosos jardines y su historia de amor atemporal.\n\nEl viaje comienza con un vuelo desde el aeropuerto internacional Chhatrapati Shivaji Maharaj de Bombay a Delhi. Tras llegar al aeropuerto internacional Indira Gandhi, viajará cómodamente en coche privado hasta Agra por la moderna autopista Yamuna. El primer día visitará el magnífico Fuerte de Agra, una histórica fortaleza mogol con impresionantes vistas del Taj Mahal al otro lado del río Yamuna.\n\nLa noche en Agra le permite conocer la ciudad con calma y prepararse para el momento culminante de la mañana siguiente. El segundo día visitará el Taj Mahal al amanecer, cuando la suave luz dorada se refleja maravillosamente sobre el mármol blanco. Tras la visita y las explicaciones de su guía, regresará a Delhi para tomar el vuelo de vuelta a Bombay. Una forma cómoda y memorable de conocer uno de los monumentos más icónicos de la India.",
+  "highlights": [
+   "El icónico Taj Mahal, símbolo de amor eterno",
+   "El majestuoso Fuerte de Agra",
+   "Visita opcional al precioso Mehtab Bagh para ver el atardecer",
+   "Trayecto cómodo de Delhi a Agra por la autopista Yamuna",
+   "Noche en un hotel confortable de Agra"
+  ],
+  "included": [
+   "Billetes de avión de ida y vuelta",
+   "Traslados de aeropuerto",
+   "Vehículo privado climatizado para el trayecto Delhi-Agra-Delhi",
+   "Guía local profesional en Agra",
+   "1 noche de hotel en Agra",
+   "Desayuno en el hotel",
+   "Entradas a los monumentos",
+   "Todos los peajes, aparcamientos y dietas del conductor"
+  ],
+  "notIncluded": [
+   "Gastos personales (compras, bebidas, etc.)",
+   "Comida y cena salvo indicación contraria",
+   "Tasas de cámara o vídeo en los monumentos",
+   "Propinas para el conductor y el guía",
+   "Cualquier servicio no mencionado en las inclusiones"
+  ]
+ },
+ "taj-mahal-overnight-tour-from-mumbai-by-flight": {
+  "title": "Taj Mahal desde Bombay en avión con noche incluida",
+  "metaTitle": "Taj Mahal desde Bombay: vuelo, hotel 5 estrellas y Mehtab Bagh",
+  "metaDescription": "Excursión premium de 2 días al Taj Mahal desde Bombay: vuelos, hotel de 5 estrellas en Agra, Taj Mahal, Fuerte de Agra y Mehtab Bagh con guía autorizado.",
+  "shortDescription": "Descubra el icónico Taj Mahal en esta excursión con noche incluida desde Bombay. Vuele a Delhi, traslado a Agra y recorra el majestuoso Taj Mahal, el Fuerte de Agra y el Mehtab Bagh. Vistas al amanecer y al atardecer, visitas guiadas, traslados cómodos y 1 noche en Agra antes de volver a Bombay en avión.",
+  "fullDescription": "Viva el Taj Mahal al amanecer desde Bombay en este viaje premium con noche incluida. Volará de Bombay a Delhi y se trasladará a Agra para una visita guiada al atardecer del Taj Mahal, el Fuerte de Agra y el Mehtab Bagh.\n\nEste paquete con todo incluido comprende una noche de hotel, un guía experto y traslados sin complicaciones. Verá la célebre maravilla de mármol con la mejor luz de la mañana, conocerá el legado mogol de la India y disfrutará de un cómodo vuelo de regreso.\n\nReserve esta excursión a Agra desde Bombay para una experiencia memorable, ágil y de alto nivel.",
+  "highlights": [
+   "Vuelo de ida y vuelta Bombay-Delhi",
+   "Jornada completa de visitas en Agra, con el Taj Mahal y el Fuerte de Agra",
+   "Visita opcional al Mehtab Bagh para ver el Taj Mahal al atardecer",
+   "Traslados cómodos y visita guiada"
+  ],
+  "included": [
+   "Billetes de avión de ida y vuelta Bombay-Delhi",
+   "Traslados del aeropuerto de Delhi a Agra y regreso",
+   "1 noche en hotel de 5 estrellas en Agra",
+   "Desayuno en el hotel",
+   "Coche o autocar privado para las visitas en Agra",
+   "Guía profesional autorizado por el gobierno en los monumentos"
+  ],
+  "notIncluded": [
+   "Entradas al Taj Mahal, el Fuerte de Agra y el Mehtab Bagh",
+   "Comida y cena",
+   "Gastos personales y propinas",
+   "Visitas o actividades opcionales no mencionadas"
+  ]
+ },
+ "3-day-taj-mahal-jaipur-luxury-tour-from-mumbai-by-flight": {
+  "title": "Desde Bombay: Taj Mahal y Jaipur en 3 días de lujo, con vuelos",
+  "metaTitle": "Triángulo de Oro de lujo desde Bombay en 3 días: Agra y Jaipur",
+  "metaDescription": "Circuito de lujo de 3 días desde Bombay con vuelos: Taj Mahal, Fuerte de Agra, Mehtab Bagh, Fuerte Amber, City Palace, Hawa Mahal y Jantar Mantar.",
+  "shortDescription": "Descubra los hitos icónicos de la India en este circuito de lujo de 3 días desde Bombay. Vuele a Delhi y recorra Agra con el Taj Mahal, el Fuerte de Agra y el Mehtab Bagh, y después Jaipur con el Fuerte Amber, el City Palace, el Hawa Mahal y el Jantar Mantar. Visitas guiadas, alojamientos de lujo y traslados sin complicaciones.",
+  "fullDescription": "Embárquese en un circuito de lujo de 3 días por el Triángulo de Oro desde Bombay, con vuelos incluidos. Volará a Delhi y disfrutará de un traslado privado a Agra para la espectacular visita al Taj Mahal al amanecer. Conocerá el Fuerte de Agra y el Mehtab Bagh antes de poner rumbo a la Ciudad Rosa, Jaipur.\n\nAllí recorrerá con un guía experto el esplendor del Fuerte Amber, el Hawa Mahal y el City Palace. Este paquete con todo incluido comprende estancia en hotel de 5 estrellas, coche privado climatizado y traslados de aeropuerto sencillos.\n\nDescubra el célebre legado mogol y rajput de la India en un viaje premium y ágil desde Bombay.",
+  "highlights": [
+   "Vuelos de ida y vuelta Bombay-Delhi",
+   "Visitas guiadas en Agra y Jaipur",
+   "Taj Mahal, Fuerte de Agra y Mehtab Bagh",
+   "Alojamiento de lujo y traslados privados"
+  ],
+  "included": [
+   "Billetes de avión de ida y vuelta Bombay-Delhi",
+   "Traslados privados y coche de categoría para las visitas en Agra y Jaipur",
+   "2 noches de hotel de lujo (Agra y Jaipur)",
+   "Desayuno en el hotel",
+   "Guía profesional autorizado por el gobierno en todas las grandes atracciones"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comida y cena"
+  ]
  }
 };
 export const ES_PAGES: Record<string, PageT> = {

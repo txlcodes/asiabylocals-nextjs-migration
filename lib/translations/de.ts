@@ -3257,6 +3257,234 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Eintrittskarten"
   ]
+ },
+ "dharavi-slum-tour": {
+  "title": "Dharavi-Tour",
+  "metaTitle": "Dharavi und Dhobi Ghat mit lokalem Guide in Mumbai",
+  "metaDescription": "Geführter Rundgang durch Dharavi: Plastikrecycling, Textil- und Lederwerkstätten, dann mit dem Nahverkehrszug zum Dhobi Ghat, mit einem Guide aus Mumbai.",
+  "shortDescription": "Erkunden Sie Dharavi mit einem lokalen Guide und entdecken Sie die lebendigen Gemeinschaften, kleinen Industrien und den beeindruckenden Unternehmergeist. Sehen Sie, wie Plastik-, Textil- und Lederbetriebe arbeiten, und erfahren Sie mehr über den Alltag jenseits der Schlagzeilen.",
+  "fullDescription": "Entdecken Sie eine andere Seite Mumbais auf einem von Einheimischen geführten Weg durch Dharavi und das Dhobi Ghat.\n\nZunächst erkunden Sie Dharavi und seine lebendigen Gemeinschaften, erfahren vom Alltag und von den florierenden Kleinindustrien des Viertels. Sie sehen, wie Plastik recycelt wird und wie Textil- und Lederbetriebe arbeiten, und hören Geschichten von den Menschen und Unternehmern, die sich hier ihre Existenz aufgebaut haben.\n\nNach Dharavi erleben Sie Mumbai wie ein Einheimischer und fahren mit dem Nahverkehrszug Richtung Dhobi Ghat. Sie spüren die Energie des Bahnnetzes, während Sie neben Pendlerinnen und Pendlern reisen.\n\nWeiter geht es zum Dhobi Ghat, Mumbais berühmter Freiluftwäscherei, wo Hunderte Menschen Kleidung in einem einzigartigen traditionellen System waschen, schrubben, trocknen und bügeln. Ihr Guide erklärt, wie der Betrieb funktioniert, und erzählt die Geschichte dieses faszinierenden Ortes.\n\nDieses Erlebnis verbindet lokale Kultur, Nachbarschaftsleben, traditionelle Industrien und eine echte Zugfahrt in Mumbai, mit einem lokalen Guide, der die Stadt durch Geschichten und eigenes Wissen lebendig macht.",
+  "highlights": [
+   "Dharavi jenseits der Schlagzeilen entdecken",
+   "Ein florierendes Industriezentrum erkunden",
+   "Hinter die Oberfläche blicken und in Dharavis Industrien hineingehen"
+  ],
+  "included": [
+   "Lokaler englischsprachiger Guide",
+   "Geführter Rundgang durch Dharavi",
+   "Fahrt mit dem Nahverkehrszug von Dharavi Richtung Dhobi Ghat"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Weitere Aktivitäten oder Ausgaben, die nicht im Programm genannt sind"
+  ]
+ },
+ "mumbai-sightseeing-tour-no-shopping-stops": {
+  "title": "Mumbai: Stadtbesichtigung ohne Shoppingstopps",
+  "metaTitle": "Mumbai privat: Gateway of India, CSMT, Dhobi Ghat, ohne Shopping",
+  "metaDescription": "Private Stadttour durch Mumbai mit professionellem Guide: Dhobi Ghat, Gateway of India, Taj Mahal Palace, CSMT, Mani Bhavan und Hanging Garden. Eintritte inklusive, ohne Shoppingstopps.",
+  "shortDescription": "Entdecken Sie das echte Mumbai auf einer privaten Stadttour mit professionellem Guide und erfahrenem Fahrer. Erkunden Sie die ikonischen Wahrzeichen: Dhobi Ghat, Gateway of India, Taj Mahal Palace, Victoria Terminus (CSMT), Oval Maidan, Mani Bhavan und Hanging Garden, dazu die großartige britische Architektur und den Wandel von Bombay zum modernen Mumbai. Ohne Shopping, ohne Druck, in angenehmem Tempo.",
+  "fullDescription": "Entdecken Sie das Beste von Mumbai auf einer privaten Stadttour für Reisende, die die Stadt bequem erleben möchten, ohne Hetze und ohne zu Verkaufsstopps gebracht zu werden. Sie erkunden Mumbai mit einem professionellen Guide und einem erfahrenen Fahrer und erfahren viel über Geschichte, Architektur, Kultur und Alltag der Stadt.\n\nSie besuchen einige der ikonischsten Wahrzeichen: Dhobi Ghat, Gateway of India, Taj Mahal Palace, Victoria Terminus (CSMT), Oval Maidan, Mani Bhavan und Hanging Garden. Unterwegs entdecken Sie die prachtvolle Architektur der britischen Zeit und hören, wie aus Bombay das moderne Mumbai wurde.\n\nDas ist echte Besichtigung: kein erzwungener Einkauf, keine Shoppingstopps, keine unnötige Eile. Sie nehmen sich Zeit für die Orte, stellen Fragen, fotografieren und verstehen die Geschichten hinter der Stadt. Die Tour eignet sich auch für Seniorinnen und Senioren, mit angenehmem Tempo und aufmerksamer Begleitung.\n\nEnthalten sind Eintrittskarten und eine kostenlose Wasserflasche. Sie reisen mit einem unabhängigen, erfahrenen Guide aus Mumbai, dem ein persönliches und informatives Erlebnis wichtiger ist als das Abhaken einer Sehenswürdigkeitenliste.\n\nOb es Ihr erster Besuch ist oder Sie die Stadt jenseits der berühmten Wahrzeichen verstehen möchten: Diese private Tour bietet eine vollständige Einführung in Geschichte, Kultur, Architektur und Wandel Mumbais.",
+  "highlights": [
+   "Mumbais Geschichte, Kultur und Architektur mit einem Guide",
+   "Ein gut geplanter Besichtigungstag ohne unnötiges Anstehen",
+   "Keine Shoppingstopps"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Fahrzeug",
+   "Alle Gebühren und Parkgebühren",
+   "Eintritte",
+   "Englischsprachiger Guide",
+   "Erfahrener Fahrer",
+   "Wasserflasche",
+   "Seniorenfreundlich",
+   "Fotoshooting",
+   "Geduld"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "gateway-of-india-sightseeing-private-tour": {
+  "title": "Mumbai: private Stadtbesichtigung und Dharavi-Tour",
+  "metaTitle": "Mumbai privat: ikonische Wahrzeichen und Rundgang durch Dharavi",
+  "metaDescription": "Privater Tag in Mumbai mit englischsprachigem Guide und Fahrer: ikonische Wahrzeichen, Kolonialarchitektur, Uferpromenaden und ein Rundgang durch Dharavi.",
+  "shortDescription": "Ganztägige private Tour mit kundigem englischsprachigem Guide und professionellem Chauffeur. Entdecken Sie die vielen Gesichter Mumbais, seine ikonischen Wahrzeichen, die Kolonialarchitektur und die lebendigen Uferpromenaden, dazu ein Rundgang durch Dharavi.",
+  "fullDescription": "Begleiten Sie uns auf einer eindrucksvollen ganztägigen Privattour mit kundigem englischsprachigem Guide und professionellem Chauffeur. Entdecken Sie die vielen Gesichter Mumbais: ikonische Wahrzeichen, Kolonialarchitektur und lebendige Uferpromenaden, und gewinnen Sie zugleich Einblick in den Alltag der dynamischen Gemeinschaften der Stadt.\n\nVon weltberühmten Monumenten und historischen Vierteln bis zu den florierenden Kleinindustrien der Armenviertel bietet dieses Erlebnis einen ausgewogenen und respektvollen Blick auf die Stadt. Sie erleben Unternehmergeist, Widerstandskraft und Erfindungsreichtum, die Mumbai hinter den Kulissen antreiben, für eine ebenso augenöffnende wie unvergessliche Tour.",
+  "highlights": [
+   "Erkundung der ikonischen Wahrzeichen Mumbais",
+   "Geführter Rundgang durch Dharavi",
+   "Bequeme private Transfers, mit Guide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel, Besichtigung im klimatisierten Wagen",
+   "Eintritte",
+   "Lokaler englischsprachiger Guide",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "gateway-of-india-private-tour": {
+  "title": "Mumbai: private Tour mit den Elephanta-Höhlen und den Höhepunkten der Stadt",
+  "metaTitle": "Mumbai und Elephanta-Höhlen: private Tour mit Guide und Fähre",
+  "metaDescription": "Private Tour durch Mumbai und zu den Elephanta-Höhlen, UNESCO-Welterbe: Felsentempel, Trimurti-Statue, Fähre, englischsprachiger Guide und Hoteltransfers.",
+  "shortDescription": "Erleben Sie Mumbais ikonische Wahrzeichen, bevor es zu den legendären Elephanta-Höhlen geht, einem UNESCO-Welterbe. Bewundern Sie die bemerkenswerte Felsarchitektur und tauchen Sie in die alte indische Kultur ein, während Ihr kundiger Guide fesselnde Geschichten und verborgene Details erzählt.",
+  "fullDescription": "Sie beginnen mit Mumbais ikonischen Wahrzeichen, belebten Straßen und der Architektur der Kolonialzeit und gewinnen Einblick in die reiche Geschichte und die moderne Kultur der Stadt. Danach bringt Sie eine landschaftlich reizvolle Fährfahrt über das Arabische Meer zur Insel Elephanta, wo Sie zwischen bemerkenswerten Felsentempeln aus dem 5. bis 8. Jahrhundert in die Vergangenheit eintauchen.\n\nBestaunen Sie die feinen Skulpturen zu Ehren des Gottes Shiva, darunter die prachtvolle Trimurti-Statue, ein Meisterwerk der alten indischen Kunst. Beim Gang durch die Höhlen erzählt Ihr Guide faszinierende Geschichten, ordnet historisch ein und erklärt die kulturelle Bedeutung der Schnitzereien und der Architektur. Diese Tour verbindet Besichtigung, Geschichte, Spiritualität und lokales Erleben zu einer unvergesslichen Entdeckung von Mumbais Erbe.",
+  "highlights": [
+   "Mumbai und das UNESCO-Welterbe der Elephanta-Höhlen",
+   "Besichtigung im privaten Wagen mit Guide",
+   "Abholung und Rückfahrt zum Hotel in Mumbai, geführte Tour"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer",
+   "Englischsprachiger Guide",
+   "Fährtickets",
+   "Eintritt zu den Elephanta-Höhlen",
+   "Kleinbahn auf der Insel Elephanta",
+   "Bevorzugter Einlass an den Elephanta-Höhlen",
+   "Wasser in Flaschen bei Ankunft auf der Insel",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "same-day-taj-mahal-tour-from-mumbai-by-flight": {
+  "title": "Taj Mahal ab Mumbai an einem Tag mit Flug",
+  "metaTitle": "Taj Mahal ab Mumbai an einem Tag: Flug, Guide und Agra Fort",
+  "metaDescription": "Tagesausflug von Mumbai zum Taj Mahal mit Hin- und Rückflug, privatem Wagen Delhi nach Agra, lokalem Guide, Eintritten und Mittagessen.",
+  "shortDescription": "Erleben Sie die Schönheit des weltberühmten Taj Mahal an einem einzigen Tag auf dieser gut geplanten Tour von Mumbai nach Agra. Ideal, um eines der sieben Weltwunder ohne Übernachtung zu sehen: Flug von Mumbai nach Delhi, dann im privaten Wagen nach Agra zum Taj Mahal und zu weiteren Mogul-Monumenten.",
+  "fullDescription": "Der Tagesausflug zum Taj Mahal ab Mumbai ist ideal, um Indiens ikonischstes Monument an einem Tag zu erleben. Diese gut geplante Tour bringt Sie von der geschäftigen Metropole Mumbai in die historische Stadt Agra, Heimat des weltberühmten Taj Mahal. Als eines der sieben Weltwunder gilt das Mausoleum aus weißem Marmor, das Mogulkaiser Shah Jahan zum Andenken an seine geliebte Frau Mumtaz Mahal errichten ließ.\n\nDie Reise beginnt früh am Morgen mit einem Flug vom Chhatrapati Shivaji Maharaj International Airport in Mumbai zum Indira Gandhi International Airport in Delhi. Nach der Ankunft fahren Sie bequem im privaten Wagen über den modernen Yamuna Expressway nach Agra. Dort begleitet Sie ein professioneller Guide zum prachtvollen Taj Mahal, wo Sie die beeindruckende Architektur, die feinen Marmorarbeiten und die schönen Gärten bewundern.\n\nZur Tour gehört auch das historische Agra Fort, ein UNESCO-Welterbe, das einst Hauptresidenz der Mogulkaiser war. Nach den Besichtigungen genießen Sie ein Mittagessen in einem lokalen Restaurant in Agra, bevor es zurück nach Delhi zum Abendflug nach Mumbai geht. Dieser eine Tag verbindet Komfort, Geschichte und unvergessliche Erinnerungen, ideal bei knapper Zeit.",
+  "highlights": [
+   "Das prachtvolle Taj Mahal, UNESCO-Welterbe",
+   "Das historische Agra Fort",
+   "Bequemer privater Transport von Delhi nach Agra über den Yamuna Expressway",
+   "Professioneller lokaler Guide",
+   "Rückkehr nach Mumbai am selben Tag"
+  ],
+  "included": [
+   "Hin- und Rückflugticket",
+   "Privates klimatisiertes Fahrzeug für die Fahrt nach Agra",
+   "Professioneller lokaler Guide",
+   "Mittagessen",
+   "Eintrittskarten für die Monumente (Taj Mahal, Agra Fort)",
+   "Alle Maut-, Park- und Fahrergebühren"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "same-day-taj-mahal-tour-from-mumbai": {
+  "title": "Taj Mahal ab Mumbai an einem Tag",
+  "metaTitle": "Taj Mahal ab Mumbai an einem Tag: Flüge, Guide und Eintritte",
+  "metaDescription": "Ein Tag am Taj Mahal ab Mumbai: Hin- und Rückflüge, Flughafentransfers, privater Wagen Delhi, Agra und zurück, Guide in Agra, Eintritte und Mittagessen.",
+  "shortDescription": "Erleben Sie die Schönheit des weltberühmten Taj Mahal an einem einzigen Tag auf dieser gut geplanten Tour von Mumbai nach Agra. Ideal, um eines der sieben Weltwunder ohne Übernachtung zu sehen: Flug von Mumbai nach Delhi, dann im privaten Wagen nach Agra zum Taj Mahal und zu weiteren Mogul-Monumenten.",
+  "fullDescription": "Der Tagesausflug zum Taj Mahal ab Mumbai ist ideal, um Indiens ikonischstes Monument an einem Tag zu erleben. Diese gut geplante Tour bringt Sie von der geschäftigen Metropole Mumbai in die historische Stadt Agra, Heimat des weltberühmten Taj Mahal. Als eines der sieben Weltwunder gilt das Mausoleum aus weißem Marmor, das Mogulkaiser Shah Jahan zum Andenken an seine geliebte Frau Mumtaz Mahal errichten ließ.\n\nDie Reise beginnt früh am Morgen mit einem Flug vom Chhatrapati Shivaji Maharaj International Airport in Mumbai zum Indira Gandhi International Airport in Delhi. Nach der Ankunft fahren Sie bequem im privaten Wagen über den modernen Yamuna Expressway nach Agra. Dort begleitet Sie ein professioneller Guide zum prachtvollen Taj Mahal, wo Sie die beeindruckende Architektur, die feinen Marmorarbeiten und die schönen Gärten bewundern.\n\nZur Tour gehört auch das historische Agra Fort, ein UNESCO-Welterbe, das einst Hauptresidenz der Mogulkaiser war. Nach den Besichtigungen genießen Sie ein Mittagessen in einem lokalen Restaurant in Agra, bevor es zurück nach Delhi zum Abendflug nach Mumbai geht. Dieser eine Tag verbindet Komfort, Geschichte und unvergessliche Erinnerungen, ideal bei knapper Zeit.",
+  "highlights": [
+   "Das prachtvolle Taj Mahal, UNESCO-Welterbe",
+   "Das historische Agra Fort",
+   "Bequemer privater Transport von Delhi nach Agra über den Yamuna Expressway",
+   "Professioneller lokaler Guide",
+   "Rückkehr nach Mumbai am selben Tag"
+  ],
+  "included": [
+   "Hin- und Rückflugtickets",
+   "Flughafentransfers",
+   "Privater klimatisierter Wagen für die Fahrt Delhi, Agra und zurück",
+   "Professioneller Guide in Agra",
+   "Eintrittskarten für die Monumente",
+   "Mittagessen in einem lokalen Restaurant",
+   "Alle Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "overnight-taj-mahal-tour-from-mumbai": {
+  "title": "Taj Mahal ab Mumbai mit Übernachtung",
+  "metaTitle": "Taj Mahal ab Mumbai in 2 Tagen: Sonnenaufgang und Nacht in Agra",
+  "metaDescription": "Zweitägiger Ausflug zum Taj Mahal ab Mumbai: Flüge, privater Wagen, Agra Fort, Taj Mahal bei Sonnenaufgang, Hotelübernachtung und Frühstück inklusive.",
+  "shortDescription": "Der zweitägige Taj-Mahal-Ausflug ab Mumbai ist ideal, um Agra in Ruhe zu erleben. Sie besuchen das weltberühmte Taj Mahal, eines der sieben Weltwunder und UNESCO-Welterbe, und die Übernachtung lässt Zeit, das reiche Mogulerbe der Stadt zu erkunden.",
+  "fullDescription": "Der zweitägige Taj-Mahal-Ausflug ab Mumbai ist ideal, um die historische Schönheit Agras in entspanntem Tempo zu erleben. Er gibt Ihnen Gelegenheit, das weltberühmte Taj Mahal zu besuchen, eines der sieben Weltwunder und UNESCO-Welterbe. Von Mogulkaiser Shah Jahan zum Andenken an seine Frau Mumtaz Mahal errichtet, wird es weltweit für seine Architektur aus weißem Marmor, seine schönen Gärten und seine zeitlose Liebesgeschichte bewundert.\n\nDie Reise beginnt mit einem Flug vom Chhatrapati Shivaji Maharaj International Airport in Mumbai nach Delhi. Nach der Ankunft am Indira Gandhi International Airport fahren Sie bequem im privaten Wagen über den modernen Yamuna Expressway nach Agra. Am ersten Tag besuchen Sie das prachtvolle Agra Fort, eine historische Mogulfestung mit eindrucksvollen Blicken auf das Taj Mahal jenseits der Yamuna.\n\nDie Übernachtung in Agra lässt Sie die Stadt in Ruhe erleben und bereitet auf den Höhepunkt am nächsten Morgen vor. Am zweiten Tag besuchen Sie das Taj Mahal bei Sonnenaufgang, wenn das sanfte goldene Licht wunderschön auf dem weißen Marmor liegt. Nach der Besichtigung und den Erläuterungen Ihres Guides kehren Sie nach Delhi zurück, für den Rückflug nach Mumbai. Ein bequemer und einprägsamer Weg, eines der ikonischsten Wahrzeichen Indiens zu erleben.",
+  "highlights": [
+   "Das ikonische Taj Mahal, Symbol ewiger Liebe",
+   "Das majestätische Agra Fort",
+   "Optionaler Besuch des schönen Mehtab Bagh für den Blick zum Sonnenuntergang",
+   "Bequeme Fahrt von Delhi nach Agra über den Yamuna Expressway",
+   "Übernachtung in einem komfortablen Hotel in Agra"
+  ],
+  "included": [
+   "Hin- und Rückflugtickets",
+   "Flughafentransfers",
+   "Privates klimatisiertes Fahrzeug für die Fahrt Delhi, Agra und zurück",
+   "Professioneller lokaler Guide in Agra",
+   "1 Hotelübernachtung in Agra",
+   "Frühstück im Hotel",
+   "Eintrittskarten für die Monumente",
+   "Alle Maut-, Park- und Fahrergebühren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (Einkäufe, Getränke usw.)",
+   "Mittag- und Abendessen, sofern nicht angegeben",
+   "Foto- oder Videogebühren an Monumenten",
+   "Trinkgelder für Fahrer und Guide",
+   "Alle Leistungen, die nicht in den Inklusivleistungen stehen"
+  ]
+ },
+ "taj-mahal-overnight-tour-from-mumbai-by-flight": {
+  "title": "Taj Mahal ab Mumbai mit Flug und Übernachtung",
+  "metaTitle": "Taj Mahal ab Mumbai: Flug, 5-Sterne-Hotel und Mehtab Bagh",
+  "metaDescription": "Zweitägiger Premium-Ausflug zum Taj Mahal ab Mumbai: Flüge, 5-Sterne-Hotel in Agra, Taj Mahal, Agra Fort und Mehtab Bagh mit zugelassenem Guide.",
+  "shortDescription": "Erleben Sie das ikonische Taj Mahal auf dieser Tour mit Übernachtung ab Mumbai. Flug nach Delhi, Transfer nach Agra, dann das majestätische Taj Mahal, das Agra Fort und der Mehtab Bagh. Blicke bei Sonnenauf- und Sonnenuntergang, geführte Besichtigungen, bequeme Transfers und 1 Nacht in Agra vor dem Rückflug nach Mumbai.",
+  "fullDescription": "Erleben Sie das Taj Mahal bei Sonnenaufgang ab Mumbai auf dieser hochwertigen Reise mit Übernachtung. Sie fliegen von Mumbai nach Delhi und fahren weiter nach Agra zu einer geführten Tour bei Sonnenuntergang zum Taj Mahal, zum Agra Fort und zum Mehtab Bagh.\n\nDieses Rundum-Paket umfasst eine Übernachtung, einen erfahrenen Guide und unkomplizierte Transfers. Sie sehen das berühmte Marmorwunder im schönsten Morgenlicht, erkunden Indiens Mogulerbe und genießen einen bequemen Rückflug.\n\nBuchen Sie diesen Agra-Ausflug ab Mumbai für ein einprägsames, zügiges und komfortables Besichtigungserlebnis.",
+  "highlights": [
+   "Hin- und Rückflug Mumbai nach Delhi",
+   "Ganztägige Besichtigung in Agra samt Taj Mahal und Agra Fort",
+   "Optionaler Besuch des Mehtab Bagh für den Blick auf das Taj Mahal bei Sonnenuntergang",
+   "Bequeme Transfers und geführte Tour"
+  ],
+  "included": [
+   "Hin- und Rückflugtickets Mumbai nach Delhi",
+   "Transfers Flughafen Delhi nach Agra und zurück",
+   "1 Nacht im 5-Sterne-Hotel in Agra",
+   "Frühstück im Hotel",
+   "Privater Wagen oder Bus für die Besichtigungen in Agra",
+   "Professioneller staatlich zugelassener Guide an den Monumenten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Taj Mahal, Agra Fort und Mehtab Bagh",
+   "Mittag- und Abendessen",
+   "Persönliche Ausgaben und Trinkgelder",
+   "Optionale Besichtigungen oder Aktivitäten, die nicht genannt sind"
+  ]
+ },
+ "3-day-taj-mahal-jaipur-luxury-tour-from-mumbai-by-flight": {
+  "title": "Ab Mumbai: Taj Mahal und Jaipur in 3 Luxus-Tagen, Flüge inklusive",
+  "metaTitle": "Goldenes Dreieck de luxe ab Mumbai in 3 Tagen: Agra und Jaipur",
+  "metaDescription": "Dreitägige Luxusreise ab Mumbai mit Flügen: Taj Mahal, Agra Fort, Mehtab Bagh, Amber Fort, City Palace, Hawa Mahal und Jantar Mantar.",
+  "shortDescription": "Erleben Sie Indiens ikonische Wahrzeichen auf dieser dreitägigen Luxusreise ab Mumbai. Flug nach Delhi, dann Agra mit Taj Mahal, Agra Fort und Mehtab Bagh, anschließend Jaipur mit Amber Fort, City Palace, Hawa Mahal und Jantar Mantar. Geführte Besichtigungen, gehobene Unterkünfte und reibungslose Transfers.",
+  "fullDescription": "Begeben Sie sich auf eine dreitägige Luxusreise durch das Goldene Dreieck ab Mumbai, Flüge inklusive. Sie fliegen nach Delhi und werden privat nach Agra gebracht, zur spektakulären Taj-Mahal-Tour bei Sonnenaufgang. Sie besuchen das Agra Fort und den Mehtab Bagh, bevor es weiter in die Rosa Stadt Jaipur geht.\n\nDort erkunden Sie mit einem erfahrenen Guide die Pracht des Amber Fort, des Hawa Mahal und des City Palace. Das Rundum-Paket umfasst Aufenthalte im 5-Sterne-Hotel, einen privaten klimatisierten Wagen und unkomplizierte Flughafentransfers.\n\nEntdecken Sie Indiens berühmtes Mogul- und Rajputen-Erbe auf einer hochwertigen, zügigen Reise ab Mumbai.",
+  "highlights": [
+   "Hin- und Rückflüge Mumbai nach Delhi",
+   "Geführte Besichtigungen in Agra und Jaipur",
+   "Taj Mahal, Agra Fort und Mehtab Bagh",
+   "Gehobene Unterkunft und private Transfers"
+  ],
+  "included": [
+   "Hin- und Rückflugtickets Mumbai nach Delhi",
+   "Private Transfers und komfortabler Wagen für die Besichtigungen in Agra und Jaipur",
+   "2 Nächte im Luxushotel (Agra und Jaipur)",
+   "Frühstück im Hotel",
+   "Professioneller staatlich zugelassener Guide an allen großen Sehenswürdigkeiten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für die Monumente",
+   "Mittag- und Abendessen"
+  ]
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
