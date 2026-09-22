@@ -7925,6 +7925,66 @@ export const DE_PAGES: Record<string, PageT> = {
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
+ "udaipur": {
+  "title": "Udaipur-Touren mit lokalen Guides: City Palace, Pichola-See, Kumbhalgarh",
+  "description": "Geführte Touren in Udaipur, der Stadt der Seen, und Ausflüge in Rajasthan, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "jodhpur": {
+  "title": "Jodhpur-Touren mit lokalen Guides: Mehrangarh Fort und Blaue Stadt",
+  "description": "Geführte Touren in Jodhpur, Rundgänge durch die Blaue Stadt und Wüstensafaris, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "jaisalmer": {
+  "title": "Jaisalmer-Touren mit lokalen Guides: Goldenes Fort und Thar-Wüste",
+  "description": "Geführte Touren in Jaisalmer, Heritage-Rundgänge und Safaris in der Thar-Wüste, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "bengaluru": {
+  "title": "Bengaluru-Touren mit lokalen Guides: Paläste, Gärten und Taj-Mahal-Ausflüge",
+  "description": "Geführte Touren in Bengaluru und Taj-Mahal-Ausflüge mit dem Flugzeug, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "varanasi": {
+  "title": "Varanasi-Touren mit lokalen Guides: Ghats, Ganga Aarti und Sarnath",
+  "description": "Geführte Touren in Varanasi, Bootsfahrten bei Sonnenaufgang auf dem Ganges und Ausflüge nach Sarnath, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "amritsar": {
+  "title": "Amritsar-Touren mit lokalen Guides: Goldener Tempel und Wagah-Grenze",
+  "description": "Geführte Touren in Amritsar, kulinarische Rundgänge und die Zeremonie an der Wagah-Grenze, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "goa": {
+  "title": "Goa-Touren mit lokalen Guides: Old Goa, Fontainhas und Wellness",
+  "description": "Geführte Touren in Goa, portugiesisches Erbe und Wellness-Erlebnisse, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "aurangabad": {
+  "title": "Aurangabad-Touren mit lokalen Guides: Ajanta- und Ellora-Höhlen",
+  "description": "Geführte Touren zu den Ajanta- und Ellora-Höhlen und zum Erbe Aurangabads, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "mathura": {
+  "title": "Mathura- und Vrindavan-Touren mit lokalen Guides: Krishna-Tempel",
+  "description": "Geführte Touren in Mathura und Vrindavan, Krishna-Tempel und Ausflüge ab Agra oder Delhi, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "khajuraho": {
+  "title": "Khajuraho-Touren mit lokalen Guides: Tempel im UNESCO-Welterbe",
+  "description": "Geführte Touren zu den Tempelgruppen von Khajuraho, UNESCO-Welterbe, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "kolkata": {
+  "title": "Kalkutta-Touren mit lokalen Guides: Victoria Memorial und Märkte",
+  "description": "Geführte Touren in Kalkutta, Kolonialerbe und lokale Basare, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "rishikesh": {
+  "title": "Rishikesh-Touren mit lokalen Guides: Ganga Aarti und Beatles Ashram",
+  "description": "Geführte Touren in Rishikesh, Rollertouren und die Ganga-Aarti-Zeremonie, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "lucknow": {
+  "title": "Lucknow-Touren mit lokalen Guides: Bara Imambara und awadhische Küche",
+  "description": "Heritage-Rundgänge in Lucknow und kulinarische Entdeckungen, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "gwalior": {
+  "title": "Gwalior-Touren mit lokalen Guides: Fort und Jai Vilas Palace",
+  "description": "Geführte Touren in Gwalior, historisches Fort und Königspalast, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "bikaner": {
+  "title": "Bikaner-Touren mit lokalen Guides: Junagarh Fort und Rattentempel",
+  "description": "Geführte Touren in Bikaner, Junagarh Fort und Karni-Mata-Tempel, direkt bei geprüften lokalen Anbietern gebucht."
+ },
  "agra": {
   "title": "Touren und offizielle Guides in Agra: Taj Mahal, Rotes Fort, Fatehpur Sikri",
   "description": "Buchen Sie Agra-Touren direkt bei geprüften lokalen Veranstaltern: offizielle Taj Mahal Guides, Tickets ohne Anstehen, Sonnenaufgang, Tagestouren ab Delhi. Ohne Zwischenhändler."

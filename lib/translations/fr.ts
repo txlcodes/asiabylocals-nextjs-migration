@@ -7925,6 +7925,66 @@ export const FR_PAGES: Record<string, PageT> = {
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
+ "udaipur": {
+  "title": "Visites d'Udaipur avec des guides locaux : City Palace, lac Pichola, Kumbhalgarh",
+  "description": "Visites guidées d'Udaipur, la cité des Lacs, et excursions au Rajasthan, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "jodhpur": {
+  "title": "Visites de Jodhpur avec des guides locaux : fort de Mehrangarh et ville bleue",
+  "description": "Visites guidées de Jodhpur, balades dans la ville bleue et safaris dans le désert, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "jaisalmer": {
+  "title": "Visites de Jaisalmer avec des guides locaux : fort doré et désert du Thar",
+  "description": "Visites guidées de Jaisalmer, balades patrimoniales et safaris dans le désert du Thar, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "bengaluru": {
+  "title": "Visites de Bengaluru avec des guides locaux : palais, jardins et excursions au Taj Mahal",
+  "description": "Visites guidées de Bengaluru et excursions au Taj Mahal en avion, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "varanasi": {
+  "title": "Visites de Varanasi avec des guides locaux : ghats, Ganga Aarti et Sarnath",
+  "description": "Visites guidées de Varanasi, balades en bateau au lever du soleil sur le Gange et excursions à Sarnath, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "amritsar": {
+  "title": "Visites d'Amritsar avec des guides locaux : Temple d'Or et frontière de Wagah",
+  "description": "Visites guidées d'Amritsar, balades gourmandes et cérémonie de la frontière de Wagah, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "goa": {
+  "title": "Visites de Goa avec des guides locaux : Old Goa, Fontainhas et bien-être",
+  "description": "Visites guidées de Goa, patrimoine portugais et expériences bien-être, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "aurangabad": {
+  "title": "Visites d'Aurangabad avec des guides locaux : grottes d'Ajanta et d'Ellora",
+  "description": "Visites guidées des grottes d'Ajanta et d'Ellora et du patrimoine d'Aurangabad, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "mathura": {
+  "title": "Visites de Mathura et Vrindavan avec des guides locaux : temples de Krishna",
+  "description": "Visites guidées de Mathura et Vrindavan, temples de Krishna et excursions depuis Agra ou Delhi, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "khajuraho": {
+  "title": "Visites de Khajuraho avec des guides locaux : temples inscrits à l'UNESCO",
+  "description": "Visites guidées des groupes de temples de Khajuraho, inscrits au patrimoine mondial de l'UNESCO, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "kolkata": {
+  "title": "Visites de Calcutta avec des guides locaux : Victoria Memorial et marchés",
+  "description": "Visites guidées de Calcutta, patrimoine colonial et bazars locaux, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "rishikesh": {
+  "title": "Visites de Rishikesh avec des guides locaux : Ganga Aarti et Beatles Ashram",
+  "description": "Visites guidées de Rishikesh, balades en scooter et cérémonie de la Ganga Aarti, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "lucknow": {
+  "title": "Visites de Lucknow avec des guides locaux : Bara Imambara et cuisine awadhi",
+  "description": "Balades patrimoniales à Lucknow et découvertes gourmandes, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "gwalior": {
+  "title": "Visites de Gwalior avec des guides locaux : fort et Jai Vilas Palace",
+  "description": "Visites guidées de Gwalior, fort historique et palais royal, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "bikaner": {
+  "title": "Visites de Bikaner avec des guides locaux : fort de Junagarh et temple des Rats",
+  "description": "Visites guidées de Bikaner, fort de Junagarh et temple de Karni Mata, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
  "agra": {
   "title": "Visites et guides officiels à Agra : Taj Mahal, fort d'Agra, Fatehpur Sikri",
   "description": "Réservez des visites d'Agra directement auprès d'opérateurs locaux vérifiés : guides officiels du Taj Mahal, billets coupe-file, lever du soleil, excursions depuis Delhi. Sans intermédiaire."
