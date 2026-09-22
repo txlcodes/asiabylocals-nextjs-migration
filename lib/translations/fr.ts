@@ -580,6 +580,199 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "taj-mahal-half-day-tour": {
+  "title": "Demi-journée privée au Taj Mahal, avec ou sans transport",
+  "metaTitle": "Taj Mahal et fort d'Agra en demi-journée privée avec guide",
+  "metaDescription": "Demi-journée privée à Agra : Taj Mahal avec entrée express et guide, pause petit-déjeuner, puis fort d'Agra. Prise en charge à l'hôtel, voiture climatisée et billets coupe-file en option.",
+  "shortDescription": "Les merveilles d'Agra lors d'une aventure privée conçue pour vous : une merveille du monde, des trésors cachés avec un expert local et des saveurs authentiques. Sans foule ni distraction, un voyage exclusif et personnalisé au cœur de la culture et de l'histoire d'Agra.",
+  "fullDescription": "La visite commence par une prise en charge à votre hôtel, à l'aéroport ou au lieu de votre choix dans Agra. Vous rencontrez votre guide et partez au Taj Mahal avec un billet d'entrée express, pour découvrir le mausolée de marbre à votre rythme.\n\nAprès le Taj Mahal, pause petit-déjeuner dans un restaurant multi-cuisines (à vos frais).\n\nEnsuite, le fort d'Agra, autre site UNESCO, résidence des empereurs moghols avant que Delhi ne devienne la capitale. À la fin de la visite, retour à votre hôtel, à l'aéroport ou au lieu souhaité dans Agra.",
+  "highlights": [
+   "Le Taj Mahal, monument de l'amour, au lever du soleil",
+   "La ville fortifiée du fort d'Agra, avec entrée express au Taj",
+   "Récits, secrets d'architecture et histoire royale par le guide",
+   "Les meilleurs angles photo sur les sites emblématiques"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Visites en voiture privée climatisée",
+   "Billets coupe-file Taj Mahal et fort d'Agra (si l'option est choisie)",
+   "Guide professionnel en personne",
+   "Eau en bouteille",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "taj-mahal-pickup-private-tour": {
+  "title": "Agra : fort d'Agra et Baby Taj en visite privée avec transferts",
+  "metaTitle": "Fort d'Agra et Baby Taj en privé, coupe-file, transferts dans Agra",
+  "metaDescription": "Visite privée de 2h30 du fort d'Agra et du Baby Taj avec guide, billets coupe-file en option, voiture climatisée et prise en charge partout dans Agra. Démonstration d'incrustation de marbre incluse.",
+  "shortDescription": "Le fort d'Agra et le Baby Taj lors d'une visite privée avec billet coupe-file et guide, avec prise en charge et retour partout dans Agra en voiture privée.",
+  "fullDescription": "Rejoignez une visite privée entièrement guidée du fort d'Agra et du Baby Taj (Itimad-ud-Daulah). Parfaite pour découvrir les autres grands sites d'Agra avant ou après le Taj Mahal.\n\nChoisissez votre heure et votre lieu de prise en charge, partout dans Agra, et retrouvez-y votre guide et votre chauffeur.\n\nPremière étape : le fort d'Agra, deuxième monument le plus célèbre de la ville, réputé pour sa pierre rouge et ses incrustations. Votre guide raconte son histoire de résidence moghole.\n\nPuis le Baby Taj, surnommé le « coffret à bijoux », esquisse miniature du Taj Mahal d'une finesse exquise.\n\nAprès les deux monuments, votre guide propose une démonstration fascinante d'incrustation de marbre et vous présente des formes d'art locales. Trajet confortable en voiture entièrement climatisée, péages, taxes et parking inclus. Durée environ 2h30. Guides disponibles en anglais et en français.",
+  "highlights": [
+   "Le fort d'Agra, site UNESCO, avec un guide privé",
+   "Le Baby Taj, version miniature du Taj Mahal, avec entrée coupe-file",
+   "Prise en charge et retour partout dans Agra en voiture privée",
+   "L'art de l'incrustation, avec démonstration par un artisan local",
+   "La souplesse d'une visite privée au programme personnalisable"
+  ],
+  "included": [
+   "Entrée coupe-file au fort d'Agra et au Baby Taj (si l'option est choisie)",
+   "Prise en charge et retour partout dans Agra",
+   "Guide professionnel",
+   "Visite privée",
+   "Voiture entièrement climatisée",
+   "Péages, taxes et parking",
+   "Démonstration d'incrustation",
+   "Bouteilles d'eau et chaussons"
+  ],
+  "notIncluded": [
+   "Nourriture",
+   "Dépenses personnelles"
+  ]
+ },
+ "taj-mahal-guided-tour": {
+  "title": "Explorer Agra avec un guide certifié",
+  "metaTitle": "Guide certifié à Agra : Taj Mahal, fort, Baby Taj, Mehtab Bagh",
+  "metaDescription": "Découvrez Agra avec un guide local certifié : Taj Mahal au lever du soleil, fort d'Agra, Baby Taj et Mehtab Bagh. Voiturette, chaussons et eau inclus, voiture en option.",
+  "shortDescription": "La beauté intemporelle d'Agra avec un guide certifié : monuments emblématiques, récits de l'époque moghole et l'histoire, la culture et l'architecture qui font d'Agra l'une des destinations les plus célèbres de l'Inde.",
+  "fullDescription": "Découvrez la beauté intemporelle d'Agra avec un guide certifié et compétent. Visitez les monuments emblématiques, écoutez les récits fascinants de l'époque moghole et explorez l'histoire, la culture et l'architecture qui font d'Agra l'une des destinations les plus célèbres de l'Inde.\n\nVivez l'héritage d'Agra avec un guide local certifié qui fait revivre l'histoire : parcourez les monuments magnifiques, écoutez les histoires captivantes d'empereurs et d'artisans et comprenez plus profondément le passé glorieux de la ville. Le programme couvre le Taj Mahal (idéalement au lever du soleil), le fort d'Agra, le Baby Taj et Mehtab Bagh, avec voiture pour la ville en option.",
+  "highlights": [
+   "Agra avec un guide certifié",
+   "Taj Mahal, fort d'Agra, Baby Taj et Mehtab Bagh",
+   "Visite du Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Service de guide",
+   "Voiturette de golf jusqu'au Taj Mahal",
+   "Chaussons",
+   "Bouteilles d'eau",
+   "Voiture pour la visite de la ville (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Déjeuner",
+   "Voiture (si l'option avec voiture n'est pas réservée)"
+  ]
+ },
+ "taj-mahal-sunrise-skip-the-line-tour": {
+  "title": "Taj Mahal au lever du soleil, coupe-file avec guide",
+  "metaTitle": "Taj Mahal à l'aube avec Yusuf, guide en anglais, français, espagnol",
+  "metaDescription": "Visite guidée d'Agra comme un local avec Yusuf : Taj Mahal à l'aube, fort d'Agra, tombe d'Akbar, Baby Taj, Mehtab Bagh, Fatehpur Sikri, Jama Masjid et artisans de la pierre. En anglais, français ou espagnol.",
+  "shortDescription": "Si vous réservez avec Yusuf, vous vivrez une expérience merveilleuse et inoubliable. Au Taj Mahal, il connaît les meilleurs points photo, que vous apprécierez à coup sûr.",
+  "fullDescription": "Cette visite s'adresse à ceux qui veulent explorer Agra comme un local, avec un aperçu de la vie de la ville et de ses habitants. Au programme :\n\n- Taj Mahal\n- Fort d'Agra\n- Tombe d'Akbar\n- Baby Taj\n- Mehtab Bagh\n- Fatehpur Sikri\n- Jama Masjid, l'une des mosquées les plus anciennes et les plus grandes d'Inde\n- Artisans tailleurs de pierre, descendants directs de la famille qui a décoré le Taj Mahal de pierres précieuses et semi-précieuses\n- Art et artisans locaux\n\nVous découvrirez avec moi la face cachée d'Agra, avec des conseils pour profiter de la ville au mieux. Visite guidée en anglais, français ou espagnol.",
+  "highlights": [
+   "Une expérience merveilleuse au Taj Mahal, merveille du monde",
+   "Le majestueux fort d'Agra, résidence du grand Empire moghol",
+   "Fatehpur Sikri, la première grande ville fortifiée d'Inde",
+   "Le Baby Taj, inspiration du Taj Mahal"
+  ],
+  "included": [
+   "Visite guidée professionnelle en trois langues : anglais, français, espagnol"
+  ],
+  "notIncluded": [
+   "Petit-déjeuner",
+   "Déjeuner",
+   "Dîner"
+  ]
+ },
+ "agra-photography-tour-with-guide": {
+  "title": "Visite photo d'Agra",
+  "metaTitle": "Visite photo du Taj Mahal à l'aube avec guide local",
+  "metaDescription": "Photographiez le Taj Mahal au lever du soleil avec un guide local : meilleurs points de vue, reflets, angles et conseils simples de composition et de lumière. Pour appareils photo et smartphones.",
+  "shortDescription": "Le Taj Mahal à travers l'objectif lors de cette visite photo au lever du soleil à Agra. Avec un expert local, découvrez les meilleurs spots, reflets et angles et apprenez des techniques simples pour des images superbes du monument le plus emblématique du monde. Pour photographes, voyageurs, blogueurs et tous ceux qui veulent des photos inoubliables.",
+  "fullDescription": "Capturez la beauté du Taj Mahal au moment le plus magique de la journée lors de cette visite photo au lever du soleil à Agra. Conçue pour les voyageurs, les passionnés de photo et les créateurs de contenu, elle vous aide à photographier le monument le plus emblématique de l'Inde avec les conseils d'un expert local.\n\nVotre guide vous mène aux meilleurs points de vue de l'enceinte du Taj Mahal : bassins aux reflets, allées des jardins et recoins cachés qui offrent des images superbes. En chemin, apprenez des techniques simples et efficaces de composition, de cadrage, de lumière et de perspective.\n\nLe lever du soleil est le moment idéal : la lumière dorée illumine le marbre blanc et crée des couleurs et des reflets à couper le souffle. Tôt le matin, il y a aussi moins de monde, pour des images plus nettes et plus spectaculaires.\n\nReflex, hybride ou smartphone, cette visite vous aide à réussir des photos mémorables tout en découvrant l'histoire et la beauté de ce site UNESCO.",
+  "highlights": [
+   "Des photos du Taj Mahal à l'aube avec les conseils d'un expert",
+   "Les meilleurs spots, reflets et angles à l'intérieur de l'enceinte",
+   "Des conseils pratiques de composition, de lumière et de cadrage"
+  ],
+  "included": [
+   "Guide photo local professionnel",
+   "Conseils et accompagnement photo",
+   "Aide pour les meilleurs emplacements dans le Taj Mahal",
+   "Expérience privée ou en petit groupe"
+  ],
+  "notIncluded": [
+   "Billet d'entrée du Taj Mahal",
+   "Repas et boissons",
+   "Dépenses personnelles",
+   "Location de matériel photo",
+   "Transport hôtel (sauf option choisie)"
+  ]
+ },
+ "hidden-gems-of-agra-heritage-tour": {
+  "title": "Trésors cachés d'Agra : balade patrimoine",
+  "metaTitle": "Balade patrimoine dans le vieil Agra : havelis, bazars, artisans",
+  "metaDescription": "Balade à pied dans le vieil Agra avec un guide local : ruelles historiques, havelis moghols, bazars, artisans de l'incrustation de marbre, temples et mosquées, spécialités de rue.",
+  "shortDescription": "La balade patrimoine d'Agra est une immersion dans les ruelles historiques, l'architecture moghole, les bazars animés et les trésors cachés. Des guides compétents partagent les histoires de culture, d'histoire et de vie quotidienne de cette ville emblématique.",
+  "fullDescription": "La balade commence dans les vieux quartiers d'Agra, où les ruelles étroites résonnent d'histoires vieilles de plusieurs siècles. En traversant les bazars animés, entre tissus colorés, artisanat traditionnel, épices et parfums de street food, vous saisissez la vie quotidienne de la ville. Le guide local fait revivre l'histoire par ses récits : la transformation d'Agra à l'époque moghole et la vitalité de son identité culturelle aujourd'hui.\n\nL'un des temps forts est la découverte de joyaux architecturaux cachés, souvent absents des circuits classiques : havelis finement sculptés, édifices historiques méconnus, chacun reflétant l'excellence artistique qui a fleuri sous le mécénat moghol. Le guide explique les détails, les styles de construction locaux et la façon dont ces structures ont traversé le temps.\n\nLa balade permet aussi des rencontres avec les artisans et commerçants : incrustation de marbre, cuir, textiles tissés à la main. Vous observez des maîtres au travail, gardiens de techniques transmises de génération en génération, et découvrez les histoires humaines derrière le patrimoine artistique de la ville.\n\nAutre dimension enrichissante : la vie de quartier et l'harmonie religieuse. Le parcours inclut souvent des temples, des mosquées ou des lieux communautaires historiques qui illustrent l'esprit multiculturel d'Agra. Le guide explique avec respect les coutumes et traditions locales.\n\nLes gourmands apprécieront les rues de street food : parfums d'en-cas fraîchement préparés, de douceurs et de spécialités traditionnelles. Selon le programme, vous goûtez des spécialités locales authentiques.\n\nCe qui distingue cette balade, c'est son rythme intime et détendu. Loin des grands groupes, elle encourage la curiosité, les questions et les échanges. Le petit groupe garantit une attention personnalisée.\n\nOrganisée avec professionnalisme, la balade privilégie le confort, la sécurité et le respect culturel. Passionné d'histoire, amateur de culture, photographe ou simple curieux, vous découvrez un Agra bien au-delà des monuments emblématiques : un voyage dans l'âme de la ville, dont vous repartez avec des histoires, des rencontres et une compréhension plus riche de son charme intemporel.",
+  "highlights": [
+   "Les havelis patrimoniaux de l'époque moghole",
+   "La vie colorée et vibrante d'Agra",
+   "Les religions de l'Inde, à découvrir et comprendre",
+   "Les spécialités gourmandes d'Agra"
+  ],
+  "included": [
+   "Guide en personne"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires",
+   "Transport"
+  ]
+ },
+ "taj-mahal-fatehpur-full-day-tour": {
+  "title": "Agra et Fatehpur Sikri en une journée",
+  "metaTitle": "Taj Mahal, fort d'Agra et Fatehpur Sikri en voiture privée avec guide",
+  "metaDescription": "Journée privée depuis votre hôtel ou la gare d'Agra : Taj Mahal, fort d'Agra et Fatehpur Sikri en voiture Toyota climatisée avec guide officiel agréé. Voiturette, chaussons et eau inclus.",
+  "shortDescription": "Monuments visités : Taj Mahal, fort d'Agra, Fatehpur Sikri, en voiture climatisée avec guide. Découvrez la beauté intemporelle d'Agra lors de cette journée privée couvrant les grands sites moghols de la ville et Fatehpur Sikri, en voiture privée climatisée avec un guide professionnel agréé par le gouvernement.",
+  "fullDescription": "Prise en charge à votre hôtel ou à la gare.\n\nLa journée commence par la découverte de la beauté intemporelle d'Agra : le Taj Mahal et le fort d'Agra, puis Fatehpur Sikri. Voyagez confortablement en voiture privée climatisée et explorez ces monuments mondialement connus avec l'aide d'un guide professionnel agréé par le gouvernement.\n\nCette expérience guidée mêle histoire, architecture et culture, pour un voyage sans tracas à travers l'héritage royal de l'époque moghole à Agra et dans son ancienne capitale, Fatehpur Sikri.\n\nAprès les visites, retour à votre hôtel ou à la gare d'Agra.",
+  "highlights": [
+   "Taj Mahal, fort et Fatehpur Sikri en voiture climatisée avec guide",
+   "Circuit premium de l'héritage moghol : Agra et Fatehpur Sikri",
+   "Visite privée avec prise en charge et retour à votre hôtel d'Agra"
+  ],
+  "included": [
+   "Voiture Toyota climatisée pour la journée complète Agra et Fatehpur Sikri",
+   "Taxes, péages, carburant et parking",
+   "Guide officiel pour toute la visite",
+   "Prise en charge et retour à l'hôtel ou à la gare d'Agra",
+   "Bouteilles d'eau",
+   "Chaussons",
+   "Voiturette de golf du parking au Taj Mahal et à Fatehpur Sikri"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Déjeuner"
+  ]
+ },
+ "private-sunrise-taj-mahal-agra-fort-tour": {
+  "title": "Taj Mahal au lever du soleil et fort d'Agra en privé",
+  "metaTitle": "Taj Mahal à l'aube depuis Delhi en privé, fort d'Agra et Baby Taj",
+  "metaDescription": "Excursion privée depuis Delhi en berline climatisée : Taj Mahal au lever du soleil, petit-déjeuner 5 étoiles, fort d'Agra et Baby Taj avec guide agréé. Billets coupe-file en option.",
+  "shortDescription": "La visite privée du Taj Mahal au lever du soleil est l'une des plus populaires pour voir le monument emblématique des Moghols dans la lumière dorée. Fort d'Agra et Baby Taj inclus, prise en charge en voiture climatisée. Déjeuner et billets coupe-file en option pour un voyage simple et sans stress.",
+  "fullDescription": "Tôt le matin, prise en charge partout à Delhi par notre voiture climatisée avec chauffeur pour l'aller-retour, environ 3 heures jusqu'à Agra.\n\nÀ l'arrivée, rencontre avec votre guide agréé par le gouvernement pour visiter le Taj Mahal, le fort d'Agra et le Baby Taj.\n\n**Taj Mahal** : merveille du monde bâtie par Shah Jahan à la mémoire de Mumtaz Mahal. Le lever du soleil au Taj est une expérience inoubliable, recommandée par la plupart des experts et des voyageurs. Après la visite, petit-déjeuner.\n\n**Petit-déjeuner** dans un hôtel 5 étoiles d'Agra.\n\n**Fort d'Agra** : belle alliance de marbre blanc et de grès rouge, ensemble majestueux de palais et de jardins qui fut le siège administratif et la résidence des Moghols.\n\n**Baby Taj** : mausolée de Mirza Ghiyas Baig au bord de la Yamuna, l'un des plus beaux exemples de sculptures fines sur marbre et de fresques.\n\nÀ la fin des visites, retour à Delhi et dépose à votre lieu de prise en charge. Fin de la visite.",
+  "highlights": [
+   "Des souvenirs pour la vie au Taj Mahal",
+   "L'architecture de cette merveille faite de main d'homme",
+   "Le majestueux fort d'Agra",
+   "Les splendides fresques du Baby Taj",
+   "Prise en charge incluse"
+  ],
+  "included": [
+   "Prise en charge incluse",
+   "Berline climatisée pour l'aller-retour",
+   "Guide en personne à Agra",
+   "Entrées des monuments (si l'option est choisie)",
+   "Bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et le chauffeur"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Guide officiel agréé pour le Taj Mahal",
   "metaTitle": "Guide officiel du Taj Mahal, entrée coupe-file",
