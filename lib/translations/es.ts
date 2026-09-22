@@ -3857,6 +3857,120 @@ export const ES_TOURS: Record<string, TourT> = {
    "Plantación de especias, 650 ₹ adicionales"
   ]
  },
+ "golden-temple-food-tour": {
+  "title": "Sabores de Amritsar: ruta gastronómica a pie",
+  "metaTitle": "Ruta gastronómica en Amritsar: comida callejera punyabí con guía",
+  "metaDescription": "Ruta gastronómica guiada por Amritsar: calles animadas, locales de siempre y especialidades punyabíes, con traslados entre paradas y relatos en español, inglés o hindi.",
+  "shortDescription": "Pruebe los sabores auténticos de Amritsar en una ruta gastronómica guiada por las calles animadas y los rincones culinarios escondidos de la ciudad. Descubra las ricas tradiciones de la cocina punyabí mientras degusta una variedad de especialidades locales.",
+  "fullDescription": "Descubra los sabores auténticos de Amritsar y la vibrante vida local en esta ruta gastronómica guiada. Paseará por calles animadas, visitará locales populares y saboreará una variedad de especialidades punyabíes tradicionales y de la famosa comida callejera.\n\nIdeal para amantes de la gastronomía y para curiosos de la cultura, este recorrido envolvente crea una conexión más profunda con el rico patrimonio de Amritsar y deja recuerdos inolvidables en cada bocado.",
+  "highlights": [
+   "Una experiencia gastronómica auténtica en Amritsar",
+   "El sabor de Amritsar en una ruta guiada",
+   "Descubrir los sabores de Amritsar"
+  ],
+  "included": [
+   "Relatos en hindi, inglés y punyabí (según su preferencia)",
+   "Comida y bebidas",
+   "Traslado de un punto de comida a otro (a pie, en rickshaw o en tuk-tuk)",
+   "Grandes historias y conversaciones interesantes",
+   "Experiencia de la vida local",
+   "Consejos para regatear y ahorrar"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
+ "golden-temple-guided-tour": {
+  "title": "Amritsar: la auténtica aldea punyabí de Sadda Pind",
+  "metaTitle": "Sadda Pind en Amritsar: aldea punyabí, bhangra y cocina local",
+  "metaDescription": "Visita a Sadda Pind cerca de Amritsar: casas tradicionales, espectáculos de bhangra y gidda, artesanía, actividades de aldea y comida punyabí sin límite.",
+  "shortDescription": "Entre en el corazón del Punyab en Sadda Pind, una aldea patrimonial bellamente recreada donde las tradiciones milenarias cobran vida. Viva la calidez de la hospitalidad rural punyabí entre casas tradicionales de barro, vibrantes actuaciones folclóricas, artesanía local y auténtica cocina regional.",
+  "fullDescription": "Viva el espíritu vibrante del Punyab con una visita a Sadda Pind, una aldea patrimonial viva que preserva las ricas tradiciones, costumbres y formas de vida rural de la región. Cada rincón refleja la calidez de la hospitalidad punyabí y ofrece una experiencia cultural envolvente que recupera el encanto de una aldea tradicional.\n\nPasee por callejones pintorescos con casas revocadas de barro, cabañas con techo de paja y patios rústicos que recrean la atmósfera del viejo Punyab. El entorno, cuidadosamente diseñado, ofrece una ventana auténtica a la vida diaria y al patrimonio arquitectónico de la región.\n\nDisfrute de cautivadoras actuaciones en directo de las famosas artes folclóricas del Punyab, entre ellas el enérgico bhangra y el grácil gidda. La música rítmica, los trajes de colores y los bailes animados dan vida a la cultura punyabí en un ambiente inolvidable.\n\nDescubra la destreza de los artesanos locales mientras muestran oficios tradicionales como la alfarería, el bordado y el tejido, transmitidos de generación en generación. También puede participar en talleres prácticos y crear su propio recuerdo.\n\nAñada emoción con actividades de aldea: colocación tradicional del turbante, paseos en tractor, en carro de bueyes y en camello, y juegos para toda la familia.\n\nNinguna visita está completa sin saborear los auténticos sabores del Punyab. Disfrute de una comida tradicional con clásicos como el *makki di roti*, el *sarson da saag*, un cremoso *lassi* y otras delicias regionales.\n\nAntes de terminar, recorra el animado mercado de la aldea, lleno de recuerdos artesanales, ropa punyabí tradicional, textiles de colores y artesanía local, perfectos para recordar este viaje cultural.\n\nSe marchará con recuerdos inolvidables de la hospitalidad punyabí, sus tradiciones vibrantes y su encanto rural atemporal. Sadda Pind es mucho más que una visita: es un viaje cultural enriquecedor que celebra la esencia del Punyab.",
+  "highlights": [
+   "Descubrir la cultura punyabí en la aldea de Sadda Pind",
+   "Aldea punyabí tradicional en Sadda Pind",
+   "Sumergirse en la vida de aldea punyabí en Sadda Pind"
+  ],
+  "included": [
+   "Transporte desde un hotel del centro de Amritsar hasta Sadda Pind",
+   "Entrada a Sadda Pind",
+   "Experiencia de aldea cultural punyabí viva con casas tradicionales como Fulkari House, Weaver House, Paranda House, Musician House, Numberdar House, Potters House y muchas más",
+   "Espectáculos en directo como gatka, bhangra y gidda, muro de la muerte, espectáculo de baazigar, espectáculo de bicicleta, espectáculo de lucha y muchos más",
+   "Sin límite: makki di roti y sarson da saag con chaach en el Kissan da Ghar",
+   "Khichdi tradicional en el Sarpanch da Ghar",
+   "Mathi chole en el Tangewala da Ghar y palomitas en el Phullewali da Ghar"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "golden-temple-heritage-tour": {
+  "title": "Amritsar: patrimonio y frontera de Wagah en visita privada",
+  "metaTitle": "Amritsar: Templo Dorado, Jallianwala Bagh y frontera de Wagah",
+  "metaDescription": "Visita privada por Amritsar: Templo Dorado, sala del langar, Jallianwala Bagh, Museo de la Partición y ceremonia en la frontera de Wagah, con traslados de hotel.",
+  "shortDescription": "Viva el rico patrimonio y el encanto espiritual de Amritsar en esta visita privada guiada. Comenzará en el magnífico Templo Dorado, el hito más preciado de la ciudad, donde el santuario dorado y el sereno estanque sagrado crean un ambiente de paz y devoción.",
+  "fullDescription": "Descubra el espíritu cultural, histórico y patriótico de Amritsar en esta visita guiada por un experto. La experiencia comienza con la recogida en el hotel y la visita al icónico Templo Dorado, el santuario más sagrado del sijismo. Admire su impresionante arquitectura dorada, empápese del ambiente apacible y conozca su rica historia y sus tradiciones de la mano de su guía.\n\nContinuará hasta la famosa sala del langar, donde cada día se sirven comidas vegetarianas gratuitas a miles de visitantes. Verá el extraordinario esfuerzo comunitario que hay detrás de una de las mayores cocinas gratuitas del mundo y conocerá los valores sijes de igualdad, servicio y compasión.\n\nDespués visitará Jallianwala Bagh, un memorial dedicado a las víctimas de la trágica masacre de 1919. Recorrerá los jardines históricos y escuchará el relato conmovedor de uno de los momentos más significativos de la lucha por la independencia de la India.\n\nSu recorrido continuará en el Museo de la Partición, donde exposiciones interactivas, fotografías poco vistas, objetos personales y testimonios de supervivientes muestran con fuerza el impacto humano de la Partición de 1947.\n\nPor la tarde viajará por la histórica Grand Trunk Road hasta la frontera de Wagah, el paso internacional entre la India y Pakistán. Tomará asiento para presenciar la mundialmente famosa ceremonia del Beating Retreat, con enérgicos ejercicios militares, marchas sincronizadas, actuaciones patrióticas, el arriado ceremonial de las banderas nacionales y el tradicional apretón de manos entre las fuerzas fronterizas de ambos países.\n\nTras la ceremonia, se relajará en el trayecto de regreso a su hotel, cerrando así una jornada inolvidable en Amritsar.",
+  "highlights": [
+   "Lo mejor de Amritsar con la ceremonia del Retreat en la frontera de Wagah",
+   "Descubrir Amritsar con visita a la frontera de Wagah",
+   "El Templo Dorado de Amritsar y la frontera de Wagah"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en coche",
+   "Aparcamiento",
+   "Entradas"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "victoria-memorial-shopping-tour": {
+  "title": "Calcuta: lo mejor de la ciudad y mercados locales con guía privado",
+  "metaTitle": "Calcuta en un día: Victoria Memorial, Howrah, Mother House",
+  "metaDescription": "Jornada guiada en Calcuta en coche privado climatizado: Victoria Memorial, catedral de San Pablo, Indian Museum, puente de Howrah, Marble Palace y Mother House.",
+  "shortDescription": "Esta opción ofrece una jornada completa de visitas por Calcuta con guía de habla inglesa, conductor profesional y coche privado climatizado. Las entradas y la comida no están incluidas en el precio.",
+  "fullDescription": "Jornada de 8 horas por lo más destacado y el patrimonio de Calcuta.\n\n**Recogida en el hotel**\nConocerá a su guía en su hotel o en el lugar que prefiera y comenzará su jornada completa de exploración por Calcuta en un vehículo privado climatizado.\n\n**1. Victoria Memorial**\nEmpezará por el monumento más célebre de Calcuta y recorrerá sus hermosos jardines, su museo y su arquitectura colonial.\n\n**2. Catedral de San Pablo**\nVisitará esta catedral histórica, conocida por su llamativo diseño gótico y su ambiente apacible.\n\n**3. Indian Museum**\nRecorrerá el museo más antiguo de la India, con colecciones excepcionales de arte, arqueología, escultura, fósiles y tesoros históricos.\n\n**4. Puente de Howrah y mercado de flores de Mullick Ghat**\nVerá el legendario puente de Howrah y sentirá la energía vibrante del famoso mercado de flores de Calcuta.\n\n**5. Marble Palace (visita exterior)**\nAdmirará una de las mansiones más bellas del siglo XIX de Calcuta, célebre por su arquitectura elegante y su encanto histórico (solo por fuera).\n\n**6. Mother House**\nVisitará la sede de las Misioneras de la Caridad y conocerá la vida y la labor humanitaria de la Madre Teresa.\n\n**Regreso al hotel**\nLa visita concluye con un cómodo trayecto de vuelta a su hotel o al lugar que prefiera de Calcuta.",
+  "highlights": [
+   "Jornada completa con lo mejor de Calcuta y su bazar local",
+   "Calcuta privada con guía local y coche",
+   "Las principales atracciones de Calcuta y sus vibrantes mercados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte privado climatizado",
+   "Guía turístico profesional",
+   "Botella de agua",
+   "Todos los impuestos y aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas"
+  ]
+ },
+ "rishikesh-like-a-local-scooter-tour": {
+  "title": "Rishikesh como un local: la ciudad en scooter con guía",
+  "metaTitle": "Rishikesh en scooter: Laxman Jhula, Beatles Ashram, Ganga Aarti",
+  "metaDescription": "Jornada en scooter por Rishikesh con guía conductor: Laxman Jhula, templos, Beatles Ashram y ceremonia Ganga Aarti al atardecer, con traslados de hotel.",
+  "shortDescription": "Adéntrese en el corazón de Rishikesh sobre dos ruedas y viva la ciudad como un local. Recorra la orilla del Ganges, visite lugares icónicos como Lakshman Jhula y Ram Jhula, descubra cafés escondidos y empápese del ambiente espiritual con la Ganga Aarti del atardecer. Una mezcla perfecta de paisaje, cultura y aventura en una jornada inolvidable.",
+  "fullDescription": "**Mañana**\nDespués del desayuno, nuestro conductor le recogerá en su hotel para un emocionante recorrido en moto por Rishikesh. Evitará el tráfico y conocerá la ciudad como un local.\n\nIrá hacia Laxman Jhula, el icónico puente colgante, donde podrá parar para admirar las vistas y hacer buenas fotos. Visitará templos cercanos como el templo de Trayambakeshwar y el Neelkanth Mahadev, conocidos por su importancia espiritual y su bella arquitectura.\n\n**Comida (no incluida)**\nDisfrute de los sabores locales en puestos callejeros. Pruebe comida como chaat, pakoras y dulces tradicionales.\n\n**Tarde**\nContinuará hasta el famoso Beatles Ashram (Chaurasi Kutia), un espacio apacible y artístico lleno de grafitis y murales donde se alojaron los Beatles.\n\n**Atardecer**\nAsistirá a la hipnótica Ganga Aarti en el Triveni Ghat o en Parmarth Niketan, una experiencia espiritual verdaderamente inolvidable. Tras la ceremonia, nuestro conductor le llevará de vuelta a su hotel.",
+  "highlights": [
+   "Evitar el tráfico y dedicar más tiempo a ver Rishikesh",
+   "Una jornada por Rishikesh sobre dos ruedas",
+   "Ideal para quienes viajan solos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en scooter",
+   "Combustible y aparcamiento incluidos",
+   "Botella de agua de cortesía",
+   "Guía conductor experimentado y cercano, además de narrador",
+   "Guía que habla varios idiomas",
+   "Acceso a algunos lugares escondidos",
+   "Acceso a playas y templos poco conocidos"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visita a Dharavi",
   "metaTitle": "Dharavi y Dhobi Ghat con guía local en Bombay",
