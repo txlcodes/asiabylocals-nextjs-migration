@@ -6358,6 +6358,101 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Sí: la mayoría de las tiendas serias de Johari Bazaar y MI Road ofrecen **envío internacional** con DHL, FedEx o India Post. Pida un recibo adecuado con el número GST de la tienda. En el caso de las gemas, asegúrese de que el certificado gemológico se incluya en la documentación del envío."
    }
   ]
+ },
+ "best-time-to-visit-jaipur": {
+  "title": "Mejor época para visitar Jaipur: guía mes a mes del clima y las fiestas 2026",
+  "description": "Mejor época para visitar Jaipur en 2026: clima mes a mes, temperaturas, festivales (Holi, Diwali, Festival de Literatura), afluencia y qué llevar.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Mejores meses",
+    "value": "De octubre a marzo (invierno)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Temporada alta",
+    "value": "De noviembre a febrero"
+   },
+   {
+    "icon": "Info",
+    "label": "Mes más caluroso",
+    "value": "Mayo (hasta 45 °C)"
+   },
+   {
+    "icon": "Map",
+    "label": "Monzón",
+    "value": "De julio a septiembre"
+   },
+   {
+    "icon": "Calendar",
+    "label": "Festival principal",
+    "value": "Jaipur Literature Festival (enero)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "¿Cuándo conviene visitar Jaipur? La respuesta breve",
+    "content": "La **mejor época para visitar Jaipur va de octubre a marzo**, la temporada de invierno, cuando las temperaturas son cómodas (15 a 28 °C), las lluvias son prácticamente nulas y los fuertes y palacios se pueden recorrer sin el calor asfixiante que define el verano rajastaní.\n\nDentro de esa ventana de seis meses, **de noviembre a febrero** es el momento óptimo: mañanas frescas perfectas para el [Fuerte Amber](/india/jaipur/amber-fort) al amanecer, tardes templadas ideales para los bazares y anocheceres limpios que hacen realmente mágicas las puestas de sol en el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort). También es cuando el calendario festivo alcanza su pico: el Jaipur Literature Festival (enero), la fiesta de las cometas (14 de enero) y Holi (marzo) caen en este periodo.\n\nLa contrapartida son las multitudes: diciembre y enero son los meses más concurridos, con los precios hoteleros en su máximo anual y monumentos como el [Hawa Mahal](/india/jaipur/hawa-mahal) y el [City Palace](/india/jaipur/city-palace-jaipur) llenos de turistas nacionales e internacionales.\n\nPara **viajeros atentos al presupuesto** o a quienes no moleste el calor, **octubre y marzo** ofrecen la mejor relación calidad-precio: temperaturas casi invernales con muchos menos turistas y tarifas hoteleras más bajas.\n\nLos **meses de verano (de abril a junio)** conviene evitarlos salvo que haya una razón muy concreta. Las temperaturas superan con frecuencia los 40 °C y alcanzan los 45 °C en mayo, lo que hace físicamente peligrosas las visitas al aire libre a mediodía.\n\nEl **monzón (de julio a septiembre)** es una opción válida para viajeros aventureros: el calor se rompe, las colinas Aravalli se vuelven de un verde intenso, los fuertes y palacios quedan envueltos en nubes espectaculares y el número de turistas cae casi a cero. El inconveniente son las lluvias imprevisibles que pueden alterar el itinerario."
+   },
+   {
+    "title": "El clima de Jaipur mes a mes",
+    "content": "Entender el clima mes a mes ayuda a planificar el viaje perfecto. Esto es lo que puede esperar a lo largo del año.\n\n### Octubre, el mes de apertura\n\nEl monzón se retira a principios de octubre y deja cielos despejados y temperaturas que bajan de más de 35 °C a unos cómodos **25 a 32 °C**. La humedad cae con fuerza. El paisaje sigue verde por las lluvias y las colinas Aravalli en torno al [Fuerte Amber](/india/jaipur/amber-fort) están en su momento más fotogénico. El número de turistas empieza a subir, pero sigue siendo manejable. Los precios hoteleros son moderados.\n\n**Veredicto**: excelente relación calidad-precio, con un tiempo casi perfecto y menos gente que en temporada alta.\n\n### Noviembre, empieza la temporada alta\n\nLas temperaturas se asientan entre **15 y 28 °C**, ideales para hacer turismo todo el día. Las mañanas son lo bastante frescas para recorrer a pie los bazares del casco antiguo y las tardes son cálidas sin resultar agobiantes. Llegan los primeros turistas internacionales de la temporada y los precios hoteleros empiezan a subir hacia el pico de diciembre.\n\n**Evento clave**: Diwali (fiesta de las Luces) suele caer en noviembre y convierte Jaipur en un espectáculo de lámparas de aceite, fuegos artificiales y compras festivas. Los mercados se llenan de dulces y adornos.\n\n### Diciembre, pico de Navidad y Año Nuevo\n\nEl mes más fresco: **8 a 22 °C**. Por la mañana y por la noche hace falta una chaqueta ligera. Es Jaipur en su momento más cómodo y más concurrido. Los viajeros indios llegan en masa durante las vacaciones navideñas y el número de visitantes internacionales alcanza su máximo. Los precios hoteleros están en su tope anual.\n\n**Consejo**: reserve hoteles y guías con al menos 4 a 6 semanas de antelación para viajar en diciembre.\n\n### Enero, temporada de festivales\n\nTemperaturas similares a diciembre: **8 a 22 °C**, con mañanas frías que dan paso a tardes agradables. Enero es la **corona festiva** de Jaipur:\n\n- **Jaipur Literature Festival** (normalmente a finales de enero): el mayor festival literario gratuito del mundo, que atrae a más de 500.000 visitantes en 5 días al Diggi Palace. Autores, políticos, cineastas y pensadores de todo el mundo. Entrada completamente libre.\n- **Makar Sankranti, la fiesta de las cometas** (14 de enero): toda la ciudad sube a las azoteas a volar cometas. El cielo de la Ciudad Rosa se convierte en un lienzo giratorio de miles de cometas de colores. Los puestos callejeros venden dulces de sésamo (til). Una de las fiestas más fotogénicas de la India.\n\n### Febrero, el mejor mes para fotografiar\n\nLas temperaturas empiezan a subir: **10 a 25 °C**. La calidad de la luz es excepcional: cielos despejados, sol invernal bajo y apenas calima crean las mejores condiciones fotográficas del año. La afluencia baja desde el pico de enero y los precios hoteleros ceden un poco.\n\n**Evento clave**: el Festival del Elefante (normalmente a principios de marzo, a veces a finales de febrero), con un desfile colorido de elefantes engalanados, actuaciones culturales y juegos tradicionales en el estadio Chaugan, en el casco antiguo.\n\n### Marzo, Holi y temporada media\n\nEl tiempo cambia: **15 a 32 °C**. Principios de marzo sigue siendo cómodo; a finales empieza a hacer calor. Es el mes culturalmente más emocionante:\n\n- **Holi** (normalmente a principios o mediados de marzo): la fiesta de los Colores convierte las calles de Jaipur en una explosión de polvos de colores, globos de agua y caos alegre. Vecinos y visitantes acaban empapados de color. Reserve una [experiencia guiada de Holi](/india/jaipur) para participar con seguridad y entender las tradiciones.\n- **Fiesta de Gangaur** (marzo o abril): la fiesta femenina más importante de Rajastán, en honor a la diosa Parvati. Una magnífica procesión de palanquines decorados, carros de camellos y bailarines folclóricos recorre el casco antiguo desde el [City Palace](/india/jaipur/city-palace-jaipur) hasta Talkatora.\n\n### Abril, empieza el calor\n\nLas temperaturas saltan a **25 a 38 °C**. Mañanas agradables y tardes realmente calurosas. La afluencia baja mucho y los precios hoteleros caen a tarifas de temporada media. Hay que salir temprano (antes de las 10:00) y descansar por la tarde.\n\n### Mayo, pleno verano\n\nEl mes más caluroso: **28 a 45 °C**. El clima desértico llega a su extremo, con un calor seco y abrasador que hace peligrosa cualquier actividad al aire libre a mediodía. La ciudad está tranquila: incluso los vecinos evitan exponerse sin necesidad. Los precios hoteleros están en su mínimo anual.\n\n**Si tiene que ir**: limite las visitas a 6:00-9:00 y 17:00-19:00. Lleve más de 3 litros de agua. Evite por completo los recorridos a pie y use coche climatizado.\n\n### Junio, antes del monzón\n\nParecido a mayo: **28 a 43 °C**, pero con humedad creciente conforme se acerca el monzón. Ocasionales tormentas de polvo premonzónicas pueden reducir la visibilidad y alterar los desplazamientos. La ciudad parece un horno con humedad añadida.\n\n### Julio y agosto, monzón\n\nEl monzón llega a principios de julio y rompe el calor de golpe. Las temperaturas bajan a **25 a 35 °C**. Las lluvias son intermitentes: chaparrones fuertes de una o dos horas seguidos de sol y arcoíris.\n\n**Ventajas**: muchísimos menos turistas. Hoteles al 50 o 60 % de los precios de temporada alta. Las colinas Aravalli se vuelven verde esmeralda. Las nubes de tormenta sobre los fuertes dan fotografías espectaculares.\n\n**Inconvenientes**: la lluvia imprevisible puede cancelar o retrasar planes. Algunas carreteras de montaña (hacia el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort)) pueden quedar temporalmente impracticables. La humedad hace menos cómodas las visitas en interiores.\n\n### Septiembre, final del monzón\n\nEl monzón se debilita: **24 a 33 °C**. Las lluvias son menos frecuentes e intensas. El paisaje está en su máximo verdor. La infraestructura turística está tranquila y acogedora. Los precios siguen bajos.\n\n**Veredicto**: mes infravalorado, cálido pero no extremo, verde y precioso, con monumentos casi vacíos."
+   },
+   {
+    "title": "Qué llevar a Jaipur, estación por estación",
+    "content": "### Invierno (de octubre a marzo)\n\n- **Capas**: las mañanas y las noches pueden ser frías (8 a 15 °C). Lleve un forro polar o chaqueta ligera para las visitas al [Fuerte Amber](/india/jaipur/amber-fort) a primera hora y las puestas de sol en el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort).\n- **Calzado cómodo para caminar**: imprescindible para recorrer los fuertes (escalones empinados, suelos irregulares) y los bazares. Evite las sandalias en los fuertes: los escalones de piedra pueden resbalar.\n- **Protector solar y sombrero**: incluso en invierno el sol de Rajastán es fuerte. SPF 50+ y sombrero de ala ancha son esenciales.\n- **Ropa discreta**: Jaipur es conservadora. Cúbrase hombros y rodillas en templos y lugares religiosos. El algodón o el lino ligeros de manga larga funcionan bien.\n- **Pañuelo o chal**: versátil, sirve para cubrirse la cabeza en los templos, abrigar por la noche y proteger del sol de día. Compre un bonito pañuelo estampado en bloque en Bapu Bazaar como primera adquisición.\n- **Botella reutilizable**: manténgase hidratado. Rellénela en hoteles y restaurantes en lugar de comprar botellas de plástico.\n\n### Verano (de abril a junio)\n\n- **Algodón o lino ligero y transpirable**: de manga larga para proteger del sol. Evite los sintéticos, que retienen el calor.\n- **Sombrero de ala ancha y gafas de sol**: innegociables. El sol de Rajastán es implacable.\n- **Protector solar SPF 50+**: reaplíquelo cada 2 horas. El aire seco engaña: puede que no note la quemadura hasta que es tarde.\n- **Sobres de electrolitos**: disueltos en agua previenen la deshidratación. Se venden en cualquier farmacia.\n- **Botella térmica**: mantiene el agua fresca con más de 40 °C. Lleve al menos 2 litros.\n\n### Monzón (de julio a septiembre)\n\n- **Ropa de secado rápido**: el algodón tarda una eternidad en secarse con la humedad. Los tejidos sintéticos ligeros o mezclas secan antes.\n- **Chaqueta impermeable**: un chubasquero plegable es imprescindible. El paraguas sirve en la ciudad, pero resulta poco práctico en los fuertes.\n- **Bolsa o funda impermeable**: proteja el móvil, la cámara y el pasaporte de los chaparrones repentinos.\n- **Calzado con buen agarre**: los escalones mojados de los fuertes resbalan. Una suela con tracción es esencial.\n- **Repelente de mosquitos**: la actividad de los mosquitos aumenta con el monzón. Los productos con DEET son los más eficaces."
+   },
+   {
+    "title": "Calendario de fiestas de Jaipur 2026, fechas clave",
+    "content": "El calendario cultural de Jaipur está repleto de fiestas que convierten la ciudad en un espectáculo de color, sonido y tradición. Planificar el viaje en torno a un gran festival añade una dimensión inolvidable.\n\n### Enero\n- **Makar Sankranti, fiesta de las cometas** (14 de enero): toda la ciudad vuela cometas desde las azoteas. El cielo se convierte en un lienzo de miles de cometas de colores. Comida callejera, música y celebración compartida. Se vive mejor desde una terraza.\n- **Jaipur Literature Festival** (finales de enero): el mayor festival literario gratuito del mundo, en el Diggi Palace. Más de 500.000 visitantes en 5 días. Entrada libre. Un cartel impresionante de autores, pensadores y celebridades.\n\n### Febrero y marzo\n- **Festival del Elefante** (principios de marzo): elefantes engalanados desfilan por el casco antiguo, con actuaciones culturales, música folclórica y juegos tradicionales en el estadio Chaugan.\n\n### Marzo\n- **Holi** (fiesta de los Colores): normalmente a principios o mediados de marzo. La fiesta más exuberante de la India: las calles estallan en polvos de colores y agua. Lleve ropa que no le importe estropear. Absolutamente inolvidable.\n- **Fiesta de Gangaur** (marzo o abril): la fiesta femenina más importante de Rajastán, con una magnífica procesión que parte del [City Palace](/india/jaipur/city-palace-jaipur) con palanquines decorados, carros de camellos y bailarines folclóricos.\n\n### Julio y agosto\n- **Fiesta de Teej** (julio o agosto): celebra el monzón y el reencuentro de Shiva y Parvati. Las mujeres visten de verde, se mecen en columpios decorados y cantan canciones tradicionales. Procesión por el casco antiguo con elefantes engalanados y carrozas culturales.\n\n### Octubre y noviembre\n- **Dussehra** (octubre): fiestas con quema de efigies que celebran la victoria del bien sobre el mal. Enormes figuras de Ravana arden por toda la ciudad entre fuegos artificiales y algarabía.\n- **Diwali** (octubre o noviembre): la fiesta de las Luces. El casco antiguo se ilumina con miles de lámparas de aceite y luces eléctricas. El [Hawa Mahal](/india/jaipur/hawa-mahal) y el [City Palace](/india/jaipur/city-palace-jaipur) lucen espectacularmente iluminados. Fuegos artificiales, dulces y compras.\n\n### Todo el año\n- **Mercados nocturnos**: cada sábado por la tarde, la ciudad amurallada amplía el horario de los bazares con actuaciones culturales y puestos de comida callejera a lo largo de Johari Bazaar y Bapu Bazaar.\n\n**Consejo de reserva**: durante las grandes fiestas (Diwali, Holi, Festival de Literatura, fiesta de las cometas), los hoteles se llenan con semanas de antelación y los precios suben mucho. Reserve alojamiento y [visitas guiadas](/india/jaipur) con al menos 4 a 6 semanas de antelación."
+   },
+   {
+    "title": "Planifique su viaje perfecto a Jaipur",
+    "content": "Ya venga por el sol del invierno, por los colores de las fiestas o por la fuerza del monzón, nuestros guías locales se aseguran de que viva lo mejor de Jaipur."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es el mejor mes para visitar Jaipur?",
+    "a": "**Noviembre, febrero y octubre** son los mejores meses. Noviembre y febrero ofrecen temperaturas ideales (15 a 28 °C) con menos gente que el pico de diciembre y enero. Octubre tiene un tiempo parecido y precios aún más bajos."
+   },
+   {
+    "q": "¿Merece la pena visitar Jaipur en verano?",
+    "a": "**Por lo general, no.** En mayo y junio las temperaturas alcanzan los 43 a 45 °C, lo que hace peligrosas las visitas al aire libre a mediodía. Si tiene que ir, limite las actividades a primera hora (6:00 a 9:00) y al atardecer (17:00 a 19:00), y desplácese en coche climatizado entre monumentos."
+   },
+   {
+    "q": "¿Se puede visitar Jaipur durante el monzón?",
+    "a": "**Sí, si es flexible.** De julio a septiembre hay lluvias intensas intermitentes, pero también cielos espectaculares, paisajes verdes, monumentos casi vacíos y precios hoteleros un 50 o 60 % por debajo de la temporada alta. Lleve ropa impermeable y asuma que algún plan habrá que ajustarlo."
+   },
+   {
+    "q": "¿Cuándo se celebra el Jaipur Literature Festival?",
+    "a": "Normalmente **a finales de enero** (las fechas exactas varían cada año). Dura 5 días en el Diggi Palace con entrada libre. Es el mayor festival literario gratuito del mundo, con más de 500.000 visitantes. Reserve hotel con mucha antelación, la ciudad se llena."
+   },
+   {
+    "q": "¿Cuándo se celebra Holi en Jaipur?",
+    "a": "**Normalmente a principios o mediados de marzo** (la fecha exacta sigue el calendario lunar hindú). Holi es la fiesta de los Colores: las calles estallan en polvos de colores y agua. Lleve ropa que no le importe estropear y únase a la celebración."
+   },
+   {
+    "q": "¿Cuánto frío hace en Jaipur en invierno?",
+    "a": "En diciembre y enero las mañanas pueden bajar a **5 a 8 °C** y subir a 20 o 22 °C a mediodía. Necesitará una capa de abrigo para las visitas tempranas a los fuertes y las puestas de sol, pero las temperaturas diurnas son cómodas."
+   },
+   {
+    "q": "¿Cuándo hay menos gente en Jaipur?",
+    "a": "**De abril a septiembre**, en los meses de verano y monzón, es cuando menos turistas hay. Dentro de la temporada agradable, **octubre y finales de febrero o marzo** reciben bastantes menos visitantes que el pico de noviembre a enero."
+   },
+   {
+    "q": "¿Qué ropa llevar en Jaipur?",
+    "a": "**Ropa discreta y cómoda**: cúbrase hombros y rodillas en templos y lugares religiosos. En invierno (de octubre a marzo), lleve capas para las mañanas frías. En verano, algodón ligero con protección solar. Siempre calzado cómodo para caminar por los fuertes."
+   },
+   {
+    "q": "¿Es octubre un buen momento para visitar Jaipur?",
+    "a": "**Excelente.** Octubre es uno de los meses con mejor relación calidad-precio. El monzón acaba de terminar y deja el paisaje verde y el aire limpio. Las temperaturas son cómodas (25 a 32 °C), la afluencia es moderada y los precios hoteleros son bastante más bajos que en temporada alta."
+   },
+   {
+    "q": "¿Cuándo es la fiesta de las cometas en Jaipur?",
+    "a": "El **14 de enero** de cada año (Makar Sankranti). Toda la ciudad vuela cometas desde las azoteas y crea un espectáculo aéreo impresionante. Los puestos callejeros venden dulces de sésamo (til). Es una de las experiencias más fotogénicas de Jaipur."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {
