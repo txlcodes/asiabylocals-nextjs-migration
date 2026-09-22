@@ -1981,6 +1981,116 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "Absolut. Agra war die **Hauptstadt des Mogulreichs** und bietet viel mehr: das Rote Fort (38 Hektar UNESCO-Festung), Itimad-ud-Daula (das Baby Taj, architektonischer Vorläufer des Taj), Fatehpur Sikri (Akbars Geisterhauptstadt, 40 km entfernt), den Gewürzmarkt am Kinari Bazaar und die Pietra-dura-Werkstätten. In zwei Tagen sehen Sie all das."
    }
   ]
+ },
+ "best-time-to-visit-agra": {
+  "title": "Beste Reisezeit für Agra: der Monat-für-Monat-Guide 2026",
+  "description": "Beste Reisezeit für Agra 2026: Wetter, Besucherzahlen, Feste und Fototipps Monat für Monat. Oktober bis März ist Hochsaison, und hier steht genau, warum.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Beste Monate",
+    "value": "Oktober bis März"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Meiden",
+    "value": "April bis Juni (über 45 °C)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Bestes Licht",
+    "value": "Sonnenaufgang (6:00 bis 7:30 Uhr)"
+   },
+   {
+    "icon": "Map",
+    "label": "Großes Fest",
+    "value": "Taj Mahotsav (Februar)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Wann sollten Sie Agra besuchen? Die endgültige Antwort",
+    "content": "**Die beste Reisezeit für Agra ist Oktober bis März**, darin sind sich Reiseprofis, Fotografen und lokale Guides einig. In diesen sechs Monaten liegen die Temperaturen bei angenehmen 10 bis 25 °C, der Himmel ist meist klar und der weiße Makrana-Marmor des [Taj Mahal](/india/agra/taj-mahal) leuchtet am hellsten.\n\nDoch innerhalb dieses Fensters gibt es erhebliche Unterschiede, die Ihr Erlebnis prägen. Dezember und Januar bringen Morgennebel, der das Taj bis 9 oder 10 Uhr völlig verhüllen kann, ein Desaster für einen geplanten Sonnenaufgangsbesuch. November und Februar bieten den klarsten Himmel. März ist der Übergangsmonat: Die Temperaturen steigen, die Besucherzahlen sinken.\n\nDie schlechteste Zeit ist **April bis Juni**, wenn die Temperaturen regelmäßig 45 °C übersteigen. Der rote Sandstein des [Roten Forts](/india/agra/agra-fort) speichert Hitze wie ein Ofen, und selbst der Marmor des Taj Mahal brennt durch die vorgeschriebenen Schuhüberzieher. Der Monsun (Juli bis September) bringt dramatische Wolken, aber extreme Luftfeuchtigkeit und mögliche Überschwemmungen.\n\nDieser Guide schlüsselt jeden Monat mit echten Temperaturdaten, Besucheranalyse, Lichtqualität und Festkalender auf, damit Sie das perfekte Zeitfenster finden."
+   },
+   {
+    "title": "Monat für Monat: Wetter und Besucherzahlen",
+    "content": "Jeder Monat in Agra bietet ein deutlich anderes Reiseerlebnis. Hier die detaillierte Aufschlüsselung."
+   },
+   {
+    "title": "Oktober und November: das goldene Fenster",
+    "content": "**Oktober** markiert das Ende des Monsuns und den Beginn der besten Reisesaison. Die Luft ist nach Monaten Regen sauberer, die Gärten sind üppig grün und die Temperaturen sinken auf angenehme 25 bis 34 °C. Der Yamuna führt viel Wasser, was bessere Spiegelfotos vom Mehtab Bagh ermöglicht.\n\nDer einzige Nachteil ist die restliche Feuchtigkeit des abziehenden Monsuns. Bis Mitte Oktober verschwindet sie weitgehend, und die Luft wird frisch.\n\n**November** ist wohl der beste Monat überhaupt:\n- **Temperatur:** 20 bis 29 °C, perfekt für 8 bis 12 km zu Fuß zwischen den Monumenten\n- **Sicht:** glasklarer Himmel, kein Nebel, kein Dunst, keine Monsunwolken\n- **Sonnenaufgang:** das goldene Licht auf dem Marmor des Taj Mahal ist am fotogensten\n- **Besucher:** viele, aber beherrschbar, die Hochsaison hat noch nicht ganz begonnen\n- **Fest:** Diwali fällt oft in den Oktober oder November, und Agras Monumente werden manchmal festlich beleuchtet\n\n### Fototipp\nDer November-Sonnenaufgang (gegen 6:20 Uhr) liefert warmes, flaches Licht auf die Ostseite des Taj Mahal, mit tiefen Schatten in den Bogennischen und außergewöhnlicher Zeichnung der Einlegearbeiten. Nutzen Sie einen Polfilter, um den blauen Himmel hinter dem weißen Marmor zu verstärken.\n\nFür das ultimative Sonnenaufgangserlebnis ist unsere [Taj Mahal Sonnenaufgangstour](/india/agra/taj-mahal-sunrise-tour) genau auf das optimale Fotofenster abgestimmt."
+   },
+   {
+    "title": "Dezember und Januar: schön, aber neblig",
+    "content": "Dezember und Januar sind Hochsaison in Agra, aus gutem Grund: kühles Wetter (8 bis 24 °C), oft klarer Himmel und die besondere Energie der Feiertage.\n\n**Doch es gibt ein großes Risiko: Nebel.**\n\nVon Mitte Dezember bis Ende Januar ist dichter Morgennebel in der Ganges-Ebene häufig. An starken Nebeltagen sinkt die Sicht unter 50 Meter und das Taj Mahal bleibt bis 9 oder 10 Uhr unsichtbar. Wer den Sonnenaufgang geplant hat, sieht womöglich 2 bis 3 Stunden nur weißen Dunst.\n\n### Die Nebelstrategie\n- **Prüfen Sie die Vorhersage** am Vorabend. Bei Nebel verschieben Sie den Besuch auf 9:30 bis 10 Uhr, wenn er sich meist lichtet.\n- **Setzen Sie auf die „Enthüllung“:** Manche Fotografen bevorzugen sie sogar. Wenn sich der Nebel lichtet, taucht das Taj in einer traumhaften Sequenz aus dem Dunst auf.\n- **Haben Sie einen Plan B.** Besuchen Sie morgens das [Rote Fort](/india/agra/agra-fort) (weniger nebelanfällig, da Innenräume), dann das Taj im klaren Nachmittagslicht.\n- **Winterabende sind magisch.** Das Licht zwischen 16 und 17 Uhr im Dezember taucht den Marmor in ein warmes Gold, das dem Sonnenaufgang gleichkommt.\n\n### Dezember-Ereignisse\n- **Weihnachten und Neujahr:** Agras historische Hotels (ITC Mughal, Oberoi Amarvilas) bieten besondere Dinner und Events. Früh buchen.\n- **Mogul-Kulturspaziergänge:** Lokale Organisationen bieten in der Festzeit manchmal besondere Spaziergänge durch das alte Agra an.\n\n### Januar-Ereignisse\n- **Republic Day (26. Januar):** Nationalfeiertag. Monumente geöffnet, eventuell geänderte Zeiten, patriotischer Schmuck.\n- **Makar Sankranti (14. Januar):** Drachenfest. Der Himmel über Agra füllt sich mit Tausenden bunten Drachen, ein spektakulärer Anblick von den Terrassen des Roten Forts.\n\n### Warnung vor Andrang\nVom 20. Dezember bis 5. Januar ist absoluter Hochsaison-Gipfel: Internationale Touristen, indische Inlandstouristen und Schulferiengruppen treffen gleichzeitig ein. Rechnen Sie mit 45 bis 60 Minuten Schlange an den Toren des Taj Mahal. Tickets lange im Voraus buchen und mindestens 30 Minuten vor dem Zeitfenster da sein."
+   },
+   {
+    "title": "Februar und März: der ideale Punkt",
+    "content": "Der Februar ist der Monat, den Profifotografen und erfahrene Indienreisende wählen:\n\n**Vorteile des Februars:**\n- **Kein Nebel:** Der Winternebel verschwindet Anfang Februar, die Sicht ist wieder glasklar\n- **Perfekte Temperatur:** 12 bis 26 °C, warm genug für Komfort, kühl genug für lange Wege\n- **Weniger Besucher:** Der Weihnachtsandrang ist vorbei, aber es ist noch Hochsaison, das Beste aus beiden Welten\n- **Taj Mahotsav:** Indiens führendes Kultur- und Handwerksfestival, jedes Jahr im Februar in Shilpgram (neben dem Osttor des Taj Mahal). Zehn Tage Handwerksvorführungen, Mogul-Essensstände, Volksmusik und Tanz\n\n### Taj Mahotsav (meist 18. bis 27. Februar)\nEiner der besten Gründe für einen Besuch im Februar. Das Festival zeigt:\n- **Meisterhandwerker** aus ganz Indien: Marmoreinlage (Parchin Kari), Miniaturmalerei, Zardozi-Stickerei und blaue Keramik\n- **Live-Auftritte** klassischer Hindustani-Musik, Kathak-Tanz und Qawwali (sufische Andachtsmusik)\n- **Essensstände** mit authentischer Mogul-Küche: Kebabs, Biryanis und Agras berühmtes Petha in Dutzenden Sorten\n- **Eintritt:** 50 ₹ pro Person\n\nDas Festivalgelände liegt direkt neben dem Osttor des Taj Mahal, ideal, um Monument und Kultur zu verbinden.\n\n**März** ist der Übergang zum Sommer. Die erste Hälfte (1. bis 15. März) ist noch sehr angenehm, 18 bis 33 °C bei klarem Himmel. Die zweite Hälfte wird warm, vor allem mittags. Wer hitzeempfindlich ist, wählt die ersten zwei Wochen.\n\n### Fototipp für Februar\nDas Winterlicht im Februar erzeugt den höchsten Kontrast des Jahres. Lange Schatten, strahlend weißer Marmor vor tiefblauem Himmel und fast kein Dunst. In diesem Monat entstehen die professionellen Taj-Mahal-Fotos."
+   },
+   {
+    "title": "April bis Juni: der brutale Sommer (wenn möglich meiden)",
+    "content": "Ehrlich gesagt: Agra zwischen April und Juni zu besuchen ist eine echte Herausforderung. Die Temperaturen übersteigen regelmäßig 45 °C, und mit der Luftfeuchtigkeit fühlt es sich wie über 50 °C an.\n\n### Was im Sommer mit den Monumenten passiert\n- **Marmor des Taj Mahal:** Er nimmt Hitze auf und strahlt sie ab. Selbst durch die Schuhüberzieher ist die Plattform unangenehm warm, und die Überzieher sind binnen Minuten durchgeschwitzt.\n- **Roter Sandstein des Forts:** Er wirkt wie ein Brennofen. Die offenen Höfe zwischen 11 und 16 Uhr zu durchqueren ist körperlich zehrend.\n- **Fatehpur Sikri:** Das offene Plateau hat keinerlei Schatten. Im Hochsommer sperrt der ASI mittags manchmal bestimmte Bereiche zur Sicherheit der Besucher.\n\n### Wenn Sie im Sommer kommen MÜSSEN\n- Das Taj Mahal **zur Öffnung (5:30 Uhr im Sommer)** besuchen und bis 8 Uhr fertig sein\n- Mindestens 2 Liter Wasser pro Person mitnehmen\n- Hut, Sonnenbrille und Sonnencreme (LSF 50+)\n- Pausen in klimatisierten Räumen: ITC Mughal und Oberoi Amarvilas nahe dem Taj bieten tagsüber Restaurants\n- Fatehpur Sikri ganz meiden: Das offene Plateau bei 45 °C ist wirklich gefährlich\n\n### Die gute Seite\n- Praktisch keine Menschenmassen. Sie haben das Taj Mahal beim Sonnenaufgang fast für sich.\n- Hotelpreise fallen um 40 bis 60 %. Budgetreisende wohnen im 4-Sterne-Haus zum 2-Sterne-Preis.\n- Das Licht bei Sonnenaufgang (5:30 bis 6:30 Uhr) ist ausgezeichnet: Der flache Winkel schafft dramatische Schatten."
+   },
+   {
+    "title": "Juli bis September: die Monsunzeit",
+    "content": "Der Monsun verwandelt Agra von einer staubigen, ausgedörrten Stadt in eine üppig grüne Landschaft. Der Regen bringt dramatische Wolkenformationen, die Fotografen schätzen: Das Taj Mahal vor einem Gewitterhimmel ist eines der stärksten Motive der Reisefotografie.\n\n### Monsun-Realitäten\n- **Regen:** Juli und August bringen 200 bis 260 mm pro Monat. Nicht ständig, sondern in intensiven Schauern von 2 bis 3 Stunden, gefolgt von klaren Phasen.\n- **Luftfeuchtigkeit:** 80 bis 95 %. Der unangenehmste Faktor: Schweiß verdunstet nicht, selbst moderate Temperaturen wirken drückend.\n- **Hochwasser des Yamuna:** In starken Monsunjahren steigt der Fluss deutlich. Die Gärten nahe dem Taj können unter Wasser stehen. Der Zugang wird fast nie eingeschränkt, aber die Wege sind rutschig.\n\n### Vorteile eines Monsunbesuchs\n- **Dramatische Fotos:** das Taj vor schwarzen Gewitterwolken mit Blitzen im Hintergrund\n- **Üppige Gärten:** Die Charbagh-Gärten sind am grünsten und duftendsten\n- **Kaum Besucher:** Selbst der Inlandstourismus geht stark zurück\n- **Regengewaschener Marmor:** Nach einem Schauer glänzt der Marmor des Taj Mahal förmlich, der Regen reinigt die Oberfläche und verstärkt die Transluzenz\n\n### Monsunstrategie\n- **Wasserdichte Taschen** für Elektronik\n- **Schnelltrocknende Kleidung** und Sandalen mit gutem Halt\n- **Morgenvorhersage prüfen:** Der meiste Regen fällt nachmittags (14 bis 18 Uhr), die Vormittage sind oft klar\n- **Das Taj sieht nach Regen unglaublich aus:** Wer kurz nach einem abziehenden Gewitter kommt, erlebt den Marmor am strahlendsten\n\n### September: der Übergangsmonat\nEnde September zieht sich der Monsun zurück. Der Regen wird sporadisch, die Feuchtigkeit sinkt, die Temperaturen fallen. Die letzte Septemberwoche bietet oft einen Vorgeschmack auf die perfekten Oktoberbedingungen, zu Monsunpreisen."
+   },
+   {
+    "title": "Festkalender: kulturelle Ereignisse, um die sich eine Planung lohnt",
+    "content": "Wer seinen Agra-Besuch mit einem großen Fest verbindet, gewinnt eine außergewöhnliche kulturelle Dimension.\n\n### Große Feste in Agra (ungefähre Termine 2026)\n\n**Taj Mahotsav (18. bis 27. Februar 2026)**\nIndiens führendes Handwerks- und Kulturfestival in Shilpgram neben dem Osttor des Taj Mahal. Zehn Tage Handwerksvorführungen, Mogul-Essensstände, Volksmusik und Tanz. Eintritt: 50 ₹.\n\n**Holi (14. März 2026)**\nDas Fest der Farben. Agra feiert besonders intensiv in der Braj-Region (Agra, Mathura, Vrindavan). Achtung: Alle Monumente sind an diesem Tag geschlossen. Die Straßen können mit Farbpulver und Wasser chaotisch sein. Entweder voll mitmachen oder drinnen bleiben.\n\n**Ram Navami (6. April 2026)**\nHindufest zur Geburt Ramas. Prozessionen an den Tempeln Agras. Monumente normal geöffnet.\n\n**Eid ul-Fitr (März oder April, Datum variabel)**\nEnde des Ramadan. Die Jama Masjid in Agra hält riesige Gebetsversammlungen ab. Ein schönes kulturelles Erlebnis. Die Moschee des Taj Mahal wird für die Eid-Gebete genutzt: Der Zugang kann einen Teil des Tages Gläubigen vorbehalten sein.\n\n**Unabhängigkeitstag (15. August)**\nNationalfeiertag. Monumente geöffnet, eventuell geänderte Zeiten. Fahnenzeremonien am Roten Fort.\n\n**Dussehra (2. Oktober 2026)**\nGroße Ramlila-Aufführungen auf dem Ram-Bagh-Gelände. Riesige Ravana-Figuren werden bei Sonnenuntergang verbrannt. Spektakulär.\n\n**Diwali (21. Oktober 2026)**\nDas Lichterfest. Agras Märkte sind wunderschön beleuchtet. Manche historische Hotels bieten besondere Diwali-Dinner mit Taj-Blick und Feuerwerk. Feuerwerk nahe dem Taj Mahal ist streng verboten, aber von Dachrestaurants in Taj Ganj sieht man oft ferne Feuerwerke.\n\n**Weihnachten und Neujahr (25. Dezember bis 1. Januar)**\nBesondere Events in den historischen Hotels. Hochsaison: alles lange im Voraus buchen."
+   },
+   {
+    "title": "Sonnenauf- und Sonnenuntergangszeiten nach Jahreszeit",
+    "content": "Da das [Taj Mahal 30 Minuten vor Sonnenaufgang öffnet](/india/agra/taj-mahal-opening-time), ist die genaue Sonnenaufgangszeit für die Planung entscheidend."
+   },
+   {
+    "title": "Planen Sie Ihren Agra-Besuch zur perfekten Zeit",
+    "content": "Jetzt, da Sie wissen, wann Sie reisen sollten, stöbern Sie in unseren Agra-Touren. Jede Tour wird von einem lizenzierten lokalen Guide geführt, der das optimale Timing, die Fotopunkte und die Besucherströme für Ihren Reisemonat kennt."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Welcher Monat ist der beste für das Taj Mahal?",
+    "a": "**November** ist der beste Monat: glasklarer Himmel, angenehme Temperaturen (12 bis 29 °C), kein Nebel, und das goldene Sonnenaufgangslicht auf dem Marmor ist am fotogensten. **Februar** folgt knapp dahinter, mit dem Kulturfestival Taj Mahotsav als Bonus."
+   },
+   {
+    "q": "Ist der Dezember eine gute Zeit für Agra?",
+    "a": "Der Dezember bietet kühle Temperaturen und festliche Stimmung, aber **Morgennebel** kann das Taj Mahal bis 9 oder 10 Uhr verhüllen. Planen Sie im Dezember einen **Besuch am späten Vormittag oder Nachmittag** statt zum Sonnenaufgang, oder prüfen Sie am Vorabend die Vorhersage."
+   },
+   {
+    "q": "Kann ich das Taj Mahal im Sommer besuchen?",
+    "a": "Technisch ja, aber **von April bis Juni übersteigen die Temperaturen 45 °C**. Die Marmorplattform brennt durch die Schuhüberzieher, und Hitzeerschöpfung ist ein echtes Risiko. Wenn es sein muss, kommen Sie **zur Öffnung (5:30 Uhr)** und sind bis 8 Uhr fertig, mit mindestens 2 Litern Wasser."
+   },
+   {
+    "q": "Welche Tageszeit ist die beste für das Taj Mahal?",
+    "a": "**Sonnenaufgang bis 9 Uhr** für das beste Licht und die wenigsten Menschen. Der Marmor wechselt von Grau zu Rosa, Gold und Weiß, während die Sonne steigt. Nach 10:30 Uhr kommen die Busse aus Delhi und das Monument wird sehr voll. Siehe unseren [Guide zu den Öffnungszeiten](/india/agra/taj-mahal-opening-time)."
+   },
+   {
+    "q": "Ist der Monsun eine gute Zeit für Agra?",
+    "a": "Der Monsun (Juli bis September) bringt dramatische Wolken und üppig grüne Gärten, aber extreme Luftfeuchtigkeit (80 bis 95 %). Der Regen fällt in intensiven Schauern von 2 bis 3 Stunden. **Vorteile:** kaum Besucher, atemberaubende Gewitterfotos, regengewaschener Marmor. **Nachteile:** extreme Feuchtigkeit, mögliche Überflutung der Gärten."
+   },
+   {
+    "q": "Wann findet das Taj Mahotsav statt?",
+    "a": "Das **Taj Mahotsav** findet jedes Jahr im **Februar** statt (meist 18. bis 27. Februar) in Shilpgram neben dem Osttor des Taj Mahal: Vorführungen von Meisterhandwerkern, Mogul-Essensstände, Volksmusik und Tanz. Eintritt: 50 ₹."
+   },
+   {
+    "q": "Ist der Januar zu kalt für Agra?",
+    "a": "Januarmorgen können kühl sein (7 bis 8 °C), nachmittags wird es 20 bis 22 °C warm. Das Hauptproblem ist **Nebel**, nicht Kälte. Kleiden Sie sich in Schichten, beim Gehen wird Ihnen schnell warm. Eine leichte Jacke für frühe Besuche."
+   },
+   {
+    "q": "Was ziehe ich für das Taj Mahal an?",
+    "a": "**Ganzjährig:** dezente Kleidung, die Schultern und Knie bedeckt (in den Moscheebereichen Pflicht), bequeme Schuhe. **Winter (Nov. bis Feb.):** Schichten für kalte Morgen, tagsüber ablegen. **Sommer (März bis Juni):** leichte, atmungsaktive Stoffe, Hut und Sonnencreme unerlässlich. **Monsun:** schnelltrocknende Kleidung, wasserdichte Tasche für Elektronik."
+   },
+   {
+    "q": "Wie viele Tage brauche ich in Agra?",
+    "a": "**Ein Tag** deckt Taj Mahal und Rotes Fort ab. **Zwei Tage** sind ideal: dazu Sonnenaufgang, [Fatehpur Sikri](/india/agra/fatehpur-sikri) und Sonnenuntergang im Mehtab Bagh. **Drei Tage** für echte Enthusiasten: Streetfood, versteckte Gräber und die Mogul-Märkte. Siehe unser [Ein-Tages-Programm](/india/agra/1-day-agra-itinerary)."
+   },
+   {
+    "q": "Ist der Oktober zu heiß für Agra?",
+    "a": "Anfang Oktober kann es noch warm sein (30 bis 34 °C) mit restlicher Monsunfeuchte. Ab **Mitte Oktober** bessern sich die Bedingungen deutlich: Die Temperaturen sinken, die Feuchtigkeit verschwindet und die Luftqualität nach dem Monsun ist die beste des Jahres. Ende Oktober ist ausgezeichnet."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {

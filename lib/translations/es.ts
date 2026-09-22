@@ -1981,6 +1981,116 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Por supuesto. Agra fue la **capital del Imperio mogol** y ofrece mucho más: el Fuerte de Agra (fortaleza UNESCO de 38 hectáreas), Itimad-ud-Daula (el Baby Taj, precursor arquitectónico del Taj), Fatehpur Sikri (la capital fantasma de Akbar, a 40 km), el mercado de especias de Kinari Bazaar y los talleres de pietra dura. Dos días permiten verlo todo."
    }
   ]
+ },
+ "best-time-to-visit-agra": {
+  "title": "Mejor época para visitar Agra: guía mes a mes 2026",
+  "description": "Mejor época para visitar Agra en 2026: clima, afluencia, festivales y consejos de fotografía mes a mes. De octubre a marzo es temporada alta, y aquí explicamos exactamente por qué.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Mejores meses",
+    "value": "Octubre a marzo"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Evitar",
+    "value": "Abril a junio (más de 45 °C)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Mejor luz",
+    "value": "Amanecer (6:00 a 7:30)"
+   },
+   {
+    "icon": "Map",
+    "label": "Gran festival",
+    "value": "Taj Mahotsav (febrero)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "¿Cuándo visitar Agra? La respuesta definitiva",
+    "content": "**La mejor época para visitar Agra es de octubre a marzo**: es el consenso universal entre profesionales del viaje, fotógrafos y guías locales. Durante estos seis meses, las temperaturas van de unos cómodos 10 a 25 °C, el cielo suele estar despejado y el mármol blanco de Makrana del [Taj Mahal](/india/agra/taj-mahal) brilla en todo su esplendor.\n\nPero dentro de esta ventana hay variaciones importantes que pueden marcar tu experiencia. Diciembre y enero traen una niebla matinal que puede ocultar por completo el Taj hasta las 9 o las 10, devastador si planeabas ver el amanecer. Noviembre y febrero ofrecen los cielos más despejados. Marzo es el mes de transición: las temperaturas empiezan a subir pero la afluencia baja.\n\nLa peor época es **de abril a junio**, cuando las temperaturas superan con regularidad los 45 °C. La arenisca roja del [Fuerte de Agra](/india/agra/agra-fort) absorbe el calor como un horno, e incluso el mármol del Taj Mahal quema a través de los cubrezapatos obligatorios. El monzón (julio a septiembre) trae nubes espectaculares pero humedad extrema y posibles inundaciones.\n\nEsta guía desglosa cada mes con datos reales de temperatura, análisis de afluencia, calidad de la luz y calendario de festivales para que elijas la ventana perfecta."
+   },
+   {
+    "title": "Análisis mes a mes: clima y afluencia",
+    "content": "Cada mes en Agra ofrece una experiencia de viaje claramente distinta. Aquí tienes el desglose detallado."
+   },
+   {
+    "title": "Octubre y noviembre: la ventana dorada",
+    "content": "**Octubre** marca el final del monzón y el inicio de la mejor temporada. El aire está más limpio tras meses de lluvia, los jardines están verdes y exuberantes y las temperaturas bajan a unos cómodos 25-34 °C. El río Yamuna va lleno, lo que da mejores fotos con reflejo desde Mehtab Bagh.\n\nEl único inconveniente de octubre es la humedad residual del monzón que se retira. A mediados de octubre se disipa en gran parte y el aire se vuelve fresco.\n\n**Noviembre** es probablemente el mejor mes para visitar Agra:\n- **Temperatura:** 20-29 °C, perfecta para caminar 8-12 km entre monumentos\n- **Visibilidad:** cielos cristalinos, sin niebla, sin bruma, sin nubes de monzón\n- **Amanecer:** la luz dorada sobre el mármol del Taj Mahal está en su punto más fotogénico\n- **Afluencia:** alta pero manejable, la temporada alta aún no ha empezado del todo\n- **Festival:** Diwali suele caer en octubre o noviembre, y los monumentos de Agra a veces se iluminan\n\n### Consejo fotográfico\nEl amanecer de noviembre (hacia las 6:20) produce una luz cálida y rasante sobre la cara este del Taj Mahal, con sombras profundas en las hornacinas y una definición extraordinaria de las incrustaciones. Usa un filtro polarizador para intensificar el azul del cielo tras el mármol blanco.\n\nPara la experiencia definitiva del amanecer, nuestra [visita al Taj Mahal al amanecer](/india/agra/taj-mahal-sunrise-tour) está programada para la ventana fotográfica óptima."
+   },
+   {
+    "title": "Diciembre y enero: precioso pero con niebla",
+    "content": "Diciembre y enero son temporada alta en Agra, y con razón: tiempo fresco (8-24 °C), cielos a menudo despejados y la energía especial de las fiestas.\n\n**Sin embargo, hay un riesgo importante: la niebla.**\n\nDe mediados de diciembre a finales de enero, la niebla matinal densa es habitual en la llanura indogangética. En los días de mucha niebla, la visibilidad baja de 50 metros y el Taj Mahal queda oculto hasta las 9 o las 10. Si planeabas el amanecer, puede que solo veas bruma blanca durante 2-3 horas.\n\n### La estrategia de la niebla\n- **Consulta la previsión** la noche anterior. Si anuncian niebla, retrasa la visita a las 9:30-10:00, cuando suele levantarse.\n- **Aprovecha la «revelación»:** algunos fotógrafos la prefieren. Cuando la niebla se disipa, el Taj emerge de la bruma en una secuencia onírica muy atmosférica.\n- **Ten un plan B.** Visita el [Fuerte de Agra](/india/agra/agra-fort) por la mañana (le afecta menos porque recorres espacios interiores) y el Taj con la luz clara de la tarde.\n- **Las tardes de invierno son mágicas.** La luz de 16:00 a 17:00 en diciembre crea un brillo dorado en el mármol que rivaliza con el amanecer.\n\n### Eventos de diciembre\n- **Navidad y Año Nuevo:** los hoteles históricos de Agra (ITC Mughal, Oberoi Amarvilas) organizan cenas y eventos especiales. Reserva con mucha antelación.\n- **Paseos patrimoniales mogoles:** organizaciones locales a veces ofrecen paseos especiales por el viejo Agra en temporada de fiestas.\n\n### Eventos de enero\n- **Día de la República (26 de enero):** fiesta nacional. Monumentos abiertos, horarios posiblemente modificados, decoración patriótica.\n- **Makar Sankranti (14 de enero):** festival de cometas. El cielo de Agra se llena de miles de cometas de colores, un espectáculo desde las terrazas del fuerte.\n\n### Aviso de afluencia\nDel 20 de diciembre al 5 de enero es el pico absoluto: turistas internacionales, turistas indios y grupos escolares coinciden a la vez. Espera colas de 45-60 minutos en las puertas del Taj Mahal. Reserva las entradas con mucha antelación y llega al menos 30 minutos antes de tu franja."
+   },
+   {
+    "title": "Febrero y marzo: el punto dulce",
+    "content": "Febrero es el mes que eligen los fotógrafos profesionales y los viajeros veteranos de India:\n\n**Ventajas de febrero:**\n- **Sin niebla:** la niebla invernal desaparece a principios de febrero y la visibilidad vuelve a ser perfecta\n- **Temperatura perfecta:** 12-26 °C, suficiente calor para estar cómodo y suficiente fresco para caminar mucho\n- **Afluencia en descenso:** la avalancha de Navidad ha pasado, pero sigue siendo temporada alta, lo mejor de ambos mundos\n- **Taj Mahotsav:** el principal festival cultural y artesanal de India, cada febrero en Shilpgram (junto a la puerta este del Taj Mahal). Diez días de demostraciones de artesanos, puestos de comida mogol, música folclórica y danza\n\n### Taj Mahotsav (normalmente del 18 al 27 de febrero)\nUna de las mejores razones para venir en febrero. El festival ofrece:\n- **Maestros artesanos** de toda India con oficios de época mogol: incrustación en mármol (Parchin Kari), miniaturas, bordado zardozi y cerámica azul\n- **Actuaciones en directo** de música clásica indostaní, danza kathak y qawwali (música devocional sufí)\n- **Puestos de comida** con auténtica cocina mogol: kebabs, biryanis y el famoso petha de Agra en decenas de variedades\n- **Entrada:** 50 ₹ por persona\n\nEl recinto del festival está literalmente junto a la puerta este del Taj Mahal, fácil de combinar con la visita al monumento.\n\n**Marzo** marca la transición al verano. La primera quincena sigue siendo muy agradable, 18-33 °C con cielos despejados. La segunda empieza a notarse cálida, sobre todo al mediodía. Si el calor te afecta, apunta a las dos primeras semanas.\n\n### Consejo fotográfico para febrero\nLa luz invernal de febrero crea el mayor contraste del año: sombras largas, mármol de un blanco brillante sobre cielos azul intenso y casi cero bruma de contaminación. Es el mes en que se hacen las fotografías profesionales del Taj Mahal."
+   },
+   {
+    "title": "Abril a junio: el verano brutal (evítalo si puedes)",
+    "content": "Seamos sinceros: visitar Agra entre abril y junio es realmente duro. Las temperaturas superan con regularidad los 45 °C y, con la humedad, la sensación térmica pasa de 50 °C.\n\n### Qué les ocurre a los monumentos en verano\n- **Mármol del Taj Mahal:** absorbe e irradia calor. Incluso con los cubrezapatos obligatorios, la plataforma resulta incómodamente caliente, y los cubrezapatos se empapan de sudor en minutos.\n- **Arenisca roja del Fuerte de Agra:** actúa como un horno. Cruzar los patios abiertos entre las 11:00 y las 16:00 agota físicamente.\n- **Fatehpur Sikri:** la meseta expuesta no tiene sombra alguna. En pleno verano, el ASI a veces restringe el acceso a ciertas zonas al mediodía por seguridad.\n\n### Si TIENES que venir en verano\n- Visita el Taj Mahal **a la apertura (5:30 en verano)** y termina antes de las 8:00\n- Lleva al menos 2 litros de agua por persona\n- Sombrero, gafas de sol y protector solar (SPF 50+)\n- Haz pausas en espacios con aire acondicionado: los hoteles ITC Mughal y Oberoi Amarvilas, cerca del Taj, tienen restaurantes de uso diurno\n- Evita Fatehpur Sikri por completo: la meseta abierta a 45 °C es realmente peligrosa\n\n### El lado bueno\n- Prácticamente sin multitudes. Puedes tener el Taj Mahal casi para ti al amanecer.\n- Los precios de los hoteles bajan un 40-60 %. Los viajeros con presupuesto ajustado pueden alojarse en 4 estrellas a precio de 2.\n- La luz del amanecer (5:30-6:30) es excelente: el ángulo bajo crea sombras dramáticas."
+   },
+   {
+    "title": "Julio a septiembre: la temporada del monzón",
+    "content": "El monzón transforma Agra, una ciudad polvorienta y reseca, en un paisaje verde y exuberante. La lluvia trae formaciones de nubes espectaculares que los fotógrafos valoran: el Taj Mahal contra un cielo de tormenta es una de las imágenes más potentes de la fotografía de viajes.\n\n### Realidades del monzón\n- **Lluvia:** julio y agosto registran 200-260 mm al mes. No es constante: llega en chaparrones intensos de 2-3 horas seguidos de periodos despejados.\n- **Humedad:** 80-95 %. Es el factor más incómodo: el sudor no se evapora y hasta las temperaturas moderadas resultan agobiantes.\n- **Crecidas del Yamuna:** en años de monzón fuerte, el río sube mucho. Los jardines más cercanos al Taj pueden encharcarse. Casi nunca se restringe el acceso, pero los senderos resbalan.\n\n### Ventajas de visitar en el monzón\n- **Fotografía espectacular:** el Taj contra nubes negras de tormenta, con relámpagos al fondo\n- **Jardines exuberantes:** los jardines Charbagh están en su punto más verde y fragante\n- **Mínima afluencia:** incluso el turismo nacional cae notablemente\n- **Mármol lavado por la lluvia:** tras un aguacero, el mármol del Taj Mahal literalmente reluce, la lluvia limpia la superficie y realza su translucidez\n\n### Estrategia para el monzón\n- **Bolsas impermeables** para la electrónica\n- **Ropa de secado rápido** y sandalias con buen agarre\n- **Consulta la previsión matinal:** la mayor parte de la lluvia cae por la tarde (14:00-18:00), las mañanas suelen estar despejadas\n- **El Taj está increíble tras la lluvia:** si llegas justo cuando pasa una tormenta, el mármol estará en su máximo esplendor\n\n### Septiembre: el mes de transición\nA finales de septiembre el monzón se retira. La lluvia se vuelve esporádica, la humedad baja y las temperaturas empiezan a descender. La última semana de septiembre suele ofrecer un anticipo de las condiciones perfectas de octubre, a precios de monzón."
+   },
+   {
+    "title": "Calendario de festivales: eventos culturales que merecen planificación",
+    "content": "Hacer coincidir tu visita a Agra con un gran festival añade una dimensión cultural extraordinaria.\n\n### Grandes festivales en Agra (fechas aproximadas 2026)\n\n**Taj Mahotsav (18-27 de febrero de 2026)**\nEl principal festival de artesanía y cultura de India, en Shilpgram, junto a la puerta este del Taj Mahal. Diez días de demostraciones de maestros artesanos, puestos de comida mogol, música folclórica y danza. Entrada: 50 ₹.\n\n**Holi (14 de marzo de 2026)**\nEl festival de los colores. Agra lo celebra con especial intensidad en la región de Braj (Agra, Mathura, Vrindavan). Aviso: todos los monumentos cierran ese día. Las calles pueden ser caóticas con polvos de colores y agua. O te sumas del todo o te quedas dentro.\n\n**Ram Navami (6 de abril de 2026)**\nFestival hindú que celebra el nacimiento de Rama. Procesiones en los templos de Agra. Los monumentos abren con horario normal.\n\n**Eid al-Fitr (marzo o abril, fecha variable)**\nEl final del Ramadán. La Jama Masjid de Agra acoge grandes reuniones de oración. Una bella experiencia cultural. La mezquita del Taj Mahal se usa para las oraciones del Eid: el acceso puede restringirse a los fieles parte del día.\n\n**Día de la Independencia (15 de agosto)**\nFiesta nacional. Monumentos abiertos, horarios posiblemente modificados. Ceremonias de izado de bandera en el Fuerte de Agra.\n\n**Dussehra (2 de octubre de 2026)**\nGrandes representaciones de Ramlila en los terrenos de Ram Bagh. Quema de enormes efigies de Ravana al atardecer. Espectacular.\n\n**Diwali (21 de octubre de 2026)**\nEl festival de las luces. Los mercados de Agra lucen preciosos. Algunos hoteles históricos ofrecen cenas especiales de Diwali con vistas al Taj y fuegos artificiales. Los fuegos cerca del Taj Mahal están estrictamente prohibidos, pero suelen verse espectáculos lejanos desde las azoteas de Taj Ganj.\n\n**Navidad y Año Nuevo (25 de diciembre a 1 de enero)**\nEventos especiales en los hoteles históricos. Pico de temporada: reserva todo con mucha antelación."
+   },
+   {
+    "title": "Horas de amanecer y atardecer por estación",
+    "content": "Como el [Taj Mahal abre 30 minutos antes del amanecer](/india/agra/taj-mahal-opening-time), conocer la hora exacta de salida del sol es esencial para planificar la visita."
+   },
+   {
+    "title": "Planifica tu visita a Agra en el momento perfecto",
+    "content": "Ahora que sabes cuándo ir, explora nuestras visitas en Agra. Cada una está dirigida por un guía local con licencia que conoce el mejor momento, los puntos fotográficos y los patrones de afluencia de tu mes de viaje."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es el mejor mes para visitar el Taj Mahal?",
+    "a": "**Noviembre** es el mejor mes: cielos cristalinos, temperaturas agradables (12-29 °C), sin niebla y con la luz dorada del amanecer sobre el mármol en su punto más fotogénico. **Febrero** le sigue de cerca, con el añadido del festival cultural Taj Mahotsav."
+   },
+   {
+    "q": "¿Es diciembre una buena época para visitar Agra?",
+    "a": "Diciembre ofrece temperaturas frescas y ambiente festivo, pero la **niebla matinal** puede ocultar el Taj Mahal hasta las 9 o las 10. Si vienes en diciembre, planifica una **visita a media mañana o por la tarde** en lugar del amanecer, o consulta la previsión la noche anterior."
+   },
+   {
+    "q": "¿Puedo visitar el Taj Mahal en verano?",
+    "a": "Técnicamente sí, pero **de abril a junio las temperaturas superan los 45 °C**. La plataforma de mármol quema a través de los cubrezapatos y el golpe de calor es un riesgo real. Si tienes que ir, hazlo **a la apertura (5:30)** y termina antes de las 8:00. Lleva más de 2 litros de agua."
+   },
+   {
+    "q": "¿Cuál es la mejor hora del día para visitar el Taj Mahal?",
+    "a": "**Del amanecer a las 9:00** para la mejor luz y menos gente. El mármol pasa de gris a rosa, dorado y blanco a medida que sube el sol. Después de las 10:30 llegan los autobuses de Delhi y el monumento se llena mucho. Consulta nuestra [guía de horarios del Taj Mahal](/india/agra/taj-mahal-opening-time)."
+   },
+   {
+    "q": "¿Es el monzón una buena época para Agra?",
+    "a": "El monzón (julio a septiembre) trae nubes espectaculares y jardines verdes, pero la humedad es extrema (80-95 %). La lluvia llega en chaparrones intensos de 2-3 horas. **Ventajas:** casi sin multitudes, fotos de tormenta impresionantes, mármol lavado por la lluvia. **Inconvenientes:** humedad extrema, posibles encharcamientos en los jardines."
+   },
+   {
+    "q": "¿Cuándo es el festival Taj Mahotsav?",
+    "a": "El **Taj Mahotsav** se celebra cada año en **febrero** (normalmente del 18 al 27) en Shilpgram, junto a la puerta este del Taj Mahal: demostraciones de maestros artesanos, puestos de comida mogol, música folclórica y danza. Entrada: 50 ₹."
+   },
+   {
+    "q": "¿Es enero demasiado frío para Agra?",
+    "a": "Las mañanas de enero pueden ser frescas (7-8 °C), pero por la tarde se llega a 20-22 °C. La principal preocupación es la **niebla**, no el frío. Vístete por capas, entrarás en calor enseguida al caminar. Lleva una chaqueta ligera para las visitas tempranas."
+   },
+   {
+    "q": "¿Qué ropa llevar para visitar el Taj Mahal?",
+    "a": "**Todo el año:** ropa discreta que cubra hombros y rodillas (obligatoria en las zonas de la mezquita) y calzado cómodo. **Invierno (nov.-feb.):** capas para las mañanas frías, que te irás quitando. **Verano (mar.-jun.):** tejidos ligeros y transpirables, sombrero y protector solar imprescindibles. **Monzón:** ropa de secado rápido y bolsa impermeable para la electrónica."
+   },
+   {
+    "q": "¿Cuántos días necesito en Agra?",
+    "a": "**Un día** cubre el Taj Mahal y el Fuerte de Agra. **Dos días** es lo ideal: añade el amanecer, [Fatehpur Sikri](/india/agra/fatehpur-sikri) y el atardecer en Mehtab Bagh. **Tres días** para los más entusiastas: comida callejera, tumbas ocultas y los mercados mogoles. Consulta nuestro [itinerario de un día](/india/agra/1-day-agra-itinerary)."
+   },
+   {
+    "q": "¿Es octubre demasiado caluroso para Agra?",
+    "a": "A principios de octubre aún puede hacer calor (30-34 °C) con humedad residual del monzón. A **mediados de octubre** las condiciones mejoran mucho: bajan las temperaturas, desaparece la humedad y la calidad del aire posmonzón es la mejor del año. Finales de octubre es excelente."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {
