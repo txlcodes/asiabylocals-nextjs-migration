@@ -5503,6 +5503,173 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "**Mit dem Zug** (Vande Bharat oder Shatabdi): 4 bis 4,5 Stunden, am bequemsten. **Mit dem Auto** (Expressway NH-48): 4,5 bis 5 Stunden, ideal für Touren durch das Goldene Dreieck. **Mit dem Flugzeug**: 1 Stunde, mehrere Verbindungen täglich. **Mit dem Bus** (RSRTC Volvo): 5 bis 6 Stunden, die günstige Variante."
    }
   ]
+ },
+ "1-day-jaipur-itinerary": {
+  "title": "Jaipur an einem Tag 2026: der perfekte Tag in der Rosa Stadt",
+  "seoTitle": "Ein Tag in Jaipur: das perfekte Programm 2026",
+  "description": "Amber Fort zur Öffnung, City Palace, Hawa Mahal und Nahargarh zum Sonnenuntergang: eine erprobte Ein-Tages-Route mit Zeiten und Kosten.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Startzeit",
+    "value": "7:30 Uhr (früh ist entscheidend)"
+   },
+   {
+    "icon": "Map",
+    "label": "Abgedeckte Monumente",
+    "value": "5 bis 6 große Orte"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Eintritte gesamt",
+    "value": "~1.500 ₹ Ausländer (Kombiticket + City Palace)"
+   },
+   {
+    "icon": "Star",
+    "label": "Pflichtpunkte",
+    "value": "Amber Fort + Hawa Mahal + Sonnenuntergang"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Tagesbudget",
+    "value": "3.000 bis 8.000 ₹ pro Person"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Was man an einem Tag in Jaipur realistisch sehen kann",
+    "content": "Ein Tag in Jaipur ist knapp, aber machbar, wenn Sie früh starten und einer geografisch sinnvollen Route folgen. Die zentrale Herausforderung: Das **Amber Fort liegt 11 km nördlich** der Altstadt, Sie müssen es also zuerst besuchen und dann zurückfahren.\n\nDie optimale Route:\n- **Morgen**: Amber Fort (Norden), auf dem Rückweg Fotostopp am Jal Mahal\n- **Mittag**: City Palace, Jantar Mantar und Hawa Mahal, alle in Gehweite in der Altstadt\n- **Nachmittag**: Basarspaziergang und Mittagessen in der Altstadt\n- **Abend**: Sonnenuntergang am Nahargarh Fort\n\nWas Sie an einem Tag **nicht** schaffen: Albert Hall Museum, Birla-Tempel, Galtaji-Affentempel und ausgiebiges Einkaufen in den Basaren. Dafür braucht es einen zweiten Tag.\n\n**Die wichtigste Regel**: Buchen Sie einen privaten Fahrer für den Tag (1.500 bis 2.500 ₹). Die Entfernungen zwischen den Orten, besonders Amber Fort und Nahargarh Fort, machen öffentliche Verkehrsmittel an einem Tag unpraktisch."
+   },
+   {
+    "title": "7:30 Uhr: Amber Fort bei Sonnenaufgang",
+    "content": "Beginnen Sie den Tag am **[Amber Fort](/india/jaipur/amber-fort)** und kommen Sie bis 7:30 Uhr an. Offiziell öffnet das Fort um 8:00 Uhr: Wer als Erster ansteht, erlebt Sheesh Mahal, Diwan-i-Khas und die Höfe in fast völliger Stille, bevor ab 9:30 Uhr die Reisebusse eintreffen.\n\nDas Morgenlicht auf dem Amber Fort ist außergewöhnlich: Der honigfarbene Sandstein leuchtet warm golden, und die Spiegelung im Maota-See darunter ergibt einen der ikonischsten Anblicke Indiens.\n\n**Unbedingt ansehen** (nach Priorität):\n1. **Sheesh Mahal** (Spiegelsaal), der spektakulärste Raum Rajasthans\n2. **Diwan-i-Khas**, bemalte Decken und Marmorgitter\n3. **Sukh Niwas**, die raffiniert wassergekühlte Halle der Freude\n4. **Ganesh Pol**, das kunstvoll bemalte Tor zwischen öffentlichem und privatem Palastbereich\n5. Der Gang über die Wehrmauern mit Panoramablicken ins Tal\n\n**Gesamtzeit**: 90 bis 120 Minuten. Nicht verlängern, der restliche Tag braucht Zeit.\n\n**Eintritt**: 500 ₹ Ausländer / 100 ₹ Inder (kaufen Sie hier das Kombiticket, es deckt 6 weitere Monumente über 2 Tage ab)."
+   },
+   {
+    "title": "10:00 Uhr: Fotostopp am Jal Mahal",
+    "content": "Auf der Rückfahrt vom Amber Fort in die Stadt halten Sie am **Jal Mahal** (Wasserpalast) zum Fotografieren. Dieser Palast aus der Mitte des 18. Jahrhunderts liegt mitten im Man-Sagar-See und ist eines der fotogensten Wahrzeichen Jaipurs.\n\nDer Palast ist für Besucher geschlossen, doch die Uferpromenade bietet sehr gute Blicke: der Palast vor den Nahargarh-Hügeln ist ein klassisches Jaipur-Motiv.\n\n**Dauer**: 15 bis 20 Minuten. Ihr Fahrer kennt die genaue Haltestelle."
+   },
+   {
+    "title": "10:30 Uhr: City Palace und Jantar Mantar",
+    "content": "Vom Jal Mahal sind es 15 Minuten Fahrt zum **[City Palace](/india/jaipur/city-palace-jaipur)** im Herzen der alten ummauerten Stadt.\n\nErkunden Sie die Museumsgalerien, den Mubarak Mahal, den Diwan-i-Khas mit seinen rekordverdächtigen Silberurnen und den schönen Innenhof Pritam Niwas Chowk mit seinen vier Jahreszeitentoren.\n\n**Zeit im City Palace**: 60 bis 75 Minuten.\n\nGehen Sie dann 2 Minuten zum **Jantar Mantar** direkt nebenan. Das UNESCO-gelistete astronomische Observatorium braucht einen Guide, um verständlich zu werden: Ohne Erklärung wirken die Instrumente abstrakt, mit Kontext werden sie faszinierend. Allein die Sonnenuhr Samrat Yantra lohnt den Besuch.\n\n**Zeit im Jantar Mantar**: 30 bis 45 Minuten.\n\n**Eintritte**: City Palace 500 ₹ für Ausländer, Jantar Mantar über das Kombiticket abgedeckt."
+   },
+   {
+    "title": "12:30 Uhr: Hawa Mahal und Mittagessen",
+    "content": "Gehen Sie 5 Minuten vom Jantar Mantar zum **[Hawa Mahal](/india/jaipur/hawa-mahal)**, dem ikonischsten Bauwerk Jaipurs. Der Blick von der gegenüberliegenden Straßenseite an der Kreuzung Badi Chaupar ergibt das klassische Foto.\n\nBetreten Sie den Palast (über das Kombiticket abgedeckt) und steigen Sie in die oberen Stockwerke, um durch die 953 Jharokha-Fenster auf die Gassen der Altstadt zu blicken.\n\n**Dauer**: 30 bis 40 Minuten.\n\n### Mittagessen in der Altstadt\n\nSie sind mitten im Basarviertel, die besten Adressen liegen nur Schritte entfernt:\n- **LMB (Laxmi Misthan Bhandar)** im Johari Bazaar: legendäres vegetarisches rajasthanisches Thali (300 bis 500 ₹)\n- **Rawat Misthan Bhandar** an der Station Road: berühmt für Pyaaz Kachori und Süßigkeiten (100 bis 200 ₹)\n- **Streetfood rund um Badi Chaupar**: Mirchi Vada, Kachori und Lassi (50 bis 150 ₹)\n\n**Dauer des Mittagessens**: 45 bis 60 Minuten."
+   },
+   {
+    "title": "14:00 Uhr: Basarspaziergang",
+    "content": "Nehmen Sie sich 1,5 bis 2 Stunden für die **Basare der alten ummauerten Stadt**, eines der authentischsten und optisch beeindruckendsten Erlebnisse Jaipurs.\n\nVom Hawa Mahal gehen Sie südwärts durch den **Johari Bazaar** (Edelsteine, Goldschmuck, Kundan-Arbeiten). Biegen Sie in den **Bapu Bazaar** ein (blockbedruckte Textilien, Bandhani, Mojari-Schuhe). Wenn die Zeit reicht, stöbern Sie im **Tripolia Bazaar** (Lackarmreifen, Messingwaren).\n\nAuch ohne Einkäufe sind die Basare wichtig für Fotos und Atmosphäre: rosa getünchte Häuser, die Farben der Stoffe und die Energie jahrhundertealten Handels machen dies zum eindrücklichsten Teil des Tages.\n\n**Dauer**: 90 Minuten Gehen und Schauen."
+   },
+   {
+    "title": "16:30 Uhr: Sonnenuntergang am Nahargarh Fort",
+    "content": "Verlassen Sie die Basare um 16:00 Uhr und fahren Sie zum **[Nahargarh Fort](/india/jaipur/nahargarh-fort)**, der Hügelfestung über Jaipur auf dem Aravalli-Kamm. Die Fahrt die kurvige Straße hinauf dauert 20 bis 25 Minuten.\n\nErkunden Sie den **Madhavendra Bhawan** (die Anlage der zwölf Königinnen) und suchen Sie sich dann einen Platz auf den westlichen Mauern für den **Sonnenuntergang**. Der Blick auf die gesamte Rosa Stadt, die im Abendlicht bernsteinfarben leuchtet, gilt regelmäßig als einer der schönsten Sonnenuntergänge ganz Rajasthans.\n\n**Kommen Sie bis 16:30 Uhr**, um das Fort zu erkunden, bevor Sie sich für den Sonnenuntergang positionieren (im Winter etwa 17:30 bis 18:00 Uhr).\n\n**Eintritt**: über das Kombiticket abgedeckt.\n\n### Abendessen\n\nNach Sonnenuntergang serviert das **Restaurant Padao** am Nahargarh Fort rajasthanische Küche mit Panoramablick auf das beleuchtete Jaipur, ein perfekter Abschluss. Alternativ fahren Sie zurück zur MI Road mit Restaurants wie Niros oder Tapri Central."
+   },
+   {
+    "title": "Buchen Sie Ihren Jaipur-Tag mit privatem Guide",
+    "content": "Ein privater Guide mit Transport ist die wirkungsvollste Investition für einen Tag in Jaipur. Unsere lizenzierten Historiker-Guides übernehmen die gesamte Logistik, umgehen die Schlangen, entschlüsseln die Rajputen-Architektur und führen Sie zu den Essensadressen, die aus einem guten Tag einen außergewöhnlichen machen."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Was ist das beste Ein-Tages-Programm für Jaipur?",
+    "a": "Das optimale Programm: **7:30 Uhr** das [Amber Fort](/india/jaipur/amber-fort) bei Sonnenaufgang (2 Stunden). **10:00 Uhr** Fotostopp am Jal Mahal. **10:30 Uhr** [City Palace](/india/jaipur/city-palace-jaipur) und Jantar Mantar (2 Stunden). **12:30 Uhr** [Hawa Mahal](/india/jaipur/hawa-mahal) und Mittagessen in der Altstadt. **14:00 Uhr** Basarspaziergang. **16:30 Uhr** Sonnenuntergang am [Nahargarh Fort](/india/jaipur/nahargarh-fort). **19:00 Uhr** Abendessen im Padao oder an der MI Road."
+   },
+   {
+    "q": "Reicht ein Tag für Jaipur?",
+    "a": "Ein Tag reicht für Jaipurs Höhepunkte: Amber Fort, City Palace, Hawa Mahal, Basarspaziergang und Sonnenuntergang in Nahargarh. Sie schaffen **nicht** das Albert Hall Museum, den Birla-Tempel, Galtaji oder ausgiebiges Einkaufen. Idealerweise verdient Jaipur 2 bis 3 volle Tage."
+   },
+   {
+    "q": "Was kostet ein Tag in Jaipur?",
+    "a": "**Günstig**: 2.000 bis 3.500 ₹ (Kombiticket 1.000 ₹, City Palace 500 ₹, Streetfood, Autorikschas). **Mittelklasse**: 5.000 bis 8.000 ₹ (plus privater Fahrer für 2.000 ₹, Mittagessen im Restaurant, Einkäufe). **Gehoben**: 10.000 bis 20.000 ₹ (privater Guide und Fahrer, gehobene Küche, begleitetes Einkaufen)."
+   },
+   {
+    "q": "Sollte ich für einen Tag in Jaipur einen Guide buchen?",
+    "a": "Ja, sehr zu empfehlen. Amber Fort, City Palace und Jantar Mantar sind architektonisch und historisch komplex. Ein lizenzierter Guide macht sie mit Geschichten und Kontext lebendig, die Hinweistafeln nicht bieten. Die gesparte Zeit bei Transport, Tickets und Orientierung bedeutet 1 bis 2 Orte mehr. Unsere [Jaipur-Touren](/india/jaipur) umfassen Guide und privaten Transport."
+   },
+   {
+    "q": "Kann man Jaipur als Tagesausflug von Delhi machen?",
+    "a": "Möglich, aber anstrengend. Der Vande Bharat Express fährt um 6:00 Uhr in Delhi ab und kommt um 10:30 Uhr in Jaipur an. Rückzüge fahren um 17:30 Uhr. Das ergibt etwa 5 Stunden Besichtigung, genug für Amber Fort, Hawa Mahal und City Palace. Ein **privater Wagen** eignet sich besser, weil er früher losfahren und später zurückkehren kann. Ideal ist mindestens eine Übernachtung."
+   }
+  ]
+ },
+ "amber-fort": {
+  "title": "Amber Fort in Jaipur: vollständiger Besucherguide 2026 (Amer Fort)",
+  "description": "Besucherguide 2026 zum Amber Fort: Eintrittspreise, Sheesh Mahal, beste Besuchszeit, Anfahrt und warum es Rajasthans schönstes Fort ist.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Öffnungszeiten",
+    "value": "Täglich 8:00 bis 17:30 Uhr"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Eintritt",
+    "value": "500 ₹ Ausländer / 100 ₹ Inder"
+   },
+   {
+    "icon": "Map",
+    "label": "Entfernung zur Stadt",
+    "value": "11 km nördlich von Jaipur"
+   },
+   {
+    "icon": "Star",
+    "label": "Höhepunkt",
+    "value": "Sheesh Mahal (Spiegelsaal)"
+   },
+   {
+    "icon": "History",
+    "label": "Erbaut",
+    "value": "1592 von Raja Man Singh I."
+   }
+  ],
+  "sections": [
+   {
+    "title": "Warum das Amber Fort Rajasthans größtes Monument ist",
+    "content": "Das **Amber Fort** (auch Amer Fort) gilt weithin als das eindrucksvollste Monument ganz Rajasthans und als ernsthafter Anwärter auf das schönste Fort Indiens. Überwiegend 1592 von Raja Man Singh I. erbaut und über 150 Jahre von seinen Nachfolgern erweitert, verkörpert es den Höhepunkt der **rajputisch-mogulischen Architekturverschmelzung**: militärische Befestigung und palastartiger Luxus in einer atemberaubenden Anlage.\n\nDas Fort thront eindrucksvoll auf einem Felshügel über dem Maota-See und ist mit dem älteren Jaigarh Fort über einen Tunnelgang auf dem Kamm verbunden. Der Zugang, ob mit dem Auto über die kurvige Straße oder zu Fuß durch das Tor Suraj Pol, enthüllt das Fort nach und nach, mit jeder Kurve mehr von seinen gewaltigen honigfarbenen Sandsteinmauern.\n\nDas Amber Fort ist nicht nur ein Militärbau. Hinter den abweisenden Außenmauern liegen einige der zartesten und erlesensten Palasträume Indiens: Höfe mit Halbedelsteinintarsien, Spiegelsäle, die eine Galaxie aus Lichtreflexen erzeugen, und raffiniert konstruierte Kühlsysteme, die ein bemerkenswertes Verständnis der Physik zeigen."
+   },
+   {
+    "title": "Was man im Amber Fort sehen sollte",
+    "content": "Das Fort gliedert sich in vier Haupthöfe, jeder privater und architektonisch feiner als der vorige.\n\n### Erster Hof: Jaleb Chowk\nDer weite Eingangshof, in dem sich die Armee sammelte. Hier liegen das Tor Suraj Pol (Sonnentor) und der Sila-Devi-Tempel, einer hinduistischen Kriegsgöttin geweiht.\n\n### Zweiter Hof: Diwan-i-Aam\nDie Halle der öffentlichen Audienz, ein Säulensaal mit erhöhter Plattform, von der aus der Maharadscha Bittschriften anhörte. Die Verbindung von rotem Sandstein und Marmor zeigt deutlichen mogulischen Einfluss.\n\n### Dritter Hof: der private Palast\nHier wird das Amber Fort außergewöhnlich:\n- **Ganesh Pol**: das kunstvoll bemalte Tor zwischen öffentlichem und privatem Bereich, jeder Zentimeter mit Fresken und Gitterfenstern bedeckt.\n- **Sheesh Mahal (Spiegelsaal)**: der spektakulärste Raum Rajasthans. Tausende winziger konvexer Spiegel in Wänden und Decke erzeugen selbst bei einer einzigen Kerze einen funkelnden Sternenhimmel-Effekt. Erbaut von Raja Jai Singh I.\n- **Sukh Niwas (Halle der Freude)**: In den Marmorboden gearbeitete Kanäle führten duftendes Wasser durch den Raum, eine antike Klimaanlage.\n- **Jas Mandir**: eine Halle mit Glasintarsien, geschnitzten Marmorpaneelen und doppelt verspiegelten Decken.\n\n### Vierter Hof: Zenana (Frauenquartier)\nEigenständige Appartements, so angeordnet, dass der Maharadscha jede Königin besuchen konnte, ohne dass die anderen davon wussten. Die Gitterfenster (Jalis) sorgten für Belüftung und erlaubten unbemerktes Beobachten."
+   },
+   {
+    "title": "Die Geschichte des Amber Fort: 400 Jahre Rajputen-Macht",
+    "content": "Die Geschichte des Amber Fort umspannt Aufstieg und Niedergang einer der mächtigsten Dynastien Rajasthans, der **Kachhwaha-Rajputen**.\n\n**1592, die Gründung**: Raja Man Singh I., einer der engsten Feldherren des Mogulkaisers Akbar, beginnt den Bau. Sein Bündnis mit den Moguln bringt beispiellosen Reichtum und kulturellen Austausch, was erklärt, warum sich rajputische Wehrarchitektur und mogulische Dekorationskunst hier so nahtlos verbinden.\n\n**1611 bis 1667, der Ausbau unter Mirza Raja Jai Singh I.**: Die berühmtesten Innenräume, darunter Sheesh Mahal und Jas Mandir, entstehen in dieser Zeit. Jai Singh I. hält am Mogulbündnis fest, dient als wichtiger Militärführer und bringt persische Kunsteinflüsse nach Amber.\n\n**1727, der Niedergang**: Als Maharadscha Jai Singh II. in der Ebene darunter **Jaipur** gründet, zieht der Hof in die neue Stadt. Das Amber Fort wird als Residenz nach und nach aufgegeben, bleibt aber ein zeremonieller und verteidigungsstrategischer Ort. Der Umzug geschah, weil Amber die wachsende Bevölkerung nicht mehr tragen konnte und es an Wasser mangelte.\n\n**1868, britische Zeit**: Das Fort wird als geschütztes Monument ausgewiesen. Restaurierungsarbeiten beginnen im frühen 20. Jahrhundert und dauern an. 2013 folgt die Aufnahme in das UNESCO-Welterbe als Teil der Hügelfestungen von Rajasthan."
+   },
+   {
+    "title": "Fotoguide: das Amber Fort festhalten",
+    "content": "Das Amber Fort ist eines der fotogensten Monumente Indiens. Hier die besten Orte und Zeiten.\n\n### Goldene Stunde (7:30 bis 9:00 Uhr)\n- **Vom Maota-See**: Die Spiegelung des Forts im stillen Morgenwasser ergibt das klassische Bild. Gehen Sie ans Ostufer für den besten Winkel.\n- **Eingang Suraj Pol**: Das Morgenlicht trifft das mächtige Tor direkt und lässt den Sandstein tiefgolden leuchten.\n\n### Pflichtmotive im Inneren\n- **Tor Ganesh Pol**: Die bemalte Fassade fotografiert man am besten aus dem zweiten Hof, mit dem ganzen Tor und seinen Gitterfenstern im Bild.\n- **Sheesh Mahal**: Fotografieren ist erlaubt. Nutzen Sie den Handyblitz oder eine kleine Taschenlampe, die Spiegel erwachen im reflektierten Licht.\n- **Pritam Niwas Chowk**: Der Hof, durch die Bogengalerien gesehen, ergibt eine natürliche Rahmung.\n\n### Panoramablicke\n- **Gang über die Wehrmauern**: Die westlichen Mauern bieten weite Blicke über den Maota-See und die Zufahrtsstraße, mit den Aravalli-Hügeln als Kulisse.\n- **Vom Jaigarh Fort**: Nehmen Sie den Verbindungstunnel nach Jaigarh für einen erhöhten Blick hinab auf das Amber Fort, der das ganze Ausmaß der Anlage zeigt.\n\n**Ausrüstung**: Handys und Kameras sind frei. Stative und professionelle Videoausrüstung erfordern eine eigene Genehmigung (500 ₹). Drohnen sind verboten."
+   },
+   {
+    "title": "Beste Besuchszeit und praktische Tipps",
+    "content": "**Beste Zeit**: Kommen Sie um **8:00 Uhr zur Toröffnung**. Ab 9:30 Uhr treffen die ersten Reisebusse ein und das Erlebnis leidet deutlich. Das Morgenlicht auf dem Sandstein ist zudem weit besser zum Fotografieren.\n\n**Anfahrt**: Das Fort liegt 11 km von Jaipurs Altstadt entfernt. Mit Privatwagen oder Taxi (300 bis 500 ₹ pro Strecke). Ihr Fahrer kann am Parkplatz warten. Uber und Ola funktionieren ebenfalls gut.\n\n**Elefantenritte**: Früher eine Hauptattraktion, sind sie aus Tierschutzgründen umstritten. Wir empfehlen sie nicht. Die Anfahrt mit dem Auto oder zu Fuß ist schneller und lässt mehr Zeit im Fort.\n\n**Ton- und Lichtshow**: Eine Abendvorstellung (18:30 Uhr auf Englisch, 200 ₹) inszeniert die Geschichte des Forts mit Licht und Erzählung. Lohnt sich, wenn Sie Zeit haben.\n\n**Dauer**: Planen Sie 90 bis 120 Minuten für einen gründlichen Besuch ein. Wer in unter einer Stunde durchhetzt, verpasst die meisten architektonischen Details.\n\n**Kombinieren mit**: dem Jaigarh Fort (über den Tunnel verbunden, 10 Gehminuten) für Militärgeschichte und Kanonensammlungen. Das Kombiticket deckt beide ab."
+   },
+   {
+    "title": "Erkunden Sie das Amber Fort mit einem lokalen Historiker",
+    "content": "Die 400 Jahre Geschichte des Amber Fort, seine architektonische Symbolik und seine verborgenen Details lassen sich ohne fachkundige Erzählung kaum erfassen. Unsere lizenzierten Guides in Jaipur sind auf Rajputen-Geschichte spezialisiert und entschlüsseln die Spiegelastronomie des Sheesh Mahal, das Privatheitssystem des Zenana und die strategische Militärplanung des Forts."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Was kostet der Eintritt zum Amber Fort?",
+    "a": "500 ₹ für ausländische Touristen, 100 ₹ für indische Staatsbürger. Das **Kombiticket** (1.000 ₹ Ausländer / 300 ₹ Inder) deckt das Amber Fort und sechs weitere Monumente in Jaipur ab und gilt 2 Tage, ein ausgezeichnetes Preis-Leistungs-Verhältnis bei mehreren Besuchen."
+   },
+   {
+    "q": "Wie lange dauert ein Besuch des Amber Fort?",
+    "a": "**90 bis 120 Minuten** für einen gründlichen Besuch mit Guide. Das Fort hat vier Höfe, mehrere Palasträume und weitläufige Wehrmauern. Wer in 45 Minuten durchhetzt, verpasst die meisten architektonischen Details, besonders den Sheesh Mahal und das Frauenquartier."
+   },
+   {
+    "q": "Lohnt sich der Sheesh Mahal im Amber Fort?",
+    "a": "Der Sheesh Mahal (Spiegelsaal) ist der spektakulärste Raum Rajasthans. Tausende winziger konvexer Spiegel in Wänden und Decke erzeugen einen funkelnden Sternenhimmel-Effekt. Er wurde so gestaltet, dass eine einzige Kerzenflamme den ganzen Raum durch Reflexion erhellt. Absolut unverzichtbar."
+   },
+   {
+    "q": "Wann ist die beste Zeit für den Besuch des Amber Fort?",
+    "a": "**8:00 Uhr**, wenn das Fort öffnet. Das Morgenlicht auf dem honigfarbenen Sandstein ist außergewöhnlich, und Sie haben die Höfe fast für sich, bevor ab 9:30 Uhr die Reisebusse eintreffen. Meiden Sie die Mittagszeit (11 bis 14 Uhr), wenn Hitze und Andrang am größten sind."
+   },
+   {
+    "q": "Wie komme ich von Jaipur zum Amber Fort?",
+    "a": "Das Amber Fort liegt 11 km nördlich von Jaipurs Altstadt. **Privatwagen oder Taxi**: 25 bis 30 Minuten, 300 bis 500 ₹. **Uber/Ola**: 200 bis 300 ₹. **Autorikscha**: 150 bis 250 ₹. Das Fort liegt an der Hauptstraße zum Jal Mahal, verbinden Sie beides an einem Vormittag."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
