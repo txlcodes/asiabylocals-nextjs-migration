@@ -3971,6 +3971,145 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas et nourriture"
   ]
  },
+ "sarnath-full-day-tour": {
+  "title": "Varanasi : journée complète et balade en bateau sur le Gange avec guide agréé",
+  "metaTitle": "Varanasi en une journée : ghats, Sarnath, Ganga Aarti et bateau",
+  "metaDescription": "Journée guidée à Varanasi : balade en bateau au lever du soleil sur le Gange, vieille ville, université hindoue de Bénarès, Sarnath et Ganga Aarti du soir.",
+  "shortDescription": "Découvrez les temples sacrés de Varanasi et le campus universitaire avec une voiture climatisée et un guide. Plongez dans les rituels et la culture de la ville en naviguant sur le Gange et en assistant à la cérémonie de la Ganga Aarti.",
+  "fullDescription": "**5h30 : balade en bateau au lever du soleil sur le Gange**\nVous commencez la journée tôt par une paisible navigation sur le Gange. Vous assistez au spectacle magique du lever de soleil sur les ghats de Varanasi, avec les teintes douces de l'aube qui éclairent la ville ancienne et les rituels du bord de l'eau. Vous photographiez la dévotion des pèlerins pendant leurs rites du matin et les reflets scintillants des temples et des ghats dans les eaux sacrées.\n\nPetit-déjeuner, 1 heure (à vos frais).\n\n**La vieille ville de Varanasi**\nVous flânez dans les ruelles et les venelles de la vieille ville, un labyrinthe bordé de temples anciens, de maisons traditionnelles et de bazars animés.\n\n**Université hindoue de Bénarès**\nAprès le petit-déjeuner, direction l'université hindoue de Bénarès à 10h00. Fondée en 1916, c'est le plus vaste campus universitaire d'Asie. Vous parcourez le campus et découvrez le nouveau temple de Vishwanath (temple Birla), puis photographiez la splendeur architecturale de temples comme l'emblématique temple des Singes (temple de Durga), ainsi que la vie de rue animée, les marchés et les échoppes de chai.\n\nVous visitez le temple de Bharat Mata et admirez son étonnante carte en relief de marbre du sous-continent indien, avant de découvrir les traditions du tissage de la soie à Varanasi.\n\n**Après-midi**\nPause déjeuner d'une heure (à vos frais).\n\n**Sarnath**\nAprès le déjeuner, vous rejoignez Sarnath, à courte distance de Varanasi. C'est là que le Bouddha prononça son premier sermon après l'Éveil. Vous explorez les ruines d'anciens monastères bouddhistes, les stupas et le pilier d'Ashoka, dont les inscriptions rappellent la visite de l'empereur Ashoka. Vous photographiez la sérénité des jardins et la portée spirituelle de ce lieu de pèlerinage.\n\n**Soirée**\nPause thé, 1 heure.\n\n**Coucher de soleil au Dashashwamedh Ghat**\nVous rentrez à Varanasi en fin d'après-midi pour assister à l'envoûtante cérémonie de la Ganga Aarti au Dashashwamedh Ghat, l'un des ghats les plus sacrés et les plus animés de la ville. Vous photographiez les rituels élaborés des prêtres, accompagnés de chants, de musique et du balancement rythmé des lampes à huile. À la tombée du jour, l'atmosphère devient irréelle et les lumières se reflètent sur le Gange.",
+  "highlights": [
+   "Une balade en bateau au lever du soleil sur le Gange",
+   "Varanasi avec un guide professionnel agréé",
+   "Les ghats sacrés, les temples et les lieux culturels",
+   "L'une des plus anciennes villes habitées au monde",
+   "Les traditions spirituelles de la ville et la vie locale"
+  ],
+  "included": [
+   "Journée complète personnalisée",
+   "Prise en charge et retour à l'hôtel",
+   "Transport privé climatisé",
+   "Guide agréé",
+   "Balade en bateau le matin (selon la météo)",
+   "Eau minérale",
+   "Droits d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires pour le chauffeur et le guide",
+   "Dons au temple de Kashi Vishwanath"
+  ]
+ },
+ "kashi-vishwanath-temple-guided-tour": {
+  "title": "Réservez un guide officiel pour Varanasi avec la Ganga Aarti",
+  "metaTitle": "Guide officiel à Varanasi : ghats, vieille ville et Sarnath",
+  "metaDescription": "Journée guidée à Varanasi avec guide local : balade en bateau au lever du soleil, temples de la vieille ville, ruelles historiques et site bouddhiste de Sarnath.",
+  "shortDescription": "Découvrez le charme spirituel de Varanasi, l'une des plus anciennes villes habitées au monde, lors de cette journée guidée immersive. Parcourez les ruelles étroites et les rues vibrantes de la vieille ville avec un guide local expérimenté qui vous révèle ses histoires méconnues, ses traditions sacrées et ses monuments historiques.",
+  "fullDescription": "La journée commence tôt par une paisible balade en bateau au lever du soleil sur le Gange sacré. Alors que le soleil se lève sur les ghats, vous voyez les habitants accomplir leurs rituels quotidiens, prier et se baigner dans les eaux sacrées, une expérience culturelle inoubliable qui saisit l'essence spirituelle de Varanasi.\n\nAprès la navigation, vous explorez les temples célèbres et les ruelles animées de la vieille ville, où des traditions séculaires restent bien vivantes. Votre guide partage des éclairages passionnants sur les coutumes hindoues, l'histoire et l'importance des ghats le long du fleuve.\n\nVous poursuivez ensuite vers Sarnath, l'un des plus importants lieux de pèlerinage bouddhistes au monde. C'est là que Gautama Bouddha prononça son premier sermon après l'Éveil. Vous visitez l'historique stupa de Dhamek, les ruines anciennes et de paisibles monastères qui témoignent du profond héritage spirituel de la région.\n\nCette journée guidée mêle parfaitement culture, spiritualité et histoire, pour découvrir la beauté intemporelle de Varanasi en un seul jour.",
+  "highlights": [
+   "Varanasi spirituelle avec un guide professionnel",
+   "Patrimoine de Varanasi et Ganga Aarti avec un guide local expert",
+   "Les ghats sacrés de Varanasi avec un guide privé"
+  ],
+  "included": [
+   "Service de guide touristique",
+   "Véhicule climatisé (si l'option est choisie)",
+   "Balade en bateau le matin sur le Gange (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Billets d'entrée"
+  ]
+ },
+ "kashi-vishwanath-temple-full-day-tour": {
+  "title": "Varanasi : journée privée",
+  "metaTitle": "Varanasi en privé : Kashi Vishwanath, Sarnath et Ganga Aarti",
+  "metaDescription": "Journée privée à Varanasi : bateau au lever du soleil, temple de Kashi Vishwanath, université hindoue de Bénarès, tissage de la soie, Sarnath et Ganga Aarti.",
+  "shortDescription": "Découvrez la spiritualité intemporelle de Varanasi lors d'une journée privée exclusive, pensée pour vous immerger dans les rituels sacrés, les temples anciens et le riche patrimoine culturel de la ville.",
+  "fullDescription": "Programme d'une journée spirituelle et culturelle à Varanasi.\n\n**5h30 : balade en bateau au lever du soleil sur le Gange**\nVous êtes pris en charge à votre hôtel à 5h30 pour une paisible navigation sur le Gange sacré au lever du soleil. Vous assistez aux rituels du matin et aux activités spirituelles le long des ghats, une expérience culturelle vraiment inoubliable.\n\n**Temple de Kashi Vishwanath et balade dans la vieille ville**\nAprès la navigation, vous suivez votre guide expert à pied dans les ruelles étroites de la vieille ville jusqu'au vénéré temple de Kashi Vishwanath, l'un des plus sacrés dédiés au dieu Shiva.\n\nPause petit-déjeuner (à vos frais).\n\n**10h00 : université hindoue de Bénarès**\nVous rejoignez l'université hindoue de Bénarès, fondée en 1916 et considérée comme l'un des plus vastes campus résidentiels d'Asie. Vous y découvrez le musée Bharat Kala Bhavan et le nouveau temple de Vishwanath (temple Birla).\n\n**Temple de Durga**\nVous poursuivez par le temple sacré de Durga, aussi appelé Durga Kund Mandir, l'un des plus importants de Varanasi.\n\n**Atelier de tissage de la soie et pause déjeuner (à vos frais)**\nVers 12h30, vous découvrez les techniques traditionnelles de tissage de la soie qui ont rendu Varanasi mondialement célèbre pour ses saris, avant une pause déjeuner.\n\n**Excursion à Sarnath (si l'option est choisie)**\nVous roulez ensuite environ 13 km jusqu'à Sarnath, le site historique où le Bouddha prononça son premier sermon. Au programme : le stupa de Dhamekh et le musée archéologique de Sarnath (fermé le vendredi).\n\n**17h00 : ghats en soirée et Ganga Aarti**\nDe retour à Varanasi, vous découvrez les lieux de crémation le long des ghats avant de rejoindre le Dashashwamedh Ghat pour assister à la spectaculaire cérémonie de la Ganga Aarti.\n\n**20h00 : retour à l'hôtel**\nAprès la cérémonie, vous êtes confortablement raccompagné à votre hôtel, au terme d'une journée spirituellement enrichissante.",
+  "highlights": [
+   "Visite privée avec voiture climatisée et guide local",
+   "Prise en charge et retour à l'hôtel inclus",
+   "Balade en bateau sur le Gange"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Véhicule climatisé",
+   "Transport privé",
+   "Guide local",
+   "Balade en bateau le matin",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Pourboires",
+   "Droits d'entrée des monuments"
+  ]
+ },
+ "krishna-janmasthan-temple-vridavan-guided-tour": {
+  "title": "Depuis Agra : Mathura et Vrindavan en une journée en voiture",
+  "metaTitle": "Mathura et Vrindavan depuis Agra : temples de Krishna en voiture",
+  "metaDescription": "Excursion d'une journée d'Agra à Mathura et Vrindavan : temple Shri Krishna Janmabhoomi, temple Banke Bihari, temple ISKCON, voiture climatisée et guide.",
+  "shortDescription": "Une excursion d'une journée d'Agra vers Mathura et Vrindavan est une belle occasion de découvrir le charme spirituel de ces villes sacrées. Mathura, considérée comme le lieu de naissance du dieu Krishna, a une grande importance religieuse et accueille chaque année des milliers de fidèles et de voyageurs.",
+  "fullDescription": "Une excursion d'une journée d'Agra à Mathura et Vrindavan offre une belle occasion de découvrir les traditions spirituelles et culturelles profondes de l'Inde. Mathura, considérée comme le lieu de naissance du dieu Krishna, est l'une des villes les plus sacrées de l'hindouisme et attire des pèlerins du monde entier. Elle regorge de temples anciens, de ghats et de marchés animés qui reflètent son riche héritage religieux.\n\nÀ courte distance se trouve Vrindavan, la ville où Krishna aurait passé son enfance. Ce lieu saint est réputé pour ses beaux temples, son atmosphère de dévotion et sa vie spirituelle intense. Vous y découvrez des temples renommés, assistez à des cérémonies et ressentez le charme à la fois paisible et vivant qui fait de Vrindavan l'une des destinations de pèlerinage les plus aimées d'Inde.\n\nLa visite de ces deux villes sacrées offre un aperçu significatif de la dévotion, de l'histoire et des traditions intemporelles de l'Inde.",
+  "highlights": [
+   "Le temple Shri Krishna Janmabhoomi",
+   "Le temple Banke Bihari et le temple ISKCON",
+   "Les autres temples de Vrindavan et la vie spirituelle de la ville"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour l'aller-retour",
+   "Bouteilles d'eau minérale",
+   "Carburant, péages, stationnement et indemnités",
+   "Toutes les taxes, TPS comprise"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Repas"
+  ]
+ },
+ "krishna-janmasthan-temple-full-day-tour": {
+  "title": "Depuis Delhi : Agra et Mathura en une journée",
+  "metaTitle": "Delhi, Agra et Mathura en une journée : Taj Mahal et Prem Mandir",
+  "metaDescription": "Excursion d'une journée depuis Delhi : Taj Mahal, fort d'Agra puis Mathura, ville natale de Krishna, avec le Prem Mandir illuminé, en voiture avec guide.",
+  "shortDescription": "Découvrez l'emblématique Taj Mahal et le fort d'Agra historique, deux sites du patrimoine mondial de l'UNESCO. Après Agra, vous rejoignez la ville sacrée de Mathura, lieu de naissance de Krishna, l'une des divinités les plus vénérées de l'hindouisme, et visitez le superbe Prem Mandir.",
+  "fullDescription": "Découvrez l'emblématique Taj Mahal et le fort d'Agra historique, deux des monuments les plus célèbres d'Agra, tous deux inscrits au patrimoine mondial de l'UNESCO. Admirez la splendeur de marbre blanc du Taj Mahal, élevé par l'empereur Shah Jahan comme symbole d'un amour éternel pour son épouse Mumtaz Mahal. Vous poursuivez par le fort d'Agra, magnifique forteresse de grès rouge qui fut la résidence principale des empereurs moghols.\n\nAprès Agra, vous prenez la route vers la ville sacrée de Mathura, lieu de naissance de Krishna, l'une des divinités les plus vénérées de l'hindouisme. Vous ressentez l'atmosphère spirituelle de la région et visitez le superbe Prem Mandir, magnifiquement illuminé le soir et surnommé le temple de l'Amour.\n\nCe parcours mêle parfaitement histoire, spiritualité et culture, pour une découverte mémorable du riche patrimoine et de la dévotion de l'Inde.",
+  "highlights": [
+   "Delhi, Agra et Mathura en une seule journée",
+   "La septième merveille du monde, le Taj Mahal, inscrit à l'UNESCO",
+   "Le Janam Bhumi, les temples et les ghats de Mathura"
+  ],
+  "included": [
+   "Voiture Toyota pour l'excursion Delhi-Agra-Mathura-Delhi dans la journée",
+   "Toutes les taxes, péages, carburant et frais de stationnement",
+   "Services de guide anglophone à Agra et à Mathura"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner"
+  ]
+ },
+ "krishna-janmasthan-temple-guided-tour": {
+  "title": "Réservez un guide officiel pour Mathura et Vrindavan",
+  "metaTitle": "Guide officiel à Mathura et Vrindavan : temples de Krishna",
+  "metaDescription": "Réservez un guide anglophone pour Mathura et Vrindavan : temple Shri Krishna Janmabhoomi, temple Banke Bihari et Prem Mandir de marbre.",
+  "shortDescription": "Découvrez les villes sacrées de Mathura et Vrindavan, deux des plus importantes destinations de pèlerinage liées à la vie du dieu Krishna. Ces cités anciennes regorgent de charme spirituel, de temples vibrants et de récits de la mythologie hindoue qui attirent fidèles et voyageurs du monde entier.",
+  "fullDescription": "Vous commencez à Mathura, lieu de naissance du dieu Krishna, où vous visitez le vénéré temple Shri Krishna Janmabhoomi, considéré comme l'endroit exact de sa naissance. Le complexe est un lieu profondément spirituel où les fidèles se rassemblent pour prier et vivre cette atmosphère particulière.\n\nVous poursuivez vers Vrindavan, la ville où Krishna aurait passé son enfance. Vous explorez des temples célèbres comme le Banke Bihari et le Prem Mandir, réputés pour leur belle architecture et leur énergie dévotionnelle. Vous assistez à des rituels traditionnels, entendez les chants et ressentez la culture vibrante qui anime les ruelles de cette ville sainte.",
+  "highlights": [
+   "Le temple Shri Krishna Janmabhoomi, lieu de naissance de Krishna",
+   "La ville sainte de Mathura, ses temples sacrés et ses ghats",
+   "Le superbe temple de marbre du Prem Mandir à Vrindavan"
+  ],
+  "included": [
+   "Service de guide anglophone"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Droits d'entrée"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visite de Dharavi",
   "metaTitle": "Dharavi et Dhobi Ghat avec un guide local à Mumbai",

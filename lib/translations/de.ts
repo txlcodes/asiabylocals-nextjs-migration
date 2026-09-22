@@ -3971,6 +3971,145 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Speisen"
   ]
  },
+ "sarnath-full-day-tour": {
+  "title": "Varanasi: Ganztagestour mit Bootsfahrt auf dem Ganges und zugelassenem Guide",
+  "metaTitle": "Varanasi an einem Tag: Ghats, Sarnath, Ganga Aarti und Boot",
+  "metaDescription": "Geführter Tag in Varanasi: Bootsfahrt bei Sonnenaufgang auf dem Ganges, Altstadt, Banaras Hindu University, Sarnath und abendliche Ganga Aarti.",
+  "shortDescription": "Besuchen Sie Varanasis heilige Tempel und das Universitätsgelände mit klimatisiertem Wagen und Guide. Tauchen Sie in die Rituale und die Kultur der Stadt ein, fahren Sie auf dem Ganges und erleben Sie eine Ganga-Aarti-Zeremonie.",
+  "fullDescription": "**5:30 Uhr: Bootsfahrt bei Sonnenaufgang auf dem Ganges**\nSie beginnen den Tag früh mit einer ruhigen Fahrt auf dem Ganges. Sie erleben das magische Schauspiel des Sonnenaufgangs über den Ghats von Varanasi, wenn die sanften Farben der Dämmerung die alte Stadt und die Rituale am Ufer erhellen. Fotografieren Sie die Hingabe der Pilger bei ihren Morgenritualen und die schimmernden Spiegelungen von Tempeln und Ghats im heiligen Wasser.\n\nFrühstück, 1 Stunde (auf eigene Kosten).\n\n**Die Altstadt von Varanasi**\nSie schlendern durch die schmalen Gassen der Altstadt, ein labyrinthisches Netz aus Straßen mit alten Tempeln, traditionellen Häusern und lebhaften Basaren.\n\n**Banaras Hindu University**\nNach dem Frühstück geht es um 10:00 Uhr zur Banaras Hindu University. 1916 gegründet, ist sie der größte Universitätscampus Asiens. Sie erkunden das Gelände und sehen den neuen Vishwanath-Tempel (Birla-Tempel) und fotografieren die architektonische Pracht von Tempeln wie dem ikonischen Affentempel (Durga-Tempel) sowie das lebendige Straßenleben mit Märkten und Chai-Ständen.\n\nSie besuchen den Bharat-Mata-Tempel und bewundern die ungewöhnliche Marmorreliefkarte des indischen Subkontinents, bevor Sie mehr über die Seidenwebtraditionen Varanasis erfahren.\n\n**Nachmittag**\nMittagspause, 1 Stunde (auf eigene Kosten).\n\n**Sarnath**\nNach dem Essen fahren Sie nach Sarnath, nur eine kurze Strecke von Varanasi entfernt. Hier hielt Buddha nach seiner Erleuchtung seine erste Predigt. Sie erkunden die Ruinen alter buddhistischer Klöster, die Stupas und die Ashoka-Säule mit Inschriften zum Besuch Kaiser Ashokas und fotografieren die ruhige Atmosphäre der Gärten und die spirituelle Bedeutung dieses Pilgerortes.\n\n**Abend**\nTeepause, 1 Stunde.\n\n**Sonnenuntergang am Dashashwamedh Ghat**\nAm späten Nachmittag kehren Sie nach Varanasi zurück und erleben die faszinierende Ganga-Aarti-Zeremonie am Dashashwamedh Ghat, einem der heiligsten und belebtesten Ghats der Stadt. Sie fotografieren die kunstvollen Rituale der Priester, begleitet von Gesang, Musik und dem rhythmischen Schwenken der Öllampen. Wenn die Sonne sinkt, wird die Stimmung fast überirdisch, und die flackernden Lichter spiegeln sich auf dem Ganges.",
+  "highlights": [
+   "Bootsfahrt bei Sonnenaufgang auf dem Ganges",
+   "Varanasi mit einem zugelassenen professionellen Guide",
+   "Heilige Ghats, Tempel und kulturelle Wahrzeichen",
+   "Eine der ältesten durchgehend bewohnten Städte der Welt",
+   "Die spirituellen Traditionen der Stadt und das lokale Leben"
+  ],
+  "included": [
+   "Individuelle Ganztagesexkursion",
+   "Abholung und Rückfahrt zum Hotel",
+   "Privater klimatisierter Transport",
+   "Zugelassener Guide",
+   "Bootsfahrt am Morgen (wetterabhängig)",
+   "Mineralwasser",
+   "Eintrittsgebühren der Monumente (bei gewählter Option)",
+   "Mittagessen (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder für Fahrer und Guide",
+   "Spenden am Kashi-Vishwanath-Tempel"
+  ]
+ },
+ "kashi-vishwanath-temple-guided-tour": {
+  "title": "Offiziellen Guide für Varanasi mit Aarti buchen",
+  "metaTitle": "Offizieller Guide in Varanasi: Ghats, Altstadt und Sarnath",
+  "metaDescription": "Geführter Tag in Varanasi mit lokalem Guide: Bootsfahrt bei Sonnenaufgang, Tempel der Altstadt, historische Gassen und die buddhistische Stätte Sarnath.",
+  "shortDescription": "Entdecken Sie den spirituellen Reiz Varanasis, einer der ältesten durchgehend bewohnten Städte der Welt, auf dieser eindrucksvollen Ganztagesführung. Sie gehen durch die schmalen Gassen und lebendigen Straßen der alten Stadt mit einem erfahrenen lokalen Guide, der verborgene Geschichten, heilige Traditionen und historische Orte erschließt.",
+  "fullDescription": "Der Tag beginnt früh mit einer friedlichen Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges. Während die Sonne über den Ghats aufgeht, sehen Sie Einheimische bei ihren täglichen Ritualen, beim Gebet und beim Bad im heiligen Wasser, ein unvergessliches kulturelles Erlebnis, das das spirituelle Wesen Varanasis einfängt.\n\nNach der Bootsfahrt erkunden Sie die berühmten Tempel und belebten Gassen der Altstadt, in denen jahrhundertealte Traditionen weiterleben. Ihr Guide teilt faszinierende Einblicke in hinduistische Bräuche, in die Geschichte und in die Bedeutung der Ghats am Fluss.\n\nSpäter führt die Reise weiter nach Sarnath, einem der wichtigsten buddhistischen Pilgerorte der Welt. Hier hielt Gautama Buddha nach seiner Erleuchtung die erste Predigt. Sie besuchen den historischen Dhamek-Stupa, alte Ruinen und friedliche Klöster, die das tiefe spirituelle Erbe der Region spiegeln.\n\nDiese Führung verbindet Kultur, Spiritualität und Geschichte und ist damit eine ideale Art, die zeitlose Schönheit Varanasis an einem Tag zu erleben.",
+  "highlights": [
+   "Das spirituelle Varanasi mit professionellem Guide",
+   "Varanasis Kulturerbe und Ganga Aarti mit erfahrenem lokalem Guide",
+   "Die heiligen Ghats von Varanasi mit privatem Guide"
+  ],
+  "included": [
+   "Guide-Service",
+   "Klimatisiertes Fahrzeug (bei gewählter Option)",
+   "Morgendliche Bootsfahrt auf dem Ganges (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittskarten"
+  ]
+ },
+ "kashi-vishwanath-temple-full-day-tour": {
+  "title": "Varanasi: privater Tagesausflug",
+  "metaTitle": "Varanasi privat: Kashi Vishwanath, Sarnath und Ganga Aarti",
+  "metaDescription": "Privater Tag in Varanasi: Boot bei Sonnenaufgang, Kashi-Vishwanath-Tempel, Banaras Hindu University, Seidenweberei, Sarnath und Ganga Aarti.",
+  "shortDescription": "Entdecken Sie die zeitlose Spiritualität Varanasis auf einem exklusiven privaten Tagesausflug, der Sie in die heiligen Rituale, alten Tempel und das reiche Kulturerbe der Stadt eintauchen lässt.",
+  "fullDescription": "Ablauf eines spirituellen und kulturellen Tages in Varanasi.\n\n**5:30 Uhr: Bootsfahrt bei Sonnenaufgang auf dem Ganges**\nSie werden um 5:30 Uhr an Ihrem Hotel abgeholt und fahren zu einer ruhigen Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges. Sie erleben die faszinierenden Morgenrituale und spirituellen Handlungen an den Ghats, ein wahrhaft unvergessliches Kulturerlebnis.\n\n**Kashi-Vishwanath-Tempel und Altstadtrundgang**\nNach der Bootsfahrt folgen Sie Ihrem erfahrenen Guide zu Fuß durch die engen Gassen der Altstadt zum verehrten Kashi-Vishwanath-Tempel, einem der heiligsten Tempel des Gottes Shiva.\n\nFrühstückspause (auf eigene Kosten).\n\n**10:00 Uhr: Banaras Hindu University**\nSie fahren zur 1916 gegründeten Banaras Hindu University, einem der größten Campusgelände Asiens. Dort besuchen Sie das Bharat Kala Bhavan Museum und den neuen Vishwanath-Tempel (Birla-Tempel).\n\n**Durga-Tempel**\nWeiter geht es zum heiligen Durga-Tempel, auch Durga Kund Mandir genannt, einem der bedeutendsten Tempel Varanasis.\n\n**Seidenweberei und Mittagspause (auf eigene Kosten)**\nGegen 12:30 Uhr lernen Sie die traditionellen Webtechniken kennen, die Varanasi für seine erlesenen Saris weltberühmt gemacht haben, danach folgt die Mittagspause.\n\n**Ausflug nach Sarnath (bei gewählter Option)**\nAnschließend fahren Sie rund 13 km nach Sarnath, wo Buddha seine erste Predigt hielt. Auf dem Programm stehen der Dhamekh-Stupa und das Archäologische Museum Sarnath (freitags geschlossen).\n\n**17:00 Uhr: Ghats am Abend und Ganga Aarti**\nZurück in Varanasi sehen Sie die Verbrennungsstätten an den Ghats und gehen dann zum Dashashwamedh Ghat, um die spektakuläre abendliche Ganga-Aarti-Zeremonie zu erleben.\n\n**20:00 Uhr: Rückfahrt zum Hotel**\nNach der Zeremonie werden Sie bequem zu Ihrem Hotel zurückgebracht, zum Abschluss eines spirituell bereichernden Tages in Varanasi.",
+  "highlights": [
+   "Private Tour mit klimatisiertem Wagen und lokalem Guide",
+   "Abholung und Rückfahrt zum Hotel inklusive",
+   "Bootsfahrt auf dem Ganges"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Klimatisiertes Fahrzeug",
+   "Privater Transport",
+   "Lokaler Guide",
+   "Bootsfahrt am Morgen",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Trinkgelder",
+   "Eintrittsgebühren der Monumente"
+  ]
+ },
+ "krishna-janmasthan-temple-vridavan-guided-tour": {
+  "title": "Ab Agra: Mathura und Vrindavan an einem Tag im Auto",
+  "metaTitle": "Mathura und Vrindavan ab Agra: Krishna-Tempel im Auto",
+  "metaDescription": "Tagesausflug von Agra nach Mathura und Vrindavan: Shri-Krishna-Janmabhoomi-Tempel, Banke-Bihari-Tempel, ISKCON-Tempel, klimatisierter Wagen und Guide.",
+  "shortDescription": "Ein Tagesausflug von Agra nach Mathura und Vrindavan ist eine schöne Gelegenheit, den spirituellen Reiz dieser heiligen Städte zu erleben. Mathura gilt als Geburtsort des Gottes Krishna, hat große religiöse Bedeutung und wird jedes Jahr von Tausenden Gläubigen und Reisenden besucht.",
+  "fullDescription": "Ein Tagesausflug von Agra nach Mathura und Vrindavan bietet eine schöne Gelegenheit, die tiefen spirituellen und kulturellen Traditionen Indiens zu erleben. Mathura, der mutmaßliche Geburtsort des Gottes Krishna, ist eine der heiligsten Städte des Hinduismus und zieht Pilger aus aller Welt an. Die Stadt ist voller alter Tempel, Ghats und lebhafter Märkte, die ihr reiches religiöses Erbe widerspiegeln.\n\nNur eine kurze Fahrt entfernt liegt Vrindavan, wo Krishna der Überlieferung nach seine Kindheit verbrachte. Diese heilige Stadt ist berühmt für ihre schönen Tempel, ihre andächtige Atmosphäre und ihr lebendiges spirituelles Leben. Sie besuchen bekannte Tempel, erleben religiöse Zeremonien und spüren den zugleich friedlichen und lebhaften Reiz, der Vrindavan zu einem der beliebtesten Pilgerziele Indiens macht.\n\nEin Besuch dieser beiden heiligen Städte gibt einen bedeutungsvollen Einblick in Indiens Frömmigkeit, Geschichte und zeitlose Traditionen.",
+  "highlights": [
+   "Der Shri-Krishna-Janmabhoomi-Tempel",
+   "Der Banke-Bihari-Tempel und der ISKCON-Tempel",
+   "Weitere Tempel in Vrindavan und das spirituelle Leben der Stadt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für Hin- und Rückfahrt",
+   "Flaschen mit Mineralwasser",
+   "Kraftstoff, Maut, Parkgebühren und Fahrerkosten",
+   "Alle Steuern inklusive GST"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mahlzeiten"
+  ]
+ },
+ "krishna-janmasthan-temple-full-day-tour": {
+  "title": "Ab Delhi: Agra und Mathura an einem Tag",
+  "metaTitle": "Delhi, Agra und Mathura an einem Tag: Taj Mahal und Prem Mandir",
+  "metaDescription": "Tagesausflug ab Delhi: Taj Mahal, Agra Fort und danach Mathura, der Geburtsort Krishnas, mit dem beleuchteten Prem Mandir, im Auto mit Guide.",
+  "shortDescription": "Erleben Sie das ikonische Taj Mahal und das historische Agra Fort, zwei UNESCO-Welterbestätten. Nach Agra reisen Sie in die heilige Stadt Mathura, den Geburtsort Krishnas, einer der am meisten verehrten Gottheiten des Hinduismus, und besuchen den prachtvollen Prem Mandir.",
+  "fullDescription": "Erleben Sie das ikonische Taj Mahal und das historische Agra Fort, zwei der berühmtesten Wahrzeichen Agras und beide UNESCO-Welterbe. Bewundern Sie die atemberaubende Pracht des Taj Mahal aus weißem Marmor, das Kaiser Shah Jahan als Symbol ewiger Liebe zu seiner Frau Mumtaz Mahal errichten ließ. Weiter geht es zum Agra Fort, einer prachtvollen Festung aus rotem Sandstein, die einst Hauptresidenz der Mogulkaiser war.\n\nNach Agra reisen Sie in die heilige Stadt Mathura, den Geburtsort Krishnas, einer der am meisten verehrten Gottheiten des Hinduismus. Sie erleben die spirituelle Atmosphäre der Region und besuchen den prachtvollen Prem Mandir, der abends schön beleuchtet ist und im Volksmund Tempel der Liebe heißt.\n\nDiese Reise verbindet Geschichte, Spiritualität und Kultur zu einem einprägsamen Erlebnis von Indiens reichem Erbe und seiner Frömmigkeit.",
+  "highlights": [
+   "Delhi, Agra und Mathura an einem Tag",
+   "Das siebte Weltwunder, das Taj Mahal, UNESCO-gelistet",
+   "Janam Bhumi, Tempel und Ghats in Mathura"
+  ],
+  "included": [
+   "Toyota für den Tagesausflug Delhi, Agra, Mathura und zurück",
+   "Alle Steuern, Maut, Kraftstoff und Parkgebühren",
+   "Englischsprachiger Guide-Service in Agra und Mathura"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mittagessen"
+  ]
+ },
+ "krishna-janmasthan-temple-guided-tour": {
+  "title": "Offiziellen Guide für Mathura und Vrindavan buchen",
+  "metaTitle": "Offizieller Guide in Mathura und Vrindavan: Krishna-Tempel",
+  "metaDescription": "Buchen Sie einen englischsprachigen Guide für Mathura und Vrindavan: Shri-Krishna-Janmabhoomi-Tempel, Banke-Bihari-Tempel und der Marmortempel Prem Mandir.",
+  "shortDescription": "Entdecken Sie die heiligen Städte Mathura und Vrindavan, zwei der wichtigsten Pilgerziele im Zusammenhang mit dem Leben des Gottes Krishna. Diese alten Städte sind voller spiritueller Ausstrahlung, lebendiger Tempel und Geschichten aus der hinduistischen Mythologie, die Gläubige und Reisende aus aller Welt anziehen.",
+  "fullDescription": "Sie beginnen in Mathura, dem Geburtsort des Gottes Krishna, und besuchen den verehrten Shri-Krishna-Janmabhoomi-Tempel, der als genauer Geburtsort gilt. Die Tempelanlage ist ein zutiefst spiritueller Ort, an dem Gläubige zusammenkommen, um zu beten und die besondere Atmosphäre zu erleben.\n\nWeiter geht es nach Vrindavan, wo Krishna seine Kindheit verbracht haben soll. Sie erkunden berühmte Tempel wie den Banke-Bihari-Tempel und den Prem Mandir, bekannt für ihre schöne Architektur und ihre andächtige Energie. Sie erleben traditionelle Rituale, Gesänge und die lebendige Kultur, die die engen Gassen dieser heiligen Stadt erfüllt.",
+  "highlights": [
+   "Der Shri-Krishna-Janmabhoomi-Tempel, Geburtsort Krishnas",
+   "Die heilige Stadt Mathura mit ihren Tempeln und Ghats",
+   "Der prachtvolle Marmortempel Prem Mandir in Vrindavan"
+  ],
+  "included": [
+   "Englischsprachiger Guide-Service"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebühren"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Dharavi-Tour",
   "metaTitle": "Dharavi und Dhobi Ghat mit lokalem Guide in Mumbai",

@@ -3971,6 +3971,145 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas"
   ]
  },
+ "sarnath-full-day-tour": {
+  "title": "Benarés: jornada completa y paseo en barca por el Ganges con guía autorizado",
+  "metaTitle": "Benarés en un día: ghats, Sarnath, Ganga Aarti y barca",
+  "metaDescription": "Jornada guiada en Benarés: paseo en barca al amanecer por el Ganges, casco antiguo, Universidad Hindú de Benarés, Sarnath y Ganga Aarti al atardecer.",
+  "shortDescription": "Visite los templos sagrados de Benarés y el campus universitario con coche climatizado y guía. Sumérjase en los rituales y la cultura de la ciudad mientras navega por el Ganges y presencia una ceremonia Ganga Aarti.",
+  "fullDescription": "**5:30: paseo en barca al amanecer por el Ganges**\nComenzará el día temprano con un sereno paseo en barca por el Ganges. Presenciará el espectáculo mágico del amanecer sobre los ghats de Benarés, con los tonos suaves del alba iluminando la ciudad antigua y los rituales a la orilla del río. Fotografiará la devoción de los peregrinos durante sus ritos matinales y los reflejos brillantes de templos y ghats en las aguas sagradas.\n\nDesayuno, 1 hora (por su cuenta).\n\n**El casco antiguo de Benarés**\nPaseará por los callejones del casco antiguo, una red laberíntica de calles con templos antiguos, casas tradicionales y bazares animados.\n\n**Universidad Hindú de Benarés**\nDespués del desayuno se dirigirá a la Universidad Hindú de Benarés a las 10:00. Fundada en 1916, es el mayor campus universitario de Asia. Recorrerá el campus y verá el nuevo templo de Vishwanath (templo Birla), y fotografiará el esplendor arquitectónico de templos como el icónico templo de los Monos (templo de Durga), además de la vibrante vida callejera, con mercados y puestos de chai.\n\nVisitará el templo Bharat Mata y admirará su singular mapa en relieve de mármol del subcontinente indio, antes de conocer las tradiciones del tejido de seda de Benarés.\n\n**Tarde**\nPausa para comer de una hora (por su cuenta).\n\n**Sarnath**\nTras la comida se dirigirá a Sarnath, a poca distancia de Benarés. Aquí es donde Buda pronunció su primer sermón tras alcanzar la iluminación. Recorrerá las ruinas de antiguos monasterios budistas, las estupas y el pilar de Ashoka, con inscripciones que conmemoran la visita del emperador Ashoka, y fotografiará la serenidad de los jardines y la importancia espiritual de este lugar de peregrinación.\n\n**Atardecer**\nPausa para el té, 1 hora.\n\n**Puesta de sol en el Dashashwamedh Ghat**\nRegresará a Benarés al final de la tarde para presenciar la hipnótica ceremonia Ganga Aarti en el Dashashwamedh Ghat, uno de los ghats más sagrados y concurridos de la ciudad. Fotografiará los rituales elaborados de los sacerdotes, acompañados de cánticos, música y el vaivén rítmico de las lámparas de aceite. Al caer el sol, el ambiente se vuelve casi irreal y las luces titilan reflejadas en el Ganges.",
+  "highlights": [
+   "Paseo en barca al amanecer por el Ganges",
+   "Benarés con un guía profesional autorizado",
+   "Ghats sagrados, templos y lugares culturales",
+   "Una de las ciudades habitadas más antiguas del mundo",
+   "Las tradiciones espirituales de la ciudad y la vida local"
+  ],
+  "included": [
+   "Excursión personalizada de día completo",
+   "Recogida y regreso al hotel",
+   "Transporte privado climatizado",
+   "Guía autorizado",
+   "Paseo en barca por la mañana (según la meteorología)",
+   "Agua mineral",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Comida (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas para el conductor y el guía",
+   "Donativos en el templo de Kashi Vishwanath"
+  ]
+ },
+ "kashi-vishwanath-temple-guided-tour": {
+  "title": "Reserve un guía oficial para Benarés con la Ganga Aarti",
+  "metaTitle": "Guía oficial en Benarés: ghats, casco antiguo y Sarnath",
+  "metaDescription": "Jornada guiada en Benarés con guía local: paseo en barca al amanecer, templos del casco antiguo, callejones históricos y el enclave budista de Sarnath.",
+  "shortDescription": "Descubra el encanto espiritual de Benarés, una de las ciudades habitadas más antiguas del mundo, en esta jornada guiada envolvente. Recorra los callejones estrechos y las calles vibrantes de la ciudad antigua con un guía local experimentado que le ayudará a descubrir sus historias ocultas, sus tradiciones sagradas y sus hitos históricos.",
+  "fullDescription": "Su día comienza temprano con un apacible paseo en barca al amanecer por el sagrado río Ganges. Mientras el sol se alza sobre los ghats, verá a los vecinos realizar sus rituales diarios, ofrecer oraciones y bañarse en las aguas sagradas, una experiencia cultural inolvidable que capta la esencia espiritual de Benarés.\n\nTras el paseo en barca, recorrerá los famosos templos y los callejones bulliciosos del casco antiguo, donde siguen vivas tradiciones centenarias. Su guía compartirá claves fascinantes sobre las costumbres hindúes, la historia y la importancia de los ghats junto al río.\n\nMás tarde continuará hasta Sarnath, uno de los enclaves de peregrinación budista más importantes del mundo. Aquí Gautama Buda pronunció su primer sermón tras alcanzar la iluminación. Visitará la histórica estupa Dhamek, las ruinas antiguas y monasterios apacibles que reflejan el profundo patrimonio espiritual de la región.\n\nEsta visita guiada combina cultura, espiritualidad e historia, y es una forma ideal de vivir la belleza atemporal de Benarés en una sola jornada.",
+  "highlights": [
+   "El Benarés espiritual con guía profesional",
+   "Patrimonio de Benarés y Ganga Aarti con guía local experto",
+   "Los ghats sagrados de Benarés con guía privado"
+  ],
+  "included": [
+   "Servicio de guía turístico",
+   "Vehículo climatizado (si se selecciona la opción)",
+   "Paseo en barca por la mañana en el Ganges (si se selecciona la opción)"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "kashi-vishwanath-temple-full-day-tour": {
+  "title": "Benarés: jornada privada",
+  "metaTitle": "Benarés privado: Kashi Vishwanath, Sarnath y Ganga Aarti",
+  "metaDescription": "Jornada privada en Benarés: barca al amanecer, templo de Kashi Vishwanath, Universidad Hindú de Benarés, tejido de seda, Sarnath y Ganga Aarti.",
+  "shortDescription": "Descubra la espiritualidad atemporal de Benarés en una exclusiva jornada privada diseñada para sumergirle en los rituales sagrados, los templos antiguos y el vibrante patrimonio cultural de la ciudad.",
+  "fullDescription": "Itinerario de una jornada espiritual y cultural en Benarés.\n\n**5:30: paseo en barca al amanecer por el Ganges**\nLe recogeremos en su hotel a las 5:30 para un sereno paseo en barca al amanecer por el sagrado Ganges. Presenciará los fascinantes rituales matinales y las prácticas espirituales a lo largo de los ghats, una experiencia cultural verdaderamente inolvidable.\n\n**Templo de Kashi Vishwanath y paseo por el casco antiguo**\nTras el paseo en barca, seguirá a su guía experto a pie por los callejones estrechos del casco antiguo hasta el venerado templo de Kashi Vishwanath, uno de los más sagrados dedicados al dios Shiva.\n\nPausa para el desayuno (por su cuenta).\n\n**10:00: Universidad Hindú de Benarés**\nSe dirigirá a la Universidad Hindú de Benarés, fundada en 1916 y conocida como uno de los mayores campus residenciales de Asia. Allí visitará el museo Bharat Kala Bhavan y el nuevo templo de Vishwanath (templo Birla).\n\n**Templo de Durga**\nContinuará con el sagrado templo de Durga, también llamado Durga Kund Mandir, uno de los más destacados de Benarés.\n\n**Taller de tejido de seda y pausa para comer (por su cuenta)**\nHacia las 12:30 conocerá las técnicas tradicionales de tejido de seda que han hecho mundialmente famosa a Benarés por sus saris, y después disfrutará de la pausa para comer.\n\n**Excursión a Sarnath (si se selecciona la opción)**\nMás tarde recorrerá unos 13 km hasta Sarnath, el lugar histórico donde Buda pronunció su primer sermón. Visitará la estupa Dhamekh y el Museo Arqueológico de Sarnath (cerrado los viernes).\n\n**17:00: ghats al atardecer y Ganga Aarti**\nDe vuelta en Benarés, verá los crematorios junto a los ghats antes de dirigirse al Dashashwamedh Ghat para presenciar la espectacular ceremonia Ganga Aarti del atardecer.\n\n**20:00: regreso al hotel**\nTras la ceremonia le llevaremos cómodamente de vuelta a su hotel, cerrando así una jornada espiritualmente enriquecedora en Benarés.",
+  "highlights": [
+   "Visita privada con coche climatizado y guía local",
+   "Recogida y regreso al hotel incluidos",
+   "Paseo en barca por el río Ganges"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehículo climatizado",
+   "Transporte privado",
+   "Guía local",
+   "Paseo en barca por la mañana",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Propinas",
+   "Entradas a los monumentos"
+  ]
+ },
+ "krishna-janmasthan-temple-vridavan-guided-tour": {
+  "title": "Desde Agra: Mathura y Vrindavan en un día en coche",
+  "metaTitle": "Mathura y Vrindavan desde Agra: templos de Krishna en coche",
+  "metaDescription": "Excursión de un día de Agra a Mathura y Vrindavan: templo Shri Krishna Janmabhoomi, templo Banke Bihari, templo ISKCON, coche climatizado y guía.",
+  "shortDescription": "Una excursión de un día desde Agra a Mathura y Vrindavan es una magnífica oportunidad para vivir el encanto espiritual de estas ciudades sagradas. Mathura, considerada la cuna del dios Krishna, tiene una gran importancia religiosa y recibe cada año a miles de devotos y viajeros.",
+  "fullDescription": "Una excursión de un día desde Agra a Mathura y Vrindavan ofrece una magnífica oportunidad de vivir las profundas tradiciones espirituales y culturales de la India. Mathura, considerada la cuna del dios Krishna, es una de las ciudades más sagradas del hinduismo y atrae a peregrinos de todo el mundo. La ciudad está llena de templos antiguos, ghats y mercados animados que reflejan su rico patrimonio religioso.\n\nA poca distancia se encuentra Vrindavan, el lugar donde, según la tradición, Krishna pasó su infancia. Esta ciudad santa es famosa por sus hermosos templos, su ambiente devocional y su intensa vida espiritual. Podrá recorrer templos célebres, presenciar ceremonias religiosas y sentir el encanto a la vez apacible y vivo que convierte a Vrindavan en uno de los destinos de peregrinación más queridos de la India.\n\nVisitar estas dos ciudades sagradas ofrece una ventana significativa a la devoción, la historia y las tradiciones atemporales de la India.",
+  "highlights": [
+   "El templo Shri Krishna Janmabhoomi",
+   "El templo Banke Bihari y el templo ISKCON",
+   "Más templos de Vrindavan y la vida espiritual de la ciudad"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía turístico profesional",
+   "Coche privado climatizado de ida y vuelta",
+   "Botellas de agua mineral",
+   "Combustible, peajes, aparcamiento y dietas",
+   "Todos los impuestos con GST"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas"
+  ]
+ },
+ "krishna-janmasthan-temple-full-day-tour": {
+  "title": "Desde Delhi: Agra y Mathura en un día",
+  "metaTitle": "Delhi, Agra y Mathura en un día: Taj Mahal y Prem Mandir",
+  "metaDescription": "Excursión de un día desde Delhi: Taj Mahal, Fuerte de Agra y después Mathura, cuna de Krishna, con el Prem Mandir iluminado, en coche y con guía.",
+  "shortDescription": "Conozca el icónico Taj Mahal y el histórico Fuerte de Agra, dos sitios Patrimonio de la Humanidad. Tras recorrer Agra, viajará a la ciudad sagrada de Mathura, cuna de Krishna, una de las deidades más veneradas del hinduismo, y visitará el espléndido Prem Mandir.",
+  "fullDescription": "Conozca el icónico Taj Mahal y el histórico Fuerte de Agra, dos de los monumentos más famosos de Agra y ambos Patrimonio de la Humanidad. Admire la sobrecogedora belleza de mármol blanco del Taj Mahal, levantado por el emperador Shah Jahan como símbolo de amor eterno a su esposa Mumtaz Mahal. Continúe hasta el Fuerte de Agra, una magnífica fortaleza de arenisca roja que fue la residencia principal de los emperadores mogoles.\n\nTras recorrer Agra, viajará a la ciudad sagrada de Mathura, cuna de Krishna, una de las deidades más veneradas del hinduismo. Sentirá el ambiente espiritual de la región y visitará el espléndido Prem Mandir, bellamente iluminado al anochecer y conocido popularmente como el Templo del Amor.\n\nEste recorrido combina a la perfección historia, espiritualidad y cultura, y ofrece una experiencia memorable del rico patrimonio y la devoción de la India.",
+  "highlights": [
+   "Delhi, Agra y Mathura en una sola jornada",
+   "La séptima maravilla del mundo, el Taj Mahal, inscrito por la UNESCO",
+   "Janam Bhumi, templos y ghats en Mathura"
+  ],
+  "included": [
+   "Coche Toyota para la excursión de un día Delhi-Agra-Mathura-Delhi",
+   "Todos los impuestos, peajes, combustible y aparcamiento",
+   "Servicio de guía de habla inglesa en Agra y Mathura"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida"
+  ]
+ },
+ "krishna-janmasthan-temple-guided-tour": {
+  "title": "Reserve un guía oficial para Mathura y Vrindavan",
+  "metaTitle": "Guía oficial en Mathura y Vrindavan: templos de Krishna",
+  "metaDescription": "Reserve un guía de habla inglesa para Mathura y Vrindavan: templo Shri Krishna Janmabhoomi, templo Banke Bihari y el templo de mármol Prem Mandir.",
+  "shortDescription": "Descubra las ciudades sagradas de Mathura y Vrindavan, dos de los destinos de peregrinación más importantes ligados a la vida del dios Krishna. Estas ciudades antiguas están llenas de encanto espiritual, templos vibrantes y relatos de la mitología hindú que atraen a devotos y viajeros de todo el mundo.",
+  "fullDescription": "Comenzará su recorrido en Mathura, cuna del dios Krishna, donde visitará el venerado templo Shri Krishna Janmabhoomi, considerado el lugar exacto de su nacimiento. El complejo es un enclave profundamente espiritual donde los devotos se reúnen para orar y vivir ese ambiente particular.\n\nContinuará hasta Vrindavan, la ciudad donde Krishna pasó su infancia. Recorrerá templos famosos como el Banke Bihari y el Prem Mandir, conocidos por su hermosa arquitectura y su energía devocional. Presenciará rituales tradicionales, cánticos y la cultura vibrante que llena los callejones de esta ciudad santa.",
+  "highlights": [
+   "El templo Shri Krishna Janmabhoomi, cuna del dios Krishna",
+   "La ciudad santa de Mathura y sus templos y ghats sagrados",
+   "El espléndido templo de mármol Prem Mandir en Vrindavan"
+  ],
+  "included": [
+   "Servicio de guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visita a Dharavi",
   "metaTitle": "Dharavi y Dhobi Ghat con guía local en Bombay",
