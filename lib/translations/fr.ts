@@ -7922,6 +7922,67 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "**Oui**, une [excursion Jaipur-Agra](/india/jaipur/jaipur-to-agra-taj-mahal-day-trip) (5 heures de route dans chaque sens) est possible mais longue. Mieux vaut passer une nuit à Agra, ou opter pour un [circuit du Triangle d'Or](/india/delhi/golden-triangle-tour-delhi-agra-jaipur) couvrant Delhi, Agra et Jaipur en 3 à 5 jours."
    }
   ]
+ },
+ "best-time-to-visit-krabi": {
+  "title": "Quand partir à Krabi : météo et état de la mer mois par mois (2026)",
+  "description": "De novembre à mars, Krabi vit sa saison sèche : mer calme et toutes les sorties en bateau assurées. Météo mois par mois, vérités sur la mousson, saison d'escalade et prix réels.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Meilleurs mois",
+    "value": "Novembre à mars"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Mer agitée",
+    "value": "Mai à octobre"
+   },
+   {
+    "icon": "CheckCircle2",
+    "label": "À l'abri de la pluie",
+    "value": "Intérieur : temple, bassins, mangrove"
+   }
+  ],
+  "sections": [
+   {
+    "title": "La réponse courte : de novembre à mars",
+    "content": "Krabi borde la **mer d'Andaman**, ce qui place son année sous le régime de la même mousson du sud-ouest que [les saisons de Phuket](/fr/thailand/phuket/best-time-to-visit-phuket). L'écart entre les deux moitiés de l'année y est plus marqué que la plupart des visiteurs ne l'imaginent, tout simplement parce que presque tout ce qui vaut le détour à Krabi se passe sur l'eau ou juste à côté.\n\n**La saison sèche (novembre à mars)** montre Krabi sous son meilleur jour, et la différence n'est pas mince. La mer s'aplanit, la visibilité pour le snorkeling grimpe, et toutes les sorties en bateau, [les 4 îles](/fr/thailand/krabi/krabi-4-islands-tour-guide), les îles Hong, Phi Phi, partent chaque jour sans mauvaise surprise. Les températures tiennent entre 28 et 33 °C avec peu d'humidité, les pitons calcaires se détachent sur du bleu plutôt que du gris, et les bateaux à longue queue vers [Railay](/fr/thailand/krabi/railay-beach-krabi) font la navette sans histoire.\n\n**La saison verte (mai à octobre)** apporte pluie, vent et mer formée. Certains départs vers les îles sont annulés au dernier moment, les traversées vers Railay deviennent agitées ou s'arrêtent, et les plages exposées à l'ouest hissent parfois le drapeau rouge. En échange : les tarifs hôteliers chutent de 40 à 60 %, le paysage karstique vire au vert spectaculaire, les cascades coulent à plein et Ao Nang retrouve une forme de calme.\n\n**Le bon compromis** se situe de **fin novembre à février**. Décembre et janvier concentrent tout : la meilleure météo et le plus de monde. **Novembre** et **mars** sont les deux bords rentables de la bonne saison, assez secs pour être sûrs, assez bon marché pour que cela se voie.\n\nUne particularité vraiment utile : **l'intérieur des terres à Krabi ne craint pas la pluie**. Le [temple de la Grotte du Tigre](/fr/thailand/krabi/tiger-cave-temple-krabi), l'Emerald Pool, les sources chaudes et le kayak dans la mangrove fonctionnent sous les averses, ce qui permet de sauver un séjour pluvieux à Krabi là où un séjour uniquement balnéaire serait perdu."
+   },
+   {
+    "title": "Mois par mois sur la mer d'Andaman",
+    "content": "**Novembre** : le basculement, et le mois des connaisseurs. La pluie s'efface, la mer se pose, le paysage reste vert de mousson plutôt que grillé, et les tarifs de haute saison ne sont pas encore là. Loy Krathong fait flotter ses lanternes sur le front de mer d'Ao Nang.\n\n**Décembre** : conditions parfaites et affluence maximale de l'année. Entre Noël et le Nouvel An, les tarifs doublent ou pire, et le circuit des 4 îles est réellement chargé. Réservez au moins 6 semaines à l'avance.\n\n**Janvier** : sans doute le meilleur mois toutes catégories. Sec, mer calme, excellente visibilité sous l'eau, et la foule se desserre après la première semaine.\n\n**Février** : la régularité de la saison sèche à son sommet, avec les précipitations les plus faibles de l'année. Conditions idéales pour l'escalade sur les parois de Railay.\n\n**Mars** : toujours excellent, et la chaleur monte. La température de l'eau culmine autour de 30 °C. Les prix s'assouplissent en fin de mois. Dernier mois où l'on peut verrouiller un programme d'îles sans arrière-pensée.\n\n**Avril** : le mois le plus chaud (34 à 36 °C) et la transition. La mer reste en général praticable jusqu'à fin avril, et **Songkran (13 au 15 avril)** se vit à Ao Nang et à Krabi Town de façon joyeuse et sans excès, loin du chaos des grandes villes.\n\n**Mai et juin** : la mousson s'installe. Pluies en rafales, houle qui monte, premières annulations. Les prix chutent nettement et le rapport qualité-prix devient réel si vous acceptez de rester souple.\n\n**Juillet et août** : cœur de mousson. Pluie quotidienne, traversées secouées, sorties regroupées ou annulées. Les vacances d'été européennes maintiennent malgré tout une fréquentation correcte à Ao Nang.\n\n**Septembre et octobre** : les semaines les plus humides, les plus calmes et les moins chères. Beaucoup d'opérateurs de bateaux à longue queue font une pause, certains hôtels de Railay ferment pour entretien, et un séjour centré sur la plage devient un pari. L'intérieur de Krabi, lui, atteint sa plus belle forme : cascades à plein débit, jungle au vert maximal."
+   },
+   {
+    "title": "Ce que la mer change : bateaux, Railay et sécurité",
+    "content": "C'est ce point qui distingue l'organisation d'un séjour à Krabi de celle d'un simple séjour balnéaire : **l'accès à la majeure partie de Krabi dépend de petits bateaux.**\n\n**Railay ne se rejoint qu'en bateau.** Les promontoires calcaires la coupent complètement du réseau routier : le seul accès est un bateau à longue queue depuis Ao Nang ou depuis le ponton d'Ao Nam Mao, à Krabi Town. En saison sèche, c'est une traversée de routine de 15 minutes. En saison verte, une mer agitée peut retarder ou suspendre les rotations, et les bateaux attendent d'être pleins pour partir : une excursion à la journée peut se transformer en nuit imprévue sur place. Si vous logez à Railay pendant la mousson, prévoyez une marge autour du jour de votre vol.\n\n**Les sorties vers les îles se regroupent.** En saison verte, les opérateurs fusionnent les départs et annulent quand la mer est mauvaise. Deux règles : placez les journées en mer **en début de séjour** pour garder des jours de rattrapage, et privilégiez les **options abritées** quand la météo se gâte. La [mangrove d'Ao Thalane](/fr/thailand/krabi/ao-thalane-guided-tour) et le [lac cristallin de Klong Root](/fr/thailand/krabi/crystal-lake-mini-tour) sont en eaux protégées et tournent quand la haute mer est fermée.\n\n**Drapeau rouge veut dire qu'on ne se baigne pas.** Ao Nang et les plages exposées à l'ouest reçoivent la houle de mousson et des courants d'arrachement de mai à octobre environ. La règle vaut partout sur cette côte : un courant d'arrachement paraît *plus lisse* que l'eau autour de lui, et si vous êtes pris dedans, nagez parallèlement au rivage plutôt que contre le courant.\n\n**L'escalade** : Railay est l'un des grands sites mondiaux d'escalade sportive, et sa saison suit la même courbe. De **novembre à mars**, la roche est sèche et le calcaire accrocheur. On grimpe aussi en saison verte, mais la roche mouillée et les orages d'après-midi limitent beaucoup les possibilités."
+   },
+   {
+    "title": "Prix, affluence et délais de réservation",
+    "content": "Krabi revient nettement moins cher que Phuket à qualité égale, ce qui est l'une des principales raisons de la choisir, mais l'écart entre saisons y est tout aussi brutal.\n\n**Pointe (20 décembre au 10 janvier)** : tarifs 2 à 3 fois la moyenne annuelle, durées minimales de séjour imposées dans les hôtels de Railay et de Klong Muang, dîners de gala obligatoires dans certains établissements. Réservez 2 à 3 mois à l'avance.\n\n**Haute saison (novembre, mi-janvier à mars)** : 30 à 50 % au-dessus de la basse saison, avec de la disponibilité. C'est la fenêtre que la plupart des voyageurs devraient viser.\n\n**Intersaison (avril, octobre)** : prix qui s'assouplissent, conditions correctes à variables, sensiblement moins de monde.\n\n**Basse saison (mai à septembre)** : 40 à 60 % de remise. Des hôtels en bord de plage au prix d'une pension, et la réservation de dernière minute fonctionne très bien.\n\n**Ce que coûtent les choses** : chambre double en pension 700 à 1 400 ฿ ; bon 3 ou 4 étoiles avec piscine 1 800 à 3 500 ฿ ; hôtels de Railay et Klong Muang 4 000 à 12 000 ฿. Une journée aux 4 îles en bateau à longue queue démarre autour de 21 $, les versions en hors-bord 33 à 50 $, les journées à Phi Phi 50 à 96 $. Un plat local coûte 60 à 120 ฿ ; les restaurants de la route de la plage à Ao Nang facturent le double pour moins bon.\n\n**Réserver les excursions** : 2 à 4 jours à l'avance suffisent en saison sèche ; entre Noël et le Nouvel An, comptez une semaine ou plus. En saison verte, réservez en gardant un jour de réserve et attendez-vous à au moins un changement de programme.\n\nVous hésitez encore entre Krabi et sa voisine ? Notre [comparatif honnête Krabi / Phuket](/fr/thailand/krabi/krabi-vs-phuket-which-to-visit) détaille à qui chacune convient, et l'[itinéraire de 3 jours](/fr/thailand/krabi/krabi-3-day-itinerary) montre à quoi ressemble concrètement un bon séjour."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quel est le meilleur mois pour visiter Krabi ?",
+    "a": "**Janvier** est le meilleur mois toutes catégories : sec, mer calme, excellente visibilité sous l'eau et affluence qui retombe après la première semaine. **Novembre** est le choix malin : la pluie s'est arrêtée, le paysage est encore vert, mais les tarifs de haute saison ne sont pas arrivés. Plus largement, la saison sèche va de novembre à mars."
+   },
+   {
+    "q": "Krabi vaut-elle le coup pendant la saison des pluies ?",
+    "a": "C'est un vrai compromis. De mai à octobre, il y a de la pluie, une mer d'Andaman agitée, des départs vers les îles annulés et parfois des drapeaux rouges sur les plages exposées à l'ouest. Mais les hôtels baissent de 40 à 60 %, le paysage est à son plus vert, et **l'intérieur des terres, temple de la Grotte du Tigre, Emerald Pool, sources chaudes, kayak dans la mangrove, fonctionne sous la pluie.**"
+   },
+   {
+    "q": "Peut-on encore rejoindre Railay pendant la mousson ?",
+    "a": "En général oui, mais sans garantie. **Railay ne se rejoint qu'en bateau**, les promontoires calcaires la coupant du réseau routier, donc une mer agitée peut retarder ou suspendre les rotations depuis Ao Nang. En saison sèche, c'est une traversée de routine de 15 minutes ; en saison verte, gardez de la marge autour du jour de votre vol si vous y logez."
+   },
+   {
+    "q": "Quelle est la meilleure période pour l'escalade à Krabi ?",
+    "a": "De **novembre à mars**, quand le calcaire est sec et accrocheur. Railay est l'un des grands sites mondiaux d'escalade sportive, et sa saison suit la même courbe que le reste : on grimpe aussi en saison verte, mais la roche mouillée et les orages d'après-midi limitent sérieusement les possibilités."
+   },
+   {
+    "q": "Quand Krabi est-elle la moins chère ?",
+    "a": "De **mai à septembre** : les tarifs hôteliers chutent de 40 à 60 %, les hôtels en bord de plage passent au prix d'une pension et la réservation de dernière minute fonctionne. Septembre et octobre touchent le plancher absolu, mais ce sont aussi les mois où un séjour centré sur la plage a le plus de risques d'être perturbé."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {

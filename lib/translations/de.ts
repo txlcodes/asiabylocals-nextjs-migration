@@ -7922,6 +7922,67 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "**Ja**, ein [Tagesausflug von Jaipur nach Agra](/india/jaipur/jaipur-to-agra-taj-mahal-day-trip) (5 Stunden pro Strecke mit dem Auto) ist möglich, aber lang. Besser: eine Übernachtung in Agra oder eine [Tour durch das Goldene Dreieck](/india/delhi/golden-triangle-tour-delhi-agra-jaipur) mit Delhi, Agra und Jaipur in 3 bis 5 Tagen."
    }
   ]
+ },
+ "best-time-to-visit-krabi": {
+  "title": "Beste Reisezeit für Krabi: Wetter und Seegang Monat für Monat (2026)",
+  "description": "November bis März ist Krabis Trockenzeit: ruhige See und alle Inseltouren fahren. Wetter Monat für Monat, die Wahrheit über den Monsun, Kletter-Saison und echte Preise.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Beste Monate",
+    "value": "November bis März"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Raue See",
+    "value": "Mai bis Oktober"
+   },
+   {
+    "icon": "CheckCircle2",
+    "label": "Wetterfest",
+    "value": "Landesinneres: Tempel, Pools, Mangroven"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Die kurze Antwort: November bis März",
+    "content": "Krabi liegt an der **Andamanenküste** und steht damit unter demselben Südwestmonsun wie [die Jahreszeiten in Phuket](/de/thailand/phuket/best-time-to-visit-phuket). Der Unterschied zwischen den beiden Jahreshälften fällt hier größer aus, als die meisten Besucher erwarten, denn fast alles, was Krabi ausmacht, findet auf dem Wasser oder direkt daneben statt.\n\n**Die Trockenzeit (November bis März)** zeigt Krabi von seiner besten Seite, und zwar mit deutlichem Abstand. Die See glättet sich, die Sicht beim Schnorcheln wird klar, und jede Inseltour, [die 4 Inseln](/de/thailand/krabi/krabi-4-islands-tour-guide), die Hong-Inseln, Phi Phi, fährt täglich und zuverlässig. Die Tage liegen bei 28 bis 33 °C mit niedriger Luftfeuchtigkeit, die Kalkfelsen stehen vor Blau statt vor Grau, und die Longtailboote nach [Railay](/de/thailand/krabi/railay-beach-krabi) pendeln ohne Drama.\n\n**Die grüne Saison (Mai bis Oktober)** bringt Regen, Wind und raue Andamanensee. Einzelne Inselabfahrten werden kurzfristig gestrichen, die Überfahrten nach Railay werden ruppig oder fallen aus, und an den nach Westen gerichteten Stränden weht öfter die rote Flagge. Dafür: Hotelpreise fallen um 40 bis 60 Prozent, die Karstlandschaft wird spektakulär grün, die Wasserfälle laufen mit voller Kraft, und Ao Nang kommt fast zur Ruhe.\n\n**Das beste Fenster** liegt zwischen **Ende November und Februar**. Dezember und Januar sind der Höhepunkt von allem; **November** und **März** sind die beiden lohnenden Ränder der guten Saison, trocken genug für Sicherheit, günstig genug, dass man es merkt.\n\nEine wirklich nützliche Besonderheit: **Krabis Landesinneres ist wetterfest**. Der [Tigerhöhlen-Tempel](/de/thailand/krabi/tiger-cave-temple-krabi), der Emerald Pool, die heißen Quellen und die Kajaktouren durch die Mangroven funktionieren auch im Regen. Damit lässt sich eine verregnete Krabi-Reise retten, was bei einer reinen Inselreise nicht gelingt."
+   },
+   {
+    "title": "Monat für Monat an der Andamanensee",
+    "content": "**November**: der Umschwung und der Monat für Kenner. Der Regen lässt nach, die See beruhigt sich, die Landschaft ist noch monsungrün statt ausgetrocknet, und die Hochsaisonpreise sind noch nicht da. Zu Loy Krathong schwimmen die Lichter an der Strandpromenade von Ao Nang.\n\n**Dezember**: perfekte Bedingungen und der größte Andrang des Jahres. Zwischen Weihnachten und Neujahr verdoppeln sich die Preise oder schlimmer, und die 4-Inseln-Runde ist wirklich voll. Mindestens 6 Wochen im Voraus buchen.\n\n**Januar**: wohl der beste Allround-Monat. Trocken, ruhige See, hervorragende Sicht unter Wasser, und nach der ersten Woche lässt der Andrang nach.\n\n**Februar**: die Verlässlichkeit der Trockenzeit auf ihrem Höhepunkt, mit dem niedrigsten Niederschlag des Jahres. Beste Kletterbedingungen an den Wänden von Railay.\n\n**März**: weiterhin ausgezeichnet, und es wird heißer. Die Wassertemperatur erreicht rund 30 °C. Gegen Monatsende geben die Preise nach. Der letzte Monat, in dem sich Inselpläne bedenkenlos festlegen lassen.\n\n**April**: der heißeste Monat (34 bis 36 °C) und der Übergang. Die See bleibt meist bis Ende April fahrbar, und **Songkran (13. bis 15. April)** fällt in Ao Nang und Krabi Town fröhlich und entspannt aus, weit weg vom Chaos der Großstädte.\n\n**Mai und Juni**: der Monsun setzt sich durch. Regen in Schüben, aufbauende Dünung, erste Absagen. Die Preise fallen deutlich, und das Preis-Leistungs-Verhältnis stimmt wirklich, wenn man flexibel bleibt.\n\n**Juli und August**: Hochmonsun. Täglicher Regen, unruhige Überfahrten, zusammengelegte oder gestrichene Touren. Die europäischen Sommerferien halten Ao Nang trotzdem mäßig belebt.\n\n**September und Oktober**: die nassesten, ruhigsten und günstigsten Wochen. Viele Longtail-Betreiber pausieren, manche Resorts in Railay schließen für Instandhaltung, und eine Reise mit Strand als Hauptzweck wird zum Glücksspiel. Das Landesinnere dagegen ist jetzt am schönsten: Wasserfälle mit vollem Volumen, Dschungel im tiefsten Grün."
+   },
+   {
+    "title": "Was die See verändert: Boote, Railay und Sicherheit",
+    "content": "Das ist der Punkt, der die Planung für Krabi von einem beliebigen Strandurlaub unterscheidet: **der Zugang zu großen Teilen Krabis hängt an kleinen Booten.**\n\n**Railay erreicht man nur per Boot.** Die Kalksteinvorsprünge schneiden die Halbinsel vollständig vom Straßennetz ab, der einzige Weg hinein ist ein Longtailboot ab Ao Nang oder ab dem Pier Ao Nam Mao bei Krabi Town. In der Trockenzeit ist das eine Routinefahrt von 15 Minuten. In der grünen Saison kann raue See die Überfahrten verzögern oder aussetzen, und die Longtails warten, bis sie voll sind. Ein Tagesausflug kann so zur ungeplanten Übernachtung werden. Wer während des Monsuns in Railay wohnt, sollte um den Abflugtag herum Puffer einplanen.\n\n**Inseltouren werden zusammengelegt.** In der grünen Saison fassen die Betreiber Abfahrten zusammen und sagen ab, wenn die See schlecht steht. Zwei Regeln: Legen Sie die Bootstage **an den Anfang der Reise**, damit Ersatztage bleiben, und wählen Sie bei schlechter Vorhersage die **geschützten Alternativen**. Die [Mangroven von Ao Thalane](/de/thailand/krabi/ao-thalane-guided-tour) und der [Kristallsee Klong Root](/de/thailand/krabi/crystal-lake-mini-tour) liegen in geschütztem Wasser und fahren, wenn die offene See geschlossen ist.\n\n**Rote Flagge heißt: nicht ins Wasser.** Ao Nang und die nach Westen gerichteten Strände bekommen von etwa Mai bis Oktober Monsunbrandung und Rippströmungen. Es gilt dieselbe Regel wie überall an dieser Küste: Eine Rippströmung sieht *glatter* aus als das Wasser daneben, und wer hineingerät, schwimmt parallel zum Ufer statt dagegen an.\n\n**Klettern**: Railay gehört zu den großen Sportklettergebieten der Welt, und seine Saison folgt derselben Kurve. Von **November bis März** ist der Fels trocken und der Kalkstein griffig. In der grünen Saison wird auch geklettert, aber nasser Fels und Nachmittagsgewitter schränken das stark ein."
+   },
+   {
+    "title": "Preise, Andrang und Buchungsvorlauf",
+    "content": "Krabi ist bei gleicher Qualität spürbar günstiger als Phuket, einer der Hauptgründe, sich dafür zu entscheiden. Der saisonale Ausschlag ist allerdings genauso steil.\n\n**Spitze (20. Dezember bis 10. Januar)**: Preise auf dem 2- bis 3-Fachen des Jahresdurchschnitts, Mindestaufenthalte in den Resorts von Railay und Klong Muang, in manchen Häusern verpflichtende Gala-Dinner. 2 bis 3 Monate im Voraus buchen.\n\n**Hochsaison (November, Mitte Januar bis März)**: 30 bis 50 Prozent über der Nebensaison bei guter Verfügbarkeit. Das Fenster, das die meisten Reisenden anpeilen sollten.\n\n**Übergangszeit (April, Oktober)**: nachgebende Preise, ordentliche bis wechselhafte Bedingungen, merklich weniger Menschen.\n\n**Nebensaison (Mai bis September)**: 40 bis 60 Prozent Rabatt. Strandresorts zum Gästehauspreis, und Last-Minute-Buchung funktioniert problemlos.\n\n**Was die Dinge kosten**: Doppelzimmer im Gästehaus 700 bis 1.400 ฿; gutes 3- bis 4-Sterne-Haus mit Pool 1.800 bis 3.500 ฿; Resorts in Railay und Klong Muang 4.000 bis 12.000 ฿. Ein 4-Inseln-Tag im Longtailboot beginnt bei rund 21 $, die Speedboot-Varianten liegen bei 33 bis 50 $, Phi-Phi-Tage bei 50 bis 96 $. Ein einheimisches Gericht kostet 60 bis 120 ฿; die Restaurants an der Strandstraße von Ao Nang verlangen das Doppelte für weniger.\n\n**Touren buchen**: In der Trockenzeit reichen 2 bis 4 Tage Vorlauf; zwischen Weihnachten und Neujahr sollten es eine Woche oder mehr sein. In der grünen Saison mit einem Reservetag buchen und mindestens eine Umplanung einkalkulieren.\n\nNoch unschlüssig zwischen Krabi und dem Nachbarn? Unser ehrlicher [Vergleich Krabi gegen Phuket](/de/thailand/krabi/krabi-vs-phuket-which-to-visit) zeigt, wem welches Ziel liegt, und der [3-Tage-Plan](/de/thailand/krabi/krabi-3-day-itinerary) zeigt, wie eine gute Reise konkret aussieht."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Welcher Monat ist der beste für Krabi?",
+    "a": "**Januar** ist der beste Allround-Monat: trocken, ruhige See, hervorragende Sicht unter Wasser, und nach der ersten Woche lässt der Andrang nach. **November** ist die clevere Wahl: Der Regen hat aufgehört und die Landschaft ist noch grün, aber die Hochsaisonpreise sind noch nicht da. Die Trockenzeit insgesamt läuft von November bis März."
+   },
+   {
+    "q": "Ist Krabi in der Regenzeit schlecht?",
+    "a": "Es ist ein echter Kompromiss. Mai bis Oktober bringt Regen, raue Andamanensee, gestrichene Inselabfahrten und gelegentlich rote Flaggen an den Weststränden. Dafür fallen die Hotelpreise um 40 bis 60 Prozent, die Landschaft ist am grünsten, und **das Landesinnere, Tigerhöhlen-Tempel, Emerald Pool, heiße Quellen, Kajak in den Mangroven, funktioniert auch bei Nässe.**"
+   },
+   {
+    "q": "Kommt man im Monsun noch nach Railay?",
+    "a": "Meistens ja, garantiert ist es nicht. **Railay erreicht man nur per Boot**, die Kalksteinvorsprünge schneiden die Halbinsel vom Straßennetz ab, also kann raue See die Longtail-Überfahrten ab Ao Nang verzögern oder aussetzen. In der Trockenzeit ist es eine Routinefahrt von 15 Minuten; in der grünen Saison planen Sie Puffer um Ihren Abflugtag ein, wenn Sie dort wohnen."
+   },
+   {
+    "q": "Wann ist die beste Zeit zum Klettern in Krabi?",
+    "a": "Von **November bis März**, wenn der Kalkstein trocken und griffig ist. Railay gehört zu den großen Sportklettergebieten der Welt, und die Saison folgt derselben Kurve wie alles andere hier: In der grünen Saison wird auch geklettert, aber nasser Fels und Nachmittagsgewitter schränken es stark ein."
+   },
+   {
+    "q": "Wann ist Krabi am günstigsten?",
+    "a": "Von **Mai bis September**: Die Hotelpreise fallen um 40 bis 60 Prozent, Strandresorts gehen zum Gästehauspreis weg, und Last-Minute-Buchung funktioniert. September und Oktober sind der absolute Tiefpunkt, gleichzeitig aber die Monate, in denen eine Reise mit Strand als Hauptzweck am ehesten gestört wird."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
