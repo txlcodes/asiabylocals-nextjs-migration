@@ -1516,6 +1516,264 @@ export const ES_TOURS: Record<string, TourT> = {
    "Nada"
   ]
  },
+ "delhi-to-agra-overnight-tour": {
+  "title": "Desde Delhi: Agra con una noche (experiencia de 1 noche)",
+  "metaTitle": "Agra desde Delhi en 2 días: Taj Mahal al atardecer y al amanecer",
+  "metaDescription": "Circuito privado de 2 días desde Delhi en Toyota con aire acondicionado: Baby Taj, atardecer en Mehtab Bagh, Taj Mahal al amanecer y Fuerte de Agra con guía autorizado. Hotel y entradas no incluidos.",
+  "shortDescription": "La mágica belleza del Taj Mahal al amanecer y al atardecer en este circuito privado con noche en Agra desde Delhi, perfectamente diseñado. Viaja cómodamente en coche privado y explora los monumentos UNESCO de Agra con un guía profesional autorizado por el gobierno.",
+  "fullDescription": "**Día 1: Delhi–Agra**\nUn viaje inolvidable a Agra en este circuito privado con noche desde Delhi, diseñado para viajeros que desean ver la mágica belleza del Taj Mahal al atardecer y al amanecer.\n\nVisita al elegante Itmad-ud-Daulah, el Baby Taj, y a última hora de la tarde Mehtab Bagh para un atardecer impresionante.\n\nTras el atardecer, traslado a tu hotel en Agra para una noche cómoda.\n\n**Día 2: Agra–Delhi**\nA la mañana siguiente, madruga para vivir el encantador amanecer en el Taj Mahal. Cuando los primeros rayos de sol tocan el mármol, el monumento cambia de color: una experiencia realmente mágica e irrepetible. Después, regreso al hotel para desayunar.\n\nTras el desayuno, continúa con la visita al gran Fuerte de Agra.\n\nCompletadas las visitas, relájate en el regreso a Delhi en tu vehículo privado.",
+  "highlights": [
+   "Delhi–Agra en 2 días en privado con noche junto al Taj Mahal",
+   "Coche de lujo con chófer que habla inglés",
+   "Atardecer y amanecer en el Taj Mahal",
+   "Taj Mahal, Fuerte de Agra, Baby Taj y Mehtab Bagh"
+  ],
+  "included": [
+   "Toyota con aire acondicionado durante 2 días Delhi–Agra–Delhi",
+   "Chófer que habla inglés",
+   "Impuestos, peajes, combustible y aparcamiento",
+   "Guía en inglés en Agra",
+   "Carrito de golf ida y vuelta al Taj Mahal",
+   "Botellas de agua",
+   "Cubrezapatos"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y hotel"
+  ]
+ },
+ "india-gate-guided-tour": {
+  "title": "4 días: Delhi, Agra, Ranthambore y Jaipur",
+  "metaTitle": "4 días Triángulo de Oro con safari de tigres en Ranthambore, entradas incluidas",
+  "metaDescription": "Circuito de 4 días desde Delhi: India Gate, Qutub Minar, Taj Mahal, Fuerte de Agra, safari de tigres en Ranthambore, Fuerte Amber y Hawa Mahal. Coche con aire acondicionado, guía y entradas incluidas.",
+  "shortDescription": "El emblemático Triángulo de Oro de India en 4 días inolvidables: el vibrante patrimonio de Delhi, la belleza eterna del Taj Mahal en Agra, un emocionante safari en el parque nacional de Ranthambore y los palacios reales de Jaipur. Historia, cultura, arquitectura y fauna salvaje para una aventura india memorable.",
+  "fullDescription": "Descubre el encanto de India con este emocionante circuito de 4 días por Delhi, Agra, el parque nacional de Ranthambore y Jaipur. Corto pero inmersivo, combina a la perfección historia, cultura, arquitectura y fauna salvaje.\n\nEl viaje empieza en Delhi, la dinámica capital donde los monumentos antiguos y la vida moderna conviven: la India Gate y el histórico Qutub Minar, antes de partir hacia Agra y el famoso Taj Mahal. Este impresionante monumento de mármol blanco, construido por el emperador mogol Shah Jahan, es símbolo de amor eterno y uno de los lugares más admirados del mundo. También visitarás el majestuoso Fuerte de Agra, Patrimonio de la Humanidad que refleja la grandeza del Imperio mogol.\n\nEl viaje continúa en la naturaleza del parque nacional de Ranthambore, con un emocionante safari en busca del majestuoso tigre de Bengala y otras especies. Por último, la ciudad real de Jaipur, la ciudad rosa, donde el Fuerte Amber y el Hawa Mahal muestran el patrimonio regio de Rajastán.\n\nEsta aventura de 4 días ofrece una visión perfecta de la rica cultura, la historia y la belleza natural de India.",
+  "highlights": [
+   "Monumentos emblemáticos del patrimonio y la arquitectura mogol",
+   "Emocionante safari de tigres de Bengala en Ranthambore",
+   "La cultura real y los palacios de Jaipur"
+  ],
+  "included": [
+   "Guía en persona",
+   "Coche con aire acondicionado para todo el circuito",
+   "Entradas a los monumentos",
+   "Safari de tigres compartido"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas para guía y conductor"
+  ]
+ },
+ "taj-mahal-delhi-sunrise-tour": {
+  "title": "El mejor paquete de Taj Mahal al amanecer",
+  "metaTitle": "Taj Mahal al amanecer desde Delhi, Fuerte de Agra y Mehtab Bagh, entradas incluidas",
+  "metaDescription": "Excursión desde Delhi para el Taj Mahal al amanecer, el Fuerte de Agra y una parada opcional en Mehtab Bagh, con guía autorizado, transporte privado de ida y vuelta y entradas incluidas.",
+  "shortDescription": "Para viajeros que quieren vivir la impresionante belleza del Taj Mahal en su hora más mágica: la primera luz del día iluminando el mármol blanco, en una atmósfera serena e inolvidable. Incluye el Fuerte de Agra, guía profesional en inglés, cómodo transporte privado y parada opcional en Mehtab Bagh para fotos.",
+  "fullDescription": "La excursión al Taj Mahal al amanecer desde Delhi es el viaje perfecto de un día para quienes quieren ver el monumento con la suave luz de la mañana, cuando el mármol blanco brilla en tonos dorados, en una atmósfera mágica ideal para la fotografía y la reflexión. Construido por el emperador mogol Shah Jahan en memoria de su esposa Mumtaz Mahal, el Taj Mahal es Patrimonio de la Humanidad y símbolo de amor eterno.\n\nLa visita incluye también el histórico Fuerte de Agra, que muestra la grandeza de la arquitectura mogol con sus muros de arenisca roja, sus bellos palacios y sus amplios patios. Las paradas opcionales en Mehtab Bagh ofrecen vistas panorámicas del Taj Mahal al otro lado del río Yamuna. Un guía profesional en inglés acompaña la visita y comparte datos fascinantes sobre la historia, la arquitectura y la importancia cultural de los monumentos. El cómodo transporte privado garantiza un viaje fluido de ida y vuelta desde Delhi, sin el estrés de la logística. Una experiencia fluida, enriquecedora y memorable del monumento más emblemático de India en un solo día.",
+  "highlights": [
+   "Visita al Taj Mahal al amanecer, una experiencia mágica",
+   "Visita guiada al histórico Fuerte de Agra",
+   "Parada opcional en Mehtab Bagh para vistas panorámicas del Taj",
+   "Perfecto para aficionados a la fotografía y amantes de la historia"
+  ],
+  "included": [
+   "Transporte privado de ida y vuelta Delhi–Agra",
+   "Guía profesional autorizado por el gobierno",
+   "Entradas al Taj Mahal y al Fuerte de Agra",
+   "Peajes, aparcamiento y dietas del conductor",
+   "Parada panorámica opcional en Mehtab Bagh"
+  ],
+  "notIncluded": [
+   "Nada"
+  ]
+ },
+ "delhi-agra-overnight-express-train-taj-mahal-sunrise": {
+  "title": "Desde Delhi: noche en Agra en tren exprés, Taj Mahal al amanecer",
+  "metaTitle": "2 días en Agra en Gatimaan Express: Taj al atardecer y al amanecer, Fatehpur Sikri",
+  "metaDescription": "Circuito de 2 días desde Delhi en Gatimaan Express: Fuerte de Agra, Baby Taj, atardecer en Mehtab Bagh, Taj Mahal al amanecer y Fatehpur Sikri. Guía autorizado y coche 2 días, hotel no incluido.",
+  "shortDescription": "De Delhi a Agra en Gatimaan Express para ver el Taj Mahal al atardecer y al amanecer, con Itmad-ud-Daulah (Baby Taj) y Mehtab Bagh. Al día siguiente, el histórico Fuerte de Agra y la magnífica Fatehpur Sikri, y regreso cómodo a Delhi por la tarde en Gatimaan Express. Opción en vagón CC (Chair Car).",
+  "fullDescription": "Salida desde la estación Hazrat Nizamuddin a bordo del cómodo y rápido Gatimaan Express hacia Agra. A la llegada, conoce a tu guía local y empieza un día completo de visitas en esta histórica ciudad mogol.\n\nVisita al magnífico Fuerte de Agra, gran fortaleza de arenisca roja que fue residencia principal de los emperadores mogoles. Continúa hacia el precioso Itmad-ud-Daulah, el «Baby Taj», conocido por su intrincado trabajo en mármol y sus jardines tranquilos. Por la tarde, disfruta de un impresionante atardecer sobre el Taj Mahal desde la otra orilla del Yamuna, una experiencia mágica y con menos gente.\n\nNoche en Agra (reserva el hotel por tu cuenta, no está incluido).\n\nA la mañana siguiente, madruga para el impresionante amanecer en el Taj Mahal, cuando el monumento brilla con una suave luz dorada, una experiencia inolvidable. Tras el desayuno, pintoresco trayecto hasta Fatehpur Sikri, la antigua capital mogol construida por el emperador Akbar, famosa por sus palacios bien conservados, sus patios y la majestuosa Buland Darwaza.\n\nA última hora de la tarde, regreso a la estación de Agra y embarque en el Gatimaan Express hacia Delhi, cerrando un memorable circuito de historia, arquitectura y belleza eterna.",
+  "highlights": [
+   "Agra con noche desde Delhi en tren: Taj Mahal, fuerte y Baby Taj",
+   "El Taj Mahal al amanecer y al atardecer, y al día siguiente Fatehpur Sikri",
+   "2 días en el Taj Mahal desde Delhi en tren, amanecer y atardecer"
+  ],
+  "included": [
+   "Billetes del Gatimaan Express en clase CC o EC (según la opción elegida)",
+   "Billetes de tren Delhi–Agra y Agra–Delhi al día siguiente",
+   "Toyota para recogida y regreso en la estación de Agra Cantt",
+   "Toyota para 2 días de visitas en Agra y Fatehpur Sikri",
+   "Guía autorizado por el gobierno durante 2 días",
+   "Carrito de golf al Taj Mahal, Fatehpur Sikri y Mehtab Bagh",
+   "Botellas de agua",
+   "Cubrezapatos"
+  ],
+  "notIncluded": [
+   "Habitación de hotel",
+   "Entradas",
+   "Comidas"
+  ]
+ },
+ "sunrise-taj-mahal-tour-delhi-all-inclusive": {
+  "title": "Desde Delhi: Taj Mahal al amanecer con guía, todo incluido",
+  "metaTitle": "Taj Mahal al amanecer desde Delhi con guía autorizado y desayuno de 5 estrellas",
+  "metaDescription": "Día desde Nueva Delhi: recogida de madrugada, Yamuna Expressway, Taj Mahal al amanecer sin colas, Fuerte de Agra, desayuno en hotel de 5 estrellas y regreso a Delhi el mismo día.",
+  "shortDescription": "La escapada perfecta de un día desde Nueva Delhi para ver la belleza eterna del Taj Mahal con la suave luz dorada de la mañana. Recogida temprana en tu hotel, trayecto fluido a Agra por la moderna Yamuna Expressway y regreso a Delhi el mismo día.",
+  "fullDescription": "La excursión al Taj Mahal al amanecer desde Nueva Delhi es la escapada perfecta de un día para ver la belleza eterna del monumento con la suave luz dorada de la mañana. Diseñada para la comodidad, empieza con una recogida temprana en tu hotel de Nueva Delhi y un trayecto fluido a Agra por la moderna Yamuna Expressway.\n\nLlegar a Agra al amanecer permite ver el Taj Mahal brillando en tonos cambiantes de rosa y dorado. Con menos gente y temperaturas más frescas, las primeras horas son ideales para la fotografía y una exploración tranquila. Tu guía profesional cuenta historias fascinantes sobre el emperador mogol Shah Jahan y la historia de amor eterno tras esta obra maestra.\n\nTras el Taj Mahal, la visita suele continuar en el impresionante Fuerte de Agra, Patrimonio de la Humanidad conocido por sus grandes palacios, patios y vistas espectaculares del Taj. Desayuno en un restaurante local y tiempo para la artesanía local antes de regresar a Nueva Delhi el mismo día.\n\nUna combinación fluida de historia, cultura y comodidad, una experiencia inolvidable para quien visita India con poco tiempo.",
+  "highlights": [
+   "Entrada sin colas al Taj Mahal",
+   "El fascinante Taj Mahal al amanecer",
+   "El precioso Fuerte de Agra"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Coche con aire acondicionado para la ida y vuelta",
+   "Guía autorizado por el gobierno",
+   "Desayuno en hotel de 5 estrellas"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Bebidas alcohólicas y bebidas",
+   "Propinas para guía y conductor"
+  ]
+ },
+ "delhi-guided-shopping-tour-female-expert": {
+  "title": "Delhi: tour de compras guiado con una experta",
+  "metaTitle": "Compras en Delhi con una guía experta: Chandni Chowk, Dilli Haat, Connaught Place",
+  "metaDescription": "Tour de compras personalizado por Delhi con una experta: tiendas de confianza, Chandni Chowk, Dilli Haat, Connaught Place, Shahpur Jat, degustaciones seguras, ayuda con el regateo, arreglos y envíos.",
+  "shortDescription": "Explora los mercados de Delhi con una experta en compras: tiendas de confianza, aperitivos locales y cómo reconocer la artesanía auténtica. La vibrante cultura de compras de Delhi con una guía experta, en mercados emblemáticos como Chandni Chowk, Dilli Haat y Connaught Place.",
+  "fullDescription": "Empieza con una cómoda recogida en tu hotel, seguida de una breve consulta para entender tus preferencias, tu presupuesto y tus objetivos de compra. Ya busques textiles bordados a mano, joyería de plata, chales de pashmina pura, productos de belleza ayurvédicos o moda de diseño, tu guía adapta la experiencia a tus necesidades.\n\nEvita las trampas para turistas y las tiendas con precios inflados: tu asesora te lleva a comercios de confianza y a mercados emblemáticos como Chandni Chowk, Dilli Haat, Connaught Place y Shahpur Jat. Por el camino, degustaciones seguras de aperitivos locales y chai tradicional, mientras aprendes a reconocer la artesanía auténtica y los productos de calidad.\n\nCon tu experta al lado, regatear resulta fácil y compras con la confianza de conseguir el mejor precio. El tour incluye ayuda con arreglos, envío de productos e incluso facturas GST si las necesitas, para que todo sea fluido y sin estrés.\n\nTu comodidad y seguridad son prioritarias, con transporte con aire acondicionado y un ritmo flexible pensado para viajeras. Perfecto para exploradoras en solitario, amigas o familias, este singular recorrido de compras convierte un día normal de compras en una experiencia cultural inmersiva, agradable y empoderadora.",
+  "highlights": [
+   "La vibrante cultura de compras de Delhi con una guía experta",
+   "Mercados emblemáticos como Chandni Chowk, Dilli Haat y Connaught Place",
+   "Degustaciones seguras de aperitivos locales y chai tradicional por el camino",
+   "Ayuda con arreglos, envío de productos y facturas GST si es necesario",
+   "Compra con confianza sabiendo que consigues el mejor precio"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Consulta de compras personalizada",
+   "Tour de compras guiado",
+   "Degustaciones seguras de aperitivos locales y chai tradicional",
+   "Ayuda con el regateo",
+   "Ayuda con arreglos",
+   "Envío de productos",
+   "Facturas GST si es necesario",
+   "Transporte con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Almuerzo"
+  ]
+ },
+ "chandni-chowk-shopping-tour": {
+  "title": "Delhi: tour de compras guiado con experta o experto",
+  "metaTitle": "Medio día de compras en Delhi con guía: Chandni Chowk y mercado de especias",
+  "metaDescription": "Tour de compras personalizado de medio día por Delhi con recogida: joyería, especias, el mayor mercado de especias de Asia con tés y hierbas, tiendas de confianza, aperitivos locales y artesanía auténtica.",
+  "shortDescription": "Los animados mercados de Delhi en un tour personalizado de medio día con cómoda recogida y regreso. Joyería, especias y el mayor mercado de especias de Asia con exquisitos tés y hierbas. Tiendas de confianza, aperitivos locales y cómo reconocer la artesanía auténtica.",
+  "fullDescription": "Empieza con una cómoda recogida en tu hotel, seguida de una breve consulta para entender tus preferencias, tu presupuesto y tus objetivos de compra. Ya busques textiles bordados a mano, joyería de plata, chales de pashmina pura, productos de belleza ayurvédicos o moda de diseño, tu guía adapta la experiencia a tus necesidades.\n\nEvita las trampas para turistas y las tiendas con precios inflados: tu asesor te lleva a comercios de confianza y a mercados emblemáticos como Chandni Chowk, Dilli Haat, Connaught Place y Shahpur Jat. Por el camino, degustaciones seguras de aperitivos locales y chai tradicional, mientras aprendes a reconocer la artesanía auténtica y los productos de calidad.\n\nCon tu experto al lado, regatear resulta fácil y compras con la confianza de conseguir el mejor precio. El tour incluye ayuda con arreglos, envío de productos e incluso facturas GST si las necesitas.\n\nTu comodidad y seguridad son prioritarias, con transporte con aire acondicionado y un ritmo flexible. Perfecto para exploradores en solitario, amigos o familias, este singular recorrido convierte un día normal de compras en una experiencia cultural inmersiva y agradable.",
+  "highlights": [
+   "Tour de compras de medio día con guía hombre o mujer",
+   "Mercados emblemáticos como Chandni Chowk, Dilli Haat y Connaught Place",
+   "Emporio de arte y artesanía con lo mejor del arte de India",
+   "Degustaciones seguras de aperitivos locales y chai tradicional por el camino",
+   "Compra con confianza sabiendo que consigues el mejor precio"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Consulta de compras personalizada",
+   "Tour de compras guiado",
+   "Degustaciones seguras de aperitivos locales y chai tradicional",
+   "Ayuda con el regateo",
+   "Ayuda con arreglos",
+   "Envío de productos",
+   "Facturas GST si es necesario",
+   "Transporte con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Almuerzo"
+  ]
+ },
+ "6-days-golden-triangle-tour-from-delhi": {
+  "title": "Desde Delhi: Triángulo de Oro en 6 días, Delhi, Agra y Jaipur",
+  "metaTitle": "Triángulo de Oro 6 días en Toyota privado con conductor y guías oficiales",
+  "metaDescription": "Circuito de 6 días por Delhi, Agra y Jaipur en Toyota con aire acondicionado, conductor en inglés y guías oficiales: Taj Mahal, Fuerte de Agra, Fatehpur Sikri, Fuerte Amber, Hawa Mahal y City Palace. Hoteles opcionales.",
+  "shortDescription": "Esta opción incluye un Toyota con aire acondicionado y conductor que habla inglés durante los 6 días, y servicios de guías locales oficiales en inglés en Delhi, Agra y Jaipur para disfrutar de las visitas.",
+  "fullDescription": "Vive el viaje más emblemático de India con el inolvidable Triángulo de Oro: Delhi, Agra y Jaipur.\n\nEl viaje empieza en Delhi, la dinámica capital donde los monumentos antiguos conviven con elegancia junto a los rascacielos modernos.\n\nDespués, Agra, la ciudad del amor eterno: la impresionante belleza del famoso Taj Mahal, una de las siete maravillas del mundo, y el imponente Fuerte de Agra, enorme fortaleza de arenisca roja que fue residencia real de los emperadores mogoles. Opcionalmente, la delicada tumba de mármol conocida como Baby Taj, con su artesanía intrincada y sus jardines tranquilos.\n\nEl destino final es Jaipur, la famosa ciudad rosa de Rajastán. Por el camino, puedes parar en Fatehpur Sikri, la capital mogol abandonada construida por el emperador Akbar.\n\nDisfruta del vibrante y colorido encanto de Jaipur, célebre por sus magníficos fuertes, sus grandes palacios, sus animados bazares y su rica cultura rajastaní. El día empieza con el majestuoso Fuerte Amber, impresionante fortaleza en la colina que combina la arquitectura rajput y mogol, y sigue con el Hawa Mahal, el City Palace y el Jal Mahal antes de regresar a Delhi.",
+  "highlights": [
+   "6 días de Triángulo de Oro en privado: Delhi, Agra y Jaipur",
+   "Toyota con aire acondicionado y conductor que habla inglés",
+   "Delhi, Agra y Jaipur con guías locales expertos"
+  ],
+  "included": [
+   "Recogida y regreso en el aeropuerto",
+   "Toyota con aire acondicionado y conductor que habla inglés",
+   "Impuestos, peajes, combustible y aparcamiento",
+   "Guía oficial en inglés en Delhi, Agra y Jaipur",
+   "Hoteles según la opción elegida (opcional)"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas",
+   "Hoteles (si no se reserva la opción con hoteles)"
+  ]
+ },
+ "old-new-delhi-private-half-day-tour": {
+  "title": "Visita privada guiada de la Vieja y la Nueva Delhi, día completo o medio día",
+  "metaTitle": "Vieja y Nueva Delhi en privado: Jama Masjid, Chandni Chowk, Humayun, Qutub Minar",
+  "metaDescription": "Visita privada a Delhi con guía y coche con aire acondicionado: Jama Masjid, rickshaw por Chandni Chowk, Gurudwara Bangla Sahib, tumba de Humayun, Qutub Minar, India Gate y Templo del Loto. Entradas y almuerzo opcionales.",
+  "shortDescription": "Las callejuelas estrechas y densamente pobladas de la Vieja Delhi, con la influencia de la arquitectura mogol, y después la Nueva Delhi y su arquitectura colonial. Jama Masjid, Chandni Chowk, tumba de Humayun, Templo del Loto, India Gate, Qutub Minar y más.",
+  "fullDescription": "En esta visita vivirás la Vieja y la Nueva Delhi. El día en la capital de India empieza por la parte histórica de la ciudad, la Vieja Delhi. Nuestro chófer te recoge en tu hotel, el aeropuerto o la estación de Delhi, Noida o Gurugram en coche privado con aire acondicionado. Tu guía se une por el camino y te acompaña durante todo el día.\n\nDirígete a la gran mezquita de Delhi, la Jama Masjid, construida por Shah Jahan, quinto emperador de la dinastía mogol, y terminada en 1656, en pleno corazón de la Vieja Delhi. Desde allí, súbete a un rickshaw de pedales (si se elige la opción) para recorrer el bullicioso mercado de Chandni Chowk y el mercado de especias de Khari Baoli. En el Gurudwara Bangla Sahib conocerás la religión sij y la segunda cocina comunitaria más grande del mundo, que sirve unas 50.000 comidas al día.\n\nDisfruta de la cocina tradicional mogol del norte de India en un restaurante popular. Tras el almuerzo, los sitios UNESCO de la tumba de Humayun y el Qutub Minar. Pasa junto al Parlamento, la India Gate y la residencia presidencial, y visita el Templo del Loto de la fe bahá'í antes de regresar al lugar que desees.",
+  "highlights": [
+   "Las dos caras conocidas de la capital de India, la Nueva y la Vieja Delhi",
+   "Paseo en rickshaw por Chandni Chowk y los colores vibrantes de las tiendas",
+   "La magnífica belleza de la arquitectura mogol y colonial en un día"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Garantía de saltarse la cola de las entradas",
+   "Servicio de experto guía profesional",
+   "Berlina o SUV privado con aire acondicionado y chófer que habla inglés",
+   "Almuerzo buffet en un restaurante limpio de cocina variada (si se elige la opción)",
+   "Botellas de agua mineral",
+   "Impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Bebidas servidas con el almuerzo",
+   "Propinas para guía y chófer",
+   "Gastos personales"
+  ]
+ },
+ "private-taj-mahal-agra-day-tour-from-delhi": {
+  "title": "Desde Delhi: Taj Mahal y Agra ida y vuelta en el día en coche",
+  "metaTitle": "Taj Mahal desde Delhi en SUV Toyota Crysta privado con guía oficial",
+  "metaDescription": "Día privado Delhi–Agra en SUV Toyota Crysta con aire acondicionado y chófer que habla inglés: Taj Mahal sin colas (amanecer opcional), Fuerte de Agra, Baby Taj opcional, guía autorizado y desayuno de 5 estrellas opcional.",
+  "shortDescription": "Un viaje privado memorable en SUV Toyota Crysta al magnífico Taj Mahal, en una cómoda excursión de un día desde Delhi diseñada para viajeros que valoran el lujo, la flexibilidad y un guía experto. Coche privado con aire acondicionado y recogida en hotel o aeropuerto, para una experiencia fluida de principio a fin.",
+  "fullDescription": "**Delhi–Agra ida y vuelta en el día en Toyota**\n\nReserva un viaje privado memorable al magnífico Taj Mahal en una cómoda excursión de un día desde Delhi, diseñada para viajeros que valoran el lujo, la flexibilidad y un guía experto. Coche privado con aire acondicionado y recogida en hotel o aeropuerto.\n\nElige la visita opcional al amanecer para ver el Taj Mahal brillar con la suave luz de la mañana, el momento más mágico para explorar este sitio Patrimonio de la Humanidad. Tu guía profesional autorizado por el gobierno cuenta historias fascinantes sobre la historia mogol, el emperador Shah Jahan y la eterna historia de amor tras esta obra maestra de mármol blanco.\n\nContinúa hacia el gran Fuerte de Agra, fortaleza de arenisca roja declarada por la UNESCO que fue residencia principal de los emperadores mogoles: impresionantes palacios, salas de audiencia y patios, con vistas espectaculares del Taj Mahal desde dentro.\n\nCompleta la visita con la elegante tumba de Itimad-ud-Daulah, el Baby Taj, opcional: esta joya mogol oculta se admira por sus delicadas incrustaciones de mármol y su entorno de jardines tranquilos.\n\nEsta excursión privada desde Delhi combina historia, lujo y comodidad en una experiencia fluida e inolvidable, ideal para parejas, familias y quienes visitan India por primera vez.",
+  "highlights": [
+   "Coche privado con aire acondicionado y recogida en hotel o aeropuerto de Delhi",
+   "Visita guiada sin colas al Taj Mahal y al Fuerte de Agra",
+   "La joya oculta de la tumba de Itimad-ud-Daulah (Baby Taj), opcional",
+   "Coches de modelo reciente con chófer que habla inglés",
+   "Almuerzo en restaurante de 5 estrellas en Agra (opcional)"
+  ],
+  "included": [
+   "Recogida y regreso en hotel o aeropuerto",
+   "Guía oficial",
+   "Transporte en coche con aire acondicionado, Delhi–Agra ida y vuelta",
+   "Impuestos, peajes, combustible y aparcamiento",
+   "Chófer que habla inglés",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Desayuno en hotel de 5 estrellas (si se elige la opción)",
+   "Botellas de agua mineral",
+   "Impuestos y tasas"
+  ],
+  "notIncluded": [
+   "Entradas y almuerzo (si no se reserva la opción)"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Guía oficial autorizado para el Taj Mahal",
   "metaTitle": "Guía oficial del Taj Mahal, entrada sin colas",
