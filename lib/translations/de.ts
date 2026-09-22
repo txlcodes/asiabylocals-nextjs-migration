@@ -1990,6 +1990,218 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "delhi-to-jaipur-same-day-tour-by-car": {
+  "title": "Ab Delhi: Jaipur Tagestour im klimatisierten Wagen",
+  "metaTitle": "Jaipur ab Delhi an einem Tag: Amber, City Palace, Jantar Mantar, Hawa Mahal",
+  "metaDescription": "Privater Tag von Delhi nach Jaipur im klimatisierten Wagen mit lizenziertem Guide: Amber Fort, Jantar Mantar, Jal Mahal, City Palace und Hawa Mahal. Abfahrt 5 Uhr, Eintritte und Mittagessen optional.",
+  "shortDescription": "Jaipurs Top-Sehenswürdigkeiten Amber Fort, City Palace, Jantar Mantar, Hawa Mahal und Jal Mahal auf einer privaten Führung mit Hotelabholung und optionalem traditionellem Mittagessen. Inklusive des UNESCO-gelisteten Observatoriums Jantar Mantar.",
+  "fullDescription": "Von Delhi nach Jaipur sind es etwa 5 Stunden Fahrt, und die Sehenswürdigkeiten Jaipurs öffnen gegen 8 Uhr. Je früher wir losfahren, desto mehr sehen wir. Wir sind bereit, wenn Sie es sind, mit Abholung überall in Delhi.\n\n**5:00 Uhr:** Start, sobald unser Fahrer Sie an Ihrer Adresse in Delhi abgeholt hat.\n\n**10:00 Uhr:** Ankunft in Jaipur und Beginn der Erkundung der rosa Stadt, berühmt für ihr reiches Erbe und ihre lebendige Kultur.\n\nGleich nach der Ankunft das Amber Fort, die goldene Festung aus dem 11. Jahrhundert: eine reizvolle Mischung aus gelbem und rosa Sandstein und schimmerndem weißem Marmor. Private Führung durch das Sonnentor, prächtige Höfe, kunstvoll verzierte Korridore und der atemberaubende Spiegelsaal.\n\nDann die Wunder des Jantar Mantar, eines alten Observatoriums mit faszinierenden mathematischen Instrumenten.\n\nHalt am Jal Mahal (Wasserpalast), der mitten in einem See liegt. Für die Öffentlichkeit geschlossen, bietet dieser alte Königspalast, einst für die Entenjagd genutzt, eine idyllische Kulisse für Postkartenfotos.\n\nWeiter in die Innenstadt zum City Palace Museum, einer harmonischen Verbindung rajasthanischer und mogulischer Architektur: beeindruckende Bauten, Höfe und große Tore. Die heutige Königsfamilie lebt noch im Chandra Mahal, was dem Erlebnis einen Hauch kaiserlicher Eleganz verleiht.\n\nDann der Hawa Mahal, Jaipurs berühmtestes Wahrzeichen. 1799 erbaut, erlaubte dieses architektonische Wunder den Hofdamen, Straßenprozessionen unbemerkt zu beobachten, hinter einer prachtvollen fünfstöckigen Fassade mit fein durchbrochenen Fenstern und Balkonen.\n\nDieses sorgfältig geplante Programm holt das Beste aus Ihrem Tagesausflug heraus. Sie kehren mit außergewöhnlichen Eindrücken und bleibenden Erinnerungen nach Delhi zurück.",
+  "highlights": [
+   "Private Tour mit erfahrenem englischsprachigem Guide",
+   "Privater klimatisierter Wagen mit Hotelabholung und Rückfahrt",
+   "Das UNESCO-gelistete Observatorium Jantar Mantar und tolle Fotos"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller, staatlich lizenzierter Guide",
+   "Eintrittskarten der Monumente (bei gewählter Option)",
+   "Mittagessen im Restaurant (bei gewählter Option)",
+   "Mineralwasser",
+   "Maut und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "jama-masjid-food-tour": {
+  "title": "Kulturspaziergang durch Alt-Delhi mit Streetfood",
+  "metaTitle": "Alt-Delhi zu Fuß: Tempel, Jama Masjid, Sis Ganj, Streetfood, Khari Baoli",
+  "metaDescription": "Geführter Spaziergang durch Alt-Delhi: Jain-Tempel Lal Mandir, Gauri Shankar, Jama Masjid, Gurdwara Sis Ganj Sahib, Streetfood-Verkostung, Rikschafahrt und Khari Baoli, Asiens größter Gewürzmarkt.",
+  "shortDescription": "Die lebendige Kultur Alt-Delhis auf einem geführten Spaziergang: der historische Shri Digambar Jain Lal Mandir, der Gauri-Shankar-Tempel und der Gurdwara Sis Ganj Sahib. Lokales Streetfood und das duftende Chaos von Khari Baoli, Asiens größtem Gewürzmarkt. Rikschafahrt inklusive.",
+  "fullDescription": "Beginnen Sie den Tag mit einem guten Frühstück und treffen Sie dann Ihren Guide an der Metrostation. Von dort geht es auf einen unvergesslichen Spaziergang durch die lebhaften, engen Gassen Alt-Delhis, wo Geschichte, Kultur und Tradition an jeder Ecke lebendig werden.\n\nErste Station ist der verehrte Shri Digambar Jain Lal Mandir, der älteste und bedeutendste Jain-Tempel Delhis, direkt gegenüber dem Roten Fort im Herzen von Chandni Chowk. Der Tempel beherbergt auch das einzigartige Vogelhospital, ein Zufluchtsort zur Pflege verletzter Vögel.\n\nDann der historische Gauri-Shankar-Tempel, berühmt für seinen 800 Jahre alten heiligen Lingam. Dieses kraftvolle Shiva-Symbol ist in einer Marmorstruktur eingefasst, die die weibliche Form darstellt, geschmückt mit kunstvoll gearbeiteten silbernen Schlangen als Symbol der kosmischen Säule, des Zentrums des Universums.\n\nWeiter zur prachtvollen Jama Masjid, einer der größten und eindrucksvollsten Moscheen Indiens. Vom Mogulkaiser Shah Jahan im 17. Jahrhundert erbaut, zeigt dieses Meisterwerk große Höfe, hohe Minarette und herrliche Arbeiten in rotem Sandstein und Marmor. Von der erhöhten Plattform genießen Sie atemberaubende Blicke auf die belebten Straßen Alt-Delhis.\n\nDann der heilige Gurdwara Sis Ganj Sahib, einer der wichtigsten Sikh-Schreine Delhis. 1783 von Baghel Singh erbaut, markiert er den Ort des Martyriums von Guru Tegh Bahadur. Hier stand einst ein Kotwali der Mogulzeit (Polizeistation und Gefängnis), bevor der Ort nach dem Aufstand von 1857 zu einem Platz tiefer spiritueller Bedeutung wurde.\n\nNach Geschichte und Spiritualität verwöhnen Sie Ihren Gaumen mit den unwiderstehlichen Aromen des berühmten Streetfoods von Alt-Delhi, ein echter Höhepunkt.\n\nZum Schluss Khari Baoli, Asiens größter Gewürzmarkt: leuchtende Farben, reiche Düfte und die geschäftige Energie der Händler mit Gewürzen, Kräutern und Trockenfrüchten.\n\nAm Ende dieser bereichernden Reise begleitet Sie Ihr Guide zurück zur Metrostation.",
+  "highlights": [
+   "Rikschafahrt durch enge Gassen",
+   "Lokales Essen probieren",
+   "Orte mehrerer Religionen",
+   "Besuch lokaler Märkte",
+   "Das belebteste Viertel Delhis"
+  ],
+  "included": [
+   "Eintrittskarten",
+   "Streetfood-Verkostung",
+   "Rikschafahrt",
+   "Guide"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "golden-triangle-ranthambore-tiger-safari-4-days": {
+  "title": "Ab Delhi: Goldenes Dreieck und Tigersafari in Ranthambore in 4 Tagen",
+  "metaTitle": "4 Tage Delhi, Agra, Ranthambore, Jaipur: Taj bei Sonnenaufgang, Tigersafari, 5-Sterne-Hotels optional",
+  "metaDescription": "4-Tage-Tour ab Delhi: Alt-Delhi per Rikscha, Sonnenuntergang und Sonnenaufgang am Taj Mahal, Rotes Fort, Tigersafari im Jeep in Ranthambore, Amber Fort, Jal Mahal, Hawa Mahal. Private Guides, 5-Sterne-Hotels optional.",
+  "shortDescription": "Agra, Ranthambore und Jaipur auf einer 4-Tage-Tour ab Delhi: indische Geschichte und Kultur, UNESCO-Stätten, Feste und Bengaltiger in ihrem natürlichen Lebensraum. Auf Safari die vielfältige Tierwelt des Parks entdecken und mehr über Ökologie, Tierverhalten und Naturschutz erfahren.",
+  "fullDescription": "**Vollständiges Programm**\n\n**Tag 1: Ankunft, Delhi, Fahrt nach Agra**\nUnser Chauffeur holt Sie am Hotel oder Flughafen in Delhi ab, dann Treffen mit Ihrem professionellen Guide. Jama Masjid, Rikschafahrt in Chandni Chowk, Präsidentenpalast und Parlament (von außen), India Gate, danach Lotustempel und Qutub Minar. Anschließend Fahrt nach Agra, der Stadt der Liebe, Check-in im Hotel. Je nach Zeit Sonnenuntergang auf die Rückseite des Taj Mahal vom Mehtab Bagh. Übernachtung in Agra.\n\n**Tag 2: Agra, Ranthambore**\nAbholung um 5:30 Uhr durch Fahrer und Guide zum Taj Mahal bei Sonnenaufgang, der besten Zeit für dieses Weltwunder, dann zurück ins Hotel zum Frühstück. Nach dem Check-out das historische Rote Fort mit seinen verschiedenen Gemächern und prachtvoller Architektur. Fahrt nach Ranthambore und Check-in im Hotel. Übernachtung in Ranthambore.\n\n**Tag 3: Ranthambore, Jaipur**\nFrüh aufstehen für eine Jeep-Safari im Ranthambore-Nationalpark: einige Stunden durch die aufregenden Landschaften dieses dichten Waldes mit Ihrem geschulten Naturführer auf der Suche nach wilden Bengaltigern. Frühstück im Hotel nach der Morgensafari, dann Abfahrt nach Jaipur mit Halt am Affentempel. Check-in im Hotel. Übernachtung in Jaipur.\n\n**Tag 4: Jaipur, Delhi**\nNach Frühstück und Check-out geführte Besichtigung Jaipurs: Amber Fort, Jal Mahal (Palast mitten im Man-Sagar-See), City Palace und Hawa Mahal. Mittagessen je nach Zeit, dann etwa fünf Stunden Rückfahrt nach Delhi oder Absetzen am Flughafen Jaipur.\n\n**5-Sterne-Hotels:**\nJaypee Palace oder ähnlich in Agra; The Tigress oder ähnlich in Ranthambore; Hilton, Indana Palace oder ähnlich (Heritage) in Jaipur.",
+  "highlights": [
+   "Delhi, Agra, Ranthambore und Jaipur in 3 Nächten und 4 Tagen",
+   "Das Taj Mahal bei Sonnenaufgang",
+   "Tigersafari im Ranthambore-Nationalpark",
+   "Die „rosa Stadt“ Jaipur"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Fahrzeug mit Fahrer",
+   "Abholung und Rückfahrt an Hotel oder Flughafen",
+   "Alle Besichtigungen mit privaten lokalen Guides",
+   "Rikschafahrt in Chandni Chowk, Alt-Delhi",
+   "Shuttle vom Parkplatz zum Taj Mahal",
+   "Einlass ohne Anstehen am Taj Mahal",
+   "Mineralwasser während der Fahrten",
+   "Morgendliche Tigersafari in Ranthambore im geteilten Jeep oder Canter",
+   "Abendessen in Ranthambore (bei gewählter Hotel-Option)",
+   "3 Übernachtungen mit Frühstück (bei gewählter Option)",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder für Guide und Fahrer",
+   "Eintrittskarten der Monumente"
+  ]
+ },
+ "delhi-private-4-day-golden-triangle-luxury-tour": {
+  "title": "Ab Delhi: private 4-Tage-Luxustour Goldenes Dreieck",
+  "metaTitle": "Goldenes Dreieck 4 Tage Luxus: Delhi, Taj bei Sonnenaufgang, Baby Taj, Amber, 4- oder 5-Sterne-Hotels",
+  "metaDescription": "Private 4-Tage-Luxusreise Delhi, Agra, Jaipur: Qutub Minar, Lotustempel, Taj Mahal bei Sonnenaufgang, Rotes Fort, Baby Taj, Panna Meena ka Kund, Amber Fort, Jal Mahal, Hawa Mahal. 4- oder 5-Sterne-Hotels optional.",
+  "shortDescription": "Die großen Städte des berühmten Goldenen Dreiecks Indiens auf einer privaten Tour ab Delhi. Die prachtvollsten Monumente von Delhi, Agra und Jaipur, unvergessliche Erinnerungen und ein in jeder Stadt nach Ihren Interessen anpassbares Programm.",
+  "fullDescription": "Entdecken Sie einige der prachtvollsten Monumente Indiens auf einer privaten Luxustour durch die drei großen Städte des Goldenen Dreiecks. Gönnen Sie sich Luxusunterkünfte für einen Hauch vom Leben auf dem Subkontinent zur Zeit des Raj, oder buchen Sie Ihre Unterkunft selbst mit der Option ohne Hotels.\n\n**Tag 1: Delhi, Agra**\nAbholung am Wunschort in Delhi, Noida oder Gurgaon. Halbtagestour durch das Zentrum Delhis: der von Qutub-ud-din Aibek erbaute Qutub Minar, der Lotustempel (Bahai-Tempel), India Gate und der Stufenbrunnen Agrasen ki Baoli. Vorbeifahrt am Parlament und Präsidentenpalast, dann über die Autobahn nach Agra (etwa 3,5 Stunden). Check-in und Entspannung im Hotel.\n\n**Tag 2: Agra, Jaipur**\nFrüh aufstehen für den majestätischen Sonnenaufgang über dem Taj Mahal und eine 2-stündige Führung durch das Mausoleum vor den Massen. Zurück ins Hotel zum Frühstück. Dann das historische Rote Fort und das exquisite Grab des Itimad-ud-Daulah, das „Baby Taj“. Danach Fahrt nach Jaipur (etwa 5 Stunden).\n\n**Tag 3: Jaipur**\nNach dem Frühstück das majestätische Amber Fort, davor ein Halt am charmanten Panna Meena ka Kund, einem alten Stufenbrunnen mit symmetrischen Treppen. Dann die Schönheit des Jal Mahal, Gatore ki Chhatriyan mit fein gemeißelten Kenotaphen, der Palast der Winde (Hawa Mahal), das Observatorium Jantar Mantar und der City Palace des Maharadschas. Übernachtung in Jaipur.\n\n**Tag 4: Jaipur, Delhi**\nNach dem Frühstück Rückfahrt nach Delhi mit Absetzen am Flughafen, Bahnhof oder Hotel.\n\n**4-Sterne-Hotels:** Royale Sarovar Portico Agra oder ähnlich; Fern Residency Jaipur oder ähnlich.\n**5-Sterne-Hotels:** Jaypee Palace oder Courtyard by Marriott Agra oder ähnlich; Holiday Inn City Centre, Hilton Jaipur oder ähnlich.",
+  "highlights": [
+   "Zeitreise in die historischen Städte Delhi, Agra und Jaipur",
+   "Luxushotels in den großen Städten des Goldenen Dreiecks",
+   "Das Taj Mahal von innen, bevor die Massen kommen",
+   "Der schöne Palast der Winde und das Amber Fort auf dem Hügel",
+   "In jeder Stadt anpassbares Programm"
+  ],
+  "included": [
+   "Private Tour für ein persönliches Erlebnis",
+   "3 Übernachtungen (bei gewählter Option)",
+   "Tägliches Frühstück in den Hotels (bei gewählter Hotel-Option)",
+   "Transport im privaten klimatisierten Fahrzeug",
+   "Führungen mit kundigen lokalen Guides",
+   "Elektro-Shuttle zwischen Parkplatz und Taj Mahal",
+   "Alle Steuern und Servicegebühren",
+   "Abholung und Rückfahrt an Hotels, Flughafen oder Bahnhof",
+   "Mineralwasser während der Fahrten",
+   "Persönliche Betreuung während der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Eintrittsgebühren (etwa 60 $ pro Person für alle Monumente)",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "jama-masjid-heritage-tour": {
+  "title": "Delhi entdecken: Mogul-Erbe und ikonische Wahrzeichen",
+  "metaTitle": "Delhi an einem Tag mit Guide: Qutub Minar, Humayun-Mausoleum, India Gate, Alt-Delhi",
+  "metaDescription": "Privater Tag in Delhi mit Guide und Transport: Qutub Minar, Humayun-Mausoleum, Lutyens-Boulevards und India Gate, dann Jama Masjid und Chandni Chowk in Alt-Delhi. Eintritte nicht inklusive.",
+  "shortDescription": "Delhis faszinierende Geschichte und lebendige Kultur auf einer Ganztagestour zu den wichtigsten Wahrzeichen: der prachtvolle Qutub Minar, die elegante Mogul-Architektur des Humayun-Mausoleums, die großen Alleen Neu-Delhis mit dem India Gate, dann das Herz Alt-Delhis mit engen Gassen, historischen Bauten, belebten Märkten und der beeindruckenden Jama Masjid. Geschichte, Architektur, lokale Kultur und Stadtleben: die ideale Einführung in Delhi.",
+  "fullDescription": "Erleben Sie Geschichte, Kultur, Architektur und den lebendigen Alltag der indischen Hauptstadt auf einer privaten Ganztagestour. Delhi ist eine Stadt, in der Jahrhunderte Geschichte neben dem modernen Indien bestehen, und diese Tour führt zu den bemerkenswertesten Wahrzeichen und historischen Vierteln.\n\nBeginn am Qutub Minar, einem der ikonischsten Monumente Delhis und UNESCO-Welterbe: der prachtvolle Turm und die umliegende archäologische Anlage, mit der Geschichte des frühen Sultanats von Delhi und der Entwicklung der indo-islamischen Architektur.\n\nWeiter zum Humayun-Mausoleum, einem Meisterwerk der Mogul-Architektur inmitten schöner Charbagh-Gärten, das die spätere Mogul-Architektur prägte und eine wichtige Inspiration für das Taj Mahal wurde.\n\nDann die großartige Atmosphäre des in der britischen Zeit entstandenen Neu-Delhi: die imposanten Alleen des Lutyens-Delhi und das India Gate, eines der bekanntesten Wahrzeichen der Hauptstadt, vorbei am Regierungsviertel, das Neu-Delhi zum politischen Zentrum des modernen Indien machte.\n\nAm Nachmittag ins historische Herz Alt-Delhis, wo sich die Atmosphäre völlig wandelt: die lebhaften Straßen um Jama Masjid und Chandni Chowk mit traditionellen Märkten, alten Gebäuden, kleinen Läden, Streetfood und Alltagsleben. Geschichten aus der Mogulzeit und wie sich Alt-Delhi von der Kaiserstadt Shahjahanabad zu einem der lebendigsten Viertel des heutigen Delhi entwickelte.\n\nDen ganzen Tag über teilt Ihr lokaler Guide historische Geschichten, Architekturdetails, kulturelle Einblicke und interessante Fakten, die Delhis Vergangenheit lebendig machen. Ideal für Erstbesucher, die Delhis Höhepunkte sehen und zugleich den Zusammenhang zwischen Sultanat, Mogulreich, britischer Zeit und modernem Indien verstehen möchten.\n\nOb Geschichte, Architektur, Fotografie, Kultur oder einfach die vielen Gesichter Delhis: Diese Ganztagestour ist eine unvergessliche Einführung in eine der faszinierendsten Städte Indiens.",
+  "highlights": [
+   "Qutub Minar, Delhis ikonisches UNESCO-Monument",
+   "Humayun-Mausoleum, das prachtvolle Mogul-Gartengrab, das das Taj Mahal inspirierte",
+   "India Gate und Neu-Delhi, die großen Alleen des Lutyens-Delhi",
+   "Alt-Delhi, die lebhaften Straßen um Jama Masjid und Chandni Chowk"
+  ],
+  "included": [
+   "Professioneller Guide",
+   "Transport",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mahlzeit",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "explore-old-new-delhi-city-luxury-car-tour": {
+  "title": "Alt- und Neu-Delhi im Luxuswagen mit offiziellem Guide",
+  "metaTitle": "Delhi im Privatwagen mit offiziellem Guide: Alt-Delhi, Neu-Delhi oder Kombitag",
+  "metaDescription": "Private Delhi-Tour halb- oder ganztags mit lizenziertem Guide und klimatisiertem Wagen: Jama Masjid, Tuk-Tuk durch Chandni Chowk, Khari Baoli, Rotes Fort, Bangla Sahib, Agrasen ki Baoli, India Gate, Humayun-Mausoleum, Lotustempel.",
+  "shortDescription": "Der Charme Delhis auf einer privaten Führung mit flexibler Halb- oder Ganztagsoption. Berühmte Wahrzeichen und verborgene Schätze, und das wahre Wesen der lebendigen indischen Hauptstadt mit einem kundigen lokalen Experten.",
+  "fullDescription": "Erkunden Sie Delhi mit Privatwagen und staatlich lizenziertem Guide: Alt- und Neu-Delhi mit Jama Masjid, Chandni Chowk, India Gate, Humayun-Mausoleum und Lotustempel.\n\n**Alt-Delhi**\n\nReisen Sie zurück in der Zeit durch den historischen Charme und die lebendige Kultur Alt-Delhis, mit einer aufregenden Tuk-Tuk-Fahrt durch die belebten engen Gassen. Beginnen Sie mit der prachtvollen Jama Masjid, einer der größten und eindrucksvollsten Moscheen Indiens aus der Mogulzeit. Weiter durch die lebhaften Straßen des berühmten Gewürzmarkts Khari Baoli, wo der Duft traditioneller indischer Gewürze in der Luft liegt. Bewundern Sie das prächtige Äußere des Roten Forts, UNESCO-Monument und Symbol des Mogul-Erbes. Dann der friedliche Gurudwara Bangla Sahib, bekannt für seinen heiligen Teich und die größte Gemeinschaftsküche der Welt, die täglich Tausenden kostenlose Mahlzeiten serviert.\n\n**Neu-Delhi**\n\nDie Eleganz und architektonische Brillanz Neu-Delhis, beginnend mit dem alten Stufenbrunnen Agrasen ki Baoli, einem verborgenen historischen Juwel inmitten der modernen Stadt. Bequeme Vorbeifahrt an Indiens ikonischen Wahrzeichen India Gate, Parlament und Rashtrapati Bhavan. Weiter zum majestätischen Humayun-Mausoleum, UNESCO-Welterbe und Inspiration für das Taj Mahal. Abschluss am ruhigen Lotustempel mit seiner einzigartigen Lotusform (montags ersetzt durch den Qutub Minar).\n\n**Kombitag**\n\nFür das komplette Delhi-Erlebnis verbindet die Ganztags-Kombitour die kulturelle Fülle von Alt- und Neu-Delhi: die faszinierenden Kontraste zwischen Mogul-Monumenten und Kolonialarchitektur, mit tieferen Einblicken in Delhis Geschichte, Traditionen und Lebensart.\n\nPrivates klimatisiertes Fahrzeug, professioneller lizenzierter Guide, Wasserflaschen und Rikschafahrt für ein reibungsloses, stressfreies Erlebnis. Persönlicher Service, flexible Besichtigungen und perfekte Logistik, um die zeitlose Schönheit Delhis in Komfort und Stil zu entdecken.",
+  "highlights": [
+   "Die zwei großen Teile Delhis: Neu-Delhi und Alt-Delhi",
+   "Private Tour im klimatisierten Wagen mit offiziellem Guide",
+   "Alle wichtigen Sehenswürdigkeiten der Stadt Delhi"
+  ],
+  "included": [
+   "Klimatisierter Wagen für die Delhi-Stadttour",
+   "Abholung und Rückfahrt am Hotel, Delhi und NCR",
+   "Steuern, Maut, Kraftstoff und Parkgebühren",
+   "Offizieller lokaler Guide für die Besichtigungen",
+   "Rikschafahrt in Chandni Chowk"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mittagessen"
+  ]
+ },
+ "5-days-golden-triangle-tour-from-delhi": {
+  "title": "Ab Delhi: 5 Tage Goldenes Dreieck",
+  "metaTitle": "Goldenes Dreieck 5 Tage Luxus: Delhi, Agra, Chand Baori, Jaipur, 3- bis 5-Sterne-Hotels",
+  "metaDescription": "Private 5-Tage-Tour Delhi, Agra, Jaipur mit Guides und Fahrer: Alt- und Neu-Delhi, Mehtab Bagh, Baby Taj, Taj Mahal bei Sonnenaufgang, Rotes Fort, Chand Baori, Amber Fort, Hawa Mahal, City Palace. 3- bis 5-Sterne-Hotels optional.",
+  "shortDescription": "Die prachtvollsten Monumente und Städte auf dieser 5-tägigen Luxustour zu den besten Sehenswürdigkeiten von Delhi, Agra und Jaipur: Taj Mahal, große Forts, bunte Märkte und reiches kulturelles Erbe.",
+  "fullDescription": "Das Beste des Goldenen Dreiecks in 5 Tagen: die schönsten Monumente und Luxusunterkünfte in den drei großen Städten der Route, mit privatem Guide und Fahrer.\n\n**Tag 1**\nAbholung am Wunschort in Delhi, Noida oder Gurugram. Ganztagestour durch Delhi, Neu und Alt: Jama Masjid, Rikschafahrt in Alt-Delhi, Chandni Chowk, Gewürzmarkt, Rotes Fort (Vorbeifahrt), Stufenbrunnen Agrasen ki Baoli, Sikh-Tempel Bangla Sahib, India Gate, Parlament und Rashtrapati Bhavan (Vorbeifahrt), Nationalmuseum, Gandhi Smriti, Lotustempel und Qutub Minar, dann Check-in im Hotel.\nUnterkunft: 3 Sterne Bloom Hotel Karol Bagh oder ähnlich; 4 Sterne Lemon Tree Premier oder ähnlich; 5 Sterne Novotel City Centre, Vasant Continental, The Suryaa oder ähnlich.\n\n**Tag 2**\nNach dem Frühstück nach Agra, Check-in im Hotel, dann Führung durch Mehtab Bagh, eine Charbagh-Anlage mit atemberaubendem Blick auf das Taj Mahal, und Itimad-ud-Daulah, das Baby Taj.\nUnterkunft: 3 Sterne Howard Plaza The Fern oder Golden Tulip; 4 Sterne Royale Sarovar Portico; 5 Sterne Jaypee Palace, Courtyard Marriott oder Grand Mercure.\n\n**Tag 3**\nFrüh aufstehen für den Sonnenaufgang über dem Taj Mahal und eine Führung vor den Massen. Dann das Rote Fort, anschließend Fahrt nach Jaipur mit Halt am Stufenbrunnen Chand Baori in Abhaneri.\nUnterkunft: 3 Sterne Golden Tulip Essential; 4 Sterne Sarovar Portico oder The Fern Residency; 5 Sterne Hilton, Holiday Inn Jaipur City Centre oder InterContinental.\n\n**Tag 4**\nNach dem Frühstück Führung durch Jaipur: Hawa Mahal, das majestätische Amber Fort, Panna Meena ka Kund, Jal Mahal, Gaitor Ki Chhatriyan, City Palace des Maharadschas und Observatorium Jantar Mantar.\n\n**Tag 5**\nRückfahrt nach Delhi oder Absetzen an einem Wunschort in Jaipur.",
+  "highlights": [
+   "Die Schönheit des Taj Mahal bei Sonnenaufgang",
+   "Luxuriöse 5-Sterne-Hotels",
+   "Die historischen Städte Delhi, Agra und Jaipur",
+   "In jeder Stadt anpassbares Programm"
+  ],
+  "included": [
+   "Private Tour",
+   "4 Übernachtungen (bei Buchung der Option mit Hotels)",
+   "Tägliches Frühstück im Hotel (bei Buchung der Option mit Hotels)",
+   "Transport im privaten klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt an Hotel oder Flughafen",
+   "Alle Besichtigungen mit privaten lokalen Guides",
+   "Elektro-Shuttle zwischen Parkplatz und Taj Mahal",
+   "Mineralwasser während der Fahrten",
+   "Alle Steuern und Servicegebühren inklusive Hotelsteuern"
+  ],
+  "notIncluded": [
+   "Eintrittskarten der Monumente",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "old-new-delhi-private-tour": {
+  "title": "Delhi: private Tour durch Alt- und Neu-Delhi, ganz- oder halbtags",
+  "metaTitle": "Alt- und Neu-Delhi privat, halb- oder ganztags, Guide auf Deutsch",
+  "metaDescription": "Private Führung durch Delhi, halb- oder ganztags, Guides auf Englisch, Französisch, Deutsch, Hindi und Spanisch: Jama Masjid, Rikscha durch Chandni Chowk, Bangla Sahib, Lotustempel, Humayun-Mausoleum, India Gate, Qutub Minar.",
+  "shortDescription": "Private halb- oder ganztägige Führung durch Alt- und Neu-Delhi mit optionalen Eintrittskarten. Jama Masjid, Chandni Chowk, Humayun-Mausoleum, Lotustempel, India Gate, Qutub Minar und mehr.",
+  "fullDescription": "Eine private Tour, die das Beste von Alt- und Neu-Delhi verbindet, als Halb- oder Ganztageserlebnis. Erfahren Sie von Ihrem persönlichen Guide mehr über Indiens Geschichte und Kultur, während Sie die großen Wahrzeichen entdecken. Wählen Sie Halbtag oder Ganztag, mit der Upgrade-Option inklusive Eintritte. Abholzeit zwischen 7 und 16 Uhr frei wählbar. Guides auf Englisch, Französisch, Deutsch, Hindi und Spanisch.\n\nAbholung am Morgen an Ihrer Unterkunft oder direkt am Flughafen. Entspannen Sie im klimatisierten Fahrzeug auf dem Weg durch Alt- und Neu-Delhi, je nach gebuchter Option.\n\n**Programm Alt-Delhi**\nDie Jama Masjid, die größte Moschee Indiens, mit den Erklärungen Ihres Guides, dann die Farben und Düfte des Marktes Chandni Chowk. Rikschafahrt durch enge Gassen und den größten Gewürzmarkt. Das Rote Fort von außen. Dann der Gurudwara Bangla Sahib mit Erläuterungen zum Sikhismus und der zweitgrößten Gemeinschaftsküche der Welt, die täglich etwa 50.000 Menschen verpflegt.\n\n**Programm Neu-Delhi**\nDer Lotustempel der Bahai-Religion, dann das Grab Kaiser Humayuns aus dem 16. Jahrhundert und das India Gate bei der Vorbeifahrt, ebenso Parlament und Präsidentenpalast. Weiter zur beliebtesten Sehenswürdigkeit Delhis, dem Qutub Minar, und zu den verborgenen Schätzen Neu-Delhis: den Gräbern im Lodhi Garden und Agrasen ki Baoli.\n\nNach der Tour bringt Sie der Fahrer zum Wunschort, Flughafen oder Hotel in Delhi, Gurugram, Noida, Ghaziabad oder Faridabad.",
+  "highlights": [
+   "Die leuchtenden Farben der Läden und Waren am Markt Chandni Chowk",
+   "Die Schönheit der größten Moschee Indiens, der Jama Masjid",
+   "Lokale Kultur im Sikh-Tempel Gurudwara Bangla Sahib",
+   "Religiöse Orte wie der Lotustempel und die Jama Masjid",
+   "Eine Mischung aus alten und modernen Sehenswürdigkeiten in Alt- und Neu-Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Hotel oder Flughafen",
+   "Klimatisierter Transport während der Aktivität",
+   "Persönlicher Guide",
+   "Eintrittskarten der Monumente (bei gewählter Option)",
+   "Rikschafahrt in Alt-Delhi (bei gewählter Option)",
+   "Wasserflasche und Regenschirme",
+   "Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Offizieller lizenzierter Guide für das Taj Mahal",
   "metaTitle": "Offizieller Taj Mahal Guide, Einlass ohne Warteschlange",
