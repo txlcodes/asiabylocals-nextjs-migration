@@ -6259,6 +6259,105 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "**No**: no está permitido nadar en el lago Man Sagar. Aunque la calidad del agua ha mejorado mucho desde el proyecto de restauración, el lago es un humedal protegido y una zona patrimonial. Tampoco hay navegación disponible para el público."
    }
   ]
+ },
+ "jaipur-shopping-guide": {
+  "title": "Guía de compras de Jaipur 2026: bazares, gemas, textiles y qué comprar",
+  "description": "Guía completa de compras de Jaipur 2026: gemas del Johari Bazaar, textiles del Bapu Bazaar, estampados en bloque, cerámica azul, consejos para regatear y mejores mercados.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Horario de los bazares",
+    "value": "10:00 a 20:00 (cerrados los domingos)"
+   },
+   {
+    "icon": "Star",
+    "label": "Famosa por",
+    "value": "Gemas, estampados en bloque, cerámica azul"
+   },
+   {
+    "icon": "Map",
+    "label": "Mercados principales",
+    "value": "Johari, Bapu, Tripolia, Chandpol"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Mejor día",
+    "value": "Entre semana (menos gente)"
+   },
+   {
+    "icon": "Info",
+    "label": "Regateo",
+    "value": "Se espera; empiece por el 40-50 % del precio"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Por qué Jaipur es la gran ciudad de compras de la India",
+    "content": "Jaipur no es solo una ciudad con mercados: es una ciudad que **existe gracias a sus mercados**. Cuando el maharajá Jai Singh II la fundó en 1727, la diseñó sobre una cuadrícula con avenidas amplias pensadas expresamente para facilitar el comercio. Sus célebres edificios rosados, ordenados por el maharajá Ram Singh en 1876, buscaban crear una estética comercial unificada capaz de atraer a comerciantes y artesanos de todo Rajastán.\n\nCasi 300 años después, el plan funcionó más allá de lo imaginable. Jaipur es la capital india de las gemas, el mayor centro mundial de tallado y pulido (procesa más del 90 % de las esmeraldas del mundo), un referente global del textil estampado en bloque y la fuente de las artesanías más características de Rajastán: cerámica azul, pulseras de laca, zapatos mojari, pintura en miniatura y la minuciosa joyería kundan que adorna a las novias indias desde hace siglos.\n\nLos bazares de la ciudad no son mercados turísticos edulcorados: son **distritos comerciales vivos**, donde generaciones de artesanos y comerciantes trabajan en las mismas tiendas que fundaron sus bisabuelos. Al recorrer Johari Bazaar pasará junto a talladores inclinados sobre sus ruedas, joyeros soldando engastes de oro con lupa y comerciantes de telas desplegando piezas de algodón estampado con la soltura de quien lo hace desde niño.\n\nPara el visitante, comprar en Jaipur resulta estimulante y, a veces, abrumador. La variedad es enorme, la calidad varía muchísimo y el arte de regatear se espera y se disfruta, una vez entendidas las reglas. Esta guía repasa los grandes bazares, qué comprar en cada uno, cómo identificar la calidad y cómo negociar como un local."
+   },
+   {
+    "title": "Johari Bazaar, la capital mundial de las gemas",
+    "content": "**Johari Bazaar** (literalmente «mercado de los joyeros») es el bazar más famoso de Jaipur y el corazón comercial de la industria india de las gemas. Esta avenida amplia y recta atraviesa el centro de la antigua ciudad amurallada, flanqueada por joyerías, tratantes de piedras y talleres de kundan que llevan generaciones aquí.\n\n### Qué comprar\n\n**Gemas**: Jaipur procesa aproximadamente el **90 % de las esmeraldas del mundo** (procedentes de Colombia, Zambia y Brasil), además de cantidades importantes de rubíes, zafiros, granates, amatistas y piedras semipreciosas. Sus talleres de corte y pulido convierten piedras en bruto en gemas acabadas por una fracción de lo que cuestan en los mercados occidentales. Puede comprar piedras sueltas o encargar que las engasten a medida.\n\n**Joyería kundan**: el estilo insignia de Rajastán. El kundan consiste en engastar piedras sin tallar en oro usando una base de laca. El resultado es una joyería pesada y ornamentada, de textura rica, que ha adornado a la realeza y a las novias indias durante siglos. Johari Bazaar es el epicentro de su producción, con talleres donde se puede ver a los artesanos trabajar con técnicas centenarias.\n\n**Joyería meenakari (esmalte)**: el reverso de las piezas kundan suele ir decorado con meenakari, un esmaltado minucioso en colores vivos (rojo, verde, azul, blanco) aplicado sobre oro o plata. El meenakari de Jaipur está considerado el mejor de la India, con artesanos que emplean pigmentos naturales y técnicas de cocción transmitidas en familia.\n\n**Joyería de oro y plata**: más allá del kundan, Johari Bazaar vende piezas contemporáneas de estilo indio y occidental. El oro se vende al peso más los gastos de hechura (el trabajo artesano), como se ha comerciado en la India durante milenios.\n\n### Cómo comprar gemas con seguridad\n\nEl comercio de gemas en Jaipur es legítimo y profesional, pero un comprador desinformado puede salir perjudicado. Siga estas reglas:\n\n1. **Pida siempre un certificado**: los tratantes serios entregan certificados gemológicos de laboratorios reconocidos (GIA, IGI o el Jaipur Gem Testing Laboratory). Nunca compre una piedra cara sin certificación.\n2. **Entienda los tratamientos**: la mayoría de las gemas del mercado han sido tratadas (calentadas, aceitadas o rellenadas) para mejorar color y pureza. Es una práctica habitual, no un engaño, pero las piedras sin tratar valen bastante más. Pregunte expresamente si la piedra está tratada o es natural.\n3. **Compare precios**: visite al menos tres tiendas antes de comprar. Johari Bazaar es competitivo y comparar le da una base para negociar.\n4. **Cuidado con el vidrio**: las tiendas de baja calidad pueden vender vidrio o piedras sintéticas como gemas naturales. Un tratante certificado con dirección física (no un vendedor callejero) es la opción más segura.\n5. **Use un guía**: un [guía de compras autorizado en Jaipur](/india/jaipur/jaipur-shopping-tour) conoce a los tratantes fiables, sabe valorar la calidad y negocia en hindi por usted, a menudo con precios mucho mejores de los que lograría un turista solo.\n\n### Datos prácticos de Johari Bazaar\n\n- **Ubicación**: centro del casco antiguo, de Badi Chaupar a la Puerta Sanganeri\n- **Horario**: 10:00 a 20:00 (la mayoría de tiendas cierran los domingos)\n- **Mejor momento**: de 11:00 a 13:00 (tiendas abiertas, aún sin agobios)\n- **Cómo llegar**: a 5 minutos a pie al sur del [Hawa Mahal](/india/jaipur/hawa-mahal)"
+   },
+   {
+    "title": "Bapu Bazaar y Nehru Bazaar: textiles, estampados y recuerdos",
+    "content": "Si Johari Bazaar va de piedras preciosas, **Bapu Bazaar** va de color, textura y tejido. Este mercado vibrante que baja hacia el sur desde la New Gate es el paraíso textil de Jaipur: el mejor lugar de la India para comprar algodón estampado en bloque, bandhani (teñido anudado), colchas rajastaníes (razai) y ropa tradicional.\n\n### Textiles estampados en bloque\n\nLa tradición del **estampado en bloque a mano** de Jaipur se remonta a más de 500 años. Los artesanos tallan motivos minuciosos en bloques de madera, los impregnan en tintes naturales y los estampan a mano sobre el algodón, un proceso que exige una destreza y una paciencia extraordinarias. Cada impresión es ligeramente irregular, y ahí está la clave: esas sutiles imperfecciones son la marca del trabajo manual.\n\n**En qué fijarse**: los estampados en bloque auténticos muestran ligeros desajustes, bordes que se corren y variaciones de color que la impresión mecánica no reproduce. Dé la vuelta al tejido: en un estampado en bloque genuino, el motivo cala hasta el reverso. La impresión mecánica solo aparece en la superficie.\n\n**Buenas compras**: colchas (800 a 3.000 ₹), manteles (500 a 1.500 ₹), pañuelos (200 a 600 ₹), kurtas (400 a 1.200 ₹) y tela por metros (150 a 500 ₹ el metro de algodón).\n\n**Sanganeri o Bagru**: las dos grandes tradiciones de estampado de Jaipur. Los estampados **sanganeri** usan colores vivos sobre fondo blanco, con motivos florales, cachemires y geometrías. Los **bagru** son más terrosos, con técnicas de reserva con barro (dabu) sobre fondos oscuros. Ambos son auténticos; la elección es estética.\n\n### Bandhani (teñido anudado)\n\nTécnica icónica de Rajastán, el **bandhani** consiste en atar miles de pequeños nudos en la tela antes de teñirla, creando patrones de puntos, círculos y ondas. Un solo sari bandhani puede contener más de 5.000 nudos hechos a mano, colocados de memoria por un artesano (los patrones no se dibujan: se anudan a mano alzada).\n\n**Comprobación de calidad**: el bandhani auténtico tiene diminutos relieves en la superficie donde se ataron los nudos. Las imitaciones industriales van impresas en plano y carecen de esa textura. Pase los dedos por la tela: debe notar los relieves.\n\n### Nehru Bazaar\n\nJunto a Bapu Bazaar, el **Nehru Bazaar** se especializa en juttis o mojaris (zapatos de cuero bordados), bolsos y complementos. Las mojari, zapatos de punta con bordados, lentejuelas o metalistería, son el recuerdo más popular de Jaipur y van desde modelos sencillos de diario (300 a 600 ₹) hasta pares nupciales elaborados (2.000 a 5.000 ₹).\n\n### Datos prácticos de Bapu Bazaar\n\n- **Ubicación**: desde la New Gate hacia el sur, en dirección a la Puerta Sanganeri\n- **Horario**: 10:30 a 20:30 (horario reducido los domingos)\n- **Mejor momento**: al final de la tarde (16:00 a 18:00) por la luz y el ambiente\n- **Regateo**: habitual; empiece por el 40 o 50 % del precio pedido en textiles"
+   },
+   {
+    "title": "Tripolia Bazaar, Chandpol y MI Road: artesanía, latón y compras modernas",
+    "content": "### Tripolia Bazaar: pulseras de laca y latón\n\nLlamado así por la Puerta Tripolia, de triple arco, este bazar se especializa en **pulseras de laca**, esos brazaletes de resina de colores tan típicos de Jaipur. Verá a los artesanos moldear la laca fundida sobre llamas abiertas y decorar después las pulseras con espejos, piedras y metalistería. Un juego de 6 a 8 pulseras cuesta de 100 a 500 ₹ según la decoración.\n\nTripolia es también el lugar del **latón y el cobre**: platos ornamentales, lámparas, pequeñas estatuas de deidades hindúes y objetos decorativos. La tradición metalúrgica se remonta aquí a la época mogol y muchas tiendas las llevan familias que llevan generaciones en el oficio.\n\n### Chandpol Bazaar: mármol y talla en piedra\n\nEn el extremo oeste del casco antiguo, el **Chandpol Bazaar** es conocido por la **artesanía en mármol**: elefantes tallados, cajas, ajedreces y objetos decorativos en mármol blanco de Makrana, el mismo del Taj Mahal. Los artesanos trabajan con herramientas manuales, tallando e incrustando piedras semipreciosas en superficies de mármol con la misma técnica de **pietra dura** que adorna el Taj Mahal.\n\n**Comprobación de calidad**: un buen trabajo en mármol es pesado, frío al tacto y tiene incrustaciones perfectamente ajustadas, sin huecos ni pegamento visibles. Las imitaciones baratas usan esteatita, más blanda, que se raya con facilidad, o llevan «incrustaciones» pintadas en lugar de piedra insertada. Pida al artesano que raye la superficie con un cuchillo: el mármol auténtico resiste; la esteatita, no.\n\n### MI Road: compras modernas\n\nPara quien prefiera la comodidad del aire acondicionado, **MI Road** (Mirza Ismail Road) es la principal calle comercial de Jaipur, con tiendas de marca, multimarca y varios excelentes establecimientos de precio fijo:\n\n- **Anokhi**: quizá la marca más famosa de Jaipur, vende ropa, textiles y complementos estampados en bloque con una lectura contemporánea de los motivos tradicionales rajastaníes. Calidad muy constante. Precios fijos, sin regateo.\n- **Fabindia**: cadena nacional especializada en textiles artesanales, muebles y productos ecológicos. Buenos estampados en bloque a precios fijos razonables.\n- **Rajasthali** (emporio del gobierno): tienda pública con precios fijos en artesanía, textiles, gemas y cerámica azul. Útil para fijar precios de referencia antes de ir al bazar.\n- **Amrapali**: firma de joyería de alta gama nacida en Jaipur, conocida por sus reproducciones de calidad museística de joyería tribal y real india. Su tienda insignia en MI Road merece una visita aunque no compre.\n\n### Cerámica azul\n\nLa **cerámica azul** es la artesanía insignia de Jaipur: piezas esmaltadas en turquesa y azul hechas no con arcilla, sino con una pasta de cuarzo, vidrio en polvo y goma. Es ligera, de esmalte brillante y decorada con motivos florales y geométricos en azul cobalto y turquesa.\n\nLa mejor cerámica azul se encuentra en **Kripal Kumbh** (el taller del difunto Kripal Singh Shekhawat, que revivió él solo este arte en los años sesenta) y en tiendas especializadas de MI Road. Los precios van de 200 ₹ por azulejos pequeños a más de 5.000 ₹ por grandes platos y jarrones decorativos.\n\n**Comprobación de calidad**: la cerámica azul auténtica de Jaipur es ligera (no es arcilla), tiene un esmalte liso y un azul profundo y uniforme. Golpéela con los nudillos: produce un tintineo agudo característico. Las imitaciones industriales de otras regiones pesan más y tienen colores más apagados."
+   },
+   {
+    "title": "El arte de regatear en Jaipur, guía práctica",
+    "content": "Regatear no solo se espera en los bazares de Jaipur: forma parte de la cultura comercial y los comerciantes lo disfrutan de verdad. Quien paga el primer precio se considera algo ingenuo; quien negocia con habilidad se gana el respeto.\n\n### Las reglas\n\n**1. Empiece por el 40 o 50 % del precio pedido.** El precio inicial suele llevar un margen del 50 al 100 % pensado para la negociación. Si le piden 1.000 ₹ por una colcha estampada en bloque, ofrezca 400 o 500 ₹. El precio final rondará los 600 o 700 ₹.\n\n**2. No muestre entusiasmo excesivo.** En cuanto diga «¡me encanta!», el precio se vuelve más difícil de bajar. Mire con calma, pregunte el precio de varios artículos y muestre un interés moderado en vez de ganas evidentes de comprar.\n\n**3. Esté dispuesto a marcharse.** La técnica más eficaz es estar realmente dispuesto a salir de la tienda. Si el precio no llega a su objetivo, dé las gracias con amabilidad y camine hacia la puerta. En torno al 80 % de las veces le llamarán con una oferta mejor.\n\n**4. Agrupe las compras.** Comprar varios artículos en la misma tienda refuerza su posición. «Me llevo tres pañuelos y dos colchas, ¿cuál es su mejor precio por todo junto?»\n\n**5. Pague en efectivo.** Los pagos con tarjeta generan comisiones que asume el comerciante. Ofrecer efectivo (mejor si es el importe exacto) suele conseguir un 5 o 10 % adicional de descuento.\n\n**6. Sea respetuoso.** En la India, regatear es una interacción social, no un enfrentamiento. Sonría, converse, acepte el inevitable chai y entienda la negociación como una conversación entre dos personas que buscan un precio aceptable. Regatear con agresividad o malos modos es contraproducente y culturalmente inapropiado.\n\n**7. Sepa cuándo NO regatear.** Las tiendas de precio fijo (Anokhi, Fabindia, Rajasthali o cualquier local con etiquetas impresas) no negocian. Los emporios del gobierno tienen precios fijos. Las tiendas de museo también. Solo se regatea en los bazares y con vendedores callejeros.\n\n### En qué ayuda un guía de compras\n\nUn [guía de compras autorizado en Jaipur](/india/jaipur/jaipur-shopping-tour) aporta tres ventajas concretas que compensan con creces sus honorarios:\n\n1. **Idioma**: negocia en hindi (o en rajastaní), lo que indica de entrada al comerciante que el turista está bien asesorado y que el margen inicial debe ser menor.\n2. **Valoración de la calidad**: un guía experimentado distingue al instante un estampado en bloque auténtico de uno mecánico, una gema real de un vidrio, el mármol verdadero de la esteatita, un conocimiento que exige años.\n3. **Red de confianza**: los guías habituales mantienen relación con tratantes honestos y le apartan de tiendas conocidas por cobrar de más a los turistas."
+   },
+   {
+    "title": "Compre como un local con un guía experto de Jaipur",
+    "content": "Nuestros guías autorizados conocen cada bazar, cada artesano y cada truco de negociación, para que compre productos auténticos a precios locales justos."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Por qué es famosa Jaipur para ir de compras?",
+    "a": "Jaipur es famosa por sus **gemas** (procesa el 90 % de las esmeraldas del mundo), su **joyería kundan y meenakari**, sus **textiles estampados en bloque** (tradiciones sanganeri y bagru), su **cerámica azul**, sus **pulseras de laca**, sus **zapatos mojari** de cuero, sus **incrustaciones en mármol** y su **pintura en miniatura**. Es la principal ciudad india para artesanía y joyería."
+   },
+   {
+    "q": "¿Cuál es el mejor bazar de Jaipur?",
+    "a": "**Johari Bazaar** para gemas y joyería. **Bapu Bazaar** para textiles y estampados en bloque. **Tripolia Bazaar** para pulseras de laca y latón. **Nehru Bazaar** para zapatos mojari. **Chandpol Bazaar** para artesanía en mármol. Cada bazar tiene su especialidad."
+   },
+   {
+    "q": "¿Se espera regatear en los bazares de Jaipur?",
+    "a": "**Sí**: regatear se espera y forma parte de la cultura en todas las tiendas de bazar. Empiece por el 40 o 50 % del precio pedido y negocie desde ahí. Las tiendas de precio fijo (Anokhi, Fabindia, el emporio estatal Rajasthali) no negocian."
+   },
+   {
+    "q": "¿Cómo sé si las gemas de Jaipur son auténticas?",
+    "a": "Compre siempre a **tratantes certificados** que faciliten certificados gemológicos de laboratorios reconocidos (GIA, IGI o el Jaipur Gem Testing Laboratory). Pregunte por los tratamientos (calentado, aceitado). Compare precios en 3 tiendas o más. Un [guía de compras](/india/jaipur/jaipur-shopping-tour) puede verificar la calidad y negociar por usted."
+   },
+   {
+    "q": "¿Qué es la cerámica azul de Jaipur?",
+    "a": "La cerámica azul es la artesanía insignia de Jaipur: piezas turquesa y azul cobalto hechas con **pasta de cuarzo** (no con arcilla). Son ligeras, de esmalte brillante y decoradas con motivos florales. Las mejores proceden del taller Kripal Kumbh y de tiendas especializadas de MI Road."
+   },
+   {
+    "q": "¿Cuáles son los mejores momentos para comprar en Jaipur?",
+    "a": "**Las mañanas entre semana (10:30 a 13:00)** para evitar aglomeraciones. **El final de la tarde (16:00 a 18:00)** para el mejor ambiente de bazar. Evite los domingos (muchas tiendas cerradas) y los festivos. La temporada de **octubre a marzo** ofrece el clima más cómodo para comprar."
+   },
+   {
+    "q": "¿Son auténticos los estampados en bloque de Jaipur?",
+    "a": "Muchos lo son, pero compruébelo mirando el **reverso** del tejido. Los estampados en bloque auténticos muestran el motivo calado hasta la parte de atrás. La impresión mecánica solo aparece en la superficie. Busque ligeras irregularidades y variaciones de color: son marcas de trabajo manual, no defectos."
+   },
+   {
+    "q": "¿Cuánto cuestan los zapatos mojari en Jaipur?",
+    "a": "Mojari sencillos de diario: 300 a 600 ₹. Mojari bordados: 600 a 1.500 ₹. Mojari nupciales elaborados: 2.000 a 5.000 ₹. Compre en **Nehru Bazaar** o **Bapu Bazaar** para la mejor selección y precios. Pruébeselos siempre: las tallas no son homogéneas."
+   },
+   {
+    "q": "¿Necesito un guía de compras en Jaipur?",
+    "a": "**Muy recomendable** si visita la ciudad por primera vez. Un guía autorizado negocia en hindi (con mejores precios), distingue lo auténtico de lo falso y conoce a los tratantes fiables. El ahorro en las compras suele superar sus honorarios. Reserve un [tour de compras por Jaipur](/india/jaipur/jaipur-shopping-tour) para aprovecharlo al máximo."
+   },
+   {
+    "q": "¿Puedo enviar mis compras desde Jaipur?",
+    "a": "Sí: la mayoría de las tiendas serias de Johari Bazaar y MI Road ofrecen **envío internacional** con DHL, FedEx o India Post. Pida un recibo adecuado con el número GST de la tienda. En el caso de las gemas, asegúrese de que el certificado gemológico se incluya en la documentación del envío."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {
