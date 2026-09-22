@@ -41,6 +41,7 @@ import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import type { TourReview, TourReviewData } from '@/lib/tourReviews';
+import { optionT } from '@/lib/translations';
 
 // included / notIncluded arrive as either a newline-separated string (hand-written
 // tours) or a JSON array string (every imported batch: Japan, Bali, Vietnam), and
@@ -71,9 +72,9 @@ interface TourDetailClientProps {
 }
 
 const CHROME: Record<'fr' | 'de' | 'es', Record<string, string>> = {
-  fr: { in: 'à', explore: 'Découvrez d\'autres expériences sélectionnées à', viewAll: 'Voir toutes les excursions à', topRated: 'Très bien noté', provider: 'Opérateur', highlights: 'Points forts', keyFacts: 'En bref', fullDescription: 'Description complète', itinerary: 'Programme', detailedItinerary: 'Programme détaillé', includes: 'Inclus', excludes: 'Non inclus', important: 'Informations importantes', meetingPoint: 'Point de rendez-vous', weather: 'Météo', knowBefore: 'À savoir avant de partir', about: 'À propos de cette activité', reviews: 'Avis des voyageurs', faq: 'Questions fréquentes', selectDate: 'Choisir une date', startingFrom: 'À partir de', bookNow: 'Réserver', share: 'Partager', freeCancellation: 'Annulation gratuite', freeCancellationLong: 'Annulation gratuite jusqu\'à 24 heures avant le début de l\'activité', verifiedOperator: 'Opérateur local vérifié' },
-  de: { in: 'in', explore: 'Weitere ausgewählte Erlebnisse in', viewAll: 'Alle Touren in', topRated: 'Top bewertet', provider: 'Anbieter', highlights: 'Highlights', keyFacts: 'Auf einen Blick', fullDescription: 'Vollständige Beschreibung', itinerary: 'Ablauf', detailedItinerary: 'Detaillierter Ablauf', includes: 'Inklusive', excludes: 'Nicht inklusive', important: 'Wichtige Informationen', meetingPoint: 'Treffpunkt', weather: 'Wetter', knowBefore: 'Gut zu wissen', about: 'Über diese Aktivität', reviews: 'Bewertungen', faq: 'Häufige Fragen', selectDate: 'Datum wählen', startingFrom: 'Ab', bookNow: 'Jetzt buchen', share: 'Teilen', freeCancellation: 'Kostenlose Stornierung', freeCancellationLong: 'Kostenlose Stornierung bis 24 Stunden vor Beginn der Aktivität', verifiedOperator: 'Geprüfter lokaler Anbieter' },
-  es: { in: 'en', explore: 'Descubre más experiencias seleccionadas en', viewAll: 'Ver todas las visitas en', topRated: 'Muy valorado', provider: 'Operador', highlights: 'Lo más destacado', keyFacts: 'Datos clave', fullDescription: 'Descripción completa', itinerary: 'Itinerario', detailedItinerary: 'Itinerario detallado', includes: 'Incluye', excludes: 'No incluye', important: 'Información importante', meetingPoint: 'Punto de encuentro', weather: 'Clima', knowBefore: 'Antes de ir', about: 'Sobre esta actividad', reviews: 'Opiniones de viajeros', faq: 'Preguntas frecuentes', selectDate: 'Elegir fecha', startingFrom: 'Desde', bookNow: 'Reservar', share: 'Compartir', freeCancellation: 'Cancelación gratuita', freeCancellationLong: 'Cancelación gratuita hasta 24 horas antes del inicio de la actividad', verifiedOperator: 'Operador local verificado' },
+  fr: { in: 'à', explore: 'Découvrez d\'autres expériences sélectionnées à', viewAll: 'Voir toutes les excursions à', topRated: 'Très bien noté', provider: 'Opérateur', highlights: 'Points forts', keyFacts: 'En bref', fullDescription: 'Description complète', itinerary: 'Programme', detailedItinerary: 'Programme détaillé', includes: 'Inclus', excludes: 'Non inclus', important: 'Informations importantes', meetingPoint: 'Point de rendez-vous', weather: 'Météo', knowBefore: 'À savoir avant de partir', about: 'À propos de cette activité', reviews: 'Avis des voyageurs', faq: 'Questions fréquentes', selectDate: 'Choisir une date', startingFrom: 'À partir de', bookNow: 'Réserver', share: 'Partager', freeCancellation: 'Annulation gratuite', freeCancellationLong: 'Annulation gratuite jusqu\'à 24 heures avant le début de l\'activité', more: 'Plus', less: 'Moins', verifiedOperator: 'Opérateur local vérifié' },
+  de: { in: 'in', explore: 'Weitere ausgewählte Erlebnisse in', viewAll: 'Alle Touren in', topRated: 'Top bewertet', provider: 'Anbieter', highlights: 'Highlights', keyFacts: 'Auf einen Blick', fullDescription: 'Vollständige Beschreibung', itinerary: 'Ablauf', detailedItinerary: 'Detaillierter Ablauf', includes: 'Inklusive', excludes: 'Nicht inklusive', important: 'Wichtige Informationen', meetingPoint: 'Treffpunkt', weather: 'Wetter', knowBefore: 'Gut zu wissen', about: 'Über diese Aktivität', reviews: 'Bewertungen', faq: 'Häufige Fragen', selectDate: 'Datum wählen', startingFrom: 'Ab', bookNow: 'Jetzt buchen', share: 'Teilen', freeCancellation: 'Kostenlose Stornierung', freeCancellationLong: 'Kostenlose Stornierung bis 24 Stunden vor Beginn der Aktivität', more: 'Mehr', less: 'Weniger', verifiedOperator: 'Geprüfter lokaler Anbieter' },
+  es: { in: 'en', explore: 'Descubre más experiencias seleccionadas en', viewAll: 'Ver todas las visitas en', topRated: 'Muy valorado', provider: 'Operador', highlights: 'Lo más destacado', keyFacts: 'Datos clave', fullDescription: 'Descripción completa', itinerary: 'Itinerario', detailedItinerary: 'Itinerario detallado', includes: 'Incluye', excludes: 'No incluye', important: 'Información importante', meetingPoint: 'Punto de encuentro', weather: 'Clima', knowBefore: 'Antes de ir', about: 'Sobre esta actividad', reviews: 'Opiniones de viajeros', faq: 'Preguntas frecuentes', selectDate: 'Elegir fecha', startingFrom: 'Desde', bookNow: 'Reservar', share: 'Compartir', freeCancellation: 'Cancelación gratuita', freeCancellationLong: 'Cancelación gratuita hasta 24 horas antes del inicio de la actividad', more: 'Más', less: 'Menos', verifiedOperator: 'Operador local verificado' },
 };
 
 
@@ -1915,27 +1916,29 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                                   {/* Card Content */}
                                   <div className="p-5 flex flex-col flex-1">
-                                    <h3 className="font-black text-[#001A33] text-[16px] mb-2 leading-tight">{option.optionTitle}</h3>
+                                    <h3 className="font-black text-[#001A33] text-[16px] mb-2 leading-tight">{optionT(lang, tour?.slug, option.optionTitle, option.optionDescription).title}</h3>
 
+                                    {(() => { const optDesc = optionT(lang, tour?.slug, option.optionTitle, option.optionDescription).description; return (
                                     <div className="text-[13px] text-gray-600 font-medium mb-3 leading-relaxed">
-                                      {option.optionDescription && (
+                                      {optDesc && (
                                         <>
-                                          {expandedOptions.has(option.id) || !option.optionDescription || option.optionDescription.length <= 120 ? (
-                                            <span>{option.optionDescription}</span>
+                                          {expandedOptions.has(option.id) || !optDesc || optDesc.length <= 120 ? (
+                                            <span>{optDesc}</span>
                                           ) : (
-                                            <span>{option.optionDescription.substring(0, 120)}...</span>
+                                            <span>{optDesc.substring(0, 120)}...</span>
                                           )}
-                                          {option.optionDescription && option.optionDescription.length > 120 && (
+                                          {optDesc && optDesc.length > 120 && (
                                             <button
                                               onClick={(e) => { e.stopPropagation(); toggleOptionExpand(option.id); }}
                                               className="text-[#0071EB] font-bold ml-1 hover:underline focus:outline-none inline cursor-pointer text-[13px]"
                                             >
-                                              {expandedOptions.has(option.id) ? 'Less' : 'More'}
+                                              {expandedOptions.has(option.id) ? t('less', 'Less') : t('more', 'More')}
                                             </button>
                                           )}
                                         </>
                                       )}
                                     </div>
+                                    ); })()}
 
                                     {/* Details */}
                                     <div className="flex flex-wrap items-center gap-3 text-[12px] text-gray-500 font-semibold mb-4">

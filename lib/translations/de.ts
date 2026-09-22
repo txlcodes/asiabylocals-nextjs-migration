@@ -419,9 +419,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen",
    "Maut, Parkgebühren und Fahrerspesen für den lokalen Transport"
   ],
-  "notIncluded": [
-   "Nichts"
-  ]
+  "notIncluded": []
  },
  "taj-mahal-vrindavan-full-day-tour": {
   "title": "Ab Delhi: Taj Mahal, Mathura und Vrindavan, privater Tagesausflug",
@@ -984,9 +982,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kochvorführung",
    "Mittag- oder Abendessen mit der Familie"
   ],
-  "notIncluded": [
-   "Nichts"
-  ]
+  "notIncluded": []
  },
  "taj-mahal-conservative-guided-tour": {
   "title": "Ab Agra: Taj Mahal und das Wildlife SOS Elefanten-Pflegezentrum",
@@ -1112,9 +1108,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen",
    "Wasser in Flaschen während der Reise"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "2-day-taj-mahal-agra-tour-from-bangalore-by-flight": {
   "title": "Taj Mahal und Agra in 2 Tagen ab Bangalore, mit Flug",
@@ -1334,9 +1328,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Golfcart zum Taj Mahal, hin und zurück",
    "Buffet-Mittagessen im Fünf-Sterne-Hotel"
   ],
-  "notIncluded": [
-   "Nichts"
-  ]
+  "notIncluded": []
  },
  "india-gate-private-tour": {
   "title": "Goldenes Dreieck und Rajasthan in 8 Tagen privat: Delhi, Agra, Jaipur, Jodhpur und Udaipur",
@@ -1693,9 +1685,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen in einem lokalen Restaurant (falls im Paket enthalten)",
    "Maut, Parkgebühren und Fahrerspesen"
   ],
-  "notIncluded": [
-   "Nichts"
-  ]
+  "notIncluded": []
  },
  "delhi-to-agra-overnight-tour": {
   "title": "Ab Delhi: Agra mit Übernachtung (1-Nacht-Erlebnis)",
@@ -1764,9 +1754,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Maut, Parkgebühren und Fahrerspesen",
    "Optionaler Aussichtsstopp im Mehtab Bagh"
   ],
-  "notIncluded": [
-   "Nichts"
-  ]
+  "notIncluded": []
  },
  "delhi-agra-overnight-express-train-taj-mahal-sunrise": {
   "title": "Ab Delhi: Übernachtung in Agra mit dem Expresszug, Taj Mahal bei Sonnenaufgang",
@@ -2394,7 +2382,8 @@ export const DE_TOURS: Record<string, TourT> = {
    "Einlass ohne Warteschlange wird für Sie organisiert",
    "Private Führung zu Fuß: Mausoleum, Charbagh-Gärten, Moschee, Flussterrasse",
    "Die besten Fotopunkte und das Lesen der Marmor-Einlegearbeiten",
-   "Freie Zeit nach der Führung"
+   "Guides auf Englisch und in Fremdsprachen: Französisch, Spanisch, Italienisch, Deutsch, Japanisch und mehr",
+   "Kombinierbar mit dem Fort von Agra, Fatehpur Sikri oder einem Tagesausflug ab Delhi"
   ],
   "included": [
    "Offizieller Guide",
@@ -2614,7 +2603,8 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten Taj Mahal, Rotes Fort und Baby Taj (bei gewählter Option)",
    "Offizieller Guide für alle drei Monumente",
    "Wasserflaschen",
-   "Besichtigungen im Privatwagen in Agra"
+   "Besichtigungen im Privatwagen in Agra",
+   "Golfcart zum Taj Mahal"
   ],
   "notIncluded": [
    "Trinkgelder",
@@ -2659,7 +2649,9 @@ export const DE_TOURS: Record<string, TourT> = {
    "Englischsprachiger Fahrer",
    "Steuern, Maut, Kraftstoff und Parken",
    "Lizenzierter offizieller Guide in Agra",
-   "Golfcart vom Parkplatz zum Taj Mahal"
+   "Golfcart vom Parkplatz zum Taj Mahal",
+   "Kameragebühr",
+   "Schuhüberzieher und Wasserflaschen"
   ],
   "notIncluded": [
    "Eintrittskarten der Monumente (Vorbuchung auf Anfrage möglich)",
@@ -2743,7 +2735,9 @@ export const DE_TOURS: Record<string, TourT> = {
    "VIP-Einlass ohne Warteschlange",
    "Privates Golfcart vom Parkplatz zum Eingang",
    "Mineralwasser",
-   "Schuhüberzieher für das Mausoleum"
+   "Schuhüberzieher für das Mausoleum",
+   "Kameragebühr (sofern zutreffend)",
+   "Persönliche VIP-Betreuung während des gesamten Besuchs"
   ],
   "notIncluded": [
    "Mahlzeiten"
@@ -3105,9 +3099,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen in einem lokalen Restaurant (sofern im Paket enthalten)",
    "Alle Maut-, Park- und Fahrergebühren"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "ranthambore-full-day-tour": {
   "title": "Ab Jaipur: Tagesausflug zum Ranthambore-Nationalpark mit Safari",
@@ -3251,9 +3243,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Flasche Mineralwasser",
    "Alle Mautgebühren und Parkgebühren"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "elephant-village-tour-jaipur": {
   "title": "Jaipur: Elefantendorf, füttern, laufen und Nähe erleben",
@@ -3281,9 +3271,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle Steuern, Gebühren und Bearbeitungskosten",
    "Kraftstoffzuschlag"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "jaipur-heritage-walk-street-food-tour": {
   "title": "Jaipur: Heritage-Spaziergang und Streetfood-Verkostung in der Rosa Stadt",
@@ -3900,9 +3888,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Traditionelles Khichdi im Sarpanch da Ghar",
    "Mathi Chole im Tangewala da Ghar und Popcorn im Phullewali da Ghar"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "golden-temple-heritage-tour": {
   "title": "Amritsar: Kulturerbe und Wagah-Grenze auf privater Tour",
@@ -4331,9 +4317,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten für die Monumente (Taj Mahal, Agra Fort)",
    "Alle Maut-, Park- und Fahrergebühren"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "same-day-taj-mahal-tour-from-mumbai": {
   "title": "Taj Mahal ab Mumbai an einem Tag",
@@ -4357,9 +4341,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen in einem lokalen Restaurant",
    "Alle Parkgebühren und Steuern"
   ],
-  "notIncluded": [
-   "Keine"
-  ]
+  "notIncluded": []
  },
  "overnight-taj-mahal-tour-from-mumbai": {
   "title": "Taj Mahal ab Mumbai mit Übernachtung",
@@ -4410,6 +4392,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "1 Nacht im 5-Sterne-Hotel in Agra",
    "Frühstück im Hotel",
    "Privater Wagen oder Bus für die Besichtigungen in Agra",
+   "Eintritt für Taj Mahal, Fort von Agra und Mehtab Bagh",
    "Professioneller staatlich zugelassener Guide an den Monumenten"
   ],
   "notIncluded": [
@@ -4479,6 +4462,8 @@ export const DE_TOURS: Record<string, TourT> = {
    "Udaipurs Top-Sehenswürdigkeiten mit erfahrenem Guide",
    "City Palace und Jagdish-Tempel",
    "Bootsfahrt auf dem Pichola-See",
+   "Die ruhigen Gärten von Saheliyon ki Bari",
+   "Alltagsleben und rajasthanische Kultur, erklärt von Ihrem Guide",
    "Privater klimatisierter Wagen mit Fahrer"
   ],
   "included": [
@@ -4603,7 +4588,8 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Eintrittsgebühren der Monumente",
    "Tickets für die Bootsfahrt",
-   "Speisen und Getränke"
+   "Speisen und Getränke",
+   "Trinkgelder"
   ]
  },
  "lake-pichola-full-day-tour": {

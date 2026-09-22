@@ -7,7 +7,12 @@ export type Lang = (typeof LANGS)[number];
 export const isLang = (s: string): s is Lang => (LANGS as readonly string[]).includes(s);
 export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es' };
 
-export interface TourT { title: string; shortDescription?: string; fullDescription?: string; highlights?: string[]; included?: string[]; notIncluded?: string[]; faqs?: { question: string; answer: string }[]; metaTitle?: string; metaDescription?: string }
+// `options` is keyed by the option's ENGLISH optionTitle rather than by id or
+// index: an option reordered or re-added in the admin keeps its title, while a
+// rewritten title simply misses the lookup and falls back to English. Never key
+// on position, or a translated description can end up beside the wrong price.
+export interface TourOptionT { title: string; description?: string }
+export interface TourT { title: string; shortDescription?: string; fullDescription?: string; highlights?: string[]; included?: string[]; notIncluded?: string[]; faqs?: { question: string; answer: string }[]; metaTitle?: string; metaDescription?: string; options?: Record<string, TourOptionT> }
 export interface PageT { title: string; seoTitle?: string; description: string; fastFacts?: { icon: string; label: string; value: string }[]; sections?: { title: string; icon?: string; content: string }[]; faqs?: { q: string; a: string }[] }
 export interface CityT { title: string; description: string; h1?: string; intro?: string }
 
@@ -57,3 +62,14 @@ export const UI: Record<Lang, Record<string, string>> = {
   de: { from: 'Ab', perPerson: 'pro Person', tours: 'Touren', bookNow: 'Jetzt buchen', freeCancellation: 'Kostenlose Stornierung', verifiedOperator: 'Geprüfter lokaler Anbieter', guides: 'Reiseführer', faq: 'Häufige Fragen', reviews: 'Bewertungen', included: 'Inklusive', notIncluded: 'Nicht inklusive', duration: 'Dauer', meetingPoint: 'Treffpunkt', highlights: 'Highlights', readInEnglish: 'Auf Englisch lesen' },
   es: { from: 'Desde', perPerson: 'por persona', tours: 'tours', bookNow: 'Reservar', freeCancellation: 'Cancelación gratuita', verifiedOperator: 'Operador local verificado', guides: 'Guías', faq: 'Preguntas frecuentes', reviews: 'Opiniones', included: 'Incluido', notIncluded: 'No incluido', duration: 'Duración', meetingPoint: 'Punto de encuentro', highlights: 'Lo más destacado', readInEnglish: 'Leer en inglés' },
 };
+
+// Translated title/description for one bookable option, falling back to the
+// English text the API returned.
+export function optionT(lang: Lang | null | undefined, slug: string | undefined,
+  title: string | undefined, description: string | undefined): { title: string; description: string } {
+  const en = { title: title || '', description: description || '' };
+  if (!lang || !slug || !title) return en;
+  const t = TOURS[lang][slug]?.options?.[title];
+  if (!t) return en;
+  return { title: t.title || en.title, description: t.description || en.description };
+}
