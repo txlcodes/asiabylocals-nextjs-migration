@@ -511,6 +511,198 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Sí. Por la translucidez del mármol de Makrana, el monumento reacciona a la luz: rosado al amanecer, blanco brillante al mediodía y dorado o incluso azulado al atardecer y bajo la luna."
    }
   ]
+ },
+ "delhi-to-agra": {
+  "title": "De Delhi a Agra: tren, coche o autobús (comparativa 2026)",
+  "seoTitle": "Delhi a Agra 2026: tren, coche y autobús comparados",
+  "description": "Gatimaan Express, coche privado o autobús para el trayecto Delhi–Agra: horarios exactos, precios 2026 y cuál encaja con tu plan para el Taj Mahal. Comparativa honesta de operadores locales.",
+  "sections": [
+   {
+    "title": "Primero la respuesta honesta",
+    "content": "Hay exactamente tres formas sensatas de recorrer los 230 km entre Delhi y Agra, y tras años operando esta ruta el resumen honesto es: **el tren Gatimaan Express es la mejor relación calidad-precio, el coche privado es la mejor experiencia y el autobús es lo que se toma cuando los dos primeros están agotados.**\n\nTu elección depende de dos preguntas: ¿quieres ver **el Taj Mahal al amanecer** (solo el coche lo permite)? y ¿viajas **solo o en pareja** (gana el tren) o **en familia o grupo** (gana el coche por coste por persona y comodidad)? Lo que sigue es el detalle completo: horarios, precios 2026 y trampas."
+   },
+   {
+    "title": "Tren, coche o autobús: la comparativa completa 2026",
+    "content": "Dos detalles lo deciden para la mayoría: el **tren de vuelta del Gatimaan sale de Agra a las 17:35**, lo que deja unas cómodas 7,5 horas en la ciudad, más tiempo en los monumentos que una ida y vuelta en coche en el día, pero no una tarde ilimitada. Sin embargo, el tren nunca verá el Taj al amanecer, y [el amanecer es de verdad el mejor momento](/india/agra/taj-mahal-opening-time). Si el amanecer en el Taj está en tu lista, toca coche, o una noche en Agra."
+   },
+   {
+    "title": "Opción 1: la excursión en Gatimaan Express",
+    "content": "El tren más rápido de India: sale de Delhi a las 8:10, llega a Agra a las 9:50, Executive Chair Car con desayuno servido en el asiento. Nuestro paquete incluye billetes confirmados (CNF), el principal punto de fallo de las reservas por libre, un guía autorizado esperando en Agra Cantt, un coche con aire acondicionado para el día, almuerzo y el circuito Taj Mahal + Fuerte de Agra antes del regreso de las 17:35."
+   },
+   {
+    "title": "Opción 2: coche privado por la Yamuna Expressway",
+    "content": "La Yamuna Expressway convirtió este trayecto en algo realmente agradable: tres horas fluidas, casi todas a 100 km/h entre campos de mostaza. Los superpoderes del coche son **la libertad de horario** (salir de Delhi a las 6:00 y estar en las puertas del Taj cuando abren, o antes para [una entrada al amanecer](/india/agra/is-taj-mahal-closed-on-friday)) y **la libertad de ruta** (añadir Fatehpur Sikri, añadir Mehtab Bagh al atardecer, parar cuando los niños lo necesiten).\n\nTres cosas a dejar por escrito antes de reservar cualquier coche: si **el Fuerte de Agra y Mehtab Bagh están incluidos** o cuentan como «kilómetros extra»; si incluye un **guía autorizado** (un conductor no es un guía); y una cláusula explícita de **sin paradas de compras**, porque el desvío al emporio de mármol es el juego de comisiones más antiguo de Agra. Nuestra [excursión de ida y vuelta en coche](/india/agra/taj-mahal-return-guided-tour) resuelve las tres por defecto, igual que la [visita privada al Taj Mahal desde Delhi](/india/delhi/private-taj-mahal-tour-from-delhi)."
+   },
+   {
+    "title": "Opción 3: el autobús (léelo antes de reservar uno)",
+    "content": "Los autobuses Delhi–Agra van desde los estatales hasta los Volvo «de lujo» privados, por 1.500 a 3.000 ₹. La cuenta que los folletos omiten: las rondas de recogida por Delhi añaden de 60 a 90 minutos antes siquiera de salir de la ciudad, y la mayoría de los circuitos en autobús asignan **unos 90 minutos al Taj Mahal**, apenas lo justo para llegar al mausoleo y volver. Pasarás unas 10 horas en tránsito por 3 horas de visita.\n\nEs la elección correcta en una sola situación: presupuesto fijo, fecha fija y todo lo demás agotado. Si viajáis dos, ten en cuenta que dos plazas de autobús suelen costar más que el precio por persona de una excursión en coche compartido."
+   },
+   {
+    "title": "Los tres errores que todos cometen en esta ruta",
+    "content": "**1. Reservar un viernes.** El [Taj Mahal cierra todos los viernes](/india/agra/is-taj-mahal-closed-on-friday) por las oraciones. Los trenes y las autopistas funcionan igual, directos a un día perdido.\n\n**2. Billetes del Gatimaan en lista de espera.** Los billetes WL a menudo nunca se confirman. Si no pone CNF, puede que veas partir el tren sin ti. Reserva pronto o elige un paquete con plazas confirmadas.\n\n**3. Sin entradas compradas con antelación.** [La venta de entradas del Taj Mahal es 100 % digital en 2026](/india/agra/taj-mahal-ticket-price-2026): 1.300 ₹ para visitantes extranjeros, código QR en la puerta. Compra antes de viajar; comprar la entrada con el wifi de la puerta a las 9:50 con una cola detrás no es el recuerdo favorito de nadie."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es la forma más rápida de ir de Delhi a Agra?",
+    "a": "El **Gatimaan Express**: 1 hora y 40 minutos de Hazrat Nizamuddin (Delhi) a Agra Cantt, salida a las 8:10, seis días a la semana (sin servicio los viernes). Es el tren más rápido de India, hasta 160 km/h. Por carretera, la Yamuna Expressway lleva de 3 a 3,5 horas puerta a puerta."
+   },
+   {
+    "q": "¿Cuánto cuesta una excursión Delhi–Agra en 2026?",
+    "a": "En **paquete Gatimaan Express** (billetes confirmados + guía + coche en Agra + almuerzo): unos **68 $ por persona**. En **coche privado** con guía autorizado: unos **100 $ por persona**, menos por cabeza en familia. En **autobús**: de 1.500 a 3.000 ₹, pero con solo 90 minutos en el Taj. La entrada al Taj (1.300 ₹ para extranjeros) suele ser aparte; confírmalo al reservar."
+   },
+   {
+    "q": "¿Puedo ver el Taj Mahal al amanecer en una excursión desde Delhi?",
+    "a": "Solo **en coche**, saliendo de Delhi hacia las 3:30-4:00 para llegar a las puertas a la apertura de las 6:00. El Gatimaan Express llega a las 9:50 y los autobuses aún más tarde. La alternativa que eligen la mayoría de los amantes del amanecer: viajar la tarde anterior, dormir una noche en Agra y hacer una [visita dedicada al amanecer](/india/agra/taj-mahal-sunrise-guided-tour)."
+   },
+   {
+    "q": "¿Es suficiente un día para Agra desde Delhi?",
+    "a": "Sí, un día bien planificado cubre cómodamente el Taj Mahal (2,5 h), el Fuerte de Agra (1,5 h) y el almuerzo, en tren o en coche. Añade Fatehpur Sikri solo con la opción de coche. Consulta el [itinerario de un día en Agra](/india/agra/1-day-agra-itinerary) para el plan hora a hora."
+   },
+   {
+    "q": "Delhi a Agra en tren o en coche, ¿cuál es mejor?",
+    "a": "**Tren** si viajas solo o en pareja y valoras la rapidez y la experiencia ferroviaria: más tiempo total en Agra, comidas en el asiento, sin tráfico. **Coche** si vais en familia o grupo, queréis el Taj al amanecer o Fatehpur Sikri y Mehtab Bagh el mismo día. Los costes convergen a partir de 3 personas, donde el coche suele ganar."
+   }
+  ]
+ },
+ "things-to-do-in-agra": {
+  "title": "La guía definitiva: explorar Agra a fondo (edición 2026)",
+  "description": "Taj Mahal al amanecer, Fuerte de Agra, bazares mogoles, joyas ocultas y comida callejera: la guía completa 2026 de qué hacer en Agra.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entradas",
+    "value": "Reserva digital obligatoria"
+   },
+   {
+    "icon": "Map",
+    "label": "Mejor estrategia",
+    "value": "Pase multi-monumento"
+   },
+   {
+    "icon": "Star",
+    "label": "Consejo experto",
+    "value": "Contrata una guía historiadora"
+   }
+  ],
+  "sections": [
+   {
+    "title": "1. Vivir el amanecer definitivo en el Taj Mahal",
+    "content": "Ver el Taj Mahal al amanecer no es un tópico turístico: es una necesidad arquitectónica y fotográfica. Construido por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal, este monumento de mármol blanco de Makrana reacciona a la luz. Al romper el alba, el mármol absorbe los primeros rayos y adquiere un tono rosa translúcido que se transforma lentamente en un blanco nítido y deslumbrante a medida que sube el sol.\n\nPara lograrlo, pon el despertador a las 4:30. Llega a la puerta este (Shilpgram) o a la puerta oeste hacia las 5:15 para estar entre los primeros. El control de seguridad es riguroso. Para agilizar la entrada, evita mochilas grandes, baterías externas, tabaco, comida, trípodes y libros. Lleva solo móvil, cámara, botella de agua y tu [entrada digital reservada](/india/agra/taj-mahal-ticket-price-2026), descargada sin conexión, porque la red móvil suele saturarse cerca de la entrada.\n\nUna vez dentro, resiste la tentación de detenerte demasiado en la enorme Darwaza-i-Rauza de arenisca roja (la puerta principal). Camina con decisión hasta el estanque central, el famoso banco de Diana, para captar la icónica foto simétrica antes de que se reúna la multitud. Después, recorre con calma la gran plataforma y admira la pietra dura, las incrustaciones de lapislázuli, jade y cristal en el mármol. Dedica al menos dos o tres horas a absorber de verdad la majestuosidad de este sitio UNESCO."
+   },
+   {
+    "title": "2. Explorar la grandeza imperial del Fuerte de Agra",
+    "content": "El Fuerte de Agra, Patrimonio de la Humanidad, es testimonio del poder y la brillantez administrativa del Imperio mogol. Con 38 hectáreas, esta fortaleza de arenisca roja fue la residencia principal de los emperadores hasta 1638. Dentro encontrarás un laberinto de palacios, mezquitas y salas de audiencia. No te pierdas el Musamman Burj, la torre octogonal donde Shah Jahan pasó sus últimos años cautivo, contemplando el Taj Mahal. El palacio de Jahangir y el Diwan-i-Khas son igual de impresionantes y muestran la evolución del diseño mogol, de la robusta arenisca a las delicadas incrustaciones de mármol blanco."
+   },
+   {
+    "title": "3. El corazón espiritual: Jama Masjid y los mercados de especias",
+    "content": "En el corazón de la ciudad vieja, la Jama Masjid es una de las mezquitas más grandes de India, construida por Jahanara Begum, hija de Shah Jahan. Sus enormes cúpulas de arenisca roja y sus minaretes de mármol dominan el caótico y fascinante Kinari Bazaar. Entrar en el cercano mercado de guindillas o de especias es una sobrecarga sensorial: el aire está cargado de comino tostado, cúrcuma y guindillas secas. Aquí los descendientes de los comerciantes del imperio siguen negociando con métodos que no han cambiado en 400 años."
+   },
+   {
+    "title": "4. Chini-ka-Rauza: la obra maestra de azulejos persas",
+    "content": "Ignorada por el 99 % de los turistas, Chini-ka-Rauza es una joya escondida en la orilla este del Yamuna. Es la tumba de Afzal Khan Shirazi, poeta y erudito que fue primer ministro de Shah Jahan. Lo que hace único este monumento es su trabajo de azulejos vidriados, un arte conocido como «Kashi» o «Chini». Aunque los azulejos exteriores se han deteriorado con el tiempo, los azules, verdes y amarillos que quedan ofrecen una rara muestra de la estética puramente persa que influyó en la arquitectura mogol posterior."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuántos días debería pasar realmente en Agra?",
+    "a": "Para vivir Agra de verdad necesitas **2 o 3 días**. La mayoría de los turistas solo hacen [un día](/india/agra/1-day-agra-itinerary), lo que significa ver solo el Taj Mahal y el Fuerte de Agra. Un itinerario de 3 días permite explorar la comida local, la ciudad fantasma de Fatehpur Sikri y los jardines tranquilos sin agotarse."
+   },
+   {
+    "q": "¿Cuáles son las 5 mejores cosas que hacer en Agra?",
+    "a": "1. **Taj Mahal al amanecer**, llega a las 5:30 para la luz más mágica. 2. **Fuerte de Agra**, la fortaleza mogol de 38 hectáreas con vistas al Taj desde el Musamman Burj. 3. **Fatehpur Sikri**, la capital fantasma de Akbar a 40 km de Agra. 4. **Atardecer en Mehtab Bagh**, la mejor vista del Taj desde la otra orilla del Yamuna. 5. **Kinari Bazaar y Sadar Bazaar**, mercados de especias de época mogol y comida callejera."
+   },
+   {
+    "q": "¿Abre el Taj Mahal todos los días?",
+    "a": "El Taj Mahal abre **todos los días excepto los viernes**. Los viernes el monumento cierra por la oración colectiva en la mezquita del recinto. Consulta nuestra [guía sobre el viernes en el Taj Mahal](/india/agra/is-taj-mahal-closed-on-friday) para el mejor itinerario alternativo."
+   },
+   {
+    "q": "¿Cuál es la mejor época para visitar Agra?",
+    "a": "**De octubre a marzo** es ideal, con temperaturas de 10 a 25 °C y cielos despejados. Evita abril-junio, cuando se superan los 45 °C. El monzón (julio-septiembre) trae nubes espectaculares pero una humedad extrema. Los **meses intermedios** de octubre-noviembre y febrero-marzo ofrecen el mejor equilibrio entre clima y afluencia."
+   },
+   {
+    "q": "¿Cuánto cuesta visitar el Taj Mahal?",
+    "a": "Los turistas extranjeros pagan **1.300 ₹** (1.100 ₹ de entrada + 200 ₹ de suplemento del mausoleo), los ciudadanos indios **250 ₹** (50 + 200). Los ciudadanos SAARC pagan 740 ₹. Los menores de 15 años entran gratis. Todas las entradas son **solo digitales**, sin efectivo. Consulta nuestra [guía de precios del Taj Mahal](/india/agra/taj-mahal-ticket-price-2026) para el desglose completo."
+   },
+   {
+    "q": "¿Hay guías mujeres para el Taj Mahal?",
+    "a": "Sí, hay **guías historiadoras autorizadas** disponibles y muy recomendables, sobre todo para grupos interesados en la historia de las mujeres mogolas y la política del zenana (los aposentos femeninos). Nuestras [visitas en Agra](/india/agra) incluyen la opción de guía mujer bajo petición."
+   },
+   {
+    "q": "¿Se puede visitar Agra en un día desde Delhi?",
+    "a": "Sí, Agra está a **188 km de Delhi** (3-4 horas en coche, 100 minutos en [Gatimaan Express](/india/agra/agra-gatimaan-entry-ticket)). Una excursión de un día cubre cómodamente el Taj Mahal y el Fuerte de Agra, pero te perderás el atardecer en Mehtab Bagh y la comida callejera. Para la experiencia completa, recomendamos encarecidamente pasar una noche."
+   },
+   {
+    "q": "¿Qué comida callejera probar en Agra?",
+    "a": "La comida callejera de Agra es legendaria: **petha** (dulce translúcido de calabaza de ceniza, prueba las variedades de azafrán y coco), **bedai y jalebi** (hojaldre especiado de lentejas con jalebi almibarado, el desayuno clásico de Agra), **paratha mogol** (pan relleno) y **lassi** de las tiendas junto a Sadar Bazaar. El mercado de especias de **Kinari Bazaar** es una explosión de comino tostado, cúrcuma y guindillas secas."
+   }
+  ]
+ },
+ "1-day-agra-itinerary": {
+  "title": "Agra en 1 día (2026): un plan preciso hora a hora",
+  "seoTitle": "1 día en Agra: el itinerario perfecto 2026",
+  "description": "Taj Mahal al amanecer, Fuerte de Agra, Baby Taj y Mehtab Bagh al atardecer: un plan de un día en Agra probado, con horarios y tiempos de desplazamiento.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Despertador",
+    "value": "Entrada al amanecer desde las 5:15"
+   },
+   {
+    "icon": "Map",
+    "label": "Imprescindibles",
+    "value": "Fuerte de Agra y Taj"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Alerta de niebla",
+    "value": "Comprobar visibilidad (ene-feb)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Misión amanecer (5:30 a 9:30)",
+    "content": "Tu día empieza mucho antes de que salga el sol. Para vivir el Taj Mahal de verdad, debes estar en la cola al menos 45 minutos antes de que abran las puertas (alrededor del amanecer). La luz de la mañana tiñe el mármol blanco de rosa y oro y ofrece una tranquilidad que desaparece a media mañana.\n\n**Por qué importa madrugar:**\n- **El ambiente:** el aire matinal es fresco y las lejanas llamadas a la oración forman un fondo sobrecogedor para el monumento que emerge de la bruma.\n- **La fotografía:** en cuanto abran las puertas, ve directo al estanque central para la foto «clásica» antes de que se acumule la gente.\n- **La temperatura:** en verano, el mármol se mantiene fresco bajo los pies hasta las 10:00, lo que hace el paseo mucho más cómodo.\n\n**Consejo experto:** entra por la puerta este. Suele estar menos concurrida que la oeste, que recibe los grandes autobuses turísticos del centro. Calcula unas 2,5 horas para el mausoleo y los jardines."
+   },
+   {
+    "title": "Poder imperial en el Fuerte de Agra (10:00 a 12:30)",
+    "content": "Tras un desayuno rápido, dirígete al Fuerte de Agra, a 2,5 kilómetros. Es el peso pesado de la arquitectura mogol: una ciudad fortificada de arenisca roja que albergó el tesoro, el arsenal y la realeza del imperio durante generaciones. A diferencia del Taj, una tumba silenciosa, el fuerte es una sucesión de palacios monumentales diseñados para impresionar e intimidar.\n\n**Lo imprescindible:**\n- **El Diwan-i-Khas:** imagina a los embajadores más poderosos del mundo esperando audiencia aquí bajo la mirada del emperador.\n- **El Musamman Burj:** sitúate donde Shah Jahan fue encarcelado por su propio hijo. Desde este balcón puedes captar una foto perfectamente encuadrada del Taj Mahal a lo lejos, la misma vista con la que el emperador vivió sus últimos años de cautiverio.\n\nDedica al menos 2,5 horas para apreciar el paso de las estructuras de arenisca roja a las elegantes adiciones de mármol de los emperadores posteriores."
+   },
+   {
+    "title": "Pausa de mediodía y sabores locales (12:45 a 14:00)",
+    "content": "Escapa del calor del mediodía con un almuerzo tranquilo en una azotea cerca de Taj East Gate Road. Muchos de estos cafés están pensados para las «vistas al Taj» y permiten admirar el monumento a distancia mientras descansas.\n\n**Qué pedir:**\n- **Petha de Agra:** el famoso dulce de calabaza de ceniza; prueba los sabores de azafrán o pistacho para un auténtico gusto de la ciudad.\n- **Thali mogol:** una gran bandeja de butter chicken, dal makhani y naans de ajo recién hechos, reflejo de la rica herencia culinaria de las cortes mogolas.\n- **Bedai y jalebi:** si quieres comer como un local, esta combinación picante y dulce es la elección clásica de Agra.\n\n**Consejo de supervivencia:** aprovecha para cargar los dispositivos y beber mucha agua antes de la etapa de la tarde."
+   },
+   {
+    "title": "La transición al mármol blanco (14:15 a 16:00)",
+    "content": "Cruza el río Yamuna para visitar la tumba de Itimad-ud-Daula (el Baby Taj). Suele considerarse la «sorpresa» de Agra: arquitectónicamente sofisticada y mucho más tranquila que los dos sitios anteriores, invita a la reflexión.\n\n**Por qué está en el plan de un día:**\nAporta un contexto histórico esencial. Esta tumba se construyó pocos años antes que el Taj Mahal y muestra la transición crucial del gusto mogol de la arenisca roja al mármol blanco. Sus incrustaciones son, sin duda, más intrincadas y coloridas que las del propio Taj. Se tarda entre 60 y 75 minutos en recorrer las cámaras interiores y los tranquilos jardines junto al río."
+   },
+   {
+    "title": "La perspectiva del atardecer (16:30 a 18:00)",
+    "content": "Termina las visitas en Mehtab Bagh, al otro lado del río. Mientras miles de personas se apiñan dentro del recinto del Taj para el atardecer, tú estarás en la orilla opuesta con una vista amplia de toda la estructura.\n\nCuando el sol se hunde tras el horizonte, el mármol blanco pasa a un naranja intenso y luego a un suave azul zafiro. Es la forma más serena de despedirse del monumento. Este jardín es además el mejor lugar para fotografía de larga exposición, usando el río como espejo de la silueta del Taj."
+   },
+   {
+    "title": "Logística y equipo eficiente",
+    "content": "**Transporte:** no intentes caminar entre monumentos. Alquila un auto-rickshaw para todo el «circuito» (unas 800-1.200 ₹ por el día) o usa Uber para la comodidad del aire acondicionado. Un conductor privado para el día es la opción más cara pero la más fiable.\n\n**Kit de supervivencia:**\n- **Agua:** al menos 2 litros. La deshidratación es un problema habitual con el calor seco de Agra.\n- **Calzado:** fácil de quitar y poner. Tendrás que descalzarte para entrar en los santuarios de tumbas y mezquitas.\n- **Documento:** lleva el pasaporte encima. Los guardias suelen comprobar la identidad en la entrada prioritaria para extranjeros para verificar que la entrada corresponde a su titular."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es la forma más fácil de hacer este itinerario desde Delhi?",
+    "a": "Dos opciones probadas: la [excursión de ida y vuelta al Taj Mahal y Agra en coche privado](/india/agra/taj-mahal-return-guided-tour) (12 horas puerta a puerta por la Yamuna Expressway) o la [ida y vuelta en tren Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train), 100 minutos por trayecto con plazas confirmadas, guía y traslados incluidos. Ambas cubren exactamente este itinerario con un guía local autorizado."
+   },
+   {
+    "q": "¿De verdad basta un día para Agra?",
+    "a": "Sí, basta para ver los «tres grandes» (Taj, fuerte, Baby Taj) y un atardecer en Mehtab Bagh. Pero estarás de pie entre 10 y 12 horas. Si quieres un ritmo relajado y una excursión a Fatehpur Sikri, recomendamos encarecidamente ampliar a 2 días."
+   },
+   {
+    "q": "¿En qué orden visitar el Taj y el fuerte?",
+    "a": "Siempre el Taj Mahal primero, al amanecer. La experiencia física y emocional del Taj a las 6:00 no tiene nada que ver con la de las 11:00. Cuando aprieta el calor, la sombra de los enormes pasillos de piedra del fuerte se agradece mucho más."
+   },
+   {
+    "q": "¿Es posible hacerlo en un día desde Delhi?",
+    "a": "Por supuesto. Toma el Gatimaan Express (salida 8:10) y vuelve por la tarde. Si vas en coche por la Yamuna Expressway, sal de Delhi antes de las 5:00 para aprovechar al máximo el tiempo en los monumentos."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {
