@@ -15,6 +15,8 @@ import { CITY_URL_MAP } from '@/lib/cityCountryMap';
 // Top-level app/ directories. A first segment that is one of these is a real
 // route, not a country, and must be left completely alone.
 const RESERVED_TOP_LEVEL = new Set([
+  // translated folders (app/[lang]) handle their own country/city routing
+  'fr', 'de', 'es',
   'about',
   'about-us',
   'admin',

@@ -66,7 +66,15 @@ interface TourDetailClientProps {
    *  client JS on every tour page. */
   specificFaqs?: { question: string; answer: string }[];
   hardcodedReviews?: TourReviewData | null;
+  /** Set on /fr, /de, /es pages: translates the page chrome (headings, labels). Copy itself comes translated from the server. */
+  lang?: 'fr' | 'de' | 'es';
 }
+
+const CHROME: Record<'fr' | 'de' | 'es', Record<string, string>> = {
+  fr: { in: 'à', explore: 'Découvrez d\'autres expériences sélectionnées à', viewAll: 'Voir toutes les excursions à', topRated: 'Très bien noté', provider: 'Opérateur', highlights: 'Points forts', keyFacts: 'En bref', fullDescription: 'Description complète', itinerary: 'Programme', detailedItinerary: 'Programme détaillé', includes: 'Inclus', excludes: 'Non inclus', important: 'Informations importantes', meetingPoint: 'Point de rendez-vous', weather: 'Météo', knowBefore: 'À savoir avant de partir', about: 'À propos de cette activité', reviews: 'Avis des voyageurs', faq: 'Questions fréquentes', selectDate: 'Choisir une date', startingFrom: 'À partir de', bookNow: 'Réserver', share: 'Partager', freeCancellation: 'Annulation gratuite', freeCancellationLong: 'Annulation gratuite jusqu\'à 24 heures avant le début de l\'activité', verifiedOperator: 'Opérateur local vérifié' },
+  de: { in: 'in', explore: 'Weitere ausgewählte Erlebnisse in', viewAll: 'Alle Touren in', topRated: 'Top bewertet', provider: 'Anbieter', highlights: 'Highlights', keyFacts: 'Auf einen Blick', fullDescription: 'Vollständige Beschreibung', itinerary: 'Ablauf', detailedItinerary: 'Detaillierter Ablauf', includes: 'Inklusive', excludes: 'Nicht inklusive', important: 'Wichtige Informationen', meetingPoint: 'Treffpunkt', weather: 'Wetter', knowBefore: 'Gut zu wissen', about: 'Über diese Aktivität', reviews: 'Bewertungen', faq: 'Häufige Fragen', selectDate: 'Datum wählen', startingFrom: 'Ab', bookNow: 'Jetzt buchen', share: 'Teilen', freeCancellation: 'Kostenlose Stornierung', freeCancellationLong: 'Kostenlose Stornierung bis 24 Stunden vor Beginn der Aktivität', verifiedOperator: 'Geprüfter lokaler Anbieter' },
+  es: { in: 'en', explore: 'Descubre más experiencias seleccionadas en', viewAll: 'Ver todas las visitas en', topRated: 'Muy valorado', provider: 'Operador', highlights: 'Lo más destacado', keyFacts: 'Datos clave', fullDescription: 'Descripción completa', itinerary: 'Itinerario', detailedItinerary: 'Itinerario detallado', includes: 'Incluye', excludes: 'No incluye', important: 'Información importante', meetingPoint: 'Punto de encuentro', weather: 'Clima', knowBefore: 'Antes de ir', about: 'Sobre esta actividad', reviews: 'Opiniones de viajeros', faq: 'Preguntas frecuentes', selectDate: 'Elegir fecha', startingFrom: 'Desde', bookNow: 'Reservar', share: 'Compartir', freeCancellation: 'Cancelación gratuita', freeCancellationLong: 'Cancelación gratuita hasta 24 horas antes del inicio de la actividad', verifiedOperator: 'Operador local verificado' },
+};
 
 
 
@@ -134,7 +142,8 @@ const isJsonItinerary = (raw: string | null | undefined): boolean => {
   }
 };
 
-const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, country, city, specificFaqs = [], hardcodedReviews = null }) => {
+const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, country, city, specificFaqs = [], hardcodedReviews = null, lang }) => {
+  const t = (k: string, en: string) => (lang && CHROME[lang][k]) || en;
   const [tour, setTour] = useState<any>(initialTour);
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const [selectedDate, setSelectedDate] = useState<string>('');
@@ -1585,13 +1594,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               {country && city && (
                 <div className="mb-8 p-6 bg-[#10B981]/5 rounded-2xl border border-[#10B981]/10">
                   <p className="text-[16px] text-gray-700 font-semibold mb-3">
-                    Explore more curated experiences in <Link href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`} className="text-[#10B981] font-black hover:underline">{city}</Link>
+                    {t('explore', 'Explore more curated experiences in')} <Link href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`} className="text-[#10B981] font-black hover:underline">{city}</Link>
                   </p>
                   <Link
                     href={`/${country.toLowerCase().replace(/\s+/g, '-')}/${city.toLowerCase().replace(/\s+/g, '-')}`}
                     className="inline-flex items-center gap-2 text-[#10B981] font-black hover:text-[#059669] transition-colors"
                   >
-                    View all {city} tours
+                    {lang ? `${t('viewAll', '')} ${city}` : `View all ${city} tours`}
                     <ChevronRight size={18} />
                   </Link>
                 </div>
@@ -1617,13 +1626,13 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         // Avoid "Jaipur ... in Jaipur" duplication
                         return h1Text.toLowerCase().includes(city.toLowerCase())
                           ? h1Text
-                          : `${h1Text} in ${city}`;
+                          : `${h1Text} ${t('in', 'in')} ${city}`;
                       })()}
                     </h1>
                     <div className="flex items-center gap-4 flex-wrap">
                       <div className="flex items-center gap-2">
                         <span className="px-2 py-1 bg-[#10B981] text-white text-[12px] font-black rounded">
-                          Top rated
+                          {t('topRated', 'Top rated')}
                         </span>
                         <div className="flex items-center gap-1">
                           {[...Array(5)].map((_, i) => (
@@ -1653,7 +1662,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                             that naming the actual local operator is what "by locals"
                             means, and it is what every large marketplace does.
                             Falls back to our own name where no operator is recorded. */}
-                        Activity provider: {tour?.activityProvider?.trim() || 'Verified local operator'}
+                        {t('provider', 'Activity provider')}: {tour?.activityProvider?.trim() || t('verifiedOperator', 'Verified local operator')}
                       </div>
                     </div>
 
@@ -1766,7 +1775,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Highlights Section */}
                   {tour.highlights && Array.isArray(tour.highlights) && tour.highlights.length > 0 && (
                     <div className="mb-8 pt-12">
-                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Highlights</h2>
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('highlights', 'Highlights')}</h2>
                       <ul className="space-y-2">
                         {tour.highlights.map((highlight: string, index: number) => (
                           <li key={index} className="flex items-start gap-3 border-b border-gray-100 pb-3 last:border-0 last:pb-0">
@@ -1780,7 +1789,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                   {/* Quick Facts table — real <table> markup targets featured snippets */}
                   <div className="mb-8 pt-8 overflow-x-auto">
-                    <h2 className="text-2xl font-black text-[#001A33] mb-4">{tour.title}: Key Facts</h2>
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">{tour.title}: {t('keyFacts', 'Key Facts')}</h2>
                     <table className="w-full text-[15px] border border-gray-200 rounded-lg overflow-hidden">
                       <tbody>
                         <tr className="border-b border-gray-100">
@@ -1989,7 +1998,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                                       </div>
                                       <div className="flex items-center gap-1 text-[11px] text-gray-500 mt-2">
                                         <CheckCircle2 size={12} className="text-[#10B981]" />
-                                        <span className="font-semibold">Free cancellation</span>
+                                        <span className="font-semibold">{t('freeCancellation', 'Free cancellation')}</span>
                                       </div>
                                     </div>
                                   </div>
@@ -2005,7 +2014,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                   {/* Full Description */}
                   <div className="mb-8">
-                    <h2 className="text-2xl font-black text-[#001A33] mb-4">Full description</h2>
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('fullDescription', 'Full description')}</h2>
                     <div className="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 border border-gray-100 shadow-sm transition-all hover:shadow-md">
                       <div className="text-[16px] sm:text-[17px] text-gray-700 font-normal sm:font-medium leading-[1.8] whitespace-pre-wrap break-words">
                         {(() => {
@@ -2153,7 +2162,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Visual Itinerary Timeline */}
                   {tour.itineraryItems && Array.isArray(tour.itineraryItems) && tour.itineraryItems.length > 0 && (
                     <div className="mb-8">
-                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Tour Itinerary</h2>
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('itinerary', 'Tour Itinerary')}</h2>
                       <div className="bg-[#10B981]/5 border border-[#10B981]/20 rounded-xl p-4 mb-6">
                         <div className="flex items-center gap-2 mb-1">
                           <CheckCircle2 size={16} className="text-[#10B981]" />
@@ -2253,7 +2262,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Detailed Itinerary Description */}
                   {tour.detailedItinerary && (
                     <div className="mb-8">
-                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Detailed Itinerary</h2>
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('detailedItinerary', 'Detailed Itinerary')}</h2>
                       <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
                         {/* Sri Lanka and Hakone tours were imported with the itinerary as a JSON
                             array of {time,title,description} steps. Render those as a timeline
@@ -2303,7 +2312,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Includes Section */}
                   {toLines(tour.included).length > 0 && (
                     <div className="mb-8">
-                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Includes</h2>
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('includes', 'Includes')}</h2>
                       <ul className="space-y-3">
                         {toLines(tour.included).map((item: string, index: number) => (
                           <li key={index} className="flex items-start gap-3">
@@ -2318,7 +2327,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   {/* Not Included Section */}
                   {toLines(tour.notIncluded).length > 0 && (
                     <div className="mb-8">
-                      <h2 className="text-2xl font-black text-[#001A33] mb-4">Excludes</h2>
+                      <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('excludes', 'Excludes')}</h2>
                       <ul className="space-y-3">
                         {toLines(tour.notIncluded).map((item: string, index: number) => (
                           <li key={index} className="flex items-start gap-3">
@@ -2333,14 +2342,14 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                   {/* Important Information */}
                   <div className="mb-8">
-                    <h2 className="text-2xl font-black text-[#001A33] mb-4">Important information</h2>
+                    <h2 className="text-2xl font-black text-[#001A33] mb-4">{t('important', 'Important information')}</h2>
                     {/* When there is no meeting point the whole block used to vanish,
                         so the guest saw nothing at all and only discovered there was
                         no address on the morning of the tour. That is what cost us a
                         refund in Kyoto on 2026-09-09. Say plainly what happens next
                         instead of showing a gap. */}
                     <div className="mb-4">
-                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">Meeting point</h3>
+                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">{t('meetingPoint', 'Meeting point')}</h3>
                       {tour.meetingPoint ? (
                         <p className="text-[16px] text-gray-700 font-semibold">{tour.meetingPoint}</p>
                       ) : tour.pickupIncluded ? (
@@ -2366,7 +2375,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       if (!outdoor.test(tour?.title || '')) return null;
                       return (
                         <div className="mb-4">
-                          <h3 className="text-[18px] font-black text-[#001A33] mb-2">Weather</h3>
+                          <h3 className="text-[18px] font-black text-[#001A33] mb-2">{t('weather', 'Weather')}</h3>
                           <p className="text-[16px] text-gray-700 font-semibold">
                             This runs outdoors, so the operator can call it off for rain, wind or
                             sea conditions, and that decision is usually made on the day. If they
@@ -2378,12 +2387,12 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     })()}
 
                     <div>
-                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">Know before you go</h3>
+                      <h3 className="text-[18px] font-black text-[#001A33] mb-2">{t('knowBefore', 'Know before you go')}</h3>
                       <ul className="space-y-2">
                         <li className="flex items-start gap-3">
                           <div className="w-2 h-2 bg-[#001A33] rounded-full mt-2 shrink-0"></div>
                           <span className="text-[16px] text-gray-700 font-semibold">
-                            Free cancellation available up to 24 hours before the activity starts
+                            {t('freeCancellationLong', 'Free cancellation available up to 24 hours before the activity starts')}
                           </span>
                         </li>
                         {tour.category === 'Entry Ticket' && (
@@ -2400,14 +2409,14 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                   {/* About this activity */}
                   <div className="mb-8">
-                    <h2 className="text-2xl font-black text-[#001A33] mb-6">About this activity</h2>
+                    <h2 className="text-2xl font-black text-[#001A33] mb-6">{t('about', 'About this activity')}</h2>
                     <div className="space-y-4">
                       <div className="flex items-start gap-4">
                         <div className="w-6 h-6 rounded-full bg-[#10B981]/10 flex items-center justify-center shrink-0 mt-1">
                           <CheckCircle2 className="text-[#10B981]" size={16} />
                         </div>
                         <div>
-                          <div className="font-black text-[#001A33] text-[16px] mb-1">Free cancellation</div>
+                          <div className="font-black text-[#001A33] text-[16px] mb-1">{t('freeCancellation', 'Free cancellation')}</div>
                           <div className="text-[14px] text-gray-600 font-semibold">
                             Cancel up to 24 hours in advance for a full refund
                           </div>
@@ -2506,7 +2515,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                     {/* Share */}
                     <div className="flex items-center justify-end gap-4 mb-6">
                       <a href="#" className="text-[14px] text-gray-600 font-semibold hover:text-[#10B981] transition-colors">
-                        Share
+                        {t('share', 'Share')}
                       </a>
                     </div>
 
@@ -2535,7 +2544,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           <div className="text-[12px] font-bold text-gray-500 uppercase tracking-wider mb-2">Main Tour Price</div>
                           <div className="flex items-baseline gap-3 mb-1">
                             <span className="text-[14px] text-gray-500 font-semibold">
-                              Starting from {displaySymbol}
+                              {t('startingFrom', 'Starting from')} {displaySymbol}
                               {(() => {
                                 const sidebarConvert = (p: number) => fxConvert(p);
                                 console.log('═══════════════════════════════════════════════════════════');
@@ -2792,7 +2801,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           onClick={() => setShowCalendarModal(true)}
                           className="w-full bg-white border-2 border-gray-200 rounded-2xl py-4 px-4 pr-10 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none text-left flex items-center justify-between hover:border-[#10B981] transition-colors"
                         >
-                          <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? (() => { const [y,m,d] = selectedDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }); })() : 'Select date'}</span>
+                          <span className="flex-1 min-w-0 truncate pr-2">{selectedDate ? (() => { const [y,m,d] = selectedDate.split('-').map(Number); return new Date(y,m-1,d).toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' }); })() : t('selectDate', 'Select date')}</span>
                           <Calendar className="text-gray-400 shrink-0" size={20} />
                         </button>
                       </div>
@@ -2947,7 +2956,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       <div className="flex items-start gap-3">
                         <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
                         <div className="min-w-0 flex-1">
-                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">Free cancellation</div>
+                          <div className="font-black text-[#001A33] text-[14px] mb-1 break-words">{t('freeCancellation', 'Free cancellation')}</div>
                           <div className="text-[12px] text-gray-600 font-semibold break-words">
                             Cancel up to 24 hours in advance for a full refund
                           </div>
@@ -3011,7 +3020,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           <div className="p-3 bg-[#10B981]/10 rounded-2xl">
                             <Star className="text-[#10B981]" size={32} />
                           </div>
-                          <h2 className="text-2xl font-black text-[#001A33]">Traveler Reviews</h2>
+                          <h2 className="text-2xl font-black text-[#001A33]">{t('reviews', 'Traveler Reviews')}</h2>
                         </div>
 
 
@@ -3194,7 +3203,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       <div className="p-3 bg-[#10B981]/10 rounded-2xl">
                         <HelpCircle className="text-[#10B981]" size={32} />
                       </div>
-                      <h2 className="text-2xl font-black text-[#001A33]">Frequently Asked Questions</h2>
+                      <h2 className="text-2xl font-black text-[#001A33]">{t('faq', 'Frequently Asked Questions')}</h2>
                     </div>
                     <div className="space-y-8 max-w-4xl">
                       {(() => {
@@ -3566,7 +3575,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                           {/* Free Cancellation */}
                           <div className="flex items-center gap-2 text-[13px] text-gray-600">
                             <CheckCircle2 size={14} className="text-[#10B981]" />
-                            <span className="font-semibold">Free cancellation</span>
+                            <span className="font-semibold">{t('freeCancellation', 'Free cancellation')}</span>
                           </div>
                         </div>
 
@@ -4061,7 +4070,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
       {/* Floating Mobile Book Button — visible only on mobile/tablet when booking box is off-screen */}
       <div className="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-white border-t border-gray-200 shadow-[0_-4px_20px_rgba(0,0,0,0.1)] px-4 pt-3 flex items-center justify-between gap-3" style={{ paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom, 0px))' }}>
         <div className="flex flex-col">
-          <span className="text-[12px] text-gray-500 font-semibold">Starting from</span>
+          <span className="text-[12px] text-gray-500 font-semibold">{t('startingFrom', 'Starting from')}</span>
           <span className="text-[20px] font-black text-[#10B981]">
             {displaySymbol}{fxConvert(selectedOption?.price || tour?.pricePerPerson || 0).toLocaleString()}
           </span>
@@ -4081,7 +4090,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
           }}
           className="bg-[#0071EB] hover:bg-[#0056b3] text-white font-black py-3 px-8 rounded-xl text-[15px] transition-all shadow-lg"
         >
-          Book Now
+          {t('bookNow', 'Book Now')}
         </button>
       </div>
 

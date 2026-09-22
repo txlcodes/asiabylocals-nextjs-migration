@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
+import { isLang, cityT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
@@ -12,7 +13,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 export const revalidate = 60;
 
 interface Props {
-  params: Promise<{ country: string; city: string }>;
+  params: Promise<{ country: string; city: string; lang?: string }>;
 }
 
 function capitalize(str: string) {
@@ -174,12 +175,14 @@ async function countApprovedTours(countryName: string, cityName: string): Promis
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { country, city } = await params;
+  const { country, city, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const cityName = capitalize(city);
   const countryName = countryDisplayName(country);
   const meta = CITY_META[cityName];
-  const title = meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`;
-  const description = meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
+  const ct = cityT(lang, city.toLowerCase());
+  const title = ct?.title ? `${ct.title} | AsiaByLocals` : (meta?.title || `Guided Tours & Things to Do in ${cityName} | AsiaByLocals`);
+  const description = ct?.description || meta?.description || `Discover the best tours in ${cityName} with licensed local guides. Book authentic experiences in ${cityName}, ${countryName}.`;
   // Index a city page only if it actually has approved tours. This used to be a
   // hardcoded whitelist, which drifted badly as supply changed: 14 cities with
   // live tours (Udaipur, Jodhpur, Bengaluru, Jaisalmer, Varanasi...) were being
@@ -208,7 +211,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title,
     description,
     alternates: {
-      canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}`,
+      canonical: canonicalFor(lang, `/${country.toLowerCase()}/${city.toLowerCase()}`),
+      languages: alternatesFor(`/${country.toLowerCase()}/${city.toLowerCase()}`),
     },
     ...(noIndex ? { robots: { index: false, follow: true } } : {}),
     openGraph: {

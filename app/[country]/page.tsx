@@ -3,13 +3,14 @@ import { notFound } from 'next/navigation';
 import CountryPageClient from '@/components/CountryPageClient';
 import { countryDisplayName } from '@/lib/countryName';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
+import { isLang, cityT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
 export const revalidate = 60;
 
 interface Props {
-  params: Promise<{ country: string }>;
+  params: Promise<{ country: string; lang?: string }>;
 }
 
 function capitalize(str: string) {
@@ -127,9 +128,11 @@ const COUNTRY_META: Record<string, {
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { country } = await params;
+  const { country, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const c = country.toLowerCase();
   const meta = COUNTRY_META[c];
+  const ct = cityT(lang, `country:${c}`);
 
   if (!meta) {
     return {
@@ -150,10 +153,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : `https://www.asiabylocals.com${hero || '/og-default.webp'}`;
 
   return {
-    title: meta.title,
-    description: meta.description,
+    title: ct?.title ? `${ct.title} | AsiaByLocals` : meta.title,
+    description: ct?.description || meta.description,
     alternates: {
-      canonical: `https://www.asiabylocals.com/${c}`,
+      canonical: canonicalFor(lang, `/${c}`),
+      languages: alternatesFor(`/${c}`),
     },
     openGraph: {
       title: meta.title,

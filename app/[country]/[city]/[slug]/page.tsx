@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { CITY_URL_MAP } from '@/lib/cityCountryMap';
+import { isLang, tourT, pageT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { AGRA_INFO_SLUGS, UBUD_INFO_SLUGS, CANGGU_INFO_SLUGS, ULUWATU_INFO_SLUGS, NUSA_PENIDA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS, HA_LONG_INFO_SLUGS, HANOI_INFO_SLUGS, SAPA_INFO_SLUGS, HOI_AN_INFO_SLUGS, DA_NANG_INFO_SLUGS, HO_CHI_MINH_CITY_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
@@ -16,7 +17,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 export const revalidate = 60;
 
 interface Props {
-  params: Promise<{ country: string; city: string; slug: string }>;
+  params: Promise<{ country: string; city: string; slug: string; lang?: string }>;
 }
 
 function capitalize(str: string) {
@@ -444,7 +445,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { country, city, slug } = await params;
+  const { country, city, slug, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const cityName = capitalize(city);
 
   if (isInfoSlug(city, slug)) {
@@ -453,13 +455,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const title = infoContent?.title || fallbackTitle;
     // Meta title is deliberately separate from the H1: it has ~60 chars before
     // Google truncates, and it needs to lead with the query, not the prose.
-    const metaTitle = infoContent?.seoTitle || title;
-    const description = infoContent?.description || `Essential guide: ${fallbackTitle}. Everything you need to know before visiting ${cityName}.`;
+    const pt = pageT(lang, slug);
+    const metaTitle = pt?.seoTitle || pt?.title || infoContent?.seoTitle || title;
+    const description = pt?.description || infoContent?.description || `Essential guide: ${fallbackTitle}. Everything you need to know before visiting ${cityName}.`;
+    const infoPath = `/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`;
     return {
       title: `${metaTitle} | AsiaByLocals`,
       description,
       alternates: {
-        canonical: `https://www.asiabylocals.com/${country.toLowerCase()}/${city.toLowerCase()}/${slug}`,
+        canonical: canonicalFor(lang, infoPath),
+        languages: alternatesFor(infoPath),
       },
       openGraph: {
         title: `${metaTitle} | AsiaByLocals`,
@@ -487,9 +492,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       const tour = (data.success && data.tour) ? data.tour : (data.title ? data : null);
       if (tour) {
         // Always use CTR-optimized description with trust signals
-        const description = SEO_DESCRIPTION_OVERRIDES[slug] || buildMetaDescription(tour, cityName);
+        const tt = tourT(lang, slug);
+        const description = tt?.metaDescription || SEO_DESCRIPTION_OVERRIDES[slug] || buildMetaDescription(tour, cityName);
         // Use SEO override title if available, otherwise shorten the database title
-        const seoTitle = SEO_TITLE_OVERRIDES[slug];
+        const seoTitle = tt?.metaTitle || (lang ? tt?.title : undefined) || SEO_TITLE_OVERRIDES[slug];
         const shortTitle = seoTitle || shortenTitleForMeta(tour.title);
         // Avoid "Jaipur Tour in Jaipur" duplication
         const titleTag = seoTitle
@@ -504,11 +510,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           : country.toLowerCase();
         // Duplicate-intent pages canonicalise to their champion slug (see map above)
         const canonicalSlug = DUPLICATE_CANONICAL_MAP[slug] || slug;
+        const tourPath = `/${canonicalCountry}/${city.toLowerCase()}/${canonicalSlug}`;
         return {
           title: titleTag,
           description,
           alternates: {
-            canonical: `https://www.asiabylocals.com/${canonicalCountry}/${city.toLowerCase()}/${canonicalSlug}`,
+            canonical: canonicalFor(lang, tourPath),
+            languages: alternatesFor(tourPath),
           },
           openGraph: {
             title: titleTag,
@@ -533,7 +541,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function SlugPage({ params }: Props) {
-  const { country, city, slug } = await params;
+  const { country, city, slug, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const cityName = capitalize(city);
   const countryName = countryDisplayName(country);
   const countrySlug = country.toLowerCase();
@@ -542,7 +551,14 @@ export default async function SlugPage({ params }: Props) {
   // City info page
   if (isInfoSlug(city, slug)) {
     // Build server-side JSON-LD from static info content
-    const infoContent = getCityInfoContent(slug);
+    const infoBase = getCityInfoContent(slug);
+    // Translated folder: overlay the translated title/description/sections/FAQ
+    // where we have them; anything missing stays English.
+    const pt = pageT(lang, slug);
+    const infoContent = infoBase && pt ? { ...infoBase, title: pt.title, seoTitle: pt.seoTitle || infoBase.seoTitle, description: pt.description,
+      fastFacts: pt.fastFacts || infoBase.fastFacts,
+      sections: pt.sections ? infoBase.sections.map((sec: any, i: number) => (pt.sections![i] ? { ...sec, title: pt.sections![i].title, content: pt.sections![i].content } : sec)) : infoBase.sections,
+      faqs: pt.faqs || infoBase.faqs, jsonLd: undefined } : infoBase;
     // Pages that define their own jsonLd keep it; the rest (Bali, Japan round 2)
     // get an Article + FAQPage graph built from their faqs, so every guide
     // carries FAQ schema without hand-writing it per page.
@@ -645,8 +661,21 @@ export default async function SlugPage({ params }: Props) {
     const realCity = slugged && CITY_URL_MAP[slugged] ? slugged : citySlug;
     if ((realCountry && realCountry !== countrySlug) || realCity !== citySlug) {
       // 308, not 307 — Google must retire the wrong URL, not keep it indexed.
-      permanentRedirect(`/${realCountry || countrySlug}/${realCity || citySlug}/${slug}`);
+      permanentRedirect(`${lang ? `/${lang}` : ''}/${realCountry || countrySlug}/${realCity || citySlug}/${slug}`);
     }
+  }
+
+  // Translated folder: overlay the translated copy on the tour object so the
+  // detail client, the JSON-LD and the FAQ block all render it. Reviews are
+  // never translated (they stay in the language the guest wrote them).
+  const tt = tourT(lang, slug);
+  if (tt) {
+    tour = { ...tour, title: tt.title,
+      shortDescription: tt.shortDescription || tour.shortDescription,
+      fullDescription: tt.fullDescription || tour.fullDescription,
+      highlights: tt.highlights ? JSON.stringify(tt.highlights) : tour.highlights,
+      included: tt.included ? JSON.stringify(tt.included) : tour.included,
+      notIncluded: tt.notIncluded ? JSON.stringify(tt.notIncluded) : tour.notIncluded };
   }
 
   // ---------- SERVER-SIDE JSON-LD for Tour Detail (guaranteed in raw HTML) ----------
@@ -682,7 +711,7 @@ export default async function SlugPage({ params }: Props) {
       };
 
   // Get FAQs for this tour (from extracted lib/tourFaqs.ts)
-  const tourFaqs = getTourSpecificFAQs(tour?.title || '', slug);
+  const tourFaqs = (tt?.faqs && tt.faqs.length) ? tt.faqs : getTourSpecificFAQs(tour?.title || '', slug);
   const faqSchema = tourFaqs && tourFaqs.length > 0
     ? {
         '@type': 'FAQPage',
@@ -991,7 +1020,7 @@ export default async function SlugPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(tourJsonLd) }}
       />
       {/* SEO: visible H1 with city name is rendered by TourDetailClient. No duplicate hidden H1. */}
-      <TourDetailClient tour={tour} city={cityName} country={countryName} specificFaqs={tourFaqs || []} hardcodedReviews={tourReviewData} />
+      <TourDetailClient tour={tour} city={cityName} country={countryName} specificFaqs={tourFaqs || []} hardcodedReviews={tourReviewData} lang={lang || undefined} />
 
       {/* Server-rendered internal links — visible to Google crawler in raw HTML */}
       {otherTourLinks.length > 0 && (

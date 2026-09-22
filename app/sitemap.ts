@@ -1,3 +1,4 @@
+import { translatedLangs } from '@/lib/translations';
 import { MetadataRoute } from 'next';
 import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
@@ -698,8 +699,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // above. Google asks you not to submit redirecting URLs: it wastes crawl
   // budget and says "index this" while the server says "it moved". Filtering
   // here means adding a redirect is enough; nobody has to remember this file.
-  return all.filter(entry => {
+  const english = all.filter(entry => {
     const slug = entry.url.split('/').pop() || '';
     return !REDIRECTED_SLUGS.has(slug);
   });
+  // Translated folders (/fr, /de, /es): only paths with real translated copy
+  // are listed (see translatedLangs); an untranslated /fr URL renders English
+  // and canonicalises back to /, so listing it would only create duplicates.
+  const RESERVED = new Set(['about', 'about-us', 'become-a-supplier', 'booking', 'explore', 'getyourguide-viator-alternative', 'privacy-policy', 'safety-guidelines', 'support', 'terms-and-conditions', 'supplier', 'review', 'tour']);
+  const destination = (u: string) => { const path = u.replace(BASE_URL, ''); const first = path.split('/').filter(Boolean)[0]; return !!first && !RESERVED.has(first); };
+  const withLangs = english.flatMap(entry => {
+    if (!destination(entry.url)) return [entry];
+    const path = entry.url.replace(BASE_URL, '');
+    const langs = translatedLangs(path);   // only languages with real copy
+    if (langs.length === 0) return [entry];
+    const languages: Record<string, string> = { en: entry.url, 'x-default': entry.url };
+    for (const l of langs) languages[l] = `${BASE_URL}/${l}${path}`;
+    const base = { ...entry, alternates: { languages } };
+    return [base, ...langs.map(l => ({ ...base, url: `${BASE_URL}/${l}${path}`, priority: Math.max(0.3, (entry.priority ?? 0.6) - 0.1) }))];
+  });
+  return withLangs;
 }
