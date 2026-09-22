@@ -4333,6 +4333,118 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "La Puerta de la India es el punto de partida natural de un día en Nueva Delhi. Desde allí puede recorrer a pie el Kartavya Path hasta el Rashtrapati Bhavan, visitar la [Tumba de Humayun](/india/delhi/humayuns-tomb) (15 minutos en Uber) y el Lodhi Garden (10 minutos) y volver a Connaught Place para cenar. Consulte nuestro [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para la ruta optimizada."
    }
   ]
+ },
+ "things-to-do-in-delhi": {
+  "title": "Qué hacer en Delhi en 2026: la guía definitiva",
+  "description": "Qué hacer en Delhi en 2026: 3 sitios UNESCO, comida callejera de Chandni Chowk, palacios mogoles, la Puerta de la India y excursiones al Taj Mahal.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "Sitios UNESCO",
+    "value": "3 (Fuerte Rojo, Qutub Minar, Tumba de Humayun)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Estancia recomendada",
+    "value": "3 a 5 días"
+   },
+   {
+    "icon": "Map",
+    "label": "Mejor temporada",
+    "value": "Octubre a marzo"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Presupuesto",
+    "value": "500 a 5.000 ₹ por día"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Pase de monumentos",
+    "value": "No hay entrada combinada, se compran por separado"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Reservar con antelación",
+    "value": "Espectáculo de luz y sonido del Fuerte Rojo"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Por qué Delhi merece estar en la lista de todo viajero serio",
+    "content": "Delhi es una de las pocas ciudades del mundo donde se puede estar frente a un **minarete islámico del siglo XIII** por la mañana, recorrer un **palacio mogol del siglo XVII** antes de comer, probar comida callejera en un **mercado de 400 años** por la tarde y asistir por la noche a un espectáculo en un centro de artes contemporáneas de primer nivel.\n\nLa densidad de capas históricas, experiencias culturales y tradiciones culinarias concentradas en esta sola ciudad es extraordinaria. Esta guía recoge lo mejor que hacer en Delhi en cinco categorías: **monumentos UNESCO**, **experiencias del Viejo Delhi**, **lugares culturales y espirituales**, **experiencias gastronómicas** y **excursiones de un día**, para que planifique su tiempo con precisión.\n\nPara una visión general de la ciudad antes de entrar en detalles, lea nuestra [guía de viaje de Delhi 2026](/india/delhi/delhi-travel-guide-2026). Para una ruta optimizada en un solo día, consulte el [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary)."
+   },
+   {
+    "title": "Los monumentos UNESCO: los tres grandes de Delhi",
+    "content": "Los tres sitios Patrimonio de la Humanidad de Delhi son la base innegociable de cualquier visita. Reserve al menos un día completo para los monumentos, idealmente dos.\n\n### 1. Fuerte Rojo (Lal Qila)\n\nEl símbolo supremo del poder imperial mogol en Delhi. Construido por Shah Jahan entre 1638 y 1648, el **[Fuerte Rojo](/india/delhi/red-fort)** es un palacio-fortaleza de arenisca roja cuyas murallas se extienden 2,41 kilómetros. En su interior: el Diwan-i-Aam, el Diwan-i-Khas (que albergó el Trono del Pavo Real), el Rang Mahal y la Moti Masjid. El **espectáculo nocturno de luz y sonido** es uno de los mejores de la India.\n\n**Abierto**: de martes a domingo, de 9:30 a 16:30. Cerrado los lunes. Entrada: 600 ₹ extranjeros / 35 ₹ indios.\n\n### 2. Tumba de Humayun\n\nEl monumento más importante de Delhi desde el punto de vista arquitectónico, y el modelo directo del [Taj Mahal](/india/agra/taj-mahal). La **[Tumba de Humayun](/india/delhi/humayuns-tomb)** se construyó en 1570 e introdujo todos los grandes principios de diseño (doble cúpula, jardín charbagh, arenisca roja y mármol blanco) que el Taj Mahal perfeccionaría después. Mucho menos concurrida que el Taj Mahal. Una obra maestra.\n\n**Abierta**: todos los días, del amanecer al atardecer. Entrada: 600 ₹ extranjeros / 40 ₹ indios.\n\n### 3. Qutub Minar\n\nCon 72,5 metros, el **[Qutub Minar](/india/delhi/qutub-minar)** es el minarete de ladrillo más alto del mundo. Construido en 1193, el complejo que lo rodea incluye la primera mezquita construida en la India y el legendario Pilar de Hierro de Delhi, una columna de hierro del siglo IV que no se ha oxidado en 1.600 años.\n\n**Abierto**: todos los días, del amanecer al atardecer. Entrada: 600 ₹ extranjeros / 40 ₹ indios. Metro: Qutub Minar (línea amarilla)."
+   },
+   {
+    "title": "Experiencias del Viejo Delhi: el alma de la ciudad",
+    "content": "El Viejo Delhi (Shahjahanabad) es posiblemente la experiencia urbana más intensa de la India. Estas son las actividades esenciales del Viejo Delhi.\n\n### El paseo por Chandni Chowk\n\nEl recorrido de 1,5 km por **Chandni Chowk**, desde la puerta Lahori del Fuerte Rojo hacia el oeste hasta la Jama Masjid, es la mayor experiencia callejera de Delhi. Descrita en su día como la calle más rica del mundo, hoy es un denso mercado de joyería de oro, medicina ayurvédica, comida callejera, electrónica, textiles y artículos de boda, todo apretado en callejones del siglo XVII cuyo trazado apenas ha cambiado desde que Shah Jahan los construyó.\n\n**Mejor momento**: de 10:00 a 12:00 entre semana. Evite los domingos (máxima afluencia). Tome un **ciclo-rickshaw** para la experiencia completa.\n\n### Jama Masjid\n\nLa mezquita más grande de la India, construida por Shah Jahan entre 1650 y 1656, acoge a 25.000 fieles a la vez. La vista desde lo alto del minarete sur, sobre los tejados del Viejo Delhi, es extraordinaria. **Entrada gratuita** para visitantes no musulmanes fuera de los horarios de oración. El código de vestimenta se aplica con rigor.\n\n### Paranthe Wali Gali, el callejón de los panes rellenos\n\nUn estrecho gali (callejón) de Chandni Chowk donde las mismas familias llevan generaciones preparando **paranthe** (panes planos rellenos). La variedad es extraordinaria: aloo (patata), paneer (queso fresco), khoya (leche condensada), pista (pistacho) y decenas más. Se comen con encurtido y yogur. Pida dos: son pequeños y extraordinarios.\n\n### Mercado de especias de Khari Baoli\n\n**El mayor mercado mayorista de especias de Asia**, en funcionamiento ininterrumpido desde la época mogol. El aire está cargado de cardamomo, cúrcuma, azafrán y chile. Los comerciantes siguen pesando con balanzas tradicionales de latón. Aunque no compre nada, recorrer Khari Baoli es una experiencia sensorial sin igual en Delhi.\n\n### Restaurante Karim's\n\nFundado en **1913** junto a la Jama Masjid por descendientes de los cocineros reales mogoles, **Karim's** es una institución de Delhi. El korma de cordero, el nihari y los seekh kebabs se preparan con recetas anteriores a la independencia de la India. Solo efectivo, siempre lleno y absolutamente imprescindible."
+   },
+   {
+    "title": "La Puerta de la India y el corazón ceremonial de Nueva Delhi",
+    "content": "### Puerta de la India\n\nLa **[Puerta de la India](/india/delhi/india-gate)**, el arco conmemorativo de 42 metros construido en 1931, es el monumento más visitado de Delhi. Gratuita, abierta las 24 horas y más espectacular de noche, cuando se ilumina con focos dorados. Los jardines que la rodean son el lugar de reunión favorito de la ciudad. Llegue al atardecer para pasar de la fotografía de la hora dorada al esplendor iluminado de la noche.\n\n### Pasear por el Kartavya Path\n\nLa avenida ceremonial que va de la Puerta de la India al Rashtrapati Bhavan (Palacio Presidencial) son 3 kilómetros de grandeza arbolada. Recorrer este eje, contemplando la simetría de la perspectiva central, los bloques Norte y Sur que la flanquean y la lejana cúpula blanca del Rashtrapati Bhavan, es una de las mejores experiencias gratuitas de Delhi.\n\n### Lodhi Garden\n\nUn **parque público de 36 hectáreas** con las tumbas del siglo XV de las dinastías Sayyid y Lodi, rodeadas de césped, árboles y la élite corredora de Delhi. La combinación de arquitectura medieval y vegetación exuberante hace del Lodhi Garden uno de los espacios más agradables de Delhi. Mejor a primera hora de la mañana o al atardecer. Entrada gratuita.\n\n### Museo Nacional\n\nEl museo más grande de la India, en Janpath (a 10 minutos a pie de la Puerta de la India), alberga una colección que abarca 5.000 años, desde la civilización del valle del Indo hasta la época mogol. La **galería harappense**, la **colección de miniaturas mogoles** y la **sección de joyería antigua** son sobresalientes. Suele recibir pocas visitas: una joya oculta en la ruta turística."
+   },
+   {
+    "title": "Delhi cultural y espiritual",
+    "content": "### Templo del Loto (Casa de Adoración Bahá'í)\n\nConstruido en 1986, el **Templo del Loto** es uno de los edificios más singulares del mundo desde el punto de vista arquitectónico: 27 pétalos de mármol independientes que forman una flor de loto perfecta. Abierto a personas de todas las religiones. En su interior no hay ídolos, ni rituales, ni sacerdotes: solo silencio y luz natural. La calma que reina dentro es un profundo contrapunto a la intensidad de Delhi. **Entrada gratuita**. Metro: Kalkaji Mandir (línea violeta).\n\n### Templo de Akshardham\n\nTerminado en 2005, **Akshardham** es uno de los complejos de templos hindúes más grandes del mundo. El monumento principal está tallado en 6.000 toneladas de arenisca rosa de Rajastán con 20.000 figuras esculpidas a mano. El **espectáculo de fuentes musicales** de las 19:30 se considera el mejor de su tipo en Asia. **Entrada gratuita** al complejo; pequeño suplemento para los espectáculos especiales. Prohibidos los dispositivos electrónicos. Metro: Akshardham (línea azul).\n\n### Gurudwara Bangla Sahib\n\nUno de los templos sijs más importantes de Delhi, el **Gurudwara Bangla Sahib** gestiona la mayor cocina comunitaria gratuita (**langar**) del mundo: sirve hasta 100.000 comidas gratuitas al día a cualquiera que entre, sin distinción de religión. La cúpula dorada reflejada en el estanque sagrado (**sarovar**) es preciosa de día y de noche. **Entrada gratuita**. Se exige vestimenta discreta. Metro: Connaught Place (línea amarilla).\n\n### Raj Ghat\n\nEl sereno memorial a orillas del río que marca el **lugar de cremación de Mahatma Gandhi** junto al Yamuna. Una sencilla plataforma de mármol negro señala el punto exacto. Los jardines que lo rodean son tranquilos y están magníficamente cuidados. **Entrada gratuita**. Metro: Jama Masjid o Indraprastha."
+   },
+   {
+    "title": "Experiencias gastronómicas en Delhi: comer como un local",
+    "content": "La escena gastronómica de Delhi es una de las más ricas del mundo. Estas son las experiencias culinarias esenciales.\n\n### La comida callejera de Chandni Chowk\n\n**Chandni Chowk** es un museo vivo de la historia gastronómica de Delhi. Lo esencial:\n- **Jalebi en Old Famous Jalebi Wala** (75 años de espirales calientes empapadas en almíbar)\n- **Chole bhature en Sita Ram Diwan Chand** (la versión definitiva de este clásico del norte de la India)\n- **Daulat ki chaat**, un postre solo de invierno de nata montada y espuma de azafrán que se deshace en la lengua\n- **Paranthe** en Paranthe Wali Gali\n\n### Butter chicken, el original de Delhi\n\nEl **butter chicken** se inventó en Delhi en los años 50 en el **restaurante Moti Mahal** de Daryaganj, un local que sigue abierto hoy. La receta original usa una salsa de tomate y nata que nació por accidente cuando el cocinero mezcló restos de pollo tandoori con una salsa. Hoy es uno de los platos más consumidos del mundo.\n\n### Restaurantes de Connaught Place\n\n**Connaught Place** (CP) es el distrito gastronómico más cosmopolita de Delhi. Destacan: **United Coffee House** (desde 1954, ambiente de época colonial), la pastelería **Wenger's** (desde 1926, los mejores pasteles de Delhi), **Zaffran** (cocina mogol refinada) y **Ministry of Beer** para cerveza artesanal.\n\n### Tours gastronómicos por Delhi\n\nLa mejor forma de conocer la comida de Delhi es con un guía local que conoce los mejores puestos, traduce los menús y sabe moverse por los callejones de Chandni Chowk. Nuestras [visitas guiadas por Delhi](/india/delhi) incluyen rutas gastronómicas a pie por el Viejo Delhi dirigidas por expertos locales certificados."
+   },
+   {
+    "title": "Excursiones desde Delhi: el Triángulo de Oro",
+    "content": "La mayor ventaja de Delhi como base es su cercanía a los destinos más famosos de la India.\n\n### Agra y el Taj Mahal: 100 minutos en tren\n\nEl [Taj Mahal](/india/agra/taj-mahal) de Agra es el monumento más icónico del mundo y está **a solo 100 minutos de Delhi** en el tren de alta velocidad Gatimaan Express (sale de la estación Hazrat Nizamuddin a las 8:10 y llega a las 9:50). Pase la mañana en el Taj Mahal, la tarde en el Fuerte de Agra y vuelva a Delhi por la noche. Es la excursión de un día más eficiente de la India.\n\n### Jaipur: 4 horas en tren\n\nLa «ciudad rosa» de **Jaipur**, en Rajastán, completa el famoso circuito del **Triángulo de Oro**. Tome el Shatabdi Express a primera hora desde la estación de Nueva Delhi (5:50, llegada 10:35), visite el Fuerte Amber y el Hawa Mahal y regrese en el tren de la tarde. O quédese 2 noches para una experiencia más completa.\n\n### Fuerte de Agra, combinado con el Taj Mahal\n\nEn cualquier excursión a Agra, incluya el **[Fuerte de Agra](/india/agra/agra-fort)**, la fortaleza mogol de arenisca roja donde el emperador Shah Jahan fue encarcelado por su hijo Aurangzeb y pasó sus últimos años contemplando el Taj Mahal al otro lado del Yamuna. Aporta el contexto histórico esencial para entender el [Taj Mahal](/india/agra/taj-mahal)."
+   },
+   {
+    "title": "Reserve una experiencia en Delhi con un experto local",
+    "content": "Las mejores experiencias de Delhi, desde los callejones medievales de Chandni Chowk hasta las salas de mármol del Fuerte Rojo, son muchísimo más gratificantes con un guía local con licencia que conoce la historia, los rincones ocultos y los mejores puestos de comida. Nuestros guías certificados de Delhi ofrecen visitas privadas y en grupo para todos los intereses y presupuestos."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Qué es lo más importante que hacer en Delhi?",
+    "a": "Los imprescindibles absolutos: (1) el **[Fuerte Rojo](/india/delhi/red-fort)**, el palacio mogol supremo. (2) La **[Tumba de Humayun](/india/delhi/humayuns-tomb)**, el modelo del Taj Mahal. (3) El **[Qutub Minar](/india/delhi/qutub-minar)**, el minarete de ladrillo más alto del mundo. (4) La **[Puerta de la India](/india/delhi/india-gate)**, sobre todo de noche. (5) El paseo y la comida callejera de **Chandni Chowk**. (6) La **Jama Masjid**. (7) Una excursión al **[Taj Mahal](/india/agra/taj-mahal)** en Agra."
+   },
+   {
+    "q": "¿Cuántos días necesito para ver Delhi?",
+    "a": "**3 días como mínimo** para cubrir los tres sitios UNESCO de Delhi, el Viejo Delhi, la Puerta de la India y la mejor comida. **5 días** permiten añadir el Lodhi Garden, Akshardham, el Museo Nacional, un tour gastronómico por Chandni Chowk y una excursión a Agra para ver el Taj Mahal. Con 7 días tiene el Triángulo de Oro completo: Delhi + Agra + Jaipur."
+   },
+   {
+    "q": "¿Cuál es la mejor actividad gratuita en Delhi?",
+    "a": "La **Puerta de la India**: gratuita, abierta 24 horas y más espectacular de noche. También gratuitos: la Jama Masjid, Raj Ghat, el Lodhi Garden, el Gurudwara Bangla Sahib (con comida gratis para todos), el Templo del Loto y el paseo por el Kartavya Path."
+   },
+   {
+    "q": "¿Qué debo comer en Delhi?",
+    "a": "La comida esencial de Delhi: **butter chicken** (inventado aquí, en Moti Mahal), **chole bhature** (garbanzos especiados con pan frito), **paranthe** en Paranthe Wali Gali en Chandni Chowk, **nihari** en Karim's junto a la Jama Masjid, **jalebi** en Old Famous Jalebi Wala y **daulat ki chaat** (solo en invierno) en el Viejo Delhi."
+   },
+   {
+    "q": "¿Merece la pena una excursión de un día al Taj Mahal desde Delhi?",
+    "a": "Sin duda. El Taj Mahal está **a 100 minutos de Delhi en tren de alta velocidad** (Gatimaan Express). Una excursión a Agra, con el Taj Mahal y el Fuerte de Agra, es una de las mejores experiencias de un día en Asia. Reserve el tren con antelación (web de IRCTC) porque los asientos se agotan, sobre todo los fines de semana."
+   },
+   {
+    "q": "¿Cuál es la mejor zona para explorar en el Viejo Delhi?",
+    "a": "Empiece en el **[Fuerte Rojo](/india/delhi/red-fort)** (estación de metro Lal Qila) y camine hacia el oeste por **Chandni Chowk** hasta la **Jama Masjid**. Desde allí, explore **Paranthe Wali Gali** para comer y **Khari Baoli** para el mercado de especias. Un paseo en ciclo-rickshaw por los callejones (galis) es la mejor forma de vivir el auténtico Viejo Delhi."
+   },
+   {
+    "q": "¿Qué es la Delhi Metro Tourist Card?",
+    "a": "Una **tarjeta turística de 1 día del metro de Delhi** cuesta 200 ₹ y permite viajes ilimitados en metro. La de 3 días cuesta 500 ₹. Cubre todas las líneas excepto el Airport Express. Se compra en cualquier taquilla del metro. Esencial para moverse con eficacia entre los monumentos dispersos de Delhi."
+   },
+   {
+    "q": "¿Abren los monumentos de Delhi los lunes?",
+    "a": "**El Fuerte Rojo cierra los lunes**. Sin embargo, el Qutub Minar, la Tumba de Humayun, la Puerta de la India (siempre abierta), la Jama Masjid, el Templo del Loto y Akshardham abren todos los lunes. Planifique la visita al Fuerte Rojo de martes a domingo."
+   },
+   {
+    "q": "¿Cuál es la mejor época para visitar Delhi?",
+    "a": "**De octubre a marzo** es la mejor temporada: temperaturas frescas (10 a 25 °C), cielos despejados y condiciones excelentes para caminar y hacer turismo. La temporada alta va de noviembre a febrero. Atención: de octubre a diciembre puede haber contaminación atmosférica severa (AQI 400+) por la quema de rastrojos en los estados vecinos; lleve mascarillas N95 si viaja en esas fechas."
+   },
+   {
+    "q": "¿Es Delhi segura para los turistas?",
+    "a": "Delhi es segura para los turistas con las precauciones básicas de cualquier gran ciudad. Use Uber u Ola en lugar de taxis sin identificar. Cuidado con la estafa de las «falsas agencias de viajes» cerca de Connaught Place. Guarde bien sus objetos de valor en los mercados abarrotados. El metro es seguro a cualquier hora. Consulte nuestra [guía de viaje de Delhi](/india/delhi/delhi-travel-guide-2026) para una sección completa sobre seguridad."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {

@@ -4333,6 +4333,118 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "Das India Gate ist der natürliche Anker eines Neu-Delhi-Tages. Von dort können Sie den Kartavya Path zum Rashtrapati Bhavan gehen, das [Humayun-Mausoleum](/india/delhi/humayuns-tomb) (15 Minuten mit Uber) und den Lodhi Garden (10 Minuten) besuchen und zum Abendessen nach Connaught Place zurückkehren. Siehe unser [Ein-Tages-Programm für Delhi](/india/delhi/delhi-1-day-itinerary) für die optimierte Route."
    }
   ]
+ },
+ "things-to-do-in-delhi": {
+  "title": "Sehenswürdigkeiten in Delhi 2026: der ultimative Guide",
+  "description": "Was tun in Delhi 2026: 3 UNESCO-Stätten, Streetfood in Chandni Chowk, Mogulpaläste, India Gate und Tagesausflüge zum Taj Mahal.",
+  "fastFacts": [
+   {
+    "icon": "Star",
+    "label": "UNESCO-Stätten",
+    "value": "3 (Rotes Fort, Qutub Minar, Humayun-Mausoleum)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Empfohlene Dauer",
+    "value": "3 bis 5 Tage"
+   },
+   {
+    "icon": "Map",
+    "label": "Beste Reisezeit",
+    "value": "Oktober bis März"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Budget",
+    "value": "500 bis 5.000 ₹ pro Tag"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Kombiticket",
+    "value": "Keins, Monumente einzeln zahlen"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Vorab buchen",
+    "value": "Ton- und Lichtshow im Roten Fort"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Warum Delhi auf die Liste jedes ernsthaften Reisenden gehört",
+    "content": "Delhi ist eine der wenigen Städte der Welt, in der man morgens vor einem **islamischen Minarett aus dem 13. Jahrhundert** steht, vor dem Mittagessen durch einen **Mogulpalast aus dem 17. Jahrhundert** spaziert, nachmittags Streetfood auf einem **400 Jahre alten Markt** isst und abends eine Vorstellung in einem erstklassigen Zentrum für zeitgenössische Kunst besucht.\n\nDie schiere Dichte an historischen Schichten, kulturellen Erlebnissen und kulinarischen Traditionen in dieser einen Stadt ist außergewöhnlich. Dieser Guide stellt die besten Aktivitäten in Delhi in fünf Kategorien vor: **UNESCO-Monumente**, **Erlebnisse in Alt-Delhi**, **kulturelle und spirituelle Orte**, **kulinarische Erlebnisse** und **Tagesausflüge**, damit Sie Ihre Zeit präzise planen können.\n\nFür einen umfassenden Überblick über die Stadt lesen Sie zuerst unseren [Delhi Reiseführer 2026](/india/delhi/delhi-travel-guide-2026). Für eine optimierte Route an einem Tag siehe das [Ein-Tages-Programm für Delhi](/india/delhi/delhi-1-day-itinerary)."
+   },
+   {
+    "title": "Die UNESCO-Monumente: Delhis große Drei",
+    "content": "Delhis drei UNESCO-Welterbestätten sind das unverzichtbare Fundament jedes Besuchs. Planen Sie mindestens einen vollen Tag für Monumente ein, besser zwei.\n\n### 1. Rotes Fort (Lal Qila)\n\nDas höchste Symbol der Mogul-Kaisermacht in Delhi. Das von Shah Jahan zwischen 1638 und 1648 erbaute **[Rote Fort](/india/delhi/red-fort)** ist eine Palastfestung aus rotem Sandstein, deren Mauern sich über 2,41 Kilometer erstrecken. Im Inneren: Diwan-i-Aam, Diwan-i-Khas (einst Standort des Pfauenthrons), Rang Mahal und Moti Masjid. Die **abendliche Ton- und Lichtshow** gehört zu den besten Indiens.\n\n**Geöffnet**: Dienstag bis Sonntag, 9:30 bis 16:30 Uhr. Montags geschlossen. Eintritt: 600 ₹ Ausländer / 35 ₹ Inder.\n\n### 2. Humayun-Mausoleum\n\nDas architektonisch bedeutendste Monument Delhis und der direkte Bauplan für das [Taj Mahal](/india/agra/taj-mahal). Das **[Humayun-Mausoleum](/india/delhi/humayuns-tomb)** wurde 1570 erbaut und führte jedes wichtige Gestaltungsprinzip ein (Doppelkuppel, Charbagh-Garten, roter Sandstein und weißer Marmor), das das Taj Mahal später vollenden sollte. Deutlich weniger überlaufen als das Taj Mahal. Ein Meisterwerk.\n\n**Geöffnet**: täglich, Sonnenaufgang bis Sonnenuntergang. Eintritt: 600 ₹ Ausländer / 40 ₹ Inder.\n\n### 3. Qutub Minar\n\nMit 72,5 Metern ist der **[Qutub Minar](/india/delhi/qutub-minar)** das höchste Backsteinminarett der Welt. Der 1193 erbaute Komplex umfasst die erste jemals in Indien gebaute Moschee und die legendäre Eiserne Säule von Delhi, eine Eisensäule aus dem 4. Jahrhundert, die in 1.600 Jahren nicht gerostet ist.\n\n**Geöffnet**: täglich, Sonnenaufgang bis Sonnenuntergang. Eintritt: 600 ₹ Ausländer / 40 ₹ Inder. Metro: Qutub Minar (Yellow Line)."
+   },
+   {
+    "title": "Erlebnisse in Alt-Delhi: die Seele der Stadt",
+    "content": "Alt-Delhi (Shahjahanabad) ist wohl das intensivste Stadterlebnis Indiens. Das sind die wesentlichen Aktivitäten in Alt-Delhi.\n\n### Der Spaziergang durch Chandni Chowk\n\nDer 1,5 km lange Weg entlang **Chandni Chowk**, vom Lahori-Tor des Roten Forts westwärts bis zur Jama Masjid, ist das größte Straßenerlebnis Delhis. Einst als reichste Straße der Welt beschrieben, ist sie heute ein dichter Markt für Goldschmuck, ayurvedische Medizin, Streetfood, Elektronik, Textilien und Hochzeitsbedarf, alles gedrängt in Gassen aus dem 17. Jahrhundert, deren Verlauf sich seit Shah Jahan kaum verändert hat.\n\n**Beste Zeit**: 10 bis 12 Uhr an einem Wochentag. Sonntage meiden (Spitzenandrang). Nehmen Sie eine **Fahrradrikscha** für das volle Erlebnis.\n\n### Jama Masjid\n\nIndiens größte Moschee, von Shah Jahan zwischen 1650 und 1656 erbaut, fasst 25.000 Gläubige gleichzeitig. Der Blick von der Spitze des Südminaretts über die Dächer Alt-Delhis ist außergewöhnlich. **Freier Eintritt** für nichtmuslimische Besucher außerhalb der Gebetszeiten. Kleiderordnung wird streng durchgesetzt.\n\n### Paranthe Wali Gali: die Gasse der gefüllten Fladenbrote\n\nEine enge Gali (Gasse) in Chandni Chowk, in der dieselben Familien seit Generationen **Paranthe** (gefüllte Fladenbrote) backen. Die Vielfalt ist außergewöhnlich: Aloo (Kartoffel), Paneer (Frischkäse), Khoya (Kondensmilch), Pista (Pistazie) und Dutzende mehr. Mit Pickle und Joghurt essen. Bestellen Sie zwei, sie sind klein und außergewöhnlich.\n\n### Gewürzmarkt Khari Baoli\n\n**Asiens größter Gewürzgroßmarkt**, seit der Mogulzeit ununterbrochen in Betrieb. Die Luft ist schwer von Kardamom, Kurkuma, Safran und Chili. Händler wiegen ihre Ware noch mit traditionellen Messingwaagen. Selbst wer nichts kauft: Ein Gang durch Khari Baoli ist ein Sinneserlebnis wie kein anderes in Delhi.\n\n### Restaurant Karim's\n\n**1913** nahe der Jama Masjid von Nachfahren der königlichen Mogulköche gegründet, ist **Karim's** eine Institution in Delhi. Lammkorma, Nihari und Seekh Kebabs werden nach Rezepten zubereitet, die älter sind als die indische Unabhängigkeit. Nur Barzahlung, ständig voll und absolut unverzichtbar."
+   },
+   {
+    "title": "India Gate und das zeremonielle Herz Neu-Delhis",
+    "content": "### India Gate\n\nDas **[India Gate](/india/delhi/india-gate)**, der 42 Meter hohe Gedenkbogen von 1931, ist das meistbesuchte Wahrzeichen Delhis. Kostenlos, rund um die Uhr geöffnet und am spektakulärsten nachts im goldenen Flutlicht. Die umliegenden Gärten sind Delhis beliebtester Treffpunkt. Kommen Sie zum Sonnenuntergang, um den Übergang von der goldenen Fotostunde zur beleuchteten Abendpracht zu erleben.\n\n### Spaziergang auf dem Kartavya Path\n\nDer Zeremonialboulevard vom India Gate zum Rashtrapati Bhavan (Präsidentenpalast) bietet 3 Kilometer baumgesäumte Größe. Diese Achse abzugehen und die Symmetrie der zentralen Sichtachse, die flankierenden North und South Blocks und die ferne weiße Kuppel des Rashtrapati Bhavan zu sehen, gehört zu den schönsten kostenlosen Erlebnissen Delhis.\n\n### Lodhi Garden\n\nEin **36 Hektar großer öffentlicher Park** mit den Gräbern der Sayyid- und Lodi-Dynastien aus dem 15. Jahrhundert, umgeben von Rasenflächen, Bäumen und Delhis Jogging-Elite. Die Verbindung von mittelalterlicher Architektur und üppigem Grün macht den Lodhi Garden zu einem der angenehmsten Orte der Stadt. Am besten früh morgens oder abends. Freier Eintritt.\n\n### Nationalmuseum\n\nIndiens größtes Museum am Janpath (10 Gehminuten vom India Gate) beherbergt eine Sammlung über 5.000 Jahre, von der Indus-Kultur bis zur Mogulzeit. Die **Harappa-Galerie**, die **Sammlung von Mogul-Miniaturen** und die **Abteilung für antiken Schmuck** sind herausragend. Oft wenig besucht, ein verstecktes Juwel auf der Touristenroute."
+   },
+   {
+    "title": "Kulturelles und spirituelles Delhi",
+    "content": "### Lotus-Tempel (Bahai-Haus der Andacht)\n\nDer 1986 erbaute **Lotus-Tempel** ist eines der architektonisch markantesten Gebäude der Welt: 27 freistehende Marmorblütenblätter formen eine perfekte Lotusblüte. Offen für Menschen aller Religionen. Im Inneren: keine Götterbilder, keine Rituale, keine Priester, nur Stille und natürliches Licht. Die Ruhe darin ist ein tiefer Gegenpol zur Intensität Delhis. **Freier Eintritt**. Metro: Kalkaji Mandir (Violet Line).\n\n### Akshardham-Tempel\n\nDer 2005 vollendete **Akshardham** ist einer der größten Hindu-Tempelkomplexe der Welt. Das Hauptmonument ist aus 6.000 Tonnen rosa Sandstein aus Rajasthan mit 20.000 handgeschnitzten Figuren gehauen. Die **musikalische Wasserspielshow** um 19:30 Uhr gilt als die schönste ihrer Art in Asien. **Freier Eintritt** zum Komplex; kleine Gebühr für Sondershows. Elektronische Geräte verboten. Metro: Akshardham (Blue Line).\n\n### Gurudwara Bangla Sahib\n\nEiner der wichtigsten Sikh-Tempel Delhis: Der **Gurudwara Bangla Sahib** betreibt die größte kostenlose Gemeinschaftsküche (**Langar**) der Welt und serviert täglich bis zu 100.000 kostenlose Mahlzeiten an jeden, der eintritt, unabhängig von der Religion. Die goldene Kuppel, die sich im heiligen Becken (**Sarovar**) spiegelt, ist bei Tag und Nacht wunderschön. **Freier Eintritt**. Dezente Kleidung erforderlich. Metro: Connaught Place (Yellow Line).\n\n### Raj Ghat\n\nDie ruhige Gedenkstätte am Fluss markiert den **Ort der Einäscherung Mahatma Gandhis** am Ufer der Yamuna. Eine schlichte Plattform aus schwarzem Marmor kennzeichnet die genaue Stelle. Die umliegenden Gärten sind still und wunderschön gepflegt. **Freier Eintritt**. Metro: Jama Masjid oder Indraprastha."
+   },
+   {
+    "title": "Kulinarische Erlebnisse in Delhi: essen wie ein Einheimischer",
+    "content": "Delhis Esskultur gehört zu den reichsten der Welt. Das sind die wesentlichen kulinarischen Erlebnisse.\n\n### Das Streetfood von Chandni Chowk\n\n**Chandni Chowk** ist ein lebendiges Museum der Esskultur Delhis. Die Klassiker:\n- **Jalebi bei Old Famous Jalebi Wala** (seit 75 Jahren heiße, sirupgetränkte Spiralen)\n- **Chole Bhature bei Sita Ram Diwan Chand** (die maßgebliche Version dieses nordindischen Klassikers)\n- **Daulat ki Chaat**, ein nur im Winter erhältliches Dessert aus Schlagsahne und Safranschaum, das auf der Zunge zergeht\n- **Paranthe** in der Paranthe Wali Gali\n\n### Butter Chicken: das Original aus Delhi\n\n**Butter Chicken** wurde in den 1950er Jahren in Delhi im **Restaurant Moti Mahal** in Daryaganj erfunden, das bis heute besteht. Das Originalrezept beruht auf einer Tomaten-Sahne-Sauce, die zufällig entstand, als der Koch Reste von Tandoori-Huhn mit einer Sauce mischte. Heute ist es eines der meistgegessenen Gerichte der Welt.\n\n### Restaurants am Connaught Place\n\n**Connaught Place** (CP) ist Delhis kosmopolitischstes Restaurantviertel. Höhepunkte: **United Coffee House** (seit 1954, Kolonialatmosphäre), Bäckerei **Wenger's** (seit 1926, das beste Gebäck Delhis), **Zaffran** (raffinierte Mogulküche) und **Ministry of Beer** für Craft Beer.\n\n### Kulinarische Touren in Delhi\n\nDelhis Küche erlebt man am besten mit einem lokalen Guide, der die besten Stände kennt, Speisekarten übersetzt und sich in den Gassen von Chandni Chowk zurechtfindet. Unsere [geführten Touren in Delhi](/india/delhi) umfassen kulinarische Spaziergänge durch Alt-Delhi mit zertifizierten lokalen Experten."
+   },
+   {
+    "title": "Tagesausflüge von Delhi: das Goldene Dreieck",
+    "content": "Delhis größter Vorteil als Ausgangspunkt ist die Nähe zu Indiens berühmtesten Zielen.\n\n### Agra und das Taj Mahal: 100 Minuten mit dem Zug\n\nDas [Taj Mahal](/india/agra/taj-mahal) in Agra ist das ikonischste Monument der Welt und liegt mit dem Hochgeschwindigkeitszug Gatimaan Express **nur 100 Minuten von Delhi** entfernt (Abfahrt Bahnhof Hazrat Nizamuddin 8:10 Uhr, Ankunft 9:50 Uhr). Vormittag am Taj Mahal, Nachmittag im Agra Fort, abends zurück in Delhi. Das ist der effizienteste Tagesausflug Indiens.\n\n### Jaipur: 4 Stunden mit dem Zug\n\nDie „rosa Stadt“ **Jaipur** in Rajasthan vervollständigt das berühmte **Goldene Dreieck**. Nehmen Sie früh morgens den Shatabdi Express ab New Delhi Station (5:50 Uhr, Ankunft 10:35 Uhr), besuchen Sie Amber Fort und Hawa Mahal und fahren Sie mit dem Abendzug zurück. Oder bleiben Sie 2 Nächte für ein volleres Erlebnis.\n\n### Agra Fort: kombiniert mit dem Taj Mahal\n\nBei jedem Tagesausflug nach Agra gehört das **[Agra Fort](/india/agra/agra-fort)** dazu, die Mogulfestung aus rotem Sandstein, in der Kaiser Shah Jahan von seinem Sohn Aurangzeb gefangen gehalten wurde und seine letzten Jahre mit Blick über die Yamuna auf das Taj Mahal verbrachte. Es liefert den wesentlichen historischen Kontext zum Verständnis des [Taj Mahal](/india/agra/taj-mahal)."
+   },
+   {
+    "title": "Buchen Sie ein Delhi-Erlebnis mit einem lokalen Experten",
+    "content": "Delhis größte Erlebnisse, von den mittelalterlichen Gassen von Chandni Chowk bis zu den Marmorhallen des Roten Forts, sind mit einem lizenzierten lokalen Guide, der die Geschichte, die versteckten Winkel und die besten Essensstände kennt, ungleich lohnender. Unsere zertifizierten Delhi-Guides bieten private und Gruppentouren für alle Interessen und Budgets."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Was sind die wichtigsten Sehenswürdigkeiten in Delhi?",
+    "a": "Die absoluten Pflichtpunkte: (1) das **[Rote Fort](/india/delhi/red-fort)**, der höchste Mogulpalast. (2) Das **[Humayun-Mausoleum](/india/delhi/humayuns-tomb)**, der Bauplan des Taj Mahal. (3) Der **[Qutub Minar](/india/delhi/qutub-minar)**, das höchste Backsteinminarett der Welt. (4) Das **[India Gate](/india/delhi/india-gate)**, besonders nachts. (5) Spaziergang und Streetfood in **Chandni Chowk**. (6) Die **Jama Masjid**. (7) Ein Tagesausflug zum **[Taj Mahal](/india/agra/taj-mahal)** in Agra."
+   },
+   {
+    "q": "Wie viele Tage braucht man für Delhi?",
+    "a": "**Mindestens 3 Tage** für Delhis drei UNESCO-Stätten, Alt-Delhi, das India Gate und die besten kulinarischen Adressen. **5 Tage** erlauben zusätzlich Lodhi Garden, Akshardham, das Nationalmuseum, eine kulinarische Tour durch Chandni Chowk und einen Tagesausflug nach Agra zum Taj Mahal. 7 Tage ergeben das komplette Goldene Dreieck: Delhi + Agra + Jaipur."
+   },
+   {
+    "q": "Was ist das beste kostenlose Erlebnis in Delhi?",
+    "a": "Das **India Gate**: kostenlos, rund um die Uhr geöffnet und nachts am spektakulärsten. Ebenfalls kostenlos: Jama Masjid, Raj Ghat, Lodhi Garden, Gurudwara Bangla Sahib (mit kostenlosem Essen für alle), Lotus-Tempel und der Spaziergang auf dem Kartavya Path."
+   },
+   {
+    "q": "Was sollte man in Delhi essen?",
+    "a": "Die wesentlichen Gerichte Delhis: **Butter Chicken** (hier im Moti Mahal erfunden), **Chole Bhature** (gewürzte Kichererbsen mit frittiertem Brot), **Paranthe** in der Paranthe Wali Gali in Chandni Chowk, **Nihari** bei Karim's nahe der Jama Masjid, **Jalebi** bei Old Famous Jalebi Wala und **Daulat ki Chaat** (nur im Winter) in Alt-Delhi."
+   },
+   {
+    "q": "Lohnt sich ein Tagesausflug von Delhi zum Taj Mahal?",
+    "a": "Unbedingt. Das Taj Mahal liegt **100 Minuten mit dem Hochgeschwindigkeitszug von Delhi** entfernt (Gatimaan Express). Ein Tagesausflug nach Agra mit Taj Mahal und Agra Fort gehört zu den besten Eintageserlebnissen Asiens. Buchen Sie den Zug vorab (IRCTC-Website), denn die Plätze sind schnell ausverkauft, besonders am Wochenende."
+   },
+   {
+    "q": "Welches Gebiet in Alt-Delhi sollte man erkunden?",
+    "a": "Beginnen Sie am **[Roten Fort](/india/delhi/red-fort)** (Metrostation Lal Qila), dann westwärts entlang **Chandni Chowk** bis zur **Jama Masjid**. Von dort erkunden Sie **Paranthe Wali Gali** zum Essen und **Khari Baoli** für den Gewürzmarkt. Eine Fahrradrikschafahrt durch die Seitengassen (Galis) ist der beste Weg, das echte Alt-Delhi zu erleben."
+   },
+   {
+    "q": "Was ist die Delhi Metro Tourist Card?",
+    "a": "Eine **1-Tages-Touristenkarte der Delhi Metro** kostet 200 ₹ und erlaubt unbegrenzte Metrofahrten. Die 3-Tages-Karte kostet 500 ₹. Sie gilt auf allen Linien außer dem Airport Express. Erhältlich an jedem Metroschalter. Unverzichtbar, um effizient zwischen Delhis weit verstreuten Monumenten zu pendeln."
+   },
+   {
+    "q": "Sind Delhis Monumente montags geöffnet?",
+    "a": "**Das Rote Fort ist montags geschlossen**. Qutub Minar, Humayun-Mausoleum, India Gate (immer offen), Jama Masjid, Lotus-Tempel und Akshardham sind dagegen alle montags geöffnet. Planen Sie den Besuch des Roten Forts von Dienstag bis Sonntag."
+   },
+   {
+    "q": "Wann ist die beste Reisezeit für Delhi?",
+    "a": "**Oktober bis März** ist die beste Saison: kühle Temperaturen (10 bis 25 °C), klarer Himmel und ausgezeichnete Bedingungen für Spaziergänge und Besichtigungen. Hauptsaison ist November bis Februar. Hinweis: Von Oktober bis Dezember kann die Luftverschmutzung durch das Abbrennen von Feldern in den Nachbarstaaten sehr stark sein (AQI 400+); nehmen Sie dann N95-Masken mit."
+   },
+   {
+    "q": "Ist Delhi sicher für Touristen?",
+    "a": "Delhi ist mit der üblichen Vorsicht in Großstädten sicher für Touristen. Nutzen Sie Uber oder Ola statt nicht gekennzeichneter Taxis. Achten Sie auf den Betrug mit „falschen Reisebüros“ nahe Connaught Place. Wertsachen auf vollen Märkten sichern. Die Metro ist zu jeder Zeit sicher. Siehe unseren [Delhi Reiseführer](/india/delhi/delhi-travel-guide-2026) für einen kompletten Sicherheitsabschnitt."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
