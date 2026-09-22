@@ -2193,6 +2193,272 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "**Premium :** Peshawri à l'ITC Mughal (cuisine moghole, 2 000 à 3 000 ₹ par personne). **Milieu de gamme :** Pinch of Spice (nord-indien, 400 à 800 ₹). **Économique :** les dhabas près de Sadar Bazaar (150 à 300 ₹). Pour le petha, achetez chez Panchhi Petha sur MG Road, l'original et le meilleur."
    }
   ]
+ },
+ "taj-mahal-ticket-price-2026": {
+  "title": "Prix des billets du Taj Mahal 2026 (tarifs officiels à jour)",
+  "seoTitle": "Prix des billets du Taj Mahal 2026 : le détail complet",
+  "description": "Prix des billets du Taj Mahal 2026 par nationalité, supplément mausolée, visite nocturne et où réserver sans majoration.",
+  "fastFacts": [
+   {
+    "icon": "Wallet",
+    "label": "Tarif total",
+    "value": "1 300 ₹ (étrangers)"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Mausolée",
+    "value": "Supplément 200 ₹"
+   },
+   {
+    "icon": "CheckCircle2",
+    "label": "Paiement",
+    "value": "UPI et carte uniquement"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Prix des billets du Taj Mahal 2026 (réponse rapide)",
+    "content": "**Dernière mise à jour : février 2026 (vérifié auprès de l'ASI)**\n\n*   **Touristes étrangers :** 1 300 ₹ (1 100 ₹ d'entrée + 200 ₹ mausolée)\n*   **Citoyens indiens :** 250 ₹ (50 ₹ + 200 ₹ mausolée)\n*   **SAARC/BIMSTEC :** 740 ₹ (540 + 200)\n*   **Enfants de moins de 15 ans :** gratuit (inscription obligatoire)\n*   **Paiement :** en ligne uniquement (pas d'espèces)"
+   },
+   {
+    "title": "Voulez-vous que nous réservions vos billets du Taj Mahal ?",
+    "content": "Évitez les problèmes de paiement, les cartes étrangères refusées et les créneaux complets. Notre équipe locale peut réserver vos billets à l'avance."
+   },
+   {
+    "title": "Quel est le prix d'entrée du Taj Mahal en 2026 ?",
+    "content": "Le prix dépend de votre nationalité et des zones que vous souhaitez visiter. Le tarif officiel pour les touristes étrangers est de 1 300 ₹, les citoyens indiens paient 250 ₹ pour l'expérience complète avec le mausolée. Avant votre visite, [consultez notre guide des horaires du Taj Mahal](/india/agra/taj-mahal-opening-time) et [vérifiez si le Taj Mahal est fermé le vendredi](/india/agra/is-taj-mahal-closed-on-friday). Pour une visite sans souci, vous pouvez aussi [parcourir les visites privées guidées du Taj Mahal](/india/agra) proposées par des experts locaux."
+   },
+   {
+    "title": "Grille tarifaire officielle 2026",
+    "content": "**En 2026, le prix officiel est de 1 300 ₹ pour les touristes étrangers et 250 ₹ pour les citoyens indiens, supplément mausolée obligatoire inclus.**\n\nL'Archaeological Survey of India (ASI) a simplifié la tarification pour la saison 2026 afin de gérer l'afflux de visiteurs et de financer la conservation du marbre blanc. Les billets sont strictement répartis par nationalité et par âge. Si vous prévoyez un [itinéraire d'une journée](/india/agra/1-day-agra-itinerary), réservez vos créneaux au moins 48 heures à l'avance.\n\n**Touristes étrangers (hors SAARC) :**\n- 1 100 ₹ (entrée) + 200 ₹ (supplément mausolée) = **1 300 ₹ au total**\n- Le billet « High-Value » donne accès à une file prioritaire séparée pour l'entrée et le contrôle de sécurité, essentielle aux heures de pointe.\n\n**Citoyens SAARC et BIMSTEC :**\n- 540 ₹ (entrée) + 200 ₹ (mausolée) = **740 ₹ au total**\n- Concerne les citoyens d'Afghanistan, du Bangladesh, du Bhoutan, des Maldives, du Népal, du Pakistan, du Sri Lanka, de Thaïlande et du Myanmar. Passeport national valide exigé.\n\n**Citoyens indiens :**\n- 50 ₹ (entrée) + 200 ₹ (mausolée) = **250 ₹ au total**\n\n**Enfants (toutes nationalités) :**\n- Les moins de 15 ans entrent **gratuitement**. Les parents doivent toutefois les inscrire sur le portail en ligne pour obtenir un QR code à valeur nulle, vérifié à la porte."
+   },
+   {
+    "title": "Le supplément mausolée (200 ₹) expliqué",
+    "content": "L'un des points de confusion les plus fréquents est le système du « double billet ». Le billet de base permet de visiter les jardins, la mosquée et les bâtiments périphériques en grès rouge. Mais pour monter sur la plate-forme de marbre et entrer dans le sanctuaire avec les cénotaphes de Shah Jahan et Mumtaz Mahal, il faut payer un supplément de 200 ₹.\n\n**En vaut-il la peine ?**\nLa vue extérieure est la plus célèbre, mais l'intérieur offre une acoustique incroyable, les fameux claustras de marbre (jalis) et le cœur émotionnel du monument. Nous recommandons à 95 % des visiteurs de payer l'expérience complète. Avec un budget très serré ou pour une seconde visite, les jardins offrent tout de même les meilleures photos.\n\n**Remarque :** ce supplément est identique pour tous les adultes, quelle que soit la nationalité."
+   },
+   {
+    "title": "Politique 100 % numérique et astuces de paiement",
+    "content": "En 2026, **aucune transaction en espèces n'est acceptée** aux guichets du monument. L'ASI est passée à une billetterie 100 % dématérialisée pour améliorer le suivi et réduire les fuites financières.\n\n**Comment acheter votre billet :**\n- **Portail officiel :** réservez directement sur le portail de l'ASI, ou utilisez notre service de conciergerie.\n- **QR code à la porte :** de grands panneaux QR sont installés à l'entrée. Scannez-les pour accéder directement au paiement.\n- **Moyens de paiement :** l'UPI est le plus rapide pour qui a un compte bancaire indien. Les visiteurs internationaux peuvent utiliser Visa ou Mastercard, à condition d'avoir activé l'« usage international » auprès de leur banque avant d'arriver.\n\n**Astuce :** n'attendez pas d'être à la porte pour réserver. Le débit mobile chute fortement près du monument à cause de la densité d'utilisateurs. Réservez depuis votre hôtel au petit-déjeuner."
+   },
+   {
+    "title": "Services inclus et coûts supplémentaires",
+    "content": "Le billet « High-Value » (étranger) est plus qu'un simple droit d'entrée : c'est un ensemble de services. À l'arrivée, rendez-vous au comptoir dédié aux étrangers pour recevoir :\n- **Une bouteille d'eau (500 ml) :** nécessaire pour deux heures de marche.\n- **Des chaussons jetables :** obligatoires sur la plate-forme de marbre blanc pour éviter l'abrasion et les taches.\n- **Un plan touristique d'Agra :** guide d'orientation de base.\n\n**Extras à prévoir :**\n- **Voiturettes électriques :** du parking aux portes principales (environ 20 à 50 ₹). Vivement conseillées en pleine chaleur de midi.\n- **Guides agréés :** n'employez que des guides munis d'une carte d'identification ASI valide. Comptez en général 1 000 à 2 000 ₹ pour une visite privée de deux heures selon la taille du groupe et l'expérience du guide."
+   },
+   {
+    "title": "Règles de fonctionnement et validité par porte",
+    "content": "1. **Porte spécifique :** votre billet est lié à la porte choisie à la réservation (est ou ouest). Impossible d'entrer par la porte ouest avec un billet porte est.\n2. **Entrée par créneau :** les billets sont valables sur des fenêtres de 3 heures. Si vous arrivez après l'expiration du créneau, l'entrée peut être refusée.\n3. **Entrée unique :** une fois le QR code scanné et les tourniquets franchis à la sortie, le billet est annulé. Pas de retour pour déjeuner ou se reposer.\n4. **Objets interdits :** évitez gros sacs à dos, trépieds, briquets et nourriture. Il n'y a pas de consigne sûre pour ces objets à la porte ; on vous demandera de retourner à votre véhicule ou à votre hôtel."
+   },
+   {
+    "title": "Évitez la file : réservez l'assistance billets du Taj Mahal",
+    "content": "Naviguer dans la billetterie numérique peut être stressant, surtout pour les visiteurs internationaux confrontés pour la première fois aux passerelles de paiement indiennes, à l'UPI et aux entrées par créneau. Plutôt que de vous battre avec le portail de l'ASI, vous pouvez **[réserver une assistance billets du Taj Mahal via un guide local licencié](/india/agra/taj-mahal-entry-ticket)** qui gère tout le processus.\n\n**Le service comprend :**\n- Billets réservés à l'avance avec votre créneau préféré sécurisé\n- Supplément mausolée inclus (valeur 200 ₹)\n- Un guide licencié certifié ASI qui vous retrouve à la porte\n- Passage rapide de la sécurité avec entrée accompagnée\n- Visite guidée complète de 2 heures du Taj Mahal avec commentaire historique\n\nParticulièrement utile en haute saison (octobre à mars), quand les créneaux se vendent des jours à l'avance et que les créneaux de l'aube sont partis dès 7h."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Vaut-il la peine d'engager un guide au Taj Mahal ?",
+    "a": "Oui. Le billet vous fait entrer, mais les incrustations, les illusions d'optique et l'histoire moghole restent invisibles sans contexte. Un [guide officiel licencié pour le Taj Mahal](/india/agra/taj-mahal-official-guided-tour) coûte dès 20 $ pour une visite privée de 2 heures avec assistance à l'entrée rapide, souvent moins que ce que demandent les rabatteurs pour une balade sans licence."
+   },
+   {
+    "q": "Peut-on acheter des billets en espèces à la porte ?",
+    "a": "**Non.** Depuis la transition numérique de 2026, tous les guichets physiques ont cessé les transactions en espèces. Achetez en ligne sur le portail officiel de l'ASI ou scannez les QR codes à l'entrée. L'UPI est le plus rapide ; les visiteurs internationaux peuvent utiliser Visa ou Mastercard avec l'usage international activé."
+   },
+   {
+    "q": "L'entrée du mausolée est-elle incluse dans le billet étranger standard ?",
+    "a": "Pas automatiquement. Il faut sélectionner le **supplément « Mausolée » (200 ₹)** au paiement pour monter sur la plate-forme de marbre et voir les cénotaphes royaux de Shah Jahan et Mumtaz Mahal. Sans lui, vous n'accédez qu'aux jardins et aux bâtiments extérieurs."
+   },
+   {
+    "q": "Les enfants de moins de 15 ans sont-ils vraiment gratuits ?",
+    "a": "Oui, pour toutes les nationalités. Les parents doivent toutefois réserver un **billet à valeur nulle** sur le portail pour chaque enfant. Une copie du passeport peut être demandée si l'enfant semble proche de la limite d'âge."
+   },
+   {
+    "q": "Les citoyens SAARC doivent-ils présenter leur passeport ?",
+    "a": "Oui. Pour bénéficier du tarif SAARC (540 ₹ + 200 ₹ = **740 ₹**), il faut présenter un **passeport original** d'un pays membre au contrôle : Afghanistan, Bangladesh, Bhoutan, Maldives, Népal, Pakistan, Sri Lanka, Thaïlande et Myanmar. Cartes d'identité et permis de conduire sont refusés."
+   },
+   {
+    "q": "Quels moyens de paiement sont acceptés ?",
+    "a": "L'**UPI** est le plus rapide et le plus fiable avec un compte bancaire indien. Les visiteurs internationaux peuvent utiliser Visa ou Mastercard, avec l'usage international activé au préalable. Aucune espèce n'est acceptée. Astuce : réservez depuis votre hôtel au petit-déjeuner, le réseau mobile près du monument est souvent saturé."
+   },
+   {
+    "q": "Que comprend le billet étranger (High-Value) ?",
+    "a": "Un ensemble de services : entrée aux jardins et à l'enceinte, une **bouteille d'eau de 500 ml**, des **chaussons jetables** (obligatoires sur la plate-forme de marbre) et un plan touristique d'Agra, à retirer au comptoir dédié aux étrangers à l'arrivée."
+   },
+   {
+    "q": "Peut-on ressortir et rentrer avec le même billet ?",
+    "a": "**Non.** Le Taj Mahal applique une politique stricte d'entrée unique. Une fois le QR code scanné et les tourniquets franchis à la sortie, le billet est annulé. Prévoyez de passer vos 3 heures complètes dans l'enceinte."
+   },
+   {
+    "q": "Le Taj Mahal est-il ouvert tous les jours ?",
+    "a": "Tous les jours **sauf le vendredi**, jour de fermeture pour la prière collective à la mosquée du complexe. Aucune exception. Voyez notre [guide du vendredi au Taj Mahal](/india/agra/is-taj-mahal-closed-on-friday) pour le meilleur programme alternatif."
+   }
+  ]
+ },
+ "taj-mahal-opening-time": {
+  "title": "Horaires d'ouverture et de fermeture du Taj Mahal (2026) : le guide définitif",
+  "seoTitle": "Horaires du Taj Mahal 2026 : ouverture et fermeture",
+  "description": "Le Taj Mahal ouvre à 6h et ferme 30 minutes avant le coucher du soleil, tous les jours sauf le vendredi. Visites nocturnes à la pleine lune : tous les horaires 2026.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Horaires standard",
+    "value": "6h00 au coucher du soleil"
+   },
+   {
+    "icon": "CheckCircle2",
+    "label": "Vendredi",
+    "value": "Strictement fermé"
+   },
+   {
+    "icon": "History",
+    "label": "Pleine lune",
+    "value": "Visites nocturnes"
+   }
+  ],
+  "sections": [
+   {
+    "title": "La fenêtre d'ouverture standard (2026)",
+    "content": "L'Archaeological Survey of India (ASI) règle les horaires du Taj Mahal sur le cycle solaire. Annoncés « du lever au coucher du soleil », les horaires ont été standardisés pour 2026 afin de faciliter la gestion des foules et la sécurité.\n\n**Horaires quotidiens officiels :**\n- **Ouverture :** 6h00 (précises)\n- **Fermeture :** 18h30 (selon la lumière)\n- **Dernière entrée :** les portes ferment aux nouveaux visiteurs 30 minutes avant la fermeture officielle.\n\n**Important :** ces horaires sont strictement appliqués. Si vous êtes dans le mausolée au coup de sifflet de fermeture, la sécurité dirige immédiatement tout le monde vers les sorties.\n\nPour que l'ouverture de 6h vaille le coup, réservez vos [billets du Taj Mahal](/india/agra/taj-mahal-entry-ticket) en ligne la veille : les guichets sont l'étape la plus lente de l'entrée matinale, et l'accès coupe-file vous met à l'intérieur pendant que la foule de l'aube fait encore la queue."
+   },
+   {
+    "title": "Variations saisonnières : hiver et été",
+    "content": "La météo et la lumière d'Agra varient fortement au fil de l'année et changent le « ressenti » du monument.\n\n- **Hiver (décembre à février) :** haute saison. Les portes ouvrent à 6h, mais le soleil peut ne se lever qu'à 6h45 ou plus tard. Un brouillard matinal dense est fréquent en janvier et peut masquer le monument jusqu'à 10h. En hiver, vérifiez la visibilité annoncée avant de choisir un créneau à l'aube.\n- **Été (avril à juin) :** le soleil se lève dès 5h15. Les portes ouvrent à 6h, mais la chaleur monte vite. À 11h, la plate-forme de marbre peut devenir brûlante. En été, la fenêtre 6h à 9h est la seule confortable pour marcher.\n- **Mousson (juillet à septembre) :** ciel souvent spectaculaire et couvert, lumière douce idéale pour la photo. Mais les averses soudaines sont fréquentes : emportez un parapluie compact."
+   },
+   {
+    "title": "La fermeture du vendredi (règle absolue)",
+    "content": "L'une des erreurs de voyage les plus fréquentes est d'arriver à Agra un vendredi pour trouver les portes du Taj Mahal closes. **Le Taj Mahal est fermé à tous chaque vendredi.**\n\n**Pourquoi ?**\nUne mosquée en activité se trouve dans l'enceinte (côté ouest). Le vendredi est réservé aux habitants pour la prière collective du Jumma.\n\n**Alternative :** si votre seul jour à Agra est un vendredi, vous pouvez voir le monument depuis Mehtab Bagh de l'autre côté du fleuve ou depuis les toits de plusieurs hôtels. Tous les autres grands monuments, fort d'Agra et Baby Taj compris, restent ouverts le vendredi."
+   },
+   {
+    "title": "Horaires des visites nocturnes (créneaux de pleine lune)",
+    "content": "Pour un nombre limité de personnes, l'ASI ouvre le Taj Mahal la nuit pendant cinq nuits autour de la pleine lune : la nuit de la pleine lune elle-même et deux nuits avant et après.\n\n**Horaires de nuit :**\n- **Heures :** 20h30 à 0h30\n- **Durée :** par groupes de 50 visiteurs, 30 minutes exactement chacun.\n- **Réservation :** billets à réserver 24 heures à l'avance au bureau de l'ASI sur Mall Road. La visite dépend fortement de la météo ; par temps couvert, l'effet clair de lune est perdu.\n\n**Remarque :** pas de visite nocturne le vendredi ni pendant le mois de ramadan."
+   },
+   {
+    "title": "Tactiques d'entrée",
+    "content": "1. **L'avantage de la porte est :** elle dessert les hôtels de luxe et est en général plus rapide que la porte ouest, qui absorbe les bus de tourisme de masse.\n2. **Le timing de la sécurité :** l'ouverture de 6h correspond au passage de la première personne au contrôle. La file se forme dès 5h15. Pour être « le premier entré », soyez dans la file à 5h30.\n3. **La limite de 3 heures :** en 2026, les billets sont valables 3 heures. Au-delà, un supplément peut être demandé à la sortie. Utilisez votre temps à bon escient."
+   },
+   {
+    "title": "Le meilleur timing pour les photographes",
+    "content": "Pour la photo « reflet » sans mille personnes en arrière-plan, vous avez exactement 5 minutes à partir de l'ouverture.\n- **Lever du soleil :** idéal pour la lueur rosée sur le marbre blanc.\n- **Heure dorée (16h30 à 17h30) :** tons chauds profonds et ombres qui soulignent les sculptures.\n- **Heure bleue (après le coucher du soleil) :** le Taj prend une teinte saphir froide d'une beauté envoûtante pendant environ 15 minutes."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Comment vraiment voir le Taj Mahal au lever du soleil ?",
+    "a": "Soyez à la porte est **avant 6h** : les 30 premières minutes après l'ouverture sont les plus vides et les plus fraîches de la journée. Le plus simple pour gérer la logistique de l'aube, les billets et le choix de la porte est la [visite du Taj Mahal au lever du soleil](/india/agra/taj-mahal-sunrise-guided-tour) avec un guide licencié (dès 20 $), qui prend en charge l'entrée par créneau."
+   },
+   {
+    "q": "Quelle est l'heure exacte d'ouverture du Taj Mahal ?",
+    "a": "Les portes ouvrent officiellement à **6h tous les jours**, sauf le vendredi où le monument est fermé au public. Pour être parmi les premiers à l'aube, rejoignez la file dès 5h30 : le contrôle de sécurité commence avant l'ouverture officielle."
+   },
+   {
+    "q": "Peut-on entrer au Taj Mahal après 17h30 ?",
+    "a": "**Non.** Les guichets et les portes cessent d'admettre les visiteurs 30 minutes avant la fermeture au coucher du soleil. L'heure de fermeture varie selon la saison mais tourne autour de 18h30."
+   },
+   {
+    "q": "Le Taj Mahal est-il ouvert les jours fériés ?",
+    "a": "Oui, le monument reste **ouvert tous les jours fériés**, sauf s'ils tombent un vendredi. La fermeture du vendredi pour la prière collective est absolue, quel que soit le jour férié."
+   },
+   {
+    "q": "Combien de temps peut-on rester à l'intérieur ?",
+    "a": "Un billet standard est valable **3 heures** à partir de l'entrée, contrôlées par le scan du QR code à la sortie. Au-delà, un supplément peut être demandé. Planifiez votre visite pour exploiter cette fenêtre."
+   },
+   {
+    "q": "Quelle est la meilleure période de l'année pour le Taj Mahal ?",
+    "a": "Les **intersaisons** octobre-novembre et février-mars offrent le meilleur équilibre entre ciel clair, températures agréables et bonne visibilité. Décembre-janvier est la haute saison, avec le plus de monde et du brouillard matinal. L'été (avril à juin) est très chaud mais moins fréquenté à l'aube."
+   },
+   {
+    "q": "Y a-t-il des visites nocturnes ?",
+    "a": "Oui, en nombre limité, la **nuit de la pleine lune** et les deux nuits avant et après (cinq nuits par cycle lunaire). De 20h30 à 0h30, par groupes de 50 pour 30 minutes. Billets à réserver 24 heures à l'avance au bureau de l'ASI. Pas le vendredi ni pendant le ramadan."
+   },
+   {
+    "q": "Par quelle porte entrer ?",
+    "a": "La **porte est** (Shilpgram) est en général moins fréquentée que la porte ouest, qui accueille les gros bus du centre-ville. Le billet est lié à une porte : entrez par celle choisie à la réservation. La porte sud est parfois ouverte mais moins régulière."
+   },
+   {
+    "q": "Que faire en cas de brouillard hivernal ?",
+    "a": "Le brouillard de janvier est fréquent à Agra et peut **masquer le Taj Mahal jusqu'à 10h**. En hiver, vérifiez la visibilité prévue avant de choisir un créneau à l'aube, ou prévoyez une visite en fin de matinée (10h à 11h30), quand le brouillard se lève et que le marbre brille dans la lumière d'hiver."
+   }
+  ]
+ },
+ "is-taj-mahal-closed-on-friday": {
+  "title": "Le Taj Mahal est-il fermé le vendredi ? (guide stratégique 2026)",
+  "seoTitle": "Le Taj Mahal est-il fermé le vendredi ? (Oui)",
+  "description": "Oui, le Taj Mahal ferme tous les vendredis pour la prière à sa mosquée. Que voir à Agra à la place et comment organiser votre voyage en conséquence.",
+  "fastFacts": [
+   {
+    "icon": "AlertTriangle",
+    "label": "Fermeture",
+    "value": "Tous les vendredis"
+   },
+   {
+    "icon": "Map",
+    "label": "Meilleure alternative",
+    "value": "Point de vue de Mehtab Bagh"
+   },
+   {
+    "icon": "History",
+    "label": "Heures de prière",
+    "value": "12h00 à 14h00"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Réponse définitive : oui, il est fermé",
+    "content": "**Oui, le Taj Mahal est fermé tous les vendredis pour la prière collective ; le point de vue de Mehtab Bagh reste toutefois ouvert pour le coucher du soleil.**\n\nCette règle s'applique toute l'année, 2026 compris.\n\n**Tous les vendredis :** pas d'entrée pour les visiteurs\n**Sauf :** créneaux spéciaux de visite nocturne certaines nuits de pleine lune (réservation distincte)\n\nCette fermeture est due à la prière collective du vendredi dans la mosquée située dans l'enceinte du Taj Mahal.\n\nVous venez un autre jour ? Réservez vos [billets du Taj Mahal](/india/agra/taj-mahal-entry-ticket) en ligne à l'avance : la fermeture du vendredi fait grimper la foule du samedi, et l'entrée coupe-file épargne les plus longues files de la semaine."
+   },
+   {
+    "title": "Ne gâchez pas votre vendredi à Agra",
+    "content": "Rejoignez notre visite guidée par un expert, conçue précisément pour les jours de fermeture du Taj. Le meilleur du fort d'Agra, du Baby Taj et une superbe vue sur le Taj Mahal au coucher du soleil depuis l'autre rive."
+   },
+   {
+    "title": "La règle immuable du vendredi",
+    "content": "Le Taj Mahal n'est pas qu'un monument : c'est un ensemble qui abrite un lieu de culte en activité. La mosquée à l'ouest du mausolée accueille la prière collective du Jumu'ah chaque vendredi.\n\n- **Visiteurs :** aucune entrée autorisée de toute la journée.\n- **Fidèles :** seuls les résidents locaux munis d'une pièce d'identité valide peuvent entrer pour la prière entre 12h et 14h.\n- **Billetterie :** les créneaux physiques et numériques du vendredi sont désactivés dans le système officiel de l'ASI.\n\n**Attention :** ne croyez pas les rabatteurs ou « guides » près des portes qui prétendent pouvoir vous faire entrer moyennant un supplément. La sécurité est assurée par la Central Industrial Security Force (CISF) et aucune exception n'est faite."
+   },
+   {
+    "title": "L'astuce « vue du vendredi » : Mehtab Bagh",
+    "content": "Si le vendredi est votre seul jour à Agra et que vous devez absolument voir le monument, la meilleure manœuvre est de traverser la Yamuna jusqu'à Mehtab Bagh (le jardin du clair de lune).\n\nVous ne pouvez pas entrer dans l'enceinte, mais Mehtab Bagh se trouve juste en face, de l'autre côté du fleuve, et offre une vue parfaitement symétrique et dégagée sur l'arrière du monument. À bien des égards, c'est une meilleure perspective photo : aucune foule dans le cadre.\n\n**Conseil d'expert :** arrivez à Mehtab Bagh vers 16h30. Le soleil se couche derrière vous et illumine le marbre blanc d'une lueur orange profonde. Le fleuve fait miroir et vous offre le fameux « double Taj »."
+   },
+   {
+    "title": "Itinéraire complet du vendredi : le plan « tout sauf le Taj »",
+    "content": "Agra est bien plus qu'un seul édifice. Profitez du vendredi pour explorer les sites habituellement éclipsés.\n\n- **8h30, fort d'Agra :** ouvert le vendredi. Consacrez-lui 3 heures. C'est un site UNESCO de classe mondiale à part entière, deux fois plus grand que l'enceinte du Taj.\n- **12h00, déjeuner à Sadar Bazaar :** explorez la scène culinaire locale. Goûtez le vrai « petha » et le « bedai » épicé.\n- **14h00, le Baby Taj (Itimad-ud-Daula) :** souvent ignoré des excursionnistes, ce joyau d'architecture moghole est ouvert le vendredi.\n- **16h30, coucher de soleil à Mehtab Bagh :** terminez la journée avec la vue sur le Taj Mahal depuis le fleuve, celle que vous avez manquée le matin."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Que faire à Agra un vendredi ?",
+    "a": "Ne rayez pas la journée : fort d'Agra, Fatehpur Sikri, Baby Taj et Mehtab Bagh sont tous ouverts. La [visite des incontournables d'Agra](/india/agra/agra-city-highlights-tour) les couvre en une journée guidée, et si vous pouvez rester la nuit, réservez la [visite du Taj Mahal au lever du soleil](/india/agra/taj-mahal-sunrise-guided-tour) pour le samedi matin : la récompense d'une arrivée le vendredi est le créneau d'aube le plus vide de la semaine."
+   },
+   {
+    "q": "Le Taj Mahal est-il vraiment fermé tous les vendredis ?",
+    "a": "Oui, fermé aux visiteurs tous les vendredis de 2026, pour la prière collective du vendredi à la mosquée de l'enceinte. Seuls les fidèles locaux munis d'une pièce d'identité valide peuvent entrer entre 12h et 14h."
+   },
+   {
+    "q": "Peut-on quand même voir le Taj Mahal un vendredi ?",
+    "a": "Oui, depuis **Mehtab Bagh** (le jardin du clair de lune) juste en face, de l'autre côté de la Yamuna, avec une vue arrière parfaitement symétrique et sans foule. Les restaurants sur les toits de Taj Ganj offrent aussi des vues en hauteur. Ni l'un ni l'autre n'exige d'entrer dans le monument."
+   },
+   {
+    "q": "Le fort d'Agra est-il aussi fermé le vendredi ?",
+    "a": "Non. Le fort d'Agra est **ouvert tous les jours, vendredi compris**. Site UNESCO à part entière, c'est l'alternative idéale du vendredi à Agra. Prévoyez 2 à 3 heures pour explorer cette magnifique forteresse de grès rouge."
+   },
+   {
+    "q": "Quelle est la meilleure chose à faire à Agra un vendredi ?",
+    "a": "Le programme optimal : **fort d'Agra** (matin, 3 heures), **déjeuner à Sadar Bazaar**, **Itimad-ud-Daula / Baby Taj** (après-midi, 1h30), **coucher de soleil à Mehtab Bagh** face au Taj Mahal (arrivée 16h30). Sans doute une meilleure journée qu'une visite classique du Taj, puisque vous évitez totalement la foule du monument."
+   },
+   {
+    "q": "À quelle heure ouvre le Taj Mahal les autres jours ?",
+    "a": "Tous les jours sauf le vendredi, le Taj Mahal ouvre **30 minutes avant le lever du soleil** et ferme 30 minutes avant le coucher. En 2026, ouverture vers 5h30 en été et 6h en hiver. La première heure est la meilleure : le moins de monde et un marbre doré."
+   },
+   {
+    "q": "À quelle distance du Taj Mahal se trouve Mehtab Bagh ?",
+    "a": "À environ **3 kilomètres** des portes principales, sur la rive opposée (nord) de la Yamuna. En auto-rickshaw depuis Taj Ganj, 10 à 15 minutes (négociez 80 à 100 ₹). En Uber, moins de 10 minutes. Le jardin est ouvert tous les jours du lever au coucher du soleil, entrée 300 ₹ pour les touristes étrangers."
+   },
+   {
+    "q": "Peut-on acheter des billets en ligne pour le vendredi ?",
+    "a": "Non. Le système officiel de réservation de l'ASI (asi.nic.in) **bloque automatiquement tous les créneaux du vendredi** pour le tourisme. Aucun contournement : les gardes de la CISF qui gèrent l'entrée ne font jamais d'exception, quoi qu'en disent les rabatteurs."
+   },
+   {
+    "q": "Peut-on visiter le Taj Mahal la nuit ?",
+    "a": "Une **visite nocturne** limitée existe la nuit de la pleine lune et les deux nuits avant et après (sauf le vendredi et pendant le ramadan). Seulement 400 billets par nuit, à réserver 24 heures à l'avance au bureau de l'ASI près de la porte est. Visite de 30 minutes depuis la plate-forme d'observation en marbre ; on ne peut pas approcher le tombeau."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
