@@ -5670,6 +5670,184 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Le fort d'Amber est à 11 km au nord de la vieille ville de Jaipur. **Voiture privée ou taxi** : 25 à 30 minutes, 300 à 500 ₹. **Uber/Ola** : 200 à 300 ₹. **Auto-rickshaw** : 150 à 250 ₹. Le fort se trouve sur la route principale du Jal Mahal : combinez les deux dans une même matinée."
    }
   ]
+ },
+ "hawa-mahal": {
+  "title": "Hawa Mahal à Jaipur : guide complet 2026 du palais des Vents",
+  "description": "Guide 2026 du Hawa Mahal : histoire du palais des Vents et de ses 953 fenêtres, tarifs, meilleurs points photo et conseils de visite de l'icône de Jaipur.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "9h00 à 17h00 tous les jours"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Entrée",
+    "value": "200 ₹ étrangers / 50 ₹ Indiens"
+   },
+   {
+    "icon": "History",
+    "label": "Construit",
+    "value": "En 1799 par le maharaja Sawai Pratap Singh"
+   },
+   {
+    "icon": "Star",
+    "label": "Fenêtres",
+    "value": "953 fenêtres jharokha"
+   },
+   {
+    "icon": "Map",
+    "label": "Emplacement",
+    "value": "Badi Chaupar, vieille ville"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Ce qui rend le Hawa Mahal unique",
+    "content": "Le **Hawa Mahal** (palais des Vents) ne ressemble à aucun autre bâtiment d'Inde, ni du monde. Sa façade de grès rose sur cinq étages, en forme de couronne du dieu Krishna, compte **953 petites fenêtres jharokha** disposées en nid d'abeille. Chacune est garnie d'un délicat travail ajouré qui laissait circuler l'air à travers le bâtiment et créait une brise rafraîchissante naturelle, d'où son nom de palais des Vents.\n\nMais sa véritable raison d'être était sociale, et non architecturale. Construit en 1799 par le maharaja Sawai Pratap Singh, le Hawa Mahal devait permettre aux **femmes de la cour vivant en purdah** (recluses derrière des voiles) d'observer l'animation de la rue, les processions et les fêtes de Jaipur, sans être vues du public.\n\nSur le plan architectural, l'édifice est trompeur. De face, il semble être un grand palais de cinq étages. En réalité, il ne fait qu'**une pièce de profondeur** en son point le plus épais : c'est essentiellement un mur-écran ouvragé. Les « pièces » ne sont que d'étroits couloirs et de petites alcôves derrière les fenêtres. Le Hawa Mahal est donc moins un palais qu'une galerie d'observation monumentale."
+   },
+   {
+    "title": "Visiter le Hawa Mahal : à quoi s'attendre",
+    "content": "**Extérieur** : la meilleure vue du Hawa Mahal se prend depuis la rue. Placez-vous au **carrefour de Badi Chaupar**, au pied de la façade, pour la photo classique de face. Tôt le matin (avant 9h00), la lumière est idéale et le soleil éclaire directement le grès rose.\n\n**Le meilleur point photo** : le **Wind View Cafe**, à l'étage d'un bâtiment situé juste en face, offre une perspective surélevée qui capte toute la façade avec la rue en contrebas. Commandez un chai et photographiez à loisir.\n\n**Intérieur** : l'entrée se fait par la rue latérale (à l'arrière, et non par la façade principale). Montez les rampes étroites (il n'y a pas d'escalier : le bâtiment fut conçu pour que les femmes de la cour, en longues jupes, puissent monter aisément) jusqu'aux étages supérieurs. Le point fort, ce sont les vues à travers les fenêtres jharokha sur les rues de la vieille ville : vous regardez à travers les mêmes écrans ajourés que les reines il y a plus de 200 ans.\n\n**Durée** : 30 à 40 minutes à l'intérieur. Prévoyez du temps en plus pour les photos extérieures et le café.\n\n**Entrée** : 200 ₹ étrangers / 50 ₹ Indiens, ou inclus dans le billet combiné (1 000 ₹ étrangers / 300 ₹ Indiens) si vous en avez acheté un."
+   },
+   {
+    "title": "Architecture et histoire en profondeur",
+    "content": "Le Hawa Mahal a été conçu par **Lal Chand Ustad** sous la forme du **mukut (couronne) de Krishna**, la divinité la plus vénérée par la dynastie rajput Kachhwaha qui régnait sur Jaipur. Les cinq étages représentent les cinq éléments de la philosophie hindoue : terre, eau, feu, air et ciel.\n\nMatériaux et techniques sont typiquement jaipuris :\n- **Grès rose** : la teinte saumon caractéristique qui a valu à Jaipur son surnom de Ville rose. Toute la vieille ville fut peinte en rose en 1876 pour accueillir le prince de Galles ; le Hawa Mahal avait déjà naturellement cette couleur.\n- **Mortier de chaux** : le liant traditionnel utilisé à la place du ciment.\n- **Détails rouges et blancs** : encadrements de fenêtres et éléments décoratifs alternent grès rouge et badigeon de chaux blanche, créant le motif si reconnaissable depuis la rue.\n\nLe palais était relié au City Palace par un corridor couvert, permettant aux femmes de la cour de circuler entre les deux sans jamais paraître en public, incarnation physique du système de purdah qui régissait leur vie."
+   },
+   {
+    "title": "Les femmes de la cour et le palais aux fenêtres",
+    "content": "Pour comprendre le Hawa Mahal, il faut comprendre le **purdah**, ce système de réclusion féminine pratiqué pendant des siècles par la noblesse rajput. Reines et princesses de la dynastie Kachhwaha vivaient derrière des murs, sans pouvoir paraître en public ni être vues par des hommes extérieurs à la famille proche.\n\nLe Hawa Mahal fut la solution ingénieuse du maharaja Sawai Pratap Singh à ce problème d'enfermement. Les 953 fenêtres jharokha agissaient comme des **écrans à sens unique** : les ouvertures ajourées étaient assez larges pour voir de l'intérieur, mais trop petites et trop finement sculptées pour qu'on puisse, depuis la rue, apercevoir les femmes qui regardaient. Les reines pouvaient observer les colorées **processions de Gangaur** (en l'honneur de la déesse Parvati), les défilés de la fête de **Teej** et la vie quotidienne des bazars, leur seul lien avec le monde au-delà des murs.\n\nChaque étage avait une fonction dans la hiérarchie royale. L'étage le plus haut, le **Hawa Mandir** (temple des Vents), était réservé aux reines les plus anciennes. Les étages intermédiaires accueillaient épouses plus jeunes et concubines, tandis que les niveaux inférieurs servaient de galeries d'observation aux suivantes et aux servantes. Même en purdah, la hiérarchie stricte du zenana (quartier des femmes) était maintenue.\n\nLe corridor couvert reliant le Hawa Mahal au [City Palace](/india/jaipur/city-palace-jaipur) permettait aux femmes de circuler entre les deux bâtiments sans jamais être exposées, créant de fait un réseau féminin caché au cœur de la ville. Ce corridor existe toujours, mais n'est pas accessible aux visiteurs.\n\nLe purdah a été officiellement aboli en Inde après l'indépendance de 1947, mais le Hawa Mahal reste l'expression architecturale la plus forte de ce système : un bâtiment entièrement conçu autour du fait de voir sans être vue."
+   },
+   {
+    "title": "Guide photo : réussir ses images du Hawa Mahal",
+    "content": "Le Hawa Mahal est l'un des bâtiments les plus photographiés d'Inde, mais obtenir une image vraiment marquante demande du timing, un bon placement et la connaissance des meilleurs angles.\n\n**Meilleurs angles extérieurs** :\n- **Carrefour de Badi Chaupar** (niveau de la rue) : la photo classique de face. Placez-vous à l'angle nord-est pour la perspective la plus large sans véhicules gênants. Arrivez avant 8h00 pour des rues vides et une lumière dorée qui frappe directement la façade.\n- **Wind View Cafe** (en hauteur) : à l'étage d'un immeuble juste en face. Commandez un chai (50 ₹) et photographiez d'en haut. L'angle surélevé restitue les cinq étages avec la rue animée en dessous, ce qui donne profondeur et contexte. La lumière du matin (avant 10h00) est la meilleure.\n- **Toits-terrasses de Johari Bazaar** : plusieurs toits des rues adjacentes offrent des angles obliques qui révèlent l'extraordinaire minceur du bâtiment : de côté, on voit qu'il ne fait qu'une pièce de profondeur.\n\n**Meilleures images intérieures** :\n- **Gros plans sur les fenêtres jharokha** : cadrez depuis l'intérieur en regardant vers l'extérieur à travers les écrans ajourés. Le jeu d'ombre et de lumière dans le grès sculpté crée des motifs saisissants, surtout en milieu de matinée quand la lumière est rasante.\n- **La perspective des rampes** : les rampes étroites créent une composition en point de fuite qui souligne la géométrie interne inhabituelle du bâtiment.\n- **Panorama du dernier étage** : la vue sur les rues de la vieille ville depuis les fenêtres du haut est celle qu'avaient les reines il y a plus de 200 ans. Intégrez le cadre ajouré à votre composition pour la résonance historique.\n\n**Conditions de lumière** :\n- **Du lever du soleil à 9h00** : lumière chaude directe sur la façade, le grès rose atteint son ambre le plus profond. Le meilleur moment pour l'extérieur.\n- **Jours couverts** : étonnamment favorables, la lumière diffuse révèle les détails sculptés sans ombres dures.\n- **La nuit** : le Hawa Mahal est illuminé après la tombée du jour, pour une image radicalement différente. Les lumières dorées sur le ciel sombre offrent un excellent contraste.\n\n**Matériel** : les trépieds sont autorisés au niveau de la rue mais pas à l'intérieur. Les drones sont interdits dans la vieille ville. Un objectif grand-angle (équivalent 16 à 24 mm) est indispensable pour capter toute la façade depuis une rue étroite."
+   },
+   {
+    "title": "Explorez le Hawa Mahal et la Ville rose avec un guide local",
+    "content": "Le Hawa Mahal se dresse au cœur de la vieille ville fortifiée de Jaipur, un quartier qui demande une bonne connaissance du terrain. Nos [guides de Jaipur](/india/jaipur) agréés par l'État associent le Hawa Mahal au **[City Palace](/india/jaipur/city-palace-jaipur)** voisin (5 minutes à pied), au **Jantar Mantar** (2 minutes à pied) et à une balade dans les bazars de **Johari Bazaar** et **Bapu Bazaar**, pour 3 à 4 heures d'immersion dans l'architecture, l'histoire et les traditions artisanales vivantes de la Ville rose.\n\nUne balade guidée dans la vieille ville transforme l'expérience : votre guide explique la symbolique de chaque motif jharokha, navigue dans les ruelles des bazars jusqu'aux ateliers cachés où les artisans pratiquent encore l'impression au tampon et la fabrication de bracelets de laque, et raconte l'histoire de ces femmes de la cour qui regardaient le monde derrière ces 953 fenêtres.\n\n[Voir toutes les visites privées de Jaipur](/india/jaipur)"
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Pourquoi le Hawa Mahal s'appelle-t-il le palais des Vents ?",
+    "a": "« Hawa Mahal » signifie « palais des Vents » en hindi. Les 953 petites fenêtres jharokha créent un **système de ventilation naturelle** : l'effet Venturi aspire l'air à travers les écrans ajourés et rafraîchit l'intérieur, même sous la chaleur extrême de Jaipur. Le bâtiment permettait aux femmes de la cour d'observer la rue tout en restant au frais et dissimulées derrière les écrans perforés."
+   },
+   {
+    "q": "Combien de fenêtres compte le Hawa Mahal ?",
+    "a": "Le Hawa Mahal compte **953 petites fenêtres jharokha** réparties sur ses cinq étages de façade. Chacune est garnie d'écrans de grès finement ajourés (jalis) qui laissent circuler l'air et permettent de voir la rue sans que l'on puisse voir à l'intérieur."
+   },
+   {
+    "q": "Peut-on entrer dans le Hawa Mahal ?",
+    "a": "Oui, l'intérieur est ouvert aux visiteurs. L'entrée se fait par la rue latérale (à l'arrière, pas par la façade principale). Montez les rampes étroites jusqu'aux étages supérieurs pour les vues à travers les fenêtres jharokha sur la vieille ville. L'intérieur est relativement simple, des couloirs étroits et de petites alcôves, mais les vues du dernier étage sont superbes."
+   },
+   {
+    "q": "Quel est le prix d'entrée du Hawa Mahal ?",
+    "a": "200 ₹ pour les touristes étrangers, 50 ₹ pour les ressortissants indiens. Le Hawa Mahal est aussi couvert par le **billet combiné** (1 000 ₹ étrangers / 300 ₹ Indiens), qui inclut six autres monuments de Jaipur. Achetez ce billet au premier monument si vous visitez plusieurs sites."
+   },
+   {
+    "q": "Quel est le meilleur moment pour photographier le Hawa Mahal ?",
+    "a": "**Tôt le matin (7h00 à 9h00)**, quand le soleil levant éclaire directement la façade. Le grès rose est alors le plus chaud en couleur. Pour les prises de vue en hauteur, rendez-vous au **Wind View Cafe** en face. La fin d'après-midi (16h00 à 17h30) offre aussi une belle lumière, mais la façade est partiellement à l'ombre."
+   }
+  ]
+ },
+ "city-palace-jaipur": {
+  "title": "City Palace de Jaipur : guide complet du visiteur 2026",
+  "description": "Guide 2026 du City Palace de Jaipur : résidence royale toujours habitée, urnes d'argent inscrites au Guinness, temps forts du musée, tarifs et que voir.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "9h30 à 17h00 tous les jours"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Entrée",
+    "value": "500 ₹ étrangers / 100 ₹ Indiens"
+   },
+   {
+    "icon": "History",
+    "label": "Construit",
+    "value": "En 1727 par le maharaja Jai Singh II"
+   },
+   {
+    "icon": "Star",
+    "label": "Temps fort",
+    "value": "Les urnes d'argent du Guinness"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "À noter",
+    "value": "Non inclus dans le billet combiné"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Un palais vivant, où la famille royale réside toujours",
+    "content": "Le **City Palace** de Jaipur se distingue de presque tous les autres palais royaux d'Inde pour une raison précise : **la famille royale actuelle y vit toujours**. Les descendants du maharaja Jai Singh II, fondateur de Jaipur en 1727 et bâtisseur de ce palais, occupent la partie intérieure du Chandra Mahal, visible mais non accessible aux visiteurs.\n\nLes espaces publics, environ deux tiers du complexe, forment un musée de premier plan consacré à l'histoire rajput, à l'art, aux textiles et aux armes. Le palais se trouve exactement au centre de la vieille ville fortifiée : l'urbanisme précis de Jai Singh II plaçait la résidence royale au cœur géographique de sa nouvelle capitale."
+   },
+   {
+    "title": "Que voir à l'intérieur du City Palace",
+    "content": "### Mubarak Mahal (palais de Bienvenue)\nSuperbe fusion de styles islamique, rajput et européen. Il abrite aujourd'hui la **galerie des textiles et des costumes**, dont la pièce la plus fascinante reste les immenses robes de soie du maharaja Madho Singh Ier, qui mesurait, dit-on, 2 mètres et pesait plus de 225 kg.\n\n### Diwan-i-Khas (salle des audiences privées)\nLe temps fort du complexe. Deux **immenses urnes en argent massif (Gangajali)** dominent la salle : chacune mesure 1,6 mètre, contient 4 091 litres et est reconnue par le **Guinness des records comme le plus grand objet en argent du monde**. Le maharaja Madho Singh II les fit fabriquer en 1894 pour transporter l'eau sacrée du Gange lors de son voyage à Londres, au couronnement d'Édouard VII.\n\n### Pritam Niwas Chowk (cour du Bien-aimé)\nL'endroit le plus photogénique du palais. Quatre portes ornées représentent les quatre saisons :\n- **Porte du Paon** (automne), la plus photographiée, aux superbes mosaïques bleu-vert\n- **Porte du Lotus** (été), aux délicats motifs de lotus rose\n- **Porte Verte** (printemps), aux motifs floraux verts\n- **Porte de la Rose** (hiver), aux tons rose chaud\n\n### Musée des armes\nL'une des plus belles collections d'armes rajputes d'Inde : sabres incrustés de pierres, poignards ouvragés, boucliers et les fameux *talwars* courbes qui ont défini la culture guerrière rajput."
+   },
+   {
+    "title": "Informations pratiques",
+    "content": "**Entrée** : 500 ₹ étrangers / 100 ₹ Indiens. **Important** : le City Palace a son propre billet, il n'est PAS inclus dans le billet combiné de Jaipur qui couvre le fort d'Amber, le Hawa Mahal, etc.\n\n**Durée** : 60 à 90 minutes pour une visite approfondie. Les galeries du musée sont vastes et gagnent à être parcourues lentement.\n\n**Guide** : vivement recommandé. Les strates historiques, de la passion astronomique de Jai Singh II à l'histoire des urnes d'argent Gangajali, sont complexes et passionnantes une fois racontées par un expert.\n\n**Photographie** : autorisée dans la plupart des espaces au téléphone ou à l'appareil. Matériel professionnel et trépieds demandent un supplément.\n\n**À combiner avec** : le **Jantar Mantar** (2 minutes à pied, mitoyen) et le **Hawa Mahal** (5 minutes à pied). Ces trois sites forment un ensemble naturel dans la vieille ville, à couvrir en 2h30 à 3 heures.\n\n**Option supérieure** : un billet premium « Royal Grandeur » (2 500 ₹ étrangers) donne accès à certaines zones réservées du Chandra Mahal, la partie privée. À considérer pour les passionnés d'architecture palatiale."
+   },
+   {
+    "title": "Jai Singh II, le roi astronome qui a bâti une ville",
+    "content": "On ne peut comprendre le City Palace sans comprendre son extraordinaire créateur. Le **maharaja Sawai Jai Singh II** (1688-1743) n'était pas qu'un roi guerrier : c'était l'un des intellectuels les plus remarquables de l'Asie du XVIIIe siècle.\n\nJai Singh II monta sur le trône d'Amber (capitale kachhwaha avant Jaipur) à seulement 11 ans. Dès la vingtaine, il s'était distingué comme commandant militaire sous l'empereur moghol Aurangzeb et comme mathématicien et astronome prodigieusement doué. Il correspondait avec des savants européens, collectait des traités astronomiques du Portugal, de France et de l'Empire ottoman, et fit construire **cinq observatoires astronomiques en pierre** à travers l'Inde, dont le plus grand, le **Jantar Mantar**, jouxte le City Palace.\n\nEn 1727, Jai Singh II prit la décision audacieuse d'abandonner la forteresse de colline d'Amber pour bâtir une capitale entièrement nouvelle dans la plaine. Avec l'architecte bengali **Vidyadhar Bhattacharya**, il conçut Jaipur sur un **plan en damier rigoureux**, inspiré du traité d'architecture hindoue *Shilpa Shastra*, faisant d'elle la première ville planifiée d'Inde. La trame divisait la ville en neuf blocs (les neuf divisions de l'univers dans la cosmologie hindoue), le City Palace occupant les deux blocs centraux : le roi se plaçait littéralement au cœur de son dessein cosmique.\n\nLes rues furent tracées à angle droit, leur largeur proportionnelle à leur importance. Les grandes avenues faisaient 108 pieds de large (108 étant un nombre sacré dans l'hindouisme). Même l'emplacement des marchés fut planifié par corps de métier, un système qui perdure dans la vieille ville : Johari Bazaar vend toujours des bijoux et Bapu Bazaar des textiles, exactement comme Jai Singh II l'avait voulu il y a près de 300 ans."
+   },
+   {
+    "title": "La famille royale de Jaipur, une dynastie vivante",
+    "content": "Ce qui rend le City Palace extraordinaire parmi les résidences royales indiennes, c'est que la **dynastie Kachhwaha y vit toujours**. L'actuel chef de famille, le **maharaja Padmanabh Singh** (né en 1998), a hérité du titre à 13 ans de son grand-père et partage son temps entre le palais et ses engagements internationaux : il a joué au polo professionnel, défilé pour la mode et étudié à l'étranger, devenant l'un des jeunes membres de la royauté les plus connus d'Inde.\n\nLa continuité de la famille sur près de **600 ans**, depuis son siège d'origine au [fort d'Amber](/india/jaipur/amber-fort) jusqu'à la fondation de Jaipur et à l'époque moderne, est remarquable. Contrairement à de nombreuses familles royales indiennes qui perdirent leurs biens après l'abolition des rentes princières en 1971, les Jaipur ont conservé le City Palace en convertissant les parties extérieures en musée tout en continuant de résider dans le **Chandra Mahal**.\n\nCe Chandra Mahal de sept étages est visible depuis les cours mais reste en grande partie fermé (sauf avec le billet premium Royal Grandeur). Chaque étage a son nom et sa palette : **Sukh Niwas** (salle du Plaisir) en vert, **Rang Mandir** (temple de la Couleur) en rouge, **Chabi Niwas** (salle de l'Ombre) en bleu, et tout en haut le **Mukut Mandir** (temple de la Couronne) en marbre blanc, avec une vue panoramique sur la ville depuis un pavillon de toit.\n\nLa famille royale accueille toujours des cérémonies privées au palais lors de fêtes comme **Gangaur** et **Diwali**, quand des sections du Chandra Mahal sont décorées de milliers de lampes à huile. Ces événements sont privés, mais l'atmosphère festive déborde sur les cours publiques et les rues alentour : faire coïncider sa visite avec une grande fête rajput ajoute une dimension magique."
+   },
+   {
+    "title": "Explorez le City Palace avec un guide du patrimoine royal",
+    "content": "Le City Palace gagne à être raconté plus que presque tout autre monument du Rajasthan. Les histoires derrière les urnes d'argent Gangajali, les obsessions astronomiques de Jai Singh II, la symbolique de la Porte du Paon et la continuité de la famille royale sur des siècles sont complexes, riches et passionnantes quand elles sont racontées par quelqu'un qui les connaît vraiment.\n\nNos [guides du patrimoine de Jaipur](/india/jaipur), agréés par l'État, associent le City Palace au **Jantar Mantar** voisin (l'observatoire de Jai Singh II) et au **[Hawa Mahal](/india/jaipur/hawa-mahal)** tout proche, en une balade fluide de 2h30 à 3 heures dans la vieille ville. Ensemble, ces trois sites racontent toute l'histoire de la fondation de Jaipur : le plan cosmique du roi astronome, le palais en son cœur et la galerie aux fenêtres d'où ses reines regardaient le monde passer.\n\n[Voir toutes les visites privées de Jaipur](/india/jaipur)"
+   }
+  ],
+  "faqs": [
+   {
+    "q": "La famille royale vit-elle toujours au City Palace de Jaipur ?",
+    "a": "Oui, la partie intérieure du **Chandra Mahal** reste la résidence privée de l'actuelle famille royale de Jaipur, descendante du fondateur, le maharaja Jai Singh II. Les parties extérieures forment un musée public. Le City Palace est ainsi l'une des rares résidences royales actives au monde partiellement ouvertes aux visiteurs."
+   },
+   {
+    "q": "Que sont les urnes d'argent du City Palace ?",
+    "a": "Les **Gangajali** sont deux immenses urnes en argent massif conservées dans le Diwan-i-Khas. Chacune mesure 1,6 mètre, contient 4 091 litres et est reconnue par le Guinness des records comme le **plus grand objet en argent du monde**. Le maharaja Madho Singh II les commanda en 1894 pour emporter l'eau sacrée du Gange à Londres, au couronnement d'Édouard VII : il refusait de boire toute autre eau pendant le voyage."
+   },
+   {
+    "q": "Le City Palace est-il inclus dans le billet combiné ?",
+    "a": "**Non**, le City Palace a son propre billet (500 ₹ étrangers / 100 ₹ Indiens). Le billet combiné couvre le fort d'Amber, le Hawa Mahal, le Jantar Mantar, le fort de Nahargarh et trois autres monuments, mais pas le City Palace."
+   },
+   {
+    "q": "Combien de temps dure la visite du City Palace ?",
+    "a": "**60 à 90 minutes** pour une visite approfondie incluant toutes les galeries du musée. La collection de textiles, l'armurerie, les cours du Pritam Niwas Chowk et le Diwan-i-Khas avec ses urnes d'argent sont les temps forts. Une visite guidée ajoute beaucoup de profondeur."
+   },
+   {
+    "q": "Quel est le meilleur moment de la journée pour visiter le City Palace ?",
+    "a": "Le **matin (9h30 à 11h00)** est idéal : moins de groupes, températures plus douces et meilleure lumière pour photographier les portes de la cour Pritam Niwas Chowk. Le palais ouvre à 9h30. Évitez le milieu de journée (12h00 à 14h00), quand les cours à ciel ouvert deviennent très chaudes, surtout d'octobre à mars."
+   },
+   {
+    "q": "Peut-on voir les appartements royaux privés du City Palace ?",
+    "a": "Le **Chandra Mahal** (résidence royale privée) est partiellement accessible avec le billet premium **Royal Grandeur** (2 500 ₹ étrangers). Il comprend une visite guidée de certaines pièces des étages supérieurs, avec mobilier d'origine, peintures et vues sur la vieille ville. Le billet standard ne couvre que les galeries publiques et les cours."
+   },
+   {
+    "q": "Qu'est-ce que la Porte du Paon du City Palace ?",
+    "a": "La **Porte du Paon** est l'une des quatre portes saisonnières ornées de la cour Pritam Niwas Chowk. Elle représente l'automne et arbore de superbes mosaïques de paons bleu-vert : c'est l'endroit le plus photographié du palais. Les autres portes représentent l'été (Porte du Lotus), le printemps (Porte Verte) et l'hiver (Porte de la Rose)."
+   },
+   {
+    "q": "Le City Palace de Jaipur est-il accessible en fauteuil roulant ?",
+    "a": "L'accessibilité en fauteuil roulant est **limitée**. Les cours du rez-de-chaussée et les principales salles du musée sont accessibles par des rampes, mais certaines galeries supérieures et la visite premium du Chandra Mahal comportent des marches. Le personnel aide dans la mesure du possible. Contactez la billetterie à l'avance pour organiser une assistance."
+   },
+   {
+    "q": "Faut-il un guide pour le City Palace de Jaipur ?",
+    "a": "**Vivement recommandé.** Le palais couvre 300 ans d'histoire rajput : l'histoire des urnes d'argent Gangajali, le contexte de la collection de textiles et la portée architecturale de chaque cour prennent bien plus de sens avec un récit expert. Nos [guides de Jaipur](/india/jaipur) sont des historiens agréés par l'État, spécialistes de l'architecture palatiale."
+   },
+   {
+    "q": "Peut-on combiner le City Palace avec d'autres sites proches ?",
+    "a": "Oui, le City Palace jouxte le **Jantar Mantar** (2 minutes à pied) et se trouve à 5 minutes du **[Hawa Mahal](/india/jaipur/hawa-mahal)**. Ces trois sites forment un ensemble naturel dans la vieille ville, à couvrir en 2h30 à 3 heures. Ajoutez une balade dans les bazars voisins : Johari Bazaar pour les pierres précieuses et Bapu Bazaar pour les textiles."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
