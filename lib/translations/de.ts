@@ -773,6 +773,246 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guide und Fahrer"
   ]
  },
+ "sunrise-taj-mahal-and-agra-tour-by-car": {
+  "title": "Ab Delhi: Taj Mahal bei Sonnenaufgang und Agra mit dem Auto und Guide, mit Optionen",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang ab Delhi im Privatwagen, ohne Anstehen mit Guide",
+  "metaDescription": "Abfahrt in Delhi um 3 Uhr im klimatisierten Wagen: Taj Mahal bei Sonnenaufgang, Rotes Fort und Baby Taj mit privatem Guide, Einlass ohne Anstehen, optional 5-Sterne-Mahlzeit, zurück in Delhi gegen 16 bis 17 Uhr.",
+  "shortDescription": "Private Sonnenaufgangstour zu Taj Mahal, Rotem Fort und Baby Taj ab Delhi, mit Einlass ohne Anstehen, privatem Guide und bequemem klimatisiertem Wagen.",
+  "fullDescription": "**3:00 Uhr: Abholung am Hotel oder Flughafen in Delhi**\nIhr Fahrer bringt Sie im privaten klimatisierten Wagen nach Agra (3 bis 4 Stunden über die Autobahn).\n\n**6:15 Uhr: Sonnenaufgang am Taj Mahal**\nDas Taj Mahal im frühen Morgenlicht, erkundet mit Ihrem Guide.\n\n**8:30 Uhr: Frühstück (optionaler Stopp)**\nPause in einem lokalen Restaurant mit internationaler Küche (auf eigene Kosten, außer bei Mahlzeit-Option).\n\n**9:30 Uhr: Rotes Fort**\nGeschichte und architektonische Pracht der einstigen Residenz der Mogulkaiser.\n\n**11:00 Uhr: Itmad-ud-Daulah (Baby Taj)**\nDas exquisite Grab, das oft als Entwurf des Taj Mahal gilt.\n\n**12:30 Uhr: Rückfahrt nach Delhi** im Privatwagen.\n\n**16:00 bis 17:00 Uhr: Ankunft in Delhi** am Hotel oder Flughafen, mit unvergesslichen Erinnerungen an Agra.",
+  "highlights": [
+   "Einlass ohne Anstehen an den Monumenten",
+   "Erkundung mit einem lokalen Experten als Guide",
+   "Mahlzeit im 5-Sterne-Hotel oder Restaurant (optional)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Flughafen oder Hotel",
+   "Privater klimatisierter Wagen",
+   "Privater Guide",
+   "Eintrittskarten der Monumente (je nach Option)",
+   "Frühstück oder Mittagessen ohne Limit im 5-Sterne-Hotel (je nach Option)",
+   "Mineralwasser",
+   "Fahrerspesen",
+   "Maut und Parken"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "agra-friday-tour-taj-closed-alternative": {
+  "title": "Agra Freitags-Spezial: Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh",
+  "metaTitle": "Was tun in Agra am Freitag: Fort, Baby Taj, Mehtab Bagh mit Guide",
+  "metaDescription": "Das Taj Mahal ist freitags geschlossen. Diese Tour mit offiziellem Guide umfasst Rotes Fort, Baby Taj und den Sonnenuntergang über dem Taj vom Mehtab Bagh: die ideale Alternative.",
+  "shortDescription": "Diese Freitags-Tour umfasst eine professionell geführte Besichtigung des Roten Forts, des Baby Taj (Itimad-ud-Daulah) und einen atemberaubenden Sonnenuntergang im Mehtab Bagh. Die ideale Lösung, wenn Sie sich fragen, was man in Agra am Freitag macht, wenn das Taj Mahal geschlossen ist.",
+  "fullDescription": "**Agra Freitags-Spezial: die perfekte Alternative zum geschlossenen Taj Mahal**\n\nWer Agra an einem Freitag besucht, ist vielleicht überrascht: Das Taj Mahal ist jede Woche wegen des Gemeinschaftsgebets für Besucher geschlossen. Statt den Tag zu verlieren, erleben Sie die beste Freitags-Tour in Agra, eigens als Alternative konzipiert.\n\nBuchen Sie einen professionellen Guide für Rotes Fort, Baby Taj und den Sonnenuntergang im Mehtab Bagh, von wo der Blick auf das Taj Mahal über den Yamuna zu den schönsten der Stadt gehört. Ein perfektes Freitagsprogramm mit dem Wissen eines lokalen Experten.",
+  "highlights": [
+   "Professioneller offizieller Guide für die Freitags-Tour",
+   "Guide für Rotes Fort und Baby Taj",
+   "Die beste Freitags-Alternative zum Taj Mahal Besuch"
+  ],
+  "included": [
+   "Professioneller Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Tickets"
+  ]
+ },
+ "taj-mahal-royal-private-tour": {
+  "title": "Private königliche Luxustour zum Taj Mahal: zeitlose Eleganz",
+  "metaTitle": "Taj Mahal Luxus privat: Vorrang beim Einlass, lizenzierter Guide, privates Golfcart",
+  "metaDescription": "Private Luxustour zum Taj Mahal mit garantiertem Schnelleinlass, lizenziertem Guide, privatem Golfcart und VIP-Betreuung. Sonnenaufgang, Tag oder Sonnenuntergang nach Wahl.",
+  "shortDescription": "Private Luxustour zum Taj Mahal ohne Anstehen mit garantiertem Schnelleinlass, lizenziertem Guide und exklusivem VIP-Service. Vermeiden Sie lange Schlangen und erkunden Sie das Taj Mahal in Ruhe, mit persönlichen Erzählungen, historischen Einblicken und ausgewählten Fotostopps an den ikonischen Aussichtspunkten. Optionen Sonnenaufgang, Tag oder Sonnenuntergang, für Reisende, die Privatsphäre, Vorrang und ein Premium-Erlebnis suchen.",
+  "fullDescription": "**Private Luxustour zum Taj Mahal ohne Anstehen: das VIP-Erlebnis in Agra**\n\nErleben Sie die zeitlose Schönheit des Taj Mahal in absolutem Komfort und Exklusivität. Für Reisende, die Privatsphäre, Eleganz und reibungslosen Service schätzen, bietet diese Premium-Tour Vorrang beim Einlass, einen lizenzierten Guide und Luxustransport für einen unvergesslichen Besuch des berühmtesten Monuments Indiens.\n\nUmgehen Sie die langen Ticketschlangen und treten Sie direkt in die Welt der Mogulpracht ein. Ob Sonnenaufgang, Tag oder Sonnenuntergang: Diese Luxustour garantiert ein entspanntes Erlebnis abseits der Massen, mit persönlicher Betreuung durchgehend.\n\n**Schlangen umgehen, als VIP eintreten**\n\nDas Taj Mahal zieht jedes Jahr Millionen Besucher an. Mit dieser privaten Tour erhalten Sie vorab organisierte Tickets und Schnellzugang: mehr Zeit zum Erkunden, weniger Zeit in der Schlange.\n\nIhr staatlich lizenzierter Guide begleitet Sie durch den Vorzugseingang und vermittelt Geschichte, Architektur und die romantische Geschichte dieses UNESCO-Welterbes. Rotes Fort auf Wunsch als Zusatz.",
+  "highlights": [
+   "Private Luxustour zum Taj Mahal mit Vorrang beim Einlass",
+   "Private Führung mit lizenziertem Experten",
+   "Rotes Fort als optionaler Zusatz mit privatem Guide"
+  ],
+  "included": [
+   "Privater Guide",
+   "Privates Golfcart",
+   "Persönliche Begleitung",
+   "Reibungsloser Einlass und bevorzugte Betreuung mit dem Ticket"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Tickets"
+  ]
+ },
+ "taj-mahal-photography-tour": {
+  "title": "Taj Mahal Fototour mit professionellem Guide",
+  "metaTitle": "Taj Mahal Fototour: Profi-Guide und 25 bearbeitete Fotos",
+  "metaDescription": "Fotografieren Sie das Taj Mahal bei Sonnenaufgang und in der goldenen Stunde mit lokalem Guide und Profi-Fotograf: 25 bearbeitete Fotos inklusive, beste Winkel, Spiegelungen, Posen für Paare und Alleinreisende.",
+  "shortDescription": "Buchen Sie einen professionellen Guide für Ihre Taj Mahal Fototour und halten Sie beeindruckende Bilder bei Sonnenaufgang und in der goldenen Stunde fest. Entdecken Sie die besten Winkel, Spiegelungen und versteckten Aussichtspunkte. Ob Alleinreisender, Paar, Influencer oder Profi-Fotograf: Unser lokaler Guide sorgt für perfekte Aufnahmen und erzählt dabei die Geschichte dieses UNESCO-Welterbes.",
+  "fullDescription": "Die Tour ist besonders bei Sonnenaufgang zu empfehlen, wenn das Marmormonument in sanften Goldtönen leuchtet. Das frühe Licht schafft magische Spiegelungen in den langen Wasserkanälen, für Postkartenbilder ohne große Menschenmengen. Ihr professioneller Guide bringt Sie zu den ikonischen Fotopunkten:\n\n- Die Achse des großen Spiegelbeckens\n- Die Moscheeseite für gerahmte Aufnahmen\n- Blicke durch die symmetrischen Bögen\n- Nahaufnahmen auf der Marmorplattform\n- Gartenperspektiven für Weitwinkelaufnahmen\n\nSie erhalten außerdem Hilfe bei kreativen Posen, Paarfotos und filmischen Aufnahmen im Gehen. Ein Profi-Fotograf begleitet Sie und liefert 25 bearbeitete Fotos (weitere Fotos gegen Aufpreis).",
+  "highlights": [
+   "Professioneller lokaler Fotoguide",
+   "Beste Fotopunkte bei Sonnenaufgang und in der goldenen Stunde",
+   "Hilfe bei Posen für Paare, Alleinreisende und Familien",
+   "Die Geschichte des Taj während des Shootings"
+  ],
+  "included": [
+   "Professioneller Guide",
+   "Profi-Fotograf: 25 bearbeitete Fotos inklusive (weitere Fotos gegen Aufpreis)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Tickets"
+  ]
+ },
+ "taj-mahal-agra-fort-guided-tour": {
+  "title": "Geführte Tour Taj Mahal und Rotes Fort",
+  "metaTitle": "Taj Mahal und Rotes Fort mit lizenziertem lokalem Guide",
+  "metaDescription": "Geführte Tour durch Taj Mahal und Rotes Fort mit lizenziertem lokalem Guide: Mogul-Geschichte, Architekturgeheimnisse, beste Fotopunkte und optional Einlass ohne Anstehen.",
+  "shortDescription": "Taj Mahal und Rotes Fort mit einem lizenzierten lokalen Guide: Mogul-Geschichte, Marmorarchitektur und verborgene Geschichten auf einer reibungslosen Führung mit Einlass ohne Anstehen. Ein Erlebnis, das Sie über Generationen weitererzählen.",
+  "fullDescription": "Entdecken Sie die Schönheit von Taj Mahal und Rotem Fort auf einer Führung mit einem lizenzierten lokalen Experten. Hören Sie die zeitlose Liebesgeschichte von Kaiser Shah Jahan und bewundern Sie die feinen Marmoreinlagen dieses weltberühmten Monuments. Weiter zum Roten Fort, dem großen Mogulpalast mit herrlichem Blick auf das Taj. Historische Einblicke, Architekturgeheimnisse und ein stressfreies Erlebnis, optional mit Einlass ohne Anstehen. Wir geben alles für ein unvergessliches Erlebnis.",
+  "highlights": [
+   "Mogul-Geschichte und Liebesgeschichte ausführlich erklärt",
+   "Architekturgeheimnisse: optische Täuschungen, Symmetrietricks",
+   "Beste Fotopunkte und Zeitempfehlungen"
+  ],
+  "included": [
+   "Professioneller Guide"
+  ],
+  "notIncluded": [
+   "Tickets"
+  ]
+ },
+ "same-day-delhi-to-agra-tour": {
+  "title": "Delhi–Agra an einem Tag",
+  "metaTitle": "Ein Tag in Agra: Taj Mahal und Rotes Fort mit professionellem Guide",
+  "metaDescription": "Ganztägige Agra-Tour mit lokalem Guide: Taj Mahal zur besten Tageszeit, Rotes Fort, Marmor-Einlegekunst. Ideal bei wenig Zeit.",
+  "shortDescription": "Die zeitlose Schönheit Agras auf einer Ganztagestour zu den ikonischen Wahrzeichen der Stadt: Taj Mahal, Rotes Fort und das Mogul-Erbe mit einem kundigen lokalen Guide. Bequeme Fahrt im privaten klimatisierten Fahrzeug mit Hotelabholung. Perfekt bei wenig Zeit: architektonische Wunder, kulturelle Höhepunkte und unvergessliche Fotopunkte an einem gut geplanten Tag.",
+  "fullDescription": "Erleben Sie die Magie Agras auf einer sorgfältig zusammengestellten Tagestour zu einigen der berühmtesten Monumente Indiens. Ideal für Erstbesucher und Reisende mit wenig Zeit: Die ikonischen Sehenswürdigkeiten der Stadt, bequem und effizient.\n\nDer Tag beginnt mit der Abholung an Ihrem Hotel im privaten klimatisierten Fahrzeug. Auf der Fahrt durch die historischen Straßen Agras führt Ihr lokaler Guide in die faszinierende Geschichte des Mogulreichs ein.\n\nHöhepunkt ist das Taj Mahal, eines der sieben Weltwunder. Von Kaiser Shah Jahan zum Gedenken an seine geliebte Frau Mumtaz Mahal erbaut, ist dieses Meisterwerk aus weißem Marmor ein Symbol ewiger Liebe. Bewundern Sie die Marmoreinlagen, symmetrischen Gärten und atemberaubende Architektur. Ihr Guide zeigt verborgene Details, Geschichten und die besten Fotopunkte. Rotes Fort und die lokale Marmor-Einlegekunst runden den Tag ab.",
+  "highlights": [
+   "Das Taj Mahal zur besten Tageszeit für herrliche Aussichten",
+   "Perfekt bei wenig Zeit, um Agras Höhepunkte an einem Tag zu sehen",
+   "Lokale Marmor-Einlegekunst und traditionelle Mogulkunst"
+  ],
+  "included": [
+   "Professioneller Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "taj-mahal-same-day-tour-from-delhi": {
+  "title": "Ab Delhi: Taj Mahal Tagestour",
+  "metaTitle": "Taj Mahal ab Delhi all-inclusive: Wagen, Guide, Eintritte, 5-Sterne-Mittagessen",
+  "metaDescription": "All-inclusive-Tagestour ab Delhi: Abholung um 6 Uhr im klimatisierten Wagen, Taj Mahal, Rotes Fort, 5-Sterne-Buffet, Baby Taj und Kunsthandwerk Agras, Eintritte und Guide inklusive.",
+  "shortDescription": "All-inclusive-Tagestour ab Delhi im klimatisierten Wagen mit Chauffeur: Taj Mahal, Rotes Fort, Buffet-Mittagessen im 5-Sterne-Hotel, Baby Taj und traditionelle Kunst Agras, mit Guide und Eintritten.",
+  "fullDescription": "Abholung durch unseren Chauffeur um 6 Uhr an Ihrer Unterkunft, überall in Delhi, NCR oder Gurugram. Fahrt im klimatisierten Wagen mit Chauffeur über den Yamuna Expressway, etwa 3,5 Stunden bis Agra.\n\nIn Agra treffen Sie Ihren Guide für das wunderschöne Taj Mahal, danach das Rote Fort. Nach dem Fort Buffet-Mittagessen in einem 5-Sterne-Hotel. Am Nachmittag das prächtige Itmad-ud-Daulah, das Baby Taj, dann die traditionellen Künste Agras. Am Ende des Tages Rückfahrt nach Delhi.",
+  "highlights": [
+   "Das faszinierende Taj Mahal",
+   "Architektur und Geschichte der Moguln",
+   "All-inclusive-Führung"
+  ],
+  "included": [
+   "Klimatisierter Wagen für die Hin- und Rückfahrt",
+   "Mineralwasser",
+   "Eintrittskarten der Monumente",
+   "Persönlicher Guide",
+   "Buffet-Mittagessen im 5-Sterne-Hotel"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Getränke zum Mittagessen",
+   "Trinkgelder für Guide und Fahrer"
+  ]
+ },
+ "taj-mahal-sunrise-tour": {
+  "title": "Taj Mahal bei Sonnenaufgang ohne Anstehen mit lizenziertem Guide",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang ohne Anstehen mit lizenziertem Guide, Tickets aufs Handy",
+  "metaDescription": "Taj Mahal bei Sonnenaufgang mit Express-Einlass und staatlich lizenziertem Guide: Tickets aufs Handy, Schuhüberzieher, Wasser, Golfcart und Kameragebühr inklusive.",
+  "shortDescription": "Sehen Sie das Taj Mahal im goldenen Licht des Sonnenaufgangs leuchten, mit unserer Führung ohne Anstehen. Schneller Einlass, keine Menschenmassen und ein staatlich lizenzierter Guide, der die zeitlose Liebesgeschichte des Monuments erzählt. Beeindruckende Fotos im weichen Morgenlicht und ein ruhiger Besuch für eine unvergessliche Indienreise.",
+  "fullDescription": "Buchen Sie Ihre Taj Mahal Tickets im Voraus und gehen Sie bei Ankunft direkt hinein. Vergessen Sie das Warten in der Schlange und nutzen Sie Ihre Zeit in Agra mit einem Express-Ticket für dieses faszinierende Wahrzeichen.\n\nKommen Sie direkt zum Taj Mahal, die Tickets erhalten Sie aufs Handy. Entdecken Sie dieses UNESCO-Welterbe aus dem 17. Jahrhundert und bestaunen Sie seine kunstvolle Architektur.\n\nTauchen Sie in die lokale Geschichte ein, während Sie durch diese weltberühmte Anlage spazieren, mit Einlass ohne Warten und ohne Schlange.",
+  "highlights": [
+   "Das Taj Mahal zur schönsten Tageszeit, bei Sonnenaufgang",
+   "Stressfreier Einlass mit vorgebuchtem Ticket, keine langen Schlangen",
+   "Die Geschichte des Taj Mahal von einem lokalen Guide",
+   "Das perfekte Foto mit Hilfe Ihres Guides",
+   "Komfort mit Schuhüberziehern und einer Flasche Wasser"
+  ],
+  "included": [
+   "Englischsprachiger lizenzierter Guide nur für das Taj Mahal",
+   "Lokaler Guide für den Express-Einlass (kein Anstehen)",
+   "Eintrittskarten zum Ausländertarif (bei gewählter Option)",
+   "Mineralwasser",
+   "Schuhüberzieher",
+   "Golfcart",
+   "Kameragebühr"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Trinkgeld für den Guide",
+   "Wagen für die Stadttour (wenn die Option nicht gebucht ist)"
+  ]
+ },
+ "taj-mahal-full-day-tour": {
+  "title": "Ab Delhi: Taj Mahal und Agra als privater Tagesausflug mit Transfers",
+  "metaTitle": "Taj Mahal und Agra ab Delhi, privater Tag mit Transfers und 5-Sterne-Mittagessen",
+  "metaDescription": "Privater Tag ab Delhi, Noida oder Gurugram: Taj Mahal, Rotes Fort, Mittagessen im 5-Sterne-Hotel und Baby Taj, mit privatem Guide, klimatisiertem Wagen und Eintritt inklusive.",
+  "shortDescription": "Die Tour beginnt mit der Abholung an Ihrem Hotel oder Flughafen in Delhi, Noida oder Gurugram, dann geht es nach Agra. Dort treffen Sie Ihren privaten Guide und besuchen das Taj Mahal.",
+  "fullDescription": "Ihre private Tour beginnt mit bequemer Abholung an Ihrem Hotel oder Flughafen in Delhi, Noida oder Gurugram und einer landschaftlich schönen Fahrt nach Agra. Dort treffen Sie Ihren erfahrenen Guide und beginnen am Taj Mahal, UNESCO-Welterbe und lebendiges Monument, das leise von der Liebe des legendären Mogulkaisers Shah Jahan zu seiner Frau Mumtaz Mahal erzählt.\n\nWeiter zur zweiten Welterbestätte, dem Roten Fort. Die imposante Festung aus rotem Sandstein, 1565 von Kaiser Akbar erbaut, verbindet hinduistische und zentralasiatische Baustile und gibt Einblick in das Leben der Mogul-Herrscher.\n\nMittagspause in einem 5-Sterne-Hotel mit lokalen und internationalen Gerichten in elegantem Ambiente.\n\nDie Reise geht weiter zum zarten Grab des Itmad-ud-Daulah, dem „Baby Taj“. Aus feinem Marmor mit reichen Schnitzereien spiegelt es das künstlerische Erbe von Noor Jahans Hingabe an ihren Vater.\n\nNach einem erfüllten Tag in Agra entspannen Sie auf der Rückfahrt nach Delhi, Noida oder Gurugram mit Absetzen an Hotel oder Flughafen.",
+  "highlights": [
+   "Abholung an Ihrem Hotel oder Flughafen in Delhi, Noida oder Gurugram",
+   "Besuch des Taj Mahal",
+   "Klimatisierter Wagen"
+  ],
+  "included": [
+   "Eintrittskarte"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "food-tour-agra-food-tour": {
+  "title": "Kochkurs in Agra",
+  "metaTitle": "Indischer Kochkurs bei einer Familie in Agra",
+  "metaDescription": "Praktischer Kochkurs bei einer Familie in Agra: Chapatis, Basmatireis, Currys, Dal, Raita und Desserts, die Geheimnisse indischer Gewürze, danach gemeinsames Essen. Vegetarische, vegane und jainistische Optionen.",
+  "shortDescription": "Die Aromen Indiens in einem praktischen Kochkurs bei einer Familie in Agra: traditionelle Rezepte, indische Gewürze und ein köstliches hausgemachtes Essen.",
+  "fullDescription": "Dieser Besuch gibt einen wunderbaren Einblick in den Alltag der Menschen in Agra und die Bedeutung frischer Zutaten in der indischen Küche.\n\nIm Haus der Familie werden Sie Schritt für Schritt durch die Zubereitung mehrerer authentischer indischer Gerichte geführt, nach Rezepten, die über Generationen weitergegeben wurden: weiche handgemachte Chapatis, duftender Basmatireis, würzige Gemüsecurrys, cremiges Dal, erfrischendes Raita, knusprige Snacks und beliebte Desserts wie Kheer oder Gulab Jamun. Sie entdecken auch die Geheimnisse der indischen Gewürzmischungen, Kochmethoden und regionalen Aromen.\n\nDie interaktive Kochstunde eignet sich für alle Niveaus, vom Anfänger bis zum erfahrenen Koch. Ihr Gastgeber erklärt jede Zutat, jede Technik und jede kulturelle Tradition, damit Sie alles zu Hause nachkochen können. Fragen Sie, machen Sie Notizen, fotografieren Sie jeden Schritt.\n\nNach dem Kochen versammeln Sie sich am Tisch und genießen das Essen, das Sie mitgekocht haben. Mit einer lokalen Familie zu essen ist eine der authentischsten Arten, indische Gastfreundschaft zu erleben: Bräuche, Feste, Familientraditionen und Alltag, weit mehr als ein Kochkurs, ein echter Kulturaustausch.\n\nPerfekt für Alleinreisende, Paare, Familien mit Kindern und Freundesgruppen, die ein authentisches Erlebnis jenseits des Taj Mahal suchen. Vegetarische, vegane und jainistische Optionen auf Anfrage, Rezepte nach Ernährungswünschen anpassbar.\n\nLeicht mit Ihren Agra-Besichtigungen kombinierbar: Taj Mahal, Rotes Fort oder lokale Märkte. Optional geführter Besuch eines traditionellen Marktes, Rezepte nach dem Kurs, privates und persönliches Erlebnis.",
+  "highlights": [
+   "Authentische nordindische Gerichte bei einer lokalen Familie kochen",
+   "Die Geheimnisse indischer Gewürze und der Balance der Aromen",
+   "Praktische Kochstunde mit einem erfahrenen lokalen Gastgeber"
+  ],
+  "included": [
+   "Begrüßung mit traditionellen Getränken",
+   "Kochvorführung",
+   "Mittag- oder Abendessen mit der Familie"
+  ],
+  "notIncluded": [
+   "Nichts"
+  ]
+ },
+ "taj-mahal-conservative-guided-tour": {
+  "title": "Ab Agra: Taj Mahal und das Wildlife SOS Elefanten-Pflegezentrum",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang und gerettete Elefanten von Wildlife SOS ab Agra",
+  "metaDescription": "Taj Mahal bei Sonnenaufgang, dann Besuch des Wildlife SOS Zentrums in Mathura: gerettete Elefanten beobachten, ihre Geschichten erfahren und ihr Wohl unterstützen, ohne Reiten oder Kontakt. Privatwagen und Guide.",
+  "shortDescription": "Das Taj Mahal bei Sonnenaufgang, danach ein Pflegezentrum für gerettete Elefanten. Behutsam beobachten, ihre Geschichten und ihren Alltag kennenlernen und das Wohl der Elefanten unterstützen, ohne Reiten oder Körperkontakt.",
+  "fullDescription": "**Abfahrt in Agra**: früh am Morgen, nach dem Taj Mahal bei Sonnenaufgang, etwa eine Stunde Fahrt zum Zentrum in Mathura.\n\n**Rundgang im Zentrum**: Bei Ankunft führt Sie ein Guide durch die Anlage, erklärt die Arbeit von Wildlife SOS und stellt die geretteten Elefanten vor.\n\n**Zeit mit den Elefanten**: Beobachten Sie die Tiere, erfahren Sie mehr über ihre tägliche Pflege und helfen Sie eventuell bei kleinen Aufgaben wie der Zubereitung ihrer Mahlzeiten (je nach Paket).\n\n**Rückfahrt nach Agra** nach 2 bis 3 Stunden im Zentrum.",
+  "highlights": [
+   "Das Taj Mahal bei Sonnenaufgang, schöne Aussichten und weniger Menschen",
+   "Die Geschichte des Taj Mahal von einem lizenzierten lokalen Guide",
+   "Gerettete Elefanten verantwortungsvoll beobachten, ohne Körperkontakt",
+   "Unterstützung für Tierschutz und verantwortungsvollen Tourismus"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privater klimatisierter Wagen für die Tour",
+   "Persönlicher Guide",
+   "Maut und Parken",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Essen",
+   "Persönliche Ausgaben"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Offizieller lizenzierter Guide für das Taj Mahal",
   "metaTitle": "Offizieller Taj Mahal Guide, Einlass ohne Warteschlange",

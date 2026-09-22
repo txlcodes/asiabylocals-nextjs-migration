@@ -773,6 +773,246 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para guía y conductor"
   ]
  },
+ "sunrise-taj-mahal-and-agra-tour-by-car": {
+  "title": "Desde Delhi: Taj Mahal al amanecer y Agra en coche con guía, con opciones",
+  "metaTitle": "Taj Mahal al amanecer desde Delhi en coche privado, sin colas y con guía",
+  "metaDescription": "Salida de Delhi a las 3:00 en coche con aire acondicionado: Taj Mahal al amanecer, Fuerte de Agra y Baby Taj con guía privado, entrada sin colas, comida de 5 estrellas opcional, regreso a Delhi hacia las 16:00-17:00.",
+  "shortDescription": "Visita privada al amanecer al Taj Mahal, el Fuerte de Agra y el Baby Taj desde Delhi, con entrada sin colas, guía privado y cómodo coche con aire acondicionado.",
+  "fullDescription": "**3:00: recogida en tu hotel o en el aeropuerto de Delhi**\nTu conductor te lleva en coche privado con aire acondicionado hasta Agra (3-4 horas por autopista).\n\n**6:15: amanecer en el Taj Mahal**\nEl Taj Mahal bañado por la luz de la mañana, para explorar con tu guía.\n\n**8:30: desayuno (parada opcional)**\nPausa en un restaurante local de cocina variada (por tu cuenta, salvo opción con comida).\n\n**9:30: Fuerte de Agra**\nLa historia y la grandeza arquitectónica de la antigua residencia de los emperadores mogoles.\n\n**11:00: Itmad-ud-Daulah (Baby Taj)**\nLa exquisita tumba considerada a menudo el borrador del Taj Mahal.\n\n**12:30: regreso a Delhi** en coche privado.\n\n**16:00 a 17:00: llegada a Delhi**, a tu hotel o al aeropuerto, con recuerdos inolvidables de Agra.",
+  "highlights": [
+   "Entrada sin colas a los monumentos",
+   "Explora con un guía local experto",
+   "Comida en hotel o restaurante de 5 estrellas (opcional)"
+  ],
+  "included": [
+   "Recogida y regreso en aeropuerto u hotel",
+   "Coche privado con aire acondicionado",
+   "Guía privado",
+   "Entradas a los monumentos (según la opción elegida)",
+   "Desayuno o almuerzo ilimitado en hotel de 5 estrellas (según la opción)",
+   "Botellas de agua mineral",
+   "Dietas del conductor",
+   "Peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "agra-friday-tour-taj-closed-alternative": {
+  "title": "Agra especial viernes: fuerte, Baby Taj y atardecer en Mehtab Bagh",
+  "metaTitle": "Qué hacer en Agra un viernes: fuerte, Baby Taj, Mehtab Bagh con guía",
+  "metaDescription": "El Taj Mahal cierra los viernes. Esta visita con guía oficial cubre el Fuerte de Agra, el Baby Taj y el atardecer sobre el Taj desde Mehtab Bagh: la alternativa ideal.",
+  "shortDescription": "Esta visita especial de los viernes incluye una visita guiada profesional al Fuerte de Agra, al Baby Taj (Itimad-ud-Daulah) y un atardecer espectacular en Mehtab Bagh. La solución ideal si buscas qué hacer en Agra un viernes, cuando el Taj Mahal está cerrado.",
+  "fullDescription": "**Agra especial viernes: la alternativa perfecta al Taj Mahal cerrado**\n\nSi visitas Agra un viernes, quizá te sorprenda saber que el Taj Mahal cierra cada semana a los visitantes por la oración colectiva. En lugar de perder el día, vive la mejor visita del viernes en Agra, diseñada precisamente como alternativa.\n\nReserva un guía profesional para el Fuerte de Agra, el Baby Taj y el atardecer en Mehtab Bagh, desde donde la vista del Taj Mahal al otro lado del Yamuna sigue siendo una de las más bellas de la ciudad. Un programa de viernes perfecto, con las explicaciones de un experto local.",
+  "highlights": [
+   "Guía oficial profesional para la visita del viernes",
+   "Guía para el Fuerte de Agra y el Baby Taj",
+   "La mejor alternativa del viernes a la visita del Taj Mahal"
+  ],
+  "included": [
+   "Guía profesional"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "taj-mahal-royal-private-tour": {
+  "title": "Visita real privada de lujo al Taj Mahal: elegancia eterna",
+  "metaTitle": "Taj Mahal de lujo en privado: acceso prioritario, guía con licencia, carrito privado",
+  "metaDescription": "Visita privada de lujo al Taj Mahal con acceso rápido garantizado, guía profesional con licencia, carrito privado y acompañamiento VIP. Amanecer, día o atardecer a elegir.",
+  "shortDescription": "Visita privada de lujo al Taj Mahal sin colas con acceso rápido garantizado, guía profesional con licencia y servicio VIP exclusivo. Evita las largas colas y explora el Taj Mahal con comodidad, con relatos personalizados, datos históricos y paradas fotográficas en los miradores más emblemáticos. Opciones de amanecer, día o atardecer, para viajeros que buscan privacidad, acceso prioritario y una experiencia premium.",
+  "fullDescription": "**Visita privada de lujo al Taj Mahal sin colas: la experiencia VIP en Agra**\n\nVive la belleza eterna del Taj Mahal con total comodidad y exclusividad. Diseñada para viajeros que valoran la privacidad, la elegancia y un servicio impecable, esta visita premium ofrece entrada prioritaria, guía profesional con licencia y transporte de lujo para una visita inolvidable al monumento más emblemático de India.\n\nEvita las largas colas con la entrada sin esperas y adéntrate directamente en el mundo de la grandeza mogol. Al amanecer, de día o al atardecer, esta visita de lujo garantiza una experiencia relajada y sin multitudes, con atención personalizada en todo momento.\n\n**Sáltate las colas y entra como un VIP**\n\nEl Taj Mahal recibe millones de visitantes cada año. Con esta visita privada, tendrás entradas gestionadas de antemano y acceso rápido: más tiempo para explorar y menos para esperar.\n\nTu guía experto, con licencia del gobierno, te acompaña por la entrada prioritaria y te explica la historia, la arquitectura y la historia de amor de este sitio UNESCO. Fuerte de Agra como añadido opcional.",
+  "highlights": [
+   "Visita privada de lujo al Taj Mahal con entrada prioritaria",
+   "Visita guiada privada con guía experto con licencia",
+   "Fuerte de Agra como añadido opcional con guía privado"
+  ],
+  "included": [
+   "Guía privado",
+   "Carrito de golf privado",
+   "Asistencia de un acompañante personal",
+   "Entrada fluida y apoyo prioritario con la entrada"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "taj-mahal-photography-tour": {
+  "title": "Tour fotográfico del Taj Mahal con guía profesional",
+  "metaTitle": "Tour fotográfico del Taj Mahal: guía profesional y 25 fotos editadas",
+  "metaDescription": "Fotografía el Taj Mahal al amanecer y en la hora dorada con guía local y fotógrafo profesional: 25 fotos editadas incluidas, mejores ángulos, reflejos y poses en pareja o en solitario.",
+  "shortDescription": "Reserva un guía profesional para tu tour fotográfico del Taj Mahal y captura imágenes impresionantes al amanecer y en la hora dorada. Descubre los mejores ángulos, los reflejos y los miradores ocultos. Viajero solo, pareja, creador o fotógrafo profesional, nuestro guía local te asegura fotos perfectas mientras te cuenta la historia de este sitio UNESCO.",
+  "fullDescription": "La visita se recomienda especialmente al amanecer, cuando el monumento de mármol brilla con suaves tonos dorados. La luz de la mañana crea reflejos mágicos en los largos estanques, con fotos de postal sin multitudes. Tu guía profesional te lleva a los puntos fotográficos más emblemáticos:\n\n- El eje del gran estanque con reflejos\n- El lado de la mezquita para encuadres\n- Las vistas enmarcadas por los arcos simétricos\n- Los primeros planos en la plataforma de mármol\n- Las perspectivas de los jardines para planos amplios\n\nTambién recibirás ayuda con poses creativas, fotografía de pareja y tomas cinematográficas caminando. Un fotógrafo profesional te acompaña y te entrega 25 fotos editadas (fotos adicionales con coste extra).",
+  "highlights": [
+   "Guía fotográfico local profesional",
+   "Los mejores puntos al amanecer y en la hora dorada",
+   "Ayuda con poses en pareja, en solitario y en familia",
+   "La historia del Taj contada durante la sesión"
+  ],
+  "included": [
+   "Guía profesional",
+   "Fotógrafo profesional: 25 fotos editadas incluidas (fotos adicionales con coste extra)"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "taj-mahal-agra-fort-guided-tour": {
+  "title": "Visita guiada al Taj Mahal y al Fuerte de Agra",
+  "metaTitle": "Taj Mahal y Fuerte de Agra con un guía local con licencia",
+  "metaDescription": "Visita guiada al Taj Mahal y al Fuerte de Agra con un guía local con licencia: historia mogol, secretos de arquitectura, mejores puntos para fotos y acceso sin colas opcional.",
+  "shortDescription": "El Taj Mahal y el Fuerte de Agra con un guía local con licencia: historia mogol, arquitectura de mármol e historias ocultas en una visita guiada fluida con acceso sin colas. Una experiencia para contar durante generaciones.",
+  "fullDescription": "Descubre la belleza del Taj Mahal y del Fuerte de Agra en una visita guiada por un experto local con licencia. Conoce la eterna historia de amor del emperador Shah Jahan y admira las finas incrustaciones de mármol de este monumento mundialmente famoso. Continúa hacia el Fuerte de Agra, el gran palacio mogol con vistas espectaculares al Taj. Datos históricos, secretos de arquitectura y una experiencia sin complicaciones, con acceso sin colas opcional. Haremos todo lo posible para que vivas una experiencia inolvidable.",
+  "highlights": [
+   "La historia mogol y la historia de amor explicadas a fondo",
+   "Secretos de arquitectura: ilusiones ópticas y trucos de simetría",
+   "Los mejores puntos para fotos y consejos de horarios"
+  ],
+  "included": [
+   "Guía profesional"
+  ],
+  "notIncluded": [
+   "Entradas"
+  ]
+ },
+ "same-day-delhi-to-agra-tour": {
+  "title": "Delhi–Agra en el mismo día",
+  "metaTitle": "Un día en Agra: Taj Mahal y Fuerte de Agra con guía profesional",
+  "metaDescription": "Día completo en Agra con un guía local: Taj Mahal a la mejor hora del día, Fuerte de Agra y artesanía de incrustación en mármol. Ideal si tienes poco tiempo.",
+  "shortDescription": "La belleza eterna de Agra en un día completo que cubre los lugares más emblemáticos de la ciudad: el Taj Mahal, el Fuerte de Agra y el patrimonio mogol con un guía local experto. Viaje cómodo en vehículo privado con aire acondicionado y recogida en el hotel. Perfecto para viajeros con poco tiempo: maravillas arquitectónicas, hitos culturales y lugares para fotos inolvidables en un día bien planificado.",
+  "fullDescription": "Vive la magia de Agra en un día cuidadosamente diseñado que te pone frente a algunos de los monumentos más célebres de India. Ideal para quienes visitan por primera vez y viajeros con poco tiempo, cubre los lugares emblemáticos de la ciudad con comodidad y eficacia.\n\nEl día empieza con una cómoda recogida en tu hotel en vehículo privado con aire acondicionado. Mientras recorres las calles históricas de Agra, tu guía local te introduce en la fascinante historia del Imperio mogol.\n\nLo más destacado es el Taj Mahal, una de las siete maravillas del mundo. Construido por el emperador Shah Jahan en memoria de su amada esposa Mumtaz Mahal, esta obra maestra de mármol blanco es símbolo del amor eterno. Admira sus incrustaciones de mármol, sus jardines simétricos y su arquitectura impresionante. Tu guía revela los detalles ocultos, las historias y los mejores puntos para fotos. El Fuerte de Agra y la artesanía local de incrustación en mármol completan el día.",
+  "highlights": [
+   "El Taj Mahal a la mejor hora del día para vistas impresionantes",
+   "Perfecto para viajeros con poco tiempo que quieren lo mejor de Agra en un día",
+   "La artesanía local de incrustación en mármol y el arte mogol tradicional"
+  ],
+  "included": [
+   "Guía profesional"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "taj-mahal-same-day-tour-from-delhi": {
+  "title": "Desde Delhi: Taj Mahal en el día",
+  "metaTitle": "Taj Mahal desde Delhi todo incluido: coche, guía, entradas y almuerzo de 5 estrellas",
+  "metaDescription": "Día todo incluido desde Delhi: recogida a las 6:00 en coche con aire acondicionado, Taj Mahal, Fuerte de Agra, almuerzo buffet de 5 estrellas, Baby Taj y artesanía de Agra, con entradas y guía.",
+  "shortDescription": "Día todo incluido desde Delhi en coche con aire acondicionado y chófer: Taj Mahal, Fuerte de Agra, almuerzo buffet en hotel de 5 estrellas, Baby Taj y artes tradicionales de Agra, con guía y entradas.",
+  "fullDescription": "Recogida por nuestro chófer a las 6:00 en tu alojamiento, en cualquier punto de Delhi, NCR o Gurugram. Viaje en coche con aire acondicionado y chófer por la Yamuna Expressway, unas 3,5 horas hasta Agra.\n\nA la llegada, encuentro con tu guía para visitar el precioso Taj Mahal y después el Fuerte de Agra. Tras el fuerte, almuerzo buffet en un hotel de 5 estrellas. Por la tarde, visita al espléndido Itmad-ud-Daulah, el Baby Taj, y después las artes tradicionales de Agra. Regreso a Delhi al final del día.",
+  "highlights": [
+   "El fascinante Taj Mahal",
+   "La arquitectura y la historia de los mogoles",
+   "Visita guiada todo incluido"
+  ],
+  "included": [
+   "Coche con aire acondicionado para la ida y vuelta",
+   "Botellas de agua mineral",
+   "Entradas a los monumentos",
+   "Guía en persona",
+   "Almuerzo buffet en hotel de 5 estrellas"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Bebidas en el almuerzo",
+   "Propinas para guía y conductor"
+  ]
+ },
+ "taj-mahal-sunrise-tour": {
+  "title": "Taj Mahal al amanecer sin colas con guía autorizado",
+  "metaTitle": "Taj Mahal al amanecer sin colas con guía autorizado, entradas en el móvil",
+  "metaDescription": "Visita al Taj Mahal al amanecer con entrada exprés y guía autorizado por el gobierno: entradas enviadas a tu móvil, cubrezapatos, agua, carrito y tasa de cámara incluidos.",
+  "shortDescription": "Mira cómo el Taj Mahal brilla con la luz dorada del amanecer en nuestra visita guiada sin colas. Entrada rápida, sin multitudes y un guía autorizado por el gobierno que cuenta la eterna historia de amor del monumento. Fotos impresionantes con la suave luz de la mañana y una visita tranquila para un viaje a India inolvidable.",
+  "fullDescription": "Reserva tus entradas al Taj Mahal con antelación y entra directamente a la llegada. Olvida las esperas en la cola y aprovecha al máximo tu tiempo en Agra con una entrada exprés a este fascinante monumento.\n\nLlega directamente al Taj Mahal con las entradas enviadas a tu móvil. Descubre este sitio Patrimonio de la Humanidad del siglo XVII y admira su elaborada arquitectura.\n\nSumérgete en la historia local mientras paseas por este conjunto mundialmente famoso, con entrada sin colas y sin esperas.",
+  "highlights": [
+   "El Taj Mahal en su momento más bello, al amanecer",
+   "Entrada sin complicaciones con entrada reservada y sin largas colas",
+   "La historia del Taj Mahal contada por un guía local",
+   "La foto perfecta con la ayuda de tu guía",
+   "Comodidad con cubrezapatos y una botella de agua"
+  ],
+  "included": [
+   "Guía autorizado en inglés solo para el Taj Mahal",
+   "Guía local para la entrada exprés (sin colas)",
+   "Entradas de tarifa extranjera (si se elige la opción)",
+   "Agua mineral",
+   "Cubrezapatos",
+   "Carrito de golf",
+   "Tasa de cámara"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propina del guía",
+   "Coche para la visita de la ciudad (si no se reserva la opción)"
+  ]
+ },
+ "taj-mahal-full-day-tour": {
+  "title": "Desde Delhi: Taj Mahal y Agra en día privado con traslados",
+  "metaTitle": "Taj Mahal y Agra desde Delhi, día privado con traslados y almuerzo de 5 estrellas",
+  "metaDescription": "Día privado desde Delhi, Noida o Gurugram: Taj Mahal, Fuerte de Agra, almuerzo en hotel de 5 estrellas y Baby Taj, con guía privado, coche con aire acondicionado y entrada incluida.",
+  "shortDescription": "La visita empieza con la recogida en tu hotel o en el aeropuerto de Delhi, Noida o Gurugram, y salida hacia Agra. A la llegada, encuentro con tu guía privado y visita al Taj Mahal.",
+  "fullDescription": "Tu visita privada empieza con una cómoda recogida en tu hotel o en el aeropuerto de Delhi, Noida o Gurugram, seguida de un pintoresco trayecto hasta Agra. A la llegada, conoces a tu guía experto y empiezas en el Taj Mahal, Patrimonio de la Humanidad y monumento vivo que susurra el amor del legendario emperador mogol Shah Jahan por su esposa Mumtaz Mahal.\n\nContinúa hacia el segundo sitio UNESCO, el Fuerte de Agra. Esta imponente fortaleza de arenisca roja, construida por el emperador Akbar en 1565, combina estilos arquitectónicos hindú y centroasiático y ofrece una mirada a la vida de la realeza mogol.\n\nPausa para almorzar en un hotel de 5 estrellas, con una variedad de platos locales e internacionales en un entorno elegante.\n\nEl recorrido continúa hasta la delicada tumba de Itmad-ud-Daulah, el «Baby Taj». Tallada en mármol fino y rica en detalles, refleja el legado artístico de la devoción de Noor Jahan por su padre.\n\nTras un día completo descubriendo las maravillas de Agra, relájate en el regreso a Delhi, Noida o Gurugram, con llegada a tu hotel o al aeropuerto.",
+  "highlights": [
+   "Recogida en tu hotel o en el aeropuerto de Delhi, Noida o Gurugram",
+   "Visita al Taj Mahal",
+   "Coche con aire acondicionado"
+  ],
+  "included": [
+   "Entrada"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "food-tour-agra-food-tour": {
+  "title": "Clases de cocina en Agra",
+  "metaTitle": "Clase de cocina india con una familia local de Agra",
+  "metaDescription": "Clase de cocina práctica con una familia de Agra: chapatis, arroz basmati, currys, dal, raita y postres, los secretos de las especias indias y después comida compartida. Opciones vegetarianas, veganas y jainistas.",
+  "shortDescription": "Los sabores de India en una clase de cocina práctica con una familia local de Agra: recetas tradicionales, especias indias y una deliciosa comida casera.",
+  "fullDescription": "Esta experiencia ofrece una maravillosa mirada a la vida diaria de los habitantes de Agra y a la importancia de los ingredientes frescos en la cocina india.\n\nEn casa de la familia, te guiarán paso a paso en la preparación de varios platos indios auténticos, con recetas transmitidas de generación en generación: chapatis suaves hechos a mano, fragante arroz basmati, currys de verduras, dal cremoso, raita refrescante, aperitivos crujientes y postres populares como el kheer o el gulab jamun. También descubrirás los secretos de las mezclas de especias, los métodos de cocción y los sabores regionales.\n\nEsta sesión interactiva es para todos los niveles, desde principiantes hasta cocineros experimentados. Tu anfitrión explica cada ingrediente, técnica y tradición cultural para que puedas recrearlo en casa. Pregunta, toma notas y fotografía cada paso.\n\nDespués de cocinar, siéntate a la mesa y disfruta de la comida que has ayudado a preparar. Compartir la comida con una familia local es una de las formas más auténticas de vivir la hospitalidad india: costumbres, festivales, tradiciones familiares y vida cotidiana, mucho más que una clase de cocina, un verdadero intercambio cultural.\n\nPerfecta para viajeros solos, parejas, familias con niños y grupos de amigos que buscan una experiencia auténtica más allá del Taj Mahal. Opciones vegetarianas, veganas y jainistas bajo petición, con recetas adaptables a tus preferencias.\n\nSe combina fácilmente con tus visitas en Agra: Taj Mahal, Fuerte de Agra o mercados locales. Visita guiada opcional a un mercado tradicional, recetas compartidas tras la clase, experiencia privada y personalizada.",
+  "highlights": [
+   "Aprende a cocinar platos auténticos del norte de India en casa de una familia local",
+   "Los secretos de las especias indias y cómo equilibrar los sabores",
+   "Sesión práctica guiada por un anfitrión local experimentado"
+  ],
+  "included": [
+   "Bienvenida con bebidas tradicionales",
+   "Demostración de cocina",
+   "Almuerzo o cena con la familia"
+  ],
+  "notIncluded": [
+   "Nada"
+  ]
+ },
+ "taj-mahal-conservative-guided-tour": {
+  "title": "Desde Agra: Taj Mahal y centro de cuidado de elefantes Wildlife SOS",
+  "metaTitle": "Taj Mahal al amanecer y elefantes rescatados de Wildlife SOS desde Agra",
+  "metaDescription": "Taj Mahal al amanecer y después visita al centro Wildlife SOS de Mathura: observa elefantes rescatados, conoce sus historias y apoya su bienestar, sin montar ni tocar. Coche privado y guía.",
+  "shortDescription": "El Taj Mahal al amanecer y después un centro de cuidado de elefantes rescatados. Obsérvalos con respeto, conoce sus historias y su día a día y apoya el bienestar de los elefantes, sin montar ni contacto físico.",
+  "fullDescription": "**Salida de Agra**: temprano por la mañana, tras el Taj Mahal al amanecer, aproximadamente una hora en coche hasta el centro, situado en Mathura.\n\n**Visita al centro**: a la llegada, un guía te muestra las instalaciones, explica el trabajo de Wildlife SOS y te presenta a los elefantes rescatados.\n\n**Tiempo con los elefantes**: obsérvalos, conoce sus rutinas de cuidado diario y ayuda incluso en pequeñas tareas como preparar sus comidas (según el paquete).\n\n**Regreso a Agra** tras 2-3 horas en el centro.",
+  "highlights": [
+   "El Taj Mahal al amanecer, vistas impresionantes y menos gente",
+   "La historia del Taj Mahal con un guía local con licencia",
+   "Elefantes rescatados observados con responsabilidad, sin contacto físico",
+   "Apoyo al bienestar animal y al turismo responsable"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Coche privado con aire acondicionado para la visita",
+   "Guía en persona",
+   "Peajes y aparcamiento",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida",
+   "Gastos personales"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Guía oficial autorizado para el Taj Mahal",
   "metaTitle": "Guía oficial del Taj Mahal, entrada sin colas",
