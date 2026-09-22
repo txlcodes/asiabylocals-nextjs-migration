@@ -1880,6 +1880,107 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "À **Agra Cantt (Cantonment)**, la gare principale d'Agra. De là, la porte ouest du Taj Mahal est à environ 10 minutes en auto-rickshaw (80 à 100 ₹) et le fort d'Agra à 8 minutes (60 à 80 ₹). Uber et Ola sont aussi disponibles."
    }
   ]
+ },
+ "agra-travel-guide-2026": {
+  "title": "Guide de voyage Agra 2026 : la masterclass complète du voyageur",
+  "description": "Guide de voyage Agra 2026 : histoire moghole, stratégie pour le Taj Mahal, fort d'Agra, street food, bazars, conseils photo et planification saisonnière.",
+  "fastFacts": [
+   {
+    "icon": "Map",
+    "label": "Durée conseillée",
+    "value": "3 jours"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Budget quotidien",
+    "value": "3 500 à 7 000 ₹"
+   },
+   {
+    "icon": "Star",
+    "label": "Culture",
+    "value": "Capitale de l'héritage moghol"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Brève histoire d'Agra, héritage moghol",
+    "content": "Agra a acquis sa renommée internationale au XVIe siècle, quand l'Empire moghol y a transféré son siège du pouvoir depuis Delhi. Sous Akbar, Jahangir et Shah Jahan, la ville a connu une révolution architecturale qui a redessiné la silhouette du nord de l'Inde.\n\n**Les trois grandes ères :**\n- **L'ère du grès rouge (Akbar) :** les murailles massives du fort d'Agra et la ville expérimentale de Fatehpur Sikri. Une période tournée vers la défense et les structures audacieuses.\n- **L'ère de transition (Jahangir) :** visible dans la tombe d'Itimad-ud-Daula, où s'opère le passage du grès au marbre et où naissent les premières incrustations complexes de pierres semi-précieuses.\n- **L'ère du marbre blanc (Shah Jahan) :** son apogée avec le Taj Mahal, où symétrie et expression émotionnelle guident la construction.\n\nAujourd'hui, Agra n'est pas qu'une étape touristique : c'est le cœur spirituel et historique de l'Asie du Sud, où un artisanat séculaire prospère encore dans les ruelles de la vieille ville."
+   },
+   {
+    "title": "Les incontournables de la saison 2026",
+    "content": "Dans une ville aussi dense historiquement qu'Agra, la logistique se prépare avec soin. Le climat est impitoyable. La haute saison va d'[octobre à mars](/india/agra/taj-mahal-opening-time), avec des températures diurnes agréables de 20 à 25 °C. En été, parcourir la ville relève de l'endurance : le reflet du marbre blanc du [Taj Mahal](/india/agra/things-to-do-in-agra) peut être aveuglant et le grès du [fort d'Agra](/india/agra/places-to-visit-in-agra) se traverse comme un four.\n\nSi vous devez venir en été, adoptez la stratégie de l'itinéraire fractionné : visites de 5h30 à 10h30, repli à l'hôtel climatisé pendant la chaleur de l'après-midi, nouvelle sortie après 16h30. Comprendre les transports est tout aussi crucial. Agra est reliée à Delhi par l'ultra-rapide Gatimaan Express ([100 minutes seulement](/india/agra/1-day-agra-itinerary)), mais les transports locaux demandent du tact.\n\nÉvitez les auto-rickshaws postés devant les grandes gares comme Agra Cantt : ils fonctionnent à la commission et emmènent les touristes dans des emporiums aux prix gonflés. Privilégiez les applications comme Uber et Ola, aux tarifs transparents et au suivi GPS. Pour les journées multi-monuments, un taxi climatisé à la journée via une agence locale enregistrée est de loin le plus efficace : vous pouvez faire un détour par les adresses gourmandes cachées de la vieille ville sans renégocier sans cesse le prix."
+   },
+   {
+    "title": "L'art de l'incrustation de marbre (pietra dura)",
+    "content": "L'âme d'Agra réside dans le « Parchin Kari », l'incrustation de marbre. Les descendants des artisans du Taj Mahal tiennent encore des ateliers dans les ruelles derrière Taj Ganj.\n\nQuand vous voyez un motif floral sur le Taj, vous voyez du lapis-lazuli, de la cornaline et de l'onyx découpés en lamelles microscopiques et sertis dans le marbre blanc avec une colle naturelle secrète.\n\n**Conseil d'expert :** pour distinguer le vrai marbre de la stéatite (piège classique), versez une goutte d'eau sur la surface. Le vrai marbre blanc de Makrana n'est pas poreux et ne change pas de couleur ; la stéatite absorbe l'eau et fonce aussitôt."
+   },
+   {
+    "title": "Agra au-delà du Taj : l'expérience Sadar Bazaar",
+    "content": "Pour vivre la ville comme un habitant, allez à Sadar Bazaar après 18h. C'est le cœur commerçant de la ville, où l'odeur des kebabs grillés se mêle aux enseignes lumineuses des boutiques de chaussures (Agra est un pôle mondial du cuir).\n\n**Guide shopping :**\n- **Cuir :** les emporiums agréés par l'État pour l'artisanat haut de gamme, ou le marché aux chaussures pour des bottes en cuir faites main à prix imbattables.\n- **La piste du petha :** « Panchi Petha », la marque la plus célèbre de la ville. Goûtez l'angoori petha (en forme de raisin), juteux et riche en tradition.\n- **Street food :** ne manquez pas la « Chaat Gali », pour goûter les en-cas les plus épicés et savoureux du nord de l'Inde dans un cadre sûr à fort débit."
+   },
+   {
+    "title": "Astuces photo : capturer la perspective 2026",
+    "content": "Les règles photo à Agra sont strictes. Trépieds et équipements vidéo professionnels exigent des permis de l'ASI demandés des mois à l'avance.\n\n**Pour le voyageur au smartphone ou compact :**\n- **La diagonale :** ne restez pas devant la porte principale. Allez à la mosquée (ouest) ou à la maison d'hôtes (est) pour des photos « encadrées » par les arches de grès rouge.\n- **Le miroir d'eau :** le grand bassin est souvent vidé pour entretien. S'il est à sec, cherchez les petites fontaines latérales pour des reflets similaires.\n- **Consignes :** aucun appareil électronique n'est admis à part appareil photo, téléphone et batterie externe. Laissez ordinateurs et chargeurs à l'hôtel ou utilisez les consignes autorisées de la porte est."
+   },
+   {
+    "title": "Stratégie des portes d'entrée : est, ouest ou sud",
+    "content": "Le choix de la porte est décisif pour votre matinée. La porte est est privilégiée par les hôtels de luxe comme l'Oberoi, mais la porte ouest fait souvent avancer la foule plus vite au moment précis du lever du soleil. La porte sud sert surtout à la sortie, mais ses ruelles étroites offrent le regard le plus authentique sur la vie locale de Taj Ganj."
+   },
+   {
+    "title": "Les femmes dans l'histoire moghole : le contexte du zenana",
+    "content": "Pour comprendre la logique d'Agra, il faut comprendre le **zenana**. Les impératrices mogholes n'étaient pas de simples résidentes : c'étaient des entités politiques puissantes. Les visites guidées par des femmes à Agra sont précieuses pour qui veut approfondir cette dimension, avec sécurité et confort. Ces guides expliquent comment le zenana était un centre d'administration, de poésie et de commerce, et éclairent l'influence des femmes qui définit l'histoire profonde de l'empire, au-delà des murs de marbre."
+   },
+   {
+    "title": "FAQ pratique : la logistique du Taj Mahal",
+    "content": "**Q : Combien de temps dure une visite du Taj Mahal ?**\nEn général 2 à 3 heures : contrôle de sécurité, récit du guide, observation des incrustations, photos et exploration de la plate-forme du mausolée. Avec le fort d'Agra, comptez 5 à 6 heures. Voyez notre [itinéraire d'une journée](/india/agra/1-day-agra-itinerary). En haute saison (octobre à mars), les files ajoutent du temps ; les visites à l'aube sont plus rapides et moins fréquentées.\n\n**Q : Le Taj Mahal est-il fermé le vendredi ?**\nOui. Le [Taj Mahal est strictement fermé](/india/agra/is-taj-mahal-closed-on-friday) tous les vendredis pour la prière. Il ouvre du lever au coucher du soleil tous les autres jours, jours fériés compris.\n\n**Q : Peut-on visiter le Taj Mahal la nuit ?**\nOui, des visites nocturnes limitées sont autorisées à certaines dates autour de la pleine lune (sauf le vendredi et pendant le ramadan). Billets à réserver 24 heures à l'avance au bureau de l'ASI.\n\n**Q : Les trépieds sont-ils autorisés ?**\nNon, strictement interdits pour des raisons de sécurité. Pour des prises stables, utilisez un rebord ou un coussin, mais évitez tout ce qui ressemble à du matériel vidéo professionnel.\n\n**Q : Le passeport est-il obligatoire ?**\nLes visiteurs étrangers doivent présenter leur passeport original ou une copie numérique lisible. Les citoyens indiens présentent une pièce d'identité officielle.\n\n**Q : Les visites au lever du soleil valent-elles la peine ?**\nOui, c'est le meilleur moment. Voyez notre [guide des horaires](/india/agra/taj-mahal-opening-time). Le marbre s'illumine d'or et la foule est bien moindre qu'à midi."
+   },
+   {
+    "title": "Sécurité et conseils pratiques",
+    "content": "**Q : Agra est-elle sûre pour les voyageurs solo ?**\nAgra est globalement sûre, surtout dans les zones des monuments et des hôtels. Guides vérifiés, éviter les zones isolées la nuit et transports de confiance comme Uber assurent un séjour confortable.\n\n**Q : Comment éviter les arnaques ?**\nAchetez les billets uniquement aux guichets officiels ou sur des plateformes vérifiées. Ignorez les inconnus qui affirment qu'un monument est « fermé aujourd'hui ». Utilisez des guides licenciés et des transports réservés à l'avance.\n\n**Q : Que sont les « lapka » ?**\n« Lapka » désigne en argot local les rabatteurs agressifs qui abordent les touristes. Ignorez les offres non sollicitées et fiez-vous aux professionnels licenciés.\n\n**Q : L'eau du robinet est-elle potable ?**\nNon. L'eau minérale en bouteille est partout disponible et bon marché.\n\n**Q : Faut-il des espèces ?**\nBeaucoup d'hôtels acceptent la carte, mais les petites boutiques et les marchés préfèrent le liquide. Ayez de petites coupures de roupies.\n\n**Q : Y a-t-il des vaches dans les rues ?**\nOui, parfois dans les vieux quartiers. Elles sont calmes et la circulation s'adapte naturellement."
+   },
+   {
+    "title": "Masterclass culinaire d'Agra",
+    "content": "**Q : Que goûter à Agra ?**\nAgra est réputée pour la cuisine moghole et les douceurs traditionnelles : le **petha**, le **bedai** avec aloo sabzi au petit-déjeuner et les kebabs à l'ancienne.\n\n**Q : Où goûter le keeme ki kachori ?**\nLe **keeme ki kachori**, feuilleté frit croustillant farci de viande de buffle hachée épicée, est un incontournable pour les gourmands. On le trouve tôt le matin juste à côté de **Joney's Place** à Tajganj. Venez entre 6h et 9h avant la rupture de stock.\n\n**Q : La street food est-elle sûre ?**\nOui en général, en choisissant des vendeurs populaires et fréquentés. Les plats cuits à la commande et servis chauds sont les plus sûrs.\n\n**Q : Les options végétariennes sont-elles courantes ?**\nOui. Agra regorge d'options végétariennes pour des raisons culturelles et religieuses. La plupart des restaurants sont entièrement végétariens ou signalent clairement leurs plats végétariens."
+   },
+   {
+    "title": "Stratégie saisonnière et planification",
+    "content": "**Q : Quel est le meilleur mois pour visiter Agra ?**\nOctobre à mars est la période la plus confortable. Les matins d'hiver peuvent être brumeux : vérifiez la visibilité si vous réservez un créneau à l'aube en janvier.\n\n**Q : Quelle chaleur en été ?**\nD'avril à juin, les températures dépassent 40 °C. Les visites matinales sont indispensables.\n\n**Q : Y a-t-il du brouillard en hiver ?**\nOui, un brouillard dense est fréquent les matins de décembre et janvier, retardant parfois la visibilité jusqu'en milieu de matinée.\n\n**Q : Comment est la circulation ?**\nDense près des monuments. La zone du Taj Mahal utilise des parkings dédiés et des navettes électriques pour limiter la pollution.\n\n**Q : Combien de jours prévoir ?**\nUne journée complète suffit pour le Taj et le fort. Deux jours permettent le Baby Taj, Mehtab Bagh et la vieille ville.\n\n**Q : Comment aller de Delhi à Agra ?**\nLe Gatimaan Express est le train le plus rapide (100 minutes). Les voitures privées par la Yamuna Expressway prennent 3 à 4 heures."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Agra est-elle sûre pour les voyageurs solo ?",
+    "a": "Oui, Agra est globalement sûre pour les voyageurs solo, **y compris les femmes seules**. Logez dans des zones bien notées comme Taj East Gate Road. Utilisez Uber ou Ola (évitez de négocier avec les auto-rickshaws la nuit). Les zones des monuments sont bien surveillées par les gardes CISF. Un [guide local licencié](/india/agra) ajoute sécurité et profondeur à l'expérience."
+   },
+   {
+    "q": "Comment éviter la foule au Taj Mahal ?",
+    "a": "Arrivez à la porte est vers **5h30** : les 30 premières minutes après l'ouverture sont la seule fenêtre pour photographier sans foule. Sinon, visitez en **intersaison** (octobre-novembre ou février-mars), moins dense que le pic de décembre-janvier."
+   },
+   {
+    "q": "Comment aller de Delhi à Agra ?",
+    "a": "Le **[Gatimaan Express](/india/agra/agra-gatimaan-entry-ticket)** est le train le plus rapide (100 minutes, 750 à 1 500 ₹). Les voitures privées par la Yamuna Expressway prennent 3 à 4 heures (3 000 à 5 000 ₹ l'aller). Uber existe mais reste peu fiable sur longue distance. Pour une excursion sans tracas, nos [visites Delhi–Agra](/india/delhi) incluent transport climatisé, guide et tous les billets."
+   },
+   {
+    "q": "Que manger à Agra ?",
+    "a": "La cuisine moghole d'Agra est légendaire : **petha** (confiserie translucide de courge cendrée, essayez la version safran), **bedai et jalebi** (le petit-déjeuner classique), **paratha moghol**, butter chicken sur les toits-terrasses avec vue sur le Taj et **lassi** de Sadar Bazaar. Le marché aux épices de **Kinari Bazaar** vaut le détour."
+   },
+   {
+    "q": "Quel est le meilleur mois pour visiter Agra ?",
+    "a": "**D'octobre à mars**. Octobre-novembre : journées chaudes et ciel clair. Décembre-janvier : haute saison, brouillard matinal possible. Février-mars : meilleure visibilité et températures agréables. Évitez avril à juin, quand le thermomètre dépasse 45 °C."
+   },
+   {
+    "q": "Peut-on visiter Agra en une journée ?",
+    "a": "Oui, un [itinéraire d'une journée](/india/agra/1-day-agra-itinerary) bien planifié couvre le Taj Mahal (aube), le fort d'Agra (matin), un déjeuner avec vue sur le Taj, le Baby Taj (après-midi) et Mehtab Bagh (coucher du soleil). Une nuit sur place permet toutefois un rythme plus détendu, avec bazars et street food."
+   },
+   {
+    "q": "Que ne pas apporter au Taj Mahal ?",
+    "a": "**Objets interdits** : gros sacs à dos, trépieds, briquets, tabac, nourriture, batteries externes et livres. Les consignes aux portes sont lentes et limitées : laissez ces objets à l'hôtel. Prenez seulement téléphone, appareil photo, bouteille d'eau et billet numérique réservé (téléchargé hors ligne)."
+   },
+   {
+    "q": "Agra vaut-elle la visite au-delà du Taj Mahal ?",
+    "a": "Absolument. Agra fut la **capitale de l'Empire moghol** et offre bien plus : le fort d'Agra (forteresse UNESCO de 38 hectares), Itimad-ud-Daula (le Baby Taj, précurseur architectural du Taj), Fatehpur Sikri (la capitale fantôme d'Akbar à 40 km), le marché aux épices de Kinari Bazaar et les ateliers de pietra dura. Deux jours permettent de tout voir."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
