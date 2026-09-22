@@ -3485,6 +3485,191 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée des monuments",
    "Déjeuner et dîner"
   ]
+ },
+ "city-palace-heritage-full-day-tour": {
+  "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
+  "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
+  "metaDescription": "Journée guidée à Udaipur en voiture privée : City Palace, temple Jagdish, Saheliyon ki Bari, lac Fateh Sagar et balade en bateau sur le lac Pichola.",
+  "shortDescription": "Visitez le magnifique City Palace d'Udaipur, l'un des plus grands complexes palatiaux du Rajasthan. Explorez ses grandes cours, ses balcons ouvragés et ses musées royaux, avec une vue panoramique sur le lac Pichola.",
+  "fullDescription": "1. Prise en charge à l'hôtel et présentation de la ville\nLa journée commence par une prise en charge confortable à votre hôtel d'Udaipur. Vous rencontrez votre guide local professionnel, qui vous présente brièvement l'histoire, la culture et l'héritage royal de la ville avant de commencer la visite.\n\n2. Découverte du City Palace\nVisitez le magnifique City Palace d'Udaipur, l'un des plus grands complexes palatiaux du Rajasthan. Explorez ses grandes cours, ses balcons ouvragés et ses musées royaux, avec une vue panoramique sur le lac Pichola.\n\n3. Balade en bateau sur le lac Pichola (en option)\nDirection le paisible lac Pichola. Vous pouvez opter pour une promenade en bateau qui longe des sites emblématiques comme le Jag Mandir et le célèbre Lake Palace, avec de belles occasions de photos.\n\n4. Le temple Jagdish\nVous poursuivez vers le temple Jagdish, bel édifice de style indo-aryen dédié au dieu Vishnou. Admirez ses sculptures minutieuses et son atmosphère spirituelle.\n\n5. Pause déjeuner (libre)\nSavourez un bon déjeuner dans un restaurant local (à vos frais). Votre guide peut vous conseiller selon vos envies, cuisine rajasthanie traditionnelle ou carte variée.\n\n6. Saheliyon Ki Bari\nAprès le déjeuner, visitez le Saheliyon-ki-Bari, le jardin des Demoiselles. Parcourez des jardins verdoyants, des bassins de lotus, des pavillons de marbre et d'élégantes fontaines.\n\n7. Le lac Fateh Sagar\nRoute vers le lac Fateh Sagar, un site pittoresque entouré de collines. Profitez du calme et de belles vues sur le lac.\n\n8. Retour à l'hôtel\nAprès une journée complète de visites, vous êtes ramené tranquillement à votre hôtel d'Udaipur.",
+  "highlights": [
+   "Découvrir Udaipur, l'envoûtante cité des Lacs",
+   "Le City Palace royal et ses grandes cours",
+   "Une balade en bateau sur le lac Pichola avec vue sur les palais",
+   "Artisanat, miniatures et souvenirs locaux",
+   "Le charme royal et la beauté intemporelle d'Udaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide local expert agréé par le gouvernement",
+   "Déjeuner au restaurant (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée des monuments",
+   "Dépenses personnelles"
+  ]
+ },
+ "city-palace-sightseeing-full-day-tour": {
+  "title": "Udaipur : visite privée d'une journée ou d'une demi-journée avec guide agréé",
+  "metaTitle": "Udaipur en privé : City Palace, temple Jagdish et lac Pichola",
+  "metaDescription": "Visite privée d'Udaipur en voiture climatisée avec guide expert : City Palace, temple Jagdish, Saheliyon ki Bari et balade en bateau sur le lac Pichola.",
+  "shortDescription": "Explorez la captivante ville d'Udaipur lors de cette visite privée guidée en voiture climatisée. Plongez dans sa riche histoire, ses sites enchanteurs, son art et sa culture vibrants et sa beauté naturelle saisissante.",
+  "fullDescription": "Découvrez les grands sites d'Udaipur lors d'une visite en voiture privée avec un guide expert : le City Palace, le temple Jagdish et le Saheliyon ki Bari, puis une paisible balade en bateau sur le lac Pichola.\n\nNotre chauffeur et votre guide vous prennent en charge à votre hôtel ou au lieu de votre choix à Udaipur, ou vous retrouvez votre guide à un point de rendez-vous convenu.\n\nLes sites à découvrir :\n\n**Temple Jagdish**\nBâti en 1651 à la demande du maharana Jagat Singh Ier, le temple Jagdish est une remarquable prouesse architecturale, toujours au cœur d'Udaipur. Dédié au dieu Vishnou, il déploie la splendeur de l'architecture indo-aryenne.\n\n**City Palace d'Udaipur**\nLe City Palace d'Udaipur, connu pour son décor flamboyant, est le plus grand du Rajasthan. Perché sur une colline, il marie les styles rajasthani et rajput et offre une vue ample sur la ville et ses environs.\n\n**Pause thé masala et en-cas (en option)**\nGoûtez aux saveurs d'Udaipur avec un thé masala et des en-cas locaux pendant la visite.\n\n**Saheliyon Ki Bari**\nDécouvrez ce paisible jardin du XVIIIe siècle, créé pour la détente et les loisirs des femmes de la cour.\n\n**Balade en bateau sur le lac Pichola**\nEmbarquez pour une promenade avec des vues splendides sur le City Palace et le Lake Palace, un moment véritablement enchanteur.\n\n**Marchés locaux (en option)**\nTerminez par les marchés d'Udaipur et leur artisanat traditionnel.",
+  "highlights": [
+   "Les grands sites d'Udaipur avec un guide expert",
+   "Le City Palace et le temple Jagdish",
+   "Balade en bateau sur le lac Pichola",
+   "Voiture privée climatisée avec chauffeur"
+  ],
+  "included": [
+   "Transport en véhicule climatisé avec chauffeur anglophone (si vous choisissez l'option)",
+   "Guide touristique professionnel",
+   "Prise en charge et retour à votre hôtel d'Udaipur",
+   "Carburant, stationnement et toutes les taxes",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Droits d'entrée des monuments",
+   "Billets de la balade en bateau",
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "ranakpur-jain-temple-spiritual-tour": {
+  "title": "Depuis Udaipur : Kumbhalgarh et le temple de Ranakpur en une journée",
+  "metaTitle": "Kumbhalgarh et Ranakpur depuis Udaipur : excursion d'une journée",
+  "metaDescription": "Excursion d'une journée depuis Udaipur au fort de Kumbhalgarh, site UNESCO, et au temple jaïn de Ranakpur et ses 1 444 piliers sculptés, en voiture climatisée avec guide.",
+  "shortDescription": "Explorez l'histoire fascinante et les secrets du fort de Kumbhalgarh, site du patrimoine mondial de l'UNESCO, avec les éclairages de votre guide expert. Poursuivez ensuite vers le célèbre temple jaïn de Ranakpur, l'un des plus beaux d'Inde, et admirez son architecture de marbre aux sculptures minutieuses.",
+  "fullDescription": "Préparez-vous à découvrir l'histoire fascinante et les secrets du fort de Kumbhalgarh, site du patrimoine mondial de l'UNESCO, avec les éclairages de votre guide expert. Vous parcourez ses murailles massives, ses grandes portes et ses palais historiques tout en découvrant les légendes du grand souverain Maharana Kumbha, bâtisseur de cette magnifique forteresse.\n\nAprès le fort, vous poursuivez vers le célèbre temple jaïn de Ranakpur, l'un des plus beaux temples jaïns d'Inde. Admirez son architecture de marbre saisissante, ses sculptures minutieuses et ses fameux 1 444 piliers, tous différents, qui font de ce sanctuaire un véritable chef-d'œuvre.",
+  "highlights": [
+   "Le majestueux fort de Kumbhalgarh et le temple jaïn de Ranakpur",
+   "Un voyage dans l'histoire, du fort de Kumbhalgarh au sanctuaire de Ranakpur",
+   "Trajet en voiture climatisée, visites avec guide"
+  ],
+  "included": [
+   "Prise en charge et retour à l'aéroport d'Udaipur, à la gare ou à un hôtel de la ville",
+   "Transport en véhicule climatisé",
+   "Guide privé",
+   "Tous les frais de stationnement, carburant, péages et taxes",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Repas"
+  ]
+ },
+ "chittorgarh-fort-full-day-tour": {
+  "title": "Udaipur : excursion d'une journée au fort de Chittorgarh en voiture",
+  "metaTitle": "Fort de Chittorgarh depuis Udaipur : journée avec guide local",
+  "metaDescription": "Excursion de 8 heures depuis Udaipur au fort de Chittorgarh, site UNESCO : Vijay Stambh, Kirti Stambh et palais de Rana Kumbha, en voiture climatisée avec guide.",
+  "shortDescription": "Explorez le fort de Chittorgarh, site du patrimoine mondial de l'UNESCO, lors d'une excursion de 8 heures depuis Udaipur. Visitez des monuments emblématiques comme le Vijay Stambh, le Kirti Stambh et le palais de Rana Kumbha, avec un savoureux thali rajasthani traditionnel dans un restaurant local (en option).",
+  "fullDescription": "Excursion d'une journée au fort de Chittorgarh depuis Udaipur, à la découverte de la grandeur du Mewar.\n\nPlongez dans la riche histoire et l'héritage héroïque du Rajasthan lors de cette passionnante excursion de 8 heures d'Udaipur au fort de Chittorgarh, l'un des plus vastes et des plus impressionnants d'Inde. Inscrit au patrimoine mondial de l'UNESCO, il incarne le courage, le sacrifice et le génie architectural rajput.\n\nAvec votre guide local compétent, vous explorez les palais magnifiques, les tours monumentales et les temples sacrés qui racontent l'histoire des souverains légendaires du Mewar.",
+  "highlights": [
+   "Le majestueux fort de Chittorgarh, patrimoine mondial de l'UNESCO",
+   "Les monuments emblématiques : Vijay Stambh, Kirti Stambh et palais de Rana Kumbha",
+   "Excursion en voiture privée climatisée avec guide local sur place"
+  ],
+  "included": [
+   "Voiture Toyota climatisée pour l'aller-retour Udaipur - Chittorgarh dans la journée",
+   "Toutes les taxes, péages, carburant et frais de stationnement",
+   "Chauffeur anglophone",
+   "Guide local anglophone à Chittorgarh"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner"
+  ]
+ },
+ "city-palace-spiritual-tour": {
+  "title": "Udaipur en 2 jours avec les temples d'Eklingji et de Nagda",
+  "metaTitle": "Udaipur en 2 jours : palais, lacs et temples d'Eklingji et Nagda",
+  "metaDescription": "Visite guidée de 2 jours à Udaipur : City Palace, lacs, jardins et temples historiques, avec excursion aux sanctuaires d'Eklingji et de Nagda.",
+  "shortDescription": "Découvrez l'héritage royal, les beaux lacs et les temples sacrés de la cité des Lacs lors de cette visite guidée de 2 jours à Udaipur. Explorez palais magnifiques, temples historiques, jardins pittoresques et lacs paisibles, puis, le lendemain, les célèbres temples d'Eklingji et de Nagda aux portes de la ville.",
+  "fullDescription": "Découvrez l'héritage royal, les lacs pittoresques et les temples sacrés d'Udaipur lors de cette visite guidée de 2 jours. Surnommée la cité des Lacs, Udaipur est réputée pour ses palais magnifiques, ses beaux jardins et sa riche histoire rajput. Ce programme vous permet d'explorer les sites les plus emblématiques de la ville, avec une escapade spirituelle vers les temples historiques d'Eklingji et de Nagda, dans la campagne voisine.\n\nAvec un guide local compétent et un transport confortable, vous découvrez la culture, l'architecture et les traditions qui font d'Udaipur l'une des destinations les plus charmantes du Rajasthan.",
+  "highlights": [
+   "Udaipur en 2 jours : City Palace, lacs et temple d'Eklingji",
+   "Palais, lacs et temples sacrés en deux journées",
+   "Udaipur avec guide officiel et voiture"
+  ],
+  "included": [
+   "Service de guide pour 2 jours de visites à Udaipur",
+   "Voiture pour les visites d'Udaipur pendant 2 jours",
+   "Toutes les taxes, péages, carburant et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner",
+   "Hôtels"
+  ]
+ },
+ "city-palace-guided-tour": {
+  "title": "Réservez un guide pour la visite d'Udaipur",
+  "metaTitle": "Guide officiel à Udaipur : City Palace, temple Jagdish, lac Pichola",
+  "metaDescription": "Réservez un guide officiel à Udaipur pour une visite à pied : City Palace, temple Jagdish, balade en bateau sur le lac Pichola et Saheliyon ki Bari.",
+  "shortDescription": "Les temps forts d'Udaipur avec un guide local officiel. Découvrez la beauté et le patrimoine de la ville lors de cette visite guidée des sites les plus connus. Il s'agit d'une visite à pied.",
+  "fullDescription": "Découvrez la beauté et le patrimoine d'Udaipur lors de cette visite guidée des sites les plus célèbres de la ville.\n\nLes temps forts :\n- Le magnifique City Palace, le plus grand complexe palatial du Rajasthan, dominant le lac Pichola\n- L'historique temple Jagdish, bel édifice hindou du XVIIe siècle dédié au dieu Vishnou\n- Une belle balade en bateau sur le lac Pichola, avec des vues superbes sur le City Palace, le Lake Palace et les ghats\n\nInformation importante : les billets d'entrée des monuments ne sont pas inclus dans le prix. Ils s'achètent directement sur place pendant la visite.\n\nOption : si vous préférez plus de confort, un transport en voiture climatisée peut être organisé moyennant un supplément.\n\nProfitez d'une expérience locale authentique en explorant la culture, l'histoire et la beauté d'Udaipur avec votre guide compétent.",
+  "highlights": [
+   "Réserver un guide local officiel pour explorer Udaipur",
+   "City Palace, temple Jagdish, lac Pichola et Saheliyon ki Bari",
+   "Visite privée et personnalisée, à pied"
+  ],
+  "included": [
+   "Service de guide pour une journée complète de visites (en anglais, français, espagnol)",
+   "Voiture pour la visite de la ville (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner"
+  ]
+ },
+ "city-palace-full-day-tour": {
+  "title": "Udaipur : journée complète de visites avec guide officiel",
+  "metaTitle": "Udaipur en une journée : City Palace, lac Pichola, Sajjangarh",
+  "metaDescription": "Journée guidée privée à Udaipur : City Palace, balade sur le lac Pichola, temple Jagdish, Saheliyon ki Bari, palais de Sajjangarh et marchés locaux.",
+  "shortDescription": "Explorez avec un guide local expert : visite privée d'Udaipur conçue pour découvrir l'héritage royal, les monuments historiques, la culture vibrante et les lacs pittoresques de la cité des Lacs, l'une des grandes destinations du Rajasthan.",
+  "fullDescription": "Découvrez le charme royal d'Udaipur lors de cette visite privée guidée, pensée pour les voyageurs qui souhaitent explorer la riche histoire, les monuments magnifiques, la culture vibrante et la beauté naturelle de la ville. Surnommée la cité des Lacs, Udaipur est l'une des destinations les plus romantiques d'Inde, entre architecture patrimoniale, paysages sereins et art de vivre rajasthani.\n\nVous commencez par le magnifique City Palace, le plus grand complexe palatial du Rajasthan. Dominant les eaux calmes du lac Pichola, ce chef-d'œuvre architectural déploie cours royales, balcons ouvragés, musées et vues superbes sur le lac. Vous profitez ensuite d'une balade en bateau sur le lac Pichola pour admirer le Lake Palace et le Jag Mandir, deux monuments qui semblent flotter à la surface.\n\nVous poursuivez vers le célèbre temple Jagdish, édifice du XVIIe siècle réputé pour son architecture indo-aryenne et ses sculptures minutieuses dédiées au dieu Vishnou. Vous visitez ensuite le Saheliyon Ki Bari, beau jardin historique créé pour les femmes de la cour, avec pavillons de marbre, bassins de lotus et fontaines décoratives.\n\nLa visite comprend aussi le palais de Sajjangarh (palais de la Mousson), qui offre une vue panoramique sur la ville, ses lacs et les collines Aravalli, un lieu idéal pour photographier le coucher du soleil.\n\nVous explorez enfin les marchés colorés d'Udaipur, réputés pour l'artisanat traditionnel, les miniatures, les textiles et les souvenirs qui reflètent la richesse artistique du Rajasthan. Une expérience complète, entre histoire, culture, architecture et beauté naturelle.",
+  "highlights": [
+   "Les traditions vivantes et les merveilles architecturales d'Udaipur",
+   "Les rues culturelles et les sites du patrimoine royal",
+   "La vie locale et les grands sites historiques de la ville"
+  ],
+  "included": [
+   "Transport en voiture climatisée (si l'option est réservée)",
+   "Guide professionnel anglophone",
+   "Prise en charge et retour à votre hôtel d'Udaipur",
+   "Carburant, stationnement et toutes les taxes",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Droits d'entrée des monuments",
+   "Billets de la balade en bateau",
+   "Nourriture et boissons"
+  ]
+ },
+ "lake-pichola-full-day-tour": {
+  "title": "Udaipur : journée privée de visites avec un guide",
+  "metaTitle": "Udaipur avec guide privé : temple Jagdish, City Palace, lac Pichola",
+  "metaDescription": "Journée privée guidée à Udaipur : temple Jagdish, City Palace, Saheliyon ki Bari, balade en bateau sur le lac Pichola et balade dans la vieille ville.",
+  "shortDescription": "Découvrez le charme intemporel d'Udaipur lors de cette visite privée guidée. Explorez son héritage royal, son architecture magnifique, son art et sa culture vibrants ainsi que sa beauté naturelle apaisante.",
+  "fullDescription": "Visite privée guidée d'Udaipur, programme détaillé.\n\n**Introduction**\nVous débutez par un accueil chaleureux et une présentation par votre guide local dédié. Préparez-vous à une exploration immersive de cette ville pittoresque, de son histoire, de sa culture et de son héritage royal.\n\n**Temple Jagdish**\nPremier arrêt à l'historique temple Jagdish, au cœur de la vieille ville. Ce magnifique temple témoigne d'un grand savoir-faire architectural et d'une dévotion profonde. Votre guide en partage les récits et la portée culturelle.\n\n**City Palace**\nVous poursuivez par l'une des plus grandes résidences royales d'Inde, le grand City Palace. Datant du XVIe siècle, ce chef-d'œuvre architectural abrite toujours la famille royale. Laissez-vous impressionner par la magnificence de ce site patrimonial vivant.\n\n**Pause thé (en option)**\nFaites une pause rafraîchissante avec un thé masala traditionnel (à vos frais) et des en-cas locaux, avant de reprendre la visite.\n\n**Saheliyon ki Bari**\nEntrez dans le cadre paisible du Saheliyon ki Bari, élégant jardin royal du XVIIIe siècle orné de fontaines, de pavillons de marbre, de bassins de lotus et de kiosques décoratifs. Vous découvrez le mode de vie royal et les traditions de loisir associées à cette belle retraite.\n\n**Balade en bateau sur le lac Pichola**\nEmbarquez pour une promenade sur les eaux tranquilles du lac Pichola. Admirez des vues panoramiques en passant devant l'emblématique Jag Mandir et le majestueux City Palace, pendant que votre guide raconte l'importance historique du lac.\n\n**Balade dans la vieille ville (en option)**\nTerminez par une promenade dans les rues animées de la vieille ville d'Udaipur : marchés locaux, bazars aux épices et boutiques d'artisanat traditionnel qui expriment l'âme artistique du Rajasthan.\n\n**Regard culturel**\nAu-delà des monuments, votre guide vous fait découvrir le mode de vie local, les traditions, les fêtes et les coutumes de mariage, pour une compréhension plus fine de la culture vivante d'Udaipur.",
+  "highlights": [
+   "L'héritage royal d'Udaipur avec un guide local expert",
+   "La cité des Lacs par les yeux d'un guide local",
+   "Culture, histoire et trésors cachés d'Udaipur avec un guide privé"
+  ],
+  "included": [
+   "Guide touristique",
+   "Voiture pour la visite de la ville (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Repas",
+   "Hôtels",
+   "Voiture pour les visites (si l'option avec voiture n'est pas choisie)"
+  ]
  }
 };
 export const FR_PAGES: Record<string, PageT> = {
