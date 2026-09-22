@@ -371,6 +371,215 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen"
   ]
  },
+ "agra-fort-private-tour": {
+  "title": "Taj Mahal und Fatehpur Sikri Tagestour ab Delhi im Privatwagen",
+  "metaTitle": "Taj Mahal, Rotes Fort und Fatehpur Sikri ab Delhi, Privatwagen",
+  "metaDescription": "Drei UNESCO-Stätten an einem Tag ab Delhi: Taj Mahal bei Sonnenaufgang, Rotes Fort und die Geisterstadt Fatehpur Sikri, im Privatwagen mit lizenziertem Guide.",
+  "shortDescription": "Das majestätische Taj Mahal und das historische Fatehpur Sikri auf einer privaten Tagestour ab Delhi. Rotes Fort, Mogul-Architektur, Führung und bequeme Fahrt im Privatwagen. Eine stressfreie, unvergessliche Kulturreise.",
+  "fullDescription": "Erkunden Sie drei UNESCO-Welterbestätten auf dieser Taj Mahal und Fatehpur Sikri Tagestour ab Delhi im Privatwagen. Bequeme Fahrt über den Yamuna Expressway mit professionellem Fahrer und erfahrenem Guide. Erleben Sie das Taj Mahal bei Sonnenaufgang, entdecken Sie das gewaltige Rote Fort und streifen Sie durch die geheimnisvolle „Geisterstadt“ Fatehpur Sikri.\n\nDas Paket enthält Einlass ohne Warteschlange und Transfers von Hotel oder Flughafen. Ideal für Geschichtsfans: Diese intensive Tagestour bietet ein unvergessliches Erlebnis des Mogul-Erbes.",
+  "highlights": [
+   "Privater Hin- und Rücktransfer Delhi–Agra",
+   "Taj Mahal, UNESCO-Welterbe",
+   "Das Rote Fort",
+   "Die historische Stadt Fatehpur Sikri",
+   "Flexible private Tour mit lizenziertem Guide"
+  ],
+  "included": [
+   "Privatwagen mit Fahrer für Hin- und Rückfahrt ab Delhi",
+   "Professioneller lizenzierter Guide",
+   "Wasserflaschen während der Tour",
+   "Parkgebühren",
+   "Schuhüberzieher",
+   "Golfcart"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mahlzeiten",
+   "Mittagessen"
+  ]
+ },
+ "taj-mahal-express-tour": {
+  "title": "Taj Mahal Tagestour mit dem Gatimaan Express",
+  "metaTitle": "Taj Mahal mit dem Gatimaan Express ab Delhi, Guide und Eintritte inklusive",
+  "metaDescription": "Tagestour zum Taj Mahal ab Delhi mit dem Gatimaan Express (1 Std. 40 Min.): Zugtickets, Privatwagen in Agra, englischsprachiger Guide, Eintritte Taj Mahal und Rotes Fort, Mittagessen, optional Mehtab Bagh.",
+  "shortDescription": "Die Taj Mahal Tagestour mit dem Gatimaan Express ist der schnelle, bequeme Weg, das Monument von Delhi aus an einem Tag zu besuchen. Indiens schnellster Zug verbindet Delhi und Agra in nur 1 Stunde 40 Minuten, ideal für maximale Besichtigungszeit. Auf dem Programm: das Taj Mahal, UNESCO-Welterbe von Shah Jahan, das Rote Fort mit professionellem englischsprachigem Guide und optional Mehtab Bagh für den Panoramablick auf das Taj vom anderen Yamuna-Ufer.",
+  "fullDescription": "Die Taj Mahal Tagestour mit dem Gatimaan Express ist eine schnelle und praktische Art, eines der berühmtesten Monumente der Welt von Delhi aus an einem Tag zu erleben. Sie steigen in Indiens schnellsten Zug, der die Strecke Delhi–Agra in nur 1 Stunde 40 Minuten zurücklegt, und haben so mehr Zeit für Besichtigungen und Fotos. Höhepunkt ist das prachtvolle Taj Mahal, vom Mogulkaiser Shah Jahan zum Gedenken an seine Frau Mumtaz Mahal erbaut und weltweit bewundert für weißen Marmor, feine Schnitzereien und symmetrische Gärten.\n\nAußerdem erkunden Sie das Rote Fort, eine Festung aus rotem Sandstein mit großen Hallen, Moscheen und Palästen, die Mogul-Architektur und Geschichte zeigen. Ein optionaler Halt im Mehtab Bagh bietet den Panoramablick auf das Taj Mahal über den Yamuna, ideal für Erinnerungsfotos. Ein professioneller englischsprachiger Guide vermittelt Geschichte, kulturellen Kontext und Architekturdetails. Bequemer privater Transport in Agra sorgt für reibungslose Wege zwischen den Orten: eine stressfreie, bereichernde Tagestour aus Tempo, Komfort und der unvergesslichen Schönheit des Mogul-Erbes.",
+  "highlights": [
+   "Hochgeschwindigkeitszug Gatimaan Express von Delhi nach Agra",
+   "Taj Mahal bei Sonnenaufgang oder am Vormittag",
+   "Geführter Besuch des historischen Roten Forts",
+   "Komfortabler Tagesausflug mit wenig Fahrzeit und viel Besichtigung"
+  ],
+  "included": [
+   "Zugtickets Gatimaan Express (Delhi–Agra–Delhi)",
+   "Privatfahrzeug für die Besichtigungen in Agra",
+   "Professioneller lokaler Guide",
+   "Eintrittskarten Taj Mahal und Rotes Fort",
+   "Optionaler Halt im Mehtab Bagh",
+   "Mittagessen",
+   "Maut, Parkgebühren und Fahrerspesen für den lokalen Transport"
+  ],
+  "notIncluded": [
+   "Nichts"
+  ]
+ },
+ "taj-mahal-vrindavan-full-day-tour": {
+  "title": "Ab Delhi: Taj Mahal, Mathura und Vrindavan, privater Tagesausflug",
+  "metaTitle": "Taj Mahal, Mathura und Vrindavan ab Delhi, privater Tag mit Guide",
+  "metaDescription": "Privater Tag ab Delhi: Mathura, Geburtsort von Krishna, der Prem-Mandir-Tempel in Vrindavan, dann Taj Mahal und Rotes Fort, mit englischsprachigem Fahrer und Guide.",
+  "shortDescription": "Taj Mahal und Rotes Fort, dazu Mathura, der Geburtsort Krishnas, und die Kraft der Liebe im Prem Mandir, dem „Tempel der Liebe“. Eine private Tour mit Chauffeur und Guide.",
+  "fullDescription": "Ein englischsprachiger Fahrer holt Sie ab, wo Sie wohnen: Delhi, Noida oder Gurugram, ganz nach Wunsch. Der Wagen ist bequem, klimatisiert und mit Wasser und Snacks ausgestattet, Sie können entspannen und die Fahrt genießen.\n\nZuerst geht es nach Mathura, dem Geburtsort Krishnas. Die Energie dort ist besonders: friedlich, aber voller Hingabe. Orte wie der Prem Mandir hinterlassen Eindruck, auch wenn man nicht religiös ist. Danach nach Agra. Das Taj Mahal gehört zu den Orten, die dem Hype wirklich gerecht werden. Bleiben Sie so lange Sie möchten, dann Mittagessen oder das nahe Rote Fort, das über dem Yamuna thront und seine eigene unglaubliche Geschichte hat.\n\nEin voller Tag, aber einer voller Bedeutung und Erinnerungen. Sie kehren auf die beste Art müde nach Delhi zurück, mit Geschichten zum Erzählen und viel zu vielen Fotos.",
+  "highlights": [
+   "Die Orte, an denen Krishna aufwuchs und lehrte",
+   "Die mystische Kraft der Liebe im Prem Mandir",
+   "Das Taj Mahal, Weltwunder und UNESCO-Welterbe",
+   "Das Rote Fort, ein eindrucksvoller Mogulbau aus rotem Sandstein",
+   "Private Tour mit Chauffeur und Guide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt überall in Delhi, Noida, Gurugram, Ghaziabad oder Faridabad",
+   "Besichtigungen im klimatisierten Wagen",
+   "Guide",
+   "Eine Flasche Wasser",
+   "Eintrittskarten der Monumente (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "taj-mahal-guided-tour-from-agra": {
+  "title": "Geführte Taj Mahal Tour ab Agra",
+  "metaTitle": "Taj Mahal mit privatem Guide ab Ihrem Hotel in Agra, Eintritt inklusive",
+  "metaDescription": "Private Taj Mahal Führung mit professionellem lokalem Guide, Abholung an Ihrem Hotel in Agra und Eintritt inklusive: Mogul-Architektur, Gärten und die Liebesgeschichte Shah Jahans.",
+  "shortDescription": "Das Taj Mahal auf einer privaten Führung ab Agra: Mogul-Architektur, Gärten und Geschichte mit einem erfahrenen Guide, für unvergessliche Erinnerungen an Indiens berühmtestes Monument, bequem und informativ.",
+  "fullDescription": "Erleben Sie Schönheit und Geschichte des weltberühmten Taj Mahal mit einem professionellen Guide auf dieser Führung ab Agra. Ideal für Reisende, die in Agra übernachten und das Monument mit fachkundigen Einblicken in Architektur, Geschichte und die faszinierende Liebesgeschichte erkunden möchten.\n\nVom Mogulkaiser Shah Jahan zum Gedenken an seine geliebte Frau Mumtaz Mahal erbaut, ist das Taj Mahal eines der sieben Weltwunder und UNESCO-Welterbe. Auf dieser privaten Führung zeigt Ihnen Ihr kundiger Guide verborgene Details, die feine Marmorkunst und die historische Bedeutung dieses ikonischen Monuments.\n\nIdeal für Paare, Familien und Alleinreisende, die die Mogul-Geschichte tiefer verstehen wollen, während sie eines der berühmtesten Wahrzeichen der Welt erkunden.",
+  "highlights": [
+   "Geführter Besuch des Taj Mahal",
+   "Die romantische Geschichte von Shah Jahan und Mumtaz Mahal",
+   "Professioneller lokaler Guide in Agra",
+   "Die Mogulgärten und die Marmorarchitektur",
+   "Die besten Fotopunkte am Taj Mahal"
+  ],
+  "included": [
+   "Abholung am Hotel oder Treffpunkt in Agra",
+   "Professioneller lokaler Guide für die Taj Mahal Tour",
+   "Eintrittskarten für das Taj Mahal",
+   "Wasserflaschen während der Tour"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke (sofern nicht angegeben)",
+   "Persönliche Ausgaben wie Souvenirs, Trinkgelder, Shopping",
+   "Transport von und nach Agra",
+   "Kamera- und Videogebühren an den Monumenten"
+  ]
+ },
+ "same-day-taj-mahal-tour-by-car-from-delhi": {
+  "title": "Taj Mahal Tagestour mit dem Auto ab Delhi: privater Agra-Ausflug",
+  "metaTitle": "Taj Mahal ab Delhi im Privatwagen, Tagestour mit Guide und Eintritten",
+  "metaDescription": "Private Tagestour Delhi–Agra im klimatisierten Wagen über den Yamuna Expressway: Taj Mahal und Rotes Fort mit professionellem Guide, Eintritte inklusive, abends zurück.",
+  "shortDescription": "Taj Mahal und Rotes Fort auf einem privaten Tagesausflug ab Delhi. Bequeme Autofahrt, professioneller Guide und Mogul-Erbe ohne Stress, an einem Tag.",
+  "fullDescription": "Die Taj Mahal Tagestour mit dem Auto ab Delhi ist einer der beliebtesten Tagesausflüge Indiens. Sie ermöglicht es, das prachtvolle Taj Mahal und die historische Stadt Agra bequem an einem Tag zu besuchen. Wer in Delhi ist und wenig Zeit hat, für den ist die Fahrt mit einem lokalen Veranstalter der ideale Weg, Schönheit und Geschichte eines der sieben Weltwunder zu erleben.\n\nReisen Sie im privaten klimatisierten Wagen von Delhi nach Agra über den modernen Yamuna Expressway, für eine reibungslose Fahrt. Diese private Tour umfasst das Rote Fort sowie optionale Stopps an lokalen Märkten und Restaurants.",
+  "highlights": [
+   "Das weltberühmte Taj Mahal, UNESCO-Welterbe",
+   "Das Rote Fort, ein Meisterwerk der Mogul-Architektur",
+   "Schnelle Fahrt über den modernen Yamuna Expressway",
+   "Private geführte Agra-Tagestour ab Delhi mit flexiblem Ablauf",
+   "Bequeme Taj Mahal Tagestour im Privatwagen ab Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Hotel oder Flughafen in Delhi",
+   "Privater klimatisierter Wagen für die Tagestour Delhi–Agra",
+   "Professioneller Guide in Agra",
+   "Besuch des Taj Mahal",
+   "Geführter Besuch des Roten Forts",
+   "Maut, Parkgebühren, Kraftstoff und Fahrerspesen",
+   "Mineralwasser während der Fahrt",
+   "Eintrittskarten der Monumente"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Persönliche Ausgaben wie Shopping, Trinkgelder, Getränke",
+   "Nicht genannte optionale Aktivitäten",
+   "Kamera- oder Videogebühren an den Monumenten (falls zutreffend)"
+  ]
+ },
+ "agra-royal-sunrise-tour": {
+  "title": "Privates Taj Mahal bei Sonnenaufgang und königliches Rotes Fort",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang mit VIP-Einlass und Rotes Fort, Tickets inklusive",
+  "metaDescription": "Taj Mahal bei Sonnenaufgang mit VIP-Schnelleinlass und Rotes Fort, alle Ausländer-Tickets inklusive, privater lizenzierter Guide, klimatisierter Wagen. Lokales Frühstück optional.",
+  "shortDescription": "Das atemberaubende Taj Mahal bei Sonnenaufgang mit VIP-Schnelleinlass an den Menschenmassen vorbei. Ihr lokaler Experte enthüllt verborgene Geschichte und perfekte Fotopunkte. Danach das große Rote Fort, wo die Mogul-Herrscher lebten und regierten. Alle Eintrittskarten inklusive. Anschließend optional ein traditionelles Frühstück (auf eigene Kosten) mit dem echten Geschmack Agras.",
+  "fullDescription": "Erleben Sie die Magie des Taj Mahal bei Sonnenaufgang, wenn der weiße Marmor in zartem Rosa und Gold leuchtet, bevor die Tagesbesucher kommen. Diese exklusive Tour bietet einen reibungslosen Ablauf mit VIP-Schnelleinlass und allen Eintrittskarten zum Ausländertarif inklusive, damit Sie die langen Schlangen an den Toren umgehen. Ihr lokaler Experte führt Sie zu den ikonischen Fotopunkten, erzählt die legendäre Liebesgeschichte von Shah Jahan und Mumtaz Mahal und enthüllt die optischen Täuschungen des Monuments.\n\nWeiter geht es zum prachtvollen Roten Fort, UNESCO-Welterbe und Meisterwerk der Mogulmacht. Erkunden Sie die königlichen Wohnpaläste und den ergreifend schönen Musamman Burj, wo der Kaiser seine letzten Jahre als Gefangener verbrachte. Diese Tour ist für Reisende gemacht, die historischen Kontext und ein stressfreies Erlebnis schätzen. Zum Abschluss optional ein lokales Frühstück (Aufpreis) in einem legendären Lokal Agras mit Straßenklassikern wie Bedai und Jalebi.",
+  "highlights": [
+   "VIP-Priorität: keine Ticketschlangen dank Schnelleinlass durch das VIP-Tor",
+   "Geheimnisse der goldenen Stunde: die besten Fotopunkte vor den Massen",
+   "Das Gefängnis des Kaisers: unerzählte Dramen im Roten Fort"
+  ],
+  "included": [
+   "Tickets ohne Anstehen: Eintritt zum Ausländertarif für Taj Mahal und Rotes Fort",
+   "Mausoleum-Zugang: obligatorisches Zusatzticket für das Innere des Taj Mahal inklusive",
+   "Lokaler Experte: privater, staatlich lizenzierter Guide für persönliche Erzählungen und Fotohilfe",
+   "Privater Transport: klimatisiertes Fahrzeug für Abholung, Rückfahrt und Transfers zwischen den Orten",
+   "Vorrang: Nutzung der Schnellspuren für Ausländer an den Sicherheitskontrollen",
+   "Gekühltes Wasser im Wagen und Schuhüberzieher für das Mausoleum"
+  ],
+  "notIncluded": [
+   "Frühstück und Mahlzeiten: das lokale Frühstück ist optional und vor Ort zahlbar",
+   "Trinkgelder für Guide und Fahrer (freiwillig)",
+   "Persönliche Ausgaben: Souvenirs, separat gebuchter Fotograf, Snacks",
+   "Kameragebühren: Handyfotos sind frei, für professionelle Videoausrüstung am Roten Fort kann eine kleine Gebühr anfallen"
+  ]
+ },
+ "taj-mahal-agra-private-day-tour-with-lunch": {
+  "title": "Taj Mahal und Agra, privater Tag mit 5-Sterne-Mittagessen",
+  "metaTitle": "Taj Mahal und Rotes Fort privat mit 5-Sterne-Buffet",
+  "metaDescription": "Privater Tag in Agra: Taj Mahal mit lokalem Guide, Buffet im 5-Sterne Courtyard by Marriott, dann Rotes Fort. Transport, Golfcart und Schuhüberzieher inklusive, Eintritte und Mahlzeit optional.",
+  "shortDescription": "Agra ist eines der meistbesuchten Reiseziele Indiens, berühmt für Mogul-Architektur und das Taj Mahal, eines der sieben Weltwunder. Diese Tagestour mit dem Auto deckt alle wichtigen Sehenswürdigkeiten der Stadt ab, darunter das Rote Fort aus rotem Sandstein mit seinen Marmor- und Pietra-dura-Einlegearbeiten.",
+  "fullDescription": "Der Tag beginnt früh: Ihr privater Fahrer trifft Sie an Ihrem Hotel oder an einem Ort Ihrer Wahl in Agra. Machen Sie es sich im sauberen, klimatisierten Wagen bequem. Die meisten Reisenden nutzen die ruhige Morgenzeit zum Ausruhen oder für den Blick auf die Landschaft.\n\nVor Ort treffen Sie Ihren professionellen lokalen Guide. Erste Station: das Taj Mahal. Durch das Tor zu gehen und das Monument auftauchen zu sehen ist ein Moment, den kaum jemand vergisst. Ihr lokaler Experte erzählt die wahre Geschichte von Shah Jahan und Mumtaz Mahal, führt Sie ins Mausoleum und erklärt Details und Handwerk, die man ohne Einheimischen leicht übersieht. Sie haben auch Zeit, in Ihrem Tempo zu erkunden und zu fotografieren.\n\nNach dem Besuch ein entspanntes Frühstück oder Mittagessen im 5-Sterne Courtyard by Marriott mit Premium-Buffet aus indischen und internationalen Gerichten.\n\nWeiter zum beeindruckenden Roten Fort, UNESCO-Welterbe und einst Hauptresidenz der Mogulkaiser. Von hier sehen Sie das Taj Mahal in der Ferne, wie Shah Jahan in seinen letzten Jahren.",
+  "highlights": [
+   "Die atemberaubende Pracht des Taj Mahal, wahres Symbol der Liebe",
+   "Die großen Höfe und Paläste des majestätischen Roten Forts",
+   "Ein köstliches Mittagessen im 5-Sterne-Restaurant",
+   "Reibungsloser Transfer von Ihrem Wunschort in Agra"
+  ],
+  "included": [
+   "Transport",
+   "Lokaler Experte als Guide",
+   "Golfcart",
+   "Wasserflasche",
+   "Schuhüberzieher",
+   "Tickets (bei gewählter Option)",
+   "Mahlzeiten (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Getränke"
+  ]
+ },
+ "mysteries-of-agra-local-tour": {
+  "title": "Die Geheimnisse Agras mit einem Einheimischen",
+  "metaTitle": "Spaziergang durch das alte Agra mit Einheimischem: Jama Masjid, Basare, Petha",
+  "metaDescription": "Spaziergang abseits der Touristenpfade durch das alte Agra: Jama Masjid, Mankameshwar-Tempel, Chimman Lal Pooriwale, Kinari Bazaar und der älteste Petha-Laden, mit einem lokalen Experten.",
+  "shortDescription": "Abseits der ausgetretenen Pfade erkunden wir das Agra, in dem die Einheimischen wirklich leben. Von der historischen Jama Masjid über den 650 Jahre alten Shri Mankameshwar Tempel bis zum industriell-coolen Bahnhof Agra Fort zeigt dieser Spaziergang die verborgenen Schätze. Zum Abschluss geht es durch die lebhaftesten Märkte der Stadt und zu einem legendären Petha in einer bei Einheimischen beliebten Süßwarenhandlung.",
+  "fullDescription": "Im 17. Jahrhundert war Agra die globale Megastadt schlechthin, mit über 300.000 Einwohnern. Als Hauptstadt des Mogulreichs, der reichsten Dynastie der Welt, war es der Ort, an dem man sein musste. Händler und Reisende aus allen Ecken der Welt füllten die Märkte und träumten von einem Leben in dieser beeindruckenden Metropole. Auf diesem Spaziergang tauchen wir in Agras legendäre Vergangenheit ein und sehen, warum es zum architektonischen Spielfeld für die Welterbestätten wurde, die wir heute bewundern.\n\nStart beim 176 Jahre alten Chimman Lal Pooriwale neben der schönen, wenig bekannten Jama Masjid, um die Küche der fünf Jahrhunderte alten Mogulstadt zu erkunden. Besuch des ältesten Petha-Ladens Agras und Spaziergang über den Kinari Bazaar zur Seth Gali, berühmt für ihre Süßwarengeschäfte.",
+  "highlights": [
+   "Ein Besuch dieser Stadt ist eine echte Zeitreise ins Mittelalter",
+   "Dieser Spaziergang führt in die wenig bekannte Altstadt hinter den Mauern",
+   "Erleben Sie die lokale Kultur unserer Stadt"
+  ],
+  "included": [
+   "Lokaler Experte",
+   "Wasserflaschen",
+   "Lokale Spezialitäten",
+   "Mahlzeiten (bei gewählter Option)",
+   "Transport (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Offizieller lizenzierter Guide für das Taj Mahal",
   "metaTitle": "Offizieller Taj Mahal Guide, Einlass ohne Warteschlange",
