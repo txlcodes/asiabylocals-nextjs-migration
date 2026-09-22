@@ -6160,6 +6160,105 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "**Muy recomendable.** Sin guía, los 19 instrumentos parecen esculturas abstractas de piedra y la mayoría de los visitantes se marcha confusa a los 20 minutos. Con un guía que domina la astronomía y las matemáticas, cada instrumento se convierte en una calculadora científica en funcionamiento y la visita pasa a ser una de las experiencias más estimulantes de la India."
    }
   ]
+ },
+ "jal-mahal": {
+  "title": "Jal Mahal en Jaipur: el Palacio del Agua en el lago Man Sagar, guía completa 2026",
+  "description": "Jal Mahal de Jaipur 2026: el palacio flotante, sus 5 plantas sumergidas, la historia del lago Man Sagar, aves, consejos fotográficos y cómo visitarlo.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Mejor hora para fotos",
+    "value": "Amanecer y atardecer"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Entrada",
+    "value": "Gratis (solo vista exterior)"
+   },
+   {
+    "icon": "History",
+    "label": "Construido",
+    "value": "En 1799 por el maharajá Madho Singh I"
+   },
+   {
+    "icon": "Star",
+    "label": "Lo más destacado",
+    "value": "El jardín de azotea Chameli Bagh"
+   },
+   {
+    "icon": "Map",
+    "label": "Ubicación",
+    "value": "Amer Road, entre la ciudad y el Fuerte Amber"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Jal Mahal, el palacio que flota sobre el agua",
+    "content": "En la Amer Road, entre la ciudad de Jaipur y el [Fuerte Amber](/india/jaipur/amber-fort), un palacio rajput de cinco plantas parece flotar serenamente sobre la superficie del **lago Man Sagar**. Solo su planta superior y el jardín de la azotea quedan por encima del agua: las otras cuatro plantas están completamente sumergidas, creando una de las ilusiones arquitectónicas más llamativas y misteriosas de la India.\n\nEste es el **Jal Mahal** (literalmente «Palacio del Agua»), uno de los edificios más fotografiados de Rajastán, una visión tan improbable que quienes lo ven por primera vez suelen detener el coche para contemplarlo. Sus muros de arenisca ocre y roja, su azotea coronada por chhatris y su reflejo perfecto en las aguas quietas componen una imagen que capta el romanticismo y la grandeza de la arquitectura rajput mejor que ningún fuerte o palacio urbano.\n\nPero el Jal Mahal es también uno de los monumentos más frustrantes de Jaipur, porque **no se puede entrar**. No hay servicio de barcas, ni puente, ni acceso público al palacio. Se contempla desde la orilla este del lago Man Sagar, normalmente en una parada fotográfica durante el trayecto entre la ciudad y el Fuerte Amber. Sin embargo, conocer su historia, su arquitectura y la notable restauración ambiental que salvó el lago convierte esa breve parada en uno de los momentos más significativos de un itinerario por Jaipur.\n\nEl palacio lo construyó a finales del siglo XVIII el **maharajá Madho Singh I** como pabellón de caza y palacio de recreo. La familia real rajput llegaba en barca para pasar las tardes en la terraza de la azotea, observando las aves acuáticas y disfrutando de la brisa fresca de las colinas Aravalli. El diseño era intencionado: solo la planta superior debía ser habitable, mientras que las cuatro inferiores servían de cimiento y estaban pensadas para quedar sumergidas cuando el lago alcanzara su máxima capacidad.\n\nEl estilo arquitectónico mezcla con refinamiento las **tradiciones rajput y mogol**: muros de arenisca roja con ventanas en arco de estilo mogol, chhatris rajput (pabellones abovedados) en la azotea y un jardín formal en la cubierta llamado **Chameli Bagh** (jardín del Jazmín), que originalmente contaba con jazmines aromáticos, senderos de mármol y un pequeño pabellón para el entretenimiento nocturno de la corte."
+   },
+   {
+    "title": "Las cinco plantas: lo que hay bajo el agua",
+    "content": "La pregunta más frecuente sobre el Jal Mahal es: **¿qué hay bajo el agua?** La respuesta: cuatro plantas completas del palacio. Hay más edificio bajo la línea del agua que por encima de ella.\n\nEl Jal Mahal es una estructura de cinco plantas construida sobre una plataforma de piedra en el lecho del lago. Cuando el lago Man Sagar está a plena capacidad (normalmente durante y después del monzón, de julio a octubre), solo se ven la planta superior y la terraza. En la estación seca (de marzo a junio) el nivel baja y pueden hacerse visibles partes de la segunda planta, con ventanas en arco y fachadas de arenisca que de otro modo quedan ocultas.\n\nLas plantas sumergidas no estaban pensadas para permanecer siempre bajo el agua. Cuando el maharajá Madho Singh I encargó el palacio, el nivel del lago variaba mucho con las estaciones y, en los meses secos, buena parte del edificio quedaba al descubierto. Solo después de construir la **presa de Mansagar** en el extremo norte del valle, reforzada y elevada varias veces a lo largo de los siglos, el nivel se estabilizó a una altura que sumerge de forma permanente las cuatro plantas inferiores.\n\nLa arquitectura sumergida incluye:\n\n**Planta baja**: nivel de cimentación con dependencias de servicio, almacenes y el embarcadero donde atracaban las barcazas reales. La entrada principal, un gran portal en arco, mira al este, hacia la ciudad.\n\n**Segunda planta**: estancias para invitados y salas de recepción con ventanas en arco y jharokhas (balcones cerrados en voladizo). En años de aguas bajas, las tallas ornamentadas de estas ventanas vuelven a verse.\n\n**Tercera planta**: el salón principal de recepción y los comedores. Los relatos históricos describen suelos de mármol y paredes pintadas, que la inmersión permanente probablemente ha dañado.\n\n**Cuarta planta**: las estancias privadas de la familia real, con el zenana (dependencias de las mujeres) y sus ventanas con celosías, que permitían a la reina y sus damas disfrutar de las vistas del lago manteniendo el purdah.\n\n**Quinta planta (visible)**: la única accesible sobre el agua, con una sala central abierta por puertas en arco en los cuatro lados, para dejar circular la brisa del lago. Desde aquí se accede a la azotea.\n\n**La azotea, el Chameli Bagh**: la corona del palacio, un jardín formal con parterres de jazmín, senderos de mármol y cuatro chhatris en las esquinas. Estaba pensado para el entretenimiento vespertino: la familia real llegaba en barca al atardecer, subía a la azotea y disfrutaba de las vistas panorámicas de las colinas Aravalli, el lejano [Fuerte Amber](/india/jaipur/amber-fort) y el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort) en la cresta."
+   },
+   {
+    "title": "El lago Man Sagar, del desastre ecológico al éxito de conservación",
+    "content": "La historia del Jal Mahal no puede contarse sin la del **lago Man Sagar**, y sin la extraordinaria restauración ambiental que lo transformó de vertedero de aguas residuales en un humedal lleno de vida.\n\nEl lago Man Sagar se creó en 1610 represando el río Dravyavati en un valle natural entre las colinas Aravalli. Durante tres siglos fue un lago real: limpio, bien mantenido y repleto de aves acuáticas que atraían a la nobleza rajput a la caza del pato.\n\nSin embargo, en la década de 1990 el lago se había convertido en una catástrofe ambiental. El crecimiento urbano explosivo de Jaipur lo había convertido en el **depósito de aguas residuales** no oficial de la ciudad. Se calcula que 50 millones de litros de aguas fecales sin tratar llegaban a diario por decenas de desagües abiertos. El agua se volvió negra y tóxica, murió toda la vida acuática y el Jal Mahal quedó rodeado de una ciénaga maloliente. Sus plantas inferiores no estaban sumergidas en agua limpia, sino en aguas residuales.\n\nEn 2001, el gobierno de Rajastán puso en marcha uno de los proyectos de **restauración de lagos urbanos** más ambiciosos de la India. Ejecutado a lo largo de casi una década, incluyó:\n\n1. **Desvío de aguas residuales**: se interceptó cada desagüe que llegaba al lago y se redirigió a una nueva depuradora. Solo este paso eliminó el 100 % del vertido.\n2. **Retirada de sedimentos**: se dragaron unos 2 millones de metros cúbicos de limo contaminado, décadas de acumulación.\n3. **Humedales de amortiguación**: se crearon humedales artificiales en el perímetro para filtrar de forma natural cualquier escorrentía residual antes de que alcance la masa principal de agua.\n4. **Paseo junto al lago**: la orilla este se convirtió en un paseo ajardinado con plataformas de observación, jardines y zonas de descanso.\n5. **Creación de hábitat para aves**: se instalaron islas y plataformas de nidificación para favorecer el regreso de especies migratorias y residentes.\n\nLos resultados han sido notables. El lago Man Sagar pasó de zona muerta a **humedal próspero** que hoy alberga más de **150 especies** de aves migratorias y residentes, entre ellas cigüeñas pintadas, espátulas, cormoranes, garzas, martines pescadores y varias especies de patos y gansos. En los meses de invierno (de noviembre a febrero), el lago se convierte en un destino ornitológico importante, con especies llegadas de Asia Central, Siberia y Europa.\n\nLa restauración también devolvió al Jal Mahal su contexto original: un palacio de recreo en un lago hermoso rodeado de colinas, y no un monumento en decadencia en una charca contaminada. El proyecto se cita hoy internacionalmente como modelo de restauración de lagos urbanos en países en desarrollo."
+   },
+   {
+    "title": "Observación de aves en el lago Man Sagar, una joya poco conocida",
+    "content": "Desde la restauración, Man Sagar se ha convertido discretamente en uno de los lugares más gratificantes de Rajastán para observar aves, algo que la mayoría de los turistas desconoce.\n\n### Qué puede ver\n\n**Especies residentes** (todo el año):\n- **Cigüeña pintada**: gran ave zancuda y colorida, a menudo inmóvil en las zonas someras. Su plumaje con tonos rosados y su pico característico la hacen fácil de identificar.\n- **Cormorán indio**: ave buceadora negra que pesca en las zonas profundas. Obsérvela secándose con las alas extendidas sobre rocas y postes.\n- **Garza imperial**: zancuda alta y elegante de llamativo plumaje pardo violáceo, que caza en los cañaverales de la orilla.\n- **Martín cazador de pecho blanco**: un destello azul y blanco cuando se lanza desde una percha para atrapar peces pequeños.\n- **Ánade picopinto**: pato residente que cría en las islas y llanuras fangosas del lago.\n\n**Especies migratorias** (de noviembre a febrero):\n- **Flamenco común**: grandes bandadas visitan ocasionalmente en invierno y crean un espectáculo rosado sobre la superficie del lago.\n- **Porrón europeo**: pato buceador de Asia Central que inverna en Man Sagar en números significativos.\n- **Cuchara común**: fácil de reconocer por su pico en forma de espátula, este visitante siberiano se alimenta en las orillas someras.\n- **Focha común**: ave acuática negra con un escudo facial blanco muy visible, que llega en gran número a partir de septiembre.\n- **Ánsar común**: el mayor de los gansos visitantes, procedente de sus zonas de cría en Asia Central.\n\n### Buenas prácticas de observación\n\n- **Mejores meses**: de noviembre a febrero (pico migratorio)\n- **Mejor hora del día**: de 6:30 a 8:30 (las aves están más activas al alba)\n- **Equipo**: prismáticos imprescindibles; para fotografía, teleobjetivo de 200 mm o más\n- **Ubicación**: las orillas norte y oeste ofrecen las mejores vistas, lejos del paseo turístico principal\n- **Guía**: nuestros [guías de Jaipur](/india/jaipur) pueden organizar sesiones especializadas con naturalistas locales que conocen a fondo las poblaciones de aves del lago"
+   },
+   {
+    "title": "Guía fotográfica: captar el Jal Mahal en su mejor momento",
+    "content": "El Jal Mahal es uno de esos raros temas casi imposibles de fotografiar mal, pero con unos cuantos consejos puede pasar de una buena imagen a una extraordinaria.\n\n### Los mejores ángulos\n\n**Paseo de la orilla este** (la zona principal de observación): aquí fotografía la mayoría de los visitantes. La ventaja es una vista despejada del lago con las colinas Aravalli y el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort) al fondo. El inconveniente es que por la mañana la luz queda a su espalda (plana) y por la tarde justo detrás del palacio (riesgo de silueta).\n\n**Mirador elevado de la Amer Road**: al conducir hacia el [Fuerte Amber](/india/jaipur/amber-fort) hay varios puntos elevados desde los que fotografiar el Jal Mahal desde arriba, mostrando toda la extensión del lago y la posición del palacio en el valle. Pida a su conductor que pare en los miradores: conoce los lugares exactos.\n\n**Orilla norte** (poco visitada): accesible por una pista, ofrece otra perspectiva con el perfil urbano de Jaipur detrás del palacio. Es el mejor ángulo para fotografiar el atardecer, cuando el sol poniente ilumina la fachada oeste y la ciudad brilla al fondo.\n\n### Guía de luz\n\n- **Amanecer** (6:00 a 7:30): la mejor luz para fotografiar. La fachada este recibe la cálida luz matinal y la superficie del lago suele estar como un espejo al alba, con reflejos perfectos. Las colinas Aravalli tras el palacio brillan en ámbar y oro. **Esta es la fotografía definitiva del Jal Mahal.**\n- **Hora dorada de la tarde** (17:00 a 18:30): espectacular pero delicada. Desde la orilla norte, el palacio queda iluminado de lado y los reflejos son dorados. Desde el paseo este se convierte en silueta, lo que puede ser bonito pero hace perder detalle.\n- **Hora azul** (30 minutos tras la puesta de sol): si el palacio está iluminado (a veces lo está en ocasiones especiales), la combinación de cielo azul, luces doradas y lago oscuro crea una imagen mágica.\n- **Monzón** (de julio a septiembre): el lago está en su nivel máximo, las Aravalli lucen de un verde intenso y las nubes monzónicas crean cielos espectaculares tras el palacio. El aire es más limpio que en invierno, lo que da imágenes lejanas más nítidas.\n\n### Consejos técnicos\n\n- **Reflejos**: use un filtro polarizador para realzar o reducir el reflejo del palacio en el agua. Gírelo hasta encontrar el punto óptimo.\n- **Panorámica**: el lago y las colinas no caben en un solo encuadre; haga una panorámica de 3 a 5 imágenes desde el paseo este.\n- **Compresión con teleobjetivo**: un 200 mm o más desde el paseo este comprime el palacio contra las Aravalli y crea una imagen por capas.\n- **Trípode**: imprescindible para las tomas del alba y la hora azul. El paseo tiene pavimento liso, apto para trípodes.\n- **Drones**: los vuelos de dron **no están permitidos** sobre el lago Man Sagar ni el Jal Mahal por normativa de protección del patrimonio."
+   },
+   {
+    "title": "Vea el Jal Mahal en un tour de día completo por Jaipur",
+    "content": "Nuestros tours privados por Jaipur incluyen una parada fotográfica en el Jal Mahal en el mejor momento del día, calculada para la mejor luz y los mejores reflejos."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Se puede entrar en el Jal Mahal?",
+    "a": "**No**: el Jal Mahal no está abierto al público. No hay servicio de barcas, ni puente, ni acceso público al palacio. Se contempla desde el paseo de la orilla este del lago Man Sagar. El gobierno de Rajastán ha debatido abrirlo en el futuro, pero a fecha de 2026 no se permite la entrada."
+   },
+   {
+    "q": "¿Por qué está el Jal Mahal dentro del agua?",
+    "a": "El Jal Mahal se construyó deliberadamente **sobre el lecho del lago Man Sagar** como palacio de recreo para la familia real rajput. Solo la planta superior estaba pensada para quedar sobre la línea del agua con el lago lleno. La familia llegaba en barca para disfrutar de la brisa fresca y observar las aves acuáticas desde el Chameli Bagh (jardín del Jazmín) de la azotea."
+   },
+   {
+    "q": "¿Cuántas plantas del Jal Mahal están bajo el agua?",
+    "a": "**Cuatro de las cinco plantas** quedan sumergidas cuando el lago Man Sagar está a plena capacidad. Solo la quinta planta y el jardín Chameli Bagh de la azotea permanecen visibles. En la estación seca, partes de la cuarta planta pueden hacerse visibles al bajar el nivel."
+   },
+   {
+    "q": "¿Hay que pagar entrada para el Jal Mahal?",
+    "a": "**No**: contemplar el Jal Mahal desde el paseo junto al lago es completamente gratuito y no requiere entrada. La zona del paseo cuenta con jardines, plataformas de observación y zonas de descanso, todas de acceso libre."
+   },
+   {
+    "q": "¿Cuál es el mejor momento para fotografiar el Jal Mahal?",
+    "a": "El **amanecer** (6:00 a 7:30) es el mejor momento. La fachada este recibe la cálida luz matinal y la superficie del lago está como un espejo al alba, lo que da reflejos perfectos con las colinas Aravalli brillando en ámbar tras el palacio."
+   },
+   {
+    "q": "¿Qué aves se pueden ver en el lago Man Sagar?",
+    "a": "Más de **150 especies** migratorias y residentes, entre ellas cigüeñas pintadas, espátulas, cormoranes, garzas y martines pescadores, y en invierno (de noviembre a febrero) flamencos comunes, porrones y ánsares comunes llegados de Asia Central y Siberia."
+   },
+   {
+    "q": "¿Cuánto tiempo conviene dedicar al Jal Mahal?",
+    "a": "La mayoría de los visitantes dedica **15 a 30 minutos** a las fotos y a un paseo junto al lago. Los aficionados a las aves pueden pasar 1 o 2 horas, sobre todo en la temporada migratoria de invierno. El Jal Mahal suele ser una parada fotográfica en el trayecto entre Jaipur y el [Fuerte Amber](/india/jaipur/amber-fort)."
+   },
+   {
+    "q": "¿Quién construyó el Jal Mahal?",
+    "a": "El **maharajá Madho Singh I** construyó el Jal Mahal en 1799 como pabellón de caza y palacio de recreo en el lago Man Sagar. El propio lago se creó en 1610 represando el río Dravyavati. El estilo arquitectónico del palacio combina tradiciones rajput y mogol."
+   },
+   {
+    "q": "¿Está el Jal Mahal de camino al Fuerte Amber?",
+    "a": "Sí: el Jal Mahal se encuentra justo en la **Amer Road**, la ruta principal entre la ciudad de Jaipur y el [Fuerte Amber](/india/jaipur/amber-fort). Es una parada fotográfica natural en cualquier visita al fuerte, situada aproximadamente a mitad de camino entre ambos destinos (10 a 12 minutos de cada uno)."
+   },
+   {
+    "q": "¿Se puede nadar en el lago Man Sagar?",
+    "a": "**No**: no está permitido nadar en el lago Man Sagar. Aunque la calidad del agua ha mejorado mucho desde el proyecto de restauración, el lago es un humedal protegido y una zona patrimonial. Tampoco hay navegación disponible para el público."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {

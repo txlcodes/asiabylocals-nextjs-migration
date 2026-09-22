@@ -6160,6 +6160,105 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "**Dringend empfohlen.** Ohne Guide wirken die 19 Instrumente wie abstrakte Steinskulpturen, und die meisten Besucher gehen nach 20 Minuten ratlos wieder. Mit einem Guide, der Astronomie und Mathematik versteht, wird jedes Instrument zu einem funktionierenden wissenschaftlichen Rechenwerk und der Besuch zu einem der anregendsten Erlebnisse Indiens."
    }
   ]
+ },
+ "jal-mahal": {
+  "title": "Jal Mahal in Jaipur: der Wasserpalast im Man-Sagar-See, kompletter Guide 2026",
+  "description": "Jal Mahal Jaipur 2026: der schwimmende Wasserpalast, seine 5 versunkenen Etagen, die Geschichte des Man-Sagar-Sees, Vogelbeobachtung, Fototipps und Besuch.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Beste Fotozeit",
+    "value": "Sonnenauf- und Sonnenuntergang"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Eintritt",
+    "value": "Frei (nur Außenansicht)"
+   },
+   {
+    "icon": "History",
+    "label": "Erbaut",
+    "value": "1799 von Maharadscha Madho Singh I."
+   },
+   {
+    "icon": "Star",
+    "label": "Höhepunkt",
+    "value": "Der Dachgarten Chameli Bagh"
+   },
+   {
+    "icon": "Map",
+    "label": "Lage",
+    "value": "Amer Road, zwischen Stadt und Amber Fort"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Jal Mahal, der Palast, der auf dem Wasser schwimmt",
+    "content": "An der Amer Road zwischen der Stadt Jaipur und dem [Amber Fort](/india/jaipur/amber-fort) scheint ein fünfstöckiger Rajputen-Palast ruhig auf der Oberfläche des **Man-Sagar-Sees** zu schweben. Nur sein oberstes Geschoss und der Dachgarten ragen über die Wasserlinie, die übrigen vier Etagen liegen vollständig unter Wasser, eine der eindrucksvollsten und rätselhaftesten Bauillusionen Indiens.\n\nDas ist der **Jal Mahal** (wörtlich „Wasserpalast“), eines der meistfotografierten Gebäude Rajasthans, ein so unwahrscheinlicher Anblick, dass Erstbesucher oft anhalten, um ihn zu betrachten. Die ockerfarbenen und roten Sandsteinmauern, das von Chhatris gekrönte Dach und die perfekte Spiegelung im stillen See ergeben ein Bild, das die Romantik und Größe der Rajputen-Architektur vollkommener einfängt als jedes Fort oder Stadtpalais.\n\nZugleich ist der Jal Mahal eines der frustrierendsten Monumente Jaipurs, denn **man kann ihn nicht betreten**. Es gibt keinen Bootsdienst, keine Brücke und keinen öffentlichen Zugang. Besucher betrachten ihn vom Ostufer des Man-Sagar-Sees, meist bei einem Fotostopp auf der Fahrt zwischen Stadt und Amber Fort. Doch wer seine Geschichte, seine Architektur und die bemerkenswerte ökologische Rettung des Sees kennt, macht aus diesem kurzen Halt einen der bedeutungsvollsten Momente einer Jaipur-Reise.\n\nDer Palast entstand im späten 18. Jahrhundert unter **Maharadscha Madho Singh I.** als Jagdhaus und Lustschloss. Die Rajputen-Königsfamilie kam mit dem Boot, um Abende auf der Dachterrasse zu verbringen, Wasservögel zu beobachten und die kühle Brise aus den Aravalli-Hügeln zu genießen. Der Entwurf war bewusst gewählt: Nur das oberste Geschoss musste bewohnbar sein, die vier unteren dienten als Fundament und sollten bei vollem See unter Wasser stehen.\n\nDer Stil verbindet raffiniert **rajputische und mogulische Traditionen**: Wände aus rotem Sandstein mit Bogenfenstern im Mogulstil, rajputische Chhatris (Kuppelpavillons) auf dem Dach und ein formal angelegter Dachgarten namens **Chameli Bagh** (Jasmingarten), der ursprünglich duftenden Jasmin, Marmorwege und einen kleinen Pavillon für die abendliche Unterhaltung des Hofes bot."
+   },
+   {
+    "title": "Die fünf Etagen: was unter dem Wasser liegt",
+    "content": "Die häufigste Frage zum Jal Mahal lautet: **Was ist unter dem Wasser?** Die Antwort: vier komplette Palastgeschosse. Unter der Wasserlinie liegt mehr Gebäude als darüber.\n\nDer Jal Mahal ist ein fünfstöckiger Bau auf einer Steinplattform im Seebett. Wenn der Man-Sagar-See voll ist (meist während und nach dem Monsun, Juli bis Oktober), sind nur das oberste Geschoss und die Dachterrasse sichtbar. In der Trockenzeit (März bis Juni) sinkt der Pegel, und Teile des zweiten Geschosses können auftauchen, samt Bogenfenstern und Sandsteinfassaden, die sonst verborgen bleiben.\n\nDie versunkenen Etagen sollten ursprünglich nicht dauerhaft unter Wasser stehen. Als Maharadscha Madho Singh I. den Palast in Auftrag gab, schwankte der Wasserstand stark mit den Jahreszeiten, und in den Trockenmonaten lag ein Großteil des Baus frei. Erst nachdem der **Mansagar-Damm** am nördlichen Talende errichtet und über die Jahrhunderte mehrfach verstärkt und erhöht wurde, stabilisierte sich der Pegel auf einer Höhe, die die unteren vier Etagen dauerhaft überflutet.\n\nZur versunkenen Architektur gehören:\n\n**Erdgeschoss**: Fundamentebene mit Wirtschaftsräumen, Lagern und dem Bootsanleger, an dem die königlichen Barken festmachten. Der Haupteingang, ein großes Bogentor, weist nach Osten zur Stadt.\n\n**Zweites Geschoss**: Gästezimmer und Empfangsräume mit Bogenfenstern und Jharokhas (vorkragenden geschlossenen Balkonen). In Jahren mit niedrigem Wasserstand werden die kunstvollen Fensterschnitzereien dieser Etage sichtbar.\n\n**Drittes Geschoss**: der große Empfangssaal und die Speisebereiche. Historische Berichte erwähnen Marmorböden und bemalte Wände, die die dauerhafte Überflutung vermutlich beschädigt hat.\n\n**Viertes Geschoss**: die Privatgemächer der Königsfamilie, samt Zenana (Frauenquartier) mit Gitterfenstern, durch die Königin und Hofdamen den Seeblick genießen konnten, ohne das Purdah zu brechen.\n\n**Fünftes Geschoss (sichtbar)**: die einzige über Wasser zugängliche Etage, mit einer zentralen Halle, die sich auf allen vier Seiten in Bogentüren öffnet und so die Seebrise durchlässt. Von hier führt der Weg auf das Dach.\n\n**Das Dach, der Chameli Bagh**: die Krone des Palastes, ein formaler Garten mit Jasminbeeten, Marmorwegen und vier Chhatris an den Ecken. Er diente der abendlichen Unterhaltung: Die Königsfamilie kam bei Sonnenuntergang mit dem Boot, stieg aufs Dach und genoss den Blick auf die Aravalli-Hügel, das ferne [Amber Fort](/india/jaipur/amber-fort) und das [Nahargarh Fort](/india/jaipur/nahargarh-fort) auf dem Kamm."
+   },
+   {
+    "title": "Der Man-Sagar-See, von der Umweltkatastrophe zum Naturschutzerfolg",
+    "content": "Die Geschichte des Jal Mahal lässt sich nicht ohne die des **Man-Sagar-Sees** erzählen, und ohne die außergewöhnliche Renaturierung, die ihn von einer Kloake in ein lebendiges Feuchtgebiet verwandelte.\n\nDer Man-Sagar-See entstand 1610 durch Aufstauung des Dravyavati-Flusses in einem Tal der Aravalli-Hügel. Drei Jahrhunderte lang war er ein königlicher See: sauber, gepflegt und voller Wasservögel, die den Rajputen-Adel zur Entenjagd anzogen.\n\nIn den 1990er Jahren war der See jedoch zur Umweltkatastrophe geworden. Jaipurs explosives Wachstum hatte ihn zum inoffiziellen **Abwasserbecken** der Stadt gemacht. Schätzungsweise 50 Millionen Liter ungeklärtes Abwasser flossen täglich über Dutzende offener Kanäle hinein. Das Wasser wurde schwarz und giftig, alles Leben im See starb, und der Jal Mahal stand in einer stinkenden, verschmutzten Brühe. Seine unteren Etagen standen nicht in sauberem Seewasser, sondern in roher Kloake.\n\n2001 startete die Regierung von Rajasthan eines der ehrgeizigsten Projekte zur **Renaturierung eines Stadtsees** in Indien. Über fast ein Jahrzehnt umfasste es:\n\n1. **Abwasserumleitung**: Jeder in den See mündende Kanal wurde abgefangen und in eine neue Kläranlage geleitet. Allein dieser Schritt beseitigte 100 Prozent des Abwasserzuflusses.\n2. **Schlammentfernung**: Rund 2 Millionen Kubikmeter belasteter Schlamm, Jahrzehnte von Ablagerungen, wurden ausgebaggert.\n3. **Feuchtgebiets-Pufferzonen**: Rund um den See wurden künstliche Feuchtgebiete angelegt, die verbleibende Einträge natürlich filtern, bevor sie den Hauptwasserkörper erreichen.\n4. **Uferpromenade**: Das Ostufer wurde zu einer gestalteten Promenade mit Aussichtsplattformen, Gärten und Sitzbereichen ausgebaut.\n5. **Schaffung von Vogellebensräumen**: Inseln und Brutplattformen wurden angelegt, um die Rückkehr von Zug- und Standvögeln zu fördern.\n\nDie Ergebnisse sind bemerkenswert. Der Man-Sagar-See wurde von einer toten Zone zu einem **lebendigen Feuchtgebiet**, das heute über **150 Arten** von Zug- und Standvögeln beherbergt, darunter Buntstörche, Löffler, Kormorane, Reiher, Eisvögel sowie mehrere Enten- und Gänsearten. In den Wintermonaten (November bis Februar) wird der See zu einem bedeutenden Ziel für Vogelbeobachter, mit Zugvögeln aus Zentralasien, Sibirien und Europa.\n\nDie Renaturierung hat den Jal Mahal auch wieder in seinen gedachten Zusammenhang gerückt: ein Lustschloss an einem schönen See zwischen Hügeln, statt eines verfallenden Monuments in einem Abwasserteich. Das Projekt gilt heute international als Modell für die Renaturierung städtischer Seen in Entwicklungsländern."
+   },
+   {
+    "title": "Vogelbeobachtung am Man-Sagar-See, ein verborgenes Kleinod",
+    "content": "Seit der Renaturierung ist Man Sagar still und leise zu einem der lohnendsten Orte für Vogelbeobachtung in Rajasthan geworden, was den meisten Touristen unbekannt ist.\n\n### Was Sie sehen könnten\n\n**Standvögel** (ganzjährig):\n- **Buntstorch**: großer, farbenprächtiger Schreitvogel, oft reglos im Flachwasser. Das rosa getönte Gefieder und der markante Schnabel machen ihn leicht erkennbar.\n- **Braunwangenscharbe**: schwarzer Tauchvogel, der in den tieferen Bereichen fischt. Achten Sie darauf, wie er mit ausgebreiteten Flügeln auf Felsen und Pfählen trocknet.\n- **Purpurreiher**: hoher, eleganter Schreitvogel mit auffälligem purpurbraunem Gefieder, der in den Schilfgürteln jagt.\n- **Braunliest**: ein Blitz aus leuchtendem Blau und Weiß, wenn er von Uferzweigen nach kleinen Fischen stößt.\n- **Fleckschnabelente**: Standente, die auf den Inseln und Schlickflächen des Sees brütet.\n\n**Zugvögel** (November bis Februar):\n- **Rosaflamingo**: Große Schwärme besuchen gelegentlich im Winter und verwandeln die Seeoberfläche in ein rosa Schauspiel.\n- **Tafelente**: Tauchente aus Zentralasien, die in großer Zahl am Man Sagar überwintert.\n- **Löffelente**: leicht am spatelförmigen Schnabel zu erkennen, dieser Wintergast aus Sibirien gründelt in den Flachzonen.\n- **Blässhuhn**: schwarzer Wasservogel mit weißem Stirnschild, ab September in großer Zahl.\n- **Graugans**: die größte der Gastgänse, aus ihren Brutgebieten in Zentralasien.\n\n### Gute Beobachtungspraxis\n\n- **Beste Monate**: November bis Februar (Höhepunkt der Zugsaison)\n- **Beste Tageszeit**: 6:30 bis 8:30 Uhr (Vögel sind im Morgengrauen am aktivsten)\n- **Ausrüstung**: Fernglas unerlässlich, für Fotos ein Teleobjektiv ab 200 mm\n- **Ort**: Das Nord- und Westufer bieten die besten Blicke, abseits der Touristenpromenade\n- **Guide**: Unsere [Guides in Jaipur](/india/jaipur) können spezielle Beobachtungstouren mit lokalen Naturkundigen organisieren, die die Vogelwelt des Sees genau kennen"
+   },
+   {
+    "title": "Fotoguide: den Jal Mahal im besten Licht festhalten",
+    "content": "Der Jal Mahal gehört zu den seltenen Motiven, die sich kaum schlecht fotografieren lassen, doch mit ein paar Tipps werden aus guten Bildern außergewöhnliche.\n\n### Die besten Blickwinkel\n\n**Promenade am Ostufer** (der Hauptaussichtsbereich): Hier fotografieren die meisten Besucher. Vorteil ist der freie Blick über den See mit den Aravalli-Hügeln und dem [Nahargarh Fort](/india/jaipur/nahargarh-fort) im Hintergrund. Nachteil: Morgens steht das Licht im Rücken (flach), abends direkt hinter dem Palast (Gegenlichtgefahr).\n\n**Erhöhter Aussichtspunkt an der Amer Road**: Auf der Fahrt zum [Amber Fort](/india/jaipur/amber-fort) gibt es mehrere erhöhte Stellen, von denen man den Jal Mahal von oben fotografieren kann, mit dem ganzen See und der Lage im Tal. Bitten Sie Ihren Fahrer, an den Aussichtspunkten zu halten, er kennt sie genau.\n\n**Nordufer** (wenig besucht): Über eine unbefestigte Straße erreichbar, bietet es eine andere Perspektive mit der Silhouette Jaipurs hinter dem Palast. Das ist der beste Winkel für Sonnenuntergangsaufnahmen, wenn die sinkende Sonne die Westfassade beleuchtet und die Stadt im Hintergrund leuchtet.\n\n### Lichtführer\n\n- **Sonnenaufgang** (6:00 bis 7:30 Uhr): das beste Licht. Die Ostfassade fängt das warme Morgenlicht, und die Seeoberfläche ist im Morgengrauen meist spiegelglatt, für perfekte Reflexionen. Die Aravalli-Hügel hinter dem Palast leuchten bernsteinfarben und golden. **Das ist die maßgebliche Jal-Mahal-Aufnahme.**\n- **Goldene Stunde am Abend** (17:00 bis 18:30 Uhr): eindrucksvoll, aber heikel. Vom Nordufer wird der Palast seitlich beleuchtet und die Spiegelungen werden golden. Von der Ostpromenade wird er zur Silhouette, was schön sein kann, aber Details kostet.\n- **Blaue Stunde** (30 Minuten nach Sonnenuntergang): Ist der Palast beleuchtet (das kommt zu besonderen Anlässen vor), ergibt die Kombination aus blauem Himmel, goldenen Lichtern und dunklem See ein magisches Bild.\n- **Monsun** (Juli bis September): Der See steht am höchsten, die Aravalli sind sattgrün, und dramatische Monsunwolken schaffen spektakuläre Himmel. Die Luft ist klarer als im Winter, was Fernaufnahmen schärfer macht.\n\n### Technische Tipps\n\n- **Spiegelungen**: Mit einem Polfilter lässt sich die Spiegelung des Palastes verstärken oder abschwächen. Drehen Sie den Filter, bis es passt.\n- **Panorama**: See und Hügel sind für ein einzelnes Bild zu weit, nehmen Sie von der Ostpromenade ein Panorama aus 3 bis 5 Aufnahmen auf.\n- **Telekompression**: Ein Objektiv ab 200 mm von der Ostpromenade rückt den Palast optisch an die Aravalli heran und schafft ein gestaffeltes Bild.\n- **Stativ**: unerlässlich für Aufnahmen im Morgengrauen und zur blauen Stunde. Die Promenade ist glatt gepflastert und dafür geeignet.\n- **Drohnen**: Drohnenflüge über dem Man-Sagar-See und dem Jal Mahal sind aus Gründen des Denkmalschutzes **nicht erlaubt**."
+   },
+   {
+    "title": "Sehen Sie den Jal Mahal auf einer Ganztagestour durch Jaipur",
+    "content": "Unsere privaten Jaipur-Touren enthalten einen Fotostopp am Jal Mahal zur besten Tageszeit, abgestimmt auf optimales Licht und schönste Spiegelungen."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Kann man den Jal Mahal betreten?",
+    "a": "**Nein**, der Jal Mahal ist für die Öffentlichkeit nicht zugänglich. Es gibt weder Bootsdienst noch Brücke noch öffentlichen Zugang. Besucher betrachten ihn von der Promenade am Ostufer des Man-Sagar-Sees. Die Regierung von Rajasthan hat eine künftige Öffnung erörtert, doch Stand 2026 ist der Zutritt nicht erlaubt."
+   },
+   {
+    "q": "Warum steht der Jal Mahal im Wasser?",
+    "a": "Der Jal Mahal wurde bewusst **auf dem Grund des Man-Sagar-Sees** als Lustschloss der Rajputen-Königsfamilie errichtet. Nur das oberste Geschoss sollte bei vollem See über der Wasserlinie liegen. Die Familie kam mit dem Boot, um die kühle Brise zu genießen und vom Dachgarten Chameli Bagh (Jasmingarten) aus Wasservögel zu beobachten."
+   },
+   {
+    "q": "Wie viele Etagen des Jal Mahal liegen unter Wasser?",
+    "a": "**Vier der fünf Etagen** sind überflutet, wenn der Man-Sagar-See voll ist. Nur das fünfte Geschoss und der Dachgarten Chameli Bagh liegen über der Wasserlinie. In der Trockenzeit können Teile der vierten Etage sichtbar werden, wenn der Pegel sinkt."
+   },
+   {
+    "q": "Kostet der Jal Mahal Eintritt?",
+    "a": "**Nein**, der Blick auf den Jal Mahal von der Uferpromenade ist völlig kostenlos und braucht kein Ticket. Die Promenade bietet gestaltete Gärten, Aussichtsplattformen und Sitzbereiche, alle frei zugänglich."
+   },
+   {
+    "q": "Wann fotografiert man den Jal Mahal am besten?",
+    "a": "Zum **Sonnenaufgang** (6:00 bis 7:30 Uhr). Die Ostfassade fängt das warme Morgenlicht, und die Seeoberfläche ist im Morgengrauen spiegelglatt, für perfekte Reflexionen, während die Aravalli-Hügel hinter dem Palast bernsteinfarben leuchten."
+   },
+   {
+    "q": "Welche Vögel sieht man am Man-Sagar-See?",
+    "a": "Über **150 Arten** von Zug- und Standvögeln, darunter Buntstörche, Löffler, Kormorane, Reiher und Eisvögel, im Winter (November bis Februar) auch Rosaflamingos, Tafelenten und Graugänse aus Zentralasien und Sibirien."
+   },
+   {
+    "q": "Wie lange sollte man am Jal Mahal bleiben?",
+    "a": "Die meisten Besucher bleiben **15 bis 30 Minuten** für Fotos und einen Spaziergang am Ufer. Vogelbeobachter verbringen oft 1 bis 2 Stunden, besonders in der winterlichen Zugsaison. Der Jal Mahal ist üblicherweise ein Fotostopp auf der Fahrt zwischen Jaipur und dem [Amber Fort](/india/jaipur/amber-fort)."
+   },
+   {
+    "q": "Wer hat den Jal Mahal erbaut?",
+    "a": "**Maharadscha Madho Singh I.** ließ den Jal Mahal 1799 als Jagdhaus und Lustschloss am Man-Sagar-See errichten. Der See selbst entstand 1610 durch Aufstauung des Dravyavati-Flusses. Der Baustil verbindet rajputische und mogulische Traditionen."
+   },
+   {
+    "q": "Liegt der Jal Mahal auf dem Weg zum Amber Fort?",
+    "a": "Ja, der Jal Mahal liegt direkt an der **Amer Road**, der Hauptverbindung zwischen der Stadt Jaipur und dem [Amber Fort](/india/jaipur/amber-fort). Er ist ein natürlicher Fotostopp bei jedem Besuch des Forts, etwa auf halber Strecke zwischen beiden Zielen (10 bis 12 Minuten von jedem)."
+   },
+   {
+    "q": "Darf man im Man-Sagar-See schwimmen?",
+    "a": "**Nein**, Schwimmen ist im Man-Sagar-See nicht erlaubt. Die Wasserqualität hat sich seit der Renaturierung zwar stark verbessert, doch der See ist ein geschütztes Feuchtgebiet und eine Denkmalzone. Auch Bootfahren ist für die Öffentlichkeit nicht möglich."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
