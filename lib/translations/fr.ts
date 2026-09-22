@@ -5848,6 +5848,219 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Oui, le City Palace jouxte le **Jantar Mantar** (2 minutes à pied) et se trouve à 5 minutes du **[Hawa Mahal](/india/jaipur/hawa-mahal)**. Ces trois sites forment un ensemble naturel dans la vieille ville, à couvrir en 2h30 à 3 heures. Ajoutez une balade dans les bazars voisins : Johari Bazaar pour les pierres précieuses et Bapu Bazaar pour les textiles."
    }
   ]
+ },
+ "nahargarh-fort": {
+  "title": "Fort de Nahargarh à Jaipur : point de vue au coucher du soleil et guide complet 2026",
+  "description": "Fort de Nahargarh 2026 : les plus beaux couchers de soleil de Jaipur, le palais des douze reines, tarifs et comment visiter ce joyau perché sur les Aravalli.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "10h00 à 17h30 tous les jours"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Entrée",
+    "value": "200 ₹ étrangers / 50 ₹ Indiens"
+   },
+   {
+    "icon": "History",
+    "label": "Construit",
+    "value": "En 1734 par le maharaja Jai Singh II"
+   },
+   {
+    "icon": "Star",
+    "label": "Temps fort",
+    "value": "Le coucher de soleil sur la Ville rose"
+   },
+   {
+    "icon": "Map",
+    "label": "Situation",
+    "value": "Crête des Aravalli au-dessus de Jaipur"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Pourquoi Nahargarh est le secret le mieux gardé de Jaipur",
+    "content": "Tandis que le [fort d'Amber](/india/jaipur/amber-fort) attire les foules, le **fort de Nahargarh** offre quelque chose sans doute plus précieux : **la plus belle vue panoramique sur Jaipur depuis les hauteurs**. Perché sur la crête des collines Aravalli, juste au nord de la ville, Nahargarh déroule depuis ses remparts un panorama à 180 degrés sur toute la Ville rose, du lointain fort d'Amber à l'est jusqu'à la ville moderne qui s'étend au sud.\n\nConstruit en 1734 par le maharaja Jai Singh II comme retraite et position défensive, Nahargarh (« demeure des tigres ») n'a jamais été pris au combat : sa position sommitale et ses murailles massives le rendaient quasi imprenable. Aujourd'hui, il a une autre vocation : c'est le fort le plus atmosphérique du Rajasthan et le meilleur point de vue sur le coucher de soleil à Jaipur.\n\nLe fort est moins visité que celui d'Amber, ce qui joue en sa faveur : cours plus calmes, architecture plus intime et place pour respirer et photographier sans affronter la foule."
+   },
+   {
+    "title": "Le Madhavendra Bhawan, le palais des douze reines",
+    "content": "L'élément architectural le plus fascinant de Nahargarh est le **Madhavendra Bhawan**, un complexe palatial bâti en 1902 par le maharaja Sawai Madho Singh II. Il comprend **douze suites identiques**, une pour chacune des douze reines du souverain, disposées symétriquement autour d'une cour centrale.\n\nLe génie du plan tient à son système d'intimité. Chaque suite a sa propre entrée, son propre couloir et sa propre vue sur la cour, de telle sorte qu'**aucune reine ne pouvait voir quand le roi rendait visite à une autre**. Des aménagements identiques signifiaient aussi qu'aucune ne pouvait se prévaloir d'un traitement de faveur lié à la taille ou à la qualité de ses appartements.\n\nLes suites offrent de belles fresques murales, des portes en arc et des façades ventilées. La symétrie est remarquable : en parcourant les douze suites, chacune apparaît comme le reflet de sa voisine, avec de subtiles variations dans les fresques décoratives qui personnalisaient l'espace de chaque reine."
+   },
+   {
+    "title": "Le coucher de soleil à Nahargarh, l'expérience essentielle",
+    "content": "Le **coucher de soleil depuis les remparts ouest de Nahargarh** est régulièrement classé parmi les plus belles expériences du Rajasthan. Alors que le soleil descend derrière les Aravalli, toute la Ville rose en contrebas se transforme :\n\n1. **Heure dorée** (45 minutes avant le coucher) : les bâtiments rosés prennent une chaude teinte ambrée. La vue depuis les remparts embrasse toute la vieille ville fortifiée, avec le Hawa Mahal, le City Palace et le Jantar Mantar visibles en contrebas.\n2. **Le moment du coucher** : le ciel passe de l'or à l'orange profond, puis au cramoisi. La ville commence à s'illuminer de réverbères et de lampes de temples.\n3. **Heure bleue** (20 minutes après le coucher) : la ville devient un tapis de lumières sous le bleu profond du crépuscule.\n\n**Arrivez vers 16h30** en hiver (octobre à février) ou vers 17h00 en été, pour explorer le fort avant de vous installer sur les remparts.\n\n**Restaurant Padao** : installé au fort, il sert une cuisine rajasthanie avec vue panoramique sur Jaipur illuminée. C'est l'endroit parfait pour dîner après le coucher du soleil.\n\n**Y aller** : 20 à 25 minutes en voiture depuis le centre-ville par une route de montagne raide et sinueuse. Votre chauffeur doit avoir l'habitude de cette route étroite. Le trajet lui-même offre des vues spectaculaires."
+   },
+   {
+    "title": "L'histoire de Nahargarh : tigres, fantôme et bastion des Aravalli",
+    "content": "L'histoire de Nahargarh mêle mythe, stratégie militaire et fondation de Jaipur.\n\n**1734, la fondation** : le maharaja Jai Singh II, le roi astronome qui fonda Jaipur et bâtit le [City Palace](/india/jaipur/city-palace-jaipur), fit construire Nahargarh comme ancrage défensif nord de sa nouvelle capitale. Avec le [fort d'Amber](/india/jaipur/amber-fort) à l'est et le fort de Jaigarh sur la crête au-dessus, il formait un **triangle de fortifications** qui faisait de Jaipur l'une des villes les mieux défendues d'Inde. La position sur la crête donnait à Nahargarh une vue dominante sur toutes les approches.\n\n**Le fantôme de Nahar Singh** : le fort s'appelait d'abord **Sudarshangarh**, mais le chantier fut perturbé à répétition par des effondrements et des accidents mystérieux. La légende locale les attribuait à l'esprit courroucé de **Nahar Singh Bhomia**, un prince rathore mort sur ces pentes. Jai Singh II fit bâtir un petit temple dans l'enceinte pour apaiser le prince, et les perturbations cessèrent. Le fort fut rebaptisé **Nahargarh** (« demeure des tigres ») en son honneur, même si aucun tigre n'y a jamais vécu. Le temple existe toujours et les habitants y déposent des offrandes.\n\n**1868, l'agrandissement** : le maharaja Sawai Ram Singh II agrandit nettement le fort, ajoutant murs, bastions et ouvrages défensifs. Il en fit aussi le **trésor de l'État** : sa position imprenable en faisait le coffre-fort le plus sûr du royaume.\n\n**1876, refuge** : lors des troubles qui suivirent la Grande Révolte, les résidents britanniques de Jaipur furent évacués vers Nahargarh pour leur sécurité. Son isolement et sa solidité en faisaient un refuge naturel en temps de crise.\n\n**1902, le Madhavendra Bhawan** : le maharaja Sawai Madho Singh II bâtit le palais des douze reines dans l'enceinte, transformant une installation purement militaire en retraite royale, l'ajout architectural le plus important de son histoire.\n\n**1944, Seconde Guerre mondiale** : le fort servit brièvement de poste d'observation et de communication dans les dernières phases du conflit, même si Jaipur ne fut jamais directement menacée.\n\n**Aujourd'hui** : le gouvernement du Rajasthan entretient Nahargarh comme site patrimonial et point de vue. Le parc biologique de Nahargarh, sur les pentes basses, accueille des animaux secourus, tandis que le fort accueille ponctuellement événements culturels et projections."
+   },
+   {
+    "title": "De Nahargarh à Jaigarh, la marche sur la crête des Aravalli",
+    "content": "L'une des plus belles courtes randonnées du Rajasthan relie le fort de Nahargarh au **fort de Jaigarh** le long de la crête des Aravalli : 2 kilomètres d'un sentier de difficulté moyenne, avec des vues panoramiques qui rivalisent avec le coucher de soleil.\n\n**L'itinéraire** : le sentier suit l'ancienne crête défensive qui relie les deux forts, à travers une végétation de broussailles, avec de vastes vues des deux côtés : Jaipur au sud et les vallées verdoyantes des Aravalli au nord. Le terrain est irrégulier et rocailleux par endroits, mais le chemin est bien tracé et emprunté depuis près de 300 ans.\n\n**Durée** : 45 à 60 minutes à l'aller, à allure tranquille. Le tracé reste assez plat sur la crête, avec une montée modérée à mi-parcours.\n\n**Ce que vous verrez à Jaigarh** : compagnon militaire du [fort d'Amber](/india/jaipur/amber-fort), Jaigarh est célèbre pour **Jaivana**, le plus grand canon sur roues du monde. Ce canon de 50 tonnes, fondu en 1720, n'a été tiré qu'une fois, projetant, dit-on, un boulet à 35 kilomètres. Jaigarh offre aussi une vue plongeante sur le complexe d'Amber et le lac Maota, une perspective radicalement différente de celle de l'intérieur du fort.\n\n**Meilleures conditions** : d'octobre à février, en partant de Nahargarh aux heures fraîches du matin (8h00 à 9h00). Emportez au moins un litre d'eau par personne. Portez de bonnes chaussures, les sandales ne conviennent pas aux passages rocailleux.\n\n**Conseils pratiques** :\n- Partez de Nahargarh vers Jaigarh (globalement en légère descente)\n- Demandez à votre chauffeur de vous retrouver à l'entrée du fort de Jaigarh\n- Le sentier est sûr en journée mais ne doit pas être emprunté après la tombée de la nuit\n- Les rencontres animalières sont fréquentes : langurs, paons et parfois cerfs axis vivent sur la crête\n- Un guide agréé qui connaît l'histoire et la faune du sentier rend la marche bien plus riche"
+   },
+   {
+    "title": "Vivez le fort de Nahargarh avec un historien local",
+    "content": "Nahargarh est au meilleur de lui-même en fin d'après-midi, quand ses couloirs silencieux se remplissent de lumière dorée et que monte l'attente du coucher de soleil. Nos [guides de Jaipur](/india/jaipur) calent parfaitement la visite : assez de temps pour explorer les douze suites identiques du Madhavendra Bhawan, entendre l'histoire du fantôme de Nahar Singh devant le temple d'origine, puis s'installer sur les remparts ouest pour le coucher de soleil sur la Ville rose.\n\nPour les voyageurs actifs, nous pouvons associer ce moment à la **marche matinale sur la crête jusqu'au fort de Jaigarh**, pour une journée complète dans les Aravalli avec le plus grand canon du monde, des vues panoramiques et l'observation de la faune, bien au-delà du circuit classique des forts de Jaipur.\n\n[Voir toutes les visites privées de Jaipur](/india/jaipur)"
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quel est le meilleur moment pour visiter le fort de Nahargarh ?",
+    "a": "**La fin d'après-midi, pour le coucher de soleil** : arrivez vers 16h30 (hiver) ou 17h00 (été). Le coucher de soleil sur la Ville rose depuis les remparts ouest est la plus belle expérience visuelle de Jaipur. Les visites matinales (10h00) sont aussi agréables, avec une lumière claire et des températures plus douces."
+   },
+   {
+    "q": "Le fort de Nahargarh vaut-il la visite ?",
+    "a": "Absolument, surtout pour les **vues panoramiques et le coucher de soleil**. S'il n'a pas la magnificence intérieure du [fort d'Amber](/india/jaipur/amber-fort), son cadre perché plein d'atmosphère, le fascinant Madhavendra Bhawan des douze reines et l'expérience du coucher de soleil le rendent incontournable. Il est en outre bien moins fréquenté que le fort d'Amber."
+   },
+   {
+    "q": "Comment se rendre au fort de Nahargarh ?",
+    "a": "En voiture : 20 à 25 minutes depuis le centre-ville par une route de montagne raide et sinueuse. Uber et Ola fonctionnent, à condition que le chauffeur accepte la montée. Un auto-rickshaw peut peiner sur la pente. L'option la plus pratique reste un **chauffeur privé à la journée**, qui peut attendre au fort pendant que vous explorez et regardez le coucher de soleil."
+   },
+   {
+    "q": "Peut-on combiner le fort de Nahargarh avec d'autres sites ?",
+    "a": "Oui, Nahargarh s'intègre parfaitement comme **fin de journée au coucher du soleil**, après la visite des monuments de la vieille ville (City Palace, Hawa Mahal, Jantar Mantar, bazars). Le fort est aussi relié au fort de Jaigarh par un sentier de crête (45 minutes de marche) pour les visiteurs plus sportifs."
+   },
+   {
+    "q": "Qu'est-ce que le Madhavendra Bhawan du fort de Nahargarh ?",
+    "a": "Le **Madhavendra Bhawan** est un complexe palatial bâti en 1902 comprenant **douze suites identiques**, une pour chacune des douze reines du souverain. Le plan garantissait qu'aucune reine ne pouvait voir quand le roi rendait visite à une autre : chaque suite a sa propre entrée, son couloir et sa vue sur la cour. Les murs à fresques et la disposition symétrique en font un ensemble unique au Rajasthan."
+   },
+   {
+    "q": "Quel est le prix d'entrée du fort de Nahargarh ?",
+    "a": "**200 ₹ pour les étrangers / 50 ₹ pour les ressortissants indiens.** Nahargarh est couvert par le billet combiné de Jaipur (1 000 ₹ étrangers), qui inclut aussi le fort d'Amber, le Hawa Mahal, le Jantar Mantar et trois autres monuments. Ce billet est valable 2 jours."
+   },
+   {
+    "q": "Y a-t-il de quoi manger au fort de Nahargarh ?",
+    "a": "Oui, le **restaurant Padao** se trouve au fort et sert une cuisine rajasthanie avec vue panoramique sur Jaipur illuminée. C'est l'endroit parfait pour dîner après le coucher de soleil vu des remparts. Comptez 500 à 1 500 ₹ par personne pour un repas avec vue."
+   },
+   {
+    "q": "Peut-on marcher du fort de Nahargarh au fort de Jaigarh ?",
+    "a": "Oui, un **sentier de crête** relie les deux forts (environ 45 minutes, 2 km). Il suit la crête des Aravalli avec des vues panoramiques des deux côtés. La difficulté est moyenne, avec un terrain irrégulier. Emportez de l'eau et portez de bonnes chaussures. Le sentier se fait au mieux aux heures fraîches du matin."
+   },
+   {
+    "q": "Le fort de Nahargarh est-il sûr le soir ?",
+    "a": "Le fort ferme officiellement à **17h30**, mais les visiteurs venus pour le coucher de soleil sont généralement autorisés à rester jusqu'au crépuscule. La route de montagne est éclairée, mais étroite et sinueuse : assurez-vous que votre chauffeur a l'habitude. Le secteur du restaurant Padao est bien éclairé et sûr pour dîner. Évitez de vous promener dans les parties non éclairées du fort après la tombée de la nuit."
+   },
+   {
+    "q": "Que signifie Nahargarh ?",
+    "a": "Nahargarh signifie **« demeure des tigres »** en hindi. Malgré ce nom, le fort n'a jamais été connu pour ses tigres : il vient de l'esprit d'un prince rathore nommé Nahar Singh, dont le fantôme aurait hanté le chantier. Le fort s'appelait d'abord Sudarshangarh, puis fut rebaptisé après que le roi eut apaisé l'esprit en bâtissant un temple dans l'enceinte."
+   }
+  ]
+ },
+ "places-to-visit-in-jaipur": {
+  "title": "Lieux à visiter à Jaipur : le top 12 des incontournables 2026",
+  "description": "Top 12 des lieux à visiter à Jaipur : fort d'Amber, Hawa Mahal, trésors cachés, tarifs, meilleurs moments et conseils d'itinéraire efficaces.",
+  "fastFacts": [
+   {
+    "icon": "Map",
+    "label": "Grands sites",
+    "value": "12 incontournables"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Billet combiné",
+    "value": "1 000 ₹ étrangers (7 sites)"
+   },
+   {
+    "icon": "Clock",
+    "label": "Temps minimum",
+    "value": "2 journées pleines conseillées"
+   },
+   {
+    "icon": "Star",
+    "label": "Site numéro 1",
+    "value": "Le fort d'Amber"
+   }
+  ],
+  "sections": [
+   {
+    "title": "1. Le fort d'Amber (fort d'Amer)",
+    "content": "Le plus magnifique fort du Rajasthan et l'attraction numéro un de Jaipur. Le Sheesh Mahal (salle des Miroirs), le Diwan-i-Khas et sa position dominant le lac Maota en font un monument de classe mondiale. Arrivez à 8h00 pour devancer les foules.\n\n**Entrée** : 500 ₹ étrangers / 100 ₹ Indiens (billet combiné). **Durée** : 90 à 120 minutes.\n\n[Lire le guide complet du fort d'Amber](/india/jaipur/amber-fort)"
+   },
+   {
+    "title": "2. Le Hawa Mahal (palais des Vents)",
+    "content": "Le monument le plus emblématique de Jaipur : une extraordinaire façade de cinq étages percée de 953 fenêtres jharokha. À photographier depuis la rue ou depuis le Wind View Cafe en face. La montée à l'intérieur révèle les vues dont jouissaient les reines il y a 200 ans.\n\n**Entrée** : 200 ₹ étrangers / 50 ₹ Indiens (billet combiné). **Durée** : 30 à 45 minutes.\n\n[Lire le guide complet du Hawa Mahal](/india/jaipur/hawa-mahal)"
+   },
+   {
+    "title": "3. Le City Palace",
+    "content": "Un vaste complexe royal où la famille royale de Jaipur vit toujours. Temps forts du musée : les urnes d'argent inscrites au Guinness, la cour de la Porte du Paon et la collection de textiles. Billet séparé, non inclus dans le pass combiné.\n\n**Entrée** : 500 ₹ étrangers / 100 ₹ Indiens. **Durée** : 60 à 90 minutes.\n\n[Lire le guide complet du City Palace](/india/jaipur/city-palace-jaipur)"
+   },
+   {
+    "title": "4. Le fort de Nahargarh",
+    "content": "Le meilleur point de vue au coucher du soleil du Rajasthan. Ce fort de colline domine toute la Ville rose, et le Madhavendra Bhawan des douze reines est architecturalement fascinant. Moins fréquenté que le fort d'Amber.\n\n**Entrée** : 200 ₹ étrangers / 50 ₹ Indiens (billet combiné). **Durée** : 60 à 90 minutes.\n\n[Lire le guide complet du fort de Nahargarh](/india/jaipur/nahargarh-fort)"
+   },
+   {
+    "title": "5. Le Jantar Mantar",
+    "content": "Site du patrimoine mondial de l'UNESCO : la plus grande collection au monde d'instruments astronomiques en pierre, dont le cadran solaire Samrat Yantra, précis à 2 secondes près. Fascinant avec un guide, déroutant sans.\n\n**Entrée** : 200 ₹ étrangers / 40 ₹ Indiens (billet combiné). **Durée** : 45 à 60 minutes."
+   },
+   {
+    "title": "6. Le Jal Mahal (palais d'Eau)",
+    "content": "Ce palais photogénique du milieu du XVIIIe siècle se dresse sur le lac Man Sagar. Fermé aux visiteurs, mais la promenade au bord du lac offre de très belles vues, surtout au coucher du soleil avec les collines de Nahargarh en fond.\n\n**Entrée** : gratuit (vue extérieure). **Durée** : 20 à 30 minutes."
+   },
+   {
+    "title": "7. Johari Bazaar et les marchés de la vieille ville",
+    "content": "Le légendaire quartier des bazars de Jaipur : Johari Bazaar pour les pierres et la joaillerie, Bapu Bazaar pour les textiles et les imprimés au tampon, Tripolia Bazaar pour les bracelets et le travail du métal. Un débordement de couleurs, de sons et de savoir-faire sur 300 ans.\n\n**Entrée** : gratuit. **Durée** : 1h30 à 3 heures."
+   },
+   {
+    "title": "8. Le musée Albert Hall",
+    "content": "Le plus ancien musée du Rajasthan, installé dans un superbe bâtiment indo-sarrasin. Les collections comprennent des momies égyptiennes, des spécimens d'histoire naturelle, des miniatures rajasthanies et des costumes traditionnels. Superbement illuminé la nuit.\n\n**Entrée** : 300 ₹ étrangers / 40 ₹ Indiens (billet combiné). **Durée** : 60 à 90 minutes."
+   },
+   {
+    "title": "9. Le fort de Jaigarh",
+    "content": "Relié au fort d'Amber par un passage souterrain de crête, Jaigarh est le pendant militaire de l'élégance palatiale d'Amber. Il abrite **Jaivana**, le plus grand canon sur roues du monde, et offre une vue plongeante sur le complexe d'Amber.\n\n**Entrée** : 200 ₹ étrangers / 35 ₹ Indiens. **Durée** : 45 à 60 minutes."
+   },
+   {
+    "title": "10. Le Birla Mandir (temple Lakshmi Narayan)",
+    "content": "Un temple de marbre blanc étincelant achevé en 1988, spectaculairement éclairé la nuit. Architecture hindoue moderne aux sculptures minutieuses représentant des scènes de la mythologie. Entrée libre, ouvert jusqu'à 20h00 : une excellente visite du soir.\n\n**Entrée** : gratuit. **Durée** : 30 minutes."
+   },
+   {
+    "title": "11. Galtaji (le temple des singes)",
+    "content": "Un spectaculaire ensemble de temples hindous niché dans une vallée étroite à l'est de Jaipur, avec des bassins alimentés par des sources naturelles et des centaines de macaques. L'architecture est superbe, l'expérience brute et authentiquement indienne, loin d'un site touristique aseptisé.\n\n**Entrée** : 100 ₹ étrangers / 30 ₹ Indiens. **Durée** : 45 à 60 minutes."
+   },
+   {
+    "title": "12. Chokhi Dhani (village rajasthani reconstitué)",
+    "content": "Un village rajasthani recréé à 20 km au sud de Jaipur, avec dîner traditionnel, danses folkloriques, spectacles de marionnettes, promenades à dos de chameau et animations culturelles. Touristique mais vraiment divertissant, et parfait pour les familles. Le soir uniquement (17h00 à 23h00).\n\n**Entrée** : 600 à 1 200 ₹ par personne (dîner inclus). **Durée** : 2 à 3 heures."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quels sont les 5 principaux lieux à visiter à Jaipur ?",
+    "a": "1. Le [fort d'Amber](/india/jaipur/amber-fort), le plus beau fort du Rajasthan. 2. Le [Hawa Mahal](/india/jaipur/hawa-mahal), l'emblématique palais des Vents aux 953 fenêtres. 3. Le [City Palace](/india/jaipur/city-palace-jaipur), palais royal encore habité, avec ses urnes d'argent du Guinness. 4. Le [fort de Nahargarh](/india/jaipur/nahargarh-fort), le meilleur point de vue au coucher du soleil. 5. Le Jantar Mantar, observatoire astronomique inscrit à l'UNESCO."
+   },
+   {
+    "q": "Combien de jours faut-il pour voir tout Jaipur ?",
+    "a": "**2 jours minimum** pour les 8 principaux sites. **3 jours** pour une visite complète incluant Galtaji, le fort de Jaigarh, le musée Albert Hall et le shopping. **4 à 5 jours** si vous ajoutez des excursions à Ranthambore (safari tigres) ou à Pushkar."
+   },
+   {
+    "q": "Dans quel ordre visiter les sites de Jaipur ?",
+    "a": "**Jour 1** : fort d'Amber (tôt le matin), Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal, balade dans les bazars. **Jour 2** : fort de Nahargarh (le matin ou au coucher du soleil), musée Albert Hall, Birla Mandir (le soir). Cet ordre limite les allers-retours et regroupe les sites par secteur."
+   },
+   {
+    "q": "Le billet combiné de Jaipur vaut-il le coup ?",
+    "a": "Oui : il couvre 7 monuments (1 000 ₹ étrangers), dont le fort d'Amber, le Hawa Mahal, le Jantar Mantar et le fort de Nahargarh. Acheter les billets individuels rien que pour ces 4 sites coûterait environ 1 100 ₹. Le billet combiné fait donc économiser de l'argent ET du temps (pas de file à chaque guichet)."
+   },
+   {
+    "q": "Quels sites de Jaipur sont gratuits ?",
+    "a": "Plusieurs excellents sites sont **entièrement gratuits** : le Jal Mahal (vue extérieure depuis la promenade du lac), le Birla Mandir (superbe temple de marbre blanc illuminé la nuit), Johari Bazaar, Bapu Bazaar et tous les marchés de la vieille ville, ainsi que les abords de Galtaji (le temple des singes). Les balades dans les rues de la Ville rose sont gratuites et sans doute l'expérience la plus mémorable de Jaipur."
+   },
+   {
+    "q": "Quels sont les trésors cachés que la plupart des touristes manquent à Jaipur ?",
+    "a": "Au-delà des grands monuments : **Panna Meena ka Kund**, superbe puits à degrés géométrique près du fort d'Amber, célèbre pour ses escaliers symétriques. Le **musée Anokhi de l'impression à la main**, dans une haveli restaurée consacrée à l'héritage de l'impression au tampon. Le sanctuaire d'éléphants **Elefantastic** près du fort d'Amber. Le puits à degrés d'**Abhaneri (Chand Baori)**, le plus profond du monde, à 95 km de Jaipur, souvent combiné avec une journée au fort d'Amber."
+   },
+   {
+    "q": "Jaipur est-elle sûre pour les voyageuses seules ?",
+    "a": "Jaipur est globalement **sûre pour les voyageuses seules**, avec les précautions habituelles. Les principales zones touristiques (vieille ville, fort d'Amber, MI Road) sont bien surveillées. Préférez Uber ou Ola à la négociation avec les conducteurs d'auto-rickshaw. Habillez-vous sobrement sur les sites religieux. Évitez les zones isolées après la tombée de la nuit. Un [guide agréé](/india/jaipur) ajoute de la sécurité et aide à circuler sereinement dans les ruelles des bazars."
+   },
+   {
+    "q": "Quelle est la meilleure période de l'année pour visiter les sites de Jaipur ?",
+    "a": "**D'octobre à mars** : les températures vont de 12 à 25 °C avec un ciel dégagé, et les forts et monuments en plein air se parcourent agréablement. Évitez mai et juin, quand les températures dépassent 45 °C et rendent les visites épuisantes. La mousson (de juillet à septembre) rend les forts glissants mais offre des paysages verdoyants autour de Nahargarh et d'Amber."
+   },
+   {
+    "q": "Peut-on visiter les grands sites de Jaipur sans guide ?",
+    "a": "C'est possible, mais vous perdrez beaucoup de contexte. Le **Jantar Mantar** est presque incompréhensible sans guide : sans explication, les instruments ressemblent à de la sculpture abstraite. Le **fort d'Amber** et le **[City Palace](/india/jaipur/city-palace-jaipur)** couvrent plus de 300 ans d'histoire en strates qu'un guide fait revivre. Les bazars sont nettement plus intéressants avec un local qui connaît les ateliers cachés et les prix justes."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
