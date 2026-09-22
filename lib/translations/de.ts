@@ -3000,6 +3000,109 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alkoholische Getränke",
    "Trinkgelder für Guide und Fahrer"
   ]
+ },
+ "jaipur-block-printing-workshop": {
+  "title": "Jaipur: Blockdruck-Workshop zum Mitmachen",
+  "metaTitle": "Blockdruck-Workshop in Jaipur mit lokalen Handwerkern",
+  "metaDescription": "Blockdruck-Workshop in Jaipur: Vorführung durch Handwerker, eigenes Ausprobieren auf Schal, Schürze oder Tasche, bedruckter Stoff zum Mitnehmen.",
+  "shortDescription": "Lernen Sie die Technik des Blockdrucks bei einem lokalen Handwerker in Jaipur kennen. Sehen Sie zu, wie die Drucker mit verschiedenen Stempeln und Farben Muster schaffen, und probieren Sie den Blockdruck selbst aus.",
+  "fullDescription": "Entdecken Sie die Kunst des Blockdrucks in Jaipur bei einer Führung durch eine lokale Werkstatt. Lernen Sie den Prozess von den Handwerkern kennen und probieren Sie die Technik selbst aus, um Ihren eigenen bedruckten Stoff mit nach Hause zu nehmen.\n\nSie treffen Ihren Guide und fahren zur Werkstatt, einer der ältesten in Jaipur. Sehen Sie zu, wie lokale Handwerker die Druckstempel von Hand schnitzen, und beobachten Sie die Drucker bei der Arbeit mit verschiedenen Stempeln und Farben. Sie erfahren auch, wie der Waschvorgang nach dem Druck abläuft.\n\nNach der Vorführung probieren Sie den Blockdruck selbst auf einem Stück Stoff aus. Wählen Sie zwischen einem kurzen oder langen Schal, einer Schürze, einer Stofftasche, Servietten oder Platzsets und gestalten Sie mit Stempeln und Farben Ihr eigenes Motiv. Sehen Sie, wie sich die Farben beim Waschen verändern, und nehmen Sie Ihr Stück als Souvenir mit nach Hause.",
+  "highlights": [
+   "Zusehen, wie lokale Drucker mit verschiedenen Stempeln und Farben Muster schaffen",
+   "Blockdruck selbst ausprobieren, auf Schal, Schürze, Stofftasche oder Platzsets",
+   "Sehen, wie sich die Farben beim Waschen und nach dem Trocknen verändern",
+   "Ein schönes Souvenir der eigenen Kreativität mit nach Hause nehmen"
+  ],
+  "included": [
+   "Blockdruck-Erlebnis",
+   "Führung durch die Blockdruck-Werkstatt",
+   "Gelegenheit, den Blockdruck auf Schal oder Schürze auszuprobieren",
+   "Alle erforderlichen Materialien für den Blockdruck",
+   "Ihr eigenes bedrucktes Stück zum Mitnehmen",
+   "Wasserflasche",
+   "Abholung und Rückfahrt zum Hotel (bei gewählter Option)",
+   "Mahlzeiten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-by-car": {
+  "title": "Ab Jaipur: private Ganztagestour im Auto mit Guide",
+  "metaTitle": "Jaipur privat an einem Tag: Amber Fort, City Palace, Jantar Mantar",
+  "metaDescription": "Privater Tag in Jaipur im klimatisierten Wagen mit Guide und Eintritten: Amber Fort, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace und Jantar Mantar.",
+  "shortDescription": "Erleben Sie den exklusiven Charme Jaipurs, eines UNESCO-Welterbes, auf einer privaten Ganztagestour. Entdecken Sie die reiche Geschichte der Stadt, ihr königliches Erbe und ihre bedeutendsten Wahrzeichen mit Ihrem Guide.",
+  "fullDescription": "Erkunden Sie den kulturellen Reichtum und das Erbe Jaipurs auf dieser Ganztagestour.\n\n1. Amber Fort und Palast\nBestaunen Sie die Pracht des Amber Fort, eine beispielhafte Verbindung hinduistischer und muslimischer Architektur. Hoch auf den zerklüfteten Hügeln vor Jaipur gelegen, gibt diese Festung aus rotem Sandstein und weißem Marmor einen Einblick in die faszinierende Geschichte der Region. Dauer: 2 Stunden.\n\n2. Panna Meena Ka Kund\nEntdecken Sie den historischen Stufenbrunnen, bekannt für seine symmetrischen Treppen und sein wirksames System zur Regenwassersammlung. In der Nähe des Amber Fort gelegen, hebt sich dieses Wunderwerk des 16. Jahrhunderts vor der berühmten Festung ab. Dauer: 30 Minuten.\n\n3. Jal Mahal\nGenießen Sie die Ruhe des Jal Mahal, eines bezaubernden Wasserpalasts inmitten des malerischen Man-Sagar-Sees. Dieses architektonische Juwel aus dem 18. Jahrhundert zeigt mit seinem markanten Bau aus rotem Sandstein die Pracht der Rajputen-Kultur. Dauer: 20 Minuten (optional).\n\nMittagspause (1 Stunde, optional)\nUm diese Zeit können Sie in einem lokalen Restaurant entspannt zu Mittag essen, bevor die Besichtigung weitergeht.\n\nFür 10 bis 15 Minuten besuchen Sie eine Werkstatt zur lokalen Kultur und Kunst Jaipurs und lernen traditionelle Handwerke wie den Jaipurer Handblockdruck und das Schleifen von Rohsteinen kennen. Das ist ein rein lehrreiches und kulturelles Erlebnis, ohne jeden Kaufdruck.\n\n4. Hawa Mahal\nBewundern Sie den ikonischen Hawa Mahal, den Palast der Winde, ersonnen von Sawai Pratap Singh. Er zeigt gestufte Bögen und feine Gitterfenster. Dauer: 1 Stunde.\n\n5. City Palace\nErkunden Sie den City Palace des Maharadschas, Zeugnis von Jaipurs fürstlichem Erbe. Von Maharadscha Jai Singh erbaut, beherbergt dieses Meisterwerk die einstige Königsfamilie. Dauer: 1 Stunde.\n\n6. Jantar Mantar\nTauchen Sie ein in den Erfindergeist des Jantar Mantar, einer Sammlung von neunzehn astronomischen Instrumenten des Rajputen-Königs Sawai Jai Singh. Als UNESCO-Welterbe beherbergt es die größte Steinsonnenuhr der Welt. Dauer: 1 Stunde.\n\n7. Royal Gaitor Tumbas\nTauchen Sie ein in die Geschichte der königlichen Kenotaphe von Gaitor, einer Anlage des 18. Jahrhunderts mit feinen Schnitzereien und geweihten Tempeln. Dauer: 1 Stunde.\n\nOptional, wenn Sie es wählen: Erleben Sie die Schönheit des Amber Fort auf einer dreistündigen Führung mit bequemer Abholung und Rückfahrt zum Hotel, inklusive großer Höfe, Sheesh Mahal, Ganesh Pol und königlicher Gemächer.",
+  "highlights": [
+   "Die charakteristische Pracht Jaipurs auf einer Ganztagesbesichtigung",
+   "Die Höhepunkte eines UNESCO-Welterbes, bekannt als Rosa Stadt",
+   "Bequeme Fahrt im privaten klimatisierten Wagen mit professionellem Guide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport in klimatisierter Limousine oder SUV",
+   "Professioneller autorisierter Guide",
+   "Parkgebühren",
+   "Kraftstoff",
+   "Eintrittskarten für die Monumente"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-shopping-tour": {
+  "title": "Jaipur: Handwerk und Shopping mit Blauer Keramik und Stoffdruck",
+  "metaTitle": "Jaipur: Shopping, Blaue Keramik und Handblockdruck",
+  "metaDescription": "Handwerks- und Shoppingtour in Jaipur: lokale Basare, Vorführung Blauer Keramik, Blockdruck-Workshop und Edelsteinschliff. Transfers inklusive.",
+  "shortDescription": "Entdecken Sie Jaipurs lebendige Kunst und Handwerk auf diesem besonderen Erlebnis. Genießen Sie eine geführte Shopping-Tour samt Besuchen in traditionellen Handwerkswerkstätten, wo Sie Blaue Keramik und Handblockdruck kennenlernen, dazu die lokalen Basare. Abholung und Rückfahrt zum Hotel im Auto inklusive.",
+  "fullDescription": "Entdecken Sie Jaipurs lebendige Kunst und Handwerk auf dieser besonderen Shopping- und Kulturtour. Besuchen Sie lokale Basare mit traditioneller rajasthanischer Kleidung, Kunsthandwerk und Souvenirs und erleben Sie Jaipurs berühmte Handwerkstraditionen.\n\nSehen Sie erfahrenen Handwerkern bei der Herstellung Blauer Keramik zu, probieren Sie einen Handblockdruck-Workshop aus und lernen Sie von lokalen Fachleuten den faszinierenden Prozess des Schleifens und Polierens von Edelsteinen kennen.\n\nDieses eindrucksvolle Erlebnis gibt einen perfekten Einblick in Jaipurs reiches Handwerkserbe, mit bequemer Abholung und Rückfahrt zum Hotel.",
+  "highlights": [
+   "Jaipurs Märkte mit Workshop für Blaue Keramik und Handblockdruck",
+   "Die traditionelle Kunst der Blauen Keramik von lokalen Handwerkern lernen",
+   "Jaipurs belebte Basare zum Einkaufen erkunden"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Hotel oder Flughafen im klimatisierten Wagen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Professioneller Reiseleiter",
+   "Flasche Mineralwasser",
+   "Alle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "elephant-village-tour-jaipur": {
+  "title": "Jaipur: Elefantendorf, füttern, laufen und Nähe erleben",
+  "metaTitle": "Elefantenschutzzentrum in Jaipur: Füttern, Laufen und Baden",
+  "metaDescription": "Begegnung mit geretteten Elefanten in einem Schutzzentrum nahe dem Amber Fort in Jaipur: Füttern, gemeinsames Laufen und Baden, ohne Elefantenritte.",
+  "shortDescription": "Erleben Sie eine bedeutungsvolle und unvergessliche Begegnung mit Elefanten in einem ruhigen Schutzzentrum in Jaipur. Verbringen Sie Zeit mit geretteten Elefanten in natürlicher, friedlicher Umgebung und erfahren Sie mehr über ihr Leben und ihre Pflege.",
+  "fullDescription": "Erleben Sie eine bedeutungsvolle und unvergessliche Begegnung mit Elefanten in einem ruhigen Schutzzentrum in Jaipur, wo gerettete Elefanten in sicherer, natürlicher Umgebung versorgt werden.\n\nDieses besondere Erlebnis bietet die Gelegenheit, eine Verbindung zu diesen sanften Riesen aufzubauen und dabei mehr über ihr Leben, ihr Verhalten und die wichtige Arbeit zu ihrem Schutz und ihrer Pflege zu erfahren.\n\nIn der Nähe des historischen Gebiets um das Amber Fort gelegen, bietet das Zentrum eine ruhige Umgebung abseits der geschäftigen Stadt, in der die Elefanten unter Aufsicht geschulter Pflegerinnen und Pfleger bequem leben können.",
+  "highlights": [
+   "Jaipurs Elefantenschutzzentrum für eine unvergessliche Begegnung mit Elefanten",
+   "Die Fressgewohnheiten der Elefanten und ihre Lieblingsnahrung beim Füttern kennenlernen",
+   "Beim Waschen und Schrubben der Elefanten mitmachen, nach den Sicherheitsregeln"
+  ],
+  "included": [
+   "Transport im privaten Wagen",
+   "Private Tour",
+   "Abholung und Rückfahrt zum Hotel",
+   "Wasserflasche während der Aktivitäten",
+   "Kennenlernen und Einführung: Zuerst nehmen die Elefanten Ihren Geruch auf, und Sie bauen behutsam Vertrauen auf",
+   "Füttern: Lernen Sie ihre Fressgewohnheiten kennen und gewinnen Sie ihr Vertrauen beim Füttern",
+   "Bemalen der Elefanten: Entdecken Sie die natürliche Farbe für ihre Haut und probieren Sie die traditionelle Elefantenmalerei",
+   "Laufen mit dem Elefanten: Statt Reiten laufen Sie neben den Elefanten, um auf ihr Wohlergehen aufmerksam zu machen",
+   "Waschen und Duschen: Machen Sie beim Waschen und Schrubben der Elefanten mit und erleben Sie ihre verspielte Dusche",
+   "Alle Kosten der genannten Aktivitäten",
+   "Eintrittskarten für das Elefantendorf",
+   "Alle Steuern, Gebühren und Bearbeitungskosten",
+   "Kraftstoffzuschlag"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
  }
 };
 export const DE_PAGES: Record<string, PageT> = {

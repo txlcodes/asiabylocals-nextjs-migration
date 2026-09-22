@@ -3000,6 +3000,109 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons alcoolisées",
    "Pourboires pour le guide et le chauffeur"
   ]
+ },
+ "jaipur-block-printing-workshop": {
+  "title": "Jaipur : atelier d'impression au tampon et expérience pratique",
+  "metaTitle": "Atelier d'impression au tampon à Jaipur avec artisans locaux",
+  "metaDescription": "Atelier d'impression au tampon à Jaipur : démonstration par des artisans, essai pratique sur écharpe, tablier ou tote bag, et tissu imprimé à emporter.",
+  "shortDescription": "Découvrez la technique de l'impression au tampon auprès d'un artisan local de Jaipur. Observez les imprimeurs utiliser différents tampons et couleurs pour créer des motifs, puis essayez-vous à votre tour à l'impression au tampon.",
+  "fullDescription": "Découvrez l'art de l'impression au tampon à Jaipur lors d'une visite guidée d'un atelier local. Apprenez le procédé auprès des artisans et essayez la technique pour créer votre propre tissu imprimé à emporter.\n\nVous retrouvez votre guide et vous rendez à l'atelier, l'un des plus anciens de Jaipur. Vous observez les artisans tailler les tampons à la main et les imprimeurs au travail avec différents tampons et couleurs. Vous découvrez aussi le procédé de lavage qui suit l'impression.\n\nAprès la démonstration, vous essayez l'impression au tampon sur une pièce de tissu. Choisissez entre une écharpe courte ou longue, un tablier, un tote bag, des serviettes ou des sets de table, puis utilisez tampons et couleurs pour créer votre propre motif. Observez comment les couleurs évoluent au lavage et emportez votre création en souvenir.",
+  "highlights": [
+   "Observer les imprimeurs locaux créer des motifs avec différents tampons et couleurs",
+   "Essayer l'impression au tampon sur une écharpe, un tablier, un tote bag ou des sets de table",
+   "Voir comment les couleurs changent au lavage et après séchage",
+   "Repartir avec un beau souvenir de votre propre créativité"
+  ],
+  "included": [
+   "Expérience d'impression au tampon",
+   "Visite guidée de l'atelier d'impression",
+   "Possibilité d'essayer l'impression sur une écharpe ou un tablier",
+   "Tout le matériel nécessaire à l'impression",
+   "Votre pièce imprimée à emporter",
+   "Bouteille d'eau",
+   "Prise en charge et retour à l'hôtel (si l'option est choisie)",
+   "Repas"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-by-car": {
+  "title": "Depuis Jaipur : journée privée de visites en voiture avec guide",
+  "metaTitle": "Jaipur en une journée privée : fort d'Amber, City Palace, Jantar Mantar",
+  "metaDescription": "Journée privée à Jaipur en voiture climatisée avec guide et entrées incluses : fort d'Amber, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace et Jantar Mantar.",
+  "shortDescription": "Découvrez le charme exclusif de Jaipur, inscrite au patrimoine mondial de l'UNESCO, lors d'une journée privée. Explorez la riche histoire de la ville, son héritage royal et ses monuments les plus importants avec votre guide.",
+  "fullDescription": "Explorez la richesse culturelle et patrimoniale de Jaipur lors de cette journée complète de visites.\n\n1. Fort et palais d'Amber\nAdmirez la grandeur du fort d'Amber, mariage exemplaire d'architectures hindoue et musulmane. Perché sur les collines escarpées aux abords de Jaipur, ce fort de grès rouge et de marbre blanc offre un aperçu de l'histoire fascinante de la région. Durée : 2 heures.\n\n2. Panna Meena Ka Kund\nDécouvrez ce puits à degrés historique, connu pour ses escaliers symétriques et son système efficace de collecte des eaux de pluie. Situé près du fort d'Amber, ce joyau du XVIe siècle se détache sur la silhouette de la forteresse. Durée : 30 minutes.\n\n3. Jal Mahal\nProfitez de la sérénité du Jal Mahal, captivant palais d'Eau posé sur le pittoresque lac Man Sagar. Ce joyau architectural du XVIIIe siècle illustre la splendeur de la culture rajput avec sa saisissante structure de grès rouge. Durée : 20 minutes (facultatif).\n\nPause déjeuner (1 heure, facultatif)\nVous pouvez profiter d'un déjeuner détendu dans un restaurant local avant de poursuivre la visite.\n\nPendant 10 à 15 minutes, vous découvrez un atelier consacré à la culture et aux arts locaux de Jaipur, pour comprendre des savoir-faire traditionnels comme l'impression au tampon et la taille des pierres brutes. Il s'agit d'une expérience purement éducative et culturelle : aucune pression d'achat, en toute transparence.\n\n4. Hawa Mahal\nAdmirez l'emblématique Hawa Mahal, le palais des Vents, voulu par Sawai Pratap Singh. Conçu pour offrir un aperçu de la vie quotidienne de la ville, il présente des arcs étagés et de délicats moucharabiehs. Durée : 1 heure.\n\n5. City Palace\nExplorez le City Palace du maharaja, témoignage de l'héritage princier de Jaipur. Bâti par le maharaja Jai Singh, ce chef-d'œuvre architectural abrite l'ancienne famille royale. Durée : 1 heure.\n\n6. Jantar Mantar\nPlongez dans le génie scientifique du Jantar Mantar, ensemble de dix-neuf instruments astronomiques construits par le roi rajput Sawai Jai Singh. Site du patrimoine mondial de l'UNESCO, il abrite le plus grand cadran solaire en pierre du monde. Durée : 1 heure.\n\n7. Royal Gaitor Tumbas\nPlongez dans l'histoire aux cénotaphes royaux de Gaitor, complexe du XVIIIe siècle orné de sculptures minutieuses et de temples dédiés. Ce lieu de pèlerinage hindou mêle portée spirituelle et splendeur architecturale. Durée : 1 heure.\n\nEn option, si vous le souhaitez : découvrez la beauté du fort d'Amber lors d'une visite guidée de 3 heures avec prise en charge et retour à l'hôtel. Explorez les grandes cours, le splendide Sheesh Mahal, la Ganesh Pol et les appartements royaux pendant que votre guide expert partage l'histoire rajput et les secrets d'architecture.",
+  "highlights": [
+   "La splendeur visuelle caractéristique de Jaipur lors d'une journée complète de visites",
+   "Les temps forts d'un site du patrimoine mondial de l'UNESCO, la Ville rose",
+   "Un trajet confortable en voiture privée climatisée avec guide professionnel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en berline ou SUV climatisé",
+   "Guide professionnel agréé",
+   "Frais de stationnement",
+   "Carburant",
+   "Billets d'entrée des monuments"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires"
+  ]
+ },
+ "jaipur-shopping-tour": {
+  "title": "Jaipur : artisanat et shopping avec poterie bleue et impression textile",
+  "metaTitle": "Jaipur : shopping, poterie bleue et impression au tampon",
+  "metaDescription": "Visite artisanat et shopping à Jaipur : bazars locaux, démonstration de poterie bleue, atelier d'impression au tampon et taille de pierres. Transferts inclus.",
+  "shortDescription": "Découvrez les arts et l'artisanat vibrants de Jaipur lors de cette expérience unique. Profitez d'une visite shopping guidée et d'étapes dans des ateliers d'artisans traditionnels, où vous découvrirez la poterie bleue et l'impression au tampon, ainsi que les bazars locaux. Prise en charge et retour à l'hôtel en voiture inclus.",
+  "fullDescription": "Découvrez les arts et l'artisanat vibrants de Jaipur lors de cette visite shopping et culturelle unique. Explorez les bazars locaux pour y voir vêtements rajasthanis traditionnels, artisanat et souvenirs, et découvrez les célèbres traditions artisanales de la ville.\n\nObservez des artisans qualifiés faire la démonstration de la poterie bleue, essayez un atelier d'impression au tampon à la main et découvrez le fascinant procédé de taille et de polissage des pierres précieuses auprès d'artisans locaux experts.\n\nCette expérience immersive offre un aperçu parfait du riche patrimoine artisanal de Jaipur, avec prise en charge et retour à l'hôtel inclus.",
+  "highlights": [
+   "Les marchés de Jaipur avec atelier de poterie bleue et d'impression au tampon",
+   "Apprendre l'art traditionnel de la poterie bleue auprès d'artisans locaux",
+   "Explorer les bazars animés de Jaipur pour faire des achats"
+  ],
+  "included": [
+   "Prise en charge et retour hôtel ou aéroport en voiture climatisée",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
+ "elephant-village-tour-jaipur": {
+  "title": "Jaipur : village des éléphants, nourrir, marcher et créer du lien",
+  "metaTitle": "Sanctuaire des éléphants à Jaipur : nourrissage, marche et bain",
+  "metaDescription": "Rencontre avec des éléphants secourus dans un sanctuaire près du fort d'Amber à Jaipur : nourrissage, marche à leurs côtés et bain, sans promenade à dos d'éléphant.",
+  "shortDescription": "Vivez une rencontre forte et mémorable avec des éléphants dans un sanctuaire paisible de Jaipur. Passez du temps auprès d'éléphants secourus dans un cadre naturel et calme, tout en découvrant leur vie et les soins qui leur sont apportés.",
+  "fullDescription": "Vivez une rencontre forte et mémorable avec des éléphants dans un sanctuaire paisible de Jaipur, où des éléphants secourus sont pris en charge dans un environnement sûr et naturel.\n\nCette expérience unique permet de créer un lien avec ces géants doux tout en découvrant leur vie, leur comportement et le travail important mené pour les protéger et les soigner.\n\nSitué près du quartier historique du fort d'Amber, le sanctuaire offre un cadre calme, loin de l'agitation de la ville, où les éléphants vivent confortablement sous la surveillance de soigneurs formés.",
+  "highlights": [
+   "Le sanctuaire des éléphants de Jaipur pour une rencontre inoubliable",
+   "Découvrir les habitudes alimentaires des éléphants et leurs aliments préférés pendant le nourrissage",
+   "Participer au lavage et au brossage des éléphants, dans le respect des consignes de sécurité"
+  ],
+  "included": [
+   "Transport en voiture privée",
+   "Visite privée",
+   "Prise en charge et retour à l'hôtel",
+   "Bouteille d'eau pendant les activités",
+   "Rencontre et présentation : laissez d'abord les éléphants capter votre odeur et créez le lien en douceur",
+   "Nourrissage : découvrez leurs habitudes alimentaires et gagnez leur confiance en les nourrissant",
+   "Peinture sur éléphant : découvrez la peinture naturelle utilisée sur leur peau et essayez la peinture traditionnelle",
+   "Marche avec l'éléphant : au lieu d'une promenade à dos d'éléphant, marchez à leurs côtés pour sensibiliser à leur bien-être",
+   "Lavage et douche : participez au lavage et au brossage des éléphants et partagez ce moment de jeu",
+   "Tous les frais des activités mentionnées",
+   "Billets d'entrée du village des éléphants",
+   "Toutes les taxes et tous les frais de dossier",
+   "Surcharge carburant"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
  }
 };
 export const FR_PAGES: Record<string, PageT> = {

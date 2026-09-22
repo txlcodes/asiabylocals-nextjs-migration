@@ -3000,6 +3000,109 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas alcohólicas",
    "Propinas para el guía y el conductor"
   ]
+ },
+ "jaipur-block-printing-workshop": {
+  "title": "Jaipur: taller de estampado en bloque y experiencia práctica",
+  "metaTitle": "Taller de estampado en bloque en Jaipur con artesanos locales",
+  "metaDescription": "Taller de estampado en bloque en Jaipur: demostración de artesanos, práctica en pañuelo, delantal o bolsa de tela y tejido estampado para llevar.",
+  "shortDescription": "Aprenda la técnica del estampado en bloque de la mano de un artesano local de Jaipur. Observe a los estampadores usar distintos tacos y colores para crear motivos y pruebe usted mismo el estampado en bloque.",
+  "fullDescription": "Descubra el arte del estampado en bloque en Jaipur con una visita guiada a un taller local. Conozca el proceso de la mano de los artesanos y pruebe la técnica para crear su propio tejido estampado y llevárselo a casa.\n\nSe reunirá con su guía y se dirigirá al taller, uno de los más antiguos de Jaipur. Verá a los artesanos tallar los tacos a mano y a los estampadores trabajar con distintos bloques y colores. También conocerá el proceso de lavado posterior al estampado.\n\nTras la demostración, probará el estampado en bloque sobre una pieza de tela. Elija entre un pañuelo corto o largo, un delantal, una bolsa de tela, servilletas o manteles individuales, y use los tacos y los colores para crear su propio diseño. Vea cómo cambian los colores al lavar la tela y llévese su muestra estampada como recuerdo de su creatividad.",
+  "highlights": [
+   "Ver a los estampadores locales crear motivos con distintos tacos y colores",
+   "Probar el estampado en bloque en un pañuelo, delantal, bolsa de tela o manteles",
+   "Comprobar cómo cambian los colores al lavar la tela y tras el secado",
+   "Llevarse a casa un bonito recuerdo de su propia creatividad"
+  ],
+  "included": [
+   "Experiencia de estampado en bloque",
+   "Visita guiada al taller de estampado",
+   "Oportunidad de probar el estampado en un pañuelo o delantal",
+   "Todos los materiales necesarios para el estampado",
+   "Su propia muestra estampada para llevar",
+   "Botella de agua",
+   "Recogida y regreso al hotel (si se selecciona la opción)",
+   "Comidas"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-by-car": {
+  "title": "Desde Jaipur: tour privado de día completo en coche con guía",
+  "metaTitle": "Jaipur privado en un día: Fuerte Amber, City Palace, Jantar Mantar",
+  "metaDescription": "Día privado en Jaipur en coche climatizado con guía y entradas incluidas: Fuerte Amber, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace y Jantar Mantar.",
+  "shortDescription": "Viva el encanto exclusivo de Jaipur, Patrimonio de la Humanidad, en un tour privado de día completo. Descubra la rica historia de la ciudad, su legado real y sus monumentos más importantes con su guía.",
+  "fullDescription": "Explore la riqueza cultural y patrimonial de Jaipur en esta jornada completa de visitas.\n\n1. Fuerte y palacio de Amber\nAdmire la grandeza del Fuerte Amber, una combinación ejemplar de arquitectura hindú y musulmana. Situado en lo alto de las escarpadas colinas a las afueras de Jaipur, este fuerte de arenisca roja y mármol blanco ofrece una ventana a la fascinante historia de la región. Duración: 2 horas.\n\n2. Panna Meena Ka Kund\nDescubra este pozo escalonado histórico, conocido por sus escaleras simétricas y su eficaz sistema de captación de agua de lluvia. Situado cerca del Fuerte Amber, esta maravilla del siglo XVI se recorta ante la célebre fortaleza. Duración: 30 minutos.\n\n3. Jal Mahal\nDisfrute de la tranquilidad del Jal Mahal, un cautivador palacio sobre el agua en medio del pintoresco lago Man Sagar. Esta joya arquitectónica del siglo XVIII muestra el esplendor de la cultura rajput con su llamativa estructura de arenisca roja. Duración: 20 minutos (opcional).\n\nPausa para comer (1 hora, opcional)\nA esta hora puede disfrutar de una comida relajada en un restaurante local antes de continuar con las visitas.\n\nDurante 10 a 15 minutos visitará un taller dedicado a la cultura y las artes locales de Jaipur, para conocer oficios tradicionales como el estampado en bloque a mano y el corte de piedras en bruto. Es una experiencia puramente educativa y cultural, sin ninguna presión de compra.\n\n4. Hawa Mahal\nAdmire el icónico Hawa Mahal, el Palacio de los Vientos, ideado por Sawai Pratap Singh. Presenta arcos escalonados y delicadas celosías. Duración: 1 hora.\n\n5. City Palace\nExplore el City Palace del maharajá, testimonio del legado real de Jaipur. Construido por el maharajá Jai Singh, esta obra maestra alberga a la antigua familia real. Duración: 1 hora.\n\n6. Jantar Mantar\nAdéntrese en el ingenio científico del Jantar Mantar, un conjunto de diecinueve instrumentos astronómicos construidos por el rey rajput Sawai Jai Singh. Patrimonio de la Humanidad, alberga el mayor reloj de sol de piedra del mundo. Duración: 1 hora.\n\n7. Royal Gaitor Tumbas\nSumérjase en la historia en los cenotafios reales de Gaitor, un complejo del siglo XVIII con tallas minuciosas y templos dedicados. Duración: 1 hora.\n\nOpcional, si lo elige: disfrute de la belleza del Fuerte Amber en un tour guiado de 3 horas con cómoda recogida y regreso al hotel, con sus grandes patios, el Sheesh Mahal, la Ganesh Pol y las estancias reales.",
+  "highlights": [
+   "El característico esplendor visual de Jaipur en una jornada completa de visitas",
+   "Lo mejor de un sitio Patrimonio de la Humanidad conocido como la Ciudad Rosa",
+   "Un trayecto cómodo en coche privado climatizado con guía profesional"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en sedán o SUV climatizado",
+   "Guía profesional autorizado",
+   "Aparcamiento",
+   "Combustible",
+   "Entradas a los monumentos"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas"
+  ]
+ },
+ "jaipur-shopping-tour": {
+  "title": "Jaipur: artesanía y compras con cerámica azul y estampado textil",
+  "metaTitle": "Jaipur: compras, cerámica azul y estampado en bloque",
+  "metaDescription": "Tour de artesanía y compras por Jaipur: bazares locales, demostración de cerámica azul, taller de estampado en bloque y tallado de gemas. Traslados incluidos.",
+  "shortDescription": "Descubra las vibrantes artes y artesanías de Jaipur en esta experiencia única. Disfrute de un tour de compras guiado junto con visitas a talleres artesanos tradicionales donde conocerá la cerámica azul y el estampado en bloque a mano, además de los bazares locales. Recogida y regreso al hotel en coche incluidos.",
+  "fullDescription": "Descubra las vibrantes artes y artesanías de Jaipur en este tour único de compras y cultura. Visite bazares locales para conocer ropa tradicional rajastaní, artesanía y recuerdos, y viva las famosas tradiciones artesanas de la ciudad.\n\nVea a artesanos expertos demostrar la técnica de la cerámica azul, pruebe un taller de estampado en bloque a mano y conozca el fascinante proceso de corte y pulido de gemas de la mano de artesanos locales.\n\nEsta experiencia envolvente ofrece una ventana perfecta al rico patrimonio artesano de Jaipur, con cómoda recogida y regreso al hotel incluidos.",
+  "highlights": [
+   "Los mercados de Jaipur con taller de cerámica azul y estampado en bloque",
+   "Aprender el arte tradicional de la cerámica azul de la mano de artesanos locales",
+   "Recorrer los bulliciosos bazares de Jaipur para hacer compras"
+  ],
+  "included": [
+   "Recogida y regreso en hotel o aeropuerto en coche climatizado",
+   "Coche privado climatizado con conductor para las visitas",
+   "Guía turístico profesional",
+   "Botella de agua mineral",
+   "Todos los peajes y aparcamientos"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "elephant-village-tour-jaipur": {
+  "title": "Jaipur: aldea de elefantes, alimentar, pasear y conectar",
+  "metaTitle": "Santuario de elefantes en Jaipur: alimentar, pasear y bañar",
+  "metaDescription": "Encuentro con elefantes rescatados en un santuario cerca del Fuerte Amber en Jaipur: alimentarlos, pasear a su lado y bañarlos, sin paseos a lomos.",
+  "shortDescription": "Viva un encuentro significativo y memorable con elefantes en un santuario tranquilo de Jaipur. Pase tiempo con elefantes rescatados en un entorno natural y sereno mientras conoce sus vidas y los cuidados que reciben.",
+  "fullDescription": "Viva un encuentro significativo y memorable con elefantes en un santuario tranquilo de Jaipur, donde se cuida a elefantes rescatados en un entorno seguro y natural.\n\nEsta experiencia única permite conectar con estos gigantes amables mientras conoce sus vidas, su comportamiento y la importante labor que se realiza para protegerlos y cuidarlos.\n\nSituado cerca de la zona histórica del Fuerte Amber, el santuario ofrece un entorno sereno, lejos del bullicio de la ciudad, donde los elefantes viven con comodidad bajo la supervisión de cuidadores formados.",
+  "highlights": [
+   "El santuario de elefantes de Jaipur para un encuentro inolvidable",
+   "Conocer los hábitos alimentarios de los elefantes y sus alimentos favoritos durante la alimentación",
+   "Participar en el lavado y el cepillado de los elefantes, siguiendo las normas de seguridad"
+  ],
+  "included": [
+   "Transporte en coche privado",
+   "Tour privado",
+   "Recogida y regreso al hotel",
+   "Botella de agua durante las actividades",
+   "Encuentro y presentación: primero deje que los elefantes capten su olor y vaya generando confianza",
+   "Alimentación: conozca sus hábitos alimentarios y gánese su confianza dándoles de comer",
+   "Pintura sobre elefantes: descubra la pintura natural que se usa en su piel y pruebe la pintura tradicional",
+   "Paseo con el elefante: en lugar de montar, camine junto a los elefantes para concienciar sobre su bienestar",
+   "Lavado y ducha: participe en el lavado y cepillado de los elefantes y comparta su ducha juguetona",
+   "Todos los costes de las actividades mencionadas",
+   "Entradas a la aldea de elefantes",
+   "Todos los impuestos, tasas y cargos de gestión",
+   "Suplemento de combustible"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
  }
 };
 export const ES_PAGES: Record<string, PageT> = {
