@@ -3258,6 +3258,174 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten"
   ]
  },
+ "padamsar-lake-guided-tour": {
+  "title": "Blaue Pracht: lokale Aromen und versteckte Gassen in Jodhpur",
+  "metaTitle": "Jodhpur: Rundgang durch die Blaue Stadt mit Kostproben",
+  "metaDescription": "Geführter Rundgang durch Jodhpurs Blaue Stadt: versteckte Gassen, wenig bekannte Aussichtspunkte und Kostproben rajasthanischen Streetfoods bei lokalen Händlern.",
+  "shortDescription": "Erleben Sie das Beste von Jodhpur auf einem Rundgang durch die Blaue Stadt mit Verkostungen, geführt von einem Einheimischen. Gehen Sie durch die berühmten blauen Gassen, entdecken Sie versteckte Aussichtspunkte, erfahren Sie mehr über Geschichte und Kultur und probieren Sie echtes rajasthanisches Streetfood und traditionelle Snacks, die die Menschen hier lieben.",
+  "fullDescription": "Das ist keine gewöhnliche Besichtigung, sondern die Gelegenheit, Jodhpur mit einem Freund vor Ort zu erleben.\n\nBegleiten Sie mich auf einem entspannten Spaziergang durch die schöne Blaue Stadt, zu versteckten Gassen, stillen Ecken, Wohnvierteln und großartigen Aussichtspunkten, die viele Besucher allein nie finden. Unterwegs erzähle ich vom Alltag, von Traditionen, Geschichte und davon, wie es wirklich ist, in Jodhpur zu leben.\n\nWir halten auch an einigen meiner Lieblingsadressen, um echte rajasthanische Snacks und Süßigkeiten zu probieren, die bei Einheimischen beliebt sind. Statt touristischer Orte entdecken Sie Aromen und familiengeführte Läden, in denen die Menschen hier täglich einkaufen.\n\nDas Besondere ist die persönliche Verbindung. Ich halte die Gruppen klein, damit genug Zeit für Gespräche, Fragen, Fotos und echten kulturellen Austausch bleibt. Ob erste Indienreise oder Wiederkehr: Sie gehen mit einem tieferen Verständnis für Jodhpur und mit Erinnerungen jenseits der üblichen Touristenroute.\n\nWenn Sie die Blaue Stadt mit den Augen eines Einheimischen sehen, Menschen begegnen, authentisch essen und verborgene Schätze in angenehmem Tempo entdecken möchten, ist dieser Rundgang für Sie. Sie kommen als Gast und gehen als Freund.",
+  "highlights": [
+   "Durch die schönsten blauen Gassen abseits der Menge gehen",
+   "Versteckte Winkel, alte Türen und Geheimnisse der Blauen Stadt entdecken",
+   "Jodhpurer Lieblingsspeisen probieren, herzhafte Snacks und traditionelle Süßigkeiten",
+   "Jodhpur mit den Augen eines Einheimischen erleben, nicht aus dem Reiseführer",
+   "Insidertipps für Essen, Einkaufen und weitere Erkundungen erhalten"
+  ],
+  "included": [
+   "Lokaler Guide während des gesamten Erlebnisses",
+   "Geführter Rundgang durch die Blaue Stadt",
+   "Erkundung versteckter Gassen und Wohnviertel",
+   "Lokale Geschichten, Historie und kulturelle Einblicke",
+   "Verkostungen bei ausgewählten lokalen Händlern",
+   "Empfehlungen für Restaurants und Aktivitäten in Jodhpur",
+   "Kleingruppen- oder individuelles Erlebnis",
+   "Flexibles Tempo mit Zeit für Fragen und Gespräche"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Weitere Speisen und Getränke, die nicht genannt sind",
+   "Abholung und Rückfahrt zum Hotel",
+   "Transportkosten",
+   "Trinkgelder (freiwillig)",
+   "Alle Einkäufe während des Rundgangs",
+   "Zusätzliche Aktivitäten, die nicht im Programm stehen"
+  ]
+ },
+ "mehrangarh-fort-exploration-private-tour": {
+  "title": "Fort und Indigogassen: private Erkundung der Blauen Stadt Jodhpur",
+  "metaTitle": "Jodhpur privat: Mehrangarh Fort, Toorji Ka Jhalra, Ghanta Ghar",
+  "metaDescription": "Private Tour über 5 Stunden in Jodhpur: Mehrangarh Fort, Stufenbrunnen Toorji Ka Jhalra und Uhrturm, mit lokalem Guide und klimatisiertem Wagen.",
+  "shortDescription": "Entdecken Sie den Charme Jodhpurs auf einer privaten Führung, die Geschichte, Kultur und Traditionen der Stadt mit den Augen eines Einheimischen lebendig macht. Erkunden Sie das prachtvolle Mehrangarh Fort, eines der besterhaltenen Forts Indiens, den fein gearbeiteten Stufenbrunnen Toorji Ka Jhalra und den ikonischen Ghanta Ghar, den Uhrturm.",
+  "fullDescription": "Erleben Sie die zeitlose Schönheit Jodhpurs auf dieser eindrucksvollen fünfstündigen privaten Stadttour, bei der jede Ecke eine Geschichte von Königtum, Tradition und lebendigem Erbe erzählt. Die als Blaue Stadt Rajasthans bekannte Metropole empfängt Sie mit verwinkelten Indigogassen, goldenem Licht und einem kulturellen Rhythmus, der zugleich alt und lebendig wirkt.\n\nDie Tour beginnt mit einem lokalen Blick: Sie erkunden Geschichte, Kultur und Traditionen mit jemandem, der die verborgenen Schichten der Stadt kennt. Das ist nicht bloß Besichtigung, sondern ein geführter Gang in die Seele Jodhpurs, wo jedes Monument und jeder Markt Jahrhunderte an Erbe trägt.\n\nSie betreten die Pracht des prachtvollen Mehrangarh Fort, eines der besterhaltenen Forts Indiens, das eindrucksvoll über der Stadt aufragt. Sie gehen durch massive Tore, kunstvolle Höfe und königliche Gemächer, während sich Geschichten von Tapferkeit, Königtum und Handwerkskunst entfalten. Von den Mauern reicht der Blick über die endlos scheinende Blaue Stadt, ein atemberaubender Kontrast aus Stein und Himmel.\n\nWeiter geht es zum eleganten Stufenbrunnen Toorji Ka Jhalra, einem Meisterwerk aus rotem Sandstein, verborgen in der Altstadt. Bewundern Sie die feinen Schnitzereien und die geometrische Symmetrie, während das Sonnenlicht über die historischen Stufen wandert. Einst eine lebenswichtige Wasserquelle, erinnert er heute an Jodhpurs künstlerisches und technisches Können.\n\nZum Schluss erreichen Sie das pulsierende Herz der Stadt am Ghanta Ghar, dem Uhrturm. Umgeben von lebhaften Märkten und belebten Straßen gibt dieses Wahrzeichen Einblick in den Alltag Jodhpurs. Hier verbinden sich Gewürzdüfte, Stofffarben und der Rhythmus des lokalen Handels zu einem sinnlichen Erlebnis, das die Energie der Stadt einfängt.\n\nIn wenigen Stunden zeigt diese Tour Jodhpurs perfekte Mischung aus königlichem Erbe und lebendiger Kultur, eine elegante Reise durch Forts, Stufenbrunnen und zeitlose Gassen, die den Geist der Blauen Stadt Rajasthans ausmachen.",
+  "highlights": [
+   "Geschichte, Kultur und Traditionen Jodhpurs mit den Augen eines Einheimischen",
+   "Der Stufenbrunnen Toorji Ka Jhalra aus rotem Sandstein und seine feinen Schnitzereien",
+   "Das weitläufige Mehrangarh Fort, eines der besterhaltenen Forts Indiens",
+   "Einblicke rund um den Ghanta Ghar"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel im privaten, komfortablen klimatisierten Wagen mit professionellem Fahrer",
+   "Professioneller Guide in mehreren Sprachen",
+   "Private Tour",
+   "Auf Wunsch Tuk-Tuk-Fahrt durch die alte Blaue Stadt",
+   "Kaffee, Tee oder Lassi",
+   "Bekannter lokaler Snack, vegetarisch: Samosa oder Süßes",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Monumente",
+   "Eintrittskarte für das Mehrangarh Fort"
+  ]
+ },
+ "mehrangarh-fort-private-tour": {
+  "title": "Jodhpur: Mehrangarh Fort und Blaue Stadt privat mit zugelassenem Guide",
+  "metaTitle": "Jodhpur privat: Mehrangarh, Jaswant Thada und Blaue Stadt",
+  "metaDescription": "Private Jodhpur-Tour mit zugelassenem Guide und klimatisiertem Wagen: Mehrangarh Fort, Jaswant Thada, Toorji Ka Jhalra, Blaue Stadt und Aussichtspunkt Pachetia Hill.",
+  "shortDescription": "Erkunden Sie das Mehrangarh Fort, das Jaswant Thada und die berühmte Blaue Stadt auf einer privaten Tour mit Transport und Guide. Entdecken Sie die königliche Geschichte am Umaid Bhawan und die Ruhe der Mandore-Gärten.",
+  "fullDescription": "Entdecken Sie Jodhpurs historische Höhepunkte auf einer Führung mit einem Einheimischen. Sie erhalten Einblicke in Ghanta Ghar, Mehrangarh Fort, Jaswant Thada und mehr. Alles ist organisiert, mit Abholung und Rückfahrt zum Hotel sowie einer Wasserflasche, Tee oder Lassi und einem Samosa während der Tour.\n\nNach der Abholung an Ihrem Hotel geht es zum Kunj-Bihari-Tempel, der 1847 von Maharadscha Vijay Singh aus Makrana-Stein und Chhitar-Sandstein zum Andenken an seinen früh verstorbenen Sohn Sher Singh errichtet wurde.\n\n**Ghanta Ghar (Uhrturm)**\nDer Uhrturm in Jodhpur wurde von Maharadscha Sardar Singh Ende des 19. oder Anfang des 20. Jahrhunderts als zentrales Wahrzeichen nahe dem Mehrangarh Fort und dem belebten Sardar-Markt errichtet. Er zeugt mit seinen feinen architektonischen Details von der reichen Geschichte der Stadt und gilt als ihr Herz, seit Langem ein Treffpunkt für Einheimische und Gäste.\n\nDanach halten Sie am Toorji Ka Jhalra, dem Stufenbrunnen, den die Gemahlin von Maharadscha Abhaya Singh in den 1740er Jahren anlegen ließ. Bestaunen Sie über 60 Meter handgeschlagener Kostbarkeiten, die fast ein Jahrhundert lang unter Wasser lagen und erst kürzlich restauriert wurden: tanzende Elefanten, mittelalterliche Löwen und Kühe in Stein.\n\nWeiter geht es zum Mehrangarh Fort, der Hauptattraktion Jodhpurs, mit Sheesh Mahal (Spiegelpalast), Phool Mahal (Blumenpalast) und Moti Mahal (Perlenpalast), die die reiche Geschichte und Kultur der Stadt zeigen. Sie erkunden das Fort zwei Stunden lang mit Ihrem Guide.\n\nDas Jaswant Thada gab Maharadscha Sardar Singh 1899 als königlichen Kenotaph zum Andenken an seinen Vater, Maharadscha Jaswant Singh II., in Auftrag; 1906 wurde es unter der Schirmherrschaft der Rathore-Dynastie vollendet. Unweit des Forts gelegen, diente es zugleich als Verbrennungsstätte der Königsfamilie und als bleibendes Symbol ihres Erbes.\n\nHinter dem Fort liegt die Altstadt mit den blauen Brahmanen-Havelis, dazu der Pachetia Hill, der beste Aussichtspunkt auf Alt- und Blaue Stadt, besonders bei Sonnenauf- und Sonnenuntergang. Unterwegs passieren Sie den Markt am Uhrturm, um die Traditionen Jodhpurs zu spüren, bevor Sie mit einem guten Gesamtbild der Stadt zu Ihrem Hotel zurückgebracht werden.",
+  "highlights": [
+   "Geschichte, Kultur und Traditionen Jodhpurs mit den Augen eines Einheimischen",
+   "Das weitläufige Mehrangarh Fort, eines der besterhaltenen Forts Indiens",
+   "Ein Gang durch die alten Gassen der Blauen Altstadt",
+   "Jodhpurs Schätze, darunter das Jaswant Thada"
+  ],
+  "included": [
+   "Abholung und Rückfahrt überall in Jodhpur",
+   "Transport im klimatisierten Wagen",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Zugelassener Guide",
+   "Wasserflaschen",
+   "Sonnenschirme"
+  ],
+  "notIncluded": [
+   "Mittagessen und Mahlzeiten",
+   "Zusätzliche Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "ghanta-ghar-walking-tour": {
+  "title": "Jodhpur: Rundgang durch die Blaue Stadt mit lokalem Guide",
+  "metaTitle": "Blaue Stadt Jodhpur: geführter Rundgang über 2 bis 3 Stunden",
+  "metaDescription": "Zwei- bis dreistündiger Rundgang durch Jodhpurs Blaue Stadt: blaue Gassen, versteckte Tempel, lokale Märkte und Blicke auf das Mehrangarh Fort.",
+  "shortDescription": "Entdecken Sie die reiche Geschichte und die lebendige Kultur Jodhpurs auf einem zwei- bis dreistündigen Rundgang durch die berühmte Blaue Stadt. Gehen Sie durch schmale Gassen mit traditionell blau gestrichenen Häusern, während Ihr kundiger Guide von der königlichen Vergangenheit, den lokalen Traditionen und der besonderen Architektur erzählt.",
+  "fullDescription": "Dieses eindrucksvolle Erlebnis führt Sie tief ins Herz der Altstadt, wo enge, verwinkelte Gassen, jahrhundertealte Häuser und lebhafter Alltag eine unvergessliche Atmosphäre schaffen.\n\nDer Rundgang beginnt am Uhrturm und führt in die historischen Viertel darunter. Von dort treten Sie in das Labyrinth schmaler Straßen der Altstadt, wo die berühmten blau gestrichenen Häuser Jodhpur den Beinamen Blaue Stadt gaben.\n\nBeim Gang durch diese reizvollen Gassen erklärt Ihr Guide den Ursprung der blauen Farbe.\n\nDer Rundgang gibt zudem Einblick in den Alltag der Bewohnerinnen und Bewohner. Sie kommen an kleinen Familienhäusern und traditionellen Innenhöfen vorbei.\n\nMöglich sind auch Halte an lebhaften lokalen Märkten mit traditionellem Kunsthandwerk, Gewürzen, Textilien und anderen farbenfrohen Waren, die Rajasthans reiche Kultur spiegeln. Diese Märkte sprühen vor Energie und bieten schöne Gelegenheiten für Fotos und Begegnungen.",
+  "highlights": [
+   "Die reiche Geschichte in Jodhpurs alten Gassen",
+   "Rundgang mit erfahrenen lokalen Guides",
+   "Lebhafte Basare voller Kultur und Tradition"
+  ],
+  "included": [
+   "Rundgang mit erfahrenem lokalem Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Transport"
+  ]
+ },
+ "thar-desert-guided-tour": {
+  "title": "Ab Jodhpur: Thar-Wüste mit Kamel- und Jeep-Safari",
+  "metaTitle": "Safari in der Thar-Wüste ab Jodhpur: Kamel und Jeep",
+  "metaDescription": "Ausflug ab Jodhpur in die Thar-Wüste: Kamelsafari, Jeep-Safari im Gelände und Hin- und Rückfahrt im klimatisierten Wagen.",
+  "shortDescription": "Wir holen Sie am Bahnhof, Busbahnhof oder Flughafen Jodhpur ab. Wohnen Sie in einem Gästehaus oder Hotel im Zentrum, holen wir Sie dort ab. In der Altstadt ist der Treffpunkt wegen der engen Gassen der Uhrturm. Fahrt in die Wüste zu Kamel- und Jeep-Safari mit lokaler Küche, danach Rückfahrt zum selben Ort.",
+  "fullDescription": "Ab Jodhpur fahren Sie in die Thar-Wüste zu einer malerischen Kamelsafari und erleben den zeitlosen Reiz der goldenen Sandflächen Rajasthans. Sie reiten durch stille Dünen, bewundern großartige Wüstenblicke und erleben die magischen Farben der Landschaft.\n\nWer mehr Nervenkitzel sucht, wählt eine aufregende Jeep-Safari im Gelände, die tief in das raue Terrain führt, zur ursprünglichen Schönheit und zu ländlichen Dörfern Rajasthans, mit einer abenteuerlichen Fahrt über die Dünen.",
+  "highlights": [
+   "Wüstensafari ab Jodhpur",
+   "Jeep- und Kamelsafari in der Wüste",
+   "Fahrt im klimatisierten Wagen ab Jodhpur"
+  ],
+  "included": [
+   "Wagen von Jodhpur in die Wüste und zurück",
+   "Kamelsafari",
+   "Jeep-Safari"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "mehrangarh-fort-guided-tour": {
+  "title": "Guide für eine Stadttour in Jodhpur buchen",
+  "metaTitle": "Guide in Jodhpur: Mehrangarh, Jaswant Thada, Umaid Bhawan",
+  "metaDescription": "Private Führung durch Jodhpur: Mehrangarh Fort, Jaswant Thada, Umaid-Bhawan-Palast und Blaue Stadt mit einem lokalen Guide.",
+  "shortDescription": "Erkunden Sie das majestätische Mehrangarh Fort und die lebendige Blaue Stadt auf einer privaten Führung durch Jodhpur. Gehen Sie durch Jahrhunderte Geschichte, besuchen Sie die eindrucksvolle Festungsanlage und genießen Sie die großartigen Blicke auf die blau gestrichenen Häuser darunter. Auch Jaswant Thada und der Umaid-Bhawan-Palast gehören dazu.",
+  "fullDescription": "Erkunden Sie das majestätische Mehrangarh Fort und die lebendige Blaue Stadt auf einer privaten Führung durch Jodhpur. Gehen Sie durch Jahrhunderte Geschichte, während Sie die eindrucksvolle Festungsanlage erkunden.\n\nWeiter geht es zum schönen Jaswant Thada, einem ruhigen Marmordenkmal zum Andenken an Maharadscha Jaswant Singh II., bekannt für seine feinen Schnitzereien und seine stille Umgebung.\n\nZur Tour gehört auch der große Umaid-Bhawan-Palast, eine der größten Privatresidenzen der Welt, im 20. Jahrhundert erbaut, sowie ein Rundgang durch die Blaue Stadt.",
+  "highlights": [
+   "Geschichte und Kultur Jodhpurs mit lokalem Guide",
+   "Das Mehrangarh Fort, eines der schönsten Forts Indiens",
+   "Die Blaue Stadt mit Palästen und Tempeln"
+  ],
+  "included": [
+   "Guide-Service",
+   "Wagen für die Stadttour (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mahlzeiten",
+   "Wagen für die Stadttour"
+  ]
+ },
+ "jodhpur-blue-city-tour-car-guide": {
+  "title": "Jodhpur: Tour durch die Blaue Stadt mit Wagen und professionellem Guide",
+  "metaTitle": "Jodhpur an einem Tag: Mehrangarh, Jaswant Thada, Umaid Bhawan",
+  "metaDescription": "Privater Tag in Jodhpur im klimatisierten Wagen mit Guide: Mehrangarh Fort, Jaswant Thada, Umaid-Bhawan-Palast, Blaue Stadt und Mandore-Gärten.",
+  "shortDescription": "Erkunden Sie Jodhpurs großartige Monumente auf einer privaten Ganztagestour im klimatisierten Wagen mit erfahrenem Guide. Besuchen Sie das majestätische Mehrangarh Fort mit seinen Palästen und dem Museum, bewundern Sie die ikonischen blauen Häuser und halten Sie am großen Umaid-Bhawan-Palast, dazu historische Tempel und lokale Sehenswürdigkeiten.",
+  "fullDescription": "Ganztagestour durch Jodhpurs Blaue Stadt, im privaten Wagen mit Guide.\n\nErleben Sie den königlichen Charme, die architektonische Pracht und die lebendige Kultur Jodhpurs auf dieser privaten Ganztagestour mit klimatisiertem Wagen und erfahrenem lokalem Guide.\n\n**Mehrangarh Fort**\nVon den Festungsmauern eröffnen sich großartige Fotomotive über der Blauen Stadt.\n\n**Jaswant Thada**\nBesuch des königlichen Marmor-Kenotaphs.\n\n**Umaid-Bhawan-Palast**\nHalt an einer der größten Privatresidenzen der Welt.\n\n**Mittagspause**\n\n**Rundgang durch die Blaue Stadt und die Altstadt**\n\n**Weitere Sehenswürdigkeiten**\nJe nach Zeit und Interesse besuchen Sie weitere bemerkenswerte Orte wie die Mandore-Gärten (die alte Hauptstadt von Marwar) oder versteckte Stufenbrunnen und lokale Tempel, die viele Touristen übersehen.\n\n**Rückfahrt**\nNach einem unvergesslichen Tag mit Forts, Palästen, Gärten und der Blauen Stadt bringt Sie Ihr privater Wagen entspannt zurück zu Ihrem Hotel oder einem Ort Ihrer Wahl in Jodhpur.",
+  "highlights": [
+   "Die Anlage des Mehrangarh Fort aus dem 15. Jahrhundert",
+   "Der königliche Kenotaph Jaswant Thada",
+   "Der große Umaid Bhawan und die Blaue Stadt",
+   "Ein Besichtigungstag mit offiziellem Guide und Wagen"
+  ],
+  "included": [
+   "Offizieller Guide",
+   "Klimatisierter Toyota",
+   "Abholung und Rückfahrt zum Hotel",
+   "Alle Steuern, Kraftstoff und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mahlzeiten"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Dharavi-Tour",
   "metaTitle": "Dharavi und Dhobi Ghat mit lokalem Guide in Mumbai",

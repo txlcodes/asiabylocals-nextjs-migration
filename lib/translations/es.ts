@@ -3258,6 +3258,174 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas"
   ]
  },
+ "padamsar-lake-guided-tour": {
+  "title": "Esplendor azul: sabores locales y callejones escondidos de Jodhpur",
+  "metaTitle": "Jodhpur: paseo por la Ciudad Azul y degustaciones con un local",
+  "metaDescription": "Paseo guiado por la Ciudad Azul de Jodhpur: callejones escondidos, miradores poco conocidos y degustación de comida callejera rajastaní en puestos locales.",
+  "shortDescription": "Viva lo mejor de Jodhpur en un paseo por la Ciudad Azul con degustaciones, guiado por un local. Recorra los famosos callejones azules, descubra miradores escondidos, conozca la historia y la cultura locales y pruebe la auténtica comida callejera rajastaní y los aperitivos tradicionales que adoran los vecinos.",
+  "fullDescription": "Esto no es una visita turística al uso: es la oportunidad de conocer Jodhpur con un amigo local.\n\nAcompáñeme en un paseo tranquilo por la hermosa Ciudad Azul, donde recorreremos callejones escondidos, rincones silenciosos, barrios residenciales y miradores impresionantes que muchos visitantes nunca encuentran por su cuenta. Por el camino le contaré historias sobre la vida local, las tradiciones, la historia y lo que significa realmente vivir en Jodhpur.\n\nTambién pararemos en algunos de mis puestos de comida favoritos para probar aperitivos y dulces rajastaníes auténticos que encantan a los vecinos. En lugar de lugares pensados para turistas, descubrirá sabores y tiendas familiares que los jodhpuríes disfrutan a diario.\n\nLo que hace especial esta experiencia es la conexión personal. Mantengo grupos pequeños para que haya tiempo de sobra para conversar, preguntar, fotografiar y compartir de verdad. Tanto si es su primera vez en la India como si vuelve, se irá con una comprensión más profunda de Jodhpur y con recuerdos que van más allá de la ruta turística habitual.\n\nSi quiere ver la Ciudad Azul con ojos locales, conocer gente, disfrutar de comida auténtica y descubrir rincones escondidos a un ritmo cómodo, este paseo es para usted. Vendrá como invitado y se irá sintiéndose un amigo.",
+  "highlights": [
+   "Pasear por los callejones azules más bonitos, lejos de las multitudes",
+   "Descubrir rincones escondidos, portones antiguos y secretos de la Ciudad Azul",
+   "Probar los platos favoritos de Jodhpur, aperitivos salados y dulces tradicionales",
+   "Vivir Jodhpur con los ojos de un local, no de una guía",
+   "Recibir recomendaciones de confianza para comer, comprar y seguir explorando"
+  ],
+  "included": [
+   "Guía local durante toda la experiencia",
+   "Paseo guiado por la Ciudad Azul",
+   "Recorrido por callejones escondidos y barrios locales",
+   "Relatos locales, historia y claves culturales",
+   "Degustación en puestos locales seleccionados",
+   "Recomendaciones de restaurantes y actividades en Jodhpur",
+   "Experiencia en grupo reducido o personalizada",
+   "Ritmo flexible, con tiempo para preguntas y conversación"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida y bebidas adicionales no mencionadas",
+   "Recogida y regreso al hotel",
+   "Costes de transporte",
+   "Propinas (opcionales)",
+   "Cualquier compra realizada durante el paseo",
+   "Actividades adicionales no incluidas en el itinerario"
+  ]
+ },
+ "mehrangarh-fort-exploration-private-tour": {
+  "title": "Fuerte y callejones índigo: recorrido privado por la Ciudad Azul de Jodhpur",
+  "metaTitle": "Jodhpur privado: Fuerte Mehrangarh, Toorji Ka Jhalra, Ghanta Ghar",
+  "metaDescription": "Visita privada de 5 horas por Jodhpur: Fuerte Mehrangarh, pozo escalonado Toorji Ka Jhalra y Torre del Reloj, con guía local y coche climatizado.",
+  "shortDescription": "Descubra el encanto de Jodhpur en una visita privada guiada que da vida a la historia, la cultura y las tradiciones de la ciudad con los ojos de un local. Recorra el magnífico Fuerte Mehrangarh, uno de los mejor conservados de la India, el pozo escalonado Toorji Ka Jhalra, finamente tallado, y el icónico Ghanta Ghar, la Torre del Reloj.",
+  "fullDescription": "Viva la belleza atemporal de Jodhpur en esta envolvente visita privada de 5 horas, en la que cada rincón cuenta una historia de realeza, tradición y patrimonio vivo. Conocida como la Ciudad Azul de Rajastán, Jodhpur le recibe con callejones índigo sinuosos, luz dorada y un ritmo cultural que parece a la vez antiguo y muy vivo.\n\nEl recorrido empieza con una mirada local: explorará la historia, la cultura y las tradiciones de la mano de alguien que conoce sus capas ocultas. No es solo turismo: es un paseo guiado hacia el alma de Jodhpur, donde cada monumento y cada mercado guarda siglos de legado.\n\nEntrará en la grandeza del magnífico Fuerte Mehrangarh, uno de los mejor conservados de la India, que se alza de forma espectacular sobre el perfil de la ciudad. Cruzará sus puertas macizas, sus patios labrados y sus estancias reales mientras se despliegan relatos de valor, realeza y maestría artesana. Desde las murallas contemplará la Ciudad Azul extendiéndose sin fin, un contraste sobrecogedor de piedra y cielo.\n\nContinuará hasta el elegante pozo escalonado Toorji Ka Jhalra, una obra maestra de arenisca rosada escondida en el casco antiguo. Admire sus tallas minuciosas y su simetría geométrica mientras la luz recorre los peldaños históricos. Antaño fuente vital de agua, hoy recuerda la brillantez artística y técnica de Jodhpur.\n\nPor último, llegará al corazón bullicioso de la ciudad, en el Ghanta Ghar (Torre del Reloj). Rodeado de mercados vibrantes y calles animadas, este hito icónico ofrece una ventana al día a día de Jodhpur. Aquí, los aromas de las especias, los colores de los textiles y el ritmo del comercio local componen una experiencia sensorial que capta la energía de la ciudad.\n\nEn pocas horas, esta visita revela la mezcla perfecta de legado real y cultura viva: un recorrido elegante por fuertes, pozos escalonados y calles atemporales que definen el espíritu de la Ciudad Azul de Rajastán.",
+  "highlights": [
+   "La historia, la cultura y las tradiciones de Jodhpur con los ojos de un local",
+   "El pozo escalonado Toorji Ka Jhalra, de arenisca rosada y tallas minuciosas",
+   "El vasto Fuerte Mehrangarh, uno de los mejor conservados de la India",
+   "Claves sobre el Ghanta Ghar y su entorno"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en coche privado climatizado de categoría con conductor profesional",
+   "Guía profesional en varios idiomas",
+   "Tour privado",
+   "Paseo en tuk-tuk por la Ciudad Azul del casco antiguo, si lo desea",
+   "Café, té o lassi",
+   "Aperitivo local famoso, solo vegetariano: samosa o dulce",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Entrada al Fuerte Mehrangarh"
+  ]
+ },
+ "mehrangarh-fort-private-tour": {
+  "title": "Jodhpur: Fuerte Mehrangarh y Ciudad Azul en privado con guía autorizado",
+  "metaTitle": "Jodhpur privado: Mehrangarh, Jaswant Thada y Ciudad Azul",
+  "metaDescription": "Visita privada por Jodhpur con guía autorizado y coche climatizado: Fuerte Mehrangarh, Jaswant Thada, Toorji Ka Jhalra, Ciudad Azul y mirador de Pachetia Hill.",
+  "shortDescription": "Recorra el Fuerte Mehrangarh, el Jaswant Thada y la famosa Ciudad Azul en una visita privada con transporte y guía. Descubra la historia real en el Umaid Bhawan y la tranquilidad de los jardines de Mandore.",
+  "fullDescription": "Descubra los hitos históricos de Jodhpur en una visita guiada con un local. Conocerá el Ghanta Ghar, el Fuerte Mehrangarh, el Jaswant Thada y mucho más. Todo está resuelto, con recogida y regreso al hotel y una botella de agua, té o lassi y un samosa durante la visita.\n\nTras recogerle en su hotel, se dirigirá al templo Kunj Bihari, construido con piedra de Makrana y arenisca Chhitar por el maharajá Vijay Singh en 1847 en memoria de su hijo Sher Singh, fallecido joven.\n\n**Ghanta Ghar (Torre del Reloj)**\nLa Torre del Reloj de Jodhpur la levantó el maharajá Sardar Singh a finales del siglo XIX o principios del XX como hito central junto al Fuerte Mehrangarh y el bullicioso mercado Sardar. Con sus detalles arquitectónicos minuciosos, es testimonio de la rica historia de la ciudad y sigue siendo su corazón, un punto de encuentro de siempre para vecinos y visitantes.\n\nDespués parará en el Toorji Ka Jhalra, el pozo escalonado construido en la década de 1740 por la reina del maharajá Abhaya Singh. Admire más de 60 metros de tallas hechas a mano que permanecieron sumergidas casi un siglo antes de su reciente restauración: elefantes danzantes, leones medievales y vacas labrados en piedra.\n\nA continuación irá al Fuerte Mehrangarh, la principal atracción de Jodhpur, con el Sheesh Mahal (palacio de los espejos), el Phool Mahal (palacio de las flores) y el Moti Mahal (palacio de las perlas), que muestran la rica historia y el patrimonio cultural de la ciudad. Recorrerá el fuerte con su guía durante 2 horas.\n\nEl Jaswant Thada lo encargó en 1899 el maharajá Sardar Singh como cenotafio real en memoria de su padre, el maharajá Jaswant Singh II, y se completó en 1906 bajo el patrocinio de la dinastía Rathore. Situado a poca distancia del fuerte, servía a la vez como lugar de cremación de la familia real y como símbolo duradero de su legado.\n\nDetrás del fuerte se extiende el casco antiguo con las havelis azules de los brahmanes, y Pachetia Hill, el mejor mirador sobre la ciudad vieja y la Ciudad Azul, sobre todo al amanecer y al atardecer. Durante el recorrido pasará por el mercado de la Torre del Reloj para sentir las tradiciones de Jodhpur, antes de regresar a su hotel con una buena visión de conjunto de la ciudad.",
+  "highlights": [
+   "La historia, la cultura y las tradiciones de Jodhpur con los ojos de un local",
+   "El vasto Fuerte Mehrangarh, uno de los mejor conservados de la India",
+   "Un paseo envolvente por las calles antiguas de la Ciudad Azul",
+   "Los tesoros de Jodhpur, entre ellos el Jaswant Thada"
+  ],
+  "included": [
+   "Recogida y regreso en cualquier punto de Jodhpur",
+   "Transporte en coche climatizado",
+   "Entradas a los monumentos (si se selecciona la opción)",
+   "Guía autorizado",
+   "Botellas de agua",
+   "Sombrillas"
+  ],
+  "notIncluded": [
+   "Comida y comidas",
+   "Bebidas adicionales",
+   "Propinas"
+  ]
+ },
+ "ghanta-ghar-walking-tour": {
+  "title": "Jodhpur: paseo guiado por la Ciudad Azul con guía local",
+  "metaTitle": "Ciudad Azul de Jodhpur: paseo guiado de 2 a 3 horas",
+  "metaDescription": "Paseo guiado de 2 a 3 horas por la Ciudad Azul de Jodhpur: callejones azules, templos escondidos, mercados locales y vistas del Fuerte Mehrangarh.",
+  "shortDescription": "Descubra la rica historia y la cultura vibrante de Jodhpur en un paseo guiado de 2 a 3 horas por la famosa Ciudad Azul. Recorra callejones estrechos con casas pintadas de azul mientras su guía comparte relatos sobre el pasado real, las tradiciones locales y la arquitectura singular de la ciudad.",
+  "fullDescription": "Esta experiencia envolvente le lleva al corazón del casco antiguo, donde los callejones sinuosos, las casas centenarias y la vida local animada crean un ambiente inolvidable.\n\nEl recorrido empieza en la Torre del Reloj y baja hacia los barrios históricos. Desde allí se adentrará en el laberinto de calles estrechas del casco antiguo, donde las famosas casas pintadas de azul dan a Jodhpur su apodo de Ciudad Azul.\n\nMientras pasea por estos callejones con encanto, su guía le explicará el origen del color azul.\n\nEl paseo ofrece además una ventana a la vida diaria de los vecinos. Pasará junto a pequeñas casas familiares y patios tradicionales.\n\nTambién puede incluir paradas en animados mercados locales donde ver artesanía tradicional, especias, textiles y otros artículos llenos de color que reflejan la rica cultura de Rajastán. Estos mercados desbordan energía y brindan grandes oportunidades para fotografiar y sentir el espíritu vivo de la ciudad.",
+  "highlights": [
+   "La rica historia escondida en las calles antiguas de Jodhpur",
+   "Paseo guiado por guías locales expertos",
+   "Bazares animados llenos de cultura y tradición"
+  ],
+  "included": [
+   "Paseo guiado por un guía local experto"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Transporte"
+  ]
+ },
+ "thar-desert-guided-tour": {
+  "title": "Desde Jodhpur: desierto del Thar con safari en camello y en jeep",
+  "metaTitle": "Safari por el desierto del Thar desde Jodhpur: camello y jeep",
+  "metaDescription": "Excursión desde Jodhpur al desierto del Thar: safari en camello, safari en jeep todoterreno y trayecto de ida y vuelta en coche climatizado.",
+  "shortDescription": "Le recogeremos en la estación de tren, la estación de autobuses o el aeropuerto de Jodhpur. Si se aloja en una casa de huéspedes u hotel del centro, le recogeremos allí. Si se aloja en el casco antiguo, el punto de encuentro es la Torre del Reloj, por lo estrecho de las calles. Viaje al desierto con safari en camello y en jeep y comida local, y regreso al mismo punto.",
+  "fullDescription": "Desde Jodhpur viajará al desierto del Thar para un pintoresco safari en camello y descubrir el encanto atemporal de las arenas doradas de Rajastán. Cabalgará entre dunas tranquilas, admirará panorámicas desérticas impresionantes y verá los colores mágicos del paisaje.\n\nPara quien busca más emoción, existe la opción de un safari en jeep todoterreno que se adentra en el terreno escarpado, explorando la belleza salvaje y las aldeas rurales de Rajastán en una conducción llena de aventura por las dunas.",
+  "highlights": [
+   "Safari por el desierto desde Jodhpur",
+   "Safari en jeep y en camello por el desierto",
+   "Trayecto en coche climatizado desde Jodhpur"
+  ],
+  "included": [
+   "Coche de ida y vuelta de Jodhpur al desierto",
+   "Safari en camello",
+   "Safari en jeep"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "mehrangarh-fort-guided-tour": {
+  "title": "Reserve un guía para la visita de Jodhpur",
+  "metaTitle": "Guía en Jodhpur: Mehrangarh, Jaswant Thada, Umaid Bhawan",
+  "metaDescription": "Visita privada guiada por Jodhpur: Fuerte Mehrangarh, Jaswant Thada, palacio Umaid Bhawan y Ciudad Azul con un guía local.",
+  "shortDescription": "Recorra el majestuoso Fuerte Mehrangarh y la vibrante Ciudad Azul en una visita privada guiada por Jodhpur. Atraviese siglos de historia mientras conoce el impresionante complejo fortificado y admira las vistas de las casas pintadas de azul. También se visitan el Jaswant Thada y el palacio Umaid Bhawan.",
+  "fullDescription": "Recorra el majestuoso Fuerte Mehrangarh y la vibrante Ciudad Azul en una visita privada guiada por Jodhpur. Atraviese siglos de historia mientras explora el impresionante complejo fortificado.\n\nContinuará con el hermoso Jaswant Thada, un apacible memorial de mármol levantado en memoria del maharajá Jaswant Singh II, conocido por sus tallas delicadas y su entorno sereno.\n\nLa visita incluye también el gran palacio Umaid Bhawan, una de las mayores residencias privadas del mundo, construido en el siglo XX, además de un recorrido por la Ciudad Azul.",
+  "highlights": [
+   "La historia y la cultura de Jodhpur con un guía local",
+   "El Fuerte Mehrangarh, uno de los mejores fuertes de la India",
+   "La Ciudad Azul con sus palacios y templos"
+  ],
+  "included": [
+   "Servicio de guía turístico",
+   "Coche para la visita por la ciudad (si se selecciona la opción)"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas",
+   "Coche para la visita por la ciudad"
+  ]
+ },
+ "jodhpur-blue-city-tour-car-guide": {
+  "title": "Jodhpur: visita de la Ciudad Azul con coche y guía profesional",
+  "metaTitle": "Jodhpur en un día: Mehrangarh, Jaswant Thada, Umaid Bhawan",
+  "metaDescription": "Jornada privada en Jodhpur en coche climatizado con guía: Fuerte Mehrangarh, Jaswant Thada, palacio Umaid Bhawan, Ciudad Azul y jardines de Mandore.",
+  "shortDescription": "Recorra los magníficos monumentos de Jodhpur en una jornada privada en coche climatizado con guía experto. Visite el majestuoso Fuerte Mehrangarh con sus palacios y su museo, admire las icónicas casas azules y pare en el gran palacio Umaid Bhawan, además de templos históricos y lugares locales.",
+  "fullDescription": "Jornada completa por la Ciudad Azul de Jodhpur, en coche privado con guía.\n\nViva el encanto real, la grandeza arquitectónica y la cultura vibrante de Jodhpur en esta jornada privada de visitas, con coche climatizado y guía local experto.\n\n**Fuerte Mehrangarh**\nDesde sus murallas disfrutará de magníficas oportunidades fotográficas sobre la Ciudad Azul.\n\n**Jaswant Thada**\nVisita al cenotafio real de mármol.\n\n**Palacio Umaid Bhawan**\nParada en una de las mayores residencias privadas del mundo.\n\n**Pausa para comer**\n\n**Paseo por la Ciudad Azul y el casco antiguo**\n\n**Atracciones adicionales**\nSegún el tiempo y sus intereses, puede visitar otros lugares notables como los jardines de Mandore (la antigua capital de Marwar) o pozos escalonados y templos locales que muchos turistas se pierden.\n\n**Regreso**\nTras un día memorable entre fuertes, palacios, jardines y la Ciudad Azul, regresará cómodamente en su coche privado a su hotel o al lugar que prefiera de Jodhpur.",
+  "highlights": [
+   "El complejo del Fuerte Mehrangarh, del siglo XV",
+   "El cenotafio real del Jaswant Thada",
+   "El gran Umaid Bhawan y la Ciudad Azul",
+   "Una jornada de visitas con guía oficial y coche"
+  ],
+  "included": [
+   "Guía oficial",
+   "Coche Toyota climatizado",
+   "Recogida y regreso al hotel",
+   "Todos los impuestos, combustible y aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visita a Dharavi",
   "metaTitle": "Dharavi y Dhobi Ghat con guía local en Bombay",
