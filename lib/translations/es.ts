@@ -3876,6 +3876,242 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Ofrecen experiencias distintas. El Fuerte de Agra es una plaza fuerte militar; Fatehpur Sikri es una ciudad imperial planificada y completamente conservada. Ambos son esenciales."
    }
   ]
+ },
+ "red-fort": {
+  "title": "Fuerte Rojo de Delhi: guía completa del visitante 2026",
+  "description": "Fuerte Rojo de Delhi 2026: Patrimonio de la Humanidad, precios de entrada, horarios, espectáculo de luz y sonido, historia y qué ver dentro.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrada extranjeros",
+    "value": "600 ₹ por persona"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horario",
+    "value": "Mar. a dom., 9:30 a 16:30"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Cerrado",
+    "value": "Todos los lunes"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimonio de la Humanidad (2007)"
+   },
+   {
+    "icon": "Map",
+    "label": "Metro más cercano",
+    "value": "Lal Quila (línea Violeta)"
+   },
+   {
+    "icon": "History",
+    "label": "Construido por",
+    "value": "El emperador Shah Jahan, 1638–1648"
+   }
+  ],
+  "sections": [
+   {
+    "title": "El Fuerte Rojo: el trono del Imperio mogol",
+    "content": "El **Fuerte Rojo**, **Lal Qila** en hindi, no es simplemente un monumento. Es el símbolo más poderoso de la soberanía mogol jamás construido en suelo indio. Durante casi 200 años, de 1648 a 1857, fue la sede principal de los emperadores mogoles, el centro de mando vivo de un imperio que en su apogeo controlaba más del 25 % del PIB mundial.\n\nConstruido entre 1638 y 1648 por el emperador mogol **Shah Jahan**, el mismo visionario que dio al mundo el [Taj Mahal](/india/agra/taj-mahal) de Agra, el Fuerte Rojo se concibió como pieza central de su nueva capital, Shahjahanabad. Shah Jahan trasladó deliberadamente su capital de Agra a Delhi, y el Fuerte Rojo debía ser la joya de esa nueva ciudad: más grande, más suntuoso y más magnífico que todo lo anterior.\n\nHoy, el Fuerte Rojo es **Patrimonio de la Humanidad** (2007) y escenario de la ceremonia nacional más importante de India: cada **15 de agosto, Día de la Independencia**, el primer ministro iza la bandera nacional desde la puerta de Lahore y se dirige a la nación, una tradición ininterrumpida desde el primer Día de la Independencia en 1947.\n\nPara cualquier visitante de Delhi, el Fuerte Rojo es innegociable. Es el monumento que define la identidad mogol de la ciudad, conecta con el relato más amplio del [Taj Mahal](/india/agra/taj-mahal) y el [Fuerte de Agra](/india/agra/agra-fort), y figura entre los mayores logros de la arquitectura del siglo XVII en el mundo."
+   },
+   {
+    "title": "Historia: de Shah Jahan a la independencia de India",
+    "content": "### La fundación mogol (1638–1707)\n\nShah Jahan puso la primera piedra del Fuerte Rojo el **13 de mayo de 1638**, fecha elegida por los astrólogos reales como propicia. La construcción duró una década y movilizó a 5.000 artesanos de todo el imperio. El fuerte se completó e inauguró en **1648**.\n\nEl nombre «Fuerte Rojo» procede de su material: enormes muros de **arenisca roja de Agra**, extraída de las mismas canteras rajastaníes que abastecieron el Fuerte de Agra. Los muros se extienden **2,41 kilómetros**, alcanzan **33 metros** de altura en el lado del río y tienen un grosor capaz de resistir el fuego de artillería.\n\nBajo Shah Jahan, el fuerte albergó el legendario **Trono del Pavo Real**, un trono enjoyado tan magnífico que se valoraba en más que el coste del propio Taj Mahal: 108 grandes rubíes, 116 esmeraldas y el famoso diamante **Koh-i-Noor** (hoy parte de las Joyas de la Corona británica). En 1739, el conquistador persa Nadir Shah invadió Delhi, saqueó la ciudad y se llevó el trono a Persia, donde permanece.\n\n### Decadencia y el levantamiento de 1857\n\nTras la muerte de Aurangzeb en 1707, el imperio entró en un largo declive. El fuerte cambió de manos varias veces: marathas, jats y finalmente la Compañía Británica de las Indias Orientales en 1803. En el reinado del último emperador mogol, **Bahadur Shah Zafar II**, era ya una mera cáscara ceremonial.\n\nEl **levantamiento de 1857**, la primera guerra de independencia de India, trajo el final. Tras la represión británica, Bahadur Shah Zafar fue juzgado en el Diwan-i-Khas del fuerte, declarado culpable de traición y exiliado a Rangún (hoy Yangón), en Birmania, donde murió en 1862. Los británicos convirtieron gran parte del fuerte en cuartel y demolieron varios edificios mogoles originales.\n\n### Independencia y era moderna\n\nCuando India obtuvo la independencia el **15 de agosto de 1947**, el primer ministro Jawaharlal Nehru eligió la puerta de Lahore del Fuerte Rojo como lugar simbólico para izar la primera bandera nacional india, tradición mantenida por todos sus sucesores. El fuerte pasó al Archaeological Survey of India en 2003 y fue declarado Patrimonio de la Humanidad en 2007."
+   },
+   {
+    "title": "Arquitectura: dentro del Fuerte Rojo",
+    "content": "El interior del Fuerte Rojo es un mundo en sí mismo: una ciudad palaciega planificada de pabellones de mármol, jardines, fuentes y aposentos reales dispuestos a lo largo de un canal central llamado **Nahr-i-Bihisht** (arroyo del Paraíso).\n\n### Las puertas\n\n**Puerta de Lahore**: la entrada principal occidental y la puerta ceremonial del imperio, llamada así por la carretera hacia Lahore (hoy en Pakistán) a la que mira. Aquí se dirige el primer ministro a la nación cada Día de la Independencia. La precede una barbacana añadida por Aurangzeb, que Shah Jahan, según se cuenta, detestaba porque «velaba a la novia».\n\n**Puerta de Delhi**: la puerta sur, usada originalmente por el emperador para procesiones ceremoniales a lomos de elefante. Hoy es la entrada principal de los visitantes.\n\n### Los palacios\n\n**Diwan-i-Aam** (sala de audiencias públicas): la primera gran estructura del fuerte. Aquí Shah Jahan se sentaba en su trono enjoyado bajo un dosel de mármol y recibía las peticiones de sus súbditos. La hornacina del trono, el **Jharokha**, está decorada con una exquisita pietra dura de aves, flores y la balanza de la justicia.\n\n**Diwan-i-Khas** (sala de audiencias privadas): la sala más célebre del fuerte y, posiblemente, de toda la India mogol. Albergó el Trono del Pavo Real y sus muros llevan el famoso dístico persa: *«Si hay un paraíso en la Tierra, es aquí, es aquí, es aquí»*. Construida por completo en mármol blanco, con techo plano y esbeltos pilares, se aparta del estilo mogol de cúpulas.\n\n**Rang Mahal** (palacio de los Colores): residencia de las esposas principales y favoritas del emperador, llamado así por su interior pintado y dorado, hoy desvaído pero visible. Una fuente de loto de mármol en el centro se alimentaba del canal Nahr-i-Bihisht que discurre por el suelo.\n\n**Moti Masjid** (mezquita de la Perla): una pequeña mezquita de mármol blanco de proporciones perfectas, construida por Aurangzeb para su uso personal. Sus tres cúpulas de blanco puro le dan nombre. Se considera una de las mejores mezquitas pequeñas de India.\n\n**Hammam** (baños reales): tres cámaras de mármol comunicadas usadas por el emperador, una de agua fría, otra de agua caliente y otra de vapor perfumado, con suelos incrustados de piedras semipreciosas en motivos florales."
+   },
+   {
+    "title": "Estatus de Patrimonio de la Humanidad",
+    "content": "El Fuerte Rojo fue inscrito en la **Lista del Patrimonio Mundial de la UNESCO en 2007** según los criterios (ii) y (iii): un intercambio excepcional de valores humanos y un testimonio excepcional de una tradición cultural.\n\nLa UNESCO reconoce el Fuerte Rojo como la cima de la creación mogol: un complejo que sintetizó las tradiciones arquitectónicas persa, timúrida e hindú en una obra maestra unificada, predecesor directo de los monumentos mogoles posteriores del subcontinente.\n\nLa inscripción también destaca su extraordinaria importancia histórica: sede del Imperio mogol en su cénit, testigo de su decadencia y cuna simbólica de la India independiente moderna.\n\nEl **Archaeological Survey of India (ASI)** supervisa la conservación, con trabajos continuos para restaurar las incrustaciones de mármol dañadas, estabilizar los muros de arenisca y documentar las decoraciones pintadas originales de los palacios. Un importante programa de restauración con apoyo de la UNESCO concluyó en 2019."
+   },
+   {
+    "title": "Espectáculo de luz y sonido: una experiencia nocturna esencial",
+    "content": "Una de las mejores experiencias del Fuerte Rojo es el **espectáculo de luz y sonido** que se celebra cada noche en el patio del Diwan-i-Aam. Durante 60 minutos narra la historia completa del Imperio mogol y del fuerte con iluminación dramática, música y narración bilingüe (hindi e inglés).\n\nEl espectáculo empieza tras el atardecer y usa la propia arquitectura del fuerte como escenario: la puerta de Lahore, el Diwan-i-Aam y el Rang Mahal se iluminan a medida que se suceden los capítulos. La narración cubre la construcción por Shah Jahan, el apogeo del imperio bajo Aurangzeb, el Trono del Pavo Real, la invasión de Nadir Shah, el levantamiento de 1857 y la independencia de India.\n\n**Horarios 2026:**\n- **Sesión en inglés**: 20:30 (noviembre a enero: 19:30)\n- **Sesión en hindi**: 21:30 (noviembre a enero: 20:30)\n\n**Entradas**: unas 80 ₹ (indios) / 250 ₹ (extranjeros). Compra en la taquilla del fuerte o online en la web del ASI. Llega 20 minutos antes para sentarte.\n\nEl espectáculo **no se celebra los lunes** (día en que cierra el fuerte). Muy recomendable para quienes visitan por primera vez: aporta el contexto histórico que hace mucho más significativa la visita diurna."
+   },
+   {
+    "title": "Guía completa de visita 2026",
+    "content": "### Entradas y tarifas\n\n**Entrada diurna:**\n- Turistas extranjeros: **600 ₹ por persona**\n- Ciudadanos indios: **35 ₹ por persona**\n- Menores de 15 años: gratis\n- Entrada combinada (Fuerte Rojo + Museo Arqueológico interior): 650 ₹ extranjeros / 40 ₹ indios\n\nLas entradas se compran en la taquilla de la puerta de Delhi o por adelantado en la web del ASI (asi.nic.in). La reserva online es muy recomendable en temporada alta (octubre a marzo) para evitar colas.\n\n### Horario\n- **Martes a domingo**: 9:30 a 16:30\n- **Lunes**: cerrado\n- **Espectáculo de luz y sonido**: ver horarios arriba (entrada aparte)\n\n### Cómo llegar\n\n**En metro (recomendado)**: **línea Violeta** hasta **Lal Quila**, a 2 minutos a pie de la salida 1. O línea Amarilla hasta **Chandni Chowk** y 10 minutos a pie hacia el este.\n\n**En Uber u Ola**: busca «Red Fort Delhi» o «Lal Qila». Llegada a la entrada de la puerta de Delhi.\n\n**En auto-rickshaw**: desde la estación de Chandni Chowk, negocia 30-50 ₹.\n\n### Qué llevar\n- Documento de identidad con foto (obligatorio para comprar la entrada)\n- Calzado cómodo: el complejo ocupa 103 hectáreas\n- Botella de agua: dentro no se vende comida ni bebida\n- NO llevar: trípodes, palos de selfie, bolsas grandes, comida ni baterías externas (prohibidos por la seguridad del ASI)\n\n### Mejor momento para visitarlo\nLlega **a las 9:30, a la apertura**, para explorar antes de que lleguen los grupos. Evita los domingos y festivos: las multitudes son extremas. **Las mañanas de martes y miércoles** son las más tranquilas. El fuerte luce más fotogénico en la **hora dorada** justo después de abrir, cuando la arenisca roja brilla con la luz de la mañana.\n\n### Combinar con la Vieja Delhi\nEl Fuerte Rojo encaja perfectamente con la **Jama Masjid** (10 minutos a pie hacia el oeste) y la calle comercial de **Chandni Chowk**. Medio día tipo: Fuerte Rojo (2 horas), paseo por Chandni Chowk, Jama Masjid y almuerzo en Karim's. Consulta nuestra [guía de viaje de Delhi](/india/delhi/delhi-travel-guide-2026) para el itinerario completo de la Vieja Delhi."
+   },
+   {
+    "title": "Explora el Fuerte Rojo con un historiador local",
+    "content": "El Fuerte Rojo guarda 200 años de historia mogol entre sus muros, pero sin contexto la mayoría de los visitantes solo ve bella arquitectura. Nuestros guías historiadores con licencia descifran las intrigas políticas, los emperadores caídos, el Trono del Pavo Real perdido y el momento en que India recuperó su independencia en estas mismas puertas. Visitas privadas y en grupo disponibles."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es el horario del Fuerte Rojo en 2026?",
+    "a": "El Fuerte Rojo abre **de martes a domingo, de 9:30 a 16:30**, y cierra todos los lunes. El espectáculo de luz y sonido se celebra por la noche tras el cierre: sesión en inglés a las 20:30 y en hindi a las 21:30 (una hora antes en invierno)."
+   },
+   {
+    "q": "¿Cuánto cuesta la entrada al Fuerte Rojo en 2026?",
+    "a": "La entrada para **turistas extranjeros cuesta 600 ₹ por persona**; los ciudadanos indios pagan 35 ₹. Los menores de 15 años entran gratis. La entrada combinada con el Museo Arqueológico cuesta 650 ₹ (extranjeros) / 40 ₹ (indios). Las entradas del espectáculo de luz y sonido son aparte, unas 250 ₹ (extranjeros) / 80 ₹ (indios)."
+   },
+   {
+    "q": "¿Es el Fuerte Rojo Patrimonio de la Humanidad?",
+    "a": "Sí. Fue inscrito en la **Lista del Patrimonio Mundial de la UNESCO en 2007**, reconocido por su excepcional arquitectura mogol y su singular importancia histórica como sede del Imperio mogol y cuna de la India independiente moderna."
+   },
+   {
+    "q": "¿Cuánto se tarda en visitar el Fuerte Rojo?",
+    "a": "Una visita completa lleva **de 2 a 3 horas**. Con prisa, 90 minutos cubren las estructuras clave. Con un guía que explique la historia de cada palacio y de la corte mogol, calcula 3 horas con comodidad."
+   },
+   {
+    "q": "¿Abre el Fuerte Rojo los viernes?",
+    "a": "Sí, el Fuerte Rojo **abre los viernes**. A diferencia del Taj Mahal (cerrado todos los viernes), el Fuerte Rojo solo cierra los **lunes**. Abre todos los demás días, incluidos los festivos indios."
+   },
+   {
+    "q": "¿Qué estación de metro está más cerca del Fuerte Rojo?",
+    "a": "La estación **Lal Quila** de la **línea Violeta (línea 7)**, a 2 minutos a pie de la entrada de la puerta de Delhi. Como alternativa, **Chandni Chowk**, en la línea Amarilla, a 10 minutos a pie."
+   },
+   {
+    "q": "¿Puedo llevar cámara al Fuerte Rojo?",
+    "a": "Sí, las cámaras personales y los móviles están permitidos para fotografiar sin coste adicional. Sin embargo, **trípodes, palos de selfie y equipos de vídeo profesionales** requieren autorización escrita previa del ASI. Los drones están estrictamente prohibidos."
+   },
+   {
+    "q": "¿Qué hay dentro del Fuerte Rojo?",
+    "a": "Dentro encontrarás el **Diwan-i-Aam** (sala de audiencias públicas), el **Diwan-i-Khas** (sala de audiencias privadas, antiguo emplazamiento del Trono del Pavo Real), el **Rang Mahal** (palacio de los Colores), la **Moti Masjid** (mezquita de la Perla), el **Hammam** (baños reales), el canal **Nahr-i-Bihisht** y un Museo Arqueológico."
+   },
+   {
+    "q": "¿Qué es el espectáculo de luz y sonido del Fuerte Rojo?",
+    "a": "Una experiencia nocturna de 60 minutos en el patio del Diwan-i-Aam que narra la historia completa del Imperio mogol con iluminación dramática y narración (en hindi e inglés). Es uno de los mejores espectáculos de este tipo en India y muy recomendable para quienes visitan por primera vez."
+   },
+   {
+    "q": "¿El Fuerte Rojo es lo mismo que el Fuerte de Agra?",
+    "a": "No, son dos fuertes distintos. El **Fuerte Rojo de Delhi** lo construyó Shah Jahan como nuevo palacio imperial (1638–1648). El **[Fuerte de Agra](/india/agra/agra-fort)** lo construyó antes el emperador Akbar (1565) y fue sede del imperio antes que Delhi. Ambos son Patrimonio de la Humanidad. Shah Jahan fue encarcelado en el Fuerte de Agra por su hijo Aurangzeb en sus últimos años."
+   },
+   {
+    "q": "¿Qué relación tiene el Fuerte Rojo con el Taj Mahal?",
+    "a": "Tanto el Fuerte Rojo de Delhi como el [Taj Mahal](/india/agra/taj-mahal) de Agra fueron construidos por el mismo emperador, **Shah Jahan**, en el mismo periodo (décadas de 1630 a 1650). Son los dos logros arquitectónicos gemelos de su reinado: el Taj Mahal como monumento al amor y al duelo, y el Fuerte Rojo como monumento al poder imperial. Visitar ambos es esencial para entender el alcance de la civilización mogol."
+   },
+   {
+    "q": "¿Qué no debo llevar al Fuerte Rojo?",
+    "a": "La seguridad del ASI **prohíbe estrictamente**: trípodes, palos de selfie, mochilas grandes, comida y bebida (las botellas de agua sí se permiten), baterías externas, tabaco, mecheros y cualquier objeto que pueda usarse como arma. Los controles son exhaustivos."
+   },
+   {
+    "q": "¿Hay código de vestimenta en el Fuerte Rojo?",
+    "a": "No hay código formal para el complejo palaciego. Pero si vas a visitar alguna mezquita del recinto (como la Moti Masjid), debes cubrir hombros y rodillas. El calzado cómodo es esencial por la extensión que hay que recorrer."
+   },
+   {
+    "q": "¿Cuál es el mejor momento para visitar el Fuerte Rojo?",
+    "a": "**A las 9:30 de un martes o miércoles**, cuando abre y hay menos gente. De octubre a marzo es la temporada ideal, con temperaturas agradables y cielos despejados. Evita domingos, festivos y el calor del mediodía de abril a junio."
+   },
+   {
+    "q": "¿Puedo visitar el Fuerte Rojo y el Qutub Minar en un día?",
+    "a": "Sí, pero requiere madrugar. Visita el Fuerte Rojo de 9:30 a 12:00 y toma un taxi hasta el [Qutub Minar](/india/delhi/qutub-minar) en el sur de Delhi (unos 45 minutos en Uber), añadiendo la [tumba de Humayun](/india/delhi/humayuns-tomb) por el camino. Consulta nuestro [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para la ruta optimizada."
+   }
+  ]
+ },
+ "qutub-minar": {
+  "title": "Qutub Minar de Delhi: historia completa y guía del visitante 2026",
+  "description": "Qutub Minar 2026: el minarete de ladrillo más alto del mundo (72,5 m), sitio UNESCO, precios de entrada, Pilar de Hierro, historia y consejos de visita.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrada extranjeros",
+    "value": "600 ₹ por persona"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horario",
+    "value": "A diario, de sol a sol"
+   },
+   {
+    "icon": "Map",
+    "label": "Metro más cercano",
+    "value": "Qutub Minar (línea Amarilla)"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimonio de la Humanidad (1993)"
+   },
+   {
+    "icon": "History",
+    "label": "Construido por",
+    "value": "Qutb-ud-din Aibak, 1193"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Altura",
+    "value": "72,5 metros, el minarete de ladrillo más alto del mundo"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Qutub Minar: donde la historia de India cambió para siempre",
+    "content": "El **Qutub Minar** no es solo la estructura más alta de Delhi: es el monumento que marca el momento en que la historia de India cambió de rumbo para siempre. Cuando **Qutb-ud-din Aibak** empezó a construir esta torre en **1193**, no levantaba simplemente un minarete. Anunciaba la llegada de una nueva civilización: el **sultanato de Delhi**, el primer sultanato islámico de India, que sentaría las bases de cinco siglos de dominio musulmán culminados en el Imperio mogol.\n\nCon **72,5 metros**, el Qutub Minar es el **minarete de ladrillo más alto del mundo**, un récord que mantiene desde hace más de 800 años. Es más alto que el minarete de la Gran Mezquita de Córdoba, que el minarete de Jam en Afganistán y que cualquier torre de ladrillo construida en el mundo islámico antes o después. Cinco pisos de arenisca roja acanalada, cada uno con su propia decoración, se elevan en un afilamiento perfecto, coronados por una plataforma desde la que el muecín llamaba a la oración.\n\nEl complejo del Qutub contiene las ruinas de la **primera mezquita construida en India** tras la conquista islámica, un monumento de extraordinaria importancia histórica, y alberga también el **Pilar de Hierro de Delhi**: una maravilla metalúrgica del siglo IV tan pura que no se ha oxidado en 1.600 años a la intemperie.\n\nDeclarado **Patrimonio de la Humanidad en 1993**, el complejo del Qutub Minar es uno de los tres sitios UNESCO de Delhi y se considera uno de los mejores ejemplos existentes de arquitectura indoislámica temprana."
+   },
+   {
+    "title": "Historia: el nacimiento del sultanato de Delhi",
+    "content": "### Qutb-ud-din Aibak y la primera fundación (1193)\n\n**Qutb-ud-din Aibak** fue un antiguo esclavo que llegó a ser comandante militar de Muhammad de Ghor, el gobernante afgano que derrotó al rey rajput Prithviraj Chauhan en la segunda batalla de Tarain en 1192, una batalla que abrió la llanura del Ganges a la conquista islámica. Tras el asesinato de Ghor en 1206, Aibak se proclamó sultán de Delhi y fundó la **dinastía de los Esclavos**, la primera de las cinco dinastías que gobernarían como sultanato de Delhi.\n\nLa construcción del Qutub Minar empezó en **1193** bajo Aibak, pero murió en 1210 habiendo completado solo el primer piso. El segundo y el tercero los añadió su sucesor y yerno **Iltutmish** (1211–1236), que también se construyó una magnífica tumba en el complejo. El cuarto y el quinto se añadieron después de que un rayo destruyera la cima original en 1368, durante el reinado de **Firuz Shah Tughluq**, que reconstruyó las partes dañadas y añadió una cúpula.\n\n### La restauración de Firuz Shah (1368)\n\nEn 1368, un rayo alcanzó el Qutub Minar y destruyó su parte superior. El sultán **Firuz Shah Tughluq** emprendió una restauración completa y añadió dos pisos nuevos en un estilo distinto, con mármol de color crema en lugar de la arenisca roja de los pisos inferiores. Ese cambio de material es visible hoy y da al minarete su característico degradado de color, de la arenisca roja abajo al mármol crema arriba.\n\n### El periodo británico\n\nEn 1803, un fuerte terremoto sacudió Delhi y dañó la parte superior. El mayor británico Robert Smith la reparó en 1829 y añadió una nueva cúpula, tan discordante con la torre que después fue retirada y colocada en los jardines del complejo, donde sigue hoy como «la locura de Smith». El minarete se cerró al público tras una trágica estampida en su estrecha escalera en 1981 que causó 47 muertos."
+   },
+   {
+    "title": "Arquitectura: una obra maestra de piedra acanalada",
+    "content": "El logro arquitectónico del Qutub Minar reside en su diseño aparentemente sencillo pero extraordinariamente preciso. La torre consta de **cinco pisos**, separados por balcones sostenidos por mocárabes (ménsulas). El diámetro en la base es de **14,3 metros** y se estrecha hasta solo **2,75 metros** en la cima, un afilamiento matemático calculado para crear la ilusión de una altura aún mayor que los 72,5 metros reales.\n\n### El tratamiento de la superficie\n\nLos tres pisos inferiores son de **cuarcita roja** (a veces llamada arenisca roja), mientras que los dos superiores añadidos por Firuz Shah Tughluq usan **mármol y arenisca**. La superficie de cada piso está cubierta de **acanaladuras** alternativamente angulares y redondeadas, canales verticales tallados en la piedra que crean un dramático juego de luces y sombras a lo largo del día.\n\nTodas las superficies disponibles de los tres primeros pisos llevan **inscripciones árabes** talladas directamente en la piedra: versos del Corán, alabanzas a los sultanes que encargaron cada piso y registros históricos de la construcción. Están entre los ejemplos más antiguos de caligrafía árabe conservados en India.\n\n### La mezquita Quwwat ul-Islam\n\nEn la base del Qutub Minar se alza la **mezquita Quwwat ul-Islam**, «el poder del islam». Construida por Aibak en **1193**, es la **primera mezquita construida en India tras la conquista islámica**. Su construcción fue notablemente polémica: se levantó con materiales (pilares, dinteles y piedras) recuperados de 27 templos hindúes y jainistas que ocupaban el lugar.\n\nEl resultado es un híbrido arquitectónico de extraordinario impacto visual: arcos islámicos y decoración geométrica enmarcando pilares de estilo hindú con sus tallas claramente indias. El contraste se aprecia en cada columna, cada fuste procedente de un templo demolido distinto, reutilizado al servicio de una nueva fe.\n\n### El Pilar de Hierro de Delhi\n\nEn el centro del patio de la mezquita se alza uno de los grandes misterios metalúrgicos del mundo antiguo: el **Pilar de Hierro de Delhi**. Datado hacia **375–415**, en la dinastía Gupta, esta columna de hierro de 7,21 metros lleva más de **1.600 años a la intemperie sin oxidarse**.\n\nEl pilar se fabricó probablemente forjando y soldando pequeñas piezas de hierro a alta temperatura, una técnica que produjo un hierro químicamente puro con una capa fosfórica natural que impide la oxidación. Los metalúrgicos modernos han confirmado que su composición no se parece a nada producido en el mundo antiguo. Su inscripción en sánscrito lo describe como un mástil en honor del dios hindú Vishnu. Cómo y cuándo llegó al complejo del Qutub sigue siendo objeto de debate."
+   },
+   {
+    "title": "Guía completa de visita 2026",
+    "content": "### Tarifas de entrada\n- **Turistas extranjeros**: 600 ₹ por persona\n- **Ciudadanos indios**: 40 ₹ por persona\n- **Menores de 15 años**: gratis\n- Audioguía del ASI disponible en la entrada: 100 ₹ (hindi) / 150 ₹ (inglés). Muy recomendable.\n\n### Horario\nEl complejo abre **a diario de sol a sol**, normalmente de 7:00 a 17:00 (hasta las 18:00 en verano). A diferencia del Fuerte Rojo, **abre todos los días de la semana, incluido el lunes**.\n\n### Cómo llegar\n\n**En metro (la mejor opción)**: **línea Amarilla** hasta la estación **Qutub Minar** (que lleva el nombre del monumento). Son 10 minutos a pie desde la salida, o un corto trayecto en auto-rickshaw por 20-30 ₹.\n\n**En Uber u Ola**: busca «Qutub Minar Complex» o «Mehrauli». La llegada es en la entrada principal.\n\n**Desde el centro de Delhi**: unos 45 minutos en metro desde Connaught Place (transbordo en Central Secretariat si es necesario).\n\n### ¿Se puede subir al Qutub Minar?\nNo. Desde la estampida de 1981 que mató a 47 visitantes en la estrecha escalera interior, la torre está **cerrada al ascenso público**. Puedes verla desde fuera y explorar todo el complejo circundante.\n\n### Mejor momento para visitarlo\n**A primera hora de la mañana (7:00–9:00)** hay la mejor luz para fotografiar y menos gente. El minarete mira aproximadamente al este, así que la luz matinal ilumina de maravilla las inscripciones talladas. Evita el mediodía de los fines de semana: el complejo se llena mucho.\n\n### Combinar con otros lugares de Delhi\nEl Qutub Minar se combina de forma natural con el cercano **Parque Arqueológico de Mehrauli**, un extenso parque de 70 hectáreas con ruinas de varias dinastías medievales, casi sin turistas. Desde el Qutub Minar también puedes visitar la [tumba de Humayun](/india/delhi/humayuns-tomb) (25 minutos en Uber) y la [India Gate](/india/delhi/india-gate) (35 minutos). Consulta el [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para la ruta óptima."
+   },
+   {
+    "title": "Descubre el Qutub Minar con un guía certificado",
+    "content": "El complejo del Qutub contiene 800 años de historia en capas, desde la destrucción de templos hindúes hasta el nacimiento de la arquitectura islámica en India. Nuestros guías historiadores certificados descifran cada inscripción, explican el misterio del Pilar de Hierro y dan vida al sultanato de Delhi. Visitas privadas y en grupo por Delhi disponibles."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuánto mide el Qutub Minar?",
+    "a": "El Qutub Minar mide **72,5 metros (238 pies)**, lo que lo convierte en el **minarete de ladrillo más alto del mundo**, un récord que mantiene desde hace más de 800 años. Tiene cinco pisos y un diámetro en la base de 14,3 metros que se estrecha hasta 2,75 metros en la cima."
+   },
+   {
+    "q": "¿Quién construyó el Qutub Minar y cuándo?",
+    "a": "La construcción la inició **Qutb-ud-din Aibak** en **1193**, fundador del sultanato de Delhi. Solo completó el primer piso antes de morir en 1210. El segundo y el tercero los añadió **Iltutmish** (1211–1236), y el cuarto y el quinto los reconstruyó **Firuz Shah Tughluq** tras los daños de un rayo en 1368."
+   },
+   {
+    "q": "¿Cuánto cuesta la entrada al Qutub Minar en 2026?",
+    "a": "La entrada cuesta **600 ₹ para turistas extranjeros** y **40 ₹ para ciudadanos indios**. Los menores de 15 años entran gratis. La audioguía del ASI se paga aparte, 100-150 ₹."
+   },
+   {
+    "q": "¿Es el Qutub Minar Patrimonio de la Humanidad?",
+    "a": "Sí. El complejo del Qutub Minar fue inscrito en la **Lista del Patrimonio Mundial de la UNESCO en 1993**, uno de los tres sitios UNESCO de Delhi junto con el Fuerte Rojo (2007) y la tumba de Humayun (1993)."
+   },
+   {
+    "q": "¿Se puede entrar en el Qutub Minar?",
+    "a": "No. La escalera interior del Qutub Minar está **cerrada al público desde 1981**, tras una trágica estampida en la estrecha escalera que mató a 47 visitantes. El minarete puede verse desde fuera, y todo el complejo circundante, con la mezquita, el Pilar de Hierro y las tumbas, sigue siendo plenamente accesible."
+   },
+   {
+    "q": "¿Qué es el Pilar de Hierro del Qutub Minar?",
+    "a": "El **Pilar de Hierro de Delhi** es una columna de hierro de 7,21 metros datada hacia 375–415 (dinastía Gupta) que lleva más de **1.600 años a la intemperie sin oxidarse**. Es uno de los grandes misterios metalúrgicos del mundo antiguo. Los científicos atribuyen su resistencia a la oxidación a la pureza inusual de su hierro y a una capa fosfórica natural."
+   },
+   {
+    "q": "¿Qué estación de metro está más cerca del Qutub Minar?",
+    "a": "La estación **Qutub Minar** de la **línea Amarilla**. Está a unos 10 minutos a pie de la entrada principal del complejo, o a 5 minutos en auto-rickshaw por 20-30 ₹."
+   },
+   {
+    "q": "¿Cuánto se tarda en visitar el Qutub Minar?",
+    "a": "Una visita completa a todo el complejo lleva **entre 90 minutos y 2 horas**. Si contratas audioguía o guía con licencia, calcula 2,5 horas para una experiencia completa y con contexto del minarete, las ruinas de la mezquita, el Pilar de Hierro y las tumbas."
+   },
+   {
+    "q": "¿Abre el Qutub Minar los lunes?",
+    "a": "Sí. A diferencia del Fuerte Rojo, que cierra los lunes, **el Qutub Minar abre todos los días de la semana**, incluidos lunes y festivos, de sol a sol."
+   },
+   {
+    "q": "¿Qué es la mezquita Quwwat ul-Islam?",
+    "a": "La **mezquita Quwwat ul-Islam** («el poder del islam»), en la base del Qutub Minar, es la **primera mezquita construida en India tras la conquista islámica**, levantada por Aibak en 1193. Se construyó polémicamente con pilares y materiales recuperados de 27 templos hindúes y jainistas demolidos, lo que crea un llamativo híbrido de elementos arquitectónicos islámicos e hindúes."
+   },
+   {
+    "q": "¿Cuál es la mejor época para visitar el Qutub Minar?",
+    "a": "**De octubre a marzo** es la temporada ideal: temperaturas frescas, cielos despejados y excelente visibilidad. **Las visitas a primera hora (7:00–9:00)** ofrecen la mejor luz fotográfica y menos gente en cualquier época. Evita los meses de mayo y junio, cuando las temperaturas pueden superar los 45 °C."
+   },
+   {
+    "q": "¿Está el Qutub Minar en la guía de viaje de Delhi?",
+    "a": "Sí. El Qutub Minar es uno de los tres sitios UNESCO de Delhi y una parada clave de cualquier itinerario. Consulta nuestra [guía de viaje de Delhi 2026](/india/delhi/delhi-travel-guide-2026) y el [itinerario de un día en Delhi](/india/delhi/delhi-1-day-itinerary) para combinarlo con el Fuerte Rojo, la tumba de Humayun y la India Gate en un solo día."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {

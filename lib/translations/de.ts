@@ -3876,6 +3876,242 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "Sie bieten unterschiedliche Erlebnisse. Das Rote Fort ist eine Militärfestung, Fatehpur Sikri eine vollständig erhaltene, geplante Reichsstadt. Beide sind unverzichtbar."
    }
   ]
+ },
+ "red-fort": {
+  "title": "Rotes Fort Delhi: der komplette Besucherguide 2026",
+  "description": "Rotes Fort Delhi 2026: UNESCO-Welterbe, Eintrittspreise, Öffnungszeiten, Ton- und Lichtshow, Geschichte und was es drinnen zu sehen gibt.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Eintritt Ausländer",
+    "value": "600 ₹ pro Person"
+   },
+   {
+    "icon": "Clock",
+    "label": "Öffnungszeiten",
+    "value": "Di bis So, 9:30 bis 16:30 Uhr"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Geschlossen",
+    "value": "Jeden Montag"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Welterbe (2007)"
+   },
+   {
+    "icon": "Map",
+    "label": "Nächste Metro",
+    "value": "Lal Quila (Violet Line)"
+   },
+   {
+    "icon": "History",
+    "label": "Erbaut von",
+    "value": "Kaiser Shah Jahan, 1638–1648"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Das Rote Fort: der Thron des Mogulreichs",
+    "content": "Das **Rote Fort**, auf Hindi **Lal Qila**, ist nicht einfach ein Monument. Es ist das mächtigste Symbol mogulischer Herrschaft, das je auf indischem Boden gebaut wurde. Fast 200 Jahre lang, von 1648 bis 1857, war es der Hauptsitz der Mogulkaiser, das lebendige Kommandozentrum eines Reichs, das auf seinem Höhepunkt mehr als 25 % des weltweiten BIP kontrollierte.\n\nZwischen 1638 und 1648 vom Mogulkaiser **Shah Jahan** erbaut, demselben Visionär, der der Welt das [Taj Mahal](/india/agra/taj-mahal) in Agra schenkte, wurde das Rote Fort als Herzstück seiner neuen Hauptstadt Shahjahanabad errichtet. Shah Jahan verlegte seine Hauptstadt bewusst von Agra nach Delhi, und das Rote Fort sollte das Kronjuwel dieser neuen Stadt sein: größer, prächtiger und großartiger als alles zuvor.\n\nHeute ist das Rote Fort **UNESCO-Welterbe** (2007) und Schauplatz der wichtigsten nationalen Zeremonie Indiens: Jedes Jahr am **15. August, dem Unabhängigkeitstag**, hisst der Premierminister die Nationalflagge am Lahori-Tor und hält eine Rede an die Nation, eine seit dem ersten Unabhängigkeitstag 1947 ununterbrochene Tradition.\n\nFür jeden Delhi-Besucher ist das Rote Fort unverzichtbar. Es ist das Monument, das die mogulische Identität der Stadt prägt, den Bogen zum [Taj Mahal](/india/agra/taj-mahal) und zum [Roten Fort von Agra](/india/agra/agra-fort) schlägt und zu den größten Leistungen der Architektur des 17. Jahrhunderts weltweit zählt."
+   },
+   {
+    "title": "Geschichte: von Shah Jahan bis zur indischen Unabhängigkeit",
+    "content": "### Die mogulische Gründung (1638–1707)\n\nShah Jahan legte den Grundstein des Roten Forts am **13. Mai 1638**, einem von den Hofastrologen als günstig gewählten Datum. Der Bau dauerte ein Jahrzehnt und beschäftigte 5.000 Handwerker aus dem gesamten Mogulreich. Das Fort wurde **1648** vollendet und eingeweiht.\n\nDer Name „Rotes Fort“ kommt vom Baumaterial: gewaltige Mauern aus **rotem Agra-Sandstein**, aus denselben Steinbrüchen Rajasthans wie das Fort von Agra. Die Mauern erstrecken sich über **2,41 Kilometer**, erreichen an der Flussseite **33 Meter** Höhe und sind so dick, dass sie Artilleriebeschuss standhielten.\n\nUnter Shah Jahan beherbergte das Fort den legendären **Pfauenthron**, einen juwelenbesetzten Thron, so prachtvoll, dass er höher bewertet wurde als die Baukosten des Taj Mahal: 108 große Rubine, 116 Smaragde und der berühmte **Koh-i-Noor**-Diamant (heute Teil der britischen Kronjuwelen). 1739 fiel der persische Eroberer Nadir Shah in Delhi ein, plünderte die Stadt und brachte den Pfauenthron nach Persien, wo er blieb.\n\n### Niedergang und der Aufstand von 1857\n\nNach Aurangzebs Tod 1707 begann der lange Niedergang des Reichs. Das Fort wechselte mehrfach den Besitzer: Marathen, Jats und schließlich 1803 die britische Ostindien-Kompanie. Unter dem letzten Mogulkaiser **Bahadur Shah Zafar II.** war es nur noch eine zeremonielle Hülle.\n\nDer **Aufstand von 1857**, Indiens erster Unabhängigkeitskrieg, brachte das Ende. Nach der britischen Niederschlagung wurde Bahadur Shah Zafar im Diwan-i-Khas des Forts vor Gericht gestellt, des Hochverrats schuldig gesprochen und nach Rangun (heute Yangon) in Burma verbannt, wo er 1862 starb. Die Briten machten einen Großteil des Forts zur Kaserne und rissen mehrere Mogulbauten ab.\n\n### Unabhängigkeit und Moderne\n\nMit der Unabhängigkeit am **15. August 1947** wählte Premierminister Jawaharlal Nehru das Lahori-Tor des Roten Forts als symbolischen Ort, um die erste indische Nationalflagge zu hissen, eine von jedem Premierminister seither gepflegte Tradition. 2003 ging das Fort an den Archaeological Survey of India, 2007 wurde es UNESCO-Welterbe."
+   },
+   {
+    "title": "Architektur: im Inneren des Roten Forts",
+    "content": "Das Innere des Roten Forts ist eine Welt für sich: eine geplante Palaststadt aus Marmorpavillons, Gärten, Brunnen und königlichen Gemächern entlang eines zentralen Kanals, dem **Nahr-i-Bihisht** (Strom des Paradieses).\n\n### Die Tore\n\n**Lahori-Tor**: der westliche Haupteingang und das Zeremonientor des Reichs, benannt nach der Straße, der es zugewandt ist, Richtung Lahore (heute in Pakistan). Hier spricht der Premierminister jedes Jahr am Unabhängigkeitstag zur Nation. Davor liegt eine von Aurangzeb hinzugefügte Barbakane, die Shah Jahan angeblich hasste, weil sie „die Braut verschleierte“.\n\n**Delhi-Tor**: das südliche Tor, ursprünglich vom Kaiser für Prozessionen auf Elefanten genutzt. Heute der Hauptbesuchereingang.\n\n### Die Paläste\n\n**Diwan-i-Aam** (öffentliche Audienzhalle): das erste große Bauwerk im Fort. Hier saß Shah Jahan auf seinem juwelenbesetzten Thron unter einem Marmorbaldachin und nahm die Bittschriften seiner Untertanen entgegen. Die Thronnische, das **Jharokha**, ist mit exquisiter Pietra dura aus Vögeln, Blumen und der Waage der Gerechtigkeit verziert.\n\n**Diwan-i-Khas** (private Audienzhalle): der berühmteste Raum des Forts und wohl des gesamten Mogul-Indiens. Ursprünglich Standort des Pfauenthrons, tragen seine Wände den berühmten persischen Zweizeiler: *„Wenn es ein Paradies auf Erden gibt, dann ist es hier, ist es hier, ist es hier.“* Die Halle ist ganz aus weißem Marmor, mit flachem Dach und schlanken Pfeilern, eine Abkehr vom Kuppelstil der Moguln.\n\n**Rang Mahal** (Palast der Farben): Residenz der Hauptfrauen und Konkubinen des Kaisers, benannt nach dem bemalten und vergoldeten Inneren, heute verblasst, aber sichtbar. Ein Lotusbrunnen aus Marmor in der Mitte wurde einst vom Kanal Nahr-i-Bihisht gespeist, der durch den Boden lief.\n\n**Moti Masjid** (Perlenmoschee): eine kleine, perfekt proportionierte Moschee aus weißem Marmor, die Kaiser Aurangzeb für den eigenen Gebrauch baute. Ihre drei rein weißen Kuppeln gaben ihr den Namen. Sie gilt als eine der schönsten kleinen Moscheen Indiens.\n\n**Hammam** (königliche Bäder): drei verbundene Marmorkammern für den Kaiser, eine für kaltes, eine für heißes Wasser und eine für parfümierten Dampf, mit Böden aus Halbedelsteinen in Blumenmustern."
+   },
+   {
+    "title": "UNESCO-Welterbestatus",
+    "content": "Das Rote Fort wurde **2007 in die UNESCO-Welterbeliste** aufgenommen, nach den Kriterien (ii) und (iii): ein herausragender Austausch menschlicher Werte und ein außergewöhnliches Zeugnis einer kulturellen Tradition.\n\nDie UNESCO-Begründung würdigt das Rote Fort als Höhepunkt mogulischer Schaffenskraft: eine Anlage, die persische, timuridische und hinduistische Bautraditionen zu einem einheitlichen Meisterwerk verschmolz, direkter architektonischer Vorläufer späterer Mogul-Monumente auf dem Subkontinent.\n\nDie Eintragung betont auch die außerordentliche historische Bedeutung: als Sitz des Mogulreichs auf seinem Höhepunkt, als Zeuge seines Niedergangs und als symbolische Geburtsstätte des modernen unabhängigen Indien.\n\nDer **Archaeological Survey of India (ASI)** überwacht die Erhaltung, mit laufenden Arbeiten zur Restaurierung beschädigter Marmoreinlagen, zur Sicherung der Sandsteinmauern und zur Dokumentation der ursprünglichen Malereien in den Palästen. Ein umfangreiches, von der UNESCO unterstütztes Restaurierungsprogramm wurde 2019 abgeschlossen."
+   },
+   {
+    "title": "Ton- und Lichtshow: ein unverzichtbares Abenderlebnis",
+    "content": "Eines der besten Erlebnisse am Roten Fort ist die **Ton- und Lichtshow**, die jeden Abend im Hof des Diwan-i-Aam stattfindet. In 60 Minuten erzählt sie die gesamte Geschichte des Mogulreichs und des Forts mit dramatischem Licht, Musik und zweisprachiger Erzählung (Hindi und Englisch).\n\nDie Show beginnt nach Sonnenuntergang und nutzt die Architektur des Forts als Kulisse: Lahori-Tor, Diwan-i-Aam und Rang Mahal werden mit jedem Kapitel dramatisch beleuchtet. Die Erzählung reicht vom Bau unter Shah Jahan über die Blüte unter Aurangzeb, den Pfauenthron, Nadir Shahs Invasion und den Aufstand von 1857 bis zur Unabhängigkeit Indiens.\n\n**Zeiten 2026:**\n- **Englische Show**: 20:30 Uhr (November bis Januar: 19:30 Uhr)\n- **Hindi-Show**: 21:30 Uhr (November bis Januar: 20:30 Uhr)\n\n**Tickets**: etwa 80 ₹ (Inder) / 250 ₹ (Ausländer). Kauf am Ticketschalter des Forts oder online über die ASI-Website. 20 Minuten früher kommen für die Sitzplätze.\n\nDie Show ist **montags geschlossen** (wie das Fort). Für Erstbesucher sehr empfehlenswert: Sie liefert den historischen Kontext, der den Tagesbesuch viel bedeutungsvoller macht."
+   },
+   {
+    "title": "Kompletter Besucherguide 2026",
+    "content": "### Tickets und Eintrittspreise\n\n**Tageseintritt:**\n- Ausländische Touristen: **600 ₹ pro Person**\n- Indische Staatsbürger: **35 ₹ pro Person**\n- Kinder unter 15: frei\n- Kombiticket (Rotes Fort + Archäologisches Museum innen): 650 ₹ Ausländer / 40 ₹ Inder\n\nTickets am Schalter des Delhi-Tors oder online über die ASI-Website (asi.nic.in). In der Hochsaison (Oktober bis März) ist die Online-Buchung dringend zu empfehlen, um Schlangen zu vermeiden.\n\n### Öffnungszeiten\n- **Dienstag bis Sonntag**: 9:30 bis 16:30 Uhr\n- **Montag**: geschlossen\n- **Ton- und Lichtshow**: siehe oben (separates Ticket)\n\n### Anreise\n\n**Mit der Metro (empfohlen)**: **Violet Line** bis **Lal Quila**, 2 Gehminuten von Ausgang 1. Alternativ Yellow Line bis **Chandni Chowk** und 10 Minuten nach Osten laufen.\n\n**Mit Uber/Ola**: „Red Fort Delhi“ oder „Lal Qila“ eingeben. Absetzen am Eingang des Delhi-Tors.\n\n**Mit der Autorikscha**: ab Metrostation Chandni Chowk 30 bis 50 ₹ aushandeln.\n\n### Was mitnehmen\n- Gültigen Lichtbildausweis (für den Ticketkauf erforderlich)\n- Bequeme Schuhe, die Anlage umfasst 103 Hektar\n- Wasserflasche, drinnen werden keine Speisen oder Getränke verkauft\n- NICHT mitnehmen: Stative, Selfie-Sticks, große Taschen, Essen, Powerbanks (vom ASI-Sicherheitsdienst verboten)\n\n### Beste Besuchszeit\nKommen Sie **um 9:30 Uhr zur Öffnung**, um vor den Reisegruppen zu erkunden. Meiden Sie Sonntage und Feiertage, der Andrang ist extrem. **Dienstag- und Mittwochmorgen** sind am ruhigsten. Am fotogensten ist das Fort in der **goldenen Stunde** direkt nach Öffnung, wenn der rote Sandstein im Morgenlicht leuchtet.\n\n### Kombination mit Alt-Delhi\nDas Rote Fort passt perfekt zur **Jama Masjid** (10 Gehminuten westlich) und zur Marktstraße **Chandni Chowk**. Halbtagesprogramm: Rotes Fort (2 Stunden), Bummel durch Chandni Chowk, Jama Masjid, Mittagessen bei Karim's. Siehe unseren [Delhi Reiseführer](/india/delhi/delhi-travel-guide-2026) für das komplette Alt-Delhi-Programm."
+   },
+   {
+    "title": "Erkunden Sie das Rote Fort mit einem lokalen Historiker",
+    "content": "Das Rote Fort birgt 200 Jahre Mogul-Geschichte, doch ohne Kontext sehen die meisten Besucher nur schöne Architektur. Unsere lizenzierten Historiker-Guides entschlüsseln die politischen Intrigen, die gestürzten Kaiser, den verschwundenen Pfauenthron und den Moment, in dem Indien an genau diesen Toren seine Unabhängigkeit zurückgewann. Private und Gruppentouren verfügbar."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Wie sind die Öffnungszeiten des Roten Forts 2026?",
+    "a": "Das Rote Fort ist **Dienstag bis Sonntag von 9:30 bis 16:30 Uhr** geöffnet und jeden Montag geschlossen. Die Ton- und Lichtshow läuft abends nach Schließung: englische Show um 20:30 Uhr, Hindi-Show um 21:30 Uhr (im Winter eine Stunde früher)."
+   },
+   {
+    "q": "Was kostet das Ticket für das Rote Fort 2026?",
+    "a": "Der Eintritt für **ausländische Touristen beträgt 600 ₹ pro Person**, indische Staatsbürger zahlen 35 ₹. Kinder unter 15 sind frei. Das Kombiticket mit Archäologischem Museum kostet 650 ₹ (Ausländer) / 40 ₹ (Inder). Tickets für die Ton- und Lichtshow sind separat, etwa 250 ₹ (Ausländer) / 80 ₹ (Inder)."
+   },
+   {
+    "q": "Ist das Rote Fort UNESCO-Welterbe?",
+    "a": "Ja. Das Rote Fort wurde **2007 in die UNESCO-Welterbeliste** aufgenommen, gewürdigt für seine herausragende Mogul-Architektur und seine außergewöhnliche historische Bedeutung als Sitz des Mogulreichs und Geburtsstätte des modernen unabhängigen Indien."
+   },
+   {
+    "q": "Wie lange dauert der Besuch des Roten Forts?",
+    "a": "Ein gründlicher Besuch dauert **2 bis 3 Stunden**. In Eile decken 90 Minuten die wichtigsten Bauten ab. Mit einem Guide, der die Geschichte jedes Palasts und des Mogulhofs erklärt, planen Sie bequem 3 Stunden."
+   },
+   {
+    "q": "Ist das Rote Fort freitags geöffnet?",
+    "a": "Ja, das Rote Fort ist **freitags geöffnet**. Anders als das Taj Mahal (jeden Freitag geschlossen) schließt das Rote Fort nur **montags**. An allen anderen Tagen ist es geöffnet, auch an indischen Feiertagen."
+   },
+   {
+    "q": "Welche Metrostation liegt dem Roten Fort am nächsten?",
+    "a": "Die Station **Lal Quila** auf der **Violet Line (Linie 7)**, 2 Gehminuten vom Ausgang zum Eingang am Delhi-Tor. Alternativ **Chandni Chowk** auf der Yellow Line, 10 Gehminuten entfernt."
+   },
+   {
+    "q": "Darf ich eine Kamera ins Rote Fort mitnehmen?",
+    "a": "Ja, private Kameras und Handys sind zum Fotografieren ohne Aufpreis erlaubt. **Stative, Selfie-Sticks und professionelle Videoausrüstung** brauchen jedoch eine vorherige schriftliche Genehmigung des ASI. Drohnen sind strikt verboten."
+   },
+   {
+    "q": "Was gibt es im Roten Fort zu sehen?",
+    "a": "Drinnen finden Sie den **Diwan-i-Aam** (öffentliche Audienzhalle), den **Diwan-i-Khas** (private Audienzhalle, einst Standort des Pfauenthrons), den **Rang Mahal** (Palast der Farben), die **Moti Masjid** (Perlenmoschee), den **Hammam** (königliche Bäder), den Kanal **Nahr-i-Bihisht** und ein Archäologisches Museum."
+   },
+   {
+    "q": "Was ist die Ton- und Lichtshow am Roten Fort?",
+    "a": "Ein 60-minütiges Abenderlebnis im Hof des Diwan-i-Aam, das die gesamte Geschichte des Mogulreichs mit dramatischem Licht und Erzählung (auf Hindi und Englisch) darstellt. Eine der besten Shows dieser Art in Indien, für Erstbesucher sehr empfehlenswert."
+   },
+   {
+    "q": "Ist das Rote Fort dasselbe wie das Fort von Agra?",
+    "a": "Nein, es sind zwei verschiedene Forts. Das **Rote Fort in Delhi** baute Shah Jahan als neuen Kaiserpalast (1638–1648). Das **[Rote Fort von Agra](/india/agra/agra-fort)** wurde früher von Kaiser Akbar (1565) gebaut und war vor Delhi Sitz des Mogulreichs. Beide sind UNESCO-Welterbe. Shah Jahan wurde in seinen letzten Jahren von seinem Sohn Aurangzeb im Fort von Agra gefangen gehalten."
+   },
+   {
+    "q": "Wie hängt das Rote Fort mit dem Taj Mahal zusammen?",
+    "a": "Beide, das Rote Fort in Delhi und das [Taj Mahal](/india/agra/taj-mahal) in Agra, wurden vom selben Kaiser, **Shah Jahan**, in derselben Zeit (1630er bis 1650er) gebaut. Sie sind die architektonischen Zwillingsleistungen seiner Herrschaft: das Taj Mahal als Monument der Liebe und Trauer, das Rote Fort als Monument kaiserlicher Macht. Beide zu sehen ist unerlässlich, um die ganze Mogul-Zivilisation zu verstehen."
+   },
+   {
+    "q": "Was sollte ich nicht ins Rote Fort mitnehmen?",
+    "a": "Vom ASI-Sicherheitsdienst **strikt verboten**: Stative, Selfie-Sticks, große Rucksäcke, Speisen und Getränke (Wasserflaschen erlaubt), Powerbanks, Tabakwaren, Feuerzeuge und alles, was als Waffe dienen könnte. Die Kontrollen sind gründlich."
+   },
+   {
+    "q": "Gibt es eine Kleiderordnung im Roten Fort?",
+    "a": "Für den Palastkomplex gibt es keine formelle Kleiderordnung. Für Moscheen in der Anlage (wie die Moti Masjid) sollten Schultern und Knie bedeckt sein. Bequeme Schuhe sind angesichts der Größe unerlässlich."
+   },
+   {
+    "q": "Wann ist die beste Zeit für das Rote Fort?",
+    "a": "Am besten **um 9:30 Uhr an einem Dienstag oder Mittwoch**, wenn das Fort öffnet und am wenigsten los ist. Oktober bis März ist die ideale Saison mit angenehmen Temperaturen und klarem Himmel. Meiden Sie Sonntage, Feiertage und die Mittagshitze von April bis Juni."
+   },
+   {
+    "q": "Kann ich Rotes Fort und Qutub Minar an einem Tag besuchen?",
+    "a": "Ja, mit frühem Start. Rotes Fort von 9:30 bis 12 Uhr, dann Taxi zum [Qutub Minar](/india/delhi/qutub-minar) in Süd-Delhi (etwa 45 Minuten mit Uber), unterwegs das [Humayun-Mausoleum](/india/delhi/humayuns-tomb). Siehe unser [Ein-Tages-Programm für Delhi](/india/delhi/delhi-1-day-itinerary) für die optimierte Route."
+   }
+  ]
+ },
+ "qutub-minar": {
+  "title": "Qutub Minar Delhi: komplette Geschichte und Besucherguide 2026",
+  "description": "Qutub Minar 2026: höchstes Ziegelminarett der Welt (72,5 m), UNESCO-Stätte, Eintrittspreise, Eiserne Säule, Geschichte und Besuchstipps.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Eintritt Ausländer",
+    "value": "600 ₹ pro Person"
+   },
+   {
+    "icon": "Clock",
+    "label": "Öffnungszeiten",
+    "value": "Täglich, Sonnenaufgang bis Sonnenuntergang"
+   },
+   {
+    "icon": "Map",
+    "label": "Nächste Metro",
+    "value": "Qutub Minar (Yellow Line)"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Welterbe (1993)"
+   },
+   {
+    "icon": "History",
+    "label": "Erbaut von",
+    "value": "Qutb-ud-din Aibak, 1193"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Höhe",
+    "value": "72,5 Meter, höchstes Ziegelminarett der Welt"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Qutub Minar: wo sich Indiens Geschichte für immer änderte",
+    "content": "Der **Qutub Minar** ist nicht nur Delhis höchstes Bauwerk, sondern das Monument, das den Moment markiert, in dem Indiens Geschichte dauerhaft die Richtung wechselte. Als **Qutb-ud-din Aibak** **1193** mit dem Bau dieses Turms begann, errichtete er nicht bloß ein Minarett. Er verkündete das Kommen einer neuen Zivilisation: das **Sultanat von Delhi**, das erste islamische Sultanat Indiens, das die Grundlage für fünf Jahrhunderte muslimischer Herrschaft bis zum Mogulreich legte.\n\nMit **72,5 Metern** ist der Qutub Minar das **höchste Ziegelminarett der Welt**, ein Rekord, den er seit über 800 Jahren hält. Höher als das Minarett der Großen Moschee von Córdoba, höher als das Minarett von Jam in Afghanistan und höher als jeder Ziegelturm, der je in der islamischen Welt gebaut wurde. Fünf unterschiedlich verzierte Geschosse aus kanneliertem rotem Sandstein steigen in perfekter Verjüngung auf, gekrönt von einer Plattform, von der der Muezzin einst zum Gebet rief.\n\nDie Anlage um das Minarett birgt die Ruinen der **ersten Moschee, die je in Indien gebaut wurde** nach der islamischen Eroberung, ein Monument von außerordentlicher historischer Bedeutung, sowie die **Eiserne Säule von Delhi**, ein metallurgisches Wunder des 4. Jahrhunderts, so rein, dass es in 1.600 Jahren unter freiem Himmel nicht gerostet ist.\n\nSeit **1993 UNESCO-Welterbe**, ist der Qutub-Komplex eine der drei UNESCO-Stätten Delhis und gilt als eines der schönsten Beispiele früher indo-islamischer Architektur."
+   },
+   {
+    "title": "Geschichte: die Geburt des Sultanats von Delhi",
+    "content": "### Qutb-ud-din Aibak und die erste Gründung (1193)\n\n**Qutb-ud-din Aibak** war ein ehemaliger Sklave, der zum Heerführer Muhammads von Ghor aufstieg, des afghanischen Herrschers, der 1192 in der zweiten Schlacht von Tarain den Rajputenkönig Prithviraj Chauhan besiegte, eine Schlacht, die die Gangesebene der islamischen Eroberung öffnete. Nach Ghors Ermordung 1206 erklärte sich Aibak zum Sultan von Delhi und gründete die **Sklavendynastie**, die erste von fünf Dynastien des Sultanats von Delhi.\n\nDer Bau des Qutub Minar begann **1193** unter Aibak, doch er starb 1210 und hatte nur das erste Geschoss vollendet. Das zweite und dritte fügte sein Nachfolger und Schwiegersohn **Iltutmish** (1211–1236) hinzu, der sich auch ein prächtiges Grab in der Anlage baute. Das vierte und fünfte Geschoss kamen nach dem Blitzschlag von 1368 unter **Firuz Shah Tughluq** hinzu, der die beschädigten Teile neu baute und eine Kuppel aufsetzte.\n\n### Die Restaurierung durch Firuz Shah (1368)\n\n1368 traf ein Blitz den Qutub Minar und zerstörte den oberen Teil. Sultan **Firuz Shah Tughluq** ließ ihn vollständig restaurieren und ergänzte zwei neue Geschosse in anderem Stil, aus cremefarbenem Marmor statt rotem Sandstein. Dieser Materialwechsel ist heute sichtbar und gibt dem Minarett seinen charakteristischen Farbverlauf von rotem Sandstein unten zu cremefarbenem Marmor oben.\n\n### Die britische Zeit\n\n1803 beschädigte ein schweres Erdbeben die Spitze. Der britische Major Robert Smith reparierte sie 1829 und setzte eine neue Kuppel auf, die so unpassend war, dass sie später entfernt und in den Gärten aufgestellt wurde, wo sie bis heute als „Smith's Folly“ steht. Nach einer tragischen Massenpanik im engen Treppenhaus 1981 mit 47 Toten wurde das Minarett für die Öffentlichkeit gesperrt."
+   },
+   {
+    "title": "Architektur: ein Meisterwerk aus kanneliertem Stein",
+    "content": "Die architektonische Leistung des Qutub Minar liegt in seinem scheinbar einfachen, aber außerordentlich präzisen Entwurf. Der Turm hat **fünf Geschosse**, jeweils durch einen Balkon auf Muqarnas (Konsolen) getrennt. Der Durchmesser beträgt an der Basis **14,3 Meter** und verjüngt sich auf nur **2,75 Meter** an der Spitze, eine mathematische Verjüngung, die die Illusion noch größerer Höhe als die tatsächlichen 72,5 Meter erzeugt.\n\n### Die Oberflächen\n\nDie unteren drei Geschosse bestehen aus **rotem Quarzit** (oft roter Sandstein genannt), die beiden oberen von Firuz Shah Tughluq aus **Marmor und Sandstein**. Jedes Geschoss ist mit abwechselnd **eckigen** und **runden Kanneluren** überzogen, senkrechten Rillen, die den ganzen Tag über ein dramatisches Spiel von Licht und Schatten erzeugen.\n\nAlle Flächen der ersten drei Geschosse tragen direkt in den Stein gemeißelte **arabische Inschriften**: Koranverse, Lobpreisungen der Sultane, die jedes Geschoss stifteten, und Bauchroniken, unter den frühesten erhaltenen Beispielen arabischer Kalligrafie in Indien.\n\n### Die Quwwat-ul-Islam-Moschee\n\nAm Fuß des Qutub Minar steht die **Quwwat-ul-Islam-Moschee**, „Macht des Islam“. 1193 von Aibak erbaut, ist sie die **erste Moschee, die je in Indien nach der islamischen Eroberung gebaut wurde**. Ihr Bau war umstritten: Sie entstand aus Pfeilern, Stürzen und Steinen, die von 27 Hindu- und Jain-Tempeln stammten, die auf dem Gelände gestanden hatten.\n\nDas Ergebnis ist ein architektonischer Hybrid von außergewöhnlicher Wirkung: islamische Bögen und geometrischer Schmuck rahmen hinduistische Pfeiler mit ihren deutlich indischen Schnitzereien. Der Kontrast ist an jeder Säule sichtbar, jeder Schaft klar aus einem anderen abgerissenen Tempel, im Dienst eines neuen Glaubens wiederverwendet.\n\n### Die Eiserne Säule von Delhi\n\nIm Zentrum des Moscheehofs steht eines der großen metallurgischen Rätsel der Antike: die **Eiserne Säule von Delhi**. Auf etwa **375 bis 415** datiert, in der Gupta-Zeit, steht diese 7,21 Meter hohe Eisensäule seit über **1.600 Jahren unter freiem Himmel, ohne zu rosten**.\n\nSie wurde vermutlich durch Feuerschweißen kleiner Eisenstücke bei großer Hitze gefertigt, eine Technik, die chemisch reines Eisen mit einer natürlichen phosphorhaltigen Schutzschicht erzeugte, die Oxidation verhindert. Moderne Metallurgen bestätigen, dass die Zusammensetzung in der antiken Welt ohne Beispiel ist. Die Sanskrit-Inschrift nennt sie einen Fahnenmast zu Ehren des Hindugottes Vishnu. Wie und wann sie in den Qutub-Komplex kam, ist bis heute umstritten."
+   },
+   {
+    "title": "Kompletter Besucherguide 2026",
+    "content": "### Eintrittspreise\n- **Ausländische Touristen**: 600 ₹ pro Person\n- **Indische Staatsbürger**: 40 ₹ pro Person\n- **Kinder unter 15**: frei\n- ASI-Audioguide am Eingang: 100 ₹ (Hindi) / 150 ₹ (Englisch). Sehr empfehlenswert.\n\n### Öffnungszeiten\nDie Anlage ist **täglich von Sonnenaufgang bis Sonnenuntergang** geöffnet, meist 7 bis 17 Uhr (im Sommer bis 18 Uhr). Anders als das Rote Fort ist sie **an jedem Wochentag geöffnet, auch montags**.\n\n### Anreise\n\n**Mit der Metro (beste Option)**: **Yellow Line** bis Station **Qutub Minar** (nach dem Monument benannt). Vom Ausgang 10 Gehminuten oder eine kurze Autorikschafahrt für 20 bis 30 ₹.\n\n**Mit Uber/Ola**: „Qutub Minar Complex“ oder „Mehrauli“ eingeben. Absetzen am Haupteingang.\n\n**Aus dem Zentrum Delhis**: etwa 45 Minuten mit der Metro ab Connaught Place (bei Bedarf Umstieg in Central Secretariat).\n\n### Kann ich den Qutub Minar besteigen?\nNein. Seit der Massenpanik von 1981, bei der 47 Besucher im engen Treppenhaus starben, ist der Turm **für Besteigungen gesperrt**. Sie können ihn von außen betrachten und die gesamte umliegende Anlage erkunden.\n\n### Beste Besuchszeit\n**Früher Morgen (7 bis 9 Uhr)** bietet das beste Fotolicht und die wenigsten Menschen. Das Minarett ist etwa nach Osten ausgerichtet, sodass das Morgenlicht die gemeißelten Inschriften wunderbar beleuchtet. Meiden Sie die Mittagszeit am Wochenende, dann ist die Anlage sehr voll.\n\n### Kombination mit anderen Orten in Delhi\nDer Qutub Minar passt natürlich zum nahen **Archäologischen Park Mehrauli**, einem 70 Hektar großen Park mit Ruinen mehrerer mittelalterlicher Dynastien, fast ohne Touristen. Vom Qutub Minar erreichen Sie auch das [Humayun-Mausoleum](/india/delhi/humayuns-tomb) (25 Minuten mit Uber) und das [India Gate](/india/delhi/india-gate) (35 Minuten). Siehe das [Ein-Tages-Programm für Delhi](/india/delhi/delhi-1-day-itinerary) für die optimale Route."
+   },
+   {
+    "title": "Entdecken Sie den Qutub Minar mit einem zertifizierten Guide",
+    "content": "Die Qutub-Anlage birgt 800 Jahre geschichteter Geschichte, von der Zerstörung der Hindutempel bis zur Geburt der islamischen Architektur in Indien. Unsere zertifizierten Historiker-Guides entschlüsseln jede Inschrift, erklären das Rätsel der Eisernen Säule und lassen das Sultanat von Delhi lebendig werden. Private und Gruppentouren durch Delhi verfügbar."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Wie hoch ist der Qutub Minar?",
+    "a": "Der Qutub Minar ist **72,5 Meter** hoch und damit das **höchste Ziegelminarett der Welt**, ein seit über 800 Jahren gehaltener Rekord. Er hat fünf Geschosse und einen Basisdurchmesser von 14,3 Metern, der sich oben auf 2,75 Meter verjüngt."
+   },
+   {
+    "q": "Wer baute den Qutub Minar und wann?",
+    "a": "Der Bau begann **1193** unter **Qutb-ud-din Aibak**, dem Gründer des Sultanats von Delhi. Er vollendete vor seinem Tod 1210 nur das erste Geschoss. Das zweite und dritte fügte **Iltutmish** (1211–1236) hinzu, das vierte und fünfte baute **Firuz Shah Tughluq** nach dem Blitzschaden von 1368 neu."
+   },
+   {
+    "q": "Was kostet der Eintritt zum Qutub Minar 2026?",
+    "a": "**600 ₹ für ausländische Touristen** und **40 ₹ für indische Staatsbürger**. Kinder unter 15 sind frei. Ein ASI-Audioguide kostet separat 100 bis 150 ₹."
+   },
+   {
+    "q": "Ist der Qutub Minar UNESCO-Welterbe?",
+    "a": "Ja. Die Qutub-Anlage wurde **1993 in die UNESCO-Welterbeliste** aufgenommen, eine der drei UNESCO-Stätten Delhis neben dem Roten Fort (2007) und dem Humayun-Mausoleum (1993)."
+   },
+   {
+    "q": "Kann ich in den Qutub Minar hinein?",
+    "a": "Nein. Das Treppenhaus im Inneren ist **seit 1981 für die Öffentlichkeit gesperrt**, nach einer tragischen Massenpanik mit 47 Toten. Das Minarett ist von außen zu sehen, und die gesamte Anlage mit Moschee, Eiserner Säule und Gräbern bleibt zugänglich."
+   },
+   {
+    "q": "Was ist die Eiserne Säule am Qutub Minar?",
+    "a": "Die **Eiserne Säule von Delhi** ist eine 7,21 Meter hohe Eisensäule aus etwa 375 bis 415 (Gupta-Zeit), die seit über **1.600 Jahren unter freiem Himmel steht, ohne zu rosten**. Eines der großen metallurgischen Rätsel der Antike, erklärt durch ungewöhnlich reines Eisen und eine natürliche phosphorhaltige Schutzschicht."
+   },
+   {
+    "q": "Welche Metrostation liegt dem Qutub Minar am nächsten?",
+    "a": "Die Station **Qutub Minar** auf der **Yellow Line**, etwa 10 Gehminuten vom Haupteingang oder 5 Minuten mit der Autorikscha für 20 bis 30 ₹."
+   },
+   {
+    "q": "Wie lange dauert der Besuch des Qutub Minar?",
+    "a": "Ein gründlicher Besuch der gesamten Anlage dauert **90 Minuten bis 2 Stunden**. Mit Audioguide oder lizenziertem Guide planen Sie 2,5 Stunden für Minarett, Moscheeruinen, Eiserne Säule und umliegende Gräber."
+   },
+   {
+    "q": "Ist der Qutub Minar montags geöffnet?",
+    "a": "Ja. Anders als das Rote Fort, das montags schließt, ist der **Qutub Minar an jedem Wochentag geöffnet**, auch montags und an Feiertagen, von Sonnenaufgang bis Sonnenuntergang."
+   },
+   {
+    "q": "Was ist die Quwwat-ul-Islam-Moschee?",
+    "a": "Die **Quwwat-ul-Islam-Moschee** („Macht des Islam“) am Fuß des Qutub Minar ist die **erste nach der islamischen Eroberung in Indien gebaute Moschee**, 1193 von Aibak errichtet, umstritten aus Pfeilern und Materialien von 27 abgerissenen Hindu- und Jain-Tempeln, was einen auffälligen Hybrid islamischer und hinduistischer Elemente ergibt."
+   },
+   {
+    "q": "Wann ist die beste Zeit für den Qutub Minar?",
+    "a": "**Oktober bis März** ist die ideale Saison: kühle Temperaturen, klarer Himmel und beste Sicht. **Frühmorgens (7 bis 9 Uhr)** bietet unabhängig von der Jahreszeit das beste Fotolicht und die wenigsten Menschen. Meiden Sie Mai und Juni mit über 45 °C."
+   },
+   {
+    "q": "Gehört der Qutub Minar zum Delhi Reiseführer?",
+    "a": "Ja, der Qutub Minar ist eine der drei UNESCO-Stätten Delhis und ein Schlüsselstopp jedes Programms. Siehe unseren [Delhi Reiseführer 2026](/india/delhi/delhi-travel-guide-2026) und das [Ein-Tages-Programm](/india/delhi/delhi-1-day-itinerary), um ihn mit Rotem Fort, Humayun-Mausoleum und India Gate an einem Tag zu verbinden."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {

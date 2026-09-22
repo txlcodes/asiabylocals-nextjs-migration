@@ -3876,6 +3876,242 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Ce sont des expériences différentes. Le fort d'Agra est une place forte militaire ; Fatehpur Sikri est une ville impériale planifiée et entièrement conservée. Les deux sont essentiels."
    }
   ]
+ },
+ "red-fort": {
+  "title": "Fort Rouge de Delhi : le guide complet du visiteur 2026",
+  "description": "Fort Rouge de Delhi 2026 : site UNESCO, tarifs d'entrée, horaires, spectacle son et lumière, histoire et que voir à l'intérieur.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrée étrangers",
+    "value": "600 ₹ par personne"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "Mar. à dim., 9h30 à 16h30"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Fermé",
+    "value": "Tous les lundis"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimoine mondial (2007)"
+   },
+   {
+    "icon": "Map",
+    "label": "Métro le plus proche",
+    "value": "Lal Quila (ligne Violette)"
+   },
+   {
+    "icon": "History",
+    "label": "Construit par",
+    "value": "L'empereur Shah Jahan, 1638–1648"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Le fort Rouge : le trône de l'Empire moghol",
+    "content": "Le **fort Rouge**, **Lal Qila** en hindi, n'est pas un simple monument. C'est le symbole le plus puissant de la souveraineté moghole jamais bâti en Inde. Pendant près de 200 ans, de 1648 à 1857, il fut le siège principal des empereurs moghols, le centre de commandement vivant d'un empire qui, à son apogée, contrôlait plus de 25 % du PIB mondial.\n\nConstruit entre 1638 et 1648 par l'empereur moghol **Shah Jahan**, le visionnaire qui a donné au monde le [Taj Mahal](/india/agra/taj-mahal) d'Agra, le fort Rouge fut conçu comme la pièce maîtresse de sa nouvelle capitale, Shahjahanabad. Shah Jahan déplaça délibérément sa capitale d'Agra à Delhi, et le fort Rouge devait être le joyau de cette nouvelle ville : plus grand, plus somptueux et plus magnifique que tout ce qui l'avait précédé.\n\nAujourd'hui inscrit au **patrimoine mondial de l'UNESCO** (2007), le fort Rouge accueille la cérémonie nationale la plus importante de l'Inde : chaque **15 août, jour de l'Indépendance**, le Premier ministre y hisse le drapeau national depuis la porte de Lahore et s'adresse à la nation, une tradition ininterrompue depuis la première fête de l'Indépendance en 1947.\n\nPour tout visiteur de Delhi, le fort Rouge est incontournable. C'est le monument qui définit l'identité moghole de la ville, relie au récit plus large du [Taj Mahal](/india/agra/taj-mahal) et du [fort d'Agra](/india/agra/agra-fort), et compte parmi les plus grandes réalisations de l'architecture du XVIIe siècle au monde."
+   },
+   {
+    "title": "Histoire : de Shah Jahan à l'indépendance de l'Inde",
+    "content": "### Les fondations mogholes (1638–1707)\n\nShah Jahan posa la première pierre du fort Rouge le **13 mai 1638**, date choisie par les astrologues royaux. La construction dura dix ans et mobilisa 5 000 artisans venus de tout l'empire. Le fort fut achevé et inauguré en **1648**.\n\nSon nom vient de son matériau : d'immenses murs de **grès rouge d'Agra**, extrait des mêmes carrières rajasthanies qui ont fourni le fort d'Agra. Les murs s'étendent sur **2,41 kilomètres**, atteignent **33 mètres** côté fleuve et sont assez épais pour résister à l'artillerie.\n\nSous Shah Jahan, le fort abrita le légendaire **trône du Paon**, un trône serti de joyaux si magnifique qu'il était estimé à plus que le coût du Taj Mahal : 108 grands rubis, 116 émeraudes et le célèbre diamant **Koh-i-Noor** (aujourd'hui parmi les joyaux de la Couronne britannique). En 1739, le conquérant perse Nadir Shah envahit Delhi, pilla la ville et emporta le trône en Perse, où il resta.\n\n### Déclin et révolte de 1857\n\nAprès la mort d'Aurangzeb en 1707, l'empire entra dans un long déclin. Le fort changea plusieurs fois de mains : Marathes, Jats, puis la Compagnie britannique des Indes orientales en 1803. Sous le dernier empereur moghol, **Bahadur Shah Zafar II**, il n'était plus qu'une coquille cérémonielle.\n\nLa **révolte de 1857**, première guerre d'indépendance de l'Inde, sonna la fin. Après la répression britannique, Bahadur Shah Zafar fut jugé dans le Diwan-i-Khas du fort, reconnu coupable de trahison et exilé à Rangoon (aujourd'hui Yangon) en Birmanie, où il mourut en 1862. Les Britanniques transformèrent une grande partie du fort en caserne et démolirent plusieurs bâtiments moghols d'origine.\n\n### Indépendance et époque moderne\n\nÀ l'indépendance, le **15 août 1947**, le Premier ministre Jawaharlal Nehru choisit la porte de Lahore pour hisser le premier drapeau national indien, tradition maintenue par tous ses successeurs. Le fort fut confié à l'Archaeological Survey of India en 2003 et classé à l'UNESCO en 2007."
+   },
+   {
+    "title": "Architecture : à l'intérieur du fort Rouge",
+    "content": "L'intérieur du fort Rouge est un monde en soi : une cité palatiale planifiée de pavillons de marbre, de jardins, de fontaines et d'appartements royaux disposés le long d'un canal central, le **Nahr-i-Bihisht** (ruisseau du Paradis).\n\n### Les portes\n\n**Porte de Lahore** : l'entrée principale à l'ouest et la porte cérémonielle de l'empire, nommée d'après la route vers Lahore (aujourd'hui au Pakistan). C'est ici que le Premier ministre s'adresse à la nation chaque jour de l'Indépendance. Elle est précédée d'une barbacane ajoutée par Aurangzeb, que Shah Jahan aurait détestée car elle « voilait la mariée ».\n\n**Porte de Delhi** : la porte sud, utilisée à l'origine par l'empereur pour les processions à dos d'éléphant. C'est aujourd'hui l'entrée principale des visiteurs.\n\n### Les palais\n\n**Diwan-i-Aam** (salle des audiences publiques) : la première grande structure du fort. Shah Jahan y siégeait sur son trône serti sous un dais de marbre pour recevoir les requêtes de ses sujets. L'alcôve du trône, le **Jharokha**, est ornée d'une exquise pietra dura d'oiseaux, de fleurs et de balances de la justice.\n\n**Diwan-i-Khas** (salle des audiences privées) : la salle la plus célèbre du fort et sans doute de toute l'Inde moghole. Elle abritait le trône du Paon et porte le fameux distique persan : *« S'il est un paradis sur terre, il est ici, il est ici, il est ici. »* Entièrement en marbre blanc, avec toit plat et piliers élancés, elle rompt avec le style moghol à dômes.\n\n**Rang Mahal** (palais des Couleurs) : la résidence des épouses principales et des favorites de l'empereur, ainsi nommé pour ses intérieurs peints et dorés, aujourd'hui fanés mais encore visibles. Une fontaine de marbre en forme de lotus au centre était alimentée par le canal Nahr-i-Bihisht qui traverse le sol.\n\n**Moti Masjid** (mosquée de la Perle) : petite mosquée de marbre blanc aux proportions parfaites, bâtie par Aurangzeb pour son usage personnel. Ses trois dômes d'un blanc pur lui ont donné son nom. L'une des plus belles petites mosquées de l'Inde.\n\n**Hammam** (bains royaux) : trois salles de marbre communicantes utilisées par l'empereur, eau froide, eau chaude et vapeur parfumée, aux sols incrustés de pierres semi-précieuses à motifs floraux."
+   },
+   {
+    "title": "Le classement UNESCO",
+    "content": "Le fort Rouge a été inscrit au **patrimoine mondial de l'UNESCO en 2007** selon les critères (ii) et (iii), pour un échange remarquable de valeurs humaines et un témoignage exceptionnel d'une tradition culturelle.\n\nLa citation de l'UNESCO reconnaît le fort comme le sommet de la création moghole : un ensemble qui a synthétisé les traditions persane, timouride et hindoue en un chef-d'œuvre unifié, prédécesseur architectural direct des monuments moghols ultérieurs du sous-continent.\n\nL'inscription souligne aussi sa portée historique extraordinaire : siège de l'Empire moghol à son zénith, témoin de son déclin et lieu de naissance symbolique de l'Inde indépendante moderne.\n\nL'**Archaeological Survey of India (ASI)** supervise la conservation, avec des travaux continus pour restaurer les incrustations de marbre endommagées, stabiliser les murs de grès et documenter les décors peints d'origine des palais. Un important programme de restauration soutenu par l'UNESCO s'est achevé en 2019."
+   },
+   {
+    "title": "Spectacle son et lumière : une soirée incontournable",
+    "content": "L'une des meilleures expériences du fort Rouge est le **spectacle son et lumière** donné chaque soir dans la cour du Diwan-i-Aam. Pendant 60 minutes, il raconte toute l'histoire de l'Empire moghol et du fort avec des éclairages spectaculaires, de la musique et une narration bilingue (hindi et anglais).\n\nLe spectacle commence après le coucher du soleil et utilise l'architecture du fort comme décor : la porte de Lahore, le Diwan-i-Aam et le Rang Mahal s'illuminent au fil des chapitres. La narration couvre la construction par Shah Jahan, l'apogée de l'empire sous Aurangzeb, le trône du Paon, l'invasion de Nadir Shah, la révolte de 1857 et l'indépendance.\n\n**Horaires 2026 :**\n- **Spectacle en anglais :** 20h30 (novembre à janvier : 19h30)\n- **Spectacle en hindi :** 21h30 (novembre à janvier : 20h30)\n\n**Billets :** environ 80 ₹ (Indiens) / 250 ₹ (étrangers). Achat au guichet du fort ou en ligne sur le site de l'ASI. Arrivez 20 minutes en avance pour vous placer.\n\nLe spectacle est **fermé le lundi** (jour de fermeture du fort). Vivement recommandé pour une première visite : il donne le contexte historique qui rend la visite de jour bien plus parlante."
+   },
+   {
+    "title": "Guide complet de visite 2026",
+    "content": "### Billets et tarifs\n\n**Entrée de jour :**\n- Touristes étrangers : **600 ₹ par personne**\n- Citoyens indiens : **35 ₹ par personne**\n- Enfants de moins de 15 ans : gratuit\n- Billet combiné (fort Rouge + musée archéologique) : 650 ₹ étrangers / 40 ₹ Indiens\n\nBillets au guichet de la porte de Delhi ou en ligne sur le site de l'ASI (asi.nic.in). La réservation en ligne est vivement conseillée en haute saison (octobre à mars) pour éviter les files.\n\n### Horaires\n- **Mardi à dimanche :** 9h30 à 16h30\n- **Lundi :** fermé\n- **Son et lumière :** voir ci-dessus (billet séparé)\n\n### Comment s'y rendre\n\n**En métro (recommandé) :** ligne **Violette** jusqu'à **Lal Quila**, à 2 minutes à pied de la sortie 1. Ou ligne Jaune jusqu'à **Chandni Chowk** et 10 minutes de marche vers l'est.\n\n**En Uber ou Ola :** cherchez « Red Fort Delhi » ou « Lal Qila ». Dépose à l'entrée de la porte de Delhi.\n\n**En auto-rickshaw :** depuis la station Chandni Chowk, négociez 30 à 50 ₹.\n\n### À emporter\n- Pièce d'identité avec photo (exigée pour l'achat des billets)\n- Chaussures confortables : l'enceinte couvre 103 hectares\n- Bouteille d'eau : aucune nourriture ni boisson n'est vendue à l'intérieur\n- À NE PAS apporter : trépieds, perches à selfie, gros sacs, nourriture, batteries externes (interdits par la sécurité de l'ASI)\n\n### Meilleur moment\nArrivez **à 9h30 à l'ouverture** pour explorer avant les groupes. Évitez les dimanches et jours fériés, la foule y est extrême. **Les mardis et mercredis matin** sont les plus calmes. Le fort est le plus photogénique à **l'heure dorée** juste après l'ouverture, quand le grès rouge s'embrase dans la lumière du matin.\n\n### Combiner avec le Vieux Delhi\nLe fort Rouge se marie parfaitement avec la **Jama Masjid** (10 minutes à pied vers l'ouest) et la rue marchande de **Chandni Chowk**. Demi-journée type : fort Rouge (2 heures), balade dans Chandni Chowk, Jama Masjid, déjeuner chez Karim's. Voyez notre [guide de voyage de Delhi](/india/delhi/delhi-travel-guide-2026) pour l'itinéraire complet du Vieux Delhi."
+   },
+   {
+    "title": "Explorez le fort Rouge avec un historien local",
+    "content": "Le fort Rouge renferme 200 ans d'histoire moghole, mais sans contexte, la plupart des visiteurs ne voient qu'une belle architecture. Nos guides historiens licenciés décodent les intrigues politiques, les empereurs déchus, le trône du Paon disparu et le moment où l'Inde a repris son indépendance à ces portes mêmes. Visites privées et en groupe disponibles."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quels sont les horaires du fort Rouge en 2026 ?",
+    "a": "Le fort Rouge est ouvert **du mardi au dimanche, de 9h30 à 16h30**, et fermé tous les lundis. Le spectacle son et lumière a lieu le soir après la fermeture : en anglais à 20h30, en hindi à 21h30 (une heure plus tôt en hiver)."
+   },
+   {
+    "q": "Quel est le prix du billet du fort Rouge en 2026 ?",
+    "a": "L'entrée pour les **touristes étrangers coûte 600 ₹ par personne**, 35 ₹ pour les citoyens indiens. Les enfants de moins de 15 ans entrent gratuitement. Le billet combiné avec le musée archéologique coûte 650 ₹ (étrangers) / 40 ₹ (Indiens). Les billets du spectacle son et lumière sont séparés, environ 250 ₹ (étrangers) / 80 ₹ (Indiens)."
+   },
+   {
+    "q": "Le fort Rouge est-il classé à l'UNESCO ?",
+    "a": "Oui, inscrit au **patrimoine mondial en 2007** pour son architecture moghole exceptionnelle et sa portée historique unique, siège de l'Empire moghol et lieu de naissance de l'Inde indépendante moderne."
+   },
+   {
+    "q": "Combien de temps dure la visite du fort Rouge ?",
+    "a": "Une visite complète prend **2 à 3 heures**. En vitesse, 90 minutes couvrent les structures clés. Avec un guide qui explique l'histoire de chaque palais et de la cour moghole, comptez 3 heures confortables."
+   },
+   {
+    "q": "Le fort Rouge est-il ouvert le vendredi ?",
+    "a": "Oui, le fort Rouge est **ouvert le vendredi**. Contrairement au Taj Mahal (fermé tous les vendredis), le fort Rouge ne ferme que le **lundi**. Il est ouvert tous les autres jours, jours fériés compris."
+   },
+   {
+    "q": "Quelle station de métro est la plus proche du fort Rouge ?",
+    "a": "La station **Lal Quila** sur la **ligne Violette (ligne 7)**, à 2 minutes à pied de l'entrée de la porte de Delhi. Sinon, **Chandni Chowk** sur la ligne Jaune, à 10 minutes à pied."
+   },
+   {
+    "q": "Peut-on apporter un appareil photo au fort Rouge ?",
+    "a": "Oui, appareils photo personnels et téléphones sont autorisés sans supplément. En revanche, **trépieds, perches à selfie et matériel vidéo professionnel** exigent une autorisation écrite préalable de l'ASI. Les drones sont strictement interdits."
+   },
+   {
+    "q": "Que trouve-t-on à l'intérieur du fort Rouge ?",
+    "a": "Le **Diwan-i-Aam** (audiences publiques), le **Diwan-i-Khas** (audiences privées, ancien écrin du trône du Paon), le **Rang Mahal** (palais des Couleurs), la **Moti Masjid** (mosquée de la Perle), le **Hammam** (bains royaux), le canal **Nahr-i-Bihisht** et un musée archéologique."
+   },
+   {
+    "q": "Qu'est-ce que le spectacle son et lumière du fort Rouge ?",
+    "a": "Un spectacle de 60 minutes en soirée dans la cour du Diwan-i-Aam, qui raconte toute l'histoire de l'Empire moghol avec éclairages spectaculaires et narration (en hindi et en anglais). L'un des meilleurs du genre en Inde, vivement recommandé pour une première visite."
+   },
+   {
+    "q": "Le fort Rouge est-il le même que le fort d'Agra ?",
+    "a": "Non, ce sont deux forts distincts. Le **fort Rouge de Delhi** fut bâti par Shah Jahan comme nouveau palais impérial (1638–1648). Le **[fort d'Agra](/india/agra/agra-fort)** fut bâti plus tôt par Akbar (1565) et fut le siège de l'empire avant Delhi. Les deux sont classés à l'UNESCO. Shah Jahan fut emprisonné au fort d'Agra par son fils Aurangzeb dans ses dernières années."
+   },
+   {
+    "q": "Quel lien entre le fort Rouge et le Taj Mahal ?",
+    "a": "Le fort Rouge de Delhi et le [Taj Mahal](/india/agra/taj-mahal) d'Agra furent bâtis par le même empereur, **Shah Jahan**, à la même époque (années 1630 à 1650). Ce sont les deux réalisations architecturales jumelles de son règne : le Taj Mahal, monument à l'amour et au deuil ; le fort Rouge, monument à la puissance impériale. Visiter les deux est essentiel pour saisir toute la civilisation moghole."
+   },
+   {
+    "q": "Que ne pas apporter au fort Rouge ?",
+    "a": "Sont **strictement interdits** par la sécurité de l'ASI : trépieds, perches à selfie, gros sacs à dos, nourriture et boissons (bouteilles d'eau autorisées), batteries externes, tabac, briquets et tout objet pouvant servir d'arme. Les contrôles sont minutieux."
+   },
+   {
+    "q": "Y a-t-il un code vestimentaire au fort Rouge ?",
+    "a": "Pas de code formel pour le complexe palatial. Mais pour toute mosquée de l'enceinte (comme la Moti Masjid), épaules et genoux doivent être couverts. Des chaussures confortables sont indispensables vu l'étendue à parcourir."
+   },
+   {
+    "q": "Quel est le meilleur moment pour visiter le fort Rouge ?",
+    "a": "**À 9h30 un mardi ou un mercredi**, à l'ouverture, quand la foule est la plus faible. Octobre à mars est la saison idéale : températures agréables et ciel dégagé. Évitez les dimanches, jours fériés et la chaleur de midi d'avril à juin."
+   },
+   {
+    "q": "Peut-on visiter le fort Rouge et le Qutub Minar le même jour ?",
+    "a": "Oui, en partant tôt. Fort Rouge de 9h30 à 12h, puis taxi jusqu'au [Qutub Minar](/india/delhi/qutub-minar) dans le sud de Delhi (environ 45 minutes en Uber), avec la [tombe de Humayun](/india/delhi/humayuns-tomb) en route. Voyez notre [itinéraire d'une journée à Delhi](/india/delhi/delhi-1-day-itinerary) pour le parcours optimisé."
+   }
+  ]
+ },
+ "qutub-minar": {
+  "title": "Qutub Minar de Delhi : histoire complète et guide du visiteur 2026",
+  "description": "Qutub Minar 2026 : le plus haut minaret de brique au monde (72,5 m), site UNESCO, tarifs, pilier de fer, histoire et conseils de visite.",
+  "fastFacts": [
+   {
+    "icon": "Ticket",
+    "label": "Entrée étrangers",
+    "value": "600 ₹ par personne"
+   },
+   {
+    "icon": "Clock",
+    "label": "Horaires",
+    "value": "Tous les jours, du lever au coucher du soleil"
+   },
+   {
+    "icon": "Map",
+    "label": "Métro le plus proche",
+    "value": "Qutub Minar (ligne Jaune)"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimoine mondial (1993)"
+   },
+   {
+    "icon": "History",
+    "label": "Construit par",
+    "value": "Qutb-ud-din Aibak, 1193"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Hauteur",
+    "value": "72,5 mètres, le plus haut minaret de brique au monde"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Le Qutub Minar : là où l'histoire de l'Inde a changé pour toujours",
+    "content": "Le **Qutub Minar** n'est pas seulement la plus haute structure de Delhi : c'est le monument qui marque le moment où l'histoire de l'Inde a changé de cap définitivement. Quand **Qutb-ud-din Aibak** commença sa construction en **1193**, il ne bâtissait pas qu'un minaret. Il annonçait l'arrivée d'une nouvelle civilisation : le **sultanat de Delhi**, premier sultanat islamique d'Inde, qui posa les bases de cinq siècles de pouvoir musulman jusqu'à l'Empire moghol.\n\nAvec ses **72,5 mètres**, le Qutub Minar est le **plus haut minaret de brique au monde**, un record qu'il détient depuis plus de 800 ans. Plus haut que le minaret de la grande mosquée de Cordoue, que le minaret de Djam en Afghanistan et que toute tour de brique bâtie dans le monde islamique avant ou après. Cinq étages de grès rouge cannelé, chacun orné différemment, s'élèvent en un fuseau parfait, couronnés d'une plate-forme d'où le muezzin appelait les fidèles à la prière.\n\nLe complexe abrite les ruines de la **première mosquée jamais construite en Inde** après la conquête islamique, d'une portée historique extraordinaire, ainsi que le **pilier de fer de Delhi**, une merveille métallurgique du IVe siècle si pure qu'elle n'a pas rouillé en 1 600 ans à l'air libre.\n\nInscrit à l'**UNESCO en 1993**, le complexe du Qutub Minar est l'un des trois sites UNESCO de Delhi et l'un des plus beaux exemples d'architecture indo-islamique primitive."
+   },
+   {
+    "title": "Histoire : la naissance du sultanat de Delhi",
+    "content": "### Qutb-ud-din Aibak et la première fondation (1193)\n\n**Qutb-ud-din Aibak** était un ancien esclave devenu commandant militaire de Muhammad de Ghor, le souverain afghan qui vainquit le roi rajpoute Prithviraj Chauhan à la seconde bataille de Tarain en 1192, ouvrant la plaine du Gange à la conquête islamique. Après l'assassinat de Ghor en 1206, Aibak se proclama sultan de Delhi et fonda la **dynastie des Esclaves**, première des cinq dynasties du sultanat de Delhi.\n\nLa construction commença en **1193** sous Aibak, mais il mourut en 1210 après n'avoir achevé que le premier étage. Les deuxième et troisième furent ajoutés par son successeur et gendre **Iltutmish** (1211–1236), qui se fit aussi bâtir un magnifique tombeau dans le complexe. Les quatrième et cinquième furent ajoutés après la foudre de 1368, sous **Firuz Shah Tughluq**, qui reconstruisit les parties endommagées et ajouta une coupole.\n\n### La restauration de Firuz Shah (1368)\n\nEn 1368, la foudre frappa le Qutub Minar et détruisit sa partie supérieure. Le sultan **Firuz Shah Tughluq** entreprit une restauration complète et ajouta deux étages dans un style différent, en marbre crème plutôt qu'en grès rouge. Ce changement de matériau est visible aujourd'hui et donne au minaret son dégradé caractéristique, du grès rouge en bas au marbre crème en haut.\n\n### La période britannique\n\nEn 1803, un fort séisme endommagea le sommet. Le major britannique Robert Smith le répara en 1829 et ajouta une nouvelle coupole, si discordante qu'elle fut retirée et placée dans les jardins, où elle subsiste sous le nom de « folie de Smith ». Le minaret fut fermé au public après une tragique bousculade dans l'escalier étroit en 1981, qui fit 47 morts."
+   },
+   {
+    "title": "Architecture : un chef-d'œuvre de pierre cannelée",
+    "content": "La prouesse du Qutub Minar tient à un dessin d'apparence simple mais d'une précision extraordinaire. La tour compte **cinq étages**, séparés par des balcons portés par des muqarnas (encorbellements). Le diamètre à la base est de **14,3 mètres** et se réduit à **2,75 mètres** au sommet, un fuseau mathématique calculé pour donner l'illusion d'une hauteur encore supérieure aux 72,5 mètres réels.\n\n### Le traitement des surfaces\n\nLes trois étages inférieurs sont en **quartzite rouge** (souvent appelé grès rouge), les deux supérieurs ajoutés par Firuz Shah Tughluq en **marbre et grès**. Chaque étage est couvert de **cannelures** alternativement angulaires et arrondies, qui créent un jeu d'ombre et de lumière spectaculaire au fil de la journée.\n\nLes trois premiers étages sont entièrement couverts d'**inscriptions arabes** taillées dans la pierre : versets du Coran, louanges des sultans commanditaires et chroniques de construction, parmi les plus anciens exemples de calligraphie arabe conservés en Inde.\n\n### La mosquée Quwwat ul-Islam\n\nAu pied du minaret se dresse la **mosquée Quwwat ul-Islam**, « la puissance de l'islam ». Bâtie par Aibak en **1193**, c'est la **première mosquée construite en Inde après la conquête islamique**. Sa construction fut controversée : elle utilisa piliers, linteaux et pierres récupérés sur 27 temples hindous et jaïns qui occupaient le site.\n\nLe résultat est un hybride architectural d'un impact visuel extraordinaire : arches islamiques et décors géométriques encadrant des piliers de style hindou aux sculptures typiquement indiennes. Le contraste se lit sur chaque colonne, chacune issue d'un temple démoli différent.\n\n### Le pilier de fer de Delhi\n\nAu centre de la cour de la mosquée se dresse l'un des grands mystères métallurgiques de l'Antiquité : le **pilier de fer de Delhi**. Datant d'environ **375 à 415**, sous la dynastie Gupta, cette colonne de fer de 7,21 mètres se dresse à l'air libre depuis plus de **1 600 ans sans rouiller**.\n\nLe pilier fut probablement fabriqué par forgeage et soudage de petites pièces de fer à haute température, une technique qui a produit un fer chimiquement pur doté d'une couche phosphorique naturelle empêchant l'oxydation. Les métallurgistes modernes confirment que sa composition n'a pas d'équivalent dans le monde antique. Son inscription en sanskrit le présente comme un mât en l'honneur du dieu Vishnou. Comment et quand il est arrivé dans le complexe reste débattu."
+   },
+   {
+    "title": "Guide complet de visite 2026",
+    "content": "### Tarifs\n- **Touristes étrangers :** 600 ₹ par personne\n- **Citoyens indiens :** 40 ₹ par personne\n- **Enfants de moins de 15 ans :** gratuit\n- Audioguide de l'ASI à l'entrée : 100 ₹ (hindi) / 150 ₹ (anglais). Vivement recommandé.\n\n### Horaires\nLe complexe est ouvert **tous les jours du lever au coucher du soleil**, en général de 7h à 17h (jusqu'à 18h en été). Contrairement au fort Rouge, il est **ouvert tous les jours, lundi compris**.\n\n### Comment s'y rendre\n\n**En métro (meilleure option) :** ligne **Jaune** jusqu'à la station **Qutub Minar** (qui porte le nom du monument), puis 10 minutes à pied ou un court trajet en auto-rickshaw à 20-30 ₹.\n\n**En Uber ou Ola :** cherchez « Qutub Minar Complex » ou « Mehrauli ». Dépose à l'entrée principale.\n\n**Depuis le centre de Delhi :** environ 45 minutes en métro depuis Connaught Place (correspondance à Central Secretariat si nécessaire).\n\n### Peut-on monter au Qutub Minar ?\nNon. Depuis la bousculade de 1981 qui a tué 47 visiteurs dans l'escalier intérieur étroit, la tour est **fermée à l'ascension**. On l'admire de l'extérieur et on explore tout le complexe environnant.\n\n### Meilleur moment\n**Tôt le matin (7h à 9h)** pour la meilleure lumière et le moins de monde. Le minaret est orienté à peu près vers l'est, et la lumière du matin met superbement en valeur les inscriptions. Évitez la mi-journée le week-end, très fréquentée.\n\n### Combiner avec d'autres sites de Delhi\nLe Qutub Minar se combine naturellement avec le **parc archéologique de Mehrauli** voisin, 70 hectares de ruines de plusieurs dynasties médiévales presque sans touristes. Depuis le Qutub Minar, rejoignez aussi la [tombe de Humayun](/india/delhi/humayuns-tomb) (25 minutes en Uber) et l'[India Gate](/india/delhi/india-gate) (35 minutes). Voyez l'[itinéraire d'une journée à Delhi](/india/delhi/delhi-1-day-itinerary) pour le parcours optimal."
+   },
+   {
+    "title": "Découvrez le Qutub Minar avec un guide certifié",
+    "content": "Le complexe du Qutub concentre 800 ans d'histoire en couches, de la destruction des temples hindous à la naissance de l'architecture islamique en Inde. Nos guides historiens certifiés décodent chaque inscription, expliquent le mystère du pilier de fer et font revivre le sultanat de Delhi. Visites privées et en groupe disponibles."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Quelle est la hauteur du Qutub Minar ?",
+    "a": "Le Qutub Minar mesure **72,5 mètres**, ce qui en fait le **plus haut minaret de brique au monde**, un record détenu depuis plus de 800 ans. Il compte cinq étages, avec un diamètre de 14,3 mètres à la base et 2,75 mètres au sommet."
+   },
+   {
+    "q": "Qui a construit le Qutub Minar et quand ?",
+    "a": "La construction fut lancée par **Qutb-ud-din Aibak** en **1193**, fondateur du sultanat de Delhi. Il n'acheva que le premier étage avant sa mort en 1210. Les deuxième et troisième étages sont d'**Iltutmish** (1211–1236), les quatrième et cinquième furent reconstruits par **Firuz Shah Tughluq** après la foudre de 1368."
+   },
+   {
+    "q": "Quel est le prix d'entrée du Qutub Minar en 2026 ?",
+    "a": "**600 ₹ pour les touristes étrangers** et **40 ₹ pour les citoyens indiens**. Gratuit pour les moins de 15 ans. Audioguide de l'ASI en supplément, 100 à 150 ₹."
+   },
+   {
+    "q": "Le Qutub Minar est-il classé à l'UNESCO ?",
+    "a": "Oui, inscrit au **patrimoine mondial en 1993**, l'un des trois sites UNESCO de Delhi avec le fort Rouge (2007) et la tombe de Humayun (1993)."
+   },
+   {
+    "q": "Peut-on entrer dans le Qutub Minar ?",
+    "a": "Non. L'escalier intérieur est **fermé au public depuis 1981**, après une bousculade tragique qui a tué 47 visiteurs. Le minaret se voit de l'extérieur, et tout le complexe (mosquée, pilier de fer, tombeaux) reste accessible."
+   },
+   {
+    "q": "Qu'est-ce que le pilier de fer du Qutub Minar ?",
+    "a": "Le **pilier de fer de Delhi** est une colonne de 7,21 mètres datant d'environ 375 à 415 (dynastie Gupta) qui se dresse à l'air libre depuis plus de **1 600 ans sans rouiller**. L'un des grands mystères métallurgiques de l'Antiquité, expliqué par un fer d'une pureté inhabituelle et une couche phosphorique naturelle."
+   },
+   {
+    "q": "Quelle station de métro est la plus proche du Qutub Minar ?",
+    "a": "La station **Qutub Minar** sur la **ligne Jaune**, à environ 10 minutes à pied de l'entrée principale, ou 5 minutes en auto-rickshaw pour 20 à 30 ₹."
+   },
+   {
+    "q": "Combien de temps dure la visite du Qutub Minar ?",
+    "a": "Une visite complète du complexe prend **90 minutes à 2 heures**. Avec un audioguide ou un guide licencié, comptez 2h30 pour le minaret, les ruines de la mosquée, le pilier de fer et les tombeaux."
+   },
+   {
+    "q": "Le Qutub Minar est-il ouvert le lundi ?",
+    "a": "Oui. Contrairement au fort Rouge fermé le lundi, **le Qutub Minar est ouvert tous les jours**, lundis et jours fériés compris, du lever au coucher du soleil."
+   },
+   {
+    "q": "Qu'est-ce que la mosquée Quwwat ul-Islam ?",
+    "a": "La **mosquée Quwwat ul-Islam** (« puissance de l'islam ») au pied du minaret est la **première mosquée construite en Inde après la conquête islamique**, bâtie par Aibak en 1193 avec des piliers et matériaux récupérés sur 27 temples hindous et jaïns démolis, d'où son hybride saisissant d'éléments islamiques et hindous."
+   },
+   {
+    "q": "Quelle est la meilleure période pour visiter le Qutub Minar ?",
+    "a": "**D'octobre à mars** : températures fraîches, ciel clair et excellente visibilité. **Tôt le matin (7h à 9h)** pour la meilleure lumière et le moins de monde, quelle que soit la saison. Évitez mai et juin, quand les températures dépassent 45 °C."
+   },
+   {
+    "q": "Le Qutub Minar figure-t-il dans le guide de Delhi ?",
+    "a": "Oui, c'est l'un des trois sites UNESCO de Delhi et une étape clé de tout itinéraire. Voyez notre [guide de voyage de Delhi 2026](/india/delhi/delhi-travel-guide-2026) et l'[itinéraire d'une journée](/india/delhi/delhi-1-day-itinerary) pour le combiner avec le fort Rouge, la tombe de Humayun et l'India Gate en une journée."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {
