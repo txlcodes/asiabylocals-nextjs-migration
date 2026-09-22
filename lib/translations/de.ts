@@ -2628,6 +2628,180 @@ export const DE_TOURS: Record<string, TourT> = {
     "answer": "Nein, sie gibt es vor Ort oder über unser offizielles Eintrittsticket per WhatsApp."
    }
   ]
+ },
+ "hawa-mahal-landmarks-guided-tour": {
+  "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
+  "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
+  "metaDescription": "Private Jaipur-Tour im klimatisierten Wagen mit lizenziertem Guide: City Palace, Hawa Mahal und das UNESCO-Welterbe Jantar Mantar. Eintritte und Transfers inklusive.",
+  "shortDescription": "Entdecken Sie den lebendigen Charme Jaipurs auf einer bequemen Tour im Privatwagen, gemacht für müheloses Erkunden. Besuchen Sie den großen City Palace, wo königliche Geschichte auf prachtvolle rajputische und mogulische Architektur trifft. Fotografieren Sie den schönen Hawa Mahal mit seiner filigranen Gitterfassade und fahren Sie weiter zum faszinierenden Jantar Mantar, einem UNESCO-Welterbe, das die Brillanz alter Astronomie zeigt.",
+  "fullDescription": "Entdecken Sie den lebendigen Charme Jaipurs auf einer gepflegten Tour im Privatwagen, konzipiert für müheloses Erkunden. Bequem fahren Sie zum prachtvollen City Palace, wo sich königliches Erbe in eleganten Höfen und einer großartigen Mischung aus rajputischer und mogulischer Architektur entfaltet. Halten Sie am ikonischen Hawa Mahal, berühmt für seine zarte Gitterfassade und seinen fotogenen Reiz.\n\nWeiter geht es zum bemerkenswerten Jantar Mantar, einem UNESCO-Welterbe, das die Brillanz der antiken Astronomie widerspiegelt. Unterwegs begeistert Sie ein erfahrener lokaler Guide mit Einblicken, die Jaipurs reiche Kultur, Geschichte und Baukunst lebendig werden lassen.",
+  "highlights": [
+   "Jaipurs ikonische Sehenswürdigkeiten bequem im privaten, klimatisierten Wagen",
+   "Der majestätische City Palace mit seiner Mischung aus rajputischer und mogulischer Architektur",
+   "Unvergessliche Fotos vom berühmten Hawa Mahal mit seiner filigranen Gitterfassade",
+   "Faszinierende Einblicke in Jaipurs Geschichte, königliches Erbe und Architektur",
+   "Jantar Mantar, das astronomische Observatorium im UNESCO-Welterbe"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Staatlich zugelassener, erfahrener Guide",
+   "Eintrittskarten für die Monumente",
+   "Flasche Mineralwasser",
+   "Alle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
+ "jaipur-city-night-tour-with-guide": {
+  "title": "Jaipur bei Nacht: Stadtrundfahrt mit Guide",
+  "metaTitle": "Jaipur bei Nacht: Hawa Mahal, Jal Mahal und Amber Fort illuminiert",
+  "metaDescription": "Vierstündige Nachttour durch Jaipur im Privatwagen mit Guide: Hawa Mahal, Jal Mahal, Amber Fort und Patrika Gate illuminiert. Hoteltransfers inklusive.",
+  "shortDescription": "Erleben Sie den magischen Charme Jaipurs nach Einbruch der Dunkelheit auf unserer vierstündigen Nachttour ab 19:30 Uhr. Bequem im Privatwagen mit professionellem Guide sehen Sie Hawa Mahal, Jal Mahal, Amber Fort und Patrika Gate wunderschön beleuchtet, dazu eine Vorbeifahrt am Parlament von Rajasthan. Abholung und Rückfahrt zum Hotel inklusive.",
+  "fullDescription": "Entdecken Sie die bezaubernde Schönheit Jaipurs nach Sonnenuntergang auf dieser sorgfältig gestalteten vierstündigen Nachttour. Der Start um 19:30 Uhr verbindet Kulturerbe, Kultur und Komfort: Sie erkunden die beleuchteten Wahrzeichen der Rosa Stadt im privaten, klimatisierten Wagen mit einem professionellen lokalen Guide.\n\nDer Abend beginnt mit der bequemen Abholung am Hotel. Wenn die Lichter der Stadt angehen, fahren Sie zuerst am schön beleuchteten Albert Hall Museum vorbei, dessen indo-sarazenische Architektur nachts noch eindrucksvoller wirkt.\n\nDann halten Sie am ikonischen Hawa Mahal, dem Palast der Winde. Seine wabenartige Fassade im sanften Licht schafft eine magische Atmosphäre, ideal für Fotos. Weiter geht es zum ruhigen Jal Mahal mitten im Man-Sagar-See, wo sich die Lichter im Wasser spiegeln.\n\nAnschließend bewundern Sie die Pracht des Amber Fort, wunderschön illuminiert vor der Kulisse der Aravalli-Hügel. Der nächtliche Anblick dieser majestätischen Festung gibt einen Eindruck von Jaipurs königlicher Vergangenheit. Danach führt die Tour zum lebendigen, kunstvollen Patrika Gate, einem der fotogensten Orte Jaipurs, dessen farbige Gänge und feine Ornamente ein ideales Motiv bieten.\n\nZum Abschluss fahren Sie am eindrucksvollen Parlamentsgebäude von Rajasthan vorbei, einem modernen architektonischen Wahrzeichen, das abends schön beleuchtet ist. Unterwegs teilt Ihr kundiger Guide Geschichten, historische Einblicke und lokale Tipps. Die Tour bleibt flexibel, sodass Sie jeden Stopp in Ihrem Tempo genießen, bevor Sie sicher zum Hotel zurückgebracht werden.\n\nWarum diese Tour? Privatwagen mit professionellem Guide, Abendstart für ein besonderes Nachterlebnis, Jaipurs Top-Sehenswürdigkeiten in entspanntem Tempo, ideal für Paare, Familien und Alleinreisende, sicher, komfortabel und gut organisiert.",
+  "highlights": [
+   "Die Rosa Stadt nach Einbruch der Dunkelheit wunderschön illuminiert",
+   "Blicke auf Hawa Mahal, Jal Mahal und Amber Fort im nächtlichen Licht",
+   "Lebendige Fotos am Patrika Gate, einem der fotogensten Orte Jaipurs",
+   "Entspannte Fahrt im privaten, klimatisierten Wagen mit professionellem Guide",
+   "Vorbeifahrt am eindrucksvollen Parlamentsgebäude von Rajasthan"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen für die gesamten 4 Stunden",
+   "Professioneller lokaler Guide für Erläuterungen und Betreuung",
+   "Abholung und Rückfahrt zum Hotel in Jaipur",
+   "Kraftstoff, Parkgebühren und Maut",
+   "Vierstündige private Nachtbesichtigung",
+   "Fotostopps an den Hauptattraktionen: Hawa Mahal, Jal Mahal, Patrika Gate und Amber Fort",
+   "Vorbeifahrt am Parlamentsgebäude von Rajasthan",
+   "Kostenlose Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Monumente (falls anfallend)",
+   "Speisen und Getränke (Abendessen oder Snacks nicht enthalten)",
+   "Persönliche Ausgaben (Einkäufe, Trinkgelder usw.)",
+   "Foto- oder Videogebühren an Monumenten (falls anfallend)",
+   "Reiseversicherung",
+   "Trinkgelder für Fahrer und Guide (freiwillig)"
+  ]
+ },
+ "local-family-home-food-tour": {
+  "title": "Jaipur: authentischer Kochkurs und Abendessen bei einer lokalen Familie",
+  "metaTitle": "Kochkurs in Jaipur bei einer rajasthanischen Familie mit Abendessen",
+  "metaDescription": "Abendlicher Kochkurs bei einer Familie in Jaipur: traditionelle Rezepte, gemeinsames Kochen mit dem Gastgeber und hausgemachtes Abendessen. Hoteltransfers inklusive.",
+  "shortDescription": "Entdecken Sie die Aromen Jaipurs bei einem abendlichen Kochkurs im Haus einer lokalen Familie. Lernen Sie traditionelle Rezepte, kochen Sie gemeinsam mit Ihrem Gastgeber und genießen Sie ein hausgemachtes Abendessen. Abholung und Rückfahrt zum Hotel inklusive, für ein Kulturerlebnis ohne Mühe.",
+  "fullDescription": "Tauchen Sie ein in das Alltagsleben Jaipurs mit diesem abendlichen Kocherlebnis bei einer herzlichen rajasthanischen Gastfamilie. Mehr als nur eine Mahlzeit: eine echte kulturelle Begegnung, bei der Sie in einem richtigen indischen Zuhause lernen, kochen und teilen.\n\nDas Erlebnis beginnt mit der bequemen Abholung an Ihrem Hotel am frühen Abend. Entspannt fahren Sie in ein ruhiges Wohnviertel abseits der Touristengegenden. Bei der Ankunft begrüßt Sie Ihre Gastfamilie herzlich, zeigt Ihnen ihr Zuhause und erzählt von Alltag und Traditionen.\n\nWeiter geht es in der Küche, wo Sie die Geheimnisse der authentischen indischen Küche entdecken: traditionelle Gewürze, Zutaten und Techniken, die die rajasthanische Küche ausmachen. Unter Anleitung Ihres Gastgebers bereiten Sie aktiv mehrere hausgemachte Gerichte zu, etwa Dal (Linsen), ein Gemüsecurry der Saison, Reis und frisch gemachte Chapatis. Die Mitmach-Session ist interaktiv, unterhaltsam und für jedes Niveau geeignet, auch wenn Sie noch nie gekocht haben.\n\nWährend die Düfte das Haus füllen, verstehen Sie besser, welche Rolle Essen in der indischen Kultur, im Familienleben und in der Gastfreundschaft spielt. Ist alles fertig, setzen Sie sich mit der Familie zusammen und genießen das Mahl, das Sie mit zubereitet haben: ein besonderer Moment zum Austauschen, Erzählen und Erleben echter indischer Gastfreundschaft.\n\nNach einem entspannten, unvergesslichen Abend bringt Ihr Fahrer Sie zurück zum Hotel, mit vollem Magen und mit bedeutungsvollen Erinnerungen an Jaipurs Kultur und Menschen. Ideal für Reisende, die über das Besichtigen hinausgehen und sich über Essen, Gespräche und echte Begegnungen mit lokalen Traditionen verbinden möchten.",
+  "highlights": [
+   "Authentische rajasthanische Gastfreundschaft im Haus einer lokalen Familie in Jaipur",
+   "Traditionelle indische Gerichte kochen lernen, angeleitet von Ihrem Gastgeber",
+   "Frisch zubereitetes hausgemachtes Abendessen in familiärer Runde",
+   "Lokale Kultur, Alltag und Esstraditionen jenseits touristischer Erlebnisse",
+   "Bequeme Abholung und Rückfahrt zum Hotel für einen unbeschwerten Abend"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in Jaipur",
+   "Privater Transport für eine bequeme Fahrt",
+   "Herzlicher Empfang durch eine lokale Gastfamilie",
+   "Alkoholische Getränke",
+   "Kochkurs zum Mitmachen mit traditionellen Rezepten",
+   "Alle Zutaten und Kochutensilien",
+   "Hausgemachtes Abendessen (vegetarische Optionen verfügbar)",
+   "Kultureller Austausch und Geschichten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Zusätzliche Speisen oder Getränke, die nicht genannt sind",
+   "Reiseversicherung",
+   "Alle weiteren Leistungen, die nicht in den Inklusivleistungen stehen"
+  ]
+ },
+ "hawa-mahal-chokhi-full-day-tour": {
+  "title": "Ganztagestour durch Jaipur mit Guide und Abendessen in Chokhi Dhani",
+  "metaTitle": "Jaipur an einem Tag: Amber Fort, City Palace und Chokhi Dhani",
+  "metaDescription": "Geführter Tag in Jaipur: Amber Fort, City Palace, Jantar Mantar, Hawa Mahal und Jal Mahal, dazu rajasthanisches Abendessen mit Folklore in Chokhi Dhani.",
+  "shortDescription": "Entdecken Sie Jaipurs königliches Erbe auf dieser geführten Ganztagestour zu den Top-Sehenswürdigkeiten: Amber Fort, City Palace und Jantar Mantar. Fotografieren Sie Hawa Mahal und Jal Mahal und genießen Sie anschließend ein traditionelles rajasthanisches Abendessen mit Live-Darbietungen in Chokhi Dhani. Geschichte, Kultur und echte lokale Erlebnisse an einem Tag.",
+  "fullDescription": "Erleben Sie königlichen Charme, reiches Erbe und die lebendige Kultur Jaipurs auf dieser eindrucksvollen geführten Ganztagestour, perfekt ergänzt durch einen unvergesslichen Kulturabend in Chokhi Dhani. Ideal für Reisende, die Jaipurs Höhepunkte an einem Tag sehen und dazu ein authentisches rajasthanisches Dorferlebnis genießen möchten.\n\nDie Tour beginnt mit der bequemen Abholung an Ihrem Hotel oder einem Ort Ihrer Wahl in Jaipur, wo Sie Ihren professionellen englischsprachigen Guide treffen. Los geht es mit dem prachtvollen Amber Fort, einer eindrucksvollen Hügelfestung, die rajputische und mogulische Architektur verbindet. Sie durchqueren große Höfe, königliche Säle und den berühmten Sheesh Mahal und genießen atemberaubende Blicke auf die Hügel und den Maota-See.\n\nAuf dem Rückweg in die Stadt halten Sie am malerischen Jal Mahal, dem Wasserpalast, für ein perfektes Foto. Weiter geht es zum ikonischen Hawa Mahal, bewundert für seine wabenartige Fassade und seine historische Bedeutung.\n\nAnschließend entdecken Sie das königliche Erbe im großen City Palace von Jaipur mit schönen Höfen, Museen und königlichen Artefakten. Ganz in der Nähe liegt das faszinierende Jantar Mantar, ein UNESCO-Welterbe mit bemerkenswerten astronomischen Instrumenten aus alter Zeit.\n\nZur Tour gehört auch ein Fotostopp am eleganten Albert Hall Museum mit seiner eindrucksvollen indo-sarazenischen Architektur. Danach bleibt freie Zeit für Jaipurs lebendige Märkte, wo Sie traditionelles Kunsthandwerk, Textilien, Schmuck und Souvenirs kaufen und den lokalen Alltag erleben.\n\nZum Abend geht es nach Chokhi Dhani für ein wirklich unvergessliches Kulturerlebnis. Dieses Resort im traditionellen Dorfstil zeigt Rajasthans reiche Traditionen mit Live-Volksmusik, Tanzdarbietungen, Puppenspielen, Kamelritten und weiteren Aktivitäten. Höhepunkt ist ein köstliches rajasthanisches Abendessen, authentisch serviert.\n\nNach einem Tag voller Entdeckungen, Kultur und Unterhaltung werden Sie bequem zu Ihrem Hotel oder einem Ort Ihrer Wahl in Jaipur zurückgebracht. Diese Tour verbindet Geschichte, Kultur und lokale Erlebnisse ideal und eignet sich besonders für Erstbesucher.",
+  "highlights": [
+   "Das majestätische Amber Fort mit professionellem Guide und großartigen Blicken über die Hügel",
+   "Jaipurs ikonische Wahrzeichen: Hawa Mahal, City Palace und Jantar Mantar",
+   "Schöne Fotos am Jal Mahal und am Albert Hall Museum",
+   "Jaipurs lebendige lokale Märkte und kulturelle Atmosphäre",
+   "Traditionelles rajasthanisches Abendessen mit Live-Folklore in Chokhi Dhani"
+  ],
+  "included": [
+   "Abholung und Rückfahrt Hotel oder Flughafen in Jaipur",
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Professioneller englischsprachiger Guide",
+   "Besuch der Hauptsehenswürdigkeiten (Amber Fort, City Palace, Jantar Mantar usw.)",
+   "Fotostopps am Hawa Mahal, Jal Mahal und Albert Hall Museum",
+   "Eintritt und Kulturerlebnis in Chokhi Dhani",
+   "Traditionelles rajasthanisches Abendessen in Chokhi Dhani",
+   "Alle Maut-, Park- und Fahrergebühren",
+   "Wasser in Flaschen während der Fahrt"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Monumente (Amber Fort, City Palace, Jantar Mantar), sofern nicht anders angegeben",
+   "Mittagessen und persönliche Mahlzeiten (außer dem Abendessen in Chokhi Dhani)",
+   "Persönliche Ausgaben (Einkäufe, Souvenirs usw.)",
+   "Trinkgelder (freiwillig)",
+   "Foto- oder Videogebühren an Monumenten (falls anfallend)",
+   "Optionale Aktivitäten (Elefanten- oder Jeepritt am Amber Fort)"
+  ]
+ },
+ "hawa-mahal-full-full-day-tour": {
+  "title": "Jaipur: geführte Ganztagestour",
+  "metaTitle": "Jaipur an einem Tag: Forts, Paläste und Jantar Mantar, Eintritte inklusive",
+  "metaDescription": "Geführter Tag in Jaipur mit allen Eintritten: Amber Fort, Jal Mahal, City Palace, Jantar Mantar und Hawa Mahal, im privaten klimatisierten Fahrzeug.",
+  "shortDescription": "Entdecken Sie das königliche Erbe Jaipurs, der berühmten Rosa Stadt. Diese geführte Tour umfasst die ikonischen Forts, Paläste, Observatorien und Kulturorte mit einem kundigen lokalen Guide, und alle Eintrittskarten sind enthalten, für ein reibungsloses Erlebnis ohne Mühe.",
+  "fullDescription": "Erleben Sie das reiche königliche Erbe, die lebendige Kultur und die architektonische Brillanz Jaipurs auf dieser eindrucksvollen geführten Ganztagestour. Konzipiert für ein reibungsloses, bereicherndes Erlebnis, umfasst sie einen professionellen lokalen Guide, bequemen Transport und alle Eintrittsgebühren, sodass Sie die Rosa Stadt ohne jede Mühe erkunden.\n\nDie Tour beginnt mit der bequemen Abholung an Ihrem Hotel, am Flughafen oder am Bahnhof in Jaipur, wo Ihr kundiger Guide Sie begrüßt. Erster Halt ist das prachtvolle Amber Fort, eine eindrucksvolle Hügelfestung, die rajputische und mogulische Architektur perfekt verbindet. Beim Gang durch die großen Höfe und reich verzierten Säle entdecken Sie Höhepunkte wie den atemberaubenden Sheesh Mahal (Spiegelpalast) mit feinen Spiegelarbeiten, die das Licht wunderschön brechen. Das Fort bietet zudem Panoramablicke auf die umliegenden Hügel und den ruhigen Maota-See.\n\nDanach folgt ein Fotostopp am malerischen Jal Mahal, dem Wasserpalast. Anmutig inmitten des Man-Sagar-Sees gelegen, bildet dieses architektonische Juwel eine magische Kulisse und einen friedlichen Kontrast zur geschäftigen Stadt.\n\nWeiter geht es zum großen City Palace von Jaipur, einer königlichen Residenz, in der die Königsfamilie bis heute lebt. Sie erkunden schön gestaltete Höfe, Museen und Galerien mit königlichen Gewändern, alten Waffen und Artefakten, die tiefe Einblicke in Rajasthans fürstliche Vergangenheit geben. Die feine Architektur und die farbenprächtigen Tore sind ein visueller Genuss.\n\nNur wenige Schritte entfernt liegt das faszinierende Jantar Mantar, ein UNESCO-Welterbe und eines der bemerkenswertesten astronomischen Observatorien der Welt. Ihr Guide erklärt, wie diese gewaltigen Instrumente vor Jahrhunderten zur Zeitmessung, zur Verfolgung von Himmelskörpern und zur Vorhersage astronomischer Ereignisse dienten: Wissenschaft, Geschichte und Erfindergeist in einem.\n\nSie halten außerdem am ikonischen Hawa Mahal, dem Palast der Winde. Mit seiner wabenartigen Fassade und Hunderten kleiner Fenster erlaubte er den Frauen des Hofes, das Straßenleben zu beobachten, ohne gesehen zu werden. Er ist eines der meistfotografierten Monumente Jaipurs.\n\nDie Tour lässt zudem Zeit für Jaipurs lebhafte Märkte: traditioneller Schmuck im Johari Bazaar, farbenfrohe Textilien und Kunsthandwerk im Bapu Bazaar, ein Einblick in Alltag und Handwerkskunst. Mittags ist eine entspannte Pause in einem lokalen Restaurant möglich (optional), um die rajasthanische Küche zu probieren.\n\nZum Abschluss des Tages werden Sie bequem zu Ihrem Hotel oder einem Ort Ihrer Wahl in Jaipur zurückgebracht, mit unvergesslichen Erinnerungen an königliche Paläste, historische Wunder und kulturelle Erlebnisse. Diese Rundum-Tour ist ideal für Erstbesucher, Familien und alle, die Jaipur mit fachkundiger Begleitung in die Tiefe erkunden möchten, ohne sich um Tickets oder Planung zu kümmern.",
+  "highlights": [
+   "Jaipurs wichtigste UNESCO-Stätten an einem Tag",
+   "Unkomplizierter Eintritt, alle Tickets inklusive",
+   "Ein kundiger lokaler Guide den ganzen Tag",
+   "Ideal für Erstbesucher"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller Reiseleiter",
+   "Alle Eintrittsgebühren der Monumente",
+   "Abholung und Rückfahrt in Jaipur",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mittagessen und persönliche Ausgaben",
+   "Kameragebühren (falls anfallend)",
+   "Trinkgelder",
+   "Optionale Aktivitäten (Elefanten- oder Jeepritt am Amber Fort)"
+  ]
+ },
+ "delhi-jaipur-same-day-tour-by-car": {
+  "title": "Ab Delhi: Jaipur an einem Tag im Auto mit zugelassenem Guide, alles inklusive",
+  "metaTitle": "Jaipur ab Delhi an einem Tag: Amber Fort und City Palace im Auto",
+  "metaDescription": "Tagesausflug von Delhi nach Jaipur im privaten klimatisierten Wagen mit zugelassenem Guide: Amber Fort, Jal Mahal, City Palace und Hawa Mahal.",
+  "shortDescription": "Jaipur, die lebendige Hauptstadt Rajasthans, bietet eine unvergessliche Besichtigung mit zugelassenem lokalen Guide und Wagen: Amber Fort, City Palace und ein ganzer Tag in der Stadt ab Delhi, ideal für Familien.",
+  "fullDescription": "Erleben Sie den fürstlichen Charme Jaipurs, der Rosa Stadt, auf einem Tagesausflug im Auto ab Neu-Delhi. Erkunden Sie historische Forts, prunkvolle Paläste und belebte Basare, nur wenige Autostunden entfernt. Tauchen Sie ein in Rajasthans lebendige Kultur, kosten Sie die lokale Küche und kehren Sie mit unvergesslichen Erinnerungen zurück.\n\nUnser Fahrer holt Sie an einem Ort Ihrer Wahl in Neu-Delhi ab, der Guide stößt unterwegs dazu.\n\nVon Neu-Delhi geht es nach Jaipur. Bei der Ankunft empfängt Sie der fürstliche Charme der Rosa Stadt, die ihren Namen dem markanten rosa Ton ihrer historischen Gebäude verdankt.\n\nUnterwegs tauchen Sie in das königliche Erbe ein und besuchen das prachtvolle Amber Fort, eine atemberaubende Hügelfestung mit Panoramablick über die Stadt.\n\nAnschließend geht es hinab zum Jal Mahal, einem Palast auf dem Man-Sagar-See, für ein Foto. Palast und See wurden im 18. Jahrhundert von Maharadscha Jai Singh II. von Amber erneuert und erweitert; ihre landschaftliche Schönheit zieht bis heute viele Besucher an.\n\nGenießen Sie die lokale Küche mit schmackhaften rajasthanischen Gerichten wie Dal Baati Churma, Ghewar und Laal Maas.\n\nDanach erkunden Sie den City Palace, eine prunkvolle Residenz mit einer großartigen Mischung aus rajasthanischer und mogulischer Baukunst. Zum Abschluss besuchen Sie den ikonischen Hawa Mahal, den Palast der Winde, dessen fein gearbeitete Fassade mit ihren vielen Fenstern den Frauen des Hofes erlaubte, die Feste auf der Straße unbemerkt zu verfolgen.\n\nAm Ende bringt unser Fahrer Sie zu einem Ort Ihrer Wahl oder zu Ihrem Hotel in Neu-Delhi zurück, mit unvergesslichen Erinnerungen.",
+  "highlights": [
+   "Der ikonische Hawa Mahal, Amber Fort, City Palace, Jal Mahal und mehr",
+   "Die zahlreichen architektonischen Höhepunkte Jaipurs",
+   "Großartige Aussichtspunkte für unvergessliche Fotos",
+   "Reiche Geschichte, beeindruckende Architektur und farbenfrohe Kultur",
+   "Ein rundum unvergessliches Erlebnis"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Hin- und Rückfahrt Neu-Delhi nach Jaipur im privaten klimatisierten Wagen",
+   "Privater Guide",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mineralwasser",
+   "Besichtigungen im privaten klimatisierten Wagen",
+   "Mittagessen in Jaipur (bei gewählter Option)",
+   "Alle Steuern und Gebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
