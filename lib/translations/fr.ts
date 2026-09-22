@@ -2459,6 +2459,104 @@ export const FR_PAGES: Record<string, PageT> = {
     "a": "Une **visite nocturne** limitée existe la nuit de la pleine lune et les deux nuits avant et après (sauf le vendredi et pendant le ramadan). Seulement 400 billets par nuit, à réserver 24 heures à l'avance au bureau de l'ASI près de la porte est. Visite de 30 minutes depuis la plate-forme d'observation en marbre ; on ne peut pas approcher le tombeau."
    }
   ]
+ },
+ "agra-fort": {
+  "title": "Le fort d'Agra, forteresse impériale rouge : le guide ultime 2026",
+  "seoTitle": "Fort d'Agra : billets, horaires et que voir",
+  "description": "Billet du fort d'Agra 650 ₹ étrangers / 50 ₹ Indiens, ouvert du lever au coucher du soleil. La forteresse moghole de 38 hectares, le Musamman Burj et les vues sur le Taj.",
+  "fastFacts": [
+   {
+    "icon": "History",
+    "label": "Dynasties",
+    "value": "Lodi, Moghols, Marathes, Britanniques"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Classé depuis 1983"
+   },
+   {
+    "icon": "Clock",
+    "label": "Durée conseillée",
+    "value": "2h30 à 3 heures"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Introduction : bien plus qu'une forteresse",
+    "content": "Le Taj Mahal est un monument à l'amour et au deuil ; le fort d'Agra est un monument à la puissance impériale pure. Étendue sur 38 hectares au bord de la Yamuna, cette forteresse de grès rouge fut la résidence principale des empereurs moghols jusqu'en 1638. Moins un bâtiment qu'une « ville fortifiée » dans la ville, avec palais, mosquées, salles d'audience et salles du trésor qui abritaient les richesses d'un empire couvrant tout le sous-continent.\n\nEn 2026, le fort d'Agra reste l'un des plus beaux exemples d'architecture militaire et domestique au monde. Pour le voyageur curieux, il fournit le contexte historique indispensable pour comprendre le Taj Mahal. Voir le Taj sans le fort, c'est voir le résultat sans comprendre la source. C'est ici que les empereurs ont vécu, régné et, dans le cas de Shah Jahan, passé leurs dernières années à contempler le chef-d'œuvre de marbre qu'ils avaient créé."
+   },
+   {
+    "title": "Chronologie historique des murs rouges",
+    "content": "L'histoire du fort d'Agra reflète celle de l'Inde. Bien avant les Moghols, le site accueillait un fort de briques appelé **Badalgarh**, tenu par la dynastie Lodi du sultanat de Delhi.\n\n**L'ère d'Akbar (1565–1573) :**\nQuand l'empereur Akbar le Grand décida de transférer sa capitale à Agra, le vieux fort de briques était en ruine. Il ordonna une reconstruction massive en grès rouge du Rajasthan. Plus de 4 000 ouvriers travaillèrent chaque jour pendant huit ans pour achever les murs extérieurs. L'architecture d'Akbar est robuste, virile et avant tout défensive, avec d'énormes bastions et des douves profondes.\n\n**L'ère de Jahangir :**\nLe fils d'Akbar, Jahangir, ajouta de nombreux palais intérieurs. Son style marque le passage du purement défensif au décoratif, mêlant motifs hindous et islamiques, une fusion visible surtout dans le Jahangiri Mahal.\n\n**L'ère de Shah Jahan :**\nC'est Shah Jahan qui transforma le fort de bastion militaire en palais d'un luxe inégalé. Il démolit plusieurs structures de grès d'Akbar pour bâtir les siennes en marbre blanc de Makrana (celui du Taj Mahal) : le Khas Mahal et le Diwan-i-Khas notamment.\n\n**L'ère d'Aurangzeb et après :**\nAurangzeb ajouta la dernière couche défensive, remparts extérieurs et douves supplémentaires. Ironie de l'histoire, il fit aussi du fort une prison pour son propre père, Shah Jahan. Après les Moghols, le fort passa aux Marathes puis aux Britanniques et joua un rôle clé pendant la révolte de 1857."
+   },
+   {
+    "title": "Plan architectural et structures à ne pas manquer",
+    "content": "Le plan du fort d'Agra est un puzzle architectural qui révèle les goûts changeants des empereurs.\n\n- **Porte Amar Singh (l'entrée) :** la seule porte ouverte au public. Un chef-d'œuvre de ruse, conçu pour dérouter les envahisseurs par des virages serrés et des pentes raides empêchant les charges d'éléphants.\n- **Jahangiri Mahal :** construit par Akbar pour son fils Jahangir, le palais de fusion hindou-islamique le plus significatif. Notez les énormes consoles de pierre et l'absence d'arches, clin d'œil à l'architecture des temples indiens dans un palais moghol.\n- **Khas Mahal :** la chambre impériale de Shah Jahan, aux plafonds de marbre peints à l'or et aux fentes étroites permettant aux dames royales d'observer la Yamuna sans être vues.\n- **Musamman Burj :** sans doute le lieu le plus émouvant du fort. Cette tour octogonale de marbre est celle où Shah Jahan fut assigné à résidence par Aurangzeb. Depuis le balcon, vue parfaitement encadrée sur le Taj Mahal, celle-là même que l'empereur mourant contempla pendant huit ans.\n- **Diwan-i-Aam (salle des audiences publiques) :** immense salle où l'empereur siégeait sur un trône de pierres précieuses pour écouter les doléances du peuple. L'échelle des piliers de grès impressionne.\n- **Moti Masjid (mosquée de la Perle) :** construite par Shah Jahan, une étude en marbre blanc pur, actuellement fermée au public pour préserver sa structure délicate."
+   },
+   {
+    "title": "Stratégie : faut-il prendre un guide ?",
+    "content": "Le fort d'Agra peut se visiter seul, mais un historien licencié fait revivre la cour moghole, surtout en combinaison avec le Taj Mahal. Pour une expérience fluide, notre [visite guidée du Taj Mahal et du fort d'Agra](/india/agra/taj-mahal-agra-fort-guided-tour) relie les deux monuments en une visite soigneusement composée.\n\nUn guide vous fait repérer les détails « secrets » : l'acoustique du Diwan-i-Khas, la plomberie cachée des bains royaux et l'endroit exact où fut conservé le diamant Koh-i-Noor. Dans un ensemble aussi vaste, un professionnel garantit que vous ne manquiez pas la continuité historique qui donne tout son sens au Taj Mahal."
+   },
+   {
+    "title": "La règle du vendredi et la stratégie",
+    "content": "Comme le Taj Mahal est fermé au tourisme tous les vendredis, beaucoup de voyageurs se reportent sur le fort d'Agra et les autres monuments moghols. Si vous êtes à Agra un vendredi, pensez à notre [visite spéciale du vendredi](/india/agra/agra-friday-tour-taj-closed-alternative), qui couvre le fort d'Agra, le Baby Taj et Mehtab Bagh au coucher du soleil pour une expérience moghole complète.\n\nContrairement au Taj, le fort d'Agra est **OUVERT** le vendredi. C'est donc l'ancre de toute visite du vendredi. Mais la foule y est plus dense ce jour-là, tous les touristes de la ville convergeant vers le fort. Arrivez dès 8h pour devancer l'affluence de la mi-journée."
+   },
+   {
+    "title": "Fort d'Agra ou Taj Mahal : la comparaison",
+    "content": "Beaucoup demandent lequel est le meilleur. Réponse : ce sont les deux faces d'une même pièce. Le Taj Mahal parle d'un individu et d'une émotion ; le fort d'Agra parle d'une civilisation entière et de sa machinerie politique.\n\nBeaucoup préfèrent vivre les deux monuments dans un même itinéraire. Notre [visite guidée du Taj Mahal et du fort d'Agra](/india/agra/taj-mahal-agra-fort-guided-tour) optimise les horaires, évite les pics d'affluence et assure la continuité historique entre les deux sites UNESCO.\n\n**Différences clés :**\n- **Échelle :** le fort est nettement plus grand et demande bien plus de marche.\n- **Esthétique :** le Taj est monochrome et éthéré ; le fort est vibrant et terrestre.\n- **Photo :** le Taj est le plus beau à l'aube ; le fort en milieu de matinée, quand la lumière frappe les façades de grès rouge."
+   },
+   {
+    "title": "Conseils photo : les « vues sur le Taj » depuis le fort",
+    "content": "Pour les photographes, le fort d'Agra offre parmi les meilleures vues « contextuelles » du Taj Mahal.\n\n- **La fenêtre du Musamman Burj :** cherchez les petites arches de marbre qui encadrent le Taj au loin. Réglez l'ouverture à f/11 pour garder le marbre au premier plan et le Taj lointain nets.\n- **Les terrasses :** depuis les terrasses supérieures du Khas Mahal, on voit le Taj Mahal s'élever de la rive de la Yamuna. Un 70-200 mm compresse la distance et fait paraître le Taj immense derrière les créneaux rouges.\n- **Les arches de grès rouge :** utilisez les ombres profondes des arches du Diwan-i-Aam pour créer des silhouettes de vos compagnons sur les cours inondées de soleil."
+   },
+   {
+    "title": "FAQ stratégique : en profondeur",
+    "content": "1. **Combien de temps pour voir le fort d'Agra ?**\nComptez au moins 2h30 à 3 heures. La distance entre l'entrée et les palais les plus éloignés est considérable.\n2. **Fait-il très chaud à l'intérieur ?**\nOui, le grès rouge absorbe la chaleur. En été (avril à juin), visitez avant 10h30. Les palais de marbre sont naturellement plus frais grâce à la proximité du fleuve.\n3. **Y a-t-il des toilettes et de l'eau ?**\nLes installations sont limitées une fois la porte principale passée. Utilisez les toilettes près de la billetterie avant d'entrer.\n4. **Le fort est-il accessible en fauteuil roulant ?**\nPartiellement. Des rampes existent à l'entrée, mais beaucoup de palais ont des sols de pierre irréguliers et des marches.\n5. **Comment s'y rendre ?**\nUber ou e-rickshaw. N'essayez pas de marcher depuis le Taj Mahal (2,5 km) : la route est passante et poussiéreuse.\n6. **Peut-on voir le diamant Koh-i-Noor ?**\nNon, il fait partie des joyaux de la Couronne britannique. Mais on peut voir la salle du trône où il était conservé."
+   },
+   {
+    "title": "Informations pratiques 2026",
+    "content": "**Billets :** comme pour le Taj Mahal, les billets du fort sont désormais numériques uniquement. Scannez le QR code à la porte ou réservez sur le portail de l'ASI. Si vous avez un billet « combiné » acheté ailleurs, ayez le bon QR code prêt.\n\n**Sécurité :** contrôle de type aéroport. Pas de sac à dos, de trépied ni de chargeur. Emportez seulement l'essentiel.\n\n**Chaussures :** vous marcherez plusieurs kilomètres. Portez des chaussures confortables. Contrairement au Taj, pas besoin de se déchausser sauf dans quelques zones de prière en activité."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Peut-on voir le fort d'Agra en excursion depuis Delhi ?",
+    "a": "Oui, le fort d'Agra figure dans tout bon itinéraire d'une journée. Les options les plus rapides et confortables sont l'[excursion Taj Mahal et Agra en voiture depuis Delhi](/india/agra/taj-mahal-return-guided-tour) par la Yamuna Expressway, ou l'[aller-retour Delhi–Agra en Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train), le train le plus rapide d'Inde, billets confirmés gérés pour vous."
+   },
+   {
+    "q": "Le fort d'Agra vaut-il la visite si j'ai vu le Taj Mahal ?",
+    "a": "Absolument. La plupart des voyageurs trouvent l'intérieur du fort **plus varié architecturalement** que le Taj. Le Taj est un seul tombeau ; le fort est une ville de 38 hectares avec palais, mosquées, salles d'audience et trésors de quatre empereurs moghols. C'est la face « humaine » de l'histoire moghole : là où ils vivaient, régnaient et, pour Shah Jahan, passaient leurs derniers jours à contempler le Taj depuis leur captivité."
+   },
+   {
+    "q": "Le fort d'Agra est-il ouvert le vendredi ?",
+    "a": "Oui, **tous les jours de la semaine, vendredi compris**. Comme le [Taj Mahal est fermé le vendredi](/india/agra/is-taj-mahal-closed-on-friday), le fort devient l'ancre de toute journée du vendredi. Arrivez tôt (8h) car la foule y est plus dense ce jour-là."
+   },
+   {
+    "q": "Quel est le prix d'entrée du fort d'Agra en 2026 ?",
+    "a": "**600 ₹ pour les touristes étrangers** et 50 ₹ pour les citoyens indiens (paiement numérique uniquement). Les billets s'achètent en ligne, aucune espèce acceptée à la porte. Le billet est valable le jour de l'achat uniquement."
+   },
+   {
+    "q": "Combien de temps dure la visite du fort d'Agra ?",
+    "a": "Prévoyez **2h30 à 3 heures** pour une visite complète. Le fort couvre 38 hectares avec de longues distances entre le Jahangiri Mahal, le Khas Mahal, le Musamman Burj, le Diwan-i-Aam et le Diwan-i-Khas. Une visite rapide (1h30) couvre les points forts mais manque les détails qui rendent le fort exceptionnel."
+   },
+   {
+    "q": "Peut-on voir le Taj Mahal depuis le fort d'Agra ?",
+    "a": "Oui, le **Musamman Burj** (tour octogonale de marbre) offre une vue parfaitement encadrée sur le Taj Mahal de l'autre côté de la Yamuna. C'est la vue qu'avait Shah Jahan pendant ses 8 ans d'emprisonnement par son fils Aurangzeb. Les terrasses du Khas Mahal offrent aussi des vues sur le Taj. Emportez un zoom (70-200 mm) pour les meilleures photos."
+   },
+   {
+    "q": "Quel est le meilleur moment de la journée pour le fort d'Agra ?",
+    "a": "**Le milieu de matinée (9h à 11h)**, quand le grès rouge s'embrase le plus chaleureusement. Évitez la mi-journée (12h à 14h), quand le soleil chauffe la pierre et que les températures deviennent extrêmes, surtout d'avril à juin. Le fort ferme au coucher du soleil."
+   },
+   {
+    "q": "Faut-il un guide pour le fort d'Agra ?",
+    "a": "**Vivement recommandé.** L'histoire du fort couvre quatre empereurs sur 200 ans : les secrets acoustiques du Diwan-i-Khas, la plomberie cachée et l'endroit exact où était conservé le Koh-i-Noor sont des détails que seul un guide expert révèle. Nos [visites du fort d'Agra](/india/agra) l'associent au Taj Mahal pour un contexte historique complet."
+   },
+   {
+    "q": "Le fort d'Agra est-il accessible en fauteuil roulant ?",
+    "a": "**Partiellement.** L'entrée principale (porte Amar Singh) a des rampes, mais beaucoup de palais intérieurs ont des sols de pierre irréguliers et des marches. Les terrasses supérieures avec les meilleures vues sur le Taj demandent de monter des escaliers. Les personnes en fauteuil peuvent accéder à la cour principale et au rez-de-chaussée du Diwan-i-Aam."
+   }
+  ]
  }
 };
 export const FR_CITIES: Record<string, CityT> = {

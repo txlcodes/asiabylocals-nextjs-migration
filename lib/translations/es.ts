@@ -2459,6 +2459,104 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "Hay una **visita nocturna** limitada la noche de luna llena y las dos noches anteriores y posteriores (excepto viernes y durante el Ramadán). Solo se emiten 400 entradas por noche, y deben reservarse con 24 horas de antelación en la oficina del ASI cerca de la puerta este. La visita dura 30 minutos desde la plataforma de mármol; no se puede acercar a la tumba."
    }
   ]
+ },
+ "agra-fort": {
+  "title": "Fuerte de Agra, la fortaleza roja imperial: la guía definitiva 2026",
+  "seoTitle": "Fuerte de Agra: entradas, horarios y qué ver",
+  "description": "Entrada al Fuerte de Agra 650 ₹ extranjeros / 50 ₹ indios, abierto de sol a sol. La fortaleza mogol de 38 hectáreas, el Musamman Burj y las vistas al Taj.",
+  "fastFacts": [
+   {
+    "icon": "History",
+    "label": "Dinastías",
+    "value": "Lodi, mogol, maratha, británica"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Patrimonio desde 1983"
+   },
+   {
+    "icon": "Clock",
+    "label": "Tiempo recomendado",
+    "value": "2,5 a 3 horas"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Introducción: mucho más que una fortaleza",
+    "content": "El Taj Mahal es un monumento al amor y al duelo; el Fuerte de Agra es un monumento al puro poder imperial. Con 38 hectáreas a orillas del río Yamuna, esta fortaleza de arenisca roja fue la residencia principal de los emperadores mogoles hasta 1638. No es tanto un edificio como una «ciudad fortificada» dentro de la ciudad, con palacios, mezquitas, salas de audiencia y cámaras del tesoro que guardaron las riquezas de un imperio extendido por todo el subcontinente.\n\nEn 2026, el Fuerte de Agra sigue siendo uno de los mejores ejemplos de arquitectura militar y doméstica del mundo. Para el viajero exigente, aporta el contexto histórico necesario para entender el Taj Mahal. Ver el Taj sin ver el fuerte es ver el resultado sin entender el origen. Aquí vivieron y gobernaron los emperadores y, en el caso de Shah Jahan, pasaron sus últimos años contemplando la obra maestra de mármol que habían creado."
+   },
+   {
+    "title": "Cronología histórica de las murallas rojas",
+    "content": "La historia del Fuerte de Agra refleja la propia historia de India. Mucho antes de los mogoles, el lugar lo ocupaba un fuerte de ladrillo llamado **Badalgarh**, en manos de la dinastía Lodi del sultanato de Delhi.\n\n**La era de Akbar (1565–1573):**\nCuando el emperador mogol Akbar el Grande decidió trasladar su capital a Agra, el viejo fuerte de ladrillo estaba en ruinas. Ordenó una reconstrucción masiva con arenisca roja de Rajastán. Más de 4.000 obreros trabajaron a diario durante ocho años para completar las murallas exteriores. La arquitectura de Akbar era robusta, contundente y sobre todo defensiva, con enormes bastiones y fosos profundos.\n\n**La era de Jahangir:**\nEl hijo de Akbar, Jahangir, añadió muchos de los palacios interiores. Su estilo marcó el inicio de la transición de lo puramente defensivo a lo decorativo, mezclando motivos hindúes e islámicos, una fusión que se aprecia sobre todo en el Jahangiri Mahal.\n\n**La era de Shah Jahan:**\nFue Shah Jahan quien transformó el fuerte de bastión militar en un palacio de lujo sin igual. Demolió varias estructuras de arenisca de Akbar para construir las suyas en mármol blanco de Makrana (el mismo del Taj Mahal), entre ellas el Khas Mahal y el Diwan-i-Khas.\n\n**La era de Aurangzeb y después:**\nAurangzeb añadió la última capa defensiva: las murallas exteriores y fosos adicionales. Irónicamente, también convirtió el fuerte en prisión de su propio padre, Shah Jahan. Tras los mogoles, el fuerte pasó de los marathas a los británicos y fue un lugar clave durante la rebelión india de 1857."
+   },
+   {
+    "title": "Trazado arquitectónico y estructuras imprescindibles",
+    "content": "El trazado del Fuerte de Agra es un rompecabezas arquitectónico que revela los gustos cambiantes de los distintos emperadores.\n\n- **Puerta Amar Singh (la entrada):** la única puerta abierta actualmente al público. Una obra maestra del engaño, diseñada para confundir a los invasores con giros cerrados y pendientes pronunciadas que impedían las cargas de elefantes.\n- **Jahangiri Mahal:** construido por Akbar para su hijo Jahangir, es el palacio de fusión hindú-islámica más significativo. Fíjate en las enormes ménsulas de piedra y en la ausencia de arcos, un guiño a la arquitectura tradicional de los templos indios dentro de un palacio mogol.\n- **Khas Mahal:** el dormitorio imperial de Shah Jahan, con techos de mármol pintados en oro y estrechas ranuras para que las damas reales contemplaran el río Yamuna sin ser vistas.\n- **Musamman Burj:** quizá el lugar más emotivo del fuerte. En esta torre octogonal de mármol Aurangzeb mantuvo a Shah Jahan bajo arresto domiciliario. Desde el balcón se obtiene una vista perfectamente enmarcada del Taj Mahal, la misma que el emperador moribundo tuvo durante ocho años.\n- **Diwan-i-Aam (sala de audiencias públicas):** una sala enorme donde el emperador se sentaba en un trono de piedras preciosas para escuchar las quejas del pueblo. La escala de los pilares de arenisca impresiona.\n- **Moti Masjid (mezquita de la Perla):** construida por Shah Jahan, un estudio en mármol blanco puro, actualmente cerrada al público para preservar su delicada estructura."
+   },
+   {
+    "title": "Estrategia de guía: ¿conviene contratar uno?",
+    "content": "El Fuerte de Agra se puede explorar por libre, pero un historiador con licencia da vida a la corte mogol, sobre todo en combinación con el Taj Mahal. Para una experiencia fluida, nuestra [visita guiada al Taj Mahal y al Fuerte de Agra](/india/agra/taj-mahal-agra-fort-guided-tour) conecta ambos monumentos en una visita cuidadosamente diseñada.\n\nUn guía te ayuda a descubrir los detalles «secretos»: la acústica del Diwan-i-Khas, el sistema oculto de fontanería de los baños reales y el lugar exacto donde se guardó el diamante Koh-i-Noor. En un complejo tan grande, un profesional garantiza que no te pierdas la continuidad histórica que hace al Taj Mahal mucho más significativo."
+   },
+   {
+    "title": "La regla del viernes y la estrategia",
+    "content": "Como el Taj Mahal cierra al turismo todos los viernes, muchos viajeros centran su atención en el Fuerte de Agra y otros monumentos mogoles. Si estás en Agra un viernes, considera nuestra [visita especial de los viernes](/india/agra/agra-friday-tour-taj-closed-alternative), que cubre el Fuerte de Agra, el Baby Taj y Mehtab Bagh al atardecer para una experiencia mogol completa.\n\nA diferencia del Taj, el Fuerte de Agra está **ABIERTO** los viernes. Eso lo convierte en el ancla absoluta de cualquier visita en viernes. Pero ten en cuenta que ese día la afluencia puede ser mayor, porque todos los turistas de la ciudad convergen en el fuerte. Llega a las 8:00 para adelantarte a la avalancha del mediodía."
+   },
+   {
+    "title": "Fuerte de Agra o Taj Mahal: la comparación",
+    "content": "Muchos viajeros preguntan cuál es mejor. La respuesta es que son dos caras de la misma moneda. El Taj Mahal habla de una persona y una emoción; el Fuerte de Agra, de toda una civilización y su maquinaria política.\n\nMuchos prefieren vivir ambos monumentos en un mismo itinerario. Nuestra [visita guiada al Taj Mahal y al Fuerte de Agra](/india/agra/taj-mahal-agra-fort-guided-tour) está diseñada para optimizar los horarios, evitar las horas punta y aportar continuidad histórica entre los dos sitios UNESCO.\n\n**Diferencias clave:**\n- **Escala:** el fuerte es bastante más grande y exige mucha más caminata.\n- **Estética:** el Taj es monocromo y etéreo; el fuerte es vibrante y terrenal.\n- **Fotografía:** el Taj luce más al amanecer; el fuerte a media mañana, cuando la luz baña las fachadas de arenisca roja."
+   },
+   {
+    "title": "Consejos de fotografía: las «vistas del Taj» desde el fuerte",
+    "content": "Para los fotógrafos, el Fuerte de Agra ofrece algunas de las mejores tomas «contextuales» del Taj Mahal.\n\n- **La ventana del Musamman Burj:** busca los pequeños arcos de mármol que enmarcan el Taj Mahal a lo lejos. Ajusta la apertura a f/11 para mantener nítidos tanto el mármol del primer plano como el Taj distante.\n- **Las terrazas:** desde las terrazas superiores del Khas Mahal se ve el Taj Mahal elevándose desde la orilla del Yamuna. Usa un objetivo de 70-200 mm para comprimir la distancia y hacer que el Taj parezca enorme tras las almenas rojas del fuerte.\n- **Los arcos de arenisca roja:** aprovecha las sombras profundas de los arcos del Diwan-i-Aam para crear siluetas de tus acompañantes contra los patios bañados por el sol."
+   },
+   {
+    "title": "Preguntas estratégicas: a fondo",
+    "content": "1. **¿Cuánto se tarda en ver el Fuerte de Agra?**\nCalcula al menos 2,5-3 horas. La distancia entre la entrada y los palacios más alejados es considerable y hay mucho terreno que recorrer.\n2. **¿Hace mucho calor dentro del fuerte?**\nSí, la arenisca roja absorbe el calor. En verano (abril-junio), visítalo antes de las 10:30. Los palacios de mármol son naturalmente más frescos por su cercanía al río.\n3. **¿Hay baños y agua dentro?**\nLas instalaciones son limitadas una vez pasada la puerta principal. Recomendamos usar los aseos junto a la taquilla antes de entrar.\n4. **¿Es accesible en silla de ruedas?**\nParcialmente. Hay rampas en la puerta principal, pero muchos palacios interiores tienen suelos de piedra irregulares y escalones.\n5. **¿Cuál es la mejor forma de llegar?**\nEn Uber o e-rickshaw. No intentes ir andando desde el Taj Mahal (2,5 km): la carretera está muy transitada y polvorienta.\n6. **¿Puedo ver el diamante Koh-i-Noor?**\nNo, forma parte de las Joyas de la Corona británica. Pero puedes ver la sala del trono donde se guardaba."
+   },
+   {
+    "title": "Información práctica para 2026",
+    "content": "**Entradas:** como en el Taj Mahal, las entradas del Fuerte de Agra son ahora solo digitales. Escanea el código QR de la puerta o reserva en el portal del ASI. Si compraste una entrada «combinada» en otro sitio, asegúrate de tener el código QR correcto a mano.\n\n**Seguridad:** control de tipo aeropuerto. No se permiten mochilas, trípodes ni cargadores. Lleva solo lo imprescindible.\n\n**Calzado:** caminarás varios kilómetros. Usa zapatos cómodos. A diferencia del Taj, no hace falta descalzarse salvo en algunas zonas de oración en activo."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Puedo ver el Fuerte de Agra en una excursión desde Delhi?",
+    "a": "Sí, el Fuerte de Agra está en cualquier buen itinerario de un día. Las opciones más rápidas y cómodas son la [excursión al Taj Mahal y Agra en coche desde Delhi](/india/agra/taj-mahal-return-guided-tour) por la Yamuna Expressway, o la [ida y vuelta Delhi–Agra en tren Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train), el tren más rápido de India, con billetes confirmados gestionados por nosotros."
+   },
+   {
+    "q": "¿Merece la pena el Fuerte de Agra si ya he visto el Taj Mahal?",
+    "a": "Por supuesto. La mayoría de los viajeros encuentra el interior del Fuerte de Agra **más variado arquitectónicamente** que el Taj. El Taj es una sola tumba; el fuerte es una ciudad de 38 hectáreas con palacios, mezquitas, salas de audiencia y cámaras del tesoro de cuatro emperadores mogoles. Es el lado «humano» de la historia mogol: donde vivieron, gobernaron y, en el caso de Shah Jahan, pasaron sus últimos años contemplando el Taj desde el cautiverio."
+   },
+   {
+    "q": "¿Abre el Fuerte de Agra los viernes?",
+    "a": "Sí, **todos los días de la semana, incluidos los viernes**. Como el [Taj Mahal cierra los viernes](/india/agra/is-taj-mahal-closed-on-friday), el fuerte se convierte en el ancla de cualquier itinerario de viernes. Llega pronto (8:00), porque ese día hay más gente."
+   },
+   {
+    "q": "¿Cuál es el precio de entrada al Fuerte de Agra en 2026?",
+    "a": "**600 ₹ para turistas extranjeros** y 50 ₹ para ciudadanos indios (pago solo digital). Las entradas se compran online; no se acepta efectivo en la puerta. La entrada es válida solo el día de la compra."
+   },
+   {
+    "q": "¿Cuánto se tarda en visitar el Fuerte de Agra?",
+    "a": "Calcula **2,5-3 horas** para una visita completa. El fuerte ocupa 38 hectáreas con grandes distancias entre el Jahangiri Mahal, el Khas Mahal, el Musamman Burj, el Diwan-i-Aam y el Diwan-i-Khas. Una visita rápida (1,5 horas) cubre lo principal pero se pierde los detalles que hacen excepcional al fuerte."
+   },
+   {
+    "q": "¿Se puede ver el Taj Mahal desde el Fuerte de Agra?",
+    "a": "Sí, el **Musamman Burj** (torre octogonal de mármol) ofrece una vista perfectamente enmarcada del Taj Mahal al otro lado del río Yamuna. Es la misma vista que tuvo Shah Jahan durante sus 8 años de encierro por su hijo Aurangzeb. Las terrazas del Khas Mahal también ofrecen vistas al Taj. Lleva un teleobjetivo (70-200 mm) para las mejores fotos."
+   },
+   {
+    "q": "¿Cuál es la mejor hora del día para visitar el Fuerte de Agra?",
+    "a": "**Media mañana (9:00-11:00)**, cuando la arenisca roja brilla con la luz más cálida. Evita el mediodía (12:00-14:00), cuando el sol calienta la piedra y las temperaturas interiores son extremas, sobre todo de abril a junio. El fuerte cierra al atardecer."
+   },
+   {
+    "q": "¿Necesito guía para el Fuerte de Agra?",
+    "a": "**Muy recomendable.** La historia del fuerte abarca cuatro emperadores a lo largo de 200 años: los secretos acústicos del Diwan-i-Khas, la fontanería oculta y el lugar exacto donde se guardó el Koh-i-Noor son detalles que solo un guía experto puede revelar. Nuestras [visitas al Fuerte de Agra](/india/agra) lo combinan con el Taj Mahal para un contexto histórico completo."
+   },
+   {
+    "q": "¿Es accesible el Fuerte de Agra en silla de ruedas?",
+    "a": "**Parcialmente.** La entrada principal (puerta Amar Singh) tiene rampas, pero muchos palacios interiores tienen suelos de piedra irregulares y escalones. Las terrazas superiores con las mejores vistas al Taj requieren subir escaleras. Las personas en silla de ruedas pueden acceder al patio principal y a la planta baja del Diwan-i-Aam."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {

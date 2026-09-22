@@ -2459,6 +2459,104 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "Begrenzte **Nachtbesuche** gibt es in der Vollmondnacht und je zwei Nächte davor und danach (außer freitags und im Ramadan). Nur 400 Tickets pro Nacht, 24 Stunden im Voraus im ASI-Büro nahe dem Osttor zu buchen. 30 Minuten Blick von der Marmor-Aussichtsplattform; das Grab selbst ist nicht zugänglich."
    }
   ]
+ },
+ "agra-fort": {
+  "title": "Rotes Fort von Agra, die kaiserliche rote Festung: der ultimative Guide 2026",
+  "seoTitle": "Rotes Fort Agra: Tickets, Zeiten und Sehenswertes",
+  "description": "Ticket Rotes Fort Agra 650 ₹ Ausländer / 50 ₹ Inder, geöffnet von Sonnenaufgang bis Sonnenuntergang. Die 38 Hektar große Mogulfestung, Musamman Burj und Taj-Blicke.",
+  "fastFacts": [
+   {
+    "icon": "History",
+    "label": "Dynastien",
+    "value": "Lodi, Moguln, Marathen, Briten"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Welterbe seit 1983"
+   },
+   {
+    "icon": "Clock",
+    "label": "Empfohlene Zeit",
+    "value": "2,5 bis 3 Stunden"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Einführung: mehr als eine Festung",
+    "content": "Das Taj Mahal ist ein Monument der Liebe und Trauer, das Rote Fort von Agra ein Monument reiner kaiserlicher Macht. Auf 38 Hektar am Ufer des Yamuna war diese Festung aus rotem Sandstein bis 1638 Hauptresidenz der Mogulkaiser. Weniger ein Gebäude als eine „befestigte Stadt“ in der Stadt, mit Palästen, Moscheen, Audienzhallen und Schatzkammern, die einst die Reichtümer eines Reichs bargen, das den ganzen Subkontinent umspannte.\n\n2026 zählt das Rote Fort zu den schönsten Beispielen militärischer und häuslicher Architektur weltweit. Dem anspruchsvollen Reisenden liefert es den historischen Kontext, um das Taj Mahal zu verstehen. Das Taj ohne das Fort zu sehen heißt, das Ergebnis zu sehen, ohne die Quelle zu kennen. Hier lebten und regierten die Kaiser, und hier verbrachte Shah Jahan seine letzten Jahre mit Blick auf das Marmor-Meisterwerk, das er geschaffen hatte."
+   },
+   {
+    "title": "Die historische Chronologie der roten Mauern",
+    "content": "Die Geschichte des Roten Forts spiegelt die Geschichte Indiens. Lange vor den Moguln stand hier eine Ziegelfestung namens **Badalgarh**, gehalten von der Lodi-Dynastie des Sultanats von Delhi.\n\n**Die Ära Akbars (1565–1573):**\nAls Mogulkaiser Akbar der Große seine Hauptstadt nach Agra verlegte, lag das alte Ziegelfort in Trümmern. Er ordnete einen massiven Neubau aus rotem Sandstein aus Rajasthan an. Über 4.000 Bauleute arbeiteten acht Jahre lang täglich an den Außenmauern. Akbars Architektur war robust, wehrhaft und vor allem defensiv, mit gewaltigen Bastionen und tiefen Gräben.\n\n**Die Ära Jahangirs:**\nAkbars Sohn Jahangir ergänzte viele der inneren Paläste. Sein Stil markiert den Übergang vom rein Defensiven zum Dekorativen und verbindet hinduistische und islamische Motive, am deutlichsten im Jahangiri Mahal.\n\n**Die Ära Shah Jahans:**\nShah Jahan verwandelte das Fort von einer Militärfestung in einen Palast beispiellosen Luxus. Er ließ mehrere Sandsteinbauten Akbars abreißen, um seine eigenen aus weißem Makrana-Marmor (dem Marmor des Taj Mahal) zu errichten, darunter Khas Mahal und Diwan-i-Khas.\n\n**Die Ära Aurangzebs und danach:**\nAurangzeb fügte die letzte Verteidigungsschicht hinzu, die äußeren Wälle und zusätzliche Gräben. Ironischerweise machte er das Fort auch zum Gefängnis seines eigenen Vaters Shah Jahan. Nach den Moguln wechselte das Fort zwischen Marathen und Briten und spielte im Aufstand von 1857 eine Schlüsselrolle."
+   },
+   {
+    "title": "Architektonischer Aufbau und Bauwerke, die man sehen muss",
+    "content": "Der Grundriss des Roten Forts ist ein architektonisches Puzzle, das den wechselnden Geschmack der Kaiser zeigt.\n\n- **Amar-Singh-Tor (der Eingang):** das einzige derzeit öffentlich zugängliche Tor. Ein Meisterwerk der Täuschung, mit scharfen Kurven und steilen Anstiegen gegen Elefantenangriffe.\n- **Jahangiri Mahal:** von Akbar für seinen Sohn Jahangir erbaut, der bedeutendste hinduistisch-islamische Fusionspalast. Beachten Sie die massiven Steinkonsolen und das Fehlen von Bögen, eine Anlehnung an die indische Tempelarchitektur in einem Mogulpalast.\n- **Khas Mahal:** das kaiserliche Schlafgemach Shah Jahans, mit goldbemalten Marmordecken und schmalen Schlitzen, durch die die Damen des Hofs ungesehen auf den Yamuna blicken konnten.\n- **Musamman Burj:** wohl der bewegendste Ort des Forts. In diesem achteckigen Marmorturm hielt Aurangzeb Shah Jahan unter Hausarrest. Vom Balkon aus hat man einen perfekt gerahmten Blick auf das Taj Mahal, denselben Blick, mit dem der sterbende Kaiser acht Jahre lebte.\n- **Diwan-i-Aam (öffentliche Audienzhalle):** eine riesige Halle, in der der Kaiser auf einem Thron aus Edelsteinen die Anliegen des Volkes anhörte. Die Dimension der Sandsteinpfeiler ist überwältigend.\n- **Moti Masjid (Perlenmoschee):** von Shah Jahan erbaut, eine Studie in reinem weißem Marmor, derzeit zum Schutz ihrer empfindlichen Struktur für Besucher gesperrt."
+   },
+   {
+    "title": "Strategie: sollten Sie einen Guide nehmen?",
+    "content": "Das Rote Fort lässt sich allein erkunden, doch ein lizenzierter Historiker macht den Mogulhof lebendig, besonders in Verbindung mit dem Taj Mahal. Für ein nahtloses Erlebnis verbindet unsere [geführte Tour Taj Mahal und Rotes Fort](/india/agra/taj-mahal-agra-fort-guided-tour) beide Monumente in einem sorgfältig kuratierten Besuch.\n\nEin Guide zeigt Ihnen die „geheimen“ Details: die Akustik des Diwan-i-Khas, die verborgenen Wasserleitungen der königlichen Bäder und die genaue Stelle, an der einst der Koh-i-Noor-Diamant aufbewahrt wurde. In einer so großen Anlage sorgt ein Profi dafür, dass Ihnen die historische Kontinuität nicht entgeht, die das Taj Mahal so viel bedeutsamer macht."
+   },
+   {
+    "title": "Die Freitagsregel und die Strategie",
+    "content": "Da das Taj Mahal jeden Freitag für den Tourismus geschlossen ist, verlagern viele Reisende ihren Fokus auf das Rote Fort und andere Mogul-Monumente. Wer an einem Freitag in Agra ist, sollte unsere [Agra Freitags-Tour](/india/agra/agra-friday-tour-taj-closed-alternative) erwägen, die Rotes Fort, Baby Taj und Mehtab Bagh bei Sonnenuntergang zu einem vollständigen Mogul-Erlebnis verbindet.\n\nAnders als das Taj ist das Rote Fort freitags **GEÖFFNET**. Damit ist es der Anker jedes Freitagsbesuchs. Rechnen Sie aber mit mehr Besuchern, weil alle Touristen der Stadt zum Fort strömen. Kommen Sie schon um 8 Uhr, um dem Mittagsandrang zuvorzukommen."
+   },
+   {
+    "title": "Rotes Fort oder Taj Mahal: der Vergleich",
+    "content": "Viele fragen, was besser ist. Die Antwort: zwei Seiten derselben Medaille. Das Taj Mahal handelt von einem Menschen und einem Gefühl; das Rote Fort von einer ganzen Zivilisation und ihrer politischen Maschinerie.\n\nViele Reisende erleben beide Monumente lieber in einem kuratierten Programm. Unsere [geführte Tour Taj Mahal und Rotes Fort](/india/agra/taj-mahal-agra-fort-guided-tour) optimiert das Timing, meidet Stoßzeiten und schafft historische Kontinuität zwischen den beiden UNESCO-Stätten.\n\n**Wesentliche Unterschiede:**\n- **Größe:** Das Fort ist deutlich größer und verlangt viel mehr Gehen.\n- **Ästhetik:** Das Taj ist monochrom und ätherisch; das Fort lebendig und erdig.\n- **Fotografie:** Das Taj ist bei Sonnenaufgang am schönsten; das Fort am späten Vormittag, wenn das Licht auf die roten Sandsteinfassaden fällt."
+   },
+   {
+    "title": "Fototipps: die „Taj-Blicke“ vom Fort",
+    "content": "Für Fotografen bietet das Rote Fort einige der besten „Kontext“-Aufnahmen des Taj Mahal.\n\n- **Das Fenster des Musamman Burj:** Suchen Sie die kleinen Marmorbögen, die das ferne Taj Mahal rahmen. Blende f/11, damit Vordergrundmarmor und fernes Taj scharf bleiben.\n- **Die Terrassen:** Von den oberen Terrassen des Khas Mahal sieht man das Taj Mahal vom Yamuna-Ufer aufragen. Ein 70-200-mm-Objektiv komprimiert die Distanz und lässt das Taj hinter den roten Zinnen riesig erscheinen.\n- **Die roten Sandsteinbögen:** Nutzen Sie die tiefen Schatten der Bögen des Diwan-i-Aam für Silhouetten Ihrer Begleiter vor den sonnigen Höfen."
+   },
+   {
+    "title": "Strategische FAQ: im Detail",
+    "content": "1. **Wie lange dauert der Besuch des Roten Forts?**\nMindestens 2,5 bis 3 Stunden. Die Entfernung vom Eingang zu den entferntesten Palästen ist beträchtlich.\n2. **Ist es im Fort sehr heiß?**\nJa, der rote Sandstein speichert Hitze. Im Sommer (April bis Juni) vor 10:30 Uhr besuchen. Die Marmorpaläste sind wegen der Flussnähe natürlich kühler.\n3. **Gibt es Toiletten und Wasser?**\nHinter dem Haupttor sind die Einrichtungen begrenzt. Nutzen Sie die Toiletten nahe dem Ticketschalter vor dem Eintritt.\n4. **Ist das Fort rollstuhlgerecht?**\nTeilweise. Am Haupttor gibt es Rampen, doch viele innere Paläste haben unebene Steinböden und Stufen.\n5. **Wie kommt man am besten hin?**\nMit Uber oder E-Rikscha. Versuchen Sie nicht, vom Taj Mahal zu laufen (2,5 km): Die Straße ist stark befahren und staubig.\n6. **Kann ich den Koh-i-Noor-Diamanten sehen?**\nNein, er gehört zu den britischen Kronjuwelen. Sie sehen aber den Thronsaal, in dem er einst aufbewahrt wurde."
+   },
+   {
+    "title": "Praktische Hinweise für 2026",
+    "content": "**Tickets:** Wie beim Taj Mahal sind Tickets für das Rote Fort nur noch digital erhältlich. QR-Code am Tor scannen oder über das ASI-Portal vorbuchen. Wer anderswo ein „Kombi“-Ticket gekauft hat, sollte den richtigen QR-Code bereithalten.\n\n**Sicherheit:** Kontrolle wie am Flughafen. Keine Rucksäcke, Stative oder Ladegeräte erlaubt. Nur das Nötigste mitnehmen.\n\n**Schuhe:** Sie sind mehrere Kilometer zu Fuß unterwegs. Tragen Sie bequeme Schuhe. Anders als im Taj müssen Sie die Schuhe nur in wenigen aktiven Gebetsbereichen ausziehen."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Kann ich das Rote Fort auf einem Tagesausflug von Delhi sehen?",
+    "a": "Ja, das Rote Fort gehört zu jedem guten Tagesprogramm. Die schnellsten bequemen Optionen sind die [Taj Mahal und Agra Tagestour mit dem Auto ab Delhi](/india/agra/taj-mahal-return-guided-tour) über den Yamuna Expressway oder die [Hin- und Rückfahrt Delhi–Agra mit dem Gatimaan Express](/india/agra/delhi-agra-round-trip-gatimaan-train), Indiens schnellstem Zug, mit für Sie organisierten bestätigten Tickets."
+   },
+   {
+    "q": "Lohnt sich das Rote Fort, wenn ich das Taj Mahal gesehen habe?",
+    "a": "Absolut. Die meisten Reisenden finden das Innere des Roten Forts **architektonisch vielfältiger** als das Taj. Das Taj ist ein einzelnes Grab; das Fort ist eine 38 Hektar große Stadt mit Palästen, Moscheen, Audienzhallen und Schatzkammern von vier Mogulkaisern. Es zeigt die „menschliche“ Seite der Mogul-Geschichte: wo sie lebten, regierten und, im Fall Shah Jahans, ihre letzten Jahre mit Blick auf das Taj in Gefangenschaft verbrachten."
+   },
+   {
+    "q": "Ist das Rote Fort freitags geöffnet?",
+    "a": "Ja, **an jedem Tag der Woche, auch freitags**. Da das [Taj Mahal freitags geschlossen ist](/india/agra/is-taj-mahal-closed-on-friday), wird das Fort zum Anker jedes Freitagsprogramms. Früh kommen (8 Uhr), denn freitags ist es voller."
+   },
+   {
+    "q": "Was kostet der Eintritt zum Roten Fort 2026?",
+    "a": "**600 ₹ für ausländische Touristen** und 50 ₹ für indische Bürger (nur digitale Zahlung). Tickets müssen online gekauft werden, am Tor wird kein Bargeld angenommen. Das Ticket gilt nur am Kauftag."
+   },
+   {
+    "q": "Wie lange dauert der Besuch des Roten Forts?",
+    "a": "Planen Sie **2,5 bis 3 Stunden** für einen gründlichen Besuch. Das Fort umfasst 38 Hektar mit großen Entfernungen zwischen Jahangiri Mahal, Khas Mahal, Musamman Burj, Diwan-i-Aam und Diwan-i-Khas. Ein eiliger Besuch (1,5 Stunden) deckt die Höhepunkte ab, verpasst aber die Details, die das Fort so besonders machen."
+   },
+   {
+    "q": "Kann ich das Taj Mahal vom Roten Fort aus sehen?",
+    "a": "Ja, der **Musamman Burj** (achteckiger Marmorturm) bietet einen perfekt gerahmten Blick auf das Taj Mahal über den Yamuna. Es ist derselbe Blick, den Shah Jahan während seiner 8-jährigen Gefangenschaft durch seinen Sohn Aurangzeb hatte. Auch die Terrassen des Khas Mahal bieten Taj-Blicke. Ein Zoom (70-200 mm) liefert die besten Fotos."
+   },
+   {
+    "q": "Welche Tageszeit ist die beste für das Rote Fort?",
+    "a": "**Später Vormittag (9 bis 11 Uhr)**, wenn der rote Sandstein im Licht am wärmsten leuchtet. Meiden Sie die Mittagszeit (12 bis 14 Uhr), wenn die Sonne den Stein aufheizt und es drinnen extrem heiß wird, besonders April bis Juni. Das Fort schließt bei Sonnenuntergang."
+   },
+   {
+    "q": "Brauche ich einen Guide für das Rote Fort?",
+    "a": "**Sehr empfehlenswert.** Die Geschichte des Forts umfasst vier Kaiser über 200 Jahre: Die akustischen Geheimnisse des Diwan-i-Khas, die verborgenen Wasserleitungen und die genaue Stelle des Koh-i-Noor sind Details, die nur ein erfahrener Guide enthüllt. Unsere [Touren zum Roten Fort](/india/agra) verbinden es mit dem Taj Mahal für den vollständigen historischen Kontext."
+   },
+   {
+    "q": "Ist das Rote Fort rollstuhlgerecht?",
+    "a": "**Teilweise.** Der Haupteingang (Amar-Singh-Tor) hat Rampen, aber viele innere Paläste haben unebene Steinböden und Stufen. Die oberen Terrassen mit den besten Taj-Blicken erfordern Treppensteigen. Rollstuhlfahrer erreichen den Haupthof und das Erdgeschoss des Diwan-i-Aam."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
