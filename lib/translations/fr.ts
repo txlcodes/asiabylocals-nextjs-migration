@@ -4110,6 +4110,111 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée"
   ]
  },
+ "western-group-of-temples-guided-tour": {
+  "title": "Secrets de Khajuraho : voyage à travers l'art sacré et ses récits",
+  "metaTitle": "Khajuraho avec guide : groupes ouest et est, temples UNESCO",
+  "metaDescription": "Visite privée des temples de Khajuraho avec guide local : groupe ouest, groupe est, temples hindous et jaïns, mythologie et art médiéval indien.",
+  "shortDescription": "Explorez les magnifiques temples de Khajuraho avec un guide local compétent. Découvrez le spectaculaire groupe ouest et le paisible groupe est, admirez leurs sculptures et leur architecture minutieuses, et plongez dans les récits des traditions hindoues et jaïnes, la mythologie, la vie quotidienne et l'art indien médiéval. Allez au-delà des célèbres sculptures érotiques pour comprendre le sens profond de ce site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Entrez dans le monde fascinant de Khajuraho et découvrez l'un des plus grands ensembles d'architecture de temples médiévaux d'Inde avec un guide local compétent. Cette visite privée vous emmène au-delà des sculptures célèbres, à la rencontre de l'histoire, de la mythologie, des traditions religieuses et des prouesses artistiques qui font la singularité de Khajuraho.\n\nVous commencez par le magnifique groupe ouest, qui réunit certains des monuments les plus spectaculaires du site, dont le temple de Kandariya Mahadeva, le temple de Lakshmana, le temple de Devi Jagadambi et le temple de Chitragupta. Vous admirez les extraordinaires sculptures de dieux et de déesses, de musiciens, de danseuses, de créatures mythiques, de scènes de la vie quotidienne et de représentations symboliques, tout en comprenant la conception de ces temples et le sens de leurs sculptures.\n\nVous poursuivez par le groupe est, où vous découvrez des temples hindous et jaïns magnifiquement conservés dans un cadre plus calme. Vous visitez des monuments importants comme les temples de Parsvanatha, de Ghantai, d'Adinatha et de Vamana, et découvrez la coexistence des traditions religieuses dans le Khajuraho médiéval.\n\nVotre guide local explique les récits et les détails faciles à manquer lors d'une visite en solo, pour comprendre Khajuraho non pas comme une simple collection de sculptures, mais comme une expression vivante de l'art, de la spiritualité, de la culture et de l'architecture de l'Inde ancienne. Idéal pour les voyageurs qui souhaitent une compréhension plus profonde et plus significative du site.",
+  "highlights": [
+   "Le magnifique groupe ouest de Khajuraho et ses temples emblématiques",
+   "Les récits, la mythologie et les détails cachés derrière les sculptures",
+   "Le paisible groupe est, avec ses temples jaïns et hindous"
+  ],
+  "included": [
+   "Guide professionnel"
+  ],
+  "notIncluded": [
+   "Billet d'entrée",
+   "Repas",
+   "Dépenses personnelles"
+  ]
+ },
+ "khajuraho-group-of-monuments-guided-tour": {
+  "title": "Réservez un guide officiel pour la visite de Khajuraho",
+  "metaTitle": "Guide officiel à Khajuraho : groupes de temples ouest et est",
+  "metaDescription": "Visite privée de 4 heures à Khajuraho avec guide agréé : temples du groupe ouest, temples jaïns du groupe est et découverte de la vie rurale locale.",
+  "shortDescription": "Découvrez le charme intemporel de Khajuraho lors d'une captivante visite privée de 4 heures, pensée pour le confort et la découverte, avec un guide local agréé. Le guide vous retrouve à l'entrée des temples ou en chemin.",
+  "fullDescription": "Visite privée de Khajuraho en 4 heures.\n\n**Prise en charge et présentation**\nVotre visite commence par une prise en charge confortable à votre hôtel de Khajuraho en voiture privée climatisée (si l'option avec voiture est réservée). Vous rencontrez votre guide professionnel, qui présente brièvement l'histoire de la dynastie Chandela et l'importance de ce site du patrimoine mondial de l'UNESCO.\n\n**Groupe ouest des temples (environ 2 heures)**\nVous commencez par le célèbre ensemble de monuments de Khajuraho (groupe ouest), la partie la plus connue et la mieux conservée. Vous visitez le temple de Kandariya Mahadev, dédié au dieu Shiva, réputé pour sa haute flèche et ses sculptures minutieuses, puis les temples de Lakshmana et de Devi Jagdamba, admirés pour leurs fines sculptures illustrant mythologie, vie quotidienne et art symbolique.\n\n**Temples est et jaïns (environ 1 heure)**\nVous poursuivez par le groupe est, dont le temple de Parsvanath, remarquable par ses sculptures jaïnes détaillées et son cadre paisible.\n\n**Culture locale et retour (environ 1 heure)**\nVous traversez le village voisin pour découvrir la vie rurale et l'artisanat. Votre guide partage ses éclairages culturels avant de vous raccompagner confortablement à votre hôtel, au terme d'une belle expérience patrimoniale.",
+  "highlights": [
+   "Les sculptures détaillées et expressives des temples de Khajuraho",
+   "L'ensemble de monuments de Khajuraho, inscrit à l'UNESCO",
+   "Le site avec des guides officiels"
+  ],
+  "included": [
+   "Service de guide touristique",
+   "Voiture pour les visites avec prise en charge et retour (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner"
+  ]
+ },
+ "gwalior-fort-heritage-walking-tour": {
+  "title": "Lucknow : balade patrimoniale, Bara Imambara et Rumi Darwaza",
+  "metaTitle": "Lucknow à pied : Bara Imambara, Bhool Bhulaiya, Rumi Darwaza",
+  "metaDescription": "Balade patrimoniale de 5 heures à Lucknow avec guide local : Bara Imambara, labyrinthe Bhool Bhulaiya, Chota Imambara, Rumi Darwaza et dégustations de street food.",
+  "shortDescription": "Découvrez la cité des Nawabs avec un guide local du patrimoine. Visitez les monuments emblématiques de l'époque moghole, goûtez l'authentique cuisine awadhi et plongez dans le riche héritage culturel de cette ville magnifique.",
+  "fullDescription": "Découvrez l'envoûtante ville de Lucknow, connue comme la cité des Nawabs, lors de cette balade patrimoniale immersive de 5 heures menée par un guide local passionné.\n\nVous commencez par le magnifique Bara Imambara, l'une des plus grandes structures au monde construites sans support architectural européen. Vous vous émerveillez devant le Bhool Bhulaiya, le labyrinthe de ses étages supérieurs.\n\nVous visitez ensuite le Chota Imambara, richement décoré, avec ses superbes lustres et ses intérieurs dorés. Vous franchissez l'emblématique Rumi Darwaza, porte monumentale devenue le symbole de Lucknow.\n\nVous terminez à la British Residency, témoignage poignant du soulèvement de 1857. Tout au long de la balade, votre guide raconte la culture nawabi, l'architecture moghole et le rôle décisif de Lucknow dans l'histoire indienne.\n\nDes arrêts facultatifs de street food sont prévus en chemin, pour goûter les célèbres kebabs lucknawis et la kulfi.",
+  "highlights": [
+   "Le mystérieux labyrinthe Bhool Bhulaiya du Bara Imambara",
+   "La traversée de l'emblématique porte Rumi Darwaza",
+   "Les authentiques kebabs lucknawis et la street food",
+   "La culture nawabi et l'architecture moghole racontées par un expert local"
+  ],
+  "included": [
+   "Guide patrimonial professionnel anglophone",
+   "Billets d'entrée de tous les monuments",
+   "Eau en bouteille",
+   "Dégustations de street food (2 arrêts)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "gwalior-fort-guided-tour": {
+  "title": "Réservez un guide pour la visite de Gwalior",
+  "metaTitle": "Gwalior avec guide : fort, Jai Vilas Palace et temple du Soleil",
+  "metaDescription": "Journée guidée à Gwalior : fort de Gwalior, palais de Man Singh, temples Sas Bahu et Teli Ka Mandir, Jai Vilas Palace, temple du Soleil et Gujari Mahal.",
+  "shortDescription": "Découvrez le charme historique de Gwalior lors d'une journée guidée qui couvre ses sites les plus emblématiques. Visitez le majestueux fort de Gwalior et ses beaux édifices intérieurs comme le palais de Man Singh, le temple Sas Bahu et le Teli Ka Mandir, puis le grand Jai Vilas Palace, réputé pour son musée royal et son somptueux Durbar Hall.",
+  "fullDescription": "Explorez la ville historique de Gwalior lors d'une passionnante journée guidée qui met en valeur ses forts magnifiques, ses palais royaux, ses temples et ses lieux patrimoniaux. Connue pour son passé glorieux et son architecture saisissante, Gwalior offre un bel équilibre entre histoire, culture et spiritualité.\n\nLa journée commence par le fort de Gwalior, l'un des plus impressionnants forts de colline d'Inde, souvent surnommé le Gibraltar de l'Inde. Perché sur une colline de grès, il offre une vue panoramique sur la ville. À l'intérieur du complexe, vous découvrez le beau palais de Man Singh.\n\nVous visitez ensuite le magnifique Jai Vilas Palace, le palais de la ville, grande résidence de la famille royale Scindia. Son musée présente objets royaux et voitures d'époque.\n\nVous poursuivez par le paisible temple du Soleil, inspiré du célèbre temple de Konark, bâti en grès rouge et en marbre blanc.\n\nVous faites aussi halte au Gujari Mahal, palais historique édifié par le raja Man Singh pour la reine Mrignayani, qui abrite aujourd'hui un musée archéologique présentant sculptures et objets anciens.\n\nAu fil du parcours, vous pouvez également passer devant des sites historiques comme le tombeau de Tansen, dédié au légendaire musicien de la cour de l'empereur Akbar, et les remarquables statues jaïnes de Gopachal, taillées à même la roche.\n\nCette journée offre une belle occasion de découvrir l'héritage royal, l'histoire fascinante et la beauté culturelle de Gwalior avec un guide local compétent.",
+  "highlights": [
+   "Gwalior avec un guide local",
+   "La grandeur du fort de Gwalior et son architecture minutieuse",
+   "Le temple du Soleil et son cadre paisible au coucher du soleil"
+  ],
+  "included": [
+   "Service de guide agréé"
+  ],
+  "notIncluded": [
+   "Tous les billets d'entrée",
+   "Voiture pour la visite de la ville (si l'option n'est pas réservée)"
+  ]
+ },
+ "junagarh-fort-spiritual-tour": {
+  "title": "Bikaner : fort de Junagarh et temple de Karni Mata",
+  "metaTitle": "Bikaner : fort de Junagarh, musée Prachina et temple des Rats",
+  "metaDescription": "Découverte du patrimoine de Bikaner en voiture climatisée avec guide : fort de Junagarh de 1593, musée Prachina et temple de Karni Mata, le temple des Rats.",
+  "shortDescription": "Vous commencez par le magnifique fort de Junagarh, l'un des rares grands forts du Rajasthan à ne pas être bâti sur une colline, entre architectures rajput et moghole. Vous poursuivez par l'étonnant temple de Karni Mata, célèbre temple des Rats, sanctuaire hindou où vivent des milliers de rats vénérés et protégés par les fidèles.",
+  "fullDescription": "Route de Bikaner à Jaisalmer, avec de belles étapes patrimoniales en chemin.\n\nVous commencez par le magnifique fort de Junagarh, l'un des rares grands forts du Rajasthan à ne pas être bâti sur une colline. Édifié en 1593, ce vaste ensemble déploie palais superbes, balcons finement sculptés, cours et salles richement décorées, entre architectures rajput et moghole.\n\nDans l'enceinte du fort, vous visitez le réputé musée Prachina, où l'on admire portraits royaux, costumes traditionnels, armes et objets rares qui donnent un aperçu du mode de vie des anciens souverains de Bikaner.\n\nVous poursuivez vers l'étonnant temple de Karni Mata, célèbre temple des Rats. Ce sanctuaire hindou abrite des milliers de rats vénérés, considérés comme sacrés et protégés par les fidèles. Vous assistez à des rituels fascinants et découvrez la portée spirituelle du lieu avant de reprendre la belle route du désert vers Jaisalmer.",
+  "highlights": [
+   "Le magnifique fort de Junagarh, édifié en 1593",
+   "L'atmosphère sacrée du temple de Karni Mata, le temple des Rats",
+   "Visites en voiture climatisée avec guide officiel"
+  ],
+  "included": [
+   "Tous les transferts et visites en véhicule privé",
+   "Péages, stationnement, indemnités de chauffeur et carburant",
+   "Guide professionnel"
+  ],
+  "notIncluded": [
+   "Hôtel",
+   "Billets d'entrée",
+   "Repas"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visite de Dharavi",
   "metaTitle": "Dharavi et Dhobi Ghat avec un guide local à Mumbai",
