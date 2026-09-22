@@ -3715,6 +3715,148 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas"
   ]
  },
+ "ajanta-caves-guided-tour": {
+  "title": "Cuevas de Ajanta y Ellora: visita guiada con recogida en la ciudad",
+  "metaTitle": "Ajanta y Ellora: visita guiada con coche privado y guía",
+  "metaDescription": "Visita guiada a las cuevas de Ellora y Ajanta: 34 templos y monasterios excavados en la roca, templo de Kailasa, cuevas budistas y jainistas, en coche privado.",
+  "shortDescription": "Descubra las cuevas de Ajanta y Ellora en una visita guiada. Recorra 34 templos y monasterios excavados en la roca, conozca su historia y su mitología y visite el templo de Kailasa. Recogida y trayecto en coche privado con conductor.",
+  "fullDescription": "Embárquese en una visita guiada envolvente a las cuevas de Ellora, Patrimonio de la Humanidad. Recorra 34 templos y monasterios excavados en la roca, cada uno muestra del arte y la arquitectura de la India antigua.\n\nComenzará en el majestuoso templo de Kailasa, una estructura monolítica dedicada al dios Shiva. Admire sus tallas minuciosas y su escala monumental, testimonio de la destreza y la dedicación de los artesanos antiguos.\n\nDespués se adentrará en las cuevas budistas, con serenas esculturas de Buda y frescos exquisitos, y conocerá su significado espiritual y las historias que cuentan.\n\nContinuará con las cuevas jainistas, conocidas por su arte y arquitectura singulares. Admire las tallas detalladas y descubra la filosofía y el modo de vida jainistas.\n\nDurante todo el recorrido, su guía compartirá relatos fascinantes sobre la historia, la mitología y la importancia cultural de cada cueva, para una comprensión más profunda de este lugar extraordinario.\n\nCon una visita guiada obtendrá conocimientos en profundidad, acceso a zonas restringidas y evitará las aglomeraciones, para una experiencia más agradable y tranquila. Planifique su visita temprano o al final del día para escapar del calor y del gentío.",
+  "highlights": [
+   "Visita guiada a las cuevas de Ajanta y Ellora con recogida en el hotel",
+   "Las cuevas de Ellora con guía privado",
+   "Las cuevas de Ellora con guía privado y recogida en el hotel"
+  ],
+  "included": [
+   "Guía turístico",
+   "Coche para las visitas con recogida y regreso"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "daulatabad-fort-half-day-tour": {
+  "title": "Aurangabad: medio día con coche privado y guía experto",
+  "metaTitle": "Aurangabad en medio día: monumentos, mercados y jardines",
+  "metaDescription": "Visita guiada de medio día por Aurangabad en coche climatizado: arquitectura mogol, lugares patrimoniales, bazares locales y jardines, con un guía narrador.",
+  "shortDescription": "Descubra los magníficos monumentos, los mercados vibrantes, los lugares históricos y los hermosos jardines de Aurangabad. Hemos reunido con cuidado esta selección en nuestra ruta por los caminos de Aurangabad, para un recorrido enriquecedor por la historia, la cultura y el patrimonio de la ciudad.",
+  "fullDescription": "Descubra los magníficos monumentos, los mercados llenos de color, los lugares históricos y los hermosos jardines de la fascinante ciudad de Aurangabad. Desde la gran arquitectura de época mogol y los sitios patrimoniales centenarios hasta los animados bazares locales y los jardines apacibles, la ciudad ofrece una estupenda mezcla de historia, cultura y vida cotidiana.\n\nHemos reunido con esmero las mejores atracciones en nuestra ruta por los caminos de Aurangabad, creando un bonito recorrido por el rico pasado y el vibrante presente de la ciudad.\n\nConocerá una arquitectura notable, el legado real de Aurangabad, el ambiente local y las historias que hay detrás de sus hitos más fascinantes, todo en una sola experiencia memorable.",
+  "highlights": [
+   "Visita guiada de medio día por Aurangabad en coche y con guía",
+   "Los lugares históricos en coche privado",
+   "El patrimonio de Aurangabad en coche"
+  ],
+  "included": [
+   "Guía narrador experimentado y cercano, con inglés e hindi",
+   "Transporte a los lugares en coche climatizado",
+   "Buenos consejos locales, recomendaciones y conversación para entender el aspecto religioso"
+  ],
+  "notIncluded": [
+   "Entradas a cualquier sitio histórico",
+   "Bebidas y comida distintas de las mencionadas"
+  ]
+ },
+ "ajanta-caves-full-day-tour": {
+  "title": "Desde Aurangabad: cuevas de Ajanta y Ellora en un día",
+  "metaTitle": "Ajanta y Ellora desde Aurangabad: jornada en coche privado",
+  "metaDescription": "Jornada completa desde Aurangabad a las cuevas de Ajanta y Ellora en coche privado climatizado con guía de habla inglesa, linterna y agua incluidas.",
+  "shortDescription": "Disfrute de una visita cómoda y personalizada con vehículo privado y guía experto de habla inglesa. Descubra la fascinante historia, la cultura y el patrimonio de cada lugar a su propio ritmo. Las entradas no están incluidas.",
+  "fullDescription": "Disfrute de una visita cómoda y personalizada con coche privado climatizado y guía experimentado de habla inglesa. Viajará a su propio ritmo mientras recorre los notables tesoros históricos y culturales de la región.\n\nSu guía experto le acompañará durante toda la visita y compartirá relatos fascinantes, datos históricos, detalles arquitectónicos y claves locales sobre cada lugar. Con transporte privado disfrutará de cómoda recogida y regreso al hotel, paradas flexibles y un trayecto relajado, sin las molestias de los grupos compartidos.\n\nDescubrirá monumentos magníficos, cuevas antiguas, arquitectura imponente y el rico patrimonio de la región, con mucho tiempo para fotografiar y recorrer los lugares con calma.",
+  "highlights": [
+   "Cuevas de Ajanta y Ellora desde Aurangabad, jornada completa",
+   "Ajanta y Ellora en un día desde Aurangabad",
+   "Las cuevas de Ajanta y Ellora en una jornada guiada"
+  ],
+  "included": [
+   "Traslados y visitas durante todo el recorrido en coche privado climatizado",
+   "Capacidad: 1 o 2 personas en sedán climatizado y 3 o 4 personas en SUV",
+   "Guía privado en inglés o multilingüe",
+   "Conductor profesional con buen hindi e inglés",
+   "También se facilita una linterna para explorar las cuevas",
+   "Todos los peajes, aparcamientos, combustible, impuestos y cargos por servicio",
+   "Botellas de agua mineral durante los trayectos"
+  ],
+  "notIncluded": [
+   "Alojamiento",
+   "Entradas a las cuevas de Ajanta o Ellora",
+   "Coste del autobús lanzadera",
+   "Comida y cena",
+   "Propinas"
+  ]
+ },
+ "calangute-beach-guided-tour": {
+  "title": "Goa: baño de barro orgánico con sauna ayurvédica tradicional",
+  "metaTitle": "Goa: baño de barro y sauna ayurvédica en Arambol",
+  "metaDescription": "Ritual de bienestar en Arambol, Goa: sauna ayurvédica de leña, baño de barro mineral orgánico, exfoliación con sal, aloe vera y baño helado opcional.",
+  "shortDescription": "Relájese y depure su cuerpo en nuestra auténtica sauna ayurvédica de leña, donde el calor suave, el vapor de hierbas y las exfoliaciones con sal rica en minerales ayudan a limpiar y renovar la piel.",
+  "fullDescription": "Viva en Goa un retiro de bienestar con baño de barro orgánico y sauna ayurvédica.\n\nEscape de las multitudes y sumérjase en una experiencia rejuvenecedora en Moksha Wellness, en Arambol, donde la naturaleza y el ayurveda se unen en un entorno tropical apacible. Este ritual único combina una sauna ayurvédica tradicional de leña, un nutritivo baño de barro mineral orgánico y una relajación serena rodeada de vegetación.\n\nTanto si busca relajación, un tratamiento natural para la piel o una actividad de bienestar memorable en Goa, esta experiencia ofrece el equilibrio perfecto entre depuración, renovación y atención plena.\n\n**Sauna ayurvédica tradicional de leña**\nComenzará con una sesión reconfortante en nuestra auténtica sauna de leña. El calor suave y el vapor de hierbas ayudan a abrir los poros, mejorar la circulación, relajar los músculos cansados y preparar el cuerpo para la terapia de barro. Se facilitan exfoliantes de sal mineral natural para exfoliar y limpiar la piel en profundidad.\n\n**Baño de barro mineral orgánico**\nCubra su cuerpo con barro orgánico rico en nutrientes procedente de minerales naturales. Al secarse, ayuda a extraer toxinas, elimina impurezas, nutre la piel y deja el cuerpo fresco, suave y naturalmente radiante.\n\n**Tratamiento refrescante de aloe vera (opcional)**\nComplete la experiencia con una aplicación calmante de gel fresco de aloe vera para refrescar, hidratar y sosegar la piel tras el barro y la sauna.\n\n**Baño helado (opcional)**\nCierre su ritual con una inmersión fría reconfortante. El baño helado estimula la circulación, reduce la fatiga muscular, aumenta la energía y deja una sensación de plena revitalización.\n\n**Descanso en un espacio tropical**\nRelájese en nuestra zona de descanso al aire libre, rodeada de palmeras y naturaleza. Disfrute del ambiente sereno y reconecte consigo mismo en uno de los entornos de bienestar más apacibles de Goa.",
+  "highlights": [
+   "Baño de barro ayurvédico privado y sauna de hierbas en Arambol",
+   "Baño de barro orgánico relajante y vapor ayurvédico en Arambol",
+   "Terapia de barro orgánico y sauna ayurvédica en Arambol"
+  ],
+  "included": [
+   "Ritual de baño de barro rico en minerales",
+   "Vapor botánico ayurvédico",
+   "Sesión guiada de yoga o estiramientos sobre el suelo del bosque",
+   "Anfitrión de bienestar (inglés, hindi; ruso o alemán a petición)",
+   "Infusión de hierbas",
+   "Zona de exfoliación con sal",
+   "Toallas"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta a Moksha Wellness",
+   "Ropa personal y esterillas de yoga (opcional traerlas)",
+   "Comidas",
+   "Propinas (opcionales)"
+  ]
+ },
+ "basilica-of-bom-jesus-walking-tour": {
+  "title": "Goa: paseo por Panaji, patrimonio colonial y Barrio Latino",
+  "metaTitle": "Panaji a pie: Fontainhas, herencia portuguesa y música goana",
+  "metaDescription": "Paseo guiado por Fontainhas, el Barrio Latino de Panaji: casas portuguesas, capilla de San Sebastián, panadería histórica y encuentro con un músico goano.",
+  "shortDescription": "Disfrute de un paseo tranquilo por el histórico Barrio Latino de Panjim, donde las calles llenas de color rebosan arte, música y encanto portugués. Descubra el fascinante pasado colonial de Goa mientras admira casas patrimoniales bien conservadas, callejones pintorescos y elegante arquitectura de época colonial.",
+  "fullDescription": "Encuentre a su guía local experto en la Oficina Central de Correos de Panjim, cerca del distrito de Mala, y comience un recorrido fascinante por Fontainhas, el Barrio Latino más antiguo y extenso de Asia. Pasee por sus calles estrechas y coloridas, con casas de estilo portugués bien conservadas, balcones con encanto y murales vibrantes, y descubra una cara más tranquila y auténtica de Goa.\n\nFundado a finales del siglo XVIII, Fontainhas toma su nombre de la palabra portuguesa que significa «pequeña fuente», inspirada en los manantiales naturales que bajan de las cercanas colinas de Altinho. Hoy el barrio sigue reflejando su herencia portuguesa en su arquitectura, sus nombres de calles y su atmósfera única.\n\nEl recorrido empieza en Tobacco Square, donde su guía le introducirá en la historia del dominio portugués en Goa y compartirá relatos del pasado colonial de la ciudad. Pasará junto a la histórica iglesia de Santo Tomás antes de detenerse en la famosa panadería del 31 de enero, una de las más antiguas de Panjim, donde podrá probar un aperitivo local tradicional.\n\nContinuará por los callejones pintorescos hasta la encantadora capilla de San Sebastián, un lugar muy apreciado por su entorno apacible y su arquitectura colonial. Por el camino admirará edificios patrimoniales notables como el Panjim Inn, la Fundação Oriente y la Galerie Gitanjali, que muestran el legado artístico y cultural del barrio.\n\nAntes de concluir, visitará la casa de un reconocido músico goano para descubrir cómo las tradiciones portuguesas han influido en la música y la cultura de Goa. Si el tiempo lo permite, hará una última parada en el taller de un artesano especializado en recuerdos de cerámica hechos a mano, una ocasión perfecta para llevarse una pieza única.\n\nEl recorrido termina con un agradable paseo de vuelta al punto de encuentro inicial.",
+  "highlights": [
+   "Paseo patrimonial por Panaji con guía local, recorriendo el encantador Barrio Latino",
+   "Fontainhas, el histórico Barrio Latino de Panaji",
+   "El encanto atemporal del Barrio Latino de Panaji"
+  ],
+  "included": [
+   "Guía local de habla inglesa",
+   "Entrada a casas patrimoniales",
+   "Encuentro con un reconocido músico goano"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida y bebidas adicionales",
+   "Recuerdos y artículos de carácter personal"
+  ]
+ },
+ "baga-beach-half-day-tour": {
+  "title": "Norte de Goa: visita guiada de medio día o día completo, todo incluido",
+  "metaTitle": "Norte de Goa: iglesias de Old Goa, Panjim y Fontainhas en coche",
+  "metaDescription": "Visita privada por el norte de Goa en coche climatizado: basílica de Bom Jesus, catedral Sé, iglesia de Panjim, mercado local y Barrio Latino de Fontainhas.",
+  "shortDescription": "Descubra la animada belleza del norte de Goa en una visita privada de medio día. Viaje con la comodidad de un vehículo climatizado, con recogida y regreso al hotel, mientras conoce las atracciones más populares de la región.",
+  "fullDescription": "**Visita de medio día por el norte de Goa (4 horas)**\n\nSu visita privada comienza con una cómoda recogida en su hotel del norte de Goa en un vehículo climatizado. Descubrirá la rica herencia portuguesa de la región, su cultura vibrante y sus hitos históricos en un recorrido cuidadosamente planificado.\n\n**1. Las iglesias históricas de Old Goa**\nEmpezará en Old Goa, en su día capital de la India portuguesa. Visitará la magnífica basílica de Bom Jesus, la gran catedral Sé y las ruinas históricas de la torre de San Agustín. Admire su arquitectura impresionante mientras conoce el fascinante pasado colonial de Goa.\n\n**2. La iglesia icónica de Panjim**\nContinuará hasta Panjim para detenerse en la hermosa iglesia de Nuestra Señora de la Inmaculada Concepción. Situada en lo alto de una colina, con su imponente fachada blanca y su elegante escalinata, es una de las iglesias más fotografiadas de Goa.\n\n**3. El mercado local de Panjim**\nPasee con calma por el bullicioso mercado de Panjim, donde podrá ver artesanía tradicional, especias, productos de anacardo, dulces locales, recuerdos y otras especialidades goanas mientras vive el día a día local.\n\n**4. El Barrio Latino de Fontainhas**\nCerrará la visita con un paseo relajado por Fontainhas, el encantador Barrio Latino de Goa. Recorrerá sus callejones estrechos con casas de colores de época portuguesa, cafés con encanto y edificios patrimoniales que reflejan la singular influencia europea de la ciudad.\n\n**Regreso al hotel**\nTras un agradable medio día conociendo lo más destacado del norte de Goa, su conductor le llevará cómodamente de vuelta a su hotel.",
+  "highlights": [
+   "El norte de Goa en una visita privada de medio día o día completo",
+   "Lo mejor de Goa con recogida en el hotel",
+   "Las playas y los hitos famosos del norte de Goa con recogida"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Coche privado climatizado",
+   "Guía de habla inglesa",
+   "Entradas",
+   "Botella de agua",
+   "Todos los impuestos y aparcamiento"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Plantación de especias, 650 ₹ adicionales"
+  ]
+ },
  "dharavi-slum-tour": {
   "title": "Visita a Dharavi",
   "metaTitle": "Dharavi y Dhobi Ghat con guía local en Bombay",
