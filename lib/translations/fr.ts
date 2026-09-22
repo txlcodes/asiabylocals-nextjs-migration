@@ -1013,6 +1013,187 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "book-official-tour-guide-to-explore-bengaluru-city": {
+  "title": "Réservez un guide officiel pour explorer Bengaluru",
+  "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
+  "metaDescription": "Journée privée à Bengaluru avec guide local : palais de Bengaluru, palais d'été de Tipu Sultan, jardin botanique de Lalbagh, Cubbon Park et temples.",
+  "shortDescription": "Explorez Bengaluru, la vibrante cité-jardin de l'Inde, lors d'une journée privée de visites avec un guide local expérimenté. Découvrez les sites historiques, les palais magnifiques, les beaux jardins, les temples et les rues animées, tout en comprenant son riche patrimoine, sa culture et son mode de vie moderne.",
+  "fullDescription": "Découvrez Bengaluru, la dynamique capitale du Karnataka, lors d'une journée privée de visites accompagnée d'un guide local expérimenté. La ville est connue comme la cité-jardin de l'Inde.\n\nVous commencez par le **palais de Bengaluru**, l'un des sites patrimoniaux les plus impressionnants de la ville. Inspiré du château de Windsor, il se prête aux récits de votre guide sur la famille royale Wadiyar et l'histoire des lieux.\n\nVous poursuivez par le **palais d'été de Tipu Sultan**, monument historique important associé à ce souverain. Bâti en grande partie en bois, il présente une architecture indo-islamique caractéristique, des piliers sculptés, des balcons et des jardins bien entretenus. Vous découvrez Tipu Sultan et le rôle majeur de Bengaluru au temps du royaume de Mysore.\n\nVous visitez ensuite le **jardin botanique de Lalbagh**, l'une des attractions les plus célèbres de la ville. Étendu sur une vaste superficie, il est réputé pour sa collection variée de plantes tropicales et subtropicales, ses arbres centenaires, ses allées paysagères, ses parterres de fleurs et son emblématique Glass House. L'endroit idéal pour comprendre la réputation de cité-jardin.\n\nLa visite peut aussi inclure **Cubbon Park**, oasis de verdure paisible en plein centre, avec de beaux jardins, des allées de promenade et d'impressionnants bâtiments coloniaux à proximité.\n\nVous découvrez quelques-uns des beaux temples de Bengaluru, dont le **Bull Temple**, célèbre pour son énorme statue monolithique de Nandi, et le **temple ISKCON**, connu pour son architecture saisissante et son atmosphère spirituelle.\n\nSelon vos envies et le temps disponible, le programme peut aussi comprendre le **Vidhana Soudha**, le **fort de Bangalore** et d'autres sites importants.",
+  "highlights": [
+   "Une journée complète à Bengaluru avec un guide privé",
+   "Bengaluru en privé, visites de la ville avec guide local",
+   "Palais, fort, jardins, temples et bazar local"
+  ],
+  "included": [
+   "Service de guide touristique",
+   "Visite guidée du vieux Bangalore",
+   "Visite guidée du palais de Tipu, du temple de Vishnou, du fort de Bangalore et du temple jaïn",
+   "Découverte des marchés locaux"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Voiture pour les visites (si l'option n'est pas réservée)",
+   "Repas"
+  ]
+ },
+ "3-day-taj-mahal-jaipur-tour-from-bangalore-by-flight": {
+  "title": "Taj Mahal au lever du soleil et Jaipur en 3 jours depuis Bangalore, vols inclus",
+  "metaTitle": "Triangle d'Or depuis Bangalore en 3 jours : Agra et Jaipur",
+  "metaDescription": "Circuit de 3 jours depuis Bangalore avec vols : Taj Mahal au lever du soleil, fort d'Agra, Mehtab Bagh, fort d'Amber, City Palace, Hawa Mahal et Jantar Mantar.",
+  "shortDescription": "Découvrez les sites emblématiques de l'Inde lors de ce circuit de 3 jours depuis Bangalore. Vol vers Delhi, puis Agra avec le Taj Mahal au lever du soleil, le fort d'Agra et le Mehtab Bagh, avant Jaipur et son fort d'Amber, son City Palace, son Hawa Mahal et son Jantar Mantar. Visites guidées, hébergements de standing et transferts fluides.",
+  "fullDescription": "Réservez un circuit de 3 jours dans le Triangle d'Or au départ de Bangalore, vol inclus, pour découvrir ce patrimoine en toute simplicité.\n\nVous décollez de l'aéroport international Kempegowda et profitez de transferts privés vers Agra puis Jaipur. Vous assistez au magnifique lever de soleil sur le Taj Mahal, explorez le majestueux fort d'Agra et découvrez les sites emblématiques de la Ville rose : fort d'Amber, Hawa Mahal et City Palace.\n\nCette formule tout compris comprend des guides locaux experts, une voiture climatisée de standing et des hébergements 5 étoiles. Explorez l'héritage moghol et rajput de l'Inde en tout confort, sans souci d'organisation.",
+  "highlights": [
+   "Vols aller-retour Bangalore - Delhi",
+   "Visites guidées à Agra et à Jaipur",
+   "Le Taj Mahal au lever du soleil",
+   "2 nuits confortables en hébergement de standing et transferts privés"
+  ],
+  "included": [
+   "Billets d'avion aller-retour Bangalore - Delhi",
+   "Transferts privés : aéroport de Delhi vers Agra, Jaipur puis aéroport de Delhi",
+   "2 nuits en hôtel de luxe (Agra et Jaipur) avec petit-déjeuner",
+   "Guide professionnel agréé par le gouvernement",
+   "Eau en bouteille",
+   "Surchaussures",
+   "Voiturette de golf"
+  ],
+  "notIncluded": [
+   "Billets d'entrée des monuments",
+   "Déjeuner et dîner",
+   "Dépenses personnelles, pourboires et activités optionnelles"
+  ]
+ },
+ "overnight-agra-tour-from-bangalore": {
+  "title": "Agra avec nuit sur place depuis Bangalore",
+  "metaTitle": "Agra depuis Bangalore : vol, Taj Mahal au lever du soleil, hôtel",
+  "metaDescription": "Excursion de 2 jours à Agra depuis Bangalore : vols, transferts privés, Taj Mahal au lever du soleil, fort d'Agra, Mehtab Bagh et nuit d'hôtel avec petit-déjeuner.",
+  "shortDescription": "Découvrez le majestueux Taj Mahal lors de cette excursion avec nuit sur place depuis Bangalore. Vol vers Delhi, transfert à Agra, puis visites guidées du Taj Mahal, du fort d'Agra et du Mehtab Bagh. Vues au lever et au coucher du soleil, 1 nuit confortable et transferts sans souci.",
+  "fullDescription": "Réservez la meilleure formule Agra avec nuit sur place, avec vol direct depuis Bangalore. Vous décollez de l'aéroport international Kempegowda et profitez d'un transfert privé vers votre hôtel 5 étoiles.\n\nVous découvrez le Taj Mahal au lever du soleil, explorez le fort d'Agra historique et visitez le paisible Mehtab Bagh au coucher du soleil.\n\nCette formule patrimoniale tout compris comprend un guide expert, une voiture climatisée de standing et des transferts aéroport de porte à porte. Découvrez l'architecture moghole emblématique du Taj Mahal et du Baby Taj sans le stress de l'organisation.",
+  "highlights": [
+   "Vols aller-retour Bangalore - Delhi",
+   "Transferts privés vers Agra et retour",
+   "Visites guidées du Taj Mahal, du fort d'Agra et du Mehtab Bagh",
+   "1 nuit confortable à l'hôtel à Agra"
+  ],
+  "included": [
+   "Billets d'avion aller-retour Bangalore - Delhi",
+   "Transferts privés : aéroport de Delhi vers Agra puis aéroport de Delhi",
+   "Nuit en hôtel 4 étoiles à Agra avec petit-déjeuner",
+   "Guide professionnel agréé par le gouvernement",
+   "Frais de stationnement",
+   "Surchaussures",
+   "Voiturette de golf",
+   "Péages"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Droits d'entrée des monuments"
+  ]
+ },
+ "taj-mahal-agra-fort-tour-from-bangalore-by-flight": {
+  "title": "Taj Mahal et fort d'Agra depuis Bangalore en avion",
+  "metaTitle": "Taj Mahal et fort d'Agra depuis Bangalore en une journée",
+  "metaDescription": "Excursion d'une journée depuis Bangalore en avion : Taj Mahal et fort d'Agra avec guide agréé, voiture climatisée privée, entrées et déjeuner inclus.",
+  "shortDescription": "Découvrez la beauté intemporelle et le riche héritage moghol d'Agra lors d'une excursion pratique d'une journée depuis Bangalore en avion. Conçue pour ceux qui veulent voir le célèbre Taj Mahal et le fort d'Agra en un jour, sans longs trajets par la route ou le train.",
+  "fullDescription": "Vivez l'un des grands voyages patrimoniaux d'Inde avec cette excursion au Taj Mahal et au fort d'Agra depuis Bangalore en avion. Cette formule pratique d'une journée permet de visiter le magnifique Taj Mahal et le fort d'Agra historique sans long trajet routier ou ferroviaire.\n\nVous commencez par un vol matinal de Bangalore à Delhi, suivi d'un trajet confortable vers Agra par la moderne autoroute Yamuna. Vous découvrez la splendeur de marbre blanc du Taj Mahal, élevé par l'empereur moghol Shah Jahan à la mémoire de son épouse bien-aimée Mumtaz Mahal.\n\nVous visitez ensuite le grand fort d'Agra, site du patrimoine mondial de l'UNESCO, réputé pour son architecture de grès rouge et sa riche histoire moghole.\n\nAvec des transferts privés, un guide professionnel et une organisation fluide, cette journée offre une façon confortable et mémorable de découvrir deux des monuments les plus célèbres d'Inde.",
+  "highlights": [
+   "Vol aller-retour entre Bangalore et Delhi",
+   "Voiture privée climatisée pour les transferts et les visites",
+   "Visite guidée de l'emblématique Taj Mahal",
+   "Le fort d'Agra historique",
+   "Trajet par la moderne autoroute Yamuna"
+  ],
+  "included": [
+   "Billets d'avion aller-retour (Bangalore, Delhi, Bangalore)",
+   "Transferts aéroport à Bangalore et à Delhi",
+   "Voiture privée climatisée pour les visites à Agra",
+   "Guide professionnel agréé",
+   "Billets d'entrée des monuments",
+   "Déjeuner",
+   "Eau en bouteille pendant le trajet"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
+ "2-day-taj-mahal-agra-tour-from-bangalore-by-flight": {
+  "title": "Taj Mahal et Agra en 2 jours depuis Bangalore, en avion",
+  "metaTitle": "Agra en 2 jours depuis Bangalore : Taj Mahal au lever du soleil",
+  "metaDescription": "Escapade de 2 jours à Agra depuis Bangalore en avion : fort d'Agra, Mehtab Bagh, Taj Mahal au lever du soleil, Baby Taj, nuit d'hôtel et transferts privés.",
+  "shortDescription": "Envolez-vous de Bangalore pour une escapade de 2 jours à Agra. Visitez le majestueux Taj Mahal au lever du soleil, explorez le fort d'Agra et le Mehtab Bagh, et profitez d'une visite privée guidée avec vols et transferts inclus.",
+  "fullDescription": "**Jour 1 : Bangalore vers Delhi en avion, puis Agra**\n\n5h00 : prise en charge à votre hôtel ou domicile à Bangalore et transfert à l'aéroport international Kempegowda.\n6h30 : embarquement pour Delhi (environ 2h30 de vol).\n9h00 : arrivée à l'aéroport de Delhi, où votre chauffeur et votre guide vous accueillent.\n9h30 : route vers Agra par l'autoroute Yamuna (environ 3h30 à 4 heures), avec de beaux paysages de campagne et de courtes pauses.\n13h30 : arrivée à Agra et installation à l'hôtel.\n14h00 : déjeuner dans un restaurant local.\n15h00 : visite du magnifique fort d'Agra, site du patrimoine mondial de l'UNESCO et résidence des empereurs moghols.\n17h00 : découverte des jardins du Mehtab Bagh, de l'autre côté de la Yamuna, pour la vue du Taj Mahal au coucher du soleil.\n19h30 : dîner dans un restaurant de toit avec vue sur le Taj Mahal illuminé (en option).\nNuit à Agra.\n\n**Jour 2 : Taj Mahal au lever du soleil, puis Delhi et Bangalore**\n\n5h30 : visite du Taj Mahal au lever du soleil, quand le marbre blanc s'éclaire d'une douce lumière dorée, un moment saisissant. Votre guide vous raconte l'histoire d'amour de Shah Jahan et de Mumtaz Mahal.\n8h00 : retour à l'hôtel pour le petit-déjeuner et un peu de repos.\n10h00 : visite du tombeau d'Itimad-ud-Daulah, le Baby Taj, connu pour ses incrustations de marbre raffinées.\n11h00 : arrêt shopping facultatif, Agra étant réputée pour son artisanat de marbre et sa maroquinerie.\n12h00 : départ de l'hôtel et route vers Delhi.\n15h30 : arrivée à l'aéroport de Delhi.\n17h30 : embarquement pour Bangalore.\n20h30 : arrivée à Bangalore, fin de la visite avec de beaux souvenirs.",
+  "highlights": [
+   "Voiture privée climatisée pour les transferts et les visites",
+   "Guide local professionnel à Agra",
+   "1 nuit avec petit-déjeuner"
+  ],
+  "included": [
+   "Vols aller-retour Bangalore - Delhi",
+   "Voiture ou van privé climatisé pour le trajet Delhi-Agra-Delhi et les visites",
+   "1 nuit d'hôtel avec petit-déjeuner",
+   "Guide local professionnel à Agra",
+   "Billets d'entrée des monuments (inclusion optionnelle)",
+   "Eau en bouteille et rafraîchissements pendant le trajet",
+   "Péages et stationnement"
+  ],
+  "notIncluded": [
+   "Repas non mentionnés",
+   "Dépenses personnelles, pourboires et frais d'appareil photo",
+   "Assurance voyage"
+  ]
+ },
+ "taj-mahal-overnight-tour-from-bengaluru": {
+  "title": "Depuis Bangalore : Taj Mahal avec nuit sur place",
+  "metaTitle": "Taj Mahal depuis Bangalore : fort d'Agra, coucher et lever de soleil",
+  "metaDescription": "Visite d'Agra sur 2 jours au départ de Bangalore : fort d'Agra, Taj Mahal au coucher puis au lever du soleil, voiture privée et guide anglophone.",
+  "shortDescription": "Vous venez de Bangalore à Agra par vol direct. Le premier jour : fort d'Agra et coucher de soleil sur le Taj Mahal, puis nuit à Agra. Le lendemain : Taj Mahal au lever du soleil, avant un transfert vers l'aéroport d'Agra en milieu de journée pour votre vol suivant.",
+  "fullDescription": "**Jour 1**\nÀ votre arrivée à l'aéroport d'Agra, les visites commencent par le magnifique fort d'Agra, site du patrimoine mondial de l'UNESCO, réputé pour son architecture moghole et sa riche histoire. En soirée, profitez d'une vue mémorable du Taj Mahal au coucher du soleil, l'une des sept merveilles du monde. Après la visite, retour à votre hôtel pour la nuit à Agra.\n\n**Jour 2**\nTôt le matin, visitez le splendide Taj Mahal au lever du soleil, quand le monument de marbre s'illumine dans la douce lumière du matin. Après la visite, retour à l'hôtel pour le petit-déjeuner et un moment de repos. Transfert ensuite vers l'aéroport d'Agra en milieu de journée pour votre vol suivant.",
+  "highlights": [
+   "Le Taj Mahal au départ de Bangalore",
+   "Transfert de Bangalore à Agra par vol direct",
+   "Visite guidée d'Agra"
+  ],
+  "included": [
+   "Voiture Toyota pour 2 jours de visites à Agra",
+   "Toutes les taxes, péages, carburant et frais de stationnement",
+   "Prise en charge et retour à l'aéroport d'Agra",
+   "Service de guide anglophone pendant 2 jours",
+   "Voiturette de golf jusqu'au Taj Mahal",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Chambre d'hôtel",
+   "Droits d'entrée",
+   "Repas",
+   "Billets d'avion"
+  ]
+ },
+ "same-day-taj-mahal-tour-from-bengaluru": {
+  "title": "Taj Mahal depuis Bangalore en une journée avec vol",
+  "metaTitle": "Taj Mahal depuis Bangalore en une journée : fort d'Agra, Mehtab Bagh",
+  "metaDescription": "Excursion d'une journée au Taj Mahal depuis Bangalore avec vols : fort d'Agra, arrêt optionnel au Mehtab Bagh, guide agréé, entrées et déjeuner inclus.",
+  "shortDescription": "Découvrez le Taj Mahal lors d'une excursion d'une journée en avion depuis Bangalore. Visitez l'emblématique Taj Mahal, le fort d'Agra et le Mehtab Bagh avec un guide professionnel et un transport privé, pour profiter des temps forts d'Agra en une seule journée fluide.",
+  "fullDescription": "L'excursion d'une journée au Taj Mahal depuis Bangalore avec vol est idéale pour découvrir la beauté saisissante du monument sans passer plusieurs jours sur la route. Elle associe la rapidité de l'avion à un programme soigneusement pensé pour explorer les temps forts d'Agra en un seul jour.\n\nLe Taj Mahal, site du patrimoine mondial de l'UNESCO, fut élevé par l'empereur moghol Shah Jahan à la mémoire de son épouse Mumtaz Mahal. Il est admiré dans le monde entier pour son marbre blanc immaculé, ses jardins symétriques et ses sculptures minutieuses.\n\nLa visite comprend aussi le fort d'Agra, forteresse de grès rouge qui incarne la grandeur moghole, et un arrêt facultatif au Mehtab Bagh, qui offre une vue panoramique sur le Taj Mahal de l'autre côté de la Yamuna.\n\nUn guide anglophone professionnel apporte éclairages historiques et culturels tout au long de la journée. Un transport privé confortable à Agra permet des transferts fluides entre les monuments, pour profiter d'une journée complète sans se presser.",
+  "highlights": [
+   "Vols aller-retour entre Bangalore et Agra",
+   "Le Taj Mahal au lever du soleil ou en matinée",
+   "Visite guidée du fort d'Agra historique",
+   "Arrêt optionnel au Mehtab Bagh pour de superbes vues sur le Taj Mahal",
+   "Véhicule privé confortable pour les visites à Agra"
+  ],
+  "included": [
+   "Billets d'avion aller-retour",
+   "Véhicule privé climatisé pour les visites à Agra",
+   "Guide professionnel agréé",
+   "Déjeuner",
+   "Billets d'entrée du Taj Mahal et du fort d'Agra",
+   "Arrêt optionnel au Mehtab Bagh",
+   "Tous les péages, frais de stationnement et indemnités de chauffeur"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles"
+  ]
+ },
  "delhi-full-day-guided-tour": {
   "title": "Visite guidée d'une journée à Delhi",
   "metaTitle": "Guide licencié pour l'India Gate et Delhi, journée guidée",
