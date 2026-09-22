@@ -2903,6 +2903,103 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Pourboires pour le guide et le chauffeur"
   ]
+ },
+ "jaipur-sightseeing-tour": {
+  "title": "Jaipur : visite des sites en une journée",
+  "metaTitle": "Jaipur en une journée : fort d'Amber, Hawa Mahal et City Palace",
+  "metaDescription": "Visite de Jaipur en une journée avec guide anglophone et véhicule privé climatisé : fort d'Amber, City Palace, Hawa Mahal, Jal Mahal et marchés locaux.",
+  "shortDescription": "La visite de Jaipur en une journée est idéale pour découvrir l'héritage royal et la culture vibrante de la Ville rose en un seul jour. Elle couvre les sites les plus emblématiques : le fort d'Amber perché sur sa colline, le singulier Hawa Mahal et le grand City Palace, avec transport privé confortable et guide anglophone professionnel.",
+  "fullDescription": "La visite de Jaipur en une journée est un choix idéal pour découvrir le riche patrimoine, la culture vibrante et la grandeur architecturale de la Ville rose en un seul jour. Elle couvre les sites les plus emblématiques : le majestueux fort d'Amber sur sa colline, le City Palace royal et le singulier Hawa Mahal à la façade en nid d'abeille. Vous profitez aussi d'arrêts photo au pittoresque Jal Mahal et pouvez explorer les marchés locaux colorés, réputés pour l'artisanat, les textiles et les bijoux.\n\nUn guide anglophone professionnel partage récits passionnants et éclairages historiques sur chaque monument. Un transport privé climatisé confortable assure des trajets fluides entre les sites, un vrai atout quand le temps est compté. Un déjeuner rajasthani local est souvent inclus, pour goûter la cuisine authentique.\n\nCette journée complète offre un parfait équilibre entre histoire, culture et occasions de photos, pour vivre le charme royal et l'atmosphère vibrante de Jaipur de façon fluide et mémorable.",
+  "highlights": [
+   "Le majestueux fort d'Amber",
+   "L'emblématique Hawa Mahal, célèbre pour sa façade en nid d'abeille",
+   "Le City Palace royal de Jaipur, ses musées et ses cours",
+   "Arrêt photo au magnifique Jal Mahal, le palais d'Eau",
+   "Guide professionnel et véhicule privé climatisé pour un trajet confortable"
+  ],
+  "included": [
+   "Véhicule privé climatisé pendant toute la visite",
+   "Guide local professionnel",
+   "Billets d'entrée du fort d'Amber, du City Palace et du Hawa Mahal",
+   "Déjeuner dans un restaurant local (si inclus dans la formule)",
+   "Tous les péages, stationnements et indemnités de chauffeur"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
+ "ranthambore-full-day-tour": {
+  "title": "Depuis Jaipur : excursion au parc national de Ranthambore avec safari",
+  "metaTitle": "Ranthambore depuis Jaipur : safari d'une journée avec guide naturaliste",
+  "metaDescription": "Excursion d'une journée de Jaipur au parc national de Ranthambore avec safari en jeep ou canter, guide naturaliste, entrées et transferts privés inclus.",
+  "shortDescription": "Partez pour une excursion d'une journée de Jaipur au parc national de Ranthambore. Découvrez la faune variée du parc lors d'un safari et apprenez-en plus sur son écosystème, le comportement des animaux et les efforts de conservation.",
+  "fullDescription": "Vous êtes pris en charge à votre hôtel de Jaipur ou à l'aéroport, où votre guide vous accueille. Installez-vous confortablement pour une route panoramique de 3 à 4 heures jusqu'au parc national de Ranthambore, avec vues sur les collines Aravalli, de charmants villages et une belle végétation.\n\nÀ l'arrivée à Sawai Madhopur, vous partez au cœur du parc national pour un safari d'après-midi exaltant. Conduit par un guide naturaliste, vous explorez les terrains variés du parc à bord d'une jeep ouverte de 6 places ou d'un canter de 20 places.\n\nEn parcourant les pistes forestières, restez attentif aux images et aux sons de la nature sauvage. Vous pouvez croiser une faune variée : majestueux tigres du Bengale à l'ombre, crocodiles au soleil et léopards se glissant dans les broussailles. Repérez aussi de nombreux oiseaux colorés parmi les arbres, qui ajoutent à la richesse du parc.\n\nTout au long du safari, votre guide partage des éclairages passionnants sur l'écosystème du parc, le comportement des animaux et les efforts de conservation. Vous êtes ensuite raccompagné à Jaipur en fin de journée.",
+  "highlights": [
+   "La faune variée du parc national de Ranthambore lors d'un safari",
+   "Le majestueux tigre du Bengale, des crocodiles, des léopards et des ours lippus",
+   "L'écosystème du parc, le comportement des animaux et les efforts de conservation",
+   "Une belle route à travers les collines Aravalli et le Rajasthan rural",
+   "Jeep de 6 places ou canter de 20 places pour votre safari"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transfert aller-retour de Jaipur au parc national de Ranthambore",
+   "Véhicule privé climatisé",
+   "Droit d'entrée du parc national",
+   "Frais de safari",
+   "Guide naturaliste dans le parc national",
+   "Carburant, péages et taxes",
+   "Bouteille d'eau offerte"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Dépenses personnelles",
+   "Pourboires pour le chauffeur"
+  ]
+ },
+ "jaipur-same-day-tour-with-cooking-class": {
+  "title": "Jaipur : visite en une journée avec cours de cuisine",
+  "metaTitle": "Jaipur en une journée avec cours de cuisine rajasthanie",
+  "metaDescription": "Visite de Jaipur en une journée avec cours de cuisine rajasthanie : fort d'Amber, City Palace, Jantar Mantar, Hawa Mahal et repas préparé par vos soins.",
+  "shortDescription": "Découvrez la culture vibrante, l'héritage royal et les traditions culinaires de Jaipur lors de cette visite immersive de la ville associée à un cours de cuisine traditionnelle. Forts majestueux, marchés colorés, palais historiques et cuisine rajasthanie authentique : un parfait équilibre entre visites et expérience culturelle pratique.",
+  "fullDescription": "Explorez la culture vibrante, l'héritage royal et les traditions culinaires de Jaipur lors de cette visite immersive associée à un cours de cuisine traditionnelle. Surnommée la Ville rose, Jaipur est célèbre pour ses forts majestueux, ses marchés colorés, ses palais historiques et sa cuisine rajasthanie authentique.\n\nPrise en charge le matin à Jaipur\nLa visite commence le matin par une prise en charge pratique à votre hôtel, à l'aéroport ou au lieu de votre choix. Vous voyagez confortablement en véhicule climatisé avec un chauffeur professionnel pour commencer la découverte des sites historiques et culturels.\n\nFort d'Amber\nVous débutez par le magnifique fort d'Amber, sur une colline dominant le lac Maota. Ce superbe fort est connu pour son architecture impressionnante, ses grandes cours, ses incrustations de miroirs et ses beaux palais. Franchissez ses portes historiques et découvrez le mode de vie royal des souverains rajputs.\n\nArrêt au Jal Mahal\nSur le chemin du retour, arrêt devant le pittoresque Jal Mahal, le palais d'Eau, au milieu du lac Man Sagar. Une belle occasion de photo et un aperçu du passé royal de Jaipur.\n\nCity Palace et Jantar Mantar\nVous visitez ensuite le City Palace, puis le Jantar Mantar, site du patrimoine mondial de l'UNESCO et l'un des plus grands observatoires astronomiques du monde. Construit par le maharaja Jai Singh II, il abrite des instruments impressionnants conçus pour mesurer le temps, suivre les astres et observer les phénomènes célestes.\n\nArrêt photo au Hawa Mahal\nVous passez devant l'emblématique Hawa Mahal, le palais des Vents. Sa singulière structure en nid d'abeille, percée de centaines de petites fenêtres, permettait aux femmes de la cour d'observer les fêtes de la rue sans être vues.\n\nCours de cuisine traditionnelle\nAprès la découverte des monuments, direction une maison locale ou un studio de cuisine pour un cours de cuisine rajasthanie authentique. Vous apprenez à préparer des plats traditionnels avec des épices et des ingrédients locaux sous la conduite d'un hôte expérimenté : dal, chapati, curry de légumes et autres spécialités régionales. Vous découvrez les secrets des épices indiennes, les techniques de cuisson et la portée culturelle de chaque plat.\n\nDégustation de votre repas\nAprès la session, installez-vous pour savourer le délicieux repas que vous avez contribué à préparer. Une expérience chaleureuse et conviviale qui rapproche vraiment de la culture et de l'hospitalité locales.\n\nFin de la visite\nAprès cette journée mémorable de découvertes et d'apprentissage culinaire, vous êtes déposé à votre hôtel ou au lieu de votre choix à Jaipur.",
+  "highlights": [
+   "Jaipur en une journée",
+   "Le superbe patrimoine de Jaipur",
+   "Apprendre à cuisiner des plats indiens"
+  ],
+  "included": [
+   "Voiture climatisée",
+   "Droits d'entrée",
+   "Guide accompagnateur",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et le chauffeur"
+  ]
+ },
+ "jaipur-same-day-tour-from-delhi": {
+  "title": "Depuis Delhi : Jaipur en une journée",
+  "metaTitle": "Jaipur depuis Delhi en une journée : Hawa Mahal, fort d'Amber",
+  "metaDescription": "Excursion d'une journée de Delhi à Jaipur, la Ville rose : Hawa Mahal, fort d'Amber, City Palace et Jantar Mantar. Entrées, voiture climatisée et déjeuner inclus.",
+  "shortDescription": "Jaipur est la capitale de l'État indien du Rajasthan, surnommée la Ville rose car nombre de ses bâtiments sont peints en rose. Fondée en 1727 par le maharaja Sawai Jai Singh II, elle est célèbre pour son histoire, sa culture et sa belle architecture : Hawa Mahal, fort d'Amber et City Palace, sans oublier son artisanat traditionnel et ses bazars colorés.",
+  "fullDescription": "Jaipur est la capitale et la plus grande ville de l'État indien du Rajasthan. On la surnomme la Ville rose car beaucoup de ses bâtiments ont été peints en rose pour accueillir le prince de Galles en 1876, une tradition perpétuée depuis. La ville a été fondée en 1727 par le maharaja Sawai Jai Singh II, souverain rajput passionné de science, d'architecture et d'urbanisme. Jaipur est considérée comme l'une des premières villes planifiées d'Inde.\n\nJaipur est célèbre pour ses forts magnifiques, ses palais et ses monuments historiques. Parmi les attractions les plus populaires figure le Hawa Mahal, le palais des Vents, dont les centaines de petites fenêtres permettaient aux femmes de la cour d'observer la vie de la rue. Autre site majeur : le fort d'Amber, superbe forteresse de colline qui illustre la grandeur de l'architecture rajput. Le City Palace est un autre repère important, à la fois résidence royale et musée.\n\nJaipur abrite aussi le Jantar Mantar, observatoire astronomique construit par le maharaja Jai Singh II. Inscrit au patrimoine mondial de l'UNESCO, il renferme le plus grand cadran solaire en pierre du monde.\n\nAu-delà de ses monuments, Jaipur est réputée pour ses marchés colorés et son artisanat traditionnel. Vous pouvez y acheter de beaux textiles, des pierres précieuses, des bijoux, de la poterie et de l'artisanat dans des bazars animés. La ville célèbre également de nombreux festivals culturels avec ferveur.\n\nJaipur forme, avec Delhi et Agra, le célèbre Triangle d'Or. Avec sa riche culture, son héritage royal et son art de vivre, elle reste l'une des destinations les plus prisées d'Inde.",
+  "highlights": [
+   "Découvrir et comprendre l'héritage rajput",
+   "Le superbe fort d'Amber et les palais",
+   "S'immerger dans la riche culture et les traditions rajputs"
+  ],
+  "included": [
+   "Droits d'entrée",
+   "Berline climatisée",
+   "Déjeuner buffet",
+   "Guide accompagnateur"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et le chauffeur"
+  ]
  }
 };
 export const FR_PAGES: Record<string, PageT> = {
