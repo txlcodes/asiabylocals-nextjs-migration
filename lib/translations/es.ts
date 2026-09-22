@@ -1774,6 +1774,222 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas y almuerzo (si no se reserva la opción)"
   ]
  },
+ "golden-triangle-3-day-tour-from-delhi": {
+  "title": "Triángulo de Oro en 3 días",
+  "metaTitle": "Triángulo de Oro 3 días en privado: Delhi, Agra al amanecer, Jaipur, hoteles opcionales",
+  "metaDescription": "Circuito privado de 3 días por Delhi, Agra y Jaipur en coche con aire acondicionado, conductor en inglés y guías locales: Taj Mahal al amanecer, Fuerte de Agra, Fatehpur Sikri, Fuerte Amber. Hoteles de 3 a 5 estrellas opcionales.",
+  "shortDescription": "Los destinos más emblemáticos de India en un Triángulo de Oro de 3 días perfectamente planificado por Delhi, Agra y Jaipur. Magnífica arquitectura mogol, palacios reales y cultura vibrante, con una impresionante visita al Taj Mahal al amanecer. Esta opción incluye coche con aire acondicionado durante 3 días, conductor que habla inglés y servicios de guía.",
+  "fullDescription": "**Triángulo de Oro en 3 días: Delhi, Agra y Jaipur**\n\nVive la rica historia, el patrimonio real y las maravillas arquitectónicas de India en este Triángulo de Oro de 3 días perfectamente diseñado, que cubre Delhi, Agra y Jaipur. Un viaje corto pero inmersivo, ideal para quienes quieren explorar el encanto cultural del norte de India.\n\nRecogida en el lugar que desees en Delhi, Noida o Gurugram en coche privado con aire acondicionado y conductor profesional que habla inglés. Visitas en Delhi y después viaje a Agra por la Yamuna Expressway. A la llegada, registro en el hotel para pasar la noche.\n\nEl segundo día, madruga para una impresionante visita al magnífico Taj Mahal al amanecer, una de las siete maravillas del mundo, y continúa con el imponente Fuerte de Agra, una espectacular fortaleza de arenisca roja que fue residencia principal de los emperadores mogoles.\n\nTras Agra, viaje a Jaipur con parada en la histórica ciudad mogol de Fatehpur Sikri.\n\nEl último día, el encanto real de Jaipur, la ciudad rosa: el majestuoso Fuerte Amber y otros monumentos emblemáticos.\n\nTras Jaipur, regreso cómodo a Delhi o fin del circuito en Jaipur, con llegada a tu hotel o aeropuerto y maravillosos recuerdos del circuito más famoso de India.",
+  "highlights": [
+   "Viaja con total comodidad en coche privado con aire acondicionado",
+   "Triángulo de Oro privado de 3 días (Delhi–Agra–Jaipur–Delhi)",
+   "Cada ciudad con guías oficiales locales",
+   "Hoteles de 3, 4 o 5 estrellas (si se reserva la opción)"
+  ],
+  "included": [
+   "2 noches de alojamiento en hoteles (si se elige la opción con hotel)",
+   "Desayuno diario en el hotel (si se elige la opción con hotel)",
+   "Vehículo privado con aire acondicionado para todos los traslados y visitas",
+   "Visitas guiadas con guías locales expertos en cada ciudad",
+   "Lanzadera eléctrica de ida y vuelta al aparcamiento del Taj Mahal",
+   "Todos los peajes y aparcamientos",
+   "Todos los impuestos gubernamentales",
+   "Recogida y regreso en hotel o aeropuerto",
+   "Botellas de agua mineral durante los trayectos en coche",
+   "Recogida en aeropuerto, estación, hotel o cualquier lugar de Delhi, Noida o Gurugram",
+   "Atención personalizada durante todo el circuito"
+  ],
+  "notIncluded": [
+   "Propinas (opcionales)",
+   "Entradas (unos 65 USD por persona para todos los monumentos)",
+   "Almuerzos y cenas"
+  ]
+ },
+ "from-delhi-same-day-taj-mahal-fastest-train": {
+  "title": "Desde Delhi: Taj Mahal en el día en el tren más rápido de India",
+  "metaTitle": "Taj Mahal en Gatimaan Express desde Delhi: Taj, fuerte, Baby Taj, almuerzo de 5 estrellas",
+  "metaDescription": "Día guiado en Agra desde Delhi en Gatimaan Express: desayuno y cena a bordo, Taj Mahal, almuerzo en hotel de 5 estrellas, Fuerte de Agra y Baby Taj, berlina con aire acondicionado. Billetes y entradas opcionales.",
+  "shortDescription": "Viaja desde Delhi en tren de alta velocidad, el Gatimaan Express, para una visita guiada a Agra: Taj Mahal, Fuerte de Agra y Baby Taj, con almuerzo opcional en hotel de 5 estrellas y entradas.",
+  "fullDescription": "Pasa un día visitando lo mejor de Agra. Viaja en un tren superrápido desde Delhi, con desayuno a la ida y cena a la vuelta. Maravíllate con el Taj Mahal y el Fuerte de Agra y come como la realeza en un hotel de cinco estrellas de cocina variada.\n\nEmpieza en tu hotel, donde tu conductor te recoge para llevarte a la estación de Nizamuddin. Encuentra tu vagón y tus asientos con su ayuda y sal de la estación a las 8:10. Desayuna en el tren para empezar el día.\n\nLlega a Agra a las 9:50 y reúnete con tu guía frente al vagón. Sube al coche y ve a visitar el monumento más famoso y emblemático de India, el Taj Mahal. Hasta 3 horas para explorarlo.\n\nVe a un hotel de cinco estrellas de cocina variada para almorzar, prueba delicias indias y admira el restaurante de primera. Relájate hasta 1 hora durante la pausa.\n\nVisita el Fuerte de Agra, la gigantesca construcción de arenisca roja del siglo XVI. Recórrelo con tu guía durante 1 hora y haz una última parada en Itimad-ud-Daulah, el Baby Taj.\n\nRegresa a la estación de Agra y sube a tu tren hacia Delhi. Sale a las 17:50 y llega a Delhi a las 19:30. Cena en el tren para cerrar este día memorable. A la llegada a Delhi, tu conductor te espera frente al vagón y te lleva al hotel.",
+  "highlights": [
+   "Admira el Taj Mahal, Patrimonio de la Humanidad, la séptima maravilla del mundo",
+   "Visita el Fuerte de Agra, impresionante estructura mogol de arenisca roja",
+   "Viaja entre Delhi y Agra en el superrápido Gatimaan Express",
+   "Almuerzo en hotel de 5 estrellas con cocina india tradicional",
+   "Visita Itimad-ud-Daulah, el Baby Taj, y sus jardines"
+  ],
+  "included": [
+   "Billetes de tren (si se elige la opción)",
+   "Todas las entradas a los monumentos (si se elige la opción)",
+   "Berlina con aire acondicionado para las visitas en Agra",
+   "Almuerzo en hotel de 5 estrellas (si se elige la opción)",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Propinas para conductor y guías"
+  ]
+ },
+ "india-gate-triangle-guided-tour": {
+  "title": "Delhi, Agra y Jaipur: Triángulo de Oro de varios días con opciones",
+  "metaTitle": "Triángulo de Oro privado de 3 a 5 días en Toyota con chófer y guías autorizados",
+  "metaDescription": "Triángulo de Oro privado por Delhi, Agra y Jaipur en 3, 4 o 5 días: Toyota Etios o Crysta con chófer que habla inglés, guías autorizados en cada ciudad, impuestos y peajes incluidos. Hoteles y entradas opcionales.",
+  "shortDescription": "Lo mejor del norte de India con nuestro Triángulo de Oro privado por Delhi, Agra y Jaipur, con cómodo regreso a Delhi. Perfecto para viajeros que buscan flexibilidad, comodidad y una experiencia personalizada. Duración a elegir: 3, 4 o 5 días. Hoteles no incluidos; resérvalos según tus preferencias y presupuesto. 1-2 personas: berlina Toyota Etios (mejora a SUV Crysta disponible tras la reserva). 3-5 personas: amplio SUV Toyota Crysta.",
+  "fullDescription": "Este paquete está diseñado para 3 días. Puedes ampliarlo fácilmente añadiendo días según tu itinerario preferido, por un pequeño coste adicional del vehículo.\n\n**Día 1: Delhi y viaje a Agra**\nRecogida en tu hotel o en el aeropuerto de Delhi. Empieza explorando la Vieja y la Nueva Delhi con la gran Jama Masjid, un paseo en rickshaw por las animadas calles de Chandni Chowk y el Fuerte Rojo de pasada. Continúa por Nueva Delhi con la India Gate, la residencia presidencial de pasada y el Qutub Minar o la tumba de Humayun. Después, viaje a Agra por autopista (unas 3-4 horas). Registro en el hotel. Noche en Agra.\n\n**Día 2: Agra y viaje a Jaipur**\nVisita temprana al famoso Taj Mahal al amanecer, símbolo del amor y una de las siete maravillas del mundo. Regreso al hotel para desayunar y después el histórico Fuerte de Agra, sitio UNESCO que muestra la arquitectura mogol y la vida real. Tras las visitas, viaje a Jaipur y registro en el hotel. Tarde libre o visita a los mercados.\n\n**Día 3: Jaipur y regreso a Delhi**\nTras el desayuno, el magnífico Fuerte Amber en lo alto de la colina, con vistas impresionantes, sus palacios y sus patios. Parada para fotos en el emblemático Hawa Mahal (Palacio de los Vientos), y después el City Palace y el observatorio astronómico Jantar Mantar. Regreso a Delhi (unas 5-6 horas) o fin del circuito en Jaipur.",
+  "highlights": [
+   "Las ciudades patrimoniales de Delhi, Agra y Jaipur con guías locales expertos",
+   "Toyota berlina o SUV nuevo con chófer que habla inglés",
+   "Circuitos privados y personalizables",
+   "Duración a elegir de 3 a 5 días"
+  ],
+  "included": [
+   "Toyota con aire acondicionado para todo el viaje",
+   "Chófer que habla inglés",
+   "Impuestos, peajes, combustible y aparcamiento",
+   "Guías autorizados por el gobierno en Delhi, Agra y Jaipur",
+   "Hoteles (si se elige la opción)",
+   "Entradas (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Hoteles",
+   "Comidas",
+   "Entradas"
+  ]
+ },
+ "old-new-delhi-guided-tour": {
+  "title": "Desde Delhi: visita guiada a la Vieja y la Nueva Delhi",
+  "metaTitle": "Vieja y Nueva Delhi con guía: Fuerte Rojo, Jama Masjid, Chandni Chowk, India Gate",
+  "metaDescription": "Visita guiada a la Vieja Delhi mogol (Fuerte Rojo, Jama Masjid, Chandni Chowk) y a la Nueva Delhi de Lutyens (India Gate, Rashtrapati Bhavan) en coche con aire acondicionado y guía profesional. Entradas opcionales.",
+  "shortDescription": "La Nueva y la Vieja Delhi forman juntas el corazón de la capital de India. La Nueva Delhi, diseñada por arquitectos británicos a principios del siglo XX, destaca por sus amplias avenidas, su infraestructura moderna y edificios oficiales como la India Gate y el Rashtrapati Bhavan. La Vieja Delhi, fundada por el emperador mogol Shah Jahan en el siglo XVII, es famosa por sus callejuelas, mercados tradicionales, el Fuerte Rojo, la Jama Masjid, su comida callejera y sus bazares.",
+  "fullDescription": "La Nueva y la Vieja Delhi forman juntas la región capital de India y representan dos caras distintas de la historia, la cultura y el desarrollo de la ciudad.\n\nLa Nueva Delhi fue declarada oficialmente capital de la India británica en 1911, en sustitución de Calcuta. Fue diseñada por los arquitectos británicos Edwin Lutyens y Herbert Baker, con amplias avenidas, grandes edificios gubernamentales y espacios verdes. Hoy es el centro político y administrativo de India: Rashtrapati Bhavan, India Gate y el Parlamento, además de mercados modernos, hoteles y oficinas, en una de las zonas más organizadas de la capital.\n\nLa Vieja Delhi, también conocida como Shahjahanabad, fue fundada en 1648 por el emperador mogol Shah Jahan y fue capital del Imperio mogol durante muchos años. Es famosa por sus monumentos históricos, sus calles bulliciosas y su estilo de vida tradicional: el Fuerte Rojo, Patrimonio de la Humanidad, y la Jama Masjid, una de las mezquitas más grandes de India. El famoso mercado de Chandni Chowk también está aquí, conocido por sus tiendas, especias, ropa, joyas y deliciosa comida callejera.\n\nMientras la Nueva Delhi representa la planificación moderna y la administración, la Vieja Delhi refleja la rica historia, la cultura y las tradiciones del periodo mogol. Juntas muestran cómo Delhi combina su patrimonio histórico con el desarrollo moderno, una de las ciudades más importantes y vibrantes de India.",
+  "highlights": [
+   "La Vieja Delhi, fundada por Shah Jahan, refleja la historia mogol",
+   "Los colores vibrantes de las tiendas y productos del mercado de Chandni Chowk",
+   "Lugares religiosos como el Templo del Loto y la Jama Masjid",
+   "Una mezcla de lugares antiguos y modernos en la Vieja y la Nueva Delhi"
+  ],
+  "included": [
+   "Entradas incluidas (si se elige la opción)",
+   "Guía profesional",
+   "Coche con aire acondicionado",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "delhi-old-new-delhi-private-full-half-day-tour": {
+  "title": "Delhi: visita privada a la Vieja y la Nueva Delhi, día completo o medio día, con guía autorizado",
+  "metaTitle": "Vieja y Nueva Delhi en privado con guía autorizado, medio día o día completo",
+  "metaDescription": "Visita privada a Delhi con guía autorizado y transporte con aire acondicionado: Jama Masjid, rickshaw por Chandni Chowk, Bangla Sahib, Templo del Loto, tumba de Humayun, Qutub Minar, Lodhi Garden y Agrasen ki Baoli. Entradas opcionales.",
+  "shortDescription": "Visita privada guiada de medio día o día completo a la Vieja y la Nueva Delhi con transporte privado y entradas opcionales. Jama Masjid, Chandni Chowk, tumba de Humayun, Templo del Loto, India Gate, Qutub Minar y más.",
+  "fullDescription": "Una visita privada que combina lo mejor de la Vieja y la Nueva Delhi en una experiencia de medio día o día completo. Conoce la historia y la cultura de India con tu guía personal mientras descubres los principales monumentos. Elige la opción de medio día o de día completo, y la opción mejorada con entradas incluidas. Hora de recogida a elegir entre las 7:00 y las 16:00.\n\nRecogida por la mañana en tu alojamiento o directamente en el aeropuerto. Relájate en un vehículo con aire acondicionado mientras visitas la Vieja y la Nueva Delhi, según la opción reservada.\n\n**Plan para la Vieja Delhi**\nLa Jama Masjid, la mezquita más grande de India, con las explicaciones de tu guía, y después los colores y aromas del mercado de Chandni Chowk. Paseo en rickshaw por las callejuelas y el mayor mercado de especias. Vista exterior del Fuerte Rojo. Después, el Gurudwara Bangla Sahib para conocer la religión sij y la segunda cocina comunitaria más grande del mundo, que sirve unas 50.000 comidas al día.\n\n**Plan para la Nueva Delhi**\nEl espiritual Templo del Loto de la fe bahá'í, la tumba del siglo XVI del emperador Humayun y la India Gate de pasada, además del Parlamento y el Palacio Presidencial. Después, la visita más popular de Delhi, la torre del Qutub Minar, y las joyas ocultas de la Nueva Delhi: las tumbas de Lodhi Garden y Agrasen ki Baoli.\n\nAl terminar, el conductor te deja en el lugar que desees, en cualquier aeropuerto u hotel de Delhi, Gurugram, Noida, Ghaziabad o Faridabad.",
+  "highlights": [
+   "Los colores vibrantes de las tiendas y productos del mercado de Chandni Chowk",
+   "La belleza de la mezquita más grande de India, la Jama Masjid",
+   "La cultura local en el templo sij del Gurudwara Bangla Sahib",
+   "Lugares religiosos como el Templo del Loto y la Jama Masjid",
+   "Una mezcla de lugares antiguos y modernos en la Vieja y la Nueva Delhi"
+  ],
+  "included": [
+   "Recogida y regreso en hotel o aeropuerto",
+   "Transporte con aire acondicionado durante la actividad",
+   "Guía autorizado",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Paseo en rickshaw por la Vieja Delhi (si se elige la opción)",
+   "Botella de agua y paraguas",
+   "Aparcamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Comida y bebida",
+   "Propinas"
+  ]
+ },
+ "taj-mahal-tour-by-train-gatimaan": {
+  "title": "Desde Delhi: Taj Mahal en el día en tren exprés Gatimaan",
+  "metaTitle": "Taj Mahal en Gatimaan Express, billetes confirmados, guía y comidas a bordo",
+  "metaDescription": "Día en Agra desde Delhi en Gatimaan Express: billetes confirmados de ida y vuelta CC o EC, desayuno y cena a bordo, guía autorizado, coche con aire acondicionado, Taj Mahal sin colas, Fuerte de Agra y almuerzo buffet opcional.",
+  "shortDescription": "Viaje en Gatimaan Express con billetes en vagón de clase CC: una excursión fluida y cómoda de Delhi a Agra en el día con billetes confirmados de ida y vuelta. Llega a Agra en unos 80 minutos y empieza la visita guiada al famoso Taj Mahal, Patrimonio de la Humanidad y símbolo de amor eterno.",
+  "fullDescription": "Disfruta de una excursión cómoda y que ahorra tiempo de Delhi a Agra en el tren más rápido de India, el Gatimaan Express. Este circuito bien planificado es la opción perfecta para explorar los sitios patrimoniales de Agra sin largos viajes por carretera. Con billetes de tren confirmados de ida y vuelta, guía profesional, coche privado con aire acondicionado para las visitas, almuerzo buffet en un restaurante premium y comidas a bordo incluidas, promete una experiencia fluida y memorable.\n\nEl día empieza por la mañana en la estación Hazrat Nizamuddin de Delhi para tomar el tren de las 8:10. Tras localizar tu vagón reservado y tu cómodo asiento, disfruta de un desayuno recién preparado a bordo mientras viajas a Agra a alta velocidad. En solo unos 80 minutos, el tren llega a la estación de Agra Cantt a las 9:50.\n\nA la llegada, tu guía oficial te recibe frente al vagón y te acompaña a tu vehículo privado con aire acondicionado para la visita. Empieza con el magnífico Taj Mahal.\n\nTras el Taj Mahal, un delicioso almuerzo buffet en uno de los mejores restaurantes de Agra.\n\nDespués, el histórico Fuerte de Agra, otro sitio UNESCO conocido por su impresionante arquitectura de arenisca roja y su historia real mogol.\n\nMás tarde, tiempo libre en los mercados de artesanía de Agra: recuerdos de mármol, artículos de cuero, artesanía y arte tradicional.\n\nTerminadas las visitas, regreso a la estación de Agra Cantt para el tren de vuelta a Delhi, que sale a las 17:50. Cena a bordo. Llegada a la estación Hazrat Nizamuddin de Delhi a las 19:50.",
+  "highlights": [
+   "Billetes confirmados de ida y vuelta en Gatimaan Express para Delhi–Agra",
+   "Excursión de lujo a Agra desde Delhi con billetes de tren de ida y vuelta",
+   "Agra desde Delhi en 90 minutos en el superrápido Gatimaan"
+  ],
+  "included": [
+   "Billetes Gatimaan Express de ida y vuelta (Delhi–Agra–Delhi), clase CC o EC",
+   "Desayuno y cena en el tren",
+   "Recogida y regreso entre el hotel y la estación de Delhi (si se reserva la opción)",
+   "Asistencia para embarcar en la estación de Delhi (si se reserva la opción)",
+   "Recogida y regreso en la estación de Agra Cantt",
+   "Coche privado con aire acondicionado para las visitas en Agra",
+   "Guía autorizado por el gobierno",
+   "Carrito de golf hasta el Taj Mahal",
+   "Cubrezapatos y tasa de cámara",
+   "Entrada VIP sin colas y servicios de visita",
+   "Todas las entradas (si se reserva la opción)",
+   "Almuerzo en hotel de cinco estrellas (si se reserva la opción)"
+  ],
+  "notIncluded": [
+   "Entradas (si no se reserva la opción)",
+   "Almuerzo (si no se reserva la opción)",
+   "Traslado hotel–estación Hazrat Nizamuddin en Delhi (si no se reserva la opción)"
+  ]
+ },
+ "india-gate-full-day-tour": {
+  "title": "Delhi en un día completo (Nueva y Vieja Delhi)",
+  "metaTitle": "Delhi día completo: Jama Masjid, Chandni Chowk, Humayun, India Gate, Qutub Minar",
+  "metaDescription": "Día completo en Delhi con guía, transporte y entradas: Jama Masjid, rickshaw por Chandni Chowk, mercado de especias de Khari Baoli, tumba de Humayun, India Gate, Gurdwara Bangla Sahib y Qutub Minar.",
+  "shortDescription": "El rico patrimonio de Delhi: la majestuosa Jama Masjid, el bullicioso Chandni Chowk, el vibrante mercado de especias de Khari Baoli, la impresionante tumba de Humayun, la emblemática India Gate, el sereno Gurdwara Bangla Sahib y el histórico Qutub Minar, una mezcla única de historia, espiritualidad y cultura.",
+  "fullDescription": "**Mañana**\nEmpieza el día con un buen desayuno en tu hotel.\n**Jama Masjid:** la mezquita más grande de India, construida por Shah Jahan entre 1642 y 1656. Esta maravilla arquitectónica fue la mezquita imperial de los emperadores mogoles y símbolo del poder islámico en India.\n**Rickshaw y mercados:** paseo tradicional en rickshaw por Chandni Chowk, uno de los mercados más concurridos de India, y el mercado de especias, el más grande de Asia: colores, sonidos y aromas de un mercado histórico.\n\n**Media mañana**\n**Tumba de Humayun:** Patrimonio de la Humanidad y uno de los mejores ejemplos de arquitectura mogol. Construida en 1569-70 para el emperador Humayun, esta tumba-jardín inspiró el diseño del Taj Mahal, con jardines de inspiración persa y tallas intrincadas.\n\n**Tarde**\n**Edificios gubernamentales:** paso junto al Rashtrapati Bhavan (residencia presidencial) y el Parlamento, el corazón político de India.\n**India Gate:** monumento de guerra de 42 metros que honra a 70.000 soldados indios muertos en la Primera Guerra Mundial, con los nombres de 13.516 soldados caídos en la guerra afgana de 1919.\n**Almuerzo** en un restaurante cercano o en tu hotel.\n\n**Después del almuerzo**\n**Gurdwara Bangla Sahib:** uno de los templos sijes más importantes de Delhi, conocido por su estanque sagrado, el Sarovar, y vinculado al octavo gurú sij, Guru Har Krishan. Construido en 1783 por Sardar Baghel Singh sobre un bungaló donado por el rajá Jai Singh de Amer, sigue siendo un lugar espiritual y tranquilo.\n**Qutub Minar:** cierra el día en este minarete UNESCO de 73 metros. Construido entre 1199 y 1220 en el emplazamiento de Lal Kot, la primera ciudad fortificada de Delhi, esta «torre de la victoria» es un ejemplo impresionante de arquitectura indoislámica y uno de los monumentos más visitados de Delhi.",
+  "highlights": [
+   "Jama Masjid, la mezquita más grande de India",
+   "Raj Ghat",
+   "Paseo en rickshaw por la Vieja Delhi",
+   "India Gate",
+   "Tumba de Humayun y Qutub Minar"
+  ],
+  "included": [
+   "Entradas",
+   "Guía",
+   "Transporte",
+   "1 botella de agua mineral por persona"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "old-delhi-new-delhi-trails-private-tour": {
+  "title": "Cuentos de la Vieja Delhi y senderos de la Nueva Delhi: visita privada guiada",
+  "metaTitle": "Vieja y Nueva Delhi en privado: Qutub Minar, Humayun, India Gate, Chandni Chowk",
+  "metaDescription": "Día privado en Delhi con guía, coche con aire acondicionado y entradas incluidas: Qutub Minar, tumba de Humayun, India Gate, Jama Masjid, rickshaw por Chandni Chowk y mercados de especias. Traslados de hotel o aeropuerto.",
+  "shortDescription": "Los vibrantes contrastes de la capital de India en una visita privada de día completo a la Vieja y la Nueva Delhi. Qutub Minar, tumba de Humayun, India Gate y Jama Masjid, un paseo en rickshaw por Chandni Chowk y los bulliciosos mercados de especias. Con cómoda recogida y regreso en hotel o aeropuerto, vive la historia, la cultura y la energía de Delhi con comodidad y estilo.",
+  "fullDescription": "Prepárate para una inmersión de un día completo en el hermoso caos de Delhi, donde historias antiguas, monumentos reales y hitos modernos compiten por tu atención y, de algún modo, se mezclan a la perfección.\n\nEsta visita privada guiada recorre dos personalidades muy distintas de la capital de India: el encanto de otro tiempo de la Vieja Delhi y la elegancia amplia y ordenada de la Nueva Delhi. En un momento recorres callejuelas bulliciosas llenas de aromas de especias y charla callejera, y al siguiente pasas junto a grandes bulevares coloniales y arquitectura monumental.\n\nEmpieza con el emblemático Qutub Minar, una imponente obra maestra que vela por Delhi desde hace siglos. Después, la elegante tumba de Humayun, un sereno sitio UNESCO que parece una pausa tranquila en medio del ritmo acelerado de la ciudad. Continúa hacia la imponente India Gate, donde la historia se une al orgullo nacional en un amplio espacio abierto perfecto para fotos y reflexión. Y entonces llega la verdadera aventura: la Vieja Delhi. Adéntrate en el corazón del caos y el carácter en la Jama Masjid, una de las mezquitas más grandes e impresionantes de India. Desde allí, cambia de marcha por completo con un divertido paseo en rickshaw por Chandni Chowk, donde las callejuelas estallan de colores, sonidos y energía sin fin. Es ruidoso, animado y absolutamente inolvidable.\n\nDespués, sigue tus sentidos hasta los legendarios mercados de especias, donde el propio aire parece vivo con cúrcuma, cardamomo, guindilla e historias transmitidas de generación en generación. Cada esquina tiene un aroma, cada giro una sorpresa.\n\nDurante todo el día, tu guía privado da vida a Delhi con historias, datos y perspectivas locales que convierten los monumentos en recuerdos y las calles en relatos vivos.\n\nPara que todo sea sencillo, disfruta de una cómoda recogida y regreso en hotel o aeropuerto y concéntrate en vivir la experiencia sin preocuparte de la logística.\n\nEsto no es simple turismo: es Delhi a todo volumen, caótica, majestuosa, especiada, histórica e infinitamente fascinante.",
+  "highlights": [
+   "Un día completo perdiéndote entre el caos de la Vieja Delhi y la Nueva Delhi",
+   "Los grandes iconos: Qutub Minar, tumba de Humayun, India Gate y más",
+   "Paseo en rickshaw por Chandni Chowk",
+   "La comodidad de la recogida y el regreso puerta a puerta en hotel o aeropuerto",
+   "Los contrastes de la ciudad, de las callejuelas mogoles a los bulevares coloniales"
+  ],
+  "included": [
+   "Recogida y regreso en hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor profesional",
+   "Guía en persona en todos los lugares",
+   "Paseo en rickshaw por la Vieja Delhi",
+   "Entradas a los monumentos",
+   "Botellas de agua mineral",
+   "Dietas del conductor",
+   "Peajes, aparcamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Comida y bebida",
+   "Gastos personales"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Guía oficial autorizado para el Taj Mahal",
   "metaTitle": "Guía oficial del Taj Mahal, entrada sin colas",
