@@ -3196,6 +3196,67 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas",
    "Comida"
   ]
+ },
+ "jaipur-city-highlights-tour-with-amber-fort-hawa-mahal": {
+  "title": "Jaipur: lo mejor de la ciudad con el Fuerte Amber y el Hawa Mahal",
+  "metaTitle": "Jaipur: Fuerte Amber, Hawa Mahal y City Palace con guía local",
+  "metaDescription": "Tour privado de día completo por Jaipur con guía local experto: Fuerte Amber, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace y Jantar Mantar.",
+  "shortDescription": "Con un guía local experto, viva la vibrante belleza de Jaipur, la célebre Ciudad Rosa, en un tour privado de día completo. Recorra palacios magníficos, fuertes históricos y mercados de colores mientras su guía profesional comparte historias de tradiciones reales, brillantez arquitectónica y patrimonio cultural.",
+  "fullDescription": "Diseñado para viajeros que quieren conocer los mejores lugares históricos de Jaipur con un guía local experto.\n\n1. Fuerte y palacio de Amber\nEmpiece la visita con el magnífico Fuerte Amber, una de las principales atracciones de Jaipur. Esta fortaleza en lo alto de una colina, inscrita en la UNESCO, combina arquitectura rajput y mogol en arenisca roja y mármol. Recorra sus patios reales, el Diwan-e-Aam y el Sheesh Mahal (Palacio de los Espejos) y disfrute de vistas panorámicas de las colinas Aravalli. Duración: 2 horas.\n\n2. Panna Meena Ka Kund\nA continuación visitará este pozo escalonado del siglo XVI situado cerca del Fuerte Amber. Famoso por sus escaleras simétricas y su antiguo sistema de recogida de agua de lluvia, esta joya discreta es uno de los mejores lugares patrimoniales de Jaipur. Duración: 30 minutos.\n\n3. Jal Mahal\nHaga una parada panorámica en el Jal Mahal, el Palacio del Agua, bellamente situado en medio del lago Man Sagar. Este hito es uno de los monumentos más fotografiados de Jaipur. Duración: 20 minutos.\n\nPausa opcional para comer (1 hora)\nDisfrute de una comida relajada en un restaurante recomendado de Jaipur antes de continuar la visita.\n\nTambién se incluye una visita educativa de 10 a 15 minutos a un taller tradicional con las artes locales de Jaipur, como el estampado en bloque a mano, el pulido de gemas y el tejido de alfombras. Una ventana a las tradiciones artesanas de Rajastán, sin ninguna obligación de compra.\n\n4. Hawa Mahal\nContinúe con el famoso Hawa Mahal, el Palacio de los Vientos. Construido por el maharajá Sawai Pratap Singh, esta maravilla de cinco plantas con 953 ventanas permitía a las mujeres de la corte observar la vida de la ciudad tras delicadas celosías. Duración: 1 hora.\n\n5. City Palace\nExplore la residencia real de Jaipur, una obra maestra arquitectónica construida por el maharajá Sawai Jai Singh II. El complejo alberga museos con trajes reales, manuscritos, armas y objetos históricos del pasado principesco de la ciudad. Duración: 1 hora.\n\n6. Jantar Mantar\nVisite este sitio Patrimonio de la Humanidad, un observatorio astronómico con el mayor reloj de sol de piedra del mundo. Construido por el maharajá Sawai Jai Singh II, destaca los avances de la India antigua en astronomía. Duración: 1 hora.\n\nFin del tour.",
+  "highlights": [
+   "El majestuoso estilo de vida rajput en el Fuerte Amber y el Jal Mahal",
+   "Comodidad en un coche climatizado de categoría, con conductor y guía profesionales",
+   "Sumergirse en el esplendor arquitectónico y cultural rajput",
+   "Explorar la Ciudad Rosa de Jaipur con un guía local"
+  ],
+  "included": [
+   "Servicio de guía turístico",
+   "Botellas de agua",
+   "Coche para la visita por la ciudad (si se reserva la opción)"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida"
+  ]
+ },
+ "jaipur-city-tour-with-official-guide": {
+  "title": "Jaipur: explorar la ciudad con un guía oficial",
+  "metaTitle": "Jaipur con guía oficial: itinerario de un día completo",
+  "metaDescription": "Día completo en Jaipur con guía oficial privado: Fuerte Amber, Panna Meena ka Kund, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal y bazares.",
+  "shortDescription": "Excursión de un día por Jaipur con guía privado. Viva el encanto real de la Ciudad Rosa en una jornada guiada privada: historia rica, cultura vibrante y arquitectura magnífica.",
+  "fullDescription": "Itinerario de día completo por Jaipur con guía privado. Descubra la belleza real de Jaipur con su guía oficial privado en un cómodo coche climatizado.\n\n8:00: recogida en el hotel\nSe reunirá con su guía local profesional y su chófer en su hotel de Jaipur para comenzar la jornada de visitas.\n\n8:30: Fuerte Amber\nExplore la gran fortaleza en lo alto de la colina, conocida por sus elementos artísticos de estilo hindú, sus patios reales, el Sheesh Mahal (Palacio de los Espejos) y sus magníficas vistas del entorno.\n\n10:30: Panna Meena ka Kund\nRecorra este precioso pozo escalonado del siglo XVI, conocido por sus escaleras simétricas y su arquitectura singular, un lugar perfecto para fotografiar.\n\n11:30: parada fotográfica en el Jal Mahal\nDisfrute de una parada panorámica en el pintoresco Palacio del Agua, situado en medio del lago Man Sagar.\n\n12:30: City Palace\nVisite la residencia real del maharajá de Jaipur, con arquitectura tradicional rajastaní y mogol, objetos reales y museos.\n\n13:30: pausa para comer\nDisfrute de una comida relajada en un restaurante local recomendado (por su cuenta).\n\n14:30: Jantar Mantar\nExplore este sitio Patrimonio de la Humanidad con sus fascinantes instrumentos astronómicos, incluido el mayor reloj de sol de piedra del mundo.\n\n15:30: Hawa Mahal\nAdmire el icónico Palacio de los Vientos de cinco plantas, construido para que las mujeres de la corte observaran la vida diaria y las fiestas de la calle.\n\n17:00: visita al mercado local\nRecorra los coloridos bazares de Jaipur, famosos por su artesanía, textiles, joyería, alfombras y recuerdos.\n\n18:00: regreso al hotel\nVolverá a su hotel tras una jornada memorable, con bonitos recuerdos de la Ciudad Rosa.",
+  "highlights": [
+   "Explorar la ciudad de Jaipur con un guía local y oficial",
+   "Descubrir el legado real de Jaipur",
+   "Disfrutar de los majestuosos fuertes y palacios de Jaipur"
+  ],
+  "included": [
+   "Servicio de guía oficial para una jornada completa de visitas por la ciudad de Jaipur"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Coche para la visita por la ciudad (se puede organizar tras la reserva con un suplemento, pagadero directamente al guía)"
+  ]
+ },
+ "jaipur-full-day-sightseeing-tour-by-car": {
+  "title": "Jaipur: tour privado de día completo en coche con guía",
+  "metaTitle": "Jaipur en coche privado: Fuerte Amber, Hawa Mahal, Jantar Mantar",
+  "metaDescription": "Jornada privada de visitas en Jaipur en coche climatizado con guía local experto: Fuerte Amber, Jal Mahal, Panna Meena ka Kund, Hawa Mahal y City Palace.",
+  "shortDescription": "Jornada privada de visitas por Jaipur en coche climatizado con guía experto: Fuerte Amber, Panna Meena ka Kund, Jal Mahal, Hawa Mahal, City Palace, Jantar Mantar y los cenotafios reales de Gaitor.",
+  "fullDescription": "Explore la riqueza cultural y patrimonial de Jaipur en esta jornada completa de visitas.\n\n1. Fuerte y palacio de Amber\nAdmire la grandeza del Fuerte Amber, una combinación ejemplar de arquitectura hindú y musulmana. Situado en lo alto de las colinas a las afueras de Jaipur, este fuerte de arenisca roja y mármol blanco ofrece una ventana a la fascinante historia de la región. Duración: 2 horas.\n\n2. Panna Meena Ka Kund\nDescubra este pozo escalonado histórico, conocido por sus escaleras simétricas y su eficaz sistema de captación de agua de lluvia, muy cerca del Fuerte Amber. Duración: 30 minutos.\n\n3. Jal Mahal\nDisfrute de la tranquilidad del Jal Mahal, un cautivador palacio sobre el lago Man Sagar. Esta joya del siglo XVIII muestra el esplendor de la cultura rajput. Duración: 20 minutos (opcional).\n\nPausa para comer (1 hora, opcional)\nPuede disfrutar de una comida relajada en un restaurante local antes de continuar.\n\nDurante 10 a 15 minutos visitará un taller dedicado a la cultura y las artes locales de Jaipur: estampado en bloque a mano y corte de piedras en bruto. Una experiencia puramente educativa y cultural, sin ninguna presión de compra.\n\n4. Hawa Mahal\nAdmire el icónico Palacio de los Vientos, ideado por Sawai Pratap Singh, con sus arcos escalonados y sus delicadas celosías. Duración: 1 hora.\n\n5. City Palace\nExplore el City Palace del maharajá, testimonio del legado real de Jaipur, construido por el maharajá Jai Singh. Duración: 1 hora.\n\n6. Jantar Mantar\nAdéntrese en el ingenio científico de estos diecinueve instrumentos astronómicos construidos por el rey rajput Sawai Jai Singh. Patrimonio de la Humanidad, alberga el mayor reloj de sol de piedra del mundo. Duración: 1 hora.\n\n7. Royal Gaitor Tumbas\nSumérjase en la historia en los cenotafios reales de Gaitor, un complejo del siglo XVIII con tallas minuciosas y templos dedicados. Duración: 1 hora.\n\nOpcional, si lo elige: el Fuerte Amber en un tour guiado de 3 horas con cómoda recogida y regreso al hotel, con grandes patios, el Sheesh Mahal, la Ganesh Pol y las estancias reales.",
+  "highlights": [
+   "El Fuerte Amber, el Hawa Mahal y el City Palace con un guía local experto",
+   "Fotografiar el Jal Mahal, el Palacio del Agua, y el Panna Meena Ka Kund",
+   "Conocer la astronomía antigua en el Jantar Mantar, inscrito en la UNESCO",
+   "Un trayecto cómodo en coche privado climatizado con traslados de hotel",
+   "La rica historia y la cultura vibrante de la Ciudad Rosa de Jaipur"
+  ],
+  "included": [
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Entradas"
+  ]
  }
 };
 export const ES_PAGES: Record<string, PageT> = {
