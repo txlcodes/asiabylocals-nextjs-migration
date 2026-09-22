@@ -429,7 +429,90 @@ export const DE_TOURS: Record<string, TourT> = {
   ]
  }
 };
-export const DE_PAGES: Record<string, PageT> = {};
+export const DE_PAGES: Record<string, PageT> = {
+ "taj-mahal": {
+  "title": "Taj Mahal: der komplette Besucherguide 2026",
+  "seoTitle": "Taj Mahal 2026: Tickets, Öffnungszeiten und Guide",
+  "description": "Alles für den Taj Mahal Besuch: Ticketpreise 2026, Öffnungszeiten, die Schließung am Freitag, beste Tageszeit und wie viel Zeit Sie brauchen.",
+  "fastFacts": [
+   {
+    "icon": "History",
+    "label": "Bauzeit",
+    "value": "1631 - 1653"
+   },
+   {
+    "icon": "Star",
+    "label": "UNESCO",
+    "value": "Welterbe seit 1983"
+   },
+   {
+    "icon": "Map",
+    "label": "Funktion",
+    "value": "Kaiserliches Mausoleum"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Einführung: eine Träne, für die Ewigkeit erstarrt",
+    "content": "Am Südufer des Yamuna in Agra, Indien, gilt das Taj Mahal als „Traum aus Marmor“. Es ist das berühmteste Beispiel der Mogul-Architektur, eines Stils, der islamische, persische und indische Einflüsse verbindet. 1632 vom Mogulkaiser Shah Jahan als Grabmal für seine Lieblingsfrau Mumtaz Mahal in Auftrag gegeben, birgt es auch das Grab des Kaisers selbst.\n\nZum ersten Mal durch das Haupttor (Darwaza-i-rauza) zu gehen ist ein bewegendes Erlebnis, das gewöhnliches Sightseeing weit übertrifft. Die schiere Größe und das strahlende Weiß des Monuments vor dem blauen indischen Himmel schaffen eine Harmonie, die Dichter und Reisende seit Jahrhunderten fesselt. Für viele ist es der absolute Gipfel menschlicher Kunst, wo Stein und Symmetrie das Göttliche berühren. Auch 2026, da Reisende authentische und kulturell tiefe Erfahrungen suchen, bleibt das Taj Mahal die ultimative Pilgerfahrt für alle, die die Geschichte des indischen Subkontinents verstehen wollen."
+   },
+   {
+    "title": "Das Monument: Geschichte und Architektur",
+    "content": "Die Geschichte des Taj Mahal ist eine Geschichte beispielloser Ambition und tragischen Verlusts. Nach dem Tod von Mumtaz Mahal im Kindbett 1631 soll Shah Jahan so untröstlich gewesen sein, dass sein Haar über Nacht weiß wurde. Er beschloss, ein Denkmal zu bauen, das die Schönheit des Paradieses auf Erden spiegelt.\n\n**Historische Bedeutung:**\nRund 22 Jahre und 20.000 Handwerker brauchte es, um die Anlage zu vollenden. Die Materialien kamen aus ganz Indien und Asien, über 1.000 Elefanten dienten dem Transport. Der weiße Makrana-Marmor stammt aus Rajasthan, Kristall aus China, Lapislazuli aus Afghanistan und Türkis aus Tibet.\n\n**Meisterklasse der Architektur:**\n- **Die Kuppel:** Die zentrale Zwiebelkuppel erreicht 73 Meter Höhe und trägt eine vergoldete Spitze. Die Doppelschalen-Bauweise erlaubt eine gewaltige Außenwirkung bei menschlichen Proportionen im Inneren.\n- **Die Minarette:** Die vier Minarette an den Ecken der Plattform neigen sich leicht nach außen. Eine bewusste Entscheidung: Bei einem schweren Erdbeben würden die Türme vom Mausoleum weg stürzen statt darauf.\n- **Die Symmetrie:** Jedes Element, von den Gärten bis zu Moschee und Gästehaus, ist entlang einer Mittelachse perfekt symmetrisch. Nur das Grab Shah Jahans, Jahre später neben Mumtaz Mahal ergänzt, bricht diese Perfektion: eine letzte, bescheidene menschliche Note in einem sonst vollkommenen Entwurf.\n- **Die Kalligrafie:** Die Wände tragen Koranverse in schwarzem Marmor. Betrachten Sie die Inschriften am Tor genau: Die Buchstaben werden nach oben hin größer, sodass sie für den Betrachter unten gleich groß wirken, ein Beleg für die optische Raffinesse der Mogul-Baumeister."
+   },
+   {
+    "title": "Kulturelle Bedeutung und UNESCO-Status",
+    "content": "1983 wurde das Taj Mahal als „Juwel der muslimischen Kunst in Indien und eines der weltweit bewunderten Meisterwerke des Welterbes“ zum UNESCO-Welterbe erklärt. Über seine Schönheit hinaus ist das Monument eine kulturelle Brücke. Es steht für den Höhepunkt des goldenen Zeitalters der Moguln, einer Zeit, in der Indien die führende Wirtschaftsmacht der Welt und ein Zentrum künstlerischer Synthese war.\n\nDer Grundriss folgt dem „Charbagh“-Konzept, dem vierteiligen Garten, der die vier Flüsse des Paradieses aus dem Koran darstellt. Für die Menschen in Agra ist das Taj Mahal nicht nur ein Wahrzeichen, sondern Identität und Lebensunterhalt: Die Nachfahren der ursprünglichen Handwerker üben die Pietra-dura-Einlegekunst bis heute in Werkstätten rund um das Monument aus."
+   },
+   {
+    "title": "Der Besuch des Taj Mahal (Praxisüberblick 2026)",
+    "content": "Das Taj Mahal 2026 zu besuchen braucht mehr als ein Ticket: Es braucht eine Strategie. Der Archaeological Survey of India (ASI) hat strenge digitale Abläufe eingeführt, um das Monument zu schützen und Millionen Besucher zu lenken.\n\n**Ticketpreise:**\nZuerst gilt es das zweistufige Preissystem zu verstehen. 2026 zahlen internationale Touristen einen höheren Preis, der eine bevorzugte Sicherheitskontrolle und Extras wie Schuhüberzieher und Wasser einschließt. Die vollständige Aufschlüsselung für Ausländer und SAARC-Bürger finden Sie auf unserer [Seite zu den Taj Mahal Ticketpreisen 2026](/india/agra/taj-mahal-ticket-price-2026). Seit diesem Jahr wird an den Toren kein Bargeld mehr angenommen, alle Buchungen laufen digital.\n\n**Der richtige Zeitpunkt:**\nTiming ist alles. Das Monument ist für seinen Farbwechsel berühmt, und zur falschen Stunde wirkt es flach und ausgewaschen. Die Tore öffnen in der Regel 30 Minuten vor Sonnenaufgang. Aktuelle Zeiten und die Unterschiede zwischen Sommer und Winter stehen in unserem [Guide zu den Öffnungszeiten des Taj Mahal](/india/agra/taj-mahal-opening-time).\n\n**Die Freitagsregel:**\nEin klassischer Fehler ist der Besuch an einem Freitag. An diesem Tag ist das Taj Mahal ausschließlich der lokalen muslimischen Gemeinde für das Gemeinschaftsgebet vorbehalten. Sind Sie an einem Freitag in Agra, kein Grund zur Verzweiflung: Es gibt großartige alternative Aussichtspunkte. Lesen Sie unseren Guide [was tun, wenn das Taj Mahal freitags geschlossen ist](/india/agra/is-taj-mahal-closed-on-friday), um Ihre Reise zu retten."
+   },
+   {
+    "title": "Beste Zeit: Sonnenaufgang oder Sonnenuntergang?",
+    "content": "Um 4:30 Uhr aufstehen für den Sonnenaufgang oder auf die goldene Abendstunde warten? Beides hat Vorteile, doch für die meisten Kenner gewinnt der Sonnenaufgang.\n\n- **Der Sonnenaufgang:** Im Morgengrauen nimmt der weiße Marmor einen zarten, fast überirdischen Rosaton an. Es ist still, die Luft kühler und die Menge am kleinsten. Die „Geheimnisse des Taj“ zeigen sich am besten in der ersten Lichtstunde.\n- **Der Sonnenuntergang:** Am späten Nachmittag glüht das Monument in intensivem Goldorange. Das Innere ist dann oft voller, aber die Wasserbecken bieten herrliche Spiegelungen für Fotos.\n- **Das Saisonfenster:** Die besten Monate für klaren Himmel und angenehmes Gehen sind Oktober bis März. Im Dezember und Januar kann der Morgennebel dicht sein: Tipps zur Sicht finden Sie im [Agra Reiseführer](/india/agra/agra-travel-guide-2026).\n\n**Besucherströme:** Die größten Gruppen kommen nach 10:30 Uhr mit den Bussen aus Delhi. Am besten beenden Sie Ihren Rundgang, wenn diese gerade eintreffen."
+   },
+   {
+    "title": "Typische Fehler von Reisenden",
+    "content": "Selbst erfahrene Reisende tappen am Taj Mahal in vorhersehbare Fallen. Wer sie kennt, erlebt deutlich mehr.\n\n1.  **Am Freitag kommen:** Wie erwähnt ist das Monument [jeden Freitag für den Tourismus geschlossen](/india/agra/is-taj-mahal-closed-on-friday). Verlassen Sie sich nicht auf alte Blogs, die etwas anderes behaupten.\n2.  **Das falsche Tor:** Das Westtor ist zum Sonnenaufgang meist schneller, das Osttor nimmt den Großteil des Verkehrs der Luxushotels auf. Mit vorgebuchten Tickets sind beide effizient.\n3.  **Unlizenzierte Guides:** An jedem Tor wimmelt es von Schleppern, die sich als Guides ausgeben. Engagieren Sie nur Personen mit gültigem Ausweis des Tourismusministeriums. Sie haben anspruchsvolle Geschichtsprüfungen bestanden und kennen die besten Fotowinkel.\n4.  **Verbotene Gegenstände:** Die Kontrolle läuft wie am Flughafen. Keine Powerbanks, Tabak, Feuerzeuge, Stative, nicht einmal Bücher. Sie müssten die Schlange verlassen und alles ins Schließfach bringen, und verlieren 30 bis 45 Minuten bestes Licht. Nehmen Sie nur Kamera, Handy, Wasser und Pass mit.\n5.  **Keine Vorbuchung:** An einem vollen Samstag am Tor den QR-Code zu scannen ist ein Glücksspiel. Das Mobilfunknetz ist oft überlastet. Buchen Sie Ihre Tickets mindestens 24 Stunden vorher im Hotel."
+   },
+   {
+    "title": "Lohnt sich ein Guide?",
+    "content": "Natürlich können Sie allein durch die Gärten gehen, doch das Taj Mahal ist ein Monument mit vielen Schichten. Ein lizenzierter Historiker erklärt die optischen Täuschungen der Kalligrafie, zeigt die einzelnen Halbedelsteine der Pietra dura und erzählt die Intrigen des Mogulhofs, die auf keiner Tafel stehen.\n\nFür Geschichtsinteressierte empfiehlt sich eine **Taj Mahal Sonnenaufgangstour**, um diese Einblicke vor der Hitze zu bekommen. Wer das perfekte Foto sucht, findet mit einer **Taj Mahal Fototour** „geheime“ Plätze abseits der Menge. Für ein gehobenes Erlebnis verbindet eine **private Royal Tour zum Taj Mahal** die Tiefe eines Historikers mit organisierter Logistik und Luxustransport vom Hotel.\n\nEin Guide redet nicht nur: Er ist der Puffer zwischen Ihnen und dem Trubel, damit Sie sich ganz auf die Schönheit der Architektur konzentrieren können."
+   },
+   {
+    "title": "Weiterführende Guides",
+    "content": "Für einen rundum gelungenen Agra-Besuch kombinieren Sie diesen Guide mit unseren anderen Ressourcen. Bei knapper Zeit zeigt unser [Ein-Tages-Programm für Agra](/india/agra/1-day-agra-itinerary), wie Sie das Taj mit dem [Roten Fort](/india/agra/places-to-visit-in-agra) verbinden. Eine breitere Auswahl an Aktivitäten, inklusive Streetfood-Touren und wenig bekannter Mogulgräber, finden Sie unter [Sehenswürdigkeiten und Aktivitäten in Agra](/india/agra/things-to-do-in-agra)."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Wie viel Zeit sollte ich für das Taj Mahal einplanen?",
+    "a": "Ein normaler Besuch dauert 2 bis 3 Stunden: Sicherheitskontrolle, Hauptplattform, Moschee und Entspannen in den Gärten. Das Ticket gilt maximal 3 Stunden ab Einlass."
+   },
+   {
+    "q": "Was ziehe ich für das Taj Mahal an?",
+    "a": "Es gibt keine strenge religiöse Kleiderordnung (anders als in manchen Moscheen), aber aus Respekt vor der lokalen Kultur ist dezente Kleidung empfohlen. Weite, atmungsaktive Baumwolle ist bei der Hitze am besten. Für die weiße Marmorplattform müssen Sie die Schuhe ausziehen oder die bereitgestellten Überzieher tragen."
+   },
+   {
+    "q": "Ist das Taj Mahal rollstuhlgerecht?",
+    "a": "Ja, die Hauptanlage ist relativ gut zugänglich. An den Toren gibt es Rollstühle und Rampen zur erhöhten Plattform. Die inneren Grabkammern haben jedoch kleine Stufen und sind schwer zu befahren."
+   },
+   {
+    "q": "Darf ich meine Kamera mitnehmen?",
+    "a": "Fotografieren für den Privatgebrauch ist erlaubt. Videokameras sind grundsätzlich zugelassen, brauchen bei professionellem Aussehen aber oft eine separate Gebühr oder Genehmigung. Drohnen und Stative sind strikt verboten."
+   },
+   {
+    "q": "Gibt es sichere Schließfächer für Taschen?",
+    "a": "Ja, staatliche Schließfächer gibt es am Ost- und Westtor. Wir empfehlen dennoch, große Taschen im Hotel zu lassen, um an der Kontrolle Zeit zu sparen."
+   },
+   {
+    "q": "Wechselt das Taj Mahal wirklich die Farbe?",
+    "a": "Ja. Durch die Transluzenz des Makrana-Marmors reagiert das Monument auf das Licht: rosa bei Sonnenaufgang, strahlend weiß am Mittag, golden oder sogar bläulich bei Sonnenuntergang und im Mondlicht."
+   }
+  ]
+ }
+};
 export const DE_CITIES: Record<string, CityT> = {
  "agra": {
   "title": "Touren und offizielle Guides in Agra: Taj Mahal, Rotes Fort, Fatehpur Sikri",

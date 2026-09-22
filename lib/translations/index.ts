@@ -8,7 +8,7 @@ export const isLang = (s: string): s is Lang => (LANGS as readonly string[]).inc
 export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es' };
 
 export interface TourT { title: string; shortDescription?: string; fullDescription?: string; highlights?: string[]; included?: string[]; notIncluded?: string[]; faqs?: { question: string; answer: string }[]; metaTitle?: string; metaDescription?: string }
-export interface PageT { title: string; seoTitle?: string; description: string; fastFacts?: { icon: string; label: string; value: string }[]; sections?: { title: string; icon: string; content: string }[]; faqs?: { q: string; a: string }[] }
+export interface PageT { title: string; seoTitle?: string; description: string; fastFacts?: { icon: string; label: string; value: string }[]; sections?: { title: string; icon?: string; content: string }[]; faqs?: { q: string; a: string }[] }
 export interface CityT { title: string; description: string; h1?: string; intro?: string }
 
 import { FR_TOURS, FR_PAGES, FR_CITIES } from './fr';
