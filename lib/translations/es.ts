@@ -5334,6 +5334,175 @@ export const ES_PAGES: Record<string, PageT> = {
     "a": "La mejor experiencia combina un **paseo en ciclo-rickshaw** por los galis de Chandni Chowk con una caminata hasta la Jama Masjid, empezando en el [Fuerte Rojo](/india/delhi/red-fort) y avanzando hacia el oeste entre los bazares. Contratar a un guía local que conozca los callejones le abre puestos de comida, patios ocultos e historias arquitectónicas completamente invisibles para quien camina por su cuenta. Nuestras [visitas guiadas por Delhi](/india/delhi) las dirigen historiadores certificados especializados en el Viejo Delhi mogol."
    }
   ]
+ },
+ "things-to-do-in-jaipur": {
+  "title": "Qué hacer en Jaipur: la guía definitiva 2026 de la Ciudad Rosa de la India",
+  "description": "Fuerte Amber, Hawa Mahal, City Palace, bazares y cocina real: la guía completa 2026 de los palacios, fuertes y la cultura de la Ciudad Rosa.",
+  "fastFacts": [
+   {
+    "icon": "Map",
+    "label": "Fundada",
+    "value": "En 1727 por el maharajá Jai Singh II"
+   },
+   {
+    "icon": "Sun",
+    "label": "Mejor temporada",
+    "value": "Octubre a marzo (fresco y seco)"
+   },
+   {
+    "icon": "Star",
+    "label": "Experiencia estrella",
+    "value": "El Fuerte Amber al amanecer"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Entrada combinada",
+    "value": "1.000 ₹ extranjeros (7 monumentos)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "1. Fuerte Amber, el monumento más magnífico de Jaipur",
+    "content": "En lo alto de una colina rocosa a 11 kilómetros al norte del centro, el **[Fuerte Amber](/india/jaipur/amber-fort)** (también escrito Amer) es el monumento más impresionante de todo Rajastán. Construido sobre todo por el rajá Man Singh I en 1592 y ampliado durante los 150 años siguientes por sus sucesores, es una obra maestra de fusión arquitectónica rajput y mogol: arenisca roja y mármol blanco combinados de tal modo que se pasa de la dureza de la fortaleza a la delicadeza del palacio en un mismo corredor.\n\nLo más destacado del interior es extraordinario:\n- **Sheesh Mahal (Salón de los Espejos)**: miles de pequeños espejos convexos incrustados en paredes y techo crean un efecto de constelación a la luz de las velas. Es la sala más fotografiada de Rajastán.\n- **Diwan-i-Khas**: el salón de audiencias privadas, con techos pintados y celosías de mármol asomadas al lago Maota.\n- **Sukh Niwas (Salón del Placer)**: una sala ingeniosamente diseñada con canales de agua que recorren el suelo, un sistema de aire acondicionado antiguo.\n\nLlegue antes de las 8:00 para adelantarse a los autocares. La luz de la mañana sobre la arenisca color miel, reflejada en el lago, es uno de los grandes momentos fotográficos de la India.\n\nNuestras [visitas guiadas por Jaipur](/india/jaipur) incluyen comentarios expertos que dan vida a los 400 años de historia del fuerte, desde los reyes guerreros rajput hasta las alianzas mogolas que moldearon su arquitectura."
+   },
+   {
+    "title": "2. Hawa Mahal, el Palacio de los Vientos",
+    "content": "El **[Hawa Mahal](/india/jaipur/hawa-mahal)** es el monumento más icónico de Jaipur y uno de los edificios más reconocibles de toda la India. Construida en 1799 por el maharajá Sawai Pratap Singh, esta fachada de arenisca rosa de cinco plantas cuenta con **953 pequeñas ventanas jharokha** dispuestas en forma de panal, diseñadas para que las mujeres de la corte en purdah (reclusión) observaran la vida de la calle y las fiestas sin ser vistas.\n\nEl edificio es en esencia un muro decorativo más que un palacio: en su punto más grueso tiene una sola sala de profundidad. Lo que le falta en fondo lo compensa con puro impacto visual. La fachada curva, vista desde el cruce de Badi Chaupar, es una de las estructuras más fotografiadas de la India.\n\n**El mejor consejo fotográfico**: las mejores imágenes del Hawa Mahal se toman desde el **Wind View Cafe**, justo enfrente y en la planta superior. El ángulo elevado abarca toda la fachada con el bullicioso bazar en primer plano.\n\n**Entrada**: 200 ₹ extranjeros / 50 ₹ indios. La vista desde las ventanas de la última planta, sobre las calles rosadas del casco antiguo, bien merece la subida.\n\n**Duración**: 30 a 45 minutos dentro, más el tiempo de las fotos exteriores."
+   },
+   {
+    "title": "3. City Palace, donde la realeza aún vive",
+    "content": "El complejo del **[City Palace](/india/jaipur/city-palace-jaipur)** ocupa una vasta zona en el corazón de la antigua ciudad amurallada y es único entre las residencias reales de la India: **parte de él sigue siendo la residencia privada de la familia real de Jaipur**, descendiente del maharajá Jai Singh II.\n\nLas zonas públicas funcionan como un museo de primer nivel:\n- **Mubarak Mahal**: un espléndido edificio de fusión rajput y mogol que alberga la galería de textiles y trajes, incluidas las célebres y enormes túnicas del maharajá Madho Singh I.\n- **Diwan-i-Khas**: alberga las **Gangajali**, dos enormes urnas de plata de ley registradas en el Guinness como los mayores objetos de plata del mundo. Cada una contiene 4.091 litros y se usó para llevar agua sagrada del Ganges a Londres.\n- **Pritam Niwas Chowk**: el patio interior con cuatro puertas ornamentadas, cada una dedicada a una estación y decorada con exquisitos motivos de pavo real.\n\nEl palacio se disfruta mucho más con guía: las capas históricas de 300 años de poder rajput son complejas y fascinantes cuando se explican bien. Calcule de 90 a 120 minutos.\n\n**Entrada**: 500 ₹ extranjeros / 100 ₹ indios (incluye acceso a las galerías del museo)."
+   },
+   {
+    "title": "4. Jantar Mantar, la astronomía antigua a escala monumental",
+    "content": "Junto al City Palace, el **Jantar Mantar** es Patrimonio de la Humanidad y una de las atracciones intelectualmente más fascinantes de la India. Construido por el maharajá Jai Singh II entre 1724 y 1734, es la **mayor colección del mundo de instrumentos astronómicos de piedra**: 19 dispositivos monumentales de mampostería diseñados para seguir los cuerpos celestes con una precisión extraordinaria.\n\nLa pieza central es el **Samrat Yantra**, el mayor reloj de sol de piedra del mundo, de 27 metros de altura. Da la hora con una precisión de **2 segundos**. Otros instrumentos miden la posición de las estrellas, predicen eclipses y siguen el movimiento de las constelaciones.\n\n**Por qué necesita un guía**: sin explicación experta, el Jantar Mantar parece escultura abstracta. Con un [guía de Jaipur](/india/jaipur) experto, cada instrumento se convierte en una ventana al genio matemático de la astronomía india del siglo XVIII. Es el lugar de Jaipur que más gana con una buena interpretación.\n\n**Entrada**: 200 ₹ extranjeros / 40 ₹ indios. Duración: 45 a 60 minutos."
+   },
+   {
+    "title": "5. Fuerte Nahargarh, la mejor puesta de sol de Rajastán",
+    "content": "Mientras el Fuerte Amber concentra las multitudes, el **[Fuerte Nahargarh](/india/jaipur/nahargarh-fort)** recompensa con algo aún más valioso: **la mejor vista panorámica de Jaipur**, desde sus murallas en lo alto de las colinas Aravalli.\n\nConstruido en 1734 por el maharajá Jai Singh II como retiro y posición defensiva, los muros y bastiones de Nahargarh serpentean espectacularmente por la cresta que domina toda la Ciudad Rosa. En un día claro se ve desde el Fuerte Amber al norte hasta las llanuras lejanas al sur.\n\nEl elemento interior más fascinante es el **Madhavendra Bhawan**, un conjunto de doce suites idénticas, una para cada una de las doce reinas del rey, dispuestas simétricamente alrededor de un patio central. El diseño garantizaba que ninguna reina supiera cuándo el rey visitaba a otra.\n\n**La puesta de sol en Nahargarh** es legendaria. Llegue hacia las 16:30, busque un sitio en las murallas occidentales y vea cómo la Ciudad Rosa se vuelve ámbar, luego dorada y después naranja intenso mientras el sol se pone sobre los Aravalli. Está considerada de forma constante una de las mejores puestas de sol de toda la India.\n\n**Entrada**: 200 ₹ extranjeros / 50 ₹ indios. La subida por la carretera de curvas lleva 20 minutos desde el centro."
+   },
+   {
+    "title": "6. Recorrer los legendarios bazares de Jaipur",
+    "content": "Los bazares de Jaipur están entre los más vibrantes y visualmente impactantes de Asia. La antigua ciudad amurallada se organiza en calles de mercado especializadas, cada una dedicada a productos concretos, un sistema que funciona sin interrupción desde la fundación de la ciudad en 1727.\n\n### Johari Bazaar (joyería)\nJaipur es un **centro mundial del tallado de gemas**, en especial esmeraldas, rubíes y zafiros. En Johari Bazaar han comerciado generaciones de joyeros y tratantes de piedras durante casi 300 años. Las técnicas kundan y meenakari que se practican aquí son famosas en todo el mundo.\n\n### Bapu Bazaar (textiles)\nFamoso por los **tejidos rajastaníes estampados en bloque**, el bandhani (teñido anudado) y las mojaris (zapatos de cuero bordados). Los colores vibrantes y los motivos impresos a mano lo convierten en un paraíso para fotógrafos.\n\n### Tripolia Bazaar (metalistería y pulseras)\nEspecializado en pulseras de laca, objetos de latón y artesanía tradicional rajastaní. Los artesanos crean aquí trabajos de metal minuciosos con técnicas que no han cambiado en siglos.\n\n**Consejo de compras**: un [paseo patrimonial por Jaipur](/india/jaipur) con guía local ayuda a moverse por el laberinto de callejones, encontrar talleres auténticos y negociar precios justos. Sin guía, muchos visitantes pagan de más o se pierden los mejores puestos artesanos escondidos en las callejuelas."
+   },
+   {
+    "title": "7. Jal Mahal, el Palacio del Agua",
+    "content": "El **Jal Mahal** (Palacio del Agua) se alza en el centro del lago Man Sagar y parece flotar sobre la superficie. Este palacio de mediados del siglo XVIII es uno de los hitos más fotografiados de Jaipur, sobre todo al atardecer, cuando la fachada de arenisca de estilo mogol brilla con un cálido tono ámbar frente a las colinas de Nahargarh.\n\nNo se puede entrar en el palacio: está cerrado al público por ser un monumento protegido. Sin embargo, el paseo junto al lago ofrece vistas excelentes y grandes oportunidades fotográficas. El acceso por la calzada y el santuario de aves cercano lo convierten en un contraste apacible con los monumentos concurridos del centro.\n\n**Mejor momento para visitarlo**: al final de la tarde (16:00 a 17:30), cuando la luz es cálida y las colinas de Nahargarh forman un fondo espectacular.\n\n**Duración**: 20 a 30 minutos. El Jal Mahal encaja perfectamente como parada entre el centro y el Fuerte Amber, ya que está en la carretera que une ambos."
+   },
+   {
+    "title": "8. Probar la cocina real de Jaipur",
+    "content": "La comida de Jaipur es un reflejo directo de su legado real: rica, especiada y profundamente satisfactoria. La cocina rajastaní está pensada para el clima desértico: ingredientes de conserva, carnes de cocción lenta y sabores contundentes.\n\n**Platos imprescindibles en Jaipur:**\n- **Dal baati churma**: el plato insignia de Rajastán, bolas de trigo horneadas servidas con sopa de lentejas y pan dulce desmenuzado. El plato reconfortante rajastaní por excelencia.\n- **Laal maas**: un curry de cordero rojo y ardiente cocinado con chiles mathania, no apto para paladares delicados, pero inolvidable.\n- **Pyaaz kachori**: pan frito relleno de cebolla, el mejor en **Rawat Misthan Bhandar** o en el legendario **Laxmi Misthan Bhandar (LMB)** de Johari Bazaar.\n- **Ghewar**: un dulce en forma de disco calado y empapado en almíbar de azafrán, el postre insignia de Jaipur, sobre todo durante la fiesta de Teej.\n- **Mirchi vada**: chiles rellenos y fritos, el aperitivo callejero más popular de la ciudad.\n\nPara la experiencia completa, un [tour gastronómico por Jaipur](/india/jaipur) le lleva a los mejores puestos del casco antiguo, a restaurantes familiares y a dulcerías escondidas que ninguna guía menciona."
+   },
+   {
+    "title": "Reserve su visita a Jaipur con un experto local",
+    "content": "Un guía local con licencia transforma Jaipur: de una lista de monumentos pasa a ser un relato vivo. Nuestros guías historiadores descifran la arquitectura rajput, le orientan por el laberinto de bazares, le llevan a los puestos donde comen de verdad los vecinos y comparten historias que hacen inolvidable cada palacio y cada fuerte."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Qué es lo más importante que hacer en Jaipur?",
+    "a": "Las experiencias esenciales: el [Fuerte Amber](/india/jaipur/amber-fort) al amanecer (el mejor fuerte de Rajastán), el [Hawa Mahal](/india/jaipur/hawa-mahal) (Palacio de los Vientos), el museo del [City Palace](/india/jaipur/city-palace-jaipur), el observatorio astronómico Jantar Mantar, la puesta de sol en el [Fuerte Nahargarh](/india/jaipur/nahargarh-fort), las gemas de Johari Bazaar, la vista del lago en el Jal Mahal y una ruta gastronómica rajastaní por el casco antiguo. Calcule 2 o 3 días completos."
+   },
+   {
+    "q": "¿Cuántos días necesito en Jaipur?",
+    "a": "**Mínimo 2 días completos** para lo esencial. Día 1: Fuerte Amber + Jal Mahal + City Palace + Jantar Mantar + Hawa Mahal. Día 2: amanecer en el Fuerte Nahargarh + compras en los bazares + tour gastronómico + espectáculo cultural por la noche. Con 3 días puede añadir un safari de tigres en Ranthambore o una visita a Pushkar y Abhaneri."
+   },
+   {
+    "q": "¿Por qué es famosa Jaipur?",
+    "a": "Jaipur es famosa por su **arquitectura rosada** (de ahí el nombre de Ciudad Rosa), sus magníficos palacios reales como el City Palace y el Hawa Mahal, sus imponentes fuertes en altura como el Fuerte Amber, su condición de **centro mundial del tallado de gemas**, sus vibrantes bazares textiles y su rica cocina rajastaní. Como parte del Triángulo de Oro (Delhi, Agra, Jaipur), es una de las tres ciudades más visitadas del país."
+   },
+   {
+    "q": "¿Es Jaipur segura para los turistas?",
+    "a": "Jaipur está considerada una de las ciudades más seguras del norte de la India para los turistas. Se aplican las precauciones habituales: use transporte reservado con antelación, evite zonas mal iluminadas de noche y vista con discreción en los lugares religiosos. Un [guía local](/india/jaipur) añade seguridad y le permite moverse con confianza."
+   },
+   {
+    "q": "¿Cuál es la mejor época para visitar Jaipur?",
+    "a": "**De octubre a marzo**: las temperaturas oscilan entre 12 y 25 °C con cielos despejados. La temporada alta va de noviembre a febrero. Evite mayo y junio, cuando se superan los 45 °C. El monzón (de julio a septiembre) trae vegetación exuberante pero calor húmedo. El Jaipur Literature Festival (enero) y la fiesta de las cometas (14 de enero) son espectaculares."
+   },
+   {
+    "q": "¿Qué debo comprar en Jaipur?",
+    "a": "Jaipur es un destino de compras de primer nivel. **Johari Bazaar** para gemas y joyería kundan. **Bapu Bazaar** para tejidos estampados en bloque y textiles bandhani. **Tripolia Bazaar** para pulseras de laca y latón. Las **mojaris** (zapatos de cuero bordados) y la **cerámica azul** son recuerdos clásicos de Jaipur. Un [guía de paseo patrimonial](/india/jaipur) ayuda a encontrar talleres artesanos auténticos."
+   }
+  ]
+ },
+ "jaipur-travel-guide-2026": {
+  "title": "Guía de viaje de Jaipur 2026: todo lo que hay que saber antes de visitar la Ciudad Rosa",
+  "description": "Guía de viaje de Jaipur 2026: cuándo ir, dónde alojarse, transporte, entradas a monumentos, comida y consejos culturales de expertos locales de la Ciudad Rosa.",
+  "fastFacts": [
+   {
+    "icon": "Map",
+    "label": "Ubicación",
+    "value": "Rajastán, norte de la India"
+   },
+   {
+    "icon": "Clock",
+    "label": "Zona horaria",
+    "value": "IST (UTC+5:30)"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Presupuesto diario",
+    "value": "3.000 a 10.000 ₹ por persona"
+   },
+   {
+    "icon": "Sun",
+    "label": "Mejores meses",
+    "value": "Octubre a marzo"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Evitar",
+    "value": "Mayo y junio (calor extremo, más de 45 °C)"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Cómo llegar a Jaipur",
+    "content": "Jaipur está bien comunicada y es fácil de alcanzar desde Delhi, Agra y otras grandes ciudades indias.\n\n**En avión**: el aeropuerto internacional de Jaipur (JAI) recibe vuelos directos desde Delhi (1 hora), Bombay (2 horas), Bangalore, Hyderabad y Calcuta. Conexiones internacionales vía Delhi o Bombay.\n\n**En tren**: el **Vande Bharat Express** y el **Shatabdi Express** desde Delhi tardan unas 4 a 4,5 horas. El **Ajmer Shatabdi** es el servicio más popular. Desde Agra, los trenes tardan de 4 a 5 horas por la línea Delhi-Bombay.\n\n**Por carretera**: la **autopista Delhi-Jaipur (NH-48)** permite cubrir los 280 km en 4,5 a 5 horas. Es la opción más habitual para los [circuitos del Triángulo de Oro](/india/agra). Desde Agra, el trayecto dura unas 4 horas por la NH-21.\n\n**Desde el aeropuerto o la estación**: reserve un Uber u Ola hasta su hotel. Evite negociar con los taxistas a la salida de la estación: use el mostrador de taxis prepago o las apps para tarifas justas."
+   },
+   {
+    "title": "Dónde alojarse en Jaipur",
+    "content": "Jaipur ofrece alojamiento para todos los presupuestos, desde hoteles patrimoniales palaciegos hasta casas de huéspedes económicas y limpias.\n\n**Patrimonio y lujo**: Jaipur es famosa por sus **hoteles patrimoniales**, havelis y palacios restaurados convertidos en establecimientos con encanto. El Rambagh Palace (Taj), la Samode Haveli y el Narain Niwas Palace ofrecen experiencias reales inolvidables.\n\n**Gama media**: la zona del casco antiguo (C-Scheme, corredor de MI Road) tiene excelentes opciones cerca de todos los grandes monumentos. Busque en Bani Park y Civil Lines: limpio, seguro y céntrico.\n\n**Económico**: los hostales y casas de huéspedes de la ciudad amurallada ofrecen camas en dormitorio desde 500 ₹ y habitaciones privadas desde 1.200 ₹. La zona de Hathroi, junto a la estación de tren, es práctica y asequible.\n\n**Consejo**: si es su primera visita, alójese en la ciudad amurallada o cerca. Estar a distancia a pie del Hawa Mahal, el City Palace y el Jantar Mantar ahorra mucho tiempo de transporte y permite explorar los bazares de forma espontánea."
+   },
+   {
+    "title": "Cómo moverse por Jaipur",
+    "content": "Las atracciones de Jaipur están repartidas por la ciudad. Así se mueve con eficacia.\n\n**La mejor opción: conductor privado por el día**, de 1.500 a 2.500 ₹ por una jornada completa con aire acondicionado. Es la forma más eficaz y cómoda de cubrir monumentos tan dispersos, sobre todo el Fuerte Amber (a 11 km del centro) y el Fuerte Nahargarh (en lo alto de la colina). Nuestros [tours por Jaipur](/india/jaipur) incluyen transporte privado.\n\n**Uber/Ola**: fiables, con taxímetro y asequibles dentro de la ciudad. Cuente entre 100 y 250 ₹ por trayecto entre los grandes lugares.\n\n**Autorickshaws**: omnipresentes, pero negocie siempre la tarifa antes de subir. De 50 a 150 ₹ para la mayoría de los trayectos urbanos. Use la opción Ola Auto para viajes con taxímetro.\n\n**A pie**: la antigua ciudad amurallada (Hawa Mahal, City Palace, Jantar Mantar, bazares) se recorre por completo andando. Es la mejor forma de sentir el ambiente de la Ciudad Rosa.\n\n**Evite**: los autobuses públicos (abarrotados, poco fiables), los ciclo-rickshaws para distancias largas y conducir usted mismo salvo que tenga experiencia con el tráfico indio."
+   },
+   {
+    "title": "Entradas a los monumentos y pase combinado",
+    "content": "Jaipur ofrece una **entrada combinada** que cubre siete grandes monumentos a un precio reducido. Es un dato esencial.\n\n**Entrada combinada**: 1.000 ₹ extranjeros / 300 ₹ indios, válida 2 días y con acceso a:\n1. Fuerte Amber\n2. Fuerte Nahargarh\n3. Hawa Mahal\n4. Jantar Mantar\n5. Albert Hall Museum\n6. Sisodia Rani Ka Bagh\n7. Vidyadhar Ka Bagh\n\n**City Palace**: entrada aparte, 500 ₹ extranjeros / 100 ₹ indios. No incluida en el pase combinado.\n\n**Jal Mahal**: gratis (solo vista exterior, el palacio está cerrado al público).\n\n**Importante**: compre la entrada combinada en el primer monumento que visite. Es válida 2 días consecutivos y solo eso ahorra unos 600 ₹ frente a comprar entradas sueltas.\n\n**Fotografía**: la mayoría de los monumentos permiten fotografiar libremente con móvil y cámara. Los trípodes y el equipo profesional pueden requerir tasas adicionales en algunos lugares."
+   },
+   {
+    "title": "Comer y beber en Jaipur",
+    "content": "La cocina rajastaní es rotunda, rica y profundamente satisfactoria, pensada para el clima desértico con ingredientes de conserva, carnes de cocción lenta y especias contundentes.\n\n### Platos imprescindibles\n- **Dal baati churma**: el plato insignia de Rajastán, bolas de trigo horneadas con sopa de lentejas y pan dulce desmenuzado\n- **Laal maas**: curry de cordero rojo y ardiente con chiles mathania\n- **Pyaaz kachori**: pan frito relleno de cebolla, el mejor en Rawat Misthan Bhandar\n- **Ghewar**: dulce calado al azafrán, el postre insignia de Jaipur\n- **Mirchi vada**: chiles rellenos y fritos, el aperitivo callejero favorito de la ciudad\n\n### Dónde comer\n- **LMB (Laxmi Misthan Bhandar)**: institución de Johari Bazaar desde 1954, thali rajastaní totalmente vegetariano\n- **Rawat Misthan Bhandar**: famoso por los mejores pyaaz kachori de la ciudad\n- **Niros**: clásico de MI Road desde 1949, cocina india y continental de calidad constante\n- **1135 AD**: dentro del Fuerte Amber, experiencia de mesa real con vistas a la fortaleza\n- **Puestos callejeros alrededor de Badi Chaupar**: los mejores mirchi vada y lassi del casco antiguo\n\n**Agua**: beba solo agua embotellada precintada. Evite el hielo en los puestos callejeros. Lleve al menos 2 litros cuando visite los fuertes con calor."
+   },
+   {
+    "title": "Etiqueta cultural y consejos prácticos",
+    "content": "**Código de vestimenta**: cúbrase hombros y rodillas en todos los lugares religiosos (templos, mezquitas). Lleve un pañuelo ligero, útil en cualquier situación.\n\n**Calzado**: descálcese antes de entrar en templos y en algunas salas interiores de los palacios. Use calzado fácil de quitar.\n\n**Fotografía**: pida siempre permiso antes de fotografiar a personas, especialmente a mujeres. Algunos interiores de templos prohíben las fotos.\n\n**Regateo**: se espera en los bazares. Empiece por el 40 o 50 por ciento del precio pedido y negocie desde ahí. Hay tiendas de precio fijo en MI Road y en los centros comerciales.\n\n**Propinas**: de 50 a 100 ₹ para el personal de restaurante, de 200 a 500 ₹ para un conductor de jornada completa. La propina al guía es costumbre y se agradece.\n\n**Gestión del calor**: de octubre a marzo el clima es agradable, pero incluso en invierno el sol del mediodía puede ser fuerte. Lleve protector solar, gorro y agua. En verano (de abril a junio), limite el tiempo al aire libre a antes de las 10:00 y después de las 16:00.\n\n**Atención a las estafas**: evite a los «guías» que le aborden en las entradas de los monumentos. Reserve con operadores solventes como [AsiaByLocals](/india/jaipur) para contar con guías autorizados y verificados."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "¿Cuál es la mejor época para visitar Jaipur?",
+    "a": "**De octubre a marzo** es la mejor época: temperaturas agradables (12 a 25 °C), cielos despejados y temporada de festivales. De noviembre a febrero es temporada alta. Evite mayo y junio (calor extremo, más de 45 °C). El monzón (de julio a septiembre) trae vegetación pero también humedad."
+   },
+   {
+    "q": "¿Cuántos días conviene pasar en Jaipur?",
+    "a": "**Mínimo 2 días completos**. Día 1: Fuerte Amber, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal. Día 2: Fuerte Nahargarh, compras en los bazares, exploración gastronómica. Con 3 días puede añadir un safari de tigres en Ranthambore o ir a un ritmo más pausado."
+   },
+   {
+    "q": "¿Es cara Jaipur?",
+    "a": "Jaipur es muy asequible según estándares internacionales. **Económico**: de 1.500 a 3.000 ₹ al día (hostal, comida callejera, transporte público). **Gama media**: de 5.000 a 8.000 ₹ al día (hotel patrimonial, comidas en restaurante, transporte privado). **Lujo**: más de 15.000 ₹ al día (hotel palacio, alta cocina, guía privado)."
+   },
+   {
+    "q": "¿Necesito un guía en Jaipur?",
+    "a": "Muy recomendable, sobre todo para el Fuerte Amber, el Jantar Mantar y el City Palace. Estos monumentos son complejos en lo arquitectónico y lo histórico: un guía autorizado convierte la visita en comprensión real. Nuestros [guías de Jaipur](/india/jaipur) son historiadores con licencia oficial."
+   },
+   {
+    "q": "¿Cómo voy de Delhi a Jaipur?",
+    "a": "**En tren** (Vande Bharat o Shatabdi): 4 a 4,5 horas, lo más cómodo. **En coche** (autopista NH-48): 4,5 a 5 horas, ideal para los circuitos del Triángulo de Oro. **En avión**: 1 hora, con varios servicios diarios. **En autobús** (RSRTC Volvo): 5 a 6 horas, la opción económica."
+   }
+  ]
  }
 };
 export const ES_CITIES: Record<string, CityT> = {
