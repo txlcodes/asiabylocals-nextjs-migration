@@ -4445,6 +4445,122 @@ export const DE_PAGES: Record<string, PageT> = {
     "a": "Delhi ist mit der üblichen Vorsicht in Großstädten sicher für Touristen. Nutzen Sie Uber oder Ola statt nicht gekennzeichneter Taxis. Achten Sie auf den Betrug mit „falschen Reisebüros“ nahe Connaught Place. Wertsachen auf vollen Märkten sichern. Die Metro ist zu jeder Zeit sicher. Siehe unseren [Delhi Reiseführer](/india/delhi/delhi-travel-guide-2026) für einen kompletten Sicherheitsabschnitt."
    }
   ]
+ },
+ "delhi-1-day-itinerary": {
+  "title": "Delhi an einem Tag 2026: das perfekte Ein-Tages-Programm",
+  "description": "Delhi an einem Tag: Rotes Fort, Chandni Chowk, Humayun-Mausoleum, India Gate. Route Stunde für Stunde, optimiert für Erstbesucher.",
+  "fastFacts": [
+   {
+    "icon": "Clock",
+    "label": "Startzeit",
+    "value": "6:00 Uhr (früh ist alles)"
+   },
+   {
+    "icon": "Map",
+    "label": "Mögliche Monumente",
+    "value": "3 bis 4 an einem Tag"
+   },
+   {
+    "icon": "Ticket",
+    "label": "Eintritte gesamt",
+    "value": "~1.240 ₹ (Ausländer) / 75 ₹ (Inder)"
+   },
+   {
+    "icon": "Star",
+    "label": "Pflichtpunkte",
+    "value": "Rotes Fort + Chandni Chowk + India Gate"
+   },
+   {
+    "icon": "Wallet",
+    "label": "Tagesbudget",
+    "value": "3.000 bis 8.000 ₹ pro Person (alles inklusive)"
+   },
+   {
+    "icon": "AlertTriangle",
+    "label": "Wichtiger Hinweis",
+    "value": "Rotes Fort montags geschlossen"
+   }
+  ],
+  "sections": [
+   {
+    "title": "Was man an einem Tag in Delhi realistisch sehen kann",
+    "content": "Ein Tag in Delhi verlangt eine Entscheidung: **Breite oder Tiefe**. Delhis große Monumente sind über eine riesige Stadt verteilt, und wer zwischen allen hetzt, ist am Ende erschöpft und hat wenig verstanden. Dieses Programm ist auf ein **Maximum an echtem Erlebnis** ausgelegt, nicht auf ein Maximum an Monumenten.\n\nDie Route umfasst:\n- **Morgen**: Alt-Delhi, Rotes Fort + Chandni Chowk + Jama Masjid + Straßenfrühstück\n- **Nachmittag**: Neu-Delhi, India Gate + Kartavya Path + Humayun-Mausoleum\n- **Abend**: Abendessen am Connaught Place + optional Qutub Minar (Sonnenuntergang)\n\nWas Sie an einem Tag **nicht** schaffen: Qutub Minar (Süd-Delhi, zu weit, um es ohne Verlust an Tiefe einzubauen), Akshardham, Lotus-Tempel und den ganzen Lodhi Garden. Dafür braucht es einen zweiten Tag. Wenn Sie nur einen Tag haben und alle drei UNESCO-Stätten wollen, siehe die **„Schnelldurchlauf“-Variante** am Ende dieses Guides.\n\n**Die wichtigste Regel für einen Tag in Delhi**: **Starten Sie um 6:00 Uhr.** Der Unterschied zwischen einem Start um 6 und um 9 Uhr ist der Unterschied zwischen einem ruhigen, außergewöhnlichen Morgen am Roten Fort und einem überfüllten, chaotischen. Früh loszugehen ist alles."
+   },
+   {
+    "title": "6:00 Uhr: Ankunft am Roten Fort",
+    "content": "Das **[Rote Fort](/india/delhi/red-fort)** öffnet um **9:30 Uhr**, aber seien Sie schon um 6:00 Uhr in Alt-Delhi, um zu erleben, wie die Stadt erwacht. Gehen Sie zu Fuß oder nehmen Sie eine Autorikscha vom Hotel zum Roten Fort und erkunden Sie am frühen Morgen die Außenmauern entlang der Netaji Subhash Marg, während die Sonne über dem roten Sandstein aufgeht.\n\n**Ab 9:30 Uhr**: Eintritt durch das **Delhi-Tor** (Südeingang, kürzere Schlangen als am Lahori-Tor). Buchen Sie das Ticket in der Hauptsaison von Oktober bis Februar vorab online auf der ASI-Website.\n\nIm Inneren in dieser Reihenfolge:\n1. **Diwan-i-Aam** (Halle der öffentlichen Audienz), 15 Minuten\n2. **Diwan-i-Khas** (Halle der Privataudienz, einst Standort des Pfauenthrons), 15 Minuten\n3. **Rang Mahal** (Palast der Farben), 10 Minuten\n4. **Moti Masjid** (Perlmoschee), 10 Minuten\n5. Gemütlicher Rückweg durch die Palastgärten, 20 Minuten\n\n**Gesamtzeit im Roten Fort**: maximal 90 Minuten. Nicht verlängern, Sie brauchen Zeit für Chandni Chowk.\n\n**Eintritt**: 600 ₹ Ausländer / 35 ₹ Inder.\n\n**Praktisch**: keine Speisen oder großen Taschen im Inneren. Sicherheitskontrolle am Eingang. Ticket aufbewahren, es wird an den inneren Toren erneut kontrolliert."
+   },
+   {
+    "title": "11:00 Uhr: Chandni Chowk und Jama Masjid",
+    "content": "Verlassen Sie das Rote Fort durch das Lahori-Tor und biegen Sie rechts in **Chandni Chowk** ein, Delhis berühmteste historische Marktstraße, die sich 1,5 km westwärts bis zur Fatehpuri-Moschee zieht.\n\n### Der Spaziergang durch Chandni Chowk\n\nKeine Eile. Gehen Sie langsam und schauen Sie links und rechts in die Seitengassen. Die Hauptstraße ist eine komprimierte Geschichte des indischen Handels: Goldschmiedeläden, die seit 200 Jahren bestehen, Großmärkte für Medikamente, Süßwarenläden, Stoffhändler und Streetfood-Stände, die sich den Platz mit Fahrradrikschas und streunenden Kühen teilen.\n\n**Frühstücken Sie hier**, das ist Delhis beste Streetfood-Zone:\n- **Jalebi bei Old Famous Jalebi Wala** (frittierte Zuckerspiralen, heiß serviert): 60 ₹\n- **Chole Bhature bei Sita Ram Diwan Chand** (Kichererbsen + frittiertes Brot): 80 ₹\n- Oder **Paranthe in der Paranthe Wali Gali** (gefüllte Fladenbrote, in der Gasse ab Chandni Chowk): 60 bis 100 ₹\n\n### Jama Masjid\n\nAm Südende von Chandni Chowk links abbiegen und zur **Jama Masjid** gehen, Indiens größter Moschee, von Shah Jahan zwischen 1650 und 1656 erbaut. Der Eintritt ist für nichtmuslimische Besucher außerhalb der Gebetszeiten frei.\n\n**Steigen Sie auf das Südminarett** (100 ₹ Kameragebühr): Der Blick von oben über die Dächer Alt-Delhis, das Rote Fort im Osten, das Chaos von Chandni Chowk darunter, die ferne Skyline Neu-Delhis, ist eines der großen Stadtpanoramen Asiens. 20 Minuten einplanen.\n\nKleiderordnung in der Jama Masjid: Schultern und Knie bedeckt für alle Besucher. Umhänge am Eingang für 10 ₹.\n\n**Gesamtzeit Chandni Chowk + Jama Masjid**: 90 Minuten."
+   },
+   {
+    "title": "13:00 Uhr: Raj Ghat und Mittagessen",
+    "content": "Von der Jama Masjid mit der Autorikscha (40 bis 60 ₹) oder Uber zum **Raj Ghat**, der stillen Gedenkstätte am Ort der Einäscherung **Mahatma Gandhis** am Ufer der Yamuna. Eine schlichte Plattform aus schwarzem Marmor in wunderschön gepflegten Gärten markiert die genaue Stelle. An einem Ende brennt eine ewige Flamme.\n\nRaj Ghat ist kostenlos, ruhig und braucht nur 20 bis 30 Minuten. Es bietet einen Moment echter Besinnung nach der sinnlichen Intensität Alt-Delhis. Der Kontrast vom Lärm von Chandni Chowk zur Stille des Raj Ghat gehört zu den großen Kontrasten Delhis.\n\n### Optionen fürs Mittagessen\n\n**Option A: Restaurant Karim's** (nahe Jama Masjid): Essen Sie vor dem Abschied von Alt-Delhi bei **Karim's**, 1913 von Nachfahren der königlichen Mogulköche gegründet. Lammkorma und Seekh Kebabs sind Pflicht. Budget 300 bis 500 ₹ pro Person. Nur Barzahlung.\n\n**Option B: Picknick auf den Rasenflächen am India Gate**: Kaufen Sie Streetfood nahe dem India Gate und essen Sie auf dem Rasen, eines der großen kostenlosen Erlebnisse Delhis.\n\n**Option C: Khan Market**: Delhis nobelster Viertelmarkt, 15 Minuten vom India Gate mit Uber. Mehrere ausgezeichnete Restaurants in allen Preisklassen."
+   },
+   {
+    "title": "14:30 Uhr: India Gate und Kartavya Path",
+    "content": "Nehmen Sie ein Uber vom Raj Ghat oder Khan Market zum **[India Gate](/india/delhi/india-gate)** (etwa 150 bis 200 ₹, 20 Minuten).\n\nAm India Gate beginnt Ihr **Neu-Delhi-Erlebnis**. Gehen Sie den **Kartavya Path** in voller Länge vom India Gate westwärts Richtung Rashtrapati Bhavan, 3 km entlang des grandiosesten Zeremonialboulevards Indiens. Dieser Spaziergang gehört zu den großen kostenlosen Erlebnissen Delhis und lässt sich nicht beschleunigen.\n\nUnterwegs:\n- Das **National War Memorial** (hinter dem India Gate), 15 Minuten\n- Die breiten Spiegelbecken beidseits des Boulevards\n- North und South Block (Finanz- und Außenministerium), prächtige Sandsteinbauten von Herbert Baker\n- Der ferne Blick auf die **Kuppel des Rashtrapati Bhavan** am Ende\n\n**Fototipp**: Das beste Foto vom India Gate gelingt vom Ostende des Kartavya Path, mit Blick nach Westen in die untergehende Sonne, der Bogen als Silhouette im Gegenlicht. Im Winter klappt das am besten zwischen 16:30 und 17:30 Uhr.\n\n**Gesamtzeit India Gate + Kartavya Path**: 60 bis 75 Minuten."
+   },
+   {
+    "title": "16:00 Uhr: Humayun-Mausoleum (goldene Stunde)",
+    "content": "Vom India Gate mit Uber zum **[Humayun-Mausoleum](/india/delhi/humayuns-tomb)** (15 Minuten, ~120 ₹). Ankunft zwischen 16:00 und 16:30 Uhr.\n\nDas Licht des späten Nachmittags auf dem Humayun-Mausoleum, besonders im Winter, ist außergewöhnlich. Der rote Sandstein wird zu tiefem Bernstein, die weißen Marmoreinlagen leuchten, und die Wasserkanäle im Charbagh-Garten spiegeln den Himmel. Das ist die beste Stunde, um dieses Monument zu fotografieren.\n\n**Was Sie sehen sollten** (60 bis 75 Minuten bis zur Schließung):\n1. Durch das Westtor eintreten und am Eingangsbogen innehalten: Der volle Blick auf das Grab, gerahmt vom Torbau, ist einer der großen architektonischen Momente Delhis.\n2. Durch den Charbagh-Garten entlang des zentralen Wasserkanals zum Hauptgrab gehen.\n3. Die Hauptkammer betreten: Humayuns Kenotaph aus weißem Marmor, umgeben von den Kenotaphen von über 150 Mitgliedern der Mogulfamilie in den Nischen ringsum.\n4. Den Gartenrand abgehen für Fotos des Grabs aus den Ecken.\n5. Auf dem Rückweg das **Grab von Isa Khan** besuchen, ein schönes achteckiges Grab aus der Lodi-Zeit, das eilige Touristen selten bemerken.\n\n**Der architektonische Zusammenhang**: Wenn Sie verstehen, dass alles, was Sie hier sehen, Doppelkuppel, Charbagh, die Kombination aus rotem Sandstein und weißem Marmor, von Shah Jahan 72 Jahre später direkt für das [Taj Mahal](/india/agra/taj-mahal) übernommen wurde, wird das Erlebnis ungleich interessanter.\n\n**Eintritt**: 600 ₹ Ausländer / 40 ₹ Inder. Geöffnet bis Sonnenuntergang (~18:00 Uhr im Winter)."
+   },
+   {
+    "title": "Abend: Connaught Place und Abendessen",
+    "content": "Vom Humayun-Mausoleum mit der Metro ab **JLN Stadium** (Violet Line) nach **Rajiv Chowk** (Kreuzung Yellow/Blue Line), dem Herzen des **Connaught Place**. Fahrzeit etwa 25 Minuten, Preis 40 ₹.\n\n**Connaught Place (CP)** ist Delhis elegantestes Geschäftsviertel, ein kreisförmiger Marktplatz mit Kolonnaden im georgianischen Stil, 1933 von Robert Tor Russell entworfen. Innerer und äußerer Ring sind gesäumt von Restaurants, Bars, Läden und Cafés von günstig bis gehoben.\n\n### Empfehlungen zum Abendessen nach Budget\n\n**Günstig (200 bis 400 ₹)**: **Sagar Ratna** im inneren Ring für ausgezeichnete südindische Küche, Dosas, Idlis und Uttapams. Delhis beste vegetarische Option in dieser Preisklasse.\n\n**Mittelklasse (500 bis 1.000 ₹)**: **Zaffran** für raffinierte Mogulküche, Butter Chicken, Dal Makhani und Biryani in stilvollem Ambiente. Eine der besten Ausdrucksformen von Delhis kulinarischem Mogul-Erbe.\n\n**Gehoben (ab 1.500 ₹)**: **Indian Accent** (Reservierung erforderlich, regelmäßig als Indiens bestes Restaurant ausgezeichnet) oder **Bukhara** im Hotel ITC Maurya, das 45 Jahre alte Restaurant mit holzbefeuertem Tandoor, berühmt für sein Dal Bukhara und dafür, dass jedes Staatsoberhaupt auf Besuch hier isst.\n\n### Optionaler Abendabschluss: Ton- und Lichtshow im Roten Fort\n\nWenn die Energie reicht, beenden Sie den Tag bei der **Ton- und Lichtshow im Roten Fort** (englische Vorstellung 20:30 Uhr, 250 ₹ Ausländer). Fahren Sie mit der Metro zurück zum Roten Fort (Station Lal Quila, Violet Line) und erleben Sie die Mogulgeschichte des Forts, erzählt mit dramatischer Beleuchtung. Der perfekte Rahmen für einen Tag, der an den Mauern des Forts begann."
+   },
+   {
+    "title": "Buchen Sie Ihre Ein-Tages-Tour durch Delhi mit privatem Guide",
+    "content": "Ein privater Guide verwandelt ein Ein-Tages-Programm in Delhi von einer Monument-Checkliste in eine lebendige Erzählung. Unsere lizenzierten Historiker-Guides organisieren den Transport, umgehen die Schlangen, entschlüsseln die Architektur und führen Sie zu den Essensständen, die kein Reiseführer erwähnt. Private Ganztagestouren durch Delhi decken alles Obige ab, und dazu die Geschichten, die jedes Monument unvergesslich machen."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Was ist das beste Ein-Tages-Programm für Delhi?",
+    "a": "Das optimale Ein-Tages-Programm für Delhi: **6:00 Uhr** Ankunft in Alt-Delhi. **9:30 Uhr** Rotes Fort (90 Min). **11:00 Uhr** Spaziergang durch Chandni Chowk + Frühstück + Jama Masjid (90 Min). **13:00 Uhr** Raj Ghat + Mittagessen. **14:30 Uhr** India Gate + Spaziergang auf dem Kartavya Path (75 Min). **16:00 Uhr** Humayun-Mausoleum zur goldenen Stunde (75 Min). **18:30 Uhr** Abendessen am Connaught Place. Optional: **20:30 Uhr** Ton- und Lichtshow im Roten Fort."
+   },
+   {
+    "q": "Kann ich den Qutub Minar in ein Ein-Tages-Programm für Delhi einbauen?",
+    "a": "Möglich, aber auf Kosten der Tiefe an anderer Stelle. Der [Qutub Minar](/india/delhi/qutub-minar) liegt in Süd-Delhi, etwa 45 Minuten mit der Metro von Alt-Delhi. Für alle drei UNESCO-Stätten an einem Tag: Rotes Fort (morgens) → Humayun-Mausoleum (mittags) → Qutub Minar (nachmittags). Chandni Chowk, den India-Gate-Spaziergang und Raj Ghat auslassen. Das ist die „Schnelldurchlauf“-Version: machbar, aber gehetzt."
+   },
+   {
+    "q": "Wann sollte ein Ein-Tages-Programm für Delhi beginnen?",
+    "a": "**6:00 Uhr**, nicht verhandelbar. Der Unterschied zwischen Ankunft in Alt-Delhi um 6 oder um 9 Uhr ist enorm: weniger Menschen, besseres Fotolicht und das magische Erlebnis, die Stadt rund um die Mauern des Roten Forts erwachen zu sehen. Ein später Start komprimiert alles und mindert die Qualität jedes Erlebnisses."
+   },
+   {
+    "q": "Reicht ein Tag für Delhi?",
+    "a": "Ein Tag reicht, um Delhis Höhepunkte zu sehen und ein echtes Gefühl für die Stadt zu bekommen. Er reicht **nicht**, um alles zu sehen: Delhi verdient 3 bis 5 Tage für ein richtiges Erlebnis. Aber ein gut geplanter Tag mit frühem Start kann das Rote Fort, Alt-Delhi, das India Gate und das Humayun-Mausoleum abdecken, vier der sechs wesentlichen Erlebnisse Delhis."
+   },
+   {
+    "q": "Was kostet ein Ein-Tages-Programm für Delhi?",
+    "a": "**Günstig**: 1.500 bis 2.500 ₹ pro Person (Metro + Eintritte + Streetfood + Autorikschas). **Mittelklasse**: 3.000 bis 5.000 ₹ pro Person (plus Uber zwischen den Orten + ein Restaurantessen). **Gehoben**: 8.000 bis 15.000 ₹ pro Person (privater Guide + Abendessen im Spitzenrestaurant). Eintritte allein: etwa 1.240 ₹ für ausländische Touristen (Rotes Fort 600 ₹ + Humayun-Mausoleum 600 ₹ + Minarett der Jama Masjid 100 ₹)."
+   },
+   {
+    "q": "Ist das Rote Fort montags geschlossen?",
+    "a": "Ja, das **Rote Fort ist jeden Montag geschlossen**. Fällt Ihr Tag in Delhi auf einen Montag, ersetzen Sie das Rote Fort durch das [Humayun-Mausoleum](/india/delhi/humayuns-tomb) und den [Qutub Minar](/india/delhi/qutub-minar) (beide montags geöffnet) als Morgenmonumente und besuchen Sie Chandni Chowk und die Jama Masjid wie geplant."
+   },
+   {
+    "q": "Sollte ich für einen Tag in Delhi einen Guide buchen?",
+    "a": "Ja, für einen Eintagesbesuch dringend empfohlen. Ein lizenzierter Guide spart die Zeit fürs Orientieren, erklärt an jedem Monument, was Sie sehen (und erspart Ihnen Stunden Lektüre), organisiert den Transport und führt Sie zu den besten Essensständen. Die gewonnene Zeit kann den Unterschied zwischen 3 und 5 Besichtigungen am Tag ausmachen. Unsere [privaten Touren in Delhi](/india/delhi) sind ab dem frühen Morgen verfügbar."
+   },
+   {
+    "q": "Wie kommt man an einem Tag am günstigsten durch Delhi?",
+    "a": "Die **Delhi Metro** ist zwischen den großen Orten die günstigste und zuverlässigste Option. Die 1-Tages-Touristenkarte kostet 200 ₹ für unbegrenzte Fahrten. Nutzen Sie Autorikschas (30 bis 80 ₹) für kurze Strecken in Alt-Delhi. Für Fahrten quer durch die Stadt, etwa vom India Gate zum Humayun-Mausoleum, Uber oder Ola (100 bis 200 ₹). Verhandeln Sie nicht mit Taxis ohne Taxameter."
+   },
+   {
+    "q": "Was sollte man an einem Tag in Delhi essen?",
+    "a": "**Frühstück (Chandni Chowk)**: Jalebi oder Chole Bhature. **Vormittagssnack**: Paranthe in der Paranthe Wali Gali. **Mittagessen**: Karim's nahe der Jama Masjid (Lammkorma oder Seekh Kebabs). **Abend (Connaught Place)**: Butter Chicken oder Dal Makhani bei Zaffran oder Bukhara."
+   },
+   {
+    "q": "Kann ich von Delhi einen Tagesausflug zum Taj Mahal machen?",
+    "a": "Ja, aber er ersetzt dieses Programm, statt es zu ergänzen. Ein Tagesausflug Delhi → Agra nimmt den **Gatimaan Express** ab Bahnhof Hazrat Nizamuddin um 8:10 Uhr (Ankunft Agra 9:50 Uhr) und gibt Ihnen einen vollen Tag am [Taj Mahal](/india/agra/taj-mahal) und im Agra Fort, bevor es abends zurück nach Delhi geht. Wenn Sie nur einen Tag in Indien haben, ist der Taj-Mahal-Ausflug vielleicht die höhere Priorität."
+   },
+   {
+    "q": "Welches Monument ist abends in Delhi am besten?",
+    "a": "Das **India Gate** bei Sonnenuntergang (kostenlos, rund um die Uhr offen) ist das beste Abendmonument Delhis: Der golden beleuchtete Bogen vor dem dunkler werdenden Himmel gehört zu den spektakulärsten Anblicken der Stadt. Die **Ton- und Lichtshow im Roten Fort** (englische Vorstellung 20:30 Uhr, 250 ₹ Ausländer) ist das beste organisierte Abenderlebnis. Das [Humayun-Mausoleum](/india/delhi/humayuns-tomb) zur goldenen Stunde (16:00 bis 17:30 Uhr) ist das beste Fotoerlebnis."
+   }
+  ]
  }
 };
 export const DE_CITIES: Record<string, CityT> = {
