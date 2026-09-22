@@ -1013,6 +1013,258 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "delhi-full-day-guided-tour": {
+  "title": "Visita guiada de día completo por Delhi",
+  "metaTitle": "Guía con licencia para la India Gate y Delhi, día guiado",
+  "metaDescription": "Reserva un guía con licencia para la India Gate y los grandes lugares de Delhi: el monumento de guerra de 42 metros, el Amar Jawan Jyoti y el simbolismo del monumento explicados.",
+  "shortDescription": "Reserva un guía con licencia para tu visita a la India Gate en Nueva Delhi y descubre este monumento emblemático con verdadero contexto histórico. La India Gate es mucho más que una parada para fotos: es un poderoso monumento de guerra que honra a más de 70.000 soldados indios caídos en la Primera Guerra Mundial.",
+  "fullDescription": "Reserva un guía con licencia para tu visita a la India Gate en Nueva Delhi y descubre este monumento emblemático con verdadero contexto histórico. La India Gate es mucho más que una parada para fotos: es un poderoso monumento de guerra que honra a más de 70.000 soldados indios que dieron su vida en la Primera Guerra Mundial.\n\nCon un guía profesional entenderás el simbolismo del monumento, la historia del Amar Jawan Jyoti (la llama eterna) y la importancia arquitectónica de este arco triunfal de 42 metros, antes de continuar hacia los demás grandes lugares de la capital.",
+  "highlights": [
+   "Guía para la India Gate",
+   "Guías autorizados por el gobierno",
+   "Visita guiada a la India Gate"
+  ],
+  "included": [
+   "Entrada"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "india-gate-approved-guided-tour": {
+  "title": "Guía autorizado por el gobierno para explorar Delhi",
+  "metaTitle": "Guía oficial autorizado para la Vieja y la Nueva Delhi",
+  "metaDescription": "Explora Delhi con un guía local autorizado por el gobierno: las siete ciudades, del sultanato a los mogoles y al Raj británico. Coche opcional.",
+  "shortDescription": "Reserva un guía local autorizado por el gobierno para explorar Delhi y descubrir historias auténticas, del periodo del sultanato a la era mogol y al Raj británico. La historia, la cultura y el patrimonio de la ciudad con un experto en cada paso.",
+  "fullDescription": "Explora Delhi con un guía local autorizado por el gobierno y descubre las historias de sus legendarias siete ciudades, construidas por distintos gobernantes a lo largo del tiempo. Desde el primer periodo del sultanato hasta el esplendor del Imperio mogol y la influencia del Raj británico, vive el rico recorrido histórico de la ciudad.\n\nCamina entre ruinas antiguas, monumentos majestuosos y calles animadas mientras tu guía experto comparte datos auténticos, hechos ocultos y experiencias locales, para que tu visita a la Vieja y la Nueva Delhi sea realmente memorable.",
+  "highlights": [
+   "La Vieja y la Nueva Delhi con un guía oficial",
+   "El encanto de la Nueva y la Vieja Delhi con un guía con licencia",
+   "Delhi como un local con un guía oficial"
+  ],
+  "included": [
+   "Guía en inglés autorizado por el gobierno",
+   "Coche para la visita de la ciudad (si se reserva la opción)"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Coche para las visitas (salvo opción)",
+   "Almuerzo"
+  ]
+ },
+ "delhi-same-day-sightseeing-tour": {
+  "title": "Visita a Delhi en un día",
+  "metaTitle": "Delhi en un día: Fuerte Rojo, Jama Masjid, Qutub Minar, India Gate",
+  "metaDescription": "Día completo en Delhi en coche privado con guía autorizado: Fuerte Rojo, Jama Masjid, Chandni Chowk, India Gate, Rashtrapati Bhavan, Qutub Minar y Raj Ghat. Entradas y almuerzo incluidos.",
+  "shortDescription": "La historia, la cultura y las maravillas arquitectónicas de Delhi en un día. Perfecta sin pernoctar, esta visita cubre los grandes lugares de la Vieja y la Nueva Delhi en un cómodo vehículo privado con un guía experimentado.",
+  "fullDescription": "Explora la vibrante ciudad de Delhi en una completa visita de un día que abarca sus puntos históricos y modernos. Empieza con el majestuoso Fuerte Rojo y la emblemática Jama Masjid en la Vieja Delhi, seguidos de un paseo por los bulliciosos mercados de Chandni Chowk. En Nueva Delhi, admira la grandeza de la India Gate, el Rashtrapati Bhavan y el histórico Qutub Minar. Rinde homenaje en Raj Ghat y haz fotos memorables durante todo el día.\n\nCon coche privado, conductor experimentado y guía experto, esta visita ofrece una experiencia cómoda, enriquecedora y memorable de la rica historia, cultura y arquitectura de Delhi en un solo día.",
+  "highlights": [
+   "Coche privado con aire acondicionado y conductor",
+   "Visita guiada a los principales monumentos históricos",
+   "Mercados bulliciosos y lugares culturales"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor experimentado",
+   "Entradas a los monumentos",
+   "Guía profesional autorizado por el gobierno",
+   "Almuerzo",
+   "Agua embotellada durante la visita"
+  ],
+  "notIncluded": [
+   "Propinas para guía y conductor"
+  ]
+ },
+ "india-gate-triangle-private-tour": {
+  "title": "Triángulo de Oro en 4 días: Delhi, Agra y Jaipur con guía privado",
+  "metaTitle": "Triángulo de Oro 4 días en privado: Delhi, Agra, Jaipur, hotel y guía",
+  "metaDescription": "Circuito privado de 4 días por Delhi, Agra y Jaipur: Taj Mahal sin colas, Fuerte de Agra, Fatehpur Sikri, Fuerte Amber, City Palace, Hawa Mahal. Coche con aire acondicionado, guías locales y hotel de 3 estrellas.",
+  "shortDescription": "El famoso Triángulo de Oro de India en un circuito privado de 4 días por Delhi, Agra y Jaipur. Monumentos emblemáticos con guía local profesional, acceso sin colas al Taj Mahal, cómodo coche privado y la historia, la cultura, la arquitectura y las tradiciones de tres ciudades fascinantes.",
+  "fullDescription": "Vive lo mejor del Triángulo de Oro de India en un circuito privado de 4 días por Delhi, Agra y Jaipur. Descubre los monumentos históricos de Delhi, explora el magnífico Taj Mahal y el Fuerte de Agra, visita la fascinante ciudad mogol de Fatehpur Sikri y vive el patrimonio real de Jaipur en el Fuerte Amber, el City Palace, el Hawa Mahal y el Jantar Mantar.\n\nViaja cómodamente en vehículo privado con aire acondicionado y guías locales profesionales que comparten historias fascinantes, datos históricos y tradiciones locales. Visitas personalizadas y paradas flexibles para fotos, comidas, compras y descanso, para vivir el rico patrimonio mogol y rajput de India de forma cómoda y memorable.",
+  "highlights": [
+   "Sáltate la cola del Taj Mahal y ahorra tiempo de visita",
+   "Fuertes, palacios, templos y sitios históricos emblemáticos con guía local",
+   "Viaja cómodo con transporte privado y horario flexible",
+   "La rica historia, cultura, arquitectura y tradiciones de India",
+   "El Triángulo de Oro con un guía profesional con licencia"
+  ],
+  "included": [
+   "Guía profesional con licencia",
+   "Coche privado con aire acondicionado para todo el circuito Delhi, Agra y Jaipur",
+   "Alojamiento en hotel de 3 estrellas u opción superior",
+   "Recogida y regreso en hotel, aeropuerto o lugar elegido",
+   "Acceso sin cola de entradas en el Taj Mahal",
+   "Agua embotellada en el vehículo",
+   "Impuestos y cargos de servicio aplicables"
+  ],
+  "notIncluded": [
+   "Propinas para guía y conductor",
+   "Gastos personales y compras",
+   "Almuerzos y cenas",
+   "Entradas a los monumentos",
+   "Propinas al personal del hotel",
+   "Seguro de viaje",
+   "Servicios no mencionados en lo incluido"
+  ]
+ },
+ "taj-mahal-superfast-guided-tour": {
+  "title": "Excursión al Taj Mahal en tren desde Delhi",
+  "metaTitle": "Taj Mahal en tren rápido desde Delhi, día con guía y entradas",
+  "metaDescription": "Día en el Taj Mahal desde Delhi en tren rápido: billetes de ida y vuelta, coche privado en Agra, guía autorizado, entradas al Taj Mahal y al Fuerte de Agra, almuerzo incluido.",
+  "shortDescription": "La belleza eterna del Taj Mahal en una cómoda excursión de un día desde Delhi en tren rápido. Perfecta para viajeros que prefieren rapidez y comodidad: viaje en tren sin complicaciones y visitas guiadas en Agra, sin pernoctar.",
+  "fullDescription": "Vive la grandeza del Taj Mahal en una cómoda excursión de un día desde Delhi en tren rápido. Empieza temprano en un tren cómodo y veloz, disfrutando del paisaje por el camino. Al llegar a Agra, explora la impresionante belleza del mármol blanco del Taj Mahal con un guía experto que cuenta su historia, su arquitectura y la historia romántica que lo inspiró.\n\nOpcionalmente, visita el histórico Fuerte de Agra y pasea por los mercados locales en busca de artesanía, incrustaciones en mármol y recuerdos. Con coche privado para las visitas y la comodidad del tren de alta velocidad, esta excursión ofrece una experiencia memorable y sin complicaciones del monumento más emblemático de India en un solo día, perfecta para viajeros con poco tiempo.",
+  "highlights": [
+   "Billetes de tren rápido de ida y vuelta Delhi–Agra",
+   "Coche privado con conductor para las visitas en Agra",
+   "Visita guiada al Taj Mahal",
+   "Visita al Fuerte de Agra"
+  ],
+  "included": [
+   "Billetes de tren rápido de ida y vuelta Delhi–Agra",
+   "Coche privado con aire acondicionado y conductor en Agra",
+   "Entradas al Taj Mahal y al Fuerte de Agra",
+   "Guía profesional autorizado por el gobierno",
+   "Almuerzo",
+   "Agua embotellada durante las visitas"
+  ],
+  "notIncluded": [
+   "Propinas para guía y conductor"
+  ]
+ },
+ "taj-mahal-agra-day-trip-luxury-car": {
+  "title": "Desde Delhi: Taj Mahal y Agra en el día en coche de lujo",
+  "metaTitle": "Taj Mahal desde Delhi en Mercedes Clase E, todo incluido",
+  "metaDescription": "Excursión de lujo Delhi–Agra en Mercedes-Benz Clase E o S con chófer en inglés: Taj Mahal y Fuerte de Agra con guía oficial, entradas, acceso rápido y almuerzo buffet de 5 estrellas incluidos.",
+  "shortDescription": "El Taj Mahal, uno de los mayores símbolos de amor del mundo, en una excursión de un día desde Delhi. Viaja con comodidad en un Mercedes-Benz Clase E con chófer que habla inglés. Taj Mahal y Fuerte de Agra con un guía oficial cualificado. Entradas y almuerzo buffet en hotel de 5 estrellas incluidos para una experiencia fluida y enriquecedora.",
+  "fullDescription": "Disfruta de un viaje exclusivo de un día desde Delhi para vivir la magnificencia eterna del Taj Mahal, el símbolo de amor eterno más célebre del mundo. Viaja con refinada elegancia a bordo de un Mercedes-Benz Clase E con chófer, acompañado de un conductor profesional que habla inglés y garantiza un servicio impecable durante todo el día.\n\nEn Agra, disfruta de acceso privilegiado al Taj Mahal y al majestuoso Fuerte de Agra, guiado por un experto altamente cualificado y autorizado por el gobierno que da vida a la historia mogol con profundidad y sofisticación.\n\nLa experiencia se completa con entradas a los monumentos gestionadas de antemano y un suntuoso almuerzo buffet en un hotel de cinco estrellas, para una escapada patrimonial fluida, lujosa y realmente memorable.",
+  "highlights": [
+   "Visita privada de lujo en Mercedes-Benz Clase E o S con chófer",
+   "Excursión de lujo Delhi–Agra–Delhi en Mercedes-Benz",
+   "Flota nueva con chófer profesional que habla inglés",
+   "Taj Mahal y fuerte con un guía oficial cualificado"
+  ],
+  "included": [
+   "Ida y vuelta Delhi–Agra en Mercedes-Benz Clase E o S",
+   "Chófer que habla inglés",
+   "Impuestos, peajes, combustible y aparcamiento",
+   "Guía oficial para el Taj Mahal y el Fuerte de Agra",
+   "Entrada rápida sin colas",
+   "Entradas (Taj Mahal y Fuerte de Agra)",
+   "Botellas de agua y refrescos",
+   "Carrito de golf ida y vuelta al Taj Mahal",
+   "Almuerzo buffet en hotel de cinco estrellas"
+  ],
+  "notIncluded": [
+   "Nada"
+  ]
+ },
+ "india-gate-private-tour": {
+  "title": "Triángulo de Oro y Rajastán en 8 días en privado: Delhi, Agra, Jaipur, Jodhpur y Udaipur",
+  "metaTitle": "8 días Triángulo de Oro y Rajastán en privado, Toyota con chófer",
+  "metaDescription": "Circuito privado de 8 días por Delhi, Agra, Jaipur, Jodhpur y Udaipur: Taj Mahal, Fuerte Amber, Mehrangarh, Ranakpur, lago Pichola. Toyota nuevo con conductor en inglés y guías locales autorizados.",
+  "shortDescription": "Descubre India en 8 días: Delhi, Agra, Jaipur, Jodhpur y Udaipur. Taj Mahal, fuertes reales, mercados coloridos y bellos lagos con transporte privado y guías locales. Berlina Toyota nueva con conductor que habla inglés. Para reservar un SUV Toyota Innova Crysta privado, elige la opción 2 al reservar.",
+  "fullDescription": "**Triángulo de Oro y Rajastán en 8 días**\n\nDescubre lo mejor de India en un inolvidable viaje privado de 8 días por Delhi, Agra, Jaipur, Jodhpur y Udaipur. Explora los monumentos históricos y la vibrante ciudad vieja de Delhi, y después el magnífico Taj Mahal y el Fuerte de Agra.\n\nContinúa hacia Jaipur, la famosa ciudad rosa, para descubrir el Fuerte Amber, el City Palace, el Hawa Mahal y el Jantar Mantar. Sigue hasta Jodhpur para explorar el majestuoso Fuerte Mehrangarh, la ciudad azul y los mercados locales.\n\nLlega a la preciosa Udaipur pasando por Ranakpur y disfruta del City Palace, el templo Jagdish, la ciudad vieja y un memorable paseo en barco al atardecer por el lago Pichola.\n\nViaja cómodamente en vehículo privado con aire acondicionado, con conductores profesionales y guías locales expertos en inglés durante todo el circuito.",
+  "highlights": [
+   "8 días Triángulo de Oro y Rajastán: Delhi, Agra, Jaipur, Jodhpur y Udaipur",
+   "Toyota nuevo con conductor que habla inglés",
+   "Cada ciudad con un guía local autorizado por el gobierno",
+   "Circuito privado y personalizable tras la reserva"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado durante todo el circuito",
+   "Coche durante 8 días Delhi–Agra–Jaipur–Jodhpur–Udaipur",
+   "Conductor profesional que habla inglés",
+   "Recogida y regreso en aeropuerto, hotel o lugar designado",
+   "Guías en inglés en Delhi, Agra, Jaipur, Jodhpur y Udaipur",
+   "Todas las visitas y traslados según el itinerario",
+   "Opción de visita al Taj Mahal al amanecer",
+   "Fatehpur Sikri y Ranakpur según el itinerario",
+   "Paseo en barco al atardecer por el lago Pichola",
+   "Peajes, aparcamiento, combustible y dietas del conductor",
+   "Agua embotellada durante las visitas",
+   "Impuestos de vehículo e interestatales",
+   "Asistencia de nuestro equipo local durante todo el circuito"
+  ],
+  "notIncluded": [
+   "Hoteles (si no se reserva la opción)",
+   "Entradas (si no se reserva la opción)",
+   "Comidas"
+  ]
+ },
+ "taj-mahal-sunrise-elephant-conservation-tour": {
+  "title": "Desde Delhi: Taj Mahal al amanecer y centro de conservación de elefantes",
+  "metaTitle": "Taj Mahal al amanecer y elefantes rescatados de Wildlife SOS desde Delhi",
+  "metaDescription": "Día privado desde Delhi: Taj Mahal al amanecer con guía y después hasta 2 horas en el centro Wildlife SOS de elefantes rescatados. Coche con aire acondicionado, conductor, entradas opcionales.",
+  "shortDescription": "La belleza del amanecer en el Taj Mahal desde Delhi y después un santuario de elefantes para conocer animales rescatados y apoyar su cuidado en un entorno natural tranquilo. Visita privada.",
+  "fullDescription": "Empieza el día con una cómoda recogida en tu hotel o en el aeropuerto de Delhi y unas 3 horas de trayecto en coche privado con aire acondicionado hasta Agra.\n\nConoce a tu guía experto y dirígete al encantador Taj Mahal, símbolo de amor eterno encargado por el emperador mogol Shah Jahan para su amada esposa Mumtaz Mahal. Disfruta de las vistas del amanecer y dedica unas 2-3 horas al mausoleo.\n\nDespués, pausa para almorzar en un restaurante con sabores locales e internacionales (si se elige la opción de almuerzo).\n\nA continuación, el centro de cuidado y conservación de elefantes de Wildlife SOS. Pasa hasta 2 horas conociendo la labor de conservación de la organización.\n\nAl final del día, te dejamos en tu hotel o en el aeropuerto, en Agra o en Delhi según la opción elegida.",
+  "highlights": [
+   "El mágico amanecer sobre el Taj Mahal, con la suave luz de la mañana",
+   "La gran arquitectura mogol del Fuerte de Agra, Patrimonio de la Humanidad",
+   "Un santuario ético con elefantes rescatados"
+  ],
+  "included": [
+   "Visitas en coche privado con aire acondicionado",
+   "Conductor privado uniformado",
+   "Aparcamiento, peajes, impuestos, dietas, combustible e impuestos interestatales",
+   "Guía privado en persona",
+   "Entradas a los monumentos (según las opciones)",
+   "Visita al parque de elefantes u osos (según las opciones)",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "india-gate-airport-guided-tour": {
+  "title": "Nueva Delhi: visita guiada India Gate y escala en el aeropuerto",
+  "metaTitle": "Escala en Delhi: visita privada desde el aeropuerto con guía",
+  "metaDescription": "Convierte tu escala en Delhi en una visita privada desde el aeropuerto Indira Gandhi: conductor, guía con licencia, coche con aire acondicionado, grandes lugares de la Vieja y la Nueva Delhi, regreso a tiempo para tu vuelo.",
+  "shortDescription": "Aprovecha tu tiempo de tránsito con una visita privada de escala por Delhi que empieza y termina en el aeropuerto. Nuestro conductor y guía profesional te reciben a la llegada y te llevan a una cómoda visita de la ciudad en coche con aire acondicionado.",
+  "fullDescription": "**Visita de escala en Delhi en coche con guía privado**\n\nConvierte tu tiempo de tránsito en una experiencia memorable con nuestra visita de escala en Delhi, diseñada para viajeros internacionales con poco tiempo. Visita privada directamente desde el aeropuerto internacional Indira Gandhi con conductor dedicado y guía con licencia.\n\nDescubre lo mejor de Delhi en pocas horas: los principales lugares de la Vieja y la Nueva Delhi, monumentos históricos, bazares bulliciosos y cultura local. Viaja cómodamente en un coche limpio con aire acondicionado, con recogida y regreso flexibles según tu horario de vuelo.\n\nEsta breve visita desde el aeropuerto es ideal para pasajeros en escala, viajeros en tránsito y visitantes de negocios que quieren una mirada rápida pero auténtica a la capital de India. Garantizamos el regreso puntual al aeropuerto, para un viaje fluido, seguro y sin estrés.",
+  "highlights": [
+   "Visita a la Nueva y la Vieja Delhi durante tu escala",
+   "Recogida y regreso en el aeropuerto de Nueva Delhi con visita guiada",
+   "Todos los grandes lugares emblemáticos de Delhi con un guía oficial",
+   "Coche privado con aire acondicionado y chófer que habla inglés"
+  ],
+  "included": [
+   "Recogida y regreso en hotel o aeropuerto de Delhi",
+   "Coche privado con aire acondicionado y chófer para las visitas",
+   "Servicios de guía oficial",
+   "Botellas de agua",
+   "Aparcamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Comida y bebida",
+   "Entradas a los monumentos",
+   "Propinas"
+  ]
+ },
+ "5-days-golden-triangle-ranthambore-tiger-safari": {
+  "title": "Triángulo de Oro en 5 días con safari de tigres en Ranthambore desde Delhi",
+  "metaTitle": "5 días Delhi, Agra, Ranthambore y Jaipur con safari de tigres, SUV privado",
+  "metaDescription": "Circuito de 5 días y 4 noches desde Delhi: Delhi, Taj Mahal, Fatehpur Sikri, safari de tigres en jeep en Ranthambore y Jaipur. Toyota Crysta con chófer en inglés y guías oficiales.",
+  "shortDescription": "Viaje en SUV Toyota Crysta con chófer que habla inglés y guías locales oficiales. Jaipur, Agra y un emocionante safari en el parque nacional de Ranthambore en este circuito de 5 días y 4 noches desde Delhi: rica historia, cultura vibrante y sitios Patrimonio de la Humanidad.",
+  "fullDescription": "* Esta opción incluye el coche y los guías locales para los 5 días.\n** Hoteles, entradas, safari y comidas no están incluidos.\n*** El safari de Ranthambore puede reservarse tras la confirmación de la reserva.\n\n**Día 1: llegada a Delhi, visitas y viaje a Agra (unas 4 horas)**\nJama Masjid, India Gate, tumba de Humayun, Qutub Minar, edificios presidenciales (de paso). Noche en Agra.\n\n**Día 2: Agra, Fatehpur Sikri y viaje a Ranthambore**\nTaj Mahal, Fuerte de Agra, Fatehpur Sikri. Noche en Ranthambore.\n\n**Día 3: safari de tigres en Ranthambore (mañana y tarde)**\nNoche en Ranthambore.\n\n**Día 4: Ranthambore y visitas en Jaipur**\nJal Mahal, Hawa Mahal, City Palace, Jantar Mantar, templo Birla. Noche en Jaipur.\n\n**Día 5: Jaipur y regreso a Delhi o fin en Jaipur**\nFuerte Amber.",
+  "highlights": [
+   "Desde Delhi: 5 días Agra, Ranthambore, Jaipur y Delhi",
+   "Safari de tigres en jeep en Ranthambore",
+   "Circuito privado y personalizado"
+  ],
+  "included": [
+   "SUV Toyota privado con aire acondicionado y chófer",
+   "Guía oficial en cada ciudad",
+   "2 safaris de tigres (mañana y tarde) en jeep compartido (si se elige la opción)",
+   "Todas las entradas (si se elige la opción)",
+   "Hoteles con desayuno (si se elige la opción)",
+   "Agua mineral y toallitas",
+   "Impuestos: peajes de autopista, aparcamiento en aeropuerto y monumentos, combustible e impuestos estatales"
+  ],
+  "notIncluded": [
+   "Propinas para guía y chófer",
+   "Bebidas en el desayuno",
+   "Todo lo no mencionado en lo incluido"
+  ]
+ },
  "taj-mahal-official-guided-tour": {
   "title": "Guía oficial autorizado para el Taj Mahal",
   "metaTitle": "Guía oficial del Taj Mahal, entrada sin colas",
