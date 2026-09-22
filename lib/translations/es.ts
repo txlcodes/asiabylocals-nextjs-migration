@@ -3258,6 +3258,114 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas"
   ]
  },
+ "jaisalmer-fort-heritage-walking-tour": {
+  "title": "Jaisalmer: paseo patrimonial con guía profesional",
+  "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
+  "metaDescription": "Paseo guiado por Jaisalmer: Fuerte Dorado de 870 años, templos jainistas, Nathmal Haveli, Patwon ki Haveli, Salim Singh Haveli y lago Gadisar.",
+  "shortDescription": "El recorrido empieza en el Fuerte Dorado, de 870 años, donde conoceremos el palacio y los templos jainistas. Tras el fuerte visitaremos la Patwon ki Haveli, la Nathmal Haveli, la Salim Singh Haveli y el lago Gadisar.",
+  "fullDescription": "Comenzaremos en el fuerte de Jaisalmer, en el centro de la ciudad. El Fuerte Dorado, de 870 años, es un fuerte habitado donde todavía viven 5.000 personas. Recorreremos el palacio del rey y la reina, o los magníficos siete templos jainistas de 700 años, y las bonitas calles del interior.\n\nDespués del fuerte iremos hacia la Nathmal Haveli, una casa que parece un rompecabezas. A continuación, la Patwon ki Haveli, la más hermosa de Jaisalmer, fundada por un acaudalado comerciante jainista.\n\nNuestra última parada será el precioso lago Gadisar, durante mucho tiempo la única fuente de agua de la ciudad. Su bella arquitectura ha servido de escenario a numerosos rodajes. Tras el lago visitaremos la Salim Singh Haveli y allí terminará el recorrido.\n\nDurante la visita conoceremos cómo vivía la gente en condiciones duras y qué tipo de arquitectura les ayudaba a sobrellevar el calor de Jaisalmer.",
+  "highlights": [
+   "El Fuerte Dorado de Jaisalmer, donde aún viven 5.000 personas",
+   "El rompecabezas de la Nathmal ki Haveli",
+   "La Patwon ki Haveli y la vida fastuosa de un comerciante jainista",
+   "El lago Gadisar y la magnífica arquitectura de los templos jainistas"
+  ],
+  "included": [
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Dentro del fuerte, el palacio del rey y la reina y la Patwon ki Haveli requieren entrada"
+  ]
+ },
+ "jaisalmer-fort-certified-guided-tour": {
+  "title": "Reserve un guía autorizado y certificado para el Fuerte de Jaisalmer",
+  "metaTitle": "Guía certificado en el Fuerte de Jaisalmer: palacio, templos, puertas",
+  "metaDescription": "Reserve un guía local autorizado para el Fuerte de Jaisalmer: puertas Ganesh Pol, Suraj Pol y Hawa Pol, Raj Mahal, templos jainistas antiguos y miradores del Thar.",
+  "shortDescription": "Recorra el famoso Fuerte Dorado con un guía local autorizado y certificado que le explicará la historia, la cultura y las historias ocultas de este fuerte habitado de 800 años. Un guía profesional le ayuda a entender la arquitectura, los palacios reales, los templos y la vida local dentro de sus muros.",
+  "fullDescription": "Reserve un guía certificado para el Fuerte de Jaisalmer.\n\nRecorra el famoso Fuerte Dorado con un guía local autorizado y certificado que le explicará la historia, la cultura y las historias ocultas de este fuerte habitado de 800 años. Un guía profesional le ayuda a entender la arquitectura, los palacios reales, los templos y la vida local dentro de sus muros.\n\nQué conocerá:\n- Las puertas principales del fuerte: Ganesh Pol, Suraj Pol y Hawa Pol\n- El palacio real (Raj Mahal)\n- Los antiguos templos jainistas\n- Los mercados locales dentro del fuerte\n- Bonitos miradores sobre el desierto del Thar\n- Calles escondidas y casas tradicionales",
+  "highlights": [
+   "El Fuerte de Jaisalmer con un guía local certificado",
+   "Las historias ocultas del Fuerte Dorado",
+   "Visita privada guiada del Fuerte de Jaisalmer"
+  ],
+  "included": [
+   "Servicio de guía certificado de habla inglesa"
+  ],
+  "notIncluded": [
+   "Entradas"
+  ]
+ },
+ "jaisalmer-fort-half-day-tour": {
+  "title": "Lo mejor de Jaisalmer: visita guiada de medio día en coche",
+  "metaTitle": "Jaisalmer en medio día: fuerte, Patwon ki Haveli, Bada Bagh",
+  "metaDescription": "Visita guiada de medio día por Jaisalmer en coche privado: Fuerte de Jaisalmer, Patwon ki Haveli, lago Gadisar, cenotafios de Vyas Chhatri y Bada Bagh.",
+  "shortDescription": "Recorra la magnífica ciudad de Jaisalmer en esta estupenda visita guiada de 6 horas en coche privado. Acompañado de un guía local experto, conocerá los lugares más icónicos: el majestuoso Fuerte de Jaisalmer, la minuciosamente tallada Patwon ki Haveli y otras havelis históricas, el apacible lago Gadisar, los pintorescos cenotafios de Vyas Chhatri y el complejo real de Bada Bagh.",
+  "fullDescription": "Recorra la magnífica ciudad de Jaisalmer en esta visita guiada en coche privado. Acompañado de un guía local experto, conocerá los lugares más icónicos: el majestuoso Fuerte de Jaisalmer, la minuciosamente tallada Patwon ki Haveli y otras havelis históricas, el apacible lago Gadisar, los pintorescos cenotafios de Vyas Chhatri y el complejo real de Bada Bagh.\n\nDurante la visita también podrá probar auténticas delicias locales y vivir la cultura, la historia y la arquitectura que hacen de Jaisalmer una de las ciudades más encantadoras de Rajastán.\n\nDisfrute de un trayecto cómodo, de los relatos esclarecedores de su guía y de una introducción memorable a la Ciudad Dorada de la India.",
+  "highlights": [
+   "Fuerte, cenotafios reales, havelis, Nathmal ki Haveli y Badal Mahal",
+   "Los magníficos chhatris de arenisca de Vyas Chhatri y el Mandir Palace",
+   "El lago Amar Sagar, el palacio de Amar Singh y un antiguo templo de Shiva"
+  ],
+  "included": [
+   "Guía oficial experimentado y cercano",
+   "Transporte a los lugares en coche climatizado",
+   "Botella de agua y aperitivos",
+   "Buenos consejos locales, recomendaciones y conversación para entender los aspectos religiosos, las creencias y la importancia local"
+  ],
+  "notIncluded": [
+   "Entradas a cualquier sitio histórico",
+   "Bebidas y comida distintas de las mencionadas"
+  ]
+ },
+ "jaisalmer-fort-guided-tour": {
+  "title": "Desde Jaisalmer: safari en jeep, paseo en camello, cena y danza folclórica",
+  "metaTitle": "Desierto del Thar desde Jaisalmer: jeep, camello, cena y espectáculo",
+  "metaDescription": "Safari por el desierto desde Jaisalmer: safari en jeep por las dunas, paseo en camello, campamento de lujo, cena rajastaní y espectáculo de danza folclórica.",
+  "shortDescription": "Viva la magia del desierto del Thar en una aventura inolvidable en Jaisalmer, donde emoción, cultura y comodidad se unen en una escapada perfecta. La experiencia empieza con una cómoda recogida y un trayecto panorámico hacia las vastas dunas doradas que rodean la histórica ciudad del desierto.",
+  "fullDescription": "Disfrute de una aventura inolvidable en el desierto que comienza con la recogida en su hotel de Jaisalmer. Nuestro conductor le llevará en un trayecto panorámico desde la ciudad hasta las hermosas dunas del desierto del Thar, donde empieza su safari.\n\nLa aventura arranca con un emocionante safari en jeep por las dunas doradas. Sentirá la fuerza del vehículo sobre el terreno escarpado, con vistas impresionantes del vasto paisaje desértico.\n\nTras el safari en jeep, disfrutará de un tranquilo paseo en camello, la forma tradicional de recorrer el desierto. Cómodamente sentado, avanzará despacio al ritmo del animal.\n\nAl caer la tarde se relajará en un campamento de lujo, donde vivirá la cultura vibrante de Rajastán: un animado programa cultural con danzas folclóricas tradicionales, trajes de colores y música rítmica a cargo de artistas locales.\n\nTras la velada cultural y la cena, su conductor le llevará de vuelta con comodidad y el tour terminará con el regreso a la ciudad de Jaisalmer, con recuerdos maravillosos de su safari.",
+  "highlights": [
+   "Paseos en camello, comidas, entretenimiento nocturno y hoguera",
+   "Trayecto directo al desierto desde Jaisalmer en coche",
+   "Espectáculo cultural con música folclórica, cantos sufíes y danza gitana",
+   "Safari en jeep y en camello por el desierto"
+  ],
+  "included": [
+   "Suplemento de combustible",
+   "Tasas del parque nacional",
+   "Té de la tarde",
+   "Agua embotellada",
+   "Té y aperitivos por la tarde",
+   "Cena rajastaní tradicional",
+   "Acompañante del tour",
+   "Recogida y regreso al hotel",
+   "Traslado de ida y vuelta en jeep o coche",
+   "Entradas al paquete de safari en camello, la aldea abandonada de Kuldhara, el parque nacional y el desierto del Thar"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas (a la venta en el lugar)",
+   "Comida",
+   "Seguro de viaje y aventura",
+   "Otras actividades"
+  ]
+ },
+ "jaisalmer-fort-walking-tour": {
+  "title": "Jaisalmer: paseo patrimonial por el pasado dorado",
+  "metaTitle": "Paseo por Jaisalmer: fuerte UNESCO, Patwon ki Haveli, lago Gadisar",
+  "metaDescription": "Paseo guiado por Jaisalmer con un experto local: fuerte Patrimonio de la Humanidad, templos jainistas, Patwon ki Haveli, bazares y lago Gadisar.",
+  "shortDescription": "Con un experto local, recorra el majestuoso fuerte antiguo, pasee por los coloridos mercados locales y sumérjase en el rico patrimonio cultural, las historias fascinantes y las maravillas arquitectónicas que hacen de Jaisalmer un lugar inolvidable.",
+  "fullDescription": "Descubra el encanto atemporal de la Ciudad Dorada en nuestro paseo guiado de un día por Jaisalmer. Comenzará en el magnífico Fuerte de Jaisalmer, Patrimonio de la Humanidad, que se alza sobre el desierto del Thar como un espejismo dorado. Recorrerá sus callejones estrechos y sinuosos y descubrirá templos jainistas centenarios, palacios reales y casas donde todavía viven familias locales dentro de las antiguas murallas.\n\nContinuará por bazares vibrantes llenos de textiles de colores, joyería artesanal, artículos de cuero y recuerdos rajastaníes tradicionales. Conversará con hábiles artesanos locales y verá las tradiciones vivas que dan a la ciudad su carácter distintivo.",
+  "highlights": [
+   "El Fuerte de Jaisalmer, un tesoro del Patrimonio de la Humanidad",
+   "La Patwon ki Haveli, obra maestra de la arquitectura rajput",
+   "El lago Gadisar, serenidad, historia y belleza paisajística"
+  ],
+  "included": [
+   "Paseo guiado con guía local oficial"
+  ],
+  "notIncluded": [
+   "Entradas"
+  ]
+ },
  "padamsar-lake-guided-tour": {
   "title": "Esplendor azul: sabores locales y callejones escondidos de Jodhpur",
   "metaTitle": "Jodhpur: paseo por la Ciudad Azul y degustaciones con un local",
