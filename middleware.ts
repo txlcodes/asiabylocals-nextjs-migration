@@ -72,6 +72,14 @@ const MOVED_CITY: Record<string, { from: string; to: string }> = {
   'mount-fuji-viewpoints': { from: 'hakone', to: 'mount-fuji' },
   'chureito-pagoda-guide': { from: 'hakone', to: 'mount-fuji' },
   'kawaguchiko-guide': { from: 'hakone', to: 'mount-fuji' },
+  // Filed under Krabi but departing from the other side of the country: the
+  // Maeklong and Damnoen Saduak markets sit ~80km from Bangkok and ~800km from
+  // Krabi, so nobody staying in Krabi could have taken these as listed.
+  'damnoen-saduak-and-mae-klong-train-markets': { from: 'krabi', to: 'bangkok' },
+  'maeklong-railway-market-and-floating-market-boat-tour': { from: 'krabi', to: 'bangkok' },
+  'premium-maeklong-and-floating-market-tour-9-pax': { from: 'krabi', to: 'bangkok' },
+  'maeklong-railway-and-floating-market-tour': { from: 'krabi', to: 'pattaya' },
+  'james-bond-phang-nga-bay-and-hong-island-tour-from-phuket-krabi': { from: 'krabi', to: 'phuket' },
 };
 
 export function middleware(request: NextRequest) {
