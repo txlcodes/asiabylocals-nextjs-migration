@@ -521,7 +521,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           openGraph: {
             title: titleTag,
             description,
-            images: tour.images?.[0] ? [{ url: tour.images[0], width: 1200, height: 630, alt: tour.title }] : [],
+            // Through the loader, like every other image on the page. Raw here,
+            // the share preview was the one thing still fetched from Cloudinary
+            // on tours whose photos have long since moved to R2, so every link
+            // pasted into WhatsApp or Slack billed against the old host.
+            images: tour.images?.[0]
+              ? [{ url: cloudinaryLoader({ src: tour.images[0], width: 1200 }), width: 1200, height: 630, alt: tour.title }]
+              : [],
           },
         };
       }
