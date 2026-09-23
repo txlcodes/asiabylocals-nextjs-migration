@@ -34,7 +34,7 @@ export const SLUG_REDIRECTS: Record<string, string> = {
   'hawa-mahal-private-tour': 'jaipur-full-day-sightseeing-tour-by-car',
   'amber-fort-guided-tour': 'jaipur-city-tour-with-official-guide',
   'jaipur-enjoy-private-tour': 'jaipur-to-agra-taj-mahal-day-trip',
-  'city-palace-experience-guided-tour': 'jaipur-block-printing-workshop',
+  'city-palace-experience-guided-tour': 'jaipur-city-tour-with-official-guide',
   // Fixed duplicate "mahal" slugs
   'taj-mahal-mahal-guided-tour': 'taj-mahal-guided-tour-from-agra',
   'taj-mahal-mahal-full-day-tour': 'same-day-taj-mahal-tour-by-car-from-delhi',
@@ -58,6 +58,10 @@ export const SLUG_REDIRECTS: Record<string, string> = {
   'phuket-kata-karon-food-tour': 'thai-cooking-class-phuket-kata',
   'cooking-class-food-tour': 'seasoning-thai-cooking-class-phuket-cherngtalay',
   'patong-beach-optional-photography-tour': 'elephant-beach-experience-patong-phuket',
+  // Jaipur — the block printing workshop was taken down on 2026-09-23 after a
+  // copyright complaint about its images, so both it and the slug that used to
+  // redirect into it now land on the city's guided tour instead.
+  'jaipur-block-printing-workshop': 'jaipur-city-tour-with-official-guide',
   // Bangkok — slug fixes
   'learn-hands-on-photography-skills': 'bangkok-photography-class-workshop',
   'bangkok-phography-photo-walk-with': 'bangkok-private-photography-tour',
