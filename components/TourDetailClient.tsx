@@ -954,8 +954,10 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
     } else {
       // DO NOT use groupPrice fallback - it's the LAST tier price (wrong)
       // Fallback: use pricePerPerson (should be first tier price)
+      // A per-person price has to be multiplied by the party. Charging it flat
+      // billed a party of four the same as a solo traveller.
       const pricePerPerson = selectedOption?.price || tour.pricePerPerson || 0;
-      totalAmount = pricePerPerson;
+      totalAmount = pricePerPerson * currentParticipants;
     }
 
     // Store booking data and show booking form
