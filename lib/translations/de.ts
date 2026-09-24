@@ -4613,6 +4613,427 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotels",
    "Wagen für die Besichtigungen (falls die Option mit Wagen nicht gewählt wurde)"
   ]
+ },
+ "water-puppet-show-vip-first-6-rows-ticket-in-hanoi": {
+  "title": "Hanoi: VIP-Ticket für die ersten sechs Reihen der Wasserpuppenshow",
+  "fullDescription": "Dies ist ein 50-minütiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich, Einfache Abholung des Papiertickets im Büro und Unterstützung durch das Büro vor Ort bei Änderungen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 50 Minuten",
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung des Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "included": [
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung des Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Eintrittskarte in Hanoi, inklusive Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich und Einfache Abholung des Papiertickets im Büro. Durchgeführt von Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: VIP-Ticket für die ersten sechs Reihen der Wasserpuppenshow",
+  "metaDescription": "Eintrittskarte in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "french-quarter-walking-tour-with-local-guide-in-hanoi": {
+  "title": "Hanoi: Rundgang durch das französische Viertel mit lokalem Guide",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Geführter Rundgang zu Fuß und Lizenzierter einheimischer Guide. Nicht enthalten sind Speisen und Getränke und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Geführter Rundgang zu Fuß",
+   "Lizenzierter einheimischer Guide"
+  ],
+  "included": [
+   "Geführter Rundgang zu Fuß",
+   "Lizenzierter einheimischer Guide"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "3-stündige Tour in Hanoi, inklusive Geführter Rundgang zu Fuß und Lizenzierter einheimischer Guide. Durchgeführt von HanoiTravelMate, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Rundgang durch das französische Viertel mit lokalem Guide",
+  "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Geführter Rundgang zu Fuß. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-noi-mammom-michelin-restaurant-all-you-can-eat-dining-in-hanoi": {
+  "title": "Hanoi: All-you-can-eat im MAMMOM, Michelin-Restaurant",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind All-you-can-eat-Essen im Restaurant MAMMOM und Willkommensgetränk. Nicht enthalten sind Hin- und Rückfahrt zum Restaurant und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "All-you-can-eat-Essen im Restaurant MAMMOM",
+   "Willkommensgetränk"
+  ],
+  "included": [
+   "All-you-can-eat-Essen im Restaurant MAMMOM",
+   "Willkommensgetränk"
+  ],
+  "notIncluded": [
+   "Hin- und Rückfahrt zum Restaurant",
+   "Getränke"
+  ],
+  "shortDescription": "3-stündige Tour in Hanoi, inklusive All-you-can-eat-Essen im Restaurant MAMMOM und Willkommensgetränk. Durchgeführt von The Phan Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: All-you-can-eat im MAMMOM, Michelin-Restaurant",
+  "metaDescription": "3-stündige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "knife-making-workshop-with-laser-engraving-in-hanoi": {
+  "title": "Hanoi: Messerschmiede-Workshop mit Lasergravur",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind 1 Messer pro Person während der Tour, Geführter Rundgang durch die Messerherstellung und Fahrt zum Workshop. Nicht enthalten sind Mahlzeiten, Persönliche Ausgaben und Kosten für die Lasergravur, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "1 Messer pro Person während der Tour",
+   "Geführter Rundgang durch die Messerherstellung",
+   "Fahrt zum Workshop"
+  ],
+  "included": [
+   "1 Messer pro Person während der Tour",
+   "Geführter Rundgang durch die Messerherstellung",
+   "Fahrt zum Workshop"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Kosten für die Lasergravur"
+  ],
+  "shortDescription": "Halbtägige Tour in Hanoi, inklusive 1 Messer pro Person während der Tour, Geführter Rundgang durch die Messerherstellung und Fahrt zum Workshop. Durchgeführt von TN Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Messerschmiede-Workshop mit Lasergravur",
+  "metaDescription": "Halbtägige Tour in Hanoi. Enthalten: 1 Messer pro Person während der Tour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "thang-long-water-puppet-show-tickets-in-hanoi": {
+  "title": "Hanoi: Tickets für die Wasserpuppenshow Thang Long",
+  "fullDescription": "Dies ist ein 45-minütiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich, Einfache Abholung des Papiertickets im Büro und Unterstützung durch das Büro vor Ort bei Änderungen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 45 Minuten",
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung des Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "included": [
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung des Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "0,75-stündige Tour in Hanoi, inklusive Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich und Einfache Abholung des Papiertickets im Büro. Durchgeführt von vietnamtraditionalvillages.com, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Tickets für die Wasserpuppenshow Thang Long",
+  "metaDescription": "0,75-stündige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "explore-bat-trang-village-and-ceramics-factories-local-guide-in-hanoi": {
+  "title": "Hanoi: Dorf Bat Trang und Keramikwerkstätten mit lokalem Guide",
+  "fullDescription": "Dies ist ein Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rückfahrt nach Authentic Bat Trang in Hoan Kiem, Eintrittskarten für das Keramikdorf Bat Trang, Mittagessen inklusive, Material für den Töpferkurs inklusive und Englisch-/vietnamesischsprachiger Guide. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n115 P. Hàng Gai, Hàng Trống, Hoàn Kiếm, Hanoi, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Hin- und Rückfahrt von Authentic Bat Trang in Hoan Kiem, Hanoi, zum Keramikdorf Bat Trang",
+   "Eintrittskarten für das Keramikdorf Bat Trang",
+   "Mittagessen inklusive",
+   "Material für den Töpferkurs inklusive",
+   "Englisch-/vietnamesischsprachiger Guide"
+  ],
+  "included": [
+   "Hin- und Rückfahrt von Authentic Bat Trang in Hoan Kiem, Hanoi, zum Keramikdorf Bat Trang",
+   "Eintrittskarten für das Keramikdorf Bat Trang",
+   "Mittagessen inklusive",
+   "Material für den Töpferkurs inklusive",
+   "Englisch-/vietnamesischsprachiger Guide"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hanoi, inklusive Hin- und Rückfahrt nach Authentic Bat Trang in Hoan Kiem, Eintrittskarten für das Keramikdorf Bat Trang und Mittagessen inklusive. Durchgeführt von Authentic Bat Trang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Dorf Bat Trang und Keramikwerkstätten mit lokalem Guide",
+  "metaDescription": "Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "bat-trang-pottery-ceramics-class-in-hanoi-s-old-quarter": {
+  "title": "Hanoi: Bat-Trang-Keramikkurs in der Altstadt",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Üben an einer elektrischen Töpferscheibe, Ton und Töpfermaterial, Englisch- und vietnamesischsprachiger Kursleiter, So viele Stücke töpfern, wie Sie möchten und 1 Stück zum Brennen gratis. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Üben an einer elektrischen Töpferscheibe",
+   "Ton und Töpfermaterial",
+   "Englisch- und vietnamesischsprachiger Kursleiter",
+   "So viele Stücke töpfern, wie Sie möchten",
+   "1 Stück gratis zum Brennen, Glasieren und Mitnehmen"
+  ],
+  "included": [
+   "Üben an einer elektrischen Töpferscheibe",
+   "Ton und Töpfermaterial",
+   "Englisch- und vietnamesischsprachiger Kursleiter",
+   "So viele Stücke töpfern, wie Sie möchten",
+   "1 Stück gratis zum Brennen, Glasieren und Mitnehmen"
+  ],
+  "notIncluded": [],
+  "shortDescription": "3-stündige Tour in Hanoi, inklusive Üben an einer elektrischen Töpferscheibe, Ton und Töpfermaterial und Englisch- und vietnamesischsprachiger Kursleiter. Durchgeführt von Authentic Bat Trang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Bat-Trang-Keramikkurs in der Altstadt",
+  "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Üben an einer elektrischen Töpferscheibe. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "water-puppet-show-tickets-skip-the-line-in-hanoi": {
+  "title": "Hanoi: Tickets ohne Anstehen für die Wasserpuppenshow",
+  "fullDescription": "Dies ist ein 50-minütiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich, Einfache Abholung Ihres Papiertickets im Büro und Unterstützung durch das Büro vor Ort bei Änderungen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hanoi. Tinny Travel and Service Company Limited bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 50 Minuten",
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung Ihres Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "included": [
+   "Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi",
+   "Programmheft in Ihrer Sprache erhältlich",
+   "Einfache Abholung Ihres Papiertickets im Büro",
+   "Unterstützung durch das Büro vor Ort bei Änderungen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "0,8333333333333334-stündige Tour in Hanoi, inklusive Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich und Einfache Abholung Ihres Papiertickets im Büro. Durchgeführt von Tinny Travel and Service Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Tickets ohne Anstehen für die Wasserpuppenshow",
+  "metaDescription": "0,8333333333333334-stündige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "perfume-making-workshop-must-do-experience-in-hanoi": {
+  "title": "Hanoi: Workshop zur Parfumherstellung",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Alle Materialien für die Parfumherstellung, Betreuung durch Kursleiter und 1 personalisiertes Parfum. Nicht enthalten sind Fahrt zum Veranstaltungsort des Workshops, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Alle Materialien für die Parfumherstellung",
+   "Betreuung durch Kursleiter",
+   "1 personalisiertes Parfum (10 ml/30 ml/50 ml)"
+  ],
+  "included": [
+   "Alle Materialien für die Parfumherstellung",
+   "Betreuung durch Kursleiter",
+   "1 personalisiertes Parfum (10 ml/30 ml/50 ml)"
+  ],
+  "notIncluded": [
+   "Fahrt zum Veranstaltungsort des Workshops"
+  ],
+  "shortDescription": "1,5-stündige Tour in Hanoi, inklusive Alle Materialien für die Parfumherstellung, Betreuung durch Kursleiter und 1 personalisiertes Parfum. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Workshop zur Parfumherstellung",
+  "metaDescription": "1,5-stündige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "pottery-making-class-for-beginners-in-hanoi": {
+  "title": "Hanoi: Töpferkurs für Anfänger",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Englischsprachiger Dolmetscher, Töpferscheiben, Ton, Töpferwerkzeug und Schürze. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Englischsprachiger Dolmetscher",
+   "Töpferscheiben",
+   "Ton",
+   "Töpferwerkzeug",
+   "Schürze"
+  ],
+  "included": [
+   "Englischsprachiger Dolmetscher",
+   "Töpferscheiben",
+   "Ton",
+   "Töpferwerkzeug",
+   "Schürze"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hanoi, inklusive Englischsprachiger Dolmetscher, Töpferscheiben und Ton. Durchgeführt von Pottery Hai Doan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Töpferkurs für Anfänger",
+  "metaDescription": "Tour in Hanoi. Enthalten: Englischsprachiger Dolmetscher und Töpferscheiben. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vietnamese-meal-at-tam-v-1-star-michelin-restaurant": {
+  "title": "Vietnamesisches Essen im Tam Vị, Michelin-Restaurant",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Traditionelles vietnamesisches Menü. Nicht enthalten sind Zusätzliche Speisen oder Getränke außerhalb des Menüs, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTầm vị. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: ganztägig",
+   "Traditionelles vietnamesisches Menü"
+  ],
+  "included": [
+   "Traditionelles vietnamesisches Menü"
+  ],
+  "notIncluded": [
+   "Zusätzliche Speisen oder Getränke außerhalb des Menüs"
+  ],
+  "shortDescription": "Ganztägige Tour in Hanoi, mit Hoàn Kiếm und Hanoi. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Vietnamesisches Essen im Tam Vị, Michelin-Restaurant",
+  "metaDescription": "Ganztägige Tour in Hanoi. Enthalten: Traditionelles vietnamesisches Menü. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "water-puppet-show-skip-the-line-entry-ticket-in-hanoi": {
+  "title": "Hanoi: Ticket ohne Anstehen für die Wasserpuppenshow",
+  "fullDescription": "Dies ist ein 50-minütiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Inklusive Lieferung des Tickets ins Hotel, Vorab reservierte Tickets für eine Wasserpuppenshow und Mehrsprachiges Programmheft. Nicht enthalten sind Audioguide, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nLotus-Wasserpuppentheater. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 50 Minuten",
+   "Inklusive Lieferung des Tickets ins Hotel",
+   "Vorab reservierte Tickets für eine Wasserpuppenshow",
+   "Mehrsprachiges Programmheft"
+  ],
+  "included": [
+   "Inklusive Lieferung des Tickets ins Hotel",
+   "Vorab reservierte Tickets für eine Wasserpuppenshow",
+   "Mehrsprachiges Programmheft"
+  ],
+  "notIncluded": [
+   "Audioguide"
+  ],
+  "shortDescription": "Eintrittskarte in Hanoi, mit Finish at. Durchgeführt von Vietnamtravelers, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Ticket ohne Anstehen für die Wasserpuppenshow",
+  "metaDescription": "Eintrittskarte in Hanoi. Enthalten: Inklusive Lieferung des Tickets ins Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "tam-chuc-biggest-pagoda-and-boat-or-duyen-ninh-pagoda-in-hanoi": {
+  "title": "Hanoi: Tam-Chuc-Pagode, die größte, per Boot, und Duyen-Ninh-Pagode",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch der Duyen-Ninh-Pagode, Die alte Architektur erkunden, Die friedliche Atmosphäre erleben, Guide und Auto. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Besuch der Duyen-Ninh-Pagode",
+   "Die alte Architektur erkunden",
+   "Die friedliche Atmosphäre erleben",
+   "Guide",
+   "Auto"
+  ],
+  "included": [
+   "Besuch der Duyen-Ninh-Pagode",
+   "Die alte Architektur erkunden",
+   "Die friedliche Atmosphäre erleben",
+   "Guide",
+   "Auto",
+   "Tickets",
+   "Wasser"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Ganztägige Tour in Hanoi, inklusive Besuch der Duyen-Ninh-Pagode, Die alte Architektur erkunden und Die friedliche Atmosphäre erleben. Durchgeführt von Hands On Tour Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Tam-Chuc-Pagode, die größte, per Boot, und Duyen-Ninh-Pagode",
+  "metaDescription": "Ganztägige Tour in Hanoi. Enthalten: Besuch der Duyen-Ninh-Pagode. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hanoi-old-quarter-traditional-vietnamese-body-massage-by-local-operator": {
+  "title": "Altstadt von Hanoi: traditionelle vietnamesische Körpermassage",
+  "fullDescription": "Dies ist ein Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Traditionelle vietnamesische Körpermassage, Ätherische Öle und Therapeut. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Traditionelle vietnamesische Körpermassage",
+   "Ätherische Öle",
+   "Therapeut"
+  ],
+  "included": [
+   "Traditionelle vietnamesische Körpermassage",
+   "Ätherische Öle",
+   "Therapeut"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hanoi, inklusive Traditionelle vietnamesische Körpermassage, Ätherische Öle und Therapeut. Durchgeführt von Rosie's Magical Spa, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Altstadt von Hanoi: traditionelle vietnamesische Körpermassage",
+  "metaDescription": "Tour in Hanoi. Enthalten: Traditionelle vietnamesische Körpermassage. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hanoi-train-street-best-street-food-eating-in-old-quarter-by-local-operator": {
+  "title": "Hanoi: Train Street und Streetfood in der Altstadt",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Sämtliches Streetfood. Nicht enthalten sind Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n78a Đ. Trần Nhật Duật, Đồng Xuân, Hoàn Kiếm, Hanoi, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Sämtliches Streetfood, Getränke und englischsprachiger Guide"
+  ],
+  "included": [
+   "Sämtliches Streetfood, Getränke und englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ],
+  "shortDescription": "3-stündige Tour in Hanoi, inklusive Sämtliches Streetfood. Durchgeführt von Hanoi Street Food Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Train Street und Streetfood in der Altstadt",
+  "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Sämtliches Streetfood. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "traditional-water-puppet-show-ticket-in-hanoi-by-local-operator": {
+  "title": "Hanoi: Ticket für die traditionelle Wasserpuppenshow",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarte für die Wasserpuppenshow Thang Long und Programmflyer mit allen Details. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Eintrittskarte für die Wasserpuppenshow Thang Long",
+   "Programmflyer mit allen Details"
+  ],
+  "included": [
+   "Eintrittskarte für die Wasserpuppenshow Thang Long",
+   "Programmflyer mit allen Details"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Eintrittskarte in Hanoi, inklusive Eintrittskarte für die Wasserpuppenshow Thang Long und Programmflyer mit allen Details. Durchgeführt von Asia Travel Legend Company Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Ticket für die traditionelle Wasserpuppenshow",
+  "metaDescription": "Eintrittskarte in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "hands-on-knife-making-workshop-with-master-blacksmith-in-hanoi": {
+  "title": "Hanoi: praktischer Messerschmiede-Workshop mit einem Schmiedemeister",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Praktischer Messerschmiede-Workshop, Alle Materialien und Werkzeuge, Direkte Anleitung und Betreuung durch einen Schmiedemeister, Das selbst geschmiedete Messer zum Mitnehmen und Wasser in Flaschen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Praktischer Messerschmiede-Workshop",
+   "Alle Materialien und Werkzeuge (Stahl, Holzkohle, Griffe und Schutzausrüstung)",
+   "Direkte Anleitung und Betreuung durch einen Schmiedemeister",
+   "Das selbst geschmiedete Messer zum Mitnehmen",
+   "Wasser in Flaschen"
+  ],
+  "included": [
+   "Praktischer Messerschmiede-Workshop",
+   "Alle Materialien und Werkzeuge (Stahl, Holzkohle, Griffe und Schutzausrüstung)",
+   "Direkte Anleitung und Betreuung durch einen Schmiedemeister",
+   "Das selbst geschmiedete Messer zum Mitnehmen",
+   "Wasser in Flaschen",
+   "Snacks (traditionelle Süßigkeiten oder Obst)"
+  ],
+  "notIncluded": [],
+  "shortDescription": "2,5-stündige Tour in Hanoi, inklusive Praktischer Messerschmiede-Workshop, Alle Materialien und Werkzeuge und Direkte Anleitung und Betreuung durch einen Schmiedemeister. Durchgeführt von Hoang Bich Phuong, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: praktischer Messerschmiede-Workshop mit einem Schmiedemeister",
+  "metaDescription": "2,5-stündige Tour in Hanoi. Enthalten: Praktischer Messerschmiede-Workshop. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "transfer-to-or-from-sapa-by-a-vip-sleeper-bus": {
+  "title": "Transfer nach oder von Sapa im VIP-Schlafbus",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transferservice. Nicht enthalten sind Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Transferservice"
+  ],
+  "included": [
+   "Transferservice"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ],
+  "shortDescription": "Halbtägige Tour in Hanoi, inklusive Transferservice. Durchgeführt von Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Transfer nach oder von Sapa im VIP-Schlafbus",
+  "metaDescription": "Halbtägige Tour in Hanoi. Enthalten: Transferservice. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "war-site-museums-tour-in-hanoi": {
+  "title": "Hanoi: Tour zu Kriegsmuseen und Kriegsschauplätzen",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Alle Eintrittskarten, Kaffee oder ein Getränk und Fahrt mit Taxi oder Auto. Nicht enthalten sind Trinkgeld, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Guide",
+   "Alle Eintrittskarten",
+   "Kaffee oder ein Getränk",
+   "Fahrt mit Taxi oder Auto"
+  ],
+  "included": [
+   "Guide",
+   "Alle Eintrittskarten",
+   "Kaffee oder ein Getränk",
+   "Fahrt mit Taxi oder Auto"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ],
+  "shortDescription": "Tour in Hanoi, inklusive Guide, Alle Eintrittskarten und Kaffee oder ein Getränk. Durchgeführt von Vietnamtravelers, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: Tour zu Kriegsmuseen und Kriegsschauplätzen",
+  "metaDescription": "Tour in Hanoi. Enthalten: Guide und Alle Eintrittskarten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hanoi-vegan-street-food-and-train-street-tour-hanoi": {
+  "title": "Hanoi: veganes Streetfood und Train Street",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, 5 bis 6 Kostproben und Abholung und Rückfahrt zum Hotel. Nicht enthalten sind Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hanoi. Vietnamtravelers bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Guide",
+   "5 bis 6 Kostproben (inkl. 1 Getränk und Dessert)",
+   "Abholung und Rückfahrt zum Hotel (bei Wahl der privaten Option)"
+  ],
+  "included": [
+   "Guide",
+   "5 bis 6 Kostproben (inkl. 1 Getränk und Dessert)",
+   "Abholung und Rückfahrt zum Hotel (bei Wahl der privaten Option)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ],
+  "shortDescription": "3-stündige Tour in Hanoi, inklusive Guide, 5 bis 6 Kostproben und Abholung und Rückfahrt zum Hotel. Durchgeführt von Vietnamtravelers, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hanoi: veganes Streetfood und Train Street",
+  "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Guide und 5 bis 6 Kostproben. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
