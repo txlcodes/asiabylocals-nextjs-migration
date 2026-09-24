@@ -44,7 +44,31 @@ const nextConfig: NextConfig = {
   async redirects() {
     const slugRedirects = SLUG_REDIRECTS;
 
-    return [
+    // Redirects have to fire under /fr, /de and /es as well. Every source
+    // below starts with a literal country segment, so a translated duplicate
+    // such as /fr/india/agra/<old-slug> never matched: it stayed live with its
+    // own canonical while the English original had 308'd away months earlier,
+    // and Google filed the pair as duplicates. That is the bulk of the
+    // translated URLs sitting in "Crawled - currently not indexed".
+    //
+    // An optional :lang? param reads better but breaks the destination: with
+    // the param absent, "/:lang/india/agra/x" renders as "//india/agra/x".
+    // Each rule is therefore emitted twice, plain and language-prefixed.
+    type Rule = { source: string; destination: string; permanent: boolean };
+    const inEveryLanguage = (rules: Rule[]): Rule[] =>
+      rules.flatMap(r => [
+        r,
+        {
+          ...r,
+          source: `/:lang(fr|de|es)${r.source}`,
+          // /explore has no translated route, so those land on the English page.
+          destination: r.destination.startsWith('/explore')
+            ? r.destination
+            : `/:lang${r.destination}`,
+        },
+      ]);
+
+    return inEveryLanguage([
       // "Bali" is the island, not a city: its hub is the country page.
       { source: '/indonesia/bali', destination: '/indonesia', permanent: true },
       { source: '/bali', destination: '/indonesia', permanent: true },
@@ -79,7 +103,7 @@ const nextConfig: NextConfig = {
         destination: `/:country/:city/${newSlug}`,
         permanent: true,
       })),
-    ];
+    ]);
   },
 
   // Headers for SEO & security
