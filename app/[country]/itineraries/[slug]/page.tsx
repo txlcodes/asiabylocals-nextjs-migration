@@ -3,13 +3,14 @@ import { notFound } from 'next/navigation';
 import { getItinerary, getItinerarySlugs, ITINERARY_COUNTRIES } from '@/lib/japanItineraries';
 import ItineraryClient from '@/components/ItineraryClient';
 import { countryDisplayName } from '@/lib/countryName';
+import { isLang, itineraryT, mergeItinerary, canonicalFor, alternatesFor, type Lang } from '@/lib/translations';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
 export const revalidate = 3600;
 
 interface Props {
-  params: Promise<{ country: string; slug: string }>;
+  params: Promise<{ country: string; slug: string; lang?: string }>;
 }
 
 // A literal "itineraries" segment beats the [city] catch-all at the same depth,
@@ -22,15 +23,18 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { country, slug } = await params;
-  const data = getItinerary(country, slug);
-  if (!data) return { title: 'Itinerary Not Found | AsiaByLocals' };
+  const { country, slug, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
+  const en = getItinerary(country, slug);
+  if (!en) return { title: 'Itinerary Not Found | AsiaByLocals' };
+  const data = mergeItinerary(en, itineraryT(lang, country, slug));
 
-  const url = `https://www.asiabylocals.com/${country.toLowerCase()}/itineraries/${slug}`;
+  const path = `/${country.toLowerCase()}/itineraries/${slug}`;
+  const url = canonicalFor(lang, path);
   return {
     title: data.metaTitle,
     description: data.metaDescription,
-    alternates: { canonical: url },
+    alternates: { canonical: url, languages: alternatesFor(path) },
     openGraph: {
       title: data.metaTitle,
       description: data.metaDescription,
@@ -62,9 +66,11 @@ async function fetchToursBySlug(country: string, slugs: string[]) {
 }
 
 export default async function ItineraryPage({ params }: Props) {
-  const { country, slug } = await params;
-  const data = getItinerary(country, slug);
-  if (!data) notFound();
+  const { country, slug, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
+  const en = getItinerary(country, slug);
+  if (!en) notFound();
+  const data = mergeItinerary(en, itineraryT(lang, country, slug));
 
   const allTourUrls = data.days_detail.flatMap(d => d.tours);
   const tourMap = await fetchToursBySlug(country, allTourUrls);
@@ -129,6 +135,7 @@ export default async function ItineraryPage({ params }: Props) {
         slug={slug}
         tourMap={tourMap}
         allSlugs={getItinerarySlugs(country)}
+        lang={lang || undefined}
       />
     </>
   );

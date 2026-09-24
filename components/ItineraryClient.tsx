@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { MapPin, Clock, Train, Lightbulb, ChevronRight, AlertTriangle } from 'lucide-react';
 import type { ItineraryData } from '@/lib/japanItineraries';
+import { ITIN_UI, ITIN_TPL, countryNameT, type Lang } from '@/lib/translations';
 import { countryDisplayName } from '@/lib/countryName';
 
 interface Props {
@@ -12,6 +13,7 @@ interface Props {
   slug: string;
   tourMap: Record<string, any>;
   allSlugs: string[];
+  lang?: Lang;
 }
 
 function cloudinaryLoader({ src, width, quality }: { src: string; width: number; quality?: number }) {
@@ -19,19 +21,24 @@ function cloudinaryLoader({ src, width, quality }: { src: string; width: number;
   return src.replace('/upload/', `/upload/f_auto,q_${quality || 70},w_${width}/`);
 }
 
-export default function ItineraryClient({ data, country, slug, tourMap, allSlugs }: Props) {
-  const countryLabel = countryDisplayName(country);
+export default function ItineraryClient({ data, country, slug, tourMap, allSlugs, lang }: Props) {
+  const countryLabel = countryNameT(lang, country, countryDisplayName(country));
+  const t = ITIN_UI[lang || 'en'];
+  const tpl = ITIN_TPL[lang || 'en'];
+  // Every internal link has to stay inside the language folder, or a French
+  // reader clicking "5 days" is silently dropped back onto the English site.
+  const pre = lang ? `/${lang}` : '';
 
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
         {/* Breadcrumb */}
         <nav className="flex items-center gap-2 text-[13px] font-bold text-gray-500 mb-6 flex-wrap">
-          <Link href="/" className="hover:text-[#10B981]">Home</Link>
+          <Link href={pre || '/'} className="hover:text-[#10B981]">{t.home}</Link>
           <ChevronRight size={14} />
-          <Link href={`/${country}`} className="hover:text-[#10B981]">{countryLabel}</Link>
+          <Link href={`${pre}/${country}`} className="hover:text-[#10B981]">{countryLabel}</Link>
           <ChevronRight size={14} />
-          <span className="text-[#001A33]">{data.days}-Day Itinerary</span>
+          <span className="text-[#001A33]">{tpl.crumb(data.days)}</span>
         </nav>
 
         <h1 className="text-[32px] sm:text-[44px] font-black text-[#001A33] leading-[1.1] tracking-tight mb-4">
@@ -40,7 +47,7 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
 
         <div className="flex flex-wrap items-center gap-3 mb-8">
           <span className="inline-flex items-center gap-2 px-3 py-1.5 bg-[#10B981]/10 text-[#047857] rounded-full text-[13px] font-black">
-            <Clock size={14} /> {data.days} days
+            <Clock size={14} /> {data.days} {t.days}
           </span>
           <span className="inline-flex items-center gap-2 px-3 py-1.5 bg-gray-100 text-[#001A33] rounded-full text-[13px] font-black">
             <MapPin size={14} /> {data.routeSummary}
@@ -65,15 +72,15 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
             the page for both featured snippets and AI crawlers. */}
         <div className="mb-10 overflow-x-auto">
           <h2 className="text-[20px] font-black text-[#001A33] mb-3">
-            {data.days} days in {countryLabel} at a glance
+            {tpl.atAGlance(data.days, countryLabel)}
           </h2>
           <table className="w-full text-left border-collapse text-[14px]">
             <thead>
               <tr className="border-b-2 border-gray-200">
-                <th className="py-2 pr-3 font-black text-[#001A33]">Day</th>
-                <th className="py-2 pr-3 font-black text-[#001A33]">Based in</th>
-                <th className="py-2 pr-3 font-black text-[#001A33]">What you do</th>
-                <th className="py-2 font-black text-[#001A33]">Getting there</th>
+                <th className="py-2 pr-3 font-black text-[#001A33]">{t.day}</th>
+                <th className="py-2 pr-3 font-black text-[#001A33]">{t.basedIn}</th>
+                <th className="py-2 pr-3 font-black text-[#001A33]">{t.whatYouDo}</th>
+                <th className="py-2 font-black text-[#001A33]">{t.gettingThere}</th>
               </tr>
             </thead>
             <tbody>
@@ -81,7 +88,7 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
                 <tr key={d.day} className="border-b border-gray-100 align-top">
                   <td className="py-2.5 pr-3 font-black text-[#10B981] whitespace-nowrap">{d.day}</td>
                   <td className="py-2.5 pr-3 font-bold text-[#001A33] whitespace-nowrap">{d.base}</td>
-                  <td className="py-2.5 pr-3 text-gray-700">{d.heading.replace(/^Day \d+\s*[—-]\s*/, '')}</td>
+                  <td className="py-2.5 pr-3 text-gray-700">{d.heading.replace(/^(Day|Jour|Tag|Día)\s*\d+\s*[:—–-]\s*/i, '')}</td>
                   <td className="py-2.5 text-gray-500">{d.travel ? d.travel.split(/[;.]/)[0] : '—'}</td>
                 </tr>
               ))}
@@ -97,14 +104,14 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
         </div>
 
         <div className="p-5 bg-[#10B981]/5 border border-[#10B981]/20 rounded-2xl mb-12">
-          <div className="text-[13px] font-black text-[#047857] uppercase tracking-wide mb-1">Best for</div>
+          <div className="text-[13px] font-black text-[#047857] uppercase tracking-wide mb-1">{t.bestFor}</div>
           <p className="text-[16px] text-[#001A33] font-semibold">{data.bestFor}</p>
         </div>
 
         {/* Other lengths — the whole ladder, cross-linked */}
         <div className="mb-12">
           <div className="text-[13px] font-black text-gray-500 uppercase tracking-wide mb-3">
-            Have a different amount of time?
+            {t.differentTime}
           </div>
           <div className="flex flex-wrap gap-2">
             {allSlugs.map(s => {
@@ -113,14 +120,14 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
               return (
                 <Link
                   key={s}
-                  href={`/${country}/itineraries/${s}`}
+                  href={`${pre}/${country}/itineraries/${s}`}
                   className={`px-4 py-2 rounded-xl text-[14px] font-black transition-colors ${
                     active
                       ? 'bg-[#001A33] text-white'
                       : 'bg-gray-100 text-[#001A33] hover:bg-[#10B981]/10 hover:text-[#047857]'
                   }`}
                 >
-                  {n} days
+                  {n} {t.days}
                 </Link>
               );
             })}
@@ -136,7 +143,7 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
               </div>
 
               <div className="text-[12px] font-black text-[#10B981] uppercase tracking-wide mb-1">
-                Day {day.day} · {day.base}
+                {t.day} {day.day} · {day.base}
               </div>
               <h2 className="text-[24px] sm:text-[28px] font-black text-[#001A33] leading-tight mb-3">
                 {day.heading}
@@ -217,7 +224,7 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
         {data.logistics.length > 0 && (
           <div className="mb-16">
             <h2 className="text-[28px] font-black text-[#001A33] mb-6">
-              Planning this trip
+              {t.planning}
             </h2>
             <div className="space-y-6">
               {data.logistics.map((b, i) => (
@@ -236,7 +243,7 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
         {data.faqs.length > 0 && (
           <div className="mb-12">
             <h2 className="text-[28px] font-black text-[#001A33] mb-6">
-              Frequently Asked Questions
+              {t.faq}
             </h2>
             <div className="space-y-4">
               {data.faqs.map((f, i) => (
@@ -257,10 +264,10 @@ export default function ItineraryClient({ data, country, slug, tourMap, allSlugs
 
         <div className="p-6 bg-[#001A33] rounded-2xl text-center">
           <h2 className="text-[22px] font-black text-white mb-2">
-            Book the guided parts of this trip
+            {t.bookTitle}
           </h2>
           <p className="text-[15px] text-white/70 font-semibold mb-4">
-            Every tour above runs with a verified local operator.
+            {t.bookSub}
           </p>
           <Link
             href={`/${country}`}
