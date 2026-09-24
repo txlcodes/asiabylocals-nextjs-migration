@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
-import { isLang, cityT, tourT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
+import { isLang, cityT, tourT, CITY_H1, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
@@ -426,7 +426,8 @@ export default async function CityPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <CityPageClient tours={tours} city={cityName} country={countryName} />
+      <CityPageClient tours={tours} city={cityName} country={countryName}
+        h1={cityT(lang, city.toLowerCase())?.h1 || CITY_H1[lang || 'en'](cityName)} />
     </>
   );
 }

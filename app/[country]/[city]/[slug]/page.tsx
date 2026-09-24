@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { CITY_URL_MAP } from '@/lib/cityCountryMap';
-import { isLang, tourT, pageT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
+import { isLang, tourT, pageT, optionT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { AGRA_INFO_SLUGS, UBUD_INFO_SLUGS, CANGGU_INFO_SLUGS, ULUWATU_INFO_SLUGS, NUSA_PENIDA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS, HA_LONG_INFO_SLUGS, HANOI_INFO_SLUGS, SAPA_INFO_SLUGS, HOI_AN_INFO_SLUGS, DA_NANG_INFO_SLUGS, HO_CHI_MINH_CITY_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
 import { getTourSpecificFAQs } from '@/lib/tourFaqs';
@@ -682,6 +682,17 @@ export default async function SlugPage({ params }: Props) {
       highlights: tt.highlights ? JSON.stringify(tt.highlights) : tour.highlights,
       included: tt.included ? JSON.stringify(tt.included) : tour.included,
       notIncluded: tt.notIncluded ? JSON.stringify(tt.notIncluded) : tour.notIncluded };
+  }
+
+  // Option titles are translated here rather than in TourDetailClient. Calling
+  // optionT from a client component pulled the whole translation table into the
+  // browser bundle: one 3.6 MB chunk of French, German and Spanish tour copy
+  // downloaded by every visitor, growing with each batch we translate.
+  if (lang && Array.isArray(tour?.options)) {
+    tour = { ...tour, options: tour.options.map((o: any) => {
+      const t = optionT(lang, slug, o?.optionTitle, o?.optionDescription);
+      return { ...o, optionTitle: t.title || o?.optionTitle, optionDescription: t.description || o?.optionDescription };
+    }) };
   }
 
   // ---------- SERVER-SIDE JSON-LD for Tour Detail (guaranteed in raw HTML) ----------

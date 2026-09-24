@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { MapPin, Clock, Train, Lightbulb, ChevronRight, AlertTriangle } from 'lucide-react';
 import type { ItineraryData } from '@/lib/japanItineraries';
-import { ITIN_UI, ITIN_TPL, countryNameT, type Lang } from '@/lib/translations';
+import { ITIN_UI, ITIN_TPL, countryNameT, type Lang } from '@/lib/translations/ui';
 import { countryDisplayName } from '@/lib/countryName';
 
 interface Props {

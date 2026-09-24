@@ -23,6 +23,8 @@ interface CityPageClientProps {
   tours: any[];
   country: string;
   city: string;
+  /** Localised H1, resolved on the server so this component stays language-free. */
+  h1?: string;
 }
 
 // City descriptions for SEO - Battle-tested structure
@@ -2735,7 +2737,7 @@ const formatDurationDisplay = (durationStr: string | null | undefined) => {
   return durationStr;
 };
 
-export default function CityPageClient({ tours: initialTours, city, country }: CityPageClientProps) {
+export default function CityPageClient({ tours: initialTours, city, country, h1 }: CityPageClientProps) {
   const { t } = useLanguage();
   const tours = initialTours;
   const [filterCategory, setFilterCategory] = useState<string>('all');
@@ -2922,7 +2924,7 @@ export default function CityPageClient({ tours: initialTours, city, country }: C
 
         {/* H1 - SEO Gold (ONLY ONE H1) */}
         <h1 className="text-4xl md:text-5xl font-black text-[#001A33] mb-8">
-          Guided Tours & Things to Do in {city}
+          {h1 || `Guided Tours & Things to Do in ${city}`}
         </h1>
 
         {/* Intro Content - 2-3 Paragraphs (Mandatory for SEO) */}

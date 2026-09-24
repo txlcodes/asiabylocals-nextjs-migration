@@ -41,7 +41,6 @@ import BookingForm from '@/components/BookingForm';
 import RelatedTours from '@/components/RelatedTours';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import type { TourReview, TourReviewData } from '@/lib/tourReviews';
-import { optionT } from '@/lib/translations';
 
 // included / notIncluded arrive as either a newline-separated string (hand-written
 // tours) or a JSON array string (every imported batch: Japan, Bali, Vietnam), and
@@ -1923,9 +1922,9 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                                   {/* Card Content */}
                                   <div className="p-5 flex flex-col flex-1">
-                                    <h3 className="font-black text-[#001A33] text-[16px] mb-2 leading-tight">{optionT(lang, tour?.slug, option.optionTitle, option.optionDescription).title}</h3>
+                                    <h3 className="font-black text-[#001A33] text-[16px] mb-2 leading-tight">{option.optionTitle}</h3>
 
-                                    {(() => { const optDesc = optionT(lang, tour?.slug, option.optionTitle, option.optionDescription).description; return (
+                                    {(() => { const optDesc = option.optionDescription; return (
                                     <div className="text-[13px] text-gray-600 font-medium mb-3 leading-relaxed">
                                       {optDesc && (
                                         <>
