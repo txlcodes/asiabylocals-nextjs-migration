@@ -8800,5 +8800,157 @@ export const ES_ITINERARIES: Record<string, ItineraryT> = {
     "answer": "No sin romper el viaje. De Jodhpur a Jaisalmer son unas cinco horas por sentido, y de Jaisalmer de vuelta a Udaipur nueve o diez, así que añadirlo a un plan de ocho días convierte dos de tus días en pura conducción. Jaisalmer pertenece a un itinerario de diez días."
    }
   ]
+ },
+ "india:9-days": {
+  "title": "9 días en India: el Triángulo de Oro y el Rajastán occidental",
+  "metaTitle": "Itinerario de 9 días por India: ruta de Rajastán | AsiaByLocals",
+  "metaDescription": "Un itinerario de 9 días por India: Delhi, Agra, Jaipur, dos noches en Jodhpur y dos en Udaipur, con tiempos de viaje honestos y el cierre de los viernes del Taj Mahal ya previsto.",
+  "routeSummary": "Delhi → Agra → Jaipur → Jodhpur → Udaipur",
+  "quickAnswer": "Nueve días le dan a Jodhpur una segunda noche, que es la diferencia entre ver Mehrangarh y ver Jodhpur: dos noches en Delhi, una en Agra, dos en Jaipur, dos en Jodhpur y dos en Udaipur. Con nueve días nada de esta ruta va con prisa. Vuela los tramos hacia Udaipur en vez de conducir seis horas. Deja Agra fuera del viernes.",
+  "bestFor": "Viajeros con nueve días que quieren el Triángulo de Oro más tiempo real en el Rajastán occidental, sin los largos traslados por el desierto que un tramo a Jaisalmer impone a la segunda mitad.",
+  "intro": "Nueve días es la versión de esta ruta sin ninguna ciudad sacrificada. Ocho días te llevan a Jodhpur pero te dan una noche allí, que cubre el fuerte de Mehrangarh y los callejones azules y nada fuera de las murallas. El noveno día arregla exactamente eso: un día completo en Jodhpur para el desierto, las aldeas bishnoi, el mercado por la mañana cuando funciona de verdad, o sencillamente una visita al fuerte más lenta de lo que permite una tarde.\n\nLo que nueve días no llegan a alcanzar es Jaisalmer. Está cinco horas más al oeste y a nueve o diez horas de vuelta a Udaipur, y meterlo aquí costaría los dos días que este itinerario pasa quieto. Si el fuerte del desierto y una noche bajo las dunas son el viaje que quieres, pasa a diez días. Si prefieres ver cuatro sitios bien antes que cinco con prisa, esta es la duración.\n\nEl punto fijo, como en todas las versiones de esta ruta: el Taj Mahal cierra todos los viernes. Aquí lo ves al amanecer del día 4, así que cuenta cuatro días desde tu fecha de llegada antes de reservar vuelos. Casi todos los itinerarios de India publicados se saltan este detalle, y es el que no se puede esquivar el mismo día.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Delhi",
+    "heading": "Llegada a Delhi, entrando poco a poco",
+    "narrative": "Los vuelos a Delhi aterrizan casi todos entre medianoche y las ocho de la mañana, así que el primer día es medio día por mucho que pensaras otra cosa en el avión. Reserva la habitación desde la noche anterior si puedes. Dormir hasta las once el día 1 no es tiempo perdido, es la razón de que los días 2 y 3 funcionen.\n\nPara la tarde, toma la mitad de Nueva Delhi de la ciudad, y toma primero la tumba de Humayun. Terminada en 1572 para el segundo emperador mogol, es el prototipo: jardín charbagh, cúpula central alta, arenisca roja con incrustaciones de mármol blanco. Ochenta años después esa idea se convierte en el Taj Mahal. Verlos en orden hace que el segundo aterrice de otra manera.\n\nAñade el Qutub Minar, una torre de la victoria de 73 metros del siglo XII anterior a los mogoles, si sigues en pie, y termina con el paseo en coche por India Gate y los edificios de gobierno de Raisina Hill. Esa es una primera tarde completa y sensata.",
+    "travel": "Llegada a Delhi (DEL). Metro Airport Express al centro en unos 20 minutos; taxi de 30 a 60 minutos según el tráfico.",
+    "tip": "Consigue una SIM local en el aeropuerto con tu pasaporte antes de salir de llegadas. Veinte minutos allí te ahorran una tarde en una tienda de móviles más adelante.",
+    "friday_note": null
+   },
+   {
+    "day": 2,
+    "base": "Delhi",
+    "heading": "La ciudad vieja, a pie y en rickshaw",
+    "narrative": "La Vieja Delhi funciona por la mañana y deja de funcionar a primera hora de la tarde, así que empieza en la Jama Masjid sobre las nueve. Es la mezquita más grande de India, Shah Jahan la terminó en 1656, y el patio es el único espacio abierto de esta parte de la ciudad. Desde allí los callejones de Chandni Chowk corren hacia el oeste, y la forma honesta de atravesarlos es un bicitaxi para los tramos largos y tus propios pies para el resto.\n\nKhari Baoli es el mayor mercado de especias de Asia y te hará llorar los ojos, que es la reacción correcta. Los callejones de la plata y de las invitaciones de boda, fuera de la calle principal, son donde ves a la ciudad vieja trabajando en vez de actuando. Come sobre la marcha, y deja que un guía elija los puestos en tus primeras 48 horas.\n\nDeja la tarde ligera: el Fuerte Rojo, o Raj Ghat, o el Gandhi Smriti, y para ahí. Delhi no es una ciudad que se termine, y tienes un tren temprano.",
+    "travel": null,
+    "tip": "El Fuerte Rojo cierra los lunes. Si tu día 2 cae en uno, haz los Lodhi Gardens y la tumba de Humayun por la mañana y pasa el paseo por la ciudad vieja a última hora de la tarde.",
+    "friday_note": null
+   },
+   {
+    "day": 3,
+    "base": "Agra",
+    "heading": "Agra en tren rápido, y el fuerte antes que la tumba",
+    "narrative": "El Gatimaan Express hace Delhi a Agra en unos 100 minutos. Es el tren más rápido del país, sale de Hazrat Nizamuddin a media mañana y es un comienzo de día mucho mejor que tres horas y media en la Yamuna Expressway. Resérvalo pronto, porque se agota en temporada.\n\nDespués el fuerte de Agra, y hoy nada de Taj Mahal. El fuerte fue sede del poder mogol durante un siglo y es una ciudad amurallada por derecho propio, arenisca por fuera y los palacios de mármol de Shah Jahan por dentro. El Musamman Burj, la torre octogonal donde Aurangzeb mantuvo a su padre bajo arresto domiciliario sus últimos ocho años, mira río abajo directamente al Taj. Estar ahí antes de haber visitado la tumba es toda la razón de hacer el día en este orden.\n\nEn la última hora de luz, cruza a Mehtab Bagh en la otra orilla. El Taj desde el norte, sobre el Yamuna, con luz naranja y una fracción de la gente. Lleva chaqueta en diciembre y enero; la temperatura cae rápido en cuanto se va el sol.",
+    "travel": "Delhi a Agra en el Gatimaan Express, alrededor de 1 hora 40 minutos. En coche, de 3 a 3,5 horas.",
+    "tip": "Reserva hotel en Taj Ganj, en el lado sur del monumento. Mañana sales antes de las seis, y a esa hora la cercanía gana a cualquier otra prestación del hotel.",
+    "friday_note": "El Taj Mahal cierra todos los viernes, sin excepciones. Si este día cae en viernes, intercámbialo con un día contiguo, o dedícalo al fuerte de Agra, a Itimad-ud-Daulah y a la puesta de sol en Mehtab Bagh al otro lado del río, y ve el Taj al amanecer de la mañana siguiente."
+   },
+   {
+    "day": 4,
+    "base": "Jaipur",
+    "heading": "Amanecer en el Taj, Fatehpur Sikri y camino de Jaipur",
+    "narrative": "Ponte en la cola antes de que abran las puertas. El edificio llevó de 1632 a 1653 y le costó a Shah Jahan el equivalente a un imperio en mármol de Makrana, pero la razón de estar allí con la primera luz es física y no histórica: la piedra es levemente translúcida y pasa del gris al rosa y al blanco en la primera media hora, y hay unos cientos de personas en vez de unos miles.\n\nAcércate hasta el plinto. Lo que desde el jardín parece talla es pietra dura, piedra semipreciosa cortada e incrustada en el mármol flor a flor, y es el verdadero logro del edificio. Paga el suplemento para entrar una vez al mausoleo; es oscuro y rápido, pero es donde la marquetería es más fina.\n\nDesayuno, salida del hotel y carretera al oeste. Fatehpur Sikri está a una hora de Agra: la capital que Akbar construyó a propósito en la década de 1570, abandonada catorce años después, aún en pie y normalmente casi vacía. Dale dos horas. Llegas a Jaipur a última hora de la tarde, y este es el único día largo del itinerario, así que deja la noche libre.",
+    "travel": "Agra a Jaipur por carretera, unas 4 horas, más unas 2 horas en Fatehpur Sikri.",
+    "tip": "La entrada es sin efectivo y por QR, y en la puerta inspeccionan tu pasaporte original. Lleva solo teléfono, cartera y pasaporte para pasar de largo del guardarropa.",
+    "friday_note": null
+   },
+   {
+    "day": 5,
+    "base": "Jaipur",
+    "heading": "El fuerte de Amber, la ciudad rosa y una clase de cocina",
+    "narrative": "Primero el fuerte de Amber, y temprano. Es un palacio rajput apilado ladera arriba a las afueras, con cuatro patios de profundidad, y el Sheesh Mahal de espejos en su corazón tiene cola a las diez y media. A las ocho no. Calcula dos horas y media y sube la rampa en jeep en vez de en elefante.\n\nLa ciudad amurallada llena el centro del día. Jaipur se planificó sobre una cuadrícula en 1727, lo que convierte el City Palace, el Jantar Mantar y el Hawa Mahal en un grupo caminable en vez de tres trayectos separados. El Jantar Mantar es un conjunto de instrumentos astronómicos monumentales de piedra que todavía funcionan, y es francamente aburrido sin alguien que los explique y francamente bueno con alguien.\n\nCon un día completo aquí tienes sitio para algo que no sea un monumento. Una clase de cocina con una familia local es el mejor uso de una tarde en Jaipur: la comida rajastaní es distinta de la del norte que has estado comiendo, construida en torno a ingredientes secos por el clima, y se entiende mejor en una cocina que en un restaurante. Antes Nahargarh para la puesta de sol si la luz acompaña.",
+    "travel": null,
+    "tip": "La entrada combinada de Jaipur cubre Amber, Jantar Mantar, Hawa Mahal, Nahargarh y el Albert Hall durante dos días y se amortiza a partir de tres sitios.",
+    "friday_note": null
+   },
+   {
+    "day": 6,
+    "base": "Jodhpur",
+    "heading": "La carretera larga hacia el oeste, a Jodhpur",
+    "narrative": "Cinco horas y media a seis de Jaipur a Jodhpur, por un campo que se va quedando en matorral según avanzas. Sal a las ocho y para a comer por el camino. El tren alternativo tarda más o menos lo mismo y cuesta una fracción, pero el coche te permite romper el trayecto y te deja en la puerta del hotel.\n\nLlega con la tarde intacta y sube directo a Mehrangarh. El fuerte se asienta sobre una roca de 120 metros justo encima del casco antiguo, nunca fue tomado por asedio, y sigue perteneciendo a la familia real de Jodhpur, por lo que los interiores están intactos y no reconstruidos. La luz de última hora sobre la arenisca es el mejor momento para estar en las murallas, y las casas azules de abajo cobran sentido desde ahí arriba de un modo que no tienen desde la calle.\n\nBaja al anochecer y camina hasta la torre del reloj y el mercado de Sardar. Mañana tienes un día entero aquí, así que esta noche puede ser corta.",
+    "travel": "Jaipur a Jodhpur por carretera, unas 5,5 a 6 horas. En tren, aproximadamente 5 horas.",
+    "tip": "La audioguía de Mehrangarh es una de las pocas de India que merecen la fianza, y funciona bien junto a un guía en vez de sustituirlo: toma el guía para el casco antiguo y la audioguía para las salas del palacio.",
+    "friday_note": null
+   },
+   {
+    "day": 7,
+    "base": "Jodhpur",
+    "heading": "La ciudad azul como es debido, y el desierto en su borde",
+    "narrative": "El día extra en Jodhpur es lo que separa este itinerario de la versión de ocho días, y no debería gastarse otra vez dentro del fuerte. Empieza en el casco antiguo a pie de calle: los callejones bajo Mehrangarh son realmente azules, al principio una marca brahmán y hoy simplemente el aspecto de la ciudad, y temprano están tranquilos y frescos. El mercado de Sardar y la torre del reloj son mercados que trabajan por la mañana y tiendas para turistas por la tarde.\n\nJaswant Thada, el cenotafio de mármol blanco a poca distancia a pie del fuerte, lleva media hora y es el sitio más tranquilo de la ciudad. Luego, por la tarde, sal de la ciudad. Un safari en jeep por el matorral del Thar alrededor de las aldeas bishnoi es la versión honesta de una excursión al desierto desde Jodhpur: alfareros y tejedores que trabajan de verdad, antílopes cervicapra y chinkaras en campo abierto, y nada del montaje de campamentos que encuentras más al oeste.\n\nSi prefieres no sentarte en un jeep, dedica la tarde a la comida y a los callejones. Jodhpur es una buena ciudad para comer y una mala ciudad para ir con prisa.",
+    "travel": null,
+    "tip": "Haz la salida al desierto a última hora de la tarde y no a mediodía. La fauna se mueve en los extremos del día, y la luz entre las dos y las cuatro es plana y caliente.",
+    "friday_note": null
+   },
+   {
+    "day": 8,
+    "base": "Udaipur",
+    "heading": "Hacia las colinas, y la ciudad de los lagos",
+    "narrative": "De Jodhpur a Udaipur son unas cinco horas y es la mejor carretera del viaje, saliendo del desierto y entrando en la cordillera Aravalli. Ranakpur, el templo jainista del siglo XV con 1.444 pilares de mármol tallados, queda cerca de esta carretera y añade unas dos horas. En un itinerario de nueve días eso es asumible si sales a las siete.\n\nUdaipur es el tercer registro de este viaje, tras el Delhi y el Agra mogoles y el Jaipur y Jodhpur rajput. Es una ciudad lacustre, baja y verde, y el City Palace recorre la orilla este del lago Pichola en una serie de edificios que cuatro siglos de maharanás fueron ampliando. Hazlo por la tarde, y baja luego al templo Jagdish y por los ghats.\n\nTermina en el agua. La última barca del día por el lago Pichola pasa por el Lake Palace y para en Jag Mandir, y para la mayoría de quienes la toman es la mejor hora de este itinerario.",
+    "travel": "Jodhpur a Udaipur por carretera, unas 5 horas directo, o 7 horas con parada en Ranakpur.",
+    "tip": "Si paras en Ranakpur, ten en cuenta que a los visitantes no jainistas se les suele admitir solo a partir de mediodía, así que una salida temprana de Jodhpur hay que calcularla para llegar después de esa hora y no antes.",
+    "friday_note": null
+   },
+   {
+    "day": 9,
+    "base": "Udaipur",
+    "heading": "Una última mañana en Udaipur",
+    "narrative": "Udaipur es el sitio adecuado para terminar porque no te pide nada. Salen vuelos directos a Delhi y Bombay a lo largo del día, y la mañana previa se aprovecha mejor a pie que en coche.\n\nCamina los ghats temprano, mientras la ciudad lava y la luz está sobre el agua. Sajjangarh, el palacio del monzón en la cresta sobre la ciudad, te da todo el sistema de lagos y las colinas de detrás en una sola vista y lleva unos noventa minutos con el trayecto incluido. El Bagore Ki Haveli, junto al agua, es una casa de mercader del siglo XVIII restaurada con un pequeño espectáculo folclórico a primera hora de la tarde si tu vuelo va tarde.\n\nSi tienes un día realmente completo, la vuelta a Kumbhalgarh y Ranakpur es la mejor excursión que ofrece Udaipur: un fuerte con la segunda muralla continua más larga del planeta, que corre 36 kilómetros por la cresta. Es un día de diez horas, así que tómalo solo si vuelas la mañana del día 10.",
+    "travel": "Salida desde Udaipur (UDR): alrededor de 1 hora 30 minutos a Delhi, 1 hora 20 minutos a Bombay.",
+    "tip": "Deja al menos cuatro horas en Delhi entre una llegada nacional y una salida internacional. La Terminal 3 es un edificio distinto de las Terminales 1 y 2 y vuelves a facturar desde cero.",
+    "friday_note": null
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "La regla del viernes y cómo contar tus días",
+    "content": "El Taj Mahal cierra todos los viernes. No parcialmente ni con jornada reducida: cerrado, todo el día, cada semana, por la oración del viernes en la mezquita del recinto. Casi todos los itinerarios que leerás en internet lo ignoran, y así es como la gente acaba plantada en la Puerta Oeste un viernes por la mañana con un vuelo el sábado.\n\nEn esta ruta la visita al Taj cae al amanecer del día 4, así que antes de reservar nada cuenta cuatro días desde tu fecha de llegada. Si el día 4 cae en viernes, tienes dos arreglos limpios. El fácil es mover tu llegada un día en cualquier dirección. El otro, si tus vuelos son fijos, es darle la vuelta a la parte de Agra: ve el Taj el jueves por la tarde al llegar a Agra el día 3, y usa la mañana del viernes para el fuerte de Agra e Itimad-ud-Daulah antes de seguir. La luz de tarde en el Taj es más dura y hay más gente, pero es mejor que perdértelo.\n\nSi tus fechas no se pueden mover en absoluto y Agra cae de verdad en viernes, el día sigue mereciendo la pena. El fuerte de Agra, Itimad-ud-Daulah (el Baby Taj, el edificio que enseñó a los arquitectos mogoles lo que podía hacer el mármol incrustado) y la puesta de sol en Mehtab Bagh al otro lado del río te dan el Taj de perfil con el Yamuna delante. Eso es un día de verdad, no un premio de consolación, y es el único día de la semana en que el fuerte de Agra no compite por la atención."
+   },
+   {
+    "heading": "Trenes, coches y vuelos",
+    "content": "Delhi a Agra: Gatimaan Express, unos 100 minutos, y no hay buen argumento para otra cosa salvo que quieras parar por el camino. Agra a Jaipur, Jaipur a Jodhpur y Jodhpur a Udaipur: coche con conductor, porque dos de esos tres tramos tienen algo que merece una parada y ninguno es más rápido en tren una vez cuentas los traslados a las estaciones.\n\nContrata el coche de Rajastán como una sola reserva desde Agra hasta Udaipur en vez de tramo a tramo. Suele salir más barato, el conductor se queda contigo y elimina tres negociaciones distintas en mitad de tus vacaciones. Reserva los trenes en cuanto tengas fechas: IRCTC abre 60 días antes y el vagón del Gatimaan se llena en temporada. Udaipur tiene buenos vuelos directos a Delhi y Bombay, que es la razón principal de que esta ruta termine allí en vez de volver sobre sus pasos."
+   },
+   {
+    "heading": "Cuándo ir y cuándo no",
+    "content": "De octubre a marzo es la temporada, y no está reñido. Desde abril el desierto de Rajastán supera los 45 grados, y mayo y junio son realmente peligrosos para quien pasea por fuertes a mediodía. De julio a septiembre es el monzón: más fresco, más verde, mucho más barato e impredecible hasta el punto de que un día de carretera puede duplicarse.\n\nLa contrapartida dentro de la buena temporada es el aire. La calidad del aire de Delhi es peor de noviembre a enero, cuando se juntan la quema de rastrojos y el aire frío y quieto. Si tienes asma o viajas con niños pequeños, febrero y marzo te dan las mismas temperaturas agradables sin lo peor, o puedes dejar Delhi en una sola noche y pasar el tiempo más al oeste. Las mañanas de diciembre y enero en Rajastán son además francamente frías, y un amanecer en el Taj en enero suele venir con niebla lo bastante espesa para ocultar el edificio hasta las ocho."
+   },
+   {
+    "heading": "Las entradas del Taj Mahal, en la práctica",
+    "content": "La entrada para extranjeros ronda las 1.300 rupias, con un cargo aparte de unas 200 rupias para entrar en el propio mausoleo, donde están los cenotafios. Tómalo como orientativo y compruébalo al reservar. El suplemento del mausoleo merece pagarse una vez; el interior es oscuro y se recorre en unos minutos, pero la marquetería pietra dura es el sentido del edificio y las fotos no la transmiten.\n\nEl sistema es sin efectivo y por QR, y en la puerta comprueban tu pasaporte original, no una fotocopia ni una foto del móvil. Las bolsas grandes, los trípodes, los drones y la comida no entran, y la cola del guardarropa al amanecer es un retraso en sí misma, así que lleva teléfono, cartera y pasaporte y nada más. Las entradas cuentan desde el acceso, y un guía que ha hecho esto mil veces te meterá por la Puerta Este más rápido de lo que lo conseguirás tú solo."
+   },
+   {
+    "heading": "Qué te da realmente el noveno día",
+    "content": "Te da un día completo en Jodhpur, y ese es mejor uso del día que cualquier otra opción de esta ruta. Con una noche ves Mehrangarh y los callejones justo debajo. Con dos tienes el mercado por la mañana, Jaswant Thada y una tarde en el matorral del Thar alrededor de las aldeas bishnoi, que es lo más cerca que este itinerario llega del Rajastán rural.\n\nEl uso alternativo de un noveno día es una tercera noche en Udaipur, y es una elección defendible si el grupo está cansado. Lo que un noveno día no da es Jaisalmer. Está cinco horas más al oeste y a nueve o diez de vuelta a Udaipur, así que solo funciona si tienes un décimo día que absorba la conducción."
+   },
+   {
+    "heading": "El ritmo, siendo honestos",
+    "content": "Esta es la duración mejor equilibrada de toda la escalera. Hay un día realmente duro, el día 4, que abre antes del amanecer en el Taj y cierra con cuatro horas de coche, y un traslado largo, el día 6. Todo lo demás tiene holgura, y los días 7 y 9 son deliberadamente sueltos.\n\nLa regla general para India se aplica de principio a fin: empieza a las siete, tómate libre el centro del día y vuelve a salir a las cuatro. Los monumentos abren al amanecer, las horas de doce a tres son calurosas y con mala luz para fotos, y un día construido sobre ese ritmo ve más y te cuesta menos que uno que lo atraviesa de corrido."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Son 9 días una buena duración para un primer viaje a India?",
+    "answer": "Para el norte es probablemente la mejor duración. Nueve días cubren el Triángulo de Oro sin prisas, dan a Jodhpur dos noches en vez de una y aún terminan con dos días lentos en Udaipur. Por debajo de ocho días algo se aprieta; por encima de diez entras en distancias de carretera serias."
+   },
+   {
+    "question": "¿Qué día cierra el Taj Mahal?",
+    "answer": "Todos los viernes, el día entero, sin excepción, por la oración en la mezquita del recinto. Este itinerario lo visita al amanecer del día 4, así que cuenta cuatro días desde tu fecha de llegada. Si cae en viernes, mueve la llegada un día, o ve el Taj el jueves por la tarde al llegar a Agra."
+   },
+   {
+    "question": "¿Debería añadir Jaisalmer a nueve días?",
+    "answer": "No. De Jodhpur a Jaisalmer son unas cinco horas, y de Jaisalmer a Udaipur nueve o diez. Añadirlo a un plan de nueve días significa que dos de tus días se convierten en días de conducción y pierdes las partes de este itinerario que no son traslados. Jaisalmer necesita un décimo día."
+   },
+   {
+    "question": "¿Merecen la pena dos noches en Jodhpur?",
+    "answer": "Sí, y es la razón concreta para elegir nueve días en vez de ocho. Una noche te da el fuerte de Mehrangarh y los callejones azules de abajo. Dos te dan el mercado de la mañana, Jaswant Thada y una tarde en el matorral del Thar alrededor de las aldeas bishnoi, la parte más rural de toda la ruta."
+   },
+   {
+    "question": "¿Puedo parar en Ranakpur entre Jodhpur y Udaipur?",
+    "answer": "Sí, y en un viaje de nueve días cabe. Añade unas dos horas a un trayecto de cinco. Un detalle práctico: a los visitantes no jainistas se les admite por lo general a partir de mediodía, así que calcula tu salida para llegar después de esa hora y no a las nueve de la mañana."
+   },
+   {
+    "question": "¿Cómo vuelvo a casa desde Udaipur?",
+    "answer": "El aeropuerto de Udaipur tiene vuelos directos a Delhi en aproximadamente hora y media y a Bombay en una hora y veinte. Si enlazas con un vuelo de largo radio desde Delhi, deja cuatro horas: las terminales nacional e internacional son edificios separados y vuelves a facturar."
+   },
+   {
+    "question": "¿Cuál es la mejor época del año para esta ruta?",
+    "answer": "De octubre a marzo, sin mucho debate. De abril a junio se superan los 45 grados en el Rajastán occidental y es peligroso para días completos al aire libre, y de julio a septiembre es el monzón. Dentro de la temporada, el aire de Delhi está peor de noviembre a enero, así que febrero y marzo van mejor para quien tenga asma."
+   },
+   {
+    "question": "¿Necesito coche con conductor o puedo ir en tren todo el tiempo?",
+    "answer": "Puedes hacer Delhi a Agra, Agra a Jaipur y Jaipur a Jodhpur en tren, pero Fatehpur Sikri no tiene estación y el tramo Jodhpur a Udaipur es lento e incómodo en tren. La mayoría toma el Gatimaan Express para el primer tramo y un solo coche con conductor para todo lo que queda al oeste de Agra."
+   }
+  ]
  }
 };
