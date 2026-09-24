@@ -8175,5 +8175,228 @@ export const DE_ITINERARIES: Record<string, ItineraryT> = {
     "answer": "Sie schaffen es allein, aber die beiden Orte, an denen ein Guide den Tag verändert, sind Alt-Delhi, dessen Gassen beim ersten Besuch schwer zu lesen sind, und Fatehpur Sikri, wo das Gelände kaum beschildert ist und am Eingang beharrlich inoffizielle Guides warten. Agra und Jaipur sind eigenständig machbar, wenn die Tickets geregelt sind."
    }
   ]
+ },
+ "india:4-days": {
+  "title": "4 Tage in Indien: das Goldene Dreieck ohne Hetze",
+  "metaTitle": "Reiseroute Goldenes Dreieck in 4 Tagen | AsiaByLocals",
+  "metaDescription": "Eine Indien-Reiseroute für 4 Tage: Delhi, Agra und zwei Nächte in Jaipur, damit das Amber Fort hineinpasst, mit echten Zugzeiten und der Freitagsregel am Taj Mahal.",
+  "routeSummary": "Delhi → Agra → Jaipur → Jaipur",
+  "quickAnswer": "Vier Tage sind das Goldene Dreieck mit einem echten Tag für Jaipur: eine Nacht Delhi, eine Agra, zwei Jaipur. Die zweite Nacht in Jaipur ist das, was Ihnen das Amber Fort verschafft, das die Drei-Tage-Version streichen muss. Delhi nach Agra dauert 100 Minuten mit dem Gatimaan Express. Das Taj ist jeden Freitag geschlossen, planen Sie den Agra-Tag entsprechend.",
+  "bestFor": "Reisende, die das vollständige Goldene Dreieck einschließlich Amber Fort wollen und lieber drei Städte richtig sehen als vier Städte schlecht.",
+  "intro": "Vier Tage sind das kürzeste Goldene Dreieck, das sich nicht wie ein Rennen anfühlt. Die zusätzliche Nacht geht an Jaipur, und genau dorthin gehört sie: Drei Tage zwingen Sie, zwischen dem Amber Fort und dem Kern der ummauerten Stadt zu wählen, vier Tage lassen Ihnen beides, ohne dass Sie eines davon im Laufschritt beginnen.\n\nDie Form ist: eine Nacht Delhi, eine Agra, zwei Jaipur. Sie fahren mit dem Gatimaan Express in etwa 100 Minuten nach Agra hinunter, schlafen dort für das Zeitfenster zum Sonnenaufgang am Taj und fahren am nächsten Morgen über Fatehpur Sikri nach Jaipur. Von Jaipur aus können Sie direkt abfliegen oder in fünf bis sechs Stunden nach Delhi zurückfahren, wenn Ihr Heimflug von dort geht.\n\nDie feste Einschränkung ist dieselbe wie bei jeder Version dieser Route: Das Taj Mahal ist jeden Freitag geschlossen. Mit vier Tagen haben Sie etwas mehr Spielraum zum Umstellen, aber die Korrektur muss bei der Buchung geschehen, nicht vor Ort. Entscheiden Sie, an welchem Kalendertag Sie in Agra sind, bevor Sie ein einziges Hotel buchen.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Delhi",
+    "heading": "Tag 1: Delhi, moghulisch und imperial",
+    "narrative": "Geben Sie den Vormittag Alt-Delhi: der Jama Masjid, den Gassen abseits von Chandni Chowk und dem Gewürzmarkt von Khari Baoli, am besten zu Fuß mit einer Rikscha für die längeren Abschnitte. Essen Sie dort. Das Straßenessen von Alt-Delhi ist ein großer Teil dessen, was dieses Viertel ausmacht, und mit jemandem hinzugehen, der weiß, welche Stände schnellen Umschlag haben, ist die vernünftige Variante davon.\n\nAm Nachmittag wechseln Sie in das Neu-Delhi, das die Briten bauten und dann übergaben: India Gate, die Zeremonialachse des Rajpath und Humayuns Mausoleum. Letzteres hat Vorrang, wenn der Tag knapp wird. In den 1560er Jahren erbaut, ist es der Prototyp, den das Taj verfeinert hat: derselbe Charbagh-Gartenplan, dieselbe zentrale Kuppel auf erhöhtem Sockel. Es zuerst zu sehen macht aus Agra statt einer Fotografie eine Abfolge.\n\nWenn Sie danach noch Energie haben, ist das Qutub Minar im Süden der Stadt abends angestrahlt. Wenn nicht, erzwingen Sie es nicht. Morgen beginnt vor Tagesanbruch.",
+    "travel": null,
+    "tip": "Delhis Verkehr ist kein Gerücht. Zwischen etwa 08:30 und 11:00 Uhr sowie zwischen 17:00 und 20:30 Uhr kann eine Strecke von 10 km eine Stunde dauern. Gruppieren Sie Vormittag und Nachmittag nach Stadtteil statt nach Thema.",
+    "friday_note": null
+   },
+   {
+    "day": 2,
+    "base": "Agra",
+    "heading": "Tag 2: hinunter nach Agra, das Taj und das Fort",
+    "narrative": "Der Gatimaan Express schafft Delhi nach Agra in etwa 100 Minuten und ist der schnellste Zug Indiens; früh ab Hazrat Nizamuddin zu fahren bringt Sie morgens ans Taj statt mittags. Wer fährt, braucht auf der Yamuna Expressway drei bis dreieinhalb Stunden und sollte um 05:00 Uhr losfahren, um dasselbe Zeitfenster zu erreichen.\n\nDas Taj Mahal ist der ganze Sinn des Tages, geben Sie ihm also zwei bis drei Stunden statt der vierzig Minuten, die die meisten Touren einplanen. Gehen Sie das Wasserbecken entlang, treten Sie ins Mausoleum, um die Pietra-dura-Einlegearbeit und das Marmorgitter um die Kenotaphe zu sehen, und gehen Sie dann nach hinten auf die Flussterrasse, wo fast niemand steht und das Bauwerk als Ingenieurleistung am überzeugendsten wirkt. Die UNESCO nahm es 1983 auf; Shah Jahan vollendete es 1653.\n\nDer Nachmittag gehört dem Agra Fort, zehn Minuten entfernt, und das ist kein Lückenfüller. Hier hielt Aurangzeb seinen Vater Shah Jahan unter Hausarrest, und der achteckige Turm, in dem er saß, blickt die Yamuna entlang direkt auf das Taj. Bleibt vor Einbruch der Dunkelheit Zeit, ist Itimad-ud-Daulah, das „Baby Taj“, kleiner, ruhiger und etwa fünfzehn Jahre vor Baubeginn des Taj fertiggestellt worden.",
+    "travel": "Delhi → Agra. Gatimaan Express, etwa 1 Std. 40 Min.; oder 3 bis 3,5 Stunden auf der Straße über die Yamuna Expressway.",
+    "tip": "Der Eintritt zum Sonnenaufgang ist der bessere Besuch, aber nicht der einzige gute. Kommen Sie stattdessen mit dem Morgenzug, zielen Sie auf die letzten zwei Stunden vor Schließung, wenn die Menge wieder dünner und das Licht warm wird.",
+    "friday_note": "Fällt Tag 2 auf einen Freitag, ist das Taj Mahal geschlossen. Auf einer Vier-Tage-Reise ist die sauberste Lösung, die Nacht in Agra auf Tag 3 zu verschieben und Jaipur vorzuziehen, oder die Reise um einen Tag zu verschieben. Andernfalls fahren Sie die Freitagsvariante (Agra Fort, Itimad-ud-Daulah und Sonnenuntergang in Mehtab Bagh) und nehmen das Taj am Morgen von Tag 3 bei Sonnenaufgang, bevor Sie nach Jaipur fahren. Das kostet zwei Stunden des Jaipur-Nachmittags und ist machbar."
+   },
+   {
+    "day": 3,
+    "base": "Jaipur",
+    "heading": "Tag 3: Fatehpur Sikri, dann die ummauerte Stadt",
+    "narrative": "Waren Sie gestern nicht zum Sonnenaufgang dort, können Sie immer noch zur Öffnung am Taj-Tor stehen und um 09:00 Uhr auf der Straße sein. Sonst verlassen Sie Agra gegen 08:00 Uhr. Fatehpur Sikri liegt eine Stunde westlich: Akbars Hauptstadt aus rotem Sandstein, in den 1570er Jahren von Grund auf gebaut und nach vierzehn Jahren aufgegeben, sodass die ganze Anlage ohne spätere Überbauung erhalten blieb. Neunzig Minuten reichen; das Buland Darwaza und der Diwan-i-Khas mit seiner einzelnen geschnitzten Mittelsäule sind die Teile, an die man sich erinnert.\n\nWeitere drei Stunden bringen Sie am frühen Nachmittag nach Jaipur. Verbringen Sie ihn in der alten ummauerten Stadt, die kompakt genug ist, um sie zu Fuß zu machen: der City Palace, noch immer teilweise Wohnsitz der früheren Königsfamilie; das Jantar Mantar, ein Observatorium des 18. Jahrhunderts aus steinernen Instrumenten in architektonischem Maßstab, darunter eine auf zwei Sekunden genaue Sonnenuhr; und das Hawa Mahal, im Kern eine fünfstöckige Blende, damit die Frauen des Hofes ungesehen auf die Straße schauen konnten.\n\nEnden Sie zum Sonnenuntergang über dem gesamten Stadtraster auf dem Bergrücken am Nahargarh Fort und essen Sie dann in der Altstadt. Morgen ist der Fort-Tag und er will einen frühen Start.",
+    "travel": "Agra → Jaipur auf der Straße, etwa 4 Stunden Fahrt plus 1,5 bis 2 Stunden Aufenthalt in Fatehpur Sikri. Um 08:00 Uhr losfahren bringt Sie gegen 14:00 Uhr nach Jaipur.",
+    "tip": "Die Fassade des Hawa Mahal fotografiert man am besten morgens von den Dachcafés direkt gegenüber auf der anderen Straßenseite, nicht vom Gehweg darunter.",
+    "friday_note": null
+   },
+   {
+    "day": 4,
+    "base": "Jaipur",
+    "heading": "Tag 4: Amber Fort am Morgen, Handwerk am Nachmittag",
+    "narrative": "Das Amber Fort ist der Grund, warum es den vierten Tag gibt. Gehen Sie zur Öffnung gegen 08:00 Uhr hin, wegen des Lichts am Hang und weil sich die Höfe bis zum späten Vormittag schnell füllen. Das Fort ist ein Hügelpalast aus aufeinanderfolgenden Höfen, und der Sheesh Mahal, so vollständig verspiegelt, dass ein paar Kerzen den Raum einst erhellten, ist das Stück, für das die Leute kommen. Gehen Sie zu Fuß hinauf, statt den Elefantenritt zu nehmen: Das Wohl der Tiere auf dieser Rampe steht seit Langem in der Kritik, und der Aufstieg dauert fünfzehn Minuten.\n\nUnterhalb des Forts liegen der Stufenbrunnen Panna Meena ka Kund und der Wasserpalast Jal Mahal im See, beide wenige Minuten entfernt und kosten Sie nur Zeit. Kommen Sie zum Mittagessen in die Stadt zurück.\n\nAm Nachmittag zahlt Jaipur den zweiten Tag zurück. Die Stadt ist seit dreihundert Jahren ein arbeitendes Handwerkszentrum mit Handblockdruck, blauer Keramik, Edelsteinschliff und Textilarbeit, und zwei oder drei Stunden wirklich eines davon zu tun ist die bessere Nutzung der Zeit als ein viertes Fort. Alternativ essen Sie bei einer einheimischen Familie oder nehmen die Altstadt noch einmal nach Einbruch der Dunkelheit, wenn der Basar um Johari und Bapu am schönsten ist. Fliegen Sie an Tag 5 ab, liegt Jaipurs Flughafen zwanzig Minuten von der Altstadt entfernt; fahren Sie auf der Straße nach Delhi zurück, rechnen Sie mit fünf bis sechs Stunden und brechen Sie früh auf.",
+    "travel": "Stadt Jaipur → Amber Fort, etwa 11 km, je nach Verkehr 30 bis 40 Minuten pro Richtung.",
+    "tip": "Kaufen Sie das Kombiticket für Jaipurs Monumente, wenn Sie Amber, Jantar Mantar, Nahargarh und Hawa Mahal sehen wollen. Es gilt über zwei Tage und rechnet sich nach etwa drei Sehenswürdigkeiten.",
+    "friday_note": null
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "Die Freitagsregel",
+    "content": "Das Taj Mahal ist jeden Freitag ganztägig geschlossen, ohne Ausnahme. Legen Sie zuerst Ihr Agra-Datum fest und bauen Sie die vier Tage darum herum. Sind Ihre Daten unverrückbar und Agra fällt auf einen Freitag, nutzen Sie diesen Tag für Agra Fort, Itimad-ud-Daulah und den Sonnenuntergang in Mehtab Bagh und nehmen das Taj am nächsten Morgen bei Sonnenaufgang, bevor Sie nach Jaipur fahren. Vier Tage haben gerade genug Spielraum, das aufzufangen, drei nicht."
+   },
+   {
+    "heading": "Den Zug Delhi nach Agra buchen",
+    "content": "IRCTC öffnet die Reservierung 60 Tage vor der Fahrt, und der Gatimaan Express ist der eine Abschnitt dieser Route, der wirklich ausgebucht ist. Buchen Sie ihn an dem Tag, an dem Ihre Daten stehen. Verpassen Sie ihn, decken die Shatabdi-Verbindungen dieselbe Strecke etwas langsamer ab, und die Yamuna Expressway mit dem Auto braucht 3 bis 3,5 Stunden, was bei frühem Aufbruch weiterhin machbar ist."
+   },
+   {
+    "heading": "Wo das Auto Sinn ergibt",
+    "content": "Nehmen Sie den Zug nach Agra und ab Agra ein Auto. Der Abschnitt Agra nach Jaipur hat für diese Reiseroute keinen brauchbaren Zug, und der Halt in Fatehpur Sikri ist der Grund, ihn zu fahren. Vereinbaren Sie die Route im Voraus und sagen Sie deutlich, dass Sie keine Stopps bei Kunsthandwerksgeschäften wollen; das sind Provisionsvereinbarungen und können Ihnen zwei Stunden Ihres Nachmittags in Jaipur nehmen."
+   },
+   {
+    "heading": "Jahreszeit, Hitze und Delhis Luft",
+    "content": "Oktober bis März ist das Zeitfenster. Rajasthan ist von April bis Juni gefährlich heiß, oft über 45 °C, und gerade das Amber Fort ist ein ungeschützter Aufstieg am Hang. Juli bis September ist Monsun. Der Preis für die Hauptsaison ist Delhis Winterluft, am schlechtesten von November bis Januar; bei Asthma verlagern Sie die Reise Richtung Jaipur und Agra und belassen es bei dem einen Delhi-Tag, den diese Route ohnehin vorsieht."
+   },
+   {
+    "heading": "Geld, Tickets und Dokumente",
+    "content": "Der Eintritt zum Taj Mahal ist bargeldlos und QR-basiert, rund 1.300 ₹ für ausländische Staatsangehörige plus 200 ₹ für das Innere des Mausoleums, und am Tor wird der Originalreisepass verlangt. UPI und Karten funktionieren in den drei Städten fast überall, aber führen Sie kleines Bargeld für Rikschas, Trinkgeld und das eine Monument mit, das noch nicht nachgezogen hat. Bewahren Sie einen Ausdruck Ihres Zugtickets auf."
+   },
+   {
+    "heading": "Was vier Tage nicht enthalten",
+    "content": "Sie enthalten kein Ranthambore, das einen vollen Zusatztag für die Fahrt und eine Safari im Morgengrauen braucht, und kein Udaipur, das sechs bis sieben Stunden Fahrt von Jaipur oder einen kurzen Flug entfernt liegt. Ist Ihnen eines davon wichtig, planen Sie sechs Tage, statt beides in vier zu pressen: Die gepresste Version bedeutet, nach Einbruch der Dunkelheit anzukommen und vor dem Frühstück abzureisen."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Warum den zusätzlichen Tag nach Jaipur legen statt nach Delhi oder Agra?",
+    "answer": "Weil Jaipur die Stadt ist, die bei einem halben Tag am meisten verliert. Das Amber Fort liegt 11 km außerhalb und braucht einen eigenen Vormittag, und der Kern der ummauerten Stadt braucht einen Nachmittag. Agras Hauptsehenswürdigkeiten passen bequem in einen Tag, und Delhis Höhepunkte lassen sich besser komprimieren als Jaipurs."
+   },
+   {
+    "question": "Kann ich ab Jaipur nach Hause fliegen oder muss ich nach Delhi zurück?",
+    "answer": "Jaipur hat gute Inlandsverbindungen und eine begrenzte Zahl internationaler. Die meisten Reisenden auf dieser Route fliegen Jaipur nach Delhi und schließen dort an, was schneller ist als die fünf bis sechs Stunden Fahrt. Geht Ihr internationaler Flug am selben Tag ab Delhi, nehmen Sie das Flugzeug statt der Straße."
+   },
+   {
+    "question": "Lohnt sich der Halt in Fatehpur Sikri?",
+    "answer": "Ja, und er kostet fast nichts extra, weil der Ort an der Straße Agra nach Jaipur liegt. Es ist eine vollständige moghulische Kaiserstadt, die nach vierzehn Jahren aufgegeben und nie überbaut wurde, was sie lesbarer macht als Orte, die in Nutzung blieben. Neunzig Minuten bis zwei Stunden reichen."
+   },
+   {
+    "question": "Sollte ich auf einem Elefanten zum Amber Fort hinaufreiten?",
+    "answer": "Wir würden es nicht tun. Die Elefantenritte auf dieser Rampe stehen seit Langem wegen des Tierwohls in der Kritik, und der Aufstieg zu Fuß dauert etwa fünfzehn Minuten. Wenn der Anstieg ein Problem ist, fahren auch Jeeps die Strecke."
+   },
+   {
+    "question": "Wie viel davon schaffe ich ohne Guide?",
+    "answer": "Jaipur und Agra sind eigenständig unkompliziert, sobald Sie Tickets haben. Alt-Delhi und Fatehpur Sikri sind die beiden Orte, an denen ein Guide den Tag verändert: das erste, weil die Gassen kalt wirklich schwer zu navigieren sind, das zweite, weil das Gelände kaum beschildert ist."
+   },
+   {
+    "question": "Reichen vier Tage, um das Taj Mahal zweimal zu sehen?",
+    "answer": "Ja, wenn Sie in Agra übernachten. Manche gehen bei der Ankunft zum Sonnenuntergang hin und am nächsten Morgen noch einmal zum Sonnenaufgang; die Tickets sind getrennt, aber die beiden Besuche wirken wie zwei verschiedene Gebäude. Am besten funktioniert das, wenn Sie auf die Freitagsvariante umgestellt haben und ohnehin einen freien Vormittag in Agra besitzen."
+   },
+   {
+    "question": "Wann sollte ich was buchen?",
+    "answer": "Den Zug Delhi nach Agra, sobald Ihre Daten stehen, wenn möglich 60 Tage vorher. Hotels in Jaipur und Agra vier bis sechs Wochen im Voraus in der Saison von Oktober bis März. Guides und Autos ein bis zwei Wochen vorher reichen meist."
+   },
+   {
+    "question": "Eignet sich diese Reiseroute für eine erste Indienreise?",
+    "answer": "Sie ist die klassische erste Reise, und sie funktioniert, weil die Entfernungen kurz sind und die Infrastruktur auf diesem Korridor die beste des Landes ist. Die Intensität kommt von Delhi, nicht von der Route; falls Sie das beunruhigt, legen Sie den vollen Vormittag in Alt-Delhi auf den ersten Tag, wenn Sie frisch sind, so wie dieser Plan es tut."
+   }
+  ]
+ },
+ "india:5-days": {
+  "title": "5 Tage in Indien: Delhi, Agra und Jaipur in menschlichem Tempo",
+  "metaTitle": "Indien Reiseroute für 5 Tage: das Goldene Dreieck | AsiaByLocals",
+  "metaDescription": "Eine Indien-Reiseroute für 5 Tage mit zwei Tagen Delhi, einem Agra und zwei Jaipur. Echte Fahrzeiten, die Freitagsschließung des Taj Mahal und buchbare Touren.",
+  "routeSummary": "Delhi → Delhi → Agra → Jaipur → Jaipur",
+  "quickAnswer": "Fünf Tage sind das Goldene Dreieck in menschlichem Tempo: zwei Nächte Delhi, eine Agra, zwei Jaipur. Delhi bekommt die Alt- und die Neustadt statt eines einzigen gehetzten Vormittags, und Jaipur behält das Amber Fort. Das ist die kürzeste Version, die die meisten Menschen beenden, ohne das Gefühl zu haben, nur unterwegs gewesen zu sein. Agra darf nicht auf einen Freitag fallen.",
+  "bestFor": "Erstbesucher, die das Goldene Dreieck richtig machen wollen, mit einem freien Nachmittag in jeder Stadt, statt eines Plans, der nur aufgeht, wenn nichts schiefläuft.",
+  "intro": "Fünf Tage sind die erste Version des Goldenen Dreiecks, in der nichts gehetzt ist. Delhi bekommt zwei Tage, die es braucht: Es sind drei Städte übereinander, und ein Tag zwingt Sie, zwischen der moghulischen und der imperialen Hauptstadt zu wählen. Agra behält seine eine Nacht, mehr braucht es nicht, wenn Sie das Zeitfenster zum Sonnenaufgang nutzen. Jaipur behält zwei, und genau so viel kosten das Amber Fort und die ummauerte Stadt zusammen.\n\nDie Etappen sind alle kurz. Delhi nach Agra dauert etwa 100 Minuten mit dem Gatimaan Express oder drei bis dreieinhalb Stunden auf der Straße. Agra nach Jaipur sind vier Stunden Fahrt mit Fatehpur Sikri in der Mitte. Es gibt keine Inlandsflüge und keine Nachtfahrten, und das ist der Hauptgrund, warum diese Route die klassische erste Indienreise ist.\n\nDas Taj Mahal ist jeden Freitag geschlossen. Mit fünf Tagen haben Sie echte Freiheit, Dinge zu verschieben: Sie können Agra auf Tag drei, vier oder fünf legen, mit nur geringen Folgen. Aber Sie müssen diese Freiheit nutzen, bevor Sie Hotels buchen, nicht danach.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Delhi",
+    "heading": "Tag 1: Alt-Delhi und die moghulische Stadt",
+    "narrative": "Beginnen Sie mit Shahjahanabad, der ummauerten Stadt, die Shah Jahan in den 1640er Jahren baute, als er die moghulische Hauptstadt von Agra herauf verlegte. Die Jama Masjid beherrscht sie noch immer; vom südlichen Minarett aus sehen Sie den gesamten Straßengrundriss von Chandni Chowk unter sich ausgebreitet. Gehen Sie in die Gassen: Khari Baoli für Gewürze, Dariba Kalan für Silber, Paranthe Wali Gali aus dem naheliegenden Grund.\n\nEssen Sie hier, statt sich den Appetit aufzuheben. Das Straßenessen von Alt-Delhi ist eine eigene Küche, und der Grund, mit einem Guide zu gehen, ist weniger die Sicherheit als das Wissen, welche Stände genug verkaufen, um frisch umzuschlagen, und das ist die einzige Variable, auf die es wirklich ankommt.\n\nAm Nachmittag das Rote Fort, falls geöffnet und Sie noch Energie haben, oder Humayuns Mausoleum, das bessere Bauwerk. Es wurde 1572 fertiggestellt, nutzt denselben Charbagh-Gartenplan und erhöhten Sockel wie das Taj und wurde über ein Jahrzehnt sorgfältiger Arbeit restauriert, die genaues Hinsehen lohnt. Es vor Agra zu sehen macht das Taj als Ende einer Linie lesbar statt als Einzelstück.",
+    "travel": null,
+    "tip": "Alt-Delhi ist ab etwa 10:00 Uhr am besten, wenn die Läden richtig offen sind und vor dem Nachmittagsgedränge. Das Rote Fort ist montags geschlossen; prüfen Sie das, bevor Sie den Tag darum herum bauen.",
+    "friday_note": null
+   },
+   {
+    "day": 2,
+    "base": "Delhi",
+    "heading": "Tag 2: Neu-Delhi, Qutub Minar und der Süden",
+    "narrative": "Der zweite Delhi-Tag deckt alles ab, was der erste ausgelassen hat. Beginnen Sie in Lutyens' Delhi: India Gate, die Rajpath-Achse und die Tore des Rashtrapati Bhavan, eine imperiale Hauptstadt des 20. Jahrhunderts, die neben eine moghulische des 17. gesetzt wurde und sich am besten als bewusstes architektonisches Argument verstehen lässt.\n\nFahren Sie dann nach Süden zum Qutub Minar, einem 73 Meter hohen Siegesturm, begonnen 1193, und zu den Ruinen ringsum, darunter eine Eisensäule, die seit rund 1.600 Jahren nicht rostet. In der Nähe ist der archäologische Park von Mehrauli weitgehend leer von Besuchern und voller Grabmäler. Wenn Sie lieber Menschen als Steine haben, gibt es am Nizamuddin Dargah donnerstagabends nach Sonnenuntergang Qawwali-Gesang. Das ist ein lebendiges Heiligtum, keine Vorstellung, und man kommt zu seinen Bedingungen.\n\nNutzen Sie einen Teil des Nachmittags für das Praktische, das eine Fünf-Tage-Reise erlaubt: einkaufen im Khan Market oder Dilli Haat, ein richtiges Mittagessen in Ruhe, oder einfach zwei Stunden Pause. Morgen beginnt früh.",
+    "travel": null,
+    "tip": "Qutub Minar und Humayuns Mausoleum liegen an der gelben beziehungsweise magentafarbenen Metrolinie, und die Metro schlägt ein Auto quer durch Delhi zu fast jeder Tageszeit.",
+    "friday_note": null
+   },
+   {
+    "day": 3,
+    "base": "Agra",
+    "heading": "Tag 3: Agra, das Taj, das Fort und das Baby Taj",
+    "narrative": "Nehmen Sie den Gatimaan Express ab Hazrat Nizamuddin; etwa 100 Minuten und Sie sind am späten Vormittag in Agra. Auf der Straße braucht die Yamuna Expressway drei bis dreieinhalb Stunden. Geben Sie das Gepäck zuerst im Hotel ab, die meisten Hotels in Agra nehmen es lange vor dem Check-in an, denn Sie wollen nicht mit Rucksack am Taj stehen.\n\nSehen Sie das Taj Mahal am Ankunftstag am späten Nachmittag. Die letzten zwei Stunden vor Schließung haben dünnere Menschenmengen als die Tagesmitte und warmes Licht auf der Westfassade, und Sie hetzen nicht direkt vom Zug zum Monument. Stellen Sie danach den Wecker und gehen Sie am nächsten Morgen zum Sonnenaufgang noch einmal hin, falls das Gebäude bei Ihnen das gemacht hat, was es bei den meisten macht, oder schlafen Sie aus und halten das Zeitfenster in Reserve.\n\nSchieben Sie das Agra Fort davor oder danach ein, je nach Zugzeit. Es gehört zur selben Geschichte: Shah Jahan vollendete das Taj und verbrachte danach acht Jahre im Fort, eingesperrt von Aurangzeb, mit Blick darauf. Itimad-ud-Daulah auf der anderen Flussseite ist das dritte Stück: 1622 bis 1628 für den Vater von Nur Jahan erbaut, ist es das erste moghulische Bauwerk ganz in weißem Marmor, und die Einlegearbeit ist feiner als alles am Taj selbst.",
+    "travel": "Delhi → Agra. Gatimaan Express etwa 1 Std. 40 Min.; oder 3 bis 3,5 Stunden auf der Straße über die Yamuna Expressway.",
+    "tip": "Der Eintritt ist bargeldlos und QR-basiert, und ausländische Staatsangehörige brauchen am Tor den Originalreisepass. Das Ost- und das Westtor haben zu fast jeder Stunde kürzere Schlangen als das Südtor.",
+    "friday_note": "Fällt Tag 3 auf einen Freitag, ist das Taj den ganzen Tag geschlossen. Mit fünf Tagen ist die Lösung einfach: Behalten Sie die Nacht in Agra, verbringen Sie den Freitag aber mit dem Agra Fort, Itimad-ud-Daulah und dem Sonnenuntergang in Mehtab Bagh, dem Garten direkt gegenüber am Fluss, auf das Taj ausgerichtet und der beste Freitagsblick, den es gibt, und nehmen Sie das Taj am Morgen von Tag 4 bei Sonnenaufgang, bevor Sie nach Jaipur fahren. Sie verlieren etwa zwei Stunden des Jaipur-Nachmittags und sonst nichts."
+   },
+   {
+    "day": 4,
+    "base": "Jaipur",
+    "heading": "Tag 4: Sonnenaufgang am Taj, Fatehpur Sikri und weiter nach Jaipur",
+    "narrative": "Der Besuch zum Sonnenaufgang ist der ernsthafte. Das Taj öffnet kurz vor der Dämmerung, die Menge ist ein Bruchteil der Tageszahl, und der Marmor wandert in der ersten Stunde über Grau und Rosa zu Weiß, während die Sonne aufgeht. Geben Sie ihm neunzig Minuten, gehen Sie dann zum Frühstück zurück und checken Sie aus.\n\nUm 09:00 Uhr auf der Straße, ist Fatehpur Sikri eine Stunde entfernt. Akbar baute hier in den 1570er Jahren eine vollständige Kaiserstadt aus rotem Sandstein und gab sie nach vierzehn Jahren auf; weil nichts darüber gebaut wurde, liest sie sich als ganze moghulische Stadt und nicht als Ansammlung von Bruchstücken. Neunzig Minuten decken das Buland Darwaza, den Diwan-i-Khas und die Palasthöfe ab.\n\nWeitere drei Stunden bringen Sie am mittleren Nachmittag nach Jaipur. Planen Sie heute kein Monument. Gehen Sie durch die Altstadt, essen Sie früh und schauen Sie sich die Basare um den Johari Bazaar an; der rosa Anstrich der Mauern stammt von 1876, als die Stadt für einen königlichen Besuch gestrichen und danach so belassen wurde. Morgen ist der volle Tag.",
+    "travel": "Agra → Jaipur auf der Straße, etwa 4 Stunden Fahrt plus 1,5 bis 2 Stunden in Fatehpur Sikri. Eine Abfahrt um 09:00 Uhr bringt Sie gegen 15:00 Uhr nach Jaipur.",
+    "tip": "Am Parkplatz von Fatehpur Sikri warten beharrlich inoffizielle Guides. Organisieren Sie Ihren Guide vorher und lassen Sie sich am Tor nicht darauf ein.",
+    "friday_note": null
+   },
+   {
+    "day": 5,
+    "base": "Jaipur",
+    "heading": "Tag 5: Amber Fort, der Palastkern und Nahargarh bei Sonnenuntergang",
+    "narrative": "Seien Sie zur Öffnung gegen 08:00 Uhr am Amber Fort. Es ist ein Hügelpalast, ab 1592 in Etappen errichtet, und die Folge von Höfen, die den Grat hinaufsteigen, ist der Punkt: das Ganesh-Pol-Tor, der Sheesh Mahal mit seiner verspiegelten Decke, der Garten, der unten auf dem Wasser angelegt ist. Gehen Sie zu Fuß hinauf statt den Elefantenritt zu nehmen; es ist ein Aufstieg von fünfzehn Minuten und die Tierwohlbilanz dieser Tiere ist schlecht. Der Stufenbrunnen Panna Meena ka Kund direkt darunter kostet zehn Minuten, und fast niemand geht hin.\n\nGegen Mittag zurück in der Stadt für den Kern der ummauerten Stadt: der City Palace, die steinernen Astronomieinstrumente des Jantar Mantar, in den 1730er Jahren in Gebäudegröße errichtet, und die Fassade des Hawa Mahal. Diese liegen in Gehweite voneinander, was nach zwei Tagen Autofahren eine Erleichterung ist.\n\nSchließen Sie am Nahargarh Fort auf dem Grat mit dem Sonnenuntergang über dem gesamten Raster ab. Jaipur wurde 1727 nach einem Neun-Block-Plan angelegt, und von dort oben sieht man das tatsächlich. Bleibt ein Abend übrig, ist ein Kochkurs oder ein Abendessen bei einer einheimischen Familie die bessere letzte Nacht als ein Hotelrestaurant. Fliegen Sie am nächsten Morgen ab Jaipur, oder rechnen Sie mit fünf bis sechs Stunden Fahrt zurück nach Delhi.",
+    "travel": "Stadt Jaipur → Amber Fort, etwa 11 km, 30 bis 40 Minuten pro Richtung.",
+    "tip": "Das Kombiticket für Jaipur deckt Amber, Jantar Mantar, Hawa Mahal, Nahargarh und die Albert Hall über zwei Tage ab und kommt günstiger als drei Einzeleintritte.",
+    "friday_note": null
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "Die Freitagsregel und wo Ihr Spielraum liegt",
+    "content": "Das Taj Mahal ist jeden Freitag ganztägig geschlossen. Fünf Tage geben Ihnen Raum, das aufzufangen: Sie können die Nacht in Agra verschieben, oder sie behalten und den Freitag für Agra Fort, Itimad-ud-Daulah und Mehtab Bagh nutzen und das Taj dann am nächsten Morgen bei Sonnenaufgang nehmen, bevor Sie weiterfahren. In beiden Fällen: Rechnen Sie den Wochentag aus, bevor Sie Hotels buchen. Vorher kostet die Korrektur nichts, vor Ort kostet sie ein Monument."
+   },
+   {
+    "heading": "Zug gegen Straße",
+    "content": "Delhi nach Agra: Nehmen Sie den Gatimaan Express, etwa 100 Minuten, den schnellsten Zug Indiens. IRCTC öffnet die Buchung 60 Tage im Voraus und dieser Zug ist in der Saison ausgebucht, buchen Sie ihn also zuerst. Agra nach Jaipur: mit dem Auto, weil Fatehpur Sikri auf dem Weg liegt und kein Zug denselben Zweck erfüllt. Jaipur nach Delhi am Ende: fliegen, wenn Sie am selben Tag einen internationalen Anschluss haben, sonst sind es auf der Straße fünf bis sechs Stunden."
+   },
+   {
+    "heading": "Fortbewegung in den Städten",
+    "content": "Delhis Metro ist schnell, günstig und klimatisiert und schlägt ein Taxi quer durch die Stadt zu den meisten Zeiten; kaufen Sie eine Touristenkarte, wenn Sie zwei Tage bleiben. In Agra und Jaipur funktionieren App-Taxis und Autorikschas beide, aber vereinbaren Sie den Preis oder nutzen Sie den App-Preis, statt an der Tür zu verhandeln. Für Amber Fort und Fatehpur Sikri lohnt sich ein Auto für den halben Tag."
+   },
+   {
+    "heading": "Jahreszeit und Hitze",
+    "content": "Oktober bis März ist die Saison, und Februar bis März ist das Beste daran. April bis Juni ist in Rajasthan wirklich gefährlich, regelmäßig über 45 °C, und der Aufstieg zum Amber Fort liegt völlig ungeschützt. Juli bis September ist Monsun, was für diese Route keine Katastrophe ist, aber die Fahretappen verlangsamt. Delhis Luftqualität ist von November bis Januar am schlechtesten, und wer Asthma hat, sollte das einrechnen."
+   },
+   {
+    "heading": "Tickets, Bargeld und Dokumente",
+    "content": "Der Eintritt zum Taj Mahal ist bargeldlos mit QR-Zutritt, 2026 rund 1.300 ₹ für ausländische Staatsangehörige plus 200 ₹ für das Mausoleum, und der Originalreisepass ist erforderlich. Jaipurs Kombiticket spart Geld, wenn Sie drei oder mehr Monumente sehen. Karten und UPI decken in allen drei Städten fast alles ab; führen Sie kleine Scheine für Rikschas und Trinkgeld mit."
+   },
+   {
+    "heading": "Was fünf Tage gegenüber vier bringen",
+    "content": "Der ganze Zusatztag geht nach Delhi, und er ist der Unterschied zwischen Alt-Delhi oder Neu-Delhi zu sehen und beides zu sehen. Er verschafft Ihnen außerdem einen echten freien Nachmittag, genau das, was jede überladene Reiseroute streicht, und genau das, was eine Reise überstehbar macht, wenn ein Zug zu spät kommt oder die Hitze Sie einholt."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Sind zwei Tage in Delhi zu viel?",
+    "answer": "Nein. Delhi hat eine moghulische ummauerte Stadt, eine britische Kaiserhauptstadt und im Süden eine Reihe von Ruinen aus dem 12. Jahrhundert, und die liegen weit auseinander. Ein Tag zwingt Sie zur Auswahl. Zwei reichen, um die ersten beiden richtig zu sehen und einen Blick auf das dritte zu werfen."
+   },
+   {
+    "question": "Was, wenn mein Agra-Tag ein Freitag ist?",
+    "answer": "Das Taj ist geschlossen. Bei fünf Tagen können Sie die Nacht in Agra auf einen anderen Wochentag legen, oder sie behalten und den Freitag mit Agra Fort, Itimad-ud-Daulah und dem Sonnenuntergang von Mehtab Bagh verbringen und das Taj am nächsten Morgen bei Sonnenaufgang sehen, bevor Sie nach Jaipur fahren."
+   },
+   {
+    "question": "Kann ich Ranthambore für eine Tiger-Safari anhängen?",
+    "answer": "Innerhalb von fünf Tagen auf dieser Route nicht bequem. Ranthambore liegt rund vier Stunden von Jaipur entfernt, und ein echter Besuch bedeutet eine Übernachtung plus eine Safari im Morgengrauen, womit aus fünf Tagen sechs oder sieben werden. Wenn Tiger Ihnen mehr bedeuten als der zweite Tag in Jaipur, ist das der Tausch, den man erwägen kann."
+   },
+   {
+    "question": "Taj Mahal bei Sonnenaufgang oder bei Sonnenuntergang?",
+    "answer": "Bei Sonnenaufgang, wenn Sie nur einmal hingehen: weniger Menschen, und der Farbwechsel in der ersten Stunde ist das, woran man sich erinnert. Der Sonnenuntergang ist der bessere zweite Besuch. Diese Reiseroute ist so gebaut, dass Sie beides schaffen, indem Sie nachmittags ankommen und im Morgengrauen zurückkehren."
+   },
+   {
+    "question": "Wie weit im Voraus muss ich buchen?",
+    "answer": "Den Gatimaan Express, sobald Ihre Daten stehen; IRCTC öffnet 60 Tage vorher und er ist in der Saison ausgebucht. Hotels vier bis sechs Wochen im Voraus für Oktober bis März. Guides, Autos und Workshops sind ein bis zwei Wochen vorher normalerweise in Ordnung."
+   },
+   {
+    "question": "Kann man in Alt-Delhi gefahrlos Straßenessen essen?",
+    "answer": "Die verlässliche Regel ist der Umschlag: Essen Sie dort, wo eine Schlange steht und vor Ihren Augen gekocht wird, und meiden Sie alles, was herumsteht. Mit jemandem zu gehen, der die konkreten Stände kennt, nimmt das Raten heraus, und genau dafür ist ein Food Walk eigentlich da."
+   },
+   {
+    "question": "Brauche ich für alle fünf Tage Auto und Fahrer?",
+    "answer": "Nein. Nutzen Sie Metro und Taxis in Delhi, den Zug nach Agra und ein Auto für die Etappe Agra nach Jaipur sowie für das Amber Fort. Ein Auto für alle fünf Tage zu mieten heißt, zwei Tage zu bezahlen, an denen es vor einem Hotel in Delhi steht."
+   },
+   {
+    "question": "Wo sollte diese Reise enden, in Jaipur oder Delhi?",
+    "answer": "In Jaipur, wenn Ihr Weiterflug es zulässt. In Jaipur zu enden erspart Ihnen fünf bis sechs Stunden Rückfahrt. Müssen Sie nach Delhi zurück, fliegen Sie die letzte Etappe, statt sie zu fahren; in der Luft ist es unter einer Stunde."
+   }
+  ]
  }
 };
