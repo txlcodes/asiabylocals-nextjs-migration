@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import CountryPageClient from '@/components/CountryPageClient';
 import { countryDisplayName } from '@/lib/countryName';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
-import { isLang, cityT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
+import { isLang, cityT, tourT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -177,7 +177,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function CountryPage({ params }: Props) {
-  const { country } = await params;
+  const { country, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const c = country.toLowerCase();
   const meta = COUNTRY_META[c];
 
@@ -212,7 +213,7 @@ export default async function CountryPage({ params }: Props) {
           .filter((tour: any) => tour.slug)
           .map((tour: any) => ({
             id: tour.id,
-            title: tour.title,
+            title: tourT(lang, tour.slug)?.title || tour.title,
             slug: tour.slug,
             city: tour.city,
             country: tour.country,

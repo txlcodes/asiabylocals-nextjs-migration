@@ -15120,6 +15120,34 @@ export const ES_CITIES: Record<string, CityT> = {
   "title": "Tours por Pattaya con guías locales: Koh Larn, Santuario de la Verdad y Nong Nooch",
   "description": "Excursiones en barco a Koh Larn, Santuario de la Verdad, jardín de Nong Nooch y santuarios de elefantes éticos, reservados directamente con operadores locales verificados."
  },
+ "country:vietnam": {
+  "title": "Vietnam: tours y excursiones guiadas con operadores locales verificados",
+  "description": "Hanói, la bahía de Ha Long, Sa Pa, Hoi An, Da Nang y Ciudad Ho Chi Minh: cientos de tours reservados directamente con operadores locales verificados y confirmación por WhatsApp."
+ },
+ "hanoi": {
+  "title": "Tours por Hanói con guías locales: Barrio Antiguo, Train Street y Ninh Binh",
+  "description": "Rutas de comida callejera por el Barrio Antiguo, marionetas de agua, excursiones a Ninh Binh y el Ha Giang Loop, reservados directamente con operadores locales verificados."
+ },
+ "ha-long": {
+  "title": "Cruceros por la bahía de Ha Long con operadores locales: de un día o con noche a bordo",
+  "description": "Cruceros de un día y con noche a bordo por las bahías de Ha Long, Lan Ha y Bai Tu Long, cuevas y kayak, reservados directamente con operadores locales verificados."
+ },
+ "sapa": {
+  "title": "Trekking en Sa Pa con guías locales: valle de Muong Hoa, aldeas y Fansipan",
+  "description": "Trekking por los arrozales en terrazas, noches en homestay con hmong y dao, el teleférico del Fansipan y el mercado de Bac Ha, reservados directamente con operadores locales verificados."
+ },
+ "hoi-an": {
+  "title": "Tours por Hoi An con guías locales: casco antiguo, farolillos y My Son",
+  "description": "Clases de cocina, paseos en barca de cestería por Cam Thanh, farolillos del casco antiguo y las ruinas cham de My Son, reservados directamente con operadores locales verificados."
+ },
+ "da-nang": {
+  "title": "Tours por Da Nang con guías locales: Ba Na Hills, Puente Dorado y Montañas de Mármol",
+  "description": "Ba Na Hills y el Puente Dorado, las Montañas de Mármol, el paso de Hai Van y excursiones a Hoi An y Hue, reservados directamente con operadores locales verificados."
+ },
+ "ho-chi-minh-city": {
+  "title": "Tours por Ciudad Ho Chi Minh con guías locales: Cu Chi, Mekong y comida callejera",
+  "description": "Los túneles de Cu Chi, el delta del Mekong, el Museo de los Vestigios de la Guerra y rutas gastronómicas nocturnas en moto, reservados directamente con operadores locales verificados."
+ },
  "agra": {
   "title": "Visitas y guías oficiales en Agra: Taj Mahal, Fuerte de Agra, Fatehpur Sikri",
   "description": "Reserva visitas en Agra directamente con operadores locales verificados: guías oficiales del Taj Mahal, entradas sin colas, amanecer, excursiones desde Delhi. Sin intermediarios."

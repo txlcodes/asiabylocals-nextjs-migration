@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
-import { isLang, cityT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
+import { isLang, cityT, tourT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { notFound } from 'next/navigation';
 import CityPageClient from '@/components/CityPageClient';
 import { CITY_URL_MAP, VALID_COUNTRIES } from '@/lib/cityCountryMap';
@@ -226,7 +226,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function CityPage({ params }: Props) {
-  const { country, city } = await params;
+  const { country, city, lang: langParam } = await params;
+  const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
 
   // Without this the route rendered 200 for any /<anything>/<anything>, so every
   // city page was reachable under every country and a single spammed link could
@@ -270,7 +271,10 @@ export default async function CityPage({ params }: Props) {
           supplierId: tour.supplierId ? String(tour.supplierId) : null,
           rating: rv && rv.totalReviews > 0 ? rv.averageRating : null,
           reviewCount: rv && rv.totalReviews > 0 ? rv.totalReviews : 0,
-          title: tour.title,
+          // Card titles came straight from the API, so a French city page listed
+          // its tours under their English names even where the tour itself is
+          // translated. The card links to the translated page; it should say so.
+          title: tourT(lang, tour.slug)?.title || tour.title,
           slug: tour.slug || `tour-${tour.id}`,
           city: tour.city,
           country: tour.country,

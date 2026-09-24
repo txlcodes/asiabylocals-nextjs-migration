@@ -15120,6 +15120,34 @@ export const DE_CITIES: Record<string, CityT> = {
   "title": "Pattaya-Touren mit lokalen Guides: Koh Larn, Sanctuary of Truth und Nong Nooch",
   "description": "Bootstouren nach Koh Larn, Sanctuary of Truth, Nong-Nooch-Garten und ethische Elefantenschutzzentren, direkt bei geprüften lokalen Veranstaltern gebucht."
  },
+ "country:vietnam": {
+  "title": "Vietnam: geführte Touren und Ausflüge mit geprüften lokalen Anbietern",
+  "description": "Hanoi, Ha-Long-Bucht, Sa Pa, Hoi An, Da Nang und Ho-Chi-Minh-Stadt: Hunderte Touren, direkt bei geprüften lokalen Anbietern gebucht, mit Bestätigung über WhatsApp."
+ },
+ "hanoi": {
+  "title": "Hanoi-Touren mit einheimischen Guides: Altstadt, Train Street und Ninh Binh",
+  "description": "Streetfood-Touren durch die Altstadt, Wasserpuppentheater, Ausflüge nach Ninh Binh und der Ha-Giang-Loop, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "ha-long": {
+  "title": "Kreuzfahrten in der Ha-Long-Bucht mit lokalen Anbietern: Tagestour oder Nacht an Bord",
+  "description": "Tagesfahrten und Übernachtungskreuzfahrten in der Ha-Long-, Lan-Ha- und Bai-Tu-Long-Bucht, Höhlen und Kajaktouren, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "sapa": {
+  "title": "Trekking in Sa Pa mit einheimischen Guides: Muong-Hoa-Tal, Dörfer und Fansipan",
+  "description": "Trekking durch die Reisterrassen, Homestays bei Hmong und Dao, die Fansipan-Seilbahn und der Markt von Bac Ha, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "hoi-an": {
+  "title": "Hoi-An-Touren mit einheimischen Guides: Altstadt, Laternen und My Son",
+  "description": "Kochkurse, Fahrten im Korbboot in Cam Thanh, Laternen in der Altstadt und die Cham-Ruinen von My Son, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "da-nang": {
+  "title": "Da-Nang-Touren mit einheimischen Guides: Ba Na Hills, Goldene Brücke und Marmorberge",
+  "description": "Ba Na Hills und die Goldene Brücke, die Marmorberge, der Hai-Van-Pass und Ausflüge nach Hoi An und Hue, direkt bei geprüften lokalen Anbietern gebucht."
+ },
+ "ho-chi-minh-city": {
+  "title": "Touren in Ho-Chi-Minh-Stadt mit einheimischen Guides: Cu Chi, Mekong und Streetfood",
+  "description": "Die Tunnel von Cu Chi, das Mekong-Delta, das Kriegsopfermuseum und abendliche Food-Touren per Motorrad, direkt bei geprüften lokalen Anbietern gebucht."
+ },
  "agra": {
   "title": "Touren und offizielle Guides in Agra: Taj Mahal, Rotes Fort, Fatehpur Sikri",
   "description": "Buchen Sie Agra-Touren direkt bei geprüften lokalen Veranstaltern: offizielle Taj Mahal Guides, Tickets ohne Anstehen, Sonnenaufgang, Tagestouren ab Delhi. Ohne Zwischenhändler."

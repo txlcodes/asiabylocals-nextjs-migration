@@ -15120,6 +15120,34 @@ export const FR_CITIES: Record<string, CityT> = {
   "title": "Visites de Pattaya avec des guides locaux : île de Coral, Sanctuaire de la Vérité et Nong Nooch",
   "description": "Sorties en bateau vers l'île de Coral, Sanctuaire de la Vérité, jardin de Nong Nooch et sanctuaires d'éléphants éthiques, réservés directement auprès d'opérateurs locaux vérifiés."
  },
+ "country:vietnam": {
+  "title": "Vietnam : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Hanoï, la baie d'Ha Long, Sapa, Hoi An, Da Nang et Hô Chi Minh-Ville : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "hanoi": {
+  "title": "Visites de Hanoï avec des guides locaux : vieux quartier, rue du Train et Ninh Binh",
+  "description": "Balades gourmandes dans le vieux quartier, marionnettes sur l'eau, excursions à Ninh Binh et boucle de Ha Giang, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "ha-long": {
+  "title": "Croisières dans la baie d'Ha Long avec des opérateurs locaux : journée et nuit à bord",
+  "description": "Croisières d'une journée ou avec nuit à bord dans les baies d'Ha Long, de Lan Ha et de Bai Tu Long, grottes et kayak, réservées directement auprès d'opérateurs locaux vérifiés."
+ },
+ "sapa": {
+  "title": "Treks à Sapa avec des guides locaux : vallée de Muong Hoa, villages et Fansipan",
+  "description": "Treks dans les rizières en terrasses, nuits en homestay chez les Hmong et les Dao, téléphérique du Fansipan et marché de Bac Ha, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "hoi-an": {
+  "title": "Visites de Hoi An avec des guides locaux : vieille ville, lanternes et My Son",
+  "description": "Cours de cuisine, balades en barque ronde à Cam Thanh, lanternes de la vieille ville et ruines cham de My Son, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "da-nang": {
+  "title": "Visites de Da Nang avec des guides locaux : Ba Na Hills, Pont d'Or et montagnes de Marbre",
+  "description": "Ba Na Hills et le Pont d'Or, montagnes de Marbre, col de Hai Van et excursions à Hoi An et Hué, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
+ "ho-chi-minh-city": {
+  "title": "Visites de Hô Chi Minh-Ville avec des guides locaux : Cu Chi, Mékong et cuisine de rue",
+  "description": "Tunnels de Cu Chi, delta du Mékong, musée des Vestiges de la guerre et tournées gourmandes à moto, réservés directement auprès d'opérateurs locaux vérifiés."
+ },
  "agra": {
   "title": "Visites et guides officiels à Agra : Taj Mahal, fort d'Agra, Fatehpur Sikri",
   "description": "Réservez des visites d'Agra directement auprès d'opérateurs locaux vérifiés : guides officiels du Taj Mahal, billets coupe-file, lever du soleil, excursions depuis Delhi. Sans intermédiaire."
