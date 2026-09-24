@@ -4614,6 +4614,37 @@ export const ES_TOURS: Record<string, TourT> = {
    "Coche para las visitas (si no se selecciona la opción con coche)"
   ]
  },
+ "admire-rice-fields-and-local-village-3-day-2-night-or-2-day-1-night-in-hanoi": {
+  "title": "Arrozales y aldea local: 3 días y 2 noches o 2 días y 1 noche",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta entre Hanói y Sapa, vehículo con aire acondicionado o autobús cama, guía local de trekking, todas las entradas a aldeas y zonas de visita y 2 comidas, 1 cena y 1 desayuno para 2 días y 1 noche. No incluye propinas para el guía y el conductor, suplemento por festivos en Vietnam y suplemento por habitación individual o camas supletorias, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Traslado de ida y vuelta entre Hanói y Sapa",
+   "Vehículo con aire acondicionado o autobús cama (sin guía a bordo)",
+   "Guía local de trekking de habla inglesa (suplemento para otros idiomas)",
+   "Todas las entradas a aldeas y zonas de visita",
+   "2 comidas, 1 cena y 1 desayuno para 2 días y 1 noche"
+  ],
+  "included": [
+   "Traslado de ida y vuelta entre Hanói y Sapa",
+   "Vehículo con aire acondicionado o autobús cama (sin guía a bordo)",
+   "Guía local de trekking de habla inglesa (suplemento para otros idiomas)",
+   "Todas las entradas a aldeas y zonas de visita",
+   "2 comidas, 1 cena y 1 desayuno para 2 días y 1 noche",
+   "3 comidas, 2 cenas y 2 desayunos para 3 días y 2 noches",
+   "1 noche en homestay (2 días y 1 noche)",
+   "1 noche en homestay y 1 noche de hotel (3 días y 2 noches)",
+   "Agua embotellada durante los días de trekking"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el conductor (opcionales)",
+   "Suplemento por festivos en Vietnam",
+   "Suplemento por habitación individual o camas supletorias"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye traslado de ida y vuelta entre Hanói y Sapa, vehículo con aire acondicionado o autobús cama y guía local de trekking. Operador: Vietnam Homies Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Arrozales y aldea local: 3 días y 2 noches o 2 días y 1 noche",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "2-day-trekking-tour-rice-terraces-villages-and-stories-in-hanoi": {
   "title": "Trekking de 2 días: arrozales en terrazas, aldeas y relatos",
   "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye 4 comidas, 2 comidas para los dos días de trekking, 1 cena, 1 desayuno para el segundo día de trekking y entradas a la aldea. No incluye el tour NO incluye, seguro de viaje personal, bebidas adicionales durante la caminata y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4843,6 +4874,59 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: comida halal auténtica y Train Street",
   "metaDescription": "Tour de 3 horas en Hanói. Incluye: visita a pie y servicio de recogida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sim-card-and-esim-with-mobile-data-5gb-day-in-hanoi": {
+  "title": "Hanói: tarjeta SIM y eSIM con 5 GB de datos al día",
+  "fullDescription": "Esta es una experiencia en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye Tarjeta SIM física, eSIM que se activa en el aeropuerto o en cualquier punto de Vietnam, velocidad de internet hasta 4G, datos móviles y cobertura en todo Vietnam. No incluye llamadas y SMS, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tarjeta SIM física (nano, micro, mini o estándar) (si eliges la opción)",
+   "eSIM que se activa en el aeropuerto o en cualquier punto de Vietnam (si eliges la opción)",
+   "Velocidad de internet hasta 4G/LTE",
+   "Datos móviles (5 GB al día)",
+   "Cobertura en todo Vietnam"
+  ],
+  "included": [
+   "Tarjeta SIM física (nano, micro, mini o estándar) (si eliges la opción)",
+   "eSIM que se activa en el aeropuerto o en cualquier punto de Vietnam (si eliges la opción)",
+   "Velocidad de internet hasta 4G/LTE",
+   "Datos móviles (5 GB al día)",
+   "Cobertura en todo Vietnam"
+  ],
+  "notIncluded": [
+   "Llamadas y SMS"
+  ],
+  "shortDescription": "Tour en Hanói, que incluye Tarjeta SIM física, eSIM que se activa en el aeropuerto o en cualquier punto de Vietnam y velocidad de internet hasta 4G. Operador: Vietnam Travel Away, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: tarjeta SIM y eSIM con 5 GB de datos al día",
+  "metaDescription": "Tour en Hanói. Incluye: Tarjeta SIM física. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "egg-salt-and-coconut-coffee-workshop-in-hanoi-old-quarter-by-local-operator": {
+  "title": "Barrio Antiguo de Hanói: taller de café al huevo, con sal y de coco",
+  "fullDescription": "Esta es una experiencia de 1 hora en Hanói, centrada en Barrio Antiguo de Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye bienvenida y breve introducción a la cultura cafetera vietnamita, acompañamiento de un instructor durante toda la clase, iniciación a la preparación tradicional con el filtro phin vietnamita, preparar tú mismo el café al huevo y cata de los cafés que preparas. No incluye recogida y regreso al hotel, comida o bebidas adicionales fuera de la degustación de la clase, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nVietnamese Coffee Workshop. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Barrio Antiguo de Hanói",
+   "Duración: 1 hora",
+   "Bienvenida y breve introducción a la cultura cafetera vietnamita",
+   "Acompañamiento de un instructor local durante toda la clase",
+   "Iniciación a la preparación tradicional con el filtro phin vietnamita",
+   "Preparar tú mismo el café al huevo, el café de coco y el café con sal"
+  ],
+  "included": [
+   "Bienvenida y breve introducción a la cultura cafetera vietnamita",
+   "Acompañamiento de un instructor local durante toda la clase",
+   "Iniciación a la preparación tradicional con el filtro phin vietnamita",
+   "Preparar tú mismo el café al huevo, el café de coco y el café con sal",
+   "Cata de los cafés que preparas",
+   "Recetas para llevarte y volver a preparar las bebidas en casa"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida o bebidas adicionales fuera de la degustación de la clase",
+   "Gastos personales (recuerdos, consumiciones adicionales)",
+   "Propinas (opcionales)"
+  ],
+  "shortDescription": "Tour de 1 hora en Hanói, con Barrio Antiguo de Hanói. Operador: Vietnamese Coffee Workshop, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Barrio Antiguo de Hanói: taller de café al huevo, con sal y de coco",
+  "metaDescription": "Tour de 1 hora en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "evening-street-food-tour-with-local-guide-in-hanoi": {
   "title": "Hanói: ruta de comida callejera al anochecer con guía local",
   "fullDescription": "Esta es una experiencia de 4 horas en Hanói, centrada en Barrio Antiguo de Hanói, Hang Ma y Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye ruta de comida callejera, guía, cena, café o té y paradas de degustación para conocer los platos típicos de Saigón. No incluye recogida y regreso al hotel y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHidden Gem Cafe Hanoi. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4869,6 +4953,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: ruta de comida callejera al anochecer con guía local",
   "metaDescription": "Tour de medio día en Hanói. Incluye: ruta de comida callejera, guía y cena. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "hanoi-lotus-tea-craft-taste-and-discover-vietnamese-culture-by-local-operator": {
+  "title": "Té de loto de Hanói: elaboración, cata y cultura vietnamita",
+  "fullDescription": "Esta es una experiencia de 1 hora en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye narrador cultural, catas de tés premium incluidas en el paquete elegido, relatos culturales interactivos y sesión de preguntas, villa con jardín escondida y con aire acondicionado y todos los ingredientes. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Narrador cultural de habla inglesa",
+   "Catas de tés premium incluidas en el paquete elegido",
+   "Relatos culturales interactivos y sesión de preguntas",
+   "Villa con jardín escondida y con aire acondicionado",
+   "Todos los ingredientes, utensilios de preparación y equipo necesarios"
+  ],
+  "included": [
+   "Narrador cultural de habla inglesa",
+   "Catas de tés premium incluidas en el paquete elegido",
+   "Relatos culturales interactivos y sesión de preguntas",
+   "Villa con jardín escondida y con aire acondicionado",
+   "Todos los ingredientes, utensilios de preparación y equipo necesarios",
+   "Guía digital y recomendaciones de casas de té y cafés locales",
+   "Consigna de equipaje gratuita si se solicita (hasta 3 días)",
+   "Certificado digital (a petición)"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 1 hora en Hanói, que incluye narrador cultural, catas de tés premium incluidas en el paquete elegido y relatos culturales interactivos y sesión de preguntas. Operador: Rose Kitchen Hanoi, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Té de loto de Hanói: elaboración, cata y cultura vietnamita",
+  "metaDescription": "Tour de 1 hora en Hanói. Incluye: narrador cultural. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "vegan-street-food-and-stories-in-hanoi": {
   "title": "Hanói: comida callejera vegana e historias del barrio",
   "fullDescription": "Esta es una experiencia de 3 horas en Hanói, centrada en Barrio Antiguo de Hanói, Restaurante local y Đền Tiên hạ Phất lộc. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye comida callejera vegana y vegetariana y bebidas y descubrir rincones locales poco conocidos. No incluye propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n72 P. Hàng Bạc, Hàng Buồm, Hoàn Kiếm, Hanói, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4890,6 +5002,40 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Hanói, con Barrio Antiguo de Hanói, Restaurante local y Đền Tiên hạ Phất lộc. Operador: ONETRIP WITH LOCAL TRAVEL CO., LTD, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: comida callejera vegana e historias del barrio",
   "metaDescription": "Tour en Hanói. Incluye: comida callejera vegana y vegetariana y bebidas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ninh-binh-1-day-or-2-day-guided-tour-with-meals": {
+  "title": "Ninh Binh: visita guiada de uno o dos días con comidas",
+  "fullDescription": "Esta es una experiencia de día completo en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte de ida y vuelta entre Hanói y Ninh Binh, recogida y regreso al hotel en el Barrio Antiguo de Hanói, transporte con aire acondicionado, comida bufé si eliges la opción de un día y 2 comidas, 1 cena. No incluye propinas para el guía o el conductor, coche eléctrico en la pagoda Bai Dinh, suplemento por festivos en Vietnam y suplemento por habitación individual o camas supletorias en la opción 2, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. VN BIKE TOUR COMPANY LIMTIED confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: día completo",
+   "Transporte de ida y vuelta entre Hanói y Ninh Binh",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Transporte con aire acondicionado",
+   "Comida bufé si eliges la opción de un día",
+   "2 comidas, 1 cena y 1 desayuno si eliges la opción de 2 días y 1 noche"
+  ],
+  "included": [
+   "Transporte de ida y vuelta entre Hanói y Ninh Binh",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Transporte con aire acondicionado",
+   "Comida bufé si eliges la opción de un día",
+   "2 comidas, 1 cena y 1 desayuno si eliges la opción de 2 días y 1 noche",
+   "Guía profesional de habla inglesa (suplemento para otros idiomas)",
+   "Entradas a todas las atracciones que figuran en el itinerario",
+   "Comida vietnamita tradicional (día 1, en ambas opciones)",
+   "Paseo en barca por Trang An o Tam Coc",
+   "Agua potable embotellada durante el tour",
+   "Alojamiento con desayuno (solo en la opción de 2 días y 1 noche)"
+  ],
+  "notIncluded": [
+   "Propinas para el guía o el conductor (opcionales)",
+   "Coche eléctrico en la pagoda Bai Dinh",
+   "Suplemento por festivos en Vietnam",
+   "Suplemento por habitación individual o camas supletorias en la opción de 2 días y 1 noche"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye transporte de ida y vuelta entre Hanói y Ninh Binh, recogida y regreso al hotel en el Barrio Antiguo de Hanói y transporte con aire acondicionado. Operador: VN BIKE TOUR COMPANY LIMTIED, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: visita guiada de uno o dos días con comidas",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "hanoi-jeep-tours-city-highlights-and-bat-trang-village-by-local-operator": {
   "title": "Hanói en Jeep: lo imprescindible de la ciudad y la aldea de Bat Trang",
@@ -4980,7 +5126,7 @@ export const ES_TOURS: Record<string, TourT> = {
  },
  "mai-chau-scenic-pass-cycling-and-thai-village-discovery-hanoi": {
   "title": "Mai Chau: puerto panorámico, bicicleta y aldeas thai (Hanói)",
-  "fullDescription": "Esta es una experiencia de 6 horas desde Hanói, centrada en Mai Chau Lodge. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nSe ofrece recogida desde Mai Chau y Ha Noi; el lugar y la hora exactos se acuerdan con VN BIKE TOUR COMPANY LIMTIED una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso al hotel en el Barrio Antiguo de Hanói, transporte en vehículo con aire acondicionado, guía, comida vietnamita y bicicleta y actividades ciclistas. No incluye propinas y suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. VN BIKE TOUR COMPANY LIMTIED confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Hanói, centrada en Mai Chau Lodge. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nSe ofrece recogida desde Mai Chau y Hanói; el lugar y la hora exactos se acuerdan con VN BIKE TOUR COMPANY LIMTIED una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso al hotel en el Barrio Antiguo de Hanói, transporte en vehículo con aire acondicionado, guía, comida vietnamita y bicicleta y actividades ciclistas. No incluye propinas y suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. VN BIKE TOUR COMPANY LIMTIED confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
   "highlights": [
    "Mai Chau Lodge",
    "Duración: 6 horas",
@@ -5066,6 +5212,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói en moto: callejones escondidos y vida urbana",
   "metaDescription": "Tour de medio día en Hanói. Incluye: guía local en inglés. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "ha-giang-loop-3-day-self-driving-motorbike-tour-in-hanoi": {
+  "title": "Ha Giang Loop: 3 días en moto conduciendo tú",
+  "fullDescription": "Esta es una experiencia de 3 días en Hanói, centrada en Viaje de Hanói a Ha Giang, Comer en Yen Minh y Descubrir la meseta kárstica de Dong Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye hanói, recogida en el hotel, moto en buen estado, guía turístico y paseo en barca por el río Nho Que. No incluye bebidas, gastos personales, propinas para el guía y los conductores y suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Chestnut Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Viaje de Hanói a Ha Giang",
+   "Comer en Yen Minh",
+   "Descubrir la meseta kárstica de Dong Van",
+   "Llegada a Dong Van para cenar",
+   "Duración: 3 días",
+   "Hanói - Ha Giang ida y vuelta en autobús cama (contacta con el operador si quieres mejorar a un autobús de lujo)"
+  ],
+  "included": [
+   "Hanói - Ha Giang ida y vuelta en autobús cama (contacta con el operador si quieres mejorar a un autobús de lujo)",
+   "Recogida en el hotel",
+   "Moto en buen estado, con combustible",
+   "Guía con experiencia",
+   "Paseo en barca por el río Nho Que",
+   "Todo el alojamiento (1 noche en autobús, 1 noche de hotel en Dong Van, 1 noche en Du Gia)",
+   "Entradas y actividades seleccionadas",
+   "Comidas: 3 desayunos, 3 almuerzos, 2 cenas"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Gastos personales",
+   "Propinas para el guía y los conductores",
+   "Suplemento por festivos",
+   "Permiso de Ha Giang: 10 $ (se paga al llegar)"
+  ],
+  "shortDescription": "Tour de 3 días en Hanói, con Viaje de Hanói a Ha Giang, Comer en Yen Minh y Descubrir la meseta kárstica de Dong Van. Operador: Chestnut Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ha Giang Loop: 3 días en moto conduciendo tú",
+  "metaDescription": "Tour de 3 días en Hanói. Incluye: hanói y recogida en el hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "french-quarter-walking-tour-with-local-guide-in-hanoi": {
   "title": "Hanói: visita a pie por el barrio francés con guía local",
   "fullDescription": "Esta es una experiencia de 3 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye visita guiada a pie y guía local autorizado. No incluye comida y bebidas y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5143,6 +5321,71 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Trang An en barca, Bich Dong y atardecer en la cueva de Mua",
   "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "vietnamese-coffee-workshop-6-brews-10-tastings-wines": {
+  "title": "Taller de café vietnamita: 6 preparaciones, 10 catas y licores",
+  "fullDescription": "Esta es una experiencia de 1 hora en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye bebida de bienvenida: infusión de hierbas tradicional, agua mineral en garrafa de 20 litros, aperitivos y galletas, todas las catas de café y todas las catas de licores tradicionales caseros. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Su Quan Roastery Tea & Coffee Experience confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Bebida de bienvenida: infusión de hierbas tradicional",
+   "Agua mineral en garrafa de 20 litros (caliente y fría)",
+   "Aperitivos y galletas",
+   "Todas las catas de café",
+   "Todas las catas de licores tradicionales caseros"
+  ],
+  "included": [
+   "Bebida de bienvenida: infusión de hierbas tradicional",
+   "Agua mineral en garrafa de 20 litros (caliente y fría)",
+   "Aperitivos y galletas",
+   "Todas las catas de café",
+   "Todas las catas de licores tradicionales caseros",
+   "Equipo y material para la actividad",
+   "Recogida y regreso al hotel (si eliges la opción)",
+   "Consigna de equipaje hasta 3 días",
+   "Wi-Fi e internet",
+   "Aire acondicionado o ventilador",
+   "Recetas digitales",
+   "Certificado digital (si lo pides)"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 1 hora en Hanói, que incluye bebida de bienvenida: infusión de hierbas tradicional, agua mineral en garrafa de 20 litros y aperitivos y galletas. Operador: Su Quan Roastery Tea & Coffee Experience, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Taller de café vietnamita: 6 preparaciones, 10 catas y licores",
+  "metaDescription": "Tour de 1 hora en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ninh-binh-tour-with-accommodation-and-meals-small-group-2-days": {
+  "title": "Ninh Binh: 2 días en grupo reducido con alojamiento y comidas",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso a tu hotel en el Barrio Antiguo de Hanói, una noche en bungaló en Ninh Binh, paseo en barca por Tam Coc y Trang An, todas las entradas y tasas de visita y guía. No incluye cena con la opción de solo tour, propinas y recogida y regreso fuera de la zona del Barrio Antiguo de Hanói, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Hanoi Explore Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Recogida y regreso a tu hotel en la zona del Barrio Antiguo de Hanói",
+   "Una noche en bungaló en Ninh Binh",
+   "Paseo en barca por Tam Coc y Trang An",
+   "Todas las entradas y tasas de visita",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Recogida y regreso a tu hotel en la zona del Barrio Antiguo de Hanói",
+   "Una noche en bungaló en Ninh Binh",
+   "Paseo en barca por Tam Coc y Trang An",
+   "Todas las entradas y tasas de visita",
+   "Guía de habla inglesa",
+   "2 comidas bufé especiales",
+   "Una botella de agua mineral al día",
+   "Ruta en bicicleta por el campo",
+   "Desayuno en tu alojamiento de Ninh Binh el segundo día",
+   "Coche eléctrico para visitar la pagoda Bai Dinh",
+   "Cena con la opción de alojamiento y cena"
+  ],
+  "notIncluded": [
+   "Cena con la opción de solo tour",
+   "Propinas, gastos personales y todo lo que no se mencione claramente más arriba",
+   "Recogida y regreso fuera de la zona del Barrio Antiguo de Hanói"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye recogida y regreso a tu hotel en el Barrio Antiguo de Hanói, una noche en bungaló en Ninh Binh y paseo en barca por Tam Coc y Trang An. Operador: Hanoi Explore Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: 2 días en grupo reducido con alojamiento y comidas",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "hanoi-city-tour-by-jeep-at-sunset-train-street-and-city-lights-by-local-operator": {
   "title": "Hanói en Jeep al atardecer: Train Street y luces de la ciudad",
   "fullDescription": "Esta es una experiencia en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye jeep clásico con conductor profesional, guía con un conocimiento local profundo, cena auténtica de bún chả y café al huevo o té de loto en la Train, entradas y visita a una comunidad agrícola y seguro de viaje e IVA. No incluye bebidas y todo lo que no se menciona claramente más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. City Tour Hanoi confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5198,6 +5441,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói en Jeep: patrimonio escondido, Train Street y escapada a la isla",
   "metaDescription": "Tour de medio día en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "hanoi-countryside-tour-with-female-riders-and-hidden-villages-by-local-operator": {
+  "title": "Campo de Hanói con conductoras y aldeas poco conocidas",
+  "fullDescription": "Esta es una experiencia de 4 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye conductora de moto, moto y casco, comida, experiencia de té de loto en un jardín local y experiencia de dar de comer a las carpas koi. No incluye gastos personales, comida y bebidas adicionales no mencionadas y propinas para los conductores y los guías, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 horas",
+   "Conductora de moto (con licencia y experiencia)",
+   "Moto y casco",
+   "Comida (bún chả)",
+   "Experiencia de té de loto en un jardín local",
+   "Experiencia de dar de comer a las carpas koi"
+  ],
+  "included": [
+   "Conductora de moto (con licencia y experiencia)",
+   "Moto y casco",
+   "Comida (bún chả)",
+   "Experiencia de té de loto en un jardín local",
+   "Experiencia de dar de comer a las carpas koi",
+   "Aperitivos locales (zumo de caña de azúcar)",
+   "Guía de habla inglesa",
+   "Poncho de lluvia (si hace falta)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida y bebidas adicionales no mencionadas",
+   "Propinas para los conductores y los guías (opcionales)"
+  ],
+  "shortDescription": "Tour de medio día en Hanói, que incluye conductora de moto, moto y casco y comida. Operador: City Tour Hanoi, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Campo de Hanói con conductoras y aldeas poco conocidas",
+  "metaDescription": "Tour de medio día en Hanói. Incluye: conductora de moto y moto y casco. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "leather-notebook-making-workshop-craft-your-journal-in-hanoi": {
   "title": "Hanói: taller de encuadernación, haz tu cuaderno de cuero",
   "fullDescription": "Esta es una experiencia de 2 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye cuaderno y materiales de artesanía, acompañamiento de un instructor local, 1 tapa de cuero, 1 recambio de cuaderno y todas las herramientas y materiales para la artesanía. No incluye colgantes decorativos y accesorios adicionales y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5223,6 +5496,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 horas en Hanói, que incluye cuaderno y materiales de artesanía, acompañamiento de un instructor local y 1 tapa de cuero. Operador: VIVA VIETNAM, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: taller de encuadernación, haz tu cuaderno de cuero",
   "metaDescription": "Tour de 2 horas en Hanói. Incluye: cuaderno y materiales de artesanía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "rose-kitchen-local-cooking-class-with-tea-ceremony-in-hanoi": {
+  "title": "Rose Kitchen: clase de cocina local con ceremonia del té",
+  "fullDescription": "Esta es una experiencia de 3,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye anfitrión cultural que te acompaña durante toda la experiencia, ceremonia del té vietnamita tradicional con guía experta, relatos sobre el papel del té en la vida familiar y, clase de cocina práctica con ingredientes y utensilios incluidos y comida al estilo familiar con los platos que has preparado. No incluye otros gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3,5 horas",
+   "Anfitrión cultural de habla inglesa que te acompaña durante toda la experiencia",
+   "Ceremonia del té vietnamita tradicional con guía experta y catas",
+   "Relatos sobre el papel del té en la vida familiar y en la sociedad vietnamita",
+   "Clase de cocina práctica con todos los ingredientes y utensilios incluidos",
+   "Comida al estilo familiar con los platos que has preparado"
+  ],
+  "included": [
+   "Anfitrión cultural de habla inglesa que te acompaña durante toda la experiencia",
+   "Ceremonia del té vietnamita tradicional con guía experta y catas",
+   "Relatos sobre el papel del té en la vida familiar y en la sociedad vietnamita",
+   "Clase de cocina práctica con todos los ingredientes y utensilios incluidos",
+   "Comida al estilo familiar con los platos que has preparado",
+   "Té y dulces vietnamitas de temporada al final"
+  ],
+  "notIncluded": [
+   "Otros gastos personales",
+   "Propinas (opcionales)"
+  ],
+  "shortDescription": "Tour en Hanói, que incluye anfitrión cultural que te acompaña durante toda la experiencia, ceremonia del té vietnamita tradicional con guía experta y relatos sobre el papel del té en la vida familiar y. Operador: Rose Kitchen Hanoi, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Rose Kitchen: clase de cocina local con ceremonia del té",
+  "metaDescription": "Tour en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "ninh-binh-full-day-with-bai-dinh-and-trang-an-and-mua-caves-hanoi": {
   "title": "Ninh Binh: día completo en Bai Dinh, Trang An y la cueva de Mua (Hanói)",
@@ -5302,6 +5602,68 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: bufé libre en MAMMOM, restaurante Michelin",
   "metaDescription": "Tour de 3 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "half-day-city-tour-with-veg-lunch-opt-max-22-guests-in-hanoi": {
+  "title": "Hanói: media jornada por la ciudad con opción de comida vegetariana, máx. 22 personas",
+  "fullDescription": "Esta es una experiencia de 4 horas en Hanói, centrada en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye recogida y regreso al hotel, transporte en limusina VIP, guía local, media jornada guiada por Hanói y visitas a lugares culturales e históricos. No incluye recogida y regreso fuera de las zonas establecidas, gastos personales, el tour de las 14:00 no incluye comida y comida y bebidas adicionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoan Kiem. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Hanói",
+   "Duración: 4 horas",
+   "Recogida y regreso al hotel",
+   "Transporte en limusina VIP",
+   "Guía local de habla inglesa",
+   "Media jornada guiada por Hanói"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en limusina VIP",
+   "Guía local de habla inglesa",
+   "Media jornada guiada por Hanói",
+   "Visitas a lugares culturales e históricos",
+   "Comida vietnamita en un restaurante local (solo en las salidas de la mañana)",
+   "Comida vegetariana disponible si se pide con antelación",
+   "Agua potable embotellada",
+   "Todas las actividades y visitas",
+   "Experiencia en grupo reducido, máximo 22 personas"
+  ],
+  "notIncluded": [
+   "Recogida y regreso fuera de las zonas establecidas",
+   "Gastos personales",
+   "El tour de las 14:00 no incluye comida",
+   "Comida y bebidas adicionales",
+   "Propinas para el guía y el conductor",
+   "Cualquier servicio no mencionado expresamente en «Incluido»"
+  ],
+  "shortDescription": "Tour de medio día en Hanói, con Hanói. Operador: Go Golf Vietnam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: media jornada por la ciudad con opción de comida vegetariana, máx. 22 personas",
+  "metaDescription": "Tour de medio día en Hanói. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "knife-making-in-blacksmith-village-in-hanoi-by-local-operator": {
+  "title": "Fabricación de cuchillos en la aldea de los herreros",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye todo el equipo, cuchillo para llevarte a casa, facilitador, refrigerio ligero y mascarilla y protección ocular. No incluye servicio de recogida y regreso dentro de Hanói, otros gastos personales y funda para el cuchillo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "Todo el equipo, las herramientas y los materiales necesarios para el taller",
+   "Cuchillo para llevarte a casa",
+   "Facilitador de habla inglesa",
+   "Refrigerio ligero",
+   "Mascarilla y protección ocular"
+  ],
+  "included": [
+   "Todo el equipo, las herramientas y los materiales necesarios para el taller",
+   "Cuchillo para llevarte a casa",
+   "Facilitador de habla inglesa",
+   "Refrigerio ligero",
+   "Mascarilla y protección ocular"
+  ],
+  "notIncluded": [
+   "Servicio de recogida y regreso dentro de Hanói (disponible con coste adicional)",
+   "Otros gastos personales",
+   "Funda para el cuchillo"
+  ],
+  "shortDescription": "Tour de 2,5 horas en Hanói, que incluye todo el equipo, cuchillo para llevarte a casa y facilitador. Operador: Beyond Backstreet Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Fabricación de cuchillos en la aldea de los herreros",
+  "metaDescription": "Tour de 2,5 horas en Hanói. Incluye: todo el equipo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "jasmine-tour-4-day-ha-giang-loop-in-hanoi": {
   "title": "Ha Giang Loop de 4 días con Jasmine Tour",
   "fullDescription": "Esta es una experiencia de 4 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye todas las comidas del tour están incluidas, noches estupendas en los mejores homestays, los conductores son gente de la zona con formación profesional, autobús de cabina VIP o cabina individual, ida y vuelta desde/hacia Ha Giang y motos de calidad. No incluye bebidas, propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5332,6 +5694,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Hanói, que incluye todas las comidas del tour están incluidas, noches estupendas en los mejores homestays y los conductores son gente de la zona con formación profesional. Operador: DUC HIEU TOURISM CO.,LTD, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Ha Giang Loop de 4 días con Jasmine Tour",
   "metaDescription": "Tour en Hanói. Incluye: todas las comidas del tour están incluidas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hanoi-half-day-or-full-day-city-tour-culture-history-by-local-operator": {
+  "title": "Hanói: tour urbano de media jornada o de un día, cultura e historia",
+  "fullDescription": "Esta es una experiencia de 4 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye ✅ Recogida y regreso al hotel en el Barrio Antiguo de Hanói, ✅ Transporte con aire acondicionado, ✅ Guía profesional de habla inglesa, ✅ Entradas a todas las atracciones y ✅ Agua potable embotellada en el vehículo. No incluye ❌ Propinas y ❌ Suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Atlas Vietnam Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 horas",
+   "✅ Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "✅ Transporte con aire acondicionado",
+   "✅ Guía profesional de habla inglesa (suplemento para otros idiomas)",
+   "✅ Entradas a todas las atracciones",
+   "✅ Agua potable embotellada en el vehículo"
+  ],
+  "included": [
+   "✅ Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "✅ Transporte con aire acondicionado",
+   "✅ Guía profesional de habla inglesa (suplemento para otros idiomas)",
+   "✅ Entradas a todas las atracciones",
+   "✅ Agua potable embotellada en el vehículo",
+   "✅ Seguro de viaje",
+   "✅ Comida con la opción de día completo"
+  ],
+  "notIncluded": [
+   "❌ Propinas (opcionales)",
+   "❌ Suplemento por festivos en Vietnam"
+  ],
+  "shortDescription": "Tour en Hanói, que incluye ✅ Recogida y regreso al hotel en el Barrio Antiguo de Hanói, ✅ Transporte con aire acondicionado y ✅ Guía profesional de habla inglesa. Operador: Atlas Vietnam Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: tour urbano de media jornada o de un día, cultura e historia",
+  "metaDescription": "Tour en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "full-day-city-tour-with-lunch-and-guide-in-hanoi": {
   "title": "Hanói: tour urbano de un día con comida y guía",
@@ -5476,6 +5866,30 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: siglos de historia en 1 hora en autobús descapotable",
   "metaDescription": "Tour de 1 hora en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "coffee-history-and-architecture-in-the-french-quarter-in-hanoi": {
+  "title": "Café, historia y arquitectura en el barrio francés",
+  "fullDescription": "Esta es una experiencia de 3 horas en Hanói, centrada en Café local, Barrio francés y Ópera de Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tomar un helado en la famosa heladería Trang Tien, un café o té vietnamita en una villa francesa escondida, entrada gratuita para quienes acompañan a personas con discapacidad y durante el tour. No incluye propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n6 P. Ấu Triệu, Hàng Trống, Hoàn Kiếm, Hanói 10000, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Café local",
+   "Barrio francés",
+   "Ópera de Hanói",
+   "Lago Hoan Kiem",
+   "Duración: 3 horas",
+   "Tomar un helado en la famosa heladería Trang Tien, con sitio para sentarse y aseos para hacer una parada"
+  ],
+  "included": [
+   "Tomar un helado en la famosa heladería Trang Tien, con sitio para sentarse y aseos para hacer una parada",
+   "Un café o té vietnamita en una villa francesa escondida",
+   "Entrada gratuita para quienes acompañan a personas con discapacidad",
+   "Durante la visita hay fotografías famosas que ilustran los hechos históricos y ayudan a entender mejor la historia"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ],
+  "shortDescription": "Tour en Hanói, con St. Joseph's Cathedral, Hanói, Café local y Barrio francés. Operador: ONETRIP WITH LOCAL TRAVEL CO., LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Café, historia y arquitectura en el barrio francés",
+  "metaDescription": "Tour en Hanói. Incluye: tomar un helado en la famosa heladería Trang Tien. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "truc-temple-5-caves-or-tam-chuc-world-s-biggest-pagoda-in-hanoi": {
   "title": "Templo de Truc y las 5 cuevas, o Tam Chuc, la pagoda más grande del mundo",
   "fullDescription": "Esta es una experiencia de 5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye visita al templo de Truc, visita al paraje natural de Ngu Dong Thi Son, exploración de las Cinco Cuevas, contemplación de estalactitas y estalagmitas y contemplación del bajorrelieve con el estandarte de Ly Thuong Kiet. No incluye gastos personales, propinas opcionales y suplemento por el Año Nuevo Lunar, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5533,6 +5947,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 horas en Hanói, que incluye clase particular con instructores formados, charla de seguridad e iniciación al tiro y acceso a la galería de tiro cubierta. Operador: Hanoi Shooting Club, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: galería de tiro cubierta con monitor particular",
   "metaDescription": "Tour de 2 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "from-hanoi-or-ninh-binh-3-day-mai-chau-and-pu-luong-adventure-by-local-operator": {
+  "title": "Desde Hanói o Ninh Binh: 3 días de aventura en Mai Chau y Pu Luong",
+  "fullDescription": "Esta es una experiencia de 3 días desde Hanói, centrada en Limusina, Mai Châu y Pu Luong. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte durante el recorrido, guía local en Mai Chau y Pu Luong, habitación privada con balcón en Lovely Homestay o Eco Retreat Lodge, las comidas indicadas y entradas. No incluye suplemento para viajeros solos: homestay 30 $, Eco Lodge, bebidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBarrio Antiguo. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Mai Châu",
+   "Pu Luong",
+   "Reserva natural de Pù Luông",
+   "Duración: 3 días",
+   "Transporte durante el recorrido"
+  ],
+  "included": [
+   "Transporte durante el recorrido",
+   "Guía local de habla inglesa en Mai Chau y Pu Luong",
+   "Habitación privada con balcón en Lovely Homestay, Eco Retreat Lodge o Eco Resort",
+   "Las comidas indicadas (2 desayunos, 3 almuerzos, 2 cenas)",
+   "Entradas",
+   "Actividades de bicicleta y senderismo",
+   "Descenso en balsa de bambú",
+   "Clase de cocina",
+   "Paseo en carro de búfalo"
+  ],
+  "notIncluded": [
+   "Suplemento para viajeros solos: 30 $ en homestay, 45 $ en Eco Lodge y 60 $ en Eco Resort",
+   "Bebidas",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 3 días en Hanói, con Mai Châu, Pu Luong y Reserva natural de Pù Luông. Operador: Divi Travel., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Desde Hanói o Ninh Binh: 3 días de aventura en Mai Chau y Pu Luong",
+  "metaDescription": "Tour de 3 días en Hanói. Incluye: transporte durante el recorrido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "2-or-3-day-ha-giang-loop-motorbike-tour-with-easy-rider-in-hanoi": {
   "title": "Ha Giang Loop en moto con easy rider, 2 o 3 días",
@@ -5726,6 +6172,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Cascada de Ban Gioc: tour de 2 días",
   "metaDescription": "Tour de 2 días en Hanói. Incluye: guía que habla inglés y vietnamita. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "2-day-ninh-binh-excursion-with-boat-ride-pagoda": {
+  "title": "Ninh Binh en 2 días: paseo en barca y pagoda",
+  "fullDescription": "Esta es una experiencia de 2 días desde Hanói, centrada en Limusina. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de Hanói a Ninh Binh en furgoneta limusina, 2 comidas y 1 desayuno en el Ninh Binh Footprint Homestay, habitación privada en el Ninh Binh Footprint Homestay, paseo en Jeep por el campo y visita a la pagoda Bich Dong. No incluye cena del día 1, suplemento de 10 $ por habitación individual, gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoan Kiem. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Duración: 2 días",
+   "Traslado de Hanói a Ninh Binh en furgoneta limusina",
+   "2 comidas y 1 desayuno en el Ninh Binh Footprint Homestay",
+   "Habitación privada en el Ninh Binh Footprint Homestay",
+   "Paseo en Jeep por el campo"
+  ],
+  "included": [
+   "Traslado de Hanói a Ninh Binh en furgoneta limusina",
+   "2 comidas y 1 desayuno en el Ninh Binh Footprint Homestay",
+   "Habitación privada en el Ninh Binh Footprint Homestay",
+   "Paseo en Jeep por el campo",
+   "Visita a la pagoda Bich Dong",
+   "Trayecto panorámico hasta el complejo paisajístico de Trang An",
+   "Paseo en barca por Trang An",
+   "Visita a lugares espirituales",
+   "Trayecto en Jeep hasta la cueva de Mua",
+   "Subir al mirador de la cueva de Mua",
+   "Visita al complejo de la pagoda Bai Dinh",
+   "Visita a la antigua capital de Hoa Lu"
+  ],
+  "notIncluded": [
+   "Cena del día 1",
+   "Suplemento de 10 $ por habitación individual",
+   "Gastos personales",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye traslado de Hanói a Ninh Binh en furgoneta limusina, 2 comidas y 1 desayuno en el Ninh Binh Footprint Homestay y habitación privada en el Ninh Binh Footprint Homestay. Operador: NINH BINH SIGNATURE TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh en 2 días: paseo en barca y pagoda",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ba-vi-national-park-and-ao-vua-resort-day-trip-in-hanoi": {
+  "title": "Parque nacional de Ba Vi y Ao Vua Resort: excursión de un día",
+  "fullDescription": "Esta es una experiencia de 10 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía local, agua fría embotellada, bebidas incluidas, aperitivos vietnamitas incluidos: crocante de cacahuete, patatas y recogida y regreso. No incluye bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Johnson Excursions Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 10 horas",
+   "Guía local con experiencia",
+   "Agua fría embotellada",
+   "Bebidas incluidas: cerveza, Coca-Cola, Fanta, agua con gas, zumo de naranja, té, etc.",
+   "Aperitivos vietnamitas incluidos: crocante de cacahuete, patatas fritas, snacks de queso y snacks de arroz",
+   "Recogida y regreso (excepto en la opción de grupo reducido)"
+  ],
+  "included": [
+   "Guía local con experiencia",
+   "Agua fría embotellada",
+   "Bebidas incluidas: cerveza, Coca-Cola, Fanta, agua con gas, zumo de naranja, té, etc.",
+   "Aperitivos vietnamitas incluidos: crocante de cacahuete, patatas fritas, snacks de queso y snacks de arroz",
+   "Recogida y regreso (excepto en la opción de grupo reducido)",
+   "Chubasquero"
+  ],
+  "notIncluded": [
+   "Bebidas (opcionales)"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye guía local, agua fría embotellada y bebidas incluidas. Operador: Johnson Excursions Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parque nacional de Ba Vi y Ao Vua Resort: excursión de un día",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: guía local y agua fría embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "hanoi-city-jeep-tour-halfday-food-culture-history-and-fun-by-local-operator": {
   "title": "Hanói en Jeep: media jornada de comida, cultura e historia",
   "fullDescription": "Esta es una experiencia de 4 horas en Hanói, centrada en Ópera de Hanói, Pagoda Tran Quoc y Mausoleo de Ho Chi Minh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso en los hoteles de Hanói y alrededores, guía local, jeep legendario del Ejército Popular de Vietnam con un conductor experto, comida o cena y poncho de lluvia si hace falta. No incluye gastos personales y propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nDong Xuan. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5805,6 +6312,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Hanói, que incluye billete de tren de ida entre Hanói y Lao Cai, litera reservada y tasa de servicio en la estación. Operador: DaNang Smile Tour, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Tren nocturno histórico Hanói - Lao Cai",
   "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ninhbinh-2-days-1-night-tour-at-bungalow-in-hanoi": {
+  "title": "Ninh Binh: 2 días y 1 noche en bungaló",
+  "fullDescription": "Esta es una experiencia de 2 días desde Hanói, centrada en Limusina, Antigua capital de Hoa Lu y Tam Coc. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye autobús limusina de 17 a 22 plazas, guía durante todo el viaje, entradas, coche eléctrico de ida y vuelta y actividad en bicicleta. No incluye bebidas, seguro de viaje y propinas para el guía y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChợ Hàng Da. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Antigua capital de Hoa Lu",
+   "Tam Coc",
+   "Cuevas de Mua",
+   "Duración: 2 días",
+   "Autobús limusina de 17 a 22 plazas"
+  ],
+  "included": [
+   "Autobús limusina de 17 a 22 plazas",
+   "Guía de habla inglesa durante todo el viaje",
+   "Entradas",
+   "Coche eléctrico de ida y vuelta",
+   "Actividad en bicicleta",
+   "2 comidas bufé y 1 cena de menú",
+   "1 noche en bungaló u homestay con piscina",
+   "Sombrero cónico o chubasquero prestado según el tiempo"
+  ],
+  "notIncluded": [
+   "Bebidas, seguro de viaje, impuestos",
+   "Propinas para el guía y gastos personales"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, con Antigua capital de Hoa Lu, Tam Coc y Cuevas de Mua. Operador: Halong Excursion, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: 2 días y 1 noche en bungaló",
+  "metaDescription": "Tour de 2 días en Hanói. Incluye: autobús limusina de 17 a 22 plazas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ha-giang-loop-3-days-2-nights-full-packages-in-hanoi": {
+  "title": "Ha Giang Loop: paquete completo de 3 días y 2 noches",
+  "fullDescription": "Esta es una experiencia de 3,5 días desde Hanói, centrada en Autobús/autocar, Hà Giang y Distrito de Quan Ba. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Hoàn Kiếm y Hoàn Kiếm; el lugar y la hora exactos se acuerdan con SINH TOUR VIETNAM TRADING COMPANY LIMTED una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye traslado de ida y vuelta entre Hanói y Ha Giang, recogida en el hotel, moto, combustible y guía. No incluye bebidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. SINH TOUR VIETNAM TRADING COMPANY LIMTED confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Hà Giang",
+   "Distrito de Quan Ba",
+   "Distrito de Yen Minh",
+   "Duración: 3,5 días",
+   "Traslado de ida y vuelta entre Hanói y Ha Giang"
+  ],
+  "included": [
+   "Traslado de ida y vuelta entre Hanói y Ha Giang",
+   "Recogida en el hotel (solo en el Barrio Antiguo de Hanói)",
+   "Moto",
+   "Combustible",
+   "Guía",
+   "Easy rider (si eliges la opción)",
+   "Billete de barca por el río Nho Que",
+   "Alojamiento (habitación privada a partir de 2 personas)",
+   "Comidas (3 desayunos, 3 almuerzos, 2 cenas)",
+   "Entradas"
+  ],
+  "notIncluded": [
+   "Bebidas (refrescos, alcohol…)",
+   "Gastos personales",
+   "Propinas (opcionales)"
+  ],
+  "shortDescription": "Tour de 4 días en Hanói, con Hà Giang, Distrito de Quan Ba y Distrito de Yen Minh. Operador: SINH TOUR VIETNAM TRADING COMPANY LIMTED, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ha Giang Loop: paquete completo de 3 días y 2 noches",
+  "metaDescription": "Tour de 4 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "old-quarter-cyclo-tour-with-a-unique-experience-in-hanoi": {
   "title": "Hanói: Barrio Antiguo en ciclo",
@@ -6007,6 +6575,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: taller de creación de perfumes",
   "metaDescription": "Tour de 1,5 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "make-floating-cakes-and-taste-fresh-lotus-tea-in-hanoi": {
+  "title": "Hanói: preparar banh troi y probar té de loto fresco",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye bebida de bienvenida: infusión de hierbas tradicional, agua mineral en garrafa de 20 litros, aperitivos y galletas, equipo y material para la actividad y consigna de equipaje. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Su Quan Roastery Tea & Coffee Experience confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "Bebida de bienvenida: infusión de hierbas tradicional",
+   "Agua mineral en garrafa de 20 litros (caliente y fría)",
+   "Aperitivos y galletas",
+   "Equipo y material para la actividad",
+   "Consigna de equipaje hasta 3 días"
+  ],
+  "included": [
+   "Bebida de bienvenida: infusión de hierbas tradicional",
+   "Agua mineral en garrafa de 20 litros (caliente y fría)",
+   "Aperitivos y galletas",
+   "Equipo y material para la actividad",
+   "Consigna de equipaje hasta 3 días",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói (si eliges la opción)",
+   "Wi-Fi e internet",
+   "Aire acondicionado o ventilador",
+   "Recetas digitales",
+   "Certificado digital (si lo pides)"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour en Hanói, que incluye bebida de bienvenida: infusión de hierbas tradicional, agua mineral en garrafa de 20 litros y aperitivos y galletas. Operador: Su Quan Roastery Tea & Coffee Experience, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: preparar banh troi y probar té de loto fresco",
+  "metaDescription": "Tour en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "private-street-food-walking-tour-w-a-real-foodie-in-hanoi": {
   "title": "Hanói: ruta privada a pie de comida callejera con un auténtico foodie",
   "fullDescription": "Esta es una experiencia de 3 horas en Hanói, centrada en Barrio Antiguo de Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye recogida en el Barrio Antiguo, guía local privado de habla inglesa, degustación y 1 café al huevo o té. No incluye bebidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHàng Bông. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6032,6 +6630,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Hanói, con Barrio Antiguo de Hanói. Operador: Crossing Vietnam Tour, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: ruta privada a pie de comida callejera con un auténtico foodie",
   "metaDescription": "Tour de 3 horas en Hanói. Incluye: recogida en el Barrio Antiguo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "3-night-2-day-ha-giang-loop-tour-with-easy-rider-in-hanoi": {
+  "title": "Ha Giang Loop con easy rider: 2 días y 3 noches",
+  "fullDescription": "Esta es una experiencia de 2,5 días desde Hanói, centrada en Limusina, Dong Van y Distrito de Quan Ba. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de Hanói a Ha Giang en autobús cama, recogida y regreso al hotel, moto con combustible y easy rider, guía y 1 noche de hotel en Dong Van. No incluye seguro de viaje y permiso de la oficina de inmigración de Ha Giang, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nCharming Vietnam Travel. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Dong Van",
+   "Distrito de Quan Ba",
+   "Distrito de Yen Minh",
+   "Duración: 2,5 días",
+   "Traslado de Hanói a Ha Giang en autobús cama"
+  ],
+  "included": [
+   "Traslado de Hanói a Ha Giang en autobús cama",
+   "Recogida y regreso al hotel",
+   "Moto con combustible y easy rider (conductor) u opción de conducir tú",
+   "Guía",
+   "1 noche de hotel en Dong Van",
+   "Entradas y actividades seleccionadas",
+   "Comidas (2 desayunos, 2 almuerzos, 1 cena)",
+   "Consigna de equipaje en Hanói o Ha Giang",
+   "Traslado de Ha Giang a Hanói en limusina"
+  ],
+  "notIncluded": [
+   "Seguro de viaje (muy recomendable)",
+   "Permiso de la oficina de inmigración de Ha Giang (10 $ por extranjero) desde el 1 de junio de 2026, tal y como exigen las autoridades locales"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, con Dong Van, Distrito de Quan Ba y Distrito de Yen Minh. Operador: DragonflyCruise, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ha Giang Loop con easy rider: 2 días y 3 noches",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "hanoi-after-dark-vespa-tour-with-street-food-and-night-vibes-by-local-operator": {
   "title": "Hanói de noche en Vespa: comida callejera y ambiente nocturno",
@@ -6087,6 +6715,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: ruta gastronómica privada y Train Street",
   "metaDescription": "Tour de 3 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "2-days-mai-chau-and-pu-luong-nature-reserve-trekking": {
+  "title": "Trekking de 2 días por Mai Chau y la reserva de Pu Luong",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEn las montañas del norte de Vietnam viven más de 20 grupos étnicos, y caminar de aldea en aldea durmiendo en la casa de madera sobre pilotes de una familia es la gran experiencia senderista del país: los valles hmong y dao alrededor de Sa Pa, las aldeas tay sobre pilotes de Mai Chau y Pu Luong, los arrozales en terrazas de Mu Cang Chai y los valles kársticos de Ha Giang. Los trekkings van de medio día a una semana, guiados por mujeres de la zona que hablan las lenguas de las aldeas, con las comidas que cocina la familia anfitriona. Los senderos son empinados y resbaladizos con la lluvia (de junio a agosto), fríos en enero y más despejados en octubre y noviembre. Los homestays son sencillos, comunitarios y acogedores, con un colchón en el suelo y licor de arroz en la cena.\n\nEl precio incluye traslado de ida y vuelta en vehículo con aire acondicionado desde Hanói, guía local, 2 días de trekking guiado por los valles, 1 noche de alojamiento y recorrer las aldeas en bicicleta. No incluye gastos personales, propinas, bebidas y se aplica suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Traslado de ida y vuelta en vehículo con aire acondicionado desde el Barrio Antiguo de Hanói",
+   "Guía local de habla inglesa",
+   "2 días de trekking guiado por valles, arrozales y aldeas",
+   "1 noche de alojamiento (a elegir)",
+   "Recorrer las aldeas en bicicleta"
+  ],
+  "included": [
+   "Traslado de ida y vuelta en vehículo con aire acondicionado desde el Barrio Antiguo de Hanói",
+   "Guía local de habla inglesa",
+   "2 días de trekking guiado por valles, arrozales y aldeas",
+   "1 noche de alojamiento (a elegir)",
+   "Recorrer las aldeas en bicicleta",
+   "Todas las entradas y tasas de aldea",
+   "Todas las comidas: 2 almuerzos, 1 cena, 1 desayuno",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "Bebidas (que no sean agua)",
+   "Se aplica suplemento por festivos (consulta la información importante)"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye traslado de ida y vuelta en vehículo con aire acondicionado desde Hanói, guía local y 2 días de trekking guiado por los valles. Operador: SST Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Trekking de 2 días por Mai Chau y la reserva de Pu Luong",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "small-group-2-day-1-night-ha-giang-loop-motorbike-tour-in-hanoi": {
   "title": "Ha Giang Loop en moto, 2 días y 1 noche en grupo reducido",
   "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye guía local, transporte: autobús de ida y vuelta desde y hacia Hanói, moto, conductor y combustible. No incluye refrescos, propinas para el guía y permiso fronterizo para extranjeros, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6121,6 +6780,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha Giang Loop en moto, 2 días y 1 noche en grupo reducido",
   "metaDescription": "Tour de 2 días en Hanói. Incluye: guía local. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "ha-noi-van-mieu-temple-of-literature-night-tour-with-3dshow-in-hanoi": {
+  "title": "Hanói: Templo de la Literatura de noche con espectáculo 3D",
+  "fullDescription": "Esta es una experiencia de 3 horas en Hanói, centrada en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye bienvenida y presentación, Pulseras LED, check-in y oportunidades de fotos, recorrido por el recinto del templo y interacción con el Sabio Tortuga de IA. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nVăn Miếu - Quốc Tử Giám, 2 P. Văn Miếu, Văn Miếu, Ba Đình, Hanói, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Hanói",
+   "Duración: 3 horas",
+   "Bienvenida y presentación",
+   "Pulseras LED",
+   "Check-in y oportunidades de fotos",
+   "Recorrido por el recinto del templo"
+  ],
+  "included": [
+   "Bienvenida y presentación",
+   "Pulseras LED",
+   "Check-in y oportunidades de fotos",
+   "Recorrido por el recinto del templo",
+   "Interacción con el Sabio Tortuga de IA",
+   "Experiencia de realidad virtual",
+   "Introducción a la historia del Quoc Tu Giam",
+   "Espectáculo de mapping 3D",
+   "Espectáculos de artes tradicionales",
+   "Clase de caligrafía con un maestro calígrafo",
+   "Fotos de recuerdo",
+   "Despedida y agradecimiento"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 3 horas en Hanói, con Hanói. Operador: Công ty cổ phần tập đoàn L'Héritage, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: Templo de la Literatura de noche con espectáculo 3D",
+  "metaDescription": "Tour de 3 horas en Hanói. Incluye: bienvenida y presentación y Pulseras LED. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "pottery-making-class-for-beginners-in-hanoi": {
   "title": "Hanói: clase de alfarería para principiantes",
   "fullDescription": "Esta es una experiencia de 2,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye intérprete de inglés, tornos de alfarero, arcilla, herramientas de alfarería y delantal. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6143,6 +6832,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Hanói, que incluye intérprete de inglés, tornos de alfarero y arcilla. Operador: Pottery Hai Doan, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: clase de alfarería para principiantes",
   "metaDescription": "Tour en Hanói. Incluye: intérprete de inglés, tornos de alfarero y arcilla. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "perfume-pagoda-yen-stream-boat-ride-lunch-and-cave-in-hanoi": {
+  "title": "Pagoda de los Perfumes: barca por el río Yen, comida y cueva",
+  "fullDescription": "Esta es una experiencia de día completo en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso en autobús moderno por la zona del Barrio Antiguo de Hanói, comida en un restaurante local, guía de habla inglesa, Entrada: Pagoda de los Perfumes y agua mineral. No incluye bebidas, gastos personales y coche eléctrico y teleférico, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: día completo",
+   "Recogida y regreso en autobús moderno por la zona del Barrio Antiguo de Hanói",
+   "Comida en un restaurante local",
+   "Guía profesional de habla inglesa",
+   "Entrada: Pagoda de los Perfumes",
+   "Agua mineral (1 botella por persona) en el autobús"
+  ],
+  "included": [
+   "Recogida y regreso en autobús moderno por la zona del Barrio Antiguo de Hanói",
+   "Comida en un restaurante local",
+   "Guía profesional de habla inglesa",
+   "Entrada: Pagoda de los Perfumes",
+   "Agua mineral (1 botella por persona) en el autobús",
+   "Barca por el río Yen"
+  ],
+  "notIncluded": [
+   "Bebidas, gastos personales",
+   "Coche eléctrico y teleférico"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso en autobús moderno por la zona del Barrio Antiguo de Hanói, comida en un restaurante local y guía de habla inglesa. Operador: DGB - INDOCHINATODAYTRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Pagoda de los Perfumes: barca por el río Yen, comida y cueva",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "duong-lam-ancient-village-day-tour-with-lunch-in-hanoi": {
   "title": "Aldea antigua de Duong Lam: día completo con comida",
@@ -6243,6 +6959,136 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: comida callejera a pie y paseo en ciclo",
   "metaDescription": "Tour en Hanói. Incluye: recogida en hoteles seleccionados del casco antiguo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "cuc-phuong-wildlife-and-mua-cave-sunset-experience-in-hanoi": {
+  "title": "Fauna de Cuc Phuong y atardecer en la cueva de Mua",
+  "fullDescription": "Esta es una experiencia de 10 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel en el Barrio Antiguo de Hanói, transporte de ida y vuelta en limusina de lujo, guía local, entrada al parque nacional de Cuc Phuong y caminata guiada por la selva. No incluye gastos personales, comida y bebidas adicionales no mencionadas, seguro de viaje y propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. NINH BINH INSIGHT TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 10 horas",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Transporte de ida y vuelta en limusina de lujo",
+   "Guía local de habla inglesa",
+   "Entrada al parque nacional de Cuc Phuong",
+   "Caminata guiada por la selva"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói.",
+   "Round-trip luxury limousine transportation.",
+   "English-speaking local guide.",
+   "Entrada al parque nacional de Cuc Phuong.",
+   "Guided rainforest walk.",
+   "Entrada a la cueva de Mua.",
+   "Traditional Vietnamese lunch.",
+   "Bottled drinking water.",
+   "Todas las tasas de visita y entradas que figuran en el itinerario."
+  ],
+  "notIncluded": [
+   "Personal expenses.",
+   "Comida y bebidas adicionales no mencionadas.",
+   "Travel insurance.",
+   "Propinas para el guía y el conductor (opcionales).",
+   "Hotel pickup outside Hanoi Old Quarter.",
+   "Actividades opcionales que no figuran en el itinerario.",
+   "Traslado de Hanói a Ninh Binh: 200.000 VND por persona",
+   "Traslado de Ninh Binh a Hanói: 200.000 VND por persona"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel en el Barrio Antiguo de Hanói, transporte de ida y vuelta en limusina de lujo y guía local. Operador: NINH BINH INSIGHT TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Fauna de Cuc Phuong y atardecer en la cueva de Mua",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "trang-an-and-tam-coc-with-boat-day-tour": {
+  "title": "Trang An y Tam Coc en barca: excursión de un día",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Trang An, Ninh Binh y Tam Coc. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nSe ofrece recogida desde Tamcoc Tropical Homestay, Trang An, Antigua capital de Hoa Lu, Yen Nhi Hotel Ninh Binh, Mua cave y Hoàn Kiếm; el lugar y la hora exactos se acuerdan con Asian Discovery Travel una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso a tu hotel en furgoneta privada de lujo con aire acondicionado, paseo en barca para visitar Trang An y Tam Coc, tasas de visita y entradas, guía turístico y comida vietnamita. No incluye bebidas, fiestas del Tet, gastos personales y propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Asian Discovery Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Trang An",
+   "Ninh Binh",
+   "Tam Coc",
+   "Cuevas de Mua",
+   "Duración: día completo",
+   "Recogida y regreso a tu hotel en furgoneta privada de lujo con aire acondicionado"
+  ],
+  "included": [
+   "Recogida y regreso a tu hotel en furgoneta privada de lujo con aire acondicionado",
+   "Paseo en barca para visitar Trang An y Tam Coc",
+   "Tasas de visita y entradas",
+   "Guía turístico de habla inglesa",
+   "Comida vietnamita",
+   "2 botellas de agua mineral",
+   "1 sombrero cónico tradicional",
+   "Alquiler de bicicleta",
+   "Pausa para té vietnamita"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Suplemento del Tet (Año Nuevo vietnamita) de 5 $ por persona",
+   "Gastos personales",
+   "Propinas para el guía y el conductor"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Trang An, Ninh Binh y Tam Coc. Operador: Asian Discovery Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Trang An y Tam Coc en barca: excursión de un día",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "hanoi-s-heritage-embroidery-workshop-in-ancient-house-by-local-operator": {
+  "title": "Patrimonio de Hanói: taller de bordado en una casa antigua",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye todo el material de bordado, instrucción paso a paso de un artesano local reconocido, intérprete, tu bordado terminado para llevarte y 1 bebida gratis. No incluye comidas y bebidas no especificadas en lo incluido, gastos personales y comida opcional: coste adicional por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Todo el material de bordado (bastidor, tela, hilo)",
+   "Instrucción paso a paso de un artesano local reconocido",
+   "Intérprete",
+   "Tu bordado terminado para llevarte",
+   "1 bebida gratis (agua embotellada, té frío o zumo de fruta de temporada) y aperitivos locales"
+  ],
+  "included": [
+   "Todo el material de bordado (bastidor, tela, hilo)",
+   "Instrucción paso a paso de un artesano local reconocido",
+   "Intérprete",
+   "Tu bordado terminado para llevarte",
+   "1 bebida gratis (agua embotellada, té frío o zumo de fruta de temporada) y aperitivos locales",
+   "Una visita breve para descubrir el encanto de una casa antigua de Hanói",
+   "Sin límite de tiempo, a tu ritmo",
+   "Fotos tomadas durante la sesión, si las pides"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas no especificadas en lo incluido",
+   "Gastos personales",
+   "Comida opcional: coste adicional por persona"
+  ],
+  "shortDescription": "Tour de 1,5 horas en Hanói, que incluye todo el material de bordado, instrucción paso a paso de un artesano local reconocido y intérprete. Operador: Up Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Patrimonio de Hanói: taller de bordado en una casa antigua",
+  "metaDescription": "Tour de 1,5 horas en Hanói. Incluye: todo el material de bordado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "cao-bang-loop-tour-4-days-3-nights-with-a-local-guide-in-hanoi": {
+  "title": "Cao Bang Loop: 4 días y 3 noches con guía local",
+  "fullDescription": "Esta es una experiencia de 4 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye comidas, 1 botella de agua de 500 ml, guía, moto y combustible y habitación privada. No incluye conductor privado: 20 $ por persona y día, coche privado: 50 $ al día, billete de autobús Hanói - Cao Bang: 20 $ por persona y trayecto y propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nCao Bang. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 días",
+   "Comidas (3 desayunos, 4 almuerzos, 3 cenas)",
+   "1 botella de agua de 500 ml",
+   "Guía local, cercano y profesional",
+   "Moto y combustible",
+   "Habitación privada (2 personas por habitación)"
+  ],
+  "included": [
+   "Comidas (3 desayunos, 4 almuerzos, 3 cenas)",
+   "1 botella de agua de 500 ml",
+   "Guía local, cercano y profesional",
+   "Moto y combustible",
+   "Habitación privada (2 personas por habitación)",
+   "Entrada: cascada de Ban Gioc",
+   "Entrada: cueva de Nguom Ngao",
+   "Entrada: montaña del Ojo del Ángel",
+   "Entrada: Cao Bang"
+  ],
+  "notIncluded": [
+   "Conductor privado: 20 $ por persona y día",
+   "Coche privado: 50 $ al día",
+   "Billete de autobús Hanói - Cao Bang: 20 $ por persona y trayecto",
+   "Propinas y gastos personales"
+  ],
+  "shortDescription": "Tour de 4 días en Hanói, que incluye comidas, 1 botella de agua de 500 ml y guía. Operador: LV Travel VietNam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cao Bang Loop: 4 días y 3 noches con guía local",
+  "metaDescription": "Tour de 4 días en Hanói. Incluye: comidas y 1 botella de agua de 500 ml. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "taste-the-best-of-the-old-quarter-with-12-tastings-in-hanoi": {
   "title": "Lo mejor del Barrio Antiguo en más de 12 degustaciones",
   "fullDescription": "Esta es una experiencia de 3,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía local de habla inglesa, más de 12 degustaciones en locales cuidadosamente elegidos, botella de agua gratis y visita a la Train Street con asiento reservado y una. No incluye servicio de recogida y regreso al hotel, propinas y gastos personales y comida y bebidas adicionales no mencionadas en el itinerario, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6295,6 +7141,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tam Coc o Trang An en barca, Hoa Lu y la cueva de Mua",
   "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "ninh-binh-jeep-tour-to-bich-dong-trang-an-mua-cave": {
+  "title": "Ninh Binh en Jeep: Bich Dong, Trang An y la cueva de Mua",
+  "fullDescription": "Esta es una experiencia de 13 horas desde Hanói, centrada en Limusina. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta en limusina de lujo entre Hanói y Ninh, ruta en Jeep militar clásico descapotado, conductor de Jeep local con algo de inglés, botella de agua potable y recorrido por carreteras secundarias entre aldeas. No incluye comida y bebidas personales, gastos personales, billete de barca en Trang An: 300.000 VND por persona y entrada a la cueva de Mua: 150.000 VND por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoan Kiem. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Duración: 13 horas",
+   "Traslado de ida y vuelta en limusina de lujo entre Hanói y Ninh Binh",
+   "Ruta en Jeep militar clásico descapotado",
+   "Conductor de Jeep local con experiencia y algo de inglés",
+   "Botella de agua potable"
+  ],
+  "included": [
+   "Traslado de ida y vuelta en limusina de lujo entre Hanói y Ninh Binh",
+   "Ruta en Jeep militar clásico descapotado",
+   "Conductor de Jeep local con experiencia y algo de inglés",
+   "Botella de agua potable",
+   "Recorrido por carreteras secundarias entre aldeas",
+   "Visita a la pagoda Bich Dong",
+   "Visita al paraje paisajístico de Trang An (billete de barca no incluido)",
+   "Visita a la cueva de Mua (Hang Múa) (entrada para la subida no incluida)"
+  ],
+  "notIncluded": [
+   "Comida y bebidas personales",
+   "Gastos personales",
+   "Billete de barca en Trang An: 300.000 VND por persona",
+   "Entrada a la cueva de Mua: 150.000 VND por persona",
+   "El conductor puede ayudarte a comprar la entrada si eliges visitar cualquiera de las dos opciones"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye traslado de ida y vuelta en limusina de lujo entre Hanói y Ninh, ruta en Jeep militar clásico descapotado y conductor de Jeep local con algo de inglés. Operador: NINH BINH BESTPRICE TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh en Jeep: Bich Dong, Trang An y la cueva de Mua",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "hidden-eats-and-full-meal-street-food-tour-in-the-old-quarter-in-hanoi": {
+  "title": "Barrio Antiguo: locales escondidos y comida callejera completa",
+  "fullDescription": "Esta es una experiencia de 3 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye ruta guiada a pie de 3 horas de comida callejera, guía local experto en gastronomía, una bebida local: café al huevo vietnamita, 1 botella de agua y recogida en el hotel dentro del Barrio Antiguo de Hanói. No incluye gastos personales, propinas para el guía, recogida fuera del Barrio Antiguo y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHồ Hoàn Kiếm, Hoàn Kiếm, Hanói, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Ruta guiada a pie de 3 horas de comida callejera",
+   "Guía local experto en gastronomía",
+   "De 5 a 7 degustaciones auténticas (suficiente para una comida completa)",
+   "Una bebida local: café al huevo vietnamita, cerveza local o zumo de fruta de temporada",
+   "1 botella de agua"
+  ],
+  "included": [
+   "Ruta guiada a pie de 3 horas de comida callejera",
+   "Guía local experto en gastronomía",
+   "De 5 a 7 degustaciones auténticas (suficiente para una comida completa)",
+   "Una bebida local: café al huevo vietnamita, cerveza local o zumo de fruta de temporada",
+   "1 botella de agua",
+   "Recogida en el hotel dentro del Barrio Antiguo de Hanói"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas para el guía (opcionales pero se agradecen)",
+   "Recogida fuera del Barrio Antiguo",
+   "Transporte"
+  ],
+  "shortDescription": "Tour de 3 horas en Hanói, que incluye ruta guiada a pie de 3 horas de comida callejera, guía local experto en gastronomía y una bebida local: café al huevo vietnamita. Operador: Host Visor Expereiences, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Barrio Antiguo: locales escondidos y comida callejera completa",
+  "metaDescription": "Tour de 3 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "water-puppet-show-skip-the-line-entry-ticket-in-hanoi": {
   "title": "Hanói: entrada sin colas para el espectáculo de marionetas de agua",
   "fullDescription": "Esta es una experiencia de 50 minutos en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye incluye entrega de la entrada en tu hotel, entradas reservadas por adelantado para un espectáculo de marionetas de agua y programa del espectáculo en varios idiomas. No incluye audioguía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nLotus Water Puppet Theater. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6340,6 +7247,69 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Hanói, que incluye visita a la prisión de Hoa Lo, visita al antiguo mercado de la época del subsidio y guía local. Operador: ONETRIP WITH LOCAL TRAVEL CO., LTD, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Relatos de la guerra de Vietnam: prisión de Hoa Lo y barrio del subsidio",
   "metaDescription": "Tour de 3 horas en Hanói. Incluye: visita a la prisión de Hoa Lo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator": {
+  "title": "Parapente en Hanói, traslado de ida y vuelta desde la ciudad",
+  "fullDescription": "Esta es una experiencia de 2 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye vuelo en tándem con piloto de 15, vídeo y fotos grabados con GoPro, equipo de seguridad completo, certificado de vuelo y bebidas en la zona de despegue. No incluye gastos personales y comida y aperitivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Vuelo en tándem con piloto de 15 a 20 minutos",
+   "Vídeo y fotos grabados con GoPro",
+   "Equipo de seguridad completo",
+   "Certificado de vuelo",
+   "Bebidas en la zona de despegue"
+  ],
+  "included": [
+   "Vuelo en tándem con piloto de 15 a 20 minutos",
+   "Vídeo y fotos grabados con GoPro",
+   "Equipo de seguridad completo",
+   "Certificado de vuelo",
+   "Bebidas en la zona de despegue",
+   "Cobertura de seguro completa durante todo el vuelo",
+   "Transporte de ida y vuelta desde el centro de Hanói hasta la zona de vuelo (si eliges la opción)",
+   "Transporte hasta la zona de despegue en la montaña (si eliges la opción)",
+   "Sin coste adicional por alargar el vuelo o volar con mascotas",
+   "Sin suplemento por cambiar la fecha del vuelo ni gastos de cancelación si hace mal tiempo"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida y aperitivos"
+  ],
+  "shortDescription": "Tour de 2 horas en Hanói, que incluye vuelo en tándem con piloto de 15, vídeo y fotos grabados con GoPro y equipo de seguridad completo. Operador: Mebayluon Paragliding - Vietnam top leading paragliding operator, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parapente en Hanói, traslado de ida y vuelta desde la ciudad",
+  "metaDescription": "Tour de 2 horas en Hanói. Incluye: vuelo en tándem con piloto de 15. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "private-3-day-cao-bang-ban-gioc-and-ba-be-journey-in-hanoi": {
+  "title": "Cao Bang, Ban Gioc y Ba Be: 3 días en privado",
+  "fullDescription": "Esta es una experiencia de 3 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye vehículo privado con aire acondicionado durante 3 días, guía privado, conductor, recogida y regreso al hotel en Hanói y alojamiento para 2 noches. No incluye propinas para el guía y el conductor, suplemento de habitación individual y suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Enni tour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Vehículo privado con aire acondicionado durante 3 días",
+   "Guía privado de habla inglesa (suplemento por guía en otro idioma)",
+   "Conductor profesional",
+   "Recogida y regreso al hotel en Hanói",
+   "Alojamiento para 2 noches"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado durante 3 días",
+   "Guía privado de habla inglesa (suplemento por guía en otro idioma)",
+   "Conductor profesional",
+   "Recogida y regreso al hotel en Hanói",
+   "Alojamiento para 2 noches",
+   "Las comidas indicadas en el itinerario",
+   "Entradas a las atracciones indicadas",
+   "Paseo en barca privada por el lago Ba Be",
+   "Agua embotellada durante el traslado",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el conductor",
+   "Suplemento de habitación individual, si corresponde",
+   "Suplemento por festivos, si corresponde"
+  ],
+  "shortDescription": "Tour de 3 días en Hanói, que incluye vehículo privado con aire acondicionado durante 3 días, guía privado y conductor. Operador: Enni tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cao Bang, Ban Gioc y Ba Be: 3 días en privado",
+  "metaDescription": "Tour de 3 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "embark-on-a-cyclo-city-view-tour-in-hanoi": {
   "title": "Hanói: vuelta por la ciudad en ciclo",
@@ -6481,6 +7451,40 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Barrio Antiguo: mercado, clase de cocina y comida",
   "metaDescription": "Tour en Hanói. Incluye: bebida de bienvenida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sonla-quynh-nhai-ecotourism-and-da-river-3-day-private-tour-in-hanoi": {
+  "title": "Son La: ecoturismo en Quynh Nhai y río Da, 3 días en privado",
+  "fullDescription": "Esta es una experiencia de 3 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye 1. Autobús cama de ida y vuelta de Hanói a Son La, 2. El paquete incluye el transporte en coche según el itinerario, 3. Alojamiento en un hotel moderno con vistas al río, 4. Comidas según el itinerario y 5. Guía de habla inglesa. No incluye 1. Gastos de teléfono y lavandería, 2. Otros gastos personales y 3. Propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHanoi Opera House. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "1. Autobús cama de ida y vuelta de Hanói a Son La",
+   "2. El paquete incluye el transporte en coche según el itinerario",
+   "3. Alojamiento en un hotel moderno con vistas al río",
+   "4. Comidas según el itinerario",
+   "5. Guía de habla inglesa"
+  ],
+  "included": [
+   "1. Autobús cama de ida y vuelta de Hanói a Son La",
+   "2. El paquete incluye el transporte en coche según el itinerario",
+   "3. Alojamiento en un hotel moderno con vistas al río",
+   "4. Comidas según el itinerario",
+   "5. Guía de habla inglesa",
+   "6. Entradas a las atracciones",
+   "7. Paseo en barca por el río Da",
+   "8. Seguro de viaje",
+   "9. Otros gastos: bebidas, recuerdos, sombreros, medicinas, etc.",
+   "No incluido:",
+   "1. Gastos de teléfono y lavandería",
+   "2. Otros gastos personales"
+  ],
+  "notIncluded": [
+   "1. Gastos de teléfono y lavandería",
+   "2. Otros gastos personales",
+   "3. Propinas para el guía y el conductor"
+  ],
+  "shortDescription": "Tour de 3 días en Hanói, que incluye 1. Autobús cama de ida y vuelta de Hanói a Son La, 2. El paquete incluye el transporte en coche según el itinerario y 3. Alojamiento en un hotel moderno con vistas al río. Operador: GLOBAL GROUP DEVELOPMENT JOINT STOCK COMPANY, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Son La: ecoturismo en Quynh Nhai y río Da, 3 días en privado",
+  "metaDescription": "Tour de 3 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "tam-chuc-biggest-pagoda-and-boat-or-duyen-ninh-pagoda-in-hanoi": {
   "title": "Hanói: pagoda de Tam Chuc, la más grande, en barca, y pagoda Duyen Ninh",
   "fullDescription": "Esta es una experiencia de 8 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye visita a la pagoda Duyen Ninh, descubrir la arquitectura antigua, disfrutar del ambiente tranquilo, guía y coche. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6505,6 +7509,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Hanói, que incluye visita a la pagoda Duyen Ninh, descubrir la arquitectura antigua y disfrutar del ambiente tranquilo. Operador: Hands On Tour Vietnam, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: pagoda de Tam Chuc, la más grande, en barca, y pagoda Duyen Ninh",
   "metaDescription": "Tour de día completo en Hanói. Incluye: visita a la pagoda Duyen Ninh. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "silver-jewelry-making-workshop-in-hanoi": {
+  "title": "Hanói: taller de joyería en plata",
+  "fullDescription": "Esta es una experiencia de 3 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye incluido, peso máximo del anillo: 4 gramos por pieza, todas las herramientas y materiales necesarios para hacer tu anillo, acompañamiento de instructores de habla inglesa y y espacio de trabajo individual para cada participante. No incluye no incluido, coste adicional por anillos que superen los 4 gramos y servicio de baño de oro, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Incluido",
+   "Peso máximo del anillo: 4 gramos por pieza",
+   "Todas las herramientas y materiales necesarios para hacer tu anillo",
+   "Acompañamiento de instructores de habla inglesa y orfebres expertos",
+   "Espacio de trabajo individual para cada participante"
+  ],
+  "included": [
+   "Incluido:",
+   "Peso máximo del anillo: 4 gramos por pieza",
+   "Todas las herramientas y materiales necesarios para hacer tu anillo",
+   "Acompañamiento de instructores de habla inglesa y orfebres expertos",
+   "Espacio de trabajo individual para cada participante",
+   "Fotos para tener un recuerdo del taller"
+  ],
+  "notIncluded": [
+   "No incluido:",
+   "Coste adicional por anillos que superen los 4 gramos",
+   "Servicio de baño de oro (a petición y con coste adicional)"
+  ],
+  "shortDescription": "Tour de 3 horas en Hanói, que incluye incluido, peso máximo del anillo: 4 gramos por pieza y todas las herramientas y materiales necesarios para hacer tu anillo. Operador: Vietnamtravelers, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: taller de joyería en plata",
+  "metaDescription": "Tour de 3 horas en Hanói. Incluye: incluido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "hanoi-jeep-food-tour-michelin-guide-eats-and-hidden-gems-by-local-operator": {
   "title": "Hanói en Jeep: direcciones de la guía Michelin y rincones escondidos",
@@ -6638,6 +7670,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Hanói, con Baños termales. Operador: Arcady Group Travel, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Barrio Antiguo de Hanói: baño de cerveza y masaje, 75 minutos",
   "metaDescription": "Tour en Hanói. Incluye: paquete de baño de cerveza y masaje de 75 minutos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "michelin-guide-food-tour-with-old-quarter-walk-in-hanoi": {
+  "title": "Direcciones de la guía Michelin y paseo por el Barrio Antiguo",
+  "fullDescription": "Esta es una experiencia de 2 horas en Hanói, centrada en Barrio Antiguo de Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye guía en inglés, visita a pie por el Barrio Antiguo, degustación de pho seco, degustación de banh xeo y degustación de bún chả. No incluye propinas para el guía, recogida y regreso, bebidas no mencionadas más arriba y bebida adicional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n83 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hanói, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Barrio Antiguo de Hanói",
+   "Duración: 2 horas",
+   "Guía profesional de habla inglesa",
+   "Visita a pie por el Barrio Antiguo",
+   "Degustación de pho seco",
+   "Degustación de banh xeo"
+  ],
+  "included": [
+   "Guía profesional de habla inglesa",
+   "Visita a pie por el Barrio Antiguo",
+   "Degustación de pho seco",
+   "Degustación de banh xeo",
+   "Degustación de bún chả",
+   "1 botella de agua",
+   "Si eliges la opción 2 o 4: postre local y café al huevo",
+   "Si eliges la opción 3 o 5: postre local y visita a la Train Street (1 cerveza, café o batido)"
+  ],
+  "notIncluded": [
+   "Propinas para el guía",
+   "Recogida y regreso",
+   "Bebidas no mencionadas más arriba",
+   "Bebida adicional",
+   "Postre, café o Train Street si eliges la opción 1"
+  ],
+  "shortDescription": "Tour de 2 horas en Hanói, con Barrio Antiguo de Hanói. Operador: VIETNAM TRIP 24h, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Direcciones de la guía Michelin y paseo por el Barrio Antiguo",
+  "metaDescription": "Tour de 2 horas en Hanói. Incluye: guía en inglés. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "mai-chau-valley-day-trip-with-lunch-and-cycling": {
   "title": "Valle de Mai Chau: día completo con comida y bicicleta",
@@ -6845,6 +7909,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ninh Binh: Hoa Lu, Tam Coc y la cueva de Mua en un día",
   "metaDescription": "Tour de día completo en Hanói. Incluye: guía y paseo en barca por Tam Coc. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "cuc-phuong-park-jungle-hike-day-tour-small-group-in-hanoi": {
+  "title": "Parque de Cuc Phuong: caminata por la jungla, día completo en grupo reducido",
+  "fullDescription": "Esta es una experiencia de 9 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye recogida y regreso al hotel, furgoneta de lujo con aire acondicionado, guía, botella de agua y visita al centro de rescate de primates en peligro. No incluye gastos personales, comida en un restaurante local dentro del parque, a la carta o, el paquete de entrada al parque nacional de Cúc Phương y el guía te ayuda a conseguir la entrada y a reservar para, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoa Lư. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 9 horas",
+   "Recogida y regreso al hotel",
+   "Furgoneta de lujo con aire acondicionado",
+   "Guía",
+   "Botella de agua",
+   "Visita al centro de rescate de primates en peligro"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Furgoneta de lujo con aire acondicionado",
+   "Guía",
+   "Botella de agua",
+   "Visita al centro de rescate de primates en peligro",
+   "Visita a la cueva del Hombre Antiguo",
+   "Caminata llana de 5 km por la jungla",
+   "Visita al árbol milenario"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida en un restaurante local dentro del parque, a la carta o 150.000 VND por el menú.",
+   "El paquete de entrada al parque nacional de Cúc Phương cuesta 150.000 VND por persona.",
+   "El guía te ayuda a conseguir la entrada y a reservar la comida"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel, furgoneta de lujo con aire acondicionado y guía. Operador: NINH BINH FOOTPRINT TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parque de Cuc Phuong: caminata por la jungla, día completo en grupo reducido",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "hanoi-by-night-foodie-motorbike-tour-led-by-women-by-local-operator": {
   "title": "Hanói de noche: ruta gastronómica en moto guiada por mujeres",
   "fullDescription": "Esta es una experiencia de 4 horas en Hanói, centrada en Barrio Antiguo de Hanói, Ngu Xa y Distrito de Ba Dinh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye ruta en moto guiada por mujeres, visita a locales de comida de la zona, degustación de cocina vietnamita auténtica, visita al Barrio Antiguo y al barrio francés de Hanói y visita a la legendaria Train Street. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHanói. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7048,6 +8143,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: tour por la ciudad en moto",
   "metaDescription": "Tour en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "wildlife-jungle-hike-cuc-phuong-park-guide-tour-in-hanoi": {
+  "title": "Parque de Cuc Phuong: fauna y caminata guiada por la jungla",
+  "fullDescription": "Esta es una experiencia de 9 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye recogida y regreso al hotel, agua en la furgoneta, experiencia en grupo reducido, senderismo por el parque nacional de Cuc Phuong y visita al centro de rescate de primates en peligro. No incluye gastos personales, comida en un restaurante local dentro del parque, a la carta o, el paquete de entrada al parque nacional de Cúc Phương y el guía te ayuda a conseguir la entrada y a reservar para, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. NINH BINH FOOTPRINT TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 9 horas",
+   "Recogida y regreso al hotel",
+   "Agua en la furgoneta",
+   "Experiencia en grupo reducido",
+   "Senderismo por el parque nacional de Cuc Phuong",
+   "Visita al centro de rescate de primates en peligro"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Agua en la furgoneta",
+   "Experiencia en grupo reducido",
+   "Senderismo por el parque nacional de Cuc Phuong",
+   "Visita al centro de rescate de primates en peligro",
+   "Trekking guiado hasta la cueva del Hombre Antiguo y el árbol milenario"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida en un restaurante local dentro del parque, a la carta o 150.000 VND por el menú.",
+   "El paquete de entrada al parque nacional de Cúc Phương cuesta 150.000 VND por persona.",
+   "El guía te ayuda a conseguir la entrada y a reservar la comida"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel, agua en la furgoneta y experiencia en grupo reducido. Operador: NINH BINH FOOTPRINT TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parque de Cuc Phuong: fauna y caminata guiada por la jungla",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "hands-on-knife-making-workshop-with-master-blacksmith-in-hanoi": {
   "title": "Hanói: taller práctico de forja de cuchillos con un maestro herrero",
   "fullDescription": "Esta es una experiencia de 2,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye taller práctico de fabricación de cuchillos, todos los materiales y herramientas, instrucción y acompañamiento directo de un maestro herrero, el cuchillo artesanal que has hecho, para llevártelo y agua embotellada. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7071,6 +8195,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2,5 horas en Hanói, que incluye taller práctico de fabricación de cuchillos, todos los materiales y herramientas y instrucción y acompañamiento directo de un maestro herrero. Operador: Hoang Bich Phuong, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: taller práctico de forja de cuchillos con un maestro herrero",
   "metaDescription": "Tour de 2,5 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "trang-an-tam-coc-mua-cave-hoa-lu-day-tour": {
+  "title": "Trang An o Tam Coc, la cueva de Mua y Hoa Lu en un día",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Autobús/autocar, Hoa Lu y Tam Coc. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nSe ofrece recogida desde 3b P. Lê Thái Tổ, Ninh Binh Legend Hotel, 92 Đ. Lê Duẩn, Tropical Homestay, Yen Nhi Hotel Ninh Binh y 80 P. Hàng Quạt; el lugar y la hora exactos se acuerdan con Asian Discovery Travel una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso en autobús con aire acondicionado, paseo en barca por Tam Coc o Trang An, entradas, guía turístico y comer en el restaurante. No incluye bebidas, seguro de viaje, suplemento por la opción Trang An 5 $ por persona y Año Nuevo Lunar y propinas, gastos personales y todo lo que no se mencione en, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Asian Discovery Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Hoa Lu",
+   "Tam Coc",
+   "Cuevas de Mua",
+   "Duración: día completo",
+   "Recogida y regreso en autobús con aire acondicionado"
+  ],
+  "included": [
+   "Recogida y regreso en autobús con aire acondicionado",
+   "Paseo en barca por Tam Coc o Trang An",
+   "Entradas (según el itinerario)",
+   "Guía de habla inglesa",
+   "Comer en el restaurante",
+   "2 botellas de agua mineral por persona",
+   "1 sombrero cónico o chubasquero (según el tiempo)",
+   "Visita en bicicleta a las aldeas de Ninh Binh",
+   "Alquiler de bicicleta"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Seguro de viaje e impuestos",
+   "Suplemento por la opción Trang An 5 $ por persona y Año Nuevo Lunar 5 $ por persona",
+   "Propinas, gastos personales y todo lo que no se mencione en lo incluido"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Hoa Lu, Tam Coc y Cuevas de Mua. Operador: Asian Discovery Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Trang An o Tam Coc, la cueva de Mua y Hoa Lu en un día",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "private-half-day-city-highlights-and-hidden-gems-tour-in-hanoi": {
   "title": "Hanói: media jornada privada por lo imprescindible y rincones escondidos",
@@ -7266,6 +8422,64 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Guerra de Vietnam: las historias no contadas de Hanói",
   "metaDescription": "Tour de 3 horas en Hanói. Incluye: relatos de vecinos durante la guerra. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "hanoi-city-highlights-walking-tour-landmarks-and-history-by-local-operator": {
+  "title": "Hanói a pie: lo imprescindible, monumentos e historia",
+  "fullDescription": "Esta es una experiencia de 7 horas en Hanói, centrada en Templo Quan Thanh, Asamblea Nacional de Vietnam y Mausoleo de Ho Chi Minh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHanói tiene mil años y es a la vez una capital colonial francesa, las dos cosas al mismo tiempo: las 36 calles del Barrio Antiguo, cada una con el nombre del gremio que comerciaba allí, el lago de la Espada Restituida en su centro, el Templo de la Literatura de 1070, el mausoleo donde yace expuesto Ho Chi Minh (solo por las mañanas, cerrado lunes y viernes y dos meses cada otoño) y el barrio francés arbolado, de villas y Ópera. Los cafés de la Train Street, donde el tren pasa a un metro de las mesas, abren y cierran según cambian de opinión las autoridades. El café al huevo se inventó aquí en 1946, el bun cha es la comida y el teatro de marionetas de agua junto al lago es el plan de la noche. Hanói está fresca y gris de diciembre a febrero y calurosa de mayo a septiembre; octubre y noviembre son los meses.\n\nEl precio incluye guía local, agua fría embotellada, bebidas incluidas, aperitivos vietnamitas incluidos: crocante de cacahuete, patatas y chubasquero. No incluye bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Johnson Excursions Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Templo Quan Thanh",
+   "Asamblea Nacional de Vietnam",
+   "Mausoleo de Ho Chi Minh",
+   "Pagoda del Pilar Único",
+   "Duración: 7 horas",
+   "Guía local con experiencia"
+  ],
+  "included": [
+   "Guía local con experiencia",
+   "Agua fría embotellada",
+   "Bebidas incluidas: cerveza, Coca-Cola, Fanta, agua con gas, zumo de naranja, té, etc.",
+   "Aperitivos vietnamitas incluidos: crocante de cacahuete, patatas fritas, snacks de queso y snacks de arroz",
+   "Chubasquero",
+   "Recogida y regreso (excepto en la opción de grupo reducido)",
+   "Visita a lugares emblemáticos e históricos"
+  ],
+  "notIncluded": [
+   "Bebidas (opcionales)"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Templo Quan Thanh, Asamblea Nacional de Vietnam y Mausoleo de Ho Chi Minh. Operador: Johnson Excursions Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói a pie: lo imprescindible, monumentos e historia",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: guía local y agua fría embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ninh-binh-hoa-lu-trang-an-boat-ride-and-mua-cave-tour": {
+  "title": "Ninh Binh: Hoa Lu, paseo en barca por Trang An y la cueva de Mua",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Limusina. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Hoàn Kiếm Lake y Hoan Kiem; el lugar y la hora exactos se acuerdan con Real Vietnam Travel Company una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye guía, todas las entradas y el paseo en barca por Trang An, disfrutar de un breve, la recogida y el regreso en el Barrio Antiguo de Hanói se hacen en y agua mineral en el autobús. No incluye bebidas, propinas y gastos personales y todo lo que no se mencione en lo incluido, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Real Vietnam Travel Company confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Duración: día completo",
+   "Guía de habla inglesa",
+   "Todas las entradas y el paseo en barca por Trang An (Hoa Lu, Trang An y la cueva de Mua)",
+   "Disfrutar de un breve y tranquilo paseo en bicicleta por el campo",
+   "La recogida y el regreso en el Barrio Antiguo de Hanói se hacen en Dcar, autobús limusina o lanzadera, según la opción elegida"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Todas las entradas y el paseo en barca por Trang An (Hoa Lu, Trang An y la cueva de Mua)",
+   "Disfrutar de un breve y tranquilo paseo en bicicleta por el campo",
+   "La recogida y el regreso en el Barrio Antiguo de Hanói se hacen en Dcar, autobús limusina o lanzadera, según la opción elegida",
+   "Agua mineral en el autobús",
+   "Comida vietnamita en un restaurante local",
+   "Con opciones de comida vegetariana y sin gluten",
+   "Uso gratuito de sombreros y chubasqueros durante el recorrido",
+   "Espacio para el equipaje en la bodega del autobús"
+  ],
+  "notIncluded": [
+   "Bebidas, seguro de viaje",
+   "Propinas (opcionales, para las remeras locales y el personal del tour)",
+   "Gastos personales y todo lo que no se mencione en lo incluido"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye guía, todas las entradas y el paseo en barca por Trang An y disfrutar de un breve. Operador: Real Vietnam Travel Company, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: Hoa Lu, paseo en barca por Trang An y la cueva de Mua",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "hoa-lu-trang-an-and-mua-cave-day-trip": {
   "title": "Hoa Lu, Trang An y la cueva de Mua en un día",
   "fullDescription": "Esta es una experiencia desde Hanói, centrada en Hoa Lu, Trang An y Cuevas de Mua. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Tràng An, Hanói, Hoa Lư y Hoa Lư District; el lugar y la hora exactos se acuerdan con HKTRAVEL una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso, guía, comida de cocina vietnamita, uso gratuito de sombrero y paraguas y entrada y billete de barca en Trang An. No incluye bebidas de la comida, propinas para el guía y el conductor y o cualquier cosa que no se mencione más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7376,6 +8590,194 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: tour urbano de un día en grupo con comida y guía",
   "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "ninh-binh-bike-and-boat-tour-hang-mua-tam-coc-and-bich-dong-hanoi": {
+  "title": "Ninh Binh en bici y en barca: Hang Mua, Tam Coc y Bich Dong (Hanói)",
+  "fullDescription": "Esta es una experiencia de 8,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nSe ofrece recogida desde Ninh Nhất, Ninh Hải y Ninh Bình; el lugar y la hora exactos se acuerdan con NINH BINH AUTHENTIC TRAVEL una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso al hotel en coche, guía, bicicleta y casco, comida vietnamita en un restaurante local y agua embotellada durante el tour. No incluye entradas, Hang Mua: 150.000 VND por persona, paseo en barca por Tam Coc: 300.000 VND por persona y Templo Thai Vy: gratis, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. NINH BINH AUTHENTIC TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 8,5 horas",
+   "Recogida y regreso al hotel en coche (Ninh Binh, Tam Coc o Trang An)",
+   "Guía de habla inglesa",
+   "Bicicleta y casco",
+   "Comida vietnamita en un restaurante local",
+   "Agua embotellada durante el tour"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en coche (Ninh Binh, Tam Coc o Trang An)",
+   "Guía de habla inglesa",
+   "Bicicleta y casco",
+   "Comida vietnamita en un restaurante local",
+   "Agua embotellada durante el tour",
+   "Visita a la cueva de Mua",
+   "Visita al templo Thai Vi",
+   "Visita a la pagoda Bich Dong",
+   "Visita a Tam Coc en barca"
+  ],
+  "notIncluded": [
+   "Entradas (se pagan directamente a nuestro guía, que te ayuda a comprarlas):",
+   "Hang Mua: 150.000 VND por persona",
+   "Paseo en barca por Tam Coc: 300.000 VND por persona",
+   "Templo Thai Vy: gratis",
+   "Pagoda Bich Dong: gratis",
+   "Gastos personales",
+   "Propinas para el guía o el conductor"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel en coche, guía y bicicleta y casco. Operador: NINH BINH AUTHENTIC TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh en bici y en barca: Hang Mua, Tam Coc y Bich Dong (Hanói)",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: recogida y regreso al hotel en coche. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ninh-binh-highlights-small-group-by-limousine-dcar-9-seats-hanoi": {
+  "title": "Ninh Binh: lo imprescindible en grupo reducido, limusina DCAR de 9 plazas (Hanói)",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Limusina y Provincia de Ninh Binh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nEl precio incluye transporte de ida y vuelta en limusina de lujo DCAR, recogida y regreso al hotel en el Barrio Antiguo de Hanói, guía turístico, entradas a todos los lugares del itinerario y paseo en sampán por Tam Coc. No incluye bebidas durante la comida, propinas para el guía y el conductor, seguro de viaje y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHanói. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Limusina",
+   "Provincia de Ninh Binh",
+   "Duración: día completo",
+   "Transporte de ida y vuelta en limusina de lujo DCAR (9 plazas)",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Guía turístico de habla inglesa"
+  ],
+  "included": [
+   "Transporte de ida y vuelta en limusina de lujo DCAR (9 plazas)",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Guía turístico de habla inglesa",
+   "Entradas a todos los lugares del itinerario",
+   "Paseo en sampán por Tam Coc",
+   "Comida bufé con platos vietnamitas (con opciones vegetarianas)",
+   "1 botella de agua durante el tour"
+  ],
+  "notIncluded": [
+   "Bebidas durante la comida",
+   "Propinas para el guía y el conductor",
+   "Seguro de viaje",
+   "Gastos personales",
+   "Recogida en el hotel o alojamiento fuera del Barrio Antiguo de Hanói"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Provincia de Ninh Binh. Operador: Nest Asia Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: lo imprescindible en grupo reducido, limusina DCAR de 9 plazas (Hanói)",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ninh-binh-trang-an-hoa-lu-and-incense-village": {
+  "title": "Ninh Binh: Trang An, Hoa Lu y la aldea del incienso",
+  "fullDescription": "Esta es una experiencia de día completo en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel en Hanói, guía, todas las entradas, paseo en sampán por Tam Coc o Trang An y comida vietnamita. No incluye bebidas, propinas para el guía y la remera y suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Enni tour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: día completo",
+   "Recogida y regreso al hotel en Hanói (zonas seleccionadas)",
+   "Guía de habla inglesa (suplemento para otros idiomas)",
+   "Todas las entradas (aldea del incienso, Hoa Lu, Tam Coc o Trang An)",
+   "Paseo en sampán por Tam Coc o Trang An",
+   "Comida vietnamita local"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Hanói (zonas seleccionadas)",
+   "Guía de habla inglesa (suplemento para otros idiomas)",
+   "Todas las entradas (aldea del incienso, Hoa Lu, Tam Coc o Trang An)",
+   "Paseo en sampán por Tam Coc o Trang An",
+   "Comida vietnamita local",
+   "Transporte con aire acondicionado",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Bebidas (en el restaurante y por el camino)",
+   "Propinas para el guía y la remera (opcionales)",
+   "Suplemento por festivos en Vietnam"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel en Hanói, guía y todas las entradas. Operador: Enni tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: Trang An, Hoa Lu y la aldea del incienso",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: recogida y regreso al hotel en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hoa-lu-tam-coc-mua-cave-and-cycling-in-ninh-binh": {
+  "title": "Hoa Lu, Tam Coc, la cueva de Mua y bicicleta en Ninh Binh",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Autobús/autocar, Antigua capital de Hoa Lu y Hoa Lu. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nEl precio incluye recogida y regreso a tu hotel en el Barrio Antiguo de Hanói, ida y vuelta desde Hanói, comida bufé de cocina vietnamita, bicicleta para el recorrido y paseo en barca por Tam Coc. No incluye impuestos y gastos personales, seguro de viaje, bebida de la comida y propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoàn Kiếm. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Antigua capital de Hoa Lu",
+   "Hoa Lu",
+   "Tam Coc",
+   "Duración: día completo",
+   "Recogida y regreso a tu hotel en el Barrio Antiguo de Hanói"
+  ],
+  "included": [
+   "Recogida y regreso a tu hotel en el Barrio Antiguo de Hanói",
+   "Traslado en autobús de ida y vuelta Hanói - Ninh Binh y transporte durante el recorrido",
+   "Comida bufé de cocina vietnamita",
+   "Bicicleta para el recorrido",
+   "Paseo en barca por Tam Coc",
+   "Entradas a todos los lugares indicados",
+   "Guía de habla inglesa",
+   "Una botella de agua en el autobús"
+  ],
+  "notIncluded": [
+   "Impuestos y gastos personales",
+   "Seguro de viaje",
+   "Bebida de la comida",
+   "Propinas para el guía y el conductor",
+   "Todo lo que no se menciona en lo incluido",
+   "Suplemento que aplica el operador durante las fiestas nacionales"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Antigua capital de Hoa Lu, Hoa Lu y Tam Coc. Operador: TripBestie, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hoa Lu, Tam Coc, la cueva de Mua y bicicleta en Ninh Binh",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "bai-dinh-pagoda-and-trang-an-day-trip": {
+  "title": "Pagoda Bai Dinh y Trang An: excursión de un día",
+  "fullDescription": "Esta es una experiencia de día completo desde Hanói, centrada en Autobús/autocar, Templo de Bai Dinh y Restaurante local. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte en autobús o autocar con aire acondicionado y en coche, guía, comida para llevar, paseo en barca para visitar Trang An y entradas a la pagoda Bai Dinh y al área ecoturística de Trang An. No incluye factura con impuestos, coche eléctrico en Bái Đính, bebida y visado, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNhà hát Lớn Hà Nội. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Templo de Bai Dinh",
+   "Restaurante local",
+   "Trang An",
+   "Duración: día completo",
+   "Transporte en autobús o autocar con aire acondicionado y en coche"
+  ],
+  "included": [
+   "Transporte en autobús o autocar con aire acondicionado y en coche",
+   "Guía de habla inglesa",
+   "Comida para llevar",
+   "Paseo en barca para visitar Trang An",
+   "Entradas a la pagoda Bai Dinh y al área ecoturística de Trang An"
+  ],
+  "notIncluded": [
+   "Factura con impuestos",
+   "Coche eléctrico en Bái Đính",
+   "Bebida",
+   "Visado",
+   "Seguro",
+   "Gastos personales y propinas",
+   "Propinas para el guía y el conductor"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Templo de Bai Dinh, Restaurante local y Trang An. Operador: HELEN, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Pagoda Bai Dinh y Trang An: excursión de un día",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ninh-binh-2-day-1-night-all-highlights-bungalow-hotel": {
+  "title": "Ninh Binh: todo lo imprescindible en 2 días y 1 noche, bungaló u hotel",
+  "fullDescription": "Esta es una experiencia de 36 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNinh Binh, dos horas al sur de Hanói, es el mismo karst calcáreo que la bahía de Ha Long pero levantado entre arrozales en lugar de mar, de ahí que la llamen la Ha Long terrestre. Trang An es el conjunto declarado por la UNESCO, que se recorre a remo en sampán en un circuito de dos o tres horas por una sucesión de cuevas y templos, casi sin ruido de motor; Tam Coc es el paseo más antiguo y más corto entre los campos, en su mejor momento a finales de mayo, cuando el arroz está dorado. Hoa Lu fue la capital de Vietnam en el siglo X y conserva dos templos dinásticos; la cueva de Mua son 500 escalones hasta el mirador del dragón sobre todo el valle; Bai Dinh es el mayor complejo budista del país. Las excursiones de un día desde Hanói cubren dos o tres de estos sitios; las remeras esperan propina, y el trayecto en bicicleta entre lugares es lo mejor del día.\n\nEl precio incluye 1. Todos los traslados en autobús, 2. Guía de habla inglesa, 3. Agua y toallitas húmedas en el coche, 4. Todas las comidas y 5. Actividad en bicicleta. No incluye 1. Bebidas de la comida, 2. Propinas para el guía y el conductor y 3. O cualquier cosa que no se mencione más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 36 horas",
+   "1. Todos los traslados en autobús",
+   "2. Guía de habla inglesa",
+   "3. Agua y toallitas húmedas en el coche",
+   "4. Todas las comidas (1 desayuno, 2 comidas bufé, 1 cena)",
+   "5. Actividad en bicicleta"
+  ],
+  "included": [
+   "1. Todos los traslados en autobús",
+   "2. Guía de habla inglesa",
+   "3. Agua y toallitas húmedas en el coche",
+   "4. Todas las comidas (1 desayuno, 2 comidas bufé, 1 cena)",
+   "5. Actividad en bicicleta",
+   "6. Entrada",
+   "7. 1 noche en hotel o bungaló"
+  ],
+  "notIncluded": [
+   "1. Bebidas de la comida",
+   "2. Propinas para el guía y el conductor",
+   "3. O cualquier cosa que no se mencione más arriba"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye 1. Todos los traslados en autobús, 2. Guía de habla inglesa y 3. Agua y toallitas húmedas en el coche. Operador: Cozy Vietnam Travel Company Limited, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: todo lo imprescindible en 2 días y 1 noche, bungaló u hotel",
+  "metaDescription": "Tour de 2 días en Hanói. Incluye: 1. Todos los traslados en autobús. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "ninh-binh-hoa-lu-trang-an-tam-coc-and-mua-cave-tour": {
   "title": "Ninh Binh: Hoa Lu, Trang An o Tam Coc y la cueva de Mua",
   "fullDescription": "Esta es una experiencia de 12 horas desde Hanói, centrada en Autobús/autocar, Antigua capital de Hoa Lu y Hoa Lu. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, traslado en lanzadera desde el Barrio Antiguo de Hanói, agua mineral gratis en el autobús, comida vietnamita en un restaurante local y con opciones vegetarianas y sin gluten. No incluye bebidas, desayuno y cena, propinas para el guía y el conductor y gastos personales y otros servicios no mencionados en, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoàn Kiếm Lake. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7432,6 +8834,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói y Ninh Binh: lo imprescindible en 2 días",
   "metaDescription": "Tour de 2 días en Hanói. Incluye: recogida y regreso al hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "small-group-tour-2-day-1-night-from-hanoi-to-ninh-binh-trang-an": {
+  "title": "Grupo reducido, 2 días y 1 noche: de Hanói a Ninh Binh y Trang An",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "- Autobús lanzadera",
+   "- 1 noche en homestay, en habitación doble o triple según el número de participantes",
+   "- 3 comidas principales y 1 desayuno",
+   "- Entradas",
+   "- Guía atento y entusiasta según el programa"
+  ],
+  "included": [
+   "- Autobús lanzadera",
+   "- 1 noche en homestay, en habitación doble o triple según el número de participantes",
+   "- 3 comidas principales y 1 desayuno",
+   "- Entradas",
+   "- Guía atento y entusiasta según el programa",
+   "- 1 botella de agua al día en el autobús"
+  ],
+  "notIncluded": [
+   "Impuesto del 10 %",
+   "- Coche eléctrico en Bai Dinh: 60.000 VND por persona",
+   "- Cada adulto solo puede llevar 1 niño menor de 5 años; a partir del segundo niño se cobra el 50 % por cada uno",
+   "- Bebidas en el restaurante, en las habitaciones y otros gastos personales",
+   "- Seguro de viaje y gastos de visitas fuera del programa",
+   "- Propina para el guía y el conductor"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói. Operador: Hanoi Foodie Trip, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Grupo reducido, 2 días y 1 noche: de Hanói a Ninh Binh y Trang An",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "yen-tu-sacred-mountain-day-trip-with-cable-car-in-hanoi": {
   "title": "Montaña sagrada de Yen Tu: día completo con teleférico",
   "fullDescription": "Esta es una experiencia de 11 horas desde Hanói, centrada en Limusina. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, guía de habla inglesa o coreana, billetes de teleférico, visita al monasterio zen de Truc Lam y visita a la pagoda Hoa Yen. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHàng Đào. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7461,6 +8894,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Hanói, que incluye recogida y regreso al hotel, guía de habla inglesa o coreana y billetes de teleférico. Operador: KoViet Travel - 코비엣트래블, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Montaña sagrada de Yen Tu: día completo con teleférico",
   "metaDescription": "Tour de día completo en Hanói. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "premium-2-3-day-sapa-adventure-with-dcar-limousine": {
+  "title": "Sapa en 2 o 3 días, versión premium en limusina DCAR",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida en el hotel del Barrio Antiguo de Hanói, transporte en limusina, 1 o 2 noches de alojamiento, entradas a todas las atracciones que figuran en el itinerario y guía local. No incluye acceso al teleférico del Fansipan y se aplica suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. SST Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Recogida en el hotel del Barrio Antiguo de Hanói (excepto en los paquetes que salen de Sapa)",
+   "Transporte en limusina",
+   "1 o 2 noches de alojamiento (según la opción elegida)",
+   "Entradas a todas las atracciones que figuran en el itinerario",
+   "Guía local de habla inglesa"
+  ],
+  "included": [
+   "Recogida en el hotel del Barrio Antiguo de Hanói (excepto en los paquetes que salen de Sapa)",
+   "Transporte en limusina",
+   "1 o 2 noches de alojamiento (según la opción elegida)",
+   "Entradas a todas las atracciones que figuran en el itinerario",
+   "Guía local de habla inglesa",
+   "1 desayuno y 2 comidas (si eliges la opción de 2 días)",
+   "2 desayunos y 3 comidas (si eliges la opción de 3 días)",
+   "Agua potable embotellada",
+   "Toallitas húmedas"
+  ],
+  "notIncluded": [
+   "Acceso al teleférico del Fansipan",
+   "Se aplica suplemento por festivos (consulta la información importante)"
+  ],
+  "shortDescription": "Tour de 3 días en Hanói, que incluye recogida en el hotel del Barrio Antiguo de Hanói, transporte en limusina y 1 o 2 noches de alojamiento. Operador: SST Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa en 2 o 3 días, versión premium en limusina DCAR",
+  "metaDescription": "Tour de 3 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "transfer-to-or-from-sapa-by-a-vip-sleeper-bus": {
   "title": "Traslado a o desde Sapa en autobús cama VIP",
@@ -7508,6 +8971,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Hanói, que incluye lo que incluye, agua embotellada y guía. Operador: Vietnamtravelers, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: ruta en moto por el campo",
   "metaDescription": "Tour de medio día en Hanói. Incluye: lo que incluye, agua embotellada y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "guided-half-day-city-highlights-tour-with-transfers-in-hanoi": {
+  "title": "Hanói: media jornada guiada por lo imprescindible, con traslados",
+  "fullDescription": "Esta es una experiencia de 4 horas en Hanói, centrada en Mausoleo de Ho Chi Minh, Pagoda Tran Quoc y Templo de la Literatura. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, traslados en vehículo con aire acondicionado, recogida y regreso al hotel, entradas y tasas de visita y todos los impuestos y servicios. No incluye otras bebidas y comidas, coche eléctrico y espectáculo de marionetas de agua, entrada al Museo Ho Chi Minh o a la casa sobre pilotes de Ho Chi Minh y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoàn Kiếm. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Mausoleo de Ho Chi Minh",
+   "Pagoda Tran Quoc",
+   "Templo de la Literatura",
+   "Duración: 4 horas",
+   "Guía",
+   "Traslados en vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Guía",
+   "Traslados en vehículo con aire acondicionado",
+   "Recogida y regreso al hotel (dentro del Barrio Antiguo)",
+   "Entradas y tasas de visita (Templo de la Literatura, plaza Ba Dinh y exterior del mausoleo de Ho Chi Minh, pagoda Tran Quoc, exterior de la catedral de San José y de la Ópera)",
+   "Todos los impuestos y servicios",
+   "1 bebida por persona"
+  ],
+  "notIncluded": [
+   "Otras bebidas y comidas",
+   "Coche eléctrico y espectáculo de marionetas de agua",
+   "Entrada al Museo Ho Chi Minh o a la casa sobre pilotes de Ho Chi Minh",
+   "Propinas"
+  ],
+  "shortDescription": "Tour en Hanói, con St. Joseph's Cathedral, Hanói, Mausoleo de Ho Chi Minh y Pagoda Tran Quoc. Operador: Crossing Vietnam Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Hanói: media jornada guiada por lo imprescindible, con traslados",
+  "metaDescription": "Tour en Hanói. Incluye: guía y traslados en vehículo con aire acondicionado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "hanoi-vintage-vespa-city-tours-hanoi": {
   "title": "Hanói: tour por la ciudad en Vespa clásica",
@@ -7588,6 +9080,71 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Hanói, con St. Joseph's Cathedral, Hanói, Mausoleo de Ho Chi Minh y Pagoda Tran Quoc. Operador: Crossing Vietnam Tour, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói: media jornada gastronómica en moto",
   "metaDescription": "Tour de medio día en Hanói. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-day-ban-gioc-waterfall-cave-mountain-with-meals-in-hanoi": {
+  "title": "Cascada de Ban Gioc en 2 días: cueva, montaña y comidas incluidas",
+  "fullDescription": "Esta es una experiencia de 2 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso desde el Barrio Antiguo de Hanói, guía turístico, traslado en autobús o furgoneta moderna, 1 noche de hotel y 2 comidas, 1 cena. No incluye bebidas y otros conceptos no mencionados claramente más arriba, propinas para el guía y el conductor, suplemento por festivos del 10 % por persona y suplemento individual de 25 $ para quien viaja solo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. DGB - INDOCHINATODAYTRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Recogida y regreso desde el Barrio Antiguo de Hanói",
+   "Guía turístico de habla inglesa",
+   "Traslado en autobús o furgoneta moderna",
+   "1 noche de hotel",
+   "2 comidas, 1 cena y 1 desayuno"
+  ],
+  "included": [
+   "Recogida y regreso desde el Barrio Antiguo de Hanói",
+   "Guía turístico de habla inglesa",
+   "Traslado en autobús o furgoneta moderna",
+   "1 noche de hotel",
+   "2 comidas, 1 cena y 1 desayuno",
+   "Agua mineral"
+  ],
+  "notIncluded": [
+   "Bebidas y otros conceptos no mencionados claramente más arriba",
+   "Propinas para el guía y el conductor.",
+   "Suplemento por festivos del 10 % por persona",
+   "Suplemento individual de 25 $ para quien viaja solo"
+  ],
+  "shortDescription": "Tour de 2 días en Hanói, que incluye recogida y regreso desde el Barrio Antiguo de Hanói, guía turístico y traslado en autobús o furgoneta moderna. Operador: DGB - INDOCHINATODAYTRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cascada de Ban Gioc en 2 días: cueva, montaña y comidas incluidas",
+  "metaDescription": "Tour de 2 días en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3": {
+  "title": "Ha Giang Loop de 3 días con conductor seguro (máx. 8 personas)",
+  "fullDescription": "Esta es una experiencia de 3 días en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1. Billetes de autobús cama de Hanói a Ha Giang y desde Ha, 2. Recogida en tu hotel del Barrio Antiguo y regreso si, 3. Moto, 4. Guía de habla inglesa con experiencia y 5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas. No incluye 1. Tasa del permiso fronterizo, 2. Bebidas que no sean agua embotellada, 3. Gastos personales y 4. Seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. TripBestie confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "1. Billetes de autobús cama de Hanói a Ha Giang y de Ha Giang a HANÓI, SA PA, NINH BINH, HA LONG o CAT BA si eliges la tarifa con regreso correspondiente",
+   "2. Recogida en tu hotel del Barrio Antiguo y regreso si eliges la tarifa con regreso correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas"
+  ],
+  "included": [
+   "1. Billetes de autobús cama de Hanói a Ha Giang y de Ha Giang a HANÓI, SA PA, NINH BINH, HA LONG o CAT BA si eliges la tarifa con regreso correspondiente",
+   "2. Recogida en tu hotel del Barrio Antiguo y regreso si eliges la tarifa con regreso correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas",
+   "7. Entradas",
+   "8. Paseo en barca por el río Nho Que",
+   "9. Agua embotellada y licor de maíz sin límite",
+   "10. Casco de calidad, chaqueta de abrigo, rodilleras y coderas, chubasquero, mochila pequeña, cojín de asiento",
+   "11. Consigna de equipaje gratuita (taquilla con cierre por un suplemento)",
+   "12. Camiseta de finisher al terminar el tour"
+  ],
+  "notIncluded": [
+   "1. Tasa del permiso fronterizo (10 $ por persona)",
+   "2. Bebidas que no sean agua embotellada",
+   "3. Gastos personales",
+   "4. Seguro de viaje",
+   "5. Propinas para el guía y los conductores",
+   "6. Suplemento que aplican los operadores de tours y autobuses durante las fiestas nacionales de Vietnam (Año Nuevo y Año Nuevo Lunar, Día de la Liberación, Día de la Independencia de Vietnam)"
+  ],
+  "shortDescription": "Tour en Hanói, que incluye 1. Billetes de autobús cama de Hanói a Ha Giang y desde Ha, 2. Recogida en tu hotel del Barrio Antiguo y regreso si y 3. Moto. Operador: TripBestie, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ha Giang Loop de 3 días con conductor seguro (máx. 8 personas)",
+  "metaDescription": "Tour en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "old-quarter-street-food-tour-with-12-tastings-in-hanoi": {
   "title": "Hanói: comida callejera del Barrio Antiguo con más de 12 degustaciones",
@@ -7737,6 +9294,65 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanói: comida callejera vegana y Train Street",
   "metaDescription": "Tour de 3 horas en Hanói. Incluye: guía y de 5 a 6 degustaciones. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "lan-ha-bay-day-cruise-with-dark-and-bright-caves-in-hanoi": {
+  "title": "Bahía de Lan Ha: crucero de un día con las cuevas Clara y Oscura",
+  "fullDescription": "Esta es una experiencia de 1 día en Hanói, centrada en Autobús/autocar, Isla de Cat Ba y Bahía de Lan Ha. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói, recogida y regreso al hotel en el Barrio Antiguo de Hanói, traslado de ida y vuelta de Hanói a la isla de Cat Ba, guía que habla vietnamita e inglés a bordo y comida a bordo. No incluye propinas para el guía, consumiciones en el bar y otros gastos personales…, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Tinny Travel Co.Ltd confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Isla de Cat Ba",
+   "Bahía de Lan Ha",
+   "Duración: 1 día",
+   "Opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói"
+  ],
+  "included": [
+   "Opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói:",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Traslado de ida y vuelta de Hanói a la isla de Cat Ba",
+   "Guía que habla vietnamita e inglés a bordo",
+   "Comida a bordo",
+   "Kayak y baño",
+   "1 botella de agua",
+   "Opción 2: salida y regreso en hoteles de Cat Ba.",
+   "Recogida y regreso al hotel en Cat Ba",
+   "Traslado de ida y vuelta de la isla de Cat Ba al puerto"
+  ],
+  "notIncluded": [
+   "Propinas para el guía",
+   "Consumiciones en el bar",
+   "Otros gastos personales…"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Isla de Cat Ba, Ba Trai Dao beach, Bahía de Lan Ha y Bahía de Lan Ha. Operador: Tinny Travel Co.Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Bahía de Lan Ha: crucero de un día con las cuevas Clara y Oscura",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "incense-village-hat-and-fish-trap-soy-sauce-tour-in-hanoi": {
+  "title": "Aldeas del incienso, el sombrero cónico, las nasas y la salsa de soja",
+  "fullDescription": "Esta es una experiencia de 5 horas en Hanói, centrada en Autobús/autocar, Thủ Sỹ y Bần Yên Nhân. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso a tu hotel en el Barrio Antiguo de Hanói, guía turístico, comida casera, 1 sombrero cónico por persona y 1 botella de agua por persona. No incluye otras bebidas y gastos personales y tu agradecimiento por el servicio del guía y, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Tinny Travel Co.Ltd confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Thủ Sỹ",
+   "Bần Yên Nhân",
+   "Duración: 5 horas",
+   "Recogida y regreso a tu hotel en la zona del Barrio Antiguo de Hanói en autobús cómodo",
+   "Guía turístico de habla inglesa"
+  ],
+  "included": [
+   "Recogida y regreso a tu hotel en la zona del Barrio Antiguo de Hanói en autobús cómodo",
+   "Guía turístico de habla inglesa",
+   "Comida casera (si eliges la opción de día completo)",
+   "1 sombrero cónico por persona",
+   "1 botella de agua por persona",
+   "Todas las entradas"
+  ],
+  "notIncluded": [
+   "Otras bebidas y gastos personales",
+   "Tu agradecimiento por el servicio del guía y el conductor"
+  ],
+  "shortDescription": "Tour de medio día en Hanói, con Thủ Sỹ y Bần Yên Nhân. Operador: Tinny Travel Co.Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Aldeas del incienso, el sombrero cónico, las nasas y la salsa de soja",
+  "metaDescription": "Tour de medio día en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "transfer-to-from-cat-ba-island-by-multiple-timing-bus": {
   "title": "Traslado a o desde la isla de Cat Ba, varios horarios",
   "fullDescription": "Esta es una experiencia de 3,5 horas en Hanói. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, recogida en el hotel en el Barrio Antiguo de Hanói, regreso al hotel en Cat Ba, agua y billete de autobús. No incluye comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Tinny Travel Co.Ltd confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7763,6 +9379,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Hanói, que incluye guía, recogida en el hotel en el Barrio Antiguo de Hanói y regreso al hotel en Cat Ba. Operador: Tinny Travel Co.Ltd, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Traslado a o desde la isla de Cat Ba, varios horarios",
   "metaDescription": "Tour en Hanói. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "the-most-luxurious-day-cruise-in-lan-ha-bay-in-hanoi": {
+  "title": "El crucero de un día más lujoso de la bahía de Lan Ha",
+  "fullDescription": "Esta es una experiencia de 1 día en Hanói, centrada en Autobús/autocar, Isla de Cat Ba y Aldea tradicional. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói, recogida y regreso al hotel en el Barrio Antiguo de Hanói, traslado de ida y vuelta de Hanói a la isla de Cat Ba, guía que habla vietnamita e inglés a bordo y bebida de bienvenida. No incluye propinas, consumiciones en el bar y suplemento en Año Nuevo, Año Nuevo Lunar y Navidad, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hanói. Tinny Travel Co.Ltd confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Isla de Cat Ba",
+   "Aldea tradicional",
+   "Bahía de Lan Ha",
+   "Duración: 1 día",
+   "Opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói"
+  ],
+  "included": [
+   "Opción 1: salida y regreso en hoteles del Barrio Antiguo de Hanói:",
+   "Recogida y regreso al hotel en el Barrio Antiguo de Hanói",
+   "Traslado de ida y vuelta de Hanói a la isla de Cat Ba",
+   "Guía que habla vietnamita e inglés a bordo",
+   "Bebida de bienvenida",
+   "Comida a bordo",
+   "Kayak y baño",
+   "1 botella de agua",
+   "Opción 2: salida y regreso en hoteles de Cat Ba.",
+   "Recogida y regreso al hotel en Cat Ba",
+   "Traslado de ida y vuelta de la isla de Cat Ba al puerto"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Consumiciones en el bar",
+   "Suplemento en Año Nuevo, Año Nuevo Lunar, Navidad y fiestas nacionales: 10 $ por persona (en fechas concretas)"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Ben Beo harbour, Cat Ba Island, Isla de Cat Ba y Aldea tradicional. Operador: Tinny Travel Co.Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "El crucero de un día más lujoso de la bahía de Lan Ha",
+  "metaDescription": "Tour de día completo en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "maya-traditional-cooking-class-and-market-tour-in-hanoi": {
   "title": "Hanói: clase de cocina tradicional Maya y visita al mercado",
@@ -7849,6 +9498,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Hanói, con Barrio Antiguo de Hanói. Operador: Vietnamtravelers, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Hanói en bici: rincones escondidos e isla de los plátanos",
   "metaDescription": "Tour de 3 horas en Hanói. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "ninh-binh-bai-dinh-hoa-lu-trang-an-and-mua-cave-tour": {
+  "title": "Ninh Binh: Bai Dinh u Hoa Lu, Trang An y la cueva de Mua",
+  "fullDescription": "Esta es una experiencia de 1 día en Hanói, centrada en Hoa Lu en limusina, Hoa Lu y Ninh Binh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía de habla inglesa, barca en Trang An, autobús limusina o autobús moderno durante el viaje, entradas y coche eléctrico hasta la entrada de la pagoda Bai Dinh. No incluye bebidas, seguro de viaje, propinas y gastos personales y suplemento por el Año Nuevo Lunar, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Hoa Lu en limusina",
+   "Hoa Lu",
+   "Ninh Binh",
+   "Trang An",
+   "Duración: 1 día",
+   "Guía profesional de habla inglesa"
+  ],
+  "included": [
+   "Guía profesional de habla inglesa",
+   "Barca en Trang An",
+   "Autobús limusina o autobús moderno durante el viaje",
+   "Entradas",
+   "Coche eléctrico hasta la entrada de la pagoda Bai Dinh (opción Bai Dinh)",
+   "Actividad en bicicleta (opción Hoa Lu)",
+   "Comida bufé en el restaurante (opción vegetariana)",
+   "Agua mineral en el autobús",
+   "Uso gratuito de sombrero cónico o chubasquero (si llueve)"
+  ],
+  "notIncluded": [
+   "Bebidas, seguro de viaje",
+   "Propinas y gastos personales",
+   "Suplemento por el Año Nuevo Lunar"
+  ],
+  "shortDescription": "Tour de día completo en Hanói, con Hoa Lu en limusina, Hoa Lu y Ninh Binh. Operador: DGB - INDOCHINATODAYTRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh: Bai Dinh u Hoa Lu, Trang An y la cueva de Mua",
+  "metaDescription": "Tour de día completo en Hanói. Incluye: guía de habla inglesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "guided-food-tour-with-train-street-visit-in-hanoi": {
   "title": "Hanói: ruta gastronómica guiada y visita a la Train Street",
