@@ -8398,5 +8398,130 @@ export const ES_ITINERARIES: Record<string, ItineraryT> = {
     "answer": "En Jaipur, si tu vuelo de salida lo permite. Terminar en Jaipur te ahorra cinco o seis horas de vuelta. Si tienes que regresar a Delhi, haz ese último tramo en avión y no por carretera: en el aire es menos de una hora."
    }
   ]
+ },
+ "india:6-days": {
+  "title": "6 días en India: el Triángulo de Oro más Udaipur",
+  "metaTitle": "Itinerario de 6 días por India: Triángulo + Udaipur | AsiaByLocals",
+  "metaDescription": "Un itinerario de 6 días por India: dos días en Delhi, Agra, dos días en Jaipur y un primer vistazo a Udaipur. Tiempos de viaje honestos y el cierre de los viernes del Taj Mahal explicado.",
+  "routeSummary": "Delhi → Delhi → Agra → Jaipur → Jaipur → Udaipur",
+  "quickAnswer": "Seis días añaden Udaipur al Triángulo de Oro: dos noches en Delhi, una en Agra, dos en Jaipur y una en Udaipur. Vuela de Jaipur a Udaipur en vez de conducir seis o siete horas. Una noche en Udaipur es una tarde de llegada y una mañana: suficiente para el City Palace y el lago Pichola, no para Kumbhalgarh. Deja Agra fuera del viernes.",
+  "bestFor": "Viajeros que quieren el Triángulo de Oro clásico más un lugar genuinamente distinto, y que prefieren terminar el viaje en algún sitio tranquilo antes que en uno ruidoso.",
+  "intro": "Con seis días el Triángulo de Oro deja de ser un circuito cerrado y se convierte en una ruta hacia Rajastán. Los cinco primeros días no cambian: dos en Delhi, uno en Agra, dos en Jaipur. El sexto te lleva al sur, a Udaipur, que en tono es otro país: una ciudad lacustre construida alrededor del agua, en un estado definido por su ausencia.\n\nTen claro qué es una noche en Udaipur. Es una tarde de llegada y una mañana, y eso basta para el City Palace, una barca por el lago Pichola y una cena larga mirando el agua. No basta para Kumbhalgarh, Ranakpur ni Chittorgarh, que son excursiones de día completo. Si son esos los que te atraen de Rajastán, la versión de siete días con dos noches en Udaipur es la que quieres.\n\nEl punto fijo sigue igual: el Taj Mahal cierra todos los viernes. Seis días te dan margen de sobra para organizarte alrededor, y ninguna excusa para no hacerlo.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Delhi",
+    "heading": "Día 1: la Vieja Delhi, a pie",
+    "narrative": "Empieza en Shahjahanabad, la ciudad amurallada que Shah Jahan fundó en la década de 1640. La Jama Masjid la ancla, y bajo sus escalones los callejones que salen de Chandni Chowk siguen el mismo plano: Khari Baoli para especias, Dariba Kalan para plata, Nai Sarak para papel y libros. Hazlo andando, con un bicitaxi para los tramos largos.\n\nCome sobre la marcha. La comida callejera de la Vieja Delhi es una cocina propia, y la manera sensata de entrar en ella es con alguien que sepa qué puestos tienen la rotación suficiente para estar frescos, que es, más que ninguna otra cosa, lo que determina si tienes una buena semana.\n\nPor la tarde ve a la tumba de Humayun. Terminada en 1572, es el edificio del que desciende el Taj Mahal: el mismo jardín de cuatro partes, el mismo plinto elevado, la misma cúpula central, resueltos ochenta años antes. Verla ahora y no después de Agra cambia cómo se leerá el Taj más adelante en la semana.",
+    "travel": null,
+    "tip": "El Fuerte Rojo cierra los lunes y la tumba de Humayun no: un cambio útil si tu primer día cae mal.",
+    "friday_note": null
+   },
+   {
+    "day": 2,
+    "base": "Delhi",
+    "heading": "Día 2: la Delhi imperial y el sur del siglo XII",
+    "narrative": "Dedica la mañana a la ciudad de Lutyens: India Gate, el eje de Rajpath, las verjas del Rashtrapati Bhavan. Se trazó a partir de 1911 como respuesta deliberada a la capital mogola situada unos kilómetros al norte, y leer una contra la otra es casi todo lo que Delhi tiene que enseñar.\n\nBaja después al sur, al Qutub Minar, iniciado en 1193 y la capa más antigua de la Delhi islámica que sigue en pie, con un pilar de hierro en su patio que lleva unos 1.600 años resistiendo el óxido. El parque arqueológico de Mehrauli, al lado, está casi vacío y lleno de tumbas y pozos escalonados.\n\nDeja suelta la última parte de la tarde. Compra en Dilli Haat o Khan Market, o si es jueves, ve al Nizamuddin Dargah después del atardecer para el qawwali. Es un santuario en activo y no un espectáculo: siéntate atrás, cúbrete la cabeza y deja que ocurra a tu alrededor. Mañana vas a Agra.",
+    "travel": null,
+    "tip": "El metro de Delhi llega directo al Qutub Minar y a Rajiv Chowk y es sistemáticamente más rápido que un coche a media jornada.",
+    "friday_note": null
+   },
+   {
+    "day": 3,
+    "base": "Agra",
+    "heading": "Día 3: Agra, llegar a tiempo para la luz de la tarde",
+    "narrative": "El Gatimaan Express cubre Delhi a Agra en unos 100 minutos desde Hazrat Nizamuddin, y es el tren regular más rápido de India; la alternativa son tres o tres horas y media por carretera en la Yamuna Expressway. Toma una salida a media mañana, deja las maletas y visita el Taj Mahal en la última parte de la tarde, cuando la gente disminuye y la cara oeste se templa.\n\nDale tiempo de verdad. Shah Jahan lo construyó entre 1632 y 1653 para Mumtaz Mahal, en mármol blanco de Makrana con incrustaciones de piedra semipreciosa; la UNESCO lo inscribió en 1983. La marquetería del interior del mausoleo merece la entrada adicional, y la terraza del río, en la parte de atrás, es la zona más tranquila del recinto.\n\nEl fuerte de Agra llena el resto del día, y ahí termina la historia: Aurangzeb mantuvo allí a su padre durante ocho años, en una torre con vista despejada río Yamuna abajo hasta el Taj. Si te sobra una hora, cruza el río a Itimad-ud-Daulah, construido entre 1622 y 1628, el primer edificio mogol revestido por completo de mármol, con marquetería más fina que la del Taj.",
+    "travel": "Delhi → Agra. Gatimaan Express unos 1 h 40 min; o de 3 a 3,5 horas por carretera en la Yamuna Expressway.",
+    "tip": "Reserva el Gatimaan el día que se confirmen tus fechas. IRCTC abre 60 días antes y es el único tren de la ruta que se agota de forma fiable.",
+    "friday_note": "Si el día 3 es viernes, el Taj Mahal cierra todo el día. Con seis días esto es trivial de arreglar por adelantado: mueve la noche de Agra un día. Si no puedes, aplica la versión del viernes: fuerte de Agra, Itimad-ud-Daulah y puesta de sol en Mehtab Bagh, el jardín al otro lado del río construido sobre el eje del Taj, y luego haz el Taj al amanecer del día 4 antes de conducir a Jaipur."
+   },
+   {
+    "day": 4,
+    "base": "Jaipur",
+    "heading": "Día 4: Taj al amanecer, Fatehpur Sikri y entrada en Jaipur",
+    "narrative": "Vuelve al amanecer. Esta es la visita que justifica dormir en Agra: las puertas abren antes que el sol, la multitud es una fracción de la diurna, y el mármol pasa del gris al rosa y al blanco durante la primera hora. Hora y media, luego desayuno y salida del hotel.\n\nEn carretera a las 09:00. Fatehpur Sikri queda a una hora al oeste: la capital de arenisca de Akbar, construida en la década de 1570, abandonada a los catorce años y nunca reconstruida encima, y por eso se lee como una ciudad entera y no como una ruina. El Buland Darwaza y el Diwan-i-Khas con su único pilar tallado son las dos cosas que la gente recuerda. De noventa minutos a dos horas.\n\nOtras tres horas te meten en Jaipur a media tarde. No reserves ningún monumento. Camina el casco antiguo, mira los bazares de Johari y Bapu y come pronto: los muros rosas vienen de una mano de pintura de 1876 para una visita real que la ciudad sencillamente nunca deshizo. Mañana es el día largo.",
+    "travel": "Agra → Jaipur por carretera, unas 4 horas de conducción más 1,5 a 2 horas en Fatehpur Sikri; saliendo a las 09:00 llegas hacia las 15:00.",
+    "tip": "Dile a tu conductor desde el principio que no quieres paradas en tiendas de artesanía. Son acuerdos a comisión y pueden costarte la tarde de Jaipur sin que te des cuenta.",
+    "friday_note": null
+   },
+   {
+    "day": 5,
+    "base": "Jaipur",
+    "heading": "Día 5: fuerte de Amber, la ciudad amurallada y Nahargarh al atardecer",
+    "narrative": "Fuerte de Amber a la apertura, sobre las 08:00. El palacio sube por la cresta en una secuencia de patios levantados desde 1592: por la Ganesh Pol hasta el Sheesh Mahal, donde el trabajo de espejos cubre el techo por completo. Sube andando; son unos quince minutos y los paseos en elefante de esa rampa tienen un mal historial de bienestar animal. El pozo escalonado Panna Meena ka Kund, bajo el fuerte, son diez minutos y suele estar vacío.\n\nDe vuelta a la ciudad para el núcleo amurallado: el City Palace, el Jantar Mantar (un observatorio de instrumentos de piedra a escala de edificio de la década de 1730, con un reloj de sol que marca hasta los dos segundos) y la celosía de cinco plantas del Hawa Mahal. Todo a distancia de paseo entre sí.\n\nTermina en la cresta, en Nahargarh, para la puesta de sol, desde donde el plano en cuadrícula de 1727 se ve de verdad. Jaipur es además el mejor sitio de esta ruta para dedicar un par de horas a la artesanía en vez de a los monumentos (el estampado con bloques, la cerámica azul y el textil siguen siendo oficios vivos aquí) si prefieres cambiar un fuerte por un taller. Comprueba la hora de tu vuelo de mañana a Udaipur antes de salir a cenar.",
+    "travel": "Ciudad de Jaipur → fuerte de Amber, unos 11 km, de 30 a 40 minutos por trayecto con tráfico.",
+    "tip": "La entrada combinada de Jaipur cubre Amber, Jantar Mantar, Hawa Mahal, Nahargarh y el Albert Hall durante dos días, que encaja exactamente con este itinerario.",
+    "friday_note": null
+   },
+   {
+    "day": 6,
+    "base": "Udaipur",
+    "heading": "Día 6: al sur a Udaipur, y hacer menos a propósito",
+    "narrative": "Vuela. De Jaipur a Udaipur es un salto corto en avión frente a seis o siete horas por carretera, y en un viaje de seis días esa diferencia es casi un día entero. Con un vuelo de mañana estás en el lago Pichola a la hora de comer; si conduces, sal con la primera luz y asume que llegas con una tarde y nada más.\n\nUdaipur es el cambio de ritmo y la razón de añadir el día seis. El City Palace es el mayor de Rajastán, crecido durante cuatro siglos sobre el agua, y sus salas de museo y patios absorben dos o tres horas sin esfuerzo. Después, lo correcto es subirse a una barca en el lago Pichola a última hora de la tarde, desembarcar en Jag Mandir y ver desde el agua cómo la luz abandona los muros del palacio.\n\nNo intentes meter aquí Kumbhalgarh, Ranakpur ni Chittorgarh. Son excursiones de día completo desde Udaipur, y forzar una significa que has volado a una ciudad lacustre para pasar el día en un coche. Come en una azotea del casco antiguo, camina hasta el templo Jagdish y deja que el viaje termine en calma. El aeropuerto de Udaipur tiene buenas conexiones a Delhi y Bombay a la mañana siguiente.",
+    "travel": "Jaipur → Udaipur. Aproximadamente 1 hora de vuelo más el tiempo de aeropuerto, o de 6 a 7 horas por carretera. Vuela si el horario lo permite.",
+    "tip": "Los restaurantes de azotea del casco antiguo miran todos al mismo palacio, y los del lado de Lal Ghat tienen mejor luz por la tarde. Reserva mesa para la puesta de sol en vez de presentarte a las 19:00.",
+    "friday_note": null
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "La regla del viernes",
+    "content": "El Taj Mahal cierra todos los viernes, el día entero, cada semana. Con seis días no hay razón para que te pille: comprueba en qué día de la semana cae tu noche en Agra antes de reservar, y muévela si cae de jueves a viernes. Si no se puede mover, la alternativa del viernes es el fuerte de Agra, Itimad-ud-Daulah y la puesta de sol en Mehtab Bagh, con el Taj al amanecer de la mañana siguiente antes de seguir viaje."
+   },
+   {
+    "heading": "Cómo moverse entre las cinco ciudades",
+    "content": "Delhi a Agra: Gatimaan Express, unos 100 minutos, reservado con toda la antelación posible. Agra a Jaipur: por carretera, cuatro horas más la parada en Fatehpur Sikri. Jaipur a Udaipur: en avión, alrededor de una hora, frente a seis o siete horas de conducción. Los vuelos internos en India son baratos y frecuentes, y en un viaje de seis días el billete vale menos que el día que ahorra."
+   },
+   {
+    "heading": "Plazos de reserva",
+    "content": "IRCTC abre las reservas de tren 60 días antes del viaje y el Gatimaan se agota en temporada, así que esa es la primera reserva que haces. Los vuelos internos salen más baratos de tres a seis semanas antes. Los hoteles del casco antiguo de Udaipur son pocos y las habitaciones con vistas al lago se van pronto de octubre a marzo, así que reserva esa antes que Jaipur y Agra."
+   },
+   {
+    "heading": "Estación, calor y aire",
+    "content": "De octubre a marzo, y no hay argumento serio para otra cosa. De abril a junio Rajastán supera los 45 °C, lo que resulta peligroso y no solo incómodo en sitios expuestos como el fuerte de Amber. De julio a septiembre es el monzón; la única ventaja es que los lagos de Udaipur están llenos, cosa que a finales de primavera no siempre ocurre. La calidad del aire de Delhi es peor de noviembre a enero e importa para cualquiera con problemas respiratorios."
+   },
+   {
+    "heading": "Dinero, entradas y documentos",
+    "content": "La entrada al Taj Mahal es sin efectivo, por QR, en torno a 1.300 ₹ para extranjeros más 200 ₹ por el interior del mausoleo, y hace falta el pasaporte original en la puerta. La entrada combinada de Jaipur cubre la mayoría de sus monumentos durante dos días. El City Palace de Udaipur cobra aparte el museo y los jardines del palacio. Las tarjetas y UPI valen en las cinco ciudades; guarda billetes pequeños para barcas, rickshaws y propinas."
+   },
+   {
+    "heading": "Dónde flojea este itinerario y qué lo arregla",
+    "content": "Udaipur se lleva una noche, que cubre el City Palace y el lago y nada fuera de la ciudad. Si quieres la muralla de Kumbhalgarh, los templos jainistas de Ranakpur o Chittorgarh, necesitas una segunda noche en Udaipur: esa es la versión de siete días de esta ruta, y es el mejor día que puedes añadir a un viaje de seis."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Merece la pena bajar al sur por una sola noche en Udaipur?",
+    "answer": "Sí, si vuelas. Una tarde y una mañana cubren el City Palace, una barca por el lago Pichola y una cena sobre el agua, y el cambio de tono tras cuatro días de monumentos mogoles es justo el sentido. Si en cambio tienes que conducir seis o siete horas, el valor cae mucho y deberías plantearte una segunda noche."
+   },
+   {
+    "question": "¿Volar o conducir de Jaipur a Udaipur?",
+    "answer": "Volar. Es alrededor de una hora en el aire frente a seis o siete horas por carretera, las tarifas internas son bajas y en un viaje de seis días la versión por carretera te cuesta casi todo el último día. Conduce solo si quieres parar expresamente en Pushkar o Ajmer, y entonces planifica una noche más."
+   },
+   {
+    "question": "¿Qué hago si mi día en Agra cae en viernes?",
+    "answer": "Muévelo: seis días te dan margen de sobra. Si tus reservas están cerradas, dedica el viernes al fuerte de Agra, a Itimad-ud-Daulah y a la puesta de sol en Mehtab Bagh al otro lado del río, y ve el Taj al amanecer del día siguiente antes de conducir a Jaipur."
+   },
+   {
+    "question": "¿Puedo añadir Jodhpur a seis días?",
+    "answer": "No sin recortar algo. Jodhpur está entre Jaipur y Udaipur y necesita una noche propia más unas cinco horas de carretera por cada lado. Esa es la ruta de ocho días. Apretada en seis, convierte dos buenos días en tres días a la carrera."
+   },
+   {
+    "question": "¿Es llevadero el ritmo de este itinerario?",
+    "answer": "En general sí. Los días 3 y 4 son los apretados: un tren y un monumento el día 3, y luego un amanecer, una ciudad abandonada y cuatro horas de carretera el día 4. Los días 1, 2 y 6 son tranquilos. Si sabes que viajas despacio, haz el Taj solo al amanecer del día 4 y sáltate la visita de la tarde del día 3."
+   },
+   {
+    "question": "¿Cuál es la mejor época para esta ruta?",
+    "answer": "De octubre a marzo, con febrero y marzo como el mejor equilibrio entre temperatura y calidad del aire. Udaipur en particular está mejor tras un monzón decente, cuando los lagos están llenos; en un año seco el lago Pichola puede estar notablemente bajo en primavera."
+   },
+   {
+    "question": "¿Cuánto hay que reservar por adelantado?",
+    "answer": "El tren Delhi a Agra y el vuelo Jaipur a Udaipur, ambos lo antes posible. Después los hoteles de Udaipur con vistas al lago, porque no hay muchos. Guías, coches y talleres se organizan sin problema con una o dos semanas."
+   },
+   {
+    "question": "¿Serían mejor siete días que seis?",
+    "answer": "Para esta ruta sí, y es la mejora más barata que existe. El séptimo día va a una segunda noche en Udaipur, lo que convierte una llegada y salida en una estancia de verdad y abre Kumbhalgarh o Ranakpur como excursión de un día."
+   }
+  ]
  }
 };
