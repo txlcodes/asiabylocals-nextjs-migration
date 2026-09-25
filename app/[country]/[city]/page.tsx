@@ -299,16 +299,27 @@ export default async function CityPage({ params }: Props) {
                 .filter(Boolean)
                 .slice(0, 2)
             : tour.images,
-          // The card only needs the 1-person price: keep the first tier of each
-          // option instead of the whole 20-row ladder (1KB per tour).
+          // The card needs the two-person tier, not the whole 20-row ladder, and it
+          // needs the option's NAME to tell a guide-only or wrong-city option from
+          // the real product. Sending only tiers[0] under a `title` the API never
+          // returns (it sends optionTitle) left the card quoting a guide fee for a
+          // private car tour -- $5.21 against a real $62.51. Two tiers and a name
+          // is still a fraction of the ladder.
           options: Array.isArray(tour.options)
             ? tour.options.map((opt: any) => {
-                let first: any = null;
+                let kept: any = null;
                 try {
                   const tiers = typeof opt.groupPricingTiers === 'string' ? JSON.parse(opt.groupPricingTiers) : opt.groupPricingTiers;
-                  if (Array.isArray(tiers) && tiers.length) first = [tiers[0]];
+                  if (Array.isArray(tiers) && tiers.length) {
+                    const two = tiers.find((t: any) => parseInt(t?.minPeople) === 2);
+                    kept = two ? [tiers[0], two] : [tiers[0]];
+                  }
                 } catch {}
-                return { title: opt.title, pricePerPerson: opt.pricePerPerson, groupPricingTiers: first };
+                return {
+                  optionTitle: opt.optionTitle || opt.optionDescription || opt.title,
+                  pricePerPerson: opt.pricePerPerson,
+                  groupPricingTiers: kept,
+                };
               })
             : tour.options,
           };

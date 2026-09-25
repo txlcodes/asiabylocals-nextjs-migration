@@ -3023,7 +3023,7 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                   // "Only Professional Tour Guide", "Local Expert Tour Guide Only").
                   // What they share: they mention a guide and no transport.
                   const isGuideOnly = (o: any) => {
-                    const t = o.optionDescription || o.title || '';
+                    const t = o.optionTitle || o.optionDescription || o.title || '';
                     // "Guide Only - (Without Car & Driver)" names a car in order to
                     // rule it out; reading that as transport put a $5 guide fee on
                     // the card for a full-day Delhi tour.
@@ -3036,7 +3036,7 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                   // is wrong (GYG has one at $5.21 for "guide and car" next to its own
                   // $62.50 equivalent), so it must not set the headline.
                   const impossibleTransport = (o: any) => {
-                    const t = o.optionDescription || o.title || '';
+                    const t = o.optionTitle || o.optionDescription || o.title || '';
                     if (!/\bcar\b|vehicle|driver|transfer/i.test(t)) return false;
                     try {
                       const tiers = typeof o.groupPricingTiers === 'string' ? JSON.parse(o.groupPricingTiers) : o.groupPricingTiers;
@@ -3067,7 +3067,7 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                   const tourOrigin = originOf(tour.title || '');
                   if (tourOrigin) {
                     const same = eligible.filter((o: any) => {
-                      const oo = originOf(o.optionDescription || o.title || '');
+                      const oo = originOf(o.optionTitle || o.optionDescription || o.title || '');
                       return !oo || oo === tourOrigin;
                     });
                     if (same.length) eligible = same;
