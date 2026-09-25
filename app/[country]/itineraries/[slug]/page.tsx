@@ -44,18 +44,40 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+// One country's tour list is several megabytes, which is over Next's 2MB data
+// cache limit, so it is refetched in full for every itinerary page that asks
+// for it - eight times per country during a build. The pages of one country
+// only ever need the same list, so it is fetched once per process and shared.
+// Keyed by country name; the entry is the in-flight promise, so pages that ask
+// at the same time wait on one request instead of starting their own.
+const countryTours = new Map<string, Promise<any[]>>();
+
+function countryTourList(name: string): Promise<any[]> {
+  let p = countryTours.get(name);
+  if (!p) {
+    p = fetch(`${API_URL}/api/public/tours?country=${encodeURIComponent(name)}`, {
+      next: { revalidate: 3600 },
+    })
+      .then(res => (res.ok ? res.json() : null))
+      .then(data => (Array.isArray(data?.tours) ? data.tours : []))
+      // A failed fetch must not be cached as an empty list for the whole
+      // build, or every later page for that country silently loses its cards.
+      .catch(err => {
+        countryTours.delete(name);
+        throw err;
+      });
+    countryTours.set(name, p);
+  }
+  return p;
+}
+
 /** Pull the tours this itinerary links to, so each day can show a real card. */
 async function fetchToursBySlug(country: string, slugs: string[]) {
   const wanted = new Set(slugs.map(s => s.split('/').pop()));
   if (wanted.size === 0) return {};
   try {
     const name = countryDisplayName(country);
-    const res = await fetch(`${API_URL}/api/public/tours?country=${encodeURIComponent(name)}`, {
-      next: { revalidate: 3600 },
-    });
-    if (!res.ok) return {};
-    const data = await res.json();
-    const list = Array.isArray(data?.tours) ? data.tours : [];
+    const list = await countryTourList(name);
     const bySlug: Record<string, any> = {};
     for (const t of list) if (wanted.has(t.slug)) bySlug[t.slug] = t;
     return bySlug;
