@@ -37474,6 +37474,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Col de Hai Van et Hué : journée de découverte",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "atv-quad-adventure-and-massage-at-a-4-star-resort-in-da-nang": {
+  "title": "Aventure en quad et massage dans un resort 4 étoiles à Da Nang",
+  "fullDescription": "Cette expérience se déroule au départ de Da Nang, construite autour de Province de Quang Nam. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge à l'hôtel, guide quad, équipement de sécurité pour le quad, sortie en quad et massage corps entier de 90 minutes. Il ne comprend pas dépenses personnelles, repas et boissons non mentionnés et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. My Viet Trip confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Province de Quang Nam",
+   "Prise en charge à l'hôtel (si l'option est choisie)",
+   "Guide quad professionnel",
+   "Équipement de sécurité pour le quad (casque, gants)",
+   "Sortie en quad (environ 75 minutes)",
+   "Massage corps entier de 90 minutes (si l'option massage est choisie)"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel (si l'option est choisie)",
+   "Guide quad professionnel",
+   "Équipement de sécurité pour le quad (casque, gants)",
+   "Sortie en quad (environ 75 minutes)",
+   "Massage corps entier de 90 minutes (si l'option massage est choisie)",
+   "Déjeuner",
+   "Eau potable",
+   "Taxes"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Repas et boissons non mentionnés",
+   "Prise en charge et retour à l'hôtel (sauf mention dans l'option)"
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Province de Quang Nam. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Aventure en quad et massage dans un resort 4 étoiles à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Comprend prise en charge à l'hôtel et guide quad. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "discover-marble-mountains-and-waterfall-sliding-adventure-da-nang": {
   "title": "Montagnes de Marbre et descente de cascade",
   "fullDescription": "Cette expérience de 9,5 heures se déroule au départ de Da Nang, construite autour de Montagnes de Marbre, Dong Am Phu et Restaurant local. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour aux hôtels de Hoi An et de Da Nang, guide, droits d'entrée, déjeuner fait maison chez une famille locale et descente de cascade. Il ne comprend pas les enfants de moins de 14 ans et de moins de 40 kg, dépenses personnelles et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -37625,6 +37655,32 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant prise en charge et retour à l'hôtel à Da Nang, guide et billets aller-retour du téléphérique de Ba Na Hills. Opérateur : Atlas Vietnam Travel, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Ba Na Hills by night : Pont d'Or et bière artisanale",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hue-imperial-city-royal-tombs-and-thien-mu-pagoda": {
+  "title": "Cité impériale de Hué, tombeaux royaux et pagode Thien Mu",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Da Nang et Hue ; le lieu et l’heure exacts sont convenus avec Tong Vn bike Tour une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend transport en véhicule touristique climatisé haut de gamme, passionné, billets d'accès complet à la citadelle impériale, au tombeau de Khai, déjeuner gastronomique traditionnel en plusieurs services au Thao Nhi Royal Mansion 4 étoiles et eau minérale fraîche offerte à bord. Il ne comprend pas dépenses personnelles et pourboires pour le chauffeur et le guide, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Transport en véhicule touristique climatisé haut de gamme pendant tout le circuit",
+   "Guide du patrimoine anglophone, certifié et passionné",
+   "Billets d'accès complet à la citadelle impériale, au tombeau de Khai Dinh et à la pagode de Thien Mu",
+   "Déjeuner gastronomique traditionnel en plusieurs services au Thao Nhi Royal Mansion 4 étoiles",
+   "Eau minérale fraîche offerte à bord"
+  ],
+  "included": [
+   "Transport en véhicule touristique climatisé haut de gamme pendant tout le circuit",
+   "Guide du patrimoine anglophone, certifié et passionné",
+   "Billets d'accès complet à la citadelle impériale, au tombeau de Khai Dinh et à la pagode de Thien Mu",
+   "Déjeuner gastronomique traditionnel en plusieurs services au Thao Nhi Royal Mansion 4 étoiles",
+   "Eau minérale fraîche offerte à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles, souvenirs et boissons en option au déjeuner",
+   "Pourboires pour le chauffeur et le guide"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Hue et Vietnam. Opérateur : Tong Vn bike Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cité impériale de Hué, tombeaux royaux et pagode Thien Mu",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-am-phu-cave-and-lady-buddha": {
@@ -37830,6 +37886,39 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Ba Na Hills et Pont d'Or : en groupe ou en privé",
   "metaDescription": "Excursion à Da Nang. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "admission-to-the-ba-na-hills-with-cable-car-and-optional-lunch-da-nang": {
+  "title": "Entrée aux Ba Na Hills avec téléphérique et déjeuner en option (Da Nang)",
+  "fullDescription": "Cette expérience d'une journée entière se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend trajet en téléphérique aller-retour, 1 billet pour Ba Na Hills, accès au Pont d'Or, accès aux jardins du Jardin d'Amour et accès au château Luna. Il ne comprend pas transport jusqu'à Ba Na Hills, billets pour le musée de cire, accès à l'Alpine Coaster ou au mur d'escalade et frais de participation aux attractions, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : une journée entière",
+   "Trajet en téléphérique aller-retour",
+   "1 billet pour Ba Na Hills",
+   "Accès au Pont d'Or",
+   "Accès aux jardins du Jardin d'Amour",
+   "Accès au château Luna"
+  ],
+  "included": [
+   "Trajet en téléphérique aller-retour",
+   "1 billet pour Ba Na Hills",
+   "Accès au Pont d'Or",
+   "Accès aux jardins du Jardin d'Amour",
+   "Accès au château Luna",
+   "Accès à la cascade Helios",
+   "Accès au village français",
+   "Accès au Fantasy Park (attractions payantes en supplément)",
+   "Déjeuner buffet (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Transport jusqu'à Ba Na Hills (sur demande, écrivez-nous)",
+   "Billets pour le musée de cire, la cave à vin Debay et la maison de thé",
+   "Accès à l'Alpine Coaster ou au mur d'escalade",
+   "Frais de participation aux attractions",
+   "Guide"
+  ],
+  "shortDescription": "Billet d'entrée à Da Nang, comprenant trajet en téléphérique aller-retour, 1 billet pour Ba Na Hills et accès au Pont d'Or. Opérateur : HAIVAN TRAVEL, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Entrée aux Ba Na Hills avec téléphérique et déjeuner en option (Da Nang)",
+  "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "4-day-3-night-explore-vietnam-central-heritage": {
   "title": "Patrimoine du centre du Vietnam : 4 jours et 3 nuits",
   "fullDescription": "Cette expérience de 4 jours se déroule au départ de Da Nang, construite autour de Une journée magique à Ba Na Hills et Temps libre et au revoir. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, billets d'entrée aux sites suivants : montagnes de Marbre, 2 repas standard : déjeuner et dîner, 1 déjeuner buffet à Ba Na Hills et guide. Il ne comprend pas pourboires et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. DA NANG LUXURY T&T CO.,LTD confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -37912,6 +38001,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Da Nang, avec Montagnes de Marbre et La montagne du Singe. Opérateur : Vietnam Orange Tour, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Montagnes de Marbre, Dame Bouddha et grotte d'Am Phu",
   "metaDescription": "Excursion à Da Nang. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "easy-rider-expedition-via-hai-van-pass-and-ho-chi-minh-trails-da-nang": {
+  "title": "Expédition easy rider par le col de Hai Van et les pistes Ho Chi Minh (Da Nang)",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend pilote easy rider anglophone, moto, prise en charge et retour à l'hôtel, eau en bouteille pendant le trajet et poncho de pluie si nécessaire. Il ne comprend pas aliments, boissons et dépenses personnelles, option conduite libre : sur demande et demande particulière pour les bagages, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip) confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Pilote easy rider anglophone expérimenté",
+   "Moto, carburant et casque haut de gamme",
+   "Prise en charge et retour à l'hôtel",
+   "Eau en bouteille pendant le trajet",
+   "Poncho de pluie si nécessaire"
+  ],
+  "included": [
+   "Pilote easy rider anglophone expérimenté",
+   "Moto, carburant et casque haut de gamme",
+   "Prise en charge et retour à l'hôtel",
+   "Eau en bouteille pendant le trajet",
+   "Poncho de pluie si nécessaire",
+   "Pauses café et photo avec vue",
+   "Itinéraire flexible selon la météo et les envies du groupe",
+   "Droits d'entrée de base pour les étapes comprises",
+   "1 nuit d'hébergement (option 2 jours)",
+   "Transport des bagages entre les étapes, arrimés sur la moto (sac ou valise de 100 l maximum)"
+  ],
+  "notIncluded": [
+   "Aliments, boissons et dépenses personnelles",
+   "Option conduite libre : sur demande (location de moto 29 USD, carburant compris)",
+   "Demande particulière pour les bagages (transport en bus, 3 USD par bagage)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant pilote easy rider anglophone, moto et prise en charge et retour à l'hôtel. Opérateur : Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip), en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expédition easy rider par le col de Hai Van et les pistes Ho Chi Minh (Da Nang)",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-and-monkey-mountain-halfday-tour": {
   "title": "Montagne de Marbre et montagne du Singe : demi-journée",
@@ -38443,6 +38564,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang en soirée : spectacle Charming et massage",
   "metaDescription": "Excursion de 3 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "come-to-our-home-and-experience-local-vietnamese-cuisine": {
+  "title": "Venez chez nous découvrir la cuisine vietnamienne locale",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend les temps forts, 1. Un accueil chaleureux autour d'un café aux œufs, commencez chez nous, autour d'un onctueux, 2. La vie locale au marché et baladez-vous dans notre marché local animé. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Les temps forts",
+   "1. Un accueil chaleureux autour d'un café aux œufs",
+   "Commencez chez nous, autour d'un onctueux café aux œufs vietnamien : le moment idéal pour briser la glace et échanger nos premières histoires.",
+   "2. La vie locale au marché",
+   "Baladez-vous dans notre marché local animé : vous verrez comment nous faisons nos courses, découvrirez des ingrédients uniques et sentirez battre le cœur du quartier."
+  ],
+  "included": [
+   "Les temps forts",
+   "1. Un accueil chaleureux autour d'un café aux œufs",
+   "Commencez chez nous, autour d'un onctueux café aux œufs vietnamien : le moment idéal pour briser la glace et échanger nos premières histoires.",
+   "2. La vie locale au marché",
+   "Baladez-vous dans notre marché local animé : vous verrez comment nous faisons nos courses, découvrirez des ingrédients uniques et sentirez battre le cœur du quartier.",
+   "3. Atelier de cuisine participatif",
+   "Retour dans notre cuisine familiale pour préparer un festin de A à Z. Vous apprendrez les secrets de :",
+   "Soupe de nouilles au bœuf (pho bo)",
+   "Rouleaux de printemps aux crevettes (goi cuon tom)",
+   "Crêpes croustillantes banh xeo",
+   "Dessert spécial",
+   "Festin partagé et échange culturel"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 3 heures à Da Nang, comprenant les temps forts, 1. Un accueil chaleureux autour d'un café aux œufs et commencez chez nous, autour d'un onctueux. Opérateur : Family Kitchen Da Nang, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Venez chez nous découvrir la cuisine vietnamienne locale",
+  "metaDescription": "Excursion de 3 heures à Da Nang. Comprend les temps forts. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "traditional-thai-massage-at-q-and-b-luxury-spa-in-da-nang": {
   "title": "Da Nang : massage thaïlandais traditionnel au Q&B Luxury Spa",
   "fullDescription": "Cette expérience de 1 heure se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend massage thaïlandais traditionnel selon la durée choisie, tenue de massage confortable, boisson de bienvenue, infusion après le soin et serviette. Il ne comprend pas prise en charge et retour à l'hôtel, dépenses personnelles, pourboires et soins de spa supplémentaires non sélectionnés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -38473,6 +38624,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1 heure à Da Nang, comprenant massage thaïlandais traditionnel selon la durée choisie, tenue de massage confortable et boisson de bienvenue. Opérateur : HỘ KINH DOANH SPA QB, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : massage thaïlandais traditionnel au Q&B Luxury Spa",
   "metaDescription": "Excursion de 1 heure à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hai-van-pass-easy-rider-motorbike-with-swimming-in-da-nang": {
+  "title": "Col de Hai Van à moto en easy rider avec baignade à Da Nang",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Da Nang, construite autour de Montagnes de Marbre et Baie de Lang Co. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend guide-chauffeur anglophone, moto à boîte manuelle, casque et protections de qualité, assurance moto et sacoches étanches pour vos bagages. Il ne comprend pas déjeuner et boissons, dépenses personnelles et pourboires pour les guides, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Montagnes de Marbre",
+   "Baie de Lang Co",
+   "Durée : 8 heures",
+   "Guide-chauffeur professionnel anglophone",
+   "Moto à boîte manuelle (carburant, stationnement et entretien compris)",
+   "Casque et protections de qualité"
+  ],
+  "included": [
+   "Guide-chauffeur professionnel anglophone",
+   "Moto à boîte manuelle (carburant, stationnement et entretien compris)",
+   "Casque et protections de qualité",
+   "Assurance moto",
+   "Sacoches étanches pour vos bagages",
+   "Ponchos de pluie (si besoin)",
+   "Tous les billets d'entrée et frais de visite"
+  ],
+  "notIncluded": [
+   "Déjeuner et boissons",
+   "Dépenses personnelles",
+   "Pourboires pour les guides"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Montagnes de Marbre, Linh Ung Pagoda, Son Tra et Baie de Lang Co. Opérateur : VBStravel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Col de Hai Van à moto en easy rider avec baignade à Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-hue-trip-via-hai-van-pass": {
   "title": "Hué en privé par le col de Hai Van",
@@ -38630,6 +38810,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Da Nang, comprenant atelier de préparation du café vietnamien, cours de cuisine participatif et ingrédients et matériel pour préparer le café. Opérateur : Jolie Cooking Class, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : atelier café et cours de cuisine",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "da-nang-nights-food-tour-with-15-tastings-by-local-operator": {
+  "title": "Da Nang by night : tour gastronomique avec plus de 15 dégustations, par un opérateur local",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Da Nang, construite autour de Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend plus de 15 dégustations comprises, festin itinérant avec 6 ou 7 étapes dans les rues du vieux Da, 8 participants maximum, eau en bouteille comprise et durée d'environ 3 h 30 à 4 heures. Il ne comprend pas boissons alcoolisées, prise en charge et retour à l'hôtel non compris. Point de rendez-vous facile à trouver, les régimes végétariens comptent 5 à 6 dégustations de moins, faute d' et déconseillé en cas d'allergies sévères, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHighlands Coffee Indochina. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Da Nang",
+   "Durée : 4 heures",
+   "Plus de 15 dégustations comprises, davantage que sur tout autre tour gastronomique de Da Nang",
+   "Festin itinérant avec 6 ou 7 étapes dans les rues du vieux Da Nang",
+   "8 participants maximum, le plus petit groupe de Da Nang",
+   "Eau en bouteille comprise"
+  ],
+  "included": [
+   "Plus de 15 dégustations comprises, davantage que sur tout autre tour gastronomique de Da Nang",
+   "Festin itinérant avec 6 ou 7 étapes dans les rues du vieux Da Nang",
+   "8 participants maximum, le plus petit groupe de Da Nang",
+   "Eau en bouteille comprise",
+   "Durée d'environ 3 h 30 à 4 heures, selon le rythme du groupe"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Prise en charge et retour à l'hôtel non compris. Point de rendez-vous facile à trouver pour tous.",
+   "Les régimes végétariens comptent 5 à 6 dégustations de moins, faute d'alternatives chez certains vendeurs.",
+   "Déconseillé en cas d'allergies sévères, de régime halal ou de maladie cœliaque, en raison du risque de traces et de contamination croisée."
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Da Nang. Opérateur : A Chef's Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Da Nang by night : tour gastronomique avec plus de 15 dégustations, par un opérateur local",
+  "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "workshop-on-making-d-paper-and-d-paper-notebooks-in-da-nang": {
   "title": "Da Nang : atelier de papier do et de carnets en papier do",
@@ -38794,6 +39002,93 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Da Nang, avec Bateau fluvial, Pagode de la Dame céleste et Citadelle historique de Hué. Opérateur : VM Travel, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hué : citadelle, tombeaux et croisière sur la rivière des Parfums, en minibus",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "son-tra-peninsula-explorer-classic-us-army-jeep-adventure-in-da-nang": {
+  "title": "Péninsule de Son Tra : aventure en jeep militaire américaine d'époque à Da Nang",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend panoramas côtiers spectaculaires, découverte de la célèbre montagne du Singe, découverte de la beauté naturelle de la péninsule de Son Tra, visite de l'emblématique statue de la Dame Bouddha et panorama à 360° depuis le pic de Ban Co. Il ne comprend pas boissons alcoolisées non comprises et sodas et boissons fraîches supplémentaires non compris, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Panoramas côtiers spectaculaires",
+   "Découverte de la célèbre montagne du Singe",
+   "Découverte de la beauté naturelle de la péninsule de Son Tra",
+   "Visite de l'emblématique statue de la Dame Bouddha",
+   "Panorama à 360° depuis le pic de Ban Co"
+  ],
+  "included": [
+   "Panoramas côtiers spectaculaires",
+   "Découverte de la célèbre montagne du Singe",
+   "Découverte de la beauté naturelle de la péninsule de Son Tra",
+   "Visite de l'emblématique statue de la Dame Bouddha",
+   "Panorama à 360° depuis le pic de Ban Co",
+   "Découverte de l'ancien héliport de l'armée américaine",
+   "Eau en bouteille offerte pendant toute la visite",
+   "Café vietnamien avec une vue imprenable sur l'océan",
+   "Tous les droits d'entrée et billets compris"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées non comprises",
+   "Sodas et boissons fraîches supplémentaires non compris"
+  ],
+  "shortDescription": "Excursion de 3 heures à Da Nang, comprenant panoramas côtiers spectaculaires, découverte de la célèbre montagne du Singe et découverte de la beauté naturelle de la péninsule de Son Tra. Opérateur : HO KINH DOANH DI CUNG BAN DIA, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Péninsule de Son Tra : aventure en jeep militaire américaine d'époque à Da Nang",
+  "metaDescription": "Excursion de 3 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "3-day-wildlife-photography-experience-in-son-tra-in-da-nang": {
+  "title": "Photographie animalière à Son Tra pendant 3 jours, à Da Nang",
+  "fullDescription": "Cette expérience de 3 jours se déroule au départ de Da Nang, construite autour de Bienvenue, Briefing d'accueil et Atelier de narration et de prise de vue. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend hébergement, repas, formation, sorties de terrain et assistance de production. Il ne comprend pas matériel photo personnel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bienvenue",
+   "Briefing d'accueil",
+   "Atelier de narration et de prise de vue",
+   "Dîner en équipe",
+   "Durée : 3 jours",
+   "Hébergement"
+  ],
+  "included": [
+   "Hébergement",
+   "Repas",
+   "Formation",
+   "Sorties de terrain",
+   "Assistance de production",
+   "Théorie de la photo animalière et récit de la conservation",
+   "Expérience de terrain participative",
+   "Atelier de montage et de post-production",
+   "Projection et remise des certificats"
+  ],
+  "notIncluded": [
+   "Matériel photo personnel"
+  ],
+  "shortDescription": "Excursion de 3 jours à Da Nang, avec Bienvenue, Briefing d'accueil et Atelier de narration et de prise de vue. Opérateur : Viet Endangered Narratives Co Ltd, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Photographie animalière à Son Tra pendant 3 jours, à Da Nang",
+  "metaDescription": "Excursion de 3 jours à Da Nang. Comprend hébergement et repas. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "one-hour-surf-lesson-and-two-hours-surfboard-rental-in-da-nang": {
+  "title": "Cours de surf d'une heure et location de planche pendant deux heures à Da Nang",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend ce qui est compris, une expérience de surf complète, tout est, douches après le cours, serviette fraîche et eau potable et chapeau de protection solaire. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Ce qui est compris",
+   "Une expérience de surf complète, tout est pris en charge",
+   "Douches après le cours",
+   "Serviette fraîche et eau potable",
+   "Chapeau de protection solaire"
+  ],
+  "included": [
+   "Ce qui est compris :",
+   "Une expérience de surf complète, tout est pris en charge :",
+   "Douches après le cours",
+   "Serviette fraîche et eau potable",
+   "Chapeau de protection solaire",
+   "Planche de surf en mousse et leash",
+   "Lycra pour le confort et la protection",
+   "Images GoPro de votre session de surf",
+   "Instructeur professionnel certifié",
+   "Casier sécurisé et clé"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 3 heures à Da Nang, comprenant ce qui est compris, une expérience de surf complète, tout est et douches après le cours. Opérateur : Da Nang Outdoor Adventures, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours de surf d'une heure et location de planche pendant deux heures à Da Nang",
+  "metaDescription": "Excursion de 3 heures à Da Nang. Comprend ce qui est compris. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator": {
   "title": "Da Nang ou Hué : billet de train panoramique par le col de Hai Van",
@@ -38980,6 +39275,43 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang : session de surf à la plage de My Khe",
   "metaDescription": "Excursion de 2,5 heures à Da Nang. Comprend instructeur de surf. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "ba-na-hills-admission-ticket-and-cable-car-with-support-da-nang": {
+  "title": "Billet d'entrée aux Ba Na Hills et téléphérique avec assistance (Da Nang)",
+  "fullDescription": "Cette expérience se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée de Ba Na Hills, accès au téléphérique aller-retour, accès au Pont d'Or, accès au village français et accès aux jardins du Jardin d'Amour. Il ne comprend pas prise en charge et retour à l'hôtel, guide ou accompagnateur sur place, nourriture et boissons et déjeuner buffet, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Billet d'entrée de Ba Na Hills",
+   "Accès au téléphérique aller-retour",
+   "Accès au Pont d'Or",
+   "Accès au village français",
+   "Accès aux jardins du Jardin d'Amour",
+   "Accès à la pagode Linh Ung"
+  ],
+  "included": [
+   "Billet d'entrée de Ba Na Hills",
+   "Accès au téléphérique aller-retour",
+   "Accès au Pont d'Or",
+   "Accès au village français",
+   "Accès aux jardins du Jardin d'Amour",
+   "Accès à la pagode Linh Ung",
+   "Accès aux spectacles publics, selon la programmation",
+   "Assistance en ligne en anglais et en chinois avant votre visite",
+   "Assistance pour le billet électronique"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide ou accompagnateur sur place",
+   "Nourriture et boissons",
+   "Déjeuner buffet",
+   "Entrée du musée de cire",
+   "Entrée de la cave à vin",
+   "Billet pour l'Alpine Coaster",
+   "Dépenses personnelles",
+   "Assurance voyage"
+  ],
+  "shortDescription": "Billet d'entrée à Da Nang, comprenant billet d'entrée de Ba Na Hills, accès au téléphérique aller-retour et accès au Pont d'Or. Opérateur : GOLDEN ASIA EXPERIENCES LIMITED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Billet d'entrée aux Ba Na Hills et téléphérique avec assistance (Da Nang)",
+  "metaDescription": "Billet d'entrée à Da Nang. Comprend billet d'entrée de Ba Na Hills. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "sup-experience-at-my-khe-beach-in-da-nang": {
   "title": "Da Nang : paddle à la plage de My Khe",
   "fullDescription": "Cette expérience de 1 heure se déroule au départ de Da Nang, construite autour de Plage de My Khe. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend matériel de stand-up paddle, accompagnement par un instructeur, eau, chapeau et combinaison néoprène. Il ne comprend pas nourriture et boissons, crème solaire et prise en charge à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n33 An Thượng 4, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -39139,6 +39471,40 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,3333333333333333 heures à Da Nang, comprenant consigne gratuite, salle de douche et thé. Opérateur : Bee honey Spa, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : soin ongles et cils haut de gamme, transfert compris",
   "metaDescription": "Excursion de 0,3333333333333333 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-hai-van-pass-tour-with-food-options-in-da-nang": {
+  "title": "Excursion privée au col de Hai Van avec options gourmandes à Da Nang",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend transport privé en voiture, prise en charge et retour à l'hôtel dans le centre de Da Nang, chauffeur, hôte ou guide et arrêts panoramiques le long du col de Hai Van. Il ne comprend pas repas et dépenses personnelles, billets d'entrée sauf mention contraire, pourboires et prise en charge hors du centre de Da Nang, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Cong ty TNHH DaNangByCar Travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Transport privé en voiture, minibus ou limousine Dcar (selon la taille du groupe et l'option choisie)",
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang",
+   "Chauffeur professionnel",
+   "Hôte ou guide anglophone",
+   "Arrêts panoramiques le long du col de Hai Van"
+  ],
+  "included": [
+   "Transport privé en voiture, minibus ou limousine Dcar (selon la taille du groupe et l'option choisie)",
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang",
+   "Chauffeur professionnel",
+   "Hôte ou guide anglophone",
+   "Arrêts panoramiques le long du col de Hai Van",
+   "Petit-déjeuner banh mi et café (départs du matin uniquement)",
+   "Café vietnamien",
+   "Eau en bouteille",
+   "Carburant et péages",
+   "Assurance voyage"
+  ],
+  "notIncluded": [
+   "Repas et dépenses personnelles",
+   "Billets d'entrée sauf mention contraire",
+   "Pourboires",
+   "Prise en charge hors du centre de Da Nang (supplément possible)",
+   "Arrêts supplémentaires non prévus au programme"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant transport privé en voiture, prise en charge et retour à l'hôtel dans le centre de Da Nang et chauffeur. Opérateur : Cong ty TNHH DaNangByCar Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursion privée au col de Hai Van avec options gourmandes à Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "explore-michelin-recommended-street-food-favorites-in-da-nang": {
   "title": "Da Nang : la cuisine de rue recommandée par le Michelin",
@@ -39492,6 +39858,59 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Ba Na Hills, Pont d'Or et Fantasy Park",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "custom-made-prescription-glasses-in-colonial-optic-in-da-nang": {
+  "title": "Lunettes de vue sur mesure chez un opticien colonial à Da Nang",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend une monture de lunettes sur mesure, test de vue personnalisé, thé ou café vietnamien et en-cas traditionnels, coin photo vintage et cadeaux : carte postale créée par vos soins. Il ne comprend pas transport aller-retour vers l'activité, verres améliorés et montures de marque, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Une monture de lunettes sur mesure (lecture ou conduite), fabriquée sur place en 30 minutes",
+   "Test de vue personnalisé",
+   "Thé ou café vietnamien et en-cas traditionnels",
+   "Coin photo vintage",
+   "Cadeaux : carte postale créée par vos soins, tote bag de la boutique et étuis à lunettes"
+  ],
+  "included": [
+   "Une monture de lunettes sur mesure (lecture ou conduite), fabriquée sur place en 30 minutes",
+   "Test de vue personnalisé",
+   "Thé ou café vietnamien et en-cas traditionnels",
+   "Coin photo vintage",
+   "Cadeaux : carte postale créée par vos soins, tote bag de la boutique et étuis à lunettes",
+   "Éclairages historiques sur la maison-boutique traditionnelle et l'opticien au Vietnam"
+  ],
+  "notIncluded": [
+   "Transport aller-retour vers l'activité",
+   "Verres améliorés (verres premium ou progressifs)",
+   "Montures de marque (Ray-Ban, Oakley, etc.)"
+  ],
+  "shortDescription": "Excursion de 1 heure à Da Nang, comprenant une monture de lunettes sur mesure, test de vue personnalisé et thé ou café vietnamien et en-cas traditionnels. Opérateur : Khanh Hung Optical, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Lunettes de vue sur mesure chez un opticien colonial à Da Nang",
+  "metaDescription": "Excursion de 1 heure à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "scenic-countryside-bike-tour-lunch-and-stream-dip-in-da-nang": {
+  "title": "Balade à vélo dans la campagne, déjeuner et baignade en rivière à Da Nang",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend guide local anglophone et mécanicien vélo, transport aller-retour en voiture de Da Nang au point de départ de Hoa, VTT Trek Marlin 5 de qualité et casques et déjeuner local rustique au bord des rizières. Il ne comprend pas assurance voyage, dépenses personnelles et pourboires et autres repas, boissons et prestations non mentionnés dans les, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n48 An Thượng 26, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 6 heures",
+   "Guide local anglophone sympathique et mécanicien vélo",
+   "Transport aller-retour en voiture de Da Nang au point de départ de Hoa Bac",
+   "VTT Trek Marlin 5 de qualité et casques (surclassement en vélo électrique sur demande)",
+   "Déjeuner local rustique au bord des rizières, fruits de saison, café vietnamien et eau en bouteille"
+  ],
+  "included": [
+   "Guide local anglophone sympathique et mécanicien vélo",
+   "Transport aller-retour en voiture de Da Nang au point de départ de Hoa Bac.",
+   "VTT Trek Marlin 5 de qualité et casques (surclassement en vélo électrique sur demande)",
+   "Déjeuner local rustique au bord des rizières, fruits de saison, café vietnamien et eau en bouteille"
+  ],
+  "notIncluded": [
+   "Assurance voyage",
+   "Dépenses personnelles et pourboires",
+   "Autres repas, boissons et prestations non mentionnés dans les inclusions"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant guide local anglophone et mécanicien vélo, transport aller-retour en voiture de Da Nang au point de départ de Hoa et VTT Trek Marlin 5 de qualité et casques. Opérateur : BEEBIKEHUB, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Balade à vélo dans la campagne, déjeuner et baignade en rivière à Da Nang",
+  "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "charming-danang-show-ticket": {
   "title": "Billet pour le spectacle Charming Da Nang",
   "fullDescription": "Cette expérience de 1 heure se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -39525,6 +39944,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Billet d'entrée à Da Nang, comprenant entrée des sites avec téléphérique aller-retour. Opérateur : FLEXIBLE SOLUTIONS TRADING AND TOURISM ONE MEMBER COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Sun World Ba Na Hills : billet d'entrée avec téléphérique",
   "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-luxury-yacht-and-dragon-bridge-fire-show-in-da-nang": {
+  "title": "Yacht de luxe privé et spectacle de feu du pont du Dragon à Da Nang",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière privée sur un yacht de standing, vue privilégiée sur le spectacle de feu et d'eau du pont du Dragon, plateaux de fruits tropicaux frais, pâtisseries et gâteaux à l'européenne et boissons sans alcool offertes. Il ne comprend pas boissons alcoolisées, repas complets, prise en charge et retour à l'hôtel et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Croisière privée sur un yacht de standing (NC 14, AICON 56 ou Ocean Mansion)",
+   "Vue privilégiée sur le spectacle de feu et d'eau du pont du Dragon (21 h, du vendredi au dimanche)",
+   "Plateaux de fruits tropicaux frais",
+   "Pâtisseries et gâteaux à l'européenne",
+   "Boissons sans alcool offertes"
+  ],
+  "included": [
+   "Croisière privée sur un yacht de standing (NC 14, AICON 56 ou Ocean Mansion)",
+   "Vue privilégiée sur le spectacle de feu et d'eau du pont du Dragon (21 h, du vendredi au dimanche)",
+   "Plateaux de fruits tropicaux frais",
+   "Pâtisseries et gâteaux à l'européenne",
+   "Boissons sans alcool offertes",
+   "Musique live avec DJ"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées (en supplément, à l'achat)",
+   "Repas complets",
+   "Prise en charge et retour à l'hôtel (sur demande, en supplément)",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 1 heure à Da Nang, comprenant croisière privée sur un yacht de standing, vue privilégiée sur le spectacle de feu et d'eau du pont du Dragon et plateaux de fruits tropicaux frais. Opérateur : POSEIDON CRUISE DA NANG, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Yacht de luxe privé et spectacle de feu du pont du Dragon à Da Nang",
+  "metaDescription": "Excursion de 1 heure à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ba-na-by-night-from-da-nang-by-local-operator": {
   "title": "Ba Na Hills de nuit au départ de Da Nang",
@@ -39798,6 +40246,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang : balade gourmande à pied dans la cuisine de rue",
   "metaDescription": "Excursion à Da Nang. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "nui-than-tai-hot-springs-park-entry-ticket-in-da-nang": {
+  "title": "Billet d'entrée au parc de sources chaudes Nui Than Tai à Da Nang",
+  "fullDescription": "Cette expérience de 1 jour se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend accès aux attractions du parc aquatique, accès aux panoramas de montagne, billet d'entrée du parc thermal de Nui Than Tai, accès aux bassins d'eau thermale et rivière lente. Il ne comprend pas nourriture et boissons, bain de boue, services de massage et de spa et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 jour",
+   "Accès aux attractions du parc aquatique",
+   "Accès aux panoramas de montagne",
+   "Billet d'entrée du parc thermal de Nui Than Tai",
+   "Accès aux bassins d'eau thermale",
+   "Rivière lente"
+  ],
+  "included": [
+   "Accès aux attractions du parc aquatique",
+   "Accès aux panoramas de montagne",
+   "Billet d'entrée du parc thermal de Nui Than Tai",
+   "Accès aux bassins d'eau thermale",
+   "Rivière lente",
+   "Piscines extérieures",
+   "Stationnement gratuit"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Bain de boue (sauf si l'option est choisie)",
+   "Services de massage et de spa",
+   "Dépenses personnelles",
+   "Location de casier",
+   "Location de serviettes et de maillots de bain"
+  ],
+  "shortDescription": "Billet d'entrée à Da Nang, comprenant accès aux attractions du parc aquatique, accès aux panoramas de montagne et billet d'entrée du parc thermal de Nui Than Tai. Opérateur : DUC TUAN TRAVEL SERVICE COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Billet d'entrée au parc de sources chaudes Nui Than Tai à Da Nang",
+  "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "premium-massage-and-spa-treatments-pickup-included-in-da-nang": {
   "title": "Da Nang : massage et soins spa haut de gamme, transfert compris",
   "fullDescription": "Cette expérience de 60 minutes se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend en-cas, consigne gratuite, salle de douche, thé et serviette. Il ne comprend pas les pourboires sont facultatifs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -39967,6 +40447,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Excursion privée au Pont d'Or",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang": {
+  "title": "Visite privée de la ville en scooter avec une conductrice en ao dai à Da Nang",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend prise en charge et retour en scooter dans le centre de Da Nang, pilote et guide, casque de moto, nouilles après la sortie et tous les billets d'entrée et frais de stationnement. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Prise en charge et retour en scooter dans le centre de Da Nang",
+   "Pilote anglophone qui fait aussi office de guide",
+   "Casque de moto",
+   "Nouilles locales après la sortie",
+   "Tous les billets d'entrée et frais de stationnement"
+  ],
+  "included": [
+   "Prise en charge et retour en scooter dans le centre de Da Nang.",
+   "English speaking rider also guide.",
+   "Motorbike Helmet.",
+   "Nouilles locales après la sortie.",
+   "Tous les billets d'entrée et frais de stationnement.",
+   "Mineral water.",
+   "Assurance moto conforme à la législation vietnamienne."
+  ],
+  "notIncluded": [
+   "Boissons",
+   "Other personal expenses."
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant prise en charge et retour en scooter dans le centre de Da Nang, pilote et guide et casque de moto. Opérateur : Dich vu du lich lang que Cam Thanh, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée de la ville en scooter avec une conductrice en ao dai à Da Nang",
+  "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "private-half-day-city-highlights-tour-in-da-nang": {
   "title": "Da Nang : demi-journée privée des incontournables",
   "fullDescription": "Cette expérience de 6 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend voiture privée climatisée, guide, carburant et eau en bouteille. Il ne comprend pas repas et autres dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -39990,6 +40498,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant voiture privée climatisée, guide et carburant. Opérateur : BEST TADY TOUR, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : demi-journée privée des incontournables",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "n-n-spa-massage-nail-hair-washing-facial-and-skin-care-in-da-nang": {
+  "title": "Nón Spa : massage, manucure, shampoing, soin du visage et de la peau à Da Nang",
+  "fullDescription": "Cette expérience de 50 minutes se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDa Nang est la ville de la côte centrale, trente kilomètres de plage de la péninsule de Son Tra aux montagnes de Marbre, et le point de départ des excursions du centre du Vietnam. Ba Na Hills, à 40 kilomètres à l'ouest, est une station d'altitude française reconstruite en parc à thème à 1 400 mètres, desservie par l'un des plus longs téléphériques du monde, avec le Pont d'Or soutenu par deux mains de pierre géantes ; venez tôt, il y fait frais et il y a du monde. Les montagnes de Marbre sont cinq collines calcaires de grottes et de pagodes avec vue sur la côte. Son Tra abrite la Dame Bouddha de 67 mètres et les derniers douics à pattes rouges. Le col de Hai Van, la route qui monte vers Hué, est la plus belle du pays : on la fait à moto ou en voiture, avec des arrêts aux vieux bunkers français et américains du sommet.\n\nLe prix comprend massage corps entier ou des pieds à l'huile, salle de soin privée climatisée avec musique, boisson de bienvenue, crackers à la noix de coco et serviette fraîche ou chaude. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 50 minutes",
+   "Massage corps entier ou des pieds à l'huile, aux pochons d'herbes ou aux pierres chaudes par nos thérapeutes qualifiés, avec un soin de la peau : massage du visage, gommage ou enveloppement",
+   "Salle de soin privée climatisée avec musique apaisante",
+   "Boisson de bienvenue (thé arhat)",
+   "Crackers à la noix de coco",
+   "Serviette fraîche ou chaude (selon la saison)"
+  ],
+  "included": [
+   "Massage corps entier ou des pieds à l'huile, aux pochons d'herbes ou aux pierres chaudes par nos thérapeutes qualifiés, avec un soin de la peau : massage du visage, gommage ou enveloppement",
+   "Salle de soin privée climatisée avec musique apaisante",
+   "Boisson de bienvenue (thé arhat)",
+   "Crackers à la noix de coco",
+   "Serviette fraîche ou chaude (selon la saison)",
+   "Casier",
+   "Chaussons",
+   "Peignoir",
+   "Short de bain",
+   "Casier pour vos vêtements",
+   "Bain de pieds (sauf avec l'option soin du visage et les formules incluant un bain de vapeur)",
+   "Douche"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Da Nang, comprenant massage corps entier ou des pieds à l'huile, salle de soin privée climatisée avec musique et boisson de bienvenue. Opérateur : Nón Spa, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Nón Spa : massage, manucure, shampoing, soin du visage et de la peau à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "rafting-tour-with-lunch-or-dinner-in-da-nang": {
   "title": "Da Nang : rafting avec déjeuner ou dîner",
@@ -40069,6 +40609,65 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Da Nang, comprenant matériel de pêche, pêcheurs locaux et repas préparé avec votre pêche du jour. Opérateur : Thanh Van, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : pêche au calamar de nuit",
   "metaDescription": "Excursion à Da Nang. Comprend matériel de pêche et pêcheurs locaux. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "son-tra-wildlife-experience-in-da-nang": {
+  "title": "À la rencontre de la faune de Son Tra, à Da Nang",
+  "fullDescription": "Cette expérience de 4 heures se déroule au départ de Da Nang, construite autour de Café local. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend boisson de bienvenue, permis ou droit d'entrée, transport aller-retour vers Son Tra, matériel photo et guide naturaliste. Il ne comprend pas montage vidéo et photo et don pour soutenir le travail de conservation de VEN, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n60 Nguyễn Phi Khanh, Thanh Khê, Đà Nẵng 550000, Vietnam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Café local",
+   "Durée : 4 heures",
+   "Boisson de bienvenue",
+   "Permis ou droit d'entrée",
+   "Transport aller-retour vers Son Tra",
+   "Matériel photo"
+  ],
+  "included": [
+   "Boisson de bienvenue",
+   "Permis ou droit d'entrée",
+   "Transport aller-retour vers Son Tra",
+   "Matériel photo",
+   "Guide naturaliste",
+   "Support de caméra",
+   "Aide légère à la post-production",
+   "Votre récit publié sur les médias de VEN",
+   "Invitation à rejoindre la communauté de bénévoles conteurs"
+  ],
+  "notIncluded": [
+   "Montage vidéo et photo",
+   "Don pour soutenir le travail de conservation de VEN"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Local café and Son Tra et Da Nang. Opérateur : Viet Endangered Narratives Co Ltd, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "À la rencontre de la faune de Son Tra, à Da Nang",
+  "metaDescription": "Excursion d'une demi-journée à Da Nang. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "discover-sun-world-ba-na-hills-in-a-one-day-trip": {
+  "title": "Découvrez Sun World Ba Na Hills en une journée",
+  "fullDescription": "Cette expérience de 9 heures se déroule au départ de Da Nang, construite autour de Bus/autocar, Sun World Ba Na Hills et Téléphérique. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Mỹ An, Hải Châu District, Ngũ Hành Sơn, Sơn Trà, East Sea Park et Da Nang Cathedral ; le lieu et l’heure exacts sont convenus avec TRAVEL BUDDY COMPANY LIMITED une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour en bus ou minibus climatisé, guide anglophone, billet de téléphérique aller-retour, entrée du Pont d'Or et de Ba Na Hills et déjeuner buffet. Il ne comprend pas pourboires pour le guide et le chauffeur, billet du musée de cire, supplément pour les enfants de plus d'1,39 m et supplément les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. TRAVEL BUDDY COMPANY LIMITED confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Sun World Ba Na Hills",
+   "Téléphérique",
+   "Pont d'Or de Ba Na Hills",
+   "Durée : 9 heures",
+   "Prise en charge et retour en bus ou minibus climatisé"
+  ],
+  "included": [
+   "Prise en charge et retour en bus ou minibus climatisé",
+   "Guide anglophone expérimenté (non compris dans l'option voiture privée)",
+   "Billet de téléphérique aller-retour (non compris dans l'option voiture privée)",
+   "Entrée du Pont d'Or et de Ba Na Hills (non comprise dans l'option voiture privée)",
+   "Déjeuner buffet (si vous avez réservé l'option déjeuner ; non compris dans l'option voiture privée)",
+   "Eau en bouteille (1 bouteille par personne)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur",
+   "Billet du musée de cire, de la cave à vin, jeux avec lots et luge sur rail (Alpine Coaster)",
+   "Supplément pour les enfants de plus d'1,39 m (350 000 VND)",
+   "Supplément les jours fériés (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Sun World Ba Na Hills, Pont d'Or de Ba Na Hills et Ba Na Hills. Opérateur : TRAVEL BUDDY COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Découvrez Sun World Ba Na Hills en une journée",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "han-river-night-boat-trip-with-show-on-weekends-in-da-nang": {
   "title": "Da Nang : balade nocturne sur la rivière Han avec spectacle le week-end",
@@ -40250,6 +40849,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 3 heures à Da Nang, comprenant atelier de 180 minutes, écharpe en soie de Ma Chau et atelier gratuit de peinture sur éventail en tissu. Opérateur : The Hangart Da Nang, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : teinture naturelle et atelier gratuit de peinture sur éventail",
   "metaDescription": "Excursion de 3 heures à Da Nang. Comprend atelier de 180 minutes. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "da-nang-luxury-afternoon-tea-at-intercontinental-citron-by-local-operator": {
+  "title": "Thé de l'après-midi de luxe au Citron de l'InterContinental à Da Nang, par un opérateur local",
+  "fullDescription": "Cette expérience de 5 heures se déroule au départ de Da Nang, construite autour de Citron. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend afternoon tea au restaurant Citron, InterContinental, sélection de douceurs salées et sucrées d'inspiration vietnamienne, asiatique, thé et café haut de gamme, places à l'intérieur du restaurant Citron et coupe de champagne en option. Il ne comprend pas pourboires, aliments et boissons supplémentaires non mentionnés dans les, dépenses personnelles et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nCitron. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Citron",
+   "Durée : 5 heures",
+   "Afternoon tea au restaurant Citron, InterContinental Danang Sun Peninsula Resort",
+   "Sélection de douceurs salées et sucrées d'inspiration vietnamienne, asiatique et occidentale",
+   "Thé et café haut de gamme",
+   "Places à l'intérieur du restaurant Citron (terrasse selon disponibilité et météo)"
+  ],
+  "included": [
+   "Afternoon tea au restaurant Citron, InterContinental Danang Sun Peninsula Resort",
+   "Sélection de douceurs salées et sucrées d'inspiration vietnamienne, asiatique et occidentale",
+   "Thé et café haut de gamme",
+   "Places à l'intérieur du restaurant Citron (terrasse selon disponibilité et météo)",
+   "Coupe de champagne en option (si choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Aliments et boissons supplémentaires non mentionnés dans les inclusions",
+   "Dépenses personnelles",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Citron. Opérateur : Southern Breeze Joint stock company, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Thé de l'après-midi de luxe au Citron de l'InterContinental à Da Nang, par un opérateur local",
+  "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-aerobar-paradise-park-entry-ticket-by-local-operator": {
   "title": "Da Nang : billet d'entrée Aerobar Paradise Park",
@@ -42491,6 +43118,95 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hanoï : cuisine de rue à pied en petit groupe",
   "metaDescription": "Excursion de 3 heures à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "vietnam-airports-fast-track-skip-the-queue-on-arrival-in-da-nang": {
+  "title": "Coupe-file dans les aéroports du Vietnam : évitez la queue à l'arrivée à Da Nang",
+  "fullDescription": "Cette expérience de 15 minutes se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend accueil au terminal des arrivées internationales avant, accompagnement dans la file standard ou la file VIP prioritaire, accompagnement dans les formalités d'immigration et de douane, assistance à la récupération des bagages et accompagnement jusqu'à la zone de prise en charge des voitures et taxis. Il ne comprend pas frais de visa officiels applicables, frais de service pour le changement de visa, service de transport et transfert aéroport et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Up Travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 15 minutes",
+   "Accueil au terminal des arrivées internationales avant la zone d'immigration, avec une pancarte à votre nom",
+   "Accompagnement dans la file d'immigration standard ou VIP prioritaire",
+   "Accompagnement dans les formalités d'immigration et de douane",
+   "Assistance à la récupération des bagages (en supplément)",
+   "Accompagnement jusqu'à la zone de prise en charge (en supplément)"
+  ],
+  "included": [
+   "Accueil au terminal des arrivées internationales avant la zone d'immigration, avec une pancarte à votre nom",
+   "Accompagnement dans la file d'immigration standard ou VIP prioritaire",
+   "Accompagnement dans les formalités d'immigration et de douane",
+   "Assistance à la récupération des bagages (en supplément)",
+   "Accompagnement jusqu'à la zone de prise en charge (en supplément)"
+  ],
+  "notIncluded": [
+   "Frais de visa officiels applicables",
+   "Frais de service pour le changement de visa",
+   "Service de transport et transfert aéroport (en option)",
+   "Pourboires"
+  ],
+  "shortDescription": "Billet d'entrée à Da Nang, comprenant accueil au terminal des arrivées internationales avant, accompagnement dans la file standard ou la file VIP prioritaire et accompagnement dans les formalités d'immigration et de douane. Opérateur : Up Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Coupe-file dans les aéroports du Vietnam : évitez la queue à l'arrivée à Da Nang",
+  "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "golden-bridge-bana-hills-lady-buddha-and-marble-mountains-in-da-nang": {
+  "title": "Pont d'Or des Ba Na Hills, Dame Bouddha et montagnes de Marbre à Da Nang",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Da Nang, construite autour de Ba Na Hills, Téléphérique et Pont d'Or de Ba Na Hills. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend déjeuner buffet, véhicule climatisé, transferts aller-retour depuis et vers votre hôtel à Da Nang, droits d'entrée de la Dame Bouddha et des montagnes de Marbre et billet de téléphérique aller-retour. Il ne comprend pas frais d'ascenseur des montagnes de Marbre, billet de la cave à vin et quelques attractions du Fantasy Park et supplément pour une prise en charge éloignée du centre, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Dacotours confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Ba Na Hills",
+   "Téléphérique",
+   "Pont d'Or de Ba Na Hills",
+   "Le Jardin d'Amour",
+   "Durée : 9 heures",
+   "Guide local anglophone passionné, expérimenté et professionnel"
+  ],
+  "included": [
+   "Guide local anglophone passionné, expérimenté et professionnel",
+   "Déjeuner buffet avec option végétarienne (avec l'option « visite privée avec billets et déjeuner »)",
+   "Véhicule climatisé",
+   "Transferts aller-retour depuis et vers votre hôtel dans le centre de Da Nang",
+   "Droits d'entrée de la Dame Bouddha, des montagnes de Marbre et de Ba Na Hills (avec les options « visite privée avec billets et déjeuner » et « visite privée avec billets, sans déjeuner »)",
+   "Billet de téléphérique aller-retour (avec les options « visite privée avec billets et déjeuner » et « visite privée avec billets, sans déjeuner »)",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Déjeuner buffet avec option végétarienne (avec les options « visite privée avec billets, sans déjeuner » et « visite privée sans billets ni déjeuner »)",
+   "Droits d'entrée de la Dame Bouddha, des montagnes de Marbre et de Ba Na Hills (avec l'option « visite privée sans billets ni déjeuner »)",
+   "Billet de téléphérique aller-retour (avec l'option « visite privée sans billets ni déjeuner »)",
+   "Frais d'ascenseur des montagnes de Marbre",
+   "Billet de la cave à vin et quelques attractions du Fantasy Park (jeux avec lots, Alpine Coaster, musée de cire...)",
+   "Supplément pour une prise en charge éloignée du centre"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Ba Na Hills, Pont d'Or de Ba Na Hills et Le Jardin d'Amour. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pont d'Or des Ba Na Hills, Dame Bouddha et montagnes de Marbre à Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Comprend déjeuner buffet. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "my-son-sanctuary-mountain-hiking-and-the-secret-waterfall-in-da-nang": {
+  "title": "Sanctuaire de My Son, randonnée en montagne et cascade secrète à Da Nang",
+  "fullDescription": "Cette expérience de 5 heures se déroule à Da Nang, construite autour de Sanctuaire de My Son. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, véhicules modernes, guide anglophone, guide de randonnée en montagne et nourriture. Il ne comprend pas billet d'entrée du sanctuaire de My Son : 150 000 VND, équipement de randonnée et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Hoi An Local Tours Company Limited confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Sanctuaire de My Son",
+   "Durée : 5 heures",
+   "Prise en charge et retour à l'hôtel",
+   "Véhicules modernes",
+   "Guide professionnel anglophone",
+   "Guide de randonnée en montagne (option spécifique)"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Véhicules modernes",
+   "Guide professionnel anglophone",
+   "Guide de randonnée en montagne (option spécifique)",
+   "Nourriture, café et eau",
+   "Cuisine champa",
+   "Randonnée en montagne et baignade sous la cascade (options spécifiques)"
+  ],
+  "notIncluded": [
+   "Billet d'entrée du sanctuaire de My Son : 150 000 VND (toutes options)",
+   "Équipement de randonnée",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Sanctuaire de My Son. Opérateur : Hoi An Local Tours Company Limited, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sanctuaire de My Son, randonnée en montagne et cascade secrète à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "coconut-village-boat-and-hoi-an-city-tour": {
   "title": "Barque au village de cocotiers et visite de Hoi An",
   "fullDescription": "Cette expérience de 6,5 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel en minibus dans le centre de Da Nang, guide, droits d'entrée à Hoi An et à Cam Thanh, balade en barque ronde au village de cocotiers et balade en bateau et lâcher de lanternes sur la rivière Hoai. Il ne comprend pas pourboires pour le guide et le chauffeur, transferts hors des zones de prise en charge définies et billet de bateau pour les enfants de moins de 4 ans, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Venus Travel Hoi An confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -42684,6 +43400,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Cité impériale de Hué par le col de Hai Van",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "golden-bridge-sunset-and-night-all-inclusive-in-da-nang": {
+  "title": "Pont d'Or au coucher du soleil et en soirée, tout compris, à Da Nang",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Da Nang, construite autour de Ba Na Hills, Téléphérique et Pont d'Or de Ba Na Hills. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang, guide, billet de téléphérique aller-retour, entrée du Pont d'Or et de Ba Na Hills et montagnes russes. Il ne comprend pas pourboires pour le guide, billets coupe-file, jeux avec lots et cave à vin, visite du château Lunar et l'option tout compris au coucher du soleil, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. My Viet Trip confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Ba Na Hills",
+   "Téléphérique",
+   "Pont d'Or de Ba Na Hills",
+   "Durée : 8 heures",
+   "Prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang (plusieurs options)",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang (plusieurs options)",
+   "Guide anglophone",
+   "Billet de téléphérique aller-retour",
+   "Entrée du Pont d'Or et de Ba Na Hills",
+   "Montagnes russes (option coucher de soleil uniquement ; exploitées par Ba Na Hills, sous réserve de la météo et des horaires du parc).",
+   "Bon pour une bière offerte (option coucher de soleil uniquement, selon disponibilité et distribution par Ba Na Hills).",
+   "Dîner buffet (option coucher de soleil uniquement)",
+   "Eau en bouteille",
+   "Taxe sur la valeur ajoutée (TVA)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide",
+   "Skip-the-line tickets, Prize-winning games, Wine cellar, Interactive light.",
+   "Visite du château Lunar",
+   "L'option tout compris au coucher du soleil (et les créneaux de 13 h ou 13 h 30) ne comprend ni le déjeuner ni la visite du château Lunar."
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Ba Na Hills et Pont d'Or de Ba Na Hills. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pont d'Or au coucher du soleil et en soirée, tout compris, à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "coconut-forest-and-hoi-an-town-with-lantern-release": {
   "title": "Cocoteraie et vieille ville de Hoi An avec lâcher de lanternes",
   "fullDescription": "Cette expérience de 7 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend route panoramique jusqu'à la cocoteraie de Cam Thanh, balade en barque ronde dans la cocoteraie de Bay Mau, démonstration de pêche traditionnelle, spectacle de danse des barques rondes et visite guidée de la vieille ville de Hoi An. Il ne comprend pas boissons pendant le dîner et démonstration de barque ronde tournoyante, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -42711,6 +43459,102 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant route panoramique jusqu'à la cocoteraie de Cam Thanh, balade en barque ronde dans la cocoteraie de Bay Mau et démonstration de pêche traditionnelle. Opérateur : VM TRAVEL HOI AN, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Cocoteraie et vieille ville de Hoi An avec lâcher de lanternes",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "golden-bridge-ba-na-hills-and-marble-mountains-in-da-nang": {
+  "title": "Pont d'Or, Ba Na Hills et montagnes de Marbre à Da Nang",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Da Nang, construite autour de Bus/autocar, Sun World Ba Na Hills et Téléphérique. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, billet de téléphérique aller-retour avec entrée de Ba Na Hills et du Pont d'Or, billets d'entrée de la montagne de l'Eau, dans les montagnes de Marbre et ascenseur aller simple pour la montagne de l'Eau. Il ne comprend pas pourboires pour le guide, grotte d'Am Phu, options disponibles à Ba Na Hills : billets coupe-file et les enfants de plus d'1,39 m paient un supplément de, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Sun World Ba Na Hills",
+   "Téléphérique",
+   "Pont d'Or de Ba Na Hills",
+   "Durée : 9 heures",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Billet de téléphérique aller-retour avec entrée de Ba Na Hills et du Pont d'Or",
+   "Billets d'entrée de la montagne de l'Eau (si vous avez réservé l'option combo)",
+   "Ascenseur aller simple pour la montagne de l'Eau",
+   "Transport",
+   "Déjeuner buffet en option (si vous avez réservé l'option déjeuner)",
+   "Taxe sur la valeur ajoutée (TVA)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide",
+   "Grotte d'Am Phu",
+   "Options disponibles à Ba Na Hills : billets coupe-file, musée de cire, cave à vin, montagnes russes, jeux avec lots et parcours lumineux interactif",
+   "Les enfants de plus d'1,39 m paient un supplément de 350 000 VND. Les enfants de plus d'1 m doivent acheter un billet de téléphérique.",
+   "Supplément de 150 000 VND par personne les jours fériés (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Sun World Ba Na Hills, Pont d'Or de Ba Na Hills et Ba Na Hills. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pont d'Or, Ba Na Hills et montagnes de Marbre à Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "coconut-forest-boat-ride-and-optional-massage-in-da-nang": {
+  "title": "Balade en bateau dans la forêt de cocotiers et massage en option à Da Nang",
+  "fullDescription": "Cette expérience de 50 minutes se déroule à Da Nang, construite autour de Cocoteraie de Bay Mau. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend droit d'entrée de la cocoteraie de Bay Mau, balade en barque ronde, transfert privé depuis Da Nang, visite guidée à pied de la vieille ville de Hoi An avec le billet d'entrée et dîner vietnamien. Il ne comprend pas dépenses personnelles, pourboires, billet d'entrée de Hoi An et dîner, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Cocoteraie de Bay Mau",
+   "Durée : 50 minutes",
+   "Droit d'entrée de la cocoteraie de Bay Mau (palmeraie de nipa de Cam Thanh)",
+   "Balade en barque ronde",
+   "Transfert privé depuis Da Nang (en option)",
+   "Visite guidée à pied de la vieille ville de Hoi An avec le billet d'entrée (en option)"
+  ],
+  "included": [
+   "Droit d'entrée de la cocoteraie de Bay Mau (palmeraie de nipa de Cam Thanh)",
+   "Balade en barque ronde",
+   "Transfert privé depuis Da Nang (en option)",
+   "Visite guidée à pied de la vieille ville de Hoi An avec le billet d'entrée (en option)",
+   "Dîner vietnamien (en option)",
+   "Massage de 60 minutes (en option)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires",
+   "Transfert privé depuis Da Nang (en option)",
+   "Billet d'entrée de Hoi An (compris uniquement dans l'option visite guidée)",
+   "Dîner (s'il n'est pas réservé)",
+   "Massage (s'il n'est pas réservé) et tout surclassement en massage premium ou bain de vapeur.",
+   "Supplément jours fériés de 150 000 VND par personne (24-25 et 31 décembre, 1er janvier, 29-30 avril, 1er-2 mai et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion de 0,8333333333333334 heures à Da Nang, avec Cocoteraie de Bay Mau. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Balade en bateau dans la forêt de cocotiers et massage en option à Da Nang",
+  "metaDescription": "Excursion de 0,8333333333333334 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "off-road-atv-adventure-with-bbq-feast-in-da-nang": {
+  "title": "Aventure en quad tout-terrain et festin au barbecue à Da Nang",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Da Nang, construite autour de Province de Quang Nam. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge à l'hôtel à Da Nang, prise en charge au point de rendez-vous, la poste de Hoi An, location de quad partagé, casque et équipement de sécurité et guide. Il ne comprend pas dépenses personnelles, supplément pour un seul passager, assurance voyage et supplément jours fériés de 10 %, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. My Viet Trip confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Province de Quang Nam",
+   "Durée : 6 heures",
+   "Prise en charge à l'hôtel à Da Nang (si l'option est choisie)",
+   "Prise en charge au point de rendez-vous, la poste de Hoi An",
+   "Location de quad partagé (2 personnes par véhicule)",
+   "Casque et équipement de sécurité"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel à Da Nang (si l'option est choisie)",
+   "Prise en charge au point de rendez-vous, la poste de Hoi An",
+   "Location de quad partagé (2 personnes par véhicule)",
+   "Casque et équipement de sécurité",
+   "Guide anglophone",
+   "Briefing de sécurité et consignes de conduite",
+   "Repas barbecue (options végétarienne et végane disponibles), si choisi",
+   "Rafraîchissements",
+   "Toutes les taxes et frais de service"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Supplément pour un seul passager (500 000 VND par personne)",
+   "Assurance voyage",
+   "Supplément jours fériés de 10 % (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Province de Quang Nam. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Aventure en quad tout-terrain et festin au barbecue à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Comprend prise en charge à l'hôtel à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ba-na-hills-golden-bridge-photoshoot-with-memories-in-da-nang": {
   "title": "Ba Na Hills et Pont d'Or : séance photo souvenir",
@@ -42979,6 +43823,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang : marché, travaux des champs et cours de cuisine",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "ba-na-hills-and-golden-bridge-with-chauffeur-in-da-nang": {
+  "title": "Ba Na Hills et Pont d'Or avec chauffeur à Da Nang",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour : depuis votre hôtel à Da, durée : journée complète, véhicules privés au choix : 4, 7 et chauffeur : chauffeur local expérimenté qui connaît les meilleurs. Il ne comprend pas billet d'entrée de Ba Na Hills et du Pont d'Or et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Go Travel Da Nang- Vietnam Package Tours, Airport Transfers & Car Rental confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Prise en charge et retour : depuis votre hôtel à Da Nang ou à Hoi An",
+   "Durée : journée complète (8 à 10 heures)",
+   "Véhicules privés au choix : 4, 7 ou 16 places selon votre groupe",
+   "Chauffeur : chauffeur local expérimenté qui connaît les meilleurs itinéraires"
+  ],
+  "included": [
+   "Prise en charge et retour : depuis votre hôtel à Da Nang ou à Hoi An.",
+   "Durée : journée complète (8 à 10 heures)",
+   "Véhicules privés au choix : 4, 7 ou 16 places selon votre groupe.",
+   "Chauffeur : chauffeur local expérimenté qui connaît les meilleurs itinéraires."
+  ],
+  "notIncluded": [
+   "Billet d'entrée de Ba Na Hills et du Pont d'Or (le chauffeur vous emmène au bureau avant la visite)",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant prise en charge et retour : depuis votre hôtel à Da, durée : journée complète et véhicules privés au choix : 4, 7. Opérateur : Go Travel Da Nang- Vietnam Package Tours, Airport Transfers & Car Rental, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Ba Na Hills et Pont d'Or avec chauffeur à Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "ba-na-hills-and-golden-bridge-cable-car-ticket-in-da-nang": {
   "title": "Ba Na Hills et Pont d'Or : billet de téléphérique depuis Da Nang",
   "fullDescription": "Cette expérience se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet de téléphérique pour Ba Na Hills et le Pont d'Or et déjeuner buffet. Il ne comprend pas dépenses personnelles et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An Express vous envoie le point de rendez-vous et l'heure par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -42997,6 +43865,63 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Billet d'entrée à Da Nang, comprenant billet de téléphérique pour Ba Na Hills et le Pont d'Or et déjeuner buffet. Opérateur : Hoi An Express, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Ba Na Hills et Pont d'Or : billet de téléphérique depuis Da Nang",
   "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "golden-bridge-ba-na-hills-day-tour-in-da-nang": {
+  "title": "Journée au Pont d'Or et aux Ba Na Hills à Da Nang",
+  "fullDescription": "Cette expérience de 9,5 heures se déroule à Da Nang, construite autour de Pont d'Or de Ba Na Hills, téléphérique et Téléphérique. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang, transport en bus climatisé, guide, déjeuner buffet à 350 000 VND et billet de téléphérique aller-retour pour le Pont d'Or et Ba Na Hills. Il ne comprend pas billets coupe-file, billet du musée de cire et jeux avec lots, cave à vin et montagnes russes et supplément de 100 000 VND par personne les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Da Nang. Hiep Hoi An Travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pont d'Or de Ba Na Hills, téléphérique",
+   "Téléphérique",
+   "Durée : 9,5 heures",
+   "Prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang (plusieurs options)",
+   "Transport en bus climatisé",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel depuis Hoi An ou Da Nang (plusieurs options)",
+   "Transport en bus climatisé",
+   "Guide anglophone",
+   "Déjeuner buffet à 350 000 VND (selon l'option choisie)",
+   "Billet de téléphérique aller-retour et entrée du Pont d'Or et de Ba Na Hills : 1 000 000 VND",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Billets coupe-file",
+   "Billet du musée de cire et jeux avec lots",
+   "Cave à vin et montagnes russes",
+   "Supplément de 100 000 VND par personne les jours fériés (Têt du 20 au 21 février 2026 et 1er janvier 2026)"
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Pont d'Or de Ba Na Hills, téléphérique. Opérateur : Hiep Hoi An Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Journée au Pont d'Or et aux Ba Na Hills à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "da-nang-war-tour-from-champa-kingdom-sculptury-to-weaponry-da-nang": {
+  "title": "Da Nang, sur les traces de la guerre : de la sculpture du royaume Champa à l'armement (Da Nang)",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend guide privé spécialiste de l'histoire et de l'armée, billets d'entrée de la base militaire, billets d'entrée du musée cham, trajet en voiture du musée cham au musée militaire et taxes et frais. Il ne comprend pas assurance voyage, pourboires et dépenses personnelles et prise en charge et retour, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Guide privé spécialiste de l'histoire et de l'armée",
+   "Billets d'entrée de la base militaire",
+   "Billets d'entrée du musée cham",
+   "Trajet en voiture du musée cham au musée militaire",
+   "Taxes et frais"
+  ],
+  "included": [
+   "Guide privé spécialiste de l'histoire et de l'armée.",
+   "Military base entrance tickets.",
+   "Cham Museum entrance tickets.",
+   "Trajet en voiture du musée cham au musée militaire.",
+   "Taxes et frais.",
+   "Mineral Water."
+  ],
+  "notIncluded": [
+   "Travel Insurance.",
+   "Pourboires et dépenses personnelles.",
+   "Pick up/drop off."
+  ],
+  "shortDescription": "Excursion de 3 heures à Da Nang, comprenant guide privé spécialiste de l'histoire et de l'armée, billets d'entrée de la base militaire et billets d'entrée du musée cham. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Da Nang, sur les traces de la guerre : de la sculpture du royaume Champa à l'armement (Da Nang)",
+  "metaDescription": "Excursion de 3 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang": {
   "title": "Montagne de Marbre, montagne du Singe et grotte d'Am Phu à Da Nang",
@@ -43062,6 +43987,38 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Excursion à Da Nang, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Dong Am Phu. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Montagne du Singe, montagne de Marbre et grotte d'Am Phu à Da Nang",
+  "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hue-imperial-day-trip-hai-van-pass-train-and-lunch": {
+  "title": "Journée impériale à Hué, train du col de Hai Van et déjeuner",
+  "fullDescription": "Cette expérience de 12,5 heures se déroule à Da Nang, construite autour de Gare de Da Nang, Train et Plage de Lang Co. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel dans le centre de Da Nang, billet de train aller simple de Da Nang à la gare de Lang Co (Hué), déjeuner vietnamien, billet de la cité impériale de Hué et billet du tombeau de Khai Dinh. Il ne comprend pas pourboires et supplément pour une prise en charge et un retour hors du centre, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Gare de Da Nang",
+   "Train",
+   "Plage de Lang Co",
+   "Citadelle historique de Hué",
+   "Durée : 12,5 heures",
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang",
+   "Billet de train aller simple de Da Nang à la gare de Lang Co (Hué)",
+   "Déjeuner vietnamien (option végétarienne disponible)",
+   "Billet de la cité impériale de Hué (si l'option est choisie)",
+   "Billet du tombeau de Khai Dinh (si l'option est choisie)",
+   "Billet de la pagode de Thien Mu (si l'option est choisie)",
+   "Guide local anglophone",
+   "Eau en bouteille",
+   "Assurance voyage",
+   "Transport en bus climatisé",
+   "Chauffeur"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Supplément pour une prise en charge et un retour hors du centre de Da Nang (voiture 4 places : 12 $ par trajet, 3 personnes max ; 7 places : 15 $ par trajet, 5 personnes max)"
+  ],
+  "shortDescription": "Excursion à Da Nang, avec Gare de Da Nang, Lang Co Beach and Hue et Vietnam. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Journée impériale à Hué, train du col de Hai Van et déjeuner",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "transfer-from-da-nang-to-hoian-or-vice-versa": {
@@ -43136,6 +44093,39 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,8333333333333334 heures à Da Nang, avec Hàn River, Da Nang, Dragon Bridge, Da Nang and Hàn River et Da NangTransfer. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Da Nang : croisière locale de nuit sur la rivière Han",
   "metaDescription": "Excursion de 0,8333333333333334 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hue-imperial-tour-heritage-train-via-hai-van-pass": {
+  "title": "Hué impériale : train du patrimoine par le col de Hai Van",
+  "fullDescription": "Cette expérience de 11 heures se déroule à Da Nang, construite autour de Col de Hai Van, en train, Plage de Lang Co et Citadelle historique de Hué. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à votre hôtel dans le centre de Da Nang, véhicule climatisé de qualité, 16 places, guide, billet du train patrimonial et tombeau de Khai Dinh. Il ne comprend pas dépenses personnelles, boissons pendant le déjeuner, pourboires pour le chauffeur et le guide et prise en charge hors du centre de Da Nang, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Col de Hai Van, en train",
+   "Plage de Lang Co",
+   "Citadelle historique de Hué",
+   "Restaurant local",
+   "Durée : 11 heures",
+   "Prise en charge et retour à votre hôtel dans le centre de Da Nang"
+  ],
+  "included": [
+   "Prise en charge et retour à votre hôtel dans le centre de Da Nang",
+   "Véhicule climatisé de qualité, 16 places",
+   "Guide anglophone",
+   "Billet du train patrimonial (aller simple, gare de Da Nang à gare de Lang Co)",
+   "Tombeau de Khai Dinh (150 000 VND si vous choisissez l'option avec entrée)",
+   "Citadelle de Hué (200 000 VND si vous choisissez l'option avec entrée)",
+   "Déjeuner de spécialités de Hué (option végétarienne sur demande)",
+   "Bain de pieds traditionnel aux herbes dans un restaurant local",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Boissons pendant le déjeuner",
+   "Pourboires pour le chauffeur et le guide (facultatifs)",
+   "Prise en charge hors du centre de Da Nang : 200 000 VND par trajet en berline 4 places (3 personnes max) ou 250 000 VND en SUV 7 places (5 personnes max)",
+   "Prise en charge dans la vieille ville de Hoi An : 250 000 VND par trajet en berline 4 places (3 personnes max) ou 300 000 VND en SUV 7 places (5 personnes max)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Da Nang, avec Col de Hai Van, en train, Plage de Lang Co et Citadelle historique de Hué. Opérateur : VM TRAVEL HOI AN, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hué impériale : train du patrimoine par le col de Hai Van",
+  "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ban-khoang-and-ta-phin-villages-motorbike-tour-in-sapa": {
   "title": "Sapa : virée à moto dans les villages de Ban Khoang et Ta Phin",
