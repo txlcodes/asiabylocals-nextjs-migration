@@ -4901,6 +4901,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Saigon und Cho Lon: Stadttour durch Chinatown",
   "metaDescription": "1,5-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "open-top-bus-tour-and-water-puppet-show-experience-in-ho-chi-minh-city": {
+  "title": "Open-Top-Bustour und Wasserpuppentheater in Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ticket für 1 Rundfahrt mit dem Bus in Ho-Chi-Minh-Stadt, Eintritt zur Wasserpuppentheater-Vorstellung, Mobiles E-Ticket wird akzeptiert, 1 Flasche Trinkwasser und Service mit bevorzugtem Einlass, sofern die Stätte ihn anbietet. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Mahlzeiten, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Ticket für 1 Rundfahrt mit dem Bus in Ho-Chi-Minh-Stadt (nachmittags)",
+   "Eintritt zur Wasserpuppentheater-Vorstellung",
+   "Mobiles E-Ticket wird akzeptiert",
+   "1 Flasche Trinkwasser",
+   "Service mit bevorzugtem Einlass, sofern die Stätte ihn anbietet"
+  ],
+  "included": [
+   "Ticket für 1 Rundfahrt mit dem Bus in Ho-Chi-Minh-Stadt (nachmittags)",
+   "Eintritt zur Wasserpuppentheater-Vorstellung",
+   "Mobiles E-Ticket wird akzeptiert",
+   "1 Flasche Trinkwasser",
+   "Service ohne Anstehen",
+   "Stadtplan",
+   "Kostenloses WLAN im Bus",
+   "Kegelhut und Regenjacke werden bei Sonne wie bei Regen gestellt",
+   "Versicherung an Bord"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Ticket für 1 Rundfahrt mit dem Bus in Ho-Chi-Minh-Stadt, Eintritt zur Wasserpuppentheater-Vorstellung und Mobiles E-Ticket wird akzeptiert. Durchgeführt von ANH VIET HOP ON - HOP OFF VIET NAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Open-Top-Bustour und Wasserpuppentheater in Ho-Chi-Minh-Stadt",
+  "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "shore-excursion-cu-chi-tunnel-ho-chi-minh-city-phu-my-port-by-local-operator": {
   "title": "Landausflug: Cu-Chi-Tunnel und Ho-Chi-Minh-Stadt ab dem Hafen Phu My",
   "fullDescription": "Dies ist ein 12-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privatwagen mit Klimaanlage, Abholung und Rückfahrt am Hafen Phu, Mineralwasser, Der Leistungsumfang hängt von der gewählten Option ab, Leichtes Mittagessen im Restaurant und Alle Eintrittsgebühren. Nicht enthalten sind Trinkgelder und persönliche Ausgaben, Getränke und Optionale Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhu My Port. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -6536,6 +6568,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Privater Transfer, Eintrittsgebühren und Frühstück am zweiten Tag. Durchgeführt von Thom's VN Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Schwimmender Markt und Mekongdelta: 2 private Tage",
   "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Privater Transfer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "cu-chi-tunnels-guided-tour-2": {
+  "title": "Cu-Chi-Tunnel: geführte Tour",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch der Cu-Chi-Tunnel, Halt für einen Kaffee und Reiseleiter. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHo Chi Minh. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 7 Stunden",
+   "Besuch der Cu-Chi-Tunnel",
+   "Halt für einen Kaffee und Vorführung der Lackkunst",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "Transport im klimatisierten Bus oder Van",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittskarten und 1 Flasche Wasser",
+   "Abholung an zentral gelegenen Hotels",
+   "Absetzen am Ben-Thanh-Markt (oder im Büro von Vietnam Adventure Tours)"
+  ],
+  "notIncluded": [
+   "Munition (falls Sie das Schießen ausprobieren)",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Transport im klimatisierten Bus oder Van, Reiseleiter und Eintrittskarten und 1 Flasche Wasser. Durchgeführt von Vietnam Adventure Tours JSC, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu-Chi-Tunnel: geführte Tour",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "scooter-street-food-with-local-guide-in-ho-chi-minh-city": {
   "title": "Ho-Chi-Minh-Stadt: Streetfood per Roller mit einheimischem Guide",
@@ -8689,6 +8746,30 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Drei ikonische vietnamesische Kaffees selbst machen: braun, gesalzen und Eierkaffee",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "cu-chi-tunnels-kisstour-guided-tour": {
+  "title": "Cu-Chi-Tunnel: geführte KissTour",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reiseleiterinnen im Ao Dai, Roller, Kostenlose Abholung und Rückfahrt in den Distrikten 1, 3 und, Flexible Zeiten und Das gesamte im Programm genannte Streetfood wie Banh Mi. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KissTour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Englischsprachige Reiseleiterinnen im Ao Dai",
+   "Roller, Benzin, Helme und Regenponchos bei Bedarf",
+   "Kostenlose Abholung und Rückfahrt in den Distrikten 1, 3 und 4",
+   "Flexible Zeiten",
+   "Das gesamte im Programm genannte Streetfood: Banh Mi, vietnamesische Pizza, Süßkartoffelbällchen, Avocado-Eis und weitere Spezialitäten"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Roller, Helme, Benzin und Regenponcho bei Bedarf",
+   "Speisen und Getränke unbegrenzt"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Zuschlag für besondere Abholungen außerhalb der Distrikte 1, 3 und 4"
+  ],
+  "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt zum Hotel, Roller und Speisen und Getränke unbegrenzt. Durchgeführt von KissTour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu-Chi-Tunnel: geführte KissTour",
+  "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "story-of-saigon-afternoon-group-tour": {
   "title": "Die Geschichte Saigons: Gruppentour am Nachmittag",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Milktea & Coffee LEO, Unabhängigkeitspalast und Kriegsopfermuseum. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Erfahrener einheimischer englischsprachiger Guide, Cyclo-Fahrt durch das Viertel Bàn Cờ, Verkostung des traditionellen vietnamesischen „Sockenkaffees“, Alle Eintrittsgebühren und Erlebnis in kleiner Gruppe (maximal 12 Personen). Nicht enthalten sind Speisen und Getränke über das Genannte hinaus, Persönliche Einkäufe und Souvenirs, Trinkgelder für Reiseleiter und Cyclo-Fahrer und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nĐài tưởng niệm Bồ tát Thích Quảng Đức. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -8715,6 +8796,32 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Hầm Vũ Khí Bí Mật Secret Weapon Cellar, Milktea & Coffee LEO und Unabhängigkeitspalast. Durchgeführt von Discova Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Die Geschichte Saigons: Gruppentour am Nachmittag",
+  "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "kisstour-in-ho-chi-minh-city-3": {
+  "title": "KissTour in Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reiseleiterinnen im Ao Dai, Roller, Kostenlose Abholung und Rückfahrt in den Distrikten 1, 3 und, Flexible Zeiten und Das gesamte im Programm genannte Streetfood wie Banh Mi. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KissTour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Englischsprachige Reiseleiterinnen im Ao Dai",
+   "Roller, Benzin, Helme und Regenponchos bei Bedarf",
+   "Kostenlose Abholung und Rückfahrt in den Distrikten 1, 3 und 4",
+   "Flexible Zeiten",
+   "Das gesamte im Programm genannte Streetfood: Banh Mi, vietnamesische Pizza, Süßkartoffelbällchen, Avocado-Eis und weitere Spezialitäten"
+  ],
+  "included": [
+   "Eine Auswahl veganer und vegetarischer Gerichte an den verschiedenen Stopps",
+   "Englischsprachiger Rollerfahrer",
+   "Abholung und Rückfahrt am Hotel (Bezirke 1, 3 und 4)",
+   "Helm und Benzin",
+   "Regenponcho bei Regen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Eine Auswahl veganer und vegetarischer Gerichte an den verschiedenen Stopps, Rollerfahrer und Abholung und Rückfahrt am Hotel. Durchgeführt von KissTour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "KissTour in Ho-Chi-Minh-Stadt",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "mekong-delta-vip-tour-by-limousine": {
@@ -13590,6 +13697,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Sapa, mit Muong-Hoa-Tal. Durchgeführt von SAPA GROUP TOUR, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sapa: Reisterrassen und Dörfer entdecken",
   "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Englischsprachiger Wanderführer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "y-linh-ho-lao-chai-and-ta-van-trekking-tour-in-sapa-2": {
+  "title": "Trekking von Y Linh Ho nach Lao Chai und Ta Van in Sapa",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind einheimischer Reiseleiter in Sapa, Wanderung durch das Dorf Y Linh Ho, Mittagessen in einem lokalen Restaurant im Dorf Lao Chai und Rückfahrt nach Sapa im Minivan. Nicht enthalten sind Getränke und Alles, was oben nicht ausdrücklich genannt ist, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSa Pa Stone Church. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Einheimischer englischsprachiger Reiseleiter in Sapa",
+   "Wanderung durch das Dorf Y Linh Ho, die Reisterrassen, den Muong-Hoa-Bach, das Schwarze-Hmong-Dorf Lao Chai und das Dorf Ta Van",
+   "Mittagessen in einem lokalen Restaurant im Dorf Lao Chai",
+   "Rückfahrt nach Sapa im Minivan"
+  ],
+  "included": [
+   "Abholung am Hotel im Ort Sapa",
+   "Geführte Trekkingtour",
+   "Besuch des Dorfes Y Linh Ho",
+   "Besuch des Dorfes Lao Chai",
+   "Besuch des Dorfes Ta Van",
+   "Lokales Mittagessen",
+   "Rücktransfer in den Ort Sapa im privaten Wagen",
+   "Lagern Sie Ihr Gepäck in unserem Büro im Ort Sapa (bitte sagen Sie uns vorab Bescheid)."
+  ],
+  "notIncluded": [
+   "Getränke zum Mittagessen",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Halbtägige Tour in Sapa, mit Dorf Lao Chai und Ta Van. Durchgeführt von Ethnic Community Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Trekking von Y Linh Ho nach Lao Chai und Ta Van in Sapa",
+  "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Abholung am Hotel im Ort Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "trekking-adventure-of-sapa-stay-in-ta-van-village-3-days": {
   "title": "Sapa: 3-tägige Wanderung mit Aufenthalt im Dorf Ta Van",
@@ -28771,6 +28906,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hue, Hoi An und Da Nang: Easy-Rider-Motorradtour über den Hai-Van-Pass (Hoi An)",
   "metaDescription": "Ganztägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "ba-na-hills-and-golden-bridge-full-day-tour": {
+  "title": "Ba Na Hills und Goldene Brücke: Ganztagestour",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Hoi An, rund um Goldene Brücke in Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nAbholung ist ab Điện Dương, Thanh Khê District, Ngũ Hành Sơn, Sơn Trà, Hải Châu District und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit hoang thien travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Klimatisierter Minivan, Guide, Seilbahn-Rückfahrkarte für 1.000.000 VND pro Erwachsenem und Mittagsbuffet für 350.000 VND pro Erwachsenen. Nicht enthalten sind Trinkgeld für den Guide, Tickets mit bevorzugtem Einlass, sofern die Stätte ihn anbietet, Eintritt zum Wachsfigurenkabinett und Verkostung im Weinkeller, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. hoang thien travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Goldene Brücke in Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel (Da Nang oder Hoi An je nach Option)",
+   "Klimatisierter Minivan",
+   "Englischsprachiger Guide",
+   "Seilbahn-Rückfahrkarte für 1.000.000 VND pro Erwachsenem (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (Da Nang oder Hoi An je nach Option)",
+   "Klimatisierter Minivan",
+   "Englischsprachiger Guide",
+   "Seilbahn-Rückfahrkarte für 1.000.000 VND pro Erwachsenem (bei Wahl dieser Option)",
+   "Mittagsbuffet für 350.000 VND pro Erwachsenem (bei Wahl dieser Option)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Trinkgeld für den Guide",
+   "Tickets ohne Anstehen",
+   "Eintritt zum Wachsfigurenkabinett",
+   "Verkostung im Weinkeller",
+   "Kostenpflichtige Spiele: Achterbahn, Kletterspiele und Gewinnspiele",
+   "10D-Kino",
+   "Zuschlag von 300.000 VND für Kinder über 1,40 m"
+  ],
+  "shortDescription": "Ganztägige Tour in Hoi An, mit Goldene Brücke in Ba Na Hills. Durchgeführt von hoang thien travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Ganztagestour",
+  "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "discover-traditional-silk-process-in-hoi-an-silk-village-by-local-operator": {
   "title": "Hoi An: traditionelle Seidenherstellung im Seidendorf",
   "fullDescription": "Dies ist ein 50-minütiges Erlebnis in Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Eintrittsgebühr und Flasche Wasser. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Mahlzeit und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -30817,6 +30984,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An: Strand An Bang, Dorf Tra Que und Taran-Shop",
   "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Besuch des Cafés The Deck House. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "from-da-nang-or-hoi-an-ba-na-hills-golden-bridge-tour-by-local-operator": {
+  "title": "Ab Da Nang oder Hoi An: Ba Na Hills und Goldene Brücke, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Hoi An, rund um Bus/Reisebus, Sun World Ba Na Hills und Seilbahn. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hội An, Da Nang und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Happy Holiday Travel - Viet Nam abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Klimatisierter Transport, Guide, Seilbahnticket hin und zurück und Eintritt zur Goldenen Brücke. Nicht enthalten sind Bevorzugter Einlass, sofern die Stätte ihn anbietet, Eintritt zum Wachsfigurenkabinett, Weinkeller und Achterbahn, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. Happy Holiday Travel - Viet Nam bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Sun World Ba Na Hills",
+   "Seilbahn",
+   "Goldene Brücke in Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Klimatisierter Transport",
+   "Guide",
+   "Seilbahnticket hin und zurück",
+   "Eintritt zur Goldenen Brücke",
+   "Eintritt zu den Ba Na Hills",
+   "Mittagsbuffet (bei Wahl dieser Option)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Einlass ohne Anstehen",
+   "Eintritt zum Wachsfigurenkabinett",
+   "Weinkeller",
+   "Achterbahn",
+   "Andere Getränke",
+   "Aufpreis von 100.000 VND pro Person an Feiertagen (31. Dezember-1. Januar, 29.-30. April, 1.-2. Mai, 24.-25. Dezember und Mondneujahr)"
+  ],
+  "shortDescription": "Ganztägige Tour in Hoi An, mit Sun World Ba Na Hills, Goldene Brücke in Ba Na Hills und Fantasy Park. Durchgeführt von Happy Holiday Travel - Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Da Nang oder Hoi An: Ba Na Hills und Goldene Brücke, von einem lokalen Anbieter",
+  "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "easy-rider-motorbike-tour-via-hai-van-pass-hoi-an-da-nang-hue-by-local-operator": {
   "title": "Easy-Rider-Motorradtour über den Hai-Van-Pass: Hoi An, Da Nang und Hue, von einem lokalen Anbieter",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHoi An ist ein Handelshafen, den der Thu-Bon-Fluss im 19. Jahrhundert verlanden ließ, und genau deshalb blieb die Altstadt aus chinesischen Ladenhäusern, Versammlungshallen, der japanischen überdachten Brücke und ockergelb getünchten Kaufmannshäusern so vollständig erhalten, dass sie 1999 UNESCO-Welterbe wurde. Die Altstadt ist den größten Teil des Tages für Motorräder gesperrt, abends von Seidenlaternen beleuchtet und am vollsten beim Laternenfest zum Vollmond in jedem Mondmonat. Ringsum: das Gemüsedorf Tra Que, die Wasserkokos-Kanäle von Cam Thanh mit ihren runden Korbbooten, das Töpferdorf Thanh Ha, der Strand von An Bang und, 40 Kilometer landeinwärts, die Cham-Tempelruinen von My Son, am besten um 7:00 Uhr vor den Reisebussen. Die Stadt ist außerdem Vietnams Schneiderhauptstadt; ein Anzug dauert 24 Stunden.\n\nAbholung ist ab Hue und Hoi An möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip) abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Alle Eintrittskarten und Parkgebühren, Englischsprachiger Easy Rider, Ein Motorrad, Kraftstoff und Ein Helm nach internationalem Sicherheitsstandard. Nicht enthalten sind Essen, Option Selbstfahren: auf besondere Anfrage und Besondere Gepäckanfrage, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -31100,6 +31300,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An: kulinarische Tour",
   "metaDescription": "3-stündige Tour in Hoi An. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2": {
+  "title": "Nächtliche Bootsfahrt auf dem Hoai und schwimmende Laternen in Hoi An",
+  "fullDescription": "Dies ist ein 15-minütiges Erlebnis ab Hoi An, rund um Thu-Bon-Fluss. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 15-minütige Bootsfahrt und 1 Schwimmlaterne pro Person. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Essen und Getränke und sonstige oben nicht genannte Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nMemory Statue of Kazimierz Kwiatkowski, 138 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Thu-Bon-Fluss",
+   "Dauer: 15 Minuten",
+   "15-minütige Bootsfahrt",
+   "1 Schwimmlaterne pro Person"
+  ],
+  "included": [
+   "Fahrt im traditionellen Holzboot (10 bis 15 Minuten)",
+   "Schwimmlaterne (1 pro Person)",
+   "Einheimische Ruderin",
+   "Betreuung durch den Guide am Treffpunkt"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke",
+   "Eintrittskarte für das UNESCO-Welterbe Hoi An (120.000 VND pro Ticket)",
+   "Weitere oben nicht genannte Ausgaben"
+  ],
+  "shortDescription": "0,25-stündige Tour in Hoi An, mit On foot und Thu-Bon-Fluss. Durchgeführt von Vietnam Orange Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nächtliche Bootsfahrt auf dem Hoai und schwimmende Laternen in Hoi An",
+  "metaDescription": "0,25-stündige Tour in Hoi An. Enthalten: Fahrt im traditionellen Holzboot. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "hanoi-afternoon-escape-trang-an-bac-pagoda-and-lantern-boat-hoi-an": {
   "title": "Nachmittagsausflug: Trang An, Bai-Dinh-Pagode und Laternenboot",
   "fullDescription": "Dies ist ein 11-stündiges Erlebnis ab Hoi An, rund um Trang An und Hoa Lu. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Klimatisierter Transport, Reiseleiter, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Bootsfahrt in Trang An und Abendliche Laternenfahrt mit Aussetzen einer Schwimmlaterne. Nicht enthalten sind Persönliche Ausgaben, Alkoholische und zusätzliche Getränke und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAltstadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -31300,6 +31525,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Hoi An, inklusive Klimatisierter Transport, Englischsprachiger Reiseleiter und Mittag- oder Abendessen. Durchgeführt von BEST TADY TOUR, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Da Nang und Hoi An: ganzer Tag",
   "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Klimatisierter Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-golden-bridge-and-optional-massage": {
+  "title": "Ba Na Hills, Goldene Brücke und optionale Massage",
+  "fullDescription": "Dies ist ein 8,5-stündiges Erlebnis ab Hoi An, rund um Bus/Reisebus, Sun World Ba Na Hills und Seilbahn. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Ngũ Hành Sơn, Mỹ An und Hội An möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit My Viet Trip abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel ab Da Nang im klimatisierten Fahrzeug, Guide, Seilbahnticket hin und zurück mit Eintritt zu Ba Na Hills und zur Goldenen, Optionales Mittagsbuffet und 60-minütige Massage. Nicht enthalten sind Mittagessen, Massage, Trinkgeld für den Guide und Optionale Extras in den Ba Na Hills: bevorzugter Einlass, sofern die Stätte ihn anbietet, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. My Viet Trip bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Sun World Ba Na Hills",
+   "Seilbahn",
+   "Goldene Brücke in Ba Na Hills",
+   "Dauer: 8,5 Stunden",
+   "Abholung und Rückfahrt am Hotel ab Da Nang im klimatisierten Bus"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel ab Da Nang im klimatisierten Bus",
+   "Englischsprachiger Reiseleiter",
+   "Seilbahnticket hin und zurück mit Eintritt zu Ba Na Hills und zur Goldenen Brücke",
+   "Optionales Mittagsbuffet (bei gebuchter Mittagsoption)",
+   "60-minütige Massage (bei Buchung der Massage-Option)",
+   "Mehrwertsteuer"
+  ],
+  "notIncluded": [
+   "Mittagessen (sofern nicht gebucht)",
+   "Massage (sofern nicht gebucht) sowie Upgrades auf Premium-Massage oder Dampfbad",
+   "Trinkgeld für den Guide",
+   "Optionale Extras in Ba Na Hills: Tickets ohne Anstehen, Wachsfigurenkabinett, Weinkeller, Achterbahn, Gewinnspiele und interaktive Lichtshow",
+   "Gebühr für Kinder über 1,39 m (350.000 VND)",
+   "Aufpreis von 150.000 VND pro Person an Feiertagen (31. Dezember-1. Januar, 29.-30. April, 1.-2. Mai, 24.-25. Dezember und Mondneujahr)"
+  ],
+  "shortDescription": "Tour in Hoi An, mit Sun World Ba Na Hills, Goldene Brücke in Ba Na Hills und Ba Na Hills. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills, Goldene Brücke und optionale Massage",
+  "metaDescription": "Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "my-son-sanctuary-and-golden-hands-bridge-private-tour": {
   "title": "Heiligtum My Son und Goldene Brücke: private Tour",
@@ -31682,6 +31938,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Hoi An, inklusive Abholung und Rückfahrt in Da Nang oder Hoi An, Mittag- und Abendessen in der Pagode und Vegetarische Gerichte. Durchgeführt von CONNECTTRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hoi An: 2-tägiger spiritueller Aufenthalt in einer Pagode",
   "metaDescription": "2-tägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "golden-bridge-hoi-an-and-basket-boat-2-day-tour": {
+  "title": "Goldene Brücke, Hoi An und Korbboot: 2-tägige Tour",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Hoi An, rund um Altstadt von Hoi An, Seilbahn der Ba Na Hills und Goldene Brücke. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHoi An ist ein Handelshafen, den der Thu-Bon-Fluss im 19. Jahrhundert verlanden ließ, und genau deshalb blieb die Altstadt aus chinesischen Ladenhäusern, Versammlungshallen, der japanischen überdachten Brücke und ockergelb getünchten Kaufmannshäusern so vollständig erhalten, dass sie 1999 UNESCO-Welterbe wurde. Die Altstadt ist den größten Teil des Tages für Motorräder gesperrt, abends von Seidenlaternen beleuchtet und am vollsten beim Laternenfest zum Vollmond in jedem Mondmonat. Ringsum: das Gemüsedorf Tra Que, die Wasserkokos-Kanäle von Cam Thanh mit ihren runden Korbbooten, das Töpferdorf Thanh Ha, der Strand von An Bang und, 40 Kilometer landeinwärts, die Cham-Tempelruinen von My Son, am besten um 7:00 Uhr vor den Reisebussen. Die Stadt ist außerdem Vietnams Schneiderhauptstadt; ein Anzug dauert 24 Stunden.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel ab Da Nang, Transport im klimatisierten Bus, Seilbahnticket hin und zurück, Goldene Brücke und Eintritt zu den Ba Na Hills und Eintrittskarte für Hoi An. Nicht enthalten sind Unterkunft, Trinkgelder für Reiseleiter und Fahrer, Mahlzeiten außerhalb des Programms oder Optionen ohne Verpflegung und Tickets mit bevorzugtem Einlass in den Ba Na Hills, sofern die Stätte ihn anbietet, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. My Viet Trip bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Altstadt von Hoi An",
+   "Seilbahn der Ba Na Hills",
+   "Goldene Brücke",
+   "Ba Na Hills - französisches Dorf",
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt am Hotel ab Da Nang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel ab Da Nang",
+   "Transport im klimatisierten Bus",
+   "Seilbahnticket hin und zurück",
+   "Eintritt zur Goldenen Brücke und zu Ba Na Hills",
+   "Eintrittskarte für Hoi An",
+   "Korbbootfahrt im Kokospalmenwald",
+   "Eintrittskarte für die Marmorberge (bei Wahl der Option mit Marmorbergen)",
+   "Englischsprachiger Reiseleiter",
+   "Abendessen am 1. Tag (bei Wahl der Option mit Mahlzeiten)",
+   "Mittagsbuffet am 2. Tag (bei Wahl der Option mit Mahlzeiten)",
+   "Wasser in Flaschen",
+   "Mehrwertsteuer"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Mahlzeiten außerhalb des Programms oder Optionen ohne Verpflegung",
+   "Tickets ohne Anstehen in den Ba Na Hills",
+   "Optionale Aktivitäten: Achterbahn, interaktive Lichtshows, Weinkeller und Gewinnspiele"
+  ],
+  "shortDescription": "2-tägige Tour in Hoi An, mit Visit Marble Mountains (Optional), Altstadt von Hoi An und Hotels pick up. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Goldene Brücke, Hoi An und Korbboot: 2-tägige Tour",
+  "metaDescription": "2-tägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt am Hotel ab Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "cham-islands-explore-islands-snorkelling-or-diving-2-times-hoi-an": {
   "title": "Cham-Inseln: Inseln erkunden mit 2 Schnorchel- oder Tauchgängen",
@@ -32766,6 +33058,158 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Willkommensgetränk, Warme und kalte Handtücher und Mittagsbuffet. Durchgeführt von VTS Group, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Jenseits von Ha Long: 2-tägige Kreuzfahrt in Bai Tu Long",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Willkommensgetränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-long-bay-day-trip-luxury-cruise-and-buffet": {
+  "title": "Halong-Bucht: Tagesausflug mit Luxuskreuzfahrt und Buffet",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide, Eintrittsgebühr für die Ha-Long-Bucht, Kajak oder Bambusboot an der Luon-Höhle und Erkundung der Sung-Sot-Höhle. Nicht enthalten sind Zuschlag zum Mondneujahr, Getränk, Getränke und Reiseversicherung und Trinkgelder für den Reiseleiter, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Ha-Long-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle"
+  ],
+  "included": [
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Ha-Long-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "Erkundung der Sung-Sot-Höhle",
+   "Aufstieg auf der Ti-Top-Insel und Baden am Strand",
+   "1 Flasche Wasser im Bus ab Hanoi",
+   "Zugang zum Whirlpool auf der Luxuskreuzfahrt",
+   "Mittagsbuffet auf der Luxuskreuzfahrt",
+   "Mittagessen als Set-Menü auf der Standard-Kreuzfahrt",
+   "Vegetarische und glutenfreie Mittagsoptionen auf Anfrage",
+   "Sunset-Party"
+  ],
+  "notIncluded": [
+   "Schnellboot",
+   "Reiseversicherung",
+   "Trinkgelder für Reiseleiter und Fahrer sowie persönliche Ausgaben",
+   "Alle Leistungen, die nicht im Programm genannt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide und Eintrittsgebühr für die Ha-Long-Bucht. Durchgeführt von Real Vietnam Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong-Bucht: Tagesausflug mit Luxuskreuzfahrt und Buffet",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-bay-premium-cruise-6-star-day-trip": {
+  "title": "Halong-Bucht: Tagesausflug mit 6-Sterne-Premium-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Ha Long, rund um Ha-Long-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel ab Hanoi, Willkommensgetränk an Bord der Dolphin Cruise, Vietnamesisches Mittagessen, Alle Eintrittsgebühren und Besichtigungstickets und Reiseleiter an Bord. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. PMC bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht",
+   "Abholung und Rückfahrt zum Hotel ab Hanoi (Abholung in der Lobby zwischen 5:40 und 6:00 Uhr)",
+   "Willkommensgetränk an Bord der Dolphin Cruise",
+   "Vietnamesisches Mittagessen (Buffet)",
+   "Alle Eintrittsgebühren und Besichtigungstickets",
+   "Englischsprachiger Guide an Bord"
+  ],
+  "included": [
+   "Hinweis: Bitte schreiben Sie an +84 888 588 700, um die Verfügbarkeit zu prüfen.",
+   "Abholung und Rückfahrt am Hotel in Hanoi (Treffpunkt in der Lobby zwischen 6:00 und 6:30 Uhr)",
+   "Willkommensgetränk an Bord der Dolphin Cruise",
+   "Vietnamesisches Mittagessen (Buffet)",
+   "Alle Eintrittsgebühren und Besichtigungstickets",
+   "Geführter Besuch der Sung-Sot-Höhle",
+   "Besuch der Ti-Top-Insel (Schwimmen)",
+   "Englischsprachiger Guide an Bord",
+   "Wasser in Flaschen (1 pro Person während des Transfers)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (Getränke, Snacks)",
+   "Getränke zum Mittagessen",
+   "Kajakfahren"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Hinweis: Bitte schreiben Sie an +84 888 588 700, um die Verfügbarkeit zu prüfen., Abholung und Rückfahrt zum Hotel ab Hanoi und Willkommensgetränk an Bord der Dolphin Cruise. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong-Bucht: Tagesausflug mit 6-Sterne-Premium-Kreuzfahrt",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-kayaking-adventure-tour": {
+  "title": "Halong: Kajak-Abenteuer",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Abholung von Ihrem Hotel im Zentrum von Ninh Binh und in Tam Coc, Eintrittskarten, Reiseleiter, alle Mahlzeiten der Reise und Kajakfahren und Schwimmen. Nicht enthalten sind Getränk, Steuern und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung von Ihrem Hotel im Zentrum von Ninh Binh oder im Gebiet Tam Coc, Rückfahrt nach Cat Ba Town",
+   "Eintrittskarten",
+   "Englischsprachiger Reiseleiter",
+   "Alle Mahlzeiten der Reise (1 Frühstück, 2 Mittagessen, 1 Abendessen)",
+   "Kajakfahren, Schwimmen und Besuch eines schwimmenden Dorfes"
+  ],
+  "included": [
+   "Abholung an Ihrem Hotel in Ha Long mit dem lokalen Bus und Absetzen in Cat Ba Town",
+   "Eintrittskarten",
+   "Englischsprachiger Reiseleiter",
+   "Alle Mahlzeiten der Reise (1 Frühstück, 2 Mittagessen, 1 Abendessen)",
+   "Kajakfahren, Schwimmen und Besuch eines schwimmenden Dorfes,",
+   "Privater Dschungel-Bungalow (2 bis 4 Personen pro Zimmer)"
+  ],
+  "notIncluded": [
+   "Getränk",
+   "Steuern",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung an Ihrem Hotel in Halong mit dem örtlichen Bus, mit Rückfahrt, Eintrittskarten und Reiseleiter. Durchgeführt von Beka Travel Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong: Kajak-Abenteuer",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-hills-and-golden-bridge-day-trip": {
+  "title": "Ba Na Hills und Goldene Brücke: Tagesausflug",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Hoi An, rund um Goldene Brücke in Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hải Châu District, Hội An, Da Nang, Ngũ Hành Sơn und Điện Dương möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Hai An Travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel ab Hoi An oder Da Nang, Transport im klimatisierten Bus, Guide, Seilbahn-Rückfahrkarte für 950.000 VND pro Erwachsenem und Mittagsbuffet für 350.000 VND pro Erwachsenen. Nicht enthalten sind Trinkgeld für den Guide, Tickets mit bevorzugtem Einlass, sofern die Stätte ihn anbietet, Ticket für das Wachsfigurenkabinett und Gewinnspiele und Weinkeller, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. Hai An Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Goldene Brücke in Ba Na Hills",
+   "Abholung und Rückfahrt am Hotel ab Hoi An oder Da Nang (verschiedene Optionen)",
+   "Transport im klimatisierten Bus",
+   "Guide",
+   "Seilbahn-Rückfahrkarte für 950.000 VND pro Erwachsenem (bei Wahl der Option mit Seilbahn)",
+   "Mittagsbuffet für 350.000 VND pro Erwachsenen (bei Wahl der Option mit Buffet)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang und im Raum Hoi An",
+   "Transport im klimatisierten Minivan",
+   "Englischsprachiger Reiseleiter",
+   "Mittagsbuffet (bei Wahl dieser Option)",
+   "Lokales Abendessen für die Nachmittagssession ab Hoi An (bei Wahl dieser Option)",
+   "Seilbahn-Rückfahrkarte (bei Wahl dieser Option)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Ticket für das Wachsfigurenkabinett und Gewinnspiele",
+   "Weinkeller",
+   "Gebühr für Kinder über 1,39 m (300.000 VND)"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Da Nang und in Hoi An, Transport im klimatisierten Minivan und Reiseleiter. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Tagesausflug",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "best-tours-transfer-to-bana-hills-and-golden-bridg": {
+  "title": "Transfer zu den Ba Na Hills und zur Goldenen Brücke",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Reiseleiter, Eintrittskarte für die Seilbahn, Alle im Programm genannten Eintrittskarten, Klimatisiertes Fahrzeug und Flasche Wasser. Nicht enthalten sind Mittagessen und Getränke, Trinkgelder, Feiertagszuschlag in Vietnam und Hinweis: Bei der optionalen Privattour fällt ein Zuschlag an für, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Englischsprachiger Reiseleiter (außer bei Wahl der Option privater Transfer)",
+   "Eintrittskarte für die Seilbahn (außer bei Wahl der Option privater Transfer)",
+   "Alle im Programm genannten Eintrittskarten",
+   "Klimatisiertes Fahrzeug",
+   "Flasche Wasser"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter (außer bei Wahl der Option privater Transfer)",
+   "Eintrittskarte für die Seilbahn (außer bei Wahl der Option privater Transfer)",
+   "Alle im Programm genannten Eintrittskarten",
+   "Klimatisiertes Fahrzeug",
+   "Flasche Wasser",
+   "An vietnamesischen Feiertagen fällt ein Zuschlag von 37 USD an (je nach Option)."
+  ],
+  "notIncluded": [
+   "Mittagessen und Getränke",
+   "Trinkgelder",
+   "Zuschlag für das Tet-Fest (43 USD)",
+   "Abholung am InterContinental Resort Da Nang oder am Hafen Tien Sa (500.000 VND)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Goldene Brücke in Ba Na Hills. Durchgeführt von Hoi An Da Nang Hue private tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Transfer zu den Ba Na Hills und zur Goldenen Brücke",
+  "metaDescription": "Tour in Da Nang. Enthalten: Reiseleiter und Eintrittskarte für die Seilbahn. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-2-day-1-night-cruise-kayak-caves-and-sunset": {
   "title": "Ha-Long-Bucht 2 Tage/1 Nacht: Kajak, Höhlen und Sonnenuntergang",
@@ -35249,6 +35693,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel im Zentrum von Hanoi, Einheimischer Guide und Kajak oder Bambusboot. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht: Luxus-Übernachtungskreuzfahrt, 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2": {
+  "title": "Halong-Bucht: Tagesausflug mit Luxuskreuzfahrt und Mittagsbuffet",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide, Eintrittsgebühr für die Ha-Long-Bucht, Kajak oder Bambusboot an der Luon-Höhle und Erkundung der Sung-Sot-Höhle. Nicht enthalten sind Zuschlag zum Mondneujahr, Getränk, Getränke und Reiseversicherung und Trinkgelder für den Reiseleiter, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Ha-Long-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle"
+  ],
+  "included": [
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Ha-Long-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "Erkundung der Sung-Sot-Höhle",
+   "Aufstieg auf der Ti-Top-Insel und Baden am Strand",
+   "1 Flasche Wasser im Bus ab Hanoi",
+   "Zugang zum Whirlpool auf der Luxuskreuzfahrt",
+   "Mittagsbuffet auf der Luxuskreuzfahrt",
+   "Mittagessen als Set-Menü auf der Standard-Kreuzfahrt",
+   "Vegetarische und glutenfreie Mittagsoptionen auf Anfrage",
+   "Sunset-Party"
+  ],
+  "notIncluded": [
+   "Schnellboot",
+   "Reiseversicherung",
+   "Trinkgelder für Reiseleiter und Fahrer sowie persönliche Ausgaben",
+   "Alle Leistungen, die nicht im Programm genannt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide und Eintrittsgebühr für die Ha-Long-Bucht. Durchgeführt von Real Vietnam Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong-Bucht: Tagesausflug mit Luxuskreuzfahrt und Mittagsbuffet",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-hanoi-or-ha-long-2-day-ha-long-bay-and-lan-ha-bay-cruise-by-local-operator": {
   "title": "Ab Hanoi oder Ha Long: 2-tägige Kreuzfahrt in der Ha-Long- und Lan-Ha-Bucht",
@@ -38610,6 +39089,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht als Luxuskreuzfahrt: Buffet, Kajak und Sonnenuntergangsparty",
   "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Mittagsbuffet. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "ha-long-bay-premium-cruise-6-star-day-trip-by-local-operator-2": {
+  "title": "Halong-Bucht: Tagesausflug mit 6-Sterne-Premium-Kreuzfahrt, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Ha Long, rund um Ha-Long-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel ab Hanoi, Willkommensgetränk an Bord der Dolphin Cruise, Vietnamesisches Mittagessen, Alle Eintrittsgebühren und Besichtigungstickets und Reiseleiter an Bord. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. PMC bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht",
+   "Abholung und Rückfahrt zum Hotel ab Hanoi (Abholung in der Lobby zwischen 5:40 und 6:00 Uhr)",
+   "Willkommensgetränk an Bord der Dolphin Cruise",
+   "Vietnamesisches Mittagessen (Buffet)",
+   "Alle Eintrittsgebühren und Besichtigungstickets",
+   "Englischsprachiger Guide an Bord"
+  ],
+  "included": [
+   "Hinweis: Bitte schreiben Sie an +84 888 588 700, um die Verfügbarkeit zu prüfen.",
+   "Abholung und Rückfahrt am Hotel in Hanoi (Treffpunkt in der Lobby zwischen 6:00 und 6:30 Uhr)",
+   "Willkommensgetränk an Bord der Dolphin Cruise",
+   "Vietnamesisches Mittagessen (Buffet)",
+   "Alle Eintrittsgebühren und Besichtigungstickets",
+   "Geführter Besuch der Sung-Sot-Höhle",
+   "Besuch der Ti-Top-Insel (Schwimmen)",
+   "Englischsprachiger Guide an Bord",
+   "Wasser in Flaschen (1 pro Person während des Transfers)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (Getränke, Snacks)",
+   "Getränke zum Mittagessen",
+   "Kajakfahren"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Hinweis: Bitte schreiben Sie an +84 888 588 700, um die Verfügbarkeit zu prüfen., Abholung und Rückfahrt zum Hotel ab Hanoi und Willkommensgetränk an Bord der Dolphin Cruise. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong-Bucht: Tagesausflug mit 6-Sterne-Premium-Kreuzfahrt, von einem lokalen Anbieter",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "halong-bay-by-overnight-cruise-with-kayak-and-squid-fishing-ha-long": {
   "title": "Ha-Long-Bucht: Kreuzfahrt mit Übernachtung, Kajak und Tintenfischangeln",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Lounge im Kreuzfahrthafen, Willkommensgetränk, Mahlzeiten an Bord laut Programm (F = Frühstück, M =, Tai-Chi-Vorführung bei Sonnenaufgang und Eintrittsgebühren. Nicht enthalten sind Getränke, Transport, Essen für Kinder unter 6 Jahren und Persönliche Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -39980,6 +40490,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kreuzfahrt in der Ha-Long-Bucht mit Mittagessen",
   "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Ha-Long-Bucht mit Deluxe-Kreuzfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "2-days-lan-ha-bay-hiking-biking-kayaking": {
+  "title": "Lan-Ha-Bucht in 2 Tagen: Wandern, Radfahren und Kajak",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Abholung von Ihrem Hotel im Zentrum von Ninh Binh und in Tam Coc, Eintrittskarten, Reiseleiter, alle Mahlzeiten der Reise und Kajakfahren und Schwimmen. Nicht enthalten sind Getränk, Steuern und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung von Ihrem Hotel im Zentrum von Ninh Binh oder im Gebiet Tam Coc, Rückfahrt nach Cat Ba Town",
+   "Eintrittskarten",
+   "Englischsprachiger Reiseleiter",
+   "Alle Mahlzeiten der Reise (1 Frühstück, 2 Mittagessen, 1 Abendessen)",
+   "Kajakfahren, Schwimmen und Besuch eines schwimmenden Dorfes"
+  ],
+  "included": [
+   "Abholung an Ihrem Hotel in Ha Long mit dem lokalen Bus und Absetzen in Cat Ba Town",
+   "Eintrittskarten",
+   "Englischsprachiger Reiseleiter",
+   "Alle Mahlzeiten der Reise (1 Frühstück, 2 Mittagessen, 1 Abendessen)",
+   "Kajakfahren, Schwimmen und Besuch eines schwimmenden Dorfes,",
+   "Privater Dschungel-Bungalow (2 bis 4 Personen pro Zimmer)"
+  ],
+  "notIncluded": [
+   "Getränk",
+   "Steuern",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung an Ihrem Hotel in Halong mit dem örtlichen Bus, mit Rückfahrt, Eintrittskarten und Reiseleiter. Durchgeführt von Beka Travel Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht in 2 Tagen: Wandern, Radfahren und Kajak",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "hercules-luxury-5-star-day-cruise-in-ha-long": {
   "title": "Hercules: 5-Sterne-Luxus-Tageskreuzfahrt",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin und zurück, Kostenlose Flasche Wasser während der Busfahrt, Guide, Tees und Willkommensgetränk. Nicht enthalten sind Getränke und Reiseversicherung, Trinkgelder für den Reiseleiter, Feiertagszuschlag und Steuer bei Ausstellung einer Rechnung mit Mehrwertsteuer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. HNK Vietnam Travel & Tour Hanoi bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -40966,6 +41504,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Eintrittskarte in Da Nang, inklusive Seilbahnfahrt hin und zurück, 1 Ticket für Ba Na Hills und Zugang zur Goldenen Brücke. Durchgeführt von HAIVAN TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Eintritt zu den Ba Na Hills mit Seilbahn und optionalem Mittagessen (Da Nang)",
   "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Seilbahnfahrt hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-and-golden-bridge-day-trip-2": {
+  "title": "Ba Na Hills und Goldene Brücke: Ausflug über einen Tag",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Hoi An, rund um Goldene Brücke in Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hải Châu District, Hội An, Da Nang, Ngũ Hành Sơn und Điện Dương möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Hai An Travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel ab Hoi An oder Da Nang, Transport im klimatisierten Bus, Guide, Seilbahn-Rückfahrkarte für 950.000 VND pro Erwachsenem und Mittagsbuffet für 350.000 VND pro Erwachsenen. Nicht enthalten sind Trinkgeld für den Guide, Tickets mit bevorzugtem Einlass, sofern die Stätte ihn anbietet, Ticket für das Wachsfigurenkabinett und Gewinnspiele und Weinkeller, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Hoi An. Hai An Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Goldene Brücke in Ba Na Hills",
+   "Abholung und Rückfahrt am Hotel ab Hoi An oder Da Nang (verschiedene Optionen)",
+   "Transport im klimatisierten Bus",
+   "Guide",
+   "Seilbahn-Rückfahrkarte für 950.000 VND pro Erwachsenem (bei Wahl der Option mit Seilbahn)",
+   "Mittagsbuffet für 350.000 VND pro Erwachsenen (bei Wahl der Option mit Buffet)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang und im Raum Hoi An",
+   "Transport im klimatisierten Minivan",
+   "Englischsprachiger Reiseleiter",
+   "Mittagsbuffet (bei Wahl dieser Option)",
+   "Lokales Abendessen für die Nachmittagssession ab Hoi An (bei Wahl dieser Option)",
+   "Seilbahn-Rückfahrkarte (bei Wahl dieser Option)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Ticket für das Wachsfigurenkabinett und Gewinnspiele",
+   "Weinkeller",
+   "Gebühr für Kinder über 1,39 m (300.000 VND)"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Da Nang und in Hoi An, Transport im klimatisierten Minivan und Reiseleiter. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Ausflug über einen Tag",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "4-day-3-night-explore-vietnam-central-heritage": {
   "title": "Kulturerbe Zentralvietnams: 4 Tage und 3 Nächte",
@@ -41993,6 +42560,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang bei Nacht: kulinarische Tour mit über 15 Kostproben von einem lokalen Anbieter",
   "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Mehr als 15 Kostproben inklusive. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "da-nang-golden-bridge-sunset-and-ba-na-hills-tour": {
+  "title": "Da Nang: Goldene Brücke bei Sonnenuntergang und Ba Na Hills",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang, rund um Bus/Reisebus und Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel ab Da Nang, Reiseleiter, Achterbahnfahrt und Gutschein für ein Freibier. Nicht enthalten sind Besuch des Mondschlosses, Tickets mit bevorzugtem Einlass, sofern die Stätte ihn anbietet, Gewinnspiele und Eintritt zum Weinkeller, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBến xe Đồng Gừng - Điểm bán vé KDL Tam Cốc Bích Động. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Da Nang",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel ab Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Achterbahnfahrt (abhängig von Wetter und Öffnungszeiten des Parks)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel ab Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Achterbahnfahrt (abhängig von Wetter und Öffnungszeiten des Parks)",
+   "Gutschein für ein Freibier (je nach Verfügbarkeit und Ausgabe durch die Ba Na Hills)"
+  ],
+  "notIncluded": [
+   "Besuch des Mondschlosses",
+   "Tickets ohne Anstehen",
+   "Gewinnspiele",
+   "Eintritt zum Weinkeller",
+   "Mittagessen",
+   "Zweiter Tag der Tour: 1.350.000 VND",
+   "Seilbahn-Rückfahrkarte",
+   "Eintrittskarte für Ba Na Hills",
+   "Eintrittskarte für die Goldene Brücke",
+   "Zugang zum französischen Dorf",
+   "Abendbuffet)"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Da Nang und Finish at. Durchgeführt von Ninh Binh Majestic Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Goldene Brücke bei Sonnenuntergang und Ba Na Hills",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "workshop-on-making-d-paper-and-d-paper-notebooks-in-da-nang": {
   "title": "Da Nang: Workshop zu Do-Papier und Do-Papier-Notizbüchern",
   "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind 120- bis 180-minütiges Erlebnis: Do-Papier und Notizbuchherstellung, Begleitung durch ein junges, Kurze Tour zum traditionellen vietnamesischen Do-Papier, Willkommensgetränk und 1 handgefertigtes Do-Notizbuch zum Mitnehmen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und zusätzliche Getränke und Persönliche Ausgaben oder zusätzliche Souvenirs, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -42493,6 +43094,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2,5-stündige Tour in Da Nang, mit Strand My Khe. Durchgeführt von Da Nang Ghost Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Da Nang: Surftour am Strand My Khe",
   "metaDescription": "2,5-stündige Tour in Da Nang. Enthalten: Surflehrer und Surfbrett. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2": {
+  "title": "Transfer zu den Ba Na Hills und zur Goldenen Brücke (Da Nang)",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Reiseleiter, Eintrittskarte für die Seilbahn, Alle im Programm genannten Eintrittskarten, Klimatisiertes Fahrzeug und Flasche Wasser. Nicht enthalten sind Mittagessen und Getränke, Trinkgelder, Feiertagszuschlag in Vietnam und Hinweis: Bei der optionalen Privattour fällt ein Zuschlag an für, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Englischsprachiger Reiseleiter (außer bei Wahl der Option privater Transfer)",
+   "Eintrittskarte für die Seilbahn (außer bei Wahl der Option privater Transfer)",
+   "Alle im Programm genannten Eintrittskarten",
+   "Klimatisiertes Fahrzeug",
+   "Flasche Wasser"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter (außer bei Wahl der Option privater Transfer)",
+   "Eintrittskarte für die Seilbahn (außer bei Wahl der Option privater Transfer)",
+   "Alle im Programm genannten Eintrittskarten",
+   "Klimatisiertes Fahrzeug",
+   "Flasche Wasser",
+   "An vietnamesischen Feiertagen fällt ein Zuschlag von 37 USD an (je nach Option)."
+  ],
+  "notIncluded": [
+   "Mittagessen und Getränke",
+   "Trinkgelder",
+   "Zuschlag für das Tet-Fest (43 USD)",
+   "Abholung am InterContinental Resort Da Nang oder am Hafen Tien Sa (500.000 VND)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Goldene Brücke in Ba Na Hills. Durchgeführt von Hoi An Da Nang Hue private tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Transfer zu den Ba Na Hills und zur Goldenen Brücke (Da Nang)",
+  "metaDescription": "Tour in Da Nang. Enthalten: Reiseleiter und Eintrittskarte für die Seilbahn. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ba-na-hills-admission-ticket-and-cable-car-with-support-da-nang": {
   "title": "Eintrittskarte für die Ba Na Hills und Seilbahn mit Betreuung (Da Nang)",
@@ -44864,6 +45494,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Hoi An, inklusive Abholung und Rückfahrt im Privatwagen, Nassreisanbau und Büffelreiten und Laternen-Kurs. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hoi An: Nassreisanbau, Korbboot, Angeln und Mittagessen",
   "metaDescription": "Tour in Hoi An. Enthalten: Abholung und Rückfahrt im Privatwagen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hoi-an-night-heritage-and-lantern-experience-hoi-an-2": {
+  "title": "Hoi An bei Nacht: Kulturerbe und Laternen (Hoi An)",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Hoi An, rund um Japanische Brücke, Museum der Sa-Huynh-Kultur und Altes Haus Tan Ky. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport, Eintrittsgebühren, Abendessen und Reiseleiter. Nicht enthalten sind persönliche Ausgaben einschließlich Einkäufe und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDa Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Japanische Brücke",
+   "Museum der Sa-Huynh-Kultur",
+   "Altes Haus Tan Ky",
+   "Bài Chòi Hội An",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Alle Fahrten gemäß dem Programm",
+   "Eintrittsgebühren",
+   "Abendessen",
+   "Englischsprachiger Reiseleiter (andere Sprachen auf Anfrage gegen Aufpreis)",
+   "Bootsfahrt",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Hoi An, mit Japanische Brücke, Museum der Sa-Huynh-Kultur und Altes Haus Tan Ky. Durchgeführt von Hoi An Express, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hoi An bei Nacht: Kulturerbe und Laternen (Hoi An)",
+  "metaDescription": "Halbtägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an": {
   "title": "Marmorberg, Am-Phu-Höhle und Affenberg",
