@@ -12293,6 +12293,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Eintägige Trekkingtour mit einheimischem Guide in Sapa",
   "metaDescription": "Ganztägige Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "discover-sapa-1n2d-mountains-valley-trek-with-local-guide-by-local-operator": {
+  "title": "Sapa in 2 Tagen und 1 Nacht: Berge und Trekking im Tal mit einheimischem Guide, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Sapa, rund um Schwarzes Taxi und Sa Pa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind Reiseleiter während der gesamten Reise, Gepäcktransport mit dem Auto zum Homestay, 1 Übernachtung in einem lokalen Homestay, 1 Frühstück im Homestay und 2 Mittagessen gemäß der Trekking-Route. Nicht enthalten sind Reiseversicherung, Zusätzliche Getränke, Trinkgelder für Reiseleiter und Träger und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSapa Notre Dame Cathedral, Sa Pa, Lào Cai, Việt Nam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schwarzes Taxi",
+   "Sa Pa",
+   "Dauer: 2 Tage",
+   "Englischsprachiger Reiseleiter während der gesamten Reise",
+   "Gepäcktransport mit dem Auto zum Homestay (falls zutreffend)",
+   "1 Übernachtung in einem lokalen Homestay (Privat- oder Gemeinschaftszimmer je nach Option)"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter während der gesamten Reise",
+   "Gepäcktransport mit dem Auto zum Homestay (falls zutreffend)",
+   "1 Übernachtung in einem lokalen Homestay (Privat- oder Gemeinschaftszimmer je nach Option)",
+   "1 Frühstück im Homestay",
+   "2 Mittagessen gemäß der Trekking-Route",
+   "1 Abendessen in meinem Homestay",
+   "Kulturelle Begegnung mit Einheimischen (inklusive Maisschnaps, dem „Happy Water“)",
+   "Unterstützung beim Rücktransfer nach Sapa am letzten Tag"
+  ],
+  "notIncluded": [
+   "Reiseversicherung",
+   "Zusätzliche Getränke (Bier, Softdrinks, Kaffee usw.) außerhalb der enthaltenen Mahlzeiten",
+   "Trinkgelder für Reiseleiter und Träger (freiwillig, aber willkommen)",
+   "Persönliche Ausgaben (Souvenirs, Handarbeiten aus den Dörfern)"
+  ],
+  "shortDescription": "2-tägige Tour in Sapa, mit Schwarzes Taxi und Sa Pa. Durchgeführt von Mimi SaPa Trekking Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sapa in 2 Tagen und 1 Nacht: Berge und Trekking im Tal mit einheimischem Guide, von einem lokalen Anbieter",
+  "metaDescription": "2-tägige Tour in Sapa. Enthalten: Reiseleiter während der gesamten Reise. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "half-day-scenic-car-tour-with-local-art-experience-in-sapa": {
   "title": "Sapa: halbtägige Panoramafahrt mit lokalem Kunsterlebnis",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind Besuch des Dorfes Cat Cat, Besuch des Dorfes Lao Chai, Besuch des Dorfes Ta Van, Besuch des Dorfes Su Pan und Praktischer Workshop für traditionelle Volksmalerei bei den Giay. Nicht enthalten sind Mahlzeiten, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12924,6 +12955,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: Verleih traditioneller Trachten mit Fotoshooting",
   "metaDescription": "3-stündige Tour in Sapa. Enthalten: Verleih traditioneller Trachten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "northern-vietnam-motorbike-tour-ha-giang-loop-sapa-12-days": {
+  "title": "Nordvietnam mit dem Motorrad: Ha-Giang-Runde und Sapa in 12 Tagen",
+  "fullDescription": "Dies ist ein 12-tägiges Erlebnis ab Sapa, rund um Halt am Thung-Khe-Pass, Mittagessen und Abstieg ins Mai-Chau-Tal. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind 1 CRF300L inklusive Benzin, 1 englischsprachiger Reiseleiter, 1 Mechaniker als Schlusslicht, Abholung und Rückfahrt am Flughafen und 1 Lkw für das Gepäck. Nicht enthalten sind Persönliche Versicherung, Flugticket, Bier und Persönliche Ausgaben und sonstige Kosten, die nicht im, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Halt am Thung-Khe-Pass",
+   "Mittagessen",
+   "Abstieg ins Mai-Chau-Tal",
+   "Abendessen",
+   "Dauer: 12 Tage",
+   "1 CRF300L inklusive Benzin"
+  ],
+  "included": [
+   "1 CRF300L inklusive Benzin",
+   "1 englischsprachiger Reiseleiter, der die Routen führt",
+   "1 Mechaniker als Schlusslicht",
+   "Abholung und Rückfahrt am Flughafen",
+   "1 Lkw für das Gepäck",
+   "Bootsfahrten auf Seen oder Flüssen und Fähre",
+   "Unterkunft wie angegeben",
+   "Alle Mahlzeiten",
+   "Wasser, Kaffee und Softdrink tagsüber und zum Mittagessen (nichts beim Abendessen)",
+   "Versicherung für Schäden am Motorrad (nicht für mutwillige Handlungen oder durch Fahrweise verbrannte Kupplung bzw. Reifen)",
+   "Fahrertrikot (T-Shirt)"
+  ],
+  "notIncluded": [
+   "Persönliche Versicherung und Reiseversicherung (auf eigenes Risiko)",
+   "Flugticket",
+   "Bier, alkoholische Getränke und Softdrinks zum Abendessen",
+   "Persönliche Ausgaben und sonstige Kosten, die nicht im Programm beschrieben sind"
+  ],
+  "shortDescription": "12-tägige Tour in Sapa, mit Breakfast at Hotel, Halt am Thung-Khe-Pass und Mittagessen. Durchgeführt von VIETNAM ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nordvietnam mit dem Motorrad: Ha-Giang-Runde und Sapa in 12 Tagen",
+  "metaDescription": "12-tägige Tour in Sapa. Enthalten: 1 CRF300L inklusive Benzin. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "premium-tour-4-day-3-night-ha-giang-loop-with-easy-rider-loopers-in-sapa": {
   "title": "Ha-Giang-Loop: 4 Tage und 3 Nächte mit Easy Rider von LOOPERS",
   "fullDescription": "Dies ist ein 4-tägiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Alle Eintritts- und Besichtigungsgebühren, Reiseleiter und Easy Rider, Benzin und halbautomatisches Motorrad, Kostenloses Mineralwasser unterwegs und 1 kostenlose Nacht vor der Tour in unserem Hotel Anio Ha Giang. Nicht enthalten sind Reiseversicherung, Getränke, Persönliche Ausgaben und Trinkgeld und Busticket von oder nach Ha Giang, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -13236,6 +13301,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Sapa, inklusive Privater Hin- und Rücktransport ab Sapa, privater Fahrer und Greenfee für 18 Löcher im Sapa Grand Golf Course. Durchgeführt von Local Guide Vietnam's Community, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sapa: privater Transfer und 18-Loch-Golferlebnis",
   "metaDescription": "Ganztägige Tour in Sapa. Enthalten: Privater Hin- und Rücktransport ab Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vietnamese-family-feast-cooking-class": {
+  "title": "Kochkurs: das vietnamesische Familienfestmahl",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nVietnamesisches Essen ändert sich alle 300 Kilometer, und eine Food-Tour ist der schnellste Weg, eine Stadt kennenzulernen: in Hanoi sind es pho, bun cha, banh cuon und Eierkaffee in der Altstadt; in Hue die kaiserlichen kleinen Gerichte und bun bo Hue; in Hoi An cao lau, White-Rose-Teigtaschen und banh mi von dem Stand, den Anthony Bourdain berühmt gemacht hat; in Saigon die südliche Süße, Bruchreis, banh xeo und die Straßentische von Distrikt 4. Kochkurse beginnen auf dem Markt bei Kräutern, Reispapier und Fischsauce und kochen vier oder fünf Gerichte; Frühlingsrollen und pho sind gesetzt. Vegetarisch lässt sich vorab leicht einrichten, und „khong cay“ heißt nicht scharf.\n\nIm Preis enthalten sind Alle Zutaten für das 5-Gänge-Menü, Nutzung aller nötigen Küchenutensilien und -geräte, Ein Willkommensgetränk, Die vollständige 5-Gänge-Mahlzeit, die Sie kochen und Ein privater, 4-stündiger praktischer Kochkurs. Nicht enthalten sind Hin- und Rücktransport zum Ort der Aktivität, Alle Speisen, die nicht auf dem festen Menü des Programms stehen, Andere Getränke und Persönliche Ausgaben oder Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Alle Zutaten für das 5-Gänge-Menü",
+   "Nutzung aller nötigen Küchenutensilien und -geräte",
+   "Ein Willkommensgetränk (Kaffee oder Tee) bei der Ankunft",
+   "Die vollständige 5-Gänge-Mahlzeit, die Sie kochen",
+   "Ein privater, 4-stündiger praktischer Kochkurs"
+  ],
+  "included": [
+   "Alle Zutaten für das 5-Gänge-Menü.",
+   "Nutzung aller nötigen Küchenutensilien und -geräte.",
+   "Ein Willkommensgetränk (Kaffee oder Tee) bei der Ankunft.",
+   "Die vollständige 5-Gänge-Mahlzeit, die Sie kochen.",
+   "Ein privater, 4-stündiger praktischer Kochkurs."
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransport zum Ort der Aktivität.",
+   "Alle Speisen, die nicht auf dem festen Menü des Programms stehen.",
+   "Sonstige Getränke (Alkohol, Softdrinks usw.) außer dem Willkommensgetränk.",
+   "Persönliche Ausgaben oder Trinkgelder."
+  ],
+  "shortDescription": "Halbtägige Tour in Sapa, inklusive Alle Zutaten für das 5-Gänge-Menü, Nutzung aller nötigen Küchenutensilien und -geräte und Ein Willkommensgetränk. Durchgeführt von Ethnic Community Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kochkurs: das vietnamesische Familienfestmahl",
+  "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Alle Zutaten für das 5-Gänge-Menü. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-2-night-sapa-trek-with-homestay-and-vip-bus": {
   "title": "Sapa: 2-tägige Wanderung mit Homestay und VIP-Bus",
@@ -16341,6 +16434,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: Dorf Cat Cat, Wasserfall und Berge mit Mittagessen",
   "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Abholung und Rückfahrt am Hotel in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "batik-indigo-dyeing-and-embroidery-day-tour-in-sapa": {
+  "title": "Batik, Indigofärben und Sticken: Tagestour in Sapa",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind Geführte Besuche lokaler Batik-Werkstätten, Praktische Erfahrungen beim Batiken, Teilnahme am Indigo-Färbeprozess, Vorführungen und Einblicke in die kunstvollen Stickereien und Ein köstliches lokales Mittagessen mit authentischer Küche aus. Nicht enthalten sind Persönliche Ausgaben, Reiseversicherung und Zusätzliche Aktivitäten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Geführte Besuche lokaler Batik-Werkstätten, Indigo-Färbereien und Stickstudios",
+   "Praktische Erfahrungen beim Batiken, inklusive Wachsauftrag und Färbetechniken",
+   "Teilnahme am Indigo-Färbeprozess, von der Pflanze bis zur Farbe, und Färben des eigenen Stoffes",
+   "Vorführungen und Einblicke in die für Sapa typischen Sticktechniken",
+   "Ein köstliches lokales Mittagessen mit authentischer Küche der Region"
+  ],
+  "included": [
+   "Geführte Besuche lokaler Batik-Werkstätten, Indigo-Färbereien und Stickstudios.",
+   "Praktische Erfahrungen beim Batiken, inklusive Wachsauftrag und Färbetechniken.",
+   "Teilnahme am Indigo-Färbeprozess, von der Pflanze bis zur Farbe, und Färben des eigenen Stoffes.",
+   "Vorführungen und Einblicke in die für Sapa typischen Sticktechniken.",
+   "Ein köstliches lokales Mittagessen mit authentischer Küche der Region.",
+   "Hin- und Rücktransport zu den Workshop-Orten in Sapa.",
+   "Fachkundige Begleitung und Erläuterungen durch erfahrene einheimische Guides.",
+   "Alle nötigen Materialien und Werkzeuge für die Handwerksaktivitäten."
+  ],
+  "notIncluded": [
+   "Personal Expenses.",
+   "Reiseversicherung:",
+   "Zusätzliche Aktivitäten"
+  ],
+  "shortDescription": "Halbtägige Tour in Sapa, inklusive Geführte Besuche lokaler Batik-Werkstätten, Praktische Erfahrungen beim Batiken und Teilnahme am Indigo-Färbeprozess. Durchgeführt von big tree Hmong homestay, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Batik, Indigofärben und Sticken: Tagestour in Sapa",
+  "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Geführte Besuche lokaler Batik-Werkstätten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "sapa-trek-muong-hoa-valley-view-trekking-tour-2-days": {
   "title": "Sapa: 2-tägige Wanderung mit Blick auf das Muong-Hoa-Tal",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Sapa, rund um Lao Chai, Nhà Minh Huy und Ta Van. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nSa Pa liegt auf 1.600 Metern im Hoang-Lien-Gebirge nahe der chinesischen Grenze, eine französische Bergstation der 1920er-Jahre und heute Ausgangspunkt für Trekkingtouren durch die Terrassentäler der Hmong-, Dao- und Giay-Dörfer. Die klassische Wanderung führt vom Ort über Cat Cat oder Y Linh Ho hinunter nach Lao Chai und Ta Van entlang des Muong-Hoa-Tals, fünf bis sechs Stunden, mit Mittagessen in einem Dorfhaus und, bei der Zweitagesvariante, einer Übernachtung im Homestay; die meisten Touren führen einheimische Hmong-Frauen, und die Pfade sind nach Regen schlammig. Der Fansipan, mit 3.143 Metern Indochinas höchster Gipfel, ist eine Seilbahnfahrt von 15 Minuten oder ein zweitägiger Aufstieg. Die Terrassen stehen im Mai und Juni spiegelglatt unter Wasser und sind im September golden; von Dezember bis Februar ist es kalt, oft neblig, und gelegentlich schneit es. Der Sonntagsmarkt von Bac Ha, zwei Stunden entfernt, ist der große Markt der Blumen-Hmong.\n\nIm Preis enthalten sind Abholung am Hotel in Sapa, 1 Nacht in einem lokalen Homestay, Mahlzeiten: 2 Mittagessen, 1 Abendessen, 1 Frühstück, Guide und Abholung mit dem Auto vom Dorf zum Hotel. Nicht enthalten sind Trinkgelder und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSa Pa. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -17521,6 +17644,32 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: 2-tägiges Trekking mit 1 Übernachtung, Homestay und Hmong-Kultur mit iSee Hmoob",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Enthaltene Leistungen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator": {
+  "title": "Sapa exklusiv: der einsame Baum und die geheime Höhle mit dem Auto, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Sapa, rund um Der einsame Baum von O Quy Ho, Tac-Tinh-Wasserfall und Đồi Thông Tả Lèng Huyện Tam đường. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Sa Pa, Privatwagen mit professionellem Fahrer, Einheimischer Guide, Alle Transporte während der Tour und Wasser in Flaschen. Nicht enthalten sind Mittagessen und persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSa Pa. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Der einsame Baum von O Quy Ho",
+   "Tac-Tinh-Wasserfall",
+   "Đồi Thông Tả Lèng Huyện Tam đường",
+   "Pu-Sam-Cap-Höhlen",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Sa Pa"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Sa Pa",
+   "Privatwagen mit professionellem Fahrer",
+   "Englischsprachiger einheimischer Guide",
+   "Alle Transporte während der Tour",
+   "Wasser in Flaschen",
+   "Einfache Führung beim Gehen in der Pu-Sam-Cap-Höhle"
+  ],
+  "notIncluded": [
+   "Mittagessen und persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Sapa, mit Der einsame Baum von O Quy Ho, Tac-Tinh-Wasserfall und Đồi Thông Tả Lèng Huyện Tam đường. Durchgeführt von Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sapa exklusiv: der einsame Baum und die geheime Höhle mit dem Auto, von einem lokalen Anbieter",
+  "metaDescription": "Ganztägige Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "sapa-tour-with-hotel-stay-and-beautiful-natural-views-2-days": {
   "title": "Sapa in 2 Tagen: Hotelübernachtung und schöne Landschaften",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Übernachtung im Hotel, Englischsprachiger Guide, Mahlzeiten laut Programm und Eintrittsgebühren gemäß dem Programm. Nicht enthalten sind Getränke, Transfers im klimatisierten Schlafbus ab Hanoi, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\ntt. Sa Pa, Sa Pa, Lào Cai, Việt Nam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -18293,6 +18442,44 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Sapa, mit Dorf Cat Cat, Bus oder Reisebus und Finish at. Durchgeführt von TRAVEL NEW LAND, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sapa: Paket über 2 Tage und 1 Nacht im Hotel",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: VIP-Kabinenbus hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "highlights-north-vietnam-hanoi-sapa-ninhbinh-halong-5-days": {
+  "title": "Highlights Nordvietnams: Hanoi, Sapa, Ninh Binh und Halong in 5 Tagen",
+  "fullDescription": "Dies ist ein 5-tägiges Erlebnis in Sapa. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind 1. Abholung und Rückfahrt am Hotel, 2. Transport im geteilten Bus, 3. Englischsprachiger Reiseleiter, 4. 2-tägige Kreuzfahrt in der Halong-Bucht und 5. 4 Übernachtungen. Nicht enthalten sind 1. Alkoholische Getränke, 2. Softdrinks, 3. Persönliche Ausgaben und 4. Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Tage",
+   "1. Abholung und Rückfahrt am Hotel (nur bei Unterkünften im Zentrum von Hanoi)",
+   "2. Transport im geteilten Bus",
+   "3. Englischsprachiger Reiseleiter",
+   "4. 2-tägige Kreuzfahrt in der Halong-Bucht",
+   "5. 4 Übernachtungen (1 Nacht im Homestay einer ethnischen Minderheit, 1 Nacht auf einer Luxuskreuzfahrt und 2 Nächte im Hotel in Hanoi)"
+  ],
+  "included": [
+   "1. Abholung und Rückfahrt am Hotel (nur bei Unterkünften im Zentrum von Hanoi)",
+   "2. Transport im geteilten Bus",
+   "3. Englischsprachiger Reiseleiter",
+   "4. 2-tägige Kreuzfahrt in der Halong-Bucht",
+   "5. 4 Übernachtungen (1 Nacht im Homestay einer ethnischen Minderheit, 1 Nacht auf einer Luxuskreuzfahrt und 2 Nächte im Hotel in Hanoi)",
+   "6/ Meals: 04 Breakfasts, 05 Lunches, 02 Dinners.",
+   "7. Kajak in der Halong-Bucht",
+   "8. Tai-Chi-Kurs",
+   "9. Vietnamesischer Kochkurs",
+   "10. Bootsfahrt in Ninh Binh",
+   "11. Alle in der Beschreibung genannten Besichtigungsgebühren"
+  ],
+  "notIncluded": [
+   "1. Alkoholische Getränke",
+   "2. Softdrinks",
+   "3. Persönliche Ausgaben",
+   "4. Trinkgelder",
+   "Ein Aufpreis von 80 $ beim Check-in für Alleinreisende und für die Anfrage einer Einzelkabine bzw. eines Einzelzimmers (1 Nacht an Bord und 2 Nächte im Hotel)",
+   "Ein Aufpreis von 15 % an Weihnachten, Neujahr und Feiertagen, direkt beim Check-in zu zahlen.",
+   "Ein Aufpreis von 25 % zum Mondneujahr, direkt beim Check-in zu zahlen.",
+   "Zuschlag zum Mondneujahr vom 26. Januar bis 2. Februar 2025: 120 USD pro Person, zahlbar am Treffpunkt."
+  ],
+  "shortDescription": "5-tägige Tour in Sapa, inklusive 1. Abholung und Rückfahrt am Hotel, 2. Transport im geteilten Bus und 3. Englischsprachiger Reiseleiter. Durchgeführt von Vietnam Nomadtrails, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Highlights Nordvietnams: Hanoi, Sapa, Ninh Binh und Halong in 5 Tagen",
+  "metaDescription": "5-tägige Tour in Sapa. Enthalten: 1. Abholung und Rückfahrt am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "4-day-ha-long-bay-ninh-binh-and-sapa-trekking-and-train": {
   "title": "Ha-Long-Bucht, Ninh Binh und Sapa: 4 Tage Wandern und Bahnfahrt",
@@ -26932,7 +27119,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben",
    "Trinkgelder"
   ],
-  "shortDescription": "Ganztägige Tour in Hoi An, mit Hai-Van-Pass, Dragon Bridge, Da Nang und Marmorberge. Durchgeführt von Local Buddy Tours Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Hoi An, mit Hai-Van-Pass, Drachenbrücke, Da Nang und Marmorberge. Durchgeführt von Local Buddy Tours Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ab dem Hafen Chan May oder Tien Sa: die Highlights von Da Nang und Hoi An",
   "metaDescription": "Ganztägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
@@ -28580,7 +28767,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Ticket für die Marmorberge (2 $)",
    "Trinkgelder"
   ],
-  "shortDescription": "Ganztägige Tour in Hoi An, mit Dragon Bridge, Da Nang, Halbinsel Son Tra und Hai-Van-Pass. Durchgeführt von Rew Rew Adventures, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Hoi An, mit Drachenbrücke, Da Nang, Halbinsel Son Tra und Hai-Van-Pass. Durchgeführt von Rew Rew Adventures, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hue, Hoi An und Da Nang: Easy-Rider-Motorradtour über den Hai-Van-Pass (Hoi An)",
   "metaDescription": "Ganztägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
@@ -30730,6 +30917,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An: Mittagsmenü im Hai Cafe Restaurant & BBQ Courtyard",
   "metaDescription": "Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "hoi-an-city-tour-boat-ride-flower-lantern-release-on-the-river-by-local-operator": {
+  "title": "Hoi An: Stadtrundgang, Bootsfahrt und Blumenlaternen auf dem Fluss, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hoi An, rund um Markt von Hoi An, Ong Pagoda - Chùa Ông und Fujian-Versammlungshalle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hội An, Hội An und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Golden Bridge Trip abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Klimatisiertes Fahrzeug, Wasser in Flaschen, Leichtes Abendessen in einem lokalen Restaurant, Bootsfahrt auf dem Thu-Bon-Fluss und Englisch- oder französischsprachiger Reiseleiter. Nicht enthalten sind Persönliche Ausgaben, Reiseversicherung und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Markt von Hoi An",
+   "Ong Pagoda - Chùa Ông",
+   "Fujian-Versammlungshalle",
+   "Altes Haus Tan Ky",
+   "Dauer: 3 Stunden",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug",
+   "Wasser in Flaschen",
+   "Leichtes Abendessen in einem lokalen Restaurant",
+   "Bootsfahrt auf dem Thu-Bon-Fluss",
+   "Englisch- oder französischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Trinkgelder für Guide und Fahrer"
+  ],
+  "shortDescription": "3-stündige Tour in Hoi An, mit Markt von Hoi An, Fujian-Versammlungshalle und Altes Haus Tan Ky. Durchgeführt von Golden Bridge Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hoi An: Stadtrundgang, Bootsfahrt und Blumenlaternen auf dem Fluss, von einem lokalen Anbieter",
+  "metaDescription": "3-stündige Tour in Hoi An. Enthalten: Klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "vinwonders-nam-hoi-an-safari-and-water-park": {
   "title": "VinWonders Nam Hoi An: Safari und Wasserpark",
   "fullDescription": "Dies ist ein 8,5-stündiges Erlebnis in Hoi An, rund um Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Da Nang und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Tong Vn bike Tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Klimatisierter Transport, Fachkundiger englischsprachiger Reiseleiter, Ticket mit vollem Zugang, Hochwertiges Mittagsbuffet und Wasser in Flaschen und Reiseversicherung. Nicht enthalten sind Persönliche Einkäufe oder Snacks und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -31166,6 +31380,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Hoi An, mit Heiligtum My Son. Durchgeführt von Hoi An Da Nang Hue private tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Heiligtum My Son: Tour oder Transfer",
   "metaDescription": "Halbtägige Tour in Hoi An. Enthalten: Klimatisiertes Fahrzeug und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vietnam-travel-hoi-an-photoshoot-with-local-photographer-by-local-operator": {
+  "title": "Vietnam: Fotoshooting in Hoi An mit einem einheimischen Fotografen, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Alle nötigen Informationen für eine, Unterstützung beim Kauf oder der Miete von Kostümen und Foto, Hilfe beim Posieren während des Shootings. Die Standard, Verschiedene Fotos und Auf der Suche nach etwas Neuem. Nicht enthalten sind Ohne Kostüme, Eintrittskarten für Touristengebiete und Attraktionen, Ohne Bootstickets auf dem Hoai und Speisen und Getränke sind nicht enthalten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Alle nötigen Informationen für ein bequemes und gelungenes Reisefotoshooting in Da Nang und Hoi An",
+   "Unterstützung beim Kauf oder der Miete von Kostümen und Fotozubehör",
+   "Hilfe beim Posieren während des Shootings. Die Standarddauer des Shootings beträgt eine Stunde",
+   "Verschiedene Fotos, von Ganzkörperaufnahmen bis zu Nahaufnahmen",
+   "Ein junger, unterhaltsamer, romantischer Stil statt Fotos am Fließband"
+  ],
+  "included": [
+   "Alle nötigen Informationen für ein bequemes und gelungenes Reisefotoshooting in Da Nang und Hoi An.",
+   "Unterstützung beim Kauf oder der Miete von Kostümen und Fotozubehör.",
+   "Hilfe beim Posieren während des Shootings. Die Standarddauer des Shootings beträgt eine Stunde.",
+   "Verschiedene Fotos, von Ganzkörperaufnahmen bis zu Nahaufnahmen.",
+   "Ein junger, unterhaltsamer, romantischer Stil statt Fotos am Fließband.",
+   "Unbegrenzte Anzahl Fotos während der Shooting-Zeit.",
+   "Bildbearbeitung und schnelle Lieferung innerhalb von 24 Stunden.",
+   "Long-term customer image storage.",
+   "Unterstützung beim Herunterladen, Verwenden und Drucken der Fotos, falls gewünscht."
+  ],
+  "notIncluded": [
+   "Ohne Kostüme, Make-up und Transport. Wenn Sie Unterstützung brauchen, kontaktieren Sie uns für eine passende Beratung.",
+   "Eintrittskarten für Touristengebiete und Attraktionen (falls anfallend) sind nicht enthalten.",
+   "Ohne Bootstickets auf dem Hoai (falls anfallend).",
+   "Speisen und Getränke sind nicht enthalten (wenn Sie zum Fotografieren in Cafés gehen)."
+  ],
+  "shortDescription": "1-stündige Tour in Hoi An, inklusive Alle nötigen Informationen für eine, Unterstützung beim Kauf oder der Miete von Kostümen und Foto und Hilfe beim Posieren während des Shootings. Die Standard. Durchgeführt von Da Nang, Hoi An Photographer and Videographer, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Vietnam: Fotoshooting in Hoi An mit einem einheimischen Fotografen, von einem lokalen Anbieter",
+  "metaDescription": "1-stündige Tour in Hoi An. Enthalten: Alle nötigen Informationen für eine. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-basket-boat-and-coconut-forest-experience-from-da-nang-by-local-operator": {
   "title": "Hoi An ab Da Nang: Korbboot und Kokoswald",
@@ -40276,6 +40522,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Quad-Abenteuer und Massage in einem 4-Sterne-Resort in Da Nang",
   "metaDescription": "Tour in Da Nang. Enthalten: Abholung vom Hotel und Quad-Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "central-vietnam-5-day-trip-with-accommodation": {
+  "title": "Zentralvietnam: 5 Tage mit Unterkunft",
+  "fullDescription": "Dies ist ein 5-tägiges Erlebnis ab Da Nang, rund um Xin chào Danang Vietnam, Jeep-Tour auf der Halbinsel Son Tra und Stadt Hue. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1. Neues Fahrzeug mit guter Klimaanlage, 2. Einheimischer englischsprachiger Reiseleiter, 3. Unterkunft im 4-Sterne-Hotel: 2 bis 3 Personen pro Zimmer, 4. Eintrittsgebühren: Marmorberge, Kokospalmenwald, Hoi An und 5. Mahlzeiten: 4 Frühstücke, 5 Hauptmahlzeiten und das Buffet in den Ba Na Hills. Nicht enthalten sind 1. Persönliche Ausgaben: Wäscherei, 2. Trinkgeld für Reiseleiter und Fahrer, 3. Tickets für einige kostenpflichtige Attraktionen in den Ba Na Hills und 4. Hin- und Rückflugtickets, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Xin chào Danang Vietnam",
+   "Jeep-Tour auf der Halbinsel Son Tra",
+   "Stadt Hue",
+   "Dauer: 5 Tage",
+   "1. Neues Fahrzeug mit guter Klimaanlage",
+   "2. Einheimischer englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "1. Neues Fahrzeug mit guter Klimaanlage",
+   "2. Einheimischer englischsprachiger Reiseleiter",
+   "3. Unterkunft im 4-Sterne-Hotel: 2 bis 3 Personen pro Zimmer.",
+   "4. Eintrittsgebühren: Marmorberge, Kokospalmenwald, Altstadt von Hoi An, Ba Na Hills, Han-Flussfahrt, Jeep und Stadt Hue",
+   "5. Mahlzeiten: 4 Frühstücke, 5 Hauptmahlzeiten und das Buffet in den Ba Na Hills",
+   "6. Reiseversicherung",
+   "7. Flasche Aquafina-Wasser"
+  ],
+  "notIncluded": [
+   "1. Persönliche Ausgaben: Wäscherei, Telefonate und Getränke außerhalb des Programms.",
+   "2. Trinkgeld für Reiseleiter und Fahrer (3 $ pro Person und Tag)",
+   "3. Tickets für einige kostenpflichtige Attraktionen in den Ba Na Hills, etwa das Wachsfigurenkabinett oder den Weinkeller Debay.",
+   "4. Hin- und Rückflugtickets."
+  ],
+  "shortDescription": "5-tägige Tour in Da Nang, mit Xin chào Danang Vietnam, Jeep Tour Son Tra Peninsula und Hue City. Durchgeführt von DA NANG LUXURY T&T CO.,LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Zentralvietnam: 5 Tage mit Unterkunft",
+  "metaDescription": "5-tägige Tour in Da Nang. Enthalten: 1. Neues Fahrzeug mit guter Klimaanlage. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "discover-marble-mountains-and-waterfall-sliding-adventure-da-nang": {
   "title": "Marmorberge und Wasserfallrutschen",
   "fullDescription": "Dies ist ein 9,5-stündiges Erlebnis ab Da Nang, rund um Marmorberge, Dong Am Phu und Lokales Restaurant. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt an Hotels in Hoi An und Da Nang, Guide, Eintrittsgebühren, Hausgemachtes Mittagessen bei einer einheimischen Familie und Wasserfallrutschen. Nicht enthalten sind Kinder unter 14 Jahren und unter 40 kg, Persönliche Ausgaben und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -40978,6 +41254,48 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Marmorberge, Affenberg und Lady Buddha",
   "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "ba-na-hills-golden-bridge-and-marble-mountains": {
+  "title": "Ba Na Hills, Goldene Brücke und Marmorberge",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis ab Da Nang, rund um Bus/Reisebus, Marmorberge und Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Option 1, Abholung und Rückfahrt zum Hotel, Guide, Seilbahnticket hin und zurück und Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle. Nicht enthalten sind Wachsfigurenkabinett, Eintritt zum Weinkeller, Achterbahn und 10D-Kino, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nĐiện Dương. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Marmorberge",
+   "Ba Na Hills",
+   "Drachenbrücke",
+   "Dauer: 5 Stunden",
+   "Option 1: Ganztagestour Da Nang und Ba Na Hills"
+  ],
+  "included": [
+   "Option 1: Ganztagestour Da Nang und Ba Na Hills",
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Seilbahnticket hin und zurück",
+   "Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle",
+   "Vietnamesisches Mittagessen (My Quang)",
+   "Goldene Brücke",
+   "Französisches Dorf",
+   "Fantasy Park",
+   "Mondkönigreich",
+   "Le Jardin d'Amour",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Option 1:",
+   "Wachsfigurenkabinett",
+   "Eintritt zum Weinkeller",
+   "Achterbahn",
+   "10D-Kino",
+   "Persönliche Ausgaben",
+   "Option 2",
+   "Aufzug in den Marmorbergen",
+   "Trinkgelder",
+   "Option 3",
+   "Getränke"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Marmorberge und Ba Na Hills. Durchgeführt von hoang thien travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills, Goldene Brücke und Marmorberge",
+  "metaDescription": "Tour in Da Nang. Enthalten: Option 1 und Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "bridge-transfer-guided-tour": {
   "title": "Ba Na Hills und Goldene Brücke: Tour oder Transfer",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Reiseleiter, Eintrittskarte für die Seilbahn, Alle im Programm genannten Eintrittskarten, Klimatisiertes Fahrzeug und Flasche Wasser. Nicht enthalten sind Mittagessen und Getränke, Trinkgelder, Feiertagszuschlag in Vietnam und Hinweis: Bei der optionalen Privattour fällt ein Zuschlag an für, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -41510,6 +41828,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang: 8 Stunden zu den Highlights mit englischsprachigem Guide",
   "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "tien-sa-port-marble-mountain-and-ba-na-hills-golden-bridge-da-nang": {
+  "title": "Hafen Tien Sa: Marmorberge, Ba Na Hills und Goldene Brücke (Da Nang)",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Da Nang, rund um Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privater Transport, Fahrer, Guide, Alle Tickets und Mittagessen. Nicht enthalten sind Seilbahn-Rückfahrkarte: 1.000.000 VND pro Erwachsenem, Mittagsbuffet: 350.000 VND pro Erwachsenem, Eintrittsgebühr für den Weinkeller und Eintritt zum Wachsfigurenkabinett, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCảng Tiên Sa. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Privater Transport",
+   "Professioneller Fahrer",
+   "Englischsprachiger Reiseleiter (Option 2)",
+   "Alle Tickets (Option 2)"
+  ],
+  "included": [
+   "Privater Transport",
+   "Professioneller Fahrer",
+   "Englischsprachiger Reiseleiter (Option 2)",
+   "Alle Tickets (Option 2)",
+   "Mittagessen (Option 2)",
+   "Wasser in Flaschen",
+   "Parken, Benzin und Maut"
+  ],
+  "notIncluded": [
+   "Seilbahn-Rückfahrkarte: 1.000.000 VND pro Erwachsenem (Option 1)",
+   "Mittagsbuffet: 350.000 VND pro Erwachsenem (Option 1)",
+   "Eintrittsgebühr für den Weinkeller (Ba Na Hills)",
+   "Eintritt zum Wachsfigurenkabinett (Ba Na Hills)",
+   "Persönliche Ausgaben und nicht genannte Leistungen",
+   "Gebühr für den Aufzug in den Marmorbergen (optional)",
+   "Sonstige Getränke (Bier, Softdrinks usw.)",
+   "Trinkgelder für Guides und Fahrer"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Ba Na Hills. Durchgeführt von Vietnam Orange Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hafen Tien Sa: Marmorberge, Ba Na Hills und Goldene Brücke (Da Nang)",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Privater Transport, Fahrer und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "private-motor-street-food-tour-with-a-local-guide-in-da-nang": {
   "title": "Da Nang: private Streetfood-Motorradtour mit einheimischem Guide",
   "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Geführtes Streetfood-Erlebnis mit einem einheimischen Gastgeber in Da Nang, Besuch eines lebhaften lokalen Markts und der Stände in den Gassen, um, Kulturelle Geschichten über vietnamesische Ess- und Trinkgewohnheiten, Rundgang durch lebhafte Straßen und kleine Viertel und Tipps zum Essen. Nicht enthalten sind Speisen und Getränke nicht enthalten, vor Ort zu zahlen und Trinkgelder für die Reiseleiter, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNhà thờ Chính Toà Đà Nẵng. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -41555,6 +41907,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Da Nang, mit Marmorberge (Ngu Hanh Son). Durchgeführt von Danang Cooking Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Da Nang: Fitnesskurs mit Personal Trainer, alle Level",
   "metaDescription": "Tour in Da Nang. Enthalten: Erfahrener Fitness-Coach und Privater 1:1-Coach. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "son-tra-peninsula-sea-adventure-and-nature-tour-in-da-nang": {
+  "title": "Halbinsel Son Tra: Meeresabenteuer und Natur in Da Nang",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Da Nang, rund um Sơn Trà Marina und Yacht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Yachtfahrt rund um die Halbinsel Son Tra, Erleben Sie je nach gewählter der 3 Optionen, Option 1: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra, Option 2: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra und Option 3: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra. Nicht enthalten sind Hauptmahlzeiten, Persönliche Ausgaben, Tieftauchen und Guide, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n37W8+XP3, Hồ Xanh, Sơn Trà, Đà Nẵng, Việt Nam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Sơn Trà Marina",
+   "Yacht",
+   "Dauer: 4 Stunden",
+   "Yachtfahrt rund um die Halbinsel Son Tra",
+   "Erleben Sie je nach gewählter der 3 Optionen unterschiedliche Erlebnisse",
+   "Option 1: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra, gehen Sie angeln, erkunden Sie beim Schnorcheln die Korallenriffe und genießen Sie spannende Wasseraktivitäten"
+  ],
+  "included": [
+   "Yachtfahrt rund um die Halbinsel Son Tra",
+   "Erleben Sie je nach gewählter der 3 Optionen unterschiedliche Erlebnisse:",
+   "Option 1: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra, gehen Sie angeln, erkunden Sie beim Schnorcheln die Korallenriffe und genießen Sie spannende Wasseraktivitäten",
+   "Option 2: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra und gehen Sie angeln",
+   "Option 3: Bewundern Sie die grandiose Landschaft der Halbinsel Son Tra, erkunden Sie beim Schnorcheln die Korallenriffe und genießen Sie spannende Wasseraktivitäten",
+   "Leichte Snacks, frisches Obst und Getränke sind enthalten."
+  ],
+  "notIncluded": [
+   "Hauptmahlzeiten",
+   "Persönliche Ausgaben",
+   "Tieftauchen",
+   "Guide",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Sơn Trà Marina und Yacht. Durchgeführt von S-TOURS, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halbinsel Son Tra: Meeresabenteuer und Natur in Da Nang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "coffee-making-and-cooking-class-in-da-nang": {
   "title": "Da Nang: Kaffee- und Kochkurs",
@@ -41774,6 +42156,71 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Da Nang, mit Flussboot, Pagode der Himmlischen Dame und Historische Zitadelle von Hue. Durchgeführt von VM Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hue: Zitadelle, Gräber und Bootsfahrt auf dem Parfümfluss, mit dem Van",
   "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt im Stadtzentrum. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "full-day-golden-bridge-and-ba-na-hills-group-tour": {
+  "title": "Goldene Brücke und Ba Na Hills: Gruppentour über einen ganzen Tag",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Da Nang, rund um Bus/Reisebus, Seilbahn der Ba Na Hills und Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nAbholung ist ab Cầu Rồng und Drachenbrücke möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit La Ban Tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Klimatisiertes Fahrzeug, Mittagessen: Buffet, Wasser in Flaschen: enthalten in den Optionen „Ba Na Hills Tour mit, Alle Steuern und Gebühren und Guide. Nicht enthalten sind Persönliche Ausgaben, Ticket für das Wachsfigurenkabinett: 100.000 VND, Trinkgelder für Reiseleiter und Fahrer und Ticket für das Mittagsbuffet, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. La Ban Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Seilbahn der Ba Na Hills",
+   "Ba Na Hills",
+   "Sun World Ba Na Hills",
+   "Dauer: 2 Stunden",
+   "Klimatisiertes Fahrzeug (Hin- und Rücktransfers am Hotel im Zentrum von Da Nang)"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug (Hin- und Rücktransfers am Hotel im Zentrum von Da Nang)",
+   "Mittagsbuffet (mit vegetarischen Optionen), wenn Sie die Option mit Mittagessen buchen",
+   "Wasser in Flaschen: enthalten in den Optionen „Ba Na Hills Tour mit Mittagessen“ und „Ba Na Hills Tour ohne Mittagessen“",
+   "Alle Steuern und Gebühren",
+   "Englischsprachiger Reiseleiter (in der Option Ba Na Hills mit Mittagessen oder im Paket enthalten)",
+   "Reiseversicherung",
+   "Goldene Brücke und Attraktionen im Fantasy Park (bei Buchung der Option mit Tickets)",
+   "Ein kostenloses Glas Bier (250 ml), in den Tour-Optionen enthalten",
+   "Ticket für das Bana Brew House (in den Ba-Na-Hills-Optionen enthalten)",
+   "Privater Wagen hin und zurück mit 4, 7 oder 16 Sitzen (bei Wahl der Option Privatwagen)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Ticket für das Wachsfigurenkabinett: 100.000 VND (ca. 4 $), Gewinnspiele usw.",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Ticket für das Mittagsbuffet (wenn Sie die Option ohne Mittagessen buchen): 380.000 VND",
+   "Seilbahn und Eintrittskarte (wenn Sie die Option ohne Seilbahnticket buchen)"
+  ],
+  "shortDescription": "2-stündige Tour in Da Nang, mit Seilbahn der Ba Na Hills, Ba Na Hills und Sun World Ba Na Hills. Durchgeführt von La Ban Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Goldene Brücke und Ba Na Hills: Gruppentour über einen ganzen Tag",
+  "metaDescription": "2-stündige Tour in Da Nang. Enthalten: Klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "surfing-lesson-with-pro-athlete-coach-in-da-nang": {
+  "title": "Surfstunde mit einem Profisportler als Coach in Da Nang",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Surfunterricht bei einem zertifizierten Coach und, Miete eines hochwertigen Surfboards für die Dauer der Stunde, Wichtige Sicherheitsausrüstung, Ausführliche Einweisung an Land zu Technik und Sicherheit im und Individuelle Betreuung im Wasser und persönliche Unterstützung beim Wellen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und zusätzliche Getränke, Eigene Badebekleidung und Strandtücher und Sonnencreme und Körperpflegeartikel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Professioneller Surfunterricht bei einem zertifizierten Coach und Wettkampfsportler",
+   "Miete eines hochwertigen Surfboards für die Dauer der Stunde",
+   "Wichtige Sicherheitsausrüstung (Leash und Surfwachs)",
+   "Ausführliche Einweisung an Land zu Technik und Sicherheit im Meer",
+   "Individuelle Betreuung im Wasser und persönliche Unterstützung beim Wellenreiten"
+  ],
+  "included": [
+   "Professioneller Surfunterricht bei einem zertifizierten Coach und Wettkampfsportler",
+   "Miete eines hochwertigen Surfboards für die Dauer der Stunde",
+   "Wichtige Sicherheitsausrüstung (Leash und Surfwachs)",
+   "Ausführliche Einweisung an Land zu Technik und Sicherheit im Meer",
+   "Individuelle Betreuung im Wasser und persönliche Unterstützung beim Wellenreiten",
+   "Kostenloses Trinkwasser",
+   "Zugang zu Duschen und abschließbaren Schließfächern"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und zusätzliche Getränke (außer Wasser)",
+   "Eigene Badebekleidung und Strandtücher",
+   "Sonnencreme und Körperpflegeartikel",
+   "Trinkgelder für den Coach (freiwillig)"
+  ],
+  "shortDescription": "1,5-stündige Tour in Da Nang, inklusive Surfunterricht bei einem zertifizierten Coach und, Miete eines hochwertigen Surfboards für die Dauer der Stunde und Wichtige Sicherheitsausrüstung. Durchgeführt von Dana SUP & Dive, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Surfstunde mit einem Profisportler als Coach in Da Nang",
+  "metaDescription": "1,5-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "son-tra-peninsula-explorer-classic-us-army-jeep-adventure-in-da-nang": {
   "title": "Halbinsel Son Tra: Abenteuer im klassischen US-Army-Jeep in Da Nang",
@@ -42173,6 +42620,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ba Na Hills mit Seilbahn und Mittagsoptionen",
   "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "da-nang-city-dragon-bridge-and-beach-private-photoshoot-by-local-operator": {
+  "title": "Da Nang, Drachenbrücke und Strand: privates Fotoshooting, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Privates Fotoshooting mit einem professionellen einheimischen Fotografen, 20, 50, 30, 60, 30-sekündiges professionell geschnittenes Video-Reel und Anleitung zu natürlichen Posen während des gesamten Shootings. Nicht enthalten sind Transport zum Ort, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 30 Minuten",
+   "Privates Fotoshooting mit einem professionellen einheimischen Fotografen, der die fotogensten Orte in Da Nang kennt",
+   "20, 50 oder 75 hochwertig bearbeitete Fotos (je nach Paket)",
+   "Privates Fotoshooting von 30, 60 oder 90 Minuten mit einem professionellen Fotografen aus Da Nang",
+   "30-sekündiges professionell geschnittenes Video-Reel (Ultimate-Paket)",
+   "Anleitung zu natürlichen Posen während des gesamten Shootings"
+  ],
+  "included": [
+   "Privates Fotoshooting mit einem professionellen einheimischen Fotografen, der die fotogensten Orte in Da Nang kennt",
+   "20, 50 oder 75 hochwertig bearbeitete Fotos (je nach Paket)",
+   "Privates Fotoshooting von 30, 60 oder 90 Minuten mit einem professionellen Fotografen aus Da Nang",
+   "30-sekündiges professionell geschnittenes Video-Reel (Ultimate-Paket)",
+   "Anleitung zu natürlichen Posen während des gesamten Shootings",
+   "Optionaler Outfitwechsel (Pakete Super Premium und Ultimate)",
+   "Fotolieferung innerhalb von 48 Stunden",
+   "Zugang zu Ihrer eigenen privaten Onlinegalerie",
+   "Option Heiratsantrags-Shooting mit Vorgespräch und fachkundiger Beratung zu Orten, Zeitpunkt und Planung",
+   "Geführtes Foto-Spaziergang-Shooting am Fluss, in der Stadt und am Strand"
+  ],
+  "notIncluded": [
+   "Transport zum Ort"
+  ],
+  "shortDescription": "0,5-stündige Tour in Da Nang, inklusive Privates Fotoshooting mit einem professionellen einheimischen Fotografen, 20, 50 und 30, 60. Durchgeführt von Picster, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang, Drachenbrücke und Strand: privates Fotoshooting, von einem lokalen Anbieter",
+  "metaDescription": "0,5-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "gourmet-lunch-and-drinks-at-citron-in-da-nang": {
   "title": "Da Nang: Gourmet-Mittagessen und Getränke im Citron",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mittagsmenü mit 4 Gängen, All-you-can-drink-Optionen und Reservierung im Voraus. Nicht enthalten sind Transport zum und vom Restaurant Citron und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -42517,6 +42994,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Da Nang, inklusive Klimatisierter Transport, Reiseleiter und Mittagessen in einem lokalen Restaurant. Durchgeführt von BEST TADY TOUR, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ganztagestour durch die Kaiserstadt Hue",
   "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Klimatisierter Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "surfing-lesson-or-board-rental-in-da-nang": {
+  "title": "Surfstunde oder Boardmiete in Da Nang",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Da Nang, rund um Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Surfboard-Miete für 2 Stunden, Surflehrer, Rashguard oder Neoprenanzug, Surf-Grundlagen und Sicherheitseinweisung und Praktische Surfstunde im Meer. Nicht enthalten sind Fortgeschrittene Surfstunden und bei Wahl der Miete sind keine Surfstunden enthalten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nMân Thái Beach - Chợ Cá Gỗ. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Da Nang",
+   "Dauer: 2 Stunden",
+   "Surfboard-Miete für 2 Stunden (bei Wahl der Miete)",
+   "Professioneller Surflehrer (bei Wahl der Kurse)",
+   "Rashguard oder Neoprenanzug (bitte vorab per WhatsApp Bescheid geben), bei Wahl der Kurse",
+   "Surf-Grundlagen und Sicherheitseinweisung (bei Wahl der Kurse)"
+  ],
+  "included": [
+   "Surfboard-Miete für 2 Stunden (bei Wahl der Miete)",
+   "Professioneller Surflehrer (bei Wahl der Kurse)",
+   "Rashguard oder Neoprenanzug (bitte vorab per WhatsApp Bescheid geben), bei Wahl der Kurse",
+   "Surf-Grundlagen und Sicherheitseinweisung (bei Wahl der Kurse)",
+   "Praktische Surfstunde im Meer (bei Wahl der Kurse)",
+   "Betreuung in der Kleingruppe für bessere Unterstützung (bei Wahl der Kurse)",
+   "Nutzung der Ausrüstung während der Session",
+   "Trinkwasser (bei Wahl der Kurse)",
+   "Dusche, Handtuch und Shampoo gratis (bei Wahl der Kurse)"
+  ],
+  "notIncluded": [
+   "Fortgeschrittene Surfstunden",
+   "bei Wahl der Miete sind keine Surfstunden enthalten"
+  ],
+  "shortDescription": "2-stündige Tour in Da Nang, mit Da Nang. Durchgeführt von pantago, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Surfstunde oder Boardmiete in Da Nang",
+  "metaDescription": "2-stündige Tour in Da Nang. Enthalten: Surfboard-Miete für 2 Stunden. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "small-group-speedboat-and-fishing-experience-in-da-nang": {
   "title": "Da Nang: Schnellboot und Angeln in kleiner Gruppe",
@@ -43219,6 +43726,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Private Tour zur Goldenen Brücke",
   "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Englischsprachiger Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "12-street-foods-and-6-craft-beers-by-scooter-with-a-lady-rider-in-da-nang": {
+  "title": "12 Streetfood-Gerichte und 6 Craft-Biere mit dem Roller und einer Fahrerin in Da Nang",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nAbholung ist ab Hai Chau und Hải Châu District möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Funtastic Basket Boat Tours and Cooking Class abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt für Gäste 4 bis 5 km außerhalb des Zentrums, Probieren Sie 5 bis 6 verschiedene Craft-Biere, bevor Sie das, Verkostung von 3 Signature-Gerichten, Verkostung von 6 originellen Gerichten und Verkostung von bis zu 12 authentischen Gerichten. Nicht enthalten sind Trinkgeld und Reiseversicherung, Snacks in der Craft-Beer-Bar und Alle persönlichen Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Abholung und Rückfahrt für Gäste 4 bis 5 km außerhalb des Zentrums",
+   "Probieren Sie 5 bis 6 verschiedene Craft-Biere, bevor Sie Ihr Lieblingsbier wählen",
+   "Verkostung von 3 Signature-Gerichten (bei Buchung der entsprechenden Option)",
+   "Verkostung von 6 originellen Gerichten (bei Buchung der Option mit 6 Kostproben)",
+   "Verkostung von bis zu 12 authentischen Gerichten (bei Buchung der Option mit 12 Kostproben und BBQ)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt für Gäste 4 bis 5 km außerhalb des Zentrums",
+   "Probieren Sie 5 bis 6 verschiedene Craft-Biere, bevor Sie Ihr Lieblingsbier wählen",
+   "Verkostung von 3 Signature-Gerichten (bei Buchung der entsprechenden Option)",
+   "Verkostung von 6 originellen Gerichten (bei Buchung der Option mit 6 Kostproben)",
+   "Verkostung von bis zu 12 authentischen Gerichten (bei Buchung der Option mit 12 Kostproben und BBQ)",
+   "Zugelassener Helm und zugelassenes Motorrad",
+   "Alle Eintrittskarten",
+   "Motorradversicherung nach vietnamesischem Straßenverkehrsrecht",
+   "Private Begleitung durch Fahrerinnen im traditionellen Ao Dai"
+  ],
+  "notIncluded": [
+   "Trinkgeld und Reiseversicherung",
+   "Snacks in der Craft-Beer-Bar",
+   "Alle persönlichen Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt für Gäste 4 bis 5 km außerhalb des Zentrums, Probieren Sie 5 bis 6 verschiedene Craft-Biere, bevor Sie das und Verkostung von 3 Signature-Gerichten. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "12 Streetfood-Gerichte und 6 Craft-Biere mit dem Roller und einer Fahrerin in Da Nang",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang": {
   "title": "Private Stadttour mit dem Roller und einer Fahrerin im Ao Dai in Da Nang",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt mit dem Roller im Zentrum von Da Nang, Fahrer und Reiseleiter, Motorradhelm, Nudeln nach der Tour und Alle Eintrittskarten und Parkgebühren. Nicht enthalten sind Getränke und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -43895,6 +44433,32 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Hoi An, mit Heiligtum My Son, Traditionelles Dorf und Flussboot. Durchgeführt von VM Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Heiligtum My Son mit Van und Boot, ab Hoi An oder Da Nang",
   "metaDescription": "Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "full-day-my-lai-massacre-memory-tour-in-hoi-an": {
+  "title": "Ganztagestour zum Gedenken an das Massaker von My Lai, ab Hoi An",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Hoi An, rund um Chợ Bà Rén, Champa-Tempel Khuong My und Siegesdenkmal von Nui Thanh. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintritt, Mittagessen, Trinkwasser in Flaschen, Reiseleiter und Reiseversicherung. Nicht enthalten sind Trinkgelder und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Chợ Bà Rén",
+   "Champa-Tempel Khuong My",
+   "Siegesdenkmal von Nui Thanh",
+   "Lokales Restaurant",
+   "Dauer: 10 Stunden",
+   "Eintritt"
+  ],
+  "included": [
+   "Eintritt",
+   "Mittagessen",
+   "Trinkwasser in Flaschen",
+   "Englischsprachiger Reiseleiter",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Hoi An, mit Chợ Bà Rén, Champa-Tempel Khuong My und Siegesdenkmal von Nui Thanh. Durchgeführt von Hoi An Express, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ganztagestour zum Gedenken an das Massaker von My Lai, ab Hoi An",
+  "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Eintritt und Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "my-son-morning-or-sunset-river-cruise-bbq-or-banhmi-in-hoi-an": {
   "title": "My Son am Morgen oder bei Sonnenuntergang: Flussfahrt, Grillen oder Banh Mi",
@@ -46700,6 +47264,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang: vegetarischer Kochkurs und Korbbootfahrt",
   "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "da-nang-night-city-motorbike-and-han-cruise-by-aodai-riders-da-nang": {
+  "title": "Da Nang bei Nacht mit dem Motorrad und Han-Flussfahrt mit Fahrerinnen im Ao Dai (Da Nang)",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt für Gäste 3 bis 4 km außerhalb des Zentrums, Abendessen mit lokalen Nudeln, 1 lokales Bier oder Softdrink pro Person auf der Han-Fahrt für, Abendessen mit Pho und Banh Mi bei der Option Stadttour und Private Fahrt und Führung durch Fahrerinnen im Ao Dai. Nicht enthalten sind Reiseversicherung und persönliche Ausgaben und Trinkgeld, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Abholung und Rückfahrt für Gäste 3 bis 4 km außerhalb des Zentrums",
+   "Abendessen mit lokalen Nudeln (My Quang) bei der Option mit Han-Cruise",
+   "1 lokales Bier oder Softdrink pro Person auf der Han-Fahrt (Option mit Han-Cruise)",
+   "Abendessen mit Pho und Banh Mi bei der Option Stadttour (ohne Han-Cruise)",
+   "Private Fahrt und Führung durch Fahrerinnen im Ao Dai"
+  ],
+  "included": [
+   "Abholung und Rückfahrt für Gäste 3 bis 4 km außerhalb des Zentrums.",
+   "Abendessen mit lokalen Nudeln (My Quang) bei der Option mit Han-Cruise.",
+   "1 lokales Bier oder Softdrink pro Person auf der Han-Fahrt (Option mit Han-Cruise).",
+   "Abendessen mit Pho und Banh Mi bei der Option Stadttour (ohne Han-Cruise).",
+   "Private Fahrt und Führung durch Fahrerinnen im Ao Dai.",
+   "Alle Eintrittskarten."
+  ],
+  "notIncluded": [
+   "Reiseversicherung und persönliche Ausgaben.",
+   "Tip."
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Abholung und Rückfahrt für Gäste 3 bis 4 km außerhalb des Zentrums, Abendessen mit lokalen Nudeln und 1 lokales Bier oder Softdrink pro Person auf der Han-Fahrt für. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang bei Nacht mit dem Motorrad und Han-Flussfahrt mit Fahrerinnen im Ao Dai (Da Nang)",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "da-nang-cooking-market-tour-farming-and-cooking-class-da-nang": {
   "title": "Da Nang: Markt, Feldarbeit und Kochkurs",
   "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kräutertee, Wasser, englischsprachiger Reiseleiter, Dessert und alle. Nicht enthalten sind Abholung und Rückfahrt an Ihrem Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -46984,7 +47575,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränk",
    "Persönliche Ausgaben"
   ],
-  "shortDescription": "0,8333333333333334-stündige Tour in Da Nang, mit Hàn River, Da Nang, Dragon Bridge, Da Nang and Hàn River und Da NangTransfer. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "0,8333333333333334-stündige Tour in Da Nang, mit Hàn River, Da Nang, Drachenbrücke, Da Nang and Hàn River und Da NangTransfer. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Da Nang: lokale Nachtfahrt auf dem Han-Fluss",
   "metaDescription": "0,8333333333333334-stündige Tour in Da Nang. Enthalten: Kreuzfahrtticket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -48397,6 +48988,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Sapa, mit Dorf Cat Cat, Dorf Lao Chai und Ta Van. Durchgeführt von Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sapa: Nebenstraßen und lokale Kultur per Motorrad",
   "metaDescription": "3-stündige Tour in Sapa. Enthalten: einheimischer Motorradfahrer und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "5-day-unesco-ha-long-ninh-binh-and-sapa-tour-by-sleeper-bus": {
+  "title": "5 Tage UNESCO-Welterbe: Halong, Ninh Binh und Sapa im Schlafbus",
+  "fullDescription": "Dies ist ein 5-tägiges Erlebnis in Sapa, rund um Hanoi - Sapa mit der Dcar-Limousine, Freier Vormittag und Dorf Cat Cat. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer im Standardbus, Transfer mit der Dcar-Limousine ab Hanoi, Nachttransfer ab Sapa, Reiseleiter und 1 Nacht in Ninh Binh oder Sapa. Nicht enthalten sind Nicht genannte Mahlzeiten, Persönliche Ausgaben, Reiseversicherung und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Hanoi - Sapa mit der Dcar-Limousine",
+   "Freier Vormittag",
+   "Dorf Cat Cat",
+   "Schlafbus",
+   "Dauer: 5 Tage",
+   "Hin- und Rücktransfer im Standardbus"
+  ],
+  "included": [
+   "Hin- und Rücktransfer im Standardbus",
+   "Transfer mit der Dcar-Limousine Hanoi - Sapa",
+   "Nachttransfer Sapa - Hanoi (Schlafbus oder Zug)",
+   "Englischsprachiger Reiseleiter",
+   "1 Nacht in Ninh Binh oder Sapa (3-, 4- oder 5-Sterne-Option), je nach Verfügbarkeit",
+   "1 Nacht in Sapa (3-, 4- oder 5-Sterne-Option)",
+   "1 Nacht auf der Halong-Kreuzfahrt (3-, 4- oder 5-Sterne-Option)",
+   "Eintrittsgebühren und Bootsaktivität",
+   "Aktivitäten an Bord: Kajakfahren, Kochkurs, Sunset-Party und Tintenfischangeln",
+   "Mahlzeiten gemäß Programm",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Nicht genannte Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Trinkgelder"
+  ],
+  "shortDescription": "5-tägige Tour in Sapa, mit Free Morning, Dorf Cat Cat und Sleeper Bus. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "5 Tage UNESCO-Welterbe: Halong, Ninh Binh und Sapa im Schlafbus",
+  "metaDescription": "5-tägige Tour in Sapa. Enthalten: Hin- und Rücktransfer im Standardbus. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "high-altitude-pass-and-glass-bridge-private-tour-in-sapa": {
   "title": "Sapa: Hochpass und Glasbrücke als private Tour",
