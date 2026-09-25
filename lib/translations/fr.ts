@@ -21366,6 +21366,29 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : trottinette électrique, barque ronde et dégustations locales",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hai-van-pass-easy-rider-tour-from-hoi-an-da-nang-and-hue-by-local-operator": {
+  "title": "Col de Hai Van en easy rider, depuis Hoi An, Da Nang ou Hué",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend tous les billets d'entrée et de stationnement, easy rider anglophone, moto, carburant et et transport des bagages compris. Il ne comprend pas aliments, boissons et dépenses personnelles, option conduite libre : sur demande et demande particulière pour les bagages, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Tous les billets d'entrée et de stationnement",
+   "Easy rider local anglophone, moto, carburant, casque aux normes internationales et équipement de pluie",
+   "Transport des bagages compris, arrimés sur la moto (sac ou valise de 100 l maximum)"
+  ],
+  "included": [
+   "Tous les billets d'entrée et de stationnement",
+   "Easy rider local anglophone, moto, carburant, casque aux normes internationales et équipement de pluie",
+   "Transport des bagages compris, arrimés sur la moto (sac ou valise de 100 l maximum)"
+  ],
+  "notIncluded": [
+   "Aliments, boissons et dépenses personnelles",
+   "Option conduite libre : sur demande (location de moto 29 USD, carburant compris)",
+   "Demande particulière pour les bagages (transport en bus, 3 USD par bagage)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant tous les billets d'entrée et de stationnement, easy rider anglophone, moto, carburant et et transport des bagages compris. Opérateur : FLEXIBLE SOLUTIONS TRADING AND TOURISM ONE MEMBER COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Col de Hai Van en easy rider, depuis Hoi An, Da Nang ou Hué",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "hoi-an-shore-excursion-traditions-and-heritage-experience-by-local-operator": {
   "title": "Escale à Hoi An : traditions et patrimoine",
   "fullDescription": "Cette expérience d'une journée entière se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transfert aller-retour depuis le port de Chan May ou Tien Sa en véhicule privé, guide, balade en barque ronde au village de cocotiers de Cam Thanh, droits d'entrée aux monuments de la vieille ville de Hoi An et atelier de fabrication de lanternes. Il ne comprend pas hébergement avant ou après le circuit, boissons supplémentaires, pourboires pour le guide et le chauffeur et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -21541,6 +21564,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, avec Vedette rapide. Opérateur : Viet Nam Happy Travel, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Île de Cham : baptême de plongée d'une journée",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-full-day-customized-photoshoot-in-hoi-an": {
+  "title": "Hoi An : séance photo privée sur mesure, journée complète",
+  "fullDescription": "Cette expérience se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend photographe, photos retouchées par un professionnel, courte vidéo de voyage ou séquences des coulisses filmées avec votre téléphone, conseils de pose et accessoires photo sélectionnés à disposition. Il ne comprend pas billets d'entrée pour les participants et le photographe, transport entre les sites, dépenses personnelles et repas et boissons pour les participants et le photographe, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Photographe professionnel",
+   "photos retouchées par un professionnel",
+   "Courte vidéo de voyage ou séquences des coulisses filmées avec votre téléphone",
+   "Conseils de pose",
+   "Accessoires photo sélectionnés à disposition"
+  ],
+  "included": [
+   "Photographe professionnel",
+   "photos retouchées par un professionnel",
+   "Courte vidéo de voyage ou séquences des coulisses filmées avec votre téléphone",
+   "Conseils de pose",
+   "Accessoires photo sélectionnés à disposition"
+  ],
+  "notIncluded": [
+   "Billets d'entrée pour les participants et le photographe (si nécessaire)",
+   "Transport entre les sites (si nécessaire)",
+   "Dépenses personnelles",
+   "Repas et boissons pour les participants et le photographe",
+   "Location de vêtements"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant photographe, photos retouchées par un professionnel et courte vidéo de voyage ou séquences des coulisses filmées avec votre téléphone. Opérateur : Linda Vn bike Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : séance photo privée sur mesure, journée complète",
+  "metaDescription": "Excursion à Hoi An. Comprend photographe. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator": {
   "title": "Ba Na Hills et Pont d'Or depuis Hoi An ou Da Nang",
@@ -22142,6 +22193,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : easy rider et col panoramique de Hai Van",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "discover-central-vietnam-ba-na-my-son-hue-hoi-an-by-local-operator": {
+  "title": "Centre du Vietnam : Ba Na, My Son, Hué et Hoi An",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transferts aller-retour depuis l'hôtel, guide tous les jours, billets d'entrée prévus au programme, repas indiqués et eau en bouteille chaque jour. Il ne comprend pas dépenses personnelles et pourboires, éléments non mentionnés au programme ci-dessus et frais de prise en charge ou de retour hors du centre de Da Nang, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. David’s Vietnam Tours confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 6 heures",
+   "Transferts aller-retour depuis l'hôtel (centre de Da Nang)",
+   "Guide anglophone tous les jours",
+   "Billets d'entrée prévus au programme",
+   "Repas indiqués (3 déjeuners, 1 dîner)",
+   "Eau en bouteille chaque jour"
+  ],
+  "included": [
+   "Transferts aller-retour depuis l'hôtel (centre de Da Nang)",
+   "Guide anglophone tous les jours",
+   "Billets d'entrée prévus au programme",
+   "Repas indiqués (3 déjeuners, 1 dîner)",
+   "Eau en bouteille chaque jour",
+   "Assurance voyage (jour 3)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et pourboires",
+   "Éléments non mentionnés au programme ci-dessus",
+   "Frais de prise en charge ou de retour hors du centre de Da Nang"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant transferts aller-retour depuis l'hôtel, guide tous les jours et billets d'entrée prévus au programme. Opérateur : David’s Vietnam Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Centre du Vietnam : Ba Na, My Son, Hué et Hoi An",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "ba-na-hills-danang-charm-and-basket-boat-ride": {
   "title": "Ba Na Hills, spectacle Charming Da Nang et barque ronde",
   "fullDescription": "Cette expérience se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend entrée de Ba Na Hills, billet pour le spectacle Charming Da Nang, billet pour le spectacle Hoi An Memories et billet pour la balade en barque ronde. Il ne comprend pas nourriture, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -22223,6 +22302,40 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Sanctuaire de My Son. Opérateur : AN AN TRAVEL HOI AN, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Depuis Hoi An ou Da Nang : sanctuaire de My Son et montagnes de Marbre",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "lady-buddha-marble-mountains-hoi-an-ancient-town": {
+  "title": "Dame Bouddha, montagnes de Marbre et vieille ville de Hoi An",
+  "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Bus/autocar, Montagnes de Marbre et Vieille ville de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, visite de la Dame Bouddha, transport aller-retour en minibus ou bus climatisé, guide et dîner vietnamien. Il ne comprend pas pourboires, ascenseur de la montagne de Marbre, boissons supplémentaires et supplément de 100 000 VND par personne les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Montagnes de Marbre",
+   "Vieille ville de Hoi An",
+   "Hoi An",
+   "Durée : 7 heures",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Visite de la Dame Bouddha (si l'option est choisie)",
+   "Transport aller-retour en minibus ou bus climatisé",
+   "Guide",
+   "Dîner vietnamien",
+   "Billet d'entrée de la montagne de Marbre",
+   "Billet d'entrée pour la vieille ville de Hoi An",
+   "Billet d'entrée des maisons communes",
+   "Billet d'entrée des vieilles maisons",
+   "Billet d'entrée du pont couvert japonais",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Ascenseur de la montagne de Marbre",
+   "Boissons supplémentaires",
+   "Supplément de 100 000 VND par personne les jours fériés (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Montagnes de Marbre, Vieille ville de Hoi An et Hoi An. Opérateur : Happy Holiday Travel - Viet Nam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Dame Bouddha, montagnes de Marbre et vieille ville de Hoi An",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "my-son-sanctuary-guided-half-day-tour": {
   "title": "Sanctuaire de My Son : demi-journée guidée",
@@ -22334,6 +22447,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : balade privée en bateau aux lanternes sur la rivière Hoai",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "from-hoian-danang-hue-imperial-city-tour-with-haivan-pass-hoi-an": {
+  "title": "Depuis Hoi An ou Da Nang : cité impériale de Hué par le col de Hai Van",
+  "fullDescription": "Cette expérience de 11 heures se déroule au départ de Hoi An, construite autour de Col de Hai Van, Lagune de Lap An et Citadelle historique de Hué. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Ngũ Hành Sơn, Cẩm An, Tân An, Cẩm Thanh, Cẩm Châu et Sơn Trà ; le lieu et l’heure exacts sont convenus avec Venus Travel Hoi An une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da, droits d'entrée prévus au programme, déjeuner dans un beau restaurant de Hué, assurance voyage et eau minérale. Il ne comprend pas boissons et pourboires pour les guides et les chauffeurs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Col de Hai Van",
+   "Lagune de Lap An",
+   "Citadelle historique de Hué",
+   "Pagode de la Dame céleste",
+   "Durée : 11 heures",
+   "Transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da Nang par le col de Hai Van (290 km)"
+  ],
+  "included": [
+   "Transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da Nang par le col de Hai Van (290 km)",
+   "Guide anglophone sympathique, passionné et professionnel",
+   "Droits d'entrée prévus au programme (selon l'option choisie)",
+   "Déjeuner local dans un beau restaurant de Hué (selon l'option choisie)",
+   "Assurance voyage",
+   "Eau minérale"
+  ],
+  "notIncluded": [
+   "Boissons",
+   "Pourboires pour les guides et les chauffeurs"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Col de Hai Van, Lagune de Lap An et Citadelle historique de Hué. Opérateur : Venus Travel Hoi An, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Depuis Hoi An ou Da Nang : cité impériale de Hué par le col de Hai Van",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "vegan-cooking-class-market-tour-and-basket-boat-in-hoi-an": {
   "title": "Hoi An : cours de cuisine végane, marché et barque ronde",
   "fullDescription": "Cette expérience de 4,5 heures se déroule à Hoi An, construite autour de Hoi An et Village écologique de cocotiers de Cam Thanh. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLa prise en charge est proposée depuis Điện Dương, Hội An, Da Nang, Hải Châu District, Ngũ Hành Sơn et Sơn Trà ; le lieu et l’heure exacts sont convenus avec Vietnam Orange Tours une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend chef-guide, tous les ingrédients de cuisine, eau minérale à volonté, déjeuner et droit d'entrée du village de cocotiers de Cam Thanh. Il ne comprend pas boissons supplémentaires et dépenses personnelles non mentionnées, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Vietnam Orange Tours confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -22390,6 +22530,68 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, avec Col de Hai Van, Plage de Lang Co et Lagune de Lap An. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Citadelle de Hué par le col de Hai Van, en petit groupe",
   "metaDescription": "Excursion à Hoi An. Comprend récent. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "hue-to-hoi-an-via-hai-van-pass-by-motorbike-with-easy-riders-by-local-operator": {
+  "title": "De Hué à Hoi An par le col de Hai Van, à moto avec des easy riders",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Hoi An, construite autour de Dream Spring, Lagune de Lap An et Col de Hai Van. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend toutes les dépenses du circuit sont comprises, transport, guides, casques et eau. Il ne comprend pas déjeuner sur la belle plage de Lang Co et vous choisissez celui qui vous plaît, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Dream Spring",
+   "Lagune de Lap An",
+   "Col de Hai Van",
+   "Montagnes de Marbre",
+   "Durée : 8 heures",
+   "Toutes les dépenses du circuit sont comprises (hors déjeuner)"
+  ],
+  "included": [
+   "Toutes les dépenses du circuit sont comprises (hors déjeuner)",
+   "transport",
+   "Guides anglophones",
+   "casques",
+   "Eau",
+   "café",
+   "tous les droits d'entrée"
+  ],
+  "notIncluded": [
+   "Déjeuner sur la belle plage de Lang Co : arrêt dans un restaurant de fruits de mer local, avec une belle carte à prix raisonnable.",
+   "vous choisissez celui qui vous plaît"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Tam Giang Lagoon, Thua Thien-Hue, Dream Spring et Lagune de Lap An. Opérateur : Rew Rew Adventures, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "De Hué à Hoi An par le col de Hai Van, à moto avec des easy riders",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hoi-an-ancient-town-and-coconut-village-tour": {
+  "title": "Vieille ville de Hoi An et village de cocotiers",
+  "fullDescription": "Cette expérience de 6,5 heures se déroule à Hoi An, construite autour de Village de cocotiers de Cam Thanh, Vieille ville de Hoi An et Balade en bateau traditionnel. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, transport climatisé, guide local, droits d'entrée de la vieille ville de Hoi An et balade en barque ronde en bambou à Cam Thanh. Il ne comprend pas dépenses personnelles, boissons supplémentaires, pourboires pour le guide et le chauffeur et toute prestation non listée comme comprise, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Village de cocotiers de Cam Thanh",
+   "Vieille ville de Hoi An",
+   "Balade en bateau traditionnel",
+   "Restaurant local",
+   "Durée : 6,5 heures",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport climatisé",
+   "Guide local anglophone",
+   "Droits d'entrée de la vieille ville de Hoi An",
+   "Balade en barque ronde en bambou à Cam Thanh",
+   "Visite guidée à pied de la vieille ville de Hoi An",
+   "Visites de sites historiques sélectionnés",
+   "Balade en bateau aux lanternes sur la rivière Hoai",
+   "1 lanterne fleurie flottante",
+   "Dîner de spécialités de Hoi An",
+   "Eau potable en bouteille"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Boissons supplémentaires",
+   "Pourboires pour le guide et le chauffeur (facultatifs)",
+   "Toute prestation non listée comme comprise"
+  ],
+  "shortDescription": "Excursion à Hoi An, avec Village de cocotiers de Cam Thanh, Vieille ville de Hoi An et Balade en bateau traditionnel. Opérateur : HKTRAVEL, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Vieille ville de Hoi An et village de cocotiers",
+  "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoai-river-boat-trip-by-night-with-a-lantern-release-in-hoi-an-by-local-operator": {
   "title": "Hoi An : balade nocturne sur la rivière Hoai avec lâcher de lanternes",
@@ -22539,6 +22741,40 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : marché du matin, vieille ville et atelier de lanternes",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "ba-na-hills-and-golden-bridge-tour-from-da-nang-hoi-an-by-local-operator": {
+  "title": "Ba Na Hills et Pont d'Or depuis Da Nang ou Hoi An",
+  "fullDescription": "Cette expérience de 9 heures se déroule au départ de Hoi An, construite autour de Téléphérique et Ba Na Hills. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel dans le centre de Da Nang et à Hoi An, transport climatisé, guide, eau en bouteille et billet aller-retour du téléphérique de Ba Na Hills. Il ne comprend pas déjeuner buffet, billet pour le musée de cire, billet pour la cave à vin Debay et billet pour l'Alpine Coaster, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Téléphérique",
+   "Ba Na Hills",
+   "Durée : 9 heures",
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang et à Hoi An",
+   "Transport climatisé",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans le centre de Da Nang et à Hoi An",
+   "Transport climatisé",
+   "Guide anglophone",
+   "Eau en bouteille",
+   "Billet aller-retour du téléphérique de Ba Na Hills (options 1 et 3)",
+   "Déjeuner buffet (options 1 et 3)",
+   "Véhicule privé (option 3)",
+   "Heure de prise en charge flexible (option 3)"
+  ],
+  "notIncluded": [
+   "Billet aller-retour du téléphérique de Ba Na Hills (option 2)",
+   "Déjeuner buffet (option 2)",
+   "Billet pour le musée de cire",
+   "Billet pour la cave à vin Debay",
+   "Billet pour l'Alpine Coaster",
+   "Dépenses personnelles",
+   "Pourboires (facultatifs)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Ba Na Hills. Opérateur : orange tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Ba Na Hills et Pont d'Or depuis Da Nang ou Hoi An",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "chan-may-port-to-da-nang-and-hoi-an-highlights-day-trip-by-local-operator": {
   "title": "Depuis le port de Chan May : les incontournables de Da Nang et Hoi An en une journée",
   "fullDescription": "Cette expérience de 8 heures se déroule à Hoi An, construite autour de Vieille ville de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend prise en charge et retour au port de Chan May, guide, véhicule climatisé, droits d'entrée et déjeuner dans un restaurant local. Il ne comprend pas autres boissons et dépenses personnelles et le pourboire est facultatif mais apprécié, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nCHAN MAY PORT JOINT STOCK COMPANY - Công ty Cổ phần Cảng Chân Mây. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -22566,6 +22802,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Depuis le port de Chan May : les incontournables de Da Nang et Hoi An en une journée",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "hoi-an-become-a-farmer-herbal-tea-and-foot-soak": {
+  "title": "Hoi An : devenez maraîcher, infusion et bain de pieds",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend visite d'un jardin bio, travaux des champs participatifs, plantation, présentation des plantes locales et de leurs usages traditionnels et bain de pieds relaxant aux herbes. Il ne comprend pas dépenses personnelles et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Visite d'un jardin bio",
+   "Travaux des champs participatifs",
+   "Plantation, arrosage et récolte de saison",
+   "Présentation des plantes locales et de leurs usages traditionnels",
+   "Bain de pieds relaxant aux herbes"
+  ],
+  "included": [
+   "Visite d'un jardin bio",
+   "Travaux des champs participatifs",
+   "Plantation, arrosage et récolte de saison",
+   "Présentation des plantes locales et de leurs usages traditionnels",
+   "Bain de pieds relaxant aux herbes",
+   "Infusion fraîchement préparée",
+   "Hôte local anglophone",
+   "Outils et matériel agricoles"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant visite d'un jardin bio, travaux des champs participatifs et plantation. Opérateur : Faifo Hospitality, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : devenez maraîcher, infusion et bain de pieds",
+  "metaDescription": "Excursion à Hoi An. Comprend visite d'un jardin bio. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "explore-hue-with-a-one-day-travel-itinerary": {
   "title": "Hué en une journée",
   "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport climatisé, guide, déjeuner dans un restaurant local, eau en bouteille et assurance voyage. Il ne comprend pas dépenses personnelles et prestations non mentionnées ci-dessus, droit d'entrée et pourboires pour les guides et les chauffeurs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -22592,6 +22857,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant transport climatisé, guide et déjeuner dans un restaurant local. Opérateur : HAIVAN TRAVEL, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hué en une journée",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "da-nang-and-hoi-an-coconut-boat-ride-coffee-workshop-by-local-operator": {
+  "title": "Da Nang et Hoi An : barque dans la cocoteraie et atelier café",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Hoi An, construite autour de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLa prise en charge est proposée depuis Hội An et Da Nang ; le lieu et l’heure exacts sont convenus avec an's travel une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel à Da Nang, prise en charge à l'hôtel à Hoi An, balade en barque ronde dans la cocoteraie, lancer de filet et pêche aux crabes et atelier de café vietnamien. Il ne comprend pas dépenses personnelles, pourboires pour le guide et tout élément non mentionné dans les inclusions, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. an's travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Hoi An",
+   "Durée : 4 heures",
+   "Prise en charge et retour à l'hôtel à Da Nang (aller-retour)",
+   "Prise en charge à l'hôtel à Hoi An (retour non compris)",
+   "Balade en barque ronde dans la cocoteraie",
+   "Lancer de filet et pêche aux crabes"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Da Nang (aller-retour)",
+   "Prise en charge à l'hôtel à Hoi An (retour non compris)",
+   "Balade en barque ronde dans la cocoteraie",
+   "Lancer de filet et pêche aux crabes",
+   "Atelier de café vietnamien",
+   "Instructeur café",
+   "1 café préparé par vos soins"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires pour le guide (facultatifs)",
+   "Tout élément non mentionné dans les inclusions"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Hoi An et Finish at. Opérateur : an's travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Da Nang et Hoi An : barque dans la cocoteraie et atelier café",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bus-transfer-to-hoi-an-with-sightseeing-stops": {
   "title": "Transfert en bus vers Hoi An avec arrêts touristiques",
@@ -22752,6 +23046,39 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : tour gastronomique à pied",
   "metaDescription": "Excursion de 3 heures à Hoi An. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "cham-islands-with-2-snorkeling-options": {
+  "title": "Îles Cham avec 2 options de snorkeling",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Hoi An, construite autour de Îles Cham. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transferts en hors-bord partagé, prise en charge et retour à l'hôtel, une ou deux sessions de snorkeling, accompagnement par un guide de snorkeling ou de plongée certifié et équipement de snorkeling. Il ne comprend pas dépenses personnelles et nourriture et boissons supplémentaires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Îles Cham",
+   "Durée : 8 heures",
+   "Transferts en hors-bord partagé",
+   "Prise en charge et retour à l'hôtel (secteurs sélectionnés)",
+   "Une ou deux sessions de snorkeling",
+   "Accompagnement par un guide de snorkeling ou de plongée certifié"
+  ],
+  "included": [
+   "Transferts en hors-bord partagé",
+   "Prise en charge et retour à l'hôtel (secteurs sélectionnés)",
+   "Une ou deux sessions de snorkeling",
+   "Accompagnement par un guide de snorkeling ou de plongée certifié",
+   "Équipement de snorkeling",
+   "Déjeuner vietnamien local",
+   "Eau potable",
+   "Temps libre à la plage",
+   "Professionnel de la plongée certifié PADI (selon l'option)",
+   "Matériel de snorkeling de qualité",
+   "Café, thé, en-cas et eau potable (selon l'option)",
+   "Déjeuner local en bord de plage"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Nourriture et boissons supplémentaires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Îles Cham. Opérateur : Authentic Vietnam Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Îles Cham avec 2 options de snorkeling",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "hoi-an-night-escape-lanterns-culture-and-river-boat-by-local-operator": {
   "title": "Hoi An by night : lanternes, culture et bateau sur la rivière",
   "fullDescription": "Cette expérience de 6 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transfert en voiture climatisée, prise en charge et retour à Hoi An, guide, balade en bateau et lâcher de lanternes et eau minérale dans la voiture. Il ne comprend pas pourboires pour le guide et le chauffeur, dîner et supplément jours fériés au Vietnam, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. VN BIKE TOUR COMPANY LIMTIED confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -22830,6 +23157,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,3333333333333333 heures à Hoi An, comprenant balade en bateau traditionnel en bois, lanterne flottante et rameuse. Opérateur : Hoi An Da Nang Tour, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : balade en bateau avec lâcher de lanternes",
   "metaDescription": "Excursion de 0,3333333333333333 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "snorkeling-or-scuba-diving-in-cham-islands": {
+  "title": "Snorkeling ou plongée bouteille aux îles Cham",
+  "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Da Nang et Hoi An ; le lieu et l’heure exacts sont convenus avec Tong Vn bike Tour une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend transferts aller-retour, trajet en hors-bord, guide diplômé de l'île, droits d'entrée des sites et forfait plongée complet : utilisation d'un équipement de plongée professionnel. Il ne comprend pas sodas et pourboires pour l'équipage du bateau, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Hoi An",
+   "Durée : 7 heures",
+   "Transferts aller-retour",
+   "Trajet en hors-bord",
+   "Guide diplômé de l'île",
+   "Droits d'entrée des sites"
+  ],
+  "included": [
+   "Transferts aller-retour",
+   "Trajet en hors-bord",
+   "Guide diplômé de l'île",
+   "Droits d'entrée des sites",
+   "Forfait plongée complet : équipement professionnel (combinaison, palmes, masque, détendeur) et encadrement individuel par un instructeur certifié.",
+   "Déjeuner"
+  ],
+  "notIncluded": [
+   "Sodas, bières ou noix de coco fraîches commandés au déjeuner ou à la plage.",
+   "Pourboires pour l'équipage, les moniteurs de plongée et le guide."
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Hoi An. Opérateur : Tong Vn bike Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Snorkeling ou plongée bouteille aux îles Cham",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "coconut-forest-basket-boat-ride-with-pickup-in-hoi-an": {
   "title": "Hoi An : barque ronde dans la cocoteraie, avec prise en charge",
@@ -22963,6 +23317,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : cours de cuisine végétarienne, village de cocotiers en option",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hidden-countryside-atv-adventure-organic-farm-and-bbq-lunch-in-hoi-an": {
+  "title": "Hoi An : quad dans la campagne, ferme bio et déjeuner barbecue",
+  "fullDescription": "Cette expérience de 5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge au point de rendez-vous, location de quad, casque, guide pour la balade et briefing de sécurité et consignes. Il ne comprend pas pourboires, supplément pour un seul passager et supplément jours fériés au Vietnam, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. VN BIKE TOUR COMPANY LIMTIED confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 5 heures",
+   "Prise en charge au point de rendez-vous (poste de Hoi An, 06 rue Tran Hung Dao)",
+   "Location de quad",
+   "Casque",
+   "Guide professionnel pour la balade (anglophone ; supplément pour les autres langues)",
+   "Briefing de sécurité et consignes"
+  ],
+  "included": [
+   "Prise en charge au point de rendez-vous (poste de Hoi An, 06 rue Tran Hung Dao)",
+   "Location de quad",
+   "Casque",
+   "Guide professionnel pour la balade (anglophone ; supplément pour les autres langues)",
+   "Briefing de sécurité et consignes",
+   "Rafraîchissements pendant la balade",
+   "Casque et équipement de sécurité",
+   "Déjeuner barbecue (options végétarienne et végane disponibles)",
+   "Toutes les taxes et frais de service",
+   "Eau potable en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires (facultatifs)",
+   "Supplément pour un seul passager",
+   "Supplément jours fériés au Vietnam"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant prise en charge au point de rendez-vous, location de quad et casque. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : quad dans la campagne, ferme bio et déjeuner barbecue",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "e-car-duck-and-buffalo-farming-local-experience-in-hoi-an": {
   "title": "Hoi An : voiturette électrique, canards et buffles à la ferme",
   "fullDescription": "Cette expérience de 4 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend voiturette électrique ou moto pendant la visite, chauffeur, balade à dos de buffle, découverte d'une ferme de canards et entrée du village de Tra Que. Il ne comprend pas dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23079,6 +23465,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : marché, cours de cuisine et atelier de lanternes",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "chan-may-port-tien-sa-port-tour-da-nang-and-hoi-an-highlights-by-local-operator": {
+  "title": "Depuis le port de Chan May ou Tien Sa : les incontournables de Da Nang et Hoi An",
+  "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Col de Hai Van, Montagnes de Marbre et Village maraîcher de Tra Que. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend prise en charge et retour au point le plus proche du port, véhicule récent de 4, 7 ou 16 places pour petit groupe, avec chauffeur expérimenté, guide local, toutes les taxes et eau en bouteille pendant le circuit. Il ne comprend pas autres boissons, dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLocal Buddy Tours. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Col de Hai Van",
+   "Montagnes de Marbre",
+   "Village maraîcher de Tra Que",
+   "Hoi An",
+   "Durée : 7 heures",
+   "Prise en charge et retour au point le plus proche du port (sans frais caché)"
+  ],
+  "included": [
+   "Prise en charge et retour au point le plus proche du port (aucun frais caché).",
+   "Véhicule récent de 4, 7 ou 16 places pour petit groupe, avec chauffeur expérimenté.",
+   "English-speaking local guide.",
+   "Toutes les taxes, billets et droits d'entrée (aucun frais caché).",
+   "Eau en bouteille pendant la visite.",
+   "Bon déjeuner vietnamien dans un joli restaurant."
+  ],
+  "notIncluded": [
+   "Autres boissons",
+   "Dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Col de Hai Van, Dragon Bridge, Da Nang et Montagnes de Marbre. Opérateur : Local Buddy Tours Vietnam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Depuis le port de Chan May ou Tien Sa : les incontournables de Da Nang et Hoi An",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an": {
   "title": "Hoi An : balade nocturne en bateau sur la rivière Hoai et lanterne flottante",
   "fullDescription": "Cette expérience de 15 minutes se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend accueil sur place, balade en bateau et 1 lanterne flottante par personne. Il ne comprend pas prise en charge et retour à l'hôtel et nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23156,6 +23570,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant chauffeur anglophone, visite de la pagode de Linh Ung et visite des montagnes de Marbre. Opérateur : SANG HO EXPLORER DAY TRIP, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Sanctuaire de My Son, montagne de Marbre et Dame Bouddha",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "my-son-sanctuary-w-champa-s-show-and-food-from-hoi-an-da-nang-by-local-operator": {
+  "title": "Sanctuaire de My Son avec spectacle et cuisine champa, depuis Hoi An ou Da Nang",
+  "fullDescription": "Cette expérience de 5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Hoi An et Da Nang ; le lieu et l’heure exacts sont convenus avec My Son Tour une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel à Hoi An ou à Da Nang, véhicule climatisé, guide, petit-déjeuner de nouilles locales mi quang et déjeuner de nouilles locales mi quang. Il ne comprend pas l'entrée du sanctuaire de My Son n'est pas comprise et coûte, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. My Son Tour confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 5 heures",
+   "Prise en charge et retour à l'hôtel à Hoi An ou à Da Nang",
+   "Véhicule climatisé",
+   "Guide anglophone",
+   "Petit-déjeuner de nouilles locales mi quang (option végétarienne disponible), fruits de saison et café",
+   "Déjeuner de nouilles locales mi quang (option végétarienne disponible) et fruits de saison"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Hoi An ou à Da Nang",
+   "Véhicule climatisé",
+   "Guide anglophone",
+   "Petit-déjeuner de nouilles locales mi quang (option végétarienne disponible), fruits de saison et café",
+   "Déjeuner de nouilles locales mi quang (option végétarienne disponible) et fruits de saison",
+   "Eau en bouteille",
+   "Spectacle de danse champa (visite du matin uniquement)",
+   "Transfert en voiturette électrique jusqu'aux temples",
+   "Fabrication de galettes de riz chez l'habitant et balade en bateau"
+  ],
+  "notIncluded": [
+   "L'entrée du sanctuaire de My Son n'est pas comprise et coûte environ 6,50 USD (150 000 VND) par personne"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant prise en charge et retour à l'hôtel à Hoi An ou à Da Nang, véhicule climatisé et guide. Opérateur : My Son Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sanctuaire de My Son avec spectacle et cuisine champa, depuis Hoi An ou Da Nang",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-private-car-to-hue-via-hai-van-pass-and-sighseeings-by-local-operator": {
   "title": "De Hoi An à Hué en voiture privée par le col de Hai Van, avec visites",
@@ -23265,6 +23708,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, comprenant boisson de bienvenue, ingrédients de cuisine et instructeur. Opérateur : Dich vu du lich lang que Cam Thanh, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : cours de cuisine au village d'herbes de Tra Que",
   "metaDescription": "Excursion à Hoi An. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "hoi-an-ancient-town-lantern-boat-ride-and-memories-show-by-local-operator": {
+  "title": "Vieille ville de Hoi An, bateau aux lanternes et spectacle Memories",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An, guide local, billets d'entrée aux sites mentionnés au programme, balade en bateau sur la rivière Hoai et dîner. Il ne comprend pas pourboires pour le guide et le chauffeur et supplément jours fériés au Vietnam, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Global Explore confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An (supplément à Da Nang)",
+   "Guide local anglophone (supplément pour les autres langues)",
+   "Billets d'entrée aux sites mentionnés au programme",
+   "Balade en bateau sur la rivière Hoai",
+   "Dîner (1 plat local et 1 boisson)"
+  ],
+  "included": [
+   "Prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An (supplément à Da Nang)",
+   "Guide local anglophone (supplément pour les autres langues)",
+   "Billets d'entrée aux sites mentionnés au programme",
+   "Balade en bateau sur la rivière Hoai",
+   "Dîner (1 plat local et 1 boisson)",
+   "1 lanterne flottante par personne",
+   "Billet pour le spectacle Hoi An Memories",
+   "Eau potable en bouteille dans la voiture"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur (facultatifs)",
+   "Supplément jours fériés au Vietnam"
+  ],
+  "shortDescription": "Excursion de 1 heure à Hoi An, comprenant prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An, guide local et billets d'entrée aux sites mentionnés au programme. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Vieille ville de Hoi An, bateau aux lanternes et spectacle Memories",
+  "metaDescription": "Excursion de 1 heure à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bach-ma-national-park-trekking-tour-hoi-an-da-nang-hue-by-local-operator": {
   "title": "Parc national de Bach Ma : randonnée depuis Hoi An, Da Nang ou Hué",
@@ -23442,6 +23914,38 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Atelier de préparation du café vietnamien dans une torréfaction locale",
   "metaDescription": "Excursion de 1 heure à Hoi An. Comprend barista-instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hoi-an-incense-making-workshop-experience": {
+  "title": "Hoi An : atelier de fabrication d'encens",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend atelier de fabrication d'encens, accompagnement par des artisans locaux, teinture des baguettes de bambou, mélange de la poudre d'encens et roulage de l'encens à la main. Il ne comprend pas transport jusqu'à l'atelier, repas et boissons, pourboires et autres dépenses, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Atelier de fabrication d'encens",
+   "Accompagnement par des artisans locaux",
+   "Teinture des baguettes de bambou",
+   "Mélange de la poudre d'encens",
+   "Roulage de l'encens à la main"
+  ],
+  "included": [
+   "Atelier de fabrication d'encens",
+   "Accompagnement par des artisans locaux",
+   "Teinture des baguettes de bambou",
+   "Mélange de la poudre d'encens",
+   "Roulage de l'encens à la main",
+   "Utilisation d'une machine traditionnelle à pédale",
+   "Fabrication de cônes d'encens à l'agarwood",
+   "Visite du showroom",
+   "Encens fabriqué par vos soins en souvenir"
+  ],
+  "notIncluded": [
+   "Transport jusqu'à l'atelier",
+   "Repas et boissons",
+   "Pourboires",
+   "Autres dépenses"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant atelier de fabrication d'encens, accompagnement par des artisans locaux et teinture des baguettes de bambou. Opérateur : Hai An Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : atelier de fabrication d'encens",
+  "metaDescription": "Excursion à Hoi An. Comprend atelier de fabrication d'encens. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "lantern-making-class-and-coconut-village-tour-in-hoi-an": {
   "title": "Hoi An : atelier de lanternes et visite du village de cocotiers",
   "fullDescription": "Cette expérience de 2 heures se déroule au départ de Hoi An, construite autour de Village écologique de cocotiers de Cam Thanh. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLa prise en charge est proposée depuis Hội An, Hải Châu District, Ngũ Hành Sơn, Điện Bàn et Sơn Trà ; le lieu et l’heure exacts sont convenus avec Green Adventure Viet Nam une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel, atelier de fabrication de lanternes et lanterne à emporter, billet d'entrée, 50 minutes de visite de la cocoteraie et chapeau. Il ne comprend pas pourboires et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Green Adventure Viet Nam confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23468,6 +23972,37 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, avec Village écologique de cocotiers de Cam Thanh. Opérateur : Green Adventure Viet Nam, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : atelier de lanternes et visite du village de cocotiers",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "countryside-jeep-tour-with-farm-and-meal-in-hoi-an": {
+  "title": "Hoi An : jeep à la campagne avec ferme et repas",
+  "fullDescription": "Cette expérience de 3,5 heures se déroule au départ de Hoi An, construite autour de Jeep ou SUV. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend aventure en jeep sur les chemins de campagne et dans les villages, participation aux travaux agricoles, repas familial « com gia dinh », infusion et bain de pieds et visite d'une salle d'anciens outils agricoles. Il ne comprend pas dépenses personnelles, assurance voyage et autres prestations non mentionnées, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Jeep ou SUV",
+   "Durée : 3,5 heures",
+   "Aventure en jeep sur les chemins de campagne et dans les villages",
+   "Participation aux travaux agricoles",
+   "Repas familial « com gia dinh »",
+   "Infusion et bain de pieds"
+  ],
+  "included": [
+   "Aventure en jeep sur les chemins de campagne et dans les villages",
+   "Participation aux travaux agricoles",
+   "Repas familial « com gia dinh »",
+   "Infusion et bain de pieds",
+   "Visite d'une salle d'anciens outils agricoles",
+   "Visite d'une maison communale",
+   "Balade à dos de buffle et travaux dans les rizières",
+   "Repas rustique chez Bep Que",
+   "Guide anglophone"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Assurance voyage",
+   "Autres prestations non mentionnées"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Jeep ou SUV. Opérateur : Double T Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : jeep à la campagne avec ferme et repas",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cham-islands-beach-and-snorkeling-tour": {
   "title": "Îles Cham : plage et snorkeling",
@@ -23887,6 +24422,60 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Montagnes de Marbre, Vieille ville de Hoi An et Bai Choi Hoi An. Opérateur : DGB - INDOCHINATODAYTRAVEL, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Montagnes de Marbre et Hoi An : journée guidée avec dîner",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend transport. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "off-road-motorbike-adventure-with-waterfall-in-hoi-an": {
+  "title": "Hoi An : moto tout-terrain et cascade",
+  "fullDescription": "Cette expérience de 5 heures se déroule à Hoi An, construite autour de Hoi An, Rivière Thu Bon et District de Duy Xuyen. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend Moto Yamaha PG-1 semi-automatique, tout le carburant nécessaire au trajet, casques de qualité, accompagnateur local et bouteille d'eau. Il ne comprend pas repas, boissons et assurances, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nTrace Travel Vietnam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Hoi An",
+   "Rivière Thu Bon",
+   "District de Duy Xuyen",
+   "Province de Quang Nam",
+   "Durée : 5 heures",
+   "Moto Yamaha PG-1 semi-automatique (préparée pour le tout-terrain)"
+  ],
+  "included": [
+   "Moto Yamaha PG-1 semi-automatique (préparée pour le tout-terrain)",
+   "Tout le carburant nécessaire au trajet",
+   "Casques de qualité",
+   "Accompagnateur local anglophone",
+   "Bouteille d'eau (500 ml)",
+   "Cours de conduite pour débutants (formation accélérée)",
+   "Accès tout-terrain et sites naturels"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Boissons",
+   "Assurances"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Hoi An, Rivière Thu Bon et District de Duy Xuyen. Opérateur : Trace Travel Vietnam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : moto tout-terrain et cascade",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "tra-que-village-experience-hoi-an-s-greenest-hidden-gem-by-local-operator": {
+  "title": "Village de Tra Que : le coin le plus vert de Hoi An",
+  "fullDescription": "Cette expérience de 3,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport pendant l'activité, travaux des champs participatifs avec des outils traditionnels, cuisine et boissons rafraîchissantes comprises, visites de sites culturels et patrimoniaux et guide anglophone et conteur de la culture locale. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3,5 heures",
+   "Transport local pendant l'activité",
+   "Travaux des champs participatifs avec des outils traditionnels",
+   "Cuisine locale et boissons rafraîchissantes comprises",
+   "Visites de sites culturels et patrimoniaux : pagode, tombeau et atelier de bois recyclé",
+   "Guide anglophone sympathique et conteur de la culture locale"
+  ],
+  "included": [
+   "Transport local pendant l'activité",
+   "Travaux des champs participatifs avec des outils traditionnels",
+   "Cuisine locale et boissons rafraîchissantes comprises",
+   "Visites de sites culturels et patrimoniaux : pagode, tombeau et atelier de bois recyclé",
+   "Guide anglophone sympathique et conteur de la culture locale"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant transport pendant l'activité, travaux des champs participatifs avec des outils traditionnels et cuisine et boissons rafraîchissantes comprises. Opérateur : HO KINH DOANH DI CUNG BAN DIA, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Village de Tra Que : le coin le plus vert de Hoi An",
+  "metaDescription": "Excursion à Hoi An. Comprend transport pendant l'activité. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "coconut-boat-and-lantern-boat-ride-with-hoi-an-banh-mi": {
   "title": "Balade en barque dans la cocoteraie, bateau aux lanternes et banh mi de Hoi An",
@@ -24672,6 +25261,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : dégustation de cocktails dans des lieux secrets",
   "metaDescription": "Excursion de 3 heures à Hoi An. Comprend 4 lieux secrets à découvrir. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hoi-an-ancient-town-walk-through-time-with-local-guide-by-local-operator": {
+  "title": "Vieille ville de Hoi An : voyage dans le temps avec un guide local",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Hoi An, construite autour de Vieille ville de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend guide anglophone, balade à pied en petit groupe, visite de tous les grands sites patrimoniaux, ruelles cachées et spots photo et dessert traditionnel ou thé local. Il ne comprend pas prise en charge et retour à l'hôtel et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n95 Đ. Phan Chu Trinh, Phường Minh An, Hội An, Quảng Nam 55000, Việt Nam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Vieille ville de Hoi An",
+   "Durée : 2,5 heures",
+   "Guide local anglophone",
+   "Balade à pied en petit groupe",
+   "Visite de tous les grands sites patrimoniaux",
+   "Ruelles cachées et spots photo"
+  ],
+  "included": [
+   "Guide local anglophone",
+   "Balade à pied en petit groupe",
+   "Visite de tous les grands sites patrimoniaux",
+   "Ruelles cachées et spots photo",
+   "Dessert traditionnel ou thé local.",
+   "Quelques recommandations d'adresses pour manger local, de cafés, de tailleurs et d'activités à Hoi An."
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Hoi An, avec Vieille ville de Hoi An et Finish at. Opérateur : BEEP BEEP TRAVEL, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Vieille ville de Hoi An : voyage dans le temps avec un guide local",
+  "metaDescription": "Excursion de 2,5 heures à Hoi An. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "hoi-an-eco-cycling-tour-ride-into-the-real-local-life-by-local-operator": {
   "title": "Hoi An à vélo : au cœur de la vie locale",
   "fullDescription": "Cette expérience se déroule au départ de Hoi An, construite autour de Village maraîcher de Tra Que et Village écologique de cocotiers de Cam Thanh. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLa prise en charge est proposée depuis Hoi An et Hội An ; le lieu et l’heure exacts sont convenus avec BEEP BEEP TRAVEL une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend vélo de qualité et casque, bouteille d'eau, guide local anglophone expert, tous les droits d'entrée et billets de visite compris et en-cas local savoureux. Il ne comprend pas dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -24936,6 +25552,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Parc national de Bach Ma : randonnée et découverte au départ de Hué",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "3-hours-hoi-an-countryside-motorbike-tour-fun-and-safe-by-local-operator": {
+  "title": "Hoi An : 3 heures à moto dans la campagne",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend prise en charge et retour à l'hôtel à Hoi An, chauffeur, guide anglophone, scooter et casque standard. Il ne comprend pas dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n238 Lý Thái Tổ. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Prise en charge et retour à l'hôtel à Hoi An",
+   "Chauffeur (vous montez en passager derrière un pilote expérimenté)",
+   "Guide anglophone expérimenté",
+   "Scooter (automatique)",
+   "Casque standard"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Hoi An",
+   "Chauffeur (vous montez en passager derrière un pilote expérimenté)",
+   "Guide anglophone expérimenté",
+   "Scooter (automatique)",
+   "Casque standard",
+   "Imperméable (en cas de pluie)",
+   "Café vietnamien ou autres boissons",
+   "Entrée des villages et frais de pont",
+   "Carburant"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires (facultatifs)"
+  ],
+  "shortDescription": "Excursion de 3 heures à Hoi An, comprenant prise en charge et retour à l'hôtel à Hoi An, chauffeur et guide anglophone. Opérateur : SUNRISE TOUR Hoi An, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : 3 heures à moto dans la campagne",
+  "metaDescription": "Excursion de 3 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "hoi-an-and-marble-mountains-sunset-tour-with-dinner": {
   "title": "Hoi An et montagnes de Marbre au coucher du soleil, avec dîner",
   "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Bus/autocar, Montagnes de Marbre et Village de sculpteurs sur pierre de Non Nuoc. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel dans le centre de Da Nang, transport en minibus climatisé, billets d'entrée pour les montagnes de Marbre et Hoi An, dîner traditionnel de Hoi An avec des spécialités locales et eau en bouteille. Il ne comprend pas dépenses personnelles et prestations non mentionnées ci-dessus, pourboires, ascenseur des montagnes de Marbre et supplément de 150 000 VND par personne les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -25190,6 +25836,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : balade en bateau aux lanternes et lâcher de lanternes",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "ba-na-hill-golden-bridge-full-day-trip-from-hoi-an-da-nang-by-local-operator": {
+  "title": "Ba Na Hills et Pont d'Or : journée complète depuis Hoi An ou Da Nang",
+  "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, eau, billets de téléphérique à 1 000 000 VND par personne et déjeuner buffet à 380 000 VND par personne. Il ne comprend pas musée des statues de cire, film en 10D, entrée et service de la cave à vin française et montagnes russes, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Hiep Hoi An Travel II confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 7 heures",
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Eau",
+   "Billets de téléphérique à 1 000 000 VND par personne (si vous choisissez l'option avec téléphérique)",
+   "Déjeuner buffet à 380 000 VND par personne (si vous choisissez l'option avec téléphérique aller-retour et déjeuner)"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Eau",
+   "Billets de téléphérique à 1 000 000 VND par personne (si vous choisissez l'option avec téléphérique)",
+   "Déjeuner buffet à 380 000 VND par personne (si vous choisissez l'option avec téléphérique aller-retour et déjeuner)"
+  ],
+  "notIncluded": [
+   "Musée des statues de cire",
+   "Film en 10D",
+   "Entrée et service de la cave à vin française",
+   "Montagnes russes, mur d'escalade ou jeux avec lots",
+   "Dépenses personnelles et prestations non mentionnées ci-dessus",
+   "Supplément de 100 000 VND par personne les jours fériés (Têt du 20 au 21 février, 29-30 avril, 1er-3 mai, 2 septembre, 24-25 et 31 décembre, 1er janvier)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant prise en charge et retour à l'hôtel, guide et eau. Opérateur : Hiep Hoi An Travel II, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Ba Na Hills et Pont d'Or : journée complète depuis Hoi An ou Da Nang",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "marble-mountain-to-monkey-mountain-guided-group-tour": {
   "title": "De la montagne de Marbre à la montagne du Singe : visite guidée en groupe",
   "fullDescription": "Cette expérience de 4,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transferts aller-retour depuis et vers l'hôtel, droits d'entrée des montagnes de Marbre et de la grotte d'Am Phu, guide, déjeuner d'un plat local et une bouteille d'eau. Il ne comprend pas dépenses personnelles et prestations non mentionnées ci-dessus, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Da Nang Happy Tour confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -25357,6 +26033,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : barque de bambou dans la cocoteraie",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "marble-mountain-am-phu-cave-and-lady-buddha-2": {
+  "title": "Montagne de Marbre, grotte d'Am Phu et Dame Bouddha",
+  "fullDescription": "Cette expérience se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel à Hoi An et à Da Nang, transport en véhicule climatisé, guide local, droits d'entrée de la montagne de Marbre et de la grotte d'Am Phu et eau en bouteille. Il ne comprend pas ascenseur, la prise en charge et le retour ne sont pas assurés si l'hébergement n'est pas dans la, dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Prise en charge et retour à l'hôtel à Hoi An et à Da Nang",
+   "Transport en véhicule climatisé",
+   "Guide local anglophone",
+   "Droits d'entrée de la montagne de Marbre et de la grotte d'Am Phu",
+   "Eau en bouteille",
+   "Déjeuner (mi quang ou pho, visite du matin uniquement)"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Hoi An et à Da Nang",
+   "Transport en véhicule climatisé",
+   "Guide local anglophone",
+   "Droits d'entrée de la montagne de Marbre et de la grotte d'Am Phu",
+   "Eau en bouteille",
+   "Déjeuner (mi quang ou pho, visite du matin uniquement)",
+   "Expérience en petit groupe"
+  ],
+  "notIncluded": [
+   "Ascenseur de la montagne de Marbre (15 000 VND par trajet)",
+   "La prise en charge et le retour ne sont pas assurés si l'hébergement n'est pas dans la zone indiquée.",
+   "Dépenses personnelles",
+   "Pourboires (facultatifs)"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant prise en charge et retour à l'hôtel à Hoi An et à Da Nang, transport en véhicule climatisé et guide local. Opérateur : Viet Nam Daily Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Montagne de Marbre, grotte d'Am Phu et Dame Bouddha",
+  "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "golden-bridge-round-trip-by-private-car-from-da-nang-hoi-an-by-local-operator": {
   "title": "Pont d'Or : aller-retour en voiture privée depuis Da Nang ou Hoi An",
   "fullDescription": "Cette expérience de 8 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend chauffeur, véhicule climatisé, eau et prise en charge et retour à l'hôtel. Il ne comprend pas droits d'entrée et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -25434,6 +26140,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,25 heures à Hoi An, avec Hoi An. Opérateur : Hoi An Lantern Boat Tours, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : balade privée en bateau aux lanternes et lâcher de lanterne flottante",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hoi-an-biking-river-islands-village-crafts-private-tour-by-local-operator": {
+  "title": "Hoi An à vélo : îles du fleuve et artisanat des villages, en privé",
+  "fullDescription": "Cette expérience se déroule au départ de Hoi An, construite autour de Cẩm Kim, Atelier de galettes de riz et de nouilles Lo Mi Quan et V88G+33G. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend vélo et casque de qualité, guide local, toutes les taxes, dons chez les habitants visités et eau en bouteille pendant le circuit. Il ne comprend pas autres boissons et le pourboire est facultatif mais apprécié, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Local Buddy Tours Vietnam confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Cẩm Kim",
+   "Atelier de galettes de riz et de nouilles Lo Mi Quan",
+   "V88G+33G",
+   "R8XQ+M6V",
+   "Vélo et casque de qualité",
+   "Guide local anglophone"
+  ],
+  "included": [
+   "Vélo et casque de qualité",
+   "Guide local anglophone",
+   "Toutes les taxes, billets et droits d'entrée (aucun frais caché)",
+   "Dons chez les habitants visités",
+   "Eau en bouteille pendant le circuit",
+   "Repas compris ou non (vérifiez les prix et les durées au moment de réserver)",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "notIncluded": [
+   "Autres boissons et dépenses personnelles",
+   "Le pourboire est facultatif mais apprécié"
+  ],
+  "shortDescription": "Excursion à Hoi An, avec Cẩm Kim, Atelier de galettes de riz et de nouilles Lo Mi Quan et V88G+33G. Opérateur : Local Buddy Tours Vietnam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An à vélo : îles du fleuve et artisanat des villages, en privé",
+  "metaDescription": "Excursion à Hoi An. Comprend vélo et casque de qualité et guide local. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "cham-island-and-bai-xep-day-tour-with-snorkeling": {
   "title": "Île de Cham et Bai Xep : journée avec snorkeling",
@@ -25604,6 +26338,40 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Îles Cham : sortie snorkeling en hors-bord avec déjeuner",
   "metaDescription": "Excursion à Hoi An. Comprend sortie snorkeling et trajet en hors-bord. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "cham-islands-day-trip-snorkeling-culture-and-beach-escape-hoi-an": {
+  "title": "Îles Cham : journée entre snorkeling, culture et plage",
+  "fullDescription": "Cette expérience de 6 heures se déroule au départ de Hoi An, construite autour de Îles Cham. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour gratuits à l'hôtel à Hoi An, transport aller-retour en véhicule climatisé, transfert aller-retour en hors-bord vers les îles Cham, guide et droits d'entrée prévus au programme. Il ne comprend pas pourboires pour le guide et le chauffeur, supplément jours fériés au Vietnam et supplément plongée, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Îles Cham",
+   "Durée : 6 heures",
+   "Prise en charge et retour gratuits à l'hôtel à Hoi An (supplément à Da Nang)",
+   "Transport aller-retour en véhicule climatisé",
+   "Transfert aller-retour en hors-bord vers les îles Cham",
+   "Guide anglophone (supplément pour les autres langues)"
+  ],
+  "included": [
+   "Prise en charge et retour gratuits à l'hôtel à Hoi An (supplément à Da Nang)",
+   "Transport aller-retour en véhicule climatisé",
+   "Transfert aller-retour en hors-bord vers les îles Cham",
+   "Guide anglophone (supplément pour les autres langues)",
+   "Droits d'entrée prévus au programme",
+   "Équipement de snorkeling",
+   "Snorkeling dans la zone marine désignée",
+   "Visite de la plage de Lang et du village de l'île",
+   "Visite de la pagode de Hai Tang",
+   "Détente et baignade à la plage",
+   "Déjeuner de fruits de mer dans un restaurant local",
+   "Eau potable en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur (facultatifs)",
+   "Supplément jours fériés au Vietnam",
+   "Supplément plongée"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Îles Cham. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Îles Cham : journée entre snorkeling, culture et plage",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "tra-que-world-s-best-village-tour-2024-in-hoi-an": {
   "title": "Tra Que : le meilleur village touristique du monde 2024",
   "fullDescription": "Cette expérience de 3,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend moyen de transport, travaux des champs et outils, aliments et boissons compris, visites de pagodes et guide ou interprète. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -25736,6 +26504,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Vieille ville de Hoi An, lâcher de lanternes et spectacle Hoi An Memories",
   "metaDescription": "Excursion à Hoi An. Comprend transfert privé climatisé et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hue-imperial-city-by-bus-or-train-experience": {
+  "title": "Cité impériale de Hué en bus ou en train",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend avec l'option « train » : comprend un billet de train aller simple, avec l'option « billets d'entrée compris » : couvre, prise en charge et retour depuis Da Nang ou Hoi An, véhicule climatisé et guide anglophone. Il ne comprend pas avec l'option « bus » : le billet de train n'est pas, boissons pendant le déjeuner, dépenses personnelles et supplément de 100 000 VND par personne les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Happy Holiday Travel - Viet Nam confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 10 heures",
+   "Avec l'option « train » : comprend un billet de train aller simple de la gare de Da Nang à la gare de Lang Co (Hué)",
+   "Avec l'option « billets d'entrée compris » : couvre les droits d'entrée du tombeau de Khai Dinh et de la citadelle impériale de Hué",
+   "Prise en charge et retour depuis Da Nang ou Hoi An",
+   "Véhicule climatisé",
+   "Guide professionnel anglophone"
+  ],
+  "included": [
+   "Avec l'option « train » : comprend un billet de train aller simple de la gare de Da Nang à la gare de Lang Co (Hué)",
+   "Avec l'option « billets d'entrée compris » : couvre les droits d'entrée du tombeau de Khai Dinh et de la citadelle impériale de Hué",
+   "Prise en charge et retour depuis Da Nang ou Hoi An",
+   "Véhicule climatisé",
+   "Guide professionnel anglophone",
+   "Bon déjeuner dans un beau restaurant de Hué (menu végétarien disponible)",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Avec l'option « bus » : le billet de train n'est pas compris. Les billets de train sont fournis uniquement avec l'option « train ».",
+   "Boissons pendant le déjeuner",
+   "Dépenses personnelles",
+   "Supplément de 100 000 VND par personne les jours fériés (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant avec l'option « train » : comprend un billet de train aller simple, avec l'option « billets d'entrée compris » : couvre et prise en charge et retour depuis Da Nang ou Hoi An. Opérateur : Happy Holiday Travel - Viet Nam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cité impériale de Hué en bus ou en train",
+  "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "coconut-basket-boat-ride-by-hangcoconut-in-hoi-an": {
   "title": "Hoi An : barque ronde dans la cocoteraie avec Hangcoconut",
   "fullDescription": "Cette expérience se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée, barque ronde à rames, pêche aux crabes et à la ligne, spectacle de barques rondes et karaoké sur la rivière. Il ne comprend pas supplément pour filmer depuis la barque ronde, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -25762,6 +26560,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, comprenant billet d'entrée, barque ronde à rames et pêche aux crabes et à la ligne. Opérateur : Hangcoconut Cooking Class and Basket Boat, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : barque ronde dans la cocoteraie avec Hangcoconut",
   "metaDescription": "Excursion à Hoi An. Comprend billet d'entrée et barque ronde à rames. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "from-hoian-and-danang-hue-city-tour-with-haivan-pass-hoi-an": {
+  "title": "Depuis Hoi An et Da Nang : Hué par le col de Hai Van",
+  "fullDescription": "Cette expérience de 11 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da, les autres langues entraînent un supplément de 800 000 à 1 500 000 VND selon, déjeuner dans un beau restaurant de Hué, assurance voyage et eau minérale. Il ne comprend pas pourboires pour les guides et les chauffeurs et frais de billetterie, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 11 heures",
+   "Transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da Nang (290 km)",
+   "Guide anglophone sympathique, passionné et professionnel",
+   "Les autres langues entraînent un supplément de 800 000 à 1 500 000 VND selon la langue.",
+   "Déjeuner local dans un beau restaurant de Hué",
+   "Assurance voyage"
+  ],
+  "included": [
+   "Transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da Nang (290 km)",
+   "Guide anglophone sympathique, passionné et professionnel",
+   "Les autres langues entraînent un supplément de 800 000 à 1 500 000 VND selon la langue.",
+   "Déjeuner local dans un beau restaurant de Hué",
+   "Assurance voyage",
+   "Eau minérale"
+  ],
+  "notIncluded": [
+   "Pourboires pour les guides et les chauffeurs",
+   "Frais de billetterie (350 000 VND)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant transport aller-retour et chauffeur expérimenté depuis Hoi An ou Da, les autres langues entraînent un supplément de 800 000 à 1 500 000 VND selon et déjeuner dans un beau restaurant de Hué. Opérateur : BEST TADY TOUR, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Depuis Hoi An et Da Nang : Hué par le col de Hai Van",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "market-tour-basket-boat-ride-and-cooking-class-by-hangcoconut-in-hoi-an": {
   "title": "Hoi An : marché, barque ronde et cours de cuisine avec Hangcoconut",
@@ -26000,6 +26825,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hoi An : plage d'An Bang, village de Tra Que et boutique Taran",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "hoi-an-evening-ancient-town-lantern-boat-and-memories-show-by-local-operator": {
+  "title": "Hoi An en soirée : vieille ville, bateau aux lanternes et spectacle Memories",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An, guide local, billets d'entrée aux sites mentionnés au programme, balade en bateau sur la rivière Hoai et dîner. Il ne comprend pas pourboires pour le guide et le chauffeur et supplément jours fériés au Vietnam, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Vn biketour confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An (supplément à Da Nang)",
+   "Guide local anglophone (supplément pour les autres langues)",
+   "Billets d'entrée aux sites mentionnés au programme",
+   "Balade en bateau sur la rivière Hoai",
+   "Dîner (1 plat local et 1 boisson)"
+  ],
+  "included": [
+   "Prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An (supplément à Da Nang)",
+   "Guide local anglophone (supplément pour les autres langues)",
+   "Billets d'entrée aux sites mentionnés au programme",
+   "Balade en bateau sur la rivière Hoai",
+   "Dîner (1 plat local et 1 boisson)",
+   "1 lanterne flottante par personne",
+   "Billet pour le spectacle Hoi An Memories",
+   "Eau potable en bouteille dans la voiture"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur",
+   "Supplément jours fériés au Vietnam"
+  ],
+  "shortDescription": "Excursion de 1 heure à Hoi An, comprenant prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An, guide local et billets d'entrée aux sites mentionnés au programme. Opérateur : Vn biketour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An en soirée : vieille ville, bateau aux lanternes et spectacle Memories",
+  "metaDescription": "Excursion de 1 heure à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "handmade-leather-crafts-workshop-starter-course-in-hoi-an": {
   "title": "Hoi An : atelier de maroquinerie, cours d'initiation",
   "fullDescription": "Cette expérience de 2,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend thé vietnamien ou 1 soda, matériel et outils pour l'atelier et un souvenir unique en cuir que vous avez réalisé. Il ne comprend pas prise en charge et retour à l'hôtel, autres aliments et boissons et autres dépenses non mentionnées, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -26063,6 +26917,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Teh Dar : cirque de bambou sous un dôme emblématique à Hoi An",
   "metaDescription": "Excursion de 1 heure à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "hoi-an-memories-show-and-land-entry-ticket-by-local-operator": {
+  "title": "Spectacle Hoi An Memories et entrée du parc",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend entrée du spectacle Hoi An Memories, les places sont attribuées selon la catégorie de billet réservée, assistez à un grand spectacle théâtral, découverte de la musique traditionnelle vietnamienne et découvrez l'histoire et la culture de Hoi An à travers des récits. Il ne comprend pas prise en charge et retour à l'hôtel, transport, guide et nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Entrée du spectacle Hoi An Memories",
+   "Les places sont attribuées selon la catégorie de billet réservée (ECO, HIGH ou VIP)",
+   "Assistez à un grand spectacle théâtral",
+   "Découverte de la musique, de la danse et des costumes traditionnels vietnamiens",
+   "Découvrez l'histoire et la culture de Hoi An à travers des récits"
+  ],
+  "included": [
+   "Entrée du spectacle Hoi An Memories",
+   "Les places sont attribuées selon la catégorie de billet réservée (ECO, HIGH ou VIP).",
+   "Assistez à un grand spectacle théâtral",
+   "Découverte de la musique, de la danse et des costumes traditionnels vietnamiens",
+   "Découvrez l'histoire et la culture de Hoi An à travers des récits"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport",
+   "Guide",
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Toute prestation non expressément comprise dans le billet choisi"
+  ],
+  "shortDescription": "Billet d'entrée à Hoi An, comprenant entrée du spectacle Hoi An Memories, les places sont attribuées selon la catégorie de billet réservée et assistez à un grand spectacle théâtral. Opérateur : DUC TUAN TRAVEL SERVICE COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Spectacle Hoi An Memories et entrée du parc",
+  "metaDescription": "Billet d'entrée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "cham-islands-snorkeling-trip-with-lunch": {
   "title": "Îles Cham : sortie snorkeling avec déjeuner",
   "fullDescription": "Cette expérience de 5,5 heures se déroule au départ de Hoi An, construite autour de Bus/autocar, Village de sculpteurs sur pierre de Non Nuoc et Cảng vụ ĐTNĐ Cửa Đại. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel dans le centre de Da Nang ou de Hoi An, transport en minibus climatisé, transfert aller-retour en hors-bord, guide et équipement de snorkeling. Il ne comprend pas dépenses personnelles, boissons supplémentaires, pourboires et sortie plongée, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. S-TOURS confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -26092,6 +26976,32 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, avec Village de sculpteurs sur pierre de Non Nuoc, Cảng vụ ĐTNĐ Cửa Đại et Vedette rapide. Opérateur : S-TOURS, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Îles Cham : sortie snorkeling avec déjeuner",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "morning-countryside-tour-by-bike-in-hoi-an": {
+  "title": "Hoi An : matinée à vélo dans la campagne",
+  "fullDescription": "Cette expérience de 4 heures se déroule au départ de Hoi An, construite autour de Cẩm Kim et Duy Vinh. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend expérience en petit groupe, guide cycliste anglophone diplômé, VTT et casques de qualité, tous les droits d'entrée et activités et belle compagnie. Il ne comprend pas pourboires pour le guide ou l'équipage, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Cẩm Kim",
+   "Duy Vinh",
+   "Durée : 4 heures",
+   "Expérience en petit groupe (8 personnes maximum)",
+   "Guide cycliste anglophone diplômé",
+   "VTT et casques de qualité"
+  ],
+  "included": [
+   "Expérience en petit groupe (8 personnes maximum)",
+   "Guide cycliste anglophone diplômé",
+   "VTT et casques de qualité",
+   "Tous les droits d'entrée et activités",
+   "Belle compagnie, récits et conversations qui comptent",
+   "Couverture d'assurance accident"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide ou l'équipage"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Cẩm Kim et Duy Vinh. Opérateur : Discova Vietnam, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : matinée à vélo dans la campagne",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-food-tour-by-local-operator": {
   "title": "Hoi An : tour gastronomique",
@@ -26286,6 +27196,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Da Nang et Hoi An : journée complète",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "my-son-sanctuary-and-golden-hands-bridge-private-tour": {
+  "title": "Sanctuaire de My Son et Pont d'Or : visite privée",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Hoi An, construite autour de Pont d'Or de Ba Na Hills, Centre d'accueil des visiteurs et Sanctuaire de My Son. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend SUV, minibus ou bus climatisé moderne avec, guide anglophone diplômé, déjeuner de cuisine locale authentique, bouteilles d'eau et serviettes et billets de téléphérique. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pont d'Or de Ba Na Hills",
+   "Centre d'accueil des visiteurs",
+   "Sanctuaire de My Son",
+   "Durée : 8 heures",
+   "SUV, minibus ou bus climatisé moderne avec chauffeur expérimenté",
+   "Guide professionnel anglophone diplômé"
+  ],
+  "included": [
+   "SUV, minibus ou bus climatisé moderne avec chauffeur expérimenté",
+   "Guide professionnel anglophone diplômé",
+   "Déjeuner de cuisine locale authentique",
+   "Bouteilles d'eau et serviettes",
+   "Billets de téléphérique aller-retour",
+   "Entrée : Sun World Ba Na Hills",
+   "Entrée : sanctuaire de My Son"
+  ],
+  "notIncluded": [
+   "Pourboires (non obligatoires)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Pont d'Or de Ba Na Hills, Centre d'accueil des visiteurs et Sanctuaire de My Son. Opérateur : Tommy Dao Tourist, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sanctuaire de My Son et Pont d'Or : visite privée",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "coconut-village-and-hoi-an-ancient-town-with-lantern-release-by-local-operator": {
   "title": "Village de cocotiers et vieille ville de Hoi An avec lâcher de lanternes",
   "fullDescription": "Cette expérience de 6 heures se déroule à Hoi An, construite autour de Village écologique de cocotiers de Cam Thanh et Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Hải Châu District, Hội An, Điện Dương et Da Nang ; le lieu et l’heure exacts sont convenus avec HOANG THIEN COMPANY une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, balade en barque ronde au village de cocotiers de Cam Thanh, balade en bateau en bois et lâcher de lanternes sur la rivière Hoai et droits d'entrée à Hoi An et à Cam Thanh. Il ne comprend pas dépenses personnelles et prestations non mentionnées ci-dessus et pourboires pour les guides et les chauffeurs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. HOANG THIEN COMPANY confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -26472,6 +27409,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Circuit privé de 5 jours avec Hoi An et Ba Na Hills",
   "metaDescription": "Excursion de 5 jours à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "my-son-holyland-and-rice-paper-making-tour": {
+  "title": "Site sacré de My Son et fabrication de galettes de riz",
+  "fullDescription": "Cette expérience se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Cẩm Châu, Minh An, Sơn Phong, Thanh Hà, Mỹ An et Cẩm Hà ; le lieu et l’heure exacts sont convenus avec Hiep Hoi An Travel une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel dans les deux sens à Hoi An, guide, le déjeuner est servi avec des plats vietnamiens traditionnels, cours de fabrication de galettes de riz et balade en bateau sur la rivière. Il ne comprend pas droit d'entrée de 150 000 VND pour le site sacré de My Son, supplément de 100 000 VND par personne les jours fériés, les 30 avril, 1er mai et pendant le Têt, un supplément et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Prise en charge et retour à l'hôtel dans les deux sens à Hoi An (100 km aller-retour)",
+   "Guide anglophone",
+   "Le déjeuner est servi avec des plats vietnamiens traditionnels",
+   "Cours de fabrication de galettes de riz",
+   "Balade en bateau sur la rivière",
+   "Une bouteille d'eau"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans les deux sens à Hoi An (100 km aller-retour)",
+   "Guide anglophone",
+   "Le déjeuner est servi avec des plats vietnamiens traditionnels",
+   "Cours de fabrication de galettes de riz",
+   "Balade en bateau sur la rivière",
+   "Une bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Droit d'entrée de 150 000 VND pour le site sacré de My Son",
+   "Supplément de 100 000 VND par personne les jours fériés (Têt du 20 au 21 février 2026 et 1er janvier 2026)",
+   "Les 30 avril, 1er mai et pendant le Têt, un supplément de 100 000 VND par personne s'applique.",
+   "Boissons",
+   "Pourboires pour les guides et les chauffeurs"
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant prise en charge et retour à l'hôtel dans les deux sens à Hoi An, guide et le déjeuner est servi avec des plats vietnamiens traditionnels. Opérateur : Hiep Hoi An Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Site sacré de My Son et fabrication de galettes de riz",
+  "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "my-son-sanctuary-half-day-tour": {
   "title": "Sanctuaire de My Son : demi-journée",
   "fullDescription": "Cette expérience de 6 heures se déroule au départ de Hoi An, construite autour de Bus/autocar, Sanctuaire de My Son et Da Nang. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHoi An est un port de commerce que le fleuve Thu Bon a ensablé au XIXe siècle, et c'est pour cela que sa vieille ville de maisons-boutiques chinoises, de maisons de congrégation, de pont couvert japonais et de demeures de marchands aux murs ocre est parvenue intacte jusqu'à son classement à l'UNESCO en 1999. La vieille ville est fermée aux deux-roues une bonne partie de la journée, éclairée de lanternes de soie le soir, et la plus fréquentée lors de la fête des lanternes de pleine lune, chaque mois lunaire. Autour : le village maraîcher de Tra Que, les canaux de cocotiers d'eau de Cam Thanh et leurs barques rondes en vannerie, le village de potiers de Thanh Ha, la plage d'An Bang et, à 40 kilomètres dans les terres, les ruines cham de My Son, à voir à 7 h avant les autocars. La ville est aussi la capitale vietnamienne de la couture sur mesure ; un costume demande 24 heures.\n\nLe prix comprend navettes climatisées, déjeuner, eau en bouteille, guides et billets d'entrée aux sites. Il ne comprend pas dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nDa Nang. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -26497,6 +27464,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Sanctuaire de My Son et Da Nang. Opérateur : DA NANG LUXURY T&T CO.,LTD, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Sanctuaire de My Son : demi-journée",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend navettes climatisées. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "my-son-sanctuary-rice-paper-making-deluxe-tour-from-danang-hoi-an": {
+  "title": "Sanctuaire de My Son et galettes de riz : circuit Deluxe depuis Da Nang",
+  "fullDescription": "Cette expérience de 6,5 heures se déroule au départ de Hoi An, construite autour de Sanctuaire de My Son et Điện Bàn. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa prise en charge est proposée depuis Sơn Trà, Ngũ Hành Sơn et Hải Châu District ; le lieu et l’heure exacts sont convenus avec VENUS TRAVEL DANANG une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend prise en charge et retour à l'hôtel dans les deux sens, guide, le déjeuner ou le dîner est servi avec des plats vietnamiens traditionnels, fabrication de galettes de riz et dégustation de votre production et une bouteille d'eau. Il ne comprend pas droit d'entrée de 150 000 VND pour le site sacré de My Son et, dépenses personnelles non mentionnées ci-dessus, boissons et pourboires pour les guides et les chauffeurs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Sanctuaire de My Son",
+   "Điện Bàn",
+   "Durée : 6,5 heures",
+   "Prise en charge et retour à l'hôtel dans les deux sens (110 km aller-retour), centre de Da Nang",
+   "Guide anglophone",
+   "Le déjeuner ou le dîner est servi avec des plats vietnamiens traditionnels"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans les deux sens (110 km aller-retour), centre de Da Nang",
+   "Guide anglophone",
+   "Le déjeuner ou le dîner est servi avec des plats vietnamiens traditionnels",
+   "Fabrication de galettes de riz et dégustation de votre production",
+   "Une bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Droit d'entrée de 150 000 VND pour le site sacré de My Son et voiturette électrique",
+   "Dépenses personnelles non mentionnées ci-dessus",
+   "Boissons",
+   "Pourboires pour les guides et les chauffeurs",
+   "Si votre hôtel est hors de notre zone de prise en charge, rejoignez-nous au 14 An Nhon 10, Son Tra, ou au point le plus proche pour vous."
+  ],
+  "shortDescription": "Excursion à Hoi An, avec Sanctuaire de My Son et Điện Bàn. Opérateur : VENUS TRAVEL DANANG, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sanctuaire de My Son et galettes de riz : circuit Deluxe depuis Da Nang",
+  "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "explore-hai-van-pass-by-us-army-jeep-in-hoi-an": {
   "title": "Col de Hai Van en jeep militaire américaine",
@@ -38227,6 +39223,37 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Depuis le port de Chan May ou Tien Sa : Hoi An et les incontournables de Da Nang",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "private-photoshoot-and-guided-walk-experience-in-hoi-an": {
+  "title": "Hoi An : séance photo privée et balade guidée",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Hoi An, construite autour de Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend photographe privé, séance photo, visite à pied, frais pour les photos avec les lanternes au marché de nuit de Hoi An et 25 à 40 photos numériques retouchées. Il ne comprend pas billet d'entrée de Hoi An, guide, tirages photo et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Hoi An",
+   "Durée : 1,5 heures",
+   "Photographe privé",
+   "Séance photo",
+   "Visite à pied",
+   "Frais pour les photos avec les lanternes au marché de nuit de Hoi An"
+  ],
+  "included": [
+   "Photographe privé",
+   "Séance photo",
+   "Visite à pied",
+   "Frais pour les photos avec les lanternes au marché de nuit de Hoi An",
+   "25 à 40 photos numériques retouchées",
+   "Photos numériques brutes illimitées",
+   "1 tasse d'infusion mot",
+   "Taxe sur la valeur ajoutée (TVA)"
+  ],
+  "notIncluded": [
+   "Billet d'entrée de Hoi An (120 000 VND)",
+   "Guide",
+   "Tirages photo",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion à Hoi An, avec Hoi An. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : séance photo privée et balade guidée",
+  "metaDescription": "Excursion à Hoi An. Comprend photographe privé et séance photo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "my-son-sanctuary-tour-by-van-and-boat-from-hoi-an-da-nang-hoi-an": {
   "title": "Sanctuaire de My Son en minibus et en bateau, depuis Hoi An ou Da Nang",
   "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Sanctuaire de My Son, Village traditionnel et Bateau fluvial. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, véhicule de qualité climatisé, guide, droits d'entrée de My Son et fabrication de galettes de riz. Il ne comprend pas pourboires, dépenses personnelles et boissons pendant le repas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. VM Travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -38438,6 +39465,69 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "My Son au petit matin, avec banh mi et café à 6 h",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "from-da-nang-hoian-hue-hue-imperial-city-full-day-tour-hoi-an": {
+  "title": "Depuis Da Nang, Hoi An ou Hué : cité impériale de Hué, journée complète",
+  "fullDescription": "Cette expérience de 11 heures se déroule à Hoi An, construite autour de Bus/autocar, Lagune de Lap An et Citadelle historique de Hué. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, transport climatisé, entrée de la cité impériale de Hué et entrée du tombeau royal de l'empereur Khai Dinh. Il ne comprend pas pourboires pour le guide, route du col de Hai Van et supplément de 100 000 VND par personne les jours fériés, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. My Viet Trip confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Lagune de Lap An",
+   "Citadelle historique de Hué",
+   "Pagode de la Dame céleste",
+   "Durée : 11 heures",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Transport climatisé",
+   "Entrée de la cité impériale de Hué (si l'option est choisie)",
+   "Entrée du tombeau royal de l'empereur Khai Dinh (si l'option est choisie)",
+   "Déjeuner à la vietnamienne (prévenez-nous si vous souhaitez une option végétarienne)",
+   "Eau en bouteille",
+   "Taxe sur la valeur ajoutée (TVA)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide",
+   "Route du col de Hai Van",
+   "Supplément de 100 000 VND par personne les jours fériés (31 décembre-1er janvier, 29-30 avril, 1er-2 mai, 24-25 décembre et Nouvel An lunaire)"
+  ],
+  "shortDescription": "Excursion à Hoi An, avec Lagune de Lap An, Hue Historic Citadel and Hue et Vietnam. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Depuis Da Nang, Hoi An ou Hué : cité impériale de Hué, journée complète",
+  "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "cham-island-speedboat-tour-with-snorkeling-in-hoi-an": {
+  "title": "Île de Cham : sortie en hors-bord avec snorkeling",
+  "fullDescription": "Cette expérience de 7 heures se déroule à Hoi An, construite autour de Bus/autocar, Vedette rapide et Îles Cham. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, transport en bus climatisé, guide local, bateau rapide aller-retour et déjeuner de fruits de mer frais. Il ne comprend pas palmes pour le snorkeling, service de plongée bouteille, boissons et déjeuner (si vous réservez l'option sans déjeuner), à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHoi An. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Vedette rapide",
+   "Îles Cham",
+   "Durée : 7 heures",
+   "Prise en charge et retour à l'hôtel",
+   "Transport en bus climatisé"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en bus climatisé",
+   "Guide local anglophone",
+   "Bateau rapide aller-retour (port de Cua Dai - île de Cham)",
+   "Déjeuner de fruits de mer frais (options végétariennes disponibles), si vous réservez l'option avec déjeuner",
+   "Matériel de snorkeling (tuba, masque et gilets de sauvetage)",
+   "Douches",
+   "Hamacs (selon disponibilité)",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Palmes pour le snorkeling",
+   "Service de plongée bouteille",
+   "Boissons",
+   "Déjeuner (si vous réservez l'option sans déjeuner)",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Vedette rapide et Îles Cham. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Île de Cham : sortie en hors-bord avec snorkeling",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an": {
   "title": "Sanctuaire de My Son et montagnes de Marbre : visite guidée",
   "fullDescription": "Cette expérience de 4,5 heures se déroule à Hoi An, construite autour de Sanctuaire de My Son. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, petit-déjeuner et 2 bouteilles d'eau. Il ne comprend pas billet d'entrée pour le sanctuaire de My Son et billet d'entrée pour les montagnes de Marbre, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Hoi An Local Tours Company Limited confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -38542,6 +39632,64 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Sanctuaire de My Son. Opérateur : Hoi An Express, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Sanctuaire de My Son : demi-journée au départ de Hoi An",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an": {
+  "title": "Montagnes de Marbre et sanctuaire de My Son : journée complète",
+  "fullDescription": "Cette expérience de 10,5 heures se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge à l'hôtel dans le centre de Hoi An ou en bord de mer à Da Nang, retour à l'hôtel dans le centre de Hoi An, guide, montagne du Singe et montagnes de Marbre et déjeuner. Il ne comprend pas billet d'entrée du sanctuaire de My Son et voiturettes électriques, retour à Da Nang ou hors du centre de Hoi An et pourboires pour le guide et le chauffeur, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Venus Travel Hoi An confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 10,5 heures",
+   "Prise en charge à l'hôtel dans le centre de Hoi An ou en bord de mer à Da Nang",
+   "Retour à l'hôtel dans le centre de Hoi An",
+   "Guide",
+   "Billets d'entrée : montagne du Singe, montagnes de Marbre et grotte d'Am Phu",
+   "Déjeuner local"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel dans le centre de Hoi An ou en bord de mer à Da Nang",
+   "Retour à l'hôtel dans le centre de Hoi An",
+   "Guide",
+   "Billets d'entrée : montagne du Singe, montagnes de Marbre et grotte d'Am Phu",
+   "Déjeuner local",
+   "Croisière sur la rivière Thu Bon",
+   "Banh mi vietnamien",
+   "2 bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Billet d'entrée du sanctuaire de My Son et voiturettes électriques (150 000 VND par adulte, 30 000 VND par enfant)",
+   "Retour à Da Nang ou hors du centre de Hoi An (300 000 VND pour 2-3 personnes, 350 000 VND pour 4-5 personnes, 450 000 VND pour 5-14 personnes)",
+   "Pourboires pour le guide et le chauffeur"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hoi An, avec Finish at. Opérateur : Venus Travel Hoi An, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Montagnes de Marbre et sanctuaire de My Son : journée complète",
+  "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hoi-an-wet-rice-farming-tour-basket-boat-tour-fishing-lunch-hoi-an": {
+  "title": "Hoi An : riziculture, barque ronde, pêche et déjeuner",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Hoi An. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour en voiture privée, riziculture et balade à dos de buffle, atelier de fabrication de lanternes, eau minérale et billet d'entrée. Il ne comprend pas assurance voyage et pourboires et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Prise en charge et retour en voiture privée (non inclus dans l'option riziculture et buffle)",
+   "Riziculture et balade à dos de buffle",
+   "Atelier de fabrication de lanternes (non inclus dans l'option riziculture et buffle)",
+   "Eau minérale",
+   "Billet d'entrée"
+  ],
+  "included": [
+   "Prise en charge et retour en voiture privée (non inclus dans l'option riziculture et buffle)",
+   "Wet Rice Farming & Buffaloes Riding.",
+   "Atelier de fabrication de lanternes (non inclus dans l'option riziculture et buffle).",
+   "Mineral water.",
+   "Entrance ticket.",
+   "Balade en barque ronde avec pêche et crabes (non inclus dans l'option riziculture et buffle)",
+   "Nouilles locales faites maison au déjeuner (non inclus dans l'option riziculture et buffle)"
+  ],
+  "notIncluded": [
+   "Travel Insurance.",
+   "Pourboires et dépenses personnelles."
+  ],
+  "shortDescription": "Excursion à Hoi An, comprenant prise en charge et retour en voiture privée, riziculture et balade à dos de buffle et atelier de fabrication de lanternes. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hoi An : riziculture, barque ronde, pêche et déjeuner",
+  "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an": {
   "title": "Montagne de Marbre, grotte d'Am Phu et montagne du Singe",
@@ -38729,6 +39877,37 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Hoi An, comprenant chef, thé de bienvenue et tous les ingrédients du cours de cuisine. Opérateur : Hoi An Eco Travel, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hoi An : cours de cuisine traditionnelle et repas chez une famille locale",
   "metaDescription": "Excursion à Hoi An. Comprend chef et thé de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "my-son-sanctuary-early-morning-sunset-w-champa-food-in-hoi-an": {
+  "title": "Sanctuaire de My Son au petit matin ou au coucher du soleil, avec cuisine champa",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Hoi An, construite autour de Sanctuaire de My Son. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel dans Hoi An, transport aller-retour en minibus, guide anglophone, eau en bouteille de marque et café. Il ne comprend pas billet d'entrée du sanctuaire de My Son, autres frais non mentionnés dans les inclusions et pourboires pour le guide et le chauffeur, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hoi An. Hoi An Local Tours Company Limited confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Sanctuaire de My Son",
+   "Durée : 4 heures",
+   "Prise en charge et retour à l'hôtel dans Hoi An",
+   "Transport aller-retour en minibus",
+   "Guide professionnel anglophone",
+   "Eau en bouteille de marque"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans Hoi An",
+   "Transport aller-retour en minibus",
+   "Guide professionnel anglophone",
+   "Eau en bouteille de marque",
+   "Café (option du matin)",
+   "Petit-déjeuner de cuisine champa et fruits de saison (options du matin, végane disponible)",
+   "Banh mi (options de l'après-midi)",
+   "Spectacle cham (options de l'après-midi)",
+   "Balade en bateau (option de l'après-midi uniquement)"
+  ],
+  "notIncluded": [
+   "Billet d'entrée du sanctuaire de My Son (148 000 VND, toutes options)",
+   "Autres frais non mentionnés dans les inclusions",
+   "Pourboires pour le guide et le chauffeur"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Sanctuaire de My Son. Opérateur : Hoi An Local Tours Company Limited, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sanctuaire de My Son au petit matin ou au coucher du soleil, avec cuisine champa",
+  "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vietnamese-coffee-culture-and-coffee-making-class-in-hoi-an": {
   "title": "Hoi An : culture du café vietnamien et atelier de préparation",
