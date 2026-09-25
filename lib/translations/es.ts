@@ -4614,6 +4614,34 @@ export const ES_TOURS: Record<string, TourT> = {
    "Coche para las visitas (si no se selecciona la opción con coche)"
   ]
  },
+ "hanoi-to-sapa-terraced-fields-culture-and-cuisine-3-days-by-local-operator": {
+  "title": "De Hanói a Sapa: arrozales, cultura y cocina en 3 días",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye autobús cama VIP de ida y vuelta Hanói - Sapa - Hanói, 1 noche en hotel de 3 estrellas en Sapa, 1 noche en habitación privada de un homestay en el pueblo de Ta Van, guía de habla inglesa en Sapa y 2 desayunos, 3 almuerzos, 2 cenas. No incluye bebidas durante las comidas, seguro y impuestos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Autobús cama VIP de ida y vuelta Hanói - Sapa - Hanói (sin guía a bordo)",
+   "1 noche en hotel de 3 estrellas en Sapa",
+   "1 noche en habitación privada de un homestay en el pueblo de Ta Van",
+   "Guía local de habla inglesa en Sapa",
+   "2 desayunos, 3 almuerzos, 2 cenas"
+  ],
+  "included": [
+   "Autobús cama VIP de ida y vuelta Hanói - Sapa - Hanói (sin guía a bordo)",
+   "1 noche en hotel de 3 estrellas en Sapa",
+   "1 noche en habitación privada de un homestay en el pueblo de Ta Van",
+   "Guía local de habla inglesa en Sapa",
+   "2 desayunos, 3 almuerzos, 2 cenas",
+   "Clases de cocina en el homestay"
+  ],
+  "notIncluded": [
+   "Bebidas durante las comidas",
+   "Seguro",
+   "Impuestos"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye autobús cama VIP de ida y vuelta Hanói - Sapa - Hanói, 1 noche en hotel de 3 estrellas en Sapa y 1 noche en habitación privada de un homestay en el pueblo de Ta Van. Operador: TRAVEL NEW LAND, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "De Hanói a Sapa: arrozales, cultura y cocina en 3 días",
+  "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "half-day-visit-y-linh-ho-lao-chai-ta-van-trekking-with-lunch-in-sapa": {
   "title": "Sapa: medio día de trekking por Y Linh Ho, Lao Chai y Ta Van, con comida",
   "fullDescription": "Esta es una experiencia de 5,5 horas desde Sapa, centrada en Bản Ý Linh Hồ, Pueblo de Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye autobús climatizado moderno desde Lao Chai, guía local en Sapa, comida: 1 almuerzo y todas las entradas a los lugares indicados. No incluye bebidas y todo lo que no se menciona claramente más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4725,6 +4753,92 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Mu Cang Chai: 2 días en moto por los arrozales en terrazas",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: conductor local, casco y easy rider. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "4-day-ha-giang-loop-tour-with-bus-transfer-in-sapa": {
+  "title": "Ruta de Ha Giang: 4 días con traslado en autobús",
+  "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye billete de autobús de Sapa a Ha Giang, 1 noche en hostal en Ha Giang, ruta de Ha Giang guiada de 3 días, guía local y alojamiento durante la ruta. No incluye gastos personales, bebidas y aperitivos fuera de las comidas incluidas, seguro de viaje y suplemento por habitación privada, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 días",
+   "Billete de autobús de Sapa a Ha Giang",
+   "1 noche en hostal en Ha Giang",
+   "Ruta de Ha Giang guiada de 3 días",
+   "Guía local de habla inglesa",
+   "Alojamiento durante la ruta"
+  ],
+  "included": [
+   "Billete de autobús de Sapa a Ha Giang",
+   "1 noche en hostal en Ha Giang",
+   "Ruta de Ha Giang guiada de 3 días",
+   "Guía local de habla inglesa",
+   "Alojamiento durante la ruta",
+   "Comidas indicadas en el itinerario",
+   "Entradas"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Bebidas y aperitivos fuera de las comidas incluidas",
+   "Seguro de viaje",
+   "Suplemento por habitación privada (a petición y según disponibilidad)",
+   "Recogida o regreso fuera del punto de encuentro indicado"
+  ],
+  "shortDescription": "Tour de 4 días en Sapa, que incluye billete de autobús de Sapa a Ha Giang, 1 noche en hostal en Ha Giang y ruta de Ha Giang guiada de 3 días. Operador: Local Guide Vietnam's Community, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ruta de Ha Giang: 4 días con traslado en autobús",
+  "metaDescription": "Tour de 4 días en Sapa. Incluye: billete de autobús de Sapa a Ha Giang. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hidden-backroads-ban-khoang-and-ta-phin-by-motorbike-in-sapa": {
+  "title": "Sapa: carreteras escondidas de Ban Khoang y Ta Phin en moto",
+  "fullDescription": "Esta es una experiencia de 4,5 horas desde Sapa, centrada en Ban Khoang, Ta Phin y Cueva de Ta Phin. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye ruta privada en moto por las carreteras de montaña menos conocidas de Sapa, visita a Ban Khoang, visita a la cueva de Ta Phin, baño de hierbas tradicional dao rojo y conductor-guía. No incluye visita a un spa comercial, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Ban Khoang",
+   "Ta Phin",
+   "Cueva de Ta Phin",
+   "Ruinas del monasterio de Ta Phin",
+   "Duración: 4,5 horas",
+   "Ruta privada en moto por las carreteras de montaña menos conocidas de Sapa"
+  ],
+  "included": [
+   "Ruta privada en moto por las carreteras de montaña menos conocidas de Sapa",
+   "Visita a Ban Khoang",
+   "Visita a la cueva de Ta Phin",
+   "Baño de hierbas tradicional dao rojo",
+   "Conductor y guía local"
+  ],
+  "notIncluded": [
+   "Visita a un spa comercial"
+  ],
+  "shortDescription": "Tour en Sapa, con Ban Khoang, Ta Phin y Cueva de Ta Phin. Operador: Local Guide Vietnam's Community, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: carreteras escondidas de Ban Khoang y Ta Phin en moto",
+  "metaDescription": "Tour en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "bac-ha-and-ban-phung-motorbike-tour-from-sapa-3-days": {
+  "title": "Bac Ha y Ban Phung: 3 días en moto desde Sapa",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye aventura de 3 días en moto, alojamiento con una familia local, comidas con una familia local, visita a Bac Ha y visita a Si Ma Cai. No incluye alquiler de moto, combustible y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Aventura de 3 días en moto",
+   "Alojamiento con una familia local",
+   "Comidas con una familia local",
+   "Visita a Bac Ha",
+   "Visita a Si Ma Cai"
+  ],
+  "included": [
+   "Aventura de 3 días en moto",
+   "Alojamiento con una familia local",
+   "Comidas con una familia local",
+   "Visita a Bac Ha",
+   "Visita a Si Ma Cai",
+   "Visita a Ban Phung",
+   "Visita a Hoang Su Phi",
+   "Arrozales en terrazas declarados por la UNESCO"
+  ],
+  "notIncluded": [
+   "Alquiler de moto",
+   "Combustible",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye aventura de 3 días en moto, alojamiento con una familia local y comidas con una familia local. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Bac Ha y Ban Phung: 3 días en moto desde Sapa",
+  "metaDescription": "Tour de 3 días en Sapa. Incluye: aventura de 3 días en moto. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "2-day-trek-to-fansipan-indochina-s-highest-peak": {
   "title": "Fansipan: trekking de 2 días a la cima más alta de Indochina",
   "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye entradas para visitar la zona turística, lanzadera de ida y vuelta, saco de dormir, 1 litro de agua por persona y día y guía. No incluye gastos personales, propina para el conductor, billete de teleférico y suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4776,6 +4890,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 horas en Sapa, que incluye taller de cocina para niños, acompañamiento de un instructor local y ingredientes para kimbap coreano y rollitos de pho vietnamitas. Operador: Local Guide Vietnam's Community, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sa Pa: taller de cocina para niños con rollitos",
   "metaDescription": "Tour de 2 horas en Sapa. Incluye: taller de cocina para niños. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "private-sapa-easy-rider-tour-discover-the-best-of-sapa-by-local-operator": {
+  "title": "Sapa con easy rider privado: lo mejor de la zona",
+  "fullDescription": "Esta es una experiencia de 10 horas en Sapa, centrada en Pueblo de Cat Cat, Alpine Coaster Sapa y Cascada de Plata de Sa Pa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye lo que se incluye, guía de habla inglesa, experiencia en moto o con easy rider, entradas y 1 botella de agua. No incluye entrada al puente de cristal, refrescos y gastos personales, recuerdos y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTTTM Sun Plaza. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Cat Cat",
+   "Alpine Coaster Sapa",
+   "Cascada de Plata de Sa Pa",
+   "Puente de cristal de Rong May",
+   "Duración: 10 horas",
+   "Lo que se incluye"
+  ],
+  "included": [
+   "Lo que se incluye:",
+   "Guía local de habla inglesa",
+   "Experiencia en moto o con easy rider",
+   "Entradas (cascada de Plata, cascada del Amor, árbol solitario, pueblo de Cat Cat, Alpine Coaster)",
+   "1 botella de agua",
+   "Comida",
+   "Chubasquero (si hace falta en días de lluvia)",
+   "Seguro personal"
+  ],
+  "notIncluded": [
+   "Entrada al puente de cristal",
+   "Refrescos y gastos personales",
+   "Recuerdos",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat, Alpine Coaster Sapa y Cascada de Plata de Sa Pa. Operador: Taha Travel Agency Vn, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa con easy rider privado: lo mejor de la zona",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: lo que se incluye. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "sapa-scenic-day-tour-waterfalls-tea-hills-and-villages-by-local-operator": {
   "title": "Sapa: día panorámico entre cascadas, colinas de té y pueblos",
@@ -4896,6 +5041,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: medio día panorámico en coche con taller de arte local",
   "metaDescription": "Tour de medio día en Sapa. Incluye: visita al pueblo de Cat Cat. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "from-ta-van-private-trekking-tour-to-giang-ta-chai-and-su-pan-in-sapa": {
+  "title": "Desde Ta Van: trekking privado a Giang Ta Chai y Su Pan",
+  "fullDescription": "Esta es una experiencia de 5,5 horas desde Sapa, centrada en Giang Ta Chai y Su Pan. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía, experiencia de trekking, vistas panorámicas, visita a una comunidad dao roja y paseo por el bosque de bambú. No incluye transporte hasta Ta Van, comidas y alojamiento, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTa Van. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Giang Ta Chai",
+   "Su Pan",
+   "Duración: 5,5 horas",
+   "Guía local",
+   "Experiencia de trekking",
+   "Vistas panorámicas"
+  ],
+  "included": [
+   "Guía local",
+   "Experiencia de trekking",
+   "Vistas panorámicas",
+   "Visita a una comunidad dao roja",
+   "Paseo por el bosque de bambú",
+   "Visita a la cascada"
+  ],
+  "notIncluded": [
+   "Transporte hasta Ta Van",
+   "Comidas",
+   "Alojamiento"
+  ],
+  "shortDescription": "Tour de medio día en Sapa, con Bamboo Forest, Lao Cai, Giang Ta Chai y Su Pan. Operador: Ethnic Community Cultural Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Desde Ta Van: trekking privado a Giang Ta Chai y Su Pan",
+  "metaDescription": "Tour de medio día en Sapa. Incluye: guía y experiencia de trekking. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "4-day-village-trek-with-private-bungalow-stay-in-sapa": {
   "title": "Sapa: trekking de 4 días por los pueblos con noches en bungaló privado",
   "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye trekking guiado de 4 días, 3 noches en bungaló privado, guía, desayuno casero y comidas. No incluye gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -4953,6 +5126,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Sapa, con Valle de Muong Hoa. Operador: SAPA GROUP TOUR, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking cultural hmong con taller artesanal y comida",
   "metaDescription": "Tour de medio día en Sapa. Incluye: incluido y guía local. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jungle-trek-from-tram-ton-to-sin-chai-village-in-sapa": {
+  "title": "Sapa: trekking por la selva de Tram Ton al pueblo de Sin Chai",
+  "fullDescription": "Esta es una experiencia de 6 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía, entradas al parque nacional de Hoang Lien, equipo de acampada: tienda, comidas: 1 desayuno, 2 almuerzos y 1 hotpot para cenar y agua potable purificada. No incluye gastos personales, propinas para los guías y los porteadores, seguro de viaje y equipo personal de trekking: calzado, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 6 horas",
+   "Guía de habla inglesa",
+   "Entradas al parque nacional de Hoang Lien",
+   "Equipo de acampada: tienda, saco de dormir y esterilla aislante",
+   "Comidas: 1 desayuno, 2 almuerzos y 1 hotpot para cenar",
+   "Agua potable purificada"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Entradas al parque nacional de Hoang Lien",
+   "Equipo de acampada: tienda, saco de dormir y esterilla aislante",
+   "Comidas: 1 desayuno, 2 almuerzos y 1 hotpot para cenar.",
+   "Agua potable purificada",
+   "Servicio de porteo del equipo de acampada y la comida"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas para los guías y los porteadores",
+   "Seguro de viaje",
+   "Personal trekking gear: shoes, raincoats, etc."
+  ],
+  "shortDescription": "Tour de medio día en Sapa, que incluye guía, entradas al parque nacional de Hoang Lien y equipo de acampada: tienda. Operador: Authentic Sapa Trekss, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking por la selva de Tram Ton al pueblo de Sin Chai",
+  "metaDescription": "Tour de medio día en Sapa. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "hmong-bee-wax-drawing-and-ta-phin-herbal-bath-experience-in-sapa": {
   "title": "Sapa: dibujo hmong con cera de abeja y baño de hierbas en Ta Phin",
@@ -5195,6 +5397,66 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: alquiler de traje tradicional con sesión de fotos",
   "metaDescription": "Tour de 3 horas en Sapa. Incluye: alquiler de trajes tradicionales. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "premium-tour-4-day-3-night-ha-giang-loop-with-easy-rider-loopers-in-sapa": {
+  "title": "Ruta de Ha Giang: 4 días y 3 noches con easy rider de LOOPERS",
+  "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye todas las entradas y tasas de visita, guía y easy rider, combustible y moto semiautomática, agua mineral gratis durante el trayecto y 1 noche gratis antes del tour en nuestro hotel Anio Ha Giang. No incluye seguro de viaje, bebidas, gastos personales y propinas y billete de autobús desde o hacia Ha Giang, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 días",
+   "Todas las entradas y tasas de visita",
+   "Guía de habla inglesa y easy rider",
+   "Combustible y moto semiautomática",
+   "Agua mineral gratis durante el trayecto",
+   "1 noche gratis antes del tour en el Anio Ha Giang Hotel"
+  ],
+  "included": [
+   "Todas las entradas y tasas de visita",
+   "Guía de habla inglesa y easy rider",
+   "Combustible y moto semiautomática",
+   "Agua mineral gratis durante el trayecto",
+   "1 noche gratis antes del tour en el Anio Ha Giang Hotel",
+   "Alojamiento (habitación privada o bungaló durante 3 noches)",
+   "Camiseta del Ha Giang Loop"
+  ],
+  "notIncluded": [
+   "Seguro de viaje",
+   "Bebidas",
+   "Gastos personales y propinas",
+   "Billete de autobús desde o hacia Ha Giang",
+   "Todos los servicios y conceptos no mencionados expresamente en la lista anterior"
+  ],
+  "shortDescription": "Tour de 4 días en Sapa, que incluye todas las entradas y tasas de visita, guía y easy rider y combustible y moto semiautomática. Operador: Ha Giang Loopers Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ruta de Ha Giang: 4 días y 3 noches con easy rider de LOOPERS",
+  "metaDescription": "Tour de 4 días en Sapa. Incluye: todas las entradas y tasas de visita. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sapa-2-day-1-night-authentic-village-homestay-and-local-life": {
+  "title": "Sapa: 2 días en homestay en el pueblo y vida local",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye regreso del pueblo a Sapa después de la visita, homestay compartido con una familia giay en el pueblo de Ta Van, guía turístico, comidas indicadas y entradas a todos los lugares de visita. No incluye gastos personales, bebidas, seguro de viaje y servicios que no se mencionan claramente más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Regreso del pueblo a Sapa después de la visita",
+   "Homestay compartido con una familia giay en el pueblo de Ta Van",
+   "Guía de habla inglesa",
+   "Comidas indicadas (2 desayunos, 2 comidas de picnic, 1 cena)",
+   "Entradas a todos los lugares de visita"
+  ],
+  "included": [
+   "Regreso del pueblo a Sapa después de la visita",
+   "Homestay compartido con una familia giay en el pueblo de Ta Van.",
+   "Guía de habla inglesa",
+   "Comidas indicadas (2 desayunos, 2 comidas de picnic, 1 cena).",
+   "Entradas a todos los lugares de visita.",
+   "Gastos de servicio y todos los impuestos oficiales"
+  ],
+  "notIncluded": [
+   "Gastos personales (lavandería, llamadas, etc.).",
+   "Bebidas y propinas.",
+   "Seguro de viaje",
+   "Services not clearly mentioned above."
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye regreso del pueblo a Sapa después de la visita, homestay compartido con una familia giay en el pueblo de Ta Van y guía turístico. Operador: Sapa Pathfinder Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días en homestay en el pueblo y vida local",
+  "metaDescription": "Tour de 2 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "muong-hoa-valley-mountain-biking-adventure-in-sapa": {
   "title": "Valle de Muong Hoa: aventura en bicicleta de montaña",
   "fullDescription": "Esta es una experiencia de 6 horas desde Sapa, centrada en Pueblo de Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, alquiler de bicicleta de montaña, casco, comida y traslado de regreso a Sapa en coche privado. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5269,6 +5531,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Sapa, con Valle de Muong Hoa, Pueblo de Lao Chai y Ta Van. Operador: Local Guide Vietnam's Community, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "De Y Linh Ho a Ta Van Mong: trekking con comida",
   "metaDescription": "Tour de medio día en Sapa. Incluye: trekking por Y Linh Ho y Lao Chai San. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-day-2-night-sapa-trek-with-homestay-and-vip-bus": {
+  "title": "Sapa: trekking de 2 días con homestay y autobús VIP",
+  "fullDescription": "Esta es una experiencia de 60 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye transporte de ida y vuelta en autobús cama con cabina privada, 1 noche en homestay, comidas según el itinerario, guía y trekking hacia pueblos de minorías. No incluye otras comidas, propinas para el guía, regreso al hotel y otros conceptos no indicados en lo que se incluye, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 60 horas",
+   "Transporte de ida y vuelta en autobús cama con cabina privada por persona",
+   "1 noche en homestay",
+   "Comidas según el itinerario (1 desayuno, 2 almuerzos, 1 cena)",
+   "Guía de habla inglesa",
+   "Trekking hacia pueblos de minorías"
+  ],
+  "included": [
+   "Transporte de ida y vuelta en autobús cama con cabina privada por persona",
+   "1 noche en homestay",
+   "Comidas según el itinerario (1 desayuno, 2 almuerzos, 1 cena)",
+   "Guía de habla inglesa",
+   "Trekking hacia pueblos de minorías",
+   "Tasas de visita y entradas indicadas",
+   "Recogida en el hotel del Barrio Antiguo de Hanói"
+  ],
+  "notIncluded": [
+   "Otras comidas, bebidas, gastos personales, spa, masaje, seguro de viaje...",
+   "Propinas para el guía",
+   "Regreso al hotel",
+   "Otros conceptos no indicados en lo que se incluye"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye transporte de ida y vuelta en autobús cama con cabina privada, 1 noche en homestay y comidas según el itinerario. Operador: Crossing Vietnam Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 2 días con homestay y autobús VIP",
+  "metaDescription": "Tour de 2 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "sapa-trekking-adventure-tour": {
   "title": "Sapa: trekking por Y Linh Ho, Lao Chai y Ta Van",
@@ -5503,6 +5795,66 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking de 3 días con estancia en el pueblo de Ta Van",
   "metaDescription": "Tour de 3 días en Sapa. Incluye: autobús climatizado moderno. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "ban-mong-alpine-coaster-and-best-view-escape-tour-in-sapa": {
+  "title": "Sapa: Ban Mong, Alpine Coaster y las mejores vistas",
+  "fullDescription": "Esta es una experiencia de 4 horas en Sapa, centrada en Alpine Coaster Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte de ida y vuelta desde Sapa, 1 entrada para el Alpine Coaster, guía local, 1 bebida gratis en el Best View Sapa y agua embotellada gratis en el vehículo. No incluye vueltas adicionales en el Alpine Coaster, bebidas más allá de la incluida, gastos personales y propinas para el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Alpine Coaster Sapa",
+   "Duración: 4 horas",
+   "Transporte de ida y vuelta desde Sapa",
+   "1 entrada para el Alpine Coaster",
+   "Guía local con experiencia",
+   "1 bebida gratis en el Best View Sapa"
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde Sapa",
+   "1 entrada para el Alpine Coaster",
+   "Guía local con experiencia",
+   "1 bebida gratis en el Best View Sapa",
+   "Agua embotellada gratis en el vehículo"
+  ],
+  "notIncluded": [
+   "Vueltas adicionales en el Alpine Coaster",
+   "Bebidas más allá de la incluida",
+   "Gastos personales",
+   "Propinas para el guía (opcionales)",
+   "Se aplica un suplemento en fiestas como Año Nuevo o Año Nuevo lunar."
+  ],
+  "shortDescription": "Tour de medio día en Sapa, con Alpine Coaster Sapa. Operador: Cyclo Travel & Leisure, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: Ban Mong, Alpine Coaster y las mejores vistas",
+  "metaDescription": "Tour de medio día en Sapa. Incluye: transporte de ida y vuelta desde Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-day-trekking-tour-with-local-villages-and-lunch-in-sapa": {
+  "title": "Sapa: trekking de 2 días por los pueblos, con comida",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nSe ofrece recogida desde Iglesia de piedra de Sa Pa y Sa Pa Night Market; el lugar y la hora exactos se acuerdan con Sa Pa Authentic tour una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida en el hotel de Sa Pa, guía en persona, comida con platos hmong tradicionales, trekking por los arrozales en terrazas y visita a Y Linh Ho, Lao Chai, Ta Van y Hau Chu Ngai. No incluye gastos personales, seguro de viaje y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. Sa Pa Authentic tour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Recogida en el hotel de Sa Pa",
+   "Guía en persona",
+   "Comida con platos hmong tradicionales",
+   "Trekking por los arrozales en terrazas",
+   "Visita a los pueblos de Y Linh Ho, Lao Chai, Ta Van, Hau Chu Ngai y Thao Hong Den"
+  ],
+  "included": [
+   "Recogida en el hotel de Sa Pa",
+   "Guía en persona",
+   "Comida con platos hmong tradicionales",
+   "Trekking por los arrozales en terrazas",
+   "Visita a los pueblos de Y Linh Ho, Lao Chai, Ta Van, Hau Chu Ngai y Thao Hong Den",
+   "Presentación de las comunidades locales",
+   "homestay",
+   "comidas",
+   "regreso a Sa Pa"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Seguro de viaje",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye recogida en el hotel de Sa Pa, guía en persona y comida con platos hmong tradicionales. Operador: Sa Pa Authentic tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 2 días por los pueblos, con comida",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: recogida en el hotel de Sa Pa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "terrace-fields-and-local-villages-trek-with-lunch-in-sapa": {
   "title": "Sapa: trekking por los arrozales y los pueblos, con comida",
   "fullDescription": "Esta es una experiencia de 7 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye recogida y regreso al hotel, trekking guiado, entradas a los pueblos, guía de una comunidad local y comida. No incluye bebidas y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. Vietnam Real Tour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5557,6 +5909,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Sapa, que incluye guía turístico, comida: almuerzo de picnic y traslado de regreso después de la visita. Operador: Sapa Pathfinder Travel, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking guiado a pueblos escondidos y arrozales en terrazas",
   "metaDescription": "Tour de medio día en Sapa. Incluye: guía turístico. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "fansipan-peak-and-cat-cat-village-roof-of-indochina-adventure-sapa": {
+  "title": "Cima del Fansipan y pueblo de Cat Cat: el techo de Indochina",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Sapa, centrada en Pueblo de Cat Cat y Teleférico del Fansipan. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel en Sapa, transporte del centro de Sapa al teleférico, transporte de ida y vuelta en vehículo climatizado, guía turístico y entradas a todas las atracciones del itinerario. No incluye propinas para el guía y el personal de apoyo, billete del teleférico del Fansipan y tren de Muong Hoa y suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Cat Cat",
+   "Teleférico del Fansipan",
+   "Duración: 7 horas",
+   "Recogida y regreso al hotel en Sapa",
+   "Transporte del centro de Sapa a la estación del teleférico",
+   "Transporte de ida y vuelta en vehículo climatizado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Sapa",
+   "Transporte del centro de Sapa a la estación del teleférico",
+   "Transporte de ida y vuelta en vehículo climatizado",
+   "Guía de habla inglesa (suplemento para otros idiomas)",
+   "Entradas a todas las atracciones del itinerario",
+   "Comida en un restaurante local",
+   "Agua potable embotellada",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el personal de apoyo (opcionales)",
+   "Billete del teleférico del Fansipan y tren de Muong Hoa",
+   "Suplemento por festivos en Vietnam"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat y Teleférico del Fansipan. Operador: VN BIKE TOUR COMPANY LIMTIED, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cima del Fansipan y pueblo de Cat Cat: el techo de Indochina",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: recogida y regreso al hotel en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "guided-trek-with-local-hmong-guide-and-lunch-in-sapa": {
   "title": "Sapa: trekking guiado con guía hmong y comida",
@@ -5698,6 +6080,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking con guía local y taller de batik",
   "metaDescription": "Tour de día completo en Sapa. Incluye: trekking guiado de un día. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sapa-motorbike-tour-half-days-get-off-the-beaten-track-by-local-operator": {
+  "title": "Sapa: medio día en moto fuera de las rutas habituales",
+  "fullDescription": "Esta es una experiencia desde Sapa, centrada en Ta Phin. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía de habla inglesa con experiencia, conductores de moto con experiencia, todas las entradas a los pueblos visitados, agua embotellada gratis y poncho de lluvia si es necesario. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNotre Dame Cathedral. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Ta Phin",
+   "Guía de habla inglesa con experiencia",
+   "Conductores con experiencia, moto cómoda, seguridad, diversión y combustible",
+   "Todas las entradas a los pueblos visitados",
+   "Agua embotellada gratis",
+   "Poncho de lluvia si es necesario"
+  ],
+  "included": [
+   "Guía de habla inglesa con experiencia",
+   "Conductores con experiencia, moto cómoda, seguridad, diversión y combustible",
+   "Todas las entradas a los pueblos visitados",
+   "Agua embotellada gratis",
+   "Poncho de lluvia si es necesario",
+   "Recogida y regreso en tu hotel de Sapa"
+  ],
+  "notIncluded": [
+   "Gastos personales, propinas, bebidas y todo lo no mencionado más arriba"
+  ],
+  "shortDescription": "Tour en Sapa, con Ta Phin. Operador: Sapa Motorbike Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: medio día en moto fuera de las rutas habituales",
+  "metaDescription": "Tour en Sapa. Incluye: guía de habla inglesa con experiencia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "lai-chau-2-day-1-night-motor-tour-from-sapa": {
   "title": "Lai Chau: tour en moto de 2 días y 1 noche desde Sapa",
   "fullDescription": "Esta es una experiencia de 2 días desde Sapa, centrada en Cascada de Tac Tinh. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte durante el recorrido, guía local, se proporciona agua embotellada en cantidad suficiente para, todas las tasas de las actividades y entrada a la cueva. No incluye propinas para el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5725,6 +6133,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Lai Chau: tour en moto de 2 días y 1 noche desde Sapa",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: transporte durante el recorrido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "2-day-trekking-trip-with-ethnic-minority-homestay-in-sapa": {
+  "title": "Sapa: trekking de 2 días con homestay en una minoría local",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía, todas las entradas a los lugares indicados, 2 comidas en un restaurante local, 1 cena en casa de una familia del pueblo y 1 desayuno en el homestay. No incluye bebidas, IVA y propinas y suplemento de 30 USD por persona en el Año Nuevo lunar, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Guía de habla inglesa",
+   "Todas las entradas a los lugares indicados",
+   "2 comidas en un restaurante local",
+   "1 cena en casa de una familia del pueblo",
+   "1 desayuno en el homestay"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Todas las entradas a los lugares indicados",
+   "2 comidas en un restaurante local",
+   "1 cena en casa de una familia del pueblo",
+   "1 desayuno en el homestay",
+   "Alojamiento en homestay en un pueblo giay",
+   "Agua mineral",
+   "Traslado de regreso en autobús"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "IVA y propinas",
+   "Suplemento de 30 USD por persona en el Año Nuevo lunar (del 26 de enero al 2 de febrero de 2025, a pagar en el punto de encuentro)"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye guía, todas las entradas a los lugares indicados y 2 comidas en un restaurante local. Operador: Vietnam Nomadtrails, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 2 días con homestay en una minoría local",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "3-day-sapa-trek-tour-with-homestay-and-fansipan": {
   "title": "Sapa: trekking de 3 días con homestay y Fansipan",
   "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye transporte en autobús de ida y vuelta entre Hanói y Sapa, alojamiento en homestay y hotel, las comidas indicadas, trekkings guiados y billete de teleférico al Fansipan. No incluye coste de la clase de cocina, gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5751,6 +6189,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 días en Sapa, que incluye transporte en autobús de ida y vuelta entre Hanói y Sapa, alojamiento en homestay y hotel y las comidas indicadas. Operador: Hanoi Explore Travel, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking de 3 días con homestay y Fansipan",
   "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "sa-pa-one-day-trek-through-ethnic-villages-and-rice-terraces-sapa": {
+  "title": "Sa Pa: trekking de un día entre pueblos y arrozales en terrazas",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Sapa, centrada en Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nSe ofrece recogida desde Notre Dame Cathedral y Sa Pa; el lugar y la hora exactos se acuerdan con SaPa Native Tours una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye guía turístico, comida en un restaurante hmong, tasa de trekking, visita al pueblo de Y Linh Ho y visita al pueblo de Lao Chai. No incluye gastos personales, propinas, refresco y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Ta Van",
+   "Duración: 7 horas",
+   "Guía de habla inglesa",
+   "Comida en un restaurante hmong",
+   "Tasa de trekking",
+   "Visita al pueblo de Y Linh Ho"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Comida en un restaurante hmong",
+   "Tasa de trekking",
+   "Visita al pueblo de Y Linh Ho",
+   "Visita al pueblo de Lao Chai",
+   "Visita al museo hmong",
+   "Visita al pueblo de Ta Van",
+   "Regreso a Sapa"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "refresco",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Ta Van. Operador: SaPa Native Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sa Pa: trekking de un día entre pueblos y arrozales en terrazas",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: guía turístico. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "sapa-2-days-trek-tour-stay-sapa-homestay-by-local-operator": {
   "title": "Sapa: trekking de 2 días con noche en homestay",
@@ -5781,6 +6250,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking de 2 días con noche en homestay",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: guía de habla inglesa de una minoría. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sapa-trekking-3-days-2-night-vip-sleeper-bus-from-hanoi-by-local-operator": {
+  "title": "Sapa: trekking de 3 días con autobús cama VIP desde Hanói",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye autobús cama climatizado de ida y vuelta, 1 noche en bungaló-homestay en el pueblo de Ta Van, 1 noche en hotel de 3 estrellas, guía y comidas indicadas en el itinerario. No incluye visados y otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Autobús cama climatizado de ida y vuelta Sapa - Hanói, con Wi-Fi, manta y almohada",
+   "1 noche en bungaló-homestay en el pueblo de Ta Van",
+   "1 noche en hotel de 3 estrellas",
+   "Guía de habla inglesa",
+   "Comidas indicadas en el itinerario (2 desayunos, 2 cenas, 3 almuerzos)"
+  ],
+  "included": [
+   "Autobús cama climatizado de ida y vuelta Sapa - Hanói, con Wi-Fi, manta y almohada",
+   "1 noche en bungaló-homestay en el pueblo de Ta Van",
+   "1 noche en hotel de 3 estrellas",
+   "Guía de habla inglesa",
+   "Comidas indicadas en el itinerario (2 desayunos, 2 cenas, 3 almuerzos)",
+   "Entradas"
+  ],
+  "notIncluded": [
+   "Visados",
+   "Otros gastos personales (propinas, bebidas en las comidas...)"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye autobús cama climatizado de ida y vuelta, 1 noche en bungaló-homestay en el pueblo de Ta Van y 1 noche en hotel de 3 estrellas. Operador: Vietnam Vacations Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 3 días con autobús cama VIP desde Hanói",
+  "metaDescription": "Tour de 3 días en Sapa. Incluye: autobús cama climatizado de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "glass-bridge-waterfall-and-village-day-trip-in-sapa": {
   "title": "Sapa: día de puente de cristal, cascada y pueblo",
   "fullDescription": "Esta es una experiencia de 10 horas en Sapa, centrada en Pueblo de Cat Cat, Moana Sapa y Cascada de Plata de Sa Pa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, visita al puente de cristal de Rong May, visita a la cascada de Plata, visita al pueblo de Cat Cat y visita a Moana Sapa. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSun Plaza Sapa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -5807,6 +6303,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat, Moana Sapa y Cascada de Plata de Sa Pa. Operador: Taha Travel Agency Vn, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: día de puente de cristal, cascada y pueblo",
   "metaDescription": "Tour de día completo en Sapa. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-day-private-car-tour-with-homestay-and-transfers-in-sapa": {
+  "title": "Sapa: 2 días en coche privado con homestay y traslados",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye transporte en coche privado, guía, visita al árbol solitario, visita a la cascada de Plata y visita a la cascada del Amor. No incluye gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Transporte en coche privado",
+   "Guía",
+   "Visita al árbol solitario",
+   "Visita a la cascada de Plata",
+   "Visita a la cascada del Amor"
+  ],
+  "included": [
+   "Transporte en coche privado",
+   "Guía",
+   "Visita al árbol solitario",
+   "Visita a la cascada de Plata",
+   "Visita a la cascada del Amor",
+   "Visita al pueblo de Cat Cat",
+   "Visita al valle de Muong Hoa",
+   "Homestay en el pueblo de Ta Van",
+   "Visita al pueblo de Hang Da",
+   "Visita al pueblo de Ta Phin",
+   "Visita a la cueva de Ta Phin",
+   "Visita al pueblo de Ban Khoang"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye transporte en coche privado, guía y visita al árbol solitario. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días en coche privado con homestay y traslados",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: transporte en coche privado y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "muong-hoa-mountain-views-and-villages-trek-with-lunch-in-sapa": {
   "title": "Muong Hoa: trekking con vistas a la montaña y pueblos, con comida",
@@ -5915,6 +6444,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Lai Chau: tour en coche de 2 días y 3 noches desde Hanói",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: transporte durante el recorrido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "best-2-day-sapa-trekking-and-local-homestay-with-trains": {
+  "title": "Sapa: 2 días de trekking y homestay, con tren",
+  "fullDescription": "Esta es una experiencia de 2 días desde Sapa, centrada en Pueblo de Sin Chai, Aldea tradicional y Pueblo de Lao Chai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye billete de tren nocturno en cabina climatizada compartida de 4 literas, traslado en minivan compartida de la estación de Lao Cai a Sapa, traslado en limusina de Sapa a Hanói, 2 desayunos, 2 almuerzos y entradas según el itinerario. No incluye comidas no mencionadas en el itinerario, bebidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n120 Đ. Lê Duẩn, Cửa Nam, Hà Nội, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Sin Chai",
+   "Aldea tradicional",
+   "Pueblo de Lao Chai",
+   "Ta Van",
+   "Duración: 2 días",
+   "Billete de tren nocturno en cabina climatizada compartida de 4 literas (Hanói - Lao Cai)"
+  ],
+  "included": [
+   "Billete de tren nocturno en cabina climatizada compartida de 4 literas (Hanói - Lao Cai)",
+   "Traslado en minivan compartida de la estación de Lao Cai a Sapa",
+   "Traslado en limusina de Sapa a Hanói",
+   "2 desayunos, 2 almuerzos y 1 cena",
+   "Entradas según el itinerario",
+   "Guía de habla inglesa",
+   "1 noche en hotel de 3 estrellas"
+  ],
+  "notIncluded": [
+   "Comidas no mencionadas en el itinerario",
+   "Bebidas",
+   "Gastos personales",
+   "Propinas",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, con Pueblo de Sin Chai, Aldea tradicional y Pueblo de Lao Chai. Operador: Taha Travel Agency Vn, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días de trekking y homestay, con tren",
+  "metaDescription": "Tour de 2 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "explore-sapa-s-most-beautiful-trekking-route-by-local-operator": {
   "title": "Sapa: la ruta de trekking más bonita",
   "fullDescription": "Esta es una experiencia de día completo en Sapa, centrada en Pueblo de Lao Chai, Ta Van y Mong Retreat Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía, trekking por el valle de Muong Hoa, visita al pueblo de Y Linh Ho, visita al pueblo de Lao Chai y visita al pueblo de Ta Van. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nP. Hàm Rồng, Sa Pa, Lào Cai, Vietnam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6016,6 +6576,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking por los pueblos y clase de cocina en la ciudad",
   "metaDescription": "Tour de día completo en Sapa. Incluye: trekking por Y Linh Ho y Lao Chai. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "trekking-sapa-one-day-with-group-tour": {
+  "title": "Sapa: trekking de un día en grupo",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Sapa, centrada en Autobús/autocar. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía local, entrada al pueblo, comida en el pueblo, agua: 1 botella grande por persona y chubasquero en caso de mal tiempo. No incluye propina para el guía y el conductor, bebidas adicionales durante el trayecto y en el restaurante, gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNhà Thờ Đá Sapa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Duración: 5 horas",
+   "Guía local de habla inglesa",
+   "Entrada al pueblo",
+   "Comida en el pueblo",
+   "Agua: 1 botella grande por persona"
+  ],
+  "included": [
+   "Guía local de habla inglesa",
+   "Entrada al pueblo",
+   "Comida en el pueblo",
+   "Agua: 1 botella grande por persona",
+   "Chubasquero en caso de mal tiempo",
+   "Regreso a Sapa desde el último pueblo"
+  ],
+  "notIncluded": [
+   "Propina para el guía y el conductor",
+   "Bebidas adicionales durante el trayecto y en el restaurante",
+   "Gastos personales",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de medio día en Sapa, que incluye guía local, entrada al pueblo y comida en el pueblo. Operador: Sapa Trekking Hiking Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de un día en grupo",
+  "metaDescription": "Tour de medio día en Sapa. Incluye: guía local y entrada al pueblo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "fansipang-mountain-hike-1-day": {
   "title": "Monte Fansipan: caminata de un día",
   "fullDescription": "Esta es una experiencia de 8 horas desde Sapa, centrada en Fansipan. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye recogida y regreso en Sapa, guía local, comida y medalla y certificado al terminar. No incluye billetes de teleférico, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6039,6 +6628,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapa, con Fansipan. Operador: Sapa Odyssey Tour, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Monte Fansipan: caminata de un día",
   "metaDescription": "Tour de día completo en Sapa. Incluye: recogida y regreso en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-nights-2-days-sapa-tour-by-overnight-train": {
+  "title": "Sapa: 2 días y 2 noches en tren nocturno",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado en tren nocturno Hanói - Lao Cai, guía de habla inglesa en Sapa, 2 almuerzos y 2 desayunos; la cena por tu cuenta, entradas a los lugares mencionados y alojamiento en el Sapa Home Legend, 21 So Than road, Sapa. No incluye bebidas, seguro de viaje e IVA y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Traslado en tren nocturno Hanói - Lao Cai (después autobús de la estación de Lao Cai a Sapa, 38 km) y regreso de Sapa a Hanói en limusina de lujo",
+   "Guía local de habla inglesa en Sapa",
+   "2 almuerzos y 2 desayunos; la cena por tu cuenta",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en el Sapa Home Legend, 21 So Than road, Sapa"
+  ],
+  "included": [
+   "Traslado en tren nocturno Hanói - Lao Cai (después autobús de la estación de Lao Cai a Sapa, 38 km) y regreso de Sapa a Hanói en limusina de lujo",
+   "Guía local de habla inglesa en Sapa",
+   "2 almuerzos y 2 desayunos; la cena por tu cuenta",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en el Sapa Home Legend, 21 So Than road, Sapa"
+  ],
+  "notIncluded": [
+   "Bebidas, seguro de viaje e IVA",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye traslado en tren nocturno Hanói - Lao Cai, guía de habla inglesa en Sapa y 2 almuerzos y 2 desayunos; la cena por tu cuenta. Operador: DragonflyCruise, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días y 2 noches en tren nocturno",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: traslado en tren nocturno Hanói - Lao Cai. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "1-day-sapa-motorbike-tour-explore-hidden-villages-by-local-operator": {
   "title": "Sapa: día en moto para descubrir pueblos escondidos",
@@ -6170,6 +6785,60 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Nam Cang: día entre el pueblo y los arrozales en terrazas",
   "metaDescription": "Tour de día completo en Sapa. Incluye: transporte durante el recorrido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "1-day-trek-through-rice-terraces-and-villages-in-sapa": {
+  "title": "Sapa: trekking de un día entre arrozales en terrazas y pueblos",
+  "fullDescription": "Esta es una experiencia de 7 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía de habla francesa en persona, entradas a los pueblos, comida, suministro de agua potable durante la caminata y regreso a Sapa después de la excursión. No incluye seguro de viaje personal, bebidas adicionales durante la caminata, gastos personales y propinas para el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 7 horas",
+   "Guía de habla francesa en persona",
+   "Entradas a los pueblos",
+   "Comida local",
+   "Suministro de agua potable durante la caminata",
+   "Regreso a Sapa después de la excursión"
+  ],
+  "included": [
+   "Guía de habla francesa en persona",
+   "Entradas a los pueblos",
+   "Comida local",
+   "Suministro de agua potable durante la caminata",
+   "Regreso a Sapa después de la excursión"
+  ],
+  "notIncluded": [
+   "Seguro de viaje personal",
+   "Bebidas adicionales durante la caminata (agua embotellada, cerveza, etc.)",
+   "Gastos personales",
+   "Propinas para el guía (opcionales)"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, que incluye guía de habla francesa en persona, entradas a los pueblos y comida. Operador: Trekking Fansipan In A Day, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de un día entre arrozales en terrazas y pueblos",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: guía de habla francesa en persona. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "3-nights-3-days-sapa-tour-by-overnight-train": {
+  "title": "Sapa: 3 días y 3 noches en tren nocturno",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado en tren nocturno Hanói - Lao Cai, guía de habla inglesa en Sapa, 2 almuerzos y 2 desayunos; la cena por tu cuenta, entradas a los lugares mencionados y alojamiento en el Sapa Home Legend, 21 So Than road, Sapa. No incluye bebidas, seguro de viaje e impuestos oficiales y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Traslado en tren nocturno Hanói - Lao Cai (después autobús Lao Cai - Sapa, 38 km) y regreso de Sapa a Hanói en limusina de lujo",
+   "Guía local de habla inglesa en Sapa",
+   "2 almuerzos y 2 desayunos; la cena por tu cuenta",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en el Sapa Home Legend, 21 So Than road, Sapa, o en el Charm Hotel Sapa"
+  ],
+  "included": [
+   "Traslado en tren nocturno Hanói - Lao Cai (después autobús Lao Cai - Sapa, 38 km) y regreso de Sapa a Hanói en limusina de lujo",
+   "Guía local de habla inglesa en Sapa",
+   "2 almuerzos y 2 desayunos; la cena por tu cuenta",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en el Sapa Home Legend, 21 So Than road, Sapa, o en el Charm Hotel Sapa"
+  ],
+  "notIncluded": [
+   "Bebidas, seguro de viaje e impuestos oficiales",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye traslado en tren nocturno Hanói - Lao Cai, guía de habla inglesa en Sapa y 2 almuerzos y 2 desayunos; la cena por tu cuenta. Operador: DragonflyCruise, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 3 días y 3 noches en tren nocturno",
+  "metaDescription": "Tour de 3 días en Sapa. Incluye: traslado en tren nocturno Hanói - Lao Cai. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "4-day-sapa-fansipan-and-ethnic-market-tour": {
   "title": "Sapa, Fansipan y mercados étnicos: tour de 4 días",
   "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 3 noches de alojamiento, billetes de tren de ida y vuelta, guía, todas las entradas y las comidas indicadas en el itinerario. No incluye gastos personales, propinas y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6197,6 +6866,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 4 días en Sapa, que incluye 3 noches de alojamiento, billetes de tren de ida y vuelta y guía. Operador: Southern Breeze Joint stock company, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa, Fansipan y mercados étnicos: tour de 4 días",
   "metaDescription": "Tour de 4 días en Sapa. Incluye: 3 noches de alojamiento. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "herbal-trekking-tour-with-red-dao-people-1-day-in-sapa": {
+  "title": "Sapa: trekking de plantas medicinales con los dao rojos",
+  "fullDescription": "Esta es una experiencia de día completo en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía dao rojo, trekking panorámico entre arrozales en terrazas y bosques de bambú, visita a una cascada de montaña, visita al parque nacional de Hoang Lien y comida en un pueblo dao rojo. No incluye transporte de ida y vuelta a Sapa, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: día completo",
+   "Guía local dao rojo",
+   "Trekking panorámico entre arrozales en terrazas y bosques de bambú",
+   "Visita a una cascada de montaña",
+   "Visita al parque nacional de Hoang Lien",
+   "Comida local en un pueblo dao rojo"
+  ],
+  "included": [
+   "Guía local dao rojo",
+   "Trekking panorámico entre arrozales en terrazas y bosques de bambú",
+   "Visita a una cascada de montaña",
+   "Visita al parque nacional de Hoang Lien",
+   "Comida local en un pueblo dao rojo",
+   "Baño de pies con hierbas y masaje tradicionales"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta a Sapa"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, que incluye guía dao rojo, trekking panorámico entre arrozales en terrazas y bosques de bambú y visita a una cascada de montaña. Operador: Hmong House Sapa, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de plantas medicinales con los dao rojos",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: guía dao rojo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "ta-van-private-hmong-batik-with-muong-hoa-views-in-sapa": {
   "title": "Ta Van: taller privado de batik hmong con vistas a Muong Hoa",
@@ -6280,6 +6975,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking guiado de 2 días con homestay, guía en inglés y francés",
   "metaDescription": "Tour de día completo en Sapa. Incluye: esta visita incluye guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "motorbike-adventure-to-love-waterfall-and-villages-in-sapa": {
+  "title": "Sapa: aventura en moto hasta la cascada del Amor y los pueblos",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Sapa, centrada en Puerto de O Quy Ho, Cascada del Amor y Pueblo de Sin Chai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye conductor de moto local, moto local estándar con combustible, casco de seguridad, asiento de pasajero y entradas a la cascada del Amor y a los pueblos mencionados. No incluye seguro de viaje personal, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Puerto de O Quy Ho",
+   "Cascada del Amor",
+   "Pueblo de Sin Chai",
+   "Pueblo de Lao Chai",
+   "Duración: 6 horas",
+   "Conductor de moto local con experiencia (tu guía)"
+  ],
+  "included": [
+   "Conductor de moto local con experiencia (tu guía)",
+   "Moto local estándar con combustible",
+   "Casco de seguridad",
+   "Asiento de pasajero (para tu comodidad)",
+   "Entradas a la cascada del Amor y a los pueblos mencionados",
+   "Agua potable",
+   "Comida en un auténtico restaurante local"
+  ],
+  "notIncluded": [
+   "Seguro de viaje personal",
+   "Gastos personales (recuerdos, aperitivos, bebidas)",
+   "Propinas (opcionales)"
+  ],
+  "shortDescription": "Tour de medio día en Sapa, con Puerto de O Quy Ho, Cascada del Amor y Pueblo de Sin Chai. Operador: Authentic Sapa Trekss, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: aventura en moto hasta la cascada del Amor y los pueblos",
+  "metaDescription": "Tour de medio día en Sapa. Incluye: conductor de moto local. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "vietnamese-coffee-and-hmong-beeswax-art-workshop": {
   "title": "Café vietnamita y taller de arte hmong con cera de abeja",
   "fullDescription": "Esta es una experiencia de 3 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEn las montañas del norte de Vietnam viven más de 20 grupos étnicos, y caminar de aldea en aldea durmiendo en la casa de madera sobre pilotes de una familia es la gran experiencia senderista del país: los valles hmong y dao alrededor de Sa Pa, las aldeas tay sobre pilotes de Mai Chau y Pu Luong, los arrozales en terrazas de Mu Cang Chai y los valles kársticos de Ha Giang. Los trekkings van de medio día a una semana, guiados por mujeres de la zona que hablan las lenguas de las aldeas, con las comidas que cocina la familia anfitriona. Los senderos son empinados y resbaladizos con la lluvia (de junio a agosto), fríos en enero y más despejados en octubre y noviembre. Los homestays son sencillos, comunitarios y acogedores, con un colchón en el suelo y licor de arroz en la cena.\n\nEl precio incluye taller de preparación del café vietnamita, taller de arte hmong con cera de abeja, acompañamiento de los anfitriones y materiales para el café y la creación artística. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6300,6 +7024,64 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Sapa, que incluye taller de preparación del café vietnamita, taller de arte hmong con cera de abeja y acompañamiento de los anfitriones. Operador: Local Guide Vietnam's Community, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Café vietnamita y taller de arte hmong con cera de abeja",
   "metaDescription": "Tour de 3 horas en Sapa. Incluye: taller de preparación del café vietnamita. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "explore-sapa-cat-cat-village-and-fansipan-cable-car-by-local-operator": {
+  "title": "Sapa: pueblo de Cat Cat y teleférico del Fansipan",
+  "fullDescription": "Esta es una experiencia de día completo desde Sapa, centrada en Teleférico del Fansipan y Pueblo de Cat Cat. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde 10 Hoàng Diệu y Iglesia de piedra de Sa Pa; el lugar y la hora exactos se acuerdan con Sapa Pathfinder Travel una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye teleférico y entrada a Cat Cat incluidos, comida, guía, traslado de ida y vuelta a la estación del teleférico del Fansipan y traslado de regreso después de la visita a Cat Cat. No incluye gastos personales, bebidas, seguro de viaje y otros conceptos no indicados en lo que se incluye, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Teleférico del Fansipan",
+   "Pueblo de Cat Cat",
+   "Duración: día completo",
+   "Teleférico y entrada a Cat Cat incluidos",
+   "Comida",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Teleférico y entrada a Cat Cat incluidos",
+   "Comida",
+   "Guía de habla inglesa",
+   "Traslado de ida y vuelta entre Sapa y la estación del teleférico del Fansipan",
+   "Traslado de regreso después de la visita a Cat Cat"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Bebidas",
+   "Seguro de viaje",
+   "Otros conceptos no indicados en lo que se incluye",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Teleférico del Fansipan y Pueblo de Cat Cat. Operador: Sapa Pathfinder Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: pueblo de Cat Cat y teleférico del Fansipan",
+  "metaDescription": "Tour de día completo en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "motorbike-tour-to-heaven-gate-and-hot-springs-in-sapa": {
+  "title": "Sapa: ruta en moto a la Puerta del Cielo y las aguas termales",
+  "fullDescription": "Esta es una experiencia de día completo desde Sapa, centrada en Puerta del Cielo de O Quy Ho y Aguas termales. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye moto, guía, combustible, 1 comida y 1 botella grande de agua por persona. No incluye gastos personales, seguro de viaje y bebida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Puerta del Cielo de O Quy Ho",
+   "Aguas termales",
+   "Duración: día completo",
+   "Moto",
+   "Guía local",
+   "combustible"
+  ],
+  "included": [
+   "Moto",
+   "Guía local",
+   "combustible",
+   "1 comida",
+   "1 botella grande de agua por persona",
+   "entrada",
+   "un recuerdo local para cada participante"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Seguro de viaje",
+   "bebida"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Puerta del Cielo de O Quy Ho y Aguas termales. Operador: Sapa Mountain Trails, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: ruta en moto a la Puerta del Cielo y las aguas termales",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: moto, guía, combustible y 1 comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "sapa-half-day-ride-waterfalls-and-red-dao-herbal-bath-tour-by-local-operator": {
   "title": "Sapa: medio día en moto, cascadas y baño de hierbas dao rojo",
@@ -6424,6 +7206,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: cascadas, pueblos y arrozales, paseo fácil con niños",
   "metaDescription": "Tour de día completo en Sapa. Incluye: incluye: guía de habla inglesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "2-day-sapa-tour-trekking-and-homestay-experience": {
+  "title": "Sapa: 2 días de trekking y homestay",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye transporte de ida y vuelta desde Hanói, 1 noche en hotel, comidas: 1 desayuno, 2 almuerzos, 1 cena, entradas a todos los pueblos del itinerario y guía local durante todo el tour. No incluye bebidas y gastos personales, seguro de viaje, propinas para el conductor y el guía y actividades adicionales no mencionadas en el itinerario, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Transporte de ida y vuelta Hanói - Sapa - Hanói (autobús limusina con paradas)",
+   "1 noche en hotel (con opción de homestay)",
+   "Comidas: 1 desayuno, 2 almuerzos, 1 cena",
+   "Entradas a todos los pueblos del itinerario",
+   "Guía local de habla inglesa durante todo el tour"
+  ],
+  "included": [
+   "Transporte de ida y vuelta Hanói - Sapa - Hanói (autobús limusina con paradas)",
+   "1 noche en hotel (con opción de homestay)",
+   "Comidas: 1 desayuno, 2 almuerzos, 1 cena",
+   "Entradas a todos los pueblos del itinerario",
+   "Guía local de habla inglesa durante todo el tour",
+   "Agua embotellada durante el trekking"
+  ],
+  "notIncluded": [
+   "Bebidas y gastos personales",
+   "Seguro de viaje",
+   "Propinas para el conductor y el guía",
+   "Actividades adicionales no mencionadas en el itinerario"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye transporte de ida y vuelta desde Hanói, 1 noche en hotel y comidas: 1 desayuno, 2 almuerzos, 1 cena. Operador: Hanoi Explore Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días de trekking y homestay",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: transporte de ida y vuelta desde Hanói. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "sapa-trek-ethnic-villages-rice-terraces-and-hidden-trails-by-local-operator": {
   "title": "Sapa: trekking entre pueblos, arrozales en terrazas y senderos escondidos",
   "fullDescription": "Esta es una experiencia de 7 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye recogida y regreso al hotel en el centro de Sapa, guía local de trekking, entradas a los pueblos del recorrido, comida local tradicional y agua potable embotellada en el coche. No incluye propinas para el guía y el conductor y suplemento por festivos en Vietnam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. VN BIKE TOUR COMPANY LIMTIED confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6483,6 +7294,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: medio día en moto, pueblos, Alpine Coaster y atardecer",
   "metaDescription": "Tour de medio día en Sapa. Incluye: alquiler de moto y easy rider. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "a-glimpse-of-sapa-motorbike-full-days-off-the-beaten-path-by-local-operator": {
+  "title": "Sapa en moto: un día fuera de las rutas habituales",
+  "fullDescription": "Esta es una experiencia desde Sapa, centrada en Sa Pa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nSe ofrece recogida desde Notre Dame Cathedral y 18 Phạm Xuân Huân; el lugar y la hora exactos se acuerdan con Sapa Motorbike Tour una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye guía de habla inglesa con experiencia, conductores profesionales con carné, poncho de lluvia si es necesario y combustible para la moto, todas las entradas a los pueblos visitados y comida en el restaurante local. No incluye gastos personales, propinas y todo lo no mencionado más arriba, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Sa Pa",
+   "Guía de habla inglesa con experiencia",
+   "Conductores profesionales con carné, moto cómoda y seguridad",
+   "Poncho de lluvia si es necesario y combustible para la moto",
+   "Todas las entradas a los pueblos visitados",
+   "Comida en el restaurante local"
+  ],
+  "included": [
+   "Guía de habla inglesa con experiencia",
+   "Conductores profesionales con carné, moto cómoda y seguridad.",
+   "Poncho de lluvia si es necesario y combustible para la moto",
+   "Todas las entradas a los pueblos visitados",
+   "Comida en el restaurante local",
+   "Recogida y regreso en Sapa"
+  ],
+  "notIncluded": [
+   "gastos personales, propinas y todo lo no mencionado más arriba"
+  ],
+  "shortDescription": "Tour en Sapa, con Sa Pa. Operador: Sapa Motorbike Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa en moto: un día fuera de las rutas habituales",
+  "metaDescription": "Tour en Sapa. Incluye: guía de habla inglesa con experiencia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "y-linh-ho-lao-chai-and-ta-van-villages-trek-day-tour-in-sapa": {
   "title": "Y Linh Ho, Lao Chai y Ta Van: trekking de un día",
   "fullDescription": "Esta es una experiencia de 5 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía en persona, trekking, visita al pueblo de Y Linh Ho, visita al pueblo de Lao Chai y visita al pueblo de Ta Van. No incluye gastos personales, seguro de viaje personal y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNhà Thờ Đá Sapa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6538,6 +7375,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "De Hanói a Sapa: tour privado de 3 días con experiencias locales",
   "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "mountain-views-and-red-dao-herbal-bath-at-a-local-home-in-sapa": {
+  "title": "Sapa: vistas a la montaña y baño de hierbas dao rojo en una casa local",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Sapa, centrada en Cascada de Plata de Sa Pa, Cascada del Amor y El árbol solitario de O Quy Ho. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida en el hotel, guía privado dao rojo o hmong, visita a la cascada de Plata, visita a la cascada del Amor y visita al árbol solitario. No incluye visita al puente de cristal, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Cascada de Plata de Sa Pa",
+   "Cascada del Amor",
+   "El árbol solitario de O Quy Ho",
+   "Cueva de Ta Phin",
+   "Duración: 7 horas",
+   "Recogida en el hotel"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Guía privado dao rojo o hmong",
+   "Visita a la cascada de Plata",
+   "Visita a la cascada del Amor",
+   "Visita al árbol solitario",
+   "Visita a la Puerta del Cielo",
+   "Visita al pueblo de Ta Phin",
+   "Visita a las ruinas del monasterio francés",
+   "Visita a la cueva de Ta Phin",
+   "Visita al jardín de plantas medicinales",
+   "Baño de hierbas",
+   "Infusión casera"
+  ],
+  "notIncluded": [
+   "Visita al puente de cristal"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Cascada de Plata de Sa Pa, Cascada del Amor y El árbol solitario de O Quy Ho. Operador: Ethnic Community Cultural Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: vistas a la montaña y baño de hierbas dao rojo en una casa local",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: recogida en el hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "y-linh-ho-lao-chai-and-ta-van-villages-tour-halfday-in-sapa": {
   "title": "Sapa: medio día por los pueblos de Y Linh Ho, Lao Chai y Ta Van",
   "fullDescription": "Esta es una experiencia de 4 horas desde Sapa, centrada en Ta Van y Sa Pa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía local en Sapa y transporte del pueblo de Ta Van a Sapa en coche o furgoneta. No incluye bebidas, seguro de viaje, gastos personales y otros conceptos no indicados claramente, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa Stone Church. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -6562,6 +7431,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Sapa, con Ta Van y Sa Pa. Operador: VIETNAM TREASURES TRAVEL CO , LTD, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: medio día por los pueblos de Y Linh Ho, Lao Chai y Ta Van",
   "metaDescription": "Tour de medio día en Sapa. Incluye: guía local en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sapa-2-day-1-night-trekking-hmong-and-red-dao-herbs-culture": {
+  "title": "Sapa: 2 días de trekking y cultura de las plantas hmong y dao roja",
+  "fullDescription": "Esta es una experiencia de 2 días desde Sapa, centrada en Cordillera de Hoang Lien Son, Pueblo de Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía hmong, guía dao rojo, comida los dos días, noche en el Hmong House Homestay y espectáculo cultural. No incluye cena el día 2 y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNhà Thờ Đá Sapa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Cordillera de Hoang Lien Son",
+   "Pueblo de Lao Chai",
+   "Ta Van",
+   "Duración: 2 días",
+   "Guía hmong",
+   "Guía dao rojo"
+  ],
+  "included": [
+   "Guía hmong",
+   "Guía dao rojo",
+   "Comida los dos días",
+   "Noche en el Hmong House Homestay",
+   "Espectáculo cultural",
+   "Baño de hierbas dao rojo",
+   "Transporte del equipaje"
+  ],
+  "notIncluded": [
+   "Cena el día 2",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, con Cordillera de Hoang Lien Son, Pueblo de Lao Chai y Ta Van. Operador: Hmong House Sapa, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 2 días de trekking y cultura de las plantas hmong y dao roja",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: guía hmong y guía dao rojo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "half-day-treck-to-visit-y-linh-ho-lao-chai-ta-van-in-sapa": {
   "title": "Y Linh Ho, Lao Chai y Ta Van: trekking de medio día",
@@ -6665,6 +7562,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapa, que incluye 1 comida, guía y todas las entradas. Operador: Anh Tourist Hanoi Travel, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking de un día por los arrozales con guía local",
   "metaDescription": "Tour de día completo en Sapa. Incluye: 1 comida, guía y todas las entradas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "waterfalls-tea-farm-and-cave-full-day-tour-by-car-in-sapa": {
+  "title": "Sapa: día en coche entre cascadas, plantación de té y cueva",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Sapa, centrada en Cascada de Thac Bac, Cascada del Amor y El árbol solitario de O Quy Ho. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye visita a Thac Bac, visita a la cascada del Amor, parada en el árbol solitario del puerto de O Quy Ho, visita a las colinas de té de Tan Uyen y visita al pueblo de Sin Sui Ho. No incluye comidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Cascada de Thac Bac",
+   "Cascada del Amor",
+   "El árbol solitario de O Quy Ho",
+   "Colinas de té de Tan Uyen",
+   "Duración: 9 horas",
+   "Visita a Thac Bac, la cascada de Plata"
+  ],
+  "included": [
+   "Visita a Thac Bac, la cascada de Plata",
+   "Visita a la cascada del Amor",
+   "Parada en el árbol solitario del puerto de O Quy Ho",
+   "Visita a las colinas de té de Tan Uyen",
+   "Visita al pueblo de Sin Sui Ho",
+   "Descubrimiento de las cuevas de Pu Sam Cap",
+   "Transporte en coche privado",
+   "Guía local que conoce bien la zona"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Cascada de Thac Bac, Cascada del Amor y El árbol solitario de O Quy Ho. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: día en coche entre cascadas, plantación de té y cueva",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: visita a Thac Bac. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "muong-hoa-valley-trek-2-days-with-francophone-guide-in-sapa": {
+  "title": "Valle de Muong Hoa: trekking de 2 días con guía de habla francesa",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye el tour incluye, 1 desayuno, 2 almuerzos y 1 cena, 1 noche de alojamiento, 1 litro de agua por persona y día y entradas al parque nacional. No incluye la visita no incluye, seguro de viaje personal, bebidas adicionales durante la caminata y agua embotellada o cerveza), así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "El tour incluye",
+   "1 desayuno, 2 almuerzos y 1 cena",
+   "1 noche de alojamiento (campamento base)",
+   "1 litro de agua por persona y día",
+   "Entradas al parque nacional"
+  ],
+  "included": [
+   "El tour incluye:",
+   "1 desayuno, 2 almuerzos y 1 cena",
+   "1 noche de alojamiento (campamento base)",
+   "1 litro de agua por persona y día",
+   "Entradas al parque nacional",
+   "Guía de habla inglesa",
+   "Apoyo de porteadores",
+   "Transporte de ida y vuelta de Sapa al puerto de Tram Ton"
+  ],
+  "notIncluded": [
+   "La visita no incluye",
+   "Seguro de viaje personal",
+   "Bebidas adicionales durante la caminata (por ejemplo,",
+   "agua embotellada o cerveza)",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye el tour incluye, 1 desayuno, 2 almuerzos y 1 cena y 1 noche de alojamiento. Operador: Francophone Trek Sapa, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Valle de Muong Hoa: trekking de 2 días con guía de habla francesa",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: el tour incluye. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "self-guided-hmong-beeswax-painting-workshop-in-sapa": {
   "title": "Sapa: taller libre de pintura hmong con cera de abeja",
@@ -7192,6 +8150,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ruta de Ha Giang: 3 días y 2 noches con easy rider de LOOPERS",
   "metaDescription": "Tour de 3 días en Sapa. Incluye: todas las entradas y tasas de visita. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "1-day-trekking-through-terraced-rice-fields-in-sapa": {
+  "title": "Sapa: trekking de un día por los arrozales en terrazas",
+  "fullDescription": "Esta es una experiencia desde Sapa, centrada en Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye recogida y regreso al hotel, transporte durante el tour, guía durante el tour, comida durante la visita y 1,5 litros de agua. No incluye bebidas y propinas, gastos personales y todos los demás servicios no indicados claramente como incluidos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lao Chai",
+   "Ta Van",
+   "Recogida y regreso al hotel",
+   "Transporte durante el tour",
+   "Guía de habla inglesa durante el tour",
+   "Comida durante la visita"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte durante el tour",
+   "Guía de habla inglesa durante el tour",
+   "Comida durante la visita",
+   "1,5 litros de agua",
+   "Entradas para los pueblos"
+  ],
+  "notIncluded": [
+   "Bebidas y propinas",
+   "Gastos personales",
+   "Todos los demás servicios no indicados claramente como incluidos"
+  ],
+  "shortDescription": "Tour en Sapa, con 8V94+Pf2, Lao Chai y Ta Van. Operador: Sapa Nomad, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de un día por los arrozales en terrazas",
+  "metaDescription": "Tour en Sapa. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "silver-waterfall-and-love-waterfall-day-trip-in-sapa": {
   "title": "Sapa: día en las cascadas de Plata y del Amor",
   "fullDescription": "Esta es una experiencia de 7 horas desde Sapa, centrada en Cascada de Thac Bac, Cascada del Amor y Sin Chai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte en furgoneta, guía en persona, visita a las cascadas de Plata y del Amor, caminata hasta un pueblo tradicional y encuentro con los hmong. No incluye gastos personales y propinas para el guía y el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHoàng Văn Thụ, tt. Sa Pa, Sa Pa, Lào Cai, Việt Nam. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7241,6 +8227,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Sapa, con Bản Ý Linh Hồ, Pueblo de Lao Chai y Ta Van. Operador: Saigonese Trekking House, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: medio día con easy riders entre pueblos y arrozales",
   "metaDescription": "Tour de 3 horas en Sapa. Incluye: agua embotellada y easy riders. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "90-min-daily-sapa-paragliding-tour-hotel-transfer-included-by-local-operator": {
+  "title": "Sapa: parapente de 90 minutos con traslado desde el hotel",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye guía que habla inglés y vietnamita, instructor profesional certificado y todo el equipo de seguridad, recogida y regreso al hotel, seguro que facilita el operador y vuelo en parapente biplaza. No incluye otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. SAPA PARAGLIDING.,JSC confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Guía que habla inglés y vietnamita",
+   "Instructor profesional certificado y todo el equipo de seguridad necesario",
+   "Recogida y regreso al hotel",
+   "Seguro que facilita el operador",
+   "Vuelo en parapente biplaza (de 10 a 15 minutos; según las condiciones, el piloto puede volar más tiempo)"
+  ],
+  "included": [
+   "Guía que habla inglés y vietnamita",
+   "Instructor profesional certificado y todo el equipo de seguridad necesario",
+   "Recogida y regreso al hotel",
+   "Seguro que facilita el operador",
+   "Vuelo en parapente biplaza (de 10 a 15 minutos; según las condiciones, el piloto puede volar más tiempo)",
+   "Vídeo y fotos con GoPro a cargo de Sapa Paragliding",
+   "Certificado de vuelo",
+   "Bebidas en la zona de despegue",
+   "Sin coste adicional por ampliar el vuelo (si el tiempo lo permite)",
+   "Sin coste adicional por volar con mascotas",
+   "Sin suplemento por cambiar la fecha del vuelo ni gastos de cancelación si hace mal tiempo"
+  ],
+  "notIncluded": [
+   "Otros gastos personales"
+  ],
+  "shortDescription": "Tour en Sapa, que incluye guía que habla inglés y vietnamita, instructor profesional certificado y todo el equipo de seguridad y recogida y regreso al hotel. Operador: SAPA PARAGLIDING.,JSC, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: parapente de 90 minutos con traslado desde el hotel",
+  "metaDescription": "Tour en Sapa. Incluye: guía que habla inglés y vietnamita. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "discover-the-secrets-of-the-red-dao-a-healing-journey-in-sapa": {
   "title": "Sapa: los secretos de los dao rojos, un viaje de bienestar",
@@ -7657,6 +8674,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ninh Binh y Sapa: 3 días de trekking con tren",
   "metaDescription": "Tour en Sapa. Incluye: ruta panorámica hasta Ninh Binh. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "3-day-2-night-sapa-tour-with-fansipan-peak": {
+  "title": "Sapa: 3 días y 2 noches con la cima del Fansipan",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta en autobús de lujo entre Hanói y Sapa, guía de habla inglesa en Sapa, 3 comidas, 2 desayunos, entradas a los lugares mencionados y alojamiento en habitación doble compartida en Sapa. No incluye gastos personales y propinas y billetes del teleférico del Fansipan, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Traslado de ida y vuelta en autobús de lujo entre Hanói y Sapa (opcional)",
+   "Guía local de habla inglesa en Sapa",
+   "3 comidas, 2 desayunos",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en habitación doble compartida en Sapa"
+  ],
+  "included": [
+   "Traslado de ida y vuelta en autobús de lujo entre Hanói y Sapa (opcional)",
+   "Guía local de habla inglesa en Sapa",
+   "3 comidas, 2 desayunos",
+   "Entradas a los lugares mencionados",
+   "Alojamiento en habitación doble compartida en Sapa",
+   "Uso de la piscina"
+  ],
+  "notIncluded": [
+   "Gastos personales y propinas",
+   "Billetes del teleférico del Fansipan"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye traslado de ida y vuelta en autobús de lujo entre Hanói y Sapa, guía de habla inglesa en Sapa y 3 comidas, 2 desayunos. Operador: DragonflyCruise, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: 3 días y 2 noches con la cima del Fansipan",
+  "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "sapa-2-day-trekking-tour-with-bungalow": {
   "title": "Sapa: trekking de 2 días con noche en bungaló",
   "fullDescription": "Esta es una experiencia de 2 días desde Sapa, centrada en Itinerario del día 1 y Día 2. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSa Pa está a 1.600 metros en las montañas Hoang Lien, cerca de la frontera china: una estación de montaña francesa de los años veinte que hoy es la base para hacer trekking por los valles en terrazas de las aldeas hmong, dao y giay. La caminata clásica baja desde el pueblo por Cat Cat o Y Linh Ho hasta Lao Chai y Ta Van, a lo largo del valle de Muong Hoa, de cinco a seis horas, con comida en una casa del pueblo y, en la versión de dos días, noche en un homestay; la mayoría de los trekkings los guían mujeres hmong de la zona, y los senderos quedan embarrados después de la lluvia. El Fansipan, el pico más alto de Indochina con 3.143 metros, se sube en 15 minutos de teleférico o en dos días a pie. Las terrazas están inundadas y como espejos en mayo y junio, y doradas en septiembre; de diciembre a febrero hace frío, hay niebla a menudo y de vez en cuando nieva. El mercado dominical de Bac Ha, a dos horas, es el gran mercado de los hmong de las flores.\n\nEl precio incluye 1 noche de alojamiento en un homestay, comidas: 1 desayuno, 2 almuerzos, 1 cena, transporte en autobús de ida y vuelta entre Hanói y Sapa, guía en persona y actividades de trekking. No incluye gastos personales, seguro de viaje y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -7683,6 +8727,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 días en Sapa, con Itinerario del día 1 y Día 2. Operador: VIETNAM TREASURES TRAVEL CO , LTD, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking de 2 días con noche en bungaló",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: 1 noche de alojamiento en un homestay. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sapa-mountains-fansipan-peak-and-ethnic-village-tour": {
+  "title": "Sapa: montañas, cima del Fansipan y pueblos",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye ida y vuelta desde Hanói, alojamiento en hotel, guía turístico, las comidas indicadas y entrada al pueblo de Cat Cat. No incluye propinas para el guía y el conductor, suplemento en festivos y suplemento por viajar solo o por habitación individual, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. Vn biketour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Transporte de ida y vuelta Hanói - Sapa en autobús cama cómodo (sin guía a bordo)",
+   "Alojamiento en hotel (1 noche en Sapa)",
+   "Guía de habla inglesa (suplemento para otros idiomas)",
+   "Comidas indicadas (1 desayuno, 2 almuerzos, 1 cena)",
+   "Entrada al pueblo de Cat Cat"
+  ],
+  "included": [
+   "Transporte de ida y vuelta Hanói - Sapa en autobús cama cómodo (sin guía a bordo)",
+   "Alojamiento en hotel (1 noche en Sapa).",
+   "Guía de habla inglesa (suplemento para otros idiomas)",
+   "Comidas indicadas (1 desayuno, 2 almuerzos, 1 cena).",
+   "Entrada al pueblo de Cat Cat.",
+   "Bottled drinking water.",
+   "Recogida y regreso al hotel (zonas seleccionadas).",
+   "Todas las visitas y actividades indicadas en el itinerario."
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el conductor (opcionales)",
+   "Suplemento en festivos",
+   "Suplemento por viajar solo o por habitación individual"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye ida y vuelta desde Hanói, alojamiento en hotel y guía turístico. Operador: Vn biketour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: montañas, cima del Fansipan y pueblos",
+  "metaDescription": "Tour de 2 días en Sapa. Incluye: ida y vuelta desde Hanói. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "sapa-tour-overnight-in-ta-van-village-all-in-one-2-days": {
   "title": "Sapa: 2 días todo incluido con noche en el pueblo de Ta Van",
@@ -23423,6 +24497,42 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: visita guiada al mercado y cena de hotpot",
   "metaDescription": "Tour de 2,5 horas en Sapa. Incluye: paseo guiado hasta el mercado de Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "from-cao-bang-3-day-ha-giang-loop-w-safe-rider-max-8-pax-sapa": {
+  "title": "Desde Cao Bang: ruta de Ha Giang en 3 días con conductor (máx. 8 personas)",
+  "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1. Billete de autobús de Cao Bang a Ha Giang y autobús cama, 2. Recogida en tu hotel del centro de Cao Bang y regreso, 3. Moto, 4. Guía de habla inglesa con experiencia y 5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas. No incluye 1. Tasa del permiso fronterizo, 2. Bebidas que no sean agua embotellada, 3. Gastos personales y 4. Seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. TripBestie confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 días",
+   "1. Billete de autobús de Cao Bang a Ha Giang y billete de autobús cama si eliges la opción de regreso correspondiente",
+   "2. Recogida en tu hotel del centro de Cao Bang y regreso si eliges la opción correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas"
+  ],
+  "included": [
+   "1. Billete de autobús de Cao Bang a Ha Giang y billete de autobús cama si eliges la opción de regreso correspondiente",
+   "2. Recogida en tu hotel del centro de Cao Bang y regreso si eliges la opción correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 3 desayunos + 3 almuerzos + 2 cenas",
+   "7. Entradas",
+   "8. Paseo en barco por el río Nho Que",
+   "9. Agua embotellada sin límite y licor de maíz",
+   "10. Casco de calidad, chaqueta de abrigo, rodilleras y coderas, chubasquero, mochila pequeña, cojín de asiento",
+   "11. Consigna de equipaje gratuita (taquilla con un pequeño suplemento)",
+   "12. Camiseta de finisher al terminar el tour"
+  ],
+  "notIncluded": [
+   "1. Tasa del permiso fronterizo (10 $ por persona)",
+   "2. Bebidas que no sean agua embotellada",
+   "3. Gastos personales",
+   "4. Seguro de viaje",
+   "5. Propinas para el guía y los conductores",
+   "6. Suplemento que aplican los operadores de tours y autobuses durante las fiestas nacionales de Vietnam (Año Nuevo y Año Nuevo Lunar, Día de la Liberación, Día de la Independencia de Vietnam)"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye 1. Billete de autobús de Cao Bang a Ha Giang y autobús cama, 2. Recogida en tu hotel del centro de Cao Bang y regreso y 3. Moto. Operador: TripBestie, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Desde Cao Bang: ruta de Ha Giang en 3 días con conductor (máx. 8 personas)",
+  "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "from-cao-bang-2-day-ha-giang-loop-w-safe-rider-max-8-pax-sapa": {
   "title": "Desde Cao Bang: ruta de Ha Giang en 2 días con conductor (máx. 8 personas)",
   "fullDescription": "Esta es una experiencia de 2,5 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1. Billete de autobús de Cao Bang a Ha Giang y autobús cama, 2. Recogida en tu hotel del centro de Cao Bang y regreso, 3. Moto, 4. Guía de habla inglesa con experiencia y 5. Comidas: 2 desayunos, 2 almuerzos y 1 cena. No incluye 1. Tasa del permiso fronterizo, 2. Bebidas que no sean agua embotellada, 3. Gastos personales y 4. Seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. TripBestie confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -23479,6 +24589,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Mu Cang Chai: día completo de trekking y moto",
   "metaDescription": "Tour de medio día en Sapa. Incluye: recogida y regreso al hotel y comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sapa-in-style-private-luxury-limousine-tour-sapa": {
+  "title": "Sapa con estilo: tour privado en limusina de lujo",
+  "fullDescription": "Esta es una experiencia de 8 horas en Sapa, centrada en Pueblo de Cat Cat, Moana Sapa y Alpine Coaster Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte en limusina privada, visita al pueblo de Cat Cat, visita al Moana Café y su mirador, vuelta opcional en el Alpine Coaster y visita al mercado de Sapa. No incluye comidas, gastos personales y entradas de las actividades opcionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Cat Cat",
+   "Moana Sapa",
+   "Alpine Coaster Sapa",
+   "Mercado de Sapa",
+   "Duración: 8 horas",
+   "Transporte en limusina privada"
+  ],
+  "included": [
+   "Transporte en limusina privada",
+   "Visita al pueblo de Cat Cat",
+   "Visita al Moana Café y su mirador",
+   "Vuelta opcional en el Alpine Coaster",
+   "Visita al mercado de Sapa",
+   "Visita a la cascada de Plata",
+   "Visita a la cascada del Amor",
+   "Recorrido por el puerto de O Quy Ho",
+   "Visita al puente de cristal de Rong May"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Entradas de las actividades opcionales"
+  ],
+  "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat, Moana Sapa y Alpine Coaster Sapa. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa con estilo: tour privado en limusina de lujo",
+  "metaDescription": "Tour de día completo en Sapa. Incluye: transporte en limusina privada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "4-day-trekking-tour-with-homestay-in-sapa": {
   "title": "Sapa: trekking de 4 días con homestay",
   "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recorrido de trekking de 4 días por Sapa, senderos de montaña con vistas, visitas a pueblos remotos, encuentros con las comunidades locales y homestays en el pueblo. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -23503,6 +24644,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sapa: trekking de 4 días con homestay",
   "metaDescription": "Tour de 4 días en Sapa. Incluye: recorrido de trekking de 4 días por Sapa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "2-day-trek-to-sin-chai-village-and-muong-hoa-valley-in-sapa": {
+  "title": "Sapa: trekking de 2 días al pueblo de Sin Chai y al valle de Muong Hoa",
+  "fullDescription": "Esta es una experiencia de 2 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel en el centro de Sapa, transporte para los tramos que requieren vehículo, guía de trekking de habla inglesa, 2 comidas caseras locales y tasas de acceso a los pueblos y senderos. No incluye propinas y se aplica suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. SST Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 días",
+   "Recogida y regreso al hotel en el centro de Sapa",
+   "Transporte para los tramos que requieren vehículo",
+   "Guía de trekking local de habla inglesa",
+   "2 comidas caseras locales",
+   "Tasas de acceso a los pueblos y senderos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en el centro de Sapa",
+   "Transporte para los tramos que requieren vehículo",
+   "Guía de trekking local de habla inglesa",
+   "2 comidas caseras locales",
+   "Tasas de acceso a los pueblos y senderos",
+   "Alojamiento en Sapa (1 noche, según la opción elegida)",
+   "Agua embotellada durante el trekking"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Se aplica suplemento por festivos (consulta la información importante)"
+  ],
+  "shortDescription": "Tour de 2 días en Sapa, que incluye recogida y regreso al hotel en el centro de Sapa, transporte para los tramos que requieren vehículo y guía de trekking de habla inglesa. Operador: SST Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 2 días al pueblo de Sin Chai y al valle de Muong Hoa",
+  "metaDescription": "Tour de 2 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "ultimate-motorbike-odyssey-waterfalls-and-o-quy-ho-pass-in-sapa": {
   "title": "Sapa: gran ruta en moto, cascadas y puerto de O Quy Ho",
   "fullDescription": "Esta es una experiencia de 7 horas en Sapa, centrada en Pueblo de Cat Cat, Pueblo de Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye agua embotellada y consigna de equipaje en Sapa. No incluye seguro y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSa Pa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -23525,6 +24694,40 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat, Pueblo de Lao Chai y Ta Van. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: gran ruta en moto, cascadas y puerto de O Quy Ho",
   "metaDescription": "Tour de día completo en Sapa. Incluye: agua embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ninh-binh-unesco-and-sapa-trekking-3d-sleeper-dcar": {
+  "title": "Ninh Binh UNESCO y trekking en Sapa: 3 días en autobús cama y Dcar",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida en el hotel en el Barrio Antiguo de Hanói, traslado en autobús estándar Hanói - Ninh Binh, traslado de regreso Sapa - Hanói en limusina Dcar, guía local y 1 noche en autobús cama de Hanói a Sapa. No incluye cena los días 1 y 2, propinas y se aplica suplemento por festivos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. SST Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Recogida en el hotel en el Barrio Antiguo de Hanói",
+   "Traslado en autobús estándar Hanói - Ninh Binh",
+   "Traslado de regreso Sapa - Hanói en limusina Dcar",
+   "Guía local de habla inglesa",
+   "1 noche en autobús cama de Hanói a Sapa"
+  ],
+  "included": [
+   "Recogida en el hotel en el Barrio Antiguo de Hanói",
+   "Traslado en autobús estándar Hanói - Ninh Binh",
+   "Traslado de regreso Sapa - Hanói en limusina Dcar",
+   "Guía local de habla inglesa",
+   "1 noche en autobús cama de Hanói a Sapa",
+   "1 noche en Sapa (hoteles de 3, 4 o 5 estrellas)",
+   "Paseo en sampán por Tam Coc",
+   "Entradas a todas las atracciones",
+   "Trekking guiado por Y Linh Ho, Lao Chai y Ta Van",
+   "Vehículo de apoyo durante el trekking",
+   "Comidas: desayuno y almuerzo según el itinerario",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Cena los días 1 y 2",
+   "Propinas",
+   "Se aplica suplemento por festivos (consulta la información importante)"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye recogida en el hotel en el Barrio Antiguo de Hanói, traslado en autobús estándar Hanói - Ninh Binh y traslado de regreso Sapa - Hanói en limusina Dcar. Operador: SST Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ninh Binh UNESCO y trekking en Sapa: 3 días en autobús cama y Dcar",
+  "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "waterfalls-and-pu-sam-cap-cave-motorbike-adventure-in-sapa": {
   "title": "Sapa: aventura en moto entre cascadas y las cuevas de Pu Sam Cap",
@@ -23728,6 +24931,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapa, con Pueblo de Cat Cat, Bản Ý Linh Hồ y Pueblo de Lao Chai. Operador: Saigonese Trekking House, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sa Pa: día en coche entre pueblos y aguas termales",
   "metaDescription": "Tour de día completo en Sapa. Incluye: agua embotellada, comida y coche. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "3-day-trekking-tour-with-bungalow-stay-in-sapa": {
+  "title": "Sapa: trekking de 3 días con noches en bungaló",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa, centrada en Pueblo de Ta Van, Pueblo de Lao Chai y Pueblo de Y Linh Ho. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 3 días de trekking guiado, 2 noches en bungaló privado en el pueblo de Ta Van, comidas vietnamitas tradicionales, visitas a pueblos de minorías y senderos de montaña con vistas. No incluye transporte de ida y vuelta a Sapa, gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Ta Van",
+   "Pueblo de Lao Chai",
+   "Pueblo de Y Linh Ho",
+   "Giang Ta Chai",
+   "Duración: 3 días",
+   "3 días de trekking guiado"
+  ],
+  "included": [
+   "3 días de trekking guiado",
+   "2 noches en bungaló privado en el pueblo de Ta Van",
+   "Comidas vietnamitas tradicionales",
+   "Visitas a pueblos de minorías",
+   "Senderos de montaña con vistas",
+   "Guía local"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta a Sapa",
+   "Gastos personales",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, con Pueblo de Ta Van, Pueblo de Lao Chai y Pueblo de Y Linh Ho. Operador: Ethnic Community Cultural Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 3 días con noches en bungaló",
+  "metaDescription": "Tour de 3 días en Sapa. Incluye: 3 días de trekking guiado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "4-day-4-night-ha-giang-loop-small-group-tour": {
   "title": "Ruta de Ha Giang: 4 días y 4 noches en grupo reducido",
@@ -24333,6 +25564,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ruta de Mu Cang Chai desde Sapa: 2 días en moto",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: conductor local y alojamiento en homestay. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sapa-3-day-medium-trek-and-limousine-trip": {
+  "title": "Sapa: trekking de 3 días de nivel medio y viaje en limusina",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye limusina climatizada moderna de Hanói a Sapa y, autobús moderno en Sapa con conductor experimentado, guía local en Sapa, 2 cenas, 3 almuerzos, 2 desayunos y todas las entradas a los lugares indicados. No incluye bebidas, gastos personales y propinas para el guía o el conductor, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Limusina climatizada moderna de ida y vuelta entre Hanói y Sapa",
+   "Autobús moderno en Sapa con conductor experimentado",
+   "Guía local de habla inglesa en Sapa",
+   "2 cenas, 3 almuerzos, 2 desayunos",
+   "Todas las entradas a los lugares indicados"
+  ],
+  "included": [
+   "Limusina climatizada moderna de ida y vuelta entre Hanói y Sapa",
+   "Autobús moderno en Sapa con conductor experimentado",
+   "Guía local de habla inglesa en Sapa",
+   "2 cenas, 3 almuerzos, 2 desayunos",
+   "Todas las entradas a los lugares indicados",
+   "2 noches de alojamiento (según la opción elegida)"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Gastos personales",
+   "Propinas para el guía o el conductor"
+  ],
+  "shortDescription": "Tour de 3 días en Sapa, que incluye limusina climatizada moderna de Hanói a Sapa y, autobús moderno en Sapa con conductor experimentado y guía local en Sapa. Operador: Crossing Vietnam Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: trekking de 3 días de nivel medio y viaje en limusina",
+  "metaDescription": "Tour de 3 días en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "sapa-2-day-tour-with-easy-rider-and-bus-transfer": {
   "title": "Sapa: 2 días con easy rider y traslado en autobús",
   "fullDescription": "Esta es una experiencia de 2 días en Sapa, centrada en Autobús cama de Hanói a Sapa, Valle de Muong Hoa y Puerto de O Quy Ho. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1 desayuno, comida x 1, 1 noche en un homestay de Sapa, guía y agua embotellada. No incluye entrada al puente de cristal de Rong May y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -24385,6 +25644,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Sapa, con Bản Ý Linh Hồ, Pueblo de Lao Chai y Ta Van. Operador: Saigonese Trekking House, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: trekking hacia los pueblos de Y Linh Ho, Lao Chai y Ta Van",
   "metaDescription": "Tour de medio día en Sapa. Incluye: comida y agua embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sapa-cultural-backroads-motorbike-experience-sapa": {
+  "title": "Sapa: carreteras secundarias y cultura local en moto",
+  "fullDescription": "Esta es una experiencia de 3 horas en Sapa, centrada en Pueblo de Cat Cat, Pueblo de Lao Chai y Ta Van. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye conductor de moto y guía local, visita a Cat Cat, Y Linh Ho y Lao Chai, visita cultural a la casa de una familia de una minoría local, agua embotellada durante el tour y entradas a los pueblos y a los senderos locales. No incluye seguro de viaje personal, comida y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNhà Thờ Đá Sapa. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de Cat Cat",
+   "Pueblo de Lao Chai",
+   "Ta Van",
+   "Duración: 3 horas",
+   "Conductor de moto y guía local con experiencia",
+   "Visita a los pueblos de Cat Cat, Y Linh Ho, Lao Chai y Ta Van"
+  ],
+  "included": [
+   "Conductor de moto y guía local con experiencia",
+   "Visita a los pueblos de Cat Cat, Y Linh Ho, Lao Chai y Ta Van",
+   "Visita cultural a la casa de una familia de una minoría local",
+   "Agua embotellada durante el tour",
+   "Entradas a los pueblos y a los senderos locales",
+   "Paradas para fotos en los miradores",
+   "Experiencia cultural en grupo reducido"
+  ],
+  "notIncluded": [
+   "Seguro de viaje personal",
+   "Comida y bebidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 3 horas en Sapa, con Pueblo de Cat Cat, Pueblo de Lao Chai y Ta Van. Operador: Ethnic Community Cultural Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: carreteras secundarias y cultura local en moto",
+  "metaDescription": "Tour de 3 horas en Sapa. Incluye: conductor de moto y guía local. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "high-altitude-pass-and-glass-bridge-private-tour-in-sapa": {
   "title": "Sapa: puerto de montaña y puente de cristal en privado",
@@ -24485,6 +25773,42 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 días en Sapa, que incluye guía, saco de dormir y botella de agua. Operador: Saigonese Trekking House, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Monte Fansipan: trekking de 2 días",
   "metaDescription": "Tour de 2 días en Sapa. Incluye: guía, saco de dormir y botella de agua. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "4-day-ha-giang-loop-with-safe-rider-max-8-pax": {
+  "title": "Ruta de Ha Giang: 4 días con conductor (máx. 8 personas)",
+  "fullDescription": "Esta es una experiencia de 4 días en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1. Billetes de autobús de Sapa a Ha Giang y de Ha Giang a, 2. Recogida en tu hotel del centro de Sapa y regreso, 3. Moto, 4. Guía de habla inglesa con experiencia y 5. Comidas: 4 desayunos, 4 almuerzos, 3 cenas. No incluye 1. Tasa del permiso fronterizo, 2. Bebidas que no sean agua embotellada, 3. Gastos personales y 4. Seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapa. TripBestie confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 días",
+   "1. Billetes de autobús de Sapa a Ha Giang y de Ha Giang a Hanói, Ninh Binh, Ha Long o Cat Ba si eliges la opción de regreso correspondiente",
+   "2. Recogida en tu hotel del centro de Sapa y regreso si eliges la opción correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 4 desayunos, 4 almuerzos, 3 cenas"
+  ],
+  "included": [
+   "1. Billetes de autobús de Sapa a Ha Giang y de Ha Giang a Hanói, Ninh Binh, Ha Long o Cat Ba si eliges la opción de regreso correspondiente",
+   "2. Recogida en tu hotel del centro de Sapa y regreso si eliges la opción correspondiente",
+   "3. Moto (110 cc), combustible y conductor local profesional",
+   "4. Guía de habla inglesa con experiencia",
+   "5. Comidas: 4 desayunos, 4 almuerzos, 3 cenas",
+   "7. Entradas",
+   "8. Paseo en barco por el río Nho Que",
+   "9. Agua embotellada sin límite y licor de maíz",
+   "10. Casco de calidad, chaqueta de abrigo, rodilleras y coderas, chubasquero, mochila pequeña, cojín de asiento",
+   "11. Consigna de equipaje gratuita (taquilla con un pequeño suplemento)",
+   "12. Camiseta de finisher"
+  ],
+  "notIncluded": [
+   "1. Tasa del permiso fronterizo (10 $ por persona)",
+   "2. Bebidas que no sean agua embotellada",
+   "3. Gastos personales",
+   "4. Seguro de viaje",
+   "5. Propinas para el guía y los conductores",
+   "6. Suplemento que aplican los operadores de tours y autobuses durante las fiestas nacionales de Vietnam (Año Nuevo y Año Nuevo Lunar, Día de la Liberación, Día de la Independencia de Vietnam)"
+  ],
+  "shortDescription": "Tour en Sapa, que incluye 1. Billetes de autobús de Sapa a Ha Giang y de Ha Giang a, 2. Recogida en tu hotel del centro de Sapa y regreso y 3. Moto. Operador: TripBestie, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ruta de Ha Giang: 4 días con conductor (máx. 8 personas)",
+  "metaDescription": "Tour en Sapa. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "private-highlights-day-tour-with-lunch-in-sapa": {
   "title": "Sapa: día privado por lo mejor de la zona, con comida",
@@ -24611,6 +25935,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 horas en Sapa, que incluye bebida de bienvenida, cena y guías. Operador: Ethnic Community Tours, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sapa: taller de elaboración de tofu",
   "metaDescription": "Tour de 2 horas en Sapa. Incluye: bebida de bienvenida, cena y guías. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "h-mong-traditional-beeswax-batik-in-sapa": {
+  "title": "Sapa: batik tradicional hmong con cera de abeja",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Sapa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye taller de batik guiado por una artesana hmong, todos los materiales y herramientas, tu obra de batik personalizada para llevarte, guía o traductor y té o infusión durante la sesión. No incluye transporte de ida y vuelta al lugar del taller, gastos personales y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "Taller de batik guiado por una artesana hmong",
+   "Todos los materiales y herramientas (tela, cera de abeja, tjanting, tinte natural de índigo, etc.)",
+   "Tu obra de batik personalizada para llevarte",
+   "Guía o traductor de habla inglesa (si es necesario)",
+   "Té o infusión durante la sesión"
+  ],
+  "included": [
+   "Taller de batik guiado por una artesana hmong",
+   "Todos los materiales y herramientas (tela, cera de abeja, tjanting, tinte natural de índigo, etc.)",
+   "Tu obra de batik personalizada para llevarte",
+   "Guía o traductor de habla inglesa (si es necesario)",
+   "Té o infusión durante la sesión"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta al lugar del taller",
+   "Gastos personales",
+   "Seguro de viaje"
+  ],
+  "shortDescription": "Tour en Sapa, que incluye taller de batik guiado por una artesana hmong, todos los materiales y herramientas y tu obra de batik personalizada para llevarte. Operador: Saigonese Trekking House, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sapa: batik tradicional hmong con cera de abeja",
+  "metaDescription": "Tour en Sapa. Incluye: taller de batik guiado por una artesana hmong. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "mu-cang-chai-motorbike-adventure-with-waterfalls-and-villages-sapa": {
   "title": "Mu Cang Chai: aventura en moto entre cascadas y pueblos",
